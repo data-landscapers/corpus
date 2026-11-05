@@ -50,9 +50,9 @@ eparticipation,eparticipation,include.access--citizen-participation-in-policy,20
 exchangepoints,exchange,infra.connect--internet-exchange-points,2026-11-04,118,63,81
 feedbackportals,feedback,include.access--citizen-feedback-portals,2026-11-04,118,63,88
 fibrebackbone,backbone,infra.connect--national-fibre-backbone,2026-11-04,118,63,126
-g2ppayments,g2p,dpi.pay--g2p-functionality,,,,
-gendergap,gender,include.access--gender-equity,,,,
-gridreliability,outages,infra.energy--grid-reliability,,,,
+g2ppayments,g2p,dpi.pay--g2p-functionality,2026-11-05,35,36,119
+gendergap,gender,include.access--gender-equity,2026-11-05,35,36,14
+gridreliability,outages,infra.energy--grid-reliability,2026-11-05,35,36,32
 health,hmis,digital.rural--digitalisation-of-rural-health-clinics-hmis,2026-10-11,,,
 health,emr,digital.rural--digitalisation-of-rural-health-clinics-emr,2026-10-10,,,
 healthexchange,exchange,dpi.exchange--interoperability-of-health-systems,,,,

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "outages",
+ "aspect": "outages",
+ "fact": "National SAIFI for 2025 was 64.04 interruptions per customer (SAIDI 147.83 hours), up from 53.30 in 2024.",
+ "title": "Rapport ARSEL 2025",
+ "publisher": "Agence de Régulation du Secteur de l'Electricité (ARSEL)",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

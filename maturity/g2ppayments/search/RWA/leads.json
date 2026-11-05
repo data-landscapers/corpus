@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://www.loda.gov.rw/updates/news-detail/loda-launches-awareness-campaign-to-help-vup-recipients-access-support-through-digital-payments",
+  "title": "LODA launches awareness campaign to help VUP recipients access support through digital payments",
+  "publisher": "LODA",
+  "published": "2025-08-30",
+  "sub_indicator": "g2p",
+  "why": "Q2/Q4: VUP digital payments linked to SIM and national ID"
+ },
+ {
+  "url": "https://www.afi-global.org/wp-content/uploads/2024/10/AFI_MS_Rwanda_AW_digital.pdf",
+  "title": "The role of social protection programs",
+  "publisher": "Alliance for Financial Inclusion",
+  "published": "2024",
+  "sub_indicator": "g2p",
+  "why": "Q2/Q3: VUP paid via accounts, no cash"
+ },
+ {
+  "url": "https://thedocs.worldbank.org/en/doc/2a0b8d78a9f56691a6a68b0905037412-0050112023/original/11-DPI-Workshop-G2P-Interoperability-Rwanda.pdf",
+  "title": "DPI Use case: Rwanda Digital G2P Payment",
+  "publisher": "World Bank",
+  "published": "2023",
+  "sub_indicator": "g2p",
+  "why": "Q2/Q4: G2P programmes and registry"
+ }
+]

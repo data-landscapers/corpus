@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "outages",
+ "aspect": "outages",
+ "fact": "National SAIFI achieved in 2023 was 29.84 interruptions per customer against a contractual target of 21.8.",
+ "title": "Rapport d'activités 2023 de l'ARSEL",
+ "publisher": "Agence de Régulation du Secteur de l'Electricité (ARSEL)",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

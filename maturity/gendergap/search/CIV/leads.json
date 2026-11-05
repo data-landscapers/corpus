@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://www.artci.ci/wp-content/uploads/2026/06/Rsum_Excutif_MSI_2024_200226.pdf",
+  "title": "Résumé Exécutif, enquête MSI 2024",
+  "publisher": "ARTCI",
+  "published": "2026",
+  "sub_indicator": "gender",
+  "why": "Q1-4: internet use men 44.5 women 38.3 (2024)"
+ },
+ {
+  "url": "https://www.itu.int/itu-d/meetings/wp-content/uploads/IPS/documents/20/18_ITU_EGH2024_CountryExperience_CoteDIvoire_JacquesNguessan.pdf",
+  "title": "Enquête de la mesure de la société de l'information (Côte d'Ivoire)",
+  "publisher": "ARTCI / ITU",
+  "published": "2024-09-25",
+  "sub_indicator": "gender",
+  "why": "Q1-4: 2023 internet users 61.0 men, 44.8 women"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/reports/ci/",
+  "title": "Country Report for Côte d'Ivoire",
+  "publisher": "Internet Society Pulse",
+  "published": "2024",
+  "sub_indicator": "gender",
+  "why": "Q1-4: female 38, male 45 (2024)"
+ }
+]

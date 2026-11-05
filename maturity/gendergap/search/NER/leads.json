@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://stat-niger.org/wp-content/uploads/rapport_enquete/RAPPORT_FINAL_ENQUETE_TIC_2025_Validation_09_04_2026.pdf",
+  "title": "Rapport d'analyse des données de l'enquête sur l'accès des ménages et des individus aux TIC au Niger en 2025",
+  "publisher": "Institut National de la Statistique du Niger",
+  "published": "2026",
+  "sub_indicator": "gender",
+  "why": "Q1-4: internet use by sex, 2025 survey"
+ },
+ {
+  "url": "https://www.stat-niger.org/?publication_recente=enquete-nationale-sur-linclusion-financiere-numerique-et-les-usages-des-technologies-de-linformation-et-de-la-communication-tic-au-niger-novembre-2022",
+  "title": "Enquête Nationale sur l'Inclusion Financière Numérique et les usages des TICs au Niger, Novembre 2022",
+  "publisher": "Institut National de la Statistique du Niger",
+  "published": "2023-02-27",
+  "sub_indicator": "gender",
+  "why": "Q1-4: 2022 survey ICT use by women"
+ },
+ {
+  "url": "https://www.stat-niger.org/wp-content/uploads/2020/06/Rapport_final_TIC.pdf",
+  "title": "Enquête sur l'accès des ménages aux TIC au Niger",
+  "publisher": "Institut National de la Statistique du Niger",
+  "published": "2020",
+  "sub_indicator": "gender",
+  "why": "Q1-4: internet use 16% men vs 5.3% women"
+ }
+]

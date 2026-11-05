@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://socialprotection.go.ug/wp-content/uploads/mdocs/SAGE%20Handbook%20Finalr.pdf",
+  "title": "The Senior Citizens Grant (SCG) handbook",
+  "publisher": "Ministry of Gender, Labour and Social Development",
+  "published": "",
+  "sub_indicator": "g2p",
+  "why": "Q2/Q4: SAGE paid via Centenary Bank, National ID enrolment"
+ },
+ {
+  "url": "https://fsduganda.or.ug/wp-content/uploads/2020/09/FSD-Uganda_MoGLSD_Social-Protection-Programme-Payment-Guidelines-Uganda.pdf",
+  "title": "Government to Person (G2P) Payment Guidelines",
+  "publisher": "FSD Uganda / MoGLSD",
+  "published": "2020",
+  "sub_indicator": "g2p",
+  "why": "Q2/Q4: SCG electronic payments, NIN verification"
+ },
+ {
+  "url": "https://www.publicservice.go.ug/human-capital-management-system-hcm-facts-and-implementation-progress/",
+  "title": "Human Capital Management System (HCM): Facts and Implementation Progress",
+  "publisher": "Ministry of Public Service",
+  "published": "2021-11-28",
+  "sub_indicator": "g2p",
+  "why": "Q3/Q4: salary and pension payroll, NID verification"
+ },
+ {
+  "url": "https://www.publicservice.go.ug/projects/integrated-personnel-and-payroll-system-ipps/",
+  "title": "Integrated Personnel and Payroll System (IPPS)",
+  "publisher": "Ministry of Public Service",
+  "published": "",
+  "sub_indicator": "g2p",
+  "why": "Q3/Q4: salary pension payroll via IFMS, National ID check"
+ },
+ {
+  "url": "https://budget.finance.go.ug/sites/default/files/National%20Budget%20docs/Overview%20of%20Guidelines%20for%20the%20Decentralised%20Processing%20of%20Government%20Salaries%2C%20Pension%20and%20Gratuity.pdf",
+  "title": "Overview of Guidelines for the Decentralised Processing of Government Salaries, Pension and Gratuity",
+  "publisher": "Ministry of Finance, Planning and Economic Development (Uganda)",
+  "published": "",
+  "sub_indicator": "g2p",
+  "why": "Q3: salaries and pensions by EFT via IFMS"
+ }
+]

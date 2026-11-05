@@ -1,0 +1,18 @@
+[
+ {
+  "url": "https://www.era.go.ug/sector-performance-reports/",
+  "title": "Sector Performance Reports",
+  "publisher": "Electricity Regulatory Authority (Uganda)",
+  "published": "2026-02",
+  "sub_indicator": "outages",
+  "why": "Q1-4: annual performance report for 2024, reliability indices"
+ },
+ {
+  "url": "https://qsel.columbia.edu/assets/uploads/blog/2024/publications/Electricity_Outages_in_Uganda_Causes_Trends_and_Regional_Disparities.pdf",
+  "title": "Electricity Outages in Uganda: Causes, Trends and Regional Disparities",
+  "publisher": "Columbia University QSEL",
+  "published": "2024",
+  "sub_indicator": "outages",
+  "why": "Q1-4: Umeme outage frequency 2015-2021"
+ }
+]

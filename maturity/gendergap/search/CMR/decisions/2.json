@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "gender",
+ "aspect": "gap",
+ "fact": "Among people aged 15-49, 43.8 percent of men and 30.1 percent of women use the internet (a gap of about 31 percent), per the 2024 factbook citing national surveys.",
+ "title": "Women and Men, Girls and Boys in Cameroon 2024",
+ "publisher": "Institut National de la Statistique du Cameroun",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

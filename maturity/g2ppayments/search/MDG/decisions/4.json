@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "payment",
+ "fact": "On 11 July 2024 FID, for the Government of Madagascar, published a tender for payment of FIAVOTA cash transfers by QR code on the PGP platform in eight lots.",
+ "title": "Service pour le paiement des transferts monétaires par QR CODE sur la plateforme PGP pour le financement FSR programme FIAVOTA",
+ "publisher": "FID Madagascar",
+ "published": "2024-07-11",
+ "date_source": "source",
+ "why_not": ""
+}

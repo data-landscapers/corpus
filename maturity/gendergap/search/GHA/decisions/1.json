@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "gender",
+ "aspect": "gap",
+ "fact": "In Research ICT Africa's 2022 After Access survey, Ghana's gap between men and women in internet access was 15 percentage points, with half of adult women having access.",
+ "title": "The state of gender digital inequality in Sub-Saharan Africa: A demand-side analysis",
+ "publisher": "Research ICT Africa",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "outages",
+ "aspect": "outages",
+ "fact": "NAWEC's roadmap says blackouts averaged 45 a month in 2018 and have fallen continuously in the Greater Banjul Area since 2017 to May 2021.",
+ "title": "The Gambia Strategic Electricity Sector Roadmap",
+ "publisher": "NAWEC",
+ "published": "2021",
+ "date_source": "proxy",
+ "why_not": ""
+}

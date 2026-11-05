@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "outages",
+ "aspect": "outages",
+ "fact": "Firms interviewed between October 2024 and January 2025 reported 8.0 electrical outages in a typical month.",
+ "title": "Enterprise Surveys, Burkina Faso 2024 Country Profile",
+ "publisher": "World Bank",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

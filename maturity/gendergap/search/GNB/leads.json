@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://datahub.itu.int/data/?d=Gender&e=GNB&i=11624",
+  "title": "ITU DataHub: Guinea-Bissau gender",
+  "publisher": "ITU",
+  "published": "",
+  "sub_indicator": "gender",
+  "why": "Q1-4: internet use by sex"
+ },
+ {
+  "url": "https://datos.bancomundial.org/indicador/IT.NET.USER.FE.ZS?locations=GW",
+  "title": "Individuals using the Internet, female (% of female population) - Guinea-Bissau",
+  "publisher": "World Bank / ITU",
+  "published": "2025",
+  "sub_indicator": "gender",
+  "why": "Q1-4"
+ },
+ {
+  "url": "https://datareportal.com/reports/digital-2026-guinea-bissau",
+  "title": "Digital 2026: Guinea-Bissau",
+  "publisher": "DataReportal",
+  "published": "2025-11-08",
+  "sub_indicator": "gender",
+  "why": "Q1: gender split of internet use"
+ }
+]

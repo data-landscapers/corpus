@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099845306302225625/pdf/P1593410e8778109a0af2d0a35d43011b68.pdf",
+  "title": "Numérisation des Paiements de l'Etat du Niger (P2G/G2P)",
+  "publisher": "World Bank Group",
+  "published": "",
+  "sub_indicator": "g2p",
+  "why": "Q2/Q3: salaries on bank accounts, pensions, social safety nets"
+ },
+ {
+  "url": "https://anp.ne/bancarisation-des-pensions-le-gouvernement-poursuivra-la-reforme-jusquau-bout-ministre-des-finances/",
+  "title": "Bancarisation des pensions : le gouvernement poursuivra la réforme jusqu'au bout",
+  "publisher": "Agence Nigérienne de Presse",
+  "published": "2023-04-29",
+  "sub_indicator": "g2p",
+  "why": "Q3: pensions paid to bank accounts"
+ },
+ {
+  "url": "https://www.worldbank.org/en/results/2021/07/13/rapid-cash-assistance-to-get-through-the-crisis",
+  "title": "Rapid Cash Assistance to Get Through the Crisis",
+  "publisher": "World Bank",
+  "published": "2021-07-13",
+  "sub_indicator": "g2p",
+  "why": "Q1/Q4: Niger safety net on social registry"
+ },
+ {
+  "url": "https://www.lesahel.org/interview-du-coordonnateur-national-du-projet-wuri-niger/",
+  "title": "Interview du Coordonnateur National du Projet WURI-Niger",
+  "publisher": "Le Sahel",
+  "published": "2024-09-17",
+  "sub_indicator": "g2p",
+  "why": "Q4: ID and social registry linkage"
+ },
+ {
+  "url": "https://www.uncdf.org/wfp-social-transfers-digitization-project-in-niger",
+  "title": "WFP Social Transfers Digitization Project in Niger",
+  "publisher": "UNCDF",
+  "published": "",
+  "sub_indicator": "g2p",
+  "why": "Q1: digitizing social transfers pilot"
+ }
+]

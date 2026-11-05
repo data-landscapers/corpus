@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "outages",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: an IndexMundi aggregator page, Enterprise Survey 2017 figure, no figure for 2023 or later"
+}

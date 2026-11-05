@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "g2p",
+ "aspect": "",
+ "fact": "",
+ "title": "Arrêté conjoint du 21 avril 2026 (Amen Social, transferts monétaires directs)",
+ "publisher": "Ministère des affaires sociales et ministère des finances",
+ "published": "2026-04-21",
+ "date_source": "source",
+ "why_not": "off-topic: sets the calculation and amount of transfers, states no payment channel or registry check"
+}

@@ -1,0 +1,18 @@
+[
+ {
+  "url": "https://www.afdb.org/sites/default/files/documents/publications/mission300-car-final_version.pdf",
+  "title": "Pacte national de l'énergie, République centrafricaine",
+  "publisher": "African Development Bank",
+  "published": "2026",
+  "sub_indicator": "outages",
+  "why": "Q1-4: outages and permanent load shedding, check for count"
+ },
+ {
+  "url": "https://www.ceicdata.com/en/central-african-republic/governance-business-environment/cf-power-outages-in-firms-in-a-typical-month",
+  "title": "Central African Republic: Power Outages in Firms in A Typical Month",
+  "publisher": "CEIC",
+  "published": "",
+  "sub_indicator": "outages",
+  "why": "Q1-4: Enterprise Survey outages, 28.3 a month in 2023"
+ }
+]

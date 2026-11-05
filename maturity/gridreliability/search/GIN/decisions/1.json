@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "outages",
+ "aspect": "",
+ "fact": "",
+ "title": "Rapport annuel 2024",
+ "publisher": "Electricite de Guinee",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": "off-topic: lists SAIFI only in abbreviations, no 2024 figure in the text"
+}

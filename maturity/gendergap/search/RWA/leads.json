@@ -1,0 +1,18 @@
+[
+ {
+  "url": "https://statistics.gov.rw/sites/default/files/documents/2025-07/EICV7_Gender_Thematic_Report.pdf",
+  "title": "EICV7 Gender Thematic Report",
+  "publisher": "National Institute of Statistics of Rwanda",
+  "published": "2025",
+  "sub_indicator": "gender",
+  "why": "Q1-4: internet access by sex (2023/24)"
+ },
+ {
+  "url": "https://genderlab.statistics.gov.rw/",
+  "title": "Gender Data Lab",
+  "publisher": "National Institute of Statistics of Rwanda",
+  "published": "",
+  "sub_indicator": "gender",
+  "why": "Q1-4: EICV7 internet by sex"
+ }
+]

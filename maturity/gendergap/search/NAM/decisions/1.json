@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "gender",
+ "aspect": "",
+ "fact": "",
+ "title": "Status of Women in Namibia 2023",
+ "publisher": "Oyayone",
+ "published": "2023-11",
+ "date_source": "proxy",
+ "why_not": "no-development: repeats the 2020 Web Foundation finding that under 50 percent of women have internet access, no figure for men and none for 2023 or later"
+}

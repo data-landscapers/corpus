@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "linked",
+ "fact": "SASSA matches grant applicants' biometric data against the Home Affairs National Population Register before a grant proceeds to payment (January 2026 report).",
+ "title": "What happens to your biometric data after SASSA collects it?",
+ "publisher": "IOL",
+ "published": "2026-01-29",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.ewura.go.tz/uploads/documents/en-1783934482-Ewura%20-%20Electricity%20Report%202024-25.pdf",
+  "title": "Electricity Sub-Sector Regulatory Performance Report FY 2024/2025",
+  "publisher": "EWURA",
+  "published": "2025",
+  "sub_indicator": "outages",
+  "why": "Q1-3: TANESCO SAIFI 17.69 in FY2024/25"
+ },
+ {
+  "url": "https://www.ewura.go.tz/uploads/documents/en-1791188214-The%20Electricity%20Sub%20Sector%20Performance%20Review%20Report%20June%202026.pdf",
+  "title": "Electricity Sub-Sector Performance Review Report June 2026",
+  "publisher": "EWURA",
+  "published": "2026",
+  "sub_indicator": "outages",
+  "why": "Q1-3: TANESCO SAIFI 12.09 in FY2025/26"
+ },
+ {
+  "url": "https://www.ewura.go.tz/uploads/documents/en-1744207289-Electricity%20Sub-Sector%20Performance%20Report%20FY%202023-24.%20pdf.pdf",
+  "title": "Electricity Sub-Sector Regulatory Performance Report FY 2023/24",
+  "publisher": "EWURA",
+  "published": "2025",
+  "sub_indicator": "outages",
+  "why": "Q1-3: SAIFI 14 in FY2023/24"
+ },
+ {
+  "url": "https://dailynews.co.tz/tanzanias-power-outages-drop-by-48-ewura-reports/",
+  "title": "Tanzania's power outages drop by 48% - EWURA Reports",
+  "publisher": "Daily News",
+  "published": "2025-04-11",
+  "sub_indicator": "outages",
+  "why": "Q1-3: SAIFI 26 to 14"
+ }
+]

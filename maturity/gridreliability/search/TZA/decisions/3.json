@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "outages",
+ "aspect": "outages",
+ "fact": "EWURA reports TANESCO's SAIFI improved from 26 in FY2022/23 to 14 interruptions per customer in FY2023/24.",
+ "title": "Electricity Sub-Sector Regulatory Performance Report for the Financial Year 2023/24",
+ "publisher": "Energy and Water Utilities Regulatory Authority (EWURA)",
+ "published": "2025-03",
+ "date_source": "source",
+ "why_not": ""
+}

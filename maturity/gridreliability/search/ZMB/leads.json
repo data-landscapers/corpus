@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://www.zesco.co.zm/assets/documents/annual_reports/2024_Integrated_Report_ZESCO.pdf",
+  "title": "ZESCO 2024 Integrated Report",
+  "publisher": "ZESCO",
+  "published": "2025",
+  "sub_indicator": "outages",
+  "why": "Q1-4: SAIFI"
+ },
+ {
+  "url": "https://diggers.news/business/2025/07/26/zesco-fails-to-meet-performance-target-due-to-load-shedding/",
+  "title": "ZESCO fails to meet performance target due to load shedding",
+  "publisher": "News Diggers",
+  "published": "2025-07-26",
+  "sub_indicator": "outages",
+  "why": "Q1: ERB quality of service"
+ },
+ {
+  "url": "https://www.parliament.gov.zm/sites/default/files/images/publication_docs/Minsterial%20Statement%20on%20the%20Electricity%20Situation%20in%20the%20Country.pdf",
+  "title": "Ministerial Statement on the Electricity Situation",
+  "publisher": "Parliament of Zambia",
+  "published": "2025",
+  "sub_indicator": "outages",
+  "why": "Q1: supply hours"
+ }
+]

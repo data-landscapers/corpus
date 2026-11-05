@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "payment;streams;linked",
+ "fact": "The Ministry of Public Service launched the HCM on 17 November 2021, processing salary and pension payroll, sending payroll invoices to IFMS and verifying public officers and pensioners against the National Identification System.",
+ "title": "Human Capital Management System (HCM): Facts and Implementation Progress",
+ "publisher": "Ministry of Public Service, Uganda",
+ "published": "2021-11-28",
+ "date_source": "proxy",
+ "why_not": ""
+}

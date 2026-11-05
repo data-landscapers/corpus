@@ -1,0 +1,5 @@
+[
+{"url":"https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_DZA.pdf","title":"Digital Development Dashboard: Algeria","publisher":"ITU","published":"2024","sub_indicator":"gender","why":"Q1: female and male internet use (2018) in ITU dashboard with data to December 2023"},
+{"url":"https://data.albankaldawli.org/indicator/IT.NET.USER.ZS?locations=DZ","title":"Individuals using the Internet (% of population) - Algeria","publisher":"World Bank Data / ITU","published":"","sub_indicator":"gender","why":"Q1: ITU series by sex"},
+{"url":"https://doi.org/10.15611/eada.2023.2.02","title":"Digitalization and the Information Society in Algeria: Digital Transformation Actors and Key Variables","publisher":"Econometrics / Wroclaw University of Economics","published":"2023","sub_indicator":"gender","why":"Q1: gender gap in internet use as a variable"}
+]

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "",
+ "aspect": "",
+ "fact": "",
+ "title": "EICV7 Gender Thematic Report",
+ "publisher": "National Institute of Statistics of Rwanda",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": "off-topic: reports households with internet at home by sex of household head, not individuals' internet use by sex"
+}

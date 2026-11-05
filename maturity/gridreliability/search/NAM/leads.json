@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://www.nampower.com.na/Media/Document/db33831c-ffd0-4012-8fbe-f87a746b8739.pdf",
+  "title": "NamPower Annual Report 2024/25",
+  "publisher": "NamPower",
+  "published": "2025",
+  "sub_indicator": "outages",
+  "why": "Q1: transmission interruptions per customer"
+ },
+ {
+  "url": "https://www.nampower.com.na/Media/Document/559400c8-51a9-427d-8cbc-62021aac8d82.pdf",
+  "title": "NamPower Integrated Report 2024",
+  "publisher": "NamPower",
+  "published": "2024",
+  "sub_indicator": "outages",
+  "why": "Q1: transmission reliability"
+ },
+ {
+  "url": "https://economist.com.na/power-grid-stable-but-local-networks-struggle-ecb-infrastructure-report-reveals/",
+  "title": "Power grid stable but local networks struggle",
+  "publisher": "Namibia Economist",
+  "published": "2026-08-24",
+  "sub_indicator": "outages",
+  "why": "Q1: ECB infrastructure report 2024/25"
+ }
+]

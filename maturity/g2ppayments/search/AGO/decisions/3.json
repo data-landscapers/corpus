@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "payment",
+ "fact": "The FAS impact evaluation of Kwenda 2020-2024 says transfers are paid by debit card linked to program sub-accounts or bank accounts, with cash still used where rural infrastructure is thin.",
+ "title": "Impact Evaluation of the KWENDA Program 2020 - 2024",
+ "publisher": "FAS - Institute for Local Development",
+ "published": "2024-11",
+ "date_source": "source",
+ "why_not": ""
+}

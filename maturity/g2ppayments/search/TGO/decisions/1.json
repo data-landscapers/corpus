@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "payment",
+ "fact": "The Caisse de Retraites du Togo announced the end of cash pension payments at its counters from July 2026, with pensions paid by mobile money or bank transfer.",
+ "title": "Pensions de retraite : la CRT met fin aux paiements en espèces",
+ "publisher": "République Togolaise (Togo Officiel)",
+ "published": "2026-06-16",
+ "date_source": "proxy",
+ "why_not": ""
+}

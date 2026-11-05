@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "outages",
+ "aspect": "outages",
+ "fact": "ECG's SAIFI for 2024 was 12.18 interruptions per customer a year in metro areas, 17.09 in urban and 20.55 in rural areas, against the PURC benchmark of 6.",
+ "title": "Electricity Company of Ghana Ltd: Proposal for the Review of Electricity Distribution and Supply Aggregate Revenue Requirement and Tariff 2025-2029",
+ "publisher": "Electricity Company of Ghana (filed with PURC)",
+ "published": "2025-04",
+ "date_source": "source",
+ "why_not": ""
+}

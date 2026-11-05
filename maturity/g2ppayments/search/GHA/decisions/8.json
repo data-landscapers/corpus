@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "payment;linked",
+ "fact": "LEAP households are selected from the Ghana National Household Registry data and are paid every two months via the e-zwich platform with biometric fingerprint verification through GhIPSS and PayCode, under a six-tier structure effective 14 September 2026.",
+ "title": "Eligibility Criteria – LEAP Ghana",
+ "publisher": "LEAP Management Secretariat, Ministry of Gender, Children and Social Protection",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

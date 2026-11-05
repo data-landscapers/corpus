@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "gender",
+ "aspect": "gap",
+ "fact": "A UBOS presentation gives internet usage among individuals aged 10 and above in 2024 as females 8% and males 11%.",
+ "title": "Gender data and digital transformation in Uganda",
+ "publisher": "Uganda Bureau of Statistics",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

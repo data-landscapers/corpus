@@ -1,0 +1,18 @@
+[
+ {
+  "url": "https://www.statssa.gov.za/publications/Report-03-10-26/Report-03-10-26.pdf",
+  "title": "Gender Series Volume XI",
+  "publisher": "Statistics South Africa",
+  "published": "",
+  "sub_indicator": "gender",
+  "why": "Q1-4: internet access by sex"
+ },
+ {
+  "url": "https://www.statssa.gov.za/publications/P0318/P03182024.pdf",
+  "title": "General Household Survey 2024",
+  "publisher": "Statistics South Africa",
+  "published": "2025",
+  "sub_indicator": "gender",
+  "why": "Q1-4: internet access"
+ }
+]

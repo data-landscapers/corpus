@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "payment;linked",
+ "fact": "On 21 March 2025 the Minister announced LEAP payments for the 94th and 95th cycles to 350,000 households, disbursed via GhIPSS to beneficiaries' E-Zwich accounts, with reassessment supported by the Ghana National Household Registry.",
+ "title": "Minister's press briefing on the 94th and 95th LEAP disbursement",
+ "publisher": "Ministry of Gender, Children and Social Protection",
+ "published": "2025-03-21",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "payment",
+ "fact": "The national financial inclusion strategy says about 79% of Kwenda payments are made in cash, 21% through restricted sub-accounts tied to debit cards and 0.2% through e-money sub-accounts, and proposes digitising part of government-to-person payments.",
+ "title": "Estratégia Nacional de Inclusão Financeira de Angola 2025 - 2027",
+ "publisher": "ARSEG / Banco Nacional de Angola",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

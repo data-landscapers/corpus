@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/el_gobierno_aborda_la_situacion_de_los_continuos_apagones_que_registra_malabo",
+  "title": "El Gobierno aborda la situación de los continuos apagones que registra Malabo",
+  "publisher": "Guinea Ecuatorial Press (Gobierno)",
+  "published": "2025-11-12",
+  "sub_indicator": "outages",
+  "why": "Q1: outage reports Malabo"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/plazo_de_diez_dias_a_las_empresas_responsables_de_garantizar_el_suministro_electrico_continuo_en_todo_el_pais",
+  "title": "Plazo de diez días a las empresas responsables de garantizar el suministro eléctrico continuo",
+  "publisher": "Guinea Ecuatorial Press (Gobierno)",
+  "published": "2024-03-06",
+  "sub_indicator": "outages",
+  "why": "Q1: constant blackouts"
+ },
+ {
+  "url": "https://cndesge.org/?p=13149",
+  "title": "SEGESA presenta su situación operativa y financiera ante el CNDES",
+  "publisher": "CNDES",
+  "published": "2026-01-19",
+  "sub_indicator": "outages",
+  "why": "Q1: outage situation"
+ }
+]

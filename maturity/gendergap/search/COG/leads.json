@@ -1,0 +1,6 @@
+[
+{"url":"https://datos.bancomundial.org/indicador/IT.NET.USER.FE.ZS?locations=CG","title":"Individuals using the Internet, female (% of female population) - Congo, Rep.","publisher":"World Bank (ITU data)","published":"","sub_indicator":"gender","why":"Q1-Q4: female internet use figure, latest year"},
+{"url":"https://doi.org/10.58338/wqir7339","title":"Evaluation du developpement de l'Internet en Republique du Congo (ROAM-X)","publisher":"UNESCO","published":"2025","sub_indicator":"gender","why":"Q1-Q4: may give internet use by gender"},
+{"url":"https://www.afdb.org/sites/default/files/documents/projects-and-operations/profil_genre_congo_compressed.pdf","title":"Profil genre pays Congo","publisher":"African Development Bank","published":"","sub_indicator":"gender","why":"Q1-Q4: may give internet use by sex"},
+{"url":"https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-SDDT_AFR-2025-PDF-E.pdf","title":"Measuring digital development: Facts and Figures, Africa 2025","publisher":"ITU","published":"2025","sub_indicator":"gender","why":"Q1-Q4: country internet use by gender, if Congo listed"}
+]

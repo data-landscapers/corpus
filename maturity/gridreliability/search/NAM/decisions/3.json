@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "outages",
+ "aspect": "",
+ "fact": "",
+ "title": "Power grid stable but local networks struggle",
+ "publisher": "Namibia Economist",
+ "published": "2026-08-24",
+ "date_source": "source",
+ "why_not": "no-development: ECB infrastructure status story with no outage count"
+}

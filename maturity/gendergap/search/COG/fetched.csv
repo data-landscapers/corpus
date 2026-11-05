@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://datos.bancomundial.org/indicador/IT.NET.USER.FE.ZS?locations=CG,unfetchable,HTTP 504; no usable Wayback capture,,0,,
+2,https://doi.org/10.58338/wqir7339,unfetchable,empty extraction; no usable Wayback capture,,0,,
+3,https://www.afdb.org/sites/default/files/documents/projects-and-operations/profil_genre_congo_compressed.pdf,fetched,,scripts/.workroot/study/gendergap/cache/COG/3.txt,53837,pdf,
+4,https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-SDDT_AFR-2025-PDF-E.pdf,fetched,,scripts/.workroot/study/gendergap/cache/COG/4.txt,15206,pdf,Measuring digital development

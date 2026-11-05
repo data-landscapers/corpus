@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "gender",
+ "aspect": "gap",
+ "fact": "The ARTCI MSI 2024 survey puts internet use at 41.4% of individuals aged 5 and over in 2024, 44.5% of men and 38.3% of women.",
+ "title": "Résumé Exécutif, enquête nationale MSI 2024",
+ "publisher": "ARTCI (Autorité de Régulation des Télécommunications/TIC de Côte d'Ivoire)",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

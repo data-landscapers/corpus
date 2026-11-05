@@ -1,0 +1,4 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ourworldindata.org/grapher/power-outages-in-firms-per-month?tab=table,fetched,,scripts/.workroot/study/gridreliability/cache/ETH/1.txt,1814,html,Power outages in firms in a typical month
+2,https://microdata.worldbank.org/index.php/catalog/2577/datafile/F1/V54,fetched,,scripts/.workroot/study/gridreliability/cache/ETH/2.txt,720,html,Enterprise Survey 2015
+3,https://www.amn.gov.et/blog/12457/,unfetchable,ReadTimeout; no usable Wayback capture,,0,,

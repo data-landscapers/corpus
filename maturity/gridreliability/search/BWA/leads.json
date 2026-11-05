@@ -1,0 +1,18 @@
+[
+ {
+  "url": "https://www.bpc.bw/wp-content/uploads/2025/12/BPC-Integrated-Report-2023.pdf",
+  "title": "Botswana Power Corporation Integrated Report 2023",
+  "publisher": "Botswana Power Corporation",
+  "published": "2023",
+  "sub_indicator": "outages",
+  "why": "Q1-4: SAIFI 0.04 in FY2022/23"
+ },
+ {
+  "url": "https://www.bera.co.bw/downloads/Annual-Reports/BERA%20ANNUAL%20REPORT%202024_web.pdf",
+  "title": "BERA Annual Report 2024",
+  "publisher": "Botswana Energy Regulatory Authority",
+  "published": "2024",
+  "sub_indicator": "outages",
+  "why": "Q1: regulator KPI monitoring of BPC SAIFI"
+ }
+]

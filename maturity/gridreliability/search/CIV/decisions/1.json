@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "outages",
+ "aspect": "outages",
+ "fact": "The 2023 Enterprise Survey (649 firms, April to September 2023) puts the number of electrical outages in a typical month at 3.5 for Côte d'Ivoire.",
+ "title": "Enterprise Surveys: Côte d'Ivoire 2023",
+ "publisher": "World Bank",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

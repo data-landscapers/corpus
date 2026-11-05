@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "payment;linked",
+ "fact": "As of 22 March 2026 ANEM is processing 140,000 new applications via the Minha platform for the unemployment allowance of 18,000 dinars a month, with automated checks of applicants against more than 600 databases.",
+ "title": "140.000 demandes en traitement via “Minha”: L’ANEM accélère les procédures",
+ "publisher": "L'Echo d'Algérie",
+ "published": "2026-03-22",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "payment;streams",
+ "fact": "The April 2020 roadmap says that since 1 January 2019 the Ministry of Finance requires civil servants' salaries to be paid to a bank account, 98.7% paid electronically as of March 2019, while pensions were 11% electronic.",
+ "title": "Numérisation des Paiements de l'Etat du Niger (P2G/G2P): Feuille de Route",
+ "publisher": "World Bank Group / République du Niger",
+ "published": "2020-04",
+ "date_source": "source",
+ "why_not": ""
+}

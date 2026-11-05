@@ -1,0 +1,4 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.are.mr/pdfs/RapportAre2024.pdf,held,held as raw/2025/2025-01-01-mrt-rapport-annuel-2024.md,,0,,
+2,https://www.indexmundi.com/facts/mauritania/indicator/IC.ELC.OUTG,fetched,,scripts/.workroot/study/gridreliability/cache/MRT/2.txt,1120,html,Mauritania - Power outages in firms in a typical month (number)
+3,https://somelec.mr/?q=node%2F2698,fetched,,scripts/.workroot/study/gridreliability/cache/MRT/3.txt,2198,html,"Lettre adressée par M.le Directeur Général, Cheikh Abdellahi BEDDA, au Personnel de la SOMELEC à l'occasion du nouvel an 2023"

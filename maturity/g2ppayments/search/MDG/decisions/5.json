@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "payment",
+ "fact": "On 21 June 2024 FID, for the Government of Madagascar, published a tender for payment of cash transfers by mobile money in 67 lots.",
+ "title": "Service pour le paiement des Transferts Monétaires par le mobile money",
+ "publisher": "FID Madagascar",
+ "published": "2024-06-21",
+ "date_source": "source",
+ "why_not": ""
+}

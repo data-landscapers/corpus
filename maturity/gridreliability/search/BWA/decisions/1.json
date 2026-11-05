@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "outages",
+ "aspect": "outages",
+ "fact": "Botswana Power Corporation reports a SAIFI of 0.04 against a target of 0.25 for the year ended 31 March 2023.",
+ "title": "Integrated Report 2023",
+ "publisher": "Botswana Power Corporation",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

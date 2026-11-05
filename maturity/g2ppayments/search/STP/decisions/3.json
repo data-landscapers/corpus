@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "payment;linked",
+ "fact": "The Ké-Non system, adopted in May 2023, runs a payment module for the conditional cash transfer programme with the Banco Internacional de São Tomé e Príncipe and identifies clients against the national civil registry; the social registry was updated between December 2023 and February 2024.",
+ "title": "(Em-)powered by openIMIS, the island nation Sao Tomé and Principe is effectively managing its social protection programs",
+ "publisher": "openIMIS",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

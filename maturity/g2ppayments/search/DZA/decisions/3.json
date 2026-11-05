@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "payment",
+ "fact": "Algérie Poste's article of January 2026 says millions of public service and public enterprise employees receive their pay on a CCP postal account.",
+ "title": "virements CCP vers des comptes bancaires",
+ "publisher": "Eco Algeria",
+ "published": "2026-01-24",
+ "date_source": "source",
+ "why_not": ""
+}

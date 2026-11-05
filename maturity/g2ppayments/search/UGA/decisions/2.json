@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "payment;linked",
+ "fact": "The 2020 G2P payment guidelines require payment service providers to give Senior Citizens' Grant beneficiaries an account or e-money wallet and to verify their identity against the National ID (NIN).",
+ "title": "Government to Person (G2P) Payment Guidelines",
+ "publisher": "Ministry of Gender, Labour and Social Development / FSD Uganda",
+ "published": "2020",
+ "date_source": "proxy",
+ "why_not": ""
+}

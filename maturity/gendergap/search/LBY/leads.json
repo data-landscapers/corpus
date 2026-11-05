@@ -1,0 +1,5 @@
+[
+{"url":"https://opendata.gia.gov.ly/dashboard/dataset/987456","title":"مقارنة تحليلية بين الجنسين 2025","publisher":"الهيئة العامة للاتصالات والمعلوماتية","published":"2026-09-29","sub_indicator":"gender","why":"Q1-Q4: Libyan telecom authority gender comparison of internet access and use"},
+{"url":"https://opendata.gia.gov.ly/dashboard/group/telecom","title":"Telecommunications and Information Technology (open data group)","publisher":"الهيئة العامة للاتصالات والمعلوماتية","published":"2026","sub_indicator":"gender","why":"Q1-Q4: lists male-female internet use series 2019-2025"},
+{"url":"https://www.itu.int/itu-d/reports/statistics/2024/11/10/ff24-the-gender-digital-divide/","title":"Facts and Figures 2024 - The gender digital divide","publisher":"ITU","published":"2024-11","sub_indicator":"gender","why":"Q1-Q4: Arab States gender parity score"}
+]

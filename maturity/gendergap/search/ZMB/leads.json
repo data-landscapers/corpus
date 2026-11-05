@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2023-12/online_gender_based_violence_among_women_and_girls_its_effects_sm.pdf",
+  "title": "An Assessment of the Nature, Extent and Effects of Online Gender Based Violence among Women and Girls in Zambia",
+  "publisher": "UNDP",
+  "published": "2023-12",
+  "sub_indicator": "gender",
+  "why": "Q1: males 29% vs females 22.2% used internet 2022"
+ },
+ {
+  "url": "https://www.zamstats.gov.zm/wp-content/uploads/2024/11/2023-Women-and-Men-Booklet.pdf",
+  "title": "Women and Men 2023",
+  "publisher": "Zambia Statistics Agency",
+  "published": "2024-11",
+  "sub_indicator": "gender",
+  "why": "Q1-4: internet by sex"
+ },
+ {
+  "url": "https://www.zamstats.gov.zm/wp-content/uploads/2025/02/National-ICT-Survey-2022.pdf",
+  "title": "2022 National Survey on Access and Usage of ICTs",
+  "publisher": "ZamStats and ZICTA",
+  "published": "2025",
+  "sub_indicator": "gender",
+  "why": "Q1-4: internet use by sex 2022"
+ }
+]

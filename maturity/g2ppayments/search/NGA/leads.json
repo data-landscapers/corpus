@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.thisdaylive.com/2025/09/18/fg-moves-to-include-conditional-cash-transfer-in-national-budgets-disburses-n330bn-to-poor-households/",
+  "title": "FG Moves to Include Conditional Cash Transfer in National Budgets, Disburses N330bn to Poor Households",
+  "publisher": "THISDAYLIVE",
+  "published": "2025-09-18",
+  "sub_indicator": "g2p",
+  "why": "Q2/Q4: NIN-verified digital payments"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099090325094525591/pdf/P176935-a76b292b-0876-428f-bd15-82f5f0c9fba7.pdf",
+  "title": "Implementation Status & Results Report, National Social Safety Net Program-Scale Up (P176935)",
+  "publisher": "World Bank",
+  "published": "2025-09",
+  "sub_indicator": "g2p",
+  "why": "Q2/Q4: digital transfers, NIN validation"
+ },
+ {
+  "url": "https://www.ripplesnigeria.com/fg-disburses-%E2%82%A6330bn-to-vulnerable-nigerians-through-digital-cash-transfers-edun/",
+  "title": "FG disburses N330bn to vulnerable Nigerians through digital cash transfers",
+  "publisher": "Ripples Nigeria",
+  "published": "2025-09-18",
+  "sub_indicator": "g2p",
+  "why": "Q2/Q4"
+ },
+ {
+  "url": "https://punchng.com/how-fg-selects-beneficiaries-for-n50000-relief/",
+  "title": "How FG selects beneficiaries for N50,000 relief",
+  "publisher": "Punch",
+  "published": "2026-11-04",
+  "sub_indicator": "g2p",
+  "why": "Q4: NIN and NSR for mobile wallet payments"
+ },
+ {
+  "url": "https://ncto.gov.ng/direct-payments",
+  "title": "National Cash Transfer Office: direct payments",
+  "publisher": "National Cash Transfer Office",
+  "published": "",
+  "sub_indicator": "g2p",
+  "why": "Q2"
+ },
+ {
+  "url": "https://www.ippis.gov.ng/about",
+  "title": "IPPIS About",
+  "publisher": "IPPIS Secretariat, Office of the Accountant-General of the Federation",
+  "published": "",
+  "sub_indicator": "g2p",
+  "why": "Q3: salaries paid to bank accounts"
+ },
+ {
+  "url": "https://thenationonlineng.net/we-have-database-of-15m-poor-nigerians-says-agency/",
+  "title": "We have database of 15m poor Nigerians, says agency",
+  "publisher": "The Nation",
+  "published": "2023-07-18",
+  "sub_indicator": "g2p",
+  "why": "Q1: transfers to bank accounts and wallets"
+ }
+]

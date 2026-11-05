@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "gender",
+ "aspect": "gap",
+ "fact": "ITU's Digital Development Dashboard for Algeria, with data collected up to December 2023, gives female internet use of 43 per cent and male of 55 per cent for 2018, a figure older than the 2023 window.",
+ "title": "Digital Development Dashboard: Algeria",
+ "publisher": "ITU",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "outages",
+ "aspect": "outages",
+ "fact": "Cameroon's regulator ARSEL estimated an average 59.42 interruptions per customer in 2025 against 15.09 per operator Socadel; the ARSEL annual report puts it at 64.04.",
+ "title": "Cameroun/coupures d'électricité : 126 heures par client en 2025 selon l'ARSEL, 46 heures selon SOCADEL",
+ "publisher": "EcoMatin",
+ "published": "2026-10-29",
+ "date_source": "source",
+ "why_not": ""
+}

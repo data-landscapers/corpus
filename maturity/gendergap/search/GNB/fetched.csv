@@ -1,0 +1,4 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://datahub.itu.int/data/?d=Gender&e=GNB&i=11624,not-a-document,ITU DataHub chart widget,,0,,
+2,https://datos.bancomundial.org/indicador/IT.NET.USER.FE.ZS?locations=GW,fetched,,scripts/.workroot/study/gendergap/cache/GNB/2.txt,52,html,World Bank Open Data
+3,https://datareportal.com/reports/digital-2026-guinea-bissau,fetched,,scripts/.workroot/study/gendergap/cache/GNB/3.txt,4811,html,Digital 2026: Guinea-Bissau — DataReportal – Global Digital Insights

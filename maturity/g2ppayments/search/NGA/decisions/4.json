@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "payment;linked",
+ "fact": "Beneficiaries of the N50,000 relief are selected from verified national identity records and the National Social Register and paid into a mobile wallet linked to their NIN.",
+ "title": "How FG selects beneficiaries for N50,000 relief",
+ "publisher": "Punch",
+ "published": "2026-11-04",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "payment;linked",
+ "fact": "Under the government's PACAD project, recipients of cash transfers, verified with picture identification cards, later received payments as electronic transfers via mobile phones.",
+ "title": "Reaching those most in need",
+ "publisher": "UNOPS",
+ "published": "2024-02-23",
+ "date_source": "proxy",
+ "why_not": ""
+}

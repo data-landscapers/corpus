@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://www.statsbots.org.bw/sites/default/files/publications/Botswana%20Household%20Access%20and%20Individual%20Use%20of%20ICT%27s%20Stats%20Brief%202024.pdf",
+  "title": "Botswana Household Access and Individual Use of ICTs, Stats Brief 2024",
+  "publisher": "Statistics Botswana",
+  "published": "2025",
+  "sub_indicator": "gender",
+  "why": "Q1-4: 2024 individual internet use by sex"
+ },
+ {
+  "url": "https://www.statsbots.org.bw/sites/default/files/press-releases/Press%20Release-Statistics%20Botswana%202024%20ICT%20Household%20Survey%20Results.pdf",
+  "title": "Statistics Botswana 2024 ICT Household Survey Results",
+  "publisher": "Statistics Botswana",
+  "published": "2025",
+  "sub_indicator": "gender",
+  "why": "Q1: 57.5 percent of individuals use internet"
+ },
+ {
+  "url": "https://www.thegazette.news/business-2/internet-access-rises-to-68-9/",
+  "title": "Internet Access Rises To 68.9%",
+  "publisher": "Botswana Gazette",
+  "published": "2025-08-25",
+  "sub_indicator": "gender",
+  "why": "Q1: report of 2024 survey"
+ }
+]

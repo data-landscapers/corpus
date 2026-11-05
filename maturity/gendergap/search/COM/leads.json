@@ -1,0 +1,5 @@
+[
+{"url":"https://mics.ipums.org/mics/resources/enum_materials_pdf/report_km2022a_fre.pdf","title":"MICS6 Survey Findings Report (Comores 2022)","publisher":"UNICEF / Institut National de la Statistique et des Etudes Economiques et Démographiques","published":"2023","sub_indicator":"gender","why":"Q1-Q4: share of women and men 15-49 using the internet (SR.12)"},
+{"url":"https://data.worldbank.org/indicator/IT.NET.USER.FE.ZS?locations=KM","title":"Individuals using the Internet, female (% of female population) - Comoros","publisher":"World Bank (ITU data)","published":"2025","sub_indicator":"gender","why":"Q1-Q4: ITU series for women's internet use"},
+{"url":"https://www.itu.int/itu-d/reports/statistics/2024/11/10/ff24-the-gender-digital-divide/","title":"Facts and Figures 2024 - The gender digital divide","publisher":"ITU","published":"2024-11","sub_indicator":"gender","why":"Q1-Q4: regional gender parity score, any country figure"}
+]

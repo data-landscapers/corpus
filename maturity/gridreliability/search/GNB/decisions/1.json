@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "outages",
+ "aspect": "outages",
+ "fact": "Since the EAGB stabilised supply, the average number of interruptions per day fell to 0.9 in 2025, as the text states (a per-day figure, about 27 a month).",
+ "title": "'A Política Nacional de Energia da Guiné-Bissau responde à ambição de transformar o sector energético num pilar de desenvolvimento sustentável e inclusivo'",
+ "publisher": "ALER - Associação Lusófona de Energias Renováveis",
+ "published": "2026-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

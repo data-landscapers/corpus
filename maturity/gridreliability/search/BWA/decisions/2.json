@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "outages",
+ "aspect": "",
+ "fact": "",
+ "title": "BERA Annual Report 2022/23",
+ "publisher": "Botswana Energy Regulatory Authority",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": "off-topic: describes BERA's KPI framework, no outage figure"
+}

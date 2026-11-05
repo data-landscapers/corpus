@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.sanews.gov.za/south-africa/social-grant-payments-will-continue-uninterrupted-pule-assures",
+  "title": "Social grant payments will continue uninterrupted, Pule assures",
+  "publisher": "SAnews",
+  "published": "2026-07-14",
+  "sub_indicator": "g2p",
+  "why": "Q2: grants paid into bank accounts"
+ },
+ {
+  "url": "https://www.polity.org.za/article/social-grants-and-the-future-of-digital-payments-in-south-africa-2026-06-15",
+  "title": "Social Grants and the Future of Digital Payments in South Africa",
+  "publisher": "Polity",
+  "published": "2026-06-15",
+  "sub_indicator": "g2p",
+  "why": "Q2"
+ },
+ {
+  "url": "https://iol.co.za/news/south-africa/2026-01-29-what-happens-to-your-biometric-data-after-sassa-collects-it/",
+  "title": "What happens to your biometric data after SASSA collects it?",
+  "publisher": "IOL",
+  "published": "2026-01-29",
+  "sub_indicator": "g2p",
+  "why": "Q4: biometric match against National Population Register"
+ },
+ {
+  "url": "https://pmg.org.za/committee-meeting/41632/",
+  "title": "DSD Q1 2025/26 Performance; SASSA Biometric Verification Process",
+  "publisher": "Parliamentary Monitoring Group",
+  "published": "2025-09-17",
+  "sub_indicator": "g2p",
+  "why": "Q4: matched against Home Affairs"
+ },
+ {
+  "url": "https://pmg.org.za/committee-question/29073/",
+  "title": "Question to the Minister of Social Development - NW1337",
+  "publisher": "Parliamentary Monitoring Group",
+  "published": "2025-04-03",
+  "sub_indicator": "g2p",
+  "why": "Q2: grants paid into bank accounts"
+ },
+ {
+  "url": "https://pmg.org.za/committee-meeting/40815/",
+  "title": "Clean up of PERSAL system and reforms to eliminate ghost employees",
+  "publisher": "Parliamentary Monitoring Group",
+  "published": "2025-05-28",
+  "sub_indicator": "g2p",
+  "why": "Q3: salaries"
+ },
+ {
+  "url": "https://www.mymzansi.gov.za/roadmap/initiative-3",
+  "title": "MyMzansi: Improved Government Payments",
+  "publisher": "MyMzansi (South African government)",
+  "published": "",
+  "sub_indicator": "g2p",
+  "why": "Q1: E2E G2P system planned"
+ },
+ {
+  "url": "https://www.gov.za/news/media-statements/home-affairs-upgrades-critical-digital-verification-system-24-mar-2025",
+  "title": "Home Affairs upgrades critical digital verification system",
+  "publisher": "South African Government",
+  "published": "2025-03-24",
+  "sub_indicator": "g2p",
+  "why": "Q4"
+ }
+]

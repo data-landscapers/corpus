@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "outages",
+ "aspect": "outages",
+ "fact": "EDG's 2022 activity report gives a SAIFI of 132 for 2022, up from 99 in 2021.",
+ "title": "Rapport d'activités 2022",
+ "publisher": "Électricité de Guinée (EDG-SA)",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

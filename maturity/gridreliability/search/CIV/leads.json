@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://www.enterprisesurveys.org/content/dam/enterprisesurveys/documents/country/Cote-Divoire-2023.pdf",
+  "title": "Enterprise Surveys: Côte d'Ivoire 2023",
+  "publisher": "World Bank",
+  "published": "2023",
+  "sub_indicator": "outages",
+  "why": "Q1-4: 3.5 outages in a typical month"
+ },
+ {
+  "url": "https://www.eranove.com/wp-content/uploads/2024/09/Rapport_de_DD_2023_V2_FINAL_CIE.pdf",
+  "title": "Rapport de développement durable 2023",
+  "publisher": "CIE (Eranove)",
+  "published": "2024",
+  "sub_indicator": "outages",
+  "why": "interruption data, temps moyen de coupure"
+ },
+ {
+  "url": "https://www.economie-ivoirienne.ci/activites-sectorielles/electricite.html",
+  "title": "Electricité",
+  "publisher": "Direction Générale de l'Economie",
+  "published": "2025",
+  "sub_indicator": "outages",
+  "why": "temps moyen de coupure 2024"
+ }
+]

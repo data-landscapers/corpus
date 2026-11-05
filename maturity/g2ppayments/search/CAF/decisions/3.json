@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "payment",
+ "fact": "The World Bank reported in 2024 that Central African Republic public wage recipients expressed high satisfaction with mobile money salary payments, which since 2020 replaced long trips to collect salary in cash.",
+ "title": "Cash vs Digital: How do digital government-to-person payments ease the lives of recipients?",
+ "publisher": "World Bank",
+ "published": "2024-03-15",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://www.reg.rw/fileadmin/user_upload/REG_Annual_Report_2023-24FY.pdf",
+  "title": "Annual Report of the Rwanda Energy Group 2023-24",
+  "publisher": "Rwanda Energy Group",
+  "published": "2024",
+  "sub_indicator": "outages",
+  "why": "Q1-4: SAIFI 15.397 per year"
+ },
+ {
+  "url": "https://www.reg.rw/fileadmin/user_upload/REG_ANNUAL_REPORT_2022-2023.pdf",
+  "title": "Annual Report 2022-2023",
+  "publisher": "Rwanda Energy Group",
+  "published": "2023",
+  "sub_indicator": "outages",
+  "why": "Q1-4: SAIFI 21.71 per year"
+ },
+ {
+  "url": "https://www.reg.rw/customer-service/network-performance-indices/",
+  "title": "Network Performance Indices",
+  "publisher": "Rwanda Energy Group",
+  "published": "",
+  "sub_indicator": "outages",
+  "why": "Q1-4: SAIFI 2021 to 2025"
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "url": "https://www.eskom.co.za/wp-content/uploads/2025/11/Eskom-interim-performance-commentary_30-September-2025.pdf",
+  "title": "Eskom interim performance commentary, 30 September 2025",
+  "publisher": "Eskom",
+  "published": "2025-11",
+  "sub_indicator": "outages",
+  "why": "Q1-4: distribution SAIFI 11.9 events"
+ },
+ {
+  "url": "https://www.eskom.co.za/wp-content/uploads/2025/10/Eskom-integrated-report-2025.pdf",
+  "title": "Eskom Integrated Report 2025",
+  "publisher": "Eskom",
+  "published": "2025-10",
+  "sub_indicator": "outages",
+  "why": "Q1-4: SAIFI"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "payment",
+ "fact": "During payment of TASAF benefits in the reporting period, 52 percent of beneficiaries were paid digitally through banks and mobile wallets.",
+ "title": "National Council for Financial Inclusion (Annual Report)",
+ "publisher": "Bank of Tanzania",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

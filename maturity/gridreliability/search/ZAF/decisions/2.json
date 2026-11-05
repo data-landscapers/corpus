@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "outages",
+ "aspect": "outages",
+ "fact": "Eskom reports distribution SAIFI of 11.7 events for the financial year to March 2025 (14.5, 11.7 and 11.8 across the target and actual columns of its performance table; 11.7 is the 2025 actual), about 0.98 a month.",
+ "title": "Eskom Integrated Report 2025",
+ "publisher": "Eskom Holdings SOC Ltd",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

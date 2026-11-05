@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "payment;linked",
+ "fact": "Zambia has rolled out the OpenG2P platform to manage government-to-person payments, with the NRC number as the legal identifier in the eKYC platform proven in April 2024.",
+ "title": "Zambia",
+ "publisher": "Co-Develop",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

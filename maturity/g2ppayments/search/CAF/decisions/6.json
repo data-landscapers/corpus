@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "payment;linked",
+ "fact": "The March 2024 World Bank project document says safety net transfers to about 45,000 households will be paid electronically with phones and SIMs provided, and that the project will build the unique social registry (RSU).",
+ "title": "Adaptive and Productive Social Safety Nets Project (P179211): Project Information Document",
+ "publisher": "World Bank",
+ "published": "2024-03-12",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,18 @@
+[
+ {
+  "url": "https://www.afrobarometer.org/publication/ad829-les-guineens-demandent-plus-dans-la-promotion-de-legalite-des-genres/",
+  "title": "AD829: Les Guineens demandent plus dans la promotion de l'egalite des genres",
+  "publisher": "Afrobarometer",
+  "published": "2024-08-05",
+  "sub_indicator": "gender",
+  "why": "Q1: gender gaps in asset ownership incl. phone and computer"
+ },
+ {
+  "url": "https://datareportal.com/reports/digital-2025-guinea",
+  "title": "Digital 2025: Guinea",
+  "publisher": "DataReportal",
+  "published": "2025-03-03",
+  "sub_indicator": "gender",
+  "why": "Q1: internet penetration 26.5 percent, no use by sex"
+ }
+]

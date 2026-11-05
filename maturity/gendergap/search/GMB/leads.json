@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://www.itu.int/itu-d/sites/projectumc/wp-content/uploads/sites/42/2026/03/Gambia_Measuring-UMC.pdf",
+  "title": "Measuring Universal and Meaningful Connectivity: The Gambia",
+  "publisher": "ITU",
+  "published": "2026-03",
+  "sub_indicator": "gender",
+  "why": "Q1-4: Gambia household survey 2024 internet use by gender"
+ },
+ {
+  "url": "https://www.gbosdata.org/downloads-file/580-communication-statistics-summary-report-2024",
+  "title": "Communication Statistics Summary Report 2024",
+  "publisher": "Gambia Bureau of Statistics",
+  "published": "2024",
+  "sub_indicator": "gender",
+  "why": "Q1-4: ICT statistics, check for internet use by sex"
+ },
+ {
+  "url": "https://www.itu.int/itu-d/reports/statistics/2024/11/10/ff24-the-gender-digital-divide/",
+  "title": "Facts and Figures 2024 - The gender digital divide",
+  "publisher": "ITU",
+  "published": "2024-11",
+  "sub_indicator": "gender",
+  "why": "Q1-4: check for Gambia country figure"
+ }
+]

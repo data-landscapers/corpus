@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "payment;linked",
+ "fact": "In May 2023 Carnegie reported that the government pays civil servants' salaries through mobile money under Patapaye, a partnership with Orange, with complex identity checks limiting uptake.",
+ "title": "Securing Digital Finance in Post-Conflict Central African Republic",
+ "publisher": "Carnegie Endowment for International Peace",
+ "published": "2023-05-22",
+ "date_source": "source",
+ "why_not": ""
+}

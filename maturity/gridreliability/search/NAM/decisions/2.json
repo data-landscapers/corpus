@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "outages",
+ "aspect": "",
+ "fact": "",
+ "title": "NamPower Integrated Annual Report 2024",
+ "publisher": "NamPower",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": "off-topic: SAIFI of 0.26 is for NamPower's transmission customers only, not the whole grid"
+}

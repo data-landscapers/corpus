@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://documents1.worldbank.org/curated/en/099845306302225625/pdf/P1593410e8778109a0af2d0a35d43011b68.pdf,fetched,,scripts/.workroot/study/g2ppayments/cache/NER/1.txt,11225,pdf,World Bank Document
+2,https://anp.ne/bancarisation-des-pensions-le-gouvernement-poursuivra-la-reforme-jusquau-bout-ministre-des-finances/,fetched,,scripts/.workroot/study/g2ppayments/cache/NER/2.txt,443,html,Bancarisation des pensions : ‘’le gouvernement poursuivra la réforme jusqu’au bout’’ (Ministre des finances) - Agence Nigérienne de Presse
+3,https://www.worldbank.org/en/results/2021/07/13/rapid-cash-assistance-to-get-through-the-crisis,fetched,,scripts/.workroot/study/g2ppayments/cache/NER/3.txt,1293,html,Rapid Cash Assistance to Get Through the Crisis
+4,https://www.lesahel.org/interview-du-coordonnateur-national-du-projet-wuri-niger/,held,held as raw/2024/2024-09-17-ner-lesahel-interview-coordonnateur-wuri-niger.md,,0,,
+5,https://www.uncdf.org/wfp-social-transfers-digitization-project-in-niger,fetched,,scripts/.workroot/study/g2ppayments/cache/NER/5.txt,195,html,WFP Social Transfers Digitization Project in Niger

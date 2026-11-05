@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "outages",
+ "aspect": "outages",
+ "fact": "The Central Electricity Board reports SAIFI of 1.03 (North), 2.35 (Centre) and 2.03 (South) interruptions per customer a year for 2024, and 1.02, 2.40 and 1.19 for 2025.",
+ "title": "KPI / Reliability of Supply",
+ "publisher": "Central Electricity Board (CEB)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

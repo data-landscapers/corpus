@@ -1,0 +1,6 @@
+[
+{"url":"https://data.worldbank.org/indicator/IT.NET.USER.FE.ZS?locations=MR","title":"Individuals using the Internet, female (% of female population) - Mauritania","publisher":"World Bank / ITU","published":"","sub_indicator":"gender","why":"Q1: female internet use series"},
+{"url":"https://data.worldbank.org/indicator/IT.NET.USER.MA.ZS?locations=MR","title":"Individuals using the Internet, male (% of male population) - Mauritania","publisher":"World Bank / ITU","published":"","sub_indicator":"gender","why":"Q1: male internet use series"},
+{"url":"https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_MRT.pdf","title":"Digital Development Dashboard: Mauritania","publisher":"ITU","published":"2023","sub_indicator":"gender","why":"Q1: internet use by sex (NA)"},
+{"url":"https://microdata-catalog.afdb.org/index.php/catalog/141/download/1153","title":"Enquête Démographique et de Santé de la Mauritanie (EDSM) 2019-2021","publisher":"Office National de la Statistique","published":"2022","sub_indicator":"gender","why":"Q1: DHS internet use women 33.5 per cent, men 42.5 per cent (before 2023)"}
+]

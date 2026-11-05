@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "g2p",
+ "aspect": "payment;linked",
+ "fact": "All cash transfers under the NASSP Scale-Up go to beneficiary-owned digital accounts backed by biometric identification, and NIN validation of Social Register households began on 7 April 2025.",
+ "title": "Implementation Status & Results Report: National Social Safety Net Program-Scale Up (P176935)",
+ "publisher": "World Bank",
+ "published": "2025-09-03",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -12,6 +12,10 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-05 05:22 · **REBUILD** · unclocked · gridreliability outages: 0 cells reassessed, 0 moved; 54 searched, 32 staged; ~36M tokens (three shared 109M, incl. concurrent review) - ok
+2026-11-05 05:22 · **REBUILD** · unclocked · gendergap gender: 54 cells reassessed, 0 moved; 54 searched, 14 staged; ~36M tokens (three shared 109M, incl. concurrent review) - ok
+2026-11-05 05:22 · **REBUILD** · 35m · g2ppayments g2p: 49 cells reassessed, 2 moved; 54 searched, 119 staged; ~36M tokens (three shared 109M, incl. concurrent review) - ok
+2026-11-05 05:18 · **REVIEW** · 32m · MRT: status 9 sections revised, 29 trimmed, progress 1 cells, finance 0 rows; 0 deals queued, 1 notes for OSINT - ok
 2026-11-05 04:46 · **BUILD** · 3h15m · catalogue 36,866; 331 sources, 57 units, 33 moved, 94 minted, 62 status; data centres 12; maturity 2,803 arrivals, 265 worked, 29 moved; bulletin 38; 12 deals judged; finance 0 waiting; register 9; prose gate 44; messages 78-84 - ok
 2026-11-04 02:22 · **INDEX** · 10m · research index: stopped at 800 of 988 added or changed records by Claude Code's low-memory reaper; batches kept, resumes next cycle - errored
 2026-11-04 01:58 · **RENDER** · 32m · 301 of 301 documents rendered; home, countries, regions, topics, progress, catalogue, finance, datasets, methodology, maturity; R2 6,229 objects up; deployed 81d6213 - ok

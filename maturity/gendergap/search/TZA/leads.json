@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://www.nbs.go.tz/uploads/statistics/documents/en-1764330874-Information%20and%20Communication%20Technology%20%20Analysis%20%20in%20Tanzania.pdf",
+  "title": "Information and Communication Technology Analysis in Tanzania",
+  "publisher": "National Bureau of Statistics",
+  "published": "2025",
+  "sub_indicator": "gender",
+  "why": "Q1: internet use men 15.8 vs women 13.6 percent (2022 census)"
+ },
+ {
+  "url": "https://researchictafrica.net/research/digital-africa-post-the-pandemic-tanzania-report/",
+  "title": "Digital Africa post the pandemic: Tanzania report",
+  "publisher": "Research ICT Africa",
+  "published": "2025-07-17",
+  "sub_indicator": "gender",
+  "why": "Q1: internet access 23 percent in 2022, women left behind"
+ },
+ {
+  "url": "https://www.nbs.go.tz/uploads/statistics/documents/en-1790928277-Women%20and%20Men%20in%20Tanzania%202025.pdf",
+  "title": "Women and Men in Tanzania 2025",
+  "publisher": "National Bureau of Statistics",
+  "published": "2025",
+  "sub_indicator": "gender",
+  "why": "Q1: internet use pyramid by sex"
+ },
+ {
+  "url": "https://www.mwananchi.co.tz/mw/habari/kitaifa/ripoti-wanawake-wapo-nyuma-kidijitali-4221438",
+  "title": "Ripoti: Wanawake wapo nyuma kidijitali",
+  "publisher": "Mwananchi",
+  "published": "2023-05-03",
+  "sub_indicator": "gender",
+  "why": "Q1: GSMA mobile internet 17 vs 35 percent"
+ }
+]
