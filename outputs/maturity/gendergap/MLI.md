@@ -4,4 +4,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. Nothing found gives the gender gap in internet use.
+***Not found***. No exact figure for women has been found: the 2023-24 health survey summary gives men's internet use, and more than 4 in 10 for women.

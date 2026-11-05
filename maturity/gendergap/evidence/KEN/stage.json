@@ -1,15 +1,16 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "gender",
-   "stage": "3",
-   "gap": "official:14.8148",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-001",
-   "gaps": "The latest figure, 14.8 per cent for 2024, is above 10.",
-   "note": "First pass: counted from the four questions by study-figure.py gendergap."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "gender",
+      "stage": "3",
+      "gap": "official:14.8148",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-001",
+      "gaps": "The latest figure, 14.8 per cent for 2024, is above 10.",
+      "note": "The latest figure, 14.8 per cent for 2024 from ITU's series, is 20 or less but above 10, so 3 and not 4. A KNBS figure cited by KICTANet in August 2026 (37.8 per cent of men, 32.2 of women online) gives the same 14.8.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

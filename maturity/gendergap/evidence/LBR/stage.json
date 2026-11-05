@@ -1,15 +1,16 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "gender",
-   "stage": "no evidence",
-   "gap": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found gives the gender gap in internet use.",
-   "note": "First pass: counted from the four questions by study-figure.py gendergap."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "gender",
+      "stage": "no evidence",
+      "gap": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found gives the gender gap in internet use.",
+      "note": "No figure for the gender gap in internet use, of any year, has been found.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

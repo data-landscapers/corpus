@@ -1,16 +1,16 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "gender",
-   "stage": "unplaced",
-   "gap": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No figure for 2023 or later has been found for the gender gap in internet use.",
-   "note": "First pass: counted from the four questions by study-figure.py gendergap.",
-   "as_at": "2026-10-18"
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "gender",
+      "stage": "unplaced",
+      "gap": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No figure for 2023 or later has been found for the gender gap in internet use.",
+      "note": "The latest figure held, 13.9 per cent for 2022, is before 2023, so no rung is set. A 2026 infrastructure masterplan's estimated 18 per cent gap gives no year and is not staged.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

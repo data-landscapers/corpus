@@ -1,15 +1,16 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "gender",
-   "stage": "no evidence",
-   "gap": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found gives the gender gap in internet use.",
-   "note": "First pass: counted from the four questions by study-figure.py gendergap."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "gender",
+      "stage": "no evidence",
+      "gap": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No exact figure for women has been found: the 2023-24 health survey summary gives men's internet use, and more than 4 in 10 for women.",
+      "note": "No figure for the gender gap in internet use, of any year, has been found. The 2023-24 DHS synthesis gives men's use (61 per cent in the last 12 months) but only more than 4 in 10 for women, so no gap can be computed.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

@@ -1,15 +1,16 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "gender",
-   "stage": "no evidence",
-   "gap": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found gives the gender gap in internet use.",
-   "note": "First pass: counted from the four questions by study-figure.py gendergap."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "gender",
+      "stage": "no evidence",
+      "gap": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found gives the gender gap in internet use.",
+      "note": "No figure for the gender gap in internet use, of any year, has been found. A World Bank trade review's 2019 survey figure (38 per cent of men, 14 of women) is an instrument, older than 2023, and would set no rung.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

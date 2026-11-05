@@ -1,16 +1,16 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "gender",
-   "stage": "5",
-   "gap": "official:-17.5",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SEN-001",
-   "gaps": "All four lines are passed.",
-   "note": "First pass: counted from the four questions by study-figure.py gendergap.",
-   "as_at": "2026-10-18"
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "gender",
+      "stage": "5",
+      "gap": "official:-17.5",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-001",
+      "gaps": "All four lines are passed.",
+      "note": "The latest figure, -17.5 per cent for 2024 from ARTP's ENTICS 2024 survey, is 2 or less, the top rung.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

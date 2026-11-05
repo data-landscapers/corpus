@@ -1,6 +1,6 @@
 # Gender equity: gender gap in internet use
 
-*As at 2026-09-30.*
+*As at 2026-11-05.*
 
 ## The norm
 
@@ -202,7 +202,7 @@ Not established: No figure for 2023 or later has been found for the gender gap i
 
 No figure for the gender gap in internet use has been found for 2023 or later, so no stage is set.
 
-Not established: No figure for 2023 or later has been found for the gender gap in internet use.
+Not established: No figure for the whole population for 2023 or later has been found; the 2024 census figure covers literate people aged 10 and over only.
 
 ### Zambia: Unplaced
 
@@ -304,7 +304,7 @@ Not established: Nothing found gives the gender gap in internet use.
 
 No figure for the gender gap in internet use has been found for 2023 or later, so no stage is set.
 
-Not established: Nothing found gives the gender gap in internet use.
+Not established: No exact figure for women has been found: the 2023-24 health survey summary gives men's internet use, and more than 4 in 10 for women.
 
 ### Mauritania: No evidence
 

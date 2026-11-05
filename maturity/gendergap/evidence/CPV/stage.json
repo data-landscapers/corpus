@@ -1,15 +1,16 @@
 {
- "iso3": "CPV",
- "cells": [
-  {
-   "sub_indicator": "gender",
-   "stage": "unplaced",
-   "gap": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No figure for 2023 or later has been found for the gender gap in internet use.",
-   "note": "First pass: counted from the four questions by study-figure.py gendergap."
-  }
- ]
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "gender",
+      "stage": "unplaced",
+      "gap": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No figure for 2023 or later has been found for the gender gap in internet use.",
+      "note": "The latest figure held, 3.0 per cent for 2019, is before 2023, so no rung is set.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }
