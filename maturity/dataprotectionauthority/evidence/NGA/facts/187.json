@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-04-nga-nin-fraud-arrests-data-scandal-renew-security-concerns",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Nigeria Data Protection Commission, with Dr Vincent Olatunji ordering a full-scale investigation, opened an investigation in March 2024 into alleged unauthorised access to NIN data via XpressVerify.com (The Sun).",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "NDPC",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": "No ruling against a named organisation is stated; an investigation opened is not a ruling."
+}

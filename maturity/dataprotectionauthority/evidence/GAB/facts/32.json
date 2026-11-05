@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-03-gab-loi-sur-les-reseaux-sociaux-lapdpvp-apporte-son-expertise",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Gabon Media Time reports the communication minister was received on 3 November 2026 at the APDPVP by its president Dominique Joel Ledaga, and that under law no. 25/2023 of 12 July 2023 the authority works to prevent breaches of privacy and fundamental rights.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "APDPVP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "APDPVP",
+   "country_label": "Gabon",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

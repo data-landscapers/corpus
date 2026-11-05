@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-02-gha-nia-to-begin-enforcement-of-biometric-verification-regulations-on-nov-3-ghana-ne",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Data Protection Commission certifies institutions seeking access to the National Identity Register, per NIA's onboarding conditions (Ghana News Agency).",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": "No ruling against a named organisation is stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-01-tgo-communique-lancement-du-processus-de-declaration-des-dispositifs-de-vi",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The IPDCP, citing law no. 2019-014 of 29 October 2019, announced the launch of declaration and authorisation of CCTV systems, with a standard form and a compliance pictogram.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "IPDCP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IPDCP",
+   "country_label": "Togo",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Registration process, not a ruling."
+}

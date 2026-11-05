@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-03-tza-tanzania-strengthens-personal-data-protection-to-support-investment-climate",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Respondent says the Personal Data Protection Act of 2022 paved the way for the Personal Data Protection Commission, established on 1 May 2023 and led by Director General Emmanuel Lameck Mkilia.",
+   "as_of": "2023-05-01",
+   "date_precision": "day",
+   "system": "Personal Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Personal Data Protection Commission",
+   "country_label": "Tanzania",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Complaints and permits are counts received or issued, not rulings against a named organisation."
+}
