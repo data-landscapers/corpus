@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-02-dza-transformation-numerique-en-algerie-des-infrastructures-aux-usages-len",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The President ordered on 20 September 2026 a decree on secure digital interoperability to be drawn up, per CARE.",
+   "as_of": "2026-09-20",
+   "date_precision": "day",
+   "system": "decree on secure digital interoperability",
+   "class": "framework"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
