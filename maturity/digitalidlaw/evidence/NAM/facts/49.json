@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-06-nam-economist-parliament-briefed-e-id",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Home Affairs officials told MPs the Identification and Authentication Act of 2024 provides the legal and regulatory framework for the e-ID (Namibia Economist).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Identification and Authentication Act 2024",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Namibia e-ID",
+   "country_label": "Namibia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
