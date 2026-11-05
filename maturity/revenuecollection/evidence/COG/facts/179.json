@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-30-cog-le-secteur-du-numerique-au-congo-brazzaville",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Treasury sheet says transactional platforms built with the mobile operators allow paperless payment of utility bills and, most recently, of land transport taxes.",
+   "as_of": "2024-08-30",
+   "date_precision": "day",
+   "system": "Mobile operator payment platforms",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

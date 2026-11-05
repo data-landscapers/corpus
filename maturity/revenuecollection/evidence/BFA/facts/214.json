@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-04-bfa-communiqu-dgi-facturation-lectronique-certifi-e-obligatoire-pour-les-g",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SECeF",
+   "country_label": "Burkina Faso",
+   "class": "other",
+   "platform": "certified electronic invoicing system",
+   "owner": "DGI",
+   "tiers": ""
+  }
+ ],
+ "note": "Certified e-invoicing obligation; no electronic payment of tax stated."
+}
