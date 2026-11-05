@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-03-xwa-launchbaseafrica-pi-spi-rocky-start",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The BCEAO's mandate that all interoperable electronic-money transfers across the eight WAEMU states route through PI-SPI took effect on 2 November 2026, with transfer fees capped at 0.8 per cent above 8,000 CFA francs, according to Launch Base Africa.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "PI-SPI mandate",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "connect",
+   "fact": "The BCEAO set a regulatory deadline of 30 September 2026 for institutions to connect to PI-SPI and mandated routing of interoperable e-money transfers through it from 2 November 2026; Wave, which holds about 80 per cent of Senegal's mobile money market, connected on 30 September.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "PI-SPI mandate",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "WAEMU",
+   "class": "other",
+   "platform": "instant payment platform",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
