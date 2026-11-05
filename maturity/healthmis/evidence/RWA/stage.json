@@ -1,17 +1,18 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "hmis",
-   "stage": "5",
-   "system": "inservice",
-   "linked": "linked",
-   "completeness": "published",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "RWA-002",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "5",
+      "system": "inservice",
+      "linked": "linked",
+      "completeness": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-002",
+      "gaps": "",
+      "note": "DHIS2 covers 700+ facilities and is integrated with eLMIS, CRVS and medical records, and completeness of 95% is published.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

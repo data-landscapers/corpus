@@ -1,17 +1,18 @@
 {
- "iso3": "MDG",
- "cells": [
-  {
-   "sub_indicator": "hmis",
-   "stage": "4",
-   "system": "inservice",
-   "linked": "linked",
-   "completeness": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MDG-003",
-   "gaps": "No source found since October 2023 gives the system's reporting completeness or timeliness.",
-   "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
-  }
- ]
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "4",
+      "system": "inservice",
+      "linked": "linked",
+      "completeness": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-003",
+      "gaps": "No source found since October 2023 gives the system's reporting completeness or timeliness.",
+      "note": "DHIS2 is the national health data system and CommCare's surveillance and community data are integrated into it. No reporting rate is held, so it stops at 4.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

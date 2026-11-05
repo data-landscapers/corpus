@@ -9,3 +9,56 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,LBR,dpi.mis--health,review,no evidence,3,LBR-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,ZAF,dpi.mis--health,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-11-03,GMB,dpi.mis--health,fact,2,3,GMB-003,"DHIS2 (Sep 2024) says DHIS2 has been Gambia's national HMIS since 2009; national system in service, stage 2 to 3"
+2026-11-05,AGO,dpi.mis--health,review,3,3,AGO-001,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 3 held.
+2026-11-05,BDI,dpi.mis--health,review,5,5,BDI-004,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 5 held.
+2026-11-05,BEN,dpi.mis--health,review,3,3,BEN-001,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 3 held.
+2026-11-05,BFA,dpi.mis--health,review,3,3,BFA-001;BFA-002,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 3 held.
+2026-11-05,BWA,dpi.mis--health,review,3,3,BWA-001,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 3 held.
+2026-11-05,CAF,dpi.mis--health,review,5,5,CAF-003,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 5 held.
+2026-11-05,CIV,dpi.mis--health,review,4,4,CIV-002,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 4 held.
+2026-11-05,CMR,dpi.mis--health,review,unplaced,unplaced,,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage unplaced held.
+2026-11-05,COD,dpi.mis--health,review,5,5,COD-005,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 5 held.
+2026-11-05,COG,dpi.mis--health,review,3,3,COG-001,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 3 held.
+2026-11-05,COM,dpi.mis--health,review,4,4,COM-003,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 4 held.
+2026-11-05,CPV,dpi.mis--health,review,2,2,CPV-001,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 2 held.
+2026-11-05,DJI,dpi.mis--health,review,3,3,DJI-001,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 3 held.
+2026-11-05,DZA,dpi.mis--health,review,no evidence,no evidence,,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage no evidence held.
+2026-11-05,EGY,dpi.mis--health,review,2,2,EGY-001,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 2 held.
+2026-11-05,ERI,dpi.mis--health,review,3,3,ERI-001,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 3 held.
+2026-11-05,ETH,dpi.mis--health,review,3,3,ETH-003;ETH-001,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 3 held.
+2026-11-05,GAB,dpi.mis--health,review,2,2,GAB-003;GAB-002,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 2 held.
+2026-11-05,GHA,dpi.mis--health,review,2,2,GHA-001;GHA-002,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 2 held.
+2026-11-05,GIN,dpi.mis--health,review,3,3,GIN-003,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 3 held.
+2026-11-05,GNB,dpi.mis--health,review,4,4,GNB-004,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 4 held.
+2026-11-05,GNQ,dpi.mis--health,review,2,2,GNQ-001;GNQ-003,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 2 held.
+2026-11-05,KEN,dpi.mis--health,review,2,2,KEN-001;KEN-002,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 2 held.
+2026-11-05,LBR,dpi.mis--health,review,3,3,LBR-001,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 3 held.
+2026-11-05,LBY,dpi.mis--health,review,3,3,LBY-001,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 3 held.
+2026-11-05,LSO,dpi.mis--health,review,2,2,LSO-001,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 2 held.
+2026-11-05,MAR,dpi.mis--health,review,2,2,MAR-001,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 2 held.
+2026-11-05,MDG,dpi.mis--health,review,4,4,MDG-003,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 4 held.
+2026-11-05,MLI,dpi.mis--health,review,3,3,MLI-002,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 3 held.
+2026-11-05,MOZ,dpi.mis--health,review,4,4,MOZ-002,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 4 held.
+2026-11-05,MRT,dpi.mis--health,review,3,3,MRT-002;MRT-001,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 3 held.
+2026-11-05,MUS,dpi.mis--health,review,no evidence,no evidence,,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage no evidence held.
+2026-11-05,MWI,dpi.mis--health,review,3,3,MWI-004;MWI-001,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 3 held.
+2026-11-05,NAM,dpi.mis--health,review,5,5,NAM-002,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 5 held.
+2026-11-05,NER,dpi.mis--health,review,4,4,NER-004;NER-006,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 4 held.
+2026-11-05,NGA,dpi.mis--health,review,5,5,NGA-002,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 5 held.
+2026-11-05,RWA,dpi.mis--health,review,5,5,RWA-002,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 5 held.
+2026-11-05,SDN,dpi.mis--health,review,5,5,SDN-002,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 5 held.
+2026-11-05,SEN,dpi.mis--health,review,5,5,SEN-002,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 5 held.
+2026-11-05,SLE,dpi.mis--health,review,5,5,SLE-005,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 5 held.
+2026-11-05,SOM,dpi.mis--health,review,4,4,SOM-006;SOM-002,"Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 4 held. Stage now rests on SOM-006 (Tracker for surveillance and immunisation) and SOM-002, not the consortium system SOM-004."
+2026-11-05,SSD,dpi.mis--health,review,5,5,SSD-005,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 5 held.
+2026-11-05,STP,dpi.mis--health,review,3,3,STP-001,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 3 held.
+2026-11-05,SWZ,dpi.mis--health,review,no evidence,no evidence,,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage no evidence held.
+2026-11-05,SYC,dpi.mis--health,review,no evidence,no evidence,,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage no evidence held.
+2026-11-05,TCD,dpi.mis--health,review,2,2,TCD-001,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 2 held.
+2026-11-05,TGO,dpi.mis--health,review,4,4,TGO-003,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 4 held.
+2026-11-05,TUN,dpi.mis--health,review,no evidence,no evidence,,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage no evidence held.
+2026-11-05,TZA,dpi.mis--health,review,3,3,TZA-003;TZA-001,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 3 held.
+2026-11-05,UGA,dpi.mis--health,review,5,5,UGA-004,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 5 held.
+2026-11-05,ZAF,dpi.mis--health,review,unplaced,unplaced,,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage unplaced held.
+2026-11-05,ZMB,dpi.mis--health,review,5,5,ZMB-002,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 5 held.
+2026-11-05,ZWE,dpi.mis--health,review,5,5,ZWE-004,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 5 held.

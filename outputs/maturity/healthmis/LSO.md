@@ -2,7 +2,7 @@
 
 ## Health information system
 
-**Health information system.** [FHI 360 EpiC Lesotho's June 2026 request for proposal has the consultant coordinate integration and interoperability of project systems (LEAD, Infolink, DHIS2 Tracker) with the national DHIS2 platform, supporting MoH and DHMTs in project-supported districts](<https://selibeng.com/epic-lesotho-consultancy-digital-health-and-data-analytics/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Health information system.** [A June 2026 FHI 360 EpiC Lesotho tender seeks a consultant](<https://selibeng.com/epic-lesotho-consultancy-digital-health-and-data-analytics/>). [The consultant is to link project systems, LEAD, Infolink and DHIS2 Tracker, with the national DHIS2 platform](<https://selibeng.com/epic-lesotho-consultancy-digital-health-and-data-analytics/>). [The work supports the ministry and district health teams in project districts](<https://selibeng.com/epic-lesotho-consultancy-digital-health-and-data-analytics/>). It is the only fact held on the subject. No news story or official notice read for this study says more about it. The documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Linked.** No source found since October 2023 says the system is linked to surveillance, supply chain or a register. The nearest held fact: [the one given above](<https://selibeng.com/epic-lesotho-consultancy-digital-health-and-data-analytics/>).
 

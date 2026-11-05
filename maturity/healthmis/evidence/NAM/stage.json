@@ -1,17 +1,18 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "hmis",
-   "stage": "5",
-   "system": "inservice",
-   "linked": "linked",
-   "completeness": "published",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-002",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "5",
+      "system": "inservice",
+      "linked": "linked",
+      "completeness": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-002",
+      "gaps": "",
+      "note": "Countdown to 2030 gives 96% of expected monthly facility reports received nationally in DHIS2 in 2024, which shows the national rung by its own evidence. No link is held; the published rate answers that question.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

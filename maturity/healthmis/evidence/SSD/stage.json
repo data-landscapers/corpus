@@ -1,17 +1,18 @@
 {
- "iso3": "SSD",
- "cells": [
-  {
-   "sub_indicator": "hmis",
-   "stage": "5",
-   "system": "inservice",
-   "linked": "linked",
-   "completeness": "published",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SSD-005",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
-  }
- ]
+  "iso3": "SSD",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "5",
+      "system": "inservice",
+      "linked": "linked",
+      "completeness": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SSD-005",
+      "gaps": "",
+      "note": "DHIS2 is the national system across states and counties, interoperable with the mSupply eLMIS, and the 2025 maturity assessment published completeness of 62%.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

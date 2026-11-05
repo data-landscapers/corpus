@@ -1,17 +1,18 @@
 {
- "iso3": "COM",
- "cells": [
-  {
-   "sub_indicator": "hmis",
-   "stage": "4",
-   "system": "inservice",
-   "linked": "linked",
-   "completeness": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COM-003",
-   "gaps": "No source found since October 2023 gives the system's reporting completeness or timeliness.",
-   "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
-  }
- ]
+  "iso3": "COM",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "4",
+      "system": "inservice",
+      "linked": "linked",
+      "completeness": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COM-003",
+      "gaps": "No source found since October 2023 gives the system's reporting completeness or timeliness.",
+      "note": "Almost 99% of public facilities report through DHIS2, which is linked to the Open mSupply eLMIS. No reporting rate is held, so it stops at 4.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

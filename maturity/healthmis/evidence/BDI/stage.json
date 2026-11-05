@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "BDI-004",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-healthmis.py.",
-      "as_at": "2026-10-18"
+      "note": "The Annuaire 2024 publishes a national completeness of 99.6% for community reports in DHIS2, the system every facility reports into. The SIDAInfo HIV record feeds DHIS2, so every question is answered.",
+      "as_at": "2026-11-05"
     }
   ]
 }

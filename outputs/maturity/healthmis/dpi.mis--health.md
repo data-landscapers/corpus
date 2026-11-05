@@ -1,6 +1,6 @@
 # Health: health information system
 
-*As at 2026-10-18.*
+*As at 2026-11-05.*
 
 ## The norm
 
@@ -149,7 +149,7 @@ The national health information system was linked to another health system in 20
 
 The national health information system was linked to another health system in 2026; its reporting rate is not published.
 
-- The CaafimaadPlus Consortium says its C+ Digitalized Data System, operating in over 40 facilities across 9 regions, pushes data in real time into the government's DHIS2 platform ([source, 2026-04](https://caafimaad-plus.org/partnering-for-a-data-driven-somali-health-system/)).
+- HISP UiO says Somalia has adopted DHIS2 Tracker for disease surveillance, HIV monitoring and immunization records within its DHIS2-based health management information system ([source, 2025-08-15](https://dhis2.org/unicef-and-hisp-uio-expand-partnership-somalia/)).
 - The poster says RAAD (BAMNI), the national primary-care electronic health record deployed in 111 facilities across six states, automatically generates DHIS2-compliant aggregate reports from routine care records ([source, 2025](https://community.dhis2.org/t/a-standards-based-approach-to-dhis2-integration/72690)).
 
 ### Togo: 4 Operating

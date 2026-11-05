@@ -1,17 +1,18 @@
 {
- "iso3": "GNQ",
- "cells": [
-  {
-   "sub_indicator": "hmis",
-   "stage": "2",
-   "system": "underway",
-   "linked": "",
-   "completeness": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GNQ-001;GNQ-003",
-   "gaps": "No source found since October 2023 says: is a national one in service.",
-   "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
-  }
- ]
+  "iso3": "GNQ",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "2",
+      "system": "underway",
+      "linked": "",
+      "completeness": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNQ-001;GNQ-003",
+      "gaps": "No source found since October 2023 says: is a national one in service.",
+      "note": "DHIS2 was piloted in two districts in 2025, with national expansion foreseen for 2026. A pilot does not carry the country.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

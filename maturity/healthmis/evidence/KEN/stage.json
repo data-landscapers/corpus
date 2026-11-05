@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "KEN-001;KEN-002",
       "gaps": "No source found since October 2023 says: is a national one in service.",
-      "note": "First pass: counted from the four questions by study-ladder-healthmis.py.",
-      "as_at": "2026-10-18"
+      "note": "All 6,427 public Level 2 to 4 facilities have moved from the SHA portal to HMIS platforms, 28 of them certified. Migration to facility systems is not reporting through one national system, which no source here shows.",
+      "as_at": "2026-11-05"
     }
   ]
 }

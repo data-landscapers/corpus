@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "hmis",
-   "stage": "5",
-   "system": "inservice",
-   "linked": "linked",
-   "completeness": "published",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-002",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "5",
+      "system": "inservice",
+      "linked": "linked",
+      "completeness": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-002",
+      "gaps": "",
+      "note": "The federal NHMIS bulletin shows facilities across the states reporting and publishes a national reporting rate of 91.5% for June 2025. No link is held; the published rate answers that question.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

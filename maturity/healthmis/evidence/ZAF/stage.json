@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "",
       "gaps": "Nothing found since October 2023 says whether a health information system is under way or in service.",
-      "note": "First pass: counted from the four questions by study-ladder-healthmis.py.",
-      "as_at": "2026-10-18"
+      "note": "The one fact held is a 2011 policy, outside the three-year window, so no rung is set.",
+      "as_at": "2026-11-05"
     }
   ]
 }

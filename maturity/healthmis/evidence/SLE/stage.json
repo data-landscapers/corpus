@@ -1,17 +1,18 @@
 {
- "iso3": "SLE",
- "cells": [
-  {
-   "sub_indicator": "hmis",
-   "stage": "5",
-   "system": "inservice",
-   "linked": "linked",
-   "completeness": "published",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SLE-005",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
-  }
- ]
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "5",
+      "system": "inservice",
+      "linked": "linked",
+      "completeness": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SLE-005",
+      "gaps": "",
+      "note": "DHIS2 runs in all 16 districts, the Health Information Hub joins it to supply chain and staffing data, and national completeness of 98% in 2024 is published.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

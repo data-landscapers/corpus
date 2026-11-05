@@ -1,17 +1,18 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "hmis",
-   "stage": "3",
-   "system": "inservice",
-   "linked": "",
-   "completeness": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MLI-002",
-   "gaps": "No source found since October 2023 says the system is linked to surveillance, supply chain or a register.",
-   "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "3",
+      "system": "inservice",
+      "linked": "",
+      "completeness": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-002",
+      "gaps": "No source found since October 2023 says the system is linked to surveillance, supply chain or a register.",
+      "note": "DHIS2 is the official national system; its interoperability with the DISC-Mali community tool is not with a system the link rung names. No reporting rate is held.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

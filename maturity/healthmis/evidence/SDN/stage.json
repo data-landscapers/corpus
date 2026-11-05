@@ -1,17 +1,18 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "hmis",
-   "stage": "5",
-   "system": "inservice",
-   "linked": "linked",
-   "completeness": "published",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SDN-002",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "5",
+      "system": "inservice",
+      "linked": "linked",
+      "completeness": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SDN-002",
+      "gaps": "",
+      "note": "DHIS2 is the one approved national system and the minister gave national reporting coverage of more than 56% at the end of 2025, read as its reporting rate. The call to move fully off paper shows coverage is partial, not that no national system is in service.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

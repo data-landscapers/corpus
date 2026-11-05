@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "LBR-001",
       "gaps": "No source found since October 2023 says the system is linked to surveillance, supply chain or a register.",
-      "note": "First pass: counted from the four questions by study-ladder-healthmis.py.",
-      "as_at": "2026-10-18"
+      "note": "Monthly data from all vaccinating facilities enter the DHIS2-based HMIS through the counties. No link or reporting rate is held.",
+      "as_at": "2026-11-05"
     }
   ]
 }

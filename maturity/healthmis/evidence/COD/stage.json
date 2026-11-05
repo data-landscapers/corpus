@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "COD-005",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-healthmis.py.",
-      "as_at": "2026-10-18"
+      "note": "DHIS2 carries facility reporting across the health zones, eIDSR surveillance is integrated in it, and completeness of 99% in 2024 is published.",
+      "as_at": "2026-11-05"
     }
   ]
 }

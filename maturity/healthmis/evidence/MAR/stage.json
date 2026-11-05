@@ -1,17 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "hmis",
-   "stage": "2",
-   "system": "underway",
-   "linked": "",
-   "completeness": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-001",
-   "gaps": "No source found since October 2023 says: is a national one in service.",
-   "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "2",
+      "system": "underway",
+      "linked": "",
+      "completeness": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-001",
+      "gaps": "No source found since October 2023 says: is a national one in service.",
+      "note": "The ministry runs DHIS2 for several national programmes, HIV and tuberculosis among them. No source shows routine reporting from facilities across the country through it.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

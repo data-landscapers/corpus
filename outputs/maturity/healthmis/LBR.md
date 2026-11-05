@@ -2,7 +2,7 @@
 
 ## Health information system
 
-**Health information system.** [The Vaccines (MDPI) article by CDC, Ministry of Health and UNICEF authors states that monthly datasets from all health facilities offering vaccination are aggregated at county level and entered by data officers into Liberia's DHIS2-based health management information system managed by the Ministry of Health, which supplies national reports](<https://www.mdpi.com/2076-393X/14/4/323>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Health information system.** [A 2026 Vaccines article by CDC, Ministry of Health and UNICEF authors describes Liberia's vaccination data](<https://www.mdpi.com/2076-393X/14/4/323>). [Monthly datasets from all facilities offering vaccination are aggregated at county level](<https://www.mdpi.com/2076-393X/14/4/323>). [Data officers enter them into the DHIS2-based HMIS the Ministry of Health manages](<https://www.mdpi.com/2076-393X/14/4/323>). [The system supplies national reports](<https://www.mdpi.com/2076-393X/14/4/323>). It is the only fact held on the subject. No news story or official notice read for this study says more about it. The documents the earlier cell cited were not read, and the systems themselves were not examined.
 
 **Linked.** No source found since October 2023 says the system is linked to surveillance, supply chain or a register. The nearest held fact: [the one given above](<https://www.mdpi.com/2076-393X/14/4/323>).
 

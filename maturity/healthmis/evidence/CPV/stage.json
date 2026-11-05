@@ -1,17 +1,18 @@
 {
- "iso3": "CPV",
- "cells": [
-  {
-   "sub_indicator": "hmis",
-   "stage": "2",
-   "system": "underway",
-   "linked": "",
-   "completeness": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CPV-001",
-   "gaps": "No source found since October 2023 says: is a national one in service.",
-   "note": "First pass: counted from the four questions by study-ladder-healthmis.py."
-  }
- ]
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "hmis",
+      "stage": "2",
+      "system": "underway",
+      "linked": "",
+      "completeness": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CPV-001",
+      "gaps": "No source found since October 2023 says: is a national one in service.",
+      "note": "A September 2026 tender seeks support to implement SIS/PORTAL and DHIS2. No source shows facilities across the country reporting through a national system.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }
