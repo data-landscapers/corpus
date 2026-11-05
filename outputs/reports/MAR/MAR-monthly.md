@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: MAR
-ledger_rows: 20
+ledger_rows: 21
 not_held: 14
-record: 506742351137
+record: 8d62db2720b8
 ---
 
 # News, Oct – Nov 2026
@@ -243,6 +243,8 @@ Morocco's draft 2027 finance bill includes MAD 1.34 billion for digital sovereig
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
@@ -343,6 +345,22 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 **[Rapport annuel sur les infrastructures de marchés financiers et les moyens de paiement - Exercice 2025](https://www.bkam.ma/content/download/852741/9198194/Rapport%20annuel%20DSSMP%202025.pdf)** — Bank Al-Maghrib, 21 October 2026
 
 Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+
+</div>
+
+</div>
+
+### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Court case management and judicial platforms</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزير العدل يستعرض بمجلس النواب أولويات إصلاح منظومة العدالة ويؤكد التلازم بين مكافحة الفساد وحماية الحقوق والحريات](https://justice.gov.ma/2026/11/03/16889/)** — Ministère de la Justice (Maroc), 3 November 2026
+
+Minister to MPs, 2 Nov 2026: about MAD 2.5bn to finish court digitisation; e-file, digital notice, enforcement platform.
 
 </div>
 
