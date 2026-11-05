@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-04-switch-al-maghrib-on-future-of-payments",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Switch Al-Maghrib AI fraud scoring",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "national routing engine",
+   "owner": "Switch Al-Maghrib",
+   "tiers": ""
+  }
+ ],
+ "note": "AI integrated into the routing engine; no model built, dataset or AI computing stated."
+}

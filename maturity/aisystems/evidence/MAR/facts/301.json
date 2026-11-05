@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-03-xaf-undp-african-ai-companies-g7-industry-partnership-to-deployment-rome",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "inservice",
+   "fact": "UNDP and the AI Hub launched on 3 November 2026 a shared food-security AI foundation model built on the African-developed model of Moroccan agritech DeepLeaf, already validated in Morocco.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "DeepLeaf food-security AI foundation model",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DeepLeaf food-security AI foundation model",
+   "country_label": "DeepLeaf",
+   "class": "localai",
+   "platform": "AI foundation model",
+   "owner": "DeepLeaf (Moroccan agritech company)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

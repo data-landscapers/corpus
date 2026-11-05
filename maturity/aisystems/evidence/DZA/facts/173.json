@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-03-dza-mesrs-sixieme-reunion-multisectorielle-strategie-nationale-ia",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The ministry says a language model specialised in Algerian tax legislation is being developed, with 98% of the relevant legal and regulatory documents collected.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "Language model for Algerian tax legislation",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Language model for Algerian tax legislation",
+   "country_label": "Algeria",
+   "class": "localai",
+   "platform": "",
+   "owner": "Ministry of Higher Education and Scientific Research",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

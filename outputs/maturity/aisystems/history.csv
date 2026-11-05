@@ -91,3 +91,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-23,ZAF,tech.ai--development-of-national-regional-ai-systems,fact,4,5,ZAF-012;ZAF-013,"The CHPC catalogue lists a 30-node V100 GPU cluster free to academics with over 2,000 users: shared"
 2026-10-26,MOZ,tech.ai--development-of-national-regional-ai-systems,fact,2,3,MOZ-003,"MAZA IA, an AI learning tool built by MOZEDUCA with Vodacom, launched 22 October 2026: a model built in the country in service"
 2026-11-02,SYC,tech.ai--development-of-national-regional-ai-systems,fact,no evidence,2,SYC-001,Government cloud with AI computing planned with World Bank support (Oct 2026): no evidence to 2
+2026-11-05,TGO,tech.ai--development-of-national-regional-ai-systems,fact,4,4,TGO-014;TGO-005,"UNDP counts 50,200 requests on the GPU server from public bodies and Togo AI Lab; not open to outside users, stage 4 holds"

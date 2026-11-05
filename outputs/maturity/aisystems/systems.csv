@@ -57,6 +57,7 @@ DJI,MAZU-Djibouti 2.0,Djibouti,other,,Chinese Meteorological Administration (pro
 DZA,LLM for university lecturers,Algeria,localai,,Ministry of Higher Education and Scientific Research,,2026-07-25-echorouk-parcours-pedagogique-ia-universite
 DZA,APN-CERIST dialect speech-to-text,Algeria,localai,,CERIST / Assemblee Populaire Nationale,,2024-10-01-dza-contribution-de-m-salim-djalal-secretaire-general-de-l-assemblee-popul
 DZA,"AI high-performance computing centre, Oran",AI high-performance computing centre,localai,,Ministry of Post and Telecommunications,,2025-03-17-dza-lancement-du-premier-centre-de-calcul-haute-performance-dedie-a-l-ia-e
+DZA,Language model for Algerian tax legislation,Algeria,localai,,Ministry of Higher Education and Scientific Research,,2026-11-03-dza-mesrs-sixieme-reunion-multisectorielle-strategie-nationale-ia
 EGY,Egypt sovereign AI data centre,Egypt,localai,GPU-as-a-Service,Vodafone Business and Cassava Technologies,,2026-09-08-maspero-vodafone-elsewedy-cassava-egypt-data-centre
 EGY,Karnak,Egypt,localai,Arabic large language model,"Applied Innovation Center, Ministry of Communications and Information Technology",national,2026-08-24-ahram-egypt-mcit-minister-ai-regional-global-position
 EGY,Karnak,Egypt,localai,Arabic large language model,"Applied Innovation Center, Ministry of Communications and Information Technology",national,2026-08-24-ahram-gate-egypt-karnak-chat-llm-digital-sovereignty
@@ -130,6 +131,8 @@ MAR,Atlaset,Atlaset / AlAtlas,localai,Hugging Face,AtlasIA,,2025-01-01-mar-al-at
 MAR,GemMaroc,Morocco,localai,,,,2026-10-25-mar-le-plf-2027-veut-faire-du-cloud-le-choix-par-defaut-des-nouveaux-projets-numeriq
 MAR,IsMa,Morocco,localai,,,,2026-10-25-mar-le-plf-2027-veut-faire-du-cloud-le-choix-par-defaut-des-nouveaux-projets-numeriq
 MAR,AI Factory,Morocco,localai,,Nexus,,2026-10-28-mar-medias24-decret-2-26-831-attributions-ia-rahhou
+MAR,Switch Al-Maghrib AI fraud scoring,Morocco,other,national routing engine,Switch Al-Maghrib,,2026-11-04-switch-al-maghrib-on-future-of-payments
+MAR,DeepLeaf food-security AI foundation model,DeepLeaf,localai,AI foundation model,DeepLeaf (Moroccan agritech company),,2026-11-03-xaf-undp-african-ai-companies-g7-industry-partnership-to-deployment-rome
 MLI,Centre d'intelligence artificielle et de robotique,Mali,other,,,,2026-09-28-mli-ai-robotics-centre-sovereignty-diallo
 MLI,Centre d'Intelligence Artificielle et Robotique du Mali,Mali,other,,,,2026-07-06-mali-discours-dialogue-mondial-gouvernance-ia
 MLI,African Next Voices Bambara dataset (AFVoices) and ASR models,Mali,localai,Hugging Face,RobotsMali AI4D Lab,,2025-11-26-mli-robotsmali-african-next-voices-bambara
@@ -159,6 +162,7 @@ NAM,ATLAS Umoja AI,Namibia,localai,,GSMA and five governments,,2026-07-31-gsma-a
 NAM,National Artificial Intelligence Institute,Namibia,localai,,NCRST,national,2026-09-25-nam-neweralive-ncrst-ai-institute-opens
 NAM,NCRST-funded HPC centres at NUST and UNAM,Namibia,localai,GPU-enabled HPC,"NUST and UNAM, funded by NCRST",university,2026-09-25-nam-neweralive-ncrst-ai-institute-opens
 NAM,PARAM Supercomputer at NUST,Namibia,localai,"C-DAC PARAM cluster, Dell PowerEdge, 1 NVIDIA Tesla V100",Namibia University of Science and Technology (INCEIT),university,2026-08-09-inceit-param-hpc-nust-namibia-specification
+NAM,National Artificial Intelligence Institute,Namibia,other,,Government of Namibia,,2026-11-03-nam-regulating-ai-without-restricting-innovation
 NER,Rayuwa,Niger,localai,Android app (Play Store),Agence de Developpement Numerique (ADN),,2025-08-29-ner-adn-rayuwa-ai-platform-training
 NGA,N-ATLAS,Nigeria,localai,Llama-3 8B LLM,"Awarri, NITDA, NCAIR",national,2025-09-22-n-atlas-nigerian-llm-launch
 NGA,AGH Cloud / Africa GPU Hub,Nigeria,localai,GPU cloud,Udu Technologies,,2026-09-11-udutech-baro-ai-gpu-supply-africa
@@ -178,6 +182,7 @@ NGA,National shared computing facility,Nigeria,localai,,Government with Gates Fo
 NGA,AFRIDATA data centres,Nigeria,other,AI-ready data centres,INFRAGORA Global Capital,Tier III+/IV (planned),2026-10-26-nga-techcabal-infragora-afridata-data-centres
 NGA,"AFRIDATA Nigeria data centres (Lagos, Delta)",Nigeria,other,,AFRIDATA,Lagos designed to Tier IV,2026-10-28-nga-afridata-agency-sign-1-87m-grant-for-nigerian-data-centre-study
 NGA,awarri language models,Nigeria,localai,,awarri,,2026-10-29-inside-nigeria-s-7-5m-gates-backed-ai-scaling-hub
+NGA,HeliumMum,Nigeria,other,AI-powered maternal health tool,Helium Health,,2026-11-04-nga-google-org-backs-helium-health-with-2-5-million-grant-to-scale-ai-powered-matern
 RWA,NISR survey coding model,Rwanda,localai,machine learning model trained on NISR coded survey data since 2017; Android app for enumerators exists,National Institute of Statistics of Rwanda (NISR),national,2026-10-01-cenfri-award-winner-ngirinshuti-ai-model-rwanda-statistical-analysis
 RWA,UNDP country-hosted AI compute,Rwanda,localai,GPU,UNDP programme,,2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries
 RWA,Kinyarwanda voice dataset on Common Voice,Rwanda,localai,Mozilla Common Voice,Digital Umuganda; Mozilla Foundation,,2024-05-24-rwa-voice-technology-infrastructure-for-artificial-intelligence-engine-in
@@ -220,6 +225,7 @@ TGO,Togo AI Lab GPU infrastructure,Togo,localai,GPU,Togo AI Lab,,2026-10-05-tgo-
 TGO,Challenge national des langues locales,Togo,localai,,Ministry of Public Service Efficiency and Digital Transformation / Togo AI Lab,,2026-10-05-tgo-undp-voix-du-togo-infrastructure-gpu-supercalculateur
 TGO,TogoLM,Togo,localai,"RAG pipeline with pgvector, Gemini generation, Mistral 7B fine-tune",individual developer,,2026-06-18-tgo-l-afrique-n-est-pas-dans-votre-llm-togolm
 TGO,Yodi,Togo,localai,,Justin Bakoubolo,,2024-11-18-tgo-togo-une-ia-de-reconnaissance-vocale-pour-deux-langues-locales-en-lanc
+TGO,GPU server,Togo,localai,Lomé Data Centre,Togo AI Lab (donated by UNDP),,2026-11-03-tgo-un-supercalculateur-pour-acc-l-rer-l-innovation-technologique-l-intelligence-artificie
 TUN,"Supercalculateur HPC, Centre de Calcul El Khawarizmi",Tunisia,localai,"SOHO/ZTE/DSHELL installation, Chinese donation",Centre de Calcul El Khawarizmi,national,2026-07-23-inauguration-premier-supercalculateur-hpc-cck-el-khawarizmi
 TUN,Centre de calcul El Khawarizmi (CCK) HPC system,Tunisia,localai,,"Centre de calcul El Khawarizmi, hosted at the university",,2026-07-24-tun-tunisie-le-centre-de-calcul-el-khawarizmi-se-dote-d-un-supercalculateu
 TUN,DataXion Cloud GPU NVIDIA L40S,Tunisia,localai,"NVIDIA L40S, Tier IV datacentre",DataXion,Tier IV (stated),2026-04-01-tun-le-premier-cloud-gpu-nvidia-l40s-en-tunisie-dedie-a-l-ia

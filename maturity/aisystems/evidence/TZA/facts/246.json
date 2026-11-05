@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-03-xaf-undp-african-ai-companies-g7-industry-partnership-to-deployment-rome",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "UNDP says local agritech start-ups in this country will build their own solutions on the shared DeepLeaf-based food-security AI model launched 3 November 2026.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "DeepLeaf food-security AI foundation model",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

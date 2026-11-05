@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-02-dza-transformation-numerique-en-algerie-des-infrastructures-aux-usages-len",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "CARE says four large language models have been announced in Algeria, two presented as completed, with no compute, GPU count or budget established.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "national large language models",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

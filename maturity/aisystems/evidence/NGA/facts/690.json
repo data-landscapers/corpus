@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-04-nga-google-org-backs-helium-health-with-2-5-million-grant-to-scale-ai-powered-matern",
+ "facts": [],
+ "systems": [
+  {
+   "system": "HeliumMum",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "AI-powered maternal health tool",
+   "owner": "Helium Health",
+   "tiers": ""
+  }
+ ],
+ "note": "Does not state a model built or released in Nigeria, nor AI computing or datasets; scale-up grant only."
+}

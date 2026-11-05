@@ -97,8 +97,9 @@ AI computing was in service in the country in 2026; no source found reports its 
 
 ### Togo: 4 Operating
 
-AI computing was in service in the country in 2026; no source found reports its use by others.
+A GPU server served government users from 2026; its opening to outside researchers or startups is not found.
 
+- UNDP Togo says a UNDP-donated GPU server, installed at Lomé Data Centre and run by Togo AI Lab, has been in service since July 2026 and processed about 50,200 requests between 26 August and 27 October 2026 ([source, 2026-07](https://www.undp.org/fr/togo/actualites/un-supercalculateur-pour-accelerer-linnovation-technologique-lintelligence-artificielle-et-la-prise-de-decision-strategique-au-togo)).
 - UNDP's programme procured and deployed country-hosted GPU compute in Togo ([source, 2026-09-17](https://www.undp.org/africa/publications/local-ai-compute-infrastructure-africa-lessons-six-country-hosted-deployments-governance-and-effective-use)).
 
 ### Zambia: 4 Operating

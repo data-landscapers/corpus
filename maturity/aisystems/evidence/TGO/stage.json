@@ -9,10 +9,10 @@
       "shared": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TGO-005",
-      "gaps": "No source found since October 2023 says national AI computing, models or datasets are open to named or counted users.",
-      "note": "UNDP says it procured and deployed country-hosted GPU compute in Togo. The Togo Data Lab's cluster access for two universities is stated as what Google.org's support will give, not as in use.",
-      "as_at": "2026-10-22"
+      "stage_sources": "TGO-014;TGO-005",
+      "gaps": "The GPU server's named users are public bodies and the Togo AI Lab that runs it; no source found says it is open to outside researchers, startups or other countries.",
+      "note": "UNDP says the GPU server at Lomé Data Centre, run by Togo AI Lab, has been in service since July 2026 and handled about 50,200 requests by 27 October 2026 (TGO-014). Its users named are government departments and the lab itself, reached over an internal network, so not 5.",
+      "as_at": "2026-11-05"
     }
   ]
 }
