@@ -1,11 +1,11 @@
 ---
 title: Seychelles — News, Oct – Nov 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: SYC
-ledger_rows: 10
+ledger_rows: 12
 not_held: 6
-record: afd8bb2a2933
+record: ddc7a7ef92e0
 ---
 
 # News, Oct – Nov 2026
@@ -30,6 +30,8 @@ record: afd8bb2a2933
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#legislation-and-regulation">Legislation and regulation</a>
 </nav>
 
 ### Strategies, plans and policies
@@ -57,6 +59,30 @@ Seychelles' Cabinet approved the Seychelles Digital & AI Strategy 2026–2031 on
 **[Cabinet Business - Wednesday 28 October, 2026](https://statehouse.gov.sc/news/7318/cabinet-business-wednesday-28-october-2026)** — State House Seychelles, Office of the President, 29 October 2026
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+</div>
+
+### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Companies and Registration of Business Names (Amendment) Bills 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bill No. 20 - Companies (Amendment) Bill 2026](https://www.gazette.sc/sites/default/files/2026-11/Bill%20No.%2020%20-%20Companies%20%28Amendment%29%20Bill%202026.pdf)** — Official Gazette, Republic of Seychelles, 3 November 2026
+
+New section 10A: electronic filing, service, records and fee payment at the Registrar; regulations to follow.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bill No. 21 - Registration of Business Names (Amendment) Bill 2026](https://www.gazette.sc/sites/default/files/2026-11/Bill%20No.%2021%20-%20Registration%20of%20Business%20Names%20%28Amendment%29%20Bill%202026.pdf)** — Official Gazette, Republic of Seychelles, 3 November 2026
+
+New section 6(1A)-(1D): electronic filing, records and fee payment for business names; regulations to follow.
 
 </div>
 
@@ -175,6 +201,20 @@ Seychelles' Vice-President, Sebastien Pillay, said on 14 October 2026, at a Stat
 **[Seychelles targets 2027 start for digital system to modernise public service](https://www.seychellesnewsagency.com/public/articles/22565/seychelles-targets-2027-start-for-digital-system-to-modernise-public-service)** — Seychelles News Agency, 19 October 2026
 
 Summarised under [Domestic budget appropriations and expenditure](#domestic-budget-appropriations-and-expenditure).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SeyAlert emergency-alert app</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SeyAlert: Seychelles government introduces a new digital emergency alert app](https://www.seychellesnewsagency.com/public/articles/22634/seyalert-seychelles-government-introduces-a-new-digital-emergency-alert-app)** — Seychelles News Agency, 2 November 2026
+
+Soft launch 30 October 2026; app and SMS warnings by district, Are You Safe location reports, Follow Me route alerts.
 
 </div>
 
