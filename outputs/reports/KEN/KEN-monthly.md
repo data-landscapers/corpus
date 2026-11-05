@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: KEN
-ledger_rows: 66
+ledger_rows: 70
 not_held: 5
-record: 0954f7ce09f8
+record: 9eb9de992ea8
 ---
 
 # News, Oct – Nov 2026
@@ -468,6 +468,14 @@ Kenya's Interior Cabinet Secretary, Kipchumba Murkomen, announced that electroni
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Birth registration e-service reduces admin from months to days](https://identityweek.net/birth-registration-e-service-reduces-admin-from-months-to-days/)** — Identity Week, 2 November 2026
+
+Nearly 300,000 births e-registered by October 2026; ESTDEV-funded, gold at the Estonian Design Awards.
+
+</div>
+
 </div>
 
 ### Digital Payments and Fintech
@@ -740,6 +748,20 @@ Kenya's Principal Secretary for Medical Services, Ouma Oluga, chaired the steeri
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic Community Health Information System (eCHIS)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digitizing health campaigns: lessons from Benin, DRC, Kenya, and Nigeria](https://www.clintonhealthaccess.org/report/digitizing-health-campaigns/)** — Clinton Health Access Initiative, 1 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+CHAI final report 2021-25; 24m people reached; Kano cost per person fell from US$0.20 to US$0.12; five lessons.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -890,6 +912,34 @@ ICT Principal Secretary John Tanui said Kenya has laid more than 30,000 km of fi
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Copyright royalty collection on eCitizen</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[E-citizen royalty system fully operational as MPs seeks accountability](https://sports.thestar.ke/news/2026-11-04-e-citizen-royalty-system-fully-operational-as-mps-seeks-accountability)** — The Star (Kenya), 4 November 2026
+
+Kenya's Directorate of eCitizen told the National Assembly's Sports and Culture Committee that copyright royalty collection now runs fully through eCitizen. The National Treasury remits collections twice a week to licensed collective management organisations, split 70% royalties and 30% administration. PAVRISK was named the only fully compliant organisation; the hearing date is not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">e-Government Procurement system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IPF and Treasury Review Kenya’s Electronic Government Procurement (e-GP) Progress as Reform enters Second Year - Institute of Public Finance](https://ipfglobal.or.ke/ipf-and-treasury-review-kenyas-electronic-government-procurement-e-gp-progress-as-reform-enters-second-year/)** — Institute of Public Finance Kenya, 4 November 2026
+
+Treasury Cabinet Secretary John Mbadi told a partners' meeting with the Institute of Public Finance on 4 November 2026 that Kenya's eGP system has onboarded over 1,500 procuring entities and 45,000 suppliers. Contracts worth about KSh 18.3 billion have been processed through it. He set four priorities for the next phase of the reform.
+
+</div>
+
+</div>
+
 ## Digitalisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
@@ -1015,6 +1065,20 @@ Kenya's ICT Authority signed a letter of intent in Seoul with the Korea Data Age
 **[Kenya’s language data holds promise for AI-powered services](https://capitalfm.africa/kenyas-language-data-holds-promise-for-ai-powered-services/)** — Capital FM Kenya, 22 October 2026
 
 Kenyan researchers are calling for more investment in local language data for AI services, pointing to Teknobyte's Kenya Languages Lexicon (KENGLEX), which documents more than 133,000 words of Kenyan English with meanings and pronunciations for use in speech recognition, translation and text-to-speech. Swahili has the most language resources in Kenya, while many indigenous languages have no public models, and NLP researcher Cynthia Amol argued that communities should have a say in how their language data is collected, licensed and paid for.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Google DeepMind and Fab AI teacher tools partnership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Empowering Educators and Learners in Sub-Saharan Africa](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/empowering-educators-and-learners-in-sub-saharan-africa-2026/)** — Google, 4 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+Google DeepMind and Fab AI will build open Gemma-based AI tools for teachers in Kenya, Ghana and South Africa, Google announced. Google.org and the Gates Foundation fund the work, which first targets up to 500 teachers and 15,000 students. Google also opened its AI Educator Series in South Africa with SACE.
 
 </div>
 
