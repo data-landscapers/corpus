@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-04-gha-chraj-appeals-for-government-support-to-complete-case-management-syste",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Electronic Case Management System",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "case management",
+   "owner": "CHRAJ",
+   "tiers": "national"
+  }
+ ],
+ "note": "The system is the human rights commission's, not a court's; its rollout is stalled."
+}
