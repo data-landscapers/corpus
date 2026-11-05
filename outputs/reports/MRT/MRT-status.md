@@ -116,7 +116,7 @@ In July 2025 [the project connecting Mauritania to the EllaLink submarine cable 
 [Germany's BMZ is funding a EUR 4 million digital transformation programme from 2024 to 2027](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202322394). [A EUR 2.5 million French development agency grant](https://www.iatistandard.org/activities/FR-3-CZZ3692), channelled through UN Women, is modernising the statistics institutes of Mauritania, Senegal and Chad (2024).
 
 <!-- derived -->
-Ten commitments to Mauritania are on record as at October 2026, starting between 2020 and 2026; regional operations naming it as one beneficiary among several sit outside that count. Connectivity takes five of them and about two-thirds of the money (October 2026); nothing funds digital identity, digital payments or government service delivery. The European Investment Bank is the most frequent financier, four commitments, three of them submarine cable and the fourth the national data centre, ahead of the World Bank's three. Loans carry more of the money than grants (October 2026); the grants fund policy support, a reform operation and a surveillance system.
+Eleven commitments to Mauritania are on record as at November 2026, starting between 2015 and 2026; regional operations naming it as one beneficiary among several sit outside that count. Connectivity takes five of them and about two-thirds of the money (October 2026); nothing funds digital identity, digital payments or government service delivery. The European Investment Bank is the most frequent financier, four commitments, three of them submarine cable and the fourth the national data centre, ahead of the World Bank's three. Loans carry more of the money than grants (October 2026); the grants fund policy support, a reform operation, a surveillance system and labour statistics.
 
 ## ICT Infrastructure
 
@@ -373,7 +373,7 @@ In January 2026 [the digital minister held talks with the United States chargé 
 In 2021 [China granted Mauritania MRU 629.4 million, about US$15 million at the time](http://mr.china-embassy.org/sgzyhd/202108/t20210803_9078909.htm). [The grant funds an Urban Security and Monitoring System for the national security directorate in Nouakchott](http://mr.china-embassy.org/sgzyhd/202108/t20210803_9078909.htm). [The grant was drawn from an Economic and Technical Cooperation Agreement](http://mr.china-embassy.org/sgzyhd/202108/t20210803_9078909.htm), with no digital share split out. [The design runs to 316 cameras extensible to 1,000 observation points, and a two-storey command centre](http://mr.china-embassy.org/sgzyhd/202108/t20210803_9078909.htm). [It adds three regional security buildings and 34 police observation posts](http://mr.china-embassy.org/sgzyhd/202108/t20210803_9078909.htm).
 
 <!-- derived -->
-Chinese public money accounts for one of the ten external financing commitments on the record for Mauritania's digital estate (October 2026), against three from the World Bank and four from the European Investment Bank. On count of commitments, China is a minor financier of the sector and a singular one in what it has chosen to fund.
+Chinese public money accounts for one of the eleven external financing commitments on the record for Mauritania's digital estate (November 2026), against three from the World Bank and four from the European Investment Bank. On count of commitments, China is a minor financier of the sector and a singular one in what it has chosen to fund.
 
 ### EU activities
 <!-- geopol.eu -->
@@ -383,7 +383,7 @@ Chinese public money accounts for one of the ten external financing commitments 
 [Germany's BMZ is funding a EUR 4 million digital transformation programme, DIGITAL-Y, from 2024 to 2027](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202322394), aimed at the state and the digital sector. [German cooperation supported the March 2025 national workshop on unified standards for digital public services](https://www.ecofinagency.com/news-digital/2703-54171-mauritania-introduces-national-standards-for-digital-public-services). [A EUR 2.5 million French development agency grant, channelled through UN Women](https://www.iatistandard.org/activities/FR-3-CZZ3692), is modernising the data systems of the statistics institutes of Mauritania, Senegal and Chad (2024).
 
 <!-- derived -->
-The European Investment Bank is the most frequent financier of Mauritania's digital estate, four of the ten commitments on record (October 2026): three submarine-cable connections and the national data centre. Add the single commitment from Germany's development ministry and European institutions account for five of the ten — the largest bloc, and the one that has shaped what the country's international bandwidth and hosting look like.
+The European Investment Bank is the most frequent financier of Mauritania's digital estate, four of the eleven commitments on record (November 2026): three submarine-cable connections and the national data centre. Add the single commitment from Germany's development ministry and European institutions account for five of the eleven — the largest bloc, and the one that has shaped what the country's international bandwidth and hosting look like.
 
 ### Gulf/UAE activities
 <!-- geopol.gulf -->
