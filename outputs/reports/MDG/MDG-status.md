@@ -1,12 +1,12 @@
 ---
 title: Madagascar: status report
-compiled: 2026-11-04
+compiled: 2026-11-05
 place: MDG
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 25
-sources_cited: 262
+sources_cited: 264
 sections_written: 39
 not_established: 2
 acquire_lines: 25
@@ -113,16 +113,16 @@ Neither of the two 2026 agreements that name artificial intelligence attaches an
 [In April 2025 the European Investment Bank lent AXIAN Telecom US$100 million, US$40 million of it for 4G and 5G in Madagascar](https://techafricanews.com/2025/04/11/eib-grants-100m-to-axian-telecom-for-4g-5g-rollout-in-tanzania-and-madagascar/). [China Eximbank's CNY 337,998,700 concessional loan of February 2020 runs at 1.5 percent over 30 years](http://www.tresorpublic.mg/tresorpublic/download.php?path=wp-content/themes/tresor-public/statik-content/tresor-public/temp/statistique/rapport_activite/&file=ra2017.pdf). [It funds a Huawei 4G eLTE network across public safety and government agencies in Antananarivo](http://www.tresorpublic.mg/tresorpublic/download.php?path=wp-content/themes/tresor-public/statik-content/tresor-public/temp/statistique/rapport_activite/&file=ra2017.pdf). [In July 2026 Indonesia's Indo-Aid released more than IDR 3.4 billion for a Maritime Single Window at the ports agency APMF](https://newsmada.com/2026/08/07/deploiement-de-maritime-single-window-lindonesie-debloque-816-millions-dariary/).
 
 <!-- derived -->
-Ten digital-sector commitments to Madagascar are held with a start year between 2017 and 2026 (October 2026); the European Investment Bank and African Development Bank loans to AXIAN Telecom are held as regional operator financings and are not among them.
+Eleven digital-sector commitments to Madagascar are held with a start year between 2017 and 2026 (November 2026); the European Investment Bank and African Development Bank loans to AXIAN Telecom are held as regional operator financings and are not among them.
 
 <!-- derived -->
-Nine of the ten carry a dollar amount, and together they come to about US$484 million as at October 2026 — committed sums, not disbursements.
+All eleven carry a dollar amount, and together they come to about US$419 million as at November 2026 — committed sums, not disbursements.
 
 <!-- derived -->
-The World Bank holds five of the ten and close to nine tenths of the money; China Eximbank's loan, at about US$55 million, is the largest from any other financier (October 2026).
+The World Bank holds five of the eleven and about 85 per cent of the money; China Eximbank's loan, at about US$55 million, is the largest from any other financier (November 2026).
 
 <!-- derived -->
-Connectivity takes the largest share of the money, about US$255 million, ahead of digital identity at US$143 million and digital payments at about US$53 million (October 2026).
+Connectivity takes the largest share of the money, about US$190 million, ahead of digital identity at US$143 million and digital payments at about US$53 million (November 2026).
 
 <!-- derived -->
 The June 2025 development policy operation and PRODUIRE2 are not among them: digital is one reform area in the first and land services a small part of the second.
@@ -140,7 +140,7 @@ The June 2025 development policy operation and PRODUIRE2 are not among them: dig
 
 [Mobile internet cost 6.28% of GNI per capita a month in 2023, more than three times the 2% affordability target](https://www.ecofinagency.com/news-digital/2410-49797-madagascar-presses-telecoms-to-slash-high-mobile-data-prices). [The regulator ARTEC pressed operators to cut rates from late 2024 and again in October 2025](https://www.ecofinagency.com/news-digital/2410-49797-madagascar-presses-telecoms-to-slash-high-mobile-data-prices). [In October 2026 operators put taxes at 47% of an entry smartphone's cost, with an 8% excise on mobile services](https://fr.allafrica.com/stories/202610170043.html).
 
-[Orange inaugurated a 558 km fibre backbone between Antananarivo and Mahajanga in December 2025, after Yas and Blueline](https://2424.mg/telecommunications-mahajanga-desservie-par-un-reseau-fibre-optique-dorange-madagascar/). [International capacity comes from 2Africa, brought ashore at Mahajanga by Telma, and from EASSy, LION and METISS](https://www.axian-telecom.com/ac-content/uploads/2023/02/AXIAN-Telecom-Press-release-2Africa-landing-in-Madagascar-VA.pdf). [In September 2025 ARTEC published the first region-level 4G figures, from 46% in Atsimo Andrefana to 30% in Anosy](https://fr.linkedin.com/posts/autorit%C3%A9-de-r%C3%A9gulation-des-technologies-de-communication_artecvousinforme-artecleschiffres-cartor%C3%A9seau-activity-7374409542408855552-38_A). [DECIM targets three million broadband users and 1,500 schools, health centres and ministry departments connected by March 2028](https://documents.worldbank.org/curated/en/099121625122027284/pdf/P178701-e5cb57fc-5618-472d-b195-56cc26358652.pdf).
+[Orange inaugurated a 558 km fibre backbone between Antananarivo and Mahajanga in December 2025, after Yas and Blueline](https://2424.mg/telecommunications-mahajanga-desservie-par-un-reseau-fibre-optique-dorange-madagascar/). [It had bought the first 15-year global licence, covering national and international fibre, for EUR 30 million in December 2023](https://2424.mg/telecommunications-un-troisieme-operateur-autorise-a-deployer-la-fibre-optique-a-madagascar/). [International capacity comes from 2Africa, brought ashore at Mahajanga by Telma, and from EASSy, LION and METISS](https://www.axian-telecom.com/ac-content/uploads/2023/02/AXIAN-Telecom-Press-release-2Africa-landing-in-Madagascar-VA.pdf). [In September 2025 ARTEC published the first region-level 4G figures, from 46% in Atsimo Andrefana to 30% in Anosy](https://fr.linkedin.com/posts/autorit%C3%A9-de-r%C3%A9gulation-des-technologies-de-communication_artecvousinforme-artecleschiffres-cartor%C3%A9seau-activity-7374409542408855552-38_A). [DECIM targets three million broadband users and 1,500 schools, health centres and ministry departments connected by March 2028](https://documents.worldbank.org/curated/en/099121625122027284/pdf/P178701-e5cb57fc-5618-472d-b195-56cc26358652.pdf).
 
 <!-- derived -->
 On those regional figures, three of the four southern regions are covered above the national 4G average for 2024, and one, Anosy, below it.
@@ -209,7 +209,7 @@ Madagascar's national data exchange went live on 28 April 2026: [Rahaka is built
 ### Digital Identity and CRVS
 <!-- dpi.id -->
 
-[At the World Bank's supervision mission of 1–4 December 2025, the proof of concept had reached about 5,500 people in three districts](https://documents1.worldbank.org/curated/en/099121925094025414/txt/P169413-92234883-0626-410f-a2c4-c2b2e93265f7.txt). [National enrolment had slipped two to three months after the change of government in September–October 2025](https://documents1.worldbank.org/curated/en/099121925094025414/txt/P169413-92234883-0626-410f-a2c4-c2b2e93265f7.txt). [The incoming government had suspended ID-card printing procurement](https://documents1.worldbank.org/curated/en/099121925094025414/txt/P169413-92234883-0626-410f-a2c4-c2b2e93265f7.txt). [Phase one of the national identity operation closed in July 2026 with more than six million adults enrolled, against a two-million target](https://www.lexpress.mg/2026/07/recensement-lidentite-biometrique.html). [A second phase opened on 16 September 2026 with 1,000 more kits, aiming to enrol more than 10 million adults by July 2027](https://www.2424.mg/identite-numerique-izaho-tokana-2-0-cible-plus-de-10-millions-de-citoyens-pour-sa-deuxieme-phase/).
+[At the World Bank's supervision mission of 1–4 December 2025, the proof of concept had reached about 5,500 people in three districts](https://documents1.worldbank.org/curated/en/099121925094025414/txt/P169413-92234883-0626-410f-a2c4-c2b2e93265f7.txt). [National enrolment had slipped two to three months after the change of government in September–October 2025](https://documents1.worldbank.org/curated/en/099121925094025414/txt/P169413-92234883-0626-410f-a2c4-c2b2e93265f7.txt). [The incoming government had suspended ID-card printing procurement](https://documents1.worldbank.org/curated/en/099121925094025414/txt/P169413-92234883-0626-410f-a2c4-c2b2e93265f7.txt). [Phase one of the national identity operation closed in July 2026 with more than six million adults enrolled, against a two-million target](https://www.lexpress.mg/2026/07/recensement-lidentite-biometrique.html). [A second phase opened on 16 September 2026 with 1,000 more kits, aiming to enrol more than 10 million adults by July 2027](https://www.2424.mg/identite-numerique-izaho-tokana-2-0-cible-plus-de-10-millions-de-citoyens-pour-sa-deuxieme-phase/). [On 1 November 2026 the interior minister said just under seven million adults had enrolled, with the second phase starting in 16 districts](https://www.2424.mg/identite-numerique-pres-de-sept-millions-de-personnes-enrolees-dans-le-cadre-du-projet-izaho-tokana).
 
 [The Izaho Tokana campaign was launched on 27 January 2026 at Iavoloha](https://prea.gov.mg/presidence/lancement-officiel-de-lenrolement-biometrique-izaho-tokana/), [with 2,500 kits across 1,729 centres six days a week](https://www.lexpress.mg/2026/01/reforme-enrolement-biometrique.html), [free to the citizen](https://www.lexpress.mg/2026/04/enregistrement-biometrique-les.html). [Its statute, loi n° 2025-019 on the identification of natural persons, was declared constitutional on 26 August 2025](https://www.hcc.gov.mg/?p=9621). [The Haute Cour Constitutionnelle set necessity and proportionality safeguards on biometric identification](https://www.hcc.gov.mg/?p=9621). [On 21 April 2026 the National Assembly opened birth registration to adults with no certificate while enrolment runs](https://www.ecofinagency.com/news/2304-54942-madagascar-passes-law-to-expand-birth-registration-via-biometric-census). [The Court cleared that law on 13 May 2026 as a derogation from the état-civil statute](https://www.hcc.gov.mg/?p=9952).
 

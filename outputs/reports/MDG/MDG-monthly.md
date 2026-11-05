@@ -1,11 +1,11 @@
 ---
 title: Madagascar — News, Oct – Nov 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: MDG
-ledger_rows: 22
+ledger_rows: 23
 not_held: 5
-record: b320e2c12980
+record: a835ecef6f7f
 ---
 
 # News, Oct – Nov 2026
@@ -155,6 +155,8 @@ Madagascar's digital development ministry handed computers on 21 October 2026 to
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
@@ -163,6 +165,22 @@ Madagascar's digital development ministry handed computers on 21 October 2026 to
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Digital Identity and CRVS
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Izaho tokana 2.0 mass biometric registration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IDENTITÉ NUMÉRIQUE – Près de sept millions de personnes enrôlées dans le cadre du projet “Izaho Tokana”](https://www.2424.mg/identite-numerique-pres-de-sept-millions-de-personnes-enrolees-dans-le-cadre-du-projet-izaho-tokana)** — 2424.mg, 4 November 2026
+
+Madagascar's interior minister said on national television on 1 November 2026 that just under seven million adults have completed biometric enrolment under Izaho Tokana, the unique digital identifier project. Phase 2.0 resumed in September 2026 under the DECIM project, after PRODIGY closed in June. It begins in 16 districts and aims for 10 million enrolled by July 2027.
+
+</div>
+
+</div>
 
 ### Digital Payments and Fintech
 
