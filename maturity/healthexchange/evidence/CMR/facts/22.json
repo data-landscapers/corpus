@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-03-cmr-sant-num-rique-le-cameroun-acc-l-re-l-interconnexion-de-ses-syst-mes-d",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The health ministry communique says the national interoperability platform, with OpenHIM and OpenFn on a server at CAMTEL, already hosts use cases in universal health coverage, interconnecting enrolment and billing systems, and that not all systems are yet connected.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "plateforme nationale d'interoperabilite",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "plateforme nationale d'interoperabilite",
+   "country_label": "Cameroon",
+   "class": "exchange",
+   "platform": "OpenHIM, OpenFn",
+   "owner": "Ministry of Public Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

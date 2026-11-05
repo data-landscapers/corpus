@@ -22,8 +22,8 @@ Africa CDC's health information exchange guidelines and Smart Africa's digital h
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 5 |
-| 3 Established | 19 |
-| 2 Nascent | 19 |
+| 3 Established | 20 |
+| 2 Nascent | 18 |
 | 1 Absent | 2 |
 | Unplaced | 0 |
 | No evidence | 8 |
@@ -74,6 +74,12 @@ Health systems exchanged data across the system in 2026; no source found reports
 Two health systems exchanged data in 2026; no source found reports exchange across the health system.
 
 - The Minister of Health said on 11 April 2026 that a digital platform for remote monitoring of patients' medical records had been recently put in place to guarantee rapid exchange of information between health structures across the country; no figures or list of connected structures are given ([source, 2026-04-11](https://www.aps.dz/fr/algerie/sante-et-environnement/mnun8thn-achevement-de-la-mise-en-place-d-une-plateforme-numerique-de-suivi-a-distance-des-dossiers-medicaux-des-patients)).
+
+### Cameroon: 3 Established
+
+A national platform linked the health insurance enrolment and billing systems in 2026; a third system connected is not found.
+
+- The health ministry communique says the national interoperability platform, with OpenHIM and OpenFn on a server at CAMTEL, already hosts use cases in universal health coverage, interconnecting enrolment and billing systems, and that not all systems are yet connected ([source, 2026-10](https://scores2000.info/2026/11/sante-numerique-le-cameroun-accelere-l-interconnexion-de-ses-systemes-d-information-sanitaires.html)).
 
 ### Central African Republic: 3 Established
 
@@ -202,12 +208,6 @@ An exchange between health systems was under way in 2026; none in service is on 
 
 - The estimates record P28,934,000 appropriated for MoH Computerisation, and its notes cite the Committee of Supply speech describing a Health Information Exchange and a Client Registry keyed on the Omang or passport number as ready for deployment; dated by the fiscal-year start, 2026/27 ([source, 2026-04](https://www.finance.gov.bw/images/Budget-Tables/EXPENDITURE_ESTIMATES_26-27_FINAL_DRAFT.pdf)).
 - The Ministry of Health's Committee of Supply speech reports the Health Information Exchange being implemented, with its Client Registry and Facilities Registry ready for deployment and further expansion planned next financial year ([source, 2026-03-05](https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/HEALTH-Committee%20of%20Supply%20Speech%20-%20FINAL%2004-03-2026%20Vol%20I.pdf)).
-
-### Cameroon: 2 Nascent
-
-An exchange between health systems was under way in 2026; none in service is on record.
-
-- Echos Sante reports that the Pandemic Fund's FCFA 13.44bn grant, within a FCFA 91.5bn (about US$160m) 2026-2029 project, has as a stated deliverable increased interoperability of Cameroon's national health information systems, with project activities launched on 2026-07-29 ([source, 2026-07-29](https://echosante.info/securite-sanitaire-le-cameroun-lance-le-projet-pandemic-fund/)).
 
 ### Cape Verde: 2 Nascent
 

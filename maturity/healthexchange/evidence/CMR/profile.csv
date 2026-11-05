@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CMR,exchange,exchange,coverage,underway,2026-07-29,CMR-001,,
-CMR,exchange,breadth,coverage,,,,,nothing held
-CMR,exchange,identifier,coverage,,,,,nothing held
+CMR,exchange,exchange,coverage,inservice,2026-10,CMR-002,CMR-001=underway,
+CMR,exchange,breadth,coverage,,,,,nothing found
+CMR,exchange,identifier,coverage,,,,,nothing found

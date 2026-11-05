@@ -53,6 +53,7 @@ CIV,DHIS2,Côte d'Ivoire,other,DHIS2,Direction de l'Informatique et de l'Informa
 CIV,MAGPI,Côte d'Ivoire,other,,Institut National d'Hygiène Publique,all 33 regions and 113 districts,2024-07-30-jmir-outbreak-surveillance-systems-cote-divoire
 CIV,SORMAS,Côte d'Ivoire,other,SORMAS,Institut National d'Hygiène Publique,"pilot in 2 regions and 11 districts, from July-August 2021 to June 2023",2024-07-30-jmir-outbreak-surveillance-systems-cote-divoire
 CMR,"Pandemic Fund Cameroon pandemic prevention, preparedness and response project (national health information systems interoperability)",Cameroon,exchange,,Ministry of Public Health,,2026-08-01-pandemic-fund-cmr-2026-record
+CMR,plateforme nationale d'interoperabilite,Cameroon,exchange,"OpenHIM, OpenFn",Ministry of Public Health,,2026-11-03-cmr-sant-num-rique-le-cameroun-acc-l-re-l-interconnexion-de-ses-syst-mes-d
 COD,Data Center National de Santé,RDC,exchange,,"ANICNS (Ministère de la Santé Publique, Hygiène et Prévoyance Sociale)",national,2026-06-16-anicns-ami-data-center-national-sante
 COD,Systèmes d'Information Hospitaliers (SIH),RDC,other,,ANICNS (homologation); vendors,facility,2026-06-16-rdc-homologation-sih-anicns-congoquotidien
 COD,Identifiant National en Santé (INS),RDC,other,,Ministère de la Santé,national,2026-06-16-rdc-homologation-sih-anicns-congoquotidien
@@ -140,6 +141,8 @@ KEN,Health Management Information Services Platform,Kenya,other,,Digital Health 
 KEN,National Health Data Bank and county health data banks,Kenya,other,,Digital Health Agency,national and county,2025-04-11-kenya-digital-health-data-exchange-and-health-information-management-regulations-2025
 KEN,Product catalogue,Kenya,other,,Digital Health Agency with Pharmacy and Poisons Board,national,2025-04-11-kenya-digital-health-data-exchange-and-health-information-management-regulations-2025
 KEN,Telemedicine health provider registry,Kenya,other,,Digital Health Agency,national,2025-04-11-kenya-digital-health-data-exchange-and-health-information-management-regulations-2025
+KEN,AdaM (All Disease Outbreak Module),Kenya,other,,Ministry of Health,,2026-10-15-ken-standard-ebola-reporting-tool-adam-disabled
+KEN,UHAI,Kenya,other,,Ministry of Health,,2026-10-15-ken-standard-ebola-reporting-tool-adam-disabled
 LBR,Integrated Sample Referral System Framework,Liberia,other,,"Ministry of Health, National Diagnostics Division",,2026-07-01-liberia-moh-validates-integrated-sample-referral-system-framework
 LBY,المنظومة الإلكترونية الموحدة (National Diabetes Authority unified electronic system),Libya,other,,National Diabetes Authority,national,2026-05-03-alhaya-alwataniya-limarad-alsukari-almanzuma-alilktruniya-almuwahhada
 LBY,منظومة إلكترونية متكاملة لتتبع حركة الأدوية (medicines tracking system),Libya,exchange,,Ministry of Health,national,2025-10-06-wizarat-alsihha-manzuma-iliktruniya-litatabu-harakat-aladwiya
