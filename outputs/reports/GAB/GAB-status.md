@@ -1,6 +1,6 @@
 ---
 title: Gabon: status report
-compiled: 2026-11-03
+compiled: 2026-11-05
 place: GAB
 region: XCA
 built_by: STATUS-INIT
@@ -112,7 +112,7 @@ In December 2025 [Gabon signed an agreement with the UN Capital Development Fund
 In December 2021 [MIGA approved about US$28 million of political-risk cover over an equity stake in Airtel Mobile Commerce's Gabonese subsidiary](https://www.miga.org/project/airtel-mobile-commerce). [MIGA's record lists the guarantee as closed in 2026](https://www.miga.org/project/airtel-mobile-commerce). [The U.S. Department of State is funding about US$1.25 million of cybersecurity capacity-building with ANINF over 2024-2025](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-GOV-11-SGB50025GR0014). [The ITU ran a CHF 1.24 million regional project on ICT indicators in 2021-2023 with CEMAC regulators and statistics offices, Gabon among eight target countries](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Documents/2023/RDF/reference/session-1-BDT-projects-RIs_RDFAFR2023.pdf).
 
 <!-- derived -->
-Nine commitments and pledges are on the record, made between 2016 and 2026 by six financiers. Around US$227 million of that is finance actually committed as at October 2026, and about US$197 million of it is four IBRD loans — non-concessional sovereign borrowing, with grant money amounting to two small awards, one of undisclosed size. Five commitments were still live as at October 2026, four of them worth roughly US$126 million and the fifth undisclosed; the smallest of them is the one private equity round. Connectivity and e-government take most of the recorded total, and the largest figure of all is a private pledge under a memorandum rather than a financing agreement.
+Twelve commitments and pledges are on the record, made between 2015 and 2026 by eight financiers (November 2026). Around US$227 million of that is finance actually committed as at October 2026, and about US$197 million of it is four IBRD loans — non-concessional sovereign borrowing, with grant money amounting to five small awards, one of undisclosed size. Five commitments were still live as at November 2026, four of them worth roughly US$126 million and the fifth undisclosed; the smallest of them is the one private equity round. Connectivity and e-government take most of the recorded total, and the largest figure of all is a private pledge under a memorandum rather than a financing agreement.
 
 [The lender's restructuring paper of June 2026 records US$13.38m disbursed by 31 May 2026](https://documents1.worldbank.org/curated/en/099062726133542471/pdf/P175987-e83bc197-693c-4c5b-bf60-39949daa03f8.pdf). [It rates progress towards the objective moderately unsatisfactory and leaves the civil-registration digitisation component unchanged](https://documents1.worldbank.org/curated/en/099062726133542471/pdf/P175987-e83bc197-693c-4c5b-bf60-39949daa03f8.pdf).
 
