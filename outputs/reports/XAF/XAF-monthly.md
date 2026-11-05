@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: XAF
-ledger_rows: 55
+ledger_rows: 57
 not_held: 3
-record: f99a9ae60252
+record: 47777e8f3e57
 ---
 
 # News, Oct – Nov 2026
@@ -472,6 +472,20 @@ Russia and African states adopted an 18-point declaration on civil uses of AI at
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Shared AI foundation model for food security (Italy-UNDP AI Hub and DeepLeaf)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[African AI companies and G7 industry move from partnership to deployment in Rome](https://www.undp.org/romecentre/press-releases/african-ai-companies-and-g7-industry-move-partnership-deployment-rome)** — United Nations Development Programme (UNDP) Rome Centre, 3 November 2026
+
+DeepLeaf food-security AI model for 7 countries; Cyber4Africa backs 49 start-ups in 13 countries; Datapizza-Zindi tie-up.
+
+</div>
+
+</div>
+
 ## Shared systems and infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Shared systems and infrastructure">
@@ -555,6 +569,20 @@ Morocco's information systems security directorate is hosting a three-day cybers
 **[Cybercrime crackdown in Africa nets 1,462 arrests, recovers over USD 105 million](https://www.interpol.int/en/News-and-Events/News/2026/Cybercrime-crackdown-in-Africa-nets-1-462-arrests-recovers-over-USD-105-million)** — INTERPOL, 22 October 2026
 
 INTERPOL's Operation Serengeti III, run by police in 21 countries from 29 June to 31 August 2026, arrested 1,462 suspects, disrupted 10,909 malicious networks and recovered more than USD 105 million, against identified losses above USD 385 million and 65,929 victims. In Uganda alone, 365 foreign nationals were arrested over investment and pension frauds aimed at victims in Asia; the operation was co-funded by the EU-Council of Europe GLACY-e project.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Smart Africa-e-Crime Bureau cybersecurity memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Smart Africa and e-Crime Bureau Partner to Strengthen Cybersecurity Across Africa](https://techafricanews.com/2026/11/04/smart-africa-e-crime-bureau-partner-strengthen-cybersecurity-africa/)** — Tech Africa News, 4 November 2026
+
+Smart Africa and e-Crime Bureau signed a three-year memorandum of understanding on cybersecurity, reported on 4 November 2026. It covers workforce skills, governance, risk management, harmonised law and policy, and the securing of critical cybersecurity infrastructure. No signing date or funding is stated.
 
 </div>
 
