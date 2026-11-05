@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-30-cog-le-secteur-du-numerique-au-congo-brazzaville",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The French Treasury sheet says Congo's cybersecurity law and its law against cybercrime have been in force since June 2020.",
+   "as_of": "2020-06",
+   "date_precision": "month",
+   "system": "Cybersecurity and cybercrime laws",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

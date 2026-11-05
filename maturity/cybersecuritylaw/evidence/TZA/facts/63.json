@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-30-tza-police-takwimu-uhalifu-januari-juni-2026",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "unnamed",
+   "fact": "Tanzania Police Force reported 745 cybercrime cases for January to June 2026, up from 497 a year earlier, without naming the law they were recorded under.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Tanzania Police Force cybercrime statistics",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

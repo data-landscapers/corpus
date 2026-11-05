@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-03-mdg-madagascar-cyber-escroquerie-une-affaire-de-gros-sous",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "L'Express de Madagascar reports that a bill against cybercrime is under examination in the National Assembly.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "Cybercrime bill",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

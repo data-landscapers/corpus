@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-04-le-mali-lance-une-plateforme-web-pour-signaler-les-incidents-de-cybersecurite",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "unnamed",
+   "fact": "Mali's national cybercrime unit recorded 1,338 cases in 2025, 1,130 complaints and 208 self-initiated, without naming a law.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Pôle national de lutte contre la cybercriminalité",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
