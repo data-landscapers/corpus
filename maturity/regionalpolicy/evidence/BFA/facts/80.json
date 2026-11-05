@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-04-bfa-aes-cinq-chantiers-pour-acc-l-rer-l-int-gration-num-rique-du-burkina-f",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "leFaso.net, relaying a Burkina Faso ministry release, reports that digital ministers and experts of Burkina Faso, Mali and Niger, members of the Confederation of Sahel States (AES), met in Ouagadougou on 3-5 November 2026 to finalise digital cooperation documents.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "Confederation of Sahel States (AES)",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Confederation of Sahel States (AES)",
+   "country_label": "Burkina Faso",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
