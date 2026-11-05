@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-19-zmb-how-does-zambia-accelerate-its-internet-resilience",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "ISOC Pulse says Zambia has one IXP (LuIX) at which 10 of the 24 registered networks peer, with 14 members per the LuIX website.",
+   "as_of": "2024-09-19",
+   "date_precision": "day",
+   "system": "LuIX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LuIX",
+   "country_label": "Zambia",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

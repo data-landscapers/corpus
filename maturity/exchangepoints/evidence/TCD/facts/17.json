@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-20-xca-central-africa-s-improved-peering-landscape-can-benefit-from-local-con",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "ISOC Pulse's IXP Tracker lists 1 exchange point in Chad with 8 of 18 networks peering.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "Chad IXP",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

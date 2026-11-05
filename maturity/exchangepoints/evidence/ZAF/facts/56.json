@@ -1,0 +1,46 @@
+{
+ "slug": "2025-03-04-zaf-napafrica-achieves-5tbps-traffic-milestone-driving-africas-digital-tra",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "growing",
+   "fact": "Teraco says NAPAfrica traffic peaked at 100 Gbps in 2016, 500 Gbps in 2018, 2 Tbps in 2021, over 4 Tbps in 2023 and 5 Tbps in February 2025.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "NAPAfrica",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "content",
+   "fact": "Teraco says Akamai, Amazon, Cloudflare, Google, Meta, Microsoft and Netflix are present at NAPAfrica, and that Netflix Open Connect is hosted in Cape Town and Durban.",
+   "as_of": "2025-03-04",
+   "date_precision": "day",
+   "system": "NAPAfrica",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wider",
+   "fact": "Teraco says NAPAfrica operates exchange points in Johannesburg, Cape Town and Durban, with over 655 members from over 50 countries.",
+   "as_of": "2025-03-04",
+   "date_precision": "day",
+   "system": "NAPAfrica",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NAPAfrica",
+   "country_label": "South Africa",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Teraco",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

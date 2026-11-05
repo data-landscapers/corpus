@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-08-ben-promouvoir-une-afrique-numerique-renforcer-les-points-d-echange-intern",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "The Internet Society says it granted funds in 2023 to an IXP in Malawi, where the ISP association MISPA will install a second IXP at Lilongwe (LLIX) for the central region.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Malawi IXP",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LLIX",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "MISPA",
+   "tiers": ""
+  }
+ ],
+ "note": "Second IXP at Lilongwe is planned, not in service."
+}

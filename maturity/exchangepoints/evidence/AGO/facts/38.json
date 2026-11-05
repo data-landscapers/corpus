@@ -1,0 +1,34 @@
+{
+ "slug": "2025-08-01-ago-trafego-de-internet-em-angola-atinge-maximos-historicos",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "content",
+   "fact": "Portal de TI reports analyst Darwin Costa said Angonix and Angola IXP, Angola's two main exchange points, peaked at 59.5 Gbps and above 11 Gbps in late July 2025, with Microsoft and Meta present at these IXPs.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Angonix and Angola IXP",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Angonix",
+   "country_label": "Angola",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Angola IXP",
+   "country_label": "Angola",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Cities of the two IXPs and two traffic dates a year apart are not given."
+}

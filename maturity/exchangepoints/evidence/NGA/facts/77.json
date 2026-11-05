@@ -1,0 +1,56 @@
+{
+ "slug": "2026-07-06-nga-nigeria-s-internet-exchange-goes-400g-as-traffic-tops-two-terabits",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "CIO Africa says the Internet Exchange Point of Nigeria (IXPN) connects more than 130 members, including telecom operators, internet service providers and global content platforms, and keeps domestic traffic in Nigeria.",
+   "as_of": "2026-07-06",
+   "date_precision": "day",
+   "system": "IXPN",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "content",
+   "fact": "CIO Africa says IXPN's more than 130 members include global content platforms, none named.",
+   "as_of": "2026-07-06",
+   "date_precision": "day",
+   "system": "IXPN",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "traffic",
+   "fact": "CIO Africa says IXPN's peak domestic traffic exceeded one terabit per second for the first time in April 2025 and had more than doubled to over two terabits per second by March 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "IXPN",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wider",
+   "fact": "CIO Africa says IXPN, besides its three Lagos points of presence, operates points of presence in Abuja, Port Harcourt, Enugu, Kano, Delta and Gombe.",
+   "as_of": "2026-07-06",
+   "date_precision": "day",
+   "system": "IXPN",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IXPN",
+   "country_label": "Internet Exchange Point of Nigeria",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

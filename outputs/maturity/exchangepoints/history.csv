@@ -6,3 +6,9 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-04,NGA,infra.connect--internet-exchange-points,review,4,5,NGA-008;NGA-007;NGA-002,"Rebuild: IXPN's regional connectivity in Abuja and Enugu (NGA-002, October 2026) now falls inside the cell's as-at and answers the reach question; content (NGA-008) and growth (NGA-007) stand. 4 -> 5."
 2026-11-04,BWA,infra.connect--internet-exchange-points,review,3,3,BWA-006;BWA-005,Rebuild: BOCRA's October 2025 account of BINX with a Google cache is read over PCH's undated 'defunct' listing; Digital Delta IX has one peer only. No traffic a year apart. Stays 3.
 2026-11-04,LSO,infra.connect--internet-exchange-points,review,2,2,LSO-001,"Rebuild: the regulator's two content delivery networks at LIXP are unnamed, so a global content network is not shown. Stays 2."
+2026-11-05,AGO,infra.connect--internet-exchange-points,fact,2,3,AGO-002,"Portal de TI, July 2025: Microsoft and Meta present at Angola's exchanges"
+2026-11-05,MWI,infra.connect--internet-exchange-points,fact,2,3,MWI-009,"MISPA, April 2024: Google, Facebook and Akamai caches at the MIX"
+2026-11-05,CIV,infra.connect--internet-exchange-points,fact,3,5,CIV-011;CIV-012;CIV-006,"ARTCI, June 2026: CIVIX average traffic 20 Gbps (2020-2024) to 36 Gbps (2025-2026); third PoP at Grand-Bassam already held"
+2026-11-05,COD,infra.connect--internet-exchange-points,fact,2,5,COD-004;COD-005;COD-010;COD-008,Meta and Cloudflare peer at KINIX; traffic 84 Gbps (Aug 2024) to over 1 Tbps (Aug 2026); Lubumbashi and Goma exchanges
+2026-11-05,EGY,infra.connect--internet-exchange-points,fact,3,5,EGY-004;EGY-008;EGY-005,AMS-IX: EG-IX peak 338 Gb/s (2025) to 945 Gb/s (Q3 2026); Jordanian carriers already held
+2026-11-05,ZAF,infra.connect--internet-exchange-points,fact,3,5,ZAF-021;ZAF-024;ZAF-023,"Teraco: NAPAfrica peak over 4 Tbps (2023) to 5 Tbps (Feb 2025); three cities, members from 50 countries"

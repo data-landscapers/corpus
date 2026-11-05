@@ -1,16 +1,17 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "2",
-   "exchange": "service",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-001",
-   "gaps": "No source found says a global content network has a cache at the exchange or peers there.",
-   "note": "Counted from the four questions by study-ladder-exchangepoints.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "5",
+      "exchange": "growing",
+      "reach": "wider",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-004;COD-005;COD-010;COD-008",
+      "gaps": "Both traffic figures for KINIX are the operator's own: 84 Gbps peak in August 2024 and more than 1 Tbps in August 2026.",
+      "note": "Reassessed 2026-11-05: Meta and Cloudflare peer at KINIX, and ISPA-DRC's figures put its traffic at 84 Gbps in August 2024 and over 1 Tbps in August 2026. Exchanges in Lubumbashi and Goma answer the second city.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

@@ -1,0 +1,44 @@
+{
+ "slug": "2024-04-01-mwi-mispa-presentation-at-itu-macra-cost-models-workshop",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "MISPA's chair says the Malawi Internet Exchange (MIX), owned and operated by the ISP association since 2008, keeps local traffic local, with all ISPs connected and peering on a route server.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Malawi Internet Exchange (MIX)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "content",
+   "fact": "MISPA's chair says the MIX provides international CDN caches from Google, Facebook and Akamai.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "Malawi Internet Exchange (MIX)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Malawi Internet Exchange (MIX)",
+   "country_label": "Malawi",
+   "class": "exchange",
+   "platform": "internet exchange point",
+   "owner": "MISPA",
+   "tiers": "national"
+  },
+  {
+   "system": "LLIX",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "internet exchange point, in equipment procurement",
+   "owner": "MISPA",
+   "tiers": "Lilongwe"
+  }
+ ],
+ "note": ""
+}

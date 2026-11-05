@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-23-gnb-reuniao-de-trabalho-entre-gwix-e-wardip-gb",
+ "facts": [],
+ "systems": [
+  {
+   "system": "GwIX",
+   "country_label": "Guinea-Bissau",
+   "class": "other",
+   "platform": "internet exchange point",
+   "owner": "GwIX association",
+   "tiers": "national"
+  }
+ ],
+ "note": "Equipment for the first exchange point is contracted, delivery pending; no exchange in service."
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-06-egy-eg-ix-strengthening-regional-connectivity-from-cairo",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "AMS-IX says EG-IX, launched with Telecom Egypt in April 2022 as Egypt's first open access exchange in Cairo, connected 19 networks by Q3 2026.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "EG-IX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "growing",
+   "fact": "AMS-IX says EG-IX peak traffic reached 945 Gb/s by Q3 2026, against 338 Gb/s in 2025 and 89 Gb/s in 2023.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "EG-IX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EG-IX",
+   "country_label": "Egypt",
+   "class": "exchange",
+   "platform": "internet exchange point",
+   "owner": "Telecom Egypt with AMS-IX",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

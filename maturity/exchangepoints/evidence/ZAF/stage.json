@@ -1,16 +1,17 @@
 {
- "iso3": "ZAF",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "exchange": "content",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZAF-003",
-   "gaps": "No source found gives the exchange's traffic at two dates a year apart showing growth.",
-   "note": "Counted from the four questions by study-ladder-exchangepoints.py."
-  }
- ]
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "5",
+      "exchange": "growing",
+      "reach": "wider",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZAF-021;ZAF-024;ZAF-023",
+      "gaps": "",
+      "note": "Reassessed 2026-11-05: Teraco gives NAPAfrica peaks of over 4 Tbps in 2023 and 5 Tbps in February 2025, with global content networks present. It runs in Johannesburg, Cape Town and Durban with members from over 50 countries.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

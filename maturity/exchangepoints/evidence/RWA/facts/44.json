@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-01-rwa-ixp-tracker-rwanda-internet-exchange-rinex",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "ISOC Pulse, from PeeringDB data of November 2026, lists 17 member networks at the Rwanda Internet Exchange (RINEX), 5 ASNs having joined and 3 left in the past 12 months.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "Rwanda Internet Exchange - RINEX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wider",
+   "fact": "ISOC Pulse's RINEX member list includes networks registered in Kenya, Mauritius, Cote d'Ivoire, Sweden and the United States, such as GEWAPE Cloud, Paratus Africa and Canal+ Telecom Africa.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "Rwanda Internet Exchange - RINEX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rwanda Internet Exchange - RINEX",
+   "country_label": "Rwanda",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

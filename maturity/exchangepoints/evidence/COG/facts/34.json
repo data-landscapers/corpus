@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-20-xca-central-africa-s-improved-peering-landscape-can-benefit-from-local-con",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "ISOC Pulse's IXP Tracker lists 2 exchange points in the Republic of Congo with 9 of 14 networks peering.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "Congo IXPs",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

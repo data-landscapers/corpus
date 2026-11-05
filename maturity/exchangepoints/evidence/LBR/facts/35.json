@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-06-lbr-ccl-acquires-ict-equipment-to-boost-liberia-s-internet-exchange-point",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "The Liberia Telecommunications Authority says the Cable Consortium of Liberia took delivery of new LTA-funded equipment to strengthen operations at the Liberia Internet Exchange Point.",
+   "as_of": "2025-02-06",
+   "date_precision": "day",
+   "system": "Liberia IXP",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Liberia IXP",
+   "country_label": "Liberia",
+   "class": "exchange",
+   "platform": "internet exchange point",
+   "owner": "Cable Consortium of Liberia",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

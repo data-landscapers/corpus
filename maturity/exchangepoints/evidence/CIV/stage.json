@@ -1,16 +1,17 @@
 {
- "iso3": "CIV",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "3",
-   "exchange": "content",
-   "reach": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CIV-003",
-   "gaps": "No source found gives the exchange's traffic at two dates a year apart showing growth.",
-   "note": "Counted from the four questions by study-ladder-exchangepoints.py."
-  }
- ]
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "5",
+      "exchange": "growing",
+      "reach": "wider",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CIV-011;CIV-012;CIV-006",
+      "gaps": "",
+      "note": "Reassessed 2026-11-05: ARTCI gives CIVIX average daily traffic of 20 Gbps in 2020-2024 and 36 Gbps in 2025-2026, with Akamai and Netflix connected. A third point of presence at Grand-Bassam answers the second city.",
+      "as_at": "2026-11-05"
+    }
+  ]
 }

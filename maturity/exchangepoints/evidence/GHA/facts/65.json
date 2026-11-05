@@ -1,0 +1,34 @@
+{
+ "slug": "2025-10-27-gha-the-hidden-tax-on-ghana-s-digital-future-a-path-to-faster-cheaper-inte",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "content",
+   "fact": "The IMANI Africa piece says Ghana has two exchange points in service, GIXA with 23 members including all major mobile operators and Google, and AccraIX with 21 members including MTN, Telecel, Meta and Fastly.",
+   "as_of": "2025-10-27",
+   "date_precision": "day",
+   "system": "GIXA; AccraIX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Internet eXchange (GIXA)",
+   "country_label": "Ghana",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ghana Internet eXchange Association",
+   "tiers": ""
+  },
+  {
+   "system": "Accra Internet Exchange (AccraIX)",
+   "country_label": "Ghana",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

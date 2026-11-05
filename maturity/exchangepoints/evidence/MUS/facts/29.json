@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-01-mus-ixp-tracker-maurice",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Internet Society Pulse's IXP Tracker lists 1 active exchange point in Mauritius with 22 members as of November 2026.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "Mauritius IXP",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mauritius IXP",
+   "country_label": "Mauritius",
+   "class": "exchange",
+   "platform": "internet exchange point",
+   "owner": "",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2024-02-08-cod-how-ixps-helped-reshape-the-internet-in-the-drc",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Internet Society says the Kinshasa Internet Exchange (KINIX), built by ISPA-DRC in November 2012, has increased local internet traffic from a few Mbps to close to 80 Gbps over ten years.",
+   "as_of": "2012-11",
+   "date_precision": "month",
+   "system": "KINIX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wider",
+   "fact": "Internet Society says ISPA-DRC launched a second IXP in Lubumbashi (LUBIX) in 2019 and a third in Goma (GOMIX), operating since 2021.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "LUBIX, GOMIX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KINIX",
+   "country_label": "Kinshasa Internet Exchange",
+   "class": "exchange",
+   "platform": "",
+   "owner": "ISPA-DRC",
+   "tiers": ""
+  },
+  {
+   "system": "LUBIX",
+   "country_label": "Lubumbashi",
+   "class": "exchange",
+   "platform": "",
+   "owner": "ISPA-DRC",
+   "tiers": ""
+  },
+  {
+   "system": "GOMIX",
+   "country_label": "Goma",
+   "class": "exchange",
+   "platform": "",
+   "owner": "ISPA-DRC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

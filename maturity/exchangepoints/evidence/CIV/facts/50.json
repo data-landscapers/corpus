@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-15-civ-peering-day-2026-la-rci-vise-des-ports-internet-de-100-gbps",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "content",
+   "fact": "ARTCI says Akamai was integrated into the CIVIX exchange point, in service since October 2013, and that Netflix and PCH now connect there alongside local operators.",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "CIVIX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "growing",
+   "fact": "ARTCI gives CIVIX average daily traffic of 4 Mbps in 2013, 10 Gbps in 2019, 20 Gbps in 2020-2024 and 36 Gbps in 2025-2026.",
+   "as_of": "2026-06-15",
+   "date_precision": "day",
+   "system": "CIVIX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CIVIX",
+   "country_label": "Côte d'Ivoire",
+   "class": "exchange",
+   "platform": "",
+   "owner": "ARTCI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

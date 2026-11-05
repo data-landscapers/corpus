@@ -1,0 +1,27 @@
+{
+ "slug": "2024-04-08-ken-session-3-internet-exchange-points-and-best-practices-for-internationa",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "growing",
+   "fact": "TESPOK's CEO says KIXP traffic grew from 77G in 2022 to 1.77T in 2023, after 37G in 2021.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "KIXP",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wider",
+   "fact": "TESPOK's CEO says KIXP is present in five locations, four in Nairobi and iColo in Mombasa, with 121 peering members.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "KIXP",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

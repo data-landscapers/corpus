@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-08-ben-promouvoir-une-afrique-numerique-renforcer-les-points-d-echange-intern",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "The Internet Society says RICTA ran a training in 2023 on using the RINEX infrastructure, which it describes as central to the daily operations and services RICTA provides.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "RINEX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RINEX",
+   "country_label": "Rwanda",
+   "class": "exchange",
+   "platform": "",
+   "owner": "RICTA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

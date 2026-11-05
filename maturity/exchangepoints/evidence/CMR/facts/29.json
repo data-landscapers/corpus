@@ -1,0 +1,46 @@
+{
+ "slug": "2026-03-19-cmr-camix-reunit-les-points-focaux-techniques-pour-evaluer-le-deploiement",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "CAMIX says at least eight operators/ISPs are connected to its exchange points at Yaoundé and Douala.",
+   "as_of": "2026-03-19",
+   "date_precision": "day",
+   "system": "CAMIX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "content",
+   "fact": "CAMIX says Akamai servers have arrived at its Douala exchange point and are in production.",
+   "as_of": "2026-03-19",
+   "date_precision": "day",
+   "system": "CAMIX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wider",
+   "fact": "CAMIX says its exchange operates points in two cities, Yaoundé and Douala.",
+   "as_of": "2026-03-19",
+   "date_precision": "day",
+   "system": "CAMIX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CAMIX",
+   "country_label": "Cameroon",
+   "class": "exchange",
+   "platform": "exchange point",
+   "owner": "CAMIX association",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

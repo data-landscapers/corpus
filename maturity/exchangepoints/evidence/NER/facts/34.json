@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-20-ner-inauguration-officielle-du-point-d-echange-internet-ixp-permettre-a-to",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Le Sahel reports the Minister of Communication inaugurated Niger's internet exchange point on 19 August 2025, where internet providers interconnect and exchange traffic, built under the PVI programme by a Nigerien firm.",
+   "as_of": "2025-08-19",
+   "date_precision": "day",
+   "system": "Niger IXP",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

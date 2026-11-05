@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-03-bayobab-east-west-fibre-south-sudan",
+ "facts": [],
+ "systems": [
+  {
+   "system": "East to West Connectivity Project, Northern Route 1",
+   "country_label": "South Sudan",
+   "class": "other",
+   "platform": "fibre",
+   "owner": "Bayobab (MTN Group)",
+   "tiers": ""
+  }
+ ],
+ "note": "Document states nothing on exchange points."
+}

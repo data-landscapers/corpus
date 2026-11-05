@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 TCD,CENIX,"Central African Internet Exchange (Central African Republic, not TCD)",other,,,,2026-07-22-maroc-telecom-rapport-financier-semestriel-2026
 TCD,TCHADIX,TCHADIX,exchange,,"GIE of members, promoted by ADETIC","internet access providers, mobile operators",2026-05-21-digitalbusiness-tchadix-ixp-un-an
+TCD,N'Djamena IX,Chad,exchange,internet exchange point,,national,2026-11-01-tcd-ixp-tracker-tchad

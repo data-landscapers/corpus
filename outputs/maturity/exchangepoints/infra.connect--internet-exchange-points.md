@@ -1,6 +1,6 @@
 # Internet exchange points: exchange points keeping traffic local
 
-*As at 2026-09-30.*
+*As at 2026-11-05.*
 
 ## The norm
 
@@ -20,15 +20,40 @@ The African Union's Digital Transformation Strategy 2020–2030 and its African 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
+| 5 Leading | 6 |
 | 4 Operating | 0 |
-| 3 Established | 9 |
-| 2 Nascent | 35 |
+| 3 Established | 8 |
+| 2 Nascent | 32 |
 | 1 Absent | 5 |
 | Unplaced | 0 |
 | No evidence | 3 |
 
 ## Countries
+
+### Cote d'Ivoire: 5 Leading
+
+An exchange point in service by 2026, with a global content network, traffic growing and reach beyond one city.
+
+- ARTCI says Akamai was integrated into the CIVIX exchange point, in service since October 2013, and that Netflix and PCH now connect there alongside local operators ([source, 2026-06-15](https://fr.apanews.net/technologies/peering-day-2026-la-rci-vise-des-ports-internet-de-100-gbps/)).
+- ARTCI gives CIVIX average daily traffic of 4 Mbps in 2013, 10 Gbps in 2019, 20 Gbps in 2020-2024 and 36 Gbps in 2025-2026 ([source, 2026-06-15](https://fr.apanews.net/technologies/peering-day-2026-la-rci-vise-des-ports-internet-de-100-gbps/)).
+- ARTCI announced recently the official launch of a third point of presence for CIVIX with Raxio in the neutral data centre at Grand-Bassam, a city other than Abidjan; the article gives no launch date and no members there, so the forum date is used ([source, 2025-08-05](https://www.fratmat.info/article/2635918/economie/forum-sur-le-peering-en-cote-divoire-lartci-impulse-une-dynamique-nouvelle-pour-linterconnexion-locale)).
+
+### DR Congo: 5 Leading
+
+An exchange point in service by 2026, with a global content network, traffic growing and reach beyond one city.
+
+- Tech Africa says Meta and Cloudflare both peer at KINIX ([source, 2026-08-21](https://tech.africa/kinix-raxio-kinshasa-exchange/)).
+- KINIX says it currently exchanges more than 1 terabit per second and expects to pass 2 Tbps after the Raxio deployment ([source, 2026-08-20](https://tech.africa/kinix-raxio-kinshasa-exchange/)).
+- ISPA-DRC says its KINIX exchange, launched November 2012, had 23 peers and an 84 Gbps traffic peak in August 2024 ([source, 2024-08](https://www.afpif.org/wp-content/uploads/2024/08/RDC-Cache-Fill-Strategies.pdf)).
+- Internet Society says ISPA-DRC launched a second IXP in Lubumbashi (LUBIX) in 2019 and a third in Goma (GOMIX), operating since 2021 ([source, 2021](https://www.internetsociety.org/blog/2024/02/the-decade-that-changed-the-democratic-republic-of-congos-internet/)).
+
+### Egypt: 5 Leading
+
+An exchange point in service by 2026, with a global content network, traffic growing and reach beyond one city.
+
+- Global content, CDN and cloud networks are members at EG-IX: Meta (AS32934), Amazon (AS16509), Microsoft (AS8075), CDN77/DataPacket, ACE CDN, Medianova, Zenlayer, G-Core Labs, Kaopu Cloud and Huawei Cloud, per bgp.tools data cited by tech.africa ([source, 2026-09-07](https://tech.africa/eg-ix-cairo-18-members/)).
+- AMS-IX says EG-IX peak traffic reached 945 Gb/s by Q3 2026, against 338 Gb/s in 2025 and 89 Gb/s in 2023 ([source, 2026-09](https://www.ams-ix.net/ams/news/eg-ix-strengthening-regional-connectivity-from-cairo)).
+- Two Jordanian carriers, Jordan Telecommunications (AS8697) and Al Bahrainia al Urdunia Liltaknia (AS9038), are members at EG-IX in Cairo, alongside global content networks and ICANN's L-root ([source, 2026-09-07](https://tech.africa/eg-ix-cairo-18-members/)).
 
 ### Kenya: 5 Leading
 
@@ -45,6 +70,20 @@ Google, Meta, Microsoft and TikTok peer at the exchange, its peak traffic rose t
 - Global content networks Google, Meta, Microsoft and TikTok are among the current participants (members) at IXPN, per IT Pulse Nigeria; the article gives no date, so its publication date is used ([source, 2026-02-05](https://itpulse.com.ng/how-local-peering-grew-ixpns-traffic-from-4-gbps-in-2015-to-1-7-tbps-in-2025/)).
 - IXPN aggregate peak traffic grew from 4 Gbps in 2015 to 1.7 Tbps in 2025, a 42,400% increase over ten years, per IT Pulse Nigeria ([source, 2025](https://itpulse.com.ng/how-local-peering-grew-ixpns-traffic-from-4-gbps-in-2015-to-1-7-tbps-in-2025/)).
 - IXPN has regional connectivity in Abuja and Enugu as well as multiple points of presence in Lagos, per TechTV Network; Digital Realty announced a new IXPN point of presence at its Ibeju-Lekki data centre in April 2026 (Lagos) ([source, 2026-10-03](https://techtvnetwork.ng/post/ixpn-at-20-how-nigerias-internet-exchange-point-has-transformed-local-internet-connectivity)).
+
+### South Africa: 5 Leading
+
+An exchange point in service by 2026, with a global content network, traffic growing and reach beyond one city.
+
+- Teraco says Akamai, Amazon, Cloudflare, Google, Meta, Microsoft, Netflix and TikTok are at NAPAfrica, and Netflix Open Connect is hosted in Cape Town and Durban ([source, 2025-11-11](https://www.teraco.co.za/news/napafrica-and-teraco-acx-growing-africas-digital-community-as-napafrica-hits-6tbps/)).
+- Teraco says NAPAfrica traffic peaked at 100 Gbps in 2016, 500 Gbps in 2018, 2 Tbps in 2021, over 4 Tbps in 2023 and 5 Tbps in February 2025 ([source, 2025-02](https://www.teraco.co.za/news/napafrica-internet-exchange-achieves-5tbps-traffic-milestone-driving-africas-digital-transformation/)).
+- Teraco says NAPAfrica operates in Johannesburg, Cape Town and Durban, with 680 members from over 50 countries ([source, 2025-11-11](https://www.teraco.co.za/news/napafrica-and-teraco-acx-growing-africas-digital-community-as-napafrica-hits-6tbps/)).
+
+### Angola: 3 Established
+
+Global content networks were present at Angola's exchange points in 2025; no traffic growth over a year is known.
+
+- Portal de TI reports analyst Darwin Costa said Angonix and Angola IXP, Angola's two main exchange points, peaked at 59.5 Gbps and above 11 Gbps in late July 2025, with Microsoft and Meta present at these IXPs ([source, 2025-07](https://pti.ao/trafego-de-internet-em-angola-atinge-maximos-historicos/)).
 
 ### Botswana: 3 Established
 
@@ -65,23 +104,17 @@ An exchange point in service by 2026, with a global content network serving from
 
 - Akamai Technologies (AS20940, content network) is listed as a member of CAMIX Douala with a 4 Gbps port, peering at the route server, per PeeringDB via Internet Society Pulse ([source, 2026-08](https://pulse.internetsociety.org/en/ixp-tracker/ixp/704/)).
 
-### Cote d'Ivoire: 3 Established
-
-An exchange point in service by 2026, with a global content network serving from it.
-
-- Netflix and Akamai are among the international content players that CIVIX federates alongside operators and ISPs, per the article on PeeringDay 2026 ([source, 2026-06-15](https://www.fratmat.info/article/2642599/economie/peeringday-2026appairage-et-interconnexion-lartci-mobilise-lecosysteme-numerique-autour-dun-internet-performant)).
-
-### Egypt: 3 Established
-
-An exchange point in service by 2026, with a global content network serving from it.
-
-- Global content, CDN and cloud networks are members at EG-IX: Meta (AS32934), Amazon (AS16509), Microsoft (AS8075), CDN77/DataPacket, ACE CDN, Medianova, Zenlayer, G-Core Labs, Kaopu Cloud and Huawei Cloud, per bgp.tools data cited by tech.africa ([source, 2026-09-07](https://tech.africa/eg-ix-cairo-18-members/)).
-
 ### Ghana: 3 Established
 
 An exchange point in service by 2026, with a global content network serving from it.
 
 - Google and Akamai connect at GIXA in Accra, and nowhere else in Accra, per bgp.tools and PeeringDB data of 10 August 2026; Meta is also present there ([source, 2026-08-10](https://tech.africa/accra-three-internet-exchanges/)).
+
+### Malawi: 3 Established
+
+Global content networks served caches from Malawi's exchange in 2024; no traffic growth over a year is known.
+
+- MISPA's chair says the MIX provides international CDN caches from Google, Facebook and Akamai ([source, 2024-04](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2024/0408/Documents/Paulos%20B%20Nyirenda.pdf)).
 
 ### Sierra Leone: 3 Established
 
@@ -89,23 +122,11 @@ An exchange point in service by 2025, with a global content network serving from
 
 - The operator's own site says a Microsoft Connected Cache node caches Microsoft content locally at the exchange, and Quad9 DNS is hosted on-net behind Michcom AS209049; page undated, 2025 capture year used ([source, 2025](https://www.michcom-ix.net/)).
 
-### South Africa: 3 Established
-
-An exchange point in service by 2026, with a global content network serving from it.
-
-- Content delivery network CDN77 has joined JINX Johannesburg as a new member since March 2026, per the article ([source, 2026-08](https://tech.africa/cinx-oadc-cape-town-expansion/)).
-
 ### Uganda: 3 Established
 
 An exchange point in service by 2024, with a global content network serving from it.
 
 - UIXP deployed a Netflix cache in 2024, reachable by connected networks through its route servers, with cache-fill donated by Lyca Mobile; Netflix also connected to UIXP as a new peer ([source, 2024](https://blog.uixp.co.ug/2025/01/endowment-fund-vas-and-other-updates.html)).
-
-### Angola: 2 Nascent
-
-An exchange point in service by 2026; no global content network is known to serve from it.
-
-- The Internet Society Pulse IXP Tracker, drawing on PeeringDB self-reported data, lists the Angola Internet Exchange Point (angonix) in Luanda as active with 23 members, at one physical location, as of June 2026; Pulse says 86% of Angola's 63 active networks are members or customers of members of an IXP ([source, 2026-06](https://pulse.internetsociety.org/en/ixp-tracker/country/AO/)).
 
 ### Benin: 2 Nascent
 
@@ -142,12 +163,6 @@ An exchange point in service by 2026; no global content network is known to serv
 An exchange point in service by 2022; no global content network is known to serve from it.
 
 - The CGIX portal, run with the regulator ARPCE, reports the Congo internet exchange point in operation with 4 connected members and 1 point of presence; the page is undated and the year 2022 is inferred from its own '9 years of existence' counter ([source, 2022](https://www.cgix.cg/)).
-
-### DR Congo: 2 Nascent
-
-An exchange point in service by 2026; no global content network is known to serve from it.
-
-- KINIX (Kinshasa Internet Exchange), founded in 2012 and run by ISPA-DRC as one of three community IXPs of the RDC-IX project, was operating with more than 20 participating networks when it relocated its infrastructure into the Raxio DRC data centre in Kinshasa, per Raxio Group's 20 August 2026 statement ([source, 2026-08-20](https://www.raxiogroup.com/raxio-drc-to-host-kinshasa-internet-exchange-kinix-strengthening-national-connectivity/)).
 
 ### Djibouti: 2 Nascent
 
@@ -202,12 +217,6 @@ An exchange point in service by 2025; no global content network is known to serv
 An exchange point in service by 2026; no global content network is known to serve from it.
 
 - Internet Society says Madagascar has revived its main IXP, MGIX, and is now focused on attracting new IXP members; no date of revival or member count given, so the article date is used ([source, 2026-07-13](https://www.internetsociety.org/blog/2026/07/how-local-peering-is-strengthening-africas-internet/)).
-
-### Malawi: 2 Nascent
-
-An exchange point in service by 2026; no global content network is known to serve from it.
-
-- The Internet Society says that in Malawi the Lilongwe Internet Exchange (LLIX) launched with five peers; the article gives no launch date, so its published date 2026-07-13 is used ([source, 2026-07-13](https://www.internetsociety.org/blog/2026/07/how-local-peering-is-strengthening-africas-internet/)).
 
 ### Mali: 2 Nascent
 
