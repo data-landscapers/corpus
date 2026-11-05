@@ -1,11 +1,11 @@
 ---
 title: Guinea — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: GIN
-ledger_rows: 21
+ledger_rows: 22
 not_held: 3
-record: 486d0e41a284
+record: b48042b05388
 ---
 
 # News, Oct – Nov 2026
@@ -81,6 +81,20 @@ Guinea opened a workshop in Conakry on 21 October 2026 to review nine draft regu
 **[Gbessia : Sensibilisation des citoyens sur le projet WARDIP](https://agpguinee.com/gbessia-sensibilisation-des-citoyens-sur-le-projet-wardip/)** — agpguinee.com, 16 October 2026
 
 A sensitisation session on WARDIP, the 2023-2028 West Africa regional digital integration programme, was held at Gbessia town hall on 16 October 2026 under Guinea's digital economy ministry. Participants were told that the submarine-cable landing station and cable laying may affect all 13 communes of Conakry and the prefectures of Coyah, Forécariah, Dubréka and Boffa, and what is planned to limit environmental and social harm.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet exchange membership listed in PeeringDB</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IXP Tracker - Guinea](https://pulse.internetsociety.org/en/ixp-tracker/country/GN/)** — Internet Society Pulse, 1 November 2026
+
+One active exchange, 10 members, resilience score 39/100; IXP in one of two cities over 300,000 (Nov 2026).
 
 </div>
 
