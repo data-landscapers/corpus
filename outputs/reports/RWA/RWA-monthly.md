@@ -1,11 +1,11 @@
 ---
 title: Rwanda — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: RWA
-ledger_rows: 29
+ledger_rows: 30
 not_held: 7
-record: 9f93d2441150
+record: fc6da163e87a
 ---
 
 # News, Oct – Nov 2026
@@ -363,6 +363,20 @@ The Rwanda Governance Board's 13th Rwanda Governance Scorecard, published on 22 
 **[Why Rwanda is Unhappy with Only 11% of Government Services Fully Digitised](https://www.ktpress.rw/2026/10/why-rwanda-is-unhappy-with-only-11-of-government-services-fully-digitised/)** — KT Press, 27 October 2026
 
 The latest Rwanda Governance Scorecard finds that 11% of government services are fully digitised from start to finish. Cabinet reviewed the scorecard on 26 October 2026 and directed institutions to take coordinated, measurable action. The report also cites a service inventory that cuts local services from 235 to 60, a consolidation of 22 licences and 12 land services online.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ICT ministry memorandum with RES Synesis</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RES Synesis and Rwanda’s MINICT sign an agreement on digital transformation - Gruppo RES](https://res-group.eu/en/news-eng/res-synesis-and-rwanda-digital-transformation-agreement/)** — Gruppo RES, 3 November 2026
+
+Exploratory vendor MoU: IT modernisation, AI, cybersecurity, training; projects need separate agreements.
 
 </div>
 
