@@ -1,12 +1,12 @@
 ---
 title: Djibouti: status report
-compiled: 2026-10-27
+compiled: 2026-11-05
 place: DJI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-01
 intersections_read: 25
-sources_cited: 214
+sources_cited: 215
 sections_written: 39
 not_established: 0
 acquire_lines: 21
@@ -106,32 +106,32 @@ Djibouti's largest digital agreement has so far produced nothing on the ground: 
 The [terms the signing minister has set out](https://www.lanation.dj/ce-projet-jettera-les-bases-solides-de-la-competitivite-nationale-pour-les-30-prochaines-annees-mariam-hamadou-ali-ministre-deleguee-chargee-des-investissements-et-du-developpement-du-s/) run to a dedicated artificial-intelligence special economic zone financed by two Shanghai companies, with a policy-stability clause and a tax-exemption period.
 
 <!-- derived -->
-Eleven commitments are on the record, starting between 2015 and 2026, and that single unclosed memorandum outweighs all the finance actually committed to Djibouti's digital sector put together several times over (as at September 2026).
+Twelve commitments are on the record, starting between 2015 and 2026, and that single unclosed memorandum outweighs all the finance actually committed to Djibouti's digital sector put together several times over (as at November 2026).
 
 Two instruments have gone further. The [Horizon Fiber arrangement](https://www.telecomreviewafrica.com/articles/reports-and-coverage/28249-ethio-telecom-djibouti-telecom-sudatel-seal-binding-deal-on-cross-border-fiber-network/) between Djibouti Telecom, Ethio telecom and Sudatel began as a memorandum of understanding and became a binding agreement in February 2026, covering a [cross-border build with Ethiopia and Sudan](https://www.ethiotelecom.et/ethio-telecom-djibouti-telecom-and-sudatel-group-sign/). Italy's [Fondazione Med-Or has signed a memorandum with the Ministry of Economy and Finance](https://www.med-or.org/news/il-ministro-bernini-a-gibuti-e-il-progetto-promosso-da-med-or-sullunderwater) covering critical infrastructure, digital connectivity and strategic dialogue, under which it is [building Djiboutian capacity to inspect and protect submarine cables at the landing station](https://www.med-or.org/news/il-ministro-bernini-a-gibuti-e-il-progetto-promosso-da-med-or-sullunderwater).
 
 The rest sit where LinkWise sits. The [Smart Wallet memorandum signed with Visa](https://idtechwire.com/djibouti-partners-with-visa-to-develop-national-digital-wallet) in September 2025 commits the parties to developing a national digital wallet; the European Investment Bank and Sparkle [formalised their collaboration on the Blue Raman cable](https://global-gateway-forum.ec.europa.eu/news/global-gateway-forum-accelerating-digital-transformation-through-imec-eu-africa-india-digital-2025-10-10_en) in October 2025; and [Djibouti and Romania began exploring digital cooperation](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-et-la-roumanie-explorent-une-cooperation-numerique-prometteuse) in September 2025.
 
 <!-- derived -->
-Across the record as a whole the financing arrives as debt rather than grant: five of the eleven commitments are concessional loans and two are commercial, against three grants and a single memorandum of understanding (as at September 2026).
+Across the record as a whole the financing arrives as debt rather than grant: six of the twelve commitments are concessional loans and two are commercial, against three grants and a single memorandum of understanding (as at November 2026).
 
 ### New investments
 <!-- finance.new -->
 
 <!-- derived -->
-Six of the eleven digital commitments on Djibouti's record were active as at September 2026, worth about US$64 million; four had closed and one stood at pipeline stage.
+Five of the twelve digital commitments on Djibouti's record were active as at November 2026, worth about US$64 million; four had closed, one stood at pipeline stage and two carry no recorded status.
 
 Of the live World Bank operations, the [Integrated Community Resilience Project](https://projects.worldbank.org/en/projects-operations/project-detail/P506969), an SDR 23.8 million grant (about US$31 million) approved in March 2025, is a safety-nets operation with an ANSIE interoperability upgrade for the Social Registry as one element; the [Economic and Financial Governance Project](https://projects.worldbank.org/en/projects-operations/project-detail/P180696) lends US$20 million over 2025 to 2030 for tax administration and financial management systems; and the [Digital Foundations Project](https://documents1.worldbank.org/curated/en/099021026071059349/pdf/P174461-c8bd0e28-2653-456e-845a-f8242ec8facc.pdf) carries US$10 million to open ICT to competition.
 
 <!-- derived -->
-The World Bank holds four of the eleven commitments and about US$58 million, roughly two-fifths of all committed finance once the unclosed memorandum is set aside; the Islamic Development Bank follows with two submarine-cable loans worth about US$56 million (as at September 2026).
+The World Bank holds four of the twelve commitments and about US$58 million, roughly a third of all committed finance once the unclosed memorandum is set aside; the Islamic Development Bank follows with two submarine-cable loans worth about US$56 million (as at November 2026).
 
-Before that the money went into cable: [US$17 million for the AAE-1 connection](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46025-DJI0071) over 2015 to 2017 and [US$39 million for DARE-1](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46025-DJI1004) closed in 2021, both commercial loans from the Islamic Development Bank. The closed [Public Administration Modernization Project](https://documents1.worldbank.org/curated/en/099080525142540178/pdf/BOSIB-52d5d49a-e84f-4d03-9ca1-282ab3f38cab.pdf), SDR 10.4 million approved in 2018, funded an interoperable government platform, a national CERT and a public key infrastructure, with no digital share split out; the [Agence Française de Développement](https://www.afd.fr/fr/carte-des-projets/numerisation-et-professionnalisation-de-lenseignement-superieur) has lent EUR 10 million (about US$11 million) for 2020 to 2027 to digitalise and professionalise higher education, without splitting out the digital share; and the EU and Germany's [D4D initiative for digital government and cybersecurity](https://d4daccess.eu/sites/default/files/2024-03/2023-02-03_EN_Factsheet_IDGC_Horn%20of%20Africa.pdf), shared with Kenya and Somalia, closed in 2025.
+Before that the money went into cable: [in 2015 a concessional loan from the Agence Française de Développement financed Djibouti Telecom's stakes in the consortia building the AAE-1 and SMW5 cables](https://data-explorer.oecd.org/vis?lc=en&df[ds]=DcdDisseminateFinalDMZ&df[id]=DSD_CRS%40DF_CRS&df[ag]=OECD.DCD.FSD&dq=FRA.DJI.1000.._T._T.C.Q._T..&pd=2015%2C2015&to[TIME_PERIOD]=false). The Islamic Development Bank lent [US$17 million for the AAE-1 connection](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46025-DJI0071) over 2015 to 2017 and [US$39 million for DARE-1](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46025-DJI1004), closed in 2021, both on commercial terms. The closed [Public Administration Modernization Project](https://documents1.worldbank.org/curated/en/099080525142540178/pdf/BOSIB-52d5d49a-e84f-4d03-9ca1-282ab3f38cab.pdf), SDR 10.4 million approved in 2018, funded an interoperable government platform, a national CERT and a public key infrastructure, with no digital share split out; the [Agence Française de Développement](https://www.afd.fr/fr/carte-des-projets/numerisation-et-professionnalisation-de-lenseignement-superieur) has lent EUR 10 million (about US$11 million) for 2020 to 2027 to digitalise and professionalise higher education, without splitting out the digital share; and the EU and Germany's [D4D initiative for digital government and cybersecurity](https://d4daccess.eu/sites/default/files/2024-03/2023-02-03_EN_Factsheet_IDGC_Horn%20of%20Africa.pdf), shared with Kenya and Somalia, closed in 2025.
 
 Two commercial facilities sit apart: [Rand Merchant Bank's US$60 million for the data-centre operator Wingu Africa](https://www.biometricupdate.com/202506/60m-to-speed-up-digital-connectivity-infrastructure-in-ethiopia-djibouti-tanzania), spanning three countries (June 2025), and [a US$10 million private credit facility for the country's digital infrastructure, structured by a Bahraini banking group, its Djibouti subsidiary and TLG Capital](https://www.iibanks.com/iibank-news/a-strategic-milestone-for-east-africa-iibgroup-and-tlg-capital-to-boost-djiboutis-digital-connectivity/) (November 2025), with no borrower named.
 
 <!-- derived -->
-Connectivity is where the money has gone, three commitments worth about US$66 million, with about US$28 million to government systems and US$20 million each to statistics and the ICT industry; the much larger data-storage total is the unclosed memorandum (as at September 2026).
+Connectivity is where the money has gone, four commitments worth about US$101 million, with about US$28 million to government systems and US$20 million each to statistics and cybersecurity; the much larger data-storage total is the unclosed memorandum (as at November 2026).
 
 ## ICT Infrastructure
 
