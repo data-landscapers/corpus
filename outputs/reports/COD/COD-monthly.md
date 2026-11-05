@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Oct – Nov 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: COD
-ledger_rows: 37
+ledger_rows: 40
 not_held: 6
-record: 0a9e0d5140af
+record: 283b94ee8a7b
 ---
 
 # News, Oct – Nov 2026
@@ -35,10 +35,28 @@ record: 0a9e0d5140af
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
 </nav>
+
+### Strategies, plans and policies
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital governance framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Du 03 au 05 novembre 2026 : l’ARPTC travaille d’arrache-pied pour doter le Code du Numérique des mesures d’application](https://lequotidienrdc.com/du-03-au-05-novembre-2026-larptc-travaille-darrache-pied-pour-doter-le-code-du-numerique-des-mesures-dapplication/)** — Le Quotidien RDC, 4 November 2026
+
+DR Congo's digital economy minister opened a review of seven draft cybersecurity orders under the Code du numérique on 3 November 2026. The regulator ARPTC said a diagnostic report and a 2026-2030 digital governance framework are validated. Sixty-three minimum requirements await validation; a government SOC and national CSIRT are still being designed.
+
+</div>
+
+</div>
 
 ### Legislation and regulation
 
@@ -95,6 +113,28 @@ The DRC government adopted on 30 September 2026 a bill to replace the 2010 publi
 **[RDC : le Sénat ratifie à l’unanimité l’ordonnance-loi portant organisation de l’activité statistique](https://actualite.cd/2026/10/22/rdc-le-senat-ratifie-lunanimite-lordonnance-loi-portant-organisation-de-lactivite)** — Actualite.cd, 22 October 2026
 
 The DRC Senate on 21 October 2026 ratified ordonnance-loi 26/015 of 7 September 2026 organising statistical activity, by 73 votes to none of its 109 members. The 95-article law gives the national statistics institute the power to issue the statistical visa, puts a council chaired by the Prime Minister at the head of the system, penalises breaches of statistical secrecy and puts the system's budget at about USD 192 million.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cybersecurity implementing orders (seven arrêtés)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybersécurité : un atelier de validation de sept arrêtés lancé à Kinshasa](https://acp.cd/economie/cybersecurite-un-atelier-de-validation-de-sept-arretes-lance-a-kinshasa/)** — Agence congolaise de presse, 3 November 2026
+
+Ministry and ARPTC workshop 3-5 Nov 2026; incident notification, audits, critical infrastructure, AI registers.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Du 03 au 05 novembre 2026 : l’ARPTC travaille d’arrache-pied pour doter le Code du Numérique des mesures d’application](https://lequotidienrdc.com/du-03-au-05-novembre-2026-larptc-travaille-darrache-pied-pour-doter-le-code-du-numerique-des-mesures-dapplication/)** — Le Quotidien RDC, 4 November 2026
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
@@ -645,6 +685,20 @@ KADEA and ULB-Solvay Lifelong Learning, with DR Congo's Agence pour le Développ
 </nav>
 
 ### Access to services
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electricity regulator's online complaints platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Électricité : présentation d'une plateforme numérique de gestion des plaintes à Kinshasa](https://acp.cd/economie/electricite-presentation-dune-plateforme-numerique-de-gestion-des-plaintes-a-kinshasa/)** — ACP, 6 October 2026
+
+Electricity regulator ARE opens online filing and tracking of consumer and operator complaints, 5 October 2026.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
