@@ -1,11 +1,11 @@
 ---
 title: Eswatini — News, Oct – Nov 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: SWZ
-ledger_rows: 28
+ledger_rows: 29
 not_held: 3
-record: 540c903e0db9
+record: 94877e4b8980
 ---
 
 # News, Oct – Nov 2026
@@ -431,6 +431,20 @@ Summarised under [Data Storage](#data-storage).
 **[GOVT RESTORES 13 ONLINE SERVICES, WEBSITE STILL DOWN](https://eswatinipositivenews.online/govt-restores-13-online-services-website-still-down/)** — Eswatini Positive News, 24 October 2026
 
 Summarised under [Data Storage](#data-storage).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Company registration through the government portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital company registrations plunge 70%](https://www.eswatiniobserver.com/digital-company-registrations-plunge-70/)** — Eswatini Observer, 3 November 2026
+
+632 online registrations in Q2 2026/27 against 2,127 a year earlier; connectivity and manual processes blamed.
 
 </div>
 
