@@ -21,11 +21,11 @@ The AfCFTA Digital Trade Protocol's annex on digital payments asks central banks
 | Stage | Countries |
 |---|---|
 | 5 Leading | 7 |
-| 4 Operating | 38 |
+| 4 Operating | 39 |
 | 3 Established | 8 |
 | 2 Nascent | 0 |
 | 1 Absent | 0 |
-| Unplaced | 1 |
+| Unplaced | 0 |
 | No evidence | 0 |
 
 ## Countries
@@ -326,6 +326,12 @@ The central bank oversaw the national interbank clearing system in 2026; no sour
 
 - The BCT states it manages and supervises the SGMT RTGS (in service since November 2006) and performs surveillance of the SIBTEL clearing system ([source, 2026-09-03](https://www.bct.gov.tn/bct/siteprod/page.jsp?id=96)).
 
+### Uganda: 4 Operating
+
+The central bank ran the interbank settlement and clearing systems in 2026; whether it licenses payment providers is not found.
+
+- The Bank of Uganda notice says its RTGS and ACH services, part of the national payments infrastructure, are in service until a scheduled closure from 5 to 9 November 2026 for an upgrade ([source, 2026-11-03](https://www.bou.or.ug/uploads/Public_Notice_on_RTGS_Temporary_Closure_f3e46d259e.pdf)).
+
 ### Zambia: 4 Operating
 
 The central bank oversaw a national payment switch in 2024; live participation in PAPSS is not on record.
@@ -383,9 +389,3 @@ The central bank licensed payment providers in 2026; no source found reports a n
 
 - The Bank of South Sudan requires non-bank electronic money issuers to obtain its regulatory approval under the amended Electronic Money Regulation, and must assess applications within 60 days ([source, 2026-09-01](https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/)).
 - The Bank of South Sudan issued a regulatory notice putting digital financial service providers, including mobile money operators, under the same licensing-linked requirements as banks, with licence suspension or cancellation as the sanction ([source, 2025-09-29](https://jakony.com/digital-money-operators-face-new-security-and-reporting-rules/)).
-
-### Uganda: Unplaced
-
-Nothing found since 2023 says what the central bank does over payments, so no stage is set.
-
-Not established: Nothing found since October 2023 says what the central bank does over payments.
