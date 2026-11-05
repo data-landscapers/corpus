@@ -1,11 +1,11 @@
 ---
 title: Sao Tome and Principe — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: STP
-ledger_rows: 2
+ledger_rows: 3
 not_held: 5
-record: 4047eda5713f
+record: 4bd160e5560c
 ---
 
 # News, Oct – Nov 2026
@@ -14,6 +14,8 @@ record: 4047eda5713f
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
 </nav>
@@ -35,6 +37,28 @@ record: 4047eda5713f
 **[ARTAC : Libreville acte une réforme importante et accueille São Tomé-et-Príncipe](https://www.gabonreview.com/artac-libreville-acte-une-reforme-importante-et-accueille-sao-tome-et-principe/)** — GabonReview, 22 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XCA/XCA-monthly.html" title="XCA">Central Africa</a>
 
 A second account of the ARTAC closing session, adding that São Tomé and Príncipe's admission brings membership from seven countries to eight.
+
+</div>
+
+</div>
+
+## DPI
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
+</nav>
+
+### Other GovTech and e-Gov
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Court of Auditors' electronic accounts submission system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tribunal de Contas vai lançar em 2027 o sistema digital de prestação de contas - STP-PRESS](https://www.stp-press.st/2026/11/03/tribunal-de-contas-vai-lancar-em-2027-o-sistema-digital-de-prestacao-de-contas/)** — STP-PRESS, 3 November 2026
+
+Electronic filing of public accounts to replace paper; new instruction; system due operational by 30 April 2027.
 
 </div>
 
