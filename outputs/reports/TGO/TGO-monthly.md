@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: TGO
-ledger_rows: 20
+ledger_rows: 21
 not_held: 16
-record: eb88db7634e5
+record: bedb522a2ff9
 ---
 
 # News, Oct – Nov 2026
@@ -318,6 +318,14 @@ African public agencies are starting to buy locally built AI tools for welfare, 
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Un supercalculateur pour accélérer l’innovation technologique, l’intelligence artificielle et la prise de décision stratégique au Togo](https://www.undp.org/fr/togo/actualites/un-supercalculateur-pour-accelerer-linnovation-technologique-lintelligence-artificielle-et-la-prise-de-decision-strategique-au-togo)** — UNDP Togo, 3 November 2026
+
+UNDP GPU server at Lomé Data Centre since July 2026; 50,200 requests Aug-Oct, data kept in Togo.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -425,6 +433,20 @@ Togo and China signed thirteen agreements and memoranda in Beijing on 15 October
 **[Togo Signs Huawei Agreement to Modernize Energy, Transport and Customs](https://www.togofirst.com/en/economic-governance/1910-20385-togo-signs-huawei-agreement-to-modernize-energy-transport-and-customs)** — Togo First, 19 October 2026
 
 Togo and Huawei signed a memorandum of understanding in Shenzhen on 16 October 2026 covering energy, smart transport and smart customs systems. It includes technology transfer and local skills development, and was signed during Council President Faure Gnassingbé's visit to China from 9 to 16 October. No value was given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ecobank and CIPS memorandum of understanding</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Estelle Komlan, Managing Director of Ecobank Togo: 'With CIPS, We Want to Make Payments to China Faster and Cheaper'](https://www.togofirst.com/en/banking/0211-20515-estelle-komlan-managing-director-of-ecobank-togo-with-cips-we-want-to-make-payments-to-china-faster-and-cheaper)** — Togo First, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+MD interview: direct CIPS access planned across 34 markets; Guinea indirect via Bank of China since March 2026.
 
 </div>
 

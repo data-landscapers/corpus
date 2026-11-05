@@ -1,12 +1,12 @@
 ---
 title: Togo: status report
-compiled: 2026-11-04
+compiled: 2026-11-05
 place: TGO
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 10
-sources_cited: 248
+sources_cited: 249
 sections_written: 39
 not_established: 2
 acquire_lines: 40
@@ -289,7 +289,7 @@ The lab itself is [a ministry initiative run with the University of California B
 
 The framing is deliberate and sovereign rather than frontier. Digital minister Cina Lawson calls national-language models ["essential public infrastructure"](https://www.togofirst.com/fr/culture/1407-19555-au-togo-un-projet-pour-valoriser-les-langues-nationales-via-lintelligence-artificielle), a position Togo took to the AI for Good summit in Geneva, and the same theme carries the national [Internet Governance Forum, convened for Lomé in June 2026 around governing in the era of AI, big data and geopolitics](https://www.togofirst.com/fr/tic/0506-19160-forum-national-sur-la-gouvernance-de-l-internet-rendez-vous-a-lome-le-19-juin). AI is one of the domains named in [the Togo Digital 2025 strategy](https://numerique.gouv.tg/wp-content/uploads/2024/05/FR-Strategie-Togo-Digital-2025.pdf), adopted in 2022 for a horizon to 2025, and advanced degrees in the field are [under development at the École Polytechnique de Lomé](https://india.afd.fr/en/projects/impact-project-academia-partnership-support-development-ecole-polytechnique-de-lome) (2026).
 
-[A six-pillar national strategy was presented in draft in December 2025](https://fr.linkedin.com/posts/numeriquetg_mesptn-atd-giz-activity-7407900229221638144-WE3d), with no adoption on record. Inside government, little is running: [the economy ministry launched an AI-based market-inspection platform in March 2026](https://www.sikafinance.com/marches/togo-letat-deploie-lintelligence-artificielle-pour-traquer-les-fraudes-et-renforcer-ses-recettes_60463). The World Bank's 2025 index records [no artificial intelligence in citizen-facing public services](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and the country's one deployed model predates the lab: [machine learning over mobile-phone metadata and satellite data to decide who received Novissi cash payments](https://doi.org/10.1596/40405) (2023). [The local-language AI pilot gathers voice and text through paid public contributions, with UNDP support](https://www.republicoftogo.com/toutes-les-rubriques/high-tech/le-togo-apprend-ses-langues-grace-a-l-ia).
+[A six-pillar national strategy was presented in draft in December 2025](https://fr.linkedin.com/posts/numeriquetg_mesptn-atd-giz-activity-7407900229221638144-WE3d), with no adoption on record. Inside government, little is running: [the economy ministry launched an AI-based market-inspection platform in March 2026](https://www.sikafinance.com/marches/togo-letat-deploie-lintelligence-artificielle-pour-traquer-les-fraudes-et-renforcer-ses-recettes_60463). [Since July 2026 a UNDP-donated GPU server at Lomé Data Centre, run by the Togo AI Lab, has powered an assistant for the public-procurement control directorate](https://www.undp.org/fr/togo/actualites/un-supercalculateur-pour-accelerer-linnovation-technologique-lintelligence-artificielle-et-la-prise-de-decision-strategique-au-togo). The World Bank's 2025 index records [no artificial intelligence in citizen-facing public services](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and the country's one deployed model predates the lab: [machine learning over mobile-phone metadata and satellite data to decide who received Novissi cash payments](https://doi.org/10.1596/40405) (2023). [The local-language AI pilot gathers voice and text through paid public contributions, with UNDP support](https://www.republicoftogo.com/toutes-les-rubriques/high-tech/le-togo-apprend-ses-langues-grace-a-l-ia).
 
 ### ICT Industry
 <!-- tech.industry -->
