@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Oct – Nov 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: BFA
-ledger_rows: 36
+ledger_rows: 37
 not_held: 6
-record: 9cb7cb4e685b
+record: 58726677e771
 ---
 
 # News, Oct – Nov 2026
@@ -395,6 +395,20 @@ Burkina Faso's Council of Ministers adopted a decree on 22 October 2026 on compu
 **[Protection des consommateurs : « La saisine de l'Observatoire de la qualité des services financiers est totalement gratuite », Sahouba Kabré](https://lefaso.net/spip.php?article149951=)** — leFaso.net, 13 October 2026
 
 In an interview, Sahouba Kabré of Burkina Faso's Observatoire de la qualité des services financiers (OQSF-BF) said the body, housed within the national inclusive-finance agency ANPFI under a BCEAO approach shared across UEMOA, mediates free of charge in disputes between customers and banks, microfinance institutions, insurers and electronic-money operators. He said more than 220 cases have been handled, about 92% settled amicably, and urged the public to learn about the service.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Certified electronic invoice</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Communiqué DGI : Facturation électronique certifiée obligatoire pour les grandes entreprises dès le 1er janvier 2027](https://burkina24.com/2026/11/04/communique-dgi-facturation-electronique-certifiee-obligatoire-pour-les-grandes-entreprises-des-le-1er-janvier-2027-2/)** — Burkina24, 4 November 2026
+
+Burkina Faso's tax directorate (DGI) announced that from 1 January 2027 large and medium enterprises must issue every invoice through a certified electronic invoicing system (SECeF). The rule rests on article 564-2 of the Code général des impôts. Suppliers face fines per invoice and possible closure; clients may lose their VAT deduction.
 
 </div>
 
