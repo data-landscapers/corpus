@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-24-apd-mudawala-002-2026-nizam-maadeni-rabt-bayni-sijil-watani-lilsukkan",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Mauritania's data protection authority (APD), in a 24 March 2026 opinion, gave a conditional favourable opinion on a joint decision authorising the Maadeni gold-operator information system, whose stated purposes include secure interconnection with the national population register and the Hawiyati service, and limited its interconnections to the Registre National de la Population and the GIMTEL CONNECT platform.",
+   "as_of": "2026-03-24",
+   "date_precision": "day",
+   "system": "Maadeni (Maaden Mauritanie integrated information system)",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maadeni",
+   "country_label": "Maadeni",
+   "class": "relying",
+   "platform": "",
+   "owner": "Maaden Mauritanie",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
