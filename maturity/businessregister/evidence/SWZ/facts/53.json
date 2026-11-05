@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-03-swz-digital-company-registrations-plunge-70",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "The Ministry of Commerce, Industry and Trade's second-quarter 2026/27 performance report says 632 applicants used the online company registration service in the quarter to September 2026, against 2,127 a year earlier.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "online company registration service",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "online company registration service",
+   "country_label": "Eswatini",
+   "class": "business",
+   "platform": "",
+   "owner": "Ministry of Commerce, Industry and Trade",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
