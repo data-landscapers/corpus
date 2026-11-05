@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: SLE
-ledger_rows: 18
+ledger_rows: 20
 not_held: 4
-record: de6327d1df62
+record: 47705fd7d997
 ---
 
 # News, Oct – Nov 2026
@@ -13,6 +13,8 @@ record: de6327d1df62
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
@@ -24,7 +26,31 @@ record: de6327d1df62
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
 </nav>
+
+## Governance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#data-protection">Data protection</a>
+</nav>
+
+### Data protection
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data Protection and Right to Access Information Bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sierra Leone's Data Protection Bill Reaches Parliament After CHRDI-Led Advocacy Efforts](https://sierraloaded.sl/local/data-protection-bill-parliament-chrdi-advocacy/)** — SierraLoaded, 4 November 2026
+
+Sierra Leone's Data Protection and Right of Access to Information Bill, 2026 was due before Parliament on 5 November 2026. The rights group CHRDI, which sits on the bill's steering committee, gave the date.
+
+</div>
+
+</div>
 
 ## ICT Infrastructure
 
@@ -385,6 +411,28 @@ Statistics Sierra Leone began training trainers for the 2026 Population and Hous
 **[Sierra Leone establishes IFAP National Committee during IDUAI 2026, UNESCO celebrates 25 years of Information for All work - Gleaner Newspaper SL](https://gleanersl.com/sierra-leone-establishes-ifap-national-committee-during-iduai-2026-unesco-celebrates-25-years-of-information-for-all-work/)** — Gleaner Newspaper SL, 18 October 2026
 
 Sierra Leone has set up a national committee for UNESCO's Information for All Programme to align national policy with it, the Foreign Ministry announced. A UNESCO-government conference on information integrity held in Freetown on 28 September 2026 drew delegates from 41 countries.
+
+</div>
+
+</div>
+
+## Geopolitics
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
+<a href="#digital-sovereignty">Digital sovereignty</a>
+</nav>
+
+### Digital sovereignty
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Transfer of the .sl domain registry to local management</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sierra Leone establishes Working Group to transfer .SL internet domain to local management](https://techreviewafrica.com/news/8122/sierra-leone-establishes-working-group-to-transfer-sl-internet-domain-to-local-management)** — Tech Review Africa, 4 November 2026
+
+Sierra Leone's communications ministry set up a .SL ccTLD Stakeholder Working Group, reported on 4 November 2026. It is to guide the move of the .sl registry, run abroad by a private operator since 2007, onto national infrastructure and its redelegation through IANA. The World Bank funds the work through the SLDTP.
 
 </div>
 
