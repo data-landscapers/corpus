@@ -360,8 +360,13 @@ def apply(name, where, dry):
     print(f"{mark(name, dec['considered'])} slug(s) marked considered")
     # Applied files leave the folder: --apply reads every decisions*.json there, so one left behind
     # replays at the next apply and re-adds rows since merged (Teraco CT3, 2026-09-23).
-    done = WORK / where / f"applied-{today}"
-    done.mkdir(exist_ok=True)
+    # A second apply the same day takes its own folder: sharing one overwrote the first night's
+    # decisions.json (2026-11-05).
+    done, n = WORK / where / f"applied-{today}", 1
+    while done.exists():
+        n += 1
+        done = WORK / where / f"applied-{today}-{n}"
+    done.mkdir()
     for f in files:
         f.replace(done / f.name)
 
