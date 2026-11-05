@@ -1,0 +1,50 @@
+{
+ "slug": "2026-04-30-cabo-verde-dgape-boe-republicacao-mapa-eleitores",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Electoral roll gazette tables; no study register stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Electoral roll gazette tables; no study register stated."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Electoral roll gazette tables; no study register stated."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Electoral roll gazette tables; no study register stated."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Electoral roll gazette tables; no study register stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2025-04-29-zaf-mpumalanga-government-launches-a-groundbreaking-new-citizen-engagement",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "The Mpumalanga Provincial Government said it would launch the Livi Lemphakatsi app on 30 April 2025, for residents to submit and track service delivery complaints.",
+       "as_of": "2025-04-30",
+       "date_precision": "day",
+       "system": "Livi Lemphakatsi Citizen App",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Livi Lemphakatsi Citizen App",
+       "country_label": "South Africa",
+       "class": "feedback",
+       "platform": "mobile app",
+       "owner": "Mpumalanga Provincial Government (Office of the Premier)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Citizen complaints app; no local government office connection stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No digital law or policy consultation stated."
+    }
+   }
+  }
+ }
+}

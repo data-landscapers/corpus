@@ -1,0 +1,16 @@
+{"slug":"2026-11-03-syc-bill-no-20-companies-amendment-bill-2026","studies":{
+"authentication":{"countries":{"SYC":{"facts":[],"systems":[],"note":"A bill only enables regulations for electronic authentication of company filings; no service is authorised, contracted or in use."}}},
+"businesspayments":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on the central bank."}}},
+"consumerprotection":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on consumer protection in digital finance."}}},
+"crossborderpayments":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"cybersecuritylaw":{"countries":{"SYC":{"facts":[
+{"sub_indicator":"law","aspect":"standing","value":"in-force","fact":"Bill No. 20 of 2026 refers to the Cybercrimes and other Related Crimes Act, 2021 (Act 59 of 2021) as applying to misuse of data submitted under the new section 10A (Official Gazette).","as_of":"2026-11-03","date_precision":"day","system":"Cybercrimes and other Related Crimes Act, 2021","class":"law"}],"systems":[],"note":"No use of the law is stated."}}},
+"dataprotectionlaw":{"countries":{"SYC":{"facts":[
+{"sub_indicator":"general","aspect":"standing","value":"in-force","fact":"Bill No. 20 of 2026 refers to the Data Protection Act, 2023 (Act 24 of 2023) as applying to violation or misuse of data submitted under the new section 10A (Official Gazette).","as_of":"2026-11-03","date_precision":"day","system":"Data Protection Act, 2023","class":"general"}],"systems":[],"note":""}}},
+"g2ppayments":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on government-to-person payments."}}},
+"paymentsuptake":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on payments uptake."}}},
+"retailpayments":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on retail payments."}}},
+"revenuecollection":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on revenue collection; the bill covers company registry fees only as a bill."}}},
+"taxadmin":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on tax administration."}}}
+}}

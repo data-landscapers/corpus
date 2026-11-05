@@ -1,0 +1,152 @@
+{
+ "slug": "2026-11-04-xaf-google-empowering-educators-and-learners-in-sub-saharan-africa",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "No rule or authority on AI harms is stated."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No rule or authority on AI harms is stated."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No rule or authority on AI harms is stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "No government body's AI system is stated."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No government body's AI system is stated."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No government body's AI system is stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Teacher tools are built by a non-government programme; no public sector system uses them yet."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Teacher tools are built by a non-government programme; no public sector system uses them yet."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Teacher tools are built by a non-government programme; no public sector system uses them yet."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on government technical staff."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on government technical staff."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on government technical staff."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "No school internet figure or compulsory curriculum is stated."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No school internet figure or compulsory curriculum is stated."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No school internet figure or compulsory curriculum is stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Google announced on 2026-11-04 that Fab AI, funded by Google.org and the Gates Foundation, will lead local innovators in Kenya, Ghana and South Africa to build bespoke AI tools for teachers on open Gemma models, aiming at up to 500 teachers and 15,000 students in a first phase.",
+       "as_of": "2026-11-04",
+       "date_precision": "day",
+       "system": "Google DeepMind-Fab AI open Gemma teacher tools",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Google announced on 2026-11-04 that Fab AI, funded by Google.org and the Gates Foundation, will lead local innovators in Kenya, Ghana and South Africa to build bespoke AI tools for teachers on open Gemma models, aiming at up to 500 teachers and 15,000 students in a first phase.",
+       "as_of": "2026-11-04",
+       "date_precision": "day",
+       "system": "Google DeepMind-Fab AI open Gemma teacher tools",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "Google announced on 2026-11-04 that Fab AI, funded by Google.org and the Gates Foundation, will lead local innovators in Kenya, Ghana and South Africa to build bespoke AI tools for teachers on open Gemma models, aiming at up to 500 teachers and 15,000 students in a first phase.",
+       "as_of": "2026-11-04",
+       "date_precision": "day",
+       "system": "Google DeepMind-Fab AI open Gemma teacher tools",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,16 @@
+{"slug": "2026-11-04-switch-al-maghrib-on-future-of-payments", "studies": {
+"aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No government body's AI use stated; the switch is an infrastructure provider."}}},
+"aisectoral": {"countries": {"MAR": {"facts": [], "systems": [{"system": "Switch Al-Maghrib AI fraud scoring", "country_label": "Morocco", "class": "other", "platform": "national routing engine", "owner": "Switch Al-Maghrib", "tiers": ""}], "note": "AI fraud scoring in the payment switch is not a public sector's system."}}},
+"aisystems": {"countries": {"MAR": {"facts": [], "systems": [{"system": "Switch Al-Maghrib AI fraud scoring", "country_label": "Morocco", "class": "other", "platform": "national routing engine", "owner": "Switch Al-Maghrib", "tiers": ""}], "note": "AI integrated into the routing engine; no model built, dataset or AI computing stated."}}},
+"businesspayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"MAR": {"facts": [], "systems": [{"system": "Switch Al-Maghrib", "country_label": "Morocco", "class": "other", "platform": "national payment switch", "owner": "Switch Al-Maghrib", "tiers": ""}], "note": "Central bank role over the switch or licensing not stated; PAPSS live status not stated."}}},
+"consumerprotection": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Only plans and talks to link switches; no corridor or regional system in service stated."}}},
+"g2ppayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"nonstatefinance": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No amount of private money stated."}}},
+"paymentsuptake": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No survey share of adults with an account stated."}}},
+"retailpayments": {"countries": {"MAR": {"facts": [{"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "Switch Al-Maghrib's MD says every transaction through the national switch, whether from a bank or a mobile money institution, is risk-scored in real time.", "as_of": "2026-11-04", "date_precision": "day", "system": "Switch Al-Maghrib", "class": "retail"}], "systems": [{"system": "Switch Al-Maghrib", "country_label": "Morocco", "class": "retail", "platform": "national payment switch", "owner": "Switch Al-Maghrib", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on electronic payment of taxes or fees."}}},
+"startups": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on startup law or funds."}}}
+}}

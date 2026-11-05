@@ -1,0 +1,11 @@
+{"slug": "2024-09-12-dji-the-wingu-group-s-partnership-with-ams-ix-in-djibouti-is-now-live-as-t", "studies": {
+"datacentres": {"countries": {"DJI": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "AMS-IX says Wingu Africa is a carrier-neutral data centre operator providing colocation and operates the Djibouti Data Center, serving major global telecom companies.", "as_of": "2024-09-12", "date_precision": "day", "system": "Djibouti Data Center", "class": "datacentre"}
+], "systems": [{"system": "Djibouti Data Center", "country_label": "Djibouti", "class": "datacentre", "platform": "", "owner": "Wingu Africa Group", "tiers": ""}], "note": ""}}},
+"exchangepoints": {"countries": {"DJI": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "AMS-IX says the Djibouti Internet Exchange (DjIX) is in operation and becomes AMS-IX Djibouti under a partnership with Wingu Africa.", "as_of": "2024-09-12", "date_precision": "day", "system": "AMS-IX Djibouti", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "content", "fact": "AMS-IX says peak traffic growth at DjIX is attributed to increased traffic by several content delivery networks located at AMS-IX Djibouti, none named.", "as_of": "2024-09-12", "date_precision": "day", "system": "AMS-IX Djibouti", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "growing", "fact": "AMS-IX says DjIX's peak traffic is currently four times that of a year ago.", "as_of": "2024-09-12", "date_precision": "day", "system": "AMS-IX Djibouti", "class": "exchange"}
+], "systems": [{"system": "AMS-IX Djibouti", "country_label": "Djibouti Internet Exchange (DjIX)", "class": "exchange", "platform": "", "owner": "Wingu Africa with AMS-IX", "tiers": ""}], "note": ""}}},
+"nationaldatacentres": {"countries": {"DJI": {"facts": [], "systems": [], "note": "Ownership of the Djibouti Data Center by country is not stated."}}}
+}}

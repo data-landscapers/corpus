@@ -1,0 +1,6 @@
+{"slug": "2026-11-04-rwa-rwanda-advances-horizon-1000-initiative-to-integrate-ai-into-primary-healthcare", "studies": {
+"aiabuse": {"countries": {"RWA": {"facts": [], "systems": [], "note": "States no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"RWA": {"facts": [], "systems": [], "note": "AI is in a health-sector platform, which is not general administration."}}},
+"aisectoral": {"countries": {"RWA": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "underway", "fact": "Health minister Sabin Nsanzimana says Horizon 1000 is integrating AI-powered support into the eBuzima digital health platform for primary health facilities by 2028, with safety and effectiveness testing before any tool informs patient care.", "as_of": "2026-11-04", "date_precision": "day", "system": "Horizon 1000 / eBuzima", "class": "sectorai"}], "systems": [{"system": "eBuzima", "country_label": "Rwanda", "class": "sectorai", "platform": "digital health platform", "owner": "Ministry of Health", "tiers": "primary health facilities"}], "note": ""}}},
+"aisystems": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No model, dataset or AI computing built or hosted in Rwanda is stated."}}}
+}}

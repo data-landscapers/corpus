@@ -1,32 +1,41 @@
 {
  "slug": "2026-04-20-dza-algeria-launches-sawtoukoum-platform-to-channel-youth-feedback-and-com",
  "studies": {
-  "eparticipation": {
+  "feedbackportals": {
    "countries": {
     "DZA": {
      "facts": [
       {
-       "sub_indicator": "eparticipation",
-       "aspect": "online",
-       "value": "standing",
-       "fact": "Algeria's Ministry of Youth launched the Sawtoukoum digital platform where young people submit proposals and observations to feed policy, with real-time tracking of submissions.",
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "Algeria's Ministry of Youth launched the Sawtoukoum platform, announced 20 April 2026, where users submit concerns and report shortcomings and track each submission to resolution.",
        "as_of": "2026-04-20",
        "date_precision": "day",
        "system": "Sawtoukoum",
-       "class": "eparticipation"
+       "class": "feedback"
       }
      ],
      "systems": [
       {
        "system": "Sawtoukoum",
        "country_label": "Algeria",
-       "class": "eparticipation",
-       "platform": "digital platform",
+       "class": "feedback",
+       "platform": "web platform",
        "owner": "Ministry of Youth",
        "tiers": ""
       }
      ],
      "note": ""
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on refugees or displaced people."
     }
    }
   }

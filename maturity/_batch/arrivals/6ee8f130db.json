@@ -1,18 +1,32 @@
-{"slug": "2024-01-03-ner-niger-le-fichier-biometrique-electoral-une-garantie-pour-des-elections", "studies": {
-"dataprotectionauthority": {"countries": {"NER": {"facts": [
-{"sub_indicator":"body","aspect":"standing","value":"provided","fact":"A CENI official says that publishing all roll data could bring the CENI before the Haute autorite de protection des donnees a caractere personnel, naming the body under the data protection law in force in Niger.","as_of":"2024-01-03","date_precision":"day","system":"Haute autorite de protection des donnees a caractere personnel","class":"authority"}],
-"systems":[{"system":"Haute autorite de protection des donnees a caractere personnel","country_label":"Niger","class":"authority","platform":"","owner":"","tiers":""}],"note":""}}},
-"dataprotectionlaw": {"countries": {"NER": {"facts": [
-{"sub_indicator":"general","aspect":"standing","value":"in-force","fact":"The CENI's rapporteur general says the roll is limited online in line with the law on personal data protection in force in Niger.","as_of":"2024-01-03","date_precision":"day","system":"loi sur la protection des donnees a caractere personnel","class":"general"},
-{"sub_indicator":"general","aspect":"authority","value":"provided","fact":"The CENI official names the Haute autorite de protection des donnees a caractere personnel as a body that could call the CENI to account, without saying its members are appointed.","as_of":"2024-01-03","date_precision":"day","system":"Haute autorite de protection des donnees a caractere personnel","class":"general"}],
-"systems":[],"note":""}}},
-"electoralregister": {"countries": {"NER": {"facts": [
-{"sub_indicator":"electoral","aspect":"roll","value":"inservice","fact":"The CENI says the biometric electoral file (FEB), built by Gemalto with fingerprints of ten fingers and a photo, was used for the 2020-2021 elections and holds 7,651,870 voters across 9 regions.","as_of":"2024-01-03","date_precision":"day","system":"Fichier Electoral Biometrique (FEB)","class":"electoral"},
-{"sub_indicator":"electoral","aspect":"checked","value":"open","fact":"The CENI says an extract of enrolled voters' data (name, first name) can be consulted online on the CENI site, with full details available at CENI offices.","as_of":"2024-01-03","date_precision":"day","system":"Fichier Electoral Biometrique (FEB)","class":"electoral"}],
-"systems":[{"system":"Fichier Electoral Biometrique (FEB)","country_label":"Niger","class":"electoral","platform":"Gemalto (now Thales)","owner":"CENI","tiers":""}],"note":""}}},
-"idcoverage": {"countries": {"NER": {"facts":[],"systems":[],"note":"The document counts voters on the electoral roll, not people holding a national ID."}}},
-"idmaintenance": {"countries": {"NER": {"facts":[],"systems":[],"note":"The document says nothing about operation or maintenance of a national ID system."}}},
-"idrobustness": {"countries": {"NER": {"facts":[],"systems":[],"note":"The document concerns the electoral roll, not a national ID system."}}},
-"police": {"countries": {"NER": {"facts":[],"systems":[],"note":"The document does not mention police."}}},
-"schoolinternet": {"countries": {"NER": {"facts":[],"systems":[],"note":"The document does not mention schools."}}}
-}}
+{
+ "slug": "2024-01-03-ner-niger-le-fichier-biometrique-electoral-une-garantie-pour-des-elections",
+ "studies": {
+  "civilregister": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Biometric electoral file only; no civil register stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Electoral file is not said to be keyed on a national ID number."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "Electoral file only; no civil registration office system stated."
+    }
+   }
+  }
+ }
+}

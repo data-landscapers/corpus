@@ -1,0 +1,12 @@
+{"slug": "2024-05-24-ken-kixp-presentaion-kenog-may-2024", "studies": {
+"datacentres": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Names data centres hosting KIXP (iColo Mba, ADC, PAIX) but does not state they rent space to others, tier or a cloud region."}}},
+"exchangepoints": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "TESPOK says the Kenya Internet Exchange Point (KIXP) is located at 4 data centres in Kenya with 120 members connected, 1.994 Tb/s connected capacity and 60% of peers on IPv6.", "as_of": "2024-05-24", "date_precision": "day", "system": "KIXP", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "content", "fact": "TESPOK lists Google, Akamai, Meta (Facebook), Amazon, Netflix, Microsoft and Huawei among the international content delivery networks that are members of KIXP.", "as_of": "2024-05-24", "date_precision": "day", "system": "KIXP", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "reach", "value": "wider", "fact": "TESPOK lists networks from other countries as KIXP members, including BSC-Rwanda, Roke Telkom-Uganda, China Telecom, Hurricane Electric and BICS.", "as_of": "2024-05-24", "date_precision": "day", "system": "KIXP", "class": "exchange"}
+], "systems": [{"system": "KIXP", "country_label": "Kenya Internet Exchange Point", "class": "exchange", "platform": "IXP Manager", "owner": "TESPOK", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Says nothing about national ID verification."}}},
+"internetusage": {"countries": {"KEN": {"facts": [], "systems": [{"system": "DataReportal figure (40.8% penetration, January 2024)", "country_label": "22.71 million users", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Only a DataReportal-style penetration figure for January 2024, which is noted and never used."}}},
+"itcapacity": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Says nothing about government technical staff or systems."}}},
+"nationaldatacentres": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No data centre for hire or its ownership stated."}}}
+}}

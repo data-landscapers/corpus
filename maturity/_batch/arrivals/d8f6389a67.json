@@ -1,0 +1,14 @@
+{"slug":"2026-11-04-sen-sante-numerique-le-vide-juridique-qui-fragilise-la-protection-des-donnees-des-pa","studies":{
+"authentication":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Nothing on authentication services."}}},
+"birthidlink":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Nothing on a civil register and ID link."}}},
+"dataprotectionauthority":{"countries":{"SEN":{"facts":[],"systems":[],"note":"The Commission de protection des donnees personnelles is named only as a proposed member of a governance mechanism; no appointment or ruling is stated."}}},
+"dataprotectionlaw":{"countries":{"SEN":{"facts":[
+{"sub_indicator":"general","aspect":"standing","value":"in-force","fact":"Law no. 2008-12 on personal data protection is cited by SenePlus as classing health information as sensitive data, with no regime specific to the health sector.","as_of":"2026-11-04","date_precision":"day","system":"Loi n° 2008-12","class":"general"}],"systems":[],"note":""}}},
+"health":{"countries":{"SEN":{"facts":[
+{"sub_indicator":"emr","aspect":"governance","value":"plan:current","fact":"The Plan national de developpement sanitaire et social 2023-2028 provides for developing the computerised patient record, unique identification and telemedicine, and Senegal aims to generalise the record by 2034 (SenePlus).","as_of":"2023","date_precision":"year","system":"dossier patient informatise","class":"emr"}],"systems":[{"system":"dossier patient informatise","country_label":"Senegal","class":"emr","platform":"","owner":"","tiers":""}],"note":"A plan only; no system in service is stated."}}},
+"idcoverage":{"countries":{"SEN":{"facts":[],"systems":[],"note":"No national ID enrolment figure."}}},
+"idfrombirth":{"countries":{"SEN":{"facts":[],"systems":[],"note":"The unique identifier mentioned is a health user identifier, not a number at birth."}}},
+"idmaintenance":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Nothing on operation or ownership of the ID system."}}},
+"idregisters":{"countries":{"SEN":{"facts":[],"systems":[],"note":"No register keyed on the national ID number."}}},
+"idrobustness":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Nothing on the national ID system."}}}
+}}

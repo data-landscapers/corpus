@@ -1,0 +1,21 @@
+{"slug":"2026-11-03-mdg-madagascar-cyber-escroquerie-une-affaire-de-gros-sous","studies":{
+"authentication":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Only two-factor advice from police; no state authentication service stated."}}},
+"birthidlink":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}},
+"businesspayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}},
+"centralbank":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Mentions mobile money scams only; no central bank role stated."}}},
+"consumerprotection":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Mobile money scams are described; no consumer rules or complaints body for digital finance stated."}}},
+"crossborderpayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}},
+"cybersecurity":{"countries":{"MDG":{"facts":[{"sub_indicator":"readiness","aspect":"foundation","value":"body","fact":"L'Express de Madagascar quotes the director general of the Computer Incident Response Team Madagascar (CIRT-MG), which it says has begun joining the SADC CIRT and Africa CIRT networks.","as_of":"2026-11-03","date_precision":"day","system":"CIRT-MG","class":"response"}],"systems":[{"system":"CIRT-MG","country_label":"Computer Incident Response Team Madagascar","class":"response","platform":"","owner":"","tiers":""}],"note":""}}},
+"cybersecuritylaw":{"countries":{"MDG":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"bill","fact":"L'Express de Madagascar reports that a bill against cybercrime is under examination in the National Assembly.","as_of":"2026-11-03","date_precision":"day","system":"Cybercrime bill","class":"law"}],"systems":[],"note":""}}},
+"g2ppayments":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}},
+"idcoverage":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}},
+"idfrombirth":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}},
+"idmaintenance":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}},
+"idregisters":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}},
+"idrobustness":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}},
+"internetusage":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No internet use share given."}}},
+"paymentsuptake":{"countries":{"MDG":{"facts":[],"systems":[],"note":"No survey share of account holders given."}}},
+"police":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Names a police cybercrime service and arrest counts; no station record system stated."}}},
+"retailpayments":{"countries":{"MDG":{"facts":[],"systems":[{"system":"Mobile Money","country_label":"Madagascar","class":"other","platform":"mobile money","owner":"","tiers":""}],"note":"Mobile Money scams are described, with no licensing or service facts stated."}}},
+"revenuecollection":{"countries":{"MDG":{"facts":[],"systems":[],"note":"Not covered."}}}
+}}

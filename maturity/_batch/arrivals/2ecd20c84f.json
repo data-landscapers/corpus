@@ -1,0 +1,62 @@
+{
+ "slug": "2026-02-16-dza-bilan-de-la-mediation-de-la-republique-plus-de-2-000-requetes-etudiees",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "inservice",
+       "fact": "The Annaba delegation of the Médiateur de la République received 55 requests online through the Wassit.dz application in 2025, its delegate said.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Wassit.dz",
+       "class": "feedback"
+      },
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "inservice",
+       "fact": "The delegate said 588 administrations and enterprises in the wilaya hold grievance registers, which logged 2,666 complaints in 2025, 2,557 handled.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "registres de doléances",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Wassit.dz",
+       "country_label": "Algeria",
+       "class": "feedback",
+       "platform": "app",
+       "owner": "Médiateur de la République",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Mediator's requests and registers only; no local office connection stated."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on civil registration."
+    }
+   }
+  }
+ }
+}

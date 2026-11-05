@@ -1,0 +1,81 @@
+{
+ "slug": "2026-02-18-cmr-devenir-membre-du-camix-guide-pratique-pour-fai-hebergeur-et-operateur",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states no business register; registre du commerce is only a membership form field."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre for hire described; POPs and caches are exchange infrastructure."
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "CAMIX's own membership guide describes ISPs, hosts and operators exchanging traffic locally through its route-server at its points of presence, settlement-free.",
+       "as_of": "2026-02-18",
+       "date_precision": "day",
+       "system": "CAMIX",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "content",
+       "fact": "CAMIX's guide says members get access to Google Global Cache, an Akamai cache to be reactivated shortly, OpenDNS and NTP hosted at the exchange.",
+       "as_of": "2026-02-18",
+       "date_precision": "day",
+       "system": "CAMIX",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "reach",
+       "value": "wider",
+       "fact": "CAMIX's guide says member ports are provisioned at its points of presence in Douala or Yaounde.",
+       "as_of": "2026-02-18",
+       "date_precision": "day",
+       "system": "CAMIX",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CAMIX",
+       "country_label": "Cameroon",
+       "class": "exchange",
+       "platform": "route-server",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre ownership or hosting stated."
+    }
+   }
+  }
+ }
+}

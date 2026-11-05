@@ -1,0 +1,14 @@
+{
+ "slug": "2026-10-23-government-of-japan-mdg-2026-ceni-electoral-data-equipment",
+ "studies": {
+  "idrobustness": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Electoral commission equipment for a biometric voter list; no national ID system stated."
+    }
+   }
+  }
+ }
+}

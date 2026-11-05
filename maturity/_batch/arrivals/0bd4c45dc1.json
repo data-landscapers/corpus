@@ -1,11 +1,1 @@
-{"slug": "2025-04-14-lby-560-896-registered-for-libyan-municipal-elections", "studies": {
-"authentication": {"countries": {"LBY": {"facts": [], "systems": [], "note": "SMS voter registration is not an ID authentication service."}}},
-"birthidlink": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on civil register links."}}},
-"idcoverage": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Only voter-registration counts, not ID enrolment."}}},
-"idfrombirth": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
-"idmaintenance": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on operating the ID system."}}},
-"idregisters": {"countries": {"LBY": {"facts": [{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "Libya's High National Elections Commission (HNEC) says voters register for the municipal elections by SMS to 17017 with their national ID number and polling-centre number, and published a voter list of 560,896 registered as of 13 April 2025.", "as_of": "2025-04-13", "date_precision": "day", "system": "Voter lists (HNEC)", "class": "register"}], "systems": [{"system": "Voter lists", "country_label": "Libya", "class": "register", "platform": "SMS to 17017", "owner": "HNEC", "tiers": ""}], "note": ""}}},
-"idrobustness": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on the ID system itself."}}},
-"localgov": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on local government office connection."}}},
-"refugees": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Displacement mentioned only as background, no registration or access."}}}
-}}
+{"slug": "2025-04-14-lby-560-896-registered-for-libyan-municipal-elections", "studies": {"electoralregister": {"countries": {"LBY": {"facts": [{"sub_indicator": "electoral", "aspect": "checked", "value": "open", "fact": "HNEC announced publication of voter lists for the second phase of municipal elections, with 560,896 registered as of 13 April 2025.", "as_of": "2025-04-13", "date_precision": "day", "system": "HNEC voter lists", "class": "electoral"}], "systems": [{"system": "HNEC SMS registration 17017", "country_label": "Libya", "class": "electoral", "platform": "SMS", "owner": "HNEC", "tiers": "national"}], "note": ""}}}}}

@@ -1,0 +1,12 @@
+{"slug": "2026-11-03-dza-mesrs-sixieme-reunion-multisectorielle-strategie-nationale-ia", "studies": {
+"aiabuse": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document states nothing on rules or an authority against AI harms."}}},
+"aigovernment": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The document states no government body using an AI system for its own work or services."}}},
+"aisectoral": {"countries": {"DZA": {"facts": [], "systems": [{"system": "Language model for Algerian tax legislation", "country_label": "Algeria", "class": "other", "platform": "", "owner": "Ministry of Higher Education and Scientific Research", "tiers": ""}], "note": "The tax-legislation language model is a legal-text model in development, with no public tax system stated to use it."}}},
+"aistrategy": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The higher-education ministry reports that its minister chaired the sixth multisectoral meeting on tracking implementation of Algeria's national AI strategy.", "as_of": "2026-11-03", "date_precision": "day", "system": "Stratégie nationale de l'intelligence artificielle", "class": "strategy"},
+{"sub_indicator": "strategy", "aspect": "use", "value": "body", "fact": "The ministry reports that thematic commissions built around the strategy's main axes presented their progress at the sixth multisectoral meeting on implementing the strategy.", "as_of": "2026-11-03", "date_precision": "day", "system": "Stratégie nationale de l'intelligence artificielle", "class": "strategy"}
+], "systems": [{"system": "Stratégie nationale de l'intelligence artificielle", "country_label": "Algeria", "class": "strategy", "platform": "", "owner": "Ministry of Higher Education and Scientific Research", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "The ministry says a language model specialised in Algerian tax legislation is being developed, with 98% of the relevant legal and regulatory documents collected.", "as_of": "2026-11-03", "date_precision": "day", "system": "Language model for Algerian tax legislation", "class": "localai"}
+], "systems": [{"system": "Language model for Algerian tax legislation", "country_label": "Algeria", "class": "localai", "platform": "", "owner": "Ministry of Higher Education and Scientific Research", "tiers": ""}], "note": ""}}}
+}}

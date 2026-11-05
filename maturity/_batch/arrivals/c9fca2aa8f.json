@@ -1,0 +1,43 @@
+{
+ "slug": "2026-10-06-cod-electricite-presentation-d-une-plateforme-numerique-de-gestion-des-pla",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "The electricity regulator ARE presented on 5 October 2026 an online platform where consumer and operator complaints can be filed and tracked.",
+       "as_of": "2026-10-05",
+       "date_precision": "day",
+       "system": "ARE complaints platform (regulation.are-app.cloud)",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ARE complaints platform",
+       "country_label": "DR Congo",
+       "class": "feedback",
+       "platform": "web platform",
+       "owner": "Autorité de régulation du secteur de l'électricité (ARE)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on tax filing or payment."
+    }
+   }
+  }
+ }
+}

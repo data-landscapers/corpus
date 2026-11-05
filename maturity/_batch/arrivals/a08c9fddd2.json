@@ -1,0 +1,8 @@
+{"slug": "2025-01-25-tza-utekelezaji-wa-mradi-wa-kuunganisha-mkongo-wa-taifa-wa-mawasiliano-na", "studies": {
+"datacentres": {"countries": {
+"KEN": {"facts": [], "systems": [{"system": "iColo Data Center, Mombasa", "country_label": "Mombasa", "class": "datacentre", "platform": "", "owner": "", "tiers": ""}], "note": "Names the iColo data centre in Mombasa only as the end of a fibre link, not as renting to others or its tier."},
+"TZA": {"facts": [], "systems": [], "note": "No data centre in Tanzania is named."}}},
+"nationaldatacentres": {"countries": {
+"KEN": {"facts": [], "systems": [], "note": "Ownership of the iColo Mombasa data centre is not stated."},
+"TZA": {"facts": [], "systems": [], "note": "No data centre in Tanzania is named."}}}
+}}

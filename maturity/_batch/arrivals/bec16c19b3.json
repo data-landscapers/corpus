@@ -1,0 +1,20 @@
+{"slug":"2026-11-02-gha-nia-to-begin-enforcement-of-biometric-verification-regulations-on-nov-3-ghana-ne","studies":{
+"authentication":{"countries":{"GHA":{"facts":[
+{"sub_indicator":"authentication","aspect":"service","value":"inservice","fact":"The NIA runs a verification platform onto which institutions are onboarded to verify identity against the National Identity Register by approved biometric methods, with L.I. 2523 enforced from 2026-11-03 (NIA, via Ghana News Agency).","as_of":"2026-11-02","date_precision":"day","system":"NIA verification platform","class":"authentication"},
+{"sub_indicator":"authentication","aspect":"reach","value":"several","fact":"NIA says public and private institutions are already connected to its verification platform, and others are yet to be onboarded (Ghana News Agency).","as_of":"2026-11-02","date_precision":"day","system":"NIA verification platform","class":"authentication"}],
+"systems":[{"system":"NIA verification platform","country_label":"Ghana","class":"authentication","platform":"","owner":"National Identification Authority","tiers":""}],"note":""}}},
+"birthidlink":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Nothing on a civil register and ID link."}}},
+"dataprotectionauthority":{"countries":{"GHA":{"facts":[
+{"sub_indicator":"body","aspect":"standing","value":"constituted","fact":"The Data Protection Commission certifies institutions seeking access to the National Identity Register, per NIA's onboarding conditions (Ghana News Agency).","as_of":"2026-11-02","date_precision":"day","system":"Data Protection Commission","class":"authority"}],"systems":[],"note":"No ruling against a named organisation is stated."}}},
+"dataprotectionlaw":{"countries":{"GHA":{"facts":[
+{"sub_indicator":"general","aspect":"standing","value":"in-force","fact":"NIA says it will monitor institutions' compliance with the Data Protection Act, 2012 (Act 843), and remove those mishandling personal information from the platform (Ghana News Agency).","as_of":"2026-11-02","date_precision":"day","system":"Data Protection Act, 2012 (Act 843)","class":"general"},
+{"sub_indicator":"general","aspect":"authority","value":"constituted","fact":"The Data Protection Commission certifies institutions before they may access the National Identity Register (Ghana News Agency, quoting NIA).","as_of":"2026-11-02","date_precision":"day","system":"Data Protection Commission","class":"general"}],"systems":[],"note":""}}},
+"idcoverage":{"countries":{"GHA":{"facts":[],"systems":[],"note":"No enrolment count or share."}}},
+"idfrombirth":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Nothing on a number at birth."}}},
+"idmaintenance":{"countries":{"GHA":{"facts":[],"systems":[],"note":"Nothing on who operates, maintains or owns the system."}}},
+"idregisters":{"countries":{"GHA":{"facts":[],"systems":[],"note":"No public register keyed on the ID number is named."}}},
+"idrobustness":{"countries":{"GHA":{"facts":[
+{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The NIA's National Identity Register and Ghana Card are in use, with institutions accessing the register for identity verification (Ghana News Agency).","as_of":"2026-11-02","date_precision":"day","system":"National Identity Register","class":"idsystem"}],"systems":[],"note":"No enrolment biometric deduplication or certification is stated."}}},
+"idverification":{"countries":{"GHA":{"facts":[
+{"sub_indicator":"use","aspect":"use","value":"inservice","fact":"Institutions connected to the NIA's verification platform check people against the National Identity Register, and L.I. 2523 requires approved biometric verification rather than visual inspection of the Ghana Card, enforced from 2026-11-03 (NIA, via Ghana News Agency).","as_of":"2026-11-02","date_precision":"day","system":"NIA verification platform","class":"relying"}],"systems":[{"system":"NIA verification platform","country_label":"Ghana","class":"relying","platform":"","owner":"National Identification Authority","tiers":""}],"note":"No sectors or usage figures stated."}}}
+}}

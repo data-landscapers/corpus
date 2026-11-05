@@ -1,43 +1,7 @@
-{
- "slug": "2026-10-26-nga-how-to-check-your-name-on-inec-s-voters-register-online",
- "studies": {
-  "electoralregister": {
-   "countries": {
-    "NGA": {
-     "facts": [
-      {
-       "sub_indicator": "electoral",
-       "aspect": "checked",
-       "value": "open",
-       "fact": "INEC made the preliminary register for the 2027 election viewable online by polling unit at its display portal, with names and photographs, for voters to check.",
-       "as_of": "2026-10",
-       "date_precision": "month",
-       "system": "INEC online register portal",
-       "class": "electoral"
-      }
-     ],
-     "systems": [
-      {
-       "system": "INEC online register portal",
-       "country_label": "NGA",
-       "class": "electoral",
-       "platform": "web",
-       "owner": "INEC",
-       "tiers": ""
-      }
-     ],
-     "note": ""
-    }
-   }
-  },
-  "localgov": {
-   "countries": {
-    "NGA": {
-     "facts": [],
-     "systems": [],
-     "note": "Nothing on local government offices."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-10-26-nga-how-to-check-your-name-on-inec-s-voters-register-online", "studies": {
+"addressregister": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Voter register viewing portal only; no address register stated."}}},
+"civilregister": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Voter register viewing portal only; no civil registration stated."}}},
+"landregister": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Voter register viewing portal only; no land register stated."}}},
+"registry": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Voter register viewing portal only; no civil registration office entry stated."}}},
+"socialregistry": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Voter register viewing portal only; no social registry stated."}}}
+}}

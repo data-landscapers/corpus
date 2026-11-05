@@ -1,5 +1,50 @@
-{"slug": "2025-03-26-cpv-reforma-do-codigo-eleitoral-introduz-votacao-electronica-e-novas-regra", "studies": {
-"dataprotectionauthority": {"countries": {"CPV": {"facts": [], "systems": [], "note": "The data protection commission is named only as an overseer of proposed e-voting; no law or appointment stated."}}},
-"dataprotectionlaw": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No data protection law stated."}}},
-"electoralregister": {"countries": {"CPV": {"facts": [], "systems": [{"system": "Sistema de Informação Eleitoral (SIE)", "country_label": "Cabo Verde", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The electoral information system linked to the SNIAC ID is only in a proposed revision of the Electoral Code, not procured, piloted or in service."}}}
-}}
+{
+ "slug": "2025-03-26-cpv-reforma-do-codigo-eleitoral-introduz-votacao-electronica-e-novas-regra",
+ "studies": {
+  "businessregister": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Proposed electoral information system and e-voting; no study register stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Proposed electoral information system and e-voting; no study register stated."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Proposed electoral information system and e-voting; no study register stated."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Proposed electoral information system and e-voting; no study register stated."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Proposed electoral information system and e-voting; no study register stated."
+    }
+   }
+  }
+ }
+}

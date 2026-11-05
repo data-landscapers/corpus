@@ -1,12 +1,14 @@
-{"slug":"2024-11-15-mwi-nrb-deploys-staff-to-some-voter-registration-centres","studies":{
-"authentication":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Mentions verification of IDs at centres but not an electronic service."}}},
-"birthidlink":{"countries":{"MWI":{"facts":[],"systems":[],"note":"No civil register link stated."}}},
-"electoralregister":{"countries":{"MWI":{"facts":[{"sub_indicator":"electoral","aspect":"linked","value":"linked","fact":"Malawi's election law (section 12) requires the electoral commission to accept a national ID or an NRB proof-of-registration notification as the sole identification for voter registration, and NRB staff verify IDs at centres, per the Nation.","as_of":"2024-11-15","date_precision":"day","system":"voter registration","class":"electoral"}],"systems":[{"system":"NRB biometric registration kits","country_label":"Malawi","class":"other","platform":"","owner":"National Registration Bureau","tiers":""}],"note":""}}},
-"idcoverage":{"countries":{"MWI":{"facts":[],"systems":[],"note":"No coverage count or share given."}}},
-"idfrombirth":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Nothing on numbers at birth."}}},
-"idmaintenance":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Nothing on who operates or owns the system."}}},
-"idregisters":{"countries":{"MWI":{"facts":[],"systems":[],"note":"ID accepted as proof for voter registration; no register keyed on the number is stated."}}},
-"idrobustness":{"countries":{"MWI":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The National Registration Bureau captures biometric registration of people without IDs at voter centres and issues unique numbers approved in Lilongwe, per the Nation in November 2024.","as_of":"2024-11-15","date_precision":"day","system":"NRB national ID database","class":"idsystem"}],"systems":[],"note":""}}},
-"localgov":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Not about local government connection."}}},
-"registry":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Not about civil registration offices."}}}
-}}
+{
+ "slug": "2024-11-15-mwi-nrb-deploys-staff-to-some-voter-registration-centres",
+ "studies": {
+  "civilregister": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "National ID capture at voter centres; no births or deaths register stated."
+    }
+   }
+  }
+ }
+}

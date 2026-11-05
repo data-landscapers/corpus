@@ -1,7 +1,1 @@
-{"slug": "2025-05-27-mli-apanews-quatre-plateformes-numeriques", "studies": {
-"customs": {"countries": {"MLI": {"facts": [], "systems": [{"system": "SYGOCE", "country_label": "Mali", "class": "other", "platform": "", "owner": "Primature", "tiers": ""}], "note": "SYGOCE is described as a foreign trade operations system (import intentions, bank domiciliation), not as customs declaration processing."}}},
-"health": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No health system is mentioned."}}},
-"healthexchange": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No health system is mentioned."}}},
-"healthmis": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No health system is mentioned."}}},
-"itcapacity": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Says who presented the platforms, not who builds or runs them."}}}
-}}
+{"slug": "2025-05-27-mli-apanews-quatre-plateformes-numeriques", "studies": {"educationexchange": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Platforms named are trade, microfinance, metrology and land; nothing on education."}}}, "educationmis": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on an education information system."}}}}}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-17-mli-malijet-digitalisation-mobilite-enseignants",
+ "facts": [],
+ "systems": [
+  {
+   "system": "teacher mobility portal",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "web portal",
+   "owner": "Ministry of National Education (CPS-SE)",
+   "tiers": "national"
+  }
+ ],
+ "note": "A teacher HR portal mock-up was validated; no link between education systems is stated."
+}

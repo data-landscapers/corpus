@@ -1,0 +1,16 @@
+{"slug": "2026-08-21-cod-kinix-kinshasa-internet-exchange-expands-into-raxio-drc", "studies": {
+"datacentres": {"countries": {"COD": {"facts": [
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "service", "fact": "Tech Africa describes Raxio DRC as the carrier-neutral operator's Kinshasa facility, where KINIX has installed its exchange infrastructure.", "as_of": "2026-08-20", "date_precision": "day", "system": "Raxio DRC", "class": "datacentre"},
+{"sub_indicator": "datacentre", "aspect": "centre", "value": "tier3", "fact": "Tech Africa says Raxio DRC holds Tier III certification from the Uptime Institute.", "as_of": "2026-08-21", "date_precision": "day", "system": "Raxio DRC", "class": "datacentre"}
+], "systems": [{"system": "Raxio DRC", "country_label": "Kinshasa", "class": "datacentre", "platform": "", "owner": "Raxio Group", "tiers": "Tier III (Uptime Institute)"}, {"system": "OADC FIH1", "country_label": "Kinshasa", "class": "datacentre", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"exchangepoints": {"countries": {"COD": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "Tech Africa says KINIX, founded in 2012, carries 23 participating networks across 25 connections, including all four major mobile operators.", "as_of": "2026-08-21", "date_precision": "day", "system": "KINIX", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "content", "fact": "Tech Africa says Meta and Cloudflare both peer at KINIX.", "as_of": "2026-08-21", "date_precision": "day", "system": "KINIX", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "traffic", "fact": "KINIX says it currently exchanges more than 1 terabit per second and expects to pass 2 Tbps after the Raxio deployment.", "as_of": "2026-08-20", "date_precision": "day", "system": "KINIX", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "reach", "value": "wider", "fact": "Tech Africa says networks registered outside the DRC peer at KINIX, including GVA in Cote d'Ivoire, Paratus and AFR-IX Telecom, and that exchange points in Goma and Lubumbashi serve the east and south.", "as_of": "2026-08-21", "date_precision": "day", "system": "KINIX", "class": "exchange"}
+], "systems": [{"system": "KINIX", "country_label": "Kinshasa Internet Exchange", "class": "exchange", "platform": "", "owner": "ISPA-DRC", "tiers": ""}, {"system": "ACIX", "country_label": "distributed exchange across Kinshasa sites, launched May 2026", "class": "exchange", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"nationaldatacentres": {"countries": {"COD": {"facts": [], "systems": [], "note": "Ownership of Raxio DRC and OADC FIH1 by country is not stated."}}},
+"regionalinfrastructure": {"countries": {"COD": {"facts": [
+{"sub_indicator": "shared", "aspect": "service", "value": "in-use", "fact": "Tech Africa says networks registered outside the DRC, including GVA in Cote d'Ivoire, Paratus and AFR-IX Telecom, already peer at KINIX in Kinshasa.", "as_of": "2026-08-21", "date_precision": "day", "system": "KINIX", "class": "shared"}
+], "systems": [], "note": ""}}}
+}}

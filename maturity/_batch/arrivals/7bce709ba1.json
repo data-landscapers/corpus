@@ -1,0 +1,12 @@
+{"slug": "2024-01-18-egy-cabinet-unified-complaints-system-2023-harvest", "studies": {
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only complaints sent to the consumer protection agency are counted; no digital financial services rule or redress is stated."}}},
+"disabilityaccess": {"countries": {"EGY": {"facts": [], "systems": [], "note": "It mentions integrated service cards for people with disabilities, which is not digital accessibility."}}},
+"feedbackportals": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "feedback", "aspect": "channel", "value": "inservice", "fact": "Egypt's Cabinet said its unified government complaints system, through the shakwa.eg portal, the Fi Khedmetak app and WhatsApp numbers, received and handled 1.46 million complaints, requests and reports in 2023, 15% more than in 2022.", "as_of": "2023", "date_precision": "year", "system": "Unified Government Complaints System", "class": "feedback"},
+{"sub_indicator": "feedback", "aspect": "reach", "value": "wide", "fact": "Egypt's Cabinet said the unified complaints system directed 68% of 2023 complaints to ministries, 21% to governorates, 9% to authorities and 2% to universities, working with all government bodies.", "as_of": "2023", "date_precision": "year", "system": "Unified Government Complaints System", "class": "feedback"},
+{"sub_indicator": "feedback", "aspect": "results", "value": "published", "fact": "Egypt's Cabinet published a report on the system's 2023 cases and what was done, for example 72,000 of 78,000 building and land encroachment complaints settled with legal action.", "as_of": "2023", "date_precision": "year", "system": "Unified Government Complaints System", "class": "feedback"}
+], "systems": [{"system": "Unified Government Complaints System", "country_label": "Egypt", "class": "feedback", "platform": "shakwa.eg portal, Fi Khedmetak app, WhatsApp, hotline 16528", "owner": "Cabinet", "tiers": ""}], "note": ""}}},
+"localgov": {"countries": {"EGY": {"facts": [], "systems": [], "note": "It states nothing on local government office connections."}}},
+"police": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The Interior Ministry handled complaints routed through the system; no station record system is stated."}}},
+"socialprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "It mentions Takaful and Karama cards issued after complaints; no programme information system is described."}}}
+}}

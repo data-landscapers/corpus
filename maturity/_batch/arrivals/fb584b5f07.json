@@ -1,0 +1,241 @@
+{
+ "slug": "2026-11-02-dza-transformation-numerique-en-algerie-des-infrastructures-aux-usages-len",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "CARE says four large language models have been announced in Algeria, two presented as completed, with no compute, GPU count or budget established.",
+       "as_of": "2026-10-30",
+       "date_precision": "day",
+       "system": "national large language models",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a Tier III Design certificate for the second Blida centre, which the document says is not in operation."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "framework",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The President ordered on 20 September 2026 a decree on secure digital interoperability to be drawn up, per CARE.",
+       "as_of": "2026-09-20",
+       "date_precision": "day",
+       "system": "decree on secure digital interoperability",
+       "class": "framework"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "The President ordered on 20 September 2026 a decree on secure digital interoperability to be drawn up, per CARE.",
+       "as_of": "2026-09-20",
+       "date_precision": "day",
+       "system": "decree on secure digital interoperability",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a Tier III Design certificate for the second Blida centre, which the document says is not in operation."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Algeria."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "research",
+       "aspect": "research",
+       "value": "publishing",
+       "fact": "CARE, an Algerian business think tank, published Algeria Digital Brief no. 2 on digital transformation for August-October 2026, signed by vice-president Ali Kahlane.",
+       "as_of": "2026-11-02",
+       "date_precision": "day",
+       "system": "CARE Algeria Digital Brief",
+       "class": "research"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "GIE Monetique data relayed by CARE show DZ Mob Pay interbank mobile payment with 131,705 personal accounts and 18,730 merchant accounts at end August 2026.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "DZ Mob Pay",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "CARE describes DZ Mob Pay as an interbank mobile payment service with 4,938 QR code payments in August 2026.",
+       "as_of": "2026-08",
+       "date_precision": "month",
+       "system": "DZ Mob Pay",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DZ Mob Pay",
+       "country_label": "Algeria",
+       "class": "retail",
+       "platform": "interbank mobile payment",
+       "owner": "GIE Monetique",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Algeria."
+    }
+   }
+  }
+ }
+}

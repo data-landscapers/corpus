@@ -1,12 +1,12 @@
 {
  "slug": "2026-11-02-gin-connectivit-en-afrique-la-24e-runion-du-fratel-explore-les-grands-dfis",
  "studies": {
-  "fibrebackbone": {
+  "internationalbandwidth": {
    "countries": {
     "GIN": {
      "facts": [],
      "systems": [],
-     "note": "Gives 4,350 km of fibre and a 10,000 km target but does not say it links the capital to other regions."
+     "note": "Domestic fibre figures only; no international route stated."
     }
    }
   }

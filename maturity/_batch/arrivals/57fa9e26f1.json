@@ -1,0 +1,392 @@
+{
+ "slug": "2026-11-03-xaf-undp-african-ai-companies-g7-industry-partnership-to-deployment-rome",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI rules or authority."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI rules or authority."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI rules or authority."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI rules or authority."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI rules or authority."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI rules or authority."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on AI rules or authority."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "No government body AI use stated."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No government body AI use stated."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No government body AI use stated."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No government body AI use stated."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No government body AI use stated."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No government body AI use stated."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No government body AI use stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "No public sector AI system stated."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No public sector AI system stated."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No public sector AI system stated."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No public sector AI system stated."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No public sector AI system stated."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No public sector AI system stated."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No public sector AI system stated."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre stated."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre stated."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre stated."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre stated."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre stated."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre stated."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre stated."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre stated."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre stated."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre stated."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre stated."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre stated."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre stated."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No data centre stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, label or public fund stated."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, label or public fund stated."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, label or public fund stated."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, label or public fund stated."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, label or public fund stated."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, label or public fund stated."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No startup law, label or public fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub or park stated."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub or park stated."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub or park stated."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub or park stated."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub or park stated."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub or park stated."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub or park stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "UNDP says local agritech start-ups in this country will build their own solutions on the shared DeepLeaf-based food-security AI model launched 3 November 2026.",
+       "as_of": "2026-11-03",
+       "date_precision": "day",
+       "system": "DeepLeaf food-security AI foundation model",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "UNDP says local agritech start-ups in this country will build their own solutions on the shared DeepLeaf-based food-security AI model launched 3 November 2026.",
+       "as_of": "2026-11-03",
+       "date_precision": "day",
+       "system": "DeepLeaf food-security AI foundation model",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "inservice",
+       "fact": "UNDP and the AI Hub launched on 3 November 2026 a shared food-security AI foundation model built on the African-developed model of Moroccan agritech DeepLeaf, already validated in Morocco.",
+       "as_of": "2026-11-03",
+       "date_precision": "day",
+       "system": "DeepLeaf food-security AI foundation model",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DeepLeaf food-security AI foundation model",
+       "country_label": "DeepLeaf",
+       "class": "localai",
+       "platform": "AI foundation model",
+       "owner": "DeepLeaf (Moroccan agritech company)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "UNDP says local agritech start-ups in this country will build their own solutions on the shared DeepLeaf-based food-security AI model launched 3 November 2026.",
+       "as_of": "2026-11-03",
+       "date_precision": "day",
+       "system": "DeepLeaf food-security AI foundation model",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Senegal not named among the model's countries."
+    },
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "UNDP says local agritech start-ups in this country will build their own solutions on the shared DeepLeaf-based food-security AI model launched 3 November 2026.",
+       "as_of": "2026-11-03",
+       "date_precision": "day",
+       "system": "DeepLeaf food-security AI foundation model",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "UNDP says local agritech start-ups in this country will build their own solutions on the shared DeepLeaf-based food-security AI model launched 3 November 2026.",
+       "as_of": "2026-11-03",
+       "date_precision": "day",
+       "system": "DeepLeaf food-security AI foundation model",
+       "class": "localai"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

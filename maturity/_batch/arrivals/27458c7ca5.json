@@ -1,14 +1,1 @@
-{
- "slug": "2026-10-31-ken-public-notice-validation-of-the-draft-kenya-information-and-communicat",
- "studies": {
-  "mobileaffordability": {
-   "countries": {
-    "KEN": {
-     "facts": [],
-     "systems": [],
-     "note": "Bill consultation notice; no mobile data price stated."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-10-31-ken-public-notice-validation-of-the-draft-kenya-information-and-communicat", "studies": {"paymentslaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Notice concerns a draft information and communications bill; no payments law or e-money rules stated."}}}}}

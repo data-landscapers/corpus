@@ -1,0 +1,6 @@
+{"slug": "2026-11-04-civ-l-anp-et-l-anssi-s-accordent-sur-une-feuille-de-route-contre-la-d-sinf", "studies": {
+"cybersecurity": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "Agence Ivoirienne de Presse reports that Côte d'Ivoire's national information systems security agency ANSSI was created by decree no. 2024-958 of 30 October 2024 to coordinate cybersecurity actions and manage cyber incidents and crises.", "as_of": "2024-10-30", "date_precision": "day", "system": "ANSSI", "class": "response"}
+], "systems": [{"system": "ANSSI", "country_label": "ANSSI (Agence nationale de la sécurité des systèmes d'information)", "class": "response", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"opendiscussion": {"countries": {"CIV": {"facts": [], "systems": [], "note": "It covers a press regulator and cyber agency agreeing a roadmap; no criticism, cut or punishment is stated."}}}
+}}

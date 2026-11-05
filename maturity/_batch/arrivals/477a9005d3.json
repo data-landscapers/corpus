@@ -1,14 +1,1 @@
-{
- "slug": "2026-11-01-bruno-kone-digitalisation-agriculture",
- "studies": {
-  "techhubs": {
-   "countries": {
-    "CIV": {
-     "facts": [],
-     "systems": [],
-     "note": "Digital Farmer School opening; no hub or incubator programme for startups stated."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-11-01-bruno-kone-digitalisation-agriculture", "studies": {"schoolinternet": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Agricultural digital school at a polytechnic; no secondary school internet figure or compulsory curriculum stated."}}}, "stemgraduates": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Minister speaks of a shortage of dual-skilled technicians; no STEM graduate share or research network stated."}}}}}

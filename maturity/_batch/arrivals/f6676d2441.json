@@ -1,0 +1,53 @@
+{
+ "slug": "2026-09-15-gab-gabon-fiber-linkedin-signature-ppp-backbone",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "backbone",
+       "aspect": "reach",
+       "value": "building",
+       "fact": "Gabon Fiber SA says it signed on 14 September 2026 a 20-year public-private partnership with SPIN to operate and extend the national backbone, with extensions it will finance and build.",
+       "as_of": "2026-09-14",
+       "date_precision": "day",
+       "system": "Backbone National Gabonais",
+       "class": "backbone"
+      },
+      {
+       "sub_indicator": "backbone",
+       "aspect": "access",
+       "value": "open",
+       "fact": "Gabon Fiber says it will run the national backbone strictly wholesale, serving all operators with no retail competition.",
+       "as_of": "2026-09-14",
+       "date_precision": "day",
+       "system": "Backbone National Gabonais",
+       "class": "backbone"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Backbone National Gabonais",
+       "country_label": "Gabon",
+       "class": "backbone",
+       "platform": "fibre",
+       "owner": "SPIN (operated by Gabon Fiber SA)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "Partnership said wholly privately financed but no amount named."
+    }
+   }
+  }
+ }
+}

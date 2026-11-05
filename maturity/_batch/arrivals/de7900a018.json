@@ -1,0 +1,104 @@
+{
+ "slug": "2026-11-03-nam-regulating-ai-without-restricting-innovation",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "No rule or authority on AI harms stated; only an announced internal policy."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Internal AI policy for public servants only directed by Cabinet, not issued; no AI system in use stated."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Internal policy for public servants is guidance, not a binding rule or draft text."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI tool stated."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an internal public-service AI policy directed; no national AI strategy stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Artificial Intelligence Institute",
+       "country_label": "Namibia",
+       "class": "other",
+       "platform": "",
+       "owner": "Government of Namibia",
+       "tiers": ""
+      }
+     ],
+     "note": "National AI Institute launch named, but no model, dataset or compute stated."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil service digital-skills training stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "No data protection law stated."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "No public digital-skills programme or measured share stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "No school internet figure or compulsory curriculum stated."
+    }
+   }
+  }
+ }
+}

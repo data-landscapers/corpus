@@ -1,0 +1,39 @@
+{
+ "slug": "2025-01-24-tza-wmth-kituo-cha-mkongo-horohoro-kuchochea-uchumi",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document gives only a Tanzania-Kenya cross-border link; nothing on a Kenyan national backbone."
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "backbone",
+       "aspect": "reach",
+       "value": "every-region",
+       "fact": "TTCL's director general said that by December 2024 13,991 km of the National ICT Broadband Backbone had been built, linking all regions of mainland Tanzania and 109 districts.",
+       "as_of": "2024-12",
+       "date_precision": "month",
+       "system": "National ICT Broadband Backbone (NICTBB)",
+       "class": "backbone"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ICT Broadband Backbone (NICTBB)",
+       "country_label": "Tanzania",
+       "class": "backbone",
+       "platform": "fibre",
+       "owner": "TTCL",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

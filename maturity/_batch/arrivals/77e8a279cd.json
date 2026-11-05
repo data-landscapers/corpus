@@ -1,0 +1,52 @@
+{
+ "slug": "2026-04-01-zwe-zim-tests-grievance-system-model-abroad",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "The Ministry of Public Service is presenting progress on a proposed Grievance Redress Feedback Mechanism in Stockholm, Zim Now reports.",
+       "as_of": "2026-04",
+       "date_precision": "month",
+       "system": "Grievance Redress Feedback Mechanism",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Grievance Redress Feedback Mechanism",
+       "country_label": "Zimbabwe",
+       "class": "feedback",
+       "platform": "",
+       "owner": "Ministry of Public Service, Labour and Social Welfare",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "No government payment stated."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "No programme management information system stated."
+    }
+   }
+  }
+ }
+}

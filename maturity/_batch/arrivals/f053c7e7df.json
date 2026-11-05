@@ -1,0 +1,50 @@
+{
+ "slug": "2026-08-19-zwe-bulawayo-launches-citizen-engagement-scorecard-to-improve-service-deli",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "No rule or authority on AI harms is stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "AI is only said to be incorporated in future; no system is piloted or in service."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "No sectoral AI tool is named."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI model, dataset or computing is named."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "The scorecard is a resident feedback platform; no local government office connection is stated."
+    }
+   }
+  }
+ }
+}

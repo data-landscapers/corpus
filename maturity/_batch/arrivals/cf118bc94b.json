@@ -1,0 +1,54 @@
+{
+ "slug": "2024-04-24-dza-mediature-de-la-republique-plus-de-40-000-doleances-traitees-par-l-ins",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "inservice",
+       "fact": "The Médiateur de la République's electronic grievance-register portal had received 52,262 grievances nationwide since October 2023, according to its digitisation director.",
+       "as_of": "2024-04-22",
+       "date_precision": "day",
+       "system": "portail électronique des registres de doléances",
+       "class": "feedback"
+      },
+      {
+       "sub_indicator": "feedback",
+       "aspect": "reach",
+       "value": "wide",
+       "fact": "The portal serves all administrations and public establishments, with 43,870 accounts created for 21,953 public administrations, the director said.",
+       "as_of": "2024-04-22",
+       "date_precision": "day",
+       "system": "portail électronique des registres de doléances",
+       "class": "feedback"
+      },
+      {
+       "sub_indicator": "feedback",
+       "aspect": "results",
+       "value": "published",
+       "fact": "The mediator's office said 40,145 of 52,262 grievances were handled and closed, 76.81 per cent, between October 2023 and 22 April 2024.",
+       "as_of": "2024-04-22",
+       "date_precision": "day",
+       "system": "portail électronique des registres de doléances",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "portail électronique des registres de doléances",
+       "country_label": "Algeria",
+       "class": "feedback",
+       "platform": "web portal",
+       "owner": "Médiateur de la République",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

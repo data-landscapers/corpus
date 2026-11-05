@@ -1,0 +1,62 @@
+{
+ "slug": "2025-09-30-zaf-question-to-the-minister-in-the-presidency-planning-monitoring-and-eva",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "inservice",
+       "fact": "The Minister's reply says the Presidential Hotline received 1,832 complaints in the first quarter of 2025/26.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "Presidential Hotline",
+       "class": "feedback"
+      },
+      {
+       "sub_indicator": "feedback",
+       "aspect": "reach",
+       "value": "wide",
+       "fact": "The reply says national and provincial departments are expected to resolve complaints assigned to them by the Presidential Hotline within 25 working days.",
+       "as_of": "2025-09-30",
+       "date_precision": "day",
+       "system": "Presidential Hotline",
+       "class": "feedback"
+      },
+      {
+       "sub_indicator": "feedback",
+       "aspect": "results",
+       "value": "published",
+       "fact": "The reply says 991 of 1,832 complaints were resolved in the first quarter of 2025/26, a 55 per cent resolution rate.",
+       "as_of": "2025-06",
+       "date_precision": "month",
+       "system": "Presidential Hotline",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Presidential Hotline",
+       "country_label": "South Africa",
+       "class": "feedback",
+       "platform": "hotline",
+       "owner": "DPME / Presidency",
+       "tiers": ""
+      },
+      {
+       "system": "WhatsApp channel for the Presidential Hotline",
+       "country_label": "South Africa",
+       "class": "other",
+       "platform": "messaging",
+       "owner": "DPME / Presidency",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

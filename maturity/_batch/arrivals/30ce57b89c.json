@@ -1,0 +1,23 @@
+{
+ "slug": "2026-10-11-mdg-2424-e-pasipaoro-online-passport-test",
+ "studies": {
+  "itcapacity": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e-Pasipaoro",
+       "country_label": "Madagascar",
+       "class": "other",
+       "platform": "web portal",
+       "owner": "Ministry of Digital Development",
+       "tiers": ""
+      }
+     ],
+     "note": "Passport portal in testing; no word on who builds or runs it."
+    }
+   }
+  }
+ }
+}

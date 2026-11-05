@@ -1,0 +1,11 @@
+{"slug":"2025-09-25-civ-cote-d-ivoire-aip-l-observatoire-du-service-public-mis-en-place-pour-r","studies":{
+"authentication":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Article is about a public-service complaints observatory; no authentication service."}}},
+"birthidlink":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No civil register to ID link stated."}}},
+"civilregister":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No digital civil registration stated."}}},
+"idcoverage":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No enrolment count or share stated."}}},
+"idfrombirth":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No number at birth stated."}}},
+"idmaintenance":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Only ONECI office expansion and a 10-day card delivery; no statement of who operates or owns the system."}}},
+"idregisters":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No register keyed on the ID number stated."}}},
+"idrobustness":{"countries":{"CIV":{"facts":[],"systems":[],"note":"Only card delivery time and ONECI regional offices; no system facts stated."}}},
+"registry":{"countries":{"CIV":{"facts":[],"systems":[],"note":"No local civil registration office system stated."}}}
+}}

@@ -1,0 +1,117 @@
+{
+ "slug": "2026-11-04-le-mali-lance-une-plateforme-web-pour-signaler-les-incidents-de-cybersecurite",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "strategy",
+       "fact": "Mali's authorities adopted by decree the National Cybersecurity Strategy and its 2026-2030 action plan in February 2026, per wearetech.africa.",
+       "as_of": "2026-02",
+       "date_precision": "month",
+       "system": "Stratégie nationale de cybersécurité 2026-2030",
+       "class": "response"
+      },
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "Mali's Council of Ministers adopted on 10 June 2026 the texts creating, organising and running the national information systems security agency ANSSI, to coordinate response to cyberattacks, per wearetech.africa.",
+       "as_of": "2026-06-10",
+       "date_precision": "day",
+       "system": "ANSSI",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ML-CERT",
+       "country_label": "Centre national de réponse aux incidents informatiques (ML-CERT)",
+       "class": "response",
+       "platform": "web platform for cyber-threat information and incident reporting",
+       "owner": "AMRTP",
+       "tiers": ""
+      },
+      {
+       "system": "ANSSI",
+       "country_label": "Agence nationale de la sécurité des systèmes d'information (ANSSI)",
+       "class": "response",
+       "platform": "",
+       "owner": "Government of Mali",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "use",
+       "value": "unnamed",
+       "fact": "Mali's national cybercrime unit recorded 1,338 cases in 2025, 1,130 complaints and 208 self-initiated, without naming a law.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Pôle national de lutte contre la cybercriminalité",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,13 @@
+{"slug": "2026-11-03-ken-kenya-s-cybersecurity-agency-gets-a-board-the-law-has-yet-to-catch-up", "studies": {
+"cybersecurity": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "CIO Africa reports Kenya's National Cybersecurity Agency was established by the National Cybersecurity Agency Order, 2026 (Legal Notice No. 89), made by President Ruto under the State Corporations Act, and has existed since July.", "as_of": "2026-07", "date_precision": "month", "system": "National Cybersecurity Agency", "class": "response"},
+{"sub_indicator": "readiness", "aspect": "response", "value": "responded", "fact": "CIO Africa reports the National KE-CIRT/CC, Kenya's incident response team, issued 20.7 million advisories between April and June 2026.", "as_of": "2026-06", "date_precision": "month", "system": "National KE-CIRT/CC", "class": "response"},
+{"sub_indicator": "readiness", "aspect": "figures", "value": "recorded", "fact": "CIO Africa reports the National KE-CIRT/CC detected just under 2.36 billion cyber threat events between April and June 2026.", "as_of": "2026-06", "date_precision": "month", "system": "National KE-CIRT/CC", "class": "response"}
+], "systems": [{"system": "National Cybersecurity Agency", "country_label": "National Cybersecurity Agency", "class": "response", "platform": "National Cybersecurity Operations Centre", "owner": "Ministry of Interior and National Administration", "tiers": ""}, {"system": "National KE-CIRT/CC", "country_label": "National KE-CIRT/CC", "class": "response", "platform": "", "owner": "Communications Authority of Kenya", "tiers": ""}], "note": ""}}},
+"cybersecuritylaw": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "CIO Africa reports the Computer Misuse and Cybercrimes Act, 2018 established the National Computer and Cybercrimes Coordination Committee (NC4), and that an amendment to it has not yet been passed.", "as_of": "2018", "date_precision": "year", "system": "Computer Misuse and Cybercrimes Act, 2018", "class": "law"}
+], "systems": [], "note": ""}}},
+"dataprotectionauthority": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The Data Protection Commissioner's office is only listed among sector regulators; nothing on its appointment or rulings is stated."}}},
+"dataprotectionlaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No data protection law, regulation or decision is stated."}}},
+"police": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The National Police Service appears only as a board member; no station record system is stated."}}}
+}}

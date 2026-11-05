@@ -1,0 +1,13 @@
+{"slug":"2025-08-20-ner-inauguration-officielle-du-point-d-echange-internet-ixp-permettre-a-to","studies":{
+"businesspayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on central bank role."}}},
+"consumerprotection":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
+"crossborderpayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"egovservices":{"countries":{"NER":{"facts":[],"systems":[],"note":"No government online service stated."}}},
+"exchangepoints":{"countries":{"NER":{"facts":[{"sub_indicator":"exchange","aspect":"exchange","value":"service","fact":"Le Sahel reports the Minister of Communication inaugurated Niger's internet exchange point on 19 August 2025, where internet providers interconnect and exchange traffic, built under the PVI programme by a Nigerien firm.","as_of":"2025-08-19","date_precision":"day","system":"Niger IXP","class":"exchange"}],"systems":[],"note":""}}},
+"g2ppayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"mobileaffordability":{"countries":{"NER":{"facts":[],"systems":[],"note":"No mobile data price or affordability figure; only a statement that costs should fall."}}},
+"paymentsuptake":{"countries":{"NER":{"facts":[],"systems":[],"note":"No survey share given."}}},
+"retailpayments":{"countries":{"NER":{"facts":[],"systems":[],"note":"Mobile money named only as a PVI objective."}}},
+"revenuecollection":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on revenue payment."}}}
+}}

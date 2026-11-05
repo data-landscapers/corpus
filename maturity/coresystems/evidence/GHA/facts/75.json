@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-03-gha-refonte-ghana-gov-cbrain-omni-strategies-contract",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Ghana.gov",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "eGovernment Digital Services platform",
+   "owner": "Ministry of Communication, Digital Technology and Innovations",
+   "tiers": ""
+  }
+ ],
+ "note": "It covers a portal redesign contract; no finance, tax or payroll system is described."
+}

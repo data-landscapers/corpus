@@ -1,116 +1,57 @@
 {
  "slug": "2026-09-25-lso-iec-orders-three-tier-audit-of-voters-roll",
  "studies": {
-  "authentication": {
+  "addressregister": {
    "countries": {
     "LSO": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing this study asks."
+     "note": "Document covers the electoral voters roll audit; it states nothing on this register for Lesotho."
     }
    }
   },
-  "birthidlink": {
+  "businessregister": {
    "countries": {
     "LSO": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing this study asks."
+     "note": "Document covers the electoral voters roll audit; it states nothing on this register for Lesotho."
     }
    }
   },
-  "electoralregister": {
-   "countries": {
-    "LSO": {
-     "facts": [
-      {
-       "sub_indicator": "electoral",
-       "aspect": "roll",
-       "value": "inservice",
-       "fact": "Lesotho's IEC has hired a private auditor to examine the voters' roll, the servers holding voters' data and the registration systems, the commission said.",
-       "as_of": "2026-09",
-       "date_precision": "month",
-       "system": "IEC voters' roll and registration systems",
-       "class": "electoral"
-      },
-      {
-       "sub_indicator": "electoral",
-       "aspect": "linked",
-       "value": "linked",
-       "fact": "The Lesotho Times reports recently adopted electoral law amendments make the National Identity Document the basis for voter registration.",
-       "as_of": "2026-09",
-       "date_precision": "month",
-       "system": "IEC voter registration",
-       "class": "electoral"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    }
-   }
-  },
-  "idcoverage": {
+  "civilregister": {
    "countries": {
     "LSO": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing this study asks."
+     "note": "Document covers the electoral voters roll audit; it states nothing on this register for Lesotho."
     }
    }
   },
-  "idfrombirth": {
+  "landregister": {
    "countries": {
     "LSO": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing this study asks."
+     "note": "Document covers the electoral voters roll audit; it states nothing on this register for Lesotho."
     }
    }
   },
-  "idmaintenance": {
+  "registry": {
    "countries": {
     "LSO": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing this study asks."
+     "note": "Document covers the electoral voters roll audit; it states nothing on this register for Lesotho."
     }
    }
   },
-  "idregisters": {
-   "countries": {
-    "LSO": {
-     "facts": [
-      {
-       "sub_indicator": "registers",
-       "aspect": "register",
-       "value": "underway",
-       "fact": "The Lesotho Times reports adopted electoral law amendments make the National Identity Document the basis for voter registration, with the roadmap scheduling registration and verification to intensify from October 2026.",
-       "as_of": "2026-09",
-       "date_precision": "month",
-       "system": "IEC voter registration",
-       "class": "register"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    }
-   }
-  },
-  "idrobustness": {
+  "socialregistry": {
    "countries": {
     "LSO": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing this study asks."
-    }
-   }
-  },
-  "localgov": {
-   "countries": {
-    "LSO": {
-     "facts": [],
-     "systems": [],
-     "note": "Document states nothing this study asks."
+     "note": "Document covers the electoral voters roll audit; it states nothing on this register for Lesotho."
     }
    }
   }

@@ -1,0 +1,43 @@
+{
+ "slug": "2025-01-10-cmr-opic-to-launch-digital-platform-to-manage-complaints",
+ "studies": {
+  "feedbackportals": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "The Office of the Public Independent Conciliator (OPIC) for the North-West and South-West is about to launch an online SharePoint platform for complaints and trained staff on it on 12-13 December 2024.",
+       "as_of": "2024-12",
+       "date_precision": "month",
+       "system": "OPIC complaint platform",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "OPIC complaint platform",
+       "country_label": "Cameroon",
+       "class": "feedback",
+       "platform": "SharePoint",
+       "owner": "Office of the Public Independent Conciliator (OPIC)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Complaint platform of the conciliator's office; no council office connection stated."
+    }
+   }
+  }
+ }
+}

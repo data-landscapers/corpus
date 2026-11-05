@@ -1,0 +1,52 @@
+{
+ "slug": "2025-10-24-nga-public-complaints-commission-to-launch-online-portal-for-case-reportin",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No civil servant digital skills training stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Complaints portal is for public administration, not digital financial services."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "feedback",
+       "aspect": "channel",
+       "value": "underway",
+       "fact": "Nigeria's Public Complaints Commission chief commissioner said on 24 October 2025 it is set to introduce an online portal for citizens to lodge complaints and track cases, with no launch date given.",
+       "as_of": "2025-10-24",
+       "date_precision": "day",
+       "system": "Public Complaints Commission online portal",
+       "class": "feedback"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Public Complaints Commission online portal",
+       "country_label": "Nigeria",
+       "class": "feedback",
+       "platform": "",
+       "owner": "Public Complaints Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

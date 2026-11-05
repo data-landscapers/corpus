@@ -1,0 +1,23 @@
+{
+ "slug": "2024-08-30-cog-le-secteur-du-numerique-au-congo-brazzaville",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIGFIP",
+   "country_label": "SIGFIP",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance",
+   "tiers": ""
+  },
+  {
+   "system": "E-TAX",
+   "country_label": "E-TAX",
+   "class": "core",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "Systems named but not stated to be in use across government."
+}

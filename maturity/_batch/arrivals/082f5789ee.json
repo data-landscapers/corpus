@@ -1,0 +1,59 @@
+{
+ "slug": "2026-11-04-egy-mts-seeks-chinese-technology-investments-ai-platform-ucloud",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI rule or authority stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "No government body AI use stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "No public sector AI tool stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "AI platform is a company aggregator of providers under development, with no model, dataset or computing named."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a proposed manufacturing plant and a planned data centre with no investor or site; none in service."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Only proposed or planned facilities; none in service."
+    }
+   }
+  }
+ }
+}

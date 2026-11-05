@@ -1,0 +1,5 @@
+{"slug":"2026-11-02-mwi-ppda-warns-public-institutions-over-maneps-compliance","studies":{
+"businesspayments":{"countries":{"MWI":{"facts":[{"sub_indicator":"business","aspect":"system","value":"inservice","fact":"Malawi's PPDA director general says MANePS, the national electronic procurement system, replaces manual procurement processes and will be mandatory for public institutions from 1 January 2027, with entities training and transitioning until 31 December 2026.","as_of":"2026-10-30","date_precision":"day","system":"MANePS","class":"procurement"}],"systems":[{"system":"MANePS","country_label":"Malawi","class":"procurement","platform":"","owner":"PPDA","tiers":""}],"note":""}}},
+"civilserviceskills":{"countries":{"MWI":{"facts":[],"systems":[],"note":"The training described is on using MANePS, not a digital-skills programme for civil servants."}}},
+"digitalskills":{"countries":{"MWI":{"facts":[],"systems":[],"note":"Nothing stated for this study."}}}
+}}

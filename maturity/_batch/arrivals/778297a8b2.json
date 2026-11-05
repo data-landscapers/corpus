@@ -1,5 +1,23 @@
-{"slug": "2026-10-20-bdi-wb-op00476457-pafen-portail-e-gouv-rfp", "studies": {
-"businessregister": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Notice is about the e-Gov portal; nothing on a business register."}}},
-"egovservices": {"countries": {"BDI": {"facts": [], "systems": [{"system": "Portail e-Gouv", "country_label": "Burundi", "class": "eservices", "platform": "", "owner": "PAFEN / SETIC, Ministry of Finance, Budget and the Digital Economy", "tiers": ""}], "note": "Request for proposals to build the portal issued 2026-10-20 with bids due 2026-12-04; no portal launched or piloted."}}},
-"interoperability": {"countries": {"BDI": {"facts": [{"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "The PAFEN request for proposals requires the e-Gov portal to interoperate with government platforms and registers in line with Burundi's 'Cadre national d'interopérabilité'.", "as_of": "2026-10-20", "date_precision": "day", "system": "Cadre national d'interopérabilité", "class": "framework"}], "systems": [{"system": "Cadre national d'interopérabilité", "country_label": "Burundi", "class": "framework", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}
-}}
+{
+ "slug": "2026-10-20-bdi-wb-op00476457-pafen-portail-e-gouv-rfp",
+ "studies": {
+  "itcapacity": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Portail e-Gouv",
+       "country_label": "Burundi",
+       "class": "other",
+       "platform": "web portal",
+       "owner": "Ministry of Finance, Budget and Digital Economy (SETIC)",
+       "tiers": ""
+      }
+     ],
+     "note": "A tender for a contractor to build the portal beside ministry staff; no statement that systems are run by suppliers."
+    }
+   }
+  }
+ }
+}

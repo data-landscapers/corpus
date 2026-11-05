@@ -1,16 +1,1 @@
-{"slug": "2026-10-24-mdg-liste-electorale-biometrique-la-ceni-et-ses-partenaires-preparent-le-t", "studies": {
-"addressregister": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on addressing."}}},
-"businessregister": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on business registration."}}},
-"civilregister": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on civil registration."}}},
-"electoralregister": {"countries": {"MDG": {"facts": [
-{"sub_indicator": "electoral", "aspect": "roll", "value": "underway", "fact": "Newsmada reports that a UNDP tender this year covers servers and computers for CENI's management of biometric data, and that CENI received USD 750,000 of Japan-UNDP IT equipment on 23 October 2026 in preparation for a biometric voter list; the current overhaul still runs on an alphanumeric system, with over 7.16 million registered against a 14 million target.", "as_of": "2026-10-23", "date_precision": "day", "system": "Fichier electoral (CENI) / liste electorale biometrique", "class": "electoral"}
-], "systems": [{"system": "Fichier electoral (CENI)", "country_label": "Madagascar", "class": "electoral", "platform": "alphanumeric", "owner": "CENI", "tiers": ""}], "note": ""}}},
-"eparticipation": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Civic education radio support only; no online consultation stated."}}},
-"idrobustness": {"countries": {"MDG": {"facts": [], "systems": [], "note": "A future national biometric register is mentioned only as possible; no ID system stated."}}},
-"landregister": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on land."}}},
-"populationregister": {"countries": {"MDG": {"facts": [], "systems": [], "note": "A future national biometric register is mentioned only as a possible base for the voter file; not stated as being built."}}},
-"publicconsultation": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No named digital law or policy consulted on."}}},
-"schoolinternet": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on schools."}}},
-"socialregistry": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on social registries."}}},
-"taxregister": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on tax."}}}
-}}
+{"slug": "2026-10-24-mdg-liste-electorale-biometrique-la-ceni-et-ses-partenaires-preparent-le-t", "studies": {"registry": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Electoral roll and election-commission equipment; nothing on civil registration offices."}}}}}

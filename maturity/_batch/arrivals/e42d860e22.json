@@ -1,0 +1,16 @@
+{"slug":"2026-11-04-nga-africas-fragmented-data-laws-threaten-cross-border-digital-trade-as-regulators-p","studies":{
+"businesspayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on central bank role."}}},
+"consumerprotection":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on financial consumer rules."}}},
+"crossborderpayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Only the general point that data law differences affect cross-border transactions; no corridor."}}},
+"dataprotectionauthority":{"countries":{"NGA":{"facts":[{"sub_indicator":"body","aspect":"standing","value":"constituted","fact":"BusinessDay reports Vincent Olatunji, national commissioner of the Nigeria Data Protection Commission, speaking at the Lagos summit on how the commission handles an increasing number of data protection cases.","as_of":"2026-11-04","date_precision":"day","system":"Nigeria Data Protection Commission (NDPC)","class":"authority"}],"systems":[],"note":""}}},
+"dataprotectionlaw":{"countries":{"NGA":{"facts":[{"sub_indicator":"general","aspect":"standing","value":"in-force","fact":"BusinessDay says Nigeria enacted the Data Protection Act in 2023, a legal framework for how organisations collect, process and manage personal information.","as_of":"2023","date_precision":"year","system":"Data Protection Act 2023","class":"general"},{"sub_indicator":"general","aspect":"authority","value":"constituted","fact":"BusinessDay quotes the national commissioner of the Nigeria Data Protection Commission, which it says faces a rising number of data protection cases.","as_of":"2026-11-04","date_precision":"day","system":"Nigeria Data Protection Commission (NDPC)","class":"general"}],"systems":[],"note":""}}},
+"egovservices":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Only a general remark that government services are moving online."}}},
+"g2ppayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"paymentsuptake":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No survey share given."}}},
+"policyresearch":{"countries":{"NGA":{"facts":[],"systems":[],"note":"The research hub named is not stated to be Nigeria-based; its centre is a plan."}}},
+"regionallaw":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No signature, ratification or transposition of an African text stated."}}},
+"regionalpolicy":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Summit run by a rights organisation; no agreement or hosted body meeting stated."}}},
+"retailpayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on retail payment services."}}},
+"revenuecollection":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on revenue payment."}}}
+}}

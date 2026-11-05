@@ -1,0 +1,187 @@
+{
+ "slug": "2026-11-04-bwa-huawei-orange-partner-to-accelerate-digital-transformation",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "tier3",
+       "fact": "Mmegi says Orange Botswana's Tier III-certified data centre gives businesses and institutions a foundation for hosting critical systems and cloud adoption.",
+       "as_of": "2026-11-04",
+       "date_precision": "day",
+       "system": "Orange Botswana data centre",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange Botswana data centre",
+       "country_label": "Botswana",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Orange Botswana",
+       "tiers": "Tier III"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Orange Digital Center skills figures are a company's programme, not a government one."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Owner not stated as national or foreign beyond Orange Group backing; no fact recorded."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Botswana."
+    }
+   }
+  }
+ }
+}

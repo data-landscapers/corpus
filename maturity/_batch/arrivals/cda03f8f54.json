@@ -1,11 +1,1 @@
-{"slug": "2026-10-30-ago-deputados-aprovam-regras-sobre-registo-criminal-e-proteccao-de-dados-d", "studies": {
-"authentication": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
-"birthidlink": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated on a link between civil register and ID."}}},
-"ecommercelaw": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
-"idcoverage": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
-"idfrombirth": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
-"idmaintenance": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated."}}},
-"idregisters": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Criminal-record and minors' registers are described; none is stated as keyed on the ID number."}}},
-"idrobustness": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing stated on the ID system's issuance, biometrics or certification."}}},
-"interoperabilitylaw": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Only access limits to identification data; no public body data-sharing duty stated."}}}
-}}
+{"slug": "2026-10-30-ago-deputados-aprovam-regras-sobre-registo-criminal-e-proteccao-de-dados-d", "studies": {"registry": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Criminal-record and minors' register rules in a bill; nothing on civil registration offices."}}}}}

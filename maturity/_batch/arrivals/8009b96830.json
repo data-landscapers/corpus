@@ -1,0 +1,14 @@
+{"slug":"2026-11-03-syc-bill-no-21-registration-of-business-names-amendment-bill-2026","studies":{
+"authentication":{"countries":{"SYC":{"facts":[],"systems":[],"note":"A bill only enables regulations for electronic authentication of business-name filings; no service is authorised, contracted or in use."}}},
+"businesspayments":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on the central bank."}}},
+"consumerprotection":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on consumer protection in digital finance."}}},
+"crossborderpayments":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"dataprotectionlaw":{"countries":{"SYC":{"facts":[
+{"sub_indicator":"general","aspect":"standing","value":"in-force","fact":"Bill No. 21 of 2026 refers to the Data Protection Act, 2023 (Act 24 of 2023) as applying to violation or misuse of data submitted under the new section 6(1A) (Official Gazette).","as_of":"2026-11-03","date_precision":"day","system":"Data Protection Act, 2023","class":"general"}],"systems":[],"note":""}}},
+"g2ppayments":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on government-to-person payments."}}},
+"paymentsuptake":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on payments uptake."}}},
+"retailpayments":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on retail payments."}}},
+"revenuecollection":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on revenue collection; the bill covers business-name registry fees only as a bill."}}},
+"taxadmin":{"countries":{"SYC":{"facts":[],"systems":[],"note":"Nothing on tax administration."}}}
+}}

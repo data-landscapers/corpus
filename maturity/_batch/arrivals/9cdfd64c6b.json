@@ -1,32 +1,6 @@
-{
- "slug": "2026-10-22-lbr-nec-seeks-us-72m-for-2029-elections",
- "studies": {
-  "electoralregister": {
-   "countries": {
-    "LBR": {
-     "facts": [],
-     "systems": [],
-     "note": "A biometric registration for 2028 is only proposed; nothing procured, piloted or in service."
-    }
-   }
-  },
-  "idrobustness": {
-   "countries": {
-    "LBR": {
-     "facts": [],
-     "systems": [],
-     "note": "Nothing on a national ID system."
-    }
-   }
-  },
-  "publicconsultation": {
-   "countries": {
-    "LBR": {
-     "facts": [],
-     "systems": [],
-     "note": "Nothing on a digital law or policy consultation."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-10-22-lbr-nec-seeks-us-72m-for-2029-elections", "studies": {
+"addressregister": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Only a voter registration plan and election budget; no addressing system."}}},
+"businessregister": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Only a voter registration plan and election budget; no business register."}}},
+"landregister": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Only a voter registration plan and election budget; no land register."}}},
+"socialregistry": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Only a voter registration plan and election budget; no social registry."}}}
+}}

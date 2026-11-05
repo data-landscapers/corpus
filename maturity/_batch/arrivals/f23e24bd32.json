@@ -1,0 +1,18 @@
+{"slug": "2026-11-04-bfa-aes-cinq-chantiers-pour-acc-l-rer-l-int-gration-num-rique-du-burkina-f", "studies": {
+"cybersecurity": {"countries": {
+"BFA": {"facts": [], "systems": [], "note": "A regional incident response mechanism is only under study at an experts meeting; no national body or response is stated."},
+"MLI": {"facts": [], "systems": [], "note": "A regional incident response mechanism is only under study at an experts meeting; no national body or response is stated."},
+"NER": {"facts": [], "systems": [], "note": "A regional incident response mechanism is only under study at an experts meeting; no national body or response is stated."}}},
+"localgov": {"countries": {
+"BFA": {"facts": [], "systems": [], "note": "It states nothing on local government office connections."},
+"MLI": {"facts": [], "systems": [], "note": "It states nothing on local government office connections."},
+"NER": {"facts": [], "systems": [], "note": "It states nothing on local government office connections."}}},
+"regionalpolicy": {"countries": {
+"BFA": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "leFaso.net, relaying a Burkina Faso ministry release, reports that digital ministers and experts of Burkina Faso, Mali and Niger, members of the Confederation of Sahel States (AES), met in Ouagadougou on 3-5 November 2026 to finalise digital cooperation documents.", "as_of": "2026-11-03", "date_precision": "day", "system": "Confederation of Sahel States (AES)", "class": "cooperation"}], "systems": [{"system": "Confederation of Sahel States (AES)", "country_label": "Burkina Faso", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}], "note": ""},
+"MLI": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "leFaso.net, relaying a Burkina Faso ministry release, reports that digital ministers and experts of Burkina Faso, Mali and Niger, members of the Confederation of Sahel States (AES), met in Ouagadougou on 3-5 November 2026 to finalise digital cooperation documents.", "as_of": "2026-11-03", "date_precision": "day", "system": "Confederation of Sahel States (AES)", "class": "cooperation"}], "systems": [{"system": "Confederation of Sahel States (AES)", "country_label": "Mali", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}], "note": ""},
+"NER": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "leFaso.net, relaying a Burkina Faso ministry release, reports that digital ministers and experts of Burkina Faso, Mali and Niger, members of the Confederation of Sahel States (AES), met in Ouagadougou on 3-5 November 2026 to finalise digital cooperation documents.", "as_of": "2026-11-03", "date_precision": "day", "system": "Confederation of Sahel States (AES)", "class": "cooperation"}], "systems": [{"system": "Confederation of Sahel States (AES)", "country_label": "Niger", "class": "cooperation", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"satellitebroadband": {"countries": {
+"BFA": {"facts": [], "systems": [], "note": "A regional hub for NGSO satellite operators is only being worked on; no licence or sale is stated."},
+"MLI": {"facts": [], "systems": [], "note": "A regional hub for NGSO satellite operators is only being worked on; no licence or sale is stated."},
+"NER": {"facts": [], "systems": [], "note": "A regional hub for NGSO satellite operators is only being worked on; no licence or sale is stated."}}}
+}}

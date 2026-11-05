@@ -1,0 +1,41 @@
+{
+ "slug": "2025-06-25-dji-djibouti-mise-sur-la-fibre-optique-pour-transformer-ses-services-publi",
+ "studies": {
+  "health": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Djibouti Fondement Numérique (DFN)",
+       "country_label": "Djibouti",
+       "class": "enabling",
+       "platform": "fibre",
+       "owner": "Ministry of Communication",
+       "tiers": ""
+      }
+     ],
+     "note": "Fibre connectivity to clinics only; no HMIS or EMR stated."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Djibouti Fondement Numérique (DFN)",
+       "country_label": "Djibouti",
+       "class": "enabling",
+       "platform": "fibre",
+       "owner": "Ministry of Communication",
+       "tiers": ""
+      }
+     ],
+     "note": "Fibre connectivity to police stations only; no station record system stated."
+    }
+   }
+  }
+ }
+}

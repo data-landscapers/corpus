@@ -1,0 +1,17 @@
+{"slug":"2026-11-04-fibre-cuts-and-nigerias-digital-economy","studies":{
+"businesspayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"NGA":{"facts":[],"systems":[],"note":"NIBSS volumes named but no central bank role stated."}}},
+"consumerprotection":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on financial consumer rules."}}},
+"crossborderpayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"cybersecurity":{"countries":{"NGA":{"facts":[{"sub_indicator":"readiness","aspect":"cii","value":"designated","fact":"TechCabal says President Tinubu's June 2024 CNII Order designated fibre lines, submarine landing cables, switching centres and data centres as critical national information infrastructure.","as_of":"2024-06","date_precision":"month","system":"Designation and Protection of Critical National Information Infrastructure Order","class":"response"}],"systems":[],"note":""}}},
+"datacentres":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No data centre for hire named."}}},
+"digitaldivides":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on rural access programmes or rural-urban figures."}}},
+"fibrebackbone":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Fibre cuts discussed; no backbone build, reach or access fact."}}},
+"g2ppayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"localgov":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on local government."}}},
+"nationaldatacentres":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No nationally owned data centre named."}}},
+"paymentsuptake":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No survey share of account holders."}}},
+"regionalinfrastructure":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No shared cross-border link named."}}},
+"retailpayments":{"countries":{"NGA":{"facts":[{"sub_indicator":"retail","aspect":"service","value":"inservice","fact":"TechCabal says millions of mobile money and point-of-sale payments are made daily in Nigeria, and that NIBSS transactions topped N1.053 quadrillion in Q1 2026.","as_of":"2026-03","date_precision":"month","system":"Mobile money and POS payments; NIBSS","class":"retail"}],"systems":[],"note":""}}},
+"revenuecollection":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on revenue payment."}}}
+}}

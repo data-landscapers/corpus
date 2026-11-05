@@ -1,32 +1,21 @@
 {
  "slug": "2025-11-30-sdn-sudan-launches-electronic-import-service",
  "studies": {
-  "egovservices": {
+  "localgov": {
    "countries": {
     "SDN": {
-     "facts": [
-      {
-       "sub_indicator": "eservices",
-       "aspect": "services",
-       "value": "underway",
-       "fact": "The Ministry of Industry and Trade announced that citizens and companies can now submit and track commercial and personal import requests entirely online via the Baldna platform.",
-       "as_of": "2025-11-30",
-       "date_precision": "day",
-       "system": "Baldna",
-       "class": "eservices"
-      }
-     ],
+     "facts": [],
      "systems": [
       {
        "system": "Baldna",
        "country_label": "Sudan",
-       "class": "eservices",
-       "platform": "",
+       "class": "other",
+       "platform": "web platform",
        "owner": "Ministry of Industry and Trade",
        "tiers": ""
       }
      ],
-     "note": ""
+     "note": "National import platform; nothing on local government offices."
     }
    }
   }

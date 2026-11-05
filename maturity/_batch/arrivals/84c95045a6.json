@@ -1,0 +1,126 @@
+{
+ "slug": "2024-02-23-tza-ttcl-yazidi-kujikita-kimataifa-kibiashara",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Burundi Backbone System (BBS)",
+       "country_label": "Burundi",
+       "class": "other",
+       "platform": "fibre",
+       "owner": "Government of Burundi",
+       "tiers": ""
+      }
+     ],
+     "note": "Document describes Tanzania's backbone and a link to Burundi's; nothing on Burundi's national backbone reach."
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "backbone",
+       "aspect": "reach",
+       "value": "building",
+       "fact": "Three NICTBB expansion phases of 4,442 km, 1,520 km and 928 km are under way, the minister said, the third being built.",
+       "as_of": "2024-02",
+       "date_precision": "month",
+       "system": "National ICT Broadband Backbone (NICTBB)",
+       "class": "backbone"
+      },
+      {
+       "sub_indicator": "backbone",
+       "aspect": "access",
+       "value": "open",
+       "fact": "TTCL renewed for five years its contract to supply NICTBB services to Burundi's Burundi Backbone System, TTCL's director general said.",
+       "as_of": "2024-02",
+       "date_precision": "month",
+       "system": "National ICT Broadband Backbone (NICTBB)",
+       "class": "backbone"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ICT Broadband Backbone (NICTBB)",
+       "country_label": "Tanzania",
+       "class": "backbone",
+       "platform": "fibre",
+       "owner": "TTCL",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "Burundi Backbone System connects to Tanzania's NICTBB at Kabanga and Manyovu under a contract begun in 2019 and renewed for five years in February 2024.",
+       "as_of": "2024-02",
+       "date_precision": "month",
+       "system": "Burundi Backbone System (BBS)",
+       "class": "route"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Burundi Backbone System (BBS)",
+       "country_label": "Burundi",
+       "class": "route",
+       "platform": "fibre",
+       "owner": "Government of Burundi",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "two",
+       "fact": "TTCL's director general said NICTBB is connected to the SEACOM and EASSY submarine cables.",
+       "as_of": "2024-02",
+       "date_precision": "month",
+       "system": "National ICT Broadband Backbone (NICTBB)",
+       "class": "route"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ICT Broadband Backbone (NICTBB)",
+       "country_label": "Tanzania",
+       "class": "backbone",
+       "platform": "fibre",
+       "owner": "TTCL",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "No government staff or system stated."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "A network run by TTCL; no named government system built or run for ministries stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,146 @@
+{
+ "slug": "2025-12-10-cmr-cameroun-camtel-a-gagne-34-milliards-fcfa-grace-a-la-fibre-optique-en",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "backbone",
+       "aspect": "reach",
+       "value": "every-region",
+       "fact": "Camtel's national fibre-optic backbone, about 12,000 km, serves all ten regional capitals and 51 of 58 divisional capitals, according to the ART report quoted by Ecomatin.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Camtel national backbone",
+       "class": "backbone"
+      },
+      {
+       "sub_indicator": "backbone",
+       "aspect": "access",
+       "value": "open",
+       "fact": "The ART report says Camtel's transport network revenue rose with demand for bandwidth from mobile operators, ISPs and businesses.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Camtel national backbone",
+       "class": "backbone"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Camtel national backbone",
+       "country_label": "Cameroon",
+       "class": "backbone",
+       "platform": "fibre optic",
+       "owner": "Camtel",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "independent",
+       "fact": "Camtel has three landing stations (Kribi, Limbe, Douala) giving access to the SAT3, WACS, NCSCS and SAIL submarine cables, per the ART report quoted by Ecomatin.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "SAT3, WACS, NCSCS, SAIL",
+       "class": "route"
+      },
+      {
+       "sub_indicator": "routes",
+       "aspect": "access",
+       "value": "open",
+       "fact": "Camtel's capacity on these cables lets it provide international transmission services to national and sub-regional operators, per the ART report.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "SAT3, WACS, NCSCS, SAIL",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated for this study."
+    }
+   }
+  }
+ }
+}

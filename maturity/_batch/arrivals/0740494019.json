@@ -1,0 +1,32 @@
+{
+ "slug": "2026-11-02-syc-seyalert-seychelles-government-introduces-a-new-digital-emergency-alert-app",
+ "studies": {
+  "itcapacity": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SeyAlert",
+       "country_label": "Seychelles",
+       "class": "other",
+       "platform": "mobile app",
+       "owner": "Department of Risk and Disaster Management",
+       "tiers": ""
+      }
+     ],
+     "note": "App built by a local technology provider, a contractor; no government staff build or run stated."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [],
+     "note": "Emergency alert app; nothing on local government offices."
+    }
+   }
+  }
+ }
+}
