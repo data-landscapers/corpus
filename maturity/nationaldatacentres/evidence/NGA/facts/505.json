@@ -1,0 +1,37 @@
+{
+ "slug": "2025-07-30-nga-nairametrics-galaxy-backbone-nictib-5000km-28-states",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "national",
+   "fact": "Nairametrics describes Galaxy Backbone as Nigeria's state-owned digital infrastructure provider, whose managing director says it operates Africa's largest publicly owned data centre network.",
+   "as_of": "2025-07-29",
+   "date_precision": "day",
+   "system": "Galaxy Backbone data centres",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Galaxy Backbone's managing director says its data centre network gives startups, government agencies and businesses access to data services.",
+   "as_of": "2025-07-29",
+   "date_precision": "day",
+   "system": "Galaxy Backbone data centres",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "Galaxy Backbone's managing director says its data centre network is certified by the Uptime Institute to Tier III and Tier IV standards.",
+   "as_of": "2025-07-29",
+   "date_precision": "day",
+   "system": "Galaxy Backbone data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

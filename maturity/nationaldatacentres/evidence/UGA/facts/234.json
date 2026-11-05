@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-01-uga-manifesto-week-ict-ministry-reveals-key-achievements-as-internet-penet",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The ministry says the National Data Centre and a Disaster Recovery Site are in use for centralised hosting of government applications and data, and the data centre hosts 306 applications for over 100 entities (Zawedde, via Business Focus).",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "National Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "Not stated as for hire, and no Tier."
+}

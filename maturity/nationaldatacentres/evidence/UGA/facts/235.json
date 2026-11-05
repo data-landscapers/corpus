@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-28-uga-dubai-firm-takes-digital-deal-from-nita-u-s-jaws",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The Daily Monitor says the government's National Data Centre at Statistics House in Kampala was built to manage all e-government services on the NBI.",
+   "as_of": "2013",
+   "date_precision": "year",
+   "system": "National Data Centre, Statistics House",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

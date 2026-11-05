@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-11-dza-fibre-optique-en-lalgerie-4-millions-de-foyers-raccordes",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "L'Echo d'Algerie says the Mohammadia data centre, supervised by the High Commission for Digitalisation, houses the national cloud for public services, and that administrations' strategic data is stored in Algeria.",
+   "as_of": "2026-10-11",
+   "date_precision": "day",
+   "system": "Data Center de Mohammadia",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Center de Mohammadia",
+   "country_label": "Algeria",
+   "class": "datacentre",
+   "platform": "national cloud",
+   "owner": "High Commission for Digitalisation (supervisor)",
+   "tiers": "Tier III Design"
+  }
+ ],
+ "note": ""
+}

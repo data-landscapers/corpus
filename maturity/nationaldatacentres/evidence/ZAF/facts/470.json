@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-04-zaf-napafrica-achieves-5tbps-traffic-milestone-driving-africas-digital-tra",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "foreign",
+   "fact": "Teraco, the carrier-neutral colocation operator, is described as majority-owned by Digital Realty (NYSE: DLR) with a consortium of private equity investors including Berkshire Partners and Permira.",
+   "as_of": "2025-03-04",
+   "date_precision": "day",
+   "system": "Teraco data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

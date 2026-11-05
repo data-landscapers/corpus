@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-13-moz-icolo-s-peering-environment-expands-in-maputo-with-the-entry-of-mozamb",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "foreign",
+   "fact": "The release names iColo, a Digital Realty company, as operator of the Maputo One (MPM1) carrier-neutral data centre in Maputo.",
+   "as_of": "2025-05-13",
+   "date_precision": "day",
+   "system": "Maputo One (MPM1)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

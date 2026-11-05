@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-11-zaf-napafrica-and-teraco-acx-growing-africas-digital-community-as-napafric",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Teraco, a colocation provider, says it operates data centres in the country that host NAPAfrica; no Tier is stated.",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "Teraco data centres",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "foreign",
+   "fact": "Teraco says it is majority-owned by Digital Realty (NYSE: DLR) with a consortium of private equity investors including Berkshire Partners and Permira.",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "Teraco data centres",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco data centres",
+   "country_label": "Teraco",
+   "class": "datacentre",
+   "platform": "colocation",
+   "owner": "Digital Realty",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

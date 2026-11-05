@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-06-nga-nigeria-s-internet-exchange-goes-400g-as-traffic-tops-two-terabits",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "foreign",
+   "fact": "CIO Africa says Equinix entered the Nigerian market through its 2022 acquisition of MainOne, whose Lagos facility Equinix LG1 is a carrier-neutral data centre.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Equinix LG1",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": "No nationally owned data centre for hire is stated."
+}

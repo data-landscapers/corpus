@@ -252,6 +252,7 @@ DZA,Mohammadia Data Center,Algeria,datacentre,,Haut-commissariat a la numerisati
 DZA,Centre national des services numeriques,Algeria,datacentre,,State,Tier III Design (first data centre),2026-07-17-dza-algerie-le-president-ordonne-la-connexion-des-services-publics-au-data
 DZA,Centre national algerien des prestations numeriques (Data Center),National digital services data centre,datacentre,,High Commission for Digitalisation,,2024-04-22-dza-un-data-center-pour-heberger-et-centraliser-les-donnees-nationales
 DZA,Centre National Algérien des Services Numériques (two national data centres),DZA,other,,High Commission for Digitalisation,,2025-05-12-dza-algerie-numerique-2030-une-strategie-ambitieuse-pour-un-virage-digital
+DZA,Data Center de Mohammadia,Algeria,datacentre,national cloud,High Commission for Digitalisation (supervisor),Tier III Design,2026-10-11-dza-fibre-optique-en-lalgerie-4-millions-de-foyers-raccordes
 EGY,Telecom Egypt Regional Data Hub (RDH1),RDH1,datacentre,,Telecom Egypt,,2026-08-28-fintechgate-telecom-egypt-rdh2-data-centre
 EGY,Telecom Egypt Regional Data Hub (RDH2),RDH2,other,,Telecom Egypt,"Uptime Tier III design certificate, Nov 2024; not yet in service",2026-08-28-fintechgate-telecom-egypt-rdh2-data-centre
 EGY,Telecom Egypt Regional Data Center Hub (RDH),RDH,datacentre,,Telecom Egypt,,2026-07-17-telecom-egypt-cancels-helios-data-center-stake-sale
@@ -1158,6 +1159,7 @@ ZAF,National integrated government data centre (proposed),South Africa,other,,"p
 ZAF,"Hyperscaler regions (Google, Microsoft South Africa North/West, AWS Cape Town, Huawei Cloud)",South Africa,other,,,,2026-02-24-dcdt-pccdt-data-centre-service-acquisition-presentation
 ZAF,Teraco data centres,South Africa,datacentre,,Teraco,,2026-02-01-zaf-teraco-ct2-expands-cape-town-data-centre-capacity-now
 ZAF,Teraco data centres,South Africa,datacentre,,Teraco,,2025-03-12-zaf-water-scarcity-in-africa
+ZAF,Teraco data centres,Teraco,datacentre,colocation,Digital Realty,,2025-11-11-zaf-napafrica-and-teraco-acx-growing-africas-digital-community-as-napafric
 ZMB,"Infratel production data centre, Lusaka",SMART Zambia data centres,datacentre,,Government of Zambia via Infratel,,2023-01-01-zambia-ict-infrastructure-vis-a-vis-fintech-growth-national-assembly
 ZMB,Netone data centre,Netone,datacentre,,Netone,,2023-01-01-zambia-ict-infrastructure-vis-a-vis-fintech-growth-national-assembly
 ZMB,Paratus data centre,Paratus,datacentre,,Paratus,,2023-01-01-zambia-ict-infrastructure-vis-a-vis-fintech-growth-national-assembly
