@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: XAF
 ledger_rows: 57
 not_held: 3
-record: 47777e8f3e57
+record: ff9d43cbebff
 ---
 
 # News, Oct – Nov 2026
@@ -480,7 +480,7 @@ Russia and African states adopted an 18-point declaration on civil uses of AI at
 
 **[African AI companies and G7 industry move from partnership to deployment in Rome](https://www.undp.org/romecentre/press-releases/african-ai-companies-and-g7-industry-move-partnership-deployment-rome)** — United Nations Development Programme (UNDP) Rome Centre, 3 November 2026
 
-DeepLeaf food-security AI model for 7 countries; Cyber4Africa backs 49 start-ups in 13 countries; Datapizza-Zindi tie-up.
+At a UNDP-backed event in Rome on 3 November 2026, the AI Hub and Moroccan firm DeepLeaf launched a food-security AI model for seven countries. Cyber4Africa backs 49 start-ups in 13 countries. Datapizza and Zindi also announced a partnership.
 
 </div>
 

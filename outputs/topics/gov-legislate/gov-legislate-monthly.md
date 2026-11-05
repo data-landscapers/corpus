@@ -4,7 +4,7 @@ compiled: 2026-11-05
 period: 2026-10-01 to 2026-11-05
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NGA; SEN; SYC; SOM; ZAF; SDN; TZA; TUN; UGA
-record: 4e954ccbee0f
+record: c7986966f16d
 ---
 
 # News, Oct – Nov 2026
@@ -397,7 +397,7 @@ The DRC Senate on 21 October 2026 ratified ordonnance-loi 26/015 of 7 September 
 
 **[Cybersécurité : un atelier de validation de sept arrêtés lancé à Kinshasa](https://acp.cd/economie/cybersecurite-un-atelier-de-validation-de-sept-arretes-lance-a-kinshasa/)** — Agence congolaise de presse, 3 November 2026
 
-Ministry and ARPTC workshop 3-5 Nov 2026; incident notification, audits, critical infrastructure, AI registers.
+The DRC digital economy ministry and the telecoms regulator ARPTC opened a workshop on 3 November 2026 to validate seven ministerial orders on cybersecurity. The orders cover incident notification, audits, registers for AI systems and critical infrastructure. The workshop runs to 5 November.
 
 </div>
 
@@ -456,7 +456,7 @@ Egypt's Financial Regulatory Authority licensed Souhoola to provide fintech-base
 
 **[رئيس «اتصالات النواب»: الحكومة ستتقدم بمشروع قانون تصنيف وتداول وإتاحة البيانات بين القطاعات الحكومية خلال أسابيع](https://www.almasryalyoum.com/news/details/4400426)** — Al-Masry Al-Youm, 3 November 2026
 
-ICT committee chair: cross-government data classification and sharing bill due within weeks, first on its docket.
+Egypt's government will send parliament a bill on classifying and sharing data between state bodies within weeks, the chair of the ICT committee said on 3 November 2026. It will be the first law the committee studies. He tied it to the one-stop service file.
 
 </div>
 
@@ -991,7 +991,7 @@ Nigeria's Attorney-General said the Federal Ministry of Justice has advanced a d
 
 **[Banks, Fintechs Face N1bn Fine for Exporting Payment Data Under New Bill](https://businesspost.ng/banking/banks-fintechs-face-n1bn-fine-for-exporting-payment-data-under-new-bill/)** — Business Post Nigeria, 2 November 2026
 
-Sponsor Lanre Okunlola; payment data a strategic asset; N1bn institutional fine, 10-year term for offshore transfer.
+A bill before Nigeria's House of Representatives, sponsored by Lanre Okunlola, would set up a National Payment Data Protection and Sovereignty Commission. Institutions moving payment data abroad would face a minimum fine of N1 billion. Individuals would face 10 years in prison and a minimum fine of N500 million.
 
 </div>
 
@@ -1023,7 +1023,7 @@ A Transform Health Senegal consultation found 65.8% of respondents unaware that 
 
 **[Bill No. 20 - Companies (Amendment) Bill 2026](https://www.gazette.sc/sites/default/files/2026-11/Bill%20No.%2020%20-%20Companies%20%28Amendment%29%20Bill%202026.pdf)** — Official Gazette, Republic of Seychelles, 3 November 2026
 
-New section 10A: electronic filing, service, records and fee payment at the Registrar; regulations to follow.
+Seychelles gazetted a bill on 3 November 2026 that adds section 10A to the Companies Act. It allows electronic filing, service, record-keeping and fee payment at the Registrar. Regulations are to follow.
 
 </div>
 
@@ -1031,7 +1031,7 @@ New section 10A: electronic filing, service, records and fee payment at the Regi
 
 **[Bill No. 21 - Registration of Business Names (Amendment) Bill 2026](https://www.gazette.sc/sites/default/files/2026-11/Bill%20No.%2021%20-%20Registration%20of%20Business%20Names%20%28Amendment%29%20Bill%202026.pdf)** — Official Gazette, Republic of Seychelles, 3 November 2026
 
-New section 6(1A)-(1D): electronic filing, records and fee payment for business names; regulations to follow.
+Seychelles gazetted a bill on 3 November 2026 that adds section 6(1A) to (1D) to the business names law. It allows electronic filing, records and fee payment for business names. Regulations are to follow.
 
 </div>
 

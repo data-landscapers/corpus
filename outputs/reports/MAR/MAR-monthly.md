@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: MAR
 ledger_rows: 21
 not_held: 14
-record: 8d62db2720b8
+record: 4cdd1ba130a5
 ---
 
 # News, Oct – Nov 2026
@@ -360,7 +360,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 **[وزير العدل يستعرض بمجلس النواب أولويات إصلاح منظومة العدالة ويؤكد التلازم بين مكافحة الفساد وحماية الحقوق والحريات](https://justice.gov.ma/2026/11/03/16889/)** — Ministère de la Justice (Maroc), 3 November 2026
 
-Minister to MPs, 2 Nov 2026: about MAD 2.5bn to finish court digitisation; e-file, digital notice, enforcement platform.
+Morocco's justice minister told parliament on 2 November 2026 that about MAD 2.5 billion is needed to finish digitising the courts. He named the electronic case file, digital notification and an enforcement platform among the priorities.
 
 </div>
 

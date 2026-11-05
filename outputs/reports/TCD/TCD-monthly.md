@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: TCD
 ledger_rows: 16
 not_held: 22
-record: 16d9b54dc2f5
+record: 80bface64fa9
 ---
 
 # News, Oct – Nov 2026
@@ -186,7 +186,7 @@ Chad's telecoms minister told the Global AI and Digital Summit in Seoul that the
 
 **[IXP Tracker - Tchad](https://pulse.internetsociety.org/fr/ixp-tracker/country/TD/)** — ISOC Pulse, 1 November 2026
 
-One active exchange, N'Djamena IX, 9 members; 11 active networks; resilience score 28/100 (Nov 2026).
+Internet Society Pulse lists one active internet exchange point in Chad in November 2026, N'Djamena IX, with nine members. It counts 11 active networks and scores the country 28 out of 100 for resilience.
 
 </div>
 

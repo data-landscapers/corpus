@@ -4,7 +4,7 @@ compiled: 2026-11-05
 period: 2026-10-01 to 2026-11-05
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; CMR; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NGA; RWA; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: 086fdc6d068a
+record: 1b07c1e84f75
 ---
 
 # News, Oct – Nov 2026
@@ -607,7 +607,7 @@ Kenya's Interior Cabinet Secretary, Kipchumba Murkomen, announced that electroni
 
 **[Birth registration e-service reduces admin from months to days](https://identityweek.net/birth-registration-e-service-reduces-admin-from-months-to-days/)** — Identity Week, 2 November 2026
 
-Nearly 300,000 births e-registered by October 2026; ESTDEV-funded, gold at the Estonian Design Awards.
+Kenya's online birth registration service won gold at the Estonian Design Awards. Nearly 300,000 births had been registered through it by October 2026. Estonia's development agency ESTDEV funded the service, and one in five Kenyan births is currently unregistered each year.
 
 </div>
 
@@ -677,7 +677,7 @@ A committee of Liberia's House suspended its review of a US$52 million concessio
 
 **[Liberia: LRRRC Sets November 4 For Launch Of Biometric Registration For Burkinabe Migrants in Four Counties - FrontPageAfrica](https://frontpageafricaonline.com/liberia-lrrrc-sets-november-4-for-launch-of-biometric-registration-for-burkinabe-migrants-in-four-counties/)** — FrontPageAfrica, 2 November 2026
 
-Four counties, 5 Nov-31 Dec 2026; LRRRC, NIR and LIS enrol migrants in national biometric ID system.
+Liberia's refugee commission, the National Identification Registry and Immigration Service will register undocumented migrants, mainly Burkinabe nationals, in four counties. A launch ceremony is set for 4 November 2026, and registration runs from 5 November to 31 December. Enrolment is into the national biometric ID system.
 
 </div>
 

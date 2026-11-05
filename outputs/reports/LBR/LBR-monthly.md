@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: LBR
 ledger_rows: 18
 not_held: 6
-record: bfb09f616423
+record: 56ccd5a3dd99
 ---
 
 # News, Oct – Nov 2026
@@ -248,7 +248,7 @@ A committee of Liberia's House suspended its review of a US$52 million concessio
 
 **[Liberia: LRRRC Sets November 4 For Launch Of Biometric Registration For Burkinabe Migrants in Four Counties - FrontPageAfrica](https://frontpageafricaonline.com/liberia-lrrrc-sets-november-4-for-launch-of-biometric-registration-for-burkinabe-migrants-in-four-counties/)** — FrontPageAfrica, 2 November 2026
 
-Four counties, 5 Nov-31 Dec 2026; LRRRC, NIR and LIS enrol migrants in national biometric ID system.
+Liberia's refugee commission, the National Identification Registry and Immigration Service will register undocumented migrants, mainly Burkinabe nationals, in four counties. A launch ceremony is set for 4 November 2026, and registration runs from 5 November to 31 December. Enrolment is into the national biometric ID system.
 
 </div>
 

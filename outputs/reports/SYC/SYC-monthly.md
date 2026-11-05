@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: SYC
 ledger_rows: 12
 not_held: 6
-record: ddc7a7ef92e0
+record: c6bacef5af4e
 ---
 
 # News, Oct – Nov 2026
@@ -74,7 +74,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[Bill No. 20 - Companies (Amendment) Bill 2026](https://www.gazette.sc/sites/default/files/2026-11/Bill%20No.%2020%20-%20Companies%20%28Amendment%29%20Bill%202026.pdf)** — Official Gazette, Republic of Seychelles, 3 November 2026
 
-New section 10A: electronic filing, service, records and fee payment at the Registrar; regulations to follow.
+Seychelles gazetted a bill on 3 November 2026 that adds section 10A to the Companies Act. It allows electronic filing, service, record-keeping and fee payment at the Registrar. Regulations are to follow.
 
 </div>
 
@@ -82,7 +82,7 @@ New section 10A: electronic filing, service, records and fee payment at the Regi
 
 **[Bill No. 21 - Registration of Business Names (Amendment) Bill 2026](https://www.gazette.sc/sites/default/files/2026-11/Bill%20No.%2021%20-%20Registration%20of%20Business%20Names%20%28Amendment%29%20Bill%202026.pdf)** — Official Gazette, Republic of Seychelles, 3 November 2026
 
-New section 6(1A)-(1D): electronic filing, records and fee payment for business names; regulations to follow.
+Seychelles gazetted a bill on 3 November 2026 that adds section 6(1A) to (1D) to the business names law. It allows electronic filing, records and fee payment for business names. Regulations are to follow.
 
 </div>
 
@@ -214,7 +214,7 @@ Summarised under [Domestic budget appropriations and expenditure](#domestic-budg
 
 **[SeyAlert: Seychelles government introduces a new digital emergency alert app](https://www.seychellesnewsagency.com/public/articles/22634/seyalert-seychelles-government-introduces-a-new-digital-emergency-alert-app)** — Seychelles News Agency, 2 November 2026
 
-Soft launch 30 October 2026; app and SMS warnings by district, Are You Safe location reports, Follow Me route alerts.
+Seychelles soft-launched the SeyAlert emergency app on 30 October 2026, after weeks of flooding and landslides. It sends warnings by district through the app and SMS. Users can report their location, and a route-alert feature follows them. The government expects full operation within the week.
 
 </div>
 

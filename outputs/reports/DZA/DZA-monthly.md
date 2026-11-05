@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: DZA
 ledger_rows: 31
 not_held: 5
-record: e309255c31e5
+record: 9aad20a5d5c0
 ---
 
 # News, Oct – Nov 2026
@@ -156,7 +156,7 @@ Algeria's Ministry of Post and Telecommunications said on 30 September 2026 that
 
 **[fibre optique en l’Algérie: 4 millions de foyers raccordés](https://lechodalgerie.dz/fibre-optique-en-lalgerie-4-millions-de-foyers-raccordes/)** — L’Echo d’Algérie, 11 October 2026
 
-~300,000 km of cable laid by Algérie Télécom; 4m homes on FTTH; full fibre coverage targeted by 2027.
+The paper reports that 4 million Algerian homes are now connected to fibre. Algérie Télécom has laid about 300,000 km of cable, and the target is full fibre coverage by 2027.
 
 </div>
 
@@ -460,7 +460,7 @@ The Ministry of Internal Trade opened an online consumer portal at tawassol.comm
 
 **[High Commission for Digitization Trains Officials in Electronic Verification](https://dzwatch.dz/en/algeria/high-commission-for-digitization-trains-officials-in-electronic-verification)** — DZ Watch, 3 November 2026
 
-Officials trained to verify portal-issued documents electronically; no fresh paper copies for citizens.
+Algeria's High Commission for Digitization trained information system officials in verifying documents issued through the national government services portal. Administrations can then accept those documents without asking citizens for new paper copies.
 
 </div>
 
@@ -534,7 +534,7 @@ Summarised under [AI](#ai).
 
 **[Le ministre de l'Enseignement supérieur et de la Recherche scientifique préside la sixième réunion multisectorielle consacrée au suivi de la mise en œuvre de la Stratégie nationale de l'intelligence artificielle](https://www.mesrs.dz/fr/2026/11/le-ministre-de-lenseignement-superieur-et-de-la-recherche-scientifique-preside-la-sixieme-reunion-multisectorielle-consacree-au-suivi-de-la-mise-en-oeuvre-de-la-strategie-nationale-de-l/)** — Ministère de l'Enseignement supérieur et de la Recherche scientifique (Algeria), 3 November 2026
 
-AI strategy data plan starts 11 Nov 2026; tax-law LLM corpus 98% collected; 46 universities bid for AI doctoral school.
+At the sixth follow-up meeting on Algeria's national AI strategy, the higher education minister heard that the data and infrastructure plan starts on 11 November 2026. Some 98% of the tax-law documents for a specialised language model have been collected. Forty-six universities have bid to join the AI doctoral school.
 
 </div>
 

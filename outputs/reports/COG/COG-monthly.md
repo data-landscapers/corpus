@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: COG
 ledger_rows: 13
 not_held: 5
-record: 9ffa99e60e7e
+record: 3abffd8884d8
 ---
 
 # News, Oct – Nov 2026
@@ -126,7 +126,7 @@ ISO lists ACONOQ, created by a 2015 law, as the Republic of Congo's national sta
 
 **[IXP Tracker - Congo](https://pulse.internetsociety.org/en/ixp-tracker/country/CG/)** — Internet Society Pulse, 1 November 2026
 
-One active exchange with nine members in November 2026; resilience score 49 of 100.
+Internet Society Pulse lists one active internet exchange point in Congo in November 2026, with nine members. It gives the country a resilience score of 49 out of 100.
 
 </div>
 

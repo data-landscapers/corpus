@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: COD
 ledger_rows: 40
 not_held: 6
-record: 283b94ee8a7b
+record: cdef645edf25
 ---
 
 # News, Oct – Nov 2026
@@ -126,7 +126,7 @@ The DRC Senate on 21 October 2026 ratified ordonnance-loi 26/015 of 7 September 
 
 **[Cybersécurité : un atelier de validation de sept arrêtés lancé à Kinshasa](https://acp.cd/economie/cybersecurite-un-atelier-de-validation-de-sept-arretes-lance-a-kinshasa/)** — Agence congolaise de presse, 3 November 2026
 
-Ministry and ARPTC workshop 3-5 Nov 2026; incident notification, audits, critical infrastructure, AI registers.
+The DRC digital economy ministry and the telecoms regulator ARPTC opened a workshop on 3 November 2026 to validate seven ministerial orders on cybersecurity. The orders cover incident notification, audits, registers for AI systems and critical infrastructure. The workshop runs to 5 November.
 
 </div>
 
@@ -694,7 +694,7 @@ KADEA and ULB-Solvay Lifelong Learning, with DR Congo's Agence pour le Développ
 
 **[Électricité : présentation d'une plateforme numérique de gestion des plaintes à Kinshasa](https://acp.cd/economie/electricite-presentation-dune-plateforme-numerique-de-gestion-des-plaintes-a-kinshasa/)** — ACP, 6 October 2026
 
-Electricity regulator ARE opens online filing and tracking of consumer and operator complaints, 5 October 2026.
+The electricity regulator ARE presented an online complaints platform in Kinshasa on 5 October 2026. Consumers and operators can file complaints and follow their progress on it.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: BEN
 ledger_rows: 22
 not_held: 4
-record: b12f3d7487ba
+record: bbfc3abc1ff7
 ---
 
 # News, Oct – Nov 2026
@@ -318,7 +318,7 @@ Benin's interior ministry began issuing about 8,500 free birth certificates to p
 
 **[Modernisation des services d’identification au Bénin : l’ANIP accélère sa révolution numérique](https://lematinal.bj/modernisation-des-services-didentification-au-benin-lanip-accelere-sa-revolution-numerique/)** — Le Matinal, 3 November 2026
 
-98% enrolled; 10.5m services in 2025, 75% remote; late-birth registration pilot from 2 Nov 2026; 30,000 refugees.
+Benin's national identification agency says 98% of the population is enrolled. It delivered 10.5 million services in 2025, 75% of them remotely. A pilot for late birth registration starts on 2 November 2026, and 165 more tablets are going to local districts.
 
 </div>
 

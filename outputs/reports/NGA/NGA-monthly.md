@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: NGA
 ledger_rows: 80
 not_held: 9
-record: 028b412bea56
+record: 2f93d3e17633
 ---
 
 # News, Oct – Nov 2026
@@ -202,7 +202,7 @@ Nigeria's Attorney-General said the Federal Ministry of Justice has advanced a d
 
 **[Banks, Fintechs Face N1bn Fine for Exporting Payment Data Under New Bill](https://businesspost.ng/banking/banks-fintechs-face-n1bn-fine-for-exporting-payment-data-under-new-bill/)** — Business Post Nigeria, 2 November 2026
 
-Sponsor Lanre Okunlola; payment data a strategic asset; N1bn institutional fine, 10-year term for offshore transfer.
+A bill before Nigeria's House of Representatives, sponsored by Lanre Okunlola, would set up a National Payment Data Protection and Sovereignty Commission. Institutions moving payment data abroad would face a minimum fine of N1 billion. Individuals would face 10 years in prison and a minimum fine of N500 million.
 
 </div>
 

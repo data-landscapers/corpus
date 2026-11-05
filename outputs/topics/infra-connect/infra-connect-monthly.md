@@ -4,7 +4,7 @@ compiled: 2026-11-05
 period: 2026-10-01 to 2026-11-05
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: a665f2b391e4
+record: ee3ab1175202
 ---
 
 # News, Oct – Nov 2026
@@ -123,7 +123,7 @@ Algeria's Ministry of Post and Telecommunications said on 30 September 2026 that
 
 **[fibre optique en l’Algérie: 4 millions de foyers raccordés](https://lechodalgerie.dz/fibre-optique-en-lalgerie-4-millions-de-foyers-raccordes/)** — L’Echo d’Algérie, 11 October 2026
 
-~300,000 km of cable laid by Algérie Télécom; 4m homes on FTTH; full fibre coverage targeted by 2027.
+The paper reports that 4 million Algerian homes are now connected to fibre. Algérie Télécom has laid about 300,000 km of cable, and the target is full fibre coverage by 2027.
 
 </div>
 
@@ -181,7 +181,7 @@ Q-KON and SISTEC opened a point of presence in Luanda for the Twoobii OneWeb low
 
 **[Africell reforça presença em Angola com apoio financeiro e estratégico dos Estados Unidos](https://southernbridges.ao/africell-reforca-presenca-em-angola-com-apoio-financeiro-e-estrategico-dos-estados-unidos/)** — Southern Bridges, 3 November 2026
 
-US-backed satellite services venture with Angola's government for mining, oil, gas, farms; amounts undisclosed.
+Africell is preparing a satellite services company with Angola's government and United States backing, aimed at mining, oil, gas and farming clients. Africell had earlier secured US$99.6 million from the US EXIM Bank for mobile network equipment. The amounts for the satellite venture have not been disclosed.
 
 </div>
 
@@ -423,7 +423,7 @@ Chad's telecoms minister told the Global AI and Digital Summit in Seoul that the
 
 **[IXP Tracker - Tchad](https://pulse.internetsociety.org/fr/ixp-tracker/country/TD/)** — ISOC Pulse, 1 November 2026
 
-One active exchange, N'Djamena IX, 9 members; 11 active networks; resilience score 28/100 (Nov 2026).
+Internet Society Pulse lists one active internet exchange point in Chad in November 2026, N'Djamena IX, with nine members. It counts 11 active networks and scores the country 28 out of 100 for resilience.
 
 </div>
 
@@ -439,7 +439,7 @@ One active exchange, N'Djamena IX, 9 members; 11 active networks; resilience sco
 
 **[IXP Tracker - Congo](https://pulse.internetsociety.org/en/ixp-tracker/country/CG/)** — Internet Society Pulse, 1 November 2026
 
-One active exchange with nine members in November 2026; resilience score 49 of 100.
+Internet Society Pulse lists one active internet exchange point in Congo in November 2026, with nine members. It gives the country a resilience score of 49 out of 100.
 
 </div>
 
@@ -553,7 +553,7 @@ Civil society in Fizi territory and Baraka, South Kivu, published a memorandum t
 
 **[EG-IX: strengthening regional connectivity from Cairo](https://www.ams-ix.net/ams/news/eg-ix-strengthening-regional-connectivity-from-cairo)** — AMS-IX, 6 October 2026
 
-Q3 2026: 19 ASNs vs 4 at 2022 launch, 37 ports, 3.2 Tb/s capacity, 945 Gb/s peak, 1.22 EB in nine months.
+AMS-IX reports that the EG-IX exchange in Cairo had 19 connected networks in the third quarter of 2026, against 4 at its launch in April 2022. It lists 37 ports and 3.2 Tb/s of capacity, with traffic peaking at 945 Gb/s. Telecom Egypt hosts the exchange.
 
 </div>
 
@@ -827,7 +827,7 @@ A sensitisation session on WARDIP, the 2023-2028 West Africa regional digital in
 
 **[IXP Tracker - Guinea](https://pulse.internetsociety.org/en/ixp-tracker/country/GN/)** — Internet Society Pulse, 1 November 2026
 
-One active exchange, 10 members, resilience score 39/100; IXP in one of two cities over 300,000 (Nov 2026).
+Internet Society Pulse lists one active internet exchange point in Guinea in November 2026, with 10 members. The country scores 39 out of 100 for resilience. The exchange serves one of the two cities with over 300,000 people.
 
 </div>
 
@@ -1163,7 +1163,7 @@ Senegal's and Mali's state fibre operators inaugurated the interconnection of th
 
 **[IXP Tracker - Mali](https://pulse.internetsociety.org/en/ixp-tracker/country/ML/)** — Internet Society Pulse, 1 November 2026
 
-One active exchange point with 7 members as of November 2026; resilience score 46/100.
+Internet Society Pulse lists one active internet exchange point in Mali in November 2026, with seven members. The country scores 46 out of 100 for resilience.
 
 </div>
 

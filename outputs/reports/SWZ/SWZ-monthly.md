@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: SWZ
 ledger_rows: 29
 not_held: 3
-record: 94877e4b8980
+record: 4cd49a48bf3a
 ---
 
 # News, Oct – Nov 2026
@@ -444,7 +444,7 @@ Summarised under [Data Storage](#data-storage).
 
 **[Digital company registrations plunge 70%](https://www.eswatiniobserver.com/digital-company-registrations-plunge-70/)** — Eswatini Observer, 3 November 2026
 
-632 online registrations in Q2 2026/27 against 2,127 a year earlier; connectivity and manual processes blamed.
+Eswatini's commerce ministry reports 632 online company registrations in the second quarter of 2026/27, against 2,127 a year earlier. The report cites network connectivity problems and manual processes. Total registrations fell from 952 to 790.
 
 </div>
 

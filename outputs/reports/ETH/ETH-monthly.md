@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: ETH
 ledger_rows: 25
 not_held: 5
-record: 115e13edc9ac
+record: bf40174d6d3d
 ---
 
 # News, Oct – Nov 2026
@@ -404,7 +404,7 @@ The Oromia Supreme Court and the Ethiopian Artificial Intelligence Institute rev
 
 **[Mekelle City Set to Join Ethiopia’s MESOB One-Stop Service Network as Preparations Advance](https://www.fanamc.com/english/mekelle-city-set-to-join-ethiopias-mesob-one-stop-service-network-as-preparations-advance/)** — Fana Media Corporation, 2 November 2026
 
-114 centres and 2.7m citizens served nationally; Tigray capital's centre head appointed from 27 Oct 2026.
+Ethiopia's MESOB chief executive said preparations have begun to open a one-stop service centre in Mekelle. There are 114 such centres nationally, which have served more than 2.7 million citizens. A head for the Mekelle centre has been appointed from 27 October 2026.
 
 </div>
 

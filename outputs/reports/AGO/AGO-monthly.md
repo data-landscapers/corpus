@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: AGO
 ledger_rows: 26
 not_held: 6
-record: b20ea700e026
+record: c7feee5e50c9
 ---
 
 # News, Oct – Nov 2026
@@ -198,7 +198,7 @@ Q-KON and SISTEC opened a point of presence in Luanda for the Twoobii OneWeb low
 
 **[Africell reforça presença em Angola com apoio financeiro e estratégico dos Estados Unidos](https://southernbridges.ao/africell-reforca-presenca-em-angola-com-apoio-financeiro-e-estrategico-dos-estados-unidos/)** — Southern Bridges, 3 November 2026
 
-US-backed satellite services venture with Angola's government for mining, oil, gas, farms; amounts undisclosed.
+Africell is preparing a satellite services company with Angola's government and United States backing, aimed at mining, oil, gas and farming clients. Africell had earlier secured US$99.6 million from the US EXIM Bank for mobile network equipment. The amounts for the satellite venture have not been disclosed.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: EGY
 ledger_rows: 46
 not_held: 36
-record: 15b0c395e6c2
+record: d2e46b50b5d3
 ---
 
 # News, Oct – Nov 2026
@@ -118,7 +118,7 @@ Egypt's Financial Regulatory Authority licensed Souhoola to provide fintech-base
 
 **[رئيس «اتصالات النواب»: الحكومة ستتقدم بمشروع قانون تصنيف وتداول وإتاحة البيانات بين القطاعات الحكومية خلال أسابيع](https://www.almasryalyoum.com/news/details/4400426)** — Al-Masry Al-Youm, 3 November 2026
 
-ICT committee chair: cross-government data classification and sharing bill due within weeks, first on its docket.
+Egypt's government will send parliament a bill on classifying and sharing data between state bodies within weeks, the chair of the ICT committee said on 3 November 2026. It will be the first law the committee studies. He tied it to the one-stop service file.
 
 </div>
 
@@ -222,7 +222,7 @@ Egypt's telecoms regulator described an online system that scores new cities aga
 
 **[EG-IX: strengthening regional connectivity from Cairo](https://www.ams-ix.net/ams/news/eg-ix-strengthening-regional-connectivity-from-cairo)** — AMS-IX, 6 October 2026
 
-Q3 2026: 19 ASNs vs 4 at 2022 launch, 37 ports, 3.2 Tb/s capacity, 945 Gb/s peak, 1.22 EB in nine months.
+AMS-IX reports that the EG-IX exchange in Cairo had 19 connected networks in the third quarter of 2026, against 4 at its launch in April 2022. It lists 37 ports and 3.2 Tb/s of capacity, with traffic peaking at 945 Gb/s. Telecom Egypt hosts the exchange.
 
 </div>
 

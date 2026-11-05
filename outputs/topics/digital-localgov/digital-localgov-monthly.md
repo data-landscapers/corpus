@@ -4,7 +4,7 @@ compiled: 2026-11-05
 period: 2026-10-01 to 2026-11-05
 subject: digital.localgov
 places: BDI; CMR; CPV; COD; EGY; ETH; GAB; KEN; MLI; NGA; ZAF; SSD; SDN; TZA
-record: f7e970e1816a
+record: 8cefe7621afe
 ---
 
 # News, Oct – Nov 2026
@@ -143,7 +143,7 @@ Cairo Governor Ibrahim Saber launched a six-month programme for staff of the gov
 
 **[Mekelle City Set to Join Ethiopia’s MESOB One-Stop Service Network as Preparations Advance](https://www.fanamc.com/english/mekelle-city-set-to-join-ethiopias-mesob-one-stop-service-network-as-preparations-advance/)** — Fana Media Corporation, 2 November 2026
 
-114 centres and 2.7m citizens served nationally; Tigray capital's centre head appointed from 27 Oct 2026.
+Ethiopia's MESOB chief executive said preparations have begun to open a one-stop service centre in Mekelle. There are 114 such centres nationally, which have served more than 2.7 million citizens. A head for the Mekelle centre has been appointed from 27 October 2026.
 
 </div>
 

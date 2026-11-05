@@ -4,7 +4,7 @@ compiled: 2026-11-05
 period: 2026-10-01 to 2026-11-05
 subject: gov.protect
 places: AGO; BFA; CMR; COG; COD; EGY; GHA; KEN; LBY; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9d4d1b321630
+record: 5f4bc9583caf
 ---
 
 # News, Oct – Nov 2026
@@ -490,7 +490,7 @@ A Daily News feature sets out how personal data is collected across Tanzania's i
 
 **[Tanzania strengthens personal data protection to support investment climate](https://www.therespondents.co.tz/2026/11/tanzania-strengthens-personal-data.html)** — The Respondent, 3 November 2026
 
-PDPC by Oct 2026: 15,000+ institutions registered, 445+ complaints, 121 permits to move data abroad.
+Tanzania's Personal Data Protection Commission reports that by October 2026 more than 15,000 institutions had registered with it. It had received over 445 complaints and issued 121 permits to transfer data abroad. The commission was set up on 1 May 2023 under the 2022 data protection act.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: RWA
 ledger_rows: 30
 not_held: 7
-record: fc6da163e87a
+record: 1f4381b90134
 ---
 
 # News, Oct – Nov 2026
@@ -376,7 +376,7 @@ The latest Rwanda Governance Scorecard finds that 11% of government services are
 
 **[RES Synesis and Rwanda’s MINICT sign an agreement on digital transformation - Gruppo RES](https://res-group.eu/en/news-eng/res-synesis-and-rwanda-digital-transformation-agreement/)** — Gruppo RES, 3 November 2026
 
-Exploratory vendor MoU: IT modernisation, AI, cybersecurity, training; projects need separate agreements.
+RES Synesis, part of Gruppo RES, signed a memorandum with Rwanda's ICT ministry. It covers IT modernisation, AI, cybersecurity and training. The memorandum is exploratory, and any project needs a separate agreement.
 
 </div>
 

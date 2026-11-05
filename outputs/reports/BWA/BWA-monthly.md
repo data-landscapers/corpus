@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: BWA
 ledger_rows: 13
 not_held: 5
-record: a8c59ed24cde
+record: f0ce0061201b
 ---
 
 # News, Oct – Nov 2026
@@ -220,7 +220,7 @@ Botswana scored 1.11 out of 4 on the Africa AI Governance Index 2026, in the Eme
 
 **[Southern Africa’s AI ambitions face reality check](https://itweb.africa/article/southern-africas-ai-ambitions-face-reality-check/KWEBbvyLd4mqmRjO)** — ITWeb Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
-IITPSA 2026 survey: experience gap 24% of skills shortfall; 52% of SA firms outsource IT abroad; Botswana AI policy.
+A 2026 skills survey by South Africa's IITPSA attributes 24% of the reported skills gap to missing workplace experience and 20% to education and training. ICT body presidents from five countries discussed it in Johannesburg. In Botswana, 60% of unemployed graduates are reported to hold ICT degrees.
 
 </div>
 

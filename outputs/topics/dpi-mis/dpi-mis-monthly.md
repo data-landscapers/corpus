@@ -4,7 +4,7 @@ compiled: 2026-11-05
 period: 2026-10-01 to 2026-11-05
 subject: dpi.mis
 places: AGO; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; NAM; NER; NGA; RWA; SEN; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 985d98ba4f10
+record: 0d6c6ef7555e
 ---
 
 # News, Oct – Nov 2026
@@ -656,7 +656,7 @@ Kenya's Principal Secretary for Medical Services, Ouma Oluga, chaired the steeri
 
 **[Digitizing health campaigns: lessons from Benin, DRC, Kenya, and Nigeria](https://www.clintonhealthaccess.org/report/digitizing-health-campaigns/)** — Clinton Health Access Initiative, 1 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
-CHAI final report 2021-25; 24m people reached; Kano cost per person fell from US$0.20 to US$0.12; five lessons.
+The Clinton Health Access Initiative reports on digitising health campaigns in Benin, the DRC, Kenya and Nigeria between 2021 and 2025. It says 24 million people were reached, and that in Kano the cost per person fell from US$0.20 to US$0.12. The report closes with five lessons.
 
 </div>
 
@@ -796,7 +796,7 @@ Mauritius's electronic medical record had registered more than 150,000 patients 
 
 **[وزير العدل يستعرض بمجلس النواب أولويات إصلاح منظومة العدالة ويؤكد التلازم بين مكافحة الفساد وحماية الحقوق والحريات](https://justice.gov.ma/2026/11/03/16889/)** — Ministère de la Justice (Maroc), 3 November 2026
 
-Minister to MPs, 2 Nov 2026: about MAD 2.5bn to finish court digitisation; e-file, digital notice, enforcement platform.
+Morocco's justice minister told parliament on 2 November 2026 that about MAD 2.5 billion is needed to finish digitising the courts. He named the electronic case file, digital notification and an enforcement platform among the priorities.
 
 </div>
 

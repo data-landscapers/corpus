@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: KEN
 ledger_rows: 70
 not_held: 5
-record: 9eb9de992ea8
+record: cd811006eaf9
 ---
 
 # News, Oct – Nov 2026
@@ -472,7 +472,7 @@ Kenya's Interior Cabinet Secretary, Kipchumba Murkomen, announced that electroni
 
 **[Birth registration e-service reduces admin from months to days](https://identityweek.net/birth-registration-e-service-reduces-admin-from-months-to-days/)** — Identity Week, 2 November 2026
 
-Nearly 300,000 births e-registered by October 2026; ESTDEV-funded, gold at the Estonian Design Awards.
+Kenya's online birth registration service won gold at the Estonian Design Awards. Nearly 300,000 births had been registered through it by October 2026. Estonia's development agency ESTDEV funded the service, and one in five Kenyan births is currently unregistered each year.
 
 </div>
 
@@ -756,7 +756,7 @@ Kenya's Principal Secretary for Medical Services, Ouma Oluga, chaired the steeri
 
 **[Digitizing health campaigns: lessons from Benin, DRC, Kenya, and Nigeria](https://www.clintonhealthaccess.org/report/digitizing-health-campaigns/)** — Clinton Health Access Initiative, 1 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
-CHAI final report 2021-25; 24m people reached; Kano cost per person fell from US$0.20 to US$0.12; five lessons.
+The Clinton Health Access Initiative reports on digitising health campaigns in Benin, the DRC, Kenya and Nigeria between 2021 and 2025. It says 24 million people were reached, and that in Kano the cost per person fell from US$0.20 to US$0.12. The report closes with five lessons.
 
 </div>
 

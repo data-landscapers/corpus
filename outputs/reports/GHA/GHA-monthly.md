@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: GHA
 ledger_rows: 59
 not_held: 9
-record: 5020539cea8d
+record: 66a11da767fe
 ---
 
 # News, Oct – Nov 2026
@@ -846,7 +846,7 @@ The UN Development Programme gave the Ghana Enterprises Agency 90 laptops. They 
 
 **[Contract Award: Design, Development, Operations and Maintenance of the eGovernment Digital Services Platform (GH-MOCDTI-535504-NC-RFB), Ghana Digital Acceleration Project P176126](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478518)** — World Bank (procurement notice OP00478518, for the Ministry of Communication, Digital Technology and Innovations, Ghana), 1 November 2026
 
-Awarded 2026-10-21 to C-BRAINS A/S with Omni Strategies, GHS 76,103,721.44; Tata evaluated at GHS 96.1m.
+A World Bank notice records that the contract for Ghana's eGovernment digital services platform was awarded on 21 October 2026. C-BRAINS A/S, with Omni Strategies, won at GHS 76,103,721.44. Tata was evaluated at GHS 96.1 million. The project is the Ghana Digital Acceleration Project.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: SDN
 ledger_rows: 23
 not_held: 5
-record: ad2002cd6073
+record: 6edb2310a16d
 ---
 
 # News, Oct – Nov 2026
@@ -378,7 +378,7 @@ Summarised under [Registries](#registries).
 
 **[قطاع الحكم والإدارة يناقش ضوابط التعامل مع الوثائق الالكترونية وتأمينها](https://suna.sd/posts/ktaaa-alhkm-oaladar-ynaksh-doabt-altaaaml-maa-alothayk-alalktrony-otamynha)** — Sudan News Agency (SUNA), 3 November 2026
 
-Cabinet governance sector backs e-correspondence as sole official channel; paper a justified exception.
+The governance sector of Sudan's cabinet met on 3 November 2026 and backed authenticated electronic correspondence as the state's only official channel. Paper circulation would become a restricted exception that needs justification.
 
 </div>
 

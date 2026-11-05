@@ -4,7 +4,7 @@ compiled: 2026-11-05
 period: 2026-10-01 to 2026-11-05
 subject: geopol.china
 places: BWA; LBY; TGO; UGA
-record: 59ee784f6adc
+record: 7393ac896a4d
 ---
 
 # News, Oct – Nov 2026
@@ -97,7 +97,7 @@ Togo and Huawei signed a memorandum of understanding in Shenzhen on 16 October 2
 
 **[Estelle Komlan, Managing Director of Ecobank Togo: 'With CIPS, We Want to Make Payments to China Faster and Cheaper'](https://www.togofirst.com/en/banking/0211-20515-estelle-komlan-managing-director-of-ecobank-togo-with-cips-we-want-to-make-payments-to-china-faster-and-cheaper)** — Togo First, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
-MD interview: direct CIPS access planned across 34 markets; Guinea indirect via Bank of China since March 2026.
+Ecobank signed an agreement with China's CIPS payment system in Beijing on 10 October 2026. The head of Ecobank Togo says the aim is direct access across its 34 African markets, with renminbi payments through fewer banks. Guinea has had indirect access via Bank of China since March 2026.
 
 </div>
 

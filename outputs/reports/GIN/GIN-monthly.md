@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: GIN
 ledger_rows: 22
 not_held: 3
-record: b48042b05388
+record: c6d8ea4a5945
 ---
 
 # News, Oct – Nov 2026
@@ -94,7 +94,7 @@ A sensitisation session on WARDIP, the 2023-2028 West Africa regional digital in
 
 **[IXP Tracker - Guinea](https://pulse.internetsociety.org/en/ixp-tracker/country/GN/)** — Internet Society Pulse, 1 November 2026
 
-One active exchange, 10 members, resilience score 39/100; IXP in one of two cities over 300,000 (Nov 2026).
+Internet Society Pulse lists one active internet exchange point in Guinea in November 2026, with 10 members. The country scores 39 out of 100 for resilience. The exchange serves one of the two cities with over 300,000 people.
 
 </div>
 

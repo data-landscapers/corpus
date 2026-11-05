@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: MLI
 ledger_rows: 9
 not_held: 1
-record: 623dc3f00826
+record: ba9ac9f46b0d
 ---
 
 # News, Oct – Nov 2026
@@ -82,7 +82,7 @@ Senegal's and Mali's state fibre operators inaugurated the interconnection of th
 
 **[IXP Tracker - Mali](https://pulse.internetsociety.org/en/ixp-tracker/country/ML/)** — Internet Society Pulse, 1 November 2026
 
-One active exchange point with 7 members as of November 2026; resilience score 46/100.
+Internet Society Pulse lists one active internet exchange point in Mali in November 2026, with seven members. The country scores 46 out of 100 for resilience.
 
 </div>
 

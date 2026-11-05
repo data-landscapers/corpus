@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: STP
 ledger_rows: 3
 not_held: 5
-record: 4bd160e5560c
+record: a716e8b527d6
 ---
 
 # News, Oct – Nov 2026
@@ -58,7 +58,7 @@ A second account of the ARTAC closing session, adding that São Tomé and Prínc
 
 **[Tribunal de Contas vai lançar em 2027 o sistema digital de prestação de contas - STP-PRESS](https://www.stp-press.st/2026/11/03/tribunal-de-contas-vai-lancar-em-2027-o-sistema-digital-de-prestacao-de-contas/)** — STP-PRESS, 3 November 2026
 
-Electronic filing of public accounts to replace paper; new instruction; system due operational by 30 April 2027.
+The president of Sao Tome and Principe's Court of Auditors announced an electronic system for public entities to file their accounts instead of paper. A new instruction will follow. He expects the system to be operating by 30 April 2027.
 
 </div>
 

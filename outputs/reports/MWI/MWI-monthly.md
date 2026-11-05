@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: MWI
 ledger_rows: 22
 not_held: 30
-record: f01793f00ad9
+record: bd69aae81388
 ---
 
 # News, Oct – Nov 2026
@@ -328,7 +328,7 @@ A World Bank team reviewed progress on Malawi's electronic procurement system MA
 
 **[PPDA warns public institutions over MANePS compliance](https://mwnation.com/ppda-warns-public-institutions-over-maneps-compliance/)** — Nation Online, 2 November 2026
 
-No government funding for procurement outside MANePS from 1 January 2027; regional support hubs planned.
+Malawi's procurement regulator, the PPDA, says government will not fund procurement done outside the MANePS e-procurement system from 1 January 2027. It plans regional support hubs for institutions.
 
 </div>
 
@@ -336,7 +336,7 @@ No government funding for procurement outside MANePS from 1 January 2027; region
 
 **[PPDA tough on registration](https://times.mw/ppda-tough-on-registration/)** — The Times Group, 3 November 2026
 
-Vendors not on MANePS by 31 December barred; 7,704 suppliers registered by October 2026, 9% SMEs.
+Malawi's procurement regulator says vendors not registered on the MANePS e-procurement system by 31 December will be barred. By October 2026, 7,704 suppliers had registered, 9% of them small and medium enterprises.
 
 </div>
 

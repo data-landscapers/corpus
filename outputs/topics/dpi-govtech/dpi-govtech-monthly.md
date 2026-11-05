@@ -4,7 +4,7 @@ compiled: 2026-11-05
 period: 2026-10-01 to 2026-11-05
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: fb572871a737
+record: 6dc0f76b742d
 ---
 
 # News, Oct – Nov 2026
@@ -153,7 +153,7 @@ The Ministry of Internal Trade opened an online consumer portal at tawassol.comm
 
 **[High Commission for Digitization Trains Officials in Electronic Verification](https://dzwatch.dz/en/algeria/high-commission-for-digitization-trains-officials-in-electronic-verification)** — DZ Watch, 3 November 2026
 
-Officials trained to verify portal-issued documents electronically; no fresh paper copies for citizens.
+Algeria's High Commission for Digitization trained information system officials in verifying documents issued through the national government services portal. Administrations can then accept those documents without asking citizens for new paper copies.
 
 </div>
 
@@ -754,7 +754,7 @@ Eswatini's ICT ministry presented a proposed platform for reaching government se
 
 **[Digital company registrations plunge 70%](https://www.eswatiniobserver.com/digital-company-registrations-plunge-70/)** — Eswatini Observer, 3 November 2026
 
-632 online registrations in Q2 2026/27 against 2,127 a year earlier; connectivity and manual processes blamed.
+Eswatini's commerce ministry reports 632 online company registrations in the second quarter of 2026/27, against 2,127 a year earlier. The report cites network connectivity problems and manual processes. Total registrations fell from 952 to 790.
 
 </div>
 
@@ -908,7 +908,7 @@ The UN Development Programme gave the Ghana Enterprises Agency 90 laptops. They 
 
 **[Contract Award: Design, Development, Operations and Maintenance of the eGovernment Digital Services Platform (GH-MOCDTI-535504-NC-RFB), Ghana Digital Acceleration Project P176126](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478518)** — World Bank (procurement notice OP00478518, for the Ministry of Communication, Digital Technology and Innovations, Ghana), 1 November 2026
 
-Awarded 2026-10-21 to C-BRAINS A/S with Omni Strategies, GHS 76,103,721.44; Tata evaluated at GHS 96.1m.
+A World Bank notice records that the contract for Ghana's eGovernment digital services platform was awarded on 21 October 2026. C-BRAINS A/S, with Omni Strategies, won at GHS 76,103,721.44. Tata was evaluated at GHS 96.1 million. The project is the Ghana Digital Acceleration Project.
 
 </div>
 
@@ -1297,7 +1297,7 @@ A World Bank team reviewed progress on Malawi's electronic procurement system MA
 
 **[PPDA warns public institutions over MANePS compliance](https://mwnation.com/ppda-warns-public-institutions-over-maneps-compliance/)** — Nation Online, 2 November 2026
 
-No government funding for procurement outside MANePS from 1 January 2027; regional support hubs planned.
+Malawi's procurement regulator, the PPDA, says government will not fund procurement done outside the MANePS e-procurement system from 1 January 2027. It plans regional support hubs for institutions.
 
 </div>
 
@@ -1305,7 +1305,7 @@ No government funding for procurement outside MANePS from 1 January 2027; region
 
 **[PPDA tough on registration](https://times.mw/ppda-tough-on-registration/)** — The Times Group, 3 November 2026
 
-Vendors not on MANePS by 31 December barred; 7,704 suppliers registered by October 2026, 9% SMEs.
+Malawi's procurement regulator says vendors not registered on the MANePS e-procurement system by 31 December will be barred. By October 2026, 7,704 suppliers had registered, 9% of them small and medium enterprises.
 
 </div>
 
@@ -1645,7 +1645,7 @@ The latest Rwanda Governance Scorecard finds that 11% of government services are
 
 **[RES Synesis and Rwanda’s MINICT sign an agreement on digital transformation - Gruppo RES](https://res-group.eu/en/news-eng/res-synesis-and-rwanda-digital-transformation-agreement/)** — Gruppo RES, 3 November 2026
 
-Exploratory vendor MoU: IT modernisation, AI, cybersecurity, training; projects need separate agreements.
+RES Synesis, part of Gruppo RES, signed a memorandum with Rwanda's ICT ministry. It covers IT modernisation, AI, cybersecurity and training. The memorandum is exploratory, and any project needs a separate agreement.
 
 </div>
 
@@ -1661,7 +1661,7 @@ Exploratory vendor MoU: IT modernisation, AI, cybersecurity, training; projects 
 
 **[Tribunal de Contas vai lançar em 2027 o sistema digital de prestação de contas - STP-PRESS](https://www.stp-press.st/2026/11/03/tribunal-de-contas-vai-lancar-em-2027-o-sistema-digital-de-prestacao-de-contas/)** — STP-PRESS, 3 November 2026
 
-Electronic filing of public accounts to replace paper; new instruction; system due operational by 30 April 2027.
+The president of Sao Tome and Principe's Court of Auditors announced an electronic system for public entities to file their accounts instead of paper. A new instruction will follow. He expects the system to be operating by 30 April 2027.
 
 </div>
 
@@ -1722,7 +1722,7 @@ Seychelles' Vice-President, Sebastien Pillay, said on 14 October 2026, at a Stat
 
 **[SeyAlert: Seychelles government introduces a new digital emergency alert app](https://www.seychellesnewsagency.com/public/articles/22634/seyalert-seychelles-government-introduces-a-new-digital-emergency-alert-app)** — Seychelles News Agency, 2 November 2026
 
-Soft launch 30 October 2026; app and SMS warnings by district, Are You Safe location reports, Follow Me route alerts.
+Seychelles soft-launched the SeyAlert emergency app on 30 October 2026, after weeks of flooding and landslides. It sends warnings by district through the app and SMS. Users can report their location, and a route-alert feature follows them. The government expects full operation within the week.
 
 </div>
 
@@ -1955,7 +1955,7 @@ South Africa's revenue service closed consultation on its Digital VAT Model, bui
 
 **[قطاع الحكم والإدارة يناقش ضوابط التعامل مع الوثائق الالكترونية وتأمينها](https://suna.sd/posts/ktaaa-alhkm-oaladar-ynaksh-doabt-altaaaml-maa-alothayk-alalktrony-otamynha)** — Sudan News Agency (SUNA), 3 November 2026
 
-Cabinet governance sector backs e-correspondence as sole official channel; paper a justified exception.
+The governance sector of Sudan's cabinet met on 3 November 2026 and backed authenticated electronic correspondence as the state's only official channel. Paper circulation would become a restricted exception that needs justification.
 
 </div>
 

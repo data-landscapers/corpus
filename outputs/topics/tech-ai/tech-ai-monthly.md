@@ -4,7 +4,7 @@ compiled: 2026-11-05
 period: 2026-10-01 to 2026-11-05
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 7b93fb295440
+record: e7df8064eda8
 ---
 
 # News, Oct – Nov 2026
@@ -145,7 +145,7 @@ Algeria's higher-education ministry agreed on 19 October 2026 with public and pr
 
 **[Le ministre de l'Enseignement supérieur et de la Recherche scientifique préside la sixième réunion multisectorielle consacrée au suivi de la mise en œuvre de la Stratégie nationale de l'intelligence artificielle](https://www.mesrs.dz/fr/2026/11/le-ministre-de-lenseignement-superieur-et-de-la-recherche-scientifique-preside-la-sixieme-reunion-multisectorielle-consacree-au-suivi-de-la-mise-en-oeuvre-de-la-strategie-nationale-de-l/)** — Ministère de l'Enseignement supérieur et de la Recherche scientifique (Algeria), 3 November 2026
 
-AI strategy data plan starts 11 Nov 2026; tax-law LLM corpus 98% collected; 46 universities bid for AI doctoral school.
+At the sixth follow-up meeting on Algeria's national AI strategy, the higher education minister heard that the data and infrastructure plan starts on 11 November 2026. Some 98% of the tax-law documents for a specialised language model have been collected. Forty-six universities have bid to join the AI doctoral school.
 
 </div>
 
@@ -207,7 +207,7 @@ Botswana scored 1.11 out of 4 on the Africa AI Governance Index 2026, in the Eme
 
 **[Southern Africa’s AI ambitions face reality check](https://itweb.africa/article/southern-africas-ai-ambitions-face-reality-check/KWEBbvyLd4mqmRjO)** — ITWeb Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
-IITPSA 2026 survey: experience gap 24% of skills shortfall; 52% of SA firms outsource IT abroad; Botswana AI policy.
+A 2026 skills survey by South Africa's IITPSA attributes 24% of the reported skills gap to missing workplace experience and 20% to education and training. ICT body presidents from five countries discussed it in Johannesburg. In Botswana, 60% of unemployed graduates are reported to hold ICT degrees.
 
 </div>
 
@@ -1450,7 +1450,7 @@ African public agencies are starting to buy locally built AI tools for welfare, 
 
 **[Un supercalculateur pour accélérer l’innovation technologique, l’intelligence artificielle et la prise de décision stratégique au Togo](https://www.undp.org/fr/togo/actualites/un-supercalculateur-pour-accelerer-linnovation-technologique-lintelligence-artificielle-et-la-prise-de-decision-strategique-au-togo)** — UNDP Togo, 3 November 2026
 
-UNDP GPU server at Lomé Data Centre since July 2026; 50,200 requests Aug-Oct, data kept in Togo.
+UNDP says Togo has had a GPU server at the Lomé Data Centre since July 2026, run by Togo AI Lab. It handled 50,200 requests between August and October, and the data stays in Togo.
 
 </div>
 

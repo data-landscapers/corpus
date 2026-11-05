@@ -4,7 +4,7 @@ compiled: 2026-11-05
 period: 2026-10-01 to 2026-11-05
 subject: include.access
 places: BFA; CPV; COD; ETH; GAB; KEN; LBR; MDG; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; UGA; ZMB
-record: 06b8bca9d041
+record: 506e2bed49ec
 ---
 
 # News, Oct – Nov 2026
@@ -73,7 +73,7 @@ Burkina Faso's Ministry of Health has launched Lafiako, a digital platform for c
 
 **[Nova plataforma digital da IGT permite apresentar queixas laborais e solicitar serviços on-line – ministra](https://www.inforpress.cv/en/nova-plataforma-digital-da-igt-permite-apresentar-queixas-laborais-e-solicitar-servicos-on-line-ministra)** — Inforpress, 3 November 2026
 
-Labour inspectorate portal launched 3 Nov 2026; online complaints, intervention requests, declarations, AI features.
+Cabo Verde launched an online portal for its labour inspectorate on 3 November 2026. Workers and employers can file complaints, request interventions and submit declarations on it. The minister said the portal includes AI features and accessibility tools.
 
 </div>
 
@@ -89,7 +89,7 @@ Labour inspectorate portal launched 3 Nov 2026; online complaints, intervention 
 
 **[Électricité : présentation d'une plateforme numérique de gestion des plaintes à Kinshasa](https://acp.cd/economie/electricite-presentation-dune-plateforme-numerique-de-gestion-des-plaintes-a-kinshasa/)** — ACP, 6 October 2026
 
-Electricity regulator ARE opens online filing and tracking of consumer and operator complaints, 5 October 2026.
+The electricity regulator ARE presented an online complaints platform in Kinshasa on 5 October 2026. Consumers and operators can file complaints and follow their progress on it.
 
 </div>
 
@@ -135,7 +135,7 @@ The Ethiopian Institution of the Ombudsman's website says it has resolved more t
 
 **[Digitalisation : Identitysecu, une innovation au service des usagers et de la Police nationale](https://ethiquemediagabon.net/?p=15389)** — Ethique Media Gabon, 30 October 2026
 
-Police inspectorate and Group IDENTITY sign MoU, 29 Oct 2026, for 6-12-month pilot of app complaints against officers.
+On 29 October 2026 the police inspectorate and Group IDENTITY signed an agreement for a pilot of the Identitysecu app. Users would file complaints online about police conduct. The pilot is to run for six months to a year.
 
 </div>
 

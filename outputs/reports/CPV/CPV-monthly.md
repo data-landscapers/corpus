@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: CPV
 ledger_rows: 10
 not_held: 24
-record: e1ec1f077d17
+record: 99a2a61ce4b6
 ---
 
 # News, Oct – Nov 2026
@@ -222,7 +222,7 @@ Cabo Verde's economy and digital transition minister, António Baptista, said at
 
 **[Nova plataforma digital da IGT permite apresentar queixas laborais e solicitar serviços on-line – ministra](https://www.inforpress.cv/en/nova-plataforma-digital-da-igt-permite-apresentar-queixas-laborais-e-solicitar-servicos-on-line-ministra)** — Inforpress, 3 November 2026
 
-Labour inspectorate portal launched 3 Nov 2026; online complaints, intervention requests, declarations, AI features.
+Cabo Verde launched an online portal for its labour inspectorate on 3 November 2026. Workers and employers can file complaints, request interventions and submit declarations on it. The minister said the portal includes AI features and accessibility tools.
 
 </div>
 

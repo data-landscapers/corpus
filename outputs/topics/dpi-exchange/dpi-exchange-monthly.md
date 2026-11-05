@@ -4,7 +4,7 @@ compiled: 2026-11-05
 period: 2026-10-01 to 2026-11-05
 subject: dpi.exchange
 places: DZA; AGO; BEN; BFA; CMR; COD; EGY; GAB; GIN; GNB; KEN; LSO; MOZ; NGA; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB
-record: 02581d213f7a
+record: 3a1441ca2970
 ---
 
 # News, Oct – Nov 2026
@@ -155,7 +155,7 @@ Nigeria Customs Service opened talks with Afreximbank on modernising the Sèmè�
 
 **[Santé numérique : le Cameroun accélère l’interconnexion de ses systèmes d’information sanitaires](https://scores2000.info/2026/11/sante-numerique-le-cameroun-accelere-l-interconnexion-de-ses-systemes-d-information-sanitaires.html)** — Scores2000, 3 November 2026
 
-Kribi workshop 27-31 Oct 2026; OpenHIM/OpenFn hub at CAMTEL; revised framework, health-software accreditation.
+Health IT stakeholders met in Kribi from 27 to 31 October 2026 on Cameroon's national health interoperability platform. A server hosted at CAMTEL runs the OpenHIM and OpenFn exchange tools. The workshop pre-validated a revised framework and worked on accreditation for health software.
 
 </div>
 

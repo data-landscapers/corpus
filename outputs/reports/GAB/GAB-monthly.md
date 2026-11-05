@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-05
 place: GAB
 ledger_rows: 32
 not_held: 12
-record: 0c60ec95d233
+record: b1bf2a498385
 ---
 
 # News, Oct – Nov 2026
@@ -622,7 +622,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[Digitalisation : Identitysecu, une innovation au service des usagers et de la Police nationale](https://ethiquemediagabon.net/?p=15389)** — Ethique Media Gabon, 30 October 2026
 
-Police inspectorate and Group IDENTITY sign MoU, 29 Oct 2026, for 6-12-month pilot of app complaints against officers.
+On 29 October 2026 the police inspectorate and Group IDENTITY signed an agreement for a pilot of the Identitysecu app. Users would file complaints online about police conduct. The pilot is to run for six months to a year.
 
 </div>
 
