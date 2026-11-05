@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: NGA
-ledger_rows: 77
+ledger_rows: 80
 not_held: 9
-record: ab40077625f3
+record: ae54f8b1a882
 ---
 
 # News, Oct – Nov 2026
@@ -189,6 +189,20 @@ Nigeria's Minister of State for Health, Iziaq Adekunle Salako, told the AI in He
 **[NCC, NITDA, AGF, National Assembly demand stronger cybersecurity measures against AI-driven threats](https://dailypost.ng/2026/10/27/ncc-nitda-agf-national-assembly-demand-stronger-cybersecurity-measures-against-ai-driven-threats/)** — Daily Post Nigeria, 27 October 2026
 
 Nigeria's Attorney-General said the Federal Ministry of Justice has advanced a draft executive bill to strengthen the cybercrime legal framework. It covers emerging technologies and the preservation and exchange of electronic evidence. NITDA said it is reviewing cybercrime legislation with the Office of the National Security Adviser and the National Assembly.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Payment Data Protection and Sovereignty Commission Bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Banks, Fintechs Face N1bn Fine for Exporting Payment Data Under New Bill](https://businesspost.ng/banking/banks-fintechs-face-n1bn-fine-for-exporting-payment-data-under-new-bill/)** — Business Post Nigeria, 2 November 2026
+
+Sponsor Lanre Okunlola; payment data a strategic asset; N1bn institutional fine, 10-year term for offshore transfer.
 
 </div>
 
@@ -419,6 +433,14 @@ The Netherlands foreign ministry committed EUR 450,000 on 20 October 2026 to a d
 **[IXPN at 20: How Nigeria’s Internet Exchange Point Has Transformed Local Internet Connectivity](https://techtvnetwork.ng/post/ixpn-at-20-how-nigerias-internet-exchange-point-has-transformed-local-internet-connectivity)** — TechTV Network, 3 October 2026
 
 The Internet Exchange Point of Nigeria, founded in 2006, is marking its 20th anniversary with a month-long programme; it says more than 130 networks use it, with points of presence in Lagos data centres, Abuja and Enugu. The programme includes a visit scheme for about 100 students, an IPv6 training programme with AFRINIC and the Nigeria IPv6 Council, and an awards dinner in Lagos on 30 October 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria targets 90% local Internet traffic, regional hub power](https://guardian.ng/technology/tech/nigeria-targets-90-local-internet-traffic-regional-hub-power/)** — The Guardian Nigeria, 4 November 2026
+
+At its 20th anniversary, the Internet Exchange Point of Nigeria (IXPN) set a goal of 90% local internet traffic by 2046. Chief executive Muhammed Rudman said up to 70% of traffic is now local, against 1% when IXPN began in 2006. The exchange reports over 130 connected networks and 13 points of presence, and plans 800G optics in 2030-2032 and 1.6T trials in 2033-2036.
 
 </div>
 
@@ -772,6 +794,20 @@ Nigeria's electoral commission scheduled a six-day stress test of its upgraded v
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NIMC Identity Crime Enforcement Unit</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NIN fraud: Arrests, data scandal renew security concerns](https://thesun.ng/nin-fraud-arrests-data-scandal-renew-security-concerns/)** — The Sun Nigeria, 4 November 2026
+
+NIMC's Identity Crime Enforcement Unit arrested suspected illegal NIN enrolment operators in Gwagwalada, Abuja, and elsewhere, and seized their equipment. The investigations covered illegal enrolment, unauthorised changes to identity records and extortion. NIMC has not said how many people were arrested or whether any records were affected; the arrest date is not stated.
+
+</div>
+
+</div>
+
 ### Digital Payments and Fintech
 
 <div class="monthly-story" markdown="1">
@@ -999,6 +1035,20 @@ Nigeria's National Population Commission opened a North-East zonal consultation 
 **[Kwara Governor Approves Digital Medical Records for Public Hospitals](https://von.gov.ng/kwara-governor-approves-digital-medical-records-for-public-hospitals/)** — Voice of Nigeria, 12 October 2026
 
 Nigeria's Kwara State governor, AbdulRahman AbdulRazaq, approved electronic medical records across state-owned hospitals, to be implemented by the state Hospitals Management Board under the HOPE-PHC project. Health workers begin training in November 2026, following a digitisation pilot in six hospitals. No cost or supplier is named.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">HeliumMum AI maternal-health tool</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Google.org backs Helium Health with $2.5 million grant to scale AI-powered maternal healthcare in Nigeria](https://techreviewafrica.com/news/8126/google-org-backs-helium-health-with-2-5-million-grant-to-scale-ai-powered-maternal-healthcare-in-nigeria)** — Tech Review Africa, 4 November 2026
+
+Google.org gave Nigerian health-technology firm Helium Health a US$2.5 million grant to scale HeliumMum, its AI maternal-health tool. The aim is to digitise 150 health facilities and enrol 300,000 women. Helium Health is one of 15 recipients of Google.org's US$30 million AI for Government Innovation Impact Challenge; the award date is not stated.
 
 </div>
 
