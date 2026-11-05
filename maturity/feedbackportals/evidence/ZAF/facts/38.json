@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-11-zaf-mobile-app-to-bring-service-delivery-closer-to-residents",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "The City of Tshwane launched the Tshwane App, letting residents log service faults with GPS and photos and track them, per MMC Kholofelo Morodi; no case numbers are given.",
+   "as_of": "2025-07-11",
+   "date_precision": "day",
+   "system": "Tshwane App",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tshwane App",
+   "country_label": "South Africa",
+   "class": "feedback",
+   "platform": "mobile app, WhatsApp",
+   "owner": "City of Tshwane",
+   "tiers": "metro"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,42 @@
+{
+ "slug": "2026-10-26-dza-plateforme-tawassol-comment-signaler-un-commercant-qui-naffiche-pas-se",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "Algeria's Ministry of Internal Trade officially opened the Tawassol online portal where consumers report unpriced goods, overcharging, hygiene breaches and stock-outs; a mobile app is announced, and no case count is given.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "Tawassol",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tawassol",
+   "country_label": "Algeria",
+   "class": "feedback",
+   "platform": "web",
+   "owner": "Ministry of Internal Trade",
+   "tiers": ""
+  },
+  {
+   "system": "Morafikcom",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "Ministry of Internal Trade",
+   "tiers": ""
+  },
+  {
+   "system": "Tabligh",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "web",
+   "owner": "Ministry of Labour",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

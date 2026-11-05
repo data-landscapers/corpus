@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-31-lby-health-ministry-online-complaints-link",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "The health ministry of the Government of National Unity launched an online link on its website for citizens and health workers to submit complaints, comments and reports, which it says will be followed up and referred to the competent bodies.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "Ministry of Health online complaints link",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ministry of Health online complaints link",
+   "country_label": "Libya",
+   "class": "feedback",
+   "platform": "web",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

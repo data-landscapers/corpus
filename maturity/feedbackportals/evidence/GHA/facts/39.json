@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-18-gha-pilot-phase-of-the-public-services-satisfaction-survey-app-launched",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "The Ghana Statistical Service launched a pilot of the Public Services Satisfaction Survey app and USSD *920*158# for anonymous feedback on education, health and ID services in Ga East and Suhum, with nationwide rollout to follow.",
+   "as_of": "2024-01-18",
+   "date_precision": "day",
+   "system": "Public Services Satisfaction Survey (PSSS) App",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Public Services Satisfaction Survey (PSSS) App",
+   "country_label": "Ghana",
+   "class": "feedback",
+   "platform": "Android, iOS, USSD *920*158#",
+   "owner": "Ghana Statistical Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

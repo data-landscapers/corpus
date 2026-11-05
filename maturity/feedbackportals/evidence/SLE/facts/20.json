@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-03-sle-dsti-edsa-whatsapp-electricity-complaints-chatbot",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "DSTI, EDSA and the Ministry of Energy launched the EDSA WhatsApp chatbot for nationwide use, letting citizens report electricity faults with a ticket number per report; no case count is given.",
+   "as_of": "2026-04-03",
+   "date_precision": "day",
+   "system": "EDSA WhatsApp Chatbot",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EDSA WhatsApp Chatbot",
+   "country_label": "Sierra Leone",
+   "class": "feedback",
+   "platform": "WhatsApp",
+   "owner": "EDSA / DSTI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-08-29-nga-nerc-leads-53-mdas-on-complaint-resolution",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "ReportGov.NG is described as Nigeria's official public service complaints and feedback website for the services of any federal MDA, with 53 MDAs ranked on engagement.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "ReportGov.NG",
+   "class": "feedback"
+  },
+  {
+   "sub_indicator": "feedback",
+   "aspect": "results",
+   "value": "published",
+   "fact": "PEBEC's 2024 Half-Year Transparency and Efficiency Compliance Report ranked 53 MDAs, with NERC at 100 percent compliance with the 72-hour complaint resolution timeline.",
+   "as_of": "2024-08-29",
+   "date_precision": "day",
+   "system": "ReportGov.NG",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ReportGov.NG",
+   "country_label": "Nigeria",
+   "class": "feedback",
+   "platform": "web",
+   "owner": "PEBEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

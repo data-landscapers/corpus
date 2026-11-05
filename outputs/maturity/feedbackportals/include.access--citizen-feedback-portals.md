@@ -22,11 +22,11 @@ The AU Charter on Decentralisation asks that ICT be used so residents can give f
 |---|---|
 | 5 Leading | 6 |
 | 4 Operating | 1 |
-| 3 Established | 1 |
-| 2 Nascent | 27 |
+| 3 Established | 2 |
+| 2 Nascent | 28 |
 | 1 Absent | 0 |
-| Unplaced | 9 |
-| No evidence | 10 |
+| Unplaced | 8 |
+| No evidence | 9 |
 
 ## Countries
 
@@ -77,18 +77,17 @@ A national complaints channel covered services across government in 2024; its re
 
 - The e-Government Authority says e-Mrejesho lets citizens reach all government institutions, transfers a misdirected complaint between institutions and allows appeal to a higher level ([source, 2024-07-05](https://www.ega.go.tz/news/mfumo-wa-e-mrejesho-washinda-tuzo-ya-umoja-wa-mataifa-ya-ubunifu-katika-huduma-za-umma)).
 
+### Benin: 3 Established
+
+The telecoms regulator's complaints channels handled about a hundred cases in 2025; whether a channel reaches across government is not known.
+
+- ARCEP Benin receives complaints through a green line, one-stop counter, email and social networks, and handled about a hundred formal consumer complaints in 2025, 67% found justified, per La Marina ([source, 2025](https://lamarina.bj/2026/06/17/telecoms-comment-larcep-benin-compte-automatiser-la-gestion-des-litiges/)).
+
 ### Uganda: 3 Established
 
 The Auditor General's feedback platform had cases resolved on record in 2025; whether a channel reaches across government is not known.
 
 - GIZ says the Citizen Feedback Platform lets Ugandans report service delivery concerns to the Office of the Auditor General, and that since 2022 2,300 citizens registered on the CMS, CFP and UHRC App, resolving 900 reported cases ([source, 2025-07](https://www.giz.de/sites/default/files/media/pkb-document/2025-09/giz2025-en-gcsp-factsheet_0.pdf)).
-
-### Benin: 2 Nascent
-
-A digital channel for complaints about public services was under way in 2025; one in service is not on record.
-
-- Benin's Treasury (DGTCP) says its Centre d'Ecoute Clients has been in a pilot phase since July 2024, taking complaints by phone, email, web form and a physical counter, with the IT complaints-management system still in production and to be deployed soon ([source, 2025-02-28](https://tresorbenin.bj/actualite/douzieme-edition-du-vendredi-des-reformes-a-la-dgtcp-ce-28-fevrier-2025-1)).
-- The commune of Adjarra launched the Doton mobile app on 14 February 2025 for citizens to file complaints and suggestions about communal services, with status tracking and a dedicated unit in the town hall, but the article gives no count of complaints received ([source, 2025-02-14](https://dpi.africa/fr/doton-une-plateforme-mobile-rapproche-ladministration-des-citoyens/)).
 
 ### Burkina Faso: 2 Nascent
 
@@ -219,6 +218,18 @@ A digital channel for complaints about public services was under way in 2026; on
 
 - The Ministry of Local Government states that the revised Citizens' Assembly guidelines have assembly reports supported by the electronic software e-Citizen Complaints, which is used to receive and solve citizens' complaints online ([source, 2026-06-03](https://www.minaloc.gov.rw/news-detail/citizens-assembly-guidelines-revised)).
 
+### Seychelles: 2 Nascent
+
+The revenue authority opened complaints lines by email and messaging in 2025; one in service with cases on record is not known.
+
+- The Seychelles Revenue Commission introduced a complaints email address and a hotline with WhatsApp for taxpayer feedback on its services, with no case numbers given ([source, 2025-02-18](https://src.gov.sc/src-introduces-dedicated-approach-for-handling-feedback/)).
+
+### Sierra Leone: 2 Nascent
+
+A messaging service for complaints about electricity was launched in 2026; one in service with cases on record is not known.
+
+- DSTI, EDSA and the Ministry of Energy launched the EDSA WhatsApp chatbot for nationwide use, letting citizens report electricity faults with a ticket number per report; no case count is given ([source, 2026-04-03](https://www.linkedin.com/posts/the-directorate-of-science-technology-and-innovation_edsa-whatsapp-chatbot-official-launch-the-activity-7445754881841471488-7rs2)).
+
 ### Sudan: 2 Nascent
 
 A digital channel for complaints about public services was under way in 2025; one in service is not on record.
@@ -286,12 +297,6 @@ A complaints mechanism for oil and gas operations opened in 2026; no channel for
 
 Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
 
-### Seychelles: Unplaced
-
-Nothing found since 2023 names a digital channel for complaints about public services, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether a digital channel for complaints about public services is under way or in service.
-
 ### Somalia: Unplaced
 
 Complaints channels are on record only for World Bank projects, in 2024 and 2026; none for public services is known, so no stage is set.
@@ -353,12 +358,6 @@ Nothing found names a digital channel for complaints about public services or sa
 Not established: Nothing found says whether people can complain about public services online.
 
 ### Sao Tome and Principe: No evidence
-
-Nothing found names a digital channel for complaints about public services or says there is none, so no stage is set.
-
-Not established: Nothing found says whether people can complain about public services online.
-
-### Sierra Leone: No evidence
 
 Nothing found names a digital channel for complaints about public services or says there is none, so no stage is set.
 

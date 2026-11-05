@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-04-gha-chraj-appeals-for-government-support-to-complete-case-management-syste",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "CHRAJ says its Electronic Case Management System, which gives complainants a tracking number, has its rollout stalled for want of a networking consultant.",
+   "as_of": "2025-06-04",
+   "date_precision": "day",
+   "system": "Electronic Case Management System (ECMS)",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic Case Management System (ECMS)",
+   "country_label": "Ghana",
+   "class": "feedback",
+   "platform": "",
+   "owner": "CHRAJ",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

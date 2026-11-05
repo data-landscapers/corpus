@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "feedback",
-      "stage": "2",
-      "channel": "underway",
+      "stage": "3",
+      "channel": "inservice",
       "reach": "",
       "results": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BEN-001;BEN-002",
-      "gaps": "No source found since October 2023 says: is one in service with cases on record.",
-      "note": "The Treasury's complaints centre has been in pilot since July 2024 and Adjarra's Doton app launched in February 2025, a yes to question 1. No case count is held for any channel, so it stops at 2.",
-      "as_at": "2026-11-04"
+      "stage_sources": "BEN-006",
+      "gaps": "No source found since October 2023 says a national channel takes complaints across government, and no resolution rate or case report has been found.",
+      "note": "La Marina reported that ARCEP handled about a hundred formal complaints in 2025, taken by green line, counter, email and social networks, a yes to question 2. Every other channel held is sectoral or local, so it stops at 3.",
+      "as_at": "2026-11-05"
     }
   ]
 }
