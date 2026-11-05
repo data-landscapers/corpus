@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-05
+period: 2026-10-01 to 2026-11-05
 place: GHA
-ledger_rows: 57
+ledger_rows: 59
 not_held: 9
-record: 270d944ca300
+record: 5020539cea8d
 ---
 
 # News, Oct – Nov 2026
@@ -838,6 +838,20 @@ The UN Development Programme gave the Ghana Enterprises Agency 90 laptops. They 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ghana.gov services portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Contract Award: Design, Development, Operations and Maintenance of the eGovernment Digital Services Platform (GH-MOCDTI-535504-NC-RFB), Ghana Digital Acceleration Project P176126](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478518)** — World Bank (procurement notice OP00478518, for the Ministry of Communication, Digital Technology and Innovations, Ghana), 1 November 2026
+
+Awarded 2026-10-21 to C-BRAINS A/S with Omni Strategies, GHS 76,103,721.44; Tata evaluated at GHS 96.1m.
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -1055,6 +1069,20 @@ The University of Ghana secured more than 96,000 Google "Gemini for Education" l
 **[KNUST, Google Strengthen Partnership to Promote AI Integration in Teaching and Learning](https://www.knust.edu.gh/news/news-items/knust-google-strengthen-partnership-promote-ai-integration-teaching-and-learning)** — Kwame Nkrumah University of Science and Technology (University Relations Office), 21 October 2026
 
 Google has given staff and students at Kwame Nkrumah University of Science and Technology 95,000 licences for Gemini and NotebookLM and approved 500 places on professional AI courses. Google said data on Gemini for Education stays within the university's environment and is not used to train its models; a memorandum to formalise the partnership was proposed but not signed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Google DeepMind and Fab AI teacher tools partnership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Empowering Educators and Learners in Sub-Saharan Africa](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/empowering-educators-and-learners-in-sub-saharan-africa-2026/)** — Google, 4 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+Google DeepMind and Fab AI will build open Gemma-based AI tools for teachers in Kenya, Ghana and South Africa, Google announced. Google.org and the Gates Foundation fund the work, which first targets up to 500 teachers and 15,000 students. Google also opened its AI Educator Series in South Africa with SACE.
 
 </div>
 
