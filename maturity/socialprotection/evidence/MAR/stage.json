@@ -1,17 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "socialmis",
-   "stage": "no evidence",
-   "system": "",
-   "payments": "",
-   "integrated": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says how social programmes are administered.",
-   "note": "First pass: counted from the four questions by study-ladder-socialprotection.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "socialmis",
+      "stage": "3",
+      "system": "inservice",
+      "payments": "",
+      "integrated": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-001",
+      "gaps": "No source found says the Direct Social Aid system pays beneficiaries through banks or mobile money, or that one system serves two or more programmes.",
+      "note": "The ANSS annual report, per Le Brief, has the Direct Social Aid programme supporting 3.9 million households at end-2025 on management information systems run by CNSS and CNRA and being migrated to the ANSS. Nothing held says how payments reach beneficiaries, so not 4.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

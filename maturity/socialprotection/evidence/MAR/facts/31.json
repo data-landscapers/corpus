@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-10-mar-anss-un-an-apres-quel-impact-sur-le-soutien-social",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Le Brief reports the ANSS annual report as saying that the Direct Social Aid programme supports 3.9 million households at end-December 2025 and that its management information systems, run transitionally by CNSS and CNRA, are being migrated as-is to the ANSS with full switchover aimed for 2026.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Aides sociales directes (ASD) management information system",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Aides sociales directes (ASD) management information system",
+   "country_label": "Morocco ASD MIS",
+   "class": "socialmis",
+   "platform": "Ministry of Economy and Finance datacenter and a secondary sovereign cloud",
+   "owner": "ANSS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

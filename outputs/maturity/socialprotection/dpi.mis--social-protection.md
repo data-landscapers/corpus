@@ -22,11 +22,11 @@ The African Union's Protocol on Social Protection asks for an integrated social 
 |---|---|
 | 5 Leading | 2 |
 | 4 Operating | 18 |
-| 3 Established | 12 |
+| 3 Established | 13 |
 | 2 Nascent | 3 |
 | 1 Absent | 1 |
 | Unplaced | 6 |
-| No evidence | 12 |
+| No evidence | 11 |
 
 ## Countries
 
@@ -205,6 +205,12 @@ A social programme was run on an information system in 2026; no source found rep
 - A World Bank SASPP policy note says Mauritania's Tekavoul national safety-net programme runs on its own information system (the Tekavoul information system), whose limited interoperability with the Social Registry delayed the beneficiary list renewal, while the programme made quarterly cash transfers to nearly 138,000 households in June 2026 ([source, 2026-06](https://documents1.worldbank.org/curated/en/099229507202629093/pdf/IDU-435478dd-a19c-4ed7-ba75-1aa272bee8b2.pdf)).
 - Taazour's delegate general says it has a digital database of over 1.5 million citizens and an advanced digital platform through which it provides social assistance to beneficiaries ([source, 2024-09-09](https://ami.mr/fr/archives/253780)).
 
+### Morocco: 3 Established
+
+Direct Social Aid households were managed in an information system in 2025; how payments reach them is not known.
+
+- Le Brief reports the ANSS annual report as saying that the Direct Social Aid programme supports 3.9 million households at end-December 2025 and that its management information systems, run transitionally by CNSS and CNRA, are being migrated as-is to the ANSS with full switchover aimed for 2026 ([source, 2025-12](https://www.lebrief.ma/soutien-social-un-an-apres-impact-de-lanss-100155241/)).
+
 ### Rwanda: 3 Established
 
 A social programme was run on an information system in 2024; no source found reports electronic payment from it.
@@ -345,12 +351,6 @@ Nothing found names a social programme management information system or says the
 Not established: Nothing found says how social programmes are administered.
 
 ### Mauritius: No evidence
-
-Nothing found names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing found says how social programmes are administered.
-
-### Morocco: No evidence
 
 Nothing found names a social programme management information system or says there is none, so no stage is set.
 

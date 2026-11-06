@@ -27,3 +27,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-06,SLE,dpi.mis--social-protection,fact,unplaced,4,SLE-003;SLE-004,"Sierraloaded 2024: digitized enrolment of 13,091 aged beneficiaries, paid by Orange Mobile Money; unplaced to 4"
 2026-11-06,SOM,dpi.mis--social-protection,fact,no evidence,4,SOM-001;SOM-002,Baxnaano page 2025: all unconditional cash transfer payments by mobile money; no evidence to 4
 2026-11-06,ZWE,dpi.mis--social-protection,fact,unplaced,4,ZWE-002,"Gemnation 2024: HSCT pays by EcoCash, per the Auditor-General; unplaced to 4"
+2026-11-06,MAR,dpi.mis--social-protection,fact,no evidence,3,MAR-001,"Le Brief on the ANSS 2025 report: Direct Social Aid MIS (CNSS/CNRA, migrating to ANSS) manages 3.9m households at end-2025; no evidence to 3"
