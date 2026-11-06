@@ -38,6 +38,8 @@ status: in force; Corpus-owned
 | `probe_at` | ***Not held*** rows: date the gap was last searched for (§4). Empty on a held row. |
 | `note` | One clause, only for a caveat a reader would otherwise ask for. |
 
+**A duplicate row is folded, never removed.** Move its sources and substance onto the row that stays, set the duplicate's `kind` to `folded` and its `note` to `folded into {row_id}`; `report-render.py` drops it from every document and check I fails a fold that names no live row.
+
 **A row's `published` is a fact about a source, not about the run.** A run that changes no row is normal. `published` also ages a row out of the monthly and progress report.
 
 **But a source naming something the ledger holds nothing on mints a row.** A named system shown to exist and be live opens at `movement: Baseline not held`. Not minting it is the error `documentation/considered-not-carried.md` records: the indicator frame then reports ***No evidence***, true of the ledger and false of the base.

@@ -1048,12 +1048,22 @@ def documents(folder):
             if fn.endswith(".md") and fn not in NOT_A_DOCUMENT]
 
 
+FOLDED = "folded"
+FOLDED_RE = re.compile(r"folded into ([A-Z_]{3}-[a-z0-9.]+-[a-z0-9-]+)")
+
+
+def live(rows):
+    """Drops `kind: folded` rows — a duplicate kept only so its published id still resolves
+    (`report-layer.md` §1). Its position and sources live on the row its `note` names."""
+    return [r for r in rows if (r.get("kind") or "").strip() != FOLDED]
+
+
 def load(unit):
     folder = os.path.join(REPORTS, unit)
     ledger_path = os.path.join(folder, "ledger.csv")
     normalise_ledger(ledger_path, sections(unit)[1])
     return (folder,
-            read_csv(ledger_path),
+            live(read_csv(ledger_path)),
             read_csv(os.path.join(folder, "gaps.csv")))
 
 
@@ -1365,7 +1375,7 @@ def monthly_sources(today):
         path = os.path.join(REPORTS, unit, "ledger.csv")
         if not os.path.exists(path):
             continue
-        for r in moved_in(read_csv(path), start, end):
+        for r in moved_in(live(read_csv(path)), start, end):
             for s in row_sources(r, start, end):
                 if unit not in out[s]:
                     out[s].append(unit)
@@ -1855,6 +1865,14 @@ def check_vocab(unit):
     for r in ledger:
         if stem(r["status"]) == NOT_HELD and r["row_id"] not in gap_ids:
             bad.append(f"{r['row_id']}: Not held, but no gaps.csv line")
+    # A folded row must name the live row that carries its position, or its id resolves nowhere.
+    live_ids = {r["row_id"] for r in ledger}
+    for r in read_csv(os.path.join(REPORTS, unit, "ledger.csv")):
+        if (r.get("kind") or "").strip() != FOLDED:
+            continue
+        m = FOLDED_RE.search(r.get("note") or "")
+        if not m or m.group(1) not in live_ids:
+            bad.append(f"{r['row_id']}: folded, but its note names no live row ('folded into {{row_id}}')")
     for line in bad:
         print("     ", line)
     print(f"check I: {'PASS' if not bad else 'FAIL — ' + str(len(bad)) + ' problem(s)'}")
