@@ -34,3 +34,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-31,TUN,dpi.mis--tax,fact,unplaced,3,TUN-003,"Employer's declaration filed on TEJ by 85,000+ taxpayers by July 2026: online filing; unplaced to 3."
 2026-11-04,CMR,dpi.mis--tax,fact,2,4,CMR-005;CMR-004,"LeFisk, August 2026: returns filed through ATOM and registration duties paid online on registrations.dgi.cm by mobile money; filing and payment online, stage 2 to 4"
 2026-11-04,GIN,dpi.mis--tax,fact,unplaced,4,GIN-004;GIN-003,"We Are Tech, May 2026: the eTax platform serves online filing and online payment of taxes; unplaced to stage 4"
+2026-11-06,BFA,dpi.mis--tax,fact,unplaced,4,BFA-004;BFA-005,"leFaso.net 2026-11-05: eSINTAX JAVA lets taxpayers file and pay taxes remotely; online filing and payment in service, unplaced to 4"

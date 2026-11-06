@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "taxsystem",
-      "stage": "unplaced",
-      "filing": "",
-      "payment": "",
+      "stage": "4",
+      "filing": "inservice",
+      "payment": "electronic",
       "uptake": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether tax returns can be filed online.",
-      "note": "First pass: counted from the four questions by study-ladder-taxadmin.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "BFA-004;BFA-005",
+      "gaps": "No source found since October 2023 says online filing is mandatory for some taxpayers or used for half or more of returns.",
+      "note": "In November 2026 the eSINTAX JAVA portal let taxpayers file and pay taxes remotely. The 2019 obligation for large enterprises to file online is older than three years, so not stage 5.",
+      "as_at": "2026-11-06"
     }
   ]
 }

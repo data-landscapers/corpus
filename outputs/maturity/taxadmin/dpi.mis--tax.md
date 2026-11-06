@@ -21,11 +21,11 @@ TADAT asks for electronic filing and payment of all core taxes, filing mandatory
 | Stage | Countries |
 |---|---|
 | 5 Leading | 5 |
-| 4 Operating | 19 |
+| 4 Operating | 20 |
 | 3 Established | 10 |
 | 2 Nascent | 10 |
 | 1 Absent | 0 |
-| Unplaced | 7 |
+| Unplaced | 6 |
 | No evidence | 3 |
 
 ## Countries
@@ -68,6 +68,13 @@ Online filing was mandatory or used by most taxpayers in 2025.
 Taxes could be filed online and paid electronically in 2024; no source found reports mandatory or majority online filing.
 
 - The Direction générale des impôts describes the e-services portal as a portal for online declaration and payment (télépaiement) of taxes, with land taxes payable online, since 23 May 2024 ([source, 2024-05-23](https://www.digitalbusiness.africa/le-benin-permet-desormais-aux-contribuables-et-aux-particuliers-de-declarer-et-de-payer-leurs-impots-en-ligne/)).
+
+### Burkina Faso: 4 Operating
+
+Taxes could be filed online and paid electronically in 2026; no source found reports mandatory or majority online filing.
+
+- leFaso.net says eSINTAX JAVA, the DGI's tax-procedures portal, lets taxpayers remotely make their tax declarations ([source, 2026-11-04](https://lefaso.net/spip.php?article150547)).
+- leFaso.net says eSINTAX JAVA, the DGI's tax-procedures portal, lets taxpayers remotely make their tax payments ([source, 2026-11-04](https://lefaso.net/spip.php?article150547)).
 
 ### Cameroon: 4 Operating
 
@@ -317,12 +324,6 @@ An electronic tax system was under way in 2026; online filing is not on record.
 An electronic tax system was under way in 2026; online filing is not on record.
 
 - The Ultimate Post reports URA awarded an e-tax2 electronic tax software supply, installation and operationalization contract (80bn, 10-year) to a joint venture, meant to digitise tax administration, with the rollout late by 4 years and the contractor yet to start work ([source, 2026-07-29](https://ultimatepost.dantty.com/post/10745)).
-
-### Burkina Faso: Unplaced
-
-Nothing found since 2023 names online tax filing and payment, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether tax returns can be filed online.
 
 ### Cote d'Ivoire: Unplaced
 
