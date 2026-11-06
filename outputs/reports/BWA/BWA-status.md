@@ -108,7 +108,7 @@ Botswana's signing year has been with neighbours, Gulf partners and China rather
 The largest agreement by value is not a financing instrument at all. The government and India's KP Group [signed a memorandum of understanding on 17 December 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68fb6ae-1ae1-40de-aff6-4f7102522673.pdf) to develop renewable generation, storage and transmission, an investment the Indian side put to its stock exchange at INR 360 billion, at a capacity it envisaged at around 5GW.
 
 <!-- derived -->
-Only three external commitments to Botswana's digital estate are on record, spanning 2015 to 2030 and worth about USD 9 million together; the KP Group memorandum is an energy agreement and is not among them (October 2026).
+In all, 35 external commitments to Botswana's digital estate are on record, starting between 2015 and 2024 with windows running to 2030, and worth about USD 16 million together (November 2026). Two are active, one approved and one completed, and 31 carry no recorded status; the KP Group memorandum is an energy agreement and is not among them.
 
 ### New investments
 <!-- finance.new -->
@@ -118,10 +118,10 @@ The World Bank's Renewable Energy Support and Access project, P181221, worth abo
 Alongside it the European Union runs a [EUR 1.5 million grant for digital transformation in Botswana running to 2030](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2022-ACT-60893), of which EUR 1.4 million is a Cooperation Facility aimed at the capacity of government institutions — dialogue, expertise exchange and civil society engagement rather than systems (2022); the source does not say how much of the grant is digital.
 
 <!-- derived -->
-Three financiers appear in the record of Botswana's digital estate, one commitment apiece: Orange Botswana, investing its own money, and the European Union and the Government of China, through grants (October 2026).
+Seventeen financiers appear in the record of Botswana's digital estate, all through grants except Orange Botswana, which invests its own money (November 2026). Counted by number rather than by value, Korean public bodies outside KOICA lead with six small grants, ahead of USAID with five.
 
 <!-- derived -->
-The largest of the three is Orange Botswana's USD 5 million Tier III data centre; the rest is the European Union's policy grant and an eleven-year-old Chinese equipment donation (October 2026).
+The largest single commitment is Orange Botswana's USD 5 million Tier III data centre, followed by a USD 3 million Chinese donation of video-conferencing equipment in 2015 (November 2026).
 
 The domestic programme is where the digital money is. Finance Minister Ndaba Gaolathe [sought P8.83 billion for the Public Investment Programme under NDP 12](https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/) on 31 October 2025, P2.07 billion of it to finish existing projects and P6.76 billion for new ones under the Botswana Economic Transformation Programme; the [largest single institutional share goes to revenue collection](https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/) and the [national payment switch sits in a P486 million ICT allocation alongside an accounting and budgeting system upgrade and a fintech sandbox](https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/).
 
@@ -221,7 +221,7 @@ Compulsion is broad, and the exclusions follow from it. [SIM-card registration i
 
 [Substituted regulation 22 of Botswana's 2026 electronic payment rules requires an e-money issuer to ring-fence the interest on its settlement account](https://www.bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf). [It may be withdrawn only to pay interest on customers' balances and for account maintenance](https://www.bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf). [The previous rules had required that interest to go to account maintenance and the promotion of financial inclusion](https://www.mmegi.bw/business/bob-electronic-money-regulations-gather-pace/news). [The Bank may now direct how it is distributed, against a monthly return](https://www.bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf).
 
-[Statutory Instrument No. 46 of 2026, published on 2 April 2026, brings money or value transfer services inside the licensing perimeter](https://www.bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf). [These accept cash or other value for payment to a beneficiary at home or abroad](https://www.bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf). [The Bank gains investigation powers over suspected unlicensed operation, and fit-and-proper testing extends to beneficial owners and 10 per cent shareholders](https://www.bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf). [Operating without a licence carries P1,000,000 and/or five years' imprisonment](https://www.bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf).
+[Statutory Instrument No. 46 of 2026, published on 2 April 2026, brings money or value transfer services inside the licensing perimeter](https://www.bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf). [These accept cash or other value for payment to a beneficiary at home or abroad](https://www.bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf). [The Bank gains investigation powers over suspected unlicensed operation, and fit-and-proper testing extends to beneficial owners and 10 per cent shareholders](https://www.bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf) (April 2026). [Operating without a licence carries P1,000,000 and/or five years' imprisonment](https://www.bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf).
 
 <!-- derived -->
 The amended regulations had been in force for three and a half months before the Bank of Botswana announced their implementation.
@@ -449,7 +449,7 @@ Gulf involvement in Botswana's compute is separate from all of this and predates
 <!-- geopol.india -->
 
 <!-- derived -->
-India's KP Group is not among the three financiers on the record of Botswana's digital estate — Orange Botswana, the European Union and the Government of China — because its memorandum is an energy agreement (October 2026).
+India's KP Group is not among the 17 financiers on the record of Botswana's digital estate, because its memorandum is an energy agreement (November 2026).
 
 KP Group's is the memorandum. The Government of Botswana and the Indian group [signed it in an announcement of 17 December 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68fb6ae-1ae1-40de-aff6-4f7102522673.pdf) to collaborate on large-scale renewable generation, storage and transmission capacity, in what is the largest single external commitment on record for Botswana's energy and digital estate.
 
