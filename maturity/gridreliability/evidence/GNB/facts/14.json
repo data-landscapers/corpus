@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-01-gnb-a-politica-nacional-de-energia-da-guine-bissau-responde-a-ambicao-de-t",
+ "facts": [
+  {
+   "sub_indicator": "outages",
+   "aspect": "outages",
+   "value": "utility:27",
+   "fact": "Guinea-Bissau's Director-General of Energy writes that interruptions per day of the utility EAGB fell to 0.9 in 2025, about 27 a month at 30 days.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "EAGB",
+   "class": "grid"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,3 +1,4 @@
 iso3,n,aspect,value,action,why
 GMB,001,outages,utility:4,revalued: utility:6,"NAWEC's operating officer gave a range of two to six blackouts a month; the drafter took the midpoint, which the source does not state. The top of the range is taken."
 GNQ,001,outages,survey:0.9,removed,"The survey's country profile prints 0.9 for the 2024 survey whose held series figure is 1.02; the series figure stands and the rounded print is not a second figure."
+GNB,002,outages,utility:27,removed,"Stage 4c 2026-11-06: the Director-General of Energy gives EAGB interruptions per day (0.9 in 2025), not per customer a year; the drafter's 27 a month is a conversion the source does not state and the aspect does not admit."

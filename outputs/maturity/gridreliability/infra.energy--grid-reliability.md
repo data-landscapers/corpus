@@ -20,9 +20,9 @@ The African Union's single electricity market and Continental Power System Maste
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
+| 5 Leading | 7 |
 | 4 Operating | 11 |
-| 3 Established | 12 |
+| 3 Established | 11 |
 | 2 Nascent | 11 |
 | 1 Absent | 8 |
 | Unplaced | 0 |
@@ -35,6 +35,12 @@ The African Union's single electricity market and Continental Power System Maste
 In 2024 the power went off 0.75 times a month, as reported by firms surveyed by the World Bank.
 
 - Firms in Cape Verde reported 0.75 power outages in a typical month in the World Bank's 2024 Enterprise Survey ([source, 2024](https://www.enterprisesurveys.org/en/data)).
+
+### Egypt: 5 Leading
+
+In 2026 the power went off 0.11 times a month, as reported by the utility or regulator.
+
+- Egypt's Ministry of Electricity reports an average of 1.3 interruptions per subscriber in FY2025-26 across distribution companies, about 0.11 a month ([source, 2026](https://newdemo.elwatannews.com/news/details/8360120)).
 
 ### Morocco: 5 Leading
 
@@ -149,12 +155,6 @@ In 2023 the power went off 2.38 times a month, as reported by firms surveyed by 
 In 2023 the power went off 3.67 times a month, as reported by firms surveyed by the World Bank.
 
 - Firms in Cote d'Ivoire reported 3.67 power outages in a typical month in the World Bank's 2023 Enterprise Survey ([source, 2023](https://www.enterprisesurveys.org/en/data)).
-
-### Egypt: 3 Established
-
-In 2025 the power went off 4.16 times a month, as reported by firms surveyed by the World Bank.
-
-- Firms in Egypt reported 4.16 power outages in a typical month in the World Bank's 2025 Enterprise Survey ([source, 2025](https://www.enterprisesurveys.org/en/data)).
 
 ### Ghana: 3 Established
 
