@@ -1,12 +1,12 @@
 ---
 title: Cape Verde: status report
-compiled: 2026-11-04
+compiled: 2026-11-06
 place: CPV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 9
-sources_cited: 227
+sources_cited: 228
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -135,7 +135,7 @@ There is no commercial alternative within reach — [the nearest hyperscale clou
 ### Energy
 <!-- infra.energy -->
 
-[Firms reported an average of 0.8 electrical outages a month, about ten a year, in the World Bank's 2024 Enterprise Survey](https://espanol.enterprisesurveys.org/content/dam/enterprisesurveys/documents/country/Cabo-Verde-2024.pdf) — on a grid that reached [98.6 per cent of the population in 2023](https://www.theglobaleconomy.com/Cape-Verde/Access_to_electricity/), with a [rural-urban gap under three percentage points: 96.9 per cent of the rural population against about 99.4 per cent of the urban (2023)](https://tradingeconomics.com/cape-verde/access-to-electricity-rural-percent-of-rural-population-wb-data.html). [Access to Energy is the country's strongest infrastructure measure in the 2024 Ibrahim Index at 89.2 of 100 in 2023, 8th of 54 African states after a ten-year gain of 9.7 points](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cv.pdf).
+[Firms reported an average of 0.8 electrical outages a month, about ten a year, in the World Bank's 2024 Enterprise Survey](https://espanol.enterprisesurveys.org/content/dam/enterprisesurveys/documents/country/Cabo-Verde-2024.pdf) — on a grid that reached [98.6 per cent of the population in 2023](https://www.theglobaleconomy.com/Cape-Verde/Access_to_electricity/), with a [rural-urban gap under three percentage points: 96.9 per cent of the rural population against about 99.4 per cent of the urban (2023)](https://tradingeconomics.com/cape-verde/access-to-electricity-rural-percent-of-rural-population-wb-data.html). [Access to Energy is the country's strongest infrastructure measure in the 2024 Ibrahim Index at 89.2 of 100 in 2023, 8th of 54 African states after a ten-year gain of 9.7 points](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cv.pdf). [The utility's own indicators for January to September 2023 put average interruption time at 15.3 hours a customer in the north and 71.0 hours in the south](https://www.anacao.cv/noticia/2024/01/17/so-em-2023-electra-atingiu-perdas-de-246-na-producao-de-energia/).
 
 Generation is the weaker half of the account. [Renewables supplied 18.27 per cent of electricity output in 2021](https://data.worldbank.org/indicator/EG.ELC.RNEW.ZS?locations=CV) on an archipelago with no fuel of its own. [Four micro-grid contracts were signed in April 2025 to serve isolated communities on Santo Antão, São Nicolau and Fogo](https://www.governo.cv/acesso-a-energia-novos-projetos-sustentaveis-para-localidades-isoladas-com-assinatura-de-contratos-para-micro-redes/).
 
