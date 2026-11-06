@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-24-gab-gabon-digital-interview-notre-ambition-est-de-faire-de-libreville-la-capitale-af",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "The digital economy minister says that under Gabon Fiber, with SPIN and Gabon Telecom, 196 km of fibre has been developed and Lambaréné, Fougamou and Mouila in Ngounie province have recently been connected to the network.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Gabon Fiber",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Gabon Fiber",
+   "country_label": "Gabon",
+   "class": "backbone",
+   "platform": "optical fibre",
+   "owner": "SPIN and Gabon Telecom with the ministry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
