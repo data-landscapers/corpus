@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-17-crs-301-20240105520002-2024-ai4d-fcdo-innovation-scaling-and-sustaining-ai-sol",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The document says the IDRC-supported maternal, sexual and reproductive health AI hub funded development of a tool for predicting miscarriages among women in Uganda.",
+   "as_of": "2024-10-17",
+   "date_precision": "day",
+   "system": "Tool for predicting miscarriages (Uganda)",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Tool for predicting miscarriages (Uganda)",
+   "country_label": "Uganda",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Hub for AI in Maternal, Sexual and Reproductive Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
