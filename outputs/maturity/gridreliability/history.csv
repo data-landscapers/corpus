@@ -1,0 +1,2 @@
+date,iso3,indicator_id,kind,from,to,sources,note
+2026-11-06,CMR,infra.energy--grid-reliability,fact,1,2,CMR-003,"ARSEL's 2025 annual report gives 64.04 interruptions per customer, 5.34 a month (CMR-003), in place of the 2024 Enterprise Survey's 10.65; stage 1 -> 2."

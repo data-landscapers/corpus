@@ -23,8 +23,8 @@ The African Union's single electricity market and Continental Power System Maste
 | 5 Leading | 6 |
 | 4 Operating | 11 |
 | 3 Established | 12 |
-| 2 Nascent | 10 |
-| 1 Absent | 9 |
+| 2 Nascent | 11 |
+| 1 Absent | 8 |
 | Unplaced | 0 |
 | No evidence | 6 |
 
@@ -222,6 +222,12 @@ In 2025 the power went off 5.69 times a month, as reported by firms surveyed by 
 
 - Firms in Burundi reported 5.69 power outages in a typical month in the World Bank's 2025 Enterprise Survey ([source, 2025](https://www.enterprisesurveys.org/en/data)).
 
+### Cameroon: 2 Nascent
+
+In 2025 the power went off 5.34 times a month, by the regulator's annual figure; the operator's count is far lower.
+
+- ARSEL's 2025 annual report, as quoted by EcoMatin, puts the average at 64.04 interruptions per customer in 2025 (53.30 in 2024), which is 5.34 a month ([source, 2025](https://ecomatin.net/cameroun-coupures-delectricite-126-heures-par-client-en-2025-selon-larsel-46-heures-selon-socadel)).
+
 ### Congo: 2 Nascent
 
 In 2024 the power went off 8.67 times a month, as reported by firms surveyed by the World Bank.
@@ -263,12 +269,6 @@ In 2025 the power went off 6.07 times a month, as reported by firms surveyed by 
 In 2025 the power went off 6.03 times a month, as reported by firms surveyed by the World Bank.
 
 - Firms in Sao Tome and Principe reported 6.03 power outages in a typical month in the World Bank's 2025 Enterprise Survey ([source, 2025](https://www.enterprisesurveys.org/en/data)).
-
-### Cameroon: 1 Absent
-
-In 2024 the power went off 10.65 times a month, as reported by firms surveyed by the World Bank.
-
-- Firms in Cameroon reported 10.65 power outages in a typical month in the World Bank's 2024 Enterprise Survey ([source, 2024](https://www.enterprisesurveys.org/en/data)).
 
 ### Central African Republic: 1 Absent
 

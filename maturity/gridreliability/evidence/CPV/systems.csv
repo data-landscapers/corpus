@@ -1,2 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 CPV,"Sistema de despacho nacional (SCADA, Centro Nacional de Despacho, Praia)","Santiago, Sao Vicente and Sal integrated; Boa Vista first phase done, second phase pending (no outage figure)",other,SCADA,"Ministry of Industry, Commerce and Energy",,2026-01-09-cabo-verde-boa-vista-modernizacao-rede-eletrica-scada
+CPV,"Electra Norte SAIFI, January-September 2023","10.6 interruptions (0.88 a month), Electra Norte only",other,,Electra,region,2024-01-17-cpv-so-em-2023-electra-atingiu-perdas-de-24-6-na-producao-de-energia
+CPV,"Electra Sul SAIFI, January-September 2023","28.8 interruptions (2.40 a month), Electra Sul only",other,,Electra,region,2024-01-17-cpv-so-em-2023-electra-atingiu-perdas-de-24-6-na-producao-de-energia

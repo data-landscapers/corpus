@@ -1,2 +1,3 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MUS,CEB severe yellow alert,"Record 540 MW demand peak on 25 March 2026 with two engines out (Nicolay, Champagne); no power cuts planned",other,,Central Electricity Board,,2026-03-26-newsmoris-ceb-severe-yellow-alert
+MUS,CEB SAIFI 2025 by region,"North 1.02, Centre 2.40, South 1.19 interruptions per customer a year",other,,Central Electricity Board,region,2025-01-01-mus-kpi-reliability-of-supply

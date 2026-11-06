@@ -1,2 +1,2 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CMR,outages,outages,coverage,survey:10.65,2024,CMR-002,CMR-001=survey:7.72,
+CMR,outages,outages,coverage,utility:5.34,2025,CMR-003,CMR-004=utility:4.95;CMR-005=utility:1.26;CMR-002=survey:10.65;CMR-001=survey:7.72,
