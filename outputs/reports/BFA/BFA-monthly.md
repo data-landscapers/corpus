@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: BFA
-ledger_rows: 37
+ledger_rows: 38
 not_held: 6
-record: 58726677e771
+record: c0d8fed1c449
 ---
 
 # News, Oct – Nov 2026
@@ -595,8 +595,26 @@ Summarised under [Innovation ecosystem](#innovation-ecosystem).
 ## Capacity
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#training-and-skills">Training and skills</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#research-institutions">Research institutions</a>
 </nav>
+
+### Training and skills
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public-finance training programme (DISMEFIP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina/Économie : La DGI renforce les capacités de ses agents pour accélérer sa digitalisation](https://lefaso.net/spip.php?article150547)** — leFaso.net, 5 November 2026
+
+Burkina Faso's tax directorate began training more than 400 agents on 4 November 2026 in three digital systems: e-filing, certified e-invoicing and the online cadastre. Sessions are held in four cities. The DISMEFIP project, co-funded by Swiss cooperation and the government, pays for it.
+
+</div>
+
+</div>
 
 ### Research institutions
 
