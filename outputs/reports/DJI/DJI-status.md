@@ -1,6 +1,6 @@
 ---
 title: Djibouti: status report
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: DJI
 region: XEA
 built_by: STATUS-INIT
@@ -121,7 +121,7 @@ Across the record as a whole the financing arrives as debt rather than grant: si
 <!-- derived -->
 Five of the twelve digital commitments on Djibouti's record were active as at November 2026, worth about US$64 million; four had closed, one stood at pipeline stage and two carry no recorded status.
 
-Of the live World Bank operations, the [Integrated Community Resilience Project](https://projects.worldbank.org/en/projects-operations/project-detail/P506969) is an SDR 23.8 million grant (about US$31 million) approved in March 2025. [The project](https://projects.worldbank.org/en/projects-operations/project-detail/P506969) is a safety-nets operation, with an ANSIE interoperability upgrade for the Social Registry as one element. The [Economic and Financial Governance Project](https://projects.worldbank.org/en/projects-operations/project-detail/P180696) lends US$20 million over 2025 to 2030 for tax administration and financial management systems. The [Digital Foundations Project](https://documents1.worldbank.org/curated/en/099021026071059349/pdf/P174461-c8bd0e28-2653-456e-845a-f8242ec8facc.pdf) carries US$10 million to open ICT to competition.
+Of the live World Bank operations, the [Integrated Community Resilience Project](https://projects.worldbank.org/en/projects-operations/project-detail/P506969) is an SDR 23.8 million grant (about US$31 million) approved in March 2025. [The project](https://projects.worldbank.org/en/projects-operations/project-detail/P506969) is a safety-nets operation, with an ANSIE interoperability upgrade for the Social Registry as one element. The [Economic and Financial Governance Project](https://projects.worldbank.org/en/projects-operations/project-detail/P180696) lends US$20 million over 2025 to 2030 for tax administration and financial management systems. The [Digital Foundations Project](https://documents1.worldbank.org/curated/en/099021026071059349/pdf/P174461-c8bd0e28-2653-456e-845a-f8242ec8facc.pdf) carries US$10 million to open ICT to competition (February 2026).
 
 <!-- derived -->
 The World Bank holds four of the twelve commitments and about US$58 million, roughly a third of all committed finance once the unclosed memorandum is set aside; the Islamic Development Bank follows with two submarine-cable loans worth about US$56 million (as at November 2026).
