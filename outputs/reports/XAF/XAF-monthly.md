@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: XAF
-ledger_rows: 57
+ledger_rows: 59
 not_held: 3
-record: ff9d43cbebff
+record: 0f0137342be0
 ---
 
 # News, Oct – Nov 2026
@@ -81,6 +81,22 @@ AU member states validated the African Continental Health Data Governance Framew
 **[AFRINIC Elections 2026 - Select the next PDP Co-Chair](https://elections.afrinic.net/)** — AFRINIC, 1 October 2026
 
 AFRINIC opened candidate registration for one of its two policy development co-chair seats, closing on 29 October. The seat will be filled at the public policy meeting on 18 November.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[AFRINIC Official Statement on the Inclusion of Cloud Innovation Limited in the Register of Members, Mauritius](https://afrinic.net/afrinic-official-statement-on-the-inclusion-of-cloud-innovation-limited-in-the-register-of-members.html)** — AFRINIC, 31 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a>
+
+AFRINIC's receiver served a notice on Mauritius's Registrar of Companies on 29 October 2026, demanding that Cloud Innovation be removed from AFRINIC's register of members. AFRINIC relies on a Supreme Court ruling of 19 June 2025. Cloud Innovation cites an order of 11 June 2025 to include it as a member.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Our four steps against AFRINIC’s Receiver](https://cloudinnovation.org/newsroom/afrinic-receiver-conduct-steps/)** — Cloud Innovation Ltd, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a>
+
+CIL to seek Receiver's removal, file insolvency complaint and ask PM for Companies Act probe of 2,000 omitted members.
 
 </div>
 
@@ -544,6 +560,20 @@ Airtel Africa reported results for the half year to 30 September 2026. Its custo
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Helios Towers tenancies and sites</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Helios Towers Raises 2026 Guidance After Record Tenancy Additions Across Africa and Middle East](https://techafricanews.com/2026/11/05/helios-towers-raises-2026-guidance-after-record-tenancy-additions/)** — Tech Africa News, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a>
+
+Nine-month 2026 revenue US$718.8m, up 13%; 35,379 tenancies on 15,688 sites; about 4,000 additions guided for 2026.
+
+</div>
+
+</div>
+
 ### Cybersecurity
 
 <div class="monthly-story" markdown="1">
@@ -827,6 +857,20 @@ Chainalysis reported on 29 October 2026 that Sub-Saharan Africa's crypto economy
 **[Afreximbank Expands AfPAY Push to Close Africa’s Payment Gap](https://newsghana.com.gh/afreximbank-expands-afpay-push-to-close-africas-payment-gap/)** — News Ghana, 1 November 2026
 
 Afreximbank is running roadshows across Africa, including in Abidjan and Harare. They promote its AfPAY trade settlement service and its direct access to China's CIPS renminbi clearing system. AfPAY links more than 400 banks and settled US$32 billion of trade in 2024.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Financial institutions connected to PAPSS, on the Deloitte-AFIS barometer</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AFIS 2026: Inside Africa’s quest to turn $4trn savings into real economy investment](https://businessday.ng/news/article/afis-2026-inside-africas-quest-to-turn-4trn-savings-into-real-economy-investment/)** — Businessday NG, 4 November 2026
+
+Deloitte-AFIS barometer: 11% of institutions on PAPSS, 45% no plans to join; 7% see tangible AfCFTA progress.
 
 </div>
 
