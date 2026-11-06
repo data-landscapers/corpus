@@ -1,17 +1,18 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "no evidence",
-   "exchange": "",
-   "registry": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names social protection systems exchanging data, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "2",
+      "exchange": "underway",
+      "registry": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-001",
+      "gaps": "No source from the last three years says a safety-net programme's MIS exchanges data with a payment provider or the ID in use; the World Bank calls direct MIS-to-payment integration a plan. Nothing found on a shared registry or a link to the ID.",
+      "note": "In March 2024 the government was piloting safety-net payments through Telebirr in two regions, with World Bank support, so a link to a payment provider is piloted. Direct integration of the programme MIS with payment platforms is only planned, so not 3.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

@@ -11,3 +11,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-29,SEN,dpi.exchange--interoperability-of-social-protection-systems,fact,3,3,SEN-005,"PINS X-Road pilot (Jan 2026) linking RNU to ID, civil status and CMU: underway, stage stays 3"
 2026-11-05,CMR,dpi.exchange--interoperability-of-social-protection-systems,fact,2,3,CMR-003,Arrivals added CMR-003: the health ministry's platform links universal health coverage enrolment and billing in use; stage 2 -> 3.
 2026-11-06,SOM,dpi.exchange--interoperability-of-social-protection-systems,fact,no evidence,3,SOM-001,"Baxnaano page: the unconditional cash transfer selects households from the Unified Social Registry; an exchange in service, stage 3"
+2026-11-06,ETH,dpi.exchange--interoperability-of-social-protection-systems,fact,no evidence,2,ETH-001,"World Bank (March 2024): government pilot of safety-net payments through Telebirr in two regions; payment link piloted, no evidence to 2"

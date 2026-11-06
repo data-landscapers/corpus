@@ -23,10 +23,10 @@ The African Union's Protocol on Social Protection asks for a social protection i
 | 5 Leading | 2 |
 | 4 Operating | 15 |
 | 3 Established | 11 |
-| 2 Nascent | 15 |
+| 2 Nascent | 16 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
-| No evidence | 10 |
+| No evidence | 9 |
 
 ## Countries
 
@@ -257,6 +257,12 @@ A link between social protection systems was under way in 2025; none in service 
 
 - The World Bank project information document says the Imbeleko registry will be financed with an MIS with interoperability mechanisms, and that registry data will target beneficiaries of the project's youth income component, starting with Shiselweni's first cycle ([source, 2025-03-15](https://documents1.worldbank.org/curated/en/099031525010023201/pdf/P507360-3e4a9889-8b21-4fe3-a3f0-ed133ffbd8ff.pdf)).
 
+### Ethiopia: 2 Nascent
+
+The government was piloting safety-net payments through mobile money in 2024; a data exchange in use is not known.
+
+- The World Bank says it is supporting a Government of Ethiopia pilot of electronic safety-net payments through the Telebirr mobile money service in two selected regions ([source, 2024-03](https://blogs.worldbank.org/en/nasikiliza/leveraging-e-payments-financial-inclusion-ethiopia-afe-0324)).
+
 ### Gabon: 2 Nascent
 
 A link between social protection systems was under way in 2026; none in service is on record.
@@ -338,12 +344,6 @@ Nothing found names social protection systems exchanging data or says there is n
 Not established: Nothing found names social protection systems exchanging data, or says there is none.
 
 ### Eritrea: No evidence
-
-Nothing found names social protection systems exchanging data or says there is none, so no stage is set.
-
-Not established: Nothing found names social protection systems exchanging data, or says there is none.
-
-### Ethiopia: No evidence
 
 Nothing found names social protection systems exchanging data or says there is none, so no stage is set.
 

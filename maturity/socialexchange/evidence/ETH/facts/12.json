@@ -1,0 +1,34 @@
+{
+ "slug": "2024-03-15-eth-leveraging-e-payments-for-financial-inclusion-in-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The World Bank says it is supporting a Government of Ethiopia pilot of electronic safety-net payments through the Telebirr mobile money service in two selected regions.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Productive Safety Net Program electronic payments",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Productive Safety Net Program (PSNP)",
+   "country_label": "PSNP",
+   "class": "other",
+   "platform": "bank accounts; Telebirr pilot",
+   "owner": "Government of Ethiopia",
+   "tiers": ""
+  },
+  {
+   "system": "Urban Productive Safety Net and Jobs Program (UPSNJP)",
+   "country_label": "UPSNJP",
+   "class": "other",
+   "platform": "bank accounts",
+   "owner": "Government of Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
