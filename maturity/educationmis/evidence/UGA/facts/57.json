@@ -1,0 +1,15 @@
+{
+ "slug": "2023-12-18-crs-301-20230103130002-2023-empowering-districts-and-schools-with-data-a-digit",
+ "facts": [],
+ "systems": [
+  {
+   "system": "District Health Information System adapted for education (DHIS2)",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "University of Oslo (research implementer)",
+   "tiers": ""
+  }
+ ],
+ "note": "Research grant says the platform was tried in Uganda; no ministry system, school records or exchange stated."
+}
