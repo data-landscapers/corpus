@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: MAR
-ledger_rows: 21
+ledger_rows: 22
 not_held: 14
-record: 4cdd1ba130a5
+record: 35b3101e4dbe
 ---
 
 # News, Oct – Nov 2026
@@ -252,6 +252,20 @@ Morocco's draft 2027 finance bill includes MAD 1.34 billion for digital sovereig
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Direct social support (ASD) transfer payments</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital payment: The failed revolution against the reign of cash](https://telquel.ma/2026/10/02/digital-payment-the-failed-revolution-against-the-reign-of-cash_2008499)** — TelQuel, 2 October 2026
+
+Social aid cashed out within hours; 13.8m payment accounts at end-2024; cash costs about 0.3% of GDP (2023).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Memorandum with the UAE central bank on interlinking payment systems</p>
 
 <div class="bulletin-item" markdown="1">
@@ -361,6 +375,22 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 **[وزير العدل يستعرض بمجلس النواب أولويات إصلاح منظومة العدالة ويؤكد التلازم بين مكافحة الفساد وحماية الحقوق والحريات](https://justice.gov.ma/2026/11/03/16889/)** — Ministère de la Justice (Maroc), 3 November 2026
 
 Morocco's justice minister told parliament on 2 November 2026 that about MAD 2.5 billion is needed to finish digitising the courts. He named the electronic case file, digital notification and an enforcement platform among the priorities.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ouahbi : 8 millions de dossiers judiciaires répertoriés en trois ans](https://fr.hespress.com/495109-ouahbi-8-millions-de-dossiers-judiciaires-repertories-en-trois-ans.html)** — Hespress FR, 4 November 2026
+
+2027 budget hearing, 4 Nov 2026; 8m of 160m files indexed; public body, not private firm, for sensitive court data.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[وهبي يهاجم البنوك بسبب رفض اعتماد الأداء الإلكتروني للمستحقات القضائية](https://www.hespress.com/%d9%88%d9%87%d8%a8%d9%8a-%d9%8a%d9%87%d8%a7%d8%ac%d9%85-%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83-%d8%a8%d8%b3%d8%a8%d8%a8-%d8%b1%d9%81%d8%b6-%d8%a7%d8%b9%d8%aa%d9%85%d8%a7%d8%af-%d8%a7%d9%84%d8%a3%d8%af-1834575.html)** — Hespress, 4 November 2026
+
+Most banks refused court-fee e-payment via CDG; national enforcement platform live; Cassation Court still paper.
 
 </div>
 
