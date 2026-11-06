@@ -244,7 +244,7 @@ In 2025 the power went off 6.63 times a month, as reported by firms surveyed by 
 
 In 2026 the power went off 6 times a month, as reported by the utility or regulator.
 
-- NAWEC's Chief Operating Officer for Electricity said current records show an average of between two and six blackouts a month (the top of the range, 6, is taken), against nearly 100 a month before 2017; the document is dated 2026-06-04 and gives no other date ([source, 2026-06](https://standard.gm/nawec-blames-maintenance-challenges-for-worst-power-outages1/)).
+- NAWEC's electricity chief operating officer said records show two to six blackouts a month, against nearly 100 before 2017 (6 is taken); the document, dated 2026-06-04, gives no other date ([source, 2026-06](https://standard.gm/nawec-blames-maintenance-challenges-for-worst-power-outages1/)).
 
 ### Liberia: 2 Nascent
 

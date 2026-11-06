@@ -49,6 +49,12 @@ def times(n: float) -> str:
     return f"{n:g} outage" + ("" if n == 1 else "s")
 
 
+def described(label: str) -> str:
+    """A drafter's description, its semicolon clauses made sentences."""
+    clauses = [c.strip() for c in label.strip().rstrip(".").split("; ") if c.strip()]
+    return ". ".join(c[0].upper() + c[1:] for c in clauses)
+
+
 def listed(parts: list[str]) -> str:
     return parts[0] if len(parts) == 1 else ", ".join(parts[:-1]) + " and " + parts[-1]
 
@@ -62,7 +68,7 @@ def paragraph(name: str, country: str, rows: list[dict], best: dict, field: list
         out.append(f"Firms in {country} reported {link(url, f'{times(figure)} in a typical month')} "
                    f"in {SURVEY} for {year}.")
     else:
-        out.append(link(url, best["fact"].rstrip(".")) + f"; that is {times(figure)} a month.")
+        out.append(link(url, best["fact"].rstrip(".")) + f". That is {times(figure)} a month.")
     series = sorted((r for r in rows if r["source_slug"].startswith("ref:")
                      and r["row_id"] != best["row_id"]), key=lambda r: r["as_of"])
     if series:
@@ -79,25 +85,25 @@ def paragraph(name: str, country: str, rows: list[dict], best: dict, field: list
         out.append("No earlier survey has been found, so no source found says whether outages are rising or falling.")
     if best["value"].startswith("survey:"):
         out.append("The survey asks firms how many power outages they had in a typical month and "
-                   "averages their answers; it says nothing of how long each outage lasted, and it "
+                   "averages their answers. It says nothing of how long each outage lasted. It "
                    "counts the outages firms report, not how many people the grid reaches.")
     elif "SAIFI" not in best["fact"]:
-        out.append("The figure is the utility's own count of blackouts, stated in public, and is "
+        out.append("The figure is the utility's own count of blackouts, stated in public. It is "
                    "used in place of the survey because it is the utility's and is newer.")
     else:
         out.append("An interruption frequency counts how many times in a year the average "
-                   "customer's supply was cut; divided by 12 it gives the outages in a month, the "
+                   "customer's supply was cut. Divided by 12, it gives the outages in a month, the "
                    "figure this study's lines are drawn on.")
     cleared = [w for line, w in LINES if figure <= line]
     ahead = [(line, w) for line, w in LINES if figure > line]
     lines = "The study's lines are ten, five, two and one outage a month"
     if not cleared:
-        out.append(f"{lines}; at more than ten, {country} is above all four, by {figure - 10:.1f}.")
+        out.append(f"{lines}. At more than ten, {country} is above all four, by {figure - 10:.1f}.")
     elif ahead:
-        out.append(f"{lines}; {country} is within {cleared[-1]} a month and {figure - ahead[0][0]:.1f} "
+        out.append(f"{lines}. {country} is within {cleared[-1]} a month and {figure - ahead[0][0]:.1f} "
                    f"above {ahead[0][1]}.")
     else:
-        out.append(f"{lines}; at one or fewer, {country} is within all four.")
+        out.append(f"{lines}. At one or fewer, {country} is within all four.")
     fewer = sum(1 for x in field if x < figure)
     out.append(f"Of the {len(field)} countries with a figure for 2023 or later, {fewer} "
                f"{'has' if fewer == 1 else 'have'} fewer outages a month than {country}.")
@@ -125,7 +131,10 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
         words = ": ".join(x for x in (s["system"].strip(), s["country_label"].strip()) if x)
         if s["class"] == "other" and url and words and words not in seen:
             seen.add(words)
-            noted.append(link(url, words.replace("[", "(").replace("]", ")")))
+            # The system's name is the link; its description follows in sentences of its own, so
+            # a long drafter label does not run one entry past the prose sheet (housekeeping 51).
+            called = s["system"].strip().replace("[", "(").replace("]", ")")
+            noted.append(link(url, called) + (". " + described(s["country_label"]) if s["country_label"].strip() else ""))
     parts = [f"# {country}", "", f"## {label}", ""]
     if cell["stage"].isdigit():
         best = next(r for r in rows if r["row_id"] == cell["stage_sources"])
@@ -146,7 +155,9 @@ def write(study: dict, iso: str, country: str, base: str, out_dir: str, dry: boo
             parts += [f"**{name}.** " + link(old[-1]["url"], old[-1]["fact"].rstrip(".")) + ". "
                       "It is older than 2023, so it sets no stage.", ""]
         short = "No count of power outages for 2023 or later has been found, so no stage is set."
-    parts += [maturity_words.ALSO_ON_FILE_LABEL + ". " + ("; ".join(noted) + "." if noted else maturity_words.NONE_FOUND), "",
+    # One sentence an entry: joined with semicolons, a country's list ran past the prose sheet's
+    # 40-word sentence (housekeeping 51).
+    parts += [maturity_words.ALSO_ON_FILE_LABEL + ". " + (". ".join(noted) + "." if noted else maturity_words.NONE_FOUND), "",
               maturity_words.NOT_FOUND_LABEL + ". " + held, ""]
     if not dry:
         os.makedirs(out_dir, exist_ok=True)
