@@ -1,12 +1,12 @@
 ---
 title: Kenya: status report
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: KEN
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 14
-sources_cited: 353
+sources_cited: 355
 sections_written: 39
 not_established: 0
 acquire_lines: 63
@@ -142,6 +142,8 @@ After Vodacom's suspended purchase of a Safaricom stake, connectivity draws more
 
 [Renewable sources supplied 80.17 per cent of the electricity mix in the year to June 2025](https://www.gak.co.ke/wp-content/uploads/2025/12/EPRA-Energy-and-Petroleum-Statistics-Report-September-2025-1.pdf). [The World Bank-funded Kenya Off-Grid Solar Access Project began in 2017](https://gogla.org/wp-content/uploads/2024/11/Kenya-Country-Brief.pdf). [It is the main programme extending off-grid solar into 14 underserved counties](https://gogla.org/wp-content/uploads/2024/11/Kenya-Country-Brief.pdf). Development finance now buys the household receivables outright: [Norfund took NOK 177.2 million of a US$130 million securitisation for Sun King Kenya in 2023](https://reports.norfund.no/annualreport-2023/development-mandate/investment-areas/renewable-energy/). [It was structured entirely in Kenyan shillings and raised against customer payments on metered solar systems collected through mobile money](https://reports.norfund.no/annualreport-2023/development-mandate/investment-areas/renewable-energy/). [The country's flagship hyperscale data centre stalled, the President saying its draw would take a third of national supply](https://www.datacenterdynamics.com/en/news/microsoft-and-g42-data-center-in-kenya-stalled-due-to-lack-of-power-capacity/). [KenGen said in February 2026 that the energy regulator had pre-cleared direct supply from its Olkaria geothermal plants to data centres in its green energy park](https://www.the254report.co.ke/p/kengen-extraordinary-general-meeting-egm).
 
+[Kenya Power put average interruption time at 113 hours a customer in the year to June 2025, down from 120.6 hours](https://www.kplc.co.ke/storage/01KB4JTB49DXJ81DG79JVEE0M3.pdf).
+
 ### Technical Capacity
 <!-- infra.capacity -->
 
@@ -194,7 +196,7 @@ Cybersecurity carries two external commitments on record, together about US$9 mi
 
 [A draft National Payment System Policy of 21 September 2026 commits the government to a national instant payment switch](https://www.centralbank.go.ke/wp-content/uploads/2026/09/Draft-National-Payment-System-Policy-2026.pdf). [The Central Bank owns and operates the wholesale KEPSS system](https://www.centralbank.go.ke/national-payments-system/). [The retail instant scheme PesaLink is owned by the Kenya Bankers Association](https://www.africanenda.org/uploads/files/EN_SIIPS_Casestudy_Pesalink.pdf) and [connects more than 80 banks, fintechs, telcos and SACCOs](https://pesalink.co.ke/). [Kenswitch with Visa, the banks through IPSL, and Nigeria's NIBSS with Ceva have all bid for that role](https://techcabal.com/2026/04/03/kenswitch-visa-deal-stakes-kenya-payments-overhaul/). [Mobile money operators are fully interoperable](https://www.centralbank.go.ke/uploads/press_releases/1178640578_Press%20Release%20-%20Full%20Interoperability%20of%20Mobile%20Money%20Operators%20Becomes%20Effective.pdf). [Kenswitch launched a domestic card scheme on 22 September 2026, naming no issuer, date or price](https://techcabal.com/2026/09/24/kenswitch-launches-local-card-for-kenyan-financial-institutions/). An industry report quoted [PesaLink's chief executive saying a portable account identifier is ready for institutions to map customers to](https://www.linkedin.com/pulse/pesalinks-new-id-makes-bank-transfers-easier-bin1f) (2026).
 
-[On 30 September 2026 the central bank licensed 29 more digital credit providers, 281 in all since March 2022](https://www.centralbank.go.ke/uploads/press_releases/366319113_Press%20Release%20-%20Licensing%20of%2029%20Additional%20Digital%20Credit%20Providers.pdf). [The Treasury's eCitizen unit is tasked with making all payments to government digital](https://www.treasury.go.ke/government-digital-payments-ecitizen), and [salaries and pensions moved onto an integrated payments system from August 2025](https://www.businessdailyafrica.com/bd/economy/treasury-shifts-salary-pension-payments-to-new-online-system-5152690). [The Auditor-General found 104,631 Hustler Fund loans worth Sh116.5m issued to borrowers whose national ID details were missing](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points) (July 2026).
+[On 30 September 2026 the central bank licensed 29 more digital credit providers, 281 in all since March 2022](https://www.centralbank.go.ke/uploads/press_releases/366319113_Press%20Release%20-%20Licensing%20of%2029%20Additional%20Digital%20Credit%20Providers.pdf). [The Treasury's eCitizen unit is tasked with making all payments to government digital](https://www.treasury.go.ke/government-digital-payments-ecitizen). [Inua Jamii cash transfers have been paid through eCitizen and M-Pesa agents since the January 2025 disbursement](https://www.socialprotection.go.ke/sites/default/files/Downloads/press%20release/Press%20release%20for%20Inua%20Jamii%20rollout%20-%20JAN.%202025.pdf), and [salaries and pensions moved onto an integrated payments system from August 2025](https://www.businessdailyafrica.com/bd/economy/treasury-shifts-salary-pension-payments-to-new-online-system-5152690). [The Auditor-General found 104,631 Hustler Fund loans worth Sh116.5m issued to borrowers whose national ID details were missing](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points) (July 2026).
 
 ### Registries
 <!-- dpi.registry -->

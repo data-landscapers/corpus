@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: KEN
-ledger_rows: 70
+ledger_rows: 73
 not_held: 5
-record: cd811006eaf9
+record: fef691bb1298
 ---
 
 # News, Oct – Nov 2026
@@ -147,6 +147,20 @@ Kenya's National Assembly adopted MP Peter Kaluma's amendments to the Elections 
 **[Public Notice: Validation of the Draft Kenya Information and Communication (Amendment) Bill, 2026](https://ict.go.ke/sites/default/files/2026-10/Validation%20Notice-KICA%20Amendment%20Bill%20Nov%2C%202026.pdf)** — Ministry of Information, Communications and the Digital Economy (Kenya), 31 October 2026
 
 Kenya's information and communications ministry has published a revised draft of the Kenya Information and Communication (Amendment) Bill, 2026, for comment. Written comments are due by 17 November 2026, and a virtual validation forum is set for 25 November.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Competition (Amendment) Bill 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Regulators need to talk to one another about data](https://nation.africa/kenya/blogs-opinion/blogs/regulators-need-to-talk-to-one-another-about-data-5657210)** — Daily Nation, 4 November 2026
+
+Competition (Amendment) Bill 2026 clauses 3 and 9 on data and market power; case for CAK-ODPC coordination.
 
 </div>
 
@@ -587,6 +601,20 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 **[Mastercard and Moovn sign five-year deal to expand digital payments across East Africa](https://techafricanews.com/2026/10/19/mastercard-and-moovn-sign-five-year-deal-to-expand-digital-payments-across-east-africa/)** — TechAfrica News, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
 
 Mastercard and Moovn Technologies signed a five-year agreement, announced on 19 October 2026, to add Mastercard prepaid cards, tokenisation, online acceptance, Pay Local and cross-border transfers to the MoovnPay wallet. Pay Local is to expand across Kenya and Tanzania, and the Shooga prepaid Mastercard portfolio is to launch next.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">M-PESA</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Safaricom H1 profit jumps 36% to $448m](https://www.itweb.africa/article/safaricom-h1-profit-jumps-36-to-448m/wbrpO7g2eJOvDLZn)** — ITWeb Africa, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a>
+
+Safaricom's net income rose 35.9% to KES 58.2 billion in the six months to 30 September 2026. M-PESA revenue grew 13.6% to KES 100.1 billion. Safaricom Ethiopia raised service revenue 71.6% and narrowed its EBITDA loss to KES 434.4 million.
 
 </div>
 
@@ -1217,6 +1245,20 @@ Kenya's Cabinet Secretary for Gender, Hannah Cheptumo, said public institutions 
 **[Group raises alarm over digital exclusion in pastoralist counties](https://www.standardmedia.co.ke/national/article/2001561441/group-raises-alarm-over-digital-exclusion-in-pastoralist-counties)** — The Standard, 3 November 2026
 
 The Grassroots Disability Agenda launched a survey report in Nairobi on digital exclusion of persons with disabilities in Garissa, Kajiado and Marsabit counties. It cites device and data costs, inaccessible services, limited skills, online safety risks and weak policy implementation. The report sets out ten policy actions for government, regulators and technology providers.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fuliza overdraft disbursement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Safaricom makes more from M-PESA overdrafts as borrower numbers surge](https://techcabal.com/2026/11/05/safaricom-fuliza-m-pesa-revenue-rise/)** — TechCabal, 5 November 2026
+
+Safaricom said Fuliza, its M-PESA overdraft service, earned KES 4.9 billion in the six months to September 2026, up 86%. Borrowers reached 17.2 million, while the average advance fell 24.6% to KES 192. Fuliza supplied about 71% of revenue from Safaricom's six lending products.
 
 </div>
 
