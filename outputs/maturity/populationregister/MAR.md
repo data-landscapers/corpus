@@ -6,7 +6,7 @@
 
 **Updated from vital events.** No source found since October 2023 says births or deaths are entered in the population register. The nearest held fact: [The Times of India reports that Morocco's national population register is already being used to help 5 million eligible households access social programmes](<https://timesofindia.indiatimes.com/technology/times-techies/theyre-taking-dpi-to-the-world/articleshow/131849408.cms>).
 
-**Source for others.** [The Times of India reports that Morocco's national population register is already being used to help 5 million eligible households access social programmes](<https://timesofindia.indiatimes.com/technology/times-techies/theyre-taking-dpi-to-the-world/articleshow/131849408.cms>).
+**Source for others.** The Times of India reports that [the population register already helps 5 million eligible households reach social programmes](<https://timesofindia.indiatimes.com/technology/times-techies/theyre-taking-dpi-to-the-world/articleshow/131849408.cms>). In November 2025 the government [said social support targeting under Law 72.18 rests on two databases](<https://www.moroccoworldnews.com/2025/12/272839/morocco-expands-direct-social-support-with-measured-data-driven-reform/>). They are the population register and the Unified Social Register. The social support agency [crosses the population register with the social register to target direct aid](<https://www.lebrief.ma/soutien-social-un-an-apres-impact-de-lanss-100155241/>).
 
 ***Also on file***. None found.
 

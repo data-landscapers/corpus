@@ -15,6 +15,7 @@ BEN,Registre national des personnes physiques,Benin,population,,ANIP,,2025-02-17
 BEN,National Registry of Natural Persons,National Registry of Natural Persons (ANIP),population,,ANIP,,2025-05-01-ben-the-beninese-experience-with-data-sharing-platforms
 BEN,Registre National des Personnes Physiques (RNPP),Benin,population,,ANIP,,2026-10-29-ben-promotion-du-droit-a-lidentite-des-enfants-8-500-actes-de-naissance-de
 BEN,RNPP,Benin,population,,ANIP,,2025-08-11-ben-electoral-file-audit-the-initial-conclusions-of-the-expert-mission
+BEN,ANIP identification (NPI),Benin,other,eservices.anip.bj / ANIP BJ app,Agence nationale d'identification des personnes,,2026-11-03-ben-modernisation-des-services-d-identification-au-b-nin-l-anip-acc-l-re-s
 BFA,fichier national des élèves,Burkina Faso,other,,Ministère de l'Enseignement de base / Ministère de la Transition digitale,,2025-06-27-numerisation-systeme-educatif-fichier-national-eleves
 BFA,registre national de l'identifiant unique de la personne physique,Burkina Faso,population,"central database, biometric",organisme en charge de l'identifiant unique (to be created by decree),,2024-10-11-bfa-alt-loi-027-2024-identification-unique
 CIV,Registre national des personnes physiques (RNPP),Cote d'Ivoire,population,,ONECI,,2026-07-30-cote-divoire-digital-identity-connected-not-identified
@@ -62,6 +63,8 @@ MAR,Registre national de l'etat civil (planned),Morocco,population,central elect
 MAR,registre national de la population,Morocco,population,,,,2025-09-17-marocma-generalisation-protection-sociale-rnp-rsu
 MAR,Registre National de la Population,Morocco,population,,,,2026-01-01-mar-anss-conditions-eligibilite-asd
 MAR,National Registry of Population (RNP),Morocco,population,,,,2025-05-22-mar-id4africa-rnp-rsu-mosip-targeting
+MAR,Registre national de la population (RNP),Morocco,population,,,,2026-06-10-mar-anss-un-an-apres-quel-impact-sur-le-soutien-social
+MAR,National Population Register,RNP,population,,,,2025-12-24-mar-morocco-expands-direct-social-support-with-data-driven-reform
 MDG,"IDMS (lot 8, DP n°028)",Madagascar,population,"open to MOSIP, OSIA or other",PRODIGY / UGD,,2024-04-12-mdg-ugd-prodigy-reponses-clarification-idms-enrolement
 MDG,NUI generator,Madagascar,other,,Government of Madagascar,,2024-04-12-mdg-ugd-prodigy-reponses-clarification-idms-enrolement
 MLI,RAVEC (recensement administratif à vocation d'état civil),Mali,population,Mali Kura Biométrie,Ministère de l'Administration territoriale,,2024-02-14-mali-kura-biometrie-systeme-souverain-ravec
