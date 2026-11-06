@@ -3,18 +3,18 @@ title: Africa — progress report, November 2025 – November 2026
 compiled: 2026-11-06
 period: 2025-11-01 to 2026-11-06
 place: XAF
-ledger_rows: 295
+ledger_rows: 296
 not_held: 3
-record: 49e7271b279e
+record: 15fd36ac70f0
 ---
 
 # Africa: progress report, November 2025 – November 2026
 
 *Compiled 2026-11-06 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 295 bodies, instruments and systems on this place's ledger, 158 changed position between 2025-11-01 and 2026-11-06, 32 did not, 102 carry no stated baseline, and 3 are ***Not held*** at both ends.*
+*Of 296 bodies, instruments and systems on this place's ledger, 158 changed position between 2025-11-01 and 2026-11-06, 32 did not, 103 carry no stated baseline, and 3 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 1278 sources for this place in the window — 213 in the earlier half (2025-11 to 2026-04), 1065 in the later (2026-05 to 2026-11). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 1279 sources for this place in the window — 213 in the earlier half (2025-11 to 2026-04), 1066 in the later (2026-05 to 2026-11). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the repository holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
@@ -326,6 +326,7 @@ On standards the work is opening rather than closing: common proposals for the 2
 | GMES and Africa Earth observation programme | Phase 2 in implementation, January 2022 to December 2025, on EUR 24.65 million from the European Union | [The joint African Union-European Union Earth observation programme, coordinated at the African Union Commission, concluded in December 2025 after two phases: EUR 30 million for January 2017 to December 2021 and EUR 24.65 million for January 2022 to December 2025](https://spaceinafrica.com/2026/08/28/dr-tidiane-ouattara-appointed-inaugural-dg-of-cote-divoires-space-agency-2/) | Closed |
 | West and Central Africa biomass productivity monitoring | Did not exist | [A humanitarian agency's regional biomass yearly production and anomaly tables, computed from Copernicus dry-matter productivity using Sentinel-3 OLCI, PROBA-V and SPOT-VEGETATION data and published to administrative level 3 across West and Central Africa; the held capture is the dataset listing rather than the data](https://data.humdata.org/dataset/acf_biomass_west-africa) | Movement |
 | Committed share of the African satellite pipeline | No figure held | [113 satellites worth US$7.94 billion that African operators could build and launch to 2036, of which 21 worth US$2.00 billion are firmly committed; 69 African satellites have reached orbit since 1998, 22 built by African teams and none launched from African soil (2026-09)](https://spaceinafrica.com/2026/11/02/only-usd-2-billion-of-africas-usd-7-9-billion-satellite-pipeline-is-firmly-committed-new-space-in-africa-report-finds/) | ***Baseline not held*** |
+| Digital Earth Africa | ***Baseline not held*** | [A continental platform of analysis-ready satellite data, stored and processed in the AWS Cape Town region since 2020; at the end of 2025 it held 27 accessible datasets and 180 analytical notebooks, with 10,452 sandbox users and 38,353 cumulative map users, and 23 of 73 use-case requests that year came from African governments and institutions; the programme office moved from SANSA to RIIS in Johannesburg in 2024, and icipe takes over operations from 1 April 2026](https://digitalearthafrica.org/wp-content/uploads/DE-Africa-Annual-Report-2025-English-.pdf) | ***Baseline not held*** |
 | MTAP/PUMA satellite receiving stations | ***Baseline not held*** | [The Meteorological Transition in Africa Project installing PUMA receiving stations for Meteosat Second Generation data in national meteorological services, with hardware, training and outlook components; the forum drew 48 African states](https://www-cdn.eumetsat.int/files/2020-04/pdf_conf_6auf_report_en.pdf) | ***Baseline not held*** |
 | SAWIDRA regional satellite-data (RARS) stations | ***Baseline not held*** | [EUR 20 million for four regional advanced retransmission stations in Gabon, Niger, Kenya and South Africa, giving meteorological services high-resolution satellite data for forecast models](https://www.afdb.org/en/news-and-events/african-development-bank-supports-development-satellite-observations-african-early-warning-systems-44824) | ***Baseline not held*** |
 
