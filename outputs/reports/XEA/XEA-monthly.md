@@ -1,11 +1,11 @@
 ---
 title: East Africa — News, Oct – Nov 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: XEA
-ledger_rows: 16
+ledger_rows: 17
 not_held: 0
-record: 9710b88a8830
+record: c578cfd8b2ee
 ---
 
 # News, Oct – Nov 2026
@@ -53,6 +53,20 @@ COMESA's half-year progress report on the World Bank-financed Inclusive Digitali
 **[Uganda MPs push EALA to pressure EAC states on ICT protocol ratification](https://horneconomicreview.com/2026/11/02/uganda-mps-push-eala-to-pressure-eac-states-on-ict-protocol-ratification/)** — Horn Economic Review, 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
 
 Uganda's parliamentary Committee on Foreign Affairs said only Uganda and Rwanda have both signed and ratified the EAC Protocol on ICT Networks, Horn Economic Review reported on 2 November 2026. The protocol was adopted in 2013. The committee asked Uganda's members of the East African Legislative Assembly to press the other partner states to ratify it. It covers infrastructure sharing, cross-border connectivity, cybersecurity and common ICT policy.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Enhanced EAC Regional Roaming Regulation 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EAC moves to slash cross-border call, data charges](https://www.the-star.co.ke/news/2026-11-03-eac-moves-to-slash-cross-border-call-data-charges)** — The Star (Kenya), 3 November 2026
+
+Proposed caps 5.9 US cents/min retail voice, US$2.72/GB retail data; DRC and Somalia still outside ONA.
 
 </div>
 
