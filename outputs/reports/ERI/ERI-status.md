@@ -1,6 +1,6 @@
 ---
 title: Eritrea: status report
-compiled: 2026-10-28
+compiled: 2026-11-06
 place: ERI
 region: XEA
 built_by: STATUS-INIT
@@ -98,7 +98,7 @@ The African Development Bank [appraised Eritrea's Energy Integrated Project in F
 Since April 2024 the [Global Partnership for Education's US$11.82m System Transformation Grant and US$2.2m System Capacity Grant](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-04-eritrea-gpe-grant-program-document.pdf) have funded a foundational-learning reform. [UNICEF is the grant agent](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-04-eritrea-gpe-grant-program-document.pdf). One strand is [strengthening data collection, processing, storage and use in the education management information system](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-04-eritrea-gpe-grant-program-document.pdf). [The reform is directed at the zobas holding nomadic, semi-nomadic and remote rural communities, which lag the national average on education indicators](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-04-eritrea-gpe-grant-program-document.pdf).
 
 <!-- derived -->
-Eritrea's external development finance for digital and data systems is exceptionally thin (October 2026): three commitments in all, spanning 2016 to 2026, from two financiers — the African Development Bank with two and the United Nations Development Programme with one. Every one of them is a grant or technical assistance to the public sector; there is no loan, no guarantee, no equity and no commercial or private-sector finance. The subsectors reached are public financial management and tax administration systems and official statistics, and nothing at all has been committed for connectivity, digital identity, digital payments, data centres or digital skills. Eritrea is also named in none of the 26 regional East African digital commitments on the same record: the East African Community and IGAD-anchored programmes for regional digital integration, AI research, digital skills, cross-border payments and connectivity all run past it.
+Eritrea's external development finance for digital and data systems is thin (November 2026): 12 commitments in all, spanning 2015 to 2026, from five financiers. The ten that carry an amount come to about US$2.8 million, and the United Nations Development Programme's US$2 million economic and social data programme is the largest (November 2026). Ten are grants and one is technical assistance; none is recorded as a loan, guarantee, equity or private-sector finance. Three are active and nine carry no recorded status. The subsectors reached are official statistics, civil registration, and public financial management and tax administration systems; nothing has been committed for connectivity, digital payments, data centres or digital skills. Eritrea is also named in none of the 60 regional East African digital commitments on the same record: the East African Community and IGAD-anchored programmes for regional digital integration, AI research, digital skills, cross-border payments and connectivity all run past it.
 
 ## ICT Infrastructure
 
