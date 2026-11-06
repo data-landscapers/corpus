@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-05-cod-ue-pnud-digitalisation-justice-recettes-judiciaires",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "Actualite.cd reports the Ministry of Justice launched on 5 November 2026, with UNDP support and EU funding, the interconnection of courts, prosecutors' offices and prisons on a common digital infrastructure for judicial and prison management applications, to be extended progressively.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "interconnection of courts, prosecutors' offices and prisons",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "interconnection of courts, prosecutors' offices and prisons",
+   "country_label": "DR Congo justice interconnection",
+   "class": "justice",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  },
+  {
+   "system": "digital court-fee collection",
+   "country_label": "DR Congo court fees",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
