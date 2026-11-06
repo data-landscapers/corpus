@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-01-crs-2-2024010153-2024-appui-au-systeme-national-d-information-sanitaire",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SNIS",
+   "country_label": "Burundi SNIS",
+   "class": "hmis",
+   "platform": "",
+   "owner": "Ministry of Public Health and the Fight against AIDS",
+   "tiers": ""
+  }
+ ],
+ "note": "Support to the national information system; no clinic-level digital entry, tiers or share stated."
+}

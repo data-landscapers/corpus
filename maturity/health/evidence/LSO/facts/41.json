@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-01-crs-302-2024003564-2024-mcc-digital-health-activity",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-Register",
+   "country_label": "Lesotho",
+   "class": "tracker",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "MCC grant record describes a funded plan to expand the HIV and TB e-Register into a national EMR; a plan, with no dated act or system in service stated."
+}
