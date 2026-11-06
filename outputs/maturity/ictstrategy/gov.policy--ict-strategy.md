@@ -201,6 +201,12 @@ A national ICT policy was drawn up in 2008-2009; no source found says whether it
 - The appraisal document, dated 4 May 2011, treats a National ICT Policy as existing, with the project coordination unit to monitor its implementation and the steering committee to check project activities against it; the document does not describe the policy's scope ([source, 2011-05](https://documents1.worldbank.org/curated/en/123451468204842891/pdf/616460PAD0P1220e0only0900BOX358354B.pdf)).
 - The Council of Ministers communique of 6 March 2019 has the minister say the electronic transactions bill follows the national ICT development policy that the government drew up in 2008-2009; it does not use the word adopted, and the document gives no date of adoption ([source, 2009](https://leonjusteibombo.cg/2023/02/22/congo-conseil-des-ministres-du-mercredi-6-mars-2019/)).
 
+### Djibouti: 2 Nascent
+
+Djibouti's minister reported progress under its national ICT development policy in July 2025; its text, period and adoption date are not known.
+
+- The Minister of Communication, in charge of Posts and Telecommunications, drew on the Politique Nationale de Developpement des TIC at the WSIS Forum 2025 (Geneva, 7-11 July 2025) to report progress on the digital divide: broadband access infrastructure covering most of the territory, and two large sector projects (Djibouti Digital Foundations and the East Africa regional digital integration project) laying the base of a digital economy; the document is the ministry's own news item dated 2025-07-11 and gives no adoption date, period, costs or targets for the policy ([source, 2025-07](https://communication.gouv.dj/djibouti-porte-sa-vision-dun-numerique-inclusif-au-sommet-mondial-sur-la-societe-de-linformation-2025/)).
+
 ### Ethiopia: 2 Nascent
 
 Ethiopia adopted a national ICT policy and strategy in 2016, endorsed by ministers in 2017; no source found says whether its text is published.
@@ -289,12 +295,6 @@ Namibia launched a national ICT policy in January 2026; no source found reports 
 *Advancing.*
 
 - The Namibian reports that the Ministry of ICT launched the national ICT policy at Opuwo, with the minister saying it would guide the ICT sector over the next five years; the launch day is given only as 'Thursday', so the article date is the anchor ([source, 2026-01](https://www.namibian.com.na/ict-ministry-launches-strategic-plan-policy-to-expand-digital-access-and-strengthen-cybersecurity/)).
-
-### Sao Tome and Principe: 2 Nascent
-
-An ICT sector strategy was prepared in 2012 and was still awaiting adoption in June 2015; no source found says whether it was ever adopted.
-
-- The World Bank ICR states an ICT Sector Strategy for STP was prepared in 2012 under the project after wide stakeholder consultation, but its adoption by the Council of Ministers was still pending when the ICR was prepared (June 2015) ([source, 2015-06](https://documents1.worldbank.org/curated/en/234391468190440376/txt/ICR3141-P117652-Box391488B-OUO-9.txt)).
 
 ### Senegal: 2 Nascent
 
@@ -434,21 +434,6 @@ DR Congo's 2009 telecommunications and ICT sector policy lapsed in 2014; no sour
 
 Not established: The 2009 sector policy's five-year period ended in 2014 without the review being carried out, and no evidence row shows a sector policy in preparation to succeed it; the end year is reckoned from the adoption, the source giving none. The rows disagree on when in 2009 it was adopted: one dates it July 2009, one has it still being finalised on 23 October 2009, and one says the Government approved it without a date. Its targets for 2015 carry no cost, and nothing has been found on its text, reporting, governance or the last twelve months.
 
-### Djibouti: Unplaced
-
-Djibouti's sector policy, adopted in 2014, ran to 2024; no source says whether a successor is adopted or being prepared, so no stage is set.
-
-*Lapsed; Under the national strategy.*
-
-- Law 80/AN/14/7ème L, published 25 February 2015, approves the ICT sector policy orientation note, the Integrated Strategic Scheme and its action plan, and repeals the 2003 law ([source, 2015-02-25](https://www.journalofficiel.dj/arabe/texte-juridique/loi-n80-an-14-7eme-l-portant-approbation-du-schema-strategique-integre-ssi-du-secteur-des-technologies-de-linformation-et-de-la-communication-tic-en-republique-de-djibouti/)).
-- The law defines the national ICT strategy in the Scheme for ten years, 2014 to 2024 ([source, 2015-02-25](https://www.journalofficiel.dj/arabe/texte-juridique/loi-n80-an-14-7eme-l-portant-approbation-du-schema-strategique-integre-ssi-du-secteur-des-technologies-de-linformation-et-de-la-communication-tic-en-republique-de-djibouti/)).
-- The ministry page states that the Schéma Stratégique Intégré (SSI), the government roadmap that includes the National ICT Development Strategy, was adopted in 2014 ([source, 2014](https://communication.gouv.dj/telecommunication-tic-et-postes/)).
-- The page says the SSI was adopted in 2014 to develop the ICT sector over a period of 10 years, which ends in 2024 ([source, 2014](https://communication.gouv.dj/telecommunication-tic-et-postes/)).
-- The African Development Bank's country strategy paper, dated December 2022, refers to an existing integrated ICT Sector Strategic Plan (2014-2024) that aims to transform Djibouti into an information society hub (document published 2023-01-01; statement dated to the paper's December 2022 date) ([source, 2022-12](https://www.afdb.org/sites/default/files/documents/projects-and-operations/djibouti_-_country_strategy_paper_2023-2027.pdf)).
-- The paper gives the integrated ICT Sector Strategic Plan a period of 2014 to 2024 ([source, 2022-12](https://www.afdb.org/sites/default/files/documents/projects-and-operations/djibouti_-_country_strategy_paper_2023-2027.pdf)).
-
-Not established: The Schéma stratégique intégré's period ended in 2024 and no row shows a successor sector policy adopted or in preparation. The Politique nationale de développement des TIC is named by the minister in July 2025 (DJI-001) with no adoption date, standing, period or text, so it cannot be staged; that fact also falls outside the twelve months. The approving law names an action plan and gives no dated actions or cost, and the commission and ministry unit it creates date from 2015, outside the 36 months. No text, report or finance has been found for the SSI.
-
 ### Egypt: Unplaced
 
 The 2013 national ICT strategy ran to 2017; no source found says whether the strategy to 2030 was adopted, so no stage is set.
@@ -503,6 +488,16 @@ A telecommunications and ICT sector policy was adopted in 2013 and ended in 2020
 - The MFWA study gives the sector policy document's period as 2013-2020 and says the country was at the end of that period in 2020 ([source, 2013-04-12](https://www.mfwa.org/wp-content/uploads/2021/04/RAPPORT-FINAL-NIGER_April-1-.pdf)).
 
 Not established: The sector policy's period ended in 2020 and no successor sector policy is on record as adopted or in preparation: what followed it is the Politique nationale du numérique 2021-2030, classed national. NER-014 reports an instruction of 10 July 2017 to update the sector policy, given inside the policy's own period and with no draft; it is not a successor in preparation. NER-013 dates the policy from 2012 against the decree of 12 April 2013. Nothing is held on the policy's text, on a mandated body or finance, or on any event in the twelve months to the as-at.
+
+### Sao Tome and Principe: Unplaced
+
+An ICT sector strategy prepared in 2012 still awaited adoption in 2015; whether it was adopted is not known, so no stage is set.
+
+*Under the national strategy.*
+
+- The World Bank ICR states an ICT Sector Strategy for STP was prepared in 2012 under the project after wide stakeholder consultation, but its adoption by the Council of Ministers was still pending when the ICR was prepared (June 2015) ([source, 2015-06](https://documents1.worldbank.org/curated/en/234391468190440376/txt/ICR3141-P117652-Box391488B-OUO-9.txt)).
+
+Not established: The only standing fact is dated June 2015: the strategy prepared in 2012 was still awaiting adoption by the Council of Ministers, and in the eleven years since no row shows it adopted, still in preparation, dropped or replaced. No text, period, delivery plan or report has been found; the one governance fact (donor finance, 2012) falls outside the 36 months and nothing is dated inside the last twelve.
 
 ### Sierra Leone: Unplaced
 
