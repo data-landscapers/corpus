@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "coverage",
-   "stage": "3",
-   "share": "twothirds",
-   "everyone": "",
-   "births": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-002;UGA-004",
-   "gaps": "No source found since October 2023 counts 99.9% of the population or more holding a national ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "coverage",
+      "stage": "3",
+      "share": "twothirds",
+      "everyone": "",
+      "births": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-002;UGA-004",
+      "gaps": "No source found since October 2023 counts 99.9% of the population or more holding a national ID.",
+      "note": "The September 2026 figures, 36 to 40 million identified, are 77 to 79% of the population. Nothing counts 99.9%.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "AGO-001",
-      "gaps": "No source found since October 2023 says: do two-thirds hold one.",
-      "note": "First pass: counted from the four questions by study-ladder-idcoverage.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source found since October 2023 counts two-thirds of the population or more holding a national ID.",
+      "note": "The September 2025 count of 16.3 million holders of the Bilhete de Identidade is about 46% of the population. Nothing counts two-thirds.",
+      "as_at": "2026-11-06"
     }
   ]
 }

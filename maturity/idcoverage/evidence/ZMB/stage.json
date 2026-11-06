@@ -1,17 +1,18 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "coverage",
-   "stage": "1",
-   "share": "below",
-   "everyone": "",
-   "births": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZMB-001;ZMB-002",
-   "gaps": "No source found since October 2023 says: does a third of the population hold a national id.",
-   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "coverage",
+      "stage": "1",
+      "share": "below",
+      "everyone": "",
+      "births": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZMB-001;ZMB-002",
+      "gaps": "No source found since October 2023 counts a third of the population or more holding a national ID. The paper National Registration Card is not counted.",
+      "note": "INRIS enrolment of about 1.5 million, repeated in July 2026, is under 8% of the population. The paper card's coverage is classed other, as in corrections.csv.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

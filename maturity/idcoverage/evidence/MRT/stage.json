@@ -1,17 +1,18 @@
 {
- "iso3": "MRT",
- "cells": [
-  {
-   "sub_indicator": "coverage",
-   "stage": "3",
-   "share": "twothirds",
-   "everyone": "",
-   "births": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MRT-002;MRT-004",
-   "gaps": "No source found since October 2023 counts 99.9% of the population or more holding a national ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
-  }
- ]
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "coverage",
+      "stage": "3",
+      "share": "twothirds",
+      "everyone": "",
+      "births": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-002;MRT-004",
+      "gaps": "No source found since October 2023 counts 99.9% of the population or more holding a national ID.",
+      "note": "The June 2026 register of over 5.1 million is about 96% of the population, and the 2025 figure was over 94%. Nothing counts 99.9%.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "coverage",
-   "stage": "3",
-   "share": "twothirds",
-   "everyone": "",
-   "births": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BEN-002;BEN-004",
-   "gaps": "No source found since October 2023 counts 99.9% of the population or more holding a national ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "coverage",
+      "stage": "3",
+      "share": "twothirds",
+      "everyone": "",
+      "births": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-007;BEN-006",
+      "gaps": "No source found since October 2023 counts 99.9% of the population or more holding a national ID. Shares of 98 to 99% are given, no count of 99.9%.",
+      "note": "Every source from 2024 to October 2026 puts enrolment at 98 to 99% of the population. None reaches the 99.9% that stage 4 needs.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

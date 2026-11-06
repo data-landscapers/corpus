@@ -1,17 +1,18 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "coverage",
-   "stage": "1",
-   "share": "below",
-   "everyone": "",
-   "births": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-001",
-   "gaps": "No source found since October 2023 says: does a third of the population hold a national id.",
-   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "coverage",
+      "stage": "1",
+      "share": "below",
+      "everyone": "",
+      "births": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-001",
+      "gaps": "No source found since October 2023 counts a third of the population or more holding a national ID. No enrolment count is given.",
+      "note": "A September 2026 report says the President is still the only Congolese publicly issued the card, a dated statement of near-absence. Nothing counts a third.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

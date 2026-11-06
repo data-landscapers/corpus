@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MAR-001",
       "gaps": "No source found since October 2023 counts 99.9% of the population or more holding a national ID.",
-      "note": "First pass: counted from the four questions by study-ladder-idcoverage.py.",
-      "as_at": "2026-10-18"
+      "note": "The May 2025 count of 31 million holders of the electronic card is about 85% of the population. Nothing counts 99.9%.",
+      "as_at": "2026-11-06"
     }
   ]
 }

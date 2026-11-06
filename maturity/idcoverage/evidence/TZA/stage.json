@@ -1,17 +1,18 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "coverage",
-   "stage": "2",
-   "share": "third",
-   "everyone": "",
-   "births": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TZA-002;TZA-003",
-   "gaps": "No source found since October 2023 says: do two-thirds hold one.",
-   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "coverage",
+      "stage": "2",
+      "share": "third",
+      "everyone": "",
+      "births": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-002;TZA-004",
+      "gaps": "No source found since October 2023 counts two-thirds of the population or more holding a national ID. Children are not yet enrolled. TZA-001's 943,284 is a Zanzibar count, not a national one.",
+      "note": "The September 2026 count of 27.5 million registered is about 39% of the population, and 23.5 million with a number about 33%. The October 2026 figure of 943,284 is Zanzibar's, so it does not stand as the newest national count.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

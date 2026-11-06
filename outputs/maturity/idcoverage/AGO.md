@@ -2,7 +2,7 @@
 
 ## Registration of entire population
 
-**Share holding an ID.** [Secretary of State for Justice Osvaldo Amaro said only 16,297,777 citizens hold the Bilhete de Identidade in a country of about 35 million inhabitants, about half the population](<https://angop.ao/noticias/sociedade/cerca-de-16-milhoes-de-angolanos-possuem-bilhete-de-identidade/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Share holding an ID.** [In September 2025 the Secretary of State for Justice, Osvaldo Amaro, said only 16,297,777 citizens held the Bilhete de Identidade](<https://angop.ao/noticias/sociedade/cerca-de-16-milhoes-de-angolanos-possuem-bilhete-de-identidade/>). [He set that against a country of about 35 million, so about half the population held the card](<https://angop.ao/noticias/sociedade/cerca-de-16-milhoes-de-angolanos-possuem-bilhete-de-identidade/>). It is the only such count found. No other news story or official notice read for this study adds to it. The documents the earlier cell cited were not read. The systems themselves were not examined.
 
 **Everyone holds one.** No source found since October 2023 counts 99.9% of the population or more holding a national ID. The nearest held fact: [the one given above](<https://angop.ao/noticias/sociedade/cerca-de-16-milhoes-de-angolanos-possuem-bilhete-de-identidade/>).
 

@@ -1,17 +1,18 @@
 {
- "iso3": "MWI",
- "cells": [
-  {
-   "sub_indicator": "coverage",
-   "stage": "2",
-   "share": "third",
-   "everyone": "",
-   "births": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MWI-001;MWI-002",
-   "gaps": "No source found since October 2023 says: do two-thirds hold one.",
-   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
-  }
- ]
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "coverage",
+      "stage": "2",
+      "share": "third",
+      "everyone": "",
+      "births": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MWI-003;MWI-001",
+      "gaps": "No source found since October 2023 counts two-thirds of the population or more holding a national ID. The 99% figure is of citizens aged 16 and above.",
+      "note": "The 13.5 million registered in September 2026 are about 61% of people of all ages, though 99% of those aged 16 and over. The study counts the whole population, so two-thirds is not reached.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

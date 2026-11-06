@@ -1,17 +1,18 @@
 {
- "iso3": "CIV",
- "cells": [
-  {
-   "sub_indicator": "coverage",
-   "stage": "2",
-   "share": "third",
-   "everyone": "",
-   "births": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CIV-001",
-   "gaps": "No source found since October 2023 says: do two-thirds hold one.",
-   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
-  }
- ]
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "coverage",
+      "stage": "2",
+      "share": "third",
+      "everyone": "",
+      "births": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CIV-001",
+      "gaps": "No source found since October 2023 counts two-thirds of the population or more holding a national ID. The July 2026 share clears a third only narrowly, on a population of 32.7 million.",
+      "note": "ONECI's July 2026 count of 11 million NNI holders is about 34% of the population, replacing the 2024 count of 8 million. It clears a third narrowly and nothing counts two-thirds.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

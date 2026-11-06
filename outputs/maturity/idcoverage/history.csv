@@ -2,3 +2,57 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,AGO,dpi.id--registration-of-entire-population,fact,no evidence,2,AGO-001,Arrivals added AGO-001; stage no evidence -> 2.
 2026-10-17,LBR,dpi.id--registration-of-entire-population,fact,1,1,LBR-001;LBR-002,Arrivals added LBR-004; stage unchanged.
 2026-10-18,MAR,dpi.id--registration-of-entire-population,fact,no evidence,3,MAR-001,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-11-06,AGO,dpi.id--registration-of-entire-population,review,2,2,AGO-001,Rebuild: second reading of the first-pass cell agrees with the stage; sources set to the newest count.
+2026-11-06,BDI,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,BEN,dpi.id--registration-of-entire-population,review,3,3,BEN-007;BEN-006,Rebuild: second reading of the first-pass cell agrees with the stage; sources set to the newest count.
+2026-11-06,BFA,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,BWA,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,CAF,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,CIV,dpi.id--registration-of-entire-population,review,2,2,CIV-001,Rebuild: ONECI's July 2026 count of 11 million (34%) replaces the 2024 count of 8 million and clears a third narrowly; 2 stands.
+2026-11-06,CMR,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,COD,dpi.id--registration-of-entire-population,review,1,1,COD-001,Rebuild: second reading of the first-pass cell agrees with the stage; sources set to the newest count.
+2026-11-06,COG,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,COM,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,CPV,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,DJI,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,DZA,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,EGY,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,ERI,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,ETH,dpi.id--registration-of-entire-population,review,2,2,ETH-001;ETH-004,Rebuild: second reading of the first-pass cell agrees with the stage; sources set to the newest count.
+2026-11-06,GAB,dpi.id--registration-of-entire-population,review,1,1,GAB-001,Rebuild: second reading of the first-pass cell agrees with the stage; sources set to the newest count.
+2026-11-06,GHA,dpi.id--registration-of-entire-population,review,2,2,GHA-001,Rebuild: second reading of the first-pass cell agrees with the stage; sources set to the newest count.
+2026-11-06,GIN,dpi.id--registration-of-entire-population,review,2,2,GIN-001,Rebuild: second reading of the first-pass cell agrees with the stage; sources set to the newest count.
+2026-11-06,GMB,dpi.id--registration-of-entire-population,review,unplaced,unplaced,,"Rebuild: the only count, February 2023, is older than three years; unplaced stands."
+2026-11-06,GNB,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,GNQ,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,KEN,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,LBR,dpi.id--registration-of-entire-population,review,1,1,LBR-005;LBR-001,Rebuild: second reading of the first-pass cell agrees with the stage; sources set to the newest count.
+2026-11-06,LBY,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,LSO,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,MAR,dpi.id--registration-of-entire-population,review,3,3,MAR-001,Rebuild: second reading of the first-pass cell agrees with the stage; sources set to the newest count.
+2026-11-06,MDG,dpi.id--registration-of-entire-population,review,1,1,MDG-001;MDG-004,Rebuild: second reading of the first-pass cell agrees with the stage; sources set to the newest count.
+2026-11-06,MLI,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,MOZ,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,MRT,dpi.id--registration-of-entire-population,review,3,3,MRT-002;MRT-004,Rebuild: second reading of the first-pass cell agrees with the stage; sources set to the newest count.
+2026-11-06,MUS,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,MWI,dpi.id--registration-of-entire-population,review,2,2,MWI-003;MWI-001,"Rebuild: 13.5 million is 99% of those aged 16 and over but 61% of all ages; the study counts all ages, so 2 stands."
+2026-11-06,NAM,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,NER,dpi.id--registration-of-entire-population,review,2,1,NER-001,"Rebuild: the Diffa report of September 2026 (about 3 million hold the card, 11%) is newer than the Agadez one (3 million lack it, 36%) and stands; 2 to 1."
+2026-11-06,NGA,dpi.id--registration-of-entire-population,review,2,2,NGA-002;NGA-003,Rebuild: second reading of the first-pass cell agrees with the stage; sources set to the newest count.
+2026-11-06,RWA,dpi.id--registration-of-entire-population,review,3,3,RWA-002,Rebuild: NIDA's September 2026 count of over 10 million (68%) clears two-thirds narrowly; 3 stands.
+2026-11-06,SDN,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,SEN,dpi.id--registration-of-entire-population,review,unplaced,unplaced,,"Rebuild: the only count, 2018, is older than three years; unplaced stands."
+2026-11-06,SLE,dpi.id--registration-of-entire-population,review,3,3,SLE-002;SLE-004,Rebuild: second reading of the first-pass cell agrees with the stage; sources set to the newest count.
+2026-11-06,SOM,dpi.id--registration-of-entire-population,review,1,1,SOM-001;SOM-006,Rebuild: second reading of the first-pass cell agrees with the stage; sources set to the newest count.
+2026-11-06,SSD,dpi.id--registration-of-entire-population,review,1,1,SSD-002;SSD-001,Rebuild: second reading of the first-pass cell agrees with the stage; sources set to the newest count.
+2026-11-06,STP,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,SWZ,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,SYC,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,TCD,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,TGO,dpi.id--registration-of-entire-population,review,3,3,TGO-002;TGO-010,Rebuild: second reading of the first-pass cell agrees with the stage; sources set to the newest count.
+2026-11-06,TUN,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,TZA,dpi.id--registration-of-entire-population,review,2,2,TZA-002;TZA-004,"Rebuild: the October 2026 count of 943,284 is Zanzibar's, not national; the September 2026 count of 27.5 million registered (39%) keeps 2."
+2026-11-06,UGA,dpi.id--registration-of-entire-population,review,3,3,UGA-002;UGA-004,Rebuild: second reading of the first-pass cell agrees with the stage; sources set to the newest count.
+2026-11-06,ZAF,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
+2026-11-06,ZMB,dpi.id--registration-of-entire-population,review,1,1,ZMB-001;ZMB-002,Rebuild: second reading of the first-pass cell agrees with the stage; sources set to the newest count.
+2026-11-06,ZWE,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.

@@ -1,17 +1,18 @@
 {
- "iso3": "MDG",
- "cells": [
-  {
-   "sub_indicator": "coverage",
-   "stage": "1",
-   "share": "below",
-   "everyone": "",
-   "births": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MDG-001;MDG-005",
-   "gaps": "No source found since October 2023 says: does a third of the population hold a national id.",
-   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
-  }
- ]
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "coverage",
+      "stage": "1",
+      "share": "below",
+      "everyone": "",
+      "births": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-001;MDG-004",
+      "gaps": "No source found since October 2023 counts a third of the population or more holding a national ID.",
+      "note": "The newest count, nearly 5 million in September 2026, is about 15% of the population, and none held reaches 20%. Enrolment is in its first phase.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

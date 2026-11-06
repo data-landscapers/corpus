@@ -1,6 +1,6 @@
 # Registration of entire population: registration of entire population
 
-*As at 2026-09-30.*
+*As at 2026-11-06.*
 
 ## The norm
 
@@ -23,8 +23,8 @@ The African Union's Digital Transformation Strategy sets a target of 99.9% of pe
 | 5 Leading | 0 |
 | 4 Operating | 0 |
 | 3 Established | 7 |
-| 2 Nascent | 9 |
-| 1 Absent | 7 |
+| 2 Nascent | 8 |
+| 1 Absent | 8 |
 | Unplaced | 2 |
 | No evidence | 29 |
 
@@ -34,8 +34,8 @@ The African Union's Digital Transformation Strategy sets a target of 99.9% of pe
 
 Two-thirds of the population or more held a national ID in 2026.
 
-- The World Bank says nearly 99% of Benin's population is now biometrically enrolled ([source, 2026-05-20](https://www.worldbank.org/en/news/feature/2026/05/20/transforming-lives-in-benin-a-unique-identification-system)).
-- The World Bank blog, via Biometric Update, says about 99 percent of Beninese citizens hold a legal and digital identity; the WURI project enrolled 2.2 million more people, 4,000 of them abroad. The share is of citizens and no total count is given ([source, 2024-06-27](https://www.biometricupdate.com/202406/wuri-digital-id-project-improving-access-to-public-services-in-benin)).
+- ANIP, per its director general, said 98% of Benin's population is already enrolled ([source, 2026-10-30](https://lematinal.bj/modernisation-des-services-didentification-au-benin-lanip-accelere-sa-revolution-numerique/)).
+- A Benin official says more than 99% of the population has a digital identity ([source, 2026-10-28](https://transcontinents.africa/fr/article/e-gouvernance-le-benin-et-la-mauritanie-a-lecole-estonienne)).
 
 ### Mauritania: 3 Established
 
@@ -68,7 +68,7 @@ Two-thirds of the population or more held a national ID in 2026.
 Two-thirds of the population or more held a national ID in 2026.
 
 - The same figure of more than six million people registered is about 70% of the held population of 8.6 million, above two-thirds (share computed from the held population) ([source, 2026-09-28](https://levisionnaire.tg/e-id-togo-plus-de-6-millions-de-personnes-enregistrees-la-region-de-la-kara-prochaine-etape/)).
-- More than 6 million Togolese held a NIU at end 2025 per official figures, which is at least 69.8% of the 8.6 million population (divided by the study population figure) ([source, 2025-12](https://www.togofirst.com/fr/social/1105-18935-togo-l-anid-prepare-une-nouvelle-phase-d-enregistrement-biometrique-dans-les-plateaux-ouest)).
+- More than 6 million Togolese citizens held a unique identification number (NIU) at end December 2025, per the Permanent Secretariat for reform monitoring; about 70% of the 8.6 million population (computed from the population given) ([source, 2025-12](https://www.togofirst.com/fr/services/2304-18802-togo-plus-de-6-millions-de-citoyens-disposent-d-un-niu-a-fin-2025)).
 
 ### Uganda: 3 Established
 
@@ -93,8 +93,8 @@ A third of the population or more held a national ID in 2026.
 
 A third of the population or more held a national ID in 2026.
 
-- The Ethiopia National ID Program reports 49.1 million Fayda enrolments as of 24 August 2026, about 36% of Ethiopia's 135.5 million people (share computed from the held population figure) ([source, 2026-08-24](https://www.biometricupdate.com/202608/fayda-digital-id-nears-50m-enrollments-as-adoption-reshapes-ethiopias-economy)).
-- Ethiopia's national digital ID system is nearing 50 million registrations per the government announcement; against the 135.5 million population given that is about 37%, calculated here, and unaudited ([source, 2026-08-04](https://www.biometricupdate.com/202608/faydaverse-officially-enters-africas-dpi-market)).
+- Fayda has recorded more than 52 million registrations as of 9 October 2026 (Biometric Update); against a population of 135.5 million that is about 38 percent (share computed by us) ([source, 2026-10-09](https://www.biometricupdate.com/202610/ethiopia-launches-developer-sandbox-to-support-fayda-digital-id-innovation-integration)).
+- FaydaVerse (formerly the National ID Program) has registered more than 51 million citizens, about 37.6% of 135.5 million people (share computed from the held population figure) ([source, 2026-10-03](https://addisfortune.news/banks-baulk-at-a-bill-from-public-id-that-turns-commercial)).
 
 ### Ghana: 2 Nascent
 
@@ -112,14 +112,8 @@ A third of the population or more held a national ID in 2025.
 
 A third of the population or more held a national ID in 2026.
 
+- More than 13.5 million people are registered in the national ID system, which the ICT minister put at about 99 percent of citizens aged 16 and above; against the 22.2 million population held this is about 61 percent of the whole population (computed) ([source, 2026-09-16](https://malawi24.com/2026/09/26/nzika-wallet-controversy-who-holds-the-keys-to-malawis-multibillion-digital-identity/)).
 - The ICT Minister said the national ID system has over 13.5 million people registered, about 99 percent of citizens aged 16 and above; against the population of 22.2 million held (2025) that is about 61 percent of all ages ([source, 2026-09](https://mwnation.com/national-ids-to-last-a-lifetime/)).
-- Malawi's national identity system holds information on more than 13.5 million registered people, per current reporting cited by the column; against 22.2 million population that is about 61% (share computed from the held population) ([source, 2026-09](https://www.maravipost.com/malawis-digital-id-must-earn-public-trust/)).
-
-### Niger: 2 Nascent
-
-A third of the population or more held a national ID in 2026.
-
-- The DGATDD says about 3,000,000 of the 13 million Nigeriens old enough for the national ID card do not yet hold one, so about 10 million hold one, roughly 36% of the 27.9 million population (derived by dividing by the stated population) ([source, 2026-08-28](https://interieur.gouv.ne/agadez-ouverture-de-la-4eme-etape-de-la-tournee-nationale-de-sensibilisation-sur-les-reformes-en-matiere-detat-civil-et-didentification-des-personnes/)).
 
 ### Nigeria: 2 Nascent
 
@@ -133,7 +127,7 @@ A third of the population or more held a national ID in 2026.
 A third of the population or more held a national ID in 2026.
 
 - The Home Affairs Minister said 27,520,835 people had been registered and 23,515,667 had received identification numbers; the registered count is about 39 percent of the 70.5 million population held (2025), calculated here ([source, 2026-09](https://www.thecitizen.co.tz/tanzania/news/national/why-your-nida-number-is-more-than-just-a-numeral-5598108)).
-- NIDA says it has registered 27,520,835 people and issued 23,515,667 National Identification Numbers; the registered count is about 39 percent of the 70.5 million population held (2025), calculated here ([source, 2026-09](https://dailynews.co.tz/unclaimed-ids-law-in-offing/)).
+- Home Affairs minister Patrobas Katambi reported 27,520,835 people registered with NIDA and 23,515,667 issued a National Identification Number, which is 39% and 33% of the 70.5 million population (shares computed from the population held; figures as corrected in the record's summary, the body text differing) ([source, 2026-09-16](https://www.mwananchi.co.tz/mw/habari/kitaifa/nida-yaondoa-kikwazo-cha-umri-namba-kuunganisha-huduma-za-kiraia-5597344)).
 
 ### DR Congo: 1 Absent
 
@@ -151,22 +145,28 @@ Fewer than a third of the population held a national ID in 2026.
 
 Fewer than a third of the population held a national ID in 2026.
 
+- The National Identification Registry says fewer than 800,000 people in Liberia hold a national ID, against a planned database for up to 10 million people, and issuance has been suspended since June 2025 ([source, 2026-10-19](https://www.biometricupdate.com/202610/liberian-mps-begin-scrutinizing-ppp-concession-deal-for-new-national-id)).
 - The proclamation says about 720,000 people are enrolled in the NBIS, which is about 12.6% of Liberia's 5.7 million people (share computed from the held population figure) ([source, 2026-09-16](https://www.africa-newsroom.com/press/liberia-president-boakai-declares-wednesday-september-16-as-national-identification-day?lang=en)).
-- Biometric Update says Liberia's national ID coverage is less than 15 percent of a population of more than five million ([source, 2026-08-18](https://www.biometricupdate.com/202608/liberia-advances-ppp-backed-digital-id-rollout-with-osd)).
 
 ### Madagascar: 1 Absent
 
 Fewer than a third of the population held a national ID in 2026.
 
 - Interior minister Velonjara Tiaray Rakotonandrasana says nearly 5 million people were enrolled in phase I of Izaho tokana biometric enrolment, about 15% of the 32.7 million population (computed), with reconciliation against the central base still under way ([source, 2026-09-16](https://www.2424.mg/identite-numerique-izaho-tokana-2-0-cible-plus-de-10-millions-de-citoyens-pour-sa-deuxieme-phase/)).
-- More than 3.25 million people are enrolled for the ID under PRODIGY, about 9.9% of the 32.7 million population (divided by the population held, not stated in the document) ([source, 2026-07](https://www.biometricupdate.com/202607/madagascars-last-mile-civil-registration-strategy-closing-digital-id-inclusion-gap)).
+- Authorities said more than six million people had been enrolled in Madagascar's biometric ID scheme by June 2026, about 18% of 32.7 million people (share computed from the population given), against a 12 million target ([source, 2026-06](https://www.biometricupdate.com/202609/madagascar-strengthens-trust-architecture-for-national-digital-id)).
+
+### Niger: 1 Absent
+
+About 3 million people, under a third of the population, held a national ID card in 2026; a report a week earlier said 10 million.
+
+- The Secretary General of Diffa region said about three million Nigeriens currently hold a national identity card, out of an estimated 13 million potentially concerned; against the 27.9 million population that is about 10.8% (computed here) ([source, 2026-09-03](https://anp.ne/diffa-lancement-de-la-tournee-nationale-de-sensibilisation-sur-la-modernisation-de-letat-civil-et-lidentification/)).
 
 ### Somalia: 1 Absent
 
 Fewer than a third of the population held a national ID in 2026.
 
+- NIRA has registered more than 1.5 million citizens since 2023, about 7.6% of the 19.7 million population (share computed from the population held), against a target of 15 million by 2029, says the Hiiraan report quoting the interior minister ([source, 2026-09-19](https://www.hiiraan.com/news4/2026/Sep/206316/somalia_registers_15_million_citizens_under_national_id_system.aspx)).
 - NIRA said it had registered more than 1.5 million Somali citizens since 2023, about 7.6% of the 19.7 million population (share computed here), against a target of 15 million citizens and residents by 2029 ([source, 2026-09](https://www.hiiraan.com/news4/2026/Oct/206408/puntland_passengers_blocked_from_flights_over_nira_id_requirement.aspx)).
-- NIRA's director general says 1.5 million Somali citizens are registered, about 7.6% of the 19.7 million population (computed from the stated population) ([source, 2026-09](https://sonna.so/en/article/National-Identification-Week-2026-Concludes-in-Mogadishu)).
 
 ### South Sudan: 1 Absent
 
@@ -186,13 +186,13 @@ Fewer than a third of the population held a national ID in 2026.
 
 Nothing found since 2023 names a count of people holding a national ID, so no stage is set.
 
-Not established: Nothing found since October 2023 counts the people holding a national ID.
+Not established: Nothing found since October 2023 counts the people holding a national ID. The only count, February 2023, is outside the window.
 
 ### Senegal: Unplaced
 
 Nothing found since 2023 names a count of people holding a national ID, so no stage is set.
 
-Not established: Nothing found since October 2023 counts the people holding a national ID.
+Not established: Nothing found since October 2023 counts the people holding a national ID. The only count, from 2018, is outside the window.
 
 ### Algeria: No evidence
 

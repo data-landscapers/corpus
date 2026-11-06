@@ -1,17 +1,18 @@
 {
- "iso3": "GAB",
- "cells": [
-  {
-   "sub_indicator": "coverage",
-   "stage": "1",
-   "share": "below",
-   "everyone": "",
-   "births": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GAB-001",
-   "gaps": "No source found since October 2023 says: does a third of the population hold a national id.",
-   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
-  }
- ]
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "coverage",
+      "stage": "1",
+      "share": "below",
+      "everyone": "",
+      "births": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GAB-001",
+      "gaps": "No source found since October 2023 counts a third of the population or more holding a national ID. Holders of the older card are not counted.",
+      "note": "The June 2026 count of 335,384 enrolled in the electronic card campaign is about 13% of the population. The new system is the one counted, as for Zambia and Madagascar.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

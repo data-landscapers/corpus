@@ -1,17 +1,18 @@
 {
- "iso3": "NER",
- "cells": [
-  {
-   "sub_indicator": "coverage",
-   "stage": "2",
-   "share": "third",
-   "everyone": "",
-   "births": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NER-002",
-   "gaps": "No source found since October 2023 says: do two-thirds hold one.",
-   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
-  }
- ]
+  "iso3": "NER",
+  "cells": [
+    {
+      "sub_indicator": "coverage",
+      "stage": "1",
+      "share": "below",
+      "everyone": "",
+      "births": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NER-001",
+      "gaps": "No source found since October 2023 counts a third of the population or more holding a national ID. Two reports of the same official a week apart disagree: about 3 million hold the card (Diffa, September 2026) or about 3 million lack one (Agadez, August 2026).",
+      "note": "The newest fact stands: the September 2026 Diffa report puts holders at about 3 million, about 11% of the population. The earlier Agadez report would give about 36%, so the cell is staged on the lower, later reading.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

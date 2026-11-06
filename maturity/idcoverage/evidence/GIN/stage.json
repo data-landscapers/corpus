@@ -1,17 +1,18 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "coverage",
-   "stage": "2",
-   "share": "third",
-   "everyone": "",
-   "births": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GIN-001",
-   "gaps": "No source found since October 2023 says: do two-thirds hold one.",
-   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "coverage",
+      "stage": "2",
+      "share": "third",
+      "everyone": "",
+      "births": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-001",
+      "gaps": "No source found since October 2023 counts two-thirds of the population or more holding a national ID.",
+      "note": "The July 2025 RNPP count of 9.0 million after deduplication is about 60% of the population. Nothing counts two-thirds.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

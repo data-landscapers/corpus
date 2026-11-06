@@ -1,17 +1,18 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "coverage",
-   "stage": "2",
-   "share": "third",
-   "everyone": "",
-   "births": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ETH-002;ETH-005",
-   "gaps": "No source found since October 2023 says: do two-thirds hold one.",
-   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "coverage",
+      "stage": "2",
+      "share": "third",
+      "everyone": "",
+      "births": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-001;ETH-004",
+      "gaps": "No source found since October 2023 counts two-thirds of the population or more holding a national ID.",
+      "note": "Fayda registrations of over 52 million by October 2026 are about 38% of the population. Nothing counts two-thirds.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

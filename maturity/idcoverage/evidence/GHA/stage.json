@@ -1,17 +1,18 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "coverage",
-   "stage": "2",
-   "share": "third",
-   "everyone": "",
-   "births": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-001",
-   "gaps": "No source found since October 2023 says: do two-thirds hold one.",
-   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "coverage",
+      "stage": "2",
+      "share": "third",
+      "everyone": "",
+      "births": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-001",
+      "gaps": "No source found since October 2023 counts two-thirds of the population or more holding a national ID.",
+      "note": "The March 2024 count of 17.8 million on the National Identification Register is about half the population, inside the window. Nothing counts two-thirds.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

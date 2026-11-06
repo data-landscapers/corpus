@@ -1,17 +1,18 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "coverage",
-   "stage": "no evidence",
-   "share": "",
-   "everyone": "",
-   "births": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found counts the people holding a national ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "coverage",
+      "stage": "no evidence",
+      "share": "",
+      "everyone": "",
+      "births": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found counts the people holding a national ID.",
+      "note": "No row on this sub-indicator is held, so no stage is set.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

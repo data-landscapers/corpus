@@ -1,17 +1,18 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "coverage",
-   "stage": "3",
-   "share": "twothirds",
-   "everyone": "",
-   "births": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "RWA-002",
-   "gaps": "No source found since October 2023 counts 99.9% of the population or more holding a national ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "coverage",
+      "stage": "3",
+      "share": "twothirds",
+      "everyone": "",
+      "births": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-002",
+      "gaps": "No source found since October 2023 counts 99.9% of the population or more holding a national ID. The 68% clears two-thirds narrowly; enrolment in the new digital ID was still under way in 27 of 30 districts.",
+      "note": "NIDA's September 2026 count of over 10 million with biometrics captured is about 68% of the population. It clears two-thirds narrowly and nothing counts 99.9%.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

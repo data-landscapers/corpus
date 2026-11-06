@@ -1,17 +1,18 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "coverage",
-   "stage": "unplaced",
-   "share": "",
-   "everyone": "",
-   "births": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found since October 2023 counts the people holding a national ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "coverage",
+      "stage": "unplaced",
+      "share": "",
+      "everyone": "",
+      "births": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found since October 2023 counts the people holding a national ID. The only count, from 2018, is outside the window.",
+      "note": "The one count held, over 7 million biometric IDs by 2018, is older than three years and sets no rung.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

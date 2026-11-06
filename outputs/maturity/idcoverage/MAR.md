@@ -2,7 +2,7 @@
 
 ## Registration of entire population
 
-**Share holding an ID.** [The ID4Africa slide gives 31 million citizens holding the electronic national identity card against a total Moroccan population of 36.6 million, about 85%](<https://www.id4africa.com/2025/files/T3-P1-S3-MOSIP-Final.pdf>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Share holding an ID.** [A May 2025 ID4Africa presentation counted 31 million citizens holding the electronic national identity card, out of 36.6 million people](<https://www.id4africa.com/2025/files/T3-P1-S3-MOSIP-Final.pdf>). That is about 85% of the population. It is the only such count found. No other news story or official notice read for this study adds to it. The documents the earlier cell cited were not read. The systems themselves were not examined.
 
 **Everyone holds one.** No source found since October 2023 counts 99.9% of the population or more holding a national ID. The nearest held fact: [the one given above](<https://www.id4africa.com/2025/files/T3-P1-S3-MOSIP-Final.pdf>).
 

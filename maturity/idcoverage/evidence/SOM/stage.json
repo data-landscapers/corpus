@@ -1,17 +1,18 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "coverage",
-   "stage": "1",
-   "share": "below",
-   "everyone": "",
-   "births": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SOM-006;SOM-007",
-   "gaps": "No source found since October 2023 says: does a third of the population hold a national id.",
-   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "coverage",
+      "stage": "1",
+      "share": "below",
+      "everyone": "",
+      "births": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-001;SOM-006",
+      "gaps": "No source found since October 2023 counts a third of the population or more holding a national ID.",
+      "note": "NIRA's September 2026 count of 1.5 million registered is about 8% of the population. The 2022 survey figure is outside the window and sets nothing.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

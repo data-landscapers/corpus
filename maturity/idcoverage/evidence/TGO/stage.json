@@ -1,17 +1,18 @@
 {
- "iso3": "TGO",
- "cells": [
-  {
-   "sub_indicator": "coverage",
-   "stage": "3",
-   "share": "twothirds",
-   "everyone": "",
-   "births": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TGO-002;TGO-004",
-   "gaps": "No source found since October 2023 counts 99.9% of the population or more holding a national ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idcoverage.py."
-  }
- ]
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "coverage",
+      "stage": "3",
+      "share": "twothirds",
+      "everyone": "",
+      "births": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TGO-002;TGO-010",
+      "gaps": "No source found since October 2023 counts 99.9% of the population or more holding a national ID.",
+      "note": "More than 6 million with a NIU at the end of 2025 and in September 2026 are about 70% of the population. Nothing counts 99.9%.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

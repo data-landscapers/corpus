@@ -9,10 +9,10 @@
       "births": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBR-001;LBR-002",
-      "gaps": "No source found since October 2023 says: does a third of the population hold a national id.",
-      "note": "First pass: counted from the four questions by study-ladder-idcoverage.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "LBR-005;LBR-001",
+      "gaps": "No source found since October 2023 counts a third of the population or more holding a national ID.",
+      "note": "Every count from 2024 to October 2026 puts NBIS enrolment at 12 to 15% of the population. Issuance has been suspended since June 2025.",
+      "as_at": "2026-11-06"
     }
   ]
 }
