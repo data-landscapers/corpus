@@ -1,0 +1,36 @@
+{
+ "schema": 3,
+ "written_utc": "2026-11-06 18:04",
+ "pass": "WIKI-SYNC",
+ "head": "f66adf225fff1c43468028ed345f5175c24b16b5",
+ "head_committed_utc": "2026-11-06 18:04",
+ "collection": {
+  "last_admission": "2026-11-06 17:07",
+  "sweep_closed": "2026-11-06 16:21",
+  "ingest_started": "2026-11-06 16:40"
+ },
+ "rotation": {
+  "days": 2,
+  "newest_close": {
+   "day": "1",
+   "jobs": [
+    "SWEEP-NEWSPAPERS",
+    "SWEEP-JOURNALS",
+    "SWEEP-THINKTANKS",
+    "SWEEP-REGIONAL"
+   ],
+   "start": "2026-11-05 20:18",
+   "end": "2026-11-05 23:27",
+   "duration": "3:09",
+   "skipped": false,
+   "in_progress": false
+  },
+  "in_progress": []
+ },
+ "counts": {
+  "rows": 895,
+  "deleted": 18,
+  "awaiting_ingest": 0,
+  "raw_sources": 42747
+ }
+}
