@@ -1,6 +1,6 @@
 ---
 title: Namibia: status report
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: NAM
 region: XSA
 built_by: STATUS-INIT
@@ -114,7 +114,7 @@ The largest money going into Namibia's digital estate is a private operator's ow
 The public money is foreign and smaller. [China has committed CNY 98 million, about US$14.4 million at 2026 rates, to Namibia's Smart City pilot](https://itweb.africa/article/china-funds-namibia-digital-infrastructure/rW1xL75n1YmMRk6m), paying for digital infrastructure, artificial intelligence capability and skills development under a decade-long programme to modernise the capital (2026). Domestically, [Cabinet approved a US$20 million ICT venture capital fund for SME founders, women among them](https://itweb.africa/article/namibia-expedites-data-centre-smart-city-development/KWEBb7yLVARvmRjO) (September 2025), which is an approval and not yet an investment in anything.
 
 <!-- derived -->
-Four commitments carry the whole of Namibia's digital-sector financing from 2018 to 2026, worth roughly US$72 million between them once the announcement currencies are converted (November 2026). The three from 2025 and 2026 are different kinds of money — an operator's capital spending on its own network, a commercial bank's loan to the state operator for network modernisation, and a foreign state's contribution to a municipal pilot — so their sizes say little about who funds Namibian digital. The fourth is China's completed 2018 grant of meteorological equipment.
+Namibia's digital-sector financing from 2016 to 2026 runs to 38 commitments, worth roughly US$79 million once the announcement currencies are converted (November 2026). Four of them carry about US$72 million (November 2026). The three from 2025 and 2026 are different kinds of money — an operator's capital spending on its own network, a commercial bank's loan to the state operator for network modernisation, and a foreign state's contribution to a municipal pilot — so their sizes say little about who funds Namibian digital. The fourth is China's completed 2018 grant of meteorological equipment. The other 34 are grants from 14 donors, together about US$7 million (November 2026).
 
 ## ICT Infrastructure
 
