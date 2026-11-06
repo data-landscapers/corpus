@@ -1,11 +1,11 @@
 ---
 title: Central Africa — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: XCA
-ledger_rows: 12
+ledger_rows: 13
 not_held: 0
-record: e67114d278ae
+record: 4408400fe1a5
 ---
 
 # News, Oct – Nov 2026
@@ -193,6 +193,20 @@ Summarised under [Regional collaboration](#regional-collaboration).
 **[CEMAC | SUPTECH : La COBAC se penche sur l’usage de l’intelligence artificielle dans la régulation bancaire](https://droitmediasfinance.com/index.php/actualites/droit-bancaire/1424-cemac-suptech-la-cobac-annonce-lusage-de-lintelligence-artificielle-dans-la-regulation-bancaire)** — Droit Médias Finance, 25 October 2026
 
 Central Africa's banking supervisor, COBAC, said in its 2025 annual report that it will begin applying AI and advanced analytics to banks' prudential returns over 2026 and 2027. The plan falls under its OWALI 2025-2029 strategy. No system in use is reported.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">BEAC internal AI adoption strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CEMAC : La BEAC engage une étude pour une stratégie interne d'intelligence artificielle](https://www.droitmediasfinance.com/index.php/actualites/droit-tech-fintech/1431-cemac-la-beac-engage-une-etude-pour-une-strategie-interne-dintelligence-artificielle)** — Droit Médias Finance, 4 November 2026
+
+Own-funded consultancy for AI maturity diagnostic and priority use cases; bids due 23 Dec 2026.
 
 </div>
 
