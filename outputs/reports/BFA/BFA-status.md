@@ -1,12 +1,12 @@
 ---
 title: Burkina Faso: status report
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: BFA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 9
-sources_cited: 215
+sources_cited: 216
 sections_written: 39
 not_established: 0
 acquire_lines: 62
@@ -313,7 +313,7 @@ The state charges its own staff to learn. Burkina Faso's [digital skills program
 
 Institution-building has moved faster than instruction. The Conseil des ministres [adopted the statutes of the Académie technologique du Faso on 23 July 2026](https://www.rtb.bf/2026/07/24/compte-rendu-du-conseil-des-ministres-du-jeudi-23-juillet-2026/), and a week later [a Répertoire général des métiers de la formation professionnelle covering 14 priority sectors, digital transition among them](https://www.sidwaya.info/burkina-faso-acceleration-de-la-digitalisation-de-lidentite-et-restructuration-de-la-formation-professionnelle/) (30 July 2026).
 
-What reaches serving officials is episodic and small. [Senior staff of the Ministry of Territorial Administration were trained in personal data protection in July 2025](https://www.sidwaya.info/protection-des-donnees-a-caractere-personnel-des-cadres-du-ministere-de-ladministration-territoriale-outilles/), extending compliance work into the ministry that runs local administration, and [the Prime Minister's office ran a two-day session for its own senior staff on management tools for the ethical and responsible use of artificial intelligence on 13-14 July 2026](https://www.sidwaya.info/intelligence-artificielle-la-primature-outille-ses-responsables-pour-un-usage-ethique/), and [the digital ministry gave the secretaries general of all ministries and institutions a two-day course on generative AI tools and on which administrative data may be put into them](https://www.sidwaya.info/utilisation-de-lintelligence-artificielle-des-secretaires-generaux-a-lecole-des-bonnes-pratiques/) (September 2026). [The national artificial-intelligence roadmap is meant to build national skills in artificial intelligence, data science and emerging technologies](https://lefaso.net/spip.php?article147201=) (June 2026).
+What reaches serving officials is episodic and small. [Senior staff of the Ministry of Territorial Administration were trained in personal data protection in July 2025](https://www.sidwaya.info/protection-des-donnees-a-caractere-personnel-des-cadres-du-ministere-de-ladministration-territoriale-outilles/), extending compliance work into the ministry that runs local administration, and [the Prime Minister's office ran a two-day session for its own senior staff on management tools for the ethical and responsible use of artificial intelligence on 13-14 July 2026](https://www.sidwaya.info/intelligence-artificielle-la-primature-outille-ses-responsables-pour-un-usage-ethique/), and [the digital ministry gave the secretaries general of all ministries and institutions a two-day course on generative AI tools and on which administrative data may be put into them](https://www.sidwaya.info/utilisation-de-lintelligence-artificielle-des-secretaires-generaux-a-lecole-des-bonnes-pratiques/) (September 2026). [The tax directorate began training more than 400 agents on its e-filing, certified e-invoicing and online cadastre platforms on 4 November 2026, under a FCFA 2.72bn public-finance training programme for 2026-2028 funded equally by Swiss cooperation and the government](https://lefaso.net/spip.php?article150547). [The national artificial-intelligence roadmap is meant to build national skills in artificial intelligence, data science and emerging technologies](https://lefaso.net/spip.php?article147201=) (June 2026).
 
 Much of the rest has been donor-carried and is running out. [A UNDP project with the government, covering digital skills alongside digital inclusion and ICT policy, runs to 2026](https://open.undp.org/projects/00125521), and [Enabel's Digital for Girls and Women project, which put digital skills and digital rights awareness to girls and women](https://open.enabel.be/en/evaluation/23/download/96), closed in 2025. Outside the state there are [innovation hubs and fab labs such as OuagaLab, InViis Lab and La Fabrique](https://www.fondazioneaurora.org/innovation-hubs-fablabs-burkinafaso/) (2023).
 
