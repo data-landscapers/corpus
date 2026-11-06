@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-crs-7-2022000154-2024-abj-paradigm-freedom-of-expression",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "A Netherlands-funded project (USD 134,399 in 2024) advocates addressing gaps in Nigeria's cybercrime legislation and against already passed harmful legislation, so a cybercrime law exists.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Nigeria cybercrime legislation",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nigeria cybercrime legislation",
+   "country_label": "Nigeria",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
