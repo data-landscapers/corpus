@@ -47,8 +47,12 @@ with tempfile.TemporaryDirectory() as tmp:
              src("undated", None, ["dpi.pay"]),                  # cannot be placed
              src("foreign", "2026-10-03", ["dpi.pay"])]          # another unit's
     by_place = {"AAA": {r["d"]["slug"] for r in rows if r["d"]["slug"] != "foreign"}}
+    deal = src("crs-1", "2026-10-03", ["dpi.pay", "finance.new"])
+    deal["fm"]["deal_id"] = "crs-1-2016"                          # a dataset row: check K's
+    rows.append(deal)
+    by_place["AAA"].add("crs-1")
     since, n, owed = rs.sections_owed("AAA", by_place, rows)
-    case("15 is not past the threshold", (n, owed) == (15, {}))
+    case("15 is not past the threshold, and a deal record is not counted", (n, owed) == (15, {}))
 
     rows.append(src("pay1", "2026-10-03T08:00", ["dpi.pay", "gov.policy"]))
     by_place["AAA"].add("pay1")

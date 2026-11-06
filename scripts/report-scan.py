@@ -214,7 +214,10 @@ def sections_owed(unit, by_place=None, rows=None):
 
     Only a source whose `topics:` name one of the unit's status sub-sections counts: a budget
     book tagged `finance.budget` alone touches nothing the status says. A record with no
-    `ingested:` is not counted, since it cannot be placed after anything."""
+    `ingested:` is not counted, since it cannot be placed after anything. Nor is a deal record
+    (one carrying `deal_id:`): what it can change is the non-state count, which a derived
+    paragraph states and check K holds to the table, so a dataset backfill of thousands of
+    commitments does not make every sub-section it tags owe a whole re-read (2026-11-06)."""
     by_place = sources_by_place() if by_place is None else by_place
     rows = vault_lib.load_index() if rows is None else rows
     since = last_whole_read(unit)
@@ -224,7 +227,7 @@ def sections_owed(unit, by_place=None, rows=None):
     for r in rows:
         d, fm = r.get("d") or {}, r.get("fm") or {}
         ing = str(fm.get("ingested") or "")[:10]
-        if d.get("folder") != "raw" or not ing or ing <= since:
+        if d.get("folder") != "raw" or not ing or ing <= since or fm.get("deal_id"):
             continue
         if (d.get("slug") or os.path.basename(r["path"])[:-3]) not in mine:
             continue
