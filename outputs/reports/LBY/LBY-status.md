@@ -1,12 +1,12 @@
 ---
 title: Libya: status report
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: LBY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 206
+sources_cited: 207
 sections_written: 39
 not_established: 0
 acquire_lines: 50
@@ -195,6 +195,8 @@ In November 2025 [the General Information Authority began pilot trials of LY-DNI
 In August 2026 [banks still could not meet large cash withdrawals, and some clinics added a surcharge for paying by card](https://libyaherald.com/2026/08/municipal-guard-warns-against-imposing-surcharge-for-debit-card-payments/). In May 2026 [a record day of point-of-sale traffic brought the payment system down](https://libyaherald.com/2026/05/two-million-pos-transactions-in-a-single-day-across-67000-points-cause-collapse-of-e-payment-system-cbl-apologises). In September 2026 [the banking forum behind the Zero Cash initiative dropped it, because the central bank never issued its framework](https://alwasat.ly/news/477201).
 
 [A 2020 National Payments Council regulation licenses electronic-payment and wallet providers](https://cbl.gov.ly/en/wp-content/uploads/2022/08/%D9%84%D8%A7%D9%8A%D9%94%D8%AD%D8%A9-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%81%D8%B9-%D8%A7%D9%84%D8%A7%D9%95%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A.pdf). [The bank's 2026 strategy for digital payments sets eight initiatives, from instant payments and a national switch to open banking](https://cbl.gov.ly/en/wp-content/uploads/sites/4/2026/08/Central-Bank-of-Libyas-National-Strategy-for-Accelerating-Digital-Payments-and-Enhancing-Financial-Inclusion-in-Libya-1.pdf). [The bank has operated LYPay and OnePay since 2024](https://cbl.gov.ly/en/instant-payment-services-statistics/). [It publishes the scheme's API specifications openly](https://central-bank-of-libya.gitbook.io/devportal/lypay/lypay-instant-payment-system), and [LYPay carries person, merchant and business transfers on the same rails](https://lypay.gov.ly/). [Banks were directed to activate QR payment by 8 March 2026](https://alwasat.ly/news/libya/510123), and [SoftPOS was launched in June 2026](https://alwasat.ly/news/libya/521750). In September 2026 [the governor put a pilot for joining China's CIPS system at early 2027](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference). [A private bank is to send payments to China through Alipay, capped at US$5,000 a transaction](https://libyaherald.com/2026/09/libyas-north-africa-bank-to-launch-direct-payment-service-to-china-using-alipay/) (September 2026).
+
+[In September 2023 the social affairs ministry issued more than one million e-payment cards for the wives' and daughters' allowance, paid through the central bank's banking operations](https://libyaobserver.ly/inbrief/dbeibah-orders-immediate-disbursement-wives-and-childrens-allowance).
 
 [Access to banking scored 8.4 out of 100 in 2023, 44th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ly.pdf). [In 2026 citizens could send up to LD 100,000 a day person-to-person, and resident foreigners LD 50,000](https://alwasat.ly/news/libya/511044). [The wallet opened to foreigners in March 2026 is issued on a passport and residency card](https://libyaherald.com/2026/03/bank-of-commerce-and-development-first-bank-to-launch-e-wallet-for-expat-residents-and-workers). [Decision No. 247 of 2024 added electronic collection of income tax from 15 May 2024](https://lawsociety.ly/en/legislation/decision-no-247-of-2024-on-adding-a-method-for-collecting-income-tax/).
 
