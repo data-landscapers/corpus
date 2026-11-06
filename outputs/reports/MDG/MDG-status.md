@@ -1,12 +1,12 @@
 ---
 title: Madagascar: status report
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: MDG
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 25
-sources_cited: 264
+sources_cited: 266
 sections_written: 39
 not_established: 2
 acquire_lines: 25
@@ -113,16 +113,16 @@ Neither of the two 2026 agreements that name artificial intelligence attaches an
 [In April 2025 the European Investment Bank lent AXIAN Telecom US$100 million, US$40 million of it for 4G and 5G in Madagascar](https://techafricanews.com/2025/04/11/eib-grants-100m-to-axian-telecom-for-4g-5g-rollout-in-tanzania-and-madagascar/). [China Eximbank's CNY 337,998,700 concessional loan of February 2020 runs at 1.5 percent over 30 years](http://www.tresorpublic.mg/tresorpublic/download.php?path=wp-content/themes/tresor-public/statik-content/tresor-public/temp/statistique/rapport_activite/&file=ra2017.pdf). [It funds a Huawei 4G eLTE network across public safety and government agencies in Antananarivo](http://www.tresorpublic.mg/tresorpublic/download.php?path=wp-content/themes/tresor-public/statik-content/tresor-public/temp/statistique/rapport_activite/&file=ra2017.pdf). [In July 2026 Indonesia's Indo-Aid released more than IDR 3.4 billion for a Maritime Single Window at the ports agency APMF](https://newsmada.com/2026/08/07/deploiement-de-maritime-single-window-lindonesie-debloque-816-millions-dariary/).
 
 <!-- derived -->
-Thirteen digital-sector commitments to Madagascar are held with a start year between 2015 and 2026 (November 2026); the European Investment Bank and African Development Bank loans to AXIAN Telecom are held as regional operator financings and are not among them.
+Eighty-one digital-sector commitments to Madagascar are held with a start year between 2015 and 2026, from 23 financiers (November 2026). The European Investment Bank and African Development Bank loans to AXIAN Telecom are held as regional operator financings and are not among them.
 
 <!-- derived -->
-All thirteen carry a dollar amount, and together they come to about US$420 million as at November 2026 — committed sums, not disbursements.
+All 81 carry a dollar amount, and together they come to about US$442 million as at November 2026 — committed sums, not disbursements.
 
 <!-- derived -->
-The World Bank holds five of the thirteen and about 85 per cent of the money; China Eximbank's loan, at about US$55 million, is the largest from any other financier (November 2026).
+The World Bank holds five of the 81 and about 81 per cent of the money; China Eximbank's loan, at about US$55 million, is the largest from any other financier (November 2026). USAID made 33 of the commitments, together worth about US$14 million.
 
 <!-- derived -->
-Connectivity takes the largest share of the money, about US$190 million, ahead of digital identity at US$143 million and digital payments at about US$53 million (November 2026).
+Connectivity takes the largest share of the money, about US$190 million, ahead of digital identity at US$143 million and digital payments at about US$53 million (November 2026). National statistics has the most commitments, 34, worth about US$45 million together.
 
 <!-- derived -->
 The June 2025 development policy operation and PRODUIRE2 are not among them: digital is one reform area in the first and land services a small part of the second.
@@ -429,7 +429,7 @@ Across the 23 categories the 2024 open data inventory scores, Madagascar average
 
 [In 2023 UNICEF published monthly satellite-based drought alerts for the south, recording no national drought monitoring system](https://www.unicef.org/madagascar/rapports/bulletin-dalerte-s%C3%A9cheresse-du-grand-sud-de-madagascar-2023). [A 2025 UNDP assessment lists real-time drought monitoring among the data gaps](https://www.undp.org/sites/g/files/zskgke326/files/2025-12/undp_ews_madagascar_report_en.pdf). [In February 2026 UNDP combined satellite images of cyclone flooding with socioeconomic data to target recovery](https://www.undp.org/africa/press-releases/cyclones-devastated-madagascars-poorest-communities-new-satellite-analysis-reveals). [External researchers built the first country-wide rice-paddy maps, for 2017 to 2025, from Landsat and Sentinel-2](https://essd.copernicus.org/preprints/essd-2026-518/). [The EU fisheries agreement ties surveillance in Madagascar's waters to a satellite-tracking regime](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:22023A0719%2802%29). [The land programme is digitising cadastral data from orthophotos](https://observatoire-territoire.mg/publications/programme-national-foncier-ii/).
 
-[In May 2026 the meteorological service signed a memorandum with the China Meteorological Administration on radar and satellite capacity, cyclone forecasting and early warning](https://www.meteomadagascar.mg/actualite/madagascar-et-la-chine-renforcent-leur-collaboration-pour-la-resilience-climatique-18-mai-2026/). [Madagascar has joined the UN Early Warnings for All initiative](https://www.meteomadagascar.mg/actualite/madagascar-et-la-chine-renforcent-leur-collaboration-pour-la-resilience-climatique-18-mai-2026/). [A 2023 peer review judged the service's warnings, hydrology and dissemination only basic](https://www.un-soff.org/wp-content/uploads/2024/04/Madagascar-CHD.pdf).
+[In May 2026 the meteorological service signed a memorandum with the China Meteorological Administration on radar and satellite capacity, cyclone forecasting and early warning](https://www.meteomadagascar.mg/actualite/madagascar-et-la-chine-renforcent-leur-collaboration-pour-la-resilience-climatique-18-mai-2026/). [Madagascar has joined the UN Early Warnings for All initiative](https://www.meteomadagascar.mg/actualite/madagascar-et-la-chine-renforcent-leur-collaboration-pour-la-resilience-climatique-18-mai-2026/). [A 2023 peer review judged the service's warnings, hydrology and dissemination only basic](https://www.un-soff.org/wp-content/uploads/2024/04/Madagascar-CHD.pdf). [The service's March 2024 observing plan found 4 of the 15 surface stations the global observing network requires compliant, all four run by ASECNA](https://www.un-soff.org/wp-content/uploads/2024/05/Madagascar-GBON-National-Contribution-Plan.pdf). [By June 2026 a US$4.9 million SOFF investment under UNDP had installed a WIS 2.0 data-exchange system, with the station purchase order due in August](https://www.un-soff.org/wp-content/uploads/2026/09/SOFF_Madagascar_Investment-Phase-Progress-Update_July-2026.pdf).
 
 [SpaceX filed with the US regulator on 13 May 2026 for Starlink Direct-to-Cell coverage using Airtel Madagascar's spectrum](https://spaceinafrica.com/2026/05/19/madagascar-set-to-launch-starlink-direct-to-cell-services/). [The first trial ran at Sadabe on 11 July 2026, with commercial launch awaiting ARTEC's authorisation](https://www.telecomreviewafrica.com/articles/general-news/28982-madagascar-conducts-first-direct-to-cell-satellite-trial-advancing-digital-inclusion/). [In June 2026 Airtel and Eutelsat extended a low-earth-orbit rural broadband partnership on OneWeb](https://techafricanews.com/2026/06/01/airtel-madagascar-and-eutelsat-deepen-push-for-rural-broadband-access/).
 
@@ -450,7 +450,7 @@ No United States government digital programme or agreement with Madagascar had b
 [China Eximbank signed a government concessional loan of some CNY 338 million with Madagascar on 19 February 2020](http://www.tresorpublic.mg/tresorpublic/download.php?path=wp-content/themes/tresor-public/statik-content/tresor-public/temp/statistique/rapport_activite/&file=ra2017.pdf). [It funds a Huawei 4G eLTE fibre network across public safety and government agencies in Antananarivo](http://www.tresorpublic.mg/tresorpublic/download.php?path=wp-content/themes/tresor-public/statik-content/tresor-public/temp/statistique/rapport_activite/&file=ra2017.pdf). [It also covers data management centres, video-conferencing and surveillance cameras](http://www.tresorpublic.mg/tresorpublic/download.php?path=wp-content/themes/tresor-public/statik-content/tresor-public/temp/statistique/rapport_activite/&file=ra2017.pdf). [The loan runs 30 years with five years' grace at 1.5 percent interest, and the Senate approved it on 5 June 2020](http://www.tresorpublic.mg/tresorpublic/download.php?path=wp-content/themes/tresor-public/statik-content/tresor-public/temp/statistique/rapport_activite/&file=ra2017.pdf).
 
 <!-- derived -->
-Chinese money is nevertheless a small share of what has been committed to Madagascar's digital sector: the Eximbank loan, at about US$55 million, is about an eighth of the roughly US$419 million on record, against more than four fifths from the World Bank (October 2026).
+Chinese money is nevertheless a small share of what has been committed to Madagascar's digital sector: the Eximbank loan, at about US$55 million, is about an eighth of the roughly US$442 million on record, against about four fifths from the World Bank (November 2026).
 
 ### EU activities
 <!-- geopol.eu -->
