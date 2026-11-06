@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://national-cases.acerwc.africa/sites/default/files/2025-10/Eritrea%202nd%20Periodic%20Report.pdf",
+  "title": "Fourth Periodic National Report of the State of Eritrea on the African Charter on the Rights and Welfare of the Child (2020-2024)",
+  "publisher": "State of Eritrea / ACERWC",
+  "published": "2025",
+  "sub_indicator": "coverage",
+  "why": "Q4: birth registration rate and ID at 18"
+ },
+ {
+  "url": "https://www.ecoi.net/en/file/local/2107005/General%20country%20of%20origin%20information%20report%20on%20Eritrea%20December%202023.pdf",
+  "title": "General Country of Origin Information Report on Eritrea",
+  "publisher": "Netherlands Ministry of Foreign Affairs",
+  "published": "2023-12",
+  "sub_indicator": "coverage",
+  "why": "Q1: identity card issuance scale and gaps"
+ },
+ {
+  "url": "https://www.ecoi.net/en/file/local/2134440/Algemeen+ambtsbericht+Eritrea+december+2025.pdf",
+  "title": "Algemeen ambtsbericht Eritrea",
+  "publisher": "Ministerie van Buitenlandse Zaken (Netherlands)",
+  "published": "2025-12",
+  "sub_indicator": "coverage",
+  "why": "Q1-Q3: not every adult holds ID card or residence card; percentages unknown"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "coverage",
+ "aspect": "",
+ "fact": "",
+ "title": "Population and Vital Statistics - Republic of Mauritius, Year 2025",
+ "publisher": "Statistics Mauritius",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": "off-topic: counts of registered births and deaths, no completeness rate"
+}

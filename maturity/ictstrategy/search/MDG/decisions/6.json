@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "standing;period;plan",
+ "fact": "GSMA's October 2026 report states that the Plan stratégique numérique 2023-2028 remains the sector's long-term framework, with a 6% of GDP target by 2028, and that the ministry's Orientations stratégiques 2026-2027 set priorities to 2027.",
+ "title": "Les réformes de politique publique qui façonneront l'avenir numérique de Madagascar",
+ "publisher": "GSMA",
+ "published": "2026-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

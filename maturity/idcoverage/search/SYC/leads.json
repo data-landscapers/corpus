@@ -1,0 +1,6 @@
+[
+{"url":"https://www.health.gov.sc/wp-content/uploads/Annual-Vital-Statistics-Report-2024.pdf","title":"Annual Vital Statistics Report 2024","publisher":"Ministry of Health, Seychelles","published":"2025-03","sub_indicator":"coverage","why":"Q4: registered births and deaths 2024, Civil Status source"},
+{"url":"https://unstats.un.org/unsd/demographic-social/products/dyb/documents/metadata/2024/Seychelles-2024-VT-Metadata.pdf","title":"Seychelles Questionnaire on Vital Statistics, Reporting Year 2024 (metadata)","publisher":"United Nations Statistics Division","published":"2024","sub_indicator":"coverage","why":"Q4: birth completeness 91-99%, death completeness 100%, 2023"},
+{"url":"https://apai-crvs.uneca.org/sites/default/files/resourceuploads/seychelles-population-and-vital-statistics-2025.pdf","title":"Population and Vital Statistics 2025","publisher":"National Bureau of Statistics Seychelles","published":"2025","sub_indicator":"coverage","why":"Q4: 1,333 births and 850 deaths registered in 2024"},
+{"url":"https://www.ics.gov.sc/about/media-centre/publications/id-enrollment-in-districts","title":"ID Enrollment in Districts","publisher":"Department of Immigration and Civil Status, Seychelles","published":"2025-02-28","sub_indicator":"coverage","why":"Q1-Q3: mandatory ID for all residents, mobile enrolment"}
+]

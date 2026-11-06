@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "coverage",
+ "aspect": "births",
+ "fact": "UNICEF reported on 11 December 2024 that Madagascar's national birth registration rate fell from 83% in 2012 to 74% in 2021, ranging from 97% in Analamanga to 42% in Atsimo Andrefana.",
+ "title": "Si le taux d’enregistrement des naissances progresse régulièrement à l’échelle mondiale, 150 millions d’enfants demeurent « invisibles » – UNICEF",
+ "publisher": "UNICEF Madagascar",
+ "published": "2024-12-11",
+ "date_source": "source",
+ "why_not": ""
+}

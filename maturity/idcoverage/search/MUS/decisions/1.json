@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "coverage",
+ "aspect": "",
+ "fact": "",
+ "title": "Quality of vital statistics obtained from civil registration (Mauritius, 2025 questionnaire)",
+ "publisher": "United Nations Statistics Division",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": "off-topic: completeness cells ambiguous in extraction and the estimates refer to 1952-1972"
+}

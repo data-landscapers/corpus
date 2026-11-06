@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "standing;text;period;plan;reporting",
+ "fact": "The Zimbabwe National Policy for ICT 2022-2027, which replaced the lapsed 2016-2020 policy, is public, carries an implementation plan and M&E timelines, and is to be reviewed annually.",
+ "title": "Zimbabwe National Policy for ICT 2022-2027",
+ "publisher": "Ministry of ICT, Postal and Courier Services",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

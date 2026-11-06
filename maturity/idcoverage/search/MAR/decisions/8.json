@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "coverage",
+ "aspect": "births",
+ "fact": "UNFPA reports Morocco's birth registration completeness at 96% in 2018, while death registration completeness is 50-69% by the CRVS assessment (62.4% in 2007 per UNSD).",
+ "title": "Advancing civil registration for vital statistics in the Arab countries 2022",
+ "publisher": "UNFPA Arab States Regional Office",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

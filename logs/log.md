@@ -12,6 +12,9 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-06 07:39 · **REBUILD** · 52m · idcoverage coverage: 54 cells reassessed, 1 moved; 54 searched, 82 staged; ~63M tokens (three shared 190M, incl. two reviews) - ok
+2026-11-06 07:39 · **REBUILD** · 52m · ictstrategy sector: 2 cells reassessed, 2 moved; 54 searched, 83 staged; ~63M tokens (three shared 190M, incl. two reviews) - ok
+2026-11-06 07:39 · **REBUILD** · 53m · ictproduction production: 1 cell reassessed, 1 moved; 54 searched, 81 staged; ~63M tokens (three shared 190M, incl. two reviews) - ok
 2026-11-06 07:32 · **REVIEW** · unclocked · MWI: status 15 sections revised, 21 trimmed, progress 15 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT - ok
 2026-11-06 07:27 · **REVIEW** · 41m · MUS: status 10 sections revised, 27 trimmed, progress 4 cells, finance 0 rows; 0 deals queued, 1 notes for OSINT - ok
 2026-11-06 06:37 · **INDEX** · unclocked · research index: stopped at the start of 4,947 added or changed records by Claude Code's low-memory reaper; resumes next cycle - errored

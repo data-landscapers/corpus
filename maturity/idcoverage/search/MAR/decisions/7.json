@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "coverage",
+ "aspect": "births",
+ "fact": "Morocco's 2021 questionnaire to the UN Statistics Division gives registration completeness of 94% for live births, with the estimate referring to 2018.",
+ "title": "Questionnaire relatif aux mouvements de la population, Maroc",
+ "publisher": "United Nations Statistics Division, Demographic Yearbook",
+ "published": "2021",
+ "date_source": "source",
+ "why_not": ""
+}

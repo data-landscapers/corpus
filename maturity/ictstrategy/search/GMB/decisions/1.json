@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "standing;text;period",
+ "fact": "The Gambia ICT for Development (ICT4D) Policy 2018-2028 is published as a policy document on the government policy repository, which lists it as published on 13 December 2021.",
+ "title": "The Gambia ICT for Development Policy (ICT4D) 2018-2028",
+ "publisher": "Government of The Gambia Policy Repository",
+ "published": "2021-12-13",
+ "date_source": "proxy",
+ "why_not": ""
+}

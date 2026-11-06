@@ -1,0 +1,90 @@
+[
+ {
+  "url": "https://angop.ao/en/noticias/politica/cerca-de-16-milhoes-de-cidadaos-constam-da-base-do-bilhete-de-identidade/",
+  "title": "Approximately 16 million Angolans listed in the National ID database",
+  "publisher": "Angop",
+  "published": "2026-07-01",
+  "sub_indicator": "coverage",
+  "why": "Q1-Q3: ID database holds ~16M records, 14M adults"
+ },
+ {
+  "url": "https://angop.ao/en/noticias/sociedade/mais-de-metade-da-populacao-possui-bi/",
+  "title": "Mais de metade da popula\u00c3\u00a7\u00c3\u00a3o possui BI",
+  "publisher": "Angop",
+  "published": "2025-12-02",
+  "sub_indicator": "coverage",
+  "why": "Q1-Q2: census 2024 52.4% hold BI"
+ },
+ {
+  "url": "https://novojornal.co.ao/sociedade/detalhe/quase-metade-dos-angolanos-sem-bilhete-de-identidade---so-em-luanda-ha-mais-de-24-milhoes-de-pessoas-sem-este-documento-de-identificacao-68397.html",
+  "title": "Quase metade dos angolanos sem Bilhete de Identidade",
+  "publisher": "Novo Jornal",
+  "published": "2025-11-26",
+  "sub_indicator": "coverage",
+  "why": "Q1-Q2: 52.4% hold BI"
+ },
+ {
+  "url": "https://www.verangola.net/va/en/112025/Society/46823/The-number-of-Angolans-with-birth-registration-has-grown-from-535-percent-to-63-percent-in-ten-years.htm",
+  "title": "The number of Angolans with birth registration has grown from 53.5 percent to 63 percent in ten years",
+  "publisher": "Lusa/VerAngola",
+  "published": "2025-11-21",
+  "sub_indicator": "coverage",
+  "why": "Q4: birth registration 63%; BI holders"
+ },
+ {
+  "url": "https://www.verangola.net/va/en/092025/Society/45966/Secretary-of-State-for-Justice-reveals-that-50-percent-of-Angolans-still-do-not-have-an-identity-card.htm",
+  "title": "Secretary of State for Justice reveals that 50 percent of Angolans still do not have an identity card",
+  "publisher": "Ver Angola",
+  "published": "2025-09-19",
+  "sub_indicator": "coverage",
+  "why": "Q1-Q2: 16.3M of ~35M hold ID"
+ },
+ {
+  "url": "https://novojornal.co.ao/sociedade/detalhe/no-pais-menos-de-quatro-criancas-em-cada-10-estao-registadas-65688.html",
+  "title": "No Pa\u00c3\u00ads menos de quatro crian\u00c3\u00a7as em cada 10 est\u00c3\u00a3o registadas",
+  "publisher": "Novo Jornal",
+  "published": "2025-05-31",
+  "sub_indicator": "coverage",
+  "why": "Q4: under-5 birth registration 38%"
+ },
+ {
+  "url": "https://www.novojornal.co.ao/sociedade/detalhe/governo-estima-que-dos-351-milhoes-de-angolanos-actuais-apenas-148-milhoes-possuem-bilhete-de-identidade-63150.html",
+  "title": "Governo estima que dos 35,1 milh\u00c3\u00b5es de angolanos actuais apenas 14,8 milh\u00c3\u00b5es possuem Bilhete de Identidade",
+  "publisher": "Novo Jornal",
+  "published": "2024-12-05",
+  "sub_indicator": "coverage",
+  "why": "Q1-Q2: 42.11% hold BI"
+ },
+ {
+  "url": "https://openknowledge.worldbank.org/entities/publication/e3564630-9c7b-4ef5-b230-7f9247770b9f",
+  "title": "Angola ID4D Diagnostic",
+  "publisher": "World Bank",
+  "published": "2024-07-15",
+  "sub_indicator": "coverage",
+  "why": "Q1-Q4: ID and birth registration far from universal"
+ },
+ {
+  "url": "https://lex.ao/docs/presidente-da-republica/2024/decreto-presidencial-n-o-267-24-de-28-de-novembro/",
+  "title": "Decreto Presidencial n.\u00ba 267/24 de 28 de Novembro (Plano Estrat\u00e9gico para a Universaliza\u00e7\u00e3o do Bilhete de Identidade)",
+  "publisher": "Presidente da Rep\u00fablica de Angola",
+  "published": "2024-11-28",
+  "sub_indicator": "coverage",
+  "why": "Q3: plan to give BI to all citizens; 42.11% hold BI"
+ },
+ {
+  "url": "https://www.expansao.co.ao/angola/detalhe/4685-milhoes-usd-para-universalizar-o-bilhete-de-identidade-67491.html",
+  "title": "468,5 milh\u00f5es USD para universalizar o bilhete de identidade",
+  "publisher": "Expans\u00e3o",
+  "published": "2025-09-27",
+  "sub_indicator": "coverage",
+  "why": "Q3: universalisation plan targets"
+ },
+ {
+  "url": "https://www.dw.com/pt-002/mortos-obrigados-a-apresentar-bi-para-serem-enterrados/a-76412595",
+  "title": "Mortos obrigados a apresentar BI para serem enterrados",
+  "publisher": "DW",
+  "published": "2026-03-18",
+  "sub_indicator": "coverage",
+  "why": "Q1/Q4: 47-58% lack BI; death registration needs BI"
+ }
+]

@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://unstats.un.org/unsd/demographic-social/products/dyb/documents/metadata/2025/Mauritius-2025-VT-Metadata.pdf,fetched,,scripts/.workroot/study/idcoverage/cache/MUS/1.txt,1108,pdf,Mauritius-2025-VT-Metadata.xlsx
+2,https://statsmauritius.govmu.org/Pages/Statistics/ESI/Population/Pop_Vital_Yr25.aspx,fetched,,scripts/.workroot/study/idcoverage/cache/MUS/2.txt,327,html,"// <![CDATA[ _spBodyOnLoadFunctionNames.push(""setupPageDescriptionCallout""); // ]]>"
+3,https://csd.govmu.org/DocumentsList/FINALISED%20ANNUAL%20REPORT%20CSD.pdf,held,held as raw/2024/2024-01-01 Mauritius Civil Status Division Annual Report on Performance FY2023-2024.md,,0,,
+4,https://prb.govmu.org/prb/wp-content/uploads/2024/03/cs_csd.pdf,fetched,,scripts/.workroot/study/idcoverage/cache/MUS/4.txt,2069,pdf,
+5,https://health.govmu.org/health/wp-content/uploads/2025/12/Health-Statistics-Report-2024.pdf,held,held as raw/2025/2025-11-01-mus-health-statistics-report-2024.md,,0,,
+6,https://www.clavistechnologies.com/success-stories/government-of-mauritius-web-portal/,fetched,,scripts/.workroot/study/idcoverage/cache/MUS/6.txt,938,html,Government of Mauritius transforms Digital Identity for 1.1M citizens
+7,https://www.dentons.com/en/insights/articles/2021/july/26/human-rights-and-the-biometric-identity-card,fetched,,scripts/.workroot/study/idcoverage/cache/MUS/7.txt,111,html,Human rights and the biometric identity card
+8,https://apai-crvs.uneca.org/sites/default/files/resourcefiles/Country%20Report%20-%20Mauritius_Eng_0.pdf,held,held as raw/2012/2012-08-01-mus-csd-crvs-country-report.md,,0,,

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "coverage",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: a data-aggregator page for a 2019 World Bank figure, outside the three-year window"
+}

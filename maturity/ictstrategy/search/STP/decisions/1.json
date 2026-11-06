@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "standing",
+ "fact": "The ITU's 2017 country profile states that a strategic plan for ICT was developed with World Bank support and had not been approved by the government, and that the infrastructure ministry is responsible for implementing ICT policy.",
+ "title": "Measuring the Information Society Report Volume 2. ICT Country Profiles: Sao Tome and Principe",
+ "publisher": "International Telecommunication Union",
+ "published": "2017",
+ "date_source": "source",
+ "why_not": ""
+}

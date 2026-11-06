@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "production",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "headline-only-stub: the fetched text adds only a byline to the headline; the facts are covered by the other Mamou leads"
+}

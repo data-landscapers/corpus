@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "plan;governance;reporting",
+ "fact": "The 2026 national budget sets aside ZiG460.1 million for projects under the ICT sector, and in 2025 the budget and the Universal Services Fund spent ZiG663.3 million and ZiG323.2 million on digital infrastructure.",
+ "title": "2026 Zimbabwe Infrastructure Investment Programme",
+ "publisher": "Ministry of Finance, Economic Development and Investment Promotion, Zimbabwe",
+ "published": "2026",
+ "date_source": "source",
+ "why_not": ""
+}

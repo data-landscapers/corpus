@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "coverage",
+ "aspect": "births",
+ "fact": "A ZNPHI report found Zambia's death registration completeness is under 20 percent, so over 80 percent of deaths go unrecorded.",
+ "title": "Zambia's death registration under 20 percent",
+ "publisher": "Radio Phoenix FM",
+ "published": "2024-03-20",
+ "date_source": "proxy",
+ "why_not": ""
+}

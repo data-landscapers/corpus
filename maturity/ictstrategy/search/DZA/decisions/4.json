@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "reporting;plan",
+ "fact": "The Ministry of Post and Telecommunications reports fixed-internet households up from 3.5 million in 2020 to 6.1 million at November 2024 against a goal of 6 million by end 2024, and 4G coverage above 85%.",
+ "title": "Achievements",
+ "publisher": "Ministry of Post and Telecommunications",
+ "published": "2024-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

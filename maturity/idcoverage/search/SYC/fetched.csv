@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.health.gov.sc/wp-content/uploads/Annual-Vital-Statistics-Report-2024.pdf,held,held as raw/2025/2025-03-01-syc-annual-vital-statistics-report-2024.md,,0,,
+2,https://unstats.un.org/unsd/demographic-social/products/dyb/documents/metadata/2024/Seychelles-2024-VT-Metadata.pdf,fetched,,scripts/.workroot/study/idcoverage/cache/SYC/2.txt,1367,pdf,Seychelles-2024-VT-Metadata.xlsx
+3,https://apai-crvs.uneca.org/sites/default/files/resourceuploads/seychelles-population-and-vital-statistics-2025.pdf,unfetchable,SSLError; no usable Wayback capture,,0,,
+4,https://www.ics.gov.sc/about/media-centre/publications/id-enrollment-in-districts,fetched,,scripts/.workroot/study/idcoverage/cache/SYC/4.txt,238,html,ID ENROLLMENT IN DISTRICTS

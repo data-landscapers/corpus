@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "sector",
+ "aspect": "standing;governance",
+ "fact": "The Council of Ministers heard on 26 October 2016 and the President approved by decree no. 2016-684 of 7 November 2016 the Declaration de Politique Sectorielle of the digital economy sector, its execution entrusted to the Minister of Digital Economy, the Minister of Finance and the Conseil du Numerique.",
+ "title": "Decret n° 2016-684 du 07 novembre 2016 portant approbation de la Declaration de Politique Sectorielle du secteur de l'economie numerique",
+ "publisher": "Presidence de la Republique du Benin",
+ "published": "2016-11-07",
+ "date_source": "source",
+ "why_not": "body is a poor OCR layer of a 2016 scan, unreadable for ingest; the decree predates the 2019 floor"
+}

@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://mocti.gov.sl/wp-content/uploads/2024/10/S_L_Digital-Development-Policy.pdf",
+  "title": "National Digital Development Policy 2021",
+  "publisher": "Ministry of Communication, Technology and Innovation",
+  "published": "",
+  "sub_indicator": "sector",
+  "why": "Standing, text, successor to the National ICT Policy 2009, body mandated"
+ },
+ {
+  "url": "https://moice.gov.sl/minister-salima-outlines-accomplishments-in-the-tech-sector/",
+  "title": "Minister Salima outlines Accomplishments in the Tech Sector",
+  "publisher": "Ministry of Information and Civic Education",
+  "published": "2025-01-23",
+  "sub_indicator": "sector",
+  "why": "Reporting: results claimed against policy and strategy"
+ },
+ {
+  "url": "https://expomediasl.com/2025-budget-communication-ministry-requests-for-nle28m-to-improve-ict/",
+  "title": "2025 budget: Communication Ministry requests NLe28m to improve ICT",
+  "publisher": "Expo Media Group",
+  "published": "2024-08-29",
+  "sub_indicator": "sector",
+  "why": "Budget line for the ministry's directorates, deliverables"
+ },
+ {
+  "url": "https://mocti.gov.sl/sierra-leone-national-digital-development-strategy-tre-v22-2023/",
+  "title": "Sierra Leone National Digital Development Strategy 2023",
+  "publisher": "Ministry of Communication, Technology and Innovation",
+  "published": "2024-12-19",
+  "sub_indicator": "sector",
+  "why": "Strategy under the policy with targets"
+ }
+]

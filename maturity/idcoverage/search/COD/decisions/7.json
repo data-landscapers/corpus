@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "coverage",
+ "aspect": "births",
+ "fact": "The 2023-24 DHS found births registered with civil status for 34% of children under 5 in DR Congo, 30% with a birth certificate.",
+ "title": "Enquête Démographique et de Santé III (EDS-RDC III), Rapport synthèse 2023-2024",
+ "publisher": "Institut National de la Statistique (INS) / DHS Program",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

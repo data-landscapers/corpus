@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "reporting",
+ "fact": "INTIC's activity report for 2022, dated April 2023, lists assessing the degree of implementation of the Strategic and Operational Plan for the Information Society as an activity of the year.",
+ "title": "Relatório de actividades de 2022",
+ "publisher": "INTIC",
+ "published": "2023-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.expansao.co.ao/empresas/detalhe/fabrica-de-telemoveis-da-afrione-em-luanda-esta-encerrada-ha-2-anos-61674.html",
+  "title": "Fábrica de telemóveis da AfriOne em Luanda está encerrada há 2 anos",
+  "publisher": "Expansão",
+  "published": "2024-04-06",
+  "sub_indicator": "production",
+  "why": "Q4: AfriOne plant closed since 2022"
+ },
+ {
+  "url": "https://lpe.ao/sobre-nos/",
+  "title": "Sobre nós - LPE",
+  "publisher": "LPE (Lisa Pulsaris Electrónica)",
+  "published": "",
+  "sub_indicator": "production",
+  "why": "Q4: LPE phone factory restarted 2024, capacity 340k/month"
+ },
+ {
+  "url": "https://angop.ao/noticias/tecnologia/angotic-2023-angola-ganha-fabrica-de-telemoveis-a-partir-de-2024/",
+  "title": "ANGOTIC 2023: Angola ganha fábrica de telemóveis a partir de 2024",
+  "publisher": "Angop",
+  "published": "2023-06-13",
+  "sub_indicator": "production",
+  "why": "Q4: LiraLink-ZTE phone factory agreement"
+ },
+ {
+  "url": "https://expansao.co.ao/empresas/detalhe/fabrica-lisa-pulsaris-retoma-em-marco-58083.html",
+  "title": "Fábrica Lisa Pulsaris retoma em Março",
+  "publisher": "Expansão",
+  "published": "2022-01-29",
+  "sub_indicator": "production",
+  "why": "Q4: Lisa Pulsaris plant suspended, plans to resume"
+ },
+ {
+  "url": "https://data.worldbank.org/indicator/BX.GSR.CMCP.ZS?locations=AO",
+  "title": "Communications, computer, etc. (% of service exports, BoP) - Angola",
+  "publisher": "World Bank",
+  "published": "",
+  "sub_indicator": "production",
+  "why": "Q1-3: communications/computer share of service exports"
+ }
+]

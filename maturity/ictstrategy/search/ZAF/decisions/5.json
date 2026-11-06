@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "standing;text;period",
+ "fact": "The Minister published in Government Gazette 40325 of 3 October 2016 the National Integrated ICT Policy White Paper approved by Cabinet on 28 September 2016, framed on the National Development Plan's 2030 goals.",
+ "title": "Electronic Communications Act: National Integrated ICT Policy White Paper",
+ "publisher": "Department of Telecommunications and Postal Services",
+ "published": "2016-10-03",
+ "date_source": "source",
+ "why_not": ""
+}

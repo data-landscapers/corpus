@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://togo-today.com/togo-plus-de-47-millions-de-cartes-e-id-deja-remises-aux-beneficiaires/",
+  "title": "Togo : As-tu déjà ta carte e-ID ? Plus de 4,7 millions déjà remises aux bénéficiaires",
+  "publisher": "Togo Today",
+  "published": "2026-10-22",
+  "sub_indicator": "coverage",
+  "why": "4.72m of 5.9m e-ID cards delivered; under 15% held a national ID at launch (share)"
+ },
+ {
+  "url": "https://www.lacinquieme.tg/identification-biometrique-au-togo-118-million-de-cartes-attendent-encore-leurs-titulaires/",
+  "title": "Identification biométrique au Togo : 1,18 million de cartes attendent encore leurs titulaires",
+  "publisher": "La Cinquième",
+  "published": "2026-10-23",
+  "sub_indicator": "coverage",
+  "why": "e-ID cards produced and delivered (share)"
+ },
+ {
+  "url": "https://www.togofirst.com/en/services/2404-18804-togo-tops-6-mln-users-under-biometric-id-program",
+  "title": "Togo tops 6 mln users under biometric ID program",
+  "publisher": "Togo First",
+  "published": "2026-04-24",
+  "sub_indicator": "coverage",
+  "why": "over 6 million NIU issued by Dec 2025 (share/everyone)"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202604/togo-issues-6m-unique-numbers-as-mosip-based-digital-id-project-progresses",
+  "title": "Togo issues 6M unique numbers as MOSIP-based digital ID project progresses",
+  "publisher": "Biometric Update",
+  "published": "2026-04-27",
+  "sub_indicator": "coverage",
+  "why": "six million NIU issued (share)"
+ },
+ {
+  "url": "https://actu-togo.tg/2026/04/23/togo-le-programme-e-id-franchit-un-nouveau-cap-avec-6-millions-denregistrements/",
+  "title": "Togo : le programme e-ID franchit un nouveau cap avec 6 millions d'enregistrements",
+  "publisher": "Actu Togo",
+  "published": "2026-04-23",
+  "sub_indicator": "coverage",
+  "why": "six million NIU holders end 2025 (share/everyone)"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202210/id-day-boost-sdg-warning-and-dynamic-new-identity-and-inclusion-models-for-togo",
+  "title": "ID Day boost, SDG warning and dynamic new identity and inclusion models for Togo",
+  "publisher": "Biometric Update",
+  "published": "2022-10-03",
+  "sub_indicator": "coverage",
+  "why": "only 1.2 million hold the national ID card; voter card 93% of adults (share)"
+ },
+ {
+  "url": "https://www.unicef.org/togo/media/2096/file/Evaluation_KRC7%20Togo_Rapport%20final_Version%20Clean.pdf.pdf",
+  "title": "Evaluation formative du résultat clé pour les enfants concernant l'enregistrement des naissances (RCE7) au Togo",
+  "publisher": "UNICEF Togo",
+  "published": "",
+  "sub_indicator": "coverage",
+  "why": "17.1% of children not registered (MICS6 2017) (births)"
+ },
+ {
+  "url": "https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-togo.pdf",
+  "title": "EGMRG 2026 Presentation: interoperability CRVS-education Togo",
+  "publisher": "APAI-CRVS / UNECA",
+  "published": "2026",
+  "sub_indicator": "coverage",
+  "why": "22% of under-5s without birth certificate (births)"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "coverage",
+ "aspect": "share",
+ "fact": "The World Bank's Global Findex 2021 data show 91 percent of Kenyan adults with a government-issued ID, with men five points more likely than women to have one.",
+ "title": "The Global Findex Database 2021: Trends in Access to ID in Sub-Saharan Africa",
+ "publisher": "World Bank",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

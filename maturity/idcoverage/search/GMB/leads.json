@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202608/the-gambia-begins-nationwide-rollout-of-new-national-digital-id",
+  "title": "The Gambia begins nationwide rollout of new national digital ID",
+  "publisher": "Biometric Update",
+  "published": "2026-08-28",
+  "sub_indicator": "coverage",
+  "why": "Q1-Q2: new GAM ID enrolment"
+ },
+ {
+  "url": "https://gambiana.com/government-suspends-issuance-of-id-cards-and-drivers-licences-ahead-of-new-system-rollout/",
+  "title": "Government suspends issuance of ID cards and driver's licences ahead of new system rollout",
+  "publisher": "Gambiana",
+  "published": "2026-06-09",
+  "sub_indicator": "coverage",
+  "why": "Q1-Q2: about 670,000 valid ID card holders"
+ },
+ {
+  "url": "https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-gambia.pdf",
+  "title": "Overview of Civil Registration and Vital Statistics in the Gambia",
+  "publisher": "APAI-CRVS / Gambia CRVS",
+  "published": "2026",
+  "sub_indicator": "coverage",
+  "why": "Q1-Q2: over 1.4 million registered with unique ID number"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099102025103014657/pdf/P502279-e8627dee-4568-45e7-bb51-9a1aea1ff040.pdf",
+  "title": "World Bank Gambia ID and CRVS overview",
+  "publisher": "World Bank Group",
+  "published": "2025",
+  "sub_indicator": "coverage",
+  "why": "Q1-Q2: 831,747 ID holders, 60% adult coverage; 63% total"
+ },
+ {
+  "url": "https://www.id4africa.com/2025/files/T2-P2-S1-3-Gambia_FINAL.pdf",
+  "title": "Overview of Civil Registration and Vital Statistics in the Gambia",
+  "publisher": "ID4Africa",
+  "published": "2025",
+  "sub_indicator": "coverage",
+  "why": "Q1-Q2/Q4: 53% of population registered Aug 2022 - Mar 2025"
+ },
+ {
+  "url": "https://www.worldbank.org/en/results/2024/03/28/afw-transformative-journey-of-mass-birth-registration-and-health-insurance-in-the-gambia",
+  "title": "A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia",
+  "publisher": "World Bank",
+  "published": "2024-03-28",
+  "sub_indicator": "coverage",
+  "why": "Q1-Q2: 1.17 million registered, 54% of population"
+ },
+ {
+  "url": "https://thepoint.gm/africa/gambia/headlines/govt-steps-up-to-tackle-id-card-passport-delays",
+  "title": "Gov't steps up to tackle ID card, passport delays",
+  "publisher": "The Point",
+  "published": "2026-09-01",
+  "sub_indicator": "coverage",
+  "why": "Q3: aim to enrol almost every eligible Gambian within months"
+ }
+]

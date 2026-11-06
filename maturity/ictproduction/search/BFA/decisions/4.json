@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "production",
+ "aspect": "plant",
+ "fact": "Horizon Industries is an electronics assembly plant in Kossodo, Ouagadougou, with a daily output of 1,000 phones, computers and tablets.",
+ "title": "Faux, cette usine ne fabrique pas des ordinateurs portables au Burkina Faso",
+ "publisher": "Sciences Check",
+ "published": "2025-12-22",
+ "date_source": "source",
+ "why_not": ""
+}

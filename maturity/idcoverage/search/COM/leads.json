@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.wearetech.africa/en/fils-uk/news/tech/comoros-advances-digital-identity-reform-with-nationwide-registry-overhaul",
+  "title": "Comoros Advances Digital Identity Reform with Nationwide Registry Overhaul",
+  "publisher": "We are Tech",
+  "published": "2026-03-27",
+  "sub_indicator": "coverage",
+  "why": "civil registry digitisation, 2022 assessment"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202603/genkey-takes-over-biometric-passport-national-id-card-production-in-comoros",
+  "title": "GenKey takes over biometric passport, national ID card production in Comoros",
+  "publisher": "Biometric Update",
+  "published": "2026-03-09",
+  "sub_indicator": "coverage",
+  "why": "ID card production, biometric data of all Comorians"
+ },
+ {
+  "url": "https://afi-global.org/wp-content/uploads/2026/06/SNIF-Comores-2025-2030-version-officielle.pdf",
+  "title": "Strat\u00c3\u00a9gie nationale d'inclusion financi\u00c3\u00a8re Comores 2025-2030",
+  "publisher": "Banque centrale des Comores / AFI",
+  "published": "",
+  "sub_indicator": "coverage",
+  "why": "biometric ID coverage progressed"
+ },
+ {
+  "url": "https://www.rfi.fr/fr/afrique/20250815-comores-le-port-obligatoire-de-la-carte-d-identit%C3%A9-soul%C3%A8ve-de-nombreuses-questions",
+  "title": "Comores: le port obligatoire de la carte d'identit\u00e9 soul\u00e8ve de nombreuses questions",
+  "publisher": "RFI",
+  "published": "2025-08-15",
+  "sub_indicator": "coverage",
+  "why": "Q1/Q3: mandatory ID carrying, 70 of Comorians checked had no card"
+ },
+ {
+  "url": "https://evaluationreports.unicef.org/GetDocument?documentID=20023&fileID=51941",
+  "title": "Evaluation finale du Projet Appui \u00e0 la Modernisation de l'Etat civil aux Comores (AMECC)",
+  "publisher": "UNICEF",
+  "published": "",
+  "sub_indicator": "coverage",
+  "why": "Q4: births ~95% declared, deaths <10%"
+ },
+ {
+  "url": "https://alwatwan.net/societe/d%C3%A9centralisation/projet-amecc-i-vers-la-%C2%ABmodernisation-de-l%E2%80%99%C3%A9tat-civil%C2%BB.html",
+  "title": "D\u00e9centralisation/Projet Amecc : Vers la modernisation de l'\u00e9tat-civil",
+  "publisher": "Al-Watwan",
+  "published": "2026-03-26",
+  "sub_indicator": "coverage",
+  "why": "Q4: civil registry modernisation"
+ }
+]

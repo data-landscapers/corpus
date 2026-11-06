@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "standing;text;period;governance",
+ "fact": "The National Strategy for the Communications and Informatics Sector 2023-2027 is published as a text built by the General Authority for Communications and Informatics with ITU experts, setting eight strategic objectives for the sector.",
+ "title": "الاستراتيجية الوطنية للاتصالات والمعلوماتية 2023-2027",
+ "publisher": "الهيئة العامة للاتصالات والمعلوماتية",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

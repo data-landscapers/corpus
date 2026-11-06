@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.biometricupdate.com/202609/madagascar-strengthens-trust-architecture-for-national-digital-id,held,held as raw/2026/2026-09-04-biometricupdate-madagascar-digital-id-trust.md,,0,,
+2,https://www.worldbank.org/en/news/feature/2026/07/01/no-longer-invisible-unlocking-legal-identity-for-millions-in-madagascar,held,held as raw/2026/2026-07-01-no-longer-invisible-legal-identity-worldbank.md,,0,,
+3,https://decim.mg/actualites/enrolement-biometrique-a-madagascar-capitaliser-les-acquis/,held,held as raw/2026/2026-07-23-mdg-decim-biometric-enrolment-capitalisation-workshop.md,,0,,
+4,https://www.lexpress.mg/2024/12/etat-civil-baisse-de-lenregistrement.html,fetched,,scripts/.workroot/study/idcoverage/cache/MDG/4.txt,495,html,ÉTAT CIVIL - Baisse de l’enregistrement des naissances
+5,https://www.unicef.org/madagascar/communiqu%C3%A9s-de-presse/si-le-taux-denregistrement-des-naissances-progresse-r%C3%A9guli%C3%A8rement-%C3%A0-l%C3%A9chelle,fetched,,scripts/.workroot/study/idcoverage/cache/MDG/5.txt,917,html,"Si le taux d’enregistrement des naissances progresse régulièrement à l’échelle mondiale, 150 millions d’enfants demeurent « invisibles » – UNICEF"
+6,https://digital.gov.mg/wp-content/uploads/2025/06/Webinaire-PRODIGY-CNI-Biometrique-Malagasy-11062025.pdf,held,held as raw/2025/2025-06-11-webinaire-prodigy-cni-biometrique-digital-gov-mg.md,,0,,
+7,https://digital.gov.mg/en/prodigy/,unfetchable,"HTTP 404; Wayback HTTP 429, not checked",,0,,
+8,https://www.agenceecofin.com/actualites-numerique/2406-139586-madagascar-et-la-banque-mondiale-font-le-point-sur-deux-projets-numeriques-strategiques,fetched,,scripts/.workroot/study/idcoverage/cache/MDG/8.txt,984,html,Madagascar et la Banque mondiale font le point sur deux projets numériques stratégiques

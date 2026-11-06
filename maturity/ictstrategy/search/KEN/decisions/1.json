@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "standing;text;period;reporting",
+ "fact": "The National ICT Policy of November 2019 is published on the ministry's site, sets a 2030 target for ICT at 10% of GDP, and commits the ministry to annual monitoring reports, a three-yearly review and a mid-term review after five years.",
+ "title": "National Information, Communications and Technology (ICT) Policy",
+ "publisher": "Ministry of Information, Communications and Technology, Kenya",
+ "published": "2019-11",
+ "date_source": "source",
+ "why_not": ""
+}

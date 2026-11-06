@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "coverage",
+ "aspect": "births",
+ "fact": "The 2024 Zambia Demographic and Health Survey found that 7.9% of children under age 5 have their births registered with a civil authority.",
+ "title": "Zambia Demographic and Health Survey 2024 - Final Report",
+ "publisher": "Zambia Statistics Agency; Ministry of Health; ICF",
+ "published": "2025-11",
+ "date_source": "source",
+ "why_not": ""
+}

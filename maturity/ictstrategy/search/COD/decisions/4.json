@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "standing;period;plan;reporting;governance",
+ "fact": "The country launched drafting of the 2026-2030 National Digital Plan (PNN2) in October 2025, with an estimated $1.5 billion budget of which $1 billion from the treasury, after the 2020-2025 plan reached about 60% implementation.",
+ "title": "DRC drafting $1.5B digital transformation blueprint",
+ "publisher": "Biometric Update",
+ "published": "2025-10-14",
+ "date_source": "source",
+ "why_not": ""
+}

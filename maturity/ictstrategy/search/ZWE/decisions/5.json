@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "reporting;last12",
+ "fact": "The ICT minister reported in January 2026 that investment in the sector grew 14.5% in 2025, mobile penetration passed 103%, and the National AI Strategy was completed, with a cybersecurity strategy awaiting Cabinet.",
+ "title": "ICT Ministry readies National AI strategy launch…as investment grows over 1%",
+ "publisher": "The Herald",
+ "published": "2026-01-20",
+ "date_source": "source",
+ "why_not": ""
+}

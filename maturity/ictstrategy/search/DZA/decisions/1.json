@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "standing;period;text",
+ "fact": "On 12 May 2025 the High Commissioner for Digitalisation presented the National Digital Transformation Strategy 2025-2030, built on five axes, as the first national reference framework for the digital transition.",
+ "title": "La Stratégie nationale de transformation numérique 2030 dévoilée",
+ "publisher": "Algérie Presse Service",
+ "published": "2025-05-12",
+ "date_source": "source",
+ "why_not": ""
+}

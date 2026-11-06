@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://api.pppc.mw/api/download/791,held,held as raw/2023/2023-01-01-mwi-national-digitalization-policy-2023-2028.md,,0,,
+2,https://times.mw/malawi-leaves-mark-on-digitising-services/,fetched,,scripts/.workroot/study/ictstrategy/cache/MWI/2.txt,1535,html,Malawi leaves mark on digitising services
+3,https://www.trade.gov/country-commercial-guides/malawi-digital-economy,fetched,,scripts/.workroot/study/ictstrategy/cache/MWI/3.txt,1930,html,Malawi - Digital Economy
+4,https://leymanck.com/ministry-validates-digital-transformation-and-ai-strategies/,held,held as raw/2026/2026-02-19-ministry-validates-digital-transformation-and-ai-strategies.md,,0,,
+5,https://times.mw/the-year-ict-sector-grappled-with-implementation-woes/,held,held as raw/2026/2026-01-13-ict-sector-2025-implementation-woes-times.md,,0,,
+6,https://finance.gov.mw/documents/uploads/2026-06/Doc%204_2026-27%20Approved%20Detailed%20Document%20-%20Vol.%20III.pdf,held,held as raw/2026/2026-06-01-mwi-approved-detailed-estimates-2026-27-vol-3-companion.md,,0,,
+7,https://www.undp.org/malawi/publications/inclusive-digital-transformation-malawi-idt4m-annual-report-2025,fetched,,scripts/.workroot/study/ictstrategy/cache/MWI/7.txt,45,html,Inclusive Digital Transformation for Malawi (IDT4M) Annual Report 2025
+8,https://digital-ai.idt4m.org/progress,unfetchable,empty extraction; no usable Wayback capture,,0,,

@@ -1,0 +1,18 @@
+[
+ {
+  "url": "https://www.analyzeit.si/data/comoros/ict-service-exports-bop-current-usd",
+  "title": "Comoros: ICT service exports (BoP, current US$), 2003-2023",
+  "publisher": "AnalyzeIt (World Bank data)",
+  "published": "",
+  "sub_indicator": "production",
+  "why": "Q1-3: ICT service exports US$13.6m in 2023"
+ },
+ {
+  "url": "https://banque-comores.km/uploads/Rapport-annuel-BCC-2024.pdf",
+  "title": "Rapport annuel BCC 2024",
+  "publisher": "Banque Centrale des Comores",
+  "published": "",
+  "sub_indicator": "production",
+  "why": "Q1-3: services exports 2024"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "production",
+ "aspect": "plant",
+ "fact": "According to MCIT, Egypt had mobile phone production capacity of 20 million units as of January 2026 and produced 10 million units in 2025, with Samsung, Xiaomi and Oppo plants operating.",
+ "title": "Electronics and Engineering Products",
+ "publisher": "American Chamber of Commerce in Egypt",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://pp.itu.int/2022/en/itu_policy_statements/kamalidini-souef-comoros/",
+  "title": "Ministere des Postes, des telecommunications et de l'economie numerique, Comoros - PP-22",
+  "publisher": "ITU",
+  "published": "2022",
+  "sub_indicator": "sector",
+  "why": "Minister says sectoral policy being implemented"
+ },
+ {
+  "url": "https://www.anrtic.km/mot-du-directeur-general",
+  "title": "Mot du Directeur General",
+  "publisher": "ANRTIC",
+  "published": "",
+  "sub_indicator": "sector",
+  "why": "Names the government's telecom sector policy"
+ },
+ {
+  "url": "https://minpoten.egouv.km/en/ministry/ministry-projects/",
+  "title": "Ministry projects",
+  "publisher": "Ministry of Telecommunications, Comoros",
+  "published": "",
+  "sub_indicator": "sector",
+  "why": "ICT sector policy; national digital strategy Dec 2018"
+ },
+ {
+  "url": "https://anaden.org/uploads/media/5e3969272d9f8/strat-comores-numerique-v2-3-compresse.pdf",
+  "title": "Comores Numerique 2028",
+  "publisher": "ANADEN",
+  "published": "2018",
+  "sub_indicator": "sector",
+  "why": "National digital strategy (noted class) with budgeted roadmap"
+ },
+ {
+  "url": "https://www.wearetech.africa/fr/fils/actualites/tech/transformation-numerique-les-comores-passent-a-l-evaluation",
+  "title": "Transformation numérique : les Comores passent à l'évaluation",
+  "publisher": "We Are Tech",
+  "published": "2026-09-18",
+  "sub_indicator": "sector",
+  "why": "Reporting: readiness assessment under Comores Numérique 2028"
+ },
+ {
+  "url": "https://www.afdb.org/sites/default/files/documents/projects-and-operations/comores_-_re_projet_dappui_a_la_digitalisation_de_leconomie_comorienne_padec.pdf",
+  "title": "Projet d'appui à la digitalisation de l'économie comorienne (PADEC)",
+  "publisher": "African Development Bank",
+  "published": "",
+  "sub_indicator": "sector",
+  "why": "Delivery plan: costed project, 2025-2028, under the national strategy"
+ }
+]

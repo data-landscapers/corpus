@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "production",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: a data aggregator page with no figure in the fetched text and no date"
+}

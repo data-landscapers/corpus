@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "coverage",
+ "aspect": "",
+ "fact": "",
+ "title": "Death & Cause of Death Statistics",
+ "publisher": "National Institute of Statistics of Rwanda",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": "already-held: same 2025 completeness figures as the held NISR Vital Statistics Report 2025"
+}

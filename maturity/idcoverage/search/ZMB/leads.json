@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.lusakatimes.com/2026/01/13/we-will-pay-all-nrc-officers-government-assures/",
+  "title": "Zambia : We Will Pay All NRC Officers, Government Assures",
+  "publisher": "Lusaka Times",
+  "published": "2026-01-13",
+  "sub_indicator": "coverage",
+  "why": "2025 mobile NRC exercise targeted 3.5 million eligible citizens (share)"
+ },
+ {
+  "url": "https://znbc.co.zm/?p=10211",
+  "title": "Over 1.3 Million Citizens Enrolled on INRIS",
+  "publisher": "ZNBC",
+  "published": "2025-12-28",
+  "sub_indicator": "coverage",
+  "why": "1.3m enrolled on INRIS, 500,000 births and deaths registered (share/births)"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202504/zambia-commences-nationwide-mobile-campaign-for-issuance-of-3-5m-id-documents",
+  "title": "Zambia commences nationwide mobile campaign for issuance of 3.5M ID documents",
+  "publisher": "Biometric Update",
+  "published": "2025-04-11",
+  "sub_indicator": "coverage",
+  "why": "campaign to issue NRCs to 3.5 million citizens (everyone)"
+ },
+ {
+  "url": "https://www.zamstats.gov.zm/wp-content/uploads/2025/08/2022-Census-National-Analytical-Report.pdf",
+  "title": "2022 Census National Analytical Report",
+  "publisher": "Zambia Statistics Agency",
+  "published": "2025",
+  "sub_indicator": "coverage",
+  "why": "share of 16+ with green NRC and death/birth registration in 2022 census (share/births/deaths)"
+ },
+ {
+  "url": "https://www.unicef.org/zambia/press-releases/birth-registration-steadily-increases-worldwide-yet-86-children-zambia-still-lack",
+  "title": "Birth registration steadily increases worldwide, yet 86% of children in Zambia still lack an official identity",
+  "publisher": "UNICEF Zambia",
+  "published": "2024-12-17",
+  "sub_indicator": "coverage",
+  "why": "birth registration of under-fives at 14 per cent (births)"
+ },
+ {
+  "url": "https://www.undp.org/digital/blog/dpi-safeguards-come-online-zambias-next-phase-digital-integration",
+  "title": "DPI Safeguards come online in Zambia's next phase of digital integration",
+  "publisher": "UNDP",
+  "published": "2024-09-17",
+  "sub_indicator": "coverage",
+  "why": "over 88 percent of adults 16+ hold a physical NRC (share)"
+ },
+ {
+  "url": "https://phoenixfm.co.zm/zambias-death-registration-under-20-percent/",
+  "title": "Zambia's death registration under 20 percent",
+  "publisher": "Radio Phoenix FM",
+  "published": "2024-03-20",
+  "sub_indicator": "coverage",
+  "why": "ZNPHI: death registration completeness under 20 percent (deaths)"
+ },
+ {
+  "url": "https://dhsprogram.com/pubs/pdf/FR397/FR397.pdf",
+  "title": "Zambia Demographic and Health Survey 2024 - Final Report",
+  "publisher": "Zambia Statistics Agency / ICF",
+  "published": "2025",
+  "sub_indicator": "coverage",
+  "why": "Table 2.10 birth registration of under-fives (births)"
+ }
+]

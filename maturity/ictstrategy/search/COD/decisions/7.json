@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "sector",
+ "aspect": "",
+ "fact": "",
+ "title": "Digital observatory",
+ "publisher": "CSD",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: undated aggregator page restating figures held elsewhere"
+}

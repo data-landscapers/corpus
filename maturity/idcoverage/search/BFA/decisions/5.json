@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "coverage",
+ "aspect": "births",
+ "fact": "The 2019 census (RGPH) showed 15% of children aged 0-17 without a birth certificate and 17.3% of deaths registered with civil status.",
+ "title": "Facteurs associés à l’enregistrement des naissances, des mariages et des décès à l’état civil dans l’observatoire de population de Nouna, Burkina Faso",
+ "publisher": "Lettres, Sciences sociales et humaines (Revue des sciences et techniques du Burkina)",
+ "published": "2024-04-27",
+ "date_source": "source",
+ "why_not": ""
+}

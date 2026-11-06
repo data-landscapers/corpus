@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "production",
+ "aspect": "plant",
+ "fact": "A smartphone assembly plant run by STI with a Chinese brand was inaugurated at Oran on 20 August 2026, producing about 2,000 smartphones a day.",
+ "title": "Oran : inauguration d'une usine d'assemblage de smartphones",
+ "publisher": "L'express DZ",
+ "published": "2026-08-20",
+ "date_source": "source",
+ "why_not": ""
+}

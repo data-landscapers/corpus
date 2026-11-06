@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "standing;text;governance",
+ "fact": "Resolução n.º 33/2026 of 20 February 2026 approved the national 5G strategy, a subsector instrument with an economic-financial model and a governance, monitoring and evaluation model.",
+ "title": "Resolução n.º 33/2026: Estratégia Nacional para a Implementação da Tecnologia 5G em Cabo Verde",
+ "publisher": "Boletim Oficial de Cabo Verde, Conselho de Ministros",
+ "published": "2026-02-20",
+ "date_source": "source",
+ "why_not": ""
+}

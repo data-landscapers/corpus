@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "coverage",
+ "aspect": "share",
+ "fact": "The NRB said in August 2024 that it had registered 12,287,349 people aged 16 and above for national IDs since 2016, above its NSO-projected target of 11,351,931 for 2024.",
+ "title": "12.3 million register for ID cards",
+ "publisher": "Nation Online",
+ "published": "2024-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

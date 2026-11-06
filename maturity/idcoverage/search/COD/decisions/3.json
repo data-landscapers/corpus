@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "coverage",
+ "aspect": "share",
+ "fact": "The World Bank's ID4D Global Dataset 2025 puts DR Congo's total ID coverage at 86%, built on 2024 Findex survey data for adults and under-5 birth registration for children.",
+ "title": "ID4D Global Dataset 2025: Trends in Identification for Development",
+ "publisher": "World Bank",
+ "published": "2026",
+ "date_source": "source",
+ "why_not": ""
+}

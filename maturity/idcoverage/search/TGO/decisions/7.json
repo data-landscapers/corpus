@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "coverage",
+ "aspect": "births",
+ "fact": "UNICEF's formative evaluation reports that, according to MICS6 2017, 17.1% of children born and living in Togo escape civil registration.",
+ "title": "Evaluation formative du résultat clé pour les enfants concernant l'enregistrement des naissances (RCE7) au Togo",
+ "publisher": "UNICEF WCARO (Togo)",
+ "published": "2022-10",
+ "date_source": "source",
+ "why_not": ""
+}

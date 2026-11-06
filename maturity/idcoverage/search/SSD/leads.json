@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202607/south-sudan-plans-interoperable-birth-registration-digital-id-systems",
+  "title": "South Sudan plans interoperable birth registration, digital ID systems",
+  "publisher": "Biometric Update",
+  "published": "2026-07-31",
+  "sub_indicator": "coverage",
+  "why": "civil registration and ID digitisation, one of lowest ID rates (share/births)"
+ },
+ {
+  "url": "https://www.eyeradio.org/government-to-adopt-modern-digital-birth-death-and-marriage-records-system/",
+  "title": "Government to adopt modern digital birth, death, and marriage records system",
+  "publisher": "Eye Radio",
+  "published": "2026-07-24",
+  "sub_indicator": "coverage",
+  "why": "plan for CRVS system (births/deaths)"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202607/south-sudan-must-fortify-legal-framework-to-close-huge-national-id-gap-id4d",
+  "title": "South Sudan must fortify legal framework to close huge national ID gap: ID4D",
+  "publisher": "Biometric Update",
+  "published": "2026-07-24",
+  "sub_indicator": "coverage",
+  "why": "about 90 percent lack ID, birth registration around 10 percent (share/births)"
+ },
+ {
+  "url": "https://www.worldbank.org/en/news/feature/2026/07/22/in-the-worlds-youngest-nation-how-do-you-prove-you-exist",
+  "title": "In the World's Youngest Nation, How Do You Prove You Exist?",
+  "publisher": "World Bank",
+  "published": "2026-07-22",
+  "sub_indicator": "coverage",
+  "why": "nearly 90% lack government-recognised ID (share)"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099053126171570627/pdf/P502463-0c06abde-be3d-4f83-b9e1-eca068e7bc1e.pdf",
+  "title": "Identification for Development (ID4D) Country Diagnostic: South Sudan",
+  "publisher": "World Bank",
+  "published": "2026",
+  "sub_indicator": "coverage",
+  "why": "ID coverage and civil registration status (share/births/deaths)"
+ },
+ {
+  "url": "https://eyeradio.org/id-and-passport-delays-to-end-soon-says-immigration-chief/",
+  "title": "ID and passport delays to end soon, says Immigration Chief",
+  "publisher": "Eye Radio",
+  "published": "2025-08-25",
+  "sub_indicator": "coverage",
+  "why": "ID issuance shortages in states (share)"
+ },
+ {
+  "url": "https://reliefweb.int/report/south-sudan/over-17400-south-sudanese-receive-national-identity-cards-thanks-unhcr-and-european-union",
+  "title": "Over 17,400 South Sudanese Receive National Identity Cards Thanks to UNHCR and the European Union",
+  "publisher": "UNHCR / ReliefWeb",
+  "published": "2024-11-21",
+  "sub_indicator": "coverage",
+  "why": "17,400 national ID cards issued in 2024 (share)"
+ },
+ {
+  "url": "http://nbs.gov.ss/assets/images/Trends%20with%20Deaths%20by%20Cause%20in%20South%20Sudan%20(2019-2024).pdf",
+  "title": "Trends with Deaths by Cause in South Sudan (2019-2024)",
+  "publisher": "National Bureau of Statistics South Sudan",
+  "published": "",
+  "sub_indicator": "coverage",
+  "why": "no functional CRVS, deaths modelled (deaths)"
+ }
+]

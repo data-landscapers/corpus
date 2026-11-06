@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "reporting;governance;period",
+ "fact": "On 8 October 2025 the Digital Development Agency reported the National Digital Plan Horizon 2025 at 58% completion, 40 of 69 projects started and 29 not started, blaming treasury funding deficits.",
+ "title": "RDC : L'ADN présente le bilan de la mise en œuvre du Plan National du Numérique Horizon 2025",
+ "publisher": "Numerico",
+ "published": "2025-10-10",
+ "date_source": "source",
+ "why_not": ""
+}

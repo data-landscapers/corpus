@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "coverage",
+ "aspect": "births",
+ "fact": "Algeria's national statistics office treats birth registration in civil status as almost comprehensive since 1998 and death registration as incomplete, varying by age and sex.",
+ "title": "تقدير معدلات تغطية المواليد والوفيات المسجلة في الحالة المدنية الجزائرية",
+ "publisher": "Revue des Sciences Sociales et Humaines (Université Kasdi Merbah Ouargla)",
+ "published": "2023-06-01",
+ "date_source": "source",
+ "why_not": ""
+}

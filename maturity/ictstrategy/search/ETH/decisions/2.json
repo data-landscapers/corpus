@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "text;period;plan",
+ "fact": "The Digital Ethiopia 2030 draft sets out a national digital strategy anchored in the Ten-Year Development Plan 2020-2030, with initiatives sequenced over short term (0-3 years) and long term (3-5 years).",
+ "title": "Digital Ethiopia 2030 (draft)",
+ "publisher": "Ministry of Innovation and Technology of Ethiopia",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

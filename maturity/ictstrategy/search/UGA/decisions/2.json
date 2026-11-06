@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "standing;plan;governance",
+ "fact": "The Ministry of ICT and National Guidance strategic plan 2025/26-2029/30 budgets UGX 0.10 billion a year, UGX 0.50 billion in all, to finalize the review of the National ICT Policy, and lists the National ICT Policy 2014 among the policies guiding the Ministry.",
+ "title": "ICT Strategic Plan FY 2025/2026 - 2029/2030",
+ "publisher": "Ministry of Information, Communications Technology and National Guidance",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://documents1.worldbank.org/curated/en/099080625083011986/pdf/P508059-6c798cf0-d471-4cb2-8123-05697f02472b.pdf,fetched,,scripts/.workroot/study/ictproduction/cache/STP/1.txt,16361,pdf,World Bank Document
+2,https://unctadstat.unctad.org/CountryProfile/GeneralProfile/en-GB/678/GeneralProfile678.pdf,fetched,,scripts/.workroot/study/ictproduction/cache/STP/2.txt,341,html,Country Profiles
+3,https://www.gfa.pt/fernando_almeida_sgps_tecnologia.php,fetched,,scripts/.workroot/study/ictproduction/cache/STP/3.txt,181,html,TECNOLOGIA
+4,https://www.analyzeit.si/data/s-o-tom-and-principe/ict-service-exports-pct-of-service-exports-bop,unfetchable,HTTP 503; no usable Wayback capture,,0,,

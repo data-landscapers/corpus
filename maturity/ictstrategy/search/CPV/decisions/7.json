@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "standing;period",
+ "fact": "Resolução nº 113/2021, published 14 December 2021, approved the Digital Governance Strategy of Cabo Verde for 2021 to 2024.",
+ "title": "Resolução nº 113/2021",
+ "publisher": "Boletim Oficial de Cabo Verde, Conselho de Ministros",
+ "published": "2021-12-14",
+ "date_source": "source",
+ "why_not": ""
+}

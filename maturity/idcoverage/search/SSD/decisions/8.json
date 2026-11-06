@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "coverage",
+ "aspect": "",
+ "fact": "",
+ "title": "Trends with Deaths by Cause in South Sudan (2019-2024)",
+ "publisher": "National Bureau of Statistics South Sudan",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "off-topic: modelled mortality, states no functional CRVS but gives no registration rate and carries no date"
+}

@@ -1,0 +1,26 @@
+[
+ {
+  "url": "https://motie.gov.gm/wp-content/uploads/2026/01/Industrial-Policy-2025-2035.pdf",
+  "title": "Industrial and Diversification Policy for The Gambia 2025-2035",
+  "publisher": "Ministry of Trade, Industry and Employment",
+  "published": "",
+  "sub_indicator": "production",
+  "why": "Q1-3: ICT-enabled services about 1% of GDP"
+ },
+ {
+  "url": "https://www.accessgambia.com/biz/rlg-gambia.html",
+  "title": "RLG Gambia Co. Ltd.",
+  "publisher": "Access Gambia",
+  "published": "",
+  "sub_indicator": "production",
+  "why": "Q4: RLG assembly plant no longer operating"
+ },
+ {
+  "url": "https://data.worldbank.org/indicator/BX.GSR.CCIS.CD?locations=GM",
+  "title": "ICT service exports (BoP, current US$) - Gambia, The",
+  "publisher": "World Bank",
+  "published": "",
+  "sub_indicator": "production",
+  "why": "Q1-3: ICT service exports to 2024"
+ }
+]

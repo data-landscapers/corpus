@@ -1,0 +1,18 @@
+[
+ {
+  "url": "https://tradingeconomics.com/seychelles/ict-service-exports-percent-of-service-exports-bop-wb-data.html",
+  "title": "Seychelles - ICT Service Exports (% Of Service Exports, BoP)",
+  "publisher": "Trading Economics (World Bank data)",
+  "published": "2026-02",
+  "sub_indicator": "production",
+  "why": "Q1-3: ICT service export share 2023"
+ },
+ {
+  "url": "https://www.nationalassembly.sc/sites/default/files/2025-04/CBS%20AR2024.pdf",
+  "title": "Central Bank of Seychelles Annual Report 2024",
+  "publisher": "Central Bank of Seychelles",
+  "published": "",
+  "sub_indicator": "production",
+  "why": "Q1-3: external sector, services 2024"
+ }
+]

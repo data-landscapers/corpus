@@ -1,0 +1,10 @@
+[
+ {
+  "url": "https://data.worldbank.org/indicator/BX.GSR.CCIS.ZS?locations=ER",
+  "title": "ICT service exports (% of service exports, BoP) - Eritrea",
+  "publisher": "World Bank",
+  "published": "",
+  "sub_indicator": "production",
+  "why": "Q1-3: no ICT service export data after 2000"
+ }
+]

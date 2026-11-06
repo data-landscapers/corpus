@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "governance;period;reporting",
+ "fact": "The assessment states the PNDTIC 2010-2025 is the first and only ICT-specific strategic document, remains largely aspirational, and its implementing institutions lack the capacity and resources to carry it out.",
+ "title": "Burundi Digital Economy Assessment",
+ "publisher": "World Bank Group",
+ "published": "2020",
+ "date_source": "source",
+ "why_not": ""
+}

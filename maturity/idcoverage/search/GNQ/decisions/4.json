@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "coverage",
+ "aspect": "births",
+ "fact": "UNICEF reports that Equatorial Guinea's 2011 demographic and social survey found only 54% of births registered (urban 60%, rural 47%, island 73%, continental 47%).",
+ "title": "A pesar del aumento del registro de nacimientos, una cuarta parte de los niños del mundo siguen siendo «invisibles»",
+ "publisher": "UNICEF Guinea Ecuatorial",
+ "published": "2019-12-11",
+ "date_source": "source",
+ "why_not": ""
+}

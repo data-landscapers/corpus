@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "standing;text;reporting",
+ "fact": "The National ICT Policy of June 2012 harmonised the existing ICT policies into one and provides that the Ministry will produce a report on all sectoral activity annually.",
+ "title": "National Information and Communication Technology (ICT) Policy",
+ "publisher": "Federal Ministry of Communication Technology, Federal Republic of Nigeria",
+ "published": "2012-06",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,58 @@
+[
+{
+"url": "https://parliament.gov.sz/publications/parliament_reports/docs/ANNUAL%20REPORT%20ICT%202025.pdf",
+"title": "Annual Performance Report of the Ministry of Information, Communications and Technology 2024-25",
+"publisher": "Ministry of Information, Communications and Technology, Eswatini",
+"published": "2025",
+"sub_indicator": "sector",
+"why": "Q5: published ministry results against achievements incl. policy and legislative frameworks"
+},
+{
+"url": "https://gov.sz/images/CabinetMinisters/ESWATINI%20GOVERNMENT%20PROGRAMME%20OF%20ACTION%20%202024_2025%20TO%202028_2029.pdf",
+"title": "Eswatini Government Programme of Action 2024/2025 to 2028/2029",
+"publisher": "Government of Eswatini",
+"published": "2024",
+"sub_indicator": "sector",
+"why": "Q4: costed ICT infrastructure deliverables with timelines and funding"
+},
+{
+"url": "https://uasf.esccom.org.sz/wp-content/uploads/2023/10/USAF_Strategy_Review_November_2020.pdf",
+"title": "Universal Access and Service Fund Strategy Review",
+"publisher": "ESCCOM",
+"published": "2020-11",
+"sub_indicator": "sector",
+"why": "Q3: lists Eswatini ICT policy framework, NICI Policy 2006, ICT Policy 2007"
+},
+{
+"url": "https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Digital-Economy-Diagnostic-Eswatini.pdf",
+"title": "Digital Economy Diagnostic Eswatini",
+"publisher": "World Bank Group",
+"published": "2021",
+"sub_indicator": "sector",
+"why": "Q1/Q3: no comprehensive whole-of-government approach; ICT master plan under development"
+},
+{
+"url": "https://www.esccom.org.sz/publications/reports/docs/ANNUAL%20REPORT%202025.pdf",
+"title": "ESCCOM Annual Report 2025",
+"publisher": "Eswatini Communications Commission",
+"published": "2025",
+"sub_indicator": "sector",
+"why": "Q5: regulator results against own strategy cycle"
+},
+{
+"url": "https://www.gov.sz/images/ICT/Digital%20Government%20Implementation%20Roadmap%20Development.pdf",
+"title": "Digital Government Implementation Roadmap Development Terms of Reference",
+"publisher": "Ministry of ICT, Eswatini",
+"published": "",
+"sub_indicator": "sector",
+"why": "Q2/Q4: costed plan development for digitization programme"
+},
+{
+"url": "https://documents1.worldbank.org/curated/en/099061826123027004/pdf/BOSIB-eeab9c88-27f5-404b-bf04-d448d9780618.pdf",
+"title": "Project Appraisal Document Digital Eswatini",
+"publisher": "World Bank",
+"published": "2026",
+"sub_indicator": "sector",
+"why": "Q4: Ministry of ICT as lead coordinator, financing"
+}
+]

@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://dossiersefactos.com/2026/08/28/mocambique-falha-registo-de-9-em-cada-10-bebes-que-nascem/,fetched,,scripts/.workroot/study/idcoverage/cache/MOZ/1.txt,743,html,INE: Moçambique falha registo de 9 em cada 10 bebés que nascem - Dossiers & Factos
+2,https://data.unicef.org/wp-content/uploads/2026/06/A-Statistical-Profile-of-Birth-Registration-in-Mozambique_final-June-2026.pdf,unfetchable,"HTTP 403; Wayback HTTP 429, not checked",,0,,
+3,https://checka.co.mz/mocambique-registo-gratuito-bi/,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+4,https://www.diarioeconomico.co.mz/2026/03/21/desenvolvimento-2/governo-lanca-campanha-financiada-pelo-banco-mundial-para-combater-defice-de-identificacao-civil/,fetched,,scripts/.workroot/study/idcoverage/cache/MOZ/4.txt,315,html,Governo Lança Campanha Financiada Pelo Banco Mundial Para Combater Défice de Identificação Civil • Diário Económico
+5,https://documents1.worldbank.org/curated/en/099042226205030950/pdf/P172350-ea7be2a4-0727-4372-a851-4df42faaf183.pdf,fetched,,scripts/.workroot/study/idcoverage/cache/MOZ/5.txt,1968,pdf,ISR_Disclosable
+6,https://aimnews.org/2024/12/12/mocambique-taxa-de-registo-de-nascimento-regista-cai-nos-ultimos-anos/,fetched,,scripts/.workroot/study/idcoverage/cache/MOZ/6.txt,490,html,Moçambique: Taxa de registo de nascimento regista cai nos últimos anos
+7,https://aimnews.org/2024/06/11/apenas-34-por-cento-dos-mocambicanos-tem-acesso-a-bi/,fetched,,scripts/.workroot/study/idcoverage/cache/MOZ/7.txt,643,html,Apenas 34 por cento dos moçambicanos têm acesso a BI
+8,https://aimnews.org/2024/01/24/governo-expande-servicos-de-identificacao-civil-no-pais/,fetched,,scripts/.workroot/study/idcoverage/cache/MOZ/8.txt,543,html,Governo expande serviços de identificação civil no país

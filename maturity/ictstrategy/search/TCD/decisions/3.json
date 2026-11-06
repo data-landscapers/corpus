@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "reporting;governance",
+ "fact": "On 29 December 2025 the Prime Minister chaired a monitoring and evaluation meeting on the telecoms and digital economy sector, noting service-quality and fibre shortfalls and the Data Center awaiting its licence.",
+ "title": "Suivi du secteur des télécommunications et de l'économie numérique",
+ "publisher": "Primature du Tchad",
+ "published": "2025-12-29",
+ "date_source": "source",
+ "why_not": ""
+}

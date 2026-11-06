@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "coverage",
+ "aspect": "births",
+ "fact": "Estimated death registration completeness in Tunisia is above 95% for 2002-2017, with no measurable difference between sexes or across the 24 governorates.",
+ "title": "Knowledge brief on completeness of death registration in Tunisia, 2002-2017",
+ "publisher": "Institut National de la Statistique and UNFPA",
+ "published": "2021-03",
+ "date_source": "source",
+ "why_not": ""
+}

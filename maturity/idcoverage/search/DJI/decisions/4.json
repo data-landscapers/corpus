@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "coverage",
+ "aspect": "births",
+ "fact": "National CRVS assessments put Djibouti's birth registration completeness at 49% in 2013 and death registration completeness below 50%.",
+ "title": "Advancing civil registration for vital statistics in the Arab countries 2022",
+ "publisher": "UNFPA Arab States Regional Office",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

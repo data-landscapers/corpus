@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "sector",
+ "aspect": "reporting;last12",
+ "fact": "The ARCEP director general told the CESCE in August 2026 of progress in sector connectivity and of persistent challenges in coverage and service quality.",
+ "title": "Digitalisation : l'ARCEP présente les progrès et les défis persistants",
+ "publisher": "Agence Tchadienne de Presse et d'Edition (ATPE)",
+ "published": "2026-08",
+ "date_source": "proxy",
+ "why_not": ""
+}
