@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-11-crs-301-20240104460001-2024-mena-ai-observatory-observatoire-d-ia-de-la-region",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "Canada's IDRC reported a USD 108,832 grant (2024-2027) for the MENA AI Observatory, a responsible-AI research project implemented by the American University in Cairo.",
+   "as_of": "2024-12-11",
+   "date_precision": "day",
+   "system": "MENA Observatory on Responsible AI",
+   "class": "research"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MENA Observatory on Responsible AI",
+   "country_label": "Egypt",
+   "class": "research",
+   "platform": "",
+   "owner": "American University in Cairo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-18-crs-1624-2024000183-2024-for-general-operating-support",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "A Hewlett Foundation CRS record of 2024-09-18 describes the Africa Digital Rights Hub as a Ghana-based think tank promoting Pan-African research on digital rights, and shows a USD 500,000 general operating grant to it.",
+   "as_of": "2024-09-18",
+   "date_precision": "day",
+   "system": "Africa Digital Rights Hub",
+   "class": "research"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Digital Rights Hub",
+   "country_label": "Ghana",
+   "class": "research",
+   "platform": "",
+   "owner": "nonprofit think tank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

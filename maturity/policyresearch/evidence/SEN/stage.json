@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "research",
-      "stage": "unplaced",
-      "research": "",
+      "stage": "2",
+      "research": "begun",
       "policy": "",
       "standing": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether a local institution researches digital policy.",
-      "note": "First pass: counted from the four questions by study-ladder-policyresearch.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "SEN-003",
+      "gaps": "No source from the last three years says a local institution has published research on digital policy; IPAR's 2023 policy paper and strategy work fall before the window.",
+      "note": "The Dakar AI Living Lab, channelled through Université numérique Cheikh Hamidou Kane, was doing scientific work on responsible AI in 2024, so research has begun. Nothing published inside the window is held, so not 3.",
+      "as_at": "2026-11-06"
     }
   ]
 }

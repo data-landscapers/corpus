@@ -23,9 +23,9 @@ STISA-2034 and Agenda 2063's second ten-year plan ask for research systems funde
 | 5 Leading | 0 |
 | 4 Operating | 3 |
 | 3 Established | 18 |
-| 2 Nascent | 6 |
+| 2 Nascent | 7 |
 | 1 Absent | 0 |
-| Unplaced | 8 |
+| Unplaced | 7 |
 | No evidence | 19 |
 
 ## Countries
@@ -201,6 +201,12 @@ Research on digital policy had begun in 2025; published research by a local inst
 
 - Newsmada reports that Customs and the University of Antananarivo's EGS faculty held a conference on data sovereignty and AI with researchers, and that Customs set up CEDIA as a bridge turning university research into operational solutions ([source, 2025-08-21](https://newsmada.com/2025/08/22/gestion-des-donnees-donnees-ia-et-souverainete-madagascar-engage-le-debat/)).
 
+### Senegal: 2 Nascent
+
+A Dakar lab was researching responsible AI in 2024; published local research on digital policy is not known.
+
+- IDRC funds the Dakar-based AI Living Lab, which does scientific work on responsible AI, with Universite numerique Cheikh Hamidou Kane as the channel ([source, 2024-09-05](https://data-explorer.oecd.org/vis?lc=en&df[ds]=DcdDisseminateFinalDMZ&df[id]=DSD_CRS%40DF_CRS&df[ag]=OECD.DCD.FSD&dq=CAN.SEN.1000.._T._T.C.Q._T..&pd=2024%2C2024&to[TIME_PERIOD]=false)).
+
 ### Cote d'Ivoire: Unplaced
 
 Nothing found since 2023 names research on digital policy, so no stage is set.
@@ -226,12 +232,6 @@ Nothing found since 2023 names research on digital policy, so no stage is set.
 Not established: Nothing found since October 2023 says whether a local institution researches digital policy.
 
 ### Namibia: Unplaced
-
-Nothing found since 2023 names research on digital policy, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether a local institution researches digital policy.
-
-### Senegal: Unplaced
 
 Nothing found since 2023 names research on digital policy, so no stage is set.
 
