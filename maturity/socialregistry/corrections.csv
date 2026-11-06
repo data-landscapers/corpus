@@ -3,3 +3,5 @@ AGO,005,programmes,several,removed,First pass: future use read as use
 BFA,002,linked,linked,removed,First pass: an aim of interoperability read as a link
 SWZ,004,registry,inservice,removed,"Stage 4c: an outage notice naming the system among services restored, not a statement that the registry is in service; enumeration still running (SWZ-001)"
 MAR,012,registry,inservice,revalued: inservice,"Stage 4c: a registry carrying 170,000 operations a day is in service, not underway"
+TCD,003,registry,inservice,revalued: underway,"Stage 4c: 87,500 households enrolled in two provinces in 2024 is a registry being populated, not one in service"
+GHA,005,registry,underway,revalued: inservice,Stage 4c: a registry whose data targets new LEAP beneficiaries is in service; its data collection continuing does not make it underway

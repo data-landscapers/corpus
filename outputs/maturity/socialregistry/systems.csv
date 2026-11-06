@@ -67,6 +67,8 @@ GAB,Registre Social Unique (RSU),Gabon,social,,"Ministry of Women, Family and Ch
 GAB,Registre social unique du Gabon (RSUG),Gabon,social,,Ministère des Affaires sociales,,2026-07-30-protection-sociale-le-gabon-franchit-une-nouvelle-etape
 GHA,GNHR Registry,Ghana,social,,"Ghana National Household Registry, Ministry of Gender, Children and Social Protection",,2024-01-01-gnhr-registry
 GHA,Ghana National Household Registry,GNHR,social,,"Ministry of Gender, Children and Social Protection",,2026-11-03-gha-gender-ministry-swears-in-data-review-committee-to-strengthen-household-registry
+GHA,Ghana National Household Registry,Ghana,social,,,,2026-09-01-gha-eligibility-criteria-leap-ghana
+GHA,Ghana National Household Registry,Ghana,social,,,national,2025-03-21-gha-minister-s-press-briefing-on-the-94th-and-95th-leap-disbursement
 GIN,Registre Social Unifié (RSU),Guinea,social,,FDSI,,2026-07-08-fdsi-rapport-analyse-registre-social-unifie
 GIN,Registre Social Unifié (RSU),Guinea,social,,"Ministère de la Promotion Féminine, de l'Enfance et des Personnes Vulnérables / FDSI",,2025-01-01 Registre Social Unifie (RSU) presentation - Guinea
 GIN,Registre Social Unifié (RSU),Guinea,social,,FDSI (Direction Générale),,2024-10-13-decret-d-2024-177-registre-social-unifie
@@ -76,6 +78,7 @@ KEN,Enhanced Single Registry,Kenya,social,,,,2026-06-29-world-bank-kenya-dpo-fis
 KEN,Enhanced Single Registry,Kenya,social,,State Department for Social Protection,,2025-08-01-kseip2-esmp
 KEN,CCTP-MIS,Kenya,other,,Directorate of Social Assistance,,2025-08-01-kseip2-esmp
 KEN,Enhanced Single Registry,Kenya,social,,State Department for Social Protection,,2025-10-30-ken-sha-system-stopped-theft-of-millions-in-fake-claims-duale
+KEN,Birth registration e-service,Kenya,other,e-birth register,State Department for Immigration and Citizen Services,,2026-11-02-ken-birth-registration-e-service-reduces-admin-from-months-to-days
 LBR,Liberia Household Social Registry,Liberia,social,,"Ministry of Gender, Children and Social Protection",,2026-05-18-liberia-realise-crisis-response-plan-household-social-registry
 LBR,Liberia Household Social Registry (LHSR),Liberia,social,,"Ministry of Gender, Children and Social Protection",,2024-05-07-wb-liberia-household-social-registry
 LBR,Management Information System (MIS),Liberia,other,,Liberia Social Safety Net Project,,2024-05-07-wb-liberia-household-social-registry
@@ -95,6 +98,8 @@ MAR,Registre social unifié (RSU),Registre social unifié,social,,,,2026-07-19-m
 MAR,Minhaty,Minhaty,other,,Ministries of Interior and National Education,,2026-07-19-mar-lematin-minhaty-bourse-massar-rsu
 MAR,Registre Social Unifié,Morocco,social,rsu.ma,,,2026-01-01-mar-anss-conditions-eligibilite-asd
 MAR,RNP-RSU,Morocco,social,,,,2025-05-22-mar-id4africa-rnp-rsu-mosip-targeting
+MAR,Registre social unifié (RSU),Morocco,social,,ANSS,,2026-06-10-mar-anss-un-an-apres-quel-impact-sur-le-soutien-social
+MAR,Unified Social Register,RSU,social,,National Agency for Registers,,2025-12-24-mar-morocco-expands-direct-social-support-with-data-driven-reform
 MDG,Registre social unique (RSU),Madagascar,social,,Ministere de la Population et des Solidarites,,2026-09-10-mdg-newsmada-registre-social-unique-extension
 MDG,Registre social unique (RSU),Madagascar,social,,Ministere de la Population et des Solidarites,,2026-05-13-rsu-2-6-millions-menages-lexpress
 MDG,Registre Social Unique (RSU) / e-Fokontany,Madagascar,social,,PREA,,2026-02-06-prea-rsu-efokontany-comite-technique
@@ -138,6 +143,8 @@ NGA,social register,NGA,social,,Federal Ministry of Humanitarian Affairs and Pov
 NGA,National Social Register,NGA,social,,National Social Safety-Nets Coordinating Office,,2026-05-07-77-million-nigerians-safety-net-register-nassco
 NGA,National Social Register (NSR),Nigeria,social,,NASSCO/NSIPA,,2025-01-01-nga-nsipa-about-nassco-national-social-register
 NGA,National Social Register,Nigeria,social,,Federal Ministry of Humanitarian Affairs and Poverty Alleviation,,2023-10-21-nga-punch-cash-transfer-nin-bvn-cbn-payment
+NGA,National Social Register,Nigeria,social,,National Social Safety-Nets Coordinating Office (NASSCO),,2026-11-04-nga-how-fg-selects-beneficiaries-for-n50-000-relief
+NGA,National Social Register,Nigeria,social,,National Social Safety Net Coordinating Office (NASSCO),,2025-09-18-nga-fg-moves-to-include-conditional-cash-transfer-in-national-budgets-disb
 RWA,Imibereho Social Registry System,Rwanda,social,,Ministry of Local Government,,2026-08-03-rwanda-imibereho-social-registry-appeals
 RWA,Imibereho Social Registry,Rwanda,social,,,,2025-11-19-social-registries-digital-platforms-inclusive-service-delivery
 RWA,Imibereho Dynamic Social Registry System,Rwanda,social,,Ministry of Local Government,,2024-05-06-rwandan-government-launches-imibereho-dynamic-social-registry
@@ -155,11 +162,13 @@ SOM,Unified Social Registry,Somalia,social,,Ministry of Labor and Social Affairs
 SOM,Unified Social Registry (USR),Somalia,social,,,,2025-11-24-somalia-nira-2nd-national-id-conference
 SOM,Unified Social Registry,Somalia,social,,,,2025-09-25-world-bank-som-2025-boost-you
 SOM,Unified Social Registry,Somalia,social,,Office of the Prime Minister,,2023-11-13-som-somalidispatch-unified-social-registry-launch
+SOM,Unified Social Registry,Somalia,social,national database,Federal Government of Somalia,national,2025-01-01-som-unconditional-cash-transfer
 STP,Cadastro Social Unico,Sao Tome and Principe,social,,Direcao de Protecao Social,,2026-08-26-sao-tome-csu-social-registry-expansion
 STP,Cadastro Social Unico (CSU),Sao Tome and Principe,social,,"Direcao da Protecao Social, Solidariedade e Familia",,2026-08-03-direcao-da-protecao-social-esclarece-sobre-cadastro-social-unico-stp
 STP,Cadastro Social Único (CSU),Sao Tome and Principe,social,,"Direcção da Proteção Social, Solidariedade e Família",,2026-06-26-sao-tome-dpssf-resultados-2a-recertificacao-expansao-csu
 STP,Cadastro Social Único,Sao Tome and Principe,social,,"Direção de Proteção Social, Solidariedade e Família",,2026-01-27-sao-tome-lancamento-ii-recertificacao-expansao-cadastro-social-unico
 STP,Unique Social Registry (USR),São Tomé and Príncipe,social,Ké-Non management information system (CORE-MIS/openIMIS-based),"Government of São Tomé and Príncipe (Ministry of Labor, Solidarity, and Social Security)",,2025-09-12-wb-stp-003-social-protection-additional-financing
+STP,Unique Social Registry,Ke-Non Unique Social Registry,social,CORE-MIS / openIMIS,Institute of Innovation and Knowledge,,2024-01-01-stp-em-powered-by-openimis-the-island-nation-sao-tome-and-principe-is-effe
 SWZ,National Dynamic Social Registry (Imbeleko),Eswatini,social,,Deputy Prime Minister's Office,,2026-09-16-lubombo-mps-join-dpm-to-make-every-vulnerable-household-count-eswatini-positiv
 SWZ,National Dynamic Social Registry (Imbeleko),Eswatini,social,,,,2026-08-31-eswatini-shiselweni-imbeleko-disability-data
 SWZ,Social Registry Imbeleko,Eswatini,social,,Deputy Prime Minister's Office,,2026-06-18-world-bank-injects-e42-5-million-social-registry
@@ -172,6 +181,7 @@ TCD,Registre social unifié (RSU),Tchad,social,,INSEED,,2026-03-24-praps2-cartog
 TCD,Registre social unifié (RSU),Tchad,social,,,,2026-03-10-realitesinfo-anats-pam-identification-unique-rsu-rnbp
 TCD,Registre National Biométrique des Populations (RNBP),Tchad,other,,ANATS,,2026-03-10-realitesinfo-anats-pam-identification-unique-rsu-rnbp
 TCD,Registre social unifié (RSU),Tchad,social,,INSEED,,2026-01-06-inseed-registre-social-unifie-9eme-arrondissement-ndjamena
+TCD,Registre social unique (RSU),Registre social unifie,social,,"INSEED, through the Filets sociaux","national, by province",2025-01-29-tcd-le-transfert-monetaire-aux-menages-vulnerables
 TGO,Personal and Household Social Register (RSPM),Togo,social,,Agence Nationale d'Identification (ANID),,2025-01-01-anid-togo-rspm-social-register
 TGO,Social Register of Individuals and Households (RSPM),Togo,social,,Agence Nationale d'Identification (ANID),,2025-01-01-anid-togo-presentation-missions
 TGO,Central National Biometric Identification Database,Togo,other,,Agence Nationale d'Identification (ANID),,2025-01-01-anid-togo-presentation-missions
