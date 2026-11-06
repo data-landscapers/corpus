@@ -1,3 +1,7 @@
+## 6 November 2026
+
+- Non-state finance now holds 6,293 commitments, up from 1,717, after OECD aid records for 2016 to 2024 and climate-fund grants were added; the total rises from about $71.4 billion to $75.3 billion. Most new rows are small grants for statistics, health data, ICT training and weather observation, each with a scope saying how much of it counts as digital.
+
 ## 5 November 2026
 
 - Every country's budget table and download now carries sub-topic and sector, as the all-Africa budgets table does. A country's budget lines can now be filtered and cut by either.
