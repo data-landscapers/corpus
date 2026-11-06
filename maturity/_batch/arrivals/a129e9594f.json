@@ -1,0 +1,477 @@
+{
+ "slug": "2024-12-19-iati-dac-1601-inv-082570-campaign-worker-databases-to-facilitate-rapid-digital-paymen",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant to Dimagi for polio campaign worker payment databases is a donor grant, not a government programme or any state the study asks."
+    }
+   }
+  }
+ }
+}

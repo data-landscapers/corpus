@@ -1,0 +1,86 @@
+{
+ "slug": "2024-11-22-iati-dac-1601-inv-077479-safeguarding-mobile-money-services-in-nigeria",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Grant to build a data sharing platform for the telecoms regulator against mobile-number fraud; states nothing a payments study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Grant to build a data sharing platform for the telecoms regulator against mobile-number fraud; states nothing a payments study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Grant to build a data sharing platform for the telecoms regulator against mobile-number fraud; states nothing a payments study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Grant to build a data sharing platform for the telecoms regulator against mobile-number fraud; states nothing a payments study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Grant to build a data sharing platform for the telecoms regulator against mobile-number fraud; states nothing a payments study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Grant to build a data sharing platform for the telecoms regulator against mobile-number fraud; states nothing a payments study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Grant to build a data sharing platform for the telecoms regulator against mobile-number fraud; states nothing a payments study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Grant to build a data sharing platform for the telecoms regulator against mobile-number fraud; states nothing a payments study asks."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Grant to develop a data sharing platform for the Nigeria Communications Commission; it is not stated live, nor to link public bodies' systems or count any."
+    }
+   }
+  }
+ }
+}

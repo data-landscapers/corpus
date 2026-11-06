@@ -1,0 +1,8 @@
+{"slug": "2024-12-31-iati-xm-dac-301-2-110473-001-centre-for-data-science-and-artificial-intelligence-multidis", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "IDRC grant for an AI lab; states no rule, authority or enforcement on AI harms."}}},
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [], "note": "A university research lab grant; no government body's AI use stated."}}},
+"aisectoral": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Lab aims to develop solutions in health and agriculture, but names no public sector system piloting or using AI."}}},
+"aisystems": {"countries": {"KEN": {"facts": [], "systems": [{"system": "Centre for Data Science and Artificial Intelligence, Dedan Kimathi University of Technology", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Dedan Kimathi University of Technology", "tiers": ""}], "note": "Funds a university AI lab; names no model, dataset or AI computing facility built or planned."}}},
+"policyresearch": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Research lab is on AI for development, not digital policy; no policy research or publication stated."}}},
+"publicconsultation": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No consultation on a digital law or policy stated."}}}
+}}

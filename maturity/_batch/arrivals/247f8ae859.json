@@ -1,0 +1,8 @@
+{"slug":"2024-09-30-iati-xm-dac-301-2-110542-001-championing-responsible-artificial-intelligence-policy-in-af","studies":{
+"aiabuse":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Research project on AI policy; no rule, draft or authority on AI harms stated."}}},
+"aigovernment":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Not stated."}}},
+"aisectoral":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Not stated."}}},
+"aistrategy":{"countries":{"KEN":{"facts":[],"systems":[],"note":"No Kenyan strategy stated; only that several countries have begun developing AI strategies."}}},
+"aisystems":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Not stated."}}},
+"policyresearch":{"countries":{"KEN":{"facts":[{"sub_indicator":"research","aspect":"research","value":"begun","fact":"IDRC reports an active grant of CAD 745,209 from 2024-08-01 enabling the Centre for Intellectual Property and Information Technology Law (CIPIT) at Strathmore University in Kenya to research and advocate responsible AI policy in East Africa.","as_of":"2024-08","date_precision":"month","system":"East African AI Policy Centre (CIPIT, Strathmore University)","class":"research"}],"systems":[],"note":""}}},
+"publicconsultation":{"countries":{"KEN":{"facts":[],"systems":[],"note":"No government consultation on a named law or policy stated."}}}}}

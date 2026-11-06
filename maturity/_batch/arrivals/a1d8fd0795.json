@@ -1,0 +1,77 @@
+{
+ "slug": "2024-07-24-iati-dac-1601-inv-078050-tanzania-scoping-digitizing-community-health-worker-payments",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Donor grant aiming at a government-supported digital payment for community health workers; no government programme piloting, contracted or paying is stated."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Donor grant aiming at a government-supported digital payment for community health workers; no government programme piloting, contracted or paying is stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Donor grant aiming at a government-supported digital payment for community health workers; no government programme piloting, contracted or paying is stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Donor grant aiming at a government-supported digital payment for community health workers; no government programme piloting, contracted or paying is stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Donor grant aiming at a government-supported digital payment for community health workers; no government programme piloting, contracted or paying is stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Donor grant aiming at a government-supported digital payment for community health workers; no government programme piloting, contracted or paying is stated."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Donor grant aiming at a government-supported digital payment for community health workers; no government programme piloting, contracted or paying is stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Donor grant aiming at a government-supported digital payment for community health workers; no government programme piloting, contracted or paying is stated."
+    }
+   }
+  }
+ }
+}

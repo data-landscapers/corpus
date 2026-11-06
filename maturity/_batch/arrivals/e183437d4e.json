@@ -1,0 +1,8 @@
+{"slug":"2024-09-30-iati-xm-dac-301-2-110472-001-data-innovation-centre-for-artificial-intelligence","studies":{
+"aiabuse":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Not stated."}}},
+"aigovernment":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Not stated."}}},
+"aisectoral":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Names sectors as areas for data and skills; no AI tool in a public system stated."}}},
+"aisystems":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Only vaguely states 'AI resources and innovations' to be fostered; no model, dataset or computing named."}}},
+"disabilityaccess":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Inclusion of disabled people in the AI ecosystem; no government accessibility rule or programme stated."}}},
+"policyresearch":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Centre works on data and AI skills and resources, not stated as digital policy research."}}},
+"techhubs":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Centre not stated to host or incubate startups."}}}}}

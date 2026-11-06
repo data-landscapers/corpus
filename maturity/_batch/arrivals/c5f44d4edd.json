@@ -1,0 +1,77 @@
+{
+ "slug": "2024-07-09-iati-dac-1601-inv-075801-uganda-central-data-hub",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Grant to set up a credit reference data hub for financial inclusion; states nothing a payments study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Grant to set up a credit reference data hub for financial inclusion; states nothing a payments study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Grant to set up a credit reference data hub for financial inclusion; states nothing a payments study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Grant to set up a credit reference data hub for financial inclusion; states nothing a payments study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Grant to set up a credit reference data hub for financial inclusion; states nothing a payments study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Grant to set up a credit reference data hub for financial inclusion; states nothing a payments study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Grant to set up a credit reference data hub for financial inclusion; states nothing a payments study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Grant to set up a credit reference data hub for financial inclusion; states nothing a payments study asks."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2024-09-30-iati-xm-dac-41301-752880-tcpf-technical-assistance-on-the-preparation-of-national-agr",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "National Agricultural Census (NAC)",
+       "country_label": "NAC",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Agriculture and ZamStats",
+       "tiers": ""
+      }
+     ],
+     "note": "FAO-funded technical assistance for an agricultural census is an agricultural census, which the study notes as other and does not stage."
+    }
+   }
+  }
+ }
+}

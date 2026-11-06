@@ -1,0 +1,126 @@
+{
+ "slug": "2023-12-06-iati-xm-dac-6-4-012525-01-1-digit-support-to-the-strategic-plan-for-the-information-soci",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Training named is for the public, workers and young people, not civil servants."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "AICS (Italian cooperation) reports a EUR 500,000 grant to Mozambique's science and higher education ministry to define and implement a tech-hub model (PTED) offering digital-skills courses to users, programmers and workers.",
+       "as_of": "2023-12-06",
+       "date_precision": "day",
+       "system": "PTED tech-hub",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PTED tech-hub",
+       "country_label": "PTED",
+       "class": "hub",
+       "platform": "",
+       "owner": "Ministry of Science, Technology and Higher Education",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategic Plan for the Information Society 2019-2028 is named only as the frame; the document does not say who adopted it or describe its scope."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The tech-hub gives particular attention to persons with disabilities in training; no accessibility law, policy or service is stated."
+    }
+   }
+  },
+  "ictstrategy": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Strategic Plan for the Information Society and 2018 Information Society Policy are named only as the frame; no standing, text or scope is stated."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on secondary school internet or curriculum."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "PTED tech-hub",
+       "country_label": "PTED",
+       "class": "hub",
+       "platform": "",
+       "owner": "Ministry of Science, Technology and Higher Education",
+       "tiers": ""
+      }
+     ],
+     "note": "The tech-hub incubating start-ups is a hub programme, not a startup law, label or public fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "AICS reports a EUR 500,000 grant, with the science and higher education ministry, to define and implement a tech-hub model (PTED) acting as incubator and accelerator for start-ups.",
+       "as_of": "2023-12-06",
+       "date_precision": "day",
+       "system": "PTED tech-hub",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PTED tech-hub",
+       "country_label": "PTED",
+       "class": "hub",
+       "platform": "",
+       "owner": "Ministry of Science, Technology and Higher Education",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

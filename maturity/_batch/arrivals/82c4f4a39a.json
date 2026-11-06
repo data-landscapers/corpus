@@ -1,0 +1,338 @@
+{
+ "slug": "2023-12-31-iati-xm-dac-301-2-110313-001-empowering-districts-and-schools-with-data-a-digital-platfor",
+ "studies": {
+  "educationexchange": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No data exchange between education systems is stated."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No data exchange between education systems is stated."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No data exchange between education systems is stated."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "No data exchange between education systems is stated."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No data exchange between education systems is stated."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No data exchange between education systems is stated."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No data exchange between education systems is stated."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "IDRC reports that the District Health Information System platform has recently been tried with success in Gambia to address the lack of an education management information system.",
+       "as_of": "2023-12-31",
+       "date_precision": "day",
+       "system": "DHIS2 for education (District Health Information System platform)",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "District Health Information System platform used for EMIS",
+       "country_label": "DHIS2 EMIS pilot",
+       "class": "emis",
+       "platform": "District Health Information System",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The country is named only as having called for support to improve data-driven decisions; no EMIS state is given."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The country is named only as having called for support to improve data-driven decisions; no EMIS state is given."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The country is named only as having called for support to improve data-driven decisions; no EMIS state is given."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The country is named only as having called for support to improve data-driven decisions; no EMIS state is given."
+    },
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "IDRC reports that the District Health Information System platform has recently been tried with success in Togo to address the lack of an education management information system.",
+       "as_of": "2023-12-31",
+       "date_precision": "day",
+       "system": "DHIS2 for education (District Health Information System platform)",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "District Health Information System platform used for EMIS",
+       "country_label": "DHIS2 EMIS pilot",
+       "class": "emis",
+       "platform": "District Health Information System",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "IDRC reports that the District Health Information System platform has recently been tried with success in Uganda to address the lack of an education management information system.",
+       "as_of": "2023-12-31",
+       "date_precision": "day",
+       "system": "DHIS2 for education (District Health Information System platform)",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "District Health Information System platform used for EMIS",
+       "country_label": "DHIS2 EMIS pilot",
+       "class": "emis",
+       "platform": "District Health Information System",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The District Health Information System is cited only as the model; no health system fact for the country."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The District Health Information System is cited only as the model; no health system fact for the country."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The District Health Information System is cited only as the model; no health system fact for the country."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The District Health Information System is cited only as the model; no health system fact for the country."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The District Health Information System is cited only as the model; no health system fact for the country."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The District Health Information System is cited only as the model; no health system fact for the country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The District Health Information System is cited only as the model; no health system fact for the country."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "The District Health Information System is cited only as the model; no country-specific health MIS state is given."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The District Health Information System is cited only as the model; no country-specific health MIS state is given."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The District Health Information System is cited only as the model; no country-specific health MIS state is given."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The District Health Information System is cited only as the model; no country-specific health MIS state is given."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The District Health Information System is cited only as the model; no country-specific health MIS state is given."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The District Health Information System is cited only as the model; no country-specific health MIS state is given."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The District Health Information System is cited only as the model; no country-specific health MIS state is given."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Research on EMIS use is a project activity; no publishing or policy contribution is stated."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Research on EMIS use is a project activity; no publishing or policy contribution is stated."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Research on EMIS use is a project activity; no publishing or policy contribution is stated."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Research on EMIS use is a project activity; no publishing or policy contribution is stated."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Research on EMIS use is a project activity; no publishing or policy contribution is stated."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Research on EMIS use is a project activity; no publishing or policy contribution is stated."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Research on EMIS use is a project activity; no publishing or policy contribution is stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on public consultation."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on public consultation."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on public consultation."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on public consultation."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on public consultation."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on public consultation."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on public consultation."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No daily school-level learner records are described; a district platform tried or called for is not stated as school record keeping."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No daily school-level learner records are described; a district platform tried or called for is not stated as school record keeping."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No daily school-level learner records are described; a district platform tried or called for is not stated as school record keeping."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "No daily school-level learner records are described; a district platform tried or called for is not stated as school record keeping."
+    },
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No daily school-level learner records are described; a district platform tried or called for is not stated as school record keeping."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No daily school-level learner records are described; a district platform tried or called for is not stated as school record keeping."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No daily school-level learner records are described; a district platform tried or called for is not stated as school record keeping."
+    }
+   }
+  }
+ }
+}

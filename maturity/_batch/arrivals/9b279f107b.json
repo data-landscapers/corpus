@@ -1,0 +1,9 @@
+{"slug": "2024-12-31-iati-xm-dac-301-2-110552-001-ai4d-fcdo-innovation-scaling-and-sustaining-ai-solutions-to", "studies": {
+"aiabuse": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Grant for AI in maternal health; names no rule, authority or enforcement on AI harms."}}},
+"aigovernment": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No government body's use of AI stated."}}},
+"aisectoral": {"countries": {"UGA": {"facts": [], "systems": [{"system": "tool for predicting miscarriages among women in Uganda", "country_label": "Uganda", "class": "other", "platform": "", "owner": "Hub for Artificial Intelligence in Maternal, Sexual and Reproductive Health", "tiers": ""}], "note": "A hub-funded miscarriage-prediction tool is named, but no public health system piloting or using it is stated."}}},
+"aisystems": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document does not say the miscarriage-prediction tool was built or hosted in Uganda, or whether it is released."}}},
+"policyresearch": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No Uganda-based institution's digital policy research stated."}}},
+"publicconsultation": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No consultation on a digital law or policy stated."}}},
+"ruralelectrification": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No rural electricity access figure stated."}}}
+}}

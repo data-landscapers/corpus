@@ -1,0 +1,19 @@
+{
+ "slug": "2024-05-15-iati-dac-1601-inv-068056-ai-enabled-frontline-workers-flws-benchmarks-tool-evidence",
+ "studies": {
+  "aisystems": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Grant to benchmark AI/LLM knowledge tools for frontline workers; no model, dataset or AI computing built in the country stated."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Grant to benchmark AI/LLM knowledge tools for frontline workers; no model, dataset or AI computing built in the country stated."
+    }
+   }
+  }
+ }
+}

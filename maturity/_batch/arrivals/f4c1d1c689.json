@@ -1,0 +1,7 @@
+{"slug":"2024-09-30-iati-xm-dac-301-2-110470-001-african-artificial-intelligence-lab-afriai-lab","studies":{
+"aiabuse":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Not stated."}}},
+"aigovernment":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Not stated."}}},
+"aisectoral":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Sectors named only as areas of AI adoption in Africa generally."}}},
+"aisystems":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Lab provides a workspace and capacity building; no model, dataset or computing stated."}}},
+"policyresearch":{"countries":{"TZA":{"facts":[{"sub_indicator":"research","aspect":"research","value":"begun","fact":"IDRC reports an active grant from 2024-09-01 to the University of Dodoma to scale up the African AI Lab (AfriAI Lab) in Tanzania, which will conduct exploratory research and contribute evidence for AI policymaking in Tanzania.","as_of":"2024-09","date_precision":"month","system":"African Artificial Intelligence Lab (AfriAI Lab)","class":"research"}],"systems":[],"note":""}}},
+"publicconsultation":{"countries":{"TZA":{"facts":[],"systems":[],"note":"Not stated."}}}}}
