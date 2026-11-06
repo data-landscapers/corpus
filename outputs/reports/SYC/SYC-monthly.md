@@ -1,11 +1,11 @@
 ---
 title: Seychelles — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: SYC
-ledger_rows: 12
+ledger_rows: 13
 not_held: 6
-record: c6bacef5af4e
+record: 837d5f3cd907
 ---
 
 # News, Oct – Nov 2026
@@ -24,6 +24,8 @@ record: c6bacef5af4e
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
 </nav>
 
 ## Governance
@@ -273,6 +275,28 @@ Seychelles scored 0.84 out of 4 on the Africa AI Governance Index 2026, in the N
 **[27 civil servants head to India for executive training programme](https://nation.sc/articles/32585/27-civil-servants-head-to-india-for-executive-training-programme)** — Seychelles Nation, 2 October 2026
 
 A second cohort of 27 Seychelles civil servants was sent off at the Indian High Commission ahead of a two-week executive course in Delhi and Mussoorie from 5 to 16 October, focused on technology and its use in governance. The rest of the article is behind a paywall.
+
+</div>
+
+</div>
+
+## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#geospatial-data">Geospatial data</a>
+</nav>
+
+### Geospatial data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">GBON observing network upgrade (SOFF)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Investment Phase pipeline – Seychelles](https://www.un-soff.org/wp-content/uploads/2026/10/Seychelles-IFR-FINAL.pdf)** — Systematic Observations Financing Facility, 2 October 2026
+
+World Bank-led SOFF request of USD 3,308,974.80 to rebuild Seychelles' surface and upper-air stations, 2027 to 2031.
 
 </div>
 
