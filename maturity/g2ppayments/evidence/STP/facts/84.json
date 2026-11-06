@@ -1,0 +1,27 @@
+{
+ "slug": "2024-01-01-stp-em-powered-by-openimis-the-island-nation-sao-tome-and-principe-is-effe",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "openIMIS says the government's Ke-Non system, adopted in May 2023, includes a payments module working with Banco Internacional de Sao Tome e Principe for the conditional cash transfer programme.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Ke-Non",
+   "class": "g2p"
+  },
+  {
+   "sub_indicator": "g2p",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "openIMIS says Ke-Non, which holds the Unique Social Registry and the payments module, identifies clients against the national civil registry of the Ministry of Justice.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Ke-Non",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

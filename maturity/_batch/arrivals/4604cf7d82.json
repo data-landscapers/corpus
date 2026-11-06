@@ -1,0 +1,144 @@
+{
+ "slug": "2026-10-29-cmr-cameroun-coupures-d-electricite-126-heures-par-client-en-2025-selon-l",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "gridreliability": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "outages",
+       "aspect": "outages",
+       "value": "utility:5.34",
+       "fact": "ARSEL's 2025 annual report, as quoted by EcoMatin, puts the average at 64.04 interruptions per customer in 2025 (53.30 in 2024), which is 5.34 a month.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "ARSEL annual report 2025",
+       "class": "grid"
+      },
+      {
+       "sub_indicator": "outages",
+       "aspect": "outages",
+       "value": "utility:4.95",
+       "fact": "The 24 July 2026 validation minutes give 59.42 interruptions per customer in 2025 by the regulator ARSEL's reckoning, which is 4.95 a month.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "ARSEL (validation minutes)",
+       "class": "grid"
+      },
+      {
+       "sub_indicator": "outages",
+       "aspect": "outages",
+       "value": "utility:1.26",
+       "fact": "The same minutes give 15.09 interruptions per customer in 2025 by the operator Socadel's reckoning, which is 1.26 a month; the parties did not agree.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Socadel (validation minutes)",
+       "class": "grid"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ARSEL SAIDI 2025",
+       "country_label": "147.83 h per customer in 2025 per annual report; 125.77 h per minutes (Socadel 45.59 h)",
+       "class": "other",
+       "platform": "",
+       "owner": "ARSEL",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

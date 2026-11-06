@@ -1,0 +1,18 @@
+{"slug": "2025-03-21-gha-minister-s-press-briefing-on-the-94th-and-95th-leap-disbursement", "studies": {
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"GHA": {"facts": [], "systems": [], "note": "GhIPSS is named as a payment channel but no central bank role is stated."}}},
+"consumerprotection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No cross-border payment is stated."}}},
+"disabilityaccess": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Persons with severe disabilities appear only as LEAP eligibility; nothing on accessible information or services."}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "The Minister of Gender, Children and Social Protection announced the 94th and 95th LEAP cash grant cycles from 25 March 2025, GHS 265.22 million for 350,000 households, paid through GhIPSS to beneficiaries' E-Zwich accounts.", "as_of": "2025-03-25", "date_precision": "day", "system": "LEAP", "class": "g2p"}
+], "systems": [{"system": "LEAP", "country_label": "Ghana", "class": "g2p", "platform": "GhIPSS to E-Zwich accounts", "owner": "Ministry of Gender, Children and Social Protection", "tiers": "260 MMDAs"}], "note": ""}}},
+"localgov": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Assemblies are named only as payment locations; no connection is stated."}}},
+"paymentsuptake": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No account-ownership survey is given."}}},
+"retailpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "E-Zwich is named only as a government payment channel; no mobile money or retail service is stated."}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on taxes or fees."}}},
+"socialexchange": {"countries": {"GHA": {"facts": [], "systems": [], "note": "The registry is said to support targeting; no data link to a programme or ID is stated in service."}}},
+"socialregistry": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "social", "aspect": "registry", "value": "underway", "fact": "The Minister said the Ghana National Household Registry's ongoing data collection supports targeting of new LEAP beneficiaries during the Ministry's reassessment of households.", "as_of": "2025-03-21", "date_precision": "day", "system": "Ghana National Household Registry", "class": "social"}
+], "systems": [{"system": "Ghana National Household Registry", "country_label": "Ghana", "class": "social", "platform": "", "owner": "", "tiers": "national"}], "note": ""}}}
+}}

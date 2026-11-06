@@ -1,0 +1,27 @@
+{
+ "slug": "2024-01-01-zmb-codevelop-zambia-ekyc-openg2p",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Co-Develop says the eKYC platform verifies identity against the NRC number and has been extended to emergency drought relief and electronic health records.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "eKYC platform (MOSIP, e-Signet)",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "Co-Develop says the NRC-based eKYC is used for emergency drought relief and for electronic health records.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "eKYC platform (MOSIP, e-Signet)",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

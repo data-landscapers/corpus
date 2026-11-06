@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-29-tcd-le-transfert-monetaire-aux-menages-vulnerables",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The coordinator of the Filets sociaux said 87,500 new households of Kanem and Bahr El Gazal were registered in the Registre social unique in 2024, a registry the World Bank financed through the Filets sociaux and whose indicators on vulnerable households are available by province.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Registre social unique (RSU)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre social unique (RSU)",
+   "country_label": "Registre social unifie",
+   "class": "social",
+   "platform": "",
+   "owner": "INSEED, through the Filets sociaux",
+   "tiers": "national, by province"
+  }
+ ],
+ "note": ""
+}

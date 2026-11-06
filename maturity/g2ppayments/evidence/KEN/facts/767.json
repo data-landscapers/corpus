@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-01-ken-wb-core-course-on-adaptive-social-protection-digital-payments-kenya-ca",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Kenyan government's State Department for Social Protection pays Inua Jamii cash-transfer stipends (older persons, orphans and vulnerable children, severe disability, plus HSNP) into bank accounts through six contracted payment service providers, monthly from July 2023.",
+   "as_of": "2023-07",
+   "date_precision": "month",
+   "system": "Inua Jamii",
+   "class": "g2p"
+  },
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The government mandated mobile money payments from December 2023, piloted for the CT-OVC and PwSD-CT programmes to augment bank payments.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "Inua Jamii",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Inua Jamii",
+   "country_label": "Kenya",
+   "class": "g2p",
+   "platform": "choice model of six contracted PSPs, bank accounts; mobile money pilot",
+   "owner": "State Department for Social Protection & Senior Citizen Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-18-nga-fg-moves-to-include-conditional-cash-transfer-in-national-budgets-disb",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The document says beneficiaries are verified through their National Identity Numbers, which are linked to bank accounts and mobile wallets.",
+   "as_of": "2025-09-17",
+   "date_precision": "day",
+   "system": "National Identity Number",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

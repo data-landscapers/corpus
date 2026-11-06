@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-ken-wb-core-course-on-adaptive-social-protection-digital-payments-kenya-ca",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Kenyan State Department's slides describe mobile money as in service, with a large subscriber base (over 38 million) and an agency network of over 250,000.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

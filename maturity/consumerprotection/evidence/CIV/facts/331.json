@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-05-civ-banques-fintech-monnaie-electronique-nouvelle-reglementation",
+ "facts": [
+  {
+   "sub_indicator": "protection",
+   "aspect": "rules",
+   "value": "draft",
+   "fact": "Linfodrome reports that the National Assembly economic and finance committee unanimously adopted on 4 November 2026 a banking bill, covering FinTech and e-money institutions, with provisions on complaints handling, mediation and deposit guarantee.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "Banking regulation bill (258 articles)",
+   "class": "protection"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

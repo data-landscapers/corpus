@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-07-cpv-estatisticas-das-tic-em-cabo-verde",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "survey:74.0",
+   "fact": "Cabo Verde's national statistics institute INE, presenting its continuous multi-purpose survey IMC 2024, gives 74.0% of the population aged 10 and over as having used the internet.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "INE Inquerito Multiobjetivo Continuo (IMC) 2024",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

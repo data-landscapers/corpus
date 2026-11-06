@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-04-nga-how-fg-selects-beneficiaries-for-n50-000-relief",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The National Social Register, coordinated by the National Social Safety-Nets Coordinating Office, is a digital database of poor and vulnerable households holding data on more than 70 million individuals, per NASSCO.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "National Social Register",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The ministry says relief beneficiaries are selected from verified national identity records and the National Social Register, with enrolment in both NIMC and the register required.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "National Social Register",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Social Register",
+   "country_label": "Nigeria",
+   "class": "social",
+   "platform": "",
+   "owner": "National Social Safety-Nets Coordinating Office (NASSCO)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

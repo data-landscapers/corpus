@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-05-revenue-sharing-data-sovereignty-concerns-arise-from-liberia-id-card-concession",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "NIR Executive Director Andrew Peters said OeSD would finance nationwide enrolment and ID issuance under the concession, recover its investment over time and eventually transfer the system to the government.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "National ID system (OeSD concession)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

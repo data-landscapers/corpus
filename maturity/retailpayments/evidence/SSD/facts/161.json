@@ -1,0 +1,23 @@
+{
+ "slug": "2025-06-03-ssd-govt-pushes-for-bank-accounts-to-streamline-salaries",
+ "facts": [],
+ "systems": [
+  {
+   "system": "M-Gurush",
+   "country_label": "South Sudan",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "MTN MoMo",
+   "country_label": "South Sudan",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "MTN",
+   "tiers": ""
+  }
+ ],
+ "note": "Mobile money providers are named but the article does not say a service is licensed or in service."
+}

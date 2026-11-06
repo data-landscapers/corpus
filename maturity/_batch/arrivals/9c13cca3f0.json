@@ -1,0 +1,23 @@
+{
+  "slug": "2026-11-05-digify-africa-brings-digital-training-to-unemployed-youth-via-whatsapp",
+  "studies": {
+    "civilserviceskills": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The training is for young people, not civil servants."}}},
+    "digitalskills": {"countries": {"ZAF": {
+      "facts": [],
+      "systems": [
+        {
+          "system": "Didi Mobile Academy",
+          "country_label": "Didi Mobile Academy",
+          "class": "other",
+          "platform": "WhatsApp",
+          "owner": "Digify Africa, funded by the Trevor Noah Foundation",
+          "tiers": ""
+        }
+      ],
+      "note": "A non-government academy funded by a foundation, with no government role or trained count stated."
+    }}},
+    "ictjobs": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Youth unemployment is given as 47.4% (Stats SA, Q2 2026), which is not low, and no ISIC section J employment share is stated."}}},
+    "mobileaffordability": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "High data costs are mentioned with no price or share of income."}}},
+    "startups": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The document says nothing about startup law or funding."}}}
+  }
+}

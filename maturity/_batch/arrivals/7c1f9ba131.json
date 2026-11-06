@@ -1,0 +1,12 @@
+{"slug": "2026-09-01-gha-eligibility-criteria-leap-ghana", "studies": {
+"disabilityaccess": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Disability is an eligibility category for a cash grant only; nothing on information or digital access."}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "The LEAP Management Secretariat page says LEAP cash grants are paid every two months via the e-zwich platform with biometric fingerprint verification through GhIPSS and PayCode platforms, with a six-tier structure effective 14 September 2026.", "as_of": "2026-09", "date_precision": "month", "system": "LEAP", "class": "g2p"}
+], "systems": [{"system": "LEAP", "country_label": "Ghana", "class": "g2p", "platform": "e-zwich / PayCode via GhIPSS", "owner": "LEAP Management Secretariat, Ministry of Gender, Children and Social Protection", "tiers": ""}], "note": ""}}},
+"idrobustness": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Names no national ID system."}}},
+"socialexchange": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Says households are selected from the registry and paid via GhIPSS, but not that systems exchange data."}}},
+"socialprotection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Names no programme management information system; registry and payment platform only."}}},
+"socialregistry": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "social", "aspect": "registry", "value": "inservice", "fact": "The LEAP Management Secretariat page says LEAP households are selected using the Ghana National Household Registry, whose database processes proxy-means test data to score each household.", "as_of": "2026-09", "date_precision": "month", "system": "Ghana National Household Registry", "class": "social"}
+], "systems": [{"system": "Ghana National Household Registry", "country_label": "Ghana", "class": "social", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}
+}}

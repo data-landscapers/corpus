@@ -1,0 +1,32 @@
+{
+  "slug": "2023-12-05-gin-reformes-et-innovations-a-la-cnss-vers-la-dematerialisation-dans-le-pa",
+  "studies": {
+    "authentication": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No authentication service described."}}},
+    "birthidlink": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "businesspayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "centralbank": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+    "consumerprotection": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "crossborderpayments": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "g2ppayments": {"countries": {"GIN": {
+      "facts": [
+        {"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "The public social security fund CNSS officially launched on 5 December 2023 payment of retirement pensions by bank transfer or mobile money (Orange Money, MTN Mobile Money), with an awareness campaign for pensioners running to 14 December 2023.", "as_of": "2023-12-05", "date_precision": "day", "system": "CNSS pension payment by bank transfer or mobile money", "class": "g2p"}
+      ],
+      "systems": [
+        {"system": "CNSS pension payment by bank transfer or mobile money", "country_label": "Guinea", "class": "g2p", "platform": "bank transfer, Orange Money, MTN Mobile Money", "owner": "Caisse Nationale de la Sécurité Sociale (CNSS)", "tiers": ""}
+      ],
+      "note": ""}}},
+    "idcoverage": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No enrolment count."}}},
+    "idfrombirth": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "idmaintenance": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "idregisters": {"countries": {"GIN": {"facts": [], "systems": [], "note": "A biometric ID card is a document needed to subscribe; no register is said to be keyed on the ID number."}}},
+    "idrobustness": {"countries": {"GIN": {
+      "facts": [
+        {"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "CNSS says pensioners subscribing to electronic payment must present their biometric national identity card.", "as_of": "2023-12-05", "date_precision": "day", "system": "carte d'identité nationale biométrique", "class": "idsystem"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "paymentsuptake": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No survey of adults with accounts."}}},
+    "retailpayments": {"countries": {"GIN": {"facts": [], "systems": [{"system": "Orange Money; MTN Mobile Money", "country_label": "Guinea", "class": "other", "platform": "mobile money", "owner": "Orange Guinea; MTN Guinea", "tiers": ""}], "note": "Mobile money named only as a channel for government pension payments, which this study treats as other."}}},
+    "revenuecollection": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Not mentioned."}}}
+  }
+}

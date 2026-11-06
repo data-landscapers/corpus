@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-uga-gender-data-and-digital-transformation-in-uganda",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "UBOS states the National Backbone Infrastructure connects 600+ government institutions and districts.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National Backbone Infrastructure",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Backbone Infrastructure",
+   "country_label": "National Backbone Infrastructure",
+   "class": "backbone",
+   "platform": "fibre",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

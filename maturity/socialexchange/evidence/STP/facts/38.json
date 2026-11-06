@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-stp-em-powered-by-openimis-the-island-nation-sao-tome-and-principe-is-effe",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "openIMIS says Ke-Non has links to partners' data systems: Banco Internacional de Sao Tome e Principe for payments and the Ministry of Justice national civil registry for client identification.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Ke-Non",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

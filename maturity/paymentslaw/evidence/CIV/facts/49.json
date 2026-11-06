@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-05-civ-banques-fintech-monnaie-electronique-nouvelle-reglementation",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "Linfodrome reports that the National Assembly economic and finance committee unanimously adopted on 4 November 2026 a 258-article banking bill bringing FinTech and e-money operations in and distinguishing payment institutions and e-money institutions.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "Banking regulation bill (258 articles)",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Banking regulation bill (258 articles)",
+   "country_label": "Côte d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Economy, Finance and Budget",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

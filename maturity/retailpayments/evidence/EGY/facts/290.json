@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-egy-takaful-karama-pension-payment-via-mobile-wallets",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Ministry of Social Solidarity says mobile wallets let people receive money on the phone, transfer money and pay bills, and the article names Vodafone Cash, Orange, Etisalat and WE wallets.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "mobile wallets",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

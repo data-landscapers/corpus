@@ -1,0 +1,12 @@
+{"slug": "2025-08-13-cod-fonction-publique-jean-pierre-lihau-trace-la-voie-d-une-paie-modernise", "studies": {
+"businesspayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document is about civil service payroll; nothing on e-procurement."}}},
+"centralbank": {"countries": {"COD": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"civilserviceskills": {"countries": {"COD": {"facts": [], "systems": [], "note": "No digital-skills training for civil servants stated."}}},
+"consumerprotection": {"countries": {"COD": {"facts": [], "systems": [], "note": "No consumer-protection rules or complaints body for digital finance stated."}}},
+"crossborderpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "No cross-border payments stated."}}},
+"g2ppayments": {"countries": {"COD": {"facts": [{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "The Ministry of Public Service says civil servants' pay is delivered through bank accounts, ten years after payroll bancarisation was launched, with gaps remaining such as no bank branches in some areas and slow account opening.", "as_of": "2025-08-12", "date_precision": "day", "system": "Payroll bancarisation", "class": "g2p"}], "systems": [{"system": "Payroll bancarisation of civil servants", "country_label": "Democratic Republic of the Congo", "class": "g2p", "platform": "bank accounts", "owner": "Ministere de la Fonction publique", "tiers": ""}], "note": ""}}},
+"idrobustness": {"countries": {"COD": {"facts": [], "systems": [], "note": "Biometric cards for payroll account management are only a roadmap intention; no national ID system stated."}}},
+"paymentsuptake": {"countries": {"COD": {"facts": [], "systems": [], "note": "No survey figure on adults with accounts."}}},
+"retailpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Mobile banking for remote areas is only advocated; no mobile money service stated in service."}}},
+"revenuecollection": {"countries": {"COD": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

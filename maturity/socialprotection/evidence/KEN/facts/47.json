@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-23-ken-nationwide-roll-out-of-inua-jamii-programme-payment-through-mobile-mon",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "payments",
+   "value": "electronic",
+   "fact": "From the January 2025 disbursement the State Department pays all Inua Jamii beneficiaries through the eCitizen-M-Pesa platform, in collaboration with Safaricom.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "eCitizen-M-Pesa payment platform",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2024-03-15-eth-leveraging-e-payments-for-financial-inclusion-in-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The World Bank says almost 1.5 million households were receiving safety-net transfers electronically through bank accounts as of December 2022: 961,185 in the rural Productive Safety Net Programme and 411,000 in the urban programme, which has paid electronically since 2016.",
+   "as_of": "2022-12",
+   "date_precision": "month",
+   "system": "Productive Safety Net Programme (PSNP) and Urban Productive Safety Net and Jobs Program (UPSNJP)",
+   "class": "g2p"
+  },
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The World Bank says it is supporting a Government of Ethiopia pilot of electronic safety-net payments through the Telebirr mobile money service in two selected regions.",
+   "as_of": "2024-03-15",
+   "date_precision": "day",
+   "system": "Telebirr mobile money pilot for safety-net payments",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Productive Safety Net Programme (PSNP)",
+   "country_label": "Ethiopia",
+   "class": "g2p",
+   "platform": "bank accounts",
+   "owner": "Government of Ethiopia",
+   "tiers": "rural"
+  },
+  {
+   "system": "Urban Productive Safety Net and Jobs Program (UPSNJP)",
+   "country_label": "Ethiopia",
+   "class": "g2p",
+   "platform": "bank accounts",
+   "owner": "Government of Ethiopia",
+   "tiers": "urban"
+  }
+ ],
+ "note": ""
+}

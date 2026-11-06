@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-05-ken-kenya-moves-to-operationalise-cybersecurity-agency",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Kenya's ICT Cabinet Secretary William Kabogo referred to the country's existing National Artificial Intelligence Strategy 2025-2030 as the means of addressing AI-enabled cyber risks.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy 2025-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

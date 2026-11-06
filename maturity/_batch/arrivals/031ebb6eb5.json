@@ -1,14 +1,4 @@
-{
- "slug": "2025-12-02-ssd-ilo-labour-force-migration-survey-pretest",
- "studies": {
-  "admindata": {
-   "countries": {
-    "SSD": {
-     "facts": [],
-     "systems": [],
-     "note": "A labour force survey pre-test, not statistics from administrative records."
-    }
-   }
-  }
- }
-}
+{"slug": "2025-12-02-ssd-ilo-labour-force-migration-survey-pretest", "studies": {
+"statisticsstrategy": {"countries": {
+"SSD": {"facts": [], "systems": [], "note": "A survey pre-test; names no national statistics strategy."}}}
+}}

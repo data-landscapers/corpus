@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-20-civ-resume-executif-enquete-nationale-msi-2024",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "survey:41.4",
+   "fact": "ARTCI's national MSI 2024 household survey puts internet use at 41.4% of individuals aged 5 and over (11,276,214 people), men 44.5% and women 38.3%.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Enquête nationale MSI 2024",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,11 @@
+{"slug": "2026-01-29-cod-paie-des-agents-publics-dans-les-zones-non-bancarisees-le-gouvernement", "studies": {
+"businesspayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document does not mention public procurement."}}},
+"centralbank": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document names no central bank role."}}},
+"civilserviceskills": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document does not mention digital-skills training."}}},
+"consumerprotection": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document states no consumer rules or complaints body."}}},
+"crossborderpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document does not mention cross-border payments."}}},
+"g2ppayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "A 27 January 2026 working session on mechanisms for paying civil servants by mobile money is a plan; no pilot, contract or payment in service is stated."}}},
+"paymentsuptake": {"countries": {"COD": {"facts": [], "systems": [], "note": "No survey share of adults with an account is given."}}},
+"retailpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document refers to existing mobile payment networks but names no service or status."}}},
+"revenuecollection": {"countries": {"COD": {"facts": [], "systems": [], "note": "Document does not mention tax or fee payment."}}}
+}}

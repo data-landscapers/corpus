@@ -1,0 +1,22 @@
+{"slug": "2024-08-21-bfa-carfo-a-partir-du-4eme-trimestre-2024-paiement-par-mobile-money-des-ar", "studies": {
+"authentication": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on authentication; an ID card copy is only a document to submit."}}},
+"birthidlink": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID link."}}},
+"businesspayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"civilserviceskills": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on training."}}},
+"consumerprotection": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing cross-border."}}},
+"g2ppayments": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "underway", "fact": "CARFO, the civil servants' pension fund, announced that from the fourth quarter of 2024 it will pay pensions and annuities by mobile money to pensioners now paid in cash or by cheque, with bank transfer as the alternative.", "as_of": "2024-08-21", "date_precision": "day", "system": "CARFO pension payment", "class": "g2p"}
+], "systems": [{"system": "CARFO pension payment", "country_label": "Burkina Faso", "class": "g2p", "platform": "mobile money (Orange or Moov) or bank transfer", "owner": "CARFO", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No enrolment count."}}},
+"idfrombirth": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on ID at birth."}}},
+"idmaintenance": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on ID system operation."}}},
+"idregisters": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Pensioners hand in an ID card copy; no register is keyed on the ID number."}}},
+"idrobustness": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No national ID system described."}}},
+"paymentsuptake": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No survey share."}}},
+"retailpayments": {"countries": {"BFA": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "CARFO's communique refers to mobile money accounts with Orange or Moov, which pensioners are to use to receive pensions from Q4 2024.", "as_of": "2024-08-21", "date_precision": "day", "system": "Orange and Moov mobile money", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

@@ -1,14 +1,1 @@
-{
- "slug": "2026-04-17-plataforma-digital-legalizacao-de-40-mil-imoveis",
- "studies": {
-  "businessregister": {
-   "countries": {
-    "AGO": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-04-17-plataforma-digital-legalizacao-de-40-mil-imoveis", "studies": {"electoralregister": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Property legalisation platform; nothing on a voters' roll."}}}}}

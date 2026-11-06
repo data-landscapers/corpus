@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-05-safaricom-h1-profit-jumps-36-to-448m",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Safaricom reported M-PESA group revenue up 13.6% to KES 100.1 billion for the six months to September 2026, with 81% of Lipa na M-PESA and Pochi la Biashara merchant transactions free or zero-rated.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "M-PESA",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-PESA",
+   "country_label": "Kenya",
+   "class": "retail",
+   "platform": "",
+   "owner": "Safaricom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

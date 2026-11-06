@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-24-mar-morocco-expands-direct-social-support-with-data-driven-reform",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The government's written answer says Direct Social Support eligibility rests on household scoring in the Unified Social Register, with monthly electronic data exchanges used to verify ongoing eligibility.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Direct Social Support Program",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

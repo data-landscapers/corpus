@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-20-civ-resume-executif-enquete-nationale-msi-2024",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "ARTCI's MSI 2024 survey reports 13,695,257 people (50.3% of those aged 5 and over) using mobile money, mainly for money transfers, airtime purchase and bill payment, with some merchant payments.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Mobile Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile Money",
+   "country_label": "Côte d'Ivoire",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

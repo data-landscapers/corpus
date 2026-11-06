@@ -1,0 +1,34 @@
+{
+ "slug": "2023-12-05-ben-dematerialisation-du-paiement-des-pensions-de-retraite-au-benin-un-ver",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The government says over 3,700 pensioners were paid through mobile money accounts at MOOV Money (about 1,700) and MTN Mobile Money (about 2,000) for the 1 November 2020 instalment, so both mobile money services are in service.",
+   "as_of": "2020-11",
+   "date_precision": "month",
+   "system": "MTN Mobile Money; MOOV Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN Mobile Money",
+   "country_label": "Benin",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "MTN Benin",
+   "tiers": ""
+  },
+  {
+   "system": "MOOV Money",
+   "country_label": "Benin",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Moov Africa Benin",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

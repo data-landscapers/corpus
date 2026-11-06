@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-05-paratus-lesotho-opens-for-business-with-starlink",
+ "facts": [
+  {
+   "sub_indicator": "satellite",
+   "aspect": "service",
+   "value": "sale",
+   "fact": "Paratus Lesotho, a joint venture of Real Image Lesotho and Paratus Group and an authorised Starlink reseller, offers Starlink low-earth-orbit enterprise connectivity to businesses and organisations in Lesotho; the document states no regulator licence.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "Starlink via Paratus Lesotho",
+   "class": "satellite"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Starlink enterprise connectivity (Paratus Lesotho)",
+   "country_label": "Starlink",
+   "class": "satellite",
+   "platform": "Starlink LEO",
+   "owner": "Paratus Lesotho (Real Image Lesotho and Paratus Group)",
+   "tiers": "enterprise"
+  }
+ ],
+ "note": ""
+}

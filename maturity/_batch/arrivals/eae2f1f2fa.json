@@ -1,0 +1,6 @@
+{"slug": "2025-10-31-gab-gabon-launches-pilot-phase-to-digitize-social-and-fiscal-funds", "studies": {
+"coresystems": {"countries": {"GAB": {"facts": [], "systems": [{"system": "SIGFiP", "country_label": "SIGFiP", "class": "other", "platform": "", "owner": "Ministry of Digital Economy", "tiers": "interconnection of financial administrations, said to be already being deployed"}], "note": "SIGFiP is only said to be being deployed and the payroll digitalisation is a launched project; neither is stated in use."}}},
+"g2ppayments": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The platform collects contributions to CNSS and CNAMGS; it does not pay people."}}},
+"localgov": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on local government offices."}}},
+"regionalpolicy": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on African regional digital policy."}}}
+}}

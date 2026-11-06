@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-uga-gender-data-and-digital-transformation-in-uganda",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "UBOS states Uganda's first-ever digital Population and Housing Census was conducted in May 2024.",
+   "as_of": "2024-05",
+   "date_precision": "month",
+   "system": "Population and Housing Census 2024",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "results",
+   "value": "preliminary",
+   "fact": "UBOS lists the Population and Housing Census (2024 provisional) as a main source and gives a 2024 population of 45.9 million.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Population and Housing Census 2024",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Population and Housing Census 2024",
+   "country_label": "NPHC 2024",
+   "class": "census",
+   "platform": "digital",
+   "owner": "UBOS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

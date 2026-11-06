@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-07-lso-quthing-shuts-23-pension-pay-points",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Lesotho News Agency reports pension beneficiaries in Quthing district are paid through M-Pesa and EcoCash mobile money, which it calls a successful rollout.",
+   "as_of": "2026-01-07",
+   "date_precision": "day",
+   "system": "M-Pesa and EcoCash",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

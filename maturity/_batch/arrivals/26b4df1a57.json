@@ -1,0 +1,13 @@
+{"slug": "2026-01-24-dza-virements-ccp-vers-des-comptes-bancaires", "studies": {
+"businesspayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No central bank role stated; SATIM and Algerie Poste are not the central bank."}}},
+"consumerprotection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No consumer rules or complaints body stated."}}},
+"crossborderpayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing cross-border."}}},
+"g2ppayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Says public servants are paid into a CCP account but not that government pays digitally."}}},
+"paymentsuptake": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Card counts, not a survey of adults."}}},
+"retailpayments": {"countries": {"DZA": {"facts": [], "systems": [
+{"system": "Baridi Mob", "country_label": "Algeria", "class": "other", "platform": "mobile app", "owner": "Algerie Poste", "tiers": ""},
+{"system": "SATIM", "country_label": "Algeria", "class": "other", "platform": "interbank card switch", "owner": "", "tiers": ""}
+], "note": "CCP-to-bank transfers are in testing, due 2026; no mobile money or e-money service stated in service."}}},
+"revenuecollection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

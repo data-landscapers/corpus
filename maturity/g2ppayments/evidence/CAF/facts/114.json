@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-25-caf-le-calvaire-de-ces-centrafricains-de-province-contraints-de-se-rendre",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "RFI reports that public administrations in the Central African Republic transfer employees' monthly salaries into bank accounts between the 20th and 30th of each month, though provincial civil servants must travel to Bangui to collect them.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "bank salary transfer",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

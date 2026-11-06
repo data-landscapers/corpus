@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-16-lso-elderly-pensioners-under-siege",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Lesotho Times reports that mobile money platforms such as M-Pesa and EcoCash are in use in Lesotho, with most electronically paid pensioners accessing their funds through them.",
+   "as_of": "2026-01-16",
+   "date_precision": "day",
+   "system": "M-Pesa and EcoCash",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

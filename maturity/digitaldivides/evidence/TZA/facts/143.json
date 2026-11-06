@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-04-tza-ucsaf-to-improve-mobile-network-coverage-on-sgr",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "The Citizen reports UCSAF's November 2026 implementation report shows 2,199 of 2,324 planned communication towers completed across 31 regions, reaching 2,053 of 2,306 targeted wards, with 758 towers in one programme switched on for 713 wards.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "UCSAF communications expansion programme",
+   "class": "ruralaccess"
+  },
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "UCSAF director general Albert Mwakabwale said 198 locations were identified under Phase 11A after tendering, with contracts being prepared and 82 more locations due in a tender in January or February 2027.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "UCSAF Phase 11A",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UCSAF communications expansion programme",
+   "country_label": "Tanzania",
+   "class": "ruralaccess",
+   "platform": "",
+   "owner": "Universal Communications Service Access Fund (UCSAF)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

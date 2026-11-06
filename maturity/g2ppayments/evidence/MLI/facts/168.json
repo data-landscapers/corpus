@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-15-caf-cash-vs-digital-how-do-digital-government-to-person-payments-ease-the",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The World Bank G2Px blog reports that recipients of the Jigisèmèjiri emergency social safety net program in Mali received payments into mobile money accounts and appreciated walking to the nearest agent.",
+   "as_of": "2024-03-15",
+   "date_precision": "day",
+   "system": "Jigisèmèjiri mobile money payments",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Jigisèmèjiri mobile money payments",
+   "country_label": "Mali",
+   "class": "g2p",
+   "platform": "",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

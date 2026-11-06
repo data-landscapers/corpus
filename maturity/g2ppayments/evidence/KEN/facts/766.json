@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-23-ken-nationwide-roll-out-of-inua-jamii-programme-payment-through-mobile-mon",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Kenya's State Department for Social Protection began migrating all Inua Jamii beneficiaries to the eCitizen-M-Pesa payment platform from the January 2025 disbursement, with funds collected from M-Pesa agents through USSD *222#.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "Inua Jamii",
+   "class": "g2p"
+  },
+  {
+   "sub_indicator": "g2p",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The State Department requires every Inua Jamii beneficiary to hold a registered Safaricom line that matches their ID card to receive funds.",
+   "as_of": "2025-01-23",
+   "date_precision": "day",
+   "system": "Inua Jamii",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Inua Jamii",
+   "country_label": "Kenya",
+   "class": "g2p",
+   "platform": "eCitizen-M-Pesa with Safaricom, USSD *222#",
+   "owner": "State Department for Social Protection and Senior Citizen Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

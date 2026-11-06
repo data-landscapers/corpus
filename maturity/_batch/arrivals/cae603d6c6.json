@@ -1,0 +1,25 @@
+{
+  "slug": "2026-11-05-nigeria-seeks-digital-id-project-extension-to-roll-out-mosip-based-infrastructur",
+  "studies": {
+    "authentication": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No authentication service described."}}},
+    "birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No link to the civil register stated."}}},
+    "civilregister": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Birth registration mentioned only as a UNICEF aim elsewhere, not for Nigeria's register."}}},
+    "gendergap": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only an ID enrolment gender gap is given, not internet use."}}},
+    "idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "121 million NINs and 145 million enrolments are given with no population figure to give a share."}}},
+    "idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Children under 16 are issued NINs, but no number at birth is stated."}}},
+    "idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Who operates the system is not stated; MOSIP system is not yet in service."}}},
+    "idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No register keyed on the NIN named."}}},
+    "idrobustness": {"countries": {"NGA": {
+      "facts": [
+        {"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "A World Bank restructuring paper records about 121 million NINs successfully generated as of 14 September 2026, out of about 145 million enrolments.", "as_of": "2026-09-14", "date_precision": "day", "system": "National Identity Management System (NIMS)", "class": "idsystem"},
+        {"sub_indicator": "robustness", "aspect": "biometric", "value": "checked", "fact": "The World Bank paper says the 121 million NINs were generated following biometric and demographic validation and de-duplication.", "as_of": "2026-09-14", "date_precision": "day", "system": "National Identity Management System (NIMS)", "class": "idsystem"},
+        {"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "The NIMS 2.0 contract for a MOSIP-based identity system was signed on 15 September 2026, with full operation expected by 15 December 2027, per the World Bank.", "as_of": "2026-09-15", "date_precision": "day", "system": "NIMS 2.0", "class": "idsystem"}
+      ],
+      "systems": [
+        {"system": "National Identity Management System (NIMS)", "country_label": "Nigeria", "class": "idsystem", "platform": "legacy proprietary system", "owner": "National Identity Management Commission (NIMC)", "tiers": ""},
+        {"system": "NIMS 2.0", "country_label": "Nigeria", "class": "idsystem", "platform": "MOSIP", "owner": "National Identity Management Commission (NIMC)", "tiers": ""}
+      ],
+      "note": ""}}},
+    "registry": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No local civil registration office stated."}}}
+  }
+}

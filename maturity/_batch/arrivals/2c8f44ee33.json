@@ -1,0 +1,146 @@
+{
+ "slug": "2024-09-01-sle-ministry-of-labour-embarks-on-cash-transfer-of-nle1-018-to-poor-sierra",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "Sierra Leone's labour ministry and NaCSA began a World Bank-supported cash transfer of NLe1,018 to 13,091 people aged 60+ in 10 districts, paid by Orange Mobile Money.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "PSSNYE cash transfer",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PSSNYE cash transfer",
+       "country_label": "Sierra Leone",
+       "class": "g2p",
+       "platform": "Orange Money",
+       "owner": "Ministry of Employment, Labour and Social Security / NaCSA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The document says Orange Mobile Money acts as payment service provider delivering cash transfers to beneficiaries across 10 districts of Sierra Leone.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "Orange Mobile Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Orange Mobile Money",
+       "country_label": "Sierra Leone",
+       "class": "retail",
+       "platform": "",
+       "owner": "Orange",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for this country."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "socialmis",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The ministry and NaCSA completed a digitized registration, verification and enrolment process for 13,091 aged beneficiaries before the cash transfer.",
+       "as_of": "2024-09",
+       "date_precision": "month",
+       "system": "digitized registration, verification and enrolment process",
+       "class": "socialmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "digitized registration, verification and enrolment process",
+       "country_label": "Sierra Leone",
+       "class": "socialmis",
+       "platform": "",
+       "owner": "Ministry of Employment, Labour and Social Security / NaCSA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

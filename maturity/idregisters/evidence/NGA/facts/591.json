@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-04-nga-how-fg-selects-beneficiaries-for-n50-000-relief",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The ministry's NERSI website says relief beneficiaries are drawn from verified national identity records and the National Social Register, and enrolment in both NIMC and the register is a prerequisite.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "National Social Register",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

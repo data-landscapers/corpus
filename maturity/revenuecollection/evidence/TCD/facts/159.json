@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-19-tcd-tchad-l-etat-s-allie-aux-operateurs-mobile-money-pour-encaisser-les-im",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Chad's finance ministry signed a five-year convention with mobile money operators to let taxpayers pay taxes, customs duties and public fees by mobile money, with collected funds available in the Treasury wallet and moved to Treasury accounts within 72 working hours.",
+   "as_of": "2026-02-19",
+   "date_precision": "day",
+   "system": "mobile money framework convention",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

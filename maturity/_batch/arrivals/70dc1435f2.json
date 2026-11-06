@@ -1,0 +1,15 @@
+{"slug": "2026-07-01-swz-dpm-s-office-appeals-for-patience-over-delayed-elderly-disability-gran", "studies": {
+"businesspayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No central bank role is stated."}}},
+"consumerprotection": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No cross-border payment is stated."}}},
+"disabilityaccess": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "A disability grant is a cash payment; nothing on accessible information or services."}}},
+"g2ppayments": {"countries": {"SWZ": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "The Deputy Prime Minister's Office said monthly elderly and disability grant payments were delayed by a fault on the mobile money platform used to pay beneficiaries.", "as_of": "2026-07", "date_precision": "month", "system": "elderly and disability grants", "class": "g2p"}
+], "systems": [{"system": "Elderly grant and disability grant", "country_label": "Eswatini", "class": "g2p", "platform": "mobile money platform (unnamed)", "owner": "Deputy Prime Minister's Office", "tiers": "national"}], "note": ""}}},
+"paymentsuptake": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No account-ownership survey is given."}}},
+"retailpayments": {"countries": {"SWZ": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The news report quotes the Deputy Prime Minister's Office saying grants are transferred to beneficiaries through a mobile money platform whose breakdown delayed payments.", "as_of": "2026-07", "date_precision": "month", "system": "mobile money platform", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on taxes or fees."}}}
+}}

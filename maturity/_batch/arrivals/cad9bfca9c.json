@@ -1,0 +1,48 @@
+{
+  "slug": "2025-09-18-nga-fg-moves-to-include-conditional-cash-transfer-in-national-budgets-disb",
+  "studies": {
+    "authentication": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No authentication service described."}}},
+    "birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "centralbank": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+    "consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "g2ppayments": {"countries": {"NGA": {
+      "facts": [
+        {"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "Finance minister Wale Edun said the government has disbursed N330 billion as conditional cash transfers to 8.5 million poor households through NASSCO, paid digitally by direct debit to bank accounts or mobile wallets.", "as_of": "2025-09-17", "date_precision": "day", "system": "NASSCO conditional cash transfer", "class": "g2p"},
+        {"sub_indicator": "g2p", "aspect": "linked", "value": "linked", "fact": "The finance minister said beneficiaries are verified through their National Identity Number and payments are linked to NIN-to-account linking, and NASSCO's coordinator said disbursements are tied to NIN for integrity.", "as_of": "2025-09-17", "date_precision": "day", "system": "NASSCO conditional cash transfer", "class": "g2p"}
+      ],
+      "systems": [
+        {"system": "NASSCO conditional cash transfer", "country_label": "Nigeria", "class": "g2p", "platform": "bank accounts and mobile wallets", "owner": "National Social Safety Net Coordinating Office (NASSCO)", "tiers": ""}
+      ],
+      "note": ""}}},
+    "idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No NIN enrolment count or share."}}},
+    "idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "idregisters": {"countries": {"NGA": {
+      "facts": [
+        {"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "NASSCO's National Social Register households are validated through NIN, with 2.2 million households added after a successful BVN/NIN validation and beneficiaries verified through their NIN.", "as_of": "2025-08", "date_precision": "month", "system": "National Social Register", "class": "register"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "idrobustness": {"countries": {"NGA": {
+      "facts": [
+        {"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The document says beneficiaries are verified through their National Identity Numbers, which are linked to bank accounts and mobile wallets.", "as_of": "2025-09-17", "date_precision": "day", "system": "National Identity Number", "class": "idsystem"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No survey of adults with accounts."}}},
+    "retailpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Bank accounts and wallets named only as channels for government-to-person payments, which this study treats as other."}}},
+    "revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "socialprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No programme management information system is named."}}},
+    "socialregistry": {"countries": {"NGA": {
+      "facts": [
+        {"sub_indicator": "social", "aspect": "registry", "value": "inservice", "fact": "The finance minister said about 19.7 million poor and vulnerable households, over 70 million individuals, are captured in the National Social Register, which NASSCO says was built on over 40 socioeconomic variables with the World Bank.", "as_of": "2025-09-17", "date_precision": "day", "system": "National Social Register", "class": "social"},
+        {"sub_indicator": "social", "aspect": "linked", "value": "linked", "fact": "NASSCO attributed 2.2 million households added between June and August 2025 to successful BVN/NIN validation, and the minister said beneficiaries are verified through their NIN.", "as_of": "2025-08", "date_precision": "month", "system": "National Social Register", "class": "social"}
+      ],
+      "systems": [
+        {"system": "National Social Register", "country_label": "Nigeria", "class": "social", "platform": "", "owner": "National Social Safety Net Coordinating Office (NASSCO)", "tiers": ""}
+      ],
+      "note": ""}}}
+  }
+}

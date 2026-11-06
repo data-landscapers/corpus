@@ -1,0 +1,15 @@
+{
+ "slug": "2024-06-26-dza-signature-d-une-convention-sur-la-numerisation-des-virements-entre-la",
+ "facts": [],
+ "systems": [
+  {
+   "system": "secure electronic data-exchange platform (CNAS and Algerie Poste)",
+   "country_label": "plateforme electronique securisee",
+   "class": "other",
+   "platform": "",
+   "owner": "CNAS and Algerie Poste",
+   "tiers": "bilateral, benefit transfers to CCP accounts"
+  }
+ ],
+ "note": "A convention to work towards a bilateral exchange platform is a plan, not a platform built or piloted."
+}

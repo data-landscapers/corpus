@@ -1,0 +1,13 @@
+{"slug": "2026-11-04-uga-minister-gives-colleague-ultimatum-on-ubos-chief-s-conduct", "studies": {
+"datagovernance": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "policy", "aspect": "standing", "value": "adopted", "fact": "Uganda's ICT state minister Joyce Ssebugwawo officially launched the National Data Strategy on 20 October 2026, described as setting direction for how Uganda manages, protects, shares and uses data; the UBOS director called it illegal.", "as_of": "2026-10-20", "date_precision": "day", "system": "National Data Strategy", "class": "policy"}
+], "systems": [{"system": "National Data Strategy", "country_label": "National Data Strategy", "class": "policy", "platform": "", "owner": "Ministry of ICT and National Guidance", "tiers": ""}], "note": ""}}},
+"dataprotectionauthority": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "provided", "fact": "ICT minister Justine Kasule Lumumba said on 3 November 2026 that the personal data law and the Personal Data Protection Office under NITA-U give the government its mandate on data; no appointment or ruling is stated.", "as_of": "2026-11-03", "date_precision": "day", "system": "Personal Data Protection Office (NITA-U)", "class": "authority"}
+], "systems": [{"system": "Personal Data Protection Office", "country_label": "Personal Data Protection Office", "class": "authority", "platform": "", "owner": "NITA-U", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "ICT minister Justine Kasule Lumumba said on 3 November 2026 'we have the law on personal data', with the Personal Data Protection Office under NITA-U giving the mandate on data.", "as_of": "2026-11-03", "date_precision": "day", "system": "law on personal data", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "The same statement names the Personal Data Protection Office under NITA-U as holding the data mandate; its appointment is not stated.", "as_of": "2026-11-03", "date_precision": "day", "system": "Personal Data Protection Office (NITA-U)", "class": "general"}
+], "systems": [], "note": ""}}},
+"itcapacity": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Names NITA-U only as holding a data protection mandate; no system run by government staff is stated."}}}
+}}

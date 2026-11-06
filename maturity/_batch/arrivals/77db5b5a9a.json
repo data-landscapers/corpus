@@ -1,0 +1,23 @@
+{"slug": "2024-01-01-ken-wb-core-course-on-adaptive-social-protection-digital-payments-kenya-ca", "studies": {
+"authentication": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Biometric and PIN checks at pay points are payment-channel authentication; no authentication service is described."}}},
+"birthidlink": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only names a challenge in linking with the Civil Registration Service to exit deceased beneficiaries; no ID link stated."}}},
+"businesspayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"civilregister": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No digital civil registration stated."}}},
+"consumerprotection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on consumer rules or redress for digital finance."}}},
+"crossborderpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing cross-border."}}},
+"disabilityaccess": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The disability cash transfer has nothing on information or digital access."}}},
+"g2ppayments": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "The Kenyan government's State Department for Social Protection pays Inua Jamii cash-transfer stipends (older persons, orphans and vulnerable children, severe disability, plus HSNP) into bank accounts through six contracted payment service providers, monthly from July 2023.", "as_of": "2023-07", "date_precision": "month", "system": "Inua Jamii", "class": "g2p"},
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "The government mandated mobile money payments from December 2023, piloted for the CT-OVC and PwSD-CT programmes to augment bank payments.", "as_of": "2023-12", "date_precision": "month", "system": "Inua Jamii", "class": "g2p"}
+], "systems": [{"system": "Inua Jamii", "country_label": "Kenya", "class": "g2p", "platform": "choice model of six contracted PSPs, bank accounts; mobile money pilot", "owner": "State Department for Social Protection & Senior Citizen Affairs", "tiers": ""}], "note": ""}}},
+"idfrombirth": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on ID numbers at birth."}}},
+"idrobustness": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No national ID system described."}}},
+"paymentsuptake": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No survey share of adults with accounts."}}},
+"registry": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on civil registration offices."}}},
+"retailpayments": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The Kenyan State Department's slides describe mobile money as in service, with a large subscriber base (over 38 million) and an agency network of over 250,000.", "as_of": "2024", "date_precision": "year", "system": "mobile money", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"socialprotection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Describes payment delivery through PSPs; no programme management information system is named."}}}
+}}

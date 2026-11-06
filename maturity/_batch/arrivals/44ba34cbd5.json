@@ -1,0 +1,11 @@
+{"slug": "2025-08-25-caf-le-calvaire-de-ces-centrafricains-de-province-contraints-de-se-rendre", "studies": {
+"businesspayments": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Document does not mention public procurement."}}},
+"centralbank": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Document names no central bank role."}}},
+"civilserviceskills": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Document does not mention digital-skills training."}}},
+"consumerprotection": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Document states no consumer rules or complaints body."}}},
+"crossborderpayments": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Document does not mention cross-border payments."}}},
+"g2ppayments": {"countries": {"CAF": {"facts": [{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "RFI reports that public administrations in the Central African Republic transfer employees' monthly salaries into bank accounts between the 20th and 30th of each month, though provincial civil servants must travel to Bangui to collect them.", "as_of": "2025-08", "date_precision": "month", "system": "bank salary transfer", "class": "g2p"}], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No survey share of adults with an account is given."}}},
+"retailpayments": {"countries": {"CAF": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "RFI reports that a civil servant in Kaga-Bandoro receives money transferred to his Orange Money account and withdraws it at local kiosks, though cash liquidity there is scarce.", "as_of": "2025-08", "date_precision": "month", "system": "Orange Money", "class": "retail"}], "systems": [{"system": "Orange Money", "country_label": "Central African Republic", "class": "retail", "platform": "mobile money", "owner": "Orange Centrafrique", "tiers": ""}, {"system": "BGFI Mobile", "country_label": "Central African Republic", "class": "other", "platform": "bank app", "owner": "BGFI Bank", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Document does not mention tax or fee payment."}}}
+}}

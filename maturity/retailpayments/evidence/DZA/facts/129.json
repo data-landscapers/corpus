@@ -1,0 +1,23 @@
+{
+ "slug": "2026-01-24-dza-virements-ccp-vers-des-comptes-bancaires",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Baridi Mob",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "Algerie Poste",
+   "tiers": ""
+  },
+  {
+   "system": "SATIM",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "interbank card switch",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "CCP-to-bank transfers are in testing, due 2026; no mobile money or e-money service stated in service."
+}

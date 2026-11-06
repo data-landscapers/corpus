@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-21-gha-minister-s-press-briefing-on-the-94th-and-95th-leap-disbursement",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Minister of Gender, Children and Social Protection announced the 94th and 95th LEAP cash grant cycles from 25 March 2025, GHS 265.22 million for 350,000 households, paid through GhIPSS to beneficiaries' E-Zwich accounts.",
+   "as_of": "2025-03-25",
+   "date_precision": "day",
+   "system": "LEAP",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LEAP",
+   "country_label": "Ghana",
+   "class": "g2p",
+   "platform": "GhIPSS to E-Zwich accounts",
+   "owner": "Ministry of Gender, Children and Social Protection",
+   "tiers": "260 MMDAs"
+  }
+ ],
+ "note": ""
+}

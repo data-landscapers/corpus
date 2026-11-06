@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-01-swz-dpm-s-office-appeals-for-patience-over-delayed-elderly-disability-gran",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The news report quotes the Deputy Prime Minister's Office saying grants are transferred to beneficiaries through a mobile money platform whose breakdown delayed payments.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "mobile money platform",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

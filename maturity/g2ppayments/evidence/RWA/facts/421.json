@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-15-caf-cash-vs-digital-how-do-digital-government-to-person-payments-ease-the",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The World Bank G2Px blog reports that recipients of the Vision Umurenge program (VUP) in Rwanda highlighted cost savings from mobile money payments with reduced travel.",
+   "as_of": "2024-03-15",
+   "date_precision": "day",
+   "system": "VUP mobile money payments",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "VUP mobile money payments",
+   "country_label": "Rwanda",
+   "class": "g2p",
+   "platform": "",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

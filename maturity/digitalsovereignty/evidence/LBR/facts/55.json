@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-05-revenue-sharing-data-sovereignty-concerns-arise-from-liberia-id-card-concession",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "NIR Executive Director Andrew Peters told a press conference in August that all data of the national ID scheme will be stored within Liberia and that OeSD will not be allowed to control it.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "National ID system (OeSD concession)",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID system under OeSD concession",
+   "country_label": "Liberia national ID system",
+   "class": "sovereignty",
+   "platform": "OeSD International",
+   "owner": "National Identification Registry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

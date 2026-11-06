@@ -1,0 +1,17 @@
+{"slug": "2026-01-16-lso-elderly-pensioners-under-siege", "studies": {
+"businesspayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Police fraud counts are not rules, a complaints body or enforcement under rules."}}},
+"crossborderpayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing cross-border."}}},
+"g2ppayments": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "The Lesotho Times reports that more than 40,000 elderly people, about 53 percent of all old-age pension beneficiaries, now receive their grants electronically, mostly through M-Pesa and EcoCash.", "as_of": "2026-01-16", "date_precision": "day", "system": "old-age pension electronic payment (M-Pesa, EcoCash)", "class": "g2p"}
+], "systems": [
+{"system": "M-Pesa", "country_label": "Lesotho", "class": "retail", "platform": "mobile money", "owner": "", "tiers": ""},
+{"system": "EcoCash", "country_label": "Lesotho", "class": "retail", "platform": "mobile money", "owner": "", "tiers": ""}
+], "note": ""}}},
+"paymentsuptake": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Pension recipient share is not an adult account survey."}}},
+"retailpayments": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The Lesotho Times reports that mobile money platforms such as M-Pesa and EcoCash are in use in Lesotho, with most electronically paid pensioners accessing their funds through them.", "as_of": "2026-01-16", "date_precision": "day", "system": "M-Pesa and EcoCash", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

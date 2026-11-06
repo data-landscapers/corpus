@@ -1,0 +1,9 @@
+{"slug": "2024-09-10-zwe-twenty-eighth-post-cabinet-press-briefing", "studies": {
+"agrisatellite": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "ICT4DRM mentions remote sensing for disaster risk, no farming service stated."}}},
+"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on government use of AI."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on AI in a sector system."}}},
+"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Investors' interest in AI only; nothing built."}}},
+"g2ppayments": {"countries": {"ZWE": {"facts": [{"sub_indicator": "g2p", "aspect": "payment", "value": "underway", "fact": "Cabinet's briefing says NetOne has been contracted to pay urban beneficiaries under the Urban-Cash-for-Cereal Programme, with payments expected to start by the end of that week.", "as_of": "2024-09-10", "date_precision": "day", "system": "Urban-Cash-for-Cereal Programme", "class": "g2p"}], "systems": [{"system": "Urban-Cash-for-Cereal Programme", "country_label": "Zimbabwe", "class": "g2p", "platform": "NetOne", "owner": "Ministry of Public Service, Labour and Social Welfare", "tiers": ""}], "note": ""}}},
+"socialprotection": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Registration and data cleaning stated, but no information system named."}}}
+}}

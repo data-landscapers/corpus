@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-stp-em-powered-by-openimis-the-island-nation-sao-tome-and-principe-is-effe",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "openIMIS says Ke-Non holds a Unique Social Registry database, whose data for more than 10,000 families eligible for the cash transfer were updated between December 2023 and February 2024.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Unique Social Registry (Ke-Non)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unique Social Registry",
+   "country_label": "Ke-Non Unique Social Registry",
+   "class": "social",
+   "platform": "CORE-MIS / openIMIS",
+   "owner": "Institute of Innovation and Knowledge",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

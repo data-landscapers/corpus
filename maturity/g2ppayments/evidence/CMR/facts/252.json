@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-29-cmr-renforcer-la-resilience-comment-l-argent-mobile-a-transforme-la-repons",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The World Bank blog says Cameroon's government paid emergency COVID-19 transfers to 80,000 informal-sector workers electronically to beneficiaries' mobile money accounts, via commercial banks and microfinance institutions, for the first time.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "COVID-19 emergency cash transfer programme",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Projet filets sociaux",
+   "country_label": "Cameroun",
+   "class": "other",
+   "platform": "",
+   "owner": "government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

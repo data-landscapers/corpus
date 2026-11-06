@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-07-sdn-digital-money-apps-become-a-lifeline-for-war-affected-sudanese",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The New Humanitarian reports that nearly all public sector workers in Sudan are paid digitally.",
+   "as_of": "2024-02-07",
+   "date_precision": "day",
+   "system": "digital salary payment",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

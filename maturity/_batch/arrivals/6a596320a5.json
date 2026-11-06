@@ -1,0 +1,53 @@
+{
+  "slug": "2025-02-03-xaf-atu-report-urges-african-nations-to-prioritize-5g-deployment",
+  "studies": {
+    "civilserviceskills": {"countries": {
+      "GHA": {"facts": [], "systems": [], "note": "Not named on this subject."},
+      "KEN": {"facts": [], "systems": [], "note": "Not named on this subject."},
+      "MUS": {"facts": [], "systems": [], "note": "Not named on this subject."},
+      "NGA": {"facts": [], "systems": [], "note": "Not named on this subject."},
+      "ZAF": {"facts": [], "systems": [], "note": "Not named on this subject."}}},
+    "digitaldivides": {"countries": {
+      "GHA": {"facts": [], "systems": [], "note": "Not named on this subject."},
+      "KEN": {"facts": [], "systems": [], "note": "Not named on this subject."},
+      "MUS": {"facts": [], "systems": [], "note": "Not named on this subject."},
+      "NGA": {"facts": [], "systems": [], "note": "Not named on this subject."},
+      "ZAF": {"facts": [], "systems": [], "note": "Not named on this subject."}}},
+    "digitalskills": {"countries": {
+      "GHA": {"facts": [], "systems": [], "note": "Not named on this subject."},
+      "KEN": {"facts": [], "systems": [], "note": "Not named on this subject."},
+      "MUS": {"facts": [], "systems": [], "note": "Not named on this subject."},
+      "NGA": {"facts": [], "systems": [], "note": "Not named on this subject."},
+      "ZAF": {"facts": [], "systems": [], "note": "Not named on this subject."}}},
+    "digitalstrategy": {"countries": {
+      "GHA": {"facts": [], "systems": [], "note": "Not named on this subject."},
+      "KEN": {"facts": [], "systems": [], "note": "Not named on this subject."},
+      "MUS": {"facts": [], "systems": [], "note": "Not named on this subject."},
+      "NGA": {"facts": [], "systems": [], "note": "Not named on this subject."},
+      "ZAF": {"facts": [], "systems": [], "note": "Not named on this subject."}}},
+    "internetusage": {"countries": {
+      "GHA": {"facts": [], "systems": [], "note": "Only a continent-wide 38% internet use figure is given, for no named country."},
+      "KEN": {"facts": [], "systems": [], "note": "Only a continent-wide 38% internet use figure is given, for no named country."},
+      "MUS": {"facts": [], "systems": [], "note": "Only a continent-wide 38% internet use figure is given, for no named country."},
+      "NGA": {"facts": [], "systems": [], "note": "Only a continent-wide 38% internet use figure is given, for no named country."},
+      "ZAF": {"facts": [], "systems": [], "note": "Only a continent-wide 38% internet use figure is given, for no named country."}}},
+    "mobileaffordability": {"countries": {
+      "GHA": {"facts": [], "systems": [], "note": "The 8% of income figure is continent-wide, for no named country."},
+      "KEN": {"facts": [], "systems": [], "note": "The 8% of income figure is continent-wide, for no named country."},
+      "MUS": {"facts": [], "systems": [], "note": "The 8% of income figure is continent-wide, for no named country."},
+      "NGA": {"facts": [], "systems": [], "note": "The 8% of income figure is continent-wide, for no named country."},
+      "ZAF": {"facts": [], "systems": [], "note": "The 8% of income figure is continent-wide, for no named country."}}},
+    "regionalpolicy": {"countries": {
+      "GHA": {"facts": [], "systems": [], "note": "Only all 52 ATU member states are named collectively, not this country."},
+      "KEN": {"facts": [], "systems": [], "note": "Only all 52 ATU member states are named collectively, not this country; precision farming is a 5G use case."},
+      "MUS": {"facts": [], "systems": [], "note": "Only all 52 ATU member states are named collectively, not this country; a 5G pilot is not a policy fact."},
+      "NGA": {"facts": [], "systems": [], "note": "Only all 52 ATU member states are named collectively, not this country; telemedicine is a 5G use case."},
+      "ZAF": {"facts": [], "systems": [], "note": "Only all 52 ATU member states are named collectively, not this country; a 5G pilot is not a policy fact."}}},
+    "schoolinternet": {"countries": {
+      "GHA": {"facts": [], "systems": [], "note": "Not named on this subject."},
+      "KEN": {"facts": [], "systems": [], "note": "Not named on this subject."},
+      "MUS": {"facts": [], "systems": [], "note": "Not named on this subject."},
+      "NGA": {"facts": [], "systems": [], "note": "Not named on this subject."},
+      "ZAF": {"facts": [], "systems": [], "note": "Not named on this subject."}}}
+  }
+}

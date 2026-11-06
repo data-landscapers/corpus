@@ -1,0 +1,179 @@
+{
+ "slug": "2024-02-07-sdn-digital-money-apps-become-a-lifeline-for-war-affected-sudanese",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The New Humanitarian reports that nearly all public sector workers in Sudan are paid digitally.",
+       "as_of": "2024-02-07",
+       "date_precision": "day",
+       "system": "digital salary payment",
+       "class": "g2p"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "gridreliability": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "handset access (IFC)",
+       "country_label": "77% of Sudanese have access to a handset, per IFC",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The 77% is handset access, not ownership of people aged 10 and over."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The 85% with no account is a share of the population from no named survey."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "access",
+       "value": "open",
+       "fact": "The New Humanitarian describes an internally displaced woman in Dongola using the Bankak bank app to receive payments, with no figure given.",
+       "as_of": "2024-02-07",
+       "date_precision": "day",
+       "system": "Bankak",
+       "class": "displaced"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The New Humanitarian reports mobile and banking apps including Bankak, Ocash, MyCash and RittalPay are in use for payments, Bankak having seven million users.",
+       "as_of": "2024-02-07",
+       "date_precision": "day",
+       "system": "Bankak",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Bankak",
+       "country_label": "Sudan",
+       "class": "retail",
+       "platform": "app",
+       "owner": "Bank of Khartoum",
+       "tiers": ""
+      },
+      {
+       "system": "Ocash",
+       "country_label": "Sudan",
+       "class": "retail",
+       "platform": "app",
+       "owner": "Omdurman National Bank",
+       "tiers": ""
+      },
+      {
+       "system": "MyCash",
+       "country_label": "Sudan",
+       "class": "retail",
+       "platform": "mobile wallet",
+       "owner": "",
+       "tiers": ""
+      },
+      {
+       "system": "RittalPay",
+       "country_label": "Sudan",
+       "class": "retail",
+       "platform": "mobile wallet",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

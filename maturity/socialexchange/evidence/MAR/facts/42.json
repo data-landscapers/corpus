@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-10-mar-anss-un-an-apres-quel-impact-sur-le-soutien-social",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The ANSS annual report, as reported by Le Brief, says the RNP and the RSU are crossed in use to target direct social aid.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "RNP-RSU crossing",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

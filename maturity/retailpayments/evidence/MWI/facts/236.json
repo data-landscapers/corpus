@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-04-mwi-social-cash-transfers-spur-financial-inclusion",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "UNICEF Malawi reports that mobile money wallets and agency banking (FDH Bank's Banki Pakhomo) are in use, with beneficiaries in Balaka receiving monthly transfers through mobile money.",
+   "as_of": "2023-12-04",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

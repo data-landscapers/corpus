@@ -1,0 +1,11 @@
+{"slug": "2025-06-03-ssd-govt-pushes-for-bank-accounts-to-streamline-salaries", "studies": {
+"businesspayments": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Bank of South Sudan only pledges to engage banks and mobile money providers on charges; no mandate, licensing or switch stated."}}},
+"civilserviceskills": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No digital-skills training stated."}}},
+"consumerprotection": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No consumer-protection rules or complaints body stated."}}},
+"crossborderpayments": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No cross-border payments stated."}}},
+"g2ppayments": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Meeting urges civil servants to open bank accounts and lists obstacles; no pilot, contract or digital payment in service stated, and cash payment is not stated."}}},
+"paymentsuptake": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No survey figure on adults with accounts."}}},
+"retailpayments": {"countries": {"SSD": {"facts": [], "systems": [{"system": "M-Gurush", "country_label": "South Sudan", "class": "retail", "platform": "mobile money", "owner": "", "tiers": ""}, {"system": "MTN MoMo", "country_label": "South Sudan", "class": "retail", "platform": "mobile money", "owner": "MTN", "tiers": ""}], "note": "Mobile money providers are named but the article does not say a service is licensed or in service."}}},
+"revenuecollection": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

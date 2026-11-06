@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-dza-digital-development-dashboard-algeria",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:71",
+   "fact": "The ITU Digital Development Dashboard gives 71% of Algeria's population using the internet in 2022, as an ITU estimate.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "ITU Digital Development Dashboard",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

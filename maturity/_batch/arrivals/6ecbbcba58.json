@@ -1,0 +1,38 @@
+{
+  "slug": "2026-09-01-sen-la-poste-et-mobile-money-comment-seront-versees-les-bourses-de-securit",
+  "studies": {
+    "businesspayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document says nothing about e-procurement."}}},
+    "centralbank": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document names no central bank role over payments."}}},
+    "consumerprotection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document states no consumer-protection rules or complaints body."}}},
+    "crossborderpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document names no cross-border payment channel."}}},
+    "g2ppayments": {"countries": {"SEN": {
+      "facts": [
+        {
+          "sub_indicator": "g2p",
+          "aspect": "payment",
+          "value": "underway",
+          "fact": "Senegal's Ministry of Family, Social Action and Solidarities says payments of the family security grants (bourses de securite familiale) to 469,497 families will go through La Poste and mobile money operators, with the payment calendar still being prepared and an end-September deadline.",
+          "as_of": "2026-09",
+          "date_precision": "month",
+          "system": "Bourses de securite familiale",
+          "class": "g2p"
+        }
+      ],
+      "systems": [
+        {
+          "system": "Bourses de securite familiale",
+          "country_label": "Bourses de securite familiale",
+          "class": "g2p",
+          "platform": "La Poste and mobile money operators",
+          "owner": "Ministere de la Famille, de l'Action sociale et des Solidarites",
+          "tiers": ""
+        }
+      ],
+      "note": ""
+    }}},
+    "paymentsuptake": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document gives no survey share of adults with an account."}}},
+    "retailpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Mobile money operators are named only as a payout channel for grants, with no statement of a service in service or interoperability."}}},
+    "revenuecollection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The document says nothing about tax or fee payment."}}},
+    "socialprotection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Beneficiary counts and recertification are stated, but no management information system is named."}}}
+  }
+}

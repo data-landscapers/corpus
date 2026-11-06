@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-28-gmb-thousands-of-beneficiaries-receive-nafa-cash-transfer",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Standard reports that the Nafa cash transfer, run by the National Nutrition Agency with the Department of Community Development and the Directorate of Social Welfare under the World Bank-funded RISE Project, was paid electronically through QMoney's platform, provincial beneficiaries receiving their fifth round and Banjul, KMC and parts of Kombo their first.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Nafa Cash Transfer via QMoney",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nafa Cash Transfer",
+   "country_label": "GMD 3,000 monthly paid via QMoney, nationwide rollout complete",
+   "class": "g2p",
+   "platform": "QMoney",
+   "owner": "National Nutrition Agency",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,25 @@
+{"slug": "2026-05-01-egy-takaful-karama-pension-payment-via-mobile-wallets", "studies": {
+"authentication": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Wallet verification is a payment wallet's own check; no authentication service named."}}},
+"birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on civil register and ID link."}}},
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The 19680 hotline takes complaints about the cash programme, not digital financial services."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing cross-border."}}},
+"digitalstrategy": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Mentions the state's digital transformation plan without naming a strategy."}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "Egypt's Ministry of Social Solidarity pays Takaful and Karama cash support monthly into a mobile wallet on request, alongside payment through Meeza cards and the post.", "as_of": "2026-05", "date_precision": "month", "system": "Takaful and Karama", "class": "g2p"}
+], "systems": [{"system": "Takaful and Karama", "country_label": "Egypt", "class": "g2p", "platform": "mobile wallets (Vodafone Cash, Orange, Etisalat, WE), Meeza card, post", "owner": "Ministry of Social Solidarity", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No enrolment count."}}},
+"idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on ID at birth."}}},
+"idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on ID system operation."}}},
+"idregisters": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The national number is a form field; no register is said to be keyed on it."}}},
+"idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No national ID system described."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No survey share."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The Ministry of Social Solidarity says mobile wallets let people receive money on the phone, transfer money and pay bills, and the article names Vodafone Cash, Orange, Etisalat and WE wallets.", "as_of": "2026-05", "date_precision": "month", "system": "mobile wallets", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Bill payment by wallet is not tax or fee payment to the state."}}},
+"socialprotection": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "socialmis", "aspect": "payments", "value": "electronic", "fact": "Takaful and Karama pensions are sent monthly to beneficiaries' mobile wallets once a social unit enters the request on the system and links the pension to the wallet, per the Ministry of Social Solidarity as reported.", "as_of": "2026-05", "date_precision": "month", "system": "Takaful and Karama", "class": "socialmis"}
+], "systems": [], "note": ""}}}
+}}

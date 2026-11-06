@@ -1,0 +1,277 @@
+{
+ "slug": "2024-03-15-caf-cash-vs-digital-how-do-digital-government-to-person-payments-ease-the",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for CAF."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for MAR."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for MLI."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for RWA."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for CAF."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for MAR."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for MLI."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for RWA."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for CAF."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for MAR."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for MLI."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for RWA."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for CAF."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for MAR."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for MLI."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for RWA."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CAF": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The World Bank G2Px blog reports that public wage recipients in the Central African Republic expressed high satisfaction with mobile money salary payments, having before 2020 travelled up to two days to collect cash salaries.",
+       "as_of": "2024-03-15",
+       "date_precision": "day",
+       "system": "Mobile money salary payment",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Mobile money salary payment",
+       "country_label": "Central African Republic",
+       "class": "g2p",
+       "platform": "",
+       "owner": "Government",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The World Bank G2Px blog reports that recipients of Morocco's DAAM program valued receiving payments into an account, enabling ATM withdrawals 24 hours a day with no waiting.",
+       "as_of": "2024-03-15",
+       "date_precision": "day",
+       "system": "DAAM account payments",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DAAM account payments",
+       "country_label": "Morocco",
+       "class": "g2p",
+       "platform": "",
+       "owner": "Government",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The World Bank G2Px blog reports that recipients of the Jigisèmèjiri emergency social safety net program in Mali received payments into mobile money accounts and appreciated walking to the nearest agent.",
+       "as_of": "2024-03-15",
+       "date_precision": "day",
+       "system": "Jigisèmèjiri mobile money payments",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Jigisèmèjiri mobile money payments",
+       "country_label": "Mali",
+       "class": "g2p",
+       "platform": "",
+       "owner": "Government",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "The World Bank G2Px blog reports that recipients of the Vision Umurenge program (VUP) in Rwanda highlighted cost savings from mobile money payments with reduced travel.",
+       "as_of": "2024-03-15",
+       "date_precision": "day",
+       "system": "VUP mobile money payments",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "VUP mobile money payments",
+       "country_label": "Rwanda",
+       "class": "g2p",
+       "platform": "",
+       "owner": "Government",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for CAF."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for MAR."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for MLI."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for RWA."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for CAF."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for MAR."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for MLI."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for RWA."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for CAF."
+    },
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for MAR."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for MLI."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for RWA."
+    }
+   }
+  }
+ }
+}

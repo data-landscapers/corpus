@@ -1,0 +1,117 @@
+{
+ "slug": "2026-11-05-civ-banques-fintech-monnaie-electronique-nouvelle-reglementation",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for CIV."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a bill strengthening BCEAO licensing powers; nothing in service."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for CIV."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for CIV."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for CIV."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for CIV."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for CIV."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "protection",
+       "aspect": "rules",
+       "value": "draft",
+       "fact": "Linfodrome reports that the National Assembly economic and finance committee unanimously adopted on 4 November 2026 a banking bill, covering FinTech and e-money institutions, with provisions on complaints handling, mediation and deposit guarantee.",
+       "as_of": "2026-11-04",
+       "date_precision": "day",
+       "system": "Banking regulation bill (258 articles)",
+       "class": "protection"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Linfodrome reports that the National Assembly economic and finance committee unanimously adopted on 4 November 2026 a 258-article banking bill bringing FinTech and e-money operations in and distinguishing payment institutions and e-money institutions.",
+       "as_of": "2026-11-04",
+       "date_precision": "day",
+       "system": "Banking regulation bill (258 articles)",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Banking regulation bill (258 articles)",
+       "country_label": "Côte d'Ivoire",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Economy, Finance and Budget",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

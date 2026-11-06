@@ -1,0 +1,11 @@
+{"slug": "2024-01-26-cod-bientot-les-fonctionnaires-des-zones-reculees-seront-payes-par-mobile", "studies": {
+"businesspayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"COD": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"civilserviceskills": {"countries": {"COD": {"facts": [], "systems": [], "note": "No digital-skills training stated."}}},
+"consumerprotection": {"countries": {"COD": {"facts": [], "systems": [], "note": "No rules or complaints body stated in the article text."}}},
+"crossborderpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "No cross-border payments stated."}}},
+"g2ppayments": {"countries": {"COD": {"facts": [], "systems": [{"system": "Mobile banking salary payment for remote-area civil servants", "country_label": "Democratic Republic of the Congo", "class": "g2p", "platform": "mobile money (Afrimoney, M-Pesa, Airtel Money, Orange Money)", "owner": "Ministere de la Fonction publique", "tiers": ""}], "note": "Operators only agreed in principle to pay civil servants by mobile money, with a feasibility meeting and a Q2 2024 target; no pilot or contract stated."}}},
+"paymentsuptake": {"countries": {"COD": {"facts": [], "systems": [], "note": "No survey figure on adults with accounts."}}},
+"retailpayments": {"countries": {"COD": {"facts": [], "systems": [], "note": "Article states a plan to use mobile money for salaries, not that a mobile money service is in service."}}},
+"revenuecollection": {"countries": {"COD": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

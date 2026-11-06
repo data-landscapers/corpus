@@ -1,0 +1,27 @@
+{"slug": "2025-01-23-ken-nationwide-roll-out-of-inua-jamii-programme-payment-through-mobile-mon", "studies": {
+"authentication": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No authentication service described."}}},
+"birthidlink": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on civil register and ID link."}}},
+"businesspayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing cross-border."}}},
+"disabilityaccess": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on digital accessibility."}}},
+"egovservices": {"countries": {"KEN": {"facts": [], "systems": [], "note": "eCitizen is named only as a payment platform; no services or count stated."}}},
+"g2ppayments": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "Kenya's State Department for Social Protection began migrating all Inua Jamii beneficiaries to the eCitizen-M-Pesa payment platform from the January 2025 disbursement, with funds collected from M-Pesa agents through USSD *222#.", "as_of": "2025-01", "date_precision": "month", "system": "Inua Jamii", "class": "g2p"},
+{"sub_indicator": "g2p", "aspect": "linked", "value": "linked", "fact": "The State Department requires every Inua Jamii beneficiary to hold a registered Safaricom line that matches their ID card to receive funds.", "as_of": "2025-01-23", "date_precision": "day", "system": "Inua Jamii", "class": "g2p"}
+], "systems": [{"system": "Inua Jamii", "country_label": "Kenya", "class": "g2p", "platform": "eCitizen-M-Pesa with Safaricom, USSD *222#", "owner": "State Department for Social Protection and Senior Citizen Affairs", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No enrolment count."}}},
+"idfrombirth": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on ID at birth."}}},
+"idmaintenance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on ID system operation."}}},
+"idregisters": {"countries": {"KEN": {"facts": [], "systems": [], "note": "A phone line matched to an ID card is not a public register keyed on the ID number."}}},
+"idrobustness": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No national ID system described."}}},
+"paymentsuptake": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No survey share."}}},
+"retailpayments": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The State Department says beneficiaries collect Inua Jamii funds through M-Pesa accounts and M-Pesa agents countrywide, run with Safaricom.", "as_of": "2025-01-23", "date_precision": "day", "system": "M-Pesa", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"socialprotection": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "socialmis", "aspect": "payments", "value": "electronic", "fact": "From the January 2025 disbursement the State Department pays all Inua Jamii beneficiaries through the eCitizen-M-Pesa platform, in collaboration with Safaricom.", "as_of": "2025-01", "date_precision": "month", "system": "eCitizen-M-Pesa payment platform", "class": "socialmis"}
+], "systems": [], "note": ""}}}
+}}

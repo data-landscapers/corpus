@@ -1,0 +1,42 @@
+{
+ "slug": "2025-07-08-ssd-central-bank-to-pay-salaries-via-mobile-money-as-cash-crisis-deepens",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Sudans Post reports that MTN MoMo users in South Sudan could not withdraw cash in recent months, so a mobile money service is in use, with Zain Mgurush and Digitel Digicash named as the other operators' platforms.",
+   "as_of": "2025-07-08",
+   "date_precision": "day",
+   "system": "MTN MoMo",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mgurush",
+   "country_label": "South Sudan",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Zain South Sudan",
+   "tiers": ""
+  },
+  {
+   "system": "MoMo",
+   "country_label": "South Sudan",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "MTN South Sudan",
+   "tiers": ""
+  },
+  {
+   "system": "Digicash",
+   "country_label": "South Sudan",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Digitel South Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

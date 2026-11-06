@@ -1,0 +1,54 @@
+{
+ "slug": "2026-11-05-ken-kenya-moves-to-operationalise-cybersecurity-agency",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Cabinet Secretary Kabogo said the National Cybersecurity Agency was established this year to lead national cybersecurity efforts and run the National Cybersecurity Operations Centre.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "National Cybersecurity Agency",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "Communications Authority Director General David Mugonyi said the Authority issued more than 20 million cyber threat advisories through the National KE-CIRT/CC between July and September 2026.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "National KE-CIRT/CC",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "recorded",
+   "fact": "The Communications Authority said it detected about 2.6 billion cyber threat events in July to September 2026, up 14.45 per cent on the previous quarter.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "National KE-CIRT/CC",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cybersecurity Agency",
+   "country_label": "National Cybersecurity Agency",
+   "class": "response",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  },
+  {
+   "system": "National KE-CIRT/CC",
+   "country_label": "National KE-CIRT/CC",
+   "class": "response",
+   "platform": "",
+   "owner": "Communications Authority of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

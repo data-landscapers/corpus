@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-10-mar-anss-un-an-apres-quel-impact-sur-le-soutien-social",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The ANSS annual report, as reported by Le Brief, says infrastructure for the direct social aid information systems is deployed in the Ministry of Economy and Finance datacenter.",
+   "as_of": "2025",
+   "date_precision": "month",
+   "system": "Ministry of Economy and Finance datacenter",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

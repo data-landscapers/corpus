@@ -1,0 +1,9 @@
+{"slug": "2026-11-05-civ-cybersecurite-abidjan-qg-americain-afrique-de-l-ouest", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Document does not mention AI rules or an AI authority."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No government AI system is stated."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing is stated."}}},
+"civilserviceskills": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Training named is for learners generally, not civil servants."}}},
+"cybersecurity": {"countries": {"CIV": {"facts": [], "systems": [{"system": "Cybastion-Cisco Security Operations Centre", "country_label": "Cybastion-Cisco SOC", "class": "other", "platform": "", "owner": "Cybastion with Cisco", "tiers": ""}], "note": "The SOC and its incident-response team are a company's centre, not stated as a national body created by law, decree or order."}}},
+"digitalskills": {"countries": {"CIV": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "Minister Djibril Ouattara stated the aim of training 200,000 learners in Cote d'Ivoire in cybersecurity, networking and AI skills by 2030 under the Africa Digital Power programme of the TIA Foundation and Cisco.", "as_of": "2026-11-05", "date_precision": "day", "system": "Africa Digital Power", "class": "publicskills"}], "systems": [], "note": ""}}}
+}}

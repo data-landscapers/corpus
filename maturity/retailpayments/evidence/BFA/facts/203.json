@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-21-bfa-carfo-a-partir-du-4eme-trimestre-2024-paiement-par-mobile-money-des-ar",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "CARFO's communique refers to mobile money accounts with Orange or Moov, which pensioners are to use to receive pensions from Q4 2024.",
+   "as_of": "2024-08-21",
+   "date_precision": "day",
+   "system": "Orange and Moov mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

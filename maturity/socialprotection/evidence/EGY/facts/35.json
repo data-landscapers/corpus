@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-egy-takaful-karama-pension-payment-via-mobile-wallets",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "payments",
+   "value": "electronic",
+   "fact": "Takaful and Karama pensions are sent monthly to beneficiaries' mobile wallets once a social unit enters the request on the system and links the pension to the wallet, per the Ministry of Social Solidarity as reported.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Takaful and Karama",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

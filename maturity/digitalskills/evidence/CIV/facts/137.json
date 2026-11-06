@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-05-civ-cybersecurite-abidjan-qg-americain-afrique-de-l-ouest",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Minister Djibril Ouattara stated the aim of training 200,000 learners in Cote d'Ivoire in cybersecurity, networking and AI skills by 2030 under the Africa Digital Power programme of the TIA Foundation and Cisco.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "Africa Digital Power",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

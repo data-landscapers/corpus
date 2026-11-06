@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-uga-gender-data-and-digital-transformation-in-uganda",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "UBOS states it maintains public data portals including NSO Open Data, a Spatial Data Portal and a Gender Statistics Portal.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NSO Open Data",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NSO Open Data",
+   "country_label": "NSO Open Data",
+   "class": "open",
+   "platform": "portal",
+   "owner": "UBOS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

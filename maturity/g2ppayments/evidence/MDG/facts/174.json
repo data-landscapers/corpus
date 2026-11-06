@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-21-mdg-service-pour-le-paiement-des-transferts-monetaires-par-le-mobile-money",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "FID, with World Bank financing for the Projet Filets de Sécurité et de Résilience, opened national tender 05/2024 on 21 June 2024 to procure payment of cash transfers by mobile money in 67 lots of communes, with bids due 23 July 2024.",
+   "as_of": "2024-06-21",
+   "date_precision": "day",
+   "system": "Projet Filets de Sécurité et de Résilience (PFSR) mobile money cash transfers",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PFSR mobile money cash-transfer payment service",
+   "country_label": "Madagascar",
+   "class": "g2p",
+   "platform": "mobile money",
+   "owner": "Fonds d'Intervention pour le Développement (FID)",
+   "tiers": "67 lots of communes"
+  }
+ ],
+ "note": ""
+}

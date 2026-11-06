@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-10-mar-anss-un-an-apres-quel-impact-sur-le-soutien-social",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The ANSS annual report, as reported by Le Brief, says the Registre national de la population (RNP) is crossed with the RSU to target direct social aid.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Registre national de la population (RNP)",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national de la population (RNP)",
+   "country_label": "Morocco",
+   "class": "population",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

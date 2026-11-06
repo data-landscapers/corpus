@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-04-tza-ucsaf-to-improve-mobile-network-coverage-on-sgr",
+ "facts": [
+  {
+   "sub_indicator": "financing",
+   "aspect": "budget",
+   "value": "allocated",
+   "fact": "The Citizen reports the government allocated Sh15.3 billion through UCSAF to build and upgrade 37 TBC radio transmission sites, and an allocation of Sh29 billion backs 287 towers under the 10th phase.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "UCSAF",
+   "class": "financing"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

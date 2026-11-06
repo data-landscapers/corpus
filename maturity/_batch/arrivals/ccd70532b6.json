@@ -1,0 +1,15 @@
+{"slug": "2024-03-04-caf-bientot-le-paiement-des-salaires-des-fonctionnaires-centrafricains-par", "studies": {
+"businesspayments": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing stated about e-procurement."}}},
+"centralbank": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Only the regional central bank BEAC is named, treating mobile money accounts as bank accounts; no licensing or switch is stated for the country."}}},
+"civilserviceskills": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing stated about civil servant training."}}},
+"consumerprotection": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing stated about consumer protection."}}},
+"crossborderpayments": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing stated about cross-border payments."}}},
+"g2ppayments": {"countries": {"CAF": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "underway", "fact": "The Patapaye project, funded by the World Bank, IMF and EU, began a mobile money salary-payment test in March 2020 with about 250 employees, and authorities announced enrolment of civil servants intensified across at least 14 prefectures.", "as_of": "2024-03", "date_precision": "month", "system": "Patapaye", "class": "g2p"},
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "Business & Finance International reports that civil servants' salaries are domiciled at Ecobank Centrafrique and the Banque populaire maroco-centrafricaine, and that bank transfers exist alongside direct cash payment as salary payment modes.", "as_of": "2024-03", "date_precision": "month", "system": "Civil service salary bank transfers", "class": "g2p"}
+], "systems": [{"system": "Patapaye", "country_label": "Central African Republic", "class": "g2p", "platform": "mobile money (Orange, Telecel)", "owner": "Government of the Central African Republic", "tiers": "national, 14 prefectures at least"}], "note": ""}}},
+"idcoverage": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing stated about national ID enrolment."}}},
+"paymentsuptake": {"countries": {"CAF": {"facts": [], "systems": [], "note": "The only banking-rate figure (over 60%) is a BEAC figure for the whole CEMAC zone, not an adult survey for the country."}}},
+"retailpayments": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Mobile money appears only as the channel for the salary project; no retail service status is stated."}}},
+"revenuecollection": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Online tax filing is mentioned only as an aim of the 2020 launch, not an announced or contracted service."}}}
+}}

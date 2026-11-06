@@ -1,0 +1,18 @@
+{"slug": "2024-07-02-zwe-cash-transfer-scheme-lacks-transparency", "studies": {
+"businesspayments": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No central bank role is stated."}}},
+"consumerprotection": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No cross-border payment is stated."}}},
+"disabilityaccess": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Persons with disabilities appear only as cash transfer targets; nothing on accessible information or services."}}},
+"g2ppayments": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "Gemnation reports that the Harmonised Social Cash Transfer programme uses electronic payments (EcoCash) instead of cash in transit, with 75,000 beneficiary households registered in 30 districts.", "as_of": "2024-07-02", "date_precision": "day", "system": "Harmonised Social Cash Transfer", "class": "g2p"}
+], "systems": [{"system": "Harmonised Social Cash Transfer (HSCT)", "country_label": "Zimbabwe", "class": "g2p", "platform": "EcoCash", "owner": "Ministry of Public Service, Labour and Social Welfare", "tiers": "30 districts"}], "note": ""}}},
+"paymentsuptake": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No account-ownership survey is given."}}},
+"retailpayments": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Gemnation reports that cash transfer beneficiaries are paid through EcoCash, and that urban residents were told to register on NetOne One Wallet lines.", "as_of": "2024-07-02", "date_precision": "day", "system": "EcoCash", "class": "retail"}
+], "systems": [{"system": "OneWallet", "country_label": "Zimbabwe", "class": "retail", "platform": "NetOne", "owner": "NetOne", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on taxes or fees."}}},
+"socialprotection": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "socialmis", "aspect": "payments", "value": "electronic", "fact": "Gemnation reports that the Harmonised Social Cash Transfer programme pays beneficiaries by electronic transfer (EcoCash), citing the Auditor-General's note that the payment method has changed from cash.", "as_of": "2024-07-02", "date_precision": "day", "system": "Harmonised Social Cash Transfer", "class": "socialmis"}
+], "systems": [], "note": ""}}}
+}}

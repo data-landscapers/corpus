@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-01-sle-ministry-of-labour-embarks-on-cash-transfer-of-nle1-018-to-poor-sierra",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Sierra Leone's labour ministry and NaCSA began a World Bank-supported cash transfer of NLe1,018 to 13,091 people aged 60+ in 10 districts, paid by Orange Mobile Money.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "PSSNYE cash transfer",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PSSNYE cash transfer",
+   "country_label": "Sierra Leone",
+   "class": "g2p",
+   "platform": "Orange Money",
+   "owner": "Ministry of Employment, Labour and Social Security / NaCSA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

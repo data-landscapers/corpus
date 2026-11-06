@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-05-gin-reformes-et-innovations-a-la-cnss-vers-la-dematerialisation-dans-le-pa",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "CNSS says pensioners subscribing to electronic payment must present their biometric national identity card.",
+   "as_of": "2023-12-05",
+   "date_precision": "day",
+   "system": "carte d'identité nationale biométrique",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

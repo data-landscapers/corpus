@@ -1,0 +1,54 @@
+{
+ "slug": "2026-11-05-nigeria-seeks-digital-id-project-extension-to-roll-out-mosip-based-infrastructur",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "A World Bank restructuring paper records about 121 million NINs successfully generated as of 14 September 2026, out of about 145 million enrolments.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "National Identity Management System (NIMS)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "The World Bank paper says the 121 million NINs were generated following biometric and demographic validation and de-duplication.",
+   "as_of": "2026-09-14",
+   "date_precision": "day",
+   "system": "National Identity Management System (NIMS)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The NIMS 2.0 contract for a MOSIP-based identity system was signed on 15 September 2026, with full operation expected by 15 December 2027, per the World Bank.",
+   "as_of": "2026-09-15",
+   "date_precision": "day",
+   "system": "NIMS 2.0",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Management System (NIMS)",
+   "country_label": "Nigeria",
+   "class": "idsystem",
+   "platform": "legacy proprietary system",
+   "owner": "National Identity Management Commission (NIMC)",
+   "tiers": ""
+  },
+  {
+   "system": "NIMS 2.0",
+   "country_label": "Nigeria",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "National Identity Management Commission (NIMC)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,14 +1,1 @@
-{
- "slug": "2026-08-25-cadastro-social-unico-inicia-fase-piloto-no-sumbe",
- "studies": {
-  "businessregister": {
-   "countries": {
-    "AGO": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-08-25-cadastro-social-unico-inicia-fase-piloto-no-sumbe", "studies": {"electoralregister": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Social registry pilot; nothing on a voters' roll."}}}}}

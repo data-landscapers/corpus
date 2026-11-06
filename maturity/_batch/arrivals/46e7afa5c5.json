@@ -1,0 +1,20 @@
+{"slug": "2023-12-04-mwi-social-cash-transfers-spur-financial-inclusion", "studies": {
+"businesspayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Central bank not mentioned."}}},
+"consumerprotection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Only a PIN-confidentiality awareness effort; no rules or complaints body."}}},
+"crossborderpayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "UNICEF Malawi reports that 10 districts have moved to a harmonised e-payment system and pay Social Cash Transfer Programme and Climate Smart Public Works beneficiaries through banks and mobile money operators, e.g. 14,378 in Ntcheu via FDH Bank and 10,070 in Balaka via mobile money.", "as_of": "2023-12-04", "date_precision": "day", "system": "harmonised e-payment system", "class": "g2p"}
+], "systems": [
+{"system": "harmonised e-payment system", "country_label": "Malawi", "class": "g2p", "platform": "bank accounts and mobile money wallets", "owner": "Ministry of Gender, Community Development and Social Welfare", "tiers": "10 districts"}
+], "note": ""}}},
+"localgov": {"countries": {"MWI": {"facts": [], "systems": [], "note": "District councils' payment migration is not a connection of the council office."}}},
+"paymentsuptake": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No survey share of adults with an account."}}},
+"retailpayments": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "UNICEF Malawi reports that mobile money wallets and agency banking (FDH Bank's Banki Pakhomo) are in use, with beneficiaries in Balaka receiving monthly transfers through mobile money.", "as_of": "2023-12-04", "date_precision": "day", "system": "mobile money", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"socialprotection": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "socialmis", "aspect": "payments", "value": "electronic", "fact": "UNICEF Malawi reports the Social Cash Transfer Programme is shifting from manual to electronic payments, with 10 districts disbursing through the harmonised e-payment system to banks and mobile money operators.", "as_of": "2023-12-04", "date_precision": "day", "system": "harmonised e-payment system", "class": "socialmis"}
+], "systems": [], "note": ""}}}
+}}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-07-sdn-digital-money-apps-become-a-lifeline-for-war-affected-sudanese",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "access",
+   "value": "open",
+   "fact": "The New Humanitarian describes an internally displaced woman in Dongola using the Bankak bank app to receive payments, with no figure given.",
+   "as_of": "2024-02-07",
+   "date_precision": "day",
+   "system": "Bankak",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

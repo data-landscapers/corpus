@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-som-unconditional-cash-transfer",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The page says beneficiaries are identified through the Unified Social Registry, a national database of socio-economic data on vulnerable households used to assess eligibility for social support.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Unified Social Registry",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified Social Registry",
+   "country_label": "Somalia",
+   "class": "social",
+   "platform": "national database",
+   "owner": "Federal Government of Somalia",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

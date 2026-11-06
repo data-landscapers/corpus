@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-07-lso-quthing-shuts-23-pension-pay-points",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Lesotho News Agency reports that 23 of 30 cash pay-points for the elderly pension grant in Quthing district have closed after more than 4,800 beneficiaries were enrolled on mobile money (M-Pesa and EcoCash) since September 2024, with over 1,000 still paid in cash.",
+   "as_of": "2026-01-07",
+   "date_precision": "day",
+   "system": "mobile money pension payment (Mpesa and Eco-cash)",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Pesa",
+   "country_label": "Lesotho",
+   "class": "other",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "EcoCash",
+   "country_label": "Lesotho",
+   "class": "other",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

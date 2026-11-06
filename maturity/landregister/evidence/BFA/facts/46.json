@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-05-bfa-burkina-economie-la-dgi-renforce-les-capacites-de-ses-agents-pour-accelerer-sa-d",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "leFaso.net reports that the tax directorate DGI began training more than 400 agents on 4 November 2026 on SYC@D, the integrated cadastre and domains management system.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "SYC@D (Systeme integre de gestion du cadastre et des domaines)",
+   "class": "land"
+  },
+  {
+   "sub_indicator": "land",
+   "aspect": "online",
+   "value": "online",
+   "fact": "leFaso.net says SYC@D facilitates the online issuance of allocation certificates, transfer orders and cadastral extracts.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "SYC@D (Systeme integre de gestion du cadastre et des domaines)",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SYC@D",
+   "country_label": "Systeme integre de gestion du cadastre et des domaines",
+   "class": "land",
+   "platform": "",
+   "owner": "Direction generale des impots",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-01-zmb-codevelop-zambia-ekyc-openg2p",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Co-Develop says an eKYC platform on MOSIP and e-Signet, with the NRC number as legal identifier, had a successful proof of concept in April 2024.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "eKYC platform (MOSIP, e-Signet)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Co-Develop says the eKYC identity verification system has been extended to emergency drought relief and electronic health records after the April 2024 proof of concept.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "eKYC platform (MOSIP, e-Signet)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eKYC platform",
+   "country_label": "Zambia eKYC",
+   "class": "authentication",
+   "platform": "MOSIP, e-Signet",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

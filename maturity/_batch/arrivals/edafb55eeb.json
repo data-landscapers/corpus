@@ -1,0 +1,38 @@
+{"slug": "2024-01-01-stp-em-powered-by-openimis-the-island-nation-sao-tome-and-principe-is-effe", "studies": {
+"birthidlink": {"countries": {"STP": {"facts": [], "systems": [], "note": "Civil registry is used only for client identification by Ke-Non, not a civil register to ID link."}}},
+"businesspayments": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on central bank role."}}},
+"civilregister": {"countries": {"STP": {"facts": [], "systems": [], "note": "Civil registry named only as a client-identification source; no digital registration stated."}}},
+"consumerprotection": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"customs": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on customs."}}},
+"disabilityaccess": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on digital accessibility."}}},
+"educationexchange": {"countries": {"STP": {"facts": [], "systems": [], "note": "School-attendance verification with the Ministry of Education is a social protection link, and its monitoring module is listed for phase 3."}}},
+"educationmis": {"countries": {"STP": {"facts": [], "systems": [], "note": "No education information system described."}}},
+"feedbackportals": {"countries": {"STP": {"facts": [], "systems": [], "note": "A complaints mechanism is only planned for phase 2 of Ke-Non, with no launch stated."}}},
+"g2ppayments": {"countries": {"STP": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "openIMIS says the government's Ke-Non system, adopted in May 2023, includes a payments module working with Banco Internacional de Sao Tome e Principe for the conditional cash transfer programme.", "as_of": "2024-02", "date_precision": "month", "system": "Ke-Non", "class": "g2p"},
+{"sub_indicator": "g2p", "aspect": "linked", "value": "linked", "fact": "openIMIS says Ke-Non, which holds the Unique Social Registry and the payments module, identifies clients against the national civil registry of the Ministry of Justice.", "as_of": "2024-02", "date_precision": "month", "system": "Ke-Non", "class": "g2p"}
+], "systems": [], "note": ""}}},
+"health": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on health information systems."}}},
+"healthmis": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on health information systems."}}},
+"idfrombirth": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"justice": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on court systems."}}},
+"paymentsuptake": {"countries": {"STP": {"facts": [], "systems": [], "note": "No account-ownership survey."}}},
+"police": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on police records."}}},
+"refugees": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on refugees or displaced people."}}},
+"registry": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on local civil registration offices."}}},
+"retailpayments": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"schools": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on school learner records."}}},
+"socialexchange": {"countries": {"STP": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "openIMIS says Ke-Non has links to partners' data systems: Banco Internacional de Sao Tome e Principe for payments and the Ministry of Justice national civil registry for client identification.", "as_of": "2024-02", "date_precision": "month", "system": "Ke-Non", "class": "exchange"}
+], "systems": [], "note": ""}}},
+"socialprotection": {"countries": {"STP": {"facts": [
+{"sub_indicator": "socialmis", "aspect": "system", "value": "inservice", "fact": "openIMIS says the government adopted Ke-Non, built on CORE-MIS and openIMIS, in May 2023 to manage the national social protection system and its conditional cash transfer programme, housed at the Institute of Innovation and Knowledge.", "as_of": "2023-05", "date_precision": "month", "system": "Ke-Non", "class": "socialmis"},
+{"sub_indicator": "socialmis", "aspect": "payments", "value": "electronic", "fact": "openIMIS says Ke-Non's payment module works with Banco Internacional de Sao Tome e Principe for the conditional cash transfer programme.", "as_of": "2024-02", "date_precision": "month", "system": "Ke-Non", "class": "socialmis"}
+], "systems": [{"system": "Ke-Non", "country_label": "Ke-Non", "class": "socialmis", "platform": "CORE-MIS / openIMIS", "owner": "Institute of Innovation and Knowledge", "tiers": ""}], "note": ""}}},
+"socialregistry": {"countries": {"STP": {"facts": [
+{"sub_indicator": "social", "aspect": "registry", "value": "inservice", "fact": "openIMIS says Ke-Non holds a Unique Social Registry database, whose data for more than 10,000 families eligible for the cash transfer were updated between December 2023 and February 2024.", "as_of": "2024-02", "date_precision": "month", "system": "Unique Social Registry (Ke-Non)", "class": "social"}
+], "systems": [{"system": "Unique Social Registry", "country_label": "Ke-Non Unique Social Registry", "class": "social", "platform": "CORE-MIS / openIMIS", "owner": "Institute of Innovation and Knowledge", "tiers": ""}], "note": ""}}}
+}}

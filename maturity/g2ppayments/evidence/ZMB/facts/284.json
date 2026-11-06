@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-zmb-codevelop-zambia-ekyc-openg2p",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Co-Develop says Zambia has rolled out the OpenG2P platform to manage government-to-person payments.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "OpenG2P",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OpenG2P",
+   "country_label": "OpenG2P",
+   "class": "g2p",
+   "platform": "OpenG2P",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-05-lbr-gcf-sap018-liberia-climate-information-systems",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SAP018 Liberia Climate Information Systems",
+   "country_label": "GCF-funded project improving hydrometeorological services and impact-based forecasting, completion October 2027",
+   "class": "other",
+   "platform": "",
+   "owner": "African Development Bank as entity",
+   "tiers": "national"
+  }
+ ],
+ "note": "The project page names no satellite receiving station or satellite data use."
+}

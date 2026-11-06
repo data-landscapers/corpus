@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-som-unconditional-cash-transfer",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "payments",
+   "value": "electronic",
+   "fact": "The Baxnaano page says all UCT payments are sent by mobile money to the household's registered phone number.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Baxnaano Unconditional Cash Transfer (Regular Window)",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

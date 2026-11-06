@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-05-paga-expands-direct-debit-access-for-businesses-beyond-its-network",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Paga Engine provides wallet services letting other businesses host wallets on Paga, and processed about $12 billion across about 100 million transactions in 2025, according to its general manager.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Paga wallets",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Paga",
+   "country_label": "Nigeria",
+   "class": "retail",
+   "platform": "wallet",
+   "owner": "Paga",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

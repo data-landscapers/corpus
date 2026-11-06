@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-01-zwe-urban-cash-transfers-to-benefit-1-7m",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Minister July Moyo said the ministry selected NetOne after a competition to carry the Urban Cash Transfer programme for 1.7 million urban people, loaded ministry cash into the network provider the previous week, and expected recipients to start receiving money to their phone numbers that week.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Urban Cash Transfer and Movement of Grain Programme via NetOne",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Urban Cash Transfer and Movement of Grain Programme",
+   "country_label": "cash to 1.7 million urban beneficiaries by phone number",
+   "class": "g2p",
+   "platform": "NetOne",
+   "owner": "Ministry of Public Service, Labour and Social Welfare",
+   "tiers": "urban"
+  }
+ ],
+ "note": ""
+}

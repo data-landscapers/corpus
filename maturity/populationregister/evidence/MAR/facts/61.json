@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-24-mar-morocco-expands-direct-social-support-with-data-driven-reform",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The government's written answer says the targeting system under Law 72.18 relies on two databases, the National Population Register (RNP) and the Unified Social Register.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "National Population Register (RNP)",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "used",
+   "value": "source",
+   "fact": "The government's written answer says the unified targeting system for social support programmes relies on the National Population Register as one of its two databases.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "National Population Register (RNP)",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Register",
+   "country_label": "RNP",
+   "class": "population",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

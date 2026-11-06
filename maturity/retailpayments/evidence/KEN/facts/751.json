@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-23-ken-nationwide-roll-out-of-inua-jamii-programme-payment-through-mobile-mon",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The State Department says beneficiaries collect Inua Jamii funds through M-Pesa accounts and M-Pesa agents countrywide, run with Safaricom.",
+   "as_of": "2025-01-23",
+   "date_precision": "day",
+   "system": "M-Pesa",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{"slug": "2026-11-04-mar-hespress-wahbi-banks-electronic-payment-1834575", "studies": {
+"businesspayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document does not mention public e-procurement."}}},
+"centralbank": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Only says the central bank encourages bank cards and cheques; no mandate, licensing, switch or PAPSS statement."}}},
+"consumerprotection": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on consumer rules or complaints for digital finance."}}},
+"crossborderpayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"justice": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "justice", "aspect": "cases", "value": "inservice", "fact": "Justice Minister Abdellatif Ouahbi told a parliamentary committee that a national enforcement platform, letting enforcement files be processed nationally and not only in Casablanca, has entered implementation and is being extended to all courts.", "as_of": "2026-11-04", "date_precision": "day", "system": "national enforcement platform", "class": "justice"}
+], "systems": [
+{"system": "national enforcement platform", "country_label": "Morocco", "class": "justice", "platform": "", "owner": "Ministry of Justice", "tiers": "being extended to all courts"}
+], "note": ""}}},
+"paymentsuptake": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No survey account-ownership figure given."}}},
+"retailpayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No statement on mobile money, wallets or a national switch."}}},
+"revenuecollection": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Court-fee e-payment is only proposed to banks, who mostly declined; no statement of electronic payment in service or cash only."}}}
+}}

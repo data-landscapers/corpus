@@ -1,0 +1,57 @@
+{
+  "slug": "2026-11-04-nga-how-fg-selects-beneficiaries-for-n50-000-relief",
+  "studies": {
+    "authentication": {"countries": {"NGA": {"facts": [], "systems": [], "note": "NIN is said to verify identity, but no authentication service is described."}}},
+    "birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Civil register and ID link not mentioned."}}},
+    "businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+    "centralbank": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+    "consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on consumer rules or complaints bodies for digital finance."}}},
+    "crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+    "g2ppayments": {"countries": {"NGA": {
+      "facts": [
+        {"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "The Federal Government's National Emergency Relief and Stabilisation Intervention pays selected beneficiaries N50,000 into a mobile wallet, with disbursement announced as started by the humanitarian affairs minister on 30 October 2026 and payments continuing in phases.", "as_of": "2026-10-30", "date_precision": "day", "system": "National Emergency Relief and Stabilisation Intervention (NERSI)", "class": "g2p"},
+        {"sub_indicator": "g2p", "aspect": "linked", "value": "linked", "fact": "The ministry's NERSI website says beneficiaries are selected from verified national identity records and the National Social Register, enrolment in both is a prerequisite, and the NIN is linked to the mobile wallet that receives the payment.", "as_of": "2026-11-04", "date_precision": "day", "system": "National Emergency Relief and Stabilisation Intervention (NERSI)", "class": "g2p"}
+      ],
+      "systems": [
+        {"system": "National Emergency Relief and Stabilisation Intervention (NERSI)", "country_label": "Nigeria", "class": "g2p", "platform": "mobile wallets (ALAT by Wema, MoMo PSB, NairaGram, OPay, Moniepoint)", "owner": "Federal Ministry of Humanitarian Affairs and Poverty Reduction", "tiers": ""}
+      ],
+      "note": ""}}},
+    "idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No enrolment count or share of population for NIN given."}}},
+    "idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No number at birth mentioned."}}},
+    "idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Who operates or owns the ID system is not stated."}}},
+    "idregisters": {"countries": {"NGA": {
+      "facts": [
+        {"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "The ministry's NERSI website says relief beneficiaries are drawn from verified national identity records and the National Social Register, and enrolment in both NIMC and the register is a prerequisite.", "as_of": "2026-11-04", "date_precision": "day", "system": "National Social Register", "class": "register"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "idrobustness": {"countries": {"NGA": {
+      "facts": [
+        {"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The document says the National Identification Number is issued by the National Identity Management Commission after enrolment and is used to verify an individual's identity.", "as_of": "2026-11-04", "date_precision": "day", "system": "National Identification Number (NIMC)", "class": "idsystem"}
+      ],
+      "systems": [
+        {"system": "National Identification Number", "country_label": "Nigeria", "class": "idsystem", "platform": "", "owner": "National Identity Management Commission (NIMC)", "tiers": ""}
+      ],
+      "note": ""}}},
+    "localgov": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on local government offices or connections."}}},
+    "paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No survey of adults with accounts."}}},
+    "retailpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Wallets named only as the channel for a government-to-person payment, which this study treats as other."}}},
+    "revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+    "socialexchange": {"countries": {"NGA": {
+      "facts": [
+        {"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The ministry's NERSI website says relief recipients are selected from verified national identity records and the National Social Register and are paid to a mobile wallet linked to their NIN.", "as_of": "2026-11-04", "date_precision": "day", "system": "National Emergency Relief and Stabilisation Intervention (NERSI)", "class": "exchange"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "socialprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No programme management information system is named."}}},
+    "socialregistry": {"countries": {"NGA": {
+      "facts": [
+        {"sub_indicator": "social", "aspect": "registry", "value": "inservice", "fact": "The National Social Register, coordinated by the National Social Safety-Nets Coordinating Office, is a digital database of poor and vulnerable households holding data on more than 70 million individuals, per NASSCO.", "as_of": "2026-11-04", "date_precision": "day", "system": "National Social Register", "class": "social"},
+        {"sub_indicator": "social", "aspect": "linked", "value": "linked", "fact": "The ministry says relief beneficiaries are selected from verified national identity records and the National Social Register, with enrolment in both NIMC and the register required.", "as_of": "2026-11-04", "date_precision": "day", "system": "National Social Register", "class": "social"}
+      ],
+      "systems": [
+        {"system": "National Social Register", "country_label": "Nigeria", "class": "social", "platform": "", "owner": "National Social Safety-Nets Coordinating Office (NASSCO)", "tiers": ""}
+      ],
+      "note": ""}}}
+  }
+}

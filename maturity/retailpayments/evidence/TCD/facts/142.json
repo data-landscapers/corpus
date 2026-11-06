@@ -1,0 +1,50 @@
+{
+ "slug": "2026-02-19-tcd-tchad-l-etat-s-allie-aux-operateurs-mobile-money-pour-encaisser-les-im",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Chad's finance minister said the country already has around 1.2 million active users of mobile financial services, served by operators including Moov Money, Airtel Money, Konoom and Cashi-Tchad.",
+   "as_of": "2026-02-19",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Moov Money",
+   "country_label": "Chad",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Moov",
+   "tiers": ""
+  },
+  {
+   "system": "Airtel Money",
+   "country_label": "Chad",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Airtel",
+   "tiers": ""
+  },
+  {
+   "system": "Konoom Mobile Money",
+   "country_label": "Chad",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Konoom",
+   "tiers": ""
+  },
+  {
+   "system": "Cashi-Tchad",
+   "country_label": "Chad",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Cashi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

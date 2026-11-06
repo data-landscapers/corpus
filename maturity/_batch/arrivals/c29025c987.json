@@ -1,0 +1,11 @@
+{"slug": "2025-07-08-ssd-central-bank-to-pay-salaries-via-mobile-money-as-cash-crisis-deepens", "studies": {
+"businesspayments": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document does not mention public procurement."}}},
+"centralbank": {"countries": {"SSD": {"facts": [], "systems": [], "note": "The central bank convened operators and told them to speed integration, but the document states no licensing, switch oversight or PAPSS."}}},
+"civilserviceskills": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document does not mention digital-skills training."}}},
+"consumerprotection": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document states no consumer rules or complaints body."}}},
+"crossborderpayments": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document does not mention cross-border payments."}}},
+"g2ppayments": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Salary payment through mobile money is only being explored and the bank-account mandate was not implemented; no pilot, contract or payment in service is stated."}}},
+"paymentsuptake": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No survey share of adults with an account is given."}}},
+"retailpayments": {"countries": {"SSD": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Sudans Post reports that MTN MoMo users in South Sudan could not withdraw cash in recent months, so a mobile money service is in use, with Zain Mgurush and Digitel Digicash named as the other operators' platforms.", "as_of": "2025-07-08", "date_precision": "day", "system": "MTN MoMo", "class": "retail"}], "systems": [{"system": "Mgurush", "country_label": "South Sudan", "class": "retail", "platform": "mobile money", "owner": "Zain South Sudan", "tiers": ""}, {"system": "MoMo", "country_label": "South Sudan", "class": "retail", "platform": "mobile money", "owner": "MTN South Sudan", "tiers": ""}, {"system": "Digicash", "country_label": "South Sudan", "class": "retail", "platform": "mobile money", "owner": "Digitel South Sudan", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Document does not mention tax or fee payment."}}}
+}}

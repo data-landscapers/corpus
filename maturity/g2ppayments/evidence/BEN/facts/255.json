@@ -1,0 +1,36 @@
+{
+ "slug": "2023-12-05-ben-dematerialisation-du-paiement-des-pensions-de-retraite-au-benin-un-ver",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "A Ministry of Economy and Finance communique says pensions under 50,000 FCFA are paid into beneficiaries' mobile money accounts from the 1 November 2020 instalment, and the government says over 3,700 pensioners (30% of those expected) were paid that way in that instalment.",
+   "as_of": "2020-11",
+   "date_precision": "month",
+   "system": "Pension payment by mobile money",
+   "class": "g2p"
+  },
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Pensions of 50,000 FCFA or more are paid by bank transfer, which Fonds national des retraites du Benin pensioners have had for some years and Caisse nationale de securite sociale pensioners now have, per the article.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "Pension payment by bank transfer",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Pension payment by mobile money and bank transfer",
+   "country_label": "Benin",
+   "class": "g2p",
+   "platform": "mobile money (MTN, Moov) and bank accounts",
+   "owner": "Ministry of Economy and Finance; CNSS; FNRB",
+   "tiers": "under 50,000 FCFA by mobile money; 50,000 FCFA and over by bank transfer"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-04-mwi-social-cash-transfers-spur-financial-inclusion",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "payments",
+   "value": "electronic",
+   "fact": "UNICEF Malawi reports the Social Cash Transfer Programme is shifting from manual to electronic payments, with 10 districts disbursing through the harmonised e-payment system to banks and mobile money operators.",
+   "as_of": "2023-12-04",
+   "date_precision": "day",
+   "system": "harmonised e-payment system",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{"slug": "2026-02-20-civ-resume-executif-enquete-nationale-msi-2024", "studies": {
+"businesspayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing stated about the central bank."}}},
+"civilserviceskills": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing stated about civil servant training."}}},
+"consumerprotection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Online fraud and abuse prevalence is stated, but no financial consumer rule or complaints body."}}},
+"crossborderpayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Transfers abroad appear only as a share of mobile money transaction types, with no named corridor."}}},
+"digitaldivides": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Rural and urban splits are for household internet access, not for people using the internet; no rural connection programme is stated."}}},
+"digitalskills": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Digital skills are mentioned only as a general gap; no programme or measured share."}}},
+"g2ppayments": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing stated about government payments to people."}}},
+"internetusage": {"countries": {"CIV": {"facts": [{"sub_indicator": "use", "aspect": "users", "value": "survey:41.4", "fact": "ARTCI's national MSI 2024 household survey puts internet use at 41.4% of individuals aged 5 and over (11,276,214 people), men 44.5% and women 38.3%.", "as_of": "2024", "date_precision": "year", "system": "Enquête nationale MSI 2024", "class": "use"}], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"CIV": {"facts": [{"sub_indicator": "uptake", "aspect": "share", "value": "quarter", "fact": "ARTCI's MSI 2024 survey finds 50.3% of individuals aged 5 and over hold a personal mobile money account, over 13 million people (men 55.4%, women 45.1%); the base is not adults.", "as_of": "2024", "date_precision": "year", "system": "Enquête nationale MSI 2024", "class": "survey"}], "systems": [], "note": ""}}},
+"retailpayments": {"countries": {"CIV": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "ARTCI's MSI 2024 survey reports 13,695,257 people (50.3% of those aged 5 and over) using mobile money, mainly for money transfers, airtime purchase and bill payment, with some merchant payments.", "as_of": "2024", "date_precision": "year", "system": "Mobile Money", "class": "retail"}], "systems": [{"system": "Mobile Money", "country_label": "Côte d'Ivoire", "class": "retail", "platform": "mobile money", "owner": "", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Administrative acts appear only as a small share of mobile money transactions; no tax or fee payment is stated."}}},
+"ruralelectrification": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only a household electricity share (rural 92.9%) is given; the study's figure is the World Bank rural access series."}}}
+}}

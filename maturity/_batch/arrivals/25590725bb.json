@@ -1,0 +1,15 @@
+{"slug": "2026-06-16-tgo-pensions-de-retraite-la-crt-met-fin-aux-paiements-en-especes", "studies": {
+"businesspayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No consumer rules or complaints body stated."}}},
+"crossborderpayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing cross-border."}}},
+"g2ppayments": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "underway", "fact": "Republique Togolaise reports the Caisse de Retraites du Togo announced it will end cash pension payments at its counters from July 2026 and pay by mobile money (Mixx by Yas, Flooz) or bank transfer, asking cash pensioners to supply phone or bank identity details.", "as_of": "2026-06-16", "date_precision": "day", "system": "CRT pension payment by mobile money or bank transfer", "class": "g2p"}
+], "systems": [
+{"system": "Mixx by Yas", "country_label": "Togo", "class": "retail", "platform": "mobile money", "owner": "", "tiers": ""},
+{"system": "Flooz", "country_label": "Togo", "class": "retail", "platform": "mobile money", "owner": "Moov Africa Togo", "tiers": ""}
+], "note": ""}}},
+"paymentsuptake": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No account-ownership survey figure."}}},
+"retailpayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Mobile money providers are named only as pension channels from July 2026; the document does not say their service is in service."}}},
+"revenuecollection": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

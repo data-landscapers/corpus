@@ -1,0 +1,14 @@
+{"slug": "2025-09-29-tun-afcfta-digital-trade-protocol-domestication-workshop-tunisia", "studies": {
+"regionallaw": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "Ghana is named only as the publisher's home; the document says nothing of Ghana's signature, ratification or law."},
+"TUN": {"facts": [], "systems": [{"system": "AfCFTA Protocol on Digital Trade", "country_label": "AfCFTA Protocol on Digital Trade", "class": "harmonisation", "platform": "", "owner": "AfCFTA Secretariat", "tiers": ""}], "note": "A workshop on domestication and a gap analysis are not a signature, ratification or national law; the document says none of these for Tunisia."}}},
+"regionalpolicy": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "Ghana is not named in the body."},
+"TUN": {"facts": [], "systems": [], "note": "A capacity-building workshop with the AfCFTA Secretariat is not a signed agreement, a meeting of an African digital-policy body hosted, or a thing put into effect."}}},
+"startups": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "Not about startup law or funding."},
+"TUN": {"facts": [], "systems": [], "note": "Startups are mentioned only as part of the ecosystem; no startup law, label or fund is stated."}}},
+"techhubs": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "Not about technology hubs."},
+"TUN": {"facts": [], "systems": [], "note": "No hub, incubator or park is stated."}}}
+}}

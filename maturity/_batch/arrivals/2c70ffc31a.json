@@ -1,0 +1,18 @@
+{"slug": "2025-04-01-sle-afrimoney-partners-with-nacsa-for-safe-cash-transfers-to-elderly-peopl", "studies": {
+"businesspayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Central bank not mentioned."}}},
+"consumerprotection": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on consumer rules or complaints."}}},
+"crossborderpayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "underway", "fact": "Sierraloaded reports NaCSA signed an agreement with Afrimoney on 15 April 2025 to deliver cash transfers to over 11,600 elderly beneficiaries under a World Bank-funded safety-net programme; no payments yet stated as made.", "as_of": "2025-04-15", "date_precision": "day", "system": "Afrimoney", "class": "g2p"}
+], "systems": [
+{"system": "Afrimoney", "country_label": "Sierra Leone", "class": "g2p", "platform": "mobile money", "owner": "Afrimoney", "tiers": ""}
+], "note": ""}}},
+"localgov": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on local government offices."}}},
+"paymentsuptake": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No survey share of adults with an account."}}},
+"retailpayments": {"countries": {"SLE": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Sierraloaded describes Afrimoney as a mobile money service provider in Sierra Leone operating nationally.", "as_of": "2025-04", "date_precision": "month", "system": "Afrimoney", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"socialprotection": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No programme management information system named; only the payment provider."}}}
+}}

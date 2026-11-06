@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-10-mar-anss-un-an-apres-quel-impact-sur-le-soutien-social",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The ANSS annual report, as reported by Le Brief, says the RSU is crossed with the population register to target direct social aid, with 84% of aid going to the poorest three deciles.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Registre social unifié (RSU)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre social unifié (RSU)",
+   "country_label": "Morocco",
+   "class": "social",
+   "platform": "",
+   "owner": "ANSS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

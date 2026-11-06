@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-04-mar-hespress-wahbi-banks-electronic-payment-1834575",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "Justice Minister Abdellatif Ouahbi told a parliamentary committee that a national enforcement platform, letting enforcement files be processed nationally and not only in Casablanca, has entered implementation and is being extended to all courts.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "national enforcement platform",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national enforcement platform",
+   "country_label": "Morocco",
+   "class": "justice",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": "being extended to all courts"
+  }
+ ],
+ "note": ""
+}

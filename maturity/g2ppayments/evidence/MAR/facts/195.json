@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-02-mar-digital-payment-the-failed-revolution-against-the-reign-of-cash",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Between 2023 and 2025 Morocco's National Social Support Agency disbursed 51 billion dirhams of direct social assistance to nearly four million families, deposited monthly into payment accounts (TelQuel).",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Direct social assistance via payment accounts",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Direct social assistance payment accounts",
+   "country_label": "Morocco",
+   "class": "g2p",
+   "platform": "payment accounts",
+   "owner": "National Social Support Agency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,4 @@
+{"slug": "2026-09-16-mwi-malawi24-drops-expiry-dates-national-ids", "studies": {
+"registry": {"countries": {
+"MWI": {"facts": [], "systems": [{"system": "Nzika Digital ID Wallet", "country_label": "Nzika Digital ID Wallet", "class": "other", "platform": "mobile wallet, QR code", "owner": "National Registration Bureau", "tiers": ""}], "note": "The document is about national ID cards and a digital ID wallet (identity); it states nothing on digital entry of births or deaths at civil registration offices."}}}
+}}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-02-zwe-cash-transfer-scheme-lacks-transparency",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "payments",
+   "value": "electronic",
+   "fact": "Gemnation reports that the Harmonised Social Cash Transfer programme pays beneficiaries by electronic transfer (EcoCash), citing the Auditor-General's note that the payment method has changed from cash.",
+   "as_of": "2024-07-02",
+   "date_precision": "day",
+   "system": "Harmonised Social Cash Transfer",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

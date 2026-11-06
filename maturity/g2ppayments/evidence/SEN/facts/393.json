@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-01-sen-la-poste-et-mobile-money-comment-seront-versees-les-bourses-de-securit",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Senegal's Ministry of Family, Social Action and Solidarities says payments of the family security grants (bourses de securite familiale) to 469,497 families will go through La Poste and mobile money operators, with the payment calendar still being prepared and an end-September deadline.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Bourses de securite familiale",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bourses de securite familiale",
+   "country_label": "Bourses de securite familiale",
+   "class": "g2p",
+   "platform": "La Poste and mobile money operators",
+   "owner": "Ministere de la Famille, de l'Action sociale et des Solidarites",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

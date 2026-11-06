@@ -1,0 +1,17 @@
+{"slug": "2026-01-07-lso-quthing-shuts-23-pension-pay-points", "studies": {
+"businesspayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No consumer rules or complaints body stated."}}},
+"crossborderpayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing cross-border."}}},
+"g2ppayments": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "Lesotho News Agency reports that 23 of 30 cash pay-points for the elderly pension grant in Quthing district have closed after more than 4,800 beneficiaries were enrolled on mobile money (M-Pesa and EcoCash) since September 2024, with over 1,000 still paid in cash.", "as_of": "2026-01-07", "date_precision": "day", "system": "mobile money pension payment (Mpesa and Eco-cash)", "class": "g2p"}
+], "systems": [
+{"system": "M-Pesa", "country_label": "Lesotho", "class": "retail", "platform": "mobile money", "owner": "", "tiers": ""},
+{"system": "EcoCash", "country_label": "Lesotho", "class": "retail", "platform": "mobile money", "owner": "", "tiers": ""}
+], "note": ""}}},
+"paymentsuptake": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No account-ownership survey figure."}}},
+"retailpayments": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Lesotho News Agency reports pension beneficiaries in Quthing district are paid through M-Pesa and EcoCash mobile money, which it calls a successful rollout.", "as_of": "2026-01-07", "date_precision": "day", "system": "M-Pesa and EcoCash", "class": "retail"}
+], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

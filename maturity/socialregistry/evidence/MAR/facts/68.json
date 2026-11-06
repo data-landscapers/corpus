@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-24-mar-morocco-expands-direct-social-support-with-data-driven-reform",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The government's written answer says registration in the Unified Social Register (RSU) generates a household score from 35 urban or 28 rural variables under Law 72.18, and households' data are updated at least yearly.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Unified Social Register (RSU)",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "programmes",
+   "value": "several",
+   "fact": "The government's written answer says the RSU-based system is the reference framework for access to social support programmes, including direct cash transfers and mandatory basic health insurance.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Unified Social Register (RSU)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified Social Register",
+   "country_label": "RSU",
+   "class": "social",
+   "platform": "",
+   "owner": "National Agency for Registers",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

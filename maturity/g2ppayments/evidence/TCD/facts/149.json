@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-29-tcd-le-transfert-monetaire-aux-menages-vulnerables",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The Cellule Filets sociaux coordinator said the government safety-net cash transfers are paid through two mechanisms, contracts with microfinance institutions and with mobile telephone operators, while in Bahr El Gazal the agency Express Union pays the transfer in cash.",
+   "as_of": "2025-01-16",
+   "date_precision": "day",
+   "system": "Cellule Filets sociaux payment mechanisms (microfinance and mobile operators)",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Cellule Filets sociaux transfers",
+   "country_label": "Filets sociaux monetary transfers, 45,000 CFA francs a quarter in 11 provinces",
+   "class": "g2p",
+   "platform": "microfinance institutions and mobile operators; Express Union cash in Bahr El Gazal",
+   "owner": "Cellule Filets sociaux (government), World Bank financed",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

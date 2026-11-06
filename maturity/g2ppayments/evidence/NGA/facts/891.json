@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-18-nga-fg-moves-to-include-conditional-cash-transfer-in-national-budgets-disb",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Finance minister Wale Edun said the government has disbursed N330 billion as conditional cash transfers to 8.5 million poor households through NASSCO, paid digitally by direct debit to bank accounts or mobile wallets.",
+   "as_of": "2025-09-17",
+   "date_precision": "day",
+   "system": "NASSCO conditional cash transfer",
+   "class": "g2p"
+  },
+  {
+   "sub_indicator": "g2p",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The finance minister said beneficiaries are verified through their National Identity Number and payments are linked to NIN-to-account linking, and NASSCO's coordinator said disbursements are tied to NIN for integrity.",
+   "as_of": "2025-09-17",
+   "date_precision": "day",
+   "system": "NASSCO conditional cash transfer",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NASSCO conditional cash transfer",
+   "country_label": "Nigeria",
+   "class": "g2p",
+   "platform": "bank accounts and mobile wallets",
+   "owner": "National Social Safety Net Coordinating Office (NASSCO)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

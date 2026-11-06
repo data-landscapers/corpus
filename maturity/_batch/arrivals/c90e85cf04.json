@@ -1,0 +1,20 @@
+{"slug": "2024-01-01-zmb-codevelop-zambia-ekyc-openg2p", "studies": {
+"authentication": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "Co-Develop says an eKYC platform on MOSIP and e-Signet, with the NRC number as legal identifier, had a successful proof of concept in April 2024.", "as_of": "2024-04", "date_precision": "month", "system": "eKYC platform (MOSIP, e-Signet)", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Co-Develop says the eKYC identity verification system has been extended to emergency drought relief and electronic health records after the April 2024 proof of concept.", "as_of": "2024", "date_precision": "year", "system": "eKYC platform (MOSIP, e-Signet)", "class": "authentication"}
+], "systems": [{"system": "eKYC platform", "country_label": "Zambia eKYC", "class": "authentication", "platform": "MOSIP, e-Signet", "owner": "", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document says nothing on civil register and ID links."}}},
+"egovservices": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "A centralised government portal is named only as an initiative focus, with no launch or service stated."}}},
+"g2ppayments": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "Co-Develop says Zambia has rolled out the OpenG2P platform to manage government-to-person payments.", "as_of": "2024", "date_precision": "year", "system": "OpenG2P", "class": "g2p"}
+], "systems": [{"system": "OpenG2P", "country_label": "OpenG2P", "class": "g2p", "platform": "OpenG2P", "owner": "", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No enrolment count or share given."}}},
+"idfrombirth": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Document says nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "MOSIP is named for the eKYC platform, not for operation or ownership of the national ID system."}}},
+"idregisters": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No register keyed on the ID number is named."}}},
+"idrobustness": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "The NRC number is named as legal identifier but nothing on how the ID system issues or checks."}}},
+"idverification": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "Co-Develop says the eKYC platform verifies identity against the NRC number and has been extended to emergency drought relief and electronic health records.", "as_of": "2024", "date_precision": "year", "system": "eKYC platform (MOSIP, e-Signet)", "class": "relying"},
+{"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "Co-Develop says the NRC-based eKYC is used for emergency drought relief and for electronic health records.", "as_of": "2024", "date_precision": "year", "system": "eKYC platform (MOSIP, e-Signet)", "class": "relying"}
+], "systems": [], "note": ""}}}
+}}

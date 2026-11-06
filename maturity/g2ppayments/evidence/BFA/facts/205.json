@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-21-bfa-carfo-a-partir-du-4eme-trimestre-2024-paiement-par-mobile-money-des-ar",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "CARFO, the civil servants' pension fund, announced that from the fourth quarter of 2024 it will pay pensions and annuities by mobile money to pensioners now paid in cash or by cheque, with bank transfer as the alternative.",
+   "as_of": "2024-08-21",
+   "date_precision": "day",
+   "system": "CARFO pension payment",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CARFO pension payment",
+   "country_label": "Burkina Faso",
+   "class": "g2p",
+   "platform": "mobile money (Orange or Moov) or bank transfer",
+   "owner": "CARFO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

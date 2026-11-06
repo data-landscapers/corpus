@@ -1,0 +1,36 @@
+{
+ "slug": "2024-03-04-caf-bientot-le-paiement-des-salaires-des-fonctionnaires-centrafricains-par",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The Patapaye project, funded by the World Bank, IMF and EU, began a mobile money salary-payment test in March 2020 with about 250 employees, and authorities announced enrolment of civil servants intensified across at least 14 prefectures.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Patapaye",
+   "class": "g2p"
+  },
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Business & Finance International reports that civil servants' salaries are domiciled at Ecobank Centrafrique and the Banque populaire maroco-centrafricaine, and that bank transfers exist alongside direct cash payment as salary payment modes.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Civil service salary bank transfers",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Patapaye",
+   "country_label": "Central African Republic",
+   "class": "g2p",
+   "platform": "mobile money (Orange, Telecel)",
+   "owner": "Government of the Central African Republic",
+   "tiers": "national, 14 prefectures at least"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-02-zwe-cash-transfer-scheme-lacks-transparency",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Gemnation reports that the Harmonised Social Cash Transfer programme uses electronic payments (EcoCash) instead of cash in transit, with 75,000 beneficiary households registered in 30 districts.",
+   "as_of": "2024-07-02",
+   "date_precision": "day",
+   "system": "Harmonised Social Cash Transfer",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Harmonised Social Cash Transfer (HSCT)",
+   "country_label": "Zimbabwe",
+   "class": "g2p",
+   "platform": "EcoCash",
+   "owner": "Ministry of Public Service, Labour and Social Welfare",
+   "tiers": "30 districts"
+  }
+ ],
+ "note": ""
+}

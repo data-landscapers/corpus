@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-05-revenue-sharing-data-sovereignty-concerns-arise-from-liberia-id-card-concession",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "A draft concession signed with OeSD International, valued at $52 million to $54.7 million and before parliament, would upgrade Liberia's national biometric ID infrastructure.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "National biometric ID infrastructure",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

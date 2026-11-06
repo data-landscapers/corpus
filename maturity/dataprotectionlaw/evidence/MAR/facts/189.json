@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-10-mar-anss-un-an-apres-quel-impact-sur-le-soutien-social",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The ANSS annual report, as reported by Le Brief, lists CNDP authorisations obtained for processing linked to direct social aid, complaints and statistical surveys.",
+   "as_of": "2025",
+   "date_precision": "month",
+   "system": "CNDP",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The ANSS annual report, as reported by Le Brief, lists CNDP authorisations granted for three kinds of processing by the ANSS.",
+   "as_of": "2025",
+   "date_precision": "month",
+   "system": "CNDP",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

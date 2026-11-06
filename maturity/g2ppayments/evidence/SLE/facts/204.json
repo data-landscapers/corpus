@@ -1,0 +1,26 @@
+{
+ "slug": "2025-04-01-sle-afrimoney-partners-with-nacsa-for-safe-cash-transfers-to-elderly-peopl",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Sierraloaded reports NaCSA signed an agreement with Afrimoney on 15 April 2025 to deliver cash transfers to over 11,600 elderly beneficiaries under a World Bank-funded safety-net programme; no payments yet stated as made.",
+   "as_of": "2025-04-15",
+   "date_precision": "day",
+   "system": "Afrimoney",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Afrimoney",
+   "country_label": "Sierra Leone",
+   "class": "g2p",
+   "platform": "mobile money",
+   "owner": "Afrimoney",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

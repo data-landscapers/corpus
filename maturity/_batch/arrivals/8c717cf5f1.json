@@ -1,0 +1,17 @@
+{"slug": "2026-11-05-revenue-sharing-data-sovereignty-concerns-arise-from-liberia-id-card-concession", "studies": {
+"authentication": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Document names no authentication, e-signature or mobile ID service."}}},
+"birthidlink": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Document says nothing on civil register and ID links."}}},
+"digitalsovereignty": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "NIR Executive Director Andrew Peters told a press conference in August that all data of the national ID scheme will be stored within Liberia and that OeSD will not be allowed to control it.", "as_of": "2026-08", "date_precision": "month", "system": "National ID system (OeSD concession)", "class": "sovereignty"}
+], "systems": [{"system": "National ID system under OeSD concession", "country_label": "Liberia national ID system", "class": "sovereignty", "platform": "OeSD International", "owner": "National Identification Registry", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No count or share of people enrolled; the 10 million record capacity is a design figure."}}},
+"idfrombirth": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Document says nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "maintenance", "aspect": "operation", "value": "transfer", "fact": "NIR Executive Director Andrew Peters said OeSD would finance nationwide enrolment and ID issuance under the concession, recover its investment over time and eventually transfer the system to the government.", "as_of": "2026-11-05", "date_precision": "day", "system": "National ID system (OeSD concession)", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"idregisters": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No register keyed on the ID number is named."}}},
+"idrobustness": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "A draft concession signed with OeSD International, valued at $52 million to $54.7 million and before parliament, would upgrade Liberia's national biometric ID infrastructure.", "as_of": "2026-11-05", "date_precision": "day", "system": "National biometric ID infrastructure", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"nonstatefinance": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The concession is a draft before parliament, not a signed deal; the May MoU carries no amount."}}}
+}}

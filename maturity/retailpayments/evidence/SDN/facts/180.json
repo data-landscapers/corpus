@@ -1,0 +1,50 @@
+{
+ "slug": "2024-02-07-sdn-digital-money-apps-become-a-lifeline-for-war-affected-sudanese",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The New Humanitarian reports mobile and banking apps including Bankak, Ocash, MyCash and RittalPay are in use for payments, Bankak having seven million users.",
+   "as_of": "2024-02-07",
+   "date_precision": "day",
+   "system": "Bankak",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bankak",
+   "country_label": "Sudan",
+   "class": "retail",
+   "platform": "app",
+   "owner": "Bank of Khartoum",
+   "tiers": ""
+  },
+  {
+   "system": "Ocash",
+   "country_label": "Sudan",
+   "class": "retail",
+   "platform": "app",
+   "owner": "Omdurman National Bank",
+   "tiers": ""
+  },
+  {
+   "system": "MyCash",
+   "country_label": "Sudan",
+   "class": "retail",
+   "platform": "mobile wallet",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "RittalPay",
+   "country_label": "Sudan",
+   "class": "retail",
+   "platform": "mobile wallet",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

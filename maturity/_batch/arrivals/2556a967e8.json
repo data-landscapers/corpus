@@ -1,0 +1,311 @@
+{
+ "slug": "2025-01-01-uga-gender-data-and-digital-transformation-in-uganda",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Administrative data named as a source only; no published statistics from it stated."
+    }
+   }
+  },
+  "broadbandstrategy": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a recommendation to implement the broadband policy; no standing or targets stated."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "UBOS states Uganda's first-ever digital Population and Housing Census was conducted in May 2024.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "Population and Housing Census 2024",
+       "class": "census"
+      },
+      {
+       "sub_indicator": "census",
+       "aspect": "results",
+       "value": "preliminary",
+       "fact": "UBOS lists the Population and Housing Census (2024 provisional) as a main source and gives a 2024 population of 45.9 million.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Population and Housing Census 2024",
+       "class": "census"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Population and Housing Census 2024",
+       "country_label": "NPHC 2024",
+       "class": "census",
+       "platform": "digital",
+       "owner": "UBOS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "UBOS names the Data Protection and Privacy Act (2019) as strengthening digital rights.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Data Protection and Privacy Act 2019",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection and Privacy Act 2019",
+       "country_label": "Data Protection and Privacy Act 2019",
+       "class": "general",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "backbone",
+       "aspect": "reach",
+       "value": "in-service",
+       "fact": "UBOS states the National Backbone Infrastructure connects 600+ government institutions and districts.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "National Backbone Infrastructure",
+       "class": "backbone"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Backbone Infrastructure",
+       "country_label": "National Backbone Infrastructure",
+       "class": "backbone",
+       "platform": "fibre",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only figures for individuals aged 10 and above, garbled and not a whole-population share."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Backbone reaching districts names no local government office connected."
+    }
+   }
+  },
+  "opendatause": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "access",
+       "value": "published",
+       "fact": "UBOS states it maintains public data portals including NSO Open Data, a Spatial Data Portal and a Gender Statistics Portal.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "NSO Open Data",
+       "class": "open"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NSO Open Data",
+       "country_label": "NSO Open Data",
+       "class": "open",
+       "platform": "portal",
+       "owner": "UBOS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Uganda."
+    }
+   }
+  },
+  "statisticsstrategy": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a gender-statistics strategy integrated into the extended PNSD; no period or adoption stated."
+    }
+   }
+  }
+ }
+}

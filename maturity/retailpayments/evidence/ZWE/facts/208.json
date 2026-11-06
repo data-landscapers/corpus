@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-02-zwe-cash-transfer-scheme-lacks-transparency",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Gemnation reports that cash transfer beneficiaries are paid through EcoCash, and that urban residents were told to register on NetOne One Wallet lines.",
+   "as_of": "2024-07-02",
+   "date_precision": "day",
+   "system": "EcoCash",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OneWallet",
+   "country_label": "Zimbabwe",
+   "class": "retail",
+   "platform": "NetOne",
+   "owner": "NetOne",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

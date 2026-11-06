@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-04-nga-how-fg-selects-beneficiaries-for-n50-000-relief",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Federal Government's National Emergency Relief and Stabilisation Intervention pays selected beneficiaries N50,000 into a mobile wallet, with disbursement announced as started by the humanitarian affairs minister on 30 October 2026 and payments continuing in phases.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "National Emergency Relief and Stabilisation Intervention (NERSI)",
+   "class": "g2p"
+  },
+  {
+   "sub_indicator": "g2p",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The ministry's NERSI website says beneficiaries are selected from verified national identity records and the National Social Register, enrolment in both is a prerequisite, and the NIN is linked to the mobile wallet that receives the payment.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "National Emergency Relief and Stabilisation Intervention (NERSI)",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Emergency Relief and Stabilisation Intervention (NERSI)",
+   "country_label": "Nigeria",
+   "class": "g2p",
+   "platform": "mobile wallets (ALAT by Wema, MoMo PSB, NairaGram, OPay, Moniepoint)",
+   "owner": "Federal Ministry of Humanitarian Affairs and Poverty Reduction",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

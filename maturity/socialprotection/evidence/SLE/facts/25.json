@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-01-sle-ministry-of-labour-embarks-on-cash-transfer-of-nle1-018-to-poor-sierra",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The ministry and NaCSA completed a digitized registration, verification and enrolment process for 13,091 aged beneficiaries before the cash transfer.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "digitized registration, verification and enrolment process",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "digitized registration, verification and enrolment process",
+   "country_label": "Sierra Leone",
+   "class": "socialmis",
+   "platform": "",
+   "owner": "Ministry of Employment, Labour and Social Security / NaCSA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

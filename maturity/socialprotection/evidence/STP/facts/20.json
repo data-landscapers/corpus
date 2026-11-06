@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-01-stp-em-powered-by-openimis-the-island-nation-sao-tome-and-principe-is-effe",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "openIMIS says the government adopted Ke-Non, built on CORE-MIS and openIMIS, in May 2023 to manage the national social protection system and its conditional cash transfer programme, housed at the Institute of Innovation and Knowledge.",
+   "as_of": "2023-05",
+   "date_precision": "month",
+   "system": "Ke-Non",
+   "class": "socialmis"
+  },
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "payments",
+   "value": "electronic",
+   "fact": "openIMIS says Ke-Non's payment module works with Banco Internacional de Sao Tome e Principe for the conditional cash transfer programme.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Ke-Non",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ke-Non",
+   "country_label": "Ke-Non",
+   "class": "socialmis",
+   "platform": "CORE-MIS / openIMIS",
+   "owner": "Institute of Innovation and Knowledge",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

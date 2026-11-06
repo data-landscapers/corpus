@@ -1,0 +1,7 @@
+{"slug": "2023-11-19-cod-evaluation-de-la-bancarisation-de-la-paie-des-agents-publics-les-banqu", "studies": {
+"civilserviceskills": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document covers payroll bancarisation, not digital-skills training for civil servants."}}},
+"electoralregister": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on a voters' roll; a reader comment mentions the voter card as pay ID only."}}},
+"idcoverage": {"countries": {"COD": {"facts": [], "systems": [], "note": "No count or share of people holding a national ID is given."}}},
+"idrobustness": {"countries": {"COD": {"facts": [], "systems": [], "note": "No national ID system is described."}}},
+"paymentsuptake": {"countries": {"COD": {"facts": [], "systems": [], "note": "No survey share of adults with an account is given."}}}
+}}

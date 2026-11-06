@@ -1,0 +1,3 @@
+{"slug": "2024-01-17-cpv-so-em-2023-electra-atingiu-perdas-de-24-6-na-producao-de-energia", "studies": {
+"gridreliability": {"countries": {"CPV": {"facts": [], "systems": [{"system": "Electra Norte SAIFI, January-September 2023", "country_label": "10.6 interruptions (0.88 a month), Electra Norte only", "class": "other", "platform": "", "owner": "Electra", "tiers": "region"}, {"system": "Electra Sul SAIFI, January-September 2023", "country_label": "28.8 interruptions (2.40 a month), Electra Sul only", "class": "other", "platform": "", "owner": "Electra", "tiers": "region"}], "note": "Figures are for the two Electra regions separately, for a nine-month period, with no whole-country figure."}}}
+}}

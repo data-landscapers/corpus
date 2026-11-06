@@ -1,0 +1,34 @@
+{
+ "slug": "2025-08-25-caf-le-calvaire-de-ces-centrafricains-de-province-contraints-de-se-rendre",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "RFI reports that a civil servant in Kaga-Bandoro receives money transferred to his Orange Money account and withdraws it at local kiosks, though cash liquidity there is scarce.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Orange Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange Money",
+   "country_label": "Central African Republic",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Orange Centrafrique",
+   "tiers": ""
+  },
+  {
+   "system": "BGFI Mobile",
+   "country_label": "Central African Republic",
+   "class": "other",
+   "platform": "bank app",
+   "owner": "BGFI Bank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

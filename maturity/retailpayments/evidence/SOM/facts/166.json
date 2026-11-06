@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-som-unconditional-cash-transfer",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Baxnaano page tells beneficiaries to keep an active mobile wallet and registered number to receive cash transfers through mobile money.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

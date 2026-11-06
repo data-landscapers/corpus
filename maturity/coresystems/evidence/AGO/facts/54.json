@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-04-ago-vera-daves-pede-celeridade-na-actualizacao-de-dados-cadastrais-de-funcionarios-f",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "Angola's Ministry of Finance says audits cross-checked data from the newly launched civil service human resources system SINGERH against state payrolls, flagging more than 31,000 suspected ghost workers.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "SINGERH",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SINGERH",
+   "country_label": "Sistema Integrado de Gestao de Recursos Humanos da Funcao Publica (SINGERH)",
+   "class": "core",
+   "platform": "",
+   "owner": "MAPTSS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

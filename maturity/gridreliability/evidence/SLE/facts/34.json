@@ -1,0 +1,15 @@
+{
+ "slug": "2024-10-22-sle-over-18-000-power-interruptions-recorded-in-2022",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EDSA supply interruptions 2022",
+   "country_label": "18,231 interruptions recorded in 2022, a count with no per-customer frequency",
+   "class": "other",
+   "platform": "",
+   "owner": "EDSA",
+   "tiers": "national"
+  }
+ ],
+ "note": "A count of interruptions and a share of firms with four or more outages a month, not a typical monthly figure per firm or a per-customer frequency."
+}

@@ -1,0 +1,21 @@
+{"slug": "2026-11-05-gha-ghana-must-protect-its-data-sovereignty-commission", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Only says the Data Protection Act review would cover AI; no published draft or AI-harm rule stated."}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on AI use in administration."}}},
+"aisectoral": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on sector AI systems."}}},
+"aisystems": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on AI built or hosted in Ghana."}}},
+"datacentres": {"countries": {"GHA": {"facts": [], "systems": [], "note": "States eight data centres in Ghana but not that they rent to others, or any Tier or cloud region."}}},
+"dataprotectionauthority": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "Dr Arnold Kavaarpuo, executive director of Ghana's Data Protection Commission, spoke for the commission at a GIMPA lecture, and the commission said it registered more entities in September 2026 than in all previous years.", "as_of": "2026-10-28", "date_precision": "day", "system": "Data Protection Commission", "class": "authority"}
+], "systems": [{"system": "Data Protection Commission", "country_label": "Ghana", "class": "authority", "platform": "", "owner": "government", "tiers": ""}], "note": "No ruling against a named organisation or published count of decisions stated."}}},
+"dataprotectionlaw": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The Data Protection Act, 2012 (Act 843) is the current law, under which processing personal data without registering with the commission is an offence carrying two years in prison, and it is undergoing review, per the commission's executive director.", "as_of": "2026-10-28", "date_precision": "day", "system": "Data Protection Act, 2012 (Act 843)", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The Data Protection Commission, led by executive director Dr Arnold Kavaarpuo, is acting under the Act.", "as_of": "2026-10-28", "date_precision": "day", "system": "Data Protection Commission", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The commission's executive director said it registered more entities in September 2026 than in all its previous years, focusing on the public sector first.", "as_of": "2026-09", "date_precision": "month", "system": "Data Protection Commission", "class": "general"}
+], "systems": [], "note": ""}}},
+"digitalsovereignty": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Only a proposal by the commission's head to keep a copy of health, financial, energy and resource data in Ghana; no government goal or rule stated."}}},
+"idrobustness": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on national ID."}}},
+"nationaldatacentres": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No ownership, hire or Tier stated for Ghana's eight data centres."}}},
+"regionalpolicy": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "Ghana's Data Protection Commission executive director chairs the working group on cross-border data transfers at the Network of African Data Protection Authorities.", "as_of": "2026-10-28", "date_precision": "day", "system": "Network of African Data Protection Authorities", "class": "cooperation"}
+], "systems": [], "note": ""}}}
+}}

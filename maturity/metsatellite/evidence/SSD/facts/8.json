@@ -1,0 +1,15 @@
+{
+ "slug": "2025-10-20-south-sudan-joint-food-security-monitor",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Joint Food Security Monitor",
+   "country_label": "World Bank monthly food-security alerts using satellite NDVI and rainfall for 78 admin-2 areas",
+   "class": "other",
+   "platform": "",
+   "owner": "World Bank",
+   "tiers": "sub-national"
+  }
+ ],
+ "note": "A World Bank food-security alert dataset; no national meteorological service is named."
+}

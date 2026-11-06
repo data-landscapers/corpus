@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-01-egy-social-solidarity-launches-june-takaful-and-karama-disbursement",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "payments",
+   "value": "electronic",
+   "fact": "The Ministry of Social Solidarity said Takaful and Karama beneficiaries, 4.7 million families, receive June 2026 payments electronically through bank ATMs, Nasser Social Bank branches, Fawry outlets and the programme's Meeza cards.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Takaful and Karama",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Takaful and Karama",
+   "country_label": "Egypt",
+   "class": "socialmis",
+   "platform": "Meeza cards, Fawry, ATMs",
+   "owner": "Ministry of Social Solidarity",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

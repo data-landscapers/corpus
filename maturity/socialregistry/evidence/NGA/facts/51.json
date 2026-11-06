@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-18-nga-fg-moves-to-include-conditional-cash-transfer-in-national-budgets-disb",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The finance minister said about 19.7 million poor and vulnerable households, over 70 million individuals, are captured in the National Social Register, which NASSCO says was built on over 40 socioeconomic variables with the World Bank.",
+   "as_of": "2025-09-17",
+   "date_precision": "day",
+   "system": "National Social Register",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "NASSCO attributed 2.2 million households added between June and August 2025 to successful BVN/NIN validation, and the minister said beneficiaries are verified through their NIN.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "National Social Register",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Social Register",
+   "country_label": "Nigeria",
+   "class": "social",
+   "platform": "",
+   "owner": "National Social Safety Net Coordinating Office (NASSCO)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

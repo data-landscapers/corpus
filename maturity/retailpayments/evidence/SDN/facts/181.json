@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-16-sdn-alnser-social-safety-commission-sudani-sah-ussd-cash-transfers",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Sudatel group's Khalid Ibrahim said the licensed Sah service from Sudani is in service as a digital account combining e-wallets and bank accounts, opened by short code without internet.",
+   "as_of": "2026-06-16",
+   "date_precision": "day",
+   "system": "Sah",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sah",
+   "country_label": "Sudan",
+   "class": "retail",
+   "platform": "app and USSD",
+   "owner": "Sudani (Fintech Sudani)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

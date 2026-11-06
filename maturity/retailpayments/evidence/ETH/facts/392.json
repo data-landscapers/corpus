@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-15-eth-leveraging-e-payments-for-financial-inclusion-in-ethiopia",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The World Bank says Ethiopia has expanded financial inclusion by promoting adoption of mobile money services, and names Telebirr as a mobile money service.",
+   "as_of": "2024-03-15",
+   "date_precision": "day",
+   "system": "Telebirr",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Telebirr",
+   "country_label": "Ethiopia",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

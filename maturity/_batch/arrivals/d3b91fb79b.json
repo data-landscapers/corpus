@@ -1,0 +1,13 @@
+{"slug": "2024-06-21-mdg-service-pour-le-paiement-des-transferts-monetaires-par-le-mobile-money", "studies": {
+"businesspayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "The tender is run by paper submission under World Bank rules; no e-procurement system is stated."}}},
+"businessregister": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing stated about business registration."}}},
+"centralbank": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing stated about the central bank."}}},
+"consumerprotection": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing stated about consumer protection."}}},
+"crossborderpayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing stated about cross-border payments."}}},
+"g2ppayments": {"countries": {"MDG": {"facts": [{"sub_indicator": "g2p", "aspect": "payment", "value": "underway", "fact": "FID, with World Bank financing for the Projet Filets de Sécurité et de Résilience, opened national tender 05/2024 on 21 June 2024 to procure payment of cash transfers by mobile money in 67 lots of communes, with bids due 23 July 2024.", "as_of": "2024-06-21", "date_precision": "day", "system": "Projet Filets de Sécurité et de Résilience (PFSR) mobile money cash transfers", "class": "g2p"}], "systems": [{"system": "PFSR mobile money cash-transfer payment service", "country_label": "Madagascar", "class": "g2p", "platform": "mobile money", "owner": "Fonds d'Intervention pour le Développement (FID)", "tiers": "67 lots of communes"}], "note": ""}}},
+"localgov": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Communes appear only as tender lots; no office connection is stated."}}},
+"paymentsuptake": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No account-ownership survey share stated."}}},
+"retailpayments": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Mobile money is named only as the channel being tendered for; no retail service status is stated."}}},
+"revenuecollection": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing stated about revenue payment."}}},
+"socialprotection": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No programme management information system is named."}}}
+}}

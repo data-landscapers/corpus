@@ -1,0 +1,115 @@
+{
+ "slug": "2024-07-24-moz-fmi-sugere-a-mocambique-pagar-apoios-traves-de-carteiras-digitais",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for MOZ."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for MOZ."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for MOZ."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for MOZ."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "IMF only suggests exploring mobile-money payment of INAS benefits; nothing delivered."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for MOZ."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Account figures are counts of accounts as a share of adults, not a survey of people."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for MOZ."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing the study asks for MOZ."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Notícias ao Minuto (Lusa) reports that Mozambique has three e-money institutions run by its three mobile operators, providing financial services by phone including transfers between customers and payment for services, with over 400 million wallet transfers in 2023 per central bank data.",
+       "as_of": "2024-07-24",
+       "date_precision": "day",
+       "system": "Instituições de Moeda Eletrónica (mobile money)",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Instituições de Moeda Eletrónica (mobile money)",
+       "country_label": "Mozambique",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "three mobile telecom operators",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

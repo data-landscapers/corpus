@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-29-cmr-renforcer-la-resilience-comment-l-argent-mobile-a-transforme-la-repons",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "underway",
+   "fact": "The World Bank blog says the 2022 adaptive social safety nets project is developing a national social registry to identify beneficiaries and coordinate social aid.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "registre social national",
+   "class": "social"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

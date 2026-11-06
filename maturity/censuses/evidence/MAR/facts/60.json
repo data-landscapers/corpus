@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-24-mar-morocco-expands-direct-social-support-with-data-driven-reform",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The government's November 2025 written answer says it is drawing on data from the 2024 General Population and Housing Census to examine updating the scoring methodology.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "General Population and Housing Census 2024",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

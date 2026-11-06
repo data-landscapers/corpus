@@ -1,0 +1,117 @@
+{
+ "slug": "2026-11-05-paga-expands-direct-debit-access-for-businesses-beyond-its-network",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for NGA."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for NGA."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for NGA."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "In January 2026 Paga announced a PayPal partnership that enabled Nigerian freelancers to receive payments from international customers, per TechCabal.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "Paga-PayPal",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Paga-PayPal",
+       "country_label": "Nigeria",
+       "class": "crossborder",
+       "platform": "PayPal",
+       "owner": "Paga",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for NGA."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for NGA."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Paga Engine provides wallet services letting other businesses host wallets on Paga, and processed about $12 billion across about 100 million transactions in 2025, according to its general manager.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "Paga wallets",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Paga",
+       "country_label": "Nigeria",
+       "class": "retail",
+       "platform": "wallet",
+       "owner": "Paga",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for NGA."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-20-civ-resume-executif-enquete-nationale-msi-2024",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "share",
+   "value": "quarter",
+   "fact": "ARTCI's MSI 2024 survey finds 50.3% of individuals aged 5 and over hold a personal mobile money account, over 13 million people (men 55.4%, women 45.1%); the base is not adults.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Enquête nationale MSI 2024",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

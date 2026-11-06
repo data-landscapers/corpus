@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-05-safaricom-makes-more-from-m-pesa-overdrafts-as-borrower-numbers-surge",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Safaricom said M-PESA revenue rose 13.6% to KES 100.07 billion in the six months to September 2026, with its Fuliza overdraft service letting customers complete transactions.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "M-PESA",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-PESA",
+   "country_label": "Kenya",
+   "class": "retail",
+   "platform": "",
+   "owner": "Safaricom",
+   "tiers": ""
+  },
+  {
+   "system": "Fuliza",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "M-PESA",
+   "owner": "Safaricom with NCBA Bank and KCB",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-15-caf-cash-vs-digital-how-do-digital-government-to-person-payments-ease-the",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The World Bank G2Px blog reports that recipients of Morocco's DAAM program valued receiving payments into an account, enabling ATM withdrawals 24 hours a day with no waiting.",
+   "as_of": "2024-03-15",
+   "date_precision": "day",
+   "system": "DAAM account payments",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DAAM account payments",
+   "country_label": "Morocco",
+   "class": "g2p",
+   "platform": "",
+   "owner": "Government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

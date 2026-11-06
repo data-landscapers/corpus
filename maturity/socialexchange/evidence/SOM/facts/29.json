@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-som-unconditional-cash-transfer",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The page says households for the Baxnaano UCT are identified from the Unified Social Registry by an automated proxy means test, and each selected household is given a Social Registry Number used at enrolment.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Unified Social Registry",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

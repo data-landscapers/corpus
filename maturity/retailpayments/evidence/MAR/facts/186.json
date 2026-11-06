@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-02-mar-digital-payment-the-failed-revolution-against-the-reign-of-cash",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Morocco has twenty-one mobile wallet offerings, and in 2024 mobile wallet transactions reached 19.7 million totalling 3.9 billion dirhams, per Bank Al-Maghrib's annual report on payment methods.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Mobile wallets",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile wallets",
+   "country_label": "Morocco",
+   "class": "retail",
+   "platform": "mobile wallet",
+   "owner": "payment institutions (12 of 21 offerings)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

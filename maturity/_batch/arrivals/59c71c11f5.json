@@ -1,0 +1,26 @@
+{"slug": "2025-12-24-mar-morocco-expands-direct-social-support-with-data-driven-reform", "studies": {
+"birthidlink": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"censuses": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "census", "aspect": "census", "value": "taken", "fact": "The government's November 2025 written answer says it is drawing on data from the 2024 General Population and Housing Census to examine updating the scoring methodology.", "as_of": "2024", "date_precision": "year", "system": "General Population and Housing Census 2024", "class": "census"}
+], "systems": [], "note": ""}}},
+"disabilityaccess": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Disability support is a cash allowance with nothing on information or digital access."}}},
+"g2ppayments": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "g2p", "aspect": "linked", "value": "linked", "fact": "The government's written answer says Direct Social Support eligibility rests on household scoring in the Unified Social Register, with monthly electronic data exchanges used to verify ongoing eligibility.", "as_of": "2025-11", "date_precision": "month", "system": "Direct Social Support Program", "class": "g2p"}
+], "systems": [], "note": ""}}},
+"idfrombirth": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"localgov": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on local government connection."}}},
+"populationregister": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "The government's written answer says the targeting system under Law 72.18 relies on two databases, the National Population Register (RNP) and the Unified Social Register.", "as_of": "2025-11", "date_precision": "month", "system": "National Population Register (RNP)", "class": "population"},
+{"sub_indicator": "population", "aspect": "used", "value": "source", "fact": "The government's written answer says the unified targeting system for social support programmes relies on the National Population Register as one of its two databases.", "as_of": "2025-11", "date_precision": "month", "system": "National Population Register (RNP)", "class": "population"}
+], "systems": [{"system": "National Population Register", "country_label": "RNP", "class": "population", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"schools": {"countries": {"MAR": {"facts": [], "systems": [], "note": "School attendance appears only as an allowance condition and a planned monitoring role."}}},
+"socialexchange": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The government's written answer says monthly electronic data exchanges let managing bodies verify beneficiaries' ongoing eligibility, and the National Agency for Registers checks household data against information shared by public administrations.", "as_of": "2025-11", "date_precision": "month", "system": "Unified Social Register", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "registry", "value": "shared", "fact": "The government's written answer says the Unified Social Register is the reference framework for access to social support programmes, including direct cash transfers and mandatory basic health insurance for those unable to pay contributions.", "as_of": "2025-11", "date_precision": "month", "system": "Unified Social Register", "class": "exchange"}
+], "systems": [], "note": ""}}},
+"socialprotection": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The Unified Social Register is a social registry on its own; no programme management system is described."}}},
+"socialregistry": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "social", "aspect": "registry", "value": "inservice", "fact": "The government's written answer says registration in the Unified Social Register (RSU) generates a household score from 35 urban or 28 rural variables under Law 72.18, and households' data are updated at least yearly.", "as_of": "2025-11", "date_precision": "month", "system": "Unified Social Register (RSU)", "class": "social"},
+{"sub_indicator": "social", "aspect": "programmes", "value": "several", "fact": "The government's written answer says the RSU-based system is the reference framework for access to social support programmes, including direct cash transfers and mandatory basic health insurance.", "as_of": "2025-11", "date_precision": "month", "system": "Unified Social Register (RSU)", "class": "social"}
+], "systems": [{"system": "Unified Social Register", "country_label": "RSU", "class": "social", "platform": "", "owner": "National Agency for Registers", "tiers": ""}], "note": ""}}}
+}}
