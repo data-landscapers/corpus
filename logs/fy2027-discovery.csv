@@ -1,53 +1,53 @@
 iso3,fy_start,status,document,url,published,stage_date,checked,notes
-AGO,2027-01,tabled,,,,2026-10-27,2026-10-30,"Cabinet approved 27 Oct; delivered to the Assembleia Nacional 30 Oct (novojornal.co.ao). minfin.gov.ao/oge/proposta-oge has a 2027 tab, no documents yet."
+AGO,2027-01,tabled,Proposta de OGE 2027: Resumo da Dotação Orçamental por Órgão (doc. 12),https://cms.minfin.gov.ao/api/assets/portal-minfin/0ada73f8-0c75-43bd-87e0-2f046d0baf43/,,2026-10-27,2026-11-06,"Delivered to the Assembleia 30 Oct (parlamento.ao); plenary 12 Nov. minfin.gov.ao/oge/proposta-oge now carries the bill, relatório and 13 quadros (uploaded 30 Oct); bill at .../4d86a306-d4dd-4df7-9b8a-f9933d512e6e/."
 BDI,2027-07,not due,,,,,2026-10-30,FY2027 starts July 2027; its bill is tabled from February 2027
-BEN,2027-01,tabled,,,,2026-10-07,2026-10-30,Cabinet sent PLF 2027 to the Assembly 7 Oct; budgetbenin.bj has only the minister's 13 Oct speech. https://lanouvelletribune.info/2026/10/projet-de-loi-de-finances-2027-au-benin-un-budget-a-fort-impact-social-et-economique-envoye-au-parlement/
-BFA,2027-01,tabled,,,,2026-10-08,2026-10-30,"Cabinet adopted 8 Oct, sent to the Assembly; library has only DPBEP 2027-2029 and circulars. https://fr.apanews.net/?p=325487"
+BEN,2027-01,tabled,,,,2026-10-07,2026-11-06,"Sent to the Assembly 7 Oct; commission hearings 16-30 Nov (beninwebtv.bj, 1 Nov). budgetbenin.bj still has only the minister's speech; PLF text not online."
+BFA,2027-01,tabled,,,,2026-10-08,2026-11-06,"Cabinet adopted 8 Oct, sent to the ALP (apanews.net). No PLF text or annexes found online as of 6 Nov (beausale.info, 4 Nov)."
 BWA,2027-04,not due,,,,,2026-10-30,FY2027 starts April 2027; its bill is tabled from February 2027
-CAF,2027-01,not tabled,,,,,2026-10-30,"No FY2027 bill, cabinet adoption or framework found; the 2026 bill went to the Assembly in late 2025."
-CIV,2027-01,tabled,,,,2026-10-14,2026-10-30,Cabinet adopted PLF 2027 14 Oct; dgbf.ci shows nothing past 2026. https://www.fratmat.info/article/2645205/politique/conseil-des-ministres-le-budget-2027-fixe-a-18-466-milliards-de-fcfa
-CMR,2027-01,not tabled,,,,,2026-10-30,DPEB 2027-2029 presented 3 Jul 2026; draft PLF 2027 discussed by government 27 Oct 2026 (cameroon-tribune.cm/articles/12092/fr/details_2).
+CAF,2027-01,not tabled,,,,,2026-11-06,"Not deposited: Assembly session opened 1 Oct with the PLF missing (radiondekeluka.org, 2 Oct); budget conferences from 30 Sep. Nothing later found."
+CIV,2027-01,tabled,,,,2026-10-14,2026-11-06,"Cabinet adopted PLF 2027 14 Oct; before the Assembly (inextenso-ci.net, 4 Nov). dgbf.ci still shows no PLF in progress."
+CMR,2027-01,not tabled,,,,,2026-11-06,Cabinet discussed draft PLF 27 Oct (cameroon-tribune.cm); Assembly budget session opens 10 Nov (afriquematin.info). Not yet deposited.
 COD,2027-01,published,"Développement par titre de l'estimation des crédits de l'exercice 2027 (Doc. n°6), Projet de loi de finances pour l'exercice 2027",https://www.budget.gouv.cd/wp-content/uploads/budget2027/plf2027/document_num_6_developpement_titre_plf_2027.pdf,2026-09,2026-09-15,2026-10-30,"651 pages by section and ministry. Bill (Doc. 1) and PAP volumes on budget.gouv.cd/budget-2027/. Cabinet 12 Sep, tabled 15 Sep. Ingested 2026-10-30 (notes-for-osint 275), slug 2026-09-01-cod-developpement-par-titre-de-l-estimation-des-credits-de-l-exercice-2027-companion. Published 2026-10-30: 182 lines."
-COG,2027-01,tabled,,,,2026-10-07,2026-10-30,Adopted by Council of Ministers 7 Oct 2026 (sgg.cg/ccm/compte-rendu-cm-07-octobre-2026.pdf); Senate session opened 15 Oct.
-COM,2027-01,not tabled,,,,,2026-10-30,Nothing for 2027 on finances.gouv.km.
+COG,2027-01,tabled,Projet de loi de finances 2027 (PLF_2027_Parlement),https://www.finances.gouv.cg/sites/default/files/documents/PLF_2027_Parlement.pdf,,2026-10-07,2026-11-06,"Presented to Assembly and Senate 29 Oct (finances.gouv.cg). PLF PDF posted 30 Oct, 31 MB."
+COM,2027-01,tabled,,,,,2026-11-06,"PLF 2027 before the Assembly finance commission; minister presented the exposé des motifs (Assemblée de l'Union, 5 Nov). Deposit date not found; nothing on finances.gouv.km."
 CPV,2027-01,published,Proposta de Lei - Aprova o Orçamento do Estado para o ano económico de 2027,https://www.mf.gov.cv/documents/198414/6566427/PROPOSTA_LEI_ORCAMENTO_ESTADO_2027.pdf/a4fb64e7-0fc8-f9da-d86a-db233baef74c?version=1.0,2026-09-29,2026-10-01,2026-10-30,Lines unconfirmed: 39pp bill. RELATORIO and ANEXO INFORMATIVO OE 2027 in the same library: https://www.mf.gov.cv/web/dnocp/or%C3%A7amento-do-estado/-/document_library/CCgzagQ0WG8I/view/6566427 Staged 2026-10-30 (notes-for-osint 276). The bill carries articles only; the mapas are not published. Anexo Informativo staged 2026-10-30. Anexo Informativo ingested (notes-for-osint 277); published 2026-10-30: 3 earmarked-revenue lines. The mapas wait.
-DJI,2027-01,not tabled,,,,,2026-10-30,Nothing found; the 2026 bill reached parliament in December 2025.
-DZA,2027-01,tabled,,,,2026-10-04,2026-10-30,Cabinet adopted 4 Oct; presented to the APN finance committee 12 Oct (algerie54.dz). Text not published.
+DJI,2027-01,not tabled,,,,,2026-11-06,"PM presented 2027 orientations to the Assembly 1 Oct (adi.dj); no PLF adoption or deposit found. Cabinet 27 Oct took a new LOLF, not the budget."
+DZA,2027-01,tabled,,,,2026-10-04,2026-11-06,"Cabinet adopted 4 Oct; APN debate 2-5 Nov, vote 16 Nov (fibladi.com). No official text online; mf.gov.dz and majliselouma.dz list none."
 EGY,2027-07,not due,,,,,2026-10-30,FY2027 starts July 2027; its bill is tabled from February 2027
 ETH,2027-07,not due,,,,,2026-10-30,FY2027 starts July 2027; its bill is tabled from February 2027
-GAB,2027-01,tabled,,,,2026-09-18,2026-10-30,Cabinet adopted 18 Sep 2026; Assembly finance committee hearings from 21 Oct (gabonmediatime.com).
-GHA,2027-01,not tabled,,,,,2026-10-30,Finance Minister plans to present the 2027 Budget Statement in the first week of November; legal deadline 15 Nov. https://www.myjoyonline.com/ato-forson-eyes-first-week-november-for-2027-budget-promises-jobs-and-major-infrastructure-push/
-GIN,2027-01,not tabled,,,,,2026-10-30,Nothing found; mbudget.gov.gn returned 403; dgb.gov.gn shows nothing for 2027.
+GAB,2027-01,tabled,,,,2026-09-18,2026-11-06,Cabinet adopted 18 Sep; Assembly finance committee hearings from 21 Oct (union.sonapresse.com). Press cites the PLF tables but no PLF on budget.gouv.ga or dgb-gabon.net.
+GHA,2027-01,not tabled,,,,,2026-11-06,"Budget Statement set for 12 Nov (gna.org.gh, 30 Oct; graphic.com.gh, 4 Nov)."
+GIN,2027-01,not tabled,,,,,2026-11-06,"PLFI 2027 at an advanced stage, transmission expected soon (ecofinanceguinee.com, 23 Oct). Not yet sent."
 GMB,2027-01,published,"Appropriation Bill, 2027",https://assembly.gm/bills/478/download,2026-10-20,2026-10-23,2026-10-30,"Schedule lists heads 01-50, total D48,599,453,916. Budget speech 23 Oct; third reading 28 Oct 2026. Staged 2026-10-30 (notes-for-osint 276). The bill prints head totals only (nil). The 532-page estimates (NA version) found on mofea.gov.gm and staged 2026-10-30. FY2027 estimates (NA version) ingested (notes-for-osint 277); published 2026-10-30: 28 lines."
-GNB,2027-01,not tabled,,,,,2026-10-30,"Only the PM's budget circular and a DGO workshop, 28 Jul 2026."
-GNQ,2027-01,tabled,,,,2026-10-19,2026-10-30,"Forbes Africa Lusófona (forbesafricalusofona.com/?p=177731) reports parliament approved the 2027 budget bills; single source, no document."
+GNB,2027-01,not tabled,,,,,2026-11-06,"Only the September macro-budget note (Forbes Africa Lusófona, 3 Nov); no OGE 2027 cabinet approval found."
+GNQ,2027-01,tabled,,,,2026-09-24,2026-11-06,"PM presented the 2027 bill to the Chamber 24 Sep; Chamber approved it 16 Oct, now in the Senate (guineaecuatorialpress.com). No document online."
 KEN,2027-07,not due,,,,,2026-10-30,FY2027 starts July 2027; its bill is tabled from February 2027
-LBR,2027-01,not tabled,,,,,2026-10-30,Executive budget hearings ran 1-9 Oct; statutory deadline 31 Oct. https://allafrica.com/stories/202610070312.html
-LBY,2027-01,not tabled,,,,,2026-10-30,A joint committee is to prepare a unified 2027 budget (libyaobserver.ly); no draft found.
+LBR,2027-01,not tabled,,,,,2026-11-06,"Boakai asked to submit on 6 Nov instead of 31 Oct (liberianobserver.com, 30 Oct); no submission reported yet."
+LBY,2027-01,not tabled,,,,,2026-11-06,"HoR speaker asked the finance committee for a unified 2027 budget by year-end (lana.gov.ly, 2 Nov); no draft yet."
 LSO,2027-04,not due,,,,,2026-10-30,FY2027 starts April 2027; its bill is tabled from February 2027
 MAR,2027-01,published,Projet de loi de finances n° 60-26 pour l'année budgétaire 2027,https://www.chambredesrepresentants.ma/sites/default/files/loi/01-%20Projet%20loi%20de%20Finances%202027_Fr.pdf,2026-10-23,2026-10-20,2026-10-30,"Tableau B (credits by chapter) reported in press, not seen in the PDF; finances.gov.ma unreachable. Host returns 403 to scripts; OSINT to fetch by browser (notes-for-osint 276). Fetched by browser and ingested (notes-for-corpus 82); published 2026-10-30: 4 lines from Tableaux (E) and (G). The morasses wait."
-MDG,2027-01,not tabled,,,,,2026-10-30,PLFI 2027 consultations 5 Sep; not yet sent to the Assembly (fr.allafrica.com/stories/202610210150.html).
-MLI,2027-01,tabled,,,,2026-09-18,2026-10-30,Cabinet adopted PLF 2027 18 Sept; budget.gouv.ml library stops at 2026. https://fr.apanews.net/?p=321558
-MOZ,2027-01,tabled,,,,2026-10-13,2026-10-30,Cabinet approved the PESOE 2027 proposal 13 Oct; not yet sent to the Assembleia. Nothing on mef.gov.mz.
-MRT,2027-01,tabled,,,,2026-10-21,2026-10-30,Cabinet adopted 2027 budget 21 Oct (single press source); finances.gov.mr unreachable. https://www.riotimesonline.com/mauritania-2027-budget-surplus-2026/
+MDG,2027-01,tabled,,,,,2026-11-06,"PLFI 2027 deposited at the Assemblée nationale (fr.allafrica.com/stories/202611050147.html, 5 Nov); exact date not given. mef.gov.mg has only the lettre de cadrage."
+MLI,2027-01,tabled,"Projet de loi de finances pour l'exercice 2027 (version CNT, 18-09-2026)",https://finances.ml/sites/default/files/2026-10/PLF%202027_CNT_v_18-09-2026.pdf,,2026-09-18,2026-11-06,Cabinet adopted 18 Sep; CNT examining since 5 Oct. PLF (26 MB) and DPPD-PAP 2027-2029 now on finances.ml: .../2026-10/DPPD-PAP%202027-2029_v_CNT_18-09-2026.pdf. Staged 2026-11-06 (budget-poll-MLI).
+MOZ,2027-01,tabled,,,,2026-10-13,2026-11-06,Cabinet approved 13 Oct; Assembleia session opened 28 Oct with the PESOE on its agenda (rn.co.mz). Submission date and document not found.
+MRT,2027-01,tabled,,,,2026-10-21,2026-11-06,"Minister presented the PLF 21 Oct (ami.mr); sent to the finance committee 5 Nov, plenary vote 28 Dec (ami.mr). No document found."
 MUS,2027-07,not due,,,,,2026-10-30,FY2027 starts July 2027; its bill is tabled from February 2027
 MWI,2027-04,not due,,,,,2026-10-30,FY2027 starts April 2027; its bill is tabled from February 2027
 NAM,2027-04,not due,,,,,2026-10-30,FY2027 starts April 2027; its bill is tabled from February 2027
-NER,2027-01,not tabled,,,,,2026-10-30,Nothing on 2027; finances.gouv.ne unreachable. Niger usually adopts by ordinance in late December.
-NGA,2027-01,not tabled,,,,,2026-10-30,No 2027 MTEF or Appropriation Bill found; government says it will present before end-2026. https://economicconfidential.com/fg-2027-budget/
+NER,2027-01,not tabled,,,,,2026-11-06,Budget conferences launched 9 Oct (finances.gouv.ne); no PLF yet. Niger usually adopts by ordinance in late December.
+NGA,2027-01,not tabled,,,,,2026-11-06,"FG to present the 2027 budget before year-end (punchng.com, 28 Oct). No MTEF or bill yet."
 RWA,2027-07,not due,,,,,2026-10-30,FY2027 starts July 2027; its bill is tabled from February 2027
 SEN,2027-01,published,Projet de loi de finances pour l'année 2027,https://budget.sec.gouv.sn/telecharger-le-document/e5db848f-3869-4ea2-a166-f4c31b1acbc5/telechargement,2026-10-13,2026-09-30,2026-10-30,"113pp PDF, annexes give credits by section and chapter; copy at vie-publique.sn. Staged 2026-10-30 (notes-for-osint 276). Ingested; published 2026-10-30 at programme grain (2 rows). The DPPD-PAP 2027-2029 volumes are not yet out."
-SLE,2027-01,not tabled,,,,,2026-10-30,No FY2027 news; the 2025 and 2026 budgets were presented mid-November.
-SOM,2027-01,tabled,,,,2026-10-27,2026-10-30,Cabinet approved US$1.26bn budget 27 Oct; no breakdown published. https://www.riotimesonline.com/somalia-budget-2027-us-1-26-billion-cabinet-2026/
+SLE,2027-01,not tabled,,,,,2026-11-06,"PBO puts the proposed 2027 budget at about NLe31.5bn (Concord Times, 5 Nov); no presentation date announced."
+SOM,2027-01,tabled,,,,2026-10-27,2026-11-06,Cabinet approved 27 Oct; first reading in joint session 28 Oct (arlaadimedia.com). No document on mof.gov.so.
 SSD,2027-07,not due,,,,,2026-10-30,FY2027 starts July 2027; its bill is tabled from February 2027
-STP,2027-01,not tabled,,,,,2026-10-30,Legislative elections 27 Sep 2026; no government formed as of 15 Oct.
+STP,2027-01,not tabled,,,,,2026-11-06,"New government still being formed after the 27 Sep election (RFI, 7 Oct); no OGE 2027 proposal."
 SWZ,2027-04,not due,,,,,2026-10-30,FY2027 starts April 2027; its bill is tabled from February 2027
-SYC,2027-01,not tabled,,,,,2026-10-30,Nothing on finance.gov.sc or nationalassembly.sc. The 2026 budget slipped to Feb 2026 after the election.
-TCD,2027-01,not tabled,,,,,2026-10-30,Only presidential circular 0008/PR/2026 of 31 Jul; the 2026 bill reached cabinet 4 Dec 2025.
-TGO,2027-01,tabled,,,,2026-10-22,2026-10-30,Cabinet adopted PLF 2027 22 Oct; finances.gouv.tg lists 2026 only. https://www.sikafinance.com/marches/togo-le-budget-2027-en-baisse-de-2-5-a-2-684-milliards-fcfa_65224
+SYC,2027-01,tabled,"Appropriation Bill, 2027 (Bill No. 19 of 2026)",https://www.gazette.sc/sites/default/files/2026-10/Bill%20No.%2019%20-%20Appropriation%20Bill%202027.pdf,,2026-10-30,2026-11-06,"Bill gazetted 30 Oct: SCR 12.86bn, schedule by ministry and agency (gazette.sc). Budget address date not found."
+TCD,2027-01,tabled,,,,2026-11-05,2026-11-06,"Cabinet adopted PLF 2027 5 Nov, 3,065bn FCFA; vote due end-December (atpe.td; apanews.net, 6 Nov). Not online."
+TGO,2027-01,tabled,"Projet de loi de finances, exercice 2027",https://finances.gouv.tg/wp-content/uploads/2026/11/Projet-de-LFI-Exercice-2027.pdf,,2026-10-22,2026-11-06,"Cabinet adopted 22 Oct. PLF posted 3 Nov on finances.gouv.tg (17 MB); exposé des motifs and budget programme 2027-2029 on togoreformes.gouv.tg/documents, 29 Oct."
 TUN,2027-01,published,مشروع قانون عدد 063/2026 يتعلّق بقانون المالية لسنة 2027,https://www.arp.tn/document/download/122075,2026-10-16,2026-10-14,2026-10-30,"Lines unconfirmed: scanned 151pp PDF, no text layer; the bill cites table ت (missions and programmes). ARP deposit 14 Oct. Staged 2026-10-30 (notes-for-osint 276). Ingested; published 2026-10-30 (2 rows, as FY2026)."
 TZA,2027-07,not due,,,,,2026-10-30,FY2027 starts July 2027; its bill is tabled from February 2027
 UGA,2027-07,not due,,,,,2026-10-30,FY2027 starts July 2027; its bill is tabled from February 2027
 ZAF,2027-04,not due,,,,,2026-10-30,FY2027 starts April 2027; its bill is tabled from February 2027
-ZMB,2027-01,not tabled,,,,,2026-10-30,Presentation moved from 30 Oct to 6 Nov 2026. https://diggers.news/local/2026/10/28/govt-pushes-2027-budget-unveiling-to-nov-6/
-ZWE,2027-01,not tabled,,,,,2026-10-30,Budget Strategy Paper out; presentation due 19 Nov 2026. https://www.heraldonline.co.zw/fiscal-monetary-chiefs-map-out-2027-economic-roadmap/
+ZMB,2027-01,not tabled,,,,,2026-11-06,"Cabinet approved 3 Nov; presentation due 6 Nov (times.co.zm, 4 Nov; diggers.news, 6 Nov). No report of delivery yet."
+ZWE,2027-01,not tabled,,,,,2026-11-06,"Presentation set for 19 Nov (heraldonline.co.zw, 27 Oct); pre-budget seminar 28-31 Oct."
