@@ -3,16 +3,16 @@ title: Central Africa — progress report, November 2025 – November 2026
 compiled: 2026-11-06
 period: 2025-11-01 to 2026-11-06
 place: XCA
-ledger_rows: 65
+ledger_rows: 66
 not_held: 0
-record: bcb47fa46c8b
+record: acea81a24c18
 ---
 
 # Central Africa: progress report, November 2025 – November 2026
 
 *Compiled 2026-11-06 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 65 bodies, instruments and systems on this place's ledger, 40 changed position between 2025-11-01 and 2026-11-06, 8 did not, 17 carry no stated baseline, and 0 are ***Not held*** at both ends.*
+*Of 66 bodies, instruments and systems on this place's ledger, 40 changed position between 2025-11-01 and 2026-11-06, 8 did not, 18 carry no stated baseline, and 0 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 128 sources for this place in the window — 30 in the earlier half (2025-11 to 2026-04), 98 in the later (2026-05 to 2026-11). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
@@ -181,6 +181,7 @@ The CEMAC additional act on free movement reached national implementing instruct
 | Body, instrument or system | At 2025-11-01 | At 2026-11-06 | Progress |
 |---|---|---|---|
 | CREWS Central Africa (hydrometeorological early-warning network) | Did not exist | [Sub-regional observing and forecasting network feeding the WMO's WIS/WHOS systems, with RSMC-Yaounde issuing regional severe-weather guidance and an ECCAS Situation Room operational at CAPC-AC Douala since September 2024, part of the continental AMHEWAS early-warning system; co-financed by the EU's SEWA programme (US$2m) and the World Bank (US$10m, across Chad, the Central African Republic, Rwanda and the DRC). Three further steps are on the record: a November 2025 remote training that had national and regional hydrologists apply satellite precipitation, soil-moisture and water-level altimetry alongside in-situ measurement across the Niger, Chad and Congo basins; a February 2026 agreement on communication and collaboration mechanisms for producing and disseminating early warnings; and a March 2026 regional flood-forecasting training with a data-management framework spanning the community and river-basin memberships](https://wmo.int/media/project-update/regional-training-strengthens-flood-forecasting-central-africa) | Movement |
+| GERNAC Earth-observation services for water and natural resources (GMES and Africa, CICOS consortium) | ***Baseline not held*** | [The Congo basin river commission CICOS leads the Central African consortium of the GMES and Africa programme. Its first phase installed satellite receiving stations in member states, three of them in Cameroon, monitored water levels and wetlands in the central basin, and produced a smartphone river-navigation application presented to shipowners in May 2021. In July 2024, in its second phase, it trained experts from the six coastal states in oceanographic monitoring with Copernicus marine data](https://www.cicos.int/non-classe/actualites-projet-gmes-africa/) | ***Baseline not held*** |
 
 <!-- narrative: systems -->
 Payments infrastructure carries the period's clearest delivery: SYSTAC 2 replaced a 2007-vintage retail-clearing platform across all six states, and BEAC's PAPSS accession extends a continental settlement rail into CEMAC, though a month after accession Cameroonian businesses report no working access to it — the qualifying clause the ledger records as "slipped". I-CEMAC's border-data extension and the CREWS hydrometeorological network are the two systems with the longest run of delivery evidence behind them, both citing site-level completion figures rather than plans. Statistics moved on two separate tracks — a balance-of-payments collection and a labour-statistics framework — with the latter's own workshop conceding that no member state currently runs a regular labour force survey. The Central Africa Peering Forum and the PIDA data-centre prospectus are both still announcements: a scheduled event and a published prospectus, neither yet a delivered system. [The five-country disease-surveillance project closed on 31 May 2025 with US$275.0m disbursed, 14 per cent of it classed as ICT infrastructure](https://documents1.worldbank.org/curated/en/099122325164516725/pdf/BOSIB-1d9c739c-ed31-4406-9dd0-06b8cf26a5f3.pdf).
