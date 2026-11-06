@@ -1,11 +1,11 @@
 ---
 title: Somalia — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: SOM
-ledger_rows: 19
+ledger_rows: 20
 not_held: 1
-record: 2ae7213274a3
+record: 43946fa98820
 ---
 
 # News, Oct – Nov 2026
@@ -353,6 +353,20 @@ Somalia's National Institute of Telecommunications and Technology, part of the c
 **[Somalia Opens Fourth National Cybersecurity Forum in Mogadishu](https://sonna.so/en/article/Somalia-Opens-Fourth-National-Cybersecurity-Forum-in-Mogadishu)** — Somali National News Agency (SONNA), 27 October 2026
 
 The fourth National Cybersecurity Forum opened in Mogadishu. The National Communications Authority and Mogadishu University organised it over two days under a security-by-design theme. The Minister of Communications and Technology noted that the Somalia Computer Incident Response Team was launched in March 2026. The Minister also noted a planned National Cybersecurity Academy later this year.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Academy, Mogadishu</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somalia to establish AI Academy](https://www.connectingafrica.com/ai/somalia-to-establish-ai-academy)** — Connecting Africa, 5 November 2026
+
+Tabaarak ICT Solutions and the Somali National Artificial Intelligence Centre signed an agreement to set up an AI academy in Mogadishu. It is to offer continuous training, courses, research and internships. No funding, start date or intake has been stated.
 
 </div>
 
