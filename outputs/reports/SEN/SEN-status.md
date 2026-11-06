@@ -1,6 +1,6 @@
 ---
 title: Senegal: status report
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: SEN
 region: XWA
 built_by: STATUS-INIT
@@ -94,7 +94,7 @@ The largest external windows close in 2028, and what follows them is not yet des
 <!-- finance.new -->
 
 <!-- derived -->
-Forty-nine distinct digital financing commitments to Senegal are on record, made between 2015 and 2026 with windows running out to 2034 and worth roughly US$1.3 billion between them — money committed rather than money moved. Chinese state finance is the largest single source in that record, around a third of the total across four commitments. Grants outnumber debt by count, thirty-one of the forty-nine, but the debt carries most of the money.
+Senegal's digital estate has drawn 194 external commitments, worth about US$1.4 billion on windows running from 2015 to 2034 (November 2026). That is money committed, not money moved. Chinese state finance is the largest single source, around a third of the total across four commitments (2015-2021). Grants outnumber debt by count, 173 of the 194, but the debt carries most of the money (2015-2026).
 
 [Senegal's own 2026 digital budget is CFA 81.06 billion, up 38.7% on the year before](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-maps-2026-digital-drive-with-world-bank-backing), while [the World Bank alone has committed CFA 95.05 billion to the 2026 digital programme](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-maps-2026-digital-drive-with-world-bank-backing). [BOAD is lending XOF 30.9 billion, about US$52 million, to accelerate the digital transformation of public services over 2026–2028](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46021-2026028).
 
