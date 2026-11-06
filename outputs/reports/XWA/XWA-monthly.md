@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Oct – Nov 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: XWA
-ledger_rows: 22
+ledger_rows: 23
 not_held: 1
-record: 14e5955968c5
+record: d8ffd5f61e10
 ---
 
 # News, Oct – Nov 2026
@@ -437,6 +437,20 @@ A week-long ECOWAS training for managers of member states' national statistical 
 **[ECOWAS STRENGTHENS THE HARMONIZATION OF MONETARY AND FINANCIAL STATISTICS TO SUPPORT REGIONAL ECONOMIC INTEGRATION](https://www.ecowas.int/la-cedeao-renforce-lharmonisation-des-statistiques-monetaires-et-financieres-pour-soutenir-lintegration-economique-regionale/)** — ECOWAS, 3 November 2026
 
 The ECOWAS Commission and the West African Monetary Agency opened an experts' meeting on monetary and financial statistics in Lomé on 2 November 2026. Central bank statisticians are reviewing a draft regional metadata framework until 7 November. They are also assessing a regional action plan adopted in January 2025.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ECOWAS Community Sectoral Statistics Yearbook</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Community Sectoral Statistics Yearbook: ECOWAS Takes Another Step Toward Consolidating Its Harmonized Regional System](https://www.ecowas.int/community-sectoral-statistics-yearbook-ecowas-takes-another-step-toward-consolidating-its-harmonized-regional-system/)** — ECOWAS Commission, 4 November 2026
+
+Lomé workshop 3-6 Nov 2026 reviews first draft of about 100 indicators; World Bank-funded PHASAO programme.
 
 </div>
 
