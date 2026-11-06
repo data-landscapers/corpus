@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-06 20:00 · **RENDER** · 30m · 301 documents rendered, 0 failed; home, countries, catalogue 37,677, finance 5,853 deals, maturity; R2 298 objects up; deployed 8245bed - ok
 2026-11-06 19:29 · **BUILD** · 1h17m · hand cycle, IATI replaces CRS: catalogue 37,677; finance 5,853 deals, 435 scoped; 52 units, 435 marked, 0 moved; 37 status finance paragraphs recomputed; maturity 507 read, 23 facts, 0 moved; register 9; prose gate 0 - ok
 2026-11-06 12:29 · **RENDER** · 25m · 301 documents rendered, 0 failed; home, countries, catalogue, finance 6,293 deals, maturity; deployed 21e4807 - ok
 2026-11-06 12:03 · **BUILD** · 3h12m · hand cycle, CRS and climate-fund backfill: catalogue 42,312; finance 6,293 deals, 4,579 scoped; 54 units, 4,651 CRS marked, 185 read, 4 moved, 53 minted, 77 status; data centres 2; maturity 1,174 read, 6 moved; prose gate 9 - ok
