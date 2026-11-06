@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-01-crs-932-2024002935-2024-assistance-preparatoire-au-recensement-general-de",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Recensement general de l'agriculture et de l'elevage (RGA)",
+   "country_label": "Sao Tome and Principe",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Only an agricultural census is named, which is not a population census."
+}

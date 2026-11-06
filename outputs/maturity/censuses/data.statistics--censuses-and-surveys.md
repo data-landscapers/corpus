@@ -228,7 +228,7 @@ The RGPL 2026 was counted in 2026; no results of it are known to be out.
 
 ### Kenya: 3 Established
 
-The 2019 Kenya Population and Housing Census was counted in 2025; no results of it are known to be out.
+Kenya counted its 2019 Population and Housing Census in 2019; no results of it are known to be out.
 
 - KNBS's director general said on 31 January 2025, after a court cancelled the 2019 census results for parts of Wajir, Mandera and Garissa, that groundwork had been laid for the 2029 census, Kenya's seventh ([source, 2025-01-31](https://www.kenyans.co.ke/news/108566-knbs-rules-out-new-census-garissa-wajir-mandera-citing-4-year-preparation-time)).
 

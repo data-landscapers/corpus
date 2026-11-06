@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-26-crs-7-2024000467-2024-general-census-of-the-population-housing-agricultu",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "preparing",
+   "fact": "The Netherlands reported to the OECD CRS a USD 1,087,427 contribution in 2024 to implement Burundi's 2024 national population, housing, agriculture and livestock census, with FAO contracted by UNFPA for the agro-pastoral part.",
+   "as_of": "2024-11-26",
+   "date_precision": "day",
+   "system": "General census of population, housing, agriculture and livestock 2024",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
