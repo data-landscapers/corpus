@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-08-crs-1601-2023010571-01-2023-generative-ai-for-agriculture-gaia-phase-i",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The Gates Foundation reported to the OECD CRS a USD 193,000 grant in 2023 to Ethiopia to build an AI data corpus for smallholder farmers for use with large language models, running to 2024.",
+   "as_of": "2023-11-08",
+   "date_precision": "day",
+   "system": "Generative AI for Agriculture (GAIA) Phase I",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

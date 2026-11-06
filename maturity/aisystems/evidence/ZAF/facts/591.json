@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-24-crs-1601-2024011741-01-2024-scaling-of-zuzi-an-ai-chatbot-to-support-survivors",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The Gates Foundation reported a USD 598,840 grant (2024-2026) to support deployment and scale of Zuzi, a generative AI chatbot for survivors of gender-based violence in South Africa, implemented by Gender Rights in Tech NPC.",
+   "as_of": "2024-09-24",
+   "date_precision": "day",
+   "system": "Zuzi",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zuzi",
+   "country_label": "South Africa",
+   "class": "localai",
+   "platform": "",
+   "owner": "Gender Rights in Tech NPC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

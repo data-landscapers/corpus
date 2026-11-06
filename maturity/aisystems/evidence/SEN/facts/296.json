@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-25-crs-301-20240104720001-2024-data-innovation-centre-for-artificial-intelligence",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Canada's IDRC committed USD 21,672 in 2024 (running to 2026) to a Data Innovation Centre for Artificial Intelligence in Senegal, to produce and share data and develop AI resources, with Universite Cheikh Anta Diop named as channel of delivery.",
+   "as_of": "2024-07-25",
+   "date_precision": "day",
+   "system": "Data Innovation Centre for AI",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Innovation Centre for AI",
+   "country_label": "Senegal",
+   "class": "localai",
+   "platform": "",
+   "owner": "Universite Cheikh Anta Diop (channel of delivery)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

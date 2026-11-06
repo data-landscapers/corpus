@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-05-crs-301-20240105860001-2024-ai-living-lab-for-innovative-and-viable-ethical-po",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The AI Living Lab in Dakar, supported by an IDRC grant, is building an AI innovation ecosystem including a collaborative platform with AI algorithms and a large database.",
+   "as_of": "2024-09-05",
+   "date_precision": "day",
+   "system": "AI Living Lab (ALIVE Lab), Dakar",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI Living Lab (ALIVE Lab), Dakar",
+   "country_label": "Senegal",
+   "class": "localai",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
