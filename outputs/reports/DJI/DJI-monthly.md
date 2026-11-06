@@ -1,11 +1,11 @@
 ---
 title: Djibouti — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: DJI
-ledger_rows: 7
+ledger_rows: 8
 not_held: 11
-record: 790601df0e6f
+record: 851a42256185
 ---
 
 # News, Oct – Nov 2026
@@ -22,6 +22,8 @@ record: 790601df0e6f
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
 </nav>
 
 ## Governance
@@ -169,6 +171,28 @@ Djibouti scored 0.93 out of 4 on the Africa AI Governance Index 2026, in the Nas
 **[Djibouti et l'OIF ciblent les métiers de la cybersécurité pour insérer la jeunesse](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-et-loif-ciblent-les-metiers-de-la-cybersecurite-pour-inserer-la-jeunesse)** — wearetech.africa, 7 October 2026
 
 The Francophonie organisation and Djibouti's education and vocational training ministry signed an agreement to train 200 young people in web and mobile development and in network infrastructure and cybersecurity. It extends a programme that the organisation says has trained 200 since 2022.
+
+</div>
+
+</div>
+
+## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#geospatial-data">Geospatial data</a>
+</nav>
+
+### Geospatial data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">GBON observing network upgrade (SOFF)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djibouti SOFF Investment Phase Funding Request (pipeline, version 6)](https://www.un-soff.org/wp-content/uploads/2026/10/2699-Djibouti-SOFF-IFR-V6-clean-version-25092026.pdf)** — Systematic Observations Financing Facility, 1 October 2026
+
+USD 2.01m SOFF investment request for Djibouti, 2027-2031, to bring its one surface and one upper-air station to GBON.
 
 </div>
 
