@@ -1,17 +1,18 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "no evidence",
-   "exchange": "",
-   "registry": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names social protection systems exchanging data, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "3",
+      "exchange": "inservice",
+      "registry": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-001",
+      "gaps": "No source found since October 2023 says two or more programmes share one registry, or that the registry is linked to the national ID and another sector.",
+      "note": "The unconditional cash transfer selects its households from the Unified Social Registry in use. No second programme is said to draw on the registry.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

@@ -22,11 +22,11 @@ The African Union's Protocol on Social Protection asks for a social protection i
 |---|---|
 | 5 Leading | 2 |
 | 4 Operating | 15 |
-| 3 Established | 10 |
+| 3 Established | 11 |
 | 2 Nascent | 15 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
-| No evidence | 11 |
+| No evidence | 10 |
 
 ## Countries
 
@@ -183,6 +183,12 @@ A social protection system exchanged data in 2023; no source found reports a reg
 A social protection system exchanged data in 2025; no source found reports a registry shared by programmes.
 
 - Seychelles Nation reports the Agency for Social Protection's ASP Connect system, launched internally on 15 October 2025, is accessible through the SeyID portal; the free text names no data exchanged with the ID, a payment provider or another programme ([source, 2025-10-15](https://www.nation.sc/articles/27935/asp-launches-digital-system)).
+
+### Somalia: 3 Established
+
+A cash transfer drew its households from the social registry in 2025; no source found reports a second programme sharing it.
+
+- The page says households for the Baxnaano UCT are identified from the Unified Social Registry by an automated proxy means test, and each selected household is given a Social Registry Number used at enrolment ([source, 2025](https://baxnaano.so/unconditional-cash-transfer/)).
 
 ### Sudan: 3 Established
 
@@ -344,12 +350,6 @@ Nothing found names social protection systems exchanging data or says there is n
 Not established: Nothing found names social protection systems exchanging data, or says there is none.
 
 ### Guinea-Bissau: No evidence
-
-Nothing found names social protection systems exchanging data or says there is none, so no stage is set.
-
-Not established: Nothing found names social protection systems exchanging data, or says there is none.
-
-### Somalia: No evidence
 
 Nothing found names social protection systems exchanging data or says there is none, so no stage is set.
 
