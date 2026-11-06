@@ -1,11 +1,11 @@
 ---
 title: Lesotho — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: LSO
 ledger_rows: 9
 not_held: 4
-record: 089ab6aa7af1
+record: 6a3c414973e9
 ---
 
 # News, Oct – Nov 2026
@@ -65,6 +65,14 @@ The Eswatini Communications Commission and the Lesotho Communications Authority 
 **[Vodacom Lesotho Launches Enterprise Satellite Connectivity Solution Powered by Starlink](https://spaceinafrica.com/2026/10/09/vodacom-lesotho-launches-enterprise-satellite-connectivity-solution-powered-by-starlink/)** — Space in Africa, 9 October 2026
 
 Vodacom Lesotho launched a managed satellite internet service for businesses and institutions built on Starlink, at an event in Maseru reported on 9 October 2026. It offers primary connectivity where there are no terrestrial networks, a backup option, and a combined satellite and terrestrial mode. Target sectors include financial services, health, education and public administration; no prices are given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paratus Lesotho opens for business with Starlink](https://www.itweb.africa/article/paratus-lesotho-opens-for-business-with-starlink/mQwkoM6Y5yX73r9A)** — ITWeb Africa, 5 November 2026
+
+Paratus Group launched Paratus Lesotho, a joint venture with Real Image Lesotho, on 5 November 2026. It is an authorised Starlink reseller. It offers satellite connectivity to businesses outside fibre coverage.
 
 </div>
 
