@@ -27,10 +27,10 @@ place: GIN
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">6</td><td class="num">&lt;1</td><td class="num">101</td><td class="num">437</td><td class="num">99</td><td class="num">47</td><td class="num total">692</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">6</td><td class="num">&lt;1</td><td class="num">101</td><td class="num">437</td><td class="num">99</td><td class="num">47</td><td class="num total">691</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/GIN/all-finance.html">Full table &mdash; 338 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/GIN/all-finance.html">Full table &mdash; 336 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GIN/GIN-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -83,6 +83,6 @@ place: GIN
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/GIN/finance.html">Full table &mdash; 36 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/GIN/finance.html">Full table &mdash; 34 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/GIN/GIN-nonstate.csv" download>&darr; Download CSV</a>
 </div>

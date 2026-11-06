@@ -23,10 +23,10 @@ place: LBR
 <tr><th scope="row">Rural digital data capture</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">52</td><td class="num">1</td><td class="num">4</td><td class="num">87</td><td class="num">72</td><td class="num">60</td><td class="num total">277</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">53</td><td class="num">1</td><td class="num">4</td><td class="num">87</td><td class="num">72</td><td class="num">60</td><td class="num total">277</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/LBR/all-finance.html">Full table &mdash; 91 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/LBR/all-finance.html">Full table &mdash; 89 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/LBR/LBR-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -69,10 +69,10 @@ place: LBR
 <tr><th scope="row">Rural digital data capture</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">52</td><td class="num">1</td><td class="num">4</td><td class="num">81</td><td class="num">66</td><td class="num">50</td><td class="num total">255</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">53</td><td class="num">1</td><td class="num">4</td><td class="num">81</td><td class="num">66</td><td class="num">50</td><td class="num total">255</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/LBR/finance.html">Full table &mdash; 51 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/LBR/finance.html">Full table &mdash; 49 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/LBR/LBR-nonstate.csv" download>&darr; Download CSV</a>
 </div>
