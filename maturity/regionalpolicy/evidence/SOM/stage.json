@@ -1,16 +1,17 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "cooperation",
-   "stage": "2",
-   "part": "member",
-   "effect": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SOM-001",
-   "gaps": "No source found dates an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years.",
-   "note": "Counted from the four questions by study-ladder-regionalpolicy.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "cooperation",
+      "stage": "2",
+      "part": "member",
+      "effect": "none",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-001;SOM-003",
+      "gaps": "No source found dates an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years.",
+      "note": "Somalia takes part through its regulator's One Network Area consultation (SOM-001), and an EAC official said in November 2026 it had yet to put the framework into effect (SOM-003). No agreement signed, meeting hosted or chaired, or seat won is dated in the last three years, so not 3.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

@@ -21,8 +21,8 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 | Stage | Countries |
 |---|---|
 | 5 Leading | 5 |
-| 4 Operating | 14 |
-| 3 Established | 24 |
+| 4 Operating | 15 |
+| 3 Established | 23 |
 | 2 Nascent | 10 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -153,6 +153,13 @@ Sierra Leone introduced free roaming with Liberia in 2025 and signed more roamin
 
 - Liberia, Ghana and Sierra Leone entered the ECOWAS Free Roaming Agreement at a signing ceremony, to remove roaming charges among the three; the page carries no date, so the published date 2026-02-20 is used ([source, 2026-02-20](https://lta.gov.lr/liberia-ghana-sierra-leone-move-toward-borderless-mobile-communication/)).
 - Ecofin Agency reports on 26 October 2026 that Liberia and Sierra Leone introduced their roaming service in August 2025 ([source, 2025-08](https://www.ecofinagency.com/news-digital/2610-60121-west-africa-struggles-to-deliver-free-roaming-nearly-nine-years-after-regional-agreement)).
+
+### South Sudan: 4 Operating
+
+South Sudan has put East Africa's 2014 shared roaming framework into effect, an official said in 2026; figures of its use are not known.
+
+- The Minister of Information, ICT and Postal Services signed a declaration of trust with the Smart Africa alliance to cooperate on the digital economy, cybersecurity and artificial intelligence, in a ceremony reported by the ministry on 2025-05-30 ([source, 2025-05-30](https://mictps.gov.ss/south-sudan-inks-smart-africa-declaration-of-trust-to-commence-cooperation-on-digital-trade/)).
+- An EAC ICT and performance management professional told an EALA oversight meeting that South Sudan is one of six of eight Partner States that have implemented the 2014 One Network Area roaming framework, which he said had helped reduce cross-border communication costs ([source, 2026-11-03](https://www.the-star.co.ke/news/2026-11-03-eac-moves-to-slash-cross-border-call-data-charges)).
 
 ### Togo: 4 Operating
 
@@ -308,12 +315,6 @@ Seychelles signed a digital trade memorandum with the African free trade area's 
 
 - A memorandum of understanding on digital trade was signed between the AfCFTA secretariat, Quest Ghana Limited and the government of Seychelles during the AfCFTA secretary general's visit shortly before 17 March 2026, positioning Seychelles as the AfCFTA digital trade hub; the exact signing date is not given, so the article's publication month is used ([source, 2026-03](https://www.nation.sc/articles/29842/seychelles-set-to-become-digital-trade-hub-of-afcfta)).
 
-### South Sudan: 3 Established
-
-South Sudan signed a declaration of trust with Smart Africa in May 2025; nothing agreed is known to be in effect.
-
-- The Minister of Information, ICT and Postal Services signed a declaration of trust with the Smart Africa alliance to cooperate on the digital economy, cybersecurity and artificial intelligence, in a ceremony reported by the ministry on 2025-05-30 ([source, 2025-05-30](https://mictps.gov.ss/south-sudan-inks-smart-africa-declaration-of-trust-to-commence-cooperation-on-digital-trade/)).
-
 ### Zambia: 3 Established
 
 A Zambian was elected secretary general of the African telecommunications union in July 2026; nothing agreed is known to be in effect.
@@ -376,9 +377,10 @@ Sao Tome and Principe joined the Central African regulators' assembly in 2026 an
 
 ### Somalia: 2 Nascent
 
-Somalia consulted its operators in 2025 on joining East Africa's shared roaming area; no agreement, meeting hosted or seat won is known.
+Somalia consulted operators in 2025 on East Africa's shared roaming area but had not joined by 2026; no agreement, hosted meeting or seat is known.
 
 - The National Communications Authority held a national consultation with licensed operators on Somalia's roadmap for joining the East African Community's One Network Area, a phased alignment of national laws and tariffs with regional standards; adoption is described as still to be completed ([source, 2025-09-18](https://nca.gov.so/national-communications-authority-conducts-consultation-on-somalias-adoption-of-the-one-network-area-ona/)).
+- An EAC ICT and performance management professional told an EALA oversight meeting that Somalia had yet to implement the 2014 One Network Area roaming framework, though it had formally committed to aligning its domestic regulations with it ([source, 2026-11-03](https://www.the-star.co.ke/news/2026-11-03-eac-moves-to-slash-cross-border-call-data-charges)).
 
 ### South Africa: 2 Nascent
 

@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "cooperation",
-      "stage": "3",
+      "stage": "4",
       "part": "active",
-      "effect": "",
+      "effect": "in-effect",
       "cap": "",
       "flags": "",
-      "stage_sources": "SSD-003",
-      "gaps": "No source found says a thing the country agreed has been put into effect.",
-      "note": "Counted from the four questions by study-ladder-regionalpolicy.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "SSD-003;SSD-007",
+      "gaps": "No source found gives figures of use, a decision of a joint body, or a review of what an agreement has delivered, in the last three years.",
+      "note": "An EAC official told the regional assembly in November 2026 that South Sudan has put the One Network Area roaming framework into effect (SSD-007), so 4. No figures of its use, joint decision or review are held, so not 5.",
+      "as_at": "2026-11-06"
     }
   ]
 }
