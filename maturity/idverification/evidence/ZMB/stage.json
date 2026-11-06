@@ -1,17 +1,18 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "3",
-   "use": "inservice",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZMB-001",
-   "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "3",
+      "use": "inservice",
+      "sectors": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZMB-001;ZMB-005",
+      "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID in use: Co-Develop's 2024 claim that eKYC reaches drought relief and health records (ZMB-006) is older than the January 2025 report that the health record link was still being prepared (ZMB-002). No figure for verifications is held.",
+      "note": "Services check people against the NRC through eKYC in one sector: the farm-input e-voucher and, per Co-Develop, drought relief (ZMB-001, ZMB-005). Two sectors in use are not shown, because the newer source has the health link still in preparation, so not 4.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

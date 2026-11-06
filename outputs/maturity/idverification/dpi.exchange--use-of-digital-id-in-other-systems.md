@@ -239,9 +239,10 @@ A service checked people against the national ID in 2026; no source found report
 
 ### Zambia: 3 Established
 
-A service checked people against the national ID in 2026; no source found reports use in a second sector.
+Services checked people against the national ID in 2026 in one sector; use in a second sector is claimed but not shown.
 
 - The Presidential Delivery Unit says the FISP e-Voucher system, a farm-input subsidy programme, uses electronic Know-Your-Customer verification to cut duplication and ghost beneficiaries, rolled out to all 116 districts with redemption closing on 15 January 2026, though the document does not name the national ID register as the thing checked ([source, 2026-01-15](https://www.pdu.gov.zm/blog/how-fisp-e-voucher-is-delivering-support-where-it-matters-most)).
+- Co-Develop says the eKYC platform verifies identity against the NRC number and has been extended to emergency drought relief and electronic health records ([source, 2024](https://www.codevelop.fund/zambia)).
 
 ### Zimbabwe: 3 Established
 
