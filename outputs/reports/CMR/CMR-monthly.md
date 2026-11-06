@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: CMR
-ledger_rows: 23
+ledger_rows: 24
 not_held: 3
-record: cab770e790e4
+record: 1228c804a686
 ---
 
 # News, Oct – Nov 2026
@@ -143,6 +143,8 @@ ISO lists Cameroon's Agence des Normes et de la Qualité (ANOR) as a member body
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#energy">Energy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
@@ -237,6 +239,22 @@ Orange Business Cameroon describes its data centre, open since May 2017, as Tier
 **[Uptime Institute Awards in Cameroon](https://uptimeinstitute.com/uptime-institute-awards/country/id/CM)** — Uptime Institute, 28 October 2026
 
 Uptime Institute's register for Cameroon lists two Tier III design certifications. They cover Cameroon Telecommunications' Camtel NBN II data centre and MTN Cameroon's data centre, both in Yaoundé.
+
+</div>
+
+</div>
+
+### Energy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Grid reliability indices</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cameroun/coupures d'électricité : 126 heures par client en 2025 selon l'ARSEL, 46 heures selon SOCADEL](https://ecomatin.net/cameroun-coupures-delectricite-126-heures-par-client-en-2025-selon-larsel-46-heures-selon-socadel)** — EcoMatin, 29 October 2026
+
+Regulator and Socadel fail to agree 2025 outage indicators in July 2026 validation minutes.
 
 </div>
 
