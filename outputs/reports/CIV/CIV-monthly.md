@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: CIV
-ledger_rows: 32
+ledger_rows: 34
 not_held: 9
-record: 357403aff8d7
+record: 9ece497f93f7
 ---
 
 # News, Oct – Nov 2026
@@ -63,6 +63,20 @@ The director general of Côte d'Ivoire's telecoms regulator, ARTCI, Lakoun Ouatt
 **[Intelligence artificielle en entreprise : à Abidjan, les experts appellent à encadrer les usages](https://www.linfodrome.com/high-tech/127109-intelligence-artificielle-en-entreprise-a-abidjan-les-experts-appellent-a-encadrer)** — Linfodrome, 1 November 2026
 
 An official of Côte d'Ivoire's Ministry of Digital Transition said on 27 October 2026 that the ministry is drafting a text to regulate the use of artificial intelligence. He said it would complement the existing personal-data protection rules. No draft or timetable was given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Banking regulation bill bringing financial technology firms into the perimeter</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Banques, FinTech, monnaie électronique : la Côte d’Ivoire prépare une nouvelle réglementation](https://www.linfodrome.com/economie/127262-banques-fintech-monnaie-electronique-la-cote-d-ivoire-prepare-une-nouvelle-reglementation)** — Linfodrome, 5 November 2026
+
+The National Assembly's economic and finance committee unanimously adopted a banking-regulation bill on 4 November 2026. It brings FinTechs and electronic-money operators into the banking law for the first time. The 258-article text also covers Islamic finance, BCEAO licensing powers, customer protection and bank resolution.
 
 </div>
 
@@ -229,6 +243,20 @@ Summarised under [Cybersecurity](#cybersecurity).
 **[En Côte d’Ivoire, une simulation nationale pour «apprendre à réagir» aux cyberattaques majeures](https://www.rfi.fr/fr/afrique/20261029-en-c%C3%B4te-d-ivoire-une-simulation-nationale-pour-apprendre-%C3%A0-r%C3%A9agir-aux-cyberattaques-majeures)** — RFI, 29 October 2026
 
 Côte d'Ivoire's information-systems security agency, ANSSI, ran a national cyberattack simulation, Cyber.Ex, in Abidjan on 28–29 October 2026. ANSSI names energy, finance and telecommunications as the most targeted sectors. It says it has recorded 147 major vulnerabilities since January 2026, leading to data leaks, outages and ransom demands.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cybastion and Cisco regional security operations centre, Abidjan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybersécurité : Abidjan devient le QG américain pour sécuriser l'Afrique de l'Ouest](https://www.linfodrome.com/societe/127288-cybersecurite-abidjan-devient-le-qg-americain-pour-securiser-l-afrique-de-l-ouest)** — Linfodrome, 5 November 2026
+
+Cybastion and Cisco inaugurated a Security Operations Centre in Abidjan on 5 November 2026, described as a regional hub for West Africa. A related programme aims to train 200,000 learners in cybersecurity, networking and AI by 2030. A US State Department official attended and cited USD 170 million of new US investment in Côte d'Ivoire in 2026.
 
 </div>
 
