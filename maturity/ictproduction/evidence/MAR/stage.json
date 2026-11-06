@@ -1,16 +1,17 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "production",
-   "stage": "4",
-   "exports": "official:1.5377",
-   "plant": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-005",
-   "gaps": "No source found since October 2023 says ICT equipment is assembled or made in the country.",
-   "note": "Counted from the four questions by study-ladder-ictproduction.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "production",
+      "stage": "5",
+      "exports": "official:1.5377",
+      "plant": "production",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-005;MAR-006",
+      "gaps": "All four questions are answered.",
+      "note": "The 2025 figure of 1.5377 per cent clears 0.5 per cent, and MAR-006 says STMicroelectronics runs a chip assembly and test plant near Casablanca. That fact, dated 2026-10-04, was held back at the first as-at and now sets stage 5.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

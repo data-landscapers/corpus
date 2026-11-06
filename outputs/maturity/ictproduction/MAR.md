@@ -8,4 +8,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says ICT equipment is assembled or made in the country.
+***Not found***. Nothing further is asked of this indicator.

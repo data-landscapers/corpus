@@ -20,8 +20,8 @@ The Digital Transformation Strategy's digital industry pillar asks for ICT assem
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
-| 4 Operating | 10 |
+| 5 Leading | 2 |
+| 4 Operating | 9 |
 | 3 Established | 8 |
 | 2 Nascent | 13 |
 | 1 Absent | 11 |
@@ -36,6 +36,13 @@ ICT service exports were 0.7088 per cent of GDP in 2024, and ICT equipment is as
 
 - ICT service exports from Kenya were 0.7088 per cent of GDP in 2024, by the World Bank's series ([source, 2024](https://data.worldbank.org/indicator/BX.GSR.CCIS.CD)).
 - Tech Africa News reports the Universal Service Advisory Council highlighted progress at the JKUAT Device Assembly Plant in the local assembly of digital devices, whose locally assembled devices are expected to support the Digital Hubs rollout ([source, 2026-08-07](https://techafricanews.com/2026/08/07/kenya-moves-to-boost-digital-inclusion-through-locally-assembled-devices/)).
+
+### Morocco: 5 Leading
+
+ICT service exports were 1.5377 per cent of GDP in 2025, and chips are assembled and tested in the country.
+
+- ICT service exports from Morocco were 1.5377 per cent of GDP in 2025, by the World Bank's series ([source, 2025](https://data.worldbank.org/indicator/BX.GSR.CCIS.CD)).
+- Digital Economy Advisors' Ben Roberts says STMicroelectronics has run a chip assembly and test plant near Casablanca for decades ([source, 2026-10-04](https://www.digitaleconomy.ke/post/the-fifth-layer-what-will-it-take-for-africa-to-make-its-chips)).
 
 ### Comoros: 4 Operating
 
@@ -84,12 +91,6 @@ ICT service exports were 0.6433 per cent of GDP in 2024, by the World Bank's ser
 ICT service exports were 1.1449 per cent of GDP in 2024, by the World Bank's series.
 
 - ICT service exports from Mauritius were 1.1449 per cent of GDP in 2024, by the World Bank's series ([source, 2024](https://data.worldbank.org/indicator/BX.GSR.CCIS.CD)).
-
-### Morocco: 4 Operating
-
-ICT service exports were 1.5377 per cent of GDP in 2025, by the World Bank's series.
-
-- ICT service exports from Morocco were 1.5377 per cent of GDP in 2025, by the World Bank's series ([source, 2025](https://data.worldbank.org/indicator/BX.GSR.CCIS.CD)).
 
 ### Tunisia: 4 Operating
 
