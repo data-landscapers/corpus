@@ -115,6 +115,7 @@ GIN,Open Data Platform (ODP) 2.0,INS statistical dissemination platform (www.sta
 GIN,"World Bank Microdata Library (Global Findex 2025 Guinea file, GIN_2024_FINDEX_v02_M)",https://microdata.worldbank.org/catalog/7911,other,World Bank Microdata Library,World Bank Development Research Group,,2025-10-01-guinea-global-findex-2025-microdata
 GMB,Gender Data Portal,World Bank Gender Data Portal,other,,World Bank,,2026-04-02-world-bank-gambia-gender-data-landscape-2026
 GMB,GBoS Microdata Catalog,GBoS Microdata Catalog (https://microdata.gbosdata.org/index.php/home),open,NADA,Gambia Bureau of Statistics,,2026-07-02-gmb-gbos-microdata-catalog
+GMB,Online Information Access Portal,Gambia,other,,National Records Commission,,2025-01-01-gmb-national-records-commission-launches-online-information-access-portal
 GNB,National Summary Data Page,National Summary Data Page on Guinea-Bissau's Open Data Platform (guinebissau.opendataforafrica.org/nsdp),open,African Development Bank Open Data Platform,"National Institute of Statistics, Ministry of Finance, BCEAO",,2024-07-08-imf-pr24262-guinea-bissau-implements-egdds-national-summary-data-page
 GNB,Dados Abertos - Assembleia Nacional Popular,National Assembly open data page (https://www.parlamento.gw/transparencia/dados-abertos),open,Interlegis portal,Assembleia Nacional Popular,,2015-04-01-anp-guine-bissau-portal-dados-abertos
 GNB,National Summary Data Page,National Summary Data Page on Guinea-Bissau's Open Data Platform (guinebissau.opendataforafrica.org/nsdp),open,African Development Bank Open Data Platform,"National Institute of Statistics, Ministry of Finance, BCEAO",,2024-06-14-gnb-ine-egdds-portal-dados-abertos
@@ -167,6 +168,7 @@ MAR,Data.gov.ma,Data.gov.ma (data.gov.ma),open,portal,ADD,,2026-10-28-la-maurita
 MDG,Open Data Parlementaire,parlement.mg/opendata,open,REST API with JSON and CSV,Assemblée nationale de Madagascar,,2026-08-09-madagascar-assemblee-nationale-open-data-api
 MDG,OpenData Madagascar,opendata.mg,other,web portal landing page,,,2026-08-09-madagascar-opendata-mg-portal
 MDG,INSTAT microdata sharing platform,microdata.instat.mg,other,login-gated microdata platform,Institut National de la Statistique (INSTAT),,2026-08-09-madagascar-instat-microdata-platform
+MDG,jurisprudence.justice.gov.mg,Madagascar court decisions platform,other,web,Ministry of Justice,,2026-10-31-mdg-justice-595-arrets-selectionnes-pour-enrichir-la-jurisprudence
 MLI,INSTAT website and open data portal,INSTAT open data portal / instat-mali.org,open,,Institut National de la Statistique (INSTAT),,2026-08-04-instat-mali-accord-licence-donnees-ouvertes
 MLI,Open Data Portal (ODP) 2.0,"ODP 2.0 (INSTAT migration, UEMOA regional rollout)",other,ODP 2.0,INSTAT,,2026-06-30-instat-mali-atelier-sdmx-migration-odp-2-0
 MLI,Catalogue de données — INSTAT Mali (NADA microdata archive),"INSTAT microdata catalogue, microdata.instat.ml",open,NADA,Institut National de la Statistique (INSTAT),national,2026-08-10-mali-instat-microdata-catalogue
@@ -272,6 +274,7 @@ TCD,Archive Nationale des Données Statistiques,Archive Nationale des Données S
 TCD,Suivi des Indicateurs ODD (Goal Tracker),Suivi des Indicateurs ODD (Goal Tracker),other,,INSEED,,2026-01-01-inseed-portails-de-donnees-et-chiffres-cles
 TCD,Suivi des Indicateurs du PND Tchad Connexion2030,Suivi des Indicateurs du PND Tchad Connexion2030,other,,INSEED,,2026-01-01-inseed-portails-de-donnees-et-chiffres-cles
 TCD,Open Data Portal (ODP),Chad ODP,open,AfDB Open Data Portal,INSEED with AfDB,,2023-11-21-tcd-tchadinfos-inseed-open-data-portal-atelier
+TCD,Geoportail and SITEAU-APP,Chad,other,,CDIG,,2026-10-27-tcd-lendjampost-cdig-geoportail-siteau-app-launch
 TGO,Open Data Portal (ODP) 1.0 / 2.0,Plateforme de Donnees Ouvertes (ODP) du Togo,open,SDMX-based ODP,INSEED and national statistical system,,2026-04-30-inseed-atelier-sdmx-plateforme-odp2-0
 TGO,Open Data,Open Data,other,,Agence Togo Digital,,2025-11-18-togofirst-observatoire-national-du-numerique
 TGO,Géoportail Open Data,Géoportail Open Data,other,,Agence Togo Digital,,2025-11-18-togofirst-observatoire-national-du-numerique
@@ -300,6 +303,7 @@ UGA,Government Procurement Portal (GPP),Government Procurement Portal (GPP),open
 UGA,National SDG Open Data Portal,National SDG Open Data Portal,open,,"National SDG Secretariat, Office of the Prime Minister",national,2026-07-17-national-sdg-task-force-july-2026
 UGA,Government Procurement Portal (GPP),Government Procurement Portal (GPP),open,,Public Procurement and Disposal of Public Assets Authority (PPDA),national,2025-12-24-cost-uganda-gpp-data-upgrade
 UGA,Open data portal,open data portal,other,,Ministry of ICT and National Guidance,national,2022-08-05-ict-ministry-fy2021-22-q4-report
+UGA,NSO Open Data,NSO Open Data,open,portal,UBOS,,2025-01-01-uga-gender-data-and-digital-transformation-in-uganda
 ZAF,National rapid deployment GIS database (draft regulation 7),National rapid deployment GIS database,other,,ICASA,,2026-04-12 Icasa moves to mandate national infrastructure database
 ZAF,SADIS broadband GIS map,SADIS broadband map,other,,DBSA,,2026-03-31 SA finally has a broadband map - and it reveals where the gaps are
 ZAF,MzansiXchange,MzansiXchange,other,,National Treasury,,2025-11-04-ggf-south-africa-government-data-exchange-pilot
@@ -333,3 +337,4 @@ ZWE,Zimbabwe Data Portal (Open Data for Africa),zimbabwe.opendataforafrica.org,o
 ZWE,Zimbabwe Open Data Initiative (ZODI),zimbabweopendata.org,other,,"Institute of Data Science Management, Data Management Society, Pan African Business Council",,2022-08-12-zwe-frma-feasibility-open-data-policy
 ZWE,ZimStat website,www.zimstat.co.zw,other,,ZimStat,,2022-08-12-zwe-frma-feasibility-open-data-policy
 ZWE,National Data Marketplace (Gov-Data-Hub),National Data Marketplace or Gov-Data-Hub (planned),other,,,,2026-01-01-zimbabwe-national-ai-strategy-2026-2030
+ZWE,Pangolin AI,Zimbabwe,other,,"Ministry of ICT, Postal and Courier Services",,2026-10-28-zimbabwe-to-fully-operationalise-pangolin-ai-platform-by-q1-2027
