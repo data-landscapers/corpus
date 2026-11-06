@@ -1,6 +1,6 @@
 ---
 title: Tanzania: finance
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: TZA
 ---
 
@@ -25,15 +25,15 @@ place: TZA
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num">5</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">6</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">2</td><td class="num">3</td><td class="num total">6</td></tr>
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num">3</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">5</td></tr>
-<tr><th scope="row">Geospatial data</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">4</td><td class="num zero"></td><td class="num total">5</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num total">3</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">3</td></tr>
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Legislation and regulation</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">555</td><td class="num">115</td><td class="num">26</td><td class="num">207</td><td class="num">243</td><td class="num">516</td><td class="num total">1,661</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">555</td><td class="num">115</td><td class="num">26</td><td class="num">207</td><td class="num">241</td><td class="num">516</td><td class="num total">1,659</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/TZA/all-finance.html">Full table &mdash; 466 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/TZA/all-finance.html">Full table &mdash; 465 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/TZA/TZA-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -84,15 +84,15 @@ place: TZA
 <tr><th scope="row">Cybersecurity</th><td class="num">6</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">6</td></tr>
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num">3</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">5</td></tr>
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num">5</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">5</td></tr>
-<tr><th scope="row">Geospatial data</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">4</td><td class="num zero"></td><td class="num total">5</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num total">3</td></tr>
 <tr><th scope="row">Legislation and regulation</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">555</td><td class="num">115</td><td class="num">26</td><td class="num">56</td><td class="num">106</td><td class="num">358</td><td class="num total">1,216</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">555</td><td class="num">115</td><td class="num">26</td><td class="num">56</td><td class="num">104</td><td class="num">358</td><td class="num total">1,214</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/TZA/finance.html">Full table &mdash; 70 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/TZA/finance.html">Full table &mdash; 69 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/TZA/TZA-nonstate.csv" download>&darr; Download CSV</a>
 </div>
