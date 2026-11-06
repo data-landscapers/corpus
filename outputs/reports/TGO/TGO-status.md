@@ -1,12 +1,12 @@
 ---
 title: Togo: status report
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: TGO
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 10
-sources_cited: 249
+sources_cited: 250
 sections_written: 39
 not_established: 2
 acquire_lines: 40
@@ -213,7 +213,7 @@ What the number gives access to is still thin, and one compelled use has been ad
 ### Digital Payments and Fintech
 <!-- dpi.pay -->
 
-[Togo's pension fund made its first disbursements by bank transfer and mobile money in July 2026 and gave beneficiaries until 31 August 2026 to supply payment details or have payment interrupted](https://actu-togo.tg/2026/08/04/togo-paiements-des-allocations-de-retraite-les-beneficiaires-invites-a-utiliser-le-numero-vert-8220/).
+[Togo's pension fund made its first disbursements by bank transfer and mobile money in July 2026 and gave beneficiaries until 31 August 2026 to supply payment details or have payment interrupted](https://actu-togo.tg/2026/08/04/togo-paiements-des-allocations-de-retraite-les-beneficiaires-invites-a-utiliser-le-numero-vert-8220/). [The Caisse de Retraites du Togo ended cash payment at its counters from July 2026, paying pensions through Mixx by Yas, Flooz or bank transfer](https://www.republiquetogolaise.tg/social/1606-11993-pensions-de-retraite-la-crt-met-fin-aux-paiements-en-especes).
 
 The rails underneath are regional, not national. [The BCEAO's instant payment platform PI-SPI went live across the eight WAEMU states on 30 September 2025, with three Togolese banks operational at launch](https://www.togofirst.com/en/banking/0110-17197-bceao-launches-instant-payments-platform-in-togo-with-three-banks); [six institutions were authorised to open the service to the public in Togo by 24 February 2026](https://www.togofirst.com/fr/finance/0603-18394-bceao-six-acteurs-autorises-a-ouvrir-au-public-les-services-de-paiement-instantane-au-togo); and [Mixx by Yas became the first mobile wallet on the platform on 14 April 2026](https://www.togofirst.com/fr/finance/1404-18708-mixx-togo-lance-les-paiements-et-virements-instantanes-dans-luemoa-via-la-plateforme-pi-spi), bringing interoperable union-wide transfers and a merchant QR code with it. The central bank [opened a public developer sandbox in November 2025](https://www.togofirst.com/en/itc/1811-17593-bceao-launches-developer-sandbox-for-instant-payments) and [set 30 June 2026 as the deadline for operators to finish connecting](https://www.togofirst.com/fr/finance/0304-18641-la-bceao-fixe-au-30-juin-l-adhesion-des-operateurs-a-sa-plateforme-de-paiement-instantane-pi-spi), then [moved it to 30 September 2026 for banks, electronic-money issuers and payment institutions and to 30 June 2027 for microfinance institutions](https://lefaso.net/spip.php?article147670).
 
