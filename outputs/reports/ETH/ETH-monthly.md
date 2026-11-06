@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: ETH
-ledger_rows: 25
+ledger_rows: 26
 not_held: 5
-record: bf40174d6d3d
+record: f2f55b568900
 ---
 
 # News, Oct – Nov 2026
@@ -127,6 +127,20 @@ Faydaverse, the state enterprise created from Ethiopia's national digital ID pro
 **[Ethio Telecom Extends 4G LTE Coverage to 80 More Towns](https://techafricanews.com/2026/10/26/ethio-telecom-extends-4g-lte-coverage-80-towns/)** — Tech Africa News, 26 October 2026
 
 Ethio telecom extended 4G LTE to 80 more Ethiopian towns. Its 2026/27 plan targets 4G population coverage of 95%, from 82.23%, across 1,500 towns.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Safaricom Ethiopia second network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Safaricom H1 profit jumps 36% to $448m](https://www.itweb.africa/article/safaricom-h1-profit-jumps-36-to-448m/wbrpO7g2eJOvDLZn)** — ITWeb Africa, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+
+Safaricom's net income rose 35.9% to KES 58.2 billion in the six months to 30 September 2026. M-PESA revenue grew 13.6% to KES 100.1 billion. Safaricom Ethiopia raised service revenue 71.6% and narrowed its EBITDA loss to KES 434.4 million.
 
 </div>
 

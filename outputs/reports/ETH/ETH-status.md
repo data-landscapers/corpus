@@ -1,12 +1,12 @@
 ---
 title: Ethiopia: status report
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: ETH
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 229
+sources_cited: 230
 sections_written: 39
 not_established: 0
 acquire_lines: 67
@@ -134,7 +134,7 @@ The European Union is the most frequent financier by count, with seven commitmen
 
 [Ethio Telecom signed network expansion agreements with Ericsson, ZTE, Huawei and Nokia at MWC 2026](https://addisstandard.com/ethio-telecom-announces-strategic-network-expansion-agreements-with-ericsson-zte-huawei-nokia-at-barcelona/). [By August 2026, 4G reached 92 per cent of the population across ZTE's footprint](https://techafricanews.com/2026/08/10/ethio-telecom-and-zte-advance-network-modernisation-as-4g-coverage-hits-92/). [There 124 new sites, 272 refarming sites and 115 rural sites were still outstanding](https://techafricanews.com/2026/08/10/ethio-telecom-and-zte-advance-network-modernisation-as-4g-coverage-hits-92/). [In October 2026 the operator extended 4G LTE to 80 more towns](https://techafricanews.com/2026/10/26/ethio-telecom-extends-4g-lte-coverage-80-towns/). [Its 2026/27 plan raises 4G population coverage from 82.23 to 95 per cent, across 1,500 towns](https://techafricanews.com/2026/10/26/ethio-telecom-extends-4g-lte-coverage-80-towns/). [Safaricom Ethiopia began laying its own regional fibre in August 2025, on an Afdera–Mekelle route](https://www.thereporterethiopia.com/46234/). [Domestic traffic crosses one internet exchange point, Addix, with three members](https://pulse.internetsociety.org/en/ixp-tracker/country/ET/) (2026).
 
-[A 2025 national assessment rated the community health information system's ICT infrastructure at 1.67 out of 5](https://pmc.ncbi.nlm.nih.gov/articles/PMC12403253/). [It found 32 per cent of required tablets supplied, and LAN internet in 28 per cent of health facilities, in 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12403253/). [ICT infrastructure is the weakest domain of the national DHIS2 deployment](https://medinform.jmir.org/2024/1/e50375) (2024). [In 2021 the Safaricom-led consortium paid US$850 million for a fifteen-year operating licence](https://vodacom.com/pdf/sens/2021/wakanda-category-2-announcement-13-september-2021-publication.pdf). [Its network passed 15 million 90-day active subscribers in September 2026](https://tech-ish.com/2026/09/14/safaricom-ethiopia-passes-15-million-subscribers-five-years-after-getting-its-licence/). [The incumbent had 72.09 million active mobile subscribers at June 2026](https://tech-ish.com/2026/09/14/safaricom-ethiopia-passes-15-million-subscribers-five-years-after-getting-its-licence/).
+[A 2025 national assessment rated the community health information system's ICT infrastructure at 1.67 out of 5](https://pmc.ncbi.nlm.nih.gov/articles/PMC12403253/). [It found 32 per cent of required tablets supplied, and LAN internet in 28 per cent of health facilities, in 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12403253/). [ICT infrastructure is the weakest domain of the national DHIS2 deployment](https://medinform.jmir.org/2024/1/e50375) (2024). [In 2021 the Safaricom-led consortium paid US$850 million for a fifteen-year operating licence](https://vodacom.com/pdf/sens/2021/wakanda-category-2-announcement-13-september-2021-publication.pdf). [Its network had 15.4 million three-month active customers at 30 September 2026, up 38.4 per cent in a year](https://www.itweb.africa/article/safaricom-h1-profit-jumps-36-to-448m/wbrpO7g2eJOvDLZn). [The incumbent had 72.09 million active mobile subscribers at June 2026](https://tech-ish.com/2026/09/14/safaricom-ethiopia-passes-15-million-subscribers-five-years-after-getting-its-licence/).
 
 ### Data Storage
 <!-- infra.store -->
