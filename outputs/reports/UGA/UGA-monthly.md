@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: UGA
-ledger_rows: 31
+ledger_rows: 34
 not_held: 12
-record: 3ff8a8f46e01
+record: 8e0f8831caf7
 ---
 
 # News, Oct – Nov 2026
@@ -320,6 +320,20 @@ Uganda's President Yoweri Museveni ordered the cancellation of the government's 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MTN Uganda coverage and fibre footprint</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MTN Uganda Limited: Unaudited financial results for the nine months ended 30 September 2026](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/11/MTN-Uganda-Limited-Earnings-Release-Q3-2026.pdf)** — MTN Uganda Limited, 4 November 2026
+
+9M 2026 PAT Ush 571.2bn (+21.2%); Q3 data growth slows to 7.8% on unauthorised public Wi-Fi; fintech up 13.3%.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -409,6 +423,34 @@ Uganda Revenue Authority had linked 2.13 million of its 5.41 million individual 
 **[Uganda: East African Community Affairs (EAC) member states plot to reduce dollar dependence](https://www.africa-newsroom.com/press/uganda-east-african-community-affairs-eac-member-states-plot-to-reduce-dollar-dependence?lang=en)** — Parliament of the Republic of Uganda (via APO Group), 4 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a>
 
 Uganda's EAC Affairs minister Rebecca Kadaga told Parliament on 3 November 2026 that the East African Payment System links only four countries' RTGS systems. These are Uganda, Kenya, Tanzania and Rwanda. She set out how an EAC cross-border payment masterplan, adopted in 2025, is to reduce use of the US dollar.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MTN MoMo active users</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[MTN Uganda Limited: Unaudited financial results for the nine months ended 30 September 2026](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/11/MTN-Uganda-Limited-Earnings-Release-Q3-2026.pdf)** — MTN Uganda Limited, 4 November 2026
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Housing Finance Bank services on the Interswitch agent network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Interswitch deepens Uganda's digital banking reach](https://www.itweb.africa/article/interswitch-deepens-ugandas-digital-banking-reach/nWJadMbNR3EMbjO1)** — ITWeb Africa, 5 November 2026
+
+Housing Finance Bank joined Interswitch's Quickteller agency banking network in Uganda on 4 November 2026. Customers can deposit, withdraw by card and check balances at more than 23,000 agents. The bank said its pilot had processed over UGX49 billion.
 
 </div>
 
