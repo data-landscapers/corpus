@@ -1,12 +1,12 @@
 ---
 title: South Africa: status report
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: ZAF
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 12
-sources_cited: 340
+sources_cited: 341
 sections_written: 39
 not_established: 1
 acquire_lines: 49
@@ -331,6 +331,8 @@ Much of the money behind the training is not the state's. [Germany funds a secon
 <!-- capacity.research -->
 
 The country's national research computing centre is replacing its ageing core: [the CSIR has taken delivery of a new 4-petaflop system, its first phase due live by the end of November 2026 and the full upgrade by the end of March 2027, with the national cyberinfrastructure system ring-fenced at R292m for 2026/27](https://pmg.org.za/committee-question/39936/), after parliament's science committee recorded in August 2026 that [the Centre for High Performance Computing has reached maximum capacity and cannot accommodate future growth](https://www.parliament.gov.za/press-releases/media-statement-committee-science-visits-national-integrated-cyber-infrastructure-system). It sits inside the state's own [National Integrated Cyber Infrastructure System, run by the CSIR for the science department](https://www.parliament.gov.za/press-releases/media-statement-committee-science-visits-national-integrated-cyber-infrastructure-system). Age is the other half of the problem, and it has already been exploited: the science minister told the National Assembly that the late-May 2026 breach of the Lengau supercomputer was caused by [vulnerabilities associated with the legacy high-performance computing system](https://www.itweb.co.za/article/cause-of-breach-on-sas-supercomputer-revealed/KPNG878NLeGq4mwD), that the intrusion reached parts of the environment and deployed crypto-currency mining malware, and that ageing components are technically constrained or no longer fully supported by their original vendors. [A remediation programme covering access controls, privileged-access management, network segmentation, patch management and monitoring has since been run](https://www.itweb.co.za/article/cause-of-breach-on-sas-supercomputer-revealed/KPNG878NLeGq4mwD). Where research capacity is protected, it is protected by spectrum rather than money — [the National Radio Frequency Plan 2026 shields the radio-astronomy reserve around the Square Kilometre Array](https://www.icasa.org.za/legislation-and-regulations/national-radio-frequency-plan-2026).
+
+[Gross spending on research and development reached R44.2 billion in 2024/25 but fell from 0.62 to 0.60 per cent of GDP, while ICT research spending rose R853 million to R5.7 billion](https://www.itweb.co.za/article/sas-ict-sector-records-largest-increase-in-rd-spend/G98YdqLGAAGMX2PD).
 
 [The University of Cape Town and the Global Center on AI Governance launched the African Hub on AI Safety, Peace and Security on 28 September 2025](https://ai.uct.ac.za/events/launch-african-hub-ai-safety-peace-and-security), under the AI4D programme and financed by the UK's FCDO and Canada's IDRC, to carry African priorities into a global AI-safety debate set elsewhere. The same programme is funding [a GPU cluster for AI research at the university, to be live within a year of March 2026](https://www.news.uct.ac.za/images/userfiles/downloads/media/2026_03_26_AI.pdf). Language models are a university build rather than a state one: [the science minister stated that no government-backed home-grown large language model is under development, the department funding language resources instead](https://pmg.org.za/committee-question/32962/) (October 2025), while [four universities are building models for isiXhosa, isiZulu and Sepedi](https://www.news.uct.ac.za/article/-2026-03-18-uct-researchers-join-national-effort-to-build-ai-tools-for-african-languages) and [Cape Town researchers released MzansiLM, trained from scratch on all 11 official written languages](https://www.news.uct.ac.za/article/-2026-05-04-uct-researchers-develop-ai-model-for-11-south-african-languages) (May 2026).
 

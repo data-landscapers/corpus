@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: ZAF
-ledger_rows: 85
+ledger_rows: 87
 not_held: 19
-record: fa9f2d6a21a2
+record: db686c405ac9
 ---
 
 # News, Oct – Nov 2026
@@ -1064,6 +1064,14 @@ Minister Leon Schreiber hailed more than one million replacement Smart ID applic
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Nedbank gears up for smart ID rollout](https://www.itweb.co.za/article/nedbank-gears-up-for-smart-id-rollout/lLn147mQN8l7J6Aa)** — ITWeb South Africa, 5 November 2026
+
+Nedbank announced a phased rollout of Home Affairs smart-ID services at its branches. It begins with its own staff in November 2026, then nine pilot sites, and reaches all nine provinces in early 2027. Integration with Home Affairs systems is under test, and the fee is waived during the pilot.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1420,6 +1428,8 @@ Google named 15 South African-led, revenue-generating AI startups to its 2026 Go
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
 <a href="#training-and-skills">Training and skills</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#research-institutions">Research institutions</a>
 </nav>
 
 ### Training and skills
@@ -1447,6 +1457,36 @@ At the CollectiveXChange 2026 summit in Johannesburg on 15 October, The Collecti
 **[Empowering Educators and Learners in Sub-Saharan Africa](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/empowering-educators-and-learners-in-sub-saharan-africa-2026/)** — Google, 4 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
 
 Summarised under [AI](#ai).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Didi Mobile Academy (WhatsApp digital-skills course)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digify Africa brings digital training to unemployed youth via WhatsApp](https://www.itweb.co.za/article/digify-africa-brings-digital-training-to-unemployed-youth-via-whatsapp/RgeVDvPR3x3MKJN3)** — ITWeb South Africa, 5 November 2026
+
+Digify Africa launched the Didi Mobile Academy, a WhatsApp digital-skills course for South Africans aged 18 to 35. The Trevor Noah Foundation's R50 million Kulaninati Innovation Fund pays for it. The first course has five modules of about 15 minutes each.
+
+</div>
+
+</div>
+
+### Research institutions
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Gross domestic expenditure on research and development</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SA’s ICT sector records largest increase in R&D spend](https://www.itweb.co.za/article/sas-ict-sector-records-largest-increase-in-rd-spend/G98YdqLGAAGMX2PD)** — ITWeb South Africa, 5 November 2026
+
+The National R&D Survey for 2024/25 puts South Africa's ICT research spending at R5.7 billion, up R853 million, the largest rise of any field. Total R&D spending was R44.2 billion, and intensity fell from 0.62% to 0.60% of GDP. Business R&D fell by R742 million.
 
 </div>
 
