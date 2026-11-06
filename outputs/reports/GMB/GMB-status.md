@@ -1,12 +1,12 @@
 ---
 title: Gambia: status report
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: GMB
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 23
-sources_cited: 271
+sources_cited: 272
 sections_written: 39
 not_established: 0
 acquire_lines: 39
@@ -207,7 +207,7 @@ Five Central Bank publications between December 2025 and August 2026 give four d
 
 [BANTABA 2.0 went live on 15 December 2025](https://thepoint.gm/africa/gambia/headlines/gambia-launches-bantaba-2-0-first-real-time-interoperable-payment-system), a Mojaloop-based instant payment system operated by Gamswitch. [It clears and settles across banks, mobile money operators, microfinance institutions and fintechs](https://thepoint.gm/africa/gambia/headlines/gambia-launches-bantaba-2-0-first-real-time-interoperable-payment-system). It was [built under the Gambia Interoperability Switch Programme, led by the Central Bank and the communications ministry](https://www.gamswitch.com/press-release/the-gambia-launches-bantaba-2-0-its-first-real-time-interoperable-payment-system). [The operator describes what is live as a first phase](https://www.gamswitch.com/press-release/the-gambia-launches-bantaba-2-0-its-first-real-time-interoperable-payment-system).
 
-As at April 2026 [six commercial banks were live on the Pan-African Payment and Settlement System, and no Gambian mobile-money operator or wallet was on the list](https://papss.com/wp-content/uploads/2026/03/PAPSS-LIST-OF-LIVE-COMMERCIAL-BANKS_APRIL2026.pdf). In June 2026 [one operator connected its Gambian and Sierra Leonean wallets for instant transfers](https://www.africell.com/story/afrimoney-sierra-leone-the-gambia-connected/). [Since January 2026 the Nafa cash transfer has paid bi-monthly grants to more than 15,000 rural households through Wave](https://standard.gm/rise-project-boosts-rural-livelihoods-with-nafa-cash-transfers/). In March 2026 [Yonna Wallet became the first Gambian fintech authorised to collect payments for all government services through the Accountant General's Department](https://standard.gm/govt-payments-now-digitalised-live-on-yonna-wallet-app).
+As at April 2026 [six commercial banks were live on the Pan-African Payment and Settlement System, and no Gambian mobile-money operator or wallet was on the list](https://papss.com/wp-content/uploads/2026/03/PAPSS-LIST-OF-LIVE-COMMERCIAL-BANKS_APRIL2026.pdf). In June 2026 [one operator connected its Gambian and Sierra Leonean wallets for instant transfers](https://www.africell.com/story/afrimoney-sierra-leone-the-gambia-connected/). [Since January 2026 the Nafa cash transfer has paid bi-monthly grants to more than 15,000 rural households through Wave](https://standard.gm/rise-project-boosts-rural-livelihoods-with-nafa-cash-transfers/). [Its July 2026 payments of GMD 3,000 a month went through QMoney, with the programme covering all transaction fees](https://standard.gm/thousands-of-beneficiaries-receive-nafa-cash-transfer/). In March 2026 [Yonna Wallet became the first Gambian fintech authorised to collect payments for all government services through the Accountant General's Department](https://standard.gm/govt-payments-now-digitalised-live-on-yonna-wallet-app).
 
 Digital retail payments run under [the Central Bank's 2011 mobile money regulation](https://www.cbg.gm/downloads-file/b2064e61-f37b-11e9-876c-02e599c15748). [Its section 8.1 obliges licensed providers to use systems capable of domestic and international interoperability](https://www.cbg.gm/downloads-file/b2064e61-f37b-11e9-876c-02e599c15748); it does not oblige them to interoperate. [Access to banking services scored 15.4 out of 100 in 2023, one of the country's ten worst governance indicators, up 1.2 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-gm.pdf).
 
@@ -351,7 +351,7 @@ In April 2026 [draft regulations giving consumers a right to complain, with time
 
 [The Persons with Disabilities Act 2021 addresses information and communications in general terms and sets no digital or web accessibility standard](https://mogcsw.gov.gm/wp-content/uploads/2024/09/Persons-with-Disabilities-Act-20211.pdf). [A framework for monitoring the Act, accessibility included, was validated in February 2026](https://thepoint.gm/africa/gambia/national-news/nhrc-validates-monitoring-framework-to-strengthen-disability-rights-implementation). On 11 October 2025 [Ecobank Gambia handed a refurbished ICT laboratory of fifteen machines running the NVDA screen reader to the Gambia Organization of the Visually Impaired](https://thepoint.gm/africa/gambia/national-news/ecobank-gambia-donates-refurbished-ict-lab-to-govi-as-part-of-ecobank-day-2025-celebration).
 
-[The Nafa cash transfer programme moved into 10 new districts in November 2025, with nationwide expansion planned for 2026](https://documents1.worldbank.org/curated/en/099112925154035950/pdf/P179233-79b99711-b6ff-4c20-b5cb-2d5ef7838226.pdf). [It pays rural households through a mobile money platform](https://standard.gm/rise-project-boosts-rural-livelihoods-with-nafa-cash-transfers/), selected from [the national social registry](https://blogs.worldbank.org/en/nasikiliza/the-gambia-social-registry-a-success-story-in-systems-building).
+[The Nafa cash transfer programme moved into 10 new districts in November 2025](https://documents1.worldbank.org/curated/en/099112925154035950/pdf/P179233-79b99711-b6ff-4c20-b5cb-2d5ef7838226.pdf), and [completed its nationwide rollout in July 2026 with first payments in Banjul, Kanifing and Kombo](https://standard.gm/thousands-of-beneficiaries-receive-nafa-cash-transfer/). [It pays rural households through a mobile money platform](https://standard.gm/rise-project-boosts-rural-livelihoods-with-nafa-cash-transfers/), selected from [the national social registry](https://blogs.worldbank.org/en/nasikiliza/the-gambia-social-registry-a-success-story-in-systems-building).
 
 [The National Migration Policy 2020-2030 is the standing framework for refugees, statelessness, non-discrimination, identity documents, border management and migration data](https://policies.gov.gm/d/caa747fd-5bad-11ec-9b31-029254d29bb1). [The Refugee Act 2008 entitles refugees to a refugee identity card and a Convention travel document](http://citizenshiprightsafrica.org/wp-content/uploads/2016/01/Gambia-Refugee-Act-2008.pdf). [UNHCR recorded 4,214 people of concern at 31 May 2026](https://data.unhcr.org/en/country/gmb).
 
