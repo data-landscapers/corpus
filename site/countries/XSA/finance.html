@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Southern Africa — non-state finance — Data Landscapers</title>
+<meta name="description" content="Every non-state commitment to Southern Africa's digital sector held in the Data Landscapers base, all fields, searchable and downloadable.">
+<link rel="canonical" href="https://corpus.data-landscapers.io/countries/XSA/finance.html">
+
+<link rel="stylesheet" href="../../assets/css/main.css?v=c7777c77">
+<link rel="stylesheet" href="../../assets/css/corpus.css?v=a2d93af9">
+<link rel="stylesheet" href="../../assets/css/country.css?v=8ad99761">
+<link rel="stylesheet" href="../../assets/css/datatable.css?v=284d32e1">
+<link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://corpus.data-landscapers.io/countries/XSA/finance.html#dataset",
+  "name": "Data Landscapers non-state finance — Southern Africa",
+  "description": "Every non-state financial commitment to the digital sector in Southern Africa held by Data Landscapers, as a single table: the financier, the year the finance was approved and the year the activity ends, the sector and instrument, the committed amount in millions of US dollars with its basis and a quality assessment, the status, the recipient organisation, the original currency amount, the financier's own project identifier and IATI activity identifier where published, and the public source each row rests on. The amounts are commitments rather than disbursements, because disbursement data is largely unavailable, so a total of them is what was promised to Southern Africa and not what was spent there — it is not a measure of market size. A commitment that is only partly digital counts at half its amount, and its scope and the reason are given. The subjects covered are digital transformation, digital public infrastructure and data governance. Domestic budget appropriations are not in this table. This is the Southern Africa cut of the full Data Landscapers non-state finance table.",
+  "url": "https://corpus.data-landscapers.io/countries/XSA/finance.html",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isAccessibleForFree": true,
+  "creator": {
+    "@type": "Organization",
+    "name": "Data Landscapers",
+    "url": "https://data-landscapers.io/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://data-landscapers.io/assets/logo.png"
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Data Landscapers",
+    "url": "https://data-landscapers.io/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://data-landscapers.io/assets/logo.png"
+    }
+  },
+  "includedInDataCatalog": {
+    "@type": "DataCatalog",
+    "name": "Data Landscapers Corpus",
+    "url": "https://corpus.data-landscapers.io/"
+  },
+  "inLanguage": "en",
+  "keywords": [
+    "Digital transformation",
+    "Digital public infrastructure",
+    "Data governance",
+    "Development finance",
+    "Non-state finance",
+    "Digital infrastructure",
+    "Southern Africa"
+  ],
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "Southern Africa"
+  },
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "recipient",
+      "description": "The ISO 3166-1 alpha-3 code for the recipient country, or the region code for a commitment to several countries"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "start_year",
+      "description": "The year in which the finance was approved or committed. In some circumstances this may be a planned, rather than actual, start year."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "end_year",
+      "description": "The year in which the financed activity ended or is due to end"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "published_date",
+      "description": "The date the source was published. Where the source gives only a year or month, as IATI activity records do, the date Data Landscapers found it."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "financier",
+      "description": "The short or abbreviated name of the institution providing the finance"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "african",
+      "description": "African where the financier is an African institution, non-African where it is not"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "primary_topic",
+      "description": "What the money is for, as a topic in Data Landscapers' taxonomy, which is listed at https://corpus.data-landscapers.io/methodology/lookups/#topics"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "instrument",
+      "description": "The financial instrument such as grant, loan equity."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "aid",
+      "description": "true where the instrument is a grant, a concessional loan or technical assistance; false for every other instrument, including Unknown"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "commitment_usd_m",
+      "description": "The committed value of  the finance in millions of US dollars. If the commitment was made in a different currency this is reported in the original amount column and has been converted to USD using IMF annual average rates. A commitment whose scope is partial or unclear counts at half its value."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "amount_basis",
+      "description": "Commitments are used in this table as data on actual disbursements is often missing. There are a few transactions where only a disbursement, rather than commitment, figure is available. This column records this."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "amount_quality",
+      "description": "Data in this table is collected from a variety of sources, including the press. This column attempts to assess the reliability of the data."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "scope",
+      "description": "Whether the whole commitment is digital (whole), part of it is and the digital part cannot be separated (partial), or it is unclear. commitment_usd_m counts a partial or unclear commitment at half. Blank where the commitment has not yet been assessed. Commitments where digital is incidental to another purpose are not in the table."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "scope_basis",
+      "description": "Why the commitment was judged whole, partial or unclear, in our words."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "status",
+      "description": "Whether the contract is pipeline, approved, active or completed"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "title",
+      "description": "The title of the investment"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "description",
+      "description": "A brief description of the investment"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "beneficiary_type",
+      "description": "e.g. Government, private sector"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "recipient_organisation",
+      "description": "The name of the institution receiving the finance"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "original_amount",
+      "description": "The amount and currency of the legal commitment"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "project_id",
+      "description": "If the financier maintains a public portfolio, this is the Id of their record"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "iati_activity_id",
+      "description": "If the financier publishes their activities to the International Aid Transparency Initiative, this is the unique identifier used in IATI xml data."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "url",
+      "description": "A public url referencing the source from which the data in this table has been collected."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "financier_slug",
+      "description": "The financier identifier within the Corpus repository"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "deal_id",
+      "description": "A unique key for the deal in the Data Landscapers base, such as afdb-cpv-007. No two deals share one, and the national budgets table uses the same column for its lines."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "record",
+      "description": "The identifier of the record within the  Corpus repository"
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://corpus.data-landscapers.io/countries/XSA/XSA-nonstate.csv",
+      "contentSize": "13 KB"
+    }
+  ],
+  "size": {
+    "@type": "QuantitativeValue",
+    "unitText": "records",
+    "value": 12
+  },
+  "temporalCoverage": "2018/2026",
+  "dateModified": "2026-11-06",
+  "isPartOf": "https://corpus.data-landscapers.io/finance/#dataset"
+}
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-BF3X4N6YML');
+</script>
+</head>
+<body>
+<div class="site-wrap">
+
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a href="https://data-landscapers.io/" class="site-logo">
+        <img src="../../assets/logo.png" alt="Data Landscapers" class="site-logo__img">
+        <span class="site-logo__text">Data Landscapers
+          <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
+        </span>
+      </a>
+      <nav class="site-nav" id="site-nav" aria-label="Main navigation">
+        <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
+        <a href="https://data-landscapers.io/writing/">Work in progress</a>
+        <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
+        <a href="https://data-landscapers.io/about/">About</a>
+      </nav>
+      <details class="site-menu" id="site-menu">
+        <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+        <nav class="site-menu__panel" aria-label="Site menu">
+          <ul>
+            <li><a href="https://data-landscapers.io/writing/">Work in progress</a></li>
+            <li><a href="https://data-landscapers.io/portfolio/">Portfolio</a></li>
+            <li><a href="https://data-landscapers.io/about/">About</a></li>
+            <li><a href="https://corpus.data-landscapers.io/">Corpus</a></li>
+            <li><a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a></li>
+            <li><a href="https://corpus.data-landscapers.io/maturity/">Maturity</a></li>
+            <li><a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/progress/">Topics</a></li>
+                <li><a href="https://corpus.data-landscapers.io/progress/countries/">Countries</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a></li>
+            <li><a href="https://corpus.data-landscapers.io/topics/">Topics</a></li>
+            <li><a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/finance/">Non-state finance</a></li>
+                <li><a href="https://corpus.data-landscapers.io/finance/budgets/">Budgets</a></li>
+                <li><a href="https://corpus.data-landscapers.io/finance/all/">All finance</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/datasets/">Datasets</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/datasets/data-centres/">Data Centres</a></li>
+                <li><a href="https://corpus.data-landscapers.io/datasets/institution-hosting/">Institution Hosting</a></li>
+              </ul>
+            </li>
+            <li><a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a></li>
+            <li><a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+              <ul>
+                <li><a href="https://corpus.data-landscapers.io/methodology/document-lifecycle/">Document Lifecycle</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/process-inventory/">Process Inventory</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/lookups/">Process Lookups</a></li>
+                <li><a href="https://corpus.data-landscapers.io/methodology/changelog/">Change Log</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </details>
+      <script>
+        (function () {
+          var m = document.getElementById('site-menu');
+          document.addEventListener('click', function (e) { if (m.open && !m.contains(e.target)) { m.open = false; } });
+          document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && m.open) { m.open = false; m.querySelector('summary').focus(); } });
+        })();
+      </script>
+    </div>
+  </header>
+
+  <nav class="corpus-nav" aria-label="Corpus navigation">
+    <div class="corpus-nav__inner">
+      <a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a>
+      <a href="https://corpus.data-landscapers.io/maturity/">Maturity</a>
+      <a href="https://corpus.data-landscapers.io/progress/">Progress</a>
+      <a href="https://corpus.data-landscapers.io/countries/" class="active">Countries & Regions</a>
+      <a href="https://corpus.data-landscapers.io/topics/">Topics</a>
+      <a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+      <a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a>
+      <a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+    </div>
+  </nav>
+
+  <main id="main">
+  <div class="container container--wide">
+
+    <header class="article-header">
+      <div class="article-header__crumb"><a href="https://corpus.data-landscapers.io/countries/">Countries &amp; Regions</a> &nbsp;/&nbsp; <a href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html">Southern Africa</a></div>
+      <a class="feedback-ask" href="mailto:info@data-landscapers.io?subject=Corpus%20feedback%20%E2%80%94%20Southern%20Africa%20%E2%80%94%20non-state%20finance&amp;body=Page%3A%20https%3A//corpus.data-landscapers.io/countries/XSA/finance.html%0A%0AWrong%2C%20missing%2C%20or%20useful%20%E2%80%94%20and%20if%20you%20used%20it%2C%20what%20for%3A%0A%0A">Useful? Wrong? Tell us</a>
+      <h1 class="article-header__title">Non-state finance<button type="button" class="info-btn" popovertarget="info-finance" aria-label="About this page">i</button></h1>
+      <div class="article-header__byline">Southern Africa &nbsp;·&nbsp; 12 commitments &nbsp;·&nbsp; US$7m &nbsp;·&nbsp; 2018&ndash;2024</div>
+    </header>
+<div class="info-pop" id="info-finance" popover>
+<button type="button" class="info-pop__close" popovertarget="info-finance" popovertargetaction="hide" aria-label="Close">&times;</button>
+<p>Corpus' work on building finance datasets is aimed at overcoming three challenges: </p>
+<ul>
+<li>No one has integrated non-state finance data with national budgets, expenditure and audits.</li>
+<li>No one has joined up the full spectrum of cross-border and domestic, public and private investment.</li>
+<li>With the exception of the World Bank, no investors or governments have attempted to adopt a common modern taxonomy that classifies investments in categories compatible with digital transformation.</li>
+</ul>
+<p>The <strong><em>Non-state Finance</em></strong> dataset documents funds committed to digital transformation by financiers other than the state: bilateral and multilateral donors, development finance institutions, foundations, private investors, vendors and operators. Figures are commitments, not money spent, and are recorded in the year they were made (not spread across multi-year contracts). Regions are recipients in their own right, not totals of the countries in them.</p>
+<p>We parse the text accompanying each commitment to arrive at a primary topic categorisation. Some commitments are only partly digital: a rural project that pairs broadband with electrification, for example. The digital part cannot be separated, so <code>commitment_usd_m</code> counts 50% of a commitment whose scope is partial or unclear. The <code>scope_basis</code> column explains why a row was judged that way,</p>
+<p>The <strong><em>Budgets</em></strong> dataset monitors national budgets since 2024. Where available every digital-transformation-related budget line is traced from proposed through appropriated and revised to actual and audited expenditure. These values are recorded in the local currency. The most recent of the values is converted to US dollars for cross-country comparison.</p>
+<p>The <strong><em>All Finance</em></strong> dataset combines the above two tables. As far as we are aware this is the first time this integrated approach has been attempted in Africa.</p>
+</div>
+
+    <div class="dl-datatable"
+      data-src="XSA-nonstate.csv?v=96b7b3c7b80e"
+      data-cols="start_year, published_date, financier, primary_topic, instrument, commitment_usd_m, status, title, description, recipient_organisation, url"
+      data-filters="financier, african, primary_topic, instrument, aid, scope, status, beneficiary_type"
+      data-numeric="start_year, end_year, commitment_usd_m"
+      data-links="url"
+      data-detail="recipient, start_year, end_year, published_date, financier, african, primary_topic, instrument, aid, commitment_usd_m, amount_basis, amount_quality, scope, scope_basis, status, title, description, beneficiary_type, recipient_organisation, original_amount, project_id, iati_activity_id, url, financier_slug, deal_id, record"
+      data-labels="{&quot;aid&quot;: {&quot;true&quot;: &quot;Aid&quot;, &quot;false&quot;: &quot;Not aid&quot;}}"
+      data-filter-all="{&quot;aid&quot;: &quot;Aid and non-aid&quot;, &quot;african&quot;: &quot;African and non-African&quot;}"
+      data-sort="start_year:desc"
+      data-empty="No commitment matches those filters.">
+      <div class="dt-controls">
+        <span class="dt-title">Southern Africa &mdash; non-state finance</span>
+        <span class="dt-count">12 rows</span>
+        <a class="btn btn--sm" href="XSA-nonstate.csv" download>&darr; CSV</a>
+        <a class="btn btn--sm" href="../../datasets/metadata/#non-state-finance">Metadata</a>
+      </div>
+      <noscript>
+        <p>Sorting and filters need JavaScript. <a href="XSA-nonstate.csv">Download the CSV</a> for every row and field.</p>
+      </noscript>
+      <div class="dt-baked"><table class="data-table" style="width:2478px"><colgroup><col style="width:91px"><col style="width:97px"><col style="width:207px"><col style="width:149px"><col style="width:103px"><col style="width:103px"><col style="width:91px"><col style="width:403px"><col style="width:522px"><col style="width:227px"><col style="width:485px"></colgroup><thead><tr><th class="num sort-desc">start_​year</th><th>published_​date</th><th>financier</th><th>primary_​topic</th><th>instrument</th><th class="num">commitment_​usd_​m</th><th>status</th><th>title</th><th>description</th><th>recipient_​organisation</th><th>url</th></tr></thead>
+<tbody>
+<tr><td class="num"><span class="dt-cell">2024</span></td><td><span class="dt-cell">2024-12-06</span></td><td><span class="dt-cell">Gates Foundation</span></td><td><span class="dt-cell">AI</span></td><td><span class="dt-cell">Grant</span></td><td class="num"><span class="dt-cell">1</span></td><td><span class="dt-cell">Unknown</span></td><td><span class="dt-cell">LLM Training Library for Development</span></td><td><span class="dt-cell">To support the responsible curation and use of development data in Large Language models, in order to increase global representation and improve the function of health- and language models</span></td><td><span class="dt-cell">Southern Africa (XSA); recipient organisation not named, recipient unspecified</span></td><td><a href="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=9PRIV1601.F7_X.1000.._T._T.C.Q._T..&amp;pd=2024%2C2024&amp;to[TIME_PERIOD]=false" target="_blank" rel="noopener noreferrer" title="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=9PRIV1601.F7_X.1000.._T._T.C.Q._T..&amp;pd=2024%2C2024&amp;to[TIME_PERIOD]=false">data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;…</a></td></tr>
+<tr><td class="num"><span class="dt-cell">2024</span></td><td><span class="dt-cell">2024-11-08</span></td><td><span class="dt-cell">Ford Foundation</span></td><td><span class="dt-cell">Public debate and participation in policymaking</span></td><td><span class="dt-cell">Grant</span></td><td class="num"><span class="dt-cell">3</span></td><td><span class="dt-cell">Unknown</span></td><td><span class="dt-cell">Collaboration on International ICT Policy for East and Southern Africa</span></td><td><span class="dt-cell">Programme: Technology and Society. Description: General support for advancing digital rights in Eastern and Southern Africa and core support for institutional strengthening</span></td><td><span class="dt-cell">Africa (XAF); recipient organisation not named, recipient unspecified</span></td><td><a href="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=9PRIV1627.F_X.1000.._T._T.C.Q._T..&amp;pd=2024%2C2024&amp;to[TIME_PERIOD]=false" target="_blank" rel="noopener noreferrer" title="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=9PRIV1627.F_X.1000.._T._T.C.Q._T..&amp;pd=2024%2C2024&amp;to[TIME_PERIOD]=false">data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;…</a></td></tr>
+<tr><td class="num"><span class="dt-cell">2024</span></td><td><span class="dt-cell">2024-09-12</span></td><td><span class="dt-cell">Gates Foundation</span></td><td><span class="dt-cell">AI</span></td><td><span class="dt-cell">Grant</span></td><td class="num"><span class="dt-cell">0.279</span></td><td><span class="dt-cell">Unknown</span></td><td><span class="dt-cell">Design, Establish, and Facilitate AI Global South Community of Practice</span></td><td><span class="dt-cell">To design and implement a Global South AI Community of Practice among innovators, functional experts, and other AI ecosystem stakeholders.</span></td><td><span class="dt-cell">Southern Africa (XSA); recipient organisation not named, recipient unspecified</span></td><td><a href="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=9PRIV1601.F7_X.1000.._T._T.C.Q._T..&amp;pd=2024%2C2024&amp;to[TIME_PERIOD]=false" target="_blank" rel="noopener noreferrer" title="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=9PRIV1601.F7_X.1000.._T._T.C.Q._T..&amp;pd=2024%2C2024&amp;to[TIME_PERIOD]=false">data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;…</a></td></tr>
+<tr><td class="num"><span class="dt-cell">2022</span></td><td><span class="dt-cell">2022-08-04</span></td><td><span class="dt-cell">Hewlett Foundation</span></td><td><span class="dt-cell">Strategies, plans and policies</span></td><td><span class="dt-cell">Grant</span></td><td class="num"><span class="dt-cell">0.2</span></td><td><span class="dt-cell">Unknown</span></td><td><span class="dt-cell">for general operating support</span></td><td><span class="dt-cell">Programme: Gender Equity &amp; Governance &gt; Evidence-Informed Policymaking. Description: Established in 2004, the Collaboration on International ICT Policy for East and Southern Africa (CIPESA) is a leading center for research and analysis of information aimed to enable policymakers in the region to better understand ICT policy issues, and for various other stakeholders to effectively use ICT to improve governance and livelihoods. CIPESA?s work at the continental, regional, and national level responds to the shortage of evidence-based research, resources, and actors consistently working at the nexus of technology, human rights, and society. CIPESA will continue to foster work related to responsible data governance that promotes data openness and respect for citizens? digital rights. This grant sits within a cluster of grants under the Evidence-Informed Policymaking strategy to strengthen a field of African institutions working on data governance. The goal of this cluster is to help governments in East and West Africa develop policy frameworks that balance public good uses of data with data privacy and protection.</span></td><td><span class="dt-cell">Southern Africa (XSA); recipient organisation not named, recipient unspecified</span></td><td><a href="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=9PRIV1624.F7_X.1000.._T._T.C.Q._T..&amp;pd=2022%2C2022&amp;to[TIME_PERIOD]=false" target="_blank" rel="noopener noreferrer" title="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=9PRIV1624.F7_X.1000.._T._T.C.Q._T..&amp;pd=2022%2C2022&amp;to[TIME_PERIOD]=false">data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;…</a></td></tr>
+<tr><td class="num"><span class="dt-cell">2022</span></td><td><span class="dt-cell">2026-11-06</span></td><td><span class="dt-cell">Open Society Foundations</span></td><td><span class="dt-cell">Public debate and participation in policymaking</span></td><td><span class="dt-cell">Grant</span></td><td class="num"><span class="dt-cell">0.36</span></td><td><span class="dt-cell">Unknown</span></td><td><span class="dt-cell">to support policy advocacy on universal digital rights in Eastern and Southern Africa</span></td><td><span class="dt-cell">to support policy advocacy on universal digital rights in Eastern and Southern Africa</span></td><td><span class="dt-cell">Africa (XAF); recipient organisation not named, recipient unspecified</span></td><td><a href="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=9PRIV1643.F_X.1000.._T._T.C.Q._T..&amp;pd=2022%2C2022&amp;to[TIME_PERIOD]=false" target="_blank" rel="noopener noreferrer" title="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=9PRIV1643.F_X.1000.._T._T.C.Q._T..&amp;pd=2022%2C2022&amp;to[TIME_PERIOD]=false">data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;…</a></td></tr>
+<tr><td class="num"><span class="dt-cell">2020</span></td><td><span class="dt-cell">2020-08-20</span></td><td><span class="dt-cell">Hewlett Foundation</span></td><td><span class="dt-cell">Strategies, plans and policies</span></td><td><span class="dt-cell">Grant</span></td><td class="num"><span class="dt-cell">0.25</span></td><td><span class="dt-cell">Unknown</span></td><td><span class="dt-cell">for research on data governance and digital rights</span></td><td><span class="dt-cell">for research on data governance and digital rights</span></td><td><span class="dt-cell">Southern Africa (XSA); recipient organisation not named, recipient unspecified</span></td><td><a href="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=9PRIV1624.F7_X.1000.._T._T.C.Q._T..&amp;pd=2020%2C2020&amp;to[TIME_PERIOD]=false" target="_blank" rel="noopener noreferrer" title="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=9PRIV1624.F7_X.1000.._T._T.C.Q._T..&amp;pd=2020%2C2020&amp;to[TIME_PERIOD]=false">data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;…</a></td></tr>
+<tr><td class="num"><span class="dt-cell">2020</span></td><td><span class="dt-cell">2020-07-27</span></td><td><span class="dt-cell">Ford Foundation</span></td><td><span class="dt-cell">Public debate and participation in policymaking</span></td><td><span class="dt-cell">Grant</span></td><td class="num"><span class="dt-cell">0.35</span></td><td><span class="dt-cell">Unknown</span></td><td><span class="dt-cell">Collaboration on International ICT Policy for East and Southern Africa</span></td><td><span class="dt-cell">Programme: Technology and Society. Description: General support for advancing digital rights in Eastern and Southern Africa, and core support for institutional strengthening</span></td><td><span class="dt-cell">Southern Africa (XSA); recipient organisation not named, recipient unspecified</span></td><td><a href="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=9PRIV1627.F7_X.1000.._T._T.C.Q._T..&amp;pd=2020%2C2020&amp;to[TIME_PERIOD]=false" target="_blank" rel="noopener noreferrer" title="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=9PRIV1627.F7_X.1000.._T._T.C.Q._T..&amp;pd=2020%2C2020&amp;to[TIME_PERIOD]=false">data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;…</a></td></tr>
+<tr><td class="num"><span class="dt-cell">2020</span></td><td><span class="dt-cell">2020-04-23</span></td><td><span class="dt-cell">Ford Foundation</span></td><td><span class="dt-cell">Digital divides</span></td><td><span class="dt-cell">Grant</span></td><td class="num"><span class="dt-cell">0.075</span></td><td><span class="dt-cell">Unknown</span></td><td><span class="dt-cell">Collaboration on International ICT Policy for East and Southern Africa</span></td><td><span class="dt-cell">Programme: Technology and Society. Description: To raise awareness and conduct advocacy on the implementation of measures of digital inclusion for people with disabilities in Eastern and Southern Africa</span></td><td><span class="dt-cell">Southern Africa (XSA); recipient organisation not named, recipient unspecified</span></td><td><a href="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=9PRIV1627.F7_X.1000.._T._T.C.Q._T..&amp;pd=2020%2C2020&amp;to[TIME_PERIOD]=false" target="_blank" rel="noopener noreferrer" title="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=9PRIV1627.F7_X.1000.._T._T.C.Q._T..&amp;pd=2020%2C2020&amp;to[TIME_PERIOD]=false">data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;…</a></td></tr>
+<tr><td class="num"><span class="dt-cell">2020</span></td><td><span class="dt-cell">2026-11-06</span></td><td><span class="dt-cell">Open Society Foundations</span></td><td><span class="dt-cell">Legislation and regulation</span></td><td><span class="dt-cell">Grant</span></td><td class="num"><span class="dt-cell">0.05</span></td><td><span class="dt-cell">Unknown</span></td><td><span class="dt-cell">to support the second phase of the CyberBRICS project, which includes mapping existing regulation, identifying best practices, and developing policy r</span></td><td><span class="dt-cell">Programme: Asia Pacific Regional Office', 'Information Program. Description: to support the second phase of the CyberBRICS project, which includes mapping existing regulation, identifying best practices, and developing policy recommendations for BRICS countries on topics of internet policy</span></td><td><span class="dt-cell">Southern Africa (XSA); recipient organisation not named, recipient unspecified</span></td><td><a href="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=9PRIV1643.F7_X.1000.._T._T.C.Q._T..&amp;pd=2020%2C2020&amp;to[TIME_PERIOD]=false" target="_blank" rel="noopener noreferrer" title="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=9PRIV1643.F7_X.1000.._T._T.C.Q._T..&amp;pd=2020%2C2020&amp;to[TIME_PERIOD]=false">data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;…</a></td></tr>
+<tr><td class="num"><span class="dt-cell">2019</span></td><td><span class="dt-cell">2019-10-24</span></td><td><span class="dt-cell">Norway (Ministry of Foreign Affairs)</span></td><td><span class="dt-cell">Cybersecurity</span></td><td><span class="dt-cell">Grant</span></td><td class="num"><span class="dt-cell">1</span></td><td><span class="dt-cell">Unknown</span></td><td><span class="dt-cell">Cyber Capacity Center for Southern Africa</span></td><td><span class="dt-cell">The Project's planned effect on society is improved national cybersecurity awareness and posture in the Southern Africa region (Impact).The planned effects for the target group of the Project are increased Cybersecurity Capacity Maturity of SADC countries, improved efficacy of existing capacity resources, greater stakeholder collaboration and representation, and a global cybersecurity debate more informed by and reflecting the African context. (Outcome).</span></td><td><span class="dt-cell">Sub-Saharan Africa (XSS); recipient organisation not named, recipient unspecified</span></td><td><a href="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=NOR.F6_X.1000.._T._T.C.Q._T..&amp;pd=2019%2C2019&amp;to[TIME_PERIOD]=false" target="_blank" rel="noopener noreferrer" title="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=NOR.F6_X.1000.._T._T.C.Q._T..&amp;pd=2019%2C2019&amp;to[TIME_PERIOD]=false">data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;…</a></td></tr>
+<tr><td class="num"><span class="dt-cell">2019</span></td><td><span class="dt-cell">2019-08-30</span></td><td><span class="dt-cell">Ford Foundation</span></td><td><span class="dt-cell">Public debate and participation in policymaking</span></td><td><span class="dt-cell">Grant</span></td><td class="num"><span class="dt-cell">0.045</span></td><td><span class="dt-cell">Unknown</span></td><td><span class="dt-cell">General support for advancing digital rights in East and Southern Africa and project support for in</span></td><td><span class="dt-cell">General support for advancing digital rights in East and Southern Africa and project support for institutional strengthening</span></td><td><span class="dt-cell">Southern Africa (XSA); recipient organisation not named, recipient unspecified</span></td><td><a href="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=9PRIV1627.F7_X.1000.._T._T.C.Q._T..&amp;pd=2019%2C2019&amp;to[TIME_PERIOD]=false" target="_blank" rel="noopener noreferrer" title="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=9PRIV1627.F7_X.1000.._T._T.C.Q._T..&amp;pd=2019%2C2019&amp;to[TIME_PERIOD]=false">data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;…</a></td></tr>
+<tr><td class="num"><span class="dt-cell">2018</span></td><td><span class="dt-cell">2026-11-06</span></td><td><span class="dt-cell">United Kingdom (Department for Business, Innovation and Skills)</span></td><td><span class="dt-cell">Training and skills</span></td><td><span class="dt-cell">Grant</span></td><td class="num"><span class="dt-cell">0.02</span></td><td><span class="dt-cell">Unknown</span></td><td><span class="dt-cell">ODA Institution Awards</span></td><td><span class="dt-cell">ODA Institutional Award. SA-DISCnet programme, a collaborative data intensive science training network across southern Africa, to train African students in solving data science problems associated with UN Sustainable Development Goals. Training is provided in two workshops in South Africa, followed by 3-month placements with local companies pursuing SDG-related activities</span></td><td><span class="dt-cell">Africa (XAF); recipient organisation not named, recipient unspecified</span></td><td><a href="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=GBR.F_X.1000.._T._T.C.Q._T..&amp;pd=2018%2C2018&amp;to[TIME_PERIOD]=false" target="_blank" rel="noopener noreferrer" title="https://data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;df[id]=DSD_CRS%40DF_CRS&amp;df[ag]=OECD.DCD.FSD&amp;dq=GBR.F_X.1000.._T._T.C.Q._T..&amp;pd=2018%2C2018&amp;to[TIME_PERIOD]=false">data-explorer.oecd.org/vis?lc=en&amp;df[ds]=DcdDisseminateFinalDMZ&amp;…</a></td></tr>
+</tbody></table></div>
+    </div>
+
+    <div class="colophon">
+      <strong>About this table</strong>
+      <dl>
+        <dt>Built</dt><dd class="mono">2026-11-06</dd>
+        <dt>This file</dt><dd><a href="XSA-nonstate.csv">XSA-nonstate.csv</a> &mdash; updated as the data changes</dd>
+        <dt>Source</dt><dd><code>outputs/non-state-finance/XSA-nonstate.csv</code>, compiled by the finance pass</dd>
+        <dt>Fields</dt><dd><a href="../../metadata/non-state-finance-metadata.csv">non-state-finance-metadata.csv</a> &mdash; what each column means. One dictionary for every place&rsquo;s table, not a copy per place</dd>
+        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
+      </dl>
+    </div>
+
+  </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a> 2026 Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
+    </div>
+  </footer>
+
+</div>
+
+<script src="../../assets/js/datatable.js?v=e446e67f"></script>
+</body>
+</html>
