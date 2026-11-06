@@ -23,10 +23,10 @@ The AU Data Policy Framework asks for localisation of certain categories of data
 | 5 Leading | 0 |
 | 4 Operating | 6 |
 | 3 Established | 2 |
-| 2 Nascent | 31 |
+| 2 Nascent | 32 |
 | 1 Absent | 1 |
 | Unplaced | 8 |
-| No evidence | 6 |
+| No evidence | 5 |
 
 ## Countries
 
@@ -168,6 +168,12 @@ Guinea plans a sovereign cloud and holds state data in its national data centre;
 
 - At a 19 December 2025 validation workshop, consultant Emmanuel Elolo said Guinea's AI roadmap proposes a national data hub and a national sovereign cloud because state data are fragmented ([source, 2025-12-19](https://guineematin.com/2025/12/20/intelligence-artificielle-guinee-rapport-national-feuille-de-route/)).
 
+### Liberia: 2 Nascent
+
+The ID registry pledged in 2026 to keep national ID data in Liberia; no rule in force on state data is known.
+
+- NIR Executive Director Andrew Peters told a press conference in August that all data of the national ID scheme will be stored within Liberia and that OeSD will not be allowed to control it ([source, 2026-08](https://www.biometricupdate.com/202611/revenue-sharing-data-sovereignty-concerns-arise-from-liberia-id-card-concession)).
+
 ### Libya: 2 Nascent
 
 Libya set up an authority in 2026 to classify national data; no rule in force covers state data.
@@ -208,7 +214,7 @@ Mauritius plans a sovereign government cloud; no rule on state data is in force.
 
 ### Morocco: 2 Nascent
 
-Morocco plans a sovereign data centre for state data from 2027; no rule in force is shown covering it.
+Morocco hosts its social aid systems in a ministry data centre and plans a sovereign one for 2027; no rule in force covers state data.
 
 - L'Opinion reports Morocco's draft 2027 finance bill announces, within a MAD 1.34 billion envelope, cloud generalisation across administrations and a sovereign data centre in Rabat for the state's strategic data ([source, 2026-10-26](https://lopinion.ma/fr/actu-maroc/plf-2027---ia--les-donnees-strategiques-de-letat-auront-leur-propre-datacenter_a29710?articleId=1b958255-b43c-4b5e-ae46-c28f85519113)).
 - The draft 2027 finance bill's presentation note, presented to Parliament on 2026-10-23, provides for a Cloud First circular, the Jazari-Root sovereign data centre in Rabat (50 MW, 2027-2029) for the state's strategic data, and a national sovereign cloud for Moroccans' data ([source, 2026-10-23](https://lhybride.ma/briefs/plf-2027-cloud-first-ministere-ia/)).
@@ -349,12 +355,6 @@ Nothing found names control of state data or says there is none, so no stage is 
 Not established: Nothing found says whether the state keeps its data and systems under its own control.
 
 ### Lesotho: No evidence
-
-Nothing found names control of state data or says there is none, so no stage is set.
-
-Not established: Nothing found says whether the state keeps its data and systems under its own control.
-
-### Liberia: No evidence
 
 Nothing found names control of state data or says there is none, so no stage is set.
 

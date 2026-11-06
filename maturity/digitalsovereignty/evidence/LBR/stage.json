@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sovereignty",
-      "stage": "no evidence",
-      "rule": "",
+      "stage": "2",
+      "rule": "underway",
       "hosted": "",
       "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether the state keeps its data and systems under its own control.",
-      "note": "No evidence row on control of state data was found.",
-      "as_at": "2026-10-31"
+      "stage_sources": "LBR-001",
+      "gaps": "No law, decree or policy in force on where state data is held has been found; the OeSD concession is not ratified and its data terms are not stated.",
+      "note": "The National Identification Registry's head announced in August 2026 that all national ID data will be stored in Liberia and that OeSD will not control it (LBR-001), an announced aim, so 2. No rule in force or system hosted nationally is shown, so not 3.",
+      "as_at": "2026-11-06"
     }
   ]
 }

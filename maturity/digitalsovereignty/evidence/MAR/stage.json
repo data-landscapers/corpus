@@ -5,14 +5,14 @@
       "sub_indicator": "sovereignty",
       "stage": "2",
       "rule": "underway",
-      "hosted": "",
+      "hosted": "national",
       "terms": "",
       "cap": "",
       "flags": "",
       "stage_sources": "MAR-009;MAR-010",
-      "gaps": "No source found since October 2023 says a law, decree or policy in force classifies government data or requires state data to be held in the country; the 2021 law reported in 2025 is not said to cover state data.",
-      "note": "Reassessed under Bill's ruling of 2026-10-31 (messages-for-bill 60: a rule must include government or state data): the 2025 report of a 2021 law (MAR-002) names sensitive data without saying it is the state's, and Law 05-20 (MAR-001) is older than the window. The draft 2027 finance bill plans a sovereign data centre for the state's strategic data (MAR-009, MAR-010), so stage 2.",
-      "as_at": "2026-10-31"
+      "gaps": "No source found since October 2023 says a law, decree or policy in force classifies government data or requires state data to be held in the country; the 2021 law reported in 2025 is not said to cover state data. The social support agency's systems hosted in the finance ministry's data centre (MAR-012) answer question 3 only, which places nothing without a rule in force.",
+      "note": "The draft 2027 finance bill plans a sovereign data centre for the state's strategic data (MAR-009, MAR-010), so stage 2. The direct social aid systems are hosted in the finance ministry's data centre (MAR-012), but every lower stage needs its own evidence and no rule on state data is in force, so not 3.",
+      "as_at": "2026-11-06"
     }
   ]
 }

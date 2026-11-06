@@ -87,3 +87,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-31,NGA,geopol.sovereignty--digital-sovereignty,ladder,4,4,NGA-025;NGA-024,"Rule must include government or state data (Bill, messages-for-bill 60, 2026-10-31)"
 2026-11-01,TUN,geopol.sovereignty--digital-sovereignty,fact,2,2,TUN-002,"CNI, January 2026: hosts sensitive national platforms on its own sovereign cloud; hosting held, but no rule on state data in force, so stays 2"
 2026-11-01,BEN,geopol.sovereignty--digital-sovereignty,fact,2,2,BEN-002;BEN-001,"Official, October 2026: Beninese data stays in Benin; hosting held, but no rule on state data in force, so stays 2"
+2026-11-06,LBR,geopol.sovereignty--digital-sovereignty,fact,no evidence,2,LBR-001,The NIR head announced in August 2026 that all national ID data will be stored in Liberia and OeSD will not control it (LBR-001); no evidence -> 2.
+2026-11-06,MAR,geopol.sovereignty--digital-sovereignty,fact,2,2,MAR-009;MAR-010,"The ANSS annual report says the direct social aid systems are hosted in the finance ministry's data centre and a sovereign cloud (MAR-012); no rule in force on state data, so stage 2 holds."
