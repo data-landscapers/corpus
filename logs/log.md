@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-06 05:39 · **BUILD** · 5h38m · catalogue 37,574; 208 sources, 54 units, 33 moved, 55 minted, 49 status; maturity 3,097 arrivals, 158 worked, 20 moved; bulletin 29; register 9; prose gate 18; resumed by hand after the session died in stage 4c - ok
 2026-11-05 23:12 · **INDEX** · 2m · research index: 539 added or changed, 0 removed, 2027 chunks, 2.2 min - ok
 2026-11-05 23:00 · **RENDER** · 28m · 301 reports, home, countries, catalogue, finance, maturity rendered; deployed 5f63954 - ok
 2026-11-05 22:32 · **REVIEW** · unclocked · BDI: status 2 sections revised, 37 trimmed, progress 0 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT - ok
@@ -445,17 +446,6 @@ title: Corpus process log
 2026-10-07 02:52 · **BUILD** · 38m · catalogue 26,585, finance 62 places, scan 39 units, 67 ledger rows moved or minted, 58 status sections revised; data centres 1 row; bulletin 52; budgets: poll run, 3 deals judged, none waiting — ok
 2026-10-07 02:14 · **ANALYTICS** · unclocked · 2026-10-04..2026-10-06 written; 6 Oct: dl.io 96 views / 1 clicks, corpus 38 views / 1 clicks
 2026-10-06 19:12 · **MATURITY-STUDY** · unclocked · health, Phase 1 review (H3): 54 countries, 1,506 listed documents in 75 slices, 952 facts (hmis 402, emr 550); 105 of 324 coverage cells hold nothing; housekeeping 12 registered for four mis-cited status sentences - ok
-2026-10-05 23:20 · **RENDER** · 15m · reports+home+countries+catalogue rendered, 251 documents, deployed — ok
-2026-10-05 23:05 · **REVIEW** · 2m · SDN: status 13 sections revised, progress 1 cell, monthly 3 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
-2026-10-05 23:03 · **REVIEW** · 2m · RWA: status 14 sections revised, progress 2 cells, monthly 3 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
-2026-10-05 23:00 · **BUILD** · 59m · catalogue 26,482, finance 62 places, scan 25 units, 35 ledger rows moved or minted, 18 status sections revised; bulletin 29; budgets: 90 documents logged, 5 rows added, votes for 26 country-years, none waiting — ok
-2026-10-05 22:01 · **ANALYTICS** · unclocked · 2026-10-03..2026-10-04 written; 4 Oct: dl.io 37 views / 0 clicks, corpus 10 views / 0 clicks
-2026-10-05 01:44 · **RENDER** · 13m · 251 reports, home, countries, regions, topics, catalogue, finance and datasets rendered; 54 editions pruned, 2,039 objects to R2; deployed - ok
-2026-10-05 01:31 · **REVIEW** · 1m · NGA: status 0 sections revised (18 re-read in the build), progress 13 cells (15 rows mapped), monthly 0 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT - ok
-2026-10-05 01:29 · **REVIEW** · 3m · NER: status 5 sections revised, progress 7 cells (6 rows mapped), monthly 1 block, finance 0 rows; 0 deals queued, 1 note for OSINT - ok
-2026-10-05 01:26 · **BUILD** · 1h17m · catalogue 26,435, finance 62 places, scan 34 units, 34 ledgers updated, 34 minted; budget readings 46 minutes, queue emptied: 19 sittings with lines, 156 nil, 44 follow-ups waiting; 29 register hits stand, 19 monthlies under band - ok
-2026-10-05 00:49 · **BUDGET-EXTRACT** · unclocked · TUN FY2024 and FY2025: 22 lines from the land-affairs and social-affairs mission notes; land registry and social registry entered absent
-2026-10-05 00:09 · **ANALYTICS** · unclocked · 2026-10-02..2026-10-04 written; 4 Oct: dl.io 26 views / 0 clicks, corpus 10 views / 0 clicks
 2026-10-02 17:08 · **BUDGET-REVIEW** · unclocked · DR Congo's votes recorded for 2024 to 2026; check D stands at 33 countries, 83 country-years. Run ended early at 12:10 against a five-hour window; the remaining sittings are in budget-followups.
 2026-10-02 09:29 · **FIX** · 15m · housekeeping register moved to the share as corpus-housekeeping.md; notes-for-osint 196 asks OSINT to rename its register and archive to osint-housekeeping; lints read either name meanwhile
 2026-09-29 16:02 · **HYPERSCALER** · unclocked · 04 GNQ: institutions 18 · US 30% · shield 8% · rank 4/54 · dangling 0
