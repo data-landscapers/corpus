@@ -1,0 +1,15 @@
+{
+ "slug": "2024-12-31-iati-xm-dac-301-2-110476-001-makerere-university-artificial-intelligence-for-development",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Makerere University Artificial Intelligence for Development Research Lab",
+   "country_label": "Uganda",
+   "class": "other",
+   "platform": "",
+   "owner": "Makerere University",
+   "tiers": ""
+  }
+ ],
+ "note": "Funds a university AI lab; names no model, dataset or AI computing facility built or planned."
+}

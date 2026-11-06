@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-30-iati-xm-dac-301-2-110586-001-ai-living-lab-for-innovative-and-viable-ethical-policies-and",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "IDRC's activity description states that the Government of Senegal has published a national data strategy.",
+   "as_of": "2024-09-30",
+   "date_precision": "day",
+   "system": "Senegal national data strategy",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

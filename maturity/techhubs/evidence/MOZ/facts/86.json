@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-06-iati-xm-dac-6-4-012525-01-1-digit-support-to-the-strategic-plan-for-the-information-soci",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "AICS reports a EUR 500,000 grant, with the science and higher education ministry, to define and implement a tech-hub model (PTED) acting as incubator and accelerator for start-ups.",
+   "as_of": "2023-12-06",
+   "date_precision": "day",
+   "system": "PTED tech-hub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PTED tech-hub",
+   "country_label": "PTED",
+   "class": "hub",
+   "platform": "",
+   "owner": "Ministry of Science, Technology and Higher Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

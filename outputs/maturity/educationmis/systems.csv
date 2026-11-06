@@ -60,6 +60,7 @@ GMB,Education Management Information System,EMIS,emis,,Ministry of Basic and Sec
 GMB,SEMIS,The Gambia,emis,,Ministry of Basic and Secondary Education,,2025-10-15-swz-south-south-collaboration-for-stronger-education-systems-lessons-learn
 GMB,Education Data Centre (DHIS2-Ed),The Gambia,emis,DHIS2-Ed,Ministry of Basic and Secondary Education,national,2025-08-29-gmb-how-the-gambia-is-modernizing-education-data-insights-from-the-2nd-kix
 GMB,SEMIS (DHIS2 Tracker),Gambia,emis,DHIS2,Ministry of Basic and Secondary Education,,2024-09-26-gmb-strengthening-school-management-and-data-reporting-in-the-gambia-and-e
+GMB,District Health Information System platform used for EMIS,DHIS2 EMIS pilot,emis,District Health Information System,,,2023-12-31-iati-xm-dac-301-2-110313-001-empowering-districts-and-schools-with-data-a-digital-platfor
 GNB,Education Management Information System (EMIS),Guinea-Bissau,emis,,Ministry of Education,,2026-02-19-gnb-gpe-better-data-education-prieqt
 GNB,"School mapping database of schools, teachers and students",Guinea-Bissau,other,Kobo Toolbox,GEPASE (Ministry of Education data unit),,2026-02-19-gnb-gpe-better-data-education-prieqt
 GNB,SIGE 2.0 (Sistema de Informacao e Gestao da Educacao),Guinea-Bissau,emis,,Ministry of Education (DGEPASE),,2025-10-20-fec-peside-sige-2-0-estatisticas-educacao-guine-bissau
@@ -170,6 +171,7 @@ TGO,StatEduc,Togo,emis,StatEduc,MEPSTA,"schools, inspectorates, national",2024-1
 TGO,SIGE (DHIS2 EMIS),Togo,emis,DHIS2,MEPSTA,"schools, sub-national, national",2024-11-19 HISP WCA develops DHIS2 EMIS for education data analysis and visualization in Togo
 TGO,StatEduc,Togo,emis,StatEduc with DHIS2,Ministry of Primary and Secondary Education,,2025-04-17-tgo-togo-autonomiser-les-ecoles-et-les-districts-a-l-aide-de-donnees
 TGO,SIGE,Togo,emis,,CNDP-TICE,,2025-03-27-tgo-meps-le-cndp-tice-au-cur-de-la-modernisation-du-systeme-educatif
+TGO,District Health Information System platform used for EMIS,DHIS2 EMIS pilot,emis,District Health Information System,,,2023-12-31-iati-xm-dac-301-2-110313-001-empowering-districts-and-schools-with-data-a-digital-platfor
 TZA,PReM,Tanzania,emis,,"Ministry of Education, Science and Technology",,2018-05-08-tza-gpe-prem-electronic-student-registration
 TZA,School Information System (SIS),Tanzania,emis,web and app (sis.tamisemi.go.tz),PO-RALG (TAMISEMI),,2025-07-14-tza-poralg-sis-privacy-policy-prem-number
 UGA,Education Management Information System (EMIS),Uganda,emis,,Ministry of Education and Sports,all levels of education,2026-06-09-newvision-emis-rules-mandatory-compliance
@@ -183,6 +185,7 @@ UGA,UNEB portal,Uganda,other,,Uganda National Examinations Board,national,2026-0
 UGA,EMIS,Uganda,emis,developed by SMS ONE Ltd,Ministry of Education and Sports,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
 UGA,National Identification Number (NIN),Uganda,other,,NIRA,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
 UGA,UNEB index number,Uganda,other,developed by SMS ONE Ltd,UNEB,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
+UGA,District Health Information System platform used for EMIS,DHIS2 EMIS pilot,emis,District Health Information System,,,2023-12-31-iati-xm-dac-301-2-110313-001-empowering-districts-and-schools-with-data-a-digital-platfor
 ZAF,SA-SAMS (modernised),South Africa,emis,cloud-based,"Department of Basic Education (EMIS Directorate), delivered by NECT","school, district, provincial, national",2026-02-04-dbe-sa-sams-modernisation-uat
 ZAF,Learner Unit Record Information Tracking System (LURITS),South Africa,emis,,Department of Basic Education,national,2026-01-07-zaf-question-nw5625-to-the-minister-of-basic-education
 ZAF,LURITS,Learner Unit Record Information and Tracking System,emis,,Department of Basic Education,"national, fed by provincial systems and data warehouses",2025-12-19-zaf-question-to-the-minister-of-basic-education-nw7339

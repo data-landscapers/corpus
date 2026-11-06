@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-08-iati-dac-1601-inv-046277-dup-2-0-workstream-2-2-digital-tools-and-data-use-capabiliti",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Gates Foundation's IATI record funds HABTech Solutions from 2023-11-08 to capacitate Ethiopia's health ministry to upgrade and maintain the national HMIS.",
+   "as_of": "2023-11-08",
+   "date_precision": "day",
+   "system": "national HMIS",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national HMIS",
+   "country_label": "Ethiopia national HMIS",
+   "class": "hmis",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

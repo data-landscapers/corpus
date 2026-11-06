@@ -31,6 +31,7 @@ CIV,2026-08-28-spaceinafrica-cote-divoire-asci-dg-ouattara,,2026-10-19
 CMR,2024-01-01-crs-2-2024010170-2024-pme-project-tableau-de-bord-donnees-geospatiales,,2026-11-06
 CMR,2024-07-02-cmr-minader-cropwatch-country-profile,,2026-10-19
 CMR,2024-10-14-crs-1601-2024011948-02-2024-gsars3,,2026-11-06
+CMR,2024-10-14-iati-dac-1601-inv-070712-food-and-agriculture-organization-of-the-united-nations-gsar,,2026-11-06
 CMR,2025-07-22-cmr-fao-carte-cacao-images-satellites,,2026-10-19
 CMR,2025-11-01-cmr-cameroon-tests-an-innovative-census-strategy-in-crisis-zones,,2026-10-21
 CMR,2025-12-31-plos-one-sentinel1-oil-palm-cameroon,,2026-10-19
@@ -39,6 +40,7 @@ CMR,2026-10-20-cmr-donnees-modelisation-geomatique-onacc,,2026-10-21
 COD,2024-01-01-crs-742-2024001986-2024-capacity-building-for-the-geographic-information-s,,2026-11-06
 COD,2024-02-15-cod-wmo-mettelsat-systeme-observation,,2026-10-19
 COD,2024-10-14-crs-1601-2024011948-06-2024-gsars3,,2026-11-06
+COD,2024-10-14-iati-dac-1601-inv-070712-food-and-agriculture-organization-of-the-united-nations-gsar,,2026-11-06
 COD,2025-01-23-cod-axa-climate-contributes-to-the-launch-of-the-first-climate-insurance-p,,2026-10-21
 COD,2025-10-22-cod-phase-pilote-d-itinerance-et-d-acquisition-de-sites-au-kongo-central,,2026-11-06
 COD,2026-03-30-cod-projet-teledetection-le-cnt-et-la-jica-mettent-en-place-le-comite-conj,,2026-10-21
@@ -105,12 +107,14 @@ GMB,2024-01-01-fao-roots-geospatial-indicators-monitoring-framework-gambia,,2026
 GMB,2024-01-01-gmb-weather-impact-dcas-gee-platform,,2026-10-21
 GMB,2024-08-30-dwr-gambia-receives-meteosat-third-generation-puma-climsa-stations,,2026-10-19
 GMB,2024-10-14-crs-1601-2024011948-07-2024-gsars3,,2026-11-06
+GMB,2024-10-14-iati-dac-1601-inv-070712-food-and-agriculture-organization-of-the-united-nations-gsar,,2026-11-06
 GMB,2025-05-05-gmb-inspired-by-uganda-gambia-adopts-rental-tax-compliance-system,,2026-10-22
 GMB,2025-09-02-gmb-gca-p2rs-gee-climate-advisory-platform,,2026-10-22
 GMB,2025-10-24-crews-gambia-ew4all-roadmap-validation-workshop,,2026-10-19
 GMB,2025-12-09-gmb-fao-gambia-geolab-geo-for-good,,2026-10-21
 GMB,2026-07-23-esa-gda-earth-observation-climate-resilient-rice-west-africa,,2026-10-19
 GNB,2024-10-14-crs-1601-2024011948-08-2024-gsars3,,2026-11-06
+GNB,2024-10-14-iati-dac-1601-inv-070712-food-and-agriculture-organization-of-the-united-nations-gsar,,2026-11-06
 GNB,2025-08-01-wfp-guine-bissau-bulletin-suivi-saison-pluvieuse-aout-2025,,2026-10-19
 GNB,2026-02-06-fao-giews-country-brief-guinea-bissau,,2026-10-19
 GNB,2026-08-27-gnb-capacitacao-dos-quadros-de-sistemas-de-informacao-da-guine-bissau-sobr,,2026-10-21
@@ -168,6 +172,7 @@ MLI,2026-03-11-mli-apanews-mali-meteo-systeme-satellitaire-puma2025,,2026-10-19
 MLI,2026-05-14-aiccra-institutionnalisation-outil-riice-mali,,2026-10-19
 MLI,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai,,2026-10-19
 MOZ,2024-10-14-crs-1601-2024011948-10-2024-gsars3,,2026-11-06
+MOZ,2024-10-14-iati-dac-1601-inv-070712-food-and-agriculture-organization-of-the-united-nations-gsar,,2026-11-06
 MOZ,2024-10-29-crs-1601-2024012167-01-2024-mozambique-strengthening-open-data-processing-meth,,2026-11-06
 MOZ,2024-12-23-crs-50-2024001524-1-2024-mozambique-2024-agro-climatic-remote-sensing-syste,,2026-11-06
 MOZ,2024-12-23-crs-50-2024001524-2-2024-mozambique-2024-agro-climatic-remote-sensing-syste,,2026-11-06
@@ -177,6 +182,7 @@ MOZ,2024-12-23-crs-50-2024001524-5-2024-mozambique-2024-agro-climatic-remote-sen
 MOZ,2025-03-17-moz-wmo-life-saving-early-warning-systems,,2026-10-19
 MOZ,2026-06-10-cgiar-statistics-from-space-mozambique,,2026-10-19
 MRT,2024-10-14-crs-1601-2024011948-09-2024-gsars3,,2026-11-06
+MRT,2024-10-14-iati-dac-1601-inv-070712-food-and-agriculture-organization-of-the-united-nations-gsar,,2026-11-06
 MRT,2025-06-12-mrt-empowering-agriculture-in-mauritania-with-sentinel-2-the-techghilagro,,2026-10-21
 MRT,2025-07-29-oss-gmes-africa-mauritanie-cuct-services-observation-terre,,2026-10-19
 MUS,2025-09-18-unctad-cropwatch-training-workshop,,2026-10-19
@@ -228,6 +234,7 @@ NGA,2026-10-07-10th-afrigeo-symposium-opens-in-abuja-with-nasrda-chief-urging-da
 NGA,2026-10-29-from-informal-landmarks-to-sovereign-data-the-governance-challenge-facing-d,,2026-11-06
 RWA,2024-06-26-rwa-2024-01-f5,,2026-10-19
 RWA,2024-09-30 Rwanda's digital transformation an effort at intergovernmental collaboration,,2026-10-19
+RWA,2024-12-06-iati-gb-gov-1-301049-417-partnership-fund-using-eo-technology-to-improve-production-o,,2026-11-06
 RWA,2025-01-01-rwa-crop-type-mapping-for-rwanda,,2026-10-21
 RWA,2025-06-01-uga-eo-for-agroclimatic-resilience-and-climate-smart-agriculture-rwanda-an,,2026-10-21
 RWA,2026-01-28-rwa-solutions-from-space-rwanda-s-smart-harvest-planning,,2026-10-21
@@ -291,6 +298,7 @@ SYC,2026-03-11-oss-seychelles-unccd-2026-reporting-tor,,2026-10-19
 SYC,2026-08-29-statehouse-shakthisat-first-lady-girls-space,,2026-10-19
 SYC,2026-09-15-syc-statehouse-hydrographic-office-data-coordination,,2026-10-19
 TCD,2024-10-14-crs-1601-2024011948-05-2024-gsars3,,2026-11-06
+TCD,2024-10-14-iati-dac-1601-inv-070712-food-and-agriculture-organization-of-the-united-nations-gsar,,2026-11-06
 TCD,2026-01-27-fao-giews-country-brief-chad,,2026-10-19
 TCD,2026-02-03-tcd-wmo-strengthening-early-warning-chad,,2026-10-19
 TCD,2026-04-09-soff-chad-soff-investment-phase-annual-narrative-report-2025,,2026-11-06

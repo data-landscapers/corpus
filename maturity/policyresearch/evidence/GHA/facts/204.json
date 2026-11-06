@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-31-iati-xm-dac-301-2-110350-001-global-index-ai4d-ii-program-planning-workshop",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "IDRC reports a grant implemented by Kwame Nkrumah University of Science and Technology for a three-day workshop in Accra, Ghana, from 2023-12-01, bringing responsible-AI researchers and civil-society groups together on AI governance.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "Global Index on Responsible AI / AI4D II program planning workshop",
+   "class": "research"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2023-11-08-iati-dac-1601-inv-046277-dup-2-0-workstream-2-2-digital-tools-and-data-use-capabiliti",
+ "facts": [],
+ "systems": [
+  {
+   "system": "national HMIS",
+   "country_label": "Ethiopia national HMIS",
+   "class": "hmis",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "The national HMIS is named only as a grant's object; no tiers, clinic share or governance is stated."
+}

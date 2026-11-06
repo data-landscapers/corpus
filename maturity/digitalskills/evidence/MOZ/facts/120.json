@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-04-iati-xm-dac-6-4-012525-01-0-digit-support-to-the-strategic-plan-for-the-information-soci",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "AICS (Italian cooperation) reports a EUR 500,000 grant to Mozambique's science and higher education ministry to define and implement a tech-hub model (PTED) offering digital-skills courses to users, programmers and workers.",
+   "as_of": "2023-12-04",
+   "date_precision": "day",
+   "system": "PTED tech-hub",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PTED tech-hub",
+   "country_label": "PTED",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Science, Technology and Higher Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-30-iati-xm-dac-301-2-110542-001-championing-responsible-artificial-intelligence-policy-in-af",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "IDRC reports an active grant of CAD 745,209 from 2024-08-01 enabling the Centre for Intellectual Property and Information Technology Law (CIPIT) at Strathmore University in Kenya to research and advocate responsible AI policy in East Africa.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "East African AI Policy Centre (CIPIT, Strathmore University)",
+   "class": "research"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

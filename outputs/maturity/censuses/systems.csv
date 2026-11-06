@@ -22,6 +22,7 @@ BDI,RGPHAE 2024,RGPHAE 2024,census,,Bureau Central du Recensement (BCR),,2025-01
 BDI,RGPH 2008,RGPH 2008,census,,,,2025-01-01-burundi-population-estimates-metadata-dyb-2025
 BDI,Voter census 2024,Voter census 2024,other,,CENI,,2024-05-24 Burundi - biometric national ID card will not be available for 2025 voter enrolment
 BDI,RGAE Burundi,RGAE Burundi,other,,FAO (supporter),,2024-01-01-crs-932-2024000843-2024-appui-a-la-preparation-du-recensement-general-de-l
+BDI,"General census of the population, housing, agriculture and livestock",Census 2024,census,,UNFPA,,2024-11-29-iati-xm-dac-7-ppr-240001921-general-census-of-the-population-housing-agriculture-and-liv
 BEN,Recensement National de l'Agriculture (RNA),RNA Benin,other,,FAO/Benin,,2026-08-31-iati-xm-dac-41301-762022-benin-agricultural-census
 BEN,EHCVM,EHCVM 2021-2022,survey,,INStaD,national,2026-01-22-instad-bj-ehcvm2-indicateurs
 BEN,RGPH4,RGPH4 2013,census,,INSAE,national,2015-06-01-instad-bj-rgph4-resultats-definitifs
@@ -154,6 +155,7 @@ ETH,"Household, tourism and business surveys",,other,,Ethiopian Statistical Serv
 ETH,Ethiopian Statistics Development Program,ESDP 2024-2026,other,,Ministry of Planning and Development; Ethiopian Statistics Service,,2024-03-02-eth-reporter-government-initiates-census
 ETH,Ethiopian Statistics Development Program,ESDP 2024-2026,other,,Ministry of Planning and Development; Ethiopian Statistics Service,,2024-02-01-eth-fana-census-forthcoming-triennium
 ETH,National Agricultural Census,National Agricultural Census,other,,FAO (supporter),,2024-01-01-crs-932-2024002482-2024-technical-assistance-on-the-preparation-and-implem
+ETH,National Agricultural Census (NAC),NAC,other,,Government of Ethiopia,,2024-09-30-iati-xm-dac-41301-753512-technical-assistance-on-the-preparation-and-implementation-o
 GAB,RGPL 2026,RGPL 2026,census,,Ministry of Planning and Prospective,national,2026-08-21-gabonreview-rgpl-cour-constitutionnelle-verification-chiffres
 GAB,"Recensement general des Gabonais economiquement faibles (GEF), second round 2026",GEF census 2026,other,,Vice-presidence du gouvernement,national,2026-07-21-gabonreview-recensement-gabonais-economiquement-faibles
 GAB,RGPH,RGPH,census,,,national,2026-07-21-gabonreview-recensement-gabonais-economiquement-faibles
@@ -263,6 +265,7 @@ MDG,MICS7 2025,MICS7 2025,survey,,INSTAT,,2026-03-05-un-madagascar-mics7-2025
 MDG,MICS-7 2025,MICS-7 2025,survey,,INSTAT with UNICEF,,2026-02-28-instat-mics-7-2025
 MDG,MICS 2025,MICS 2025,survey,,INSTAT and UNICEF,,2026-09-16-mdg-midimadagasikara-etat-civil-oif-izaho-tokana
 MDG,Recensement General de l'Agriculture (RGA),Madagascar,other,,,,2024-01-01-crs-932-2024002982-2024-assistance-technique-pour-la-preparation-et-execut
+MDG,Recensement General de l'Agriculture (RGA),RGA,other,,FAO,,2024-09-30-iati-xm-dac-41301-753951-assistance-technique-pour-la-preparation-et-execution-du-rec
 MLI,RGPH-5 2022,RGPH-5 2022,census,,INSTAT,,2026-08-10-mali-instat-microdata-catalogue
 MLI,MICS-ELIM 2010,MICS-ELIM 2009-2010,survey,NADA,INSTAT,,2026-08-10-mali-instat-microdata-catalogue
 MLI,RGPH-5 2022,RGPH-5 2022,census,,INSTAT,,2026-02-18-instat-mali-session-ordinaire-conseil-national-statistique
@@ -432,6 +435,7 @@ SOM,Food Security and Vulnerability Survey,Food Security and Vulnerability Surve
 SOM,2024 Business Establishment Census,Business Establishment Census 2024,other,,Somalia National Bureau of Statistics,,2026-01-29-somalia-business-establishment-analysis-booklet
 SOM,Socio-Demographic Survey 2026,SDS 2026,other,,Somalia National Bureau of Statistics,,2026-07-26-snbs-socio-demographic-survey-2026
 SOM,Somali national census (upcoming),Upcoming national census,census,WorldPop preEA and Enumeration Effort Metrics tools,Somalia National Bureau of Statistics with UNFPA,,2025-04-15-som-worldpop-geospatial-training-census-readiness
+SOM,Pre-census enumeration,Pre-census enumeration 2024,census,,UNFPA Somalia,,2024-08-16-iati-dac-1601-inv-070843-enumeration-support-for-somalia
 SSD,Annual Education Census 2023,Annual Education Census 2023,other,Android tablets and web repository,MoGEI,,2023-01-01-mogei-national-education-census-report-2023
 SSD,MICS 2025,MICS 2025,survey,,National Bureau of Statistics,,2026-04-21-south-sudan-mics7-national-survey-released
 SSD,MICS 2025,MICS 2025,survey,,National Bureau of Statistics,,2025-09-16-statistics-bureau-develops-population-data-collection-tool-ahead-of-2026-elections
@@ -451,6 +455,7 @@ STP,Inquerito ao Orcamento Familiar,"IOF 2026 (fieldwork started March 2026, res
 STP,V Recenseamento Geral da Populacao e Habitacao 2024,RGPH-5 2024,census,,Instituto Nacional de Estatistica,,2025-07-01-sao-tome-ine-v-rgph-2024-resultados
 STP,MICS6,MICS6 2019,other,,INE,,2025-11-10-stp-ine-itu-umc-workshop-presentation
 STP,Recensement general de l'agriculture et de l'elevage (RGA),Sao Tome and Principe,other,,,,2024-01-01-crs-932-2024002935-2024-assistance-preparatoire-au-recensement-general-de
+STP,RGA (Recensement general de l'agriculture et de l'elevage),RGA,other,,FAO,,2024-05-31-iati-xm-dac-41301-743782-assistance-preparatoire-au-recensement-general-de-l-agricult
 SWZ,Population and Housing Census 2017,PHC 2017,census,digital census,Central Statistical Office,,2025-11-07-eswatini-ministry-unfpa-launch-census
 SWZ,Population and Housing Census 2027,PHC 2027,census,,Central Statistical Office / Ministry of Economic Planning and Development,,2025-11-07-eswatini-ministry-unfpa-launch-census
 SWZ,Economic Census 2025/2026,Economic Census 2025/26,other,,Central Statistical Office,,2025-11-07-eswatini-ministry-unfpa-launch-census
@@ -551,6 +556,7 @@ ZMB,Household Budget Survey,"Household Budget Survey (yearly, Sida-supported)",s
 ZMB,M-SAT E-census software / MoE Statistical Tables,Ministry of Education e-census 2024,other,,Ministry of Education,,2024-01-01-oag-simplified-report-2023-accounts-e-census-wasteful-expenditure
 ZMB,2022 Census of Population and Housing,Census 2022,census,,Zambia Statistics Agency,,2025-08-01-zambia-census-literacy-education
 ZMB,National Agricultural Census (NAC),Zambia,other,,,,2024-01-01-crs-932-2024002985-2024-tcpf-technical-assistance-on-the-preparation-of-na
+ZMB,National Agricultural Census (NAC),NAC,other,,Ministry of Agriculture and ZamStats,,2024-09-30-iati-xm-dac-41301-752880-tcpf-technical-assistance-on-the-preparation-of-national-agr
 ZWE,Household Budget Survey 2026/27,HBS 2026/27,survey,,ZIMSTAT,,2026-08-06-zimbabwe-zimstat-household-survey-preparations
 ZWE,2023 Economic Census,Economic Census 2023,other,,ZIMSTAT,,2025-07-24-zimbabwenow-76-percent-businesses-unregistered
 ZWE,ED46 annual school census,ED46 school census,other,,Ministry of Primary and Secondary Education,,2025-07-21-zimbabwe-climate-smart-school-census
@@ -560,3 +566,4 @@ ZWE,MICS7 2025,MICS7 2025,survey,,ZIMSTAT,,2025-10-22-zimstat-outdated-laws-hind
 ZWE,ICT Access by Households and Use by Individuals Survey 2025,ICT Households Survey 2025,survey,,ZIMSTAT; POTRAZ,,2026-07-20-zw-mobile-internet-survey
 ZWE,2025 ICT Household Survey,ICT Household Survey 2025,census,,ZIMSTAT and POTRAZ,,2026-10-28-zwe-it-must-create-jobs-improve-services-minister
 ZWE,National Agricultural Census,National Agricultural Census,other,,FAO (supporter),,2024-01-01-crs-932-2024002447-2024-technical-assistance-on-the-preparation-of-nationa
+ZWE,National Agricultural Census (NAC),NAC,other,,FAO,,2024-09-30-iati-xm-dac-41301-753658-technical-assistance-on-the-preparation-of-national-agricult

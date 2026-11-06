@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-06-iati-gb-gov-1-301049-417-partnership-fund-using-eo-technology-to-improve-production-o",
+ "facts": [
+  {
+   "sub_indicator": "agrisat",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "UK FCDO reports an active project, started 2024-11-08 and funded at GBP 43,000, in which the UK ONS supports Rwanda's national statistics institute NISR to bring Earth Observation techniques and machine learning into agricultural statistics.",
+   "as_of": "2024-11-08",
+   "date_precision": "day",
+   "system": "Partnership Fund: Using EO technology to improve production of agriculture statistics in Rwanda",
+   "class": "agrisat"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Partnership Fund EO agricultural statistics project",
+   "country_label": "Rwanda",
+   "class": "agrisat",
+   "platform": "Earth Observation and machine learning",
+   "owner": "NISR with UK ONS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

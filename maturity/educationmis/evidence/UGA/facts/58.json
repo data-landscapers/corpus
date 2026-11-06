@@ -1,0 +1,26 @@
+{
+ "slug": "2023-12-31-iati-xm-dac-301-2-110313-001-empowering-districts-and-schools-with-data-a-digital-platfor",
+ "facts": [
+  {
+   "sub_indicator": "emis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "IDRC reports that the District Health Information System platform has recently been tried with success in Uganda to address the lack of an education management information system.",
+   "as_of": "2023-12-31",
+   "date_precision": "day",
+   "system": "DHIS2 for education (District Health Information System platform)",
+   "class": "emis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "District Health Information System platform used for EMIS",
+   "country_label": "DHIS2 EMIS pilot",
+   "class": "emis",
+   "platform": "District Health Information System",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

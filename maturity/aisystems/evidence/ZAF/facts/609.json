@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-24-iati-dac-1601-inv-076270-scaling-of-zuzi-an-ai-chatbot-to-support-survivors-of-gbv-in",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "The Gates Foundation reports an active grant from 2024-09-24 to Gender Rights in Tech NPC in South Africa to support deployment and scale of Zuzi, a generative AI chatbot for survivors of gender-based violence.",
+   "as_of": "2024-09-24",
+   "date_precision": "day",
+   "system": "Zuzi",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zuzi",
+   "country_label": "South Africa",
+   "class": "localai",
+   "platform": "generative AI chatbot",
+   "owner": "Gender Rights in Tech NPC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

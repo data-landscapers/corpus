@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-26-iati-xm-dac-7-ppr-240001472-media-freedom-and-access-to-information-in-the-age-of-artifi",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "The Netherlands Ministry of Foreign Affairs reports a EUR 41,557 grant to the Media Institute of Southern Africa, with Zimbabwe as recipient, for a project from 2024-01-01 to 2025-05-28 to develop a legal framework and policy brief on AI and media freedom.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "Media Freedom and Access to Information in the Age of Artificial Intelligence",
+   "class": "research"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

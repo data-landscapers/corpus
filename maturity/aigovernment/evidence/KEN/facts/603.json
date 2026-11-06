@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-04-iati-dac-1601-inv-078838-ai-proof-of-concept-to-enhance-regulatory-processes-in-kenya",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Gates Foundation reports an active grant from 2024-11-04 to the Kenya Pharmacy and Poisons Board for an AI proof of concept to enhance regulatory processes and optimise review workflows.",
+   "as_of": "2024-11-04",
+   "date_precision": "day",
+   "system": "AI proof of concept, Kenya Pharmacy and Poisons Board",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI proof of concept for regulatory review workflows",
+   "country_label": "Kenya",
+   "class": "govai",
+   "platform": "",
+   "owner": "Kenya Pharmacy and Poisons Board",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

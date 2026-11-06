@@ -110,6 +110,7 @@ KEN,KENGLEX,Kenya,localai,,Teknobyte Limited,,2026-10-22-ken-kenyas-language-dat
 KEN,Oracle AI-powered cloud platform,Oracle cloud region Nairobi,localai,cloud,Oracle,,2026-08-01-ken-ministry-urges-public-sector-to-adopt-ai-cloud-computing
 KEN,Kenya AI & Cloud Pioneer Initiative,Kenya AI & Cloud Pioneer Initiative,localai,Huawei Cloud,MICDE with Huawei,,2025-05-19-ken-kenya-ai-cloud-pioneer-initiative-unveiled-at-huawei-summit
 KEN,"Microsoft-G42 data centre, Olkaria",Kenya,other,,Microsoft and G42,,2026-08-24-ken-can-kenya-s-ai-ambitions-coexist-with-naivasha-s-water-needs
+KEN,"Centre for Data Science and Artificial Intelligence, Dedan Kimathi University of Technology",Kenya,other,,Dedan Kimathi University of Technology,,2024-12-31-iati-xm-dac-301-2-110473-001-centre-for-data-science-and-artificial-intelligence-multidis
 LBR,CJ Lewis,Liberia,localai,Liblaw,Liblaw,,2026-08-03-liblaw-cj-lewis-legal-ai-liberia
 LBY,LIBIGPT,Libya,localai,generative AI model,Smart Co for Technology Projects and Artificial Intelligence,,2025-10-28-libigpt-first-generative-ai-launched-libyaherald
 LBY,Diwan Bot,Diwan Bot,other,,Libyan Audit Bureau,,2026-06-01-lby-lana-audit-bureau-diwan-bot
@@ -142,6 +143,7 @@ MLI,Hekima,Mali,other,conversational search engine,,,2025-05-26-mli-intelligence
 MLI,AfVoices-Translated,Mali,localai,Hugging Face,Soynade,,2026-02-18-sen-soynade-s-open-source-month
 MLI,RobotsMali / MALIBA-AI speech recognition,Mali,localai,,Local initiatives,,2026-10-23-mli-intelligence-artificielle-et-souverainete-numerique-le-mali-face-aux-d
 MLI,Wuya (Tuwindi),Mali,other,,Tuwindi,,2026-10-23-mli-intelligence-artificielle-et-souverainete-numerique-le-mali-face-aux-d
+MLI,RobotsMali AI4D Lab,Mali,other,,,,2024-09-30-iati-xm-dac-301-2-110475-001-robotsmali-ai4d-lab
 MOZ,UEM Centro de Dados,Mozambique,other,,Universidade Eduardo Mondlane,,2026-08-03-oeconomico-uem-centro-de-dados-banco-mundial
 MOZ,ATDI-Huawei MoU on AI,Mozambique,other,,"ATDI, IP",,2026-04-23-moz-mznews-atdi-huawei-ai-mou
 MRT,Open Data Mauritania NLP Hub,Mauritania,localai,GitHub,MWiML,,2026-05-16-github-mwiml-open-data-mauritania-nlp-langues-nationales
@@ -200,6 +202,7 @@ SEN,Taouey supercomputer,Senegal,localai,HPC with GPU cell,CINERI under MESRI,,2
 SEN,Oolel-v0.1,Senegal,localai,Hugging Face,Soynade,,2026-02-18-sen-soynade-s-open-source-month
 SEN,SENEGAL-AI,Senegal,localai,CINERI Taouey supercomputer,"LITA, ESP, UCAD",,2026-10-30-sen-le-senegal-se-dote-d-un-hub-pour-transformer-les-projets-d-ia-en-appli
 SEN,Dakar 2026 private cloud (Alibaba Cloud Apsara Stack),Senegal,other,Alibaba Cloud Apsara Stack,Dakar 2026 Organizing Committee; to be handed to Senegal after the Games,,2026-11-02-alibaba-cloud-ai-dakar-youth-olympic-games
+SEN,AI Living Lab (ALIVE Lab),Senegal,localai,collaborative AI technological platform and large database,,,2024-09-30-iati-xm-dac-301-2-110586-001-ai-living-lab-for-innovative-and-viable-ethical-policies-and
 SLE,"Krio language model, Darli AI and Krio AI Agronomist",Sierra Leone,other,IVR and WhatsApp,Farmerline Group,,2024-07-01-sle-farmerline-mocti-mou-krio-language-model
 SLE,AI-EVA,Sierra Leone,localai,voice assistant,Africell,,2025-06-01-sle-africell-unveils-ai-eva-and-afrogpt-at-summit
 SLE,AfroGPT,Sierra Leone,localai,offline language model,Africell,,2025-06-01-sle-africell-unveils-ai-eva-and-afrogpt-at-summit
@@ -242,6 +245,7 @@ UGA,openScopes AIDDiA,Uganda,localai,,Mbarara University of Science and Technolo
 UGA,Sunflower,Uganda,localai,Alibaba Qwen 3,Ernest Mwebaze,,2026-08-07-asiae-chinese-open-source-ai-africa-developers
 UGA,Makerere AI Health Lab,Uganda,localai,,Makerere University,,2026-09-15-cipit-ai-east-africa-public-sector-regulatory-preparedness
 UGA,Sunflower v2,Uganda,localai,Hugging Face,Sunbird AI,,2026-09-24-uga-sunbird-ai-launches-sunflower-v2-expanding-open-african-language-ai-fr
+UGA,Makerere University Artificial Intelligence for Development Research Lab,Uganda,other,,Makerere University,,2024-12-31-iati-xm-dac-301-2-110476-001-makerere-university-artificial-intelligence-for-development
 ZAF,UNDP country-hosted AI compute,South Africa,localai,GPU,UNDP programme,,2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries
 ZAF,MzansiLM / MzansiText,South Africa,localai,,University of Cape Town,,2026-05-04-zaf-uct-researchers-develop-ai-model-for-11-south-african-languages
 ZAF,African Compute Initiative (ACI),South Africa,localai,"GPU servers, multi-petabyte storage, OpenStack and Ceph",University of Cape Town,,2026-03-26-zaf-uct-to-lead-africa-s-first-higher-education-dedicated-ai-compute-initi
@@ -255,6 +259,7 @@ ZAF,SADiLaR,South Africa,other,digital language resource centre,"North-West Univ
 ZAF,CHPC HPC & GPU Cluster,CHPC HPC & GPU Cluster,localai,"Dell cluster, 30 Nvidia V100 GPU nodes",NICIS CHPC,,2024-05-01-zaf-nicis-service-catalogue
 ZAF,AfriScience-MT,AfriScience-MT corpus,localai,,University of Pretoria and others,,2026-10-01-xaf-afriscience-mt-decolonizing-science-african-languages
 ZAF,Artificial Intelligence Institute,South Africa,other,,DCDT with University of Johannesburg and Tshwane University of Technology,,2024-03-01-zaf-minster-mondli-gungubele-launch-of-national-digital-skills-forum
+ZAF,Zuzi,South Africa,localai,generative AI chatbot,Gender Rights in Tech NPC,,2024-09-24-iati-dac-1601-inv-076270-scaling-of-zuzi-an-ai-chatbot-to-support-survivors-of-gbv-in
 ZMB,UNDP country-hosted AI compute,Zambia,localai,GPU,UNDP programme,,2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries
 ZMB,AI/ML GPU-accelerated server platform,Zambia,localai,GPU-accelerated servers with 150TB storage engines,INFRATEL Corporation Limited,national,2026-06-01-infratel-150tb-storage-aiml-tender
 ZMB,"timbuktoo EDGE node, University of Zambia AI UniPod",Zambia,localai,sovereign AI compute node,"UNDP timbuktoo EDGE, University of Zambia",,2026-10-14-zmb-undp-lusaka-water-ai-non-revenue-water-pilot

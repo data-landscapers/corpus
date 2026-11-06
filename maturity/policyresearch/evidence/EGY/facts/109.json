@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-31-iati-xm-dac-301-2-110446-001-mena-ai-observatory",
+ "facts": [
+  {
+   "sub_indicator": "research",
+   "aspect": "research",
+   "value": "begun",
+   "fact": "IDRC reports an active grant from 2024-12-01 to the American University in Cairo, with Egypt as recipient, for the MENA Observatory on Responsible AI, which will conduct in-depth studies on responsible AI for policy and practice.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "MENA AI Observatory",
+   "class": "research"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

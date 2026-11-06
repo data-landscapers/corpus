@@ -1,0 +1,15 @@
+{
+ "slug": "2024-11-27-iati-dac-1601-inv-076412-tazama-poc-ipsl-kenya",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IPSL payment scheme",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "Tazama",
+   "owner": "Integrated Payment Services Limited",
+   "tiers": ""
+  }
+ ],
+ "note": "A Gates Foundation grant (2024-11-27) to put fraud monitoring on the IPSL payment scheme is funding, not a state of any study's questions."
+}
