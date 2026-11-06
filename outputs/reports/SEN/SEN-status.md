@@ -94,7 +94,7 @@ The largest external windows close in 2028, and what follows them is not yet des
 <!-- finance.new -->
 
 <!-- derived -->
-Senegal's digital estate has drawn 194 external commitments, worth about US$1.4 billion on windows running from 2015 to 2034 (November 2026). That is money committed, not money moved. Chinese state finance is the largest single source, around a third of the total across four commitments (2015-2021). Grants outnumber debt by count, 173 of the 194, but the debt carries most of the money (2015-2026).
+Senegal's digital estate has drawn 172 external commitments, worth about US$1.4 billion on windows running from 2015 to 2034 (November 2026). That is money committed, not money moved. Chinese state finance is the largest single source, around a third of the total across four commitments (2015-2021). Grants outnumber debt by count, 151 of the 172, but the debt carries most of the money (2015-2026).
 
 [Senegal's own 2026 digital budget is CFA 81.06 billion, up 38.7% on the year before](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-maps-2026-digital-drive-with-world-bank-backing), while [the World Bank alone has committed CFA 95.05 billion to the 2026 digital programme](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-maps-2026-digital-drive-with-world-bank-backing). [BOAD is lending XOF 30.9 billion, about US$52 million, to accelerate the digital transformation of public services over 2026–2028](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46021-2026028).
 
@@ -105,7 +105,7 @@ Commercial lenders have gone to the operators: [IFC, British International Inves
 The government's own frame is [the Agenda de Transformation Numérique, which carries 1,105 billion FCFA across twelve priority programmes over 2025–2034](https://lesoleil.sn/actualites/economie/new-deal-technologique-un-investissement-cle-de-1105-milliards-de-fcfa/); [a US$10 million Gates Foundation grant funds a universal digital ID, an AI hub for health and agriculture and a delivery unit inside it](https://www.biometricupdate.com/202509/gates-foundation-fuels-senegals-digital-transformation-with-10m), and [DER/FJ has launched Catalyst, a US$50 million pre-seed and seed fund for Senegalese startups](https://techcabal.com/2026/07/07/francophone-weekly-by-techcabal-030/).
 
 <!-- derived -->
-By value the money concentrates on connectivity, technology parks and government digitalisation; statistical capacity, data exchange and health information systems attract the least between them. [A US$300m investment commitment by an American cybersecurity company was presented to the president in Washington on 14 September 2026](https://techafricanews.com/2026/09/16/senegal-300m-cybastion-digitalisation-projects/); no contract is on record.
+By value the money concentrates on connectivity, government digitalisation and data storage; national statistics draws the most commitments, 53, but only about US$19 million. [A US$300m investment commitment by an American cybersecurity company was presented to the president in Washington on 14 September 2026](https://techafricanews.com/2026/09/16/senegal-300m-cybastion-digitalisation-projects/); no contract is on record.
 
 ## ICT Infrastructure
 

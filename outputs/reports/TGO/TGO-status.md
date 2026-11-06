@@ -133,7 +133,7 @@ Far below, [phase 2 of Togo's DHIS2 education system was financed at 71,305,244 
 That analytical layer costs under one per cent of the sector money beside it, and less than convening the review.
 
 <!-- derived -->
-Togo's digital estate has drawn 54 external commitments, worth about US$365 million on windows running from 2016 to 2034 (November 2026), regional operations excluded. One, the Millennium Challenge Corporation's 2019 ICT grant, was cancelled in 2025. World Bank Group entities are the largest financiers by a distance, German public finance next (2016-2026). Connectivity and public administration take about seven tenths of the money; skills training takes about one per cent (2016-2026).
+Togo's digital estate has drawn 39 external commitments, worth about US$365 million on windows running from 2016 to 2034 (November 2026), regional operations excluded. One, the Millennium Challenge Corporation's 2019 ICT grant, was cancelled in 2025. World Bank Group entities are the largest financiers by a distance, German public finance next (2016-2026). Connectivity and public administration take about seven tenths of the money; skills training takes about one per cent (2016-2026).
 
 ## ICT Infrastructure
 
