@@ -1,6 +1,6 @@
 ---
 title: Eswatini: status report
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: SWZ
 region: XSA
 built_by: STATUS-INIT
@@ -114,16 +114,16 @@ The earlier money is smaller, and mostly either spent or still waiting to move. 
 Two other World Bank operations touch the estate without being digital projects: the [extension of the Imbeleko social registry beyond its pilot region](https://documents1.worldbank.org/curated/en/099031525010023201/pdf/P507360-3e4a9889-8b21-4fe3-a3f0-ed133ffbd8ff.pdf) (2025) and [expanded rural electrification reaching 200,000 people](https://www.worldbank.org/en/news/press-release/2025/02/13/world-bank-expands-support-to-electrify-rural-afe-eswatini-reaching-200-000-people) (February 2025).
 
 <!-- derived -->
-Five commitments to the digital estate are on record, spanning windows from 2020 to 2031 and together worth roughly US$45 million (October 2026).
+Eswatini's digital estate has drawn 24 external commitments, worth about US$61 million on windows running from 2015 to 2031 (November 2026).
 
 <!-- derived -->
-The World Bank holds three of the five commitments and US$35 million of the money, and India's Export-Import Bank, the only bilateral lender on record, US$10 million; the fifth is a domestic internet provider's trade-fair Wi-Fi sponsorship of about US$32,000 (October 2026).
+The World Bank holds four of the commitments and US$45 million of the money, and India's Export-Import Bank, the only bilateral lender on record, US$10 million (2020-2031). USAID's eight grants, five of them for a client management information system, come to about US$15 million (2015-2022).
 
 <!-- derived -->
-Connectivity is the only part of the estate with two commitments, the Digital Eswatini Project and the Wi-Fi sponsorship; data-centre disaster recovery, public financial management and health information systems have one each (October 2026).
+Sectoral information systems take the most commitments, nine, chiefly health and client-management systems; connectivity has three, led by the Digital Eswatini Project, and data-centre disaster recovery and public financial management one each (2015-2031).
 
 <!-- derived -->
-Almost all of the money is lending: the one grant is the Wi-Fi sponsorship, and the health project's instrument is not stated (October 2026). [Parliament approved the guarantee, and the ICT minister told senators on 5 October 2026 that E26m of the loan goes to the post office pension fund](https://independentnews.co.sz/49165/news/who-was-held-accountable-for-eptc-pension-crisis-sen-tony/). A domestic internet provider [put E570,000 into free wireless access at the 2026 national trade fair, its third year as sponsor](https://eswatinipositivenews.online/jenny-internet-boosts-eitf-2026-with-e570-000-wifi-sponsorship/).
+Most of the money is lending: two World Bank loans and India's line of credit carry US$35 million of it, while the 19 grants come to about US$16 million and the health project's instrument is not stated (2015-2031). [Parliament approved the guarantee, and the ICT minister told senators on 5 October 2026 that E26m of the loan goes to the post office pension fund](https://independentnews.co.sz/49165/news/who-was-held-accountable-for-eptc-pension-crisis-sen-tony/). A domestic internet provider [put E570,000 into free wireless access at the 2026 national trade fair, its third year as sponsor](https://eswatinipositivenews.online/jenny-internet-boosts-eitf-2026-with-e570-000-wifi-sponsorship/).
 
 ## ICT Infrastructure
 
