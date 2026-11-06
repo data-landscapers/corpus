@@ -1,12 +1,12 @@
 ---
 title: Sierra Leone: status report
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: SLE
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 10
-sources_cited: 200
+sources_cited: 201
 sections_written: 39
 not_established: 2
 acquire_lines: 48
@@ -145,7 +145,7 @@ Ownership is where the language around all this strains. Sonatel's chief executi
 
 Policy has largely given up on waiting for the grid to arrive. [The national electrification plan runs on decentralised supply — mini-grids and stand-alone solar systems, backed by dedicated programmes and duty exemptions](https://rise.esmap.org/country/sierra-leone). [The World Bank is financing solar home systems for 500 schools and 200 health facilities so they have the electricity digital services need](https://blogs.worldbank.org/en/africacan/unlocking-opportunity-how-digital-id-can-transform-lives-in-sierra-leone), and the mobile network has been doing the same for itself: [solar-hybrid power is being installed at around 600 Orange Sierra Leone tower sites, cutting diesel use by three-quarters](https://www.miga.org/project/escotel-africa-0).
 
-Where power is absent the digital estate simply does not run. [Inadequate and unreliable electricity, limited connectivity and a shortage of computers and printers are what the police give as the barriers to digitising case records, and they bear hardest on rural stations](https://www.undp.org/sites/g/files/zskgke326/files/2025-04/police_strategy_booklet_29th_jan-2025.pdf). [In rural clinics the same combination of unreliable power and connectivity keeps paper the primary medium for patient records](https://www.afro.who.int/countries/sierra-leone/news/sierra-leone-sustains-digital-health-gains-through-nationwide-health-facility-device-troubleshooting). [The RESPITE solar and storage plant was commissioned in July 2026 and is fully operational](https://www.connectingafrica.com/investment/sierra-leone-s-new-40mw-solar-project-to-ease-blackouts).
+Where power is absent the digital estate simply does not run. [The distribution utility recorded 18,231 supply interruptions in 2022, more each year since 2019](https://www.sierraleonemonitor.com/over-18000-power-interruptions-recorded-in-2022/). [Inadequate and unreliable electricity, limited connectivity and a shortage of computers and printers are what the police give as the barriers to digitising case records, and they bear hardest on rural stations](https://www.undp.org/sites/g/files/zskgke326/files/2025-04/police_strategy_booklet_29th_jan-2025.pdf). [In rural clinics the same combination of unreliable power and connectivity keeps paper the primary medium for patient records](https://www.afro.who.int/countries/sierra-leone/news/sierra-leone-sustains-digital-health-gains-through-nationwide-health-facility-device-troubleshooting). [The RESPITE solar and storage plant was commissioned in July 2026 and is fully operational](https://www.connectingafrica.com/investment/sierra-leone-s-new-40mw-solar-project-to-ease-blackouts).
 
 ### Technical Capacity
 <!-- infra.capacity -->
