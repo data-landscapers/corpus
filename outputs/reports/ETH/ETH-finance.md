@@ -1,6 +1,6 @@
 ---
 title: Ethiopia: finance
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: ETH
 ---
 
@@ -9,35 +9,37 @@ place: ETH
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Connectivity</th><td class="num">200</td><td class="num">76</td><td class="num">1,257</td><td class="num">263</td><td class="num">14</td><td class="num">211</td><td class="num total">2,021</td></tr>
-<tr><th scope="row">Digital Identity and CRVS</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">350</td><td class="num">57</td><td class="num">52</td><td class="num">91</td><td class="num total">550</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">24</td><td class="num">35</td><td class="num zero"></td><td class="num">57</td><td class="num">21</td><td class="num">23</td><td class="num total">160</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num">63</td><td class="num zero"></td><td class="num zero"></td><td class="num">9</td><td class="num">30</td><td class="num">11</td><td class="num total">112</td></tr>
-<tr><th scope="row">National statistics</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num">51</td><td class="num">16</td><td class="num">9</td><td class="num total">79</td></tr>
-<tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">10</td><td class="num">9</td><td class="num">45</td><td class="num total">63</td></tr>
-<tr><th scope="row">Registries</th><td class="num">30</td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">3</td><td class="num">2</td><td class="num total">37</td></tr>
-<tr><th scope="row">Digital Payments and Fintech</th><td class="num">8</td><td class="num zero"></td><td class="num">1</td><td class="num">21</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">31</td></tr>
-<tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">7</td><td class="num">7</td><td class="num">7</td><td class="num total">20</td></tr>
-<tr><th scope="row">Training and skills</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num">15</td><td class="num zero"></td><td class="num zero"></td><td class="num total">16</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">7</td><td class="num">1</td><td class="num total">11</td></tr>
-<tr><th scope="row">Geospatial data</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num">4</td><td class="num">4</td><td class="num total">11</td></tr>
-<tr><th scope="row">ICT Industry</th><td class="num">10</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">10</td></tr>
-<tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">2</td><td class="num">2</td><td class="num total">4</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num">203</td><td class="num">76</td><td class="num">1,257</td><td class="num">263</td><td class="num">14</td><td class="num">211</td><td class="num total">2,024</td></tr>
+<tr><th scope="row">Digital Identity and CRVS</th><td class="num">8</td><td class="num">2</td><td class="num">351</td><td class="num">59</td><td class="num">52</td><td class="num">91</td><td class="num total">563</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">24</td><td class="num">35</td><td class="num">&lt;1</td><td class="num">58</td><td class="num">21</td><td class="num">23</td><td class="num total">161</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num">76</td><td class="num">4</td><td class="num">12</td><td class="num">18</td><td class="num">30</td><td class="num">11</td><td class="num total">151</td></tr>
+<tr><th scope="row">National statistics</th><td class="num">12</td><td class="num zero"></td><td class="num">6</td><td class="num">51</td><td class="num">16</td><td class="num">9</td><td class="num total">94</td></tr>
+<tr><th scope="row">AI</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">10</td><td class="num">9</td><td class="num">45</td><td class="num total">64</td></tr>
+<tr><th scope="row">Digital Payments and Fintech</th><td class="num">28</td><td class="num zero"></td><td class="num">1</td><td class="num">21</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">51</td></tr>
+<tr><th scope="row">Registries</th><td class="num">31</td><td class="num zero"></td><td class="num">4</td><td class="num">3</td><td class="num">3</td><td class="num">2</td><td class="num total">43</td></tr>
+<tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">7</td><td class="num">7</td><td class="num">7</td><td class="num total">21</td></tr>
+<tr><th scope="row">Training and skills</th><td class="num">3</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">15</td><td class="num zero"></td><td class="num zero"></td><td class="num total">18</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num">6</td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">7</td><td class="num">1</td><td class="num total">16</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num">2</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">3</td><td class="num">4</td><td class="num">4</td><td class="num total">12</td></tr>
+<tr><th scope="row">ICT Industry</th><td class="num">10</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">11</td></tr>
+<tr><th scope="row">Innovation ecosystem</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num total">5</td></tr>
+<tr><th scope="row">Data Storage</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">2</td><td class="num">2</td><td class="num total">4</td></tr>
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>
-<tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Literacy</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
 <tr><th scope="row">Public debate and participation in policymaking</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Energy</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
+<tr><th scope="row">Open data</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Rural digital data capture</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Research institutions</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
-<tr><th scope="row">Research institutions</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Digital divides</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Standards</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">339</td><td class="num">111</td><td class="num">1,612</td><td class="num">502</td><td class="num">164</td><td class="num">406</td><td class="num total">3,135</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">407</td><td class="num">118</td><td class="num">1,636</td><td class="num">515</td><td class="num">164</td><td class="num">406</td><td class="num total">3,246</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/ETH/all-finance.html">Full table &mdash; 425 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/ETH/all-finance.html">Full table &mdash; 598 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/ETH/ETH-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -78,27 +80,32 @@ place: ETH
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Connectivity</th><td class="num">200</td><td class="num">76</td><td class="num">1,257</td><td class="num">243</td><td class="num zero"></td><td class="num">174</td><td class="num total">1,950</td></tr>
-<tr><th scope="row">Digital Identity and CRVS</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">350</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">350</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">24</td><td class="num">35</td><td class="num zero"></td><td class="num">35</td><td class="num zero"></td><td class="num zero"></td><td class="num total">94</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num">63</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">19</td><td class="num">1</td><td class="num total">82</td></tr>
-<tr><th scope="row">Digital Payments and Fintech</th><td class="num">8</td><td class="num zero"></td><td class="num">1</td><td class="num">21</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">31</td></tr>
-<tr><th scope="row">Registries</th><td class="num">30</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">30</td></tr>
-<tr><th scope="row">Training and skills</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num">15</td><td class="num zero"></td><td class="num zero"></td><td class="num total">16</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num">203</td><td class="num">76</td><td class="num">1,257</td><td class="num">243</td><td class="num zero"></td><td class="num">174</td><td class="num total">1,953</td></tr>
+<tr><th scope="row">Digital Identity and CRVS</th><td class="num">8</td><td class="num">2</td><td class="num">351</td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num total">363</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num">76</td><td class="num">4</td><td class="num">12</td><td class="num">9</td><td class="num">19</td><td class="num">1</td><td class="num total">121</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">24</td><td class="num">35</td><td class="num">&lt;1</td><td class="num">36</td><td class="num zero"></td><td class="num zero"></td><td class="num total">95</td></tr>
+<tr><th scope="row">Digital Payments and Fintech</th><td class="num">28</td><td class="num zero"></td><td class="num">1</td><td class="num">21</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">51</td></tr>
+<tr><th scope="row">Registries</th><td class="num">31</td><td class="num zero"></td><td class="num">4</td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">36</td></tr>
+<tr><th scope="row">National statistics</th><td class="num">12</td><td class="num zero"></td><td class="num">6</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">18</td></tr>
+<tr><th scope="row">Training and skills</th><td class="num">3</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">15</td><td class="num zero"></td><td class="num zero"></td><td class="num total">18</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num">6</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">6</td><td class="num zero"></td><td class="num total">13</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">10</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">10</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">6</td><td class="num zero"></td><td class="num total">8</td></tr>
-<tr><th scope="row">National statistics</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>
+<tr><th scope="row">Innovation ecosystem</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num total">5</td></tr>
 <tr><th scope="row">Access to services</th><td class="num zero"></td><td class="num zero"></td><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>
-<tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num">2</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">Public debate and participation in policymaking</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
+<tr><th scope="row">Open data</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
+<tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Rural digital data capture</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
-<tr><th scope="row">Geospatial data</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
-<tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">0</td></tr>
+<tr><th scope="row">AI</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Digital divides</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Research institutions</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Data Storage</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">339</td><td class="num">111</td><td class="num">1,612</td><td class="num">317</td><td class="num">25</td><td class="num">176</td><td class="num total">2,580</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">407</td><td class="num">118</td><td class="num">1,636</td><td class="num">330</td><td class="num">25</td><td class="num">176</td><td class="num total">2,691</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/ETH/finance.html">Full table &mdash; 55 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/ETH/finance.html">Full table &mdash; 228 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/ETH/ETH-nonstate.csv" download>&darr; Download CSV</a>
 </div>

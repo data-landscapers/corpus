@@ -1,28 +1,32 @@
 ---
 title: Chad: finance
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: TCD
 ---
 
 ## All finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Connectivity</th><td class="num">277</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">277</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">93</td><td class="num zero"></td><td class="num">1</td><td class="num total">93</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">35</td><td class="num">2</td><td class="num">3</td><td class="num">8</td><td class="num total">48</td></tr>
-<tr><th scope="row">National statistics</th><td class="num">12</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">12</td></tr>
-<tr><th scope="row">Geospatial data</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>
-<tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">1</td></tr>
-<tr><th scope="row">Digital Identity and CRVS</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
-<tr><th scope="row">Training and skills</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num">277</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">277</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">93</td><td class="num zero"></td><td class="num">1</td><td class="num total">93</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">35</td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">3</td><td class="num">8</td><td class="num total">48</td></tr>
+<tr><th scope="row">National statistics</th><td class="num">13</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">13</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>
+<tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">2</td></tr>
+<tr><th scope="row">Digital Identity and CRVS</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
+<tr><th scope="row">Training and skills</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">1</td></tr>
+<tr><th scope="row">Innovation ecosystem</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
+<tr><th scope="row">Data Storage</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Digital divides</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Open data</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">328</td><td class="num">95</td><td class="num">4</td><td class="num">11</td><td class="num total">438</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">330</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">96</td><td class="num">4</td><td class="num">11</td><td class="num total">441</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/TCD/all-finance.html">Full table &mdash; 33 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/TCD/all-finance.html">Full table &mdash; 53 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/TCD/TCD-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -48,19 +52,25 @@ place: TCD
 ## Non-state finance
 
 <div class="table-scroll"><table class="pivot">
-<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2024</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
+<thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Connectivity</th><td class="num">277</td><td class="num zero"></td><td class="num zero"></td><td class="num total">277</td></tr>
-<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">92</td><td class="num zero"></td><td class="num total">92</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">35</td><td class="num zero"></td><td class="num">6</td><td class="num total">42</td></tr>
-<tr><th scope="row">National statistics</th><td class="num">12</td><td class="num zero"></td><td class="num zero"></td><td class="num total">12</td></tr>
-<tr><th scope="row">Geospatial data</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>
-<tr><th scope="row">Digital Identity and CRVS</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num">277</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">277</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">92</td><td class="num zero"></td><td class="num total">92</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">35</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">6</td><td class="num total">42</td></tr>
+<tr><th scope="row">National statistics</th><td class="num">13</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">13</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>
+<tr><th scope="row">Digital Identity and CRVS</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
+<tr><th scope="row">Innovation ecosystem</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
+<tr><th scope="row">Data Storage</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Digital divides</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Training and skills</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Open data</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">328</td><td class="num">92</td><td class="num">6</td><td class="num total">426</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">330</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">92</td><td class="num">6</td><td class="num total">429</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/TCD/finance.html">Full table &mdash; 9 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/TCD/finance.html">Full table &mdash; 29 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/TCD/TCD-nonstate.csv" download>&darr; Download CSV</a>
 </div>

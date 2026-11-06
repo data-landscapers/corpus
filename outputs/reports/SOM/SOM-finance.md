@@ -1,6 +1,6 @@
 ---
 title: Somalia: finance
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: SOM
 ---
 
@@ -11,20 +11,21 @@ place: SOM
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">15</td><td class="num zero"></td><td class="num">79</td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">98</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">70</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">70</td></tr>
+<tr><th scope="row">National statistics</th><td class="num">30</td><td class="num">4</td><td class="num zero"></td><td class="num">3</td><td class="num">1</td><td class="num">1</td><td class="num total">40</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">31</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">31</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">25</td><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">30</td></tr>
-<tr><th scope="row">National statistics</th><td class="num">12</td><td class="num">4</td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">20</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">25</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">5</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">30</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num">5</td><td class="num zero"></td><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">9</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">2</td><td class="num total">5</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num">5</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">5</td></tr>
-<tr><th scope="row">Geospatial data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num">5</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">5</td></tr>
+<tr><th scope="row">Innovation ecosystem</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
-<tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">159</td><td class="num">4</td><td class="num">79</td><td class="num">8</td><td class="num">4</td><td class="num">6</td><td class="num total">260</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">183</td><td class="num">4</td><td class="num">83</td><td class="num">10</td><td class="num">4</td><td class="num">6</td><td class="num total">290</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/SOM/all-finance.html">Full table &mdash; 36 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/SOM/all-finance.html">Full table &mdash; 58 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/SOM/SOM-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -57,17 +58,19 @@ place: SOM
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">15</td><td class="num zero"></td><td class="num">79</td><td class="num zero"></td><td class="num zero"></td><td class="num total">94</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">70</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">70</td></tr>
+<tr><th scope="row">National statistics</th><td class="num">30</td><td class="num">4</td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">36</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">31</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">31</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">25</td><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num zero"></td><td class="num total">30</td></tr>
-<tr><th scope="row">National statistics</th><td class="num">12</td><td class="num">4</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">16</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num">5</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">5</td></tr>
-<tr><th scope="row">Geospatial data</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num total">1</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">25</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">5</td><td class="num zero"></td><td class="num total">30</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num">5</td><td class="num zero"></td><td class="num">3</td><td class="num zero"></td><td class="num">1</td><td class="num total">9</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num">5</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">5</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
+<tr><th scope="row">Innovation ecosystem</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
+<tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">159</td><td class="num">4</td><td class="num">79</td><td class="num">5</td><td class="num">1</td><td class="num total">248</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">183</td><td class="num">4</td><td class="num">83</td><td class="num">6</td><td class="num">1</td><td class="num total">277</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/SOM/finance.html">Full table &mdash; 14 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/SOM/finance.html">Full table &mdash; 36 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/SOM/SOM-nonstate.csv" download>&darr; Download CSV</a>
 </div>
