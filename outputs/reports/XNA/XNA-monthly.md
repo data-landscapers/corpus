@@ -1,11 +1,11 @@
 ---
 title: North Africa — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: XNA
-ledger_rows: 1
+ledger_rows: 2
 not_held: 0
-record: 69dfe8f0138a
+record: fa1f264f719e
 ---
 
 # News, Oct – Nov 2026
@@ -13,8 +13,32 @@ record: 69dfe8f0138a
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#institutions-and-mandates">Institutions and mandates</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#instruments-and-harmonisation">Instruments and harmonisation</a>
 </nav>
+
+## Institutions and mandates
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Institutions and mandates">
+<a href="#regional-collaboration">Regional collaboration</a>
+</nav>
+
+### Regional collaboration
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Arab Digital Agenda, second edition</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Numérique : les pays arabes misent sur la coopération pour réduire les écarts](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/numerique-les-pays-arabes-misent-sur-la-cooperation-pour-reduire-les-ecarts)** — wearetech.africa, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
+
+A UN commission session in Tunis on 4 and 5 November 2026 discussed a second Arab Digital Agenda. Plans include a mid-term review by 2028, a regional digital-development report and an Arab observatory. ESCWA's executive secretary said networks cover about 95% of the Arab population, but only 70% use the internet.
+
+</div>
+
+</div>
 
 ## Instruments and harmonisation
 
