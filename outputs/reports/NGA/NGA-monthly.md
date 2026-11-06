@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: NGA
-ledger_rows: 80
+ledger_rows: 83
 not_held: 9
-record: 2f93d3e17633
+record: 11c42ac24dd0
 ---
 
 # News, Oct – Nov 2026
@@ -412,6 +412,28 @@ The Netherlands foreign ministry committed EUR 450,000 on 20 October 2026 to a d
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">World Bank ID4D financing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Restructuring Paper on a Proposed Project Restructuring of Nigeria Digital Identification for Development Project (P167183)](https://documents.worldbank.org/curated/en/099102226140523752/pdf/P167183-245b44ff-e5dd-4eae-81a3-059c57e029c3.pdf)** — World Bank, 22 October 2026
+
+Twelve-month extension to Dec 2027; NIMS 2.0 contract signed 15 Sept 2026; 117.5m NINs at June 2026, 65% of target.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria seeks digital ID project extension to roll out MOSIP-based infrastructure](https://www.biometricupdate.com/202611/nigeria-seeks-digital-id-project-extension-to-roll-out-mosip-based-infrastructure)** — Biometric Update, 5 November 2026
+
+Nigeria has asked the World Bank for a third extension of its ID4D project, to 31 December 2027, according to a restructuring paper. The priority is the new MOSIP-based identity system, whose contract was signed on 15 September. The paper also records unpaid enrolment partners and about 145 million enrolments at 14 September.
+
+</div>
+
+</div>
+
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
@@ -728,6 +750,14 @@ Summarised under [Data Exchange](#data-exchange).
 
 </div>
 
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Restructuring Paper on a Proposed Project Restructuring of Nigeria Digital Identification for Development Project (P167183)](https://documents.worldbank.org/curated/en/099102226140523752/pdf/P167183-245b44ff-e5dd-4eae-81a3-059c57e029c3.pdf)** — World Bank, 22 October 2026
+
+Summarised under [New investments](#new-investments).
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -919,6 +949,34 @@ Mastercard and Interswitch launched Google Pay contactless payments for eligible
 **[Verve plans phone tap-to-pay and AI agent payments, CEO says](https://techcabal.com/2026/10/31/verve-ai-payment/)** — TechCabal, 31 October 2026
 
 Verve, Nigeria's largest card scheme, plans phone tap-to-pay and later payments made by AI assistants, its chief executive said on 29 October 2026. He said Verve now has 130 million cards. No launch date was given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Emergency Relief and Stabilisation Intervention (NERSI) grant</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[How FG selects beneficiaries for N50,000 relief](https://punchng.com/how-fg-selects-beneficiaries-for-n50000-relief/)** — Punch, 4 November 2026
+
+NIN and social-register enrolment required; N50,000 paid to mobile wallets via five named providers.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Paga Direct Debit on Paga Engine</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paga expands Direct Debit access for businesses beyond its network](https://techcabal.com/2026/11/05/paga-engine-expands-direct-debit-access/)** — TechCabal, 5 November 2026
+
+Paga now lets businesses collect direct debits from customers of other Nigerian financial institutions through Paga Engine, using existing interbank rails. TechCabal reported it on 5 November 2026. Central Bank of Nigeria data show 157.4 million direct-debit transactions worth about ₦23.3 trillion in 2024.
 
 </div>
 

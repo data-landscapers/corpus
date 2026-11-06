@@ -1,12 +1,12 @@
 ---
 title: Nigeria: status report
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: NGA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-09
 intersections_read: 16
-sources_cited: 339
+sources_cited: 342
 sections_written: 39
 not_established: 0
 acquire_lines: 41
@@ -171,7 +171,7 @@ Where exchange works today it is sectoral. [A company's Corporate Affairs Commis
 ### Digital Identity and CRVS
 <!-- dpi.id -->
 
-[142 million people had registered for a National Identification Number by September 2026, on the identity commission's own count](https://techcabal.com/2026/10/14/nimc-identity-database-locally-hosted/), up from [123.9 million enrolments in October 2025](https://nairametrics.com/2025/12/18/nin-enrollments-hit-123-9-million-in-october-nimc/), still short of the [180 million the World Bank-financed identity project targets on a timetable now extended to December 2026](https://idtechwire.com/world-bank-expands-nigerias-digital-id-target-to-180-million-extends-project-to-2026/). The register skews male and urban: [56.25% men to 43.75% women at October 2025, led by Lagos with 13.1 million, Kano with 11.5 million and Kaduna with 7.3 million](https://nairametrics.com/2025/12/18/nin-enrollments-hit-123-9-million-in-october-nimc/).
+[142 million people had registered for a National Identification Number by September 2026, on the identity commission's own count](https://techcabal.com/2026/10/14/nimc-identity-database-locally-hosted/), up from [123.9 million enrolments in October 2025](https://nairametrics.com/2025/12/18/nin-enrollments-hit-123-9-million-in-october-nimc/), still short of the [180 million the World Bank-financed identity project targets](https://idtechwire.com/world-bank-expands-nigerias-digital-id-target-to-180-million-extends-project-to-2026/). [The World Bank put numbers issued at about 121 million at 30 September 2026, and in October proposed extending the project to December 2027 to deploy a new open-source identity system whose contract was signed on 15 September 2026](https://documents.worldbank.org/curated/en/099102226140523752/pdf/P167183-245b44ff-e5dd-4eae-81a3-059c57e029c3.pdf). The register skews male and urban: [56.25% men to 43.75% women at October 2025, led by Lagos with 13.1 million, Kano with 11.5 million and Kaduna with 7.3 million](https://nairametrics.com/2025/12/18/nin-enrollments-hit-123-9-million-in-october-nimc/).
 
 The [identity statute passed in 2026](https://www.thecable.ng/tinubu-signs-nimc-act-2026-into-law-as-fg-moves-to-strengthen-cybersecurity/) turns the identity commission into infrastructure for the rest of government: it becomes [Nigeria's root certification authority for electronic signatures and digital trust services](https://www.thisdaylive.com/2026/07/16/nimc-assumes-digital-signature-role-targets-safer-online-transactions/), and it [folds cyber-enforcement into the identity system, with a reactivated inspectorate and compliance unit working against illegal enrolment centres, identity theft and online fraud and the data protection act incorporated into the Act](https://guardian.ng/news/nimc-enrols-136-million-nigerians-as-coker-odusote-pushes-stronger-inter-ministerial-partnership/).
 
@@ -187,6 +187,8 @@ Outward, the credential travels further than it did. Nigeria [began issuing the 
 <!-- dpi.pay -->
 
 The IMF found in June 2026 that [Nigerians' shift into dollar-linked stablecoins is weakening demand for the naira and blunting the transmission of monetary policy](https://www.imf.org/en/news/articles/2026/06/16/stablecoins-in-nigeria), which makes retail crypto adoption a monetary-sovereignty question rather than a consumer-protection one. The scale behind that finding is [US$59bn of crypto-asset inflows between July 2023 and June 2024, second place globally on the 2024 adoption index and sixth in 2025, and around 60% of sub-Saharan Africa's stablecoin inflows since 2019](https://www.imf.org/en/news/articles/2026/06/16/stablecoins-in-nigeria).
+
+[The national safety-net programme had paid N330 billion to 8.5 million of 15 million targeted households by September 2025, verifying each by identity number and paying into bank accounts or mobile wallets](https://www.thisdaylive.com/2025/09/18/fg-moves-to-include-conditional-cash-transfer-in-national-budgets-disburses-n330bn-to-poor-households/). [A N50,000 emergency relief grant began paying into mobile wallets in October 2026, to households drawn from identity records and the social register](https://punchng.com/how-fg-selects-beneficiaries-for-n50000-relief/).
 
 The domestic rails are old and heavily used. [The instant payment scheme has run since 2011 and handled around 11 billion transactions in 2024](https://www.africanenda.org/uploads/files/siips2025/siips_2025_NIP-Nigeria_CaseStudy_en.pdf), and [electronic transactions were worth ₦1.2 quadrillion in 2025, against ₦395 trillion in 2022](https://thenationonlineng.net/payment-vision-2028-is-nigeria-ready-for-digital-economy/). [The first live transaction on a next-generation National Payment Stack, built to ISO 20022, settled on 7 November 2025](https://www.thisdaylive.com/2025/11/10/nibss-executes-first-transaction-on-national-payment-stack/), and [the settlement operator said the stack had passed 100 million successful transactions by late September 2026, as one rail for banks, microfinance banks, fintechs, mobile money operators and payment service providers](https://guardian.ng/technology/nibss-national-payment-stack-hits-100m-transactions/). Who decides how that rail runs is narrower than who uses it — [the scheme is governed by a board of a central bank deputy governor and the chief executives of the deposit-taking banks, other participants reaching it through focus groups and industry engagement sessions rather than seats](https://www.africanenda.org/uploads/files/siips2025/siips_2025_NIP-Nigeria_CaseStudy_en.pdf). [Access to banking services ranks Nigeria 12th of 54 in Africa on a score of 31.6 out of 100, up 2.3 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ng.pdf) (2023).
 
