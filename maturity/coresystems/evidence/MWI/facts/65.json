@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-23-mwi-ict-projects-running-at-satcp",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ASYCUDA World",
+   "country_label": "ASYCUDA World 4.4.0",
+   "class": "other",
+   "platform": "UNCTAD",
+   "owner": "Malawi Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "The page covers customs (ASYCUDA World) and trade systems, which this study treats as other, and states no finance, tax-filing or payroll system."
+}

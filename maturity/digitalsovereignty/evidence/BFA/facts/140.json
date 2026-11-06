@@ -1,0 +1,15 @@
+{
+ "slug": "2024-01-01-crs-3-2014001355-2024-dsif-burkina-faso-national-cloud-and-fibre-optic-c",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National cloud and fibre optic project",
+   "country_label": "Burkina Faso",
+   "class": "other",
+   "platform": "government cloud platform",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": "Donor project description of a planned government cloud; no data term, rule or hosting in service stated."
+}

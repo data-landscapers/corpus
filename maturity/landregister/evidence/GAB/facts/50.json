@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-17-gab-gabonclic-cnss-revolution-numerique-service-public",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e.CNSS",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "e.cnss.ga",
+   "owner": "CNSS",
+   "tiers": ""
+  }
+ ],
+ "note": "Document covers CNSS employer registration online (e.CNSS); not stated for this study."
+}
