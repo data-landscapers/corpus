@@ -383,7 +383,7 @@ The 2014 loan bought [more than 2,275 km of fibre on the Niamey–Tillabéry, Zi
 That single 2014 commitment still outweighs anything since: [the Chinese backbone loan](https://china.aiddata.org/projects/58683/), closed in 2017, remains the largest of any kind. The largest live commitment to Niger's digital sector is [the World Bank's USD 100 million Smart Villages for Rural Growth and Digital Inclusion loan (P167543)](https://projects.worldbank.org/en/projects-operations/project-detail/P167543), running to 2026.
 
 <!-- derived -->
-Only four financiers appear in Niger's digital sector at all (September 2026). The World Bank leads with about USD 108 million across two Niger-specific operations, but China Eximbank's one loan, at about USD 104 million, comes within a few million dollars of that whole total, and dwarfs the Netherlands at about USD 8 million and MIGA at USD 2 million (November 2026).
+Fourteen financiers appear in Niger's digital sector since 2015 (November 2026). The World Bank leads with about USD 128 million across three operations, ahead of the African Development Bank at about USD 27 million; USAID has the most commitments, 18, worth about USD 8 million. China Eximbank's 2014 backbone loan falls before the 2015 window and is not counted.
 
 ### EU activities
 <!-- geopol.eu -->

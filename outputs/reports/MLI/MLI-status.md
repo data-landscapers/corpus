@@ -122,7 +122,7 @@ In 2025 the International Finance Corporation [disclosed a proposed loan to Oran
 In all, 106 external digital commitments naming Mali are on the record, spanning 2015 to 2033 and worth roughly USD 697 million, one of them an innovation fund grant with no published amount (November 2026). About 64% of the value sits in two transactions, a 2024 telecommunications licence renewal and a 2018 China Eximbank loan; the West African regional operations that do not name the country sit outside that figure (November 2026). USAID appears more often than any other financier, 67 times, and 100 of the commitments are grants, together about USD 102 million (November 2026).
 
 <!-- derived -->
-As at November 2026 grants are 12 of the 16 but about a tenth of the value, roughly USD 61 million, the rest carried by loans and by the licence transaction; connectivity takes close to three-fifths of the value. The most frequently financed subsector is national statistics, five commitments worth about USD 12 million, four of them Swedish, which makes Sida the most frequent financier on the record (November 2026).
+Connectivity takes 56% of the value, about USD 388 million over four commitments (November 2026). The most frequently financed subsector is national statistics, 76 commitments worth about USD 64 million, 57 of them USAID's (November 2026).
 
 ## ICT Infrastructure
 
