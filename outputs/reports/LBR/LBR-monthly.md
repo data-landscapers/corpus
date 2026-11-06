@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: LBR
-ledger_rows: 18
+ledger_rows: 19
 not_held: 6
-record: 56ccd5a3dd99
+record: 06994754f37a
 ---
 
 # News, Oct – Nov 2026
@@ -22,6 +22,8 @@ record: 56ccd5a3dd99
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
 </nav>
 
 ## Governance
@@ -391,6 +393,28 @@ The Press Union of Liberia's president, Julius Kanubah, asked the government on 
 **[IIC Proposes Regional Hub -Grand Gedeh survey backs decentralized access - Analyst Liberia](https://analystliberiaonline.com/iic-proposes-regional-hub-grand-gedeh-survey-backs-decentralized-access/)** — The Analyst News, 27 October 2026
 
 A survey of 1,875 people in Grand Gedeh County on 14-17 October 2026 found that 87.6% had never heard of the Freedom of Information Act of 2010. Some 85.3% did not know how to file a request. Some 77.6% said they use the internet regularly. The Independent Information Commission recommended a feasibility assessment for a regional freedom of information hub in the county.
+
+</div>
+
+</div>
+
+## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#geospatial-data">Geospatial data</a>
+</nav>
+
+### Geospatial data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Climate information systems project (GCF SAP018)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SAP018: Enhancing Climate Information Systems for Resilient Development in Liberia (Liberia CIS)](https://www.greenclimate.fund/project/sap018)** — Green Climate Fund, 5 November 2026
+
+The Green Climate Fund approved project SAP018 on 13 November 2020, with the African Development Bank as accredited entity. It funds climate information and early-warning services in Liberia, aiming to reach 7.7 million people. The grant is USD 10 million of a USD 11.4 million total, and completion is set for October 2027.
 
 </div>
 
