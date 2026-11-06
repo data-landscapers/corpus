@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: TZA
-ledger_rows: 39
+ledger_rows: 41
 not_held: 5
-record: b4c32f86a976
+record: b1e326412355
 ---
 
 # News, Oct – Nov 2026
@@ -172,6 +172,8 @@ Tanzania's Ministry of Finance and Korea Eximbank signed a concessional loan of 
 <a href="#connectivity">Connectivity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#energy">Energy</a>
 </nav>
 
 ### Connectivity
@@ -223,6 +225,22 @@ Paratus Tanzania launched a point of presence at the Wingu Data Centre in Dar es
 **[SMZ yatenga Sh53 bilioni kuendesha miradi ya Tehama](https://www.mwananchi.co.tz/mw/zanzibar/habari/smz-yatenga-sh53-bilioni-kuendesha-miradi-ya-tehama-5618282)** — Mwananchi, 3 October 2026
 
 Zanzibar's government has set aside more than TZS 53 billion for three ICT infrastructure projects, chiefly a data centre and public internet, communication minister Mudrik Ramadhan Soraga said on 2 October 2026. He said a draft startups bill creating a fund of grants and low-cost loans is due for first reading in November or December 2026.
+
+</div>
+
+</div>
+
+### Energy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Grid reliability indices</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The Electricity Sub-Sector Performance Review Report](https://www.ewura.go.tz/uploads/documents/en-1791188214-The%20Electricity%20Sub%20Sector%20Performance%20Review%20Report%20June%202026.pdf)** — Energy and Water Utilities Regulatory Authority (EWURA), 5 October 2026
+
+FY2025/26: TANESCO SAIDI down to 1,044.77 minutes and SAIFI to 12.09, both inside target.
 
 </div>
 
@@ -667,6 +685,20 @@ Tanzania's Universal Communications Service Access Fund (UCSAF) and the Tanzania
 **[TCRA advances digital inclusion for PwDs through assistive technologies - Daily News](https://dailynews.co.tz/tcra-advances-digital-inclusion-for-pwds-through-assistive-technologies/)** — Daily News (Tanzania), 9 October 2026
 
 Tanzania's communications regulator (TCRA) said its project to adopt assistive technologies for people with disabilities is 80% complete, at a peer exchange of African regulators in Nairobi from 5 to 9 October 2026 under the iPRIS programme. TCRA's website accessibility work was recognised by the Tanzania Bureau of Standards under a new ICT accessibility standard.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Universal service fund rural site programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UCSAF to improve mobile network coverage on SGR](https://www.thecitizen.co.tz/tanzania/news/national/ucsaf-to-improve-mobile-network-coverage-on-sgr-5657830)** — The Citizen, 4 November 2026
+
+2,199 of 2,324 towers built, 2,053 of 2,306 wards reached (Nov 2026); 198 Phase 11A sites tendered, 82 more in 2027.
 
 </div>
 
