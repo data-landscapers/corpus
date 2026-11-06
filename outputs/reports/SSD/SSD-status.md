@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 212
+sources_cited: 213
 sections_written: 39
 not_established: 2
 acquire_lines: 51
@@ -369,7 +369,7 @@ The reflex extends to the law itself. The [full text of the Cyber Crimes and Com
 
 [The World Bank's Joint Food Security Monitor raises monthly alerts for South Sudan's 78 second-level administrative areas](https://microdata.worldbank.org/index.php/catalog/8024) (July 2026). [It draws on vegetation-index and rainfall drought indicators, read with food prices, fuel prices and exchange rates](https://microdata.worldbank.org/index.php/catalog/8024).
 
-South Sudan Meteorological Services [is installing 27 more automatic weather stations with FAO support](https://meteosouthsudan.com.ss/news/south-sudan-strengthens-national-observing-network-with-27-new-automatic-weather-stations/) (February 2026). [That brings the network to 40 stations sharing data through the WMO information system](https://meteosouthsudan.com.ss/news/south-sudan-strengthens-national-observing-network-with-27-new-automatic-weather-stations/). [The Systematic Observations Financing Facility approved a US$2.08 million grant for the observing network on 18 February 2026](https://www.un-soff.org/wp-content/uploads/2026/02/Decision-13.3-SOFF-Investment-Funding-Requests.pdf). [It pays for stations, maintenance, data systems and staff training](https://www.un-soff.org/wp-content/uploads/2026/02/Decision-13.3-SOFF-Investment-Funding-Requests.pdf). [The Nile Basin Initiative handed seven hydrometeorological stations worth US$500,000 to the water ministry in March 2024](https://wmo.int/sites/default/files/2025-07/South_Sudan_CNA_2024.pdf). No national space or geospatial data policy had been adopted as at August 2026.
+South Sudan Meteorological Services [is installing 27 more automatic weather stations with FAO support](https://meteosouthsudan.com.ss/news/south-sudan-strengthens-national-observing-network-with-27-new-automatic-weather-stations/) (February 2026). [That brings the network to 40 stations sharing data through the WMO information system](https://meteosouthsudan.com.ss/news/south-sudan-strengthens-national-observing-network-with-27-new-automatic-weather-stations/). [The Systematic Observations Financing Facility approved a US$2.08 million grant for the observing network on 18 February 2026](https://www.un-soff.org/wp-content/uploads/2026/02/Decision-13.3-SOFF-Investment-Funding-Requests.pdf). [It pays for stations, maintenance, data systems and staff training](https://www.un-soff.org/wp-content/uploads/2026/02/Decision-13.3-SOFF-Investment-Funding-Requests.pdf). [By 30 June 2026, with FAO implementing, 13 of the 16 automatic stations in the facility's compliance plan had been installed](https://www.un-soff.org/wp-content/uploads/2026/09/SOFF_South-Sudan_Investment-Phase-Progress-Update_IE.pdf). [The Nile Basin Initiative handed seven hydrometeorological stations worth US$500,000 to the water ministry in March 2024](https://wmo.int/sites/default/files/2025-07/South_Sudan_CNA_2024.pdf). No national space or geospatial data policy had been adopted as at August 2026.
 
 ## Geopolitics
 
