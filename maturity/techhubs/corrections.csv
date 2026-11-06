@@ -2,3 +2,6 @@ iso3,n,aspect,value,action,why
 BWA,002,hubs,inservice,removed,"First pass: the source record has no URL, so the fact cannot be linked"
 CIV,004,,,removed,"Stage 4c (hubs:underway): a plan to host an AI hub, not a hub being built"
 CIV,005,,,removed,"Stage 4c (hubs:underway): a plan to install a pilot AI hub, not a hub being built"
+KEN,004,hubs,underway,removed,"Stage 4c 2026-11-06: a Norad grant record (CRS 2024) for an assistive-technology accelerator run by the UK-based GDI Hub, described only as programmes it will run; a donor grant for planned work is not a hub being built or in service."
+NGA,008,hubs,underway,removed,"Stage 4c 2026-11-06: a MacArthur grant record (CRS 2024) for CcHUB to help the ministry and USPF on broadband policy; the hub is named in passing and the grant is not for a hub or its programmes."
+ZAF,008,hubs,inservice,removed,"Stage 4c 2026-11-06: a second Irish CRS line for the same Tech Challenge programme in the same year; ZAF-007 holds the fact."

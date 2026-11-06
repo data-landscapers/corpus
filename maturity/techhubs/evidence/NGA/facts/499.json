@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-25-crs-1619-2024000179-2024-for-increasing-access-affordability-and-inclusion",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "A MacArthur Foundation grant of USD 200,000 supports the Ministry of Communication, Innovation and Knowledge Economy and the USPF through CcHUB, described as a Nigerian for-profit innovation center with an office in Nigeria.",
+   "as_of": "2024-07-25",
+   "date_precision": "day",
+   "system": "Co-Creation Hub (CcHUB)",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Co-Creation Hub (CcHUB)",
+   "country_label": "CcHUB",
+   "class": "hub",
+   "platform": "",
+   "owner": "for-profit",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
