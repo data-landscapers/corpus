@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-06
 place: DJI
 ledger_rows: 8
 not_held: 11
-record: 851a42256185
+record: 3cf55b97f508
 ---
 
 # News, Oct – Nov 2026
@@ -192,7 +192,7 @@ The Francophonie organisation and Djibouti's education and vocational training m
 
 **[Djibouti SOFF Investment Phase Funding Request (pipeline, version 6)](https://www.un-soff.org/wp-content/uploads/2026/10/2699-Djibouti-SOFF-IFR-V6-clean-version-25092026.pdf)** — Systematic Observations Financing Facility, 1 October 2026
 
-USD 2.01m SOFF investment request for Djibouti, 2027-2031, to bring its one surface and one upper-air station to GBON.
+Djibouti's weather agency asks SOFF for US$2.01m for 2027 to 2031. Neither of its two required stations meets the global standard. The airport surface station is to be upgraded. A disused upper-air station is to be rebuilt.
 
 </div>
 

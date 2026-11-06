@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-06
 place: SYC
 ledger_rows: 13
 not_held: 6
-record: 837d5f3cd907
+record: 9119a14935e3
 ---
 
 # News, Oct – Nov 2026
@@ -296,7 +296,7 @@ A second cohort of 27 Seychelles civil servants was sent off at the Indian High 
 
 **[Investment Phase pipeline – Seychelles](https://www.un-soff.org/wp-content/uploads/2026/10/Seychelles-IFR-FINAL.pdf)** — Systematic Observations Financing Facility, 2 October 2026
 
-World Bank-led SOFF request of USD 3,308,974.80 to rebuild Seychelles' surface and upper-air stations, 2027 to 2031.
+A World Bank-led request asks SOFF for US$3.3m for 2027 to 2031. It rebuilds the surface and upper-air stations at Mahé airport. It also restores the automatic stations on the outer islands. An upper-air station on Aldabra waits for a second phase.
 
 </div>
 
