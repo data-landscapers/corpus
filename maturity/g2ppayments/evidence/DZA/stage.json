@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "unplaced",
-      "payment": "",
+      "stage": "2",
+      "payment": "underway",
       "streams": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether government pays people digitally.",
-      "note": "The only row, the April 2023 unemployment allowance paid into CCP postal accounts, is older than three years and sets no rung.",
-      "as_at": "2026-11-05"
+      "stage_sources": "DZA-002",
+      "gaps": "No source found since October 2023 says a government transfer, salary or pension is paid digitally in service; the 2024 CNAS-Algerie Poste convention sets up digital transfers, and the 2023 unemployment allowance paid into CCP accounts is older than three years.",
+      "note": "In June 2024 CNAS and Algerie Poste signed a convention to digitise transfers of social-insurance benefits to CCP accounts, a contracted digital payment, so stage 2. No source in the window says such payments are in service, so not 3.",
+      "as_at": "2026-11-06"
     }
   ]
 }

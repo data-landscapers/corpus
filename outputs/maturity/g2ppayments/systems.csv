@@ -49,6 +49,7 @@ CPV,Rendimento Social de Inclusão (RSI),Cabo Verde,g2p,RSI management app,Centr
 CPV,Cadastro Social Único,Cabo Verde,other,,,,2020-08-01-cpv-cnps-rsi-emergencial-3600-beneficiarios
 DJI,PAPSS,Djibouti,other,Pan-African Payment and Settlement System,PAPSS,"Participant, send and receive",2026-06-01-papss-payments-network-coverage-june-2026
 DZA,Allocation chomage,Allocation chomage,g2p,CCP postal accounts,Ministry of Labour / Algerie Poste,,2023-04-19-dza-lejourdalgerie-allocation-chomage-ccp
+DZA,Minha,Algeria,other,ANEM digital platform for allowance applications,ANEM,,2026-03-22-dza-140-000-demandes-en-traitement-via-minha-lanem-accelere-les-procedures
 EGY,Meeza,Egypt,other,national card scheme,CBE,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
 EGY,InstaPay,Egypt,other,instant payments network,CBE,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
 EGY,Meeza Digital,Egypt,other,mobile wallets,,,2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram
@@ -123,6 +124,7 @@ MOZ,M-Pesa,MOZ,other,,Vodacom Mozambique,,2026-09-04-techreviewafrica-mpesa-maxi
 MOZ,Adianta-La,MOZ,other,M-Pesa,Maximo Microbanco,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
 MOZ,PASD-PE,Programa de Apoio Social Directo Pos-Emergencia,g2p,"M-PESA wallets, Offline Payment Application",INAS-IP,,2022-09-01-moz-ipcig-inas-registration-payments-emergency
 MOZ,PASD-PE,Post-Emergency Direct Social Assistance Program,g2p,"SPA, M-Pesa wallets",INAS,,2023-09-20-moz-worldbank-g2px-gradual-transition
+MOZ,campaign worker databases for digital payment,Mozambique,other,,Dimagi Inc. (implementer),,2024-12-19-crs-1601-2024012782-09-2024-campaign-worker-databases-to-facilitate-rapid-digi
 MRT,TEKAVOUL,Mauritania,g2p,,Taazour (Delegation Generale a la Solidarite Nationale et a la Lutte contre l'Exclusion),regular conditional transfers; Tekavoul Choc temporary unconditional transfers,2024-05-15-mrt-decret-2024-073-creation-programme-tekavoul-registre-social
 MRT,Registre Social,Mauritania,other,,,,2024-05-15-mrt-decret-2024-073-creation-programme-tekavoul-registre-social
 MWI,SCTP and CS-EPWP e-payments,Malawi,g2p,"e-wallets via TNM, Airtel, FDH, Standard Bank, Wealthnet Finance (Kaku Pay), NBS Bank",NLGFC,,2025-03-21-ssrlp-inspire-o-aide-memoire
@@ -213,11 +215,13 @@ TUN,AMEN Social Program,Tunisia,g2p,social registry with proxy-means test and un
 TUN,Tunisian Post e-wallet payment card,Tunisia,g2p,e-wallet card,Tunisian Post,,2024-04-26-worldbank-tunisie-amen-protection-sociale-teri
 TUN,PAPSS,Tunisia,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
 TZA,Mixx by Yas,Tanzania (Zanzibar),other,mobile money,Yas,,2026-08-27-thecitizen-tz-zanzibar-digital-payments
+TZA,TASAF,Tanzania,g2p,,TASAF,,2026-04-01-tza-tasaf-disburses-tzs-43-5-billion-to-poor-households
 UGA,Wendi,Uganda,other,mobile phone disbursement,Pearl Bank,,2026-09-18-uga-kampalareport-parish-development-model-3-5-million-beneficiaries
 UGA,PDM Information System,Uganda,other,,Government of Uganda,,2026-09-18-uga-kampalareport-parish-development-model-3-5-million-beneficiaries
 UGA,Integrated Financial Management Information System,Uganda,other,,Government of Uganda,,2026-09-18-uga-kampalareport-parish-development-model-3-5-million-beneficiaries
 UGA,Zaidi,Uganda,other,,Government of Uganda,,2026-09-18-uga-kampalareport-parish-development-model-3-5-million-beneficiaries
 UGA,SAGE,Uganda,g2p,payment points; mobile money pilot,"Ministry of Gender, Labour and Social Development",,2026-10-19-uga-43-000-elderly-ugandans-locked-out-of-sage-benefits-over-national-id-errors
+UGA,national central data hub for credit reference bureaus,Uganda,other,,,,2024-07-09-crs-1601-2024011309-01-2024-uganda-central-data-hub
 ZAF,MTN MoMo,ZAF,other,,,,2026-09-04-techcabal-mtn-fintech-serigne-dioum-momo-vision
 ZAF,PayShap,South Africa,other,,,,2026-07-13-sarb-qr-plus-checkout
 ZAF,QR+,South Africa,other,,SARB,,2026-07-13-sarb-qr-plus-checkout

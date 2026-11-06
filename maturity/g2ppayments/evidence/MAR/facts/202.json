@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-10-mar-anss-un-an-apres-quel-impact-sur-le-soutien-social",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "Le Brief reports the ANSS annual report as saying that crossing the national population register (RNP) with the unified social registry (RSU) concentrates 84% of Direct Social Aid payments on the three poorest deciles.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "ASD (Aides sociales directes)",
+   "class": "g2p"
+  },
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Le Brief reports that the implementing decree for a monthly MAD 500 special aid for orphans, paid into an interest-bearing account in each child's name at the CDG, was adopted on 23 December 2025, with enrolment to finish in 2026.",
+   "as_of": "2025-12-23",
+   "date_precision": "day",
+   "system": "Aide spéciale (orphans and abandoned children)",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

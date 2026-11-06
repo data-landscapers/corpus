@@ -3,3 +3,4 @@ SYC,001,linked,linked,removed,"First pass: payments through the registry are pla
 TUN,003,linked,linked,removed,"First pass: the unique identifier is being introduced, not in use"
 TZA,001,payment,inservice,classed other,"Rebuild 2026-11-05: payment for clove sold to a state trading corporation is a purchase, not a transfer, salary or pension"
 UGA,001,payment,inservice,classed other,"Rebuild 2026-11-05: Parish Development Model loans are credit, not a transfer, salary or pension"
+TZA,003,payment,underway,removed,"stage 4c 2026-11-06: a Gates Foundation grant to develop a digitised payment system for community health workers; a funder's aim, not a programme piloting or contracting payment"

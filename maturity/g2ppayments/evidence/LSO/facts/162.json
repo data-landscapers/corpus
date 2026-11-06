@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-24-lso-government-urges-elderly-to-utilise-electronical-devices-to-receive-gr",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Lesotho's Ministry of Gender, Youth and Social Development pays elderly pensions through an electronic method, which pensioners petitioned parliament's social cluster committee to replace with cash.",
+   "as_of": "2026-04-24",
+   "date_precision": "day",
+   "system": "Electronic payment of elderly pensions",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

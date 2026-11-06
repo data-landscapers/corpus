@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "unplaced",
-      "payment": "",
+      "stage": "3",
+      "payment": "inservice",
       "streams": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether government pays people digitally; the one row, crop payments to clove farmers, is not a transfer, salary or pension.",
-      "note": "The only row is a state trading corporation paying clove farmers for their crop through Mixx, a purchase and not a transfer, salary or pension, now classed other. No row can set a rung.",
-      "as_at": "2026-11-05"
+      "stage_sources": "TZA-002",
+      "gaps": "No source found since October 2023 shows civil service salaries or pensions paid digitally, or payments checked against the national ID or a social registry.",
+      "note": "TASAF paid 60% of its 896,746 beneficiary households electronically, by mobile network or bank account, from July 2025 to March 2026: a social transfer paid digitally, so stage 3. No second stream is held, so not 4.",
+      "as_at": "2026-11-06"
     }
   ]
 }

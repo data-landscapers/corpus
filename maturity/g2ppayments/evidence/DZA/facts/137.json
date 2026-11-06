@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-22-dza-140-000-demandes-en-traitement-via-minha-lanem-accelere-les-procedures",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Minha",
+   "country_label": "Algeria",
+   "class": "other",
+   "platform": "ANEM digital platform for allowance applications",
+   "owner": "ANEM",
+   "tiers": ""
+  }
+ ],
+ "note": "Applications and automated cross-checks against 600-plus databases are stated, but no digital payment channel and no national ID or social registry check is named."
+}

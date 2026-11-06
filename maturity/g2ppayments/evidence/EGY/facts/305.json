@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-01-egy-social-solidarity-launches-june-takaful-and-karama-disbursement",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Egypt's Ministry of Social Solidarity says June 2026 Takaful and Karama cash assistance, over EGP 4 billion for 4.7 million families, is paid electronically through bank ATMs, Nasser Social Bank branches, Fawry outlets and Meeza cards.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Takaful and Karama cash assistance",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

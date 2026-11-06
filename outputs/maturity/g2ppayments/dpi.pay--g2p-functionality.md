@@ -22,10 +22,10 @@ The African Union's Digital Transformation Strategy asks governments to digitise
 |---|---|
 | 5 Leading | 10 |
 | 4 Operating | 6 |
-| 3 Established | 22 |
-| 2 Nascent | 7 |
+| 3 Established | 23 |
+| 2 Nascent | 8 |
 | 1 Absent | 0 |
-| Unplaced | 6 |
+| Unplaced | 4 |
 | No evidence | 3 |
 
 ## Countries
@@ -265,6 +265,12 @@ Public workers' pay was moved onto bank accounts in 2026; no source found says w
 
 - Sudan's finance ministry says Council of Ministers decisions 149 and 150 require workers' entitlements to be paid through bank accounts, and that this has been put into effect ([source, 2026-04-11](https://spokesperson-sd.com/ar/archives/39743)).
 
+### Tanzania: 3 Established
+
+TASAF paid 60% of poor households' grants by mobile or bank in 2025-26; whether salaries or pensions are paid digitally is not known.
+
+- TASAF reported to parliament (via the minister) that of 896,746 beneficiary households paid TZS 43.5 billion from July 2025 to March 2026, 535,536 households (60%) received grants electronically through mobile networks and bank accounts ([source, 2026-03](https://www.tasaf.go.tz/news/tasaf-disburses-sh43-5-billion-to-beneficiary-households-government-sets-new-strategies)).
+
 ### Togo: 3 Established
 
 A government programme paid people digitally in 2026; no source found reports a second main stream.
@@ -282,6 +288,12 @@ A government programme paid people digitally in 2024; no source found reports a 
 A government programme paid people digitally in 2026; no source found reports a second main stream.
 
 - Zambia's Ministry of Community Development and Social Services began disbursing more than K1.4 billion in the July-August 2026 Social Cash Transfer cycle to over 1.5 million households, redeemable through beneficiaries' payment service providers, with recipients told to safeguard SIM cards, phones and PINs ([source, 2026-08-22](https://www.zambiamonitor.com/govt-claims-k1-4-billion-to-be-spent-in-july-august-under-social-cash-transfer-programme/)).
+
+### Algeria: 2 Nascent
+
+Algeria's social-insurance fund contracted digital benefit transfers with the post in 2024; whether any payment is digital in service is not known.
+
+- Algeria's national social insurance fund CNAS and Algerie Poste signed a convention on 26 June 2024 to set up remote processing of benefit transfers to social-insurance beneficiaries' CCP accounts through a secure electronic data-exchange platform ([source, 2024-06-26](https://algerie-eco.com/2024/06/26/signature-dune-convention-sur-la-numerisation-des-virements-entre-la-cnas-et-algerie-poste/)).
 
 ### Cameroon: 2 Nascent
 
@@ -329,12 +341,6 @@ Digital government payments to people were under way in 2025; none in service is
 - The Ministry of Finance and Planning held a meeting in Juba on implementing a government resolution requiring all civil servant salaries to be paid through individual bank accounts, with senior officials saying the shift is already underway in many institutions but no mandatory date set ([source, 2025-08-02](https://radioyei.org/news/business/banking-and-finance/government-races-to-end-cash-salary-payments/)).
 - The Ministry of Finance and Planning and the Bank of South Sudan issued a circular asking that civil servants' salaries and payments to departmental vote heads be made cashless, and the finance minister said salaries and operating costs of ministries, departments and agencies will be paid through bank accounts ([source, 2024-09-19](https://nation.africa/africa/news/south-sudan-tests-cashless-pay-to-civil-servants-4767684)).
 
-### Algeria: Unplaced
-
-Nothing found since 2023 names digital government payments to people, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether government pays people digitally.
-
 ### Cape Verde: Unplaced
 
 Nothing found since 2023 names digital government payments to people, so no stage is set.
@@ -358,12 +364,6 @@ Not established: Nothing found since October 2023 says whether government pays p
 Nothing found since 2023 names digital government payments to people, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether government pays people digitally.
-
-### Tanzania: Unplaced
-
-Nothing found since 2023 names digital government payments to people, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether government pays people digitally; the one row, crop payments to clove farmers, is not a transfer, salary or pension.
 
 ### Equatorial Guinea: No evidence
 

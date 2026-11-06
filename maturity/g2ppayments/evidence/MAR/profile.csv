@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MAR,g2p,payment,coverage,inservice,2025,MAR-001;MAR-002;MAR-004,,
+MAR,g2p,payment,coverage,inservice,2025,MAR-001;MAR-002;MAR-004,MAR-006=underway,
 MAR,g2p,streams,coverage,,,,,nothing found
-MAR,g2p,linked,coverage,linked,2025-11,MAR-003,,
+MAR,g2p,linked,coverage,linked,2025-12,MAR-003;MAR-005,,
