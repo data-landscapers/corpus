@@ -1,12 +1,12 @@
 ---
 title: DR Congo: status report
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: COD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 6
-sources_cited: 270
+sources_cited: 271
 sections_written: 39
 not_established: 1
 acquire_lines: 50
@@ -109,7 +109,7 @@ The other sovereign commitment is Chinese. [China Eximbank and the government si
 Most of the rest goes to towers and fibre. [Helios Towers signed an investment convention with the investment agency ANAPI in March 2026, covering more than US$100 million](https://actualite.cd/2026/03/31/rdc-signature-dun-investissement-de-plus-de-100-millions-usd-entre-lanapi-et-helios); [the Emerging Africa Infrastructure Fund committed US$30 million of commercial debt to Eastcastle Infrastructure in 2023](https://www.eaif.com/eaif-provides-30-million-commitment-to-eastcastle-infrastructure/), with [a further US$34 million from the IFC for the same platform at pipeline stage (July 2026)](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-903-SII-52276). [Finnfund lent Bandwidth and Cloud Services US$12 million in 2021](https://finnfund.fi/en/hankkeet/bandwidth-and-cloud-services-group-holdings-bcs/), and [the European Investment Bank added US$10 million of mezzanine finance in 2022 for a second fibre backbone phase in the east](https://www.eib.org/en/projects/all/20210065). Two MIGA guarantees, [US$30 million of additional cover on Helios Towers' towers (2015)](https://www.miga.org/sites/default/files/archive/Documents/ESRS_%20Helios_Towers_DRC.pdf) and [US$26 million on The Rise Fund II's equity in Airtel Money DRC (2021)](https://www.miga.org/project/airtel-mobile-commerce), are risk cover rather than capital. The single grant is [Global Affairs Canada's CAD 8 million to UNICEF for birth registration, 2015-2018](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=CA-3-D001755001).
 
 <!-- derived -->
-DR Congo has drawn 18 distinct digital-sector commitments between 2015 and 2026, with implementation windows running to 2031: nine active, five completed, two pipeline and two approved. Setting aside the US$1.5 billion Genew memorandum, which commits no money, and the US$34 million still at pipeline, signed or approved commitments over 2015-2026 come to roughly US$1.0 billion, of which US$56 million is risk cover rather than capital. Connectivity accounts for ten of the eighteen, but with the memorandum and the pipeline set aside its total over 2015-2026 of about US$244 million falls well behind digital identity and civil registration at about US$515 million. Most of it is debt.
+DR Congo has drawn 32 distinct digital-sector commitments between 2015 and 2026, with implementation windows running to 2031: nine active, seven completed, three approved, two pipeline and eleven with no recorded status. Setting aside the US$1.5 billion Genew memorandum, which commits no money, and the US$34 million still at pipeline, signed or approved commitments over 2015-2026 come to roughly US$1.2 billion, of which US$56 million is risk cover rather than capital. Connectivity accounts for ten of the 32, but with the memorandum and the pipeline set aside its total over 2015-2026 of about US$244 million falls well behind digital identity and civil registration at about US$517 million. Most of it is debt.
 
 [Vodacom Congo said at its forum in Kinshasa on 8 October 2026 that it plans a long-term US$670m network investment programme, against an average of US$140m a year, and put its 4G coverage at 46.1%](https://zoom-eco.net/autres-actualites/rdc-vodacom-veut-porter-a-670-millions-usd-ses-investissements-reseau-pour-accelerer-la-transformation-numerique/).
 
@@ -246,7 +246,7 @@ Payroll is the fiscal reason for much of it. The [ENCORE project built the first
 
 Education and justice run their own islands. The [education management information system is not sufficiently operational in all provinces, and a 2024 evaluation found its databases unharmonised and its capacity building over-reliant on external partners](https://www.globalpartnership.org/node/document/download?file=document%2Ffile%2F2024-09-thematic-country-level-evaluation-democratic-republic-congo-case-study.pdf), and a [national electronic education management information system is still lacking, its implementation facing procurement and data integrity problems](https://thedocs.worldbank.org/en/doc/d3291c08f4b645fdc31be4908947ef6b-0140022025/related/5EDU-WP-5-An-Assessment-of-the-Digital-Readiness-of-Secondary-Schools-in-the-DRC.pdf) (2024). A [decree of March 2025 set up computerised case management for the commercial courts, after the judiciary had announced deployment of the SIGAJ case-management software in 2024](https://droitnumerique.cd/mise-en-place-dun-systeme-integre-de-gestion-informatisee/), and the [higher-education portal ESURSI went live on 30 March 2026 carrying student identity, transcripts and diploma equivalences](https://www.wearetech.africa/fr/fils/actualites/tech/rdc-centralisation-des-donnees-et-acces-au-savoir-les-enjeux-du-nouveau-portail-numerique-universitaire). The tax directorate [began nationwide checks of the standardised invoice on 5 October 2026, after the moratorium ended](https://rdc-monde.com/rdc-impot-la-dgi-deploie-un-controle-rigoureux-de-la-facture-normalisee-apres-la-fin-du-moratoire/).
 
-[UNDP, the UN mission and Korean police handed the judicial police a building housing a crime-analysis office with computer equipment on 28 February 2024](https://www.undp.org/fr/drcongo/actualites/la-police-judiciaire-dotee-dun-nouveau-batiment-abritant-le-bureau-danalyse-criminelle).
+[UNDP, the UN mission and Korean police handed the judicial police a building housing a crime-analysis office with computer equipment on 28 February 2024](https://www.undp.org/fr/drcongo/actualites/la-police-judiciaire-dotee-dun-nouveau-batiment-abritant-le-bureau-danalyse-criminelle). On 5 November 2026 the justice ministry [launched digital collection of court fees, starting with the nationality certificate, and the interconnection of courts, prosecution offices and prisons, with UNDP support and EU funding](https://actualite.cd/2026/11/05/rdc-lue-et-le-pnud-accompagnent-la-digitalisation-de-la-justice-pour-renforcer-la).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: COD
-ledger_rows: 40
+ledger_rows: 41
 not_held: 6
-record: cdef645edf25
+record: b71fbc59042c
 ---
 
 # News, Oct – Nov 2026
@@ -443,6 +443,20 @@ WHO's Regional Director for Africa, Mohamed Janabi, visited passenger screening 
 **[WHO deploys PDX preparedness intelligence platform in the Democratic Republic of the Congo](https://afro.who.int/countries/democratic-republic-of-congo/news/who-deploys-pdx-preparedness-intelligence-platform-democratic-republic-congo)** — WHO Regional Office for Africa, 19 October 2026
 
 WHO's Africa office has deployed its AI-based Preparedness Data Exchange in the DR Congo, the first country to get it, linking national epidemic intelligence to a regional platform for the 47 states of the WHO African Region during the Ebola response. Dure Technologies and WHO also installed the Voyage Santé digital entry-screening system at N'djili airport and the Nord Bangui border post.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Justice sector information systems</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC: l’UE et le PNUD accompagnent la digitalisation de la justice pour renforcer la transparence et améliorer les services aux justiciables](https://actualite.cd/2026/11/05/rdc-lue-et-le-pnud-accompagnent-la-digitalisation-de-la-justice-pour-renforcer-la)** — ACTUALITE.CD, 5 November 2026
+
+Court-fee payments and court-prison interconnection launched 5 Nov 2026; UNDP-run, EU-funded; phase two early 2027.
 
 </div>
 
