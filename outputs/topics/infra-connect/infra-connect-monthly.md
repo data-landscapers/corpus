@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, October – November 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: ee3ab1175202
+record: 64503ba2f16a
 ---
 
 # News, Oct – Nov 2026
@@ -657,6 +657,20 @@ Ethio telecom extended 4G LTE to 80 more Ethiopian towns. Its 2026/27 plan targe
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Safaricom Ethiopia second network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Safaricom H1 profit jumps 36% to $448m](https://www.itweb.africa/article/safaricom-h1-profit-jumps-36-to-448m/wbrpO7g2eJOvDLZn)** — ITWeb Africa, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+
+Safaricom's net income rose 35.9% to KES 58.2 billion in the six months to 30 September 2026. M-PESA revenue grew 13.6% to KES 100.1 billion. Safaricom Ethiopia raised service revenue 71.6% and narrowed its EBITDA loss to KES 434.4 million.
+
+</div>
+
+</div>
+
 ## Gabon
 
 <div class="monthly-story" markdown="1">
@@ -970,6 +984,14 @@ Bayobab, an MTN Group company, said on 22 October 2026 that civil works and fibr
 **[Vodacom Lesotho Launches Enterprise Satellite Connectivity Solution Powered by Starlink](https://spaceinafrica.com/2026/10/09/vodacom-lesotho-launches-enterprise-satellite-connectivity-solution-powered-by-starlink/)** — Space in Africa, 9 October 2026
 
 Vodacom Lesotho launched a managed satellite internet service for businesses and institutions built on Starlink, at an event in Maseru reported on 9 October 2026. It offers primary connectivity where there are no terrestrial networks, a backup option, and a combined satellite and terrestrial mode. Target sectors include financial services, health, education and public administration; no prices are given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paratus Lesotho opens for business with Starlink](https://www.itweb.africa/article/paratus-lesotho-opens-for-business-with-starlink/mQwkoM6Y5yX73r9A)** — ITWeb Africa, 5 November 2026
+
+Paratus Group launched Paratus Lesotho, a joint venture with Real Image Lesotho, on 5 November 2026. It is an authorised Starlink reseller. It offers satellite connectivity to businesses outside fibre coverage.
 
 </div>
 
@@ -1786,6 +1808,20 @@ Togo's regulator ARCEP opened a tender, number 004/ARCEP/PRMP/2026 of 25 Septemb
 **[Museveni Orders Cancellation of UTel Deal, Calls Investors ‘Bafere’ Over Missing $25 Million](https://nilepost.co.ug/news/376831/museveni-orders-cancellation-of-utel-deal-calls-investors-bafere-over-missing-25-million)** — Nile Post, 9 October 2026
 
 Uganda's President Yoweri Museveni ordered the cancellation of the government's agreement with Rowad Capital Commercial to revive Uganda Telecom at a State House meeting on 6 October 2026, according to unnamed meeting sources. The investor had not paid the initial US$25 million of a US$225 million package in four years. Ministries are to prepare a Cabinet paper on state funding for the revival.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">MTN Uganda coverage and fibre footprint</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MTN Uganda Limited: Unaudited financial results for the nine months ended 30 September 2026](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/11/MTN-Uganda-Limited-Earnings-Release-Q3-2026.pdf)** — MTN Uganda Limited, 4 November 2026
+
+MTN Uganda reports profit after tax of Ush571.2 billion for the nine months to 30 September 2026, up 21.2%. Mobile money transaction value was Ush166.6 trillion, up 18.3%. It had 26.4 million subscribers. Third-quarter data revenue growth slowed to 7.8%, from 17.5% in the second quarter, which MTN attributes to unauthorised public Wi-Fi resellers.
 
 </div>
 

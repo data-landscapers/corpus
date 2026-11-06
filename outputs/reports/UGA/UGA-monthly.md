@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-06
 place: UGA
 ledger_rows: 34
 not_held: 12
-record: 8e0f8831caf7
+record: 0761471bd520
 ---
 
 # News, Oct – Nov 2026
@@ -328,7 +328,7 @@ Uganda's President Yoweri Museveni ordered the cancellation of the government's 
 
 **[MTN Uganda Limited: Unaudited financial results for the nine months ended 30 September 2026](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/11/MTN-Uganda-Limited-Earnings-Release-Q3-2026.pdf)** — MTN Uganda Limited, 4 November 2026
 
-9M 2026 PAT Ush 571.2bn (+21.2%); Q3 data growth slows to 7.8% on unauthorised public Wi-Fi; fintech up 13.3%.
+MTN Uganda reports profit after tax of Ush571.2 billion for the nine months to 30 September 2026, up 21.2%. Mobile money transaction value was Ush166.6 trillion, up 18.3%. It had 26.4 million subscribers. Third-quarter data revenue growth slowed to 7.8%, from 17.5% in the second quarter, which MTN attributes to unauthorised public Wi-Fi resellers.
 
 </div>
 

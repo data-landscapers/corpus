@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-06
 place: TZA
 ledger_rows: 41
 not_held: 5
-record: b1e326412355
+record: abaad0ce364d
 ---
 
 # News, Oct – Nov 2026
@@ -240,7 +240,7 @@ Zanzibar's government has set aside more than TZS 53 billion for three ICT infra
 
 **[The Electricity Sub-Sector Performance Review Report](https://www.ewura.go.tz/uploads/documents/en-1791188214-The%20Electricity%20Sub%20Sector%20Performance%20Review%20Report%20June%202026.pdf)** — Energy and Water Utilities Regulatory Authority (EWURA), 5 October 2026
 
-FY2025/26: TANESCO SAIDI down to 1,044.77 minutes and SAIFI to 12.09, both inside target.
+EWURA's review for FY2025/26 reports that TANESCO's average interruptions per customer fell from 17.69 to 12.09. Average outage duration fell from 1,692.73 to 1,044.77 minutes. Both are within target. At transmission level, the review gives 7.4 interruptions and 2.7 hours against targets of 10.0 and 6.5 hours.
 
 </div>
 
@@ -698,7 +698,7 @@ Tanzania's communications regulator (TCRA) said its project to adopt assistive t
 
 **[UCSAF to improve mobile network coverage on SGR](https://www.thecitizen.co.tz/tanzania/news/national/ucsaf-to-improve-mobile-network-coverage-on-sgr-5657830)** — The Citizen, 4 November 2026
 
-2,199 of 2,324 towers built, 2,053 of 2,306 wards reached (Nov 2026); 198 Phase 11A sites tendered, 82 more in 2027.
+Tanzania's UCSAF said on 3 November 2026 that it is preparing a project to fix mobile coverage along the Dar es Salaam-Dodoma railway within a year. Of 2,324 planned towers, 2,199 are complete, reaching 2,053 of 2,306 targeted wards. A further 82 sites are due for tender in January-February 2027.
 
 </div>
 

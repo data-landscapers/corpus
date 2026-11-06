@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-06
 place: MAR
 ledger_rows: 22
 not_held: 14
-record: 35b3101e4dbe
+record: f405a8d4310f
 ---
 
 # News, Oct – Nov 2026
@@ -258,7 +258,7 @@ Morocco's draft 2027 finance bill includes MAD 1.34 billion for digital sovereig
 
 **[Digital payment: The failed revolution against the reign of cash](https://telquel.ma/2026/10/02/digital-payment-the-failed-revolution-against-the-reign-of-cash_2008499)** — TelQuel, 2 October 2026
 
-Social aid cashed out within hours; 13.8m payment accounts at end-2024; cash costs about 0.3% of GDP (2023).
+TelQuel reports that Moroccan social assistance paid into payment accounts is withdrawn as cash within hours. Currency in circulation reached 540 billion dirhams by July 2026. In 2024, withdrawals made up 68% of card transactions, and merchants took 8% of wallet transactions.
 
 </div>
 
@@ -382,7 +382,7 @@ Morocco's justice minister told parliament on 2 November 2026 that about MAD 2.5
 
 **[Ouahbi : 8 millions de dossiers judiciaires répertoriés en trois ans](https://fr.hespress.com/495109-ouahbi-8-millions-de-dossiers-judiciaires-repertories-en-trois-ans.html)** — Hespress FR, 4 November 2026
 
-2027 budget hearing, 4 Nov 2026; 8m of 160m files indexed; public body, not private firm, for sensitive court data.
+Morocco's justice minister told a House of Representatives committee on 4 November 2026 that about 8 million of some 160 million court files had been indexed in three years. He said the ministry and the judicial authority had each funded similar software. They have since agreed a single digitisation budget with the finance ministry.
 
 </div>
 
@@ -390,7 +390,7 @@ Morocco's justice minister told parliament on 2 November 2026 that about MAD 2.5
 
 **[وهبي يهاجم البنوك بسبب رفض اعتماد الأداء الإلكتروني للمستحقات القضائية](https://www.hespress.com/%d9%88%d9%87%d8%a8%d9%8a-%d9%8a%d9%87%d8%a7%d8%ac%d9%85-%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83-%d8%a8%d8%b3%d8%a8%d8%a8-%d8%b1%d9%81%d8%b6-%d8%a7%d8%b9%d8%aa%d9%85%d8%a7%d8%af-%d8%a7%d9%84%d8%a3%d8%af-1834575.html)** — Hespress, 4 November 2026
 
-Most banks refused court-fee e-payment via CDG; national enforcement platform live; Cassation Court still paper.
+Morocco's justice minister criticised the banks on 4 November 2026 for not responding to a ministry proposal to pay court dues electronically. He said court cashiers leave with sums of up to millions of dirhams in cash. Payment would instead go through the Caisse de Dépôt et de Gestion. Most banks have not responded; one or two raised no objection.
 
 </div>
 

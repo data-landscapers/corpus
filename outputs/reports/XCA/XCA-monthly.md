@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-06
 place: XCA
 ledger_rows: 13
 not_held: 0
-record: 4408400fe1a5
+record: d4bdce10dee2
 ---
 
 # News, Oct – Nov 2026
@@ -206,7 +206,7 @@ Central Africa's banking supervisor, COBAC, said in its 2025 annual report that 
 
 **[CEMAC : La BEAC engage une étude pour une stratégie interne d'intelligence artificielle](https://www.droitmediasfinance.com/index.php/actualites/droit-tech-fintech/1431-cemac-la-beac-engage-une-etude-pour-une-strategie-interne-dintelligence-artificielle)** — Droit Médias Finance, 4 November 2026
 
-Own-funded consultancy for AI maturity diagnostic and priority use cases; bids due 23 Dec 2026.
+The central bank BEAC opened an international selection, funded from its own resources, for a firm to assist with AI project management. The firm would run a maturity diagnostic, draft an internal AI adoption strategy and identify priority processes and use cases. Bids are due on 23 December 2026.
 
 </div>
 

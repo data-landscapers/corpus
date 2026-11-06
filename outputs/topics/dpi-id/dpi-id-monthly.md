@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, October – November 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; CMR; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NGA; RWA; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: 1b07c1e84f75
+record: ae7691c9fe38
 ---
 
 # News, Oct – Nov 2026

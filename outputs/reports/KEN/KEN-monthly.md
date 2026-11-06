@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-06
 place: KEN
 ledger_rows: 73
 not_held: 5
-record: fef691bb1298
+record: c997b2ff62a1
 ---
 
 # News, Oct – Nov 2026
@@ -160,7 +160,7 @@ Kenya's information and communications ministry has published a revised draft of
 
 **[Regulators need to talk to one another about data](https://nation.africa/kenya/blogs-opinion/blogs/regulators-need-to-talk-to-one-another-about-data-5657210)** — Daily Nation, 4 November 2026
 
-Competition (Amendment) Bill 2026 clauses 3 and 9 on data and market power; case for CAK-ODPC coordination.
+An opinion piece argues that Kenya's competition and data protection regulators should coordinate on mergers where data is the main asset. It cites the Competition Authority of Kenya's approach to data segregation, which would keep an acquirer from reading rivals' information on a shared payments platform. It refers to the Competition (Amendment) Bill 2026.
 
 </div>
 

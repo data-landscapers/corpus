@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NGA; SEN; SYC; SOM; ZAF; SDN; TZA; TUN; UGA
-record: c7986966f16d
+record: e5be5bdfbe4b
 ---
 
 # News, Oct – Nov 2026
@@ -308,6 +308,20 @@ The director general of Côte d'Ivoire's telecoms regulator, ARTCI, Lakoun Ouatt
 **[Intelligence artificielle en entreprise : à Abidjan, les experts appellent à encadrer les usages](https://www.linfodrome.com/high-tech/127109-intelligence-artificielle-en-entreprise-a-abidjan-les-experts-appellent-a-encadrer)** — Linfodrome, 1 November 2026
 
 An official of Côte d'Ivoire's Ministry of Digital Transition said on 27 October 2026 that the ministry is drafting a text to regulate the use of artificial intelligence. He said it would complement the existing personal-data protection rules. No draft or timetable was given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Banking regulation bill bringing financial technology firms into the perimeter</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Banques, FinTech, monnaie électronique : la Côte d’Ivoire prépare une nouvelle réglementation](https://www.linfodrome.com/economie/127262-banques-fintech-monnaie-electronique-la-cote-d-ivoire-prepare-une-nouvelle-reglementation)** — Linfodrome, 5 November 2026
+
+The National Assembly's economic and finance committee unanimously adopted a banking-regulation bill on 4 November 2026. It brings FinTechs and electronic-money operators into the banking law for the first time. The 258-article text also covers Islamic finance, BCEAO licensing powers, customer protection and bank resolution.
 
 </div>
 
@@ -675,6 +689,20 @@ Kenya's National Assembly adopted MP Peter Kaluma's amendments to the Elections 
 **[Public Notice: Validation of the Draft Kenya Information and Communication (Amendment) Bill, 2026](https://ict.go.ke/sites/default/files/2026-10/Validation%20Notice-KICA%20Amendment%20Bill%20Nov%2C%202026.pdf)** — Ministry of Information, Communications and the Digital Economy (Kenya), 31 October 2026
 
 Kenya's information and communications ministry has published a revised draft of the Kenya Information and Communication (Amendment) Bill, 2026, for comment. Written comments are due by 17 November 2026, and a virtual validation forum is set for 25 November.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Competition (Amendment) Bill 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Regulators need to talk to one another about data](https://nation.africa/kenya/blogs-opinion/blogs/regulators-need-to-talk-to-one-another-about-data-5657210)** — Daily Nation, 4 November 2026
+
+An opinion piece argues that Kenya's competition and data protection regulators should coordinate on mergers where data is the main asset. It cites the Competition Authority of Kenya's approach to data segregation, which would keep an acquirer from reading rivals' information on a shared payments platform. It refers to the Competition (Amendment) Bill 2026.
 
 </div>
 

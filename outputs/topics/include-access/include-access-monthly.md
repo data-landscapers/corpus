@@ -1,10 +1,10 @@
 ---
 title: Access to services — News, October – November 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 subject: include.access
 places: BFA; CPV; COD; ETH; GAB; KEN; LBR; MDG; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; UGA; ZMB
-record: 506e2bed49ec
+record: 8f02625ec1f1
 ---
 
 # News, Oct – Nov 2026
@@ -166,6 +166,20 @@ Kenya's Cabinet Secretary for Gender, Hannah Cheptumo, said public institutions 
 **[Group raises alarm over digital exclusion in pastoralist counties](https://www.standardmedia.co.ke/national/article/2001561441/group-raises-alarm-over-digital-exclusion-in-pastoralist-counties)** — The Standard, 3 November 2026
 
 The Grassroots Disability Agenda launched a survey report in Nairobi on digital exclusion of persons with disabilities in Garissa, Kajiado and Marsabit counties. It cites device and data costs, inaccessible services, limited skills, online safety risks and weak policy implementation. The report sets out ten policy actions for government, regulators and technology providers.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fuliza overdraft disbursement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Safaricom makes more from M-PESA overdrafts as borrower numbers surge](https://techcabal.com/2026/11/05/safaricom-fuliza-m-pesa-revenue-rise/)** — TechCabal, 5 November 2026
+
+Safaricom said Fuliza, its M-PESA overdraft service, earned KES 4.9 billion in the six months to September 2026, up 86%. Borrowers reached 17.2 million, while the average advance fell 24.6% to KES 192. Fuliza supplied about 71% of revenue from Safaricom's six lending products.
 
 </div>
 
@@ -434,6 +448,20 @@ South Africa's National Treasury said in the 2026 Medium-Term Budget Policy Stat
 **[TCRA advances digital inclusion for PwDs through assistive technologies - Daily News](https://dailynews.co.tz/tcra-advances-digital-inclusion-for-pwds-through-assistive-technologies/)** — Daily News (Tanzania), 9 October 2026
 
 Tanzania's communications regulator (TCRA) said its project to adopt assistive technologies for people with disabilities is 80% complete, at a peer exchange of African regulators in Nairobi from 5 to 9 October 2026 under the iPRIS programme. TCRA's website accessibility work was recognised by the Tanzania Bureau of Standards under a new ICT accessibility standard.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Universal service fund rural site programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[UCSAF to improve mobile network coverage on SGR](https://www.thecitizen.co.tz/tanzania/news/national/ucsaf-to-improve-mobile-network-coverage-on-sgr-5657830)** — The Citizen, 4 November 2026
+
+Tanzania's UCSAF said on 3 November 2026 that it is preparing a project to fix mobile coverage along the Dar es Salaam-Dodoma railway within a year. Of 2,324 planned towers, 2,199 are complete, reaching 2,053 of 2,306 targeted wards. A further 82 sites are due for tender in January-February 2027.
 
 </div>
 

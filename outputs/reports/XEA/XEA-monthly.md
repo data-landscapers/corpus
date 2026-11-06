@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-06
 place: XEA
 ledger_rows: 17
 not_held: 0
-record: c578cfd8b2ee
+record: 57e11faadefc
 ---
 
 # News, Oct – Nov 2026
@@ -66,7 +66,7 @@ Uganda's parliamentary Committee on Foreign Affairs said only Uganda and Rwanda 
 
 **[EAC moves to slash cross-border call, data charges](https://www.the-star.co.ke/news/2026-11-03-eac-moves-to-slash-cross-border-call-data-charges)** — The Star (Kenya), 3 November 2026
 
-Proposed caps 5.9 US cents/min retail voice, US$2.72/GB retail data; DRC and Somalia still outside ONA.
+A proposed EAC regulation would cut the retail voice roaming cap from 10 to 5.9 US cents a minute. Retail data would be capped at US$2.72 per GB. The Council of Ministers has yet to approve it. Six of the eight Partner States apply the 2014 One Network Area framework; DRC and Somalia do not.
 
 </div>
 

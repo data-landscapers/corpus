@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-06
 place: XAF
 ledger_rows: 59
 not_held: 3
-record: 0f0137342be0
+record: 536ceb8607b1
 ---
 
 # News, Oct – Nov 2026
@@ -96,7 +96,7 @@ AFRINIC's receiver served a notice on Mauritius's Registrar of Companies on 29 O
 
 **[Our four steps against AFRINIC’s Receiver](https://cloudinnovation.org/newsroom/afrinic-receiver-conduct-steps/)** — Cloud Innovation Ltd, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a>
 
-CIL to seek Receiver's removal, file insolvency complaint and ask PM for Companies Act probe of 2,000 omitted members.
+Cloud Innovation Ltd says it will act against AfriNIC's Receiver. A legal notice of 29 October 2026 sought its removal from the members' register. It will seek the Receiver's removal, file an insolvency complaint and notify the Registrar of Companies. It will also ask the Prime Minister to investigate more than 2,000 members it says were left off.
 
 </div>
 
@@ -568,7 +568,7 @@ Airtel Africa reported results for the half year to 30 September 2026. Its custo
 
 **[Helios Towers Raises 2026 Guidance After Record Tenancy Additions Across Africa and Middle East](https://techafricanews.com/2026/11/05/helios-towers-raises-2026-guidance-after-record-tenancy-additions/)** — Tech Africa News, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a>
 
-Nine-month 2026 revenue US$718.8m, up 13%; 35,379 tenancies on 15,688 sites; about 4,000 additions guided for 2026.
+Helios Towers added 3,435 tenancies in the nine months to 30 September 2026, its highest year-to-date total, bringing the portfolio to 35,379 tenancies. Revenue rose 13% to US$718.8 million. The company raised its full-year guidance to about 4,000 additions.
 
 </div>
 
@@ -870,7 +870,7 @@ Afreximbank is running roadshows across Africa, including in Abidjan and Harare.
 
 **[AFIS 2026: Inside Africa’s quest to turn $4trn savings into real economy investment](https://businessday.ng/news/article/afis-2026-inside-africas-quest-to-turn-4trn-savings-into-real-economy-investment/)** — Businessday NG, 4 November 2026
 
-Deloitte-AFIS barometer: 11% of institutions on PAPSS, 45% no plans to join; 7% see tangible AfCFTA progress.
+A Deloitte-AFIS survey presented in Luanda found that 11% of African financial institutions surveyed were connected to PAPSS, and 45% had no plans to join. Of respondents, 69% judged AfCFTA implementation too slow, and 7% reported tangible progress. 53% said the same of the African Exchanges Linkage Project.
 
 </div>
 

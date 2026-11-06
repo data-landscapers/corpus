@@ -1,15 +1,17 @@
 ---
 title: Training and skills — News, October – November 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 subject: capacity.training
-places: CAF; CIV; DJI; COD; EGY; GHA; GIN; KEN; LSO; LBY; MDG; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN
-record: 2da55dc1dfeb
+places: BFA; CAF; CIV; DJI; COD; EGY; GHA; GIN; KEN; LSO; LBY; MDG; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN
+record: 2fc8fc96a4e6
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#burkina-faso">Burkina Faso</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#central-african-republic">Central African Republic</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
@@ -50,6 +52,22 @@ record: 2da55dc1dfeb
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tunisia">Tunisia</a>
 </nav>
+
+## Burkina Faso
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Public-finance training programme (DISMEFIP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina/Économie : La DGI renforce les capacités de ses agents pour accélérer sa digitalisation](https://lefaso.net/spip.php?article150547)** — leFaso.net, 5 November 2026
+
+Burkina Faso's tax directorate began training more than 400 agents on 4 November 2026 in three digital systems: e-filing, certified e-invoicing and the online cadastre. Sessions are held in four cities. The DISMEFIP project, co-funded by Swiss cooperation and the government, pays for it.
+
+</div>
+
+</div>
 
 ## Central African Republic
 
@@ -471,6 +489,20 @@ The fourth National Cybersecurity Forum opened in Mogadishu. The National Commun
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI Academy, Mogadishu</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Somalia to establish AI Academy](https://www.connectingafrica.com/ai/somalia-to-establish-ai-academy)** — Connecting Africa, 5 November 2026
+
+Tabaarak ICT Solutions and the Somali National Artificial Intelligence Centre signed an agreement to set up an AI academy in Mogadishu. It is to offer continuous training, courses, research and internships. No funding, start date or intake has been stated.
+
+</div>
+
+</div>
+
 ## South Africa
 
 <div class="monthly-story" markdown="1">
@@ -482,6 +514,21 @@ The fourth National Cybersecurity Forum opened in Mogadishu. The National Commun
 **[South Africa’s digital jobs drive faces a $152 million funding test](https://techcabal.com/2026/10/16/south-africa-152m-digital-skills-jobs/)** — TechCabal, 16 October 2026
 
 At the CollectiveXChange 2026 summit in Johannesburg on 15 October, The Collective X, which coordinates South Africa's National Digital Skills Plan, reported R600 million mobilised in its Digital Skills Impact Fund and 4,000 beneficiaries so far, against a target of 500,000 young people in digital jobs by 2034. Yellowwoods estimated that reaching 20,000 more by 2028 would take R2.5 billion ($152 million) from existing skills funds, money not yet secured.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Didi Mobile Academy (WhatsApp digital-skills course)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digify Africa brings digital training to unemployed youth via WhatsApp](https://www.itweb.co.za/article/digify-africa-brings-digital-training-to-unemployed-youth-via-whatsapp/RgeVDvPR3x3MKJN3)** — ITWeb South Africa, 5 November 2026
+
+Digify Africa launched the Didi Mobile Academy, a WhatsApp digital-skills course for South Africans aged 18 to 35. The Trevor Noah Foundation's R50 million Kulaninati Innovation Fund pays for it. The first course has five modules of about 15 minutes each.
 
 </div>
 

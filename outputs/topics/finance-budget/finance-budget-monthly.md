@@ -1,10 +1,10 @@
 ---
 title: Domestic budget appropriations and expenditure — News, October – November 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 subject: finance.budget
 places: GAB; LBR; LBY; SYC
-record: 544dac212285
+record: dd2950028dce
 ---
 
 # News, Oct – Nov 2026

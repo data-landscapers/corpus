@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, October – November 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 6dc0f76b742d
+record: dfa0529bc8e6
 ---
 
 # News, Oct – Nov 2026
@@ -1795,6 +1795,14 @@ Home Affairs says 1,002,773 South Africans have applied for replacement Smart ID
 **[Minister hails 'Home Affairs @home' milestone](https://www.timeslive.co.za/news/south-africa/2026-10-26-minister-hails-home-affairs-home-milestone/)** — TimesLIVE (Sunday Times), 26 October 2026
 
 Minister Leon Schreiber hailed more than one million replacement Smart ID applications at bank branches through Home Affairs @home in seven months. Passport and first-time ID applications with home delivery are to follow at over 1,000 branches.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nedbank gears up for smart ID rollout](https://www.itweb.co.za/article/nedbank-gears-up-for-smart-id-rollout/lLn147mQN8l7J6Aa)** — ITWeb South Africa, 5 November 2026
+
+Nedbank announced a phased rollout of Home Affairs smart-ID services at its branches. It begins with its own staff in November 2026, then nine pilot sites, and reaches all nine provinces in early 2027. Integration with Home Affairs systems is under test, and the fee is waived during the pilot.
 
 </div>
 

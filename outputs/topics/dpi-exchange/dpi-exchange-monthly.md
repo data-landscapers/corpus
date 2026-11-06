@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — News, October – November 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 subject: dpi.exchange
 places: DZA; AGO; BEN; BFA; CMR; COD; EGY; GAB; GIN; GNB; KEN; LSO; MOZ; NGA; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB
-record: 3a1441ca2970
+record: 33084e1440f8
 ---
 
 # News, Oct – Nov 2026
@@ -64,6 +64,14 @@ record: 3a1441ca2970
 **[Algérie: Elaboration d'une base de données unifiée pour le suivi des prix et la régulation du marché](https://fr.allafrica.com/stories/202610210791.html)** — Algeria Press Service (via allAfrica), 21 October 2026
 
 Algeria's Ministry of Internal Trade is building a unified price database that links the ministry's platforms to flag unusual price rises early and show which wilayas a supply problem affects, a central director said on national radio. It follows a Council of Ministers instruction for the Interior and Trade ministries and the High Commission for Digitalisation to set up a price-alert mechanism.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[إطلاق منصة رقمية لمتابعة أسعار المواد الاستهلاكية ووفرتها](https://www.echoroukonline.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%85%d9%86%d8%b5%d8%a9-%d8%b1%d9%82%d9%85%d9%8a%d8%a9-%d9%84%d9%85%d8%aa%d8%a7%d8%a8%d8%b9%d8%a9-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%af)** — Echorouk El Yawmi, 5 November 2026
+
+Prime Minister Sifi Ghrieb launched a digital platform on 5 November 2026 to track the daily prices and availability of basic goods in every wilaya. It is meant to trace goods along the national supply chain. He announced it to the walis by videoconference.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: New investments — News, October – November 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 subject: finance.new
 places: AGO; CIV; COD; SWZ; GHA; MRT; MAR; NGA; RWA; SYC; ZAF; TZA; ZMB
-record: 694cda877756
+record: 5ab31de79d7f
 ---
 
 # News, Oct – Nov 2026
@@ -182,6 +182,28 @@ Morocco's Bulletin officiel of 1 October 2026 published decrees approving two Wo
 **[Enhancing eXpression and Protection of Rights in the Evolving Digital Space Project (EXPRESS)](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-7-PPR-260001129)** — Ministry of Foreign Affairs of the Netherlands, 20 October 2026
 
 The Netherlands foreign ministry committed EUR 450,000 on 20 October 2026 to a digital rights project in Nigeria, running to September 2029. The grant funds a barometer on how the Cybercrimes Act is applied, legal aid and strategic litigation. It also trains lawyers, judges and journalists.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">World Bank ID4D financing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Restructuring Paper on a Proposed Project Restructuring of Nigeria Digital Identification for Development Project (P167183)](https://documents.worldbank.org/curated/en/099102226140523752/pdf/P167183-245b44ff-e5dd-4eae-81a3-059c57e029c3.pdf)** — World Bank, 22 October 2026
+
+The World Bank proposes a third extension, of 12 months to 31 December 2027, for Nigeria's US$430 million digital identification project. The extension would fund the NIMS 2.0 system, contracted on 15 September 2026. At 30 June 2026, 117.5 million people held a NIN, 65% of the 180 million target. Enrolment partners have gone unpaid since January 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria seeks digital ID project extension to roll out MOSIP-based infrastructure](https://www.biometricupdate.com/202611/nigeria-seeks-digital-id-project-extension-to-roll-out-mosip-based-infrastructure)** — Biometric Update, 5 November 2026
+
+Nigeria has asked the World Bank for a third extension of its ID4D project, to 31 December 2027, according to a restructuring paper. The priority is the new MOSIP-based identity system, whose contract was signed on 15 September. The paper also records unpaid enrolment partners and about 145 million enrolments at 14 September.
 
 </div>
 

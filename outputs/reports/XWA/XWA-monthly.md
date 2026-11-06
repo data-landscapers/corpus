@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-06
 place: XWA
 ledger_rows: 23
 not_held: 1
-record: d8ffd5f61e10
+record: 37094092ca03
 ---
 
 # News, Oct – Nov 2026
@@ -450,7 +450,7 @@ The ECOWAS Commission and the West African Monetary Agency opened an experts' me
 
 **[Community Sectoral Statistics Yearbook: ECOWAS Takes Another Step Toward Consolidating Its Harmonized Regional System](https://www.ecowas.int/community-sectoral-statistics-yearbook-ecowas-takes-another-step-toward-consolidating-its-harmonized-regional-system/)** — ECOWAS Commission, 4 November 2026
 
-Lomé workshop 3-6 Nov 2026 reviews first draft of about 100 indicators; World Bank-funded PHASAO programme.
+ECOWAS statisticians are meeting in Lomé from 3 to 6 November 2026. They are reviewing the first draft of the Commission's Yearbook of Sectoral Statistics. The workshop checks the indicators and fills data gaps. The draft then goes to the Regional Technical Committee. The World Bank funds the work through the PHASAO and PHASAOC projects.
 
 </div>
 

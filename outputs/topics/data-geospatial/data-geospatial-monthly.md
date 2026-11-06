@@ -1,10 +1,10 @@
 ---
 title: Geospatial data — News, October – November 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 subject: data.geospatial
-places: COM; CIV; LSO; TGO; ZWE
-record: fd18a2446eb0
+places: COM; CIV; LSO; LBR; TGO; ZWE
+record: d97bddd885e0
 ---
 
 # News, Oct – Nov 2026
@@ -15,6 +15,8 @@ record: fd18a2446eb0
 <a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#lesotho">Lesotho</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#liberia">Liberia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#togo">Togo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -64,6 +66,22 @@ Cote d'Ivoire's environment ministry signed a framework memorandum with an Ivori
 **[Beyond the harvest: can agricultural insurance protect Lesotho's smallholders?](https://www.thereporter.co.ls/2026/10/16/beyond-the-harvest-can-agricultural-insurance-protect-lesothos-smallholders/)** — The Reporter Lesotho, 16 October 2026
 
 The Reporter, on 16 October 2026, covered a weather-index agricultural insurance pilot in Lesotho during the 2025/2026 season, run by the agriculture ministry's SADP II with the World Food Programme, LNIG Hollard and African Risk Capacity. It covered maize and beans in Mafeteng, Mohale's Hoek and Quthing, with more than US$1.2 million in insured value reported.
+
+</div>
+
+</div>
+
+## Liberia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Climate information systems project (GCF SAP018)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SAP018: Enhancing Climate Information Systems for Resilient Development in Liberia (Liberia CIS)](https://www.greenclimate.fund/project/sap018)** — Green Climate Fund, 5 November 2026
+
+The Green Climate Fund approved project SAP018 on 13 November 2020, with the African Development Bank as accredited entity. It funds climate information and early-warning services in Liberia, aiming to reach 7.7 million people. The grant is USD 10 million of a USD 11.4 million total, and completion is set for October 2027.
 
 </div>
 

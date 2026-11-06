@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-06
 place: COD
 ledger_rows: 41
 not_held: 6
-record: b71fbc59042c
+record: ddbb3a713d6d
 ---
 
 # News, Oct – Nov 2026
@@ -456,7 +456,7 @@ WHO's Africa office has deployed its AI-based Preparedness Data Exchange in the 
 
 **[RDC: l’UE et le PNUD accompagnent la digitalisation de la justice pour renforcer la transparence et améliorer les services aux justiciables](https://actualite.cd/2026/11/05/rdc-lue-et-le-pnud-accompagnent-la-digitalisation-de-la-justice-pour-renforcer-la)** — ACTUALITE.CD, 5 November 2026
 
-Court-fee payments and court-prison interconnection launched 5 Nov 2026; UNDP-run, EU-funded; phase two early 2027.
+DR Congo's Ministry of Justice launched digital collection of court fees on 5 November 2026, with the courts, prosecutors' offices and prisons to be interconnected. UNDP provides technical support and the EU funds it. The first digital nationality certificate was issued at the launch, and a second phase is planned for early 2027.
 
 </div>
 

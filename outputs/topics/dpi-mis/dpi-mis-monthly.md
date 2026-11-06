@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems — News, October – November 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 subject: dpi.mis
 places: AGO; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; NAM; NER; NGA; RWA; SEN; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0d6c6ef7555e
+record: 3ba5d514fe10
 ---
 
 # News, Oct – Nov 2026
@@ -318,6 +318,20 @@ WHO's Regional Director for Africa, Mohamed Janabi, visited passenger screening 
 **[WHO deploys PDX preparedness intelligence platform in the Democratic Republic of the Congo](https://afro.who.int/countries/democratic-republic-of-congo/news/who-deploys-pdx-preparedness-intelligence-platform-democratic-republic-congo)** — WHO Regional Office for Africa, 19 October 2026
 
 WHO's Africa office has deployed its AI-based Preparedness Data Exchange in the DR Congo, the first country to get it, linking national epidemic intelligence to a regional platform for the 47 states of the WHO African Region during the Ebola response. Dure Technologies and WHO also installed the Voyage Santé digital entry-screening system at N'djili airport and the Nord Bangui border post.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Justice sector information systems</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC: l’UE et le PNUD accompagnent la digitalisation de la justice pour renforcer la transparence et améliorer les services aux justiciables](https://actualite.cd/2026/11/05/rdc-lue-et-le-pnud-accompagnent-la-digitalisation-de-la-justice-pour-renforcer-la)** — ACTUALITE.CD, 5 November 2026
+
+DR Congo's Ministry of Justice launched digital collection of court fees on 5 November 2026, with the courts, prosecutors' offices and prisons to be interconnected. UNDP provides technical support and the EU funds it. The first digital nationality certificate was issued at the launch, and a second phase is planned for early 2027.
 
 </div>
 
@@ -797,6 +811,22 @@ Mauritius's electronic medical record had registered more than 150,000 patients 
 **[وزير العدل يستعرض بمجلس النواب أولويات إصلاح منظومة العدالة ويؤكد التلازم بين مكافحة الفساد وحماية الحقوق والحريات](https://justice.gov.ma/2026/11/03/16889/)** — Ministère de la Justice (Maroc), 3 November 2026
 
 Morocco's justice minister told parliament on 2 November 2026 that about MAD 2.5 billion is needed to finish digitising the courts. He named the electronic case file, digital notification and an enforcement platform among the priorities.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ouahbi : 8 millions de dossiers judiciaires répertoriés en trois ans](https://fr.hespress.com/495109-ouahbi-8-millions-de-dossiers-judiciaires-repertories-en-trois-ans.html)** — Hespress FR, 4 November 2026
+
+Morocco's justice minister told a House of Representatives committee on 4 November 2026 that about 8 million of some 160 million court files had been indexed in three years. He said the ministry and the judicial authority had each funded similar software. They have since agreed a single digitisation budget with the finance ministry.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[وهبي يهاجم البنوك بسبب رفض اعتماد الأداء الإلكتروني للمستحقات القضائية](https://www.hespress.com/%d9%88%d9%87%d8%a8%d9%8a-%d9%8a%d9%87%d8%a7%d8%ac%d9%85-%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83-%d8%a8%d8%b3%d8%a8%d8%a8-%d8%b1%d9%81%d8%b6-%d8%a7%d8%b9%d8%aa%d9%85%d8%a7%d8%af-%d8%a7%d9%84%d8%a3%d8%af-1834575.html)** — Hespress, 4 November 2026
+
+Morocco's justice minister criticised the banks on 4 November 2026 for not responding to a ministry proposal to pay court dues electronically. He said court cashiers leave with sums of up to millions of dirhams in cash. Payment would instead go through the Caisse de Dépôt et de Gestion. Most banks have not responded; one or two raised no objection.
 
 </div>
 

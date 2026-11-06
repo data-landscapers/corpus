@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 subject: dpi.pay
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 304f7726c311
+record: cd8ef9c4b8e9
 ---
 
 # News, Oct – Nov 2026
@@ -816,6 +816,20 @@ Mastercard and Moovn Technologies signed a five-year agreement, announced on 19 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">M-PESA</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Safaricom H1 profit jumps 36% to $448m](https://www.itweb.africa/article/safaricom-h1-profit-jumps-36-to-448m/wbrpO7g2eJOvDLZn)** — ITWeb Africa, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a>
+
+Safaricom's net income rose 35.9% to KES 58.2 billion in the six months to 30 September 2026. M-PESA revenue grew 13.6% to KES 100.1 billion. Safaricom Ethiopia raised service revenue 71.6% and narrowed its EBITDA loss to KES 434.4 million.
+
+</div>
+
+</div>
+
 ## Liberia
 
 <div class="monthly-story" markdown="1">
@@ -923,6 +937,20 @@ Mauritius received three bids for consultancy on a cashless electronic ticketing
 </div>
 
 ## Morocco
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Direct social support (ASD) transfer payments</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital payment: The failed revolution against the reign of cash](https://telquel.ma/2026/10/02/digital-payment-the-failed-revolution-against-the-reign-of-cash_2008499)** — TelQuel, 2 October 2026
+
+TelQuel reports that Moroccan social assistance paid into payment accounts is withdrawn as cash within hours. Currency in circulation reached 540 billion dirhams by July 2026. In 2024, withdrawals made up 68% of card transactions, and merchants took 8% of wallet transactions.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
@@ -1161,6 +1189,34 @@ Mastercard and Interswitch launched Google Pay contactless payments for eligible
 **[Verve plans phone tap-to-pay and AI agent payments, CEO says](https://techcabal.com/2026/10/31/verve-ai-payment/)** — TechCabal, 31 October 2026
 
 Verve, Nigeria's largest card scheme, plans phone tap-to-pay and later payments made by AI assistants, its chief executive said on 29 October 2026. He said Verve now has 130 million cards. No launch date was given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Emergency Relief and Stabilisation Intervention (NERSI) grant</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[How FG selects beneficiaries for N50,000 relief](https://punchng.com/how-fg-selects-beneficiaries-for-n50000-relief/)** — Punch, 4 November 2026
+
+The Federal Government says beneficiaries of the N50,000 relief under NERSI are chosen from verified national identity records and the National Social Register. The register holds data on more than 70 million people. Enrolment in both is required, payment goes to a mobile wallet linked to the NIN, and people cannot apply to be added.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Paga Direct Debit on Paga Engine</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Paga expands Direct Debit access for businesses beyond its network](https://techcabal.com/2026/11/05/paga-engine-expands-direct-debit-access/)** — TechCabal, 5 November 2026
+
+Paga now lets businesses collect direct debits from customers of other Nigerian financial institutions through Paga Engine, using existing interbank rails. TechCabal reported it on 5 November 2026. Central Bank of Nigeria data show 157.4 million direct-debit transactions worth about ₦23.3 trillion in 2024.
 
 </div>
 
@@ -1585,6 +1641,21 @@ La Poste Tunisienne said about 1.57 million pupils, some 75%, and about 287,300 
 **[Uganda: East African Community Affairs (EAC) member states plot to reduce dollar dependence](https://www.africa-newsroom.com/press/uganda-east-african-community-affairs-eac-member-states-plot-to-reduce-dollar-dependence?lang=en)** — Parliament of the Republic of Uganda (via APO Group), 4 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a>
 
 Uganda's EAC Affairs minister Rebecca Kadaga told Parliament on 3 November 2026 that the East African Payment System links only four countries' RTGS systems. These are Uganda, Kenya, Tanzania and Rwanda. She set out how an EAC cross-border payment masterplan, adopted in 2025, is to reduce use of the US dollar.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Housing Finance Bank services on the Interswitch agent network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Interswitch deepens Uganda's digital banking reach](https://www.itweb.africa/article/interswitch-deepens-ugandas-digital-banking-reach/nWJadMbNR3EMbjO1)** — ITWeb Africa, 5 November 2026
+
+Housing Finance Bank joined Interswitch's Quickteller agency banking network in Uganda on 4 November 2026. Customers can deposit, withdraw by card and check balances at more than 23,000 agents. The bank said its pilot had processed over UGX49 billion.
 
 </div>
 

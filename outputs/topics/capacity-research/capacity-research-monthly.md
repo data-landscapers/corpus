@@ -1,10 +1,10 @@
 ---
 title: Research institutions — News, October – November 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 subject: capacity.research
-places: BFA; LBY; SLE
-record: 3b20f612e7dc
+places: BFA; LBY; SLE; ZAF
+record: c40396026c85
 ---
 
 # News, Oct – Nov 2026
@@ -15,6 +15,8 @@ record: 3b20f612e7dc
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#south-africa">South Africa</a>
 </nav>
 
 ## Burkina Faso
@@ -60,6 +62,22 @@ Libya's Authority for Scientific Research signed a memorandum with the office of
 **[CIPHER Launched to Promote Data Protection, Cybersecurity and Digital Privacy](https://truthmedia.sl/cipher-launched-to-promote-data-protection-cybersecurity-and-digital-privacy/)** — Truth Media, 9 October 2026
 
 The Center for Information Privacy, Human-Centered Technology and Ethics Research (CIPHER), an independent research body, launched in Freetown, Sierra Leone, on 6 October 2026. Its chief executive, Cyril Foday-Kallie, said it will research mishandling of personal data, train people on data-subject rights and controllers' duties, and supply evidence for data-protection law and policy.
+
+</div>
+
+</div>
+
+## South Africa
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Gross domestic expenditure on research and development</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SA’s ICT sector records largest increase in R&D spend](https://www.itweb.co.za/article/sas-ict-sector-records-largest-increase-in-rd-spend/G98YdqLGAAGMX2PD)** — ITWeb South Africa, 5 November 2026
+
+The National R&D Survey for 2024/25 puts South Africa's ICT research spending at R5.7 billion, up R853 million, the largest rise of any field. Total R&D spending was R44.2 billion, and intensity fell from 0.62% to 0.60% of GDP. Business R&D fell by R742 million.
 
 </div>
 

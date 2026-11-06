@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-06
 place: NGA
 ledger_rows: 83
 not_held: 9
-record: 11c42ac24dd0
+record: 45744feae49a
 ---
 
 # News, Oct – Nov 2026
@@ -420,7 +420,7 @@ The Netherlands foreign ministry committed EUR 450,000 on 20 October 2026 to a d
 
 **[Restructuring Paper on a Proposed Project Restructuring of Nigeria Digital Identification for Development Project (P167183)](https://documents.worldbank.org/curated/en/099102226140523752/pdf/P167183-245b44ff-e5dd-4eae-81a3-059c57e029c3.pdf)** — World Bank, 22 October 2026
 
-Twelve-month extension to Dec 2027; NIMS 2.0 contract signed 15 Sept 2026; 117.5m NINs at June 2026, 65% of target.
+The World Bank proposes a third extension, of 12 months to 31 December 2027, for Nigeria's US$430 million digital identification project. The extension would fund the NIMS 2.0 system, contracted on 15 September 2026. At 30 June 2026, 117.5 million people held a NIN, 65% of the 180 million target. Enrolment partners have gone unpaid since January 2026.
 
 </div>
 
@@ -962,7 +962,7 @@ Verve, Nigeria's largest card scheme, plans phone tap-to-pay and later payments 
 
 **[How FG selects beneficiaries for N50,000 relief](https://punchng.com/how-fg-selects-beneficiaries-for-n50000-relief/)** — Punch, 4 November 2026
 
-NIN and social-register enrolment required; N50,000 paid to mobile wallets via five named providers.
+The Federal Government says beneficiaries of the N50,000 relief under NERSI are chosen from verified national identity records and the National Social Register. The register holds data on more than 70 million people. Enrolment in both is required, payment goes to a mobile wallet linked to the NIN, and people cannot apply to be added.
 
 </div>
 

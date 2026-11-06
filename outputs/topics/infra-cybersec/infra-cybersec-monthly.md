@@ -1,16 +1,18 @@
 ---
 title: Cybersecurity — News, October – November 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 subject: infra.cybersec
-places: BEN; BFA; CMR; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SDN; ZMB; ZWE
-record: b77faea4972a
+places: BEN; BWA; BFA; CMR; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; ZMB; ZWE
+record: 7fbcceb14b84
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#benin">Benin</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#botswana">Botswana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -64,6 +66,8 @@ record: b77faea4972a
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#south-sudan">South Sudan</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sudan">Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zambia">Zambia</a>
@@ -82,6 +86,22 @@ record: b77faea4972a
 **[Bénin : le CNIN ouvre trois points de plainte à Porto-Novo, Abomey et Parakou](https://beninwebtv.com/benin-le-cnin-ouvre-trois-points-de-plainte-a-porto-novo-abomey-et-parakou/)** — Bénin Web TV, 3 October 2026
 
 Benin's National Centre for Digital Investigations, CNIN, which reports to the Presidency, opened three complaint desks outside Cotonou, in police premises at Porto-Novo, Abomey and Parakou. They take complaints about personal data breaches and digital offences, alongside the Cotonou office and the existing email route.
+
+</div>
+
+</div>
+
+## Botswana
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Air Botswana ransomware incident</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Air Botswana probes suspected cyberattack](https://www.itweb.africa/article/air-botswana-probes-suspected-cyberattack/GxwQDq1DLy8MlPVo)** — ITWeb Africa, 5 November 2026
+
+Air Botswana activated incident-response procedures after a suspected ransomware attack on 3 November 2026. Unauthorised access reached internal systems holding employee information. The airline said booking and flight-operations systems were unaffected and that it had begun meeting its Data Protection Act 2024 obligations.
 
 </div>
 
@@ -198,6 +218,20 @@ Côte d'Ivoire held its first national cyber-crisis exercise, CYBER.EX 2026, in 
 **[En Côte d’Ivoire, une simulation nationale pour «apprendre à réagir» aux cyberattaques majeures](https://www.rfi.fr/fr/afrique/20261029-en-c%C3%B4te-d-ivoire-une-simulation-nationale-pour-apprendre-%C3%A0-r%C3%A9agir-aux-cyberattaques-majeures)** — RFI, 29 October 2026
 
 Côte d'Ivoire's information-systems security agency, ANSSI, ran a national cyberattack simulation, Cyber.Ex, in Abidjan on 28–29 October 2026. ANSSI names energy, finance and telecommunications as the most targeted sectors. It says it has recorded 147 major vulnerabilities since January 2026, leading to data leaks, outages and ransom demands.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cybastion and Cisco regional security operations centre, Abidjan</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cybersécurité : Abidjan devient le QG américain pour sécuriser l'Afrique de l'Ouest](https://www.linfodrome.com/societe/127288-cybersecurite-abidjan-devient-le-qg-americain-pour-securiser-l-afrique-de-l-ouest)** — Linfodrome, 5 November 2026
+
+Cybastion and Cisco inaugurated a Security Operations Centre in Abidjan on 5 November 2026, described as a regional hub for West Africa. A related programme aims to train 200,000 learners in cybersecurity, networking and AI by 2030. A US State Department official attended and cited USD 170 million of new US investment in Côte d'Ivoire in 2026.
 
 </div>
 
@@ -881,6 +915,22 @@ Rand Mutual Assurance said it is investigating a possible systems breach after a
 **[GCIS warns of information breach](https://www.itweb.co.za/article/gcis-warns-of-information-breach/wbrpO7g2ea3vDLZn)** — ITWeb South Africa, 30 October 2026
 
 South Africa's GCIS told applicants that its e-recruitment system had been compromised, possibly exposing ID numbers, phone numbers and e-mail addresses. Suspicious activity on its web systems was identified on 24 October 2026. GCIS reported the incident to the Information Regulator, the police and the State Security Agency.
+
+</div>
+
+</div>
+
+## South Sudan
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Central bank and communications authority memorandum on digital financial services security</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Central Bank and National Communication Authority sign MoU on digital security](https://www.onecitizendaily.com/index.php/2026/11/05/central-bank-and-national-communication-authority-sign-mou-on-digital-security/)** — One Citizen Daily, 5 November 2026
+
+The Bank of South Sudan and the National Communication Authority signed an updated memorandum on digital financial services on 4 November 2026. It revises their 2018 agreement. It provides for information sharing, joint supervision and enforcement, and stronger consumer protection and cybersecurity.
 
 </div>
 
