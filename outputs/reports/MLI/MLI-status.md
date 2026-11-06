@@ -1,6 +1,6 @@
 ---
 title: Mali: status report
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: MLI
 region: XWA
 built_by: STATUS-INIT
@@ -119,7 +119,7 @@ In 2025 the International Finance Corporation [disclosed a proposed loan to Oran
 [On 28 September 2018 the government signed a loan with the Export-Import Bank of China to finance the Mali Digital 2020 project](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0). [China International Telecommunications Construction Corporation is the commercial contractor](https://www.dropbox.com/s/d8n8332ztxgv07i/Objectif_Afrique_N136_30-novembre.pdf?dl=0). From 2023 [USAID funded a Digital Ecosystem Country Assessment covering infrastructure, regulation and the digital economy](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-GOV-1-72068823LA00001).
 
 <!-- derived -->
-Sixteen external digital commitments naming Mali are on the record, spanning 2015 to 2032 and worth roughly USD 583 million, one of them an innovation fund grant with no published amount (November 2026). About three-quarters of the value sits in two telecommunications transactions dated 2018 and 2024; the West African regional operations that do not name the country sit outside that figure (November 2026).
+In all, 112 external digital commitments naming Mali are on the record, spanning 2015 to 2033 and worth roughly USD 707 million, one of them an innovation fund grant with no published amount (November 2026). About 63% of the value sits in two transactions, a 2024 telecommunications licence renewal and a 2018 China Eximbank loan; the West African regional operations that do not name the country sit outside that figure (November 2026). USAID appears more often than any other financier, 67 times, and 107 of the commitments are grants, together about USD 132 million (November 2026).
 
 <!-- derived -->
 As at November 2026 grants are 12 of the 16 but about a tenth of the value, roughly USD 61 million, the rest carried by loans and by the licence transaction; connectivity takes close to three-fifths of the value. The most frequently financed subsector is national statistics, five commitments worth about USD 12 million, four of them Swedish, which makes Sida the most frequent financier on the record (November 2026).
