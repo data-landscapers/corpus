@@ -26,6 +26,7 @@ CMR,New generation national ID card,Cameroon,idsystem,Augentic,DGSN,"national ID
 CMR,new generation biometric national ID card,Cameroon,idsystem,Augentic (Build-Operate-Transfer),DGSN,,2024-05-13-cmr-biometricupdate-augentic-15-year-id-contract
 CMR,carte nationale d'identite biometrique,Cameroun,idsystem,,Police nationale,,2025-03-09-cmr-voa-cni-biometrique-48h
 CMR,Cameroon national identity card (CNI) system,Cameroun,idsystem,Augentic GmbH,Delegation generale a la Surete nationale (contract party); Augentic operates for 15 years,,2024-05-15-cmr-journalducameroun-augentic-cni-48-heures
+CMR,Matricule Unique,Cameroon,other,school card platform (carte scolaire),Ministry of Secondary Education (MINESEC),,2024-08-01-cmr-matricule-unique-nouvelle-etape-de-la-digitalisation-de-l-enseignement
 COD,RDC-Pass,COD,other,,Ministry of Digital Economy,,2026-09-17-wearetech-rdc-pass-identification-numerique-phase-operationnelle
 COD,RDC-Pass,DR Congo,other,,Ministry of Digital Economy,,2026-09-16-cod-7sur7-rdc-pass-formation-50-premiers-agents-enregistrement
 COD,Biometric passport (Semlex/Locosem contract),DR Congo,other,Semlex,,,2026-09-02-cod-rdc-jean-claude-mputu-denonce-la-continuite-semlex-ram
@@ -43,6 +44,7 @@ CPV,Cartão Nacional de Identificação (CNI),Cabo Verde,idsystem,,,,2026-01-01-
 CPV,Chave Móvel Digital de Cabo Verde (CMDCV),Cabo Verde,other,,,,2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao
 EGY,National ID System (national number project),EGY,idsystem,,Civil Status Organization,,2024-01-01-egypt-national-id-system-citc
 EGY,national ID,Egypt,other,,,,2026-08-13-egypt-expands-biometric-sim-registration-after-identity-misuse-case
+EGY,EMIS portal online application (emis.gov.eg),Egypt,other,emis.gov.eg,Ministry of Education and Technical Education,,2025-05-17-egy-moe-online-registration-kindergarten-primary-2025
 ERI,Eritrean National ID,ERI,idsystem,,Government of Eritrea,,2024-10-17-eritrea-embassy-national-id
 ETH,Fayda,Ethiopia,idsystem,,Faydaverse (state-owned enterprise under Ethiopian Investment Holdings),,2026-08-08-ethiopia-fayda-faydaverse-digital-wallet-expansion
 ETH,Fayda,Ethiopia,idsystem,,National ID Programme,,2026-09-16-eth-birrmetrics-cbe-fayda-id-bank-account-deadline
@@ -82,6 +84,7 @@ LSO,Pangea (ex-Nikuv) civil registration and national ID systems,Lesotho,idsyste
 MAR,MOSIP-based national ID,Morocco,idsystem,MOSIP,,,2026-05-28 Why decentralized digital identity looks different in every country
 MAR,National ID card management system,Morocco,idsystem,,DGSN,,2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance
 MAR,electronic national identity card (Mon e-ID),Morocco,idsystem,,DGSN,,2024-12-24 Morocco's DGSN issued 4.6 million electronic national IDs in 2024 (annual report)
+MAR,Massar,Morocco,other,,Ministry of National Education,,2024-04-23-mar-massar-registration-digital-identity-learner-register
 MDG,IDMS,MDG,idsystem,,Presidency / UGD (PRODIGY),,2026-03-02-ugd-idms-audit-tdr
 MLI,RAVEC,Mali,idsystem,Mali Kura Biométrie,Ministère de l'Administration territoriale,,2024-02-14-mali-kura-biometrie-systeme-souverain-ravec
 MLI,NINA,Mali,idsystem,,,,2026-09-16-dpi-map-mali-country-profile
@@ -174,6 +177,9 @@ UGA,NIRA national identity platform on MOSIP,Uganda,idsystem,MOSIP,NIRA,,2026-02
 UGA,National Identification and Registration Authority (NIRA) new ID system,Uganda,idsystem,,NIRA,,2026-01-07-monitor-21-million-transferred-new-nira-system
 UGA,NIRA national ID database,UGA,idsystem,,NIRA,,2024-10-14 Uganda financial institutions sign on for digital KYC through national ID
 UGA,NIRA MOSIP-based identity database,National ID database,idsystem,MOSIP,NIRA,,2026-10-22-uga-uganda-moves-to-make-national-digital-id-number-its-tax-identifier
+UGA,EMIS,Uganda,other,developed by SMS ONE Ltd,Ministry of Education and Sports,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
+UGA,National Identification Number (NIN),Uganda,idsystem,,NIRA,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
+UGA,UNEB index number,Uganda,other,developed by SMS ONE Ltd,UNEB,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
 ZAF,Smart ID card,South Africa,idsystem,,Department of Home Affairs,,2026-08-05-dha-smart-id-bank-branch-locator
 ZMB,MOSIP-based digital ID,Zambia,idsystem,MOSIP,Smart Zambia Institute,,2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project
 ZMB,national digital identification system,Zambia,idsystem,,Smart Zambia Institute,,2026-03-22-znbc-zambia-moves-ahead-digital-id-system
