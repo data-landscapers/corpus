@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CMR,g2p,payment,coverage,underway,2026-07-17,CMR-001,,
-CMR,g2p,streams,coverage,,,,,nothing held
-CMR,g2p,linked,coverage,,,,,nothing held
+CMR,g2p,payment,coverage,inservice,2020,CMR-002,CMR-001=underway,
+CMR,g2p,streams,coverage,,,,,nothing found
+CMR,g2p,linked,coverage,,,,,nothing found

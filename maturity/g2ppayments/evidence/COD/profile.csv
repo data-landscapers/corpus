@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COD,g2p,payment,coverage,underway,2026-07-23,COD-001,,
-COD,g2p,streams,coverage,,,,,nothing held
-COD,g2p,linked,coverage,,,,,nothing held
+COD,g2p,payment,coverage,inservice,2025-08-12,COD-002,COD-001=underway,
+COD,g2p,streams,coverage,,,,,nothing found
+COD,g2p,linked,coverage,,,,,nothing found

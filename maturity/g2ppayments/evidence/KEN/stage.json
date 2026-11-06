@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "2",
-      "payment": "underway",
+      "stage": "5",
+      "payment": "inservice",
       "streams": "",
-      "linked": "",
+      "linked": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-001",
-      "gaps": "No source found since October 2023 says a government transfer, salary or pension is paid digitally in service.",
-      "note": "The Treasury said in August 2025 it would pay salaries and pensions through the IPPD payroll system, a statement of intent, so stage 2. No source says either is paid digitally in service.",
-      "as_at": "2026-11-05"
+      "stage_sources": "KEN-002;KEN-003",
+      "gaps": "No source found since October 2023 shows salaries or pensions paid digitally in service; the Treasury's August 2025 payroll change was a statement of intent.",
+      "note": "Inua Jamii transfers are paid through M-Pesa to a line that must match the beneficiary's ID card (January 2025), a yes to question 4. A later yes answers the earlier ones, so stage 5.",
+      "as_at": "2026-11-06"
     }
   ]
 }

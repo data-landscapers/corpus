@@ -9,10 +9,10 @@
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TCD-001",
-      "gaps": "No source found since October 2023 says a government transfer, salary or pension is paid digitally in service.",
-      "note": "The finance ministry signed conventions with mobile money operators in February 2026 to pay civil servants' salaries, so stage 2. No source says salaries are paid that way in service.",
-      "as_at": "2026-11-05"
+      "stage_sources": "TCD-001;TCD-002;TCD-003",
+      "gaps": "No source found since October 2023 says a government transfer, salary or pension reached a wallet or account in service.",
+      "note": "Salary conventions with mobile money operators (February 2026) and safety-net transfers contracted to microfinance institutions and mobile operators (January 2025) are contracts, so stage 2. No source says a payment was made to a wallet or account.",
+      "as_at": "2026-11-06"
     }
   ]
 }

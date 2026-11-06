@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "3",
+      "stage": "4",
       "payment": "inservice",
-      "streams": "",
+      "streams": "several",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-001",
-      "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
-      "note": "Government employees' salaries are paid electronically (finance minister, May 2024), so stage 3. The pensions row dates from 2022, outside the window, so not stage 4.",
-      "as_at": "2026-11-05"
+      "stage_sources": "EGY-003;EGY-004;EGY-005",
+      "gaps": "No source found since October 2023 says government payments are checked against the national ID or a social registry.",
+      "note": "State salaries are paid electronically (May 2024) and Takaful and Karama transfers into Meeza cards and mobile wallets (August 2024, May 2026): two main streams, so stage 4. No check against the ID or a registry is held.",
+      "as_at": "2026-11-06"
     }
   ]
 }

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "3",
+      "stage": "4",
       "payment": "inservice",
-      "streams": "",
+      "streams": "several",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MLI-001;MLI-003",
-      "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
-      "note": "The CMSS pays pensions by mobile (July 2026), so stage 3. No second main stream is shown paid digitally.",
-      "as_at": "2026-11-05"
+      "stage_sources": "MLI-003;MLI-006",
+      "gaps": "No source found since October 2023 says government payments are checked against the national ID or a social registry. The safety-net payments are reported in March 2024 with no date of their own.",
+      "note": "The CMSS pays pensions by mobile (July 2026) and a March 2024 World Bank blog reports Jigisemejiri safety-net recipients paid into mobile money accounts: two main streams, so stage 4. No check against the ID or a registry is held.",
+      "as_at": "2026-11-06"
     }
   ]
 }

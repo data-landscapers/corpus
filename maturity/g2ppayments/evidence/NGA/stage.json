@@ -5,14 +5,14 @@
       "sub_indicator": "g2p",
       "stage": "5",
       "payment": "inservice",
-      "streams": "several",
+      "streams": "",
       "linked": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-002;NGA-004",
-      "gaps": "",
-      "note": "Federal cash transfers are paid into bank accounts after validating recipients by NIN or BVN (World Bank, October 2024), so stage 5.",
-      "as_at": "2026-11-05"
+      "stage_sources": "NGA-006;NGA-007;NGA-009",
+      "gaps": "No source found since October 2023 shows civil service salaries or pensions paid digitally.",
+      "note": "Conditional cash transfers are paid to bank accounts and wallets tied to the NIN (September 2025), and NERSI selects from identity records and the National Social Register (November 2026): a yes to question 4, so stage 5. Only social transfers are shown paid digitally.",
+      "as_at": "2026-11-06"
     }
   ]
 }

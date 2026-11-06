@@ -1,3 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MAR,PAPSS,Morocco,other,Pan-African Payment and Settlement System,PAPSS,Live soon,2026-06-01-papss-payments-network-coverage-june-2026
 MAR,aides sociales directes,Maroc,g2p,payment and bank accounts,government,"payment institutions with agent networks (Cash Plus, Wafacash, Damane Cash, Barid Cash, Chaabi Cash, Al Filahi Cash)",2024-02-20-mar-medias24-aides-sociales-directes-etablissements-paiement
+MAR,Direct social assistance payment accounts,Morocco,g2p,payment accounts,National Social Support Agency,,2026-10-02-mar-digital-payment-the-failed-revolution-against-the-reign-of-cash
+MAR,DAAM account payments,Morocco,g2p,,Government,,2024-03-15-caf-cash-vs-digital-how-do-digital-government-to-person-payments-ease-the

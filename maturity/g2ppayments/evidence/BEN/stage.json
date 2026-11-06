@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "3",
+      "stage": "4",
       "payment": "inservice",
-      "streams": "",
+      "streams": "several",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BEN-003",
-      "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
-      "note": "GBESSOKE has paid monthly transfers to secured SIM cards since September 2025, so stage 3; the 2026 mission-expenses circular is not a salary, transfer or pension. No second main stream is shown.",
-      "as_at": "2026-11-05"
+      "stage_sources": "BEN-003;BEN-005",
+      "gaps": "No source found since October 2023 says government payments are checked against the national ID or a social registry.",
+      "note": "GBESSOKE pays monthly transfers to secured SIM cards (September 2025) and pensions of 50,000 FCFA or more go by bank transfer (December 2023): two main streams, so stage 4. No check against the ID or a registry is held, so not stage 5.",
+      "as_at": "2026-11-06"
     }
   ]
 }

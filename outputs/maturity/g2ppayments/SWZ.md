@@ -2,7 +2,7 @@
 
 ## G2P functionality
 
-**Paid digitally.** In August 2026 the Deputy Prime Minister's Office [said elderly grants are paid through commercial banks, and elderly and disability grants through the MoMo mobile money platform](<https://eswatinipositivenews.online/bank-paid-elderly-grants-shift-to-25th-monthly/>). Payment by bank and by mobile money therefore runs side by side for the elderly grant. From August 2026 the bank-paid elderly grants move to the 25th of each month.
+**Paid digitally.** In August 2026 the Deputy Prime Minister's Office [said elderly grants are paid through commercial banks, and elderly and disability grants through MoMo](<https://eswatinipositivenews.online/bank-paid-elderly-grants-shift-to-25th-monthly/>). Payment by bank and by mobile money runs side by side. From that month the bank-paid elderly grants move to the 25th. In July 2026 [the office said a fault on the mobile money platform had delayed monthly grant payments](<https://eswatinipositivenews.online/dpms-office-appeals-for-patience-over-delayed-elderly-disability-grant-payments/>).
 
 **Main streams.** The [grants named in August 2026](<https://eswatinipositivenews.online/bank-paid-elderly-grants-shift-to-25th-monthly/>) are social transfers, which make one stream. No source found since October 2023 shows civil service salaries or pensions paid digitally.
 

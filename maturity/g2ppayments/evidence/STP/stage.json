@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "3",
+      "stage": "5",
       "payment": "inservice",
       "streams": "",
-      "linked": "",
+      "linked": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "STP-001;STP-002",
-      "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
-      "note": "The Vulnerable Family Programme pays 5,000 households by bank transfer (2025), so stage 3. No second main stream is shown.",
-      "as_at": "2026-11-05"
+      "stage_sources": "STP-001;STP-004",
+      "gaps": "No source found since October 2023 shows civil service salaries or pensions paid digitally.",
+      "note": "Ke Non pays the Vulnerable Family Programme by bank transfer (2025) and identifies clients against the national civil registry, holding the Unique Social Registry (February 2024), a yes to question 4, so stage 5.",
+      "as_at": "2026-11-06"
     }
   ]
 }

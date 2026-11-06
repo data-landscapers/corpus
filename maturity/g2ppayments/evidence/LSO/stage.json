@@ -9,10 +9,10 @@
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LSO-003",
-      "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
-      "note": "25,575 households receive Child Grants Programme payments by mobile transfer (UNICEF, July 2026), so stage 3. No second main stream is shown.",
-      "as_at": "2026-11-05"
+      "stage_sources": "LSO-003;LSO-004",
+      "gaps": "No source found since October 2023 shows civil service salaries or contributory pensions paid digitally.",
+      "note": "Child Grants (July 2026) and old-age pension grants (January 2026) are paid by mobile money; both are social transfers, one stream, as for Eswatini's grants, so stage 3.",
+      "as_at": "2026-11-06"
     }
   ]
 }

@@ -1,2 +1,5 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 ZWE,NSSA pension payment to mobile money wallet,Zimbabwe,g2p,mobile money wallet,National Social Security Authority of Zimbabwe (NSSA),,2026-05-22-zwe-nssa-mobile-money-pension-payments
+ZWE,Urban Cash Transfer and Movement of Grain Programme,cash to 1.7 million urban beneficiaries by phone number,g2p,NetOne,"Ministry of Public Service, Labour and Social Welfare",urban,2024-10-01-zwe-urban-cash-transfers-to-benefit-1-7m
+ZWE,Harmonised Social Cash Transfer (HSCT),Zimbabwe,g2p,EcoCash,"Ministry of Public Service, Labour and Social Welfare",30 districts,2024-07-02-zwe-cash-transfer-scheme-lacks-transparency
+ZWE,Urban-Cash-for-Cereal Programme,Zimbabwe,g2p,NetOne,"Ministry of Public Service, Labour and Social Welfare",,2024-09-10-zwe-twenty-eighth-post-cabinet-press-briefing

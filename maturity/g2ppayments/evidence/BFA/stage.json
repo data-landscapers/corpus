@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "unplaced",
-      "payment": "",
+      "stage": "3",
+      "payment": "inservice",
       "streams": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether government pays people digitally.",
-      "note": "The only row, mobile money payment of the Projet Filets Sociaux since 2018, is older than three years and sets no rung. No dated statement since October 2023 says how government pays people.",
-      "as_at": "2026-11-05"
+      "stage_sources": "BFA-004",
+      "gaps": "No source found since October 2023 shows a second main stream paid digitally; CARFO's mobile money pensions were announced for late 2024 and are not shown paid.",
+      "note": "The CNSS says it moved many benefits from counter payment to bank transfer (January 2024), so stage 3. CARFO's pensions are the same stream and were only announced, so no second stream is shown.",
+      "as_at": "2026-11-06"
     }
   ]
 }

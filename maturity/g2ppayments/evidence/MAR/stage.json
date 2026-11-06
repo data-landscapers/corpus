@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "3",
+      "stage": "5",
       "payment": "inservice",
       "streams": "",
-      "linked": "",
+      "linked": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "MAR-001",
-      "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
-      "note": "Direct social aid has been paid only into payment or bank accounts since December 2023, so stage 3. No second main stream is shown.",
-      "as_at": "2026-11-05"
+      "stage_sources": "MAR-002;MAR-003",
+      "gaps": "No source found since October 2023 shows civil service salaries or pensions paid digitally.",
+      "note": "Direct Social Support is paid monthly into payment accounts and eligibility is verified against the Unified Social Register by monthly data exchanges (November 2025), a yes to question 4, so stage 5.",
+      "as_at": "2026-11-06"
     }
   ]
 }

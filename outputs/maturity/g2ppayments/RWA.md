@@ -2,7 +2,7 @@
 
 ## G2P functionality
 
-**Paid digitally.** On 30 August 2025 LODA [launched 'My Phone, My Money'](<https://www.loda.gov.rw/updates/news-detail/loda-launches-awareness-campaign-to-help-vup-recipients-access-support-through-digital-payments>), a campaign for recipients of the Vision Umurenge Programme. Their monthly support is paid into Umurenge SACCO accounts linked to their own SIM cards. They reach it by phone, on *541#, at MTN or Airtel agents. The campaign began on 19 August in three districts.
+**Paid digitally.** The Vision Umurenge Programme pays its recipients digitally. On 30 August 2025 LODA [launched 'My Phone, My Money', a campaign for VUP recipients](<https://www.loda.gov.rw/updates/news-detail/loda-launches-awareness-campaign-to-help-vup-recipients-access-support-through-digital-payments>). Their monthly support is paid into Umurenge SACCO accounts linked to their own SIM cards. They reach it by phone, on *541#, at MTN or Airtel agents. The campaign began on 19 August in three districts. In 2024 [VUP recipients told the World Bank that mobile money payments saved them travel](<https://blogs.worldbank.org/en/digital-development/cash-vs-digital-how-do-digital-government-person-payments-ease-lives-recipients>).
 
 **Main streams.** The [Vision Umurenge Programme](<https://www.loda.gov.rw/updates/news-detail/loda-launches-awareness-campaign-to-help-vup-recipients-access-support-through-digital-payments>) is a social transfer. No source found since October 2023 shows civil service salaries or pensions paid digitally, so a second main stream has not been found.
 

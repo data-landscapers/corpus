@@ -20,12 +20,12 @@ The African Union's Digital Transformation Strategy asks governments to digitise
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
-| 4 Operating | 2 |
-| 3 Established | 26 |
-| 2 Nascent | 9 |
+| 5 Leading | 10 |
+| 4 Operating | 6 |
+| 3 Established | 22 |
+| 2 Nascent | 7 |
 | 1 Absent | 0 |
-| Unplaced | 7 |
+| Unplaced | 6 |
 | No evidence | 3 |
 
 ## Countries
@@ -37,6 +37,13 @@ Government payments to people were checked against the national ID or social reg
 - LEAP says that in April 2026 it used the Ghana National Household Registry to identify 400,000 newly eligible households for enrolment ([source, 2026-04](http://leap.mogcsp.gov.gh/background.php)).
 - LEAP says its 100th payment cycle in February 2026 reached all 216 MMDAs and over 350,000 households ([source, 2026-02](http://leap.mogcsp.gov.gh/background.php)).
 - The Office of the Special Prosecutor and the Controller and Accountant General's Department report that government employees' salaries are paid by payroll into their bank accounts, with banks directed to withhold affected persons' salaries from January 2024 ([source, 2024-01](https://osp.gov.gh/media/Resources/Government_Payroll_Administration_-_Phase_I_Vol_1.pdf)).
+
+### Kenya: 5 Leading
+
+Social transfers went by mobile money to lines matched to the ID card in 2025; whether salaries are paid digitally is not known.
+
+- Kenya's State Department for Social Protection began migrating all Inua Jamii beneficiaries to the eCitizen-M-Pesa payment platform from the January 2025 disbursement, with funds collected from M-Pesa agents through USSD *222# ([source, 2025-01](https://www.socialprotection.go.ke/sites/default/files/Downloads/press%20release/Press%20release%20for%20Inua%20Jamii%20rollout%20-%20JAN.%202025.pdf)).
+- The State Department requires every Inua Jamii beneficiary to hold a registered Safaricom line that matches their ID card to receive funds ([source, 2025-01-23](https://www.socialprotection.go.ke/sites/default/files/Downloads/press%20release/Press%20release%20for%20Inua%20Jamii%20rollout%20-%20JAN.%202025.pdf)).
 
 ### Liberia: 5 Leading
 
@@ -57,6 +64,13 @@ Government payments to people were checked against the national ID or social reg
 
 - Decree 2024-073 (Article 11 and Article 13) makes every poor or vulnerable household enrolled in the Registre Social eligible for Tekavoul regular and shock-response cash transfers, within a national quota set by the Government ([source, 2024-05-15](https://faolex.fao.org/docs/pdf/mau229659.pdf)).
 
+### Morocco: 5 Leading
+
+Direct social support was paid into accounts and checked against the social register in 2025; whether salaries are paid digitally is not known.
+
+- Between 2023 and 2025 Morocco's National Social Support Agency disbursed 51 billion dirhams of direct social assistance to nearly four million families, deposited monthly into payment accounts (TelQuel) ([source, 2025](https://telquel.ma/2026/10/02/digital-payment-the-failed-revolution-against-the-reign-of-cash_2008499)).
+- The government's written answer says Direct Social Support eligibility rests on household scoring in the Unified Social Register, with monthly electronic data exchanges used to verify ongoing eligibility ([source, 2025-11](https://www.moroccoworldnews.com/2025/12/272839/morocco-expands-direct-social-support-with-measured-data-driven-reform/)).
+
 ### Namibia: 5 Leading
 
 Government payments to people were checked against the national ID or social registry in 2026.
@@ -65,10 +79,18 @@ Government payments to people were checked against the national ID or social reg
 
 ### Nigeria: 5 Leading
 
-Government payments to people were checked against the national ID or social registry in 2024.
+Cash transfers were paid to accounts and wallets tied to the national ID in 2026; whether salaries are paid digitally is not known.
 
-- The World Bank says payments to recipients' bank accounts are made after validating individuals through the NIN or BVN, and low NIN/BVN coverage among the poor slowed the rollout ([source, 2024-10-08](https://nairametrics.com/2024/10/20/over-4-million-households-benefit-from-fgs-cash-transfer-lowest-in-southeast-report/)).
-- Beneficiaries are matched on NIN and BVN with in-person verification and biometrics, and those without a NIN and BVN are disqualified, says the minister's media aide ([source, 2023-10](https://punchng.com/cash-transfer-fg-disqualifies-nigerians-without-nin-bvn-cbn-begins-payment/)).
+- Finance minister Wale Edun said the government has disbursed N330 billion as conditional cash transfers to 8.5 million poor households through NASSCO, paid digitally by direct debit to bank accounts or mobile wallets ([source, 2025-09-17](https://www.thisdaylive.com/2025/09/18/fg-moves-to-include-conditional-cash-transfer-in-national-budgets-disburses-n330bn-to-poor-households/)).
+- The finance minister said beneficiaries are verified through their National Identity Number and payments are linked to NIN-to-account linking, and NASSCO's coordinator said disbursements are tied to NIN for integrity ([source, 2025-09-17](https://www.thisdaylive.com/2025/09/18/fg-moves-to-include-conditional-cash-transfer-in-national-budgets-disburses-n330bn-to-poor-households/)).
+- The ministry's NERSI website says beneficiaries are selected from verified national identity records and the National Social Register, enrolment in both is a prerequisite, and the NIN is linked to the mobile wallet that receives the payment ([source, 2026-11-04](https://punchng.com/how-fg-selects-beneficiaries-for-n50000-relief/)).
+
+### Sao Tome and Principe: 5 Leading
+
+Family transfers were paid by bank transfer and checked against the civil and social registries by 2025; whether salaries are paid digitally is not known.
+
+- The DPSSF states that Programa Família Vulnerável transfers to 5,000 households were paid by bank transfer through the payments module of the Ké Non system, with five payment cycles completed in 2025 through October totalling over STN 35.75 million ([source, 2025-10](https://dpssf.gov.st/index.php/noticias-g-1/comunicados-oficiais/governo-de-stp-injeta-mais-de-35-milhoes-de-dobras-na-economia-nacional-atraves-do-programa-familias-vulneraveis-em-2025)).
+- openIMIS says Ke-Non, which holds the Unique Social Registry and the payments module, identifies clients against the national civil registry of the Ministry of Justice ([source, 2024-02](https://openimis.org/blog/em-powered-openimis-island-nation-sao-tome-and-principe-effectively-managing-its-social)).
 
 ### Uganda: 5 Leading
 
@@ -76,6 +98,21 @@ Older-person grants were checked against the national ID in 2026; mobile money p
 
 - The SAGE programme head said eligible older people are refused the grant because the date of birth on their national ID card puts them below the age-80 threshold, and 43,000 complaints have been received ([source, 2026-10-19](https://nilepost.co.ug/news/379844/43000-elderly-ugandans-locked-out-of-sage-benefits-over-national-id-errors)).
 - Ministry of Gender, Labour and Social Development's SAGE head said the ministry had started piloting mobile money payments of the SAGE older-persons grant as an alternative to the existing payment-point system, to be extended nationwide if the pilot succeeds ([source, 2026-10-19](https://nilepost.co.ug/news/379844/43000-elderly-ugandans-locked-out-of-sage-benefits-over-national-id-errors)).
+
+### Benin: 4 Operating
+
+Social transfers and pensions were paid digitally by 2025; whether payments are checked against the ID is not known.
+
+- The government says GBESSOKE began monthly cash transfers on 18 September 2025, paying 20,621 beneficiaries (85% women) a first instalment of 208,272,100 FCFA, received on their mobile phones via secured SIM cards ([source, 2025-09-18](https://www.gouv.bj/article/3265/mise-oeuvre-programme-gbessoke-transferts-monetaires-demarre-plus-mille-menages-deja-touches-/)).
+- Pensions of 50,000 FCFA or more are paid by bank transfer, which Fonds national des retraites du Benin pensioners have had for some years and Caisse nationale de securite sociale pensioners now have, per the article ([source, 2023-12](https://matinlibre.com/2023/12/05/dematerialisation-du-paiement-des-pensions-de-retraite-au-benin-un-veritable-soulagement-malgre-des-couacs/)).
+
+### Egypt: 4 Operating
+
+Salaries and the Takaful and Karama transfers were paid digitally in 2026; whether payments are checked against the ID is not known.
+
+- Egypt's finance minister said electronic payment of state employees' salaries reached EGP 299.4 billion in July 2023 to May 2024, up 24% on the year before, through the Ministry of Finance's government e-payment and collection centre ([source, 2024-05](https://www.cabinet.gov.eg/News/Details/76152)).
+- Egypt's Ministry of Social Solidarity pays Takaful and Karama cash support monthly into a mobile wallet on request, alongside payment through Meeza cards and the post ([source, 2026-05](https://www.elwatannews.com/news/details/8292004)).
+- Egypt's social solidarity ministry disbursed Takaful and Karama cash support from 15 August 2024 to 5.2 million families, including holders of Meeza bank cards withdrawing at bank ATMs ([source, 2024-08](https://english.ahram.org.eg/NewsContent/1/2/530140/Egypt/Society/,-new-families-added-to-Takaful-amp;-Karama-cash-s.aspx)).
 
 ### Libya: 4 Operating
 
@@ -85,11 +122,25 @@ Salaries and the children's allowance were paid digitally in 2026; whether payme
 - Governor Issa said about 1.75 million of 2.2 million public employees have registered for the Ratibak Lahzi instant-salary project, which cut salary disbursement time to under an hour ([source, 2026-09](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference)).
 - GACI chairman Abdul Basit Al-Baour said the children's allowance was disbursed electronically within a short period, through integrated government databases ([source, 2026-06-01](https://lana.gov.ly/post.php?id=358533&lang=en)).
 
+### Mali: 4 Operating
+
+Pensions and a safety-net transfer were paid by mobile money by 2026; whether payments are checked against the ID is not known.
+
+- The Caisse malienne de sécurité sociale has paid pensions by mobile since 2019, and its application pays pensions below FCFA 50,000 by mobile; a bank-payment pilot with the Banque de Développement du Mali was judged conclusive in July 2026 ([source, 2026-07-27](https://www.africascoop.net/index.php/2026/07/30/sante-le-mali-accelere-la-digitalisation-de-ses-services-publics/)).
+- The World Bank G2Px blog reports that recipients of the Jigisèmèjiri emergency social safety net program in Mali received payments into mobile money accounts and appreciated walking to the nearest agent ([source, 2024-03-15](https://blogs.worldbank.org/en/digital-development/cash-vs-digital-how-do-digital-government-person-payments-ease-lives-recipients)).
+
 ### Senegal: 4 Operating
 
 Two or more main government payment streams were digital in 2025; no source found reports checks against the ID.
 
 - The DGCPT says SenTrésor pays salaries and allowances, pensions, scholarships and social aid, and names village chiefs, students and salaried staff as beneficiaries ([source, 2025-06-02](https://www.sentresor.org/sentresor-la-plateforme-de-paiements-digitaux-lancee/)).
+
+### Zimbabwe: 4 Operating
+
+Pensions and a social cash transfer were paid by mobile money by 2026; whether payments are checked against the ID is not known.
+
+- The National Social Security Authority of Zimbabwe (NSSA) says pensioners can now receive their pension payments straight into a mobile money wallet ([source, 2026-05-22](https://www.linkedin.com/posts/national-social-security-authority-nssa_nssaheroes-convenience-digitalservices-activity-7463468848600715264-CH3I)).
+- Gemnation reports that the Harmonised Social Cash Transfer programme uses electronic payments (EcoCash) instead of cash in transit, with 75,000 beneficiary households registered in 30 districts ([source, 2024-07-02](https://gemnation.co.zw/cash-transfer-scheme-lacks-transparency/)).
 
 ### Angola: 3 Established
 
@@ -97,18 +148,18 @@ A government programme paid people digitally in 2025; no source found reports a 
 
 - FAS, the Kwenda programme's implementer, says that from 10 January 2025 Kwenda social cash transfers were paid directly into 91 Cabinda households' personal bank accounts, collected at ATMs and partner bank branches ([source, 2025-01-10](https://fasangola.com/pt/2025/01/11/kwenda-avanca-com-transferencia-monetaria-as-contas-pessoais-dos-beneficiarios-em-cabinda/)).
 
-### Benin: 3 Established
-
-A government programme paid people digitally in 2026; no source found reports a second main stream.
-
-- The government says GBESSOKE began monthly cash transfers on 18 September 2025, paying 20,621 beneficiaries (85% women) a first instalment of 208,272,100 FCFA, received on their mobile phones via secured SIM cards ([source, 2025-09-18](https://www.gouv.bj/article/3265/mise-oeuvre-programme-gbessoke-transferts-monetaires-demarre-plus-mille-menages-deja-touches-/)).
-
 ### Botswana: 3 Established
 
 A government programme paid people digitally in 2025; no source found reports a second main stream.
 
 - More than 75,000 food-voucher beneficiaries completed digital purchases at local stores with SmartSwitch Botswana's biometrics-enabled smart card, described as government social-benefit payments ([source, 2025-05-29](https://www.biometricupdate.com/202505/biometric-payment-card-system-pushing-financial-inclusion-in-botswana)).
 - Food voucher beneficiaries under a Ministry of Local Government programme receive a monthly allowance on a SmartSwitch biometric smart card, used at over 1,200 shops; more than 75,000 beneficiaries are covered, replacing a paper-based food basket system ([source, 2025-05-28](https://techafricanews.com/2025/05/28/smartswitch-botswana-pioneers-dignified-digital-aid-for-75000-beneficiaries/)).
+
+### Burkina Faso: 3 Established
+
+The social security fund paid benefits by bank transfer in 2024; no source found reports a second main stream.
+
+- CNSS says it moved many of its benefits from payment at counters to bank transfer ([source, 2024-01-15](https://cnssbf.org/?p=8268)).
 
 ### Burundi: 3 Established
 
@@ -144,11 +195,11 @@ A government programme paid people digitally in 2026; no source found reports a 
 - The BCEAO says the Treasury of Cote d'Ivoire, having met all PI-SPI requirements, regularly makes bulk payments through the platform, which lets Treasuries send salaries, grants and subsidies to any account ([source, 2026-10-08](https://www.bceao.int/fr/communique-presse/connexion-des-tresors-publics-la-plateforme-interoperable-du-systeme-de-paiement)).
 - APIF's 2024 report says the government's Programme Filets Sociaux Productifs pays quarterly allowances to rural households by mobile phone into e-money accounts, with 230,000 active beneficiaries and 130,000 new mobile money accounts opened in 2024 ([source, 2024](https://apif.finances.gouv.ci/images/app/publications/364/rapport-if-2024com.pdf)).
 
-### Egypt: 3 Established
+### DR Congo: 3 Established
 
-A government programme paid people digitally in 2024; no source found reports a second main stream.
+Civil servants were paid into bank accounts in 2025; no source found reports a second main stream.
 
-- Finance Minister Mohamed Maait says the e-payment service for government employees' payrolls grew 24% to EGP 299.4 billion in July 2023 to May 2024 ([source, 2024-05](https://english.ahram.org.eg/NewsContent/3/12/525882/Business/Economy/Epayment,-collection-services-in-Egypt-rise-to-EGP.aspx)).
+- The Ministry of Public Service says civil servants' pay is delivered through bank accounts, ten years after payroll bancarisation was launched, with gaps remaining such as no bank branches in some areas and slow account opening ([source, 2025-08-12](https://fonctionpublique.gouv.cd/fonction-publique-jean-pierre-lihau-trace-la-voie-dune-paie-modernisee-et-securisee/)).
 
 ### Eswatini: 3 Established
 
@@ -176,35 +227,16 @@ A government programme paid people digitally in 2025; no source found reports a 
 
 ### Lesotho: 3 Established
 
-A government programme paid people digitally in 2026; no source found reports a second main stream.
+Child grants and old-age grants were paid by mobile money in 2026; whether salaries are paid digitally is not known.
 
 - UNICEF says that through the Ntlafatsa Bana programme 25,575 households now receive Child Grants Programme payments through digital mobile cash transfers ([source, 2026-07-28](https://www.unicef.org/lesotho/stories/how-birth-certificate-opened-door-support)).
-
-### Mali: 3 Established
-
-A government programme paid people digitally in 2026; no source found reports a second main stream.
-
-- The Caisse Malienne de Securite Sociale pays pensions by mobile payment, which the article calls a success, and is now digitalising bank payment of pensions ([source, 2026-07-27](https://maliemergenceinfo.com/2026/07/28/%f0%9d%90%8ba-digitalisation-des-services-de-la-sante-et-du-developpement-social-l%f0%9d%90%9a-%f0%9d%90%aa%f0%9d%90%ae%f0%9d%90%9a%f0%9d%90%a5%f0%9d%90%a2%f0%9d%90%ad%f0%9d%90%9e-%f0%9d%90%9d/)).
-- The Caisse malienne de sécurité sociale has paid pensions by mobile since 2019, and its application pays pensions below FCFA 50,000 by mobile; a bank-payment pilot with the Banque de Développement du Mali was judged conclusive in July 2026 ([source, 2026-07-27](https://www.africascoop.net/index.php/2026/07/30/sante-le-mali-accelere-la-digitalisation-de-ses-services-publics/)).
-
-### Morocco: 3 Established
-
-A government programme paid people digitally in 2023; no source found reports a second main stream.
-
-- Direct social aid has been paid since end December 2023, with government and central bank requiring payment only into payment or bank accounts, not cash (Médias24) ([source, 2023-12](https://medias24.com/2024/02/20/aides-sociales-directes-les-premiers-retours-dexperience-du-secteur-des-etablissements-de-paiement/)).
+- The Lesotho Times reports that more than 40,000 elderly people, about 53 percent of all old-age pension beneficiaries, now receive their grants electronically, mostly through M-Pesa and EcoCash ([source, 2026-01-16](https://lestimes.com/?p=89428)).
 
 ### Rwanda: 3 Established
 
 A government programme paid people digitally in 2025; no source found reports a second main stream.
 
 - LODA launched 'My Phone, My Money' on 30 August 2025 so Vision Umurenge Programme recipients receive monthly support into Umurenge SACCO accounts linked to their own SIM cards and access it by phone (*541#) at MTN or Airtel agents; the campaign began 19 August in three districts ([source, 2025-08-30](https://www.loda.gov.rw/updates/news-detail/loda-launches-awareness-campaign-to-help-vup-recipients-access-support-through-digital-payments)).
-
-### Sao Tome and Principe: 3 Established
-
-A government programme paid people digitally in 2025; no source found reports a second main stream.
-
-- The DPSSF states that Programa Família Vulnerável transfers to 5,000 households were paid by bank transfer through the payments module of the Ké Non system, with five payment cycles completed in 2025 through October totalling over STN 35.75 million ([source, 2025-10](https://dpssf.gov.st/index.php/noticias-g-1/comunicados-oficiais/governo-de-stp-injeta-mais-de-35-milhoes-de-dobras-na-economia-nacional-atraves-do-programa-familias-vulneraveis-em-2025)).
-- The World Bank project paper says the additional financing continues an electronic cash-transfer payment system, built through a partnership with a financial institution, for the Vulnerable Family Program (5,000 to 6,000 households) ([source, 2025-09-12](https://documents1.worldbank.org/curated/en/099091725161547918/txt/BOSIB-92986af7-9307-44ac-b3b9-5f75cb4949c8.txt)).
 
 ### Sierra Leone: 3 Established
 
@@ -251,12 +283,6 @@ A government programme paid people digitally in 2026; no source found reports a 
 
 - Zambia's Ministry of Community Development and Social Services began disbursing more than K1.4 billion in the July-August 2026 Social Cash Transfer cycle to over 1.5 million households, redeemable through beneficiaries' payment service providers, with recipients told to safeguard SIM cards, phones and PINs ([source, 2026-08-22](https://www.zambiamonitor.com/govt-claims-k1-4-billion-to-be-spent-in-july-august-under-social-cash-transfer-programme/)).
 
-### Zimbabwe: 3 Established
-
-A government programme paid people digitally in 2026; no source found reports a second main stream.
-
-- The National Social Security Authority of Zimbabwe (NSSA) says pensioners can now receive their pension payments straight into a mobile money wallet ([source, 2026-05-22](https://www.linkedin.com/posts/national-social-security-authority-nssa_nssaheroes-convenience-digitalservices-activity-7463468848600715264-CH3I)).
-
 ### Cameroon: 2 Nascent
 
 Digital government payments to people were under way in 2026; none in service is on record.
@@ -268,12 +294,8 @@ Digital government payments to people were under way in 2026; none in service is
 Digital government payments to people were under way in 2026; none in service is on record.
 
 - Tchadinfos reports the finance ministry signed partnership conventions with Moov Money, Airtel Money, Konoom and Cashi, and the minister said they cover settling the salaries of all civil servants ([source, 2026-02-18](https://tchadinfos.com/2026/02/18/digitalisation-des-paiements-publics-le-ministere-des-finances-signe-des-partenariats-avec-des-operateurs-de-mobile-money/)).
-
-### DR Congo: 2 Nascent
-
-Digital government payments to people were under way in 2026; none in service is on record.
-
-- CADECO and the Comite de suivi de la paie (CSP) validated final technical and organisational adjustments for deploying proximity pay of state agents and civil servants in rural DRC, with first operations to cover several rural zones ([source, 2026-07-23](https://actualite.cd/2026/07/24/paie-des-agents-publics-la-cadeco-et-le-csp-prets-lancer-la-paie-de-proximite-en-milieu)).
+- Chad's finance ministry signed a five-year non-exclusive framework convention with Moov Money, Airtel Money, Konoom and Cashi-Tchad that lets the State pay salaries, bonuses or pensions through mobile money, and the finance minister said every civil servant could receive salary free by bank or mobile wallet ([source, 2026-02-19](https://www.sikafinance.com/marches/tchad-letat-sallie-aux-operateurs-mobile-money-pour-encaisser-les-impots-et-payer-les-salaires_59931)).
+- The Cellule Filets sociaux coordinator said the government safety-net cash transfers are paid through two mechanisms, contracts with microfinance institutions and with mobile telephone operators, while in Bahr El Gazal the agency Express Union pays the transfer in cash ([source, 2025-01-16](https://ndjamenahebdo.net/le-transfert-monetaire-aux-menages-vulnerables/)).
 
 ### Djibouti: 2 Nascent
 
@@ -286,18 +308,13 @@ A contract to pay civil servants' salaries digitally was signed in 2025; no sour
 Digital government payments to people were under way in 2026; none in service is on record.
 
 - The Ministry of Finance, the National Bank of Ethiopia and EthSwitch convened government technical teams to advance implementation of a unified framework enabling interoperable person-to-government and government-to-person payments, per FinDev Gateway ([source, 2026-07-17](https://www.findevgateway.org/news/ethiopia-advances-nationwide-rollout-of-interoperable-digital-government-payments)).
+- The World Bank says it is supporting a Government of Ethiopia pilot of electronic safety-net payments through the Telebirr mobile money service in two selected regions ([source, 2024-03-15](https://blogs.worldbank.org/en/nasikiliza/leveraging-e-payments-financial-inclusion-ethiopia-afe-0324)).
 
 ### Guinea-Bissau: 2 Nascent
 
 Digital government payments to people were under way in 2026; none in service is on record.
 
 - The prime minister said the government will make every effort for each teacher to be paid at their workplace through bank branches or Orange Money, and the education minister listed dematerialised salary payment as a pillar of a strategy being implemented ([source, 2026-09-11](https://ang.gw/pm-promete-elevar-para-15-por-cento-do-orcamento-geral-do-estado-os-fundos-destinados-ao-setor-do-ensino-nacional/)).
-
-### Kenya: 2 Nascent
-
-Digital government payments to people were under way in 2025; none in service is on record.
-
-- Kenya's National Treasury said in August 2025 that from that month-end it would pay salaries and pensions of civil servants and former officials through the Integrated Personnel Payroll Database (IPPD), extending the 1998 system to pensioners ([source, 2025-08](https://www.businessdailyafrica.com/bd/economy/treasury-shifts-salary-pension-payments-to-new-online-system-5152690)).
 
 ### Madagascar: 2 Nascent
 
@@ -313,12 +330,6 @@ Digital government payments to people were under way in 2025; none in service is
 - The Ministry of Finance and Planning and the Bank of South Sudan issued a circular asking that civil servants' salaries and payments to departmental vote heads be made cashless, and the finance minister said salaries and operating costs of ministries, departments and agencies will be paid through bank accounts ([source, 2024-09-19](https://nation.africa/africa/news/south-sudan-tests-cashless-pay-to-civil-servants-4767684)).
 
 ### Algeria: Unplaced
-
-Nothing found since 2023 names digital government payments to people, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether government pays people digitally.
-
-### Burkina Faso: Unplaced
 
 Nothing found since 2023 names digital government payments to people, so no stage is set.
 

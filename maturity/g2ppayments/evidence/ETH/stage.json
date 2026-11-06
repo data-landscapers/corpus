@@ -9,10 +9,10 @@
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-001",
-      "gaps": "No source found since October 2023 says a government transfer, salary or pension is paid digitally in service.",
-      "note": "The finance ministry, central bank and EthSwitch were advancing a framework for interoperable government-to-person payments in July 2026, so stage 2. No source says a programme pays people digitally in service.",
-      "as_at": "2026-11-05"
+      "stage_sources": "ETH-001;ETH-003",
+      "gaps": "No source found since October 2023 names a government transfer, salary or pension paid digitally in service; the safety-net figures for bank payment date from 2022.",
+      "note": "The Telebirr safety-net pilot (2024) and the July 2026 G2P framework are work under way, so stage 2. The World Bank's 2026 count of 1.3 million households moving to digital payment names no programme and does not say payments are made, so not stage 3.",
+      "as_at": "2026-11-06"
     }
   ]
 }
