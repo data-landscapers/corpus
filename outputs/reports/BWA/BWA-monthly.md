@@ -1,11 +1,11 @@
 ---
 title: Botswana — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: BWA
-ledger_rows: 13
+ledger_rows: 14
 not_held: 5
-record: f0ce0061201b
+record: 65ec464a4b7b
 ---
 
 # News, Oct – Nov 2026
@@ -54,6 +54,8 @@ Orange Botswana and Huawei Technologies Botswana signed a memorandum of understa
 <a href="#data-storage">Data Storage</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#energy">Energy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Connectivity
@@ -127,6 +129,22 @@ Tlou Energy's annual report says Botswana's gas-powered Kala Data Centre ran wel
 **[Tlou weighs Kala data centre expansion](https://www.itweb.africa/article/tlou-weighs-kala-data-centre-expansion/lwrKx73Yy6Dqmg1o)** — ITWeb Africa, 5 October 2026
 
 Summarised under [Data Storage](#data-storage).
+
+</div>
+
+</div>
+
+### Cybersecurity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Air Botswana ransomware incident</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Air Botswana probes suspected cyberattack](https://www.itweb.africa/article/air-botswana-probes-suspected-cyberattack/GxwQDq1DLy8MlPVo)** — ITWeb Africa, 5 November 2026
+
+Air Botswana activated incident-response procedures after a suspected ransomware attack on 3 November 2026. Unauthorised access reached internal systems holding employee information. The airline said booking and flight-operations systems were unaffected and that it had begun meeting its Data Protection Act 2024 obligations.
 
 </div>
 

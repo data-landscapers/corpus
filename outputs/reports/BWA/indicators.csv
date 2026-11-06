@@ -279,7 +279,7 @@ infra.energy--grid-reliability,Movement,"[Mean time to repair fell from about 30
 
 2016 — [the energy regulator carries a statutory duty to see that electricity is safe, reliable, efficient and affordable](2016-09-26-botswana-energy-regulatory-authority-act-2016).
 
-No outage-minutes or system-average interruption figure is published.",BWA-infra.energy-bpc-supply-reliability|BWA-infra.energy-mmadinare-solar|BWA-infra.energy-bera,4,,2.3793,outages per month,2023,ref:enterprise-surveys-outages@2026-09-24,,,2026-08-31,0,survey figure; no primary in the base
+The utility's [2023 integrated report gives a departmental interruption duration of 3.49 minutes and frequency of 0.04 for the year to March 2023, against targets of 10 and 0.25](2023-01-01-bwa-integrated-report-2023). No later interruption index has been found.",BWA-infra.energy-bpc-supply-reliability|BWA-infra.energy-mmadinare-solar|BWA-infra.energy-bera|BWA-infra.energy-bpc-interruption-indices,4,,2.3793,outages per month,2023,ref:enterprise-surveys-outages@2026-09-24,,,2026-08-31,0,survey figure; no primary in the base
 infra.energy--rural-electrification,Movement,"[Electricity access stood at 76.6%% as of March 2025, with universal access targeted for 2030](2025-10-22-botswana-national-energy-compact).","2025-10-22 — [the energy compact records access at 76.6% and targets universal access by 2030, reaching an additional 220,000 households through grid extension in peri-urban and accessible rural areas and off-grid solutions further out](2025-10-22-botswana-national-energy-compact).
 
 2026-02-17 — [Tsodilo was completed and connected to the grid in November 2025 and Chukumuchu was at tender stage](2026-02-17-chukumuchu-tsodilo-electrification), both under the 112-village programme.
@@ -303,11 +303,11 @@ infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems
 No establishment figure, vacancy rate or skills audit for government ICT staff is held.",BWA-dpi.govtech-1gov-1citizen-platform|BWA-infra.store-government-migration-digital-delta,,,,,,,,,2026-08-31,0,rows show e-services and migration but not who builds or maintains them
 infra.cybersec--national-cybersecurity-readiness,Regressed,"A four-day national cyber drill [was held](2026-03-09-cyber-drill-sounds-alarm-ai-iot-quantum-threats) and police [recorded 399 cyber threat cases in 2025, up 25%](2026-06-08-bwa-cybercrime-cases-on-the-rise); the cybersecurity authority is not yet established.","An international police assessment flagged cyber threats against both institutions and individuals in Botswana ([assessment](2026-08-28-bwa-mmegi-interpol-cyber-threats)).
 
-2026-03 — [a four-day national cyber drill was held, opened by the regulator's chief executive](2026-03-09-cyber-drill-sounds-alarm-ai-iot-quantum-threats).
+2026-03 — [a four-day national cyber drill was held](2026-03-09-cyber-drill-sounds-alarm-ai-iot-quantum-threats).
 
 2026-05-13 — [an integrated security framework and cloud services became available to Botswana customers](2026-05-13-liquid-cloud-cybersecurity-botswana-itweb); no customer figure is published.
 
-The measured position is good and thinly sourced: [0.9% of consumer transaction attempts were flagged as suspected digital fraud in 2025, the lowest of the African countries analysed](2026-06-15-botswana-records-lowest-suspected-digital-fraud), on a vendor study paywalled beyond its opening paragraph.
+[0.9% of consumer transaction attempts were flagged as suspected digital fraud in 2025, the lowest of the African countries analysed](2026-06-15-botswana-records-lowest-suspected-digital-fraud), on a vendor study.
 
 The authority that would own the strategy is created in law and not yet established.
 
@@ -315,7 +315,9 @@ A national strategy is in place: the [2025 bill was drafted to implement it](202
 
 2025-10-16 — the regulator's annual report describes [the national incident response team it has run since 2020 from its own revenue, as the primary contact for cybersecurity incidents](2025-10-16-bwa-bocra-annual-report-2025-companion); no appropriated budget line funds it.
 
-2026-06-08 - the police service's annual report [put cyber threat cases at 399 in 2025, up from 320](2026-06-08-bwa-cybercrime-cases-on-the-rise).",BWA-infra.cybersec-cyber-drill|BWA-infra.cybersec-liquid-secure360|BWA-infra.cybersec-suspected-digital-fraud-rate|BWA-infra.cybersec-digital-safety-exposure|BWA-infra.cybersec-cybersecurity-strategy|BWA-infra.cybersec-child-online-protection-guidelines|BWA-infra.cybersec-national-csirt|BWA-infra.cybersec-police-cyber-threat-cases,,,,,,,,,2026-08-31,0,"drill and threat reports only; no strategy, law or CERT on record in these rows"
+2026-06-08 - the police service's annual report [put cyber threat cases at 399 in 2025, up from 320](2026-06-08-bwa-cybercrime-cases-on-the-rise).
+
+2026-11-03 - [Air Botswana activated incident response after a suspected ransomware attack reached systems holding employee data](2026-11-05-air-botswana-probes-suspected-cyberattack).",BWA-infra.cybersec-cyber-drill|BWA-infra.cybersec-liquid-secure360|BWA-infra.cybersec-suspected-digital-fraud-rate|BWA-infra.cybersec-digital-safety-exposure|BWA-infra.cybersec-cybersecurity-strategy|BWA-infra.cybersec-child-online-protection-guidelines|BWA-infra.cybersec-national-csirt|BWA-infra.cybersec-police-cyber-threat-cases|BWA-infra.cybersec-air-botswana-ransomware,,,,,,,,,2026-08-31,0,"drill and threat reports only; no strategy, law or CERT on record in these rows"
 dpi.exchange--national-data-exchange-system,"Movement, enacted and not built",The [statutory framework for secure exchange of information and an information gateway was enacted in October 2025](2025-10-17-bwa-digital-services-act-2025); nothing on the build is held.,"2025-08-17 — [Parliament passed the Digital Services Bill under certificate of urgency](2025-08-17-bwa-digital-services-cybersecurity-bills-passed).
 
 2025-10-17 — [sections 12 and 22 of the resulting Act require a standardised framework for secure exchange of information and an information gateway](2025-10-17-bwa-digital-services-act-2025).
@@ -405,7 +407,9 @@ dpi.pay--g2p-functionality,No change,"Biometric grant cards [stand at more than 
 
 2025-09-17 — [a unified Citizen Wallet for subsidy delivery was presented to a rural development council alongside a cryptographic card](2025-09-17-pemandu-digital-ecosystem-citizen-wallet-techafricanews). Nothing further has appeared in ten months on either.
 
-So government-to-person payment in Botswana is one closed-loop card scheme whose numbers have not moved, and a wallet that exists in a presentation.",BWA-dpi.pay-biometric-grant-payment-cards|BWA-dpi.pay-citizen-wallet,3,BWA-dpi.pay-biometric-grant-payment-cards,,,,,,,2026-08-31,0,one grant programme paid by biometric card; 2025 figure not updated
+So government-to-person payment in Botswana is one closed-loop card scheme whose numbers have not moved, and a wallet that exists in a presentation.
+
+2022 - a World Bank assessment found [72% of government grants paid in cash and 20% into bank accounts, with mobile-money payment untracked](2022-12-01-bwa-botswana-financial-sector-assessment-program-technical-note-on-financi). No later channel split has been found.",BWA-dpi.pay-biometric-grant-payment-cards|BWA-dpi.pay-citizen-wallet|BWA-dpi.pay-social-grant-cash-share,3,BWA-dpi.pay-biometric-grant-payment-cards,,,,,,,2026-08-31,0,one grant programme paid by biometric card; 2025 figure not updated
 dpi.pay--revenue-collection,Movement,"Value added tax on non-resident digital services [took effect in June 2026 with a collection target of about P450m a year](2026-07-13-botswana-expands-digital-tax-net), and [electronic invoicing is provided for with no start date](2026-08-16-botswana-digital-tax-rules-e-invoicing).","2026-06-01 — [a 14% value added tax on non-resident digital and remote services took effect, with a stated collection target of about P450m a year](2026-07-13-botswana-expands-digital-tax-net), [the revenue service having set out its intent to tax global digital providers](2026-06-02-burs-looks-to-tax-global-digital-services-providers), against [a tax system described three months earlier as built for tangible goods](2026-03-23-botswana-tax-system-faces-the-internet).
 
 2026-08-16 — [mandatory electronic invoicing is provided for by the 2025 value added tax statute in force from 1 July 2026, with no start date, threshold or scope published](2026-08-16-botswana-digital-tax-rules-e-invoicing). The account is a tax adviser's reading of the Act; no revenue-service notice or timetable is on record.
