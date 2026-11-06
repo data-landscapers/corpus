@@ -3,8 +3,8 @@ title: Geospatial data — News, October – November 2026
 compiled: 2026-11-06
 period: 2026-10-01 to 2026-11-06
 subject: data.geospatial
-places: COM; CIV; LSO; LBR; TGO; ZWE
-record: d97bddd885e0
+places: COM; CIV; DJI; LSO; LBR; SYC; TGO; ZWE
+record: 5fb3e461f972
 ---
 
 # News, Oct – Nov 2026
@@ -14,9 +14,13 @@ record: d97bddd885e0
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#djibouti">Djibouti</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#lesotho">Lesotho</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#liberia">Liberia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#seychelles">Seychelles</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#togo">Togo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -55,6 +59,22 @@ Cote d'Ivoire's environment ministry signed a framework memorandum with an Ivori
 
 </div>
 
+## Djibouti
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">GBON observing network upgrade (SOFF)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Djibouti SOFF Investment Phase Funding Request (pipeline, version 6)](https://www.un-soff.org/wp-content/uploads/2026/10/2699-Djibouti-SOFF-IFR-V6-clean-version-25092026.pdf)** — Systematic Observations Financing Facility, 1 October 2026
+
+Djibouti's weather agency asks SOFF for US$2.01m for 2027 to 2031. Neither of its two required stations meets the global standard. The airport surface station is to be upgraded. A disused upper-air station is to be rebuilt.
+
+</div>
+
+</div>
+
 ## Lesotho
 
 <div class="monthly-story" markdown="1">
@@ -82,6 +102,22 @@ The Reporter, on 16 October 2026, covered a weather-index agricultural insurance
 **[SAP018: Enhancing Climate Information Systems for Resilient Development in Liberia (Liberia CIS)](https://www.greenclimate.fund/project/sap018)** — Green Climate Fund, 5 November 2026
 
 The Green Climate Fund approved project SAP018 on 13 November 2020, with the African Development Bank as accredited entity. It funds climate information and early-warning services in Liberia, aiming to reach 7.7 million people. The grant is USD 10 million of a USD 11.4 million total, and completion is set for October 2027.
+
+</div>
+
+</div>
+
+## Seychelles
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">GBON observing network upgrade (SOFF)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Investment Phase pipeline – Seychelles](https://www.un-soff.org/wp-content/uploads/2026/10/Seychelles-IFR-FINAL.pdf)** — Systematic Observations Financing Facility, 2 October 2026
+
+A World Bank-led request asks SOFF for US$3.3m for 2027 to 2031. It rebuilds the surface and upper-air stations at Mahé airport. It also restores the automatic stations on the outer islands. An upper-air station on Aldabra waits for a second phase.
 
 </div>
 
