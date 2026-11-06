@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-crs-21-2024000126-2024-2024-undp-grant-inclusive-digital-transformati",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The CRS record by Ireland says the National Registration and Identification System (October 2016 to June 2024), with the National Registration Bureau, gave unique registration to Malawians aged 16 and above and issued identity cards.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "National Registration and Identification System (NRIS)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Registration and Identification System (NRIS)",
+   "country_label": "NRIS",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
