@@ -24,3 +24,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,UGA,dpi.mis--social-protection,review,no evidence,5,UGA-002,Stage 4c: 4 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,ZAF,dpi.mis--social-protection,fact,no evidence,4,ZAF-004,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) and 1 news arrival(s) read; restaged from every row held.
 2026-10-18,ZWE,dpi.mis--social-protection,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-11-06,SLE,dpi.mis--social-protection,fact,unplaced,4,SLE-003;SLE-004,"Sierraloaded 2024: digitized enrolment of 13,091 aged beneficiaries, paid by Orange Mobile Money; unplaced to 4"
+2026-11-06,SOM,dpi.mis--social-protection,fact,no evidence,4,SOM-001;SOM-002,Baxnaano page 2025: all unconditional cash transfer payments by mobile money; no evidence to 4
+2026-11-06,ZWE,dpi.mis--social-protection,fact,unplaced,4,ZWE-002,"Gemnation 2024: HSCT pays by EcoCash, per the Auditor-General; unplaced to 4"

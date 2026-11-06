@@ -21,12 +21,12 @@ The African Union's Protocol on Social Protection asks for an integrated social 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 2 |
-| 4 Operating | 15 |
+| 4 Operating | 18 |
 | 3 Established | 12 |
 | 2 Nascent | 3 |
 | 1 Absent | 1 |
-| Unplaced | 8 |
-| No evidence | 13 |
+| Unplaced | 6 |
+| No evidence | 12 |
 
 ## Countries
 
@@ -118,6 +118,20 @@ A social programme's system paid beneficiaries electronically in 2025; no source
 
 - The World Bank project paper says the additional financing continues an electronic cash-transfer payment system for beneficiaries, built through a partnership with a financial institution ([source, 2025-09-12](https://documents1.worldbank.org/curated/en/099091725161547918/txt/BOSIB-92986af7-9307-44ac-b3b9-5f75cb4949c8.txt)).
 
+### Sierra Leone: 4 Operating
+
+A cash transfer enrolled its beneficiaries digitally and paid them by mobile money in 2024; no source found reports one system serving several programmes.
+
+- The ministry and NaCSA completed a digitized registration, verification and enrolment process for 13,091 aged beneficiaries before the cash transfer ([source, 2024-09](https://sierraloaded.sl/news/ministry-labour-cash-transfer-vulnerable-aged/)).
+- Sierraloaded reports that the ministry and NaCSA paid a one-time transfer to 13,091 aged beneficiaries in 10 districts through Orange Mobile Money as payment service provider; the article gives no date, so its September 2024 published date is used ([source, 2024-09](https://sierraloaded.sl/news/ministry-labour-cash-transfer-vulnerable-aged/)).
+
+### Somalia: 4 Operating
+
+A cash transfer paid households by mobile money in 2025; the system managing its beneficiaries, and any second programme, are not known.
+
+- The Baxnaano page says all UCT payments are sent by mobile money to the household's registered phone number ([source, 2025](https://baxnaano.so/unconditional-cash-transfer/)).
+- The Baxnaano page says the Ministry of Labour and Social Affairs' unconditional cash transfer pays 50,000 of the poorest households in 21 districts US$20 a month, disbursed quarterly to the mobile number registered at enrolment ([source, 2025](https://baxnaano.so/unconditional-cash-transfer/)).
+
 ### South Africa: 4 Operating
 
 A social programme's system paid beneficiaries electronically in 2025; no source found reports one system serving several programmes.
@@ -135,6 +149,12 @@ A social programme's system paid beneficiaries electronically in 2026; no source
 A social programme's system paid beneficiaries electronically in 2024; no source found reports one system serving several programmes.
 
 - The World Bank says 44.4% of AMEN cash transfers are digitalised, with a convention between the Ministry of Social Affairs and the Tunisian Post for digital payment cards tied to an e-wallet ([source, 2024-04-26](https://www.worldbank.org/en/programs/teri/brief/enhancing-the-social-protection-system-to-better-serve-vulnerable-populations)).
+
+### Zimbabwe: 4 Operating
+
+A cash transfer paid beneficiaries by mobile money in 2024; the system running it, and any second programme, are not known.
+
+- Gemnation reports that the Harmonised Social Cash Transfer programme pays beneficiaries by electronic transfer (EcoCash), citing the Auditor-General's note that the payment method has changed from cash ([source, 2024-07-02](https://gemnation.co.zw/cash-transfer-scheme-lacks-transparency/)).
 
 ### Angola: 3 Established
 
@@ -258,12 +278,6 @@ Nothing found since 2023 names a social programme management information system,
 
 Not established: Nothing found since October 2023 says whether a social programme runs on an information system.
 
-### Sierra Leone: Unplaced
-
-Nothing found since 2023 names a social programme management information system, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether a social programme runs on an information system.
-
 ### Sudan: Unplaced
 
 Nothing found since 2023 names a social programme management information system, so no stage is set.
@@ -271,12 +285,6 @@ Nothing found since 2023 names a social programme management information system,
 Not established: Nothing found since October 2023 says whether a social programme runs on an information system.
 
 ### Togo: Unplaced
-
-Nothing found since 2023 names a social programme management information system, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether a social programme runs on an information system.
-
-### Zimbabwe: Unplaced
 
 Nothing found since 2023 names a social programme management information system, so no stage is set.
 
@@ -349,12 +357,6 @@ Nothing found names a social programme management information system or says the
 Not established: Nothing found says how social programmes are administered.
 
 ### Niger: No evidence
-
-Nothing found names a social programme management information system or says there is none, so no stage is set.
-
-Not established: Nothing found says how social programmes are administered.
-
-### Somalia: No evidence
 
 Nothing found names a social programme management information system or says there is none, so no stage is set.
 

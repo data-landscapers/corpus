@@ -39,11 +39,13 @@ EGY,Takaful and Karama,Egypt,socialmis,Meeza cards,Ministry of Social Solidarity
 EGY,TKP social registry,Egypt,other,,Ministry of Social Solidarity,,2024-05-28-egypt-takaful-karama-cash-transfer
 EGY,Unified National Registry,Egypt,other,,Administrative Control Authority,,2024-05-28-egypt-takaful-karama-cash-transfer
 EGY,Unified Government Services Card,Egypt,socialmis,card linked to Egypt Post accounts,Ministry of Communications and Information Technology,,2026-06-14-egypt-unified-government-services-card-ahram
+EGY,Takaful and Karama,Egypt,socialmis,"Meeza cards, Fawry, ATMs",Ministry of Social Solidarity,,2026-06-01-egy-social-solidarity-launches-june-takaful-and-karama-disbursement
 ETH,PSNP management information system (MIS),ETH,socialmis,,Ministry of Agriculture,federal to woreda,2025-10-20-ethiopia-seasn-restructuring-paper
 GHA,GISPIS,Ghana,socialmis,ESB then microservices (planned),"Ministry of Gender, Children and Social Protection",,2026-08-29-ghana-gispis-tor-integrated-social-protection-information-system
 GHA,GNHR,Ghana,other,,"Ministry of Gender, Children and Social Protection",,2026-08-29-ghana-gispis-tor-integrated-social-protection-information-system
 GHA,LEAP MIS,Ghana,socialmis,,"Ministry of Gender, Children and Social Protection",,2026-08-29-ghana-gispis-tor-integrated-social-protection-information-system
 GHA,SWIMS,Ghana,other,,"Ministry of Gender, Children and Social Protection",,2026-08-29-ghana-gispis-tor-integrated-social-protection-information-system
+GHA,Ghana National Household Registry,Ghana,other,,"Ministry of Gender, Children and Social Protection",,2026-11-03-gha-gender-ministry-swears-in-data-review-committee-to-strengthen-household-registry
 GIN,ANIES beneficiary database (Projet Nafa),Guinea,socialmis,,ANIES,,2023-01-01-gin-anies-rapport-guichet-choc-alimentaire
 GIN,KoboCollect,Guinea,other,KoboCollect on Android phones,ANIES,complaints and field monitoring,2023-01-01-gin-anies-rapport-guichet-choc-alimentaire
 GMB,openIMIS,Nafa Quick,socialmis,openIMIS,National Nutrition Agency,,2021-01-01-gmb-openimis-nafa-quick-cash-transfer
@@ -102,6 +104,7 @@ SDN,Thamarat registration website,Sudanese Families Support Program,socialmis,,M
 SEN,Registre national unique (RNU),Senegal,other,,,,2026-06-17-aps-rnu-extension-996194-menages
 SEN,Programme national de bourses de sécurité familiale,Senegal,other,,,,2026-06-17-aps-rnu-extension-996194-menages
 SLE,SP Registry for Integrated National Targeting,Sierra Leone,socialmis,,NaCSA,,2023-06-20-sle-worldbank-safety-nets-restructuring-paper
+SLE,"digitized registration, verification and enrolment process",Sierra Leone,socialmis,,"Ministry of Employment, Labour and Social Security / NaCSA",,2024-09-01-sle-ministry-of-labour-embarks-on-cash-transfer-of-nle1-018-to-poor-sierra
 SOM,Social Protection Delivery System (SPDS),Somalia,other,,,,2026-05-13-somalia-boost-you-additional-financing-project-paper
 SOM,Unified Social Registry (USR),Somalia,other,,,,2026-05-13-somalia-boost-you-additional-financing-project-paper
 SSD,Management Information System (SNSOP),South Sudan,socialmis,,Ministry of Agriculture and Food Security,,2025-09-18-cash-transfers-helping-women-south-sudan
@@ -111,6 +114,7 @@ SSD,South Sudan Schools' Attendance Monitoring System (SSSAMS),South Sudan,socia
 SSD,SSSNP Biometric Management Information System,South Sudan,socialmis,,"UNOPS, handed to government",,2024-01-09-ssd-worldbank-safety-net-results
 STP,Ké-Non,STP,socialmis,CORE-MIS/openIMIS,"Ministry of Labor, Solidarity, and Social Security",,2025-09-12-wb-stp-003-social-protection-additional-financing
 STP,Unique Social Registry,STP,other,,"Ministry of Labor, Solidarity, and Social Security",,2025-09-12-wb-stp-003-social-protection-additional-financing
+STP,Ke-Non,Ke-Non,socialmis,CORE-MIS / openIMIS,Institute of Innovation and Knowledge,,2024-01-01-stp-em-powered-by-openimis-the-island-nation-sao-tome-and-principe-is-effe
 SWZ,DPMO social grants application system,Eswatini,socialmis,,Office of the Deputy Prime Minister,,2026-01-15-swz-eswatinipositivenews-dpmo-social-grants-system
 SYC,ASP beneficiary registry and payment systems,Seychelles,socialmis,,Agency for Social Protection,,2026-09-09-syc-nation-repair-cash-transfer-beneficiary-registry-payments
 TCD,Registre social unifié,Chad,other,,,,2026-04-04-manara-kanem-lancement-projet-filets-sociaux-adaptatifs-productifs-mao
@@ -118,6 +122,7 @@ TCD,Registre social unifié (RSU),Chad,other,,,,2025-09-01-worldbank-vision-nati
 TCD,Nouveau système de gestion des bénéficiaires,Chad,socialmis,,,,2025-09-01-worldbank-vision-nationale-protection-sociale-adaptive-tchad
 TCD,Plateforme de paiement rapide,Chad,other,,,,2025-09-01-worldbank-vision-nationale-protection-sociale-adaptive-tchad
 TCD,Registre social unifié,Chad,other,,,,2026-04-03-wb-tcd-pfsap-adaptive-social-safety-nets
+TCD,121 Platform,Chad,other,121 Platform,Netherlands Red Cross (510),,2026-10-26-tcd-a-week-can-change-everything-a-new-collaboration-for-cash-assistance-i
 TGO,NOVISSI,Togo,other,USSD,,,2023-09-18-tgo-weforum-lawson-novissi-social-information-system
 TUN,AMEN social registry,Tunisia,other,,Ministry of Social Affairs,,2024-11-14 Tunisians Share How their Life Changed Through the AMEN Program
 TUN,AMEN management information system,Tunisia,socialmis,,Ministry of Social Affairs,,2024-04-26-worldbank-tunisie-amen-protection-sociale-teri

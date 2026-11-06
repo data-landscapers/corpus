@@ -325,8 +325,8 @@ COM,20,2023-08-22-com-les-premiers-transferts-monetaires-sociaux-lances-a-wanani
 COM,21,2023-11-01-com-enquete-par-grappes-a-indicateurs-multiples-mics6-2022-rapport-des-res,2026-11-06,instrument,2026-11-06
 DJI,23,2026-04-30-dji-implementation-completion-and-results-report-social-protection-emergen,2026-11-06,instrument,2026-11-06
 DZA,13,2023-06-07-xna-world-bank-built-to-include-social-protection-mena,2026-11-06,instrument,2026-11-06
-EGY,34,2026-06-01-egy-social-solidarity-launches-june-takaful-and-karama-disbursement,2026-11-06,,
-EGY,35,2026-05-01-egy-takaful-karama-pension-payment-via-mobile-wallets,2026-11-06,,
+EGY,34,2026-06-01-egy-social-solidarity-launches-june-takaful-and-karama-disbursement,2026-11-06,fact,2026-11-06
+EGY,35,2026-05-01-egy-takaful-karama-pension-payment-via-mobile-wallets,2026-11-06,fact,2026-11-06
 EGY,36,2024-08-01-egy-50-000-new-families-added-to-takaful-karama-cash-support-programme,2026-11-06,nothing,2026-11-06
 EGY,37,2023-06-01-egy-world-bank-report-egypt-made-remarkable-progress-to-improve-social-pro,2026-11-06,old,2026-11-06
 EGY,38,2025-04-01-egy-egypt-s-takaful-and-karama-program-caught-between-reality-and-uneven-e,2026-11-06,instrument,2026-11-06
@@ -337,7 +337,7 @@ ETH,45,2024-03-15-eth-leveraging-e-payments-for-financial-inclusion-in-ethiopia,
 GHA,31,2026-09-01-gha-eligibility-criteria-leap-ghana,2026-11-06,nothing,2026-11-06
 GMB,31,2026-07-28-gmb-thousands-of-beneficiaries-receive-nafa-cash-transfer,2026-11-06,nothing,2026-11-06
 GNB,21,2024-01-01-gnb-guinea-bissau-sids-final-report,2026-11-06,instrument,2026-11-06
-KEN,47,2025-01-23-ken-nationwide-roll-out-of-inua-jamii-programme-payment-through-mobile-mon,2026-11-06,,
+KEN,47,2025-01-23-ken-nationwide-roll-out-of-inua-jamii-programme-payment-through-mobile-mon,2026-11-06,fact,2026-11-06
 KEN,48,2024-01-01-ken-wb-core-course-on-adaptive-social-protection-digital-payments-kenya-ca,2026-11-06,nothing,2026-11-06
 KEN,49,2026-01-01-ken-from-cash-to-code-the-evolution-of-social-payments-in-kenya,2026-11-06,instrument,2026-11-06
 LBY,15,2023-06-07-xna-world-bank-built-to-include-social-protection-mena,2026-11-06,instrument,2026-11-06
@@ -348,7 +348,7 @@ MDG,32,2024-06-21-mdg-service-pour-le-paiement-des-transferts-monetaires-par-le-
 MOZ,34,2024-07-24-moz-fmi-sugere-a-mocambique-pagar-apoios-traves-de-carteiras-digitais,2026-11-06,nothing,2026-11-06
 MOZ,35,2024-07-12-moz-imf-cr-24-219-fourth-review-ecf-article-iv,2026-11-06,instrument,2026-11-06
 MRT,48,2024-04-03-mrt-mauritania-social-safety-net-system-project-ii-additional-financing-pr,2026-11-06,instrument,2026-11-06
-MWI,42,2023-12-04-mwi-social-cash-transfers-spur-financial-inclusion,2026-11-06,,
+MWI,42,2023-12-04-mwi-social-cash-transfers-spur-financial-inclusion,2026-11-06,fact,2026-11-06
 MWI,43,2022-10-01-mwi-malawi-social-cash-transfer-programme-strategic-plan-2022-2027,2026-11-06,instrument,2026-11-06
 MWI,44,2023-10-01-mwi-e-payment-the-way-to-go-in-digitizing-social-protection-payments,2026-11-06,instrument,2026-11-06
 NER,29,2020-04-01-ner-numerisation-des-paiements-de-l-etat-du-niger-p2g-g2p-feuille-de-route,2026-11-06,instrument,2026-11-06
@@ -363,14 +363,14 @@ SDN,39,2023-08-29-sdn-sudan-s-crisis-can-cash-transfers-prevent-starvation-and-s
 SDN,40,2026-06-16-sdn-alnser-social-safety-commission-sudani-sah-ussd-cash-transfers,2026-11-06,nothing,2026-11-06
 SEN,40,2026-09-01-sen-la-poste-et-mobile-money-comment-seront-versees-les-bourses-de-securit,2026-11-06,nothing,2026-11-06
 SLE,24,2025-04-01-sle-afrimoney-partners-with-nacsa-for-safe-cash-transfers-to-elderly-peopl,2026-11-06,nothing,2026-11-06
-SLE,25,2024-09-01-sle-ministry-of-labour-embarks-on-cash-transfer-of-nle1-018-to-poor-sierra,2026-11-06,,
+SLE,25,2024-09-01-sle-ministry-of-labour-embarks-on-cash-transfer-of-nle1-018-to-poor-sierra,2026-11-06,reassessed,2026-11-06
 SLE,26,2023-05-10-sle-postponement-of-the-third-phase-of-the-emergency-cash-transfers-ect-iii,2026-11-06,old,2026-11-06
-SOM,42,2025-01-01-som-unconditional-cash-transfer,2026-11-06,,
-STP,20,2024-01-01-stp-em-powered-by-openimis-the-island-nation-sao-tome-and-principe-is-effe,2026-11-06,,
+SOM,42,2025-01-01-som-unconditional-cash-transfer,2026-11-06,reassessed,2026-11-06
+STP,20,2024-01-01-stp-em-powered-by-openimis-the-island-nation-sao-tome-and-principe-is-effe,2026-11-06,fact,2026-11-06
 TCD,27,2025-01-29-tcd-le-transfert-monetaire-aux-menages-vulnerables,2026-11-06,nothing,2026-11-06
 TUN,25,2023-06-07-xna-world-bank-built-to-include-social-protection-mena,2026-11-06,instrument,2026-11-06
 TZA,30,2025-08-17-tza-ncfi-annual-financial-inclusion-report-2024,2026-11-06,instrument,2026-11-06
 UGA,39,2020-09-01-uga-mglsd-g2p-payment-guidelines-senior-citizens-grant,2026-11-06,instrument,2026-11-06
 ZWE,29,2024-10-01-zwe-urban-cash-transfers-to-benefit-1-7m,2026-11-06,nothing,2026-11-06
-ZWE,30,2024-07-02-zwe-cash-transfer-scheme-lacks-transparency,2026-11-06,,
+ZWE,30,2024-07-02-zwe-cash-transfer-scheme-lacks-transparency,2026-11-06,reassessed,2026-11-06
 ZWE,31,2024-09-10-zwe-twenty-eighth-post-cabinet-press-briefing,2026-11-06,nothing,2026-11-06

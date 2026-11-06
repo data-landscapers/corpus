@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "socialmis",
-      "stage": "unplaced",
+      "stage": "4",
       "system": "",
-      "payments": "",
+      "payments": "electronic",
       "integrated": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether a social programme runs on an information system.",
-      "note": "First pass: counted from the four questions by study-ladder-socialprotection.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "ZWE-002",
+      "gaps": "No source since October 2023 names the information system that runs the HSCT, or says one serves several programmes.",
+      "note": "Reassessed 2026-11-06, unplaced to 4: the Harmonised Social Cash Transfer pays by EcoCash, and a later yes answers the earlier questions. Nothing says one system serves several programmes.",
+      "as_at": "2026-11-06"
     }
   ]
 }

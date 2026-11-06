@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SLE,socialmis,system,coverage,inservice,2023-06,SLE-001,,nothing dated since 2023-10-23
-SLE,socialmis,payments,coverage,electronic,2023-06,SLE-002,,nothing dated since 2023-10-23
-SLE,socialmis,integrated,coverage,,,,,nothing held
+SLE,socialmis,system,coverage,inservice,2024-09,SLE-001;SLE-003,,
+SLE,socialmis,payments,coverage,electronic,2023-06,SLE-002,,nothing dated since 2023-11-06
+SLE,socialmis,integrated,coverage,,,,,nothing found
