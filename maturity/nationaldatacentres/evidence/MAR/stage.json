@@ -1,17 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "national",
-   "stage": "4",
-   "centre": "two",
-   "owner": "national",
-   "state": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-024;MAR-012",
-   "gaps": "No source found says the government hosts its own data in a nationally owned data centre in the country.",
-   "note": "Counted from the four questions by study-ladder-nationaldatacentres.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "national",
+      "stage": "5",
+      "centre": "two",
+      "owner": "national",
+      "state": "hosted",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-024;MAR-012;MAR-028",
+      "gaps": "",
+      "note": "Two nationally owned data centres for hire are at Tier III or above (MAR-024, MAR-012). The social support agency's direct aid systems are hosted in the finance ministry's data centre (MAR-028), so the state's own systems are hosted nationally and the cell reaches 5.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

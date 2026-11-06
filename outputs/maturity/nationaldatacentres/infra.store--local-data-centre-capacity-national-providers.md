@@ -20,8 +20,8 @@ The African Union's Data Policy Framework (2022), §5.3.1, asks that national pr
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
-| 4 Operating | 2 |
+| 5 Leading | 8 |
+| 4 Operating | 1 |
 | 3 Established | 21 |
 | 2 Nascent | 14 |
 | 1 Absent | 0 |
@@ -62,6 +62,14 @@ Two nationally owned data centres for hire at Tier III or above by 2026, and the
 - Harel Mallac Technologies Data Center in Port Louis is described as a Tier III data center among the 10 operating; the article gives no certifier, and no date beyond its own ([source, 2025-07-16](https://www.telecomreviewafrica.com/articles/features/12397-sublime-seas-to-storage-sphere-mauritius-expands-hyperscale-data-hub/)).
 - L'Express reports that Mauritius Telecom's Rose-Belle data centre hosts government projects, among them e-Health, Mobile ID and the government portal, as seen on a minister's visit on 29 December 2025 ([source, 2025-12-29](https://lexpress.mu/node/552966)).
 
+### Morocco: 5 Leading
+
+Two nationally owned data centres for hire reach Tier III, and the state hosted its social aid systems in its own data centre in 2025.
+
+- Orange Maroc states its Casablanca data centre hosting the AWS Wavelength zone meets Tier III Design and Facilities standards (operator statement; no certifier named); date is the article's publication date ([source, 2025-02-14](https://telquel.ma/2025/02/14/cloud-souverain-orange-maroc-sallie-a-amazon-web-services_1918035)).
+- The Benguerir Data Center, now open, is described as Tier IV Design certified (design certification, 5MW IT load; certifier not named in the text) ([source, 2021-02-22](https://www.datacenterdynamics.com/en/news/university-morocco-africa-supercomputer-toubkal/)).
+- The ANSS annual report, as reported by Le Brief, says infrastructure for the direct social aid information systems is deployed in the Ministry of Economy and Finance datacenter ([source, 2025](https://www.lebrief.ma/soutien-social-un-an-apres-impact-de-lanss-100155241/)).
+
 ### Nigeria: 5 Leading
 
 Two nationally owned data centres for hire at Tier III or above by 2026, and the state's own data hosted with a national provider.
@@ -85,13 +93,6 @@ Two nationally owned data centres for hire are Tier III or above by 2025, and th
 - Orange Tunisie describes its Kalaa Kebira data centre as Tier III (operator statement, no certification named) ([source, 2025-05-06](https://www.datacenterdynamics.com/en/news/orange-launches-data-center-outside-sousse-tunisia/)).
 - DataXion states it is the only Tunisian data centre certified Tier IV by the Uptime Institute (operator claim, undated beyond the page date 2024-05-31) ([source, 2024-05-31](https://dataxion.com/en/our-certifications/)).
 - The CNI, a state body, hosts national and sectoral platforms on its own data centres, including the national vaccination platform and social aid systems during Covid-19, per its own communique ([source, 2026-01](https://www.thd.tn/tunisie-le-centre-national-de-linformatique-celebre-50-ans-au-coeur-de-la-transformation-numerique-de-letat/)).
-
-### Morocco: 4 Operating
-
-Two nationally owned data centres for hire at Tier III or above by 2025; state hosting with them not known.
-
-- Orange Maroc states its Casablanca data centre hosting the AWS Wavelength zone meets Tier III Design and Facilities standards (operator statement; no certifier named); date is the article's publication date ([source, 2025-02-14](https://telquel.ma/2025/02/14/cloud-souverain-orange-maroc-sallie-a-amazon-web-services_1918035)).
-- The Benguerir Data Center, now open, is described as Tier IV Design certified (design certification, 5MW IT load; certifier not named in the text) ([source, 2021-02-22](https://www.datacenterdynamics.com/en/news/university-morocco-africa-supercomputer-toubkal/)).
 
 ### Senegal: 4 Operating
 
