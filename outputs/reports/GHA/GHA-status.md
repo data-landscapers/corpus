@@ -1,6 +1,6 @@
 ---
 title: Ghana: status report
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: GHA
 region: XWA
 built_by: STATUS-INIT
@@ -111,7 +111,7 @@ In December 2025 Ghana signed a [US$1bn strategic investment agreement with the 
 In 2026 [MTN began a three-year programme putting US$1.1bn behind its Ghanaian infrastructure, where its previous commitment spread US$1bn over five years](https://mtn.com.gh/newsabout/advancing-leading-digital-solutions-for-africas-progress-mtn-group-ceo-visits-ghana/). The programme is announced and not contracted. [MTN Ghana's capital spending fell sharply in the first half of 2026](https://mtn.com.gh/wp-content/uploads/2026/08/Scancom-PLC-MTN-Ghana-H1-2026-Results.pdf).
 
 <!-- derived -->
-Forty-three external financing commitments to Ghana's digital sector are on the record (November 2026), with start years from 2015 to 2026 and windows running to 2030, together worth roughly US$2.7 billion attributable to Ghana. Seventeen of them are small grants committed in 2015 and reported to the OECD, together under US$3 million. That is money committed and signed rather than money disbursed, and it mixes operator capital expenditure, equity, grants and sovereign lending. Connectivity alone takes nearly three-quarters of it and training about a tenth, while digital identity draws two small commitments.
+Ghana's digital sector has drawn 239 external financing commitments on the record (November 2026), with start years from 2015 to 2026 and windows running to 2033, together worth roughly US$2.8 billion attributable to Ghana. Grants make up 220 of them, together about US$78 million (November 2026). That is money committed and signed rather than money disbursed, and it mixes operator capital expenditure, equity, grants and sovereign lending. Connectivity alone takes about seven-tenths of it and training about a tenth, while digital identity draws ten small commitments worth about US$5 million (November 2026).
 
 China Eximbank signed [a loan in December 2019 for national-security communications](http://ir.parliament.gh/handle/123456789/1466?show=full) and [one in May 2020 for rural telephony](http://www.commodafrica.com/17-11-2020-une-facilite-de-eu155-millions-de-la-china-exim-bank-pour-la-connectivite-rurale-au-ghana). In October 2020 it signed two more for distance learning, [at five tertiary institutions](https://www.dropbox.com/s/5d0syphaycniqh8/GHA%3A000814%20ICT-Based%20Distance%20Learning%20Project%20for%205%20National%20Tertiary%20Education_Overview.pdf?dl=0) and [at the Institute of Local Government Studies](https://www.dropbox.com/s/qd0jeqawhhktskd/GHA%3A000815%20ICT%20Enabled%20Distance%20Learning%20Project%20for%20the%20Institute%20of%20Local%20Government%20Studies_Financial_Information.pdf?dl=0). [Parliament approved a US$100 million China Development Bank loan in November 2020 for an Accra traffic management project, with Huawei as contractor](https://www.graphic.com.gh/news/general-news/ghana-news-100-million-loan-approved-for-accra-traffic-management-project.html).
 
