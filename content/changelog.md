@@ -1,6 +1,7 @@
 ## 6 November 2026
 
 - Non-state finance now holds 6,293 commitments, up from 1,717, after OECD aid records for 2016 to 2024 and climate-fund grants were added; the total rises from about $71.4 billion to $75.3 billion. Most new rows are small grants for statistics, health data, ICT training and weather observation, each with a scope saying how much of it counts as digital.
+- The catalogue no longer lists the 5,070 OECD aid records, whose only link opens a whole year's aid table rather than the project. They still count in the finance tables, and IATI records with a d-portal page stay listed.
 
 ## 5 November 2026
 

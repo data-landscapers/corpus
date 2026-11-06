@@ -121,6 +121,19 @@ CSV_COLS = ["title", "publisher", "author", "published", "date_precision",
 INTERNAL_COLS = ["slug"] + CSV_COLS + ["url_note"]
 
 
+# **OECD CRS records are held but not listed** *(Bill, 2026-11-06)*. Their only `url` is a
+# Data Explorer query for a whole donor-recipient-year (`DSD_CRS`), which opens a table of
+# thousands of flows rather than the activity — not a link a reader can follow to the
+# record. IATI records stay, because d-portal gives each activity a readable page; an IATI
+# record whose only link is the CRS query goes with the CRS ones. Keyed on the URL, not the
+# slug or `finance_origin`, because the URL is what makes a row unreadable.
+# `catalogue-internal.csv` still carries every row: the citation paths resolve through it,
+# and a CRS row cited by a finance table must keep resolving.
+def listed(row) -> bool:
+    u = row.get("url") or ""
+    return not ("data-explorer.oecd.org" in u and "DSD_CRS" in u)
+
+
 def items(rows):
     out = []
     # Every free-text field a reader sees, de-wikilinked. Frontmatter is the wiki's own
@@ -211,11 +224,13 @@ def facets(rows):
     return f
 
 
-def write(rows, meta, stamp):
+def write(all_rows, meta, stamp):
     os.makedirs(OUT_DIR, exist_ok=True)
+    rows = [r for r in all_rows if listed(r)]
     with open(STAMP_PATH, "w", encoding="utf-8", newline="\n") as fh:
         json.dump({"built": meta["built"],
-                   "records": len(rows),
+                   "records": len(all_rows),          # catalogue-internal.csv's rows
+                   "listed": len(rows),               # the published ones (`listed`)
                    "raw_md_files": stamp[0],
                    "raw_md_mtime_max": stamp[1]}, fh, indent=2)
         fh.write("\n")
@@ -261,11 +276,12 @@ def write(rows, meta, stamp):
         wi = csv.DictWriter(int_, fieldnames=INTERNAL_COLS, extrasaction="ignore")
         wp.writeheader()
         wi.writeheader()
-        for r in rows:
+        for r in all_rows:
             flat = dict(r)
             for k in ("places", "topics", "entities", "artefact"):
                 flat[k] = "; ".join(flat[k])
-            wp.writerow(flat)
+            if listed(r):
+                wp.writerow(flat)
             wi.writerow(flat)
     return doc
 
@@ -291,13 +307,15 @@ def main():
             print(f"catalogue: not written yet ({len(rows):,} sources would be)")
             return 1
         held = json.load(open(JSON_PATH, encoding="utf-8"))
+        rows = [r for r in rows if listed(r)]
         drift = len(rows) - held.get("count", 0)
         print(f"catalogue: {held.get('count', 0):,} rows written {held.get('built')}, "
               f"{len(rows):,} in the vault ({drift:+,})")
         return 0 if drift == 0 else 1
 
     doc = write(rows, meta, stamp)
-    print(f"catalogue: {doc['count']:,} sources -> outputs/catalogue/")
+    print(f"catalogue: {doc['count']:,} sources listed -> outputs/catalogue/ "
+          f"({len(rows) - doc['count']:,} CRS records held for citation, not listed)")
     print(f"  raw-catalogue.json {os.path.getsize(JSON_PATH)/1e6:.1f} MB, "
           f"raw-catalogue.csv {os.path.getsize(CSV_PATH)/1e6:.1f} MB "
           f"({len(CSV_COLS)} columns, published), "
