@@ -3,18 +3,18 @@
   "cells": [
     {
       "sub_indicator": "core",
-      "stage": "2",
+      "stage": "4",
       "finance": "inuse",
       "revenue": "inuse",
-      "payroll": "",
-      "renewed": "",
+      "payroll": "inuse",
+      "renewed": "live",
       "architecture": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "AGO-001",
-      "gaps": "No source found from 2023 or later says both the tax system and the payroll are in use.",
-      "note": "SIGFE runs the budget and payments, and a September 2026 CIAT paper says AGT's SIGT runs tax collection, so finance and tax are in use. Nothing found from 2023 or later on the payroll, so not 3.",
-      "as_at": "2026-10-27"
+      "stage_sources": "AGO-001;AGO-003;AGO-005;AGO-004",
+      "gaps": "No source found says the government has published an enterprise architecture or an inventory of its systems.",
+      "note": "SIGFE runs the budget and payments, SIGT runs tax, and in November 2026 the state payrolls were checked against the new SINGERH human-resources system, launched in October 2026. No published map of the systems has been found, so not 5.",
+      "as_at": "2026-11-06"
     }
   ]
 }

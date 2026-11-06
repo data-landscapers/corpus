@@ -21,9 +21,9 @@ The African Charter on the Values and Principles of Public Service and Administr
 | Stage | Countries |
 |---|---|
 | 5 Leading | 6 |
-| 4 Operating | 3 |
+| 4 Operating | 4 |
 | 3 Established | 7 |
-| 2 Nascent | 17 |
+| 2 Nascent | 16 |
 | 1 Absent | 0 |
 | Unplaced | 8 |
 | No evidence | 13 |
@@ -74,6 +74,15 @@ Finance, tax and payroll in use, one renewed, and a map of government systems pu
 - The e-Governance Academy states it completed a customised government enterprise architecture framework, plan and roadmap for Zimbabwe between September 2023 and September 2024, with over 40 MDAs taking part, and that the model is now in place ([source, 2024-09](https://ega.ee/project/enterprise-architecture-zimbabwe/)).
 - The African Development Bank states Zimbabwe completed deployment of a new online Tax and Revenue Management System, formally launched in Harare on 18 August 2025 after phased rollout from 2023 ([source, 2025-08-18](https://www.afdb.org/en/news-and-events/press-releases/zimbabwe-african-development-bank-group-funds-new-tax-collection-and-revenue-management-system-87072)).
 - ZIMRA's Public Notice 63 of 2025 (issued 14 November 2025) states that the Tax and Revenue Management System (TaRMS) already handles VAT return submission through a Tax Returns Management Module and taxpayer Self-Service Portal, with an upgrade and FDMS integration taking effect on 1 December 2025 ([source, 2025-12-01](https://www.zimra.co.zw/public-notices?download=4410%3Apublic-notice-63-of-2025-tarms-fdms-integration)).
+
+### Angola: 4 Operating
+
+Finance, tax and payroll systems in use, with a new civil-service human-resources system launched in 2026; no published map of government systems is known.
+
+- Correio Kianda reports (11 Feb 2026, citing the AGT board chairman) that the state's Sistema Integrado de Gestao Financeira do Estado (SIGFE) will automatically check with AGT for an electronic invoice before authorising payments to state suppliers, treating SIGFE as the state's running payment system ([source, 2026-02-11](https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/)).
+- CIAT authors say AGT's Integrated Tax Management System (SIGT) covers taxpayer registration, declarations, tax settlement and payment, and revenue collection and accounting for the Single Treasury Account ([source, 2026-09-08](https://www.ciat.org/modernisation-of-general-tax-administration-over-the-last-10-years-a-tax-and-customs-analysis/?lang=en)).
+- Angola's Ministry of Finance says audits cross-checked data from the newly launched civil service human resources system SINGERH against state payrolls, flagging more than 31,000 suspected ghost workers ([source, 2026-11-04](https://novojornal.co.ao/economia/detalhe/vera-daves-pede-celeridade-na-actualizacao-de-dados-cadastrais-de-funcionarios-fantasmas-para-evitar-bloqueios-salariais-75841.html)).
+- Angola's public-administration ministry officially launched SINGERH, described as the new integrated human-resources system for the civil service, in Luanda, with its database already holding some 426,000 records transferred from SIGFE ([source, 2026-10-29](https://africa-newsroom.com/press/sistema-integrado-de-gestao-de-recursos-humanos-da-funcao-publica-singerh-registra-mais-de-31-mil-trabalhadores-com-dados-cadastrais-por-regularizar-em-angola?lang=pt)).
 
 ### Gabon: 4 Operating
 
@@ -157,12 +166,6 @@ Budget, tax and payroll systems were all in use by 2026; no source found says wh
 The finance ministry launched a new budget system's first phase in 2024; no source found says whether it, tax or payroll systems are in service.
 
 - Algeria's Finance Ministry announced the launch of the first phase of deployment of the integrated budget management system (SIGB), covering revenue and expenditure, in its customs, treasury and accounting, budget and tax directorates ([source, 2024-11-29](https://lasentinelle.dz/index.php/2024/12/01/systeme-integre-de-gestion-budgetaire-sigb-lancement-de-la-premiere-phase-de-deploiement/)).
-
-### Angola: 2 Nascent
-
-The government budgets, pays and collects tax through computer systems by 2026; no source found says whether the civil-service payroll does too.
-
-- Correio Kianda reports (11 Feb 2026, citing the AGT board chairman) that the state's Sistema Integrado de Gestao Financeira do Estado (SIGFE) will automatically check with AGT for an electronic invoice before authorising payments to state suppliers, treating SIGFE as the state's running payment system ([source, 2026-02-11](https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/)).
 
 ### Botswana: 2 Nascent
 

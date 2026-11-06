@@ -11,6 +11,7 @@ AGO,SINGERH,SINGERH,other,,"Ministerio da Administracao Publica, Trabalho e Segu
 AGO,SIGT,Integrated Tax Management System,core,,AGT,,2026-09-08-ago-modernisation-of-general-tax-administration-over-the-last-10-years-a-t
 AGO,SINGERH,SINGERH,core,,MAPTSS,,2026-10-29-ago-sistema-integrado-de-gestao-de-recursos-humanos-da-funcao-publica-sing
 AGO,SIGFE,SIGFE,core,,Ministry of Finance,,2026-10-29-ago-sistema-integrado-de-gestao-de-recursos-humanos-da-funcao-publica-sing
+AGO,SINGERH,Sistema Integrado de Gestao de Recursos Humanos da Funcao Publica (SINGERH),core,,MAPTSS,,2026-11-04-ago-vera-daves-pede-celeridade-na-actualizacao-de-dados-cadastrais-de-funcionarios-f
 BDI,SIGFP_BI,Burundi,other,"custom-built open-source modules, Microsoft Server 2019 or later","Ministere des Finances, du Budget et de l'Economie Numerique (via PAFEN)","central and deconcentrated administration; tendered, not in use",2026-03-25-pafen-aao-sigfp-systeme-integre-gestion-finances-publiques
 BDI,SIGFP_BI,Burundi,other,Microsoft Server 2019 or later,"Ministere des Finances, du Budget et de l'Economie Numerique","all ministries and constitutional institutions; contract awarded, not in use",2026-04-20-digital-business-africa-burundi-sigfp-bi-gre-a-gre
 BDI,SIGFP,Burundi,other,,"Ministere des Finances, du Budget et de l'Economie Numerique","public administrations; deployment being prepared, not in use",2026-04-08-mfben-burundi-prepare-mise-en-place-sigfp
@@ -61,6 +62,8 @@ COG,Systeme integre de gestion de l'information financiere,Systeme integre de ge
 COG,Systeme integre de la paie des agents de l'Etat,Systeme integre de la paie des agents de l'Etat,other,,"Ministere du Budget, des Comptes publics et du Portefeuille public",,2024-06-06-cog-adiac-budget-trois-projets-sigfip-paie
 COG,SIGHRE,Système intégré de gestion des ressources humaines de l'État,other,,Ministère de la fonction publique,,2024-05-15-cog-voxcongo-sighre-fonction-publique
 COG,SIGFIP,Congo,other,,,,2025-10-23-cog-relance-des-operations-de-production-de-la-carte-niu
+COG,SIGFIP,SIGFIP,core,,Ministry of Economy and Finance,,2024-08-30-cog-le-secteur-du-numerique-au-congo-brazzaville
+COG,E-TAX,E-TAX,core,,Ministry of Economy and Finance,,2024-08-30-cog-le-secteur-du-numerique-au-congo-brazzaville
 COM,Portail Unique du Citoyen (PUC),Portail Unique du Citoyen,other,,ANADEN / Union des Comores,,2026-08-31-puc-gouv-km-portail-unique-citoyen-note-conceptuelle
 COM,E-Government Modernisation Project (COM 1026) digital platforms,COM,other,,ANADEN,,2026-07-30-isdb-anaden-eoi-digitalisation-supervision-cabinet
 COM,plateforme d'administration numérique (portail gouvernemental),COM,other,,ANADEN,,2026-03-12-com-bid-avis-general-passation-marches-e-gouvernement-anaden
@@ -164,6 +167,7 @@ GAB,Système intégré de gestion des ressources humaines (SIGRH),"SIGRH, terms 
 GAB,SIGFiP,"Systeme integre de gestion des finances publiques (SIGFiP), module 1 validated",other,,Ministry of Economy and Finance,,2025-12-22-gab-gabon-finances-publiques-le-projet-sigfip-franchit-une-etape-decisive
 GAB,SIGFIP,"Systeme Integre de Gestion des Finances Publiques (SIGFIP), project",other,,Ministry of Economy and Finance,,2025-10-29-gab-projet-sigfip-des-agents-du-tresor-public-gabonais-edifies
 GAB,SIGFiP,"integrated budget, accounting and financial management system (contract awarded to IKA)",other,,Ministere des Comptes Publics,central,2024-10-03-gab-fourniture-d-un-systeme-d-information-integre-de-gestion-budgetaire-co
+GAB,SIGFiP,SIGFiP,other,,Ministry of Digital Economy,"interconnection of financial administrations, said to be already being deployed",2025-10-31-gab-gabon-launches-pilot-phase-to-digitize-social-and-fiscal-funds
 GHA,Integrated Tax Administration System (ITAS),Integrated Tax Administration System (ITAS),core,,Ghana Revenue Authority,,2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment
 GHA,Ghana Integrated Tax Management and Information System (GITMIS),Ghana Integrated Tax Management and Information System (GITMIS),core,,Ghana Revenue Authority,,2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment
 GHA,Integrated Customs Management System (ICUMS),Integrated Customs Management System (ICUMS),other,,Ghana Revenue Authority,,2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment
@@ -197,6 +201,7 @@ GHA,National Payroll,Government of Ghana payroll system,core,,Controller and Acc
 GHA,Mechanized Payroll System,Mechanized Payroll System,core,,Controller and Accountant General Department,,2024-01-15-gha-government-launches-integrated-database-for-payroll-validation-and-ver
 GHA,"Sentinel System (Real-Time VAT, RTVAT)",Sentinel System,other,,Ghana Revenue Authority,,2026-10-08-gha-graphic-gra-real-time-vat-sentinel-digital-services
 GHA,GIFMIS,GIFMIS,other,,Government of Ghana,,2025-12-11-gha-2026-budget-through-lens-of-communication-digital-transformation
+GHA,Ghana.gov,Ghana,other,eGovernment Digital Services platform,"Ministry of Communication, Digital Technology and Innovations",,2026-11-03-gha-refonte-ghana-gov-cbrain-omni-strategies-contract
 GIN,GEDA,GEDA,other,,Presidency,,2026-08-14-guinea-geda-doumbouya-decrets-arretes
 GIN,GEME,GEME,other,,Government,,2026-08-13-guinea-geme-digitalisation-missions-etat
 GIN,RTGS,RTGS,other,,BCRG,,2026-07-31-guinee-bcrg-projets-reformes-dsmp
@@ -256,6 +261,8 @@ KEN,UHR,Kenya,core,,National Treasury,,2024-06-14-ken-imf-forces-kenya-to-implem
 KEN,iTax,Kenya,core,,Kenya Revenue Authority,,2024-06-14-ken-imf-forces-kenya-to-implement-itax-linked-payroll-and-ifmis-linked-e-p
 KEN,IFMIS,Kenya,core,,National Treasury,,2024-06-14-ken-imf-forces-kenya-to-implement-itax-linked-payroll-and-ifmis-linked-e-p
 KEN,Integrated Customs Management System (iCMS),iCMS,other,,Kenya Revenue Authority,,2025-07-27-ken-kra-to-overhaul-customs-system-fully-automate-cargo-operations-by-2026
+KEN,IFMIS,Kenya,other,,,,2023-11-11-ken-gov-t-launches-phase-4-5-of-the-last-mile-county-connectivity-project
+KEN,eGP,Kenya eGP system,other,,National Treasury,,2026-11-04-ken-ipf-and-treasury-review-kenya-s-electronic-government-procurement-e-gp-progress
 LBR,IFMIS,IFMIS,core,,Ministry of Finance and Development Planning,,2019-07-16-wb-lbr-001-liberia-public-financial-management-reforms-for
 LBR,integrated tax administration system,integrated tax administration system components (revenue administration systems),other,,,,2019-07-16-wb-lbr-001-liberia-public-financial-management-reforms-for
 LBR,customs management information system,customs management information system,other,,,,2019-07-16-wb-lbr-001-liberia-public-financial-management-reforms-for
@@ -601,3 +608,4 @@ ZWE,TaRMS,Zimbabwe Revenue Authority Tax and Revenue Management System,core,,Zim
 ZWE,National Budget Automation System (Blue Book System),Zimbabwe,other,,,,2026-09-23-zwe-sirdc-budget-automation-pilot
 ZWE,Enterprise Architecture Model for e-government,Zimbabwe,other,,Government,,2026-02-08-zwe-minister-mavetera-defends-zimbabwe-s-ai-drive-addresses-infrastructure
 ZWE,TaRMS,Zimbabwe,core,,Zimbabwe Revenue Authority,,2024-10-10-zwe-public-notice-78-of-2024-tax-and-revenue-management-system-tarms-relea
+ZWE,e-passport system,Zimbabwe,other,,Civil Registry Department,,2026-03-02-zwe-zimbabwe-to-fully-automate-passport-applications-before-year-end

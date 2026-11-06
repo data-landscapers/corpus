@@ -33,3 +33,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-27,MWI,infra.capacity--robustness-of-government-hardware-and-software,fact,2,2,MWI-004,"Accountant General (2024): IFMIS fully operational, payroll on HRMIS; tax not held, stays 2"
 2026-10-27,TZA,infra.capacity--robustness-of-government-hardware-and-software,fact,no evidence,2,TZA-001,"Ministry of Finance (Feb 2025): MUSE Government Payment System in use; money answered, 2"
 2026-10-27,UGA,infra.capacity--robustness-of-government-hardware-and-software,fact,5,5,UGA-002;UGA-004,REAP page (2024): payroll on current pension and payroll system; stays 5
+2026-11-06,AGO,infra.capacity--robustness-of-government-hardware-and-software,fact,2,4,AGO-001;AGO-003;AGO-005;AGO-004,"Novo Jornal 2026-11-04: state payrolls cross-checked against SINGERH, the civil-service HR system launched 2026-10-29; payroll in use and renewed, 2 to 4"
