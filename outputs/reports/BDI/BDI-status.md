@@ -1,6 +1,6 @@
 ---
 title: Burundi: status report
-compiled: 2026-11-05
+compiled: 2026-11-06
 place: BDI
 region: XEA
 built_by: STATUS-INIT
@@ -107,13 +107,13 @@ National resources carry 28.6% of the digital lines of the 2026/27 budget law at
 [The World Bank's Digital Foundations Project, known in Burundi as PAFEN, is a USD 50 million IDA commitment running from 2022 to 2028](https://projects.worldbank.org/en/projects-operations/project-detail/P176396). [A further USD 42 million of additional financing, approved in January 2024, put the emphasis on public financial management](https://projects.worldbank.org/en/projects-operations/project-detail/P180987). [Huawei financed a USD 30 million recovery plan for the state operator ONATEL, adopted by the Council of Ministers in November 2017](https://www.iwacu-burundi.org/qui-a-tue-lonatel/). [Its repayment was drawn from the revenues of ONATEL's mobile arm, which proved insufficient (2020)](https://www.iwacu-burundi.org/qui-a-tue-lonatel/).
 
 <!-- derived -->
-Eight country-level digital commitments to Burundi are recorded, at a combined USD 149 million (November 2026): three from the World Bank at USD 107 million, the Huawei credit to ONATEL at USD 30 million, Lumitel's share of the rural 4G contract at about USD 6 million and about USD 6 million of United States money for health data systems, still in the pipeline. Two 2015 grants, for a health survey and for birth registration, come to well under USD 1 million (November 2026). A German development grant reaches the country only through a regional East African Community programme (October 2026).
+Burundi's digital estate has drawn 57 external commitments, worth about USD 187 million on windows running from 2015 to 2030 (November 2026). Of these, three are active, one approved, one in the pipeline and 52 carry no recorded status. Six from the World Bank come to USD 127 million and the Huawei credit to ONATEL to USD 30 million (November 2026). Lumitel's share of the rural 4G contract and United States money for health data systems, still in the pipeline, are about USD 6 million each (November 2026). The other 48 are grants from bilateral, United Nations and foundation donors, together about USD 18 million (November 2026). A German development grant reaches the country only through a regional East African Community programme (October 2026).
 
 <!-- derived -->
-Connectivity takes the largest share of the digital money committed to Burundi, ahead of government technology and public financial management, with the ONATEL credit third and digital payments fourth.
+Connectivity takes the largest share of the digital money committed to Burundi, ahead of government technology and public financial management, with national statistics third, sectoral management information systems fourth and digital payments fifth.
 
 <!-- derived -->
-The money arrives mostly as World Bank financing to the Republic of Burundi, with one vendor credit to the state operator, one commitment structured as a public-private partnership and one United States grant still in the pipeline.
+The money arrives mostly as World Bank financing, with one vendor credit to the state operator, one commitment structured as a public-private partnership, one United States grant still in the pipeline and 48 smaller donor grants.
 
 [In March 2026 an integrated public financial management system, SIGFP_BI, was out to tender under the IDA grants that finance PAFEN](https://pafen.gov.bi/wp-content/uploads/2026/03/AAO_SIGFP.pdf). [In March 2026 Lumitel signed a PAFEN contract that pairs World Bank money with its own investment](https://techafricanews.com/2026/03/04/lumitel-burundi-launches-10m-high-speed-internet-project-across-the-country/). [The World Bank's USD 150 million Cash for Jobs Project, approved in December 2021, carries a digital-payments component](https://projects.worldbank.org/en/projects-operations/project-detail/P175327). [In August 2026 Germany's BMZ gave EUR 5 million to the East African Community for a regional artificial-intelligence and digital-skills network](https://www.ippmedia.co.tz/the-guardian/news/local-news/read/eac-obtains-eur5m-for-ai-network-training-youths-2026-08-13-103440).
 
