@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-crs-12-2023000506-2024-developing-public-sector-capability-for-spatialise",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "The UK FCDO reported a USD 91,174 grant commitment in 2024 to build a National Treasury capability to mine and analyse anonymised, spatialised public administrative data sources in South Africa.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National Treasury spatialised administrative data capability",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Treasury spatialised administrative data capability",
+   "country_label": "Developing Public Sector Capability for Spatialised Economic Activity Data",
+   "class": "admin",
+   "platform": "",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

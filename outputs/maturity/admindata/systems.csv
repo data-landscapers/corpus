@@ -8,6 +8,7 @@ AGO,Anuarios Estatisticos do Ensino Superior 2021-2022 to 2023-2024,"Anuarios Es
 AGO,Anuario Estatistico do Ensino Superior 2023-2024,Anuario Estatistico do Ensino Superior 2023-2024 (10th edition),admin,SEIES-R.A,MESCTI,,2024-10-01-ago-mescti-anuario-estatistico-ensino-superior-2023-24
 AGO,Anuario de Estatisticas Sociais 2017-2022,Anuario de Estatisticas Sociais 2017-2022,admin,,INE,,2024-01-01-ago-anuario-de-estatisticas-sociais-2017-2022
 AGO,SIGE,Anuario Estatistico da Educacao 2022/2023,admin,SIGE,Ministry of Education (GEPE),,2025-01-01-ago-anuario-estatistico-da-educacao-2022-2023-med
+AGO,Anuário Estatístico da Educação,Anuário Estatístico da Educação,other,,"Gabinete de Estudos, Planeamento e Estatística, Ministério da Educação",,2026-08-05-ago-empresa-angolana-assume-implementacao-tecnica-do-sistema-de-dados-da-e
 BDI,"Annuaire statistique du MCTIT, edition 2024",Annuaire statistique du MCTIT 2024,admin,,"Ministere du Commerce, du Transport, de l'Industrie et du Tourisme",,2026-01-01-mctit-annuaire-statistique-edition-2024
 BDI,"Annuaire statistique de l'education 2024-2025, Tome 2",Annuaire statistique de l'education 2024-2025,admin,,"MENRS, Bureau de la Planification et des Statistiques de l'Education",,2025-12-01-menrs-annuaire-statistique-education-2024-2025-tome-2
 BDI,"Annuaire statistique du Burundi, edition 2023",Annuaire statistique du Burundi 2023,admin,,Institut National de la Statistique du Burundi (INSBU),,2024-12-01-insbu-annuaire-statistique-du-burundi-edition-2023
@@ -137,6 +138,7 @@ LSO,Digital birth registration system (Ntlafatsa Bana),Digital birth registratio
 LSO,NISSA,NISSA,other,,,,2025-06-19-lesotho-ntlafatsa-bana-nissa-digital-birth-registration
 LSO,Vital Statistics Report 2022,Vital Statistics Report 2022,admin,,Bureau of Statistics Lesotho,,2025-04-01-lso-bos-publications
 MAR,National digital civil registration system (Law 36.21),National digital civil registration system,other,,Ministry of the Interior,,2026-09-15-crvs-laws-morocco-coordination-technology
+MAR,Massar,Massar,other,,Ministry of National Education,,2024-11-01-mar-le-ministere-de-l-education-nationale-lance-le-processus-global-de-rec
 MDG,Rahaka,Rahaka national interoperability platform,other,X-Road,Unite de Gouvernance Digitale (UGD),,2026-04-29-guichet-unique-en-ligne-interoperabilite-rahaka-lexpress
 MDG,Rahaka,Rahaka national interoperability platform,other,,UGD,,2026-04-29-interoperabilite-nationale-instat
 MDG,Rahaka,Rahaka national interoperability platform,other,X-Road,UGD,,2026-04-29-newsmada-rahaka-interoperability-platform-launch
@@ -186,12 +188,14 @@ MOZ,MOZDATA,MOZDATA microdata catalogue,other,NADA-style catalogue,Instituto Nac
 MUS,Fisheries Information System (FIS),Fisheries Information System (proposed),other,,"Ministry of Agro-Industry, Food Security, Blue Economy and Fisheries",,2026-08-21-lexpress-mu-systeme-information-integre-peches-cotieres
 MUS,computerised system at the Civil Status Division,Civil Status Division computerised system,other,,Civil Status Division,,2026-08-28-mus-statsmauritius-pop-vital-jan-jun-2026
 MUS,Statistical Business Register,Mauritius,admin,,Statistics Mauritius,,2024-10-01-mus-statsmauritius-annual-report-2023-2024
+MUS,MauStats Phase 2,MauStats Phase 2,other,MauStats,Statistics Mauritius,,2026-10-28-mus-undp-and-statistics-mauritius-maustats-platform-phase-2
 MWI,National Payments System Report,National Payments System Report,other,,Reserve Bank of Malawi,,2026-03-30-mobile-money-k38tn-2025-nps-report-times
 MWI,National Payments System Report,National Payments System Report,other,,Reserve Bank of Malawi,,2025-11-18 Malawi Hits 20 Million Mobile Money Subscribers Amid Rising Digital Payments
 MWI,National Payments System Report,National Payments System Report,other,,Reserve Bank of Malawi,,2025-04-16 Mobile money deals hit K19.5tn in 2024
 MWI,National Payment Systems report (Reserve Bank of Malawi),National Payment Systems report Q3 2024,other,,Reserve Bank of Malawi,,2025-01-22 National payment system registers growth in 2024 Quarter 3
 MWI,Vital Statistics Report (2015-2022),Vital Statistics Report 2015-2022,admin,,Ministry of Homeland Security / NRB with NSO,,2025-04-23-mwi-nyasatimes-vital-statistics-report-launch
 MWI,Electronic birth registration system (eBRS),Malawi,vital,,National Registration Bureau,health facility; district registration office; headquarters,2025-04-01-mwi-nso-vital-statistics-report-civil-registration
+MWI,CRVS project through the National Registration Bureau (PEPFAR),Malawi,other,,National Registration Bureau,,2024-01-01-crs-302-2024001640-2024-global-aids-scaling-up-and-improving-quality-of-ci
 NAM,DHIS2,DHIS2 routine health facility data,other,DHIS2,Ministry of Health,,2025-06-01-nam-namibia-analysis-report-2025-analysis-of-reproductive-maternal-newborn
 NAM,2023 vital statistics report,2023 vital statistics report,vital,,,,2025-06-01-nam-namibia-analysis-report-2025-analysis-of-reproductive-maternal-newborn
 NAM,National Labour Market Information System (NaLMIS),NaLMIS,other,,Namibia Statistics Agency with Ministry of Justice and Labour Relations,,2026-09-25-nam-nampa-labour-market-info-system
