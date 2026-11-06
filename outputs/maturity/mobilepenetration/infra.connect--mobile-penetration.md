@@ -21,8 +21,8 @@ The African Union's Digital Transformation Strategy 2020–2030 asks that every 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 3 |
-| 4 Operating | 12 |
-| 3 Established | 16 |
+| 4 Operating | 11 |
+| 3 Established | 17 |
 | 2 Nascent | 12 |
 | 1 Absent | 8 |
 | Unplaced | 2 |
@@ -53,12 +53,6 @@ In 2024, 95 per cent of people aged 10 and over owned a mobile phone, by an inte
 In 2024, 92.7 per cent of people aged 10 and over owned a mobile phone, by an international estimate.
 
 - 92.7 per cent of people aged 10 and over in Algeria owned a mobile phone in 2024, an estimate by the International Telecommunication Union ([source, 2024](https://unstats.un.org/sdgs/dataportal)).
-
-### Cape Verde: 4 Operating
-
-In 2024, 81.4 per cent of people aged 10 and over owned a mobile phone, by an international estimate.
-
-- 81.4 per cent of people aged 10 and over in Cape Verde owned a mobile phone in 2024, an estimate by the International Telecommunication Union ([source, 2024](https://unstats.un.org/sdgs/dataportal)).
 
 ### Eswatini: 4 Operating
 
@@ -137,6 +131,12 @@ In 2024, 68.7 per cent of people aged 10 and over owned a mobile phone, by a nat
 In 2024, 67.4 per cent of people aged 10 and over owned a mobile phone, by an international estimate.
 
 - 67.4 per cent of people aged 10 and over in Cameroon owned a mobile phone in 2024, an estimate by the International Telecommunication Union ([source, 2024](https://unstats.un.org/sdgs/dataportal)).
+
+### Cape Verde: 3 Established
+
+In 2024, 76.3 per cent of people aged 10 and over owned a mobile phone, by a national survey.
+
+- Cabo Verde's national statistics institute INE, presenting its continuous multi-purpose survey IMC 2024, gives 76.3% of the population aged 10 and over as owning a mobile phone ([source, 2024](https://www.itu.int/itu-d/sites/projectumc/wp-content/uploads/sites/42/2025/11/Day-3-Cabo-Verde.pdf)).
 
 ### Congo: 3 Established
 
