@@ -1,17 +1,18 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "displaced",
-   "stage": "3",
-   "registration": "documented",
-   "access": "",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SDN-002",
-   "gaps": "No source found since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
-   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "displaced",
+      "stage": "3",
+      "registration": "documented",
+      "access": "",
+      "counted": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SDN-002",
+      "gaps": "No source found since October 2023 says refugees or displaced people may hold SIM cards, mobile money or bank accounts as a rule; the one account held (SDN-004) is of a single displaced woman using a banking app in 2024, which does not carry the country. No count of displaced people with such services is held.",
+      "note": "The Commission for Refugees' UNHCR-approved registry exceeds 950,000 refugees under the Foreign Number system (SDN-002), so 3. A single displaced person paid through a banking app (SDN-004) does not show that displaced people may use such services, so not 4.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }
