@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-05-crs-301-20240105860001-2024-ai-living-lab-for-innovative-and-viable-ethical-po",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The document says Senegal has published a national AI strategy.",
+   "as_of": "2024-09-05",
+   "date_precision": "day",
+   "system": "Senegal national AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Senegal national AI strategy",
+   "country_label": "Senegal",
+   "class": "strategy",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
