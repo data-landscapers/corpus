@@ -160,8 +160,9 @@ Digital-skills training for civil servants was under way in 2026; a standing pro
 
 ### Burkina Faso: 2 Nascent
 
-Digital-skills training for civil servants was under way in 2024; a standing programme is not on record.
+Tax agents began digital-tools courses in November 2026; a standing programme with a number trained is not on record.
 
+- The DISMEFIP project launched on 4 November 2026 training sessions for over 400 Directorate General of Taxes agents on three digital platforms (eSINTAX JAVA, SYGMEF, SYC@D), in four cities ([source, 2026-11-04](https://lefaso.net/spip.php?article150547)).
 - The record says the World Bank-funded PACTDIGITAL project, reported 2024-03-11, includes public-administration skills among its components ([source, 2024-03-11](https://projects.worldbank.org/en/projects-operations/project-detail/P177022)).
 
 ### Burundi: 2 Nascent

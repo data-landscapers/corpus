@@ -1,17 +1,18 @@
 {
- "iso3": "BFA",
- "cells": [
-  {
-   "sub_indicator": "csskills",
-   "stage": "2",
-   "training": "underway",
-   "reach": "",
-   "share": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BFA-001",
-   "gaps": "No source found since October 2023 says: is a standing programme in service.",
-   "note": "First pass: counted from the four questions by study-ladder-civilserviceskills.py."
-  }
- ]
+  "iso3": "BFA",
+  "cells": [
+    {
+      "sub_indicator": "csskills",
+      "stage": "2",
+      "training": "underway",
+      "reach": "",
+      "share": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BFA-002;BFA-001",
+      "gaps": "No source found says a standing programme has trained a stated number of civil servants: the tax directorate's sessions launched in November 2026 are under a 2026-2028 project.",
+      "note": "Stage 4c 2026-11-06: DISMEFIP launched digital-tools training for over 400 tax agents on 4 November 2026, a course held, which answers question 1. A time-bound project that has yet to report a number trained is not a standing programme in service.",
+      "as_at": "2026-11-06"
+    }
+  ]
 }

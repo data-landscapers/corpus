@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-crs-302-2024004932-2024-ai4a-artificial-intelligence-for-africa",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The US State Department reported a USD 95,000 grant for the AI4A programme, a collaboration of AfDB, Intel, the US Embassy and the Ivorian government that aims to train Ivorian civil servants in AI.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "AI4A",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI4A",
+   "country_label": "Cote d'Ivoire",
+   "class": "csskills",
+   "platform": "",
+   "owner": "AfDB, Intel, US Embassy, Ivorian government",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
