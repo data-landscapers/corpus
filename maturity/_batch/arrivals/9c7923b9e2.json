@@ -1,95 +1,94 @@
 {
  "slug": "2026-11-05-cod-ue-pnud-digitalisation-justice-recettes-judiciaires",
  "studies": {
-  "businesspayments": {
+  "customs": {
    "countries": {
     "COD": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing this study asks for COD."
+     "note": "Court-fee and justice digitalisation only; nothing for this study."
     }
    }
   },
-  "centralbank": {
+  "educationexchange": {
    "countries": {
     "COD": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing this study asks for COD."
+     "note": "Court-fee and justice digitalisation only; nothing for this study."
     }
    }
   },
-  "consumerprotection": {
+  "educationmis": {
    "countries": {
     "COD": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing this study asks for COD."
+     "note": "Court-fee and justice digitalisation only; nothing for this study."
     }
    }
   },
-  "crossborderpayments": {
+  "health": {
    "countries": {
     "COD": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing this study asks for COD."
+     "note": "Court-fee and justice digitalisation only; nothing for this study."
     }
    }
   },
-  "g2ppayments": {
+  "healthmis": {
    "countries": {
     "COD": {
      "facts": [],
      "systems": [],
-     "note": "Document states nothing this study asks for COD."
+     "note": "Court-fee and justice digitalisation only; nothing for this study."
     }
    }
   },
-  "paymentsuptake": {
-   "countries": {
-    "COD": {
-     "facts": [],
-     "systems": [],
-     "note": "Document states nothing this study asks for COD."
-    }
-   }
-  },
-  "retailpayments": {
-   "countries": {
-    "COD": {
-     "facts": [],
-     "systems": [],
-     "note": "Document states nothing this study asks for COD."
-    }
-   }
-  },
-  "revenuecollection": {
+  "justice": {
    "countries": {
     "COD": {
      "facts": [
       {
-       "sub_indicator": "revenue",
-       "aspect": "payment",
+       "sub_indicator": "justice",
+       "aspect": "cases",
        "value": "underway",
-       "fact": "On 5 November 2026 DR Congo's Ministry of Justice launched digitalisation of court-fee collection with UNDP support and EU funding, to progressively replace manual collection, with the nationality certificate among the first processes (Actualite.cd).",
+       "fact": "Actualite.cd reports the Ministry of Justice launched on 5 November 2026, with UNDP support and EU funding, the interconnection of courts, prosecutors' offices and prisons on a common digital infrastructure for judicial and prison management applications, to be extended progressively.",
        "as_of": "2026-11-05",
        "date_precision": "day",
-       "system": "Digital court-fee payment solution",
-       "class": "revenue"
+       "system": "interconnection of courts, prosecutors' offices and prisons",
+       "class": "justice"
       }
      ],
      "systems": [
       {
-       "system": "Digital court-fee payment solution",
-       "country_label": "DR Congo",
-       "class": "revenue",
+       "system": "interconnection of courts, prosecutors' offices and prisons",
+       "country_label": "DR Congo justice interconnection",
+       "class": "justice",
+       "platform": "",
+       "owner": "Ministry of Justice",
+       "tiers": ""
+      },
+      {
+       "system": "digital court-fee collection",
+       "country_label": "DR Congo court fees",
+       "class": "other",
        "platform": "",
        "owner": "Ministry of Justice",
        "tiers": ""
       }
      ],
      "note": ""
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Court-fee and justice digitalisation only; nothing for this study."
     }
    }
   }

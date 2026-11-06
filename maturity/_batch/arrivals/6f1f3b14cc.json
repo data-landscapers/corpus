@@ -1,0 +1,25 @@
+{
+ "slug": "2024-01-01-crs-2-2024001189-2024-programme-de-renforcement-des-competences-des-cadr",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "MAR": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Belgium's cooperation programme, EUR 3.5 million over five years (2018-2023), strengthens the digital skills of central and local civil servants in Morocco, with the digital transition ministry meant to replicate the model; no number trained is given.",
+       "as_of": "2018",
+       "date_precision": "year",
+       "system": "Programme de renforcement des comp\u00e9tences des cadres de la fonction publique",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

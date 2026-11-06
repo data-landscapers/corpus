@@ -1,0 +1,50 @@
+{
+ "slug": "2024-01-01-crs-11-2023000944-2024-digitalizing-the-civil-registry-books-in-guinea-bi",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Swiss grant to scan existing registry books (back-capture); no digital registration of new events or ID link stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Swiss grant to scan existing registry books (back-capture); no digital registration of new events or ID link stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Swiss grant to scan existing registry books (back-capture); no digital registration of new events or ID link stated."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Scanning and digitalisation of civil registry books",
+       "country_label": "Guinea-Bissau",
+       "class": "archive",
+       "platform": "",
+       "owner": "Ministry of Justice",
+       "tiers": ""
+      }
+     ],
+     "note": "Swiss grant to scan existing registry books (back-capture); no digital registration of new events or ID link stated."
+    }
+   }
+  }
+ }
+}

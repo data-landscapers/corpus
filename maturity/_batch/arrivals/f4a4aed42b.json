@@ -1,0 +1,23 @@
+{
+ "slug": "2024-01-01-crs-932-2024001934-2024-development-of-spars-in-namibia-and-the-developmen",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Namibia Census of Agriculture",
+       "country_label": "Namibia Census of Agriculture",
+       "class": "other",
+       "platform": "",
+       "owner": "FAO (supporter)",
+       "tiers": ""
+      }
+     ],
+     "note": "FAO grant for an agricultural census, not a population census or household survey."
+    }
+   }
+  }
+ }
+}

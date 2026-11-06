@@ -1,0 +1,77 @@
+{
+ "slug": "2024-12-19-crs-1601-2024012782-02-2024-campaign-worker-databases-to-facilitate-rapid-digi",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant description for polio campaign worker payments; no payment system, rule or figure for the studies asked."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant description for polio campaign worker payments; no payment system, rule or figure for the studies asked."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant description for polio campaign worker payments; no payment system, rule or figure for the studies asked."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant description for polio campaign worker payments; no payment system, rule or figure for the studies asked."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant description for polio campaign worker payments; no payment system, rule or figure for the studies asked."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant description for polio campaign worker payments; no payment system, rule or figure for the studies asked."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant description for polio campaign worker payments; no payment system, rule or figure for the studies asked."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "A Gates Foundation grant description for polio campaign worker payments; no payment system, rule or figure for the studies asked."
+    }
+   }
+  }
+ }
+}

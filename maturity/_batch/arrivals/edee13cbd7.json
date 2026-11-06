@@ -1,0 +1,43 @@
+{
+ "slug": "2024-01-01-crs-21-2024000269-2024-tech-challenge",
+ "studies": {
+  "startups": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Donor-funded start-up programme only; no state startup law, labelling or public fund is stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "inservice",
+       "fact": "Ireland's Department of Foreign Affairs committed USD 60,696 in 2024 to the Irish Tech Challenge South Africa, a programme that each year identifies high-potential tech start-ups, with Wits Incubator named as channel of delivery.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Irish Tech Challenge South Africa",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Irish Tech Challenge South Africa",
+       "country_label": "South Africa",
+       "class": "hub",
+       "platform": "",
+       "owner": "Wits Incubator (Pty) Ltd",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,12 +1,23 @@
-{"slug":"2026-11-02-lbr-liberia-lrrrc-sets-november-4-for-launch-of-biometric-registration-for-burkinabe","studies":{
-"authentication":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Nothing on an authentication service."}}},
-"birthidlink":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Nothing on a civil register and ID link."}}},
-"idcoverage":{"countries":{"LBR":{"facts":[],"systems":[],"note":"No enrolment count or share for the national ID."}}},
-"idfrombirth":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Nothing on a number at birth."}}},
-"idmaintenance":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Nothing on who operates, maintains or owns the system."}}},
-"idregisters":{"countries":{"LBR":{"facts":[],"systems":[],"note":"No register keyed on the ID number."}}},
-"idrobustness":{"countries":{"LBR":{"facts":[
-{"sub_indicator":"robustness","aspect":"system","value":"underway","fact":"The National Identification Registry is to provide technical infrastructure and biometric identification expertise so that each eligible migrant registered between 2026-11-05 and 2026-12-31 receives a unique identity and is enrolled in Liberia's National Biometric Identification System (LRRRC, via FrontPageAfrica).","as_of":"2026-11-02","date_precision":"day","system":"National Biometric Identification System","class":"idsystem"}],"systems":[{"system":"National Biometric Identification System","country_label":"Liberia","class":"idsystem","platform":"","owner":"National Identification Registry","tiers":""}],"note":"No duplicate checks or certification stated."}}},
-"localgov":{"countries":{"LBR":{"facts":[],"systems":[],"note":"Nothing on local government offices or their connection."}}},
-"refugees":{"countries":{"LBR":{"facts":[],"systems":[],"note":"The exercise registers undocumented migrants, chiefly Burkinabe nationals, and the document does not call them refugees or displaced people."}}}
-}}
+{
+ "slug": "2026-11-02-lbr-liberia-lrrrc-sets-november-4-for-launch-of-biometric-registration-for-burkinabe",
+ "studies": {
+  "idverification": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The exercise enrols migrants in the ID system itself, which is ID enrolment, not another system relying on it, and not civil registration."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "The exercise enrols migrants in the ID system itself, which is ID enrolment, not another system relying on it, and not civil registration."
+    }
+   }
+  }
+ }
+}

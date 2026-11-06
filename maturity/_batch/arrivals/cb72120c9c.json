@@ -1,5 +1,115 @@
-{"slug": "2026-07-28-gmb-thousands-of-beneficiaries-receive-nafa-cash-transfer", "studies": {
-"g2ppayments": {"countries": {"GMB": {"facts": [{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "The Standard reports that the Nafa cash transfer, run by the National Nutrition Agency with the Department of Community Development and the Directorate of Social Welfare under the World Bank-funded RISE Project, was paid electronically through QMoney's platform, provincial beneficiaries receiving their fifth round and Banjul, KMC and parts of Kombo their first.", "as_of": "2026-07", "date_precision": "month", "system": "Nafa Cash Transfer via QMoney", "class": "g2p"}], "systems": [{"system": "Nafa Cash Transfer", "country_label": "GMD 3,000 monthly paid via QMoney, nationwide rollout complete", "class": "g2p", "platform": "QMoney", "owner": "National Nutrition Agency", "tiers": "national"}], "note": ""}}},
-"localgov": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Nothing on local government offices or their connection."}}},
-"socialprotection": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Payments and verification are described but no programme management information system is named."}}}
-}}
+{
+ "slug": "2026-07-28-gmb-thousands-of-beneficiaries-receive-nafa-cash-transfer",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on a cash transfer payout states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on a cash transfer payout states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on a cash transfer payout states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on a cash transfer payout states nothing this study asks."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on a cash transfer payout states nothing this study asks."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on a cash transfer payout states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on a cash transfer payout states nothing this study asks."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on a cash transfer payout states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Standard reports that Nafa cash transfer payments to beneficiaries were made electronically via QMoney's platform, with transaction fees covered by the programme.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "QMoney",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "QMoney",
+       "country_label": "Gambia",
+       "class": "retail",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Article on a cash transfer payout states nothing this study asks."
+    }
+   }
+  }
+ }
+}

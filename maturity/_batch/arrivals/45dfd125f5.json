@@ -1,0 +1,79 @@
+{
+ "slug": "2024-01-01-crs-2-2024009283-2024-projet-pilote-de-digitalisation-du-registre-de-la",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "No link between civil register and ID stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The pilot is a population register; no digital birth or death registration stated."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Plan National du Numerique is named only; standing and scope not stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "No number at birth stated."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "Belgium (Brussels) funded a USD 43,262 pilot project in 2024 to give the commune of Kintambo in Kinshasa a digital, secured population register linked to the Ville-Province.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Digital population register, commune of Kintambo (pilot)",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital population register, commune of Kintambo (pilot)",
+       "country_label": "DR Congo",
+       "class": "population",
+       "platform": "",
+       "owner": "Commune de Kintambo",
+       "tiers": "commune; Ville-Province de Kinshasa"
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "The project is a population register, not a civil registration office system."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "slug": "2025-04-23-soff-united-republic-of-tanzania-soff-investment-phase-annual-report-2024",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Report covers weather observation stations; no farming use of satellite data stated."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "No digital-skills training for civil servants stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on digital financial services."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a UNDP grievance mechanism for the project, not a government channel for public services."
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Surface and upper-air station build-out under GBON; no satellite data reception or use stated."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Launch event with CSOs on a donor project; no named digital law or policy put to people."
+    }
+   }
+  }
+ }
+}

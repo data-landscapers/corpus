@@ -1,75 +1,21 @@
 {
  "slug": "2026-11-05-somalia-to-establish-ai-academy",
  "studies": {
-  "aiabuse": {
+  "schoolinternet": {
    "countries": {
     "SOM": {
      "facts": [],
      "systems": [],
-     "note": "MoU to set up an AI training academy at a university AI centre; no study question is answered for SOM."
+     "note": "An AI academy MoU; no school internet share or compulsory curriculum stated."
     }
    }
   },
-  "aigovernment": {
+  "stemgraduates": {
    "countries": {
     "SOM": {
      "facts": [],
      "systems": [],
-     "note": "MoU to set up an AI training academy at a university AI centre; no study question is answered for SOM."
-    }
-   }
-  },
-  "aisectoral": {
-   "countries": {
-    "SOM": {
-     "facts": [],
-     "systems": [],
-     "note": "MoU to set up an AI training academy at a university AI centre; no study question is answered for SOM."
-    }
-   }
-  },
-  "aistrategy": {
-   "countries": {
-    "SOM": {
-     "facts": [],
-     "systems": [],
-     "note": "MoU to set up an AI training academy at a university AI centre; no study question is answered for SOM."
-    }
-   }
-  },
-  "aisystems": {
-   "countries": {
-    "SOM": {
-     "facts": [],
-     "systems": [],
-     "note": "MoU to set up an AI training academy at a university AI centre; no study question is answered for SOM."
-    }
-   }
-  },
-  "civilserviceskills": {
-   "countries": {
-    "SOM": {
-     "facts": [],
-     "systems": [],
-     "note": "MoU to set up an AI training academy at a university AI centre; no study question is answered for SOM."
-    }
-   }
-  },
-  "digitalskills": {
-   "countries": {
-    "SOM": {
-     "facts": [],
-     "systems": [],
-     "note": "MoU to set up an AI training academy at a university AI centre; no study question is answered for SOM."
-    }
-   }
-  },
-  "techhubs": {
-   "countries": {
-    "SOM": {
-     "facts": [],
-     "systems": [],
-     "note": "MoU to set up an AI training academy at a university AI centre; no study question is answered for SOM."
+     "note": "An AI academy MoU; no STEM graduate share or research network stated."
     }
    }
   }

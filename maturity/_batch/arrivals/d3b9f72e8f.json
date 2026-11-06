@@ -1,0 +1,32 @@
+{
+ "slug": "2024-01-01-crs-1401-2024000120-2024-sierra-leone-empowering-youth-through-digital-tech",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Project lists persons with disabilities among youth targets; no government accessibility rule or delivery stated."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Project gives startups skills and tools; no startup law, labelling or public fund stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Project names no hub, incubator or park."
+    }
+   }
+  }
+ }
+}

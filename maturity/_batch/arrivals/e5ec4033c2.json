@@ -1,0 +1,34 @@
+{
+ "slug": "2024-11-26-crs-8-2024000286-2024-statistical-cooperation-between-ssb-and-ine",
+ "studies": {
+  "statisticsstrategy": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Norway's 2024 CRS record says its USD 1,162,823 Statistics Norway-INE project (2024-2027) will be aligned with Mozambique's National Strategy for Development of Statistics, with no period stated.",
+       "as_of": "2024-11-26",
+       "date_precision": "day",
+       "system": "National Strategy for Development of Statistics",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Strategy for Development of Statistics",
+       "country_label": "NSDS (period not stated)",
+       "class": "strategy",
+       "platform": "",
+       "owner": "INE",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2024-01-01-crs-302-2024020421d-2024-healthit-sustaining-use-of-district-health-informa",
+ "studies": {
+  "health": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No clinic-level system detail stated; DHIS2 support only."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "hmis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "USAID reported a USD 157,140 commitment in 2024 to HealthIT, which supports sustaining use of the District Health Information System (DHIS2) in Kenya, with the project running 2016 to 2024.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "DHIS2 (Kenya)",
+       "class": "hmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DHIS2 (Kenya)",
+       "country_label": "Kenya",
+       "class": "hmis",
+       "platform": "DHIS2",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No local research institution stated."
+    }
+   }
+  }
+ }
+}

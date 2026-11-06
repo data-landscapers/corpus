@@ -1,0 +1,79 @@
+{
+ "slug": "2024-07-22-crs-301-20240105420001-2024-championing-responsible-artificial-intelligence-po",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Donor grant record for AI policy research at a university centre; states nothing on this study's subject."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Donor grant record for AI policy research at a university centre; states nothing on this study's subject."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Donor grant record for AI policy research at a university centre; states nothing on this study's subject."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Donor grant record for AI policy research at a university centre; states nothing on this study's subject."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Donor grant record for AI policy research at a university centre; states nothing on this study's subject."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "research",
+       "aspect": "research",
+       "value": "begun",
+       "fact": "Canada's IDRC grant record says a 2024-2026 project at Strathmore University's CIPIT in Kenya will produce evidence-based research to inform responsible AI policy at national and regional level.",
+       "as_of": "2024-07-22",
+       "date_precision": "day",
+       "system": "East African AI Policy Centre (CIPIT, Strathmore University)",
+       "class": "research"
+      }
+     ],
+     "systems": [
+      {
+       "system": "East African AI Policy Centre (CIPIT, Strathmore University)",
+       "country_label": "Kenya",
+       "class": "research",
+       "platform": "",
+       "owner": "Strathmore University",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

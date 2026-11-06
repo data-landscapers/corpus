@@ -1,12 +1,30 @@
 {
  "slug": "2026-10-12-mwi-mra-ataf-tax-administration-data-improvements",
  "studies": {
-  "digitalstrategy": {
+  "health": {
    "countries": {
     "MWI": {
      "facts": [],
      "systems": [],
-     "note": "Only a revenue authority's own strategic plan mentioned in passing."
+     "note": "Tax authority ITAS II story; nothing on health or courts."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Tax authority ITAS II story; nothing on health or courts."
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Tax authority ITAS II story; nothing on health or courts."
     }
    }
   }

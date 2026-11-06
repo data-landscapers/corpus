@@ -1,0 +1,23 @@
+{
+ "slug": "2024-01-01-crs-302-2024001676-2024-global-aids-strengthening-interoperable-health-inf",
+ "studies": {
+  "healthexchange": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "US PEPFAR grant record; title names interoperable health information systems but the description states no exchange under way or in service, and no local policy research."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "US PEPFAR grant record; title names interoperable health information systems but the description states no exchange under way or in service, and no local policy research."
+    }
+   }
+  }
+ }
+}

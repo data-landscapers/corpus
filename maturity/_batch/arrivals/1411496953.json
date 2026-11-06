@@ -1,21 +1,39 @@
 {
  "slug": "2026-10-28-mus-undp-and-statistics-mauritius-maustats-platform-phase-2",
  "studies": {
-  "opendatapolicy": {
+  "admindata": {
    "countries": {
     "MUS": {
      "facts": [],
-     "systems": [],
-     "note": "No open data policy stated."
+     "systems": [
+      {
+       "system": "MauStats Phase 2",
+       "country_label": "MauStats Phase 2",
+       "class": "other",
+       "platform": "MauStats",
+       "owner": "Statistics Mauritius",
+       "tiers": ""
+      }
+     ],
+     "note": "Statistical production platform and training; no administrative records or data-sharing stated."
     }
    }
   },
-  "opendatause": {
+  "censuses": {
    "countries": {
     "MUS": {
      "facts": [],
-     "systems": [],
-     "note": "Describes platform modules and training; no downloadable datasets or publishing bodies stated."
+     "systems": [
+      {
+       "system": "MauStats Phase 2",
+       "country_label": "MauStats Phase 2",
+       "class": "other",
+       "platform": "MauStats",
+       "owner": "Statistics Mauritius",
+       "tiers": ""
+      }
+     ],
+     "note": "No census or household survey stated."
     }
    }
   }

@@ -1,0 +1,25 @@
+{
+ "slug": "2024-08-16-crs-1601-2024011502-01-2024-enumeration-support-for-somalia",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "preparing",
+       "fact": "The Gates Foundation reported to the OECD CRS a USD 1,499,950 grant in 2024, running to 2026, to Somalia to collect pre-census enumeration data for population modelling.",
+       "as_of": "2024-08-16",
+       "date_precision": "day",
+       "system": "Pre-census enumeration, Somalia",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

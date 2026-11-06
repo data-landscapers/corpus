@@ -1,6 +1,68 @@
 {
-  "slug": "2026-11-04-mar-495109-ouahbi-8-millions-de-dossiers-judiciaires-repertories-en-trois",
-  "studies": {
-    "civilserviceskills": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The document is about digitising court archives and says nothing about digital-skills training for civil servants."}}}
+ "slug": "2026-11-04-mar-495109-ouahbi-8-millions-de-dossiers-judiciaires-repertories-en-trois",
+ "studies": {
+  "health": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Justice and budget hearing; nothing on health, police or tax systems."
+    }
+   }
+  },
+  "healthexchange": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Justice and budget hearing; nothing on health, police or tax systems."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Justice and budget hearing; nothing on health, police or tax systems."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Justice and budget hearing; nothing on health, police or tax systems."
+    }
+   }
+  },
+  "taxadmin": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Justice and budget hearing; nothing on health, police or tax systems."
+    }
+   }
+  },
+  "justice": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "judicial archive indexing platform",
+       "country_label": "Morocco court archive",
+       "class": "other",
+       "platform": "",
+       "owner": "Ministry of Justice",
+       "tiers": ""
+      }
+     ],
+     "note": "Archive indexing and duplicate software only; no case management system in service or under way is stated."
+    }
+   }
   }
+ }
 }

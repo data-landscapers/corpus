@@ -1,0 +1,23 @@
+{
+ "slug": "2025-11-07-nrd-seychelles-eodb-portal",
+ "studies": {
+  "itcapacity": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Ease of Doing Business Portal",
+       "country_label": "Seychelles",
+       "class": "other",
+       "platform": "GxP",
+       "owner": "Ministry of Investment, Entrepreneurship and Industry",
+       "tiers": ""
+      }
+     ],
+     "note": "Portal is being built by a contractor, NRD Companies; no statement that government staff run systems or that the government needs outside help."
+    }
+   }
+  }
+ }
+}

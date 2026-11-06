@@ -1,0 +1,149 @@
+{
+ "slug": "2024-12-19-crs-1601-2024012782-09-2024-campaign-worker-databases-to-facilitate-rapid-digi",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "campaign worker databases for digital payment",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "",
+       "owner": "Dimagi Inc. (implementer)",
+       "tiers": ""
+      }
+     ],
+     "note": "Donor grant to pay polio campaign workers; no government programme or other item this study asks is stated."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "campaign worker databases for digital payment",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "",
+       "owner": "Dimagi Inc. (implementer)",
+       "tiers": ""
+      }
+     ],
+     "note": "Donor grant to pay polio campaign workers; no government programme or other item this study asks is stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "campaign worker databases for digital payment",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "",
+       "owner": "Dimagi Inc. (implementer)",
+       "tiers": ""
+      }
+     ],
+     "note": "Donor grant to pay polio campaign workers; no government programme or other item this study asks is stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "campaign worker databases for digital payment",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "",
+       "owner": "Dimagi Inc. (implementer)",
+       "tiers": ""
+      }
+     ],
+     "note": "Donor grant to pay polio campaign workers; no government programme or other item this study asks is stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "campaign worker databases for digital payment",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "",
+       "owner": "Dimagi Inc. (implementer)",
+       "tiers": ""
+      }
+     ],
+     "note": "Donor grant to pay polio campaign workers; no government programme or other item this study asks is stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "campaign worker databases for digital payment",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "",
+       "owner": "Dimagi Inc. (implementer)",
+       "tiers": ""
+      }
+     ],
+     "note": "Donor grant to pay polio campaign workers; no government programme or other item this study asks is stated."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "campaign worker databases for digital payment",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "",
+       "owner": "Dimagi Inc. (implementer)",
+       "tiers": ""
+      }
+     ],
+     "note": "Donor grant to pay polio campaign workers; no government programme or other item this study asks is stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "campaign worker databases for digital payment",
+       "country_label": "Mozambique",
+       "class": "other",
+       "platform": "",
+       "owner": "Dimagi Inc. (implementer)",
+       "tiers": ""
+      }
+     ],
+     "note": "Donor grant to pay polio campaign workers; no government programme or other item this study asks is stated."
+    }
+   }
+  }
+ }
+}

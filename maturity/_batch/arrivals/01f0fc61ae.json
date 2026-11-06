@@ -1,0 +1,59 @@
+{
+ "slug": "2026-04-09-soff-madagascar-soff-investment-phase-annual-narrative-report-2025",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Report covers SOFF weather-observation (GBON) investment; no satellite farming data use stated."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Only project/UN grievance mechanisms mentioned, not a channel for public services."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local government office connection."
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Report covers ground-station GBON and a WIS 2.0 server; no satellite data reception or use in forecasts stated."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "No off-site backup site named."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Stakeholder workshops are on the SOFF weather project, not a named digital law or policy."
+    }
+   }
+  }
+ }
+}

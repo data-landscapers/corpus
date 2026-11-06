@@ -1,0 +1,14 @@
+{
+ "slug": "2024-01-01-crs-302-2024030487-2024-demographic-and-health-surveys-9-dhs-9",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "A USAID funding commitment for the DHS programme; it states no survey fieldwork, published results or census."
+    }
+   }
+  }
+ }
+}

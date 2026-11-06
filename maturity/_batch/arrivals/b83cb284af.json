@@ -1,6 +1,14 @@
-{"slug": "2026-10-31-mus-afrinic-official-statement-cloud-innovation-in-register-of-members", "studies": {
-"businessregister": {"countries": {
-"MUS": {"facts": [], "systems": [{"system": "CBRIS", "country_label": "Mauritius", "class": "business", "platform": "CBRIS", "owner": "Registrar of Companies", "tiers": ""}], "note": "CBRIS is named as a public platform for the register of members of AFRINIC; the document does not say firms register online or share a number."},
-"TZA": {"facts": [], "systems": [], "note": "Tanzania appears only as the home of an association receiving an email."}}},
-"regionalinfrastructure": {"countries": {"MUS": {"facts": [], "systems": [], "note": "A dispute over AFRINIC membership; no shared link or facility stated."}}}
-}}
+{
+ "slug": "2026-10-31-mus-afrinic-official-statement-cloud-innovation-in-register-of-members",
+ "studies": {
+  "regionalpolicy": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "A dispute over AFRINIC's register of members; no agreement, meeting or digital policy act with an African body stated."
+    }
+   }
+  }
+ }
+}

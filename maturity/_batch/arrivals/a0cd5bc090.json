@@ -1,0 +1,148 @@
+{
+ "slug": "2024-09-05-crs-301-20240105860001-2024-ai-living-lab-for-innovative-and-viable-ethical-po",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI harm rule or authority stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No government body AI use stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No sector system AI tool stated."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The document says Senegal has published a national AI strategy.",
+       "as_of": "2024-09-05",
+       "date_precision": "day",
+       "system": "Senegal national AI strategy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Senegal national AI strategy",
+       "country_label": "Senegal",
+       "class": "strategy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "The AI Living Lab in Dakar, supported by an IDRC grant, is building an AI innovation ecosystem including a collaborative platform with AI algorithms and a large database.",
+       "as_of": "2024-09-05",
+       "date_precision": "day",
+       "system": "AI Living Lab (ALIVE Lab), Dakar",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AI Living Lab (ALIVE Lab), Dakar",
+       "country_label": "Senegal",
+       "class": "localai",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The document says the Government of Senegal has published a national data strategy.",
+       "as_of": "2024-09-05",
+       "date_precision": "day",
+       "system": "Senegal national data strategy",
+       "class": "policy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Senegal national data strategy",
+       "country_label": "Senegal",
+       "class": "policy",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "research",
+       "aspect": "research",
+       "value": "begun",
+       "fact": "IDRC funds the Dakar-based AI Living Lab, which does scientific work on responsible AI, with Universite numerique Cheikh Hamidou Kane as the channel.",
+       "as_of": "2024-09-05",
+       "date_precision": "day",
+       "system": "AI Living Lab (ALIVE Lab), Dakar",
+       "class": "research"
+      }
+     ],
+     "systems": [
+      {
+       "system": "AI Living Lab (ALIVE Lab), Dakar",
+       "country_label": "Senegal",
+       "class": "research",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

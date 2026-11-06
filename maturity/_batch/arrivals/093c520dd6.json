@@ -1,0 +1,68 @@
+{
+ "slug": "2023-12-18-crs-301-20230103130007-2023-empowering-districts-and-schools-with-data-a-digit",
+ "studies": {
+  "educationexchange": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Research project by University of Oslo responding to a Senegal call; no ministry EMIS procured, piloted or in service stated."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Research is by a foreign university; no local institution named."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Same: no Senegal school record system stated."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  }
+ }
+}

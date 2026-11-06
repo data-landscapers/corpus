@@ -1,0 +1,59 @@
+{
+ "slug": "2024-07-19-crs-918-2024604706-2024-soutien-a-la-modernisation-de-letat-civil-en-repub",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "EU grant to modernise civil registration (catch-up birth campaigns, civil-status centres, archiving); no digital system, ID link, local-office connection, or government/UNHCR refugee registration stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "EU grant to modernise civil registration (catch-up birth campaigns, civil-status centres, archiving); no digital system, ID link, local-office connection, or government/UNHCR refugee registration stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "EU grant to modernise civil registration (catch-up birth campaigns, civil-status centres, archiving); no digital system, ID link, local-office connection, or government/UNHCR refugee registration stated."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "EU grant to modernise civil registration (catch-up birth campaigns, civil-status centres, archiving); no digital system, ID link, local-office connection, or government/UNHCR refugee registration stated."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "EU grant to modernise civil registration (catch-up birth campaigns, civil-status centres, archiving); no digital system, ID link, local-office connection, or government/UNHCR refugee registration stated."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "CAF": {
+     "facts": [],
+     "systems": [],
+     "note": "EU grant to modernise civil registration (catch-up birth campaigns, civil-status centres, archiving); no digital system, ID link, local-office connection, or government/UNHCR refugee registration stated."
+    }
+   }
+  }
+ }
+}

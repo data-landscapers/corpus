@@ -1,0 +1,32 @@
+{
+ "slug": "2024-04-24-crs-1627-2024000273-2024-jamiiafrica",
+ "studies": {
+  "opendiscussion": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "JamiiAfrica",
+       "country_label": "JamiiAfrica",
+       "class": "other",
+       "platform": "",
+       "owner": "JamiiAfrica",
+       "tiers": ""
+      }
+     ],
+     "note": "Grant record for digital-rights advocacy; no criticism of a named policy, cut or punishment stated."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Advocacy support grant; no research published or begun is stated."
+    }
+   }
+  }
+ }
+}

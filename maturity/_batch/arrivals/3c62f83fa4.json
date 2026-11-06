@@ -1,0 +1,86 @@
+{
+ "slug": "2024-08-01-crs-12-2024eq5415c7761-2024-paymob-international-b-v",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "BII equity record for Paymob, a company letting merchants accept digital payments; names no mobile money or e-money service in service, and nothing on this study's subject."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "BII equity record for Paymob, a company letting merchants accept digital payments; names no mobile money or e-money service in service, and nothing on this study's subject."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "BII equity record for Paymob, a company letting merchants accept digital payments; names no mobile money or e-money service in service, and nothing on this study's subject."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "BII equity record for Paymob, a company letting merchants accept digital payments; names no mobile money or e-money service in service, and nothing on this study's subject."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "BII equity record for Paymob, a company letting merchants accept digital payments; names no mobile money or e-money service in service, and nothing on this study's subject."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "BII equity record for Paymob, a company letting merchants accept digital payments; names no mobile money or e-money service in service, and nothing on this study's subject."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Paymob",
+       "country_label": "Egypt",
+       "class": "other",
+       "platform": "",
+       "owner": "Paymob International B.V.",
+       "tiers": ""
+      }
+     ],
+     "note": "BII equity record for Paymob, a company letting merchants accept digital payments; names no mobile money or e-money service in service, and nothing on this study's subject."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "BII equity record for Paymob, a company letting merchants accept digital payments; names no mobile money or e-money service in service, and nothing on this study's subject."
+    }
+   }
+  }
+ }
+}

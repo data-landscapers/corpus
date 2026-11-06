@@ -1,0 +1,41 @@
+{
+ "slug": "2024-01-01-crs-963-2024031288-2024-003-birth-registration",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Bare UNICEF funding line titled birth registration; no digital system, ID link or number at birth is stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Bare UNICEF funding line titled birth registration; no digital system, ID link or number at birth is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Bare UNICEF funding line titled birth registration; no digital system, ID link or number at birth is stated."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Bare UNICEF funding line titled birth registration; no digital system, ID link or number at birth is stated."
+    }
+   }
+  }
+ }
+}

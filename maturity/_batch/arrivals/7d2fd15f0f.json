@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-03-kijanispace-greater-hope-farm-uganda",
+ "studies": {
+  "metsatellite": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "KijaniSpace Space-IoT Box pilot",
+       "country_label": "Greater Hope Farm",
+       "class": "other",
+       "platform": "",
+       "owner": "KijaniSpace",
+       "tiers": ""
+      }
+     ],
+     "note": "Farm IoT station for a farming pilot; nothing on the national meteorological service."
+    }
+   }
+  }
+ }
+}

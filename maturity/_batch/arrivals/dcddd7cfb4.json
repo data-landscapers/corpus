@@ -1,0 +1,95 @@
+{
+ "slug": "2024-01-01-crs-302-2024001640-2024-global-aids-scaling-up-and-improving-quality-of-ci",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CRVS project through the National Registration Bureau (PEPFAR)",
+       "country_label": "Malawi",
+       "class": "other",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "CRS record of a USD 700,000 CRVS grant; no statistics from administrative records stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CRVS project through the National Registration Bureau (PEPFAR)",
+       "country_label": "Malawi",
+       "class": "other",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "Funding record only; no link between civil register and ID system stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CRVS project through the National Registration Bureau (PEPFAR)",
+       "country_label": "Malawi",
+       "class": "other",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "Funding record; does not say registration is digital."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CRVS project through the National Registration Bureau (PEPFAR)",
+       "country_label": "Malawi",
+       "class": "other",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "No ID number at birth stated."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "CRVS project through the National Registration Bureau (PEPFAR)",
+       "country_label": "Malawi",
+       "class": "other",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": "No office-level digital entry stated."
+    }
+   }
+  }
+ }
+}

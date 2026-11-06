@@ -1,0 +1,88 @@
+{
+ "slug": "2024-10-29-crs-1601-2024012152-01-2024-tanzania-launching-chws-and-digital-payments",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this topic for Tanzania."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this topic for Tanzania."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this topic for Tanzania."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this topic for Tanzania."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "A 2024 Gates Foundation grant, 2024-2026, funds moving Tanzania's community health worker functions to digital systems, developing and scaling a government-supported digitised payment system.",
+       "as_of": "2024-10-29",
+       "date_precision": "day",
+       "system": "Government-supported digitised payment system for community health workers",
+       "class": "g2p"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this topic for Tanzania."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this topic for Tanzania."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this topic for Tanzania."
+    }
+   }
+  }
+ }
+}

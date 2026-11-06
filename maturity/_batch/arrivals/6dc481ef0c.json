@@ -1,0 +1,77 @@
+{
+ "slug": "2024-12-19-crs-1601-2024012782-05-2024-campaign-worker-databases-to-facilitate-rapid-digi",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A donor grant for polio campaign worker payments; no government programme or other item the study asks stated."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A donor grant for polio campaign worker payments; no government programme or other item the study asks stated."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A donor grant for polio campaign worker payments; no government programme or other item the study asks stated."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A donor grant for polio campaign worker payments; no government programme or other item the study asks stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A donor grant for polio campaign worker payments; no government programme or other item the study asks stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A donor grant for polio campaign worker payments; no government programme or other item the study asks stated."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A donor grant for polio campaign worker payments; no government programme or other item the study asks stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "A donor grant for polio campaign worker payments; no government programme or other item the study asks stated."
+    }
+   }
+  }
+ }
+}

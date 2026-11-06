@@ -1,0 +1,23 @@
+{
+ "slug": "2026-11-05-interswitch-deepens-uganda-s-digital-banking-reach",
+ "studies": {
+  "retailpayments": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Quickteller Agency Banking",
+       "country_label": "Interswitch Quickteller agency banking, 23,000+ agents",
+       "class": "other",
+       "platform": "agent point-of-sale terminals",
+       "owner": "Interswitch East Africa",
+       "tiers": ""
+      }
+     ],
+     "note": "Agency banking for a bank's accounts; no mobile money, wallet link or national switch for wallets stated."
+    }
+   }
+  }
+ }
+}

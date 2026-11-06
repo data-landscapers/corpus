@@ -1,0 +1,32 @@
+{
+ "slug": "2026-04-09-soff-chad-soff-investment-phase-annual-narrative-report-2025",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Report covers SOFF weather-observation (GBON) investment; no satellite farming data use stated."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only project/UN grievance mechanisms mentioned, not a channel for public services."
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Report covers ground-station GBON and a WIS 2.0 server; no satellite data reception or use in forecasts stated."
+    }
+   }
+  }
+ }
+}

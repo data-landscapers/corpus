@@ -1,5 +1,25 @@
-{"slug": "2026-11-05-bfa-burkina-economie-la-dgi-renforce-les-capacites-de-ses-agents-pour-accelerer-sa-d", "studies": {
-"landregister": {"countries": {"BFA": {"facts": [{"sub_indicator": "land", "aspect": "register", "value": "inservice", "fact": "leFaso.net reports that the tax directorate DGI began training more than 400 agents on 4 November 2026 on SYC@D, the integrated cadastre and domains management system.", "as_of": "2026-11-04", "date_precision": "day", "system": "SYC@D (Systeme integre de gestion du cadastre et des domaines)", "class": "land"}, {"sub_indicator": "land", "aspect": "online", "value": "online", "fact": "leFaso.net says SYC@D facilitates the online issuance of allocation certificates, transfer orders and cadastral extracts.", "as_of": "2026-11-04", "date_precision": "day", "system": "SYC@D (Systeme integre de gestion du cadastre et des domaines)", "class": "land"}], "systems": [{"system": "SYC@D", "country_label": "Systeme integre de gestion du cadastre et des domaines", "class": "land", "platform": "", "owner": "Direction generale des impots", "tiers": "national"}], "note": ""}}},
-"revenuecollection": {"countries": {"BFA": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "leFaso.net says eSINTAX JAVA, the DGI's tax-procedures portal, lets taxpayers remotely make their declarations, payments and requests for attestations.", "as_of": "2026-11-04", "date_precision": "day", "system": "eSINTAX JAVA", "class": "revenue"}], "systems": [{"system": "eSINTAX JAVA", "country_label": "portail de teleprocedures fiscales", "class": "revenue", "platform": "", "owner": "Direction generale des impots", "tiers": "national"}, {"system": "SYGMEF", "country_label": "certified electronic invoicing machines system", "class": "other", "platform": "", "owner": "Direction generale des impots", "tiers": "national"}], "note": ""}}},
-"taxadmin": {"countries": {"BFA": {"facts": [{"sub_indicator": "taxsystem", "aspect": "filing", "value": "inservice", "fact": "leFaso.net says eSINTAX JAVA, the DGI's tax-procedures portal, lets taxpayers remotely make their tax declarations.", "as_of": "2026-11-04", "date_precision": "day", "system": "eSINTAX JAVA", "class": "taxsystem"}, {"sub_indicator": "taxsystem", "aspect": "payment", "value": "electronic", "fact": "leFaso.net says eSINTAX JAVA, the DGI's tax-procedures portal, lets taxpayers remotely make their tax payments.", "as_of": "2026-11-04", "date_precision": "day", "system": "eSINTAX JAVA", "class": "taxsystem"}], "systems": [{"system": "eSINTAX JAVA", "country_label": "portail de teleprocedures fiscales", "class": "taxsystem", "platform": "", "owner": "Direction generale des impots", "tiers": "national"}, {"system": "SYGMEF", "country_label": "certified electronic invoicing machines system", "class": "other", "platform": "", "owner": "Direction generale des impots", "tiers": "national"}], "note": ""}}}
-}}
+{
+ "slug": "2026-11-05-bfa-burkina-economie-la-dgi-renforce-les-capacites-de-ses-agents-pour-accelerer-sa-d",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "The DISMEFIP project launched on 4 November 2026 training sessions for over 400 Directorate General of Taxes agents on three digital platforms (eSINTAX JAVA, SYGMEF, SYC@D), in four cities.",
+       "as_of": "2026-11-04",
+       "date_precision": "day",
+       "system": "DISMEFIP",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

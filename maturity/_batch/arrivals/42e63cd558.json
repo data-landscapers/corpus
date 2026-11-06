@@ -1,0 +1,23 @@
+{
+ "slug": "2024-01-01-crs-932-2024001446-2024-appui-a-la-preparation-du-recensement-general-de-l",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "RGAE Guinea-Bissau Phase II",
+       "country_label": "RGAE Guinea-Bissau Phase II",
+       "class": "other",
+       "platform": "",
+       "owner": "FAO (supporter)",
+       "tiers": ""
+      }
+     ],
+     "note": "FAO grant for an agricultural census, not a population census or household survey."
+    }
+   }
+  }
+ }
+}

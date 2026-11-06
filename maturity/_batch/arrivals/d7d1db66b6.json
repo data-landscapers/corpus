@@ -1,3 +1,25 @@
-{"slug": "2024-06-26-dza-signature-d-une-convention-sur-la-numerisation-des-virements-entre-la", "studies": {
-"dataexchange": {"countries": {"DZA": {"facts": [], "systems": [{"system": "secure electronic data-exchange platform (CNAS and Algerie Poste)", "country_label": "plateforme electronique securisee", "class": "other", "platform": "", "owner": "CNAS and Algerie Poste", "tiers": "bilateral, benefit transfers to CCP accounts"}], "note": "A convention to work towards a bilateral exchange platform is a plan, not a platform built or piloted."}}}
-}}
+{
+ "slug": "2024-06-26-dza-signature-d-une-convention-sur-la-numerisation-des-virements-entre-la",
+ "studies": {
+  "g2ppayments": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "underway",
+       "fact": "Algeria's national social insurance fund CNAS and Algerie Poste signed a convention on 26 June 2024 to set up remote processing of benefit transfers to social-insurance beneficiaries' CCP accounts through a secure electronic data-exchange platform.",
+       "as_of": "2024-06-26",
+       "date_precision": "day",
+       "system": "CNAS-Algerie Poste electronic transfer platform",
+       "class": "g2p"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

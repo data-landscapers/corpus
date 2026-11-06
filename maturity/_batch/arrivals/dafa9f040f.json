@@ -1,0 +1,61 @@
+{
+ "slug": "2024-01-01-crs-12-2024004511-2024-partnership-fund-using-eo-technology-to-improve-pr",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "agrisat",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "The UK-funded 2024 project has the UK Office for National Statistics support Rwanda's National Institute of Statistics in integrating Earth Observation techniques and machine learning into agricultural statistics.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "EO technology for agriculture statistics in Rwanda",
+       "class": "agrisat"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aiabuse": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI harm rule or authority stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI system in government administration stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Machine learning is named only for producing agricultural statistics, a plan to convene experts; no sectoral AI tool stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "No locally built AI model, dataset or computing stated."
+    }
+   }
+  }
+ }
+}

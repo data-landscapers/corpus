@@ -1,0 +1,34 @@
+{
+ "slug": "2024-03-14-crs-6-2020000027-2024-support-to-the-implementation-of-2019-population-a",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "Italy's cooperation agency reported a USD 11,681 commitment in 2024 to support the Government of Kenya and KNBS in implementing the 2019 population and housing census, called the 8th national census.",
+       "as_of": "2019",
+       "date_precision": "year",
+       "system": "Population and housing census 2019",
+       "class": "census"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Population and housing census 2019",
+       "country_label": "Kenya population and housing census 2019",
+       "class": "census",
+       "platform": "",
+       "owner": "KNBS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "slug": "2024-06-05-src-customs-epayment-launch",
+ "studies": {
+  "itcapacity": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ASYCUDA ePayment",
+       "country_label": "Seychelles",
+       "class": "other",
+       "platform": "ASYCUDA",
+       "owner": "Seychelles Revenue Commission",
+       "tiers": ""
+      }
+     ],
+     "note": "Revenue commission launches an ePayment module for ASYCUDA built with EU partnership support; it does not say government staff built or run it."
+    }
+   }
+  }
+ }
+}

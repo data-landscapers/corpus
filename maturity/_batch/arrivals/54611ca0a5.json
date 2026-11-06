@@ -1,0 +1,14 @@
+{
+ "slug": "2024-05-15-crs-1601-2024011128-04-2024-ai-enabled-frontline-workers-flws-benchmarks-tool",
+ "studies": {
+  "aisystems": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "A donor grant to benchmark AI tools via an international NGO; no model, dataset or compute built in the country stated."
+    }
+   }
+  }
+ }
+}

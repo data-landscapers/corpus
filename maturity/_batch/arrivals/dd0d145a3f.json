@@ -1,0 +1,23 @@
+{
+ "slug": "2026-05-01-crews-somalia-nmhs",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Meteorological agency set-up and ICT; no satellite data stated."
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Meteorological agency set-up and ICT; no satellite data stated."
+    }
+   }
+  }
+ }
+}

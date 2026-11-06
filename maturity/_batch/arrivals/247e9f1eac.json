@@ -1,0 +1,41 @@
+{
+ "slug": "2024-01-01-crs-963-2024024182-2024-enregistrement-des-naissances-et-collecte-des-donn",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "UNICEF CRS grant record for birth registration and data collection; states no digital system, link or number."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "UNICEF CRS grant record for birth registration and data collection; states no digital system, link or number."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "UNICEF CRS grant record for birth registration and data collection; states no digital system, link or number."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "UNICEF CRS grant record for birth registration and data collection; states no digital system, link or number."
+    }
+   }
+  }
+ }
+}

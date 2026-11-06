@@ -1,0 +1,23 @@
+{
+ "slug": "2024-06-01-crews-djibouti",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "No satellite data use stated."
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "No satellite data use stated."
+    }
+   }
+  }
+ }
+}

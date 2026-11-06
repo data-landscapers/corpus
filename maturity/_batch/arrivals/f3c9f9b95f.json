@@ -1,26 +1,14 @@
-{"slug": "2025-01-01-som-unconditional-cash-transfer", "studies": {
-"businesspayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document says nothing on e-procurement."}}},
-"centralbank": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No central bank role is stated."}}},
-"consumerprotection": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Only a programme grievance system and fraud hotline; no rules for digital financial services."}}},
-"crossborderpayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No cross-border payment is stated."}}},
-"disabilityaccess": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Disability is mentioned only as youth beneficiaries; nothing on accessible information or digital services."}}},
-"feedbackportals": {"countries": {"SOM": {"facts": [], "systems": [], "note": "A phone helpline and centre-based grievance system are described with no web, app, messaging or email channel and no case numbers."}}},
-"g2ppayments": {"countries": {"SOM": {"facts": [
-{"sub_indicator": "g2p", "aspect": "payment", "value": "underway", "fact": "The Baxnaano programme page says MoLSA will pay 50,000 households USD 240 in a single payment in 2025, then USD 60 quarterly in 2026-2027, by mobile money to the phone number registered at enrolment.", "as_of": "2025", "date_precision": "year", "system": "Baxnaano Unconditional Cash Transfer (Regular Window)", "class": "g2p"}
-], "systems": [{"system": "Baxnaano Unconditional Cash Transfer (Regular Window)", "country_label": "Somalia", "class": "g2p", "platform": "mobile money", "owner": "Ministry of Labour and Social Affairs", "tiers": "federal"}], "note": ""}}},
-"localgov": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on local government offices or their connection."}}},
-"paymentsuptake": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No survey of account ownership is given."}}},
-"retailpayments": {"countries": {"SOM": {"facts": [
-{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The Baxnaano page tells beneficiaries to keep an active mobile wallet and registered number to receive cash transfers through mobile money.", "as_of": "2025", "date_precision": "year", "system": "mobile money", "class": "retail"}
-], "systems": [], "note": ""}}},
-"revenuecollection": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on taxes or fees."}}},
-"socialexchange": {"countries": {"SOM": {"facts": [
-{"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The page says households for the Baxnaano UCT are identified from the Unified Social Registry by an automated proxy means test, and each selected household is given a Social Registry Number used at enrolment.", "as_of": "2025", "date_precision": "year", "system": "Unified Social Registry", "class": "exchange"}
-], "systems": [], "note": ""}}},
-"socialprotection": {"countries": {"SOM": {"facts": [
-{"sub_indicator": "socialmis", "aspect": "payments", "value": "electronic", "fact": "The Baxnaano page says all UCT payments are sent by mobile money to the household's registered phone number.", "as_of": "2025", "date_precision": "year", "system": "Baxnaano Unconditional Cash Transfer (Regular Window)", "class": "socialmis"}
-], "systems": [], "note": ""}}},
-"socialregistry": {"countries": {"SOM": {"facts": [
-{"sub_indicator": "social", "aspect": "registry", "value": "inservice", "fact": "The page says beneficiaries are identified through the Unified Social Registry, a national database of socio-economic data on vulnerable households used to assess eligibility for social support.", "as_of": "2025", "date_precision": "year", "system": "Unified Social Registry", "class": "social"}
-], "systems": [{"system": "Unified Social Registry", "country_label": "Somalia", "class": "social", "platform": "national database", "owner": "Federal Government of Somalia", "tiers": "national"}], "note": ""}}}
-}}
+{
+ "slug": "2025-01-01-som-unconditional-cash-transfer",
+ "studies": {
+  "paymentslaw": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "A cash transfer programme page; no payments law or e-money rules stated."
+    }
+   }
+  }
+ }
+}

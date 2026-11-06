@@ -1,3 +1,77 @@
-{"slug": "2026-05-13-cmr-depense-publique-l-ere-du-paiement-digital", "studies": {
-"g2ppayments": {"countries": {"CMR": {"facts": [], "systems": [{"system": "G2Px", "country_label": "World Bank G2Px initiative, awareness workshop in Yaounde 12 May 2026", "class": "other", "platform": "", "owner": "World Bank with the Ministry of Finance", "tiers": ""}], "note": "An awareness workshop on G2Px with an aim to end cash handling; no pilot, contract or payment in service is stated."}}}
-}}
+{
+ "slug": "2026-05-13-cmr-depense-publique-l-ere-du-paiement-digital",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers a World Bank G2Px awareness workshop on salary and pension payments; it states nothing on the payment topics asked."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers a World Bank G2Px awareness workshop on salary and pension payments; it states nothing on the payment topics asked."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers a World Bank G2Px awareness workshop on salary and pension payments; it states nothing on the payment topics asked."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers a World Bank G2Px awareness workshop on salary and pension payments; it states nothing on the payment topics asked."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers a World Bank G2Px awareness workshop on salary and pension payments; it states nothing on the payment topics asked."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers a World Bank G2Px awareness workshop on salary and pension payments; it states nothing on the payment topics asked."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers a World Bank G2Px awareness workshop on salary and pension payments; it states nothing on the payment topics asked."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The article covers a World Bank G2Px awareness workshop on salary and pension payments; it states nothing on the payment topics asked."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2024-01-01-crs-2-2024010153-2024-appui-au-systeme-national-d-information-sanitaire",
+ "studies": {
+  "health": {
+   "countries": {
+    "BDI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SNIS",
+       "country_label": "Burundi SNIS",
+       "class": "hmis",
+       "platform": "",
+       "owner": "Ministry of Public Health and the Fight against AIDS",
+       "tiers": ""
+      }
+     ],
+     "note": "Support to the national information system; no clinic-level digital entry, tiers or share stated."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "hmis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Belgium's 2024 CRS record describes a EUR 8,000,000 project supporting the Ministry of Public Health's national health information system (SNIS), strengthening data production and analysis at all levels.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "SNIS",
+       "class": "hmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SNIS",
+       "country_label": "Burundi SNIS",
+       "class": "hmis",
+       "platform": "",
+       "owner": "Ministry of Public Health and the Fight against AIDS",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

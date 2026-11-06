@@ -1,0 +1,23 @@
+{
+ "slug": "2026-11-05-dza-echorouk-digital-platform-consumer-prices-monitoring",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Launch of a price and supply monitoring platform for consumer goods; not a data exchange between government systems and no law stated."
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Launch of a price and supply monitoring platform for consumer goods; not a data exchange between government systems and no law stated."
+    }
+   }
+  }
+ }
+}

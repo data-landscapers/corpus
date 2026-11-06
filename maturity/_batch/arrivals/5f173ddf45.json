@@ -1,0 +1,88 @@
+{
+ "slug": "2024-10-17-crs-301-20240105520001-2024-ai4d-fcdo-innovation-scaling-and-sustaining-ai-sol",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Health AI grant record; no rule on AI harms stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No government body's AI use stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Tool is not stated to run in a public sector system."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "localai",
+       "aspect": "build",
+       "value": "underway",
+       "fact": "IDRC says the hub it supported for AI in maternal, sexual and reproductive health in sub-Saharan Africa has funded development of a tool for predicting miscarriages among women in Uganda.",
+       "as_of": "2024-10-17",
+       "date_precision": "day",
+       "system": "miscarriage prediction tool",
+       "class": "localai"
+      }
+     ],
+     "systems": [
+      {
+       "system": "miscarriage prediction tool",
+       "country_label": "Uganda",
+       "class": "localai",
+       "platform": "",
+       "owner": "Hub for AI in Maternal, Sexual and Reproductive Health (IDRC-supported)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on rural internet."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No local policy research institution stated."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No electricity figure stated."
+    }
+   }
+  }
+ }
+}

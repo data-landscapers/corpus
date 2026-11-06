@@ -1,12 +1,21 @@
 {
  "slug": "2026-10-29-gab-gsma-calls-for-more-affordable-smartphones-gabon-off-mobile-internet",
  "studies": {
-  "mobileaffordability": {
+  "exchangepoints": {
    "countries": {
     "GAB": {
      "facts": [],
      "systems": [],
-     "note": "States no price or share of income for mobile data."
+     "note": "GSMA report on mobile internet use, coverage and affordability; no exchange point or fibre backbone stated."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "GSMA report on mobile internet use, coverage and affordability; no exchange point or fibre backbone stated."
     }
    }
   }

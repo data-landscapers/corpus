@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-01-crews-somalia",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Weather station rehabilitation and data management; no satellite data stated."
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Weather station rehabilitation and data management; no satellite data stated."
+    }
+   }
+  }
+ }
+}

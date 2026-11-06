@@ -1,0 +1,32 @@
+{
+ "slug": "2024-08-01-crews-niger-2-0",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No satellite data use or local government connection stated."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No satellite data use or local government connection stated."
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "No satellite data use or local government connection stated."
+    }
+   }
+  }
+ }
+}

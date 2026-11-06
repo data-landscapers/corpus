@@ -1,4 +1,95 @@
-{"slug": "2026-03-22-dza-140-000-demandes-en-traitement-via-minha-lanem-accelere-les-procedures", "studies": {
-"schoolinternet": {"countries": {
-"DZA": {"facts": [], "systems": [], "note": "About an unemployment-allowance platform; nothing on schools, internet or the curriculum."}}}
-}}
+{
+ "slug": "2026-03-22-dza-140-000-demandes-en-traitement-via-minha-lanem-accelere-les-procedures",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers unemployment-allowance applications; it states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers unemployment-allowance applications; it states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers unemployment-allowance applications; it states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers unemployment-allowance applications; it states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Minha",
+       "country_label": "Algeria",
+       "class": "other",
+       "platform": "ANEM digital platform for allowance applications",
+       "owner": "ANEM",
+       "tiers": ""
+      }
+     ],
+     "note": "Applications and automated cross-checks against 600-plus databases are stated, but no digital payment channel and no national ID or social registry check is named."
+    }
+   }
+  },
+  "localrecords": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers unemployment-allowance applications; it states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers unemployment-allowance applications; it states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers unemployment-allowance applications; it states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document covers unemployment-allowance applications; it states nothing this study asks."
+    }
+   }
+  }
+ }
+}

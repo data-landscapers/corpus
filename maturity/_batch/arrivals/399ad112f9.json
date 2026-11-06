@@ -1,0 +1,106 @@
+{
+ "slug": "2024-01-01-crs-21-2024000126-2024-2024-undp-grant-inclusive-digital-transformati",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The record is a grant for a digital ID and CRVS project; funding and aims are not a delivered system for this question."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The record is a grant for a digital ID and CRVS project; funding and aims are not a delivered system for this question."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The record is a grant for a digital ID and CRVS project; funding and aims are not a delivered system for this question."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The record is a grant for a digital ID and CRVS project; funding and aims are not a delivered system for this question."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The record is a grant for a digital ID and CRVS project; funding and aims are not a delivered system for this question."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The record is a grant for a digital ID and CRVS project; funding and aims are not a delivered system for this question."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The record is a grant for a digital ID and CRVS project; funding and aims are not a delivered system for this question."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "The record is a grant for a digital ID and CRVS project; funding and aims are not a delivered system for this question."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The CRS record by Ireland says the National Registration and Identification System (October 2016 to June 2024), with the National Registration Bureau, gave unique registration to Malawians aged 16 and above and issued identity cards.",
+       "as_of": "2024-06",
+       "date_precision": "month",
+       "system": "National Registration and Identification System (NRIS)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Registration and Identification System (NRIS)",
+       "country_label": "NRIS",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

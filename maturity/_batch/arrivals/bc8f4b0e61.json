@@ -1,0 +1,24 @@
+{
+ "slug": "2025-02-20-gcf-multi-country-project-advancing-early-warnings-for-all-ew4all",
+ "studies": {
+  "metsatellite": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Describes early-warning or institutional support with no satellite data reception or use stated."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Describes early-warning or institutional support with no satellite data reception or use stated."
+    },
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "Describes early-warning or institutional support with no satellite data reception or use stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "slug": "2024-01-01-crs-12-2021000710-2024-demographic-data-project",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "The UK FCDO-funded Demographic Data Project, with UNFPA supporting the National Institute of Statistics, makes use of the 2017 Census information in routine sectoral data.",
+       "as_of": "2017",
+       "date_precision": "year",
+       "system": "Census 2017",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

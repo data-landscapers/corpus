@@ -1,0 +1,106 @@
+{
+ "slug": "2026-04-01-tza-tasaf-disburses-tzs-43-5-billion-to-poor-households",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "g2p",
+       "aspect": "payment",
+       "value": "inservice",
+       "fact": "TASAF reported to parliament (via the minister) that of 896,746 beneficiary households paid TZS 43.5 billion from July 2025 to March 2026, 535,536 households (60%) received grants electronically through mobile networks and bank accounts.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "TASAF",
+       "class": "g2p"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TASAF",
+       "country_label": "Tanzania",
+       "class": "g2p",
+       "platform": "",
+       "owner": "TASAF",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Mobile networks named only as a grant channel; no retail service stated."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Beneficiary management system not named; only ICT upgrades for PSSN III mentioned without detail."
+    }
+   }
+  }
+ }
+}

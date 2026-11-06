@@ -1,0 +1,131 @@
+{
+ "slug": "2026-09-17-gab-gabonclic-cnss-revolution-numerique-service-public",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e.CNSS",
+       "country_label": "Gabon",
+       "class": "other",
+       "platform": "e.cnss.ga",
+       "owner": "CNSS",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers CNSS employer registration online (e.CNSS); not stated for this study."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e.CNSS",
+       "country_label": "Gabon",
+       "class": "other",
+       "platform": "e.cnss.ga",
+       "owner": "CNSS",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers CNSS employer registration online (e.CNSS); not stated for this study."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e.CNSS",
+       "country_label": "Gabon",
+       "class": "other",
+       "platform": "e.cnss.ga",
+       "owner": "CNSS",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers CNSS employer registration online (e.CNSS); not stated for this study."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e.CNSS",
+       "country_label": "Gabon",
+       "class": "other",
+       "platform": "e.cnss.ga",
+       "owner": "CNSS",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers CNSS employer registration online (e.CNSS); not stated for this study."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e.CNSS",
+       "country_label": "Gabon",
+       "class": "other",
+       "platform": "e.cnss.ga",
+       "owner": "CNSS",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers CNSS employer registration online (e.CNSS); not stated for this study."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e.CNSS",
+       "country_label": "Gabon",
+       "class": "other",
+       "platform": "e.cnss.ga",
+       "owner": "CNSS",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers CNSS employer registration online (e.CNSS); not stated for this study."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "e.CNSS",
+       "country_label": "Gabon",
+       "class": "other",
+       "platform": "e.cnss.ga",
+       "owner": "CNSS",
+       "tiers": ""
+      }
+     ],
+     "note": "Document covers CNSS employer registration online (e.CNSS); not stated for this study."
+    }
+   }
+  }
+ }
+}

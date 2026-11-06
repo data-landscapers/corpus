@@ -1,0 +1,79 @@
+{
+ "slug": "2023-12-18-crs-301-20230103130004-2023-empowering-districts-and-schools-with-data-a-digit",
+ "studies": {
+  "educationexchange": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "IDRC research grant on an education data platform; nothing stated for this study's question."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The IDRC grant record (USD 25,442, 2023-2026) says the DHIS2-based digital platform has recently been tried with success in the Gambia to address the lack of an education management information system, and the project builds on it with districts as learning sites.",
+       "as_of": "2023-12-18",
+       "date_precision": "day",
+       "system": "District Health Information System used for EMIS",
+       "class": "emis"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "IDRC research grant on an education data platform; nothing stated for this study's question."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "IDRC research grant on an education data platform; nothing stated for this study's question."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "IDRC research grant on an education data platform; nothing stated for this study's question."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "IDRC research grant on an education data platform; nothing stated for this study's question."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "IDRC research grant on an education data platform; nothing stated for this study's question."
+    }
+   }
+  }
+ }
+}

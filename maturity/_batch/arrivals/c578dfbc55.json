@@ -1,0 +1,131 @@
+{
+ "slug": "2023-12-07-crs-4-2023afd00779-2023-fid-un-pole-d-utilisation-des-donnees-numeriques-p",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "data-use hub",
+       "country_label": "Togo",
+       "class": "other",
+       "platform": "",
+       "owner": "ANID with Ministry of Digital Economy",
+       "tiers": ""
+      }
+     ],
+     "note": "Data-use hub for social programmes; states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "data-use hub",
+       "country_label": "Togo",
+       "class": "other",
+       "platform": "",
+       "owner": "ANID with Ministry of Digital Economy",
+       "tiers": ""
+      }
+     ],
+     "note": "Data-use hub for social programmes; states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "data-use hub",
+       "country_label": "Togo",
+       "class": "other",
+       "platform": "",
+       "owner": "ANID with Ministry of Digital Economy",
+       "tiers": ""
+      }
+     ],
+     "note": "Data-use hub for social programmes; states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "data-use hub",
+       "country_label": "Togo",
+       "class": "other",
+       "platform": "",
+       "owner": "ANID with Ministry of Digital Economy",
+       "tiers": ""
+      }
+     ],
+     "note": "Data-use hub for social programmes; states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "data-use hub",
+       "country_label": "Togo",
+       "class": "other",
+       "platform": "",
+       "owner": "ANID with Ministry of Digital Economy",
+       "tiers": ""
+      }
+     ],
+     "note": "Data-use hub for social programmes; states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "data-use hub",
+       "country_label": "Togo",
+       "class": "other",
+       "platform": "",
+       "owner": "ANID with Ministry of Digital Economy",
+       "tiers": ""
+      }
+     ],
+     "note": "Data-use hub for social programmes; states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "data-use hub",
+       "country_label": "Togo",
+       "class": "other",
+       "platform": "",
+       "owner": "ANID with Ministry of Digital Economy",
+       "tiers": ""
+      }
+     ],
+     "note": "Data-use hub for social programmes; states nothing this study asks."
+    }
+   }
+  }
+ }
+}

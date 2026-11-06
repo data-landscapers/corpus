@@ -1,0 +1,23 @@
+{
+ "slug": "2025-02-06-soff-inf-10-2-revised-madagascar-investment-funding-request",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Funding request for ground stations; no satellite data use stated."
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Funding request for ground stations; no satellite data use stated."
+    }
+   }
+  }
+ }
+}

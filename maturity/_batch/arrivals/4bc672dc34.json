@@ -1,0 +1,23 @@
+{
+ "slug": "2026-03-01-crews-sierra-leone-2-0",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Weather and flood warning support project approved; no satellite data stated."
+    }
+   }
+  },
+  "metsatellite": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Weather and flood warning support project approved; no satellite data stated."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "slug": "2023-12-18-crs-301-20230103130006-2023-empowering-districts-and-schools-with-data-a-digit",
+ "studies": {
+  "educationexchange": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this topic for Sierra Leone."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "A 2023-2026 research project will use the District Health Information System platform to improve education management information systems, with two learning districts in each of seven countries including Sierra Leone, responding to Sierra Leone's call.",
+       "as_of": "2023-12-18",
+       "date_precision": "day",
+       "system": "District Health Information System platform applied to education EMIS",
+       "class": "emis"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this topic for Sierra Leone."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this topic for Sierra Leone."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this topic for Sierra Leone."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Research project across seven countries; no school-level system, owner, levels or coverage stated for Sierra Leone."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this topic for Sierra Leone."
+    }
+   }
+  }
+ }
+}

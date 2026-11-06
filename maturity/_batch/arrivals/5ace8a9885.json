@@ -1,0 +1,73 @@
+{
+ "slug": "2023-11-08-crs-1601-2023010475-01-2023-dup-2-0-workstream-2-2-digital-tools-and-data-use",
+ "studies": {
+  "health": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "hmis",
+       "system": "national HMIS",
+       "class": "hmis",
+       "as_of": "2023-11-08",
+       "date_precision": "day",
+       "aspect": "governance",
+       "value": "owner:ministry",
+       "fact": "Gates Foundation's 2023 grant record describes the national HMIS as the Ministry of Health's, which the grant is to help upgrade and maintain."
+      },
+      {
+       "sub_indicator": "hmis",
+       "system": "national HMIS",
+       "class": "hmis",
+       "as_of": "2023-11-08",
+       "date_precision": "day",
+       "aspect": "governance",
+       "value": "finance:donor",
+       "fact": "Gates Foundation committed USD 4,798,310 in 2023 (to 2027) to help Ethiopia's Ministry of Health upgrade and maintain the national HMIS."
+      }
+     ],
+     "systems": [
+      {
+       "system": "national HMIS",
+       "country_label": "Ethiopia HMIS",
+       "class": "hmis",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "hmis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "Gates Foundation's 2023 grant record says the funds are to help the Ministry of Health upgrade and maintain the national HMIS and build digital tools for data use (USD 4,798,310, 2023-2027).",
+       "as_of": "2023-11-08",
+       "date_precision": "day",
+       "system": "national HMIS",
+       "class": "hmis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national HMIS",
+       "country_label": "Ethiopia HMIS",
+       "class": "hmis",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "slug": "2023-12-18-crs-301-20230103130003-2023-empowering-districts-and-schools-with-data-a-digit",
+ "studies": {
+  "educationexchange": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "No exchange between education systems stated."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "emis",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "IDRC's project document says the District Health Information System platform has recently been tried with success in Togo, the Gambia and Uganda to address the lack of an education management information system.",
+       "as_of": "2023-12-18",
+       "date_precision": "day",
+       "system": "DHIS2-based education management information system (Togo trial)",
+       "class": "emis"
+      }
+     ],
+     "systems": [
+      {
+       "system": "DHIS2-based education management information system (Togo trial)",
+       "country_label": "Togo",
+       "class": "emis",
+       "platform": "DHIS2",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The platform named is used in education, not for health reporting in Togo."
+    }
+   }
+  },
+  "healthmis": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on a national health information system in Togo."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The research is led from the University of Oslo; no Togo institution named."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Trial of an education platform stated without saying a per-learner record kept by schools."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on social protection."
+    }
+   }
+  }
+ }
+}

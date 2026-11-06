@@ -1,0 +1,23 @@
+{
+ "slug": "2024-11-25-crs-1601-2024012641-01-2024-scaling-up-moove-ai-trial-in-5-countries",
+ "studies": {
+  "aisystems": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "A grant to evaluate an LLM clinical-decision tool in five countries; it states no AI built or hosted in South Africa and no local policy research."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "A grant to evaluate an LLM clinical-decision tool in five countries; it states no AI built or hosted in South Africa and no local policy research."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "2024-01-29-crs-742-2024000593-2024-strengthening-youth-and-msmes-through-establishmen",
+ "studies": {
+  "startups": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "A Korean ODA record of training or capacity building; no startup law, fund, hub or park is stated."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "hub",
+       "aspect": "hubs",
+       "value": "underway",
+       "fact": "Korea's CRS record of January 2024 describes a project establishing a Start-up Digital Innovation Academy at the Abuja Enterprise Agency in Abuja, with an academy operating system and a Champion Company fostering programme.",
+       "as_of": "2024-01-29",
+       "date_precision": "day",
+       "system": "Start-up Digital Innovation Academy",
+       "class": "hub"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Start-up Digital Innovation Academy",
+       "country_label": "Start-up Digital Innovation Academy, Abuja",
+       "class": "hub",
+       "platform": "",
+       "owner": "Abuja Enterprise Agency",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "2024-01-01-crs-963-2024027010-2024-003-birth-registration",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "UNICEF CRS grant record for birth registration; states no digital system, link or number."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "UNICEF CRS grant record for birth registration; states no digital system, link or number."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "UNICEF CRS grant record for birth registration; states no digital system, link or number."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "UNICEF CRS grant record for birth registration; states no digital system, link or number."
+    }
+   }
+  }
+ }
+}

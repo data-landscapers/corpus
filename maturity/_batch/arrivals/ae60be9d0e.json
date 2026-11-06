@@ -1,21 +1,21 @@
 {
  "slug": "2026-10-27-mwi-proposed-acquisition-of-assets-of-open-connect-limited-by-telekom-networks-malaw",
  "studies": {
-  "datacentres": {
+  "cloudstrategy": {
    "countries": {
     "MWI": {
      "facts": [],
      "systems": [],
-     "note": "Names a data centre in the sale but not that it rents to others or its Tier."
+     "note": "Document covers a commercial operator data centre; no government hosting policy and no government off-site backup site is stated."
     }
    }
   },
-  "nationaldatacentres": {
+  "offsitebackup": {
    "countries": {
     "MWI": {
      "facts": [],
      "systems": [],
-     "note": "Names a data centre in the sale but not that it rents to others or its Tier."
+     "note": "Document covers a commercial operator data centre; no government hosting policy and no government off-site backup site is stated."
     }
    }
   }

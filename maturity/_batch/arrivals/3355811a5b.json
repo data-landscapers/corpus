@@ -1,0 +1,23 @@
+{
+ "slug": "2024-01-01-monservis-government-services-portal",
+ "studies": {
+  "itcapacity": {
+   "countries": {
+    "SYC": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "monServis",
+       "country_label": "Seychelles",
+       "class": "other",
+       "platform": "web portal",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Portal page lists login and onboarding steps; it does not say who builds or runs it."
+    }
+   }
+  }
+ }
+}

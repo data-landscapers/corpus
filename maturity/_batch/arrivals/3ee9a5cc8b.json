@@ -1,130 +1,48 @@
 {
  "slug": "2026-10-29-mwi-how-can-education-systems-build-education-data-systems-that-enable-bet",
  "studies": {
-  "admindata": {
+  "coresystems": {
    "countries": {
     "MWI": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    },
-    "RWA": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks for this country."
+     "note": "A convening report on Malawi's education data (EMIS) governance framework; it states no core finance, tax or payroll system, and no health or justice system."
     }
    }
   },
-  "censuses": {
+  "health": {
    "countries": {
     "MWI": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    },
-    "RWA": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks for this country."
+     "note": "A convening report on Malawi's education data (EMIS) governance framework; it states no core finance, tax or payroll system, and no health or justice system."
     }
    }
   },
-  "civilserviceskills": {
+  "healthmis": {
    "countries": {
     "MWI": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    },
-    "RWA": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks for this country."
+     "note": "A convening report on Malawi's education data (EMIS) governance framework; it states no core finance, tax or payroll system, and no health or justice system."
     }
    }
   },
-  "digitalskills": {
+  "justice": {
    "countries": {
     "MWI": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    },
-    "RWA": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks for this country."
+     "note": "A convening report on Malawi's education data (EMIS) governance framework; it states no core finance, tax or payroll system, and no health or justice system."
     }
    }
   },
-  "educationexchange": {
+  "taxadmin": {
    "countries": {
     "MWI": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    },
-    "RWA": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    }
-   }
-  },
-  "educationmis": {
-   "countries": {
-    "MWI": {
-     "facts": [
-      {
-       "sub_indicator": "emis",
-       "aspect": "system",
-       "value": "underway",
-       "fact": "Malawi's Ministry of Education says it is moving from fragmented reporting towards a more connected EMIS and has developed a five-pillar EMIS governance framework including a national data warehouse.",
-       "as_of": "2026-10-14",
-       "date_precision": "day",
-       "system": "Malawi EMIS",
-       "class": "emis"
-      }
-     ],
-     "systems": [
-      {
-       "system": "Malawi EMIS",
-       "country_label": "Malawi EMIS governance framework",
-       "class": "emis",
-       "platform": "",
-       "owner": "Ministry of Education",
-       "tiers": ""
-      }
-     ],
-     "note": ""
-    },
-    "RWA": {
-     "facts": [],
-     "systems": [
-      {
-       "system": "Comprehensive Assessment Management Information System",
-       "country_label": "CAMIS",
-       "class": "other",
-       "platform": "Apache Superset dashboards",
-       "owner": "National Examination and School Inspection Authority",
-       "tiers": ""
-      }
-     ],
-     "note": "CAMIS is an assessment system of the examinations authority, not the ministry's EMIS."
-    }
-   }
-  },
-  "schools": {
-   "countries": {
-    "MWI": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks for this country."
-    },
-    "RWA": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing this study asks for this country."
+     "note": "A convening report on Malawi's education data (EMIS) governance framework; it states no core finance, tax or payroll system, and no health or justice system."
     }
    }
   }
