@@ -1,11 +1,11 @@
 ---
 title: South Sudan — News, Oct – Nov 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-06
+period: 2026-10-01 to 2026-11-06
 place: SSD
-ledger_rows: 5
+ledger_rows: 6
 not_held: 8
-record: 49778ad5352b
+record: 6e2164d8dc87
 ---
 
 # News, Oct – Nov 2026
@@ -28,6 +28,8 @@ record: 49778ad5352b
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
 ### Connectivity
@@ -41,6 +43,22 @@ record: 49778ad5352b
 **[Bayobab East to West Connectivity Project: fibre laid](https://tech.africa/bayobab-east-west-fibre-south-sudan/)** — TechAfrica, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
 Bayobab, an MTN Group company, said on 22 October 2026 that civil works and fibre deployment are complete on the Kenya and South Sudan segments of Northern Route 1 of its East-to-West Connectivity Project. The segments carry 2,038km of fibre, and service activation is the next step. The company gave no activation date, customers or cost.
+
+</div>
+
+</div>
+
+### Cybersecurity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Central bank and communications authority memorandum on digital financial services security</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Central Bank and National Communication Authority sign MoU on digital security](https://www.onecitizendaily.com/index.php/2026/11/05/central-bank-and-national-communication-authority-sign-mou-on-digital-security/)** — One Citizen Daily, 5 November 2026
+
+The Bank of South Sudan and the National Communication Authority signed an updated memorandum on digital financial services on 4 November 2026. It revises their 2018 agreement. It provides for information sharing, joint supervision and enforcement, and stronger consumer protection and cybersecurity.
 
 </div>
 
