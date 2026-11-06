@@ -1,6 +1,6 @@
 # Meteorological use of satellite data: satellite data in weather services
 
-*As at 2026-10-18.*
+*As at 2026-11-06.*
 
 ## The norm
 
@@ -32,7 +32,7 @@ The Integrated African Strategy on Meteorology asks for sustained access to geos
 
 ### Seychelles: 5 Leading
 
-The national weather service was ISO 9001-certified in 2025, with satellite-based warnings.
+The national weather service was ISO 9001-certified in 2025 and uses satellite data in nowcasting.
 
 - The South African Weather Service peer review says the Seychelles Meteorological Authority has implemented a QMS with ISO 9001/2015 certification for international air navigation in full, also covering climate services ([source, 2025-06-12](https://alliancehydromet.org/wp-content/uploads/2025/06/CHD-Report-Seychelles-final-draft_12June2025.pdf)).
 

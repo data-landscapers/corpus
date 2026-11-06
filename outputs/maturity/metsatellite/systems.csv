@@ -47,12 +47,14 @@ MRT,ClimSA and PUMA stations,"Nouakchott, Mauritania",metsat,MSG/MTG reception a
 MUS,"Meteosat satellite data system (MDD, HRPT, PDUS)",Mauritius,metsat,Meteosat / polar orbiters,Mauritius Meteorological Services,,2026-01-01-mus-mms-historical-background
 MUS,NOAA HRPT reception,Mauritius,metsat,HRPT,Mauritius Meteorological Services,,2008-01-01-mus-mms-cyclone-season-technical-report-2006-2007
 MUS,Meteosat Second Generation (MSG),Mauritius,metsat,Meteosat/RETIM,Mauritius Meteorological Services,,2008-01-01-mus-mms-cyclone-season-technical-report-2006-2007
+MUS,GCF FP161 regional early warning project,Mauritius,other,multi-hazard early warning system (in development),Indian Ocean Commission; AFD,regional,2021-03-19-gcf-building-regional-resilience-through-strengthened-meteorological-hydrologica
 MWI,PUMA 2025 (Skyceiver),Malawi,other,web-based data reception platform for Meteosat Third Generation data,African Union / EUMETSAT / ClimSA,regional,2025-12-01-zanyengo-e-newsletter-edition-iv
 MWI,PUMA 2025,Malawi,metsat,Meteosat satellite reception system,DCCMS,national,2025-08-02-dccms-climsa-satellite-upgrade
 MWI,PRISM,Malawi,metsat,geospatial analytics,"DCCMS with WFP, Norway-funded",pilot in five districts,2025-08-14-mwi-malawi-pilots-prism-drought-monitoring-tool-to-strengthen-climate-resi
 NAM,FY-3 satellite data receiving and processing systems,Namibia,metsat,FY-3,Namibian Meteorological Service,,2018-07-11-nam-china-embassy-meteorological-equipment-handover
 NAM,FY-3 satellite data collecting and processing system,Namibia,metsat,FY-3,Namibia Meteorological Service,,2018-07-09-nam-economist-meteorological-equipment-donation
 NER,EUMETView,Image Satelitaire,metsat,EUMETSAT EUMETView (Meteosat SEVIRI),Direction de la Météorologie Nationale du Niger (DMN),national,2026-03-01-dmn-niger-image-satellite
+NER,CREWS Niger,Niger,other,early-warning bulletins and services,Direction de la Météorologie Nationale du Niger (DMN),national,2024-08-01-crews-niger-2-0
 NGA,PUMA 2025-MTG satellite receiving system,NGA,metsat,Meteosat Third Generation (PUMA 2025 / ClimSA),Nigerian Meteorological Agency (NiMet),"headquarters station, internet access for airport forecast offices nationwide",2025-05-09-nimet-mtg-satellite-installation
 NGA,MSG 2015 station,NGA,metsat,Meteosat Second Generation,Nigerian Meteorological Agency (NiMet),separate deployment per location,2025-05-09-nimet-mtg-satellite-installation
 RWA,EUMETCast (MSG/MTG),Rwanda,metsat,EUMETCast,METEO Rwanda,,2026-07-13-rwa-undp-ai-ml-weather-feasibility-study
@@ -67,6 +69,7 @@ SOM,MTG receiver and PUMA-2025 workstation,Somalia,metsat,ClimSA,Somali Civil Av
 SOM,DRIVE pasture index insurance,Somalia,other,satellite pasture index,ZEP-RE with World Bank and governments,,2026-04-07-som-no-one-filed-a-claim-71-290-pastoralist-families-got-paid-anyway
 SOM,ARC drought insurance parametric indices,Somalia,other,satellite data and agro-meteorological indicators,African Risk Capacity,,2025-04-01-som-somalia-drought-insurance-payout-bulletin-2024-25-deyr-season
 SYC,EUMETSAT satellite products,Seychelles,metsat,internet access,Seychelles Meteorological Authority,,2025-06-12-syc-saws-country-hydromet-diagnostics
+SYC,GCF FP161 regional early warning project,Seychelles,other,multi-hazard early warning system (in development),Indian Ocean Commission; AFD,regional,2021-03-19-gcf-building-regional-resilience-through-strengthened-meteorological-hydrologica
 TCD,NWCSAF RDT nowcasting,Chad,metsat,EUMETSAT / AEMET,ANAM,,2026-02-03-tcd-wmo-strengthening-early-warning-chad
 TGO,Togo Data Lab MOSAIKS,Togo,other,MOSAIKS satellite imagery models,Ministry of Digital Economy with CEGA,,2025-07-25-tgo-togo-and-uc-berkeley-a-data-science-alliance-to-build-a-dynamic-west-a
 TUN,Meteosat receiving and exploitation systems,Tunisia,metsat,Meteosat,Institut National de la Meteorologie,national,2024-09-16-eumetsat-user-forum-africa-tunisie-inm-meteosat

@@ -27,3 +27,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,ZAF,data.geospatial--meteorological-use-of-satellite-data,review,no evidence,3,ZAF-001,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,ZMB,data.geospatial--meteorological-use-of-satellite-data,review,no evidence,3,ZMB-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,ZWE,data.geospatial--meteorological-use-of-satellite-data,review,no evidence,3,ZWE-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
+2026-11-06,NER,data.geospatial--meteorological-use-of-satellite-data,fact,2,2,NER-001,"CREWS Niger 1.0 and 2.0 rows: bulletins and planned early-warning reports, no satellite data named; stays 2"
+2026-11-06,MUS,data.geospatial--meteorological-use-of-satellite-data,fact,unplaced,unplaced,,"GCF FP161 row: regional early-warning project, no satellite data named; stays unplaced"
+2026-11-06,SYC,data.geospatial--meteorological-use-of-satellite-data,fact,5,5,SYC-002,GCF FP161 row: no satellite data named; stays 5 on certification; short no longer claims satellite-based warnings

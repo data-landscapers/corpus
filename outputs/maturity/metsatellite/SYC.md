@@ -8,6 +8,6 @@
 
 **ISO 9001 certified.** [The South African Weather Service peer review says the Seychelles Meteorological Authority has implemented a QMS with ISO 9001/2015 certification for international air navigation in full, also covering climate services](<https://alliancehydromet.org/wp-content/uploads/2025/06/CHD-Report-Seychelles-final-draft_12June2025.pdf>).
 
-***Also on file***. None found.
+***Also on file***. [GCF FP161 regional early warning project](<https://www.greenclimate.fund/portfolio/projects/fp161>).
 
 ***Not found***. Nothing further is asked of this indicator.

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "",
       "gaps": "Nothing found since October 2023 says whether the national weather service receives or uses satellite data.",
-      "note": "First pass: counted from the four questions by study-ladder-metsatellite.py.",
-      "as_at": "2026-10-18"
+      "note": "Reassessed 2026-11-06 against the GCF FP161 row: a regional early-warning project, approved 2021, that names no satellite data; still unplaced.",
+      "as_at": "2026-11-06"
     }
   ]
 }

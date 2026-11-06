@@ -1,2 +1,3 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 NER,EUMETView,Image Satelitaire,metsat,EUMETSAT EUMETView (Meteosat SEVIRI),Direction de la Météorologie Nationale du Niger (DMN),national,2026-03-01-dmn-niger-image-satellite
+NER,CREWS Niger,Niger,other,early-warning bulletins and services,Direction de la Météorologie Nationale du Niger (DMN),national,2024-08-01-crews-niger-2-0
