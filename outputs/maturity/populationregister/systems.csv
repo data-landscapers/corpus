@@ -29,6 +29,7 @@ CIV,RNPP,RNPP,population,,ONECI,,2026-05-01-civ-la-cote-d-ivoire-vers-une-identi
 CIV,RNPP,National Register of Natural Persons,population,,ONECI,,2026-10-29-cameroon-looks-to-cote-divoire-to-advance-digital-civil-registration-biomet
 COD,registre de la population de Kinshasa,RD Congo (Kinshasa province),population,compilation server,"Ville-province de Kinshasa, provincial Interior Ministry",provincial,2025-11-04-radiookapi-debut-digitalisation-registre-population-kinshasa
 COD,Fichier general de la population (FGP),RDC,other,,ONIP,,2024-08-11-cod-acp-etat-civil-communication-onip-fgp
+COD,"Digital population register, commune of Kintambo (pilot)",DR Congo,population,,Commune de Kintambo,commune; Ville-Province de Kinshasa,2024-01-01-crs-2-2024009283-2024-projet-pilote-de-digitalisation-du-registre-de-la
 CPV,SNIAC,Sistema Nacional de Identificação e Autenticação Civil,population,central civil identification database with PKI,Conselho de Gestão (coordinated by the registry and identification ministry),,2013-09-17-cpv-bo-lei-43-viii-2013-sniac
 DJI,Registre national des personnes physiques,Djibouti,population,,Direction générale de la Population et de la Famille,,2026-07-23-lanation-carte-nationale-identite-biometrique
 DJI,Registre National des Personnes Physiques (RNPP) / NNI,Djibouti,population,"biometric, centralised",Direction Generale de la Population et de la Famille with ANSIE,,2024-01-01-numerique-gouv-dj-registre-national-personnes-physiques
@@ -36,6 +37,7 @@ DZA,Registre national automatisé de l'état civil,Algeria,population,commune da
 DZA,Registre national de l'Etat civil,Algeria,population,,Ministry of Interior,,2024-01-18-dza-lnr-merad-registre-national-etat-civil
 DZA,unified national civil-status database,Algeria,population,,Ministry of Justice,,2025-05-20-dza-lavoiedalgerie-reforme-etat-civil-numerisation
 EGY,National citizen database,Egypt,population,,"Civil Status Authority, Ministry of Interior",,2020-12-26-egy-almasryalyoum-qanun-ahwal-madaniya
+GAB,e.CNSS,Gabon,other,e.cnss.ga,CNSS,,2026-09-17-gab-gabonclic-cnss-revolution-numerique-service-public
 GIN,Registre national des personnes physiques (RNPP),RNPP,population,,ONECI and DGE under MATD,,2026-09-18-gin-guinee114-atelier-extension-rnpp
 GIN,registre national des personnes physiques,Guinea,population,,ONECI,,2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral
 GIN,Registre national d'identite (RNPP),Guinee,population,,ONECI,,2026-07-25-mediaguinee-oneci-ng-tech-rnpp
