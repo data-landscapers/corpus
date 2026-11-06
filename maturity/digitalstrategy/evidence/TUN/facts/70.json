@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-22-crs-5-2024000286-2024-relance-3-0",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The CRS record for Germany's Relance 3.0 project says Tunisia's digitalisation of administration is promoted by a national digital strategy, with GIZ supporting its implementation since 2019.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "national digital transformation strategy",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
