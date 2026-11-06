@@ -241,6 +241,7 @@ EGY,InstaPay,Egypt,retail,,,,2026-09-15-egy-enterprise-digital-egp-versus-instap
 EGY,Digital EGP,Egypt,other,,Central Bank of Egypt,,2026-09-15-egy-enterprise-digital-egp-versus-instapay
 EGY,Orange Cash,Orange Cash,retail,,Orange Egypt,,2026-10-20-orange-egypt-partners-with-botim-to-enable-uae-to-egypt-remittances
 EGY,InstaPay,InstaPay,retail,,Central Bank of Egypt,,2024-12-05-egy-cbe-instant-inbound-remittances-primary
+EGY,Paymob,Egypt,other,,Paymob International B.V.,,2024-08-01-crs-12-2024eq5415c7761-2024-paymob-international-b-v
 ERI,EriTel-linked mobile wallets,Eritrea,retail,mobile wallet,EriTel,,2026-03-30-eritreas-fintech-ecosystem-2026-financial-inclusion
 ERI,M-Nakfa,Eritrea,retail,"mobile wallet, e-float backed by cash deposits",Himbol Community Financial Services,"individual, merchant and agent accounts",2025-01-01-eri-himbol-customers-partners-guide-m-nakfa
 ETH,ZooryaPay,Ethiopia,retail,ETTA Solutions,ETTA Solutions PLC,PSO licence,2026-10-07-eth-capital-visa-etta-contactless-devices
@@ -343,6 +344,7 @@ GMB,PAPSS,Gambia,other,Pan-African Payment and Settlement System,PAPSS,"Particip
 GMB,SUTURA,GMB,retail,,Nifty ICT Solutions with GAMPOST,,2026-07-20-gambia-accountant-general-sutura-digital-revenue-collection
 GMB,mobile money,The Gambia,retail,,,,2026-05-21-cbg-monetary-policy-committee-press-release-may-2026
 GMB,Afrimoney,The Gambia,retail,Afrimoney,Africell,,2026-06-26-gmb-afrimoney-connects-the-gambia-and-sierra-leone-directly-in-historic-fi
+GMB,QMoney,Gambia,retail,,,,2026-07-28-gmb-thousands-of-beneficiaries-receive-nafa-cash-transfer
 GNB,PI-SPI,Guinea-Bissau,other,,BCEAO,regional,2026-10-07-xwa-forbesafrica-pi-spi-interoperability-not-free
 GNB,PAPSS,Guinea-Bissau,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
 GNB,Orange Money,Guinea-Bissau,retail,mobile money,Orange,,2026-09-11-gnb-ang-educacao-digitalizacao-orcamento
@@ -510,6 +512,7 @@ MOZ,Emola,Mozambique,retail,mobile money,Movitel,,2023-11-24-moz-kabum-plataform
 MOZ,Mkesh,Mozambique,retail,mobile money,TMcel,,2023-11-24-moz-kabum-plataforma-registo-empresas
 MOZ,METIX,Mozambique,retail,,,,2026-10-28-moz-governor-felisberto-navalha-delivers-opening-address-at-51st-banco-de
 MOZ,Instituições de Moeda Eletrónica (mobile money),Mozambique,retail,mobile money,three mobile telecom operators,,2024-07-24-moz-fmi-sugere-a-mocambique-pagar-apoios-traves-de-carteiras-digitais
+MOZ,campaign worker databases for digital payment,Mozambique,other,,Dimagi Inc. (implementer),,2024-12-19-crs-1601-2024012782-09-2024-campaign-worker-databases-to-facilitate-rapid-digi
 MRT,QR code payment,Mauritania,retail,,,,2026-04-13-bad-pamif-mauritanie-secteur-financier-telecompensation-paiement-qr
 MRT,QR code payment,Mauritania,retail,,,,2026-04-13-pamif-financial-inclusion-afdb
 MRT,GIMTEL interconnection,Mauritania,retail,interbank switch for bank apps and e-wallets,GIMTEL,,2024-10-14-gimtel-interbank-transactions-launch
@@ -811,6 +814,8 @@ UGA,Airtel Money,Uganda,retail,,Airtel Mobile Commerce Uganda,,2026-07-22-airtel
 UGA,MTN MoMo,Uganda,retail,USSD,MTN,,2025-10-08-uganda-5-5bn-digital-project-cbdc-shilling
 UGA,Airtel Money,Uganda,retail,USSD,Airtel,,2025-10-08-uganda-5-5bn-digital-project-cbdc-shilling
 UGA,MTN Mobile Money,Uganda,retail,mobile money,MTN Uganda,,2026-11-05-mtn-uganda-profits-rise-as-data-slows
+UGA,Quickteller Agency Banking,"Interswitch Quickteller agency banking, 23,000+ agents",other,agent point-of-sale terminals,Interswitch East Africa,,2026-11-05-interswitch-deepens-uganda-s-digital-banking-reach
+UGA,national central data hub for credit reference bureaus,Uganda,other,,,,2024-07-09-crs-1601-2024011309-01-2024-uganda-central-data-hub
 ZAF,Scan to Pay,ZAF,retail,Samsung Wallet,EFT Corp,,2026-08-31-itweb-co-za-samsung-digital-wallet
 ZAF,Capitec Pay,South Africa,retail,,Capitec Bank,,2026-08-06-compcom-approves-capitecs-walletdoc-acquisition
 ZAF,PayShap,South Africa,retail,Rapid Payments Programme,,,2026-08-06-compcom-approves-capitecs-walletdoc-acquisition

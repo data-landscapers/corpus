@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-28-gmb-thousands-of-beneficiaries-receive-nafa-cash-transfer",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Standard reports that Nafa cash transfer payments to beneficiaries were made electronically via QMoney's platform, with transaction fees covered by the programme.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "QMoney",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "QMoney",
+   "country_label": "Gambia",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
