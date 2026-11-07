@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-30-zwe-improving-reporting-of-morbidity-and-cause-of-death-in-zimbabwe-with-d",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "DHIS2.org says the WHO ICD-11 repository used by the Ministry of Health's health systems runs as a central application hosted on Zimbabwe's national data centre.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "national data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
