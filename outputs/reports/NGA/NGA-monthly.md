@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: NGA
-ledger_rows: 83
+ledger_rows: 87
 not_held: 9
-record: 45744feae49a
+record: 899f13bb0af1
 ---
 
 # News, Oct – Nov 2026
@@ -203,6 +203,20 @@ Nigeria's Attorney-General said the Federal Ministry of Justice has advanced a d
 **[Banks, Fintechs Face N1bn Fine for Exporting Payment Data Under New Bill](https://businesspost.ng/banking/banks-fintechs-face-n1bn-fine-for-exporting-payment-data-under-new-bill/)** — Business Post Nigeria, 2 November 2026
 
 A bill before Nigeria's House of Representatives, sponsored by Lanre Okunlola, would set up a National Payment Data Protection and Sovereignty Commission. Institutions moving payment data abroad would face a minimum fine of N1 billion. Individuals would face 10 years in prison and a minimum fine of N500 million.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Digital Economy and E-Governance Bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria is rewriting its cyber laws, but can it secure its systems against hackers?](https://techcabal.com/2026/11/06/nigeria-is-rewriting-its-cyber-laws/)** — TechCabal, 6 November 2026
+
+Cybercrime, cybersecurity and digital economy bills expected January-June 2027, after the election.
 
 </div>
 
@@ -594,6 +608,28 @@ Ripples Nigeria published an investigation in October 2026 into Chinese loans fo
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Lagos State cable clean-up enforcement against internet service providers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lagos Directs ISPs to Clean Up Telecom Infrastructure in Three Areas Ahead of Enforcement](https://techafricanews.com/2026/11/06/lagos-directs-isps-to-clean-up-telecom-infrastructure-in-three-areas-ahead-of-enforcement/)** — Tech Africa News, 6 November 2026
+
+LASIMRA notice of 2 November: ISPs in Ikeja and Ikate must tidy cables before enforcement from 9 November.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lagos orders ISPs to secure cables](https://www.itweb.africa/article/lagos-orders-isps-to-secure-cables/nWJad7bNRRE7bjO1)** — ITWeb Africa, 6 November 2026
+
+State regulator enforces cable clean-up from 9 November; NCC counts 110,577km of on-land fibre (Dec 2024).
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -963,6 +999,44 @@ Verve, Nigeria's largest card scheme, plans phone tap-to-pay and later payments 
 **[How FG selects beneficiaries for N50,000 relief](https://punchng.com/how-fg-selects-beneficiaries-for-n50000-relief/)** — Punch, 4 November 2026
 
 The Federal Government says beneficiaries of the N50,000 relief under NERSI are chosen from verified national identity records and the National Social Register. The register holds data on more than 70 million people. Enrolment in both is required, payment goes to a mobile wallet linked to the NIN, and people cannot apply to be added.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Licensing regime for fiat-collateralised stablecoins</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Regulations for the Operations of Non-Security Virtual Assets in Nigeria](https://www.cbn.gov.ng/Out/2026/CCD/REGULATIONS%20FOR%20THE%20OPERATIONS%20OF%20NON-SECURITY%20VIRTUAL%20ASSETS%20IN%20NIGERIA.pdf)** — Central Bank of Nigeria, 5 November 2026
+
+167-page CBN rulebook licensing stablecoin issuers and deposit money tokens; algorithmic coins banned; start unset.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria sets $11.16 million capital requirement for foreign stablecoin issuers](https://techcabal.com/2026/11/06/cbn-new-rules-foreign-stablecoin-issuers/)** — TechCabal, 6 November 2026
+
+NGN 15bn capital for foreign-currency stablecoin issuers, NGN 10bn for naira tokens; local licensed entity required.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria's Central Bank wants every crypto P2P payment linked to a bank transaction](https://techcabal.com/2026/11/06/cbn-tightens-crypto-p2p-rules/)** — TechCabal, 6 November 2026
+
+P2P platforms must match each naira payment to its crypto transfer by name and BVN; issuers able to freeze wallets.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria's crypto firms face $744,000 capital rule as CBN, SEC divide oversight](https://techcabal.com/2026/11/06/cbn-sec-divide-crypto-oversight/)** — TechCabal, 6 November 2026
+
+CBN takes stablecoin payments, SEC keeps trading; extra NGN 1bn capital; SEC exchange floor NGN 2bn by mid-2027.
 
 </div>
 
@@ -1419,6 +1493,20 @@ Nigeria's Digital Bridge Institute has been designated an ITU Digital Transforma
 **[UNDP, Cisco Offer 50,000 Nigerian Graduates Free Digital Skills Training to Boost Job Prospects](https://opportunitieshub.ng/2026/10/21/undp-cisco-offer-50000-nigerian-graduates-free-digital-skills-training-to-boost-job-prospects/)** — Opportunities Hub, 21 October 2026
 
 UNDP and Cisco signed a memorandum in Abuja giving up to 50,000 fellows and alumni of the Nigeria Jubilee Fellows Programme free access to Cisco Networking Academy courses. The programme is a federal youth-employability scheme funded by the European Union and run by UNDP; Cisco valued its contribution at more than USD 52.7 million.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data-protection officer certification pipeline</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Data Protection Commission calls for stronger public-private partnerships at Data Protection Africa Summit 2026](https://techreviewafrica.com/news/8144/nigeria-data-protection-commission-calls-for-stronger-public-private-partnerships-at-data-protection-africa-summit-2026)** — Tech Review Africa, 6 November 2026
+
+NDPC claims 27,000 jobs and certified DPOs up from under 1,000 to over 10,000 through partnerships.
 
 </div>
 
