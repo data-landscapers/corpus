@@ -1,12 +1,12 @@
 ---
 title: Liberia: status report
-compiled: 2026-11-06
+compiled: 2026-11-07
 place: LBR
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 8
-sources_cited: 204
+sources_cited: 208
 sections_written: 39
 not_established: 3
 acquire_lines: 60
@@ -16,7 +16,7 @@ acquire_lines: 60
 ### Strategies, plans and policies
 <!-- gov.policy -->
 
-[Liberia published Digital Liberia, its national digital strategy for 2025-2029, in February 2026](https://www.ecofinagency.com/news-digital/0302-52542-liberia-outlines-national-digital-transformation-plan-for-2025-2029). [It covers e-governance, data sovereignty and interoperability](https://www.ecofinagency.com/news-digital/0302-52542-liberia-outlines-national-digital-transformation-plan-for-2025-2029). [It contains no data exchange strategy and no implementation roadmap with milestones](https://www.ecofinagency.com/news-digital/0302-52542-liberia-outlines-national-digital-transformation-plan-for-2025-2029).
+[Liberia published Digital Liberia, its national digital strategy for 2025-2029, in February 2026](https://www.ecofinagency.com/news-digital/0302-52542-liberia-outlines-national-digital-transformation-plan-for-2025-2029). [It covers e-governance, data sovereignty and interoperability](https://www.ecofinagency.com/news-digital/0302-52542-liberia-outlines-national-digital-transformation-plan-for-2025-2029). [It contains no data exchange strategy and no implementation roadmap with milestones](https://www.ecofinagency.com/news-digital/0302-52542-liberia-outlines-national-digital-transformation-plan-for-2025-2029). [A draft National ICT Policy for 2025-2030](https://mopt.gov.lr/wp-content/uploads/2022/06/NATIONAL-ICT-POLICY2025-2030Draft-1-Jan-7-2025.docx.pdf) [went to a stakeholder review held by the posts and telecommunications ministry in September 2025](https://techafricanews.com/2025/09/10/liberia-reviews-national-ict-policy-to-drive-digital-transformation/); no adoption has been found.
 
 [Executive Order 163 of April 2026 created an Office for Technology and Digital Innovation and a National Digital Master Infrastructure](https://www.liberianobserver.com/news/boakai-s-executive-order-163-signals-digital-government-shift/article_7a31a87b-4fe2-4578-9ff7-b0224f3bf36a.html). [The Ministry of Posts and Telecommunications' National Data Governance Policy of March 2026 would introduce data classification and localisation requirements](https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf). [It recommends building machine learning into the government's digital roadmap, with safeguards for automated decision-making](https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf). No instrument adopting the policy has been found. [The ministry's cybersecurity strategy carries no adoption instrument](https://mopt.gov.lr/wp-content/uploads/2026/02/Liberia_National-Cyber-Security-Strategy-2025-2029.docx.pdf).
 
@@ -195,6 +195,8 @@ The regulator [announced a package of telecom reforms in July 2026 and revoked S
 [No law requires or governs cross-government data sharing; the legal basis for digital services rests on the Electronic Transactions Law of 2002 and the registry's 2011 Act](https://www.uneca.org/sites/default/files/ATPC/cp/Digital%20trade%20regulatory%20integration%20-%20Country%20profile%20-%20Liberia-%20ENG.pdf). [The Digital Liberia strategy for 2025-2029 names data sovereignty and interoperability but carries no data exchange strategy](https://www.ecofinagency.com/news-digital/0302-52542-liberia-outlines-national-digital-transformation-plan-for-2025-2029). [Each institution collects its own geospatial data](https://www.liberianobserver.com/news/lla-takes-liberia-s-land-modernization-drive-to-un-geospatial-forum/article_6395fd70-5dfc-496a-bc1c-944a19aff053.html) (August 2026). [The statistics institute's survey of data users recommended a formal inter-agency protocol and application programming interfaces](https://lisgis.gov.lr/admin_area/surveys/pdf/202601161137199Data_User_Report.pdf) (2026). [Cross-agency flows still depend on manual working groups](https://lisgis.gov.lr/admin_area/surveys/pdf/202601161137199Data_User_Report.pdf).
 
 [Government discloses its digital activity through periodic strategy publications and press briefings, with no dashboard](https://africafintechnetwork.com/liberia-unveils-5-year-digital-liberia-strategy-to-boost-sovereignty-and-innovation/) (2026). [The data-sharing agreement under the December 2025 health memorandum with the United States is being sought through freedom-of-information litigation in Washington](https://www.citizen.org/wp-content/uploads/2026.04.02-Complaint.pdf) (April 2026). [The nearest text in public is a model agreement released by an American advocacy group](https://www.citizen.org/wp-content/uploads/Model-Data-Sharing-Agreement.pdf).
+
+[Since 2014 mHero has linked the health workforce system, DHIS2 and a messaging platform over an OpenHIE architecture, reaching about 10,000 health workers](https://ohie.org/impact-stories/systematizing-communication-channels-to-support-health-messaging-needs-in-west-africa-and-beyond/) (2021). In March 2026 [Liberia was one of four pilot countries in the West African Health Organisation's first phase of automated transfer of routine health data from national DHIS2 systems](https://atlanticinfos.tg/2026/03/08/benin-waho-initie-la-mise-en-oeuvre-du-partage-automatise-des-donnees-de-sante-de-routine-phase-1/); no go-live date is stated.
 
 ### Digital Identity and CRVS
 <!-- dpi.id -->
