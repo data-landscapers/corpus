@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register",
+ "fact": "Employers must enter the NIC number of each Mauritian employee in the Return of Employees for the income year ended 30 June 2026, and TDS payers the NIC number of payees.",
+ "title": "Communique: Submission of Return of Employees (ROE) / Annual Tax Deduction at Source (TDS) Statement",
+ "publisher": "Mauritius Revenue Authority",
+ "published": "2026-08-11",
+ "date_source": "source",
+ "why_not": ""
+}

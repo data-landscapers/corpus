@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "operation",
+ "fact": "The Guinea-Bissau ID card system is managed by the Ministry of Justice's Directorate of Identification and run in partnership with Semlex Guinea-Bissau, whose staff of about forty carry out enrolment and issuance.",
+ "title": "New Enrollment Center in Bissau",
+ "publisher": "Semlex",
+ "published": "2024-07-01",
+ "date_source": "source",
+ "why_not": ""
+}

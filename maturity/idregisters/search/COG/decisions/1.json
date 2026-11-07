@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register;matching",
+ "fact": "On 20 February 2026 the SIFEC validation workshop closed with the ACSI director saying the civil registration system will check real identity when the NIU is issued and when civil servants are registered on the payroll, and the report cites 17% (13,578) of civil servants counted as ghosts.",
+ "title": "Le Congo déploie une réforme digitale pour assainir le fichier solde de l'État",
+ "publisher": "Société.cg",
+ "published": "2026-02-22",
+ "date_source": "source",
+ "why_not": ""
+}

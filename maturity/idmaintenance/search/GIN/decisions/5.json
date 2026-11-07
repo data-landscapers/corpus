@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "operation",
+ "fact": "Decree D/2025/051 of 14 April 2025 makes the body in charge of civil status and identification the authority that creates, manages and keeps the NPI.",
+ "title": "Décret portant création, gestion et conservation d'un Numéro Personnel d'Identification (NPI) en République de Guinée",
+ "publisher": "République de Guinée (Présidence)",
+ "published": "2025-04-14",
+ "date_source": "source",
+ "why_not": ""
+}

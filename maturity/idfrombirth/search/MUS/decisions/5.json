@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "frombirth",
+ "aspect": "number;national",
+ "fact": "The Civil Status Division maintains a database for the generation of a unique identification number of each citizen at the time of birth registration.",
+ "title": "Pay Research Bureau Report 2024: Civil Status Division",
+ "publisher": "Pay Research Bureau",
+ "published": "2024-03",
+ "date_source": "source",
+ "why_not": ""
+}

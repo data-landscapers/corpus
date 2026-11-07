@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "registers",
+ "aspect": "",
+ "fact": "",
+ "title": "Voter Registration Info",
+ "publisher": "Electoral Commission of Zambia",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "headline-only-stub: undated service page; states voter lookup by NRC number but carries no date to cite"
+}

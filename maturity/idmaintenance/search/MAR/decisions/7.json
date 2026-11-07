@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "operation;maintenance",
+ "fact": "The DGSN's 2023 annual review states it developed the national trusted-third-party identity platform and launched the Mon identité numérique app, and issued 4,269,781 new-generation CNIE in 2023 at its own Rabat and Marrakech centres.",
+ "title": "Sécurité – Bilan 2023 des services de la Sûreté nationale (DGSN)",
+ "publisher": "Article19.ma (DGSN communiqué)",
+ "published": "2023-12-26",
+ "date_source": "source",
+ "why_not": ""
+}

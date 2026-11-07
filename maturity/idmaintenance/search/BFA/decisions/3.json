@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "operation",
+ "fact": "On 29 December 2025 the Office National d'Identification reported it had itself produced 1,531,104 national identity cards (CNIB) in 2025.",
+ "title": "Office National d'identification (ONI) du Burkina Faso : plus de 1.500.000 cartes d'identité produites en 2025",
+ "publisher": "Laborpresse",
+ "published": "2026-01-02",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register;matching",
+ "fact": "The TADAT assessment of the tax administration (fieldwork 15 to 28 November 2023) states that individuals obtain an IFU online with their identification data retrieved automatically from ANIP through the NPI, and that the DGI matched its IFU file with the RNPP to detect IFUs without an NPI before linking the two systems.",
+ "title": "Bénin - Outil diagnostique d'évaluation de l'administration fiscale (TADAT), rapport technique",
+ "publisher": "TADAT Secretariat / Direction Générale des Impôts du Bénin",
+ "published": "2024-01",
+ "date_source": "source",
+ "why_not": ""
+}

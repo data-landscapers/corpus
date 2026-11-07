@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register",
+ "fact": "A CAGD memo of 11 February 2026 set a 15 March 2026 deadline for public employees to verify Ghana Card numbers, after the e-Payslip platform integrated with the NIA database flagged payroll NIA numbers that failed to match biometric records.",
+ "title": "CAGD: Verify Ghana Card details by March 15 or face salary suspension",
+ "publisher": "Citi Newsroom",
+ "published": "2026-02-15",
+ "date_source": "source",
+ "why_not": ""
+}

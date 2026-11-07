@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register",
+ "fact": "Applications for the Independence Allowance, paid by the MRA to youths on the Social Register of Mauritius, must include the National Identity Card number of the eligible youth.",
+ "title": "Independence Allowance",
+ "publisher": "Mauritius Revenue Authority",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

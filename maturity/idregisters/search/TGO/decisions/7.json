@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "registers",
+ "aspect": "",
+ "fact": "",
+ "title": "FAQ - mon identité",
+ "publisher": "ANID",
+ "published": "",
+ "date_source": "source",
+ "why_not": "headline-only-stub: undated FAQ page, no dated fact on a register keyed on the NIU"
+}

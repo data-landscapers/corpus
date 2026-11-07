@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://mwnation.com/staff-audit-lays-bare-disparities/",
+  "title": "Staff audit lays bare disparities",
+  "publisher": "Nation Online",
+  "published": "2026-09-01",
+  "sub_indicator": "registers",
+  "why": "Q4: payroll audit reconciling HRMIS with physical verification"
+ },
+ {
+  "url": "https://mwnation.com/wage-bill-crisis-triggers-public-service-audit/",
+  "title": "Wage bill crisis triggers public service audit",
+  "publisher": "Nation Online",
+  "published": "2025-12-08",
+  "sub_indicator": "registers",
+  "why": "Q2/Q4: payroll audit requires national ID"
+ },
+ {
+  "url": "https://www.nrb.gov.mw/",
+  "title": "NRB - The National Registration Bureau",
+  "publisher": "National Registration Bureau",
+  "published": "",
+  "sub_indicator": "registers",
+  "why": "Q3/Q4: linkages with payroll, tax, electoral; ~3000 ghost workers removed"
+ },
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2026-01/malawi_nrb_strategic_plan_2025_web.pdf",
+  "title": "Strategic Plan 2025 - 2030",
+  "publisher": "National Registration Bureau (UNDP-hosted)",
+  "published": "2026",
+  "sub_indicator": "registers",
+  "why": "Q3: MRA, pensions, voter reg, social cash transfer use ID"
+ },
+ {
+  "url": "https://www.undp.org/blog/journey-innovation-and-inclusivity-building-next-phase-malawis-digital-future",
+  "title": "A journey of innovation and inclusivity: Building the next phase of Malawi's digital future",
+  "publisher": "UNDP",
+  "published": "2024-09-20",
+  "sub_indicator": "registers",
+  "why": "Q3: ID integrated in voting, payroll, tax"
+ },
+ {
+  "url": "https://mwnation.com/making-national-id-work-beyond-voter-registration/",
+  "title": "Making national ID work beyond voter registration",
+  "publisher": "Nation Online",
+  "published": "2024-07-20",
+  "sub_indicator": "registers",
+  "why": "Q2: ID only legal proof for voter registration"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099100325093520180/pdf/P505095-a4c66f94-3385-4c95-b175-bfa83f2438df.pdf",
+  "title": "Official Use (World Bank ID mission aide-memoire, DMAP)",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "registers",
+  "why": "Q1: UBR integration with NRIS planned"
+ },
+ {
+  "url": "https://www.undp.org/digital-innovation/stories/malawis-foundational-legal-identity-system-sets-stage-more-efficient-and-responsible-digital-future",
+  "title": "Malawi's foundational legal identity system sets the stage",
+  "publisher": "UNDP",
+  "published": "2022-05-20",
+  "sub_indicator": "registers",
+  "why": "Q4: US$20m ghost beneficiaries payments retained"
+ }
+]

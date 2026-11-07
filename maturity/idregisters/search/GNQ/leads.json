@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/reunion_del_primer_ministro_sobre_los_resultados_finales_del_censo_de_funcionarios",
+  "title": "Reunión del Primer Ministro sobre los resultados finales del censo de funcionarios",
+  "publisher": "Guinea Ecuatorial Press",
+  "published": "2024-11-25",
+  "sub_indicator": "registers",
+  "why": "Q2/4: payroll census, 2,247 removed"
+ },
+ {
+  "url": "https://realequatorialguinea.com/destacado/politica/el-gobierno-de-guinea-ecuatorial-podria-despedir-a-1-175-funcionarios-por-absentismo-laboral/",
+  "title": "El Gobierno de Guinea Ecuatorial podría despedir a 1.175 funcionarios por absentismo laboral",
+  "publisher": "Real Equatorial Guinea",
+  "published": "2024-11-26",
+  "sub_indicator": "registers",
+  "why": "Q4: payroll vs census figures, duplicate salaries 378"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/index.php/noticias/la_funcion_publica_preve_realizar_el_censo_general_de_funcionarios",
+  "title": "La Función Pública prevé realizar el censo general de funcionarios",
+  "publisher": "Guinea Ecuatorial Press",
+  "published": "2024-04-24",
+  "sub_indicator": "registers",
+  "why": "Q2: DIP copy required for payroll census"
+ },
+ {
+  "url": "https://ahoraeg.com/economia/2023/08/28/guinea-ecuatorial-implementa-un-codigo-de-identificacion-fiscal-para-la-transparencia-y-la-gestion-financiera/",
+  "title": "Guinea Ecuatorial implementa un código de identificación fiscal",
+  "publisher": "Ahora EG",
+  "published": "2023-08-28",
+  "sub_indicator": "registers",
+  "why": "Q1: unique tax ID code"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202309/equatorial-guinea-ghana-want-to-flush-out-ghost-public-workers-using-biometrics",
+  "title": "Equatorial Guinea, Ghana want to flush out ghost public workers using biometrics",
+  "publisher": "Biometric Update",
+  "published": "2023-09-01",
+  "sub_indicator": "registers",
+  "why": "Q1: biometric drive for public workers"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/el_ministro_secretario_general_en_funciones_preside_la_tercera_reunion_del_comite_de_pilotaje_del_proyecto_sigef",
+  "title": "Tercera reunión del Comité de Pilotaje del Proyecto SIGEF",
+  "publisher": "Guinea Ecuatorial Press",
+  "published": "2026-06-17",
+  "sub_indicator": "registers",
+  "why": "Q1: SIGEF biometric civil servant system"
+ },
+ {
+  "url": "https://ahoraeg.com/politica/2026/03/04/guinea-ecuatorial-avanza-hacia-la-modernizacion-administrativa-con-la-implementacion-del-sistema-integral-de-gestion-de-funcionarios-sigf/",
+  "title": "Guinea Ecuatorial avanza hacia la modernización administrativa con el SIGF",
+  "publisher": "Ahora EG",
+  "published": "2026-03-04",
+  "sub_indicator": "registers",
+  "why": "Q1: SIGF payroll digitisation"
+ }
+]

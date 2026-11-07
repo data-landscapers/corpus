@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://realequatorialguinea.com/sociedad/justicia-abre-5-dias-de-registro-civil-gratuito-para-ninos-de-0-a-5-anos-en-todo-el-pais/",
+  "title": "Justicia abre 5 días de registro civil gratuito para niños de 0 a 5 años en todo el país",
+  "publisher": "Real Equatorial Guinea",
+  "published": "2026-08-10",
+  "sub_indicator": "frombirth",
+  "why": "Q2-3: national free birth registration campaign, no number mentioned"
+ },
+ {
+  "url": "https://realequatorialguinea.com/destacado/politica/justicia-anuncia-la-activacion-de-las-oficinas-del-registro-civil-en-todos-los-distritos-de-guinea-ecuatorial/",
+  "title": "Justicia anuncia la activación de las oficinas del Registro Civil en todos los distritos",
+  "publisher": "Real Equatorial Guinea",
+  "published": "2025-04-17",
+  "sub_indicator": "frombirth",
+  "why": "Q1-2: decentralised civil registry offices, identity from place of birth"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/el_gobierno_quiere_implementar_un_mecanismo_riguroso_de_control_para_la_adquisicion_del_certificado_literal",
+  "title": "El Gobierno quiere implementar un mecanismo riguroso de control para la adquisición del certificado literal",
+  "publisher": "Guinea Ecuatorial Press",
+  "published": "2025-04-04",
+  "sub_indicator": "frombirth",
+  "why": "Q1: birth certificate separate from DIP issuance"
+ },
+ {
+  "url": "https://www.pdge-guineaecuatorial.com/el-ejecutivo-invita-a-los-padres-a-inscribir-a-sus-hijos-en-el-registro-civil-y-a-los-mayores-de-18-anos-hacer-el-dip/",
+  "title": "El Ejecutivo invita a los padres a inscribir a sus hijos en el Registro Civil y a los mayores de 18 años hacer el DIP",
+  "publisher": "PDGE",
+  "published": "2024-03-15",
+  "sub_indicator": "frombirth",
+  "why": "Q1: registration of minors separate from DIP at 18"
+ },
+ {
+  "url": "https://www.unicef.org/equatorialguinea/comunicados-prensa/aumento-del-registro-de-nacimientos-ninos-siguen-siendo-invisibles",
+  "title": "Aumento del registro de nacimientos, niños siguen siendo invisibles",
+  "publisher": "UNICEF",
+  "published": "2019-12-11",
+  "sub_indicator": "frombirth",
+  "why": "Q4: 54% births registered, digital birth registry project"
+ },
+ {
+  "url": "https://inege.org/wp-content/uploads/2025/11/GE-en-cifras-2025-Final.pdf",
+  "title": "Guinea Ecuatorial en cifras 2025",
+  "publisher": "INEGE",
+  "published": "2025",
+  "sub_indicator": "frombirth",
+  "why": "Q4: vital-event counts; no ID number at birth"
+ },
+ {
+  "url": "https://xn--embajadadeguineaecuatorialenespaa-yfd.com/orden-ministerial-por-la-que-se-establecen-los-procedimientos-para-el-pasaporte-biometrico/",
+  "title": "Orden Ministerial por la que se establecen los procedimientos para el Pasaporte Biométrico",
+  "publisher": "Embajada de Guinea Ecuatorial en España",
+  "published": "2022-06-24",
+  "sub_indicator": "frombirth",
+  "why": "Q1: identity number assigned to minors for passport, not at birth"
+ }
+]

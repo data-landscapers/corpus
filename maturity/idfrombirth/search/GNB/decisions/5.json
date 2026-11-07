@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "frombirth",
+ "aspect": "number",
+ "fact": "The SIREC civil registry system provides for management of a unique identification number to be assigned to each citizen.",
+ "title": "SIREC - Acerca do SIREC",
+ "publisher": "Direção-Geral de Identificação Civil, Registos e Notariado",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

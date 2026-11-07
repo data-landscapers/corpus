@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "registers",
+ "aspect": "",
+ "fact": "",
+ "title": "Overview of social protection: Imibereho Dynamic Social Registry",
+ "publisher": "Ministry of Local Government, Rwanda",
+ "published": "2025-11-11",
+ "date_source": "proxy",
+ "why_not": "off-topic: a slide says the registry is interoperable with NID, CRVS and other systems but not that it is keyed on the national ID number; conservative, not selected"
+}

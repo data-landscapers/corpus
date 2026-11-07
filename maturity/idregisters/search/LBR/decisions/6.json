@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "matching",
+ "fact": "The CSA's 2024 annual report says its March to October 2024 payroll cleanup removed ghost workers, double dippers and duplicate National Identification Numbers, cutting the workforce from 67,746 to 60,900 and the monthly wage bill from $23.5 million to $21.1 million.",
+ "title": "CSA Annual Report 2024",
+ "publisher": "Civil Service Agency",
+ "published": "2024-11-25",
+ "date_source": "source",
+ "why_not": ""
+}

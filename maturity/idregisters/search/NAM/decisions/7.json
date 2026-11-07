@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register",
+ "fact": "The Electoral Commission's 2024 voter registration manual has officers enter the applicant's national identity number from the Namibian identity card into the voter register.",
+ "title": "Voter Registration Manual",
+ "publisher": "Electoral Commission of Namibia",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

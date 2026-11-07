@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://droitguineen.com/lois/code-electoral-2025/titre-i/chapitre-i/section-ii",
+  "title": "Code électoral 2025, Titre I, Chapitre I, Section II",
+  "publisher": "Droitguinéen",
+  "published": "2025",
+  "sub_indicator": "registers",
+  "why": "Q2: electoral file extracted from RNPP"
+ },
+ {
+  "url": "https://www.guinee114.com/2025/07/19/matd-les-statistiques-provisoires-du-registre-national-des-personnes-physiques-et-du-fichier-electoral-biometrique-presentees-aux-acteurs-socio-politiques/",
+  "title": "MATD : statistiques provisoires du RNPP et du fichier électoral biométrique",
+  "publisher": "Guinee114",
+  "published": "2025-07-19",
+  "sub_indicator": "registers",
+  "why": "Q2: RNPP and electoral file figures, duplicates"
+ },
+ {
+  "url": "https://idimijam.com/article/societe/rgph-4-et-pn-ravec-en-guinee-deux-recensements-deux-finalites-distinctes",
+  "title": "RGPH-4 et PN-RAVEC en Guinée",
+  "publisher": "Idimijam",
+  "published": "2025-08-13",
+  "sub_indicator": "registers",
+  "why": "Q2/4: duplicates 111,319 removed"
+ },
+ {
+  "url": "https://www.africaguinee.com/modernisation-de-ladministration-le-gouvernement-lance-officiellement-le-fugas/",
+  "title": "Modernisation de l'Administration : Le Gouvernement lance officiellement le FUGAS",
+  "publisher": "Africa Guinee",
+  "published": "2025-11-27",
+  "sub_indicator": "registers",
+  "why": "Q4: FUGAS 277k to 130k, duplicates"
+ },
+ {
+  "url": "https://www.ecofinagency.com/news-digital/3011-50979-guinea-claims-26-9m-saved-since-2024-with-biometric-audit-of-public-workforce",
+  "title": "Guinea Claims $26.9M Saved Since 2024 with Biometric Audit of Public Workforce",
+  "publisher": "Ecofin Agency",
+  "published": "2025-11-30",
+  "sub_indicator": "registers",
+  "why": "Q4: payroll audit figures"
+ },
+ {
+  "url": "https://www.visionguinee.info/fonction-publique-64-000-matricules-fictifs-supprimes-letat-economise-643-milliards-gnf/",
+  "title": "Fonction publique : 64 000 matricules fictifs supprimés",
+  "publisher": "Vision Guinée",
+  "published": "2026-10-29",
+  "sub_indicator": "registers",
+  "why": "Q4: 64,000 fictitious removed"
+ },
+ {
+  "url": "https://ravec.gov.gn/qui-sommes-nous/objectifs-du-ravec/",
+  "title": "Objectifs du RAVEC",
+  "publisher": "PN-RAVEC",
+  "published": "",
+  "sub_indicator": "registers",
+  "why": "Q1: registers to connect to NPI"
+ },
+ {
+  "url": "https://www.lindependant.org/actualites-etat-civil-guineen-la-refondation-en-marche-lidentification-au-coeur-du-futur-fichier-electoral/",
+  "title": "État civil guinéen : la refondation en marche",
+  "publisher": "L'Indépendant",
+  "published": "2025-12-14",
+  "sub_indicator": "registers",
+  "why": "Q2: electoral file fed by RNPP"
+ }
+]

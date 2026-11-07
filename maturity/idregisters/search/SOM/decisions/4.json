@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register",
+ "fact": "NIRA's ID4Africa 2025 presentation lists the Ministry of Commerce and the Civil Service Commission as public bodies connected to the national ID system.",
+ "title": "Somalia's Journey Towards a Foundational National ID System",
+ "publisher": "NIRA / ID4Africa",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

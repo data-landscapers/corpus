@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://ambition-journal.org/en/business/national-digital-identity-system-modernizing-administration",
+  "title": "National Digital Identity System: Modernizing Administration",
+  "publisher": "Ambition Journal",
+  "published": "2025-11-28",
+  "sub_indicator": "maintenance",
+  "why": "Q1: new national ID office ONI to run system; implementation 2027-2032"
+ },
+ {
+  "url": "https://greaterinternetfreedom.org/wp-content/uploads/2023/08/BDI_CAR-FINAL-APPROVED-27.06.2023.pdf",
+  "title": "Country Report: Central African Republic (Biometric Digital ID)",
+  "publisher": "Greater Internet Freedom",
+  "published": "2023",
+  "sub_indicator": "maintenance",
+  "why": "Stage 1: Al Madina produces and issues IDs under contract"
+ },
+ {
+  "url": "https://www.jeuneafrique.com/809210/societe/centrafrique-le-marche-des-documents-didentite-au-coeur-dun-conflit-entre-gouvernement-policiers-et-societe-civile/",
+  "title": "Centrafrique : le marché des documents d'identité au cœur d'un conflit entre gouvernement, policiers et société civile",
+  "publisher": "Jeune Afrique",
+  "published": "2019-07-29",
+  "sub_indicator": "maintenance",
+  "why": "Stage 1: ID production awarded to Al Madina"
+ },
+ {
+  "url": "https://www.rfi.fr/fr/afrique/20191130-centrafrique-deputes-interpellent-gouvernement-contrat-almadina",
+  "title": "RCA: le gouvernement interpellé sur un contrat attribué à la société Al Madina",
+  "publisher": "RFI",
+  "published": "2019-11-30",
+  "sub_indicator": "maintenance",
+  "why": "Stage 1: Al Madina contract for secure documents"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202410/central-african-republic-in-full-biometric-voter-registration-preparations",
+  "title": "Central African Republic in full biometric voter registration preparations",
+  "publisher": "Biometric Update",
+  "published": "2024-10-08",
+  "sub_indicator": "maintenance",
+  "why": "Stage 1: Al Madina produces IDs, fee dispute"
+ },
+ {
+  "url": "https://oubanguimedias.com/2025/04/18/rca-le-gouvernement-valide-le-rapport-strategique-sur-lidentite-digitale-et-letat-civil-en-centrafrique/",
+  "title": "RCA : le gouvernement valide le rapport stratégique sur l'identité digitale et l'État civil en Centrafrique",
+  "publisher": "Oubangui Médias",
+  "published": "2025-04-18",
+  "sub_indicator": "maintenance",
+  "why": "Q1: diagnostic of ID system"
+ }
+]

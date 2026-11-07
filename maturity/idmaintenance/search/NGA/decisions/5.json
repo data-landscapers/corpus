@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "ownership;operation",
+ "fact": "The NIMC Director-General said Nigeria is moving from the vendor lock-in NIMC 1.0 to an open-source, locally driven NIMC 2.0 at ID4Africa on 12 May 2026.",
+ "title": "ID4AFRICA: FG targets cheaper digital identity system with local solution - NIMC DG",
+ "publisher": "Vanguard News",
+ "published": "2026-05-12",
+ "date_source": "source",
+ "why_not": ""
+}

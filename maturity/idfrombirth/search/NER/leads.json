@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://anp.ne/atelier-regional-de-sensibilisation-sur-les-reformes-en-matiere-de-letat-civil-didentification-des-personnes-physiques-et-de-modernisation-du-systeme-national-didentification-au-niger/",
+  "title": "Atelier régional de sensibilisation sur les réformes en matière de l'état civil, d'identification des personnes physiques",
+  "publisher": "Agence Nigérienne de Presse",
+  "published": "2026-09-07",
+  "sub_indicator": "frombirth",
+  "why": "RNP to assign unique ID; enrolment starts Niamey, regions 2027 (Q1,Q3)"
+ },
+ {
+  "url": "https://interieur.gouv.ne/agadez-ouverture-de-la-4eme-etape-de-la-tournee-nationale-de-sensibilisation-sur-les-reformes-en-matiere-detat-civil-et-didentification-des-personnes/",
+  "title": "Agadez : ouverture de la 4ème étape de la tournée nationale",
+  "publisher": "Ministère de l'Intérieur",
+  "published": "2026-08-29",
+  "sub_indicator": "frombirth",
+  "why": "Birth declaration 79.8%; unique number to be attributed (Q1,Q4)"
+ },
+ {
+  "url": "https://anp.ne/lancement-officiel-a-dosso-de-la-tournee-nationale-de-sensibilisation-sur-letat-civil-une-mobilisation-nationale-pour-lidentification-des-personnes/",
+  "title": "Lancement officiel à Dosso de la tournée nationale de sensibilisation sur l'état civil",
+  "publisher": "Agence Nigérienne de Presse",
+  "published": "2026-08-14",
+  "sub_indicator": "frombirth",
+  "why": "Ordonnance 2026-21, ANEI, RNP to give unique ID (Q1)"
+ },
+ {
+  "url": "https://interieur.gouv.ne/tahoua-lancement-dune-campagne-nationale-sur-lidentite-legale-et-le-registre-national-de-la-population/",
+  "title": "Tahoua : lancement d'une campagne nationale sur l'identité légale et le RNP",
+  "publisher": "Ministère de l'Intérieur",
+  "published": "2026-08-12",
+  "sub_indicator": "frombirth",
+  "why": "RNP national extension 2027 (Q1,Q3)"
+ },
+ {
+  "url": "https://anp.ne/etat-civil-lexecutif-nigerien-renforce-son-arsenal-juridique-et-institutionnel-conseil-des-ministres/",
+  "title": "Etat civil : l'Exécutif nigérien renforce son arsenal juridique et institutionnel",
+  "publisher": "Agence Nigérienne de Presse",
+  "published": "2026-04-23",
+  "sub_indicator": "frombirth",
+  "why": "Ordinance to include unique identifier in civil status (Q1)"
+ },
+ {
+  "url": "https://anp.ne/niger-lancement-dune-campagne-sur-lenregistrement-universel-des-naissances/",
+  "title": "Niger : Lancement d'une campagne sur l'enregistrement universel des naissances",
+  "publisher": "Agence Nigérienne de Presse",
+  "published": "2025-11-25",
+  "sub_indicator": "frombirth",
+  "why": "Birth registration 68.61% in 2024 (Q4)"
+ },
+ {
+  "url": "https://www.wuri.ne/etat-civil-wuri-lancement-officiel-des-operations-denregistrement-des-enfants-de-moins-de-5-ans/",
+  "title": "Etat Civil - WURI: Lancement du projet pilote d'enregistrement et de délivrance de Numéros d'Identifiant Unique aux enfants de moins de 5 ans",
+  "publisher": "WURI-Niger",
+  "published": "2025-04-16",
+  "sub_indicator": "frombirth",
+  "why": "Pilot of unique ID numbers with birth certificates in 4 communes (Q1,Q2)"
+ },
+ {
+  "url": "https://www.lesahel.org/le-systeme-de-letat-civil-nigerien-performance-perspectives-et-defis/",
+  "title": "LE SYSTEME DE L'ETAT CIVIL NIGERIEN : Performance, Perspectives et Défis",
+  "publisher": "Le Sahel",
+  "published": "2024-09-17",
+  "sub_indicator": "frombirth",
+  "why": "NUI integration into civil registration platform planned (Q1)"
+ }
+]

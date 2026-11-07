@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "frombirth",
+ "aspect": "number;complete",
+ "fact": "The 2025-2029 CRVS strategic plan states birth registration completeness is 54% (BUNEC, 2023) and death registration 9.71%, with the NIPU still to be put in place through a BUNEC, tax, DGSN and health framework.",
+ "title": "Strategic Plan for the Modernization of the Civil Registration and Vital Statistics System 2025-2029",
+ "publisher": "Republic of Cameroon",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

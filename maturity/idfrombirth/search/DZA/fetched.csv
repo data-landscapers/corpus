@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://id4africa.com/2026/files/T2-3-S3-4-Algeria-FINAL.pdf,held,held as raw/2026/2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe.md,,0,,
+2,https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-decentralisation-algeria.pdf,held,held as raw/2026/2026-07-01-dza-uneca-egmrg-crvs-digitalisation.md,,0,,
+3,https://lasentinelle.dz/index.php/2024/04/04/une-revolution-dans-le-service-public/,held,held as raw/2024/2024-04-04-dza-lasentinelle-etat-civil-nin-revolution.md,,0,,
+4,https://www.joradp.dz/FTP/jo-francais/2023/F2023060.pdf,fetched,,scripts/.workroot/study/idfrombirth/cache/DZA/4.txt,12756,pdf,www.joradp.dz
+5,https://www.algerie62.dz/service-public-lavancee-du-numerique-reduit-les-depenses/,fetched,,scripts/.workroot/study/idfrombirth/cache/DZA/5.txt,407,html,SERVICE PUBLIC: L’avancée du numérique réduit les dépenses
+6,https://demande12s.interieur.gov.dz/fr/,unfetchable,SSLError; no usable Wayback capture,,0,,
+7,https://www.interieur.gov.dz/index.php/fr/mes-d%C3%A9marches-administratives/etat-civil/acte-de-naissance.html,fetched,,scripts/.workroot/study/idfrombirth/cache/DZA/7.txt,661,html,Acte de naissance
+8,https://ecotimesdz.com/seulement-895-000-naissances-enregistrees-en-2023-les-algeriens-font-moins-denfants/,fetched,,scripts/.workroot/study/idfrombirth/cache/DZA/8.txt,1216,html,Seulement 895 000 naissances enregistrées en 2023 : Les Algériens font moins d’enfants - ECOTIMES

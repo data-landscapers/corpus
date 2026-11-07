@@ -1,0 +1,11 @@
+{
+ "aspect": "complete",
+ "fact": "The NCI-CRVS system, operational since August 2020, registered 356,838 births in 2025, a birth registration completeness of 92.9%, and death registration completeness was 50.5%.",
+ "title": "Rwanda Vital Statistics Report 2025",
+ "publisher": "National Institute of Statistics of Rwanda (NISR)",
+ "published": "2026",
+ "date_source": "source",
+ "select": true,
+ "sub_indicator": "frombirth",
+ "why_not": ""
+}

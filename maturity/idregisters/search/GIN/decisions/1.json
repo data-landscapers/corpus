@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register",
+ "fact": "Electoral Code L/2025/026/CNT provides that the biometric electoral file is established by extraction from the Registre national des personnes physiques, and the file carries the NPI.",
+ "title": "Code électoral, Titre I, Chapitre I, Section II - Du fichier électoral biométrique",
+ "publisher": "Droitguinéen (Code électoral L/2025/026/CNT)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

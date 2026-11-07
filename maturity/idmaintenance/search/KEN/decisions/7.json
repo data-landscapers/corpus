@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "operation",
+ "fact": "Security printer machines that produced second-generation IDs were switched off on 14 November 2023 and the printing and supplies contract had lapsed, so restarting would need a fresh tender and a vendor delivering printing materials.",
+ "title": "Broken system: Inside Kenya's ID crisis",
+ "publisher": "Daily Nation",
+ "published": "2024-02-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register",
+ "fact": "As of March 2019 the biometric voter register was a standalone database not linked to the police ID card database, though an ID card was required to enrol as a voter.",
+ "title": "Cameroon: voter registration (background note on interviews in Yaoundé, March 2019)",
+ "publisher": "Flygtningenævnet (Danish Immigration Service)",
+ "published": "2019",
+ "date_source": "proxy",
+ "why_not": ""
+}

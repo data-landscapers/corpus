@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "frombirth",
+ "aspect": "number",
+ "fact": "The Ministry of the Interior's procedure for enrolling a newborn of Mauritanian parents in the national biometric register (NNI) requires the parents' marriage extract and a health-facility birth register extract, free, within 60 days or by court judgment after.",
+ "title": "التقييد في السجل السكاني لمولود من أبوين موريتانيين (التقييد في السجل الوطني البيومتري)",
+ "publisher": "وزارة الداخلية وترقية اللامركزية والتنمية المحلية",
+ "published": "2023-11-21",
+ "date_source": "source",
+ "why_not": ""
+}

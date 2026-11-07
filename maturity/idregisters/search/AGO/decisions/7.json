@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register;several",
+ "fact": "The World Bank's 2025 ID4D diagnostic says Angolan citizens' tax number (NIF) is their BI number, the electoral citizens database (BDCM) records the BI number, and the BI database communicates with the Finance, Electoral Registry and Social Action databases.",
+ "title": "Identificação para Desenvolvimento (ID4D): Diagnóstico dos Sistemas de ID em Angola",
+ "publisher": "Banco Mundial (World Bank Group)",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

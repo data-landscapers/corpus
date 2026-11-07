@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.vanguardngr.com/2026/08/birth-registration-npc-unicef-unite-to-give-every-child-legal-identity/",
+  "title": "Birth registration: NPC, UNICEF unite to give every child legal identity",
+  "publisher": "Vanguard News",
+  "published": "2026-08-12",
+  "sub_indicator": "frombirth",
+  "why": "Q1/Q2: proposed model links registered births to NIN; registration counts"
+ },
+ {
+  "url": "https://nannews.ng/npc-targets-8000-digital-birth-registration-centres/",
+  "title": "NPC Targets 8,000 Digital Birth Registration Centres",
+  "publisher": "News Agency Of Nigeria",
+  "published": "2026-08-11",
+  "sub_indicator": "frombirth",
+  "why": "Q2/Q3: child registered gets unique number then NIN, in ~4,000 of 8,809 wards"
+ },
+ {
+  "url": "https://von.gov.ng/commission-trains-ward-registrars-on-birth-registration/",
+  "title": "Commission Trains Ward Registrars on Birth Registration",
+  "publisher": "Voice of Nigeria",
+  "published": "2026-07-29",
+  "sub_indicator": "frombirth",
+  "why": "Q1: plans for certificates with unique ID numbers, NIN integration"
+ },
+ {
+  "url": "https://tribuneonlineng.com/only-57-of-births-under-20-of-deaths-in-nigeria-are-registered-npc/",
+  "title": "Only 57% of births, under 20% of deaths in Nigeria are registered - NPC",
+  "publisher": "Tribune Online",
+  "published": "2026-07-15",
+  "sub_indicator": "frombirth",
+  "why": "Q3/Q4: VitalReg e-CRVS nationwide from 1 July 2026; birth 57%, death <20%"
+ },
+ {
+  "url": "https://data.unicef.org/wp-content/uploads/2026/06/A-Statistical-Profile-of-Birth-Registration-in-Nigeria_final-June-2026.pdf",
+  "title": "A statistical profile of birth registration in Nigeria",
+  "publisher": "UNICEF",
+  "published": "2026-06",
+  "sub_indicator": "frombirth",
+  "why": "Q4: DHS 2023-24 birth registration 40% under five"
+ },
+ {
+  "url": "https://independent.ng/npc-unicef-nimc-algon-forge-strategic-alliance-to-scale-up-birth-registration/",
+  "title": "NPC, UNICEF, NIMC, ALGON Forge Strategic Alliance To Scale Up Birth Registration",
+  "publisher": "Independent Newspaper Nigeria",
+  "published": "2025-05-31",
+  "sub_indicator": "frombirth",
+  "why": "Q1/Q2: phased rollout of birth registration and NIN issuance in eleven pilot states"
+ },
+ {
+  "url": "https://blueprint.ng/birth-registration-npc-introduces-nin-integration-for-newborns-linked-to-mothers/",
+  "title": "Birth registration: NPC introduces NIN integration for newborns linked to mothers",
+  "publisher": "Blueprint Newspapers Limited",
+  "published": "2024-09-26",
+  "sub_indicator": "frombirth",
+  "why": "Q2: NPC generates a NIN for each child during birth registration"
+ },
+ {
+  "url": "https://nairametrics.com/2024/07/18/unicef-npc-integrate-nin-into-nigerias-digital-birth-registration-system/",
+  "title": "UNICEF, NPC integrate NIN into Nigeria's digital birth registration system",
+  "publisher": "Nairametrics",
+  "published": "2024-07-18",
+  "sub_indicator": "frombirth",
+  "why": "Q1/Q2: e-birth registration generates a NIN for each registered child"
+ }
+]

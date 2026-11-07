@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "maintenance;ownership",
+ "fact": "The final evaluation (June 2026) of Enabel's civil registry project, which generates the NPI register, finds the source code transfer formal rather than operational and national technicians with limited access to source code.",
+ "title": "Executive summary: Pilot Project for Improving the Guinean Civil Registration System through the Catalytic Effect of Digitalization (PARECIGUI Ext Phase 2)",
+ "publisher": "Enabel",
+ "published": "2026-06",
+ "date_source": "source",
+ "why_not": ""
+}

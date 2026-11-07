@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://eservice.egov.sc/egateway/public/GatewayConcept.aspx",
+  "title": "E-Service Gateway - Gateway Concept",
+  "publisher": "Government of Seychelles DICT",
+  "published": "",
+  "sub_indicator": "registers",
+  "why": "Q2 NIN as e-ID credential"
+ },
+ {
+  "url": "https://ecs.sc/faq/",
+  "title": "FAQ",
+  "publisher": "Electoral Commission Seychelles",
+  "published": "",
+  "sub_indicator": "registers",
+  "why": "Q2 voters' register checked by NIN"
+ },
+ {
+  "url": "https://www.unifiedtechnologies.info/webprojects/ecs/wp-content/uploads/2024/12/Public-Consultative-Meetings-summary-of-changes-to-the-Elections-Act-V2.pdf",
+  "title": "Electoral Commission recommendations for legislative amendments",
+  "publisher": "Electoral Commission Seychelles",
+  "published": "2024-12",
+  "sub_indicator": "registers",
+  "why": "Q2 NIN card for registration"
+ },
+ {
+  "url": "https://www.oecd.org/content/dam/oecd/en/topics/policy-issue-focus/aeoi/seychelles-tin.pdf",
+  "title": "Information on Tax Identification Numbers",
+  "publisher": "OECD / SRC",
+  "published": "",
+  "sub_indicator": "registers",
+  "why": "Q2 TIN separate from NIN"
+ },
+ {
+  "url": "https://www.seyid.gov.sc/Home/FAQ",
+  "title": "FAQ SeyIDPortal",
+  "publisher": "DICT",
+  "published": "",
+  "sub_indicator": "registers",
+  "why": "Q2 SeyID built on NIN"
+ },
+ {
+  "url": "https://www.seychellesnewsagency.com/public/articles/21227/New+work+permit+holders+in+Seychelles+to+have+virtual+IDs",
+  "title": "New work permit holders to have virtual IDs",
+  "publisher": "Seychelles News Agency",
+  "published": "2024-09-18",
+  "sub_indicator": "registers",
+  "why": "Q2 permit system link"
+ }
+]

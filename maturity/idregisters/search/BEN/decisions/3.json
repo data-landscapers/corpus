@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register",
+ "fact": "The expert mission auditing Benin's electoral roll found the register analysed contains no duplicates because deduplication is done upstream in the civil status file on a unique identifier per citizen, from which the electoral file is extracted.",
+ "title": "Electoral File Audit: the initial conclusions of the expert mission",
+ "publisher": "Benin Web TV",
+ "published": "2025-08-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register",
+ "fact": "In March 2025 INEC's head of ICT said the voter registration system had been integrated with the NIDA database, so an operator enters a voter's NIDA number and the system retrieves their details.",
+ "title": "Tanzania's INEC Faces Integrity Questions Amid Contradictions on Voter Data Integration",
+ "publisher": "The Chanzo",
+ "published": "2025-08-24",
+ "date_source": "source",
+ "why_not": ""
+}

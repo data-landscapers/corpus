@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://guineelex.com/decrets-arretes/decret-d-2025-051-prg-cnrd-sgg",
+  "title": "Décret D/2025/051 NPI",
+  "publisher": "GuinéeLex",
+  "published": "2025-04-14",
+  "sub_indicator": "frombirth",
+  "why": "Q1-3: NPI for every Guinean from birth certificate issue"
+ },
+ {
+  "url": "https://legisguinee.com/textes/loi-2023-019-identification-personnes-physiques",
+  "title": "Loi portant identification des personnes physiques",
+  "publisher": "LégisGuinée",
+  "published": "2024-07-02",
+  "sub_indicator": "frombirth",
+  "why": "Q1: law creates NPI at civil register inscription"
+ },
+ {
+  "url": "https://guineenews.org/2025/04/22/etat-civil-aucun-document-didentite-navait-de-base-legale-selon-djenabou-toure/",
+  "title": "État-civil : « Aucun document d'identité n'avait de base légale »",
+  "publisher": "Guinéenews",
+  "published": "2025-04-22",
+  "sub_indicator": "frombirth",
+  "why": "Q1/2: unique ID from birth, census April 2025"
+ },
+ {
+  "url": "https://mediaguinee.com/2026/08/decentralisation-et-etat-civil-la-guinee-accelere-sa-transformation-avec-un-taux-denregistrement-des-naissances-passe-a-72-ministre/",
+  "title": "Décentralisation et état civil : taux d'enregistrement des naissances passé à 72 %",
+  "publisher": "Mediaguinee",
+  "published": "2026-08-11",
+  "sub_indicator": "frombirth",
+  "why": "Q3/4: birth registration 72% 2025, NPI"
+ },
+ {
+  "url": "https://www.africaguinee.com/fichier-electoral-et-etat-civil-bientot-un-numero-identifiant-unique-pour-chaque-citoyen/",
+  "title": "Fichier électoral et état civil : Bientôt un numéro identifiant unique pour chaque citoyen",
+  "publisher": "Africa Guinee",
+  "published": "2026-07-15",
+  "sub_indicator": "frombirth",
+  "why": "Q2: digitisation, one number per citizen"
+ },
+ {
+  "url": "https://www.guinee360.com/04/05/2025/guinee-ce-quil-faut-savoir-sur-le-nip-le-nouveau-numero-didentification-personnel/",
+  "title": "Guinée : ce qu'il faut savoir sur le NIP",
+  "publisher": "Guinee360",
+  "published": "2025-05-04",
+  "sub_indicator": "frombirth",
+  "why": "Q2: NIP on civil acts"
+ },
+ {
+  "url": "https://www.lindependant.org/actualites-etat-civil-guineen-la-refondation-en-marche-lidentification-au-coeur-du-futur-fichier-electoral/",
+  "title": "État civil guinéen : la refondation en marche",
+  "publisher": "L'Indépendant",
+  "published": "2025-12-14",
+  "sub_indicator": "frombirth",
+  "why": "Q4: death registration 2%"
+ },
+ {
+  "url": "https://guineelex.com/decrets-arretes/decret-d-2025-054-prg-cnrd-sgg",
+  "title": "Décret D/2025/054 gestion électronique de l'état civil",
+  "publisher": "GuinéeLex",
+  "published": "2025-04-14",
+  "sub_indicator": "frombirth",
+  "why": "Q1: NPI in national civil register"
+ }
+]

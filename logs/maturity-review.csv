@@ -61,9 +61,9 @@ ictjobs,ictjobs,capacity.training--graduates-entering-dt-ecosystem,2026-11-05,35
 ictproduction,production,tech.industry--national-capacity-in-dt-related-production,2026-11-06,52,63,81
 ictstrategy,sector,gov.policy--ict-strategy,2026-11-06,52,63,83
 idcoverage,coverage,dpi.id--registration-of-entire-population,2026-11-06,52,63,82
-idfrombirth,frombirth,dpi.id--digital-id-from-birth,,,,
-idmaintenance,maintenance,dpi.id--national-maintenance-of-id-and-credentials-systems,,,,
-idregisters,registers,dpi.id--use-by-other-systems,,,,
+idfrombirth,frombirth,dpi.id--digital-id-from-birth,2026-11-07,12,63,76
+idmaintenance,maintenance,dpi.id--national-maintenance-of-id-and-credentials-systems,2026-11-07,12,63,123
+idregisters,registers,dpi.id--use-by-other-systems,2026-11-07,12,63,108
 idrobustness,robustness,dpi.id--robustness-of-system,,,,
 idverification,use,dpi.exchange--use-of-digital-id-in-other-systems,,,,
 internationalbandwidth,routes,infra.connect--international-internet-bandwidth,,,,

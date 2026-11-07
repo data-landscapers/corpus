@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "operation",
+ "fact": "The National Registration Bureau, a government directorate, conducted the issuance of Maisha Card third-generation IDs to the Head of Public Service and Principal Secretaries at Bomas of Kenya during the pilot.",
+ "title": "Issuance of Maisha Card IDs",
+ "publisher": "Directorate of Immigration Services",
+ "published": "2024-09-19",
+ "date_source": "proxy",
+ "why_not": ""
+}

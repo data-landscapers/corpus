@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://konsulat-eritrea.de/wereket-meninet/",
+  "title": "ወረቐት መንነት",
+  "publisher": "Consulate General of Eritrea, Frankfurt",
+  "published": "2026-08-11",
+  "sub_indicator": "frombirth",
+  "why": "Q1-3: Tigrinya consular ID page; under-18 ID needs authenticated birth certificate, no number at birth"
+ },
+ {
+  "url": "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/metadata/2025/Eritrea-2025-VT-Metadata.pdf",
+  "title": "Quality of vital statistics obtained from civil registration (Eritrea)",
+  "publisher": "UN Statistics Division",
+  "published": "2025",
+  "sub_indicator": "frombirth",
+  "why": "Q4/stage1: no functional and complete CRVS system"
+ },
+ {
+  "url": "https://www.acerwc.africa/sites/default/files/2025-10/Eritrea%202nd%20Periodic%20Report.pdf",
+  "title": "Fourth Periodic National Report of the State of Eritrea on the ACRWC (2020-2024)",
+  "publisher": "Government of Eritrea / ACERWC",
+  "published": "2025",
+  "sub_indicator": "frombirth",
+  "why": "Q1/Q4: birth registration, planned computerized database; ID card at 18"
+ },
+ {
+  "url": "https://us.embassyeritrea.org/wp-content/uploads/2024/09/09-19-2024_Announcement-Launching-CAPS-to-Public-Englsih-Final.pdf",
+  "title": "Embassy of the State of Eritrea in the USA Launches Online E-Services for Consular Affairs",
+  "publisher": "Embassy of the State of Eritrea, USA",
+  "published": "2024-09-24",
+  "sub_indicator": "frombirth",
+  "why": "Q1-2: ID application flow"
+ },
+ {
+  "url": "https://www.ecoi.net/en/file/local/2107005/General%20country%20of%20origin%20information%20report%20on%20Eritrea%20December%202023.pdf",
+  "title": "General Country of Origin Information Report on Eritrea",
+  "publisher": "Netherlands Ministry of Foreign Affairs",
+  "published": "2023-12",
+  "sub_indicator": "frombirth",
+  "why": "Q2: births entered in digital population register; ID at 18"
+ },
+ {
+  "url": "https://shabait.com/2023/09/19/eritreas-f-m-statement-at-the-high-level-political-forum-on-sustainable-development/",
+  "title": "Eritrea's FM Statement At the High-Level Political Forum on Sustainable Development",
+  "publisher": "Eritrea Ministry of Information",
+  "published": "2023-09-19",
+  "sub_indicator": "frombirth",
+  "why": "Q1: CRVS system in initial phase"
+ },
+ {
+  "url": "https://www.gov.uk/government/publications/eritrea-knowledge-base-profile/eritrea-knowledge-base-profile",
+  "title": "Eritrea: Knowledge Base profile",
+  "publisher": "UK Home Office",
+  "published": "2023-06-29",
+  "sub_indicator": "frombirth",
+  "why": "Q2: birth certificate issued on registration; national ID cards"
+ },
+ {
+  "url": "https://www.afro.who.int/countries/eritrea/news/eritrea-presents-regional-consultation-icd-11-crvs",
+  "title": "Eritrea presents on the Regional Consultation on ICD-11 & CRVS",
+  "publisher": "WHO Regional Office for Africa",
+  "published": "2021-03-04",
+  "sub_indicator": "frombirth",
+  "why": "Q1: CRVS roadmap"
+ }
+]

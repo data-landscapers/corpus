@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register;several",
+ "fact": "On 6 November 2026 a Ministry of Social Solidarity official said the National Social Registry, holding 13 million households, about half of Egypt's households, is linked to 27 government databases through the national number.",
+ "title": "التضامن: ربط بيانات 13 مليون أسرة بـ27 قاعدة حكومية لتعزيز دقة استهداف مستحقي الدعم",
+ "publisher": "جريدة المساء",
+ "published": "2026-11-06",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.verivafrica.com/insights/what-nigerias-digital-identity-act-means-for-msmes-and-the-national-economy",
+  "title": "What Nigeria's Digital Identity Act Means for MSMEs and the National Economy",
+  "publisher": "Veriva",
+  "published": "2026-08-31",
+  "sub_indicator": "registers",
+  "why": "Q2/Q3: NIMC Act 2026 mandates NIN for voting, tax, pensions; NIN as tax ID"
+ },
+ {
+  "url": "https://oal.law/the-nimc-act-2026-explained-what-nigerias-new-identity-law-means-for-you/",
+  "title": "The NIMC Act 2026 Explained",
+  "publisher": "Olaniwun Ajayi / OAL",
+  "published": "2026-07-01",
+  "sub_indicator": "registers",
+  "why": "Q2/Q3: NIN required for voting, tax, passport, insurance"
+ },
+ {
+  "url": "https://thewillnews.com/nigeria-introduces-mandatory-unified-tax-id-system/",
+  "title": "Nigeria Introduces Mandatory Unified Tax ID System",
+  "publisher": "THEWILL",
+  "published": "2026-05-18",
+  "sub_indicator": "registers",
+  "why": "Q2: unified Tax ID system by NRS and JRB"
+ },
+ {
+  "url": "https://guardian.ng/news/fg-validates-11-5m-nins-as-social-register-covers-77m-nigerians/",
+  "title": "FG validates 11.5m NINs as social register covers 77m Nigerians",
+  "publisher": "The Guardian Nigeria",
+  "published": "2026-05-08",
+  "sub_indicator": "registers",
+  "why": "Q2/Q4: NIN integration in National Social Register; 11.5m NINs validated"
+ },
+ {
+  "url": "https://www.tvcnews.tv/explainer-firs-clarification-on-tax-id-bvn-nin-requirement-for-banking/",
+  "title": "EXPLAINER: FIRS' Clarification On Tax ID, BVN, NIN Requirement For Banking",
+  "publisher": "TVC News",
+  "published": "2025-11-14",
+  "sub_indicator": "registers",
+  "why": "Q2: individual TIN automatically generated and tied to NIN"
+ },
+ {
+  "url": "https://www.jtb.gov.ng/media-center/tax-id-generated-nigerians-with-nin",
+  "title": "Tax ID Will Be Generated for Nigerians with NIN",
+  "publisher": "Joint Tax Board",
+  "published": "2025-09-16",
+  "sub_indicator": "registers",
+  "why": "Q2: JTB and FIRS generate Tax IDs from NIMC NIN data"
+ },
+ {
+  "url": "https://businessday.ng/news/article/inec-nimc-partner-to-scale-up-nin-registration-nationwide/",
+  "title": "INEC, NIMC partner to scale up NIN registration nationwide",
+  "publisher": "Businessday NG",
+  "published": "2025-09-04",
+  "sub_indicator": "registers",
+  "why": "Q1: INEC-NIMC pilot, voter register to draw on identity database"
+ },
+ {
+  "url": "https://guardian.ng/news/fg-to-link-social-register-with-nin-minister/",
+  "title": "FG to link social register with NIN - Minister",
+  "publisher": "The Guardian Nigeria",
+  "published": "2025-03-26",
+  "sub_indicator": "registers",
+  "why": "Q1: linking social register to NIN underway"
+ }
+]

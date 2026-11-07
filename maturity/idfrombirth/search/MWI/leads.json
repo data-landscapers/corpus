@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202505/malawi-nears-full-scale-digital-id-rollout-to-streamline-access-to-services",
+  "title": "Malawi nears full scale digital ID rollout to streamline access to services",
+  "publisher": "Biometric Update",
+  "published": "2025-05-28",
+  "sub_indicator": "frombirth",
+  "why": "Q3: NRB chief says every child receives national ID number at birth"
+ },
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2026-01/malawi_nrb_strategic_plan_2025_web.pdf",
+  "title": "Strategic Plan 2025 - 2030",
+  "publisher": "National Registration Bureau (UNDP-hosted)",
+  "published": "2026",
+  "sub_indicator": "frombirth",
+  "why": "Q1-Q3: birth registration and ID number at birth; completeness below 40%"
+ },
+ {
+  "url": "https://www.nyasatimes.com/from-shadows-to-system-malawis-leap-in-birth-and-death-registration-revealed-but-gaps-remain/",
+  "title": "From Shadows to System: Malawi's Leap in Birth and Death Registration Revealed",
+  "publisher": "Nyasa Times",
+  "published": "2025-04-24",
+  "sub_indicator": "frombirth",
+  "why": "Q4: completeness 32.8% births, 10.8% deaths"
+ },
+ {
+  "url": "https://apai-crvs.uneca.org/sites/default/files/resourceuploads/malawi-vital-statistics-report-2024.pdf",
+  "title": "Malawi Vital Statistics Report 2015-2022",
+  "publisher": "NSO/NRB/MoH (UNECA APAI-CRVS)",
+  "published": "2025",
+  "sub_indicator": "frombirth",
+  "why": "Q3: unique ID generated at birth registration"
+ },
+ {
+  "url": "https://times.mw/national-registration-bureau-targets-8000-children-in-2025/",
+  "title": "National Registration Bureau targets 8,000 children in 2025",
+  "publisher": "The Times Group",
+  "published": "2025-03-10",
+  "sub_indicator": "frombirth",
+  "why": "Q2/Q3: e-birth registration integrated with national ID system"
+ },
+ {
+  "url": "https://pedaids.org/2024/11/06/the-value-of-a-birth-certificate/",
+  "title": "The Value of a Birth Certificate",
+  "publisher": "EGPAF",
+  "published": "2024-11-06",
+  "sub_indicator": "frombirth",
+  "why": "Q2/Q3: ID number generated at birth"
+ },
+ {
+  "url": "https://crvs.unescap.org/system/files/sites/default/files/C3_Session%204.4._Mishra_PPT.pdf",
+  "title": "Building Legal Identity from Birth: Good Practices and Digital Innovations in Malawi's CRVS System",
+  "publisher": "UNESCAP",
+  "published": "",
+  "sub_indicator": "frombirth",
+  "why": "Q2/Q4: NIN at birth; under-5 registration ~85% 2025"
+ },
+ {
+  "url": "https://www.healthdatacollaborative.org/fileadmin/uploads/hdc/Documents/Country_documents/Malawi/HDC-SDG3-GAP-Malawi-White-Paper-FINAL.pdf",
+  "title": "Aligning Partner Support with the Government of Malawi",
+  "publisher": "Health Data Collaborative",
+  "published": "",
+  "sub_indicator": "frombirth",
+  "why": "Q2: legal ID numbers assigned at birth registration"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "operation",
+ "fact": "As at January 2021 the Department for Immigration and Nationality issues Eritrea's ID cards and passports, only occasionally since 2014, while the zoba administrations maintain the six digital population registers that have run since 2001.",
+ "title": "Focus Eritrea: Identity and civil status documents",
+ "publisher": "State Secretariat for Migration (SEM), Switzerland",
+ "published": "2021-01-21",
+ "date_source": "source",
+ "why_not": ""
+}

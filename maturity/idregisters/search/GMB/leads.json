@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://standard.gm/gra-goes-fully-digital-with-signing-of-itas-system/",
+  "title": "GRA Goes Fully Digital With Signing Of ITAS System",
+  "publisher": "The Standard",
+  "published": "2025-10-09",
+  "sub_indicator": "registers",
+  "why": "Q1/Q2: ITAS to integrate with National ID System"
+ },
+ {
+  "url": "https://thepoint.gm/africa/gambia/headlines/gra-signs-7-2m-with-arabsofttmi-consortium-to-boost-itas",
+  "title": "GRA signs $7.2M with Arabsoft-TMI Consortium to boost ITAS",
+  "publisher": "The Point",
+  "published": "2025-10-08",
+  "sub_indicator": "registers",
+  "why": "Q1: tax system integration with National ID"
+ },
+ {
+  "url": "https://standard.gm/gra-introduces-itas-system-to-stakeholders/",
+  "title": "GRA Introduces ITAS System To Stakeholders",
+  "publisher": "The Standard",
+  "published": "2025-10-02",
+  "sub_indicator": "registers",
+  "why": "Q1: ITAS integration with national identification database"
+ },
+ {
+  "url": "https://gambiana.com/government-says-d130m-saved-after-2000-names-removed-from-payroll/",
+  "title": "Government says D130m saved after 2,000 names removed from payroll",
+  "publisher": "Gambiana",
+  "published": "2026-08-31",
+  "sub_indicator": "registers",
+  "why": "Q4: payroll audits removed 2,000 names"
+ },
+ {
+  "url": "https://www.voicegambia.com/2026/04/09/civil-servants-urged-to-complete-verification-before-april-18/",
+  "title": "Civil Servants Urged To Complete Verification Before April 18",
+  "publisher": "The Voice",
+  "published": "2026-04-09",
+  "sub_indicator": "registers",
+  "why": "Q1/Q4: payroll verification"
+ },
+ {
+  "url": "https://2m-corp.com/insights/inclusive-in-person-verification-odk-entity-lists",
+  "title": "Verifying Everyone: Designing In-Person Identity Verification",
+  "publisher": "2M Corp",
+  "published": "2026-09-08",
+  "sub_indicator": "registers",
+  "why": "Q4: payroll verification with national ID document check, 99.3% pass"
+ },
+ {
+  "url": "https://www.nspa.gm/wp-content/uploads/2025/05/GamSR-Handbook-1.pdf",
+  "title": "The Gambia Social Registry Handbook",
+  "publisher": "National Social Protection Secretariat",
+  "published": "2025",
+  "sub_indicator": "registers",
+  "why": "Q1/Q2: social registry ID panel, link to National ID database planned"
+ },
+ {
+  "url": "https://www.worldbank.org/en/results/2024/03/28/afw-transformative-journey-of-mass-birth-registration-and-health-insurance-in-the-gambia",
+  "title": "A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia",
+  "publisher": "World Bank",
+  "published": "2024-03-28",
+  "sub_indicator": "registers",
+  "why": "Q2: NIN is common key across ministries' systems"
+ }
+]

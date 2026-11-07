@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "registers",
+ "aspect": "",
+ "fact": "",
+ "title": "Niger : 64.727 Agents dont 6.164 en situation irrégulière, lors du recensement biométrique des Agents de l'Etat",
+ "publisher": "Agence Nigérienne de Presse",
+ "published": "2022-07-14",
+ "date_source": "source",
+ "why_not": "off-topic: the audit checks a biometric census of State agents against payroll, not a register keyed on the national ID number"
+}

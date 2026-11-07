@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.zimstat.co.zw/wp-content/uploads/demography/vital/2023_2024_Vital_Statistics_Report.pdf",
+  "title": "Zimbabwe Vital Statistics Report 2023-2024",
+  "publisher": "ZIMSTAT / Civil Registry Department",
+  "published": "",
+  "sub_indicator": "frombirth",
+  "why": "Q4: birth registration completeness 26.4% and death 46.6% in 2024"
+ },
+ {
+  "url": "https://www.newsday.co.zw/local-news/article/200043909/computerisation-mpilo-central-hospital-embraces-digital-age",
+  "title": "Computerisation: Mpilo Central Hospital embraces digital age",
+  "publisher": "NewsDay Zimbabwe",
+  "published": "2025-07-15",
+  "sub_indicator": "frombirth",
+  "why": "Q2: newborn registration at Mpilo hospital with digital issuance"
+ },
+ {
+  "url": "https://www.unicef.org/zimbabwe/stories/zimbabwe-expands-civil-registration-services-hard-reach-areas",
+  "title": "Zimbabwe expands Civil Registration services to hard-to-reach areas",
+  "publisher": "UNICEF Zimbabwe",
+  "published": "2025-07-15",
+  "sub_indicator": "frombirth",
+  "why": "Q2: digital registration at hospitals and rural sites"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202304/integrated-digital-system-in-zimbabwe-to-enhance-id-issuance-birth-registration",
+  "title": "Integrated digital system in Zimbabwe to enhance ID issuance, birth registration",
+  "publisher": "Biometric Update",
+  "published": "2023-04-10",
+  "sub_indicator": "frombirth",
+  "why": "Q1: planned health-linked birth record with ID number assigned"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202309/zimbabwe-upgrades-to-enable-online-application-for-biometric-passports-id-cards",
+  "title": "Zimbabwe upgrades to enable online application for biometric passports, ID cards",
+  "publisher": "Biometric Update",
+  "published": "2023-09-28",
+  "sub_indicator": "frombirth",
+  "why": "Q1: ZPRS upgrade to assign unique numbers at birth"
+ },
+ {
+  "url": "https://greaterinternetfreedom.org/wp-content/uploads/2023/08/Biometrics-and-Digital-ID-in-Zimbabwe_FINAL-APPROVED-30.06.2023.pdf",
+  "title": "Country Report: Biometrics and Digital Identity in Zimbabwe",
+  "publisher": "Greater Internet Freedom",
+  "published": "2023",
+  "sub_indicator": "frombirth",
+  "why": "Q3: ID number assigned upon registration at birth"
+ },
+ {
+  "url": "https://www.unicef.org/zimbabwe/reports/strengthening-zimbabwes-civil-registration-system",
+  "title": "Strengthening Zimbabwe's Civil Registration System",
+  "publisher": "UNICEF Zimbabwe",
+  "published": "2023-09",
+  "sub_indicator": "frombirth",
+  "why": "Q3/Q4: lifelong digital identifier per person; 49% registered"
+ },
+ {
+  "url": "https://www.heraldonline.co.zw/dismantling-zimbabwes-legacy-of-unequal-registration/",
+  "title": "Dismantling Zimbabwe's legacy of unequal registration",
+  "publisher": "The Herald",
+  "published": "2026-09-26",
+  "sub_indicator": "frombirth",
+  "why": "Q2/Q4: decentralisation and mobile registration exercises"
+ }
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf",
+  "title": "Country Playbook (Tunisia)",
+  "publisher": "ID4Africa",
+  "published": "2026",
+  "why": "IUC attributed at birth, registry fed by Madania and CIN",
+  "sub_indicator": "registers"
+ },
+ {
+  "url": "https://www.id4africa.com/2025/files/T1-P2-S1-0-TUNISIA-EN-final.pdf",
+  "title": "Data Sharing and Interoperability: Tunisia",
+  "publisher": "ID4Africa",
+  "published": "2025",
+  "why": "registries, unique ID number given at birth, interoperability",
+  "sub_indicator": "registers"
+ },
+ {
+  "url": "https://id4africa.com/2024/ps3/PS3-3-Tunisia-Final.pdf",
+  "title": "Tunisia",
+  "publisher": "ID4Africa",
+  "published": "2024",
+  "why": "IUC attributed at birth; Mobile ID since Aug 2022; governance",
+  "sub_indicator": "registers"
+ },
+ {
+  "url": "https://lake.jort.tn/journal-officiel/fr/2020/043.pdf",
+  "title": "Decret gouvernemental n 2020-312 (identifiant unique citoyen)",
+  "publisher": "JORT",
+  "published": "2020",
+  "why": "content of IUC and register; bodies authorised to access (art 17)",
+  "sub_indicator": "registers"
+ },
+ {
+  "url": "https://crvssystems.ca/sites/default/files/assets/files/SocialProtection_5_Tunisia_e_WEB.pdf",
+  "title": "The Nexus Between Civil Registration and Social Protection Systems: Tunisia",
+  "publisher": "Centre of Excellence for CRVS Systems",
+  "published": "",
+  "why": "Amen Social cross-checks social ID against other databases",
+  "sub_indicator": "registers"
+ },
+ {
+  "url": "https://www.lapresse.tn/2026/02/13/administration-tunisienne-lancement-effectif-de-la-numerisation-complete-en-2026/",
+  "title": "Administration tunisienne : lancement effectif de la numerisation complete en 2026",
+  "publisher": "La Presse de Tunisie",
+  "published": "2026-02-13",
+  "why": "national interconnection platform and remote services",
+  "sub_indicator": "registers"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/149991601962913423/pdf/Diagnostic-of-ID-Systems-in-Tunisia.pdf",
+  "title": "Diagnostic of ID Systems in Tunisia (ID4D)",
+  "publisher": "World Bank",
+  "published": "2020",
+  "why": "birth registration 99%; RIUC pilot; registers and operators",
+  "sub_indicator": "registers"
+ },
+ {
+  "url": "https://www.thd.tn/tunisie-le-centre-national-de-linformatique-celebre-50-ans-au-coeur-de-la-transformation-numerique-de-letat/",
+  "title": "Le Centre national de l'informatique celebre 50 ans",
+  "publisher": "THD - Tunisie Haut Debit",
+  "published": "2026-01-06",
+  "why": "CNI runs national unique identifier register and digital identity with own staff",
+  "sub_indicator": "registers"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "sub_indicator": "registers",
+ "select": true,
+ "aspect": "register",
+ "fact": "Since December 2023 taxpayer registration in Ethiopia has been integrated with Fayda, so each new taxpayer identification number is connected to a Fayda number, while new Fayda-based registrations are not yet checked for duplicates against existing taxpayers' biometrics.",
+ "title": "Ethiopia's national digital ID: A breakthrough for tax system transformation?",
+ "publisher": "ICTD (International Centre for Tax and Development)",
+ "published": "2024-05-09",
+ "date_source": "source",
+ "why_not": ""
+}

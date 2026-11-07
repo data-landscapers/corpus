@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "registers",
+ "aspect": "",
+ "fact": "",
+ "title": "Burkina Faso : 3894 agents payés non enrôlés dont 2 frauduleusement avec une perte de 887 701 670 F CFA par mois",
+ "publisher": "Burkina24",
+ "published": "2023-08-17",
+ "date_source": "proxy",
+ "why_not": "off-topic: payroll checked against the civil service's own biometric enrolment, not the national ID"
+}

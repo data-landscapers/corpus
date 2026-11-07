@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "frombirth",
+ "aspect": "",
+ "fact": "",
+ "title": "Ethiopian Digital Identification Proclamation No. 1284/2023",
+ "publisher": "Ministry of Justice",
+ "published": "2023-04-18",
+ "date_source": "source",
+ "why_not": "no-development: fetched text is only the preamble; no dated fact on number at birth"
+}

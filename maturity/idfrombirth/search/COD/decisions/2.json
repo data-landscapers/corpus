@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "frombirth",
+ "aspect": "number",
+ "fact": "The terms of reference state that the DRC currently has no central civil register, no national identity card and no foundational identification system, so a birth creates no identity record.",
+ "title": "Projet de transformation numérique : Termes de référence pour l'appui au développement du système d'état civil en RDC",
+ "publisher": "Projet de Transformation Numérique (RDC, Banque mondiale)",
+ "published": "2025-05",
+ "date_source": "source",
+ "why_not": ""
+}

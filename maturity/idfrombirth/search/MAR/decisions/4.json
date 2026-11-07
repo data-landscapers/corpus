@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "frombirth",
+ "aspect": "number;national",
+ "fact": "The Danish National ID Centre's November 2023 note states every Moroccan is granted a unique, random 10-digit IDCS at birth, shown on the birth certificate extract.",
+ "title": "Morocco – Birth registration and issuance of birth certificate",
+ "publisher": "Nationalt ID-center (NIDC), Danish Immigration Service",
+ "published": "2023-11-02",
+ "date_source": "source",
+ "why_not": ""
+}

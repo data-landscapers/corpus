@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "registers",
+ "aspect": "",
+ "fact": "",
+ "title": "Communiqué du Conseil des ministres du mercredi 22 avril 2026",
+ "publisher": "Nigerinter",
+ "published": "2026-04-23",
+ "date_source": "source",
+ "why_not": "no-development: the communiqué names no register adopting the ID number, only the civil-status ordinance and the ANEI agency"
+}

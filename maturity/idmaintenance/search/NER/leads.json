@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://anp.ne/une-cinquantaine-dagents-du-service-central-de-production-de-la-carte-nationale-didentite-biometrique-scpcnib-en-formation/",
+  "title": "Une cinquantaine d'agents du Service Central de Production de la Carte Nationale d'Identité Biométrique (SCPCNIB) en formation",
+  "publisher": "Agence Nigérienne de Presse",
+  "published": "2026-07-08",
+  "sub_indicator": "maintenance",
+  "why": "national police unit trained, enrolment ongoing (Q2,Q3)"
+ },
+ {
+  "url": "https://www.wuri.ne/consultation-preliminaire-du-marche-relative-a-la-conception-la-fourniture-linstallation-et-la-maintenance-du-systeme-dinformation-pour-lidentification-biometrique-au-prof/",
+  "title": "Avis d'engagement précoce du marché - système d'information national d'identification biométrique",
+  "publisher": "WURI-Niger",
+  "published": "2026-06-16",
+  "sub_indicator": "maintenance",
+  "why": "foundational ID platform still to be procured with maintenance by integrator (Q1,Q4)"
+ },
+ {
+  "url": "https://www.actuniger.com/societe/21933-carte-nationale-didentite-biometrique-cest-parti-pour-lenrolement-de-masse-des-citoyens.html",
+  "title": "Carte Nationale d'identité Biométrique : c'est parti pour l'enrôlement de masse des citoyens",
+  "publisher": "ActuNiger",
+  "published": "2026-04-26",
+  "sub_indicator": "maintenance",
+  "why": "police and national firm HASDI with Libyan partner run enrolment (Q2)"
+ },
+ {
+  "url": "https://anp.ne/lancement-officiel-de-la-nouvelle-carte-nationale-didentite-biometrique-aes-la-premiere-carte-delivree-au-president-de-la-republique/",
+  "title": "Lancement officiel de la nouvelle carte nationale d'identité biométrique AES",
+  "publisher": "Agence Nigérienne de Presse",
+  "published": "2026-03-27",
+  "sub_indicator": "maintenance",
+  "why": "Libyan firm builds, Nigerien firm HAZDI leads skills transfer (Q1)"
+ },
+ {
+  "url": "https://www.lesahel.org/projet-des-nouveaux-passeports-et-cartes-biometriques-du-niger-le-secretaire-general-du-ministere-de-linterieur-visite-les-services-concernes-pour-apprecier-letat-de-mise-en-o/",
+  "title": "Projet des nouveaux passeports et cartes biométriques du Niger : le secrétaire général du ministère de l'Intérieur visite les services concernés",
+  "publisher": "Le Sahel",
+  "published": "2026-03-10",
+  "sub_indicator": "maintenance",
+  "why": "local teams trained, data owned by Niger, PPP (Q1,Q4)"
+ },
+ {
+  "url": "https://www.wuri.ne/mission-dappui-au-projet-wuri-niger-des-decisions-majeures-pour-accelerer-la-mise-en-oeuvre-du-projet/",
+  "title": "Mission d'appui au Projet WURI-NIGER : Des décisions majeures pour accélérer la mise en oeuvre du projet",
+  "publisher": "WURI-Niger",
+  "published": "2026-02-07",
+  "sub_indicator": "maintenance",
+  "why": "ANSI-led task force, open-source architecture for sovereignty (Q4)"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202506/libyan-firm-wins-niger-biometric-passport-national-id-contract",
+  "title": "Libyan firm wins Niger biometric passport, national ID contract",
+  "publisher": "Biometric Update",
+  "published": "2025-06-30",
+  "sub_indicator": "maintenance",
+  "why": "foreign firm finances, builds and maintains under PPP (Q1)"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202502/bioenable-powers-niger-pilot-for-mosip-based-national-digital-id",
+  "title": "BioEnable powers Niger pilot for MOSIP-based national digital ID",
+  "publisher": "Biometric Update",
+  "published": "2025-02-21",
+  "sub_indicator": "maintenance",
+  "why": "MOSIP-based pilot with Indian supplier (Q4)"
+ }
+]

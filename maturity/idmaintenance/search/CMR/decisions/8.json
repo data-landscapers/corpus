@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "operation",
+ "fact": "On 29 September 2023 the DGSN announced it would contract a provider on a Build-Operate-Transfer basis to produce biometric ID cards, the existing system being run by Thales since 2017 and delivering delays of up to four years.",
+ "title": "Après l'échec du français Thalès, le gouvernement recherche un nouveau prestataire pour la production des cartes d'identité biométriques",
+ "publisher": "Vitrine du Cameroun",
+ "published": "2023-10-04",
+ "date_source": "source",
+ "why_not": ""
+}

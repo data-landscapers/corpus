@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.unicef.org/digitalimpact/stories/putting-children-heart-sierra-leones-digital-public-infrastructure",
+  "title": "Putting children at the heart of Sierra Leone's digital public infrastructure",
+  "publisher": "UNICEF",
+  "published": "2026-10-14",
+  "sub_indicator": "frombirth",
+  "why": "Q2/Q3: system assigns NIN when baby registered"
+ },
+ {
+  "url": "https://sierraleoneconcordtimes.com/93-of-sierra-leone-registered-with-unique-nins-2/",
+  "title": "93% of Sierra Leone registered with unique NINs",
+  "publisher": "Concord Times",
+  "published": "2026-08-17",
+  "sub_indicator": "frombirth",
+  "why": "Q3/Q4: NCRA DG on NIN coverage and birth registration"
+ },
+ {
+  "url": "https://www.child-identity.org/wp-content/uploads/2026/08/CHIP-CRC-factsheet-SIERRA-LEONE.pdf",
+  "title": "Children's right to identity in Sierra Leone",
+  "publisher": "CHIP (Child Identity Protection)",
+  "published": "2026",
+  "sub_indicator": "frombirth",
+  "why": "Q2-Q4: identification number generated at birth registration; coverage"
+ },
+ {
+  "url": "https://www.id4africa.com/2025/files/T2-P1-S2-4-SIERRALEONE_FINAL.pdf",
+  "title": "Civil registration in Sierra Leone",
+  "publisher": "NCRA at ID4Africa",
+  "published": "2025",
+  "sub_indicator": "frombirth",
+  "why": "Q3/Q4: integrated CRVS and ID, coverage"
+ },
+ {
+  "url": "https://healsl.org/storage/files/presentations/202403181314Strengthening%20Births%20_%20Deaths%20Registration%20Services%20in%20Sierra%20Leone-compressed.pdf",
+  "title": "Strengthening Births & Deaths Registration Services in Sierra Leone",
+  "publisher": "NCRA / HEAL-SL",
+  "published": "2024-03",
+  "sub_indicator": "frombirth",
+  "why": "Q2/Q3: NIN generated at on-site hospital registration; death registration"
+ },
+ {
+  "url": "https://id4africa.com/2024/ps2/PS2-3-Sierra-Leone-Final.pdf",
+  "title": "Sierra Leone's Digital Identity",
+  "publisher": "NCRA at ID4Africa",
+  "published": "2024",
+  "sub_indicator": "frombirth",
+  "why": "Q3: NIN assigned to all registrants incl. children"
+ },
+ {
+  "url": "https://www.unicef.org/sierraleone/stories/making-birth-registration-more-accessible-every-child-sierra-leone",
+  "title": "Making birth registration more accessible for every child in Sierra Leone",
+  "publisher": "UNICEF Sierra Leone",
+  "published": "2023-03-23",
+  "sub_indicator": "frombirth",
+  "why": "Q2: hospital registration generates ID number; 98% of notified births registered 2022"
+ },
+ {
+  "url": "https://ncra.gov.sl/biometric-civil-registration-process-to-get-your-national-identification-number-nin/",
+  "title": "Biometric Civil Registration process to get your NIN",
+  "publisher": "NCRA",
+  "published": "2023-03-02",
+  "sub_indicator": "frombirth",
+  "why": "Q1/Q2: registration from age 0 generates NIN"
+ }
+]

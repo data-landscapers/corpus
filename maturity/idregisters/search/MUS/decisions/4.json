@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register",
+ "fact": "An application to the Business Registration Act register must specify the full name and national identification number of the person, and the Registrar allocates a business registration number.",
+ "title": "Business Registration Act 2002 (consolidated to 31 August 2026)",
+ "publisher": "Corporate and Business Registration Department",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

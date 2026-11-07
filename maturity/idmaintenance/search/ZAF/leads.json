@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://pmg.org.za/committee-question/34864/",
+  "title": "Question to the Minister of Home Affairs - NW6920",
+  "publisher": "Parliamentary Monitoring Group",
+  "published": "2025-12-14",
+  "sub_indicator": "maintenance",
+  "why": "Q2/Q4: department retains ownership and control of core systems; foreign biometric providers"
+ },
+ {
+  "url": "https://pmg.org.za/committee-meeting/37466/",
+  "title": "Automated Biometric Information System (ABIS) update",
+  "publisher": "Parliamentary Monitoring Group",
+  "published": "2023",
+  "sub_indicator": "maintenance",
+  "why": "Q1/Q2: IDEMIA contract, ABIS primary from Sept 2023"
+ },
+ {
+  "url": "https://pmg.org.za/committee-question/31605/",
+  "title": "Question to the Minister of Home Affairs - NW4278",
+  "publisher": "Parliamentary Monitoring Group",
+  "published": "2025-07-29",
+  "sub_indicator": "maintenance",
+  "why": "Q1: technology partners, department lacks internal capacity"
+ },
+ {
+  "url": "https://www.gov.za/news/media-statements/home-affairs-upgrades-critical-digital-verification-system-24-mar-2025",
+  "title": "Home Affairs upgrades critical digital verification system",
+  "publisher": "South African Government",
+  "published": "2025-03-24",
+  "sub_indicator": "maintenance",
+  "why": "Q2/Q3: department upgrades verification system"
+ },
+ {
+  "url": "https://pmg.org.za/question_replies/429/?filter=34",
+  "title": "Questions to Ministers",
+  "publisher": "Parliamentary Monitoring Group",
+  "published": "2022-09-28",
+  "sub_indicator": "maintenance",
+  "why": "Q1: ABIS run with EOH and IDEMIA"
+ },
+ {
+  "url": "https://www.itweb.co.za/article/home-affairs-allays-fears-over-digital-id-security/Gb3BwMWaEgxv2k6V",
+  "title": "Home affairs allays fears over digital ID security",
+  "publisher": "ITWeb",
+  "published": "2026-03-24",
+  "sub_indicator": "maintenance",
+  "why": "Q2/Q4: hosting, digital ID system"
+ },
+ {
+  "url": "https://www.gov.za/news/media-statements/home-affairs-launch-world-class-new-identity-verification-service-and-cost",
+  "title": "Home Affairs on launch of new identity verification service",
+  "publisher": "South African Government",
+  "published": "2025-07-06",
+  "sub_indicator": "maintenance",
+  "why": "Q2/Q3: department and service providers built new verification service"
+ },
+ {
+  "url": "https://pmg.org.za/committee-meeting/28025/",
+  "title": "HANIS & ABIS; Bosasa contract at Lindela",
+  "publisher": "Parliamentary Monitoring Group",
+  "published": "2019",
+  "sub_indicator": "maintenance",
+  "why": "Q1: HANIS maintained by supplier Marpless; state does not own software"
+ }
+]

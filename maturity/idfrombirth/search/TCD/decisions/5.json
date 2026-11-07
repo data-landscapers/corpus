@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "frombirth",
+ "aspect": "number",
+ "fact": "At the Mongo provincial hospital birth desk, births are digitised and transmitted to ANATS, producing birth acts with a Numéro National d'Identification (NNI), with 10 to 15 births registered daily.",
+ "title": "Tchad : La digitalisation accélère l’enregistrement des naissances à Mongo",
+ "publisher": "Radio Ndarason Internationale",
+ "published": "2025-07-01",
+ "date_source": "source",
+ "why_not": ""
+}

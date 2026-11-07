@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "registers",
+ "aspect": "",
+ "fact": "",
+ "title": "FAQ Immatriculation des contribuables",
+ "publisher": "Direction générale des impôts",
+ "published": "2023-10-17",
+ "date_source": "source",
+ "why_not": "already-held: the story is in evidence already"
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "frombirth",
+ "aspect": "number",
+ "fact": "From 3 April 2024 the Ministry of the Interior began issuing the Numéro d'Identification Personnel (NIP) to citizens aged 16 and over, a number given at 16 and not at birth.",
+ "title": "CARTE NATIONALE D’IDENTITE ELECTRONIQUE (CNIE)",
+ "publisher": "Ministère de l'Intérieur, de la Sécurité et de la Décentralisation",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "headline-only-stub: the page carries no date to cite"
+}

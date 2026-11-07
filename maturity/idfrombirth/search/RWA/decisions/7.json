@@ -1,0 +1,11 @@
+{
+ "aspect": "number",
+ "fact": "Law n° 029/2023 provides that a child born in a health facility is immediately registered in the CRVS system by a designated officer, the data passing to the population registry, and a child's SDID number is linked to the national identification number.",
+ "title": "Law n° 029/2023 of 14/06/2023 governing population registration in the national single digital identity system",
+ "publisher": "Official Gazette of the Republic of Rwanda",
+ "published": "2023-06-15",
+ "date_source": "source",
+ "select": true,
+ "sub_indicator": "frombirth",
+ "why_not": ""
+}

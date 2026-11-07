@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "registers",
+ "aspect": "",
+ "fact": "",
+ "title": "National Electronic Government Plan 2023-2026",
+ "publisher": "Electronic Government Division",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "off-topic: zero draft plan; API manager for e-KYC on INRIS is no register keyed on the number"
+}

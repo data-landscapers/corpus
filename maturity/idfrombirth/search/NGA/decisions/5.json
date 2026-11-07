@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "frombirth",
+ "aspect": "complete",
+ "fact": "The UNICEF profile, from DHS 2023-24, puts registration of children under five at 40 per cent in Nigeria, with 20 million under five unregistered.",
+ "title": "A statistical profile of birth registration in Nigeria",
+ "publisher": "UNICEF",
+ "published": "2026-06",
+ "date_source": "source",
+ "why_not": ""
+}

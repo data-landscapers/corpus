@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202610/uganda-moves-to-make-national-digital-id-number-its-tax-identifier",
+  "title": "Uganda moves to make national digital ID number its tax identifier",
+  "publisher": "Biometric Update",
+  "published": "2026-10-22",
+  "sub_indicator": "registers",
+  "why": "Q2: tax register keyed on NIN"
+ },
+ {
+  "url": "https://ura.go.ug/en/ask-ura-commissioner-general-37/",
+  "title": "Ask URA Commissioner General 37",
+  "publisher": "Uganda Revenue Authority",
+  "published": "2026-09-25",
+  "sub_indicator": "registers",
+  "why": "Q2: NIN primary TIN for individuals"
+ },
+ {
+  "url": "https://www.apc.org/sites/default/files/uneven-enforcement-of-data-protection-laws-puts-data-subjects-rights-at-risk-in-ugandas-2026-polls-report-31.03.2026.pdf",
+  "title": "Uneven enforcement of data protection laws, Uganda 2026 polls",
+  "publisher": "APC",
+  "published": "2026-03-31",
+  "sub_indicator": "registers",
+  "why": "Q2: voters register built on NIRA data and NIN"
+ },
+ {
+  "url": "https://socialprotection.go.ug/wp-content/uploads/2025/02/Feasibility-Report-for-Ugandas-Social-Registry.pdf",
+  "title": "Feasibility report for Uganda's social registry",
+  "publisher": "Ministry of Gender, Labour and Social Development",
+  "published": "2025-02",
+  "sub_indicator": "registers",
+  "why": "Q2: social registry linked to NIRA"
+ },
+ {
+  "url": "https://iser-uganda.org/wp-content/uploads/2025/06/Court-ruling-on-mandatory-use-of-the-digital-National-ID.pdf",
+  "title": "Court ruling on mandatory use of the national ID (ISER v AG)",
+  "publisher": "High Court of Uganda",
+  "published": "2025-06-10",
+  "sub_indicator": "registers",
+  "why": "Q2: NIN mandatory for SAGE"
+ },
+ {
+  "url": "https://www.monitor.co.ug/uganda/news/national/govt-shows-exit-door-to-5-000-ghost-workers-4951718",
+  "title": "Govt shows exit door to 5,000 ghost workers",
+  "publisher": "Daily Monitor",
+  "published": "2025-03-05",
+  "sub_indicator": "registers",
+  "why": "Q4: payroll deactivations"
+ },
+ {
+  "url": "https://www.tmafrica.co.ug/news/govt-deletes-6000-civil-servants-payroll",
+  "title": "Govt deletes 6,000 civil servants from payroll",
+  "publisher": "Torch Media Africa",
+  "published": "2024-07-19",
+  "sub_indicator": "registers",
+  "why": "Q4: payroll validation, NIRA biodata checks"
+ },
+ {
+  "url": "https://www.monitor.co.ug/uganda/special-reports/elections/numbers-that-matter-ahead-of-elections-5278770",
+  "title": "Numbers that matter ahead of elections",
+  "publisher": "Daily Monitor",
+  "published": "2025-11-27",
+  "sub_indicator": "registers",
+  "why": "Q2: EC draws voters from NIRA database"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "operation",
+ "fact": "The National Digital Identity System launched on 28 November 2025 is to be managed by a newly created National Identification Office (ONI), with implementation over 2027-2032.",
+ "title": "National Digital Identity System: Modernizing Administration",
+ "publisher": "Ambition Journal",
+ "published": "2025-11-28",
+ "date_source": "source",
+ "why_not": ""
+}

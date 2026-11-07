@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register",
+ "fact": "ZIMRA Public Notice 62 of 2023 required taxpayers and public officers to update master data including ID number ahead of the new TaRMS system on 12 October 2023.",
+ "title": "Urgent Update of Master Data with Public Officer Details in Preparation for Registration in TaRMS",
+ "publisher": "ZIMRA",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

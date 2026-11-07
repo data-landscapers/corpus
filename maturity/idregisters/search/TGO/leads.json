@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://pmads.gouv.tg/recensement-biometrique-des-fonctionnaires-et-agents-de-letat/",
+  "title": "Recensement biométrique des fonctionnaires et agents de l'Etat",
+  "publisher": "PMADS",
+  "published": "2025-09-25",
+  "sub_indicator": "registers",
+  "why": "Q1/Q2: payroll census on eID infrastructure"
+ },
+ {
+  "url": "https://www.id4africa.com/2025/files/T1-P2-S1-3_TOGO-final.pdf",
+  "title": "Togo's approach to inter administration data exchange",
+  "publisher": "ID4Africa",
+  "published": "2025",
+  "sub_indicator": "registers",
+  "why": "Q1: pilot OTR, CNSS, INAM, MJL; RSPM keyed on e-ID"
+ },
+ {
+  "url": "https://id4africa.com/2026/files/T1-2-4-Togo-FINAL.pdf",
+  "title": "A gateway to social and economic inclusion and public sector modernization",
+  "publisher": "ID4Africa",
+  "published": "2026",
+  "sub_indicator": "registers",
+  "why": "Q2/Q3: UIN use across ecosystem"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099070126172531248/pdf/BOSIB-be7cdb40-a939-4f52-a8b8-dc642b1a0ceb.pdf",
+  "title": "Project Paper (WURI additional financing)",
+  "publisher": "World Bank",
+  "published": "2026",
+  "sub_indicator": "registers",
+  "why": "Q2: integration with social registry"
+ },
+ {
+  "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/114883/TGO-114883.pdf",
+  "title": "Décret relatif au Registre social des personnes et des ménages",
+  "publisher": "Togo (ILO NATLEX)",
+  "published": "2023-04-24",
+  "sub_indicator": "registers",
+  "why": "Q2: RSPM contains NIU"
+ },
+ {
+  "url": "https://www.africardv.com/societe/identification-biometrique-au-togo-un-projet-dinclusion-sociale-pour-tous/",
+  "title": "Identification biométrique au Togo : un projet d'inclusion sociale pour tous",
+  "publisher": "L'actualité africaine",
+  "published": "2025-05-24",
+  "sub_indicator": "registers",
+  "why": "Q1: future social programmes rest on ID database"
+ },
+ {
+  "url": "https://monidentite.anid.gouv.tg/web/anid_pub/questions-r%C3%A9ponses",
+  "title": "FAQ - mon identité",
+  "publisher": "ANID",
+  "published": "",
+  "sub_indicator": "registers",
+  "why": "Q1: NIU as interoperability link"
+ },
+ {
+  "url": "https://anid.gouv.tg/registre-social-des-personnes-et-des-menages-rspm/",
+  "title": "Registre Social des Personnes et des Ménages (RSPM)",
+  "publisher": "ANID",
+  "published": "",
+  "sub_indicator": "registers",
+  "why": "Q1/Q2: RSPM"
+ }
+]

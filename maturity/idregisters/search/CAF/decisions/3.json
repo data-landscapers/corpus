@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register",
+ "fact": "On 24 June 2022 the public service minister announced a biometric physical check of civil servants, based on the national identity card, to clean the payroll file, starting 27 June 2022.",
+ "title": "Bientôt une nouvelle opération de contrôle physique des fonctionnaires et agents de l'Etat",
+ "publisher": "abangui.com (ACAP)",
+ "published": "2022-06-25",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register;matching",
+ "fact": "The government reported that at 25 October 2023, 439,333 of the DGI's 1,077,679 tax identifiers (40.76%) had been attached to an NPI, after the DGI matched its IFU file against the RNPP; the PReM-Bénin financing agreement ties disbursement to real-time IFU-NPI matching from a 68% baseline.",
+ "title": "Bénin : 8 millions de dollars pour renforcer l'interconnexion des fichiers fiscaux et d'identification",
+ "publisher": "La Marina BJ",
+ "published": "2026-11-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

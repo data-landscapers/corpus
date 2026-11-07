@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "frombirth",
+ "aspect": "number",
+ "fact": "Decree D/2025/051 of 14 April 2025 instates an 18-character personal identification number (NPI) for all Guineans from the issue of the birth certificate.",
+ "title": "Décret portant création, gestion et conservation d'un Numéro Personnel d'Identification (NPI) en République de Guinée",
+ "publisher": "République de Guinée (Présidence)",
+ "published": "2025-04-14",
+ "date_source": "source",
+ "why_not": ""
+}

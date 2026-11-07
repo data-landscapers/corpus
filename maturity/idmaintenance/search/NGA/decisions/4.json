@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "ownership;operation",
+ "fact": "NIMC began migrating the national identity system onto the open-source MOSIP platform in July 2025 and issued an $83 million tender for a system integrator to deploy NIMS 2.0.",
+ "title": "Nigeria moves to replace its National ID system. A misstep could lock out millions",
+ "publisher": "TechCabal",
+ "published": "2025-12-10",
+ "date_source": "source",
+ "why_not": ""
+}

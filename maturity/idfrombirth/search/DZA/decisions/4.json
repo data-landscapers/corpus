@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "frombirth",
+ "aspect": "number",
+ "fact": "Executive decree 23-316 of 6 September 2023 gives the unique national identification number (NIN) to Algerian citizens born in Algeria or abroad, and requires it to be entered on the civil registers and extracts kept by communes and consulates.",
+ "title": "Journal Officiel de la République algérienne n° 60 - Décret exécutif n° 23-316 relatif au numéro d'identification national unique",
+ "publisher": "Journal Officiel de la République algérienne démocratique et populaire",
+ "published": "2023-09-13",
+ "date_source": "source",
+ "why_not": ""
+}

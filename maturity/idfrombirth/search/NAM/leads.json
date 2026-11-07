@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://informante.web.na/?p=400200",
+  "title": "Minister Iipumbu launches DigiNam",
+  "publisher": "Informanté",
+  "published": "2026-09-04",
+  "sub_indicator": "frombirth",
+  "why": "Q1: Civil Registration and Identification Act 2024 once operational assigns a unique identifier"
+ },
+ {
+  "url": "https://neweralive.na/govt-earmarks-n175m-for-ids/",
+  "title": "Govt earmarks N$175m for IDs",
+  "publisher": "New Era",
+  "published": "2026-06-03",
+  "sub_indicator": "frombirth",
+  "why": "Q4: birth and death registration completeness figures"
+ },
+ {
+  "url": "https://www.namibian.com.na/home-affairs-deploys-staff-to-24-hospitals-for-instant-birth-registration/",
+  "title": "Home affairs deploys staff to 24 hospitals for instant birth registration",
+  "publisher": "The Namibian",
+  "published": "2025-12-06",
+  "sub_indicator": "frombirth",
+  "why": "Q2: e-birth notification in 126 hospitals, birth registration at hospitals"
+ },
+ {
+  "url": "https://www.nbcnews.na/node/115695",
+  "title": "NAMIBIA STRENGTHENS BIRTH REGISTRATION SYSTEMS",
+  "publisher": "NBC",
+  "published": "",
+  "sub_indicator": "frombirth",
+  "why": "Q2/Q4: e-birth notification in 153 facilities, near 99% coverage claim"
+ },
+ {
+  "url": "https://www.lac.org.na/laws/2024/8547.pdf",
+  "title": "Civil Registration and Identification Act, 2024 (Act No. 13 of 2024)",
+  "publisher": "Government Gazette of Namibia",
+  "published": "2024-12-30",
+  "sub_indicator": "frombirth",
+  "why": "Q1/Q3: s7 unique identifier assigned to every person whose birth is registered"
+ },
+ {
+  "url": "https://nsa.org.na/wp-content/uploads/2024/07/2018-2021_Namibia-Vital-Statistics-Report_April-2024.pdf",
+  "title": "Namibia Vital Statistics Report 2018-2021",
+  "publisher": "Namibia Statistics Agency",
+  "published": "2024-04",
+  "sub_indicator": "frombirth",
+  "why": "Q4: birth and death registration completeness"
+ },
+ {
+  "url": "https://unstats.un.org/legal-identity-agenda/documents/Paper/2023/CRVSID-Namibia.pdf",
+  "title": "CRVSID Case Studies: Namibia",
+  "publisher": "UN Legal Identity Agenda",
+  "published": "2023",
+  "sub_indicator": "frombirth",
+  "why": "Q2: NPRS generates a UIN at birth, not disclosed; UIN from birth is future"
+ },
+ {
+  "url": "https://www.parliament.na/wp-content/uploads/2023/06/Speech_by_Hon_Kashikola_on_the_Civil_Registration_and_Identitifcation.pdf",
+  "title": "Speech on the Civil Registration and Identification Bill",
+  "publisher": "National Assembly of Namibia",
+  "published": "2023-06",
+  "sub_indicator": "frombirth",
+  "why": "Q1: bill assigns unique identifier from birth"
+ }
+]

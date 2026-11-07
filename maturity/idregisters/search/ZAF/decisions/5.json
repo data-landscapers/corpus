@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register",
+ "fact": "The 2025 Roadmap for the Digital Transformation of Government notes South Africa has a single unique identity number for each person and lists PERSAL, DHA, SARS, UIF, GEPF and other datasets approved for verified data sharing.",
+ "title": "South Africa's Roadmap for the Digital Transformation of Government",
+ "publisher": "Government of South Africa",
+ "published": "2025-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register",
+ "fact": "The IFES FAQ on Egypt's 2018 presidential election states the voter register is compiled by automatically transferring each eligible citizen's data from the national identity card database, under Law No. 45 of 2014.",
+ "title": "How is the national electoral register created? Egypt",
+ "publisher": "International IDEA",
+ "published": "2018",
+ "date_source": "proxy",
+ "why_not": ""
+}

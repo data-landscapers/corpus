@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202609/sierra-leone-links-digital-sovereignty-to-local-control-of-dpi",
+  "title": "Sierra Leone links digital sovereignty to local control of DPI",
+  "publisher": "Biometric Update",
+  "published": "2026-09-28",
+  "sub_indicator": "maintenance",
+  "why": "Q1/Q2: local capacity, reduce dependence on external providers"
+ },
+ {
+  "url": "https://www.biometricupdate.com/wp-content/uploads/2026/06/Understanding-MOSIP-Biometric-Update-report.pdf",
+  "title": "Understanding MOSIP report",
+  "publisher": "Biometric Update",
+  "published": "2026-06",
+  "sub_indicator": "maintenance",
+  "why": "Q4: MOSIP migration, full ownership"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202602/brownfield-implementations-represent-mosips-next-wave-of-national-digital-ids",
+  "title": "Brownfield implementations represent MOSIP's next wave of national digital IDs",
+  "publisher": "Biometric Update",
+  "published": "2026-02-19",
+  "sub_indicator": "maintenance",
+  "why": "Q4: migration to MOSIP"
+ },
+ {
+  "url": "https://expomediasl.com/ncra-calls-for-identity-at-the-centre-approach-to-sierra-leones-digital-transformation/",
+  "title": "NCRA Calls for Identity at the Centre Approach",
+  "publisher": "Expo Media Group",
+  "published": "",
+  "sub_indicator": "maintenance",
+  "why": "Q2/Q4: NCRA runs biometric system, piloted MOSIP"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202404/sierra-leone-putting-digital-id-at-the-center-of-its-digital-transformation-agenda",
+  "title": "Sierra Leone putting digital ID at the center of its digital transformation agenda",
+  "publisher": "Biometric Update",
+  "published": "2024-04-11",
+  "sub_indicator": "maintenance",
+  "why": "Q2/Q4: NCRA manages, MOSIP pilot completed Feb 2024"
+ },
+ {
+  "url": "https://www.researchgate.net/publication/379777334_An_Assessment_of_Civil_Registration_and_Identity_Management_in_the_Public_Service_The_Case_of_Ministry_of_Finance_and_the_National_Civil_Registration_Authority_NCRA",
+  "title": "An Assessment of Civil Registration and Identity Management in the Public Service",
+  "publisher": "Karim and Zoker (ResearchGate)",
+  "published": "2024-04-12",
+  "sub_indicator": "maintenance",
+  "why": "Q2/Q3: NCRA operates system with capacitated staff"
+ },
+ {
+  "url": "https://id4africa.com/2024/ps2/PS2-3-Sierra-Leone-Final.pdf",
+  "title": "Sierra Leone's Digital Identity",
+  "publisher": "NCRA at ID4Africa",
+  "published": "2024",
+  "sub_indicator": "maintenance",
+  "why": "Q2/Q4: local data centre, open source piloted"
+ },
+ {
+  "url": "https://thecalabashnewspaper.com/archives/24382",
+  "title": "NCRA Updates the Press on Securitized & Multi-Purpose Identity ID Cards",
+  "publisher": "The Calabash",
+  "published": "2022-03-28",
+  "sub_indicator": "maintenance",
+  "why": "Q1: 15-year PPP with Constrat Systems for cards and verification"
+ }
+]

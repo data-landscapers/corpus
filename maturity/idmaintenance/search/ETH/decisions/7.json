@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "ownership;maintenance",
+ "fact": "The Fayda system is built by customising the open-source MOSIP platform, which has been customised and localised by the NIDP internal team.",
+ "title": "The Federal Democratic Republic of Ethiopia (Digital ID for Inclusion and Services Project P179040, ESMF)",
+ "publisher": "World Bank Group / National ID Program",
+ "published": "2023-09",
+ "date_source": "source",
+ "why_not": ""
+}

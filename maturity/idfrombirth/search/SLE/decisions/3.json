@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "frombirth",
+ "aspect": "number",
+ "fact": "Under UNICEF-supported digital birth registration at hospital registration centres, the record passes to the Central Registry System, an identification number is generated and a certificate is ready within 24 hours; 90% of under-fives were registered in the 2019 DHS.",
+ "title": "Children's right to identity in Sierra Leone",
+ "publisher": "Child Identity Protection (CHIP)",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

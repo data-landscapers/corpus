@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.worldbank.org/en/results/2024/03/28/afw-transformative-journey-of-mass-birth-registration-and-health-insurance-in-the-gambia",
+  "title": "A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia",
+  "publisher": "World Bank",
+  "published": "2024-03-28",
+  "sub_indicator": "frombirth",
+  "why": "Q2/Q3: eCRVS issues unique NIN at registration; coverage about half"
+ },
+ {
+  "url": "https://thepoint.gm/africa/gambia/headlines/health-ministry-signs-mou-with-interior-to-harmonize-nis",
+  "title": "Health Ministry signs MOU with Interior to harmonize NIS",
+  "publisher": "The Point",
+  "published": "2024-03-26",
+  "sub_indicator": "frombirth",
+  "why": "Q2: unified NIN generation between eCRVS and ID system"
+ },
+ {
+  "url": "https://www.id4africa.com/2025/files/T2-P2-S1-3-Gambia_FINAL.pdf",
+  "title": "Overview of Civil Registration and vital statistics in the Gambia",
+  "publisher": "ID4Africa",
+  "published": "2025",
+  "sub_indicator": "frombirth",
+  "why": "Q3/Q4: birth registration 53% of population, March 2025"
+ },
+ {
+  "url": "https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-gambia.pdf",
+  "title": "Overview of Civil Registration and vital statistics in the Gambia",
+  "publisher": "UNECA APAI-CRVS",
+  "published": "2026",
+  "sub_indicator": "frombirth",
+  "why": "Q2/Q3: UIN lifetime identifier, eCRVS Act 2026"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099102025103014657/pdf/P502279-e8627dee-4568-45e7-bb51-9a1aea1ff040.pdf",
+  "title": "World Bank Document (Gambia ID and CRVS overview)",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "frombirth",
+  "why": "Q2/Q3: NIN from eCRVS, unique ID through birth registration"
+ },
+ {
+  "url": "https://foroyaa.net/over-one-million-gambians-registered-with-digital-birth-certificates-national-health-insurance/",
+  "title": "Over One Million Gambians Registered with Digital Birth Certificates, National Health Insurance",
+  "publisher": "Foroyaa Newspaper",
+  "published": "2024-06-25",
+  "sub_indicator": "frombirth",
+  "why": "Q2: routine registration in all public health facilities"
+ },
+ {
+  "url": "https://policies.gov.gm/d/9c7cefe5-80cf-11ef-b086-029254d29bb1",
+  "title": "Gambia National Digital Identity Strategy",
+  "publisher": "Government of The Gambia",
+  "published": "",
+  "sub_indicator": "frombirth",
+  "why": "Q1/Stage1: digital birth certificate has no NIN slot; registration at birth proposed"
+ },
+ {
+  "url": "https://standard.gm/gambia-reaches-1-17m-birth-registrations/",
+  "title": "Gambia Reaches 1.17M Birth Registrations",
+  "publisher": "The Standard",
+  "published": "2024-04-08",
+  "sub_indicator": "frombirth",
+  "why": "Q2: birth certificates issued with unique number"
+ }
+]

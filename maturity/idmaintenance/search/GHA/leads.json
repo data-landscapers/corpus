@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://3news.com/news/revenue-model-is-the-main-focus-in-our-proposal-to-review-contract-with-margins-group-nia-boss",
+  "title": "Revenue model is the main focus in our proposal to review contract with Margins Group",
+  "publisher": "3News",
+  "published": "2025-09-21",
+  "sub_indicator": "maintenance",
+  "why": "Q2/Q4: NIA owns data and infrastructure; Margins technical partner"
+ },
+ {
+  "url": "https://metrotvonline.com/640000-ghana-card-backlog-cleared-after-fresh-talks-with-private-partner-nia-boss/",
+  "title": "640,000 Ghana Card backlog cleared after fresh talks with private partner",
+  "publisher": "Metro TV Online",
+  "published": "2025-09-17",
+  "sub_indicator": "maintenance",
+  "why": "Q2/Q3: NIA prints cards; supplier IMS supplies blanks"
+ },
+ {
+  "url": "https://myrepubliconline.com/nia-threatens-service-cut-over-gra-nhia-and-passport-office-457m-debt/",
+  "title": "NIA threatens service cut over GRA, NHIA and Passport Office debt",
+  "publisher": "Republic Online",
+  "published": "2025-09-21",
+  "sub_indicator": "maintenance",
+  "why": "Q3: partnership relied on for maintenance and card production"
+ },
+ {
+  "url": "https://gna.org.gh/2025/09/margins-id-groups-commitment-makes-ghana-card-a-global-model-nia-chairman/",
+  "title": "Margins ID Group's commitment makes Ghana Card a global model",
+  "publisher": "Ghana News Agency",
+  "published": "2025-09-01",
+  "sub_indicator": "maintenance",
+  "why": "Q1/Q3: board review of PPP with Margins"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202505/ghana-nigeria-kenya-reveal-revenue-generation-models-from-national-id-programs",
+  "title": "Ghana, Nigeria, Kenya reveal revenue generation models from national ID programs",
+  "publisher": "Biometric Update",
+  "published": "2025-05-21",
+  "sub_indicator": "maintenance",
+  "why": "Q4: government owns the database; 15-year PPP"
+ },
+ {
+  "url": "https://www.citinewsroom.com/2024/04/re-no-ghana-card-is-not-for-ghana-it-is-ripping-off-ghana-bright-simons-article/",
+  "title": "Re: No, Ghana Card is not 'for' Ghana (rebuttal)",
+  "publisher": "Citi Newsroom",
+  "published": "2024-04-02",
+  "sub_indicator": "maintenance",
+  "why": "Q2/Q3/Q4: NIA team runs system, IMS second-level support, central site state-owned"
+ },
+ {
+  "url": "https://www.graphic.com.gh/news/politics/ghana-news-parliament-cttees-commend-margins-id-group-for-ghana-card-investment.html",
+  "title": "Parliament c'ttees commend Margins ID Group",
+  "publisher": "Graphic Online",
+  "published": "2024-03-19",
+  "sub_indicator": "maintenance",
+  "why": "Q2: system built and financed by Margins, operated by NIA"
+ }
+]

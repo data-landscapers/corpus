@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "ownership",
+ "fact": "NIRA's 2026 country playbook states it adopted open-source technologies to the greatest extent possible on the MOSIP platform and migrated 28.4 million records from the old system, citing vendor lock-in and ownership of the platform as the problems to solve.",
+ "title": "UGANDA Country Playbook",
+ "publisher": "NIRA (ID4Africa 2026)",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

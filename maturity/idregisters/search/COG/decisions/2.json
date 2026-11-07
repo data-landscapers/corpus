@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register;several",
+ "fact": "On 23 October 2025 the NIU coordinator said the NIU database holds over 600,000 individuals and 28,000 legal entities, that 80,000 civil servants were enrolled in December 2022, and that interfaces with the ETAX tax, SYDONIA customs and SIGFIP budget systems were under way.",
+ "title": "Relance des opérations de production de la carte NIU",
+ "publisher": "Ministère des finances, du budget et du portefeuille public",
+ "published": "2025-10-23",
+ "date_source": "source",
+ "why_not": ""
+}

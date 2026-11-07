@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202602/brownfield-implementations-represent-mosips-next-wave-of-national-digital-ids",
+  "title": "Brownfield implementations represent MOSIP's next wave of national digital IDs",
+  "publisher": "Biometric Update",
+  "published": "2026-02-19",
+  "sub_indicator": "maintenance",
+  "why": "Q2-Q4: NIRA migration, customisation, MOSIP"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202602/uganda-migrates-more-than-28m-records-to-new-national-id-system",
+  "title": "Uganda migrates more than 28M records to new national ID system",
+  "publisher": "Biometric Update",
+  "published": "2026-02-11",
+  "sub_indicator": "maintenance",
+  "why": "Q2/Q4: new system, Tahaluf provider"
+ },
+ {
+  "url": "https://id4africa.com/2026/files/T1-2-3-Uganda-FINAL.pdf",
+  "title": "Uganda country playbook",
+  "publisher": "NIRA / ID4Africa",
+  "published": "2026",
+  "sub_indicator": "maintenance",
+  "why": "Q4: ownership, vendor lock-in, open source"
+ },
+ {
+  "url": "https://www.technoforte.co.in/2026/03/31/ugandas-brownfield-migration-to-mosip/",
+  "title": "Uganda's Brownfield Migration to MOSIP",
+  "publisher": "Technoforte",
+  "published": "2026-03-31",
+  "sub_indicator": "maintenance",
+  "why": "Q2/Q4: migration to MOSIP"
+ },
+ {
+  "url": "https://www.cio.inc/advancing-digital-systems-for-inclusive-public-services-a-28095",
+  "title": "Advancing digital systems for inclusive public services",
+  "publisher": "CIO.inc",
+  "published": "",
+  "sub_indicator": "maintenance",
+  "why": "Q3: NIRA team of 12 adapting MOSIP, capacity"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202407/uganda-to-issue-alien-id-cards-with-new-enrollment-software",
+  "title": "Uganda to issue alien ID cards with new enrollment software",
+  "publisher": "Biometric Update",
+  "published": "2024-07-29",
+  "sub_indicator": "maintenance",
+  "why": "Q1/Q4: no IP rights, new open-source system"
+ },
+ {
+  "url": "https://www.nira.go.ug/media/2024/10/PRESS-STATEMENT-ON-THE-MASS-ENROLMENT-EXERCISE-15th-October-2024.pdf",
+  "title": "Press statement on the status of the mass enrolment and renewal exercise",
+  "publisher": "NIRA",
+  "published": "2024-10-15",
+  "sub_indicator": "maintenance",
+  "why": "Q1/Q2: Tahaluf contract, training of NIRA team"
+ },
+ {
+  "url": "https://www.monitor.co.ug/uganda/news/national/outdated-nira-machines-leave-10m-ugandans-without-ids-3590632",
+  "title": "Outdated NIRA machines leave 10m Ugandans without IDs",
+  "publisher": "Daily Monitor",
+  "published": "2021-10-21",
+  "sub_indicator": "maintenance",
+  "why": "Stage 1: vendor-locked legacy system"
+ }
+]

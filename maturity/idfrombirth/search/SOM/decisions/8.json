@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "frombirth",
+ "aspect": "number",
+ "fact": "Somalia's 11-digit National ID number is issued at the end of the NIRA application and biometric enrolment, with a birth certificate only one accepted proof of identity, so the ID number is not given at birth registration.",
+ "title": "4.1. Application process and identity verification",
+ "publisher": "European Union Agency for Asylum",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

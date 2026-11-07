@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "frombirth",
+ "aspect": "number",
+ "fact": "The Eritrean consulate in Frankfurt requires, for a child's underage ID, the parents' ID copies and an original authenticated birth certificate from Eritrea, so the ID is applied for separately from birth registration and no number is given at birth.",
+ "title": "ወረቐት መንነት",
+ "publisher": "Consulate General of Eritrea, Frankfurt",
+ "published": "2026-08-11",
+ "date_source": "source",
+ "why_not": ""
+}

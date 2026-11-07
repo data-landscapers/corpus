@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.wisekey.com/press/wisekey-awarded-project-by-government-of-seychelles-to-deliver-seyid-a-digital-identity-platform/",
+  "title": "WISeKey Awarded Project by Government of Seychelles to Deliver SeyID",
+  "publisher": "WISeKey",
+  "published": "2024-04-22",
+  "sub_indicator": "maintenance",
+  "why": "Q1-4 supplier platform"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202404/id-platform-delivered-by-wisekey-facilitates-digital-govt-services-in-seychelles",
+  "title": "ID platform delivered by WISeKey",
+  "publisher": "Biometric Update",
+  "published": "2024-04-23",
+  "sub_indicator": "maintenance",
+  "why": "Q1 supplier delivery"
+ },
+ {
+  "url": "https://www.wisekey.com/press/wisekey-expands-implementation-of-digital-identity-solutions-from-seychelles-to-africa-empowering-nations-with-secure-national-id-systems/",
+  "title": "WISeKey Expands Implementation",
+  "publisher": "WISeKey",
+  "published": "2025-04-23",
+  "sub_indicator": "maintenance",
+  "why": "Q4 sovereign control claim"
+ },
+ {
+  "url": "https://www.nationalassembly.sc/sites/default/files/2025-02/VERBATIM%2013TH%20NOVEMBER%202024.pdf",
+  "title": "Verbatim Report NAS Sitting 13 November 2024",
+  "publisher": "National Assembly of Seychelles",
+  "published": "2025-02",
+  "sub_indicator": "maintenance",
+  "why": "Q2/Q3 ICS staff, DICT, contractor payment"
+ },
+ {
+  "url": "https://ict.gov.sc/",
+  "title": "DICT home page",
+  "publisher": "Department of ICT",
+  "published": "",
+  "sub_indicator": "maintenance",
+  "why": "Q2 DICT develops and maintains applications"
+ },
+ {
+  "url": "https://www.nation.sc/articles/2856/civil-status",
+  "title": "National Population Data Information System fully operational",
+  "publisher": "Seychelles Nation",
+  "published": "2019-12-19",
+  "sub_indicator": "maintenance",
+  "why": "Q3 in-house NPDIS (pre-2019 cutoff, held at DICT)"
+ }
+]

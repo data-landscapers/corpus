@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "operation",
+ "fact": "MOSIP's 2025 review says a Côte d'Ivoire pilot combined local capacity building with migration of 10,000 records from the national insurance system, and participants from Côte d'Ivoire were trained to support system operations.",
+ "title": "MOSIP Rewind 2025",
+ "publisher": "MOSIP",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

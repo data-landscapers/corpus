@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register;several",
+ "fact": "The report states the Unified National Registry, managed by the Administrative Control Authority, links 114 databases using the national ID, includes all 23 million Egyptian households and is used to cross-check Takaful and Karama applications.",
+ "title": "Implementation Completion and Results Report, Strengthening Social Safety Net Project (ICR00006333)",
+ "publisher": "World Bank Group",
+ "published": "2024-06-05",
+ "date_source": "source",
+ "why_not": ""
+}

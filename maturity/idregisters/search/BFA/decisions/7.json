@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register",
+ "fact": "The October 2020 AU/OIF audit of the electoral roll recommends the electoral commission verify in the ONI file the 222 voter cards recorded with default numbers, so each is given its unique number.",
+ "title": "Audit indépendant du fichier électoral du Burkina Faso",
+ "publisher": "Union africaine",
+ "published": "2020-10",
+ "date_source": "source",
+ "why_not": ""
+}

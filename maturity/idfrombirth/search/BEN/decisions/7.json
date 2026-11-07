@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "frombirth",
+ "aspect": "number;national",
+ "fact": "The draft law transmitted to the National Assembly on 25 November 2020 provides that every birth is inscribed in the national register of natural persons and the child acquires an NPI on inscription.",
+ "title": "Décret n°2020-559 du 25 novembre 2020 portant transmission à l'Assemblée nationale du projet de loi portant dispositions spéciales pour la simplification et dématérialisation de la gestion de l'état civil",
+ "publisher": "Présidence de la République du Bénin",
+ "published": "2020-11-25",
+ "date_source": "source",
+ "why_not": ""
+}

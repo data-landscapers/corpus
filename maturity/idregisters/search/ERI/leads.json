@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.ecoi.net/en/file/local/2107005/General%20country%20of%20origin%20information%20report%20on%20Eritrea%20December%202023.pdf",
+  "title": "General Country of Origin Information Report on Eritrea",
+  "publisher": "Netherlands Ministry of Foreign Affairs",
+  "published": "2023-12",
+  "sub_indicator": "registers",
+  "why": "Q2: population register, residence card, ID card use"
+ },
+ {
+  "url": "https://www.sem.admin.ch/dam/sem/en/data/internationales/herkunftslaender/afrika/eri/eri-identitaets-und-zivilstandsdokumente-e.pdf.download.pdf/ERI-identitaets-und-zivilstandsdokumente-e.pdf",
+  "title": "Focus Eritrea: Identity and civil status documents",
+  "publisher": "Swiss State Secretariat for Migration",
+  "published": "2021-01-21",
+  "sub_indicator": "registers",
+  "why": "Q2: digital population register with ID number; various authorities access Maekel register"
+ },
+ {
+  "url": "https://www.afdb.org/sites/default/files/documents/project-related-procurement/eritrea_-_governance_sector_-_esta_project_-_spn_-_ifbs_-_proc_of_hardware_software_and_it_equip_-_sept_2023.pdf",
+  "title": "ERITREA Specific Procurement Notice: ErITAS software and IT equipment",
+  "publisher": "African Development Bank",
+  "published": "2023-09",
+  "sub_indicator": "registers",
+  "why": "Q1: ErITAS tax system procurement"
+ },
+ {
+  "url": "https://shabait.com/2023/09/19/eritreas-f-m-statement-at-the-high-level-political-forum-on-sustainable-development/",
+  "title": "Eritrea's FM Statement At the High-Level Political Forum on Sustainable Development",
+  "publisher": "Eritrea Ministry of Information",
+  "published": "2023-09-19",
+  "sub_indicator": "registers",
+  "why": "Q1: population registration system"
+ },
+ {
+  "url": "https://www.acerwc.africa/sites/default/files/2025-10/Eritrea%202nd%20Periodic%20Report.pdf",
+  "title": "Fourth Periodic National Report of the State of Eritrea on the ACRWC (2020-2024)",
+  "publisher": "Government of Eritrea / ACERWC",
+  "published": "2025",
+  "sub_indicator": "registers",
+  "why": "Q1: planned computerised CRVS database"
+ }
+]

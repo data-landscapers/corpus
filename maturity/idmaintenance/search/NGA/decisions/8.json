@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "ownership",
+ "fact": "The World Bank restructuring paper says the NIMS 2.0 contract was signed on 15 September 2026 to replace proprietary components with MOSIP, with full migration by 15 December 2027.",
+ "title": "Restructuring Paper (Nigeria Digital Identification for Development Project)",
+ "publisher": "World Bank",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

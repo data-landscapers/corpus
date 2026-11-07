@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register;matching",
+ "fact": "After the Integrated Social Assistance System replaced the old system in June 2022, 18,503 beneficiaries were rejected, including 4,156 deceased, because they could not be verified against the NPRS.",
+ "title": "Govt pays N$5m to dead beneficiaries",
+ "publisher": "New Era",
+ "published": "2022-07-15",
+ "date_source": "source",
+ "why_not": ""
+}

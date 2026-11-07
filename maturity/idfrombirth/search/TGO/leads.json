@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.togofirst.com/en/justice/2408-19853-togo-reviews-civil-registration-law-to-support-digital-transformation",
+  "title": "Togo Reviews Civil Registration Law to Support Digital Transformation",
+  "publisher": "Togo First",
+  "published": "2026-08-24",
+  "sub_indicator": "frombirth",
+  "why": "Q1: civil registration integrating with unique ID number rollout"
+ },
+ {
+  "url": "https://territoire.gouv.tg/etat-civil-le-togo-accelere-la-reforme-pour-une-identite-mieux-securisee/",
+  "title": "Etat civil : le Togo accélère la réforme pour une identité mieux sécurisée",
+  "publisher": "Ministère de l'Administration Territoriale",
+  "published": "2026-09-10",
+  "sub_indicator": "frombirth",
+  "why": "Q1: civil registration law revision"
+ },
+ {
+  "url": "https://atop.tg/affluence-dans-les-centres-denrolement-le-projet-e-id-togo-suscite-un-engouement-citoyen-minlekib-diane/",
+  "title": "Affluence dans les centres d'enrôlement : le projet e-ID Togo suscite un engouement citoyen",
+  "publisher": "ATOP",
+  "published": "2025-06-03",
+  "sub_indicator": "frombirth",
+  "why": "Q2: newborn can be enrolled via parent NIU"
+ },
+ {
+  "url": "https://oriinfos.com/e-id-togo-le-dg-de-lanid-repond-a-toutes-vos-questions/",
+  "title": "e-ID Togo : Le DG de l'ANID répond à toutes les questions",
+  "publisher": "Ori Infos",
+  "published": "2025-08-22",
+  "sub_indicator": "frombirth",
+  "why": "Q2/Q3: children enrolled with parent NIU, nationwide"
+ },
+ {
+  "url": "https://togobreakingnews.info/anid-agoe-nyive-recensement-biometrique/",
+  "title": "Togo : l'ANID mobilise Agoè-Nyivé pour le recensement biométrique",
+  "publisher": "Togo Breaking News",
+  "published": "2025-08-14",
+  "sub_indicator": "frombirth",
+  "why": "Q2: newborns linked to parent NIU"
+ },
+ {
+  "url": "https://id4africa.com/2026/files/T1-2-4-Togo-FINAL.pdf",
+  "title": "A gateway to social and economic inclusion and public sector modernization",
+  "publisher": "ID4Africa",
+  "published": "2026",
+  "sub_indicator": "frombirth",
+  "why": "Q3: continuous registration launch, civil registry"
+ },
+ {
+  "url": "https://securite.gouv.tg/e-id/",
+  "title": "E-ID",
+  "publisher": "Ministère de la Sécurité",
+  "published": "",
+  "sub_indicator": "frombirth",
+  "why": "Q1: NIU at birth where uniqueness guaranteed"
+ },
+ {
+  "url": "https://togoscoop.tg/togo-e-vita-un-projet-pour-moderniser-lenregistrement-des-naissances-et-des-deces/",
+  "title": "Togo : e-Vital, un projet pour moderniser l'enregistrement des naissances et des décès",
+  "publisher": "Togo Scoop Info",
+  "published": "2026-11-05",
+  "sub_indicator": "frombirth",
+  "why": "Q4: birth and death registration digitisation"
+ }
+]

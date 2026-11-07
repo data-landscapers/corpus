@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "operation",
+ "fact": "On 22 April 2025 an interministerial commission assessed the technical and operational capacity of the Ministry of Justice's BI production centre ahead of decentralising printing to local printers.",
+ "title": "Comissão Interministerial avalia impressão descentralizada do Bilhete de Identidade",
+ "publisher": "Ministério da Justiça e dos Direitos Humanos",
+ "published": "2025-04-23",
+ "date_source": "source",
+ "why_not": ""
+}

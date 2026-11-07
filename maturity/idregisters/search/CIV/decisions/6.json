@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "registers",
+ "aspect": "",
+ "fact": "",
+ "title": "Participation du Ministère de l'Intérieur et de la Sécurité aux ARTCI Days 2024",
+ "publisher": "Ministère de l'Intérieur et de la Sécurité",
+ "published": "2024-11-11",
+ "date_source": "source",
+ "why_not": "no-development: general call to use the NNI as reference for interoperability, no register named"
+}

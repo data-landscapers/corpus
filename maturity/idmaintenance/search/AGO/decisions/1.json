@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "operation",
+ "fact": "The August 2026 Intelwatch report states that Angola's identity and surveillance stack is built almost entirely by foreign suppliers, switched repeatedly as ministers change.",
+ "title": "Biometrics, Border Control and Surveillance in Angola",
+ "publisher": "Intelwatch",
+ "published": "2026-08",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "operation",
+ "fact": "SEMLEX's 12-year public-private partnership gives the first two years to implementation and the last ten to operating the RNPP solution before its transfer to Côte d'Ivoire, while enrolment and management of the RNPP stay with the State.",
+ "title": "Implementation of the RNPP in Ivory Coast",
+ "publisher": "Semlex",
+ "published": "2019-10-21",
+ "date_source": "source",
+ "why_not": ""
+}

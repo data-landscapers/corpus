@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://ambition-journal.org/en/business/national-digital-identity-system-modernizing-administration",
+  "title": "National Digital Identity System: Modernizing Administration",
+  "publisher": "Ambition Journal",
+  "published": "2025-11-28",
+  "sub_indicator": "frombirth",
+  "why": "Q1: NUI unique number planned, civil registry unified, 2027-2032"
+ },
+ {
+  "url": "https://civipol.fr/fr/projets/rca-modero-appui-la-modernisation-la-securisation-et-laccessibilite-detat-civil-en-rca",
+  "title": "RCA MODERO – Appui à la modernisation, à la sécurisation et à l'accessibilité d'état civil en RCA",
+  "publisher": "Civipol",
+  "published": "",
+  "sub_indicator": "frombirth",
+  "why": "Q1/Q2: RNEC consolidation, digital civil registry"
+ },
+ {
+  "url": "https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-digitisation-car.pdf",
+  "title": "Numérisation de l'état civil en RCA (EGMRG 2026)",
+  "publisher": "APAI-CRVS / UNECA",
+  "published": "",
+  "sub_indicator": "frombirth",
+  "why": "Q2: RNEC over 225,000 birth records, 77% manual"
+ },
+ {
+  "url": "https://www.unicef.org/car/en/press-releases/150000-children-central-african-republic-benefit-birth-registration",
+  "title": "150,000 children in the Central African Republic to benefit from birth registration",
+  "publisher": "UNICEF",
+  "published": "2025-08-13",
+  "sub_indicator": "frombirth",
+  "why": "Q4: 55% of under-fives unregistered (2019)"
+ },
+ {
+  "url": "https://oubanguimedias.com/2025/10/22/vers-une-identite-pour-tous-en-centrafrique-loif-et-le-gouvernement-lancent-un-projet-pilote-detat-civil/",
+  "title": "Vers une identité pour tous en Centrafrique : l'OIF et le gouvernement lancent un projet pilote d'état civil",
+  "publisher": "Oubangui Médias",
+  "published": "2025-10-22",
+  "sub_indicator": "frombirth",
+  "why": "Q4: only 25% of children registered (UNICEF 2025)"
+ },
+ {
+  "url": "https://oubanguimedias.com/2025/04/18/rca-le-gouvernement-valide-le-rapport-strategique-sur-lidentite-digitale-et-letat-civil-en-centrafrique/",
+  "title": "RCA : le gouvernement valide le rapport stratégique sur l'identité digitale et l'État civil en Centrafrique",
+  "publisher": "Oubangui Médias",
+  "published": "2025-04-18",
+  "sub_indicator": "frombirth",
+  "why": "Q1: diagnostic of civil registration and digital identity"
+ },
+ {
+  "url": "https://data.unicef.org/crvs/central-african-republic/",
+  "title": "CRVS - Birth, Marriage and Death Registration in Central African Republic",
+  "publisher": "UNICEF DATA",
+  "published": "",
+  "sub_indicator": "frombirth",
+  "why": "Q1: paper registration, no ID number at birth"
+ },
+ {
+  "url": "https://apai-crvs.uneca.org/sites/default/files/resourcefiles/Leaving%20no%20one%20behind%20for%20civil%20registration%20in%20Africa_English.pdf",
+  "title": "Leaving no one behind for civil registration in Africa",
+  "publisher": "APAI-CRVS",
+  "published": "",
+  "sub_indicator": "frombirth",
+  "why": "Q4: 45% of under-5s registered"
+ }
+]

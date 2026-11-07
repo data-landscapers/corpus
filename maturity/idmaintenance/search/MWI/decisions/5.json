@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "operation;maintenance",
+ "fact": "A February 2025 World Bank mission found the national ID infrastructure outdated and called for continuous training of NRB technical staff to operate and maintain the system.",
+ "title": "Digital Malawi Acceleration Project (DMAP, P505095): Aide-Mémoire, ID Technical Discussions Mission, February 10 to 19, 2025",
+ "publisher": "World Bank",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

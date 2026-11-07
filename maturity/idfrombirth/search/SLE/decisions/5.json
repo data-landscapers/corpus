@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "frombirth",
+ "aspect": "number",
+ "fact": "NCRA states its system ensures a NIN is generated to initiate on-site birth and death registration, with electronic on-site registration opened in 10 hospitals in the Western Area, while health-facility registration elsewhere is paper-based.",
+ "title": "Strengthening Births & Deaths Registration Services in Sierra Leone",
+ "publisher": "National Civil Registration Authority (NCRA)",
+ "published": "2022-06-07",
+ "date_source": "source",
+ "why_not": ""
+}

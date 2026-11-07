@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register",
+ "fact": "NASSCO said the Federal Government had validated 11.5 million NINs in the National Social Register reform, the register covering over 77 million individuals.",
+ "title": "FG validates 11.5m NINs as social register covers 77m Nigerians",
+ "publisher": "The Guardian Nigeria",
+ "published": "2026-05-08",
+ "date_source": "source",
+ "why_not": ""
+}

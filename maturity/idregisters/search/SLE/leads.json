@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2026-04/feasibility_study_on_voter_registration_in_sierra_leone_final.pdf",
+  "title": "Feasibility study on voter registration in Sierra Leone",
+  "publisher": "UNDP",
+  "published": "2026-04",
+  "sub_indicator": "registers",
+  "why": "Q1/Q2: voter register and NIN"
+ },
+ {
+  "url": "https://dpi.africa/the-low-drive-for-national-identification-system-in-sierra-leone/",
+  "title": "The Low Drive for National Identification System in Sierra Leone",
+  "publisher": "dpi.africa",
+  "published": "2025-05-05",
+  "sub_indicator": "registers",
+  "why": "Q2: NASSIT, tax and passport numbers tied to NIN"
+ },
+ {
+  "url": "https://www.researchgate.net/publication/379777334_An_Assessment_of_Civil_Registration_and_Identity_Management_in_the_Public_Service_The_Case_of_Ministry_of_Finance_and_the_National_Civil_Registration_Authority_NCRA",
+  "title": "An Assessment of Civil Registration and Identity Management in the Public Service",
+  "publisher": "Karim and Zoker (ResearchGate)",
+  "published": "2024-04-12",
+  "sub_indicator": "registers",
+  "why": "Q2-Q4: payroll cleaned using NIN, 3,998 deleted; MoUs with NASSIT, NRA"
+ },
+ {
+  "url": "https://id4africa.com/2024/ps2/PS2-3-Sierra-Leone-Final.pdf",
+  "title": "Sierra Leone's Digital Identity",
+  "publisher": "NCRA at ID4Africa",
+  "published": "2024",
+  "sub_indicator": "registers",
+  "why": "Q2/Q3: elections, tax, social security, payroll linked to NIN"
+ },
+ {
+  "url": "https://www.politicosl.com/articles/ncra-upgrade-civil-registration-database",
+  "title": "NCRA to upgrade Civil Registration database",
+  "publisher": "Politico SL",
+  "published": "2023-10-24",
+  "sub_indicator": "registers",
+  "why": "Q1: data sharing with HRMO, NRA, NASSIT planned"
+ },
+ {
+  "url": "https://ncra.gov.sl/h-e-president-bio-launched-first-ever-securitized-and-multipurpose-biometric-id-cards-in-sierra-leone/",
+  "title": "President Bio launched securitized ID cards",
+  "publisher": "NCRA",
+  "published": "2023-02-06",
+  "sub_indicator": "registers",
+  "why": "Q4: NIN used for payroll, ghost employees eliminated"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202303/how-sierra-leone-joined-forces-for-national-digital-id-id4africa-livecast",
+  "title": "How Sierra Leone joined forces for national digital ID",
+  "publisher": "Biometric Update",
+  "published": "2023-03-23",
+  "sub_indicator": "registers",
+  "why": "Q2/Q3: ECSL electoral roll, NRA tax, banks"
+ },
+ {
+  "url": "https://thecalabashnewspaper.com/archives/29586",
+  "title": "NCRA DG Chairs UNECA Led Session on Integrated CRVS & ID Management System",
+  "publisher": "The Calabash",
+  "published": "2022-10-28",
+  "sub_indicator": "registers",
+  "why": "Q3: voter register extracted from civil register, payroll, tax, NASSIT"
+ }
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf",
+  "title": "Country Playbook (Tunisia)",
+  "publisher": "ID4Africa",
+  "published": "2026",
+  "why": "IUC attributed at birth, registry fed by Madania and CIN",
+  "sub_indicator": "frombirth"
+ },
+ {
+  "url": "https://9anoun.tn/fr/kb/jorts/jort-2020-041-0d02e/decret-loi-du-chef-du-gouvernement-ndeg-2020-17-du-12-mai-2020-relatif-a-lidentifiant-unique-du-citoyen-5",
+  "title": "Decret-loi n 2020-17 relatif a l'identifiant unique du citoyen",
+  "publisher": "JORT / 9anoun",
+  "published": "2020",
+  "why": "IUC attributed to those registered at birth in civil register",
+  "sub_indicator": "frombirth"
+ },
+ {
+  "url": "https://www.crvslaws.org/tunisia/birth-registration/id-related-services",
+  "title": "ID and Related Services | Birth Registration | Tunisia",
+  "publisher": "CRVS Laws",
+  "published": "2025",
+  "why": "UPI assigned at birth registration, citizens only",
+  "sub_indicator": "frombirth"
+ },
+ {
+  "url": "https://www.crvslaws.org/tunisia/summary",
+  "title": "Summary | Tunisia | Civil Registration and Vital Statistics",
+  "publisher": "CRVS Laws",
+  "published": "2025-05-30",
+  "why": "UPI at birth registration; universal birth and death registration",
+  "sub_indicator": "frombirth"
+ },
+ {
+  "url": "https://id4africa.com/2024/ps3/PS3-3-Tunisia-Final.pdf",
+  "title": "Tunisia",
+  "publisher": "ID4Africa",
+  "published": "2024",
+  "why": "IUC attributed at birth; Mobile ID since Aug 2022; governance",
+  "sub_indicator": "frombirth"
+ },
+ {
+  "url": "https://www.id4africa.com/2025/files/T1-P2-S1-0-TUNISIA-EN-final.pdf",
+  "title": "Data Sharing and Interoperability: Tunisia",
+  "publisher": "ID4Africa",
+  "published": "2025",
+  "why": "registries, unique ID number given at birth, interoperability",
+  "sub_indicator": "frombirth"
+ },
+ {
+  "url": "https://lake.jort.tn/journal-officiel/fr/2020/043.pdf",
+  "title": "Decret gouvernemental n 2020-312 (identifiant unique citoyen)",
+  "publisher": "JORT",
+  "published": "2020",
+  "why": "content of IUC and register; bodies authorised to access (art 17)",
+  "sub_indicator": "frombirth"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/149991601962913423/pdf/Diagnostic-of-ID-Systems-in-Tunisia.pdf",
+  "title": "Diagnostic of ID Systems in Tunisia (ID4D)",
+  "publisher": "World Bank",
+  "published": "2020",
+  "why": "birth registration 99%; RIUC pilot; registers and operators",
+  "sub_indicator": "frombirth"
+ }
+]

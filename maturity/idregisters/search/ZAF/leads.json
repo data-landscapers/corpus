@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.gov.za/news/media-statements/home-affairs-builds-digital-verification-platform-national-treasury-combat",
+  "title": "Home Affairs builds digital verification platform for National Treasury to combat ghost workers",
+  "publisher": "South African Government",
+  "published": "2026-05-26",
+  "sub_indicator": "registers",
+  "why": "Q2/Q4: payroll verified against population register"
+ },
+ {
+  "url": "https://pmg.org.za/committee-question/34202/",
+  "title": "Question to the Minister of Home Affairs - NW6521",
+  "publisher": "Parliamentary Monitoring Group",
+  "published": "2025-11-20",
+  "sub_indicator": "registers",
+  "why": "Q4: payroll verification against NPR, ghost workers"
+ },
+ {
+  "url": "https://www.itweb.co.za/article/national-treasury-deploys-tech-to-terminate-ghost-workers/GxwQDM1DWXR7lPVo",
+  "title": "National Treasury deploys tech to terminate ghost workers",
+  "publisher": "ITWeb",
+  "published": "2025-09-19",
+  "sub_indicator": "registers",
+  "why": "Q2/Q4: PERSAL ID numbers cross-checked with SARS and DHA"
+ },
+ {
+  "url": "https://pmg.org.za/committee-question/40687/",
+  "title": "Question NW4926 to the Minister of Home Affairs",
+  "publisher": "Parliamentary Monitoring Group",
+  "published": "2026-09-16",
+  "sub_indicator": "registers",
+  "why": "Q2: IEC voter registration verified against NPR"
+ },
+ {
+  "url": "https://www.gov.za/sites/default/files/gcis_document/202505/south-africas-roadmap-digital-transformation-government.pdf",
+  "title": "South Africa's Roadmap for the Digital Transformation of Government",
+  "publisher": "Government of South Africa",
+  "published": "2025",
+  "sub_indicator": "registers",
+  "why": "Q1: single unique ID number, linking services"
+ },
+ {
+  "url": "https://pmg.org.za/committee-question/36619/",
+  "title": "Question to the Minister of Social Development - NW1251",
+  "publisher": "Parliamentary Monitoring Group",
+  "published": "2026-03-27",
+  "sub_indicator": "registers",
+  "why": "Q2: SASSA interfaces with NPR, PERSAL, SARS"
+ },
+ {
+  "url": "https://www.gov.za/news/media-statements/home-affairs-launch-world-class-new-identity-verification-service-and-cost",
+  "title": "Home Affairs on launch of new identity verification service",
+  "publisher": "South African Government",
+  "published": "2025-07-06",
+  "sub_indicator": "registers",
+  "why": "Q2: SASSA, SAPS, DOJ onboarded to verification against NPR"
+ },
+ {
+  "url": "https://www.gov.za/news/speeches/deputy-minister-david-masondo-national-treasury-dept-budget-vote-202627-22-may-2026",
+  "title": "Deputy Minister David Masondo: National Treasury Budget Vote 2026/27",
+  "publisher": "South African Government",
+  "published": "2026-05-22",
+  "sub_indicator": "registers",
+  "why": "Q1/Q2: ghost worker audit, online verification platform, MzansiXchange"
+ }
+]

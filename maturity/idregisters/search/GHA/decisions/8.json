@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register",
+ "fact": "The GNHR privacy policy, last updated July 2026, says the registry collects each household member's NIA Ghana Card number and links its data with NIA, NHIA and GES databases.",
+ "title": "Privacy & Cookie Policy",
+ "publisher": "Ghana National Household Registry",
+ "published": "2026-07",
+ "date_source": "source",
+ "why_not": ""
+}

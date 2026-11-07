@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://greaterinternetfreedom.org/wp-content/uploads/2023/08/Biometrics-and-Digital-ID-in-Zimbabwe_FINAL-APPROVED-30.06.2023.pdf",
+  "title": "Country Report: Biometrics and Digital Identity in Zimbabwe",
+  "publisher": "Greater Internet Freedom",
+  "published": "2023",
+  "sub_indicator": "registers",
+  "why": "Q2/Q4: BVR voter roll, civil servant payroll matched, 10,000 ghost workers"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202012/biometric-verification-reveals-10k-ghost-workers-on-zimbabwe-public-payroll",
+  "title": "Biometric verification reveals 10K ghost workers on Zimbabwe public payroll",
+  "publisher": "Biometric Update",
+  "published": "2020-12-23",
+  "sub_indicator": "registers",
+  "why": "Q4: payroll matched against Registrar records"
+ },
+ {
+  "url": "https://www.newzimbabwe.com/govt-dumps-10-000-ghost-workers/",
+  "title": "Govt Dumps 10 000 Ghost Workers",
+  "publisher": "NewZimbabwe.com",
+  "published": "2020-12-21",
+  "sub_indicator": "registers",
+  "why": "Q4: 10,000 non-compliant removed after check against Registrar's Office"
+ },
+ {
+  "url": "https://www.zimra.co.zw/public-notices?download=3448%3Apublic-notice-62-of-2023&start=240",
+  "title": "Urgent Update of Master Data with Public Officer Details in Preparation for Registration in TaRMS",
+  "publisher": "ZIMRA",
+  "published": "2023",
+  "sub_indicator": "registers",
+  "why": "Q2: tax register collects ID number"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099030926024025866/txt/P514401-e5a07636-f85a-4936-8383-b57dbd46cf7c.txt",
+  "title": "Zimbabwe Social Registry Support Project (P514401) Project Information Document",
+  "publisher": "World Bank",
+  "published": "2026-02-17",
+  "sub_indicator": "registers",
+  "why": "Q1: social registry integration with civil registry systems"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202507/zimbabwe-looks-forward-to-digital-id-rollout-after-population-registry-reform",
+  "title": "Zimbabwe looks forward to digital ID rollout after population registry reform",
+  "publisher": "Biometric Update",
+  "published": "2025-07-15",
+  "sub_indicator": "registers",
+  "why": "Q1: registry linked to other services"
+ },
+ {
+  "url": "https://thezimbabwemail.com/our-insights/rebuilding-zimbabwes-credit-economy-why-a-trusted-national-digital-identity-system-is-critical-for-financial-inclusion-lending-and-economic-recovery/",
+  "title": "Rebuilding Zimbabwe's Credit Economy: Why a Trusted National Digital Identity System Is Critical",
+  "publisher": "The Zimbabwe Mail",
+  "published": "2026-07-20",
+  "sub_indicator": "registers",
+  "why": "Q3: public datasets and identity"
+ },
+ {
+  "url": "https://www.zesn.org.zw/wp-content/uploads/2019/01/Final-Voters-Roll-Audit-2018.pdf",
+  "title": "Voters Roll Audit 2018",
+  "publisher": "ZESN",
+  "published": "2019",
+  "sub_indicator": "registers",
+  "why": "Q2: voters roll carries national ID number"
+ }
+]

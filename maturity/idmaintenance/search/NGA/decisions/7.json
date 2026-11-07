@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "operation",
+ "fact": "NIMC renewed its Idemia contract on 28 February 2024 for three years, covering the biometric system upgrade plus maintenance and support services.",
+ "title": "Idemia upgrading Nigeria's national biometric system to handle 250M IDs",
+ "publisher": "Biometric Update",
+ "published": "2024-04-10",
+ "date_source": "source",
+ "why_not": ""
+}

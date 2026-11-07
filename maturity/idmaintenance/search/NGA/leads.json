@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202611/nigeria-seeks-digital-id-project-extension-to-roll-out-mosip-based-infrastructure",
+  "title": "Nigeria seeks digital ID project extension to roll out MOSIP-based infrastructure",
+  "publisher": "Biometric Update",
+  "published": "2026-11-05",
+  "sub_indicator": "maintenance",
+  "why": "Q4: NIMS 2.0 on MOSIP, contract signed 15 Sept 2026, operational Dec 2027"
+ },
+ {
+  "url": "https://guardian.ng/business-services/nimc-onboards-63-biometric-agents-reaffirms-local-hosting-of-national-database/",
+  "title": "NIMC onboards 63 biometric agents, reaffirms local hosting of national database",
+  "publisher": "The Guardian Nigeria",
+  "published": "2026-10-16",
+  "sub_indicator": "maintenance",
+  "why": "Q2/Q3: database hosted in Nigeria and managed by NIMC employees"
+ },
+ {
+  "url": "https://rjbworld.org/news/nigerias-identity-agency-says-its-database-is-locally-hosted-and-managed-by-staff-a8da7077",
+  "title": "Nigeria's identity agency says its database is locally hosted and managed by staff",
+  "publisher": "RJB World",
+  "published": "2026-10-14",
+  "sub_indicator": "maintenance",
+  "why": "Q2/Q3: NIMC says its own employees manage the core database"
+ },
+ {
+  "url": "https://techcabal.com/2025/12/10/inside-nigerias-83m-bet-on-mosip-for-its-national-id/",
+  "title": "Inside Nigeria's $83m bet on MOSIP for its national ID",
+  "publisher": "TechCabal",
+  "published": "2025-12-10",
+  "sub_indicator": "maintenance",
+  "why": "Q4/Q1: migration to MOSIP, capacity concerns on vendors"
+ },
+ {
+  "url": "https://www.vanguardngr.com/2026/05/id4africa-fg-targets-cheaper-digital-identity-system-with-local-solution-nimc-dg/",
+  "title": "ID4AFRICA: FG targets cheaper digital identity system with local solution - NIMC DG",
+  "publisher": "Vanguard News",
+  "published": "2026-05-12",
+  "sub_indicator": "maintenance",
+  "why": "Q4: move from vendor lock-in to open-source NIMC 2.0; local card chips"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202605/building-digital-id-systems-that-last-african-countries-share-experiences-as-id4africa-2026-opens",
+  "title": "Building digital ID systems that last: African countries share experiences as ID4Africa 2026 opens",
+  "publisher": "Biometric Update",
+  "published": "2026-05-12",
+  "sub_indicator": "maintenance",
+  "why": "Q4: Nigeria migrating its identity database to MOSIP-based system"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202404/idemia-upgrading-nigerias-national-biometric-system-to-handle-250m-ids",
+  "title": "Idemia upgrading Nigeria's national biometric system to handle 250M IDs",
+  "publisher": "Biometric Update",
+  "published": "2024-04-10",
+  "sub_indicator": "maintenance",
+  "why": "Q1: Idemia contract renewed incl. maintenance and support, 3 years"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099102226140523752/pdf/P167183-245b44ff-e5dd-4eae-81a3-059c57e029c3.pdf",
+  "title": "Nigeria Digital Identification for Development Project restructuring paper",
+  "publisher": "World Bank",
+  "published": "",
+  "sub_indicator": "maintenance",
+  "why": "Q4: NIMS 2.0 replaces proprietary components with MOSIP"
+ }
+]

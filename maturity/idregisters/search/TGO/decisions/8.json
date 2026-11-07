@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "registers",
+ "aspect": "",
+ "fact": "",
+ "title": "Registre Social des Personnes et des Ménages (RSPM)",
+ "publisher": "Agence Nationale d'Identification",
+ "published": "",
+ "date_source": "source",
+ "why_not": "headline-only-stub: undated description of the RSPM, no dated fact on use of the NIU"
+}

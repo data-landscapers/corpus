@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://edge.ug/nira-rolls-out-free-birth-certificates-and-nins-for-newborns/",
+  "title": "NIRA rolls out free birth certificates and NINs for newborns",
+  "publisher": "edge.ug",
+  "published": "2026-06-06",
+  "sub_indicator": "frombirth",
+  "why": "Q2/Q3: NIN issued to newborns, fees waived"
+ },
+ {
+  "url": "https://budget.finance.go.ug/sites/default/files/Sector%20Spending%20Agency%20Budgets%20and%20Performance/National%20Identification%20and%20Registration%20Authority_17.pdf",
+  "title": "NIRA vote performance report",
+  "publisher": "Ministry of Finance Uganda",
+  "published": "2026",
+  "sub_indicator": "frombirth",
+  "why": "Q2: births registered, registration assistants in 160 health facilities"
+ },
+ {
+  "url": "https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-uganda.pdf",
+  "title": "CRVS-National ID integration Uganda (EGMRG 2026)",
+  "publisher": "UNECA APAI-CRVS",
+  "published": "2026",
+  "sub_indicator": "frombirth",
+  "why": "Q2/Q3: NIN issued automatically at birth notification"
+ },
+ {
+  "url": "https://uniph.go.ug/wp-content/uploads/2026/04/Uganda-CRVS-quartely-report-January-March-2026-1.pdf",
+  "title": "Uganda CRVS quarterly report Jan-Mar 2026",
+  "publisher": "UNIPH",
+  "published": "2026",
+  "sub_indicator": "frombirth",
+  "why": "Q4: births and deaths registered in quarter"
+ },
+ {
+  "url": "https://www.technoforte.co.in/news/uganda-to-launch-national-id-and-civil-registry-overhaul-with-mosip-and-opencrvs-led-by-technoforte/",
+  "title": "Uganda to launch national ID and civil registry overhaul with MOSIP and OpenCRVS",
+  "publisher": "Technoforte",
+  "published": "2025-03-19",
+  "sub_indicator": "frombirth",
+  "why": "Q1: birth registration linked to instant ID creation"
+ },
+ {
+  "url": "https://apai-crvs.uneca.org/sites/default/files/resourceuploads/uganda-vital-statistics-report-2024.pdf",
+  "title": "Uganda Vital Statistics Report 2024",
+  "publisher": "UBOS/NIRA",
+  "published": "2024",
+  "sub_indicator": "frombirth",
+  "why": "Q4: birth and death registration completeness"
+ },
+ {
+  "url": "https://www.nira.go.ug/media/2022/11/BIRTH-REGISTRATION-HANDBOOK-Final.pdf",
+  "title": "Handbook on Birth Registration",
+  "publisher": "NIRA",
+  "published": "2022",
+  "sub_indicator": "frombirth",
+  "why": "Q2: birth recorded in National Identification Register"
+ },
+ {
+  "url": "https://id4africa.com/wp-content/uploads/2023/06/PS1-S3-5-Rosemary-Kisembo-NIRA-Uganda.pdf",
+  "title": "Uganda's approach to identity verification for service delivery",
+  "publisher": "NIRA / ID4Africa",
+  "published": "2023",
+  "sub_indicator": "frombirth",
+  "why": "Q4: under-one registration target"
+ }
+]

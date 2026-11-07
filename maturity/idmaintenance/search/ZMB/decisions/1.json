@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "operation",
+ "fact": "The Auditor General found that DEMALOG Identification Systems GmbH, contracted at K45,838,528 to upgrade INRIS from AFIS to ABIS, still had access to the live national registration database as at 31 August 2024 without an authorising agreement.",
+ "title": "German consultant still accesses govt national registration database - AG",
+ "publisher": "News Diggers",
+ "published": "2024-10-18",
+ "date_source": "source",
+ "why_not": ""
+}

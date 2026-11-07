@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.centreforchildlaw.co.za/dev/wp-content/uploads/2025/07/Centre-for-Child-Law-submissions-ACERWC-10.7.2025-final.pdf",
+  "title": "Centre for Child Law submissions on the Digitalization of Birth Registration in Africa",
+  "publisher": "Centre for Child Law",
+  "published": "2025-07",
+  "sub_indicator": "frombirth",
+  "why": "Q2/Q3: children of citizens get ID number at birth registration; online registration in health facilities"
+ },
+ {
+  "url": "https://pmg.org.za/committee-question/34868/",
+  "title": "Question to the Minister of Home Affairs - NW7076",
+  "publisher": "Parliamentary Monitoring Group",
+  "published": "2025-12-14",
+  "sub_indicator": "frombirth",
+  "why": "Q2/Q3: health-facility birth registration rollout, new Intelligent NPR"
+ },
+ {
+  "url": "https://www.statssa.gov.za/publications/P0305/P03052024.pdf",
+  "title": "Recorded live births 2024",
+  "publisher": "Statistics South Africa",
+  "published": "2025",
+  "sub_indicator": "frombirth",
+  "why": "Q4: completeness 90%, registration within 30 days 83.2%, NPR entry at registration"
+ },
+ {
+  "url": "https://www.sanews.gov.za/south-africa/home-affairs-records-highest-ever-smart-id-output",
+  "title": "Home Affairs records highest-ever Smart ID output",
+  "publisher": "SAnews",
+  "published": "2026-05-15",
+  "sub_indicator": "frombirth",
+  "why": "Q2: babies registered within 30 days, automation at health facilities planned 2026/27"
+ },
+ {
+  "url": "https://pmg.org.za/committee-question/25667/",
+  "title": "Question to the Minister of Home Affairs - NW72",
+  "publisher": "Parliamentary Monitoring Group",
+  "published": "2024-08-05",
+  "sub_indicator": "frombirth",
+  "why": "Q2: birth registration at health facilities"
+ },
+ {
+  "url": "https://www.dpsa.gov.za/flipbook/SDR_Vol_12_No_3_of_2019/files/basic-html/page32.html",
+  "title": "25 years of forging a common identity",
+  "publisher": "DPSA Service Delivery Review",
+  "published": "2019",
+  "sub_indicator": "frombirth",
+  "why": "Q3: birth registration links name and birth date to ID number on NPR"
+ },
+ {
+  "url": "https://idl-bnc-idrc.dspacedirect.org/server/api/core/bitstreams/68df4413-21db-4e0c-b1c2-3d23069455da/content",
+  "title": "Snapshot of civil registration and vital statistics systems of South Africa",
+  "publisher": "IDRC / Hosea Mitala",
+  "published": "",
+  "sub_indicator": "frombirth",
+  "why": "Q3: ID number issued at birth registration"
+ },
+ {
+  "url": "https://pmg.org.za/committee-question/31605/",
+  "title": "Question to the Minister of Home Affairs - NW4278",
+  "publisher": "Parliamentary Monitoring Group",
+  "published": "2025-07-29",
+  "sub_indicator": "frombirth",
+  "why": "Q2: automation of birth registration at health facilities, digital ID"
+ }
+]

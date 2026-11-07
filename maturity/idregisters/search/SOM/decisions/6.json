@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register",
+ "fact": "A 7 April 2025 government directive tied all public services to the NIRA national ID, with the ID mandatory for business services from 6 July 2025 and for driver's licences and vehicle registrations.",
+ "title": "4.3. Access to services",
+ "publisher": "European Union Agency for Asylum",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

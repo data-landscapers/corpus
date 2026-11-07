@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099053126171570627/pdf/P502463-0c06abde-be3d-4f83-b9e1-eca068e7bc1e.pdf",
+  "title": "ID4D Country Diagnostic: South Sudan",
+  "publisher": "World Bank",
+  "published": "2026",
+  "sub_indicator": "registers",
+  "why": "NIC for voting, TIN, payroll, social registry planned (Q1-3)"
+ },
+ {
+  "url": "https://www.sudanspost.com/south-sudan-begins-biometric-registration-to-curb-ghost-workers-exposing-gaps-in-digital-id-systems/",
+  "title": "South Sudan begins biometric registration to curb ghost workers",
+  "publisher": "Sudans Post",
+  "published": "2025-11-19",
+  "sub_indicator": "registers",
+  "why": "Payroll biometric registry, standalone (Q1,4)"
+ },
+ {
+  "url": "https://www.sudanspost.com/south-sudan-public-service-minister-tours-biometric-centres-as-payroll-cleanup-intensifies/",
+  "title": "South Sudan public service minister tours biometric centres as payroll cleanup intensifies",
+  "publisher": "Sudans Post",
+  "published": "2025-12-10",
+  "sub_indicator": "registers",
+  "why": "Payroll cleanup (Q4)"
+ },
+ {
+  "url": "https://www.onecitizendaily.com/index.php/2026/01/16/15m-biometric-drive-south-sudan-lays-foundations-for-digital-public-infrastructure-to-purge-ghost-workers/",
+  "title": "$15M Biometric Drive: South Sudan Lays Foundations for Digital Public Infrastructure to Purge Ghost Workers",
+  "publisher": "One Citizen Daily",
+  "published": "2026-01-16",
+  "sub_indicator": "registers",
+  "why": "Duplicates found by fingerprint (Q4)"
+ },
+ {
+  "url": "https://www.sudanspost.com/nec-turns-to-chiefs-to-verify-voters-without-national-ids/",
+  "title": "NEC turns to chiefs to verify voters without national IDs",
+  "publisher": "Sudans Post",
+  "published": "2026-10-12",
+  "sub_indicator": "registers",
+  "why": "Voter registration ID requirement (Q2)"
+ },
+ {
+  "url": "https://cms.nra.gov.ss/uploads/NRA_e_Tax_Training_Manual_V_001_Registration_eae52f383f.pdf",
+  "title": "NRA eTax - Training Manual V 001 - Registration",
+  "publisher": "National Revenue Authority",
+  "published": "",
+  "sub_indicator": "registers",
+  "why": "TIN registration requires personal number from ID (Q2)"
+ },
+ {
+  "url": "https://www.voanews.com/a/national-id-card-issue-hangs-over-planned-south-sudanese-elections/7568113.html",
+  "title": "National ID card issue hangs over planned South Sudanese elections",
+  "publisher": "VOA",
+  "published": "2024-04-12",
+  "sub_indicator": "registers",
+  "why": "ID or passport required to vote (Q2)"
+ },
+ {
+  "url": "https://www.radiotamazuj.org/en/news/article/biometric-payroll-drive-launched-in-juba-to-root-out-ghost-workers",
+  "title": "Biometric payroll drive launched in Juba to root out ghost workers",
+  "publisher": "Radio Tamazuj",
+  "published": "2025-11-18",
+  "sub_indicator": "registers",
+  "why": "Payroll headcount launched (Q1)"
+ }
+]

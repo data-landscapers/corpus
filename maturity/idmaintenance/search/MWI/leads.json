@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://malawi24.com/2026/09/26/nzika-wallet-controversy-who-holds-the-keys-to-malawis-multibillion-digital-identity/",
+  "title": "Nzika Wallet controversy! Who holds the keys to Malawi's multibillion digital identity?",
+  "publisher": "Malawi24",
+  "published": "2026-09-26",
+  "sub_indicator": "maintenance",
+  "why": "Q1-Q4: Laxton kits maintenance contract; source code owned by NRB"
+ },
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2026-01/malawi_nrb_strategic_plan_2025_web.pdf",
+  "title": "Strategic Plan 2025 - 2030",
+  "publisher": "National Registration Bureau (UNDP-hosted)",
+  "published": "2026",
+  "sub_indicator": "maintenance",
+  "why": "Q2-Q3: NRB staff run system; foreign printing reliance; staffing gaps"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202412/malawi-distributes-3m-national-id-cards-printed-in-country",
+  "title": "Malawi distributes 3M national ID cards printed in-country",
+  "publisher": "Biometric Update",
+  "published": "2024-12-18",
+  "sub_indicator": "maintenance",
+  "why": "Q2: NRB prints and distributes cards on own facilities"
+ },
+ {
+  "url": "https://www.undp.org/blog/journey-innovation-and-inclusivity-building-next-phase-malawis-digital-future",
+  "title": "A journey of innovation and inclusivity: Building the next phase of Malawi's digital future",
+  "publisher": "UNDP",
+  "published": "2024-09-20",
+  "sub_indicator": "maintenance",
+  "why": "Q1/Q3: transition to operations and maintenance; staff retention risk"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099100325093520180/pdf/P505095-a4c66f94-3385-4c95-b175-bfa83f2438df.pdf",
+  "title": "Official Use (World Bank ID mission aide-memoire, DMAP)",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "maintenance",
+  "why": "Q3: outdated infrastructure; capacity building needs for NRB staff"
+ },
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2026-01/undp_malawi_idt4m_quarterly_report_apr-jun24.pdf",
+  "title": "Quarterly Progress Report Apr-Jun 2024 (IDT4M)",
+  "publisher": "UNDP Malawi",
+  "published": "2024",
+  "sub_indicator": "maintenance",
+  "why": "Q3: system enhancements to NRIS software implemented"
+ },
+ {
+  "url": "https://api.pppc.mw/api/download/771",
+  "title": "The Digital Malawi Acceleration Project (ToR, NRB modernisation)",
+  "publisher": "Public Private Partnership Commission",
+  "published": "",
+  "sub_indicator": "maintenance",
+  "why": "Q1/Q3: capacity building toward long term operational ownership"
+ },
+ {
+  "url": "https://www.id4africa.com/2022/files/ID4Africa_LiveCast_Supplement_NRB.pdf",
+  "title": "ID4Africa LiveCast Supplement: NRB",
+  "publisher": "ID4Africa / NRB",
+  "published": "2022",
+  "sub_indicator": "maintenance",
+  "why": "Q2/Q3: NRB manages system; printers lack maintenance contract"
+ }
+]

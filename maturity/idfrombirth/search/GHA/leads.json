@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://theoverseeronline.com/infant-registration/",
+  "title": "NIA successfully tests registration system for children aged 0-5",
+  "publisher": "The Overseers",
+  "published": "2026-08-12",
+  "sub_indicator": "frombirth",
+  "why": "Q1/Q2: 0-5 Ghana PIN system suspended after 2024 launch, retested Aug 2026"
+ },
+ {
+  "url": "https://gna.org.gh/2026/05/nia-registers-over-32000-children-in-volta-oti-regions/",
+  "title": "NIA Registers Over 32,000 Children in Volta, Oti Regions",
+  "publisher": "Ghana News Agency",
+  "published": "2026-05-14",
+  "sub_indicator": "frombirth",
+  "why": "Q1/Q2: hospital births to get birth number and Ghana Card PIN from June 2026"
+ },
+ {
+  "url": "https://3news.com/news/birth-certificates-ghana-children-unicef",
+  "title": "Only 61% of Ghanaian children have birth certificates",
+  "publisher": "3News",
+  "published": "2026-11-06",
+  "sub_indicator": "frombirth",
+  "why": "Q4: births registered 73.4% of expected by end 2025"
+ },
+ {
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12614733/",
+  "title": "From Policy to Practice: Birth Registration in Ghana",
+  "publisher": "PubMed Central",
+  "published": "2025-11-04",
+  "sub_indicator": "frombirth",
+  "why": "Q2: Ghana Card at Birth system links newborns to NIA from birth"
+ },
+ {
+  "url": "https://gna.org.gh/2024/03/dr-bawumia-launches-ghana-card-number-at-birth-to-enhance-public-services/",
+  "title": "Dr Bawumia launches 'Ghana Card Number at Birth'",
+  "publisher": "Ghana News Agency",
+  "published": "2024-03-14",
+  "sub_indicator": "frombirth",
+  "why": "Q2/Q3: launch; number to every child born in facilities"
+ },
+ {
+  "url": "https://www.graphic.com.gh/news/general-news/ghana-news-ghana-card-at-birth-begins.html",
+  "title": "Ghana Card at birth begins",
+  "publisher": "Graphic Online",
+  "published": "2024-03-15",
+  "sub_indicator": "frombirth",
+  "why": "Q2: how number is generated at birth in health facilities"
+ },
+ {
+  "url": "https://www.myjoyonline.com/bawumia-launches-ghana-card-number-at-birth/",
+  "title": "Bawumia launches Ghana Card number at birth",
+  "publisher": "MyJoyOnline",
+  "published": "2024-03-14",
+  "sub_indicator": "frombirth",
+  "why": "Q1/Q2: launch and workflow"
+ },
+ {
+  "url": "https://www.graphic.com.gh/news/general-news/newborns-to-receive-ghana-card-nia-births-and-deaths-ghs-integrate-database.html",
+  "title": "Newborns to receive Ghana Card",
+  "publisher": "Graphic Online",
+  "published": "2023-07-24",
+  "sub_indicator": "frombirth",
+  "why": "Q1: pilot; first baby issued number July 2023"
+ }
+]

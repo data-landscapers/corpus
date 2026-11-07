@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "operation",
+ "fact": "The ID4Africa 2026 country playbook names ONECI the identification authority responsible for enrolment, production and management of identity, with the RNPP anchored as critical national infrastructure and progressively adopted by administrations.",
+ "title": "Country Playbook Côte d'Ivoire ID4Africa 2026-29",
+ "publisher": "ONECI / ID4Africa",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

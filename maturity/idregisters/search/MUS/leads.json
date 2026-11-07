@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.mra.mu/index.php/eservices1/financial-assistance/independence-allowance",
+  "title": "Independence Allowance",
+  "publisher": "Mauritius Revenue Authority",
+  "published": "2025",
+  "sub_indicator": "registers",
+  "why": "Q2: Social Register youth applications keyed by NIC number"
+ },
+ {
+  "url": "https://www.mra.mu/download/Com_ROE_TDSStmt.pdf",
+  "title": "Communique: Submission of Return of Employees / TDS Statement",
+  "publisher": "Mauritius Revenue Authority",
+  "published": "2026-08-11",
+  "sub_indicator": "registers",
+  "why": "Q2: tax returns keyed on NIC number"
+ },
+ {
+  "url": "https://www.mra.mu/download/IndividualeFilingGuide.pdf",
+  "title": "Individual e-Filing Guide",
+  "publisher": "Mauritius Revenue Authority",
+  "published": "2025",
+  "sub_indicator": "registers",
+  "why": "Q2: tax login by NID"
+ },
+ {
+  "url": "https://companies.govmu.org/cbrd/wp-content/uploads/2026/09/BusinessRegistrationAct2002-31-08-2026.pdf",
+  "title": "Business Registration Act 2002 (consolidated 31 Aug 2026)",
+  "publisher": "Corporate and Business Registration Department",
+  "published": "2026-08",
+  "sub_indicator": "registers",
+  "why": "Q2/Q3: business register application uses national identification number"
+ },
+ {
+  "url": "https://lawsofmauritius.govmu.org/portal/viewlegislationdocument/web/?docnumber=&doctitle=Q2l2aWwgU3RhdHVzIEFjdA%3D%3D&doctype=act",
+  "title": "Civil Status Act (Version 7)",
+  "publisher": "Laws of Mauritius",
+  "published": "2024",
+  "sub_indicator": "registers",
+  "why": "Q2: NIC number is unique ID used by public sector agencies"
+ },
+ {
+  "url": "https://www.lemauricien.com/le-mauricien/blueprint-transformation-digitale-2025-29-un-pari-audacieux-pour-transformer-les-services-publics/675693/",
+  "title": "BLUEPRINT: Transformation digitale 2025-29",
+  "publisher": "Le Mauricien",
+  "published": "2025-05-29",
+  "sub_indicator": "registers",
+  "why": "Q1: plan for data hub centralising citizen data"
+ },
+ {
+  "url": "https://defimedia.info/infrastructures-publiques-numeriques-maurice-veut-accelerer-la-mise-en-place-dune-identite-numerique",
+  "title": "Infrastructures publiques numériques : Maurice veut accélérer la mise en place d'une identité numérique",
+  "publisher": "Defimedia",
+  "published": "2026-11-05",
+  "sub_indicator": "registers",
+  "why": "Q1: DPI plan"
+ },
+ {
+  "url": "https://electoral.govmu.org/oec/?page_id=661",
+  "title": "Compilation of Register of Electors",
+  "publisher": "Office of the Electoral Commissioner",
+  "published": "",
+  "sub_indicator": "registers",
+  "why": "Q2: electoral register compiled with NIC"
+ }
+]

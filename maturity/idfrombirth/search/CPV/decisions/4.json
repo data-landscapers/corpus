@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "frombirth",
+ "aspect": "number;national",
+ "fact": "Decreto-Lei 24/2020 of 13 March 2020 amends the CNI law so that the national identity card is obligatory from birth registration, including for Cabo Verdeans abroad, so the whole population enters the SNIAC database from birth.",
+ "title": "Decreto-Lei n.º 24/2020, de 13 de março",
+ "publisher": "Boletim Oficial da República de Cabo Verde",
+ "published": "2020-03-13",
+ "date_source": "source",
+ "why_not": ""
+}

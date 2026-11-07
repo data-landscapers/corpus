@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://ecomatin.net/republique-centrafricaine-pres-de-2500-fonctionnaires-et-agents-fictifs-de-letat-demasques-en-2023",
+  "title": "République centrafricaine : près de 2500 fonctionnaires et agents fictifs de l'Etat démasqués en 2023",
+  "publisher": "Ecomatin",
+  "published": "2024-07-09",
+  "sub_indicator": "registers",
+  "why": "Q2/Q4: payroll file uses national ID number; 2,548 ghost workers found"
+ },
+ {
+  "url": "https://www.dw.com/fr/chasse-aux-fonctionnaires-fraudeurs-centrafrique/a-62559149",
+  "title": "En Centrafrique, la chasse à la fraude dans l'administration",
+  "publisher": "DW",
+  "published": "2022-07-21",
+  "sub_indicator": "registers",
+  "why": "Q2: civil servant check against ID card"
+ },
+ {
+  "url": "http://news.abangui.com/h/80287.html",
+  "title": "Bientôt une nouvelle opération de contrôle physique des fonctionnaires et agents de l'Etat",
+  "publisher": "abangui.com",
+  "published": "2022-06-25",
+  "sub_indicator": "registers",
+  "why": "Q1/Q2: payroll check based on national ID card"
+ },
+ {
+  "url": "https://www.radiondekeluka.org/39112-centrafrique-mise-en-place-d-un-comite-charge-de-la-correction-des-anomalies-sur-le-fichier-de-paie-de-l-etat",
+  "title": "Centrafrique : mise en place d'un comité chargé de la correction des anomalies sur le fichier de paie de l'Etat",
+  "publisher": "Radio Ndeke Luka",
+  "published": "2022-08-20",
+  "sub_indicator": "registers",
+  "why": "Q4: duplicates in payroll, 670 million FCFA"
+ },
+ {
+  "url": "https://www.agenceecofin.com/actualites-numerique/2503-126985-la-centrafrique-lance-officiellement-e-tax-sa-plateforme-de-paiement-d-impots-en-ligne",
+  "title": "La Centrafrique lance officiellement e-Tax, sa plateforme de paiement d'impôts en ligne",
+  "publisher": "Agence Ecofin",
+  "published": "",
+  "sub_indicator": "registers",
+  "why": "Q2: tax register NIU and cross-check"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202410/central-african-republic-in-full-biometric-voter-registration-preparations",
+  "title": "Central African Republic in full biometric voter registration preparations",
+  "publisher": "Biometric Update",
+  "published": "2024-10-08",
+  "sub_indicator": "registers",
+  "why": "Q2: ID card accepted for voter registration"
+ },
+ {
+  "url": "https://ambition-journal.org/en/business/national-digital-identity-system-modernizing-administration",
+  "title": "National Digital Identity System: Modernizing Administration",
+  "publisher": "Ambition Journal",
+  "published": "2025-11-28",
+  "sub_indicator": "registers",
+  "why": "Q1: NUI to unify registers"
+ }
+]

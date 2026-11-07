@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "frombirth",
+ "aspect": "number",
+ "fact": "Government Decree 2020-312 of 15 May 2020 sets the 11-digit unique citizen identifier and its register for people entered in civil status registers, and requires civil registrars to update the register within seven days of entering a birth act.",
+ "title": "Décret gouvernemental n° 2020-312 du 15 mai 2020, fixant le contenu et les spécifications techniques de l'identifiant unique citoyen et les règles régissant la tenue et la gestion de son Registre",
+ "publisher": "Journal Officiel de la République Tunisienne (traduction française pour information)",
+ "published": "2020-05-15",
+ "date_source": "source",
+ "why_not": ""
+}

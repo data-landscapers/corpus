@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register",
+ "fact": "As at January 2021 each of Eritrea's six zoba digital population registers keys its entries on a resident number, with the ID number held only as a field, and the Department of Immigration and Nationality has no access to them.",
+ "title": "Focus Eritrea: Identity and civil status documents",
+ "publisher": "State Secretariat for Migration (SEM), Switzerland",
+ "published": "2021-01-21",
+ "date_source": "source",
+ "why_not": ""
+}

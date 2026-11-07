@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "maintenance",
+ "aspect": "operation;maintenance",
+ "fact": "ANIP's Direction des systèmes d'information advertised in November 2024 for two system administrators to operate, maintain and secure the national identification system infrastructure, with level 2 and 3 support.",
+ "title": "RECRUTEMENT - SPECIALISTE ADMINISTRATEUR SYSTEME (x2)",
+ "publisher": "Agence Nationale d'Identification des Personnes",
+ "published": "2024-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

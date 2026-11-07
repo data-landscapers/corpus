@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "frombirth",
+ "aspect": "number",
+ "fact": "In 2024 Mauritania's national register (which issues the NNI) enrolled 63,319 citizens aged 0-1, and 5,538 deaths were registered.",
+ "title": "الدليل السنوي للإحصاءات الديموغرافية والاجتماعية 2025 (Annuaire des Statistiques Sociodémographiques)",
+ "publisher": "ANSADE",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

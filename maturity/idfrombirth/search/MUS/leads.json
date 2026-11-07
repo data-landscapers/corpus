@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://csd.govmu.org/DocumentsList/FINALISED%20ANNUAL%20REPORT%20CSD.pdf",
+  "title": "Civil Status Division annual report",
+  "publisher": "Civil Status Division",
+  "published": "2024",
+  "sub_indicator": "frombirth",
+  "why": "Q2/Q3: CSD system generates a unique ID number (NIN) at birth registration"
+ },
+ {
+  "url": "https://lawsofmauritius.govmu.org/portal/viewlegislationdocument/web/?docnumber=&doctitle=Q2l2aWwgU3RhdHVzIEFjdA%3D%3D&doctype=act",
+  "title": "Civil Status Act (Version 7)",
+  "publisher": "Laws of Mauritius",
+  "published": "2024",
+  "sub_indicator": "frombirth",
+  "why": "Q3: Act 17A NIC number of minor as unique ID; CSD database"
+ },
+ {
+  "url": "https://www.id4africa.com/2019_event/presentations/InF5/3-William-Ayelou-Mauritius.pdf",
+  "title": "Mauritius (ID4Africa 2019 presentation)",
+  "publisher": "Civil Status Division / ID4Africa",
+  "published": "2019",
+  "sub_indicator": "frombirth",
+  "why": "Q3: NIN computer generated on each birth registered"
+ },
+ {
+  "url": "https://csd.govmu.org/Pages/About%20Us/Mission%20and%20Vision.aspx",
+  "title": "Mission and Vision",
+  "publisher": "Civil Status Division",
+  "published": "",
+  "sub_indicator": "frombirth",
+  "why": "Q3: mission to generate unique ID at birth registration"
+ },
+ {
+  "url": "https://prb.govmu.org/prb/wp-content/uploads/2024/03/cs_csd.pdf",
+  "title": "PRB report: Civil Status Division",
+  "publisher": "Pay Research Bureau",
+  "published": "2024-03",
+  "sub_indicator": "frombirth",
+  "why": "Q3: CSD maintains database generating unique ID at birth registration"
+ },
+ {
+  "url": "https://statsmauritius.govmu.org/Documents/Statistics/ESI/2024/EI1773/Pop_Vital_Yr23_110324.pdf",
+  "title": "Social Indicators: Population and Vital Statistics 2023",
+  "publisher": "Statistics Mauritius",
+  "published": "2024-03",
+  "sub_indicator": "frombirth",
+  "why": "Q4: births and deaths registered 2023"
+ },
+ {
+  "url": "https://unstats.un.org/unsd/demographic-social/products/dyb/documents/metadata/2025/Mauritius-2025-VT-Metadata.pdf",
+  "title": "Quality of vital statistics obtained from civil registration - Mauritius",
+  "publisher": "UN Statistics Division",
+  "published": "2025",
+  "sub_indicator": "frombirth",
+  "why": "Q4: birth registration completeness 100%"
+ },
+ {
+  "url": "https://apai-crvs.uneca.org/sites/default/files/resourcefiles/Country%20Report%20-%20Mauritius_Eng_0.pdf",
+  "title": "Report on civil registration and vital statistics - Mauritius",
+  "publisher": "UNECA APAI-CRVS",
+  "published": "",
+  "sub_indicator": "frombirth",
+  "why": "Q3: unique ID assigned automatically at birth registration"
+ }
+]

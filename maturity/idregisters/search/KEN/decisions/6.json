@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "registers",
+ "aspect": "register",
+ "fact": "Kenya's Companies (Beneficial Ownership Information) (Amendment) Regulations, 2023 require the beneficial-owner register lodged with the Registrar of Companies to record each owner's birth certificate, national identity card or passport number.",
+ "title": "Companies (Beneficial Ownership Information) (Amendment) Regulations, 2023",
+ "publisher": "Business Registration Service",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://theissue.com.na/namibia-wallows-in-digital-sovereignty-illusion/",
+  "title": "Namibia wallows in digital sovereignty illusion",
+  "publisher": "The Issue",
+  "published": "2026-04-14",
+  "sub_indicator": "maintenance",
+  "why": "Q1/Q2: supplier CSS-CA role in home affairs systems vs ministry says operational control"
+ },
+ {
+  "url": "https://technews.com.na/2026/06/18/namibia-targets-local-tech-firms-for-national-digital-id-platform/",
+  "title": "Namibia targets local tech firms for national digital ID",
+  "publisher": "TechNews Namibia",
+  "published": "2026-06-18",
+  "sub_indicator": "maintenance",
+  "why": "Q1: local providers to be sourced by open tender for e-ID systems"
+ },
+ {
+  "url": "https://informante.web.na/?p=398234",
+  "title": "Government to roll out electronic IDs in September to drive digital services",
+  "publisher": "Informanté",
+  "published": "2026-07-25",
+  "sub_indicator": "maintenance",
+  "why": "Q2: OPM manages key components of population register on which e-ID is built"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202610/namibia-mps-press-government-on-security-access-and-reach-of-planned-digital-id",
+  "title": "Namibia MPs press government on security, access and reach of planned digital ID",
+  "publisher": "Biometric Update",
+  "published": "2026-10-08",
+  "sub_indicator": "maintenance",
+  "why": "Q4: MPs asked about ownership; OPM architecture"
+ },
+ {
+  "url": "https://www.undp.org/namibia/blog/season-3-namibias-digital-identity-journey-vision-reality",
+  "title": "Season 3: Namibia's Digital Identity Journey - From Vision to Reality",
+  "publisher": "UNDP Namibia",
+  "published": "2025-09-03",
+  "sub_indicator": "maintenance",
+  "why": "Q2/Q3: ministry built its own population register with OPM support; needs more technical expertise"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202305/botswana-and-namibia-select-veridos-technology-for-cross-border-digital-id",
+  "title": "Botswana and Namibia select Veridos technology for cross-border digital ID",
+  "publisher": "Biometric Update",
+  "published": "2023-05-24",
+  "sub_indicator": "maintenance",
+  "why": "Q1: Veridos supplier role"
+ },
+ {
+  "url": "https://mhaiss.gov.na/documents/292728/537582/HAI+Annual+Report+2019-2020+web-+23+November+2023-1.pdf/36f0e050-9a59-a5db-7c2a-13373d1502a2?download=true&t=1701160032086",
+  "title": "Annual Report 2019/2020",
+  "publisher": "Ministry of Home Affairs, Immigration, Safety and Security",
+  "published": "",
+  "sub_indicator": "maintenance",
+  "why": "Q3: IT Division maintains NPRS and other systems; lack of internal IT skills"
+ },
+ {
+  "url": "https://crvssystems.ca/sites/default/files/assets/files/CRVS_Namibia_e_WEB.pdf",
+  "title": "Case Study 4 - Namibia",
+  "publisher": "Centre of Excellence for CRVS Systems",
+  "published": "",
+  "sub_indicator": "maintenance",
+  "why": "Q4: NPRS locally built by OPM with internal resources"
+ }
+]

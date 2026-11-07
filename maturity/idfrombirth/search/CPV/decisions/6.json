@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "frombirth",
+ "aspect": "complete",
+ "fact": "INE reports 6,760 live births registered for 2023, an estimated registration coverage of 77.6% against demographic projections, with late registration still a main challenge.",
+ "title": "Estatísticas Vitais: Nascimentos, Óbitos e Casamentos - 2023",
+ "publisher": "Instituto Nacional de Estatística (INE) Cabo Verde",
+ "published": "2025-09",
+ "date_source": "source",
+ "why_not": ""
+}

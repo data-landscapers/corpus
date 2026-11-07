@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://lesahel.org/etat-civil-et-identification-des-personnes-agadez-accueille-la-quatrieme-etape-de-la-tournee-nationale-de-sensibilisation-sur-les-reformes/",
+  "title": "État civil et identification des personnes : Agadez accueille la quatrième étape de la tournée nationale de sensibilisation sur les réformes",
+  "publisher": "Le Sahel",
+  "published": "2026-09-01",
+  "sub_indicator": "registers",
+  "why": "RNP to be interoperable with registers, one number for all services (Q1)"
+ },
+ {
+  "url": "https://www.wearetech.africa/en/fils-uk/news/tech/niger-accelerates-civil-service-digitalization-with-integrated-hr-and-payroll-system",
+  "title": "Niger Accelerates Civil Service Digitalization With Integrated HR and Payroll System",
+  "publisher": "We are Tech",
+  "published": "2026-07-31",
+  "sub_indicator": "registers",
+  "why": "SIGRHEP payroll biometric database (Q2,Q4)"
+ },
+ {
+  "url": "https://nigerinter.com/2026/04/23/communique-du-conseil-des-ministres-du-mercredi-22-avril-2026/",
+  "title": "COMMUNIQUÉ DU CONSEIL DES MINISTRES DU MERCREDI 22 AVRIL 2026",
+  "publisher": "Nigerinter",
+  "published": "2026-04-23",
+  "sub_indicator": "registers",
+  "why": "interoperability gaps between registers (Q1)"
+ },
+ {
+  "url": "https://anp.ne/lancement-officiel-a-dosso-de-la-tournee-nationale-de-sensibilisation-sur-letat-civil-une-mobilisation-nationale-pour-lidentification-des-personnes/",
+  "title": "Lancement officiel à Dosso de la tournée nationale de sensibilisation sur l'état civil",
+  "publisher": "Agence Nigérienne de Presse",
+  "published": "2026-08-14",
+  "sub_indicator": "registers",
+  "why": "RNP interoperable with civil status, card systems (Q1)"
+ },
+ {
+  "url": "https://anp.ne/niger-le-fichier-biometrique-electoral-une-garantie-pour-des-elections-securisees-et-fiables-selon-la-ceni-par-mahamane-sabo-bachir/",
+  "title": "Niger : le fichier biométrique électoral une garantie pour des élections sécurisées et fiables, selon la CENI",
+  "publisher": "Agence Nigérienne de Presse",
+  "published": "2024-01-03",
+  "sub_indicator": "registers",
+  "why": "electoral register is its own biometric file (Q2)"
+ },
+ {
+  "url": "https://www.lesahel.org/atelier-du-projet-wuri-niger-le-projet-restitue-les-travaux-denregistrement-de-3000-personnes-dans-les-communes-de-tagazar-dogondoutchi-mayahi-et-tanout/",
+  "title": "Atelier du projet WURI Niger : le projet restitue les travaux d'enregistrement de 3000 personnes",
+  "publisher": "Le Sahel",
+  "published": "2024-11-05",
+  "sub_indicator": "registers",
+  "why": "list of registers to build on the system (Q1,Q3)"
+ },
+ {
+  "url": "https://www.lesahel.org/interview-du-coordonnateur-national-du-projet-wuri-niger/",
+  "title": "Interview du Coordonnateur National du Projet WURI-Niger",
+  "publisher": "Le Sahel",
+  "published": "2024-09-17",
+  "sub_indicator": "registers",
+  "why": "unique number to facilitate sectoral registers (Q1,Q3)"
+ },
+ {
+  "url": "https://anp.ne/niger-64-727-agents-dont-6-164-en-situation-irreguliere-lors-du-recensement-biometrique-des-agents-de-letat/",
+  "title": "Niger : 64.727 Agents dont 6.164 en situation irrégulière, lors du recensement biométrique des Agents de l'Etat",
+  "publisher": "Agence Nigérienne de Presse",
+  "published": "2022-07-14",
+  "sub_indicator": "registers",
+  "why": "biometric census audit against payroll (Q4)"
+ }
+]
