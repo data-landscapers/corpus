@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-30-zwe-i-m-impressed-says-president-commissions-buse-industrial-park-technolo",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "plant",
+   "value": "production",
+   "fact": "The Herald reports President Mnangagwa commissioned the PALPO Technologies Production Plant at Bindura University, which assembles laptops, tablets and cellphones, with a full capacity of 12,000 laptops and tablets and 3,000 phones.",
+   "as_of": "2025-10-29",
+   "date_precision": "day",
+   "system": "PALPO Technologies Production Plant",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PALPO Technologies Production Plant",
+   "country_label": "Zimbabwe",
+   "class": "ictproduction",
+   "platform": "",
+   "owner": "Bindura University of Science Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

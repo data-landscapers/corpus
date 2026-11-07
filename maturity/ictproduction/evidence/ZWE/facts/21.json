@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-16-zwe-avantis-unveils-parote-1030i-laptop",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "plant",
+   "value": "production",
+   "fact": "Avantis Technology operates a factory in Msasa, Harare, that manufactures and assembles laptops and notebooks; its CEO says about 25,000 of a 60,000 target for 2026 were built by 14 May 2026.",
+   "as_of": "2026-05-14",
+   "date_precision": "day",
+   "system": "Avantis Technology Msasa factory",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

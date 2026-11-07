@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-26-tza-arusha-electronics-firm-to-boost-local-tech-industry",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "plant",
+   "value": "production",
+   "fact": "Daily News reports Arusha-based TanzTech Electronics, producing since 2023, assembles smartphones, tablets, laptops and projectors, with monthly capacity of 40,000 smartphones.",
+   "as_of": "2025-02-26",
+   "date_precision": "day",
+   "system": "TanzTech Electronics",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TanzTech Electronics",
+   "country_label": "TanzTech Electronics",
+   "class": "ictproduction",
+   "platform": "",
+   "owner": "TanzTech Electronics",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-06-ken-m-kopa-spurs-local-smartphone-assembly-and-job-creation-in-kenya",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "plant",
+   "value": "production",
+   "fact": "M-KOPA says its Nairobi smartphone assembly factory, launched with HMD in January 2023, had produced over 1.5 million locally assembled phones, including the 1 millionth in June 2024, and employed over 325 people.",
+   "as_of": "2024-11-06",
+   "date_precision": "day",
+   "system": "M-KOPA Nairobi smartphone assembly factory",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

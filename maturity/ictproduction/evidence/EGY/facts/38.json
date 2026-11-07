@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-egy-electronics-and-engineering-products",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "plant",
+   "value": "production",
+   "fact": "Egypt's Ministry of Communications and Information Technology says 10 million mobile phones were produced in 2025 with about 40% local value added, at plants including Samsung, Xiaomi and Oppo, per AmCham Egypt.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "mobile phone assembly plants (Samsung, Xiaomi, Oppo, SICO)",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

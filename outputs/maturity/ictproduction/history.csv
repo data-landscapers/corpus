@@ -1,2 +1,3 @@
 date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-06,MAR,tech.industry--national-capacity-in-dt-related-production,review,4,5,MAR-005;MAR-006,"Rebuild: MAR-006 (STMicroelectronics chip assembly and test plant near Casablanca, 2026-10-04) was held back at the 2026-09-30 as-at; read now beside the 2025 figure of 1.5377 per cent it sets stage 5."
+2026-11-07,EGY,tech.industry--national-capacity-in-dt-related-production,fact,4,5,EGY-005;EGY-006,"The ICT ministry says 10 million mobile phones were made in Egypt in 2025 at Samsung, Xiaomi and Oppo plants; with exports at 0.5644 per cent of GDP, stage 5."

@@ -1,6 +1,6 @@
 # National capacity in DT-related production: ICT exports and production
 
-*As at 2026-09-30.*
+*As at 2026-11-07.*
 
 ## The norm
 
@@ -20,8 +20,8 @@ The Digital Transformation Strategy's digital industry pillar asks for ICT assem
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
-| 4 Operating | 9 |
+| 5 Leading | 3 |
+| 4 Operating | 8 |
 | 3 Established | 8 |
 | 2 Nascent | 13 |
 | 1 Absent | 11 |
@@ -29,6 +29,13 @@ The Digital Transformation Strategy's digital industry pillar asks for ICT assem
 | No evidence | 6 |
 
 ## Countries
+
+### Egypt: 5 Leading
+
+ICT service exports were 0.5644 per cent of GDP in 2025, and 10 million mobile phones were made in the country that year.
+
+- ICT service exports from Egypt were 0.5644 per cent of GDP in 2025, by the World Bank's series ([source, 2025](https://data.worldbank.org/indicator/BX.GSR.CCIS.CD)).
+- Egypt's Ministry of Communications and Information Technology says 10 million mobile phones were produced in 2025 with about 40% local value added, at plants including Samsung, Xiaomi and Oppo, per AmCham Egypt ([source, 2025](https://www.amcham.org.eg/publications/business-studies/egypt-beyond-borders/121)).
 
 ### Kenya: 5 Leading
 
@@ -55,12 +62,6 @@ ICT service exports were 0.9279 per cent of GDP in 2023, by the World Bank's ser
 ICT service exports were 1.9392 per cent of GDP in 2024, by the World Bank's series.
 
 - ICT service exports from Djibouti were 1.9392 per cent of GDP in 2024, by the World Bank's series ([source, 2024](https://data.worldbank.org/indicator/BX.GSR.CCIS.CD)).
-
-### Egypt: 4 Operating
-
-ICT service exports were 0.5644 per cent of GDP in 2025, by the World Bank's series.
-
-- ICT service exports from Egypt were 0.5644 per cent of GDP in 2025, by the World Bank's series ([source, 2025](https://data.worldbank.org/indicator/BX.GSR.CCIS.CD)).
 
 ### Guinea-Bissau: 4 Operating
 

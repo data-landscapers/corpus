@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-08-zwe-bindura-university-manufactures-80-palp-smartphones",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "plant",
+   "value": "production",
+   "fact": "TechnoMag reports Palp Technologies, at Bindura University's industrial park, assembles smartphones (from US$80), laptops and tablets locally.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "Palp Technologies",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Palp Technologies",
+   "country_label": "Palp Technologies",
+   "class": "ictproduction",
+   "platform": "",
+   "owner": "Bindura University of Science Education",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

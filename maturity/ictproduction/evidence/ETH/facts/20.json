@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-15-eth-jp-flsgaard-bak-building-africa-s-tech-factories-from-addis-ababa",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "plant",
+   "value": "production",
+   "fact": "Industry Five Group's chairman said in February 2026 that its Addis Ababa plant, 49 percent owned by Ethiopian Investment Holdings, has started commercial production assembling laptops, smartphones and tablets with an initial 50 staff.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Industry Five Addis Ababa assembly facility",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Industry Five Addis Ababa assembly facility",
+   "country_label": "Industry Five Group",
+   "class": "ictproduction",
+   "platform": "",
+   "owner": "Industry Five / Ethiopian Investment Holdings",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

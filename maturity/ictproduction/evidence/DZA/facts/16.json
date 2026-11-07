@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-16-dza-telephonie-zte-algerie-devoile-ses-smartphones-adaptes-a-la-5g",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "plant",
+   "value": "production",
+   "fact": "Sacomi's chief executive said its El Achour (Algiers) unit has begun making ZTE phones at 900 units a day with 30% initial integration, as six models were presented on 14 August 2025 (TSA Algerie).",
+   "as_of": "2025-08-14",
+   "date_precision": "day",
+   "system": "Sacomi El Achour plant (ZTE phones)",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sacomi El Achour plant (ZTE phones)",
+   "country_label": "Algeria",
+   "class": "ictproduction",
+   "platform": "ZTE",
+   "owner": "Sacomi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

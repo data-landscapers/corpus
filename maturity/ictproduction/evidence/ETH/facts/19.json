@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-23-eth-ethiopia-plans-local-laptop-tablet-assembly-in-digital-sovereignty-pus",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "plant",
+   "value": "production",
+   "fact": "A Danish-operated facility in Addis Ababa has started assembling laptops and desktop computers locally from imported components, according to Birr Metrics.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Danish-operated assembly facility, Addis Ababa",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

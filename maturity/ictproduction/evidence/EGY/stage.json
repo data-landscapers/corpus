@@ -1,16 +1,17 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "production",
-   "stage": "4",
-   "exports": "official:0.5644",
-   "plant": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "EGY-005",
-   "gaps": "No source found since October 2023 says ICT equipment is assembled or made in the country.",
-   "note": "Counted from the four questions by study-ladder-ictproduction.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "production",
+      "stage": "5",
+      "exports": "official:0.5644",
+      "plant": "production",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-005;EGY-006",
+      "gaps": "All four questions are answered.",
+      "note": "Stage 4c 2026-11-07: the ICT ministry says 10 million mobile phones were made in Egypt in 2025 at plants including Samsung, Xiaomi and Oppo (EGY-006), beside exports of 0.5644 per cent of GDP for 2025.",
+      "as_at": "2026-11-07"
+    }
+  ]
 }

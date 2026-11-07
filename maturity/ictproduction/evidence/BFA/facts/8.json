@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-22-bfa-faux-cette-usine-ne-fabrique-pas-des-ordinateurs-portables-au-burkina",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "plant",
+   "value": "production",
+   "fact": "Sciences Check finds Horizon Industries, Kossodo, Ouagadougou, is an assembly plant for laptops, phones and tablets, citing its own website for a daily output of 1,000 units and Haier as technical partner.",
+   "as_of": "2025-12-22",
+   "date_precision": "day",
+   "system": "Horizon Industries",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Horizon Industries",
+   "country_label": "Burkina Faso",
+   "class": "ictproduction",
+   "platform": "Haier",
+   "owner": "Horizon Industries",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

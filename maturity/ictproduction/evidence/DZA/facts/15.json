@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-20-dza-oran-inauguration-d-une-usine-d-assemblage-de-smartphones",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "plant",
+   "value": "production",
+   "fact": "STI, a wholly Algerian-owned company, opened a smartphone assembly plant at Es-Senia, Oran, on 20 August 2026, producing about 2,000 smartphones a day on two lines, per its communications officer.",
+   "as_of": "2026-08-20",
+   "date_precision": "day",
+   "system": "STI (Smart Technologie Innovation) Es-Senia plant",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

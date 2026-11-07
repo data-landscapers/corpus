@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-21-ken-safaricom-backed-firm-assembles-700-000-devices-in-a-year",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "plant",
+   "value": "production",
+   "fact": "Safaricom-backed East Africa Device Assembly Kenya at Athi River produced 700,000 devices, including smartphones and tablets, in the year ended March 2026, per Vodacom Group disclosures reported by Business Daily.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "East Africa Device Assembly Kenya (EADAK)",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-23-bfa-burkina-faso-un-accord-historique-pour-la-production-locale-d-equipeme",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "plant",
+   "value": "production",
+   "fact": "Horizon Industries, 35% state-owned through FBDES, specialises in assembling laptops, phones, tablets and appliances, and the Council of Ministers of 19 February 2025 authorised a framework agreement of up to four years for public IT purchases from it.",
+   "as_of": "2025-02-19",
+   "date_precision": "day",
+   "system": "Horizon Industries assembly unit",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
