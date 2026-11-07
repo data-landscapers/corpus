@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-cbn-sec-divide-crypto-oversight",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Under new regulations released 5 November 2026, the Central Bank of Nigeria oversees stablecoins used for payments, transfers, FX conversion and settlement, and firms must apply to it for authorisation (with NGN 1 billion extra capital) to offer these services, per TechCabal.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "CBN Regulations for the Operations of Non-Security Virtual Assets",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -191,6 +191,7 @@ KEN,Mobile money,Kenya,other,,,,2026-09-24-kenya-kenswitch-domestic-card-scheme
 KEN,Kenswitch Card,Kenya,other,,Kenswitch,,2026-09-24-kenya-kenswitch-domestic-card-scheme
 KEN,PAPSS,Kenya,other,,,,2026-09-20-papss-im-bank-kenya-go-live-techreviewafrica
 KEN,PAPSS,Kenya,oversight,,Afreximbank,,2026-09-17-ken-tech-ish-papss-growth-pesalink-termination-switch
+KEN,IPSL payment scheme,Kenya,other,Tazama,Integrated Payment Services Limited,,2024-11-27-iati-dac-1601-inv-076412-tazama-poc-ipsl-kenya
 LBR,IIPS (Pay Na-Na),Liberia,other,Mojaloop,Central Bank of Liberia,,2025-12-17-cbl-eg-saamoi-special-remark-iips-launch-december-2025
 LBR,National Electronic Payment Switch (NEPS),Liberia,other,,Central Bank of Liberia,,2025-12-17-cbl-eg-saamoi-special-remark-iips-launch-december-2025
 LBR,NEPS/IIPS (National Electronic Payment Switch / Inclusive Instant Payment System),LBR,oversight,,Central Bank of Liberia,,2025-09-23-cbl-directive-002-2025-routing-government-payments-neps-iips
@@ -250,6 +251,7 @@ MOZ,SIMOrede,Mozambique,other,,SIMO,,2026-07-30-mozambique-metix-instant-payment
 MOZ,METIX,Mozambique,oversight,instant payment system,Bank of Mozambique,"individual limit 200,000 MZN, legal entities 500,000 MZN daily",2026-03-16-central-bank-launches-metix-clubofmozambique
 MOZ,Instant Payment System (SPIM),Mozambique,oversight,instant payment switch,"Bank of Mozambique, operated by SIMO",,2026-03-02-banks-unveil-instant-payment-system-clubofmozambique
 MOZ,SPIM,Mozambique,oversight,,Sociedade Interbancária de Moçambique (SIMO),direct and indirect participation,2026-02-25-mocambique-aviso-1-gbm-2026-sistema-pagamentos-instantaneos
+MOZ,campaign worker databases for digital payment,Mozambique,other,,Dimagi Inc. (implementer),,2024-12-19-crs-1601-2024012782-09-2024-campaign-worker-databases-to-facilitate-rapid-digi
 MRT,MNBC,Mauritania,other,,Banque Centrale de Mauritanie,,2026-09-20-mrt-trustmag-bcm-fintech-monnaie-numerique
 MRT,Stratégie Nationale de Paiement Numérique,Mauritanie,other,,Banque Centrale de Mauritanie,,2026-09-06-bcm-strategie-nationale-paiement-numerique
 MRT,"Conseil des Systemes de Paiement, de Compensation et de Reglement des Titres",Mauritania,oversight,,Banque Centrale de Mauritanie,,2026-07-13-bcm-conseil-systemes-paiement-compensation-reglement-titres
@@ -314,6 +316,7 @@ SDN,Bankak,Sudan,other,mobile banking app,Bank of Khartoum,,2026-10-09-sdn-alara
 SDN,USSD financial services,Sudan,oversight,USSD,Central Bank of Sudan,,2026-03-31-cbos-ussd-financial-services-regulations
 SDN,national switch,Sudan,oversight,,Electronic Banking Services (EBS),,2026-10-25-sdn-ebs-general-manager-interview-hawas-payments
 SDN,Electronic Banking Services (EBS) BBAN transfers,Sudan,other,,,,2026-10-31-sdn-sudan-economic-performance-monitoring-committee-digital-payments
+SDN,clearinghouse system,Clearinghouse system Sudan,oversight,,Central Bank of Sudan,,2026-11-05-sdn-cbs-governor-sudan-s-banking-sector-capable-of-confronting-t
 SEN,PI-SPI,Senegal,oversight,instant payment,BCEAO,,2026-10-01-sen-agenceecofin-wave-rejoint-pi-spi
 SEN,PI-SPI,PI-SPI,other,,BCEAO,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
 SEN,Orange Money,Orange Money,other,,Orange,,2026-09-23-sen-seneweb-mobile-money-paiement-establishments
@@ -391,6 +394,7 @@ TGO,PI-SPI,UEMOA,other,,BCEAO,,2026-07-07-bceao-prolonge-delais-pi-spi
 TGO,PI-SPI,WAEMU / Togo,other,instant payment platform,BCEAO,"banks, e-money institutions, microfinance, payment institutions",2026-04-03-bceao-adhesion-pi-spi-30-juin
 TGO,PI-SPI,Togo,oversight,,,,2026-03-18-togo-comptes-monnaie-electronique-progression
 TGO,BCEAO instruction n° 001-01-2024,Togo,oversight,,BCEAO,three licence levels by capital,2026-02-17-techcabal-semoa-bceao-licence
+TGO,PI-SPI,PI-SPI,other,,BCEAO,,2026-11-05-tgo-togo-instant-payment-platform-processed-nearly-cfaf-15-billion-in-tran
 TUN,walletii by Ooredoo,Tunisia,other,digital wallet,Ooredoo Fintech,,2026-03-07-menastartupdigest-ooredoo-walletii-license
 TUN,Monétique,Tunisia,other,national electronic payments operator,,,2026-03-07-menastartupdigest-ooredoo-walletii-license
 TUN,SGMT,TUN,oversight,RTGS,BCT,,2026-09-03-bct-systemes-de-paiement
@@ -412,6 +416,7 @@ TZA,PAPSS,Tanzania,oversight,Pan-African Payment and Settlement System,,,2026-10
 TZA,Pan-African Payment and Settlement System (PAPSS),PAPSS,other,,Afreximbank/PAPSS,,2025-09-10-tza-tanzania-to-join-pan-african-payment-system-in-october
 UGA,EAPS,Uganda,oversight,,,,2025-10-06 BoU's New Payment System Cuts Delays and Boosts E-Money by 28.6%
 UGA,RTGS and ACH,Uganda,oversight,,Bank of Uganda,,2026-11-03-uga-notice-of-temporary-closure-of-the-real-time-gross-settlement-rtgs-and-automated
+UGA,national central data hub for credit reference bureaus,Uganda,other,,,,2024-07-09-crs-1601-2024011309-01-2024-uganda-central-data-hub
 ZAF,National Payment System Act / proposed NPS Bill,South Africa,oversight,,SARB,,2026-09-28-zaf-asapp-payment-challengers-proposals-payshap-interchange
 ZAF,PayInc,South Africa,oversight,automated clearing house,SARB (50%) and banks,,2026-08-01-no-plans-to-add-non-banks-to-payinc-shareholding-kganyago
 ZAF,PayShap,South Africa,other,real-time payments,,,2026-08-01-no-plans-to-add-non-banks-to-payinc-shareholding-kganyago

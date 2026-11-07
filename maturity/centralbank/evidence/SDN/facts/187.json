@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-05-sdn-cbs-governor-sudan-s-banking-sector-capable-of-confronting-t",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "Central Bank of Sudan Governor Amna Mirghani announced on 5 November 2026 that the clearinghouse system will operate at full capacity from the following Sunday.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "clearinghouse system",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "clearinghouse system",
+   "country_label": "Clearinghouse system Sudan",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Central Bank of Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
