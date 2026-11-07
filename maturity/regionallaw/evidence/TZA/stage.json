@@ -1,16 +1,17 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "harmonisation",
-   "stage": "1",
-   "accepted": "none",
-   "effect": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TZA-001",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-regionallaw.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "harmonisation",
+      "stage": "3",
+      "accepted": "ratified",
+      "effect": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-002",
+      "gaps": "No source found says the instrument of accession was deposited, or that a national law or rule was passed to give effect to a shared text.",
+      "note": "Fact 2026-11-05: Parliament approved the resolution for Tanzania to accede to the Malabo Convention, a ratification by parliament, so stage 3. No national law giving it effect is recorded, so not 4.",
+      "as_at": "2026-11-07"
+    }
+  ]
 }

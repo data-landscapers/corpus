@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-27-ner-bilan-2024-du-ministere-de-la-communication-adoption-d-une-politique-n",
+ "facts": [
+  {
+   "sub_indicator": "harmonisation",
+   "aspect": "accepted",
+   "value": "ratified",
+   "fact": "Minister Raliou said Niger has ratified the Malabo Convention on personal data protection, one of 13 African countries.",
+   "as_of": "2025-02-26",
+   "date_precision": "day",
+   "system": "Malabo Convention",
+   "class": "harmonisation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
