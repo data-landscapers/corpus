@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-06-nigeria-is-rewriting-its-cyber-laws",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "TechCabal says Vincent Olatunji, National Commissioner of the Nigeria Data Protection Commission, spoke at a government cybersecurity training in June 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Nigeria Data Protection Commission",
+   "class": "authority"
+  },
+  {
+   "sub_indicator": "body",
+   "aspect": "rulings",
+   "value": "ruled",
+   "fact": "TechCabal says the Nigeria Data Protection Commission fined MultiChoice Nigeria N766.24 million in 2025 for data protection breaches and unauthorised cross-border transfers of personal data.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Nigeria Data Protection Commission",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

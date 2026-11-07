@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-27-ner-bilan-2024-du-ministere-de-la-communication-adoption-d-une-politique-n",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Minister Raliou named the Haute Autorite de Protection des Donnees a caractere personnel (HAPDP) among the existing structures supporting his ministry.",
+   "as_of": "2025-02-26",
+   "date_precision": "day",
+   "system": "HAPDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "HAPDP",
+   "country_label": "Haute Autorite de Protection des Donnees a caractere personnel",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
