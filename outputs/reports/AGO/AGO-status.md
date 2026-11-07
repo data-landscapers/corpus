@@ -1,12 +1,12 @@
 ---
 title: Angola: status report
-compiled: 2026-11-05
+compiled: 2026-11-07
 place: AGO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-04
 intersections_read: 12
-sources_cited: 279
+sources_cited: 280
 sections_written: 39
 not_established: 0
 acquire_lines: 47
@@ -293,6 +293,8 @@ Commercial capacity is thin and sits in Luanda, where [Raxio opened AG1 at Cacua
 [In 2026 a 15 per cent state stake in Unitel went under the PROPRIV privatisation programme for Kz 300.3 billion, reported as about US$329m](https://www.itweb.africa/article/cyberattack-hits-unitel-during-market-debut/Pero37Z3JylMQb6m). [The 2026 offer was oversubscribed by more than 20 per cent across 17,549 subscription orders](https://www.itweb.africa/article/cyberattack-hits-unitel-during-market-debut/Pero37Z3JylMQb6m). [The shares rose more than 24 per cent on debut, to about Kz 50,000 a share on 30 July 2026](https://www.novojornal.co.ao/economia/detalhe/unitel-recupera-servicos-de-forma-gradual-em-15-provincias-e-suspeita-que-ataque-possa-ter-sido-planeado-para-travar-entrada-na-bodiva-73610.html). Unitel is [the operator that dominates the mobile market](https://www.connectingafrica.com/5g-networks/ericsson-modernizes-unitel-s-network-in-angola). [A cyberattack took its mobile network down the day before trading opened](https://techafricanews.com/2026/07/30/unitel-restores-services-after-cyberattack-disrupts-mobile-network-across-angola/). [The company framed its disclosure as a listed-company obligation to keep the market and investors informed](https://angop.ao/noticias/economia/unitel-recupera-servicos-de-mensagens-e-venda-de-recargas/).
 
 [CEIEC and Huawei are the contractors for Phase 2 of Angola's Public Security Project surveillance network](https://www.rns-pdf.londonstockexchange.com/rns/8185G_1-2022-3-31.pdf) (2021). [In 2025 the GovTech assessment found no government programme for engaging GovTech startups or the private technology sector in building public digital services](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [Business and Labour Environment is Angola's second-worst governance sub-category, at 31.1 out of 100 in 2023 and 49th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ao.pdf). [Business and competition regulation within it rose 14.3 points to 51.1](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ao.pdf).
+
+[A phone and computer assembly plant opened in the Luanda-Bengo special economic zone in October 2020 stopped in 2022, and its 48 workers were laid off](https://www.expansao.co.ao/empresas/detalhe/fabrica-de-telemoveis-da-afrione-em-luanda-esta-encerrada-ha-2-anos-61674.html).
 
 [ANGOSAT-2 capacity was released to commercial providers in December 2025, after years reserved for government](https://www.telecomreviewafrica.com/articles/general-news/13572-angola-launches-commercial-access-to-angosat-2-for-remote-connectivity/). [In July 2026 the regulator licensed a startup based in Moxico province to sell internet access over it](https://angop.ao/noticias/tecnologia/startup-do-moxico-recebe-licenca-para-fornecer-internet-via-angosat-2/).
 
