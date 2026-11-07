@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: ETH
-ledger_rows: 26
+ledger_rows: 27
 not_held: 5
-record: f2f55b568900
+record: f1272fb14f6d
 ---
 
 # News, Oct – Nov 2026
@@ -90,6 +90,8 @@ The Institute of Ethiopian Standards is building scannable digital marks, with t
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
 <a href="#mous-and-other-agreements">MoUs and other agreements</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#new-investments">New investments</a>
 </nav>
 
 ### MoUs and other agreements
@@ -103,6 +105,22 @@ The Institute of Ethiopian Standards is building scannable digital marks, with t
 **[DSRV Signs MOU with Ethiopian State-Owned Enterprise: "Blockchain-Based Financial and Public Services Cooperation"](https://www.asiae.co.kr/en/article/2026102909031800756)** — The Asia Business Daily, 29 October 2026
 
 Faydaverse, the state enterprise created from Ethiopia's national digital ID programme, signed a memorandum with South Korean blockchain firm DSRV on 26 October 2026. A joint working group will study turning its digital wallet into a verifiable-credentials wallet with a blockchain layer. The two also plan to explore public assistance based on digital ID, such as e-vouchers.
+
+</div>
+
+</div>
+
+### New investments
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">IFC investment in Kifiya Financial Technology</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IFC Invests in Kifiya’s AI Infrastructure to Connect Capital to Africa’s Real Economy - Kifiya Financial Technology](https://kifiya.com/2026/11/05/ifc-invests-in-kifiyas-ai-infrastructure-to-connect-capital-to-africas-real-economy/)** — Kifiya Financial Technology, 5 November 2026
+
+IFC's first investment in Kifiya, amount undisclosed; scales AgFinTech credit scoring in Ethiopia and new markets.
 
 </div>
 
@@ -127,6 +145,14 @@ Faydaverse, the state enterprise created from Ethiopia's national digital ID pro
 **[Ethio Telecom Extends 4G LTE Coverage to 80 More Towns](https://techafricanews.com/2026/10/26/ethio-telecom-extends-4g-lte-coverage-80-towns/)** — Tech Africa News, 26 October 2026
 
 Ethio telecom extended 4G LTE to 80 more Ethiopian towns. Its 2026/27 plan targets 4G population coverage of 95%, from 82.23%, across 1,500 towns.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethio telecom and ZTE Deploy Ethiopia’s First Pre-Commercial AI RAN Solution](https://techafricanews.com/2026/11/05/ethio-telecom-zte-deploy-ethiopias-first-pre-commercial-ai-ran-solution/)** — Tech Africa News, 5 November 2026
+
+AI beam scheduling on Massive MIMO lifts 4G capacity 11% and peak-hour throughput 40%, per ZTE.
 
 </div>
 
@@ -199,6 +225,14 @@ FaydaVerse, the new state enterprise running Ethiopia's Fayda digital ID, has be
 **[Ethiopia launches developer sandbox to support Fayda digital ID innovation, integration](https://www.biometricupdate.com/202610/ethiopia-launches-developer-sandbox-to-support-fayda-digital-id-innovation-integration)** — Biometric Update, 9 October 2026
 
 Ethiopia opened a public sandbox where developers and startups can test the Fayda digital identity's authentication interfaces before going live. Fayda counted more than 52 million registrations, 150 integrated partners and 208 million electronic verifications.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[FaydaVerse Expands Beyond National ID Registration](https://capitalethiopia.com/2026/11/01/faydaverse-expands-beyond-national-id-registration/)** — Capital Newspaper, 1 November 2026
+
+FaydaVerse: 52m registered, 15,000 enrolment machines, 150 partner institutions; verification fees since Aug 2026.
 
 </div>
 
