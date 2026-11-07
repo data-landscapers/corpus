@@ -1,11 +1,11 @@
 ---
 title: Malawi — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: MWI
-ledger_rows: 22
+ledger_rows: 23
 not_held: 30
-record: bd69aae81388
+record: be8531be6178
 ---
 
 # News, Oct – Nov 2026
@@ -149,6 +149,20 @@ Malawi's competition commission approved, with conditions, Telekom Networks Mala
 **[Msaka discloses plans to connect 2, 000 primary and secondary schools across Malawi](https://www.malawivoice.com/2026/10/29/msaka-discloses-plans-to-connect-2-000-primary-and-secondary-schools-across-malawi/)** — Malawi Voice, 29 October 2026
 
 Malawi's Education Minister Bright Msaka said on 29 October 2026 that 2,000 primary and secondary schools will be connected to the internet. The work falls under the World Bank-supported Digital Malawi Acceleration Project, with the Malawi Research and Education Network central to delivery. He gave no timeline or cost.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Airtel Malawi 5G sites in service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel Malawi Invests MWK81 Billion in Network Expansion as Data Traffic Surges](https://techafricanews.com/2026/11/06/airtel-malawi-invests-mwk81-billion-in-network-expansion-as-data-traffic-surges/)** — Tech Africa News, 6 November 2026
+
+MWK81bn over ten months; 275 new towers, 87% population coverage, data traffic up 50%+; forex and diesel constraints.
 
 </div>
 
