@@ -1,16 +1,16 @@
 iso3,function,status,scope,rows,deal_id,named,basis,evidence,looked
-AGO,statistics,found,whole,3,ago-2024-mep-uo-instituto-nacional-de-estatistica,Instituto Nacional de Estatística,rows,,
-AGO,civil-registration-id,found,whole,18,ago-2024-minjusdh-114-modernizacao-do-bilhete-de-identidade-e-informat,Serviço Integrado de Atendimento ao Cidadão (SIAC),rows,,
+AGO,statistics,found,whole,4,ago-2024-mep-uo-instituto-nacional-de-estatistica,Instituto Nacional de Estatística,rows,,
+AGO,civil-registration-id,found,whole,25,ago-2024-minjusdh-114-modernizacao-do-bilhete-de-identidade-e-informat,Serviço Integrado de Atendimento ao Cidadão (SIAC),rows,,
 AGO,communications-regulator,absent,,,,Instituto Angolano das Comunicações (INACOM),hand,keyword scan of the sprint's OCR of the budget's project lists for 2024 and 2025 and of the fourth-quarter execution reports: no line names the communications institute (INACOM),2026-10-02
-AGO,ict-ministry-egov,found,whole,5,ago-2024-minfin-61442-projecto-de-transformacao-digital-sigt-siiat-da,Instituto Nacional de Fomento da Sociedade da Informação (INFOSI); Governo de Angola (zona gov.ao),rows,,
-AGO,cybersecurity,found,whole,4,ago-2024-mintrans-51029-seguranca-do-sistema-de-informacao-mintrans,,rows,,
-AGO,data-protection,found,whole,3,ago-2024-minttics-uo-agencia-angolana-de-proteccao-de-dados,Agência de Protecção de Dados,rows,,
+AGO,ict-ministry-egov,found,whole,7,ago-2024-minfin-61442-projecto-de-transformacao-digital-sigt-siiat-da,Instituto Nacional de Fomento da Sociedade da Informação (INFOSI); Governo de Angola (zona gov.ao),rows,,
+AGO,cybersecurity,found,whole,5,ago-2024-mintrans-51029-seguranca-do-sistema-de-informacao-mintrans,,rows,,
+AGO,data-protection,found,whole,4,ago-2024-minttics-uo-agencia-angolana-de-proteccao-de-dados,Agência de Protecção de Dados,rows,,
 AGO,revenue-systems,absent,,,,Administração Geral Tributária,hand,keyword scan of the sprint's OCR of the budget's project lists for 2024 and 2025 and of the fourth-quarter execution reports: no project names a tax or customs system; the hits are revenue headings,2026-10-02
-AGO,treasury-fmis,found,whole,3,ago-2024-pr-3314-sistema-integrado-de-gestao-da-oferta-formativa,Ministério das Finanças,rows,,
-AGO,procurement,found,whole,4,ago-2026-minfin-implementacao-do-sistema-nacional-de-contratacao-publica-pla,Serviço Nacional da Contratação Pública (Portal Compras Públicas),rows,,
+AGO,treasury-fmis,found,whole,4,ago-2024-pr-3314-sistema-integrado-de-gestao-da-oferta-formativa,Ministério das Finanças,rows,,
+AGO,procurement,found,whole,6,ago-2026-minfin-implementacao-do-sistema-nacional-de-contratacao-publica-pla,Serviço Nacional da Contratação Pública (Portal Compras Públicas),rows,,
 AGO,electoral-register,absent,,,,Comissão Nacional Eleitoral,hand,keyword scan of the sprint's OCR of the budget's project lists for 2024 and 2025 and of the fourth-quarter execution reports: no line names the voter register or the electoral commission's systems,2026-10-02
-AGO,land-registry,found,whole,8,ago-2024-mirempet-61337-implementacao-do-sistema-integrado-de-licenciame,Instituto Geográfico e Cadastral de Angola (IGCA),rows,,
-AGO,social-registry,found,whole,2,ago-2025-masfamu-4721-sistema-integrado-de-cadastro-social-unico-sicas,Instituto Nacional de Segurança Social,rows,,
+AGO,land-registry,found,whole,11,ago-2024-mirempet-61337-implementacao-do-sistema-integrado-de-licenciame,Instituto Geográfico e Cadastral de Angola (IGCA),rows,,
+AGO,social-registry,found,whole,3,ago-2025-masfamu-4721-sistema-integrado-de-cadastro-social-unico-sicas,Instituto Nacional de Segurança Social,rows,,
 AGO,population-register,absent,,,,,hand,keyword scan of the sprint's OCR of the budget's project lists for 2024 and 2025 and of the fourth-quarter execution reports: no line names a population register,2026-10-02
 AGO,data-exchange,absent,,,,,hand,keyword scan of the sprint's OCR of the budget's project lists for 2024 and 2025 and of the fourth-quarter execution reports: no line names interoperability or a data exchange,2026-10-02
 BDI,statistics,found,whole,11,bdi-2024-14-001-66110-0121-15,Institut national de la statistique du Burundi,rows,,
