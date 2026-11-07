@@ -1,11 +1,11 @@
 ---
 title: Tunisia — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: TUN
-ledger_rows: 29
+ledger_rows: 35
 not_held: 5
-record: e8c240e860b8
+record: feeb423f19a4
 ---
 
 # News, Oct – Nov 2026
@@ -348,6 +348,70 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Invoices received through the electronic invoicing platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ministry of Finance: 1.8 Million Invoices Received Through the Electronic Invoicing Platform, Nearly 37,000 Settled - Tunisia Online News](https://www.tunisiaonlinenews.com/ministry-of-finance-1-8-million-invoices-received-through-the-electronic-invoicing-platform-nearly-37000-settled/)** — Tunisia Online News, 4 November 2026
+
+Finance ministry 2027 budget hearing, 3 Nov 2026; unified online tax account due Q1 2027; database interconnection.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Unified online tax account</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Ministry of Finance: 1.8 Million Invoices Received Through the Electronic Invoicing Platform, Nearly 37,000 Settled - Tunisia Online News](https://www.tunisiaonlinenews.com/ministry-of-finance-1-8-million-invoices-received-through-the-electronic-invoicing-platform-nearly-37000-settled/)** — Tunisia Online News, 4 November 2026
+
+Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Passport issuance through the electronic consulate system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Passeports des TRE : une nouvelle procédure en ligne prévue pour 2027](https://businessnews.com.tn/2026/11/05/passeports-des-tre-une-nouvelle-procedure-en-ligne-prevue-pour-2027/1427376/)** — Business News, 5 November 2026
+
+Pilot with ICT ministry; consular roll-out through 2027; online steps unspecified; new units Jakarta, Beijing, Montreal.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Remote requests for identity card, passport and driving licence</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Passeport, carte d’identité, permis : les démarches à distance promises avant fin 2026](https://businessnews.com.tn/2026/11/06/passeport-carte-didentite-permis-les-demarches-a-distance-promises-avant-fin-2026/1427550/)** — Business News, 6 November 2026
+
+ID card, passport, licence renewal, residence certificate, municipal tax and personal tax filing online by end-2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tunisie : six projets gouvernementaux basés sur l’IA prévus en 2027 contre deux en 2026](https://www.webmanagercenter.com/2026/11/06/576433/tunisie-six-projets-gouvernementaux-bases-sur-lia-prevus-en-2027-contre-deux-en-2026/)** — Webmanagercenter, 6 November 2026
+
+TND 1.074bn 2027 ICT mission, 80% from state firms; AI ethics charter, sovereign data centres; GCI tier-2 aim.
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -423,6 +487,34 @@ Tunisian Customs official Kais Ben Zayed said on 9 October 2026 that AI built by
 **[Douane : l’intelligence artificielle bientôt utilisée pour détecter les fraudes et contrôler les marchandises](https://businessnews.com.tn/2026/10/12/douane-lintelligence-artificielle-bientot-utilisee-pour-detecter-les-fraudes-et-controler-les-marchandises/1422415/)** — Business News (Tunisia), 12 October 2026
 
 Tunisian Customs spokesman Colonel-Major Chokri Jabri said on 12 October 2026 that first trials of artificial intelligence for targeting high-risk shipments improved targeting by 20-25%. AI will also be used to analyse container scanner images remotely, and the SINDA 2 customs IT system is due for completion by the end of 2027 as declarations move to paperless processing.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI-based government projects</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Tunisie : six projets gouvernementaux basés sur l’IA prévus en 2027 contre deux en 2026](https://www.webmanagercenter.com/2026/11/06/576433/tunisie-six-projets-gouvernementaux-bases-sur-lia-prevus-en-2027-contre-deux-en-2026/)** — Webmanagercenter, 6 November 2026
+
+Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National AI ethics charter</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Tunisie : six projets gouvernementaux basés sur l’IA prévus en 2027 contre deux en 2026](https://www.webmanagercenter.com/2026/11/06/576433/tunisie-six-projets-gouvernementaux-bases-sur-lia-prevus-en-2027-contre-deux-en-2026/)** — Webmanagercenter, 6 November 2026
+
+Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 </div>
 
