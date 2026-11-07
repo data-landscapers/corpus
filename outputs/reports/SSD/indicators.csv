@@ -449,7 +449,9 @@ dpi.mis--health,Movement,"The [national health instance took on a predictive mal
 
 A custom dashboard began piloting climate-informed predictive modelling and automated malaria outbreak alerts inside the national instance in July 2026 ([dashboard](2026-07-01-south-sudan-dhis2-climate-and-health-country-profile)), and an electronic logistics system reached 105 of 145 facilities with its own dashboard integrated into it ([logistics](2026-03-01-undp-msupply-elmis-dhis2-integration)).
 
-Predictive modelling sits on top of a system three-quarters of facilities cannot feed electronically.",SSD-dpi.mis-dhis2,3,SSD-dpi.mis-dhis2,,,,,,,2026-08-31,0,DHIS2 national instance in service; reporting completeness and private-sector coverage not on record
+Predictive modelling sits on top of a system three-quarters of facilities cannot feed electronically.
+
+2026 - [an analysis by Countdown to 2030 with the health ministry found 73 per cent of expected monthly facility reports received in DHIS2 in 2025, against 62 per cent in 2020, with only 24 per cent of districts at or above 90 per cent](2026-01-01-ssd-analysis-of-reproductive-maternal-newborn-child-and-adolescent-health).",SSD-dpi.mis-dhis2|SSD-dpi.mis-dhis2-reporting-completeness,3,SSD-dpi.mis-dhis2,,,,,,,2026-08-31,0,"DHIS2 national instance in service; reporting completeness and private-sector coverage not on record"
 dpi.mis--social-protection,Movement,"One management information system, [linked to biometric registration and paying 87,867 households](2025-09-18-cash-transfers-helping-women-south-sudan), owned by a project rather than a ministry.","The system is government-led and linked to biometric beneficiary registration, described in its financing paper as project-scoped ([paper](2024-08-21-snsop-additional-financing-project-paper)).
 
 It had registered and paid 87,867 households across 15 counties by September 2025 ([scale](2025-09-18-cash-transfers-helping-women-south-sudan)).
