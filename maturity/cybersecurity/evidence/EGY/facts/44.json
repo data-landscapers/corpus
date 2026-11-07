@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-egy-mcit-ict-strategy-page-publications-en",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "MCIT's publications list carries the National Cybersecurity Strategy 2023-2027, dated January 2024.",
+   "as_of": "2024-01",
+   "date_precision": "month",
+   "system": "National Cybersecurity Strategy 2023-2027",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Cybersecurity Strategy 2023-2027",
+   "country_label": "National Cybersecurity Strategy 2023-2027",
+   "class": "response",
+   "platform": "",
+   "owner": "MCIT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

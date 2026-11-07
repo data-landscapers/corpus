@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-04-lbr-sen-cyrus-demands-cybersecurity-assessment",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Sen. Momo Cyrus told the Senate on 3 November 2026 that Executive Order No. 163 of 22 April 2026 set up the Office of Technology, Digitalization and Innovation, giving it a central coordinating role in government-wide digital governance and cybersecurity.",
+   "as_of": "2026-04-22",
+   "date_precision": "day",
+   "system": "Office of Technology, Digitalization and Innovation (OTDI)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Office of Technology, Digitalization and Innovation",
+   "country_label": "OTDI",
+   "class": "response",
+   "platform": "",
+   "owner": "Office of the President",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

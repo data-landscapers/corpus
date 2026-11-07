@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-18-tza-tanzania-communications-regulatory-authority-contribution-to-the-globa",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "TCRA says it strengthens cybersecurity resilience through the Tanzania Computer Emergency Response Team (TZCERT).",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "TZCERT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TZCERT",
+   "country_label": "TZCERT",
+   "class": "response",
+   "platform": "",
+   "owner": "TCRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

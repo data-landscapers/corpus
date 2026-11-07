@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-01-mus-ministere-des-technologies-de-l-information-et-de-la-communication-une",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The ministry's review says the National Cybersecurity Committee was constituted in April 2026.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "National Cybersecurity Committee",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MAUCORS+",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "cybercrime reporting platform",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  }
+ ],
+ "note": "CII Regulations promulgated August 2025 and in force May 2026, but no designation of systems or reporting duty to a national body is stated."
+}
