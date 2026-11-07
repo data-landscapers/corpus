@@ -1,11 +1,11 @@
 ---
 title: Seychelles — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: SYC
-ledger_rows: 13
+ledger_rows: 14
 not_held: 6
-record: 9119a14935e3
+record: cfdcf83469f0
 ---
 
 # News, Oct – Nov 2026
@@ -133,10 +133,28 @@ The World Bank is preparing a Seychelles project to widen internet access, incre
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
+<a href="#connectivity">Connectivity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-storage">Data Storage</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 </nav>
+
+### Connectivity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet usage</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital 2027: Seychelles](https://datareportal.com/reports/digital-2027-seychelles)** — DataReportal (Kepios), 5 November 2026
+
+119k internet users, 87.8% online; 228k mobile connections (168%); 76k social media identities.
+
+</div>
+
+</div>
 
 ### Data Storage
 
