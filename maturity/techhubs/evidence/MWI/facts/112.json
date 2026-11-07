@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-08-mwi-malawi-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "The guide names mHub, the MUBAS Innovation Hub and the Agribiz hub as innovation hubs fostering digital entrepreneurship, with no programme or cohort described.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "mHub",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "mHub",
+   "country_label": "mHub",
+   "class": "hub",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
