@@ -1,3 +1,7 @@
+## 7 November 2026
+
+- Seychelles's 2027 draft is in the tables: four bodies read at head level from the Appropriation Bill's schedule, SCR 215m whole and 14.7m partly digital. The ICT department's vote nearly doubles to SCR 186m; programme lines follow when the estimates volume is published.
+
 ## 6 November 2026
 
 - Non-state finance now holds 5,853 commitments, down from 6,293, after 891 OECD aid records were replaced by the 435 project records their financiers publish to IATI; the total moves from about $75.3 billion to $75.5 billion. Each replaced row now links to its project page, and country finance summaries carry the new counts.

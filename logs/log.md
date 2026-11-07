@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-07 02:07 · **BUDGET-EXTRACT** · unclocked · SYC FY2027: 4 heads from the Appropriation Bill 2027 Schedule at the proposed stage (housekeeping 45); SCR 215.1m whole, 14.7m partial; programme grain awaits the estimates volume
 2026-11-06 20:07 · **INDEX** · unclocked · research index: stopped at the start of 5,421 added or changed records by Claude Code's low-memory reaper; resumes next cycle - errored
 2026-11-06 20:00 · **RENDER** · 30m · 301 documents rendered, 0 failed; home, countries, catalogue 37,677, finance 5,853 deals, maturity; R2 298 objects up; deployed 8245bed - ok
 2026-11-06 19:29 · **BUILD** · 1h17m · hand cycle, IATI replaces CRS: catalogue 37,677; finance 5,853 deals, 435 scoped; 52 units, 435 marked, 0 moved; 37 status finance paragraphs recomputed; maturity 507 read, 23 facts, 0 moved; register 9; prose gate 0 - ok
@@ -458,7 +459,6 @@ title: Corpus process log
 2026-10-07 02:55 · **REVIEW** · 3m · AGO: status 13 sections revised, progress 5 cells (5 rows mapped), monthly 0 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
 2026-10-07 02:52 · **BUILD** · 38m · catalogue 26,585, finance 62 places, scan 39 units, 67 ledger rows moved or minted, 58 status sections revised; data centres 1 row; bulletin 52; budgets: poll run, 3 deals judged, none waiting — ok
 2026-10-07 02:14 · **ANALYTICS** · unclocked · 2026-10-04..2026-10-06 written; 6 Oct: dl.io 96 views / 1 clicks, corpus 38 views / 1 clicks
-2026-10-06 19:12 · **MATURITY-STUDY** · unclocked · health, Phase 1 review (H3): 54 countries, 1,506 listed documents in 75 slices, 952 facts (hmis 402, emr 550); 105 of 324 coverage cells hold nothing; housekeeping 12 registered for four mis-cited status sentences - ok
 2026-10-02 17:08 · **BUDGET-REVIEW** · unclocked · DR Congo's votes recorded for 2024 to 2026; check D stands at 33 countries, 83 country-years. Run ended early at 12:10 against a five-hour window; the remaining sittings are in budget-followups.
 2026-10-02 09:29 · **FIX** · 15m · housekeeping register moved to the share as corpus-housekeeping.md; notes-for-osint 196 asks OSINT to rename its register and archive to osint-housekeeping; lints read either name meanwhile
 2026-09-29 16:02 · **HYPERSCALER** · unclocked · 04 GNQ: institutions 18 · US 30% · shield 8% · rank 4/54 · dangling 0

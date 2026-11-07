@@ -236,7 +236,7 @@ ETH,electoral-register,absent,,,,National Election Board of Ethiopia,hand,"EFY20
 ETH,land-registry,found,whole,9,eth-2024-177-01-01-00-002,,rows,,
 ETH,social-registry,absent,,,,Ministry of Labor and Skills,hand,keyword scan of the sprint's parse of the federal budget's bodies and programmes for EFY2017 to EFY2019: no programme names a social registry,2026-10-02
 ETH,population-register,absent,,,,,hand,keyword scan of the sprint's parse of the federal budget's bodies and programmes for EFY2017 to EFY2019: no programme names a population register,2026-10-02
-ETH,data-exchange,found,whole,7,eth-2024-177-05-01,,rows,,
+ETH,data-exchange,found,whole,2,eth-2024-181-01-01-01-044,,rows,,
 GAB,statistics,absent,,,,Direction Générale de la Statistique; Direction Générale de la Statistique (INSTAT portal),hand,"FY2024 to FY2026: the finance law prints each mission's programmes by titre, about 150 programmes in 44 missions and 12 special accounts, and nothing finer; all were read on 2026-09-24. No programme names statistics; the statistics directorate sits inside a planning programme and no explanatory annex is held.",2026-10-02
 GAB,civil-registration-id,absent,,,,,hand,"FY2024 to FY2026: the finance law prints each mission's programmes by titre, about 150 programmes in 44 missions and 12 special accounts, and nothing finer; all were read on 2026-09-24. No programme names civil registration or identity documents.",2026-10-02
 GAB,communications-regulator,found,partial,3,gab-2024-10-10416-adp-arcep,Autorité de Régulation des Communications Électroniques et des Postes,rows,,
@@ -488,7 +488,7 @@ NAM,electoral-register,found,whole,5,nam-2026-28-md01-vpn,Electoral Commission o
 NAM,land-registry,found,whole,9,nam-2024-37-md04-statistica,,rows,,
 NAM,social-registry,absent,,,,Ministry of Gender Equality Poverty Eradication and Social Welfare,hand,"keyword scan of the estimates of revenue, income and expenditure for 2024/25 to 2026/27, read at the sitting of 2026-09-25: no line names a social registry",2026-10-02
 NAM,population-register,found,partial,3,nam-2024-39-md05,,rows,,
-NAM,data-exchange,found,partial,1,nam-2024-37-p37-13-5,,rows,,
+NAM,data-exchange,not looked,,,,,,,
 NER,statistics,found,whole,15,ner-2024-06-110-11001004,Institut national de la statistique (INS),rows,,
 NER,civil-registration-id,found,whole,5,ner-2024-25-143-14302009,,rows,,
 NER,communications-regulator,found,partial,1,ner-2024-arcep,Autorité de régulation des communications électroniques et de la poste (ARCEP),rows,,
@@ -503,11 +503,11 @@ NER,land-registry,found,partial,2,ner-2026-68-229-22902800,,rows,,
 NER,social-registry,absent,,,,,hand,"keyword scan of the finance laws' activity annexes for 2024, 2025 and 2026, read at the sitting of 2026-09-24: the one activity naming the unified social registry (2025, 608,190,000) carries financing code 33, project grants, so it is external and not a state row",2026-10-02
 NER,population-register,absent,,,,,hand,"keyword scan of the finance laws' activity annexes for 2024, 2025 and 2026, read at the sitting of 2026-09-24: no activity names a population register",2026-10-02
 NER,data-exchange,found,whole,2,ner-2025-47-170-17001038,,rows,,
-NGA,statistics,found,whole,42,nga-2024-0238004001,National Bureau of Statistics,rows,,
+NGA,statistics,found,whole,136,nga-2024-0238004001,National Bureau of Statistics,rows,,
 NGA,civil-registration-id,found,whole,11,nga-2024-0161005001,National Identity Management Commission,rows,,
 NGA,communications-regulator,absent,,,,Nigerian Communications Commission,hand,"FY2024-FY2026: the 2024 bill details (2,290 pp.), the 2025 Act (2,185 pp.) and the 2026 Act details (2,635 pp.) searched by text for the Nigerian Communications Commission: no vote, project or transfer line; the Commission is funded from its own fees outside the federal budget (regulators' own accounts are a pending question, budget-followups.md)",2026-10-23
 NGA,ict-ministry-egov,found,whole,96,nga-2024-0156003001,National Information Technology Development Agency (NITDA),rows,,
-NGA,cybersecurity,found,whole,58,nga-2024-0116018001-ergp29212923,ngCERT,rows,,
+NGA,cybersecurity,found,whole,56,nga-2024-0116018001-ergp29212923,ngCERT,rows,,
 NGA,data-protection,found,whole,25,nga-2024-0220007001-ergp71928668,Nigeria Data Protection Commission,rows,,
 NGA,revenue-systems,found,whole,12,nga-2024-0228001001-ergp29140673,Federal Inland Revenue Service; Nigeria Revenue Service,rows,,
 NGA,treasury-fmis,found,whole,95,nga-2024-0238005002-ergp16210780,Federal Ministry of Finance; Office of the Accountant-General of the Federation,rows,,
@@ -629,9 +629,9 @@ SWZ,land-registry,found,partial,2,swz-2025-10-X509,,rows,,
 SWZ,social-registry,found,whole,3,swz-2024-06-S354,,rows,,
 SWZ,population-register,absent,,,,,hand,"keyword scan of the estimates books for 2024/25 and 2025/26 and the treasury's reports, read at the sitting of 2026-09-25: no line names a population register apart from the civil registration systems that are held",2026-10-02
 SWZ,data-exchange,absent,,,,,hand,"keyword scan of the estimates books for 2024/25 and 2025/26 and the treasury's reports, read at the sitting of 2026-09-25: no line names interoperability or a data exchange",2026-10-02
-SYC,statistics,found,whole,12,syc-2024-040j000-p1,National Bureau of Statistics,rows,,
+SYC,statistics,found,whole,13,syc-2024-040j000-p1,National Bureau of Statistics,rows,,
 SYC,civil-registration-id,found,partial,3,syc-2024-064x000-p2,,rows,,
-SYC,communications-regulator,found,partial,3,syc-2024-020d000-p1,,rows,,
+SYC,communications-regulator,found,partial,4,syc-2024-020d000-p1,,rows,,
 SYC,ict-ministry-egov,found,whole,1,syc-2026-022x000-p2,Department of Information Communications Technology; Department of Information Communications Technology (DICT),rows,,
 SYC,cybersecurity,found,whole,3,syc-2024-040l000-p2-penetration-testing,,rows,,
 SYC,data-protection,absent,,,,,hand,"keyword scan of the budget estimates and the budget assumptions and objectives volumes for 2024, 2025 and 2026: no body or line is funded for data protection; the Information Commission (SCR 3,529 thousand in 2024) administers access to information",2026-10-02
@@ -726,7 +726,7 @@ ZAF,electoral-register,absent,,,,Electoral Commission of South Africa (IEC),hand
 ZAF,land-registry,found,whole,2,zaf-2025-42-2-south-african-spatial-data-infrastructure,Department of Land Reform and Rural Development (Deeds Office),rows,,
 ZAF,social-registry,absent,,,,South African Social Security Agency (SASSA); Department of Social Development,hand,"keyword scan of the Estimates of National Expenditure for 2024, 2025 and 2026, read across every vote at the sitting of 2026-09-22: no sub-programme or transfer names a social registry",2026-10-02
 ZAF,population-register,found,partial,1,zaf-2026-5-2-status-services,,hand,Home Affairs' Status Services sub-programme keeps the national population register and is held at partial,2026-10-02
-ZAF,data-exchange,found,whole,5,zaf-2024-14-7-data-and-information-management,,rows,,
+ZAF,data-exchange,found,whole,3,zaf-2024-14-7-data-and-information-management,,rows,,
 ZMB,statistics,found,whole,5,zmb-2024-37-3467-03-01-13,Zambia Statistics Agency,rows,,
 ZMB,civil-registration-id,found,whole,6,zmb-2024-15-4176-02-02-15,Department of National Registration Passport and Citizenship,rows,,
 ZMB,communications-regulator,found,partial,1,zmb-2026-66-2152-002,Zambia Information and Communications Technology Authority,hand,"FY2024 to FY2026: the technology ministry's ICT services and regulation sub-programme, mostly the grant to the ICT authority; held at partial.",2026-10-02
