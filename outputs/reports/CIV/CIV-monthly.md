@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: CIV
-ledger_rows: 34
+ledger_rows: 39
 not_held: 9
-record: 9ece497f93f7
+record: f5af4983d0f9
 ---
 
 # News, Oct – Nov 2026
@@ -428,6 +428,62 @@ Summarised under [Registries](#registries).
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">CIV Sante citizen health platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Santé Numérique : Comment l'interopérabilité du système de santé se met en place en Côte d'Ivoire ?](https://digitalmag.ci/sante-numerique-vers-une-interoperabilite-dans-le-systeme-de-sante-en-cote-divoire/)** — Digital Mag Côte d'Ivoire, 14 October 2026
+
+390 facilities on hospital information systems, 258 on electronic patient records; interoperability the next step.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Health-product logistics information system</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Santé Numérique : Comment l'interopérabilité du système de santé se met en place en Côte d'Ivoire ?](https://digitalmag.ci/sante-numerique-vers-une-interoperabilite-dans-le-systeme-de-sante-en-cote-divoire/)** — Digital Mag Côte d'Ivoire, 14 October 2026
+
+Summarised under [Sectoral management information systems](#sectoral-management-information-systems).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Hospital information system and computerised patient record (SIH and DPI)</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Santé Numérique : Comment l'interopérabilité du système de santé se met en place en Côte d'Ivoire ?](https://digitalmag.ci/sante-numerique-vers-une-interoperabilite-dans-le-systeme-de-sante-en-cote-divoire/)** — Digital Mag Côte d'Ivoire, 14 October 2026
+
+Summarised under [Sectoral management information systems](#sectoral-management-information-systems).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">OpenELIS laboratory information system</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Santé Numérique : Comment l'interopérabilité du système de santé se met en place en Côte d'Ivoire ?](https://digitalmag.ci/sante-numerique-vers-une-interoperabilite-dans-le-systeme-de-sante-en-cote-divoire/)** — Digital Mag Côte d'Ivoire, 14 October 2026
+
+Summarised under [Sectoral management information systems](#sectoral-management-information-systems).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">SIMT labour market information system</p>
 
 <div class="bulletin-item" markdown="1">
@@ -451,6 +507,14 @@ Côte d'Ivoire's Council of Ministers adopted the decree on clearing the 3.3–3
 **[Yamoussoukro : Le Sénat modernise sa 2e session, le vote électronique activé](https://www.linfodrome.com/politique/126379-yamoussoukro-le-senat-modernise-sa-2e-session-le-vote-electronique-active)** — Linfodrome, 12 October 2026
 
 Côte d'Ivoire's Senate opened its second ordinary session of 2026 with attendance recorded in real time instead of a roll call, amendments filed online and proceedings archived automatically. Electronic voting was trialled the same day, with training for senators on 13 to 16 October.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire-AIP/ Le vote électronique fait ses premiers pas au Sénat - AIP - Agence Ivoirienne de Presse](https://www.aip.ci/cote-divoire-aip-le-vote-electronique-fait-ses-premiers-pas-au-senat/)** — Agence Ivoirienne de Presse (AIP), 5 November 2026
+
+First live electronic vote, 5 Nov 2026, on four bills; results in under three minutes under the e-Senat project.
 
 </div>
 
@@ -569,6 +633,20 @@ An international seminar on blockchain and digital assets in Abidjan, co-organis
 **[Call for Tenders: Design and Delivery of an Investment Readiness Programme for Tech and Tech-Enabled Startups in Cote d'Ivoire](https://tenders-afd.dgmarket.com/tender/116742536)** — Agence Française de Développement (via dgMarket), 27 October 2026
 
 Expertise France opened a tender on 27 October 2026 for an investment readiness programme for tech startups in Côte d'Ivoire. The programme falls under the Africa-Europe Digital Innovation Bridge. It would support four support organisations and 16 startups, at least five women-led, for 17 months from February 2027; bids close on 23 November.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Startup accelerator cohorts</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire-AIP/ Le ministre Djibril Ouattara annonce 24 mois d’accompagnement de l’État pour 32 entreprises du secteur du numérique - AIP - Agence Ivoirienne de Presse](https://www.aip.ci/cote-divoire-aip-le-ministre-djibril-ouattara-annonce-24-mois-daccompagnement-de-letat-pour-32-entreprises-du-secteur-du-numerique/)** — Agence Ivoirienne de Presse (AIP), 5 November 2026
+
+14 start-ups and 18 SMEs selected for Ivoire Tech Next 15 and Scale Up; performance contracts on revenue and jobs.
 
 </div>
 
