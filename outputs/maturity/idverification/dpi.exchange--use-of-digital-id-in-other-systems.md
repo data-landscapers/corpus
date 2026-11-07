@@ -22,11 +22,11 @@ The African Union's interoperability framework and the AfCFTA Digital Trade Prot
 |---|---|
 | 5 Leading | 11 |
 | 4 Operating | 5 |
-| 3 Established | 17 |
+| 3 Established | 18 |
 | 2 Nascent | 10 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
-| No evidence | 9 |
+| No evidence | 8 |
 
 ## Countries
 
@@ -170,6 +170,13 @@ A service checked people against the national ID in 2024; no source found report
 
 - The Government of Cabo Verde says the Portal de Justiça, launched on 18 December 2024, is integrated with the state's Autentika platform and supports several user authentication methods for services including certificates and online renewal of the CNI ([source, 2024-12-18](https://www.governo.cv/primeiro-ministro-preside-acto-de-lancamento-oficial-do-portal-de-justica/)).
 
+### Cote d'Ivoire: 3 Established
+
+Identity checks against the national ID were in place for banks in 2025; no second sector or count of checks is known.
+
+- ONECI states identity authentication (KYC) solutions have been set up for banks and financial institutions ([source, 2025](https://www.koaci.com/article/2026/02/10/cote-divoire/societe/cote-divoire-le-delai-de-delivrance-de-la-carte-nationale-didentite-ramene-a-moins-de-deux-semaines-perspectives-de-la-structure-pour-2026_194217.html)).
+- KOACI reports that on 3 February 2025 Orange Bank Africa and ONECI signed a convention under which the bank will integrate ONECI's authentication solutions through APIs to verify customer identity for KYC ([source, 2025-02-03](https://www.koaci.com/article/2025/02/03/cote-divoire/economie/cote-divoire-signature-dune-convention-entre-oba-et-loneci-pour-renforcer-la-securite-des-transactions_184218.html)).
+
 ### Eswatini: 3 Established
 
 A service checked people against the national ID in 2024; no source found reports use in a second sector.
@@ -263,12 +270,6 @@ Another system's use of the national ID was under way in 2026; none in service i
 
 - ANATS and Airtel Tchad signed a partnership on 8 May 2026 under which ANATS will verify Airtel's customer data and interconnect the two systems to identify mobile subscribers, with the enrolment campaign due to start in the following days (Tchadinfos report) ([source, 2026-05-08](https://tchadinfos.com/2026/05/09/securisation-des-donnees-lanats-et-airtel-tchad-signent-un-partenariat-strategique/)).
 
-### Cote d'Ivoire: 2 Nascent
-
-Another system's use of the national ID was under way in 2026; none in service is on record.
-
-- BCPFS and ONECI signed a partnership convention on 2 April 2026 to interconnect the RSU with ONECI databases, identifying and verifying beneficiaries through the Registre National des Personnes Physiques ([source, 2026-04-02](https://filetsociaux-ci.org/registre-social-unique-des-menages-pauvres-et-vulnerables-rsu-signature-dune-convention-entre-le-bureau-de-coordination-du-programme-filets-sociaux-bcpfs-et-loffice-nation/)).
-
 ### DR Congo: 2 Nascent
 
 Another system's use of the national ID was under way in 2026; none in service is on record.
@@ -293,6 +294,12 @@ Another system's use of the national ID was under way in 2026; none in service i
 Another system's use of the national ID was under way in 2026; none in service is on record.
 
 - On 22 January 2026 the DGE and ONECI signed a convention under which the national register of persons (RNPP) is to be the sole official source of voter identification data for the biometric electoral file ([source, 2026-01-22](https://mediaguinee.com/2026/01/conakry-la-dge-et-loneci-scellent-une-alliance-pour-un-fichier-electoral-fiable/)).
+
+### Mozambique: 2 Nascent
+
+An ID verification service for other institutions was being built in 2026; none used it by March 2026.
+
+- The World Bank ISR says an identity verification API from DNIC awaits feedback from institutions, with zero relying parties using the verification services at 20 March 2026 against a target of six ([source, 2026-03-20](https://documents1.worldbank.org/curated/en/099042226205030950/pdf/P172350-ea7be2a4-0727-4372-a851-4df42faaf183.pdf)).
 
 ### Niger: 2 Nascent
 
@@ -357,12 +364,6 @@ Nothing found names another system checking people against the national ID or sa
 Not established: Nothing found names another system checking people against the national ID, or says there is none.
 
 ### Madagascar: No evidence
-
-Nothing found names another system checking people against the national ID or says there is none, so no stage is set.
-
-Not established: Nothing found names another system checking people against the national ID, or says there is none.
-
-### Mozambique: No evidence
 
 Nothing found names another system checking people against the national ID or says there is none, so no stage is set.
 

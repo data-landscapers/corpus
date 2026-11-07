@@ -70,6 +70,7 @@ CIV,"2025-04-12 Cote d'Ivoire - Registre Social Unique (RSU) operationalisation,
 CIV,2025-08-25-elaboration-validation-indicateurs-rsu-cote-divoire,,2026-10-19
 CIV,2025-09-11-cote-divoire-atelier-interoperabilite-sig-rsu-protection-sociale,,2026-10-19
 CIV,2026-01-01-cote-divoire-world-bank-restructuring-paper-productive-social-safety-nets-p175594,,2026-10-19
+CIV,2026-02-10-civ-cote-d-ivoire-le-delai-de-delivrance-de-la-carte-nationale-d-identite,,2026-11-07
 CIV,2026-04-03-rsu-convention-bcpfs-oneci,,2026-10-19
 CIV,2026-07-06-iom-midas-border-management-biometricupdate,,2026-10-19
 CIV,2026-10-18-civ-cybersecurite-en-cote-d-ivoire-l-anssi-la-sentinelle-du-cyberespace-ivoirien,,2026-10-19
@@ -197,6 +198,7 @@ ETH,2026-10-09-eth-biometricupdate-fayda-developer-sandbox,,2026-10-19
 ETH,2026-10-18-eth-faydaverse-begins-charging-banks-for-digital-id-verification,,2026-10-19
 ETH,2026-10-27-biometricupdate-cross-border-id,,2026-10-29
 ETH,2026-10-29-eth-dsrv-signs-mou-with-ethiopian-state-owned-enterprise-blockchain-based,,2026-11-01
+ETH,2026-11-01-eth-faydaverse-expands-beyond-national-id-registration,,2026-11-07
 GAB,2025-01-22-gabon-loi-organique-001-2025-code-electoral,,2026-10-19
 GAB,2025-08-11-jo-ga-ordonnance-0006-pr-2025-digitalisation,,2026-10-19
 GAB,2025-09-01-gabon-interieur-verifiez-inscription-liste-electorale-nip,,2026-10-19
@@ -249,6 +251,7 @@ GHA,2026-11-02-gha-nia-to-begin-enforcement-of-biometric-verification-regulation
 GHA,2026-11-02-gha-sensitive-data-must-be-hosted-on-secure-infrastructure-sam-george,,2026-11-03
 GHA,2026-11-03-citinewsroom-connecting-africas-wallets-asare-otchere-darko,,2026-11-04
 GHA,2026-11-03-gha-no-new-ghana-cards-required-under-biometric-verification-law-nia,,2026-11-04
+GHA,2026-11-05-gha-false-91-of-ghanaians-have-not-received-their-ghana-cards,,2026-11-07
 GIN,2024-11-22-guinee-pisces-x-frontieres,,2026-10-19
 GIN,2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral,,2026-10-19
 GIN,2026-06-22-decret-2026-0161-plateforme-certification-identite-sim,,2026-10-19
@@ -294,6 +297,7 @@ KEN,2025-09-01-npdm-formerly-iprs,,2026-10-19
 KEN,2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind,,2026-10-19
 KEN,2026-06-15-expands-digital-id-minors-health-biometricupdate,,2026-10-19
 KEN,2026-06-19-kenya-starlink-25000-subscribers,,2026-10-19
+KEN,2026-06-21-ken-safaricom-backed-firm-assembles-700-000-devices-in-a-year,,2026-11-07
 KEN,2026-07-18-kenya-crvs-national-id-integration-egmrg,,2026-10-19
 KEN,2026-08-29-newtimes-africanenda-regulatory-wall,,2026-10-19
 KEN,2026-08-30-integrated-population-registration-service,,2026-10-19
@@ -320,6 +324,7 @@ LBR,2026-10-16-lbr-liberiapublicradio-senate-review-52m-digital-id-concession,,2
 LBR,2026-10-16-lbr-newdawn-house-scrutinizes-52m-national-id-deal,,2026-10-19
 LBR,2026-10-19-lbr-biometricupdate-mps-scrutinize-nidcrvs-concession,,2026-10-24
 LBR,2026-10-30-lbr-house-halts-review-of-us-52m-national-id-deal-over-missing-signatures,,2026-11-03
+LBR,2026-11-02-lbr-liberia-lrrrc-sets-november-4-for-launch-of-biometric-registration-for-burkinabe,,2026-11-07
 LBR,2026-11-02-lbr-national-id-deal-under-scrutiny-over-revenue-data-security,,2026-11-03
 LBY,2024-10-01-lby-libya-dpi-map,,2026-10-23
 LBY,2025-02-01-lby-executive-summary-digital-identity-project,,2026-10-23
@@ -329,6 +334,7 @@ LBY,2026-02-19-lby-cbl-circular-6-2026-direct-foreign-remittances-arabic,,2026-1
 LBY,2026-02-19-lby-circular-6-2026-instructions-for-regulating-direct-foreign-remittances,,2026-10-27
 LBY,2026-04-19-gia-cbl-level-3-biometric-digital-identity-ekyc,,2026-10-19
 LBY,2026-07-09-gia-ly-ndex-ly-dnid-aml-information-exchange-workshop,,2026-10-19
+LBY,2026-11-05-lby-wahda-bank-picks-backbase-for-digital-banking,,2026-11-07
 LSO,2011-03-21-lesotho-national-identity-cards-act-2011,,2026-10-19
 LSO,2023-11-23-lca-final-call-for-sim-registration,,2026-10-19
 LSO,2024-01-30-iec-to-partner-home-affairs-ministry-in-seamless-database-project,,2026-10-19
@@ -341,15 +347,19 @@ LSO,2025-09-16-lso-thereporter-education-sector-lags-id-integration,,2026-10-19
 LSO,2025-10-01-econet-hoa-khonahala-terms,,2026-10-19
 LSO,2025-10-30-lso-lestimes-nikuv-sues-govt-m39m,,2026-10-19
 LSO,2025-11-17-lesotho-financial-sector-development-strategy-ii,,2026-10-19
+LSO,2026-01-07-lso-quthing-shuts-23-pension-pay-points,,2026-11-07
+LSO,2026-01-16-lso-elderly-pensioners-under-siege,,2026-11-07
 LSO,2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE,,2026-10-19
 LSO,2026-03-03-lesotho-unicef-mosip-national-id-biometricupdate,,2026-10-19
 LSO,2026-04-22-lesotho-south-africa-border-crossing-id-cards,,2026-10-19
+LSO,2026-04-24-lso-government-urges-elderly-to-utilise-electronical-devices-to-receive-gr,,2026-11-07
 LSO,2026-06-18-finmark-trust-cross-border-dpi-sadc,,2026-10-19
 LSO,2026-07-05-lso-au-hails-iec-over-election-reforms,,2026-11-05
 MAR,2022-06-01-idemia-morocco-national-digital-id-case-study,,2026-10-19
 MAR,2024-04-23-mar-massar-registration-digital-identity-learner-register,,2026-11-04
 MAR,2024-12-24 Morocco's DGSN issued 4.6 million electronic national IDs in 2024 (annual report),,2026-10-19
 MAR,2024-12-24-barlamane-dgsn-recap-cnie-2-0,,2026-10-19
+MAR,2025-02-02-mar-dgsn-national-trust-platform-32-million-ecnie,,2026-11-07
 MAR,2025-05-05 Morocco boosts digital ID for government services (DGSN–Ministry partnership),,2026-10-19
 MAR,2025-05-22-mar-id4africa-rnp-rsu-mosip-targeting,,2026-10-19
 MAR,2026-07-20-vove-id-compliance-program-african-startups,,2026-10-19
@@ -380,6 +390,7 @@ MLI,2026-07-21-abamako-mali-plateforme-e-justice-formation-utilisateurs,,2026-10
 MLI,2026-07-24-mali-conseil-des-ministres-cm-2026-29,,2026-10-19
 MOZ,"2025-08-26 SADC regional DPI initiative supports KYC, digital ID interoperability across 16 countries",,2026-10-19
 MOZ,2026-02-24 BIO-key and RunLevel Deploy Biometric IAM Across Mozambique's National Payments Network,,2026-10-19
+MOZ,2026-04-23-moz-implementation-status-results-report-digital-governance-and-economy-pr,,2026-11-07
 MRT,2019-10-07-mrt-dgi-livre-procedures-fiscales-dispositions-communes-nif,,2026-10-19
 MRT,2023-08-18-anrpts-passport-demand-20000-2020-to-94000-2023,,2026-10-19
 MRT,2024-03-05-mrt-bcm-de-nouvelles-mesures-pour-assainir-le-systeme-des-transactions,,2026-10-26
@@ -662,6 +673,7 @@ TGO,2026-01-01-tgo-ldc-infrastructure,,2026-10-19
 TGO,2026-05-01-tgo-a-gateway-to-social-and-economic-inclusion-and-public-sector-moderniza,,2026-10-23
 TGO,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital,,2026-10-21
 TGO,2026-10-22-tgo-digitalisation-agricole-le-togo-acc-l-re-la-transformation-num-rique-de-son,,2026-10-26
+TGO,2026-10-23-tgo-identification-biometrique-au-togo-1-18-million-de-cartes-attendent-en,,2026-11-07
 TUN,2020-06-10-tunisie-decret-loi-2020-31-interoperabilite-echange-electronique,,2026-10-19
 TUN,2020-10-05-tunisie-decret-gouvernemental-2020-777-interoperabilite,,2026-10-19
 TUN,2025-03-01 Tunisia drives digitization agenda forward while navigating risks,,2026-10-19

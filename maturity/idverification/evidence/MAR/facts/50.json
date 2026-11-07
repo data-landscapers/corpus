@@ -1,0 +1,27 @@
+{
+ "slug": "2025-02-02-mar-dgsn-national-trust-platform-32-million-ecnie",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The DGSN says service providers verify customers' identity against the national ID through its trust platform, offline (for example when buying a SIM card) or online by delegating verification to the DGSN.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "National Trust Platform (Plateforme Nationale de Confiance)",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The DGSN says the platform serves government, health and tax services and private sector banks, insurers and e-commerce firms, which must get DGSN authorisation.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "National Trust Platform (Plateforme Nationale de Confiance)",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

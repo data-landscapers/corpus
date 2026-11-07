@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-10-civ-cote-d-ivoire-le-delai-de-delivrance-de-la-carte-nationale-d-identite",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "ONECI states identity authentication (KYC) solutions have been set up for banks and financial institutions.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ONECI KYC identity authentication",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

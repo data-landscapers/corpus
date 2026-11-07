@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MOZ-001,MOZ,use,use,underway,"The World Bank ISR says an identity verification API from DNIC awaits feedback from institutions, with zero relying parties using the verification services at 20 March 2026 against a target of six.",2026-03-20,day,DNIC identity verification API,relying,2026-04-23-moz-implementation-status-results-report-digital-governance-and-economy-pr,https://documents1.worldbank.org/curated/en/099042226205030950/pdf/P172350-ea7be2a4-0727-4372-a851-4df42faaf183.pdf

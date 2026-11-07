@@ -1,17 +1,18 @@
 {
- "iso3": "MOZ",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "no evidence",
-   "use": "",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names another system checking people against the national ID, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "2",
+      "use": "underway",
+      "sectors": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MOZ-001",
+      "gaps": "No relying party used the verification service at March 2026, and no service in use is found checking people against the ID.",
+      "note": "The World Bank reports an identity verification API built by the identification directorate and awaiting institutions' feedback, against a target of six relying parties. With none using it in March 2026, the cell takes stage 2.",
+      "as_at": "2026-11-07"
+    }
+  ]
 }

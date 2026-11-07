@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-05-lby-wahda-bank-picks-backbase-for-digital-banking",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Wahda Bank and Backbase say business banking, going live in 2027, will let businesses open accounts online using electronic identity verification; the platform is being built.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "Backbase Banking OS at Wahda Bank",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Backbase Banking OS",
+   "country_label": "Wahda Bank digital banking platform",
+   "class": "other",
+   "platform": "Backbase",
+   "owner": "Wahda Bank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
