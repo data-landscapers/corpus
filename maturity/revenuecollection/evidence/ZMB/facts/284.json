@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-zmb-zambia-plans-10-million-more-smartphones-in-five-year-digital-push",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "Minister Felix Mutati cited the payment of road taxes through government digital platforms as an example of smartphones simplifying access to public services.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "government digital platforms",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

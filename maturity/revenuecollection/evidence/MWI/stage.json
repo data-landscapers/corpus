@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "revenue",
-      "stage": "2",
-      "payment": "underway",
+      "stage": "3",
+      "payment": "inservice",
       "main": "",
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MWI-001;MWI-002",
-      "gaps": "No source found since October 2023 says: can some taxes or fees be paid electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MWI-004",
+      "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.",
+      "note": "Reassessed on MWI-004 (June 2026): a US government guide says mobile money is used to pay public fees such as Digital ID renewals, so electronic payment is in service for some fees and the stage is 3. Nothing shows the main taxes and customs duties are, so not stage 4.",
+      "as_at": "2026-11-07"
     }
   ]
 }

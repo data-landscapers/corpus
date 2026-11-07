@@ -43,3 +43,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-04,COD,dpi.pay--revenue-collection,fact,2,3,COD-003;COD-004,Kinshasa's irms-dgrk.com (March 2026) and Tshopo's Veri-Gov (August 2026) put provincial tax payment online: some taxes paid electronically
 2026-11-04,GHA,dpi.pay--revenue-collection,fact,3,5,GHA-006;GHA-004;GHA-001,President's May 2024 figure of GHc1.6bn through Ghana.gov since 2019 answers question 4; a later yes answers the earlier ones
 2026-11-04,CIV,dpi.pay--revenue-collection,ladder,3,5,CIV-005;CIV-004,"Bill 2026-11-04, message 75: a reported figure reaches 5 without the main taxes shown; TresorPay collections; 3 to 5"
+2026-11-07,MWI,dpi.pay--revenue-collection,fact,2,3,MWI-004,"MWI-004: a US government guide (June 2026) says mobile money pays public fees such as Digital ID renewals; some fees paid electronically, stage 2 to 3"

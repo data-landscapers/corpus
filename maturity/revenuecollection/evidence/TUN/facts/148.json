@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-04-tun-ministry-of-finance-1-8-million-invoices-received-through-the-electron",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The Finance Minister told parliament's finance committees on 3 November 2026 that the ministry is developing remote payment services and digitised tax declarations, and a unified tax account for declarations and remote payment due to start in the first quarter of 2027.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "unified tax account",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "unified tax account",
+   "country_label": "Tunisia",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

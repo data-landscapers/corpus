@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-08-mwi-malawi-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The guide says mobile money is integrated into public service delivery, such as paying Digital ID renewal fees.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

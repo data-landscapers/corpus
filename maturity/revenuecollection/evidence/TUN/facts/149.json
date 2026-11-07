@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-tun-passeport-carte-didentite-permis-les-demarches-a-distance-promises-ava",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "Minister Hemissi announced on 6 November 2026 that electronic payment of municipal taxes in some municipalities and remote tax filing for individuals will launch before end 2026.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "remote tax filing and municipal tax e-payment",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

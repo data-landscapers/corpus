@@ -22,8 +22,8 @@ The AfCFTA Digital Trade Protocol asks states to accept electronic payment and e
 |---|---|
 | 5 Leading | 8 |
 | 4 Operating | 3 |
-| 3 Established | 37 |
-| 2 Nascent | 4 |
+| 3 Established | 38 |
+| 2 Nascent | 3 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 2 |
@@ -240,6 +240,12 @@ Some taxes or fees could be paid electronically in 2025; no source found reports
 
 - The Ministry of Economy and Finance says it launched SIGRNF on 9 May 2025, letting users pay non-tax government revenues 24/7 via mobile banking, with progressive nationwide rollout ([source, 2025-05-09](http://central.mef.gov.mg/page_personnalisee/index/news/1642)).
 
+### Malawi: 3 Established
+
+Some taxes or fees could be paid electronically in 2026; no source found reports the main taxes and duties.
+
+- The guide says mobile money is integrated into public service delivery, such as paying Digital ID renewal fees ([source, 2026-06-08](https://www.trade.gov/country-commercial-guides/malawi-digital-economy)).
+
 ### Mozambique: 3 Established
 
 Some taxes or fees could be paid electronically in 2023; no source found reports the main taxes and duties.
@@ -368,13 +374,6 @@ Electronic payment of taxes or fees was under way in 2025; none in service is on
 Electronic payment of taxes or fees was under way in 2026; none in service is on record.
 
 - A four-year African Development Bank grant to WATAF, launched 18 August 2026, covers Guinea-Bissau among six countries and is said to support digital tax tools and VAT and e-invoicing reforms ([source, 2026-08-18](https://www.liberianobserver.com/business/liberia-five-others-benefit-from-us-5-3m-afdb-tax-administration-project/article_09a09868-8c9e-49c2-ad5e-1dcf6a739fe8.html)).
-
-### Malawi: 2 Nascent
-
-Electronic payment of taxes or fees was under way in 2026; none in service is on record.
-
-- The Malawi Police Service introduced an electronic payment system for traffic fines, scheduled to become operational at Police Headquarters and the six police regions from the week of 4 September 2026, payable through commercial banks ([source, 2026-09](https://itweb.africa/article/malawi-police-digitises-traffic-fines/JBwEr7n3lrzM6Db2)).
-- UNCTAD's ASYCUDA Programme says the ASYCUDAWorld 4.3.3 upgrade aims at implementing e-payment for collection of Malawi Bureau of Standards fees ([source, 2023-10-20](https://asycuda.org/en/asycudaworld-upgrade-in-malawi/)).
 
 ### Equatorial Guinea: No evidence
 
