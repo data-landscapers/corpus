@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-17-sle-93-of-sierra-leone-registered-with-unique-nins",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "NCRA, the statutory authority, manages the civil registration, vital statistics and identity system in its entirety, with the eCRVS platform supported by the Government of Sierra Leone and the European Union.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "eCRVS",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

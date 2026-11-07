@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-15-nga-npc-flags-off-nationwide-digital-birth-death-registration",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "events",
+   "value": "B;D",
+   "fact": "NPC said birth and death registration moved to the digital VitalReg system from 1 July 2026 in all 36 states and the FCT, no longer on paper forms.",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "VitalReg (E-CRVS)",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "count:4011",
+   "fact": "NPC chairman said it has established 4,011 functional registration centres across the 774 Local Government Areas and aims to reach about 8,000.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "VitalReg (E-CRVS)",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "VitalReg (E-CRVS)",
+   "country_label": "Electronic Civil Registration and Vital Statistics system / VitalReg",
+   "class": "civil",
+   "platform": "VitalReg",
+   "owner": "National Population Commission",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}
