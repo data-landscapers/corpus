@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: UGA
-ledger_rows: 34
+ledger_rows: 35
 not_held: 12
-record: 0761471bd520
+record: 69a006a6938d
 ---
 
 # News, Oct – Nov 2026
@@ -543,6 +543,20 @@ Uganda's Judiciary is digitising the Chief Registrar's records on advocates and 
 **[Government Moves to Reduce Cost of Obtaining Land Titles](https://nilepost.co.ug/news/377216/government-moves-to-reduce-cost-of-obtaining-land-titles)** — Nile Post, 11 October 2026
 
 Uganda's minister of state for lands, Harriet Ntabazi, said new digital systems let land-title applicants enter their data at district level and have titles printed without travelling between offices. She said some landowners had paid more than Shs2.5 million to surveyors and land boards, and that surveyors will be registered in the ministry's database.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">URSB online registration system (OBRS, then the unified e-Registry)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[URSB launches mobile app for business registration services](https://pmldaily.com/news/2026/11/ursb-launches-mobile-app-for-business-registration-services.html)** — PML Daily, 5 November 2026
+
+URSB Connect app launched 5 Nov 2026: company and IP filings, annual returns, SIMPO chattels registry.
 
 </div>
 
