@@ -1,0 +1,15 @@
+{
+ "slug": "2025-12-01-gab-gabon-hisp-renforce-le-systeme-d-information-sanitaire-pour-une-meille",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2 logistics dashboard",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health DCSE",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes logistics indicators and training only; no national routine reporting in service is stated."
+}

@@ -62,3 +62,8 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-05,ZAF,dpi.mis--health,review,unplaced,unplaced,,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage unplaced held.
 2026-11-05,ZMB,dpi.mis--health,review,5,5,ZMB-002,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 5 held.
 2026-11-05,ZWE,dpi.mis--health,review,5,5,ZWE-004,Rebuild 2026-11-05: first-pass cell re-read against the ladder and its neighbours; stage 5 held.
+2026-11-07,AGO,dpi.mis--health,fact,3,5,AGO-001;AGO-004,"Countdown 2030 publishes national DHIS2 reporting completeness of 71% for 2025: rate published, 3 to 5"
+2026-11-07,MDG,dpi.mis--health,fact,4,5,MDG-001;MDG-006,Countdown 2030 publishes monthly facility reporting completeness of 98% for 2024 and 2025: 4 to 5
+2026-11-07,ETH,dpi.mis--health,fact,3,4,ETH-003;ETH-007,"DHIS2 profile: weekly notifiable disease surveillance integrated into the DHIS2-based PHEM system (2024): linked, 3 to 4"
+2026-11-07,CMR,dpi.mis--health,fact,unplaced,3,CMR-004,"2026 preprint: national DHIS2 takes monthly reports from all ten regions and 202 districts, changed 2024: unplaced to 3"
+2026-11-07,TCD,dpi.mis--health,fact,2,3,TCD-002,"2025 national health statistics yearbook, in validation 22 September 2026, rests on the national DHIS2 base: 2 to 3"

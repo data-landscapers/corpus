@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-21-mli-sustaining-quality-partners-earn-recognition-for-health-data-quality",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The source calls DHIS2 Mali's national health information system, to which community health centres, reference health centres and hospitals submit routine data.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

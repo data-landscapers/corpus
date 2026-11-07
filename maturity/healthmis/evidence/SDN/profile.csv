@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SDN,hmis,system,coverage,inservice,2025-12,SDN-004,SDN-003=underway;SDN-001=underway,
-SDN,hmis,linked,coverage,,,,,nothing held
+SDN,hmis,system,coverage,inservice,2026-02-16,SDN-004;SDN-005,SDN-003=underway;SDN-006=underway;SDN-001=underway,
+SDN,hmis,linked,coverage,,,,,nothing found
 SDN,hmis,completeness,coverage,published,2025-12,SDN-002,,

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-22-egy-265",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Egyptian Healthcare Authority says its health information system (HIS) is operating in 265 primary care units and 166 service facilities in the first-phase Universal Health Insurance governorates, with a pilot starting in Minya.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "Health Information System (HIS)",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "HIS",
+   "country_label": "Health Information System (HIS)",
+   "class": "hmis",
+   "platform": "",
+   "owner": "Egyptian Healthcare Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

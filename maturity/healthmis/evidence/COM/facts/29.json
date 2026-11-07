@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-08-com-hisp-rwanda-accompagne-les-comores-vers-une-approche-one-health-grace",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SNIS/DHIS2",
+   "country_label": "SNIS/DHIS2",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "ministry",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a retreat prioritising climate indicators for the SNIS/DHIS2; no statement on national service, links or completeness."
+}

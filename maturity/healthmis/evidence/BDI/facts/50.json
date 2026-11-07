@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-bdi-burundi-2026-cam-report-synthesis",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Burundi report presents routine DHIS2 data from the national health information system (SNIS) for 2020-2025, with its annual data quality score rising from 67 to 91 and national reporting completeness at 96% in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "SNIS (DHIS2)",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "completeness",
+   "value": "published",
+   "fact": "The report gives national completeness of monthly facility reporting at 96% in 2025 and 84% of districts at 90% or more.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "SNIS (DHIS2)",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SNIS (DHIS2)",
+   "country_label": "SNIS Burundi",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Public Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

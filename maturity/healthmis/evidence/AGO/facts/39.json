@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-ago-synthesis-report-angola",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Countdown 2030 report says national routine facility reports run through DHIS2 in Angola, whose 2020-2021 implementation lowered data quality; it gives national completeness of 71% of expected monthly facility reports in 2025, with private sector not reporting and gaps in several provinces.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "DHIS2",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "completeness",
+   "value": "published",
+   "fact": "The report gives national completeness of monthly facility reporting as 71% of expected reports in 2025, 120% in 2024, and 24% of districts at 90% or more in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "DHIS2 Angola",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-06-tza-m-mama-emergency-referral-costs-mobile-money",
+ "facts": [],
+ "systems": [
+  {
+   "system": "M-Mama",
+   "country_label": "M-Mama emergency referral dispatch platform",
+   "class": "other",
+   "platform": "",
+   "owner": "state ownership transition",
+   "tiers": ""
+  }
+ ],
+ "note": "An emergency dispatch platform, not the national health reporting system."
+}

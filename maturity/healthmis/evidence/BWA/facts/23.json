@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-22-bwa-botswana-strengthens-malaria-surveillance-systems-to-accelerate-elimin",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "WHO said Botswana's Ministry of Health chose DHIS2 as its mainstay aggregate reporting tool and WHO experts trained informatics staff in November 2024 to run it.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

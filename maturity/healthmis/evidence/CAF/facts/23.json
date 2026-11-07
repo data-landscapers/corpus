@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-07-caf-hisp-wca-revitalisation-snis-dhis2",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "HISP WCA says Central African Republic began implementing DHIS2 for its national health information system in 2022, first in five pilot districts, with training extended to all districts in March 2022, and delays, power and internet cuts hampering it.",
+   "as_of": "2022-03",
+   "date_precision": "month",
+   "system": "DHIS2 (SNIS)",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Central African Republic",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

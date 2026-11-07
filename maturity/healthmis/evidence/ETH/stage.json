@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hmis",
-      "stage": "3",
+      "stage": "4",
       "system": "inservice",
-      "linked": "",
+      "linked": "linked",
       "completeness": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-003;ETH-001",
-      "gaps": "No source found since October 2023 says the system is linked to surveillance, supply chain or a register.",
-      "note": "The DHIS2-based national HMIS reached all 30,000+ public facilities by 2024. No link or reporting rate is held.",
-      "as_at": "2026-11-05"
+      "stage_sources": "ETH-003;ETH-007",
+      "gaps": "No source found since October 2023 gives the system's reporting completeness or timeliness.",
+      "note": "The national DHIS2 reached all 30,000+ public facilities by 2024, and weekly notifiable disease surveillance data are integrated into the DHIS2-based emergency system. No reporting rate is published, so not 5.",
+      "as_at": "2026-11-07"
     }
   ]
 }

@@ -1,8 +1,11 @@
 iso3,source_slug,read,merged_on
+AGO,2024-03-05-ago-angola-desenvolve-plano-estrategico-do-sistema-de-informacao-sanitaria,,2026-11-07
 AGO,2025-01-01-ago-anuario-estatistico-da-educacao-2022-2023-med,,2026-10-22
 AGO,2025-11-30-worldbank-icr-redisse-iv-health-surveillance,,2026-10-19
 AGO,2026-01-01-ago-asycuda-operational-launch-asy5,,2026-10-19
+AGO,2026-01-01-ago-synthesis-report-angola,,2026-11-07
 AGO,2026-04-07-dhis2-angola-parceria-hisp-uio-oms-integracao-sistema-informacao-sanitaria,,2026-10-19
+AGO,2026-07-16-ago-angola-apresenta-estrategia-de-transformacao-digital-da-saude-na-oms,,2026-11-07
 AGO,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
 AGO,2026-10-28-novojornal-31-mil-funcionarios-fantasma-singerh-maptss,,2026-10-31
 AGO,2026-11-04-ago-agt-pretende-integrar-dois-milhoes-de-contribuintes-no-sistema-de-facturacao,,2026-11-06
@@ -10,6 +13,7 @@ BDI,2022-01-01-bdi-minisante-guide-analyse-revue-donnees-snis,,2026-10-19
 BDI,2024-01-01-crs-2-2024010153-2024-appui-au-systeme-national-d-information-sanitaire,,2026-11-06
 BDI,2024-06-25-bdi-undp-verification-donnees-tuberculose-dhis2,,2026-10-19
 BDI,2025-08-01-bdi-minisante-annuaire-statistiques-sanitaires-2024,,2026-10-19
+BDI,2026-01-01-bdi-burundi-2026-cam-report-synthesis,,2026-11-07
 BDI,2026-02-06-state-bdi-afghs-data-systems-2026-record,,2026-10-19
 BDI,2026-03-16-mininter-vers-une-solution-numerique-innovante-production-gestion-donnees,,2026-10-19
 BDI,2026-03-31-bluesquare-structurer-utilisation-donnees-lutte-paludisme-burundi,,2026-10-19
@@ -19,6 +23,7 @@ BDI,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10
 BEN,2023-11-22-pshpa-trains-private-health-facilities-rmnch-dhis2,,2026-10-19
 BEN,2026-02-13-ben-lamarina-tcc-trois-e-services,,2026-10-22
 BEN,2026-03-03-ben-iaso-georegistre-carte-sanitaire,,2026-10-19
+BEN,2026-03-08-tgo-waho-initie-la-mise-en-uvre-du-partage-automatise-des-donnees-de-sante,,2026-11-07
 BEN,2026-03-26-labbook-3-6-dhis2,,2026-10-19
 BEN,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
 BFA,2024-12-30-bfa-faso7-jsena-statistiques-education-sige,,2026-10-22
@@ -28,24 +33,30 @@ BFA,2026-07-01-bfa-analyse-et-utilisation-des-donnees-sanitaires-les-districts-d
 BFA,2026-07-03-bfa-donnees-sanitaires-enabel-accompagne-le-burkina-faso-dans-la-mise-en-u,,2026-10-19
 BFA,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
 BFA,2026-10-03-bfa-jeppc-2026-le-ministre-sana-presente-les-acquis-dans-la-modernisation,,2026-10-22
+BWA,2024-11-22-bwa-botswana-strengthens-malaria-surveillance-systems-to-accelerate-elimin,,2026-11-07
 BWA,2025-11-20-motshegwa-medicine-shortage-rural-health-digital,,2026-10-19
 BWA,2026-05-27-who-botswana-biennial-report-2024-2025,,2026-10-19
 BWA,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
 BWA,2026-10-21-bwa-botswana-explores-ai-integration-into-national-health-insurance,,2026-10-29
+CAF,2024-08-07-caf-hisp-wca-revitalisation-snis-dhis2,,2026-11-07
 CAF,2025-11-30-worldbank-icr-redisse-iv-health-surveillance,,2026-10-19
 CAF,2025-12-01-impulse-erhis-newborn-data-functionalities,,2026-10-19
+CAF,2026-01-01-caf-dossier-special-mpa-sante-emploi-suite,,2026-11-07
 CAF,2026-03-12-vaccination-microplanning-digitalisation-hisprwanda,,2026-10-19
 CAF,2026-03-18-hisprwanda-emr-digitizing-hospital-care-car,,2026-10-19
 CAF,2026-05-26-dhis2-community-snis-reconstruction-rca,,2026-10-19
 CAF,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
+CAF,2026-10-15-caf-surveillance-des-maladies-linstitut-pasteur-de-bangui-renforce-ses-cap,,2026-11-07
 CIV,2024-04-15-civ-leveraging-dhis2-data-to-create-ai-driven-health-facility-forecasts-in,,2026-10-22
 CIV,2025-09-12-mhealth-dhis2-interoperabilite-cote-divoire,,2026-10-19
 CIV,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
 CIV,2026-10-16-civ-la-cote-d-ivoire-deploie-mhealth-one-la-version-de-mhealth-integrant-l,,2026-10-22
 CMR,2023-03-20-cmr-minsante-bulletin-epidemiologique-annuel-2022,,2026-10-19
 CMR,2024-06-06-cmr-emis-operationalization-new-it-hardware-for-the-nsi,,2026-11-03
+CMR,2024-06-12-cmr-minsante-l-architecture-de-la-sante-numerique-se-dessine,,2026-11-07
 CMR,2025-04-08-cmr-minsante-registres-ameliores-dhis2,,2026-10-19
 CMR,2025-11-11 Assessing the landscape of digital health implementation for data services in Cameroon,,2026-10-19
+CMR,2026-01-01-cmr-restructuring-national-health-information-system-software-to-improve-m,,2026-11-07
 CMR,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
 CMR,2026-08-01-pandemic-fund-cmr-2026-record,,2026-10-19
 CMR,2026-08-27-cmr-etat-civil-au-cameroun-9-deces-sur-10-non-declares-par-an,,2026-10-29
@@ -73,15 +84,21 @@ COG,2026-10-28-cog-talangai-lancement-de-la-formation-des-relais-communautaires-
 COM,2023-12-07-com-afd-pagf-si-systeme-information,,2026-10-19
 COM,2025-10-31-dhis2-comores-supply-chain-management-open-msupply,,2026-10-19
 COM,2026-02-02-alwatwan-bulletin-unique-taux-adhesion-e-msomo,,2026-10-29
+COM,2026-04-08-com-hisp-rwanda-accompagne-les-comores-vers-une-approche-one-health-grace,,2026-11-07
 COM,2026-05-11-dhis2-community-ai-predictive-epidemiology-malaria-comoros,,2026-10-19
+COM,2026-05-21-com-strengthening-vaccination-data-use-culture-integration-of-dvd-mt-into,,2026-11-07
 COM,2026-06-17-com-hisp-rwanda-tot-vaccination-surveillance,,2026-10-19
 COM,2026-07-01-dhis2-comores-climate-health-country-profile,,2026-10-19
 COM,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
 COM,2026-10-30-com-lagazette-sante-et-numerique-onze-projets,,2026-10-31
+CPV,2023-12-21-cpv-ccssida-entrega-a-direcao-nacional-da-saude-equipamentos-informaticos,,2026-11-07
+CPV,2025-08-18-cpv-who-and-ministry-of-health-partnership-drives-modernization-of-the-dea,,2026-11-07
+CPV,2026-02-02-cpv-termos-de-referencia-tdr-consultor-nacional-para-revisao-da-arquitetur,,2026-11-07
 CPV,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
 CPV,2026-09-04-cabo-verde-ida-health-digital-tools-tender,,2026-10-19
 DJI,2025-04-14-who-management-response-djibouti-evaluation,,2026-10-19
 DJI,2025-04-19-worldbank-p178033-isr-djibouti-health-system-strengthening,,2026-10-19
+DJI,2025-06-01-dji-hiv-tb-tracker-launch-in-djibouti,,2026-11-07
 DJI,2026-02-08-dji-strengthening-the-governance-of-gender-based-violence-data-integrating,,2026-10-19
 DJI,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
 DZA,2025-10-18-dz-aps-dossier-electronique-patient,,2026-10-31
@@ -92,10 +109,14 @@ DZA,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10
 DZA,2026-07-26-dza-interlignes-dme-deploiement-69-wilayas,,2026-10-19
 DZA,2026-09-08-dza-elwatan-dme-deadline-15-november,,2026-10-19
 DZA,2026-10-29-dza-numerisation-du-secteur-de-la-sante-plus-de-2-355-structures-raccordee,,2026-10-31
+EGY,2024-01-01-egy-egypt-deploys-dhis2-for-emergency-and-humanitarian-response,,2026-11-07
 EGY,2024-02-07-egy-cabinet-payroll-automation-status,,2026-10-19
 EGY,2025-10-08-egy-eta-unified-wage-tax-platform-employee-portal,,2026-10-29
+EGY,2025-11-18-egy-mohp-unified-electronic-health-record-d8-health-ministers,,2026-11-07
 EGY,2026-01-27 Egypt launches DHIS2 in its national health information system,,2026-10-19
+EGY,2026-07-22-egy-265,,2026-11-07
 EGY,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
+EGY,2026-10-15-egy-uhia-unified-health-platform-under-study,,2026-11-07
 ERI,2024-01-01-eritrea-who-uhc-dhis2-rollout,,2026-10-19
 ERI,2024-03-13-dhis2-eritrea-connectivity,,2026-10-19
 ERI,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
@@ -103,14 +124,19 @@ ETH,2023-11-08-crs-1601-2023010475-01-2023-dup-2-0-workstream-2-2-digital-tools-
 ETH,2023-11-08-iati-dac-1601-inv-046277-dup-2-0-workstream-2-2-digital-tools-and-data-use-capabiliti,,2026-11-06
 ETH,2024-01-01-crs-302-2024001866-2024-global-aids-technical-assistance-to-strengthen-hea,,2026-11-06
 ETH,2024-10-08-eth-insa-e-invoice-system,,2026-10-19
+ETH,2024-10-24-eth-strengthening-ethiopia-s-health-information-system-a-journey-to-unifie,,2026-11-07
 ETH,2025-01-01-ethiopia-dhis2-implementation,,2026-10-19
 ETH,2025-02-28 Enhancing healthcare performance in Ethiopia using DHIS2,,2026-10-19
 ETH,2025-11-13-ethiopia-launches-dhis2-for-education,,2026-10-19
 ETH,2025-12-01-impulse-erhis-newborn-data-functionalities,,2026-10-19
+ETH,2026-01-01-eth-ethiopia-dhis2,,2026-11-07
+ETH,2026-02-01-eth-scope-of-work-february-2026,,2026-11-07
 ETH,2026-04-11-eth-ministry-rolls-out-ai-tool-to-support-frontline-health-workers-in-remo,,2026-10-22
 ETH,2026-05-28-plos-one-echis-maternal-child-health-impact-study,,2026-10-19
 ETH,2026-09-19-eth-bmchsr-dhis2-data-utilization-harari-dire-dawa,,2026-10-19
+GAB,2024-12-06-gab-sante-lancement-de-la-plateforme-dhis2-pour-un-suivi-sanitaire-amelior,,2026-11-07
 GAB,2025-06-03-dhis2-officially-launched-gabon,,2026-10-19
+GAB,2025-12-01-gab-gabon-hisp-renforce-le-systeme-d-information-sanitaire-pour-une-meille,,2026-11-07
 GAB,2025-12-04-gab-undp-atelier-digitalisation-actes-judiciaires,,2026-10-22
 GAB,2026-03-09-gab-gabonmailinfos-copil-projet-justice,,2026-10-22
 GAB,2026-06-18-gabon-premier-pays-afrique-francophone-dhis2-tracker,,2026-10-19
@@ -150,6 +176,7 @@ GMB,2025-08-29-gmb-how-the-gambia-is-modernizing-education-data-insights-from-th
 GMB,2025-12-22 Smart Paper Technology is Transforming Community Health Data Capture in The Gambia,,2026-10-19
 GMB,2026-01-28-gmb-thepoint-cj-legal-year-case-management,,2026-10-22
 GMB,2026-01-30 The Gambia charts a path to data-driven education with DHIS2,,2026-10-19
+GMB,2026-03-08-tgo-waho-initie-la-mise-en-uvre-du-partage-automatise-des-donnees-de-sante,,2026-11-07
 GMB,2026-03-27-gmb-ungm-undp-integrated-dcms-rfp,,2026-10-31
 GMB,2026-04-02-eeas-eu-supports-digital-tracking-system-rf-ndp,,2026-10-19
 GMB,2026-05-04-gpe-kix-study-tour-education-data-system,,2026-10-19
@@ -193,6 +220,7 @@ LBR,2025-08-01-lbr-moh-achievements-2024-2025-his-dhis2,,2026-10-19
 LBR,2025-09-04-lbr-thenews-africa-cdc-hie-maturity-assessment,,2026-10-19
 LBR,2025-10-01-iped-liberia-emis-peer-review,,2026-10-19
 LBR,2025-12-09-state-lbr-afghs-data-systems-2025-record,,2026-10-19
+LBR,2026-03-08-tgo-waho-initie-la-mise-en-uvre-du-partage-automatise-des-donnees-de-sante,,2026-11-07
 LBR,2026-04-03-lbr-mdpi-digital-vaccination-registry-dhis2,,2026-10-19
 LBR,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
 LBR,2026-10-07-iati-gb-gov-1-400199-411-cross-regulatory-digital-governance-south-africa,,2026-10-31
@@ -203,6 +231,7 @@ LBR,2026-10-31-iati-xm-dac-41114-output-01003119-nga-timbuktoo-fintech,,2026-11-
 LBY,2024-04-02-lby-afdb-gpn-si-ifmis,,2026-10-19
 LBY,2025-08-25-lby-libyaherald-asycuda-full-launch,,2026-10-22
 LBY,2025-09-30-lby-expertisefrance-judicial-digitalisation-case-management,,2026-10-22
+LBY,2025-11-07-lby-lana-moh-who-dhis2-health-information-systems,,2026-11-07
 LBY,2025-11-07-libya-who-national-digital-health-system,,2026-10-19
 LBY,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
 LBY,2026-10-27-lby-health-minister-chairs-consultative-meeting-on-2026-2030-health-digital-tr,,2026-10-29
@@ -222,16 +251,22 @@ MAR,2026-10-22-mar-bill-52-26-digitizing-healthcare-but-why,,2026-10-29
 MAR,2026-11-04-mar-495109-ouahbi-8-millions-de-dossiers-judiciaires-repertories-en-trois,,2026-11-06
 MAR,2026-11-04-mar-hespress-wahbi-banks-electronic-payment-1834575,,2026-11-06
 MDG,2024-05-21-msh-mobile-app-health-delivery-rural-madagascar,,2026-10-19
+MDG,2025-05-22-mdg-madagascar-et-le-hisp-uio-s-associent-pour-lancer-l-initiative-numeriq,,2026-11-07
 MDG,2025-06-04-mdg-commerce-exterieur-gasynet-rapporte-un-delai-moyen-de-dedouanement-red,,2026-10-29
 MDG,2025-10-07-mtomady-dhis2-interoperability,,2026-10-19
+MDG,2026-01-01-mdg-madagascar-2026-cam-report-synthesis,,2026-11-07
 MDG,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
+MDG,2026-10-01-mdg-hisp-centre-completes-dhis2-system-strengthening-support-in-madagascar,,2026-11-07
 MDG,2026-10-26-mdg-wearetech-mpianatra-school-management-platform,,2026-10-29
+MLI,2024-05-21-mli-sustaining-quality-partners-earn-recognition-for-health-data-quality,,2026-11-07
 MLI,2025-05-27-mli-apanews-quatre-plateformes-numeriques,,2026-10-22
 MLI,2025-09-19-muso-integrated-efficient-health-information-ecosystem,,2026-10-19
 MLI,2026-01-01-mali-insp-disk-mali-asc-notification-perinatal-deaths-births,,2026-10-19
+MLI,2026-03-20-mli-evaluation-of-data-quality-and-effective-use-of-dhis2-in-monitoring-ma,,2026-11-07
 MLI,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
 MOZ,2023-12-18-crs-301-20230103130001-2023-empowering-districts-and-schools-with-data-a-digit,,2026-11-06
 MOZ,2023-12-31-iati-xm-dac-301-2-110313-001-empowering-districts-and-schools-with-data-a-digital-platfor,,2026-11-06
+MOZ,2024-07-24-moz-epts-centralization-in-mozambique-transforming-provincial-health-data,,2026-11-07
 MOZ,2024-08-23-moz-mozambique-to-have-a-public-security-management-information-system-wat,,2026-10-22
 MOZ,2025-01-01-building-responsive-emis-policies-robust-education-data,,2026-10-19
 MOZ,2025-01-01-misau-plano-melhoria-qualidade-dados-2025-2029,,2026-10-19
@@ -242,9 +277,12 @@ MOZ,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10
 MOZ,2026-08-03-moz-mocambique-dhis2-clima-e-saude,,2026-10-22
 MOZ,2026-08-28-sisma-interoperability-platform,,2026-10-19
 MRT,2025-01-01-mrt-rapport-d-analyse-analyse-des-indicateurs-de-sante-reproductive-matern,,2026-10-19
+MRT,2025-07-22-mrt-elhadeth-snis-dhis2-data-review-workshop,,2026-11-07
 MRT,2025-11-19-mrt-strengthening-the-use-of-srmnia-nutrition-data-for-action-in-mauritani,,2026-10-19
 MRT,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
+MRT,2026-10-13-mrt-bluesquare-health-system-interoperability-lessons,,2026-11-07
 MRT,2026-10-24-mrt-ami-health-and-digital-transformation-ministers-digitise-new-health-centres,,2026-10-29
+MRT,2026-10-27-mrt-how-many-systems-is-your-national-health-program-really-connecting,,2026-11-07
 MUS,2024-01-29-mus-undp-one-patient-one-record-launch,,2026-10-19
 MUS,2025-03-05-mus-undp-digital-health-architecture-blueprint,,2026-10-19
 MUS,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
@@ -265,6 +303,7 @@ MWI,2026-10-12-mwi-mra-ataf-tax-administration-data-improvements,,2026-11-06
 MWI,2026-10-29-mwi-how-can-education-systems-build-education-data-systems-that-enable-bet,,2026-11-06
 MWI,2026-10-30-xss-path-digital-records-intelligent-primary-health-care,,2026-11-03
 NAM,2024-10-04-nam-u-s-cdc-namibia,,2026-10-19
+NAM,2025-01-01-nam-namtac,,2026-11-07
 NAM,2025-06-01-nam-namibia-analysis-report-2025-analysis-of-reproductive-maternal-newborn,,2026-10-19
 NAM,2025-06-13-nam-cpbn-eoi-ifms-support-five-years,,2026-10-19
 NAM,2025-09-08-nam-finance-ministry-to-end-payroll-deduction-system-for-civil-servants,,2026-10-29
@@ -282,16 +321,19 @@ NER,2025-09-04-openhexa-niger-interoperabilite-sante,,2026-10-19
 NER,2026-07-08-anp-sante-numerique-schema-directeur-e-sante,,2026-10-19
 NER,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
 NER,2026-08-13-datafi-linkedin-niger-dhis2-interoperabilite,,2026-10-19
+NER,2026-09-30-ner-connecting-niger-s-health-information-systems,,2026-11-07
 NGA,2025-01-07-nga-businessday-bodogwu-ucms-ai,,2026-10-22
 NGA,2025-05-30-dhis2-school-reporting-edo-state,,2026-10-19
 NGA,2025-06-01-nga-nhmis-bulletin-june-2025-edition,,2026-10-19
 NGA,2025-06-04-nga-edo-data-for-governance-project,,2026-10-22
+NGA,2025-06-04-nga-fg-rallies-stakeholders-to-build-national-digital-health-backbone,,2026-11-07
 NGA,2025-08-25-nga-thenation-bodogwu-national-single-window,,2026-10-22
 NGA,2026-07-05 Post by DHIS2 on LinkedIn,,2026-10-19
 NGA,2026-08-02-adebowale-open-weights-prosperity-opening-for-africa,,2026-10-19
 NGA,2026-08-14-nga-nigeria-launches-nationwide-education-data-system-reaching-more-than-4,,2026-10-19
 NGA,2026-10-21-nga-fg-moves-to-regulate-ai-use-in-healthcare,,2026-10-29
 NGA,2026-11-04-nga-google-org-backs-helium-health-with-2-5-million-grant-to-scale-ai-powered-matern,,2026-11-06
+RWA,2024-04-01-rwa-assessment-and-exploratory-analysis-of-indicator-based-surveillance-ib,,2026-11-07
 RWA,2025-04-03-rwanda-health-intelligence-center-launch,,2026-10-19
 RWA,2026-01-01 Digital Public Goods Alliance,,2026-10-19
 RWA,2026-01-01-rwa-rwanda-digital-health-case-study,,2026-10-22
@@ -301,6 +343,8 @@ RWA,2026-04-23 Health Data Without Continuity Why Electronic Health Records Stil
 RWA,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
 SDN,2025-12-01-sudan-health-information-systems-needs-limitations,,2026-10-19
 SDN,2026-02-10-sudan-health-ministry-digital-transformation-year,,2026-10-19
+SDN,2026-02-16-sdn-sudan-has-launched-a-five-year-digital-health-transformation-strategy,,2026-11-07
+SDN,2026-05-11-sdn-ministries-of-health-and-digital-transformation-launch-the-first-phase,,2026-11-07
 SDN,2026-05-11-sudan-health-sector-digitalization-hms-launch,,2026-10-19
 SDN,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
 SDN,2026-08-04-signing-of-contract-to-implement-digital-transformation-project-judiciary-national-technical-company,,2026-10-19
@@ -312,6 +356,7 @@ SEN,2024-01-01-dhis2-education-senegal,,2026-10-19
 SEN,2024-01-01-sen-digitalisation-de-certains-systemes-et-services-de-sante,,2026-10-19
 SEN,2024-02-02-sen-osiris-dossier-patient-unique-partage,,2026-10-19
 SEN,2025-01-01-sen-rapport-d-analyse-analyse-des-indicateurs-de-sante-reproductive-matern,,2026-10-19
+SEN,2025-06-17-sen-docteur-tidjane-gadjaga-le-niveau-de-completude-des-donnees-est-passe,,2026-11-07
 SEN,2025-08-24-sen-tresor-public-vers-un-systeme-integre-de-gestion-financiere-et-comptab,,2026-10-29
 SEN,2025-09-23-msas-revue-systematique-ia-information-sanitaire,,2026-10-19
 SEN,2026-01-01-sen-dgid-sentax-teledeclaration-immatriculation,,2026-10-22
@@ -327,6 +372,7 @@ SLE,2025-01-01-sle-analysis-report-2025-analysis-of-reproductive-maternal-newbor
 SLE,2025-04-06-sle-sierraeye-chief-justice-kamanda-vision,,2026-10-19
 SLE,2025-09-25-sle-sierra-leone-concludes-inaugural-workshop-on-institutionalizing-medica,,2026-10-29
 SLE,2026-01-20-sierra-leone-moh-launches-health-information-hub,,2026-10-19
+SLE,2026-03-08-tgo-waho-initie-la-mise-en-uvre-du-partage-automatise-des-donnees-de-sante,,2026-11-07
 SLE,2026-04-07-sierra-leone-mbsse-dhis2-national-education-data-hub,,2026-10-19
 SLE,2026-06-22-sle-penn-today-healthcare-logistics-ai,,2026-10-19
 SLE,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
@@ -340,9 +386,11 @@ SSD,2024-09-25-gmb-semis-a-holistic-solution-for-student-staff-and-school-manage
 SSD,2025-02-01-who-his-maturity-assessment-south-sudan,,2026-10-19
 SSD,2026-03-01-undp-msupply-elmis-dhis2-integration,,2026-10-19
 SSD,2026-04-20-dhis2-boma-health-worker-tracker-pilot,,2026-10-19
+SSD,2026-05-01-ssd-evaluating-the-role-of-the-health-information-system-infrastructure-in,,2026-11-07
 SSD,2026-07-01-south-sudan-dhis2-climate-and-health-country-profile,,2026-10-19
 SSD,2026-08-05-south-sudan-launches-new-education-in-emergencies-data-system,,2026-10-19
 STP,2024-01-01-stp-em-powered-by-openimis-the-island-nation-sao-tome-and-principe-is-effe,,2026-11-06
+STP,2024-01-23-stp-sistema-de-informacao-da-saude-realiza-sessoes-de-formacao-de-capacita,,2026-11-07
 STP,2025-06-01-stp-asycuda-asycudaworld-4-4-migration,,2026-10-22
 STP,2025-07-30-stp-saudigitus-camada-interoperabilidade-sis,,2026-10-19
 STP,2026-04-29-sao-tome-pnud-avaliacao-sistema-informacao-saude,,2026-10-19
@@ -376,6 +424,7 @@ TCD,2025-02-14-tcd-unesco-outils-gestion-enseignants-sahel,,2026-10-19
 TCD,2025-11-30-worldbank-icr-redisse-iv-health-surveillance,,2026-10-19
 TCD,2026-04-02-vacci360-projette-de-renforcer-la-couverture-vaccinale,,2026-10-19
 TCD,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
+TCD,2026-09-22-tcd-l-annuaire-des-statistiques-sanitaires-du-tchad-2025-en-validation,,2026-11-07
 TCD,2026-10-21-tcd-num-rique-le-pastoralisme-tchadien-entame-sa-r-volution-digitale-avec-l-app,,2026-10-29
 TCD,2026-10-30-tcd-lendjampost-education-nationale-le-numerique-pour-mieux-gerer-les-agents,,2026-11-03
 TGO,2023-12-18-crs-301-20230103130003-2023-empowering-districts-and-schools-with-data-a-digit,,2026-11-06
@@ -386,11 +435,13 @@ TGO,2024-11-19 HISP WCA develops DHIS2 EMIS for education data analysis and visu
 TGO,2025-01-01-gpe-kix-togo-emis-dhis2-schools-districts,,2026-10-19
 TGO,2025-02-04-tgo-tclome-syscom-procedures-commerciales,,2026-10-19
 TGO,2025-04-17-tgo-togo-autonomiser-les-ecoles-et-les-districts-a-l-aide-de-donnees,,2026-11-03
+TGO,2026-03-08-tgo-waho-initie-la-mise-en-uvre-du-partage-automatise-des-donnees-de-sante,,2026-11-07
 TGO,2026-05-04-gpe-kix-study-tour-education-data-system,,2026-10-19
 TGO,2026-07-03-tgo-justice-tgi-lome-paiement-numerique,,2026-10-19
 TGO,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
 TGO,2026-08-04-dhis2-hisp-highlights-juillet-2026-erdqa-togo,,2026-10-19
 TGO,2026-08-04-dhis2-togo-climate-health-country-profile,,2026-10-19
+TGO,2026-09-01-tgo-togo-consolidation-et-harmonisation-des-donnees-de-sante-dans-le-dhis2,,2026-11-07
 TGO,2026-10-26-tgo-togo-4-consultants-recherches-pour-preparer-la-passation-electronique,,2026-10-31
 TUN,2024-04-15-tun-assessing-the-maturity-level-of-the-hospital-information-system-in-sel,,2026-10-19
 TUN,2024-07-03-tun-unicef-cims-data-centre-evax,,2026-10-19
@@ -404,6 +455,7 @@ TZA,2025-11-25-tanzania-kuendelea-kutumia-takwimu-kuboresha-huduma-za-afya,,2026
 TZA,2025-12-01-impulse-erhis-newborn-data-functionalities,,2026-10-19
 TZA,2026-08-28-moh-ehealth-services-dhis2-hrhis-hfr,,2026-10-19
 TZA,2026-09-30-tza-mediawireexpress-who-controls-health-data,,2026-10-19
+TZA,2026-11-06-tza-m-mama-emergency-referral-costs-mobile-money,,2026-11-07
 UGA,2023-12-18-crs-301-20230103130002-2023-empowering-districts-and-schools-with-data-a-digit,,2026-11-06
 UGA,2023-12-31-iati-xm-dac-301-2-110313-001-empowering-districts-and-schools-with-data-a-digital-platfor,,2026-11-06
 UGA,2025-09-09-uga-vectorcam-project-makerere-johns-hopkins-and-moh-to-scale-up-ai-powere,,2026-10-22
@@ -431,6 +483,7 @@ ZMB,2025-04-01-zambia-digital-health-case-study,,2026-10-19
 ZMB,2025-11-21-zambia-zm-core-fhir-implementation-guide,,2026-10-19
 ZMB,2026-02-25 US accused of 'shameless exploitation' over proposed Zambian health aid deal,,2026-10-19
 ZMB,2026-02-26 Zambia rejects U.S. health aid over mining partnership ties,,2026-10-19
+ZMB,2026-07-01-zmb-leveraging-a-dhis2-based-ecosystem-to-improve-health-data-management-a,,2026-11-07
 ZMB,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19
 ZMB,2026-07-30-world-insights-us-health-aid-meets-resistance-across-africa,,2026-10-19
 ZMB,2026-09-01-zmb-auditor-general-report-2025-companion,,2026-10-22
@@ -442,4 +495,5 @@ ZMB,2026-10-20-zmb-zambia-advances-customs-system-upgrade-to-improve-trade-proce
 ZWE,2025-01-01-zwe-analysis-of-reproductive-maternal-newborn-child-and-adolescent-health,,2026-10-19
 ZWE,2025-01-01-zwe-integration-and-interoperability-of-impilo-electronic-health-record-eh,,2026-10-19
 ZWE,2025-08-01-global-fund-zimbabwe-digital-health-case-study,,2026-10-19
+ZWE,2026-06-30-zwe-improving-reporting-of-morbidity-and-cause-of-death-in-zimbabwe-with-d,,2026-11-07
 ZWE,2026-07-23-ictworks-african-national-digital-health-strategies-2026,,2026-10-19

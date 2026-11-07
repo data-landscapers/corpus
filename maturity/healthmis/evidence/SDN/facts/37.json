@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-16-sdn-sudan-has-launched-a-five-year-digital-health-transformation-strategy",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "A General Administration of Information director calls the DHIS2-based health information system the backbone of the country, and the WHO representative cites improved information coverage achieved during the war.",
+   "as_of": "2026-02-16",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

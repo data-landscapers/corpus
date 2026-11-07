@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-eth-ethiopia-dhis2",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The DHIS2 profile says that as of 2024 DHIS2 data collection covered all of Ethiopia's 30,000+ public health facilities, giving routine data on health services and outcomes.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "DHIS2",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The profile says weekly notifiable disease surveillance data has been integrated into the DHIS2-based Public Health Emergency Management (PHEM) system.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "PHEM (DHIS2-based)",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

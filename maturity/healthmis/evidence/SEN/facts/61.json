@@ -1,0 +1,27 @@
+{
+ "slug": "2025-06-17-sen-docteur-tidjane-gadjaga-le-niveau-de-completude-des-donnees-est-passe",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Since January 2025 all districts have begun entering health data on the national platform, says the ministry's health information division head.",
+   "as_of": "2025-06-17",
+   "date_precision": "day",
+   "system": "dedicated health data platform",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "completeness",
+   "value": "published",
+   "fact": "Ministry official Tidjane Gadjaga says health data completeness rose from under 30% to 80% after unions lifted their data retention in January 2025.",
+   "as_of": "2025-06-17",
+   "date_precision": "day",
+   "system": "dedicated health data platform",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

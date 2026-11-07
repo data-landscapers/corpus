@@ -1,2 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 EGY,DHIS2,Egypt,hmis,DHIS2,Ministry of Health and Population,,2026-01-27 Egypt launches DHIS2 in its national health information system
+EGY,HIS,Health Information System (HIS),hmis,,Egyptian Healthcare Authority,,2026-07-22-egy-265
+EGY,Insurance Management System,Egypt,other,,Universal Health Insurance Authority,five UHI governorates,2026-10-15-egy-uhia-unified-health-platform-under-study

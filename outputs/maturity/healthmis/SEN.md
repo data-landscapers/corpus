@@ -6,7 +6,7 @@
 
 **Linked.** [In May 2026 the ministry said the national DHIS2 platform now covers epidemiological surveillance and the supply chain](<https://apps.who.int/gb/statements/WHA79/PDF/Senegal-12.10.pdf>). [It also covers human resources and maternal and perinatal death surveillance](<https://apps.who.int/gb/statements/WHA79/PDF/Senegal-12.10.pdf>).
 
-**Reporting rate published.** [In 2024, 57% of districts reached report completeness of 90% or more for antenatal care and delivery in DHIS2](<https://www.countdown2030.org/wp-content/uploads/2025/09/SENEGAL-Chartbook-Report-CAM-2025.pdf-FINAL.pdf>). [The overall data-quality score was 63% that year](<https://www.countdown2030.org/wp-content/uploads/2025/09/SENEGAL-Chartbook-Report-CAM-2025.pdf-FINAL.pdf>). [The DHIS2 data cover reproductive, maternal, newborn, child and adolescent health](<https://www.countdown2030.org/wp-content/uploads/2025/09/SENEGAL-Chartbook-Report-CAM-2025.pdf-FINAL.pdf>).
+**Reporting rate published.** [In June 2025 a ministry official said health data completeness had risen from under 30% to 80%](<https://aps.sn/docteur-tidjane-gadjaga-le-niveau-de-completude-des-donnees-est-passe-de-30-a-80/>), after unions ended their data retention in January 2025. [In 2024, 57% of districts reached 90% completeness for antenatal care and delivery](<https://www.countdown2030.org/wp-content/uploads/2025/09/SENEGAL-Chartbook-Report-CAM-2025.pdf-FINAL.pdf>). [The overall data-quality score was 63% that year](<https://www.countdown2030.org/wp-content/uploads/2025/09/SENEGAL-Chartbook-Report-CAM-2025.pdf-FINAL.pdf>).
 
 ***Also on file***. [DHIS2 for Education](<https://education.dhis2.org/implementation/senegal/>).
 

@@ -2,12 +2,12 @@
 
 ## Health information system
 
-**Health information system.** [A joint WHO and HISP UiO mission visited Angola in March 2026, DHIS2 says](<https://dhis2.org/pt-pt/angola-to-partner-with-hisp-uio-and-who/>). [It found the DHIS2-based national health information system serving more than 4,700 registered users](<https://dhis2.org/pt-pt/angola-to-partner-with-hisp-uio-and-who/>). [It called it a solid national platform for the Ministry of Health](<https://dhis2.org/pt-pt/angola-to-partner-with-hisp-uio-and-who/>). It is the only fact held on the subject. No news story or official notice read for this study says more about it. The documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Health information system.** [In March 2026 a joint WHO and HISP UiO mission found Angola's DHIS2-based national system serving over 4,700 users](<https://dhis2.org/pt-pt/angola-to-partner-with-hisp-uio-and-who/>). [Countdown 2030 says routine facility reports run nationally through DHIS2](<https://www.countdown2030.org/wp-content/uploads/2026/09/Angola.pdf>), brought in during 2020 and 2021. [The report says data quality fell when DHIS2 was brought in](<https://www.countdown2030.org/wp-content/uploads/2026/09/Angola.pdf>). [In July 2026 the health minister called DHIS2 the main national health data platform](<https://pti.ao/angola-apresenta-estrategia-de-transformacao-digital-da-saude-na-oms/>).
 
-**Linked.** No source found since October 2023 says the system is linked to surveillance, supply chain or a register. The nearest held fact: [the one given above](<https://dhis2.org/pt-pt/angola-to-partner-with-hisp-uio-and-who/>).
+**Linked.** [The minister said in July 2026 that DHIS2 brings together different information platforms](<https://pti.ao/angola-apresenta-estrategia-de-transformacao-digital-da-saude-na-oms/>). Nothing found names its link to surveillance, the supply chain or a register.
 
-**Reporting rate published.** No source found since October 2023 gives the system's reporting completeness or timeliness. The nearest held fact: [the one given above](<https://dhis2.org/pt-pt/angola-to-partner-with-hisp-uio-and-who/>).
+**Reporting rate published.** [Countdown 2030 gives national completeness of monthly facility reports as 71% of those expected in 2025](<https://www.countdown2030.org/wp-content/uploads/2026/09/Angola.pdf>). [Only 24% of districts reached 90% or more that year](<https://www.countdown2030.org/wp-content/uploads/2026/09/Angola.pdf>). Private facilities do not report.
 
 ***Also on file***. [eLMIS](<https://dhis2.org/pt-pt/angola-to-partner-with-hisp-uio-and-who/>).
 
-***Not found***. No source found since October 2023 says the system is linked to surveillance, supply chain or a register.
+***Not found***. Nothing found names a link between the system and surveillance, the supply chain or a register.

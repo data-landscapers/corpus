@@ -2,3 +2,5 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 MDG,DHIS2,Madagascar,hmis,DHIS2,Ministry of Public Health (DEPSI),,2025-10-07-mtomady-dhis2-interoperability
 MDG,mTOMADY,Madagascar,other,,mTOMADY,,2025-10-07-mtomady-dhis2-interoperability
 MDG,CommCare,Madagascar,other,CommCare,"Ministry of Public Health, with USAID ACCESS/MSH/Dimagi","community health volunteers, health centers, districts",2024-05-21-msh-mobile-app-health-delivery-rural-madagascar
+MDG,National DHIS2 platform,Madagascar,hmis,DHIS2,Ministry of Public Health,,2026-10-01-mdg-hisp-centre-completes-dhis2-system-strengthening-support-in-madagascar
+MDG,One Health platform and laboratory information system,One Health DHIS2 platform,other,DHIS2,"Government of Madagascar with HISP UiO, World Bank financed",,2025-05-22-mdg-madagascar-et-le-hisp-uio-s-associent-pour-lancer-l-initiative-numeriq

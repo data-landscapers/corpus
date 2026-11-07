@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-08-tgo-waho-initie-la-mise-en-uvre-du-partage-automatise-des-donnees-de-sante",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "WAHO's workshop brings together Gambia's national health information system managers, and the pilot aligns regional indicators with its national DHIS2 system.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "national DHIS2 (NHMIS)",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

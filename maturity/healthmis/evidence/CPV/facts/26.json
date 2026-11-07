@@ -1,0 +1,15 @@
+{
+ "slug": "2026-02-02-cpv-termos-de-referencia-tdr-consultor-nacional-para-revisao-da-arquitetur",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "DHIS2, named as implemented in human health",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "DHIS2 is named without describing national routine reporting."
+}

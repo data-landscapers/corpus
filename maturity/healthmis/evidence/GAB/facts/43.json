@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-06-gab-sante-lancement-de-la-plateforme-dhis2-pour-un-suivi-sanitaire-amelior",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Gabon's health minister launched the DHIS2 platform on 6 December 2024 as an integrated health data management system, with the prime minister present.",
+   "as_of": "2024-12-06",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

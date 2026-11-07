@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-11-sdn-ministries-of-health-and-digital-transformation-launch-the-first-phase",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Federal Ministry of Health and the Ministry of Digital Transformation and Communications launched on 11 May 2026 the first phase of the Hospital Management System, whose applications include a Health Management Information System, at Al-Nau Hospital in Khartoum and the Al-Gadarif Hospital diagnostic centre, with gradual expansion to other states planned.",
+   "as_of": "2026-05-11",
+   "date_precision": "day",
+   "system": "Hospital Management System (HMS)",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Hospital Management System (HMS)",
+   "country_label": "Sudan HMS",
+   "class": "hmis",
+   "platform": "",
+   "owner": "Ministry of Health; Ministry of Digital Transformation and Communications",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

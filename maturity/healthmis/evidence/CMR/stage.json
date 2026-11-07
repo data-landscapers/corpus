@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hmis",
-      "stage": "unplaced",
-      "system": "",
+      "stage": "3",
+      "system": "inservice",
       "linked": "",
       "completeness": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether a health information system is under way or in service.",
-      "note": "Every fact held is from 2022, outside the three-year window, so no rung is set.",
-      "as_at": "2026-11-05"
+      "stage_sources": "CMR-004",
+      "gaps": "No source found since October 2023 says the system is linked to surveillance, supply chain or a register, or gives its reporting rate; the 2022 figures are outside the window.",
+      "note": "A 2026 preprint shows the national DHIS2 taking monthly reports from all ten regions and 202 districts, with changes in 2024. The link and completeness facts are from 2022, outside the window, so not 4.",
+      "as_at": "2026-11-07"
     }
   ]
 }

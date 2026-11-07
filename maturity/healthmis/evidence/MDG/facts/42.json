@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-01-mdg-hisp-centre-completes-dhis2-system-strengthening-support-in-madagascar",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "HISP and the Data.FI project completed a five-month engagement strengthening the Ministry of Public Health's national DHIS2 platform, which hosts the national routine and surveillance systems.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "national DHIS2 platform",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National DHIS2 platform",
+   "country_label": "Madagascar",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Public Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-mdg-madagascar-2026-cam-report-synthesis",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Countdown 2030 synthesis, presented by health ministry staff, reports national DHIS2 facility data for 2020-2025.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "DHIS2",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "completeness",
+   "value": "published",
+   "fact": "Monthly facility reporting completeness held at 98% in 2024 and 2025, and districts with complete reporting rose from 92% to 94%, per the Countdown 2030 synthesis.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

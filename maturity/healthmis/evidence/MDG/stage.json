@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hmis",
-      "stage": "4",
+      "stage": "5",
       "system": "inservice",
       "linked": "linked",
-      "completeness": "",
+      "completeness": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "MDG-003",
-      "gaps": "No source found since October 2023 gives the system's reporting completeness or timeliness.",
-      "note": "DHIS2 is the national health data system and CommCare's surveillance and community data are integrated into it. No reporting rate is held, so it stops at 4.",
-      "as_at": "2026-11-05"
+      "stage_sources": "MDG-001;MDG-006",
+      "gaps": "",
+      "note": "Countdown 2030 publishes monthly facility reporting completeness of 98% for 2024 and 2025 from the national DHIS2. With the national system and the CommCare link shown, the cell takes stage 5.",
+      "as_at": "2026-11-07"
     }
   ]
 }

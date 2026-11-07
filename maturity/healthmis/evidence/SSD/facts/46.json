@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-ssd-evaluating-the-role-of-the-health-information-system-infrastructure-in",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "A South Sudan Medical Journal study says DHIS2 was rolled out in 2019, is the national HIS and is mandatory for government health facilities, though only 50.4% of 139 respondents in Central Equatoria State used it routinely.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
