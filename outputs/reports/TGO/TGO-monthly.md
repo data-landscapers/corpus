@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: TGO
-ledger_rows: 21
+ledger_rows: 23
 not_held: 16
-record: f7a2f9350f90
+record: 51162bbc217f
 ---
 
 # News, Oct – Nov 2026
@@ -167,10 +167,28 @@ Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communic
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Digital Payments and Fintech
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">WAEMU instant payment platform, Togolese participation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Togo: Instant Payment Platform Processed Nearly CFAF 15 Billion in Transactions by End-October](https://www.togofirst.com/en/economic-governance/0511-20563-togo-instant-payment-platform-processed-nearly-cfaf-15-billion-in-transactions-by-end-october)** — Togo First, 5 November 2026
+
+CFAF ~15bn and 163,000 transactions in Togo by end-Oct 2026; 3.9m users of 52.3m in WAEMU; 17 of 175 PSPs.
+
+</div>
+
+</div>
 
 ### Sectoral management information systems
 
@@ -359,6 +377,20 @@ Togo's digital transformation ministry launched Voix du Togo in October 2026, a 
 **[Country Profile on AI Governance: Togo](https://www.aipolicy.africa/country-profiles/togo)** — AI Policy Lab (LawyersHub), 7 October 2026
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Ayre Index of AI readiness</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IA : jusqu’à 262 millions de dollars de gain potentiel pour le Togo](https://www.republicoftogo.com/toutes-les-rubriques/eco-finance/ia-jusqu-a-262-millions-de-dollars-de-gain-potentiel-pour-le-togo)** — République Togolaise (republicoftogo.com), 5 November 2026
+
+Ayre Index: Togo 42.6/100, 37th of 56 Commonwealth states; 4G covers 99.7% but 44.9% of youth online.
 
 </div>
 
