@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-06-ken-from-paper-files-to-fingertips-vihiga-unleashes-digital-revolution",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IFMIS",
+   "country_label": "Integrated Financial Management Information System",
+   "class": "other",
+   "platform": "",
+   "owner": "National Treasury and Planning",
+   "tiers": "county"
+  }
+ ],
+ "note": "IFMIS is credited only for Vihiga County's payments; no statement on central government use, tax or payroll."
+}

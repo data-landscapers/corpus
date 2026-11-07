@@ -2,7 +2,7 @@
 
 ## Core government systems
 
-**Budget, accounts and payments.** [In February 2026 the tax authority's chairman said SIGFE, the state's integrated financial management system, will check with AGT for an electronic invoice before paying suppliers](<https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/>). [SIGFE is treated as the state's running payment system](<https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/>).
+**Budget, accounts and payments.** On 30 October 2026 the finance ministry [issued the 2027 budget proposal's allocation by organ of state from SIGFE](<https://cms.minfin.gov.ao/api/assets/portal-minfin/0ada73f8-0c75-43bd-87e0-2f046d0baf43/>), the state's integrated financial management system. [Its 2026 budget allocation report also came from SIGFE](<https://cms.minfin.gov.ao/api/assets/portal-minfin/c5bb7353-28e6-4b09-9251-b8108ddbf6f9/>), in December 2025. In February 2026 the tax authority's chairman said [SIGFE will check with the tax authority for an electronic invoice before paying suppliers](<https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/>).
 
 **Tax.** [A September 2026 paper by CIAT authors says the tax authority's SIGT handles taxpayer registration, declarations, assessment and payment](<https://www.ciat.org/modernisation-of-general-tax-administration-over-the-last-10-years-a-tax-and-customs-analysis/?lang=en>). [It also collects and accounts for revenue into the Single Treasury Account](<https://www.ciat.org/modernisation-of-general-tax-administration-over-the-last-10-years-a-tax-and-customs-analysis/?lang=en>).
 

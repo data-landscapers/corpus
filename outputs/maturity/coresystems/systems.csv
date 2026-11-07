@@ -12,6 +12,7 @@ AGO,SIGT,Integrated Tax Management System,core,,AGT,,2026-09-08-ago-modernisatio
 AGO,SINGERH,SINGERH,core,,MAPTSS,,2026-10-29-ago-sistema-integrado-de-gestao-de-recursos-humanos-da-funcao-publica-sing
 AGO,SIGFE,SIGFE,core,,Ministry of Finance,,2026-10-29-ago-sistema-integrado-de-gestao-de-recursos-humanos-da-funcao-publica-sing
 AGO,SINGERH,Sistema Integrado de Gestao de Recursos Humanos da Funcao Publica (SINGERH),core,,MAPTSS,,2026-11-04-ago-vera-daves-pede-celeridade-na-actualizacao-de-dados-cadastrais-de-funcionarios-f
+AGO,SIGFE,SIGFE,core,,Ministerio das Financas,,2026-10-30-ago-proposta-de-oge-2027-resumo-da-dotacao-orcamental-por-orgao-companion
 BDI,SIGFP_BI,Burundi,other,"custom-built open-source modules, Microsoft Server 2019 or later","Ministere des Finances, du Budget et de l'Economie Numerique (via PAFEN)","central and deconcentrated administration; tendered, not in use",2026-03-25-pafen-aao-sigfp-systeme-integre-gestion-finances-publiques
 BDI,SIGFP_BI,Burundi,other,Microsoft Server 2019 or later,"Ministere des Finances, du Budget et de l'Economie Numerique","all ministries and constitutional institutions; contract awarded, not in use",2026-04-20-digital-business-africa-burundi-sigfp-bi-gre-a-gre
 BDI,SIGFP,Burundi,other,,"Ministere des Finances, du Budget et de l'Economie Numerique","public administrations; deployment being prepared, not in use",2026-04-08-mfben-burundi-prepare-mise-en-place-sigfp
@@ -168,6 +169,7 @@ GAB,SIGFiP,"Systeme integre de gestion des finances publiques (SIGFiP), module 1
 GAB,SIGFIP,"Systeme Integre de Gestion des Finances Publiques (SIGFIP), project",other,,Ministry of Economy and Finance,,2025-10-29-gab-projet-sigfip-des-agents-du-tresor-public-gabonais-edifies
 GAB,SIGFiP,"integrated budget, accounting and financial management system (contract awarded to IKA)",other,,Ministere des Comptes Publics,central,2024-10-03-gab-fourniture-d-un-systeme-d-information-integre-de-gestion-budgetaire-co
 GAB,SIGFiP,SIGFiP,other,,Ministry of Digital Economy,"interconnection of financial administrations, said to be already being deployed",2025-10-31-gab-gabon-launches-pilot-phase-to-digitize-social-and-fiscal-funds
+GAB,SIGRH,Gabon,other,,Ministry of Public Service,,2026-11-06-gin-a-bakou-le-gabon-et-la-guinee-se-rapprochent-pour-moderniser
 GHA,Integrated Tax Administration System (ITAS),Integrated Tax Administration System (ITAS),core,,Ghana Revenue Authority,,2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment
 GHA,Ghana Integrated Tax Management and Information System (GITMIS),Ghana Integrated Tax Management and Information System (GITMIS),core,,Ghana Revenue Authority,,2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment
 GHA,Integrated Customs Management System (ICUMS),Integrated Customs Management System (ICUMS),other,,Ghana Revenue Authority,,2026-08-20-ghana-news-gra-working-resolve-intermittent-tax-payment
@@ -263,6 +265,8 @@ KEN,IFMIS,Kenya,core,,National Treasury,,2024-06-14-ken-imf-forces-kenya-to-impl
 KEN,Integrated Customs Management System (iCMS),iCMS,other,,Kenya Revenue Authority,,2025-07-27-ken-kra-to-overhaul-customs-system-fully-automate-cargo-operations-by-2026
 KEN,IFMIS,Kenya,other,,,,2023-11-11-ken-gov-t-launches-phase-4-5-of-the-last-mile-county-connectivity-project
 KEN,eGP,Kenya eGP system,other,,National Treasury,,2026-11-04-ken-ipf-and-treasury-review-kenya-s-electronic-government-procurement-e-gp-progress
+KEN,IFMIS,Integrated Financial Management Information System,other,,National Treasury and Planning,county,2026-11-06-ken-from-paper-files-to-fingertips-vihiga-unleashes-digital-revolution
+KEN,IFMIS,Kenya,other,,Government of Kenya,,2026-11-04-ken-nyota-agpo-digital-training-for-600000-entrepreneurs
 LBR,IFMIS,IFMIS,core,,Ministry of Finance and Development Planning,,2019-07-16-wb-lbr-001-liberia-public-financial-management-reforms-for
 LBR,integrated tax administration system,integrated tax administration system components (revenue administration systems),other,,,,2019-07-16-wb-lbr-001-liberia-public-financial-management-reforms-for
 LBR,customs management information system,customs management information system,other,,,,2019-07-16-wb-lbr-001-liberia-public-financial-management-reforms-for
@@ -357,6 +361,8 @@ MWI,Kalondola,Kalondola digital excise tax stamps,other,SICPA,Malawi Revenue Aut
 MWI,ASYCUDA World,ASYCUDA World 4.4,other,ASYCUDA World,Malawi Revenue Authority,,2025-01-09-mwi-mra-asycuda-world-4-4-upgrade
 MWI,Ifmis,Integrated Financial Management Information System,core,SAP,Accountant General's Department,central,2024-05-31-mwi-ifmis-has-fully-stabilised-says-accountant-general
 MWI,IFMIS human capital module,Malawi,other,,Accountant General's Department,,2024-03-01-mwi-k3-5-billion-needed-for-ifmis-upgrade
+MWI,ASYCUDA World,ASYCUDA World,other,UNCTAD,Malawi Revenue Authority,,2026-08-13-mwi-mra-hails-automation-of-cargo-clearance
+MWI,ASYCUDA World,ASYCUDA World 4.4.0,other,UNCTAD,Malawi Revenue Authority,,2025-05-23-mwi-ict-projects-running-at-satcp
 NAM,Integrated Tax Administration System (ITAS),Namibia,core,,Namibia Revenue Agency,,2025-01-01-integrated-tax-administration-system-e-portal
 NAM,integrated Tax Administration System (ITAS),Namibia,core,,,,2026-01-01-consolidation-of-social-grants-and-the-food-bank
 NAM,integrated Financial Management System (IFMS),Namibia,core,,,,2026-01-01-consolidation-of-social-grants-and-the-food-bank
@@ -539,6 +545,7 @@ TCD,Mirador,Mirador,other,,Ministry of National Education,,2026-10-30-tcd-lendja
 TGO,SIGFiP,SIGFiP,core,,Ministry of Finance and Budget,,2024-09-18-tgo-mfb-formation-solaf-execution-budget
 TGO,SOLAF,SOLAF,other,web-based,Ministry of Finance and Budget,,2024-09-18-tgo-mfb-formation-solaf-execution-budget
 TGO,SIGFiP,SIGFiP,core,,Ministère des Finances et du Budget,,2026-02-25-tgo-renforcement-de-la-gestion-des-finances-publiques-au-togo
+TGO,Systeme d'information budgetaire et comptable,budget and accounting information system,other,,Ministere des Finances et du Budget,,2026-11-05-tgo-appel-a-manifestation-dinteret-recrutement-dun-cabinet-pour-la-realisa
 TUN,Plateforme nationale d'interconnexion,Tunisia,other,,Ministry of Communication Technologies,,2026-08-17-tunisia-pm-gov-interconnection-digitalisation-decision
 TUN,Système national de suivi des projets,Tunisia,other,,,,2026-08-17-tunisia-pm-gov-interconnection-digitalisation-decision
 TUN,Modernisation of the Customs information system,Tunisia,other,,Customs,,2026-08-16-tunisia-khadamet-digital-transformation-114-projects
