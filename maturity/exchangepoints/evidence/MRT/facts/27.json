@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-03-mrt-mauritanie-24-2-millions-pour-poursuivre-la-transformation-numerique-e",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Agence Ecofin reports Mauritania put a new internet exchange point (IXP) into service during 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "IXP",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
