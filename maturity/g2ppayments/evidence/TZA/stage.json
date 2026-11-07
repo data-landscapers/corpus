@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "3",
+      "stage": "5",
       "payment": "inservice",
       "streams": "",
-      "linked": "",
+      "linked": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-002",
-      "gaps": "No source found since October 2023 shows civil service salaries or pensions paid digitally, or payments checked against the national ID or a social registry.",
-      "note": "TASAF paid 60% of its 896,746 beneficiary households electronically, by mobile network or bank account, from July 2025 to March 2026: a social transfer paid digitally, so stage 3. No second stream is held, so not 4.",
-      "as_at": "2026-11-06"
+      "stage_sources": "TZA-004;TZA-002",
+      "gaps": "No source found since October 2023 shows civil service salaries or pensions paid digitally.",
+      "note": "Reassessed on TZA-004 (September 2026): NIDA says its system lets TASAF verify beneficiaries against the national ID when paying them electronically, which answers question 4; a later yes answers the earlier ones, so stage 5 although no second stream is held.",
+      "as_at": "2026-11-07"
     }
   ]
 }

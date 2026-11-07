@@ -20,9 +20,9 @@ The African Union's Digital Transformation Strategy asks governments to digitise
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 10 |
+| 5 Leading | 11 |
 | 4 Operating | 6 |
-| 3 Established | 23 |
+| 3 Established | 22 |
 | 2 Nascent | 8 |
 | 1 Absent | 0 |
 | Unplaced | 4 |
@@ -91,6 +91,13 @@ Family transfers were paid by bank transfer and checked against the civil and so
 
 - The DPSSF states that Programa Família Vulnerável transfers to 5,000 households were paid by bank transfer through the payments module of the Ké Non system, with five payment cycles completed in 2025 through October totalling over STN 35.75 million ([source, 2025-10](https://dpssf.gov.st/index.php/noticias-g-1/comunicados-oficiais/governo-de-stp-injeta-mais-de-35-milhoes-de-dobras-na-economia-nacional-atraves-do-programa-familias-vulneraveis-em-2025)).
 - openIMIS says Ke-Non, which holds the Unique Social Registry and the payments module, identifies clients against the national civil registry of the Ministry of Justice ([source, 2024-02](https://openimis.org/blog/em-powered-openimis-island-nation-sao-tome-and-principe-effectively-managing-its-social)).
+
+### Tanzania: 5 Leading
+
+TASAF grants were paid digitally and checked against the national ID in 2026; whether salaries or pensions are paid digitally is not known.
+
+- NIDA says its system lets TASAF verify beneficiaries when making electronic payments, so only intended recipients are paid ([source, 2026-09-01](https://nida.go.tz/uploads/speeches/20260911123900_doc.pdf)).
+- TASAF reported to parliament (via the minister) that of 896,746 beneficiary households paid TZS 43.5 billion from July 2025 to March 2026, 535,536 households (60%) received grants electronically through mobile networks and bank accounts ([source, 2026-03](https://www.tasaf.go.tz/news/tasaf-disburses-sh43-5-billion-to-beneficiary-households-government-sets-new-strategies)).
 
 ### Uganda: 5 Leading
 
@@ -264,12 +271,6 @@ A government programme paid people digitally in 2025; no source found reports a 
 Public workers' pay was moved onto bank accounts in 2026; no source found says whether transfers or pensions are paid digitally.
 
 - Sudan's finance ministry says Council of Ministers decisions 149 and 150 require workers' entitlements to be paid through bank accounts, and that this has been put into effect ([source, 2026-04-11](https://spokesperson-sd.com/ar/archives/39743)).
-
-### Tanzania: 3 Established
-
-TASAF paid 60% of poor households' grants by mobile or bank in 2025-26; whether salaries or pensions are paid digitally is not known.
-
-- TASAF reported to parliament (via the minister) that of 896,746 beneficiary households paid TZS 43.5 billion from July 2025 to March 2026, 535,536 households (60%) received grants electronically through mobile networks and bank accounts ([source, 2026-03](https://www.tasaf.go.tz/news/tasaf-disburses-sh43-5-billion-to-beneficiary-households-government-sets-new-strategies)).
 
 ### Togo: 3 Established
 

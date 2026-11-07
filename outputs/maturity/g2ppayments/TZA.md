@@ -6,8 +6,8 @@
 
 **Main streams.** The [TASAF grants](<https://www.tasaf.go.tz/news/tasaf-disburses-sh43-5-billion-to-beneficiary-households-government-sets-new-strategies>) are a social transfer, one stream. No source found since October 2023 shows civil service salaries or pensions paid digitally. The other digital payment on file, [the Zanzibar State Trading Corporation paying clove farmers through Mixx in 2026](<https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-shifts-quietly-from-cash-to-fast-digital-payment-systems-5572738>), is a purchase of crops.
 
-**Linked to ID.** No source found since October 2023 says government payments are checked against the national ID or a social registry. The nearest fact found is [TASAF's report to parliament on its 2025-26 payments](<https://www.tasaf.go.tz/news/tasaf-disburses-sh43-5-billion-to-beneficiary-households-government-sets-new-strategies>).
+**Linked to ID.** [In September 2026 NIDA said its system lets TASAF verify beneficiaries when paying them electronically](<https://nida.go.tz/uploads/speeches/20260911123900_doc.pdf>). [It says only the intended recipients are paid as a result](<https://nida.go.tz/uploads/speeches/20260911123900_doc.pdf>).
 
 ***Also on file***. [Mixx by Yas](<https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-shifts-quietly-from-cash-to-fast-digital-payment-systems-5572738>).
 
-***Not found***. No source found since October 2023 shows civil service salaries or pensions paid digitally. None says payments are checked against the national ID or a social registry.
+***Not found***. No source found since October 2023 shows civil service salaries or pensions paid digitally.

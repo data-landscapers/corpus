@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-01-tza-andiko-la-septemba-ya-utambulisho-2026-kuijenga-agenda-ya-utambulisho",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "NIDA says its system lets TASAF verify beneficiaries when making electronic payments, so only intended recipients are paid.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "TASAF electronic payments verified against NIDA",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

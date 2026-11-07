@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-08-mwi-malawi-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The guide says mobile money has facilitated social cash transfers and improved the targeting of beneficiaries for social assistance programmes.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "g2p"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

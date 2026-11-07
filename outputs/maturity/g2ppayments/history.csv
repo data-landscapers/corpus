@@ -93,3 +93,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-06,NGA,dpi.pay--g2p-functionality,fact,5,5,NGA-006;NGA-007;NGA-009,"NIN-linked conditional cash transfers (September 2025) and NERSI wallet payments from identity records and the National Social Register (November 2026); streams cleared, no row shows a second stream; stage held at 5."
 2026-11-06,DZA,dpi.pay--g2p-functionality,fact,unplaced,2,DZA-002,"CNAS-Algerie Poste convention of June 2024 to digitise benefit transfers to CCP accounts: contracted digital payment, unplaced to 2"
 2026-11-06,TZA,dpi.pay--g2p-functionality,fact,unplaced,3,TZA-002,"TASAF paid 60% of 896,746 households electronically Jul 2025-Mar 2026: a social transfer paid digitally, unplaced to 3"
+2026-11-07,TZA,dpi.pay--g2p-functionality,fact,3,5,TZA-004;TZA-002,"TZA-004: NIDA says its system lets TASAF verify beneficiaries against the national ID when paying electronically; question 4 met, stage 3 to 5"
