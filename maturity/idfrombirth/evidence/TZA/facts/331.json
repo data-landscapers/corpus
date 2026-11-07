@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-01-tza-andiko-la-septemba-ya-utambulisho-2026-kuijenga-agenda-ya-utambulisho",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "The government plans to start registering people under 18 to give them a Jamii Namba from birth, with pilots in Kilolo, Rungwe and a southern district in fiscal year 2026/27, NIDA says.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "Jamii Namba",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
