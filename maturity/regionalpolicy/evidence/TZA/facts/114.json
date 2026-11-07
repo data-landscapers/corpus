@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-18-tza-tanzania-communications-regulatory-authority-contribution-to-the-globa",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "effect",
+   "value": "in-effect",
+   "fact": "TCRA says Tanzania is implementing the East Africa One Network Area framework and takes part in EAC and SADC regional initiatives.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "East Africa One Network Area",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [
+  {
+   "system": "East Africa One Network Area",
+   "country_label": "One Network Area",
+   "class": "cooperation",
+   "platform": "",
+   "owner": "EAC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
