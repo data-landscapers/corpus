@@ -1,11 +1,11 @@
 ---
 title: Eswatini — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: SWZ
-ledger_rows: 29
+ledger_rows: 30
 not_held: 3
-record: 4cd49a48bf3a
+record: 5d1b9c3d5cf8
 ---
 
 # News, Oct – Nov 2026
@@ -445,6 +445,20 @@ Summarised under [Data Storage](#data-storage).
 **[Digital company registrations plunge 70%](https://www.eswatiniobserver.com/digital-company-registrations-plunge-70/)** — Eswatini Observer, 3 November 2026
 
 Eswatini's commerce ministry reports 632 online company registrations in the second quarter of 2026/27, against 2,127 a year earlier. The report cites network connectivity problems and manual processes. Total registrations fell from 952 to 790.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online passport applications</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[HOME AFFAIRS GOES DIGITAL TO CUT COSTS](https://eswatinipositivenews.online/home-affairs-goes-digital-to-cut-costs/)** — Eswatini Positive News, 6 November 2026
+
+Passport applications moving online to cut cost and queues; eVisa issuance and border scanning ready.
 
 </div>
 

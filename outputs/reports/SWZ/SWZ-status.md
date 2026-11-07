@@ -1,6 +1,6 @@
 ---
 title: Eswatini: status report
-compiled: 2026-11-06
+compiled: 2026-11-07
 place: SWZ
 region: XSA
 built_by: STATUS-INIT
@@ -114,10 +114,10 @@ The earlier money is smaller, and mostly either spent or still waiting to move. 
 Two other World Bank operations touch the estate without being digital projects: the [extension of the Imbeleko social registry beyond its pilot region](https://documents1.worldbank.org/curated/en/099031525010023201/pdf/P507360-3e4a9889-8b21-4fe3-a3f0-ed133ffbd8ff.pdf) (2025) and [expanded rural electrification reaching 200,000 people](https://www.worldbank.org/en/news/press-release/2025/02/13/world-bank-expands-support-to-electrify-rural-afe-eswatini-reaching-200-000-people) (February 2025).
 
 <!-- derived -->
-Eswatini's digital estate has drawn 23 external commitments, worth about US$61 million on windows running from 2015 to 2031 (November 2026).
+Eswatini's digital estate has drawn 19 external commitments, worth about US$61 million on windows running from 2015 to 2031 (November 2026).
 
 <!-- derived -->
-The World Bank holds three of the commitments and US$35 million of the money, and India's Export-Import Bank, the only bilateral lender on record, US$10 million (2020-2031). USAID's eight grants, five of them for a client management information system, come to about US$15 million (2015-2022).
+The World Bank holds three of the commitments and US$35 million of the money, and India's Export-Import Bank, the only bilateral lender on record, US$10 million (2020-2031). USAID's four grants, the largest for a client management information system, come to about US$15 million (2015-2019).
 
 <!-- derived -->
 Sectoral information systems take the most commitments, eight, chiefly health and client-management systems; connectivity has three, led by the Digital Eswatini Project, and data-centre disaster recovery and public financial management one each (2015-2031).
