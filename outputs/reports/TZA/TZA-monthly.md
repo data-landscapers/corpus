@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: TZA
-ledger_rows: 41
+ledger_rows: 43
 not_held: 5
-record: abaad0ce364d
+record: 02497c657784
 ---
 
 # News, Oct – Nov 2026
@@ -121,6 +121,14 @@ Tanzania's data protection commission said it is investigating complaints about 
 **[Bunge committee invites views on data protection](https://dailynews.co.tz/bunge-committee-invites-views-on-data-protection/)** — Daily News (Tanzania), 21 October 2026
 
 Tanzania's Parliamentary Standing Committee on Infrastructure invited public views on ratifying the AU's Malabo Convention on cybersecurity and personal data protection. It holds a public hearing on 26 October 2026 and accepts written submissions before the ratification resolution moves on.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bunge Laridhia Azimio la Tanzania Kujiunga na Mkataba wa Usalama Angamtandao - Tanzania Leo](https://tanzanialeo.co.tz/bunge-laridhia-azimio-la-tanzania-kujiunga-na-mkataba-wa-usalama-angamtandao/)** — Tanzania Leo, 5 November 2026
+
+Resolution tabled by ICT minister Kairuki, backed by Infrastructure Committee; sitting date not stated.
 
 </div>
 
@@ -496,6 +504,20 @@ Tanzania's National Legal Information System (NaLIS), built by the constitution 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">M-Mama emergency maternal referral platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[How Tanzania Cut Emergency Referral Costs with Community Drivers and Mobile Money](https://techafricanews.com/2026/11/06/dispatch-economics-behind-africas-digital-health-system-acceleration/)** — Tech Africa News, 6 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a>
+
+USD 170.40 per referral with community drivers vs USD 472 by ambulance (Shinyanga); c.USD 2m a year nationally.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -535,6 +557,20 @@ Tanzania's education minister Adolf Mkenda launched the Integrated National Digi
 **[Digital shift boosts access to Sh42.6 trillion tender market](https://www.thecitizen.co.tz/tanzania/news/national/digital-shift-boosts-access-to-sh42-6-trillion-tender-market-5651820)** — The Citizen, 30 October 2026
 
 Tanzania's procurement regulator said on 29 October 2026 that the NeST e-procurement system has handled 430,643 tenders worth TZS 42.6 trillion since September 2023. Compliance with procurement law reached 79% in 2025/26. A portal opened on 1 October 2026 links more than 36 banks to issue tender securities through NeST.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">M-Kilimo and e-Kilimo farmer services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania’s smallholder farmers struggle to benefit from digital agriculture](https://www.aljazeera.com/economy/2026/11/6/tanzanias-smallholder-farmers-struggle-to-benefit-from-digital-agriculture)** — Al Jazeera, 6 November 2026
+
+M-Kilimo had ~7.2m registered farmers, 400,000 incomplete sign-ups (2024 study); villagers report no training.
 
 </div>
 
