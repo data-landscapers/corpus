@@ -1,12 +1,12 @@
 ---
 title: Benin: status report
-compiled: 2026-11-06
+compiled: 2026-11-07
 place: BEN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 9
-sources_cited: 235
+sources_cited: 236
 sections_written: 39
 not_established: 0
 acquire_lines: 41
@@ -120,7 +120,7 @@ The largest single commitment reaching Benin is [WURI-2, a USD 273 million World
 ### Connectivity
 <!-- infra.connect -->
 
-The network now passes most of the country while most people are still not on it: [4G population coverage reached 88 per cent in 2024, up from 62 per cent in 2020](https://www.gsma.com/about-us/regions/sub-saharan-africa/wp-content/uploads/2025/01/BENIN_DigitalEconomy_Reflow_R2_Web.pdf), against [an estimated 34.0 per cent of the population using the internet in early 2023, around 4.6 million people](https://datareportal.com/reports/digital-2023-benin). [Unique mobile subscribers numbered 8.5 million at the end of 2023, a penetration rate of 67 per cent](https://www.gsma.com/about-us/regions/sub-saharan-africa/wp-content/uploads/2025/01/BENIN_DigitalEconomy_Reflow_R2_Web.pdf), and [entry-level mobile data cost more in 2022 than the international affordability threshold](https://www.itu.int/itu-d/reports/statistics/2024/11/10/ff24-affordability-of-ict-services). [The regulator counted 55,199 fixed internet subscriptions at 30 June 2025, a 0.42 per cent penetration, and 10.6 million active mobile internet subscriptions, down from 12.4 million at the end of 2024, 22 per cent of them held by women](https://arcep.bj/wp-content/uploads/2025/10/TB_Internet_30-JUIN-2025.pdf).
+The network now passes most of the country while most people are still not on it: [4G population coverage reached 88 per cent in 2024, up from 62 per cent in 2020](https://www.gsma.com/about-us/regions/sub-saharan-africa/wp-content/uploads/2025/01/BENIN_DigitalEconomy_Reflow_R2_Web.pdf), against [an estimated 5.19 million people using the internet at the end of 2026, 34.0 per cent of the population](https://datareportal.com/reports/digital-2027-benin). [Unique mobile subscribers numbered 8.5 million at the end of 2023, a penetration rate of 67 per cent](https://www.gsma.com/about-us/regions/sub-saharan-africa/wp-content/uploads/2025/01/BENIN_DigitalEconomy_Reflow_R2_Web.pdf), and [entry-level mobile data cost more in 2022 than the international affordability threshold](https://www.itu.int/itu-d/reports/statistics/2024/11/10/ff24-affordability-of-ict-services). [The regulator counted 55,199 fixed internet subscriptions at 30 June 2025, a 0.42 per cent penetration, and 10.6 million active mobile internet subscriptions, down from 12.4 million at the end of 2024, 22 per cent of them held by women](https://arcep.bj/wp-content/uploads/2025/10/TB_Internet_30-JUIN-2025.pdf).
 
 [Benin's IIAG Mobile Communications score rose 26.7 points over 2014-2023 to 69.6 out of 100, 24th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bj.pdf), while [Internet and Computers stood at 34.6 out of 100 in 2023, also 24th of 54, after a 17.4-point rise](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bj.pdf). [Infrastructure remains the country's worst-scoring IIAG sub-category at 42.3 out of 100 in 2023, 21st of 54, despite the second-largest decadal gain of its 16 sub-categories](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bj.pdf). Public opinion runs ahead of the measurement: [the Public Perception of Infrastructure score rose 41.4 points to 62.0 out of 100 in 2023, 8th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bj.pdf).
 
