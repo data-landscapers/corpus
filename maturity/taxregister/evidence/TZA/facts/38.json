@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-01-tza-andiko-la-septemba-ya-utambulisho-2026-kuijenga-agenda-ya-utambulisho",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "nationalid",
+   "value": "linked",
+   "fact": "NIDA says 8.4 million taxpayer numbers (TIN) have been registered using national ID numbers.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "TIN registration via NIN",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
