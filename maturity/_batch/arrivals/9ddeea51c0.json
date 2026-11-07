@@ -1,0 +1,7 @@
+{"slug": "2025-07-22-mrt-elhadeth-snis-dhis2-data-review-workshop", "studies": {
+"admindata": {"countries": {"MRT": {"facts": [{"sub_indicator": "admin", "aspect": "use", "value": "preparing", "fact": "A health ministry workshop in July 2025 reviewed 2024 and first-half 2025 SNIS data in preparation for the 2024 national statistical yearbook and a first-quarter 2025 bulletin.", "as_of": "2025-07", "date_precision": "month", "system": "Annuaire statistique national 2024", "class": "admin"}], "systems": [], "note": ""}}},
+"health": {"countries": {"MRT": {"facts": [], "systems": [], "note": "States no tiers, digitisation level or clinic coverage."}}},
+"healthmis": {"countries": {"MRT": {"facts": [{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "The health ministry says the DHIS2 platform is used nationally to collect, analyse and present health data for the SNIS.", "as_of": "2025-07", "date_precision": "month", "system": "SNIS/DHIS2", "class": "hmis"}], "systems": [], "note": ""}}},
+"schoolinternet": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Health data workshop; nothing on schools."}}},
+"schools": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Health data workshop; nothing on schools."}}}
+}}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-24-cmr-enregistrement-des-naissances-seules-135-communes-sur-les-374-dans-le",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "UNICEF cites the 2018 MICS by the national statistics institute as putting birth registration in Cameroon at 62%, with the Far North and East sometimes below 50%.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "MICS 2018",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

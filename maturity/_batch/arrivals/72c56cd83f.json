@@ -1,0 +1,7 @@
+{"slug": "2025-06-04-nga-fg-rallies-stakeholders-to-build-national-digital-health-backbone", "studies": {
+"health": {"countries": {"NGA": {"facts": [], "systems": [{"system": "DHIS2", "country_label": "DHIS2", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Names DHIS2 and electronic medical records only as platforms the NDHI is expected to unify; no tier, ownership or coverage stated."}}},
+"healthexchange": {"countries": {"NGA": {"facts": [{"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The Federal Ministry of Health says the Nigeria Digital Health Initiative, launched in March 2024 and endorsed by the National Council on Health in November 2024, includes a Health Information Exchange for data sharing across public and private facilities, to unify DHIS2, SORMAS, NHIA systems, LMIS and electronic medical records, for delivery before May 2027.", "as_of": "2025-06", "date_precision": "month", "system": "Nigeria Digital Health Initiative (Health Information Exchange)", "class": "exchange"}], "systems": [], "note": ""}}},
+"healthmis": {"countries": {"NGA": {"facts": [], "systems": [], "note": "DHIS2 is named only among platforms to be unified; no national reporting in service, linkage or completeness stated."}}},
+"startups": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on startup law or funds."}}},
+"techhubs": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on technology hubs."}}}
+}}

@@ -1,0 +1,12 @@
+{"slug": "2026-11-06-stp-mnecc-launches-sydoc-document-management-and-sydoc-pass-platforms", "studies": {
+"authentication": {"countries": {"STP": {"facts": [], "systems": [], "note": "Digital identity and a digital signature framework are named as still to be approved; nothing in service."}}},
+"birthidlink": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"digitalstrategy": {"countries": {"STP": {"facts": [], "systems": [{"system": "Estratégia de Transformação Digital do MNECC", "country_label": "Estratégia de Transformação Digital do MNECC", "class": "ministry-plan", "platform": "", "owner": "foreign ministry", "tiers": ""}], "note": "Names a National Digital Governance Strategy only as the one the ministry's own strategy aligns with; no standing, text or period stated."}}},
+"ecommercelaw": {"countries": {"STP": {"facts": [], "systems": [], "note": "The digital signature legal framework is named as still to be approved; no law or draft stated."}}},
+"egovservices": {"countries": {"STP": {"facts": [], "systems": [{"system": "SYDOC-PASS", "country_label": "SYDOC-PASS", "class": "other", "platform": "", "owner": "MNECC", "tiers": ""}, {"system": "SYDOC", "country_label": "SYDOC", "class": "other", "platform": "", "owner": "MNECC, built by AGA", "tiers": ""}], "note": "Platforms for internal records and diplomatic and service passports; no citizen or business service stated, and the Citizen Portal is still to be created."}}},
+"idcoverage": {"countries": {"STP": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on who runs the national ID system."}}},
+"idregisters": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"STP": {"facts": [], "systems": [], "note": "Digital identity is named as still to be implemented; no system state stated."}}}
+}}

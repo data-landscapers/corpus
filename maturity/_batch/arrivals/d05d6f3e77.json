@@ -1,0 +1,14 @@
+{"slug": "2026-05-05-zaf-communications-committee-adopts-budget-votes-to-drive-digital-transfor", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Only names AI among policy reform areas; no draft or rule stated."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"digitaldivides": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "Parliament's communications committee adopted the DCDT's R2.6 billion 2026/27 budget, whose focus includes expanding broadband to underserviced areas, particularly rural communities, townships and public institutions.", "as_of": "2026-05-05", "date_precision": "day", "system": "DCDT broadband expansion to underserviced areas", "class": "ruralaccess"}
+], "systems": [], "note": ""}}},
+"digitalstrategy": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Names the Digital Transformation Roadmap as being implemented, without saying its adoption, scope or text."}}},
+"disabilityaccess": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "accessibility", "aspect": "rule", "value": "underway", "fact": "Parliament says GCIS, with its 2026/27 allocation of R803.2 million, is committed to providing information in all official languages, South African Sign Language, Braille and other accessible formats.", "as_of": "2026-05-05", "date_precision": "day", "system": "GCIS accessible information", "class": "accessibility"}
+], "systems": [], "note": ""}}},
+"ruralelectrification": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on rural electricity access."}}}
+}}

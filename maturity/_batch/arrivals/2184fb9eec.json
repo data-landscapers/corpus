@@ -1,0 +1,29 @@
+{"slug": "2025-01-01-nam-namtac", "studies": {
+"authentication": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Document states nothing on authentication services."}}},
+"birthidlink": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Document states nothing on a civil register to ID link."}}},
+"civilregister": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Document states nothing on civil registration."}}},
+"health": {"countries": {"NAM": {"facts": [], "systems": [
+{"system": "PTracker", "country_label": "Namibia", "class": "tracker", "platform": "OpenMRS 2.6", "owner": "Ministry of Health and Social Services", "tiers": ""},
+{"system": "Quantum EPMS", "country_label": "Namibia", "class": "tracker", "platform": "", "owner": "", "tiers": ""},
+{"system": "National Data Warehouse", "country_label": "Namibia", "class": "other", "platform": "PowerBI dashboards", "owner": "Ministry of Health and Social Services", "tiers": ""}
+], "note": "Only programme-specific (PMTCT, HIV) systems and a data warehouse are described; no general HMIS or EMR fact."}}},
+"healthexchange": {"countries": {"NAM": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "UCSF's NAMTAC page says PTracker automatically submits aggregated data to DHIS2 and the National Data Warehouse, and the warehouse combines data from Quantum EPMS, DHIS2 Core and DHIS2 Tracker.", "as_of": "2025", "date_precision": "year", "system": "National Data Warehouse", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "breadth", "value": "wide", "fact": "UCSF's NAMTAC page says the national data warehouse takes data from three systems (Quantum EPMS, DHIS2 Core, DHIS2 Tracker), and an OpenHIM-based health information exchange was developed.", "as_of": "2025", "date_precision": "year", "system": "National Data Warehouse", "class": "exchange"}
+], "systems": [
+{"system": "SanteMPI Master Patient Index", "country_label": "Namibia", "class": "exchange", "platform": "SanteMPI", "owner": "Ministry of Health and Social Services", "tiers": ""},
+{"system": "OpenHIM health information exchange", "country_label": "Namibia", "class": "exchange", "platform": "OpenHIM", "owner": "", "tiers": ""}
+], "note": ""}}},
+"healthmis": {"countries": {"NAM": {"facts": [], "systems": [], "note": "DHIS2 is named only as a data source and support area; no national HMIS state is given."}}},
+"idcoverage": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Document gives no ID enrolment figure."}}},
+"idfrombirth": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Document states nothing on an ID number at birth."}}},
+"idmaintenance": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Document states nothing on who operates or owns the national ID system."}}},
+"idregisters": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Only a health ID linked to the population registry; a sectoral ID, not a public register keyed on the national number."}}},
+"idrobustness": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Document states nothing on the national ID system's robustness."}}},
+"interoperabilitystandards": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Mentions data exchange standards only as a project area; no named standards set."}}},
+"populationregister": {"countries": {"NAM": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "UCSF's NAMTAC page says the master patient index is linked with the National Population Registry System (NPRS), using Namibian ID numbers and birth certificate numbers.", "as_of": "2025", "date_precision": "year", "system": "National Population Registry System (NPRS)", "class": "population"},
+{"sub_indicator": "population", "aspect": "used", "value": "source", "fact": "UCSF's NAMTAC page says the health master patient index draws on the NPRS for ID numbers of people over 16 and birth certificate numbers for those under 16.", "as_of": "2025", "date_precision": "year", "system": "National Population Registry System (NPRS)", "class": "population"}
+], "systems": [], "note": ""}}},
+"registry": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Document states nothing on local civil registration offices."}}}
+}}

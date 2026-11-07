@@ -1,0 +1,5 @@
+{"slug": "2026-08-12-cmr-arsel-socadel-indicateurs-performance-2025", "studies": {
+"gridreliability": {"countries": {"CMR": {"facts": [], "systems": [{"system": "SAIDI/SAIFI 2025 (ARSEL and SOCADEL)", "country_label": "values not fixed", "class": "other", "platform": "", "owner": "ARSEL", "tiers": ""}], "note": "ARSEL says the definitive SAIFI value was not fixed; no figure given."}}},
+"publicconsultation": {"countries": {"CMR": {"facts": [], "systems": [], "note": "A regulator-operator review, not a consultation on a digital law or policy."}}},
+"ruralelectrification": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No World Bank rural access figure stated."}}}
+}}

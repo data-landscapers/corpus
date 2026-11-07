@@ -1,0 +1,6 @@
+{"slug": "2024-12-01-uga-ugandan-made-smartphone-launched", "studies": {
+"ictproduction": {"countries": {"UGA": {"facts": [
+{"sub_indicator": "production", "aspect": "plant", "value": "production", "fact": "Simi Mobile, a subsidiary of Engo Holding operating from the Kampala Industrial and Business Park at Namanve, launched Uganda-made smartphones on 30 November 2024 and is exporting them, per minister Evelyn Anite.", "as_of": "2024-11-30", "date_precision": "day", "system": "Simi Mobile", "class": "ictproduction"}
+], "systems": [], "note": ""}}},
+"itcapacity": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on government staff running or building systems."}}}
+}}

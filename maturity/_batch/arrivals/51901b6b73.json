@@ -1,0 +1,12 @@
+{"slug": "2026-11-06-mwi-airtel-malawi-invests-mwk81-billion-in-network-expansion", "studies": {
+"businesspayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document states nothing on a central bank role."}}},
+"consumerprotection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Committee urged action on mobile money fraud, but no rule or complaints body stated."}}},
+"crossborderpayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document states nothing on government payments."}}},
+"paymentsuptake": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Gives no survey share of adults with an account."}}},
+"retailpayments": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Tech Africa News reports that Parliament's Media, Information and Communications Committee acknowledged Airtel Malawi's improvements to Airtel Money services at its 3 November 2026 engagement.", "as_of": "2026-11-03", "date_precision": "day", "system": "Airtel Money", "class": "retail"}
+], "systems": [{"system": "Airtel Money", "country_label": "Malawi", "class": "retail", "platform": "", "owner": "Airtel Malawi", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document states nothing on revenue collection."}}}
+}}

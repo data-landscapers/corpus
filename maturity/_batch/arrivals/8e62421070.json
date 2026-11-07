@@ -1,0 +1,17 @@
+{"slug": "2025-04-01-dza-mpt-achievements-indicators-2020-2025", "studies": {
+"businesspayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No e-procurement system is mentioned."}}},
+"centralbank": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No central bank role over payments is stated; the document is from the post and telecoms ministry."}}},
+"consumerprotection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Only awareness campaigns on e-payment and e-commerce are named; no rule or complaints body."}}},
+"crossborderpayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No cross-border payment channel is mentioned."}}},
+"g2ppayments": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No government payment to people is mentioned."}}},
+"internetusage": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Only subscriber counts (49 million mobile internet subscribers) and households online are given, not a share of people."}}},
+"paymentsuptake": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Only card and transaction counts are given, no survey of adults with an account."}}},
+"police": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Police stations are not mentioned."}}},
+"retailpayments": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The Ministry of Post and Telecommunications says Algerie Poste offers e-payment methods, with Edahabia cards rising from 6 million in 2020 to 14.1 million in November 2024 and over 73 million card transactions in 2024.", "as_of": "2024-11", "date_precision": "month", "system": "Edahabia", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "The ministry says Algerie Poste's e-payment methods work in interoperability with the bank network.", "as_of": "2025-04", "date_precision": "month", "system": "Algerie Poste e-payment", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "switch", "value": "national", "fact": "The ministry says a mobile switch was launched that lets banks' and Algerie Poste's clients make payments and transfers instantly by QR code, with no launch date given.", "as_of": "2025-04", "date_precision": "month", "system": "mobile switch", "class": "retail"}
+], "systems": [{"system": "Edahabia", "country_label": "Algeria", "class": "retail", "platform": "card", "owner": "Algerie Poste", "tiers": ""}, {"system": "BaridiMob", "country_label": "Algeria", "class": "retail", "platform": "mobile app", "owner": "Algerie Poste", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No tax or fee payment to the state is stated beyond utility bills."}}},
+"ruralelectrification": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No rural electricity access figure is given."}}}
+}}

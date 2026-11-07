@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-17-lso-lesotho-marks-identity-day-with-progress-on-registration",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "The Local Government Ministry's Stephen Mputi says birth registration rose from 21 percent in 2019 to 61 percent in 2023, a national rate not tied to a digital system.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "civil registration",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

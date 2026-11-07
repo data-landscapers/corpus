@@ -1,0 +1,11 @@
+{"slug": "2026-11-06-gha-financial-inclusion-expands-but-economic-well-being-remains-low", "studies": {
+"businesspayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document states nothing on e-procurement."}}},
+"centralbank": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document states nothing on the central bank's payments role."}}},
+"consumerprotection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Consumer protection is only a focus of a strategy being developed; no rules, body or enforcement stated."}}},
+"crossborderpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document states nothing on government payments to people."}}},
+"mobilepenetration": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document gives no mobile phone ownership figure."}}},
+"paymentsuptake": {"countries": {"GHA": {"facts": [{"sub_indicator": "uptake", "aspect": "target", "value": "target", "fact": "Citi Newsroom reports that the World Bank's Global Findex 2025 puts Ghana's adult financial account ownership above 80%, as cited by the Deputy Minister of Finance.", "as_of": "2025", "date_precision": "year", "system": "Global Findex 2025", "class": "survey"}], "systems": [], "note": ""}}},
+"retailpayments": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Mobile money and digital payments appear only as illustrations by the minister, not as a stated service."}}},
+"revenuecollection": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Document states nothing on electronic payment of taxes or fees."}}}
+}}

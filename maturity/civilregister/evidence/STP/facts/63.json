@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-29-stp-sao-tome-e-principe-entre-paises-africanos-com-melhores-registos-de-na",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "The Mo Ibrahim Foundation's 2023 IIAG report, as reported by Lusa, lists Sao Tome and Principe among ten African countries with a system registering at least 90% of births, with no statement that the register is digital.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "IIAG 2023",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

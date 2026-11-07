@@ -1,0 +1,6 @@
+{"slug": "2026-10-15-caf-surveillance-des-maladies-linstitut-pasteur-de-bangui-renforce-ses-cap", "studies": {
+"health": {"countries": {"CAF": {"facts": [], "systems": [{"system": "DHIS2 Tracker", "country_label": "Central African Republic", "class": "tracker", "platform": "DHIS2", "owner": "Ministry of Health SNIS", "tiers": ""}], "note": "Only a surveillance case-tracking training; no tiers, digitisation point or clinic share for the HMIS."}}},
+"healthmis": {"countries": {"CAF": {"facts": [
+{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "Institut Pasteur de Bangui says DHIS2 is the central tool for collecting, managing and analysing health data in the Central African Republic, deployed since 2021 and mainly carrying aggregate data compiled periodically by health facilities.", "as_of": "2021", "date_precision": "year", "system": "DHIS2", "class": "hmis"}
+], "systems": [{"system": "DHIS2", "country_label": "Central African Republic", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health SNIS", "tiers": ""}, {"system": "DHIS2 Tracker", "country_label": "Central African Republic", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health SNIS", "tiers": ""}], "note": ""}}}
+}}

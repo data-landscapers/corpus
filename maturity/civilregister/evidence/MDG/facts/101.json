@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-11-mdg-si-le-taux-denregistrement-des-naissances-progresse-regulierement-a-le",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "UNICEF Madagascar says the national birth registration rate fell from 83% in 2012 to 74% in 2021, citing INSTAT's ENSOMD survey, with no link to a digital system.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

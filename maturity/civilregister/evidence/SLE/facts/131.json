@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-17-sle-93-of-sierra-leone-registered-with-unique-nins",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "NCRA's Director-General says an integrated electronic CRVS system, digitising and consolidating civil registration, vital statistics and identity management on one modular platform, has been developed with government and EU support; no national in-service rollout or birth coverage is stated.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "eCRVS",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eCRVS",
+   "country_label": "Sierra Leone",
+   "class": "civil",
+   "platform": "single modular digital platform",
+   "owner": "NCRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

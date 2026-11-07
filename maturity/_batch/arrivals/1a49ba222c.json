@@ -1,0 +1,32 @@
+{
+ "slug": "2025-10-13-cod-quand-l-usine-d-assemblage-se-met-en-place-a-maluku-les-magasins-de-ve",
+ "studies": {
+  "ictproduction": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Okapi Mobile Maluku assembly plant",
+       "country_label": "Okapi Mobile",
+       "class": "other",
+       "platform": "",
+       "owner": "Okapi Mobile",
+       "tiers": ""
+      }
+     ],
+     "note": "Maluku assembly plant is only being set up, not in production."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on police records."
+    }
+   }
+  }
+ }
+}

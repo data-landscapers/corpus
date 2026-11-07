@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-23-moz-implementation-status-results-report-digital-governance-and-economy-pr",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The World Bank ISR reports 4,574,257 individuals registered in the civil registration database (e-SIRCEV) at 20 March 2026 against a 13,000,000 target, with a backlog-scanning pilot held in Maputo and Matola.",
+   "as_of": "2026-03-20",
+   "date_precision": "day",
+   "system": "e-SIRCEV",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-SIRCEV",
+   "country_label": "e-SIRCEV",
+   "class": "civil",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

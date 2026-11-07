@@ -1,0 +1,9 @@
+{"slug": "2026-11-05-tgo-ia-jusqua-262-millions-de-dollars-de-gain-potentiel-pour-le-togo", "studies": {
+"aiabuse": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Voix du Togo builds language tools; no government body's own use of AI stated."}}},
+"aisectoral": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No AI tool in a public sector's system stated; AI in technical teaching is only planned."}}},
+"aisystems": {"countries": {"TGO": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Since September 2026 the Togolese government has been testing Voix du Togo, a programme to develop AI tools that understand Ewe, Kabiye and Moba before extending to about fifty national languages, as reported from the Ayre Index.", "as_of": "2026-09", "date_precision": "month", "system": "Voix du Togo", "class": "localai"}], "systems": [{"system": "Voix du Togo", "country_label": "Togo", "class": "localai", "platform": "", "owner": "Government of Togo", "tiers": ""}], "note": ""}}},
+"internetusage": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Only a youth share (44.9%) is given, not the whole population."}}},
+"policyresearch": {"countries": {"TGO": {"facts": [], "systems": [], "note": "The Ayre Think Tank is not named as based in Togo."}}},
+"schoolinternet": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No UNESCO share of schools with internet or compulsory computing stated."}}}
+}}

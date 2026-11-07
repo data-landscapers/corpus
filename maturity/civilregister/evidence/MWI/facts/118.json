@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-01-mwi-malawi-pushes-for-universal-birth-registration",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "The NRB's Chief Registration Officer says 67% of births were registered in 2023, with death registration at 27%, a national rate not tied to a digital system.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Malawi civil registration",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

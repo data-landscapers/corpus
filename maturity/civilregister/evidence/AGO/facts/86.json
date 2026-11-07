@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-31-ago-no-pais-menos-de-quatro-criancas-em-cada-10-estao-registadas",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "Angola's statistics institute INE, in the IIMS 2023-2024 survey, puts birth registration of children under five at 38 per cent, with no digital system named.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "IIMS 2023-2024",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,97 @@
+{
+ "slug": "2025-11-25-mrt-mauritanie-ue-reunion-pour-evaluer-le-niveau-de-cooperation-numerique",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Nouakchott data centre",
+       "country_label": "Nouakchott data centre",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Nouakchott centre inaugurated 8 May 2025, but article does not say it rents to others."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Only an aim to reduce regional digital divide; no programme or survey figure."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Alalinck cable, Nouadhibou landing station",
+       "country_label": "Alalinck",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Landing station only had its foundation stone laid 28 July 2025; not in service."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Owner and hire of the Nouakchott data centre not stated."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Only EU cooperation, which is outside Africa."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "startuppolicy",
+       "aspect": "law",
+       "value": "adopted",
+       "fact": "Tawassoul reports the Mauritanian digital ministry is speeding publication of the legal framework completing the existing start-up law.",
+       "as_of": "2025-11-25",
+       "date_precision": "day",
+       "system": "loi sur les start-ups",
+       "class": "startuppolicy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No hub or park named."
+    }
+   }
+  }
+ }
+}

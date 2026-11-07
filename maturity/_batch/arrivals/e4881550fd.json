@@ -1,0 +1,21 @@
+{"slug": "2026-06-30-zwe-improving-reporting-of-morbidity-and-cause-of-death-in-zimbabwe-with-d", "studies": {
+"datacentres": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The document says a government application is hosted at the national data centre but not that it rents space or computing to others."}}},
+"dataexchange": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "DHIS2.org says Zimbabwe's Ministry of Health and Child Care is linking its case-based surveillance system to the national health information system, with the OpenHIM mediator carrying data between the ICD-11 service and DHIS2 Tracker; the solution was in final testing in June 2026 with go-live expected by end July 2026.", "as_of": "2026-06", "date_precision": "month", "system": "OpenHIM", "class": "exchange"}
+], "systems": [{"system": "OpenHIM", "country_label": "OpenHIM Zimbabwe", "class": "exchange", "platform": "OpenHIM", "owner": "Ministry of Health and Child Care", "tiers": ""}], "note": ""}}},
+"digitalskills": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The document does not concern public digital skills."}}},
+"health": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "DHIS2.org says aggregated national health reporting in Zimbabwe is managed through the DHIS2-based National Health Information System (NHIS), with the Ministry of Health and Child Care leading the work and The Global Fund funding the integration project.", "as_of": "2026-06", "date_precision": "month", "system": "NHIS", "class": "hmis"}
+], "systems": [{"system": "NHIS", "country_label": "NHIS Zimbabwe", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health and Child Care", "tiers": ""}, {"system": "CBS", "country_label": "Case-Based Surveillance Zimbabwe", "class": "tracker", "platform": "DHIS2 Tracker", "owner": "Ministry of Health and Child Care", "tiers": ""}], "note": ""}}},
+"healthexchange": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "DHIS2.org says the Ministry of Health and Child Care, with Global Fund support, is integrating the case-based surveillance system with the NHIS so patient data flows as anonymised indicators in near real time; in June 2026 it was in final testing with go-live expected by end July 2026.", "as_of": "2026-06", "date_precision": "month", "system": "CBS-NHIS integration", "class": "exchange"}
+], "systems": [], "note": ""}}},
+"healthmis": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "DHIS2.org says aggregated national health reporting in Zimbabwe is managed through the DHIS2-based National Health Information System (NHIS), which the ministry already runs.", "as_of": "2026-06", "date_precision": "month", "system": "NHIS", "class": "hmis"}
+], "systems": [{"system": "NHIS", "country_label": "NHIS Zimbabwe", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health and Child Care", "tiers": ""}], "note": "The link to case-based surveillance was not yet in service in June 2026, so no linked fact."}}},
+"interoperability": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The document mentions an interoperability architecture but no government framework, rule or roadmap."}}},
+"nationaldatacentres": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "national", "aspect": "state", "value": "hosted", "fact": "DHIS2.org says the WHO ICD-11 repository used by the Ministry of Health's health systems runs as a central application hosted on Zimbabwe's national data centre.", "as_of": "2026-06", "date_precision": "month", "system": "national data centre", "class": "datacentre"}
+], "systems": [], "note": ""}}},
+"schoolinternet": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "The document does not concern schools."}}}
+}}

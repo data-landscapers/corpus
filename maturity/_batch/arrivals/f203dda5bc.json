@@ -1,0 +1,6 @@
+{"slug": "2024-01-01-egy-egypt-deploys-dhis2-for-emergency-and-humanitarian-response", "studies": {
+"digitalskills": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on public digital skills."}}},
+"health": {"countries": {"EGY": {"facts": [], "systems": [{"system": "DHIS2 malnutrition event tracker", "country_label": "Egypt", "class": "tracker", "platform": "DHIS2", "owner": "Ministry of Health and Population", "tiers": "T4: 16 primary care facilities in two governorates, January 2024"}, {"system": "DHIS2 patient registry for Gaza referrals", "country_label": "Egypt", "class": "tracker", "platform": "DHIS2", "owner": "Ministry of Health and Population", "tiers": "T1/T2: 30 designated hospitals"}], "note": "Both DHIS2 uses are programme-specific trackers, not routine HMIS or general EMR."}}},
+"healthmis": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only programme trackers described; no national routine reporting system stated."}}},
+"schoolinternet": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

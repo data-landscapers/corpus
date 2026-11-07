@@ -1,0 +1,54 @@
+{
+ "slug": "2026-01-01-egy-mcit-ict-strategy-page-publications-en",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "MCIT's publications list carries Egypt's ICT Strategy 2013-2017, dated February 2013, as the ministry's strategy.",
+   "as_of": "2013-02",
+   "date_precision": "month",
+   "system": "Egypt's ICT Strategy 2014-2017",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "text",
+   "value": "public",
+   "fact": "MCIT's own English page lists and describes the ICT Strategy 2013-2017 as a publication.",
+   "as_of": "2013-02",
+   "date_precision": "month",
+   "system": "Egypt's ICT Strategy 2014-2017",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2017",
+   "fact": "The strategy is titled 2014-2017 and described as the 2013-2017 strategy.",
+   "as_of": "2013-02",
+   "date_precision": "month",
+   "system": "Egypt's ICT Strategy 2014-2017",
+   "class": "sector"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Egypt's ICT Strategy 2014-2017",
+   "country_label": "Egypt's ICT Strategy 2014-2017",
+   "class": "sector",
+   "platform": "",
+   "owner": "MCIT",
+   "tiers": ""
+  },
+  {
+   "system": "Egypt's ICT Strategy 2007-2010",
+   "country_label": "Egypt's ICT Strategy 2007-2010",
+   "class": "sector",
+   "platform": "",
+   "owner": "MCIT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

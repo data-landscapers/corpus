@@ -1,0 +1,9 @@
+{"slug": "2025-01-09-uga-nira-prepares-for-mass-registration-id-renewal", "studies": {
+"authentication": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on electronic authentication."}}},
+"birthidlink": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on a civil register link."}}},
+"idcoverage": {"countries": {"UGA": {"facts": [{"sub_indicator": "coverage", "aspect": "share", "value": "third", "fact": "NIRA's Executive Director says 27.4 million people are on the National Identification Register, including 6.3 million aged 0-17, out of a population of about 46 million (about 60%).", "as_of": "2025-01", "date_precision": "month", "system": "National Identification Register", "class": "idsystem"}], "systems": [{"system": "National Identification Register (NIRA)", "country_label": "Uganda", "class": "idsystem", "platform": "", "owner": "NIRA", "tiers": ""}], "note": ""}}},
+"idfrombirth": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the system."}}},
+"idregisters": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"UGA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "NIRA holds a National Identification Register of 27.4 million registered persons and is preparing a mass enrolment and card renewal exercise, per The Independent (Uganda).", "as_of": "2025-01", "date_precision": "month", "system": "National Identification Register", "class": "idsystem"}], "systems": [], "note": ""}}}
+}}

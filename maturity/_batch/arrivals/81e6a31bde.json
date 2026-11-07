@@ -1,0 +1,19 @@
+{"slug": "2025-11-24-som-somali-national-id-system-has-become-a-cornerstone-of-state-building", "studies": {
+"authentication": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No link to the civil register stated."}}},
+"businesspayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Not about e-procurement."}}},
+"centralbank": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Not about the central bank."}}},
+"consumerprotection": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Not about consumer protection."}}},
+"crossborderpayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Not about cross-border payments."}}},
+"g2ppayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Not about government payments."}}},
+"idcoverage": {"countries": {"SOM": {"facts": [], "systems": [{"system": "Somali National ID system", "country_label": "Somali National ID system", "class": "idsystem", "platform": "", "owner": "National Identification and Registration Authority", "tiers": "national"}], "note": "Gives a count of over one million registrations but no share of the population."}}},
+"idfrombirth": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Names South-South partners but not who operates or owns the system."}}},
+"idregisters": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Only 'integration with public and private systems', no register named."}}},
+"idrobustness": {"countries": {"SOM": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "UNDP Somalia's Resident Representative said the Somali National ID system, launched in 2023, has over one million registrations.", "as_of": "2025-11-24", "date_precision": "day", "system": "Somali National ID system", "class": "idsystem"}
+], "systems": [{"system": "Somali National ID system", "country_label": "Somali National ID system", "class": "idsystem", "platform": "", "owner": "National Identification and Registration Authority", "tiers": "national"}], "note": ""}}},
+"paymentsuptake": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No account-ownership survey figure."}}},
+"retailpayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Not about retail payments."}}},
+"revenuecollection": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Not about revenue collection."}}}
+}}

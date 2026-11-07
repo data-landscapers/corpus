@@ -1,0 +1,89 @@
+{
+ "slug": "2025-10-01-tcd-tchad-lancement-de-la-phase-2-du-projet-etat-civil",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "TCD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "TCD": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "An OIF-supported project running to June 2026 in N'Djamena, Batha and Hadjer Lamis aims to strengthen the TASDJIL digitisation system for birth registration.",
+       "as_of": "2025-10",
+       "date_precision": "month",
+       "system": "TASDJIL",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "coverage",
+       "value": "general",
+       "fact": "The head of ANATS Abeche put Chad's birth registration rate at about 26 percent, not tied to a digital system.",
+       "as_of": "2025-10-29",
+       "date_precision": "day",
+       "system": "",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "TASDJIL",
+       "country_label": "TASDJIL",
+       "class": "civil",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,10 @@
+{"slug": "2026-11-05-gha-false-91-of-ghanaians-have-not-received-their-ghana-cards", "studies": {
+"authentication": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
+"idcoverage": {"countries": {"GHA": {"facts": [{"sub_indicator": "coverage", "aspect": "share", "value": "third", "fact": "National Identification Authority data as at 30 October 2026, reported by Dubawa, show 20,610,948 people enrolled for the Ghana Card, against a Ghana Statistical Service population projection of 34,378,768 for 2026 and a 2021 census count of 30,832,019.", "as_of": "2026-10-30", "date_precision": "day", "system": "Ghana Card", "class": "idsystem"}], "systems": [{"system": "Ghana Card", "country_label": "Ghana Card", "class": "idsystem", "platform": "", "owner": "National Identification Authority", "tiers": ""}], "note": ""}}},
+"idfrombirth": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Who operates or owns the system is not stated."}}},
+"idregisters": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"GHA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The National Identification Authority had enrolled 20,610,948 people, printed 20,478,619 Ghana Cards and issued 19,575,078 as at 30 October 2026, per Dubawa's account of NIA data.", "as_of": "2026-10-30", "date_precision": "day", "system": "Ghana Card", "class": "idsystem"}], "systems": [], "note": ""}}},
+"idverification": {"countries": {"GHA": {"facts": [], "systems": [], "note": "SIM registration is only mentioned as planned; no system checking against the ID stated."}}}
+}}

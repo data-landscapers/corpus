@@ -1,0 +1,18 @@
+{"slug": "2024-08-01-mwi-12-3-million-register-for-id-cards", "studies": {
+"authentication": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document states nothing on authentication services."}}},
+"birthidlink": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document states nothing on a civil register to ID link."}}},
+"electoralregister": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "electoral", "aspect": "linked", "value": "linked", "fact": "Nation Online reports that Malawi's elections act prescribes the NRB-issued national ID as the sole identification document to register as a voter.", "as_of": "2024-08", "date_precision": "month", "system": "National Registration Bureau national ID", "class": "electoral"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"MWI": {"facts": [], "systems": [{"system": "National Registration Bureau national ID", "country_label": "Malawi", "class": "idsystem", "platform": "", "owner": "National Registration Bureau", "tiers": ""}], "note": "Gives a count of 12,287,349 aged 16+ registered since 2016 but no total population or all-ages share, so no share value is stated."}}},
+"idfrombirth": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document covers registration of people aged 16 and above only."}}},
+"idmaintenance": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document states nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "Nation Online reports that the elections act makes the NRB-issued national ID the sole identification document for registering as a voter, so the voter register is keyed on it.", "as_of": "2024-08", "date_precision": "month", "system": "National Registration Bureau national ID", "class": "register"}
+], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"MWI": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The National Registration Bureau says it has registered 12,287,349 people aged 16 and above for national identity cards since 2016.", "as_of": "2024-08", "date_precision": "month", "system": "National Registration Bureau national ID", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"localgov": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Document states nothing on local government connection."}}},
+"publicconsultation": {"countries": {"MWI": {"facts": [], "systems": [], "note": "A National Election Consultative Forum is mentioned, but on elections, with no named digital law or policy put to people."}}}
+}}

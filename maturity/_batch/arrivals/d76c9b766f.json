@@ -1,0 +1,21 @@
+{"slug": "2026-01-20-zwe-ict-ministry-readies-national-ai-strategy-launch-as-investment-grows-o", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No AI tool in a sector system stated."}}},
+"aistrategy": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "ICT Minister Tatenda Mavetera says Zimbabwe's National Artificial Intelligence Strategy was completed in 2025 and recently approved, with the President to launch it in early March 2026.", "as_of": "2026-01-19", "date_precision": "day", "system": "National Artificial Intelligence Strategy", "class": "strategy"}
+], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing stated."}}},
+"civilserviceskills": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "No civil service training stated."}}},
+"cybersecurity": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Strategy only finalised and awaiting Cabinet, not adopted; no body or incident stated."}}},
+"digitaldivides": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "Minister Mavetera says the ministry launched the Presidential Internet Scheme, which she says is transforming access to connectivity for underserved communities, with no sites or people counted.", "as_of": "2026-01-19", "date_precision": "day", "system": "Presidential Internet Scheme", "class": "ruralaccess"}
+], "systems": [], "note": ""}}},
+"digitalskills": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "Minister Mavetera says the ministry rolled out free national digital skills programmes including the Digital Skills Ambassadors Programme and the 1.5 Million Coders initiative, with no number trained stated.", "as_of": "2026-01-19", "date_precision": "day", "system": "Digital Skills Ambassadors Programme; 1.5 Million Coders", "class": "publicskills"}
+], "systems": [], "note": ""}}},
+"mobilepenetration": {"countries": {"ZWE": {"facts": [], "systems": [{"system": "mobile penetration 103 per cent (subscriptions)", "country_label": "103%", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Figure of over 103 per cent is subscription penetration, not people owning a phone."}}},
+"regionalpolicy": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Minister Mavetera says she was appointed as one of seven African ministers on the Smart Africa Artificial Intelligence Council.", "as_of": "2026-01-19", "date_precision": "day", "system": "Smart Africa Artificial Intelligence Council", "class": "cooperation"}
+], "systems": [], "note": ""}}}
+}}

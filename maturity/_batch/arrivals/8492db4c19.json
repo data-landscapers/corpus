@@ -1,0 +1,7 @@
+{"slug":"2026-11-06-uganda-considers-tracking-childrens-sim-cards","studies":{
+"aiabuse":{"countries":{"UGA":{"facts":[],"systems":[],"note":"A proposed SIM disclosure rule for child safety; no rule or authority on AI harms."}}},
+"aigovernment":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on AI used by a government body."}}},
+"aisectoral":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Nothing on AI in a public sector system."}}},
+"aisystems":{"countries":{"UGA":{"facts":[],"systems":[{"system":"UCC Testbed Hackathon","country_label":"40 innovators selected to build AI child-safety solutions","class":"other","platform":"","owner":"UCC","tiers":""}],"note":"A hackathon only; no AI model, dataset or computing in service."}}},
+"internetusage":{"countries":{"UGA":{"facts":[],"systems":[],"note":"No share of people using the internet stated."}}}
+}}

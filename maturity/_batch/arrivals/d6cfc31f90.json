@@ -1,0 +1,15 @@
+{"slug":"2026-06-12-gab-gabon-unveils-133m-digital-economy-drive","studies":{
+"businesspayments":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No central bank role stated."}}},
+"consumerprotection":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Nothing on consumer rules or redress."}}},
+"crossborderpayments":{"countries":{"GAB":{"facts":[],"systems":[{"system":"GIMAC programme","country_label":"Named as an ongoing initiative for secure digital payments","class":"other","platform":"","owner":"","tiers":""}],"note":"GIMAC is named only as an aim, with no corridor or participation stated."}}},
+"digitalstrategy":{"countries":{"GAB":{"facts":[
+{"sub_indicator":"national","aspect":"standing","value":"announced","fact":"Digital Economy minister Mark-Alexandre Doumba outlined Gabon's 2025-2030 digital development plan, built on four priorities: infrastructure, public services, cybersecurity and innovation, per ITWeb Africa; no adoption by cabinet or head of state is stated.","as_of":"2026-06","date_precision":"month","system":"2025-2030 digital development plan","class":"national"},
+{"sub_indicator":"national","aspect":"period","value":"to:2030","fact":"The minister described the digital development plan as running 2025 to 2030, per ITWeb Africa.","as_of":"2026-06","date_precision":"month","system":"2025-2030 digital development plan","class":"national"}],"systems":[{"system":"2025-2030 digital development plan","country_label":"Gabon digital development plan 2025-2030","class":"national","platform":"","owner":"Ministry of Digital Economy, Digitalisation and Innovation","tiers":""}],"note":""}}},
+"egovservices":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Only a vague mention of expanded e-government services; no portal or count."}}},
+"g2ppayments":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
+"internetusage":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Only a journalist's remark that internet penetration is below 60%, with no figure, year or source."}}},
+"paymentsuptake":{"countries":{"GAB":{"facts":[],"systems":[],"note":"No survey share of adults with an account stated."}}},
+"retailpayments":{"countries":{"GAB":{"facts":[],"systems":[{"system":"Magadipe digitalisation platform","country_label":"Named with GIMAC as aimed at secure digital payments","class":"other","platform":"","owner":"","tiers":""}],"note":"Initiatives named by aim only; no mobile money service in service is stated."}}},
+"revenuecollection":{"countries":{"GAB":{"facts":[],"systems":[],"note":"Nothing on electronic payment of taxes or fees."}}}
+}}

@@ -1,0 +1,32 @@
+{"slug": "2026-06-01-mus-ministere-des-technologies-de-l-information-et-de-la-communication-une", "studies": {
+"aiabuse": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Only FAIR Guidelines adopted in February 2026 are named, with no stated legal effect or authority over AI harms."}}},
+"aigovernment": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "The ministry's own review says DIVA was adopted in December 2025 as the official virtual assistant of all ministries.", "as_of": "2025-12", "date_precision": "month", "system": "DIVA", "class": "govai"},
+{"sub_indicator": "govai", "aspect": "bodies", "value": "several", "fact": "The ministry's own review says DIVA was adopted in December 2025 as the official virtual assistant of all ministries.", "as_of": "2025-12", "date_precision": "month", "system": "DIVA", "class": "govai"}
+], "systems": [{"system": "DIVA", "country_label": "Mauritius", "class": "govai", "platform": "virtual assistant", "owner": "Ministry of ICT", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No AI tool in a sector's public system is stated; the Public Sector AI Programme is a budget commitment only."}}},
+"aistrategy": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The ministry's review says the National AI Strategy and the FAIR Guidelines were adopted in February 2026, nearly two months before their public launch.", "as_of": "2026-02", "date_precision": "month", "system": "National AI Strategy", "class": "strategy"}
+], "systems": [], "note": "A National AI Unit was created in December 2025 but the document does not tie it to the strategy."}}},
+"aisystems": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing is stated."}}},
+"authentication": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "The ministry's review says KOREK!, the rebranded Mobile ID, was launched at the end of January 2026 with a penalty points system.", "as_of": "2026-01", "date_precision": "month", "system": "KOREK! (Mobile ID)", "class": "authentication"}
+], "systems": [{"system": "KOREK! (Mobile ID)", "country_label": "Mauritius", "class": "authentication", "platform": "mobile app", "owner": "Ministry of ICT", "tiers": ""}], "note": ""}}},
+"cybersecurity": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The ministry's review says the National Cybersecurity Committee was constituted in April 2026.", "as_of": "2026-04", "date_precision": "month", "system": "National Cybersecurity Committee", "class": "response"}
+], "systems": [{"system": "MAUCORS+", "country_label": "Mauritius", "class": "other", "platform": "cybercrime reporting platform", "owner": "Ministry of ICT", "tiers": ""}], "note": "CII Regulations promulgated August 2025 and in force May 2026, but no designation of systems or reporting duty to a national body is stated."}}},
+"cybersecuritylaw": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Alignment of the Cybersecurity and Cybercrime Act is only a budget commitment; no law status or use is stated."}}},
+"datacentres": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The Rs 70 million Tier IV data centre is an allocation the paper questions; no facility in service is stated."}}},
+"dataprotectionlaw": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Only Cabinet drafting instructions to amend the Data Protection Act (January 2026) are stated; the law's own standing is not."}}},
+"digitalsovereignty": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "The ministry's review says discussions opened with Broadcom in April 2026 on a National Sovereign Cloud.", "as_of": "2026-04", "date_precision": "month", "system": "National Sovereign Cloud", "class": "sovereignty"}
+], "systems": [], "note": ""}}},
+"digitalstrategy": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "national", "aspect": "period", "value": "to:2029", "fact": "The ministry's review names the Digital Transformation Blueprint 2025-2029, issued in May 2025 with 84 projects identified.", "as_of": "2025-05", "date_precision": "month", "system": "Digital Transformation Blueprint 2025-2029", "class": "national"},
+{"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The ministry's review says the Blueprint turns the budget announcements into a roadmap of 84 identified projects, with no cost stated.", "as_of": "2025-05", "date_precision": "month", "system": "Digital Transformation Blueprint 2025-2029", "class": "national"},
+{"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The ministry's review says an inter-ministerial committee for the Blueprint was created in August 2025.", "as_of": "2025-08", "date_precision": "month", "system": "Digital Transformation Blueprint 2025-2029", "class": "national"}
+], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Mauritius Telecom's Rose-Belle infrastructure is named only as a question about the Rs 70 million allocation; no facility in service is stated."}}},
+"startups": {"countries": {"MUS": {"facts": [], "systems": [], "note": "The AI Innovation Start-Up Programme is named only as a budget commitment."}}},
+"techhubs": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No hub, incubator or park is stated."}}}
+}}

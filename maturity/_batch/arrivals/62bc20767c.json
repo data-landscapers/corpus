@@ -1,0 +1,31 @@
+{"slug": "2026-11-06-tza-m-mama-emergency-referral-costs-mobile-money", "studies": {
+"businesspayments": {"countries": {
+ "MWI": {"facts": [], "systems": [], "note": "No e-procurement stated."},
+ "TZA": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {
+ "MWI": {"facts": [], "systems": [], "note": "No central bank role stated."},
+ "TZA": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {
+ "MWI": {"facts": [], "systems": [], "note": "No consumer protection rule stated."},
+ "TZA": {"facts": [], "systems": [], "note": "No consumer protection rule stated."}}},
+"crossborderpayments": {"countries": {
+ "MWI": {"facts": [], "systems": [], "note": "No cross-border channel stated."},
+ "TZA": {"facts": [], "systems": [], "note": "No cross-border channel stated."}}},
+"g2ppayments": {"countries": {
+ "MWI": {"facts": [], "systems": [], "note": "Driver payments by a health dispatch platform are not a social transfer, salary or pension."},
+ "TZA": {"facts": [], "systems": [], "note": "Driver payments by a health dispatch platform are not a social transfer, salary or pension."}}},
+"gridreliability": {"countries": {
+ "MWI": {"facts": [], "systems": [], "note": "No outage count stated."},
+ "TZA": {"facts": [], "systems": [], "note": "Power outages at hospitals mentioned in general; no outage count stated."}}},
+"healthmis": {"countries": {
+ "TZA": {"facts": [], "systems": [{"system": "M-Mama", "country_label": "M-Mama emergency referral dispatch platform", "class": "other", "platform": "", "owner": "state ownership transition", "tiers": ""}], "note": "An emergency dispatch platform, not the national health reporting system."}}},
+"paymentsuptake": {"countries": {
+ "MWI": {"facts": [], "systems": [], "note": "No account survey figure stated."},
+ "TZA": {"facts": [], "systems": [], "note": "No account survey figure stated."}}},
+"retailpayments": {"countries": {
+ "MWI": {"facts": [], "systems": [], "note": "Mobile money is mentioned only as a requirement for expansion; no service stated."},
+ "TZA": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Tech Africa News says M-Mama, operating across all regions of Tanzania, triggers an automated mobile-money payment to community drivers on verified arrival.", "as_of": "2026-11-06", "date_precision": "day", "system": "M-Mama mobile-money payment", "class": "retail"}], "systems": [], "note": ""}}},
+"revenuecollection": {"countries": {
+ "MWI": {"facts": [], "systems": [], "note": "No tax or fee payment stated."},
+ "TZA": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

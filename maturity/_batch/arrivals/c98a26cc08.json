@@ -1,0 +1,13 @@
+{"slug": "2026-11-04-lbr-sen-cyrus-demands-cybersecurity-assessment", "studies": {
+"businesspayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Central Bank of Liberia only named as an institution to brief the Senate."}}},
+"consumerprotection": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No consumer rules for digital finance stated."}}},
+"crossborderpayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No cross-border payments stated."}}},
+"cybersecurity": {"countries": {"LBR": {"facts": [{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "Sen. Momo Cyrus told the Senate on 3 November 2026 that Executive Order No. 163 of 22 April 2026 set up the Office of Technology, Digitalization and Innovation, giving it a central coordinating role in government-wide digital governance and cybersecurity.", "as_of": "2026-04-22", "date_precision": "day", "system": "Office of Technology, Digitalization and Innovation (OTDI)", "class": "response"}], "systems": [{"system": "Office of Technology, Digitalization and Innovation", "country_label": "OTDI", "class": "response", "platform": "", "owner": "Office of the President", "tiers": ""}], "note": ""}}},
+"cybersecuritylaw": {"countries": {"LBR": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "Sen. Cyrus recalled that the Liberia Telecommunications Authority reported on 4 July 2025 that the National Cybersecurity Bill was under Senate committee review, with amendments and a fiscal-impact assessment under consideration; he said its current status is unknown.", "as_of": "2025-07-04", "date_precision": "day", "system": "National Cybersecurity Bill", "class": "law"}], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"offsitebackup": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Backup and recovery systems only listed as a topic for the Senate to ask about."}}},
+"paymentsuptake": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No account-ownership survey stated."}}},
+"retailpayments": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No retail digital payments stated."}}},
+"revenuecollection": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No electronic tax payment stated."}}}
+}}

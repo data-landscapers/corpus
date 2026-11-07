@@ -1,0 +1,186 @@
+{
+ "slug": "2026-11-05-tgo-togo-instant-payment-platform-processed-nearly-cfaf-15-billion-in-tran",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "BCEAO developed the PI-SPI instant payment platform and reported on 5 November 2026 that 17 Togolese payment providers are connected and it processed nearly CFAF 15 billion in Togo by end-October 2026.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "PI-SPI",
+       "class": "oversight"
+      },
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Togo's providers take part in PI-SPI, the BCEAO's regional instant payment system across WAEMU, not PAPSS.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "PI-SPI",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "PI-SPI",
+       "class": "other",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "regional",
+       "value": "regional",
+       "fact": "Togo's payment providers are connected to PI-SPI, the BCEAO's instant payment platform across WAEMU, in service for just over a year by end-October 2026.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "PI-SPI",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "PI-SPI",
+       "class": "other",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "BCEAO rules in force from 2 November 2026 require all interoperable electronic money transfers between individuals within WAEMU to go through PI-SPI, with free domestic transfers up to CFAF 8,000 a day.",
+       "as_of": "2026-11-02",
+       "date_precision": "day",
+       "system": "PI-SPI rules",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "reach",
+       "value": "connect",
+       "fact": "From 2 November 2026 interoperable e-money transfers between individuals within WAEMU must go through PI-SPI, a rule requiring providers to route through the platform.",
+       "as_of": "2026-11-02",
+       "date_precision": "day",
+       "system": "PI-SPI rules",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "PI-SPI",
+       "class": "other",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "PI-SPI lets users in Togo transfer money instantly between different payment providers, connecting banks, e-money institutions, microfinance institutions and payment institutions, with 17 providers connected.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "PI-SPI",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PI-SPI",
+       "country_label": "PI-SPI",
+       "class": "other",
+       "platform": "",
+       "owner": "BCEAO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

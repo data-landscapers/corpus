@@ -1,0 +1,15 @@
+{"slug": "2024-09-24-cmr-enregistrement-des-naissances-seules-135-communes-sur-les-374-dans-le", "studies": {
+"authentication": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Document is about a birth registration campaign; no authentication service stated."}}},
+"birthidlink": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No link between civil register and ID system stated."}}},
+"censuses": {"countries": {"CMR": {"facts": [], "systems": [], "note": "A 2018 MICS is named only for its birth registration rate; no census or survey results stated as a fact for the study."}}},
+"civilregister": {"countries": {"CMR": {"facts": [{"sub_indicator": "civil", "aspect": "coverage", "value": "general", "fact": "UNICEF cites the 2018 MICS by the national statistics institute as putting birth registration in Cameroon at 62%, with the Far North and East sometimes below 50%.", "as_of": "2018", "date_precision": "year", "system": "MICS 2018", "class": "civil"}], "systems": [], "note": ""}}},
+"eparticipation": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No online participation channel stated."}}},
+"idcoverage": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Only birth registration figures given, no count or share of people holding a national ID."}}},
+"idfrombirth": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No ID number at birth stated; the campaign is about birth registration only."}}},
+"idmaintenance": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No national ID system described."}}},
+"localgov": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Councils are named only as campaign participants; no office connection stated."}}},
+"publicconsultation": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No digital law or policy consultation stated."}}},
+"registry": {"countries": {"CMR": {"facts": [], "systems": [], "note": "A birth registration contest among councils is outreach; no digital entry at registration offices stated."}}}
+}}

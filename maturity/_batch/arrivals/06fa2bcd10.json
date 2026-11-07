@@ -1,0 +1,19 @@
+{"slug": "2026-11-05-ken-kenya-seeks-chinese-support-for-digital-economy-and-ai-development", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only talk of accelerating government digitisation; no AI system in a government body stated."}}},
+"aisectoral": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Sector uses of AI are only cited as potential applications."}}},
+"aistrategy": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The National Artificial Intelligence Strategy is named only in passing; adoption, body and funding not stated."}}},
+"aisystems": {"countries": {"KEN": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Kenya's ICT Cabinet Secretary and the Chinese ambassador discussed a proposed US$180 million grant for Phase One of an AI Cloud Data Project slated for Eldoret, to strengthen Kenya's AI and cloud computing infrastructure; the grant was under discussion.", "as_of": "2026-11-05", "date_precision": "day", "system": "AI Cloud Data Project", "class": "localai"}], "systems": [{"system": "AI Cloud Data Project (Phase One)", "country_label": "Kenya", "class": "localai", "platform": "AI and cloud computing infrastructure, Eldoret", "owner": "Government of Kenya with Chinese support (proposed)", "tiers": ""}], "note": ""}}},
+"businesspayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on financial consumer protection."}}},
+"crossborderpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"digitalsovereignty": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Data sovereignty named only as a requirement for alignment; no rule, plan or hosting stated."}}},
+"digitalstrategy": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No digital strategy stated."}}},
+"g2ppayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No survey figure on account ownership."}}},
+"retailpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Mobile money is mentioned only as an experience, with no service detail."}}},
+"revenuecollection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on electronic revenue payment."}}},
+"startups": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on startup law or funds."}}},
+"techhubs": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on hubs or technology parks."}}}
+}}

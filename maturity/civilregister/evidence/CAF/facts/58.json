@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-22-caf-vers-une-identite-pour-tous-en-centrafrique-l-oif-et-le-gouvernement-l",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "An OIF expert quotes UNICEF's March 2025 statistics that 25% of children in the Central African Republic are registered at birth, a national rate not tied to a digital system.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "civil registration",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

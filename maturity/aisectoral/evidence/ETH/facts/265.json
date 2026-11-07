@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-05-ethio-telecom-zte-deploy-ethiopias-first-pre-commercial-ai-ran-solutio",
+ "facts": [],
+ "systems": [
+  {
+   "system": "AIR RAN",
+   "country_label": "Ethio telecom AIR RAN",
+   "class": "other",
+   "platform": "ZTE AIREngine",
+   "owner": "Ethio telecom",
+   "tiers": ""
+  }
+ ],
+ "note": "AI for radio network optimisation is a company's product, not a public sector system."
+}

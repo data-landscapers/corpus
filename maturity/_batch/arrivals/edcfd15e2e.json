@@ -1,0 +1,11 @@
+{"slug": "2026-06-09-gmb-government-suspends-issuance-of-id-cards-and-driver-s-licences-ahead-o", "studies": {
+"authentication": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document states nothing on authentication, e-signature or PKI services."}}},
+"birthidlink": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document states nothing on a link to the civil register."}}},
+"idcoverage": {"countries": {"GMB": {"facts": [], "systems": [], "note": "670,000 replacement cards is a planned issue, not a count or share of people enrolled."}}},
+"idfrombirth": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document states nothing on a number given at birth."}}},
+"idmaintenance": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document states nothing on who operates, maintains or owns the system beyond a public-private partnership name."}}},
+"idregisters": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Document states nothing on public registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"GMB": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Gambiana reports the government has suspended ID card issuance so databases can be reviewed and synchronised before a new national identification management system, run under a public-private partnership with Margins ID Group, launches on 29 June 2026.", "as_of": "2026-06-09", "date_precision": "day", "system": "New identification management system (Margins ID Group PPP)", "class": "robustness"}], "systems": [{"system": "New identification management system", "country_label": "national ID cards and driver's licences system", "class": "idsystem", "platform": "", "owner": "Gambia Immigration Department", "tiers": ""}], "note": ""}}},
+"nonstatefinance": {"countries": {"GMB": {"facts": [], "systems": [], "note": "The Margins ID Group partnership is named with no amount."}}},
+"police": {"countries": {"GMB": {"facts": [], "systems": [], "note": "Police issue driver's licences only, a single function; nothing on station records."}}}
+}}

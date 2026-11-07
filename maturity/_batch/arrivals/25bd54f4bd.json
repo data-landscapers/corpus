@@ -1,0 +1,6 @@
+{"slug":"2026-11-06-zmb-zambia-govt-seeks-tangible-results-from-german-partnership","studies":{
+"aiabuse":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"Nothing on AI rules or an authority."}}},
+"aigovernment":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No government body is said to use or test an AI system."}}},
+"aisectoral":{"countries":{"ZMB":{"facts":[],"systems":[],"note":"No AI tool in a public sector system."}}},
+"aisystems":{"countries":{"ZMB":{"facts":[],"systems":[{"system":"Full-software AI platform (German delegation joint ventures)","country_label":"Planned AI software development platform with Zambian companies","class":"other","platform":"","owner":"German business delegation","tiers":""}],"note":"A software platform and a 50-person training are named; no model, dataset or AI computing is stated."}}}
+}}

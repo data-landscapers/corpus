@@ -1,0 +1,8 @@
+{"slug": "2026-11-05-sle-world-bank-launches-first-ai-readiness-assessment-for-sierra", "studies": {
+"aiabuse": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Document names AI risks only as concerns; no rule or authority."}}},
+"aigovernment": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Document states no government AI system."}}},
+"aisectoral": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Document states no sectoral AI tool."}}},
+"aistrategy": {"countries": {"SLE": {"facts": [], "systems": [{"system": "World Bank AI readiness diagnostic", "country_label": "Sierra Leone", "class": "other", "platform": "", "owner": "World Bank with Ministry of Communication, Technology and Innovation", "tiers": ""}], "note": "A readiness assessment is noted, not a strategy; findings only 'could inform' a future strategy, no drafting stated."}}},
+"aisystems": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Document states no AI model, dataset or computing built in Sierra Leone."}}},
+"dataprotectionlaw": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Data protection is named only as a concern; no law stated."}}}
+}}

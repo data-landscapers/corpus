@@ -1,0 +1,38 @@
+{"slug": "2026-11-01-eth-faydaverse-expands-beyond-national-id-registration", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "FaydaVerse's director says it provides identity verification to institutions, using one-time passwords, and has charged fees for it since August 2026.", "as_of": "2026-08", "date_precision": "month", "system": "FaydaVerse (Fayda national ID)", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "The director says identity verification is available to government institutions, private companies and start-ups, and that banks are charged fees for it.", "as_of": "2026-11-01", "date_precision": "day", "system": "FaydaVerse (Fayda national ID)", "class": "authentication"}
+], "systems": [{"system": "FaydaVerse", "country_label": "Ethiopia", "class": "authentication", "platform": "", "owner": "Ethiopian Investment Holdings", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on links between the civil register and the ID."}}},
+"businesspayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only an offer of data centre development services to other countries; no Ethiopian data centre stated."}}},
+"dataprotectionlaw": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The FaydaVerse director says its work is governed by the Personal Data Protection Act and that one-time passwords are used for verification in accordance with it.", "as_of": "2026-11-01", "date_precision": "day", "system": "Personal Data Protection Act", "class": "general"}
+], "systems": [], "note": ""}}},
+"digitalidlaw": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The FaydaVerse director says its work is governed by the Digital Identity Act.", "as_of": "2026-11-01", "date_precision": "day", "system": "Digital Identity Act", "class": "law"}
+], "systems": [], "note": ""}}},
+"disabilityaccess": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Registration with witnesses for disabled people is enrolment inclusion, not accessible information or digital services."}}},
+"g2ppayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Gives more than 52 million registered but no population or share, and the 40 per cent without proof of identity is a study figure, not enrolment."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on a number given at birth."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the platform."}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Farmers' profiles work with the Agricultural Transformation Institute is not stated as a register keyed on the ID number."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The FaydaVerse director says more than 52 million citizens have registered for the national ID, which uses a 16-digit identification number, with 15,000 registration machines.", "as_of": "2026-11-01", "date_precision": "day", "system": "Fayda national ID", "class": "idsystem"}
+], "systems": [{"system": "Fayda national ID", "country_label": "Ethiopia", "class": "idsystem", "platform": "", "owner": "FaydaVerse", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The FaydaVerse director says banks and other institutions verify customers' identities against the national ID, with fees charged since August 2026.", "as_of": "2026-08", "date_precision": "month", "system": "FaydaVerse identity verification", "class": "relying"}
+], "systems": [], "note": ""}}},
+"landregister": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Says land registration uses of the ID would need further development; no land register stated."}}},
+"nationaldatacentres": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No data centre stated."}}},
+"paymentsuptake": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No survey of account holding."}}},
+"publicconsultation": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on consultation."}}},
+"retailpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on retail payments."}}},
+"revenuecollection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"startups": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No startup law or fund stated."}}},
+"techhubs": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on hubs or parks."}}}
+}}

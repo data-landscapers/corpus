@@ -1,0 +1,25 @@
+{"slug": "2025-02-02-mar-dgsn-national-trust-platform-32-million-ecnie", "studies": {
+"authentication": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Morocco's national police directorate (DGSN) launched the National Trust Platform in April 2022, which provides electronic identification and proof of identity through the national ID card.", "as_of": "2022-04", "date_precision": "month", "system": "National Trust Platform (Plateforme Nationale de Confiance)", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "The DGSN says the platform links citizens to government, administrative, health and tax e-services and to private bodies such as banks, insurers and e-commerce firms, which need DGSN authorisation to use it.", "as_of": "2025-02", "date_precision": "month", "system": "National Trust Platform (Plateforme Nationale de Confiance)", "class": "authentication"}
+], "systems": [{"system": "National Trust Platform", "country_label": "Morocco", "class": "authentication", "platform": "", "owner": "DGSN", "tiers": "offline and online modes"}], "note": ""}}},
+"birthidlink": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document does not mention civil register links."}}},
+"dataprotectionauthority": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Document only mentions a CNDP seminar; no appointment or ruling stated."}}},
+"dataprotectionlaw": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No law, regulation or application stated."}}},
+"egovservices": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Describes an identity platform, not a count or portal of government services."}}},
+"idcoverage": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "coverage", "aspect": "share", "value": "twothirds", "fact": "The DGSN spokesperson says 32 million electronic ID cards plus 2.7 million for Moroccans abroad have been issued since 2008, meaning 87% of Moroccan citizens have been identified.", "as_of": "2025-02", "date_precision": "month", "system": "National electronic ID card (CNIE)", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"idfrombirth": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Says DGSN developed the trust platform; nothing on who maintains or owns the ID system."}}},
+"idregisters": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is named."}}},
+"idrobustness": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The DGSN says it has issued 32 million electronic ID cards since the electronic card was adopted in 2008, each giving the holder a digital identity.", "as_of": "2025-02", "date_precision": "month", "system": "National electronic ID card (CNIE)", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"idverification": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The DGSN says service providers verify customers' identity against the national ID through its trust platform, offline (for example when buying a SIM card) or online by delegating verification to the DGSN.", "as_of": "2025-02", "date_precision": "month", "system": "National Trust Platform (Plateforme Nationale de Confiance)", "class": "relying"},
+{"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "The DGSN says the platform serves government, health and tax services and private sector banks, insurers and e-commerce firms, which must get DGSN authorisation.", "as_of": "2025-02", "date_precision": "month", "system": "National Trust Platform (Plateforme Nationale de Confiance)", "class": "relying"}
+], "systems": [], "note": ""}}},
+"internationalstandards": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Card security 'to latest international standards' names no standard or body."}}},
+"police": {"countries": {"MAR": {"facts": [], "systems": [], "note": "DGSN named only as ID platform operator; nothing on station records."}}}
+}}

@@ -1,0 +1,9 @@
+{"slug": "2026-11-05-civ-cote-divoire-aip-le-ministre-djibril-ouattara-annonce-24-mois-daccompa", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on AI rules or an authority."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on AI used by a government body."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on AI in a public sector system."}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "AI is named only as an area of support to firms; nothing built or hosted."}}},
+"digitalsovereignty": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Sovereignty appears only as a programme aim; no rule or plan on state data stated."}}},
+"startups": {"countries": {"CIV": {"facts": [{"sub_indicator": "startuppolicy", "aspect": "law", "value": "adopted", "fact": "Minister Djibril Ouattara said on 4 November 2026 that the Startup Act was adopted in November 2023.", "as_of": "2023-11", "date_precision": "month", "system": "Startup Act", "class": "startuppolicy"}, {"sub_indicator": "startuppolicy", "aspect": "labelled", "value": "labelled", "fact": "On 4 November 2026 the government named 14 start-ups under Ivoire Tech Next 15 and 18 SMEs under Ivoire Tech Scale Up for 24 months of state support, as a step in implementing the Startup Act.", "as_of": "2026-11-04", "date_precision": "day", "system": "Startup Act", "class": "startuppolicy"}], "systems": [], "note": ""}}},
+"techhubs": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Names a national network of incubators and hubs only in passing; no hub or programme cohort described."}}}
+}}

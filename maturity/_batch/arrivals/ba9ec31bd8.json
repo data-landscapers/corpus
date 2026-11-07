@@ -1,0 +1,41 @@
+{
+ "slug": "2026-11-06-le-zimbabwe-veut-sinspirer-de-linde-pour-developper-son-economie-numer",
+ "studies": {
+  "ictproduction": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Aspirations on BPO and minerals processing only; no plant or figure."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Aims to attract Indian capital; MoU not concluded, no amount."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Only Indian startup figures and a funding-access difficulty; no Zimbabwe law or fund."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "No Zimbabwe hub or park named."
+    }
+   }
+  }
+ }
+}

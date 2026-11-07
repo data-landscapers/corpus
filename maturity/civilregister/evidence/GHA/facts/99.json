@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-03-gha-births-and-deaths-registry-records-663-223-births-in-2023",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "The Births and Deaths Registry's PRO said national birth registration coverage has been over 70 percent, not tied to a digital system.",
+   "as_of": "2024-02-03",
+   "date_precision": "day",
+   "system": "",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

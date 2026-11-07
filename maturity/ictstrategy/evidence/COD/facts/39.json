@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-25-cod-economie-numerique-validation-technique-de-la-psen-2026-2030-une-nouve",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "validated",
+   "fact": "A technical validation workshop in Kinshasa on 21-22 July 2026 validated the draft Politique sectorielle de l'économie numérique (PSEN) 2026-2030, subject to amendments, ahead of final adoption.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "PSEN 2026-2030",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2030",
+   "fact": "The draft PSEN covers 2026-2030, led by the Ministry of Digital Economy with UNDP technical and financial support.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "PSEN 2026-2030",
+   "class": "sector"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

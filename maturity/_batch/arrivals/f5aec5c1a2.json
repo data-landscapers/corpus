@@ -1,0 +1,16 @@
+{"slug": "2026-08-25-swz-birth-and-death-registration-in-eswatini-reach-61-and-62-in-2025-cso-r", "studies": {
+"admindata": {"countries": {"SWZ": {"facts": [
+{"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "Eswatini's Central Statistical Office launched the 2025 CRVS Annual Report, releasing birth registration completeness of 61% and death registration completeness of 62% for 2025.", "as_of": "2026-08", "date_precision": "month", "system": "2025 CRVS Annual Report", "class": "admin"}
+], "systems": [{"system": "2025 CRVS Annual Report", "country_label": "CRVS Annual Report 2025", "class": "admin", "platform": "", "owner": "Central Statistical Office", "tiers": ""}], "note": "The article does not say the figures are drawn from registration records."}}},
+"authentication": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "The document does not mention authentication."}}},
+"birthidlink": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "The document states no link between the civil register and the ID system; integration is only a stated priority."}}},
+"civilregister": {"countries": {"SWZ": {"facts": [
+{"sub_indicator": "civil", "aspect": "coverage", "value": "general", "fact": "Eswatini's Central Statistical Office says birth registration completeness reached 61% in 2025 (8.3% in 2016), a national rate not tied to a digital system.", "as_of": "2025", "date_precision": "year", "system": "", "class": "civil"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "The document gives civil registration completeness, not the share of people holding a national ID."}}},
+"idfrombirth": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "The document names no ID number given at birth."}}},
+"idmaintenance": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "The document does not mention who runs the ID system."}}},
+"idregisters": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "The document does not mention registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "The document does not describe a national ID system."}}},
+"registry": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Digitalisation of records is named only as a priority for 2027-2036; no digital entry at offices is stated."}}}
+}}

@@ -1,0 +1,6 @@
+{"slug": "2026-11-06-sdn-suna-digital-transformation-reconstruction-un-governance-summit", "studies": {
+"aiabuse": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Says laws on digital transformation, cybersecurity, data and AI were recently approved; no harm, entry into force or authority stated."}}},
+"aigovernment": {"countries": {"SDN": {"facts": [], "systems": [{"system": "Baladna", "country_label": "Baladna platform", "class": "other", "platform": "", "owner": "Digital Transformation Authority", "tiers": ""}], "note": "Baladna is a digital services platform with no AI stated."}}},
+"aisectoral": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing stated."}}}
+}}

@@ -1,0 +1,126 @@
+{
+ "slug": "2026-07-05-cmr-a-name-a-document-a-future-cameroon-s-fight-to-register-every-child",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "coverage",
+       "value": "general",
+       "fact": "UNICEF estimates that of 560,000 births recorded in health facilities in 2023, 43.77 percent were officially registered; the rate is not tied to a digital system.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "civil registration",
+       "class": "civil"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "made",
+       "value": "local",
+       "fact": "The municipality of Garoua 2 shifted from handwritten registers to digital civil status systems, allowing certificates to be issued within minutes, according to the article.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "digital civil status system (Garoua 2)",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "digital civil status system (Garoua 2)",
+       "country_label": "Cameroon",
+       "class": "civil",
+       "platform": "",
+       "owner": "Garoua 2 municipality",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,5 @@
+{"slug": "2025-12-01-gab-gabon-hisp-renforce-le-systeme-d-information-sanitaire-pour-une-meille", "studies": {
+"health": {"countries": {"GAB": {"facts": [], "systems": [{"system": "DHIS2 logistics dashboard", "country_label": "Gabon", "class": "single-function", "platform": "DHIS2", "owner": "Ministry of Health DCSE", "tiers": ""}], "note": "The configured DHIS2 content is supply-chain logistics, a single function; no tiers or clinic share."}}},
+"healthmis": {"countries": {"GAB": {"facts": [], "systems": [{"system": "DHIS2 logistics dashboard", "country_label": "Gabon", "class": "other", "platform": "DHIS2", "owner": "Ministry of Health DCSE", "tiers": ""}], "note": "Describes logistics indicators and training only; no national routine reporting in service is stated."}}},
+"itcapacity": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Six ministry, ANINF and WHO staff were trained on DHIS2 servers, which is training, not staff running a system."}}}
+}}

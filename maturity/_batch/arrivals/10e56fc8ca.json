@@ -1,0 +1,68 @@
+{
+  "slug": "2026-06-08-mwi-malawi-digital-economy",
+  "studies": {
+    "authentication": {"countries": {"MWI": {"facts": [], "systems": [{"system": "digital signatures", "country_label": "Malawi", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Guide says digital signatures are used at very low scale and a central certificate system is needed; no state-accepted service stated."}}},
+    "birthidlink": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+    "businesspayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+    "centralbank": {"countries": {"MWI": {"facts": [], "systems": [], "note": "RBM named only as a policy body; no payments mandate, licensing or switch stated."}}},
+    "civilserviceskills": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No civil service training stated."}}},
+    "consumerprotection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Only general statements that regulation protects consumers; no digital finance rule named."}}},
+    "crossborderpayments": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No cross-border channel stated."}}},
+    "cybersecurity": {"countries": {"MWI": {"facts": [
+      {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The US International Trade Administration guide says cybersecurity is being strengthened through legislation and the establishment of a Computer Emergency Response Team.", "as_of": "2026-06-08", "date_precision": "day", "system": "Computer Emergency Response Team", "class": "response"}
+    ], "systems": [{"system": "Computer Emergency Response Team", "country_label": "Malawi CERT", "class": "response", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+    "cybersecuritylaw": {"countries": {"MWI": {"facts": [
+      {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The guide describes the Electronic Transactions and Cyber Security Act as setting guidelines on electronic transactions, cyber security and data misuse to protect ICT users from cybercrime and digital fraud.", "as_of": "2026-06-08", "date_precision": "day", "system": "Electronic Transactions and Cyber Security Act", "class": "law"}
+    ], "systems": [], "note": ""}}},
+    "datalocalisation": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Guide headlines a localization barrier but describes only a condition on transfers abroad, which is not a rule to keep data at home."}}},
+    "dataprotectionauthority": {"countries": {"MWI": {"facts": [
+      {"sub_indicator": "body", "aspect": "standing", "value": "provided", "fact": "The guide says the Data Protection Act is enforced by the Data Protection Authority, which can investigate and impose fines; it does not say the authority is appointed.", "as_of": "2026-06-08", "date_precision": "day", "system": "Data Protection Authority", "class": "authority"}
+    ], "systems": [{"system": "Data Protection Authority", "country_label": "Malawi Data Protection Authority", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+    "dataprotectionlaw": {"countries": {"MWI": {"facts": [
+      {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The guide says the Data Protection Act was finalised and approved by Government in 2023/24, and describes its rules and its enforcement by the Data Protection Authority in the present tense.", "as_of": "2024", "date_precision": "year", "system": "Data Protection Act", "class": "general"},
+      {"sub_indicator": "general", "aspect": "authority", "value": "provided", "fact": "The guide says the Data Protection Act is enforced by the Data Protection Authority, which can investigate and impose fines; no appointment is stated.", "as_of": "2026-06-08", "date_precision": "day", "system": "Data Protection Authority", "class": "general"}
+    ], "systems": [], "note": ""}}},
+    "datatransfers": {"countries": {"MWI": {"facts": [
+      {"sub_indicator": "rule", "aspect": "standing", "value": "in-force", "fact": "The guide says the Data Protection Act restricts transfer of personal data outside Malawi unless the receiving country has adequate data protection laws or mechanisms such as binding corporate rules are in place.", "as_of": "2026-06-08", "date_precision": "day", "system": "Data Protection Act", "class": "rule"},
+      {"sub_indicator": "rule", "aspect": "open", "value": "open", "fact": "The guide says transfers abroad are allowed where the receiving country has adequate protection or binding corporate rules are in place, so some transfers need no case-by-case permission.", "as_of": "2026-06-08", "date_precision": "day", "system": "Data Protection Act", "class": "rule"}
+    ], "systems": [], "note": ""}}},
+    "digitalskills": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Only vague efforts to promote digital literacy; no programme named."}}},
+    "digitalsovereignty": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on state data control."}}},
+    "digitalstrategy": {"countries": {"MWI": {"facts": [
+      {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The guide says the National Digitalization Policy and the Digital Economy Strategy were finalised in 2023/24 and approved by Government.", "as_of": "2024", "date_precision": "year", "system": "Digital Economy Strategy", "class": "national"},
+      {"sub_indicator": "national", "aspect": "period", "value": "to:2026", "fact": "The guide gives the Malawi Digital Economy Strategy a period of 2021-2026.", "as_of": "2026-06-08", "date_precision": "day", "system": "Digital Economy Strategy", "class": "national"},
+      {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The guide says the strategy sets targets for 2026: internet usage 80 percent, broadband coverage 95 percent, device ownership 80 percent and energy access 20 percent; no costing is stated.", "as_of": "2026-06-08", "date_precision": "day", "system": "Digital Economy Strategy", "class": "national"}
+    ], "systems": [{"system": "Digital Economy Strategy", "country_label": "Malawi Digital Economy Strategy 2021-2026", "class": "national", "platform": "", "owner": "Ministry of Information and Digitalization", "tiers": ""}], "note": ""}}},
+    "ecommercelaw": {"countries": {"MWI": {"facts": [
+      {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The guide says the Electronic Transactions and Cyber Security Act sets guidelines for electronic transactions, requires suppliers to give consumers information and lets consumers withdraw from electronic contracts.", "as_of": "2026-06-08", "date_precision": "day", "system": "Electronic Transactions and Cyber Security Act", "class": "law"}
+    ], "systems": [], "note": ""}}},
+    "g2ppayments": {"countries": {"MWI": {"facts": [
+      {"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "The guide says mobile money has facilitated social cash transfers and improved the targeting of beneficiaries for social assistance programmes.", "as_of": "2026-06-08", "date_precision": "day", "system": "mobile money", "class": "g2p"}
+    ], "systems": [], "note": ""}}},
+    "idcoverage": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+    "idfrombirth": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+    "idmaintenance": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+    "idregisters": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+    "idrobustness": {"countries": {"MWI": {"facts": [
+      {"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The guide names the national digital identity system among government digitisation efforts and says mobile money is used to pay Digital ID renewal fees.", "as_of": "2026-06-08", "date_precision": "day", "system": "national digital identity system", "class": "idsystem"}
+    ], "systems": [{"system": "national digital identity system", "country_label": "Malawi national digital ID", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+    "internetusage": {"countries": {"MWI": {"facts": [
+      {"sub_indicator": "use", "aspect": "users", "value": "estimate:27.7", "fact": "The guide says current statistics put internet usage in Malawi at 27.7 percent of the population, without naming the source or year.", "as_of": "2026-06-08", "date_precision": "day", "system": "", "class": "use"}
+    ], "systems": [], "note": ""}}},
+    "mobileaffordability": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Only a share for 300 MB with no plan period; not a monthly 5 GB figure."}}},
+    "paymentsuptake": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Gives 45 percent of individuals using digital financial services, not an account survey share."}}},
+    "retailpayments": {"countries": {"MWI": {"facts": [
+      {"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The guide says over 10.1 million Malawians are registered mobile money subscribers, with over 60 percent using the services routinely.", "as_of": "2026-06-08", "date_precision": "day", "system": "mobile money", "class": "retail"}
+    ], "systems": [{"system": "mobile money", "country_label": "Malawi mobile money", "class": "retail", "platform": "", "owner": "", "tiers": ""}], "note": "Guide says each network and institution uses its own gateway; no interoperability stated."}}},
+    "revenuecollection": {"countries": {"MWI": {"facts": [
+      {"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "The guide says mobile money is integrated into public service delivery, such as paying Digital ID renewal fees.", "as_of": "2026-06-08", "date_precision": "day", "system": "mobile money", "class": "revenue"}
+    ], "systems": [], "note": ""}}},
+    "ruralelectrification": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Only a national electricity access figure of 23 percent, not rural."}}},
+    "schoolinternet": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No school internet share or compulsory subject stated."}}},
+    "socialprotection": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No programme information system named."}}},
+    "startups": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No startup law or fund stated."}}},
+    "techhubs": {"countries": {"MWI": {"facts": [
+      {"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "The guide names mHub, the MUBAS Innovation Hub and the Agribiz hub as innovation hubs fostering digital entrepreneurship, with no programme or cohort described.", "as_of": "2026-06-08", "date_precision": "day", "system": "mHub", "class": "hub"}
+    ], "systems": [{"system": "mHub", "country_label": "mHub", "class": "hub", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}
+  }
+}

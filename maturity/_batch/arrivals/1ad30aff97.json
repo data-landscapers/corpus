@@ -1,0 +1,8 @@
+{"slug": "2026-11-06-mauritius-telecom-launches-free-digital-and-ai-skills-training-platfor", "studies": {
+"aiabuse": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on AI rules or an authority."}}},
+"aigovernment": {"countries": {"MUS": {"facts": [], "systems": [], "note": "A training platform, not AI used by a government body."}}},
+"aisectoral": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No AI tool in a public sector system stated."}}},
+"aisystems": {"countries": {"MUS": {"facts": [], "systems": [], "note": "A skills course portal, not an AI model, dataset or computing."}}},
+"civilserviceskills": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Open to the public; civil servants are not named."}}},
+"digitalskills": {"countries": {"MUS": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "Tech Review Africa reports Mauritius Telecom and AWS launched the free myt Learning Hub portal with 16 digital and AI courses for all Mauritians, as part of the government's target to train 50,000 people, with no number trained stated.", "as_of": "2026-11-06", "date_precision": "day", "system": "myt Learning Hub", "class": "publicskills"}], "systems": [{"system": "myt Learning Hub", "country_label": "myt Learning Hub", "class": "publicskills", "platform": "", "owner": "Mauritius Telecom with AWS", "tiers": ""}], "note": ""}}}
+}}

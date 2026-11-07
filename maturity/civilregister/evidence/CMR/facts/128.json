@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-05-cmr-a-name-a-document-a-future-cameroon-s-fight-to-register-every-child",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "UNICEF estimates that of 560,000 births recorded in health facilities in 2023, 43.77 percent were officially registered; the rate is not tied to a digital system.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "civil registration",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

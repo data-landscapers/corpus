@@ -1,0 +1,11 @@
+{"slug": "2025-12-03-mrt-mauritanie-24-2-millions-pour-poursuivre-la-transformation-numerique-e", "studies": {
+"datacentres": {"countries": {"MRT": {"facts": [], "systems": [], "note": "A Tier 3 data centre was inaugurated in 2025, but the article does not say it rents space or computing to others."}}},
+"digitalsovereignty": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Only a ministerial statement on strengthening digital sovereignty in general; no strategy, rule or hosting stated."}}},
+"egovservices": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Says key services were digitised in several sectors, with no portal, count or named service."}}},
+"exchangepoints": {"countries": {"MRT": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "Agence Ecofin reports Mauritania put a new internet exchange point (IXP) into service during 2025.", "as_of": "2025", "date_precision": "year", "system": "IXP", "class": "exchange"}
+], "systems": [], "note": ""}}},
+"internationalbandwidth": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Only the landing station of a second submarine cable was built; not stated in service."}}},
+"internetusage": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Gives an internet penetration rate of 37.4% for 2023 only, before the 2024 window and not clearly a share of people."}}},
+"nationaldatacentres": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No owner or hire stated for the Tier 3 data centre."}}}
+}}

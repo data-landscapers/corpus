@@ -1,0 +1,25 @@
+{"slug": "2026-11-06-tun-passeport-carte-didentite-permis-les-demarches-a-distance-promises-ava", "studies": {
+"authentication": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Minister Sofiene Hemissi says the Khadamet mobile app, launched end August 2026, gives access to more than forty administrative services through digital identity.", "as_of": "2026-08", "date_precision": "month", "system": "Khadamet", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "Digital identity is used across more than forty services in Khadamet, and MobileID also gives access to the Portail du citoyen for birth-extract translation requests (Interior Ministry, 31 August 2026).", "as_of": "2026-08-31", "date_precision": "day", "system": "MobileID", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "remote", "value": "wallet", "fact": "The Interior Ministry presented a remote service on the Portail du citoyen reached through the MobileID digital identity on 31 August 2026.", "as_of": "2026-08-31", "date_precision": "day", "system": "MobileID", "class": "authentication"}
+], "systems": [{"system": "Khadamet", "country_label": "Tunisia", "class": "other", "platform": "mobile app", "owner": "Ministry of Communication Technologies", "tiers": ""}, {"system": "MobileID", "country_label": "Tunisia", "class": "authentication", "platform": "digital identity", "owner": "", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
+"businesspayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No consumer protection stated."}}},
+"crossborderpayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No cross-border payments stated."}}},
+"g2ppayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"idcoverage": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on the national ID system's issuance, biometrics or certification."}}},
+"localgov": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No local government office connection stated."}}},
+"localrecords": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Municipal tax e-payment is only announced, with no record system stated."}}},
+"paymentsuptake": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No survey of account holding stated."}}},
+"retailpayments": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No mobile money or retail payment service stated."}}},
+"revenuecollection": {"countries": {"TUN": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "Minister Hemissi announced on 6 November 2026 that electronic payment of municipal taxes in some municipalities and remote tax filing for individuals will launch before end 2026.", "as_of": "2026-11-06", "date_precision": "day", "system": "remote tax filing and municipal tax e-payment", "class": "revenue"}
+], "systems": [], "note": ""}}}
+}}

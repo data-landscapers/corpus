@@ -1,0 +1,8 @@
+{"slug": "2026-11-05-tza-bunge-laridhia-azimio-la-tanzania-kujiunga-na-mkataba-wa-usalama-angam", "studies": {
+"dataprotectionlaw": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Document concerns the Malabo Convention only; no national law stated."}}},
+"dataprotectionreadiness": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Parliament approved accession, but no deposit or AU register entry is stated, and no law or authority is described."}}},
+"regionallaw": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "harmonisation", "aspect": "accepted", "value": "ratified", "fact": "Tanzania Leo, from the ICT ministry's press unit, reports that Parliament approved the resolution for Tanzania to accede to the African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention); no deposit of the instrument is reported.", "as_of": "2026-11-05", "date_precision": "day", "system": "Malabo Convention", "class": "harmonisation"}
+], "systems": [], "note": ""}}},
+"regionalpolicy": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Accession to the convention is for the regional law study; no membership or agreement on digital policy stated."}}}
+}}

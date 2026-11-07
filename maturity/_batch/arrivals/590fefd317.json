@@ -1,0 +1,12 @@
+{"slug": "2026-11-06-ken-kica-amendment-bill-online-safety-bill-2026-platform-rules", "studies": {
+"authentication": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Age-verification methods in a draft bill only; no authentication service stated."}}},
+"birthidlink": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"dataprotectionauthority": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The Data Protection Commissioner's office is only mentioned as urged to engage platforms; no appointment or ruling stated."}}},
+"dataprotectionlaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The drafts are online safety and platform rules, not data protection law."}}},
+"egovservices": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on government online services."}}},
+"idcoverage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on ID enrolment."}}},
+"idfrombirth": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on ID system operation."}}},
+"idregisters": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}}
+}}

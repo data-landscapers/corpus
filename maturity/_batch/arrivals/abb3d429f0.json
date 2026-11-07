@@ -1,0 +1,12 @@
+{"slug": "2026-08-21-ner-le-niger-accelere-son-projet-d-usine-d-assemblage-d-ordinateurs-et-de", "studies": {
+"businesspayments": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"ictproduction": {"countries": {"NER": {"facts": [], "systems": [{"system": "DHY Technologie assembly plant, Hamdallaye", "country_label": "Niger", "class": "other", "platform": "", "owner": "DHY Technologie SA", "tiers": "63% built, commissioning targeted end October 2026"}], "note": "Plant under construction, not in production."}}},
+"paymentsuptake": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on account ownership."}}},
+"retailpayments": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"schoolinternet": {"countries": {"NER": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

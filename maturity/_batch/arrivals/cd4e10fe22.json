@@ -1,0 +1,61 @@
+{
+ "slug": "2024-04-27-bfa-facteurs-associes-a-lenregistrement-des-naissances-des-mariages-et-des",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "census",
+       "aspect": "census",
+       "value": "taken",
+       "fact": "The abstract cites results of Burkina Faso's 2019 Recensement G\u00e9n\u00e9ral de la Population et de l'Habitation (RGPH), indicating the census was counted in 2019.",
+       "as_of": "2019",
+       "date_precision": "year",
+       "system": "RGPH 2019",
+       "class": "census"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

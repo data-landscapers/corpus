@@ -1,0 +1,22 @@
+{"slug": "2026-07-15-nga-npc-flags-off-nationwide-digital-birth-death-registration", "studies": {
+"admindata": {"countries": {"NGA": {"facts": [], "systems": [], "note": "States no statistics published from administrative records."}}},
+"authentication": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only says VitalReg is designed to integrate with other institutions; no link stated in service or contracted."}}},
+"civilregister": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "civil", "aspect": "births", "value": "inservice", "fact": "NPC chairman Aminu Ibrahim Yusuf said digital birth and death registration on the VitalReg E-CRVS platform began on 1 July 2026 and is operational in all 36 states and the FCT, with paper forms no longer used.", "as_of": "2026-07-01", "date_precision": "day", "system": "VitalReg (E-CRVS)", "class": "civil"},
+{"sub_indicator": "civil", "aspect": "deaths", "value": "digital", "fact": "NPC said deaths are registered in the same digital E-CRVS/VitalReg system, in operation since 1 July 2026.", "as_of": "2026-07-01", "date_precision": "day", "system": "VitalReg (E-CRVS)", "class": "civil"},
+{"sub_indicator": "civil", "aspect": "coverage", "value": "general", "fact": "NPC chairman said national birth registration coverage is about 57 percent and death registration below 20 percent, rates not tied to the digital system.", "as_of": "2026-07-15", "date_precision": "day", "system": "VitalReg (E-CRVS)", "class": "civil"}
+], "systems": [{"system": "VitalReg (E-CRVS)", "country_label": "Electronic Civil Registration and Vital Statistics system / VitalReg", "class": "civil", "platform": "VitalReg", "owner": "National Population Commission", "tiers": "national"}], "note": ""}}},
+"digitalstrategy": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No national digital strategy stated."}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No national ID enrolment share stated; 57% is birth registration, not ID coverage."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No ID number at birth stated."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on the national ID system itself."}}},
+"internationalstandards": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No international IT standard adoption stated."}}},
+"localgov": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No local government office connection stated."}}},
+"registry": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "civil", "aspect": "events", "value": "B;D", "fact": "NPC said birth and death registration moved to the digital VitalReg system from 1 July 2026 in all 36 states and the FCT, no longer on paper forms.", "as_of": "2026-07-01", "date_precision": "day", "system": "VitalReg (E-CRVS)", "class": "civil"},
+{"sub_indicator": "civil", "aspect": "offices", "value": "count:4011", "fact": "NPC chairman said it has established 4,011 functional registration centres across the 774 Local Government Areas and aims to reach about 8,000.", "as_of": "2026-07-15", "date_precision": "day", "system": "VitalReg (E-CRVS)", "class": "civil"}
+], "systems": [{"system": "VitalReg (E-CRVS)", "country_label": "Electronic Civil Registration and Vital Statistics system / VitalReg", "class": "civil", "platform": "VitalReg", "owner": "National Population Commission", "tiers": "national"}], "note": ""}}}
+}}

@@ -1,0 +1,12 @@
+{"slug": "2026-11-05-sdn-cbs-governor-sudan-s-banking-sector-capable-of-confronting-t", "studies": {
+"businesspayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The document does not concern public procurement."}}},
+"centralbank": {"countries": {"SDN": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "Central Bank of Sudan Governor Amna Mirghani announced on 5 November 2026 that the clearinghouse system will operate at full capacity from the following Sunday.", "as_of": "2026-11-05", "date_precision": "day", "system": "clearinghouse system", "class": "oversight"}
+], "systems": [{"system": "clearinghouse system", "country_label": "Clearinghouse system Sudan", "class": "oversight", "platform": "", "owner": "Central Bank of Sudan", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The document states no consumer-protection rules or complaints body."}}},
+"crossborderpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Correspondent banks are mentioned but no digital cross-border corridor is stated."}}},
+"g2ppayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The document does not mention government payments to people."}}},
+"paymentsuptake": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The document gives no survey share of adults with accounts."}}},
+"retailpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Electronic payments, POS and mobile payment expansion were discussed but no service in service is stated."}}},
+"revenuecollection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The document does not mention tax or fee payment."}}}
+}}

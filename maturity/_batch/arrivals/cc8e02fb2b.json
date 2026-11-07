@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-06-cod-justice-en-rdc-digitalisation-des-recettes-judiciaires-pnud-union-europeenne",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "underway",
+       "fact": "DRC's justice ministry, with UNDP support and EU funding, officially launched on or about 5 November 2026 the digitalisation of court fees and the interconnection of courts, prosecution offices and prisons.",
+       "as_of": "2026-11-05",
+       "date_precision": "day",
+       "system": "interconnexion des juridictions, parquets et etablissements penitentiaires",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "interconnexion des juridictions, parquets et etablissements penitentiaires",
+       "country_label": "Justice sector interconnection",
+       "class": "exchange",
+       "platform": "",
+       "owner": "Ministere de la Justice",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

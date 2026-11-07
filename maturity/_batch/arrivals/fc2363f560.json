@@ -1,0 +1,6 @@
+{"slug": "2026-01-01-cmr-restructuring-national-health-information-system-software-to-improve-m", "studies": {
+"health": {"countries": {"CMR": {"facts": [], "systems": [{"system": "national DHIS2 instance", "country_label": "Cameroon", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Public Health", "tiers": ""}], "note": "Says monthly facility data is entered into DHIS2 by facility or district staff, so the level of digital entry is not stated."}}},
+"healthmis": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "The preprint describes Cameroon's national DHIS2 instance, into which facility or district staff enter monthly malaria reports, applied to all ten regions and 202 health districts, with changes made to its malaria section in 2024.", "as_of": "2024", "date_precision": "year", "system": "national DHIS2 instance", "class": "hmis"}
+], "systems": [], "note": ""}}}
+}}

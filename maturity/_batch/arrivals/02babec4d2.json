@@ -1,0 +1,62 @@
+{
+ "slug": "2025-01-22-ken-moh-18-2-million-kenyans-registered-under-sha",
+ "studies": {
+  "disabilityaccess": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "healthexchange": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "The Ministry of Health says the Health Information Exchange was fully deployed as of December 2024, sharing patient records across health facilities.",
+       "as_of": "2024-12",
+       "date_precision": "month",
+       "system": "Health Information Exchange",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "breadth",
+       "value": "wide",
+       "fact": "The Ministry of Health says the national Health Information Exchange, including Client, Health Care Provider and Health Facility Registries, was fully deployed as of December 2024.",
+       "as_of": "2024-12",
+       "date_precision": "month",
+       "system": "Health Information Exchange",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Health Information Exchange",
+       "country_label": "Health Information Exchange",
+       "class": "exchange",
+       "platform": "",
+       "owner": "Ministry of Health",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  }
+ }
+}

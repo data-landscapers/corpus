@@ -1,0 +1,12 @@
+{"slug": "2026-11-06-cbn-sec-divide-crypto-oversight", "studies": {
+"businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"NGA": {"facts": [{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "Under new regulations released 5 November 2026, the Central Bank of Nigeria oversees stablecoins used for payments, transfers, FX conversion and settlement, and firms must apply to it for authorisation (with NGN 1 billion extra capital) to offer these services, per TechCabal.", "as_of": "2026-11-05", "date_precision": "day", "system": "CBN Regulations for the Operations of Non-Security Virtual Assets", "class": "oversight"}], "systems": [], "note": ""}}},
+"consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on consumer protection rules or redress."}}},
+"crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Stablecoin remittance rules are mentioned in general; no corridor, regional system or figures stated."}}},
+"g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentslaw": {"countries": {"NGA": {"facts": [], "systems": [{"system": "CBN Regulations for the Operations of Non-Security Virtual Assets", "country_label": "Nigeria", "class": "other", "platform": "", "owner": "Central Bank of Nigeria", "tiers": "crypto and stablecoin rules, not the payments law"}], "note": "A crypto and virtual asset regulation, which is not the payments law."}}},
+"paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No survey share of adults with accounts."}}},
+"retailpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payment services."}}},
+"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+"techhubs": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The SEC's regulatory incubation programme is not a startup hub or park."}}}
+}}

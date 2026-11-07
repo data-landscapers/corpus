@@ -1,0 +1,12 @@
+{"slug": "2026-11-06-sdn-supporting-sudan-s-banking-sector-what-should-we-expect-from", "studies": {
+"businesspayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No e-procurement system is mentioned."}}},
+"centralbank": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The National Payments Switch is only directed to be launched sooner; no licensing, mandate or oversight in service is stated."}}},
+"consumerprotection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Only the Deposit Guarantee Fund is named, with no digital financial services rule or complaints body."}}},
+"crossborderpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No cross-border digital payment channel is stated; remittances are discussed only as a policy aim."}}},
+"datacentres": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Data centres are mentioned only as needing development and securing."}}},
+"g2ppayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The author says the government should pay salaries electronically; no digital payment in service is stated."}}},
+"nationaldatacentres": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No data centre is named."}}},
+"paymentsuptake": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No survey figure on adults with an account is given."}}},
+"retailpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The National Payments Switch and Baladna links are only directives to accelerate; none is stated in service."}}},
+"revenuecollection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Electronic collection is named only as something the government should extend."}}}
+}}

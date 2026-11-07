@@ -1,0 +1,74 @@
+{
+  "slug": "2026-08-17-sle-93-of-sierra-leone-registered-with-unique-nins",
+  "studies": {
+    "admindata": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No administrative-data statistics named."}}},
+    "authentication": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No authentication, e-signature or PKI service stated."}}},
+    "birthidlink": {"countries": {"SLE": {
+      "facts": [
+        {"sub_indicator": "link", "aspect": "link", "value": "inservice",
+         "fact": "NCRA's Director-General says Sierra Leone has a fully integrated Civil Registration, Vital Statistics and Identity Management System managed in its entirety by NCRA, one body holding both registers.",
+         "as_of": "2026-08-17", "date_precision": "day", "system": "Integrated Civil Registration, Vital Statistics and Identity Management System", "class": "crvslink"}
+      ],
+      "systems": [
+        {"system": "Integrated Civil Registration, Vital Statistics and Identity Management System", "country_label": "Sierra Leone", "class": "crvslink", "platform": "eCRVS", "owner": "NCRA", "tiers": ""}
+      ],
+      "note": ""}}},
+    "businesspayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+    "centralbank": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Bank of Sierra Leone mentioned only as a user of NCRA data; no payments role stated."}}},
+    "civilregister": {"countries": {"SLE": {
+      "facts": [
+        {"sub_indicator": "civil", "aspect": "births", "value": "underway",
+         "fact": "NCRA's Director-General says an integrated electronic CRVS system, digitising and consolidating civil registration, vital statistics and identity management on one modular platform, has been developed with government and EU support; no national in-service rollout or birth coverage is stated.",
+         "as_of": "2026-08-17", "date_precision": "day", "system": "eCRVS", "class": "civil"}
+      ],
+      "systems": [
+        {"system": "eCRVS", "country_label": "Sierra Leone", "class": "civil", "platform": "single modular digital platform", "owner": "NCRA", "tiers": ""}
+      ],
+      "note": ""}}},
+    "consumerprotection": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on digital financial consumer protection."}}},
+    "crossborderpayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+    "digitaldivides": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on rural internet access or use."}}},
+    "g2ppayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+    "idcoverage": {"countries": {"SLE": {
+      "facts": [
+        {"sub_indicator": "coverage", "aspect": "share", "value": "twothirds",
+         "fact": "NCRA's Director-General says approximately 93 percent of Sierra Leone's population has been registered and assigned a unique National Identification Number.",
+         "as_of": "2026-08-17", "date_precision": "day", "system": "National Identification Number (NIN)", "class": "idsystem"}
+      ],
+      "systems": [
+        {"system": "National Identification Number (NIN)", "country_label": "Sierra Leone", "class": "idsystem", "platform": "eCRVS", "owner": "NCRA", "tiers": ""}
+      ],
+      "note": ""}}},
+    "idfrombirth": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No number given at birth registration is stated."}}},
+    "idmaintenance": {"countries": {"SLE": {
+      "facts": [
+        {"sub_indicator": "maintenance", "aspect": "operation", "value": "national",
+         "fact": "NCRA's Director-General says the integrated registration and identity management system is managed in its entirety by the NCRA under the 2016 Act.",
+         "as_of": "2026-08-17", "date_precision": "day", "system": "National Identification Number (NIN)", "class": "idsystem"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "idregisters": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Electoral Commission and banks use NCRA data, but no register is said to be keyed on the ID number."}}},
+    "idrobustness": {"countries": {"SLE": {
+      "facts": [
+        {"sub_indicator": "robustness", "aspect": "system", "value": "inservice",
+         "fact": "NCRA's Director-General says each person is assigned a unique NIN that is never duplicated, reassigned or reused, and NCRA issues ICAO- and ECOWAS-compliant multipurpose biometric identity cards.",
+         "as_of": "2026-08-17", "date_precision": "day", "system": "National Identification Number (NIN)", "class": "idsystem"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "localgov": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on local government office connection."}}},
+    "paymentsuptake": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on account ownership surveys."}}},
+    "populationregister": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No population register named."}}},
+    "registry": {"countries": {"SLE": {
+      "facts": [
+        {"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry",
+         "fact": "NCRA, the statutory authority, manages the civil registration, vital statistics and identity system in its entirety, with the eCRVS platform supported by the Government of Sierra Leone and the European Union.",
+         "as_of": "2026-08-17", "date_precision": "day", "system": "eCRVS", "class": "civil"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "retailpayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Mobile money fraud mentioned only in passing; no service stated."}}},
+    "revenuecollection": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on revenue payment."}}}
+  }
+}

@@ -1,0 +1,101 @@
+{
+ "slug": "2026-11-06-tza-tanzanias-smallholder-farmers-struggle-to-benefit-from-digital-agricul",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "csskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Al Jazeera reports the government's $3.62m Data for Digital Agricultural Transformation Joint Programme (Sept 2024 to Aug 2027) targets training 500 government extension workers.",
+       "as_of": "2026-11-06",
+       "date_precision": "day",
+       "system": "Data for Digital Agricultural Transformation Joint Programme",
+       "class": "csskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Al Jazeera reports the government's $3.62m Data for Digital Agricultural Transformation Joint Programme (Sept 2024 to Aug 2027) targets improving digital literacy for 500,000 farmers.",
+       "as_of": "2026-11-06",
+       "date_precision": "day",
+       "system": "Data for Digital Agricultural Transformation Joint Programme",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "The Ministry of Agriculture's M-Kilimo mobile service and e-Kilimo website and app are reported in use by farmers, for market information, advice and asking extension workers for help.",
+       "as_of": "2026-11-06",
+       "date_precision": "day",
+       "system": "M-Kilimo / e-Kilimo",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-Kilimo",
+       "country_label": "e-Kilimo",
+       "class": "other",
+       "platform": "website and smartphone app",
+       "owner": "Ministry of Agriculture",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on who builds or runs government systems."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on local government offices."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document says nothing on secondary schools."
+    }
+   }
+  }
+ }
+}

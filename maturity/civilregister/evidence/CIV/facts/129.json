@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-31-civ-le-taux-d-enregistrement-annuel-des-naissances-progresse-a-57-6-en-202",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "The Interior Ministry says the annual birth registration rate rose from 54.7% in 2022 to 57.6% in 2025, not tied to a digital system.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

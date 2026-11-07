@@ -1,0 +1,15 @@
+{
+  "slug": "2025-05-21-zaf-the-only-smartphone-factory-in-south-africa",
+  "studies": {
+    "ictproduction": {"countries": {"ZAF": {
+      "facts": [
+        {"sub_indicator": "production", "aspect": "plant", "value": "production",
+         "fact": "MyBroadband reports Mobicel is South Africa's only local smartphone producer, importing parts and assembling phones in the country.",
+         "as_of": "2025-05-21", "date_precision": "day", "system": "Mobicel", "class": "ictproduction"}
+      ],
+      "systems": [
+        {"system": "Mobicel", "country_label": "South Africa", "class": "ictproduction", "platform": "", "owner": "Mobicel", "tiers": ""}
+      ],
+      "note": ""}}}
+  }
+}

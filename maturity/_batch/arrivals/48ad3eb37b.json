@@ -1,0 +1,12 @@
+{"slug": "2026-11-06-gab-gabon-taps-huawei-st-digital-to-build-digital-skills-training-centre", "studies": {
+"aiabuse": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on AI in public administration."}}},
+"aisectoral": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on AI in a sector's public system."}}},
+"aisystems": {"countries": {"GAB": {"facts": [], "systems": [], "note": "AI appears only as a training topic."}}},
+"civilserviceskills": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Training is for technicians and instructors, not civil servants."}}},
+"datacentres": {"countries": {"GAB": {"facts": [], "systems": [], "note": "ST DIGITAL's data centres are named for five countries without saying Gabon."}}},
+"digitalskills": {"countries": {"GAB": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "We Are Tech says ST DIGITAL inaugurated the CFEP-MTIC vocational training centre in Nkok, teaching web development, mobile applications and IT support, as part of the World Bank-supported PRODECE project.", "as_of": "2026-11-06", "date_precision": "day", "system": "CFEP-MTIC", "class": "publicskills"}], "systems": [], "note": ""}}},
+"ictjobs": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Gives youth unemployment at about 30% (World Bank), not an ICT employment share or a figure at 14% or below."}}},
+"nationaldatacentres": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No data centre in Gabon named."}}},
+"schoolinternet": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on school internet or a compulsory digital subject."}}}
+}}

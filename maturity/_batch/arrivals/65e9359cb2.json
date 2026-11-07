@@ -1,0 +1,6 @@
+{"slug": "2024-11-11-gin-guinee-une-usine-d-assemblage-d-ordinateurs-portables-ouvre-ses-portes", "studies": {
+"ictproduction": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "production", "aspect": "plant", "value": "production", "fact": "Prime Minister Amadou Oury Bah inaugurated Guinea's first laptop assembly unit at the Institut Superieur de Technologie in Mamou on 10 November 2024, built with China's Green View and local partner Guinea Technologie Innovation.", "as_of": "2024-11-10", "date_precision": "day", "system": "IST Mamou laptop assembly unit", "class": "ictproduction"}
+], "systems": [], "note": ""}}},
+"internetusage": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The 52% is a government 'penetration rate' estimate not stated as a share of people; the 4.87 million figure is DataReportal's."}}}
+}}

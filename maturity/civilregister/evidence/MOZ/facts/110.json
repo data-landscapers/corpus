@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-28-moz-ine-mocambique-falha-registo-de-9-em-cada-10-bebes-que-nascem",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The electronic civil registration and vital statistics system e-SIRCEV was implemented in 2018, per INE's Estatisticas Vitais 2024-2025; the source does not say whether it covers the whole country.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "e-SIRCEV",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "INE's report says the civil registration system registered 8.8% of 2025 births (8.9% in 2024), not tied to the digital system.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "e-SIRCEV",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-SIRCEV",
+   "country_label": "Mozambique",
+   "class": "civil",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

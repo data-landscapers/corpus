@@ -1,0 +1,61 @@
+{
+ "slug": "2026-11-06-civ-cisco-cybersecurity-centre-cybastion-abidjan",
+ "studies": {
+  "aisectoral": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "underway",
+       "fact": "Cisco, Cybastion and the Ivorian government's Africa DigiEmpower programme aims to train 200,000 young people and women across 10 regions in cybersecurity, networking and AI by 2030, building on two summers of training at U.S. Embassy American Spaces.",
+       "as_of": "2026-11-05",
+       "date_precision": "day",
+       "system": "Africa DigiEmpower",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Africa DigiEmpower",
+       "country_label": "Africa DigiEmpower",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "Cisco, Cybastion, Government of Cote d'Ivoire",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,10 @@
+{"slug": "2026-11-05-sdn-suna-banking-sector-digital-transformation-by-end-2026", "studies": {
+"businesspayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No e-procurement system is mentioned."}}},
+"centralbank": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Only a directive to accelerate the national switch and link banks to the Baldna platform; no licensing, mandate or oversight in service is stated."}}},
+"consumerprotection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No consumer rule or complaints body is mentioned."}}},
+"crossborderpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No cross-border digital payment channel is mentioned."}}},
+"g2ppayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No government payment to people is mentioned."}}},
+"paymentsuptake": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No survey figure on adults with an account is given."}}},
+"retailpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The national switch is only directed to be accelerated; none is stated in service."}}},
+"revenuecollection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No electronic tax or fee payment is mentioned."}}}
+}}

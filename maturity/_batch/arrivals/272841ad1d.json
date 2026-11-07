@@ -1,0 +1,16 @@
+{"slug": "2026-11-06-ken-from-paper-files-to-fingertips-vihiga-unleashes-digital-revolution", "studies": {
+"businesspayments": {"countries": {"KEN": {"facts": [{"sub_indicator": "business", "aspect": "system", "value": "inservice", "fact": "Vihiga County's governor Wilber Ottichilo says county procurement is now done fully online.", "as_of": "2026-11-06", "date_precision": "day", "system": "Vihiga County online procurement", "class": "procurement"}], "systems": [], "note": ""}}},
+"centralbank": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on the central bank's payments role."}}},
+"consumerprotection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on consumer protection."}}},
+"coresystems": {"countries": {"KEN": {"facts": [], "systems": [{"system": "IFMIS", "country_label": "Integrated Financial Management Information System", "class": "other", "platform": "", "owner": "National Treasury and Planning", "tiers": "county"}], "note": "IFMIS is credited only for Vihiga County's payments; no statement on central government use, tax or payroll."}}},
+"crossborderpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on cross-border payments."}}},
+"digitalstrategy": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only a passing mention of the Kenya National Digital Master Plan with no standing, text or period stated."}}},
+"g2ppayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on government payments to people."}}},
+"idregisters": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on registers keyed on the national ID."}}},
+"landadmin": {"countries": {"KEN": {"facts": [{"sub_indicator": "landmis", "aspect": "system", "value": "underway", "fact": "Vihiga County's governor says its Land Information System is 70 percent complete, to help citizens resolve land disputes online.", "as_of": "2026-11-06", "date_precision": "day", "system": "Land Information System (Vihiga County)", "class": "landmis"}], "systems": [], "note": ""}}},
+"landregister": {"countries": {"KEN": {"facts": [{"sub_indicator": "land", "aspect": "register", "value": "underway", "fact": "Vihiga County's governor says its Land Information System is 70 percent complete, built on geospatial infrastructure.", "as_of": "2026-11-06", "date_precision": "day", "system": "Land Information System (Vihiga County)", "class": "land"}], "systems": [], "note": ""}}},
+"localgov": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on the county office's connection."}}},
+"paymentsuptake": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No survey share of adults with accounts stated."}}},
+"retailpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on mobile money or retail payment services."}}},
+"revenuecollection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document states nothing on tax or fee payment."}}}
+}}

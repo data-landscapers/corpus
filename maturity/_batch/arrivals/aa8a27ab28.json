@@ -1,0 +1,14 @@
+{"slug": "2026-08-21-uga-uganda-earns-sh-180-62b-from-ict-exports-as-country-eyes-1-57-trillion", "studies": {
+"aiabuse": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document is about ICT service exports; nothing on AI."}}},
+"aigovernment": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document is about ICT service exports; nothing on AI."}}},
+"aisectoral": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document is about ICT service exports; nothing on AI."}}},
+"aisystems": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Document is about ICT service exports; nothing on AI."}}},
+"businesspayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on the central bank or payments."}}},
+"consumerprotection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on financial consumer protection."}}},
+"crossborderpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on cross-border digital payments."}}},
+"g2ppayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on account ownership."}}},
+"retailpayments": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on retail digital payments."}}},
+"revenuecollection": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing on electronic tax payment."}}}
+}}

@@ -1,0 +1,18 @@
+{"slug": "2026-03-08-tgo-waho-initie-la-mise-en-uvre-du-partage-automatise-des-donnees-de-sante", "studies": {
+"health": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Benin only hosts the workshop."},
+"GMB": {"facts": [], "systems": [], "note": "Regional data-sharing pilot; nothing on clinics or tiers."},
+"LBR": {"facts": [], "systems": [], "note": "Regional data-sharing pilot; nothing on clinics or tiers."},
+"SLE": {"facts": [], "systems": [], "note": "Regional data-sharing pilot; nothing on clinics or tiers."},
+"TGO": {"facts": [], "systems": [], "note": "Regional data-sharing pilot; nothing on clinics or tiers."}}},
+"healthmis": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Benin only hosts the workshop; not a pilot country."},
+"GMB": {"facts": [
+{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "WAHO's workshop brings together Gambia's national health information system managers, and the pilot aligns regional indicators with its national DHIS2 system.", "as_of": "2026-03", "date_precision": "month", "system": "national DHIS2 (NHMIS)", "class": "hmis"}], "systems": [], "note": ""},
+"LBR": {"facts": [
+{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "WAHO's workshop brings together Liberia's national health information system managers, and the pilot aligns regional indicators with its national DHIS2 system.", "as_of": "2026-03", "date_precision": "month", "system": "national DHIS2 (NHMIS)", "class": "hmis"}], "systems": [], "note": ""},
+"SLE": {"facts": [
+{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "WAHO's workshop brings together Sierra Leone's national health information system managers, and the pilot aligns regional indicators with its national DHIS2 system.", "as_of": "2026-03", "date_precision": "month", "system": "national DHIS2 (NHMIS)", "class": "hmis"}], "systems": [], "note": ""},
+"TGO": {"facts": [
+{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "WAHO's workshop brings together Togo's national health information system managers, and the pilot aligns regional indicators with its national DHIS2 system.", "as_of": "2026-03", "date_precision": "month", "system": "national DHIS2 (NHMIS)", "class": "hmis"}], "systems": [], "note": ""}}}
+}}

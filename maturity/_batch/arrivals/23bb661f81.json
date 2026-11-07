@@ -1,0 +1,6 @@
+{"slug":"2024-07-24-moz-epts-centralization-in-mozambique-transforming-provincial-health-data","studies":{
+"health":{"countries":{"MOZ":{"facts":[],"systems":[{"system":"EPTS","country_label":"EPTS (OpenMRS-based, centralised by province)","class":"other","platform":"OpenMRS-EIP","owner":"","tiers":""}],"note":"The page does not say the system holds a general clinical record or reports aggregates; no tiers or clinic share stated."}}},
+"healthexchange":{"countries":{"MOZ":{"facts":[],"systems":[{"system":"EPTS","country_label":"EPTS provincial central database","class":"other","platform":"OpenMRS-EIP","owner":"","tiers":""}],"note":"A single system being centralised; Master Patient Index integration is a later phase and no exchange between systems is stated."}}},
+"healthmis":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Nothing on the national health management information system's reporting."}}},
+"internationalstandards":{"countries":{"MOZ":{"facts":[],"systems":[],"note":"Only a vague claim of alignment with international standards; no named standard or body."}}}
+}}

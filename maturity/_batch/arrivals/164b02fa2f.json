@@ -1,0 +1,41 @@
+{
+ "slug": "2026-11-06-zwe-three-year-free-internet-for-10-zim-schools",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on civil servant training."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "ITU and SES school connection is a schools-only programme, not a government rural programme."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "No programme teaching the public digital skills stated."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Satellite links serve ten schools only; no sale to households or businesses."
+    }
+   }
+  }
+ }
+}

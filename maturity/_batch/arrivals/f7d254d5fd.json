@@ -1,0 +1,35 @@
+{"slug": "2026-09-01-tza-andiko-la-septemba-ya-utambulisho-2026-kuijenga-agenda-ya-utambulisho", "studies": {
+"authentication": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "NIDA says 157 institutions are connected to its registration and identification system, which lets them verify people's personal data for identity authentication and verification when serving them.", "as_of": "2026-08", "date_precision": "month", "system": "NIDA registration and identification system", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "NIDA says 157 institutions, 72 government and 85 private, are connected to its identification system for verification.", "as_of": "2026-08", "date_precision": "month", "system": "NIDA registration and identification system", "class": "authentication"}
+], "systems": [{"system": "NIDA registration and identification system", "country_label": "Tanzania", "class": "authentication", "platform": "", "owner": "NIDA", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
+"businesspayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"consumerprotection": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "g2p", "aspect": "linked", "value": "linked", "fact": "NIDA says its system lets TASAF verify beneficiaries when making electronic payments, so only intended recipients are paid.", "as_of": "2026-09-01", "date_precision": "day", "system": "TASAF electronic payments verified against NIDA", "class": "g2p"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Gives 27,458,882 registered, 87.2% of adults 18 and over by July 2026; no whole-population share, so adults-only figure is not recorded."}}},
+"idfrombirth": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "frombirth", "aspect": "number", "value": "underway", "fact": "The government plans to start registering people under 18 to give them a Jamii Namba from birth, with pilots in Kilolo, Rungwe and a southern district in fiscal year 2026/27, NIDA says.", "as_of": "2026-09-01", "date_precision": "day", "system": "Jamii Namba", "class": "birthnumber"}
+], "systems": [], "note": ""}}},
+"idmaintenance": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "maintenance", "aspect": "operation", "value": "national", "fact": "NIDA, the national authority, registers people and keeps the national register of registration and identification, and runs the system connected to 157 institutions.", "as_of": "2026-09-01", "date_precision": "day", "system": "National Register of Registration and Identification of Persons", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"idregisters": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "NIDA says 8.4 million taxpayer numbers (TIN) have been registered using national ID numbers, for the Tanzania Revenue Authority.", "as_of": "2026-09-01", "date_precision": "day", "system": "TIN registration via NIN", "class": "register"},
+{"sub_indicator": "registers", "aspect": "several", "value": "several", "fact": "NIDA says TIN registration (tax), TASAF beneficiary verification (social protection) and BRELA/PBRA business registration use the national ID number.", "as_of": "2026-09-01", "date_precision": "day", "system": "NIDA-linked registers", "class": "register"}
+], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "NIDA says 23,344,265 national identification numbers have been issued and 27,458,882 people registered by July 2026.", "as_of": "2026-07", "date_precision": "month", "system": "NIDA national ID", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"idrobustness_placeholder_removed": null,
+"paymentsuptake": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No account ownership survey figure."}}},
+"retailpayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on retail digital payments."}}},
+"revenuecollection": {"countries": {"TZA": {"facts": [], "systems": [], "note": "TIN registration is not tax payment; nothing on electronic payment of revenue."}}},
+"taxregister": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "taxpayers", "aspect": "nationalid", "value": "linked", "fact": "NIDA says 8.4 million taxpayer numbers (TIN) have been registered using national ID numbers.", "as_of": "2026-09-01", "date_precision": "day", "system": "TIN registration via NIN", "class": "tax"}
+], "systems": [], "note": ""}}}
+}}

@@ -1,0 +1,54 @@
+{
+ "slug": "2026-11-06-sle-information-minister-tables-two-major-bills-in-parliament",
+ "studies": {
+  "accesstoinformationlaw": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Information Minister Chernor Bah tabled the Data Protection and Right to Access Information Bill, 2026 in Parliament, which completed Introduction and First Reading (SierraLoaded; tabling date not stated).",
+       "as_of": "2026-11-06",
+       "date_precision": "day",
+       "system": "Data Protection and Right to Access Information Bill, 2026",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "tabled",
+       "fact": "Information Minister Chernor Bah tabled the Data Protection and Right to Access Information Bill, 2026 in Parliament, which completed Introduction and First Reading (SierraLoaded; tabling date not stated).",
+       "as_of": "2026-11-06",
+       "date_precision": "day",
+       "system": "Data Protection and Right to Access Information Bill, 2026",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

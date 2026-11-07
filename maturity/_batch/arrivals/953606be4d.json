@@ -1,0 +1,8 @@
+{
+  "slug": "2024-11-07-ago-agenda-para-transicao-digital-conta-com-mais-de-100-projectos-voltados",
+  "studies": {
+    "civilserviceskills": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Says 16 projects affect civil servants, with no digital-skills training named."}}},
+    "landregister": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No land register stated."}}},
+    "localgov": {"countries": {"AGO": {"facts": [], "systems": [{"system": "Sistema Integrado da Administração Autárquica", "country_label": "Angola", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "The integrated local administration system is only planned in the agenda; no connection or use stated."}}}
+  }
+}

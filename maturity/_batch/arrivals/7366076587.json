@@ -1,0 +1,9 @@
+{"slug": "2026-11-06-zaf-ayre-index-commonwealth-youth-ai-readiness", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Says only that South Africa is somewhat behind on AI policy; no rule or authority named."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on AI used by a government body."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on AI in a public sector system."}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on AI built or hosted in the country."}}},
+"civilserviceskills": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Training named is for students and young people, not civil servants."}}},
+"digitalskills": {"countries": {"ZAF": {"facts": [], "systems": [{"system": "DHET-Google scholarships", "country_label": "DHET-Google agreement", "class": "other", "platform": "", "owner": "Department of Higher Education and Training with Google", "tiers": ""}], "note": "Scholarships for professional qualifications and a Microsoft and Youth Employment Service programme; no government public skills programme with a count stated."}}},
+"policyresearch": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "The Ayre Think Tank is not named as a South African institution; no local research stated."}}}
+}}

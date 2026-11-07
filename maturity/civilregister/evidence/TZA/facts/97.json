@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-12-tza-birth-registration-rises-as-tanzania-targets-universal-coverage-by-203",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "Minister Juma Homera said birth registration coverage rose from 55 per cent in 2020 to 68 per cent in 2025, a national rate not tied to a digital system, with a target of 100 per cent by 2030.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "RITA birth registration",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

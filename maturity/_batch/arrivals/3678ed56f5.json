@@ -1,0 +1,7 @@
+{"slug": "2025-08-18-cpv-who-and-ministry-of-health-partnership-drives-modernization-of-the-dea", "studies": {
+"birthidlink": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on a link between registers."}}},
+"civilregister": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Death certification and cause-of-death reporting; no digital civil register stated."}}},
+"healthmis": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Cause-of-death reporting project; DHIS-2 modernisation named only in passing, with no national system stated in service."}}},
+"idfrombirth": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"registry": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on registry offices."}}}
+}}

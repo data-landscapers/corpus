@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-05-ethio-telecom-zte-deploy-ethiopias-first-pre-commercial-ai-ran-solutio",
+  "studies": {
+    "aiabuse": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on AI harm rules."}}},
+    "aigovernment": {"countries": {"ETH": {"facts": [], "systems": [], "note": "A telecom operator's network tool, not government use."}}},
+    "aisectoral": {"countries": {"ETH": {"facts": [], "systems": [{"system": "AIR RAN", "country_label": "Ethio telecom AIR RAN", "class": "other", "platform": "ZTE AIREngine", "owner": "Ethio telecom", "tiers": ""}], "note": "AI for radio network optimisation is a company's product, not a public sector system."}}},
+    "aisystems": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Foreign vendor AI applied to the network; no AI model, dataset or AI computing built or hosted in the country is stated."}}},
+    "digitaldivides": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No rural access programme or rural-urban figure stated."}}},
+    "digitalstrategy": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Digital Ethiopia 2030 is named only in passing; no standing, text or reporting stated."}}}
+  }
+}

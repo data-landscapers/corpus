@@ -1,0 +1,14 @@
+{"slug": "2026-11-06-gin-a-bakou-le-gabon-et-la-guinee-se-rapprochent-pour-moderniser", "studies": {
+"coresystems": {"countries": {
+"GAB": {"facts": [], "systems": [{"system": "SIGRH", "country_label": "Gabon", "class": "other", "platform": "", "owner": "Ministry of Public Service", "tiers": ""}], "note": "The SIGRH is a future system with its tender only announced; nothing in use stated."},
+"GIN": {"facts": [], "systems": [], "note": "No core finance, tax or payroll system stated."}}},
+"dataexchange": {"countries": {
+"GAB": {"facts": [], "systems": [], "note": "Only planned data exchanges of the future SIGRH with payroll, budget and national identification; no platform stated."},
+"GIN": {"facts": [], "systems": [], "note": "Says the government is preparing a data exchange platform between administrations; no build, procurement or pilot stated."}}},
+"egovservices": {"countries": {
+"GAB": {"facts": [], "systems": [], "note": "No online service stated."},
+"GIN": {"facts": [], "systems": [], "note": "An online services portal and a one-stop shop are being prepared; none launched."}}},
+"interoperabilitylaw": {"countries": {
+"GAB": {"facts": [], "systems": [], "note": "No law or decree on data sharing stated."},
+"GIN": {"facts": [], "systems": [], "note": "No law or decree on data sharing stated."}}}
+}}

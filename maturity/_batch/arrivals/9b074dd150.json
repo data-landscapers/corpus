@@ -1,0 +1,13 @@
+{"slug": "2026-07-16-ago-angola-apresenta-estrategia-de-transformacao-digital-da-saude-na-oms", "studies": {
+"aiabuse": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on rules or an authority for AI harms."}}},
+"aigovernment": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Only a pledge to keep investing in AI; no AI system named in service."}}},
+"aisectoral": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Minister only says Angola will keep investing in AI for clinical decisions; no tool named as piloted or in service."}}},
+"aisystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No national AI model, dataset or compute stated."}}},
+"digitalstrategy": {"countries": {"AGO": {"facts": [], "systems": [], "note": "A health-sector strategy is described, not a national digital strategy."}}},
+"health": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "Health Minister Silvia Lutucuta said the ministry has implemented DHIS2 as the main national health data management platform.", "as_of": "2026-07-15", "date_precision": "day", "system": "DHIS2", "class": "hmis"}
+], "systems": [{"system": "DHIS2", "country_label": "Angola", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": ""}], "note": ""}}},
+"healthmis": {"countries": {"AGO": {"facts": [
+{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "Health Minister Silvia Lutucuta said DHIS2 has been implemented as the main national health data management platform, integrating different information platforms and producing analytical dashboards.", "as_of": "2026-07-15", "date_precision": "day", "system": "DHIS2", "class": "hmis"}
+], "systems": [], "note": ""}}}
+}}

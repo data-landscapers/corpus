@@ -1,0 +1,10 @@
+{
+  "slug": "2026-11-06-abidjan-opens-regional-cybersecurity-centre",
+  "studies": {
+    "aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Cybersecurity centre; no AI harm rule or authority stated."}}},
+    "aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on government use of AI."}}},
+    "aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on sector AI rules."}}},
+    "aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on AI systems in service."}}},
+    "ictjobs": {"countries": {"CIV": {"facts": [], "systems": [], "note": "A training programme target only; no employment or youth unemployment figure."}}}
+  }
+}

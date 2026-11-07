@@ -1,0 +1,207 @@
+{
+ "slug": "2025-07-19-gin-matd-les-statistiques-provisoires-du-registre-national-des-personnes-p",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "MATD reported on 19 July 2025 a permanent biometric voter file of 6,748,923 entries, built concurrently with the national register of persons from the 2025 census.",
+       "as_of": "2025-07-19",
+       "date_precision": "day",
+       "system": "fichier electoral biometrique permanent",
+       "class": "electoral"
+      }
+     ],
+     "systems": [
+      {
+       "system": "fichier electoral biometrique permanent",
+       "country_label": "Guinea biometric voter file",
+       "class": "electoral",
+       "platform": "",
+       "owner": "MATD",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "MATD reported on 19 July 2025 a national register of natural persons (RNPP) holding 9,010,181 people after de-duplication of the 2025 census.",
+       "as_of": "2025-07-19",
+       "date_precision": "day",
+       "system": "RNPP",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RNPP",
+       "country_label": "Registre national des personnes physiques",
+       "class": "population",
+       "platform": "",
+       "owner": "MATD",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Guinea."
+    }
+   }
+  }
+ }
+}

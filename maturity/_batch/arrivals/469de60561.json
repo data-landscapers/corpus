@@ -1,0 +1,11 @@
+{"slug": "2024-01-01-syc-seychelles-questionnaire-on-vital-statistics-reporting-year-2024", "studies": {
+"admindata": {"countries": {"SYC": {"facts": [], "systems": [], "note": "A UNSD metadata questionnaire, not a published national product drawn from records."}}},
+"birthidlink": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Document states nothing on a civil register to ID link."}}},
+"censuses": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Document states nothing on a census or household survey."}}},
+"civilregister": {"countries": {"SYC": {"facts": [
+{"sub_indicator": "civil", "aspect": "coverage", "value": "general", "fact": "Seychelles told the UN Statistics Division that completeness of registration of live births and deaths was 100 per cent for 2023, estimated from administrative data, with no digital system named.", "as_of": "2023", "date_precision": "year", "system": "Civil registration (Civil Status Act 1992)", "class": "civil"}
+], "systems": [], "note": ""}}},
+"idfrombirth": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Document states nothing on an ID number at birth."}}},
+"populationregister": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Document names no population register."}}},
+"registry": {"countries": {"SYC": {"facts": [], "systems": [], "note": "Only a share of births registered, which places nothing; no office-level digital entry stated."}}}
+}}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-01-cod-l-unicef-plaide-pour-la-numerisation-des-procedures-de-l-etat-civil",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "Official statistics put the birth registration rate in the DRC at 40%, as cited by the UNICEF-backed advocacy day, with no tie to a digital system.",
+   "as_of": "2024-08-14",
+   "date_precision": "day",
+   "system": "",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

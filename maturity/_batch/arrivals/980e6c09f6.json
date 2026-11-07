@@ -1,0 +1,11 @@
+{"slug": "2026-11-05-samsung-pay-launches-in-morocco-with-mastercard-tokenization-technolog", "studies": {
+"authentication": {"countries": {"MAR": {"facts": [], "systems": [], "note": "A card-token payment app's own safeguards, not a state-accepted authentication service."}}},
+"businesspayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Not about e-procurement."}}},
+"centralbank": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No consumer rule or complaints body stated."}}},
+"crossborderpayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No cross-border channel stated."}}},
+"g2ppayments": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Not about government payments."}}},
+"paymentsuptake": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No account survey figure."}}},
+"retailpayments": {"countries": {"MAR": {"facts": [], "systems": [{"system": "Samsung Pay (Mastercard MDES)", "country_label": "Samsung Pay", "class": "other", "platform": "Mastercard Digital Enablement Service", "owner": "Samsung / Mastercard", "tiers": ""}], "note": "A card-scheme phone wallet for cardholders of unnamed banks; no mobile money or wallet-bank switch stated."}}},
+"revenuecollection": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Not about taxes or fees."}}}
+}}

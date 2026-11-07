@@ -1,0 +1,13 @@
+{"slug": "2026-11-05-mdg-telecommunications-les-reformes-au-service-du-developpement-numerique", "studies": {
+"aiabuse": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Draft law 042/2026 is on cybersecurity and cybercrime; no AI harm stated."}}},
+"aigovernment": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No sector AI tool stated."}}},
+"aisystems": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built or hosted in the country stated."}}},
+"civilserviceskills": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No civil-service training stated."}}},
+"digitalskills": {"countries": {"MDG": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "Asan'ai, launched in January 2026 and financed by the World Bank, is to train 1,300 young people free in AI and data-management trades until May 2027, according to L'Express de Madagascar.", "as_of": "2026-01", "date_precision": "month", "system": "Asan'ai", "class": "publicskills"}], "systems": [{"system": "Asan'ai", "country_label": "Madagascar", "class": "publicskills", "platform": "", "owner": "World Bank financed", "tiers": ""}], "note": ""}}},
+"internetusage": {"countries": {"MDG": {"facts": [], "systems": [], "note": "The 20.4% is a 2025 internet penetration rate, not stated as a share of people; noted only."}}},
+"localgov": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on local government offices; Smart Village is public access."}}},
+"mobileaffordability": {"countries": {"MDG": {"facts": [{"sub_indicator": "price", "aspect": "cost", "value": "share:7.32", "fact": "The cost of a basic mobile internet basket was 7.32% of gross national income per capita (12.88% for larger packages), according to L'Express de Madagascar; the year and data allowance are not given.", "as_of": "2026-11-05", "date_precision": "day", "system": "basic mobile internet basket", "class": "price"}], "systems": [], "note": ""}}},
+"startups": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Mihary's planned US$15,000 support is not a startup law, labelling or a fund that has financed startups."}}},
+"techhubs": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Smart Village and public Wi-Fi are public access, not hubs."}}}
+}}

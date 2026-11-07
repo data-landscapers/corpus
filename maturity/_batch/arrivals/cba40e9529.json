@@ -1,0 +1,7 @@
+{"slug": "2025-12-04-bdi-burundi-s-tecoo-expands-local-tech-manufacturing-aims-for-smartphones", "studies": {
+"ictproduction": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "production", "aspect": "plant", "value": "production", "fact": "TECOO, a Burundian company at Buringa, Bujumbura Rural, currently assembles small mobile phones with more than 70 workers, per its founder to Andika Magazine.", "as_of": "2025-12", "date_precision": "month", "system": "TECOO", "class": "ictproduction"}
+], "systems": [], "note": ""}}},
+"startups": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No startup law, label or fund stated; support named is for one company."}}},
+"techhubs": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Document is about a phone assembler, not a hub or park."}}}
+}}

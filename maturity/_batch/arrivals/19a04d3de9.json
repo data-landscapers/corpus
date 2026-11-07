@@ -1,0 +1,9 @@
+{"slug": "2026-05-21-com-strengthening-vaccination-data-use-culture-integration-of-dvd-mt-into", "studies": {
+"health": {"countries": {"COM": {"facts": [
+{"sub_indicator": "hmis", "aspect": "governance", "value": "owner:ministry", "fact": "HISP Rwanda says the Comoros Ministry of Health has used DHIS2 since 2022 as the national platform for collecting, storing and analysing routine health information.", "as_of": "2022", "date_precision": "year", "system": "DHIS2", "class": "hmis"}
+], "systems": [{"system": "DHIS2", "country_label": "Comoros", "class": "hmis", "platform": "DHIS2", "owner": "Ministry of Health", "tiers": ""}], "note": ""}}},
+"healthmis": {"countries": {"COM": {"facts": [
+{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "HISP Rwanda says the Comoros Ministry of Health has used DHIS2 since 2022 as the national platform for routine health information.", "as_of": "2022", "date_precision": "year", "system": "DHIS2", "class": "hmis"},
+{"sub_indicator": "hmis", "aspect": "linked", "value": "linked", "fact": "HISP Rwanda says immunisation reporting, with 2019-2025 history, was integrated into the national DHIS2, giving central access to immunisation data for 79 health facilities, with Gavi support.", "as_of": "2026-05", "date_precision": "month", "system": "DHIS2 (DVD-MT integration)", "class": "hmis"}
+], "systems": [], "note": ""}}}
+}}

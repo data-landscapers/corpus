@@ -1,0 +1,5 @@
+{"slug": "2025-05-22-mdg-madagascar-et-le-hisp-uio-s-associent-pour-lancer-l-initiative-numeriq", "studies": {
+"health": {"countries": {"MDG": {"facts": [], "systems": [{"system": "One Health platform and laboratory information system", "country_label": "One Health DHIS2 platform", "class": "other", "platform": "DHIS2", "owner": "Government of Madagascar with HISP UiO, World Bank financed", "tiers": ""}], "note": "The initiative is a One Health surveillance platform and laboratory system, not routine HMIS or EMR."}}},
+"healthmis": {"countries": {"MDG": {"facts": [], "systems": [{"system": "One Health platform and laboratory information system", "country_label": "One Health DHIS2 platform", "class": "other", "platform": "DHIS2", "owner": "Government of Madagascar with HISP UiO, World Bank financed", "tiers": ""}], "note": "Describes a One Health and laboratory platform under development, not the national routine health reporting system."}}},
+"regionalpolicy": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Partnership is with a Norwegian university centre and the World Bank, not an African body."}}}
+}}

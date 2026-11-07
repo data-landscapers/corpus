@@ -1,0 +1,114 @@
+{
+ "slug": "2026-11-06-wayawaya-partners-choice-bank",
+ "studies": {
+  "aisectoral": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "TechCabal, citing the Communications Authority of Kenya, reports 54 million mobile money subscriptions in June 2026, with M-PESA at 88.8% and Airtel Money at 11.1%.",
+       "as_of": "2026-06",
+       "date_precision": "month",
+       "system": "M-PESA",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "M-PESA",
+       "country_label": "M-PESA",
+       "class": "retail",
+       "platform": "",
+       "owner": "Safaricom",
+       "tiers": ""
+      },
+      {
+       "system": "Airtel Money",
+       "country_label": "Airtel Money",
+       "class": "retail",
+       "platform": "",
+       "owner": "Airtel",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  }
+ }
+}

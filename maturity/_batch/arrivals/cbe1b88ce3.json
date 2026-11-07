@@ -1,0 +1,26 @@
+{"slug": "2026-06-23-eth-ethiopia-plans-local-laptop-tablet-assembly-in-digital-sovereignty-pus", "studies": {
+"aiabuse": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on AI in administration."}}},
+"aisectoral": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on sectoral AI."}}},
+"aisystems": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The national data cloud at the AI Institute names no AI computing."}}},
+"authentication": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only a registration count; no authentication service stated."}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on civil register links."}}},
+"datacentres": {"countries": {"ETH": {"facts": [], "systems": [], "note": "A national data cloud is being developed, not in service; no data centre for hire stated."}}},
+"digitalsovereignty": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "The government is developing a centralised national data cloud at the Ethiopian Artificial Intelligence Institute, which Prime Minister Abiy Ahmed said will exceed the combined capacity of data centres now run by public institutions.", "as_of": "2026-06", "date_precision": "month", "system": "centralised national data cloud", "class": "sovereignty"}
+], "systems": [], "note": ""}}},
+"ictproduction": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "production", "aspect": "plant", "value": "production", "fact": "A Danish-operated facility in Addis Ababa has started assembling laptops and desktop computers locally from imported components, according to Birr Metrics.", "as_of": "2026-06", "date_precision": "month", "system": "Danish-operated assembly facility, Addis Ababa", "class": "ictproduction"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [{"system": "national digital ID programme", "country_label": "Ethiopia", "class": "idsystem", "platform": "", "owner": "government", "tiers": ""}], "note": "45 million registrations cited, but no population or share given, so no value from the list is settled."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on who runs or owns the ID system."}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Prime Minister Abiy Ahmed cited 45 million registrations under Ethiopia's national digital ID programme.", "as_of": "2026-06", "date_precision": "month", "system": "national digital ID programme", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"ETH": {"facts": [], "systems": [], "note": "National data cloud is under development; no nationally owned data centre for hire stated."}}},
+"techhubs": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "Hawassa Industrial Park facilities are being transformed into a technology hub, with officials saying AI and robotics are being introduced into electronics production there.", "as_of": "2026-06", "date_precision": "month", "system": "Hawassa Industrial Park technology hub", "class": "hub"}
+], "systems": [], "note": ""}}}
+}}

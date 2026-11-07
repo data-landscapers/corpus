@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-09-gin-guinee-tenue-d-un-atelier-d-elaboration-de-la-politique-de-la-strategi",
+ "facts": [
+  {
+   "sub_indicator": "sector",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "On 9 July 2026 the Ministry of Communication, Digital Economy and Innovation launched a national workshop, with WARDIP support, to draft Guinea's Telecommunications Policy, Strategy and Action Plan 2026-2030.",
+   "as_of": "2026-07-09",
+   "date_precision": "day",
+   "system": "Telecommunications Policy, Strategy and Action Plan 2026-2030",
+   "class": "sector"
+  },
+  {
+   "sub_indicator": "sector",
+   "aspect": "period",
+   "value": "to:2030",
+   "fact": "The policy, strategy and action plan being drafted cover the period 2026-2030, per AGP Guinee.",
+   "as_of": "2026-07-09",
+   "date_precision": "day",
+   "system": "Telecommunications Policy, Strategy and Action Plan 2026-2030",
+   "class": "sector"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

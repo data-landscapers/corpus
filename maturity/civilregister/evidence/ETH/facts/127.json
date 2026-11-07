@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-06-eth-new-initiative-launched-in-ethiopia-to-strengthen-health-data-and-save",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "The government, citing the Immigration and Citizenship Service, puts birth registration in Ethiopia at 37% completeness and death registration at 16%, with no tie to a digital system.",
+   "as_of": "2025-03-06",
+   "date_precision": "day",
+   "system": "",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,10 @@
+{"slug": "2026-11-05-tza-tanzania-ranks-25th-of-56-in-commonwealth-youth-ai-readiness-new-index", "studies": {
+"aiabuse": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"aisectoral": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No AI tool in a public sector system stated."}}},
+"aistrategy": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Only an East African Community regional AI strategy is named, not a Tanzanian one."}}},
+"aisystems": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing stated."}}},
+"internetusage": {"countries": {"TZA": {"facts": [], "systems": [{"system": "Ayre Index youth internet use", "country_label": "32.3% of people aged 15 to 29", "class": "other", "platform": "", "owner": "Ayre Think Tank", "tiers": ""}], "note": "The 32.3 per cent is for young people aged 15 to 29, not the whole population."}}},
+"mobilepenetration": {"countries": {"TZA": {"facts": [], "systems": [{"system": "Ayre Index youth phone ownership", "country_label": "58.4% of people aged 15 to 29", "class": "other", "platform": "", "owner": "Ayre Think Tank", "tiers": ""}], "note": "The 58.4 per cent is for people aged 15 to 29, not 10 and over or the whole population."}}},
+"policyresearch": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Ayre Think Tank is not stated to be based in Tanzania."}}}
+}}

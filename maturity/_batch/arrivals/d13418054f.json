@@ -1,0 +1,14 @@
+{"slug": "2026-10-23-tgo-identification-biometrique-au-togo-1-18-million-de-cartes-attendent-en", "studies": {
+"authentication": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Verification is only an intended use; no authentication service stated in service."}}},
+"birthidlink": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"dataprotectionlaw": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Data protection is mentioned only as a guarantee to be kept; no law stated."}}},
+"digitalidlaw": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No identity law stated."}}},
+"g2ppayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Cash transfers are named only as an envisaged use of the ID number."}}},
+"idcoverage": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Gives cards produced and distributed (4.72m of 5.9m), which the document says is not a share of the population; no count of people enrolled."}}},
+"idfrombirth": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"TGO": {"facts": [], "systems": [], "note": "ANID leads the programme, but nothing on who operates or maintains the system day to day."}}},
+"idregisters": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Use by registers is only an intended aim; none stated in use."}}},
+"idrobustness": {"countries": {"TGO": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "La Cinquieme reports that the national biometric identification programme run by the ANID gives a unique identification number (NIU) to each registered person, with 5.9 million cards produced and 4.72 million distributed as of 21 October 2026.", "as_of": "2026-10-21", "date_precision": "day", "system": "e-ID Togo", "class": "idsystem"}], "systems": [{"system": "e-ID Togo", "country_label": "e-ID Togo (NIU)", "class": "idsystem", "platform": "", "owner": "ANID", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Uses by banks and agencies are only envisaged."}}},
+"socialprotection": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No programme management information system named."}}}
+}}

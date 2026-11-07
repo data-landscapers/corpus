@@ -1,0 +1,79 @@
+{
+ "slug": "2024-12-05-ago-governo-estima-que-dos-35-1-milhoes-de-angolanos-actuais-apenas-14-8-m",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "coverage",
+       "aspect": "share",
+       "value": "third",
+       "fact": "The government's Plano Estrat\u00e9gico para a Universaliza\u00e7\u00e3o do Bilhete de Identidade, published in Di\u00e1rio da Rep\u00fablica, estimates 14.8 million of 35.1 million Angolans (about 42%) hold a Bilhete de Identidade.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Bilhete de Identidade",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Angola."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Bilhete de Identidade is held by 14.8m people but the document says nothing of uniqueness, biometrics or certification."
+    }
+   }
+  }
+ }
+}

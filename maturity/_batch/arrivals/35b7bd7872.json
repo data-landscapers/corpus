@@ -1,0 +1,10 @@
+{"slug": "2026-04-08-civ-la-cote-d-ivoire-harmonise-les-strategies-nationales-dans-le-secteur-d", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on rules or an authority for AI harms."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on AI in administration."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on sectoral AI tools."}}},
+"aistrategy": {"countries": {"CIV": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The digital minister's seminar of 7-10 April 2026 lists a National Artificial Intelligence Strategy among strategies already drawn up to be aligned into a three-year roadmap; adoption is not stated.", "as_of": "2026-04-07", "date_precision": "day", "system": "Stratégie Nationale de l'Intelligence Artificielle", "class": "strategy"}
+], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on a national AI model, dataset or compute."}}},
+"cybersecurity": {"countries": {"CIV": {"facts": [], "systems": [], "note": "A national cybersecurity strategy is named among those already drawn up, but adoption or a national body is not stated."}}}
+}}

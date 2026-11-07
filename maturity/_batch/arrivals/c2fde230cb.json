@@ -1,0 +1,13 @@
+{
+  "slug": "2025-09-17-ken-government-raises-alarm-over-one-million-kenyans-without-ids",
+  "studies": {
+    "authentication": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on authentication."}}},
+    "birthidlink": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on civil register and ID exchange."}}},
+    "disabilityaccess": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Persons with disabilities named only as people to be registered for ID."}}},
+    "idcoverage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Gives a count of people aged 30+ without ID, not a count or share enrolled."}}},
+    "idfrombirth": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Says children born outside facilities lack documents; no number at birth stated."}}},
+    "idmaintenance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+    "idregisters": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No register keyed on the ID number."}}},
+    "idrobustness": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No statement of the ID system issuing unique numbers, only people lacking cards."}}}
+  }
+}

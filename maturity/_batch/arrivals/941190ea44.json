@@ -1,0 +1,25 @@
+{"slug": "2026-07-20-dza-l-algerie-fixe-la-date-de-la-generalisation-du-dossier-medical-numeriq", "studies": {
+"authentication": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Medica Magazine reports the Algerian hospital system is now interconnected with the Interior Ministry's civil-status database, allowing instant identification of a patient by biometric card.", "as_of": "2026-07", "date_precision": "month", "system": "Hospital link to civil-status database", "class": "authentication"}
+], "systems": [{"system": "Hospital link to Interior Ministry civil-status database", "country_label": "Algeria", "class": "authentication", "platform": "", "owner": "Ministry of Interior", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No civil register to ID exchange of births or deaths stated."}}},
+"civilregister": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Civil registration of births and deaths is not described."}}},
+"health": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "emr", "aspect": "governance", "value": "owner:ministry", "fact": "The Health Ministry's director general of information systems says the ministry will launch national generalisation of the electronic medical record in summer 2026, and the minister follows each phase personally.", "as_of": "2026-07", "date_precision": "month", "system": "dossier médical électronique", "class": "emr"},
+{"sub_indicator": "emr", "aspect": "digitised", "value": "shared", "fact": "The article says a single national medical record is created automatically around the national identifier and health professionals can consult it from any health institution in the country, with the rollout still to be generalised in summer 2026.", "as_of": "2026-07", "date_precision": "month", "system": "dossier médical électronique", "class": "emr"}
+], "systems": [{"system": "dossier médical électronique", "country_label": "Algeria", "class": "emr", "platform": "central national database", "owner": "Ministry of Health", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No count or share of people holding the ID is given."}}},
+"idfrombirth": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on a number given at birth."}}},
+"idmaintenance": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on who operates, maintains or owns the ID system."}}},
+"idregisters": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "underway", "fact": "The Health Ministry says the national electronic medical record, to be generalised in summer 2026, is created around each person's national identifier.", "as_of": "2026-07", "date_precision": "month", "system": "dossier médical électronique", "class": "register"}
+], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The article describes patients identified instantly through their biometric card against the Interior Ministry's civil-status database, with a national identifier.", "as_of": "2026-07", "date_precision": "month", "system": "biometric national card and national identifier", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"populationregister": {"countries": {"DZA": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "Medica Magazine reports hospitals are connected to the Interior Ministry's civil-status database, from which patients are identified by their biometric card.", "as_of": "2026-07", "date_precision": "month", "system": "Interior Ministry civil-status database", "class": "population"}
+], "systems": [], "note": ""}}},
+"registry": {"countries": {"DZA": {"facts": [], "systems": [], "note": "No registry office entry of births or deaths stated."}}},
+"schoolinternet": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

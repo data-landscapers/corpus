@@ -1,0 +1,5 @@
+{"slug": "2026-11-04-mdg-le-ministre-du-developpement-numerique-mahefa-andriamampiadana-demissi", "studies": {
+"cybersecuritylaw": {"countries": {"MDG": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "Madagascar Tribune reports a cybersecurity and cybercrime bill, numbered 042/2026, under discussion, with some provisions drawing reservations over free expression, social media content and personal data.", "as_of": "2026-11-04", "date_precision": "day", "system": "Cybersecurity and cybercrime bill 042/2026", "class": "law"}], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Personal data is mentioned only as a concern about the cybercrime bill; no data protection law or bill stated."}}},
+"opendiscussion": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Reservations about the bill are reported without a named paper, party or group criticising a named policy."}}}
+}}

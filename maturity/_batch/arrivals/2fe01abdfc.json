@@ -1,0 +1,7 @@
+{"slug":"2026-02-02-cpv-termos-de-referencia-tdr-consultor-nacional-para-revisao-da-arquitetur","studies":{
+"health":{"countries":{"CPV":{"facts":[],"systems":[{"system":"SIS/Portal","country_label":"SIS/Portal, human health","class":"other","platform":"","owner":"Ministry of Health","tiers":""},{"system":"DHIS2","country_label":"DHIS2, human health","class":"other","platform":"DHIS2","owner":"Ministry of Health","tiers":""}],"note":"Systems named as implemented, with no description of reporting, tiers or clinics."}}},
+"healthexchange":{"countries":{"CPV":{"facts":[],"systems":[],"note":"A consultancy to review the architecture; the document says interoperability is limited and states no exchange under way or in service."}}},
+"healthmis":{"countries":{"CPV":{"facts":[],"systems":[{"system":"DHIS2","country_label":"DHIS2, named as implemented in human health","class":"other","platform":"DHIS2","owner":"Ministry of Health","tiers":""}],"note":"DHIS2 is named without describing national routine reporting."}}},
+"internationalstandards":{"countries":{"CPV":{"facts":[],"systems":[],"note":"HL7, FHIR and OpenHIE named as targets only; no ISO or IEC standard or body."}}},
+"itcapacity":{"countries":{"CPV":{"facts":[],"systems":[],"note":"A consultancy to review the architecture; no statement of who runs the systems or that outside help is needed to run them."}}}
+}}

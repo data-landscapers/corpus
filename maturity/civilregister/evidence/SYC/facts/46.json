@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-syc-seychelles-questionnaire-on-vital-statistics-reporting-year-2024",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "Seychelles told the UN Statistics Division that completeness of registration of live births and deaths was 100 per cent for 2023, estimated from administrative data, with no digital system named.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Civil registration (Civil Status Act 1992)",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

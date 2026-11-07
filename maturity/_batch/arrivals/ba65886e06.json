@@ -1,0 +1,11 @@
+{"slug": "2026-04-01-som-4-2-cards-issued-and-nira-offices", "studies": {
+"authentication": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"idcoverage": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Gives counts of IDs and cards issued but no share of the population; card counts are not enrolment."}}},
+"idfrombirth": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the system."}}},
+"idregisters": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated; a state mandating ID for services is not a register."}}},
+"idrobustness": {"countries": {"SOM": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Citing the World Bank, the EUAA report says NIRA had issued about 700,000 physical ID cards by 31 March 2026, with over 600,000 further biometrics registered and awaiting deduplication by June 2026.", "as_of": "2026-03-31", "date_precision": "day", "system": "NIRA national ID", "class": "idsystem"}
+], "systems": [{"system": "NIRA national ID", "country_label": "National ID (NIRA)", "class": "idsystem", "platform": "", "owner": "National Identification and Registration Authority", "tiers": "national"}], "note": ""}}}
+}}

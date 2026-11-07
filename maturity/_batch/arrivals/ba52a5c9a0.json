@@ -1,0 +1,11 @@
+{"slug": "2026-11-06-cbn-new-rules-foreign-stablecoin-issuers", "studies": {
+"businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not about public procurement."}}},
+"centralbank": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Licensing of stablecoin issuers is virtual-asset regulation, not payment providers or e-money, so not recorded."}}},
+"consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No consumer-protection rule for digital financial services stated."}}},
+"crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Stablecoin use for cross-border payments is mentioned only as context; no corridor or regional system stated."}}},
+"g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not about government payments to people."}}},
+"paymentslaw": {"countries": {"NGA": {"facts": [], "systems": [], "note": "A virtual-asset regulation, which the study says is not the payments law."}}},
+"paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No account-holding survey figure stated."}}},
+"retailpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No mobile money or retail payment service status stated."}}},
+"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not about tax or fee payment."}}}
+}}

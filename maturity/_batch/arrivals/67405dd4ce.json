@@ -1,0 +1,99 @@
+{
+ "slug": "2026-05-16-zwe-avantis-unveils-parote-1030i-laptop",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "ICT Minister Tatenda Mavetera referred to Zimbabwe's \"recently adopted National Artificial Intelligence Strategy\" at the 14 May 2026 launch.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "National Artificial Intelligence Strategy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "ictproduction": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "production",
+       "aspect": "plant",
+       "value": "production",
+       "fact": "Avantis Technology operates a factory in Msasa, Harare, that manufactures and assembles laptops and notebooks; its CEO says about 25,000 of a 60,000 target for 2026 were built by 14 May 2026.",
+       "as_of": "2026-05-14",
+       "date_precision": "day",
+       "system": "Avantis Technology Msasa factory",
+       "class": "ictproduction"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "ictstrategy": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

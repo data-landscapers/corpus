@@ -1,0 +1,4 @@
+{"slug": "2026-07-01-zmb-leveraging-a-dhis2-based-ecosystem-to-improve-health-data-management-a", "studies": {
+"health": {"countries": {"ZMB": {"facts": [], "systems": [{"system": "MORE-ZM", "country_label": "Zambia", "class": "other", "platform": "DHIS2", "owner": "CDC-supported implementing partners", "tiers": ""}], "note": "MORE-ZM is a CDC-supported programme reporting system, not shown as the ministry's clinic system, and gives no tiers or clinic share."}}},
+"healthmis": {"countries": {"ZMB": {"facts": [], "systems": [{"system": "MORE-ZM", "country_label": "Zambia", "class": "other", "platform": "DHIS2", "owner": "CDC-supported implementing partners", "tiers": ""}], "note": "MORE-ZM serves CDC-supported programmes in five provinces, not a national ministry system."}}}
+}}

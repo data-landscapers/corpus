@@ -1,0 +1,7 @@
+{"slug": "2024-03-20-zmb-zambia-s-death-registration-under-20-percent", "studies": {
+"birthidlink": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on a link between registers."}}},
+"civilregister": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Gives a death completeness figure only; no digital register or birth share stated."}}},
+"health": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Mortality surveillance only; no HMIS or EMR stated."}}},
+"idfrombirth": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"registry": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on registry offices."}}}
+}}

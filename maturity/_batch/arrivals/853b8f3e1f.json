@@ -1,0 +1,14 @@
+{"slug": "2026-11-05-zwe-making-ai-speak-preserve-our-languages-in-tech-era", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Opinion column; no rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Only imagined uses in government; none stated in service."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Only imagined uses in education, farming and health."}}},
+"aistrategy": {"countries": {"ZWE": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "Columnist Louis Mondo refers to Zimbabwe's National Artificial Intelligence Strategy 2026-2030 as the framework a language digitisation programme could align with.", "as_of": "2026-11-05", "date_precision": "day", "system": "National Artificial Intelligence Strategy 2026-2030", "class": "strategy"}
+], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Says local language AI does not yet exist; no system, compute or shared resource stated."}}},
+"birthidlink": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on a link between registers."}}},
+"civilregister": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Birth certificate mentioned only as an example query."}}},
+"disabilityaccess": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Sign Language listed as an official language only; no accessibility rule or service."}}},
+"idfrombirth": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"registry": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Nothing on the civil registry."}}}
+}}

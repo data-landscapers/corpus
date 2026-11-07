@@ -1,0 +1,9 @@
+{"slug": "2025-09-18-bfa-burkina-faso-3-millions-de-burkinabe-nont-pas-de-piece-didentite", "studies": {
+"authentication": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on authentication services."}}},
+"birthidlink": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on a link between civil register and ID system."}}},
+"idcoverage": {"countries": {"BFA": {"facts": [], "systems": [], "note": "The ONI director-general says about 3 million people of ID age hold no card, but gives no count or share enrolled over the population."}}},
+"idfrombirth": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on an ID number at birth."}}},
+"idmaintenance": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on who operates or maintains the ID system."}}},
+"idregisters": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Mentions national ID cards and ONI only; no unique-number issuance, biometrics or certification stated."}}}
+}}
