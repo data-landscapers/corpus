@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-18-tza-tanzania-communications-regulatory-authority-contribution-to-the-globa",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "TCRA says the National Communication Backbone now spans over 13,820 km, connecting Tanzania and seven neighbouring countries.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "National Communication Backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Communication Backbone",
+   "country_label": "National Communication Backbone",
+   "class": "backbone",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

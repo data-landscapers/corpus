@@ -368,6 +368,7 @@ SEN,Phase3-Sonatel Lagos-Dakar terrestrial fibre route,Phase3-Sonatel route,othe
 SEN,"Sonatel fibre (1,000th fibre plaque)",Fibre Sonatel,other,,Sonatel,"individuals, businesses, institutions",2026-04-30-sonatel-reaffirme-son-ambition-pour-un-numerique-a-impact
 SEN,SENUM SA fibre network,Réseau fibre optique de Sénégal Numérique SA,backbone,,Sénégal Numérique SA,"administrative buildings (400+ by fibre, 174 PTP, 252 4G LTE)",2025-01-01-senum-transformation-digitale-administration
 SEN,Praia-Dakar submarine cable,Câble sous-marin Praia-Dakar,other,,Sénégal Numérique SA,,2025-01-01-senum-transformation-digitale-administration
+SEN,National backbone,"Senegal national backbone, capacity being strengthened under PRODAP",backbone,,SENUM,,2026-11-06-senum-and-univers-telecom-group-sign-strategic-partnership-to-accelera
 SLE,National Fibre Optic Backbone Infrastructure Project Phase 2,National Fibre Optic Backbone Infrastructure Project,backbone,Huawei (EPC contractor),"Sierra Leone Cable Company Limited (SALCAB), state-owned",,2019-01-01-eximbank-cn-sle-001-china-eximbank-provides-rmb-207-million
 SLE,national fiber backbone (NFB),national fiber backbone,backbone,,,,2026-05-05-sierra-leone-400m-telecom-usage-gap
 SLE,National Data Centre (NatCA HQ),National Data Centre,other,,NatCA / MoCTI,,2026-04-17-natca-hq-national-data-centre
@@ -480,6 +481,7 @@ TZA,National ICT Backbone,Tanzania,backbone,,,,2025-06-28-tza-tanzaniainvest-pre
 TZA,National ICT Broadband Backbone (NICTBB),Tanzania,backbone,,,,2025-06-01-tza-wsis-20-country-report-tanzania
 TZA,National ICT Broadband Backbone (NICTBB),Tanzania,backbone,fibre,TTCL,,2025-01-24-tza-wmth-kituo-cha-mkongo-horohoro-kuchochea-uchumi
 TZA,National ICT Broadband Backbone (NICTBB),Tanzania,backbone,fibre,TTCL,,2024-02-23-tza-ttcl-yazidi-kujikita-kimataifa-kibiashara
+TZA,National Communication Backbone,National Communication Backbone,backbone,,,,2025-06-18-tza-tanzania-communications-regulatory-authority-contribution-to-the-globa
 UGA,National Backbone Infrastructure (NBI),National Backbone Infrastructure,backbone,,Government of Uganda,public institutions,2026-10-09-nilepost-museveni-orders-cancellation-utel-rcc-deal
 UGA,Uganda Telecom revival (RCC agreement),UTel,other,,Government of Uganda / Rowad Capital Commercial,,2026-10-09-nilepost-museveni-orders-cancellation-utel-rcc-deal
 UGA,National Backbone Infrastructure (NBI),National Backbone Infrastructure,backbone,,NITA-U,"MDAs, local governments, schools",2023-12-06-uganda-parliament-hansard-nbi-egi-phase-v-loan

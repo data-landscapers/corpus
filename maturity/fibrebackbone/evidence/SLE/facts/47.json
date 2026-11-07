@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-23-sle-minister-salima-outlines-accomplishments-in-the-tech-sector",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Minister Salima Bah said the fibre backbone grew from 8 to 14 districts through a 1,641 km fibre rollout.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "national fibre backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
