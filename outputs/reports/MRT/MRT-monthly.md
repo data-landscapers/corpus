@@ -1,11 +1,11 @@
 ---
 title: Mauritania — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: MRT
-ledger_rows: 10
+ledger_rows: 12
 not_held: 3
-record: 87b854a943fc
+record: 127ae9e5eab1
 ---
 
 # News, Oct – Nov 2026
@@ -119,12 +119,38 @@ Mauritania's WARDIP project unit at the digital transformation ministry issued a
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National health interoperability framework (DIGISANTE MRT)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Health system interoperability: early lessons in governance and technical design](https://www.bluesquarehub.com/health-system-interoperability-governance-technical-lessons/)** — Bluesquare, 13 October 2026
+
+Steering unit first met July 2026; OpenClinic GA chosen; 12 of 21 assessed centres are pilots, first at Dar Naim.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[How many systems is your national health program really connecting?](https://www.linkedin.com/posts/bluesquarehub_interoperability-digitalhealth-hl7fhir-activity-7520863636727316481-egWC)** — Bluesquare, 27 October 2026
+
+DIGISANTE partners agree HL7 FHIR R4 and a national patient identifier; 12 pilot centres confirmed.
+
+</div>
+
+</div>
 
 ### Registries
 
@@ -143,6 +169,28 @@ Mauritania's Ministry of Digital Transformation presented a national digital add
 </div>
 
 ### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">OpenClinic GA primary-care electronic record (DIGISANTE MRT)</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Health system interoperability: early lessons in governance and technical design](https://www.bluesquarehub.com/health-system-interoperability-governance-technical-lessons/)** — Bluesquare, 13 October 2026
+
+Summarised under [Data Exchange](#data-exchange).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[How many systems is your national health program really connecting?](https://www.linkedin.com/posts/bluesquarehub_interoperability-digitalhealth-hl7fhir-activity-7520863636727316481-egWC)** — Bluesquare, 27 October 2026
+
+Summarised under [Data Exchange](#data-exchange).
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
