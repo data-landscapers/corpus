@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Oct – Nov 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: MUS
-ledger_rows: 31
+ledger_rows: 32
 not_held: 7
-record: b24aee48649d
+record: 3aedef1c8132
 ---
 
 # News, Oct – Nov 2026
@@ -503,6 +503,20 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 **[Highlights of Cabinet Meeting - Friday 30 October 2026](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20-%20Friday%2030%20October%202026.pdf)** — Office of the Prime Minister, Mauritius, 30 October 2026
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">myt Learning Hub free digital and AI skills portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mauritius Telecom launches free digital and AI skills training platform](https://techreviewafrica.com/news/8162/mauritius-telecom-launches-free-digital-and-ai-skills-training-platform)** — Tech Review Africa, 6 November 2026
+
+myt Learning Hub with AWS opens with 16 free courses toward a 50,000-trainee national target.
 
 </div>
 
