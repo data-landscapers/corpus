@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-05-uga-ursb-launches-mobile-app-for-business-registration-services",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "URSB launched the URSB Connect mobile app, which it says gives access to company and business-name registration, name searches, annual returns, trademark services and the SIMPO chattels registry without visiting its offices.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "URSB Connect",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "URSB Connect",
+   "country_label": "URSB Connect app 2026",
+   "class": "eservices",
+   "platform": "mobile app",
+   "owner": "URSB",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

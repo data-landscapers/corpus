@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-23-moz-implementation-status-results-report-digital-governance-and-economy-pr",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The World Bank ISR says the citizen service portal offers 25 information services and a first transactional municipal land property service was added in the pilot of its earlier version, which was discontinued; a new portal contract is signed with operation expected by June 2026 against a target of 15 transactional and 40 information services.",
+   "as_of": "2026-03-20",
+   "date_precision": "day",
+   "system": "Citizen Portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Citizen Portal",
+   "country_label": "service portal",
+   "class": "eservices",
+   "platform": "",
+   "owner": "INAGE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

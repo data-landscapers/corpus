@@ -104,3 +104,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-04,ZAF,dpi.govtech--e-government-services,fact,3,5,ZAF-007;ZAF-009;ZAF-004,"Minister published 899,394 logins and 1.4 million registered users of the national portal in April 2024: use published"
 2026-11-04,SWZ,dpi.govtech--e-government-services,fact,3,4,SWZ-007;SWZ-004;SWZ-002,Government in Your Hand app reaches three ministries' services with national ID sign-up: single gateway; a download count is not use
 2026-11-04,MUS,dpi.govtech--e-government-services,ladder,5,2,MUS-011;MUS-009,"Bill 2026-11-04, message 74: a national app is not the national portal; Korek and MauPass use no longer answers question 4; 5 to 2"
+2026-11-07,MOZ,dpi.govtech--e-government-services,fact,3,3,MOZ-005;MOZ-004;MOZ-003,World Bank ISR of March 2026 counts 25 information services and one transactional on the discontinued earlier portal; the newer September 2026 count of about 26 on the new portal stands; stays at 3

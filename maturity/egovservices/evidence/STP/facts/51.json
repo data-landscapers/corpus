@@ -1,0 +1,23 @@
+{
+ "slug": "2026-11-06-stp-mnecc-launches-sydoc-document-management-and-sydoc-pass-platforms",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SYDOC-PASS",
+   "country_label": "SYDOC-PASS",
+   "class": "other",
+   "platform": "",
+   "owner": "MNECC",
+   "tiers": ""
+  },
+  {
+   "system": "SYDOC",
+   "country_label": "SYDOC",
+   "class": "other",
+   "platform": "",
+   "owner": "MNECC, built by AGA",
+   "tiers": ""
+  }
+ ],
+ "note": "Platforms for internal records and diplomatic and service passports; no citizen or business service stated, and the Citizen Portal is still to be created."
+}
