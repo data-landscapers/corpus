@@ -12,6 +12,9 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-07 03:52 · **REBUILD** · 13m · idfrombirth frombirth: 54 cells reassessed, 5 moved; 54 searched, 76 staged; ~63M tokens (three shared 189M) - ok
+2026-11-07 03:52 · **REBUILD** · 12m · idmaintenance maintenance: 54 cells reassessed, 6 moved; 54 searched, 123 staged; ~63M tokens (three shared 189M) - ok
+2026-11-07 03:52 · **REBUILD** · 12m · idregisters registers: 54 cells reassessed, 0 moved; 54 searched, 108 staged; ~63M tokens (three shared 189M) - ok
 2026-11-07 03:38 · **BUILD** · 2h06m · catalogue 38,134; 491 sources, 59 units, 30 moved, 212 minted, 128 status; data centres 3; maturity 2,350 read, 18 moved, 30 left open past wave; 5 FY2027 budgets published; bulletin 55; register 9; prose gate 0 - ok
 2026-11-07 02:27 · **BUDGET-EXTRACT** · unclocked · MLI FY2027: 21 lines (13 BSI projects, 8 bodies) from the PLF 2027, proposed stage; DPPD-PAP 2027 not held
 2026-11-07 02:22 · **BUDGET-EXTRACT** · unclocked · COG FY2027: 4 lines (programme 052 partial, three special accounts whole) from the PLF 2027 scan, proposed stage
