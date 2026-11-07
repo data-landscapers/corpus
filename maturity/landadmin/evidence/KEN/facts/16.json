@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-ken-from-paper-files-to-fingertips-vihiga-unleashes-digital-revolution",
+ "facts": [
+  {
+   "sub_indicator": "landmis",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Vihiga County's governor says its Land Information System is 70 percent complete, to help citizens resolve land disputes online.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "Land Information System (Vihiga County)",
+   "class": "landmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
