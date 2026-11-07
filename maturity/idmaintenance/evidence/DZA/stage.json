@@ -9,10 +9,10 @@
       "ownership": "owned",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-003",
+      "stage_sources": "DZA-003;DZA-001",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py.",
-      "as_at": "2026-10-17"
+      "note": "The Interior Ministry says Algerian engineers developed the central ID systems and its own engineers administer them. That answers all four questions.",
+      "as_at": "2026-11-07"
     }
   ]
 }

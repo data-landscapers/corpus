@@ -2,12 +2,12 @@
 
 ## National maintenance of id and credentials systems
 
-**Operated nationally.** [CNEDOGE, an autonomous public entity attached to the Ministry of National Security, issues the biometric national identity document (DIP) and installs, controls and manages the issuing and verifying devices nationwide](<https://www.hayderechoenguinea.com/noticias/sociedad/sobre-el-funcionamiento-del-centro-nacional-de-emision-de-documentos-oficia>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Operated nationally.** [CNEDOGE issues the biometric national identity document](<https://www.hayderechoenguinea.com/noticias/sociedad/sobre-el-funcionamiento-del-centro-nacional-de-emision-de-documentos-oficia>). It is an autonomous public body attached to the Ministry of National Security. It also installs, controls and manages the issuing and checking devices across the country. This account dates from 2024. No foreign operator is named.
 
-**Maintained nationally.** No source found since October 2023 says national staff maintain the system or the foreign contract has ended. The nearest held fact: [the one given above](<https://www.hayderechoenguinea.com/noticias/sociedad/sobre-el-funcionamiento-del-centro-nacional-de-emision-de-documentos-oficia>).
+**Maintained nationally.** No source found says who maintains the system. [CNEDOGE manages the devices nationwide](<https://www.hayderechoenguinea.com/noticias/sociedad/sobre-el-funcionamiento-del-centro-nacional-de-emision-de-documentos-oficia>). The 2024 account does not say whether its own staff or a supplier maintain the software. Nothing names a maintenance contract.
 
-**Platform owned.** No source found since October 2023 says the system runs on code the state owns. The nearest held fact: [the one given above](<https://www.hayderechoenguinea.com/noticias/sociedad/sobre-el-funcionamiento-del-centro-nacional-de-emision-de-documentos-oficia>).
+**Platform owned.** No source found says the system runs on code the state owns. [The 2024 account covers CNEDOGE's role in issuing the document](<https://www.hayderechoenguinea.com/noticias/sociedad/sobre-el-funcionamiento-del-centro-nacional-de-emision-de-documentos-oficia>). It does not say who holds the code. The body answers to the Ministry of National Security.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says national staff maintain the system or the foreign contract has ended.
+***Not found***. No source found says who maintains the system or who owns its code.

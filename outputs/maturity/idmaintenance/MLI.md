@@ -2,11 +2,11 @@
 
 ## National maintenance of id and credentials systems
 
-**Operated nationally.** [DNEC says ANSAEC, the national agency, administers the RAVEC database, hosted in a technical room it fitted out to ISO 27001 norms](<https://www.id4africa.com/2025/files/T2-P1-S2-3-MALI_FINAL.pdf>). 4 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Operated nationally.** [ANSAEC, the national agency, administers the RAVEC database](<https://www.id4africa.com/2025/files/T2-P1-S2-3-MALI_FINAL.pdf>), the civil register directorate said in May 2025. The agency hosts the database in a technical room it fitted out to ISO 27001 norms. The system is Mali Kura Biométrie, launched on 13 February 2024.
 
-**Maintained nationally.** [The coordinator of the volunteer expert committee says there are no foreign providers on the maintenance contract for Mali Kura Biométrie, the new RAVEC system launched on 13 February 2024](<https://malikonews.com/mali-mali-kura-biometrie-un-nouveau-systeme-numerique-souverain-des-donnees-ravec/>).
+**Maintained nationally.** [No foreign provider is on the maintenance contract for Mali Kura Biométrie](<https://malikonews.com/mali-mali-kura-biometrie-un-nouveau-systeme-numerique-souverain-des-donnees-ravec/>), according to the coordinator of the volunteer expert committee. He said so at the launch in February 2024. The system replaced the one recovered from IDEMIA.
 
-**Platform owned.** [The government says the source codes and licences of Mali Kura Biométrie are held by national experts, ending dependence on foreign providers (the French firm Idemia)](<https://bamada.net/donnees-administratives-le-mali-recupere-ses-fichiers-ravec>). [The territorial administration minister says Mali Kura Biométrie was designed autonomously by Malian engineers between 2 October and 16 December 2023, replacing the system recovered from IDEMIA](<https://malikonews.com/mali-mali-kura-biometrie-un-nouveau-systeme-numerique-souverain-des-donnees-ravec/>).
+**Platform owned.** [Malian engineers designed the system between 2 October and 16 December 2023](<https://malikonews.com/mali-mali-kura-biometrie-un-nouveau-systeme-numerique-souverain-des-donnees-ravec/>), the territorial administration minister said. [The government says national experts hold its source codes and licences](<https://bamada.net/donnees-administratives-le-mali-recupere-ses-fichiers-ravec>). It presented this in February 2024 as the end of dependence on the French firm Idemia.
 
 ***Also on file***. [RAVEC / NINA biometric file](<https://www.id4africa.com/2025/files/T2-P1-S2-3-MALI_FINAL.pdf>).
 

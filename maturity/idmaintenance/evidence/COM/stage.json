@@ -1,17 +1,18 @@
 {
- "iso3": "COM",
- "cells": [
-  {
-   "sub_indicator": "maintenance",
-   "stage": "2",
-   "operation": "transfer",
-   "maintenance": "",
-   "ownership": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COM-001;COM-002",
-   "gaps": "No source found since October 2023 says: does a national authority run it day to day.",
-   "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py."
-  }
- ]
+  "iso3": "COM",
+  "cells": [
+    {
+      "sub_indicator": "maintenance",
+      "stage": "2",
+      "operation": "transfer",
+      "maintenance": "",
+      "ownership": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COM-001;COM-002",
+      "gaps": "No source found says a national authority runs the system day to day: GenKey took over production and management in 2026.",
+      "note": "GenKey replaced Semlex in March 2026 with a transfer of skills to national staff. A supplier still runs production, so stage 3 is not reached.",
+      "as_at": "2026-11-07"
+    }
+  ]
 }

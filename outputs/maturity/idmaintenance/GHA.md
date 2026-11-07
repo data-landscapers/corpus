@@ -2,12 +2,12 @@
 
 ## National maintenance of id and credentials systems
 
-**Operated nationally.** [The National Identification Authority itself sets fees and runs first-time registration, card replacement, record updates and mobile registration at its district offices and Premium Centres](<https://nia.gov.gh/fees-and-charges-2026/>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most fifteen stories a country; the nightly deep dive reads further and may move the stage either way.
+**Operated nationally.** [The National Identification Authority sets fees and runs first-time registration, card replacement and record updates](<https://nia.gov.gh/fees-and-charges-2026/>). It also runs mobile registration at its district offices and Premium Centres. It set out these services in January 2026. The authority runs these services through its own offices.
 
-**Maintained nationally.** [The National Identification Authority's own PKI team is carrying out updates to the Ghana Card registration system, with services expected to resume on 10 May 2026](<https://www.classfmonline.com/news/NIA-announces-temporary-nationwide-service-disruption-for-system-updates-74362>).
+**Maintained nationally.** [The NIA's own PKI team carried out updates to the Ghana Card registration system in 2026](<https://www.classfmonline.com/news/NIA-announces-temporary-nationwide-service-disruption-for-system-updates-74362>). Services were due to resume on 10 May 2026 after the work. No foreign supplier is named in the account.
 
-**Platform owned.** No source found since October 2023 says the system runs on code the state owns. The nearest held fact: [the one given above](<https://www.classfmonline.com/news/NIA-announces-temporary-nationwide-service-disruption-for-system-updates-74362>).
+**Platform owned.** No source found says the system runs on code the state owns. [The 2026 update notice names the NIA's own PKI team](<https://www.classfmonline.com/news/NIA-announces-temporary-nationwide-service-disruption-for-system-updates-74362>). It does not say who holds the code. No foreign supplier is named as owner of the platform.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says the system runs on code the state owns.
+***Not found***. No source found says the system runs on code the state owns.

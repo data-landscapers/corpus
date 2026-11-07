@@ -9,10 +9,10 @@
       "ownership": "owned",
       "cap": "",
       "flags": "",
-      "stage_sources": "MLI-004;MLI-002",
+      "stage_sources": "MLI-004;MLI-002;MLI-001",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py.",
-      "as_at": "2026-10-17"
+      "note": "Malian engineers built Mali Kura Biometrie in 2023 and national experts hold its source code. No foreign provider is on its maintenance contract.",
+      "as_at": "2026-11-07"
     }
   ]
 }

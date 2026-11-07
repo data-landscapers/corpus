@@ -1,17 +1,18 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "maintenance",
-   "stage": "4",
-   "operation": "national",
-   "maintenance": "national",
-   "ownership": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-002",
-   "gaps": "No source found since October 2023 says the system runs on code the state owns.",
-   "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "maintenance",
+      "stage": "4",
+      "operation": "national",
+      "maintenance": "national",
+      "ownership": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-002;GHA-001",
+      "gaps": "No source found says the system runs on code the state owns.",
+      "note": "The NIA's own PKI team updated the Ghana Card registration system in 2026. Nothing says the state owns the code.",
+      "as_at": "2026-11-07"
+    }
+  ]
 }

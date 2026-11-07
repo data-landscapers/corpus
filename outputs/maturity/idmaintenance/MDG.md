@@ -2,11 +2,11 @@
 
 ## National maintenance of id and credentials systems
 
-**Operated nationally.** [The DECIM project page says the next phase, steered by the CNOS and coordinated by the CCO/ENBIO under the Ministry of the Interior, is to prepare the gradual transfer of responsibilities and ownership by national institutions, with DECIM now financing it](<https://decim.mg/actualites/enrolement-biometrique-a-madagascar-capitaliser-les-acquis/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Operated nationally.** [The DECIM project's next phase prepares the gradual transfer of responsibilities and ownership to national institutions](<https://decim.mg/actualites/enrolement-biometrique-a-madagascar-capitaliser-les-acquis/>). The national steering committee steers it. A coordination body under the Ministry of the Interior coordinates it. DECIM now finances the work. Nothing says a national body already runs the system day to day.
 
-**Maintained nationally.** No source found since October 2023 says national staff maintain the system or the foreign contract has ended. The nearest held fact: [the one given above](<https://decim.mg/actualites/enrolement-biometrique-a-madagascar-capitaliser-les-acquis/>).
+**Maintained nationally.** No source found says national staff maintain the system. [The DECIM page of 2026 describes a transfer still in preparation](<https://decim.mg/actualites/enrolement-biometrique-a-madagascar-capitaliser-les-acquis/>). It does not say who maintains the system now. No supplier is named.
 
-**Platform owned.** No source found since October 2023 says the system runs on code the state owns. The nearest held fact: [the one given above](<https://decim.mg/actualites/enrolement-biometrique-a-madagascar-capitaliser-les-acquis/>).
+**Platform owned.** No source found says the system runs on code the state owns. [The transfer DECIM prepares covers ownership by national institutions](<https://decim.mg/actualites/enrolement-biometrique-a-madagascar-capitaliser-les-acquis/>). It has not yet taken place. Nothing says when it will be complete.
 
 ***Also on file***. None found.
 

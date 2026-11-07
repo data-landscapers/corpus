@@ -1,17 +1,18 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "maintenance",
-   "stage": "5",
-   "operation": "national",
-   "maintenance": "national",
-   "ownership": "owned",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GIN-001",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "maintenance",
+      "stage": "5",
+      "operation": "national",
+      "maintenance": "national",
+      "ownership": "owned",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-001",
+      "gaps": "Who maintains the system day to day is not stated; TECH5 supplies the biometrics.",
+      "note": "The national ID runs on the open-source MOSIP platform with enrolment in service in 2026. A later yes answers the earlier questions.",
+      "as_at": "2026-11-07"
+    }
+  ]
 }

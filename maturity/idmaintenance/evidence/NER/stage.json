@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NER-001",
-      "gaps": "No source found since October 2023 says: does a national authority run it day to day.",
-      "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source found says a national authority runs the system day to day.",
+      "note": "The ID card project, a public-private partnership, trains local teams to take over. Nothing says a national authority runs it day to day.",
+      "as_at": "2026-11-07"
     }
   ]
 }

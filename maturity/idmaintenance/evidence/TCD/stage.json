@@ -1,17 +1,18 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "maintenance",
-   "stage": "3",
-   "operation": "national",
-   "maintenance": "",
-   "ownership": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TCD-003;TCD-001",
-   "gaps": "No source found since October 2023 says national staff maintain the system or the foreign contract has ended.",
-   "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "maintenance",
+      "stage": "3",
+      "operation": "national",
+      "maintenance": "",
+      "ownership": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-003;TCD-001",
+      "gaps": "No source found says national staff maintain the system or the foreign contract has ended.",
+      "note": "ANATS runs the ID system day to day. Nothing says its own staff maintain and upgrade it.",
+      "as_at": "2026-11-07"
+    }
+  ]
 }

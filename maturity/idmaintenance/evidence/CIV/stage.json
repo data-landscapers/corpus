@@ -1,17 +1,18 @@
 {
- "iso3": "CIV",
- "cells": [
-  {
-   "sub_indicator": "maintenance",
-   "stage": "4",
-   "operation": "national",
-   "maintenance": "national",
-   "ownership": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CIV-003",
-   "gaps": "No source found since October 2023 says the system runs on code the state owns.",
-   "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py."
-  }
- ]
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "maintenance",
+      "stage": "3",
+      "operation": "national",
+      "maintenance": "",
+      "ownership": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CIV-001;CIV-002",
+      "gaps": "No source found says who maintains the system: ONECI's director general says only that its budget pays for maintenance. No source found says the system runs on code the state owns.",
+      "note": "ONECI runs the register and the card day to day. Lowered from 4: a budget paying for maintenance does not say ONECI's own staff do it.",
+      "as_at": "2026-11-07"
+    }
+  ]
 }

@@ -2,12 +2,12 @@
 
 ## National maintenance of id and credentials systems
 
-**Operated nationally.** [The director of Senegal's Direction de l'automatisation des fichiers (DAF), Ibrahima Dieng, said national identity-card production resumed after the February 2026 cyberattack because the DAF's identity-card databases were preserved](<https://beninwebtv.bj/en/senegal-daf-acknowledges-cyberattack-assures-no-data-was-compromised/>). [APS reports the Direction de l'automatisation des fichiers, a national authority, itself resumed making the national identity cards and enrolment on 1 April 2026](<https://aps.sn/la-daf-annonce-la-reprise-de-la-confection-des-cartes-nationales-didentite-depuis-le-1er-avril/>). [The Law Committee chair called for greater involvement of national firms and skills in card production and renewal and for national control over citizens' data held by foreign operators](<https://senego.com/assemblee-coup-de-theatre-le-projet-de-loi-sur-la-carte-didentite-retourne-en-commission_2007288.html>).
+**Operated nationally.** [The DAF, a national directorate, resumed making national identity cards on 1 April 2026](<https://aps.sn/la-daf-annonce-la-reprise-de-la-confection-des-cartes-nationales-didentite-depuis-le-1er-avril/>). Production had stopped after a cyberattack in February. [Its director said the identity-card databases had been preserved](<https://beninwebtv.bj/en/senegal-daf-acknowledges-cyberattack-assures-no-data-was-compromised/>). [Its technical services restored the system](<https://aps.sn/piratage-informatique-la-daf-annonce-la-suspension-provisoire-de-la-production-de-cartes-nationales-didentite/>). Card production and enrolment resumed together.
 
-**Maintained nationally.** No source found since October 2023 says national staff maintain the system or the foreign contract has ended. The nearest held fact: [the one given above](<https://beninwebtv.bj/en/senegal-daf-acknowledges-cyberattack-assures-no-data-was-compromised/>).
+**Maintained nationally.** No source found says national staff maintain the system. [The Malaysian operator Iris has produced the cards since 2016, under a rider ending on 21 May 2027](<https://senegaldirect.com/cartes-didentite-mouhamadou-moukhtar-cisse-explique-la-prorogation-exceptionnelle/>). The interior minister wants Senegalese firms to take over that skill.
 
-**Platform owned.** No source found since October 2023 says the system runs on code the state owns. The nearest held fact: [the one given above](<https://beninwebtv.bj/en/senegal-daf-acknowledges-cyberattack-assures-no-data-was-compromised/>).
+**Platform owned.** No source found says the system runs on code the state owns. [In September 2026 the Law Committee chair called for national control over citizens' data held by foreign operators](<https://senego.com/assemblee-coup-de-theatre-le-projet-de-loi-sur-la-carte-didentite-retourne-en-commission_2007288.html>). Nothing says who holds the code.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says national staff maintain the system or the foreign contract has ended.
+***Not found***. No source found says national staff maintain the system or that the state owns its code.

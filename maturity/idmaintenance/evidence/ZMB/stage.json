@@ -1,17 +1,18 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "maintenance",
-   "stage": "2",
-   "operation": "transfer",
-   "maintenance": "",
-   "ownership": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZMB-001;ZMB-002",
-   "gaps": "No source found since October 2023 says: does a national authority run it day to day.",
-   "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "maintenance",
+      "stage": "2",
+      "operation": "transfer",
+      "maintenance": "",
+      "ownership": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZMB-001;ZMB-002",
+      "gaps": "No source found says a national authority runs a system in service day to day.",
+      "note": "Zambians are building the new ID system, with an international integrator sought for support. Nothing says it is in service and run nationally.",
+      "as_at": "2026-11-07"
+    }
+  ]
 }

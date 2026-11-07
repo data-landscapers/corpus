@@ -1,6 +1,6 @@
 # National maintenance of id and credentials systems: national maintenance of id and credentials systems
 
-*As at 2026-10-17.*
+*As at 2026-11-07.*
 
 ## The norm
 
@@ -20,11 +20,11 @@ The African Union's interoperability framework asks that countries own and opera
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 8 |
-| 4 Operating | 4 |
-| 3 Established | 28 |
+| 5 Leading | 7 |
+| 4 Operating | 3 |
+| 3 Established | 31 |
 | 2 Nascent | 4 |
-| 1 Absent | 2 |
+| 1 Absent | 1 |
 | Unplaced | 1 |
 | No evidence | 7 |
 
@@ -35,6 +35,7 @@ The African Union's interoperability framework asks that countries own and opera
 The ID system ran in 2026 on code the state owns.
 
 - The Ministry of the Interior says the central collection and processing systems were developed by Algerian engineers ([source, 2026-05](https://id4africa.com/2026/files/T2-3-S3-4-Algeria-FINAL.pdf)).
+- The Ministry of the Interior says its own engineers administer the platforms for collecting and centrally processing identity and travel document data, which Algerian engineers developed ([source, 2026-05](https://id4africa.com/2026/files/T2-3-S3-4-Algeria-FINAL.pdf)).
 
 ### Guinea: 5 Leading
 
@@ -48,24 +49,21 @@ The ID system ran in 2024 on code the state owns.
 
 - The government says the source codes and licences of Mali Kura Biométrie are held by national experts, ending dependence on foreign providers (the French firm Idemia) ([source, 2024-02-13](https://bamada.net/donnees-administratives-le-mali-recupere-ses-fichiers-ravec)).
 - The territorial administration minister says Mali Kura Biométrie was designed autonomously by Malian engineers between 2 October and 16 December 2023, replacing the system recovered from IDEMIA ([source, 2023-12-16](https://malikonews.com/mali-mali-kura-biometrie-un-nouveau-systeme-numerique-souverain-des-donnees-ravec/)).
+- The coordinator of the volunteer expert committee says there are no foreign providers on the maintenance contract for Mali Kura Biométrie, the new RAVEC system launched on 13 February 2024 ([source, 2024-02-13](https://malikonews.com/mali-mali-kura-biometrie-un-nouveau-systeme-numerique-souverain-des-donnees-ravec/)).
 
 ### Sierra Leone: 5 Leading
 
 The ID system ran in 2026 on code the state owns.
 
 - Biometric Update says Sierra Leone's national ID system is based on MOSIP, an open-source platform ([source, 2026-08-06](https://www.biometricupdate.com/202608/sierra-leone-consults-private-sector-on-trusted-digital-id-framework)).
+- NCRA's Director-General says the integrated registration and identity management system is managed in its entirety by the NCRA under the 2016 Act ([source, 2026-08-17](https://sierraleoneconcordtimes.com/93-of-sierra-leone-registered-with-unique-nins-2/)).
 
 ### Somalia: 5 Leading
 
 The ID system ran in 2025 on code the state owns.
 
 - NIRA's Director General says the DPI systems were entirely developed by Somali engineers at NIRA, reflecting national ownership; the World Bank's Scaled-UP project supported the build ([source, 2025-05-08](https://www.biometricupdate.com/202505/somalia-unveils-dpi-tools-for-biometric-verification-id-issuance-and-service-access)).
-
-### Sudan: 5 Leading
-
-The ID system ran in 2026 on code the state owns.
-
-- All rights in the application, platform, software and source code belong to the competent authority and/or its licensed entities ([source, 2026-05-21](https://sudapass.gov.sd/terms?lang=en)).
+- NIRA's Director General says the three launched systems (HUBIYE, e-Aqoonsi, CDS) were entirely developed by Somali engineers at NIRA, reflecting national ownership ([source, 2025-05](https://nira.gov.so/news/nira-launches-key-digital-public-infrastructure-for-national-id-system)).
 
 ### Togo: 5 Leading
 
@@ -79,12 +77,7 @@ The ID system ran in 2026 on code the state owns.
 The ID system ran in 2026 on code the state owns.
 
 - NIRA has completed migration of its national ID records to the open-source MOSIP platform ([source, 2026-02-19](https://www.biometricupdate.com/202602/brownfield-implementations-represent-mosips-next-wave-of-national-digital-ids)).
-
-### Cote d'Ivoire: 4 Operating
-
-National staff maintained the ID system in 2026; no source found reports ownership of its code.
-
-- Linfodrome quotes ONECI's director general saying the national databases are maintained with an investment taken from ONECI's own budget ([source, 2026-05-12](https://www.linfodrome.com/societe/121311-id4africa-2026-l-oneci-presente-les-avancees-du-systeme-ivoirien-d-identification-numerique)).
+- Biometric Update reports NIRA migrated over 28 million records to its new MOSIP-based identity database earlier in 2026 ([source, 2026](https://www.biometricupdate.com/202610/uganda-moves-to-make-national-digital-id-number-its-tax-identifier)).
 
 ### Egypt: 4 Operating
 
@@ -97,12 +90,14 @@ National staff maintained the ID system in 2024; no source found reports ownersh
 National staff maintained the ID system in 2026; no source found reports ownership of its code.
 
 - The National Identification Authority's own PKI team is carrying out updates to the Ghana Card registration system, with services expected to resume on 10 May 2026 ([source, 2026-04](https://www.classfmonline.com/news/NIA-announces-temporary-nationwide-service-disruption-for-system-updates-74362)).
+- The National Identification Authority itself sets fees and runs first-time registration, card replacement, record updates and mobile registration at its district offices and Premium Centres ([source, 2026-01-25](https://nia.gov.gh/fees-and-charges-2026/)).
 
-### Mauritania: 4 Operating
+### Nigeria: 4 Operating
 
-National staff maintained the ID system in 2026; no source found reports ownership of its code.
+The national authority's own staff maintained the ID database in 2026; no source found reports ownership of its code.
 
-- Tech Rek reports that the agency carried out and announced the preventive maintenance of its information system, and that periodic maintenance was generally done on Saturdays, with no foreign supplier named ([source, 2026-08-08](https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/)).
+- Ikoku says NIMC maintains its core database internally with its own staff ([source, 2026-10-14](https://techcabal.com/2026/10/14/nimc-identity-database-locally-hosted/)).
+- NIMC's Alvan Ikoku says the identity database is hosted in Nigeria and managed by NIMC employees, not vendors ([source, 2026-10-14](https://techcabal.com/2026/10/14/nimc-identity-database-locally-hosted/)).
 
 ### Angola: 3 Established
 
@@ -116,6 +111,7 @@ The national authority ran the ID system day to day in 2026; no source found say
 The national authority ran the ID system day to day in 2026; no source found says who maintains it.
 
 - Biometric Update quotes ANIP's Director General saying ANIP, attached to the presidency, is in charge of all identity matters in Benin ([source, 2026-05-12](https://www.biometricupdate.com/202605/building-digital-id-systems-that-last-african-countries-share-experiences-as-id4africa-2026-opens)).
+- ANIP says the single national identity database and the national civil status file are managed by one entity, the national agency ANIP ([source, 2026-05](https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf)).
 
 ### Botswana: 3 Established
 
@@ -135,6 +131,7 @@ The national authority ran the ID system day to day in 2026; no source found say
 
 The national authority ran the ID system day to day in 2025; no source found says who maintains it.
 
+- Decree 2025/058 of 28 February 2025 gives the head of the national identity-title production centre (CNPTI, attached to the national police) the administration of the system, network, databases, applications and security of the identity-title production system ([source, 2025-02-28](https://www.prc.cm/files/7f/4b/5b/2ce7f303c8e3bd44fa83c05acf9ddbf9.pdf)).
 - The chief of the national identity-titles production centre, a police divisional commissioner, says the new biometric national ID card is now delivered within 48 hours as the decree provides, with applicants collecting it at police stations ([source, 2025-03-09](https://www.voaafrique.com/a/les-cartes-d-identit%C3%A9-biom%C3%A9triques-d%C3%A9livr%C3%A9es-en-48h-d%C3%A9sormais-au-cameroun-/8004266.html)).
 
 ### Chad: 3 Established
@@ -150,6 +147,13 @@ The national authority ran the ID system day to day in 2025; no source found say
 
 - The Finance Ministry relaunched production of the NIU card from September 2025, with biometric capture in physical presence, per the ministry's own article ([source, 2025-09](https://www.finances.gouv.cg/fr/articles/relance-des-operations-de-production-de-la-carte-niu)).
 - The decree has the cards produced only by the national production centres at Brazzaville, Pointe-Noire and Oyo and issued by departmental section heads under the Interior Ministry ([source, 2024-11-13](https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/117585/COG-117585.pdf)).
+
+### Cote d'Ivoire: 3 Established
+
+The national authority ran the ID system day to day in 2026; no source found says who maintains it.
+
+- ONECI, under the Interior Ministry, manages the RNPP and attributes the national identification number, per the PARAE coordinator ([source, 2026-10-05](https://www.aip.ci/cote-divoire-aip-le-gouvernement-mise-sur-le-parae-pour-renforcer-la-confiance-dans-les-services-publics-numeriques/)).
+- ONECI, the Office national de l'etat civil et de l'identification, is the only body authorised to issue the secure national identity card, through enrolment centres such as Grand-Bassam ([source, 2026-08](https://www.linfodrome.com/societe/124119-grand-bassam-le-calvaire-des-demandeurs-de-la-carte-nationale-d-identite)).
 
 ### Djibouti: 3 Established
 
@@ -191,6 +195,12 @@ The national authority ran the ID system day to day in 2026; no source found say
 
 - The Justice Minister inaugurated an ID-card (BI) production centre in Bolama, the 18th issuance centre nationwide, run under the national civil identification directorate (ANG) ([source, 2026-06](https://ang.gw/regioes-ministro-da-justica-inaugura-centro-de-producao-de-bilhete-de-identidade-em-bolama/)).
 
+### Kenya: 3 Established
+
+The national authority ran the ID card system day to day in 2026; no source found says who maintains it.
+
+- The National Registration Bureau produces identity cards at its Nairobi headquarters, taking three weeks to a month before cards return to the county (county registration officer) ([source, 2026-10-02](https://www.vividvoicenews.com/2026/10/03/bungoma-id-registration-hampered-by-staff-vehicle-and-equipment-shortages/)).
+
 ### Liberia: 3 Established
 
 The national authority ran the ID system day to day in 2026; no source found says who maintains it.
@@ -209,6 +219,14 @@ The national authority ran the ID system day to day in 2024; no source found say
 The national authority ran the ID system day to day in 2025; no source found says who maintains it.
 
 - The National Registration Bureau, per its Principal Secretary, will renew, print and distribute about two million expired National ID cards nationwide ([source, 2025-12-25](https://malawi24.com/2025/12/25/government-extends-validity-of-expired-national-id-cards-to-2027/)).
+- The deck says the National Registration Bureau, a government department, manages the national civil registration and digital identity issuance system ([source, 2025](https://www.id4africa.com/2025/files/T3-P3-S2-3-Malawi_FINAL.pdf)).
+
+### Mauritania: 3 Established
+
+The national authority ran the ID system day to day in 2026; no source found says who maintains it.
+
+- Tech Rek reports that the national population registry and secure documents agency runs its own information system, including the Houwiyeti app and citizen reception centres, and took it offline for a day for preventive maintenance ([source, 2026-08-08](https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/)).
+- UNDP says the National Agency for People Registry and Secure Documents, under the Ministry of Home Affairs, developed and manages Mauritania's national biometric system ([source, 2024-08](https://www.undp.org/blog/mauritania-pilots-digital-id-app)).
 
 ### Mauritius: 3 Established
 
@@ -235,13 +253,6 @@ The national authority ran the ID system day to day in 2026; no source found say
 - The Ministry of Home Affairs, through its civil registration department, runs the e-ID card application and issuing, including amendments and replacements ([source, 2026-07-29](https://www.namibian.com.na/ministry-of-home-affairs-clarifies-e-id-costs/)).
 - The Office of the Prime Minister says it provides oversight, technology support, quality assurance and management of key components of the national population register on which the E-ID is built, and the Ministry of Home Affairs runs the existing registration infrastructure ([source, 2026-07-25](https://informante.web.na/?p=398234)).
 
-### Nigeria: 3 Established
-
-The national authority ran the ID system day to day in 2026; no source found says who maintains it.
-
-- NIMC director-general said the commission's own Self-Service Modification Platform had processed close to two million record updates, cutting turnaround from weeks to 24-48 hours ([source, 2026-09-16](https://www.thisdaylive.com/2026/09/16/fg-sets-december-deadline-for-95-nin-coverage/)).
-- TechCabal reports that NIMC implements the ID4D project and is enrolling 1.5 to 1.8 million people a month and issuing NINs ([source, 2026-06-30](https://techcabal.com/2026/09/07/nigeria-needs-62-5-million-nins-in-six-months-to-meet-target/)).
-
 ### Rwanda: 3 Established
 
 The national authority ran the ID system day to day in 2026; no source found says who maintains it.
@@ -260,8 +271,8 @@ The national authority ran the ID system day to day in 2026; no source found say
 
 The national authority ran the ID system day to day in 2024; no source found says who maintains it.
 
+- The Civil Status Division of the Department of Immigration and Civil Status prepares and issues Identity Cards to all residents and holds the National Population Database ([source, 2026](https://www.ics.gov.sc/about/department/civil-status-division)).
 - The Department of Immigration and Civil Status issues, replaces and amends the National Identity Card at its ID Card Offices in Victoria and Grand Anse Praslin, per its FAQ ([source, 2024](https://www.ics.gov.sc/faq/civil-services/id-section)).
-- The Department of Immigration & Civil Status, with the Department of Information Communications Technology, issues the NIN and ID letters and from 17 September 2024 issues virtual ID cards on the SeyID platform instead of physical cards for permit holders ([source, 2024-09-17](https://www.ics.gov.sc/about/media-centre/publications/launch-of-new-digital-solutions-for-public-services)).
 
 ### South Africa: 3 Established
 
@@ -276,6 +287,12 @@ The national authority ran the ID system day to day in 2026; no source found say
 - The Directorate of Civil Registry, Nationality, Passports, and Immigration runs a school-based National ID registration campaign for Primary Eight and Senior Four candidates, launched 4 August 2026 at Juba Day Secondary School ([source, 2026-08-04](https://catholicradionetwork.org/2026/08/04/immigration-directorate-launches-school-based-national-id-registration-for-examination-candidates/)).
 - The Directorate of Civil Registry, Nationality, Passport and Immigration with the Central Equatoria State Ministry of General Education launched school-based registration to issue National ID cards on 4 August 2026 ([source, 2026-08-04](https://www.eyeradio.org/school-based-national-id-registration-launched-for-exam-candidates-in-juba/)).
 
+### Sudan: 3 Established
+
+The national authority ran the digital ID platform day to day in 2026; no source found says who maintains it.
+
+- The National Electronic Authentication Authority manages the platform, can suspend or terminate the service for cyber security or maintenance, and takes monitoring and enforcement action ([source, 2026-05-21](https://sudapass.gov.sd/terms?lang=en)).
+
 ### Tanzania: 3 Established
 
 The national authority ran the ID system day to day in 2026; no source found says who maintains it.
@@ -288,7 +305,7 @@ The national authority ran the ID system day to day in 2026; no source found say
 The national authority ran the ID system day to day in 2026; no source found says who maintains it.
 
 - The playbook's governance diagram shows the citizen identifier system managed by the Unite de Gestion de l'Identifiant Unique Citoyen within the Ministry of the Interior, with the interoperability platform operated by the Centre National Informatique ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
-- The law states the national ID card is issued by the specialized services of the Ministry of the Interior after taking fingerprint and photo ([source, 2024-03-11](https://legislation-securite.tn/latest-laws/loi-organique-n-2024-22-du-11-mars-2024-modifiant-et-completant-la-loi-n-93-27-du-22-mars-1993-relative-a-la-carte-nationale-didentite/)).
+- The CNI, a national operator, is in charge of the national unique identifier register and the citizen's digital identity, per its own communique ([source, 2026-01](https://www.thd.tn/tunisie-le-centre-national-de-linformatique-celebre-50-ans-au-coeur-de-la-transformation-numerique-de-letat/)).
 
 ### Comoros: 2 Nascent
 
@@ -322,17 +339,11 @@ A 2024 source says a foreign supplier runs the national ID system.
 
 - Under the 20-year contract the IDEMIA/Afritech consortium produces the cards, manages the general population file and builds and operates the identification centres, per BBC News Afrique ([source, 2024-05-14](https://www.bbc.com/afrique/articles/cy633p6ezq1o)).
 
-### Lesotho: 1 Absent
+### Lesotho: Unplaced
 
-A 2024 source says a foreign supplier runs the national ID system.
+The foreign supplier's contract ended in 2024 and a new company took over; who runs the system is not known, so no stage is set.
 
-- Pangea (ex-Nikuv), contracted in 2012 to design, supply and implement Lesotho's civil registration and national ID systems, held maintenance and support agreements with the Ministry of Home Affairs, the latest of September 2024 at US$283,290 a month, ended 30 December 2024 with a new company to take over, per the Lesotho Times ([source, 2024-12-30](https://lestimes.com/?p=88892)).
-
-### Kenya: Unplaced
-
-Nothing found since 2023 names who operates the national ID system, so no stage is set.
-
-Not established: Nothing found since October 2023 says who operates the national ID system.
+Not established: Pangea's maintenance contract ended in December 2024 and a new company took over; nothing says who that is or who runs the system now.
 
 ### Burundi: No evidence
 

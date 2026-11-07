@@ -1,17 +1,18 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "maintenance",
-   "stage": "5",
-   "operation": "national",
-   "maintenance": "national",
-   "ownership": "owned",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SDN-002",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "maintenance",
+      "stage": "3",
+      "operation": "national",
+      "maintenance": "",
+      "ownership": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SDN-001",
+      "gaps": "No source found says national staff maintain SudaPass. Its terms give the code's rights to the authority and/or its licensed entities, which does not show the state owns it.",
+      "note": "The National Electronic Authentication Authority manages SudaPass day to day. Lowered from 5: the terms-of-use clause shares the code's rights with licensed entities, so it does not show state ownership.",
+      "as_at": "2026-11-07"
+    }
+  ]
 }

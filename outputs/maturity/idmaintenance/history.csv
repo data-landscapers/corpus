@@ -13,3 +13,57 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,TZA,dpi.id--national-maintenance-of-id-and-credentials-systems,fact,3,3,TZA-001;TZA-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
 2026-10-23,MDG,dpi.id--national-maintenance-of-id-and-credentials-systems,fact,no evidence,2,MDG-001,Arrival MDG-001: DECIM's next phase prepares transfer of the ID system to national institutions; no evidence -> 2.
 2026-10-23,LBR,dpi.id--national-maintenance-of-id-and-credentials-systems,fact,3,3,LBR-002;LBR-006,Arrival LBR-006: OeSD build-operate-transfer concession awaits ratification while NIR administers the system; stage unchanged.
+2026-11-07,AGO,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,AGO-001;AGO-002,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,BDI,dpi.id--national-maintenance-of-id-and-credentials-systems,review,no evidence,no evidence,,Rebuild: cell re-read against the ladder beside its neighbours; stage no evidence stands.
+2026-11-07,BEN,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,BEN-001;BEN-002,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,BFA,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,BFA-003;BFA-004,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,BWA,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,BWA-001;BWA-002,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,CAF,dpi.id--national-maintenance-of-id-and-credentials-systems,review,no evidence,no evidence,,Rebuild: cell re-read against the ladder beside its neighbours; stage no evidence stands.
+2026-11-07,CIV,dpi.id--national-maintenance-of-id-and-credentials-systems,review,4,3,CIV-001;CIV-002,Rebuild: ONECI's budget paying for maintenance does not say its own staff maintain the system. 4 -> 3.
+2026-11-07,CMR,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,CMR-004;CMR-002,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,COD,dpi.id--national-maintenance-of-id-and-credentials-systems,review,1,1,COD-001,Rebuild: cell re-read against the ladder beside its neighbours; stage 1 stands.
+2026-11-07,COG,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,COG-001;COG-002,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,COM,dpi.id--national-maintenance-of-id-and-credentials-systems,review,2,2,COM-001;COM-002,Rebuild: cell re-read against the ladder beside its neighbours; stage 2 stands.
+2026-11-07,CPV,dpi.id--national-maintenance-of-id-and-credentials-systems,review,no evidence,no evidence,,Rebuild: cell re-read against the ladder beside its neighbours; stage no evidence stands.
+2026-11-07,DJI,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,DJI-001;DJI-002,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,DZA,dpi.id--national-maintenance-of-id-and-credentials-systems,review,5,5,DZA-003;DZA-001,Rebuild: cell re-read against the ladder beside its neighbours; stage 5 stands.
+2026-11-07,EGY,dpi.id--national-maintenance-of-id-and-credentials-systems,review,4,4,EGY-001,Rebuild: cell re-read against the ladder beside its neighbours; stage 4 stands.
+2026-11-07,ERI,dpi.id--national-maintenance-of-id-and-credentials-systems,review,no evidence,no evidence,,Rebuild: cell re-read against the ladder beside its neighbours; stage no evidence stands.
+2026-11-07,ETH,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,ETH-005;ETH-002,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,GAB,dpi.id--national-maintenance-of-id-and-credentials-systems,review,no evidence,no evidence,,Rebuild: cell re-read against the ladder beside its neighbours; stage no evidence stands.
+2026-11-07,GHA,dpi.id--national-maintenance-of-id-and-credentials-systems,review,4,4,GHA-002;GHA-001,Rebuild: cell re-read against the ladder beside its neighbours; stage 4 stands.
+2026-11-07,GIN,dpi.id--national-maintenance-of-id-and-credentials-systems,review,5,5,GIN-001,Rebuild: cell re-read against the ladder beside its neighbours; stage 5 stands.
+2026-11-07,GMB,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,GMB-004;GMB-009,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,GNB,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,GNB-001,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,GNQ,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,GNQ-001,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,KEN,dpi.id--national-maintenance-of-id-and-credentials-systems,review,unplaced,3,KEN-001,"Rebuild: the National Registration Bureau produces the cards (KEN-001, October 2026), now inside the as-at. unplaced -> 3."
+2026-11-07,LBR,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,LBR-002;LBR-006,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,LBY,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,LBY-002,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,LSO,dpi.id--national-maintenance-of-id-and-credentials-systems,review,1,unplaced,,"Rebuild: Pangea's contract ended in December 2024 and a new company took over, so no supplier is shown running it now. 1 -> unplaced."
+2026-11-07,MAR,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,MAR-002,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,MDG,dpi.id--national-maintenance-of-id-and-credentials-systems,review,2,2,MDG-001,Rebuild: cell re-read against the ladder beside its neighbours; stage 2 stands.
+2026-11-07,MLI,dpi.id--national-maintenance-of-id-and-credentials-systems,review,5,5,MLI-004;MLI-002;MLI-001,Rebuild: cell re-read against the ladder beside its neighbours; stage 5 stands.
+2026-11-07,MOZ,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,MOZ-001,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,MRT,dpi.id--national-maintenance-of-id-and-credentials-systems,review,4,3,MRT-001;MRT-003,"Rebuild: a maintenance outage does not say the agency's own staff did the work, read as Eswatini's upgrades. 4 -> 3."
+2026-11-07,MUS,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,MUS-001,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,MWI,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,MWI-002;MWI-003,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,NAM,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,NAM-001;NAM-002,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,NER,dpi.id--national-maintenance-of-id-and-credentials-systems,review,2,2,NER-001,Rebuild: cell re-read against the ladder beside its neighbours; stage 2 stands.
+2026-11-07,NGA,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,4,NGA-002;NGA-001,"Rebuild: NIMC said in October 2026 its own staff maintain the core database (NGA-002), now inside the as-at. 3 -> 4."
+2026-11-07,RWA,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,RWA-001;RWA-002,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,SDN,dpi.id--national-maintenance-of-id-and-credentials-systems,review,5,3,SDN-001,"Rebuild: SudaPass terms share the code's rights with licensed entities, so state ownership is not shown; the authority runs it day to day. 5 -> 3."
+2026-11-07,SEN,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,SEN-003;SEN-004,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,SLE,dpi.id--national-maintenance-of-id-and-credentials-systems,review,5,5,SLE-002;SLE-006,Rebuild: cell re-read against the ladder beside its neighbours; stage 5 stands.
+2026-11-07,SOM,dpi.id--national-maintenance-of-id-and-credentials-systems,review,5,5,SOM-005;SOM-008,Rebuild: cell re-read against the ladder beside its neighbours; stage 5 stands.
+2026-11-07,SSD,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,SSD-001;SSD-002,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,STP,dpi.id--national-maintenance-of-id-and-credentials-systems,review,no evidence,no evidence,,Rebuild: cell re-read against the ladder beside its neighbours; stage no evidence stands.
+2026-11-07,SWZ,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,SWZ-001;SWZ-002,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,SYC,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,SYC-004;SYC-003,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,TCD,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,TCD-003;TCD-001,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,TGO,dpi.id--national-maintenance-of-id-and-credentials-systems,review,5,5,TGO-002;TGO-003,Rebuild: cell re-read against the ladder beside its neighbours; stage 5 stands.
+2026-11-07,TUN,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,TUN-002;TUN-003,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,TZA,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,TZA-001;TZA-002,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,UGA,dpi.id--national-maintenance-of-id-and-credentials-systems,review,5,5,UGA-008;UGA-011,Rebuild: cell re-read against the ladder beside its neighbours; stage 5 stands.
+2026-11-07,ZAF,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,ZAF-001,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
+2026-11-07,ZMB,dpi.id--national-maintenance-of-id-and-credentials-systems,review,2,2,ZMB-001;ZMB-002,Rebuild: cell re-read against the ladder beside its neighbours; stage 2 stands.
+2026-11-07,ZWE,dpi.id--national-maintenance-of-id-and-credentials-systems,review,no evidence,no evidence,,Rebuild: cell re-read against the ladder beside its neighbours; stage no evidence stands.

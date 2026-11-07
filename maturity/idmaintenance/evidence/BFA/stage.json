@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BFA-003;BFA-004",
-      "gaps": "No source found since October 2023 says national staff maintain the system or the foreign contract has ended.",
-      "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source found says national staff maintain the system or the foreign contract has ended.",
+      "note": "The ONI runs the ID system day to day. Nothing says its own staff maintain and upgrade it.",
+      "as_at": "2026-11-07"
     }
   ]
 }

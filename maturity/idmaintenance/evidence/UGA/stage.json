@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "maintenance",
-   "stage": "5",
-   "operation": "national",
-   "maintenance": "national",
-   "ownership": "owned",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-008",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "maintenance",
+      "stage": "5",
+      "operation": "national",
+      "maintenance": "national",
+      "ownership": "owned",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-008;UGA-011",
+      "gaps": "",
+      "note": "NIRA moved its national ID records to the open-source MOSIP platform in 2026 and runs the register. A later yes answers the earlier questions.",
+      "as_at": "2026-11-07"
+    }
+  ]
 }

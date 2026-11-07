@@ -2,12 +2,12 @@
 
 ## National maintenance of id and credentials systems
 
-**Operated nationally.** [The Mauritius National Identity Card Unit provides registration and issuance of the national identity card and mobile ID, and card-reading services to agencies](<https://mnis.govmu.org/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most fifteen stories a country; the nightly deep dive reads further and may move the stage either way.
+**Operated nationally.** [The National Identity Card Unit registers people and issues the national identity card and mobile ID](<https://mnis.govmu.org/>). It also provides card-reading services to other agencies. This account dates from February 2024. The unit is part of the government. Other agencies rely on it to read the card.
 
-**Maintained nationally.** No source found since October 2023 says national staff maintain the system or the foreign contract has ended. The nearest held fact: [the one given above](<https://mnis.govmu.org/>).
+**Maintained nationally.** No source found says who maintains the system. [The unit's 2024 account lists its services](<https://mnis.govmu.org/>). It does not say whether its own staff or a supplier maintain the system. No supplier is named.
 
-**Platform owned.** No source found since October 2023 says the system runs on code the state owns. The nearest held fact: [the one given above](<https://mnis.govmu.org/>).
+**Platform owned.** No source found says the system runs on code the state owns. [The 2024 account covers registration, issuance and card reading](<https://mnis.govmu.org/>). It does not say who holds the code. No supplier is named either. The unit's mobile ID runs beside the physical card.
 
 ***Also on file***. [Mobile digital ID](<https://www.biometricupdate.com/202605/theres-no-digital-id-without-data-protection-mauritius-privacy-chief>); [MauPass](<https://oecd-opsi.org/innovations/maupass/>); [Central Population Database](<https://oecd-opsi.org/innovations/maupass/>).
 
-***Not found***. No source found since October 2023 says national staff maintain the system or the foreign contract has ended.
+***Not found***. No source found says who maintains the system or who owns its code.

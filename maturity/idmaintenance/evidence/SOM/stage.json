@@ -9,10 +9,10 @@
       "ownership": "owned",
       "cap": "",
       "flags": "",
-      "stage_sources": "SOM-005",
+      "stage_sources": "SOM-005;SOM-008",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py.",
-      "as_at": "2026-10-17"
+      "note": "NIRA's director general says Somali engineers at NIRA built its identity systems entirely. A later yes answers the earlier questions.",
+      "as_at": "2026-11-07"
     }
   ]
 }

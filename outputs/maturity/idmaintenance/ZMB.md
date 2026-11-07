@@ -2,12 +2,12 @@
 
 ## National maintenance of id and credentials systems
 
-**Operated nationally.** [SZI National Coordinator Percy Chinyama says the system is being implemented by Zambians in a home-grown approach, with an international system integrator being sought to provide additional expertise, and open standards so Zambia is not locked in](<https://www.biometricupdate.com/202603/zambia-looking-for-mosip-system-integrator-to-support-digital-id-project>). [The Smart Zambia Institute has begun engaging an international partner to strengthen local capacity; its coordinator says the system will be developed by Zambians with the partner's technical support](<https://znbc.co.zm/?p=11892>). [The World Bank appraisal says the planned homegrown foundational ID will let the Government manage its infrastructure independently and reduce reliance on external vendors](<https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099100625152522349>).
+**Operated nationally.** [Zambians are implementing the new ID system in a home-grown approach](<https://www.biometricupdate.com/202603/zambia-looking-for-mosip-system-integrator-to-support-digital-id-project>), the Smart Zambia Institute coordinator said in March 2026. An international system integrator is being sought for more expertise. [The institute says Zambians will develop the system with the partner's support](<https://znbc.co.zm/?p=11892>). Open standards are meant to keep Zambia from being locked in to one supplier.
 
-**Maintained nationally.** No source found since October 2023 says national staff maintain the system or the foreign contract has ended. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202603/zambia-looking-for-mosip-system-integrator-to-support-digital-id-project>).
+**Maintained nationally.** No source found says national staff maintain the system. [In January 2025 SMART Zambia developers were trained on MOSIP](<https://idtechwire.com/zambia-advances-digital-id-system-with-mosip-training-for-healthcare-integration>). The aim was to let them manage and maintain the platform on their own.
 
-**Platform owned.** No source found since October 2023 says the system runs on code the state owns. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202603/zambia-looking-for-mosip-system-integrator-to-support-digital-id-project>).
+**Platform owned.** No source found says the system runs on code the state owns. [A 2025 World Bank appraisal says the planned home-grown ID will cut reliance on external vendors](<https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099100625152522349>). The system was not yet in service.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: does a national authority run it day to day.
+***Not found***. No source found says a national authority runs a system in service day to day.

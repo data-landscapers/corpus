@@ -2,12 +2,12 @@
 
 ## National maintenance of id and credentials systems
 
-**Operated nationally.** [The National Directorate of Civil Identification (DNIC) itself received 813,307 applications, produced 856,101 national identity cards and ran 1,749 mobile capture units in the first half of 2026, per its spokesperson](<https://clubofmozambique.com/news/mozambique-dnic-produces-over-800-thousand-national-identity-cards-in-the-first-semester/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Operated nationally.** [The National Directorate of Civil Identification produced 856,101 national identity cards in the first half of 2026](<https://clubofmozambique.com/news/mozambique-dnic-produces-over-800-thousand-national-identity-cards-in-the-first-semester/>). It received 813,307 applications in that period. It also ran 1,749 mobile capture units, its spokesperson said. The directorate runs the card system itself, through fixed offices and mobile units.
 
-**Maintained nationally.** No source found since October 2023 says national staff maintain the system or the foreign contract has ended. The nearest held fact: [the one given above](<https://clubofmozambique.com/news/mozambique-dnic-produces-over-800-thousand-national-identity-cards-in-the-first-semester/>).
+**Maintained nationally.** No source found says who maintains the system. [The directorate's 2026 figures cover applications and cards](<https://clubofmozambique.com/news/mozambique-dnic-produces-over-800-thousand-national-identity-cards-in-the-first-semester/>). They do not say whether its own staff or a supplier maintain the system. No foreign operator is named.
 
-**Platform owned.** No source found since October 2023 says the system runs on code the state owns. The nearest held fact: [the one given above](<https://clubofmozambique.com/news/mozambique-dnic-produces-over-800-thousand-national-identity-cards-in-the-first-semester/>).
+**Platform owned.** No source found says the system runs on code the state owns. [The spokesperson's account of 2026 covers output only](<https://clubofmozambique.com/news/mozambique-dnic-produces-over-800-thousand-national-identity-cards-in-the-first-semester/>). It does not say who holds the code. No supplier is named either.
 
 ***Also on file***. [Mobile digital ID and e-signature](<https://www.biometricupdate.com/202605/mozambique-seeks-partner-for-mobile-digital-id-e-signature-rollout>).
 
-***Not found***. No source found since October 2023 says national staff maintain the system or the foreign contract has ended.
+***Not found***. No source found says who maintains the system or who owns its code.

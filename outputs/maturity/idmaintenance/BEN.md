@@ -2,12 +2,12 @@
 
 ## National maintenance of id and credentials systems
 
-**Operated nationally.** [Biometric Update quotes ANIP's Director General saying ANIP, attached to the presidency, is in charge of all identity matters in Benin](<https://www.biometricupdate.com/202605/building-digital-id-systems-that-last-african-countries-share-experiences-as-id4africa-2026-opens>). [ANIP says the single national identity database and the national civil status file are managed by one entity, the national agency ANIP](<https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Operated nationally.** [ANIP, attached to the presidency, is in charge of all identity matters in Benin](<https://www.biometricupdate.com/202605/building-digital-id-systems-that-last-african-countries-share-experiences-as-id4africa-2026-opens>), its Director General said in May 2026. [The single national identity database and the national civil status file are both managed by ANIP](<https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf>). One agency therefore runs both registers. ANIP reported this arrangement in May 2026.
 
-**Maintained nationally.** No source found since October 2023 says national staff maintain the system or the foreign contract has ended. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202605/building-digital-id-systems-that-last-african-countries-share-experiences-as-id4africa-2026-opens>).
+**Maintained nationally.** No source found says who maintains the system. [ANIP's May 2026 account says only that it manages the identity database](<https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf>). It does not say whether its own staff or a supplier maintain it. No foreign operator is named in either account.
 
-**Platform owned.** No source found since October 2023 says the system runs on code the state owns. The nearest held fact: [the one given above](<https://www.biometricupdate.com/202605/building-digital-id-systems-that-last-african-countries-share-experiences-as-id4africa-2026-opens>).
+**Platform owned.** No source found says the system runs on code the state owns. [ANIP's Director General described its mandate in May 2026](<https://www.biometricupdate.com/202605/building-digital-id-systems-that-last-african-countries-share-experiences-as-id4africa-2026-opens>). He did not say who holds the code.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says national staff maintain the system or the foreign contract has ended.
+***Not found***. No source found says who maintains the system or who owns its code.

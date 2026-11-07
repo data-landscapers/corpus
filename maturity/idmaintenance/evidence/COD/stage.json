@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "COD-001",
-      "gaps": "No source found since October 2023 says: is national operation under way.",
-      "note": "First pass: counted from the four questions by study-ladder-idmaintenance.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source found says national operation is a goal or under way.",
+      "note": "The IDEMIA and Afritech consortium produces the cards and manages the population file under a 20-year contract from 2024. Nothing says a transfer is planned.",
+      "as_at": "2026-11-07"
     }
   ]
 }
