@@ -1,12 +1,12 @@
 ---
 title: Libya: status report
-compiled: 2026-11-06
+compiled: 2026-11-07
 place: LBY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 207
+sources_cited: 208
 sections_written: 39
 not_established: 0
 acquire_lines: 50
@@ -223,7 +223,7 @@ About 450,000 public-sector employees remained outside that system in September 
 
 [In 2025 a customs system ran on off-the-shelf software, unmerged with tax administration](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [The customs authority announced full use of ASYCUDA for September 2025](https://libyaherald.com/2025/08/customs-authority-announces-full-launch-of-asycuda-system-next-month), after [a 2022 IMF review found its pilot at Tripoli port barely used and insecure](https://www.imf.org/-/media/files/publications/cr/2022/english/1lbyea2022001.pdf). No account of it going live has been found. [In 2025 the public pension system did not use the national ID number](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [In December 2025 the Tax Authority launched a Unified Tax System, with no taxpayer count published](https://libyaherald.com/2025/12/tax-authority-launches-unified-tax-system-and-activation-of-tax-polices-role-recent-high-revenue-collection-rates-commended/).
 
-[In 2024 primary-care medical records were on paper, and health information systems were not in routine use](https://pmc.ncbi.nlm.nih.gov/articles/PMC11167861/). [In November 2025 the health ministry and WHO were weighing extending DHIS2 to pharmacy and supply management](https://libyareview.com/60731/libya-who-review-expansion-of-national-digital-health-system/). On 27 October 2026 [the health minister, the digital economy minister of state, WHO and UNDP discussed a health digitisation plan for 2026–2030](https://ar.libyaobserver.ly/article/39242). No text of the plan has been published. [A health number system launched in January 2024 is presented as the route to an electronic health file](https://libyaherald.com/2024/01/national-comprehensive-health-care-programme-and-health-number-system-launched/). [In July 2024 the Education Management Information System was launched with UNICEF](https://libyaobserver.ly/education/education-ministry-launches-emis-cooperation-unicef), after [a 2022 assessment found no fully functioning one](https://reliefweb.int/attachments/54655ecb-1471-4fca-a42b-cc1f1a0a717f/LBY2205_JENA_Report_English.pdf). [In 2023 the Attorney General's Office had digitised 400,000 case archives](https://staging2.libyaherald.com/2023/10/attorney-generals-office-announces-the-digitisation-of-400000-case-archives). [In September 2025 Expertise France advertised a post to pilot a digital case management system with it](https://expertise-france.gestmax.fr/13966/1/digital-transformation-expert-judicial-digitalisation-support-in-libya-h-f).
+[In 2024 primary-care medical records were on paper, and health information systems were not in routine use](https://pmc.ncbi.nlm.nih.gov/articles/PMC11167861/). [In November 2025 the health ministry and WHO were weighing extending DHIS2 to pharmacy and supply management](https://libyareview.com/60731/libya-who-review-expansion-of-national-digital-health-system/). On 27 October 2026 [the health minister, the digital economy minister of state, WHO and UNDP discussed a health digitisation plan for 2026–2030](https://ar.libyaobserver.ly/article/39242). No text of the plan has been published. [A health number system launched in January 2024 is presented as the route to an electronic health file](https://libyaherald.com/2024/01/national-comprehensive-health-care-programme-and-health-number-system-launched/). [A survey of 182 health-system staff in February 2025 found the electronic health record decreed in 2015 still not in use, with finance the main obstacle](https://ojs.academy.edu.ly/index.php/JKCHAS/article/download/671/403/1010). [In July 2024 the Education Management Information System was launched with UNICEF](https://libyaobserver.ly/education/education-ministry-launches-emis-cooperation-unicef), after [a 2022 assessment found no fully functioning one](https://reliefweb.int/attachments/54655ecb-1471-4fca-a42b-cc1f1a0a717f/LBY2205_JENA_Report_English.pdf). [In 2023 the Attorney General's Office had digitised 400,000 case archives](https://staging2.libyaherald.com/2023/10/attorney-generals-office-announces-the-digitisation-of-400000-case-archives). [In September 2025 Expertise France advertised a post to pilot a digital case management system with it](https://expertise-france.gestmax.fr/13966/1/digital-transformation-expert-judicial-digitalisation-support-in-libya-h-f).
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->
