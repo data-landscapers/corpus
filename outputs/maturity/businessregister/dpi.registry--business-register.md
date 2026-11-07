@@ -338,8 +338,9 @@ A one-stop company registration counter was open in 2026; online registration is
 
 ### Sierra Leone: 2 Nascent
 
-An online business registration system was being built in 2026; online registration in service is not on record.
+An online business registration system was built and demonstrated to a minister in November 2026; whether applicants can use it is not known.
 
+- SierraLoaded reports the National Investment Board's newly developed Online Business Registration System lets applicants reserve a name, register, upload documents and download business certificates online, as demonstrated to the Communication Minister ([source, 2026-11-06](https://sierraloaded.sl/news/salima-nib-online-business-registration/)).
 - Chief Minister Sengeh said the National Investment Board's One-Stop Digital Business Service Platform, built through a joint venture, is nearly complete and expected to be operational by November 2026, cutting business registration from about 24 hours to minutes ([source, 2026-10-07](https://ayvnews.com/sengeh-highlights-bios-business-transformation/)).
 - Parliament ratified a 15-year build-operate-transfer concession under which Multi GIS E-Services SL Ltd will develop, operate and maintain the Online Business Registration System, per Sierraloaded ([source, 2026-05-31](https://sierraloaded.sl/news/parliament-online-business-registration/)).
 

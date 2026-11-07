@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-05-uga-ursb-launches-mobile-app-for-business-registration-services",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "inservice",
+   "fact": "The Uganda Registration Services Bureau says its eRegistry online platform, which replaced the Online Business Registration System, is running, and its new URSB Connect app adds company and business-name registration as an extra channel.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "eRegistry",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eRegistry",
+   "country_label": "URSB eRegistry",
+   "class": "business",
+   "platform": "",
+   "owner": "URSB",
+   "tiers": ""
+  },
+  {
+   "system": "URSB Connect",
+   "country_label": "URSB Connect app 2026",
+   "class": "business",
+   "platform": "mobile app",
+   "owner": "URSB",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

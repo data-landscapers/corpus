@@ -9,10 +9,10 @@
       "owners": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SLE-001;SLE-002",
-      "gaps": "The WanGov app listed business registration among its services in February 2025, but in May and October 2026 the online business registration system was still being built, due in service by November 2026; the newer facts stand.",
-      "note": "Reassessed in the rebuild: the newest sources say the online registration platform is not yet operational, as with Ghana, so the registration aspect is under way and the stage is 2.",
-      "as_at": "2026-10-23"
+      "stage_sources": "SLE-004;SLE-001;SLE-002",
+      "gaps": "The WanGov app listed business registration among its services in February 2025, but in 2026 the National Investment Board's online registration system was still being built and, in November 2026, only demonstrated to a minister; no source says it is open to applicants.",
+      "note": "The newest source, of November 2026, shows the online registration system demonstrated to the communications minister, not opened to applicants, so registration is under way and the stage stays 2.",
+      "as_at": "2026-11-07"
     }
   ]
 }
