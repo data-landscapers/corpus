@@ -1,11 +1,11 @@
 ---
 title: Gambia — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: GMB
-ledger_rows: 11
+ledger_rows: 14
 not_held: 2
-record: 4d183df5ce96
+record: b4701923cd37
 ---
 
 # News, Oct – Nov 2026
@@ -13,16 +13,50 @@ record: 4d183df5ce96
 *Developments reported in sources published between the beginning of last month and today, grouped by story, oldest first.*
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
+<a href="#finance">Finance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
 </nav>
+
+## Finance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#new-investments">New investments</a>
+</nav>
+
+### New investments
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AfDB digital government project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EOI - Gambia - Capacity Development to Effectively Perform Oversight Functions Over Fintech - DIGEST](https://www.afdb.org/en/documents/eoi-gambia-capacity-development-effectively-98329)** — African Development Bank, 6 November 2026
+
+AfDB DIGEST consultancy sought to build Gambian institutions' capacity to oversee and regulate fintech.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[EOI - Gambia - Digital Literacy Policy and Strategy Formulation - DIGEST](https://www.afdb.org/en/documents/eoi-gambia-digital-literacy-policy-strategy-98330)** — African Development Bank, 6 November 2026
+
+AfDB DIGEST consultancy sought to draft The Gambia's National Digital Literacy Policy and 2027-2032 strategy.
+
+</div>
+
+</div>
 
 ## ICT Infrastructure
 
@@ -50,6 +84,8 @@ Gambian operator GAMTEL offers ISPs and small businesses space for servers and n
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
 <a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -89,6 +125,22 @@ The Gambia Immigration Department denied losing access to national identity card
 **[Banjul Airport Security Needs A Public Scorecard Not Another Argument](https://standard.gm/banjul-airport-security-needs-a-public-scorecard-not-another-argument/)** — The Standard, 21 October 2026
 
 An opinion piece argues that the Gambia's contract with Securiport for civil-aviation and immigration security at Banjul airport needs a public scorecard of which findings of the National Audit Office's November 2022 management letter have been closed. It separates what the auditors found for September 2019 to May 2021 from the responses institutions printed, such as the civil aviation authority's report of a joint collection account.
+
+</div>
+
+</div>
+
+### Digital Payments and Fintech
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National fintech policy</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[EOI - Gambia - Capacity Development to Effectively Perform Oversight Functions Over Fintech - DIGEST](https://www.afdb.org/en/documents/eoi-gambia-capacity-development-effectively-98329)** — African Development Bank, 6 November 2026
+
+Summarised under [New investments](#new-investments).
 
 </div>
 
@@ -193,6 +245,28 @@ The Gambia scored 0.91 out of 4 on the Africa AI Governance Index 2026, in the N
 **[UNDP Launches e-Monitor Plus Platform to Safeguard Electoral Information Integrity in The Gambia — Askanwi](https://www.askanwi.com/news/undp-launches-e-monitor-plus-platform-to-safeguard-electoral-information-integrity-in-the-gambia)** — Askanwi, 18 October 2026
 
 UNDP and The Gambia's Independent Electoral Commission launched e-Monitor Plus at Kololi on 13-15 October 2026, a platform pairing AI with human checking to track online misinformation, disinformation and hate speech before the 5 December 2026 presidential election. Civil society speakers warned that monitoring must not turn into censorship.
+
+</div>
+
+</div>
+
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#literacy">Literacy</a>
+</nav>
+
+### Literacy
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Digital Literacy Policy and Strategy 2027-2032</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[EOI - Gambia - Digital Literacy Policy and Strategy Formulation - DIGEST](https://www.afdb.org/en/documents/eoi-gambia-digital-literacy-policy-strategy-98330)** — African Development Bank, 6 November 2026
+
+Summarised under [New investments](#new-investments).
 
 </div>
 
