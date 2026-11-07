@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: MAR
-ledger_rows: 22
+ledger_rows: 23
 not_held: 14
-record: f405a8d4310f
+record: 5cd5704734c5
 ---
 
 # News, Oct – Nov 2026
@@ -359,6 +359,20 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 **[Rapport annuel sur les infrastructures de marchés financiers et les moyens de paiement - Exercice 2025](https://www.bkam.ma/content/download/852741/9198194/Rapport%20annuel%20DSSMP%202025.pdf)** — Bank Al-Maghrib, 21 October 2026
 
 Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Samsung Pay on Mastercard tokenisation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Samsung Pay Launches in Morocco with Mastercard Tokenization Technology](https://techafricanews.com/2026/11/05/samsung-pay-launches-in-morocco-with-mastercard-tokenization-technology/)** — Tech Africa News, 5 November 2026
+
+Phone payments for Mastercard holders at participating banks via MDES tokens; banks unnamed.
 
 </div>
 
