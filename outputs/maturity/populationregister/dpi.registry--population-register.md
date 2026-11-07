@@ -156,10 +156,11 @@ A population register was under way in 2024; none in service is on record.
 
 ### Guinea: 2 Nascent
 
-A population register was under way in 2026; none in service is on record.
+A register built from the 2025 census held 9 million people, but in 2026 it was still being set up; none in service is known.
 
 - A workshop launched on 18 September 2026 on extending the Registre national des personnes physiques, with a platform for verifying and validating identity to have its first phase done before end-2026, per the minister ([source, 2026-09-18](https://www.guinee114.com/2026/09/18/matd-dge-djenabou-toure-lance-latelier-sur-lextension-du-registre-national-des-personnes-physiques/)).
 - PN-RAVEC workshop of 12-17 January 2026 reviewed draft implementing texts on the mechanisms for constituting an interoperable Registre National des Personnes Physiques under Laws L/2023/019/CNT and L/2023/020/CNT ([source, 2026-01](https://ravec.gov.gn/ravec-kindia-atelier-de-relecture-et-validation-des-textes-dapplication-portant-etat-civil-et-identification-des-personnes-physiques/)).
+- MATD reported on 19 July 2025 a national register of natural persons (RNPP) holding 9,010,181 people after de-duplication of the 2025 census ([source, 2025-07-19](https://www.guinee114.com/2025/07/19/matd-les-statistiques-provisoires-du-registre-national-des-personnes-physiques-et-du-fichier-electoral-biometrique-presentees-aux-acteurs-socio-politiques/)).
 
 ### Liberia: 2 Nascent
 

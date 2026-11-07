@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-01-nam-namtac",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "UCSF's NAMTAC page says the master patient index is linked with the National Population Registry System (NPRS), using Namibian ID numbers and birth certificate numbers.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National Population Registry System (NPRS)",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "used",
+   "value": "source",
+   "fact": "UCSF's NAMTAC page says the health master patient index draws on the NPRS for ID numbers of people over 16 and birth certificate numbers for those under 16.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National Population Registry System (NPRS)",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
