@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: XAF
-ledger_rows: 59
+ledger_rows: 63
 not_held: 3
-record: 536ceb8607b1
+record: 39e7766b24ce
 ---
 
 # News, Oct – Nov 2026
@@ -233,6 +233,20 @@ AU Commissioner Lerato Mataboge opened the ministerial session of the AU's 6th t
 **[Call for Inputs: Draft Continental Study on Digital Violence Against Women in Africa](https://achpr.au.int/en/news/announcements/2026-11-03/call-inputs-draft-continental-study-digital-violence-against-women)** — African Commission on Human and Peoples' Rights, 3 November 2026
 
 The African Commission on Human and Peoples' Rights published its draft Continental Study on Digital Violence Against Women in Africa for stakeholder review. The study covers 20 countries and finds that none has enacted comprehensive gender-responsive legislation on digital violence against women. Inputs are due by 4 December 2026, and an online consultation is set for 11 November.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Africa Internet Governance Forum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[African judiciary pushes for data sovereignty](https://www.itweb.africa/article/african-judiciary-pushes-for-data-sovereignty/mQwkoq6Y556M3r9A)** — ITWeb Africa, 6 November 2026
+
+Inaugural judicial dialogue at Africa IGF 2026 backs African guidelines on AI in courts; judicial digital sovereignty.
 
 </div>
 
@@ -512,6 +526,8 @@ At a UNDP-backed event in Rome on 3 November 2026, the AI Hub and Moroccan firm 
 <a href="#data-exchange">Data Exchange</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geospatial-data">Geospatial data</a>
 </nav>
@@ -876,6 +892,22 @@ A Deloitte-AFIS survey presented in Luanda found that 11% of African financial i
 
 </div>
 
+### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fiscal management systems in the CABRI budget practices survey</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Budget Practices and Procedures (03) - From budget transparency to accountability: Where the chain breaks down in Africa](https://www.cabri-sbo.org/en/publications/budget-practices-and-procedures-03-from-budget-transparency-to-accountability-where-the-chain-breaks-down-in-africa)** — CABRI (Collaborative Africa Budget Reform Initiative), 12 October 2026
+
+2025 survey of 18 countries: IFMIS in 15, e-audit tools in 7, open fiscal data portals in 9; audit follow-up thin.
+
+</div>
+
+</div>
+
 ### Geospatial data
 
 <div class="monthly-story" markdown="1">
@@ -896,6 +928,8 @@ Space in Africa released its African Satellite Manufacturing and Launch Market R
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Coordination and collaboration">
 <a href="#innovation-ecosystem">Innovation ecosystem</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#eu-activities">EU activities</a>
 </nav>
 
 ### Innovation ecosystem
@@ -909,6 +943,30 @@ Space in Africa released its African Satellite Manufacturing and Launch Market R
 **[UNDP and EBN partner to strengthen quality standards for Africa’s incubators](https://www.undp.org/africa/press-releases/undp-and-ebn-partner-strengthen-quality-standards-africas-incubators)** — United Nations Development Programme, 27 October 2026
 
 UNDP and the European Business and Innovation Centre Network agreed a partnership to build certification and benchmarking frameworks for incubators in UNDP's timbuktoo Pan-African Incubation Network. The frameworks draw on the network's EU|BIC quality standard. Terms and funding are not stated.
+
+</div>
+
+</div>
+
+### EU activities
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">German coalition motion on digital development cooperation (Drucksache 21/8912)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Antrag der Fraktionen der CDU/CSU und SPD: Digitalisierung in der deutschen Entwicklungszusammenarbeit (Drucksache 21/8912)](https://dserver.bundestag.de/btd/21/089/2108912.pdf)** — Deutscher Bundestag, 3 November 2026
+
+Coalition motion, 3 Nov 2026: interest-led digital aid, reuse rights for funded software, African data centres.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Koalition will deutsche KI-Firmen stärken und Rechenzentren in Afrika fördern](https://fokus-afrika.de/koalition-will-deutsche-ki-firmen-staerken-und-rechenzentren-in-afrika-foerdern/)** — FOKUS AFRIKA | Nachrichten aus Afrika, 6 November 2026
+
+Coalition motion, first read 5 Nov 2026: support African data centres; aid tied to German, European or local firms.
 
 </div>
 
@@ -979,6 +1037,20 @@ Google launched Skilling Africa with Google, a free continent-wide learning hub 
 **[Smart Africa Partners with ITU to Strengthen Telecom Regulation Across Africa](https://techafricanews.com/2026/11/02/smart-africa-itu-partnership-strengthen-telecom-regulation-africa/)** — Tech Africa News, 2 November 2026
 
 Smart Africa and the ITU partnered to train African policymakers and telecom regulators in pro-competition broadband and telecommunications regulation. Through the Smart Africa Digital Academy and the ITU Academy, three accredited e-learning courses in English, French and Portuguese were released as digital public goods. The partnership aims to reach more than 3,000 policymakers.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AfCFTA Digital Inclusion and Entrepreneurship Programme (ADIEP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AfCFTA Digital Inclusion Programme reaches over 7,000 SMEs across 16 African countries](https://techreviewafrica.com/news/8154/afcfta-digital-inclusion-programme-reaches-over-7-000-smes-across-16-african-countries)** — Tech Review Africa, 6 November 2026
+
+Google Hustle Academy bootcamps in four languages; phase 1 closed in Accra; phase 2 being prepared.
 
 </div>
 
