@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: BFA
-ledger_rows: 38
+ledger_rows: 41
 not_held: 6
-record: c0d8fed1c449
+record: 15833abd94c5
 ---
 
 # News, Oct – Nov 2026
@@ -156,6 +156,20 @@ Burkina Faso's telecoms regulator signed bilateral roaming agreements with its c
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Confederation of Sahel States Year II digital roadmap</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Numérique dans l’espace AES: la feuille de route de l’An II adoptée](https://www.sidwaya.info/2026/11/05/numerique-dans-lespace-aes-la-feuille-de-route-de-lan-ii-adoptee/)** — Sidwaya, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Sidwaya account, 5 Nov 2026; 16 of 18 deliverables final, confederal NOC by end-2028, CERTs paid from universal service.
+
+</div>
+
+</div>
+
 ### Standards
 
 <div class="monthly-story" markdown="1">
@@ -231,6 +245,14 @@ Burkina Faso's digital transition minister, Aminata Zerbo, said on 8 October 202
 **[« Zéro zone blanche» : Plus de 25 milliards FCFA mobilisés pour accompagner la couverture de 1 500 localités](https://www.moussonews.com/zero-zone-blanche-plus-de-25-milliards-fcfa-mobilises-pour-accompagner-la-couverture-des-1-500-localites/)** — Mousso News, 8 October 2026
 
 Summarised under [Connectivity](#connectivity).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Compte rendu du Conseil des ministres du jeudi 5 novembre 2026](https://burkina24.com/2026/11/05/compte-rendu-du-conseil-des-ministres-du-jeudi-5-novembre-2026/)** — Burkina24, 5 November 2026
+
+fID system decree; Digital Transition ministry interim ID issuer; CFA 15.46bn for RESINA network and data centres.
 
 </div>
 
@@ -379,6 +401,20 @@ Burkina Faso's territorial gendarmerie brigades may now issue the AES biometric 
 **[Compte rendu du Conseil des ministres (PP-G N°030-2026)](https://www.minute.bf/wp-content/uploads/2026/10/CONSEIL-DES-MINISTRES-N%C2%B030-DU-22-OCTOBRE-2026.pdf)** — Primature du Burkina Faso, 22 October 2026
 
 Burkina Faso's Council of Ministers adopted a decree on 22 October 2026 on computerised processing of civil-status data, a civil-status identifier and the interoperability of the civil-status system with other systems. Applying the 2025 Persons and Family Code, it provides for electronic archiving of registers and online delivery of certificates, with the identifier as the base of a national digital register.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Loi 027-2024 on unique identification and its enrolment decree</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Compte rendu du Conseil des ministres du jeudi 5 novembre 2026](https://burkina24.com/2026/11/05/compte-rendu-du-conseil-des-ministres-du-jeudi-5-novembre-2026/)** — Burkina24, 5 November 2026
+
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
@@ -543,6 +579,20 @@ Burkina Faso's AI centre of excellence, CITADEL, and its Data Lab launched L'Ess
 **[Burkina/Intelligence artificielle : Une feuille de route de 30 milliards de FCFA pour créer 5 000 emplois spécialisés d’ici à 2030](https://lefaso.net/?id_article=150234&page=impression)** — LeFaso.net, 25 October 2026
 
 The 2026-2030 national AI roadmap was validated on 19 June 2026 but has not been officially published. A ministry official presented it on 23 October with a projected budget of FCFA 30 billion, 23 proofs of concept, 500 experts and 5,000 specialised jobs by 2030. It targets hosting at least 80% of the data concerned inside the country.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sahal African Language Data Platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina Faso’s Sahal Tech Partners with Old Rock Group to Develop African Language AI](https://techafricanews.com/2026/11/06/burkina-fasos-sahal-tech-partners-with-old-rock-group-to-develop-african-language-ai/)** — Tech Africa News, 6 November 2026
+
+Agreement of 2 Nov 2026; language data platform starting with Mooré, Dioula, Fulfuldé and Bambara.
 
 </div>
 
