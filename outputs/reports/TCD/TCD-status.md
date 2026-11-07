@@ -1,12 +1,12 @@
 ---
 title: Chad: status report
-compiled: 2026-11-06
+compiled: 2026-11-07
 place: TCD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 10
-sources_cited: 206
+sources_cited: 207
 sections_written: 39
 not_established: 0
 acquire_lines: 37
@@ -16,7 +16,7 @@ acquire_lines: 37
 ### Strategies, plans and policies
 <!-- gov.policy -->
 
-[Tchad Connexion 2030, published in 2025, is a US$1.5 billion plan to digitise and interconnect all public services, sitting alongside the Plan Stratégique de Développement du Numérique et des Postes 2020-2030](https://documents1.worldbank.org/curated/en/099090624105035738/pdf/BOSIB-1f328ad5-ab39-46eb-8784-edfbfe2299dc.pdf), and Chad has no institution to run it: [no dedicated digital government institution exists, no machinery coordinates or audits government technology across ministries, and nothing about that function is transparent to the public](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The standing sector instrument remains [the Strategic Plan 2020-2030 for the postal, electronic communication and digital economy sector, published by the communications ministry, which carries broadband, universal access, digital identification, digital payments and e-commerce](https://drive.google.com/open?id=17E01pf86lZZByuNDV-_MTUI03tdfmgwm).
+[Tchad Connexion 2030, published in 2025, is a US$1.5 billion plan to digitise and interconnect all public services, sitting alongside the Plan Stratégique de Développement du Numérique et des Postes 2020-2030](https://documents1.worldbank.org/curated/en/099090624105035738/pdf/BOSIB-1f328ad5-ab39-46eb-8784-edfbfe2299dc.pdf), and Chad has no institution to run it: [no dedicated digital government institution exists, no machinery coordinates or audits government technology across ministries, and nothing about that function is transparent to the public](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The standing sector instrument remains [the Strategic Plan 2020-2030 for the postal, electronic communication and digital economy sector, published by the communications ministry, which carries broadband, universal access, digital identification, digital payments and e-commerce](https://drive.google.com/open?id=17E01pf86lZZByuNDV-_MTUI03tdfmgwm). [Drafting of a National Digital Transformation Strategy formally began on 4 November 2026, with UNDP funding an international consultancy](https://camerpressagency.com/la-strategie-nationale-de-transformation-digitale-en-gestation-le-tchad-amorce-son-grand-virage-numerique-avec-lappui-du-pnud/).
 
 Newer commitments arrive through the budget rather than through strategy. [The "zéro cash, zéro papier" mandate sits under the Public Finance Reform Strategy 2022-2027, justified by revenue security, spending control and traceability](https://lendjampost.com/budget-2026-au-tchad-zero-cash-zero-papier-zero-facture-fantome/), and [the 2027 orientations restate it with a new start date, with no cost, no phasing and no named implementing agency](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/) (August 2026). [The national biometric registry is presented by the authorities as an instrument of Tchad Connexion 2030](https://www.biometricupdate.com/202603/chad-uses-national-biometric-registry-to-boost-govt-systems-interoperability) (March 2026), and [the government frames digital regulation as sovereignty, its then-minister for digital economy stating in December 2025 that "in the digital age, a country that does not control its data does not control its destiny"](https://www.ecofinagency.com/news-digital/1012-51293-chad-finalizes-digital-law-to-align-national-framework-with-global-standards).
 
