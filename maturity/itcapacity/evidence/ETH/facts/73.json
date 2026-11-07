@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-06-eth-insa-national-cyber-drill-competition",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "Tech Review Africa reports that INSA experts developed the cyber drill platform entirely in-house, and it was used by 17 institutions in the 7th National Cyber Security Month.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "INSA cyber drill platform",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "A cyber drill platform built entirely by INSA experts was in use for the National Cyber Drill Competition during the 7th National Cyber Security Month (October 2026).",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "INSA cyber drill platform",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "INSA cyber drill platform",
+   "country_label": "Ethiopia",
+   "class": "staff",
+   "platform": "",
+   "owner": "INSA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

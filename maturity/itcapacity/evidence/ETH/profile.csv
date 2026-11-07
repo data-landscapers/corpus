@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ETH,inhouse,inhouse,coverage,yes,2025-07-08,ETH-002,,
+ETH,inhouse,inhouse,coverage,yes,2026-10,ETH-002;ETH-005,,
 ETH,inhouse,agency,coverage,operating,2025-07,ETH-001;ETH-003,,
-ETH,inhouse,built,coverage,live,2025-06-10,ETH-004,,
+ETH,inhouse,built,coverage,live,2026-10,ETH-004;ETH-006,,
 ETH,inhouse,own,coverage,,,,,nothing found
