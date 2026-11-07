@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — News, Oct – Nov 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: GNQ
-ledger_rows: 16
+ledger_rows: 17
 not_held: 6
-record: 6365d171370b
+record: af91042cd070
 ---
 
 # News, Oct – Nov 2026
@@ -263,6 +263,20 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 **[El Gobierno analiza el contrato de VFS Global para reforzar el sistema de visados en línea y potenciar la promoción turística](https://www.guineaecuatorialpress.com/noticias/el_gobierno_analiza_el_contrato_de_vfs_global_para_reforzar_el_sistema_de_visados_en_linea_y_potenciar_la_promocion_turistica)** — Guinea Ecuatorial Press, 29 October 2026
 
 Equatorial Guinea's vice-presidency reviewed the VFS Global e-visa contract before formalising it (reported 29 October 2026). About 35,127 e-visas have been processed since launch on 1 July 2023, against an expected 200,000 a year. VFS proposed automated applicant assistance and document data-extraction tools.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Securiport border-control modernisation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[El Gobierno avanza en las negociaciones con Securiport para la modernización del sistema de control fronterizo](https://www.guineaecuatorialpress.com/noticias/el_gobierno_avanza_en_las_negociaciones_con_securiport_para_la_modernizacion_del_sistema_de_control_fronterizo)** — Government of Equatorial Guinea, 5 November 2026
+
+Vice-President orders fee comparison with earlier contracts; pilot proposed at Malabo and Bata airports.
 
 </div>
 
