@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: ZAF
-ledger_rows: 87
+ledger_rows: 90
 not_held: 19
-record: db686c405ac9
+record: 425f46d9ed52
 ---
 
 # News, Oct – Nov 2026
@@ -625,6 +625,20 @@ Rand Mutual Assurance said it is investigating a possible systems breach after a
 **[GCIS warns of information breach](https://www.itweb.co.za/article/gcis-warns-of-information-breach/wbrpO7g2ea3vDLZn)** — ITWeb South Africa, 30 October 2026
 
 South Africa's GCIS told applicants that its e-recruitment system had been compromised, possibly exposing ID numbers, phone numbers and e-mail addresses. Suspicious activity on its web systems was identified on 24 October 2026. GCIS reported the incident to the Information Regulator, the police and the State Security Agency.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">LekkeSlaap booking-data breach</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Accommodation booking platform LekkeSlaap suffers cyber attack](https://www.itweb.co.za/article/accommodation-booking-platform-lekkeslaap-suffers-cyber-attack/KBpdgvpmwV47LEew)** — ITWeb South Africa, 6 November 2026
+
+Guest names, contacts and booking references exposed via calendar sync; no payment data, IDs or passwords.
 
 </div>
 
@@ -1392,6 +1406,20 @@ Google DeepMind and Fab AI will build open Gemma-based AI tools for teachers in 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Ayre Index of youth AI readiness</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Training partnerships spur SA’s youth AI readiness](https://www.itweb.co.za/article/training-partnerships-spur-sas-youth-ai-readiness/kYbe97XbjB2qAWpG)** — ITWeb South Africa, 6 November 2026
+
+South Africa 13th of 56, score 56.8, second in Africa after Mauritius; DHET-Google 10,000 scholarships.
+
+</div>
+
+</div>
+
 ### ICT Industry
 
 <div class="monthly-story" markdown="1">
@@ -1471,6 +1499,20 @@ Summarised under [AI](#ai).
 **[Digify Africa brings digital training to unemployed youth via WhatsApp](https://www.itweb.co.za/article/digify-africa-brings-digital-training-to-unemployed-youth-via-whatsapp/RgeVDvPR3x3MKJN3)** — ITWeb South Africa, 5 November 2026
 
 Digify Africa launched the Didi Mobile Academy, a WhatsApp digital-skills course for South Africans aged 18 to 35. The Trevor Noah Foundation's R50 million Kulaninati Innovation Fund pays for it. The first course has five modules of about 15 minutes each.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Higher education department and Google scholarships for professional qualifications</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Training partnerships spur SA’s youth AI readiness](https://www.itweb.co.za/article/training-partnerships-spur-sas-youth-ai-readiness/kYbe97XbjB2qAWpG)** — ITWeb South Africa, 6 November 2026
+
+Summarised under [AI](#ai).
 
 </div>
 
