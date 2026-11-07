@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: MOZ
-ledger_rows: 28
+ledger_rows: 29
 not_held: 18
-record: 9d2810310747
+record: 8e53547a7ae7
 ---
 
 # News, Oct – Nov 2026
@@ -291,6 +291,8 @@ Mozambique's criminal investigation service detained five mobile operator staff 
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
@@ -371,6 +373,22 @@ The Bank of Mozambique licensed payments aggregator PawaPay as a payment service
 **[Governor Felisberto Navalha delivers opening address at 51st Banco de Moçambique Advisory Board Meeting in Tete](https://www.bancomoc.mz/en/media/highlights/governor-felisberto-navalha-delivers-opening-address-at-51st-banco-de-mocambique-advisory-board-meeting-in-tete/)** — Banco de Moçambique, 28 October 2026
 
 The governor of Banco de Moçambique said on 28 October 2026 that the METIX instant payment system handles about 12,000 transactions a day. It handled about 3,000 a day at its launch in March 2026. He also said a central foreign-exchange platform will operate by December 2026, alongside a digital transformation strategy and an internal AI policy.
+
+</div>
+
+</div>
+
+### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Advanced Data Analytics Platform (PAAD) for immunisation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[How AI is helping Mozambique to boost vaccine decision-making](https://www.gavi.org/vaccineswork/how-ai-helping-mozambique-boost-vaccine-decision-making)** — Gavi VaccinesWork, 4 November 2026
+
+PAAD to reach 80+ districts in six provinces (Sept 2026); 12+ health systems joined; Zenysis and MISAU, Gavi-backed.
 
 </div>
 
