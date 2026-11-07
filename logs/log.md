@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-07 03:38 · **BUILD** · 2h06m · catalogue 38,134; 491 sources, 59 units, 30 moved, 212 minted, 128 status; data centres 3; maturity 2,350 read, 18 moved, 30 left open past wave; 5 FY2027 budgets published; bulletin 55; register 9; prose gate 0 - ok
 2026-11-07 02:27 · **BUDGET-EXTRACT** · unclocked · MLI FY2027: 21 lines (13 BSI projects, 8 bodies) from the PLF 2027, proposed stage; DPPD-PAP 2027 not held
 2026-11-07 02:22 · **BUDGET-EXTRACT** · unclocked · COG FY2027: 4 lines (programme 052 partial, three special accounts whole) from the PLF 2027 scan, proposed stage
 2026-11-07 02:17 · **BUDGET-EXTRACT** · unclocked · AGO FY2027: 54 lines (31 whole, 22 partial, 1 unclear) from the OGE 2027 proposal's allocation-by-organ volume, proposed stage; 69 organs read
