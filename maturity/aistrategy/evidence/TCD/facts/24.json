@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-05-tcd-la-strategie-nationale-de-transformation-digitale-en-gestation-le-tcha",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The document says Chad's AI strategy has been pre-validated, with the ministry of telecommunications and digital economy leading.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "National AI Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

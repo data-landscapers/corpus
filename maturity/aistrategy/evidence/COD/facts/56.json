@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-25-cod-le-comite-professionnel-du-numerique-de-la-fec-renforce-son-engagement",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Federation of Enterprises of Congo says it took part on 23-24 July 2026 in the technical validation workshop of the national AI strategy (SNIA-RDC) and its roadmap to 2030, organised by the Ministry of Digital Economy with World Bank support.",
+   "as_of": "2026-07-24",
+   "date_precision": "day",
+   "system": "SNIA-RDC",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SNIA-RDC (Stratégie Nationale de l'Intelligence Artificielle)",
+   "country_label": "RDC",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministère de l'Économie Numérique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

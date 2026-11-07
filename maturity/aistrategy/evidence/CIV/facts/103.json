@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-08-civ-la-cote-d-ivoire-harmonise-les-strategies-nationales-dans-le-secteur-d",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The digital minister's seminar of 7-10 April 2026 lists a National Artificial Intelligence Strategy among strategies already drawn up to be aligned into a three-year roadmap; adoption is not stated.",
+   "as_of": "2026-04-07",
+   "date_precision": "day",
+   "system": "Stratégie Nationale de l'Intelligence Artificielle",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

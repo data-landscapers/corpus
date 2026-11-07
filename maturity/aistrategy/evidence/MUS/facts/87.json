@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-01-mus-ministere-des-technologies-de-l-information-et-de-la-communication-une",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The ministry's review says the National AI Strategy and the FAIR Guidelines were adopted in February 2026, nearly two months before their public launch.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "National AI Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": "A National AI Unit was created in December 2025 but the document does not tie it to the strategy."
+}
