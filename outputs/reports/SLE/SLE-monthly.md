@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: SLE
-ledger_rows: 20
+ledger_rows: 21
 not_held: 4
-record: 47705fd7d997
+record: a5ba9e30a2c5
 ---
 
 # News, Oct – Nov 2026
@@ -33,8 +33,26 @@ record: 47705fd7d997
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
 </nav>
+
+### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Records and Archives Bill 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Information Minister Tables Two Major Bills in Parliament](https://sierraloaded.sl/news/information-tables-data-protection-bills/)** — SierraLoaded, 6 November 2026
+
+Data protection and access-to-information bill plus records and archives bill pass first reading.
+
+</div>
+
+</div>
 
 ### Data protection
 
@@ -47,6 +65,14 @@ record: 47705fd7d997
 **[Sierra Leone's Data Protection Bill Reaches Parliament After CHRDI-Led Advocacy Efforts](https://sierraloaded.sl/local/data-protection-bill-parliament-chrdi-advocacy/)** — SierraLoaded, 4 November 2026
 
 Sierra Leone's Data Protection and Right of Access to Information Bill, 2026 was due before Parliament on 5 November 2026. The rights group CHRDI, which sits on the bill's steering committee, gave the date.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Information Minister Tables Two Major Bills in Parliament](https://sierraloaded.sl/news/information-tables-data-protection-bills/)** — SierraLoaded, 6 November 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
@@ -235,6 +261,14 @@ Sierra Leone's National Communications Authority stepped up a nationwide campaig
 **[Sengeh highlights Bio’s business transformation](https://ayvnews.com/sengeh-highlights-bios-business-transformation/)** — AYV News, 7 October 2026
 
 Sierra Leone's National Investment Board says its online one-stop business platform is nearly finished and should be working by November 2026, cutting company registration from about a day to minutes. The board brings together the corporate registry, the PPP unit, the investment promotion agency and the business-registration office.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Communication Minister Explores NIB’s New Online Business Registration System](https://sierraloaded.sl/news/salima-nib-online-business-registration/)** — SierraLoaded, 6 November 2026
+
+OBRS demo: online name search, ID upload, printable certificates; NIN integration with NCRA under way.
 
 </div>
 
