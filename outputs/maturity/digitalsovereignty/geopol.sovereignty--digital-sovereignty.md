@@ -120,6 +120,7 @@ Cameroon hosts government data at Camtel's Zamengoe data centre; no rule in forc
 
 Keeping state data under national control was a stated goal in 2026; a rule in force is not on record.
 
+- The document says the validated data governance strategy sets rules for local hosting and classification of sensitive state data ([source, 2026-11-05](https://camerpressagency.com/la-strategie-nationale-de-transformation-digitale-en-gestation-le-tchad-amorce-son-grand-virage-numerique-avec-lappui-du-pnud/)).
 - ADETIC says the national data centre is to be security-audited and certified by TECHSO-GROUP before official operation, as the secure host for public data and the state's digital services ([source, 2026-02-10](https://adetic.td/audit-et-certification-du-data-center-national-ladetic-lansice-et-techso-group-en-mission-conjointe/)).
 - Ecofin reports Chadian authorities say the PMICE forms part of a broader digital sovereignty strategy, with state control over fibre-optic networks and data storage capacity as a key lever, and that Phase I, including a National Data Center, was provisionally accepted on 2025-12-20 ([source, 2025-12-20](https://www.ecofinagency.com/news-digital/2212-51602-chad-completes-first-phase-of-205mln-digital-connectivity-project)).
 

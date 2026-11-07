@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-23-eth-ethiopia-plans-local-laptop-tablet-assembly-in-digital-sovereignty-pus",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The government is developing a centralised national data cloud at the Ethiopian Artificial Intelligence Institute, which Prime Minister Abiy Ahmed said will exceed the combined capacity of data centres now run by public institutions.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "centralised national data cloud",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -9,10 +9,10 @@
       "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TCD-002;TCD-003",
-      "gaps": "No source found since October 2023 says: is a rule on state data in force.",
-      "note": "The national data centre was provisionally accepted in December 2025 and awaits certification before it operates (TCD-003, TCD-002), so stage 2. No rule in force is on file, so not 3.",
-      "as_at": "2026-10-31"
+      "stage_sources": "TCD-005;TCD-002;TCD-003",
+      "gaps": "No source found since October 2023 says a rule on state data is in force: the data governance strategy, with its rules on local hosting and classification, was reported validated in November 2026, not adopted.",
+      "note": "The data governance strategy setting rules on local hosting and classification of state data was validated by November 2026 (TCD-005), and the national data centre awaits certification (TCD-002), so stage 2. A validated strategy is not a policy in force, so not 3.",
+      "as_at": "2026-11-07"
     }
   ]
 }

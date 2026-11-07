@@ -1,5 +1,6 @@
 iso3,source_slug,read,merged_on
 AGO,2020-10-21-angola-decreto-presidencial-275-20-regulamento-centrais-privadas-informacao-credito,,2026-10-19
+AGO,2024-06-30-iati-44000-p502532-inclusive-digitalization-in-eastern-and-southern-africa-idea,,2026-11-07
 AGO,2024-12-17-ago-menosfios-dois-centros-de-dados-camama-rangel,,2026-10-19
 AGO,2025-04-15-ago-sessao-tematica-aborda-programa-de-desenvolvimento-e-expansao-das-tele,,2026-10-24
 AGO,2025-08-01-ago-trafego-de-internet-em-angola-atinge-maximos-historicos,,2026-11-05
@@ -31,6 +32,7 @@ BEN,2026-10-26-ben-a-abou-dhabi-romuald-wadagni-engage-le-benin-dans-une-nouvell
 BEN,2026-10-27-ben-apdp-cooperation-cybersecurity-digital-sovereignty,,2026-10-28
 BEN,2026-10-30-ben-e-gouvernance-le-benin-et-la-mauritanie-a-l-ecole-estonienne-et-vice-v,,2026-11-01
 BEN,2026-11-03-ben-internet-au-b-nin-des-acteurs-du-num-rique-changent-autour-de-l-interc,,2026-11-05
+BFA,2024-01-01-crs-3-2014001355-2024-dsif-burkina-faso-national-cloud-and-fibre-optic-c,,2026-11-07
 BFA,2025-03-12-bfa-burkina-faso-outlines-ai-progress-unveils-plan-to-become-west-africa-s,,2026-10-21
 BFA,2025-11-17-bfa-contribution-by-burkina-faso-to-the-cstd-2025-2026-priority-theme-on-s,,2026-10-22
 BFA,2026-01-23-primature-burkina-inauguration-deux-datacenters-cloud-gouvernemental,,2026-10-19
@@ -46,6 +48,7 @@ BFA,2026-08-03-souverainete-numerique-domestication-des-noms-de-domaine-wilfried
 BFA,2026-08-05-burkina-faso-izai-toe-double-anchoring-of-national-data,,2026-10-19
 BFA,2026-08-05-burkina-g-cloud-portal,,2026-10-19
 BFA,2026-08-10-burkina-izai-toe-souverainete-numerique,,2026-10-19
+BFA,2026-08-17-bfa-transformation-digitale-au-burkina-faso-le-secteur-injecte-142-milliar,,2026-11-07
 BFA,2026-09-15-bfa-burkina-faso-modernisation-de-l-administration-publique-le-premier-min,,2026-10-23
 BFA,2026-09-29-bfa-la-souverainete-numerique-lautre-front-de-la-revolution,,2026-10-19
 BFA,2026-10-18-bfa-digitalmagazine-faso-digital-2026-ouverture-201-solutions,,2026-10-21
@@ -54,6 +57,8 @@ BFA,2026-10-24-bfa-le-faso-digital-2026-faso-ia-souveraine,,2026-10-26
 BFA,2026-10-25-bfa-burkina-intelligence-artificielle-une-feuille-de-route-de-30-milliards,,2026-10-28
 BFA,2026-10-28-bfa-digitalmagazine-cadre-concertation-dsi-2026-ia-dematerialisation,,2026-10-30
 BFA,2026-10-30-bfa-burkina-cybercriminalite-des-acteurs-preconisent-linstauration-dune-ma,,2026-11-01
+BFA,2026-11-05-ner-numerique-dans-lespace-aes-la-feuille-de-route-de-lan-ii-adoptee,,2026-11-07
+BFA,2026-11-06-bfa-sahal-tech-old-rock-group-african-language-ai,,2026-11-07
 BWA,2024-03-14-bwa-more-funds-for-ict-infrastructure-segokgo,,2026-11-01
 BWA,2025-11-25-govt-moves-to-in-house-local-data,,2026-10-19
 BWA,2026-03-19-data-protection-africas-default-ai-policy-tool,,2026-10-19
@@ -99,6 +104,7 @@ CIV,2026-09-25-civ-ivoirematin-frc-radiocommunications-spatial,,2026-10-19
 CIV,2026-10-13-xaf-transform-health-continental-health-data-governance-framework-consultation,,2026-10-19
 CIV,2026-10-16-civ-afrimag-ouattara-administration-numerique-2029,,2026-10-21
 CIV,2026-10-29-acet-unlocking-africas-digital-potential,,2026-11-01
+CIV,2026-11-05-civ-cote-divoire-aip-le-ministre-djibril-ouattara-annonce-24-mois-daccompa,,2026-11-07
 CMR,2024-09-24-cmr-dgb-cenadi-protection-donnees,,2026-10-19
 CMR,2025-05-17-cmr-charting-cameroon-s-ai-future-d-moukouri-partners-selected-to-draft-na,,2026-10-22
 CMR,2025-05-26-cenadi-data-center-ecosystem-study-sovereignty-techafricanews,,2026-10-19
@@ -125,6 +131,7 @@ CMR,2026-10-26-cmr-leadership-numerique-le-cameroun-choisi-pour-abriter-le-siege
 CMR,2026-10-27-cameroon-to-host-artac-headquarters-as-central-african-regulators-deep,,2026-10-28
 CMR,2026-10-30-paradigm-initiative-partners-afigf-judicial-parliamentary-tracks-2026,,2026-11-04
 CMR,2026-11-03-africas-ai-ambitions-depend-on-stronger-digital-public-infrastructure,,2026-11-04
+COD,2024-06-30-iati-44000-p502532-inclusive-digitalization-in-eastern-and-southern-africa-idea,,2026-11-07
 COD,2024-07-27-cod-reporter-cresh-numerique-developpement,,2026-10-19
 COD,2025-03-13-cod-allocution-du-president-du-college-de-l-arptc-a-l-occasion-de-la-confe,,2026-11-01
 COD,2025-07-24-sgptntic-visite-data-center-gouvernement,,2026-10-19
@@ -241,11 +248,13 @@ ETH,2025-12-29-eth-ethiopia-anchors-digital-sovereignty-in-new-digital-ethiopia-
 ETH,2026-03-31-eth-ethio-telecom-launches-telesign-to-transform-document-authentication,,2026-10-21
 ETH,2026-04-24-eth-insa-cybersecurity-standards-approved,,2026-10-19
 ETH,2026-05-01-eth-insa-hosts-discussion-forum-on-the-national-cloud-security-governance,,2026-10-26
+ETH,2026-06-23-eth-ethiopia-plans-local-laptop-tablet-assembly-in-digital-sovereignty-pus,,2026-11-07
 ETH,2026-10-19-xaf-au-innofest-26-youth-hacklab-digital-abuse,,2026-10-21
 ETH,2026-10-21-encryption-as-a-digital-rights-safeguard,,2026-10-23
 ETH,2026-10-22-xaf-au-member-states-validate-african-continental-health-data-governance-fr,,2026-10-23
 ETH,2026-10-29-acet-unlocking-africas-digital-potential,,2026-11-01
 ETH,2026-10-29-ethiopia-announces-ai-university-initiative-at-russia-africa-summit,,2026-11-01
+ETH,2026-11-06-eth-insa-national-cyber-drill-competition,,2026-11-07
 GAB,2023-07-11-jo-ga-loi-027-2023-cybersecurite-cybercriminalite,,2026-10-19
 GAB,2024-12-13-gab-gabon-lancement-de-l-etablissement-des-cartes-nationales-d-identite-el,,2026-10-23
 GAB,2025-10-07-gabon-egov-legal-framework,,2026-10-19
@@ -289,6 +298,7 @@ GHA,2026-10-29-acet-unlocking-africas-digital-potential,,2026-11-01
 GHA,2026-10-30-paradigm-initiative-partners-afigf-judicial-parliamentary-tracks-2026,,2026-11-04
 GHA,2026-11-02-gha-sensitive-data-must-be-hosted-on-secure-infrastructure-sam-george,,2026-11-03
 GHA,2026-11-05-gha-ghana-must-protect-its-data-sovereignty-commission,,2026-11-06
+GHA,2026-11-06-african-judiciary-pushes-for-data-sovereignty,,2026-11-07
 GIN,2025-05-01-gin-lelynx-dounia-supercalculateur-ia,,2026-10-19
 GIN,2025-06-03-gin-digitalbusiness-telemo-consultation-appels-offres,,2026-10-24
 GIN,2025-08-11-tgo-csquared-west-africa-cross-border-backbone,,2026-10-19
@@ -314,6 +324,7 @@ GMB,2026-02-16-expert-data-sovereignty-conditions-starlink-standard,,2026-10-19
 GMB,2026-05-24-gmb-lingoai-jokkolabs-local-language-datasets,,2026-10-19
 GNB,2026-03-14-gnb-pnud-inicia-construcao-do-centro-nacional-de-dados-da-guine-bissau,,2026-11-01
 GNQ,2026-10-20-xca-eccas-validates-regional-data-governance-framework-to-advance-digital,,2026-10-22
+KEN,2023-11-29-crs-1601-2023010789-01-2023-data-hosting-governance-synthetic-global-health-da,,2026-11-07
 KEN,2025-07-24-huawei-cloud-konza-cloud-stack-case,,2026-10-19
 KEN,2025-09-10-ken-kenya-s-efforts-in-ai-and-implementation-plan-of-the-kenyan-national-a,,2026-10-22
 KEN,2025-09-12-ken-cs-kabogo-outlines-plans-to-accelerate-digital-transformation-and-cons,,2026-11-01
@@ -330,6 +341,7 @@ KEN,2026-10-23-ken-konza-data-centre-set-for-expansion-through-public-private-pa
 KEN,2026-10-24-ken-ppp-directorate-signs-funding-agreement-for-konza-national-data-centre,,2026-10-26
 KEN,2026-10-29-acet-unlocking-africas-digital-potential,,2026-11-01
 KEN,2026-10-30-paradigm-initiative-partners-afigf-judicial-parliamentary-tracks-2026,,2026-11-04
+KEN,2026-11-05-ken-kenya-seeks-chinese-support-for-digital-economy-and-ai-development,,2026-11-07
 LBR,2025-08-11-tgo-csquared-west-africa-cross-border-backbone,,2026-10-19
 LBR,2026-03-30 Focus on Sahel digital sovereignty gets clearer with Niger's new biometric ID card,,2026-10-19
 LBR,2026-05-15-editorial-digital-sovereignty-outsourcing-spine-observer,,2026-10-19
@@ -349,6 +361,7 @@ LBY,2026-07-15-lby-cabinet-decision-358-2026-cybersecurity-digital-sovereignty-a
 LBY,2026-07-16-lby-lana-ar-hor-committee-national-security-council-cybersecurity-law,,2026-10-28
 LBY,2026-07-16-parliament-national-security-cybersecurity-law-alwasat,,2026-10-19
 LBY,2026-07-22-lby-smex-libya-ai-strategy-built-without-participation,,2026-10-19
+LBY,2026-11-05-lby-house-committee-telecom-and-digital-space-legislation,,2026-11-07
 LSO,2026-03-01-lso-rfc-2350-interim-national-csirt-of-lesotho,,2026-10-28
 LSO,2026-05-19-le360-starlink-operationnel-dans-un-pays-africain-sur-deux,,2026-10-19
 MAR,2020-08-06-morocco-loi-05-20-cybersecurite,,2026-10-19
@@ -409,6 +422,7 @@ MLI,2026-09-15-horonyafinance-uemoa-strategie-regionale-ia,,2026-10-19
 MLI,2026-09-28-mli-ai-robotics-centre-sovereignty-diallo,,2026-10-19
 MLI,2026-10-23-mli-intelligence-artificielle-et-souverainete-numerique-le-mali-face-aux-d,,2026-10-24
 MLI,2026-10-29-mli-mali-l-intelligence-artificielle-nouveau-rempart-contre-les-cybermenac,,2026-10-30
+MLI,2026-11-05-ner-numerique-dans-lespace-aes-la-feuille-de-route-de-lan-ii-adoptee,,2026-11-07
 MOZ,2025-02-24-intic-proposta-regulamento-computacao-em-nuvem-consulta-publica,,2026-10-19
 MOZ,2025-06-19-uneca-intic-mozambique-data-governance-project-inception-report,,2026-10-19
 MOZ,2025-07-04-moz-comite-gestor-do-sistema-de-certificacao-digital-de-mocambique-aprova,,2026-10-23
@@ -421,6 +435,7 @@ MRT,2024-11-11-mrt-vers-une-connectivite-universelle-et-significative-pour-la-ma
 MRT,2025-05-08-mrt-the-president-of-the-republic-supervises-the-inauguration-of-the-nouak,,2026-10-26
 MRT,2025-08-05-mrt-de-grands-projets-porteurs-de-modernisation-de-l-administration,,2026-10-26
 MRT,2025-10-15-mrt-cybersecurite-en-mauritanie-entre-strategies-sur-papier-et-urgences-op,,2026-10-28
+MRT,2025-12-03-mrt-mauritanie-24-2-millions-pour-poursuivre-la-transformation-numerique-e,,2026-11-07
 MRT,2025-12-15-mrt-ami-cybersecurity-ai-training-300-civil-servants,,2026-10-26
 MRT,2026-05-04-mrt-ellalink-press-release-branch-lands-nouadhibou,,2026-10-19
 MRT,2026-06-10-mrt-apd-aned-data-localisation-nouakchott-data-centre,,2026-10-30
@@ -436,17 +451,21 @@ MRT,2026-10-30-ben-e-gouvernance-le-benin-et-la-mauritanie-a-l-ecole-estonienne-
 MUS,2025-08-21-mus-mitci-ramtohul-new-digital-regulations-ict-blueprint,,2026-10-29
 MUS,2025-09-01-mus-mitci-rfi-01-2025-26-sovereign-cloud,,2026-10-26
 MUS,2025-09-05-mus-request-for-information-rfi-from-qualified-suppliers-for-the-implement,,2026-10-26
+MUS,2025-10-06-scale-out-storage-solution-goc-tender,,2026-11-07
 MUS,2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress,,2026-10-19
 MUS,2026-03-19-data-protection-africas-default-ai-policy-tool,,2026-10-19
 MUS,2026-04-03-tech-trends-data-sovereignty-lexpress,,2026-10-19
 MUS,2026-04-26-mus-maurice-veut-lancer-un-national-sovereign-cloud-pour-proteger-ses-donn,,2026-10-26
+MUS,2026-06-01-mus-ministere-des-technologies-de-l-information-et-de-la-communication-une,,2026-11-07
 MUS,2026-06-16 The digital sovereignty dividing line,,2026-10-19
 MUS,2026-11-01-mus-essaimer-plutot-que-centraliser,,2026-11-02
 MWI,2022-01-01-mwi-uneca-dtri-country-profile,,2026-10-19
 MWI,2024-02-10-data-centre-gets-overwhelming-response-from-mdas-private-sector,,2026-10-19
+MWI,2024-06-30-iati-44000-p502532-inclusive-digitalization-in-eastern-and-southern-africa-idea,,2026-11-07
 MWI,2024-10-31-digmap-government-data-centre-lilongwe-77pc-complete,,2026-10-19
 MWI,2026-01-22-mwi-introducing-the-malawi-voice-data-commons,,2026-10-23
 MWI,2026-02-18-mwi-malawi-plans-to-launch-micro-data-centre,,2026-10-23
+MWI,2026-06-08-mwi-malawi-digital-economy,,2026-11-07
 MWI,2026-06-11-pppc-expansion-of-national-data-centre-rfb,,2026-10-19
 MWI,2026-06-30-mwi-tnm-ocl-data-centre-related-party-transaction,,2026-10-29
 MWI,2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026,,2026-10-19
@@ -466,6 +485,7 @@ NER,2026-08-31-anp-escep-niger-remise-diplomes,,2026-10-19
 NER,2026-09-14-ner-mcnti-palmares-escep-souverainete-numerique,,2026-10-19
 NER,2026-09-15-horonyafinance-uemoa-strategie-regionale-ia,,2026-10-19
 NER,2026-10-29-ner-visite-technique-du-chantier-du-datacenter-national,,2026-11-01
+NER,2026-11-05-ner-numerique-dans-lespace-aes-la-feuille-de-route-de-lan-ii-adoptee,,2026-11-07
 NGA,2022-12-27-thecable-nssc-galaxy-backbone-abuja-commissioning,,2026-10-19
 NGA,2024-06-28-nga-itpulse-galaxy-backbone-kano-tier-iv,,2026-10-19
 NGA,2024-10-02-nga-nigerian-government-ensures-data-sovereignty-with-local-cloud-hosting,,2026-11-01
@@ -522,6 +542,7 @@ NGA,2026-10-30-paradigm-initiative-partners-afigf-judicial-parliamentary-tracks-
 NGA,2026-11-02-nga-3-84-trillion-in-government-it-projects-yet-62-missed-expectations-what-is-going,,2026-11-05
 NGA,2026-11-02-nga-banks-fintechs-face-n1bn-fine-for-exporting-payment-data-under-new-bill,,2026-11-05
 NGA,2026-11-04-nga-nigeria-targets-90-local-internet-traffic-regional-hub-power,,2026-11-05
+NGA,2026-11-04-nga-oyedele-calls-for-stronger-digital-sovereignty-and-local-inn,,2026-11-07
 RWA,2024-02-01-rwa-fosdem-typo3-collaborative-gov-websites,,2026-10-19
 RWA,2024-12-24-ssd-tanzaniatimes-no-data-protection-law,,2026-10-19
 RWA,2025-03-12-rwa-dpa-digital-digest-rwanda-2025-edition,,2026-10-21
@@ -566,6 +587,9 @@ SEN,2026-10-21-sen-donnees-publiques-jusqu-a-20-des-donnees-senegalaises-encore-
 SEN,2026-10-29-acet-unlocking-africas-digital-potential,,2026-11-01
 SEN,2026-10-30-paradigm-initiative-partners-afigf-judicial-parliamentary-tracks-2026,,2026-11-04
 SEN,2026-11-02-alibaba-cloud-ai-dakar-youth-olympic-games,,2026-11-04
+SEN,2026-11-05-sen-ibrahima-nour-eddine-diagne-un-pionnier-la-t-te-de-la-gouver,,2026-11-07
+SEN,2026-11-05-sen-protection-des-donn-es-personnelles-vers-la-cr-ation-d-une-s,,2026-11-07
+SEN,2026-11-06-sen-cloud-le-s-n-gal-envisage-une-coop-ration-renforc-e-avec-ali,,2026-11-07
 SLE,2025-08-11-tgo-csquared-west-africa-cross-border-backbone,,2026-10-19
 SLE,2025-08-13-sle-sierra-leone-leads-bringing-the-au-data-policy-framework-to-life,,2026-10-29
 SLE,2026-05-19-le360-starlink-operationnel-dans-un-pays-africain-sur-deux,,2026-10-19
@@ -612,6 +636,7 @@ TCD,2026-10-15-fgi-ac-2026-ndjamena-engagements-espace-numerique-souverain,,2026
 TCD,2026-10-15-hamama-fgi-afrique-centrale-souverainete-numerique,,2026-10-19
 TCD,2026-10-15-tcd-aspa-internet-cher-fracture-numerique,,2026-10-19
 TCD,2026-10-27-cameroon-to-host-artac-headquarters-as-central-african-regulators-deep,,2026-10-28
+TCD,2026-11-05-tcd-la-strategie-nationale-de-transformation-digitale-en-gestation-le-tcha,,2026-11-07
 TGO,2025-08-11-tgo-csquared-west-africa-cross-border-backbone,,2026-10-19
 TGO,2025-11-20-tgo-ecofin-togo-ai-agents-schools-government,,2026-10-19
 TGO,2026-06-05-forum-gouvernance-internet-togo-igf,,2026-10-19

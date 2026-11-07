@@ -2,7 +2,7 @@
 
 ## Control of state data
 
-**Rule on state data.** In September 2025 the ICT ministry [issued a request for information for a sovereign cloud for the government](<https://mitci.govmu.org/mitci/wp-content/uploads/2025/09/Bidding-Document-RFI-for-Sovereign-Cloud-for-the-Government-of-Mauritius.docx>). The cloud is to be governed by Mauritian law, under the government's full control, in a local data centre. In April 2026 the [Cabinet discussed a National Sovereign Cloud](<https://ionnews.mu/maurice-veut-lancer-un-national-sovereign-cloud-pour-proteger-ses-donnees/>) under the Digital Transformation Blueprint 2025-2029. Its aim is data sovereignty and jurisdictional control.
+**Rule on state data.** In September 2025 the ICT ministry [issued a request for information for a sovereign cloud for the government](<https://mitci.govmu.org/mitci/wp-content/uploads/2025/09/Bidding-Document-RFI-for-Sovereign-Cloud-for-the-Government-of-Mauritius.docx>). The cloud is to be governed by Mauritian law, under the government's full control, in a local data centre. In April 2026 the [Cabinet discussed a National Sovereign Cloud](<https://ionnews.mu/maurice-veut-lancer-un-national-sovereign-cloud-pour-proteger-ses-donnees/>) under the Digital Transformation Blueprint 2025-2029. That month the ministry [opened talks with Broadcom on the sovereign cloud](<https://lexpress.mu/s/une-feuille-de-route-respectee-des-resultats-dans-les-delais-558658>).
 
 **Hosted nationally.** [L'Express reports](<https://lexpress.mu/node/552966>) that Mauritius Telecom's Rose-Belle data centre hosts government projects. They include e-Health, Mobile ID and the government portal, as seen on a minister's visit on 29 December 2025.
 

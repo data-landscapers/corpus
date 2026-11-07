@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-17-bfa-transformation-digitale-au-burkina-faso-le-secteur-injecte-142-milliar",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The Digital Transition ministry's statistics director says over 120 government platforms are hosted abroad and a repatriation process has begun so all sensitive data is stored nationally by 2030.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "repatriation of sensitive data",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

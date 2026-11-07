@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-01-mus-ministere-des-technologies-de-l-information-et-de-la-communication-une",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The ministry's review says discussions opened with Broadcom in April 2026 on a National Sovereign Cloud.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "National Sovereign Cloud",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
