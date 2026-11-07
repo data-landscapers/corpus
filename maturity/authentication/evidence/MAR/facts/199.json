@@ -1,0 +1,36 @@
+{
+ "slug": "2025-02-02-mar-dgsn-national-trust-platform-32-million-ecnie",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Morocco's national police directorate (DGSN) launched the National Trust Platform in April 2022, which provides electronic identification and proof of identity through the national ID card.",
+   "as_of": "2022-04",
+   "date_precision": "month",
+   "system": "National Trust Platform (Plateforme Nationale de Confiance)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The DGSN says the platform links citizens to government, administrative, health and tax e-services and to private bodies such as banks, insurers and e-commerce firms, which need DGSN authorisation to use it.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "National Trust Platform (Plateforme Nationale de Confiance)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Trust Platform",
+   "country_label": "Morocco",
+   "class": "authentication",
+   "platform": "",
+   "owner": "DGSN",
+   "tiers": "offline and online modes"
+  }
+ ],
+ "note": ""
+}

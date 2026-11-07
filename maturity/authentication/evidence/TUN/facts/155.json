@@ -1,0 +1,54 @@
+{
+ "slug": "2026-11-06-tun-passeport-carte-didentite-permis-les-demarches-a-distance-promises-ava",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Minister Sofiene Hemissi says the Khadamet mobile app, launched end August 2026, gives access to more than forty administrative services through digital identity.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Khadamet",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "Digital identity is used across more than forty services in Khadamet, and MobileID also gives access to the Portail du citoyen for birth-extract translation requests (Interior Ministry, 31 August 2026).",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "MobileID",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "The Interior Ministry presented a remote service on the Portail du citoyen reached through the MobileID digital identity on 31 August 2026.",
+   "as_of": "2026-08-31",
+   "date_precision": "day",
+   "system": "MobileID",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Khadamet",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "mobile app",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  },
+  {
+   "system": "MobileID",
+   "country_label": "Tunisia",
+   "class": "authentication",
+   "platform": "digital identity",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

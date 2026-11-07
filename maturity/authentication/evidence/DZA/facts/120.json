@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-20-dza-l-algerie-fixe-la-date-de-la-generalisation-du-dossier-medical-numeriq",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Medica Magazine reports the Algerian hospital system is now interconnected with the Interior Ministry's civil-status database, allowing instant identification of a patient by biometric card.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Hospital link to civil-status database",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Hospital link to Interior Ministry civil-status database",
+   "country_label": "Algeria",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

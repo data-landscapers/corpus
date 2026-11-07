@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-08-mwi-malawi-digital-economy",
+ "facts": [],
+ "systems": [
+  {
+   "system": "digital signatures",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Guide says digital signatures are used at very low scale and a central certificate system is needed; no state-accepted service stated."
+}

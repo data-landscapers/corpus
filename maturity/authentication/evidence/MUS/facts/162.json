@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-01-mus-ministere-des-technologies-de-l-information-et-de-la-communication-une",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The ministry's review says KOREK!, the rebranded Mobile ID, was launched at the end of January 2026 with a penalty points system.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "KOREK! (Mobile ID)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KOREK! (Mobile ID)",
+   "country_label": "Mauritius",
+   "class": "authentication",
+   "platform": "mobile app",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

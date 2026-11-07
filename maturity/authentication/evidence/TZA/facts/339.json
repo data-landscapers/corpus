@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-01-tza-andiko-la-septemba-ya-utambulisho-2026-kuijenga-agenda-ya-utambulisho",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NIDA says 157 institutions are connected to its registration and identification system, which lets them verify people's personal data for identity authentication and verification when serving them.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "NIDA registration and identification system",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "NIDA says 157 institutions, 72 government and 85 private, are connected to its identification system for verification.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "NIDA registration and identification system",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIDA registration and identification system",
+   "country_label": "Tanzania",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
