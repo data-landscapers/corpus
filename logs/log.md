@@ -12,6 +12,8 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-07 03:57 · **REVIEW** · 19m · NAM: status 5 sections revised, 29 trimmed, progress 5 cells, finance 0 rows; 1 deal queued, 0 notes for OSINT - ok
+2026-11-07 03:55 · **REVIEW** · 17m · NER: status 11 sections revised, 18 trimmed, progress 0 cells, finance 0 rows; 0 deals queued, 1 note for OSINT - ok
 2026-11-07 03:52 · **REBUILD** · 13m · idfrombirth frombirth: 54 cells reassessed, 5 moved; 54 searched, 76 staged; ~63M tokens (three shared 189M) - ok
 2026-11-07 03:52 · **REBUILD** · 12m · idmaintenance maintenance: 54 cells reassessed, 6 moved; 54 searched, 123 staged; ~63M tokens (three shared 189M) - ok
 2026-11-07 03:52 · **REBUILD** · 12m · idregisters registers: 54 cells reassessed, 0 moved; 54 searched, 108 staged; ~63M tokens (three shared 189M) - ok
