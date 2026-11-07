@@ -106,6 +106,7 @@ NER,PI-SPI,Plateforme interopérable du Système de paiement instantané,other,,
 NER,Airtel Money Niger,Niger,other,,Airtel Money Niger S.A.,,2026-10-20-ner-pi-spi-impact-economique-sur-le-mobile-money-dans-l-aes
 NER,MyNITA,Niger,other,,NITA with 2ISOFT,,2026-10-20-ner-pi-spi-impact-economique-sur-le-mobile-money-dans-l-aes
 NGA,NIBSS Instant Payment,NIBSS Instant Payment,other,,NIBSS,banks,2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline
+NGA,CBN Regulations for the Operations of Non-Security Virtual Assets,Nigeria,other,,Central Bank of Nigeria,"crypto and stablecoin rules, not the payments law",2026-11-06-cbn-sec-divide-crypto-oversight
 RWA,eKash,eKash,other,,RSwitch (operator),banks and electronic money issuers,2026-07-14-migrates-retail-payments-ekash-itweb
 RWA,eKash,"eKash (Rwanda National Digital Payment System, RNDPS)",other,,RSwitch,banks and electronic money issuers,2026-07-14-rwanda-bankers-association-ekash-interoperability
 SDN,USSD mobile financial services,خدمة الرموز التفاعلية USSD,other,,"Central Bank of Sudan (regulator); banks, mobile-payment institutions and e-payment providers operate",,2026-03-31-cbos-ussd-financial-services-regulations
@@ -142,6 +143,7 @@ TGO,PI-SPI,PI-SPI,other,,BCEAO,"banks, microfinance institutions, e-money instit
 TGO,PI-SPI,Plateforme Interoperable du Systeme de Paiement Instantane,other,,BCEAO,"banks, e-money issuers, payment institutions, microfinance institutions",2026-09-29-xwa-iafrikan-bceao-pi-spi-deadline
 TGO,PI-SPI,Plateforme interoperable du Systeme de paiement instantane,other,,BCEAO,"banks, e-money institutions, payment establishments, microfinance institutions",2026-08-18-uemoa-pi-spi-104-etablissements-autorises
 TGO,PI-SPI (Plateforme Interopérable du Système de Paiement Instantané),PI-SPI,other,,BCEAO,"banks, e-money institutions, payment institutions, fintechs; microfinance institutions in time",2026-07-28-uemoa-interoperabilite-paiements-forbesafrique
+TGO,PI-SPI,PI-SPI,other,,BCEAO,,2026-11-05-tgo-togo-instant-payment-platform-processed-nearly-cfaf-15-billion-in-tran
 TUN,TUNPAY,TUNPAY,other,,Banque Centrale de Tunisie (label); Société Monétique Tunisie manages the mobile payment system,"banks, the Post, payment institutions",2026-05-05-bct-note-2026-132-label-national-tunpay
 ZAF,PayInc,PayInc (formerly BankservAfrica),other,,"PayInc, with a SARB shareholding",,2026-09-01-national-payment-system-bill-techcentral
 ZAF,National Payment System Act 78 of 1998,South Africa,law,,SARB,,2025-04-01-lso-south-african-reserve-bank-act-directive-no-1-of-2025-execution-of-low

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-05-tgo-togo-instant-payment-platform-processed-nearly-cfaf-15-billion-in-tran",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "BCEAO rules in force from 2 November 2026 require all interoperable electronic money transfers between individuals within WAEMU to go through PI-SPI, with free domestic transfers up to CFAF 8,000 a day.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "PI-SPI rules",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "connect",
+   "fact": "From 2 November 2026 interoperable e-money transfers between individuals within WAEMU must go through PI-SPI, a rule requiring providers to route through the platform.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "PI-SPI rules",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "PI-SPI",
+   "class": "other",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
