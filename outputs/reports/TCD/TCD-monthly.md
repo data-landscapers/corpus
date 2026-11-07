@@ -1,11 +1,11 @@
 ---
 title: Chad — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: TCD
 ledger_rows: 16
 not_held: 22
-record: 80bface64fa9
+record: 98c8bbaa1645
 ---
 
 # News, Oct – Nov 2026
@@ -325,6 +325,14 @@ Chad pre-validated its draft National Artificial Intelligence Strategy at a work
 **[La souveraineté au bout de l’algorithme et du guichet | CamerPressAgency](https://camerpressagency.com/la-souverainete-au-bout-de-lalgorithme-et-du-guichet/)** — CamerPressAgency, 9 October 2026
 
 An unsigned CamerPressAgency editorial reports that a workshop to pre-validate Chad's National Artificial Intelligence Strategy opened in N'Djamena on 8 October 2026, aiming at what it calls ethical, frugal and sovereign AI. It links this to restructuring of the national postal company STPE under the Tchad Connexion 2030 plan, including a possible postal bank. No budget or timetable is given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[La Stratégie Nationale de Transformation Digitale en gestation : Le Tchad amorce son grand virage numérique avec l'appui du PNUD | CamerPressAgency](https://camerpressagency.com/la-strategie-nationale-de-transformation-digitale-en-gestation-le-tchad-amorce-son-grand-virage-numerique-avec-lappui-du-pnud/)** — CamerPressAgency, 5 November 2026
+
+Framing meeting of 4 Nov 2026 opens drafting; UNDP-funded international firm; third strategy after data and AI.
 
 </div>
 
