@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-nigeria-is-rewriting-its-cyber-laws",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "TechCabal says the Nigeria Data Protection Commission fined MultiChoice Nigeria N766.24 million in 2025 for data protection breaches and unauthorised cross-border transfers of personal data.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Nigeria Data Protection Commission",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-08-mwi-malawi-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The guide says the Data Protection Act restricts transfer of personal data outside Malawi unless the receiving country has adequate data protection laws or mechanisms such as binding corporate rules are in place.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "open",
+   "value": "open",
+   "fact": "The guide says transfers abroad are allowed where the receiving country has adequate protection or binding corporate rules are in place, so some transfers need no case-by-case permission.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

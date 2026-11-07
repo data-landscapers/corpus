@@ -1,3 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MWI,rule,standing,coverage,in-force,2025-10-17,MWI-002;MWI-005,MWI-001=draft;MWI-004=draft,
-MWI,rule,use,coverage,,,,,nothing held
+MWI,rule,standing,coverage,in-force,2026-06-08,MWI-002;MWI-005;MWI-008,MWI-001=draft;MWI-004=draft,
+MWI,rule,open,coverage,open,2026-06-08,MWI-009,MWI-006=localised,
+MWI,rule,route,coverage,,,,,nothing found
+MWI,rule,africa,coverage,none,2026-02-02,MWI-007,,
