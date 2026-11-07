@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-04-lbr-sen-cyrus-demands-cybersecurity-assessment",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "Sen. Cyrus recalled that the Liberia Telecommunications Authority reported on 4 July 2025 that the National Cybersecurity Bill was under Senate committee review, with amendments and a fiscal-impact assessment under consideration; he said its current status is unknown.",
+   "as_of": "2025-07-04",
+   "date_precision": "day",
+   "system": "National Cybersecurity Bill",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

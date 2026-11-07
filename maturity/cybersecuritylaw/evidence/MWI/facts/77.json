@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-08-mwi-malawi-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The guide describes the Electronic Transactions and Cyber Security Act as setting guidelines on electronic transactions, cyber security and data misuse to protect ICT users from cybercrime and digital fraud.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "Electronic Transactions and Cyber Security Act",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

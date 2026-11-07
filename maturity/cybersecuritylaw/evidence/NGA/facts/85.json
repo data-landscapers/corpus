@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-06-nigeria-is-rewriting-its-cyber-laws",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "TechCabal says the Cybercrimes (Prohibition, Prevention, etc.) Act 2015 was amended in February 2024.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "Cybercrimes (Prohibition, Prevention, etc.) Act 2015",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "TechCabal says the government has advanced work on a draft executive bill on cyber threats, and the House ICT and Cybersecurity committee chair expects the cybercrime, cybersecurity and digital economy bills to be enacted between January and June 2027.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "cybercrime and cybersecurity bills",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
