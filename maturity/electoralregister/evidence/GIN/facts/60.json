@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-19-gin-matd-les-statistiques-provisoires-du-registre-national-des-personnes-p",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "MATD reported on 19 July 2025 a permanent biometric voter file of 6,748,923 entries, built concurrently with the national register of persons from the 2025 census.",
+   "as_of": "2025-07-19",
+   "date_precision": "day",
+   "system": "fichier electoral biometrique permanent",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "fichier electoral biometrique permanent",
+   "country_label": "Guinea biometric voter file",
+   "class": "electoral",
+   "platform": "",
+   "owner": "MATD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

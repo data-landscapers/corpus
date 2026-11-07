@@ -1,6 +1,12 @@
 iso3,source_slug,read,merged_on
+AGO,2024-01-01-angola-modernizes-land-administration-gis-cadastre-management,,2026-11-07
+AGO,2025-05-09-inefop-apresenta-nova-plataforma-de-registo-nominal-de-trabalhadores,,2026-11-07
+AGO,2026-04-17-plataforma-digital-legalizacao-de-40-mil-imoveis,,2026-11-07
 AGO,2026-07-01-ago-angop-16-milhoes-base-bilhete-identidade,,2026-10-19
+AGO,2026-07-25-angola-cadastro-social-unico-launch,,2026-11-07
 AGO,2026-08-15-angola-intelwatch-biometric-surveillance-report,,2026-10-19
+AGO,2026-08-25-cadastro-social-unico-inicia-fase-piloto-no-sumbe,,2026-11-07
+AGO,2026-10-17-ago-governo-cria-equipa-para-implementar-central-de-registo-do-beneficiari,,2026-11-07
 BDI,2025-05-16 Burundi - CENI extends voter registration card collection by one day,,2026-10-19
 BDI,2026-03-30-bdi-the-lack-of-digital-id-systems-threatens-the-digital-economy-of-burund,,2026-10-23
 BDI,2026-09-03-bdi-2027-presidential-election-more-than-one-million-new-voters,,2026-10-19
@@ -24,6 +30,7 @@ BEN,2026-05-07-anip-rnpp-nouvelles-precisions,,2026-10-19
 BEN,2026-07-16-adjinacou-maternite-identite-legale,,2026-10-19
 BEN,2026-08-24-ben-decryptage-8400-nouveaux-refugies-6-mois,,2026-10-19
 BEN,2026-10-29-ben-promotion-du-droit-a-lidentite-des-enfants-8-500-actes-de-naissance-de,,2026-11-03
+BEN,2026-11-03-ben-modernisation-des-services-d-identification-au-b-nin-l-anip-acc-l-re-s,,2026-11-07
 BFA,2020-10-21-bfa-au-audit-fichier-electoral-biometrique,,2026-10-19
 BFA,2024-09-23-bfa-assechement-des-sources-de-financement-des-groupes-armes-le-gouverneme,,2026-10-29
 BFA,2024-10-11-bfa-alt-loi-027-2024-identification-unique,,2026-10-19
@@ -67,6 +74,7 @@ CMR,2025-12-23-cmr-yaounde-ii-digitalise-l-etat-civil-un-poste-avance-100-inform
 CMR,2026-06-04-cmr-armp-sif-yaounde-douala-prequalification,,2026-10-23
 CMR,2026-10-29-cameroon-looks-to-cote-divoire-to-advance-digital-civil-registration-biomet,,2026-10-31
 CMR,2026-10-29-etat-civil-le-cameroun-sinspire-de-la-cote-divoire-pour-interconnecter-ses,,2026-10-30
+COD,2023-11-19-cod-evaluation-de-la-bancarisation-de-la-paie-des-agents-publics-les-banqu,,2026-11-07
 COD,2023-12-01-cod-cartographie-des-systemes-et-services-de-paiement-des-prestataires-des,,2026-10-29
 COD,2023-12-02-cod-une-application-mobile-mise-a-jour-pour-consulter-les-electeurs,,2026-11-04
 COD,2024-05-14-cod-bbc-afrique-pas-de-carte-identite-40-ans,,2026-10-19
@@ -139,6 +147,8 @@ GAB,2025-01-31-cameroon-gabon-uganda-biometric-voter-registers-integrity-biometr
 GAB,2025-07-24-gab-revision-de-la-liste-electorale-2025-un-centre-dappel-a-votre-ecoute,,2026-11-04
 GAB,2025-09-01-gabon-interieur-verifiez-inscription-liste-electorale-nip,,2026-10-19
 GAB,2026-08-13-gab-societes-ecrans-comptes-bancaires-les-failles-du-gabon-pointees-par-le,,2026-10-29
+GAB,2026-09-11-gab-lunion-cnamgs-120000-beneficiaires-indument-enregistres,,2026-11-07
+GAB,2026-09-17-gab-gabonclic-cnss-revolution-numerique-service-public,,2026-11-07
 GHA,2024-03-14-gha-bawumia-launches-ghana-card-number-at-birth,,2026-10-23
 GHA,2024-05-13-gha-full-text-deputy-commissioner-of-the-electoral-commission-briefs-journ,,2026-11-04
 GHA,2024-08-20-gha-nationwide-voters-exhibition-starts-today,,2026-11-04
@@ -151,6 +161,7 @@ GIN,2025-04-01-gin-le-premier-ministre-receptionne-les-kits-d-enrolement-biometr
 GIN,2025-04-14-gin-decret-fixant-les-conditions-de-securite-d-integrite-de-securisation-e,,2026-10-30
 GIN,2025-04-14-gin-decret-fixant-les-modalites-d-inscription-et-de-tenue-du-registre-nati,,2026-10-23
 GIN,2025-04-18-gin-mediaguinee-sayon-mara-pn-ravec-biometric-census,,2026-10-23
+GIN,2025-07-19-gin-matd-les-statistiques-provisoires-du-registre-national-des-personnes-p,,2026-11-07
 GIN,2025-08-28-mediaguinee-definitive-biometric-electoral-file,,2026-10-19
 GIN,2025-08-29-gin-referendum-2025-la-dge-presente-le-fichier-electoral-aux-acteurs-polit,,2026-11-04
 GIN,2025-09-12-gin-anomalies-sur-les-cartes-d-electeurs-la-dge-rassure-face-aux-inquietud,,2026-11-04
@@ -189,6 +200,8 @@ KEN,2026-09-20-ken-standard-iebc-voter-register-source-code-access,,2026-10-19
 KEN,2026-10-08-ken-nation-iebc-id-data-voter-targets,,2026-10-19
 KEN,2026-10-15-ken-iebc-election-technology-tender-cleared,,2026-10-23
 KEN,2026-10-27-ken-nation-mps-scrap-iebc-election-servers-ip-provisions,,2026-10-29
+KEN,2026-11-02-ken-birth-registration-e-service-reduces-admin-from-months-to-days,,2026-11-07
+KEN,2026-11-03-ken-caroli-omondi-accuses-uda-odm-of-weakening-election-transparency,,2026-11-07
 LBR,2024-02-05-lbr-newspublictrust-nir-mobile-teams,,2026-10-19
 LBR,2024-11-11-lbr-liberia-eyes-biometrics-for-voter-authentication,,2026-11-04
 LBR,2025-06-01-nir-relevance-national-special-elections,,2026-10-19
@@ -233,6 +246,7 @@ MAR,2026-01-01-mar-ancfcc-chiffres-cles,,2026-10-19
 MAR,2026-01-01-mar-anss-conditions-eligibilite-asd,,2026-10-19
 MAR,2026-01-13-mar-elections-maroc-laftit-16-5-millions-d-inscrits-1-4-million-radies-des,,2026-11-04
 MAR,2026-03-13-mar-adala-arrete-503-26-site-listes-electorales,,2026-10-19
+MAR,2026-06-10-mar-anss-un-an-apres-quel-impact-sur-le-soutien-social,,2026-11-07
 MAR,2026-07-19-mar-lematin-minhaty-bourse-massar-rsu,,2026-10-19
 MAR,2026-09-22-mar-morocco-voters-can-check-polling-stations-by-text-website-or-mobile-ap,,2026-11-04
 MDG,2025-11-17-pmo-pge-r-programme-refondation,,2026-10-19
@@ -264,6 +278,7 @@ MUS,2024-05-21-mus-defimedia-liste-electorale-verifier-inscrire,,2026-10-19
 MUS,2024-08-07-mus-the-anti-money-laundering-and-combatting-the-financing-of-terrorism-an,,2026-10-29
 MWI,2024-07-17-mwi-nation-nrb-under-scrutiny,,2026-10-19
 MWI,2024-07-20-mwi-making-national-id-work-beyond-voter-registration,,2026-10-23
+MWI,2024-08-01-mwi-12-3-million-register-for-id-cards,,2026-11-07
 MWI,2024-08-06-mwi-malawi-insists-id-card-compulsory-for-scheduled-biometric-voter-regist,,2026-11-04
 MWI,2024-11-06-mwi-egpaf-value-of-a-birth-certificate,,2026-10-19
 MWI,2024-11-15-mwi-nrb-deploys-staff-to-some-voter-registration-centres,,2026-11-04
@@ -290,6 +305,7 @@ NER,2026-08-12-niger-tahoua-campagne-identite-legale-rnp,,2026-10-19
 NER,2026-08-20-lesahel-tillaberi-etat-civil-identification,,2026-10-19
 NER,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification,,2026-10-19
 NER,2026-09-03-niger-diffa-tour-etat-civil-anei-rnp,,2026-10-19
+NER,2026-10-07-ner-sensibilisation-en-matiere-de-l-etat-civil-et-d-identification-des-per,,2026-11-07
 NER,2026-10-17-ner-amv-geoportail-adressage-niamey-a-propos,,2026-10-23
 NGA,2025-02-24-nga-nigeria-moves-closer-to-fresh-census-president-tinubu-to-set-up-commit,,2026-10-29
 NGA,2026-07-17-nga-six-months-to-presidential-poll-inec-raises-preparation-tempo,,2026-11-04
@@ -302,6 +318,7 @@ NGA,2026-10-30-vanguardngr-inec-blames-registration-officers-for-ai-generated-ph
 NGA,2026-10-31-nga-inec-receives-5-400-claims-objections-to-voter-register-targets-decemb,,2026-11-04
 NGA,2026-11-01-serap-inec-voter-register-ai-photos-ndpc,,2026-11-04
 NGA,2026-11-02-inecs-ai-photo-problem-runs-deeper,,2026-11-03
+NGA,2026-11-06-nigeria-is-rewriting-its-cyber-laws,,2026-11-07
 RWA,2018-09-19-rwa-idea-biometric-voter-identification-rwanda,,2026-10-19
 RWA,2023-11-29-organic-law-001-2023-ol-amending-elections-law,,2026-10-19
 RWA,2024-05-18-rwa-rwandainnigeria-diaspora-voter-registration,,2026-10-19
@@ -359,6 +376,7 @@ SWZ,2026-10-13-swz-15-000-emaswati-registered-as-ebc-urges-youth-disabled-to-par
 SYC,2025-07-14-syc-nation-ecs-encourages-online-registration,,2026-10-19
 SYC,2026-01-01-ecs-voter-registration-faq,,2026-10-19
 SYC,2026-04-01-nation-sc-ecs-certifies-2026-voters-register,,2026-10-19
+SYC,2026-11-03-syc-bill-no-20-companies-amendment-bill-2026,,2026-11-07
 TCD,2023-08-21-tcd-eisa-revision-fichier-electoral-biometrique,,2026-10-19
 TCD,2024-08-22-tcd-ndjamenaactu-bartchiret-fichier-electoral,,2026-10-19
 TCD,2025-01-29-tcd-chad-s-parliamentary-election-hands-mahamat-deby-absolute-control-here,,2026-11-04

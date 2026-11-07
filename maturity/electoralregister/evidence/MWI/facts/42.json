@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-01-mwi-12-3-million-register-for-id-cards",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "Nation Online reports that Malawi's elections act prescribes the NRB-issued national ID as the sole identification document to register as a voter.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "National Registration Bureau national ID",
+   "class": "electoral"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
