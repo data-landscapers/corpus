@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-01-mus-ministere-des-technologies-de-l-information-et-de-la-communication-une",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The ministry's own review says DIVA was adopted in December 2025 as the official virtual assistant of all ministries.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "DIVA",
+   "class": "govai"
+  },
+  {
+   "sub_indicator": "govai",
+   "aspect": "bodies",
+   "value": "several",
+   "fact": "The ministry's own review says DIVA was adopted in December 2025 as the official virtual assistant of all ministries.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "DIVA",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DIVA",
+   "country_label": "Mauritius",
+   "class": "govai",
+   "platform": "virtual assistant",
+   "owner": "Ministry of ICT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
