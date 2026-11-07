@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-mdg-madagascar-2026-cam-report-synthesis",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "The Countdown 2030 synthesis cites figures from the Annuaire statistique sanitaire 2024, a health yearbook.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Annuaire statistique sanitaire 2024",
+   "class": "admin"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

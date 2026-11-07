@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-28-moz-ine-mocambique-falha-registo-de-9-em-cada-10-bebes-que-nascem",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "INE published its Estatisticas Vitais 2024-2025 report, with births and deaths registered by the civil registration system in 2025 (8.8% and 38,032 deaths), reported on 2026-08-28.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Estatisticas Vitais 2024-2025",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "source",
+   "value": "civil-registration",
+   "fact": "INE's Estatisticas Vitais 2024-2025 draws its birth and death figures from the civil registration system's records.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Estatisticas Vitais 2024-2025",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Estatisticas Vitais 2024-2025",
+   "country_label": "Estatisticas Vitais 2024-2025",
+   "class": "admin",
+   "platform": "",
+   "owner": "INE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

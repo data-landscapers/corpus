@@ -21,12 +21,12 @@ The African Charter on Statistics (2009, Art. 3) and SHaSA 2 (strategic objectiv
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 23 |
+| 4 Operating | 24 |
 | 3 Established | 11 |
 | 2 Nascent | 7 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
-| No evidence | 10 |
+| No evidence | 9 |
 
 ## Countries
 
@@ -67,6 +67,13 @@ Statistics from health records were published twice in three years, the latest i
 Statistics from health records were published twice in three years, the latest in 2025; no source found reports three sources published twice.
 
 - WHO Comoros reports having supported the first quarterly health information bulletins (bulletins trimestriels d'information sanitaire), a quarterly series from the health information system; the report was published 2025-07-10 and gives no date for the bulletins ([source, 2025-07-10](https://afro.who.int/sites/default/files/2025-07/Rapport%20annuel%20_%20OMS%20Comores%20_%20PUBLICATION%2010%2007%202025.pdf)).
+
+### Cote d'Ivoire: 4 Operating
+
+Civil registration statistics were published in 2025 and again in 2026; no other administrative source is known to be published.
+
+- The 2025 yearbook covers births, adoptions, marriages, divorces and deaths registered in civil status ([source, 2026-07-31](https://www.aip.ci/cote-divoire-aip-le-taux-denregistrement-annuel-des-naissances-progresse-a-576-en-2025-contre-547-en-2022-officiel/)).
+- The Ministry of the Interior and Security officially presented the Annuaire statistique d'état civil 2024 and its analysis report on 30 June 2025, covering births, adoptions, marriages, divorces and deaths registered in 2024 ([source, 2025-06-30](https://www.fratmat.info/article/2635039/economie/annuaire-statistique-detat-civil-de-lannee-2024-le-taux-denregistrement-des-naissances-dans-les-delais-en-nette-regression)).
 
 ### Egypt: 4 Operating
 
@@ -197,12 +204,6 @@ Statistics from education records were published in 2024; no administrative sour
 
 - ICASEES published on 15 November 2024 the statistical yearbook for pre-school, Fondamental 1 and non-formal basic education, covering school year 2021-2022, from the 2022 statistical campaign of all schools ([source, 2024-11-15](https://www.icasees.org/index.php/publications/tableau-de-bord/donnees-sectorielles/education-nationale/annuaire-satistique-fondamental-1-alphabetisation-et-education-de-base-non-formelle-2021-2022)).
 
-### Cote d'Ivoire: 3 Established
-
-Statistics from civil registration records were published in 2025; no administrative source is known to have been published twice since 2023.
-
-- The Ministry of the Interior and Security officially presented the Annuaire statistique d'état civil 2024 and its analysis report on 30 June 2025, covering births, adoptions, marriages, divorces and deaths registered in 2024 ([source, 2025-06-30](https://www.fratmat.info/article/2635039/economie/annuaire-statistique-detat-civil-de-lannee-2024-le-taux-denregistrement-des-naissances-dans-les-delais-en-nette-regression)).
-
 ### Ethiopia: 3 Established
 
 Statistics from education records were published in 2023; no administrative source is known to have been published twice since 2023.
@@ -220,6 +221,13 @@ Statistics from health records were published in 2025; no administrative source 
 Statistics from civil registration records were published in 2026; no administrative source is known to have been published twice since 2023.
 
 - Statistics Mauritius published Economic and Social Indicators Issue No 1949, Population and Vital Statistics Jan-Jun 2026, on 28 August 2026, with vital statistics drawn from the Civil Status Division's computerised system ([source, 2026-08-28](https://statsmauritius.govmu.org/Documents/Statistics/ESI/2026/EI1949/Pop_Vital_Midyr26_280826.pdf)).
+
+### Mozambique: 3 Established
+
+Vital statistics drawn from civil registration records were published in 2026; no second edition since 2023 is known.
+
+- INE's Estatisticas Vitais 2024-2025 draws its birth and death figures from the civil registration system's records ([source, 2026-08](https://dossiersefactos.com/2026/08/28/mocambique-falha-registo-de-9-em-cada-10-bebes-que-nascem/)).
+- INE published its Estatisticas Vitais 2024-2025 report, with births and deaths registered by the civil registration system in 2025 (8.8% and 38,032 deaths), reported on 2026-08-28 ([source, 2026-08](https://dossiersefactos.com/2026/08/28/mocambique-falha-registo-de-9-em-cada-10-bebes-que-nascem/)).
 
 ### Niger: 3 Established
 
@@ -270,11 +278,11 @@ Work to draw statistics from administrative records was under way in 2025; nothi
 
 - UNFPA, the National Institute of Statistics (INE) and the Ministry of Justice and Human Rights ran a five-day descriptive statistics training (4-8 August 2025, Bissau) for 42 professionals, including civil registry technicians from all nine regions, to improve the accuracy of vital statistics ([source, 2025-08-08](https://guinea-bissau.unfpa.org/en/news/strengthening-guinea-bissaus-future-civil-registry-professionals-master-data-skills)).
 
-### Mozambique: 2 Nascent
+### Mauritania: 2 Nascent
 
-Work to draw statistics from administrative records was under way in 2026; nothing published since 2023 is known.
+Health data were being prepared for a statistical yearbook in 2025; no statistics from administrative records published since 2023 are known.
 
-- On 18 May 2026 the Ministry of Justice (MJCR) and the National Statistics Institute (INE) signed an MoU linking the electronic civil registration and vital statistics system to INE's statistical systems to share birth, death, marriage and other event data ([source, 2026-05-18](https://aimnews.org/2026/05/18/mjcr-e-ine-ligam-sistemas-para-modernizar-estatisticas-vitais/)).
+- A health ministry workshop in July 2025 reviewed 2024 and first-half 2025 SNIS data in preparation for the 2024 national statistical yearbook and a first-quarter 2025 bulletin ([source, 2025-07](https://elhadeth.mr/node/31262)).
 
 ### Nigeria: 2 Nascent
 
@@ -337,12 +345,6 @@ Nothing found says whether the country draws statistics from administrative reco
 Not established: Nothing found names statistics drawn from administrative records, or says there are none.
 
 ### Madagascar: No evidence
-
-Nothing found says whether the country draws statistics from administrative records, so no stage is set.
-
-Not established: Nothing found names statistics drawn from administrative records, or says there are none.
-
-### Mauritania: No evidence
 
 Nothing found says whether the country draws statistics from administrative records, so no stage is set.
 

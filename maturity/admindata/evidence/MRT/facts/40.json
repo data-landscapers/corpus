@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-22-mrt-elhadeth-snis-dhis2-data-review-workshop",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "A health ministry workshop in July 2025 reviewed 2024 and first-half 2025 SNIS data in preparation for the 2024 national statistical yearbook and a first-quarter 2025 bulletin.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Annuaire statistique national 2024",
+   "class": "admin"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

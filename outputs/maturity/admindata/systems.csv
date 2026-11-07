@@ -32,6 +32,7 @@ CIV,Annuaire statistique d'état civil 2024,Annuaire statistique d'état civil 2
 CIV,city web,city web,other,software,Ministère de l'Intérieur et de la Sécurité,,2025-07-01-annuaire-statistique-etat-civil-2024-fratmat
 CIV,SIMT (Système d'Information sur le Marché du Travail),SIMT,other,SDMX-compliant data platform,ONEF (Observatoire national de l'emploi et de la formation),,2026-06-23-cote-divoire-lancement-simt
 CIV,Stad (Système de traitement et d'analyse de données statistiques),Stad,other,digital platform,"Observatoire de la fluidité des transports (Oft), with Cntig",,2026-04-15-oft-stad-plateforme-transports-fratmat
+CIV,Annuaire statistique d'etat civil 2025,Annuaire statistique d'etat civil 2025,admin,,DESPSE,,2026-07-31-civ-le-taux-d-enregistrement-annuel-des-naissances-progresse-a-57-6-en-202
 CMR,"Annuaire statistique de la région de l'Adamaoua, édition 2025",Annuaire statistique régional Adamaoua 2025,admin,,"Institut National de la Statistique (INS), Agence régionale de l'Adamaoua",,2026-08-07-ins-annuaire-statistique-adamaoua-2025
 CMR,Système d'enregistrement des faits d'état civil (ESEC),Système ESEC,other,,BUNEC / MINDDEVEL,,2024-01-01-cmr-minddevel-plan-strategique-esec-2025-2029
 CMR,Fichier national de l'état civil,Fichier national de l'état civil,other,,BUNEC,,2026-08-10-cameroon-cdhc-civil-registry-interoperability
@@ -185,6 +186,7 @@ MOZ,ESSIR-SERV (as named by AIM),e-RCEV,other,,"Ministry of Justice, Constitutio
 MOZ,e-SIRCEV,e-SIRCEV,other,web portal,Direcção Nacional dos Registos e Notariado,,2024-01-01-e-sircev-portal
 MOZ,SIRCEV (Sistema de Registo Civil e Estatísticas Vitais),SIRCEV,other,,Direcção Nacional dos Registos e Notariado,,2018-12-04-lei-12-2018-revisao-codigo-registo-civil
 MOZ,MOZDATA,MOZDATA microdata catalogue,other,NADA-style catalogue,Instituto Nacional de Estatistica,licensed access,2026-08-08-mozdata-ine-microdata-catalogue-mozambique
+MOZ,Estatisticas Vitais 2024-2025,Estatisticas Vitais 2024-2025,admin,,INE,,2026-08-28-moz-ine-mocambique-falha-registo-de-9-em-cada-10-bebes-que-nascem
 MUS,Fisheries Information System (FIS),Fisheries Information System (proposed),other,,"Ministry of Agro-Industry, Food Security, Blue Economy and Fisheries",,2026-08-21-lexpress-mu-systeme-information-integre-peches-cotieres
 MUS,computerised system at the Civil Status Division,Civil Status Division computerised system,other,,Civil Status Division,,2026-08-28-mus-statsmauritius-pop-vital-jan-jun-2026
 MUS,Statistical Business Register,Mauritius,admin,,Statistics Mauritius,,2024-10-01-mus-statsmauritius-annual-report-2023-2024
@@ -274,6 +276,7 @@ SWZ,Annual Vital Statistics Report 2022,Annual Vital Statistics Report January 2
 SWZ,Annual Civil Registration and Vital Statistics Report,2024 Annual Civil Registration and Vital Statistics Report,admin,,Central Statistical Office,,2025-08-23-swz-observer-2024-crvs-report-launch
 SWZ,Education Management Information Systems (EMIS),EMIS,,,Ministry of Education and Training,,2025-02-01-eswatini-annual-report-education-2025
 SWZ,Client Management Information System (CMIS),CMIS,,,Ministry of Health,,2025-02-01-eswatini-annual-report-health-2025
+SWZ,2025 CRVS Annual Report,CRVS Annual Report 2025,admin,,Central Statistical Office,,2026-08-25-swz-birth-and-death-registration-in-eswatini-reach-61-and-62-in-2025-cso-r
 SYC,Population and Vital Statistics December 2025,Population and Vital Statistics December 2025,vital,,National Bureau of Statistics,,2026-03-31-nbs-seychelles-end-of-year-population-2025
 SYC,End of year population 2025,End of year population 2025,other,,National Bureau of Statistics,,2026-03-31-nbs-seychelles-population-2025-releases
 SYC,Mid 2025 Estimated Resident Population,Mid 2025 Estimated Resident Population,other,,National Bureau of Statistics,,2026-03-31-nbs-seychelles-population-2025-releases

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-31-civ-le-taux-d-enregistrement-annuel-des-naissances-progresse-a-57-6-en-202",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "The Interior Ministry's DESPSE, with ANSTAT and UNICEF, presented the 2025 civil-status statistical yearbook on 31 July 2026, built from collected birth, adoption, marriage, divorce and death records.",
+   "as_of": "2026-07-31",
+   "date_precision": "day",
+   "system": "Annuaire statistique d'etat civil 2025",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "source",
+   "value": "civil-registration",
+   "fact": "The 2025 yearbook covers births, adoptions, marriages, divorces and deaths registered in civil status.",
+   "as_of": "2026-07-31",
+   "date_precision": "day",
+   "system": "Annuaire statistique d'etat civil 2025",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Annuaire statistique d'etat civil 2025",
+   "country_label": "Annuaire statistique d'etat civil 2025",
+   "class": "admin",
+   "platform": "",
+   "owner": "DESPSE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

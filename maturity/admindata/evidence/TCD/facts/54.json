@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-22-tcd-l-annuaire-des-statistiques-sanitaires-du-tchad-2025-en-validation",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "preparing",
+   "fact": "On 22 September 2026 the health ministry opened validation of the 2025 health statistics yearbook, built on the national DHIS2 base; it is not yet published.",
+   "as_of": "2026-09-22",
+   "date_precision": "day",
+   "system": "Annuaire des statistiques sanitaires 2025",
+   "class": "admin"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

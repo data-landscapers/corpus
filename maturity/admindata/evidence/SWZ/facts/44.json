@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-25-swz-birth-and-death-registration-in-eswatini-reach-61-and-62-in-2025-cso-r",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "Eswatini's Central Statistical Office launched the 2025 CRVS Annual Report, releasing birth registration completeness of 61% and death registration completeness of 62% for 2025.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "2025 CRVS Annual Report",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2025 CRVS Annual Report",
+   "country_label": "CRVS Annual Report 2025",
+   "class": "admin",
+   "platform": "",
+   "owner": "Central Statistical Office",
+   "tiers": ""
+  }
+ ],
+ "note": "The article does not say the figures are drawn from registration records."
+}
