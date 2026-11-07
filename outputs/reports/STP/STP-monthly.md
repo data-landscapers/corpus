@@ -1,11 +1,11 @@
 ---
 title: Sao Tome and Principe — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: STP
-ledger_rows: 3
+ledger_rows: 4
 not_held: 5
-record: a716e8b527d6
+record: 9429c0f9057a
 ---
 
 # News, Oct – Nov 2026
@@ -59,6 +59,20 @@ A second account of the ARTAC closing session, adding that São Tomé and Prínc
 **[Tribunal de Contas vai lançar em 2027 o sistema digital de prestação de contas - STP-PRESS](https://www.stp-press.st/2026/11/03/tribunal-de-contas-vai-lancar-em-2027-o-sistema-digital-de-prestacao-de-contas/)** — STP-PRESS, 3 November 2026
 
 The president of Sao Tome and Principe's Court of Auditors announced an electronic system for public entities to file their accounts instead of paper. A new instruction will follow. He expects the system to be operating by 30 April 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SYDOC document management and SYDOC-PASS</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[São Tomé and Príncipe: Ministério dos Negócios Estrangeiros, Cooperação e Comunidades (MNECC) Lança Plataformas Digitais para Modernizar a Gestão Documental e a Emissão de Passaportes Oficiais](https://www.africa-newsroom.com/press/sao-tome-and-principe-ministerio-dos-negocios-estrangeiros-cooperacao-e-comunidades-mnecc-lanca-plataformas-digitais-para-modernizar-a-gestao-documental-e-a-emissao-de-passaportes-oficiais?lang=pt)** — MNECC São Tomé e Príncipe (via APO Group), 6 November 2026
+
+Foreign ministry e-records and official-passport platforms; digital signature law and digital ID still pending.
 
 </div>
 
