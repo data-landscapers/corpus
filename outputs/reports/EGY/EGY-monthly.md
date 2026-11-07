@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: EGY
-ledger_rows: 46
+ledger_rows: 47
 not_held: 36
-record: d2e46b50b5d3
+record: 48ce8ebae06e
 ---
 
 # News, Oct – Nov 2026
@@ -279,6 +279,20 @@ Egypt's telecoms regulator ordered fixed-line providers to double the EGP 150 ba
 **[6 Million New Lines and Fiber Optics Doubled: NTRA Unveils Egypt”s Internet Development Roadmap](https://www.technotime.net/18185)** — Techno Time, 2 November 2026
 
 Egypt's telecoms regulator NTRA plans to upgrade 6 million more fixed internet lines over three years. Fibre-backed lines would then pass 90% of the fixed network. Spokesperson Mohamed Ibrahim put fixed internet users above 13 million, with more than 5.5 million lines already on fibre. He gave 38,000 cell towers, with 40,000 targeted by end-2026. He said 450 MHz has been released to mobile operators.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Suez Canal Economic Zone network agreement with Telecom Egypt</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SCZone, Telecom Egypt sign deal to upgrade digital services](https://egyptian-gazette.com/egypt/sczone-telecom-egypt-sign-deal-to-upgrade-digital-services/)** — Egyptian Gazette, 6 November 2026
+
+Telecom Egypt to build redundant networks and IoT services across zone ports and industrial areas; signing date unstated.
 
 </div>
 
