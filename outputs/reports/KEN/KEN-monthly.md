@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: KEN
-ledger_rows: 73
+ledger_rows: 81
 not_held: 5
-record: c997b2ff62a1
+record: 824ea6e0cac5
 ---
 
 # News, Oct – Nov 2026
@@ -28,6 +28,8 @@ record: c997b2ff62a1
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
 </nav>
 
 ## Governance
@@ -161,6 +163,20 @@ Kenya's information and communications ministry has published a revised draft of
 **[Regulators need to talk to one another about data](https://nation.africa/kenya/blogs-opinion/blogs/regulators-need-to-talk-to-one-another-about-data-5657210)** — Daily Nation, 4 November 2026
 
 An opinion piece argues that Kenya's competition and data protection regulators should coordinate on mergers where data is the main asset. It cites the Competition Authority of Kenya's approach to data segregation, which would keep an acquirer from reading rivals' information on a shared payments platform. It refers to the Competition (Amendment) Bill 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online Safety Bill 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya proposes tougher social media rules](https://www.itweb.africa/article/kenya-proposes-tougher-social-media-rules/O2rQGqAEWWzqd1ea)** — ITWeb Africa, 6 November 2026
+
+New Section 85C platform register under the CA; draft Online Safety Bill fines up to KES500m or 10% of turnover.
 
 </div>
 
@@ -321,6 +337,20 @@ ITWeb Africa reported Airtel Kenya's purchase of 100 MHz of 3500 MHz spectrum fo
 **[Bayobab East to West Connectivity Project: fibre laid](https://tech.africa/bayobab-east-west-fibre-south-sudan/)** — TechAfrica, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a>
 
 Bayobab, an MTN Group company, said on 22 October 2026 that civil works and fibre deployment are complete on the Kenya and South Sudan segments of Northern Route 1 of its East-to-West Connectivity Project. The segments carry 2,038km of fibre, and service activation is the next step. The company gave no activation date, customers or cost.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Namelok Wireless community network, Kimuka</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Namelok Wireless Launches Community Internet Network in Kimuka, Kenya](https://techafricanews.com/2026/11/04/namelok-wireless-launches-community-internet-network-in-kimuka-kenya/)** — Tech Africa News, 4 November 2026
+
+Ngong–Suswa Road community network for schools, government offices, clinics and MSMEs; no coverage figures.
 
 </div>
 
@@ -601,6 +631,20 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 **[Mastercard and Moovn sign five-year deal to expand digital payments across East Africa](https://techafricanews.com/2026/10/19/mastercard-and-moovn-sign-five-year-deal-to-expand-digital-payments-across-east-africa/)** — TechAfrica News, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
 
 Mastercard and Moovn Technologies signed a five-year agreement, announced on 19 October 2026, to add Mastercard prepaid cards, tokenisation, online acceptance, Pay Local and cross-border transfers to the MoovnPay wallet. Pay Local is to expand across Kenya and Tanzania, and the Shooga prepaid Mastercard portfolio is to launch next.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PesaLink</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Postbank opens 600 agent points to other banks via Pesalink](https://techtrendske.co.ke/2026/11/04/postbank-opens-600-agent-points-to-other-banks-via-pesalink/)** — TechTrends Kenya, 4 November 2026
+
+Cash deposits only for now, no withdrawals; IPSL cites more than 93,000 bank agents in Kenya.
 
 </div>
 
@@ -1018,6 +1062,20 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Vihiga County Land Information System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[From paper files to fingertips Vihiga unleashes digital revolution](https://www.kenyanews.go.ke/from-paper-files-to-fingertips-vihiga-unleashes-digital-revolution/)** — Kenya News Agency, 6 November 2026
+
+Governor claims procurement, hiring and payments fully online; land information system 70% complete.
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -1107,6 +1165,20 @@ Kenyan researchers are calling for more investment in local language data for AI
 **[Empowering Educators and Learners in Sub-Saharan Africa](https://blog.google/intl/en-africa/company-news/outreach-and-initiatives/empowering-educators-and-learners-in-sub-saharan-africa-2026/)** — Google, 4 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
 
 Google DeepMind and Fab AI will build open Gemma-based AI tools for teachers in Kenya, Ghana and South Africa, Google announced. Google.org and the Gates Foundation fund the work, which first targets up to 500 teachers and 15,000 students. Google also opened its AI Educator Series in South Africa with SACE.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">WayaWaya Banking</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya's WayaWaya partners with Choice Bank to launch AI-powered banking services](https://techcabal.com/2026/11/06/wayawaya-partners-choice-bank/)** — TechCabal, 6 November 2026
+
+Choice Bank supplies regulated accounts; AI reads transaction patterns to shape the app; Kenya mobile money 54m (2026).
 
 </div>
 
@@ -1214,6 +1286,20 @@ Strathmore University is one of six Kenyan universities selected for the Google.
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NYOTA AGPO Digital Training Programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government launches NYOTA AGPO Digital Training for 600,000 entrepreneurs](https://www.kbc.co.ke/government-launches-nyota-agpo-digital-training-for-600000-entrepreneurs/)** — KBC Digital, 4 November 2026
+
+Free 10-week course on AGPO, IFMIS and e-GP bidding; enrolment by USSD *254#; Safaricom data subsidy.
+
+</div>
+
+</div>
+
 ## Inclusion
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
@@ -1299,6 +1385,42 @@ Kenya drafted its second Inclusive Data Charter action plan, for 2026 to 2030, a
 **[Who owns Indigenous data? Kenyan communities demand more control](https://nation.africa/kenya/climate/who-owns-indigenous-data-kenyan-communities-demand-more-control-5641966)** — Daily Nation, 22 October 2026
 
 Indigenous communities from northern Kenya presented a community-based monitoring and information system at the biodiversity COP17 in Yerevan, developed with the organisation IMPACT, to record traditional knowledge of grazing, water and wildlife digitally. They want that data recognised in national biodiversity reporting while staying under community control.
+
+</div>
+
+</div>
+
+## Geopolitics
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
+<a href="#china-activities">China activities</a>
+</nav>
+
+### China activities
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Proposed Chinese grant for the Eldoret AI Cloud Data Project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya seeks Chinese support for digital economy and AI development](https://www.kbc.co.ke/kenya-seeks-chinese-support-for-digital-economy-and-ai-development/)** — Kenya Broadcasting Corporation, 5 November 2026
+
+Proposed US$180m grant for Phase One AI Cloud Data Project in Eldoret; under discussion, not committed.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">World Artificial Intelligence Cooperation Organization agreement</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Kenya seeks Chinese support for digital economy and AI development](https://www.kbc.co.ke/kenya-seeks-chinese-support-for-digital-economy-and-ai-development/)** — Kenya Broadcasting Corporation, 5 November 2026
+
+Summarised under [China activities](#china-activities).
 
 </div>
 
