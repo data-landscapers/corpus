@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: XWA
-ledger_rows: 23
+ledger_rows: 24
 not_held: 1
-record: 37094092ca03
+record: 67b6752ca3bd
 ---
 
 # News, Oct – Nov 2026
@@ -89,6 +89,20 @@ The ECOWAS Commission's Communications Directorate held the second meeting of it
 **[Burkina Faso : Les régulateurs du numérique de l’UEMOA réunis à Ouagadougou pour renforcer leur coopération](https://lefaso.net/spip.php?article150075=)** — leFaso.net, 20 October 2026
 
 The second session of the UEMOA national digital regulators' committee (CRNN) opened in Ouagadougou on 20 October 2026 and runs until 22 October. The agenda covers regulation of digital financial services, sharing of telecoms infrastructure and community roaming. Burkina Faso currently chairs the committee, and the first session was held in Cotonou from 28 to 31 October 2025.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AES Year II digital roadmap</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Numérique dans l’espace AES: la feuille de route de l’An II adoptée](https://www.sidwaya.info/2026/11/05/numerique-dans-lespace-aes-la-feuille-de-route-de-lan-ii-adoptee/)** — Sidwaya, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a>
+
+Sidwaya account, 5 Nov 2026; 16 of 18 deliverables final, confederal NOC by end-2028, CERTs paid from universal service.
 
 </div>
 
