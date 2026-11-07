@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: ZWE
-ledger_rows: 30
+ledger_rows: 31
 not_held: 6
-record: 37289c53884e
+record: ed2a6ea52fc2
 ---
 
 # News, Oct – Nov 2026
@@ -473,6 +473,20 @@ Zimbabwe's police said logistics for an Electronic Traffic Management System wer
 **[ZimSmart converts ZimPost offices into digital health clinics](https://www.heraldonline.co.zw/zimsmart-converts-zimpost-offices-into-digital-health-clinics/)** — The Herald, 9 October 2026
 
 ZimSmart Villages is converting parts of Zimbabwe Postal Services offices into nurse-staffed digital health clinics with point-of-care diagnostics and small dispensaries, and uses container clinics where there is no post office. The company told a conference in Bulawayo it has 28 sites connected through Starlink and NetOne and has reached 118,000 people.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ITU Partner2Connect satellite school connectivity with SES</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Three year free internet for 10 Zim schools](https://www.heraldonline.co.zw/three-year-free-internet-for-10-zim-schools/)** — The Herald (Zimbabwe), 6 November 2026
+
+ITU and SES satellite broadband; nine of ten rural schools connected, last due 10 November; free for three years.
 
 </div>
 
