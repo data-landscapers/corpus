@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-04-ken-nyota-agpo-digital-training-for-600000-entrepreneurs",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "KBC reports the NYOTA AGPO training covers registering and bidding on the government's electronic procurement systems, IFMIS and e-GP, as stated by the MSME Principal Secretary at the launch.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "e-GP",
+   "class": "procurement"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-GP",
+   "country_label": "Kenya",
+   "class": "procurement",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  },
+  {
+   "system": "IFMIS",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
