@@ -78,7 +78,7 @@ Mozambique's interoperability regulation sets standards for public information s
 
 ### South Africa: 3 Established
 
-The public service department had published minimum interoperability standards by 2025 and was updating them in 2026; no source found says whether their use is compulsory.
+The public service department had published minimum interoperability standards by 2025 and was updating them in 2026; whether their use is compulsory is not known.
 
 - The DPSA reply says it published the Minimum Interoperability Standards (MIOS) so departments can achieve system interoperability and data exchange ([source, 2025-08-28](https://pmg.org.za/committee-question/32258/)).
 - The Operation Vulindlela Q1 2026/27 progress report says work progressed on updating the Minimum Interoperability Standards, described as the common standards needed to connect public-sector systems (the report does not list data formats or interfaces), with testing in priority digital service initiatives due September 2026; period is the April-June 2026 quarter, report published 2026-07-31 ([source, 2026-06](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf)).
@@ -103,7 +103,7 @@ Zambia issued an interoperability standard for the public service in 2019; no so
 
 ### Angola: 2 Nascent
 
-Angola produced a draft interoperability framework with technical guidelines in 2026 and has no common standards; no source found says whether the draft has been adopted.
+Angola produced a draft interoperability framework with technical guidelines in 2026 and has no common standards; whether the draft is adopted is not known.
 
 - IMA's terms of reference say a seven-month study with 25 public institutions produced the Framework and Roadmap of Interoperability, with organisational, semantic, technical and infrastructure guidelines and a phased roadmap; the document gives no adoption instrument. Dated by the document's publication date, 2026-02-09 ([source, 2026-02-09](https://sys.portais.gov.ao/uploads/Td_R_Consultoria_para_Implementacao_da_Interoperabilidade_da_Administracao_Publica_1_13f0252ef0.pdf)).
 
@@ -115,7 +115,7 @@ Botswana's interoperability framework and standards were being aligned under a E
 
 ### DR Congo: 2 Nascent
 
-The Democratic Republic of the Congo adopted draft digital standards for the public sector in 2022; no source found reports an order giving them legal force.
+The Democratic Republic of the Congo adopted draft digital standards for the public sector in 2022; no order giving them legal force is known.
 
 - The government adopted the draft digital norms and standards for the public sector on 15 April 2022, in five books including a common data-reference architecture framework and the general interoperability framework, with legal force still to be given by ministerial order ([source, 2022-04-15](https://kt.cd/2022/04/16/adoption-du-projet-des-normes-et-standards-du-numerique-applicable-au-secteur-public/)).
 - A ministry workshop on 2-3 February 2022 validated five books of public-sector digital standards, including a data-reference architecture framework and a general interoperability framework meant to give real-time interoperability of public information systems, still to be tidied and promulgated ([source, 2022-02-03](https://medd.gouv.cd/atelier-sur-lelaboration-et-adoption-des-referentiels-numeriques-du-secteur-public-en-rdc/)).
@@ -135,7 +135,7 @@ Kenya's ICT Authority said in 2025 it would finalise its interoperability framew
 
 ### Mauritania: 2 Nascent
 
-Mauritania's ministry held a workshop in 2026 to develop a framework of standards for public digital services; no source found says whether it has been adopted.
+Mauritania's ministry held a workshop in 2026 to develop a framework of standards for public digital services; whether it is adopted is not known.
 
 - The digital transformation ministry (MTNIMA) held a three-day workshop to develop a unified framework of public digital-service standards to ensure greater interoperability, and presented a technical study and implementation mechanism for stakeholder feedback before full adoption; the document gives no workshop date, so the published date is used ([source, 2026-03-27](https://techafricanews.com/2026/03/27/mauritania-moves-to-standardize-public-digital-services-with-national-framework-initiative/)).
 
