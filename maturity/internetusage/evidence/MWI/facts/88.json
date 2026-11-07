@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-08-mwi-malawi-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:27.7",
+   "fact": "The guide says current statistics put internet usage in Malawi at 27.7 percent of the population, without naming the source or year.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
