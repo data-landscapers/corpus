@@ -423,6 +423,7 @@ NER,Starlink,Starlink,satellite,LEO satellite constellation,SpaceX,residential a
 NER,Starlink,Starlink,satellite,LEO satellite constellation,SpaceX,residential and corporate,2026-06-29-starlink-africa-availability-costs-performance
 NER,Starlink,Starlink,satellite,LEO satellite constellation,SpaceX,residential and corporate,2026-05-19-le360-starlink-operationnel-dans-un-pays-africain-sur-deux
 NER,Starlink,Starlink,satellite,low-orbit,Starlink,,2025-10-14-ner-le-niger-intensifie-ses-efforts-pour-generaliser-l-acces-aux-services
+NER,Starlink,Starlink,satellite,,,,2025-02-27-ner-bilan-2024-du-ministere-de-la-communication-adoption-d-une-politique-n
 NGA,Starlink,Starlink,other,LEO satellite,SpaceX via third-party providers; pilot by NuRAN Wireless and Infratel,rural mobile sites,2026-09-24-nga-nuran-wireless-starlink-backhaul-pilot
 NGA,Amazon Kuiper,Project Kuiper,satellite,"LEO constellation, Ka-band",Kuiper Systems LLC (Amazon),,2026-01-15-ncc-amazon-kuiper-landing-permit
 NGA,Starlink,Starlink,satellite,LEO satellite,SpaceX,households,2025-12-31-starlink-biometric-66000-subscribers
