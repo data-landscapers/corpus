@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-27-mrt-how-many-systems-is-your-national-health-program-really-connecting",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "Bluesquare says the DIGISANTE MRT program, uniting the Ministry of Health, the digital ministry and the national population registry authority, has agreed on HL7 FHIR R4, a national patient identifier and harmonized terminologies, and has confirmed 12 pilot health centres ahead of a first deployment at Dar Naim.",
+   "as_of": "2026-10-27",
+   "date_precision": "day",
+   "system": "DIGISANTE MRT",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DIGISANTE MRT",
+   "country_label": "DIGISANTE MRT",
+   "class": "exchange",
+   "platform": "HL7 FHIR R4",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

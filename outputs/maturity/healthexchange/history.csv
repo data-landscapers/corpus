@@ -62,3 +62,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-05,LBR,dpi.exchange--interoperability-of-health-systems,review,no evidence,no evidence,,Rebuild: no row on health systems exchanging data and no dated absence found; no evidence stands.
 2026-11-05,SEN,dpi.exchange--interoperability-of-health-systems,review,no evidence,no evidence,,Rebuild: no row on health systems exchanging data and no dated absence found; no evidence stands.
 2026-11-05,SYC,dpi.exchange--interoperability-of-health-systems,review,no evidence,no evidence,,Rebuild: no row on health systems exchanging data and no dated absence found; no evidence stands.
+2026-11-07,KEN,dpi.exchange--interoperability-of-health-systems,fact,3,4,KEN-005;KEN-006;KEN-007;KEN-008,National HIE operational across all SHA-contracted facilities (Aug 2025) and fully deployed by Dec 2024: a national exchange in service
+2026-11-07,NAM,dpi.exchange--interoperability-of-health-systems,fact,1,3,NAM-003,"NAMTAC 2025: PTracker submits data to DHIS2 and the national data warehouse; two systems in routine use, breadth unsettled against the minister's 2026 remarks"

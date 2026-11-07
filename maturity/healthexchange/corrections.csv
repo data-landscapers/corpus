@@ -1,3 +1,6 @@
 iso3,n,aspect,value,action,why
 CIV,002,identifier,linked,removed,"First pass: a decree naming the health identifier, not records linked in service"
 COM,002,breadth,wide,removed,4c: DHIS2 named with the vaccination register and medicines system as integrated or interoperable; modules inside DHIS2 are not three systems exchanging
+GAB,002,exchange,underway,removed,"4c 2026-11-07: a draft law fixing the interoperability framework is a policy with no exchange in service, other under the study file"
+SEN,001,exchange,underway,removed,"4c 2026-11-07: vendors testing their products against IHE standards at a European connectathon is a standard tested, not an exchange between Senegal's health systems built or piloted"
+EGY,005,exchange,inservice,revalued: exchange:underway,"4c 2026-11-07: a platform presented to D-8 ministers in November 2025 that the ministry was still activating in September 2026 (EGY-001) is under way, not in service"

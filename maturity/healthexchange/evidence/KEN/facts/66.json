@@ -1,0 +1,27 @@
+{
+ "slug": "2025-08-04-ken-duale-unveils-real-time-health-data-system-to-fight-hospital-billing-f",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "Health Cabinet Secretary Aden Duale said Kenya's Health Information Exchange is operational across all Social Health Authority-contracted facilities, enabling real-time data sharing among hospitals, county governments and the national health system.",
+   "as_of": "2025-08-04",
+   "date_precision": "day",
+   "system": "Health Information Exchange",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "breadth",
+   "value": "wide",
+   "fact": "Health Cabinet Secretary Aden Duale said Kenya's Health Information Exchange is operational nationally across all SHA-contracted public, private and faith-based facilities, sharing data with county governments and the national health system.",
+   "as_of": "2025-08-04",
+   "date_precision": "day",
+   "system": "Health Information Exchange",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

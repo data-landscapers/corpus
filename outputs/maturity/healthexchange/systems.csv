@@ -94,11 +94,14 @@ EGY,Electronic referral system,Egypt,exchange,,Egypt Healthcare Authority,primar
 EGY,Unified electronic medical record (4.5 million electronic health records),Egypt,other,,Egypt Healthcare Authority,,2024-08-19-eha-pillars-of-digital-transformation-telemedicine-uhis
 EGY,"Modular UHIS information system (procurement, beneficiary, provider, claims modules)",Egypt,other,,Universal Health Insurance Authority,,2026-01-20-worldbank-isr-supporting-egypt-uhis-p172426-seq11
 EGY,MoSS-UHIA database integration,Egypt,exchange,,Ministry of Social Solidarity; Universal Health Insurance Authority,,2025-12-06-egypt-national-health-compact
+EGY,National Health Information Exchange (HIE) platform,منصة تبادل المعلومات الصحية الوطنية,exchange,,Ministry of Health and Population,,2025-11-18-egy-mohp-unified-electronic-health-record-d8-health-ministers
 ERI,DHIS2,Eritrea,other,DHIS2,Ministry of Health,"national, with remote zones and sub-zones",2024-03-13-dhis2-eritrea-connectivity
 ETH,multi-tenant electronic medical records pilot,Ethiopia,exchange,,,,2026-03-04 Ethiopia's approach to use cases shows how to ground data governance in real-world priorities
 ETH,Fayda national digital ID,Ethiopia,other,,,,2026-03-04 Ethiopia's approach to use cases shows how to ground data governance in real-world priorities
+ETH,Interoperability Highway,Ethiopia,exchange,,Ministry of Health,,2026-02-01-eth-scope-of-work-february-2026
 GAB,DHIS2 Tracker,Gabon,exchange,DHIS2,"Ministry of Health, with WHO technical support",health establishments to national DHIS2,2026-06-18-gabon-premier-pays-afrique-francophone-dhis2-tracker
 GAB,National DHIS2,Gabon,other,DHIS2,,national,2026-06-18-gabon-premier-pays-afrique-francophone-dhis2-tracker
+GAB,Système d'Information de Santé (SIS),Gabon,exchange,,Ministry of Health,,2025-10-25-gab-sante-connectee-le-gabon-adopte-l-identifiant-unique-et-le-dossier-med
 GHA,National Public Health Emergency Operations Centre (PHEOC),Ghana,other,integrated dashboards,Ghana Health Service,"national, regional, district, community",2026-08-23-ghs-launches-pheoc-strategic-documents
 GHA,District Health Information Management System (DHIMS),Ghana,other,,,,2022-06-01-ghana-health-information-system-strategic-plan-2022-2025
 GHA,Ghana Integrated Logistics Management Information System (GhILMIS),Ghana,other,,,,2022-06-01-ghana-health-information-system-strategic-plan-2022-2025
@@ -143,6 +146,7 @@ KEN,Product catalogue,Kenya,other,,Digital Health Agency with Pharmacy and Poiso
 KEN,Telemedicine health provider registry,Kenya,other,,Digital Health Agency,national,2025-04-11-kenya-digital-health-data-exchange-and-health-information-management-regulations-2025
 KEN,AdaM (All Disease Outbreak Module),Kenya,other,,Ministry of Health,,2026-10-15-ken-standard-ebola-reporting-tool-adam-disabled
 KEN,UHAI,Kenya,other,,Ministry of Health,,2026-10-15-ken-standard-ebola-reporting-tool-adam-disabled
+KEN,Health Information Exchange,Health Information Exchange,exchange,,Ministry of Health,,2025-01-22-ken-moh-18-2-million-kenyans-registered-under-sha
 LBR,Integrated Sample Referral System Framework,Liberia,other,,"Ministry of Health, National Diagnostics Division",,2026-07-01-liberia-moh-validates-integrated-sample-referral-system-framework
 LBY,المنظومة الإلكترونية الموحدة (National Diabetes Authority unified electronic system),Libya,other,,National Diabetes Authority,national,2026-05-03-alhaya-alwataniya-limarad-alsukari-almanzuma-alilktruniya-almuwahhada
 LBY,منظومة إلكترونية متكاملة لتتبع حركة الأدوية (medicines tracking system),Libya,exchange,,Ministry of Health,national,2025-10-06-wizarat-alsihha-manzuma-iliktruniya-litatabu-harakat-aladwiya
@@ -186,12 +190,14 @@ MOZ,DISA-SESP interoperability platform,Mozambique,exchange,HL7-based applicatio
 MOZ,e-SiRCEV (Electronic Civil Registration and Vital Statistics System),Mozambique,other,,Government of Mozambique,,2024-08-14-jembi-birth-registration-interoperability
 MOZ,MGDH-births (Hospital Data Management Module for Births Registration),Mozambique,other,,Government of Mozambique,public hospitals and health centres,2024-08-14-jembi-birth-registration-interoperability
 MOZ,e-SiRCEV and MGDH-births interoperability,Mozambique,exchange,,Government of Mozambique with Jembi Health Systems and Saudigitus,"hospitals to civil registration, Inhambane first",2024-08-14-jembi-birth-registration-interoperability
+MOZ,EPTS,EPTS provincial central database,other,OpenMRS-EIP,,,2024-07-24-moz-epts-centralization-in-mozambique-transforming-provincial-health-data
 MRT,"Electronic consultation register (Timbédra, Amourj)",MRT,other,,Ministry of Health with WHO,district,2026-07-17-oms-afro-registre-consultation-electronique-hodh-chargui-gharbi
 MRT,DIGISANTÉ-MR,MRT,other,,Ministry of Health; EU-funded,"primary care, 5 wilayas",2026-04-30-mauritanie-digisante-mr-selection-sites-pilote
 MRT,Integrated digital platform for health institutions and services with centralised health data,MRT,exchange,,Ministry of Health with World Bank,"hospitals, centres, health posts",2026-03-09-mrt-ministere-sante-banque-mondiale-plateforme-numerique-donnees-sante
 MRT,"Digital centre of the Ministry of Health (emergency case tracking, remote consultation)",MRT,other,,Ministry of Health,national,2026-01-28-mrt-ministre-sante-assemblee-systemes-information-sanitaire-hopitaux
 MRT,Health information and digital management systems of model referral hospitals,MRT,other,,Ministry of Health,hospital,2026-01-28-mrt-ministre-sante-assemblee-systemes-information-sanitaire-hopitaux
 MRT,SNIS (Système National d'Information Sanitaire),Mauritania,other,,Ministère de la Santé,national; regional (DRS); circonscription sanitaire,2021-12-14-mrt-arrete-1496-systeme-regional-sante-snis-collecte-donnees
+MRT,DIGISANTE MRT,DIGISANTE MRT,exchange,HL7 FHIR R4,Ministry of Health,,2026-10-27-mrt-how-many-systems-is-your-national-health-program-really-connecting
 MUS,e-Health system (projet national e-Health),Mauritius,other,,Ministry of Health and Wellness; Digital Health Agency; Digital Health Co. Ltd,national,2026-07-12-secteur-public-e-health-couverture-complete-2027
 MUS,e-health system,Mauritius,other,,Ministry of Health and Wellness,hospitals,2026-05-22-public-health-bill-2026-workshop
 MUS,"One Patient, One Record",Mauritius,other,,Ministry of Health and Wellness,,2024-01-29-mus-undp-one-patient-one-record-launch
@@ -205,6 +211,8 @@ MWI,DHIS2 (national HMIS),Malawi,other,DHIS2,Government of Malawi,,2025-10-21 Ut
 NAM,Digital Community System (DCS),Namibia,other,mobile app on phones or tablets,Ministry of Health and Social Services,community health workers to facilities,2026-07-29-namibia-digital-community-system-health-rollout
 NAM,e-Health system,Namibia,other,,Ministry of Health and Social Services,"hospitals, health centres, clinics",2025-05-12-strengthening-namibias-health-system-through-investment-in-infrastructure-digitalisation-and-equity
 NAM,Integrated Human Resources Information System,Namibia,other,,Ministry of Health and Social Services,,2025-05-12-strengthening-namibias-health-system-through-investment-in-infrastructure-digitalisation-and-equity
+NAM,SanteMPI Master Patient Index,Namibia,exchange,SanteMPI,Ministry of Health and Social Services,,2025-01-01-nam-namtac
+NAM,OpenHIM health information exchange,Namibia,exchange,OpenHIM,,,2025-01-01-nam-namtac
 NER,national interoperability layer based on OpenFn,Niger,exchange,OpenFn,Directorate of e-Health with Data.FI Project,,2026-08-13-datafi-linkedin-niger-dhis2-interoperabilite
 NER,national DHIS2-based health information system,Niger,other,DHIS2,,,2026-08-13-datafi-linkedin-niger-dhis2-interoperabilite
 NER,couche nationale d'interopérabilité,Niger,exchange,,"Direction de la e-Santé, Ministère de la Santé et de l'Hygiène publique",,2026-07-08-anp-sante-numerique-schema-directeur-e-sante

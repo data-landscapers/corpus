@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-13-mrt-bluesquare-health-system-interoperability-lessons",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "Bluesquare says the DIGISANTE MRT programme agreed HL7 FHIR R4, a national patient identifier and harmonised terminologies as the foundation for health system interoperability and identified patient, workforce, facility, insurance and pharmaceutical registries plus a DHIS2 export layer; a national steering unit first met in July 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "DIGISANTE MRT interoperability layer",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

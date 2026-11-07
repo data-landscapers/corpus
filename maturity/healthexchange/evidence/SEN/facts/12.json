@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-23-sen-interoperability-in-digital-health-in-west-africa",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "A GIZ-funded feasibility demonstration with Senegal's health ministry had three Senegalese hospital information system vendors (Patient Pro, Eyone, MedSen) test data exchange under IHE standards at the IHE Europe Connectathon 2024, passing about 90% of planned tests.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "IHE interoperability demonstration project",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,44 @@
+{
+ "slug": "2025-01-01-nam-namtac",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "UCSF's NAMTAC page says PTracker automatically submits aggregated data to DHIS2 and the National Data Warehouse, and the warehouse combines data from Quantum EPMS, DHIS2 Core and DHIS2 Tracker.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National Data Warehouse",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "breadth",
+   "value": "wide",
+   "fact": "UCSF's NAMTAC page says the national data warehouse takes data from three systems (Quantum EPMS, DHIS2 Core, DHIS2 Tracker), and an OpenHIM-based health information exchange was developed.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National Data Warehouse",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SanteMPI Master Patient Index",
+   "country_label": "Namibia",
+   "class": "exchange",
+   "platform": "SanteMPI",
+   "owner": "Ministry of Health and Social Services",
+   "tiers": ""
+  },
+  {
+   "system": "OpenHIM health information exchange",
+   "country_label": "Namibia",
+   "class": "exchange",
+   "platform": "OpenHIM",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

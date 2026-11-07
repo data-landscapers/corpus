@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-25-gab-sante-connectee-le-gabon-adopte-l-identifiant-unique-et-le-dossier-med",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "Gabon's Council of Ministers adopted a draft law fixing the interoperability framework of the health information system (SIS), meant to connect public and private health facilities to one digital architecture.",
+   "as_of": "2025-10-23",
+   "date_precision": "day",
+   "system": "Système d'Information de Santé (SIS)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Système d'Information de Santé (SIS)",
+   "country_label": "Gabon",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -21,10 +21,10 @@ Africa CDC's health information exchange guidelines and Smart Africa's digital h
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 7 |
+| 4 Operating | 8 |
 | 3 Established | 13 |
 | 2 Nascent | 22 |
-| 1 Absent | 1 |
+| 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 8 |
 
@@ -49,6 +49,15 @@ Three HIV programme systems exchanged data in routine use in 2026; a national pa
 A national data platform drew on several DHIS2 instances and programme systems in 2026; no identifier matching patients is reported.
 
 - The press release says the NIA national health data warehouse currently integrates data from different DHIS2 instances, program systems and partner datasets (child health, TB, malaria, HIV, facility readiness) for cross-program analysis without modifying the source systems ([source, 2026-08-27](https://www.zenysis.com/news/guinea-bissau-ministry-of-public-health-and-zenysis-sign-five-year-memorandum-of-understanding-to-advance-national-health-intelligence-and-responsible-ai)).
+
+### Kenya: 4 Operating
+
+A national health information exchange was in service across insurance-contracted facilities in 2025; whether records are matched by a national identifier is not known.
+
+- Health Cabinet Secretary Aden Duale said Kenya's Health Information Exchange is operational across all Social Health Authority-contracted facilities, enabling real-time data sharing among hospitals, county governments and the national health system ([source, 2025-08-04](https://peopledaily.digital/news/duale-unveils-real-time-health-data-system-to-fight-hospital-billing-fraud)).
+- Health Cabinet Secretary Aden Duale said Kenya's Health Information Exchange is operational nationally across all SHA-contracted public, private and faith-based facilities, sharing data with county governments and the national health system ([source, 2025-08-04](https://peopledaily.digital/news/duale-unveils-real-time-health-data-system-to-fight-hospital-billing-fraud)).
+- The Ministry of Health says the Health Information Exchange was fully deployed as of December 2024, sharing patient records across health facilities ([source, 2024-12](https://www.the-star.co.ke/news/2025-01-22-moh-182-million-kenyans-registered-under-sha)).
+- The Ministry of Health says the national Health Information Exchange, including Client, Health Care Provider and Health Facility Registries, was fully deployed as of December 2024 ([source, 2024-12](https://www.the-star.co.ke/news/2025-01-22-moh-182-million-kenyans-registered-under-sha)).
 
 ### Niger: 4 Operating
 
@@ -115,13 +124,6 @@ The national patient record fed DHIS2 automatically in 2026; no source names the
 - HMIS Eswatini's Q1 2026 account says in-country developers completed OpenFn training, with automated FHIR-aligned data flows from the CMIS SQL Server environment into DHIS2 as the outcome ([source, 2026-03](https://www.linkedin.com/posts/hmis-eswatini_digitalhealth-eswatini-healthsystems-activity-7444746957228687361-maAL)).
 - The US State Department report says Eswatini's CMIS works through its own data capture as well as interoperability with other relevant systems, and over 90 percent of HIV commodity consumption data is sourced from it ([source, 2026-05](https://www.state.gov/wp-content/uploads/2026/05/An-Update-on-Health-Service-Delivery-Accessible-5.28.2026.pdf)).
 
-### Kenya: 3 Established
-
-A regulator's system was linked with the health information system and a national exchange launched in 2025; no source names three systems exchanging.
-
-- The Cabinet Secretary said regulatory bodies like KMPDC have been fully integrated with the health information system, and Afya Yangu enables patient data portability across facilities ([source, 2025-06-16](https://www.health.go.ke/government-scales-digital-health-reform-drive-accountability-and-efficiency)).
-- The Ministry of Health launched a Health Information Exchange as one of four components, described as real-time secure data exchange between hospitals, counties and national systems; no count of connected systems is given ([source, 2025-08-04](https://www.health.go.ke/ministry-health-launches-biometric-health-identification-advances-digital-health-transformation)).
-
 ### Lesotho: 3 Established
 
 The national medical record system fed DHIS2 by 2025; no source found shows three health systems exchanging data.
@@ -141,6 +143,12 @@ A community health tool exchanged data with DHIS2 from 2025; no source shows thr
 A laboratory system sent viral load results to patient records in over 500 facilities in 2025; no wider exchange is reported.
 
 - C-Saude reports that the laboratory information system DISA sends viral load results automatically to the patient tracking system SESP, covering all provinces with more than 500 facilities and over a million results transmitted in the past 12 months ([source, 2025-10](https://csaude.org.mz/2025/10/29/connecting-health-information-systems-improving-hiv-care/)).
+
+### Namibia: 3 Established
+
+An HIV tracker fed the national reporting system and a data warehouse in 2025; whether exchange reaches across the health system is not known.
+
+- UCSF's NAMTAC page says PTracker automatically submits aggregated data to DHIS2 and the National Data Warehouse, and the warehouse combines data from Quantum EPMS, DHIS2 Core and DHIS2 Tracker ([source, 2025](https://informaticshub.ucsf.edu/node/116)).
 
 ### Somalia: 3 Established
 
@@ -306,13 +314,6 @@ A hospital system joining records, laboratory, pharmacy and civil registration b
 A federated health insurance system linking hospitals, pharmacies and laboratories was being prepared in 2026; no exchange in service is reported.
 
 - Togo First reports a technical workshop on 4-7 May 2026 in Lomé, led by the Ministry of Health with GIZ and World Bank support, chose a federated architecture for the SIIG-AMU so existing platforms keep running while data is exchanged between hospitals, pharmacies, laboratories, managing bodies and insurers; the system is being prepared, with a roadmap and steering mechanisms worked on ([source, 2026-05](https://www.togofirst.com/fr/sante/1305-18956-amu-le-togo-prepare-un-systeme-numerique-unifie-pour-fluidifier-les-soins-et-les-remboursements)).
-
-### Namibia: 1 Absent
-
-The health minister said in 2026 that the country's health systems work in isolation; no exchange under way is reported.
-
-- Health minister Esperance Luvindao said Namibia's health system continues to face fragmented information systems and paper-based records, and that health and civil registration systems often operated in silos ([source, 2026-03-26](https://www.we.com.na/health-we/fragmented-systems-still-hinder-healthcare-as-namibia-pushes-digital-remodel-nmh008500-4-9782)).
-- At the policy launch the health minister said many systems still operate in isolation, giving the example that a system managing HIV services may not connect with patient records or pharmaceutical supply systems ([source, 2026-02-06](https://www.afro.who.int/countries/namibia/news/namibia-launches-national-digital-health-policy-advance-equitable-people-centred-healthcare)).
 
 ### Gabon: Unplaced
 

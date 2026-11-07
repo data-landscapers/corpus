@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "exchange",
-      "stage": "1",
-      "exchange": "none",
+      "stage": "3",
+      "exchange": "inservice",
       "breadth": "",
       "identifier": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NAM-001;NAM-002",
-      "gaps": "No source found since November 2023 says an exchange between health systems is under way.",
-      "note": "The health minister said in February and March 2026 that health systems work in silos (NAM-001, NAM-002): a dated absence, 1. No exchange contracted, built or piloted is reported, so not 2.",
-      "as_at": "2026-11-05"
+      "stage_sources": "NAM-003",
+      "gaps": "UCSF's NAMTAC page (2025) has PTracker submitting data to DHIS2 and a national data warehouse taking data from three systems, which would reach across the system, but the health minister said in February and March 2026 that many systems still work in isolation (NAM-001, NAM-002), so breadth is not settled. No identifier linking records across systems is held.",
+      "note": "Fact 2025: PTracker automatically submits aggregated data to DHIS2 and the national data warehouse, two systems exchanging in routine use, 3. The minister's 2026 remarks on systems working apart leave the breadth across the system unsettled, so not 4.",
+      "as_at": "2026-11-07"
     }
   ]
 }

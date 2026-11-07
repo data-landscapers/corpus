@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-30-zwe-improving-reporting-of-morbidity-and-cause-of-death-in-zimbabwe-with-d",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "DHIS2.org says the Ministry of Health and Child Care, with Global Fund support, is integrating the case-based surveillance system with the NHIS so patient data flows as anonymised indicators in near real time; in June 2026 it was in final testing with go-live expected by end July 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "CBS-NHIS integration",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

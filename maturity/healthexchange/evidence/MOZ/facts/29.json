@@ -1,0 +1,15 @@
+{
+ "slug": "2024-07-24-moz-epts-centralization-in-mozambique-transforming-provincial-health-data",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EPTS",
+   "country_label": "EPTS provincial central database",
+   "class": "other",
+   "platform": "OpenMRS-EIP",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "A single system being centralised; Master Patient Index integration is a later phase and no exchange between systems is stated."
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "exchange",
-      "stage": "3",
+      "stage": "4",
       "exchange": "inservice",
-      "breadth": "",
+      "breadth": "wide",
       "identifier": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-004;KEN-001",
-      "gaps": "No source found names three or more systems exchanging data through the national exchange; the 2025 notice requires onboarding and does not say it was done. No identifier linking records is reported.",
-      "note": "The regulator KMPDC's system is integrated with the health information system and the ministry launched a national exchange in August 2025 (KEN-004, KEN-001): two systems in use, 3. No source names three systems the exchange carries, and the 2025 notice requires onboarding without saying it was done (KEN-003), so not 4.",
-      "as_at": "2026-11-05"
+      "stage_sources": "KEN-005;KEN-006;KEN-007;KEN-008",
+      "gaps": "No source found says patient records are linked through the national ID or a national health identifier: the exchange carries client, provider and facility registries (KEN-007) and was launched with biometric health identification, but no row says records are matched by it.",
+      "note": "Fact 2025-08-04: the Cabinet Secretary said the national health information exchange is operational across all SHA-contracted facilities, and the ministry said it was fully deployed by December 2024: a national exchange in service, 4. No row says records are linked by a national identifier, so not 5.",
+      "as_at": "2026-11-07"
     }
   ]
 }

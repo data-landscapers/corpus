@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-04-nga-fg-rallies-stakeholders-to-build-national-digital-health-backbone",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The Federal Ministry of Health says the Nigeria Digital Health Initiative, launched in March 2024 and endorsed by the National Council on Health in November 2024, includes a Health Information Exchange for data sharing across public and private facilities, to unify DHIS2, SORMAS, NHIA systems, LMIS and electronic medical records, for delivery before May 2027.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Nigeria Digital Health Initiative (Health Information Exchange)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
