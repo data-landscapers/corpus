@@ -1,0 +1,42 @@
+{
+ "slug": "2026-09-30-ner-connecting-niger-s-health-information-systems",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "last12",
+   "value": "advancing",
+   "fact": "Workflows automating transfer of STELab laboratory results and CommCare/eCHIS community data into DHIS2 were completed and operational on a Ministry-hosted OpenFn server, with Ministry staff trained in May 2026, per OpenFn.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Niger",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Public Health",
+   "tiers": ""
+  },
+  {
+   "system": "STELab",
+   "country_label": "Niger",
+   "class": "single-function",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "CommCare/eCHIS",
+   "country_label": "Niger",
+   "class": "community",
+   "platform": "CommCare",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

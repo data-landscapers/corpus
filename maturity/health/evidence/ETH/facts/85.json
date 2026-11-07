@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-24-eth-strengthening-ethiopia-s-health-information-system-a-journey-to-unifie",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The Federal Ministry of Health transitioned its HMIS to a unified DHIS2 in 2017 across all regions and programs, per the Ethiopian Journal of Health Development case study.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Ethiopia",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Federal Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

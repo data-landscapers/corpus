@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-23-stp-sistema-de-informacao-da-saude-realiza-sessoes-de-formacao-de-capacita",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The Ministry of Health of Sao Tome and Principe says DHIS2, developed by its Health Information System unit, is the country's main health data management platform.",
+   "as_of": "2024-01-23",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

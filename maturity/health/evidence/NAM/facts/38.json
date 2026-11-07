@@ -1,0 +1,23 @@
+{
+ "slug": "2025-01-01-nam-namtac",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PTracker",
+   "country_label": "Namibia",
+   "class": "tracker",
+   "platform": "OpenMRS 2.6",
+   "owner": "Ministry of Health and Social Services",
+   "tiers": ""
+  },
+  {
+   "system": "Quantum EPMS",
+   "country_label": "Namibia",
+   "class": "tracker",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Only programme-specific (PMTCT, HIV) systems and a data warehouse are described; no general HMIS or EMR fact."
+}

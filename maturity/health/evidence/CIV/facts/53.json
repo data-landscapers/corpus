@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-27-civ-himss-eurasia-2025-franck-simon-blehiri-expose-le-succes-du-modele-ivo",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "tiers",
+   "value": "T3;T4",
+   "fact": "The Directorate of IT and Digital Health (DISD) says the computerised patient record has been extended to first-contact health establishments (ESPC), the primary tier.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Dossier Patient Informatise (DPI)",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dossier Patient Informatise (DPI)",
+   "country_label": "Cote d'Ivoire",
+   "class": "emr",
+   "platform": "",
+   "owner": "ministry",
+   "tiers": "T3;T4"
+  }
+ ],
+ "note": ""
+}

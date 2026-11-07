@@ -246,14 +246,15 @@ The ministry signed a partnership for electronic medical records in its hospital
 
 ### Cote d'Ivoire: 2 Nascent
 
-The ministry's patient record ran in one general hospital from 2024 and was deployed at 268 establishments by 2026; use across hospitals is not known.
+The ministry's patient record was used in 258 facilities of unstated type in 2026; use by most hospitals or by primary clinics is not known.
 
 *Advancing.*
 
 - The head of the PAPE Digitalisation project management unit told the project's steering committee on 25 March 2025 that the first phase had connected 268 health establishments to the Système d'Information Hospitalier (SIH) and the Dossier Patient Informatisé (DPI), as reported by the health ministry's DISD; the document gives no denominator and does not say which tiers the 268 are, and it names access to rural areas and scaling up as remaining challenges ([source, 2025-03-25](https://disd.ci/digitalisation-du-systeme-de-sante-en-cote-divoire-le-comite-de-pilotage-du-projet-pape-digitalisation-fait-le-point/)).
 - The health ministry's DISD reports that the Dossier Patient Informatisé (DPI) has been operational at the Hôpital Général de Ferkessédougou since 16 August 2024, after a deployment mission of 4 to 25 August 2024, and that all the hospital's services, including surgery, paediatrics and the admissions office, use it to register and follow patients ([source, 2024-08-16](https://disd.ci/deploiement-reussi-du-dossier-patient-informatise-a-lhg-de-ferkessedougou-une-etape-cruciale-vers-la-digitalisation-des-soins/)).
 - At the Hôpital Général de Ferkessédougou the DPI platform is installed on the hospital's local server and used in every hospital service for registering and following patients from 16 August 2024, every service having been equipped with computers and a local network put in, according to the DISD; the mission recommended more tablets for some services ([source, 2024-08-16](https://disd.ci/deploiement-reussi-du-dossier-patient-informatise-a-lhg-de-ferkessedougou-une-etape-cruciale-vers-la-digitalisation-des-soins/)).
-- The health minister, presenting his department's 2023 achievements to the health sector coordination meeting of 25 July 2024, said the hospital information system (SIH) and the Dossier Patient Informatisé (DPI) had been installed in 193 health establishments, centralising patients' medical and administrative information, as reported by WHO's country office; no denominator is given and the tiers of the 193 are not stated ([source, 2023](https://www.afro.who.int/fr/countries/cote-divoire/news/mecanisme-de-coordination-du-secteur-de-la-sante-les-partenaires-techniques-et-financiers-ptfs-du)).
+- Afrimag reports that the PAPE programme deployed the hospital information system (SIH) and computerised patient file (DPI) in 268 health facilities in Cote d'Ivoire, including 9 of 15 national hospitals, giving tracking of each patient ([source, 2026-10-16](https://afrimag.net/cote-divoire-administration-ouattara-fixe-le-cap-dune-economie-numerique-dici-2029/)).
+- Digital Mag, citing officials of the health ministry's informatics and digital health directorate (DISD), says 258 health facilities of unstated type use the computerised patient record, alongside 390 on a hospital information system ([source, 2026-10-14](https://digitalmag.ci/sante-numerique-vers-une-interoperabilite-dans-le-systeme-de-sante-en-cote-divoire/)).
 
 ### DR Congo: 2 Nascent
 
@@ -394,10 +395,13 @@ One Bamako hospital records care electronically as it happens (2026), and 27 com
 
 ### Mauritania: 2 Nascent
 
-One pilot health centre, Sebkha, had digitised its patient records in 2022; nothing shows whether it continues or has spread.
+One health centre digitised its records in 2022, and 12 centres were chosen in 2026 to pilot a shared record; wider use is not known.
+
+*Advancing.*
 
 - AMI reports the Ministry of Health's secretary general visiting the Sebkha health centre in Nouakchott-Ouest, which he called a pilot centre that has digitised patients' health records and a model for all the country's health and hospital facilities, and saying the whole patient pathway from consultation to discharge would be fully digital by 2025; the page carries no date, so dated to its published year, 2022 ([source, 2022](https://ami.mr/fr/archives/209725)).
 - AMI reports that patients' health records have been digitised at one health centre, that of the Sebkha district in Nouakchott-Ouest, described as a pilot; no other facility is named; the page carries no date, so dated to its published year, 2022 ([source, 2022](https://ami.mr/fr/archives/209725)).
+- Bluesquare says 12 of the 21 health centres assessed across Nouakchott, Trarza and Brakna are confirmed as pilot sites for OpenClinic GA, the recommended shared primary care record, ahead of a first deployment at Dar Naim health centre ([source, 2026-10-13](https://www.bluesquarehub.com/health-system-interoperability-governance-technical-lessons/)).
 
 ### Mauritius: 2 Nascent
 

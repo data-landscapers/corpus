@@ -1,0 +1,17 @@
+{
+ "slug": "2024-05-21-mli-sustaining-quality-partners-earn-recognition-for-health-data-quality",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "tiers",
+   "value": "T2;T3",
+   "fact": "The Ministry of Health and Social Development competition, with USAID's CHISU programme, recognised community health centres, reference health centres and hospitals for the quality of 2023 routine malaria data they submitted to DHIS2.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

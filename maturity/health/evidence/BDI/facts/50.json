@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-bdi-burundi-2026-cam-report-synthesis",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SNIS (DHIS2)",
+   "country_label": "SNIS Burundi",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Public Health",
+   "tiers": ""
+  }
+ ],
+ "note": "The report scores national data quality but does not state tiers, where data is digitised, clinic shares or ownership."
+}

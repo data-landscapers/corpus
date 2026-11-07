@@ -1,0 +1,36 @@
+{
+ "slug": "2026-02-16-sdn-sudan-has-launched-a-five-year-digital-health-transformation-strategy",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The Federal Ministry of Health unveiled a 2026-2030 national health recovery strategy that prioritises digital transformation through DHIS2, per DHIS2's post.",
+   "as_of": "2026-02-16",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "governance",
+   "value": "plan:current",
+   "fact": "The 2026-2030 national health recovery strategy puts DHIS2 at the core of the digital health system and aims to connect all health facilities through it.",
+   "as_of": "2026-02-16",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Sudan",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Federal Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

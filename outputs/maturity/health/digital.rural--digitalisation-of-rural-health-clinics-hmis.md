@@ -364,9 +364,12 @@ Clinics report on paper, and district officers enter their monthly forms into th
 
 A 2023 ministry guide has health centres enter their monthly reports into the national system; no figure shows how many do.
 
+*Advancing; Community integrated.*
+
 - The health ministry's monitoring guide sets the circuit as: each health establishment fills a standard monthly activity report, validates it internally and keys it into DHIS2, the CSI entering its monthly report by the 15th of the following month and its notifiable-disease data each Monday; this is the prescribed procedure, not a measured practice ([source, 2023-12](https://p4h.world/app/uploads/2024/02/Guide-de-suivi-evaluation-du-PDSS_2022-2026_MoH_2023.x69485.pdf)).
 - The guide states that every health establishment, public and private, civil and military, keys its monthly report into DHIS2, naming integrated health centres (CSI) and hospitals as data sources without separating hospital levels, while health posts (cases de santé) and private structures send their data to their CSI by the 10th, where it is checked and keyed ([source, 2023-12](https://p4h.world/app/uploads/2024/02/Guide-de-suivi-evaluation-du-PDSS_2022-2026_MoH_2023.x69485.pdf)).
 - The guide gives no count or share of CSIs keying their own reports; it gives, from the 2021 statistical yearbook, a CSI SNIS report completeness rate of 97.90% and a timeliness rate of 54.63% for 2021, defined as reports transmitted over reports expected, with targets of 100% and 75% by 2026 ([source, 2021](https://p4h.world/app/uploads/2024/02/Guide-de-suivi-evaluation-du-PDSS_2022-2026_MoH_2023.x69485.pdf)).
+- Workflows automating transfer of STELab laboratory results and CommCare/eCHIS community data into DHIS2 were completed and operational on a Ministry-hosted OpenFn server, with Ministry staff trained in May 2026, per OpenFn ([source, 2026-05](https://www.openfn.org/spotlight/connecting-nigers-health-information-systems-with-datafi)).
 
 ### Nigeria: 3 Established
 

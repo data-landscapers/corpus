@@ -43,3 +43,4 @@ SSD,DHIS2,DHIS2,hmis,DHIS2,Ministry of Health,data entry and uploading at county
 SSD,Master health facility list,master health facility list with GPS coordinates,exchange,,"Ministry of Health, with WHO; under development",,2021-01-01-ssd-heath-service-monitoring-in-south-sudan-use-of-technology-for-monitori
 SSD,Bahmni EMR,EMR,emr,Bahmni,PEPFAR-supported initiative,Juba Teaching Hospital; Nimule Hospital,2026-03-01-ssd-icap-art-e-register
 SSD,ART E-register,ART E-register,tracker,OpenMRS 3.x,ICAP at Columbia University with the Ministry of Health; development partner IntelliSOFT Consulting; funded by PEPFAR through CDC,"four hospitals and one primary health care centre (Munuki PHCC), in three states; no expansion planned in FY26",2026-03-01-ssd-icap-art-e-register
+SSD,DHIS2,"DHIS2 (national HIS, rolled out 2019)",hmis,DHIS2,Ministry of Health,,2026-05-01-ssd-evaluating-the-role-of-the-health-information-system-infrastructure-in

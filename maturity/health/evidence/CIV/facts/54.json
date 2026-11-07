@@ -1,0 +1,31 @@
+{
+ "slug": "2025-01-01-civ-renforcement-du-systeme-d-information-de-sante",
+ "facts": [],
+ "systems": [
+  {
+   "system": "OpenELIS",
+   "country_label": "Cote d'Ivoire",
+   "class": "single-function",
+   "platform": "OpenELIS Global",
+   "owner": "ministry of health (DIS, DISD), with I-TECH CIV",
+   "tiers": ""
+  },
+  {
+   "system": "SIGDEP-3",
+   "country_label": "Cote d'Ivoire",
+   "class": "tracker",
+   "platform": "",
+   "owner": "ministry of health",
+   "tiers": ""
+  },
+  {
+   "system": "Patient Identity Management (PIM)",
+   "country_label": "Cote d'Ivoire",
+   "class": "exchange",
+   "platform": "",
+   "owner": "I-TECH CIV",
+   "tiers": ""
+  }
+ ],
+ "note": "Only laboratory, HIV tracker and identity-layer systems named; no HMIS or EMR fact."
+}

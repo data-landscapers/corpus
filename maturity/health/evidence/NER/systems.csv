@@ -33,3 +33,6 @@ NER,Dossier Électronique du Patient,Dossier Electronique du Patient (DEP) / Dos
 NER,Système National d'Information Hospitalier,Système National d'Information Hospitalier,emr,,Ministère de la Santé Publique,"planned, hospitals",2019-01-01-niger-strategie-nationale-e-sante
 NER,plateforme e-surveillance,plateforme e-surveillance,single-function,,Ministère de la Santé Publique,,2019-01-01-niger-strategie-nationale-e-sante
 NER,projet national de télémédecine,projet national de télémédecine,enabling,,Ministère de la Santé Publique,,2019-01-01-niger-strategie-nationale-e-sante
+NER,DHIS2,Niger,hmis,DHIS2,Ministry of Public Health,,2026-09-30-ner-connecting-niger-s-health-information-systems
+NER,STELab,Niger,single-function,,,,2026-09-30-ner-connecting-niger-s-health-information-systems
+NER,CommCare/eCHIS,Niger,community,CommCare,,,2026-09-30-ner-connecting-niger-s-health-information-systems

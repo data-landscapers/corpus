@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 NAM,hmis,governance,qualifier,owner:ministry;plan:none;finance:donor,2026-05,NAM-007;NAM-008;NAM-026,NAM-006=owner:ministry;NAM-018=plan:current;NAM-017=owner:ministry,
-NAM,hmis,tiers,coverage,,,,,nothing held
+NAM,hmis,tiers,coverage,,,,,nothing found
 NAM,hmis,digitised,coverage,district,2026-03-26,NAM-004,NAM-015=facility,
 NAM,hmis,last12,qualifier,advancing,2026-02-06,NAM-016;NAM-019,,
 NAM,hmis,clinics,coverage,count:90,2025-05-06,NAM-020,NAM-005=none,

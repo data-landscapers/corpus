@@ -1,0 +1,26 @@
+{
+ "slug": "2026-09-01-tgo-togo-consolidation-et-harmonisation-des-donnees-de-sante-dans-le-dhis2",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "HISP WCA reports that the Ministry of Health's Directorate of the National Health Information System and IT (DSNISI) leads the audit and correction of data elements, indicators and metadata in the national SNIS DHIS2, with HISP WCA technical support.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "DHIS2 (SNIS)",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2 (SNIS)",
+   "country_label": "SNIS DHIS2",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health (DSNISI)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

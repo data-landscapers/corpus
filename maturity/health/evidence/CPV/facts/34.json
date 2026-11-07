@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-21-cpv-ccssida-entrega-a-direcao-nacional-da-saude-equipamentos-informaticos",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "The Ministry of Health of Cabo Verde says the Global Fund-financed DHIS2 implementation bought 62 computers, handed to the national health directorate on 12 December 2023 for health delegations and health centres.",
+   "as_of": "2023-12-12",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

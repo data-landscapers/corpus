@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-20-dza-l-algerie-fixe-la-date-de-la-generalisation-du-dossier-medical-numeriq",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The Health Ministry's director general of information systems says the ministry will launch national generalisation of the electronic medical record in summer 2026, and the minister follows each phase personally.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "dossier médical électronique",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "digitised",
+   "value": "shared",
+   "fact": "The article says a single national medical record is created automatically around the national identifier and health professionals can consult it from any health institution in the country, with the rollout still to be generalised in summer 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "dossier médical électronique",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "dossier médical électronique",
+   "country_label": "Algeria",
+   "class": "emr",
+   "platform": "central national database",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

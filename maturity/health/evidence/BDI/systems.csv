@@ -49,3 +49,4 @@ BDI,SIDAInfo,Burundi,tracker,,,,2026-06-18-bdi-automating-hiv-data-exchange-in-b
 BDI,IBIPIMO,Burundi,single-function,,,,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi
 BDI,DHIS2,Burundi,hmis,DHIS2,MINISANTE,,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi
 BDI,SNIS,Burundi SNIS,hmis,,Ministry of Public Health and the Fight against AIDS,,2024-01-01-crs-2-2024010153-2024-appui-au-systeme-national-d-information-sanitaire
+BDI,SNIS (DHIS2),SNIS Burundi,hmis,DHIS2,Ministry of Public Health,,2026-01-01-bdi-burundi-2026-cam-report-synthesis

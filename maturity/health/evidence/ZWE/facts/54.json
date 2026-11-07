@@ -1,0 +1,34 @@
+{
+ "slug": "2026-06-30-zwe-improving-reporting-of-morbidity-and-cause-of-death-in-zimbabwe-with-d",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "DHIS2.org says aggregated national health reporting in Zimbabwe is managed through the DHIS2-based National Health Information System (NHIS), with the Ministry of Health and Child Care leading the work and The Global Fund funding the integration project.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "NHIS",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NHIS",
+   "country_label": "NHIS Zimbabwe",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health and Child Care",
+   "tiers": ""
+  },
+  {
+   "system": "CBS",
+   "country_label": "Case-Based Surveillance Zimbabwe",
+   "class": "tracker",
+   "platform": "DHIS2 Tracker",
+   "owner": "Ministry of Health and Child Care",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

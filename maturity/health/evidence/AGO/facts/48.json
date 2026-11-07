@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-ago-synthesis-report-angola",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "DHIS2 Angola",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The report scores national data quality but does not state tiers, where data is digitised, clinic shares or ownership."
+}

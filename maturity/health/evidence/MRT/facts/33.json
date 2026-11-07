@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-27-mrt-how-many-systems-is-your-national-health-program-really-connecting",
+ "facts": [],
+ "systems": [
+  {
+   "system": "OpenClinic",
+   "country_label": "OpenClinic DIGISANTE MRT",
+   "class": "emr",
+   "platform": "OpenClinic",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "Pilot centres are confirmed but no deployment is stated; the post says OpenClinic is an open-source HIS without describing it as a patient record."
+}

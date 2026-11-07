@@ -21,13 +21,14 @@
       "governance": "plan:current;finance:donor",
       "tiers": "T3",
       "digitised": "",
-      "last12": "",
+      "last12": "advancing",
       "clinics": "pilot",
       "cap": "",
-      "flags": "",
-      "stage_sources": "MRT-019;MRT-020",
-      "gaps": "The only record in use is one pilot health centre, Sebkha, on a fact dated 2022, with nothing later on whether it still runs or has spread; where the record is digitised is not stated. No owner has been found inside the 36 months (MRT-018 is June 2022), no event has been found inside the twelve months, and the two rows of the excluded essay set nothing.",
-      "note": "One pilot health centre with digitised patient records meets stage 2 and no more. Stage 3 needs most T1 and T2 hospitals or primary clinics across some districts, and the evidence names a single facility."
+      "flags": "advancing",
+      "stage_sources": "MRT-019;MRT-020;MRT-025",
+      "gaps": "The only record shown in use is one pilot health centre, Sebkha, on a fact dated 2022, with nothing later on whether it still runs; the 12 OpenClinic GA pilot sites confirmed in October 2026 (MRT-025) await a first deployment. Where the record is digitised is not stated, and no finance or plan is dated in the 36 months.",
+      "note": "Electronic records are in one pilot centre and a pilot of 12 health centres is being prepared: pilot facilities, the stage 2 row. Stage 3 needs most hospitals or primary clinics in some districts using records, and no source shows that.",
+      "as_at": "2026-11-07"
     }
   ]
 }

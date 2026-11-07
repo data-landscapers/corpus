@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-17-sen-docteur-tidjane-gadjaga-le-niveau-de-completude-des-donnees-est-passe",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "digitised",
+   "value": "district",
+   "fact": "Since January 2025 all districts have begun entering health data on the ministry's dedicated platform, says Dr Tidjane Gadjaga, head of the health information division.",
+   "as_of": "2025-06-17",
+   "date_precision": "day",
+   "system": "dedicated health data platform",
+   "class": "hmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

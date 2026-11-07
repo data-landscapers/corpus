@@ -23,6 +23,8 @@ AGO,TB EMR system,TB EMR system,tracker,"custom open-source software in C# and J
 AGO,National TB Program digital database,digital database of the Programa Nacional de Controlo da Tuberculose (PNCT),single-function,,Programa Nacional de Controlo da Tuberculose,"national programme level, collecting aggregated data from the TB network; TB facilities countrywide report on paper",2022-03-24-ago-improving-tb-surveillance-and-patients-quality-of-care-through-improve
 AGO,District Health Information Software 2 (DHIS2),DHIS2,hmis,DHIS2,,described as the health management information system increasingly used by the National TB Program for aggregate data reporting; no tier stated,2022-03-24-ago-improving-tb-surveillance-and-patients-quality-of-care-through-improve
 AGO,ObsCare prototype (electronic clinical record of obstetrics),computerized database of clinical processes / electronic clinical record of obstetrics,emr,"ObsCare, owned by Virtual Care-Systems for Life, developed at the Faculty of Medicine of the University of Porto","doctoral research project, Faculty of Health Sciences of the University of Beira Interior, with the Faculty of Medicine of Universidade Mandume Ya Ndemufayo","one hospital, the Irene Neto Maternity Hospital in Lubango, Huíla (180 beds), in the admission, archive and medical statistics section; prototype under test",2019-11-01-ago-technology-and-hospital-information-system-a-case-of-implementation-of
+AGO,DHIS2,Angola,hmis,DHIS2,Ministry of Health,,2026-07-16-ago-angola-apresenta-estrategia-de-transformacao-digital-da-saude-na-oms
+AGO,DHIS2,DHIS2 Angola,hmis,DHIS2,,,2026-01-01-ago-synthesis-report-angola
 BDI,eLMIS Medexis,eLMIS Medexis,single-function,Medexis,"Ministry of Public Health, with i+Solutions and the Embassy of the Netherlands","all public and faith-based health facilities (956 facilities, rollout complete 2025); extension to private facilities planned (June 2026)",2026-06-26-burundi-elmis-medexis-health-rollout-wearetech
 BDI,DataToCare,"DataToCare, système intégré de gestion des informations de laboratoire (LIS)",single-function,DataToCare (Desktop and Web),"Ministry of Public Health, Direction Nationale des Laboratoires et Imagerie médicale, with UNDP support and Global Fund C19RM financing","nine pilot laboratory sites deployed 18-29 May 2026 (national reference laboratory at INSP, CHUK Kamenge, Hôpital Militaire de Kamenge, ANSS, Kinama health centre, Ngozi and Gitega regional hospitals, Muyinga hospital, Kigutu); 10 instruments connected, 64 planned nationwide",2026-05-29-pnud-digitalisation-laboratoires-datatocare
 BDI,DHIS2,DHIS2,hmis,DHIS2,,"national, down to district level; rural clinics on paper with aggregates entered at district (stated as likely)",2026-03-31 Africa we have a data problem
@@ -73,6 +75,7 @@ BDI,SIDAInfo,Burundi,tracker,,,,2026-06-18-bdi-automating-hiv-data-exchange-in-b
 BDI,IBIPIMO,Burundi,single-function,,,,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi
 BDI,DHIS2,Burundi,hmis,DHIS2,MINISANTE,,2026-06-18-bdi-automating-hiv-data-exchange-in-burundi
 BDI,SNIS,Burundi SNIS,hmis,,Ministry of Public Health and the Fight against AIDS,,2024-01-01-crs-2-2024010153-2024-appui-au-systeme-national-d-information-sanitaire
+BDI,SNIS (DHIS2),SNIS Burundi,hmis,DHIS2,Ministry of Public Health,,2026-01-01-bdi-burundi-2026-cam-report-synthesis
 BEN,DHIS2,National DHIS2,hmis,DHIS2,,aggregate reporting from district level; direct entry in one clinic as a pilot,2026-03-31 Africa we have a data problem
 BEN,carnet de santé digital (dossier patient électronique),carnet de santé digital,emr,,,"none stated; a pledge, not a deployment",2026-03-21-benin-programme-wadagni-talata-2026-2033
 BEN,Alafia.com,plateforme Alafia.com,community,,Ministry of Digital Affairs with the Ministry of Health,"community health workers with tablets, in households and villages; data centralised in real time",2025-11-21-lanouvelletribune-telemedecine-alafia
@@ -189,6 +192,8 @@ CAF,Registres électroniques de la vaccination de routine,registres électroniqu
 CAF,DVD-MT,Data Vaccine District Management Tool (DVDMT),single-function,DVD-MT,"Ministère de la Santé et de la Population, Direction de la Prévention par la Vaccination","district level, for compiling and transmitting immunisation data",2020-11-12-caf-plan-de-relance-de-la-vaccination-de-routine-en-republique-centrafrica
 CAF,SMT,Stock Management Tools (SMT),single-function,SMT,"Ministère de la Santé et de la Population, Direction de la Prévention par la Vaccination",not stated,2020-11-12-caf-plan-de-relance-de-la-vaccination-de-routine-en-republique-centrafrica
 CAF,ODK,Open Data Kit (ODK),single-function,ODK,,collection of disease surveillance data; use described as weak,2020-11-12-caf-plan-de-relance-de-la-vaccination-de-routine-en-republique-centrafrica
+CAF,DHIS2 Tracker,Central African Republic,tracker,DHIS2,Ministry of Health SNIS,,2026-10-15-caf-surveillance-des-maladies-linstitut-pasteur-de-bangui-renforce-ses-cap
+CAF,DHIS2,Central African Republic,hmis,DHIS2,Ministry of Health,T2;T3;T4,2024-08-07-caf-hisp-wca-revitalisation-snis-dhis2
 CIV,dossier patient informatisé,dossier patient informatisé,emr,,,,2026-09-05-civ-numerique-59-services-quick-wins-afriksoir
 CIV,dossier patient informatisé,dossier patient informatisé,emr,,,,2026-09-05-koaci-cote-divoire-ouattara-digital-governance
 CIV,dossier patient informatisé,dossier patient informatisé,emr,,,,2026-09-04-aip-cote-divoire-digital-governance-workshop
@@ -232,6 +237,13 @@ CIV,SIGDEP 2,SIGDEP 2,tracker,,Ministry in charge of health,management of the da
 CIV,DHIS2,"base de données nationale DHIS2, taking the monthly reports of the SIG (Système d'Information et de Gestion)",hmis,DHIS2,"Ministry of health (MSHPCMU), Direction de l'Informatique et de l'Information Sanitaire (DIIS), through its CATSIS unit","keyed at the departmental health directorates for first-contact establishments (ESPC) and by the data managers of general hospitals and regional hospital centres; checked at regional and national level; the report notes weak integration of private, community and other ministries' data",2021-07-01-civ-rapport-annuel-sur-la-situation-sanitaire-rass-2020
 CIV,Systeme d'information hospitalier (SIH),SIH,emr,,,T1,2026-10-16-civ-afrimag-ouattara-administration-numerique-2029
 CIV,Dossier patient informatise (DPI),DPI,emr,,,T1,2026-10-16-civ-afrimag-ouattara-administration-numerique-2029
+CIV,Dossier patient informatisé,Dossier patient informatisé (DPI),emr,,DISD,,2026-10-14-civ-sante-numerique-comment-l-interoperabilite-du-systeme-de-sante-se-met
+CIV,OpenELIS,Laboratory digitisation,single-function,OpenELIS,,,2026-10-14-civ-sante-numerique-comment-l-interoperabilite-du-systeme-de-sante-se-met
+CIV,mSupply,Medicines and health products management,single-function,mSupply,,,2026-10-14-civ-sante-numerique-comment-l-interoperabilite-du-systeme-de-sante-se-met
+CIV,Dossier Patient Informatise (DPI),Cote d'Ivoire,emr,,ministry,T3;T4,2025-11-27-civ-himss-eurasia-2025-franck-simon-blehiri-expose-le-succes-du-modele-ivo
+CIV,OpenELIS,Cote d'Ivoire,single-function,OpenELIS Global,"ministry of health (DIS, DISD), with I-TECH CIV",,2025-01-01-civ-renforcement-du-systeme-d-information-de-sante
+CIV,SIGDEP-3,Cote d'Ivoire,tracker,,ministry of health,,2025-01-01-civ-renforcement-du-systeme-d-information-de-sante
+CIV,Patient Identity Management (PIM),Cote d'Ivoire,exchange,,I-TECH CIV,,2025-01-01-civ-renforcement-du-systeme-d-information-de-sante
 CMR,Digitalised community surveillance (Pandemic Fund project),digitalisation de la surveillance communautaire,single-function,,Ministry of Public Health,"community level, 42 municipalities (planned, 2026-2029)",2026-08-01-pandemic-fund-cmr-2026-record
 CMR,DHIS2,National DHIS2,hmis,DHIS2,,entered at district level from clinics' manual compilations; described as scaled nationally,2026-03-31 Africa we have a data problem
 CMR,OpenMRS / GNU Health pilots,,tracker,OpenMRS; GNU Health,,"pilots in specific regions (East, Centre) for HIV and TB",2026-03-31 Africa we have a data problem
@@ -283,6 +295,7 @@ CMR,Unique patient identification system,CIU (Code Identifiant Unique du Patient
 CMR,Public health events notification system,,single-function,,Ministry of Public Health,planned,2020-01-01-cmr-the-2020-2024-national-digital-health-strategic-plan
 CMR,Telemedicine platform,,enabling,,Ministry of Public Health,planned,2020-01-01-cmr-the-2020-2024-national-digital-health-strategic-plan
 CMR,SCANFORM,Cameroon,tracker,secured smartphones,Ministry of Public Health with ICAP,T3;T4,2026-08-07-cameroon-scanform-smartphones-health-data
+CMR,national DHIS2 instance,Cameroon,hmis,DHIS2,Ministry of Public Health,,2026-01-01-cmr-restructuring-national-health-information-system-software-to-improve-m
 COD,DHIS2,DHIS2,single-function,DHIS2,DRC government with Africa CDC,Ebola-affected health zones,2026-10-02-regional-sciencenigeria-africa-cdc-digital-tools-ebola-drc
 COD,Internet devices including Starlink systems,,enabling,Starlink,Africa CDC,Ebola-affected health zones,2026-10-02-regional-sciencenigeria-africa-cdc-digital-tools-ebola-drc
 COD,Visa Medical,Visa Medical,emr,Visa Medical (Kouma Academy),"Kouma Academy, with Sanofi",not stated for DR Congo; hospitals elsewhere,2026-08-13-guinea-kouma-academy-hospital-digitisation-financing
@@ -395,6 +408,7 @@ COM,Réseau National Numérique de la Santé (RNNS),Réseau National Numérique 
 COM,Réseau national de télémédecine,Réseau national de télémédecine (project P241),enabling,not stated,Ministry of Health (DGS),planned; telemedicine stated as absent in July 2021,2021-07-01-comores-strategie-nationale-sante-numerique-2022-2026
 COM,DHIS2,DHIS2,hmis,DHIS2,,,2026-10-30-com-lagazette-sante-et-numerique-onze-projets
 COM,registre electronique de vaccination,registre electronique de vaccination,tracker,,,,2026-10-30-com-lagazette-sante-et-numerique-onze-projets
+COM,DHIS2,Comoros,hmis,DHIS2,Ministry of Health,,2026-05-21-com-strengthening-vaccination-data-use-culture-integration-of-dvd-mt-into
 CPV,SIMFAR,Sistema Integrado de Monitorização do Mercado Farmacêutico (SIMFAR),single-function,,Entidade Reguladora Independente da Saúde (ERIS),"national; follows the medicines circuit across the whole country, launched 29 July 2026, to be integrated with the customs system",2026-07-30-cabo-verde-simfar-pharmaceutical-market-monitoring-platform
 CPV,Laboratory information management platform (Uma Só Saúde),plataforma para a gestão de informação laboratorial no âmbito de Uma Só Saúde,single-function,"to be developed; LIS/LIMS, HL7/FHIR conformance required",Ministério da Saúde (INSP and GTCIS follow the work; UGPE contracts),"planned for 20 laboratories: 6 INSP, 12 public clinical laboratories, 1 veterinary, 1 INIDA; not yet built",2026-04-28-cabo-verde-tdr-plataforma-informacao-laboratorial-uma-so-saude
 CPV,PDEX,PDEX,exchange,state interoperability platform exposing REST APIs,State of Cabo Verde,"all data interoperability between state institutions, the health ministry's included",2026-04-28-cabo-verde-tdr-plataforma-informacao-laboratorial-uma-so-saude
@@ -455,6 +469,7 @@ DJI,Système National d'Information Sanitaire (SNIS),SNIS,hmis,Excel and ESOPE d
 DJI,DHIS2,portail DHIS2 (also written DIHS2),hmis,DHIS2,"Ministry of Health, DIS","planned for monthly reporting at levels 1, 2 and 3; not functional at the plan's baseline",2020-01-01-dji-plan-national-de-developpement-sanitaire-2020-2024
 DJI,système d'information à base communautaire (SNIS communautaire),SNIS communautaire,community,,Ministry of Health,"planned: a digitised community-based system compatible with or linked to DHIS2; baseline 'No', target 'Yes'",2020-01-01-dji-plan-national-de-developpement-sanitaire-2020-2024
 DJI,Djibouti Fondement Numérique (DFN),Djibouti,enabling,fibre,Ministry of Communication,,2025-06-25-dji-djibouti-mise-sur-la-fibre-optique-pour-transformer-ses-services-publi
+DJI,HIV/TB Tracker,Djibouti,tracker,DHIS2,Department of Health Information Systems and National HIV/TB Program,,2025-06-01-dji-hiv-tb-tracker-launch-in-djibouti
 DZA,Dossier médical électronique (DME),Dossier médical électronique (DME),emr,,Ministry of Health (with the wilaya health directorates),not yet in use; to be rolled out progressively in the health structures of the wilaya of Annaba,2026-08-17-seybousetimes-annaba-health-fibre-emr
 DZA,Fibre-optic connection of health structures,raccordement des structures de santé à la fibre optique,enabling,,"Algérie Télécom, with the Ministry of Health and the Annaba DSP","health structures of the wilaya of Annaba, in progress",2026-08-17-seybousetimes-annaba-health-fibre-emr
 DZA,DEM.DZ EMR,DEM.DZ,emr,,,pilots (e.g. Annaba wilaya) or hospital-focused; not in rural clinics,2026-03-31 Africa we have a data problem
@@ -474,6 +489,7 @@ DZA,Dossier medical electronique,DME,emr,,"Ministry of Health, information syste
 DZA,Dossier medical electronique,DME,emr,,Ministry of Health,,2026-09-08-dza-elwatan-dme-deadline-15-november
 DZA,plateforme numérique de suivi à distance des dossiers médicaux des patients,Remote patient-record monitoring platform,emr,,ministry,,2026-04-11-dz-aps-plateforme-suivi-distance-dossiers-medicaux
 DZA,dossier électronique du patient,Algeria,emr,,Ministry of Health,,2025-10-18-dz-aps-dossier-electronique-patient
+DZA,dossier médical électronique,Algeria,emr,central national database,Ministry of Health,,2026-07-20-dza-l-algerie-fixe-la-date-de-la-generalisation-du-dossier-medical-numeriq
 EGY,Egypt Smart Healthcare Platform,Egypt Smart Healthcare Platform,emr,,Ministry of Health and Population (proposed; discussed with MTS and Inspur),Proposed only: to connect health facilities through a unified network; no tiers stated,2026-09-14-egy-dailynews-unified-platform-patient-records
 EGY,Hospital EMRs,EMR,emr,,,314 hospitals (reports of 2024-2026),2026-03-31 Africa we have a data problem
 EGY,Electronic medical information system at Alexandria primary health care units,,emr,,,Primary health care units in Alexandria (2014),2026-03-31 Africa we have a data problem
@@ -491,6 +507,8 @@ EGY,Electronic health records systems,Electronic health records systems,emr,,"Mi
 EGY,Health Information Exchange (HIE) platform,HIE platform,exchange,HL7 FHIR or similar standards,"Ministry of Health and Population, as key implementer",Planned: healthcare providers and institutions,2024-01-01-egy-mohp-national-health-strategy-2024-2030
 EGY,Telemedicine/telehealth solutions,Telemedicine/telehealth,enabling,,"Ministry of Health and Population, as key implementer",Planned: healthcare facilities,2024-01-01-egy-mohp-national-health-strategy-2024-2030
 EGY,Family health records (paper family files),Family health records / family files,emr,Paper,Ministry of Health and Population family health centres,"Family health centres (primary care); observed at Omrania family health centre, Giza",2020-05-08-egy-mohamed-ehr-model-omrania-family-health-centre
+EGY,DHIS2 malnutrition event tracker,Egypt,tracker,DHIS2,Ministry of Health and Population,"T4: 16 primary care facilities in two governorates, January 2024",2024-01-01-egy-egypt-deploys-dhis2-for-emergency-and-humanitarian-response
+EGY,DHIS2 patient registry for Gaza referrals,Egypt,tracker,DHIS2,Ministry of Health and Population,T1/T2: 30 designated hospitals,2024-01-01-egy-egypt-deploys-dhis2-for-emergency-and-humanitarian-response
 ERI,DHIS2,DHIS2,hmis,DHIS2,,"342 facilities including rural ones (2018), offline decentralised entry",2026-03-31 Africa we have a data problem
 ERI,DHIS2 tracker program,tracker program,tracker,DHIS2,,not stated; implementation described as unclear,2026-03-31 Africa we have a data problem
 ERI,national electronic reporting system (USSD-based),national electronic reporting system,single-function,USSD over mobile networks,Ministry of Health and Ministry of Agriculture,"not stated; recommended for development and deployment, not yet in use (August 2025)",2025-08-16-who-jee-eritrea-mission-report-2025
@@ -568,6 +586,9 @@ ETH,DHIS2,DHIS2,hmis,DHIS2,,"general hospital, keyed from tally sheets",2024-01-
 ETH,SmartCare EMR (later Tena Care),SmartCare; Tena Care,emr,SmartCare,"Federal Ministry of Health; developed by CDC, customised and maintained by Tulane University Technical Assistance Project in Ethiopia (TUTAPE); upgraded in-house at Ayder","two tertiary referral hospitals: functioning at Ayder, failed at St. Paul's",2021-01-01-eth-implementation-challenges-and-perception-of-care-providers-on-electron
 ETH,ECHIS,Ethiopia,community,,Ministry of Health,T4,2026-04-11-eth-ministry-rolls-out-ai-tool-to-support-frontline-health-workers-in-remo
 ETH,national HMIS,Ethiopia HMIS,hmis,,Ministry of Health,,2023-11-08-crs-1601-2023010475-01-2023-dup-2-0-workstream-2-2-digital-tools-and-data-use
+ETH,national HMIS,Ethiopia national HMIS,hmis,,Ministry of Health,,2023-11-08-iati-dac-1601-inv-046277-dup-2-0-workstream-2-2-digital-tools-and-data-use-capabiliti
+ETH,DHIS2,Ethiopia,hmis,DHIS2,Ministry of Health,,2026-01-01-eth-ethiopia-dhis2
+ETH,DHIS2,Ethiopia,hmis,DHIS2,Federal Ministry of Health,,2024-10-24-eth-strengthening-ethiopia-s-health-information-system-a-journey-to-unifie
 GAB,eGabon-SIS (dossier patient informatisé),eGabon-SIS,emr,,"ANINF with the ministries of Health and Defence (project partners, as stated)","several interconnected health facilities, including the military teaching hospitals (HIA); number and tier not stated",2026-06-24-agp-gabon-sante-cloture-projet-egabon-sis
 GAB,DHIS2 Tracker (hypertension and diabetes follow-up),DHIS2 Tracker,tracker,DHIS2 Tracker,"Ministry of Health, national non-communicable disease programme, with WHO technical support",pilot sites in several health structures; extension to four health districts planned by September 2026 and national generalisation in 2027,2026-06-18-gabon-premier-pays-afrique-francophone-dhis2-tracker
 GAB,télé-échographie (eGabon-SIS),eGabon-SIS,enabling,,"Ministry of Health, with World Bank financing and ANINF technical support","health centres in four pilot health departments of Ngounié (Mbigou, Malinga, Mimongo, Mandji-Ndoulou), read remotely at the Centre hospitalier régional de Mouila; installation from 15 April 2026",2026-04-16-ngounie-extension-egabon-sis-quatre-departements
@@ -595,6 +616,7 @@ GAB,Computerised management tools for medicines and health products,outils de ge
 GAB,Tele-echography pilot,projet pilote de télé échographie,enabling,,"SG, Projet SNIS, DNSMI",pilot sites to be evaluated; extension planned to 30 peripheral health facilities,2024-02-23-gab-plan-national-de-developpement-sanitaire-du-gabon-2024-2028
 GAB,Integration or interoperability between DHIS2 and other data systems,,exchange,DHIS2,Projet SNIS,"planned; logistics, community, laboratory, human resources and financial management systems",2024-02-23-gab-plan-national-de-developpement-sanitaire-du-gabon-2024-2028
 GAB,eGabon SIS (système d'information santé),SIS / eGabon SIS,emr,turnkey system supplied by the consortium Tich Consulting – Gladius – BS Gabon; product not named,Ministry of Health (tender); World Bank financing,"contract stage on 16 February 2024; 23 pilot health facilities to be interconnected, tier not stated",2024-02-16-gab-egabon-sis-vers-un-hopital-sans-papier
+GAB,DHIS2 logistics dashboard,Gabon,single-function,DHIS2,Ministry of Health DCSE,,2025-12-01-gab-gabon-hisp-renforce-le-systeme-d-information-sanitaire-pour-une-meille
 GHA,OneHealthEHR,OneHealthEHR,emr,"OneHealthEHR (offline-first, FHIR R4 / HL7)",OneHealthEHR Inc. (private company),"clinics and health centres; seven facilities across Liberia and Ghana, Ghana facilities not named",2026-09-28-lbr-gha-onehealthehr-goes-live
 GHA,DHIMS2,DHIMS2,hmis,DHIS2,,entered at district level from rural clinics' paper tallies,2026-03-31 Africa we have a data problem
 GHA,LHIMS,LHIMS,emr,,,district and regional hospitals and urban facilities in 16 regional capitals; being extended to health centres; not in most rural clinics,2026-03-31 Africa we have a data problem
@@ -1131,6 +1153,8 @@ MRT,SNIS,Système national d'information sanitaire (SNIS),hmis,DHIS2,Ministry of
 MRT,Maurisis,Maurisis,hmis,,Ministry of Health,"local database for SNIS data entry and reporting, moved to a web version; tiers not stated",2021-01-01-mauritanie-plan-national-developpement-sanitaire-pnds-2021-2030-vol1
 MRT,dossier médical électronique,dossier médical électronique,emr,,,planned; pilots to be run and scaled up,2021-01-01-mauritanie-plan-national-developpement-sanitaire-pnds-2021-2030-vol1
 MRT,mHealth pour la santé communautaire,mHealth,community,,,planned; pilots to be run and scaled up,2021-01-01-mauritanie-plan-national-developpement-sanitaire-pnds-2021-2030-vol1
+MRT,OpenClinic,OpenClinic DIGISANTE MRT,emr,OpenClinic,Ministry of Health,,2026-10-27-mrt-how-many-systems-is-your-national-health-program-really-connecting
+MRT,OpenClinic GA,Mauritania,emr,OpenClinic GA,,T3,2026-10-13-mrt-bluesquare-health-system-interoperability-lessons
 MUS,"One Patient, One Record","One Patient, One Record",emr,,,,2026-08-19-ionnews-mauritius-dossiers-medicaux-one-patient-one-record
 MUS,"One Patient, One Record","One Patient, One Record PAS/EHR project",emr,,,"pilot at one regional hospital; extension to health centres, mediclinics and community centres planned (February 2025)",2026-03-31 Africa we have a data problem
 MUS,Integrated Disease Surveillance and Response (IDSR) on DHIS2,Integrated Disease Surveillance and Response (IDSR),single-function,DHIS2,Ministry of Health and Wellness,"primary health care centres, reporting electronically on 11 priority suspected diseases (FY 2024-2025)",2025-10-30-mohw-annual-report-performance-fy2024-2025
@@ -1224,6 +1248,8 @@ NAM,DHIS2,DHIS2,hmis,DHIS2,,"not stated; holds monthly reports from health facil
 NAM,District Health Information System (DHIS2),national health information management system,hmis,DHIS2,"Ministry of Health and Social Services, supported by U.S. CDC",not stated; information said to reach ministry staff from health facilities up to national programmes,2024-10-04-nam-u-s-cdc-namibia
 NAM,COVID-19 electronic data system and dashboards,,single-function,,developed with U.S. CDC support,not stated,2024-10-04-nam-u-s-cdc-namibia
 NAM,Multi-sectoral information management system,MIMS,hmis,,Ministry of Health and Social Services,,2026-05-28-swz-state-dept-health-service-delivery-cmis
+NAM,PTracker,Namibia,tracker,OpenMRS 2.6,Ministry of Health and Social Services,,2025-01-01-nam-namtac
+NAM,Quantum EPMS,Namibia,tracker,,,,2025-01-01-nam-namtac
 NER,national interoperability layer,national interoperability layer,exchange,OpenFn (Open Function),"Directorate of e-Health, with the Data.FI Project and OpenFn developers",national,2026-08-13-datafi-linkedin-niger-dhis2-interoperabilite
 NER,"EHR (strategy component, unnamed)",,emr,,,,2026-07-23-ictworks-african-national-digital-health-strategies-2026
 NER,"interoperability layer (strategy component, unnamed)",,exchange,,,,2026-07-23-ictworks-african-national-digital-health-strategies-2026
@@ -1258,6 +1284,9 @@ NER,Dossier Électronique du Patient,Dossier Electronique du Patient (DEP) / Dos
 NER,Système National d'Information Hospitalier,Système National d'Information Hospitalier,emr,,Ministère de la Santé Publique,"planned, hospitals",2019-01-01-niger-strategie-nationale-e-sante
 NER,plateforme e-surveillance,plateforme e-surveillance,single-function,,Ministère de la Santé Publique,,2019-01-01-niger-strategie-nationale-e-sante
 NER,projet national de télémédecine,projet national de télémédecine,enabling,,Ministère de la Santé Publique,,2019-01-01-niger-strategie-nationale-e-sante
+NER,DHIS2,Niger,hmis,DHIS2,Ministry of Public Health,,2026-09-30-ner-connecting-niger-s-health-information-systems
+NER,STELab,Niger,single-function,,,,2026-09-30-ner-connecting-niger-s-health-information-systems
+NER,CommCare/eCHIS,Niger,community,CommCare,,,2026-09-30-ner-connecting-niger-s-health-information-systems
 NGA,"electronic medical record systems (unnamed, several)",electronic medical record systems,emr,,,"health facilities, tier not stated",2026-09-16-nga-health-ministry-nhtdao-digital-health-data-office
 NGA,Last Mile Vaccine Stock Visibility (LMVSV),LMVSV,single-function,DHIS2,"National Primary Health Care Development Agency (NPHCDA), hosted on an NPHCDA server; technical assistance from VillageReach and Development Delivery Partners","primary health facilities: 13,634 enrolled across 36 states and the FCT by July 2026, 4,855 had reported at least once by 26 July 2026; stock entered at the facility by a focal person, viewed by LGA cold chain officers",2026-08-21-lmvsv-vaccine-last-mile-nigeria
 NGA,OpenLMIS,OpenLMIS,single-function,OpenLMIS,,"all 835 vaccine cold stores, down to LGA level",2026-08-21-lmvsv-vaccine-last-mile-nigeria
@@ -1375,6 +1404,7 @@ RWA,eBuzima,Rwanda,emr,,Ministry of Health,,2026-01-01-rwa-rwanda-digital-health
 RWA,community EMR,Rwanda,community,,Ministry of Health,,2026-01-01-rwa-rwanda-digital-health-case-study
 RWA,eCHIS,Rwanda,community,,Ministry of Health,,2026-01-01-rwa-rwanda-digital-health-case-study
 RWA,eBuzima,Rwanda,emr,,government,T1;T2;T3,2026-10-30-xss-path-digital-records-intelligent-primary-health-care
+RWA,eIDSR,electronic Integrated Disease Surveillance and Response,single-function,DHIS2,,,2024-04-01-rwa-assessment-and-exploratory-analysis-of-indicator-based-surveillance-ib
 SDN,Health Resources and Services Availability Monitoring System (HeRAMS),HeRAMS Sudan,single-function,HeRAMS,WHO with health sector actors,"health service delivery units, reported at state level across 18 states and Abyei",2026-06-02-herams-sudan-health-services-across-states-2026-01
 SDN,Hospital Management System (HMS),نظام إدارة المستشفيات HMS,emr,,Ministry of Health with Ministry of Digital Transformation and Communications,Al-Nao hospital (Khartoum state) and the diagnostic centre of Gedaref hospital; gradual expansion to other states intended,2026-05-11-sudan-health-sector-digitalization-hms-launch
 SDN,Laboratory information management (LIMS) component of the HMS,إدارة معلومات المختبرات (LIMS),single-function,,Ministry of Health with Ministry of Digital Transformation and Communications,the two phase-one hospital sites,2026-05-11-sudan-health-sector-digitalization-hms-launch
@@ -1406,6 +1436,8 @@ SDN,EMR framework (thesis prototype),Electronic Medical Records framework for Su
 SDN,Health Management Information System (DHIS2),HMIS,hmis,DHIS2,Federal Ministry of Health; data entered by the states,almost all 18 states except Khartoum; not in health facilities; malaria indicators only in 2018,2019-04-29-sdn-global-fund-grants-in-the-republic-of-sudan-audit-report-gf-oig-19-010
 SDN,National Medical Supply Fund electronic commodity management information system,electronic commodity management information system; Enterprise Resource Planning system; LMIS,single-function,ERP,National Medical Supply Fund; Khartoum and Gezira run by the state ministries of health,"central and state levels; facilities report stock weekly, six of those visited by telephone",2019-04-29-sdn-global-fund-grants-in-the-republic-of-sudan-audit-report-gf-oig-19-010
 SDN,eVIN,mobile application for health facilities to capture LMIS data,single-function,eVIN mobile application,,"health facilities; planned, not launched at the audit",2019-04-29-sdn-global-fund-grants-in-the-republic-of-sudan-audit-report-gf-oig-19-010
+SDN,DHIS2,Sudan,hmis,DHIS2,Federal Ministry of Health,,2026-02-16-sdn-sudan-has-launched-a-five-year-digital-health-transformation-strategy
+SDN,Hospital Management System (HMS),Sudan HMS,emr,,Ministry of Health; Ministry of Digital Transformation and Communications,,2026-05-11-sdn-ministries-of-health-and-digital-transformation-launch-the-first-phase
 SEN,dossier patient informatisé,dossier patient informatisé,emr,,,,2026-09-08-sen-leral-abdoulaye-ba-ia-outil-concret-dpg
 SEN,ANACoD3,outil d'analyse de la mortalité et des causes de décès (ANACoD3),single-function,ANACoD3 (WHO),"Ministère de la Santé et de l'Hygiène publique, Direction de la planification, de la recherche et des statistiques (DPRS)",,2026-07-24-lesoleil-anacod3-donnees-mortalite
 SEN,EHR (as named in the Stratégie Nationale de Santé Numérique),,emr,,CSSDOS named as lead unit for the strategy,,2026-07-23-ictworks-african-national-digital-health-strategies-2026
@@ -1647,6 +1679,7 @@ SSD,DHIS2,DHIS2,hmis,DHIS2,Ministry of Health,data entry and uploading at county
 SSD,Master health facility list,master health facility list with GPS coordinates,exchange,,"Ministry of Health, with WHO; under development",,2021-01-01-ssd-heath-service-monitoring-in-south-sudan-use-of-technology-for-monitori
 SSD,Bahmni EMR,EMR,emr,Bahmni,PEPFAR-supported initiative,Juba Teaching Hospital; Nimule Hospital,2026-03-01-ssd-icap-art-e-register
 SSD,ART E-register,ART E-register,tracker,OpenMRS 3.x,ICAP at Columbia University with the Ministry of Health; development partner IntelliSOFT Consulting; funded by PEPFAR through CDC,"four hospitals and one primary health care centre (Munuki PHCC), in three states; no expansion planned in FY26",2026-03-01-ssd-icap-art-e-register
+SSD,DHIS2,"DHIS2 (national HIS, rolled out 2019)",hmis,DHIS2,Ministry of Health,,2026-05-01-ssd-evaluating-the-role-of-the-health-information-system-infrastructure-in
 STP,DHIS2,sistema DHIS2,hmis,DHIS2,,,2026-07-29-sao-tome-telanon-dhis2-dcnt-analise-distrital
 STP,Piauí Saúde Digital teleconsultation platform,plataforma de teleconsulta,enabling,Piauí Saúde Digital,"Government of the Brazilian state of Piauí, in partnership with the Sao Tomean authorities","Installed at the Angolares health centre, Caué district, operating from 1 July 2026; to be extended later to Lembá district and the Autonomous Region of Príncipe",2026-06-15-sao-tome-rstp-teleconsulta-piaui-caue
 STP,DHIS2,national health information system,hmis,DHIS2,,Used at district level for aggregates; facility-level training; tablets provided by WHO and UNDP,2026-03-31 Africa we have a data problem
@@ -1791,6 +1824,7 @@ TGO,CAMEG ERP,,single-function,,CAMEG (central medical store),central warehouse;
 TGO,DHIS2,plateforme du SNIS; sous-système de suivi des activités sanitaires de routine,hmis,DHIS2,"Ministère chargé de la santé, DSNISI","USP, CHP, CHR and CHU key their own reports; DPS, DRS and the national SNIS pool verify and validate",2023-10-06-tgo-plan-de-suivi-et-evaluation-du-plan-national-de-developpement-sanitair
 TGO,DHIS2 (community health worker reports),RMA de l'ASC,community,DHIS2,"Ministère chargé de la santé, DSNISI",community health workers (ASC) are to key their monthly report into DHIS2 by the 25th and pass the paper copy to their reference facility; the same DHIS2 instance as the facility reports,2023-10-06-tgo-plan-de-suivi-et-evaluation-du-plan-national-de-developpement-sanitair
 TGO,Surveillance épidémiologique (sous-système du SNIS),Rapport Hebdomadaire d'Activités (RHA),single-function,,,health facilities send the weekly report on paper to the DPS by the following Monday; where it is keyed is not stated in the passages,2023-10-06-tgo-plan-de-suivi-et-evaluation-du-plan-national-de-developpement-sanitair
+TGO,DHIS2 (SNIS),SNIS DHIS2,hmis,DHIS2,Ministry of Health (DSNISI),,2026-09-01-tgo-togo-consolidation-et-harmonisation-des-donnees-de-sante-dans-le-dhis2
 TUN,dossier médical partagé,dossier médical partagé,emr,,Ministry of Health,being generalised nationally after pilot phases; tiers not stated,2026-10-02-tun-tunisienumerique-pacte-national-sante-signe
 TUN,EVAX,plateforme nationale de vaccination « EVAX »,tracker,,,"about 2,000 centres connected; 13 million doses tracked",2026-10-02-tun-tunisienumerique-pacte-national-sante-signe
 TUN,identifiant national de santé,identifiant national de santé,exchange,,Ministry of Health,being generalised nationally after pilot phase,2026-10-02-tun-tunisienumerique-pacte-national-sante-signe
@@ -1825,6 +1859,7 @@ TUN,dossier médical unique et numérisé,dossier médical unique et numérisé;
 TUN,identifiant unique,identifiant unique,exchange,,,not stated; a policy aim to be generalised,2019-01-01-tun-projet-de-politique-nationale-de-sante
 TUN,EVAX,EVAX,tracker,,Ministry of Health,,2024-07-03-tun-unicef-cims-data-centre-evax
 TUN,digitised medical record,Tunisia,emr,,Ministry of Health,,2025-02-21-tun-forum-realites-sur-la-sante-numerique-3500-nouvelles-recrues-et-95-de
+TUN,FIIAPP hospital medico-economic information system,Hospital information system,emr,,,,2026-11-04-tun-sante-numerique-la-tunisie-explore-des-pistes-de-cooperation-avec-l-es
 TZA,electronic medical records (EMRs),EMR,emr,,,"100 percent of national, specialised, zonal and regional referral hospitals; expanding across district hospitals, health centres and dispensaries",2026-09-01-thecitizen-tanzania-digital-health-procurement
 TZA,Afya-Tek,Afya-Tek,community,,Ministry of Health,community level; launched December 2024,2026-09-01-thecitizen-tanzania-digital-health-procurement
 TZA,electronic prescription system,,single-function,,"Ministry of Health (government, in development)",to link public and private healthcare providers; under development,2026-09-01-thecitizen-tanzania-korea-ai-healthcare
@@ -2115,3 +2150,5 @@ ZWE,Malaria Data Integration and Visualization for Eradication (MDIVE),MDIVE,sin
 ZWE,Impilo Electronic Health Record,electronic health record (Impilo) system,emr,,Ministry of Health and Child Care,not stated in the passages,2021-01-01-zwe-national-health-strategy-2021-2025
 ZWE,DHIS2,DHIS2 / HMIS,hmis,DHIS2,Ministry of Health and Child Care,not stated in the passages,2021-01-01-zwe-national-health-strategy-2021-2025
 ZWE,Electronic Logistics Management Information System (eLMIS),eLMIS; LMIS,single-function,,Ministry of Health and Child Care,not stated; planned to link to the electronic health record and DHIS2 and to private sector facilities,2021-01-01-zwe-national-health-strategy-2021-2025
+ZWE,NHIS,NHIS Zimbabwe,hmis,DHIS2,Ministry of Health and Child Care,,2026-06-30-zwe-improving-reporting-of-morbidity-and-cause-of-death-in-zimbabwe-with-d
+ZWE,CBS,Case-Based Surveillance Zimbabwe,tracker,DHIS2 Tracker,Ministry of Health and Child Care,,2026-06-30-zwe-improving-reporting-of-morbidity-and-cause-of-death-in-zimbabwe-with-d

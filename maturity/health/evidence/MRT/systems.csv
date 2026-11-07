@@ -19,3 +19,5 @@ MRT,SNIS,Système national d'information sanitaire (SNIS),hmis,DHIS2,Ministry of
 MRT,Maurisis,Maurisis,hmis,,Ministry of Health,"local database for SNIS data entry and reporting, moved to a web version; tiers not stated",2021-01-01-mauritanie-plan-national-developpement-sanitaire-pnds-2021-2030-vol1
 MRT,dossier médical électronique,dossier médical électronique,emr,,,planned; pilots to be run and scaled up,2021-01-01-mauritanie-plan-national-developpement-sanitaire-pnds-2021-2030-vol1
 MRT,mHealth pour la santé communautaire,mHealth,community,,,planned; pilots to be run and scaled up,2021-01-01-mauritanie-plan-national-developpement-sanitaire-pnds-2021-2030-vol1
+MRT,OpenClinic,OpenClinic DIGISANTE MRT,emr,OpenClinic,Ministry of Health,,2026-10-27-mrt-how-many-systems-is-your-national-health-program-really-connecting
+MRT,OpenClinic GA,Mauritania,emr,OpenClinic GA,,T3,2026-10-13-mrt-bluesquare-health-system-interoperability-lessons

@@ -1,7 +1,7 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-ETH,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2025,ETH-008;ETH-009;ETH-035,ETH-007=plan:current;ETH-030=plan:current;ETH-054=owner:ministry;ETH-055=finance:donor;ETH-017=plan:current;ETH-013=owner:ministry;ETH-014=plan:current;ETH-020=owner:ministry;ETH-034=owner:ministry;ETH-010=owner:ministry;ETH-019=plan:current,
+ETH,hmis,governance,qualifier,owner:ministry;plan:current;finance:donor,2025,ETH-008;ETH-009;ETH-035,ETH-007=plan:current;ETH-030=plan:current;ETH-054=owner:ministry;ETH-055=finance:donor;ETH-017=plan:current;ETH-013=owner:ministry;ETH-014=plan:current;ETH-020=owner:ministry;ETH-034=owner:ministry;ETH-010=owner:ministry;ETH-056=owner:ministry;ETH-058=owner:ministry;ETH-019=plan:current,
 ETH,hmis,tiers,coverage,T1;T2;T3;T4,2025,ETH-011;ETH-012;ETH-032,ETH-015=T1;T2;T3;T4;ETH-022=T1;T2;T3;ETH-018=T1;T2;T3,
-ETH,hmis,digitised,coverage,facility,2025,ETH-016;ETH-023;ETH-028;ETH-033;ETH-036;ETH-046;ETH-050,ETH-029=district,
+ETH,hmis,digitised,coverage,facility,2025,ETH-016;ETH-023;ETH-028;ETH-033;ETH-036;ETH-046;ETH-050,ETH-057=district;ETH-029=district,
 ETH,hmis,last12,qualifier,advancing,2025,ETH-024,,
 ETH,hmis,clinics,coverage,share:95%,2025,ETH-021;ETH-031,ETH-041=count:33000,
 ETH,emr,governance,qualifier,owner:ministry;plan:current;finance:donor,2025-12-23,ETH-004;ETH-005;ETH-027,ETH-026=plan:current;ETH-039=owner:ministry;ETH-040=plan:current;ETH-042=owner:ministry;ETH-043=plan:current;ETH-053=owner:ministry,

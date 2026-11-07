@@ -1,0 +1,15 @@
+{
+ "slug": "2025-06-01-dji-hiv-tb-tracker-launch-in-djibouti",
+ "facts": [],
+ "systems": [
+  {
+   "system": "HIV/TB Tracker",
+   "country_label": "Djibouti",
+   "class": "tracker",
+   "platform": "DHIS2",
+   "owner": "Department of Health Information Systems and National HIV/TB Program",
+   "tiers": ""
+  }
+ ],
+ "note": "The HIV/TB Tracker is a single-programme tracker, noted and not assessed."
+}

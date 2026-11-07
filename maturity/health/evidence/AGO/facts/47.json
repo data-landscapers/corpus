@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-16-ago-angola-apresenta-estrategia-de-transformacao-digital-da-saude-na-oms",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "Health Minister Silvia Lutucuta said the ministry has implemented DHIS2 as the main national health data management platform.",
+   "as_of": "2026-07-15",
+   "date_precision": "day",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Angola",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

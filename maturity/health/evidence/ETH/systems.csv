@@ -63,3 +63,6 @@ ETH,DHIS2,DHIS2,hmis,DHIS2,,"general hospital, keyed from tally sheets",2024-01-
 ETH,SmartCare EMR (later Tena Care),SmartCare; Tena Care,emr,SmartCare,"Federal Ministry of Health; developed by CDC, customised and maintained by Tulane University Technical Assistance Project in Ethiopia (TUTAPE); upgraded in-house at Ayder","two tertiary referral hospitals: functioning at Ayder, failed at St. Paul's",2021-01-01-eth-implementation-challenges-and-perception-of-care-providers-on-electron
 ETH,ECHIS,Ethiopia,community,,Ministry of Health,T4,2026-04-11-eth-ministry-rolls-out-ai-tool-to-support-frontline-health-workers-in-remo
 ETH,national HMIS,Ethiopia HMIS,hmis,,Ministry of Health,,2023-11-08-crs-1601-2023010475-01-2023-dup-2-0-workstream-2-2-digital-tools-and-data-use
+ETH,national HMIS,Ethiopia national HMIS,hmis,,Ministry of Health,,2023-11-08-iati-dac-1601-inv-046277-dup-2-0-workstream-2-2-digital-tools-and-data-use-capabiliti
+ETH,DHIS2,Ethiopia,hmis,DHIS2,Ministry of Health,,2026-01-01-eth-ethiopia-dhis2
+ETH,DHIS2,Ethiopia,hmis,DHIS2,Federal Ministry of Health,,2024-10-24-eth-strengthening-ethiopia-s-health-information-system-a-journey-to-unifie

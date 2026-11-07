@@ -42,3 +42,5 @@ ZWE,Malaria Data Integration and Visualization for Eradication (MDIVE),MDIVE,sin
 ZWE,Impilo Electronic Health Record,electronic health record (Impilo) system,emr,,Ministry of Health and Child Care,not stated in the passages,2021-01-01-zwe-national-health-strategy-2021-2025
 ZWE,DHIS2,DHIS2 / HMIS,hmis,DHIS2,Ministry of Health and Child Care,not stated in the passages,2021-01-01-zwe-national-health-strategy-2021-2025
 ZWE,Electronic Logistics Management Information System (eLMIS),eLMIS; LMIS,single-function,,Ministry of Health and Child Care,not stated; planned to link to the electronic health record and DHIS2 and to private sector facilities,2021-01-01-zwe-national-health-strategy-2021-2025
+ZWE,NHIS,NHIS Zimbabwe,hmis,DHIS2,Ministry of Health and Child Care,,2026-06-30-zwe-improving-reporting-of-morbidity-and-cause-of-death-in-zimbabwe-with-d
+ZWE,CBS,Case-Based Surveillance Zimbabwe,tracker,DHIS2 Tracker,Ministry of Health and Child Care,,2026-06-30-zwe-improving-reporting-of-morbidity-and-cause-of-death-in-zimbabwe-with-d

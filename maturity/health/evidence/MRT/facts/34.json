@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-13-mrt-bluesquare-health-system-interoperability-lessons",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "clinics",
+   "value": "pilot",
+   "fact": "Bluesquare says 12 of the 21 health centres assessed across Nouakchott, Trarza and Brakna are confirmed as pilot sites for OpenClinic GA, the recommended shared primary care record, ahead of a first deployment at Dar Naim health centre.",
+   "as_of": "2026-10-13",
+   "date_precision": "day",
+   "system": "OpenClinic GA",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OpenClinic GA",
+   "country_label": "Mauritania",
+   "class": "emr",
+   "platform": "OpenClinic GA",
+   "owner": "",
+   "tiers": "T3"
+  }
+ ],
+ "note": ""
+}

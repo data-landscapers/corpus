@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-15-caf-surveillance-des-maladies-linstitut-pasteur-de-bangui-renforce-ses-cap",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2 Tracker",
+   "country_label": "Central African Republic",
+   "class": "tracker",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health SNIS",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a surveillance case-tracking training; no tiers, digitisation point or clinic share for the HMIS."
+}

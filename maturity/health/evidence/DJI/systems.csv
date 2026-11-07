@@ -19,3 +19,4 @@ DJI,Système National d'Information Sanitaire (SNIS),SNIS,hmis,Excel and ESOPE d
 DJI,DHIS2,portail DHIS2 (also written DIHS2),hmis,DHIS2,"Ministry of Health, DIS","planned for monthly reporting at levels 1, 2 and 3; not functional at the plan's baseline",2020-01-01-dji-plan-national-de-developpement-sanitaire-2020-2024
 DJI,système d'information à base communautaire (SNIS communautaire),SNIS communautaire,community,,Ministry of Health,"planned: a digitised community-based system compatible with or linked to DHIS2; baseline 'No', target 'Yes'",2020-01-01-dji-plan-national-de-developpement-sanitaire-2020-2024
 DJI,Djibouti Fondement Numérique (DFN),Djibouti,enabling,fibre,Ministry of Communication,,2025-06-25-dji-djibouti-mise-sur-la-fibre-optique-pour-transformer-ses-services-publi
+DJI,HIV/TB Tracker,Djibouti,tracker,DHIS2,Department of Health Information Systems and National HIV/TB Program,,2025-06-01-dji-hiv-tb-tracker-launch-in-djibouti

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-04-tun-sante-numerique-la-tunisie-explore-des-pistes-de-cooperation-avec-l-es",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "Agence Ecofin, citing FIIAPP, says an EU-funded second phase (EUR 1 million, 2015-2017) extended a hospital information system with one medical record per patient to ten more hospitals, reaching 16 hospitals by the end of the programme.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "FIIAPP hospital medico-economic information system",
+   "class": "emr"
+  },
+  {
+   "sub_indicator": "emr",
+   "aspect": "governance",
+   "value": "finance:donor",
+   "fact": "Agence Ecofin says an AFD-backed programme of EUR 27.3 million from 2019 provided for electronic medical records, digital medical archives and telemedicine in public hospitals.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "AFD-supported hospital electronic medical record programme",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FIIAPP hospital medico-economic information system",
+   "country_label": "Hospital information system",
+   "class": "emr",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

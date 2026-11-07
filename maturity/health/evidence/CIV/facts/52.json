@@ -1,0 +1,42 @@
+{
+ "slug": "2026-10-14-civ-sante-numerique-comment-l-interoperabilite-du-systeme-de-sante-se-met",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "clinics",
+   "value": "count:258",
+   "fact": "Digital Mag, citing officials of the health ministry's informatics and digital health directorate (DISD), says 258 health facilities of unstated type use the computerised patient record, alongside 390 on a hospital information system.",
+   "as_of": "2026-10-14",
+   "date_precision": "day",
+   "system": "Dossier patient informatisé",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dossier patient informatisé",
+   "country_label": "Dossier patient informatisé (DPI)",
+   "class": "emr",
+   "platform": "",
+   "owner": "DISD",
+   "tiers": ""
+  },
+  {
+   "system": "OpenELIS",
+   "country_label": "Laboratory digitisation",
+   "class": "single-function",
+   "platform": "OpenELIS",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "mSupply",
+   "country_label": "Medicines and health products management",
+   "class": "single-function",
+   "platform": "mSupply",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

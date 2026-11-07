@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-cmr-restructuring-national-health-information-system-software-to-improve-m",
+ "facts": [],
+ "systems": [
+  {
+   "system": "national DHIS2 instance",
+   "country_label": "Cameroon",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Public Health",
+   "tiers": ""
+  }
+ ],
+ "note": "Says monthly facility data is entered into DHIS2 by facility or district staff, so the level of digital entry is not stated."
+}

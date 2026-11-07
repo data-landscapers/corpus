@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-eth-ethiopia-dhis2",
+ "facts": [
+  {
+   "sub_indicator": "hmis",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The DHIS2 country profile says Ethiopia's Ministry of Health began working toward full national implementation of DHIS2 as its HMIS in 2017, with HISP Ethiopia as technical partner.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "DHIS2",
+   "class": "hmis"
+  },
+  {
+   "sub_indicator": "hmis",
+   "aspect": "digitised",
+   "value": "district",
+   "fact": "The profile says that at many facilities and health posts data is collected on paper forms and then recorded in DHIS2 at the district level.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "DHIS2",
+   "class": "hmis"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHIS2",
+   "country_label": "Ethiopia",
+   "class": "hmis",
+   "platform": "DHIS2",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

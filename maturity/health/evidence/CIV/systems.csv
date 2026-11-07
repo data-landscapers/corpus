@@ -42,3 +42,10 @@ CIV,SIGDEP 2,SIGDEP 2,tracker,,Ministry in charge of health,management of the da
 CIV,DHIS2,"base de données nationale DHIS2, taking the monthly reports of the SIG (Système d'Information et de Gestion)",hmis,DHIS2,"Ministry of health (MSHPCMU), Direction de l'Informatique et de l'Information Sanitaire (DIIS), through its CATSIS unit","keyed at the departmental health directorates for first-contact establishments (ESPC) and by the data managers of general hospitals and regional hospital centres; checked at regional and national level; the report notes weak integration of private, community and other ministries' data",2021-07-01-civ-rapport-annuel-sur-la-situation-sanitaire-rass-2020
 CIV,Systeme d'information hospitalier (SIH),SIH,emr,,,T1,2026-10-16-civ-afrimag-ouattara-administration-numerique-2029
 CIV,Dossier patient informatise (DPI),DPI,emr,,,T1,2026-10-16-civ-afrimag-ouattara-administration-numerique-2029
+CIV,Dossier patient informatisé,Dossier patient informatisé (DPI),emr,,DISD,,2026-10-14-civ-sante-numerique-comment-l-interoperabilite-du-systeme-de-sante-se-met
+CIV,OpenELIS,Laboratory digitisation,single-function,OpenELIS,,,2026-10-14-civ-sante-numerique-comment-l-interoperabilite-du-systeme-de-sante-se-met
+CIV,mSupply,Medicines and health products management,single-function,mSupply,,,2026-10-14-civ-sante-numerique-comment-l-interoperabilite-du-systeme-de-sante-se-met
+CIV,Dossier Patient Informatise (DPI),Cote d'Ivoire,emr,,ministry,T3;T4,2025-11-27-civ-himss-eurasia-2025-franck-simon-blehiri-expose-le-succes-du-modele-ivo
+CIV,OpenELIS,Cote d'Ivoire,single-function,OpenELIS Global,"ministry of health (DIS, DISD), with I-TECH CIV",,2025-01-01-civ-renforcement-du-systeme-d-information-de-sante
+CIV,SIGDEP-3,Cote d'Ivoire,tracker,,ministry of health,,2025-01-01-civ-renforcement-du-systeme-d-information-de-sante
+CIV,Patient Identity Management (PIM),Cote d'Ivoire,exchange,,I-TECH CIV,,2025-01-01-civ-renforcement-du-systeme-d-information-de-sante
