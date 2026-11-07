@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-23-moz-implementation-status-results-report-digital-governance-and-economy-pr",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The World Bank ISR says a QR code added to birth certificates enhances data exchange with the ID registry, and a new campaign process is integrated with DNIC processes, while the project target is interoperability of birth and health information systems.",
+   "as_of": "2026-03-20",
+   "date_precision": "day",
+   "system": "QR code on birth certificate / DNIC integrated process",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

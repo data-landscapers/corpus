@@ -1,0 +1,27 @@
+{
+ "slug": "2026-02-10-civ-cote-d-ivoire-le-delai-de-delivrance-de-la-carte-nationale-d-identite",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "ONECI reports that 1,291,891 of the 9,323,415 national identification numbers (NNI) attributed in 2025 were issued via the civil registry.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NNI via civil registry",
+   "class": "crvslink"
+  },
+  {
+   "sub_indicator": "link",
+   "aspect": "reported",
+   "value": "reported",
+   "fact": "ONECI gives a figure of 1,291,891 NNIs attributed via the civil registry in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NNI via civil registry",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

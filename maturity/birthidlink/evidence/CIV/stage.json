@@ -6,13 +6,13 @@
       "stage": "3",
       "link": "inservice",
       "events": "",
-      "reported": "",
+      "reported": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "CIV-001;CIV-004",
-      "gaps": "No source found since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
-      "note": "Rebuild: ONECI runs both registers, its civil-status server is linked to the register of persons (2025) and the parent's ID card feeds birth registration (2026). Nothing found says deaths retire ID numbers.",
-      "as_at": "2026-10-25"
+      "stage_sources": "CIV-001;CIV-004;CIV-008",
+      "gaps": "No source found since October 2023 says deaths retire ID numbers, so the 2025 figure for numbers issued via the civil registry cannot lift the cell.",
+      "note": "ONECI runs both registers and issued 1,291,891 ID numbers through the civil registry in 2025, so births feed the ID system. Nothing found says deaths retire ID numbers, so question 3 is unmet and the cell stays at 3.",
+      "as_at": "2026-11-07"
     }
   ]
 }

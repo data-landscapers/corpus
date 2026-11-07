@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-17-sle-93-of-sierra-leone-registered-with-unique-nins",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "NCRA's Director-General says Sierra Leone has a fully integrated Civil Registration, Vital Statistics and Identity Management System managed in its entirety by NCRA, one body holding both registers.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "Integrated Civil Registration, Vital Statistics and Identity Management System",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Civil Registration, Vital Statistics and Identity Management System",
+   "country_label": "Sierra Leone",
+   "class": "crvslink",
+   "platform": "eCRVS",
+   "owner": "NCRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

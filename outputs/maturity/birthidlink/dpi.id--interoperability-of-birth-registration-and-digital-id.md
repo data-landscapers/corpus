@@ -91,6 +91,7 @@ The civil register and the ID system were linked one way or for one event in 202
 
 - ONECI director-general Ago Christian Kodia said a parent's national identity card now supplies the identity information directly on the new birth-registration terminal ([source, 2026-08-11](https://www.oneci.ci/actualites/1786857181)).
 - ONECI, the Office national de l'etat civil et de l'identification, runs both civil status and identification, and its director general said on 16 September 2025 that its digital civil-status server is linked to the Registre national des personnes physiques ([source, 2025-09-16](https://digitalmag.ci/id-day-2025-lidentite-est-le-parapluie-de-tout-individu-dg-oneci/)).
+- ONECI reports that 1,291,891 of the 9,323,415 national identification numbers (NNI) attributed in 2025 were issued via the civil registry ([source, 2025](https://www.koaci.com/article/2026/02/10/cote-divoire/societe/cote-divoire-le-delai-de-delivrance-de-la-carte-nationale-didentite-ramene-a-moins-de-deux-semaines-perspectives-de-la-structure-pour-2026_194217.html)).
 
 ### DR Congo: 3 Established
 
