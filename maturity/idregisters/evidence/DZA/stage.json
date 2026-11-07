@@ -9,10 +9,10 @@
       "matching": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-002;DZA-001",
-      "gaps": "No source found since October 2023 shows three or more main public registers using the national ID number.",
-      "note": "First pass: counted from the four questions by study-ladder-idregisters.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "DZA-001",
+      "gaps": "No source found since October 2023 shows the electoral roll, payroll or business register using the NIN. No matching figure has been found.",
+      "note": "The Interior Ministry says the NIN was adopted in 2023 by bodies including social security and taxation, two main registers. The electoral roll, payroll and business register are not named, so not stage 4.",
+      "as_at": "2026-11-07"
     }
   ]
 }

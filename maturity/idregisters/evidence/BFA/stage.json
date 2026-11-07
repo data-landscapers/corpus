@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "BFA-001",
       "gaps": "No source found since October 2023 shows a public register using the national ID number.",
-      "note": "Reassessed 2026-11-04, no evidence to 2: the minister said in October 2024 that the electoral commission will draw its voter file from the identity base once built. Nothing shows a register using the number yet, so it is not stage 3.",
-      "as_at": "2026-11-04"
+      "note": "The minister said in October 2024 that the electoral commission will draw its voter file from the identity base once built. No register is shown using the number, so not stage 3.",
+      "as_at": "2026-11-07"
     }
   ]
 }

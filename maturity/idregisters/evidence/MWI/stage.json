@@ -1,17 +1,18 @@
 {
- "iso3": "MWI",
- "cells": [
-  {
-   "sub_indicator": "registers",
-   "stage": "4",
-   "register": "inservice",
-   "several": "several",
-   "matching": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MWI-002",
-   "gaps": "No source found since October 2023 gives a figure from checking a register against the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idregisters.py."
-  }
- ]
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "registers",
+      "stage": "4",
+      "register": "inservice",
+      "several": "several",
+      "matching": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MWI-002",
+      "gaps": "No source found since October 2023 gives a figure from checking a register against the ID.",
+      "note": "The EU Delegation names voter registration, social protection targeting and payroll as resting on the National ID (2024), three main registers. No matching figure is held, so not stage 5.",
+      "as_at": "2026-11-07"
+    }
+  ]
 }

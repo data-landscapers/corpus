@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "GHA-004;GHA-003;GHA-002",
       "gaps": "No figure from checking a register against the ID is reported. No electoral or business register has been found using the number.",
-      "note": "Reassessed under Bill's ruling of 2026-11-03 (messages-for-bill 69: social insurance counts as social protection): the civil service payroll requires the Ghana Card PIN from January 2024 (GHA-003), and the card serves as the taxpayer number and the SSNIT social security number (GHA-004), so three of the five main registers use it. Stage 5 needs a figure from matching.",
-      "as_at": "2026-11-03"
+      "note": "Payroll (2024), tax and SSNIT social security (2025) use the Ghana Card number, three main registers under Bill's ruling of 2026-11-03. No matching figure is reported, so not stage 5.",
+      "as_at": "2026-11-07"
     }
   ]
 }

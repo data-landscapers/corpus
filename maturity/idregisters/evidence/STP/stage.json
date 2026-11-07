@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "STP-001;STP-002",
-      "gaps": "No source found since October 2023 says: is one public register keyed on it.",
-      "note": "First pass: counted from the four questions by study-ladder-idregisters.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source found since October 2023 shows a public register using the identity card number.",
+      "note": "The identity card is to become the base of automatic voter registration through a platform being built (2025, 2026). No register is shown using it, so not stage 3.",
+      "as_at": "2026-11-07"
     }
   ]
 }

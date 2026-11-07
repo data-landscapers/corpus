@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "LBR-001;LBR-004",
-      "gaps": "No source found since October 2023 shows three or more main public registers using the national ID number.",
-      "note": "First pass: counted from the four questions by study-ladder-idregisters.py.",
-      "as_at": "2026-10-18"
+      "gaps": "Only payroll has been found using the NIN; the voter register does not. The one matching figure dates from 2018.",
+      "note": "The government payroll is audited against the registry and carries the NIN (2024), one main register; the voter register is kept apart (2025). No second main register is shown, so not stage 4.",
+      "as_at": "2026-11-07"
     }
   ]
 }

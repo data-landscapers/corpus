@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "NGA-006;NGA-007;NGA-010",
       "gaps": "No source found since October 2023 shows the tax register in use with the NIN, or a third main register; none gives a matching figure.",
-      "note": "Reassessed 2026-11-04: online voter registration anchored on the NIN (July 2026) makes the electoral roll a second main register beside the National Social Register. The tax register is only due to use the NIN, so three are not shown.",
-      "as_at": "2026-11-04"
+      "note": "The National Social Register (2023, 2025) and online voter registration (2026) use the NIN, two main registers. The tax register is only due to use it, so not stage 4.",
+      "as_at": "2026-11-07"
     }
   ]
 }

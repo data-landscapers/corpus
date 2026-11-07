@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "UGA-001;UGA-003;UGA-010",
       "gaps": "No source found since October 2023 gives a figure from checking a register against the ID.",
-      "note": "Reassessed 2026-11-04, 3 to 4: the voter register compiled from NIRA's biometric data (October 2025) is a third main register beside the SAGE grant (2025) and the tax records linked to NINs (2026). No matching figure is held.",
-      "as_at": "2026-11-04"
+      "note": "The SAGE grant (2025), the voter register (2025) and tax records (2026) use the NIN, three main registers. The 2.13 million NINs mapped to tax numbers is a linking count with no finding from the check, so not stage 5.",
+      "as_at": "2026-11-07"
     }
   ]
 }

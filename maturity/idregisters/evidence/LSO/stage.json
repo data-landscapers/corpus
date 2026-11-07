@@ -9,10 +9,10 @@
       "matching": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LSO-001;LSO-002",
-      "gaps": "No source found since October 2023 shows three or more main public registers using the national ID number.",
-      "note": "First pass: counted from the four questions by study-ladder-idregisters.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "LSO-002;LSO-004;LSO-001",
+      "gaps": "No source found since October 2023 shows a third main register using the ID number. No matching figure has been found.",
+      "note": "The voters' roll is registered on the national ID (2024, 2026) and the minister credits legal identity with cleaning the payroll (2025): two main registers at most. No third is shown, so not stage 4.",
+      "as_at": "2026-11-07"
     }
   ]
 }

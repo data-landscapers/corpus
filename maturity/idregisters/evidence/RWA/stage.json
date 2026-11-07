@@ -9,10 +9,10 @@
       "matching": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "RWA-001;RWA-002",
-      "gaps": "No source found since October 2023 shows three or more main public registers using the national ID number.",
-      "note": "First pass: counted from the four questions by study-ladder-idregisters.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "RWA-002;RWA-003;RWA-001",
+      "gaps": "No source found since October 2023 shows the tax register, a social registry or the business register using the ID number. No matching figure has been found.",
+      "note": "Voters are registered from the ID (2024) and the public-service payroll verifies the ID (2026): two main registers. No third is shown, so not stage 4.",
+      "as_at": "2026-11-07"
     }
   ]
 }

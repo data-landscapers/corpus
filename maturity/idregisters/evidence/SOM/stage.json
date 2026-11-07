@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SOM-001",
-      "gaps": "No source found since October 2023 says: is one public register keyed on it.",
-      "note": "First pass: counted from the four questions by study-ladder-idregisters.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source found since October 2023 shows a public register using the national ID number.",
+      "note": "The payroll's link to the national ID was directed in August 2026, with a pilot from October 2026. No register is shown using the number, so not stage 3.",
+      "as_at": "2026-11-07"
     }
   ]
 }

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "TZA-004;TZA-003",
       "gaps": "No source found since October 2023 gives a figure from checking a register against the ID.",
-      "note": "The government spokesman says the ID number is used for taxpayer registration, TASAF social services and business registration (2026), three main registers. No figure from matching has been found.",
-      "as_at": "2026-10-23"
+      "note": "Tax, TASAF social protection and business registration use the ID number (2026), three main registers. The 8.4 million tax numbers registered with ID numbers is a registration count, not a matching figure, so not stage 5.",
+      "as_at": "2026-11-07"
     }
   ]
 }

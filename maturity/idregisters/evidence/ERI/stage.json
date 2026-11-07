@@ -1,17 +1,18 @@
 {
- "iso3": "ERI",
- "cells": [
-  {
-   "sub_indicator": "registers",
-   "stage": "no evidence",
-   "register": "",
-   "several": "",
-   "matching": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether public registers use the national ID number.",
-   "note": "First pass: counted from the four questions by study-ladder-idregisters.py."
-  }
- ]
+  "iso3": "ERI",
+  "cells": [
+    {
+      "sub_indicator": "registers",
+      "stage": "no evidence",
+      "register": "",
+      "several": "",
+      "matching": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found says whether public registers use the national ID number.",
+      "note": "No row on this sub-indicator is held, so no stage is set.",
+      "as_at": "2026-11-07"
+    }
+  ]
 }

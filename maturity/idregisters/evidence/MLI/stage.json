@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MLI-001;MLI-002",
       "gaps": "No source found since October 2023 shows a second main register using NINA, or a figure from matching.",
-      "note": "Reassessed 2026-11-04, no evidence to 3: voters are enrolled automatically from NINA holders (2025) and the electoral lists use NINA as the voter's identifier (2026). No other main register is shown, so it is not stage 4.",
-      "as_at": "2026-11-04"
+      "note": "Voters are enrolled from NINA holders (2025) and the electoral lists use NINA as the identifier (2026), one main register. No other main register is shown, so not stage 4.",
+      "as_at": "2026-11-07"
     }
   ]
 }

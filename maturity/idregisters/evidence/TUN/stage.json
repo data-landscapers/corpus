@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TUN-001",
-      "gaps": "No source found since October 2023 shows three or more main public registers using the national ID number.",
-      "note": "First pass: counted from the four questions by study-ladder-idregisters.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No main register has been found using the IUC. No matching figure has been found.",
+      "note": "Ministries' health, social and pupil identifiers are linked to the IUC in a central correspondence table (2026), read as use as linked tax records are elsewhere. No main register is named as using it, so not stage 4.",
+      "as_at": "2026-11-07"
     }
   ]
 }

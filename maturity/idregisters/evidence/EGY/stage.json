@@ -9,10 +9,10 @@
       "matching": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-001;EGY-003;EGY-004",
-      "gaps": "The electoral roll and the state payroll's tax calculation use the national number; no source found since October 2023 shows a third main register (social protection, business or the tax register as a whole) using it.",
-      "note": "Reassessed on the Tax Authority's July 2026 statement that payroll tax for 12 million state employees runs on the national number: two main registers are held, not three. The vendor page on integration with the social solidarity ministry does not say that ministry's register uses the number.",
-      "as_at": "2026-10-22"
+      "stage_sources": "EGY-003;EGY-004",
+      "gaps": "No third main register has been found using the national number. No figure from checking a register against the ID has been found.",
+      "note": "The electoral roll (2025) and state payroll tax (2026) use the national number, two main registers. The vendor page naming social insurance does not say that register uses the number, so not stage 4.",
+      "as_at": "2026-11-07"
     }
   ]
 }

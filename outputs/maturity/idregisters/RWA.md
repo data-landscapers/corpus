@@ -2,12 +2,12 @@
 
 ## Use by other systems
 
-**Register keyed on ID.** [The IPPIS Rwanda developer page says its API gives partner systems public-servant identity profiles including NID verification](<https://www.api.ippis.rw/>). [The High Commission of Rwanda in Nigeria says everyone aged 18 or over with a Rwandan national ID card is automatically registered on the voters' list](<https://www.rwandainnigeria.gov.rw/index.php?eID=dumpFile&f=101349&t=f&token=beb4565a7b4f20efef3e58d831d4f6d89bc46150>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Register keyed on ID.** Rwanda registers voters from the national ID. [The High Commission in Nigeria said in May 2024 that every Rwandan aged 18 or over with an ID card is registered automatically](<https://www.rwandainnigeria.gov.rw/index.php?eID=dumpFile&f=101349&t=f&token=beb4565a7b4f20efef3e58d831d4f6d89bc46150>). [The electoral commission said every such ID holder was on the final voters' list of 30 June 2024](<https://english.news.cn/africa/20240630/d53b82a4596a423cb1b5a72c86614444/c.html>). [The public-service payroll system, IPPIS, offers partner systems staff identity profiles with ID verification](<https://www.api.ippis.rw/>), its developer page says.
 
-**Main registers.** No source found since October 2023 shows three or more main public registers using the national ID number. The nearest held fact: [the one given above](<https://www.api.ippis.rw/>).
+**Main registers.** Two main registers are shown: the voters' roll and the public-service payroll. No source found since October 2023 shows the tax register, a social registry or the business register using the ID number. [The IPPIS developer page](<https://www.api.ippis.rw/>) dates from October 2026.
 
-**Matching reported.** No source found since October 2023 gives a figure from checking a register against the ID. The nearest held fact: [the one given above](<https://www.api.ippis.rw/>).
+**Matching reported.** No figure from checking a register against the ID has been found. [The electoral commission](<https://english.news.cn/africa/20240630/d53b82a4596a423cb1b5a72c86614444/c.html>) gave no count of records matched or removed.
 
 ***Also on file***. [Single Digital ID (SDID)](<https://www.ktpress.rw/2026/05/with-rwandas-new-digital-id-you-will-control-everything-anyone-sees/>).
 
-***Not found***. No source found since October 2023 shows three or more main public registers using the national ID number.
+***Not found***. No source found since October 2023 shows a third main register using the ID number. No figure from checking a register against it has been found.

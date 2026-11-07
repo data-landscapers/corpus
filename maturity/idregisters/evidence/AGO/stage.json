@@ -9,10 +9,10 @@
       "matching": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "AGO-001;AGO-003",
-      "gaps": "No source found since October 2023 shows three or more main public registers using the national ID number.",
-      "note": "First pass: counted from the four questions by study-ladder-idregisters.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "AGO-001;AGO-003;AGO-005",
+      "gaps": "No third main register has been found using the number; the 2026 integration plan for other registries does not say they will use it. No matching figure has been found.",
+      "note": "The electoral roll is drawn from the identity base (2026) and the ID number is also the tax number (2025): two main registers, not three. No matching figure is held.",
+      "as_at": "2026-11-07"
     }
   ]
 }

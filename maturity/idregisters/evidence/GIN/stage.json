@@ -1,17 +1,18 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "registers",
-   "stage": "2",
-   "register": "underway",
-   "several": "",
-   "matching": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GIN-001",
-   "gaps": "No source found since October 2023 says: is one public register keyed on it.",
-   "note": "First pass: counted from the four questions by study-ladder-idregisters.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "registers",
+      "stage": "2",
+      "register": "underway",
+      "several": "",
+      "matching": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-001",
+      "gaps": "No source found since October 2023 shows a public register using the national ID number.",
+      "note": "The electoral directorate and ONECI signed a convention in January 2026 making the national register of persons the voter file's sole identity source. No source shows the file in use, so not stage 3.",
+      "as_at": "2026-11-07"
+    }
+  ]
 }

@@ -2,7 +2,7 @@
 
 ## Use by other systems
 
-**Register keyed on ID.** [In May 2024 the Principal Secretary said the Maisha number would be the same number used for the ID, the NSSF and the NHIF](<https://www.kenyanews.go.ke/digital-identity-id-roll-out-on-course-ps/>). [The Nation reported in May 2026 that at launch the Maisha number was meant to serve as the personal identification number for the Kenya Revenue Authority and the NSSF](<https://nation.africa/kenya/news/inside-new-reforms-to-curb-birth-certificate-fraud-5463104>).
+**Register keyed on ID.** Kenya planned to use the Maisha number across several registers. [In May 2024 the Principal Secretary said it would be the number used for the ID, the NSSF and the NHIF](<https://www.kenyanews.go.ke/digital-identity-id-roll-out-on-course-ps/>). [In September 2024 Kenya News reported that it would serve as the number for school, NHIF and tax registration](<https://www.kenyanews.go.ke/state-revs-up-maisha-namba-digital-id-awareness-drive/>). [In May 2026 the Nation reported that it was meant at launch to be the tax and NSSF number](<https://nation.africa/kenya/news/inside-new-reforms-to-curb-birth-certificate-fraud-5463104>).
 
 **Main registers.** No source found since October 2023 shows three or more main public registers using the national ID number. The nearest held fact: [the plan for the ID, NSSF and NHIF to share the Maisha number](<https://www.kenyanews.go.ke/digital-identity-id-roll-out-on-course-ps/>).
 

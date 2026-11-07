@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "KEN-002;KEN-001",
       "gaps": "No source found since October 2023 says a public register is keyed on the national ID number.",
-      "note": "The Maisha number was planned to serve as the ID, NSSF, NHIF and tax number (2024, 2026). Nothing found says a register uses it yet.",
-      "as_at": "2026-10-23"
+      "note": "The Maisha number was planned to serve as the ID, NSSF, NHIF and tax number (2024, 2026). No source shows a register using it, so not stage 3.",
+      "as_at": "2026-11-07"
     }
   ]
 }
