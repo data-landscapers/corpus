@@ -1,0 +1,46 @@
+{
+ "slug": "2026-06-08-mwi-malawi-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The guide says the National Digitalization Policy and the Digital Economy Strategy were finalised in 2023/24 and approved by Government.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Digital Economy Strategy",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2026",
+   "fact": "The guide gives the Malawi Digital Economy Strategy a period of 2021-2026.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "Digital Economy Strategy",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "plan",
+   "value": "actions",
+   "fact": "The guide says the strategy sets targets for 2026: internet usage 80 percent, broadband coverage 95 percent, device ownership 80 percent and energy access 20 percent; no costing is stated.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "Digital Economy Strategy",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Economy Strategy",
+   "country_label": "Malawi Digital Economy Strategy 2021-2026",
+   "class": "national",
+   "platform": "",
+   "owner": "Ministry of Information and Digitalization",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,37 @@
+{
+ "slug": "2026-06-01-mus-ministere-des-technologies-de-l-information-et-de-la-communication-une",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2029",
+   "fact": "The ministry's review names the Digital Transformation Blueprint 2025-2029, issued in May 2025 with 84 projects identified.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Digital Transformation Blueprint 2025-2029",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "plan",
+   "value": "actions",
+   "fact": "The ministry's review says the Blueprint turns the budget announcements into a roadmap of 84 identified projects, with no cost stated.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Digital Transformation Blueprint 2025-2029",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "governance",
+   "value": "body:mandated",
+   "fact": "The ministry's review says an inter-ministerial committee for the Blueprint was created in August 2025.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Digital Transformation Blueprint 2025-2029",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

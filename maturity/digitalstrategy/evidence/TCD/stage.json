@@ -10,13 +10,13 @@
       "period": "",
       "plan": "",
       "reporting": "",
-      "last12": "",
+      "last12": "advancing",
       "cap": "",
-      "flags": "",
-      "stage_sources": "TCD-004",
-      "gaps": "Staged on the Chad Digital Strategy Horizon 2030, which the World Bank's 2023 diagnostic recommends adopting (TCD-004); no adoption, text, period, plan or reporting is held for it. The Stratégie nationale de transformation numérique 2020-2030, which ADETIC and others name to 2026 (TCD-001, TCD-006, TCD-008), has no row on its standing or text and may be the same document. The same report's statement of absence (TCD-003) is answered by its own recommendation, so stage 1 does not hold.",
-      "note": "Raised on review from unplaced: a national strategy in preparation is stage 2, as Djibouti's and South Sudan's are on one row of similar age. Stage 3 needs a source's word of adoption and a public text.",
-      "as_at": "2026-11-01"
+      "flags": "advancing",
+      "stage_sources": "TCD-039;TCD-004",
+      "gaps": "A framing meeting on 4 November 2026 opened the drafting of a national digital transformation strategy with UNDP support (TCD-039); no adoption, text, period, plan or reporting is held for it. The World Bank's 2023 diagnostic recommended adopting a Chad Digital Strategy Horizon 2030 (TCD-004), and the Stratégie nationale de transformation numérique 2020-2030 that ADETIC and others name to 2026 (TCD-001, TCD-006, TCD-008) has no row on its standing or text. The same report's statement of absence (TCD-003) is answered by its own recommendation, so stage 1 does not hold.",
+      "note": "Stage 4c 2026-11-07: drafting of a national digital transformation strategy opened on 4 November 2026, so the strategy is in preparation and advancing. Stage 3 needs a source's word of adoption and a public text.",
+      "as_at": "2026-11-07"
     }
   ]
 }

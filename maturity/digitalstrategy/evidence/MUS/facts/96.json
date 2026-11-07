@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-30-mus-mauritius-builds-a-digital-future-with-stronger-ict-trade-data",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "announced",
+   "fact": "The International Trade Centre says Mauritius is pursuing a government-led digital strategy, as outlined in the 2025-26 budget and the upcoming Digital Transformation Blueprint (2025-29).",
+   "as_of": "2025-07-30",
+   "date_precision": "day",
+   "system": "Digital Transformation Blueprint (2025-29)",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Transformation Blueprint (2025-29)",
+   "country_label": "Mauritius",
+   "class": "national",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

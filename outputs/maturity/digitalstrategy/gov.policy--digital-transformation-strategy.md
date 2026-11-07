@@ -260,9 +260,9 @@ Cameroon's 2016 digital plan has lapsed, and a new digital economy strategy was 
 
 *Lapsed; Advancing.*
 
-- The plan, dated May 2016 and prefaced by Prime Minister Philemon Yang as head of government, is called the adopted strategic plan in its monitoring section, with no adopting act named; it covers the digital economy, public administration and enterprises across all ministries ([source, 2016-05](https://www.minpostel.gov.cm/index.php/fr/les-grands-chantiers/138-plan-strategique-cameroun-numerique-2020)).
-- The document is the plan's own full text, 72 pages, published on the MINPOSTEL site and a Cameroonian PDF copy ([source, 2016-05](https://www.minpostel.gov.cm/index.php/fr/les-grands-chantiers/138-plan-strategique-cameroun-numerique-2020)).
-- The plan states its implementation is scheduled over five years, 2016-2020, with targets set for 2020 ([source, 2016-05](https://www.minpostel.gov.cm/index.php/fr/les-grands-chantiers/138-plan-strategique-cameroun-numerique-2020)).
+- The plan, dated May 2016 and prefaced by Prime Minister Philemon Yang as head of government, is called the adopted strategic plan in its monitoring section, with no adopting act named; it covers the digital economy, public administration and enterprises across all ministries ([source, 2016-05](https://www.limko.cm/wp-content/uploads/2021/01/Plan-strategique-Cameroun-Numerique-2020-CM.pdf)).
+- The document is the plan's own full text, 72 pages, published on the MINPOSTEL site and a Cameroonian PDF copy ([source, 2016-05](https://www.limko.cm/wp-content/uploads/2021/01/Plan-strategique-Cameroun-Numerique-2020-CM.pdf)).
+- The plan states its implementation is scheduled over five years, 2016-2020, with targets set for 2020 ([source, 2016-05](https://www.limko.cm/wp-content/uploads/2021/01/Plan-strategique-Cameroun-Numerique-2020-CM.pdf)).
 - The repository gives the time frame of Digital Cameroon 2020 / National Digital Transformation Strategy as 2016 - 2025 ([source, 2025](https://academy.itu.int/research-advocacy-and-convening-platforms/gcbi/repository-national-digital-skills-strategies)).
 - PATNUC's account says a workshop of the project's stakeholders in Yaounde on 3 July 2025 discussed the diagnostic for updating the Plan Cameroun Numerique 2020, and that the next step could come after government approval; no updated plan is stated as adopted ([source, 2025-07-03](https://patnuc.cm/2025/07/04/le-cameroun-trace-ses-sillons-dans-le-digital-avec-le-patnuc/)).
 - The minister said the draft national strategy for developing Cameroon's digital economy, built on the AI consultations, is being finalised, with pillars of infrastructure, data governance, skills, research and responsible AI ([source, 2026-10](https://www.businessincameroon.com/public-management/2610-17054-cameroon-eyes-ai-led-growth-with-new-digital-economy-strategy)).
@@ -278,8 +278,11 @@ Cabo Verde approved a digital economy strategy to 2030 in 2024; no source found 
 
 ### Chad: 2 Nascent
 
-Chad had a new national digital strategy in preparation in 2023; no source found reports its adoption or a public text.
+Chad opened the drafting of a national digital transformation strategy in November 2026; no adopted strategy or public text is known.
 
+*Advancing.*
+
+- A framing meeting on 4 Nov 2026, chaired by the digital economy director-general, opened work on the National Digital Transformation Strategy, with UNDP funding an international firm to support drafting ([source, 2026-11-04](https://camerpressagency.com/la-strategie-nationale-de-transformation-digitale-en-gestation-le-tchad-amorce-son-grand-virage-numerique-avec-lappui-du-pnud/)).
 - The World Bank diagnostic, published 2023, recommends as a high-priority action (R1) to 'Adopt the new "Chad Digital Strategy Horizon 2030"' through an inclusive process convening ministries, industry, civil society and development partners, and that the strategy carry an implementation roadmap and a monitoring and evaluation framework; it does not say the strategy has been adopted, validated or by whom it was drafted; as_of is the document's published year ([source, 2023](https://documents1.worldbank.org/curated/en/099062923114552178/txt/P17712007468b1040987f0e2e23aeb2064.txt)).
 
 ### Congo: 2 Nascent
@@ -356,10 +359,12 @@ Ethiopia's Council of Ministers approved Digital Ethiopia 2030, running to 2030,
 
 ### Gabon: 2 Nascent
 
-Gabon's minister presented a national digitalisation strategy in April 2026 after the 2020-2025 plan ended; no source found says whether it has been adopted.
+Gabon was drafting a national digitalisation strategy for 2025 to 2030 in 2026; whether it has been adopted is not known.
 
 *Advancing.*
 
+- AGP reports that the third COTECH meeting on 13 May 2026, chaired by the digital economy minister, presented the draft Stratégie nationale de Digitalisation et d'Innovation ([source, 2026-05-13](https://agpgabon.ga/gabon-economie-numerique-tenue-de-la-3%e1%b5%89-reunion-du-cotech/)).
+- Digital Economy minister Mark-Alexandre Doumba outlined Gabon's 2025-2030 digital development plan, built on four priorities: infrastructure, public services, cybersecurity and innovation, per ITWeb Africa; no adoption by cabinet or head of state is stated ([source, 2026-06](https://itweb.africa/article/gabon-unveils-133m-digital-economy-drive/mYZRXM9gWpBvOgA8)).
 - Gabonreview reports that at a meeting with state IT directors on 3 April 2026 the digital economy minister presented the main orientations of the national digitalisation strategy, built on five axes (regulatory framework, infrastructure, public services, local skills, data governance), and that sector master plans are still to be drawn up; it states no adoption or text ([source, 2026-04-03](https://www.gabonreview.com/transformation-numerique-de-letat-mark-alexandre-doumba-appelle-a-rompre-avec-les-initiatives-dispersees/)).
 
 ### Libya: 2 Nascent

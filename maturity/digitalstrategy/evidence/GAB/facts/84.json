@@ -1,0 +1,36 @@
+{
+ "slug": "2026-06-12-gab-gabon-unveils-133m-digital-economy-drive",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "announced",
+   "fact": "Digital Economy minister Mark-Alexandre Doumba outlined Gabon's 2025-2030 digital development plan, built on four priorities: infrastructure, public services, cybersecurity and innovation, per ITWeb Africa; no adoption by cabinet or head of state is stated.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "2025-2030 digital development plan",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2030",
+   "fact": "The minister described the digital development plan as running 2025 to 2030, per ITWeb Africa.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "2025-2030 digital development plan",
+   "class": "national"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2025-2030 digital development plan",
+   "country_label": "Gabon digital development plan 2025-2030",
+   "class": "national",
+   "platform": "",
+   "owner": "Ministry of Digital Economy, Digitalisation and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

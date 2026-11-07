@@ -1,0 +1,27 @@
+{
+ "slug": "2025-01-23-sle-minister-salima-outlines-accomplishments-in-the-tech-sector",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Minister Salima Bah said the government has implemented the National Innovation Digital Strategy and the National Digital Development Policy.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "National Innovation Digital Strategy",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "reporting",
+   "value": "activity",
+   "fact": "Minister Salima Bah claimed achievements under the digital agenda, such as fibre to 14 districts and 4G coverage of 87%, measured against no stated strategy target.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "National Innovation Digital Strategy",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
