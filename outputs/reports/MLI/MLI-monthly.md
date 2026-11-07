@@ -1,11 +1,11 @@
 ---
 title: Mali — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: MLI
-ledger_rows: 9
+ledger_rows: 10
 not_held: 1
-record: ba9ac9f46b0d
+record: 6f07d3401572
 ---
 
 # News, Oct – Nov 2026
@@ -45,6 +45,20 @@ record: ba9ac9f46b0d
 **[Sahel Confederation, Togo Set January 2027 Deadlines for Customs Data Coordination](https://www.ecofinagency.com/news-services/2110-59979-sahel-confederation-togo-set-january-2027-deadlines-for-customs-data-coordination)** — Ecofin Agency, 21 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 Customs directors of Burkina Faso, Mali, Niger and Togo, meeting in Ouagadougou on 15-16 October 2026, set 1 January 2027 for national company lists to support a regional identification code and 31 January for a technical unit to supervise interconnected customs data. Nine of the 18 recommendations from their 2025 meeting have been implemented, six are under way and three are outstanding.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Confederation of Sahel States Year II digital roadmap</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Numérique dans l’espace AES: la feuille de route de l’An II adoptée](https://www.sidwaya.info/2026/11/05/numerique-dans-lespace-aes-la-feuille-de-route-de-lan-ii-adoptee/)** — Sidwaya, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
+
+Sidwaya account, 5 Nov 2026; 16 of 18 deliverables final, confederal NOC by end-2028, CERTs paid from universal service.
 
 </div>
 
