@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: ZMB
-ledger_rows: 19
+ledger_rows: 20
 not_held: 32
-record: ed192fce3044
+record: 0d07482f4afa
 ---
 
 # News, Oct – Nov 2026
@@ -353,6 +353,20 @@ UNDP Zambia and the Lusaka Water Supply and Sanitation Company launched a pilot 
 **[Zamtel unveils MyZamtel Super App and two Zambia-first digital innovations](https://techreviewafrica.com/news/7580/x)** — Tech Review Africa, 5 October 2026
 
 Zambia's Zamtel launched a self-care application with a build-your-own-bundle option, and Kongola Malaiti, a digital financial service reached by short code. No user figures are given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Target of 10 million additional smartphones</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia Plans 10 Million More Smartphones in Five-Year Digital Push](https://www.ecofinagency.com/news-digital/0611-60555-zambia-plans-10-million-more-smartphones-in-five-year-digital-push)** — Ecofin Agency, 6 November 2026
+
+Target: 10m more smartphones in five years, 80% broadband; 12.4m of 27m connections smartphones per ZICTA.
 
 </div>
 
