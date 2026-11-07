@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "retail",
-      "stage": "4",
+      "stage": "5",
       "service": "inservice",
       "interop": "interop",
-      "switch": "",
+      "switch": "national",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-005;DZA-010",
-      "gaps": "No source found since October 2023 says a national switch connects wallets and bank accounts.",
-      "note": "First pass: counted from the four questions by study-ladder-retailpayments.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "DZA-019;DZA-005;DZA-010",
+      "gaps": "",
+      "note": "Reassessed on DZA-019 (April 2025): the post ministry says the national mobile switch carries instant payments between clients of the banks and of Algerie Poste, whose accounts the study counts as mobile money, so question 4 is met and the stage is 5.",
+      "as_at": "2026-11-07"
     }
   ]
 }

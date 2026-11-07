@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-06-ssd-juba-high-court-summons-mtn-over-deleted-data-bundles-poor-n",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Dawn reports a petitioner's claim that about SSP 10 billion is locked in the MTN Mobile Money system, which subscribers and agents use, in a suit heard from 18 November 2026.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "MTN Mobile Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MTN Mobile Money",
+   "country_label": "South Sudan",
+   "class": "retail",
+   "platform": "",
+   "owner": "MTN South Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

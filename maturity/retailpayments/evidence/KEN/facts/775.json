@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-04-ken-postbank-opens-600-agent-points-to-other-banks-via-pesalink",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Pesalink",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Kenya Bankers Association (operated by IPSL)",
+   "tiers": ""
+  }
+ ],
+ "note": "Pesalink is an interbank network; the article names no mobile money or wallet link."
+}

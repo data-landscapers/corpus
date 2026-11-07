@@ -214,6 +214,8 @@ DZA,BaridiMob,Algeria,retail,mobile app,Algerie Poste,,2025-05-11-dza-pourquoi-a
 DZA,DZ Mob Pay,Algeria,retail,interbank mobile payment,GIE Monetique,,2026-11-02-dza-transformation-numerique-en-algerie-des-infrastructures-aux-usages-len
 DZA,Baridi Mob,Algeria,other,mobile app,Algerie Poste,,2026-01-24-dza-virements-ccp-vers-des-comptes-bancaires
 DZA,SATIM,Algeria,other,interbank card switch,,,2026-01-24-dza-virements-ccp-vers-des-comptes-bancaires
+DZA,Edahabia,Algeria,retail,card,Algerie Poste,,2025-04-01-dza-mpt-achievements-indicators-2020-2025
+DZA,BaridiMob,Algeria,retail,mobile app,Algerie Poste,,2025-04-01-dza-mpt-achievements-indicators-2020-2025
 EGY,Instant Payment Network (IPN),Egypt,retail,InstaPay,Central Bank of Egypt,,2026-10-01-egypts-ipn-records-147-bln-transactions-in-2q-2026-cbe-governor
 EGY,InstaPay,Egypt,retail,,,,2026-09-23-enterpriseam-instapay-papss-egypt-integration
 EGY,InstaPay,Egypt,other,,Egyptian Banks Company,,2026-09-20-papss-meeza-card-integration-waya
@@ -290,6 +292,7 @@ GAB,Airtel Money,Gabon,retail,mobile money,Airtel Gabon,,2025-08-25-gab-le-gabon
 GAB,Moov Money,Gabon,retail,mobile money,Moov Africa Gabon Telecom,,2025-08-25-gab-le-gabon-a-enregistre-plus-de-4-milliards-de-fcfa-de-transactions-mobi
 GAB,Moov Money,Moov Money,retail,mobile app,Moov Africa Gabon Telecom,,2025-01-17-gab-moov-africa-gabon-telecom-lance-le-transfert-d-argent-international-av
 GAB,mobile money,Gabon,retail,,,,2026-10-29-gab-gsma-calls-for-more-affordable-smartphones-gabon-off-mobile-internet
+GAB,Magadipe digitalisation platform,Named with GIMAC as aimed at secure digital payments,other,,,,2026-06-12-gab-gabon-unveils-133m-digital-economy-drive
 GHA,Mobile money,Ghana,retail,,,,2026-09-24-gha-myjoyonline-mobile-money-transactions-gh3-8trn
 GHA,Mobile money,Ghana,retail,,,,2026-09-23-gha-bog-summary-economic-financial-data-september-2026
 GHA,Mobile money interoperability,Ghana,retail,,,,2026-09-23-gha-bog-summary-economic-financial-data-september-2026
@@ -382,6 +385,10 @@ KEN,M-Pesa,Kenya,retail,mobile money,Safaricom,,2026-10-29-munga-restofworld-afr
 KEN,M-PESA,Kenya,retail,,Safaricom,,2026-11-05-safaricom-makes-more-from-m-pesa-overdrafts-as-borrower-numbers-surge
 KEN,Fuliza,Kenya,other,M-PESA,Safaricom with NCBA Bank and KCB,,2026-11-05-safaricom-makes-more-from-m-pesa-overdrafts-as-borrower-numbers-surge
 KEN,M-PESA,Kenya,retail,,Safaricom,,2026-11-05-safaricom-h1-profit-jumps-36-to-448m
+KEN,IPSL payment scheme,Kenya,other,Tazama,Integrated Payment Services Limited,,2024-11-27-iati-dac-1601-inv-076412-tazama-poc-ipsl-kenya
+KEN,M-PESA,M-PESA,retail,,Safaricom,,2026-11-06-wayawaya-partners-choice-bank
+KEN,Airtel Money,Airtel Money,retail,,Airtel,,2026-11-06-wayawaya-partners-choice-bank
+KEN,Pesalink,Kenya,other,,Kenya Bankers Association (operated by IPSL),,2026-11-04-ken-postbank-opens-600-agent-points-to-other-banks-via-pesalink
 LBR,Inclusive Instant Payment System,Liberia,retail,instant payment,Central Bank of Liberia,Lonestar MTN Mobile Money; Orange Money Liberia,2026-10-01-liberian-observer-liberia-instant-payment-system-5-3m-transactions
 LBR,Inclusive Instant Payment System (IIPS),Liberia,retail,Mojaloop,Central Bank of Liberia,,2026-09-26-lbr-finance-minister-washington-diaspora-payments
 LBR,National Electronic Payment Switch,Liberia,retail,,Government of Liberia,planned,2026-09-26-lbr-finance-minister-washington-diaspora-payments
@@ -405,6 +412,8 @@ LBY,LYPay,Libya,retail,instant payment system in banking apps,Central Bank of Li
 LBY,LYPay,Libya,retail,instant payment service,,,2026-03-03-cbl-record-epayment-qr-launch-alwasat
 LBY,OnePay,Libya,retail,instant payment service,,,2026-03-03-cbl-record-epayment-qr-launch-alwasat
 LBY,e-payment,Libya,retail,,Central Bank of Libya,,2026-01-20-cbl-epayment-2025-up-186pc-389bn-libyaherald
+LBY,LYPay,LYPay,retail,,,,2026-11-05-lby-wahda-bank-picks-backbase-for-digital-banking
+LBY,OnePay,OnePay,retail,,,,2026-11-05-lby-wahda-bank-picks-backbase-for-digital-banking
 LSO,M-Pesa,Lesotho,retail,,Vodacom Lesotho,,2026-07-27-vodacom-lesotho-tsetela-m-pesa-investment
 LSO,Tsetela,Lesotho,other,USSD,Vodacom Lesotho with Stanlib Lesotho,,2026-07-27-vodacom-lesotho-tsetela-m-pesa-investment
 LSO,M-Pesa,Lesotho,retail,,Vodacom Lesotho,,2026-07-25-lesotho-basotho-can-now-invest-via-m-pesa
@@ -431,6 +440,7 @@ MAR,PAPSS,Morocco,other,Pan-African Payment and Settlement System,PAPSS,Live soo
 MAR,Switch Al Maghrib interoperable mobile payment,Morocco,retail,,Switch Al Maghrib,,2026-09-27-mar-instant-payment-mfc-talks
 MAR,Switch Al-Maghrib,Morocco,retail,national payment switch,Switch Al-Maghrib,,2026-11-04-switch-al-maghrib-on-future-of-payments
 MAR,Mobile wallets,Morocco,retail,mobile wallet,payment institutions (12 of 21 offerings),,2026-10-02-mar-digital-payment-the-failed-revolution-against-the-reign-of-cash
+MAR,Samsung Pay (Mastercard MDES),Samsung Pay,other,Mastercard Digital Enablement Service,Samsung / Mastercard,,2026-11-05-samsung-pay-launches-in-morocco-with-mastercard-tokenization-technolog
 MDG,Gasy Money,Madagascar,retail,mobile app,BGFIBank Madagasikara,,2026-09-22-mdg-midimadagasikara-gasy-money-mobile-banking
 MDG,Gasy Money,Madagascar,retail,mobile app,BGFIBank Madagascar,,2026-09-21-mdg-newsmada-gasy-money-bgfibank
 MDG,Airtel Money,Madagascar,retail,mobile money,,,2026-09-21-mdg-newsmada-gasy-money-bgfibank
@@ -543,6 +553,8 @@ MWI,National Switch,Malawi,retail,,,,2025-07-21-mwi-nation-banks-respond-digital
 MWI,Airtel Money,Malawi,retail,,Airtel Malawi,,2026-10-31-mwi-cama-takes-airtel-and-tnm-to-macra-over-network-woes
 MWI,Mpamba,Malawi,retail,,TNM,,2026-10-31-mwi-cama-takes-airtel-and-tnm-to-macra-over-network-woes
 MWI,Mo626,Malawi,retail,,,,2026-10-31-mwi-cama-takes-airtel-and-tnm-to-macra-over-network-woes
+MWI,Airtel Money,Malawi,retail,,Airtel Malawi,,2026-11-06-mwi-airtel-malawi-invests-mwk81-billion-in-network-expansion
+MWI,mobile money,Malawi mobile money,retail,,,,2026-06-08-mwi-malawi-digital-economy
 NAM,NamQR,Namibia,retail,,Payments Association of Namibia,,2026-07-29-namibia-instant-payments-namqr-open-banking
 NAM,Instant Payment Solution (IPS),Namibia,retail,,Bank of Namibia,,2026-07-29-namibia-launches-instant-payments-system
 NAM,Instant Payments Namibia,Namibia,retail,,Bank of Namibia (initiative),,2025-07-01-namibia-weighs-biometrics-instant-payment-biometricupdate
@@ -696,6 +708,7 @@ SSD,MoMo,South Sudan,retail,mobile money,MTN South Sudan,,2025-07-08-ssd-central
 SSD,Digicash,South Sudan,retail,mobile money,Digitel South Sudan,,2025-07-08-ssd-central-bank-to-pay-salaries-via-mobile-money-as-cash-crisis-deepens
 SSD,M-Gurush,South Sudan,retail,mobile money,,,2025-06-03-ssd-govt-pushes-for-bank-accounts-to-streamline-salaries
 SSD,MTN MoMo,South Sudan,retail,mobile money,MTN,,2025-06-03-ssd-govt-pushes-for-bank-accounts-to-streamline-salaries
+SSD,MTN Mobile Money,South Sudan,retail,,MTN South Sudan,,2026-11-06-ssd-juba-high-court-summons-mtn-over-deleted-data-bundles-poor-n
 STP,Sao,Sao Tome and Principe,retail,"Sao Wallet, Sao Agents, Sao POS, Sao Card, Sao Send",GTI Holdings,,2025-01-05-stp-telanon-sao-plataforma-financeira-digital
 STP,Dobra Digital,Sao Tome and Principe,retail,phone-based money service,"Golfintech, Lda",,2020-12-10-stp-undp-moeda-digital-dobra-digital
 SWZ,DeltaPay,Eswatini,retail,,DeltaPay,,2026-10-12-swz-deltapay-brings-instant-payments-closer-to-home-eswatini-pos
@@ -769,6 +782,7 @@ TGO,Flooz,Togo,retail,,,,2025-03-14-tgo-fullnews-cfetogo-online-business-registr
 TGO,Tmoney,Togo,retail,,,,2025-03-14-tgo-fullnews-cfetogo-online-business-registration
 TGO,WAEMU interoperable instant payment system (PI-SPI),PI-SPI pilot,retail,,BCEAO,,2024-06-20-tgo-la-banque-centrale-lance-la-phase-pilote-du-systeme-de-paiement-instan
 TGO,WAEMU interoperable instant payment system (PI-SPI),PI-SPI pilot,retail,,BCEAO,,2024-08-26-xwa-five-questions-waemu-interoperable-instant-payment-system
+TGO,PI-SPI,PI-SPI,other,,BCEAO,,2026-11-05-tgo-togo-instant-payment-platform-processed-nearly-cfaf-15-billion-in-tran
 TUN,walletii by Ooredoo,Tunisia,retail,digital wallet,Ooredoo Fintech,,2026-03-07-menastartupdigest-ooredoo-walletii-license
 TUN,Paysmart,Tunisia,retail,,,,2026-02-23 Central Bank Of Tunisia Reports 81% Surge In Mobile Payments As Tunisia Accelerates Its Digital Transformation In 2025
 TUN,e-Dinar wallets,Tunisia,retail,La Poste Tunisienne,La Poste Tunisienne,,2026-10-09-tun-lapresse-poste-inscriptions-en-ligne-e-dinar

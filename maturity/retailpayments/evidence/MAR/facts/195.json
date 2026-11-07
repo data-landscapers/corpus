@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-05-samsung-pay-launches-in-morocco-with-mastercard-tokenization-technolog",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Samsung Pay (Mastercard MDES)",
+   "country_label": "Samsung Pay",
+   "class": "other",
+   "platform": "Mastercard Digital Enablement Service",
+   "owner": "Samsung / Mastercard",
+   "tiers": ""
+  }
+ ],
+ "note": "A card-scheme phone wallet for cardholders of unnamed banks; no mobile money or wallet-bank switch stated."
+}

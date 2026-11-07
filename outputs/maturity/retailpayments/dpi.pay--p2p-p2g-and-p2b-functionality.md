@@ -1,6 +1,6 @@
 # P2P, P2G and P2B functionality: p2p, p2g and p2b functionality
 
-*As at 2026-09-30.*
+*As at 2026-11-07.*
 
 ## The norm
 
@@ -20,8 +20,8 @@ The African Union's Digital Transformation Strategy asks for interoperable e-mon
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 26 |
-| 4 Operating | 17 |
+| 5 Leading | 27 |
+| 4 Operating | 16 |
 | 3 Established | 10 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
@@ -29,6 +29,14 @@ The African Union's Digital Transformation Strategy asks for interoperable e-mon
 | No evidence | 0 |
 
 ## Countries
+
+### Algeria: 5 Leading
+
+A national switch connected Algerie Poste and bank accounts in 2025.
+
+- The ministry says a mobile switch was launched that lets banks' and Algerie Poste's clients make payments and transfers instantly by QR code, with no launch date given ([source, 2025-04](https://www.mpt.gov.dz/achievements/)).
+- Alger 16 reports interbank QR code and P2P payments under DZ Mob Pay run on the interoperability of the national mobile switch put in service in June 2024 ([source, 2026-06](https://alger16.dz/?p=65795)).
+- Algérie Éco, citing GIE Monétique, says DZ Mob Pay interbank payments rest on the national mobile switch put in service in June 2024, with seven pilot banks ([source, 2025-12](https://algerie-eco.com/2026/02/18/algerie-le-montant-des-paiements-electroniques-sest-eleve-a-939-milliards-de-dinars-en-2025-46/)).
 
 ### Angola: 5 Leading
 
@@ -200,13 +208,6 @@ A national switch connected mobile money wallets and bank accounts in 2025.
 A national switch connected mobile money wallets and bank accounts in 2026.
 
 - The National Financial Switch connects banks, non-bank financial institutions, payment service providers, fintechs and mobile money operators, per ITWeb quoting a Sybrin manager ([source, 2026-07-27](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8)).
-
-### Algeria: 4 Operating
-
-Payments between mobile money providers or with banks were in service in 2026; no source found reports a national switch.
-
-- Alger 16 reports interbank QR code and P2P payments under DZ Mob Pay run on the interoperability of the national mobile switch put in service in June 2024 ([source, 2026-06](https://alger16.dz/?p=65795)).
-- Algérie Éco, citing GIE Monétique, says DZ Mob Pay interbank payments rest on the national mobile switch put in service in June 2024, with seven pilot banks ([source, 2025-12](https://algerie-eco.com/2026/02/18/algerie-le-montant-des-paiements-electroniques-sest-eleve-a-939-milliards-de-dinars-en-2025-46/)).
 
 ### Benin: 4 Operating
 

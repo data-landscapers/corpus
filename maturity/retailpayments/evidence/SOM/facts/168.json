@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-01-som-meet-the-man-building-somalia-s-central-bank-from-the-ground",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "African Business reports that 87% of Somalia's population use mobile money, with mobile wallets the dominant payment method, per the Central Bank governor.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "Mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

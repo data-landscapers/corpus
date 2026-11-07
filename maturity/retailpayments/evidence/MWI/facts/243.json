@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-06-mwi-airtel-malawi-invests-mwk81-billion-in-network-expansion",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Tech Africa News reports that Parliament's Media, Information and Communications Committee acknowledged Airtel Malawi's improvements to Airtel Money services at its 3 November 2026 engagement.",
+   "as_of": "2026-11-03",
+   "date_precision": "day",
+   "system": "Airtel Money",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Airtel Money",
+   "country_label": "Malawi",
+   "class": "retail",
+   "platform": "",
+   "owner": "Airtel Malawi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

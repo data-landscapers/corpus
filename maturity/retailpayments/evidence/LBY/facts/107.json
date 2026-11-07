@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-05-lby-wahda-bank-picks-backbase-for-digital-banking",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Central Bank of Libya says electronic payment transfers through various systems totalled about USD 119.3 billion (LYD 764.9 billion) from 1 January to 31 August 2026, and the article calls LYPay and OnePay Libya's instant payment rails.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "LYPay and OnePay",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LYPay",
+   "country_label": "LYPay",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "OnePay",
+   "country_label": "OnePay",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
