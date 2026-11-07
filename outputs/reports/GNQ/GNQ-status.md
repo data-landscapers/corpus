@@ -1,12 +1,12 @@
 ---
 title: Equatorial Guinea: status report
-compiled: 2026-11-04
+compiled: 2026-11-07
 place: GNQ
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 17
-sources_cited: 224
+sources_cited: 225
 sections_written: 39
 not_established: 1
 acquire_lines: 23
@@ -207,7 +207,7 @@ In April 2025 [CNEDOGE's Director General told deputies that booklets and plates
 ### Sectoral management information systems
 <!-- dpi.mis -->
 
-[ASYCUDAWorld has been live in every customs office since June 2025](https://asycuda.org/en/equatorial-guinea-completes-nationwide-rollout-of-asycudaworld/), on the UN programme's own account. [It went live at Bata in November 2024 and at the Malabo port in March 2025](https://asycuda.org/en/equatorial-guinea-completes-nationwide-rollout-of-asycudaworld/). [DHIS2 was launched at Baney on 1 March 2025 under a UN Joint Programme](https://www.undp.org/es/equatorial-guinea/noticias/lanzamiento-de-la-herramienta-digital-en-el-sistema-sanitario-de-guinea-ecuatorial). [It gives district-level care, vaccination, workforce and medicine-stock data](https://www.undp.org/es/equatorial-guinea/noticias/lanzamiento-de-la-herramienta-digital-en-el-sistema-sanitario-de-guinea-ecuatorial). [The pilot in Baney and continental Añisok was declared complete on 25 November 2025, with a national expansion foreseen in 2026](https://guineasalud.com/finaliza-con-exito-la-prueba-piloto-de-la-plataforma-dhis2-en-baney-y-anisok/). [Before DHIS2, ministry staff gathered facility register sheets and transferred them to spreadsheets](https://ehas.org/que-hacemos/sis/sis-guinea-ecuatorial/) (2025).
+[ASYCUDAWorld has been live in every customs office since June 2025](https://asycuda.org/en/equatorial-guinea-completes-nationwide-rollout-of-asycudaworld/), on the UN programme's own account. [It went live at Bata in November 2024 and at the Malabo port in March 2025](https://asycuda.org/en/equatorial-guinea-completes-nationwide-rollout-of-asycudaworld/). [DHIS2 was launched at Baney on 1 March 2025 under a UN Joint Programme](https://www.undp.org/es/equatorial-guinea/noticias/lanzamiento-de-la-herramienta-digital-en-el-sistema-sanitario-de-guinea-ecuatorial). [By the end of 2025 DHIS2 was integrated into the national health data system and the first national health statistical yearbook finalised](https://www.afro.who.int/sites/default/files/2026-06/Rapport%20Annuel%20OMS%20GE.pdf). [It gives district-level care, vaccination, workforce and medicine-stock data](https://www.undp.org/es/equatorial-guinea/noticias/lanzamiento-de-la-herramienta-digital-en-el-sistema-sanitario-de-guinea-ecuatorial). [The pilot in Baney and continental Añisok was declared complete on 25 November 2025, with a national expansion foreseen in 2026](https://guineasalud.com/finaliza-con-exito-la-prueba-piloto-de-la-plataforma-dhis2-en-baney-y-anisok/). [Before DHIS2, ministry staff gathered facility register sheets and transferred them to spreadsheets](https://ehas.org/que-hacemos/sis/sis-guinea-ecuatorial/) (2025).
 
 [The civil-service system SIGF had reviewed 22 procedures by its steering committee's third meeting on 17 June 2026](https://www.guineaecuatorialpress.com/noticias/el_ministro_secretario_general_en_funciones_preside_la_tercera_reunion_del_comite_de_pilotaje_del_proyecto_sigef). [SIGF, supplied by Morocco's M2M Group, centralises civil-servant records with biometric attendance and automated payroll](https://realequatorialguinea.com/destacado/politica/guinea-ecuatorial-activa-el-sistema-digital-que-modernizara-la-funcion-publica-en-18-meses/). [It follows a 2023 enrolment drive covering more than 87,000 public servants and contract workers](https://www.biometricupdate.com/202309/equatorial-guinea-ghana-want-to-flush-out-ghost-public-workers-using-biometrics). [The existing HR application, APP SIRH, had more than 20,147 civil servants registered in March 2025](https://www.guineaecuatorialpress.com/noticias/audiencia_entre_martina_masugu_oyana_y_melanio_ebendeng_oyana). [The ninth national yearbook puts the civil service at 20,152 staff in 2025, with 2,731 hires that year, down 20.5%](https://inege.org/?p=17899).
 
