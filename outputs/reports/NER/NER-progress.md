@@ -3,10 +3,10 @@ title: Niger — progress report, November 2025 – November 2026
 compiled: 2026-11-07
 period: 2025-11-01 to 2026-11-07
 place: NER
-ledger_rows: 236
+ledger_rows: 235
 not_held: 1
 indicators: 115
-record: d2ecf22084a4
+record: d25cec96b66a
 ---
 
 # Niger: progress report, November 2025 – November 2026

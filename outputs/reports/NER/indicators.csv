@@ -518,7 +518,7 @@ tech.industry--national-capacity-in-dt-related-production,Movement,"An [electron
 
 A second account of the same visit puts the facility, in the Tillabery region, at more than 60 per cent built after six months against 57 per cent of its overall timeline, and frames locally assembled devices for citizens and public institutions as a way to cut dependence on imported equipment ([account](2026-08-25-niger-local-electronics-plant)); no investment value, capacity or opening date is stated ([account](2026-08-25-niger-local-electronics-plant)).
 
-The two accounts of one inspection give different completion figures, which the cell carries rather than picking between.",NER-tech.industry-electronics-assembly-plant|NER-tech.industry-local-electronics-assembly-plant,4,,0.3549,% of GDP,2024,ref:wdi-ict-service-exports-gdp@2026-07-13,,,2026-08-31,0,official statistics; no primary in the base
+The two accounts of one inspection give different completion figures, which the cell carries rather than picking between.",NER-tech.industry-electronics-assembly-plant,4,,0.3549,% of GDP,2024,ref:wdi-ict-service-exports-gdp@2026-07-13,,,2026-08-31,0,official statistics; no primary in the base
 tech.innovate--technology-hubs,Movement,A [university innovation hub](2026-08-20-anp-diffa-unipod-innovation-agripreneuriat) at Diffa reached project-document validation in August 2026 under a youth agripreneurship programme.,"A university was selected through a competitive process to host the hub, and the workshop validating its project document opened on 20 August 2026; no budget figure or opening date is published ([hub](2026-08-20-anp-diffa-unipod-innovation-agripreneuriat)).
 
 It is the only technology hub on record for the country, and it is at document-validation stage.
