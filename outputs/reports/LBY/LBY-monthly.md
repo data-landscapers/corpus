@@ -1,11 +1,11 @@
 ---
 title: Libya — News, Oct – Nov 2026
-compiled: 2026-11-01
-period: 2026-10-01 to 2026-11-01
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: LBY
-ledger_rows: 19
+ledger_rows: 20
 not_held: 3
-record: e7b81f68a902
+record: 707d542b39ef
 ---
 
 # News, Oct – Nov 2026
@@ -249,6 +249,20 @@ Libya's public prosecutor said 10,190 passports had been issued on forged civil-
 **[Electronic transactions reached 865 billion Libyan dinars by end of September 2026: CBL](https://libyaherald.com/2026/10/electronic-transactions-reached-865-billion-libyan-dinars-by-end-of-september-2026-cbl/)** — Libya Herald, 5 October 2026
 
 Libya's central bank said electronic transactions reached about 865 billion dinars by the end of September 2026. The figure came from a meeting between the governor, commercial bank heads and the state payments company on cash liquidity, wider electronic payment and cyber-risk readiness.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Wahda Bank digital banking platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Wahda Bank picks Backbase for digital banking](https://www.thepaypers.com/fintech/news/wahda-bank-selects-backbase-for-digital-banking-platform-in-libya)** — The Paypers, 5 November 2026
+
+Business banking live 2027 with eKYC onboarding; retail for 500,000+ customers; plugs into LYPay and OnePay rails.
 
 </div>
 
