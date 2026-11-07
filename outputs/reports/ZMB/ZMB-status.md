@@ -1,12 +1,12 @@
 ---
 title: Zambia: status report
-compiled: 2026-11-06
+compiled: 2026-11-07
 place: ZMB
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 7
-sources_cited: 199
+sources_cited: 200
 sections_written: 39
 not_established: 2
 acquire_lines: 49
@@ -123,7 +123,7 @@ Domestic money is thin: [K255 million was approved in May 2026](https://techafri
 
 [ZICTA revoked the network and service licences of Beeline Telecoms, the fourth mobile network operator, with effect from 14 September 2026](https://www.zambiamonitor.com/zicta-kicks-out-zedmobile-from-zambias-telecom-market-over-regulatory-non-compliance/). [Beeline was licensed in 2021 and had traded as ZedMobile since 2024](https://www.zambiamonitor.com/zicta-kicks-out-zedmobile-from-zambias-telecom-market-over-regulatory-non-compliance/). [ZICTA cited missed rollout, quality-of-service and fee obligations](https://www.zambiamonitor.com/zicta-kicks-out-zedmobile-from-zambias-telecom-market-over-regulatory-non-compliance/).
 
-[4G signal reached 91.2 percent of Zambians in 2023](https://www.cto.int/member-countries-1/zambia). [23.5 million mobile connections were active in October 2025, equivalent to 106 percent of the population](https://datareportal.com/reports/digital-2026-zambia), a count of SIM cards, not of people. In the same month [33.0 percent of Zambians used the internet, 7.29 million out of 22.1 million, leaving 14.8 million offline](https://datareportal.com/reports/digital-2026-zambia) (October 2025). [The offline share is not falling](https://datareportal.com/reports/digital-2026-zambia) (October 2025). [A low-consumption mobile data and voice basket cost 3.5 percent of GNI per capita in 2022](https://www.digitaldevelopment.org/wp-content/uploads/2023/09/ddd_ZMB-1.pdf). The technology minister said [40 of 152 towers in a rollout with Airtel and IHS were operational in September 2025, the rest due by end-November 2025](https://www.connectingafrica.com/connectivity/airtel-ihs-build-152-telecom-towers-in-zambia).
+[4G signal reached 91.2 percent of Zambians in 2023](https://www.cto.int/member-countries-1/zambia). [27.0 million mobile connections were active in late 2026, equivalent to 119 percent of the population](https://datareportal.com/reports/digital-2027-zambia), a count of SIM cards, not of people. [6.73 million people used the internet at the end of 2026, 29.7 percent of the population](https://datareportal.com/reports/digital-2027-zambia). [A low-consumption mobile data and voice basket cost 3.5 percent of GNI per capita in 2022](https://www.digitaldevelopment.org/wp-content/uploads/2023/09/ddd_ZMB-1.pdf). The technology minister said [40 of 152 towers in a rollout with Airtel and IHS were operational in September 2025, the rest due by end-November 2025](https://www.connectingafrica.com/connectivity/airtel-ihs-build-152-telecom-towers-in-zambia).
 
 [Zambia's mobile communications score rose 35.6 points over 2014-2023 to 80.1 out of 100, eleventh of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf). [It was the country's second most improved indicator of 96](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf). [The measure combining internet use, computer access and affordability reached only 34.0, twenty-fifth of 54, on a gain less than half as large](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf) (2023). [Public perception of infrastructure fell 18.7 points to 41.3 out of 100 (2023)](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf). [An 11.0-point administrative gain lifted the infrastructure sub-category to 42.8](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-zm.pdf) (2023).
 
