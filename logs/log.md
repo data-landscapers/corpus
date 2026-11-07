@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-07 02:22 · **BUDGET-EXTRACT** · unclocked · COG FY2027: 4 lines (programme 052 partial, three special accounts whole) from the PLF 2027 scan, proposed stage
 2026-11-07 02:17 · **BUDGET-EXTRACT** · unclocked · AGO FY2027: 54 lines (31 whole, 22 partial, 1 unclear) from the OGE 2027 proposal's allocation-by-organ volume, proposed stage; 69 organs read
 2026-11-07 02:11 · **BUDGET-EXTRACT** · unclocked · TGO FY2027: 2 lines from the PLF 2027 programme and CAS tables (scan, read off the page) at the proposed stage (housekeeping 45); section 870's digital programmes (CFA 27.9bn) held back, origin unprinted
 2026-11-07 02:07 · **BUDGET-EXTRACT** · unclocked · SYC FY2027: 4 heads from the Appropriation Bill 2027 Schedule at the proposed stage (housekeeping 45); SCR 215.1m whole, 14.7m partial; programme grain awaits the estimates volume
