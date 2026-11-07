@@ -1,12 +1,12 @@
 ---
 title: Egypt: status report
-compiled: 2026-11-06
+compiled: 2026-11-07
 place: EGY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 10
-sources_cited: 226
+sources_cited: 227
 sections_written: 39
 not_established: 0
 acquire_lines: 60
@@ -230,7 +230,7 @@ The payroll system was [live in 2,281 of 2,675 target accounting units in Februa
 
 The systems themselves are mostly bought in: the [financial management information system runs on commercial off-the-shelf software](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and [tax administration and customs are both hybrids of custom and off-the-shelf products](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). The practitioner account is less tidy: [practitioners told Al-Borsa that some tax offices still work from paper files during inspection before entering results on the system, and that historic credit balances have not been carried into it](https://www.alborsaanews.com/2026/07/29/1982823) (July 2026), though [e-invoicing has been mandatory since December 2022](https://eta.gov.eg/en/home).
 
-The health ministry [launched DHIS2 as part of its national health information system in January 2026, in support of the National Digital Health Strategic Priorities 2025-2029](https://dhis2.org/egypt-launches-dhis2-in-health-information-system). Separately, [primary healthcare centres and units in the governorates where the Universal Health Insurance System applies are fully digitised, with electronic health records and electronic prescriptions](https://eha.gov.eg/en/news/highlights-transformation/) (2024).
+The health ministry [launched DHIS2 as part of its national health information system in January 2026, in support of the National Digital Health Strategic Priorities 2025-2029](https://dhis2.org/egypt-launches-dhis2-in-health-information-system). [Hospital information systems were live in 265 primary care units and 166 other facilities in July 2026, with laboratory systems in 299 and radiology systems in 94](https://www.almasryalyoum.com/news/details/4321204). Separately, [primary healthcare centres and units in the governorates where the Universal Health Insurance System applies are fully digitised, with electronic health records and electronic prescriptions](https://eha.gov.eg/en/news/highlights-transformation/) (2024).
 
 The interior and communications ministries [run an integrated Digital Justice Platform whose police-station module issues complaints and records electronically into the Public Prosecution's paperless case management, extended to 118 police departments by late 2025](http://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/98882).
 
