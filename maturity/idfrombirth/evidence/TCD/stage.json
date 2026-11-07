@@ -9,10 +9,10 @@
       "complete": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TCD-001",
+      "stage_sources": "TCD-001;TCD-002",
       "gaps": "No source found since October 2023 says every registered birth across the country receives the number.",
-      "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild: TASDJIL gives the NNI on new birth certificates at desks in more than 50 maternity units and at Koukou Angarana hospital, stage 3. Older certificates carry no NNI and coverage of all facilities is an aim, so not stage 4.",
+      "as_at": "2026-11-07"
     }
   ]
 }

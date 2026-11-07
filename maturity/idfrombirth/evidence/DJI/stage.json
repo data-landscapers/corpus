@@ -1,17 +1,18 @@
 {
- "iso3": "DJI",
- "cells": [
-  {
-   "sub_indicator": "frombirth",
-   "stage": "3",
-   "number": "inservice",
-   "national": "",
-   "complete": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DJI-001",
-   "gaps": "No source found since October 2023 says every registered birth across the country receives the number.",
-   "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py."
-  }
- ]
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "frombirth",
+      "stage": "3",
+      "number": "inservice",
+      "national": "",
+      "complete": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DJI-001",
+      "gaps": "No source found since October 2023 says every registered birth across the country receives the number. The ministry's page restates the 2019 law's scope, not a count of births given the number.",
+      "note": "Rebuild: the ministry says the NNI is assigned from birth, under the 2019 law, which is stage 3. The page states who the law gives the number to, not that every registered birth now receives it, so not stage 4.",
+      "as_at": "2026-11-07"
+    }
+  ]
 }

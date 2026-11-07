@@ -1,6 +1,6 @@
 # Digital id from birth: digital id from birth
 
-*As at 2026-10-23.*
+*As at 2026-11-07.*
 
 ## The norm
 
@@ -21,14 +21,21 @@ The African Union's Digital Transformation Strategy asks for a digital legal ide
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 4 |
+| 4 Operating | 5 |
 | 3 Established | 8 |
-| 2 Nascent | 10 |
-| 1 Absent | 2 |
-| Unplaced | 3 |
+| 2 Nascent | 12 |
+| 1 Absent | 1 |
+| Unplaced | 1 |
 | No evidence | 27 |
 
 ## Countries
+
+### Algeria: 4 Operating
+
+Every registered newborn has been given a national identity number since 2018, a 2026 report says; complete birth and death registration is unknown.
+
+- The presentation says the NIN is generated automatically from the national automated civil register (RNAEC) for each newborn after registration, since 2018 ([source, 2018](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-decentralisation-algeria.pdf)).
+- Algeria's Ministry of Interior says each newborn receives its own birth certificate and unique national identifier (NIN) once registered, since 2018 ([source, 2018](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-decentralisation-algeria.pdf)).
 
 ### Benin: 4 Operating
 
@@ -36,38 +43,42 @@ Every registered birth was given a unique ID number in 2026; no source found rep
 
 - ANIP's May 2026 deck says that every birth declaration since 1 April 2021 is made to the RNPP and gives the child an NPI and an entry in the national civil status file ([source, 2026-05](https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf)).
 - ANIP's May 2026 deck says that for every birth since 1 April 2021 the child's NPI is obtained by declaring the birth to the RNPP, with the birth certificate generated automatically ([source, 2026-05](https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf)).
-- Triomphe Mag, citing ANIP's report of 24 February 2026, says that in the ten pilot health facilities running since 20 August 2025 parents can receive the child's NPI by SMS in under 48 hours after the birth is registered ([source, 2026-02-20](https://www.triomphemag.com/enregistrement-des-naissances-au-benin-le-guichet-unique-de-lanip-fait-bondir-le-taux-de-2195-a-7656-en-six-mois/)).
+- A Benin official says the digital identity is now assigned from birth ([source, 2026-10-28](https://transcontinents.africa/fr/article/e-gouvernance-le-benin-et-la-mauritanie-a-lecole-estonienne)).
 
 ### Botswana: 4 Operating
 
 Every registered birth was given a unique ID number in 2026; no source found reports complete registration.
 
 - Statistics Botswana says the number is assigned to every citizen child at birth, with registration through 35 district offices and 17 on-site points, introduced in 2003 ([source, 2026-08](https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf)).
+- Statistics Botswana says the National Identification System assigns a unique birth registration number to every citizen child at birth, which becomes the Omang number at 16 ([source, 2026-08](https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf)).
 
 ### Cape Verde: 4 Operating
 
 Every registered birth was given a unique ID number in 2026; no source found reports complete registration.
 
 - Biometric Update reports that every child born in Cabo Verde is issued a Unique Identification Number at birth, with birth registration at 99% after the reforms ([source, 2026-05](https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration)).
+- Biometric Update reports that every child born in Cabo Verde is issued a Unique Identification Number at birth ([source, 2026-05](https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration)).
 
 ### Tunisia: 4 Operating
 
 Every registered birth was given a unique ID number in 2026; no source found reports complete registration.
 
 - The playbook says the IUC is given to any natural person entered in the civil status register at birth, with the register fed from the national civil status system Madania ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
+- The playbook says the unique citizen identifier (IUC), set up by decree-law 2020-17, is unique, non-significant and sequential, and is given at birth to every person entered in the civil status register ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 
 ### Angola: 3 Established
 
 Children were given a unique ID number at birth registration in 2026, at least in part of the country.
 
 - Angop reports newborn registration at the Mbanza Kongo maternity leads to issue of the first Bilhete de Identidade, under the Nascer com Registo project, since October 2025 ([source, 2026-03-03](https://angop.ao/noticias/politica/zaire-mbanza-kongo-inicia-registo-de-recem-nascidos-a-partir-da-maternidade/)).
-- Justice minister Marcy Lopes says every maternity or hospital service has a registration and BI post so newborns can register and get the BI on the spot, and children aged 0 to 12 can do so at these hospitals ([source, 2025-04-11](https://angop.ao/noticias/politica/mais-de-15-milhoes-de-cidadaos-possuem-bi/)).
+- Biometric Update says Angola is beginning to issue national ID cards to newborns at maternity wards, starting in Mbanza Kongo municipality of Zaire province, then its 10 other municipalities ([source, 2025-11-17](https://www.biometricupdate.com/202511/angola-begins-issuance-of-id-cards-to-newborns)).
 
 ### Chad: 3 Established
 
 Children were given a unique ID number at birth registration in 2026, at least in part of the country.
 
 - An ATPE opinion piece says TASDJIL, from Technidev and ANATS, attributes a National Identification Number (NNI) to children when births are registered at the Koukou Angarana hospital desk ([source, 2026-08](https://www.atpe.td/etat-civil-au-tchad-des-reformes-pour-les-enfants-non-enregistres/)).
+- Tchadinfos says that under TASDJIL a child's new birth certificate contains a national identification number (NNI), with registration desks in more than 50 maternity units and the aim of covering all health facilities; older certificates carry no NNI ([source, 2023-12-10](https://tchadinfos.com/2023/12/10/societe-la-digitalisation-des-actes-de-naissance-une-transformation-cruciale-pour-letat-civil-au-tchad/)).
 
 ### Djibouti: 3 Established
 
@@ -75,11 +86,11 @@ Children were given a unique ID number at birth registration in 2024, at least i
 
 - The Ministry of Digital Affairs says the National Identification Number is attributed from birth to any person entered in a civil register ([source, 2024](https://numerique.gouv.dj/Articles/detailArticleAvancee/15)).
 
-### Ghana: 3 Established
+### Gambia: 3 Established
 
-Children were given a unique ID number at birth registration in 2024, at least in part of the country.
+Birth certificates have carried a unique national ID number since a 2022-23 campaign; whether every registered birth gets one is unknown.
 
-- The Vice President launched the Ghana Card Number at Birth system, giving newborns a unique identification number at birth, with biometric details captured at health facilities where e-tracking is deployed (338 facilities) ([source, 2024-03-14](https://gna.org.gh/2024/03/dr-bawumia-launches-ghana-card-number-at-birth-to-enhance-public-services/)).
+- The World Bank says the eCRVS issued birth certificates each carrying a unique national identification number, generated in real time at registration, during the Aug 2022 to Feb 2023 campaign ([source, 2023-02](https://www.worldbank.org/en/results/2024/03/28/afw-transformative-journey-of-mass-birth-registration-and-health-insurance-in-the-gambia)).
 
 ### Lesotho: 3 Established
 
@@ -91,6 +102,7 @@ Children were given a unique ID number at birth registration in 2026, at least i
 
 Children were given a unique ID number at birth registration in 2024, at least in part of the country.
 
+- The National Registration Bureau reports successful registration of 3.5 million births with unique identifiers ([source, 2025](https://www.id4africa.com/2025/files/PS1-S1-5-Malawi-final.pdf)).
 - Registration team lead Emmanuel Mkambankhani says an ID number is generated for a child when a baby is born, the same number printed on the card at 16 ([source, 2024-11](https://pedaids.org/2024/11/06/the-value-of-a-birth-certificate/)).
 - The Principal Secretary says children under 16 get birth registration certificates with a unique identification number, over three million so far ([source, 2024-07-17](https://mwnation.com/nrb-under-scrutiny/)).
 
@@ -120,6 +132,14 @@ A unique number at birth was provided for or piloted in 2024; none given in serv
 
 - MINDDEVEL's deck says law 2024/016 institutes the attribution of a unique personal identification number (NIPU), without saying it is given at birth registration or in service ([source, 2024-12-23](https://www.id4africa.com/2025/files/PS5A-S1-3-Cameroun_FINAL.pdf)).
 
+### Ghana: 2 Nascent
+
+A number at birth launched in 2024 was suspended; in 2026 a renewed system was being tested, and whether children now receive it is unknown.
+
+- Bedzrah said NIA was extending the system to children from birth and would begin registering children aged 0-5 the following week, after the ongoing registration of ages 6-14 ([source, 2026-10-09](https://www.ghanaweb.com/GhanaHomePage/business/NIA-biometric-system-to-tighten-fraud-controls-2055880)).
+- The NIA, with the Births and Deaths Registry and Ghana Health Service, tested on 11 August 2026 a renewed application to register children aged 0-5 at selected health facilities and issue them Ghana PINs, a programme launched in March 2024 and suspended after a technical fault, with full rollout expected in the coming days ([source, 2026-08-11](https://theoverseeronline.com/infant-registration/)).
+- NIA Executive Secretary Wisdom Kwaku Deku said the NIA is preparing to begin registration at hospitals where parents or guardians would receive an identity number for newborns, later linked to the child's Ghana Card registration at age six ([source, 2026-09-17](https://www.modernghana.com/news/1528541/ghana-card-to-become-e-wallet-for-electronic-trans.html)).
+
 ### Guinea: 2 Nascent
 
 Guinea launched a civil-status register in October 2026 to give each citizen a number from birth; whether any child has it is unknown.
@@ -128,11 +148,17 @@ Guinea launched a civil-status register in October 2026 to give each citizen a n
 
 ### Kenya: 2 Nascent
 
-A unique number at birth was provided for or piloted in 2026; none given in service is on record.
+A unique number at birth was provided for in 2026, through e-notification due by December; whether any child has received it is unknown.
 
+- PS Belio Kipsang said on 6 October 2026 that rolling out e-notification to SHA-contracted hospitals by December 2026 would enable children to receive a Unique Personal Identifier (UPI), intended as a common identifier across government systems ([source, 2026-10-06](https://www.kenyans.co.ke/news/127644-state-expand-digital-birth-registration-sha-hospitals-within-3-months)).
 - PS Belio Kipsang said all children will be issued a Unique Personal Identifier (Maisha Number) at birth, kept for life and becoming the national ID card number at 18, through an e-notification system that is built and to be rolled out soon ([source, 2026-05-18](https://nation.africa/kenya/news/inside-new-reforms-to-curb-birth-certificate-fraud-5463104)).
 - Kenya's Civil Registration Services list as next step the adoption of a Unique Personal Identifier, a lifelong identifier assigned at birth ([source, 2026-07-18](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-kenya.pdf)).
-- The Interior Secretary says the coming system will give every Kenyan registered at birth a Unique Personal Identifier, serving as the birth certificate number and later the national ID identifier at 18 ([source, 2025-02](https://www.biometricupdate.com/202502/kenyas-birth-registration-reforms-set-the-stage-for-automatic-national-id-issuance)).
+
+### Liberia: 2 Nascent
+
+Liberia began enrolling children under six with ID numbers in a 2023 programme piloted in three counties; no source ties a number to birth registration.
+
+- The Liberian Investigator reports that in June 2023 the NIR modified its system to assign unique identification numbers to children under six, in a programme now called 'Enrolment at Birth', with a pilot in Montserrado, Grand Bassa and Gbarpolu ([source, 2023-06](https://liberianinvestigator.com/nir-partners-launch-national-id-documents-for-children-under-six/)).
 
 ### Madagascar: 2 Nascent
 
@@ -157,15 +183,16 @@ A unique number at birth was provided for or piloted in 2025; none given in serv
 
 A unique number at birth was provided for or piloted in 2026; none given in service is on record.
 
-- KT Press says children receive their first digital ID from birth, with a facial photo from age four and fingerprints and iris at five ([source, 2026-05](https://www.ktpress.rw/2026/05/with-rwandas-new-digital-id-you-will-control-everything-anyone-sees/)).
 - NIDA Director General Josephine Mukesha says the Single Digital ID will be issued from birth, extending identification to all citizens, unlike the current system that mainly covers those aged 16 and above ([source, 2026-03-26](https://www.newtimes.co.rw/article/34398/news/technology/govt-sets-2027-deadline-for-full-shift-to-digital-id)).
+- KT Press says children receive their first digital ID from birth, with a facial photo from age four and fingerprints and iris at five ([source, 2026-05](https://www.ktpress.rw/2026/05/with-rwandas-new-digital-id-you-will-control-everything-anyone-sees/)).
 
 ### Tanzania: 2 Nascent
 
 A unique number at birth was provided for or piloted in 2026; none given in service is on record.
 
 - The NIDA Director said a child-identification plan, registering children with NIDA from birth, is under pilot in three districts ([source, 2026-09-16](https://www.thecitizen.co.tz/tanzania/news/national/why-your-nida-number-is-more-than-just-a-numeral-5598108)).
-- The Home Affairs Minister said preparations are underway to register children so that every Tanzanian has a National Identification Number ([source, 2026-09-16](https://dailynews.co.tz/unclaimed-ids-law-in-offing/)).
+- The government plans to start registering people under 18 to give them a Jamii Namba from birth, with pilots in Kilolo, Rungwe and a southern district in fiscal year 2026/27, NIDA says ([source, 2026-09-01](https://nida.go.tz/uploads/speeches/20260911123900_doc.pdf)).
+- The government has completed preparations for a pilot issuing Jamii Namba unique ID numbers to children from birth on birth certificates in Rungwe, Kilolo and Unguja South, once legal arrangements are completed, per the Deputy Minister ([source, 2026-05-08](https://dailynews.co.tz/jamii-namba-children-pilot-set-for-rollout/)).
 
 ### Zambia: 2 Nascent
 
@@ -179,29 +206,11 @@ A 2026 source says a birth creates no identity record.
 
 - The AMECC project says the Comorian civil registration system is still largely dependent on old paper registers, and some people, including children, still hold no birth extract in 2026 ([source, 2026-08-28](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/%C3%A9tat-civil-l%E2%80%99amecc-veut-enterrer-les-registres-sur-papier-.html)).
 
-### Mali: 1 Absent
+### Mali: Unplaced
 
-A 2026 source says a birth creates no identity record.
+Nothing found since 2023 says whether a birth is given an identity number, so no stage is set.
 
-- Mali's DNEC describes a paper community chain of village notebooks feeding birth registration and names a move to a digital model as a perspective, with no identity number given at birth ([source, 2026-07-18](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-decentralisation-mali_0.pdf)).
-
-### Algeria: Unplaced
-
-Nothing found since 2023 names a unique number given at birth, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether a birth is given an identity number.
-
-### Gambia: Unplaced
-
-Nothing found since 2023 names a unique number given at birth, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether a birth is given an identity number.
-
-### Liberia: Unplaced
-
-Nothing found since 2023 names a unique number given at birth, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether a birth is given an identity number.
+Not established: No source says whether a birth registered in Mali creates an identity number. The DNEC's 2026 account of paper village notebooks covers remote areas only.
 
 ### Burkina Faso: No evidence
 

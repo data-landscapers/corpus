@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NER-001",
-      "gaps": "No source found since October 2023 says: is a number given at birth in part of the country.",
-      "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source found since October 2023 says children receive a number when their birth is registered.",
+      "note": "Rebuild: a pilot launched in four communes in April 2025 is to register under-fives and issue a unique identifier number, stage 2. Nothing says children have received it.",
+      "as_at": "2026-11-07"
     }
   ]
 }

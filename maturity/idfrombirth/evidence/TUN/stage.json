@@ -9,10 +9,10 @@
       "complete": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TUN-002",
+      "stage_sources": "TUN-002;TUN-001",
       "gaps": "No source found since October 2023 puts birth registration at all births and deaths at 80% or more.",
-      "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild: the 2026 playbook says the IUC is given at birth to every person entered in the civil status register, fed from Madania; stage 4. Complete birth and death registration is not held.",
+      "as_at": "2026-11-07"
     }
   ]
 }

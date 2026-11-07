@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "GIN-001",
-      "gaps": "No number is yet recorded as given at birth, in part of the country or nationally.",
-      "note": "The RENEC project launched on 28 October 2026 provides for a unique identifier for each citizen from birth, a programme providing for the number. Nothing says children yet receive it, so not stage 3.",
-      "as_at": "2026-10-30"
+      "gaps": "No source found since October 2023 says children receive a number when their birth is registered.",
+      "note": "Rebuild: the RENEC project launched on 28 October 2026 provides a unique identifier for each citizen from birth, stage 2. Nothing says a child has received one.",
+      "as_at": "2026-11-07"
     }
   ]
 }

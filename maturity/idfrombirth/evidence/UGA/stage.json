@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "frombirth",
-   "stage": "3",
-   "number": "inservice",
-   "national": "",
-   "complete": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-002;UGA-001",
-   "gaps": "No source found since October 2023 says every registered birth across the country receives the number.",
-   "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "frombirth",
+      "stage": "3",
+      "number": "inservice",
+      "national": "",
+      "complete": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-002;UGA-001",
+      "gaps": "No source found since October 2023 says every registered birth across the country receives the number. NIRA lists deploying instant NIN generation at birth registration as a next step.",
+      "note": "Rebuild: NIRA registers newborns at most major hospitals and issues the NIN on birth notification (2026), stage 3. It names instant NIN generation as a next step, so not stage 4.",
+      "as_at": "2026-11-07"
+    }
+  ]
 }

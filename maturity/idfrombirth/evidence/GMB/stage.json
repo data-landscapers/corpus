@@ -1,17 +1,18 @@
 {
- "iso3": "GMB",
- "cells": [
-  {
-   "sub_indicator": "frombirth",
-   "stage": "unplaced",
-   "number": "",
-   "national": "",
-   "complete": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found since October 2023 says whether a birth is given an identity number.",
-   "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py."
-  }
- ]
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "frombirth",
+      "stage": "3",
+      "number": "inservice",
+      "national": "",
+      "complete": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GMB-001",
+      "gaps": "No source found since October 2023 says every registered birth across the country receives the number.",
+      "note": "Rebuild: the World Bank (2024) says the eCRVS generates a unique national ID number in real time for each birth certificate and is now the foundational system, so stage 3. The first pass dated the fact to the 2022-23 campaign and left it unplaced; nothing says every registered birth receives the number.",
+      "as_at": "2026-11-07"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "BWA",
- "cells": [
-  {
-   "sub_indicator": "frombirth",
-   "stage": "4",
-   "number": "inservice",
-   "national": "national",
-   "complete": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BWA-002",
-   "gaps": "No source found since October 2023 puts birth registration at all births and deaths at 80% or more.",
-   "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py."
-  }
- ]
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "frombirth",
+      "stage": "4",
+      "number": "inservice",
+      "national": "national",
+      "complete": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BWA-002;BWA-001",
+      "gaps": "No source found since October 2023 puts birth registration at all births and deaths at 80% or more.",
+      "note": "Rebuild: Statistics Botswana (2026) says every citizen child is given the number at birth, which is stage 4. Complete birth and death registration is not held.",
+      "as_at": "2026-11-07"
+    }
+  ]
 }

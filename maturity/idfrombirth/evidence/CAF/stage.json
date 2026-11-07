@@ -1,17 +1,18 @@
 {
- "iso3": "CAF",
- "cells": [
-  {
-   "sub_indicator": "frombirth",
-   "stage": "no evidence",
-   "number": "",
-   "national": "",
-   "complete": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says whether a birth is given an identity number.",
-   "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py."
-  }
- ]
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "frombirth",
+      "stage": "no evidence",
+      "number": "",
+      "national": "",
+      "complete": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found says whether a birth is given an identity number.",
+      "note": "Rebuild: No row on this sub-indicator is held, so no stage is set.",
+      "as_at": "2026-11-07"
+    }
+  ]
 }

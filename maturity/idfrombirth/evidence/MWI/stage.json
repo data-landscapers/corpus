@@ -9,10 +9,10 @@
       "complete": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MWI-001;MWI-002",
+      "stage_sources": "MWI-003;MWI-001;MWI-002",
       "gaps": "No source found since October 2023 says every registered birth across the country receives the number.",
-      "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py.",
-      "as_at": "2026-10-17"
+      "note": "Rebuild: the bureau reports 3.5 million births registered with unique identifiers (2025), stage 3. No source says every registered birth across the country receives one, which stage 4 must show.",
+      "as_at": "2026-11-07"
     }
   ]
 }

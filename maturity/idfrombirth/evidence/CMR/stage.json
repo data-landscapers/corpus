@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "CMR-001",
-      "gaps": "No source found since October 2023 says: is a number given at birth in part of the country.",
-      "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source found since October 2023 says children receive a number when their birth is registered. The deck does not say the NIPU is given at birth registration.",
+      "note": "Rebuild: law 2024/016 on civil status institutes a unique personal identification number with the national civil-status file, which provides for it: stage 2. Nothing says a child has received one.",
+      "as_at": "2026-11-07"
     }
   ]
 }

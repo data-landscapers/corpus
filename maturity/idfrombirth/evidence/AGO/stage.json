@@ -9,10 +9,10 @@
       "complete": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "AGO-001;AGO-005",
-      "gaps": "No source found since October 2023 says every registered birth across the country receives the number.",
-      "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "AGO-001;AGO-002",
+      "gaps": "No source found since October 2023 says every registered birth across the country receives the number. An April 2025 claim that every maternity has a registration and BI post is contradicted by 2026 statements that BI at birth is the plan's second phase.",
+      "note": "Rebuild: the Mbanza Kongo maternity has issued the BI to newborns since October 2025 under Nascer com Registo, so stage 3. The July 2026 statements place BI at birth nationwide in a later phase, so not stage 4.",
+      "as_at": "2026-11-07"
     }
   ]
 }

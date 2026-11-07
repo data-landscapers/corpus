@@ -1,17 +1,18 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "frombirth",
-   "stage": "3",
-   "number": "inservice",
-   "national": "",
-   "complete": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-002",
-   "gaps": "No source found since October 2023 says every registered birth across the country receives the number.",
-   "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "frombirth",
+      "stage": "2",
+      "number": "underway",
+      "national": "",
+      "complete": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-003;GHA-001;GHA-004",
+      "gaps": "No source found since October 2023 says children receive a number when their birth is registered. The Ghana Card number at birth launched in March 2024 was suspended after a technical fault.",
+      "note": "Rebuild: the number at birth launched in March 2024 was suspended, and in August to October 2026 the NIA was testing a renewed system and preparing to start, so stage 2 from 3. The newest facts stand over the 2024 launch.",
+      "as_at": "2026-11-07"
+    }
+  ]
 }

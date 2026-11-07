@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "frombirth",
-      "stage": "unplaced",
-      "number": "",
+      "stage": "2",
+      "number": "underway",
       "national": "",
       "complete": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether a birth is given an identity number.",
-      "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "LBR-001",
+      "gaps": "No source found since October 2023 says children receive a number when their birth is registered.",
+      "note": "Rebuild: the NIR's Enrolment at Birth gives ID numbers to under-sixes, with a pilot in three counties launched in January 2025, so stage 2. Enrolment is separate from birth registration and was to begin; the first pass left it unplaced on the 2023 date.",
+      "as_at": "2026-11-07"
     }
   ]
 }

@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "NGA-003;NGA-001",
       "gaps": "No source found since October 2023 says every registered birth across the country receives the number.",
-      "note": "First pass: counted from the four questions by study-ladder-idfrombirth.py.",
-      "as_at": "2026-10-18"
+      "note": "Rebuild: the NPC said in September 2025 that the NIN is integrated into e-CRVS and newborns can receive it, citing 15,000 children in Jigawa, so stage 3. Nothing says every registered birth receives it.",
+      "as_at": "2026-11-07"
     }
   ]
 }
