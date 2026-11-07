@@ -1,0 +1,15 @@
+{
+ "slug": "2024-08-01-mwi-12-3-million-register-for-id-cards",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Registration Bureau national ID",
+   "country_label": "Malawi",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": "Gives a count of 12,287,349 aged 16+ registered since 2016 but no total population or all-ages share, so no share value is stated."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-05-gha-false-91-of-ghanaians-have-not-received-their-ghana-cards",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "National Identification Authority data as at 30 October 2026, reported by Dubawa, show 20,610,948 people enrolled for the Ghana Card, against a Ghana Statistical Service population projection of 34,378,768 for 2026 and a 2021 census count of 30,832,019.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana Card",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

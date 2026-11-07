@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-02-mar-dgsn-national-trust-platform-32-million-ecnie",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "twothirds",
+   "fact": "The DGSN spokesperson says 32 million electronic ID cards plus 2.7 million for Moroccans abroad have been issued since 2008, meaning 87% of Moroccan citizens have been identified.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "National electronic ID card (CNIE)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

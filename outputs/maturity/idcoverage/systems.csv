@@ -56,6 +56,7 @@ ETH,Fayda,Ethiopia,idsystem,,National ID Program (NIDP),,2026-05-12 Strengthenin
 ETH,Fayda,Ethiopia,idsystem,MOSIP,,,2026-04-07-dashen-bank-first-digital-id-accounts-biometricupdate
 ETH,Fayda,Ethiopia,idsystem,,NIDP,,2026-03-13-fayda-joins-sovereign-wealth-fund-1m-weekly-biometricupdate
 ETH,National digital ID (National ID Program),Ethiopia,idsystem,,Ethiopian National ID Program,,2026-05-13-eth-ena-eca-personal-data-protection-consultation
+ETH,national digital ID programme,Ethiopia,idsystem,,government,,2026-06-23-eth-ethiopia-plans-local-laptop-tablet-assembly-in-digital-sovereignty-pus
 GAB,Permis de conduire digitalisé,Gabon,other,"Rengus Digital, hosted on Gabon Poste infrastructure",Ministère des Transports,,2026-10-02-permis-de-conduire-digitalise-gabon-poste-rengus-digital-architecture-technique
 GAB,Permis de conduire digitalisé,Gabon,other,,Ministère des Transports,,2026-09-21-gab-gabonreview-permis-conduire-digitalise-enrolement-suspendu
 GAB,Registre biometrique des personnes physiques (RBPP),Gabon,idsystem,,Government of Gabon (Ministry of Interior),,2025-06-23-gabon-legal-digital-id-three-projects
@@ -64,6 +65,8 @@ GAB,ID card and passport in Gabon,GAB,idsystem,,,,2024-01-01-in-groupe-insight-r
 GHA,Ghana Card,Ghana,idsystem,,National Identification Authority,,2026-08-13-ghana-nia-24hr-ghana-card-registration
 GHA,Ghana Card / National Identification Register,Ghana,idsystem,,National Identification Authority,,2024-03-14-ghana-card-number-at-birth-system-launch
 GHA,Ghana Card,Ghana,idsystem,,,"about 17 million holders, population not given",2024-05-14-gha-ghana-s-e-initiatives-good-model-for-digital-transformation-in-africa
+GHA,Ghana Card,Ghana Card,idsystem,,National Identification Authority,,2026-11-05-gha-false-91-of-ghanaians-have-not-received-their-ghana-cards
+GHA,Ghana Card,Ghana Card,idsystem,,National Identification Authority,,2025-07-15-gha-nia-registers-190-000-persons-within-first-half-of-2025
 GIN,Registre national des personnes physiques (RNPP),GIN,idsystem,,ONECI and DGE under MATD,,2026-09-18-gin-guinee114-atelier-extension-rnpp
 GMB,National Identity Management System,The Gambia,idsystem,,Ministry of Interior,,2026-01-22 The Gambia picks Margins ID Group for national ID infrastructure upgrade
 KEN,IPRS,Kenya,idsystem,,State Department for Immigration and Citizen Services,,2026-06-26-govt-enhances-registration-new-technology
@@ -106,6 +109,7 @@ MWI,NRIS,Malawi,idsystem,,National Registration Bureau,,2026-09-26-mwi-nzika-wal
 MWI,National Identity system,Malawi,idsystem,,,,2026-07-10-macra-undp-ai-digital-id-collaboration-itweb
 MWI,National Registration and Identification System,Malawi,idsystem,,National Registration Bureau,,2025-09-04-nrb-strategic-plan-2025-2030-launch
 MWI,National Registration and Identification System (NRIS),Malawi,idsystem,,National Registration Bureau,,2026-07-13-mwi-undp-digital-innovation-egovernment-recognition
+MWI,National Registration Bureau national ID,Malawi,idsystem,,National Registration Bureau,,2024-08-01-mwi-12-3-million-register-for-id-cards
 NAM,e-ID,Namibia,idsystem,,Ministry of Home Affairs,,2026-09-16-nam-nampa-government-targets-legal-identity-for-all-by-2030
 NAM,e-ID card,Namibia,idsystem,,"Ministry of Home Affairs, Immigration, Safety and Security",,2026-07-29-namibian-home-affairs-clarifies-eid-costs
 NER,CNIB,Niger,idsystem,,,,2026-09-16-ner-actuniger-lancement-passeport-biometrique-aes
@@ -115,6 +119,7 @@ NER,Registre National de la Population (planned),Niger,idsystem,,,,2026-09-03-ni
 NER,Registre National d'État Civil (planned),Niger,other,,,,2026-09-03-niger-diffa-tour-etat-civil-anei-rnp
 NER,Niger national e-ID card,Niger,idsystem,,"Ministry of Interior, Niger",,2025-06-30 Niger moves to modernize ID system with biometric e-ID and e-Passport
 NER,Carte Nationale d'Identite / RNP (ANEI),Niger,idsystem,,ANEI / Ministry of Interior,,2026-08-29-niger-agadez-reformes-etat-civil-identification
+NER,carte nationale d'identité biométrique,Niger,idsystem,,Ministère de l'Intérieur,,2026-10-07-ner-sensibilisation-en-matiere-de-l-etat-civil-et-d-identification-des-per
 NGA,National Identification Number (NIN),Nigeria,idsystem,,NIMC,,2026-02-16 Nigeria launches nationwide ward-level drive to boost digital ID coverage and inclusion
 NGA,National identity architecture (NIMC),Nigeria,idsystem,,NIMC,,2026-10-10-nga-timeexpressnigeria-gov-radda-seeks-nimc-partnership-to-strengthen-identity-mana
 NGA,National Identification Number (NIN),Nigeria,idsystem,,NIMC,,2026-09-07-nigeria-nin-62-5-million-gap-world-bank-id4d
@@ -131,6 +136,7 @@ SLE,National Identification Number and National ID card,SLE,idsystem,,NCRA,,2026
 SLE,National Biometric Identity Management System / NIN,Sierra Leone,idsystem,,NCRA,,2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure
 SLE,National Identification Number (NIN) database,SLE,idsystem,,NCRA,,2025-08-20-sle-to-fast-track-nin-integration-with-telecom-services-ncra-natca-sign-mo
 SLE,National Identification Number (NIN) and ID card,NIN / National ID Card,idsystem,MOSIP pilot completed February 2024; switch to MOSIP under way,National Civil Registration Authority (NCRA),,2024-04-11-sle-sierra-leone-putting-digital-id-at-the-center-of-its-digital-transform
+SLE,National Identification Number (NIN),Sierra Leone,idsystem,eCRVS,NCRA,,2026-08-17-sle-93-of-sierra-leone-registered-with-unique-nins
 SOM,eAqoonsi,Somalia,idsystem,,NIRA,,2026-09-20-som-hiiraan-national-id-1-5-million
 SOM,National Identification Number (Tirsi Aqoonsi),Somalia,idsystem,,NIRA,"certificate, digital mobile ID, physical card",2025-11-27 Somalia's Digital ID - A Milestone on the Roadmap Towards Effective Governance
 SOM,HUBIYE Verification Platform,Somalia,other,,NIRA,,2025-11-27 Somalia's Digital ID - A Milestone on the Roadmap Towards Effective Governance
@@ -139,6 +145,7 @@ SOM,NIRA national identity card,Somalia,idsystem,,NIRA,,2026-10-01-som-hiiraan-n
 SOM,National ID (NIRA),Somalia,idsystem,,National Identification and Registration Authority,,2026-09-19-som-sonna-national-identification-week-2026
 SOM,National Identification and Registration Authority identity number,Somalia,idsystem,,National Identification and Registration Authority (NIRA),,2026-09-09-som-somalidigest-nira-id-behind-every-social-media-account
 SOM,OpenCRVS Unified Digital Civil Registration System,Somalia,other,OpenCRVS,,,2026-01-16 OpenCRVS Somalia Unified Digital Civil Registration System
+SOM,Somali National ID system,Somali National ID system,idsystem,,National Identification and Registration Authority,national,2025-11-24-som-somali-national-id-system-has-become-a-cornerstone-of-state-building
 SSD,Personal identity card (Butaka Shakhsia),South Sudan,idsystem,,"Directorate of Civil Registry, Nationality, Passport and Immigration (DNPI)",,"2026-01-16 Juba - Passport, ID card issuance resumes"
 SSD,National ID,South Sudan,idsystem,,"Department of Civil Registry, Nationality, Passport and Immigration",,2025-12-15 Strengthening Civil Registration and Ending Statelessness in South Sudan
 SSD,Nationality Certificate,South Sudan,other,,"Department of Civil Registry, Nationality, Passport and Immigration",,2025-12-15 Strengthening Civil Registration and Ending Statelessness in South Sudan
@@ -151,6 +158,7 @@ TGO,NIU,Togo,idsystem,,ANID,,2026-05-11-togofirst-togo-expands-biometric-identif
 TGO,NIU / MOSIP-based national digital ID,Togo,idsystem,MOSIP,ANID,biometric card with QR code,2026-04-27-biometricupdate-togo-6m-niu-mosip
 TGO,NIU / e-ID Togo,Togo,idsystem,,ANID,biometric card with QR code,2026-04-23-togo-6-millions-niu-fin-2025
 TGO,MOSIP-based digital ID,Togo,idsystem,MOSIP,,,2026-05-28 Why decentralized digital identity looks different in every country
+TGO,data-use hub,Togo,other,,ANID with Ministry of Digital Economy,,2023-12-07-crs-4-2023afd00779-2023-fid-un-pole-d-utilisation-des-donnees-numeriques-p
 TUN,National Health Identifier (INS),Tunisia,other,,Ministry of Health,,2026-07-23-tunisia-finalizes-sahetna-digital-health-portal-national-id
 TUN,Mobile ID,Tunisia,other,,,,2026-06-26-techafricanews-mobile-id-mandatory-investors
 TUN,Carte nationale d'identité (chip card),Tunisia,idsystem,,Ministry of the Interior specialized services,,2024-03-11-loi-organique-2024-22-carte-identite-nationale
@@ -166,6 +174,8 @@ UGA,NIRA national ID database,UGA,idsystem,,NIRA,,2024-10-14 Uganda financial in
 UGA,EMIS,Uganda,other,developed by SMS ONE Ltd,Ministry of Education and Sports,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
 UGA,National Identification Number (NIN),Uganda,idsystem,,NIRA,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
 UGA,UNEB index number,Uganda,other,developed by SMS ONE Ltd,UNEB,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
+UGA,National Identification Register,National Identification Register,idsystem,,NIRA,,2025-05-06-uga-all-set-as-33-million-ugandans-await-mass-national-id-enrollment-renew
+UGA,National Identification Register (NIRA),Uganda,idsystem,,NIRA,,2025-01-09-uga-nira-prepares-for-mass-registration-id-renewal
 ZMB,Integrated National Registration Information System (INRIS),Zambia,idsystem,,DNRPC,,2024-09-17 DPI Safeguards come online in Zambias next phase of digital integration
 ZMB,National Registration Card (NRC),Zambia,other,,DNRPC,,2024-09-17 DPI Safeguards come online in Zambias next phase of digital integration
 ZMB,MOSIP-based digital ID,Zambia,idsystem,MOSIP,Smart Zambia Institute,,2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project

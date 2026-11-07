@@ -157,8 +157,9 @@ Fewer than a third of the population held a national ID in 2026.
 
 ### Niger: 1 Absent
 
-About 3 million people, under a third of the population, held a national ID card in 2026; a report a week earlier said 10 million.
+Fewer than 3 million people, under a third of the population, held a national ID card in 2026; one earlier report implied 10 million.
 
+- Niger's territorial administration director general said fewer than 3 million people hold a national identity card, against about 13 million Nigeriens obliged to have one ([source, 2026-10-07](https://www.lesahel.org/sensibilisation-en-matiere-de-letat-civil-et-didentification-des-personnes-la-caravane-nationale-fait-halte-a-niamey-pour-cloturer-sa-campagne/)).
 - The Secretary General of Diffa region said about three million Nigeriens currently hold a national identity card, out of an estimated 13 million potentially concerned; against the 27.9 million population that is about 10.8% (computed here) ([source, 2026-09-03](https://anp.ne/diffa-lancement-de-la-tournee-nationale-de-sensibilisation-sur-la-modernisation-de-letat-civil-et-lidentification/)).
 
 ### Somalia: 1 Absent

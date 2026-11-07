@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-17-uga-18-million-ugandans-are-unregistered-says-nira",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "NIRA's monitoring and evaluation manager said over 27 million people are fully registered in its register against a population of over 45 million (about 60%), leaving an estimated 18 million unregistered.",
+   "as_of": "2024-04-16",
+   "date_precision": "day",
+   "system": "NIRA national register",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

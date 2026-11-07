@@ -9,10 +9,10 @@
       "births": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NER-001",
-      "gaps": "No source found since October 2023 counts a third of the population or more holding a national ID. Two reports of the same official a week apart disagree: about 3 million hold the card (Diffa, September 2026) or about 3 million lack one (Agadez, August 2026).",
-      "note": "The newest fact stands: the September 2026 Diffa report puts holders at about 3 million, about 11% of the population. The earlier Agadez report would give about 36%, so the cell is staged on the lower, later reading.",
-      "as_at": "2026-11-06"
+      "stage_sources": "NER-003;NER-001",
+      "gaps": "No source found since October 2023 counts a third of the population or more holding a national ID. An Agadez report of August 2026 has the same official saying about 3 million lack the card, which would give about 36%; the later Diffa and Niamey reports both put holders at about 3 million.",
+      "note": "Stage 4c 2026-11-07: on 7 October 2026 the director general said fewer than 3 million hold the card (NER-003), confirming the Diffa reading of about 11% of the population. Nothing counts a third.",
+      "as_at": "2026-11-07"
     }
   ]
 }

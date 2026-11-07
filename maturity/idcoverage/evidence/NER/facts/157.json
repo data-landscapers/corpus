@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-07-ner-sensibilisation-en-matiere-de-l-etat-civil-et-d-identification-des-per",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "Niger's territorial administration director general said fewer than 3 million people hold a national identity card, against about 13 million Nigeriens obliged to have one.",
+   "as_of": "2026-10-07",
+   "date_precision": "day",
+   "system": "national identity card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "carte nationale d'identité biométrique",
+   "country_label": "Niger",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministère de l'Intérieur",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

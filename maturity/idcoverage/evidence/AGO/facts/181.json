@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-05-ago-governo-estima-que-dos-35-1-milhoes-de-angolanos-actuais-apenas-14-8-m",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "The government's Plano Estratégico para a Universalização do Bilhete de Identidade, published in Diário da República, estimates 14.8 million of 35.1 million Angolans (about 42%) hold a Bilhete de Identidade.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Bilhete de Identidade",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
