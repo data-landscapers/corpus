@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-nigeria-is-rewriting-its-cyber-laws",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "TechCabal says the government's National Digital Cloud Policy directs federal agencies to migrate legacy systems to the cloud, mandates that sensitive national data including biometric and healthcare records stay hosted in Nigeria, and grants tax and duty waivers on servers and data centre infrastructure.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "National Digital Cloud Policy",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

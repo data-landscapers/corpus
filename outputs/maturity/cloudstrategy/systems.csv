@@ -39,6 +39,8 @@ BFA,Two modular government datacentres (Cloud gouvernemental),Burkina Faso,other
 BWA,Digital Delta Data Centre (DDDC),Digital Delta Data Centre,other,,Botswana Fibre Networks (BoFiNet),central government services,2026-05-06-digital-delta-data-centre-improve-public-service-delivery
 BWA,Delta Digital Data Centre,Delta Digital Data Centre,other,,BoFiNet,"core government ICT systems, then applications from various ministries",2026-03-09-bwa-ict-roadmap-2030-digital-services-act-in-force
 BWA,Digital Delta Data Centre (DDDC),Digital Delta Data Centre,other,,"Botswana Fibre Networks (BoFiNet), 100% government-owned",,2025-11-26-digital-delta-data-centre-launch-connectingafrica
+BWA,GovCloud,Botswana,other,,"Ministry of Communications, Knowledge and Technology",,2024-03-14-bwa-more-funds-for-ict-infrastructure-segokgo
+BWA,Digital Delta Data Centre,Botswana,other,,BoFiNet,,2024-03-14-bwa-more-funds-for-ict-infrastructure-segokgo
 CAF,Strategie Nationale d'hebergement des donnees,Central African Republic,policy,,PGNSP,,2026-05-19-caf-atelier-strategique-sur-la-gouvernance-numerique-et-l-elaboration-de-l
 CIV,"national data center, Grand-Bassam",data center national à Grand-Bassam,other,,government (Ministry of Digital Transition),,2026-04-30-femua-18-hub-africain-ia-fratmat
 CIV,"data center, Yamoussoukro",data center à Yamoussoukro,other,,government (Ministry of Digital Transition),,2026-04-30-femua-18-hub-africain-ia-fratmat
@@ -210,6 +212,7 @@ NER,centre de donnees national Tier III,data center national de niveau Tier III,
 NER,Datacenter Tiers 3 Niamey,Datacenter Tiers 3,other,,Government of Niger (DTS/FO project),,2025-11-17-trans-sahara-fibre-backbone-1031km-tier3-datacentre-lesahel
 NER,Datacenter Tiers 3 de Niamey (Dorsale Transsaharienne a Fibre Optique project),Datacenter Tiers 3,other,,"Government of Niger, AfDB-financed project",,2025-11-14-anp-niger-reception-provisoire-troncons-dorsale-transsaharienne
 NER,Data Center national (Niger),Data center,other,,"Ministry of Communication, Posts and Digital Economy",,2025-03-04-minister-raliou-national-data-center-interview-lesahel
+NER,Datacenter National,Niger,other,,ANSI,,2026-10-29-ner-visite-technique-du-chantier-du-datacenter-national
 NGA,National Digital Marketplace,National Digital Marketplace,other,,"NITDA (registration), Bureau of Public Procurement (compliance), Galaxy Backbone (aggregation)","federal ministries, departments and agencies",2026-08-18-nigeria-national-digital-cloud-policy
 NGA,Galaxy Backbone Limited government cloud aggregation,Galaxy Backbone Limited (GBB),other,,Galaxy Backbone Limited,"federal ministries, departments and agencies",2026-08-18-nigeria-national-digital-cloud-policy
 NGA,National Digital Marketplace,National Digital Marketplace,other,,Federal Government of Nigeria,federal,2026-08-17-nigeria-national-digital-cloud-policy-fmcide-announcement
@@ -253,6 +256,7 @@ SEN,Cloud souverain,Cloud souverain,other,,,,2025-01-01-senum-transformation-dig
 SEN,Diamniadio National Datacenter,Diamniadio National Datacenter,other,Huawei equipment and technical support,State Informatics Agency (ADIE),government agencies and state-owned firms such as Senelec; also enterprises and other public bodies,2021-06-23-dcd-senegal-diamniadio-national-datacenter-state-data-migration
 SEN,Datacenter de Diamniadio,Datacenter de Diamniadio,other,,Agence de l'informatique de l'Etat (ADIE),"administration data, with space for the private sector",2021-06-21-sen-dakaractu-datacenter-diamniadio-10-milliards
 SEN,Diamniadio National Data Center,Diamniadio National Data Center (Smart Sénégal),other,Tier 3 data center built by Huawei,Government of Senegal / ADIE,,2021-01-01-eximbank-cn-sen-003-diamniadio-data-centre-restructuring-and-smart
+SEN,Apsara Stack private cloud (Dakar 2026),Senegal,other,Alibaba Cloud Apsara Stack,Dakar 2026 Organizing Committee,,2026-11-02-alibaba-cloud-ai-dakar-youth-olympic-games
 SLE,Government Data Centre at NatCA Tower,Government Data Centre,other,,"Ministry of Communication, Technology and Innovation",government institutions,2026-09-05-sierra-leone-moctii-un-data-governance-framework
 SLE,Redundancy site at State House (planned),redundancy site,other,,"Ministry of Communication, Technology and Innovation",,2026-09-05-sierra-leone-moctii-un-data-governance-framework
 SLE,NCRA Tier III-compliant data centre,NCRA data centre,other,,National Civil Registration Authority (NCRA),public and private identity verification,2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure
@@ -285,6 +289,7 @@ SYC,Data Center 1 - Bon Espoir,Data Center 1 - Bon Espoir,other,,Cable & Wireles
 SYC,Bon Espoir Data Centre,Bon Espoir Data Centre,other,,Cable & Wireless Seychelles,,2024-11-22-cable-wireless-inaugurates-state-of-the-art-data-centre
 SYC,Electronic Government Network (EGN),Electronic Government Network,other,,Department of Information Communication Technology (DICT),"ministries, departments and agencies (MDAs)",2025-06-17-national-assembly-dict-egn-visit
 SYC,Airtel Seychelles datacentre and hybrid network cloud,new datacentre in Seychelles,other,Ericsson virtualised network functions,Airtel Seychelles (Airtel Africa),,2021-12-13-itweb-airtel-seychelles-ericsson-turnkey-5g
+SYC,Government Cloud & Government Data Centre,Government Cloud & Government Data Centre,other,,Government of Seychelles,two geographically separated data centres,2026-10-30-syc-ai-to-support-permits-healthcare-and-fraud-detection-under-seychelles-50-million-digital-plan
 TCD,centre de données national,Centre de données national du Tchad,other,,Government of Chad (Telecommunications ministry),,2026-07-01-agenceecofin-tchad-cybastion-finaliser-datacenter
 TCD,Data Center national,Data Center national,other,Huawei equipment (PMICE project),ADETIC,national; hosting of public data and State digital services,2026-02-12-adetic-audit-certification-data-center-national
 TCD,National Data Center,National Data Center,other,,ADETIC,national,"2026-02-06 ADETIC, ANSICE, and TECHSO-GROUP Join Forces to Protect Chad's Digital Infrastructure"
