@@ -1,20 +1,20 @@
 ---
 title: North Africa — progress report, November 2025 – November 2026
-compiled: 2026-11-06
-period: 2025-11-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2025-11-01 to 2026-11-07
 place: XNA
-ledger_rows: 18
+ledger_rows: 19
 not_held: 0
-record: 4d21a829d27c
+record: cc54648b196a
 ---
 
 # North Africa: progress report, November 2025 – November 2026
 
-*Compiled 2026-11-06 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-11-07 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 18 bodies, instruments and systems on this place's ledger, 10 changed position between 2025-11-01 and 2026-11-06, 3 did not, 5 carry no stated baseline, and 0 are ***Not held*** at both ends.*
+*Of 19 bodies, instruments and systems on this place's ledger, 10 changed position between 2025-11-01 and 2026-11-07, 3 did not, 6 carry no stated baseline, and 0 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 18 sources for this place in the window — 6 in the earlier half (2025-12 to 2026-07), 12 in the later (2026-08 to 2026-11). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 19 sources for this place in the window — 6 in the earlier half (2025-12 to 2026-07), 13 in the later (2026-08 to 2026-11). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the repository holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
@@ -28,7 +28,7 @@ North Africa's ledger opens thin and moves through the Arab League rather than t
 
 ### Regional collaboration
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-06 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-07 | Progress |
 |---|---|---|---|
 | Arab Committee for Artificial Intelligence and Emerging Technologies | Did not exist | [Council approved the creation of an Arab committee for artificial intelligence and emerging technologies, and at the same session adopted the Arab Charter for AI Ethics, described by the Arab League secretariat as a guiding and advisory document resting on ethical principles rather than a binding instrument](https://www.youm7.com/story/2026/1/22/%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%89-%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-29-%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8/7278361) | Movement |
 | Arab conference of nationality and civil-status directors (recommendations) | Did not exist | [Recommended member states expand reliance on digital identity, strengthen legal frameworks protecting personal data in civil-status registers, and share defences against cyber threats aimed at those registers; a model data-protection framework for civil-status registers is to be circulated, and Iraq's proposal for a unified Arab identity was referred to member states for study](https://gate.ahram.org.eg/News/5891986.aspx) | Movement |
@@ -47,26 +47,27 @@ Every row on this section is an Arab League track, none an AU or REC one. [Arab 
 
 ### Data protection
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-06 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-07 | Progress |
 |---|---|---|---|
 | Draft Arab Agreement on Personal Data Protection | ***Baseline not held*** | [Prepared on an Algerian proposal approved by the Council of Arab Ministers of Justice; a joint committee of justice and interior ministry experts held its fourth meeting on the draft on 25 and 26 October 2026, its outcome to go to the council's session in Algeria in November 2026](http://www.leagueofarabstates.net/en/news/Pages/NewsDetails.aspx?RID=4160) | ***Baseline not held*** |
 
 ### Standards
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-06 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-07 | Progress |
 |---|---|---|---|
 | Arab Charter for AI Ethics | Did not exist | [Non-binding instrument carrying six pillars and about forty principles, including resisting “digital cultural westernisation” (مقاومة التغريب الرقمي), explicitly framed as guidance rather than a substitute for binding regulation](https://www.aicto.org/wp-content/uploads/2025/10/Arab_Charter_AI_Ethics_2025.pdf) | Movement |
 | ALECSO Charter on Artificial Intelligence Ethics | Adopted 17 June 2025 | [Scoped to education, culture and scientific research; asks member states to amend domestic law to implement it and names technological sovereignty among its principles — a second, distinct Arab AI-ethics instrument from the Arab Charter for AI Ethics above. An English version was published on 2026-09-12; no national adoption is recorded](https://n.alecso.org/fr/n/216-l-alecso-publie-la-version-anglaise-de-sa-charte-sur-l-ethique-de-l-intelligence-artificielle-2) | No change, an English version published |
+| Common Arab framework for AI governance (ESCWA and League of Arab States) | ***Baseline not held*** | [ESCWA and the League of Arab States are working on a common framework for AI governance meant to protect data, strengthen the Arabic language and help states keep control of their digital systems; national reviews put seven in ten Arab states with an AI strategy or policy in place or under development](https://www.unescwa.org/news/arab-region-advances-common-vision-digital-development-and-ai-governance) | ***Baseline not held*** |
 
 <!-- narrative: instruments -->
-Two Arab-League AI-ethics instruments sit on the ledger, adopted within weeks of each other in mid-2025 and routinely conflated with one another: the Arab Charter for AI Ethics is a general, non-binding six-pillar instrument covering forty principles, while the ALECSO charter is scoped narrowly to education, culture and scientific research and asks member states to amend domestic law. Neither carries an enforcement mechanism, and the AI governance committee's own working group tasked with "activating" the former has a chair but no published output as at this report.
+Two Arab-League AI-ethics instruments sit on the ledger, adopted within weeks of each other in mid-2025 and routinely conflated with one another: the Arab Charter for AI Ethics is a general, non-binding six-pillar instrument covering forty principles, while the ALECSO charter is scoped narrowly to education, culture and scientific research and asks member states to amend domestic law. Neither carries an enforcement mechanism, and the AI governance committee's own working group tasked with "activating" the former has a chair but no published output as at this report. [ESCWA and the League of Arab States are preparing a third text, a common Arab framework for AI governance](https://www.unescwa.org/news/arab-region-advances-common-vision-digital-development-and-ai-governance), with no draft published as at November 2026.
 <!-- /narrative -->
 
 ## Shared systems and infrastructure
 
 ### Connectivity
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-06 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-07 | Progress |
 |---|---|---|---|
 | Algerian 5G rollout | 5G licences awarded by ARPCE competitive tender, Ooredoo ranked second; no network yet launched (2025-07) | [Launched on USD 492 million of licences awarded to the three mobile operators (2025-12)](https://itweb.africa/article/mobilis-djezzy-ooredoo-lead-algerias-492m-5g-rollout/lwrKxq3YVEP7mg1o) | Movement |
 | Medusa submarine cable system — ViaTunisia (Bizerte–Marseille) segment | Under construction; EU CEF Digital co-financing of €9.6m against a €32m total project budget (the European Commission's own project record, correcting the €10m/~30% figure trade press had carried), project start 1 March 2023 | [Bizerte–Marseille segment operational, landing at Bizerte and connecting into Orange's Marseille interconnection hub; part of the wider 8,760km Medusa system, which the landing partner puts at 17 landing points across the northern and southern Mediterranean](https://digital-strategy.ec.europa.eu/en/news/viatunisia) | Movement |
@@ -74,7 +75,7 @@ Two Arab-League AI-ethics instruments sit on the ledger, adopted within weeks of
 
 ### Digital Payments and Fintech
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-06 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-07 | Progress |
 |---|---|---|---|
 | Arab Payment Systems Commission (29th ordinary meeting) | Did not exist | [Regulators set an agenda covering use of biometric data to limit payment fraud, security of the payments digital space and AI in payment-verification services, alongside instant payments and interoperability; no instrument, target date or funding figure is stated](https://www.dknews-dz.com/article/193186-banque-dalgerie-debut-a-alger-de-la-29e-reunion-ordinaire-de-la-commission-arabe-des-systemes-de-paiement-et-de-reglement.html) | Movement |
 | PAPSS membership in North Africa | Tunisia, Egypt and Morocco members | [Tunisia, Egypt, Morocco and Algeria all members — four of North Africa's five states — within a continental network the operator puts at 18 countries, 150+ commercial banks and 14 switches](https://www.afreximbank.com/bank-of-algeria-joins-papss-network-accelerating-financial-integration-in-africa-as-algeria-prepares-to-host-iatf-2025) | Movement |
@@ -82,7 +83,7 @@ Two Arab-League AI-ethics instruments sit on the ledger, adopted within weeks of
 
 ### National statistics
 
-| Body, instrument or system | At 2025-11-01 | At 2026-11-06 | Progress |
+| Body, instrument or system | At 2025-11-01 | At 2026-11-07 | Progress |
 |---|---|---|---|
 | AMU-Statistics Sweden cooperation on migration statistics | ***Baseline not held*** | [A 2023-2026 cooperation project between Statistics Sweden and the Arab Maghreb Union has funded a migration-statistics consultant supporting the Union and its member states; the Union tendered an audit of the consultant's fees for January to June 2026. No output of the project is held](https://maghrebarabe.org/6762/) | ***Baseline not held*** |
 

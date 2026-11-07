@@ -1,11 +1,11 @@
 ---
 title: North Africa — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: XNA
-ledger_rows: 2
+ledger_rows: 3
 not_held: 0
-record: fa1f264f719e
+record: 9c0766149f99
 ---
 
 # News, Oct – Nov 2026
@@ -44,6 +44,8 @@ A UN commission session in Tunis on 4 and 5 November 2026 discussed a second Ara
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Instruments and harmonisation">
 <a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
 </nav>
 
 ### Data protection
@@ -57,6 +59,22 @@ A UN commission session in Tunis on 4 and 5 November 2026 discussed a second Ara
 **[General Secretariat holds fourth meeting of joint committee to consider the Draft Arab Agreement on Personal Data Protection](http://www.leagueofarabstates.net/en/news/Pages/NewsDetails.aspx?RID=4160)** — League of Arab States, 25 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a>
 
 The League of Arab States held the fourth meeting of a joint expert committee on a Draft Arab Agreement on Personal Data Protection on 25 and 26 October 2026. The draft stems from an Algerian proposal approved by the Council of Arab Ministers of Justice. The results go to that council's session in Algeria in November 2026.
+
+</div>
+
+</div>
+
+### Standards
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Common Arab framework for AI governance (ESCWA and League of Arab States)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Arab region advances common vision for digital development and AI governance](https://www.unescwa.org/news/arab-region-advances-common-vision-digital-development-and-ai-governance)** — United Nations Economic and Social Commission for Western Asia (ESCWA), 6 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
+
+Sixth session of ESCWA tech committee, Tunis, 4-5 Nov 2026; 95% coverage vs 70% use; common Arab AI framework with LAS.
 
 </div>
 
