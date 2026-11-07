@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-05-ken-kenya-seeks-chinese-support-for-digital-economy-and-ai-development",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Kenya's ICT Cabinet Secretary and the Chinese ambassador discussed a proposed US$180 million grant for Phase One of an AI Cloud Data Project slated for Eldoret, to strengthen Kenya's AI and cloud computing infrastructure; the grant was under discussion.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "AI Cloud Data Project",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI Cloud Data Project (Phase One)",
+   "country_label": "Kenya",
+   "class": "localai",
+   "platform": "AI and cloud computing infrastructure, Eldoret",
+   "owner": "Government of Kenya with Chinese support (proposed)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

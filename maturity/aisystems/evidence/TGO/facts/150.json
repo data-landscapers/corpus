@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-05-tgo-ia-jusqua-262-millions-de-dollars-de-gain-potentiel-pour-le-togo",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Since September 2026 the Togolese government has been testing Voix du Togo, a programme to develop AI tools that understand Ewe, Kabiye and Moba before extending to about fifty national languages, as reported from the Ayre Index.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Voix du Togo",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Voix du Togo",
+   "country_label": "Togo",
+   "class": "localai",
+   "platform": "",
+   "owner": "Government of Togo",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

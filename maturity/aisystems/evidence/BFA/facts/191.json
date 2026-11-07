@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-06-bfa-sahal-tech-old-rock-group-african-language-ai",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Tech Africa News reports Sahal Tech Innovation Labs signed an agreement with Old Rock Group on 2 November 2026 in Ouagadougou to build the Sahal African Language Data Platform, starting with Moore, Dioula, Fulfulde and Bambara datasets and AI.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "Sahal African Language Data Platform (SALDP)",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sahal African Language Data Platform (SALDP)",
+   "country_label": "Burkina Faso",
+   "class": "localai",
+   "platform": "language datasets and AI",
+   "owner": "Sahal Tech Innovation Labs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

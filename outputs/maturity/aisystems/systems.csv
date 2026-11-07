@@ -11,6 +11,7 @@ BFA,L'Essentiel.bf,Burkina Faso,localai,web and mobile app,CITADEL and Data Lab,
 BFA,LegiChat,Burkina Faso,localai,app,,,2025-11-17-bfa-contribution-by-burkina-faso-to-the-cstd-2025-2026-priority-theme-on-s
 BFA,French-Mooré translation platform,Burkina Faso,localai,platform,,,2025-11-17-bfa-contribution-by-burkina-faso-to-the-cstd-2025-2026-priority-theme-on-s
 BFA,AI agents developed by local structures,Burkina Faso,localai,,,,2026-10-28-bfa-digitalmagazine-cadre-concertation-dsi-2026-ia-dematerialisation
+BFA,Sahal African Language Data Platform (SALDP),Burkina Faso,localai,language datasets and AI,Sahal Tech Innovation Labs,,2026-11-06-bfa-sahal-tech-old-rock-group-african-language-ai
 BWA,Setswana AI,Botswana,localai,,Kitso Speaks and Glen Mokoka,,2025-02-07-bwa-speaks-mokoka-the-brains-behind-setswana-artificial-intelligence
 BWA,Uhuru,Botswana,localai,"WhatsApp, SMS, USSD, web app",Orion X,free; Pro,2025-07-23-bwa-how-uhuru-sets-to-resist-digital-imperialism
 BWA,Lesedi high-density computational facility,Botswana,localai,containerised computing on gas-fired power,Kala Data FZCO (operator) with Tlou Energy,,2025-03-11-bwa-agreement-for-data-centre-development-at-lesedi
@@ -111,6 +112,7 @@ KEN,Oracle AI-powered cloud platform,Oracle cloud region Nairobi,localai,cloud,O
 KEN,Kenya AI & Cloud Pioneer Initiative,Kenya AI & Cloud Pioneer Initiative,localai,Huawei Cloud,MICDE with Huawei,,2025-05-19-ken-kenya-ai-cloud-pioneer-initiative-unveiled-at-huawei-summit
 KEN,"Microsoft-G42 data centre, Olkaria",Kenya,other,,Microsoft and G42,,2026-08-24-ken-can-kenya-s-ai-ambitions-coexist-with-naivasha-s-water-needs
 KEN,"Centre for Data Science and Artificial Intelligence, Dedan Kimathi University of Technology",Kenya,other,,Dedan Kimathi University of Technology,,2024-12-31-iati-xm-dac-301-2-110473-001-centre-for-data-science-and-artificial-intelligence-multidis
+KEN,AI Cloud Data Project (Phase One),Kenya,localai,"AI and cloud computing infrastructure, Eldoret",Government of Kenya with Chinese support (proposed),,2026-11-05-ken-kenya-seeks-chinese-support-for-digital-economy-and-ai-development
 LBR,CJ Lewis,Liberia,localai,Liblaw,Liblaw,,2026-08-03-liblaw-cj-lewis-legal-ai-liberia
 LBY,LIBIGPT,Libya,localai,generative AI model,Smart Co for Technology Projects and Artificial Intelligence,,2025-10-28-libigpt-first-generative-ai-launched-libyaherald
 LBY,Diwan Bot,Diwan Bot,other,,Libyan Audit Bureau,,2026-06-01-lby-lana-audit-bureau-diwan-bot
@@ -229,6 +231,7 @@ TGO,Challenge national des langues locales,Togo,localai,,Ministry of Public Serv
 TGO,TogoLM,Togo,localai,"RAG pipeline with pgvector, Gemini generation, Mistral 7B fine-tune",individual developer,,2026-06-18-tgo-l-afrique-n-est-pas-dans-votre-llm-togolm
 TGO,Yodi,Togo,localai,,Justin Bakoubolo,,2024-11-18-tgo-togo-une-ia-de-reconnaissance-vocale-pour-deux-langues-locales-en-lanc
 TGO,GPU server,Togo,localai,Lomé Data Centre,Togo AI Lab (donated by UNDP),,2026-11-03-tgo-un-supercalculateur-pour-acc-l-rer-l-innovation-technologique-l-intelligence-artificie
+TGO,Voix du Togo,Togo,localai,,Government of Togo,,2026-11-05-tgo-ia-jusqua-262-millions-de-dollars-de-gain-potentiel-pour-le-togo
 TUN,"Supercalculateur HPC, Centre de Calcul El Khawarizmi",Tunisia,localai,"SOHO/ZTE/DSHELL installation, Chinese donation",Centre de Calcul El Khawarizmi,national,2026-07-23-inauguration-premier-supercalculateur-hpc-cck-el-khawarizmi
 TUN,Centre de calcul El Khawarizmi (CCK) HPC system,Tunisia,localai,,"Centre de calcul El Khawarizmi, hosted at the university",,2026-07-24-tun-tunisie-le-centre-de-calcul-el-khawarizmi-se-dote-d-un-supercalculateu
 TUN,DataXion Cloud GPU NVIDIA L40S,Tunisia,localai,"NVIDIA L40S, Tier IV datacentre",DataXion,Tier IV (stated),2026-04-01-tun-le-premier-cloud-gpu-nvidia-l40s-en-tunisie-dedie-a-l-ia
@@ -246,6 +249,7 @@ UGA,Sunflower,Uganda,localai,Alibaba Qwen 3,Ernest Mwebaze,,2026-08-07-asiae-chi
 UGA,Makerere AI Health Lab,Uganda,localai,,Makerere University,,2026-09-15-cipit-ai-east-africa-public-sector-regulatory-preparedness
 UGA,Sunflower v2,Uganda,localai,Hugging Face,Sunbird AI,,2026-09-24-uga-sunbird-ai-launches-sunflower-v2-expanding-open-african-language-ai-fr
 UGA,Makerere University Artificial Intelligence for Development Research Lab,Uganda,other,,Makerere University,,2024-12-31-iati-xm-dac-301-2-110476-001-makerere-university-artificial-intelligence-for-development
+UGA,UCC Testbed Hackathon,40 innovators selected to build AI child-safety solutions,other,,UCC,,2026-11-06-uganda-considers-tracking-childrens-sim-cards
 ZAF,UNDP country-hosted AI compute,South Africa,localai,GPU,UNDP programme,,2026-09-17-xaf-undp-local-ai-compute-infrastructure-africa-six-countries
 ZAF,MzansiLM / MzansiText,South Africa,localai,,University of Cape Town,,2026-05-04-zaf-uct-researchers-develop-ai-model-for-11-south-african-languages
 ZAF,African Compute Initiative (ACI),South Africa,localai,"GPU servers, multi-petabyte storage, OpenStack and Ceph",University of Cape Town,,2026-03-26-zaf-uct-to-lead-africa-s-first-higher-education-dedicated-ai-compute-initi
@@ -264,6 +268,7 @@ ZMB,UNDP country-hosted AI compute,Zambia,localai,GPU,UNDP programme,,2026-09-17
 ZMB,AI/ML GPU-accelerated server platform,Zambia,localai,GPU-accelerated servers with 150TB storage engines,INFRATEL Corporation Limited,national,2026-06-01-infratel-150tb-storage-aiml-tender
 ZMB,"timbuktoo EDGE node, University of Zambia AI UniPod",Zambia,localai,sovereign AI compute node,"UNDP timbuktoo EDGE, University of Zambia",,2026-10-14-zmb-undp-lusaka-water-ai-non-revenue-water-pilot
 ZMB,AI Center of Excellence,Zambia,localai,,Google / Ministry of Technology and Science / ZAMREN,,2024-09-04-zmb-google-to-establish-ai-center-of-excellence-at-university-of-zambia
+ZMB,Full-software AI platform (German delegation joint ventures),Planned AI software development platform with Zambian companies,other,,German business delegation,,2026-11-06-zmb-zambia-govt-seeks-tangible-results-from-german-partnership
 ZWE,Yamurai,Zimbabwe,localai,Shona customer-support chatbot,Econet Ai,,2026-09-06-citezw-econet-ai-ndebele-chatbot
 ZWE,Econet AI,Zimbabwe,localai,"Yamurai AI, OmniContact AI, compute accessed through Cassava Technologies",Econet Wireless Zimbabwe / Econet Group,,2026-04-17-econet-ai-launch-cassava-compute
 ZWE,High Performance Computer at the University of Zimbabwe,Zimbabwe,other,,University of Zimbabwe,,2026-04-17-econet-ai-launch-cassava-compute
