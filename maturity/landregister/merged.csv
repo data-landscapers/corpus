@@ -2,6 +2,7 @@ iso3,source_slug,read,merged_on
 AGO,2024-01-01-angola-modernizes-land-administration-gis-cadastre-management,,2026-10-19
 AGO,2024-08-22-ago-decreto-presidencial-188-24-nip,,2026-10-19
 AGO,2024-08-26-ago-ciam-decreto-188-24-nip,,2026-10-19
+AGO,2024-11-07-ago-agenda-para-transicao-digital-conta-com-mais-de-100-projectos-voltados,,2026-11-07
 AGO,2025-09-18-ago-angop-metade-angolanos-sem-bi,,2026-10-19
 AGO,2026-04-17-plataforma-digital-legalizacao-de-40-mil-imoveis,,2026-10-19
 AGO,2026-07-20-angop-angola-lanca-cadastro-social-unico-gestao-de-accoes-sociais,,2026-10-19
@@ -154,13 +155,16 @@ ETH,2025-07-08-eth-ebr-insa-local-platforms,,2026-10-19
 ETH,2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale,,2026-10-19
 ETH,2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind,,2026-10-19
 ETH,2026-05-01-eth-sovereign-dpi-in-action-the-evolution-of-fayda,,2026-10-23
+ETH,2026-11-01-eth-faydaverse-expands-beyond-national-id-registration,,2026-11-07
 GAB,2024-07-09-gab-union-anuttc-land-file-digitisation,,2026-10-19
 GAB,2025-11-24-gabon-cadastre-modernization-ign-fi,,2026-10-19
 GAB,2025-12-01-gabon-land-registry-cession-figures,,2026-10-19
 GAB,2025-12-02-gabon-cadastre-digitalisation-land-title,,2026-10-19
 GAB,2026-05-06-agp-gabon-foncier-digitalisation-cadastre-application-ogooue,,2026-10-19
 GAB,2026-08-13-gab-societes-ecrans-comptes-bancaires-les-failles-du-gabon-pointees-par-le,,2026-10-28
+GAB,2026-09-11-gab-lunion-cnamgs-120000-beneficiaires-indument-enregistres,,2026-11-07
 GAB,2026-09-15-gab-agp-snedai-digitalisation-foncier-etat-civil,,2026-10-19
+GAB,2026-09-17-gab-gabonclic-cnss-revolution-numerique-service-public,,2026-11-07
 GAB,2026-09-17-gab-gabonreview-snedai-digitalisation-foncier-protocole,,2026-10-19
 GAB,2026-10-01-gab-gabon-connect-rencontre-du-gouvernement-avec-la-feg,,2026-10-30
 GAB,2026-10-16-gab-gabon-le-cadastre-numerique-un-levier-de-souverainete-fonciere,,2026-10-19
@@ -176,6 +180,7 @@ GIN,2025-04-01-gin-le-premier-ministre-receptionne-les-kits-d-enrolement-biometr
 GIN,2025-04-14-gin-decret-fixant-les-conditions-de-securite-d-integrite-de-securisation-e,,2026-10-30
 GIN,2025-04-14-gin-decret-fixant-les-modalites-d-inscription-et-de-tenue-du-registre-nati,,2026-10-23
 GIN,2025-04-18-gin-mediaguinee-sayon-mara-pn-ravec-biometric-census,,2026-10-23
+GIN,2025-07-19-gin-matd-les-statistiques-provisoires-du-registre-national-des-personnes-p,,2026-11-07
 GIN,2025-09-12-gin-anomalies-sur-les-cartes-d-electeurs-la-dge-rassure-face-aux-inquietud,,2026-11-06
 GIN,2025-10-14-cartographie-terres-agricoles-e-foncier-rural,,2026-10-19
 GIN,2026-01-17-ravec-kindia-atelier-textes-application-etat-civil-identification,,2026-10-19
@@ -205,6 +210,7 @@ GNQ,2026-06-16-ordenacion-tierras-bata-primera-fase-censo-catastral,,2026-10-19
 KEN,2026-09-03-kenya-lsk-ardhisasa-outage-restoration-demand,,2026-10-19
 KEN,2026-09-21-ken-kenyans-ardhisasa-outage-land-services,,2026-10-19
 KEN,2026-11-02-ken-birth-registration-e-service-reduces-admin-from-months-to-days,,2026-11-06
+KEN,2026-11-06-ken-from-paper-files-to-fingertips-vihiga-unleashes-digital-revolution,,2026-11-07
 LBR,2025-10-16-liberia-lla-land-information-system-mou-allforland-ltmetric,,2026-10-19
 LBR,2026-02-23-liberia-lla-lra-real-property-valuation-software-nimba-fpa,,2026-10-19
 LBR,2026-08-11-liberia-lla-national-spatial-data-infrastructure,,2026-10-19
@@ -261,6 +267,7 @@ MOZ,2025-04-10-moz-worldbank-ieg-icr-review-land-administration-project,,2026-10
 MOZ,2025-05-27-moz-ict-legal-and-regulatory-framework-for-the-development-of-digital-iden,,2026-11-01
 MOZ,2025-07-08-moz-governo-quer-acabar-com-isencoes-fiscais-ineficientes-e-atingir-tribut,,2026-10-23
 MOZ,2026-04-23-governo-digitalizar-emissao-duat,,2026-10-19
+MOZ,2026-04-23-moz-implementation-status-results-report-digital-governance-and-economy-pr,,2026-11-07
 MOZ,2026-08-09-mozambique-aid-recipient-digital-register,,2026-10-19
 MRT,2023-11-21-mrt-procedures-enrolement-enfant-rnp,,2026-10-19
 MRT,2023-12-26-mrt-le-president-de-la-republique-supervise-le-lancement-de-l-application,,2026-10-28
@@ -304,6 +311,7 @@ NER,2026-08-12-niger-tahoua-campagne-identite-legale-rnp,,2026-10-19
 NER,2026-08-20-lesahel-tillaberi-etat-civil-identification,,2026-10-19
 NER,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification,,2026-10-19
 NER,2026-09-03-niger-diffa-tour-etat-civil-anei-rnp,,2026-10-19
+NER,2026-10-07-ner-sensibilisation-en-matiere-de-l-etat-civil-et-d-identification-des-per,,2026-11-07
 NER,2026-10-17-ner-amv-geoportail-adressage-niamey-a-propos,,2026-10-19
 NGA,2025-02-04-kaduna-land-administration-software,,2026-10-19
 NGA,2025-03-20-fg-land-information-system-digitisation,,2026-10-19
@@ -320,6 +328,7 @@ RWA,2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers
 RWA,2026-06-17-kayonza-land-correction-28000-titles-realrwanda,,2026-10-19
 RWA,2026-07-05-eastern-province-land-registration-newtimes,,2026-10-19
 RWA,2026-10-27-rwa-why-rwanda-is-unhappy-with-only-11-of-government-services-fully-digiti,,2026-10-28
+RWA,2026-11-06-rwa-miss-baza-when-rwanda-found-a-voice-in-artificial-intelligen,,2026-11-07
 SDN,2023-12-19-sudan-state-of-land-information-soli,,2026-10-19
 SDN,2026-10-18-sdn-sudandawn-commercial-registry-baladna-outage,,2026-10-19
 SEN,2023-11-01-sen-dgpsn-registre-national-unique-interoperability,,2026-10-19
