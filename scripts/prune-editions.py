@@ -113,9 +113,11 @@ def credentials() -> dict:
     if all(got.values()):
         return got
     if CREDS.exists():
+        # The file's three keys are taken as a set, never mixed with the environment's: a
+        # CF_API_TOKEN exported for another job (R2, deploys) has no KV scope, and pairing it
+        # with the file's account and namespace read as a 401 from 2026-10-30 to 2026-11-07.
         held = json.loads(CREDS.read_text(encoding="utf-8"))
-        for k in got:
-            got[k] = got[k] or str(held.get(k, ""))
+        got = {k: str(held.get(k, "")) or got[k] for k in got}
     missing = [k for k, v in got.items() if not v]
     if missing:
         raise LookupError(
