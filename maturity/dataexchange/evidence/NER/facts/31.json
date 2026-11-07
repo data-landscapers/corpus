@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-30-ner-connecting-niger-s-health-information-systems",
+ "facts": [],
+ "systems": [
+  {
+   "system": "OpenFn (Data.FI) interoperability layer",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "OpenFn on Ministry of Public Health server, Niamey",
+   "owner": "Ministry of Public Health, Directorate of Digital Health",
+   "tiers": ""
+  }
+ ],
+ "note": "The layer links health systems inside one ministry (STELab, CommCare to DHIS2); not a cross-government exchange platform."
+}

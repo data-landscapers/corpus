@@ -61,10 +61,12 @@ CIV,Plateforme d'Interopérabilité de l'Administration (UXP),CIV,exchange,Cyber
 CMR,national interoperability infrastructure,Cameroon,exchange,,,,2026-08-21-biometricupdate-cameroon-national-interoperability-infrastructure
 CMR,CNEF IT platform,Cameroon,other,,CNEF,,2023-06-07-cnef-essential-actor-for-financial-inclusion-in-cameroun
 CMR,"plateforme nationale d'interoperabilite (OpenHIM, OpenFn)",Cameroon,other,"OpenHIM, OpenFn on a server at CAMTEL",Ministry of Public Health,,2026-11-03-cmr-sant-num-rique-le-cameroun-acc-l-re-l-interconnexion-de-ses-syst-mes-d
+CMR,RESUC,CMR,other,,,,2025-10-27-across-21-countries-shared-journey-inclusive-digital-social-protection
 COD,RDC-PASS,DRC,other,,Ministry of Digital Economy,,2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite
 COD,Guichet numérique,DRC,other,,,,2026-09-30-cod-agenceecofin-rdc-strategies-identite-numerique-cybersecurite
 COD,"Data-sharing platform (planned, Digital Transformation Project)",DR Congo,exchange,,"Ministry of Post, Telecommunications and Digital Affairs (MPTN) unit",,2026-05-06-drc-seeks-consultant-digital-transformation-dpi-biometricupdate
 COD,E-Finance programme data warehouse,DRC,exchange,data warehouse linking three revenue agencies,Ministry of Finance,,2026-09-03-cod-7sur7-tva-e-finance-huawei
+COD,"interconnexion des juridictions, parquets et etablissements penitentiaires",Justice sector interconnection,exchange,,Ministere de la Justice,,2026-11-06-cod-justice-en-rdc-digitalisation-des-recettes-judiciaires-pnud-union-europeenne
 COG,X-Road (interoperability layer of the national DPI architecture),Congo,exchange,X-Road,MPTEN,federated exchange between ministries,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
 COG,MOSIP (digital identity layer),Congo,other,MOSIP,MPTEN,,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
 COG,Mojaloop (national payments switch),Congo,other,Mojaloop,MPTEN with BEAC supervision,,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi
@@ -110,6 +112,7 @@ DZA,plateforme nationale d'interopérabilité,Algeria,exchange,,Haut-Commissaria
 DZA,النظام الوطني للتشغيل البيني,Algeria,exchange,national secured network IRIES,High Commission for Digitalisation,,2026-02-14-dza-almostathmir-data-governance-classification-rollout
 DZA,plateforme nationale d'interopérabilité,DZA,exchange,,High Commission for Digitalisation,,2025-05-12-dza-algerie-numerique-2030-une-strategie-ambitieuse-pour-un-virage-digital
 DZA,plateforme nationale d'interoperabilite,Algeria,exchange,Centre national algerien des prestations numeriques,Haut-commissariat a la numerisation,,2024-08-25-dza-transformation-numerique-la-strategie-nationale-adoptee
+DZA,secure electronic data-exchange platform (CNAS and Algerie Poste),plateforme electronique securisee,other,,CNAS and Algerie Poste,"bilateral, benefit transfers to CCP accounts",2024-06-26-dza-signature-d-une-convention-sur-la-numerisation-des-virements-entre-la
 EGY,Unified environmental data registry for the industrial sector (سجل البيانات البيئية الموحد),Egypt,other,Green Sustainable Industries (GSI) programme,Egyptian Environmental Affairs Agency,,2026-09-01-egypt-masrawy-environmental-data-registry-protocol
 EGY,المحول الرقمي الحكومي (Government Digital Transformer),Egypt,exchange,,Ministry of Communications and Information Technology,,2026-07-27-almal-tarakhis-almahal-alamma-misr-digital-platform-licensing
 EGY,منصة مصر الرقمية (Digital Egypt platform),Egypt,other,,Ministry of Communications and Information Technology,,2026-07-27-almal-tarakhis-almahal-alamma-misr-digital-platform-licensing
@@ -243,6 +246,7 @@ MOZ,National mobile digital identity and electronic signature infrastructure,Moz
 MOZ,Plataforma de Interoperabilidade do Governo de Moçambique,Mozambique,exchange,Security Servers,"INAGE, IP",,2025-06-13-moz-inage-ip-lidera-implementacao-da-plataforma-de-interoperabilidade-cent
 MOZ,Plataforma Nacional de Interoperabilidade,Mozambique,exchange,,"ATDI, IP",,2026-06-26-moz-atdi-e-bau-alinham-visao-de-servicos-publicos-digitais-integrados-e-ce
 MOZ,national interoperability platform,Mozambique,exchange,X-Road,ATDI,,2026-03-26-moz-mozambique-fintech-week-26-ausencia-de-interoperabilidade-trava-servic
+MOZ,Government interoperability platform (X-Road linkage),interoperability platform,exchange,X-Road,INAGE,,2026-04-23-moz-implementation-status-results-report-digital-governance-and-economy-pr
 MRT,Maadeni (النظام المعلوماتي المندمج معدني),Mauritania,other,,Agence nationale Maaden Mauritanie,,2026-03-24-apd-mudawala-002-2026-nizam-maadeni-rabt-bayni-sijil-watani-lilsukkan
 MRT,GIMTEL CONNECT,Mauritania,other,,,,2026-03-24-apd-mudawala-002-2026-nizam-maadeni-rabt-bayni-sijil-watani-lilsukkan
 MRT,integrated government digital platform for qualification and classification of firms,Mauritania,other,,Ministry of Housing,,2026-09-16-mrt-ami-rqmnt-tahil-tasnif-muassasat
@@ -277,6 +281,7 @@ NER,national interoperability layer based on OpenFn,Niger,other,OpenFn,Directora
 NER,Registre National de la Population (RNP),Niger,other,World Bank WURI project,ANEI,to be interoperable with civil status and nationality registers,2026-07-27-lesahel-wuri-niger-restructure-identification-universelle
 NER,cadre d'interopérabilité et d'échanges sécurisés de données (WURI-Niger Component 3),Niger,exchange,,Ministère de l'Intérieur (WURI-Niger project),,2024-01-01-lesahel-wuri-niger-presentation-projet
 NER,"base identification system (f-ID, NUI)",Niger,other,,WURI-Niger project,,2024-01-01-lesahel-wuri-niger-presentation-projet
+NER,OpenFn (Data.FI) interoperability layer,Niger,other,"OpenFn on Ministry of Public Health server, Niamey","Ministry of Public Health, Directorate of Digital Health",,2026-09-30-ner-connecting-niger-s-health-information-systems
 NGA,NGDX,Nigeria,exchange,,Federal Ministry of Digital Economy (NITDA),,2025-08-28 Nigeria to launch National Data Exchange (NGDX) platform to boost digital economy
 NGA,Nigerian Data Exchange Platform (NGDX),Nigeria,exchange,,NITDA,,2025-08-26-nigerian-data-exchange-platform-ngdx
 NGA,NIMC national identity database and authentication platform,Nigeria,other,NIN API,NIMC,national,2026-10-14-nga-techcabal-nimc-identity-database-locally-hosted
@@ -470,3 +475,4 @@ ZMB,Government Service Bus,Government Service Bus,exchange,DotGov Solutions,Smar
 ZWE,Government Service Bus,Zimbabwe,exchange,,"Ministry of ICT, Postal and Courier Services",,2026-05-08-zwe-mavetera-enterprise-architecture-linkedin
 ZWE,Ndarama Enterprise Resource Planning system,Zimbabwe,other,,"Ministry of ICT, Postal and Courier Services",,2026-07-30-zimbabwe-ndarama-launch-ai-sovereignty-digital-gold
 ZWE,Government Service Bus,Government Service Bus,other,,"Ministry of ICT, Postal and Courier Services",,2026-05-11-zwe-government-orders-ministries-to-integrate-ict-systems
+ZWE,OpenHIM,OpenHIM Zimbabwe,exchange,OpenHIM,Ministry of Health and Child Care,,2026-06-30-zwe-improving-reporting-of-morbidity-and-cause-of-death-in-zimbabwe-with-d

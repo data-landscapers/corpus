@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-23-moz-implementation-status-results-report-digital-governance-and-economy-pr",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The World Bank ISR says the government interoperability platform is available in a test environment with a data exchange proof of concept completed, X-Road linkage software developed and a contract signed, against a target of 15 interoperable public systems by December 2026.",
+   "as_of": "2026-03-20",
+   "date_precision": "day",
+   "system": "Government interoperability platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government interoperability platform (X-Road linkage)",
+   "country_label": "interoperability platform",
+   "class": "exchange",
+   "platform": "X-Road",
+   "owner": "INAGE",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
