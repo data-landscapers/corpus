@@ -1,12 +1,12 @@
 ---
 title: Somalia: status report
-compiled: 2026-11-06
+compiled: 2026-11-07
 place: SOM
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 203
+sources_cited: 204
 sections_written: 39
 not_established: 3
 acquire_lines: 38
@@ -167,7 +167,7 @@ Coordination has so far been convened rather than built. Somalia held its [first
 ### Digital Identity and CRVS
 <!-- dpi.id -->
 
-The identity authority counted [more than 1.4 million people registered for the national ID in March 2026](https://id4africa.com/2026/files/T1-3-3-Somalia-FINAL.pdf). The interior minister counted [more than 1.5 million in September 2026](https://www.hiiraan.com/news4/2026/Sep/206316/somalia_registers_15_million_citizens_under_national_id_system.aspx). [The eAqoonsi mobile ID app had recorded only about 50,000 downloads](https://www.hiiraan.com/news4/2026/Apr/204974/somalias_eaqoonsi_app_shows_progress_gaps_in_digital_public_infrastructure_dpi_push.aspx). [Digital activation still requires an in-person visit to a NIRA centre first](https://www.hiiraan.com/news4/2026/Apr/204974/somalias_eaqoonsi_app_shows_progress_gaps_in_digital_public_infrastructure_dpi_push.aspx). The programme is [targeting 15 million issuances by the end of 2029](https://www.biometricupdate.com/202508/somalia-expands-national-id-use-cases-to-meet-15m-issuance-target-by-2029). It [passed one million enrolments by November 2025](https://www.biometricupdate.com/202511/somalia-to-integrate-more-govt-services-with-national-id-as-issuance-reaches-1m). NIRA's director general put [about 85 per cent of citizens as holding no legal identity](https://www.biometricupdate.com/202506/somalia-walking-a-thorny-road-to-an-inclusive-national-digital-id-system) (June 2025).
+The identity authority counted [more than 1.4 million people registered for the national ID in March 2026](https://id4africa.com/2026/files/T1-3-3-Somalia-FINAL.pdf). The interior minister counted [more than 1.5 million in September 2026](https://www.hiiraan.com/news4/2026/Sep/206316/somalia_registers_15_million_citizens_under_national_id_system.aspx). [About 700,000 physical cards had been issued by 31 March 2026, with more than 600,000 biometric records awaiting deduplication](https://www.euaa.europa.eu/somalia-displacement-mogadishu/42-cards-issued-and-nira-offices). [The eAqoonsi mobile ID app had recorded only about 50,000 downloads](https://www.hiiraan.com/news4/2026/Apr/204974/somalias_eaqoonsi_app_shows_progress_gaps_in_digital_public_infrastructure_dpi_push.aspx). [Digital activation still requires an in-person visit to a NIRA centre first](https://www.hiiraan.com/news4/2026/Apr/204974/somalias_eaqoonsi_app_shows_progress_gaps_in_digital_public_infrastructure_dpi_push.aspx). The programme is [targeting 15 million issuances by the end of 2029](https://www.biometricupdate.com/202508/somalia-expands-national-id-use-cases-to-meet-15m-issuance-target-by-2029). It [passed one million enrolments by November 2025](https://www.biometricupdate.com/202511/somalia-to-integrate-more-govt-services-with-national-id-as-issuance-reaches-1m). NIRA's director general put [about 85 per cent of citizens as holding no legal identity](https://www.biometricupdate.com/202506/somalia-walking-a-thorny-road-to-an-inclusive-national-digital-id-system) (June 2025).
 
 The system rests on the [National Identification and Registration Act of March 2023, which created NIRA](https://www.biometricupdate.com/202303/somalia-passes-law-to-launch-new-civil-registry-and-national-id). [The Act set NIRA's mandate, eligibility rules and biometric requirements](https://www.biometricupdate.com/202303/somalia-passes-law-to-launch-new-civil-registry-and-national-id). [Pakistan's NADRA supplies the core identity management system and hardware](https://www.biometricupdate.com/202506/somalia-walking-a-thorny-road-to-an-inclusive-national-digital-id-system). The credential is [verified through the consent-based, OTP-driven HUBIYE platform](https://www.biometricupdate.com/202505/somalia-unveils-dpi-tools-for-biometric-verification-id-issuance-and-service-access). [The identity authority announced the platform in operation in late October 2026](https://www.biometricupdate.com/202611/somalia-puts-hubiye-national-id-verification-platform-into-operation). [It is free to integrate for now](https://www.biometricupdate.com/202611/somalia-puts-hubiye-national-id-verification-platform-into-operation). [UNDP put it at 25 integrated services and about 1.2 million citizens in May 2026](https://www.biometricupdate.com/202611/somalia-puts-hubiye-national-id-verification-platform-into-operation).
 
