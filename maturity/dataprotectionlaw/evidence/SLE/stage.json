@@ -5,16 +5,16 @@
       "sub_indicator": "general",
       "stage": "2",
       "authority": "none",
-      "standing": "drafting",
+      "standing": "tabled",
       "regulations": "",
       "application": "",
       "last12": "advancing",
       "cap": "",
       "flags": "advancing",
-      "stage_sources": "SLE-001;SLE-003;SLE-010",
-      "gaps": "No law is enacted: Cabinet approved the Bill on 21 April 2026, and on 4 November 2026 it was due before Parliament on 5 November; no source yet confirms it was tabled. No regulations or application have been found, and no source states they are absent.",
-      "note": "Standing is drafting, a bill the cabinet has approved and that was due before Parliament on 5 November 2026 (SLE-010), which is stage 2; stage 3 needs the law enacted. The authority exists only in the Bill, so no law provides it and authority is none.",
-      "as_at": "2026-11-05"
+      "stage_sources": "SLE-012;SLE-001;SLE-010",
+      "gaps": "No law is enacted: the Bill was tabled and read a first time in Parliament in November 2026 (SLE-012). No regulations or application have been found, and no source states they are absent.",
+      "note": "Standing is tabled, the Bill before Parliament after its first reading in November 2026 (SLE-012), which is stage 2; stage 3 needs the law enacted. The authority exists only in the Bill, so no law provides it and authority is none.",
+      "as_at": "2026-11-07"
     }
   ]
 }

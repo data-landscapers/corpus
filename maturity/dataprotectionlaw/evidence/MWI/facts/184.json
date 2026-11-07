@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-08-mwi-malawi-digital-economy",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The guide says the Data Protection Act was finalised and approved by Government in 2023/24, and describes its rules and its enforcement by the Data Protection Authority in the present tense.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Data Protection Act",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "The guide says the Data Protection Act is enforced by the Data Protection Authority, which can investigate and impose fines; no appointment is stated.",
+   "as_of": "2026-06-08",
+   "date_precision": "day",
+   "system": "Data Protection Authority",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

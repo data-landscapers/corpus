@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-caf-dossier-special-mpa-sante-emploi-suite",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The article says the country has a legal framework on personal data protection and cybersecurity, without naming a law or date.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "legal framework on personal data protection",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
