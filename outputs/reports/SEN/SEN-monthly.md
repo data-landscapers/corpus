@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: SEN
-ledger_rows: 33
+ledger_rows: 35
 not_held: 2
-record: a733f48fc07f
+record: 7a3c90637670
 ---
 
 # News, Oct – Nov 2026
@@ -224,6 +224,20 @@ At the opening of Senegal's 2026–2027 parliamentary session on 13 October 2026
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SENUM partnership with Univers Telecom Group</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SENUM and Univers Telecom Group sign strategic partnership to accelerate Senegal’s digital transformation](https://techreviewafrica.com/news/8155/senum-and-univers-telecom-group-sign-strategic-partnership-to-accelerate-senegal-s-digital-transformation)** — Tech Review Africa, 6 November 2026
+
+MoU on state infrastructure resilience and administration digitalisation, delivered via PRODAP.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -249,6 +263,20 @@ STELLARIX Senegal, part of the AXIAN Group, said it has expanded its data-centre
 **[Alibaba Brings Cloud and AI to the First Youth Olympic Games in Africa](https://www.alibabagroup.com/en-US/document-2054013976894767104)** — Alibaba Group, 2 November 2026
 
 Alibaba said on 2 November 2026 that the Dakar 2026 Youth Olympic Games run on a private cloud built on its Apsara Stack. The cloud hosts ticketing and e-visa processing. It is to pass to Senegal after the Games as a national cloud platform. The ticketing system covers over one million tickets across seven venues.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Health data hosting infrastructure</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Protection des données personnelles, vers la création d'une structure pour sécuriser les informations médicales des patients](https://www.seneplus.com/article/protection-des-donnees-personnelles-vers-la-creation-dune-structure-pour-securiser-les)** — SenePlus, 5 November 2026
+
+Digital and health ministries building health-data hosting infrastructure; Enabel digital-health support; 4 Nov 2026.
 
 </div>
 
