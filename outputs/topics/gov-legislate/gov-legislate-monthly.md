@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 subject: gov.legislate
-places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NGA; SEN; SYC; SOM; ZAF; SDN; TZA; TUN; UGA
-record: e5be5bdfbe4b
+places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
+record: 821346dbc544
 ---
 
 # News, Oct – Nov 2026
@@ -67,6 +67,8 @@ record: e5be5bdfbe4b
 <a href="#senegal">Senegal</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#seychelles">Seychelles</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sierra-leone">Sierra Leone</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#somalia">Somalia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -708,6 +710,20 @@ An opinion piece argues that Kenya's competition and data protection regulators 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online Safety Bill 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya proposes tougher social media rules](https://www.itweb.africa/article/kenya-proposes-tougher-social-media-rules/O2rQGqAEWWzqd1ea)** — ITWeb Africa, 6 November 2026
+
+ITWeb reported on 6 November 2026 that Kenya's Information and Communications (Amendment) Bill 2026 would add a Section 85C. It would require online platforms serving Kenyan users, foreign ones included, to register with the Communications Authority and report unlawful activity. A separate draft Online Safety Bill 2026 proposes a duty of care, parental consent for children and age verification. Its fines run up to KES 500 million or 10% of global turnover.
+
+</div>
+
+</div>
+
 ## Liberia
 
 <div class="monthly-story" markdown="1">
@@ -1025,6 +1041,20 @@ A bill before Nigeria's House of Representatives, sponsored by Lanre Okunlola, w
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Digital Economy and E-Governance Bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria is rewriting its cyber laws, but can it secure its systems against hackers?](https://techcabal.com/2026/11/06/nigeria-is-rewriting-its-cyber-laws/)** — TechCabal, 6 November 2026
+
+TechCabal reported on 6 November 2026 that Nigeria is reviewing its cybersecurity laws. It is considering a national cybersecurity architecture with baseline standards. It says the Cybercrimes Act of 2015 was amended in February 2024 and the 2021 national strategy is due for review. A House committee chair gave January to June 2027 as the expected enactment window for the bills.
+
+</div>
+
+</div>
+
 ## Senegal
 
 <div class="monthly-story" markdown="1">
@@ -1060,6 +1090,22 @@ Seychelles gazetted a bill on 3 November 2026 that adds section 10A to the Compa
 **[Bill No. 21 - Registration of Business Names (Amendment) Bill 2026](https://www.gazette.sc/sites/default/files/2026-11/Bill%20No.%2021%20-%20Registration%20of%20Business%20Names%20%28Amendment%29%20Bill%202026.pdf)** — Official Gazette, Republic of Seychelles, 3 November 2026
 
 Seychelles gazetted a bill on 3 November 2026 that adds section 6(1A) to (1D) to the business names law. It allows electronic filing, records and fee payment for business names. Regulations are to follow.
+
+</div>
+
+</div>
+
+## Sierra Leone
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Records and Archives Bill 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Information Minister Tables Two Major Bills in Parliament](https://sierraloaded.sl/news/information-tables-data-protection-bills/)** — SierraLoaded, 6 November 2026
+
+Sierra Leone's Minister of Information tabled two bills in Parliament, SierraLoaded reported on 6 November 2026. They are the Data Protection and Right to Access Information Bill, 2026 and the National Records and Archives Bill, 2026. Both have completed Introduction and First Reading and go next to Second Reading.
 
 </div>
 

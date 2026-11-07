@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, October – November 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 subject: dpi.id
-places: DZA; AGO; BEN; BWA; BFA; CMR; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NGA; RWA; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: ae7691c9fe38
+places: DZA; AGO; BEN; BWA; BFA; CMR; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
+record: 70665f79a399
 ---
 
 # News, Oct – Nov 2026
@@ -53,6 +53,8 @@ record: ae7691c9fe38
 <a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#namibia">Namibia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#niger">Niger</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -407,6 +409,14 @@ Ethiopia opened a public sandbox where developers and startups can test the Fayd
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[FaydaVerse Expands Beyond National ID Registration](https://capitalethiopia.com/2026/11/01/faydaverse-expands-beyond-national-id-registration/)** — Capital Newspaper, 1 November 2026
+
+Ethiopia's national ID programme has renamed itself FaydaVerse and joined Ethiopian Investment Holdings, its stakeholder engagement director told Capital on 1 November 2026. He said more than 52 million citizens have registered, registration machines have grown from under 100 to 15,000, and 150 institutions work with the programme. Other countries have asked it for digital public infrastructure services.
+
+</div>
+
 </div>
 
 ## Gabon
@@ -510,6 +520,14 @@ Ghana's National Identification Authority, with the National Health Insurance Au
 **[NIA biometric system to tighten fraud controls](https://www.ghanaweb.com/GhanaHomePage/business/NIA-biometric-system-to-tighten-fraud-controls-2055880)** — GhanaWeb, 9 October 2026
 
 Ghana's National Identification Authority will begin Ghana Card registration of children aged 0-5 the following week, alongside the ongoing registration of 6-14 year olds, its deputy executive secretary Fred Bedzrah said at a forum at the University of Professional Studies, Accra. He presented biometric verification with liveness detection as the check against ghost names on government payrolls.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[FALSE! 91% of Ghanaians have not received their Ghana Cards](https://ghana.dubawa.org/false-91-of-ghanaians-have-not-received-their-ghana-cards/)** — Dubawa Ghana, 5 November 2026
+
+Dubawa Ghana rated false, on 5 November 2026, the Communication Minister's claim that 91% of Ghanaians hold a Ghana Card. National Identification Authority data at 30 October 2026 show 20,610,948 enrolled and 19,575,078 cards issued. That is about 57% of the projected 2026 population.
 
 </div>
 
@@ -799,6 +817,22 @@ Namibian MPs questioned the planned digital ID on rural reach, cost, data owners
 
 </div>
 
+
+</div>
+
+## Niger
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National identity card holders</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sensibilisation en matière de l'état civil et d'identification des personnes : La Caravane nationale fait halte à Niamey pour clôturer sa campagne](https://www.lesahel.org/sensibilisation-en-matiere-de-letat-civil-et-didentification-des-personnes-la-caravane-nationale-fait-halte-a-niamey-pour-cloturer-sa-campagne/)** — Le Sahel, 7 October 2026
+
+The national civil registration and identification awareness caravan ended in Niamey on 6 and 7 October 2026. It closed with a workshop run by the World Bank-funded WURI programme. The director general of territorial administration said fewer than 3 million people hold a national identity card. About 13 million are obliged to have one.
+
+</div>
 
 </div>
 

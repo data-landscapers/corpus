@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 subject: gov.policy
 places: AGO; BEN; CMR; CAF; TCD; COM; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LBY; MDG; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; TGO; TUN; UGA; ZMB; ZWE
-record: 4028e628785c
+record: c9aa12e93693
 ---
 
 # News, Oct – Nov 2026
@@ -430,6 +430,28 @@ Libya's General Information Authority met sectoral information centres, ministri
 **[Gouvernement ouvert : Madagascar à trois points du seuil requis](https://midi-madagasikara.mg/gouvernement-ouvert-madagascar-a-trois-points-du-seuil-requis/)** — Midi Madagasikara, 9 October 2026
 
 Madagascar scores 9 of 16 points against the 12 it needs to rejoin the Open Government Partnership, which it first joined in 2016. A colloquium is drafting commitments for a national action plan for 2026 to 2030.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital development ministry leadership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le ministre du développement numérique, Mahefa Andriamampiadana, démissionne](https://www.madagascar-tribune.com/Gouvernement-Mahefa-Andriamampiadana-demissionne-pour-raisons-de-sante-des.html)** — Madagascar Tribune, 4 November 2026
+
+Madagascar's Minister of Digital Development, Posts and Telecommunications, Mahefa Andriamampiadana, resigned on health grounds, and the Presidency accepted the resignation on 3 November 2026. The Higher Education Minister is interim minister. The electronic communications bill 040/2026 and the cybersecurity bill 042/2026 remain pending.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[TÉLÉCOMMUNICATIONS - Les réformes au service du développement numérique](https://www.lexpress.mg/2026/11/telecommunications-les-reformes-au.html)** — L'Express de Madagascar, 5 November 2026
+
+L'Express de Madagascar reported on 5 November 2026 that the resignation of Minister Mahefa Andriamampiadana, accepted on 3 November, comes as the telecoms sector awaits regulatory reform. Bill 040/2026 aims to ease entry for new operators in a market of three. See the Madagascar entry on the minister's resignation for the main account.
 
 </div>
 

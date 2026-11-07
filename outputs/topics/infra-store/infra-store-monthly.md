@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, October – November 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 subject: infra.store
 places: DZA; BWA; BFA; CMR; EGY; SWZ; GMB; GHA; KEN; LBY; MAR; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: f8ed3cda3a92
+record: d2532e936a1b
 ---
 
 # News, Oct – Nov 2026
@@ -445,6 +445,20 @@ STELLARIX Senegal, part of the AXIAN Group, said it has expanded its data-centre
 **[Alibaba Brings Cloud and AI to the First Youth Olympic Games in Africa](https://www.alibabagroup.com/en-US/document-2054013976894767104)** — Alibaba Group, 2 November 2026
 
 Alibaba said on 2 November 2026 that the Dakar 2026 Youth Olympic Games run on a private cloud built on its Apsara Stack. The cloud hosts ticketing and e-visa processing. It is to pass to Senegal after the Games as a national cloud platform. The ticketing system covers over one million tickets across seven venues.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Health data hosting infrastructure</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Protection des données personnelles, vers la création d'une structure pour sécuriser les informations médicales des patients](https://www.seneplus.com/article/protection-des-donnees-personnelles-vers-la-creation-dune-structure-pour-securiser-les)** — SenePlus, 5 November 2026
+
+Senegal's digital and health ministries said on 4 November 2026 that they are jointly setting up an infrastructure to secure and host patients' health data, SenePlus reported. They spoke at a Digital Health Week meeting, where Enabel described its digital-health support. No timetable was given.
 
 </div>
 

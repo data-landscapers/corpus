@@ -1,10 +1,10 @@
 ---
 title: New investments — News, October – November 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 subject: finance.new
-places: AGO; CIV; COD; SWZ; GHA; MRT; MAR; NGA; RWA; SYC; ZAF; TZA; ZMB
-record: 5ab31de79d7f
+places: AGO; CIV; COD; SWZ; ETH; GMB; GHA; MRT; MAR; NGA; RWA; SYC; ZAF; TZA; ZMB
+record: cefef8e022d2
 ---
 
 # News, Oct – Nov 2026
@@ -17,6 +17,10 @@ record: 5ab31de79d7f
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eswatini">Eswatini</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ethiopia">Ethiopia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#gambia">Gambia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -118,6 +122,46 @@ COMESA's half-year progress report on the World Bank-financed Inclusive Digitali
 **[Who was held accountable for EPTC pension crisis?- Sen. Tony](https://independentnews.co.sz/49165/news/who-was-held-accountable-for-eptc-pension-crisis-sen-tony/)** — The Independent News Eswatini, 6 October 2026
 
 Eswatini senators asked on 5 October whether anyone had been held to account for the pension crisis at the state posts and telecommunications corporation, after Parliament approved the government guarantee for its US$26 million World Bank loan under the Digital Eswatini Project. The ICT minister said E26 million of the loan goes to the post office pension fund, affecting about 500 employees, and that the bank will manage and audit the loan.
+
+</div>
+
+</div>
+
+## Ethiopia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">IFC investment in Kifiya Financial Technology</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IFC Invests in Kifiya’s AI Infrastructure to Connect Capital to Africa’s Real Economy - Kifiya Financial Technology](https://kifiya.com/2026/11/05/ifc-invests-in-kifiyas-ai-infrastructure-to-connect-capital-to-africas-real-economy/)** — Kifiya Financial Technology, 5 November 2026
+
+Kifiya Financial Technology announced on 4 November 2026, at the Africa Financial Summit in Luanda, an investment agreement with IFC, its first investment in the company. The release says it will scale Kifiya's agricultural fintech and rural reach work. No amount was disclosed.
+
+</div>
+
+</div>
+
+## Gambia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AfDB digital government project</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EOI - Gambia - Capacity Development to Effectively Perform Oversight Functions Over Fintech - DIGEST](https://www.afdb.org/en/documents/eoi-gambia-capacity-development-effectively-98329)** — African Development Bank, 6 November 2026
+
+The African Development Bank posted an expression of interest on 6 November 2026 for a consultancy to build the capacity of Gambian institutions to oversee fintech. The assignment follows the Gambia's validated fintech policy. No award has been announced.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[EOI - Gambia - Digital Literacy Policy and Strategy Formulation - DIGEST](https://www.afdb.org/en/documents/eoi-gambia-digital-literacy-policy-strategy-98330)** — African Development Bank, 6 November 2026
+
+The African Development Bank posted an expression of interest on 6 November 2026 for a consultancy to formulate a National Digital Literacy Policy and a five-year strategy plan for the Gambia, covering 2027 to 2032. The scope includes an implementation roadmap, a financing plan and a monitoring framework. No award has been announced.
 
 </div>
 

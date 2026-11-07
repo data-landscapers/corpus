@@ -1,10 +1,10 @@
 ---
 title: Rural digital data capture — News, October – November 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 subject: digital.rural
 places: CMR; NGA; RWA; TGO; ZWE
-record: 84c63a5c4754
+record: 2d7898693572
 ---
 
 # News, Oct – Nov 2026
@@ -110,6 +110,20 @@ Togo's agriculture ministry held a World Bank-supported national consultation on
 **[ZimSmart converts ZimPost offices into digital health clinics](https://www.heraldonline.co.zw/zimsmart-converts-zimpost-offices-into-digital-health-clinics/)** — The Herald, 9 October 2026
 
 ZimSmart Villages is converting parts of Zimbabwe Postal Services offices into nurse-staffed digital health clinics with point-of-care diagnostics and small dispensaries, and uses container clinics where there is no post office. The company told a conference in Bulawayo it has 28 sites connected through Starlink and NetOne and has reached 118,000 people.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ITU Partner2Connect satellite school connectivity with SES</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Three year free internet for 10 Zim schools](https://www.heraldonline.co.zw/three-year-free-internet-for-10-zim-schools/)** — The Herald (Zimbabwe), 6 November 2026
+
+ITU's Bureau for Telecommunication Development director Cosmas Zavazava said ten Zimbabwean schools connected by satellite will get free internet for three years (reported 6 November 2026). The schools are in ITU's Partner2Connect programme with SES. Nine are connected and the last is due online by 10 November.
 
 </div>
 

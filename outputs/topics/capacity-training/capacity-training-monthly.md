@@ -1,10 +1,10 @@
 ---
 title: Training and skills — News, October – November 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 subject: capacity.training
-places: BFA; CAF; CIV; DJI; COD; EGY; GHA; GIN; KEN; LSO; LBY; MDG; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN
-record: 2fc8fc96a4e6
+places: BFA; CAF; CIV; DJI; COD; EGY; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN
+record: ee9692f7a6ab
 ---
 
 # News, Oct – Nov 2026
@@ -22,6 +22,8 @@ record: 2fc8fc96a4e6
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#gabon">Gabon</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#guinea">Guinea</a>
@@ -33,6 +35,8 @@ record: 2fc8fc96a4e6
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#madagascar">Madagascar</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#morocco">Morocco</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -144,6 +148,22 @@ KADEA and ULB-Solvay Lifelong Learning, with DR Congo's Agence pour le Développ
 **[Communications Minister: Joint efforts to boost youth digital skills](https://sis.gov.eg/en/media-center/news/communications-minister-joint-efforts-to-boost-youth-digital-skills/)** — State Information Service (Egypt), 8 October 2026
 
 Egypt's communications and labour ministries signed a memorandum to digitise the labour ministry's work and run digital-skills programmes for its staff, graduates and job seekers.
+
+</div>
+
+</div>
+
+## Gabon
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Talent Training Centre (ST DIGITAL and Huawei)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon Taps Huawei, ST DIGITAL to Build Digital Skills Training Centre](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-taps-huawei-st-digital-to-build-digital-skills-training-centre)** — We Are Tech, 6 November 2026
+
+ST DIGITAL Gabon and Huawei Technologies Gabon signed a memorandum of understanding in Shanghai on 4 November 2026 to set up a National Talent Training Centre. It will train Gabonese technicians and instructors in networking, cybersecurity, cloud computing, AI, 4G mobile networks and fibre optics. The signing took place during President Oligui Nguema's visit to China.
 
 </div>
 
@@ -319,6 +339,20 @@ Strathmore University is one of six Kenyan universities selected for the Google.
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">NYOTA AGPO Digital Training Programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Government launches NYOTA AGPO Digital Training for 600,000 entrepreneurs](https://www.kbc.co.ke/government-launches-nyota-agpo-digital-training-for-600000-entrepreneurs/)** — KBC Digital, 4 November 2026
+
+Kenya's State Department for MSMEs launched the NYOTA AGPO Digital Training Programme, reported on 4 November 2026. The free 10-week self-paced course targets more than 600,000 young entrepreneurs and teaches registration and bidding on the government's IFMIS and e-GP procurement systems. Enrolment is by USSD, with a subsidised Safaricom data bundle.
+
+</div>
+
+</div>
+
 ## Lesotho
 
 <div class="monthly-story" markdown="1">
@@ -362,6 +396,22 @@ Libya's Ministry of Social Affairs and the Minister of State for Digital Economy
 **[Madagascar Partners with Orange to Strengthen Digital Skills and Vocational Training](https://techafricanews.com/2026/10/14/madagascar-orange-digital-skills-vocational-training/)** — Tech Africa News, 14 October 2026
 
 Madagascar's Ministry of Technical Education and Vocational Training signed a partnership with Orange Madagascar on 8 October on digital-skills training and matching vocational courses to labour-market demand. No budget or targets were given.
+
+</div>
+
+</div>
+
+## Mauritius
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">myt Learning Hub free digital and AI skills portal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mauritius Telecom launches free digital and AI skills training platform](https://techreviewafrica.com/news/8162/mauritius-telecom-launches-free-digital-and-ai-skills-training-platform)** — Tech Review Africa, 6 November 2026
+
+Mauritius Telecom and AWS launched the myt Learning Hub, a free online portal for digital and AI skills, reported on 6 November 2026. It opens with 16 courses. It forms part of the government's target to train 50,000 Mauritians.
 
 </div>
 
@@ -424,6 +474,20 @@ Nigeria's Digital Bridge Institute has been designated an ITU Digital Transforma
 **[UNDP, Cisco Offer 50,000 Nigerian Graduates Free Digital Skills Training to Boost Job Prospects](https://opportunitieshub.ng/2026/10/21/undp-cisco-offer-50000-nigerian-graduates-free-digital-skills-training-to-boost-job-prospects/)** — Opportunities Hub, 21 October 2026
 
 UNDP and Cisco signed a memorandum in Abuja giving up to 50,000 fellows and alumni of the Nigeria Jubilee Fellows Programme free access to Cisco Networking Academy courses. The programme is a federal youth-employability scheme funded by the European Union and run by UNDP; Cisco valued its contribution at more than USD 52.7 million.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data-protection officer certification pipeline</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria Data Protection Commission calls for stronger public-private partnerships at Data Protection Africa Summit 2026](https://techreviewafrica.com/news/8144/nigeria-data-protection-commission-calls-for-stronger-public-private-partnerships-at-data-protection-africa-summit-2026)** — Tech Review Africa, 6 November 2026
+
+Vincent Olatunji, head of the Nigeria Data Protection Commission, opened the 8th Data Protection Africa Summit in Lagos on 6 November 2026. He urged data protection authorities to form public-private partnerships. He said the approach had helped the Commission create more than 27,000 jobs and raise certified data protection officers from under 1,000 to over 10,000 (his figures).
 
 </div>
 

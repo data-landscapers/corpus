@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 subject: dpi.pay
-places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: cd8ef9c4b8e9
+places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 986916399080
 ---
 
 # News, Oct – Nov 2026
@@ -75,6 +75,8 @@ record: cd8ef9c4b8e9
 <a href="#sudan">Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#togo">Togo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tunisia">Tunisia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -818,6 +820,20 @@ Mastercard and Moovn Technologies signed a five-year agreement, announced on 19 
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">PesaLink</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Postbank opens 600 agent points to other banks via Pesalink](https://techtrendske.co.ke/2026/11/04/postbank-opens-600-agent-points-to-other-banks-via-pesalink/)** — TechTrends Kenya, 4 November 2026
+
+Kenya's Postbank joined the Pesalink network, reported on 4 November 2026, so customers of other participating banks can deposit cash at its more than 600 agent and branch points. Withdrawals are not yet available.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">M-PESA</p>
 
 <div class="bulletin-item" markdown="1">
@@ -857,6 +873,20 @@ Liberia's instant payment system has processed more than 5.3 million transaction
 **[Electronic transactions reached 865 billion Libyan dinars by end of September 2026: CBL](https://libyaherald.com/2026/10/electronic-transactions-reached-865-billion-libyan-dinars-by-end-of-september-2026-cbl/)** — Libya Herald, 5 October 2026
 
 Libya's central bank said electronic transactions reached about 865 billion dinars by the end of September 2026. The figure came from a meeting between the governor, commercial bank heads and the state payments company on cash liquidity, wider electronic payment and cyber-risk readiness.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Wahda Bank digital banking platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Wahda Bank picks Backbase for digital banking](https://www.thepaypers.com/fintech/news/wahda-bank-selects-backbase-for-digital-banking-platform-in-libya)** — The Paypers, 5 November 2026
+
+Libya's Wahda Bank selected Backbase to build its digital banking platform, reported on 5 November 2026. Business banking goes live first in 2027, with online account opening by electronic identity verification. Retail banking for more than 500,000 customers follows, with links to the LYPay and OnePay instant payment systems.
 
 </div>
 
@@ -1005,6 +1035,23 @@ Morocco's central bank published two research working papers on a central bank d
 **[زحف "الكاش" يمتحن نجاعة خطط "بنك المغرب" لتوسيع الأداء الرقمي](https://www.hespress.com/%d8%b2%d8%ad%d9%81-%d8%a7%d9%84%d9%83%d8%a7%d8%b4-%d9%8a%d8%ae%d8%aa%d8%a8%d8%b1-%d9%86%d8%ac%d8%a7%d8%b9%d8%a9-%d8%ae%d8%b7%d8%b7-%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1821861.html)** — Hespress, 13 October 2026
 
 Cash in circulation in Morocco reached 550.3 billion dirhams at the end of August 2026, up 12.1% since the end of 2025, according to Bank Al-Maghrib data. Cash withdrawals made up 85% of the value of card transactions in 2025, even as bank cards rose 7.7% to 23.5 million. The central bank is expanding merchant acceptance, a unified QR payment platform and digital public payments.
+
+</div>
+
+</div>
+
+
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Samsung Pay on Mastercard tokenisation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Samsung Pay Launches in Morocco with Mastercard Tokenization Technology](https://techafricanews.com/2026/11/05/samsung-pay-launches-in-morocco-with-mastercard-tokenization-technology/)** — Tech Africa News, 5 November 2026
+
+Samsung Pay launched in Morocco on 5 November 2026 using Mastercard's tokenisation service. Eligible Mastercard cardholders at participating banks can pay with compatible Samsung devices. The banks were not named.
 
 </div>
 
@@ -1203,6 +1250,44 @@ Verve, Nigeria's largest card scheme, plans phone tap-to-pay and later payments 
 **[How FG selects beneficiaries for N50,000 relief](https://punchng.com/how-fg-selects-beneficiaries-for-n50000-relief/)** — Punch, 4 November 2026
 
 The Federal Government says beneficiaries of the N50,000 relief under NERSI are chosen from verified national identity records and the National Social Register. The register holds data on more than 70 million people. Enrolment in both is required, payment goes to a mobile wallet linked to the NIN, and people cannot apply to be added.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Licensing regime for fiat-collateralised stablecoins</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Regulations for the Operations of Non-Security Virtual Assets in Nigeria](https://www.cbn.gov.ng/Out/2026/CCD/REGULATIONS%20FOR%20THE%20OPERATIONS%20OF%20NON-SECURITY%20VIRTUAL%20ASSETS%20IN%20NIGERIA.pdf)** — Central Bank of Nigeria, 5 November 2026
+
+The Central Bank of Nigeria issued regulations for non-security virtual assets on 5 November 2026. Issuers of naira-referenced stablecoins need NGN 10bn of paid-up capital and foreign-currency-referenced issuers NGN 15bn, through Nigerian-incorporated entities. Algorithmic stablecoins are banned, other virtual-asset services need NGN 1bn, and the commencement date is not yet set.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria sets $11.16 million capital requirement for foreign stablecoin issuers](https://techcabal.com/2026/11/06/cbn-new-rules-foreign-stablecoin-issuers/)** — TechCabal, 6 November 2026
+
+The Central Bank of Nigeria released regulations on non-security virtual assets on the evening of 5 November 2026. Issuers of foreign-currency stablecoins must set up a licensed Nigerian entity with at least ₦15 billion in paid-up capital, and issuers of naira-backed stablecoins need ₦10 billion. Algorithmic stablecoins are banned, and existing operators have 180 days from the effective date to apply for a licence. See the Nigeria regulations entry for the full account.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria's Central Bank wants every crypto P2P payment linked to a bank transaction](https://techcabal.com/2026/11/06/cbn-tightens-crypto-p2p-rules/)** — TechCabal, 6 November 2026
+
+The Central Bank of Nigeria's regulations of 5 November 2026 require peer-to-peer crypto platforms to route naira payments through banks or approved channels. Platforms must also verify traders' identities. A platform may not release a token until the name and Bank Verification Number on the paying account match its verified customer. Platforms must keep records linking each payment to its token transfer. Travel Rule information is required for transfers of $1,000 or more. See the Nigeria regulations entry for the full account.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria's crypto firms face $744,000 capital rule as CBN, SEC divide oversight](https://techcabal.com/2026/11/06/cbn-sec-divide-crypto-oversight/)** — TechCabal, 6 November 2026
+
+Under the Central Bank of Nigeria's regulations released on 5 November 2026, the bank oversees stablecoins used for payments, transfers and settlement. The Securities and Exchange Commission keeps trading and securities. A firm licensed by the Commission needs a separate central bank authorisation. It also needs at least ₦1 billion in additional capital for payment services, and the same capital cannot count twice. The Commission has raised the minimum capital for digital asset exchanges from ₦500 million to ₦2 billion. June 2027 is the deadline for existing operators. See the Nigeria regulations entry for the full account.
 
 </div>
 
@@ -1609,6 +1694,22 @@ Mastercard and Moovn Technologies signed a five-year agreement, announced on 19 
 **[Tanzania ponders reviewing Sh5 million mobile money transaction limit](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-ponders-reviewing-sh5-million-mobile-money-transaction-limit-5650372)** — The Citizen (Tanzania), 30 October 2026
 
 Tanzania's deputy finance minister told Parliament on 29 October 2026 that the Bank of Tanzania is assessing whether to raise mobile money transaction limits. An MP had said the daily limit of Sh5 million is too low. The minister said the central bank sets limits by customer category and risk, and warned against raising them without safeguards.
+
+</div>
+
+</div>
+
+## Togo
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">WAEMU instant payment platform, Togolese participation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Togo: Instant Payment Platform Processed Nearly CFAF 15 Billion in Transactions by End-October](https://www.togofirst.com/en/economic-governance/0511-20563-togo-instant-payment-platform-processed-nearly-cfaf-15-billion-in-transactions-by-end-october)** — Togo First, 5 November 2026
+
+BCEAO said on 5 November 2026 that its PI-SPI instant payment platform had processed nearly CFAF 15 billion in 163,000 transactions in Togo by the end of October. The platform has 3.9 million users in Togo and 17 connected providers. The bank spoke at the start of a student awareness campaign in Lomé.
 
 </div>
 

@@ -1,16 +1,18 @@
 ---
 title: China activities — News, October – November 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 subject: geopol.china
-places: BWA; LBY; TGO; UGA
-record: 70033122103a
+places: BWA; GAB; LBY; TGO; UGA
+record: 9151e3a1f4ad
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#botswana">Botswana</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#gabon">Gabon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -44,6 +46,22 @@ China and Botswana raised relations to a comprehensive strategic partnership in 
 **[Huawei critical partner in digital transformation](https://dailynews.gov.bw/news-detail/93668)** — Botswana Daily News (BOPA), 14 October 2026
 
 Botswana signed a cooperation agreement on digital transformation with Huawei at the company's Beijing Research Institute on 13 October 2026, during President Duma Boko's state visit to China. It covers cloud hosting of government data, smart education, telemedicine and AI-powered public security for the police. No value is stated.
+
+</div>
+
+</div>
+
+## Gabon
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government-Huawei memoranda signed at Shanghai, November 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon/Technologie : trois protocoles d’accord signés avec Huawei à Shanghai - AGP - Agence Gabonaise de Presse](https://agpgabon.ga/gabon-technologie-trois-protocoles-daccord-signes-avec-huawei-a-shanghai/)** — Agence Gabonaise de Presse, 5 November 2026
+
+Gabon's government and Huawei signed three memoranda of understanding and a donation agreement in Shanghai on 4 November 2026, with President Oligui Nguema present, AGP reported. The memoranda cover public security, digital infrastructure and teaching platforms in public universities. The donation is AI teaching equipment for the university named after the president.
 
 </div>
 

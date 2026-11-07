@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems — News, October – November 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 subject: dpi.mis
-places: AGO; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; NAM; NER; NGA; RWA; SEN; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 3ba5d514fe10
+places: AGO; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: ffc1dd299dce
 ---
 
 # News, Oct – Nov 2026
@@ -57,6 +57,8 @@ record: 3ba5d514fe10
 <a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#morocco">Morocco</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#namibia">Namibia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -832,6 +834,22 @@ Morocco's justice minister criticised the banks on 4 November 2026 for not respo
 
 </div>
 
+## Mozambique
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Advanced Data Analytics Platform (PAAD) for immunisation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[How AI is helping Mozambique to boost vaccine decision-making](https://www.gavi.org/vaccineswork/how-ai-helping-mozambique-boost-vaccine-decision-making)** — Gavi VaccinesWork, 4 November 2026
+
+Mozambique announced in September 2026 that it is extending its PAAD immunisation analytics platform from 15 districts to more than 80 across six provinces. The Ministry of Health and Zenysis developed it with Gavi support. It links more than a dozen health systems without replacing them.
+
+</div>
+
+</div>
+
 ## Namibia
 
 <div class="monthly-story" markdown="1">
@@ -1053,6 +1071,20 @@ Tanzania's health ministry said 222 public health facilities are connected to an
 **[NaLIS: Digital transformation brings legal services closer to Tanzanians](https://dailynews.co.tz/nalis-digital-transformation-brings-legal-services-closer-to-tanzanians/)** — Daily News (Tanzania), 20 October 2026
 
 Tanzania's National Legal Information System (NaLIS), built by the constitution and legal affairs ministry, merges three earlier systems into one platform covering six service areas, including legal aid and alternative dispute resolution. The article gives no launch date for it.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">M-Mama emergency maternal referral platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[How Tanzania Cut Emergency Referral Costs with Community Drivers and Mobile Money](https://techafricanews.com/2026/11/06/dispatch-economics-behind-africas-digital-health-system-acceleration/)** — Tech Africa News, 6 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a>
+
+Tech Africa News reported on 6 November 2026 on Tanzania's M-Mama emergency referral platform, which the African Union Commission has cited as an example. It gives a cost of USD 170.40 per referral with community drivers. State ambulances alone cost USD 472, from a PLOS Global Public Health study of a pilot in Shinyanga. Drivers are paid by mobile money once delivery is verified.
 
 </div>
 

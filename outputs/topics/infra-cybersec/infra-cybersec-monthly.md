@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, October – November 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 subject: infra.cybersec
 places: BEN; BWA; BFA; CMR; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; ZMB; ZWE
-record: 7fbcceb14b84
+record: 1a43e1eefc82
 ---
 
 # News, Oct – Nov 2026
@@ -915,6 +915,20 @@ Rand Mutual Assurance said it is investigating a possible systems breach after a
 **[GCIS warns of information breach](https://www.itweb.co.za/article/gcis-warns-of-information-breach/wbrpO7g2ea3vDLZn)** — ITWeb South Africa, 30 October 2026
 
 South Africa's GCIS told applicants that its e-recruitment system had been compromised, possibly exposing ID numbers, phone numbers and e-mail addresses. Suspicious activity on its web systems was identified on 24 October 2026. GCIS reported the incident to the Information Regulator, the police and the State Security Agency.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">LekkeSlaap booking-data breach</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Accommodation booking platform LekkeSlaap suffers cyber attack](https://www.itweb.co.za/article/accommodation-booking-platform-lekkeslaap-suffers-cyber-attack/KBpdgvpmwV47LEew)** — ITWeb South Africa, 6 November 2026
+
+South African booking platform LekkeSlaap told guests on 6 November 2026 that their names, e-mail addresses, phone numbers and booking references were accessed through its calendar-syncing system. It says no payment data, ID numbers or passwords were taken and warns of phishing. The notice follows a separate breach at accommodation-technology provider NightsBridge days earlier.
 
 </div>
 

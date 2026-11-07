@@ -1,10 +1,10 @@
 ---
 title: AI — News, October – November 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d1e717a216cb
+record: 19d13144760c
 ---
 
 # News, Oct – Nov 2026
@@ -257,6 +257,20 @@ The 2026-2030 national AI roadmap was validated on 19 June 2026 but has not been
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sahal African Language Data Platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina Faso’s Sahal Tech Partners with Old Rock Group to Develop African Language AI](https://techafricanews.com/2026/11/06/burkina-fasos-sahal-tech-partners-with-old-rock-group-to-develop-african-language-ai/)** — Tech Africa News, 6 November 2026
+
+Sahal Tech Innovation Labs of Burkina Faso signed an agreement with Old Rock Group in Ouagadougou on 2 November 2026 to build the Sahal African Language Data Platform. It starts with datasets and AI for Mooré, Dioula, Fulfuldé and Bambara. Old Rock is to support project structuring, infrastructure and training.
+
+</div>
+
+</div>
+
 ## Cape Verde
 
 <div class="monthly-story" markdown="1">
@@ -308,6 +322,14 @@ Chad pre-validated its draft National Artificial Intelligence Strategy at a work
 **[La souveraineté au bout de l’algorithme et du guichet | CamerPressAgency](https://camerpressagency.com/la-souverainete-au-bout-de-lalgorithme-et-du-guichet/)** — CamerPressAgency, 9 October 2026
 
 An unsigned CamerPressAgency editorial reports that a workshop to pre-validate Chad's National Artificial Intelligence Strategy opened in N'Djamena on 8 October 2026, aiming at what it calls ethical, frugal and sovereign AI. It links this to restructuring of the national postal company STPE under the Tchad Connexion 2030 plan, including a possible postal bank. No budget or timetable is given.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[La Stratégie Nationale de Transformation Digitale en gestation : Le Tchad amorce son grand virage numérique avec l'appui du PNUD | CamerPressAgency](https://camerpressagency.com/la-strategie-nationale-de-transformation-digitale-en-gestation-le-tchad-amorce-son-grand-virage-numerique-avec-lappui-du-pnud/)** — CamerPressAgency, 5 November 2026
+
+Chad began drafting a National Digital Transformation Strategy on 4 November 2026, at a framing meeting chaired by the digital economy director-general. UNDP is funding an international consultancy. Chad's data governance strategy has been validated and its AI strategy pre-validated.
 
 </div>
 
@@ -880,6 +902,20 @@ Google DeepMind and Fab AI will build open Gemma-based AI tools for teachers in 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">WayaWaya Banking</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya's WayaWaya partners with Choice Bank to launch AI-powered banking services](https://techcabal.com/2026/11/06/wayawaya-partners-choice-bank/)** — TechCabal, 6 November 2026
+
+Kenyan fintech WayaWaya announced a partnership with Choice Bank on 6 November 2026 to offer AI-personalised banking. The microfinance bank provides the regulated accounts, multi-currency holding and transfers. WayaWaya's AI reads customers' transaction patterns to shape the interface.
+
+</div>
+
+</div>
+
 ## Madagascar
 
 <div class="monthly-story" markdown="1">
@@ -1362,6 +1398,20 @@ Google DeepMind and Fab AI will build open Gemma-based AI tools for teachers in 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Ayre Index of youth AI readiness</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Training partnerships spur SA’s youth AI readiness](https://www.itweb.co.za/article/training-partnerships-spur-sas-youth-ai-readiness/kYbe97XbjB2qAWpG)** — ITWeb South Africa, 6 November 2026
+
+ITWeb reported on 6 November 2026 that South Africa ranks 13th of 56 Commonwealth countries, with 56.8 points. The ranking is in the inaugural Ayre Index of youth AI readiness from the Ayre Think Tank. South Africa is second among African members after Mauritius, which ranks eighth. In the index's evidence, 88.2% of young South Africans expected to use AI for education or work in the next year.
+
+</div>
+
+</div>
+
 ## South Sudan
 
 <div class="monthly-story" markdown="1">
@@ -1473,6 +1523,21 @@ Togo's Voix du Togo pilot, backed by UNDP, is collecting voice and text in Kabiy
 **[Le Togo collecte des données en éwé, kabyè et moba pour entraîner ses futurs modèles d’IA](https://www.agenceecofin.com/actualites/1610-142485-le-togo-collecte-des-donnees-en-ewe-kabye-et-moba-pour-entrainer-ses-futurs-modeles-d-ia)** — Agence Ecofin, 16 October 2026
 
 Togo's digital transformation ministry launched Voix du Togo in October 2026, a three-year programme collecting voice and text data in national languages to train AI models, starting with Ewe, Kabiye and Moba. The target for each language is 50 hours of validated audio, 6,000 translated sentence pairs and at least 500 contributors; health, justice and administrative services are the intended uses.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Ayre Index of AI readiness</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IA : jusqu’à 262 millions de dollars de gain potentiel pour le Togo](https://www.republicoftogo.com/toutes-les-rubriques/eco-finance/ia-jusqu-a-262-millions-de-dollars-de-gain-potentiel-pour-le-togo)** — République Togolaise (republicoftogo.com), 5 November 2026
+
+The Ayre Think Tank published an AI readiness index at the Commonwealth summit in Antigua and Barbuda, reported on 5 November 2026. Togo scored 42.6 out of 100, against a readiness threshold of 53, and ranked 37th of 56 countries. The study puts the ten-year economic gain from AI at 83 to 262 million dollars, using IMF scenarios.
 
 </div>
 

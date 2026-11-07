@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, October – November 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 subject: infra.connect
-places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: 64503ba2f16a
+places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
+record: 218e5946be1e
 ---
 
 # News, Oct – Nov 2026
@@ -79,6 +79,8 @@ record: 64503ba2f16a
 <a href="#rwanda">Rwanda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#senegal">Senegal</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#seychelles">Seychelles</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -259,6 +261,21 @@ The African Telecommunications Union moved its IPv6 testbed for Botswana forward
 **[Télécommunications : 750 villages burkinabè sortiront bientôt des zones blanches](https://refletinfo.net/telecommunications-750-villages-burkinabe-sortiront-bientot-des-zones-blanches/)** — Reflet Info, 9 October 2026
 
 Burkina Faso's digital transition minister, Aminata Zerbo, said on 8 October 2026 that 750 villages without network coverage will get calls, internet and mobile money by the end of 2026, and 750 more by 2028, with 25 billion FCFA mobilised by the state. She said 3,140 government buildings are now connected and the administration's bandwidth has risen from 9 to 20 Gbps.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">New public-administration network</p>
+
+
+<div class="bulletin-item" markdown="1">
+
+**[Compte rendu du Conseil des ministres du jeudi 5 novembre 2026](https://burkina24.com/2026/11/05/compte-rendu-du-conseil-des-ministres-du-jeudi-5-novembre-2026/)** — Burkina24, 5 November 2026
+
+Burkina Faso's Council of Ministers adopted two decrees on 5 November 2026. One creates the foundational identification system and a national register of the unique identifier. The other designates the Ministry of Digital Transition to enrol people and issue the identifier until the competent body is operational. The council also approved CFA 15,463,900,000 of state-funded ministry projects, including a new administration network in Ouagadougou and Bobo-Dioulasso.
 
 </div>
 
@@ -543,6 +560,20 @@ Civil society in Fizi territory and Baraka, South Kivu, published a memorandum t
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile market, regulator's quarterly observatory</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Télécoms : Kinshasa concentre plus de 19 millions d’abonnements mobiles actifs - ACP](https://acp.cd/economie/telecoms-kinshasa-concentre-plus-de-19-millions-dabonnements-mobiles-actifs/)** — Agence Congolaise de Presse (ACP), 4 November 2026
+
+DR Congo had 77 million active mobile subscriptions in the second quarter of 2026, the regulator ARPTC's observatory reported, as carried by ACP on 4 November. Penetration rose from 66.8% to 68.6% and sector revenue rose 5.3% to USD 665.6m. Kinshasa held 19.59m subscriptions and about a third of revenue.
+
+</div>
+
+</div>
+
 ## Egypt
 
 <div class="monthly-story" markdown="1">
@@ -584,6 +615,20 @@ Egypt's telecoms regulator ordered fixed-line providers to double the EGP 150 ba
 **[6 Million New Lines and Fiber Optics Doubled: NTRA Unveils Egypt”s Internet Development Roadmap](https://www.technotime.net/18185)** — Techno Time, 2 November 2026
 
 Egypt's telecoms regulator NTRA plans to upgrade 6 million more fixed internet lines over three years. Fibre-backed lines would then pass 90% of the fixed network. Spokesperson Mohamed Ibrahim put fixed internet users above 13 million, with more than 5.5 million lines already on fibre. He gave 38,000 cell towers, with 40,000 targeted by end-2026. He said 450 MHz has been released to mobile operators.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Suez Canal Economic Zone network agreement with Telecom Egypt</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SCZone, Telecom Egypt sign deal to upgrade digital services](https://egyptian-gazette.com/egypt/sczone-telecom-egypt-sign-deal-to-upgrade-digital-services/)** — Egyptian Gazette, 6 November 2026
+
+The Suez Canal Economic Zone and Telecom Egypt signed a co-operation agreement, reported on 6 November 2026. Telecom Egypt will build multi-route telecommunications networks and deploy digital, IoT and data-analytics services across the zone's industrial areas, ports and affiliated facilities. The signing date was not stated.
 
 </div>
 
@@ -652,6 +697,14 @@ Equatorial Guinea's authorities aim to sign an agreement before the end of Octob
 **[Ethio Telecom Extends 4G LTE Coverage to 80 More Towns](https://techafricanews.com/2026/10/26/ethio-telecom-extends-4g-lte-coverage-80-towns/)** — Tech Africa News, 26 October 2026
 
 Ethio telecom extended 4G LTE to 80 more Ethiopian towns. Its 2026/27 plan targets 4G population coverage of 95%, from 82.23%, across 1,500 towns.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethio telecom and ZTE Deploy Ethiopia’s First Pre-Commercial AI RAN Solution](https://techafricanews.com/2026/11/05/ethio-telecom-zte-deploy-ethiopias-first-pre-commercial-ai-ran-solution/)** — Tech Africa News, 5 November 2026
+
+Ethio telecom and ZTE announced on 5 November 2026 a pre-commercial AI-driven radio access network in Ethiopia, which they describe as the first. They report 11% more 4G capacity and 40% higher peak-hour user throughput than the conventional solution. The deployment date was not stated.
 
 </div>
 
@@ -973,6 +1026,20 @@ Bayobab, an MTN Group company, said on 22 October 2026 that civil works and fibr
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Namelok Wireless community network, Kimuka</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Namelok Wireless Launches Community Internet Network in Kimuka, Kenya](https://techafricanews.com/2026/11/04/namelok-wireless-launches-community-internet-network-in-kimuka-kenya/)** — Tech Africa News, 4 November 2026
+
+Namelok Wireless announced on 4 November 2026 a community internet network in Kimuka, on Kenya's Ngong-Suswa Road. It serves public schools, government offices, health facilities and small businesses. No subscriber, coverage or price figures were published.
+
+</div>
+
+</div>
+
 ## Lesotho
 
 <div class="monthly-story" markdown="1">
@@ -1156,6 +1223,20 @@ Malawi's competition commission approved, with conditions, Telekom Networks Mala
 **[Msaka discloses plans to connect 2, 000 primary and secondary schools across Malawi](https://www.malawivoice.com/2026/10/29/msaka-discloses-plans-to-connect-2-000-primary-and-secondary-schools-across-malawi/)** — Malawi Voice, 29 October 2026
 
 Malawi's Education Minister Bright Msaka said on 29 October 2026 that 2,000 primary and secondary schools will be connected to the internet. The work falls under the World Bank-supported Digital Malawi Acceleration Project, with the Malawi Research and Education Network central to delivery. He gave no timeline or cost.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Airtel Malawi 5G sites in service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Airtel Malawi Invests MWK81 Billion in Network Expansion as Data Traffic Surges](https://techafricanews.com/2026/11/06/airtel-malawi-invests-mwk81-billion-in-network-expansion-as-data-traffic-surges/)** — Tech Africa News, 6 November 2026
+
+Airtel Malawi told Parliament's communications committee on 3 November 2026 that it had invested nearly MWK81 billion in the network over ten months. It reported 275 new towers in twelve months, 5G on 123 towers, about 2,800 km of fibre and 87% population coverage (company figures). It named foreign-exchange shortages and diesel for 315 off-grid sites as constraints.
 
 </div>
 
@@ -1467,6 +1548,28 @@ Ripples Nigeria published an investigation in October 2026 into Chinese loans fo
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Lagos State cable clean-up enforcement against internet service providers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lagos Directs ISPs to Clean Up Telecom Infrastructure in Three Areas Ahead of Enforcement](https://techafricanews.com/2026/11/06/lagos-directs-isps-to-clean-up-telecom-infrastructure-in-three-areas-ahead-of-enforcement/)** — Tech Africa News, 6 November 2026
+
+The Lagos State Infrastructure Maintenance and Regulatory Agency told internet service providers in three areas of Lagos, in a notice dated 2 November 2026, to clear and secure their cables and installations. Enforcement begins on 9 November 2026, with possible sanctions. General Manager Prince Oyekanmi Elegushi signed the notice. See the Lagos regulator entry for the full account.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lagos orders ISPs to secure cables](https://www.itweb.africa/article/lagos-orders-isps-to-secure-cables/nWJad7bNRRE7bjO1)** — ITWeb Africa, 6 November 2026
+
+Lagos State's infrastructure regulator LASIMRA ordered internet service providers to rearrange dangling fibre cables, secure loose installations and clear obstructions in Ilasan/Ikate, Allen Avenue and the Customs Office area of Ikeja. The notice is dated 2 November 2026, and enforcement with sanctions begins on 9 November 2026. The Nigerian Communications Commission regulates the sector federally.
+
+</div>
+
+</div>
+
 ## Rwanda
 
 <div class="monthly-story" markdown="1">
@@ -1508,6 +1611,36 @@ Senegal's and Mali's state fibre operators inaugurated the interconnection of th
 **[Session parlementaire 2026-2027 : cinq propositions de commissions d’enquête à l’étude](https://lesoleil.sn/actualites/politique/session-parlementaire-2026-2027-cinq-propositions-de-commissions-denquete-a-letude/)** — Le Soleil, 13 October 2026
 
 At the opening of Senegal's 2026–2027 parliamentary session on 13 October 2026, National Assembly president Ousmane Sonko announced five proposed commissions of inquiry. They include one on personal data in health under the health ministry's 13 March 2026 protocol with the United States, and one on Banco Santander-financed programmes, including the 50 billion FCFA PASSANT digital project. The proposals still need the Assembly bureau's approval.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SENUM partnership with Univers Telecom Group</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[SENUM and Univers Telecom Group sign strategic partnership to accelerate Senegal’s digital transformation](https://techreviewafrica.com/news/8155/senum-and-univers-telecom-group-sign-strategic-partnership-to-accelerate-senegal-s-digital-transformation)** — Tech Review Africa, 6 November 2026
+
+Senegal's state digital company SENUM signed a partnership agreement with Univers Telecom Group, reported on 6 November 2026. The stated aims are a more resilient state digital infrastructure and the digitisation of the administration. The work is already under way through the PRODAP programme on the national backbone.
+
+</div>
+
+</div>
+
+## Seychelles
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet usage</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital 2027: Seychelles](https://datareportal.com/reports/digital-2027-seychelles)** — DataReportal (Kepios), 5 November 2026
+
+DataReportal published its Digital 2027 report on Seychelles on 5 November 2026. It counts 119,000 internet users, 87.8% of the population, and 228,000 mobile connections, equal to 168% of the population, in late 2026.
 
 </div>
 

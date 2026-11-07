@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, October – November 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: dfa0529bc8e6
+record: 2753a1eb7601
 ---
 
 # News, Oct – Nov 2026
@@ -476,6 +476,14 @@ Côte d'Ivoire's Senate opened its second ordinary session of 2026 with attendan
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire-AIP/ Le vote électronique fait ses premiers pas au Sénat - AIP - Agence Ivoirienne de Presse](https://www.aip.ci/cote-divoire-aip-le-vote-electronique-fait-ses-premiers-pas-au-senat/)** — Agence Ivoirienne de Presse (AIP), 5 November 2026
+
+Côte d'Ivoire's Senate voted electronically for the first time on 5 November 2026, on four bills in Yamoussoukro. Digital attendance and tallying replaced the roll call, and results were declared in under three minutes.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -728,6 +736,20 @@ Equatorial Guinea's vice-presidency reviewed the VFS Global e-visa contract befo
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Securiport border-control modernisation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[El Gobierno avanza en las negociaciones con Securiport para la modernización del sistema de control fronterizo](https://www.guineaecuatorialpress.com/noticias/el_gobierno_avanza_en_las_negociaciones_con_securiport_para_la_modernizacion_del_sistema_de_control_fronterizo)** — Government of Equatorial Guinea, 5 November 2026
+
+Equatorial Guinea's Vice-President chaired a government review on 3 November 2026 of the fees US firm Securiport proposed to modernise border control. He asked for its earlier contracts to compare terms. He recommended a pilot at the Malabo and Bata airports before any wider extension.
+
+</div>
+
+</div>
+
 ## Eswatini
 
 <div class="monthly-story" markdown="1">
@@ -755,6 +777,20 @@ Eswatini's ICT ministry presented a proposed platform for reaching government se
 **[Digital company registrations plunge 70%](https://www.eswatiniobserver.com/digital-company-registrations-plunge-70/)** — Eswatini Observer, 3 November 2026
 
 Eswatini's commerce ministry reports 632 online company registrations in the second quarter of 2026/27, against 2,127 a year earlier. The report cites network connectivity problems and manual processes. Total registrations fell from 952 to 790.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online passport applications</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[HOME AFFAIRS GOES DIGITAL TO CUT COSTS](https://eswatinipositivenews.online/home-affairs-goes-digital-to-cut-costs/)** — Eswatini Positive News, 6 November 2026
+
+Eswatini's Home Affairs Minister Pholile Shakantu told the portfolio committee that passport applications are moving online. She said eVisa issuance and scanning at points of entry are ready (Eswatini Positive News, 6 November 2026). She cited lower costs and shorter queues under budget constraints.
 
 </div>
 
@@ -1667,6 +1703,20 @@ The president of Sao Tome and Principe's Court of Auditors announced an electron
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SYDOC document management and SYDOC-PASS</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[São Tomé and Príncipe: Ministério dos Negócios Estrangeiros, Cooperação e Comunidades (MNECC) Lança Plataformas Digitais para Modernizar a Gestão Documental e a Emissão de Passaportes Oficiais](https://www.africa-newsroom.com/press/sao-tome-and-principe-ministerio-dos-negocios-estrangeiros-cooperacao-e-comunidades-mnecc-lanca-plataformas-digitais-para-modernizar-a-gestao-documental-e-a-emissao-de-passaportes-oficiais?lang=pt)** — MNECC São Tomé e Príncipe (via APO Group), 6 November 2026
+
+São Tomé and Príncipe's foreign ministry launched SYDOC, an electronic document-management system built by the Agência de Gestão e Administração. It also launched SYDOC-PASS for diplomatic and service passport requests (ministry release, 6 November 2026). The minister said a digital-signature legal framework, digital identity and a Citizen Portal are still to come.
+
+</div>
+
+</div>
+
 ## Senegal
 
 <div class="monthly-story" markdown="1">
@@ -1957,6 +2007,21 @@ South Africa's revenue service closed consultation on its Digital VAT Model, bui
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Baladna (national e-government platform)</p>
+
+
+<div class="bulletin-item" markdown="1">
+
+**[السودان يؤكد من قمة الأمم المتحدة للابتكار في الحوكمة أن التحول الرقمي محرك أساسي لإعادة الإعمار](https://www.suna.sd/posts/alsodan-yokd-mn-km-alamm-almthd-llabtkar-fy-alhokm-an-althol-alrkmy-mhrk-asasy-laaaad-alaaamar)** — Sudan News Agency (SUNA), 6 November 2026
+
+Sudan's Digital Transformation Authority told the UN Governance Innovation Summit in Baku on 6 November 2026 that the Baladna platform carries 134 digital services from more than 46 government institutions (SUNA). It described a services-first, legislation-second approach. It presented digital transformation as part of post-war reconstruction.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Authenticated electronic correspondence as the state's sole official channel</p>
 
 <div class="bulletin-item" markdown="1">
@@ -2008,6 +2073,20 @@ Tanzania's education minister Adolf Mkenda launched the Integrated National Digi
 **[Digital shift boosts access to Sh42.6 trillion tender market](https://www.thecitizen.co.tz/tanzania/news/national/digital-shift-boosts-access-to-sh42-6-trillion-tender-market-5651820)** — The Citizen, 30 October 2026
 
 Tanzania's procurement regulator said on 29 October 2026 that the NeST e-procurement system has handled 430,643 tenders worth TZS 42.6 trillion since September 2023. Compliance with procurement law reached 79% in 2025/26. A portal opened on 1 October 2026 links more than 36 banks to issue tender securities through NeST.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">M-Kilimo and e-Kilimo farmer services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tanzania’s smallholder farmers struggle to benefit from digital agriculture](https://www.aljazeera.com/economy/2026/11/6/tanzanias-smallholder-farmers-struggle-to-benefit-from-digital-agriculture)** — Al Jazeera, 6 November 2026
+
+Smallholders in Dodoma region told Al Jazeera on 6 November 2026 that they have not registered for, or get late answers from, the agriculture ministry's M-Kilimo and e-Kilimo services. A 2024 study counted about 7.2 million registered M-Kilimo farmers and some 400,000 incomplete registrations. The ministry did not respond.
 
 </div>
 
@@ -2092,6 +2171,46 @@ A Tunisian jurist, Montaha Ben Taieb, examines the legal questions raised by the
 **[وزارة تكنولوجيات الاتصال: تطبيقة «خدمات» متاحة للتحميل على «آبل ستور»](https://www.alchourouk.com/article/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A9-%C2%AB%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%C2%BB-%D9%85%D8%AA%D8%A7%D8%AD%D8%A9-%D9%84%D9%84%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%C2%AB%D8%A2%D8%A8%D9%84-%D8%B3%D8%AA%D9%88%D8%B1%C2%BB)** — Al Chourouk, 11 October 2026
 
 Tunisia's communication technologies ministry released its Khadamat public-services app on a second mobile platform, after an Android release at the end of August. It is reached through the e-Houwiya digital identity and covers civil-status records, driving licence and vehicle data, traffic fines, inspection bookings, health-insurance and social-security services and e-payments.
+
+</div>
+
+</div>
+
+
+
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Passport issuance through the electronic consulate system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Passeports des TRE : une nouvelle procédure en ligne prévue pour 2027](https://businessnews.com.tn/2026/11/05/passeports-des-tre-une-nouvelle-procedure-en-ligne-prevue-pour-2027/1427376/)** — Business News, 5 November 2026
+
+Tunisia's Foreign Minister told parliament on 5 November 2026 that the ministry has begun a pilot putting passport issuance and renewal for Tunisians abroad into its electronic consulate system. Roll-out across consular centres is planned during 2027. He did not say which steps will be online. New passport production units are to be installed in Jakarta, Beijing and Montreal.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Remote requests for identity card, passport and driving licence</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Passeport, carte d’identité, permis : les démarches à distance promises avant fin 2026](https://businessnews.com.tn/2026/11/06/passeport-carte-didentite-permis-les-demarches-a-distance-promises-avant-fin-2026/1427550/)** — Business News, 6 November 2026
+
+Business News reported on 6 November 2026 that Communication Technologies Minister Sofiene Hemissi promised remote administrative services before the end of the year. Citizens would be able to apply for passports, renew identity cards and driving licences, and pay municipal and personal taxes online. He spoke at a parliamentary hearing on his ministry's 2027 budget. The same hearing is covered in the Tunisian AI projects item.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tunisie : six projets gouvernementaux basés sur l’IA prévus en 2027 contre deux en 2026](https://www.webmanagercenter.com/2026/11/06/576433/tunisie-six-projets-gouvernementaux-bases-sur-lia-prevus-en-2027-contre-deux-en-2026/)** — Webmanagercenter, 6 November 2026
+
+Tunisia's ICT minister told parliament on 6 November 2026 that his ministry plans six AI-based government projects in 2027, against two in 2026. It aims to move from tier 3 in 2024 to tier 2 of the Global Cybersecurity Index by 2027. He presented a 2027 mission budget of about TND 1.074 billion, 80% from supervised enterprises' own resources. He promised remote ID-card, passport and driving-licence requests before the end of 2026.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — News, October – November 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 subject: digital.localgov
 places: BDI; CMR; CPV; COD; EGY; ETH; GAB; KEN; MLI; NGA; ZAF; SSD; SDN; TZA
-record: 4d01e103757a
+record: 9aab0e568ec8
 ---
 
 # News, Oct – Nov 2026
@@ -198,6 +198,21 @@ Kenya's Controller of Budget reported that county governments paid at least Sh8.
 **[Mombasa tuk-tuk fines: Who is watching the watchers?](https://nation.africa/kenya/counties/mombasa/mombasa-tuk-tuk-fines-who-is-watching-the-watchers--5634070)** — Daily Nation, 16 October 2026
 
 Two Mombasa tuk-tuk associations went to the High Court against the county's camera-based instant traffic fines, which block operators' stickers on the county portal until they are paid. They argue that no published law authorises the system or its capture of passengers' images; the case returns on 9 November.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Vihiga County Land Information System</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[From paper files to fingertips Vihiga unleashes digital revolution](https://www.kenyanews.go.ke/from-paper-files-to-fingertips-vihiga-unleashes-digital-revolution/)** — Kenya News Agency, 6 November 2026
+
+Vihiga County held its first ICT Day and Digital Innovation Expo, reported on 6 November 2026. Governor Wilber Ottichilo said procurement, job applications and payments are now fully online and that the health workforce is integrated into digital systems. He said the county Land Information System is 70 percent complete.
 
 </div>
 

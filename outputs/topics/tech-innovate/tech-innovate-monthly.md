@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — News, October – November 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 subject: tech.innovate
 places: DZA; BFA; CIV; COD; SWZ; MWI; NAM; NGA; ZAF; TZA; TUN; ZWE
-record: ec0e1389dfc8
+record: 80e926e52a85
 ---
 
 # News, Oct – Nov 2026
@@ -106,6 +106,20 @@ An international seminar on blockchain and digital assets in Abidjan, co-organis
 **[Call for Tenders: Design and Delivery of an Investment Readiness Programme for Tech and Tech-Enabled Startups in Cote d'Ivoire](https://tenders-afd.dgmarket.com/tender/116742536)** — Agence Française de Développement (via dgMarket), 27 October 2026
 
 Expertise France opened a tender on 27 October 2026 for an investment readiness programme for tech startups in Côte d'Ivoire. The programme falls under the Africa-Europe Digital Innovation Bridge. It would support four support organisations and 16 startups, at least five women-led, for 17 months from February 2027; bids close on 23 November.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Startup accelerator cohorts</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d’Ivoire-AIP/ Le ministre Djibril Ouattara annonce 24 mois d’accompagnement de l’État pour 32 entreprises du secteur du numérique - AIP - Agence Ivoirienne de Presse](https://www.aip.ci/cote-divoire-aip-le-ministre-djibril-ouattara-annonce-24-mois-daccompagnement-de-letat-pour-32-entreprises-du-secteur-du-numerique/)** — Agence Ivoirienne de Presse (AIP), 5 November 2026
+
+Côte d'Ivoire named 32 digital firms on 4 November 2026 for 24 months of state support: 14 start-ups and 18 small and medium enterprises. Each is bound by a performance contract measured on revenue, jobs and regional expansion.
 
 </div>
 

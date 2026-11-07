@@ -1,10 +1,10 @@
 ---
 title: Data protection — News, October – November 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 subject: gov.protect
 places: AGO; BFA; CMR; COG; COD; EGY; GHA; KEN; LBY; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1f11039b3bc5
+record: 2f617c1fd376
 ---
 
 # News, Oct – Nov 2026
@@ -445,6 +445,7 @@ The president of Senegal's data protection commission, the CDP, said the state's
 Sierra Leone's Data Protection and Right of Access to Information Bill, 2026 was due before Parliament on 5 November 2026. The rights group CHRDI, which sits on the bill's steering committee, gave the date.
 
 </div>
+
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Access to services — News, October – November 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 subject: include.access
-places: BFA; CPV; COD; ETH; GAB; KEN; LBR; MDG; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; UGA; ZMB
-record: 8f02625ec1f1
+places: BFA; CPV; COD; ETH; GAB; GHA; KEN; LBR; MDG; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; UGA; ZMB
+record: 4f81c030f898
 ---
 
 # News, Oct – Nov 2026
@@ -19,6 +19,8 @@ record: 8f02625ec1f1
 <a href="#ethiopia">Ethiopia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gabon">Gabon</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -136,6 +138,22 @@ The Ethiopian Institution of the Ombudsman's website says it has resolved more t
 **[Digitalisation : Identitysecu, une innovation au service des usagers et de la Police nationale](https://ethiquemediagabon.net/?p=15389)** — Ethique Media Gabon, 30 October 2026
 
 On 29 October 2026 the police inspectorate and Group IDENTITY signed an agreement for a pilot of the Identitysecu app. Users would file complaints online about police conduct. The pilot is to run for six months to a year.
+
+</div>
+
+</div>
+
+## Ghana
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Second National Financial Inclusion and Development Strategy 2027-2031</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Financial inclusion expands, but economic well-being remains low at 22%](https://www.citinewsroom.com/2026/11/financial-inclusion-expands-but-economic-well-being-remains-low-at-22/)** — Citi Newsroom, 6 November 2026
+
+Ghana's Ministry of Finance inaugurated a National Technical Working Committee on 5 November 2026. It will draft the second National Financial Inclusion and Development Strategy for 2027 to 2031. Launch is targeted for the first half of 2027, and a Financial Inclusion Council is proposed. The deputy minister cited account ownership above 80% (Global Findex 2025). He also cited 22% of adults financially healthy (FinScope 2021).
 
 </div>
 
@@ -494,6 +512,20 @@ Uganda's gender ministry said, as reported on 19 October 2026, that about 43,000
 **[Zamtel unveils MyZamtel Super App and two Zambia-first digital innovations](https://techreviewafrica.com/news/7580/x)** — Tech Review Africa, 5 October 2026
 
 Zambia's Zamtel launched a self-care application with a build-your-own-bundle option, and Kongola Malaiti, a digital financial service reached by short code. No user figures are given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Target of 10 million additional smartphones</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Zambia Plans 10 Million More Smartphones in Five-Year Digital Push](https://www.ecofinagency.com/news-digital/0611-60555-zambia-plans-10-million-more-smartphones-in-five-year-digital-push)** — Ecofin Agency, 6 November 2026
+
+Zambia's Technology and Science Minister Felix Mutati set a target of 10 million additional smartphones over five years, towards broadband access for 80% of the population. He spoke at a meeting with Airtel Zambia on 5 November 2026. Airtel cited ZICTA figures of 12.4 million smartphone connections out of about 27 million (reported 6 November 2026).
 
 </div>
 

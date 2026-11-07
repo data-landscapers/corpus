@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — News, October – November 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 subject: dpi.exchange
-places: DZA; AGO; BEN; BFA; CMR; COD; EGY; GAB; GIN; GNB; KEN; LSO; MOZ; NGA; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB
-record: 33084e1440f8
+places: DZA; AGO; BEN; BFA; CMR; COD; EGY; GAB; GIN; GNB; KEN; LSO; MRT; MOZ; NGA; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB
+record: 6a47af5a1cf9
 ---
 
 # News, Oct – Nov 2026
@@ -33,6 +33,8 @@ record: 33084e1440f8
 <a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#lesotho">Lesotho</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mauritania">Mauritania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -326,6 +328,30 @@ Kenya's electoral commission IEBC is moving its voter registration targets from 
 **[The Government of Lesotho Remains Committed to Strengthening Secure Data Exchange Across Government Institutions and Enhancing Service Delivery for Basotho](https://www.africa-newsroom.com/press/the-government-of-lesotho-remains-committed-to-strengthening-secure-data-exchange-across-government-institutions-and-enhancing-service-delivery-for-basotho?lang=en)** — Government of Lesotho (via APO Group), 21 October 2026
 
 Lesotho's ICT ministry and UNICEF held a workshop in Berea on 20-23 October 2026 to plan an X-Road pilot for the National Data Exchange. It assessed ministries' readiness, picked priority uses for child-focused services and set a roadmap with data-protection and child-rights safeguards.
+
+</div>
+
+</div>
+
+## Mauritania
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National health interoperability framework (DIGISANTE MRT)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Health system interoperability: early lessons in governance and technical design](https://www.bluesquarehub.com/health-system-interoperability-governance-technical-lessons/)** — Bluesquare, 13 October 2026
+
+Bluesquare reported on 13 October 2026 that Mauritania's DIGISANTE MRT programme recommended OpenClinic GA as the shared open-source primary-care record. Of 21 health centres assessed in Nouakchott, Trarza and Brakna, 12 were confirmed as pilot sites, starting with Dar Naim. The programme rests on HL7 FHIR R4, a national patient identifier and harmonised terminologies. Its steering unit first met in July 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[How many systems is your national health program really connecting?](https://www.linkedin.com/posts/bluesquarehub_interoperability-digitalhealth-hl7fhir-activity-7520863636727316481-egWC)** — Bluesquare, 27 October 2026
+
+Bluesquare said on 27 October 2026 that the DIGISANTE MRT programme in Mauritania brings together the health and digital ministries, the population registry authority and professional bodies. It listed early lessons. Data access splits into four decisions, and response time drives architecture. A national trust bus such as X-Road suits only a country that has or requires one.
 
 </div>
 
