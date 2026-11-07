@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-gab-gabon-taps-huawei-st-digital-to-build-digital-skills-training-centre",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "We Are Tech says ST DIGITAL inaugurated the CFEP-MTIC vocational training centre in Nkok, teaching web development, mobile applications and IT support, as part of the World Bank-supported PRODECE project.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "CFEP-MTIC",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

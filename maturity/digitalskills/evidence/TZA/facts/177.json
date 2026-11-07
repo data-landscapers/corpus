@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-tza-tanzanias-smallholder-farmers-struggle-to-benefit-from-digital-agricul",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Al Jazeera reports the government's $3.62m Data for Digital Agricultural Transformation Joint Programme (Sept 2024 to Aug 2027) targets improving digital literacy for 500,000 farmers.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "Data for Digital Agricultural Transformation Joint Programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
