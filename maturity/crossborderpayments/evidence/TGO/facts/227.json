@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-05-tgo-togo-instant-payment-platform-processed-nearly-cfaf-15-billion-in-tran",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "Togo's payment providers are connected to PI-SPI, the BCEAO's instant payment platform across WAEMU, in service for just over a year by end-October 2026.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "PI-SPI",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "PI-SPI",
+   "class": "other",
+   "platform": "",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
