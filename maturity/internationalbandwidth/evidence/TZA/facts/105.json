@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-18-tza-tanzania-communications-regulatory-authority-contribution-to-the-globa",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "TCRA says submarine cables land in Tanzania and its backbone links landlocked countries to them.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "submarine cables",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
