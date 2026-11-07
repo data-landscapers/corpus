@@ -1,14 +1,14 @@
 ---
 title: Central African Republic: status report
-compiled: 2026-11-06
+compiled: 2026-11-07
 place: CAF
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-26
 intersections_read: 6
-sources_cited: 146
+sources_cited: 149
 sections_written: 39
-not_established: 2
+not_established: 1
 acquire_lines: 27
 ---
 ## Governance
@@ -342,7 +342,7 @@ Publication that does happen tends to be regional or documentary rather than nat
 ### Geospatial data
 <!-- data.geospatial -->
 
-Earth observation had no established role in public administration in the Central African Republic, and no national space or geospatial data policy had been adopted, as at August 2026.
+[In April 2023 FAO trained ten agriculture ministry experts in using space-based data for agriculture and hydrometeorology](https://www.fao.org/geospatial/news/news-detail/FAO-Conducts-Training-in-Bangui-to-Enhance-Hydrological-and-Meteorological-Emergency-Management-Using-Space-Based-Data/en). [The aeronautical meteorological centre at Bangui airport lists satellite reception among its instruments](https://aim.asecna.aero/html/eAIP/FR-_04AD-2.FEFF-fr-FR.html) (August 2025). [A continental research body projected the 2025 cassava harvest from satellite data](https://akademiya2063.org/publications/AAgWa%20Crop%20Production%20Forecasts/AAgWa%20Crop%20Production%20Forecasts%20Series%20No.%20306_Central%20African%20Republic%20-%20Cassava.pdf) (October 2025). No national Earth observation programme or geospatial data policy had been found as at November 2026.
 
 ## Geopolitics
 
