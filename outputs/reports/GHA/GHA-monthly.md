@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: GHA
-ledger_rows: 59
+ledger_rows: 60
 not_held: 9
-record: 66a11da767fe
+record: 999cf6491e80
 ---
 
 # News, Oct – Nov 2026
@@ -636,6 +636,14 @@ Ghana's National Identification Authority will begin Ghana Card registration of 
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[FALSE! 91% of Ghanaians have not received their Ghana Cards](https://ghana.dubawa.org/false-91-of-ghanaians-have-not-received-their-ghana-cards/)** — Dubawa Ghana, 5 November 2026
+
+NIA data, 30 Oct 2026: 20,610,948 enrolled, 19,575,078 cards issued; minister's 91% claim rated false.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1091,8 +1099,26 @@ Google DeepMind and Fab AI will build open Gemma-based AI tools for teachers in 
 ## Inclusion
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
+<a href="#access-to-services">Access to services</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-divides">Digital divides</a>
 </nav>
+
+### Access to services
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Second National Financial Inclusion and Development Strategy 2027-2031</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Financial inclusion expands, but economic well-being remains low at 22%](https://www.citinewsroom.com/2026/11/financial-inclusion-expands-but-economic-well-being-remains-low-at-22/)** — Citi Newsroom, 6 November 2026
+
+Committee for 2027-2031 strategy inaugurated 5 Nov 2026; launch targeted H1 2027; Financial Inclusion Council planned.
+
+</div>
+
+</div>
 
 ### Digital divides
 
