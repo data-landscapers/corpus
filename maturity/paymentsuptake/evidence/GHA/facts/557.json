@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-gha-financial-inclusion-expands-but-economic-well-being-remains-low",
+ "facts": [
+  {
+   "sub_indicator": "uptake",
+   "aspect": "target",
+   "value": "target",
+   "fact": "Citi Newsroom reports that the World Bank's Global Findex 2025 puts Ghana's adult financial account ownership above 80%, as cited by the Deputy Minister of Finance.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Global Findex 2025",
+   "class": "survey"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -25,6 +25,7 @@ GMB,PAPSS,Gambia,other,Pan-African Payment and Settlement System,PAPSS,"Particip
 GNB,PAPSS,Guinea-Bissau,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
 KEN,FinAccess Household Survey,Kenya,survey,household survey of adults 18+,Central Bank of Kenya with KNBS and FSD Kenya,,2024-12-01-ken-cbk-2024-finaccess-household-survey
 KEN,M-PESA,Kenya,other,mobile money,Safaricom,,2024-12-01-ken-cbk-2024-finaccess-household-survey
+KEN,IPSL payment scheme,Kenya,other,Tazama,Integrated Payment Services Limited,,2024-11-27-iati-dac-1601-inv-076412-tazama-poc-ipsl-kenya
 LBR,Global Findex,Liberia,survey,,World Bank,,2026-07-13 Liberia Expands Digital Finance
 LBY,Moamalat Financial Services Company,Libya,other,,,,2026-10-05-cbl-electronic-transactions-865-billion-dinars
 LBY,Moamalat Financial Services Company,Libya,other,,,,2026-10-05-lby-cbl-governor-banks-moamalat-liquidity-epayment
@@ -38,6 +39,7 @@ MLI,Télépaiement (DGI),Mali,other,bank transfers,Direction générale des imp�
 MOZ,M-Pesa,MOZ,other,,Vodacom Mozambique,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
 MOZ,Adianta-La,MOZ,other,M-Pesa,Maximo Microbanco,,2026-09-04-techreviewafrica-mpesa-maximo-cedsif-credit-mozambique
 MOZ,Global Findex Database 2025,Mozambique,survey,,World Bank,,2025-10-01-moz-bancomoc-relatorio-inclusao-financeira-2025
+MOZ,campaign worker databases for digital payment,Mozambique,other,,Dimagi Inc. (implementer),,2024-12-19-crs-1601-2024012782-09-2024-campaign-worker-databases-to-facilitate-rapid-digi
 MWI,Malawi Police electronic traffic fine payment,MWI,other,,,,2026-09-04-itwebafrica-malawi-police-digital-traffic-fines
 MWI,TNM Mpamba,MWI,other,,,,2026-09-04-itwebafrica-malawi-police-digital-traffic-fines
 MWI,Airtel Money,MWI,other,,,,2026-09-04-itwebafrica-malawi-police-digital-traffic-fines
@@ -77,6 +79,7 @@ TUN,PAPSS,Tunisia,other,Pan-African Payment and Settlement System,PAPSS,Live soo
 TUN,D17 mobile wallet,Tunisia,other,mobile wallet,La Poste,,2022-01-01-tun-worldbank-ifc-inclusion-financiere
 UGA,FinScope Uganda,Uganda,survey,,Bank of Uganda / FSD Uganda,,2024-07-01-uga-finscope-uganda-2023-survey-report
 UGA,FinScope 2023 financial inclusion,"81% overall, 68% formal (2023)",other,,,,2024-08-05-uga-navigating-the-pitfalls-3-consumer-challenges-in-uganda-s-financial-co
+UGA,national central data hub for credit reference bureaus,Uganda,other,,,,2024-07-09-crs-1601-2024011309-01-2024-uganda-central-data-hub
 ZAF,MTN MoMo,ZAF,other,,,,2026-09-04-techcabal-mtn-fintech-serigne-dioum-momo-vision
 ZAF,PayShap,South Africa,other,,,,2026-07-13-sarb-qr-plus-checkout
 ZAF,QR+,South Africa,other,,SARB,,2026-07-13-sarb-qr-plus-checkout
