@@ -1,11 +1,11 @@
 ---
 title: Madagascar — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: MDG
-ledger_rows: 23
+ledger_rows: 24
 not_held: 5
-record: a835ecef6f7f
+record: 8f0b981e5699
 ---
 
 # News, Oct – Nov 2026
@@ -47,6 +47,28 @@ record: a835ecef6f7f
 **[Gouvernement ouvert : Madagascar à trois points du seuil requis](https://midi-madagasikara.mg/gouvernement-ouvert-madagascar-a-trois-points-du-seuil-requis/)** — Midi Madagasikara, 9 October 2026
 
 Madagascar scores 9 of 16 points against the 12 it needs to rejoin the Open Government Partnership, which it first joined in 2016. A colloquium is drafting commitments for a national action plan for 2026 to 2030.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital development ministry leadership</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Le ministre du développement numérique, Mahefa Andriamampiadana, démissionne](https://www.madagascar-tribune.com/Gouvernement-Mahefa-Andriamampiadana-demissionne-pour-raisons-de-sante-des.html)** — Madagascar Tribune, 4 November 2026
+
+Health grounds per Presidency; interim by higher-education minister; paper links exit to bills 040/2026 and 042/2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[TÉLÉCOMMUNICATIONS - Les réformes au service du développement numérique](https://www.lexpress.mg/2026/11/telecommunications-les-reformes-au.html)** — L'Express de Madagascar, 5 November 2026
+
+Resignation accepted 3 Nov; Asan'ai to train 1,300 youths in AI to May 2027; basic mobile basket 7.32% of GNI.
 
 </div>
 
