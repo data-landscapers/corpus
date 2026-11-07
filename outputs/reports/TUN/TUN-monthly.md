@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: TUN
 ledger_rows: 35
 not_held: 5
-record: feeb423f19a4
+record: 25ff14fe926f
 ---
 
 # News, Oct – Nov 2026
@@ -356,7 +356,7 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 **[Ministry of Finance: 1.8 Million Invoices Received Through the Electronic Invoicing Platform, Nearly 37,000 Settled - Tunisia Online News](https://www.tunisiaonlinenews.com/ministry-of-finance-1-8-million-invoices-received-through-the-electronic-invoicing-platform-nearly-37000-settled/)** — Tunisia Online News, 4 November 2026
 
-Finance ministry 2027 budget hearing, 3 Nov 2026; unified online tax account due Q1 2027; database interconnection.
+Tunisia's Finance Minister told parliament's finance committees on 3 November 2026 that the electronic invoicing platform had received about 1.8 million invoices. Nearly 37,000 of them were settled. The 2027 budget also plans a unified tax account from the first quarter of 2027.
 
 </div>
 
@@ -384,7 +384,7 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 **[Passeports des TRE : une nouvelle procédure en ligne prévue pour 2027](https://businessnews.com.tn/2026/11/05/passeports-des-tre-une-nouvelle-procedure-en-ligne-prevue-pour-2027/1427376/)** — Business News, 5 November 2026
 
-Pilot with ICT ministry; consular roll-out through 2027; online steps unspecified; new units Jakarta, Beijing, Montreal.
+Tunisia's Foreign Minister told parliament on 5 November 2026 that the ministry has begun a pilot putting passport issuance and renewal for Tunisians abroad into its electronic consulate system. Roll-out across consular centres is planned during 2027. He did not say which steps will be online. New passport production units are to be installed in Jakarta, Beijing and Montreal.
 
 </div>
 
@@ -398,7 +398,7 @@ Pilot with ICT ministry; consular roll-out through 2027; online steps unspecifie
 
 **[Passeport, carte d’identité, permis : les démarches à distance promises avant fin 2026](https://businessnews.com.tn/2026/11/06/passeport-carte-didentite-permis-les-demarches-a-distance-promises-avant-fin-2026/1427550/)** — Business News, 6 November 2026
 
-ID card, passport, licence renewal, residence certificate, municipal tax and personal tax filing online by end-2026.
+Business News reported on 6 November 2026 that Communication Technologies Minister Sofiene Hemissi promised remote administrative services before the end of the year. Citizens would be able to apply for passports, renew identity cards and driving licences, and pay municipal and personal taxes online. He spoke at a parliamentary hearing on his ministry's 2027 budget. The same hearing is covered in the Tunisian AI projects item.
 
 </div>
 
@@ -406,7 +406,7 @@ ID card, passport, licence renewal, residence certificate, municipal tax and per
 
 **[Tunisie : six projets gouvernementaux basés sur l’IA prévus en 2027 contre deux en 2026](https://www.webmanagercenter.com/2026/11/06/576433/tunisie-six-projets-gouvernementaux-bases-sur-lia-prevus-en-2027-contre-deux-en-2026/)** — Webmanagercenter, 6 November 2026
 
-TND 1.074bn 2027 ICT mission, 80% from state firms; AI ethics charter, sovereign data centres; GCI tier-2 aim.
+Tunisia's ICT minister told parliament on 6 November 2026 that his ministry plans six AI-based government projects in 2027, against two in 2026. It aims to move from tier 3 in 2024 to tier 2 of the Global Cybersecurity Index by 2027. He presented a 2027 mission budget of about TND 1.074 billion, 80% from supervised enterprises' own resources. He promised remote ID-card, passport and driving-licence requests before the end of 2026.
 
 </div>
 

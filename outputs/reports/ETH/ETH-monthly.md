@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: ETH
 ledger_rows: 27
 not_held: 5
-record: f1272fb14f6d
+record: 9254b2c02c2b
 ---
 
 # News, Oct – Nov 2026
@@ -120,7 +120,7 @@ Faydaverse, the state enterprise created from Ethiopia's national digital ID pro
 
 **[IFC Invests in Kifiya’s AI Infrastructure to Connect Capital to Africa’s Real Economy - Kifiya Financial Technology](https://kifiya.com/2026/11/05/ifc-invests-in-kifiyas-ai-infrastructure-to-connect-capital-to-africas-real-economy/)** — Kifiya Financial Technology, 5 November 2026
 
-IFC's first investment in Kifiya, amount undisclosed; scales AgFinTech credit scoring in Ethiopia and new markets.
+Kifiya Financial Technology announced on 4 November 2026, at the Africa Financial Summit in Luanda, an investment agreement with IFC, its first investment in the company. The release says it will scale Kifiya's agricultural fintech and rural reach work. No amount was disclosed.
 
 </div>
 
@@ -152,7 +152,7 @@ Ethio telecom extended 4G LTE to 80 more Ethiopian towns. Its 2026/27 plan targe
 
 **[Ethio telecom and ZTE Deploy Ethiopia’s First Pre-Commercial AI RAN Solution](https://techafricanews.com/2026/11/05/ethio-telecom-zte-deploy-ethiopias-first-pre-commercial-ai-ran-solution/)** — Tech Africa News, 5 November 2026
 
-AI beam scheduling on Massive MIMO lifts 4G capacity 11% and peak-hour throughput 40%, per ZTE.
+Ethio telecom and ZTE announced on 5 November 2026 a pre-commercial AI-driven radio access network in Ethiopia, which they describe as the first. They report 11% more 4G capacity and 40% higher peak-hour user throughput than the conventional solution. The deployment date was not stated.
 
 </div>
 
@@ -232,7 +232,7 @@ Ethiopia opened a public sandbox where developers and startups can test the Fayd
 
 **[FaydaVerse Expands Beyond National ID Registration](https://capitalethiopia.com/2026/11/01/faydaverse-expands-beyond-national-id-registration/)** — Capital Newspaper, 1 November 2026
 
-FaydaVerse: 52m registered, 15,000 enrolment machines, 150 partner institutions; verification fees since Aug 2026.
+Ethiopia's national ID programme has renamed itself FaydaVerse and joined Ethiopian Investment Holdings, its stakeholder engagement director told Capital on 1 November 2026. He said more than 52 million citizens have registered, registration machines have grown from under 100 to 15,000, and 150 institutions work with the programme. Other countries have asked it for digital public infrastructure services.
 
 </div>
 

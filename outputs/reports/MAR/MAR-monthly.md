@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: MAR
 ledger_rows: 23
 not_held: 14
-record: 5cd5704734c5
+record: 0fb4aae97009
 ---
 
 # News, Oct – Nov 2026
@@ -372,7 +372,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 **[Samsung Pay Launches in Morocco with Mastercard Tokenization Technology](https://techafricanews.com/2026/11/05/samsung-pay-launches-in-morocco-with-mastercard-tokenization-technology/)** — Tech Africa News, 5 November 2026
 
-Phone payments for Mastercard holders at participating banks via MDES tokens; banks unnamed.
+Samsung Pay launched in Morocco on 5 November 2026 using Mastercard's tokenisation service. Eligible Mastercard cardholders at participating banks can pay with compatible Samsung devices. The banks were not named.
 
 </div>
 

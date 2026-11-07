@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: MRT
 ledger_rows: 12
 not_held: 3
-record: 127ae9e5eab1
+record: aa3d5a255856
 ---
 
 # News, Oct – Nov 2026
@@ -138,7 +138,7 @@ Mauritania's WARDIP project unit at the digital transformation ministry issued a
 
 **[Health system interoperability: early lessons in governance and technical design](https://www.bluesquarehub.com/health-system-interoperability-governance-technical-lessons/)** — Bluesquare, 13 October 2026
 
-Steering unit first met July 2026; OpenClinic GA chosen; 12 of 21 assessed centres are pilots, first at Dar Naim.
+Bluesquare reported on 13 October 2026 that Mauritania's DIGISANTE MRT programme recommended OpenClinic GA as the shared open-source primary-care record. Of 21 health centres assessed in Nouakchott, Trarza and Brakna, 12 were confirmed as pilot sites, starting with Dar Naim. The programme rests on HL7 FHIR R4, a national patient identifier and harmonised terminologies. Its steering unit first met in July 2026.
 
 </div>
 
@@ -146,7 +146,7 @@ Steering unit first met July 2026; OpenClinic GA chosen; 12 of 21 assessed centr
 
 **[How many systems is your national health program really connecting?](https://www.linkedin.com/posts/bluesquarehub_interoperability-digitalhealth-hl7fhir-activity-7520863636727316481-egWC)** — Bluesquare, 27 October 2026
 
-DIGISANTE partners agree HL7 FHIR R4 and a national patient identifier; 12 pilot centres confirmed.
+Bluesquare said on 27 October 2026 that the DIGISANTE MRT programme in Mauritania brings together the health and digital ministries, the population registry authority and professional bodies. It listed early lessons. Data access splits into four decisions, and response time drives architecture. A national trust bus such as X-Road suits only a country that has or requires one.
 
 </div>
 

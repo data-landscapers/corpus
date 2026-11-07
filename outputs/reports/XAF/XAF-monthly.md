@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: XAF
 ledger_rows: 63
 not_held: 3
-record: 39e7766b24ce
+record: f3f37170f23e
 ---
 
 # News, Oct – Nov 2026
@@ -246,7 +246,7 @@ The African Commission on Human and Peoples' Rights published its draft Continen
 
 **[African judiciary pushes for data sovereignty](https://www.itweb.africa/article/african-judiciary-pushes-for-data-sovereignty/mQwkoq6Y556M3r9A)** — ITWeb Africa, 6 November 2026
 
-Inaugural judicial dialogue at Africa IGF 2026 backs African guidelines on AI in courts; judicial digital sovereignty.
+African judges held their first judicial dialogue on internet governance at the 15th Africa Internet Governance Forum. It was held in Accra and closed on 5 November 2026. Egyptian Court of Cassation vice-president Adel Maged said courts must know where sensitive digital data is stored. He said they must also know who can access it. Participants agreed unanimously to his proposal to develop African guidelines on the use of AI in courts.
 
 </div>
 
@@ -902,7 +902,7 @@ A Deloitte-AFIS survey presented in Luanda found that 11% of African financial i
 
 **[Budget Practices and Procedures (03) - From budget transparency to accountability: Where the chain breaks down in Africa](https://www.cabri-sbo.org/en/publications/budget-practices-and-procedures-03-from-budget-transparency-to-accountability-where-the-chain-breaks-down-in-africa)** — CABRI (Collaborative Africa Budget Reform Initiative), 12 October 2026
 
-2025 survey of 18 countries: IFMIS in 15, e-audit tools in 7, open fiscal data portals in 9; audit follow-up thin.
+CABRI published a policy brief on its 2025 budget practices survey of 18 African countries. It reports a functional integrated financial management information system in 15 countries, e-audit tools in 7 and open fiscal data portals in 9.
 
 </div>
 
@@ -958,7 +958,7 @@ UNDP and the European Business and Innovation Centre Network agreed a partnershi
 
 **[Antrag der Fraktionen der CDU/CSU und SPD: Digitalisierung in der deutschen Entwicklungszusammenarbeit (Drucksache 21/8912)](https://dserver.bundestag.de/btd/21/089/2108912.pdf)** — Deutscher Bundestag, 3 November 2026
 
-Coalition motion, 3 Nov 2026: interest-led digital aid, reuse rights for funded software, African data centres.
+The CDU/CSU and SPD parliamentary groups tabled a motion in the Bundestag on 3 November 2026 on digitalisation in German development cooperation (Drucksache 21/8912). It calls for digital aid led by partner interests. It also calls for reuse rights for software that German funds pay for, and for data centres in Africa.
 
 </div>
 
@@ -966,7 +966,7 @@ Coalition motion, 3 Nov 2026: interest-led digital aid, reuse rights for funded 
 
 **[Koalition will deutsche KI-Firmen stärken und Rechenzentren in Afrika fördern](https://fokus-afrika.de/koalition-will-deutsche-ki-firmen-staerken-und-rechenzentren-in-afrika-foerdern/)** — FOKUS AFRIKA | Nachrichten aus Afrika, 6 November 2026
 
-Coalition motion, first read 5 Nov 2026: support African data centres; aid tied to German, European or local firms.
+Germany's CDU/CSU-SPD coalition put a motion to the Bundestag asking the government to back African-owned data centres and digital infrastructure (Fokus Afrika, 6 November 2026). It also asks that digital development funding go preferentially to German, European or local firms. The motion was first debated on 5 November and referred to committee. It has not been adopted.
 
 </div>
 
@@ -1050,7 +1050,7 @@ Smart Africa and the ITU partnered to train African policymakers and telecom reg
 
 **[AfCFTA Digital Inclusion Programme reaches over 7,000 SMEs across 16 African countries](https://techreviewafrica.com/news/8154/afcfta-digital-inclusion-programme-reaches-over-7-000-smes-across-16-african-countries)** — Tech Review Africa, 6 November 2026
 
-Google Hustle Academy bootcamps in four languages; phase 1 closed in Accra; phase 2 being prepared.
+The AfCFTA Secretariat closed phase 1 of its Digital Inclusion and Entrepreneurship Programme, run with Google's Hustle Academy, and reported on 6 November 2026 that it had reached more than 7,000 SMEs in 16 African countries. The programme began in November 2025. Phase 2 is in preparation.
 
 </div>
 

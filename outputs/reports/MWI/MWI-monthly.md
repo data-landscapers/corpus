@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: MWI
 ledger_rows: 23
 not_held: 30
-record: be8531be6178
+record: 93833c54905b
 ---
 
 # News, Oct – Nov 2026
@@ -162,7 +162,7 @@ Malawi's Education Minister Bright Msaka said on 29 October 2026 that 2,000 prim
 
 **[Airtel Malawi Invests MWK81 Billion in Network Expansion as Data Traffic Surges](https://techafricanews.com/2026/11/06/airtel-malawi-invests-mwk81-billion-in-network-expansion-as-data-traffic-surges/)** — Tech Africa News, 6 November 2026
 
-MWK81bn over ten months; 275 new towers, 87% population coverage, data traffic up 50%+; forex and diesel constraints.
+Airtel Malawi told Parliament's communications committee on 3 November 2026 that it had invested nearly MWK81 billion in the network over ten months. It reported 275 new towers in twelve months, 5G on 123 towers, about 2,800 km of fibre and 87% population coverage (company figures). It named foreign-exchange shortages and diesel for 315 off-grid sites as constraints.
 
 </div>
 

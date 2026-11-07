@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: MOZ
 ledger_rows: 29
 not_held: 18
-record: 8e53547a7ae7
+record: f4bb940a0bc1
 ---
 
 # News, Oct – Nov 2026
@@ -388,7 +388,7 @@ The governor of Banco de Moçambique said on 28 October 2026 that the METIX inst
 
 **[How AI is helping Mozambique to boost vaccine decision-making](https://www.gavi.org/vaccineswork/how-ai-helping-mozambique-boost-vaccine-decision-making)** — Gavi VaccinesWork, 4 November 2026
 
-PAAD to reach 80+ districts in six provinces (Sept 2026); 12+ health systems joined; Zenysis and MISAU, Gavi-backed.
+Mozambique announced in September 2026 that it is extending its PAAD immunisation analytics platform from 15 districts to more than 80 across six provinces. The Ministry of Health and Zenysis developed it with Gavi support. It links more than a dozen health systems without replacing them.
 
 </div>
 

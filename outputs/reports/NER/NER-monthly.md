@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: NER
 ledger_rows: 11
 not_held: 1
-record: 8bdd2b577e04
+record: 0b6d7de040e4
 ---
 
 # News, Oct – Nov 2026
@@ -70,7 +70,7 @@ Customs directors of Burkina Faso, Mali, Niger and Togo, meeting in Ouagadougou 
 
 **[Numérique dans l’espace AES: la feuille de route de l’An II adoptée](https://www.sidwaya.info/2026/11/05/numerique-dans-lespace-aes-la-feuille-de-route-de-lan-ii-adoptee/)** — Sidwaya, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Sidwaya account, 5 Nov 2026; 16 of 18 deliverables final, confederal NOC by end-2028, CERTs paid from universal service.
+The Alliance of Sahel States adopted the digital deliverables of its Confederation's Year II roadmap in Ouagadougou on 5 November 2026. Sixteen of 18 deliverables were finalised. A confederal network operations centre is due by 31 December 2028. Interconnection legal and tariff frameworks are to be harmonised by 30 June 2027. National cybersecurity response teams are to be funded from universal-service funds and regulatory fees.
 
 </div>
 
@@ -172,7 +172,7 @@ A Nigerien delegation led by Mohamed Ghadfi, deputy secretary-general of the com
 
 **[Sensibilisation en matière de l'état civil et d'identification des personnes : La Caravane nationale fait halte à Niamey pour clôturer sa campagne](https://www.lesahel.org/sensibilisation-en-matiere-de-letat-civil-et-didentification-des-personnes-la-caravane-nationale-fait-halte-a-niamey-pour-cloturer-sa-campagne/)** — Le Sahel, 7 October 2026
 
-Timely birth declaration up from about 53% to 69% since WURI began in 2022; under 3m of 13m obliged hold an ID card.
+The national civil registration and identification awareness caravan ended in Niamey on 6 and 7 October 2026. It closed with a workshop run by the World Bank-funded WURI programme. The director general of territorial administration said fewer than 3 million people hold a national identity card. About 13 million are obliged to have one.
 
 </div>
 

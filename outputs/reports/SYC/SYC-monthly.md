@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: SYC
 ledger_rows: 14
 not_held: 6
-record: cfdcf83469f0
+record: 4f157cd0954a
 ---
 
 # News, Oct – Nov 2026
@@ -150,7 +150,7 @@ The World Bank is preparing a Seychelles project to widen internet access, incre
 
 **[Digital 2027: Seychelles](https://datareportal.com/reports/digital-2027-seychelles)** — DataReportal (Kepios), 5 November 2026
 
-119k internet users, 87.8% online; 228k mobile connections (168%); 76k social media identities.
+DataReportal published its Digital 2027 report on Seychelles on 5 November 2026. It counts 119,000 internet users, 87.8% of the population, and 228,000 mobile connections, equal to 168% of the population, in late 2026.
 
 </div>
 

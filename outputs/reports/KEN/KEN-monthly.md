@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: KEN
 ledger_rows: 81
 not_held: 5
-record: 824ea6e0cac5
+record: 22bdbb2954c0
 ---
 
 # News, Oct – Nov 2026
@@ -176,7 +176,7 @@ An opinion piece argues that Kenya's competition and data protection regulators 
 
 **[Kenya proposes tougher social media rules](https://www.itweb.africa/article/kenya-proposes-tougher-social-media-rules/O2rQGqAEWWzqd1ea)** — ITWeb Africa, 6 November 2026
 
-New Section 85C platform register under the CA; draft Online Safety Bill fines up to KES500m or 10% of turnover.
+ITWeb reported on 6 November 2026 that Kenya's Information and Communications (Amendment) Bill 2026 would add a Section 85C. It would require online platforms serving Kenyan users, foreign ones included, to register with the Communications Authority and report unlawful activity. A separate draft Online Safety Bill 2026 proposes a duty of care, parental consent for children and age verification. Its fines run up to KES 500 million or 10% of global turnover.
 
 </div>
 
@@ -350,7 +350,7 @@ Bayobab, an MTN Group company, said on 22 October 2026 that civil works and fibr
 
 **[Namelok Wireless Launches Community Internet Network in Kimuka, Kenya](https://techafricanews.com/2026/11/04/namelok-wireless-launches-community-internet-network-in-kimuka-kenya/)** — Tech Africa News, 4 November 2026
 
-Ngong–Suswa Road community network for schools, government offices, clinics and MSMEs; no coverage figures.
+Namelok Wireless announced on 4 November 2026 a community internet network in Kimuka, on Kenya's Ngong-Suswa Road. It serves public schools, government offices, health facilities and small businesses. No subscriber, coverage or price figures were published.
 
 </div>
 
@@ -644,7 +644,7 @@ Mastercard and Moovn Technologies signed a five-year agreement, announced on 19 
 
 **[Postbank opens 600 agent points to other banks via Pesalink](https://techtrendske.co.ke/2026/11/04/postbank-opens-600-agent-points-to-other-banks-via-pesalink/)** — TechTrends Kenya, 4 November 2026
 
-Cash deposits only for now, no withdrawals; IPSL cites more than 93,000 bank agents in Kenya.
+Kenya's Postbank joined the Pesalink network, reported on 4 November 2026, so customers of other participating banks can deposit cash at its more than 600 agent and branch points. Withdrawals are not yet available.
 
 </div>
 
@@ -1070,7 +1070,7 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 
 **[From paper files to fingertips Vihiga unleashes digital revolution](https://www.kenyanews.go.ke/from-paper-files-to-fingertips-vihiga-unleashes-digital-revolution/)** — Kenya News Agency, 6 November 2026
 
-Governor claims procurement, hiring and payments fully online; land information system 70% complete.
+Vihiga County held its first ICT Day and Digital Innovation Expo, reported on 6 November 2026. Governor Wilber Ottichilo said procurement, job applications and payments are now fully online and that the health workforce is integrated into digital systems. He said the county Land Information System is 70 percent complete.
 
 </div>
 
@@ -1178,7 +1178,7 @@ Google DeepMind and Fab AI will build open Gemma-based AI tools for teachers in 
 
 **[Kenya's WayaWaya partners with Choice Bank to launch AI-powered banking services](https://techcabal.com/2026/11/06/wayawaya-partners-choice-bank/)** — TechCabal, 6 November 2026
 
-Choice Bank supplies regulated accounts; AI reads transaction patterns to shape the app; Kenya mobile money 54m (2026).
+Kenyan fintech WayaWaya announced a partnership with Choice Bank on 6 November 2026 to offer AI-personalised banking. The microfinance bank provides the regulated accounts, multi-currency holding and transfers. WayaWaya's AI reads customers' transaction patterns to shape the interface.
 
 </div>
 
@@ -1294,7 +1294,7 @@ Strathmore University is one of six Kenyan universities selected for the Google.
 
 **[Government launches NYOTA AGPO Digital Training for 600,000 entrepreneurs](https://www.kbc.co.ke/government-launches-nyota-agpo-digital-training-for-600000-entrepreneurs/)** — KBC Digital, 4 November 2026
 
-Free 10-week course on AGPO, IFMIS and e-GP bidding; enrolment by USSD *254#; Safaricom data subsidy.
+Kenya's State Department for MSMEs launched the NYOTA AGPO Digital Training Programme, reported on 4 November 2026. The free 10-week self-paced course targets more than 600,000 young entrepreneurs and teaches registration and bidding on the government's IFMIS and e-GP procurement systems. Enrolment is by USSD, with a subsidised Safaricom data bundle.
 
 </div>
 
@@ -1406,7 +1406,7 @@ Indigenous communities from northern Kenya presented a community-based monitorin
 
 **[Kenya seeks Chinese support for digital economy and AI development](https://www.kbc.co.ke/kenya-seeks-chinese-support-for-digital-economy-and-ai-development/)** — Kenya Broadcasting Corporation, 5 November 2026
 
-Proposed US$180m grant for Phase One AI Cloud Data Project in Eldoret; under discussion, not committed.
+Kenya's ICT Cabinet Secretary William Kabogo and Chinese Ambassador Guo Haiyan discussed a proposed US$180 million grant for Phase One of an AI Cloud Data Project in Eldoret, reported on 5 November 2026. They also discussed AI capacity building and faster government digitisation. The grant was under discussion and not committed.
 
 </div>
 

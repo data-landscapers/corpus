@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: LBY
 ledger_rows: 20
 not_held: 3
-record: 707d542b39ef
+record: c6ad496c1286
 ---
 
 # News, Oct – Nov 2026
@@ -262,7 +262,7 @@ Libya's central bank said electronic transactions reached about 865 billion dina
 
 **[Wahda Bank picks Backbase for digital banking](https://www.thepaypers.com/fintech/news/wahda-bank-selects-backbase-for-digital-banking-platform-in-libya)** — The Paypers, 5 November 2026
 
-Business banking live 2027 with eKYC onboarding; retail for 500,000+ customers; plugs into LYPay and OnePay rails.
+Libya's Wahda Bank selected Backbase to build its digital banking platform, reported on 5 November 2026. Business banking goes live first in 2027, with online account opening by electronic identity verification. Retail banking for more than 500,000 customers follows, with links to the LYPay and OnePay instant payment systems.
 
 </div>
 

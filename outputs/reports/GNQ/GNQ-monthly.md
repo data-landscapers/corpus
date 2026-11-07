@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: GNQ
 ledger_rows: 17
 not_held: 6
-record: af91042cd070
+record: 2ae9c0aa633a
 ---
 
 # News, Oct – Nov 2026
@@ -276,7 +276,7 @@ Equatorial Guinea's vice-presidency reviewed the VFS Global e-visa contract befo
 
 **[El Gobierno avanza en las negociaciones con Securiport para la modernización del sistema de control fronterizo](https://www.guineaecuatorialpress.com/noticias/el_gobierno_avanza_en_las_negociaciones_con_securiport_para_la_modernizacion_del_sistema_de_control_fronterizo)** — Government of Equatorial Guinea, 5 November 2026
 
-Vice-President orders fee comparison with earlier contracts; pilot proposed at Malabo and Bata airports.
+Equatorial Guinea's Vice-President chaired a government review on 3 November 2026 of the fees US firm Securiport proposed to modernise border control. He asked for its earlier contracts to compare terms. He recommended a pilot at the Malabo and Bata airports before any wider extension.
 
 </div>
 

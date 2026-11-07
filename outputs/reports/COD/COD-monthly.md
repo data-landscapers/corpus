@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: COD
 ledger_rows: 42
 not_held: 6
-record: 42d51226dedf
+record: f2fb9811bae5
 ---
 
 # News, Oct – Nov 2026
@@ -256,7 +256,7 @@ Civil society in Fizi territory and Baraka, South Kivu, published a memorandum t
 
 **[Télécoms : Kinshasa concentre plus de 19 millions d’abonnements mobiles actifs - ACP](https://acp.cd/economie/telecoms-kinshasa-concentre-plus-de-19-millions-dabonnements-mobiles-actifs/)** — Agence Congolaise de Presse (ACP), 4 November 2026
 
-ARPTC Q2 2026: 77m subscriptions, 68.6% penetration, USD 665.6m revenue; Kinshasa a quarter of activity.
+DR Congo had 77 million active mobile subscriptions in the second quarter of 2026, the regulator ARPTC's observatory reported, as carried by ACP on 4 November. Penetration rose from 66.8% to 68.6% and sector revenue rose 5.3% to USD 665.6m. Kinshasa held 19.59m subscriptions and about a third of revenue.
 
 </div>
 

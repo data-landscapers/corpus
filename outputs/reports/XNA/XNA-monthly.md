@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: XNA
 ledger_rows: 3
 not_held: 0
-record: 9c0766149f99
+record: 97e2b591cd2e
 ---
 
 # News, Oct – Nov 2026
@@ -74,7 +74,7 @@ The League of Arab States held the fourth meeting of a joint expert committee on
 
 **[Arab region advances common vision for digital development and AI governance](https://www.unescwa.org/news/arab-region-advances-common-vision-digital-development-and-ai-governance)** — United Nations Economic and Social Commission for Western Asia (ESCWA), 6 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a>
 
-Sixth session of ESCWA tech committee, Tunis, 4-5 Nov 2026; 95% coverage vs 70% use; common Arab AI framework with LAS.
+The UN Economic and Social Commission for Western Asia held the sixth session of its Committee on Technology for Development in Tunis on 4 and 5 November 2026. It reported that networks cover 95% of the Arab region's population while 70% use the internet. Arabic accounts for about 1% of websites. The session discussed a second Arab Digital Agenda and a common Arab AI framework with the League of Arab States, both in preparation.
 
 </div>
 

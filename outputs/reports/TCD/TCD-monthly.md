@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: TCD
 ledger_rows: 16
 not_held: 22
-record: 98c8bbaa1645
+record: febf22e3c62c
 ---
 
 # News, Oct – Nov 2026
@@ -332,7 +332,7 @@ An unsigned CamerPressAgency editorial reports that a workshop to pre-validate C
 
 **[La Stratégie Nationale de Transformation Digitale en gestation : Le Tchad amorce son grand virage numérique avec l'appui du PNUD | CamerPressAgency](https://camerpressagency.com/la-strategie-nationale-de-transformation-digitale-en-gestation-le-tchad-amorce-son-grand-virage-numerique-avec-lappui-du-pnud/)** — CamerPressAgency, 5 November 2026
 
-Framing meeting of 4 Nov 2026 opens drafting; UNDP-funded international firm; third strategy after data and AI.
+Chad began drafting a National Digital Transformation Strategy on 4 November 2026, at a framing meeting chaired by the digital economy director-general. UNDP is funding an international consultancy. Chad's data governance strategy has been validated and its AI strategy pre-validated.
 
 </div>
 

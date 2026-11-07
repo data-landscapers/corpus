@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: GHA
 ledger_rows: 60
 not_held: 9
-record: 999cf6491e80
+record: b66b1210fb11
 ---
 
 # News, Oct – Nov 2026
@@ -640,7 +640,7 @@ Ghana's National Identification Authority will begin Ghana Card registration of 
 
 **[FALSE! 91% of Ghanaians have not received their Ghana Cards](https://ghana.dubawa.org/false-91-of-ghanaians-have-not-received-their-ghana-cards/)** — Dubawa Ghana, 5 November 2026
 
-NIA data, 30 Oct 2026: 20,610,948 enrolled, 19,575,078 cards issued; minister's 91% claim rated false.
+Dubawa Ghana rated false, on 5 November 2026, the Communication Minister's claim that 91% of Ghanaians hold a Ghana Card. National Identification Authority data at 30 October 2026 show 20,610,948 enrolled and 19,575,078 cards issued. That is about 57% of the projected 2026 population.
 
 </div>
 
@@ -1114,7 +1114,7 @@ Google DeepMind and Fab AI will build open Gemma-based AI tools for teachers in 
 
 **[Financial inclusion expands, but economic well-being remains low at 22%](https://www.citinewsroom.com/2026/11/financial-inclusion-expands-but-economic-well-being-remains-low-at-22/)** — Citi Newsroom, 6 November 2026
 
-Committee for 2027-2031 strategy inaugurated 5 Nov 2026; launch targeted H1 2027; Financial Inclusion Council planned.
+Ghana's Ministry of Finance inaugurated a National Technical Working Committee on 5 November 2026. It will draft the second National Financial Inclusion and Development Strategy for 2027 to 2031. Launch is targeted for the first half of 2027, and a Financial Inclusion Council is proposed. The deputy minister cited account ownership above 80% (Global Findex 2025). He also cited 22% of adults financially healthy (FinScope 2021).
 
 </div>
 

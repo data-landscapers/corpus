@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: ZAF
 ledger_rows: 90
 not_held: 19
-record: 425f46d9ed52
+record: 6b317d5ddf60
 ---
 
 # News, Oct – Nov 2026
@@ -638,7 +638,7 @@ South Africa's GCIS told applicants that its e-recruitment system had been compr
 
 **[Accommodation booking platform LekkeSlaap suffers cyber attack](https://www.itweb.co.za/article/accommodation-booking-platform-lekkeslaap-suffers-cyber-attack/KBpdgvpmwV47LEew)** — ITWeb South Africa, 6 November 2026
 
-Guest names, contacts and booking references exposed via calendar sync; no payment data, IDs or passwords.
+South African booking platform LekkeSlaap told guests on 6 November 2026 that their names, e-mail addresses, phone numbers and booking references were accessed through its calendar-syncing system. It says no payment data, ID numbers or passwords were taken and warns of phishing. The notice follows a separate breach at accommodation-technology provider NightsBridge days earlier.
 
 </div>
 
@@ -1414,7 +1414,7 @@ Google DeepMind and Fab AI will build open Gemma-based AI tools for teachers in 
 
 **[Training partnerships spur SA’s youth AI readiness](https://www.itweb.co.za/article/training-partnerships-spur-sas-youth-ai-readiness/kYbe97XbjB2qAWpG)** — ITWeb South Africa, 6 November 2026
 
-South Africa 13th of 56, score 56.8, second in Africa after Mauritius; DHET-Google 10,000 scholarships.
+ITWeb reported on 6 November 2026 that South Africa ranks 13th of 56 Commonwealth countries, with 56.8 points. The ranking is in the inaugural Ayre Index of youth AI readiness from the Ayre Think Tank. South Africa is second among African members after Mauritius, which ranks eighth. In the index's evidence, 88.2% of young South Africans expected to use AI for education or work in the next year.
 
 </div>
 

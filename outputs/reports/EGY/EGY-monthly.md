@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: EGY
 ledger_rows: 47
 not_held: 36
-record: 48ce8ebae06e
+record: e4af43123fb6
 ---
 
 # News, Oct – Nov 2026
@@ -292,7 +292,7 @@ Egypt's telecoms regulator NTRA plans to upgrade 6 million more fixed internet l
 
 **[SCZone, Telecom Egypt sign deal to upgrade digital services](https://egyptian-gazette.com/egypt/sczone-telecom-egypt-sign-deal-to-upgrade-digital-services/)** — Egyptian Gazette, 6 November 2026
 
-Telecom Egypt to build redundant networks and IoT services across zone ports and industrial areas; signing date unstated.
+The Suez Canal Economic Zone and Telecom Egypt signed a co-operation agreement, reported on 6 November 2026. Telecom Egypt will build multi-route telecommunications networks and deploy digital, IoT and data-analytics services across the zone's industrial areas, ports and affiliated facilities. The signing date was not stated.
 
 </div>
 

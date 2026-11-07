@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: GAB
 ledger_rows: 34
 not_held: 12
-record: 3d94a9bad3d6
+record: ce31185de637
 ---
 
 # News, Oct – Nov 2026
@@ -626,7 +626,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[Gabon Taps Huawei, ST DIGITAL to Build Digital Skills Training Centre](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-taps-huawei-st-digital-to-build-digital-skills-training-centre)** — We Are Tech, 6 November 2026
 
-MoU of 4 Nov 2026 for a centre training technicians and instructors in six fields; youth unemployment c.30%.
+ST DIGITAL Gabon and Huawei Technologies Gabon signed a memorandum of understanding in Shanghai on 4 November 2026 to set up a National Talent Training Centre. It will train Gabonese technicians and instructors in networking, cybersecurity, cloud computing, AI, 4G mobile networks and fibre optics. The signing took place during President Oligui Nguema's visit to China.
 
 </div>
 
@@ -692,7 +692,7 @@ Gabon's census counts 3,518,621 residents, 2,318,365 of them Gabonese, figures c
 
 **[Gabon/Technologie : trois protocoles d’accord signés avec Huawei à Shanghai - AGP - Agence Gabonaise de Presse](https://agpgabon.ga/gabon-technologie-trois-protocoles-daccord-signes-avec-huawei-a-shanghai/)** — Agence Gabonaise de Presse, 5 November 2026
 
-Signed 4 Nov 2026 in Shanghai: public-security tech, university digital platforms, AI teaching equipment donation.
+Gabon's government and Huawei signed three memoranda of understanding and a donation agreement in Shanghai on 4 November 2026, with President Oligui Nguema present, AGP reported. The memoranda cover public security, digital infrastructure and teaching platforms in public universities. The donation is AI teaching equipment for the university named after the president.
 
 </div>
 

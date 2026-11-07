@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: SDN
 ledger_rows: 23
 not_held: 5
-record: c3c5da1429f8
+record: 577234c81571
 ---
 
 # News, Oct – Nov 2026
@@ -372,7 +372,7 @@ Summarised under [Registries](#registries).
 
 **[السودان يؤكد من قمة الأمم المتحدة للابتكار في الحوكمة أن التحول الرقمي محرك أساسي لإعادة الإعمار](https://www.suna.sd/posts/alsodan-yokd-mn-km-alamm-almthd-llabtkar-fy-alhokm-an-althol-alrkmy-mhrk-asasy-laaaad-alaaamar)** — Sudan News Agency (SUNA), 6 November 2026
 
-Baladna at 134 services from 46-plus institutions; services first, laws second; UN summit, Baku, 6 Nov 2026.
+Sudan's Digital Transformation Authority told the UN Governance Innovation Summit in Baku on 6 November 2026 that the Baladna platform carries 134 digital services from more than 46 government institutions (SUNA). It described a services-first, legislation-second approach. It presented digital transformation as part of post-war reconstruction.
 
 </div>
 

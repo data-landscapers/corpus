@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: TZA
 ledger_rows: 43
 not_held: 5
-record: 02497c657784
+record: 5a076ae481be
 ---
 
 # News, Oct – Nov 2026
@@ -128,7 +128,7 @@ Tanzania's Parliamentary Standing Committee on Infrastructure invited public vie
 
 **[Bunge Laridhia Azimio la Tanzania Kujiunga na Mkataba wa Usalama Angamtandao - Tanzania Leo](https://tanzanialeo.co.tz/bunge-laridhia-azimio-la-tanzania-kujiunga-na-mkataba-wa-usalama-angamtandao/)** — Tanzania Leo, 5 November 2026
 
-Resolution tabled by ICT minister Kairuki, backed by Infrastructure Committee; sitting date not stated.
+Tanzania's Parliament passed a resolution for the country to accede to the African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention, 2014), reported on 5 November 2026. ICT minister Angellah Kairuki tabled it, with the backing of the Standing Committee on Infrastructure. The report does not give the sitting date.
 
 </div>
 
@@ -512,7 +512,7 @@ Tanzania's National Legal Information System (NaLIS), built by the constitution 
 
 **[How Tanzania Cut Emergency Referral Costs with Community Drivers and Mobile Money](https://techafricanews.com/2026/11/06/dispatch-economics-behind-africas-digital-health-system-acceleration/)** — Tech Africa News, 6 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a>
 
-USD 170.40 per referral with community drivers vs USD 472 by ambulance (Shinyanga); c.USD 2m a year nationally.
+Tech Africa News reported on 6 November 2026 on Tanzania's M-Mama emergency referral platform, which the African Union Commission has cited as an example. It gives a cost of USD 170.40 per referral with community drivers. State ambulances alone cost USD 472, from a PLOS Global Public Health study of a pilot in Shinyanga. Drivers are paid by mobile money once delivery is verified.
 
 </div>
 
@@ -570,7 +570,7 @@ Tanzania's procurement regulator said on 29 October 2026 that the NeST e-procure
 
 **[Tanzania’s smallholder farmers struggle to benefit from digital agriculture](https://www.aljazeera.com/economy/2026/11/6/tanzanias-smallholder-farmers-struggle-to-benefit-from-digital-agriculture)** — Al Jazeera, 6 November 2026
 
-M-Kilimo had ~7.2m registered farmers, 400,000 incomplete sign-ups (2024 study); villagers report no training.
+Smallholders in Dodoma region told Al Jazeera on 6 November 2026 that they have not registered for, or get late answers from, the agriculture ministry's M-Kilimo and e-Kilimo services. A 2024 study counted about 7.2 million registered M-Kilimo farmers and some 400,000 incomplete registrations. The ministry did not respond.
 
 </div>
 

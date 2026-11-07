@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: NGA
 ledger_rows: 87
 not_held: 9
-record: 899f13bb0af1
+record: ccd213eeaf8c
 ---
 
 # News, Oct – Nov 2026
@@ -216,7 +216,7 @@ A bill before Nigeria's House of Representatives, sponsored by Lanre Okunlola, w
 
 **[Nigeria is rewriting its cyber laws, but can it secure its systems against hackers?](https://techcabal.com/2026/11/06/nigeria-is-rewriting-its-cyber-laws/)** — TechCabal, 6 November 2026
 
-Cybercrime, cybersecurity and digital economy bills expected January-June 2027, after the election.
+TechCabal reported on 6 November 2026 that Nigeria is reviewing its cybersecurity laws. It is considering a national cybersecurity architecture with baseline standards. It says the Cybercrimes Act of 2015 was amended in February 2024 and the 2021 national strategy is due for review. A House committee chair gave January to June 2027 as the expected enactment window for the bills.
 
 </div>
 
@@ -616,7 +616,7 @@ Ripples Nigeria published an investigation in October 2026 into Chinese loans fo
 
 **[Lagos Directs ISPs to Clean Up Telecom Infrastructure in Three Areas Ahead of Enforcement](https://techafricanews.com/2026/11/06/lagos-directs-isps-to-clean-up-telecom-infrastructure-in-three-areas-ahead-of-enforcement/)** — Tech Africa News, 6 November 2026
 
-LASIMRA notice of 2 November: ISPs in Ikeja and Ikate must tidy cables before enforcement from 9 November.
+The Lagos State Infrastructure Maintenance and Regulatory Agency told internet service providers in three areas of Lagos, in a notice dated 2 November 2026, to clear and secure their cables and installations. Enforcement begins on 9 November 2026, with possible sanctions. General Manager Prince Oyekanmi Elegushi signed the notice. See the Lagos regulator entry for the full account.
 
 </div>
 
@@ -624,7 +624,7 @@ LASIMRA notice of 2 November: ISPs in Ikeja and Ikate must tidy cables before en
 
 **[Lagos orders ISPs to secure cables](https://www.itweb.africa/article/lagos-orders-isps-to-secure-cables/nWJad7bNRRE7bjO1)** — ITWeb Africa, 6 November 2026
 
-State regulator enforces cable clean-up from 9 November; NCC counts 110,577km of on-land fibre (Dec 2024).
+Lagos State's infrastructure regulator LASIMRA ordered internet service providers to rearrange dangling fibre cables, secure loose installations and clear obstructions in Ilasan/Ikate, Allen Avenue and the Customs Office area of Ikeja. The notice is dated 2 November 2026, and enforcement with sanctions begins on 9 November 2026. The Nigerian Communications Commission regulates the sector federally.
 
 </div>
 
@@ -1012,7 +1012,7 @@ The Federal Government says beneficiaries of the N50,000 relief under NERSI are 
 
 **[Regulations for the Operations of Non-Security Virtual Assets in Nigeria](https://www.cbn.gov.ng/Out/2026/CCD/REGULATIONS%20FOR%20THE%20OPERATIONS%20OF%20NON-SECURITY%20VIRTUAL%20ASSETS%20IN%20NIGERIA.pdf)** — Central Bank of Nigeria, 5 November 2026
 
-167-page CBN rulebook licensing stablecoin issuers and deposit money tokens; algorithmic coins banned; start unset.
+The Central Bank of Nigeria issued regulations for non-security virtual assets on 5 November 2026. Issuers of naira-referenced stablecoins need NGN 10bn of paid-up capital and foreign-currency-referenced issuers NGN 15bn, through Nigerian-incorporated entities. Algorithmic stablecoins are banned, other virtual-asset services need NGN 1bn, and the commencement date is not yet set.
 
 </div>
 
@@ -1020,7 +1020,7 @@ The Federal Government says beneficiaries of the N50,000 relief under NERSI are 
 
 **[Nigeria sets $11.16 million capital requirement for foreign stablecoin issuers](https://techcabal.com/2026/11/06/cbn-new-rules-foreign-stablecoin-issuers/)** — TechCabal, 6 November 2026
 
-NGN 15bn capital for foreign-currency stablecoin issuers, NGN 10bn for naira tokens; local licensed entity required.
+The Central Bank of Nigeria released regulations on non-security virtual assets on the evening of 5 November 2026. Issuers of foreign-currency stablecoins must set up a licensed Nigerian entity with at least ₦15 billion in paid-up capital, and issuers of naira-backed stablecoins need ₦10 billion. Algorithmic stablecoins are banned, and existing operators have 180 days from the effective date to apply for a licence. See the Nigeria regulations entry for the full account.
 
 </div>
 
@@ -1028,7 +1028,7 @@ NGN 15bn capital for foreign-currency stablecoin issuers, NGN 10bn for naira tok
 
 **[Nigeria's Central Bank wants every crypto P2P payment linked to a bank transaction](https://techcabal.com/2026/11/06/cbn-tightens-crypto-p2p-rules/)** — TechCabal, 6 November 2026
 
-P2P platforms must match each naira payment to its crypto transfer by name and BVN; issuers able to freeze wallets.
+The Central Bank of Nigeria's regulations of 5 November 2026 require peer-to-peer crypto platforms to route naira payments through banks or approved channels. Platforms must also verify traders' identities. A platform may not release a token until the name and Bank Verification Number on the paying account match its verified customer. Platforms must keep records linking each payment to its token transfer. Travel Rule information is required for transfers of $1,000 or more. See the Nigeria regulations entry for the full account.
 
 </div>
 
@@ -1036,7 +1036,7 @@ P2P platforms must match each naira payment to its crypto transfer by name and B
 
 **[Nigeria's crypto firms face $744,000 capital rule as CBN, SEC divide oversight](https://techcabal.com/2026/11/06/cbn-sec-divide-crypto-oversight/)** — TechCabal, 6 November 2026
 
-CBN takes stablecoin payments, SEC keeps trading; extra NGN 1bn capital; SEC exchange floor NGN 2bn by mid-2027.
+Under the Central Bank of Nigeria's regulations released on 5 November 2026, the bank oversees stablecoins used for payments, transfers and settlement. The Securities and Exchange Commission keeps trading and securities. A firm licensed by the Commission needs a separate central bank authorisation. It also needs at least ₦1 billion in additional capital for payment services, and the same capital cannot count twice. The Commission has raised the minimum capital for digital asset exchanges from ₦500 million to ₦2 billion. June 2027 is the deadline for existing operators. See the Nigeria regulations entry for the full account.
 
 </div>
 
@@ -1506,7 +1506,7 @@ UNDP and Cisco signed a memorandum in Abuja giving up to 50,000 fellows and alum
 
 **[Nigeria Data Protection Commission calls for stronger public-private partnerships at Data Protection Africa Summit 2026](https://techreviewafrica.com/news/8144/nigeria-data-protection-commission-calls-for-stronger-public-private-partnerships-at-data-protection-africa-summit-2026)** — Tech Review Africa, 6 November 2026
 
-NDPC claims 27,000 jobs and certified DPOs up from under 1,000 to over 10,000 through partnerships.
+Vincent Olatunji, head of the Nigeria Data Protection Commission, opened the 8th Data Protection Africa Summit in Lagos on 6 November 2026. He urged data protection authorities to form public-private partnerships. He said the approach had helped the Commission create more than 27,000 jobs and raise certified data protection officers from under 1,000 to over 10,000 (his figures).
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: MUS
 ledger_rows: 32
 not_held: 7
-record: 3aedef1c8132
+record: 81c07ba7b374
 ---
 
 # News, Oct – Nov 2026
@@ -516,7 +516,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[Mauritius Telecom launches free digital and AI skills training platform](https://techreviewafrica.com/news/8162/mauritius-telecom-launches-free-digital-and-ai-skills-training-platform)** — Tech Review Africa, 6 November 2026
 
-myt Learning Hub with AWS opens with 16 free courses toward a 50,000-trainee national target.
+Mauritius Telecom and AWS launched the myt Learning Hub, a free online portal for digital and AI skills, reported on 6 November 2026. It opens with 16 courses. It forms part of the government's target to train 50,000 Mauritians.
 
 </div>
 

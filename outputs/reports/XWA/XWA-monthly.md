@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: XWA
 ledger_rows: 24
 not_held: 1
-record: 67b6752ca3bd
+record: a3363eac7bb6
 ---
 
 # News, Oct – Nov 2026
@@ -102,7 +102,7 @@ The second session of the UEMOA national digital regulators' committee (CRNN) op
 
 **[Numérique dans l’espace AES: la feuille de route de l’An II adoptée](https://www.sidwaya.info/2026/11/05/numerique-dans-lespace-aes-la-feuille-de-route-de-lan-ii-adoptee/)** — Sidwaya, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a>
 
-Sidwaya account, 5 Nov 2026; 16 of 18 deliverables final, confederal NOC by end-2028, CERTs paid from universal service.
+The Alliance of Sahel States adopted the digital deliverables of its Confederation's Year II roadmap in Ouagadougou on 5 November 2026. Sixteen of 18 deliverables were finalised. A confederal network operations centre is due by 31 December 2028. Interconnection legal and tariff frameworks are to be harmonised by 30 June 2027. National cybersecurity response teams are to be funded from universal-service funds and regulatory fees.
 
 </div>
 

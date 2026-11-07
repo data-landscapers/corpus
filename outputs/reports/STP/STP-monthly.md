@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: STP
 ledger_rows: 4
 not_held: 5
-record: 9429c0f9057a
+record: 2efef30b7d0e
 ---
 
 # News, Oct – Nov 2026
@@ -72,7 +72,7 @@ The president of Sao Tome and Principe's Court of Auditors announced an electron
 
 **[São Tomé and Príncipe: Ministério dos Negócios Estrangeiros, Cooperação e Comunidades (MNECC) Lança Plataformas Digitais para Modernizar a Gestão Documental e a Emissão de Passaportes Oficiais](https://www.africa-newsroom.com/press/sao-tome-and-principe-ministerio-dos-negocios-estrangeiros-cooperacao-e-comunidades-mnecc-lanca-plataformas-digitais-para-modernizar-a-gestao-documental-e-a-emissao-de-passaportes-oficiais?lang=pt)** — MNECC São Tomé e Príncipe (via APO Group), 6 November 2026
 
-Foreign ministry e-records and official-passport platforms; digital signature law and digital ID still pending.
+São Tomé and Príncipe's foreign ministry launched SYDOC, an electronic document-management system built by the Agência de Gestão e Administração. It also launched SYDOC-PASS for diplomatic and service passport requests (ministry release, 6 November 2026). The minister said a digital-signature legal framework, digital identity and a Citizen Portal are still to come.
 
 </div>
 

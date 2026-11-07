@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: UGA
 ledger_rows: 35
 not_held: 12
-record: 69a006a6938d
+record: 173e84a10515
 ---
 
 # News, Oct – Nov 2026
@@ -556,7 +556,7 @@ Uganda's minister of state for lands, Harriet Ntabazi, said new digital systems 
 
 **[URSB launches mobile app for business registration services](https://pmldaily.com/news/2026/11/ursb-launches-mobile-app-for-business-registration-services.html)** — PML Daily, 5 November 2026
 
-URSB Connect app launched 5 Nov 2026: company and IP filings, annual returns, SIMPO chattels registry.
+Uganda's Registration Services Bureau launched URSB Connect, a mobile app, on 5 November 2026. It covers company and business-name registration, name searches, annual returns, trademarks and the SIMPO chattels registry. It runs alongside the bureau's eRegistry platform.
 
 </div>
 

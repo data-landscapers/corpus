@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: SEN
 ledger_rows: 35
 not_held: 2
-record: 7a3c90637670
+record: 1d82a723a99e
 ---
 
 # News, Oct – Nov 2026
@@ -232,7 +232,7 @@ At the opening of Senegal's 2026–2027 parliamentary session on 13 October 2026
 
 **[SENUM and Univers Telecom Group sign strategic partnership to accelerate Senegal’s digital transformation](https://techreviewafrica.com/news/8155/senum-and-univers-telecom-group-sign-strategic-partnership-to-accelerate-senegal-s-digital-transformation)** — Tech Review Africa, 6 November 2026
 
-MoU on state infrastructure resilience and administration digitalisation, delivered via PRODAP.
+Senegal's state digital company SENUM signed a partnership agreement with Univers Telecom Group, reported on 6 November 2026. The stated aims are a more resilient state digital infrastructure and the digitisation of the administration. The work is already under way through the PRODAP programme on the national backbone.
 
 </div>
 
@@ -276,7 +276,7 @@ Alibaba said on 2 November 2026 that the Dakar 2026 Youth Olympic Games run on a
 
 **[Protection des données personnelles, vers la création d'une structure pour sécuriser les informations médicales des patients](https://www.seneplus.com/article/protection-des-donnees-personnelles-vers-la-creation-dune-structure-pour-securiser-les)** — SenePlus, 5 November 2026
 
-Digital and health ministries building health-data hosting infrastructure; Enabel digital-health support; 4 Nov 2026.
+Senegal's digital and health ministries said on 4 November 2026 that they are jointly setting up an infrastructure to secure and host patients' health data, SenePlus reported. They spoke at a Digital Health Week meeting, where Enabel described its digital-health support. No timetable was given.
 
 </div>
 

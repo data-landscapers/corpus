@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: SWZ
 ledger_rows: 30
 not_held: 3
-record: 5d1b9c3d5cf8
+record: fa9729d7894c
 ---
 
 # News, Oct – Nov 2026
@@ -458,7 +458,7 @@ Eswatini's commerce ministry reports 632 online company registrations in the sec
 
 **[HOME AFFAIRS GOES DIGITAL TO CUT COSTS](https://eswatinipositivenews.online/home-affairs-goes-digital-to-cut-costs/)** — Eswatini Positive News, 6 November 2026
 
-Passport applications moving online to cut cost and queues; eVisa issuance and border scanning ready.
+Eswatini's Home Affairs Minister Pholile Shakantu told the portfolio committee that passport applications are moving online. She said eVisa issuance and scanning at points of entry are ready (Eswatini Positive News, 6 November 2026). She cited lower costs and shorter queues under budget constraints.
 
 </div>
 

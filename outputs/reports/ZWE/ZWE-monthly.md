@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: ZWE
 ledger_rows: 31
 not_held: 6
-record: ed2a6ea52fc2
+record: b7c623640dc1
 ---
 
 # News, Oct – Nov 2026
@@ -486,7 +486,7 @@ ZimSmart Villages is converting parts of Zimbabwe Postal Services offices into n
 
 **[Three year free internet for 10 Zim schools](https://www.heraldonline.co.zw/three-year-free-internet-for-10-zim-schools/)** — The Herald (Zimbabwe), 6 November 2026
 
-ITU and SES satellite broadband; nine of ten rural schools connected, last due 10 November; free for three years.
+ITU's Bureau for Telecommunication Development director Cosmas Zavazava said ten Zimbabwean schools connected by satellite will get free internet for three years (reported 6 November 2026). The schools are in ITU's Partner2Connect programme with SES. Nine are connected and the last is due online by 10 November.
 
 </div>
 

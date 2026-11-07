@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: GMB
 ledger_rows: 14
 not_held: 2
-record: b4701923cd37
+record: 5a33a68ad88d
 ---
 
 # News, Oct – Nov 2026
@@ -44,7 +44,7 @@ record: b4701923cd37
 
 **[EOI - Gambia - Capacity Development to Effectively Perform Oversight Functions Over Fintech - DIGEST](https://www.afdb.org/en/documents/eoi-gambia-capacity-development-effectively-98329)** — African Development Bank, 6 November 2026
 
-AfDB DIGEST consultancy sought to build Gambian institutions' capacity to oversee and regulate fintech.
+The African Development Bank posted an expression of interest on 6 November 2026 for a consultancy to build the capacity of Gambian institutions to oversee fintech. The assignment follows the Gambia's validated fintech policy. No award has been announced.
 
 </div>
 
@@ -52,7 +52,7 @@ AfDB DIGEST consultancy sought to build Gambian institutions' capacity to overse
 
 **[EOI - Gambia - Digital Literacy Policy and Strategy Formulation - DIGEST](https://www.afdb.org/en/documents/eoi-gambia-digital-literacy-policy-strategy-98330)** — African Development Bank, 6 November 2026
 
-AfDB DIGEST consultancy sought to draft The Gambia's National Digital Literacy Policy and 2027-2032 strategy.
+The African Development Bank posted an expression of interest on 6 November 2026 for a consultancy to formulate a National Digital Literacy Policy and a five-year strategy plan for the Gambia, covering 2027 to 2032. The scope includes an implementation roadmap, a financing plan and a monitoring framework. No award has been announced.
 
 </div>
 

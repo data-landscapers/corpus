@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: SLE
 ledger_rows: 21
 not_held: 4
-record: a5ba9e30a2c5
+record: 4cfd08c582e1
 ---
 
 # News, Oct – Nov 2026
@@ -48,7 +48,7 @@ record: a5ba9e30a2c5
 
 **[Information Minister Tables Two Major Bills in Parliament](https://sierraloaded.sl/news/information-tables-data-protection-bills/)** — SierraLoaded, 6 November 2026
 
-Data protection and access-to-information bill plus records and archives bill pass first reading.
+Sierra Leone's Minister of Information tabled two bills in Parliament, SierraLoaded reported on 6 November 2026. They are the Data Protection and Right to Access Information Bill, 2026 and the National Records and Archives Bill, 2026. Both have completed Introduction and First Reading and go next to Second Reading.
 
 </div>
 
@@ -268,7 +268,7 @@ Sierra Leone's National Investment Board says its online one-stop business platf
 
 **[Communication Minister Explores NIB’s New Online Business Registration System](https://sierraloaded.sl/news/salima-nib-online-business-registration/)** — SierraLoaded, 6 November 2026
 
-OBRS demo: online name search, ID upload, printable certificates; NIN integration with NCRA under way.
+Sierra Leone's National Investment Board showed its new Online Business Registration System to Communication Minister Salima Bah, SierraLoaded reported on 6 November 2026. Applicants can reserve a name, upload identification and download certificates online. The Board is working with the National Civil Registration Authority to bring the National Identification Number into registration.
 
 </div>
 

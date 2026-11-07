@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: TGO
 ledger_rows: 23
 not_held: 16
-record: 51162bbc217f
+record: c521d21b3ad6
 ---
 
 # News, Oct – Nov 2026
@@ -184,7 +184,7 @@ Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communic
 
 **[Togo: Instant Payment Platform Processed Nearly CFAF 15 Billion in Transactions by End-October](https://www.togofirst.com/en/economic-governance/0511-20563-togo-instant-payment-platform-processed-nearly-cfaf-15-billion-in-transactions-by-end-october)** — Togo First, 5 November 2026
 
-CFAF ~15bn and 163,000 transactions in Togo by end-Oct 2026; 3.9m users of 52.3m in WAEMU; 17 of 175 PSPs.
+BCEAO said on 5 November 2026 that its PI-SPI instant payment platform had processed nearly CFAF 15 billion in 163,000 transactions in Togo by the end of October. The platform has 3.9 million users in Togo and 17 connected providers. The bank spoke at the start of a student awareness campaign in Lomé.
 
 </div>
 
@@ -390,7 +390,7 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 **[IA : jusqu’à 262 millions de dollars de gain potentiel pour le Togo](https://www.republicoftogo.com/toutes-les-rubriques/eco-finance/ia-jusqu-a-262-millions-de-dollars-de-gain-potentiel-pour-le-togo)** — République Togolaise (republicoftogo.com), 5 November 2026
 
-Ayre Index: Togo 42.6/100, 37th of 56 Commonwealth states; 4G covers 99.7% but 44.9% of youth online.
+The Ayre Think Tank published an AI readiness index at the Commonwealth summit in Antigua and Barbuda, reported on 5 November 2026. Togo scored 42.6 out of 100, against a readiness threshold of 53, and ranked 37th of 56 countries. The study puts the ten-year economic gain from AI at 83 to 262 million dollars, using IMF scenarios.
 
 </div>
 

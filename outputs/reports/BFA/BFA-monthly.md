@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: BFA
 ledger_rows: 41
 not_held: 6
-record: 15833abd94c5
+record: b4c983d14a52
 ---
 
 # News, Oct – Nov 2026
@@ -164,7 +164,7 @@ Burkina Faso's telecoms regulator signed bilateral roaming agreements with its c
 
 **[Numérique dans l’espace AES: la feuille de route de l’An II adoptée](https://www.sidwaya.info/2026/11/05/numerique-dans-lespace-aes-la-feuille-de-route-de-lan-ii-adoptee/)** — Sidwaya, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
-Sidwaya account, 5 Nov 2026; 16 of 18 deliverables final, confederal NOC by end-2028, CERTs paid from universal service.
+The Alliance of Sahel States adopted the digital deliverables of its Confederation's Year II roadmap in Ouagadougou on 5 November 2026. Sixteen of 18 deliverables were finalised. A confederal network operations centre is due by 31 December 2028. Interconnection legal and tariff frameworks are to be harmonised by 30 June 2027. National cybersecurity response teams are to be funded from universal-service funds and regulatory fees.
 
 </div>
 
@@ -252,7 +252,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[Compte rendu du Conseil des ministres du jeudi 5 novembre 2026](https://burkina24.com/2026/11/05/compte-rendu-du-conseil-des-ministres-du-jeudi-5-novembre-2026/)** — Burkina24, 5 November 2026
 
-fID system decree; Digital Transition ministry interim ID issuer; CFA 15.46bn for RESINA network and data centres.
+Burkina Faso's Council of Ministers adopted two decrees on 5 November 2026. One creates the foundational identification system and a national register of the unique identifier. The other designates the Ministry of Digital Transition to enrol people and issue the identifier until the competent body is operational. The council also approved CFA 15,463,900,000 of state-funded ministry projects, including a new administration network in Ouagadougou and Bobo-Dioulasso.
 
 </div>
 
@@ -592,7 +592,7 @@ The 2026-2030 national AI roadmap was validated on 19 June 2026 but has not been
 
 **[Burkina Faso’s Sahal Tech Partners with Old Rock Group to Develop African Language AI](https://techafricanews.com/2026/11/06/burkina-fasos-sahal-tech-partners-with-old-rock-group-to-develop-african-language-ai/)** — Tech Africa News, 6 November 2026
 
-Agreement of 2 Nov 2026; language data platform starting with Mooré, Dioula, Fulfuldé and Bambara.
+Sahal Tech Innovation Labs of Burkina Faso signed an agreement with Old Rock Group in Ouagadougou on 2 November 2026 to build the Sahal African Language Data Platform. It starts with datasets and AI for Mooré, Dioula, Fulfuldé and Bambara. Old Rock is to support project structuring, infrastructure and training.
 
 </div>
 

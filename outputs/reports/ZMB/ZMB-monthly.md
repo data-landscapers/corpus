@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: ZMB
 ledger_rows: 20
 not_held: 32
-record: 0d07482f4afa
+record: d6c87f0dfc6f
 ---
 
 # News, Oct – Nov 2026
@@ -366,7 +366,7 @@ Zambia's Zamtel launched a self-care application with a build-your-own-bundle op
 
 **[Zambia Plans 10 Million More Smartphones in Five-Year Digital Push](https://www.ecofinagency.com/news-digital/0611-60555-zambia-plans-10-million-more-smartphones-in-five-year-digital-push)** — Ecofin Agency, 6 November 2026
 
-Target: 10m more smartphones in five years, 80% broadband; 12.4m of 27m connections smartphones per ZICTA.
+Zambia's Technology and Science Minister Felix Mutati set a target of 10 million additional smartphones over five years, towards broadband access for 80% of the population. He spoke at a meeting with Airtel Zambia on 5 November 2026. Airtel cited ZICTA figures of 12.4 million smartphone connections out of about 27 million (reported 6 November 2026).
 
 </div>
 

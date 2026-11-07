@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-07
 place: CIV
 ledger_rows: 39
 not_held: 9
-record: f5af4983d0f9
+record: d098a103258a
 ---
 
 # News, Oct – Nov 2026
@@ -434,7 +434,7 @@ Summarised under [Registries](#registries).
 
 **[Santé Numérique : Comment l'interopérabilité du système de santé se met en place en Côte d'Ivoire ?](https://digitalmag.ci/sante-numerique-vers-une-interoperabilite-dans-le-systeme-de-sante-en-cote-divoire/)** — Digital Mag Côte d'Ivoire, 14 October 2026
 
-390 facilities on hospital information systems, 258 on electronic patient records; interoperability the next step.
+Digital Mag reported on 14 October 2026, citing officials of the health informatics directorate, that more than 390 Ivorian health facilities use a hospital information system. Another 258 use an electronic patient record. The officials named interoperability between these systems as the next step.
 
 </div>
 
@@ -514,7 +514,7 @@ Côte d'Ivoire's Senate opened its second ordinary session of 2026 with attendan
 
 **[Côte d’Ivoire-AIP/ Le vote électronique fait ses premiers pas au Sénat - AIP - Agence Ivoirienne de Presse](https://www.aip.ci/cote-divoire-aip-le-vote-electronique-fait-ses-premiers-pas-au-senat/)** — Agence Ivoirienne de Presse (AIP), 5 November 2026
 
-First live electronic vote, 5 Nov 2026, on four bills; results in under three minutes under the e-Senat project.
+Côte d'Ivoire's Senate voted electronically for the first time on 5 November 2026, on four bills in Yamoussoukro. Digital attendance and tallying replaced the roll call, and results were declared in under three minutes.
 
 </div>
 
@@ -646,7 +646,7 @@ Expertise France opened a tender on 27 October 2026 for an investment readiness 
 
 **[Côte d’Ivoire-AIP/ Le ministre Djibril Ouattara annonce 24 mois d’accompagnement de l’État pour 32 entreprises du secteur du numérique - AIP - Agence Ivoirienne de Presse](https://www.aip.ci/cote-divoire-aip-le-ministre-djibril-ouattara-annonce-24-mois-daccompagnement-de-letat-pour-32-entreprises-du-secteur-du-numerique/)** — Agence Ivoirienne de Presse (AIP), 5 November 2026
 
-14 start-ups and 18 SMEs selected for Ivoire Tech Next 15 and Scale Up; performance contracts on revenue and jobs.
+Côte d'Ivoire named 32 digital firms on 4 November 2026 for 24 months of state support: 14 start-ups and 18 small and medium enterprises. Each is bound by a performance contract measured on revenue, jobs and regional expansion.
 
 </div>
 
