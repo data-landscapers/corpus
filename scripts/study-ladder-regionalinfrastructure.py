@@ -10,8 +10,13 @@ r"""study-ladder-regionalinfrastructure.py — the shared regional infrastructur
 
 1. **Agreed**: a `built` of `agreed` or `building` dated inside three years of the as-at.
 2. **Building**: a `built` of `building` dated inside three years.
-3. **In service**: a `service` of `in-service` or `in-use`, of any age.
-4. **Carrying another country's traffic**: a `service` of `in-use` dated inside three years.
+3. **In service**: a `service` of `link`, `exchange` or `storage`, of any age.
+4. **Two kinds in service**: `service` rows of two different kinds, of any age.
+
+Every row is a facility run under an arrangement the country is party to; a cable that only
+crosses or lands in it is `other` and never reaches here *(Bill, 2026-11-07)*. **Until the
+rebuild revalues them, a legacy `in-service` or `in-use` row is read as `link`**: the ladder
+before 2026-11-07 counted only links, and a cross-border carrier cannot be told from its value.
 
 **A yes to a later question answers the earlier ones** (method §3.3): a link in service was
 agreed and built. Stage 1 is a `none` on either aspect dated inside three years where no
@@ -36,12 +41,13 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import study_lib  # noqa: E402
 
 STUDY = "regionalinfrastructure"
+KINDS = {"link": "link", "exchange": "exchange", "storage": "storage",
+         "in-service": "link", "in-use": "link"}   # the last two: legacy values, read as links
 GAPS = {
     "5": "Nothing on the four questions.",
-    "4": "No source found reports the link or facility carrying another country's traffic in "
-         "the last three years: capacity sold or traffic carried across the border, or a user "
-         "from the other country named.",
-    "3": "No source found says a shared link or facility is in service.",
+    "4": "Only one kind of shared infrastructure is on record in service: no second among "
+         "cross-border links, a shared traffic exchange and shared data storage.",
+    "3": "No source found says a shared link, exchange or data facility is in service.",
     "2": "No source found says building has started in the last three years.",
     "1": "",
 }
@@ -79,8 +85,12 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     pick = lambda aspect, values, since=None, n=2: [  # noqa: E731
         r["row_id"] for d, r in live if r["aspect"] == aspect and r["value"] in values
         and (since is None or d >= since)][:n]
-    in_use = pick("service", ("in-use",), three)
-    service = pick("service", ("in-service", "in-use"))
+    kinds: dict[str, str] = {}
+    for d, r in live:
+        if r["aspect"] == "service" and r["value"] in KINDS:
+            kinds.setdefault(KINDS[r["value"]], r["row_id"])
+    in_use = list(kinds.values())[:2] if len(kinds) >= 2 else []
+    service = pick("service", tuple(KINDS))
     building = pick("built", ("building",), three)
     agreed = pick("built", ("agreed", "building"), three)
     none = [] if service or agreed else [
@@ -106,7 +116,8 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
                         "says the country has none."}
     return {"stage": s, "sources": list(dict.fromkeys(src)), "gaps": GAPS[s],
             "built": "building" if building else "agreed" if agreed else "",
-            "service": "in-use" if s == "5" else "in-service" if s == "4" else ""}
+            "service": "+".join(sorted({KINDS[r["value"]] for d, r in live if r["row_id"] in src
+                                        and r["aspect"] == "service" and r["value"] in KINDS}))}
 
 
 def main(argv=None) -> int:

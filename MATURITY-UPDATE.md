@@ -72,7 +72,7 @@ Start one Sonnet drafter per call file, then `study-arrivals.py fan`: an arrival
 **Three indicators a night are rebuilt whole** *(Bill, 2026-10-18)*: 54 cells reassessed against one ladder, then all 54 countries searched afresh. `logs/maturity-review.csv` is the control list: one row an indicator, its last rebuild, and what that rebuild cost.
 **The rebuild is the deep dive** *(Bill, 2026-10-16)*: most indicators were first studied in batches that skip the second drafter and stage hard cells low (`maturity/documentation/first-pass-batch.md`, `study.json` → `"pass": "first"`). For those the rebuild adds the second-drafter check of method §7.3 and a fresh reading of every cell whose `note` opens *First pass:*.
 
-**Stage 4c never looks back**: a cell staged on a 2023 figure stays there until a document happens to arrive. The rebuild does.
+**Stage 4c never looks back**: a cell staged on a 2023 figure stays there until a document arrives. The rebuild does.
 
 ```bash
 python scripts/study-update.py next --poll    # polled
@@ -85,6 +85,7 @@ python scripts/study-update.py next           # any other cycle
 
 ### Reassess
 
+0. **Adopt any `redesign.md` first** *(Bill, 2026-11-07)*: every cell `--kind ladder`.
 1. **Read the indicator whole**: the study file's ladder and its rules, then every country's rows for this sub-indicator in `evidence.csv`, its cell in `stage.json` and its row of `assessment.csv`. Read the 54 cells as a table, sorted by stage, before judging any one.
 2. **Ask of each cell whether the ladder, applied as to its neighbours, still puts it there**: the same evidence staged two ways in two countries, `stage_sources` that no longer support the rung, a cap or flag whose 36 or 12 months have run out.
 3. **Age does not expire a stage, and it can lower one** *(Bill)*. A cell is not moved because a window has closed. But where the only evidence for a rung is old enough that it no longer shows the country is there now, the reassessment may lower the stage, as a judgement, and says so in the note. The short summary of any cell resting on a fact older than three years prints its year.

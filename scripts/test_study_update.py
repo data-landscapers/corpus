@@ -98,6 +98,15 @@ def main() -> int:
         check("none is owed while all are inside the gap", run("next", now=dt.datetime(2026, 10, 20, 23, 0)), 1)
         check("and one is owed once the gap has run",
               run("next", now=night + dt.timedelta(days=su.MIN_GAP_DAYS)), 0)
+        sj = root / "maturity" / "t" / "study.json"
+        sj.write_text(json.dumps({**json.loads(sj.read_text(encoding="utf-8")),
+                                  "ladder_rewritten": "2026-10-15"}), encoding="utf-8")
+        check("a ladder rewritten since the rebuild is owed inside the gap",
+              run("next", now=dt.datetime(2026, 10, 20, 23, 0)), 0)
+        check("and is named ahead of the rest", su.overdue(su.rotation(str(root), rot))[0]["ladder"], True)
+        run("done", "t", "emr", now=dt.datetime(2026, 10, 20, 23, 0))
+        run("done", "t", "hmis", now=dt.datetime(2026, 10, 20, 23, 0))
+        check("its rebuild clears it", run("next", now=dt.datetime(2026, 10, 21, 23, 0)), 1)
         check("an indicator not in the rotation is refused", run("done", "t", "nope"), 2)
 
         print("the standing search")

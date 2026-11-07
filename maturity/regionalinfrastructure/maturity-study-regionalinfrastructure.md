@@ -3,7 +3,7 @@ type: task
 reader: cc
 title: maturity-study-regionalinfrastructure.md — the twenty-ninth maturity study: digital links and facilities shared with other African countries, in four questions
 last_reviewed: 2026-10-13
-status: run 2026-10-13 on Bill's word; staged as at 2026-09-30, written, rendered and on the soft-launch map; waits for Bill to accept
+status: run 2026-10-13; redesigned on Bill's word 2026-11-07 (§8), adopted at the next rebuild
 ---
 
 # Maturity study: regionalinfrastructure
@@ -97,6 +97,10 @@ The African Union's Programme for Infrastructure Development in Africa and its D
 - **Fifteen countries are without evidence**, South Africa, Egypt, Ghana and Tunisia among them: their cells cited what this study only notes.
 - **The summaries were written in the thread, not by writers**, to hold the ceiling.
 - **Tokens: about 41 million at the map**, ceiling 40 million, step 1 included.
+
+## 8. The redesign
+
+**Redesigned on Bill's word, 2026-11-07**: `redesign.md` beside this file replaces §1 to §3 at the next rebuild.
 
 ## Boundary
 

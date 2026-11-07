@@ -36,7 +36,8 @@ the control list: one row per sub-indicator of every issued study, the date of i
 rebuild, and what that rebuild cost in minutes, tokens (millions) and documents staged for
 OSINT. `next` names the `PER_NIGHT` rebuilt longest ago, never-rebuilt first, on
 `unit-review.py`'s own test of whether a cycle is unattended; it names none rebuilt inside
-`MIN_GAP_DAYS`. An indicator joins when its study has an issued `assessment.csv`.
+`MIN_GAP_DAYS`, **except one whose `study.json` -> `ladder_rewritten` is later than its last
+rebuild, which is named first and whatever the gap** *(Bill, 2026-11-07)*. An indicator joins when its study has an issued `assessment.csv`.
 
 **The rebuild searches** *(Bill, 2026-10-11)*, and stamps `searched`; the yearly line is the backstop. `order` and `next` print a line for any study whose
 `study.json` -> `searched` is more than a year old; the runbook says what to do with it.
@@ -125,13 +126,21 @@ def rotation(root: str | None = None, path: str | None = None) -> list[dict]:
     for r in held.values():
         if r.get("last_reviewed"):
             dt.date.fromisoformat(r["last_reviewed"])
-    return [{"study": s, "key": sub["key"], "indicator_id": sub["indicator_id"],
-             **{f: held.get((s, sub["key"]), {}).get(f, "") for f in ["last_reviewed", *COST_FIELDS]}}
-            for s in studies(root) for sub in study_lib.load(s, root)["sub_indicators"]]
+    out = []
+    for s in studies(root):
+        study = study_lib.load(s, root)
+        for sub in study["sub_indicators"]:
+            r = {"study": s, "key": sub["key"], "indicator_id": sub["indicator_id"],
+                 **{f: held.get((s, sub["key"]), {}).get(f, "") for f in ["last_reviewed", *COST_FIELDS]}}
+            # A ladder rewritten since the last rebuild is owed first and inside the gap (Bill, 2026-11-07).
+            r["ladder"] = study.get("ladder_rewritten", "") > r["last_reviewed"]
+            out.append(r)
+    return out
 
 
 def overdue(rows: list[dict]) -> list[dict]:
-    return sorted(rows, key=lambda r: (r["last_reviewed"] != "", r["last_reviewed"], r["study"], r["key"]))
+    return sorted(rows, key=lambda r: (not r.get("ladder"), r["last_reviewed"] != "", r["last_reviewed"],
+                                       r["study"], r["key"]))
 
 
 def log(sid: str, iso: str, key: str, kind: str, note: str, root: str | None = None,
@@ -237,7 +246,7 @@ def main(argv=None, now: dt.datetime | None = None, root: str | None = None,
         if not rows:
             print("not owed: no study has an issued assessment")
             return 1
-        owed = [r for r in overdue(rows) if not r["last_reviewed"] or
+        owed = [r for r in overdue(rows) if r["ladder"] or not r["last_reviewed"] or
                 (now.date() - dt.date.fromisoformat(r["last_reviewed"])).days >= MIN_GAP_DAYS][:PER_NIGHT]
         if not owed:
             print(f"not owed: every indicator was rebuilt inside {MIN_GAP_DAYS} days")
