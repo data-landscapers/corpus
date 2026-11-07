@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-01-tza-andiko-la-septemba-ya-utambulisho-2026-kuijenga-agenda-ya-utambulisho",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "NIDA, the national authority, registers people and keeps the national register of registration and identification, and runs the system connected to 157 institutions.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "National Register of Registration and Identification of Persons",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
