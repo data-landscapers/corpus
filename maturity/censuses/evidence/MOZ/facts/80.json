@@ -1,0 +1,44 @@
+{
+ "slug": "2024-12-12-moz-mocambique-taxa-de-registo-de-nascimento-regista-queda-nos-ultimos-ano",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "AIM reports the 2017 census as a source of the 49% under-five birth registration rate, so a census was counted in 2017.",
+   "as_of": "2017",
+   "date_precision": "year",
+   "system": "Census 2017",
+   "class": "census"
+  },
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "AIM reports that the 2024 Demographic and Health Survey (DHS) puts under-five birth registration at 32 per cent.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "DHS 2024",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Census 2017",
+   "country_label": "Census 2017",
+   "class": "census",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "DHS 2024",
+   "country_label": "DHS 2024",
+   "class": "census",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

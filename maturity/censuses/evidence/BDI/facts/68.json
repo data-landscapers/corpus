@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-bdi-burundi-2026-cam-report-synthesis",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "The Countdown to 2030 report gives Burundi's population as 12.32 million with a male and female split, citing the RGPHAE 2024 census.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "RGPHAE 2024",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": "Whether the RGPHAE figures are preliminary or final is not stated, so no results fact."
+}

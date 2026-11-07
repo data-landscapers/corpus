@@ -1,6 +1,6 @@
 # Censuses and surveys: censuses and surveys
 
-*As at 2026-10-25.*
+*As at 2026-11-07.*
 
 ## The norm
 
@@ -20,8 +20,8 @@ The African Charter on Statistics (2009) and SHaSA 2 ask each country to produce
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 8 |
-| 4 Operating | 13 |
+| 5 Leading | 9 |
+| 4 Operating | 12 |
 | 3 Established | 19 |
 | 2 Nascent | 9 |
 | 1 Absent | 1 |
@@ -29,6 +29,14 @@ The African Charter on Statistics (2009) and SHaSA 2 ask each country to produce
 | No evidence | 1 |
 
 ## Countries
+
+### Angola: 5 Leading
+
+Final results of the RGPH 2024 were published in 2025, and results of the 2023 household health survey were out by 2026.
+
+- INE Angola states it released the definitive results of Census 2024 (RGPH 2024) on 20 November 2025, ten months after the end of mass data collection and six months after the coverage survey ([source, 2025-11-20](https://c2a.portais.gov.ao/uploads/Relatorio_Sintese_CENSO_2024_INE_Nov_2025_c5fba11d70.pdf)).
+- INE states the definitive national results of the RGPH 2024 were published on 20 November 2025, and this Icolo e Bengo provincial report followed ([source, 2025-11-20](https://censo2024.ine.gov.ao/ICOLE%20E%20BENGO.pdf)).
+- The Countdown 2030 Angola synthesis report compares health-facility data with results of the DHS 2023 survey, which it uses for coverage estimates ([source, 2023](https://www.countdown2030.org/wp-content/uploads/2026/09/Angola.pdf)).
 
 ### Gambia: 5 Leading
 
@@ -86,13 +94,6 @@ The 2022 census was counted and preliminary results published, and a household s
 - Former ZIMSTAT director-general Taguma Mahonde presented the 2022 census preliminary report on functional difficulties, which counts 1.2 million people with difficulties performing physical activities and 192,000 with permanent disabilities ([source, 2022](https://www.heraldonline.co.zw/digital-inclusivity-leaving-no-place-no-person-behind/)).
 - The Herald says the Population and Housing Census was taken in April 2022 in Zimbabwe ([source, 2022-04](https://www.heraldonline.co.zw/digital-inclusivity-leaving-no-place-no-person-behind/)).
 - The minister said the 2025 ICT Household Survey by ZIMSTAT and POTRAZ, released in July, shows 75.5 percent of households have home internet access and 11.2 percent own a computer ([source, 2026-07](https://www.heraldonline.co.zw/it-must-create-jobs-improve-services-minister/)).
-
-### Angola: 4 Operating
-
-Final results of the RGPH 2024 were published in 2025; no household survey published since 2023 is known.
-
-- INE Angola states it released the definitive results of Census 2024 (RGPH 2024) on 20 November 2025, ten months after the end of mass data collection and six months after the coverage survey ([source, 2025-11-20](https://c2a.portais.gov.ao/uploads/Relatorio_Sintese_CENSO_2024_INE_Nov_2025_c5fba11d70.pdf)).
-- INE states the definitive national results of the RGPH 2024 were published on 20 November 2025, and this Icolo e Bengo provincial report followed ([source, 2025-11-20](https://censo2024.ine.gov.ao/ICOLE%20E%20BENGO.pdf)).
 
 ### Burkina Faso: 4 Operating
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-04-moz-how-ai-is-helping-mozambique-to-boost-vaccine-decision-making",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "Gavi's VaccinesWork article cites the 2022-2023 Demographic and Health Survey as putting about 24% of Mozambican children at zero-dose; the document gives no publication date for the survey.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "DHS 2022-2023",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

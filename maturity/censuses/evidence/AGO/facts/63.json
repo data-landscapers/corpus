@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-ago-synthesis-report-angola",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "The Countdown 2030 Angola synthesis report compares health-facility data with results of the DHS 2023 survey, which it uses for coverage estimates.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "DHS 2023",
+   "class": "census"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,17 +1,18 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "census",
-   "stage": "4",
-   "census": "taken",
-   "results": "final",
-   "survey": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "AGO-011;AGO-009",
-   "gaps": "No source found reports results of a national household survey published since October 2023.",
-   "note": "Counted from the four questions by study-ladder-censuses.py."
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "census",
+      "stage": "5",
+      "census": "taken",
+      "results": "final",
+      "survey": "published",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-011;AGO-009;AGO-014",
+      "gaps": "",
+      "note": "Final results of the RGPH 2024 were published in November 2025 (AGO-011), and the results of the DHS 2023 household survey are in use in a 2026 Countdown 2030 report (AGO-014), so a survey has published results inside three years. That answers every question, so stage 5.",
+      "as_at": "2026-11-07"
+    }
+  ]
 }
