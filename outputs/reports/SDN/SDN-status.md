@@ -1,14 +1,14 @@
 ---
 title: Sudan: status report
-compiled: 2026-11-04
+compiled: 2026-11-07
 place: SDN
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 7
-sources_cited: 178
+sources_cited: 182
 sections_written: 39
-not_established: 7
+not_established: 6
 acquire_lines: 49
 ---
 ## Governance
@@ -205,7 +205,7 @@ Court systems start from a project a decade old. [The judiciary began a first ph
 
 Sudan [launched Nazaha, a national digital public-procurement and contracting system, on 12 August 2026](https://www.connectingafrica.com/digital-inclusion/sudan-unveils-new-digital-public-procurement-system). It was announced with [no coverage figure, no mandatory-use rule for government entities and no contract-value threshold](https://www.connectingafrica.com/digital-inclusion/sudan-unveils-new-digital-public-procurement-system). It is presented as [part of a wider public-finance reform programme covering budget reform and a single treasury account](https://www.connectingafrica.com/digital-inclusion/sudan-unveils-new-digital-public-procurement-system). Three days before the launch the prime minister [reviewed the same list against the IMF's HIPC debt-relief roadmap](https://allafrica.com/stories/202608110045.html). [The list comprised an e-tendering platform, payroll computerisation, international accounting standards and a treasury single account](https://allafrica.com/stories/202608110045.html). [In November 2025 the medical supplies fund ran its first electronic tender since the war, drawing 67 bids](https://sudannabaa.com/en/news-en/first-electronic-tender-for-medical-supplies-since-the-war-draws-67-competitors/63060/).
 
-The citizen platform Baladna [added 28 services by February 2026](https://www.telecompaper.com/news/sudanese-e-government-platform-baladna-brings-in-28-new-services--1561335) as the Ministry of Digital Transformation rolled it out. The platform [lists 23 government institutions running on it](https://baldna.gov.sd/product/1/details). [They include passports and immigration, higher education, the civil registry, customs, the tax chamber and the central bank](https://baldna.gov.sd/product/1/details). [No basic-education body is among them](https://baldna.gov.sd/product/1/details). [Driving licence renewal runs through the traffic police's Salem platform and Baladna, authenticated against the national identity number](https://almashhadalsudani.com/services/149406/). The [Tax Chamber's e-portal lets taxpayers register remotely, obtain an identification number, and file and amend returns](https://tax.gov.sd/en/home/). [It also lets them view account activity and request clearance certificates](https://tax.gov.sd/en/home/). [Its electronic payment channel is still being activated state by state](https://tax.gov.sd/en/home/). A [unified government employment platform for jobseekers is in final preparation for launch](https://sudan.gov.sd/%d9%88%d8%b2%d9%8a%d8%b1-%d8%b4%d8%a4%d9%88%d9%86-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1-%d8%aa%d9%82%d9%81-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b9%d8%af/) (2026). A [comprehensive electronic oversight system for public bodies and government companies is described as nearing completion](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/).
+The citizen platform Baladna [added 28 services by February 2026](https://www.telecompaper.com/news/sudanese-e-government-platform-baladna-brings-in-28-new-services--1561335) as the Ministry of Digital Transformation rolled it out. [By November 2026 it carried 134 digital services from more than 46 government institutions, the Digital Transformation Authority said](https://www.suna.sd/posts/alsodan-yokd-mn-km-alamm-almthd-llabtkar-fy-alhokm-an-althol-alrkmy-mhrk-asasy-laaaad-alaaamar). The platform [lists 23 government institutions running on it](https://baldna.gov.sd/product/1/details). [They include passports and immigration, higher education, the civil registry, customs, the tax chamber and the central bank](https://baldna.gov.sd/product/1/details). [No basic-education body is among them](https://baldna.gov.sd/product/1/details). [Driving licence renewal runs through the traffic police's Salem platform and Baladna, authenticated against the national identity number](https://almashhadalsudani.com/services/149406/). The [Tax Chamber's e-portal lets taxpayers register remotely, obtain an identification number, and file and amend returns](https://tax.gov.sd/en/home/). [It also lets them view account activity and request clearance certificates](https://tax.gov.sd/en/home/). [Its electronic payment channel is still being activated state by state](https://tax.gov.sd/en/home/). A [unified government employment platform for jobseekers is in final preparation for launch](https://sudan.gov.sd/%d9%88%d8%b2%d9%8a%d8%b1-%d8%b4%d8%a4%d9%88%d9%86-%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1-%d8%aa%d9%82%d9%81-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b9%d8%af/) (2026). A [comprehensive electronic oversight system for public bodies and government companies is described as nearing completion](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/).
 
 The [Salem renewal service for citizens abroad now runs through embassies in 16 countries, up from six, and has issued 1,519 licences](https://sudantribune.net/article/316412) (July 2026).
 
@@ -327,7 +327,7 @@ Individual documents do reach the public without gatekeeping. The [business oper
 ### Geospatial data
 <!-- data.geospatial -->
 
-No national space or geospatial agency, ground receiving station or geospatial data policy was on the record for Sudan as at August 2026.
+[In May 2025 the meteorological authority based its seasonal forecast on satellite rainfall estimates and rain-gauge data](https://meteosudan.sd/documents/87/SUNCOF_2_Detailed_Report_Eng.pdf). [An FAO assessment put 2025 cereal production at 5.2 million tonnes, 22 per cent down](https://openknowledge.fao.org/server/api/core/bitstreams/96c0924c-c465-4711-af3b-9c0da28ad24b/content) (2026). [It used satellite rainfall and vegetation data in place of destroyed weather stations](https://openknowledge.fao.org/server/api/core/bitstreams/96c0924c-c465-4711-af3b-9c0da28ad24b/content). [A July 2026 satellite analysis found nearly 40,000 square kilometres of farmland degraded since the war began](https://www.wvi.org/newsroom/sudan/new-satellite-analysis-exposes-extreme-farmland-loss-sudan). No national space agency, ground station or geospatial data policy had been found as at November 2026.
 
 ## Geopolitics
 

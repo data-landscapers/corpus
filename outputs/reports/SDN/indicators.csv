@@ -480,7 +480,9 @@ It is distinct from the 130 health services later reported live through the nati
 
 So the repository holds a named health platform that may or may not be the thing already delivering services, and no source resolves it.
 
-A public-private platform deploying electronic medical records and hospital information systems runs in partnership with the Khartoum State health ministry ([platform](2026-01-01-sudahealth-digital-health-platform)). It describes itself as national; the evidence reaches one state, and no ministry document naming it is held.",SDN-dpi.mis-afia|SDN-dpi.mis-sudahealth,2,SDN-dpi.mis-sudahealth,,,,,,,2026-08-31,0,hospital systems in one state on the platform's own account; Afia not launched
+A public-private platform deploying electronic medical records and hospital information systems runs in partnership with the Khartoum State health ministry ([platform](2026-01-01-sudahealth-digital-health-platform)). It describes itself as national; the evidence reaches one state, and no ministry document naming it is held.
+
+2026-02 — [the health ministry's 2026-2030 recovery strategy put the DHIS2 system at the core of its digital priorities](2026-02-16-sdn-sudan-has-launched-a-five-year-digital-health-transformation-strategy); the strategy text has not been found.",SDN-dpi.mis-afia|SDN-dpi.mis-sudahealth|SDN-dpi.mis-health-recovery-digital-strategy-2026-2030,2,SDN-dpi.mis-sudahealth,,,,,,,2026-08-31,0,hospital systems in one state on the platform's own account; Afia not launched
 dpi.mis--education,Movement,"A [pilot began in Red Sea State](2026-05-13-unesco-red-sea-state-emis-digital-transformation) in May 2026 and a [nationwide school census](2026-04-27-sudan-nationwide-school-data-survey) was launched, against a system whose foundation is still being built.","Tablets, computers, a smart display, routers and conferencing equipment were handed to the Red Sea State education ministry on 12 May 2026 to support the information system pilot and a monitoring dashboard ([handover](2026-05-13-unesco-red-sea-state-emis-digital-transformation)).
 
 A nationwide school census covering schools, students, teachers, services and learning materials was launched in April 2026, starting in three states and expanding in phases, explicitly to build an integrated national database ([survey](2026-04-27-sudan-nationwide-school-data-survey)).
@@ -523,19 +525,21 @@ A public procurement platform launched in August 2026 ([procurement](2026-08-12-
 
 2026-09-16 — the finance ministry began [steps to launch Itzan, a national budget system](2026-09-16-sdn-suna-itzan-budget-system-digital-finance), planned for the 2027 budget.
 
-The traffic police launched a platform renewing driving licences online, including from abroad, with the national number as the login ([service](2026-01-01-electronic-driving-licence-renewal-service)). No use figure is published.
+The traffic police launched a platform renewing driving licences online ([service](2026-01-01-electronic-driving-licence-renewal-service)). No use figure is published.
 
 2026-09-29 - the education ministry [put Sudan School Certificate applications and fees online](2026-09-29-sdn-education-ministry-online-certificate-application-payment-alhakim); no uptake figure is published.
 
 2026-10-01 - [company registration and two services for the legal profession were added to the platform](2026-10-01-sdn-alghad-baladna-new-commercial-legal-services-investment).
 
-2026-09-07 - the animal resources ministry [launched an official website for producers, breeders and investors](2026-09-07-suna-sudan-animal-resources-ministry-website-launch).
+2026-09-07 - the animal resources ministry [launched a website for producers and investors](2026-09-07-suna-sudan-animal-resources-ministry-website-launch).
 
 2025-11 — [the medical supplies fund ran its first electronic tender since the war, drawing 67 bids from 99 buyers of the documents](2025-11-20-sdn-first-electronic-tender-for-medical-supplies-since-the-war-draws-67-co).
 
 2025-11 - [import permits moved online](2025-11-30-sdn-sudan-launches-electronic-import-service).
 
-2026-11-03 - the cabinet's governance sector [endorsed authenticated electronic correspondence as the state's sole official channel](2026-11-03-sdn-governance-sector-discusses-controls-on-electronic-documents).",SDN-dpi.govtech-baladna|SDN-dpi.govtech-nazaha|SDN-dpi.govtech-public-sector-finance-platform|SDN-dpi.govtech-public-service-complexes|SDN-dpi.govtech-baladna-platform|SDN-dpi.govtech-itzan-budget-system|SDN-dpi.govtech-salem|SDN-dpi.govtech-school-certificate-e-application|SDN-dpi.mis-zakat-chamber-resource-planning-system|SDN-dpi.govtech-animal-resources-ministry-website|SDN-dpi.mis-emergency-cell-broadcast|SDN-dpi.govtech-nmsf-electronic-tendering|SDN-dpi.govtech-electronic-import-permits|SDN-dpi.govtech-electronic-correspondence-sole-channel,3,SDN-dpi.govtech-baladna|SDN-dpi.govtech-salem,,,,,,,2026-08-31,0,Transactional services on several platforms; no usage figures or service inventory published
+2026-11-03 - the cabinet's governance sector [endorsed authenticated electronic correspondence as the state's sole official channel](2026-11-03-sdn-governance-sector-discusses-controls-on-electronic-documents).
+
+2026-11-06 — [Baladna carried 134 services from over 46 institutions](2026-11-06-sdn-suna-digital-transformation-reconstruction-un-governance-summit).",SDN-dpi.govtech-baladna|SDN-dpi.govtech-nazaha|SDN-dpi.govtech-public-sector-finance-platform|SDN-dpi.govtech-public-service-complexes|SDN-dpi.govtech-baladna-platform|SDN-dpi.govtech-itzan-budget-system|SDN-dpi.govtech-salem|SDN-dpi.govtech-school-certificate-e-application|SDN-dpi.mis-zakat-chamber-resource-planning-system|SDN-dpi.govtech-animal-resources-ministry-website|SDN-dpi.mis-emergency-cell-broadcast|SDN-dpi.govtech-nmsf-electronic-tendering|SDN-dpi.govtech-electronic-import-permits|SDN-dpi.govtech-electronic-correspondence-sole-channel,3,SDN-dpi.govtech-baladna|SDN-dpi.govtech-salem,,,,,,,2026-08-31,0,Transactional services on several platforms; no usage figures or service inventory published
 digital.localgov--ict-infrastructure-for-local-government,Movement,"The [state data centre in Khartoum was restored](2025-10-09-sudan-khartoum-state-data-center-restored), and a [state coordination directorate](2026-08-29-sudan-nic-departments-structure) carries the remit for ICT projects at wilaya level.","The 1,300 square metre state data centre was rehabilitated and returned to service with cloud computing, data security and artificial-intelligence support, qualifying it to host government systems centrally ([announcement](2025-10-09-sudan-khartoum-state-data-center-restored)).
 
 The National Information Center, established under a 1999 decree, carries a state coordination directorate whose remit names coordinating and following up ICT projects and training at wilaya level and supervising state information forums, alongside an infrastructure directorate ([structure](2026-08-29-sudan-nic-departments-structure)).

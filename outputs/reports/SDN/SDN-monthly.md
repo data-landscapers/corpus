@@ -1,11 +1,11 @@
 ---
 title: Sudan — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: SDN
 ledger_rows: 23
 not_held: 5
-record: 6edb2310a16d
+record: c3c5da1429f8
 ---
 
 # News, Oct – Nov 2026
@@ -365,6 +365,14 @@ The Global Survivors Fund opened a tender for a secure, offline-capable digital 
 **[هل تصبح الرقمنة الحكومية بوابة السودان لجذب الاستثمار ودمج الاقتصاد؟](https://alghadalsudani.com/34214/)** — الغد السوداني, 1 October 2026
 
 Summarised under [Registries](#registries).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[السودان يؤكد من قمة الأمم المتحدة للابتكار في الحوكمة أن التحول الرقمي محرك أساسي لإعادة الإعمار](https://www.suna.sd/posts/alsodan-yokd-mn-km-alamm-almthd-llabtkar-fy-alhokm-an-althol-alrkmy-mhrk-asasy-laaaad-alaaamar)** — Sudan News Agency (SUNA), 6 November 2026
+
+Baladna at 134 services from 46-plus institutions; services first, laws second; UN summit, Baku, 6 Nov 2026.
 
 </div>
 
