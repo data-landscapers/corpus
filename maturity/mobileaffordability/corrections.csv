@@ -12,3 +12,4 @@ SWZ,003,cost,share:3.47,removed,"The basket behind 3.47 per cent is not stated a
 TUN,001,cost,share:1.53,removed,"The basket is 140 minutes of calls, 20 text messages and 5 GB: voice and data together, not a data plan. Stage 4 either way."
 TZA,001,cost,price:TZS:9.35:0.001,removed,"The regulator's pay-as-you-go rate per megabyte, which its own report says 0.1 per cent of users pay: not what a plan costs. It would have moved Tanzania from stage 3 to stage 1."
 TZA,002,cost,price:TZS:2.08:0.001,revalued: price:TZS:2080:1,"The same price, TZS 2.08 a megabyte, written per gigabyte."
+MDG,006,cost,share:7.32,removed,"Stage 4c: L'Express de Madagascar gives 7.32 per cent of income per head for 'a basic mobile internet basket' and 12.88 for larger packages, with no year and no data allowance; the drafter dated it by the story. It cannot be brought to 5 GB or placed in the window, and it would have moved Madagascar from stage 1 to stage 2."

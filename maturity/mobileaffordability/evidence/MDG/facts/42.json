@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-05-mdg-telecommunications-les-reformes-au-service-du-developpement-numerique",
+ "facts": [
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "share:7.32",
+   "fact": "The cost of a basic mobile internet basket was 7.32% of gross national income per capita (12.88% for larger packages), according to L'Express de Madagascar; the year and data allowance are not given.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "basic mobile internet basket",
+   "class": "price"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
