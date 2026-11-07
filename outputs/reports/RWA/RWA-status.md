@@ -1,6 +1,6 @@
 ---
 title: Rwanda: status report
-compiled: 2026-11-06
+compiled: 2026-11-07
 place: RWA
 region: XEA
 built_by: STATUS-INIT
@@ -405,7 +405,7 @@ Germany's money goes to the machinery of the state rather than to networks: KfW 
 France entered later and at the centre of the system: AFD made its [first sovereign digital-transformation loan to Rwanda in 2023, concessional, supporting the expansion of digital public services including the Irembo e-service platform and digital ID](https://www.afd.fr/en/actualites/more-rwandan-public-services-are-going-digital-support-afd). The European Union's own money is smaller and sits outside the capital: [Hanga Hubs, a EUR 1,137,500 grant over 2021–2026, creates innovation and incubation hubs in Muhanga, Nyagatare, Rubavu and Rusizi](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2021-PCC-420559), and a [EUR 2,000,000 programme over 2020–2030 works on youth skills and digital-based opportunities in four secondary cities](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2019-ACT-D-42288-00). Sweden's contribution is institutional rather than financial in character, [channelling support over 2022–2027 through Lantmäteriet, its own mapping, cadastre and land-registration authority, to Rwanda's National Land Authority](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=SE-0-SE-6-15037).
 
 <!-- derived -->
-Eleven of the 33 financiers on Rwanda's record are European public bodies, more than from any other region, and they hold 30 of its 184 commitments, about US$206 million.
+Eleven of the 33 financiers on Rwanda's record are European public bodies (November 2026), more than from any other region, and they hold 30 of its 184 commitments, about US$206 million.
 
 ### Gulf/UAE activities
 <!-- geopol.gulf -->
