@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-05-gha-false-91-of-ghanaians-have-not-received-their-ghana-cards",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The National Identification Authority had enrolled 20,610,948 people, printed 20,478,619 Ghana Cards and issued 19,575,078 as at 30 October 2026, per Dubawa's account of NIA data.",
+   "as_of": "2026-10-30",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

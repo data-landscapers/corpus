@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-23-eth-ethiopia-plans-local-laptop-tablet-assembly-in-digital-sovereignty-pus",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Prime Minister Abiy Ahmed cited 45 million registrations under Ethiopia's national digital ID programme.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "national digital ID programme",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

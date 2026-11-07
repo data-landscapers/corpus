@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-10-civ-cote-d-ivoire-le-delai-de-delivrance-de-la-carte-nationale-d-identite",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ONECI reports attributing 9,323,415 national identification numbers (NNI) in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NNI / national identity card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

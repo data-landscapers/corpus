@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-17-sle-93-of-sierra-leone-registered-with-unique-nins",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NCRA's Director-General says each person is assigned a unique NIN that is never duplicated, reassigned or reused, and NCRA issues ICAO- and ECOWAS-compliant multipurpose biometric identity cards.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "National Identification Number (NIN)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

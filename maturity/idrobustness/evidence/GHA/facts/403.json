@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-15-gha-nia-registers-190-000-persons-within-first-half-of-2025",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Of over 18 million Ghanaians registered by the NIA, 17,534,360 had been issued Ghana Cards, per Interior Minister Muntaka.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana Card",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

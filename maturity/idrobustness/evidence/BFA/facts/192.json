@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-17-bfa-transformation-digitale-au-burkina-faso-le-secteur-injecte-142-milliar",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Minister Aminata Zerbo/Sabane announced the first phase of mass enrolment for the unique electronic person identifier would be engaged in the second half of 2026.",
+   "as_of": "2026-08-17",
+   "date_precision": "day",
+   "system": "identifiant unique électronique",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-23-tgo-identification-biometrique-au-togo-1-18-million-de-cartes-attendent-en",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "La Cinquieme reports that the national biometric identification programme run by the ANID gives a unique identification number (NIU) to each registered person, with 5.9 million cards produced and 4.72 million distributed as of 21 October 2026.",
+   "as_of": "2026-10-21",
+   "date_precision": "day",
+   "system": "e-ID Togo",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-ID Togo",
+   "country_label": "e-ID Togo (NIU)",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANID",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

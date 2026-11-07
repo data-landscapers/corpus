@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-17-uga-18-million-ugandans-are-unregistered-says-nira",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIRA said it has fully registered over 27 million people in its register and that registration for upgraded national identity cards begins in June 2024.",
+   "as_of": "2024-04-16",
+   "date_precision": "day",
+   "system": "NIRA national register",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

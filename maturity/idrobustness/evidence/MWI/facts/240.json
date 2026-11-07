@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-01-mwi-12-3-million-register-for-id-cards",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The National Registration Bureau says it has registered 12,287,349 people aged 16 and above for national identity cards since 2016.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "National Registration Bureau national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

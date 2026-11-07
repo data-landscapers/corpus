@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-09-uga-nira-prepares-for-mass-registration-id-renewal",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIRA holds a National Identification Register of 27.4 million registered persons and is preparing a mass enrolment and card renewal exercise, per The Independent (Uganda).",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "National Identification Register",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

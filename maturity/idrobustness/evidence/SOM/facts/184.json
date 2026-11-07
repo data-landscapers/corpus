@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-24-som-somali-national-id-system-has-become-a-cornerstone-of-state-building",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "UNDP Somalia's Resident Representative said the Somali National ID system, launched in 2023, has over one million registrations.",
+   "as_of": "2025-11-24",
+   "date_precision": "day",
+   "system": "Somali National ID system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Somali National ID system",
+   "country_label": "Somali National ID system",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification and Registration Authority",
+   "tiers": "national"
+  }
+ ],
+ "note": ""
+}

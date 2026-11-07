@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-02-mar-dgsn-national-trust-platform-32-million-ecnie",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The DGSN says it has issued 32 million electronic ID cards since the electronic card was adopted in 2008, each giving the holder a digital identity.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "National electronic ID card (CNIE)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

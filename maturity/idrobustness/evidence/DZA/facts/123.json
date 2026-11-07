@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-20-dza-l-algerie-fixe-la-date-de-la-generalisation-du-dossier-medical-numeriq",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The article describes patients identified instantly through their biometric card against the Interior Ministry's civil-status database, with a national identifier.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "biometric national card and national identifier",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

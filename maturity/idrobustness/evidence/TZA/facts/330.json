@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-01-tza-andiko-la-septemba-ya-utambulisho-2026-kuijenga-agenda-ya-utambulisho",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIDA says 23,344,265 national identification numbers have been issued and 27,458,882 people registered by July 2026.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "NIDA national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
