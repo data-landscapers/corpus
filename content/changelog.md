@@ -1,5 +1,6 @@
 ## 7 November 2026
 
+- Togo's 2027 draft is in the tables at the grain the finance bill prints: the administration-modernisation special account (CFA 6.1bn) and the geographic-information programme (CFA 199m), both partly digital. The digital ministry's two digital programmes (CFA 27.9bn) wait for the volume that says how much of them is donor-financed.
 - Seychelles's 2027 draft is in the tables: four bodies read at head level from the Appropriation Bill's schedule, SCR 215m whole and 14.7m partly digital. The ICT department's vote nearly doubles to SCR 186m; programme lines follow when the estimates volume is published.
 
 ## 6 November 2026

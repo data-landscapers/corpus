@@ -660,7 +660,7 @@ TCD,data-exchange,absent,,,,,hand,"FY2024 to FY2026: each fascicule prints every
 TGO,statistics,found,whole,15,tgo-2024-220-010-1391080071000,Institut national de la statistique et des études économiques et démographiques,rows,,
 TGO,civil-registration-id,found,whole,6,tgo-2024-870-100-1131011117000,Agence nationale d'identification,rows,,
 TGO,communications-regulator,absent,,,,Autorité de régulation des communications électroniques et des postes,hand,keyword scan of the sprint's chapter list for the 2024 finance law: no chapter names the regulator (ARCEP); the ANAC hits are civil aviation,2026-10-02
-TGO,ict-ministry-egov,found,whole,37,tgo-2024-870-099-1171010696000,Agence Togo Digital; Portail du gouvernement (zone gouv.tg),rows,,
+TGO,ict-ministry-egov,found,whole,38,tgo-2024-870-099-1171010696000,Agence Togo Digital; Portail du gouvernement (zone gouv.tg),rows,,
 TGO,cybersecurity,found,whole,3,tgo-2024-870-100-1131011116000,Agence nationale de la cybersécurité; CERT.tg,rows,,
 TGO,data-protection,found,whole,2,tgo-2025-870-098-1131081483000,Instance de protection des données à caractère personnel,rows,,
 TGO,revenue-systems,absent,,,,Office togolais des recettes,hand,keyword scan of the sprint's chapter list for the 2024 finance law: no chapter names a tax or customs system; the revenue office (OTR) is outside the vote,2026-10-02
