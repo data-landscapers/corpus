@@ -1,5 +1,6 @@
 ## 7 November 2026
 
+- Mali's 2027 draft is in the tables at the grain the finance bill prints: 13 investment projects and eight public bodies, CFA 16.7bn wholly digital. The 2026 figures were read at activity grain from the programme annex; the 2027 annex is not yet held, so the two years are not line-for-line comparable.
 - Republic of Congo's 2027 draft is in the tables: the digital ministry's operational programme (CFA 16.4bn, partly digital) and three special accounts for universal service, the treasury's digital platform and public-finance systems (CFA 10.5bn). The ministry's programme is about half its 2026 figure of CFA 30.1bn, its investment cut from CFA 28.7bn to 15.1bn.
 - Angola's 2027 draft is in the tables: 54 lines read from the allocation-by-organ volume tabled on 30 October, Kz 135.3bn whole and Kz 189.2bn partly digital. Whole-digital lines fall from Kz 193.1bn in 2026, most of it the broadband network (Kz 45.8bn, from 62.7bn) and the analytics platform and data centre (Kz 11.0bn, from 32.3bn).
 - Togo's 2027 draft is in the tables at the grain the finance bill prints: the administration-modernisation special account (CFA 6.1bn) and the geographic-information programme (CFA 199m), both partly digital. The digital ministry's two digital programmes (CFA 27.9bn) wait for the volume that says how much of them is donor-financed.
