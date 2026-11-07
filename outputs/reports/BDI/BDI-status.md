@@ -1,12 +1,12 @@
 ---
 title: Burundi: status report
-compiled: 2026-11-06
+compiled: 2026-11-07
 place: BDI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 28
-sources_cited: 251
+sources_cited: 252
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -307,7 +307,7 @@ Two artificial-intelligence deployments inside Burundian sectoral systems are on
 
 [In February 2026 a Burundian producer was shipping a machine-learning application, built in the country, that diagnoses crop diseases for farmers](https://www.globalsouthworld.com/article/ai-app-helps-burundian-farmers-detect-crop-diseases-early-video). [Two further locally built artificial-intelligence products have been found: the mining-governance and geospatial tool MineGuard, and AfriPrompt](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/).
 
-[On 3 July 2026 the Chinese company IBI Crossborder announced a comprehensive mining cooperation agreement with the Burundi Mining Authority](https://www.ibicrossborder.com/news/detail?id=434). [The company describes it in digital terms: digital transformation of the mining value chain, data-driven exploration and a platform connecting Burundi's minerals to markets](https://www.ibicrossborder.com/news/detail?id=434).
+[On 3 July 2026 the Chinese company IBI Crossborder announced a comprehensive mining cooperation agreement with the Burundi Mining Authority](https://www.ibicrossborder.com/news/detail?id=434). [The company describes it in digital terms: digital transformation of the mining value chain, data-driven exploration and a platform connecting Burundi's minerals to markets](https://www.ibicrossborder.com/news/detail?id=434). [A phone assembler at Buringa, TECOO, employed more than 70 workers in December 2025, up from 45 technicians at its start about two years earlier](https://andikamagazine.net/burundis-tecoo-expands-local-tech-manufacturing-aims-for-smartphones-and-batteries/).
 
 ### Innovation ecosystem
 <!-- tech.innovate -->
