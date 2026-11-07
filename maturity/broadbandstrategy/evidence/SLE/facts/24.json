@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-23-sle-minister-salima-outlines-accomplishments-in-the-tech-sector",
+ "facts": [
+  {
+   "sub_indicator": "plan",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Minister Salima Bah said the government has passed the National Broadband Strategy, a plan for rolling out data access across Sierra Leone.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "National Broadband Strategy",
+   "class": "plan"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
