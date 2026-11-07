@@ -63,6 +63,7 @@ CAF,2026-08-19-caf-pgnsp-78-percent-progress,,2026-10-19
 CAF,2026-08-20-wbg-digital-ai-implementation-plan-fy26-30,,2026-10-19
 CAF,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital,,2026-10-22
 CIV,2021-12-22-civ-decret-2021-913-referentiel-interoperabilite,,2026-10-19
+CIV,2025-01-01-civ-renforcement-du-systeme-d-information-de-sante,,2026-11-07
 CIV,2025-05-02 WURI Implementation Status Report - Cote d'Ivoire and Guinea (P161329 Seq 11),,2026-10-19
 CIV,2025-09-11-cote-divoire-atelier-interoperabilite-sig-rsu-protection-sociale,,2026-10-19
 CIV,2025-10-01-civ-ministere-transition-numerique-note-interoperabilite,,2026-10-19
@@ -99,6 +100,7 @@ COD,2026-10-07-iati-gb-gov-1-400199-411-cross-regulatory-digital-governance-sout
 COD,2026-10-20-cod-cooperation-rdc-russie-s-e-augustin-kibassa-maliba-mobilise-des-parten,,2026-10-24
 COD,2026-10-28-democratic-republic-of-congo-seeks-consultancy-for-500-million-digital-prog,,2026-10-30
 COD,2026-10-29-iati-xm-dac-6-4-013531-01-0-agbledu-smart-agri-markets-digitally-enabled-agriculture-ghana,,2026-11-01
+COD,2026-10-31-iati-xm-dac-41114-output-01003119-nga-timbuktoo-fintech,,2026-11-07
 COG,2026-01-29-congo-registre-social-unique-insuffisamment-connu,,2026-10-19
 COG,2026-02-12-congo-datacenter-national-operationnel-mai-2026,,2026-10-19
 COG,2026-02-20-cog-sifec-cloture-recommandations-mfbpp,,2026-10-19
@@ -167,12 +169,14 @@ ETH,2024-07-11 Ethiopia's Digital Government Strategy and Enterprise Architectur
 ETH,2024-07-19 Ethiopia's e-government leap to interoperability (EeGIF),,2026-10-19
 ETH,2024-12-28-eth-atalayar-dt-global-digital-government-strategy,,2026-10-19
 ETH,2025-10-01-eth-ethiopia-national-data-governance-strategy-edgs-summary,,2026-10-29
+ETH,2026-02-01-eth-scope-of-work-february-2026,,2026-11-07
 ETH,2026-04-23 Health Data Without Continuity Why Electronic Health Records Still Have Not Scaled Across Africa,,2026-10-19
 GAB,2021-06-15-world-bank-digital-gabon-project-pad,,2026-10-19
 GAB,2024-12-19-world-bank-digital-gabon-isr-seq7,,2026-10-19
 GAB,2025-06-23-gabon-legal-digital-id-three-projects,,2026-10-19
 GAB,2025-10-07-gabon-egov-legal-framework,,2026-10-19
 GAB,2025-10-24-gabon-2026-digital-budget-156pct,,2026-10-19
+GAB,2025-10-25-gab-sante-connectee-le-gabon-adopte-l-identifiant-unique-et-le-dossier-med,,2026-11-07
 GAB,2025-11-17-gab-declaration-de-politique-generale-de-mark-alexandre-doumba-wtdc-25,,2026-10-24
 GAB,2025-12-22-gab-allafrica-aninf-souverainete-numerique,,2026-10-19
 GAB,2026-02-19-presidence-ga-audience-ika-technology-gabon-connect,,2026-10-19
@@ -331,17 +335,20 @@ MRT,2022-01-01-primature-decret-2022-009-echanges-electroniques-autorites-admini
 MRT,2024-05-01-mauritanie-strategie-nationale-transition-ipv6,,2026-10-19
 MRT,2025-01-01-mrt-tfad-trade-facilitation-agreement-database-mauritania-article-10-4-sin,,2026-10-27
 MRT,2025-04-04-mrt-khidmaty-services-publics-investisseurs,,2026-10-19
+MRT,2025-12-04-ami-lancement-preparation-agenda-national-transformation-numerique-2030,,2026-11-07
 MRT,2025-12-05-mrt-ecofin-health-system-digital-transformation,,2026-10-19
 MRT,2026-02-16-ami-lancement-portail-national-procedures-administratives-ijraati,,2026-10-19
 MRT,2026-02-22 Mauritania Centralizes 800 Administrative Procedures in New Digital Portal (Ijraati),,2026-10-19
 MRT,2026-03-27-mrt-ecofin-national-standards-digital-public-services,,2026-10-19
 MRT,2026-03-27-public-digital-services-standards-framework-techafricanews,,2026-10-19
+MRT,2026-05-12-mrt-atelier-national-sur-l-elaboration-du-cadre-national-d-interoperabilit,,2026-11-07
 MRT,2026-07-24-mauritania-all-operators-activate-ipv6-national-strategy,,2026-10-19
 MRT,2026-07-27-ami-atelier-blockchain-administration-publique,,2026-10-19
 MRT,2026-07-29-mauritania-blockchain-public-services-undp,,2026-10-19
 MRT,2026-09-16-mrt-ami-conseil-ministres-protection-espace-numerique,,2026-10-19
 MRT,2026-09-28-mrt-elilam-digital-infrastructure-standards-training,,2026-10-19
 MRT,2026-09-28-mrt-mauritanie-unification-des-normes-de-l-architecture-numerique-de-l-eta,,2026-10-27
+MRT,2026-10-13-mrt-bluesquare-health-system-interoperability-lessons,,2026-11-07
 MRT,2026-10-28-la-mauritanie-explore-l-exp-rience-marocaine-pour-interconnecter-ses-a,,2026-10-29
 MUS,2002-11-01 Mauritius e-Government Interoperability Framework v1.0,,2026-10-19
 MUS,2016-08-01-infohighway-data-sharing-platform,,2026-10-19
@@ -391,6 +398,7 @@ SDN,2026-08-27-who-africa-regional-health-data-hub,,2026-10-19
 SDN,2026-08-29-baldna-platform-gov-plt-product-page,,2026-10-19
 SDN,2026-08-29-ssmo-national-standards-catalogue,,2026-10-19
 SEN,2024-06-05-sen-20-ans-de-orbus-l-heure-de-chanter-les-merites-de-la-dematerialisation,,2026-10-27
+SEN,2024-07-23-sen-interoperability-in-digital-health-in-west-africa,,2026-11-07
 SEN,2025-04-22-lesoleil-interoperability-platform,,2026-10-19
 SEN,2025-09-19-techafricanews-interoperability-update,,2026-10-19
 SEN,2026-01-16-sen-pins-plateforme-interministerielle-x-road-pilote-pnbsf-cmu,,2026-10-29
@@ -399,6 +407,7 @@ SEN,2026-03-16-new-deal-technologique-un-an,,2026-10-19
 SEN,2026-03-24-lesoleil-sonko-projets-structurants,,2026-10-19
 SEN,2026-03-26-mctn-interoperabilite-mvp-1-0-copil-validation,,2026-10-19
 SEN,2026-05-04-mctn-fondations-infrastructure-publique-numerique-projet-decret-interoperabilite,,2026-10-19
+SEN,2026-05-15-sen-cadre-national-d-interoperabilite-declinaison-sectorielle-sante-lancem,,2026-11-07
 SEN,2026-07-31-senegal-advances-digital-transformation-agenda-with-government-enterprise-architecture-project,,2026-10-19
 SEN,2026-08-03-senegal-government-enterprise-architecture-dpi-sovereignty,,2026-10-19
 SEN,2026-08-05-senegal-civil-registration-digitalization-anec,,2026-10-19
@@ -544,5 +553,6 @@ ZWE,2024-01-01-enterprise-architecture-modelling-zimbabwe,,2026-10-19
 ZWE,2026-05-08-zimbabwe-smart-government-digital-blueprint,,2026-10-19
 ZWE,2026-05-08-zwe-mavetera-enterprise-architecture-linkedin,,2026-10-19
 ZWE,2026-05-15-zimbabwe-national-migration-data-strategy-launch,,2026-10-19
+ZWE,2026-06-30-zwe-improving-reporting-of-morbidity-and-cause-of-death-in-zimbabwe-with-d,,2026-11-07
 ZWE,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital,,2026-10-22
 ZWE,2026-10-26-zwe-rbz-to-introduce-a-new-platform-for-digital-payments,,2026-10-29

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-23-sen-interoperability-in-digital-health-in-west-africa",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "none",
+   "fact": "The source says the next step is for the government to create an interoperability framework defining the standards to be used in Senegal, implying none exists.",
+   "as_of": "2024-07-23",
+   "date_precision": "day",
+   "system": "",
+   "class": "framework"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
