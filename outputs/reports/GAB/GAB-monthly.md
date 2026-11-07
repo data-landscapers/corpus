@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: GAB
-ledger_rows: 32
+ledger_rows: 34
 not_held: 12
-record: b1bf2a498385
+record: 3d94a9bad3d6
 ---
 
 # News, Oct – Nov 2026
@@ -25,9 +25,13 @@ record: b1bf2a498385
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
 </nav>
 
 ## Governance
@@ -606,6 +610,28 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 
 </div>
 
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#training-and-skills">Training and skills</a>
+</nav>
+
+### Training and skills
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Talent Training Centre (ST DIGITAL and Huawei)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon Taps Huawei, ST DIGITAL to Build Digital Skills Training Centre](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-taps-huawei-st-digital-to-build-digital-skills-training-centre)** — We Are Tech, 6 November 2026
+
+MoU of 4 Nov 2026 for a centre training technicians and instructors in six fields; youth unemployment c.30%.
+
+</div>
+
+</div>
+
 ## Inclusion
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
@@ -645,6 +671,28 @@ On 29 October 2026 the police inspectorate and Group IDENTITY signed an agreemen
 **[RGPL 2026 : après la proclamation des résultats, les Gabonais réclament le rapport détaillé](https://actu241ga.com/rgpl-2026-apres-la-proclamation-des-resultats-les-gabonais-reclament-le-rapport-detaille/)** — Actu241, 21 October 2026
 
 Gabon's census counts 3,518,621 residents, 2,318,365 of them Gabonese, figures certified by the Constitutional Court on 27 August 2026, but the detailed report has not been published. A deputy and citizens are asking when the breakdown by province, commune, age and sex will be released.
+
+</div>
+
+</div>
+
+## Geopolitics
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
+<a href="#china-activities">China activities</a>
+</nav>
+
+### China activities
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government-Huawei memoranda signed at Shanghai, November 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon/Technologie : trois protocoles d’accord signés avec Huawei à Shanghai - AGP - Agence Gabonaise de Presse](https://agpgabon.ga/gabon-technologie-trois-protocoles-daccord-signes-avec-huawei-a-shanghai/)** — Agence Gabonaise de Presse, 5 November 2026
+
+Signed 4 Nov 2026 in Shanghai: public-security tech, university digital platforms, AI teaching equipment donation.
 
 </div>
 
