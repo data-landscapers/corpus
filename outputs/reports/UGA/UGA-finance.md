@@ -1,6 +1,6 @@
 ---
 title: Uganda: finance
-compiled: 2026-11-06
+compiled: 2026-11-07
 place: UGA
 ---
 
@@ -10,7 +10,7 @@ place: UGA
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">292</td><td class="num">1</td><td class="num">176</td><td class="num">58</td><td class="num">8</td><td class="num">15</td><td class="num total">551</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num">7</td><td class="num">14</td><td class="num">1</td><td class="num">40</td><td class="num">162</td><td class="num">57</td><td class="num total">282</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num">14</td><td class="num">13</td><td class="num zero"></td><td class="num">40</td><td class="num">162</td><td class="num">57</td><td class="num total">287</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">8</td><td class="num zero"></td><td class="num zero"></td><td class="num">62</td><td class="num">87</td><td class="num">58</td><td class="num total">216</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">9</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">41</td><td class="num">37</td><td class="num">41</td><td class="num total">127</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">17</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">24</td><td class="num">39</td><td class="num">37</td><td class="num total">117</td></tr>
@@ -35,10 +35,10 @@ place: UGA
 <tr><th scope="row">Literacy</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Rural digital data capture</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">413</td><td class="num">88</td><td class="num">191</td><td class="num">268</td><td class="num">400</td><td class="num">249</td><td class="num total">1,609</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">419</td><td class="num">87</td><td class="num">190</td><td class="num">268</td><td class="num">400</td><td class="num">249</td><td class="num total">1,614</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/UGA/all-finance.html">Full table &mdash; 690 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/UGA/all-finance.html">Full table &mdash; 678 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/UGA/UGA-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -75,7 +75,7 @@ place: UGA
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">292</td><td class="num">1</td><td class="num">176</td><td class="num">12</td><td class="num zero"></td><td class="num zero"></td><td class="num total">481</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num">7</td><td class="num">14</td><td class="num">1</td><td class="num">&lt;1</td><td class="num">113</td><td class="num zero"></td><td class="num total">136</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num">14</td><td class="num">13</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">113</td><td class="num zero"></td><td class="num total">141</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">18</td><td class="num">71</td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">90</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">4</td><td class="num">&lt;1</td><td class="num">13</td><td class="num">&lt;1</td><td class="num">12</td><td class="num zero"></td><td class="num total">30</td></tr>
 <tr><th scope="row">Digital divides</th><td class="num">20</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">20</td></tr>
@@ -99,10 +99,10 @@ place: UGA
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Rural digital data capture</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">413</td><td class="num">88</td><td class="num">191</td><td class="num">23</td><td class="num">125</td><td class="num">4</td><td class="num total">845</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">419</td><td class="num">87</td><td class="num">190</td><td class="num">23</td><td class="num">125</td><td class="num">4</td><td class="num total">849</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/UGA/finance.html">Full table &mdash; 252 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/UGA/finance.html">Full table &mdash; 240 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/UGA/UGA-nonstate.csv" download>&darr; Download CSV</a>
 </div>

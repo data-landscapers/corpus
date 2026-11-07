@@ -1,6 +1,6 @@
 ---
 title: Mauritius: finance
-compiled: 2026-11-06
+compiled: 2026-11-07
 place: MUS
 ---
 
@@ -9,7 +9,7 @@ place: MUS
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Cybersecurity</th><td class="num">80</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">2</td><td class="num">3</td><td class="num total">84</td></tr>
+<tr><th scope="row">Cybersecurity</th><td class="num">74</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">2</td><td class="num">3</td><td class="num total">78</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">12</td><td class="num">25</td><td class="num">22</td><td class="num total">59</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">3</td><td class="num">10</td><td class="num">12</td><td class="num total">27</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num">6</td><td class="num">9</td><td class="num total">20</td></tr>
@@ -30,7 +30,7 @@ place: MUS
 <tr><th scope="row">Research institutions</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">81</td><td class="num">&lt;1</td><td class="num">1</td><td class="num">41</td><td class="num">74</td><td class="num">78</td><td class="num total">275</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">75</td><td class="num">&lt;1</td><td class="num">1</td><td class="num">41</td><td class="num">74</td><td class="num">78</td><td class="num total">269</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
 <a class="btn" href="https://corpus.data-landscapers.io/countries/MUS/all-finance.html">Full table &mdash; 331 rows, all 12 fields &rarr;</a>
@@ -74,7 +74,7 @@ place: MUS
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Cybersecurity</th><td class="num">80</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">80</td></tr>
+<tr><th scope="row">Cybersecurity</th><td class="num">74</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">74</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Geospatial data</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
@@ -84,7 +84,7 @@ place: MUS
 <tr><th scope="row">Innovation ecosystem</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">National statistics</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">81</td><td class="num">&lt;1</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">82</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">75</td><td class="num">&lt;1</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">76</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">

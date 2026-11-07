@@ -1,6 +1,6 @@
 ---
 title: Morocco: finance
-compiled: 2026-11-06
+compiled: 2026-11-07
 place: MAR
 ---
 
@@ -24,17 +24,17 @@ place: MAR
 <tr><th scope="row">National statistics</th><td class="num">1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">12</td><td class="num">12</td><td class="num zero"></td><td class="num zero"></td><td class="num total">26</td></tr>
 <tr><th scope="row">Digital divides</th><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">5</td></tr>
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num total">5</td></tr>
-<tr><th scope="row">Innovation ecosystem</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>
+<tr><th scope="row">Innovation ecosystem</th><td class="num">4</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">4</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Open data</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Geospatial data</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">1,058</td><td class="num">1</td><td class="num">235</td><td class="num">517</td><td class="num">467</td><td class="num">1,623</td><td class="num">128</td><td class="num total">4,028</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">1,058</td><td class="num">1</td><td class="num">235</td><td class="num">517</td><td class="num">467</td><td class="num">1,623</td><td class="num">128</td><td class="num total">4,029</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/MAR/all-finance.html">Full table &mdash; 399 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/MAR/all-finance.html">Full table &mdash; 398 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/MAR/MAR-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -76,8 +76,8 @@ place: MAR
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num">70</td><td class="num zero"></td><td class="num total">70</td></tr>
 <tr><th scope="row">Connectivity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">12</td><td class="num total">12</td></tr>
 <tr><th scope="row">Digital divides</th><td class="num zero"></td><td class="num zero"></td><td class="num">5</td><td class="num zero"></td><td class="num zero"></td><td class="num total">5</td></tr>
+<tr><th scope="row">Innovation ecosystem</th><td class="num">4</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">4</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">2</td><td class="num">&lt;1</td><td class="num">1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">3</td></tr>
-<tr><th scope="row">Innovation ecosystem</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
@@ -87,10 +87,10 @@ place: MAR
 <tr><th scope="row">Open data</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Geospatial data</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">1,058</td><td class="num">1</td><td class="num">235</td><td class="num">71</td><td class="num">1,469</td><td class="num total">2,833</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">1,058</td><td class="num">1</td><td class="num">235</td><td class="num">71</td><td class="num">1,469</td><td class="num total">2,834</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/MAR/finance.html">Full table &mdash; 83 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/MAR/finance.html">Full table &mdash; 82 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/MAR/MAR-nonstate.csv" download>&darr; Download CSV</a>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: Ethiopia: finance
-compiled: 2026-11-06
+compiled: 2026-11-07
 place: ETH
 ---
 
@@ -12,7 +12,7 @@ place: ETH
 <tr><th scope="row">Connectivity</th><td class="num">203</td><td class="num">76</td><td class="num">1,257</td><td class="num">263</td><td class="num">14</td><td class="num">211</td><td class="num total">2,024</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">24</td><td class="num">1</td><td class="num">350</td><td class="num">57</td><td class="num">52</td><td class="num">91</td><td class="num total">574</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">24</td><td class="num">35</td><td class="num">&lt;1</td><td class="num">58</td><td class="num">21</td><td class="num">23</td><td class="num total">161</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num">76</td><td class="num">4</td><td class="num">12</td><td class="num">18</td><td class="num">30</td><td class="num">11</td><td class="num total">151</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num">69</td><td class="num">4</td><td class="num">12</td><td class="num">18</td><td class="num">30</td><td class="num">11</td><td class="num total">144</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">13</td><td class="num zero"></td><td class="num">6</td><td class="num">52</td><td class="num">16</td><td class="num">9</td><td class="num total">96</td></tr>
 <tr><th scope="row">AI</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">10</td><td class="num">9</td><td class="num">45</td><td class="num total">64</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">28</td><td class="num zero"></td><td class="num">1</td><td class="num">21</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">51</td></tr>
@@ -36,10 +36,10 @@ place: ETH
 <tr><th scope="row">Digital divides</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Standards</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">424</td><td class="num">117</td><td class="num">1,635</td><td class="num">514</td><td class="num">164</td><td class="num">406</td><td class="num total">3,259</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">417</td><td class="num">117</td><td class="num">1,635</td><td class="num">514</td><td class="num">164</td><td class="num">406</td><td class="num total">3,252</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/ETH/all-finance.html">Full table &mdash; 566 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/ETH/all-finance.html">Full table &mdash; 563 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/ETH/ETH-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -82,7 +82,7 @@ place: ETH
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">203</td><td class="num">76</td><td class="num">1,257</td><td class="num">243</td><td class="num zero"></td><td class="num">174</td><td class="num total">1,953</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">24</td><td class="num">1</td><td class="num">350</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">375</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num">76</td><td class="num">4</td><td class="num">12</td><td class="num">9</td><td class="num">19</td><td class="num">1</td><td class="num total">121</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num">69</td><td class="num">4</td><td class="num">12</td><td class="num">9</td><td class="num">19</td><td class="num">1</td><td class="num total">114</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">24</td><td class="num">35</td><td class="num">&lt;1</td><td class="num">36</td><td class="num zero"></td><td class="num zero"></td><td class="num total">95</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num">28</td><td class="num zero"></td><td class="num">1</td><td class="num">21</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">51</td></tr>
 <tr><th scope="row">Registries</th><td class="num">31</td><td class="num zero"></td><td class="num">4</td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">36</td></tr>
@@ -102,10 +102,10 @@ place: ETH
 <tr><th scope="row">Research institutions</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">424</td><td class="num">117</td><td class="num">1,635</td><td class="num">329</td><td class="num">25</td><td class="num">176</td><td class="num total">2,704</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">417</td><td class="num">117</td><td class="num">1,635</td><td class="num">329</td><td class="num">25</td><td class="num">176</td><td class="num total">2,697</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/ETH/finance.html">Full table &mdash; 196 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/ETH/finance.html">Full table &mdash; 193 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/ETH/ETH-nonstate.csv" download>&darr; Download CSV</a>
 </div>

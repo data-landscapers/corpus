@@ -1,6 +1,6 @@
 ---
 title: Kenya: finance
-compiled: 2026-11-06
+compiled: 2026-11-07
 place: KEN
 ---
 
@@ -12,7 +12,7 @@ place: KEN
 <tr><th scope="row">Connectivity</th><td class="num">174</td><td class="num">23</td><td class="num">419</td><td class="num">98</td><td class="num">2,118</td><td class="num">181</td><td class="num total">3,013</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">400</td><td class="num">50</td><td class="num zero"></td><td class="num">3</td><td class="num">153</td><td class="num">2</td><td class="num total">609</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">101</td><td class="num">2</td><td class="num">&lt;1</td><td class="num">33</td><td class="num">246</td><td class="num">48</td><td class="num total">430</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num">107</td><td class="num">8</td><td class="num">7</td><td class="num">23</td><td class="num">195</td><td class="num">18</td><td class="num total">358</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num">106</td><td class="num">5</td><td class="num">3</td><td class="num">22</td><td class="num">195</td><td class="num">18</td><td class="num total">350</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">3</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">77</td><td class="num">123</td><td class="num">139</td><td class="num total">343</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">82</td><td class="num">5</td><td class="num zero"></td><td class="num">9</td><td class="num">31</td><td class="num">8</td><td class="num total">135</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">31</td><td class="num zero"></td><td class="num">65</td><td class="num">5</td><td class="num">6</td><td class="num zero"></td><td class="num total">108</td></tr>
@@ -36,10 +36,10 @@ place: KEN
 <tr><th scope="row">Research institutions</th><td class="num">1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">1,055</td><td class="num">152</td><td class="num">540</td><td class="num">341</td><td class="num">2,962</td><td class="num">482</td><td class="num total">5,532</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">1,054</td><td class="num">150</td><td class="num">536</td><td class="num">341</td><td class="num">2,962</td><td class="num">482</td><td class="num total">5,524</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/KEN/all-finance.html">Full table &mdash; 530 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/KEN/all-finance.html">Full table &mdash; 511 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/KEN/KEN-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -80,7 +80,7 @@ place: KEN
 <tbody>
 <tr><th scope="row">Connectivity</th><td class="num">174</td><td class="num">23</td><td class="num">419</td><td class="num">12</td><td class="num">2,100</td><td class="num">143</td><td class="num total">2,871</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">400</td><td class="num">50</td><td class="num zero"></td><td class="num zero"></td><td class="num">147</td><td class="num zero"></td><td class="num total">597</td></tr>
-<tr><th scope="row">Sectoral management information systems</th><td class="num">107</td><td class="num">8</td><td class="num">7</td><td class="num">8</td><td class="num">175</td><td class="num zero"></td><td class="num total">304</td></tr>
+<tr><th scope="row">Sectoral management information systems</th><td class="num">106</td><td class="num">5</td><td class="num">3</td><td class="num">7</td><td class="num">175</td><td class="num zero"></td><td class="num total">296</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">101</td><td class="num">2</td><td class="num">&lt;1</td><td class="num">1</td><td class="num">185</td><td class="num zero"></td><td class="num total">290</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">31</td><td class="num zero"></td><td class="num">65</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">96</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">44</td><td class="num">&lt;1</td><td class="num">12</td><td class="num">1</td><td class="num">20</td><td class="num">14</td><td class="num total">91</td></tr>
@@ -105,10 +105,10 @@ place: KEN
 <tr><th scope="row">Open data</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Data Exchange</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">1,055</td><td class="num">152</td><td class="num">540</td><td class="num">75</td><td class="num">2,630</td><td class="num">164</td><td class="num total">4,616</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">1,054</td><td class="num">150</td><td class="num">536</td><td class="num">74</td><td class="num">2,630</td><td class="num">164</td><td class="num total">4,608</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/KEN/finance.html">Full table &mdash; 372 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/KEN/finance.html">Full table &mdash; 353 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/KEN/KEN-nonstate.csv" download>&darr; Download CSV</a>
 </div>

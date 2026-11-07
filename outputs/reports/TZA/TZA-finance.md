@@ -1,6 +1,6 @@
 ---
 title: Tanzania: finance
-compiled: 2026-11-06
+compiled: 2026-11-07
 place: TZA
 ---
 
@@ -38,7 +38,7 @@ place: TZA
 <tfoot><tr><th scope="row">All topics</th><td class="num">625</td><td class="num">118</td><td class="num">30</td><td class="num">213</td><td class="num">241</td><td class="num">516</td><td class="num total">1,742</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/TZA/all-finance.html">Full table &mdash; 692 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/TZA/all-finance.html">Full table &mdash; 691 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/TZA/TZA-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -100,10 +100,10 @@ place: TZA
 <tr><th scope="row">Public debate and participation in policymaking</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">625</td><td class="num">118</td><td class="num">30</td><td class="num">62</td><td class="num">104</td><td class="num">358</td><td class="num total">1,296</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">625</td><td class="num">118</td><td class="num">30</td><td class="num">62</td><td class="num">104</td><td class="num">358</td><td class="num total">1,297</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/TZA/finance.html">Full table &mdash; 296 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/TZA/finance.html">Full table &mdash; 295 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/TZA/TZA-nonstate.csv" download>&darr; Download CSV</a>
 </div>
