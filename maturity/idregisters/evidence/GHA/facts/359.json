@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-15-gha-nia-registers-190-000-persons-within-first-half-of-2025",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Minister Muntaka said NIA registration enabled integration with the Ghana Revenue Authority, the National Health Insurance Scheme and SSNIT.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Ghana Card",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana Card",
+   "class": "other",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

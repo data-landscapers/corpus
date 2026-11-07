@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-01-mwi-12-3-million-register-for-id-cards",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Nation Online reports that the elections act makes the NRB-issued national ID the sole identification document for registering as a voter, so the voter register is keyed on it.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "National Registration Bureau national ID",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

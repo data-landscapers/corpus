@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-sle-communication-minister-explores-nib-s-new-online-business-re",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "SierraLoaded reports the National Investment Board is working with NCRA to integrate the National Identification Number into the business registration process.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "Online Business Registration System (OBRS)",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
