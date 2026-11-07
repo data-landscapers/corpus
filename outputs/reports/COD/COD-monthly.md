@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-07
+period: 2026-10-01 to 2026-11-07
 place: COD
-ledger_rows: 41
+ledger_rows: 42
 not_held: 6
-record: ddbb3a713d6d
+record: 42d51226dedf
 ---
 
 # News, Oct – Nov 2026
@@ -243,6 +243,20 @@ The digital-economy ministers of the Central African Republic and DR Congo agree
 **[Sud-Kivu : la société civile exige la réouverture des réseaux de télécommunications coupés depuis 3 mois](https://congorassure.com/societe/2026/10/13/sud-kivu-la-societe-civile-exige-la-reouverture-des-reseaux-de)** — CongoRassure, 13 October 2026
 
 Civil society in Fizi territory and Baraka, South Kivu, published a memorandum to the President demanding the reopening of telecommunications networks it says have been cut since 3 July 2026. It alleges that soldiers seized satellite kits and phones and that local authorities resold satellite Wi-Fi, and announces a sit-in from 19 October.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile market, regulator's quarterly observatory</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Télécoms : Kinshasa concentre plus de 19 millions d’abonnements mobiles actifs - ACP](https://acp.cd/economie/telecoms-kinshasa-concentre-plus-de-19-millions-dabonnements-mobiles-actifs/)** — Agence Congolaise de Presse (ACP), 4 November 2026
+
+ARPTC Q2 2026: 77m subscriptions, 68.6% penetration, USD 665.6m revenue; Kinshasa a quarter of activity.
 
 </div>
 
