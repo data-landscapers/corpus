@@ -1,0 +1,23 @@
+{
+ "slug": "2026-01-01-caf-dossier-special-mpa-sante-emploi-suite",
+ "facts": [],
+ "systems": [
+  {
+   "system": "OpenLMIS",
+   "country_label": "OpenLMIS",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  },
+  {
+   "system": "DHIS2",
+   "country_label": "DHIS2",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "Interoperability between DHIS2, OpenLMIS and others is stated only as a priority and prospect; no exchange in service or being built."
+}

@@ -1,0 +1,52 @@
+{
+ "slug": "2026-09-30-ner-connecting-niger-s-health-information-systems",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "OpenFn says two automated workflows, STELab laboratory results to DHIS2 and CommCare/eCHIS community health data to DHIS2, are complete and operational on a Ministry of Public Health server in Niamey.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "OpenFn (Data.FI)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "breadth",
+   "value": "wide",
+   "fact": "OpenFn says STELab, CommCare/eCHIS and DHIS2, three health systems, now exchange data through the Ministry's first national interoperability layer, with OpenClinic planned for a later phase.",
+   "as_of": "2026-09-30",
+   "date_precision": "day",
+   "system": "OpenFn (Data.FI)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "STELab",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Public Health",
+   "tiers": ""
+  },
+  {
+   "system": "CommCare/eCHIS",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "CommCare",
+   "owner": "Ministry of Public Health",
+   "tiers": ""
+  },
+  {
+   "system": "DHIS2",
+   "country_label": "Niger",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "Ministry of Public Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

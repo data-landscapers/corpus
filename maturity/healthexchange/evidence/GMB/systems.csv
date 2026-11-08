@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 GMB,Health Management Information System (HMIS),Gambia,exchange,,Ministry of Health,,2026-07-01-mobse-health-ministry-data-systems
 GMB,Health insurance system,The Gambia,other,,,,2025-11-29-worldbank-gambia-rise-project-isr05520
+GMB,WAHO automated routine health data sharing (DHIS2),Gambia,exchange,DHIS2,WAHO,,2026-03-08-tgo-waho-initie-la-mise-en-uvre-du-partage-automatise-des-donnees-de-sante

@@ -1,0 +1,15 @@
+{
+ "slug": "2024-06-12-cmr-minsante-l-architecture-de-la-sante-numerique-se-dessine",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DHIS2-BUNEC birth and death transmission",
+   "country_label": "Cameroun",
+   "class": "other",
+   "platform": "DHIS2",
+   "owner": "MINSANTE",
+   "tiers": ""
+  }
+ ],
+ "note": "Architecture and plans only; the DHIS2-BUNEC link is to the civil register, not between two health systems, and the patient index is yet to be chosen."
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "exchange",
-      "stage": "no evidence",
-      "exchange": "",
+      "stage": "2",
+      "exchange": "underway",
       "breadth": "",
       "identifier": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found names health systems exchanging data, or says there is none.",
-      "note": "No row on health systems exchanging data was found for this country, and none says there is no exchange, so no stage is set.",
-      "as_at": "2026-11-05"
+      "stage_sources": "LBR-001",
+      "gaps": "No source found says two health systems exchange data in routine use, or that patient records are linked by a national identifier.",
+      "note": "Fact 2026-03: Liberia is one of four WAHO pilot countries for automated transfer of routine data from the national DHIS2 (LBR-001): an exchange piloted, 2. No exchange in routine use is reported, so not 3.",
+      "as_at": "2026-11-08"
     }
   ]
 }

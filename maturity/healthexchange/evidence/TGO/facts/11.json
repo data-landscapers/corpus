@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-08-tgo-waho-initie-la-mise-en-uvre-du-partage-automatise-des-donnees-de-sante",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "Atlantic Infos reports that WAHO opened a five-day regional workshop in Cotonou to pilot automated transfer of routine health data from national DHIS2 systems, with Togo one of four pilot countries.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "WAHO automated routine health data sharing (DHIS2)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WAHO automated routine health data sharing (DHIS2)",
+   "country_label": "Togo",
+   "class": "exchange",
+   "platform": "DHIS2",
+   "owner": "WAHO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -10,3 +10,6 @@ NER,DHIS2,Niger,other,DHIS2,,,2025-09-04-openhexa-niger-interoperabilite-sante
 NER,OpenIMIS,Niger,other,OpenIMIS,,,2025-09-04-openhexa-niger-interoperabilite-sante
 NER,OpenClinic,Niger,other,OpenClinic,,,2025-09-04-openhexa-niger-interoperabilite-sante
 NER,SNIS,Niger,other,,,,2025-09-04-openhexa-niger-interoperabilite-sante
+NER,STELab,Niger,other,,Ministry of Public Health,,2026-09-30-ner-connecting-niger-s-health-information-systems
+NER,CommCare/eCHIS,Niger,other,CommCare,Ministry of Public Health,,2026-09-30-ner-connecting-niger-s-health-information-systems
+NER,DHIS2,Niger,other,DHIS2,Ministry of Public Health,,2026-09-30-ner-connecting-niger-s-health-information-systems

@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 CMR,"Pandemic Fund Cameroon pandemic prevention, preparedness and response project (national health information systems interoperability)",Cameroon,exchange,,Ministry of Public Health,,2026-08-01-pandemic-fund-cmr-2026-record
 CMR,plateforme nationale d'interoperabilite,Cameroon,exchange,"OpenHIM, OpenFn",Ministry of Public Health,,2026-11-03-cmr-sant-num-rique-le-cameroun-acc-l-re-l-interconnexion-de-ses-syst-mes-d
+CMR,DHIS2-BUNEC birth and death transmission,Cameroun,other,DHIS2,MINSANTE,,2024-06-12-cmr-minsante-l-architecture-de-la-sante-numerique-se-dessine

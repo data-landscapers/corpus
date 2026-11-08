@@ -23,10 +23,10 @@ Africa CDC's health information exchange guidelines and Smart Africa's digital h
 | 5 Leading | 1 |
 | 4 Operating | 8 |
 | 3 Established | 13 |
-| 2 Nascent | 22 |
+| 2 Nascent | 23 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
-| No evidence | 8 |
+| No evidence | 7 |
 
 ## Countries
 
@@ -252,6 +252,12 @@ A hospital system able to link with DHIS2 ran in five facilities in 2026; data e
 - A Ministry of Health and Public Hygiene mission of 17-22 August 2026 reported that the OpenClinic hospital information system, deployed in five health facilities of Mamou and Dalaba (Dalaba prefectural hospital from January 2026) with Enabel's SAFE project, offers interoperability with the national DHIS2, while paper reporting to the SNIS continues in parallel ([source, 2026-08](https://lepandaguinee.com/2026/08/26/guinee-a-mamou-et-dalaba-le-pari-de-la-reforme-sanitaire-prend-une-nouvelle-dimension/)).
 - A workshop of 25-28 November 2025 in Conakry, run by Terre des Hommes with the Ministry of Health and Public Hygiene and funded by Enabel via Wehubit, transferred skills on interoperability of health information systems, with a consultant mapping the sector's digital tools and aggregated individual data to feed the SNIS ([source, 2025-11-25](https://guineenews.org/2025/11/27/interoperabilite-tenue-dun-atelier-cle-pour-la-modernisation-du-systeme-dinformation-sanitaire-en-guinee)).
 
+### Liberia: 2 Nascent
+
+Liberia joined a regional pilot in 2026 to send routine health data automatically from its DHIS2; no exchange in routine use is reported.
+
+- Atlantic Infos reports that WAHO opened a five-day regional workshop in Cotonou to pilot automated transfer of routine health data from national DHIS2 systems, with Liberia one of four pilot countries ([source, 2026-03](https://atlanticinfos.tg/2026/03/08/benin-waho-initie-la-mise-en-oeuvre-du-partage-automatise-des-donnees-de-sante-de-routine-phase-1/)).
+
 ### Madagascar: 2 Nascent
 
 A health-financing platform announced a link with DHIS2 in 2025; no data passing between them in routine use is reported.
@@ -352,12 +358,6 @@ Nothing found names health systems exchanging data or says there is none, so no 
 Not established: Nothing found names health systems exchanging data, or says there is none.
 
 ### Eritrea: No evidence
-
-Nothing found names health systems exchanging data or says there is none, so no stage is set.
-
-Not established: Nothing found names health systems exchanging data, or says there is none.
-
-### Liberia: No evidence
 
 Nothing found names health systems exchanging data or says there is none, so no stage is set.
 

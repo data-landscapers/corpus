@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-GMB,exchange,exchange,coverage,underway,2026-07,GMB-001,GMB-002=none,
+GMB,exchange,exchange,coverage,underway,2026-07,GMB-001;GMB-003,GMB-002=none,
 GMB,exchange,breadth,coverage,,,,,nothing found
 GMB,exchange,identifier,coverage,,,,,nothing found
