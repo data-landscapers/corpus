@@ -6,8 +6,8 @@
 
 **Biometric checks.** Enrolment captures demographic and biometric data. The World Bank paper says [numbers are generated only after biometric and demographic validation and de-duplication](<https://www.biometricupdate.com/202611/nigeria-seeks-digital-id-project-extension-to-roll-out-mosip-based-infrastructure>). TechCabal [described the same checks against the national database in September 2026](<https://techcabal.com/2026/09/07/nigeria-needs-62-5-million-nins-in-six-months-to-meet-target/>).
 
-**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://techcabal.com/2026/09/07/nigeria-needs-62-5-million-nins-in-six-months-to-meet-target/>).
+**Security certified or audited.** In December 2025 NIMC [said it had held ISO 27001 certification since 2014](<https://techcabal.com/2025/12/10/inside-nigerias-83m-bet-on-mosip-for-its-national-id/>). It said the certificate had been upgraded to the 2022 version of the standard.
 
 ***Also on file***. [CoopID / Cooperative Verification Number](<https://www.nationalaccordnewspaper.com/fg-signs-mou-for-national-cooperative-digital-id-begins-6-month-revalidation/>); [NINAuth](<https://www.arise.tv/nimc-intensifies-ward-level-nin-enrolment-nationwide/>).
 
-***Not found***. No source found since October 2023 reports a certification, audit or assurance level for the system.
+***Not found***. Nothing further is asked of this indicator.

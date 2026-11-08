@@ -4,10 +4,10 @@
 
 **National ID in service.** [Semlex says its subsidiary opened a third biometric ID enrolment centre in Cacheu region (Sao Domingos) on 26 February 2026, with more planned at Bolama and Bula](<https://www.semlex.com/2026/03/09/inauguration-du-centre-denrolement-de-sao-domingos/>). [Semlex says Guinea-Bissau has 18 production centres for biometric national ID cards nationwide, the newest at Safim opened 30 January 2026 with capacity of 100 cards a day](<https://www.semlex.com/en/2026/02/11/semlex-guinee-bissau-renforce-lacces-a-lidentification-biometrique>). [Smile ID says the national ID card, issued by the National Police Directorate under the Ministry of Security and Civil Protection, is the primary KYC document in Guinea-Bissau](<https://usesmileid.com/countries/Guinea-Bissau>).
 
-**Biometric checks.** No source found since October 2023 says the system checks people by biometrics. The nearest held fact: [the one given above](<https://www.semlex.com/2026/03/09/inauguration-du-centre-denrolement-de-sao-domingos/>).
+**Biometric checks.** Semlex, which runs enrolment, said in July 2024 that [the card system rests on biometric enrolment and a deduplication system](<https://www.semlex.com/en/2024/07/01/nouveau-centre-denrolement-a-bissau/>). That system assigns each citizen a unique identity number. Cards were then delivered within 48 hours in Bissau and seven days elsewhere.
 
-**Security certified or audited.** No source found since October 2023 reports a certification, audit or assurance level for the system. The nearest held fact: [the one given above](<https://www.semlex.com/2026/03/09/inauguration-du-centre-denrolement-de-sao-domingos/>).
+**Security certified or audited.** No certification, audit or assurance level has been reported for the system. The nearest held fact is [Semlex's account of enrolment and deduplication in July 2024](<https://www.semlex.com/en/2024/07/01/nouveau-centre-denrolement-a-bissau/>).
 
 ***Also on file***. [ECOWAS National Biometric Identity Card (ENBIC)](<https://www.ecowas.int/ecowas-supports-over-260-women-with-the-issuance-of-ecowas-national-biometric-cards-enbic-at-the-border-communities-of-sao-domingos-guinea-bissau-and-mpack-senegal/>); [ECOWAS ID](<https://usesmileid.com/countries/Guinea-Bissau>); [Civil registry digitisation platform](<https://www.undp.org/guinea-bissau/projects/building-national-identification-system-supporting-ministry-justice-scanning-and-digitizing-civil-registry-books-guinea-bissau>).
 
-***Not found***. No source found since October 2023 says the system checks people by biometrics.
+***Not found***. No source found since October 2023 reports a certification, audit or assurance level for the system.

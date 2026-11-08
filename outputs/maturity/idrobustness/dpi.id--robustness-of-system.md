@@ -20,9 +20,9 @@ The African Union's interoperability framework asks that a national ID system ha
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
-| 4 Operating | 13 |
-| 3 Established | 38 |
+| 5 Leading | 3 |
+| 4 Operating | 14 |
+| 3 Established | 36 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -35,6 +35,14 @@ The African Union's interoperability framework asks that a national ID system ha
 The national ID system's security was certified or audited in 2026.
 
 - The Digital Identity Management System for Citizens has a Level 3 identity based on biometric data, described as the highest level of digital verification ([source, 2026-04](https://www.gia.gov.ly/en/2026/04/19/general-information-authority-central-bank-of-libya-national-authority-for-combating-money-laundering-with-the-relevant-authorities/)).
+
+### Nigeria: 5 Leading
+
+The national ID system's security was certified or audited in 2025.
+
+- NIMC says it has held ISO 27001 certification since 2014, now upgraded to the 2022 standard ([source, 2025-12-10](https://techcabal.com/2025/12/10/inside-nigerias-83m-bet-on-mosip-for-its-national-id/)).
+- The World Bank paper says the 121 million NINs were generated following biometric and demographic validation and de-duplication ([source, 2026-09-14](https://www.biometricupdate.com/202611/nigeria-seeks-digital-id-project-extension-to-roll-out-mosip-based-infrastructure)).
+- A World Bank restructuring paper records about 121 million NINs successfully generated as of 14 September 2026, out of about 145 million enrolments ([source, 2026-09-14](https://www.biometricupdate.com/202611/nigeria-seeks-digital-id-project-extension-to-roll-out-mosip-based-infrastructure)).
 
 ### Sudan: 5 Leading
 
@@ -61,11 +69,25 @@ The national ID system checked people by biometrics in 2026; no certification or
 
 - Fingerprints, iris and photograph are captured and automatically compared with the database, which has detected duplicates and people using a dead person's identity, says the head of the NNI service ([source, 2026-07-23](https://www.lanation.dj/carte-nationale-didentite-biometrique-dans-les-coulisses-de-la-nouvelle-identite-nationale/)).
 
+### Ethiopia: 4 Operating
+
+The national ID system checked people by biometrics in 2025; no certification or audit is known.
+
+- The national ID programme says Fayda collects iris, ten fingerprints and face data to identify each person uniquely, and biometrics are mandatory for registrants over five ([source, 2025-03-24](https://www.bbc.com/amharic/articles/c204dl15p96o)).
+- The national ID programme says Fayda, approved in law in March 2023 and applied officially since, gives each registrant a unique 12-digit number, on the 'one person, one ID' principle ([source, 2025-03-24](https://www.bbc.com/amharic/articles/c204dl15p96o)).
+
 ### Gambia: 4 Operating
 
 The national ID system checked people by biometrics in 2026; no certification or audit is known.
 
 - The government says the system combines a national identity register with biometric technology to reduce duplicate identities and fraud ([source, 2026-08-28](https://foroyaa.net/gambians-welcome-biometric-id-rollout/)).
+
+### Guinea-Bissau: 4 Operating
+
+The national ID system checked people by biometrics in 2024; no certification or audit is known.
+
+- Semlex says the identity card system is based on biometric enrolment and a deduplication system that assigns a unique identity number ([source, 2024-07-01](https://www.semlex.com/en/2024/07/01/nouveau-centre-denrolement-a-bissau/)).
+- Semlex says Guinea-Bissau's identity card system issues a unique identity number to each citizen through biometric enrolment, with cards delivered in 48 hours in the capital and 7 days elsewhere ([source, 2024-07-01](https://www.semlex.com/en/2024/07/01/nouveau-centre-denrolement-a-bissau/)).
 
 ### Madagascar: 4 Operating
 
@@ -79,12 +101,6 @@ The national ID system checked people by biometrics in 2026; no certification or
 The national ID system checked people by biometrics in 2025; no certification or audit is known.
 
 - iDAKTO says the system uses server-side 1:N biometric matching for proofing and native device biometrics for 1:1 verification ([source, 2025-09-24](https://www.biometricupdate.com/202509/idakto-cso-explains-moroccos-move-to-prioritize-digital-id-after-cyberattacks)).
-
-### Nigeria: 4 Operating
-
-The national ID system checked people by biometrics in 2026; no certification or audit is known.
-
-- TechCabal reports that enrolment captures demographic and biometric data and that issuance follows processing, validation and deduplication against the national database, as explained by two commentators ([source, 2026-09-07](https://techcabal.com/2026/09/07/nigeria-needs-62-5-million-nins-in-six-months-to-meet-target/)).
 
 ### Sierra Leone: 4 Operating
 
@@ -226,13 +242,6 @@ The national ID system was issuing unique numbers in 2026; no source found repor
 - The Ministry of Home Affairs says national ID card production and issuance are taking place at ten service centres ([source, 2026-02-23](https://times.co.sz/31079/news/id-card-services-resume-in-boost-for-citizens/)).
 - The Ministry of Home Affairs says production of national ID cards has resumed and services are available at ten government service centres ([source, 2026-02-22](https://independentnews.co.sz/41508/news/home-affairs-resumes-id-card-production/)).
 
-### Ethiopia: 3 Established
-
-The national ID system was issuing unique numbers in 2026; no source found reports biometric checks.
-
-- Fayda, launched at scale in 2023, has recorded more than 52 million registrations and over 208 million eKYC verifications as of 9 October 2026 ([source, 2026-10-09](https://www.biometricupdate.com/202610/ethiopia-launches-developer-sandbox-to-support-fayda-digital-id-innovation-integration)).
-- Fayda has registered more than 51 million citizens, issued nearly 14 million printed cards and integrated about 150 institutions, each person assigned a unique identification number (Addis Fortune) ([source, 2026-10-03](https://addisfortune.news/banks-baulk-at-a-bill-from-public-id-that-turns-commercial)).
-
 ### Gabon: 3 Established
 
 The national ID system was issuing unique numbers in 2026; no source found reports biometric checks.
@@ -253,13 +262,6 @@ The national ID system was issuing unique numbers in 2026; no source found repor
 
 - Enrolment centres of the biometric civil status reform are operating in Guinea, with MGG as the state's technical partner, and users are being enrolled for biometric documents, which the authorities announced as free, per MGG ([source, 2026-07](https://www.infosbruts.com/etat-civil-biometrique-en-guinee-mgg-denonce-des-pratiques-de-racket-et-appelle-a-une-reaction-des-autorites/)).
 - ID Tech Wire reports that biometric national ID card enrolment, free for first-time applicants aged 16 and over, began in Sanoyah commune on MOSIP and TECH5 infrastructure ([source, 2026-03-02](https://idtechwire.com/guinea-launches-biometric-birth-certificates-in-sanoyah-in-civil-registry-modernization-push)).
-
-### Guinea-Bissau: 3 Established
-
-The national ID system was issuing unique numbers in 2026; no source found reports biometric checks.
-
-- Semlex says its subsidiary opened a third biometric ID enrolment centre in Cacheu region (Sao Domingos) on 26 February 2026, with more planned at Bolama and Bula ([source, 2026-02-26](https://www.semlex.com/2026/03/09/inauguration-du-centre-denrolement-de-sao-domingos/)).
-- Semlex says Guinea-Bissau has 18 production centres for biometric national ID cards nationwide, the newest at Safim opened 30 January 2026 with capacity of 100 cards a day ([source, 2026-01-30](https://www.semlex.com/en/2026/02/11/semlex-guinee-bissau-renforce-lacces-a-lidentification-biometrique)).
 
 ### Kenya: 3 Established
 

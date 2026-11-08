@@ -43,3 +43,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-23,MUS,dpi.id--robustness-of-system,fact,3,3,MUS-005;MUS-004,"Housekeeping 32: the held fact of a minister saying an independent audit of the Mobile ID was conducted ruled out, not a published audit; stage 3 held"
 2026-11-01,COG,dpi.id--robustness-of-system,fact,3,4,COG-006;COG-005,"Finance ministry, October 2025: NIU enrolment takes iris and fingerprints in person to limit duplicates; a biometric check inside the window, 3 to 4"
 2026-11-04,GIN,dpi.id--robustness-of-system,fact,3,3,GIN-001;GIN-003,"Enrolment kits said to guarantee uniqueness (April 2025), stated on delivery; no deduplication shown; stays 3"
+2026-11-08,NGA,dpi.id--robustness-of-system,fact,4,5,NGA-031;NGA-023;NGA-022,"NIMC, December 2025: ISO 27001 certification held since 2014, upgraded to the 2022 standard; a security certification inside the window, 4 to 5"
+2026-11-08,GNB,dpi.id--robustness-of-system,fact,3,4,GNB-007;GNB-006,"Semlex, July 2024: the identity card system assigns unique numbers through biometric enrolment and a deduplication system; 3 to 4"
+2026-11-08,ETH,dpi.id--robustness-of-system,fact,3,4,ETH-030;ETH-029,"National ID programme, March 2025: Fayda takes iris, fingerprints and face to identify each person uniquely, one person one ID; 3 to 4"
+2026-11-08,MWI,dpi.id--robustness-of-system,fact,3,3,MWI-003;MWI-004,"World Bank, February 2025: an under-capacity ABIS used for authentication and fraud prevention; no deduplication of enrolment shown, stays 3"

@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MWI-003;MWI-004",
-      "gaps": "No source found since October 2023 says the system checks people by biometrics.",
-      "note": "First pass: counted from the four questions by study-ladder-idrobustness.py.",
-      "as_at": "2026-10-17"
+      "gaps": "No source found since October 2023 says the system checks fingerprints, face or iris to stop one person enrolling twice; the World Bank's 2025 note of an ABIS for authentication and fraud prevention does not say it deduplicates enrolment.",
+      "note": "Stage 3: the system issues national IDs and captures fingerprints and faces. The 2025 World Bank account of an under-capacity ABIS used for authentication and fraud prevention does not show enrolments checked for duplicates, so stage 4 is not met.",
+      "as_at": "2026-11-08"
     }
   ]
 }

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "robustness",
-      "stage": "4",
+      "stage": "5",
       "system": "inservice",
       "biometric": "checked",
-      "assurance": "",
+      "assurance": "certified",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-004",
-      "gaps": "No source found since October 2023 reports a certification, audit or assurance level for the system.",
-      "note": "First pass: counted from the four questions by study-ladder-idrobustness.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "NGA-031;NGA-023;NGA-022",
+      "gaps": "",
+      "note": "Stage 5: in December 2025 NIMC said it has held ISO 27001 certification since 2014, upgraded to the 2022 standard, a security certification reported inside the three years. Numbers are issued after biometric de-duplication, so every rung below is met.",
+      "as_at": "2026-11-08"
     }
   ]
 }
