@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-egy-social-registry-13m-households-27-databases",
+ "facts": [
+  {
+   "sub_indicator": "socialmis",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Takaful and Karama, the conditional cash transfer programme, runs on an integrated software system that verifies applicants' socio-economic data, per the Ministry of Social Solidarity's Raafat Shafik.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "Takaful and Karama",
+   "class": "socialmis"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

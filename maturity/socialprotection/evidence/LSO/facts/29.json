@@ -1,0 +1,15 @@
+{
+ "slug": "2024-04-23-lso-eoi-lesotho-nissa-systems-development-enhancement-consultancy",
+ "facts": [],
+ "systems": [
+  {
+   "system": "NISSA/MISSA",
+   "country_label": "Lesotho",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Gender, Youth and Social Development",
+   "tiers": ""
+  }
+ ],
+ "note": "NISSA is a social registry, not a programme management information system; no programme system, payments or several-programme use is stated."
+}
