@@ -1,11 +1,11 @@
 ---
 title: Namibia — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 place: NAM
 ledger_rows: 15
 not_held: 9
-record: b3885ede8bd6
+record: 05e062f0a1c4
 ---
 
 # News, Oct – Nov 2026
@@ -205,6 +205,14 @@ Namibia's home affairs minister, Lucia Iipumbu, told the National Assembly that 
 **[Audit finds N$28.8m in duplicate child grant payments](https://www.namibian.com.na/audit-finds-n28-8m-in-duplicate-child-grant-payments/)** — The Namibian, 13 October 2026
 
 Namibia's Auditor-General found that the ministry responsible for child grants kept paying 32,890 beneficiaries aged 19 to 21, at N$250m a year, in 2024/25, reported on 13 October 2026. The audit also found 3,350 duplicate child records, with N$28.8m paid twice, and more than N$43m paid to deceased recipients, nearly 4,000 of them over two months after their deaths were registered.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[N$44m paid to 'ghost' grant beneficiaries](https://neweralive.na/n44m-paid-to-ghost-grant-beneficiaries/)** — New Era, 15 October 2026
+
+FY2024/25 audit: 8,099 of 488,753 grant beneficiaries unmatched to the population register; N$43.83m paid to 3,922 dead.
 
 </div>
 
