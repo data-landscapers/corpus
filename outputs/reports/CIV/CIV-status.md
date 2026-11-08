@@ -1,12 +1,12 @@
 ---
 title: Cote d'Ivoire: status report
-compiled: 2026-11-07
+compiled: 2026-11-08
 place: CIV
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 13
-sources_cited: 280
+sources_cited: 281
 sections_written: 39
 not_established: 0
 acquire_lines: 59
@@ -177,7 +177,7 @@ In July 2026 the responsible minister said [the first services put onto the plat
 ### Digital Identity and CRVS
 <!-- dpi.id -->
 
-[The IIAG measure of Ivorians' perception of access to identity documents fell 25.1 points over 2014-2023 to 33.2 out of 100, 27th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ci.pdf). [It is the country's single most deteriorated governance indicator](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ci.pdf). [The biometric card is compulsory for citizens aged 16 and above, and identity certificates may be issued to children between 5 and 15](https://cipit.strathmore.edu/wp-content/uploads/2021/04/InclusionExclusionWestAfrica.pdf). [A national identification number is assigned at birth through the register of natural persons](https://cipit.strathmore.edu/wp-content/uploads/2021/04/InclusionExclusionWestAfrica.pdf). [The card cost 5,000 FCFA, about US$8.40, against a poverty rate of 46%](https://id4d.worldbank.org/sites/default/files/2018-04/Cote%20d'Ivoire_ID4D_Diagnostic_Web040618.pdf) (2018). [Supporting documents and transport pushed the real cost well above the fee, and civil society groups campaigned against it as exclusionary](https://id4d.worldbank.org/sites/default/files/2018-04/Cote%20d'Ivoire_ID4D_Diagnostic_Web040618.pdf). [Applicants must first obtain a certificate of nationality from a Court of First Instance](https://id4d.worldbank.org/sites/default/files/2018-04/Cote%20d'Ivoire_ID4D_Diagnostic_Web040618.pdf).
+[The IIAG measure of Ivorians' perception of access to identity documents fell 25.1 points over 2014-2023 to 33.2 out of 100, 27th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ci.pdf). [It is the country's single most deteriorated governance indicator](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ci.pdf). [The biometric card is compulsory for citizens aged 16 and above, and identity certificates may be issued to children between 5 and 15](https://cipit.strathmore.edu/wp-content/uploads/2021/04/InclusionExclusionWestAfrica.pdf). [A national identification number is assigned at birth through the register of natural persons](https://cipit.strathmore.edu/wp-content/uploads/2021/04/InclusionExclusionWestAfrica.pdf). [The card cost 5,000 FCFA, about US$8.40, against a poverty rate of 46%](https://id4d.worldbank.org/sites/default/files/2018-04/Cote%20d'Ivoire_ID4D_Diagnostic_Web040618.pdf) (2018). [Supporting documents and transport pushed the real cost well above the fee, and civil society groups campaigned against it as exclusionary](https://id4d.worldbank.org/sites/default/files/2018-04/Cote%20d'Ivoire_ID4D_Diagnostic_Web040618.pdf). [Applicants must first obtain a certificate of nationality from a Court of First Instance](https://id4d.worldbank.org/sites/default/files/2018-04/Cote%20d'Ivoire_ID4D_Diagnostic_Web040618.pdf). [In 2025 a pilot of the open-source MOSIP identity platform migrated 10,000 records from the national insurance system](https://www.mosip.io/pdf/MOSIP-Rewind-2025.pdf).
 
 [The register was created by decree in 2018 and is managed by ONECI](https://civlii.laws.africa/en/akn/ci/act/decree/2018/454/fra@2023-10-13). [It serves as the reference database for other government systems, with nationwide enrolment still under way](https://civlii.laws.africa/en/akn/ci/act/decree/2018/454/fra@2023-10-13). [ONECI reported 9,323,415 national identification numbers assigned in 2025, 1,291,891 of them through civil registration](https://www.koaci.com/article/2026/02/10/cote-divoire/societe/cote-divoire-le-delai-de-delivrance-de-la-carte-nationale-didentite-ramene-a-moins-de-deux-semaines-perspectives-de-la-structure-pour-2026_194217.html). There is [no single law covering the digital identity lifecycle](https://cipit.strathmore.edu/wp-content/uploads/2021/04/InclusionExclusionWestAfrica.pdf). Interconnection of personal data files falls under [the general 2013 data protection law, which requires it to respect the principle of relevance and use appropriate security measures](https://dataprotection.africa/cote-divoire/).
 
