@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-01-mdg-elections-la-digitalisation-de-la-liste-electorale-reste-en-suspens",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "none",
+   "fact": "L'Express de Madagascar reports that the August 2026 overhaul of the voters' roll will rely mainly on paper voter information forms with tablets in only a few centres, and an electoral agent says no digitalisation is planned.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "refonte de la liste électorale",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "liste électorale",
+   "country_label": "Voters' roll (CENI overhaul 2026)",
+   "class": "electoral",
+   "platform": "paper forms; limited tablets",
+   "owner": "CENI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

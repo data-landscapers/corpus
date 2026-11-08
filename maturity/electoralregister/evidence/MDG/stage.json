@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MDG-003;MDG-002",
-      "gaps": "No source since October 2023 says a digital or biometric roll is in service; the 2026 overhaul collects voter data mainly on paper (MDG-004).",
-      "note": "Reassessed under Bill's ruling of 2026-11-04 (messages-for-bill 73: procurement answers question 1, even with no evidence of installation): Ceni received equipment for a biometric list in October 2026 under a UNDP tender (MDG-003), so a digital roll is under way although the current overhaul is on paper (MDG-004). Stage 2.",
-      "as_at": "2026-11-04"
+      "gaps": "No source since October 2023 says a digital or biometric roll is in service; the 2026 overhaul collects voter data mainly on paper (MDG-004), and an electoral agent said in August 2026 that no digitalisation was planned for it (MDG-005).",
+      "note": "Stage 4c 2026-11-08: a second report of the paper-based August 2026 overhaul (MDG-005) changes nothing under Bill's ruling of 2026-11-04 (messages-for-bill 73): Ceni received equipment for a biometric list in October 2026 (MDG-003), so a digital roll is under way and the manual roll does not block it. Stage 2.",
+      "as_at": "2026-11-08"
     }
   ]
 }

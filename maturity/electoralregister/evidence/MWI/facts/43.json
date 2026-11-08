@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-18-mwi-malawi-distributes-3m-national-id-cards-printed-in-country",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "underway",
+   "fact": "Biometric Update reports that a national biometric voter registration exercise was in its final phase and ended on 11 December 2024, with the NRB promising an ID number within 24 hours of registration to applicants taking part.",
+   "as_of": "2024-12-11",
+   "date_precision": "day",
+   "system": "national biometric voter registration exercise",
+   "class": "electoral"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

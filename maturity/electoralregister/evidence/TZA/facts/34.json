@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-24-tza-tanzania-s-inec-faces-integrity-questions-amid-contradictions-on-voter",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "INEC said in March 2025 it runs a Biometric Voter Registration Kit, now Android-based, feeding the Permanent Voter Register.",
+   "as_of": "2025-03-05",
+   "date_precision": "day",
+   "system": "Permanent Voter Register / BVR Kit",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "INEC's head of ICT said in March 2025 that voter registration is integrated with the NIDA database, so a voter's details are retrieved from NIDA by ID number; INEC on 23 August 2025 denied any integration with other systems for electoral purposes.",
+   "as_of": "2025-03-05",
+   "date_precision": "day",
+   "system": "Permanent Voter Register / NIDA",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Permanent Voter Register",
+   "country_label": "Tanzania",
+   "class": "electoral",
+   "platform": "BVR Kit (Android)",
+   "owner": "INEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

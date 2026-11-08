@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-21-bdi-elections-de-2025-des-zones-d-ombre-autour-de-la-legislation-electoral",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The electoral commission CENI president Prosper Ntahorwamiye announced on 15 October 2024 that anyone enrolling as a voter in the 22-31 October 2024 enrolment must present a valid national identity card.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "CENI voter enrolment",
+   "class": "electoral"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -13,3 +13,5 @@ SWZ,005,linked,linked,removed,An ID card required to register is not a link to t
 SEN,004,checked,open,removed,An outdated 2022 file online that CENA told voters not to rely on is not the roll open for checking
 SOM,002,roll,inservice,removed,The opinion piece does not say the commission registers voters with software; it recommends auditing election software
 MWI,010,linked,linked,removed,An ID card as the sole identification to register is not a link to the register
+BDI,003,linked,linked,removed,An ID card required to register is not a link to the register
+SEN,005,linked,linked,removed,An ID card required to register is not a link to the register

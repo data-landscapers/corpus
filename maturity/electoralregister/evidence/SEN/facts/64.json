@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-01-sen-compte-a-rebours-pour-la-revision-des-listes-electorales",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "Senegal's Directorate General of Elections says the original ECOWAS biometric national ID card is mandatory to enrol on the voters' list or change electoral data during the revision of 1 February to 31 July 2025.",
+   "as_of": "2025-01-24",
+   "date_precision": "day",
+   "system": "Voters' list revision",
+   "class": "electoral"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

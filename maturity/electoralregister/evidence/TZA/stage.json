@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TZA-003;TZA-007;TZA-001",
-      "gaps": "",
-      "note": "Reassessed 2026-11-04, 4 to 5: INEC said in March 2025 that its upgraded registration kits integrate with the NIDA database. A later yes answers the earlier questions.",
-      "as_at": "2026-11-04"
+      "gaps": "INEC denied on 23 August 2025 any integration with other systems for electoral purposes (TZA-009), against its own statements of March 2025 (TZA-003, TZA-009) and the NIN check on online corrections (TZA-007).",
+      "note": "Stage 4c 2026-11-08: INEC's head of ICT said in March 2025 that registration draws on the NIDA database, and INEC denied integration in August 2025; the rung asks only that a source in the window says the roll is checked against the ID register, which TZA-003 and TZA-007 do, so it stays 5 with the denial in gaps.",
+      "as_at": "2026-11-08"
     }
   ]
 }

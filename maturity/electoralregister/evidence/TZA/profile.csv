@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TZA,electoral,roll,coverage,inservice,2025-03,TZA-002;TZA-004;TZA-006,,
+TZA,electoral,roll,coverage,inservice,2025-03,TZA-002;TZA-004;TZA-006;TZA-008,,
 TZA,electoral,checked,coverage,open,2025-07-27,TZA-001;TZA-005,,
-TZA,electoral,linked,coverage,linked,2025-03-06,TZA-003;TZA-007,,
+TZA,electoral,linked,coverage,linked,2025-03-06,TZA-003;TZA-007;TZA-009,,

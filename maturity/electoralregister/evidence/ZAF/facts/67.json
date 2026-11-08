@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-16-zaf-question-nw4926-to-the-minister-of-home-affairs",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The Minister of Home Affairs replied in Parliament that Home Affairs and the Electoral Commission have an electronic interface verifying identity information submitted at voter registration against the National Population Register.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "electoral"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

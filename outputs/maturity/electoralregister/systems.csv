@@ -22,6 +22,7 @@ CMR,fichier electoral national,Cameroon,electoral,"biometric enrolment kits (201
 CMR,centre national de biometrie electorale,Cameroon,electoral,,ELECAM,national,2025-05-08-lejour-elecam-acquires-1000-biometric-enrolment-kits
 CMR,national voter register,Cameroon,electoral,biometric (fingerprints and facial images),ELECAM,,2025-01-31-cameroon-gabon-uganda-biometric-voter-registers-integrity-biometricupdate
 CMR,Elecam online electoral roll (www.elecam.cm),Cameroon,electoral,www.elecam.cm,Elections Cameroon (Elecam),,2025-07-11-cmr-presidentielle-2025-cameroun-le-corps-electoral-convoque-le-fichier-el
+CMR,ELECAM biometric voter register,Cameroon voter register,electoral,AFIS and facial recognition,ELECAM,,2023-11-22-cmr-nidc-cameroon-voters-card-identification-of-citizens-for-electoral-purposes
 COD,fichier électoral (RFE 2022),DRC,electoral,,CENI,,2026-03-15-actualite-non-execution-feuille-route-ceni
 COD,fichier électoral,DRC,electoral,,CENI,,2026-02-19-ceni-transmet-fichier-electoral-onip-actualite
 COD,CENI mobile app,DR Congo,electoral,mobile app,CENI,,2023-12-02-cod-une-application-mobile-mise-a-jour-pour-consulter-les-electeurs
@@ -99,6 +100,7 @@ MAR,MonBV,Morocco,electoral,mobile app,Ministry of Interior,,2026-09-22-mar-moro
 MDG,liste électorale,Madagascar,electoral,,CENI,,2026-07-29-madagascar-ceni-full-electoral-roll-revision-2027
 MDG,liste électorale,Madagascar,electoral,,CENI,,2025-11-17-pmo-pge-r-programme-refondation
 MDG,Fichier electoral (CENI),Madagascar,electoral,alphanumeric,CENI,,2026-10-24-mdg-liste-electorale-biometrique-la-ceni-et-ses-partenaires-preparent-le-t
+MDG,liste électorale,Voters' roll (CENI overhaul 2026),electoral,paper forms; limited tablets,CENI,,2026-08-01-mdg-elections-la-digitalisation-de-la-liste-electorale-reste-en-suspens
 MLI,Elector mobile,Mali,electoral,mobile software,AIGE,,2026-02-04-mali-aige-formation-elector-mobile
 MLI,www.ralemali.ml,Mali,other,online transfer platform,Ministere de l'Administration territoriale et de la Decentralisation,,2025-09-19-mali-revision-annuelle-listes-electorales-2025
 MLI,Fichier electoral (RALE 2026),Mali,electoral,biometric civil-status database,"Ministry of Territorial Administration and Decentralisation, AIGE supervising",,2026-10-06-mli-fichier-electoral-l-heure-du-grand-nettoyage
@@ -164,6 +166,7 @@ TZA,"Permanent Voters' Register (BVR kits, Voters Registration System)",Tanzania
 TZA,Permanent Voter Register,Tanzania,electoral,voter register,INEC,,2025-04-16-tza-inec-announces-2nd-updating-voter-registrar
 TZA,Permanent Voters Register,Permanent Voters Register,electoral,BVR kits,INEC,,2024-06-29-tza-inec-approves-191-csos-to-conduct-voter-education
 TZA,Voters Registration System,Voters Registration System,electoral,Android,INEC,,2024-06-29-tza-inec-approves-191-csos-to-conduct-voter-education
+TZA,Permanent Voter Register,Tanzania,electoral,BVR Kit (Android),INEC,,2025-08-24-tza-tanzania-s-inec-faces-integrity-questions-amid-contradictions-on-voter
 UGA,National Voters Register,Uganda,electoral,,Electoral Commission,,2026-01-15-ec-guidance-verification-voters-polling-stations
 UGA,Biometric Voter Verification Kits (BVVKs),Uganda,other,,Electoral Commission,,2026-01-15-ec-guidance-verification-voters-polling-stations
 UGA,National Voters Register,Uganda,electoral,,Electoral Commission,,2025-12-31-ec-chairperson-statement-roadmap-progress

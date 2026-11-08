@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-22-cmr-nidc-cameroon-voters-card-identification-of-citizens-for-electoral-purposes",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "The Danish National ID Centre, from ELECAM interviews in March 2019, says biometric voter registration was implemented in Cameroon in 2012-2013, capturing fingerprints and facial images, and held in a biometric national register of voters checked by AFIS.",
+   "as_of": "2019-03",
+   "date_precision": "month",
+   "system": "ELECAM biometric voter register",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ELECAM biometric voter register",
+   "country_label": "Cameroon voter register",
+   "class": "electoral",
+   "platform": "AFIS and facial recognition",
+   "owner": "ELECAM",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
