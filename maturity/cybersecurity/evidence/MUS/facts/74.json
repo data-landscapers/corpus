@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-07-mus-pas-de-censure-des-reseaux-sociaux-jure-l-etat-qui-revoit-la-loi",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "L'Express reports that the Cybersecurity and Cybercrime Act of 2021 created CERT-MU, the national response team.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "CERT-MU",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "recorded",
+   "fact": "L'Express reports that CERT-MU recorded 5,754 incident reports between 1 January and 5 November 2026, 1,697 of them online harassment; a count of reports, with no account of action taken.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "CERT-MU",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CERT-MU",
+   "country_label": "Computer Emergency Response Team-Mauritius",
+   "class": "response",
+   "platform": "",
+   "owner": "ICT ministry",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

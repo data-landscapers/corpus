@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-25-tgo-e-id-togo-et-protection-des-donnees-personnelles-le-togo-a-fait-le-cho",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The ANID director general says the cybersecurity law created the Agence Nationale de la Cybersécurité (ANCy), and that Cyber Defence Africa, a public-private company, runs the SOC and the national CERT (CERT Tg).",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "ANCy / CERT Tg",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CERT Tg",
+   "country_label": "Cyber Defence Africa (CDA)",
+   "class": "response",
+   "platform": "",
+   "owner": "public-private company",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
