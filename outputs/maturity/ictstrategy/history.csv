@@ -17,3 +17,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-24,ZWE,gov.policy--ict-strategy,fact,3,3,ZWE-004;ZWE-005;ZWE-006;ZWE-016,"Minister launched the reviewed ICT policy 2022-2027 on 7 March 2024 (ZWE-016, ZWE-017); launch date held, stays 3"
 2026-11-06,DJI,gov.policy--ict-strategy,review,unplaced,2,DJI-001,"Rebuild: the minister's July 2025 progress report under the Politique nationale de développement des TIC read as adoption, as Comoros's minister's statement is; text not found, so stage 2"
 2026-11-06,STP,gov.policy--ict-strategy,review,2,unplaced,STP-001,"Rebuild: the 2012 strategy's only standing fact, awaiting adoption in June 2015, is too old to show it in preparation now; lowered to unplaced under the national strategy"
+2026-11-08,BDI,gov.policy--ict-strategy,fact,unplaced,2,BDI-020,PAFEN's November 2023 call to draft a PNDTIC 2025-2034 is a successor in preparation for the lapsed 2010-2025 policy: unplaced to 2.
+2026-11-08,GIN,gov.policy--ict-strategy,fact,2,2,GIN-008;GIN-009;GIN-001,"Drafting of a telecommunications policy, strategy and action plan 2026-2030 began on 9 July 2026: stage 2 stands, now drafting and advancing."

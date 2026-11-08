@@ -29,6 +29,7 @@ BDI,Politique Nationale de Développement des TIC 2010-2025,Politique Nationale 
 BDI,PNDIS II,Plan National de Développement de l'Informatique de Santé 2020-2024,institution-plan,,Ministère de la Santé Publique et de la Lutte contre le SIDA,,2019-01-01-pndis-ii-plan-national-informatique-sante-2020-2024
 BDI,PND 2018-2027,Plan National de Développement du Burundi 2018-2027,development-plan,,,,2019-01-01-pndis-ii-plan-national-informatique-sante-2020-2024
 BDI,PNDTIC 2010-2025,Politique nationale de développement des TIC (PNDTIC 2010-2025),sector,,Ministry in charge of ICT,national,2021-06-04-bdi-abp-retraite-evaluation-pndtic
+BDI,PNDTIC,Burundi,sector,,Government of Burundi,,2023-11-13-bdi-recrutement-d-un-bureau-d-etudes-charge-de-l-evaluation-et-de-la-mise
 BEN,Portail National des Services Publics,Portail National des Services Publics,government,,,national; municipal (Sèmè Podji),2024-01-01-tun-territoires-numeriques-responsables-inclusifs-synthese-du-cycle-de-web
 BEN,Agenda 2021 du numérique et de la digitalisation,Agenda 2021 du numérique et de la digitalisation,,,Ministère du Numérique et de la Digitalisation,national,2021-01-01-ben-gouvbj-bilan-pag-numerique-agenda-2021
 BEN,PAG 2016-2021,Programme d'Action du Gouvernement 2016-2021,development-plan,,Government of Benin,national,2021-01-01-ben-gouvbj-bilan-pag-numerique-agenda-2021
@@ -69,6 +70,7 @@ COD,Document de Politique Sectorielle (DPS),Document de Politique Sectorielle: S
 COD,Plan National du Numérique - Horizon 2025,Plan National du Numérique - Horizon 2025,national,,Cabinet du Chef de l'État (Cadre de Concertation),,2019-09-01-rdc-plan-national-numerique-horizon-2025
 COD,Politique sectorielle des télécommunications,Politique sectorielle des télécommunications,sector,,Ministère des Postes et Télécommunications,,2009-01-01-cod-copirep-politique-sectorielle-telecoms
 COD,Document de politique sectorielle des télécommunications et des TIC,Document de politique sectorielle des télécommunications,sector,,"Ministère des Postes, Téléphones et Télécommunications",,2009-10-27-cod-regulation-afrique-document-politique-sectorielle
+COD,Politique Sectorielle de l'Économie Numérique 2026-2030,RDC,national,,Ministère de l'Économie Numérique,,2026-07-25-cod-le-comite-professionnel-du-numerique-de-la-fec-renforce-son-engagement
 COG,National Digital Development Plan (PNDN),Plan National de Développement du Numérique,national,,"Government of Congo, Ministry of Posts & Telecommunications",,2025-01-01-gab-repository-of-national-digital-skills-strategies
 COG,Vision Congo Digital 2025 Strategy,Vision Congo Digital 2025,,,Government of Congo,,2022-05-11-world-bank-congo-digital-acceleration-project-appraisal-document
 COG,Congo Digital Acceleration Project (P175592),Congo Digital Acceleration Project,programme,,"World Bank financed (US$100 million loan), Government of Congo",,2022-05-11-world-bank-congo-digital-acceleration-project-appraisal-document
@@ -95,6 +97,8 @@ EGY,Egypt Vision 2030,Egypt Vision 2030,,,Ministry of Communications and Informa
 EGY,ICT Strategy: Building the Future of Education in Egypt,ICT Strategy for the future of education,institution-plan,,Ministry of Education and Technical Education (MoETE),pre-university education,2023-09-01-egypt-education-sector-plan-2023-2027
 EGY,Arab ICT Strategy,Arab ICT Strategy,regional,,"Arab Telecommunications and Information Council of Ministers (ATICM), League of Arab States",,2023-06-30-egy-mcit-achievements-in-10-years
 EGY,National ICT Strategy 2013-2017,National ICT strategy 2013-2017 'Towards Economic and Social Reform: ICT for Comprehensive and Sustainable Development',sector,,Ministry of Communications and Information Technology,,2013-11-01-egy-escwa-national-profile-information-society
+EGY,Egypt's ICT Strategy 2014-2017,Egypt's ICT Strategy 2014-2017,sector,,MCIT,,2026-01-01-egy-mcit-ict-strategy-page-publications-en
+EGY,Egypt's ICT Strategy 2007-2010,Egypt's ICT Strategy 2007-2010,sector,,MCIT,,2026-01-01-egy-mcit-ict-strategy-page-publications-en
 ETH,Digital Ethiopia 2025,Digital Ethiopia 2025,national,,Ministry of Innovation & Technology,,2025-01-01-gab-repository-of-national-digital-skills-strategies
 ETH,Digital Ethiopia 2025,Digital Ethiopia 2025,national,,Office of the Prime Minister,,2023-09-01-ethiopia-digital-education-strategy-2023-2028
 ETH,National ICT Strategy for HEIs and TVETs 2021-2030,National ICT Strategy for Higher Education and TVET,subsector,,Ministry of Science and Higher Education,,2023-09-01-ethiopia-digital-education-strategy-2023-2028
@@ -209,6 +213,8 @@ LBR,National Cybersecurity Strategy (2024-2029),National Cybersecurity Strategy 
 LBR,National Information & Communications Technology (ICT) Policy (2025-2030),National ICT Policy 2025-2030,sector,,Ministry of Posts and Telecommunications,,2025-01-07-liberia-mopt-national-ict-policy-2025-2030-draft
 LBR,Liberia ICT Policy (2019-2024),National ICT Policy,sector,,Ministry of Posts and Telecommunications,,2020-01-01-liberia-worldbank-digital-economy-assessment
 LBR,National ICT Policy,Liberia,sector,,Ministry of Post and Telecommunications,,2025-07-24-lbr-undp-supports-liberia-s-national-digital-strategy
+LBR,National ICT Policy,Liberia,sector,,Ministry of Posts and Telecommunications,,2025-09-10-lbr-liberia-reviews-national-ict-policy-to-drive-digital-transformation
+LBR,National Digitalization and Modernization Initiative (Executive Order 163),LBR,government,,"Office of Technology, Digitalization and Innovation",,2026-04-29-executive-order-163-digital-government-ndmi-observer
 LBY,National Telecommunications and Informatics Strategy 2023-2027,National Telecommunications and Informatics Strategy 2023-2027,sector,,General Authority for Communications and Informatics (GACI),,2025-10-26 Libya launches root servers in Tripoli and Benghazi — digital sovereignty
 LBY,National Telecommunications and Informatics Strategy 2023-2027,National Telecommunications and Informatics Strategy 2023-2027,sector,,General Authority for Communications and Informatics (GACI),,2026-10-08-lby-lana-us-strategic-cooperation-framework-telecom
 LBY,National Telecommunications Strategy,National Telecommunications Strategy,sector,,General Authority for Communications and Informatics (GACI),,2026-02-15-gaci-workshop-data-centre-cloud-regulatory-framework
@@ -473,6 +479,7 @@ TZA,National ICT Policy 2016 Implementation Strategy 2016/17 - 2020/21,National 
 TZA,National ICT Policy 2003 (NICTP 2003),National ICT Policy 2003,sector,,,,2016-12-01-tza-national-information-and-communications-technology-policy-2016-impleme
 TZA,National ICT Broadband Backbone (NICTBB),NICTBB,programme,,Government of Tanzania,,2016-12-01-tza-national-information-and-communications-technology-policy-2016-impleme
 TZA,National ICT Policy 2025,Tanzania,sector,,,,2025-06-01-tza-wsis-20-country-report-tanzania
+TZA,National ICT Policy (2016),National ICT Policy (2016),sector,,MCIT,,2025-06-18-tza-tanzania-communications-regulatory-authority-contribution-to-the-globa
 UGA,National Information Security Framework (NISF) 2026,NISF 2026,,,Ministry of ICT and National Guidance; NITA-U implements,government institutions,2026-07-16-uganda-updated-national-information-security-framework
 UGA,NITA-U Strategic Plan FY2025/26-2029/30,Strategic Plan for Financial Year 2025/26 to 2029/30,institution-plan,,NITA-U,,2026-06-22-nita-u-five-year-digital-strategy
 UGA,National AI strategy (in development),national AI strategy,subsector,,Ministry of ICT and National Guidance (AI Secretariat),,2026-03-12-govt-crafts-national-ai-strategy

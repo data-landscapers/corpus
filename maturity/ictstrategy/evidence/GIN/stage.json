@@ -1,21 +1,22 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "sector",
-   "stage": "2",
-   "governance": "",
-   "standing": "announced",
-   "text": "",
-   "period": "",
-   "plan": "",
-   "reporting": "",
-   "last12": "no-change",
-   "cap": "",
-   "flags": "lapsed",
-   "stage_sources": "GIN-001",
-   "gaps": "The sector policy letter is known only as initiative 1.1.8 of the national digitalisation strategy, published 2024-06-11: no row shows drafting begun, a text, a period, a delivery plan or a report, and nothing is dated in the twelve months to the as-at. The newest adopted sector policy, the 2010 Politique et stratégie nationales de développement des TIC (GIN-002, GIN-006), was open and is lapsed from 2016, when instruments.csv records the national 2016-2020 document replacing it; no text of it has been found. No governance row falls inside the 36 months: GIN-003 is dated 2010 and belongs to the 2010 policy.",
-   "note": "Lettre de politique sectorielle du numérique: announced as a costed initiative of the national digitalisation strategy, the only sector policy in preparation, which is stage 2. Stage 3 needs an adopted sector policy with a public text and a period not ended; the 2010 policy was replaced in 2016 by the national strategy and is not in force."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "sector",
+      "stage": "2",
+      "governance": "",
+      "standing": "drafting",
+      "text": "",
+      "period": "to:2030",
+      "plan": "",
+      "reporting": "",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "lapsed;advancing",
+      "stage_sources": "GIN-008;GIN-009;GIN-001",
+      "gaps": "No text, delivery plan or report is held for the telecommunications policy, strategy and action plan 2026-2030 whose drafting began on 9 July 2026, nor for the digital sector policy letter announced in the 2024 national strategy. The 2010 Politique et stratégie nationales de développement des TIC (GIN-002, GIN-006) is lapsed from 2016, when the national 2016-2020 document replaced it. No governance row falls inside the 36 months.",
+      "note": "Politique, stratégie et plan d'action des télécommunications 2026-2030: the ministry launched its drafting on 9 July 2026, a sector policy in preparation, which is stage 2 and advancing. Stage 3 needs an adopted sector policy with a public text and a period not ended.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

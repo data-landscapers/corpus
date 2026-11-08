@@ -23,9 +23,9 @@ The norm is the African Union's Digital Transformation Strategy for Africa 2020-
 | 5 Leading | 0 |
 | 4 Operating | 0 |
 | 3 Established | 15 |
-| 2 Nascent | 18 |
+| 2 Nascent | 19 |
 | 1 Absent | 1 |
-| Unplaced | 20 |
+| Unplaced | 19 |
 | No evidence | 0 |
 
 ## Countries
@@ -186,6 +186,14 @@ Angola adopted its ICT white paper for 2023-2027 by presidential decree in Decem
 - The minister of telecommunications writes that the Livro Branco das TIC 2023-2027 was approved by Presidential Decree 272/24 and aligns the sector with the National Development Plan 2023-2027; the article gives no day, so the year comes from the decree number ([source, 2024](https://angop.ao/noticias/economia/soberania-digital-do-governo-de-angola-uma-necessidade-que-se-impoe/)).
 - The decree states that the Livro Branco das Tecnologias de Informação e Comunicação, setting policy measures and strategic actions for the sustainable development of the ICT sector on six axes, was approved by Presidential Decree 272/24 of 5 December 2024 ([source, 2024-12-05](https://lex.ao/docs/presidente-da-republica/2025/decreto-presidencial-n-o-256-25-de-03-de-dezembro/)).
 
+### Burundi: 2 Nascent
+
+The ICT development policy ran to 2025; a successor for 2025-2034 was put out to consultants in 2023, and its adoption is not known.
+
+*Lapsed.*
+
+- PAFEN, funded by an IDA grant, invited consultancy firms in November 2023 to evaluate Burundi's national ICT development policy (PNDTIC) and its 2011-2025 action plan and to draft a new PNDTIC with an action plan for 2025-2034 ([source, 2023-11-13](https://pafen.gov.bi/recrutement-dun-bureau-detudes-charge-de-levaluation-et-de-la-mise-a-jour-de-lapolitique-nationale-de-developpement-des-technologies-de-linformation-et-de-lacommunication-ainsi-que-de-lelabo/)).
+
 ### Comoros: 2 Nascent
 
 A telecommunications and digital sector policy, which the minister said in 2022 was being implemented; no source found reports its text and adoption date.
@@ -229,10 +237,12 @@ The Gambia has an ICT for development policy statement adopted for 2018 to 2028;
 
 ### Guinea: 2 Nascent
 
-A digital sector policy letter was announced in a national strategy published in 2024; no source found says whether drafting has begun.
+Drafting of a telecommunications policy for 2026-2030 began in July 2026; no adopted sector policy is in force.
 
-*Lapsed.*
+*Lapsed; Advancing.*
 
+- On 9 July 2026 the Ministry of Communication, Digital Economy and Innovation launched a national workshop, with WARDIP support, to draft Guinea's Telecommunications Policy, Strategy and Action Plan 2026-2030 ([source, 2026-07-09](https://agpguinee.com/guinee-tenue-dun-atelier-delaboration-de-la-politique-de-la-strategie-et-du-plan-daction-des-telecommunication-2026-2030/)).
+- The policy, strategy and action plan being drafted cover the period 2026-2030, per AGP Guinee ([source, 2026-07-09](https://agpguinee.com/guinee-tenue-dun-atelier-delaboration-de-la-politique-de-la-strategie-et-du-plan-daction-des-telecommunication-2026-2030/)).
 - The national digitalisation strategy lists as initiative 1.1.8 the drafting of a sector policy letter for the digital sector, led by MPTEN with the executive, costed at USD 50 thousand over 6 months; the document gives no date for it, so its published date 2024-06-11 is used ([source, 2024-06-11](https://ande.gov.gn/file/2025/01/Strategie-Numerique_Guinee-2027_v1.2.pdf)).
 
 ### Guinea-Bissau: 2 Nascent
@@ -360,19 +370,6 @@ The sector policy published in 2015 ran to 2020; no source found says whether a 
 - The audit says the ministry published the updated sector policy in September 2015 ([source, 2015-09](https://burkina-ntic.net/ressources/assets/docP/Document_N0231.pdf)).
 
 Not established: The newest sector policy on record ended in 2020 and no sector policy is on record as announced, drafted, validated or adopted since. The sector policy with an action plan in drafting in May 2014 (BFA-006) predates the policy published in September 2015 and is read as its preparation, not as a successor. Nothing is held on a delivery plan, reporting or finance for the 2016-2020 policy; the steering bodies and the claimed implementation of 2014 belong to the Cyber Stratégie nationale of 2004, and no fact is dated inside the twelve or thirty-six months to the as-at.
-
-### Burundi: Unplaced
-
-The national ICT development policy adopted in 2011 ran to 2025; no source says whether a successor is being prepared, so no stage is set.
-
-*Lapsed.*
-
-- The document states that the national ICT development policy PNDTIC (2010-2025) was adopted by the Council of Ministers on 13 July 2011 ([source, 2011-07-13](https://primature.gov.bi/wp-content/uploads/2026/06/politique_nationale_developpement_tic.pdf)).
-- The policy's title and vision set its period as 2010-2025, with a vision to 2025 of universal ICT access and regional centre of excellence status ([source, 2011-07-13](https://primature.gov.bi/wp-content/uploads/2026/06/politique_nationale_developpement_tic.pdf)).
-- The Government's report names the Politique Nationale de Développement des TIC as covering 2010-2025; the as_of date is the report's reception date ([source, 2021-12](https://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=XmUu5cqWhvfVa5HNpBJSgf7PjgoA4USQO7Fa%2F6GiQVX6I7Gtbi3BPuqEBeb%2FKSroeOdrOGM%2B4R7EJggsYBIVzw%3D%3D)).
-- The report names the policy as PNDTIC 2010-2025 and says it is to be implemented effectively by 2025, with universal ICT access as the 2025 vision ([source, 2021-06](https://abpinfo.bi/2021/06/04/toutes-les-parties-prenantes-dans-la-mise-en-oeuvre-de-la-politique-nationale-des-tlc-appelees-a-redoubler-dardeur-dans-la-digitalisation-des-services-publics/)).
-
-Not established: The policy's period ended in 2025 and no row shows a successor sector policy announced, in drafting or validated; the 2022 World Bank project financed an evaluation of the policy and an update of its action plan, which is not a successor. Governance facts (the ministry coordinating and monitoring it in June 2021, the mandated ministry and donor finance of 2022-05-31) fall outside the 36 months to the as-at. The June 2021 retreat reviewed progress and gave no figures against the policy's targets, so reporting is activity; no delivery plan, results report or event in the last twelve months has been found.
 
 ### Cameroon: Unplaced
 

@@ -329,3 +329,15 @@ ZMB,013,period,to:2026,withdrawn,the period is the implementation plan's; the po
 ZMB,014,plan,actions,named,2022 to 2026 ICT Policy Implementation Plan: read as National ICT Policy 2023
 ZWE,015,standing,announced,named,National Information Communication Technology Policy: read as National ICT Policy 2022-2027
 SWZ,003,period,to:2016,withdrawn,"the period is the draft implementation plan's, 2012 to 2016; the policy states none"
+EGY,009,standing,adopted,named,Egypt's ICT Strategy 2014-2017: read as National ICT Strategy 2013-2017
+EGY,010,text,public,named,Egypt's ICT Strategy 2014-2017: read as National ICT Strategy 2013-2017
+EGY,011,period,to:2017,named,Egypt's ICT Strategy 2014-2017: read as National ICT Strategy 2013-2017
+LBR,032,standing,drafting,named,National ICT Policy: read as National ICT Policy 2025-2030
+TZA,024,standing,adopted,named,National ICT Policy (2016): read as National ICT Policy 2016
+BDI,020,standing,announced,named,PNDTIC (Politique Nationale de Developpement des TIC): read as Politique nationale de développement des TIC (PNDTIC) 2025-2034
+GIN,008,standing,drafting,named,"Telecommunications Policy, Strategy and Action Plan 2026-2030: read as Politique, stratégie et plan d'action des télécommunications 2026-2030"
+GIN,009,period,to:2030,named,"Telecommunications Policy, Strategy and Action Plan 2026-2030: read as Politique, stratégie et plan d'action des télécommunications 2026-2030"
+COD,020,standing,validated,classed national,PSEN 2026-2030: read as Politique sectorielle de l'économie numérique 2026-2030
+COD,021,period,to:2030,classed national,PSEN 2026-2030: read as Politique sectorielle de l'économie numérique 2026-2030
+COD,022,standing,validated,classed national,Politique Sectorielle de l'Économie Numérique 2026-2030: read as Politique sectorielle de l'économie numérique 2026-2030
+COD,023,period,to:2030,classed national,Politique Sectorielle de l'Économie Numérique 2026-2030: read as Politique sectorielle de l'économie numérique 2026-2030
