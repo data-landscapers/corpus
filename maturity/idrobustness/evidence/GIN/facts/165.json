@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-14-gin-etat-civil-guineen-la-refondation-en-marche-l-identification-au-cur-du",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "L'Independant quotes the elections directorate head saying the national register of natural persons (RNPP), built under the PN-RAVEC programme, now records nearly 10 million people, about 6.7 million of them voters.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "RNPP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNPP",
+   "country_label": "Guinea",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

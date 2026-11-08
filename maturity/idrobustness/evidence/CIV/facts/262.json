@@ -1,0 +1,34 @@
+{
+ "slug": "2026-09-16-civ-id-day-2026-promesse-d-une-identite-legale-et-numerique-a-chaque-citoy",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The interior ministry's representative listed the implementation of a national identification number (NNI) among ONECI's modernisation actions.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "Numéro national d'identification (NNI)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Numéro national d'identification (NNI)",
+   "country_label": "Côte d'Ivoire",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  },
+  {
+   "system": "Registre national des personnes physiques (RNPP)",
+   "country_label": "Côte d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

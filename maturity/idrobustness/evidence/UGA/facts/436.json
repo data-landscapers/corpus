@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-25-uga-ask-ura-commissioner-general-37",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "URA says the National Identification Number is issued by NIRA, and that people without one must obtain it from a NIRA office before registering for tax.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "NIN (NIRA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

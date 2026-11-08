@@ -1,0 +1,46 @@
+{
+ "slug": "2025-12-10-nga-nigeria-moves-to-replace-its-national-id-system-a-misstep-could-lock-o",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "TechCabal reports NIMC had issued about 124 million unique NINs by October 2025.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "National Identity Management System",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "NIMC began migrating the ID system to MOSIP in July 2025, with an $83 million system integrator tender for NIMS 2.0 under the World Bank-backed ID4D programme.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "NIMS 2.0 on MOSIP",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "assurance",
+   "value": "certified",
+   "fact": "NIMC says it has held ISO 27001 certification since 2014, now upgraded to the 2022 standard.",
+   "as_of": "2025-12-10",
+   "date_precision": "day",
+   "system": "National Identity Management System",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Management System (NIMS 2.0 on MOSIP)",
+   "country_label": "Nigeria NIN",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

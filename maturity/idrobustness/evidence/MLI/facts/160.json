@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-03-mli-confection-de-la-carte-d-identite-biometrique-confiee-a-une-societe-ma",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Aujourd'hui-Mali reports that the secure biometric national identity card is issued to Malian citizens at home and in consulates, with the data held in Mali Biométrie.",
+   "as_of": "2024-08-03",
+   "date_precision": "day",
+   "system": "Mali Biométrie",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

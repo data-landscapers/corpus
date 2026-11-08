@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-21-gha-ghana-nigeria-kenya-reveal-revenue-generation-models-from-national-id",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The National Identification Authority's legal head said Ghana's Ghana card system is in year seven of a 15-year public-private partnership and is used for identity verification.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Ghana card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

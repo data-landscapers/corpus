@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-01-som-4-3-access-to-services",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "EUAA reports a national biometric ID card issued by NIRA, required by a 7 April 2025 directive for public services and by North-East State from 17 March 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "National ID card (NIRA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-14-sdn-sudanese-passport-tamper-proof-icao-membership-boosts-global-trust-pas",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The head of the Sudanese Passports and Civil Registry Authority discussed reports of irregular issuance of national IDs to foreigners, calling them exaggerated, and said committees are reviewing all records.",
+   "as_of": "2026-03-14",
+   "date_precision": "day",
+   "system": "national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

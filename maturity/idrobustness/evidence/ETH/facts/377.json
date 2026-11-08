@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-12-eth-reporter-forgeries-fraud-national-id-program",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Reporter says the National ID Program Office is registering biometric data in over 300 cities and towns and that close to 10 million people have received their Faida ID cards.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Faida National ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Faida National ID",
+   "country_label": "National ID Program (Fayda/Faida)",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National ID Program Office",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

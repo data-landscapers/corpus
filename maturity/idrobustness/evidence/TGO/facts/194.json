@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-30-sen-senegal-and-togo-strengthen-cooperation-on-digital-identity-systems",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "TechAfrica News reports that Togo has implemented a foundational biometric digital identity system with biometric enrolment and identity management, shown to a Senegalese delegation visiting ANID on 22-27 October 2025.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Togo national electronic identification (EID) platform on MOSIP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Togo national electronic identification (EID) platform on MOSIP",
+   "country_label": "Togo",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "ANID",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

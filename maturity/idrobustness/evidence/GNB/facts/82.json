@@ -1,0 +1,27 @@
+{
+ "slug": "2024-07-01-gnb-new-enrollment-center-in-bissau",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Semlex says Guinea-Bissau's identity card system issues a unique identity number to each citizen through biometric enrolment, with cards delivered in 48 hours in the capital and 7 days elsewhere.",
+   "as_of": "2024-07-01",
+   "date_precision": "day",
+   "system": "Guinea-Bissau identity card system",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "Semlex says the identity card system is based on biometric enrolment and a deduplication system that assigns a unique identity number.",
+   "as_of": "2024-07-01",
+   "date_precision": "day",
+   "system": "Guinea-Bissau identity card system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

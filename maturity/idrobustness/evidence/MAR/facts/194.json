@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-mar-mi-um6p-mosip-rnp-l3-support-collaboration",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The deck says each person registered in the RNP receives a Civil and Social Digital Identifier (IDCS), with 22M+ attributed and the registry generalised to all 83 provinces in October 2022.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "RNP / IDCS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

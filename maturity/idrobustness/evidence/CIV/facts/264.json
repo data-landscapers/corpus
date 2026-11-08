@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-07-civ-mise-en-uvre-du-rnpp-l-oneci-et-ses-partenaires-definissent-les-orient",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ONECI says the RNPP, deployed since 2019, has made progress in infrastructure and in the production of identity.",
+   "as_of": "2026-05-07",
+   "date_precision": "day",
+   "system": "RNPP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

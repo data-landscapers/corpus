@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-30-mus-carte-d-identite-la-mobile-id-est-une-realite",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Defimedia reports all holders of a national identity card, including the latest MNIC 3.0, are eligible for the Mobile ID, launched 29 August 2024.",
+   "as_of": "2024-08-29",
+   "date_precision": "day",
+   "system": "MNIC 3.0",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MNIC 3.0",
+   "country_label": "Mauritius",
+   "class": "idsystem",
+   "platform": "Thales with Harel Mallac Technologies",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": "Minister's statement of an independent security audit is not a published audit."
+}

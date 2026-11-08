@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-18-zmb-german-consultant-still-accesses-govt-national-registration-database-a",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Auditor General's report, as reported by News Diggers, says the Ministry of Home Affairs contracted DEMALOG Identification Systems GmbH at K45,838,528 to upgrade INRIS from an AFIS to an ABIS.",
+   "as_of": "2024-08-31",
+   "date_precision": "day",
+   "system": "INRIS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "INRIS",
+   "country_label": "Integrated National Registration Information System",
+   "class": "idsystem",
+   "platform": "DEMALOG",
+   "owner": "Ministry of Home Affairs and Internal Security",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

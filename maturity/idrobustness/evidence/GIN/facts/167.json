@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-22-gin-etat-civil-aucun-document-d-identite-n-avait-de-base-legale-selon-djen",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "A biometric administrative census (RAVEC) launched 15 April 2025 to give citizens a unique identifier, per the national electoral-affairs director.",
+   "as_of": "2025-04-15",
+   "date_precision": "day",
+   "system": "PN-RAVEC",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

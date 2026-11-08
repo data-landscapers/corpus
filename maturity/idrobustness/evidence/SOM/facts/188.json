@@ -1,0 +1,36 @@
+{
+ "slug": "2025-05-20-som-somalia-s-journey-towards-a-foundational-national-id-system",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIRA says the national ID programme launched in September 2023 and issues an 11-digit unique national ID number with digital and physical cards.",
+   "as_of": "2023-09",
+   "date_precision": "month",
+   "system": "National ID system (NIRA)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "NIRA lists fingerprints and facial recognition as features of the national ID, with biometric verification capability tested.",
+   "as_of": "2025-05-20",
+   "date_precision": "day",
+   "system": "National ID system (NIRA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID system (NIRA)",
+   "country_label": "Somalia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

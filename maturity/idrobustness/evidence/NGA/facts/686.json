@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-21-gha-ghana-nigeria-kenya-reveal-revenue-generation-models-from-national-id",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIMC's director general said the commission charges for enrolment and modification of details and for a self-modification platform.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "NIMC national identity system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

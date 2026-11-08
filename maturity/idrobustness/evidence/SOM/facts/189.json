@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-20-som-somalia-showcases-progress-on-national-id-at-id4africa-2025-annual-con",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIRA's Director General told ID4Africa 2025 that Somalia has built a unified foundational digital ID system with registration centres expanded across the country and platforms for identity issuance.",
+   "as_of": "2025-05-20",
+   "date_precision": "day",
+   "system": "National digital ID system (NIRA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": "Iris capture is only on the roadmap."
+}

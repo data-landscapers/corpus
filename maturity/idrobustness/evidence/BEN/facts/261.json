@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-09-ben-banouto-gouvernement-reponse-nomination-dg-anip",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The government says the RNPP gives each person enrolled with biometric data a personal identification number (NPI), operated by ANIP.",
+   "as_of": "2023-11-09",
+   "date_precision": "day",
+   "system": "RNPP / NPI",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

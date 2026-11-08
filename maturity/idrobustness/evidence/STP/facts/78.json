@@ -1,0 +1,15 @@
+{
+ "slug": "2024-03-12-stp-bilhete-de-identidade-emitido-na-ilha-do-principe",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Bilhete de Identidade",
+   "country_label": "Sao Tome and Principe",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": "The ID card is issued instantly in Principe, but the article does not say it carries a unique number or biometrics."
+}

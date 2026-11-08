@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-uga-uganda-country-playbook",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIRA says it migrated 28.4 million records from the old system to the new MOSIP-based national ID system after an eight-month data preparation period.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "NIRA national ID on MOSIP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

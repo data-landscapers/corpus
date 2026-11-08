@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-27-cod-rdc-l-onip-presente-le-plan-de-mise-en-uvre-du-programme-de-fichier-ge",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "ONIP's interim director general says the national ID programme was contracted to Afritech/IDEMIA (notified 6 November 2023), launched on 19 December 2023 in Kinshasa with cards handed to officials, and mass enrolment is scheduled from 2024.",
+   "as_of": "2023-12-19",
+   "date_precision": "day",
+   "system": "Fichier general de la population (FGP)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fichier general de la population (FGP) / national ID card",
+   "country_label": "DRC",
+   "class": "idsystem",
+   "platform": "Afritech/IDEMIA",
+   "owner": "ONIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

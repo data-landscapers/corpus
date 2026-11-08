@@ -1,0 +1,34 @@
+{
+ "slug": "2026-05-01-civ-country-playbook-cote-d-ivoire-id4africa-2026-29",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ONECI's playbook says the country has set up the national register of natural persons (RNPP) and is deploying the biometric national ID card at scale, with a national identification number unique to each person.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "RNPP, biometric CNI and NNI",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National des Personnes Physiques (RNPP)",
+   "country_label": "ONECI",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  },
+  {
+   "system": "Carte Nationale d'Identite biometrique",
+   "country_label": "ONECI",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

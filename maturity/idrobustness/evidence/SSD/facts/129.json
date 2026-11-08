@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-19-ssd-revenue-sharing-plan-under-discussion-to-address-passport-id-shortages",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Directorate of Civil Registry, Nationality, Passports and Immigration issues national ID cards, with periodic shortages of ID booklets, per its Director General Elia Costa.",
+   "as_of": "2025-10-17",
+   "date_precision": "day",
+   "system": "National ID cards",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

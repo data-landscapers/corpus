@@ -1,0 +1,36 @@
+{
+ "slug": "2025-02-01-mwi-digital-malawi-acceleration-project-dmap-p505095-aide-memoire-id-techn",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The World Bank aide-memoire describes Malawi's national ID system, run by the National Registration Bureau, as operating through registration centres and an ID card printing system, though on outdated infrastructure.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "National Registration and Identification System (NRIS)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "The World Bank says the national ID system uses an under-capacity Automated Biometric Identification System (ABIS) for biometric authentication and fraud prevention.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "ABIS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Registration and Identification System (NRIS)",
+   "country_label": "Malawi national ID",
+   "class": "idsystem",
+   "platform": "ABIS",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

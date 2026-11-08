@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-05-ner-atelier-du-projet-wuri-niger-le-projet-restitue-les-travaux-d-enregist",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Ministry of the Interior's director general of territorial administration says the WURI Niger pilot enrolled 3,000 people in Tagazar, Dogondoutchi, Mayahi and Tanout to test the chosen ID system ahead of a mass registration strategy.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "WURI Niger identification system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WURI Niger identification system",
+   "country_label": "Niger",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

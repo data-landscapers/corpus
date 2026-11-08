@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-21-gha-ghana-nigeria-kenya-reveal-revenue-generation-models-from-national-id",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Kenya's Secretary of National Registration said the first identity card is issued free and the national bureau charges fees for replacements.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Kenya national ID cards",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

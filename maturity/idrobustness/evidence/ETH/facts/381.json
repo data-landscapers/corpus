@@ -1,0 +1,27 @@
+{
+ "slug": "2025-03-24-eth-bbc-amharic-eight-things-to-know-about-fayda-id",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The national ID programme says Fayda, approved in law in March 2023 and applied officially since, gives each registrant a unique 12-digit number, on the 'one person, one ID' principle.",
+   "as_of": "2025-03-24",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "The national ID programme says Fayda collects iris, ten fingerprints and face data to identify each person uniquely, and biometrics are mandatory for registrants over five.",
+   "as_of": "2025-03-24",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

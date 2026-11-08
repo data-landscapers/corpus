@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-14-gha-nia-registers-over-32-000-children-in-volta-oti-regions",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIA says it has registered and issued Ghana Cards, with more than 32,000 children registered in the Volta and Oti exercise and 350,000 in the 2024 pilot, cards printed and distributed in 2025.",
+   "as_of": "2026-05-14",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

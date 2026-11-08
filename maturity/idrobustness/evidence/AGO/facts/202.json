@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-23-ago-ministro-reafirma-aposta-na-atribuicao-de-15-milhoes-de-bi-ate-2027",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Centro de Produção do Bilhete de Identidade has been issuing the national BI since October 2019 and prints 12,000 a day, the Justice Minister and a ministry official said.",
+   "as_of": "2025-04-22",
+   "date_precision": "day",
+   "system": "Bilhete de Identidade",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

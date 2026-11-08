@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-rwa-rwanda-s-journey-to-a-single-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The deck says the new Single Digital Identity is in biometric enrollment (3.8M enrolled by May 2026 across 12 districts, nationwide completion targeted for 2026), with an ABIS from Neurotechnology and smart cards from HID/Toppan.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Single Digital Identity (SDID)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

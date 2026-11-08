@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-28-gmb-the-gambia-begins-nationwide-rollout-of-new-national-digital-id",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Biometric Update reports the government launched the biometric national ID card (GAM ID) on 30 June 2026 and began enrolment around Greater Banjul in August 2026, with cards processed for a fee of GMD 450.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "GAM ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

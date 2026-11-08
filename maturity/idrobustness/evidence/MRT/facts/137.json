@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-30-mrt-anrpts-from-national-identity-to-digital-state-op-ed",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "An op-ed says the integrated system inaugurated in 2021, costing EUR 12,157,616, includes a national biometric register merging biographic and biometric data and a secure-document production system.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Integrated population register and secure documents system",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "An op-ed says the system strengthened identity verification with fingerprints and facial recognition.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Integrated population register and secure documents system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

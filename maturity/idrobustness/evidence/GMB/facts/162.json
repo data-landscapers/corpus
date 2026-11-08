@@ -1,0 +1,27 @@
+{
+ "slug": "2024-09-30-gmb-details-of-the-gambia-s-national-id-card-contract-plan-emerge",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "The Gambia began issuing ID cards following biometric deduplication by Innovatrics, through a 2009 partnership with Pristine Consulting, per Biometric Update.",
+   "as_of": "2009",
+   "date_precision": "year",
+   "system": "national ID card system",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Gambia issued national ID cards under the Semlex contract signed in June 2016, but cards had not been issued for many months by September 2024 after the contract ended.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "national ID card system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

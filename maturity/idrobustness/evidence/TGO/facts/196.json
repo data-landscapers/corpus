@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-25-tgo-e-id-togo-et-protection-des-donnees-personnelles-le-togo-a-fait-le-cho",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ANID's director general says e-ID Togo enrols people and issues each a unique NIU, with about 301 centres open, 1,000 kits and 3,700 field staff.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "e-ID Togo (NIU)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "The ANID director general says the NIU is generated only after deduplication of photo, fingerprints and iris against the database.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "e-ID Togo (NIU)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-ID Togo (NIU)",
+   "country_label": "Agence Nationale d'Identification (ANID)",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "ANID",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

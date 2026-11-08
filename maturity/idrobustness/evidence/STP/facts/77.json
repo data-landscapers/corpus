@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-01-mosip-rewind-2025",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "MOSIP says Sao Tome and Principe completed its pilot and moved forward with national rollout.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "MOSIP-based national ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

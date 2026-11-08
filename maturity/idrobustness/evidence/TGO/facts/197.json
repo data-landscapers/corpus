@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-24-tgo-identification-biometrique-au-togo-un-projet-d-inclusion-sociale-pour",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The article says the government is continuing to implement the e-ID Togo project, with a unique ID number for each resident to be backed by biometric data, per ANID director general Sileté Devo on 21 May 2025.",
+   "as_of": "2025-05-21",
+   "date_precision": "day",
+   "system": "e-ID Togo",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-ID Togo",
+   "country_label": "Togo",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANID",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

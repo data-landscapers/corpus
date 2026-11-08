@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-23-moz-implementation-status-results-report-digital-governance-and-economy-pr",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "A World Bank implementation report says 11 million IDs have been issued and 11,038,940 individuals were registered in the civil identification database by 20 March 2026, against a target of 17 million.",
+   "as_of": "2026-03-20",
+   "date_precision": "day",
+   "system": "Civil identification database (DNIC)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

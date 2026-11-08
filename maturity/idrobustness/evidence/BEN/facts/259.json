@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-10-ben-benin-journee-de-l-etat-civil-et-des-statistiques-de-l-etat-civil-2026",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ANIP, the national identification agency, says it attributes the unique national identifier (NPI) from the RNPP, which it calls the single reliable register of identification, and generated NPIs for over 13,000 pilot-registered children.",
+   "as_of": "2026-08-10",
+   "date_precision": "day",
+   "system": "RNPP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNPP",
+   "country_label": "Registre National des Personnes Physiques",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

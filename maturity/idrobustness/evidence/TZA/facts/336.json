@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-01-tza-nida-yawa-ufunguo-wa-maendeleo-nchini-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIDA says it had registered 24,495,804 people by February 2024 and produced 20,832,225 National Identification Numbers and 20,286,420 ID cards.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "National ID (NIDA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

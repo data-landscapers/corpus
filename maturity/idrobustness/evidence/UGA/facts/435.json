@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-29-uga-uganda-to-issue-alien-id-cards-with-new-enrollment-software",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Biometric Update reports Ugandans hold biometric national ID cards issued by NIRA, some obtained unduly by foreigners.",
+   "as_of": "2024-07-29",
+   "date_precision": "day",
+   "system": "National ID (NIRA)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "NIRA's executive director told parliament in July 2024 that a new open-source system, in the MOSIP-based rollout phase, was expected to be acquired by the end of the month.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "New NIRA digital ID system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID (NIRA)",
+   "country_label": "Uganda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

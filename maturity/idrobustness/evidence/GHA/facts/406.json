@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-15-gha-cagd-verify-ghana-card-details-by-march-15-or-face-salary-suspension",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Citi Newsroom reports the National Identification Authority holds official biometric records behind the Ghana Card and the NIA numbers on government payroll are matched against them.",
+   "as_of": "2026-02-11",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

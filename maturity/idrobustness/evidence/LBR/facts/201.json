@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-02-lbr-concerns-mount-over-nir-us-52m-biometric-id-concession-jeopardizing-jo",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The National Identification Registry had enrolled about 759,000 people by June 2025, though card issuance was suspended that month, per the article.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "National Identification Registry",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

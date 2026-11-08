@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-18-mwi-malawi-distributes-3m-national-id-cards-printed-in-country",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Biometric Update reports the NRB issued 1 million ID cards in June 2024 and made a second batch of 3 million available in December 2024, and says a Unique National ID number is issued to an applicant within 24 hours of registration.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "National ID (National Registration Bureau)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID (National Registration Bureau)",
+   "country_label": "Malawi national ID",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

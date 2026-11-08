@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-05-ken-broken-system-inside-kenya-s-id-crisis",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Daily Nation reports Kenya's second-generation ID cards were printed until the printers were switched off on 14 November 2023, a process that has routinely issued legal identity to Kenyans, until a High Court order of 5 December 2023 stopped third-generation Maisha Card printing.",
+   "as_of": "2023-11-14",
+   "date_precision": "day",
+   "system": "Maisha Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maisha Card (third-generation ID)",
+   "country_label": "Kenya",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Interior and National Administration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

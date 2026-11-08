@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-06-eth-what-is-faydaverse-the-ethiopian-national-id-program-that-became-a-com",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Kana TV News reports Fayda has enrolled nearly 50 million people and issued over 15 million physical ID cards.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Fayda Digital ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

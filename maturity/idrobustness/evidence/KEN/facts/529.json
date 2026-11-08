@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-11-ken-gov-t-adopts-24-hour-ids-printing-to-clear-backlog",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Immigration PS Julius Bitok said over 600,000 new national IDs had been printed since February 2024, after a court halt from November 2023 was lifted.",
+   "as_of": "2024-06-11",
+   "date_precision": "day",
+   "system": "National ID card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

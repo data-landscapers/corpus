@@ -1,0 +1,36 @@
+{
+ "slug": "2024-04-10-nga-idemia-upgrading-nigeria-s-national-biometric-system-to-handle-250m-id",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Biometric Update, citing the World Bank, says Nigeria has issued more than 104 million biometric digital IDs under the National Identity Number and is on track for 148 million by 30 June.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "National Identity Number (NIN)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "NIMC's ABIS, being upgraded by Idemia, is to support a million 1:1 and 1:n biometric searches per day, for up to 250 million records.",
+   "as_of": "2024-04-10",
+   "date_precision": "day",
+   "system": "National Identity Number (NIN)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Number system (IBRS ABIS)",
+   "country_label": "Nigeria",
+   "class": "idsystem",
+   "platform": "Idemia IBRS ABIS",
+   "owner": "National Identity Management Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

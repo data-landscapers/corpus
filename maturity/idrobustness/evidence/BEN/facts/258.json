@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-06-ben-benin-8-millions-de-dollars-pour-renforcer-l-interconnexion-des-fichie",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "La Marina BJ reports ANIP delivers the NPI, which the DGI uses to issue tax identifiers.",
+   "as_of": "2021-12",
+   "date_precision": "month",
+   "system": "NPI (ANIP)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NPI / ANIP",
+   "country_label": "Benin",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

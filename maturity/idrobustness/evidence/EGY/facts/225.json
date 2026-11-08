@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-16-egy-moi-civil-status-caravans-national-id-cards",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Egypt's Ministry of Interior says its Civil Status Sector caravans in ten governorates issued 6,320 national ID cards, with further cards issued through hotlines and home visits.",
+   "as_of": "2025-02-16",
+   "date_precision": "day",
+   "system": "National ID card (Civil Status Sector)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID card (Civil Status Sector)",
+   "country_label": "National ID card",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Interior, Civil Status Sector",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
