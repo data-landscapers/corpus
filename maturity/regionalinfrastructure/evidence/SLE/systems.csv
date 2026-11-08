@@ -3,5 +3,5 @@ SLE,TRANSCO CLSG fibre network,TRANSCO CLSG transmission network fibre,shared,,T
 SLE,Sierra Leone-Guinea national backbone interconnection,Sierra Leone-Guinea backbone interconnection,shared,,,,2025-11-17-natca-guinea-free-roaming
 SLE,SOGEB-Leoncom fibre interconnection at Pamelap,Guinea-Sierra Leone fibre interconnection,shared,"fibre optic, IP/MPLS",SOGEB (Guinea); Leoncom (Sierra Leone),,2025-06-23-sogeb-leonecom-fibre-interconnection
 SLE,redundant terrestrial fibre route,Sierra Leone,other,terrestrial fibre,NatCA (host regulator),,2024-09-05-lbr-sierraloaded-natca-terrestrial-fibre-mou
-SLE,Michcom-IX,Sierra Leone,shared,,Michcom Limited,,2026-06-03-sierra-leone-michcom-ix-peeringdb-exchange-record
-SLE,Michcom-IX,Sierra Leone,shared,"IXP, 50G capacity",Michcom Limited,,2025-01-01-michcom-ix
+SLE,Michcom-IX,Sierra Leone,other,,Michcom Limited,,2026-06-03-sierra-leone-michcom-ix-peeringdb-exchange-record
+SLE,Michcom-IX,Sierra Leone,other,"IXP, 50G capacity",Michcom Limited,,2025-01-01-michcom-ix

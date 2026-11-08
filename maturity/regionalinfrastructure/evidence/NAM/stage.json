@@ -3,14 +3,14 @@
   "cells": [
     {
       "sub_indicator": "shared",
-      "stage": "5",
+      "stage": "2",
       "built": "agreed",
-      "service": "in-use",
+      "service": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NAM-007;NAM-006",
-      "gaps": "No figures are found for traffic carried across the border or exchanged at the Windhoek exchange.",
-      "note": "Fact 2026-08: PeeringDB lists Paratus Africa, a network registered in Mauritius, as a member of the Windhoek Internet Exchange Point (NAM-007), a named user from another country, a yes to question 4.",
+      "stage_sources": "NAM-002;NAM-001",
+      "gaps": "No source found says building has started in the last three years.",
+      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
       "as_at": "2026-11-08"
     }
   ]

@@ -2,54 +2,54 @@ iso3,stage,built,service,stage_sources
 AGO,2,agreed,,AGO-004;AGO-003
 BDI,2,agreed,,BDI-001
 BEN,2,agreed,,BEN-001
-BFA,4,,in-service,BFA-001
-BWA,4,agreed,in-service,BWA-002
-CAF,4,building,in-service,CAF-002;CAF-007;CAF-009
-CIV,4,,in-service,CIV-001
-CMR,4,building,in-service,CMR-002;CMR-004
-COD,4,agreed,in-service,COD-005;COD-004
-COG,4,building,in-service,COG-003;COG-004;COG-002
+BFA,no evidence,,,
+BWA,2,agreed,,BWA-001
+CAF,4,building,link,CAF-001;CAF-011;CAF-009
+CIV,4,,link,CIV-001
+CMR,4,building,link,CMR-002;CMR-004
+COD,2,agreed,,COD-008
+COG,4,building,link,COG-004;COG-006;COG-002
 COM,no evidence,,,
-CPV,2,agreed,,CPV-001
-DJI,4,agreed,in-service,DJI-020;DJI-021
-DZA,4,building,in-service,DZA-001;DZA-002;DZA-003
-EGY,4,,in-service,EGY-003;EGY-002
+CPV,no evidence,,,
+DJI,2,agreed,,DJI-016;DJI-001
+DZA,4,building,link,DZA-001;DZA-002;DZA-003
+EGY,4,,link,EGY-003;EGY-002
 ERI,1,,,ERI-002
 ETH,3,building,,ETH-003;ETH-002
-GAB,4,agreed,in-service,GAB-004
-GHA,4,agreed,in-service,GHA-001
-GIN,2,agreed,,GIN-002;GIN-001
-GMB,4,,in-service,GMB-001
+GAB,4,agreed,link,GAB-004
+GHA,2,agreed,,GHA-002
+GIN,4,agreed,link,GIN-004;GIN-005
+GMB,4,,link,GMB-001
 GNB,unplaced,,,
-GNQ,4,agreed,in-service,GNQ-001
-KEN,4,agreed,in-service,KEN-009;KEN-011
-LBR,4,,in-service,LBR-002
-LBY,4,agreed,in-service,LBY-001
-LSO,4,,in-service,LSO-001
-MAR,4,,in-service,MAR-001
-MDG,4,,in-service,MDG-004
-MLI,4,agreed,in-service,MLI-002;MLI-001
-MOZ,4,,in-service,MOZ-002
-MRT,4,,in-service,MRT-001
-MUS,4,,in-service,MUS-001
-MWI,4,,in-service,MWI-002
-NAM,4,agreed,in-service,NAM-006
-NER,4,building,in-service,NER-009;NER-012
-NGA,4,agreed,in-service,NGA-003
-RWA,unplaced,,,
-SDN,4,agreed,in-service,SDN-016;SDN-015
-SEN,5,,in-use,SEN-003;SEN-001
-SLE,2,agreed,,SLE-003;SLE-002
-SOM,4,agreed,in-service,SOM-003
+GNQ,4,agreed,link,GNQ-001
+KEN,4,agreed,link,KEN-004;KEN-006
+LBR,no evidence,,,
+LBY,no evidence,,,
+LSO,no evidence,,,
+MAR,no evidence,,,
+MDG,4,,link,MDG-004
+MLI,4,agreed,link,MLI-002;MLI-005
+MOZ,4,,link,MOZ-002;MOZ-003
+MRT,no evidence,,,
+MUS,4,,link,MUS-001
+MWI,no evidence,,,
+NAM,2,agreed,,NAM-002;NAM-001
+NER,4,building,link,NER-001;NER-002;NER-003
+NGA,4,agreed,link,NGA-003
+RWA,no evidence,,,
+SDN,4,agreed,link,SDN-016;SDN-015
+SEN,4,,link,SEN-002;SEN-003
+SLE,4,agreed,link,SLE-006
+SOM,2,agreed,,SOM-001
 SSD,2,agreed,,SSD-004;SSD-006
-STP,4,,in-service,STP-003
-SWZ,4,agreed,in-service,SWZ-002
-SYC,4,,in-service,SYC-002;SYC-001
-TCD,3,building,,TCD-001;TCD-002;TCD-007
-TGO,5,agreed,in-use,TGO-002
+STP,4,,link,STP-003
+SWZ,unplaced,,,
+SYC,no evidence,,,
+TCD,4,building,link,TCD-009;TCD-010
+TGO,2,agreed,,TGO-001
 TUN,2,agreed,,TUN-001
-TZA,4,agreed,in-service,TZA-002;TZA-003
-UGA,4,,in-service,UGA-003;UGA-005
-ZAF,4,building,in-service,ZAF-003;ZAF-002;ZAF-005
-ZMB,4,,in-service,ZMB-003
-ZWE,4,building,in-service,ZWE-002;ZWE-010;ZWE-003
+TZA,4,agreed,link,TZA-002;TZA-003
+UGA,no evidence,,,
+ZAF,4,,link,ZAF-007
+ZMB,4,,link,ZMB-003
+ZWE,unplaced,,,

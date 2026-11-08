@@ -1,16 +1,17 @@
 {
- "iso3": "MOZ",
- "cells": [
-  {
-   "sub_indicator": "shared",
-   "stage": "4",
-   "built": "",
-   "service": "in-service",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MOZ-002",
-   "gaps": "No source found reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.",
-   "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py."
-  }
- ]
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "shared",
+      "stage": "4",
+      "built": "",
+      "service": "link",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MOZ-002;MOZ-003",
+      "gaps": "Only one kind of shared infrastructure is on record in service: no second among cross-border links, a shared traffic exchange and shared data storage.",
+      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

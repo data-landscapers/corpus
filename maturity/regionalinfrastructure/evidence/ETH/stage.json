@@ -3,14 +3,14 @@
   "cells": [
     {
       "sub_indicator": "shared",
-      "stage": "4",
+      "stage": "3",
       "built": "building",
-      "service": "in-service",
+      "service": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-019;ETH-003",
-      "gaps": "No source found reports a link carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a named user from the other country.",
-      "note": "Fact 2026-01-22: a Djibouti Telecom profile lists a land cable between Djibouti and Ethiopia in its network (ETH-019), a link in service; Horizon is being built. No figures or named foreign user, so not 5.",
+      "stage_sources": "ETH-003;ETH-002",
+      "gaps": "No source found says a shared link, exchange or data facility is in service.",
+      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
       "as_at": "2026-11-08"
     }
   ]

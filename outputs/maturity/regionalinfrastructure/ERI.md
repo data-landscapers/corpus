@@ -2,10 +2,10 @@
 
 ## Digital links and facilities shared with other African countries
 
-**Shared link or facility agreed and under construction.** A World Bank overview of 2021 [found that the planned regional cable along the coast and the regional data projects carried no commitment to serve Asmara](<https://doi.org/10.1596/36458>).
+**Shared infrastructure agreed and under construction.** No agreement to build or join shared digital infrastructure has been found for Eritrea. A 2021 World Bank overview [said the planned regional sea cable and data projects lacked a commitment](<https://doi.org/10.1596/36458>) to serve the whole region, Asmara included. No later source reports an agreement, a financing or a start of works on any link to a neighbour. Nor is Eritrea named in a regional programme's plans.
 
-**In service and carrying another country's traffic.** Eritrea [still had no international fibre connection in April 2026](<https://russellsouthwood.substack.com/p/the-long-view-what-ict4d-did-for>), as a commentary on African telecommunications published that month records. The World Bank's regional overview [had said in June 2021](<https://doi.org/10.1596/36458>) that the submarine cable planned along the coast of the Horn of Africa, and the regional data infrastructure projects planned beside it, lacked any commitment to serve the whole region, Asmara included. No agreement with a neighbour, no works and no link in service are recorded for the country in the five years between the two.
+**Shared infrastructure in service, by kind.** A commentary published on 16 April 2026 [says Eritrea still has no international fibre connection](<https://russellsouthwood.substack.com/p/the-long-view-what-ict4d-did-for>). No link, exchange point or data facility shared with another African country is on record. The 2026 statement is the dated absence that sets the stage. It holds until a dated source names shared infrastructure.
 
-***Also on file***. [2Africa](<https://www.middleeasteye.net/news/cable-firms-eye-eritrea-yemen-houthi-attacks-threaten-internet-traffic>); [2Africa Cable](<https://doi.org/10.1596/36458>).
+***Also on file***. None found.
 
-***Not found***. 
+***Not found***. No source found names a link, exchange or data facility Eritrea shares with a neighbour. None names a plan agreed in the last three years.

@@ -2,10 +2,10 @@
 
 ## Digital links and facilities shared with other African countries
 
-**Shared link or facility agreed and under construction.** The METISS cable was [built by a consortium of six Indian Ocean operators](<https://fibernet.ceb.mu/wp-content/uploads/2021/03/2021-03-17-MISE-EN-SERVICE-DU-CABLE-METISS.pdf>), among them CEB and Emtel of Mauritius. Its members paid the cost of about EUR 50 million themselves. It was laid from March 2020 and reached each landing in June 2020. Its entry into service then waited on landing agreements in South Africa and on training for the operating teams.
+**Shared infrastructure agreed and under construction.** No agreement, memorandum or financing for new shared infrastructure, dated in the last three years, has been found for Mauritius. The arrangement on record is the METISS consortium. CEB and Emtel are its Mauritian members, beside Madagascar's Telma, the [consortium's 2021 statement](<https://fibernet.ceb.mu/wp-content/uploads/2021/03/2021-03-17-MISE-EN-SERVICE-DU-CABLE-METISS.pdf>) says.
 
-**In service and carrying another country's traffic.** METISS [entered service on 5 March 2021](<https://fibernet.ceb.mu/wp-content/uploads/2021/03/2021-03-17-MISE-EN-SERVICE-DU-CABLE-METISS.pdf>), a 3,200 km cable joining Mauritius, Réunion and Madagascar to a landing near Durban. The consortium said its first links to Africa were already used by its operators' customers. In May 2026 the Mauritius Internet Exchange Point in Ebene [had 19 members, among them CMC Networks and Vodacom of South Africa](<https://pulse.internetsociety.org/en/ixp-tracker/ixp/516/>).
+**Shared infrastructure in service, by kind.** The METISS consortium states that its 3,200 km sea cable [entered service on 5 March 2021](<https://fibernet.ceb.mu/wp-content/uploads/2021/03/2021-03-17-MISE-EN-SERVICE-DU-CABLE-METISS.pdf>). It links Mauritius, Réunion and Madagascar to a landing near Durban. The operators' customers were already using its first links to Africa. South African networks [are members of the Mauritius Internet Exchange Point](<https://pulse.internetsociety.org/en/ixp-tracker/ixp/516/>), PeeringDB data of May 2026 show. Foreign members joining an exchange are commercial use. No data facility run with another country is on record.
 
-***Also on file***. [Mauritius Internet Exchange Point (MIXP)](<https://pulse.internetsociety.org/en/ixp-tracker/ixp/516/>) and [AFRINIC](<https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-appeal-receiver-permission-statutory-leave-undecided>).
+***Also on file***. [Mauritius Internet Exchange Point](<https://pulse.internetsociety.org/en/ixp-tracker/ixp/516/>).
 
-***Not found***. No source found gives figures for traffic carried across the METISS cable or exchanged at the MIXP.
+***Not found***. No source found says an exchange point or data centre is shared with another country under an agreement.

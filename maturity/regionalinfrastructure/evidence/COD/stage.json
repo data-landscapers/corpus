@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "shared",
-      "stage": "4",
+      "stage": "2",
       "built": "agreed",
-      "service": "in-service",
+      "service": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "COD-005;COD-004",
-      "gaps": "No source found names another country whose traffic these links or KINIX carry. Networks registered abroad peering at KINIX (August 2026) do not show it.",
-      "note": "The Goma-Mombasa route has been in service since February 2026, a yes to question 3. Foreign-registered networks peering at KINIX are not shown to carry another country's traffic, so it stops at 4.",
-      "as_at": "2026-11-05"
+      "stage_sources": "COD-008",
+      "gaps": "No source found says building has started in the last three years.",
+      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
+      "as_at": "2026-11-08"
     }
   ]
 }

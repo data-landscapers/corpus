@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "shared",
-      "stage": "5",
+      "stage": "4",
       "built": "",
-      "service": "in-use",
+      "service": "link",
       "cap": "",
       "flags": "",
-      "stage_sources": "SEN-003;SEN-001",
-      "gaps": "Nothing on the four questions.",
+      "stage_sources": "SEN-002;SEN-003",
+      "gaps": "Only one kind of shared infrastructure is on record in service: no second among cross-border links, a shared traffic exchange and shared data storage.",
       "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
-      "as_at": "2026-10-31"
+      "as_at": "2026-11-08"
     }
   ]
 }

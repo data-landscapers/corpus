@@ -5,12 +5,12 @@
       "sub_indicator": "shared",
       "stage": "4",
       "built": "agreed",
-      "service": "in-service",
+      "service": "link",
       "cap": "",
       "flags": "",
       "stage_sources": "GIN-004;GIN-005",
-      "gaps": "No source found reports a link carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a named user from the other country.",
-      "note": "Fact 2025: the ministry says four cross-border interconnections, with Mali, Senegal, Cote d'Ivoire and Sierra Leone, were in operation (GIN-004), and the backbone network says Mali is connected (GIN-005). No traffic figures or named foreign user, so not 5.",
+      "gaps": "Only one kind of shared infrastructure is on record in service: no second among cross-border links, a shared traffic exchange and shared data storage.",
+      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
       "as_at": "2026-11-08"
     }
   ]

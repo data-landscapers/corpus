@@ -1,16 +1,17 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "shared",
-   "stage": "2",
-   "built": "agreed",
-   "service": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "AGO-004;AGO-003",
-   "gaps": "No source found says building has started in the last three years.",
-   "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py."
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "shared",
+      "stage": "2",
+      "built": "agreed",
+      "service": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-004;AGO-003",
+      "gaps": "No source found says building has started in the last three years.",
+      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

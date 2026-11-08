@@ -2,10 +2,10 @@
 
 ## Digital links and facilities shared with other African countries
 
-**Shared link or facility agreed and under construction.** Equatorial Guinea and Gabon [signed an agreement on joining their fibre networks at Mongomo on 10 November 2025](<https://techafricanews.com/2025/11/13/historic-fibre-roaming-and-frequency-deals-signed-between-gabon-and-equatorial-guinea/>), between the two ministers for the digital economy. The agreement and the inauguration of the link fell on the same day.
+**Shared infrastructure agreed and under construction.** Equatorial Guinea's and Gabon's digital economy ministers [signed an agreement at Mongomo on 10 November 2025](<https://techafricanews.com/2025/11/13/historic-fibre-roaming-and-frequency-deals-signed-between-gabon-and-equatorial-guinea/>) to interconnect their fibre networks. Nigeria's Backbone Connectivity Network and Equatorial Guinea's transport minister [signed a sea cable agreement in Malabo in February 2026](<https://www.connectingafrica.com/fiber-networking/nigeria-equatorial-guinea-subsea-cable-to-strengthen-regional-connectivity>). It would add a direct link between the two countries. Specifications, investment and a timetable were not disclosed.
 
-**In service and carrying another country's traffic.** The two ministers [inaugurated the physical and logical interconnection of the national fibre backbones on 10 November 2025](<https://spin.ga/alliance-historique-numerique-gabon-guinee-equatoriale/>), at Ebebeyin on the Equatoguinean side and Meyo-Kyé on the Gabonese. Gabon's backbone company reports that tests confirmed a stable exchange of traffic between Bitam and Ebebeyin, the two border towns, and between Libreville and Bata, the two countries' main coastal cities. The inauguration was held on the day the two governments signed their agreement.
+**Shared infrastructure in service, by kind.** The two ministers [inaugurated the interconnection of the Gabonese and Equatoguinean backbones on 10 November 2025](<https://spin.ga/alliance-historique-numerique-gabon-guinee-equatoriale/>), at Meyo-Kyé and Ebebeyin. Tests confirmed traffic flowing between Bitam and Ebebeyin, and between Libreville and Bata. Gabon's backbone company reported it. No exchange point or data facility run with another country is on record.
 
-***Also on file***. [Equatorial Guinea Internet Exchange Point (IXP)](<https://map.au-pida.org/projects/show/8290001>).
+***Also on file***. None found.
 
-***Not found***. No source found reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.
+***Not found***. No source found says an exchange point or data centre is shared with another country. None says work has begun on the cable to Nigeria.

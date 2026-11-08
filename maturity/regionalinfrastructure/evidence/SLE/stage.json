@@ -5,12 +5,12 @@
       "sub_indicator": "shared",
       "stage": "4",
       "built": "agreed",
-      "service": "in-service",
+      "service": "link",
       "cap": "",
       "flags": "",
-      "stage_sources": "SLE-005;SLE-004",
-      "gaps": "No source found names a user from another country or gives figures for traffic carried across the border.",
-      "note": "Fact 2025-01: Michcom-IX is live with points of presence in Freetown, Conakry and Monrovia (SLE-005, SLE-004), a shared facility in service. Its listed peers are all Sierra Leonean, so not 5.",
+      "stage_sources": "SLE-006",
+      "gaps": "Only one kind of shared infrastructure is on record in service: no second among cross-border links, a shared traffic exchange and shared data storage.",
+      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
       "as_at": "2026-11-08"
     }
   ]

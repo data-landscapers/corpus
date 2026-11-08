@@ -3,14 +3,14 @@
   "cells": [
     {
       "sub_indicator": "shared",
-      "stage": "4",
-      "built": "agreed",
-      "service": "in-service",
+      "stage": "no evidence",
+      "built": "",
+      "service": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "RWA-004",
-      "gaps": "No source found names a user from another country or gives figures for traffic carried across the border.",
-      "note": "Fact 2026-11: RINEX is in service with members registered in Mauritius, Cote d'Ivoire and Kenya (RWA-004), a shared facility in service. The foreign members are not named, so not 5.",
+      "stage_sources": "",
+      "gaps": "Nothing found names a digital link or facility the country shares with another African country, or says it has none.",
+      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
       "as_at": "2026-11-08"
     }
   ]

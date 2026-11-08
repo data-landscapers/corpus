@@ -4,4 +4,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No shared digital link or facility agreed, being built or in service in the last three years is held, and no source from those years says the country has none. The Amilcar Cabral submarine cable was agreed in April 2023 and was still unfunded in June 2024.
+***Not found***. No source found reports shared infrastructure agreed in the last three years or in service. None says the country has none. The [Amilcar Cabral sea cable protocol](<https://ang.gw/telecomunicacoes-ministro-diz-que-o-projeto-do-cabo-submarino-amilcar-cabral-vai-reforcar-a-integracao-da-guine-bissau-ao-mundo-global/>) dates from April 2023.

@@ -2,8 +2,8 @@
 type: task
 reader: cc
 title: maturity-study-regionalinfrastructure.md — the twenty-ninth maturity study: digital links and facilities shared with other African countries, in four questions
-last_reviewed: 2026-10-13
-status: run 2026-10-13; redesigned on Bill's word 2026-11-07 (§8), adopted at the next rebuild
+last_reviewed: 2026-11-08
+status: run 2026-10-13; redesigned on Bill's word 2026-11-07 and adopted 2026-11-08 (§8)
 ---
 
 # Maturity study: regionalinfrastructure
@@ -12,7 +12,15 @@ status: run 2026-10-13; redesigned on Bill's word 2026-11-07 (§8), adopted at t
 
 ## 1. What is assessed
 
-**A link or facility that carries or holds digital traffic for the country and at least one other African country**, whoever owns it and whatever it is called: a fibre link across a border, a submarine cable that joins two African countries or that a landlocked country reaches through a neighbour, an internet exchange point or data centre that serves more than one country, a satellite owned or used by more than one.
+*(Redesigned on Bill's word, 2026-11-07, on message 78: "This needs a major overhaul. It is not just about cables but data storage, IXPs, etc. And it needs to involve a degree of active collaboration. Cables transversing a country do not, on their own, constitute sharing." Adopted at the rebuild of 2026-11-08.)*
+
+**Digital infrastructure the country builds, runs or uses together with at least one other African country, under an arrangement both are party to.** Three kinds count:
+
+- **Links**: a cross-border fibre interconnection, a regional backbone, a sea cable held by a consortium of African states or their operators, a shared satellite.
+- **Traffic exchange**: an internet exchange point run for more than one country under an agreement between national bodies or a regional programme, or an agreed interconnection between two countries' exchanges.
+- **Data storage**: a data centre, cloud or backup site owned jointly, or holding another country's public data under an agreement.
+
+**Active collaboration is the test.** A party is a government, regulator, state operator or national body (an exchange, a research and education network) of each country, or a regional body acting for them.
 
 The study redraws `gov.regional--shared-regional-infrastructure`, which as at 2026-08-31 puts 22 countries at stage 3, 22 at stage 2 and one at stage 1, none at 4 or 5, and leaves nine unplaced. It touches no other row.
 
@@ -20,7 +28,7 @@ The study redraws `gov.regional--shared-regional-infrastructure`, which as at 20
 |---|---|---|
 | Digital links and facilities shared with other African countries | Shared regional infrastructure: digital links and facilities shared with other African countries | `gov.regional--shared-regional-infrastructure` |
 
-Anything else the evidence names is `other`, noted and never staged: a roaming cut, a frequency agreement or a joint body, which the regional policy row holds; a regional payment switch or settlement system, which the cross-border payments row holds; an identity card or a police or customs system shared across borders; a link to a country outside Africa; a submarine cable landing with no other African country named; a national backbone, exchange point or data centre that no other country is reported using.
+Anything else the evidence names is `other`, noted and never staged: a cable that crosses or lands in the country with no arrangement it is party to; one company's network across borders; a commercial facility taking foreign customers with no arrangement between national bodies; a roaming cut, a frequency agreement or a joint body, which the regional policy row holds; a regional payment switch or settlement system, which the cross-border payments row holds; an identity card or a police or customs system shared across borders; a link to a country outside Africa; a national backbone, exchange point or data centre that no other country is reported using under an arrangement.
 
 ## 2. The questions
 
@@ -28,10 +36,10 @@ Asked in order. Each is answered with a date and a link.
 
 | # | Question | A yes is |
 |---|---|---|
-| 1 | Has the country agreed in the last three years to build or join a shared link or facility with another African country? | A dated agreement, memorandum or financing agreement that names the link or facility and the other country or the regional body. Talks, a study, a bid to host or a commitment reaffirmed is not a yes |
-| 2 | Has building started in the last three years? | A dated source saying a contract was awarded, works began or cable was being laid. A tender opened or money promised is not a yes |
-| 3 | Is it in service? | A dated source saying the link was lit, commissioned or opened to traffic, or the facility opened to users from another country. A launch ceremony for works, or a test, is not a yes |
-| 4 | Is it reported carrying another country's traffic in the last three years? | Published figures of capacity sold or traffic carried across the border; a named operator or government of the other country reported buying or using it; or a fault on it reported cutting the other country's service. An opening or a statement of capacity available is not a yes |
+| 1 | Has the country agreed in the last three years, with another African country or through a regional body, to build, join or jointly run shared infrastructure? | A dated agreement, memorandum or financing agreement naming the facility and the partner. Talks, a study or a bid to host is not a yes |
+| 2 | Has building started in the last three years? | A contract awarded, works begun or cable being laid. A tender or money promised is not a yes |
+| 3 | Is shared infrastructure in service under such an arrangement? | A dated source saying it was lit, commissioned or opened, or naming the other country's body as using it under the arrangement |
+| 4 | Is shared infrastructure of a second kind in service? | Question 3 answered for two of the three kinds |
 
 ## 3. The ladders
 
@@ -39,35 +47,36 @@ Asked in order. Each is answered with a date and a link.
 
 | Stage | Answers |
 |---|---|
-| 1 Absent | A dated source says the country has no digital link with a neighbour, or stands outside the shared links of its region, with none on record |
-| 2 Preparing | Yes to 1: agreed, and nothing more on record |
-| 3 Establishing | Yes to 1 and 2: being built |
-| 4 Operating | Yes to 1, 2 and 3: in service |
-| 5 Leading | Yes to all four: reported carrying another country's traffic in the last three years |
+| 1 Absent | A dated source says the country shares no digital infrastructure with another African country |
+| 2 Preparing | Yes to 1 |
+| 3 Establishing | Yes to 1 and 2 |
+| 4 Operating | Yes to 1 to 3: one kind in service |
+| 5 Leading | Yes to all four: two kinds in service |
 
 - **A yes to a later question answers the earlier ones**: a link in service was agreed and built.
-- **Question 3 has no time limit**; a link in service stands, with its year, until a dated source says it is cut or closed. Questions 1, 2 and 4 count for three years.
-- **A statement that the country has no shared link counts for three years**, and gives way to a dated source naming one.
+- **Questions 3 and 4 have no time limit**; a facility in service stands until a dated source says it is cut or closed. Questions 1 and 2 count for three years.
+- **A company counts only as a party to an arrangement with the other country's operator or body.** One company's or one group's network across borders, with its own subsidiaries or wholesale customers, is `other`.
+- **Foreign networks joining an exchange as members is commercial use, not collaboration** *(settles message 78)*: a yes needs an agreement between the exchange or its national body and a body of the other country, or a regional programme naming both. Neither South Africa (NAPAfrica) nor the Democratic Republic of the Congo (KINIX) takes a yes on peering alone.
+- **The arrangement is taken from what a source says**: a source names a party in each country, or the consortium or regional programme that holds the facility. A state operator's link to a neighbour with no party there named is not yet a yes *(adopted at the rebuild, 2026-11-08)*.
+- **A statement that the country shares no digital infrastructure counts for three years**, and gives way to a dated source naming some.
 - **A link counts for each country a source names at its ends.** A country only named as on the route does not take the stage.
-- **A landlocked country's route to a sea cable through a neighbour is a link in service** for both, where a dated source says traffic runs over it.
-- **A submarine cable counts where a source says it joins the country to another African country.** A landing alone does not.
-- **A company's link counts as a government's does.** What is asked is what the link does.
+- **A landlocked country's route to a sea cable through a neighbour is a link in service** for both, where a dated source says traffic runs over it under an arrangement both are party to.
+- **A submarine cable counts where a source says it joins the country to another African country** and the country's operator is in the consortium or agreement that holds it. A landing alone does not.
 - **A regional programme's financing signed by the country is a yes to question 1** where the source names the cross-border link or shared facility it pays for.
 - **An agreement a later dated source says is suspended or cancelled is no longer a yes.**
-- **A national facility described as serving the region is not a yes to question 3** until a source names another country using it.
-- **The best-placed link sets the stage**; the others are named in the summary.
-- **What a link joins and what it carries is taken from what a source says of it.** How good or how dear it is, is not judged.
-- **A resolution to pay for a study of a shared satellite is a study**, not a yes to question 1 *(added in the run, for the Northern Corridor states' satellite)*.
-- **A link live and carrying traffic for customers who are not named is in service, not a yes to question 4** *(added in the run, for the Goma to Mombasa route)*.
-- **A network named as crossing the country, with no link to a neighbour named, is not a yes** *(added in the run, for one company's network in 25 countries)*.
-- **A cable owner's announced plan, or a consensus reached at a workshop, is not an agreement** *(added in the run, for Madagascar, Liberia and Sierra Leone)*.
-- **A company's cable that a source says carries a landlocked country's traffic to its parent network is in service for each country it serves** *(added in the run, for the cable from Morocco to Niger)*.
+- **A national facility described as serving the region is not a yes to question 3** until a source names another country's body using it under an arrangement.
+- **The best-placed facility sets the stage**; the others are named in the summary.
+- **What a facility joins and what it carries is taken from what a source says of it.** How good or how dear it is, is not judged.
+- **A resolution to pay for a study of a shared satellite is a study**, not a yes to question 1 *(added in the first run, for the Northern Corridor states' satellite)*.
+- **A network named as crossing the country, with no link to a neighbour named, is not a yes** *(added in the first run)*.
+- **A cable owner's announced plan, or a consensus reached at a workshop, is not an agreement** *(added in the first run, for Madagascar, Liberia and Sierra Leone)*.
+- **Withdrawn at the redesign**: *a company's link counts as a government's*; *a link live and carrying traffic for customers not named* no longer bears on a question; and *a company's cable carrying a landlocked country's traffic to its parent network is in service*, which §1 now lists as one company's network.
 
-`study.json` holds this as two aspects: `built` (`building`, `agreed`, `none`) for questions 1 and 2, and `service` (`in-use`, `in-service`, `none`) for 3 and 4.
+`study.json` holds this as two aspects: `built` (`building`, `agreed`, `none`) for questions 1 and 2, and `service` (`link`, `exchange`, `storage`, `none`) for 3 and 4.
 
 ## 4. The norm
 
-The African Union's Programme for Infrastructure Development in Africa and its Digital Transformation Strategy for Africa (2020 to 2030) ask member states to join their networks across borders, to give landlocked countries a route to the sea cables and to share exchange points and data centres. This study asks whether a country has agreed a shared link or facility, started building it, put it in service and has it carrying another country's traffic; it does not measure capacity or price.
+The African Union's Programme for Infrastructure Development in Africa and its Digital Transformation Strategy for Africa (2020 to 2030) ask member states to join their networks across borders, to give landlocked countries a route to the sea cables and to share exchange points and data centres. This study asks whether a country has agreed shared digital infrastructure with another African country, started building it, and has one kind or two in service under an arrangement both are party to; it does not measure capacity or price.
 
 ## 5. What the run reads
 
@@ -100,7 +109,7 @@ The African Union's Programme for Infrastructure Development in Africa and its D
 
 ## 8. The redesign
 
-**Redesigned on Bill's word, 2026-11-07**: `redesign.md` beside this file replaces §1 to §3 at the next rebuild.
+**Redesigned on Bill's word, 2026-11-07, and adopted at the rebuild of 2026-11-08**: §1 to §3 above replace the first run's, and `redesign.md` is deleted. Every `service` row was revalued to its kind or removed, and the rows that name no arrangement were removed with them: 95 removed, 44 revalued to `link` and one added for the other end of a link (`corrections.csv`). Every country was restaged and logged `ladder`: none at 5, 4: 25, 3: 1, 2: 12, 1: 1, three unplaced, 12 without evidence. No exchange or data facility is yet on record in service under an arrangement, so every stage 4 rests on links.
 
 ## Boundary
 

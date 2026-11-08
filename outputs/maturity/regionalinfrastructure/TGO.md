@@ -2,10 +2,10 @@
 
 ## Digital links and facilities shared with other African countries
 
-**Shared link or facility agreed and under construction.** On 6 May 2025 CSquared, Phase3 and SBIN [announced a new land fibre route from Lagos to Accra](<https://csquared.com/csquared-phase3-and-sbin-commission-lagos-to-accra-terrestrial-fibre-route-strengthening-west-africas-digital-resilience/>) through Togo and Benin. They described it as configured, activated and tested. They gave no date for it to be ready for service. The route crosses Togo between Ghana and Benin.
+**Shared infrastructure agreed and under construction.** CSquared, the Nigerian operator Phase3 and Benin's state infrastructure company SBIN [announced a fibre route from Lagos to Accra in May 2025](<https://csquared.com/csquared-phase3-and-sbin-commission-lagos-to-accra-terrestrial-fibre-route-strengthening-west-africas-digital-resilience/>). It runs through Benin and Togo into Ghana. The partners said it was configured, activated and tested. They gave no date for it to enter service. No Togolese public body is named as a party to the route.
 
-**In service and carrying another country's traffic.** In March 2024 CSquared's chief executive [said it had joined its circuits from Togo into Ghana and Benin](<https://capacityglobal.com/news/exclusive-equianos-togo-landing-station-sees-4x-increase-in-traffic/>). It had sold capacity to MTN Ghana and Vodafone Ghana through the Equiano landing in Lomé. In July 2026 the Lomé exchange TGIX [had nine members, among them GVA of Côte d'Ivoire](<https://pulse.internetsociety.org/en/ixp-tracker/ixp/677/>), on a 1 gigabit port. Six of the nine members are Togolese.
+**Shared infrastructure in service, by kind.** No source found says infrastructure Togo shares under an arrangement is in service. CSquared [sells capacity from Lomé to Ghanaian operators](<https://capacityglobal.com/news/exclusive-equianos-togo-landing-station-sees-4x-increase-in-traffic/>), a 2024 report says, which is one company's business. An Ivorian network [holds a port at the Lomé exchange TGIX](<https://pulse.internetsociety.org/en/ixp-tracker/ixp/677/>), PeeringDB data of July 2026 show. A foreign member joining an exchange is commercial use.
 
-***Also on file***. None found.
+***Also on file***. [TGIX](<https://pulse.internetsociety.org/en/ixp-tracker/ixp/677/>); [CSquared cross-border circuits](<https://capacityglobal.com/news/exclusive-equianos-togo-landing-station-sees-4x-increase-in-traffic/>).
 
-***Not found***. No source found gives the date the Lagos to Accra route is ready for service. None gives figures for traffic carried across Togo's borders.
+***Not found***. No source found says the Lagos to Accra route is in service. None says Togo's exchange or a data centre is shared under an agreement.

@@ -1,16 +1,17 @@
 {
- "iso3": "ERI",
- "cells": [
-  {
-   "sub_indicator": "shared",
-   "stage": "1",
-   "built": "",
-   "service": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ERI-002",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py."
-  }
- ]
+  "iso3": "ERI",
+  "cells": [
+    {
+      "sub_indicator": "shared",
+      "stage": "1",
+      "built": "",
+      "service": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ERI-002",
+      "gaps": "",
+      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

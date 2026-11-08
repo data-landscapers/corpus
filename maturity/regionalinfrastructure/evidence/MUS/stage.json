@@ -3,14 +3,14 @@
   "cells": [
     {
       "sub_indicator": "shared",
-      "stage": "5",
+      "stage": "4",
       "built": "",
-      "service": "in-use",
+      "service": "link",
       "cap": "",
       "flags": "",
-      "stage_sources": "MUS-002;MUS-001",
-      "gaps": "No figures are found for traffic carried across the METISS cable or exchanged at the MIXP.",
-      "note": "Fact 2026-05: South African networks CMC Networks and Vodacom are members of the Mauritius Internet Exchange Point (MUS-002), named users from another country, a yes to question 4.",
+      "stage_sources": "MUS-001",
+      "gaps": "Only one kind of shared infrastructure is on record in service: no second among cross-border links, a shared traffic exchange and shared data storage.",
+      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
       "as_at": "2026-11-08"
     }
   ]

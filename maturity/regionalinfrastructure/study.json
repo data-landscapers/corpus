@@ -112,13 +112,13 @@
       "norm_short": "The African Union's Programme for Infrastructure Development in Africa and its Digital Transformation Strategy ask states to join their networks across borders, give landlocked countries a route to the sea cables and share exchange points and data centres.",
       "class": "shared",
       "criteria": [
-        "A source from the past three years says the country has no digital link with a neighbour, or stands outside the shared links of its region, and none is on record.",
-        "In the past three years the country has agreed to build or join a link or facility shared with another African country: a cross-border fibre link, a sea cable joining two African countries, a shared exchange point, data centre or satellite. Talks, a study or a bid to host do not count.",
-        "Building has started in the past three years: a contract awarded, works begun or cable being laid. A tender opened or money promised does not count.",
-        "A shared link or facility is in service: lit, commissioned or opened to traffic. A ceremony for the start of works, or a test, does not count.",
-        "It is reported carrying another country's traffic in the past three years: published figures of capacity sold or traffic carried across the border, a named user from the other country, or a fault that cut the other country's service."
+        "A source from the past three years says the country shares no digital infrastructure with another African country.",
+        "In the past three years the country has agreed with another African country, or through a regional body, to build, join or jointly run shared digital infrastructure: a cross-border link, a shared internet exchange or shared data storage. Talks, a study or a bid to host do not count.",
+        "Building has started in the past three years: a contract awarded, works begun or cable being laid. A tender or money promised does not count.",
+        "One kind of shared infrastructure is in service under an arrangement both countries are party to: a link, a traffic exchange or data storage. A cable that only crosses or lands in the country, one company's network, or foreign networks joining its exchange, does not count.",
+        "Two of the three kinds, links, traffic exchange and data storage, are in service under such arrangements."
       ],
-      "criteria_of": "68d9f1f32edc"
+      "criteria_of": "881e0de944b3"
     }
   ],
   "classes": [
@@ -128,7 +128,7 @@
   "aspects": [
     {
       "key": "built",
-      "name": "Shared link or facility agreed and under construction",
+      "name": "Shared infrastructure agreed and under construction",
       "role": "coverage",
       "defer": [
         "none"
@@ -145,18 +145,20 @@
     },
     {
       "key": "service",
-      "name": "In service and carrying another country's traffic",
+      "name": "Shared infrastructure in service, by kind",
       "role": "coverage",
       "defer": [
         "none"
       ],
       "prefer": [
-        "in-use",
-        "in-service"
+        "link",
+        "exchange",
+        "storage"
       ],
       "values": [
-        "in-use",
-        "in-service",
+        "link",
+        "exchange",
+        "storage",
         "none"
       ]
     }

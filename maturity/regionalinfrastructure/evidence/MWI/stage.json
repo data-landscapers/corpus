@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "shared",
-      "stage": "4",
+      "stage": "no evidence",
       "built": "",
-      "service": "in-service",
+      "service": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MWI-002",
-      "gaps": "No source found reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.",
+      "stage_sources": "",
+      "gaps": "Nothing found names a digital link or facility the country shares with another African country, or says it has none.",
       "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
-      "as_at": "2026-10-17"
+      "as_at": "2026-11-08"
     }
   ]
 }

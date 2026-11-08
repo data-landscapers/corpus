@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "shared",
-      "stage": "3",
-      "built": "building",
+      "stage": "2",
+      "built": "agreed",
       "service": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SSD-007",
-      "gaps": "No source found says a shared link or facility is in service: the Bayobab Northern Route 1 is laid but not activated.",
-      "note": "Reassessed 2026-11-04: Bayobab completed civil works and fibre deployment on the Kenya and South Sudan segments of its East to West Northern Route 1 (October 2026), so building has started. Activation is still to come, so not 4.",
-      "as_at": "2026-11-04"
+      "stage_sources": "SSD-004;SSD-006",
+      "gaps": "No source found says building has started in the last three years.",
+      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
+      "as_at": "2026-11-08"
     }
   ]
 }

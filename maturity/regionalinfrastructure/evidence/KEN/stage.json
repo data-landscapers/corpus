@@ -3,14 +3,14 @@
   "cells": [
     {
       "sub_indicator": "shared",
-      "stage": "5",
+      "stage": "4",
       "built": "agreed",
-      "service": "in-use",
+      "service": "link",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-014;KEN-011",
-      "gaps": "No figures are found for traffic carried across the border or exchanged at KIXP.",
-      "note": "Fact 2024-05-24: a TESPOK deck lists BSC-Rwanda, BCS, Sombha and Roke Telkom of Uganda as members of KIXP (KEN-014), named users from other countries, a yes to question 4.",
+      "stage_sources": "KEN-004;KEN-006",
+      "gaps": "Only one kind of shared infrastructure is on record in service: no second among cross-border links, a shared traffic exchange and shared data storage.",
+      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
       "as_at": "2026-11-08"
     }
   ]

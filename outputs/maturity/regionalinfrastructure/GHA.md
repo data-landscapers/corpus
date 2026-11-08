@@ -2,10 +2,10 @@
 
 ## Digital links and facilities shared with other African countries
 
-**Shared link or facility agreed and under construction.** On 6 May 2025 CSquared, Phase3 and SBIN [announced a new land fibre route from Lagos to Accra](<https://csquared.com/csquared-phase3-and-sbin-commission-lagos-to-accra-terrestrial-fibre-route-strengthening-west-africas-digital-resilience/>) through Togo and Benin. They described it as configured, activated and tested, with no date yet for service. It is separate from the fibre the company already runs between the two cities. It adds a second land path between Nigeria and Ghana.
+**Shared infrastructure agreed and under construction.** CSquared, the Nigerian operator Phase3 and Benin's state infrastructure company SBIN [announced a fibre route from Lagos to Accra in May 2025](<https://csquared.com/csquared-phase3-and-sbin-commission-lagos-to-accra-terrestrial-fibre-route-strengthening-west-africas-digital-resilience/>). It runs through Benin and Togo into Ghana. The partners said it was configured, activated and tested. They gave no date for it to enter service.
 
-**In service and carrying another country's traffic.** In August 2026 [GVA of Côte d'Ivoire held a 100 gigabit port at Accra-IX](<https://tech.africa/accra-three-internet-exchanges/>), Ghana's internet exchange. Routing data of 10 August show it there beside Ghanaian networks. In August 2025 CSquared said [its Accra to Lagos fibre now joins a route from Abidjan to Monrovia](<https://csquared.com/8208/>). The two form one West African backbone.
+**Shared infrastructure in service, by kind.** No source found says infrastructure Ghana shares under an arrangement is in service. GVA of Côte d'Ivoire [holds a 100 Gbps port at Accra-IX](<https://tech.africa/accra-three-internet-exchanges/>), routing data of August 2026 show, but a foreign network joining the exchange is commercial use. CSquared [runs its own network from Accra to Lagos](<https://csquared.com/8208/>), one company's links across borders. Neither is an agreement between bodies of two countries.
 
-***Also on file***. [Accra-IX](<https://tech.africa/accra-three-internet-exchanges/>).
+***Also on file***. [Accra-IX](<https://tech.africa/accra-three-internet-exchanges/>); [CSquared regional network](<https://csquared.com/8208/>).
 
-***Not found***. No source found gives figures for traffic carried across Ghana's borders or exchanged at Accra-IX.
+***Not found***. No source found says the Lagos to Accra route is in service. None says Ghana's exchange or a data centre is shared under an agreement.
