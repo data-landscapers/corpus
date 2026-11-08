@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-08 06:20 · **INDEX** · 1m · research index: stopped by the low-memory reaper, 6,140 behind; message 102 updated - errored
 2026-11-08 06:19 · **BUDGET-EXTRACT** · 9m · MLI FY2027: 79 activity lines from the DPPD-PAP 2027-2029, proposed stage, beside the bill's 21 (100 in all); 308 of 311 action tables foot, bodies and BSI projects reconcile to the annex and are not doubled
 2026-11-08 05:58 · **RENDER** · 29m · 301 documents, home, countries, catalogue 38,381, finance, datasets, maturity rendered; 36 editions pruned; R2 5,889 objects up; deployed 13b1d68 - ok
 2026-11-08 05:29 · **REVIEW** · 16m · RWA: status 12 sections revised, 26 trimmed, progress 1 cell, finance 0 rows; 0 deals queued, 1 note for OSINT - ok
