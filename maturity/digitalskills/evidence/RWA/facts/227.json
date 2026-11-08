@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-rwa-rwanda-s-journey-to-a-single-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "The deck says the Digital Ambassadors Programme, launched in 2017, has 2,000+ ambassadors across all 30 districts and has trained 2.4 million Rwandans in digital literacy (51% women), with a target of 3.8 million trainees by project close.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Digital Ambassadors Programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Ambassadors Programme",
+   "country_label": "Rwanda",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "MINICT / RISA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
