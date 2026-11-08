@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 place: EGY
-ledger_rows: 47
+ledger_rows: 48
 not_held: 36
-record: e4af43123fb6
+record: 623ebf3b267a
 ---
 
 # News, Oct – Nov 2026
@@ -539,6 +539,20 @@ The Tax Authority contracted eTax to build and run a platform that analyses elec
 **[Thales, Cyshield join forces on Egypt’s biometric border and passport plans](https://www.biometricupdate.com/202610/thales-cyshield-join-forces-on-egypts-biometric-border-and-passport-plans)** — Biometric Update, 30 October 2026
 
 Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Takaful and Karama unified social registry</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[التضامن: ربط بيانات 13 مليون أسرة بـ27 قاعدة حكومية لتعزيز دقة استهداف مستحقي الدعم](https://almessa.gomhuriaonline.com/764443/)** — جريدة المساء, 6 November 2026
+
+Social registry of 13m households, about half of Egypt's, linked to 27 government databases by national ID number.
 
 </div>
 
