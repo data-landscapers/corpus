@@ -1,12 +1,12 @@
 ---
 title: Rwanda: status report
-compiled: 2026-11-07
+compiled: 2026-11-08
 place: RWA
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 9
-sources_cited: 249
+sources_cited: 250
 sections_written: 39
 not_established: 0
 acquire_lines: 55
@@ -173,7 +173,7 @@ Cabinet [approved a National Data Sharing Policy on 26 May 2025](https://www.ris
 ### Digital Identity and CRVS
 <!-- dpi.id -->
 
-On 4 October 2026 [the identification agency reported about 13.7 million people biometrically registered for the Single Digital Identity, with the system 76% built](https://www.techinafrica.com/rwanda-secures-e17-million-world-bank-loan-to-expand-digital-identity-and-cybersecurity-infrastructure/). [Nationwide enrolment opened on 7 August 2025, with biometric capture from mid-September](https://www.biometricupdate.com/202508/rwanda-national-identification-agency-begins-digital-id-enrollment). [The country is preparing a full transition to digital identity by 2027](https://www.biometricupdate.com/202606/rwanda-accelerates-biometric-enrollment-ahead-of-digital-id-switch). The agency [suspended the photography exercise for the card, naming no resumption date, while pre-enrolment continues online](https://ukwelitimes.com/en/nida-temporarily-suspends-photography-exercise-for-e-ids) (2026). In October 2026 [the World Bank approved an additional €17 million for the digital acceleration project, much of it for the digital identity infrastructure](https://www.techinafrica.com/rwanda-secures-e17-million-world-bank-loan-to-expand-digital-identity-and-cybersecurity-infrastructure/).
+On 4 October 2026 [the identification agency reported about 13.7 million people biometrically registered for the Single Digital Identity, with the system 76% built](https://www.techinafrica.com/rwanda-secures-e17-million-world-bank-loan-to-expand-digital-identity-and-cybersecurity-infrastructure/). [Nationwide enrolment opened on 7 August 2025, with biometric capture from mid-September](https://www.biometricupdate.com/202508/rwanda-national-identification-agency-begins-digital-id-enrollment). [The country is preparing a full transition to digital identity by 2027](https://www.biometricupdate.com/202606/rwanda-accelerates-biometric-enrollment-ahead-of-digital-id-switch). [The legacy plastic cards are to be phased out by June 2027](https://id4africa.com/2026/files/T1-3-1-Rwanda-FINAL.pdf). The agency [suspended the photography exercise for the card, naming no resumption date, while pre-enrolment continues online](https://ukwelitimes.com/en/nida-temporarily-suspends-photography-exercise-for-e-ids) (2026). In October 2026 [the World Bank approved an additional €17 million for the digital acceleration project, much of it for the digital identity infrastructure](https://www.techinafrica.com/rwanda-secures-e17-million-world-bank-loan-to-expand-digital-identity-and-cybersecurity-infrastructure/).
 
 In March 2026 [the credential was described in three parts: a Single Digital Identification Number for life, a transaction-specific token derived from it, and a card with a QR code readable only after authentication](https://www.biometricupdate.com/202603/rwanda-races-to-meet-2027-deadline-for-digital-id-rollout). [It is built on the civil registration system, linking parent–child family trees](https://www.newtimes.co.rw/article/34090/), and [collects a deliberately small biographic set](https://www.newtimes.co.rw/article/34090/). [The 2025 Auditor-General's report found the legacy system issued a fresh 16-digit number on every correction or replacement](https://www.ktpress.rw/2025/06/why-are-rwandans-getting-multiple-national-id-numbers-auditor-general-points-to-a-system-flaw/). [One person could so hold several numbers, breaking banking, land, SIM, voting and pension records that assume one each](https://www.ktpress.rw/2025/06/why-are-rwandans-getting-multiple-national-id-numbers-auditor-general-points-to-a-system-flaw/).
 
