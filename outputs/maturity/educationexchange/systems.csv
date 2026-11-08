@@ -218,6 +218,7 @@ MLI,Système d'Information et de Gestion de l'Éducation (SIGE),Mali,other,,Mini
 MLI,Education Management Information System,Mali,other,,CPS Education (Ministry of National Education),,2025-12-19-mali-miqra-isr-seq10-emis
 MLI,StatEduc-2,Mali,other,"SQL Server database (formerly Access), data entry and processing over a VPN","CPS-SE, Ministere de l'Education Nationale","central, academies (AE) and animation centres (CAP)",2017-01-01-mali-adea-revue-par-les-pairs-sige
 MLI,JIGITUGU,JIGITUGU,other,cloud server,PASCOFI/EUMC,,2025-06-05-mli-acquisition-et-dotation-en-materiels-informatique-ainsi-que-le-recrute
+MLI,teacher mobility portal,Mali,other,web portal,Ministry of National Education (CPS-SE),national,2026-09-17-mli-malijet-digitalisation-mobilite-enseignants
 MOZ,StatEduc,MOZ,other,"Microsoft .NET, MS SQL Server 2008 R2",Ministry of Education and Culture,,2025-01-01-building-responsive-emis-policies-robust-education-data
 MOZ,"EMIS (DHIS2 for Education, Milange District)",MOZ,other,DHIS2,Milange District education office,district;school,2024-06-25-milange-district-emis-scaling-school-level
 MOZ,EMIS,MOZ,other,,Ministry of Education and Culture,national;provincial;district;school,2026-08-21-gpekix-mozambique-education-data-system
@@ -386,6 +387,7 @@ UGA,Offline Android data capture,Uganda,other,Android,,school,2025-12-01-aphrc-e
 UGA,EMIS,Uganda,other,developed by SMS ONE Ltd,Ministry of Education and Sports,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
 UGA,National Identification Number (NIN),Uganda,other,,NIRA,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
 UGA,UNEB index number,Uganda,other,developed by SMS ONE Ltd,UNEB,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
+UGA,District Health Information System adapted for education (DHIS2),Uganda,other,DHIS2,University of Oslo (research implementer),,2023-12-18-crs-301-20230103130002-2023-empowering-districts-and-schools-with-data-a-digit
 ZAF,SA-SAMS (modernised),South Africa,other,cloud-based school administration and management system,"Department of Basic Education EMIS Directorate, with NECT delivering","school, district, provincial",2026-02-04-dbe-sa-sams-modernisation-uat
 ZAF,SA-SAMS,South Africa,other,,,school,2025-12-01-ijemds-rural-school-sa-sams-utilisation
 ZAF,LURITS (Learner Unit Record Information Tracking System),South Africa,other,,Department of Basic Education,national,2026-01-07-zaf-question-nw5625-to-the-minister-of-basic-education

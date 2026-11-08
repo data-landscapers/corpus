@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-rwa-rwanda-s-journey-to-a-single-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The deck says MINEDUC is integrating education data systems with the Single Digital Identity, and that harmonizing the EMIS and the National Population Register for under-16s is a challenge needing institutional focus.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "EMIS / SDID integration",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
