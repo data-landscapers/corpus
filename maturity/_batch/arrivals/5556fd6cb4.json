@@ -1,0 +1,37 @@
+{"slug": "2026-08-06-eth-what-is-faydaverse-the-ethiopian-national-id-program-that-became-a-com", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Kana TV News reports the Fayda Digital ID system has processed 190 million secure authentications, including real-time biometric eKYC used by banks and telecoms.", "as_of": "2026-08", "date_precision": "month", "system": "Fayda Digital ID", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "Kana TV News reports Fayda is connected to more than 165 public and private institutions and over 150 enterprises pay for eKYC integration.", "as_of": "2026-08", "date_precision": "month", "system": "Fayda Digital ID", "class": "authentication"}
+], "systems": [{"system": "Fayda Digital ID", "country_label": "Ethiopia", "class": "authentication", "platform": "MOSIP", "owner": "FaydaVerse", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Document states nothing on links between the civil register and the ID."}}},
+"dataprotectionlaw": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Kana TV News says Ethiopia's Personal Data Protection Proclamation has been in force since July 2024 and requires personal data collected in Ethiopia to be stored domestically.", "as_of": "2024-07", "date_precision": "month", "system": "Personal Data Protection Proclamation", "class": "general"}
+], "systems": [], "note": ""}}},
+"digitalidlaw": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Kana TV News says the Digital Identification Proclamation passed the House of Peoples' Representatives in March 2023 and, as law, bars collection of ethnicity and other data and sets prison penalties of up to eight years for unauthorised disclosure.", "as_of": "2023-03", "date_precision": "month", "system": "Digital Identification Proclamation", "class": "law"}
+], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"ETH": {"facts": [], "systems": [{"system": "Fayda E-Services", "country_label": "Ethiopia", "class": "other", "platform": "", "owner": "FaydaVerse", "tiers": ""}], "note": "Only a product line described across sectors; no count of services or gateway stated."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Enrolment counts given (nearly 50 million) but no population or share stated."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "maintenance", "aspect": "operation", "value": "national", "fact": "Kana TV News reports state-owned FaydaVerse, under Ethiopian Investment Holdings, began operating on 4 August 2026 and took over management of the national identity system from the government body that previously ran it.", "as_of": "2026-08-04", "date_precision": "day", "system": "Fayda Digital ID", "class": "idsystem"},
+{"sub_indicator": "maintenance", "aspect": "ownership", "value": "owned", "fact": "Kana TV News says Fayda runs on the open-source Modular Open Source Identity Platform, MOSIP.", "as_of": "2026-08", "date_precision": "month", "system": "Fayda Digital ID", "class": "idsystem"}
+], "systems": [{"system": "Fayda Digital ID", "country_label": "Ethiopia", "class": "idsystem", "platform": "MOSIP", "owner": "FaydaVerse", "tiers": ""}], "note": ""}}},
+"idregisters": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "Kana TV News says the Ministry of Revenue uses the Fayda ID for tax filing.", "as_of": "2026-08", "date_precision": "month", "system": "Fayda Digital ID", "class": "register"}
+], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Kana TV News reports Fayda has enrolled nearly 50 million people and issued over 15 million physical ID cards.", "as_of": "2026-08", "date_precision": "month", "system": "Fayda Digital ID", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"idverification": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "Kana TV News says banks, telecoms, hospitals and government offices check citizens' identity against the Fayda database, and SIM cards are already tied to it.", "as_of": "2026-08", "date_precision": "month", "system": "Fayda eKYC", "class": "relying"},
+{"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "Kana TV News says banking, telecoms and tax use Fayda for identity checks, with a National Bank of Ethiopia mandate to link every bank account to a Fayda ID by December 2026.", "as_of": "2026-08", "date_precision": "month", "system": "Fayda eKYC", "class": "relying"},
+{"sub_indicator": "use", "aspect": "usage", "value": "reported", "fact": "Kana TV News reports 190 million total authentications, more than 165 connected institutions and about two million verifications a day.", "as_of": "2026-08", "date_precision": "month", "system": "Fayda eKYC", "class": "relying"}
+], "systems": [], "note": ""}}},
+"interoperability": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No government interoperability framework mentioned."}}},
+"interoperabilitystandards": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No government technical standards for data exchange mentioned."}}},
+"itcapacity": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "Kana TV News reports state-owned FaydaVerse, not a supplier, manages Ethiopia's national identity system from 4 August 2026.", "as_of": "2026-08-04", "date_precision": "day", "system": "Fayda Digital ID", "class": "staff"},
+{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "Kana TV News says FaydaVerse's Fayda E-Services manages e-government platforms spanning commerce, social protection, agriculture, tax and trade.", "as_of": "2026-08", "date_precision": "month", "system": "Fayda E-Services", "class": "staff"}
+], "systems": [], "note": ""}}}
+}}

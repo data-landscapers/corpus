@@ -1,0 +1,12 @@
+{
+  "slug": "2024-04-27-cmr-my-name-my-identity-my-right",
+  "studies": {
+    "admindata": {"countries": {"CMR": {"facts": [], "systems": [], "note": "A school yearbook is named as the source of a figure, but the document does not say the figures are drawn from records."}}},
+    "birthidlink": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Interoperability is named only with health, education, social services and justice, not the ID system."}}},
+    "civilregister": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Gives birth registration figures but no digital register is stated."}}},
+    "idfrombirth": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No ID number at birth stated."}}},
+    "localgov": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Not about council office connections."}}},
+    "registry": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Digitisation is named only as a possible solution; no office entering events digitally is stated."}}},
+    "schools": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No school record system stated."}}}
+  }
+}

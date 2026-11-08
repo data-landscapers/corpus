@@ -1,0 +1,289 @@
+{
+ "slug": "2025-02-01-mwi-digital-malawi-acceleration-project-dmap-p505095-aide-memoire-id-techn",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Bomalathu",
+       "country_label": "Bomalathu data exchange platform",
+       "class": "exchange",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Bomalathu is named as a new data exchange platform but its state is not given."
+    }
+   }
+  },
+  "digitaldivides": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The World Bank mission agreed to integrate the Unified Beneficiary Registry with the national ID system (NRIS), with an ID4D Trust Fund-supported specialist to be hired by 30 March 2025.",
+       "as_of": "2025-02",
+       "date_precision": "month",
+       "system": "Unified Beneficiary Registry",
+       "class": "register"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The World Bank aide-memoire describes Malawi's national ID system, run by the National Registration Bureau, as operating through registration centres and an ID card printing system, though on outdated infrastructure.",
+       "as_of": "2025-02",
+       "date_precision": "month",
+       "system": "National Registration and Identification System (NRIS)",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "robustness",
+       "aspect": "biometric",
+       "value": "checked",
+       "fact": "The World Bank says the national ID system uses an under-capacity Automated Biometric Identification System (ABIS) for biometric authentication and fraud prevention.",
+       "as_of": "2025-02",
+       "date_precision": "month",
+       "system": "ABIS",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Registration and Identification System (NRIS)",
+       "country_label": "Malawi national ID",
+       "class": "idsystem",
+       "platform": "ABIS",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "ruralelectrification": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Malawi."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "MWI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Unified Beneficiary Registry",
+       "country_label": "UBR",
+       "class": "social",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "UBR is named, but its service state is not stated."
+    }
+   }
+  }
+ }
+}

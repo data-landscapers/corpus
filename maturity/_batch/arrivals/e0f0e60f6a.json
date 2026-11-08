@@ -1,0 +1,11 @@
+{"slug": "2024-08-03-mli-confection-de-la-carte-d-identite-biometrique-confiee-a-une-societe-ma", "studies": {
+"authentication": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"civilregister": {"countries": {"MLI": {"facts": [], "systems": [], "note": "CTDEC is named only in a call to centralise databases; no digital registration stated."}}},
+"idcoverage": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No enrolment count or share given."}}},
+"idfrombirth": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"MLI": {"facts": [{"sub_indicator": "maintenance", "aspect": "operation", "value": "national", "fact": "Aujourd'hui-Mali reports that the biometric national ID card is made and produced by a Malian company and that the whole chain is controlled by Malians.", "as_of": "2024-08-03", "date_precision": "day", "system": "Mali Biométrie", "class": "idsystem"}], "systems": [{"system": "Mali Biométrie", "country_label": "MLI", "class": "idsystem", "platform": "", "owner": "Malian authorities, card made by an unnamed Malian company", "tiers": ""}], "note": ""}}},
+"idregisters": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"MLI": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Aujourd'hui-Mali reports that the secure biometric national identity card is issued to Malian citizens at home and in consulates, with the data held in Mali Biométrie.", "as_of": "2024-08-03", "date_precision": "day", "system": "Mali Biométrie", "class": "idsystem"}], "systems": [], "note": ""}}},
+"registry": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on local civil registration offices."}}}
+}}

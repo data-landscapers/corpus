@@ -1,0 +1,12 @@
+{"slug": "2024-10-21-bdi-elections-de-2025-des-zones-d-ombre-autour-de-la-legislation-electoral", "studies": {
+"authentication": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on civil register and ID exchange."}}},
+"civilserviceskills": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on civil service training."}}},
+"electoralregister": {"countries": {"BDI": {"facts": [{"sub_indicator": "electoral", "aspect": "linked", "value": "linked", "fact": "The electoral commission CENI president Prosper Ntahorwamiye announced on 15 October 2024 that anyone enrolling as a voter in the 22-31 October 2024 enrolment must present a valid national identity card.", "as_of": "2024-10", "date_precision": "month", "system": "CENI voter enrolment", "class": "electoral"}], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No count or share of people holding an ID given."}}},
+"idfrombirth": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on who runs or owns the ID system."}}},
+"idregisters": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Voters present the ID card at enrolment; no register is said to be keyed on the ID number."}}},
+"idrobustness": {"countries": {"BDI": {"facts": [], "systems": [], "note": "National ID cards are mentioned only as a requirement and for their old territorial boundaries; issuing, biometrics and certification not stated."}}},
+"localgov": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on local government office connection."}}}
+}}

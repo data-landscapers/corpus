@@ -1,0 +1,14 @@
+{
+ "slug": "2025-03-26-senum-sonatel-partnership",
+ "studies": {
+  "regionalinfrastructure": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Partnership concerns national cables and national IXP; no other country named."
+    }
+   }
+  }
+ }
+}

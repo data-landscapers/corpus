@@ -1,12 +1,1 @@
-{"slug": "2024-02-08-cod-how-ixps-helped-reshape-the-internet-in-the-drc", "studies": {
-"datacentres": {"countries": {"COD": {"facts": [], "systems": [{"system": "RAXIO", "country_label": "data centre said to 'allow more content to be locally available'", "class": "other", "platform": "", "owner": "", "tiers": ""}, {"system": "OpenAccess", "country_label": "data centre said to 'allow more content to be locally available'", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Internet Society names two new data centres in the future tense, not stated in service or for hire."}}},
-"exchangepoints": {"countries": {"COD": {"facts": [
-{"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "Internet Society says the Kinshasa Internet Exchange (KINIX), built by ISPA-DRC in November 2012, has increased local internet traffic from a few Mbps to close to 80 Gbps over ten years.", "as_of": "2012-11", "date_precision": "month", "system": "KINIX", "class": "exchange"},
-{"sub_indicator": "exchange", "aspect": "reach", "value": "wider", "fact": "Internet Society says ISPA-DRC launched a second IXP in Lubumbashi (LUBIX) in 2019 and a third in Goma (GOMIX), operating since 2021.", "as_of": "2021", "date_precision": "year", "system": "LUBIX, GOMIX", "class": "exchange"}
-], "systems": [{"system": "KINIX", "country_label": "Kinshasa Internet Exchange", "class": "exchange", "platform": "", "owner": "ISPA-DRC", "tiers": ""}, {"system": "LUBIX", "country_label": "Lubumbashi", "class": "exchange", "platform": "", "owner": "ISPA-DRC", "tiers": ""}, {"system": "GOMIX", "country_label": "Goma", "class": "exchange", "platform": "", "owner": "ISPA-DRC", "tiers": ""}], "note": ""}}},
-"internetusage": {"countries": {"COD": {"facts": [], "systems": [], "note": "States no figure for the share of people using the internet."}}},
-"mobileaffordability": {"countries": {"COD": {"facts": [], "systems": [], "note": "No mobile data price stated."}}},
-"nationaldatacentres": {"countries": {"COD": {"facts": [], "systems": [], "note": "No data centre for hire in service or its owner stated."}}},
-"startups": {"countries": {"COD": {"facts": [], "systems": [], "note": "Says nothing about startup law or funding."}}},
-"techhubs": {"countries": {"COD": {"facts": [], "systems": [], "note": "Says nothing about technology hubs."}}}
-}}
+{"slug": "2024-02-08-cod-how-ixps-helped-reshape-the-internet-in-the-drc", "studies": {"regionalinfrastructure": {"countries": {"COD": {"facts": [], "systems": [{"system": "KINIX, LUBIX, GOMIX", "country_label": "DR Congo", "class": "other", "platform": "", "owner": "ISPA-DRC", "tiers": ""}], "note": "The IXPs are national and no other country is said to use them."}}}}}

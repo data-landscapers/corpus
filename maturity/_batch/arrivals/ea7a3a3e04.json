@@ -1,24 +1,4 @@
-{
-  "slug": "2025-10-25-gab-sante-connectee-le-gabon-adopte-l-identifiant-unique-et-le-dossier-med",
-  "studies": {
-    "authentication": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on authentication."}}},
-    "birthidlink": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on civil register and ID exchange."}}},
-    "health": {"countries": {"GAB": {"facts": [], "systems": [], "note": "A planned single medical record and identifier; no system in service stated."}}},
-    "healthexchange": {"countries": {"GAB": {
-      "facts": [
-        {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway",
-         "fact": "Gabon's Council of Ministers adopted a draft law fixing the interoperability framework of the health information system (SIS), meant to connect public and private health facilities to one digital architecture.",
-         "as_of": "2025-10-23", "date_precision": "day", "system": "Système d'Information de Santé (SIS)", "class": "exchange"}
-      ],
-      "systems": [
-        {"system": "Système d'Information de Santé (SIS)", "country_label": "Gabon", "class": "exchange", "platform": "", "owner": "Ministry of Health", "tiers": ""}
-      ],
-      "note": ""}}},
-    "idcoverage": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No national ID enrolment figure."}}},
-    "idfrombirth": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The unique identifier is a health-sector one, not a number at birth registration."}}},
-    "idmaintenance": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on the national ID system's operation."}}},
-    "idregisters": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No register keyed on the national ID number."}}},
-    "idrobustness": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Only a health patient identifier draft law; not the national ID system."}}},
-    "interoperability": {"countries": {"GAB": {"facts": [], "systems": [], "note": "The framework is for the health information system, not a government-wide framework."}}}
-  }
-}
+{"slug": "2025-10-25-gab-sante-connectee-le-gabon-adopte-l-identifiant-unique-et-le-dossier-med", "studies": {
+"dataexchange": {"countries": {"GAB": {"facts": [], "systems": [], "note": "A draft interoperability framework for the health information system, with no platform running."}}},
+"datagovernance": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Health-sector texts only, not a national data policy."}}}
+}}

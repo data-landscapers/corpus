@@ -1,5 +1,5 @@
 {"slug": "2025-09-10-lbr-liberia-reviews-national-ict-policy-to-drive-digital-transformation", "studies": {
-"ictstrategy": {"countries": {"LBR": {"facts": [
-{"sub_indicator": "sector", "aspect": "standing", "value": "drafting", "fact": "Liberia's Ministry of Posts and Telecommunications convened a stakeholder dialogue in September 2025 to review and refine the National ICT Policy; no adoption is reported.", "as_of": "2025-09", "date_precision": "month", "system": "National ICT Policy", "class": "sector"}
-], "systems": [{"system": "National ICT Policy", "country_label": "Liberia", "class": "sector", "platform": "", "owner": "Ministry of Posts and Telecommunications", "tiers": ""}], "note": ""}}}
+"datagovernance": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on a data policy."}}},
+"digitalstrategy": {"countries": {"LBR": {"facts": [], "systems": [], "note": "An ICT sector policy review; no national digital strategy stated."}}},
+"ictstrategy": {"countries": {"LBR": {"facts": [{"sub_indicator": "sector", "aspect": "standing", "value": "drafting", "fact": "Liberia's Ministry of Posts and Telecommunications held a stakeholder dialogue on a Tuesday in early September 2025 to review and refine the National ICT Policy, covering broadband, cybersecurity, inclusion and regulation.", "as_of": "2025-09-09", "date_precision": "day", "system": "National ICT Policy", "class": "sector"}], "systems": [], "note": ""}}}
 }}

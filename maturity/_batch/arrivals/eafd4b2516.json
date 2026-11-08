@@ -1,0 +1,16 @@
+{"slug":"2025-11-06-mar-le-ministere-de-l-interieur-developpe-un-systeme-intelligent-pour-dete","studies":{
+"addressregister":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Nothing stated on addressing."}}},
+"aiabuse":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No rule or authority on AI harms stated."}}},
+"aigovernment":{"countries":{"MAR":{"facts":[],"systems":[],"note":"The only AI use is inside the social registry, a sector system, so it is other here."}}},
+"aisectoral":{"countries":{"MAR":{"facts":[{"sub_indicator":"sectorai","aspect":"use","value":"underway","fact":"The Interior Ministry's annual report says it launched a project to detect false declarations in the Registre social unifié and trained a fraud-detection model on RSU data.","as_of":"2025-11-06","date_precision":"day","system":"Registre social unifié (RSU)","class":"sectorai"}],"systems":[],"note":""}}},
+"aisystems":{"countries":{"MAR":{"facts":[],"systems":[],"note":"A model is trained on RSU data but no release or computing facility is stated."}}},
+"businessregister":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Nothing stated on a business register."}}},
+"civilregister":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Nothing stated on civil registration."}}},
+"electoralregister":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Only IT support for the electoral process is mentioned, with no register."}}},
+"itcapacity":{"countries":{"MAR":{"facts":[],"systems":[],"note":"No named system said to be run or built by ministry staff."}}},
+"landregister":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Nothing stated on land."}}},
+"populationregister":{"countries":{"MAR":{"facts":[{"sub_indicator":"population","aspect":"register","value":"inservice","fact":"The Interior Ministry's annual report says that in 2026 it will keep updating the data held in the Registre national de la population (RNP).","as_of":"2025-11-06","date_precision":"day","system":"Registre national de la population (RNP)","class":"population"}],"systems":[],"note":""}}},
+"socialexchange":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Wider verification across programmes is planned only; no link to ID or payments stated."}}},
+"socialregistry":{"countries":{"MAR":{"facts":[{"sub_indicator":"social","aspect":"registry","value":"inservice","fact":"The Interior Ministry's annual report refers to the Registre social unifié as holding data it updates, with citizens' enrolment in the beneficiary targeting system continuing in 2026.","as_of":"2025-11-06","date_precision":"day","system":"Registre social unifié (RSU)","class":"social"}],"systems":[],"note":""}}},
+"taxregister":{"countries":{"MAR":{"facts":[],"systems":[],"note":"Nothing stated on a tax register."}}}
+}}

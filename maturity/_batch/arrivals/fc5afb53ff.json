@@ -1,0 +1,11 @@
+{"slug": "2025-01-01-mus-independence-allowance", "studies": {
+"authentication": {"countries": {"MUS": {"facts": [], "systems": [], "note": "A one-time password on an application form only; no ID authentication service."}}},
+"birthidlink": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"disabilityaccess": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Bank account guidance for disabled youths only; no digital accessibility measure."}}},
+"idcoverage": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idmaintenance": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idregisters": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Application asks for the card number, but no register is said to be keyed on it."}}},
+"idrobustness": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on the ID system itself."}}},
+"socialregistry": {"countries": {"MUS": {"facts": [{"sub_indicator": "social", "aspect": "registry", "value": "inservice", "fact": "The Mauritius Revenue Authority says the Independence Allowance of Rs 20,000 is paid to eligible youths registered on the Social Register of Mauritius on reaching 18.", "as_of": "2025", "date_precision": "year", "system": "Social Register of Mauritius", "class": "social"}], "systems": [{"system": "Social Register of Mauritius", "country_label": "Social Register of Mauritius", "class": "social", "platform": "", "owner": "", "tiers": ""}], "note": ""}}}
+}}

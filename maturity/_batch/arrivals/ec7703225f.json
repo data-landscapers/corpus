@@ -1,0 +1,14 @@
+{"slug": "2025-09-26-civ-cote-d-ivoire-l-interoperabilite-un-catalyseur-de-la-transformation-di", "studies": {
+"authentication": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No authentication service is described."}}},
+"birthidlink": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Birth certificate access via the NNI is only a hypothetical example of what the platform could allow; no link is stated."}}},
+"civilregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No digital civil registration is described."}}},
+"dataexchange": {"countries": {"CIV": {"facts": [{"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "Minister Ibrahim Kalil Konate launched the project to build the public administration interoperability platform on 25 September 2025; SNDI's director general says 12 pilot bodies were chosen and phase 1 with Cybernetica and Digital Africa Telecom ends in April 2026.", "as_of": "2025-09-25", "date_precision": "day", "system": "plateforme d'interoperabilite de l'administration publique", "class": "exchange"}], "systems": [{"system": "plateforme d'interoperabilite de l'administration publique", "country_label": "Cote d'Ivoire", "class": "exchange", "platform": "", "owner": "SNDI", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idfrombirth": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Number at birth not mentioned."}}},
+"idmaintenance": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Who runs or owns the ID system is not stated."}}},
+"idregisters": {"countries": {"CIV": {"facts": [], "systems": [], "note": "NNI use by other registers appears only as a hypothetical example, not a register keyed on it."}}},
+"idrobustness": {"countries": {"CIV": {"facts": [], "systems": [], "note": "NNI is mentioned as unique per resident but no issuance, biometric or audit statement is made."}}},
+"itcapacity": {"countries": {"CIV": {"facts": [], "systems": [], "note": "SNDI is named, but the document does not say its staff build or run systems; the platform work is with named partners."}}},
+"registry": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No local civil registration entry is described."}}},
+"schoolinternet": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Schools not mentioned."}}}
+}}

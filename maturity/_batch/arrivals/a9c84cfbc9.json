@@ -1,13 +1,44 @@
-{"slug": "2026-07-25-cod-le-comite-professionnel-du-numerique-de-la-fec-renforce-son-engagement", "studies": {
-"aiabuse": {"countries": {"COD": {"facts": [], "systems": [], "note": "Says the draft national AI strategy stresses governance and regulation but names no rule or authority on AI harms."}}},
-"aigovernment": {"countries": {"COD": {"facts": [], "systems": [], "note": "No government body's AI use is stated."}}},
-"ailaw": {"countries": {"COD": {"facts": [], "systems": [], "note": "Only a strategy at validation workshop; no draft law or binding rule named."}}},
-"aisectoral": {"countries": {"COD": {"facts": [], "systems": [], "note": "No sectoral AI system stated."}}},
-"aistrategy": {"countries": {"COD": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "The Federation of Enterprises of Congo says it took part on 23-24 July 2026 in the technical validation workshop of the national AI strategy (SNIA-RDC) and its roadmap to 2030, organised by the Ministry of Digital Economy with World Bank support.", "as_of": "2026-07-24", "date_precision": "day", "system": "SNIA-RDC", "class": "strategy"}], "systems": [{"system": "SNIA-RDC (Stratégie Nationale de l'Intelligence Artificielle)", "country_label": "RDC", "class": "strategy", "platform": "", "owner": "Ministère de l'Économie Numérique", "tiers": ""}], "note": ""}}},
-"aisystems": {"countries": {"COD": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
-"civilserviceskills": {"countries": {"COD": {"facts": [], "systems": [], "note": "No civil-service training stated."}}},
-"digitalskills": {"countries": {"COD": {"facts": [], "systems": [], "note": "No public digital-skills programme or measure stated."}}},
-"digitalstrategy": {"countries": {"COD": {"facts": [], "systems": [{"system": "Politique Sectorielle de l'Économie Numérique 2026-2030", "country_label": "RDC", "class": "other", "platform": "", "owner": "Ministère de l'Économie Numérique", "tiers": ""}], "note": "The document calls the PSEN a sector policy; whether it is the whole-government strategy is not stated, so recorded under ictstrategy."}}},
-"ictstrategy": {"countries": {"COD": {"facts": [{"sub_indicator": "sector", "aspect": "standing", "value": "validated", "fact": "At a national workshop on 21-22 July 2026 organised by the Ministry of Digital Economy with World Bank support, participants validated, subject to some amendments, the Sector Policy of the Digital Economy 2026-2030 (PSEN), as the Federation of Enterprises of Congo reports.", "as_of": "2026-07-22", "date_precision": "day", "system": "Politique Sectorielle de l'Économie Numérique 2026-2030", "class": "sector"}, {"sub_indicator": "sector", "aspect": "period", "value": "to:2030", "fact": "The Sector Policy of the Digital Economy is for 2026-2030, per the Federation of Enterprises of Congo.", "as_of": "2026-07-22", "date_precision": "day", "system": "Politique Sectorielle de l'Économie Numérique 2026-2030", "class": "sector"}], "systems": [{"system": "Politique Sectorielle de l'Économie Numérique 2026-2030", "country_label": "RDC", "class": "sector", "platform": "", "owner": "Ministère de l'Économie Numérique", "tiers": ""}], "note": ""}}},
-"publicconsultation": {"countries": {"COD": {"facts": [{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The Federation of Enterprises of Congo's digital committee says it took part in the Ministry of Digital Economy's national validation workshop of the Sector Policy of the Digital Economy 2026-2030 on 21-22 July 2026, and in the technical validation workshop of the national AI strategy on 23-24 July 2026.", "as_of": "2026-07-24", "date_precision": "day", "system": "PSEN and SNIA-RDC validation workshops", "class": "consultation"}], "systems": [], "note": ""}}}
-}}
+{
+ "slug": "2026-07-25-cod-le-comite-professionnel-du-numerique-de-la-fec-renforce-son-engagement",
+ "studies": {
+  "ictstrategy": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "sector",
+       "aspect": "standing",
+       "value": "validated",
+       "fact": "The FEC digital committee says participants technically validated the draft PSEN 2026-2030 on 21-22 July 2026, subject to amendments, before final adoption.",
+       "as_of": "2026-07-22",
+       "date_precision": "day",
+       "system": "Politique sectorielle de l'\u00e9conomie num\u00e9rique (PSEN) 2026-2030",
+       "class": "sector"
+      },
+      {
+       "sub_indicator": "sector",
+       "aspect": "period",
+       "value": "to:2030",
+       "fact": "The PSEN covers 2026-2030.",
+       "as_of": "2026-07-22",
+       "date_precision": "day",
+       "system": "Politique sectorielle de l'\u00e9conomie num\u00e9rique (PSEN) 2026-2030",
+       "class": "sector"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PSEN 2026-2030",
+       "country_label": "Democratic Republic of Congo",
+       "class": "sector",
+       "platform": "",
+       "owner": "Ministry of Digital Economy",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

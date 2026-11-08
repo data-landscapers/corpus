@@ -1,0 +1,21 @@
+{"slug": "2025-06-19-civ-ago-christian-kodia-le-numero-national-d-identification-nni-est-l-elem", "studies": {
+"addressregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on addressing."}}},
+"authentication": {"countries": {"CIV": {"facts": [{"sub_indicator": "authentication", "aspect": "remote", "value": "wallet", "fact": "ONECI's director-general says the national identity card has been digitalised through the MyONECI+ app.", "as_of": "2025-06-19", "date_precision": "day", "system": "MyONECI+", "class": "authentication"}], "systems": [{"system": "MyONECI+", "country_label": "Côte d'Ivoire", "class": "authentication", "platform": "mobile app", "owner": "ONECI", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No exchange between civil register and ID stated."}}},
+"businessregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on business registration."}}},
+"civilregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only a general call to use ONECI's digital civil-status website; no register status stated."}}},
+"datacentres": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No data centre for hire named."}}},
+"digitalidlaw": {"countries": {"CIV": {"facts": [], "systems": [], "note": "A decree is mentioned only in passing; no law or its standing stated."}}},
+"electoralregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on the voters' roll."}}},
+"idcoverage": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only a count of nearly 10 million NNIs, with no population share."}}},
+"idfrombirth": {"countries": {"CIV": {"facts": [{"sub_indicator": "frombirth", "aspect": "number", "value": "underway", "fact": "ONECI's director-general says it is working to give newborns an NNI in maternities.", "as_of": "2025-06-19", "date_precision": "day", "system": "NNI", "class": "birthnumber"}], "systems": [], "note": ""}}},
+"idmaintenance": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Who runs or owns the platform is not stated."}}},
+"idregisters": {"countries": {"CIV": {"facts": [{"sub_indicator": "registers", "aspect": "register", "value": "underway", "fact": "ONECI's director-general says administrative procedures must go through the NNI under a decree, and that taxpayer, social security and CMU numbers should soon be linked to it.", "as_of": "2025-06-19", "date_precision": "day", "system": "NNI", "class": "register"}], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"CIV": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "ONECI's director-general says nearly 10 million people have been given an NNI, a unique random number tied to civil identity and biometrics, within the RNPP.", "as_of": "2025-06", "date_precision": "month", "system": "NNI", "class": "idsystem"}], "systems": [{"system": "NNI / RNPP", "country_label": "Côte d'Ivoire", "class": "idsystem", "platform": "", "owner": "ONECI", "tiers": ""}], "note": ""}}},
+"landregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on land."}}},
+"nationaldatacentres": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No data centre for hire named."}}},
+"populationregister": {"countries": {"CIV": {"facts": [{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "ONECI's director-general says the Registre national des personnes physiques, built on the NNI, is a reality and its data can be released to bodies with ARTCI's signed approval.", "as_of": "2025-06-19", "date_precision": "day", "system": "RNPP", "class": "population"}], "systems": [], "note": ""}}},
+"registry": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No local-office digital entry of births or deaths stated."}}},
+"socialregistry": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No social registry stated."}}},
+"taxregister": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Only a hoped-for link of taxpayer account to NNI; no tax register status."}}}
+}}

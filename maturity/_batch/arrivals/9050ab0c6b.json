@@ -1,21 +1,48 @@
 {
  "slug": "2026-11-04-nam-cabinet-briefs",
  "studies": {
-  "datagovernance": {
+  "accesstoinformationlaw": {
    "countries": {
     "NAM": {
      "facts": [],
      "systems": [],
-     "note": "No data policy stated."
+     "note": "Cabinet briefing names no law of this kind; only the Civil Registration and Identification Act 2024 for e-ID."
     }
    }
   },
-  "digitalstrategy": {
+  "ailaw": {
    "countries": {
     "NAM": {
      "facts": [],
      "systems": [],
-     "note": "Only a broadband policy (thematic) stated."
+     "note": "Cabinet briefing names no law of this kind; only the Civil Registration and Identification Act 2024 for e-ID."
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Cabinet briefing names no law of this kind; only the Civil Registration and Identification Act 2024 for e-ID."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Cabinet briefing names no law of this kind; only the Civil Registration and Identification Act 2024 for e-ID."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Cabinet briefing names no law of this kind; only the Civil Registration and Identification Act 2024 for e-ID."
     }
    }
   }

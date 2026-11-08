@@ -1,0 +1,263 @@
+{
+ "slug": "2025-09-19-zaf-national-treasury-deploys-tech-to-terminate-ghost-workers",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "censuses": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "educationexchange": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "educationmis": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "National Treasury says it is cross-checking the PERSAL civil service payroll with SARS tax data and Home Affairs population and biometric data, testing PERSAL for ID numbers with several PERSAL numbers, with no final results and a data-sharing legal framework and MOU still being set up.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "PERSAL",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PERSAL",
+       "country_label": "PERSAL",
+       "class": "other",
+       "platform": "",
+       "owner": "National Treasury",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "National Treasury says it is testing Home Affairs data to flag public servants without valid IDs and to check by biometrics and photos whether a payroll image links to multiple identities, limited to smart ID and passport holders.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "PERSAL",
+       "class": "relying"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PERSAL",
+       "country_label": "PERSAL",
+       "class": "other",
+       "platform": "",
+       "owner": "National Treasury",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The article refers to the National Population Register as an existing register that Home Affairs minister Leon Schreiber said had been upgraded in mid-2025, and that Treasury checks payroll images against.",
+       "as_of": "2025-09",
+       "date_precision": "month",
+       "system": "National Population Register",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Population Register",
+       "country_label": "National Population Register",
+       "class": "other",
+       "platform": "",
+       "owner": "Department of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Africa."
+    }
+   }
+  },
+  "schools": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for South Africa."
+    }
+   }
+  }
+ }
+}

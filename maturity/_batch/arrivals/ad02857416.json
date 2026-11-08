@@ -1,0 +1,11 @@
+{"slug": "2026-11-06-ken-amaco-and-arise-iip-advance-us700-million-power-and-ai-infrastructure", "studies": {
+"aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on government use of AI."}}},
+"aisectoral": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on AI in a public sector system."}}},
+"aisystems": {"countries": {"KEN": {"facts": [], "systems": [{"system": "HERCULES", "country_label": "HERCULES power and AI data centre, Dongo Kundu, Mombasa", "class": "other", "platform": "", "owner": "AMACO Energy; ARISE IIP Kenya", "tiers": ""}], "note": "A proposed AI data-centre project under an MoU, depending on studies, approvals and financing; no named funder or built computing."}}},
+"datacentres": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only a proposed data-centre development; no facility in service stated."}}},
+"internationalbandwidth": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "routes", "aspect": "routes", "value": "two", "fact": "Kenya Engineer, citing AMACO's project overview, says Mombasa is an important landing point for international submarine fibre cables and identifies seven submarine cable connections serving the city.", "as_of": "2026-11-06", "date_precision": "day", "system": "submarine cables at Mombasa", "class": "route"}
+], "systems": [], "note": "Landing stations and capacity sales not stated."}}},
+"nationaldatacentres": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only a proposed data-centre development; no nationally owned facility in service stated."}}}
+}}

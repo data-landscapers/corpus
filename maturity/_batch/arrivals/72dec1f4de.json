@@ -1,0 +1,25 @@
+{"slug": "2024-04-01-tza-nida-yawa-ufunguo-wa-maendeleo-nchini-tanzania", "studies": {
+"authentication": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "NIDA says it shares its national register with about 96 public and private institutions so they can verify the identity of their customers.", "as_of": "2024-02", "date_precision": "month", "system": "NIDA national register verification", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "NIDA says about 96 public and private institutions, three of them in Zanzibar, use its register to verify people, for SIM, bank account, company and passport services.", "as_of": "2024-02", "date_precision": "month", "system": "NIDA national register verification", "class": "authentication"}],
+"systems": [{"system": "Central electronic register of registration and identification of persons", "country_label": "NIDA", "class": "authentication", "platform": "", "owner": "NIDA", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
+"datacentres": {"countries": {"TZA": {"facts": [], "systems": [], "note": "NIDA's data centre and recovery centre hold its own data; no renting to others stated."}}},
+"idcoverage": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Only an adults-only share (79% of those 18 and over); no share of the whole population."}}},
+"idfrombirth": {"countries": {"TZA": {"facts": [], "systems": [], "note": "NIDA registers people aged 18 and over; no number at birth."}}},
+"idmaintenance": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "maintenance", "aspect": "operation", "value": "national", "fact": "NIDA, the national authority, keeps the central register and runs registration of people through 153 district offices linked to its data centre.", "as_of": "2024-02", "date_precision": "month", "system": "National ID system (NIDA)", "class": "idsystem"},
+{"sub_indicator": "maintenance", "aspect": "maintenance", "value": "national", "fact": "NIDA says its in-house experts built 24 of 42 planned systems and provide technical support, ending dependence on foreign contractors.", "as_of": "2024-02", "date_precision": "month", "system": "National ID system (NIDA)", "class": "idsystem"},
+{"sub_indicator": "maintenance", "aspect": "ownership", "value": "owned", "fact": "NIDA says that by building its systems in-house it owns the actual program copies of the national ID system and is free of foreign contractors' licence limits.", "as_of": "2024-02", "date_precision": "month", "system": "National ID system (NIDA)", "class": "idsystem"}],
+"systems": [], "note": ""}}},
+"idregisters": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "NIDA says its register is used for company registration and for issuing taxpayer numbers (TIN), among other services.", "as_of": "2024-02", "date_precision": "month", "system": "NIDA national register", "class": "register"}],
+"systems": [], "note": ""}}},
+"idrobustness": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "NIDA says it had registered 24,495,804 people by February 2024 and produced 20,832,225 National Identification Numbers and 20,286,420 ID cards.", "as_of": "2024-02", "date_precision": "month", "system": "National ID (NIDA)", "class": "idsystem"}],
+"systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"TZA": {"facts": [], "systems": [], "note": "NIDA's data centre is not stated to be for hire."}}},
+"taxregister": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "taxpayers", "aspect": "nationalid", "value": "linked", "fact": "NIDA says its national register enabled the issuing of taxpayer numbers (TIN).", "as_of": "2024-02", "date_precision": "month", "system": "TIN issuance from NIDA register", "class": "tax"}],
+"systems": [], "note": ""}}}
+}}

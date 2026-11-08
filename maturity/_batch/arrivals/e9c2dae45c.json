@@ -1,9 +1,44 @@
-{"slug": "2026-07-25-cod-economie-numerique-validation-technique-de-la-psen-2026-2030-une-nouve", "studies": {
-"aiabuse": {"countries": {"COD": {"facts": [], "systems": [], "note": "Responsible AI is only an axis of a draft policy; no AI rule or authority stated."}}},
-"aigovernment": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on AI used by a government body."}}},
-"aisectoral": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on AI in a sector system."}}},
-"aisystems": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on AI built or hosted in the country."}}},
-"digitalstrategy": {"countries": {"COD": {"facts": [], "systems": [{"system": "Politique sectorielle de l'économie numérique (PSEN) 2026-2030", "country_label": "PSEN 2026-2030", "class": "sector-ict", "platform": "", "owner": "Ministry of Digital Economy", "tiers": ""}], "note": "The PSEN is the digital economy ministry's sector policy; no cabinet adoption as a national strategy stated."}}},
-"ictstrategy": {"countries": {"COD": {"facts": [{"sub_indicator": "sector", "aspect": "standing", "value": "validated", "fact": "A technical validation workshop in Kinshasa on 21-22 July 2026 validated the draft Politique sectorielle de l'économie numérique (PSEN) 2026-2030, subject to amendments, ahead of final adoption.", "as_of": "2026-07-22", "date_precision": "day", "system": "PSEN 2026-2030", "class": "sector"}, {"sub_indicator": "sector", "aspect": "period", "value": "to:2030", "fact": "The draft PSEN covers 2026-2030, led by the Ministry of Digital Economy with UNDP technical and financial support.", "as_of": "2026-07-22", "date_precision": "day", "system": "PSEN 2026-2030", "class": "sector"}], "systems": [], "note": ""}}},
-"publicconsultation": {"countries": {"COD": {"facts": [{"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "The digital economy ministry's 21-22 July 2026 validation workshop on the draft PSEN 2026-2030 brought together private sector, academics and civil society alongside officials and partners.", "as_of": "2026-07-21", "date_precision": "day", "system": "PSEN 2026-2030", "class": "consultation"}], "systems": [], "note": ""}}}
-}}
+{
+ "slug": "2026-07-25-cod-economie-numerique-validation-technique-de-la-psen-2026-2030-une-nouve",
+ "studies": {
+  "ictstrategy": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "sector",
+       "aspect": "standing",
+       "value": "validated",
+       "fact": "Africanews RDC says participants technically validated the draft PSEN 2026-2030 on 21-22 July 2026, subject to amendments, before final adoption.",
+       "as_of": "2026-07-22",
+       "date_precision": "day",
+       "system": "Politique sectorielle de l'\u00e9conomie num\u00e9rique (PSEN) 2026-2030",
+       "class": "sector"
+      },
+      {
+       "sub_indicator": "sector",
+       "aspect": "period",
+       "value": "to:2030",
+       "fact": "The PSEN covers 2026-2030.",
+       "as_of": "2026-07-22",
+       "date_precision": "day",
+       "system": "Politique sectorielle de l'\u00e9conomie num\u00e9rique (PSEN) 2026-2030",
+       "class": "sector"
+      }
+     ],
+     "systems": [
+      {
+       "system": "PSEN 2026-2030",
+       "country_label": "Democratic Republic of Congo",
+       "class": "sector",
+       "platform": "",
+       "owner": "Ministry of Digital Economy",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

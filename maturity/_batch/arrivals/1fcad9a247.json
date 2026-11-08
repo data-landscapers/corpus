@@ -1,0 +1,77 @@
+{
+ "slug": "2025-11-11-roa-bn-siege-conakry-backbones-ouest-africains",
+ "studies": {
+  "regionalinfrastructure": {
+   "countries": {
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names this country only as a ROA-BN member; no link at its end is named."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names this country only as a ROA-BN member; no link at its end is named."
+    },
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names this country only as a ROA-BN member; no link at its end is named."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names this country only as a ROA-BN member; no link at its end is named."
+    },
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "service",
+       "value": "in-service",
+       "fact": "The ROA-BN chairman, who heads Mali's Societe malienne de transmission, said the network is operational and Mali is connected to Cote d'Ivoire, Guinea and Senegal.",
+       "as_of": "2025-11-10",
+       "date_precision": "day",
+       "system": "ROA-BN",
+       "class": "shared"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "service",
+       "value": "in-service",
+       "fact": "The ROA-BN chairman said Mali is connected to Guinea within the operational eight-country backbone network, whose headquarters opened in Conakry on 10 November 2025.",
+       "as_of": "2025-11-10",
+       "date_precision": "day",
+       "system": "ROA-BN",
+       "class": "shared"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "service",
+       "value": "in-service",
+       "fact": "The ROA-BN chairman said Mali is connected to Senegal within the operational eight-country backbone network, and that Senegal's internet connection can transit Mali and be backed up via Guinea.",
+       "as_of": "2025-11-10",
+       "date_precision": "day",
+       "system": "ROA-BN",
+       "class": "shared"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

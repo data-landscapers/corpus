@@ -1,0 +1,11 @@
+{"slug":"2025-03-26-nga-fg-to-link-social-register-with-nin-minister","studies":{
+"authentication":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Beneficiary authentication is a stated aim only; no authentication service named."}}},
+"birthidlink":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on the civil register."}}},
+"idcoverage":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No enrolment count or share given."}}},
+"idfrombirth":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on a number at birth."}}},
+"idmaintenance":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on who operates the ID system."}}},
+"idregisters":{"countries":{"NGA":{"facts":[{"sub_indicator":"registers","aspect":"register","value":"underway","fact":"Humanitarian Affairs Minister Nentawe Yilwatda said at a national roundtable that efforts are under way to link the National Social Register with each Nigerian's NIN.","as_of":"2025-03-26","date_precision":"day","system":"National Social Register","class":"register"}],"systems":[{"system":"National Social Register","country_label":"Nigeria","class":"register","platform":"","owner":"Federal Ministry of Humanitarian Affairs and Poverty Reduction","tiers":""}],"note":""}}},
+"idrobustness":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on issuance, biometrics or certification of the ID system."}}},
+"localrecords":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on local government revenue records."}}},
+"socialregistry":{"countries":{"NGA":{"facts":[],"systems":[{"system":"National Social Register","country_label":"Nigeria","class":"social","platform":"","owner":"Federal Ministry of Humanitarian Affairs and Poverty Reduction","tiers":""}],"note":"Names the register and a plan to link it to NIN and geo-tag homes; does not state it is in service or that programmes draw on it."}}}
+}}

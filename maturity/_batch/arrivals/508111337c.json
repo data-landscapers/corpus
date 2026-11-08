@@ -1,10 +1,1 @@
-{"slug": "2024-06-12-cmr-minsante-l-architecture-de-la-sante-numerique-se-dessine", "studies": {
-"birthidlink": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Health-to-civil-registry exchange (DHIS2 and BUNEC), not a link with the ID system."}}},
-"civilregister": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No digital civil registration system stated; only DHIS2 transmission of births and deaths to civil status centres, to be formalised."}}},
-"health": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Plans and coordination meeting only; no clinic-level digital system stated."}}},
-"healthmis": {"countries": {"CMR": {"facts": [], "systems": [], "note": "DHIS2 named only in its exchange with BUNEC; no national HMIS in service stated."}}},
-"idfrombirth": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No ID number at birth stated."}}},
-"publicconsultation": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Meeting of officials, partners and experts on a health plan; no outside-government part in a named digital law stated."}}},
-"registry": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No civil registration office entry stated."}}},
-"schoolinternet": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Not about schools."}}}
-}}
+{"slug":"2024-06-12-cmr-minsante-l-architecture-de-la-sante-numerique-se-dessine","studies":{"healthexchange":{"countries":{"CMR":{"facts":[],"systems":[{"system":"DHIS2-BUNEC birth and death transmission","country_label":"Cameroun","class":"other","platform":"DHIS2","owner":"MINSANTE","tiers":""}],"note":"Architecture and plans only; the DHIS2-BUNEC link is to the civil register, not between two health systems, and the patient index is yet to be chosen."}}}}}

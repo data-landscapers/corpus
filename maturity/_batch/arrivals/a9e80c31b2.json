@@ -1,0 +1,86 @@
+{
+ "slug": "2024-06-27-ssd-south-sudan-expects-id-passport-booklets-to-arrive-soon",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a booklet supplier's arrears and a stockout are stated; nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a booklet supplier's arrears and a stockout are stated; nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a booklet supplier's arrears and a stockout are stated; nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a booklet supplier's arrears and a stockout are stated; nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a booklet supplier's arrears and a stockout are stated; nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a booklet supplier's arrears and a stockout are stated; nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a booklet supplier's arrears and a stockout are stated; nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a booklet supplier's arrears and a stockout are stated; nothing this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a booklet supplier's arrears and a stockout are stated; nothing this study asks."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,10 @@
+{"slug":"2025-02-01-sen-compte-a-rebours-pour-la-revision-des-listes-electorales","studies":{
+"authentication":{"countries":{"SEN":{"facts":[],"systems":[],"note":"The document states nothing this study asks about Senegal."}}},
+"birthidlink":{"countries":{"SEN":{"facts":[],"systems":[],"note":"The document states nothing this study asks about Senegal."}}},
+"electoralregister":{"countries":{"SEN":{"facts":[{"sub_indicator":"electoral","aspect":"linked","value":"linked","fact":"Senegal's Directorate General of Elections says the original ECOWAS biometric national ID card is mandatory to enrol on the voters' list or change electoral data during the revision of 1 February to 31 July 2025.","as_of":"2025-01-24","date_precision":"day","system":"Voters' list revision","class":"electoral"}],"systems":[],"note":""}}},
+"idcoverage":{"countries":{"SEN":{"facts":[],"systems":[],"note":"The document states nothing this study asks about Senegal."}}},
+"idfrombirth":{"countries":{"SEN":{"facts":[],"systems":[],"note":"The document states nothing this study asks about Senegal."}}},
+"idmaintenance":{"countries":{"SEN":{"facts":[],"systems":[],"note":"The document states nothing this study asks about Senegal."}}},
+"idregisters":{"countries":{"SEN":{"facts":[],"systems":[],"note":"The card must be shown to enrol, but the document does not say the roll uses the ID number as its key."}}},
+"idrobustness":{"countries":{"SEN":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The Directorate General of Elections requires the ECOWAS biometric national ID card of voters enrolling or changing their electoral data, showing the card is in use.","as_of":"2025-01-24","date_precision":"day","system":"ECOWAS biometric national ID card","class":"idsystem"}],"systems":[{"system":"ECOWAS biometric national ID card","country_label":"Senegal","class":"idsystem","platform":"","owner":"","tiers":""}],"note":""}}}
+}}

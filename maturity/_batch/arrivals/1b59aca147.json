@@ -1,5 +1,9 @@
 {"slug": "2026-11-04-moz-how-ai-is-helping-mozambique-to-boost-vaccine-decision-making", "studies": {
-"censuses": {"countries": {"MOZ": {"facts": [
-{"sub_indicator": "census", "aspect": "survey", "value": "published", "fact": "Gavi's VaccinesWork article cites the 2022-2023 Demographic and Health Survey as putting about 24% of Mozambican children at zero-dose; the document gives no publication date for the survey.", "as_of": "2023", "date_precision": "year", "system": "DHS 2022-2023", "class": "census"}
-], "systems": [], "note": ""}}}
+"aiabuse": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"MOZ": {"facts": [], "systems": [{"system": "PAAD", "country_label": "Advanced Data Analytics Platform (PAAD)", "class": "other", "platform": "Zenysis Harmony", "owner": "Ministry of Health (MISAU)", "tiers": ""}], "note": "A health-sector platform, not general administration."}}},
+"ailaw": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI law or draft stated."}}},
+"aisectoral": {"countries": {"MOZ": {"facts": [], "systems": [{"system": "PAAD", "country_label": "Advanced Data Analytics Platform (PAAD)", "class": "other", "platform": "Zenysis Harmony", "owner": "Ministry of Health (MISAU)", "tiers": ""}], "note": "Called AI-driven, but what it does described is data integration and rule-based alerts; forecasting and anomaly detection are future."}}},
+"aistrategy": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI strategy stated."}}},
+"aisystems": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or AI computing stated."}}},
+"healthmis": {"countries": {"MOZ": {"facts": [], "systems": [{"system": "PAAD", "country_label": "Advanced Data Analytics Platform (PAAD)", "class": "other", "platform": "Zenysis Harmony", "owner": "Ministry of Health (MISAU)", "tiers": ""}], "note": "PAAD is an analytics layer over a dozen systems, not described as the national routine reporting system."}}}
 }}

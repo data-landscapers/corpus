@@ -1,3 +1,7 @@
-{"slug": "2026-11-05-tgo-appel-a-manifestation-dinteret-recrutement-dun-cabinet-pour-la-realisa", "studies": {
-"coresystems": {"countries": {"TGO": {"facts": [], "systems": [{"system": "Systeme d'information budgetaire et comptable", "country_label": "budget and accounting information system", "class": "other", "platform": "", "owner": "Ministere des Finances et du Budget", "tiers": ""}], "note": "Only a call for a firm to diagnose the budget and accounting system (AMI 003/2026); not a statement that it is in use, and the attached PDFs are not read."}}}
+{"slug":"2026-11-05-tgo-appel-a-manifestation-dinteret-recrutement-dun-cabinet-pour-la-realisa","studies":{
+"health":{"countries":{"TGO":{"facts":[],"systems":[],"note":"A budget and accounting system notice; nothing on health data."}}},
+"healthmis":{"countries":{"TGO":{"facts":[],"systems":[],"note":"A budget and accounting system notice; nothing on health reporting."}}},
+"police":{"countries":{"TGO":{"facts":[],"systems":[],"note":"A budget and accounting system notice; nothing on police records."}}},
+"schools":{"countries":{"TGO":{"facts":[],"systems":[],"note":"A budget and accounting system notice; nothing on school records."}}},
+"taxadmin":{"countries":{"TGO":{"facts":[],"systems":[],"note":"A call for a diagnostic of the budget and accounting system; nothing on tax filing or payment."}}}
 }}

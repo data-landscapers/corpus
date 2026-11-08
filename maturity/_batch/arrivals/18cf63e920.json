@@ -1,0 +1,35 @@
+{
+  "slug": "2024-12-18-mwi-malawi-distributes-3m-national-id-cards-printed-in-country",
+  "studies": {
+    "aiabuse": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+    "authentication": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+    "birthidlink": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No link with the civil register stated."}}},
+    "ecommercelaw": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on e-commerce law."}}},
+    "electoralregister": {"countries": {"MWI": {
+      "facts": [
+        {"sub_indicator": "electoral", "aspect": "roll", "value": "underway", "fact": "Biometric Update reports that a national biometric voter registration exercise was in its final phase and ended on 11 December 2024, with the NRB promising an ID number within 24 hours of registration to applicants taking part.", "as_of": "2024-12-11", "date_precision": "day", "system": "national biometric voter registration exercise", "class": "electoral"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "idcoverage": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Gives counts of cards printed and distributed (3 million, after 1 million), not people enrolled."}}},
+    "idfrombirth": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+    "idmaintenance": {"countries": {"MWI": {
+      "facts": [
+        {"sub_indicator": "maintenance", "aspect": "operation", "value": "national", "fact": "Biometric Update reports the National Registration Bureau now prints national ID cards at its own facilities on a printer supplied by Emptech in April 2024, and its own staff scan, check, sort and dispatch them from a sorting centre in Kanengo.", "as_of": "2024-12", "date_precision": "month", "system": "National ID (National Registration Bureau)", "class": "idsystem"}
+      ],
+      "systems": [
+        {"system": "National ID (National Registration Bureau)", "country_label": "Malawi national ID", "class": "idsystem", "platform": "Emptech card printer; Laxton built first citizen register in 2017", "owner": "National Registration Bureau", "tiers": ""}
+      ],
+      "note": ""}}},
+    "idregisters": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}}},
+    "idrobustness": {"countries": {"MWI": {
+      "facts": [
+        {"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Biometric Update reports the NRB issued 1 million ID cards in June 2024 and made a second batch of 3 million available in December 2024, and says a Unique National ID number is issued to an applicant within 24 hours of registration.", "as_of": "2024-12", "date_precision": "month", "system": "National ID (National Registration Bureau)", "class": "idsystem"}
+      ],
+      "systems": [
+        {"system": "National ID (National Registration Bureau)", "country_label": "Malawi national ID", "class": "idsystem", "platform": "", "owner": "National Registration Bureau", "tiers": ""}
+      ],
+      "note": ""}}},
+    "idverification": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No other system checking against the ID stated."}}}
+  }
+}

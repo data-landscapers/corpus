@@ -1,0 +1,43 @@
+{
+ "slug": "2025-12-14-zaf-question-nw6920-to-the-minister-of-home-affairs",
+ "studies": {
+  "idrobustness": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Reply is on foreign contractors for digitisation; states nothing on issuing or checking national IDs."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "inhouse",
+       "value": "yes",
+       "fact": "The Department of Home Affairs says in a written reply that its civic-records digitisation programme is managed in-house under the Operations Branch and performed by departmental officials and interns, with no foreign company contracted.",
+       "as_of": "2025-12-14",
+       "date_precision": "day",
+       "system": "Civic records digitisation programme",
+       "class": "staff"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Civic records digitisation programme",
+       "country_label": "Civic records digitisation programme",
+       "class": "staff",
+       "platform": "",
+       "owner": "Department of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,7 @@
+{"slug": "2026-11-07-ben-terra-benin-ppmec-ii-securisation-fonciere", "studies": {
+"landadmin": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "landmis", "aspect": "system", "value": "inservice", "fact": "ANDF's PPMEC II project chief said the e-Foncier Bénin platform has functions to register parcels, issue cadastral registration certificates and update records, with 643,993 parcels registered in 12 communes.", "as_of": "2026-11-06", "date_precision": "day", "system": "e-Foncier Bénin", "class": "landmis"}], "systems": [{"system": "e-Foncier Bénin", "country_label": "Benin", "class": "landmis", "platform": "", "owner": "ANDF", "tiers": ""}], "note": ""}}},
+"landregister": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "land", "aspect": "register", "value": "inservice", "fact": "ANDF's PPMEC II project chief reported 643,993 parcels registered in the cadastral database across 12 communes, 3 fully covered and 9 partly, with e-Foncier Bénin in use.", "as_of": "2026-11-06", "date_precision": "day", "system": "National cadastre / e-Foncier Bénin", "class": "land"}], "systems": [{"system": "National cadastre (ANDF)", "country_label": "Benin", "class": "land", "platform": "e-Foncier Bénin", "owner": "ANDF", "tiers": ""}], "note": ""}}},
+"localgov": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The document says nothing on local government office connections."}}}
+}}

@@ -1,6 +1,7 @@
 {"slug": "2026-11-06-sdn-suna-digital-transformation-reconstruction-un-governance-summit", "studies": {
-"aiabuse": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Says laws on digital transformation, cybersecurity, data and AI were recently approved; no harm, entry into force or authority stated."}}},
-"aigovernment": {"countries": {"SDN": {"facts": [], "systems": [{"system": "Baladna", "country_label": "Baladna platform", "class": "other", "platform": "", "owner": "Digital Transformation Authority", "tiers": ""}], "note": "Baladna is a digital services platform with no AI stated."}}},
-"aisectoral": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
-"aisystems": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing stated."}}}
+ "businesspayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No e-procurement is mentioned."}}},
+ "egovservices": {"countries": {"SDN": {"facts": [
+  {"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "SUNA reports the Director General of Sudan's Digital Transformation Authority told the UN Governance Innovation Summit in Baku that the Baladna platform brings together more than 46 government institutions and 134 digital services.", "as_of": "2026-11-06", "date_precision": "day", "system": "Baladna", "class": "eservices"}
+ ], "systems": [{"system": "Baladna", "country_label": "Sudan", "class": "eservices", "platform": "", "owner": "Digital Transformation Authority", "tiers": ""}], "note": ""}}},
+ "localgov": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on local government offices; state digital councils are mentioned only for coordination."}}}
 }}

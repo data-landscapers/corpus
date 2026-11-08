@@ -1,0 +1,23 @@
+{"slug": "2025-03-24-eth-bbc-amharic-eight-things-to-know-about-fayda-id", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Fayda national ID programme coordinator Yodahe Arayaselassie says that after a registrant's death is confirmed the number stays valid but is kept from use for authentication services, which implies an authentication service in use.", "as_of": "2025-03-24", "date_precision": "day", "system": "Fayda", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "Yodahe Arayaselassie says Ethio Telecom and more than 30 other institutions have tied their services to the Fayda ID, and the National Bank of Ethiopia requires it for bank accounts in Addis Ababa.", "as_of": "2025-03-24", "date_precision": "day", "system": "Fayda", "class": "authentication"}
+], "systems": [{"system": "Fayda", "country_label": "Fayda digital ID", "class": "authentication", "platform": "", "owner": "National ID Programme", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "link", "aspect": "link", "value": "inservice", "fact": "Yodahe Arayaselassie says that in Addis Ababa Fayda registration began in schools alongside civil registration, so children taking a birth certificate can take a Fayda number at the same time.", "as_of": "2025-03-24", "date_precision": "day", "system": "Fayda registration alongside civil registration in Addis Ababa", "class": "crvslink"}
+], "systems": [], "note": ""}}},
+"civilregister": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No digital civil register is described."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No count or share enrolled given."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "frombirth", "aspect": "number", "value": "inservice", "fact": "Yodahe Arayaselassie says that in Addis Ababa children taking their birth certificate at school can take a Fayda number at the same time, and children under five are registered with a parent as witness.", "as_of": "2025-03-24", "date_precision": "day", "system": "Fayda number", "class": "birthnumber"}
+], "systems": [], "note": ""}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on who operates, maintains or owns the system."}}},
+"idregisters": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "Yodahe Arayaselassie says holding a Fayda ID has become a precondition for getting a tax identification number from the revenue authority.", "as_of": "2025-03-24", "date_precision": "day", "system": "Fayda", "class": "register"}
+], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The national ID programme says Fayda, approved in law in March 2023 and applied officially since, gives each registrant a unique 12-digit number, on the 'one person, one ID' principle.", "as_of": "2025-03-24", "date_precision": "day", "system": "Fayda", "class": "idsystem"},
+{"sub_indicator": "robustness", "aspect": "biometric", "value": "checked", "fact": "The national ID programme says Fayda collects iris, ten fingerprints and face data to identify each person uniquely, and biometrics are mandatory for registrants over five.", "as_of": "2025-03-24", "date_precision": "day", "system": "Fayda", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"registry": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No digital entry of births or deaths at local offices stated."}}}
+}}

@@ -1,0 +1,14 @@
+{"slug": "2026-08-26-egy-mcit-biometric-verification-e-signature-system-launch", "studies": {
+"authentication": {"countries": {"EGY": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "MCIT says the biometric verification and e-signature system, built by NTRA with ITIDA, CyShield and licensed e-signature companies, is launching as a pilot that lets licensed telecom operators offer identity verification and e-signature in their apps.", "as_of": "2026-08-26", "date_precision": "day", "system": "Biometric verification and e-signature system", "class": "authentication"}], "systems": [{"system": "Biometric verification and e-signature system", "country_label": "Egypt", "class": "authentication", "platform": "CyShield", "owner": "NTRA / MCIT", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document states no link between the civil register and the ID system."}}},
+"dataprotectionlaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The document names no data protection law, only safeguards in general."}}},
+"digitalsovereignty": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only a general statement on sovereignty and owning core infrastructure, with no rule, hosting or contract terms."}}},
+"ecommercelaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Licensed e-signature companies are named with no law or date."}}},
+"idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The ownership claim is about the verification system, not the ID system itself, and names no platform or operator of the ID."}}},
+"idregisters": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is named."}}},
+"idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on the ID system's issuance, biometrics or certification."}}},
+"idverification": {"countries": {"EGY": {"facts": [{"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "MCIT says that, with the Ministry of Interior's Civil Status Sector, it built an integration platform and a pilot system letting licensed telecom operators verify identity biometrically in their apps, rolled out progressively.", "as_of": "2026-08-26", "date_precision": "day", "system": "Biometric verification and e-signature system", "class": "relying"}], "systems": [], "note": ""}}},
+"registry": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on local civil registration offices."}}}
+}}

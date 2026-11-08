@@ -1,5 +1,3 @@
-{"slug": "2025-06-13-egy-ministry-of-health-and-ehealth-collaborate-to-operate-the-national-dig", "studies": {
-"digitalskills": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on public digital skills."}}},
-"qualitystandards": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on national standards body or certification."}}},
-"schoolinternet": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
-}}
+{"slug": "2025-06-13-egy-ministry-of-health-and-ehealth-collaborate-to-operate-the-national-dig", "studies": {"healthexchange": {"countries": {
+"EGY": {"facts": [{"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "eHealth reports that the Ministry of Health and Population signed an agreement with eHealth in June 2025 to operate the National Digital Health System, including integration with the Universal Health Insurance System and interoperability of data across public, regulatory and private stakeholders.", "as_of": "2025-06-13", "date_precision": "day", "system": "National Digital Health System", "class": "exchange"}], "systems": [{"system": "National Digital Health System", "country_label": "National Digital Health System", "class": "exchange", "platform": "", "owner": "Ministry of Health and Population", "tiers": ""}], "note": ""}
+}}}}

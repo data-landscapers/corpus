@@ -1,16 +1,50 @@
-{"slug": "2026-11-06-tun-tunisie-six-projets-gouvernementaux-bases-sur-lia-prevus-en-2027-contr", "studies": {
-"aiabuse": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only a planned AI governance framework and ethics charter; no rule, draft or authority stated."}}},
-"aigovernment": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Gives project counts (two in 2026, six targeted in 2027) and a planned assistant; no piloting or service stated."}}},
-"aisectoral": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only a planned AI centre of excellence for health; nothing built or in service."}}},
-"aisystems": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Support for sovereign data centres is a plan with no builder or site named."}}},
-"authentication": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only 2027 aims to modernise e-certification and generalise digital identity; nothing in service stated."}}},
-"birthidlink": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
-"datacentres": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Support for sovereign data centres is a plan; no facility for hire stated."}}},
-"ecommercelaw": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on an e-commerce or electronic transactions law."}}},
-"idcoverage": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
-"idfrombirth": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
-"idmaintenance": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
-"idregisters": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
-"idrobustness": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on the national ID system's state or security."}}},
-"nationaldatacentres": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Support for sovereign data centres is a plan; no owned facility for hire stated."}}}
-}}
+{
+ "slug": "2026-11-06-tun-tunisie-six-projets-gouvernementaux-bases-sur-lia-prevus-en-2027-contr",
+ "studies": {
+  "ailaw": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Plans a governance framework and ethics charter only; no draft law or binding rule named."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Plans a governance framework and AI projects; no national AI strategy drafted or adopted is stated."
+    }
+   }
+  },
+  "coresystems": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on finance, tax or payroll systems."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Budget plans only; no online service launched or counted."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on local government offices."
+    }
+   }
+  }
+ }
+}

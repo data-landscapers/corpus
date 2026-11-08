@@ -1,0 +1,20 @@
+{
+  "slug": "2026-08-01-mdg-elections-la-digitalisation-de-la-liste-electorale-reste-en-suspens",
+  "studies": {
+    "authentication": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on authentication."}}},
+    "birthidlink": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on civil register and ID."}}},
+    "electoralregister": {"countries": {"MDG": {
+      "facts": [
+        {"sub_indicator": "electoral", "aspect": "roll", "value": "none", "fact": "L'Express de Madagascar reports that the August 2026 overhaul of the voters' roll will rely mainly on paper voter information forms with tablets in only a few centres, and an electoral agent says no digitalisation is planned.", "as_of": "2026-08", "date_precision": "month", "system": "refonte de la liste électorale", "class": "electoral"}
+      ],
+      "systems": [
+        {"system": "liste électorale", "country_label": "Voters' roll (CENI overhaul 2026)", "class": "electoral", "platform": "paper forms; limited tablets", "owner": "CENI", "tiers": ""}
+      ],
+      "note": ""}}},
+    "idcoverage": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No count of people enrolled in a national ID."}}},
+    "idfrombirth": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+    "idmaintenance": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+    "idregisters": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Cross-matching with a future biometric ID card is only a hope voiced by CENI's president; no register keyed on the number."}}},
+    "idrobustness": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Biometric ID card is called future; no build, pilot or issuance stated."}}}
+  }
+}

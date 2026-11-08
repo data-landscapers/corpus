@@ -1,0 +1,92 @@
+{"slug": "2025-12-01-mosip-rewind-2025", "studies": {
+"authentication": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Nothing stated on authentication."},
+"ETH": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "MOSIP says Ethiopia has 91 agencies integrated with its MOSIP-based national ID, including widely adopted bank eKYC services.", "as_of": "2025-12", "date_precision": "month", "system": "MOSIP-based national ID eKYC", "class": "authentication"}], "systems": [{"system": "MOSIP-based national ID", "country_label": "Ethiopia national ID", "class": "idsystem", "platform": "MOSIP", "owner": "", "tiers": ""}], "note": ""},
+"NGA": {"facts": [], "systems": [], "note": "Nothing stated on authentication."},
+"STP": {"facts": [], "systems": [], "note": "Nothing stated on authentication."},
+"UGA": {"facts": [], "systems": [], "note": "Only training on authentication, no service stated."}}},
+"birthidlink": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Nothing stated."},
+"ETH": {"facts": [], "systems": [], "note": "Nothing stated."},
+"NGA": {"facts": [], "systems": [], "note": "Nothing stated."},
+"STP": {"facts": [], "systems": [], "note": "Nothing stated."},
+"UGA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"civilregister": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Nothing stated."},
+"ETH": {"facts": [], "systems": [], "note": "Nothing stated."},
+"NGA": {"facts": [], "systems": [], "note": "Nothing stated."},
+"STP": {"facts": [], "systems": [], "note": "Nothing stated."},
+"UGA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idcoverage": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "No share of population stated."},
+"ETH": {"facts": [], "systems": [], "note": "No share of population stated."},
+"NGA": {"facts": [], "systems": [], "note": "A record count of 124 million migrating, no share of population."},
+"STP": {"facts": [], "systems": [], "note": "No share of population stated."},
+"UGA": {"facts": [], "systems": [], "note": "A count of 20 million records migrated, no share of population."}}},
+"idfrombirth": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Nothing stated."},
+"ETH": {"facts": [], "systems": [], "note": "Nothing stated."},
+"NGA": {"facts": [], "systems": [], "note": "Nothing stated."},
+"STP": {"facts": [], "systems": [], "note": "Nothing stated."},
+"UGA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idmaintenance": {"countries": {
+"CIV": {"facts": [{"sub_indicator": "maintenance", "aspect": "operation", "value": "transfer", "fact": "MOSIP says it trained participants from Cote d'Ivoire at IIIT-Bangalore in 2025 to support system operations, alongside a pilot with local capacity building.", "as_of": "2025", "date_precision": "year", "system": "MOSIP-based ID pilot", "class": "idsystem"}], "systems": [], "note": ""},
+"ETH": {"facts": [], "systems": [], "note": "Training on migration to MOSIP 1.2 only; no operator or owner stated."},
+"NGA": {"facts": [], "systems": [], "note": "No operator or owner stated."},
+"STP": {"facts": [], "systems": [], "note": "No operator or owner stated."},
+"UGA": {"facts": [], "systems": [], "note": "No operator or owner stated."}}},
+"idregisters": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Nothing stated."},
+"ETH": {"facts": [], "systems": [], "note": "Agencies integrated are not named as registers keyed on the number."},
+"NGA": {"facts": [], "systems": [], "note": "Nothing stated."},
+"STP": {"facts": [], "systems": [], "note": "Nothing stated."},
+"UGA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idrobustness": {"countries": {
+"CIV": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "MOSIP lists Cote d'Ivoire among completed pilots, migrating 10,000 records from the national insurance system.", "as_of": "2025-12", "date_precision": "month", "system": "MOSIP-based ID pilot", "class": "idsystem"}], "systems": [], "note": ""},
+"ETH": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "MOSIP lists Ethiopia among its 14 national rollouts, with 91 agencies integrated.", "as_of": "2025-12", "date_precision": "month", "system": "MOSIP-based national ID", "class": "idsystem"}], "systems": [], "note": ""},
+"NGA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "MOSIP lists Nigeria among national rollouts, modernising the NIN system by migrating over 124 million people's data onto a MOSIP-based ID system.", "as_of": "2025-12", "date_precision": "month", "system": "National Identification Number (NIN) system", "class": "idsystem"}], "systems": [], "note": ""},
+"STP": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "MOSIP says Sao Tome and Principe completed its pilot and moved forward with national rollout.", "as_of": "2025-12", "date_precision": "month", "system": "MOSIP-based national ID", "class": "idsystem"}], "systems": [], "note": ""},
+"UGA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "MOSIP says Uganda went live with its national rollout after migrating 20 million resident records from the existing system.", "as_of": "2025-12", "date_precision": "month", "system": "MOSIP-based national ID", "class": "idsystem"}], "systems": [], "note": ""}}},
+"idverification": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Nothing stated."},
+"ETH": {"facts": [{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "MOSIP says Ethiopia has widely adopted bank eKYC services on its ID, plus a UNHCR integration.", "as_of": "2025-12", "date_precision": "month", "system": "MOSIP-based national ID eKYC", "class": "relying"}, {"sub_indicator": "use", "aspect": "usage", "value": "reported", "fact": "MOSIP says 91 agencies are now integrated with Ethiopia's ID.", "as_of": "2025-12", "date_precision": "month", "system": "MOSIP-based national ID eKYC", "class": "relying"}], "systems": [], "note": ""},
+"NGA": {"facts": [], "systems": [], "note": "Nothing stated."},
+"STP": {"facts": [], "systems": [], "note": "Nothing stated."},
+"UGA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"itcapacity": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Training only."},
+"ETH": {"facts": [], "systems": [], "note": "Training only."},
+"NGA": {"facts": [], "systems": [], "note": "Nothing stated."},
+"STP": {"facts": [], "systems": [], "note": "Nothing stated."},
+"UGA": {"facts": [], "systems": [], "note": "Training only."}}},
+"populationregister": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Nothing stated."},
+"ETH": {"facts": [], "systems": [], "note": "Nothing stated."},
+"NGA": {"facts": [], "systems": [], "note": "Nothing stated."},
+"STP": {"facts": [], "systems": [], "note": "Nothing stated."},
+"UGA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"refugees": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Nothing stated."},
+"ETH": {"facts": [{"sub_indicator": "displaced", "aspect": "registration", "value": "underway", "fact": "MOSIP says Ethiopia had a successful UNHCR integration and rollout with its ID system.", "as_of": "2025-12", "date_precision": "month", "system": "MOSIP-based national ID", "class": "displaced"}], "systems": [], "note": ""},
+"NGA": {"facts": [], "systems": [], "note": "Nothing stated."},
+"STP": {"facts": [], "systems": [], "note": "Nothing stated."},
+"UGA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"registry": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Nothing stated."},
+"ETH": {"facts": [], "systems": [], "note": "Nothing stated."},
+"NGA": {"facts": [], "systems": [], "note": "Nothing stated."},
+"STP": {"facts": [], "systems": [], "note": "Nothing stated."},
+"UGA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"startups": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Nothing stated."},
+"ETH": {"facts": [], "systems": [], "note": "Nothing stated."},
+"NGA": {"facts": [], "systems": [], "note": "Nothing stated."},
+"STP": {"facts": [], "systems": [], "note": "Nothing stated."},
+"UGA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"techhubs": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Nothing stated."},
+"ETH": {"facts": [], "systems": [], "note": "Nothing stated."},
+"NGA": {"facts": [], "systems": [], "note": "Nothing stated."},
+"STP": {"facts": [], "systems": [], "note": "Nothing stated."},
+"UGA": {"facts": [], "systems": [], "note": "Nothing stated."}}}
+}}

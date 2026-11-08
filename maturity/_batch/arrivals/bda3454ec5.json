@@ -1,0 +1,13 @@
+{"slug": "2025-05-31-nga-npc-unicef-nimc-algon-forge-strategic-alliance-to-scale-up-birth-regis", "studies": {
+"admindata": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No published administrative statistics stated."}}},
+"authentication": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"NGA": {"facts": [{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "NPC, NIMC, UNICEF and ALGON agreed a compact for ward-level static points issuing birth certificates and NINs to under-fives, with data interoperability, in eleven pilot states.", "as_of": "2025-05", "date_precision": "month", "system": "Ward-level birth registration and NIN enrolment points", "class": "crvslink"}], "systems": [], "note": ""}}},
+"civilregister": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No digital civil register stated."}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No enrolment count or share given."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [{"sub_indicator": "frombirth", "aspect": "number", "value": "underway", "fact": "NPC, NIMC, UNICEF and ALGON adopted a work plan for phased rollout in eleven pilot states of ward-level points giving under-fives a birth certificate and a National Identification Number.", "as_of": "2025-05", "date_precision": "month", "system": "Under-five birth registration and NIN enrolment initiative", "class": "birthnumber"}], "systems": [], "note": ""}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Who runs the ID system not stated."}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No statement on the ID system's operation or checks."}}},
+"localgov": {"countries": {"NGA": {"facts": [], "systems": [], "note": "ALGON's logistics pledge is not a local government system or service."}}},
+"registry": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No office digital entry of births stated."}}}
+}}

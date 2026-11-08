@@ -1,95 +1,41 @@
 {
  "slug": "2025-11-25-mrt-mauritanie-ue-reunion-pour-evaluer-le-niveau-de-cooperation-numerique",
  "studies": {
-  "datacentres": {
-   "countries": {
-    "MRT": {
-     "facts": [],
-     "systems": [
-      {
-       "system": "Nouakchott data centre",
-       "country_label": "Nouakchott data centre",
-       "class": "other",
-       "platform": "",
-       "owner": "",
-       "tiers": ""
-      }
-     ],
-     "note": "Nouakchott centre inaugurated 8 May 2025, but article does not say it rents to others."
-    }
-   }
-  },
-  "digitaldivides": {
+  "aistrategy": {
    "countries": {
     "MRT": {
      "facts": [],
      "systems": [],
-     "note": "Only an aim to reduce regional digital divide; no programme or survey figure."
+     "note": "No AI strategy is named."
     }
    }
   },
-  "internationalbandwidth": {
-   "countries": {
-    "MRT": {
-     "facts": [],
-     "systems": [
-      {
-       "system": "Alalinck cable, Nouadhibou landing station",
-       "country_label": "Alalinck",
-       "class": "other",
-       "platform": "",
-       "owner": "",
-       "tiers": ""
-      }
-     ],
-     "note": "Landing station only had its foundation stone laid 28 July 2025; not in service."
-    }
-   }
-  },
-  "nationaldatacentres": {
+  "interoperability": {
    "countries": {
     "MRT": {
      "facts": [],
      "systems": [],
-     "note": "Owner and hire of the Nouakchott data centre not stated."
+     "note": "No interoperability framework is named."
     }
    }
   },
-  "regionalpolicy": {
-   "countries": {
-    "MRT": {
-     "facts": [],
-     "systems": [],
-     "note": "Only EU cooperation, which is outside Africa."
-    }
-   }
-  },
-  "startups": {
+  "digitalstrategy": {
    "countries": {
     "MRT": {
      "facts": [
       {
-       "sub_indicator": "startuppolicy",
-       "aspect": "law",
-       "value": "adopted",
-       "fact": "Tawassoul reports the Mauritanian digital ministry is speeding publication of the legal framework completing the existing start-up law.",
+       "sub_indicator": "national",
+       "aspect": "standing",
+       "value": "drafting",
+       "fact": "Mauritania's digital transformation minister presented the national digital transformation strategy 2030 as a document being drawn up or approved.",
        "as_of": "2025-11-25",
        "date_precision": "day",
-       "system": "loi sur les start-ups",
-       "class": "startuppolicy"
+       "system": "Strat\u00e9gie nationale pour la transformation num\u00e9rique 2030",
+       "class": "national"
       }
      ],
      "systems": [],
      "note": ""
-    }
-   }
-  },
-  "techhubs": {
-   "countries": {
-    "MRT": {
-     "facts": [],
-     "systems": [],
-     "note": "No hub or park named."
     }
    }
   }

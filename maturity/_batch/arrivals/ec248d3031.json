@@ -1,0 +1,13 @@
+{"slug":"2025-04-23-ago-ministro-reafirma-aposta-na-atribuicao-de-15-milhoes-de-bi-ate-2027","studies":{
+"authentication":{"countries":{"AGO":{"facts":[],"systems":[],"note":"Document states nothing on authentication."}}},
+"birthidlink":{"countries":{"AGO":{"facts":[],"systems":[],"note":"Document states nothing on a civil register link."}}},
+"idcoverage":{"countries":{"AGO":{"facts":[],"systems":[],"note":"Only a target of 15 million BI by 2027; no count of people holding one."}}},
+"idfrombirth":{"countries":{"AGO":{"facts":[],"systems":[],"note":"Document states nothing on a number at birth."}}},
+"idmaintenance":{"countries":{"AGO":{"facts":[{"sub_indicator":"maintenance","aspect":"operation","value":"national","fact":"The Ministry of Justice's Centro de Produção do Bilhete de Identidade in Kilamba has run since October 2019 with over 100 staff and prints 12,000 BI a day against 20,000 installed capacity, per the official responsible for ministry assets.","as_of":"2025-04-22","date_precision":"day","system":"Centro de Produção do Bilhete de Identidade (CPBI)","class":"idsystem"}],"systems":[{"system":"Centro de Produção do Bilhete de Identidade (CPBI)","country_label":"Angola","class":"idsystem","platform":"","owner":"Ministry of Justice and Human Rights","tiers":""}],"note":""}}},
+"idregisters":{"countries":{"AGO":{"facts":[],"systems":[],"note":"Document states nothing on registers keyed on the ID number."}}},
+"idrobustness":{"countries":{"AGO":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The Centro de Produção do Bilhete de Identidade has been issuing the national BI since October 2019 and prints 12,000 a day, the Justice Minister and a ministry official said.","as_of":"2025-04-22","date_precision":"day","system":"Bilhete de Identidade","class":"idsystem"}],"systems":[],"note":""}}},
+"localgov":{"countries":{"AGO":{"facts":[],"systems":[],"note":"Document states nothing on local government office connection."}}},
+"police":{"countries":{"AGO":{"facts":[],"systems":[],"note":"Document states nothing on police station records."}}},
+"statisticsstrategy":{"countries":{"AGO":{"facts":[],"systems":[],"note":"Document states nothing on a statistics strategy."}}},
+"taxregister":{"countries":{"AGO":{"facts":[],"systems":[],"note":"Document states nothing on a taxpayer register."}}}
+}}

@@ -1,0 +1,23 @@
+{
+ "slug": "2026-06-30-isoc-senegal-snpif-2026-peering-interconnection-forum",
+ "studies": {
+  "regionalinfrastructure": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "SENIX",
+       "country_label": "SENIX",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "A forum programme only; a sub-regional ECOWAS exchange point is an expected result, not an agreement."
+    }
+   }
+  }
+ }
+}

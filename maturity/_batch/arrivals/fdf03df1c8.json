@@ -1,0 +1,15 @@
+{"slug": "2024-09-24-gha-ghost-names-removed-from-government-payroll-thanks-to-ghana-card-bawum", "studies": {
+"authentication": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"coresystems": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "core", "aspect": "payroll", "value": "inuse", "fact": "NPP flagbearer Mahamudu Bawumia says the government has been scrutinising the payroll database through the Ghana Card, and the Controller and Accountant General has removed all ghost names from the government payroll.", "as_of": "2024-09-24", "date_precision": "day", "system": "Government payroll database", "class": "core"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No count or share enrolled given."}}},
+"idfrombirth": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on who operates, maintains or owns the system."}}},
+"idregisters": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "Mahamudu Bawumia says the government payroll was checked against the Ghana Card, starting with SSNIT and then the National Service Scheme.", "as_of": "2024-09-24", "date_precision": "day", "system": "Ghana Card payroll checks", "class": "register"},
+{"sub_indicator": "registers", "aspect": "matching", "value": "reported", "fact": "Mahamudu Bawumia says Ghana Card checks removed 29,000 ghost names at SSNIT (saving GH¢400 million) and 44,000 at the National Service Scheme (over GH¢300 million); these are his own figures.", "as_of": "2024-09-24", "date_precision": "day", "system": "Ghana Card payroll checks", "class": "register"}
+], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Ghana Card is named only as the tool for payroll checks; nothing on issuance, biometrics or assurance."}}}
+}}

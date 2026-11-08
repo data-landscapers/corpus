@@ -1,0 +1,61 @@
+{
+ "slug": "2026-01-01-nga-ncc-type-approval-device-verification-guide",
+ "studies": {
+  "dataprotectionlaw": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for NGA."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "underway",
+       "fact": "The Nigerian Communications Commission says licence applications go through its eServices portal and the Type Approval application process is entirely online.",
+       "as_of": "2026",
+       "date_precision": "year",
+       "system": "NCC eServices portal",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NCC eServices portal",
+       "country_label": "NCC eServices",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Nigerian Communications Commission",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for NGA."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for NGA."
+    }
+   }
+  }
+ }
+}

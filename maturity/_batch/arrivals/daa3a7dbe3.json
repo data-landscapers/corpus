@@ -1,0 +1,34 @@
+{
+ "slug": "2025-01-01-michcom-ix",
+ "studies": {
+  "regionalinfrastructure": {
+   "countries": {
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "service",
+       "value": "in-service",
+       "fact": "Michcom-IX says its open-access exchange is live with points of presence in Freetown, Jui, Conakry and Monrovia, interconnecting 15 networks across Sierra Leone, Guinea and Liberia.",
+       "as_of": "2025-01",
+       "date_precision": "month",
+       "system": "Michcom-IX",
+       "class": "shared"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Michcom-IX",
+       "country_label": "Sierra Leone",
+       "class": "shared",
+       "platform": "IXP, 50G capacity",
+       "owner": "Michcom Limited",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

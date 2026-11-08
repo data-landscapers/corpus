@@ -1,0 +1,22 @@
+{"slug":"2024-07-10-bdi-vers-une-identification-sure-et-securisee","studies":{
+"authentication":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Nothing stated on authentication."}}},
+"birthidlink":{"countries":{"BDI":{"facts":[{"sub_indicator":"link","aspect":"link","value":"underway","fact":"The Interior Ministry says ID for D will cover all layers of civil status, with births taken at health facilities or by the civil-status officer feeding a unique ID number, and an interoperability link between public services; planned, preliminary scope eleven communes.","as_of":"2024-07-02","date_precision":"day","system":"ID for D","class":"crvslink"}],"systems":[{"system":"ID for D","country_label":"Burundi","class":"idsystem","platform":"","owner":"Ministry of the Interior","tiers":""}],"note":""}}},
+"businesspayments":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Nothing stated on e-procurement."}}},
+"centralbank":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Nothing stated on the central bank."}}},
+"civilregister":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Only a presidential recommendation that civil-status services be digitalised; no system procured or piloted."}}},
+"civilserviceskills":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Nothing stated on civil servant training."}}},
+"consumerprotection":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Nothing stated on consumer protection."}}},
+"crossborderpayments":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Nothing stated on cross-border payments."}}},
+"digitalidlaw":{"countries":{"BDI":{"facts":[],"systems":[],"note":"No law or bill named."}}},
+"g2ppayments":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Nothing stated on government payments to people."}}},
+"idcoverage":{"countries":{"BDI":{"facts":[],"systems":[],"note":"No enrolment count or share given."}}},
+"idfrombirth":{"countries":{"BDI":{"facts":[{"sub_indicator":"frombirth","aspect":"number","value":"underway","fact":"Permanent secretary Valentin Nahimana of the Interior Ministry says a unique identification number with fingerprints will be given to each child at birth, in a health facility or before the civil-status officer, under the ID for D project; a plan, preliminary scope eleven communes.","as_of":"2024-07-02","date_precision":"day","system":"ID for D","class":"birthnumber"}],"systems":[{"system":"ID for D","country_label":"Burundi","class":"idsystem","platform":"","owner":"Ministry of the Interior","tiers":""}],"note":""}}},
+"idmaintenance":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Nothing stated on who operates or owns the ID system."}}},
+"idregisters":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Only a general interoperability link between public services; no register named as keyed on the ID number."}}},
+"idrobustness":{"countries":{"BDI":{"facts":[],"systems":[],"note":"A diagnostic study and a planned biometric card; no system procured, built or piloted is stated."}}},
+"localgov":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Nothing stated on local government office connection."}}},
+"paymentsuptake":{"countries":{"BDI":{"facts":[],"systems":[],"note":"No survey figure given."}}},
+"registry":{"countries":{"BDI":{"facts":[],"systems":[],"note":"No local civil registration office system stated as built or in use."}}},
+"retailpayments":{"countries":{"BDI":{"facts":[],"systems":[],"note":"Nothing stated on retail payments."}}},
+"revenuecollection":{"countries":{"BDI":{"facts":[{"sub_indicator":"revenue","aspect":"payment","value":"underway","fact":"The Interior Ministry's permanent secretary says fines, taxes and duties will be paid by an electronic e-payment model as other sectors follow the ID project; announced, not in service.","as_of":"2024-07-02","date_precision":"day","system":"e-payment","class":"revenue"}],"systems":[],"note":""}}}
+}}

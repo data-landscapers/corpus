@@ -1,9 +1,5 @@
 {"slug": "2025-05-31-ago-no-pais-menos-de-quatro-criancas-em-cada-10-estao-registadas", "studies": {
-"authentication": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
-"birthidlink": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
 "civilregister": {"countries": {"AGO": {"facts": [
-{"sub_indicator": "civil", "aspect": "coverage", "value": "general", "fact": "Angola's statistics institute INE, in the IIMS 2023-2024 survey, puts birth registration of children under five at 38 per cent, with no digital system named.", "as_of": "2024", "date_precision": "year", "system": "IIMS 2023-2024", "class": "civil"}
-], "systems": [], "note": ""}}},
-"idfrombirth": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No ID number at birth stated; only a birth certificate and registration rate."}}},
-"registry": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No digital entry at civil registration offices stated."}}}
+{"sub_indicator": "civil", "aspect": "coverage", "value": "general", "fact": "Novo Jornal reports the INE's 2023-2024 multiple indicators and health survey finds 38 per cent of children under five registered, up from 25 per cent in 2015-2016.", "as_of": "2024", "date_precision": "year", "system": "civil registration", "class": "civil"}
+], "systems": [], "note": ""}}}
 }}

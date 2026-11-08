@@ -1,0 +1,19 @@
+{
+  "slug": "2026-01-02-bfa-laborpresse-oni-bilan-2025-cnib",
+  "studies": {
+    "authentication": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on authentication."}}},
+    "birthidlink": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID."}}},
+    "idcoverage": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Gives cards produced in 2025, not people enrolled."}}},
+    "idfrombirth": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+    "idmaintenance": {"countries": {"BFA": {"facts": [], "systems": [{"system": "CNIB", "country_label": "Carte Nationale d'Identité Burkinabè", "class": "idsystem", "platform": "", "owner": "ONI", "tiers": ""}], "note": "Says ONI produced the cards; does not say who operates, maintains or owns the platform."}}},
+    "idregisters": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+    "idrobustness": {"countries": {"BFA": {
+      "facts": [
+        {"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Laborpresse reports that the Office National d'Identification produced 1,531,104 national identity cards (CNIB) to 29 December 2025, and that mass production of a new biometric card, CIB-AES, was about to start.", "as_of": "2025-12-29", "date_precision": "day", "system": "CNIB", "class": "idsystem"}
+      ],
+      "systems": [
+        {"system": "CNIB", "country_label": "Carte Nationale d'Identité Burkinabè", "class": "idsystem", "platform": "", "owner": "ONI", "tiers": ""}
+      ],
+      "note": ""}}}
+  }
+}

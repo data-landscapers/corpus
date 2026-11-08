@@ -1,0 +1,32 @@
+{"slug": "2026-01-01-mar-mi-um6p-mosip-rnp-l3-support-collaboration", "studies": {
+"addressregister": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on addressing."}}},
+"authentication": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "The Ministry of Interior and UM6P deck says the National Population Registry offers an authentication service, with 70M+ authentications reported.", "as_of": "2026", "date_precision": "year", "system": "RNP authentication service", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "The deck says the registry's authentication service compares data declared at registration for social programmes with the RNP's, and that six social programmes (RSU, AMOT, ASD, AMO, CHAMIL and others) are integrated.", "as_of": "2026", "date_precision": "year", "system": "RNP authentication service", "class": "authentication"}],
+"systems": [{"system": "Registre National de la Population (RNP)", "country_label": "Morocco", "class": "authentication", "platform": "MOSIP", "owner": "Ministry of Interior", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No civil register link is stated."}}},
+"businessregister": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on a business register."}}},
+"civilregister": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on civil registration."}}},
+"electoralregister": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on a voters' roll."}}},
+"idcoverage": {"countries": {"MAR": {"facts": [], "systems": [], "note": "22M+ identifiers are stated but no population figure or share is given."}}},
+"idfrombirth": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No number at birth is described."}}},
+"idmaintenance": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "maintenance", "aspect": "operation", "value": "transfer", "fact": "The deck says the Ministry of Interior is pursuing national technological autonomy for the RNP, with training in India and knowledge transfer, to reduce external dependence.", "as_of": "2026", "date_precision": "year", "system": "RNP (MOSIP)", "class": "idsystem"},
+{"sub_indicator": "maintenance", "aspect": "maintenance", "value": "national", "fact": "The deck says UM6P's MOSIP Centre of Excellence, a Moroccan university unit with 17 staff, holds a contract with the Ministry of Interior for L3 support, evolution of the MOSIP and RNP code and migration to the LTS version.", "as_of": "2026", "date_precision": "year", "system": "RNP (MOSIP)", "class": "idsystem"},
+{"sub_indicator": "maintenance", "aspect": "ownership", "value": "owned", "fact": "The deck says the RNP runs on MOSIP (version 1.1.5.x, being migrated to LTS), generalised to all 83 provinces in October 2022.", "as_of": "2022-10", "date_precision": "month", "system": "RNP (MOSIP)", "class": "idsystem"}],
+"systems": [], "note": ""}}},
+"idregisters": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No register is stated to be keyed on the ID number."}}},
+"idrobustness": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The deck says each person registered in the RNP receives a Civil and Social Digital Identifier (IDCS), with 22M+ attributed and the registry generalised to all 83 provinces in October 2022.", "as_of": "2026", "date_precision": "year", "system": "RNP / IDCS", "class": "idsystem"}], "systems": [], "note": ""}}},
+"idverification": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The deck says social programme registrations are checked against RNP data through the authentication service, with 47M+ KYC checks done.", "as_of": "2026", "date_precision": "year", "system": "RNP authentication and KYC", "class": "relying"},
+{"sub_indicator": "use", "aspect": "usage", "value": "reported", "fact": "The deck reports 70M+ authentications and 47M+ KYC checks, and six integrated social programmes.", "as_of": "2026", "date_precision": "year", "system": "RNP authentication and KYC", "class": "relying"}], "systems": [], "note": ""}}},
+"landregister": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on land records."}}},
+"populationregister": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "The deck describes the National Population Registry as a digital register open to all citizens and foreign residents, with 22M+ identifiers assigned.", "as_of": "2026", "date_precision": "year", "system": "Registre National de la Population", "class": "population"},
+{"sub_indicator": "population", "aspect": "used", "value": "source", "fact": "The deck says RNP data are made available to partners to simplify procedures and access to social support programmes, and six social programmes are integrated.", "as_of": "2026", "date_precision": "year", "system": "Registre National de la Population", "class": "population"}], "systems": [], "note": ""}}},
+"socialexchange": {"countries": {"MAR": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The deck says an RNP authentication service compares data declared at registration for social programmes with RNP data, and six social programmes (RSU, AMOT, ASD, AMO, CHAMIL and others) are integrated.", "as_of": "2026", "date_precision": "year", "system": "RNP authentication service", "class": "exchange"}], "systems": [], "note": ""}}},
+"socialregistry": {"countries": {"MAR": {"facts": [], "systems": [], "note": "RSU is named only as an integrated programme; the deck does not describe it as a registry."}}},
+"taxregister": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on a tax register."}}}
+}}

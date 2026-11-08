@@ -1,18 +1,32 @@
-{"slug": "2026-10-13-mrt-bluesquare-health-system-interoperability-lessons", "studies": {
-"agrisatellite": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Document does not mention agriculture or satellite data."}}},
-"birthidlink": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Only a planned patient registry linked to the population identifier; no civil register to ID link stated."}}},
-"civilregister": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Civil registration is named only as an example of a connected system; nothing on a digital civil register."}}},
-"dataexchange": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Health-sector interoperability foundation only; no government data exchange platform stated."}}},
-"health": {"countries": {"MRT": {"facts": [
-{"sub_indicator": "emr", "aspect": "clinics", "value": "pilot", "fact": "Bluesquare says 12 of the 21 health centres assessed across Nouakchott, Trarza and Brakna are confirmed as pilot sites for OpenClinic GA, the recommended shared primary care record, ahead of a first deployment at Dar Naim health centre.", "as_of": "2026-10-13", "date_precision": "day", "system": "OpenClinic GA", "class": "emr"}
-], "systems": [{"system": "OpenClinic GA", "country_label": "Mauritania", "class": "emr", "platform": "OpenClinic GA", "owner": "", "tiers": "T3"}], "note": ""}}},
-"healthexchange": {"countries": {"MRT": {"facts": [
-{"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "Bluesquare says the DIGISANTE MRT programme agreed HL7 FHIR R4, a national patient identifier and harmonised terminologies as the foundation for health system interoperability and identified patient, workforce, facility, insurance and pharmaceutical registries plus a DHIS2 export layer; a national steering unit first met in July 2026.", "as_of": "2026-07", "date_precision": "month", "system": "DIGISANTE MRT interoperability layer", "class": "exchange"}
-], "systems": [], "note": ""}}},
-"healthmis": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Mentions only a planned DHIS2 export layer; no national HMIS status stated."}}},
-"idfrombirth": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
-"interoperability": {"countries": {"MRT": {"facts": [], "systems": [], "note": "A health-sector foundation only; no government-wide framework stated."}}},
-"populationregister": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Names the national population registry authority and a population identifier but states nothing on a register in service or being built."}}},
-"qualitystandards": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Names no national standards body or national IT standard issued."}}},
-"registry": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on local civil registration offices."}}}
-}}
+{
+ "slug": "2026-10-13-mrt-bluesquare-health-system-interoperability-lessons",
+ "studies": {
+  "idverification": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Health programme plans a patient registry linked to the population identifier; no service in use or being built is stated for checking against the ID."
+    }
+   }
+  },
+  "interoperabilitystandards": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Standards named (HL7 FHIR R4, terminologies) are for the health sector only, which this study notes and never stages."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Document concerns health systems; states nothing on a social programme MIS."
+    }
+   }
+  }
+ }
+}

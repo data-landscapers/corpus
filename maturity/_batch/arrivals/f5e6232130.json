@@ -1,0 +1,25 @@
+{"slug": "2026-05-14-gha-nia-registers-over-32-000-children-in-volta-oti-regions", "studies": {
+"authentication": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "NIA Executive Secretary Wisdom Kwaku Deku says NIA, the Ghana Health Service and the Births and Deaths Registry will begin the next month registering children aged 0-5, capturing the birth, issuing a birth registration number and generating the Ghana Card PIN together.", "as_of": "2026-05", "date_precision": "month", "system": "NIA, Ghana Health Service and Births and Deaths Registry registration of children aged 0-5", "class": "crvslink"}
+], "systems": [], "note": ""}}},
+"civilregister": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No digital civil register is described."}}},
+"digitalidlaw": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "NIA Executive Secretary Wisdom Kwaku Deku says the National Identification Authority Act, Acts 707 and 750 as amended, mandates NIA to register all Ghanaians from birth.", "as_of": "2026-05", "date_precision": "month", "system": "National Identification Authority Act (Acts 707 and 750, as amended)", "class": "law"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Only counts of children registered; no count or share of the whole population."}}},
+"idfrombirth": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "frombirth", "aspect": "number", "value": "underway", "fact": "NIA Executive Secretary Wisdom Kwaku Deku says registration of children aged 0-5 will begin the next month, with children born in hospitals automatically assigned an identity number at birth, the Ghana Card PIN generated with the birth registration number.", "as_of": "2026-05", "date_precision": "month", "system": "Ghana Card PIN at birth", "class": "birthnumber"}
+], "systems": [], "note": ""}}},
+"idmaintenance": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on who operates, maintains or owns the system."}}},
+"idregisters": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "NIA Executive Secretary Wisdom Kwaku Deku says the Ghana Card PIN also serves as a person's SSNIT number, Tax Identification Number and National Health Insurance number.", "as_of": "2026-05-14", "date_precision": "day", "system": "Ghana Card PIN", "class": "register"}
+], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "NIA says it has registered and issued Ghana Cards, with more than 32,000 children registered in the Volta and Oti exercise and 350,000 in the 2024 pilot, cards printed and distributed in 2025.", "as_of": "2026-05-14", "date_precision": "day", "system": "Ghana Card", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"registry": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No office-level digital entry of births or deaths stated."}}},
+"taxregister": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "taxpayers", "aspect": "nationalid", "value": "linked", "fact": "NIA Executive Secretary Wisdom Kwaku Deku says the Ghana Card PIN serves as the person's Tax Identification Number, so a registered child automatically gets a TIN.", "as_of": "2026-05-14", "date_precision": "day", "system": "Ghana Card PIN as TIN", "class": "tax"}
+], "systems": [], "note": ""}}}
+}}

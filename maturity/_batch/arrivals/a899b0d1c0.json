@@ -1,0 +1,29 @@
+{"slug": "2025-12-14-gin-etat-civil-guineen-la-refondation-en-marche-l-identification-au-cur-du", "studies": {
+"addressregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on addressing."}}},
+"authentication": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on authentication services."}}},
+"birthidlink": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Births and deaths are discussed but no link between civil register and ID system is stated."}}},
+"businessregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on a business register."}}},
+"civilregister": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "L'Independant quotes the head of the elections directorate saying authorities set up the national civil register (RAVEC) as part of a digitalisation and modernisation of civil registration, while birth registration remains low and deaths are declared at only about 2%.", "as_of": "2025-12", "date_precision": "month", "system": "RAVEC", "class": "civil"}
+], "systems": [{"system": "RAVEC", "country_label": "Guinea", "class": "civil", "platform": "", "owner": "ONECI", "tiers": ""}], "note": ""}}},
+"digitalidlaw": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "L'Independant quotes the head of the elections directorate recalling the adoption under the transition of a law on the identification of natural persons and another on civil status.", "as_of": "2025-12", "date_precision": "month", "system": "Law on identification of natural persons", "class": "law"}
+], "systems": [], "note": ""}}},
+"electoralregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Only a future voter roll fed from the RNPP is described; no digital roll in service or under way is stated."}}},
+"idcoverage": {"countries": {"GIN": {"facts": [], "systems": [], "note": "RNPP holds nearly 10 million people but no population or share is stated."}}},
+"idfrombirth": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on a number given at birth."}}},
+"idmaintenance": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "underway", "fact": "L'Independant quotes the elections directorate head saying the voter roll will be fed from the national register of natural persons (RNPP) by an annual extraction of citizens aged 18 holding a birth record.", "as_of": "2025-12", "date_precision": "month", "system": "RNPP", "class": "register"}
+], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "L'Independant quotes the elections directorate head saying the national register of natural persons (RNPP), built under the PN-RAVEC programme, now records nearly 10 million people, about 6.7 million of them voters.", "as_of": "2025-12", "date_precision": "month", "system": "RNPP", "class": "idsystem"}
+], "systems": [{"system": "RNPP", "country_label": "Guinea", "class": "idsystem", "platform": "", "owner": "ONECI", "tiers": ""}], "note": ""}}},
+"landregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on land."}}},
+"populationregister": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "L'Independant quotes the elections directorate head saying the national register of natural persons (RNPP) now records nearly 10 million people.", "as_of": "2025-12", "date_precision": "month", "system": "RNPP", "class": "population"}
+], "systems": [], "note": ""}}},
+"registry": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No statement on whether local offices enter events digitally."}}},
+"socialregistry": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on social protection."}}},
+"taxregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on tax."}}}
+}}

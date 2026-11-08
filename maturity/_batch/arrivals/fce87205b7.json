@@ -1,13 +1,8 @@
 {"slug": "2026-08-28-moz-ine-mocambique-falha-registo-de-9-em-cada-10-bebes-que-nascem", "studies": {
-"admindata": {"countries": {"MOZ": {"facts": [
-{"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "INE published its Estatisticas Vitais 2024-2025 report, with births and deaths registered by the civil registration system in 2025 (8.8% and 38,032 deaths), reported on 2026-08-28.", "as_of": "2026-08", "date_precision": "month", "system": "Estatisticas Vitais 2024-2025", "class": "admin"},
-{"sub_indicator": "admin", "aspect": "source", "value": "civil-registration", "fact": "INE's Estatisticas Vitais 2024-2025 draws its birth and death figures from the civil registration system's records.", "as_of": "2026-08", "date_precision": "month", "system": "Estatisticas Vitais 2024-2025", "class": "admin"}
-], "systems": [{"system": "Estatisticas Vitais 2024-2025", "country_label": "Estatisticas Vitais 2024-2025", "class": "admin", "platform": "", "owner": "INE", "tiers": ""}], "note": ""}}},
-"birthidlink": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No civil register to ID link stated."}}},
-"civilregister": {"countries": {"MOZ": {"facts": [
-{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "The electronic civil registration and vital statistics system e-SIRCEV was implemented in 2018, per INE's Estatisticas Vitais 2024-2025; the source does not say whether it covers the whole country.", "as_of": "2018", "date_precision": "year", "system": "e-SIRCEV", "class": "civil"},
-{"sub_indicator": "civil", "aspect": "coverage", "value": "general", "fact": "INE's report says the civil registration system registered 8.8% of 2025 births (8.9% in 2024), not tied to the digital system.", "as_of": "2025", "date_precision": "year", "system": "e-SIRCEV", "class": "civil"}
-], "systems": [{"system": "e-SIRCEV", "country_label": "Mozambique", "class": "civil", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
-"idfrombirth": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
-"registry": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Does not say offices enter events digitally."}}}
+"authentication": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on authentication."}}},
+"civilregister": {"countries": {"MOZ": {"facts": [{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "Dossiers & Factos reports that the electronic civil registration and vital statistics system e-SIRCEV was implemented in 2018, without saying how many offices or what share of the country it serves.", "as_of": "2018", "date_precision": "year", "system": "e-SIRCEV", "class": "civil"}, {"sub_indicator": "civil", "aspect": "coverage", "value": "general", "fact": "INE's Vital Statistics 2024-2025 report, as reported, says the civil registration system registered 8.8% of births in 2025 (8.9% in 2024) and 10.0% of deaths, a national rate not tied to the digital system.", "as_of": "2025", "date_precision": "year", "system": "e-SIRCEV", "class": "civil"}], "systems": [{"system": "e-SIRCEV (Sistema Electronico do Registo Civil e Estatisticas Vitais)", "country_label": "Mozambique", "class": "civil", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Only birth and death registration rates are given, not national ID enrolment."}}},
+"idmaintenance": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on the ID system's operation."}}},
+"idregisters": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Document states nothing on a national ID system."}}}
 }}

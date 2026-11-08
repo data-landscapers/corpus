@@ -1,0 +1,20 @@
+{"slug": "2026-01-01-rwa-innovative-solutions-and-best-practices-in-the-transformation-of-rwand", "studies": {
+"authentication": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Only an ongoing biometric verification initiative named as technical assistance; no authentication service stated."}}},
+"birthidlink": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "link", "aspect": "link", "value": "inservice", "fact": "A NIDA presentation says Rwanda's digital CRVS system is integrated with the national ID, the population register and health systems.", "as_of": "2024", "date_precision": "year", "system": "Digital CRVS system", "class": "crvslink"}
+], "systems": [{"system": "Digital CRVS system", "country_label": "Rwanda", "class": "civil", "platform": "local IT company", "owner": "NIDA", "tiers": ""}], "note": ""}}},
+"censuses": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Mentions census data analysis only; no census or survey stated."}}},
+"civilregister": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "A NIDA presentation says Rwanda has a digital CRVS system, with full digitalization listed among future plans.", "as_of": "2024", "date_precision": "year", "system": "Digital CRVS system", "class": "civil"},
+{"sub_indicator": "civil", "aspect": "coverage", "value": "general", "fact": "A NIDA presentation says birth registration completeness rose from 51% in 2016 to 90.3% in 2024, with no share tied to the digital system.", "as_of": "2024", "date_precision": "year", "system": "Digital CRVS system", "class": "civil"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No ID enrolment count or share."}}},
+"idfrombirth": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No number given at birth stated."}}},
+"idmaintenance": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The local IT company partnership concerns the CRVS system, not the ID system."}}},
+"idregisters": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No register stated as keyed on the ID number."}}},
+"idrobustness": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No statement on the national ID system itself."}}},
+"populationregister": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "A NIDA presentation says Rwanda's digital CRVS system is integrated with a population register.", "as_of": "2024", "date_precision": "year", "system": "Population register", "class": "population"}
+], "systems": [], "note": ""}}},
+"registry": {"countries": {"RWA": {"facts": [], "systems": [{"system": "Digital CRVS system", "country_label": "Rwanda", "class": "civil", "platform": "local IT company", "owner": "NIDA", "tiers": ""}], "note": "Registration points rose from 416 to 3,220 but no share of offices entering events digitally is stated."}}}
+}}

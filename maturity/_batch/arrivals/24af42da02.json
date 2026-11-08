@@ -1,10 +1,1 @@
-{"slug": "2026-11-05-sen-protection-des-donn-es-personnelles-vers-la-cr-ation-d-une-s", "studies": {
-"aiabuse": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
-"aigovernment": {"countries": {"SEN": {"facts": [], "systems": [], "note": "AI mentioned only as a use of data; no government AI system."}}},
-"aisectoral": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No AI tool in a sector system stated."}}},
-"aisystems": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
-"dataprotectionlaw": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No law, authority or decision is named."}}},
-"digitalsovereignty": {"countries": {"SEN": {"facts": [
-{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "SenePlus reports that on 4 November 2026 the Digital and Health ministries said they are jointly setting up an infrastructure to secure and host patients' health data, with no timetable given.", "as_of": "2026-11-04", "date_precision": "day", "system": "health data hosting infrastructure", "class": "sovereignty"}
-], "systems": [], "note": ""}}}
-}}
+{"slug": "2026-11-05-sen-protection-des-donn-es-personnelles-vers-la-cr-ation-d-une-s", "studies": {"healthexchange": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Only an infrastructure to secure and host health data is being set up; no exchange between health systems stated."}}}}}

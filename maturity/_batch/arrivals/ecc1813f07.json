@@ -1,7 +1,7 @@
-{"slug": "2026-03-20-mli-evaluation-of-data-quality-and-effective-use-of-dhis2-in-monitoring-ma", "studies": {
-"health": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Abstract gives no tiers, level of entry or clinic share."}}},
-"healthmis": {"countries": {"MLI": {"facts": [
-{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "The IJRIAS abstract says DHIS2 is implemented in Mali for service delivery, monitoring and evaluation of health programmes, based on a survey run September 2023 to September 2024.", "as_of": "2024", "date_precision": "year", "system": "DHIS2", "class": "hmis"},
-{"sub_indicator": "hmis", "aspect": "completeness", "value": "published", "fact": "The study reports DHIS2 raised completeness and timeliness to 91.7%, from survey data on malaria and vaccination programme monitoring.", "as_of": "2024", "date_precision": "year", "system": "DHIS2", "class": "hmis"}
-], "systems": [], "note": ""}}}
+{"slug":"2026-03-20-mli-evaluation-of-data-quality-and-effective-use-of-dhis2-in-monitoring-ma","studies":{
+"customs":{"countries":{"MLI":{"facts":[],"systems":[],"note":"A health DHIS2 evaluation; nothing on customs."}}},
+"educationexchange":{"countries":{"MLI":{"facts":[],"systems":[],"note":"A health DHIS2 evaluation; nothing on education systems."}}},
+"educationmis":{"countries":{"MLI":{"facts":[],"systems":[],"note":"A health DHIS2 evaluation; nothing on education information systems."}}},
+"police":{"countries":{"MLI":{"facts":[],"systems":[],"note":"A health DHIS2 evaluation; nothing on police records."}}},
+"schools":{"countries":{"MLI":{"facts":[],"systems":[],"note":"A health DHIS2 evaluation; nothing on school records."}}}
 }}

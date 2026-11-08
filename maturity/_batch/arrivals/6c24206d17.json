@@ -1,0 +1,263 @@
+{
+ "slug": "2026-07-01-gha-gnhr-privacy-cookie-policy",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "dataprotectionauthority": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "body",
+       "aspect": "standing",
+       "value": "constituted",
+       "fact": "The registry's policy says individuals may lodge a complaint with the Data Protection Commission of Ghana under Act 843.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Ghana National Household Registry",
+       "class": "authority"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The registry's policy states that individuals' rights over their data are set by the Data Protection Act, 2012 (Act 843) of Ghana.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Ghana National Household Registry",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "constituted",
+       "fact": "The policy says individuals may lodge complaints with the Data Protection Commission of Ghana.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Ghana National Household Registry",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The Ghana National Household Registry's July 2026 privacy policy says it collects each registrant's NIA Ghana Card number, so the national ID number is a field of the public household registry.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Ghana National Household Registry",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ghana National Household Registry",
+       "country_label": "Ghana",
+       "class": "social",
+       "platform": "",
+       "owner": "Ministry of Gender, Children and Social Protection",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "inservice",
+       "fact": "The policy says the registry links its data with the NIA, NHIA, GES and other MDA databases, and shares aggregated or de-identified data with authorised MDAs for interoperability.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Ghana National Household Registry",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "registry",
+       "value": "shared",
+       "fact": "The policy says registry data identifies beneficiaries for several programmes, namely LEAP, NHIS and school feeding.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Ghana National Household Registry",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "The policy says the registry holds the NIA Ghana Card number and links its data with NIA (ID), NHIA (health) and GES (education).",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Ghana National Household Registry",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ghana National Household Registry",
+       "country_label": "Ghana",
+       "class": "social",
+       "platform": "",
+       "owner": "Ministry of Gender, Children and Social Protection",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "social",
+       "aspect": "registry",
+       "value": "inservice",
+       "fact": "The policy says the Ghana National Household Registry, run under the Ministry of Gender, Children and Social Protection, is used to identify and verify eligible beneficiaries for government programmes.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Ghana National Household Registry",
+       "class": "social"
+      },
+      {
+       "sub_indicator": "social",
+       "aspect": "programmes",
+       "value": "several",
+       "fact": "The policy says registry data is used to identify eligible beneficiaries for programmes such as LEAP, NHIS and school feeding.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Ghana National Household Registry",
+       "class": "social"
+      },
+      {
+       "sub_indicator": "social",
+       "aspect": "linked",
+       "value": "linked",
+       "fact": "The policy says the registry collects the NIA Ghana Card number and links registry data with NIA, NHIA and GES databases.",
+       "as_of": "2026-07",
+       "date_precision": "month",
+       "system": "Ghana National Household Registry",
+       "class": "social"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Ghana National Household Registry",
+       "country_label": "Ghana",
+       "class": "social",
+       "platform": "",
+       "owner": "Ministry of Gender, Children and Social Protection",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

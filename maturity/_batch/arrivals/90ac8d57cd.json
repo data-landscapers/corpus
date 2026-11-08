@@ -1,9 +1,5 @@
 {"slug": "2025-03-06-eth-new-initiative-launched-in-ethiopia-to-strengthen-health-data-and-save", "studies": {
-"admindata": {"countries": {"ETH": {"facts": [], "systems": [], "note": "States no published statistics from administrative records."}}},
-"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Links surveillance sites to civil registration, not civil register to the ID system."}}},
 "civilregister": {"countries": {"ETH": {"facts": [
-{"sub_indicator": "civil", "aspect": "coverage", "value": "general", "fact": "The government, citing the Immigration and Citizenship Service, puts birth registration in Ethiopia at 37% completeness and death registration at 16%, with no tie to a digital system.", "as_of": "2025-03-06", "date_precision": "day", "system": "", "class": "civil"}
-], "systems": [], "note": ""}}},
-"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
-"registry": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No office-level digital entry stated."}}}
+{"sub_indicator": "civil", "aspect": "coverage", "value": "general", "fact": "Vital Strategies cites the government (Immigration and Citizenship Services) putting birth registration completeness at 37 per cent and death registration at 16 per cent.", "as_of": "2025-03", "date_precision": "month", "system": "national civil registration system", "class": "civil"}
+], "systems": [], "note": ""}}}
 }}

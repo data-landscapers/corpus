@@ -1,0 +1,124 @@
+{
+ "slug": "2026-03-14-sdn-sudanese-passport-tamper-proof-icao-membership-boosts-global-trust-pas",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sudan."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sudan."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sudan."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The Port Sudan data centre is for civil registry systems, not stated as for hire."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sudan."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sudan."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sudan."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sudan."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The head of the Sudanese Passports and Civil Registry Authority discussed reports of irregular issuance of national IDs to foreigners, calling them exaggerated, and said committees are reviewing all records.",
+       "as_of": "2026-03-14",
+       "date_precision": "day",
+       "system": "national ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sudan."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sudan."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Sudan."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,9 @@
+{"slug": "2024-03-12-stp-bilhete-de-identidade-emitido-na-ilha-do-principe", "studies": {
+"authentication": {"countries": {"STP": {"facts": [], "systems": [], "note": "The article says nothing on electronic authentication."}}},
+"birthidlink": {"countries": {"STP": {"facts": [], "systems": [], "note": "The article says nothing on a civil register link."}}},
+"idcoverage": {"countries": {"STP": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idfrombirth": {"countries": {"STP": {"facts": [], "systems": [], "note": "The article says nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"STP": {"facts": [], "systems": [], "note": "The article does not say who runs or maintains the system."}}},
+"idregisters": {"countries": {"STP": {"facts": [{"sub_indicator": "registers", "aspect": "register", "value": "underway", "fact": "The Minister of Justice said a project for an ID that carries information for social security, tax and the electoral card is drawn up and awaiting financing.", "as_of": "2024-03-12", "date_precision": "day", "system": "Bilhete de Identidade", "class": "register"}], "systems": [], "note": ""}}},
+"idrobustness": {"countries": {"STP": {"facts": [], "systems": [{"system": "Bilhete de Identidade", "country_label": "Sao Tome and Principe", "class": "idsystem", "platform": "", "owner": "Ministry of Justice", "tiers": ""}], "note": "The ID card is issued instantly in Principe, but the article does not say it carries a unique number or biometrics."}}}
+}}

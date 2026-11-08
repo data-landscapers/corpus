@@ -1,0 +1,21 @@
+{
+ "slug": "2024-08-26-sdn-awalalnahar-police-spokesman-civil-registry-fingerprint-systems-recovered",
+ "studies": {
+  "authentication": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No authentication service is stated."}}},
+  "birthidlink": {"countries": {"SDN": {"facts": [
+   {"sub_indicator": "link", "aspect": "link", "value": "inservice", "fact": "The police spokesman told Awal Alnahar in August 2024 that the civil registry system holds the national number together with birth and death certificates and marriage, divorce and inheritance subsystems, recovered and running to 13 April 2023.", "as_of": "2024-08", "date_precision": "month", "system": "civil registry system (السجل المدني)", "class": "crvslink"}
+  ], "systems": [{"system": "Civil registry system (national number, birth and death certificates)", "country_label": "Sudan", "class": "civil", "platform": "NADRA registration software, German hardware", "owner": "Sudan Police", "tiers": ""}], "note": ""}}},
+  "civilregister": {"countries": {"SDN": {"facts": [
+   {"sub_indicator": "civil", "aspect": "births", "value": "inservice", "fact": "The police spokesman says the civil registry system, covering birth and death certificates, was fully recovered up to 13 April 2023, tested and running.", "as_of": "2024-08", "date_precision": "month", "system": "civil registry system (السجل المدني)", "class": "civil"},
+   {"sub_indicator": "civil", "aspect": "deaths", "value": "digital", "fact": "The police spokesman says the recovered civil registry system includes the death certificate system as well as births.", "as_of": "2024-08", "date_precision": "month", "system": "civil registry system (السجل المدني)", "class": "civil"}
+  ], "systems": [], "note": ""}}},
+  "idcoverage": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No count or share of people holding a national number is given."}}},
+  "idfrombirth": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No number given at birth registration is stated."}}},
+  "idmaintenance": {"countries": {"SDN": {"facts": [
+   {"sub_indicator": "maintenance", "aspect": "operation", "value": "supplier", "fact": "The police spokesman says the civil fingerprint system that runs new national numbers and the national card belongs to Dermalog, with state licences, and Germans must operate it; the police director general went to Germany to seek a restart, so no new numbers are issued.", "as_of": "2024-08", "date_precision": "month", "system": "civil fingerprint system (Dermalog)", "class": "idsystem"}
+  ], "systems": [{"system": "Civil fingerprint system", "country_label": "Sudan", "class": "idsystem", "platform": "Dermalog", "owner": "Dermalog, state licences", "tiers": ""}], "note": ""}}},
+  "idregisters": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Passports and traffic systems are named, but none is said to be keyed on the ID number as a register."}}},
+  "idrobustness": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Issuance of new numbers is halted; no biometric check or certification is stated."}}},
+  "registry": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No local office entry of births or deaths is stated."}}}
+ }
+}

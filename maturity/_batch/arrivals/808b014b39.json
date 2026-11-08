@@ -1,0 +1,25 @@
+{
+ "slug": "2025-07-01-tcd-tchad-la-digitalisation-accelere-lenregistrement-des-naissances-a-mong",
+ "studies": {
+  "authentication": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No authentication service is stated."}}},
+  "birthidlink": {"countries": {"TCD": {"facts": [
+   {"sub_indicator": "link", "aspect": "link", "value": "inservice", "fact": "Radio Ndarason reports that at Mongo provincial hospital births are entered digitally with a Numero National d'Identification (NNI) and sent to ANATS in N'Djamena, which validates the birth act.", "as_of": "2025-07", "date_precision": "month", "system": "guichet unique d'enregistrement des naissances (Mongo)", "class": "crvslink"}
+  ], "systems": [{"system": "Guichet unique d'enregistrement des naissances, Mongo", "country_label": "Tchad", "class": "civil", "platform": "", "owner": "ANATS", "tiers": ""}], "note": ""}}},
+  "civilregister": {"countries": {"TCD": {"facts": [
+   {"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "Radio Ndarason reports a digital birth registration desk at Mongo provincial hospital, backed by the government and UNICEF, serving 18 health centres within 75 km and logging 10 to 15 births a day.", "as_of": "2025-07", "date_precision": "month", "system": "guichet unique d'enregistrement des naissances (Mongo)", "class": "civil"}
+  ], "systems": [], "note": ""}}},
+  "digitalidlaw": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No identity law is mentioned."}}},
+  "idcoverage": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No count or share of people holding an ID is given."}}},
+  "idfrombirth": {"countries": {"TCD": {"facts": [
+   {"sub_indicator": "frombirth", "aspect": "number", "value": "inservice", "fact": "Radio Ndarason reports that at the Mongo hospital desk, in Guera province, birth acts are digitised with a Numero National d'Identification (NNI) and validated by ANATS, with 10 to 15 births registered a day.", "as_of": "2025-07", "date_precision": "month", "system": "NNI at birth registration", "class": "birthnumber"}
+  ], "systems": [], "note": ""}}},
+  "idmaintenance": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No operator, maintainer or owner of the ID system is described."}}},
+  "idregisters": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No register keyed on the ID number is stated."}}},
+  "idrobustness": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No statement on the ID system's issuance, biometrics or certification."}}},
+  "localgov": {"countries": {"TCD": {"facts": [], "systems": [], "note": "No local government office connection is stated."}}},
+  "registry": {"countries": {"TCD": {"facts": [
+   {"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "Radio Ndarason reports births are entered in a secure system at the Mongo hospital registration desk and transmitted to ANATS; no deaths are mentioned.", "as_of": "2025-07", "date_precision": "month", "system": "guichet unique d'enregistrement des naissances (Mongo)", "class": "civil"},
+   {"sub_indicator": "civil", "aspect": "made", "value": "connected", "fact": "Radio Ndarason reports the desk enters birth data at registration and ANATS receives it almost instantly by SMS for validation, after which the desk prints the act.", "as_of": "2025-07", "date_precision": "month", "system": "guichet unique d'enregistrement des naissances (Mongo)", "class": "civil"}
+  ], "systems": [], "note": ""}}}
+ }
+}

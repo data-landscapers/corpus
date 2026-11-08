@@ -1,0 +1,358 @@
+{
+ "slug": "2025-10-30-sen-senegal-and-togo-strengthen-cooperation-on-digital-identity-systems",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SEN."
+    },
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "TechAfrica News reports that MOSIP's authentication component has been integrated within Togo's national systems, as shown to a Senegalese delegation in October 2025.",
+       "as_of": "2025-10",
+       "date_precision": "month",
+       "system": "Togo national electronic identification (EID) platform on MOSIP",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Togo national electronic identification (EID) platform on MOSIP",
+       "country_label": "Togo",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "ANID",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SEN."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SEN."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SEN."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SEN."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SEN."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SEN."
+    },
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "hosted",
+       "value": "national",
+       "fact": "TechAfrica News reports that all Togolese identity data is hosted domestically within national infrastructure, per the Togolese delegation.",
+       "as_of": "2025-10",
+       "date_precision": "month",
+       "system": "Togo national electronic identification (EID) platform on MOSIP",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SEN."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SEN."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SEN."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SEN."
+    },
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "TechAfrica News reports that Togo's ID project was developed and managed primarily through Togolese expertise.",
+       "as_of": "2025-10",
+       "date_precision": "month",
+       "system": "Togo national electronic identification (EID) platform on MOSIP",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "ownership",
+       "value": "owned",
+       "fact": "TechAfrica News reports that Togo's ID platform is built on open-source MOSIP, hosted in national infrastructure, which the article says reinforces national ownership of the system.",
+       "as_of": "2025-10",
+       "date_precision": "month",
+       "system": "Togo national electronic identification (EID) platform on MOSIP",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Togo national electronic identification (EID) platform on MOSIP",
+       "country_label": "Togo",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "ANID",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SEN."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "TechAfrica News reports that Senegal's national electronic identification (EID) project is in development and a rollout is forthcoming, with an open-source approach adopted.",
+       "as_of": "2025-10",
+       "date_precision": "month",
+       "system": "Senegal national electronic identification (EID) project",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Senegal national electronic identification (EID) project",
+       "country_label": "Senegal",
+       "class": "idsystem",
+       "platform": "open source",
+       "owner": "MCTN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "TechAfrica News reports that Togo has implemented a foundational biometric digital identity system with biometric enrolment and identity management, shown to a Senegalese delegation visiting ANID on 22-27 October 2025.",
+       "as_of": "2025-10",
+       "date_precision": "month",
+       "system": "Togo national electronic identification (EID) platform on MOSIP",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Togo national electronic identification (EID) platform on MOSIP",
+       "country_label": "Togo",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "ANID",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SEN."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SEN."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SEN."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SEN."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for SEN."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  }
+ }
+}

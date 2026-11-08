@@ -1,0 +1,5 @@
+{"slug": "2024-10-29-tun-kedma-biometric-id-passport-70-percent-launch-h2-2025", "studies": {
+"dataprotectionlaw": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only a stated principle of protecting personal data; no law stated."}}},
+"digitalidlaw": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No law or bill named."}}},
+"idrobustness": {"countries": {"TUN": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "The national security spokesman said on 28 October 2024 the biometric ID card and passport project was about 70% complete, to start in the second half of 2025 and be generalised within three years.", "as_of": "2024-10-28", "date_precision": "day", "system": "biometric ID card", "class": "idsystem"}], "systems": [{"system": "biometric national ID card", "country_label": "Tunisia", "class": "idsystem", "platform": "chip card, central database", "owner": "Ministry of Interior", "tiers": ""}], "note": ""}}}
+}}

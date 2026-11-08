@@ -1,0 +1,14 @@
+{"slug": "2026-03-24-zaf-home-affairs-allays-fears-over-digital-id-security", "studies": {
+"authentication": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Digital ID is envisioned only; no authentication service stated."}}},
+"birthidlink": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"dataprotectionlaw": {"countries": {"ZAF": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "ITWeb reports the home affairs minister saying the digital ID system will follow eight conditions of South Africa's Protection of Personal Information Act, the country's data privacy law.", "as_of": "2026-03-24", "date_precision": "day", "system": "POPIA", "class": "general"}], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No online government service stated."}}},
+"eparticipation": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Only a future public consultation is mentioned, none held online."}}},
+"idcoverage": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No enrolment count or share given."}}},
+"idfrombirth": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Who operates or maintains the ID system is not stated."}}},
+"idregisters": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"ZAF": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "ITWeb reports the home affairs minister saying the department is charged with building the first components of the national digital ID system and comprehensive policy work is under way.", "as_of": "2026-03-24", "date_precision": "day", "system": "national digital ID system", "class": "idsystem"}], "systems": [{"system": "national digital ID system", "country_label": "ZAF", "class": "idsystem", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No other system checking against the ID stated."}}},
+"publicconsultation": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Consultation is promised for later, not held."}}}
+}}

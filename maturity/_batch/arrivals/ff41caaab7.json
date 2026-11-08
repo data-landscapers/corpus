@@ -1,5 +1,5 @@
-{"slug": "2023-11-13-bdi-recrutement-d-un-bureau-d-etudes-charge-de-l-evaluation-et-de-la-mise", "studies": {
-"ictstrategy": {"countries": {"BDI": {"facts": [
-{"sub_indicator": "sector", "aspect": "standing", "value": "announced", "fact": "PAFEN, funded by an IDA grant, invited consultancy firms in November 2023 to evaluate Burundi's national ICT development policy (PNDTIC) and its 2011-2025 action plan and to draft a new PNDTIC with an action plan for 2025-2034.", "as_of": "2023-11-13", "date_precision": "day", "system": "PNDTIC (Politique Nationale de Developpement des TIC)", "class": "sector"}
-], "systems": [{"system": "PNDTIC", "country_label": "Burundi", "class": "sector", "platform": "", "owner": "Government of Burundi", "tiers": ""}], "note": ""}}}
-}}
+{"slug": "2023-11-13-bdi-recrutement-d-un-bureau-d-etudes-charge-de-l-evaluation-et-de-la-mise", "studies": {"ictstrategy": {"countries": {"BDI": {"facts": [
+{"sub_indicator": "sector", "aspect": "standing", "value": "adopted", "fact": "PAFEN's call for expressions of interest, deadline 30 November 2023, refers to Burundi's current National ICT Development Policy (PNDTIC) and its 2011-2025 action plan, to be evaluated.", "as_of": "2023-11-13", "date_precision": "day", "system": "PNDTIC", "class": "sector"},
+{"sub_indicator": "sector", "aspect": "period", "value": "to:2025", "fact": "The call gives the current PNDTIC action plan's period as 2011-2025.", "as_of": "2023-11-13", "date_precision": "day", "system": "PNDTIC", "class": "sector"},
+{"sub_indicator": "sector", "aspect": "plan", "value": "actions", "fact": "The call says the PNDTIC has an action plan for 2011-2025 with overall objectives the government set, whose attainment the consultancy is to evaluate; a new policy and action plan for 2025-2034 are to be drafted.", "as_of": "2023-11-13", "date_precision": "day", "system": "PNDTIC", "class": "sector"}
+], "systems": [{"system": "PNDTIC", "country_label": "Politique Nationale de Développement des TIC", "class": "sector", "platform": "", "owner": "Government of Burundi", "tiers": ""}], "note": ""}}}}}

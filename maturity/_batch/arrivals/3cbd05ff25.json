@@ -1,0 +1,41 @@
+{
+ "slug": "2026-09-04-niger-mobile-network-quality-complaints",
+ "studies": {
+  "exchangepoints": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The column states nothing this study asks; mobile network quality only."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The column states nothing this study asks; mobile network quality only."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The column states nothing this study asks; mobile network quality only."
+    }
+   }
+  },
+  "satellitebroadband": {
+   "countries": {
+    "NER": {
+     "facts": [],
+     "systems": [],
+     "note": "The column states nothing this study asks; mobile network quality only."
+    }
+   }
+  }
+ }
+}

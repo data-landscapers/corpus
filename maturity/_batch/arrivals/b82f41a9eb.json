@@ -1,0 +1,50 @@
+{
+ "slug": "2024-02-26-gnb-eleicoes-governo-preve-atualizacao-de-cadernos-eleitorais-para-25-de-m",
+ "studies": {
+  "birthidlink": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for GNB."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for GNB."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Names an electoral database and a planned roll update, not stated to be a digital or biometric register in service; integration with the civil register is only an aim."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for GNB."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for GNB."
+    }
+   }
+  }
+ }
+}

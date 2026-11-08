@@ -1,0 +1,12 @@
+{"slug":"2025-12-01-lby-labour-ministry-civil-registry-national-number-link-renewal","studies":{
+"authentication":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing on authentication."}}},
+"birthidlink":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing on a civil register to ID link."}}},
+"civilregister":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing on digital civil registration."}}},
+"dataexchange":{"countries":{"LBY":{"facts":[],"systems":[],"note":"A bilateral ministry link to the national number system, not an exchange platform."}}},
+"idcoverage":{"countries":{"LBY":{"facts":[],"systems":[],"note":"No count or share of people holding the national number."}}},
+"idfrombirth":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing on a number at birth."}}},
+"idmaintenance":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing on who runs or owns the system."}}},
+"idregisters":{"countries":{"LBY":{"facts":[{"sub_indicator":"registers","aspect":"register","value":"underway","fact":"The Ministry of Labour told the Civil Registry Authority on 1 December 2025 its requirements for a direct electronic link to the national number system and discussed renewing the existing agreement between its Information and Documentation Centre and the authority.","as_of":"2025-12-01","date_precision":"day","system":"National number system","class":"register"}],"systems":[{"system":"National number system","country_label":"Libya","class":"register","platform":"","owner":"Civil Registry Authority","tiers":""}],"note":""}}},
+"idrobustness":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document names the national number system but states nothing on its issuing, biometrics or certification."}}},
+"registry":{"countries":{"LBY":{"facts":[],"systems":[],"note":"Document states nothing on civil registration offices."}}}
+}}

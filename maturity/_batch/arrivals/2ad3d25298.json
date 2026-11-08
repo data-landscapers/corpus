@@ -1,0 +1,143 @@
+{
+ "slug": "2024-07-29-uga-uganda-to-issue-alien-id-cards-with-new-enrollment-software",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "ecommercelaw": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "NIRA lacks IP rights under the 2019 contract, but the article does not say who runs the system day to day."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Biometric Update reports Ugandans hold biometric national ID cards issued by NIRA, some obtained unduly by foreigners.",
+       "as_of": "2024-07-29",
+       "date_precision": "day",
+       "system": "National ID (NIRA)",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "NIRA's executive director told parliament in July 2024 that a new open-source system, in the MOSIP-based rollout phase, was expected to be acquired by the end of the month.",
+       "as_of": "2024-07",
+       "date_precision": "month",
+       "system": "New NIRA digital ID system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ID (NIRA)",
+       "country_label": "Uganda",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIRA",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states nothing this study asks."
+    }
+   }
+  }
+ }
+}

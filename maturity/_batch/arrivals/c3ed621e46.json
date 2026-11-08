@@ -1,0 +1,77 @@
+{
+ "slug": "2025-04-23-ago-comissao-interministerial-avalia-impressao-descentralizada-do-bilhete",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Release covers decentralised printing of the BI card; it states nothing this study asks for AGO."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Release covers decentralised printing of the BI card; it states nothing this study asks for AGO."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Release covers decentralised printing of the BI card; it states nothing this study asks for AGO."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Release covers decentralised printing of the BI card; it states nothing this study asks for AGO."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Release covers decentralised printing of the BI card; it states nothing this study asks for AGO."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Release covers decentralised printing of the BI card; it states nothing this study asks for AGO."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Release covers decentralised printing of the BI card; it states nothing this study asks for AGO."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Release covers decentralised printing of the BI card; it states nothing this study asks for AGO."
+    }
+   }
+  }
+ }
+}

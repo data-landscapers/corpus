@@ -1,0 +1,38 @@
+{"slug": "2025-05-21-gha-ghana-nigeria-kenya-reveal-revenue-generation-models-from-national-id", "studies": {
+"authentication": {"countries": {
+"GHA": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "The National Identification Authority's legal head told ID4Africa 2025 that banks, social and health services verify identities against the Ghana card and pay a fee per verification.", "as_of": "2025-05", "date_precision": "month", "system": "Ghana card identity verification", "class": "authentication"}, {"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "The National Identification Authority's legal head said the banking, social and health sectors all verify identity against the Ghana card.", "as_of": "2025-05", "date_precision": "month", "system": "Ghana card identity verification", "class": "authentication"}], "systems": [{"system": "Ghana card", "country_label": "Ghana", "class": "idsystem", "platform": "public-private partnership", "owner": "National Identification Authority", "tiers": ""}], "note": ""},
+"KEN": {"facts": [], "systems": [], "note": "Kenya's official only advocates verification fees funding the authority; no authentication service stated in service."},
+"NGA": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "NIMC's director general said at ID4Africa 2025 the commission is working on the Nigeria Public Key Infrastructure (NPKI), to certify the public and private sectors.", "as_of": "2025-05", "date_precision": "month", "system": "Nigeria Public Key Infrastructure (NPKI)", "class": "authentication"}], "systems": [], "note": ""}}},
+"birthidlink": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "Nothing on civil register link."},
+"KEN": {"facts": [], "systems": [], "note": "Nothing on civil register link."},
+"NGA": {"facts": [], "systems": [], "note": "Nothing on civil register link."}}},
+"idcoverage": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "No enrolment count or share."},
+"KEN": {"facts": [], "systems": [], "note": "No enrolment count or share."},
+"NGA": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "Nothing on a number at birth."},
+"KEN": {"facts": [], "systems": [], "note": "Nothing on a number at birth."},
+"NGA": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "Says the government owns the database and a 15-year PPP has the private partner handling technology; no statement on who operates day to day or owns the code."},
+"KEN": {"facts": [], "systems": [], "note": "Only fee funding discussed."},
+"NGA": {"facts": [], "systems": [], "note": "Only fee revenue discussed."}}},
+"idregisters": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "Names verification by sectors, not registers keyed on the number."},
+"KEN": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID."},
+"NGA": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID."}}},
+"idrobustness": {"countries": {
+"GHA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The National Identification Authority's legal head said Ghana's Ghana card system is in year seven of a 15-year public-private partnership and is used for identity verification.", "as_of": "2025-05", "date_precision": "month", "system": "Ghana card", "class": "idsystem"}], "systems": [], "note": ""},
+"KEN": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Kenya's Secretary of National Registration said the first identity card is issued free and the national bureau charges fees for replacements.", "as_of": "2025-05", "date_precision": "month", "system": "Kenya national ID cards", "class": "idsystem"}], "systems": [], "note": ""},
+"NGA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "NIMC's director general said the commission charges for enrolment and modification of details and for a self-modification platform.", "as_of": "2025-05", "date_precision": "month", "system": "NIMC national identity system", "class": "idsystem"}], "systems": [], "note": ""}}},
+"idverification": {"countries": {
+"GHA": {"facts": [{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The National Identification Authority's legal head said banking, social and health sectors verify identities against the Ghana card to pay claims or render services, each paying a small fee into escrow.", "as_of": "2025-05", "date_precision": "month", "system": "Ghana card verification", "class": "relying"}, {"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "The same official named the banking, social and health sectors as using Ghana card verification.", "as_of": "2025-05", "date_precision": "month", "system": "Ghana card verification", "class": "relying"}], "systems": [], "note": ""},
+"KEN": {"facts": [], "systems": [], "note": "Verification fees only advocated, no service named."},
+"NGA": {"facts": [{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "NIMC's director general said the commission charges banks for KYC services.", "as_of": "2025-05", "date_precision": "month", "system": "NIMC KYC services", "class": "relying"}], "systems": [], "note": ""}}},
+"nonstatefinance": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "A PPP with private investment is described but no amount is named."},
+"KEN": {"facts": [], "systems": [], "note": "No private money stated."},
+"NGA": {"facts": [], "systems": [], "note": "No private money stated."}}}
+}}

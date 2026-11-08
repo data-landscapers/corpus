@@ -1,13 +1,11 @@
 {"slug": "2026-07-31-civ-le-taux-d-enregistrement-annuel-des-naissances-progresse-a-57-6-en-202", "studies": {
-"admindata": {"countries": {"CIV": {"facts": [
-{"sub_indicator": "admin", "aspect": "use", "value": "published", "fact": "The Interior Ministry's DESPSE, with ANSTAT and UNICEF, presented the 2025 civil-status statistical yearbook on 31 July 2026, built from collected birth, adoption, marriage, divorce and death records.", "as_of": "2026-07-31", "date_precision": "day", "system": "Annuaire statistique d'etat civil 2025", "class": "admin"},
-{"sub_indicator": "admin", "aspect": "source", "value": "civil-registration", "fact": "The 2025 yearbook covers births, adoptions, marriages, divorces and deaths registered in civil status.", "as_of": "2026-07-31", "date_precision": "day", "system": "Annuaire statistique d'etat civil 2025", "class": "admin"}
-], "systems": [{"system": "Annuaire statistique d'etat civil 2025", "country_label": "Annuaire statistique d'etat civil 2025", "class": "admin", "platform": "", "owner": "DESPSE", "tiers": ""}], "note": ""}}},
-"birthidlink": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No civil register to ID link stated."}}},
+"authentication": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on authentication."}}},
+"censuses": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Civil-status yearbook only; no census or household survey stated."}}},
 "civilregister": {"countries": {"CIV": {"facts": [
-{"sub_indicator": "civil", "aspect": "coverage", "value": "general", "fact": "The Interior Ministry says the annual birth registration rate rose from 54.7% in 2022 to 57.6% in 2025, not tied to a digital system.", "as_of": "2025", "date_precision": "year", "system": "", "class": "civil"}
+{"sub_indicator": "civil", "aspect": "coverage", "value": "general", "fact": "Agence Ivoirienne de Presse reports the interior ministry said the annual birth registration rate rose from 54.7% in 2022 to 57.6% in 2025, a national rate not tied to a digital system.", "as_of": "2025", "date_precision": "year", "system": "Civil-status statistical yearbook 2025", "class": "civil"}
 ], "systems": [], "note": ""}}},
-"idfrombirth": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
-"registry": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No office-level digital entry stated."}}},
-"schools": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Document is not about schools."}}}
+"idcoverage": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Birth registration rate of 57.6% is not the births-and-deaths target (births at all, deaths at 80%); no ID enrolment count given."}}},
+"idmaintenance": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on ID system operation."}}},
+"idregisters": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
+"idrobustness": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}}
 }}

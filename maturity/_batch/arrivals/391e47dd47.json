@@ -1,0 +1,12 @@
+{"slug": "2026-05-01-uga-uganda-country-playbook", "studies": {
+"authentication": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"dataprotectionlaw": {"countries": {"UGA": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "NIRA's playbook lists compliance with the Data Protection Act as a desired feature of the new national ID system.", "as_of": "2026-05", "date_precision": "month", "system": "Data Protection Act", "class": "general"}], "systems": [], "note": ""}}},
+"digitalsovereignty": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Sovereignty goal is for the ID platform only; no rule or plan on state data."}}},
+"disabilityaccess": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Disability inclusion in recruitment and enrolment only; no digital accessibility measure."}}},
+"idcoverage": {"countries": {"UGA": {"facts": [], "systems": [], "note": "74.9% against a population of 45.9 million is shown with the metric unlabelled."}}},
+"idfrombirth": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idmaintenance": {"countries": {"UGA": {"facts": [{"sub_indicator": "maintenance", "aspect": "ownership", "value": "owned", "fact": "NIRA says Uganda's new national ID system adopted open-source technologies on the MOSIP platform, seeking increased control and ownership of the identity platform technologies.", "as_of": "2026-02", "date_precision": "month", "system": "NIRA national ID on MOSIP", "class": "idsystem"}], "systems": [{"system": "NIRA national ID on MOSIP", "country_label": "Uganda national ID", "class": "idsystem", "platform": "MOSIP", "owner": "NIRA", "tiers": ""}], "note": ""}}},
+"idregisters": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No register keyed on the ID stated."}}},
+"idrobustness": {"countries": {"UGA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "NIRA says it migrated 28.4 million records from the old system to the new MOSIP-based national ID system after an eight-month data preparation period.", "as_of": "2026-02", "date_precision": "month", "system": "NIRA national ID on MOSIP", "class": "idsystem"}], "systems": [], "note": ""}}}
+}}

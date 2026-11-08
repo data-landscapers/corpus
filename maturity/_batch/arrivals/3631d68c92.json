@@ -1,0 +1,50 @@
+{
+  "slug": "2025-09-08-ben-le-benin-modernise-lenregistrement-des-naissances-avec-un-guichet-uniq",
+  "studies": {
+    "addressregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Document states nothing on addressing."}}},
+    "admindata": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Mentions better vital statistics only as an aim; no statistics published or work on administrative data stated."}}},
+    "authentication": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Online download of the birth certificate is not an authentication service."}}},
+    "birthidlink": {"countries": {"BEN": {
+      "facts": [
+        {"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "UNICEF Benin says ANIP's pilot one-stop birth declaration, launched 20 August 2025 in ten public health facilities, generates a Personal Identification Number (NPI) automatically when the birth is declared.", "as_of": "2025-08-20", "date_precision": "day", "system": "Guichet unique d'enregistrement et de déclaration des naissances", "class": "crvslink"}
+      ],
+      "systems": [
+        {"system": "Guichet unique d'enregistrement et de déclaration des naissances", "country_label": "Guichet unique des naissances (pilot, ten facilities)", "class": "crvslink", "platform": "", "owner": "ANIP", "tiers": ""}
+      ],
+      "note": ""}}},
+    "businessregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on business registration."}}},
+    "civilregister": {"countries": {"BEN": {
+      "facts": [
+        {"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "UNICEF Benin says the pilot phase of the digital one-stop counter for birth registration and declaration was launched on 20 August 2025 at CHU-MEL Cotonou and runs in ten public health facilities until February 2026, with national extension planned afterwards.", "as_of": "2025-08-20", "date_precision": "day", "system": "Guichet unique d'enregistrement et de déclaration des naissances", "class": "civil"}
+      ],
+      "systems": [
+        {"system": "Guichet unique d'enregistrement et de déclaration des naissances", "country_label": "Guichet unique des naissances (pilot, ten facilities)", "class": "civil", "platform": "digital application supported by UNICEF in 2024; World Bank WURI project", "owner": "ANIP", "tiers": ""}
+      ],
+      "note": ""}}},
+    "digitalidlaw": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No law is stated."}}},
+    "electoralregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on the voters' roll."}}},
+    "idcoverage": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No count or share of people enrolled is given."}}},
+    "idfrombirth": {"countries": {"BEN": {
+      "facts": [
+        {"sub_indicator": "frombirth", "aspect": "number", "value": "underway", "fact": "UNICEF Benin says that in the ANIP birth-declaration pilot launched 20 August 2025 in ten public health facilities, an NPI is generated automatically and sent by SMS when the parents declare the birth at the hospital.", "as_of": "2025-08-20", "date_precision": "day", "system": "Guichet unique d'enregistrement et de déclaration des naissances", "class": "birthnumber"}
+      ],
+      "systems": [
+        {"system": "Guichet unique d'enregistrement et de déclaration des naissances", "country_label": "Guichet unique des naissances (pilot, ten facilities)", "class": "birthnumber", "platform": "", "owner": "ANIP", "tiers": ""}
+      ],
+      "note": ""}}},
+    "idmaintenance": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on who operates, maintains or owns the ID platform."}}},
+    "idregisters": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}}},
+    "idrobustness": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No statement on the ID system's issuance, biometrics or certification."}}},
+    "landregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on land."}}},
+    "localgov": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on local government connection."}}},
+    "populationregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "RNPP is named only as the register parents are enrolled in; no statement it is in service as a population register."}}},
+    "registry": {"countries": {"BEN": {
+      "facts": [],
+      "systems": [
+        {"system": "Guichet unique d'enregistrement et de déclaration des naissances", "country_label": "Guichet unique des naissances (pilot, ten facilities)", "class": "civil", "platform": "", "owner": "ANIP", "tiers": ""}
+      ],
+      "note": "Declaration is made at the hospital, but the document does not say the birth is registered there or by what office, and the pilot is in ten facilities only; no rung is stated."}}},
+    "socialregistry": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on a social registry."}}},
+    "taxregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on taxpayers."}}}
+  }
+}

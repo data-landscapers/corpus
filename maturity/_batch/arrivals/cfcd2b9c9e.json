@@ -1,0 +1,261 @@
+{
+ "slug": "2025-08-25-tgo-e-id-togo-et-protection-des-donnees-personnelles-le-togo-a-fait-le-cho",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "The ANID director general says the cybersecurity law created the Agence Nationale de la Cybersécurité (ANCy), and that Cyber Defence Africa, a public-private company, runs the SOC and the national CERT (CERT Tg).",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "ANCy / CERT Tg",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "CERT Tg",
+       "country_label": "Cyber Defence Africa (CDA)",
+       "class": "response",
+       "platform": "",
+       "owner": "public-private company",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "cybersecuritylaw": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The ANID director general cites Law 2018-026 on cybersecurity and cybercrime, dated 10 September 2020 and amended by Law 2022-099 of 24 June 2022.",
+       "as_of": "2022-06",
+       "date_precision": "month",
+       "system": "Loi 2018-026",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The ANID director general cites Law 2019-014 of 29 October 2019 on personal data protection as setting the rules for collection, storage and use of personal data.",
+       "as_of": "2019-10-29",
+       "date_precision": "day",
+       "system": "Loi 2019-014",
+       "class": "general"
+      },
+      {
+       "sub_indicator": "general",
+       "aspect": "authority",
+       "value": "provided",
+       "fact": "The same law is said to create the Instance de Protection des Données à Caractère Personnel to ensure compliance; the document does not say it is constituted.",
+       "as_of": "2019-10-29",
+       "date_precision": "day",
+       "system": "IPDCP",
+       "class": "general"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "feedbackportals": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The ANID director general says the national identification agency runs the e-ID enrolment, with field operations entrusted to INSEED.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "e-ID Togo (NIU)",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "ownership",
+       "value": "owned",
+       "fact": "The ANID director general says Togo chose the open-source MOSIP platform to have sovereignty over its national biometric identification system.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "e-ID Togo (NIU)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-ID Togo (NIU)",
+       "country_label": "Agence Nationale d'Identification (ANID)",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "ANID",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "ANID's director general says e-ID Togo enrols people and issues each a unique NIU, with about 301 centres open, 1,000 kits and 3,700 field staff.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "e-ID Togo (NIU)",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "robustness",
+       "aspect": "biometric",
+       "value": "checked",
+       "fact": "The ANID director general says the NIU is generated only after deduplication of photo, fingerprints and iris against the database.",
+       "as_of": "2025-08",
+       "date_precision": "month",
+       "system": "e-ID Togo (NIU)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-ID Togo (NIU)",
+       "country_label": "Agence Nationale d'Identification (ANID)",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "ANID",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "nonstatefinance": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Togo."
+    }
+   }
+  }
+ }
+}

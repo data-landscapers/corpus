@@ -1,0 +1,7 @@
+{"slug": "2026-11-05-tun-sijil-al-mu-assasat-yadkhul-asr-al-roboat", "studies": {
+"aiabuse": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on AI rules or an AI authority."}}},
+"aigovernment": {"countries": {"TUN": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "inservice", "fact": "Assabah News reports that Tunisia's National Business Registry launched two AI services on 5 November 2026: Nawarni, a chatbot guiding founders through company creation, and a bot to check and reserve trade names, built with HiiL and funded by the Netherlands embassy.", "as_of": "2026-11-05", "date_precision": "day", "system": "Nawarni and trade-name reservation bot", "class": "govai"}], "systems": [{"system": "Nawarni", "country_label": "Tunisia", "class": "govai", "platform": "", "owner": "Registre National des Entreprises", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The bots serve the business registry, not a health, education, tax or similar sector system."}}},
+"aisystems": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The bots were built with HiiL; no local model, dataset or AI computing is stated."}}},
+"businessregister": {"countries": {"TUN": {"facts": [], "systems": [], "note": "The article describes two assistant bots; it does not say firms register online or share a number."}}}
+}}

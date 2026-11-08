@@ -1,14 +1,1 @@
-{
- "slug": "2026-01-01-kixp-kenya-internet-exchange-point-nairobi",
- "studies": {
-  "fibrebackbone": {
-   "countries": {
-    "KEN": {
-     "facts": [],
-     "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-01-01-kixp-kenya-internet-exchange-point-nairobi", "studies": {"regionalinfrastructure": {"countries": {"KEN": {"facts": [], "systems": [], "note": "A national exchange point; no other country is named using it."}}}}}

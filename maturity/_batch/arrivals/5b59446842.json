@@ -1,0 +1,45 @@
+{
+  "slug": "2025-12-10-nga-nigeria-moves-to-replace-its-national-id-system-a-misstep-could-lock-o",
+  "studies": {
+    "authentication": {"countries": {"NGA": {"facts": [
+      {"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "TechCabal reports NIMC runs an existing NIN Authentication Service, which the MOSIP platform is to be combined with, and that banks and telecom operators already depend on it.", "as_of": "2025-12-10", "date_precision": "day", "system": "NIN Authentication Service", "class": "authentication"},
+      {"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "TechCabal says authentication against the NIN is relied on by banking, telecoms (SIM registration) and social services, with outages locking out sectors from banking to telecoms.", "as_of": "2025-12-10", "date_precision": "day", "system": "NIN Authentication Service", "class": "authentication"}
+    ], "systems": [{"system": "NIN Authentication Service", "country_label": "Nigeria NIN authentication", "class": "authentication", "platform": "being combined with MOSIP", "owner": "NIMC", "tiers": ""}], "note": ""}}},
+    "birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The document says nothing on a link between civil register and ID."}}},
+    "businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "centralbank": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "datacentres": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Names AWS dependency only as a risk; no data centre or cloud region in the country is stated."}}},
+    "datalocalisation": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only an expert's conditional remark on absent residency rules; no rule or dated statement of absence."}}},
+    "dataprotectionlaw": {"countries": {"NGA": {"facts": [
+      {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "NIMC told TechCabal its operations comply with the Nigeria Data Protection Act.", "as_of": "2025-12-10", "date_precision": "day", "system": "Nigeria Data Protection Act", "class": "general"}
+    ], "systems": [], "note": ""}}},
+    "digitalsovereignty": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Sovereignty discussed by commentators; no state-data rule, hosting or contract terms stated."}}},
+    "g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Gives 124 million NINs issued by October 2025 but no population or share, so no value can be set from the document alone."}}},
+    "idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "idmaintenance": {"countries": {"NGA": {"facts": [
+      {"sub_indicator": "maintenance", "aspect": "operation", "value": "national", "fact": "NIMC, which the article calls the sole body mandated by the constitution for identity management, issues and runs the NIN system with about 124 million NINs by October 2025.", "as_of": "2025-10", "date_precision": "month", "system": "National Identity Management System", "class": "idsystem"},
+      {"sub_indicator": "maintenance", "aspect": "operation", "value": "transfer", "fact": "NIMC says the system integrator engaged for the MOSIP migration will work with its technical team to ensure transfer and capacity building.", "as_of": "2025-12-10", "date_precision": "day", "system": "NIMS 2.0 on MOSIP", "class": "idsystem"}
+    ], "systems": [{"system": "National Identity Management System (NIMS 2.0 on MOSIP)", "country_label": "Nigeria NIN", "class": "idsystem", "platform": "MOSIP (migration begun July 2025)", "owner": "NIMC", "tiers": ""}], "note": ""}}},
+    "idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "NIN said to underpin pensions, education records and others, but no register is named as keyed on it."}}},
+    "idrobustness": {"countries": {"NGA": {"facts": [
+      {"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "TechCabal reports NIMC had issued about 124 million unique NINs by October 2025.", "as_of": "2025-10", "date_precision": "month", "system": "National Identity Management System", "class": "idsystem"},
+      {"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "NIMC began migrating the ID system to MOSIP in July 2025, with an $83 million system integrator tender for NIMS 2.0 under the World Bank-backed ID4D programme.", "as_of": "2025-07", "date_precision": "month", "system": "NIMS 2.0 on MOSIP", "class": "idsystem"},
+      {"sub_indicator": "robustness", "aspect": "assurance", "value": "certified", "fact": "NIMC says it has held ISO 27001 certification since 2014, now upgraded to the 2022 standard.", "as_of": "2025-12-10", "date_precision": "day", "system": "National Identity Management System", "class": "idsystem"}
+    ], "systems": [{"system": "National Identity Management System (NIMS 2.0 on MOSIP)", "country_label": "Nigeria NIN", "class": "idsystem", "platform": "MOSIP", "owner": "NIMC", "tiers": ""}], "note": ""}}},
+    "idverification": {"countries": {"NGA": {"facts": [
+      {"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "TechCabal says the NIN underpins banking, SIM registration, social services and digital payments, with e-KYC and SIM registration verifying against it.", "as_of": "2025-12-10", "date_precision": "day", "system": "NIN verification", "class": "relying"},
+      {"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "TechCabal names banking, telecoms (SIM registration) and social services as sectors relying on the NIN.", "as_of": "2025-12-10", "date_precision": "day", "system": "NIN verification", "class": "relying"}
+    ], "systems": [], "note": ""}}},
+    "internationalstandards": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only an ISO 27001 certificate, which places nothing."}}},
+    "itcapacity": {"countries": {"NGA": {"facts": [], "systems": [], "note": "NIMC's technical team is mentioned but no named system is stated run by government staff; the article questions capacity."}}},
+    "nationaldatacentres": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No survey figure."}}},
+    "policyresearch": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only quoted commentators; no research output by a local institution."}}},
+    "qualitystandards": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "retailpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not mentioned beyond payments being underpinned by the NIN."}}},
+    "revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not mentioned."}}}
+  }
+}

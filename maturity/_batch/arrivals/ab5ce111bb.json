@@ -1,0 +1,11 @@
+{"slug": "2025-11-27-gin-modernisation-de-l-administration-le-gouvernement-lance-officiellement", "studies": {
+"authentication": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on civil register and ID exchange."}}},
+"civilserviceskills": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Mentions capacity strengthening and probationary training of recruits, not a digital-skills programme."}}},
+"digitalidlaw": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No identity law mentioned."}}},
+"idcoverage": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No count or share of people holding an ID given."}}},
+"idfrombirth": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"GIN": {"facts": [{"sub_indicator": "registers", "aspect": "register", "value": "underway", "fact": "Prime Minister Amadou Oury Bah, at the 27 November 2025 launch of the civil service file FUGAS, stressed that each citizen's Numero d'Identification Unique must in future be integrated into FUGAS.", "as_of": "2025-11-27", "date_precision": "day", "system": "FUGAS", "class": "register"}], "systems": [{"system": "FUGAS", "country_label": "Fichier Unique de Gestion Administrative et de la Solde", "class": "register", "platform": "", "owner": "Ministry of Public Service", "tiers": ""}], "note": ""}}},
+"idrobustness": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The national ID number is mentioned only as a future integration; the system itself is not described."}}}
+}}

@@ -1,32 +1,13 @@
-{
- "slug": "2026-07-22-maroc-telecom-rapport-financier-semestriel-2026",
- "studies": {
-  "broadbandstrategy": {
-   "countries": {
-    "CAF": {
-     "facts": [],
-     "systems": [],
-     "note": "Report states nothing on this study for the Central African Republic; CENIX is an exchange point, not asked here."
-    }
-   }
-  },
-  "internationalbandwidth": {
-   "countries": {
-    "CAF": {
-     "facts": [],
-     "systems": [],
-     "note": "Report states nothing on this study for the Central African Republic; CENIX is an exchange point, not asked here."
-    }
-   }
-  },
-  "internetusage": {
-   "countries": {
-    "CAF": {
-     "facts": [],
-     "systems": [],
-     "note": "Report states nothing on this study for the Central African Republic; CENIX is an exchange point, not asked here."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-07-22-maroc-telecom-rapport-financier-semestriel-2026", "studies": {"regionalinfrastructure": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Free roaming and tariff rules only; no shared link or facility."},
+"BFA": {"facts": [], "systems": [], "note": "An interconnection catalogue only."},
+"CAF": {"facts": [], "systems": [{"system": "CENIX", "country_label": "Central African Internet Exchange", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "A national internet exchange created January 2026; no other country named as using it."},
+"CIV": {"facts": [], "systems": [], "note": "Nothing on shared links."},
+"GAB": {"facts": [], "systems": [], "note": "Temporary internet restrictions only."},
+"MAR": {"facts": [], "systems": [], "note": "Domestic offers and rules only."},
+"MLI": {"facts": [], "systems": [], "note": "Mobile offer rules only."},
+"MRT": {"facts": [], "systems": [], "note": "A 5G licence only."},
+"NER": {"facts": [], "systems": [], "note": "Tax and offer rules only."},
+"TCD": {"facts": [], "systems": [], "note": "Subscriber and licence matters only."},
+"TGO": {"facts": [], "systems": [], "note": "Free roaming and offer rules only."}
+}}}}

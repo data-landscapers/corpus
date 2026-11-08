@@ -1,54 +1,10 @@
-{
- "slug": "2026-11-06-sle-information-minister-tables-two-major-bills-in-parliament",
- "studies": {
-  "accesstoinformationlaw": {
-   "countries": {
-    "SLE": {
-     "facts": [
-      {
-       "sub_indicator": "law",
-       "aspect": "standing",
-       "value": "draft",
-       "fact": "Information Minister Chernor Bah tabled the Data Protection and Right to Access Information Bill, 2026 in Parliament, which completed Introduction and First Reading (SierraLoaded; tabling date not stated).",
-       "as_of": "2026-11-06",
-       "date_precision": "day",
-       "system": "Data Protection and Right to Access Information Bill, 2026",
-       "class": "law"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    }
-   }
-  },
-  "consumerprotection": {
-   "countries": {
-    "SLE": {
-     "facts": [],
-     "systems": [],
-     "note": "Document states nothing this study asks."
-    }
-   }
-  },
-  "dataprotectionlaw": {
-   "countries": {
-    "SLE": {
-     "facts": [
-      {
-       "sub_indicator": "general",
-       "aspect": "standing",
-       "value": "tabled",
-       "fact": "Information Minister Chernor Bah tabled the Data Protection and Right to Access Information Bill, 2026 in Parliament, which completed Introduction and First Reading (SierraLoaded; tabling date not stated).",
-       "as_of": "2026-11-06",
-       "date_precision": "day",
-       "system": "Data Protection and Right to Access Information Bill, 2026",
-       "class": "general"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    }
-   }
-  }
- }
-}
+{"slug": "2026-11-06-sle-information-minister-tables-two-major-bills-in-parliament", "studies": {
+"ailaw": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"datalocalisation": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No localisation rule stated."}}},
+"dataprotectionauthority": {"countries": {"SLE": {"facts": [], "systems": [], "note": "A bill only; no authority named and no law enacted."}}},
+"ecommercelaw": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on e-commerce law."}}},
+"eparticipation": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No online consultation stated."}}},
+"interoperabilitylaw": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No public-body data sharing stated."}}},
+"paymentslaw": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on payments law."}}},
+"publicconsultation": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No consultation stated; bills tabled only."}}}
+}}

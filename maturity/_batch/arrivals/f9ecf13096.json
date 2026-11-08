@@ -1,0 +1,43 @@
+{
+  "slug": "2024-10-12-eth-reporter-forgeries-fraud-national-id-program",
+  "studies": {
+    "authentication": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+    "birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
+    "civilregister": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only a general call for civil registration digitisation; no system stated."}}},
+    "cybersecurity": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on a national cyber body."}}},
+    "idcoverage": {"countries": {"ETH": {
+      "facts": [
+        {"sub_indicator": "coverage", "aspect": "share", "value": "below", "fact": "The Reporter quotes the National ID Program Office as saying close to 10 million people had received their Faida ID cards by October 2024, against a target of up to 90 million registered within two years.", "as_of": "2024-10", "date_precision": "month", "system": "Faida National ID", "class": "idsystem"}
+      ],
+      "systems": [
+        {"system": "Faida National ID", "country_label": "National ID Program (Fayda/Faida)", "class": "idsystem", "platform": "", "owner": "National ID Program Office, Office of the Prime Minister", "tiers": ""}
+      ],
+      "note": ""}}},
+    "idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+    "idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on who runs or owns the platform."}}},
+    "idregisters": {"countries": {"ETH": {
+      "facts": [
+        {"sub_indicator": "registers", "aspect": "register", "value": "underway", "fact": "The Reporter says the Addis Ababa City Administration and the Ministry of Revenues have signed on to the National ID program, agreeing to end their own biometric registration, and that the federal public procurement agency has integrated its data systems with it.", "as_of": "2024-10-12", "date_precision": "day", "system": "Faida National ID", "class": "register"}
+      ],
+      "systems": [
+        {"system": "Faida National ID", "country_label": "National ID Program (Fayda/Faida)", "class": "register", "platform": "", "owner": "National ID Program Office", "tiers": ""}
+      ],
+      "note": ""}}},
+    "idrobustness": {"countries": {"ETH": {
+      "facts": [
+        {"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The Reporter says the National ID Program Office is registering biometric data in over 300 cities and towns and that close to 10 million people have received their Faida ID cards.", "as_of": "2024-10", "date_precision": "month", "system": "Faida National ID", "class": "idsystem"}
+      ],
+      "systems": [
+        {"system": "Faida National ID", "country_label": "National ID Program (Fayda/Faida)", "class": "idsystem", "platform": "", "owner": "National ID Program Office", "tiers": ""}
+      ],
+      "note": ""}}},
+    "localgov": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on local government offices' connection."}}},
+    "refugees": {"countries": {"ETH": {
+      "facts": [
+        {"sub_indicator": "displaced", "aspect": "registration", "value": "underway", "fact": "The Reporter says USD 50 million of the World Bank's USD 350 million financing for the National ID program is a grant for IDPs, immigrants and the registration of other marginalised people who cannot afford the fees.", "as_of": "2024-10-12", "date_precision": "day", "system": "Faida National ID", "class": "displaced"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "registry": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No office-level digital civil registration stated."}}}
+  }
+}

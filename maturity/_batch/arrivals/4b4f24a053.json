@@ -1,18 +1,159 @@
-{"slug": "2026-03-08-tgo-waho-initie-la-mise-en-uvre-du-partage-automatise-des-donnees-de-sante", "studies": {
-"health": {"countries": {
-"BEN": {"facts": [], "systems": [], "note": "Benin only hosts the workshop."},
-"GMB": {"facts": [], "systems": [], "note": "Regional data-sharing pilot; nothing on clinics or tiers."},
-"LBR": {"facts": [], "systems": [], "note": "Regional data-sharing pilot; nothing on clinics or tiers."},
-"SLE": {"facts": [], "systems": [], "note": "Regional data-sharing pilot; nothing on clinics or tiers."},
-"TGO": {"facts": [], "systems": [], "note": "Regional data-sharing pilot; nothing on clinics or tiers."}}},
-"healthmis": {"countries": {
-"BEN": {"facts": [], "systems": [], "note": "Benin only hosts the workshop; not a pilot country."},
-"GMB": {"facts": [
-{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "WAHO's workshop brings together Gambia's national health information system managers, and the pilot aligns regional indicators with its national DHIS2 system.", "as_of": "2026-03", "date_precision": "month", "system": "national DHIS2 (NHMIS)", "class": "hmis"}], "systems": [], "note": ""},
-"LBR": {"facts": [
-{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "WAHO's workshop brings together Liberia's national health information system managers, and the pilot aligns regional indicators with its national DHIS2 system.", "as_of": "2026-03", "date_precision": "month", "system": "national DHIS2 (NHMIS)", "class": "hmis"}], "systems": [], "note": ""},
-"SLE": {"facts": [
-{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "WAHO's workshop brings together Sierra Leone's national health information system managers, and the pilot aligns regional indicators with its national DHIS2 system.", "as_of": "2026-03", "date_precision": "month", "system": "national DHIS2 (NHMIS)", "class": "hmis"}], "systems": [], "note": ""},
-"TGO": {"facts": [
-{"sub_indicator": "hmis", "aspect": "system", "value": "inservice", "fact": "WAHO's workshop brings together Togo's national health information system managers, and the pilot aligns regional indicators with its national DHIS2 system.", "as_of": "2026-03", "date_precision": "month", "system": "national DHIS2 (NHMIS)", "class": "hmis"}], "systems": [], "note": ""}}}
-}}
+{
+ "slug": "2026-03-08-tgo-waho-initie-la-mise-en-uvre-du-partage-automatise-des-donnees-de-sante",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Article is about WAHO health data sharing; it states nothing this study asks."
+    },
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "Article is about WAHO health data sharing; it states nothing this study asks."
+    }
+   }
+  },
+  "healthexchange": {
+   "countries": {
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "underway",
+       "fact": "Atlantic Infos reports that WAHO opened a five-day regional workshop in Cotonou to pilot automated transfer of routine health data from national DHIS2 systems, with Gambia one of four pilot countries.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "WAHO automated routine health data sharing (DHIS2)",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "WAHO automated routine health data sharing (DHIS2)",
+       "country_label": "Gambia",
+       "class": "exchange",
+       "platform": "DHIS2",
+       "owner": "WAHO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "underway",
+       "fact": "Atlantic Infos reports that WAHO opened a five-day regional workshop in Cotonou to pilot automated transfer of routine health data from national DHIS2 systems, with Liberia one of four pilot countries.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "WAHO automated routine health data sharing (DHIS2)",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "WAHO automated routine health data sharing (DHIS2)",
+       "country_label": "Liberia",
+       "class": "exchange",
+       "platform": "DHIS2",
+       "owner": "WAHO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "SLE": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "underway",
+       "fact": "Atlantic Infos reports that WAHO opened a five-day regional workshop in Cotonou to pilot automated transfer of routine health data from national DHIS2 systems, with Sierra Leone one of four pilot countries.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "WAHO automated routine health data sharing (DHIS2)",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "WAHO automated routine health data sharing (DHIS2)",
+       "country_label": "Sierra Leone",
+       "class": "exchange",
+       "platform": "DHIS2",
+       "owner": "WAHO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "underway",
+       "fact": "Atlantic Infos reports that WAHO opened a five-day regional workshop in Cotonou to pilot automated transfer of routine health data from national DHIS2 systems, with Togo one of four pilot countries.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "WAHO automated routine health data sharing (DHIS2)",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "WAHO automated routine health data sharing (DHIS2)",
+       "country_label": "Togo",
+       "class": "exchange",
+       "platform": "DHIS2",
+       "owner": "WAHO",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Article is about WAHO health data sharing; it states nothing this study asks."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Article is about WAHO health data sharing; it states nothing this study asks."
+    }
+   }
+  },
+  "regionallaw": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Article is about WAHO health data sharing; it states nothing this study asks."
+    }
+   }
+  },
+  "socialexchange": {
+   "countries": {
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Article is about WAHO health data sharing; it states nothing this study asks."
+    }
+   }
+  }
+ }
+}

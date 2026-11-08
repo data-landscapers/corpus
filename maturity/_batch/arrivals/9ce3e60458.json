@@ -1,13 +1,3 @@
-{"slug": "2026-01-01-caf-dossier-special-mpa-sante-emploi-suite", "studies": {
-"aiabuse": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on AI harms rules."}}},
-"aigovernment": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Only a recently initiated health AI centre and planned use cases; no system in use."}}},
-"aisectoral": {"countries": {"CAF": {"facts": [], "systems": [], "note": "AI use cases are planned, none piloted or in service."}}},
-"aisystems": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
-"dataprotectionlaw": {"countries": {"CAF": {"facts": [
-{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The article says the country has a legal framework on personal data protection and cybersecurity, without naming a law or date.", "as_of": "2026", "date_precision": "year", "system": "legal framework on personal data protection", "class": "general"}
-], "systems": [], "note": ""}}},
-"health": {"countries": {"CAF": {"facts": [], "systems": [{"system": "DHIS2", "country_label": "Central African Republic", "class": "other", "platform": "DHIS2", "owner": "", "tiers": ""}, {"system": "e-SENI", "country_label": "Central African Republic", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Systems only listed by name; no tiers, coverage or use described."}}},
-"healthmis": {"countries": {"CAF": {"facts": [], "systems": [], "note": "DHIS2 is only listed among platforms; interoperability with OpenLMIS is a priority, not stated as done."}}},
-"interoperabilitystandards": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Says interoperability standards still have to be strengthened; none stated published or drafted."}}},
-"schoolinternet": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
-}}
+{"slug": "2026-01-01-caf-dossier-special-mpa-sante-emploi-suite", "studies": {"healthexchange": {"countries": {
+"CAF": {"facts": [], "systems": [{"system": "OpenLMIS", "country_label": "OpenLMIS", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": ""}, {"system": "DHIS2", "country_label": "DHIS2", "class": "other", "platform": "", "owner": "Ministry of Health", "tiers": ""}], "note": "Interoperability between DHIS2, OpenLMIS and others is stated only as a priority and prospect; no exchange in service or being built."}
+}}}}

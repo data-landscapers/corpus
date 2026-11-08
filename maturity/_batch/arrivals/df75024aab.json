@@ -1,0 +1,12 @@
+{"slug": "2025-06-02-cog-le-projet-du-numero-d-identification-unique-niu-est-il-en-peril", "studies": {
+"authentication": {"countries": {"COG": {"facts": [], "systems": [], "note": "Nothing on authentication."}}},
+"birthidlink": {"countries": {"COG": {"facts": [], "systems": [], "note": "Nothing on civil register or ID link."}}},
+"businessregister": {"countries": {"COG": {"facts": [], "systems": [{"system": "NIU (Numero d'Identification Unique)", "country_label": "Congo", "class": "other", "platform": "", "owner": "Ministry of Finance", "tiers": ""}], "note": "NIU is a taxpayer identifier; the article says new firms at the business agency lack it but describes no business register."}}},
+"digitalidlaw": {"countries": {"COG": {"facts": [], "systems": [], "note": "No identity law named."}}},
+"idcoverage": {"countries": {"COG": {"facts": [], "systems": [], "note": "NIU is a taxpayer number; no national ID enrolment count given."}}},
+"idfrombirth": {"countries": {"COG": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"COG": {"facts": [], "systems": [], "note": "Concerns the taxpayer NIU, not the national ID system."}}},
+"idregisters": {"countries": {"COG": {"facts": [], "systems": [], "note": "Nothing on a register keyed on a national ID number."}}},
+"idrobustness": {"countries": {"COG": {"facts": [], "systems": [], "note": "NIU is a taxpayer identifier, a sectoral ID; no national ID system stated."}}},
+"itcapacity": {"countries": {"COG": {"facts": [], "systems": [], "note": "Only reports expired software licences at the finance ministry IT directorate; not who runs or builds a system."}}}
+}}

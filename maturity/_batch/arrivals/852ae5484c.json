@@ -1,0 +1,12 @@
+{"slug":"2024-02-05-ken-broken-system-inside-kenya-s-id-crisis","studies":{
+"authentication":{"countries":{"KEN":{"facts":[],"systems":[],"note":"The document states nothing this study asks about Kenya."}}},
+"birthidlink":{"countries":{"KEN":{"facts":[],"systems":[],"note":"The document states nothing this study asks about Kenya."}}},
+"dataprotectionlaw":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Section 31 of the Data Protection Act is cited only as Katiba Institute's argument in court; nothing on the law's standing or application."}}},
+"dataprotectionreadiness":{"countries":{"KEN":{"facts":[],"systems":[],"note":"The Act is cited only as a litigant's argument; no law status, authority or practice is stated."}}},
+"idcoverage":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Only pending application counts are given, not a count or share of people enrolled."}}},
+"idfrombirth":{"countries":{"KEN":{"facts":[],"systems":[],"note":"The document states nothing this study asks about Kenya."}}},
+"idmaintenance":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Printing contracts and vendors are mentioned but not who operates, maintains or owns the ID system."}}},
+"idregisters":{"countries":{"KEN":{"facts":[],"systems":[],"note":"An ID is needed to get a tax PIN, but no register keyed on the ID number is stated."}}},
+"idrobustness":{"countries":{"KEN":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The Daily Nation reports Kenya's second-generation ID cards were printed until the printers were switched off on 14 November 2023, a process that has routinely issued legal identity to Kenyans, until a High Court order of 5 December 2023 stopped third-generation Maisha Card printing.","as_of":"2023-11-14","date_precision":"day","system":"Maisha Card","class":"idsystem"}],"systems":[{"system":"Maisha Card (third-generation ID)","country_label":"Kenya","class":"idsystem","platform":"","owner":"Ministry of Interior and National Administration","tiers":""}],"note":""}}},
+"publicconsultation":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Katiba Institute's claim of no meaningful public participation is a complaint in court, not a stated consultation or its absence."}}}
+}}

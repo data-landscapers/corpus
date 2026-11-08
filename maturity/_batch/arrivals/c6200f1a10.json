@@ -1,0 +1,10 @@
+{"slug": "2026-03-23-rwa-rwanda-issues-tender-for-id-system", "studies": {
+"authentication": {"countries": {"RWA": {"facts": [], "systems": [], "note": "A card printing tender only; no authentication service stated."}}},
+"birthidlink": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"idcoverage": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"RWA": {"facts": [{"sub_indicator": "maintenance", "aspect": "operation", "value": "transfer", "fact": "ID & Secure Document News reports that RISA's March 2026 tender for the Single Digital ID card printing and personalisation system includes knowledge transfer materials and training so that NIDA can sustain and extend the system after the contract.", "as_of": "2026-03-23", "date_precision": "day", "system": "Single Digital ID Card Printing and Personalisation System", "class": "idsystem"}], "systems": [{"system": "Single Digital ID Card Printing and Personalisation System", "country_label": "Rwanda", "class": "idsystem", "platform": "", "owner": "RISA / NIDA", "tiers": ""}], "note": ""}}},
+"idregisters": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No register keyed on the ID stated."}}},
+"idrobustness": {"countries": {"RWA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "ID & Secure Document News reports RISA launched an international tender, bids due 30 April 2026, for a Single Digital ID card printing and personalisation system under the Rwanda Digital Acceleration Project.", "as_of": "2026-03-23", "date_precision": "day", "system": "Single Digital ID (SDID)", "class": "idsystem"}], "systems": [], "note": ""}}},
+"itcapacity": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Training for NIDA is part of a supplier tender; no government-run system is stated."}}}
+}}

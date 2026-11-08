@@ -1,0 +1,117 @@
+{
+ "slug": "2026-01-19-swz-id-services-resume-as-pilot-project-rolls-out",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this question for Eswatini."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this question for Eswatini."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this question for Eswatini."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this question for Eswatini."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this question for Eswatini."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The ministry's communications officer says ID services resumed under a project piloted by the Ministry of Home Affairs' own technical team to restore functionality.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "National ID (Ministry of Home Affairs)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ID (Ministry of Home Affairs)",
+       "country_label": "National ID",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this question for Eswatini."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Eswatini Financial Times reports the Ministry of Home Affairs ID department resumed issuing IDs in January 2026 under a pilot while long-term system improvements proceed.",
+       "as_of": "2026-01",
+       "date_precision": "month",
+       "system": "National ID (Ministry of Home Affairs)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ID (Ministry of Home Affairs)",
+       "country_label": "National ID",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

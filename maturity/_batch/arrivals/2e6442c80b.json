@@ -1,32 +1,4 @@
-{
-  "slug": "2026-11-06-sle-communication-minister-explores-nib-s-new-online-business-re",
-  "studies": {
-    "authentication": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
-    "birthidlink": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on civil register and ID exchange."}}},
-    "businessregister": {"countries": {"SLE": {
-      "facts": [
-        {"sub_indicator": "business", "aspect": "registration", "value": "inservice",
-         "fact": "SierraLoaded reports the National Investment Board's newly developed Online Business Registration System lets applicants reserve a name, register, upload documents and download business certificates online, as demonstrated to the Communication Minister.",
-         "as_of": "2026-11-06", "date_precision": "day", "system": "Online Business Registration System (OBRS)", "class": "business"}
-      ],
-      "systems": [
-        {"system": "Online Business Registration System (OBRS)", "country_label": "Sierra Leone", "class": "business", "platform": "", "owner": "National Investment Board", "tiers": ""}
-      ],
-      "note": ""}}},
-    "civilregister": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on civil registration."}}},
-    "digitalstrategy": {"countries": {"SLE": {"facts": [], "systems": [], "note": "National Innovation and Digital Strategy named only as an objective the system reflects; no standing stated."}}},
-    "idcoverage": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
-    "idfrombirth": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
-    "idmaintenance": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on who operates the ID system."}}},
-    "idregisters": {"countries": {"SLE": {
-      "facts": [
-        {"sub_indicator": "registers", "aspect": "register", "value": "underway",
-         "fact": "SierraLoaded reports the National Investment Board is working with NCRA to integrate the National Identification Number into the business registration process.",
-         "as_of": "2026-11-06", "date_precision": "day", "system": "Online Business Registration System (OBRS)", "class": "register"}
-      ],
-      "systems": [],
-      "note": ""}}},
-    "idrobustness": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on the ID system itself."}}},
-    "registry": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Business registration only; no civil registration office stated."}}}
-  }
-}
+{"slug": "2026-11-06-sle-communication-minister-explores-nib-s-new-online-business-re", "studies": {
+"coresystems": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Document is about business registration, not finance, tax or payroll systems."}}},
+"egovservices": {"countries": {"SLE": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "SierraLoaded reports that the National Investment Board demonstrated its newly developed Online Business Registration System to the communication minister, letting applicants reserve a name, upload ID and download certificates online, with the NIN integration with NCRA still being worked on.", "as_of": "2026-11-06", "date_precision": "day", "system": "Online Business Registration System", "class": "eservices"}], "systems": [{"system": "Online Business Registration System", "country_label": "Sierra Leone", "class": "eservices", "platform": "", "owner": "National Investment Board", "tiers": ""}], "note": ""}}}
+}}

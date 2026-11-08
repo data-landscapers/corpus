@@ -1,0 +1,90 @@
+{
+ "slug": "2024-07-23-moz-aprimorados-mecanismos-do-registo-de-nascimento",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this question for Mozambique."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "The link described is civil register to hospital births module, not to the ID system."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "Jornal Not\u00edcias reports e-SIRCEV, the electronic civil registration system, was already linked to the hospital births module in some Inhambane districts, with the link launched for expansion to the whole country in July 2024.",
+       "as_of": "2024-07",
+       "date_precision": "month",
+       "system": "e-SIRCEV",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-SIRCEV",
+       "country_label": "E-SIRCEV",
+       "class": "civil",
+       "platform": "",
+       "owner": "Ministry of Justice, Constitutional and Religious Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this question for Mozambique."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "events",
+       "value": "B",
+       "fact": "Jornal Not\u00edcias reports newborns are to be registered through e-SIRCEV before leaving the maternity, already in some Inhambane districts.",
+       "as_of": "2024-07",
+       "date_precision": "month",
+       "system": "e-SIRCEV",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-SIRCEV",
+       "country_label": "E-SIRCEV",
+       "class": "civil",
+       "platform": "",
+       "owner": "Ministry of Justice, Constitutional and Religious Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

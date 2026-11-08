@@ -1,0 +1,13 @@
+{"slug": "2024-12-15-egy-eta-wage-tax-system-mandatory-employer-registration", "studies": {
+"authentication": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on authentication; national ID cards are only copied for registration."}}},
+"birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on civil register links."}}},
+"businessregister": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A commercial register extract is a registration document only; no register system is described."}}},
+"digitalstrategy": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A comprehensive digital transformation plan is mentioned in passing; no strategy instrument is described."}}},
+"idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on who operates the ID system."}}},
+"idregisters": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "The head of the Egyptian Tax Authority said that from 15 December 2024 every employer must file monthly payroll data on the wage and salary tax system, listing each employee's national number, insurance number and gross salary, under Finance Minister decision 386 of 2023.", "as_of": "2024-12-15", "date_precision": "day", "system": "Wage and salary tax system", "class": "register"}],
+"systems": [{"system": "Wage and salary tax system", "country_label": "Egypt", "class": "register", "platform": "", "owner": "Egyptian Tax Authority", "tiers": ""}], "note": ""}}},
+"idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on the national ID system itself."}}}
+}}

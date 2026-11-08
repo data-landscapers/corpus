@@ -1,17 +1,25 @@
-{"slug": "2024-07-01-mwi-malawi-pushes-for-universal-birth-registration", "studies": {
-"admindata": {"countries": {"MWI": {"facts": [
-{"sub_indicator": "admin", "aspect": "use", "value": "preparing", "fact": "AfricaBrief reports Malawi is preparing its first Vital Statistics report, produced jointly by the National Statistical Office, the NRB and the Ministry of Health and expected in August 2024.", "as_of": "2024-07", "date_precision": "month", "system": "Vital Statistics report", "class": "admin"}
-], "systems": [], "note": ""}}},
-"authentication": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on authentication."}}},
-"birthidlink": {"countries": {"MWI": {"facts": [], "systems": [], "note": "The national ID mop-up is mentioned only as preceding the birth campaign; no link between registers stated."}}},
-"censuses": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on a census or survey."}}},
-"civilregister": {"countries": {"MWI": {"facts": [
-{"sub_indicator": "civil", "aspect": "coverage", "value": "general", "fact": "The NRB's Chief Registration Officer says 67% of births were registered in 2023, with death registration at 27%, a national rate not tied to a digital system.", "as_of": "2023", "date_precision": "year", "system": "Malawi civil registration", "class": "civil"}
-], "systems": [], "note": ""}}},
-"idcoverage": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Gives about 7 million under-16s without birth certificates, not a count or share enrolled in the national ID."}}},
-"idfrombirth": {"countries": {"MWI": {"facts": [], "systems": [], "note": "A birth registration campaign with no ID number at birth stated."}}},
-"idmaintenance": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on who operates the ID system."}}},
-"idregisters": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on registers using the ID number."}}},
-"idrobustness": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Mentions a national ID mop-up exercise only; no system detail."}}},
-"registry": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No statement on digital entry at registration offices."}}}
-}}
+{
+ "slug": "2024-07-01-mwi-malawi-pushes-for-universal-birth-registration",
+ "studies": {
+  "civilregister": {
+   "countries": {
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "coverage",
+       "value": "general",
+       "fact": "Malawi's National Registration Bureau said 67% of births were registered in 2023 and 27% of deaths, with no digital register named.",
+       "as_of": "2023",
+       "date_precision": "year",
+       "system": "civil registration",
+       "class": "civil"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

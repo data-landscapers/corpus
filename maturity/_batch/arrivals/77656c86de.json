@@ -1,0 +1,14 @@
+{
+ "slug": "2025-11-01-isoc-south-sudan-ixp-implementation-update",
+ "studies": {
+  "regionalinfrastructure": {
+   "countries": {
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes a national IXP being implemented, with no other country named as using it."
+    }
+   }
+  }
+ }
+}

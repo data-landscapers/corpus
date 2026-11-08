@@ -1,0 +1,17 @@
+{"slug": "2025-08-03-gin-modernisation-de-l-etat-civil-en-guinee-enabel-remet-un-important-lot", "studies": {
+"birthidlink": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on a link between the civil register and the ID system."}}},
+"civilregister": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "Planete 7 reports Enabel and the EU handed the interior ministry (MATD) equipment, source code and database access for the pilot civil registration digitalisation project, which reached 10 pilot communes and extends to 28 communes, 11 courts and 5 consulates.", "as_of": "2025-07-31", "date_precision": "day", "system": "Guinea civil registration digitalisation pilot project", "class": "civil"}
+], "systems": [{"system": "Guinea civil registration digitalisation pilot project", "country_label": "Guinea", "class": "civil", "platform": "", "owner": "MATD", "tiers": ""}], "note": ""}}},
+"digitalsovereignty": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "terms", "value": "carried", "fact": "Planete 7 reports that on 31 July 2025 Enabel, with the EU, handed the MATD the source codes and all access to the secure national civil registration database, so ministry teams can deploy and evolve the system on their own.", "as_of": "2025-07-31", "date_precision": "day", "system": "Guinea civil registration digitalisation pilot project", "class": "sovereignty"}
+], "systems": [], "note": ""}}},
+"idfrombirth": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on an ID number given at birth."}}},
+"idmaintenance": {"countries": {"GIN": {"facts": [], "systems": [], "note": "The handover concerns the civil registration system, not the national ID system."}}},
+"localgov": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No local government office connection stated."}}},
+"registry": {"countries": {"GIN": {"facts": [
+{"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "Planete 7 quotes the Enabel project head saying 10 pilot communes in Conakry, Kindia and Mamou have benefited from the digital civil registration project, about 80 agents were trained, and it now extends to 28 communes.", "as_of": "2025-07-31", "date_precision": "day", "system": "Guinea civil registration digitalisation pilot project", "class": "civil"},
+{"sub_indicator": "civil", "aspect": "governance", "value": "owner:ministry", "fact": "Planete 7 quotes the Enabel project head saying MATD teams now fully control the system and state-recruited engineers ensure technical continuity.", "as_of": "2025-07-31", "date_precision": "day", "system": "Guinea civil registration digitalisation pilot project", "class": "civil"}
+], "systems": [], "note": ""}}},
+"schoolinternet": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

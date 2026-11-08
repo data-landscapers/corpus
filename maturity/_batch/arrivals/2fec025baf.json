@@ -1,11 +1,3 @@
 {"slug": "2026-10-27-mrt-how-many-systems-is-your-national-health-program-really-connecting", "studies": {
-"birthidlink": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The document names no link between the civil register and the ID system."}}},
-"dataexchange": {"countries": {"MRT": {"facts": [], "systems": [], "note": "X-Road is mentioned only as sensible where a trust bus exists or is mandated; no government platform is stated."}}},
-"health": {"countries": {"MRT": {"facts": [], "systems": [{"system": "OpenClinic", "country_label": "OpenClinic DIGISANTE MRT", "class": "emr", "platform": "OpenClinic", "owner": "Ministry of Health", "tiers": ""}], "note": "Pilot centres are confirmed but no deployment is stated; the post says OpenClinic is an open-source HIS without describing it as a patient record."}}},
-"healthexchange": {"countries": {"MRT": {"facts": [
-{"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "Bluesquare says the DIGISANTE MRT program, uniting the Ministry of Health, the digital ministry and the national population registry authority, has agreed on HL7 FHIR R4, a national patient identifier and harmonized terminologies, and has confirmed 12 pilot health centres ahead of a first deployment at Dar Naim.", "as_of": "2026-10-27", "date_precision": "day", "system": "DIGISANTE MRT", "class": "exchange"}
-], "systems": [{"system": "DIGISANTE MRT", "country_label": "DIGISANTE MRT", "class": "exchange", "platform": "HL7 FHIR R4", "owner": "Ministry of Health", "tiers": ""}], "note": ""}}},
-"healthmis": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The post mentions scheduled aggregate flows to DHIS2 only as a design lesson, not a system in service or a rollout."}}},
-"idfrombirth": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The patient identifier is agreed for health systems; no number at birth is stated."}}},
-"populationregister": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The population registry authority is named as a partner only; no register is described."}}}
+"interoperability": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Health-programme partners agreed standards; no government-wide interoperability framework stated."}}}
 }}

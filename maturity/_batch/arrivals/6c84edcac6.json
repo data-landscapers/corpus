@@ -1,1 +1,14 @@
-{"slug": "2026-11-01-tza-ixp-tracker-tanzania", "studies": {"exchangepoints": {"countries": {"TZA": {"facts": [{"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "Internet Society Pulse's IXP Tracker lists 6 active exchange points in Tanzania with 43 members as of November 2026.", "as_of": "2026-11", "date_precision": "month", "system": "TIX Tanzania", "class": "exchange"}, {"sub_indicator": "exchange", "aspect": "reach", "value": "wider", "fact": "Internet Society Pulse's IXP Tracker lists active exchange points in Dar es Salaam, Arusha, Dodoma, Mwanza and Zanzibar as of November 2026.", "as_of": "2026-11", "date_precision": "month", "system": "TIX Tanzania", "class": "exchange"}], "systems": [{"system": "TIX Tanzania", "country_label": "Tanzania", "class": "exchange", "platform": "internet exchange points", "owner": "", "tiers": "national"}], "note": ""}}}, "internetusage": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No share of the population using the internet."}}}}}
+{
+ "slug": "2026-11-01-tza-ixp-tracker-tanzania",
+ "studies": {
+  "regionalinfrastructure": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Page lists Tanzania's national IXPs; no other country is named using them."
+    }
+   }
+  }
+ }
+}

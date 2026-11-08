@@ -1,0 +1,38 @@
+{"slug": "2026-08-10-ben-benin-journee-de-l-etat-civil-et-des-statistiques-de-l-etat-civil-2026", "studies": {
+"addressregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No addressing system stated."}}},
+"admindata": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Registration rates quoted, but no published statistics series from administrative records."}}},
+"authentication": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Online download of the birth certificate is not an authentication service."}}},
+"birthidlink": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "ANIP's Herbert Assogba says the Guichet Unique pilot in ten public health facilities (from 20 August 2025) lets a birth be declared and registered in the maternity, with the NPI generated within 72 hours and the data feeding the RNPP; over 13,000 of 17,071 children declared were registered.", "as_of": "2026-02", "date_precision": "month", "system": "Guichet Unique de declaration des Naissances", "class": "crvslink"}
+], "systems": [{"system": "Guichet Unique de declaration des Naissances", "country_label": "Guichet Unique de declaration des Naissances", "class": "crvslink", "platform": "", "owner": "ANIP", "tiers": ""}], "note": ""}}},
+"businessregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No business register mentioned."}}},
+"civilregister": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "ANIP says births are declared and registered in one step in the maternity under the Guichet Unique, piloted from 20 August 2025 at CHU-MEL Cotonou and extended to ten public health facilities, with national scale-up still to come.", "as_of": "2026-02", "date_precision": "month", "system": "Guichet Unique de declaration des Naissances", "class": "civil"}
+], "systems": [], "note": ""}}},
+"digitaldivides": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No rural internet programme or survey stated."}}},
+"digitalidlaw": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No identity law stated."}}},
+"electoralregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No voters' roll mentioned."}}},
+"idcoverage": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No count or share of the population holding an ID given."}}},
+"idfrombirth": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "frombirth", "aspect": "number", "value": "inservice", "fact": "ANIP says that in the ten pilot health facilities the child's NPI is generated within a maximum of 72 hours of the birth registration and sent by SMS to the parent; over 13,000 of 17,071 children declared were registered.", "as_of": "2026-02", "date_precision": "month", "system": "NPI", "class": "birthnumber"}
+], "systems": [{"system": "NPI", "country_label": "Numero Personnel d'Identification", "class": "birthnumber", "platform": "RNPP", "owner": "ANIP", "tiers": ""}], "note": "Pilot only; national scale-up planned, so no national fact."}}},
+"idmaintenance": {"countries": {"BEN": {"facts": [], "systems": [], "note": "ANIP's design role and a maintenance priority are stated, but not who runs or owns the platform."}}},
+"idregisters": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No other public register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "ANIP, the national identification agency, says it attributes the unique national identifier (NPI) from the RNPP, which it calls the single reliable register of identification, and generated NPIs for over 13,000 pilot-registered children.", "as_of": "2026-08-10", "date_precision": "day", "system": "RNPP", "class": "idsystem"}
+], "systems": [{"system": "RNPP", "country_label": "Registre National des Personnes Physiques", "class": "idsystem", "platform": "", "owner": "ANIP", "tiers": ""}], "note": ""}}},
+"landregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No land register mentioned."}}},
+"localgov": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No local government office connection stated."}}},
+"populationregister": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "ANIP says the RNPP is the base of identification in Benin and is to be consolidated as the single reliable register for every Beninese.", "as_of": "2026-08-10", "date_precision": "day", "system": "RNPP", "class": "population"},
+{"sub_indicator": "population", "aspect": "vital", "value": "updated", "fact": "ANIP says children registered at birth in the pilot health facilities are entered in the RNPP from birth, improving its data quality.", "as_of": "2026-02", "date_precision": "month", "system": "RNPP", "class": "population"}
+], "systems": [], "note": ""}}},
+"registry": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "civil", "aspect": "events", "value": "B", "fact": "ANIP says births are declared and registered in the maternity at ten pilot public health facilities, launched 20 August 2025 at CHU-MEL Cotonou.", "as_of": "2026-02", "date_precision": "month", "system": "Guichet Unique de declaration des Naissances", "class": "civil"},
+{"sub_indicator": "civil", "aspect": "offices", "value": "pilot", "fact": "ANIP says the single-window registration ran as a pilot in ten public health facilities between August 2025 and February 2026, with arrondissement chiefs to be empowered to declare out-of-facility births before 31 December 2026.", "as_of": "2026-02", "date_precision": "month", "system": "Guichet Unique de declaration des Naissances", "class": "civil"}
+], "systems": [], "note": ""}}},
+"schoolinternet": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on schools."}}},
+"socialexchange": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Social protection is named only as a benefit of registration, no link stated."}}},
+"socialregistry": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No social registry mentioned."}}},
+"taxregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No tax register mentioned."}}}
+}}

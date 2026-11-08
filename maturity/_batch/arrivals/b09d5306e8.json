@@ -1,0 +1,41 @@
+{
+ "slug": "2026-09-22-gab-gabon-fonction-publique-l-operation-d-assainissement-du-fichier-solde",
+ "studies": {
+  "censuses": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The census described is a biometric and administrative census of public agents, not a population census."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states no digital-skills training for civil servants."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document gives no count or share of people holding a national ID."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document names no national ID system, only a payroll cross-match with DGDI records."
+    }
+   }
+  }
+ }
+}

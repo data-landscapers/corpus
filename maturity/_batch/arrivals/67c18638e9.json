@@ -1,0 +1,43 @@
+{
+ "slug": "2025-10-09-moz-biometric-verification-removes-over-18-000-nonexistent-employees-from",
+ "studies": {
+  "coresystems": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "core",
+       "aspect": "payroll",
+       "value": "inuse",
+       "fact": "Mozambique's Ministry of Finance said the State Human Resources Management System (e-SNGRHE) removes employees from the payroll automatically if they miss the annual biometric proof of life, and 18,899 were suspended.",
+       "as_of": "2025-10",
+       "date_precision": "month",
+       "system": "e-SNGRHE",
+       "class": "core"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-SNGRHE",
+       "country_label": "State Human Resources Management System",
+       "class": "core",
+       "platform": "BioPV mobile app",
+       "owner": "Ministry of Finance",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Biometric proof of life is for payroll; nothing on the national ID system."
+    }
+   }
+  }
+ }
+}

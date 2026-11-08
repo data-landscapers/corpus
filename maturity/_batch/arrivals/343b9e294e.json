@@ -1,0 +1,182 @@
+{
+ "slug": "2026-02-22-cog-le-congo-deploie-une-reforme-digitale-pour-assainir-le-fichier-solde-d",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "underway",
+       "fact": "Société.cg reports that ACSI's SIFEC, closed at a validation workshop on 2026-02-20, is meant to check users' real identity when the unique identification number (NIU) is issued.",
+       "as_of": "2026-02-20",
+       "date_precision": "day",
+       "system": "SIFEC",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Système intégré des faits d'état civil (SIFEC)",
+       "country_label": "SIFEC",
+       "class": "civil",
+       "platform": "",
+       "owner": "ACSI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "Société.cg reports SIFEC is meant to check the identity of civil servants and contract staff when they are registered on the state payroll (Solde), as presented on 2026-02-20 by ACSI's director general.",
+       "as_of": "2026-02-20",
+       "date_precision": "day",
+       "system": "SIFEC",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Système intégré des faits d'état civil (SIFEC)",
+       "country_label": "SIFEC",
+       "class": "civil",
+       "platform": "",
+       "owner": "ACSI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "governance",
+       "value": "owner:ministry",
+       "fact": "Société.cg reports the SIFEC civil-status software is carried by the state agency ACSI for the finance ministry, with the technical presentation closed on 2026-02-20.",
+       "as_of": "2026-02-20",
+       "date_precision": "day",
+       "system": "SIFEC",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Système intégré des faits d'état civil (SIFEC)",
+       "country_label": "SIFEC",
+       "class": "civil",
+       "platform": "",
+       "owner": "ACSI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{"slug": "2026-04-01-som-4-3-access-to-services", "studies": {
+"authentication": {"countries": {"SOM": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "EUAA reports, citing a World Bank team, over 23,000 electronic verifications using the NIRA ID for bank account opening and transactions as of March 2026.", "as_of": "2026-03", "date_precision": "month", "system": "NIRA electronic ID verification", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "EUAA reports, citing a World Bank team, that banks, business registration, education and transport business use NIRA's electronic ID verification, and over 24 services had integrated it by November 2025.", "as_of": "2026-03", "date_precision": "month", "system": "NIRA electronic ID verification", "class": "authentication"}],
+"systems": [{"system": "NIRA electronic ID verification", "country_label": "NIRA", "class": "authentication", "platform": "", "owner": "NIRA", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
+"businessregister": {"countries": {"SOM": {"facts": [], "systems": [], "note": "A national ID requirement for business services is stated, not a business register."}}},
+"idcoverage": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No enrolment count or share in the body."}}},
+"idfrombirth": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Who runs the ID system is not stated."}}},
+"idregisters": {"countries": {"SOM": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "EUAA reports, citing a World Bank team, that business registration is among the uses of the NIRA ID as of March 2026.", "as_of": "2026-03", "date_precision": "month", "system": "Business registration on NIRA ID", "class": "register"}],
+"systems": [], "note": ""}}},
+"idrobustness": {"countries": {"SOM": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "EUAA reports a national biometric ID card issued by NIRA, required by a 7 April 2025 directive for public services and by North-East State from 17 March 2026.", "as_of": "2026-03", "date_precision": "month", "system": "National ID card (NIRA)", "class": "idsystem"}],
+"systems": [], "note": ""}}},
+"idverification": {"countries": {"SOM": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "EUAA reports banks use NIRA electronic verification for account opening and transactions, over 23,000 verifications by March 2026.", "as_of": "2026-03", "date_precision": "month", "system": "NIRA electronic ID verification", "class": "relying"},
+{"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "EUAA reports verification against the NIRA ID in banking, business registration, education and transport business as of March 2026.", "as_of": "2026-03", "date_precision": "month", "system": "NIRA electronic ID verification", "class": "relying"},
+{"sub_indicator": "use", "aspect": "usage", "value": "reported", "fact": "EUAA reports over 23,000 electronic verifications using the ID by March 2026, and more than 24 public and private services integrated by November 2025.", "as_of": "2026-03", "date_precision": "month", "system": "NIRA electronic ID verification", "class": "relying"}],
+"systems": [], "note": ""}}}
+}}

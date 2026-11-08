@@ -1,0 +1,164 @@
+{
+ "slug": "2026-03-01-cmr-nrc-birth-registration-brief",
+ "studies": {
+  "admindata": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Brief states nothing on this question for Cameroon."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Brief states nothing on this question for Cameroon."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Brief states nothing on this question for Cameroon."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "NRC says it is piloting the digitalisation of a civil registration office in Logone-Birni (Far North), while the civil registration system remains largely manual and paper-based.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "Logone-Birni civil registration office pilot",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Logone-Birni civil registration office pilot",
+       "country_label": "Logone-Birni pilot",
+       "class": "civil",
+       "platform": "",
+       "owner": "NRC with BUNEC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Brief states nothing on this question for Cameroon."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Brief states nothing on this question for Cameroon."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Brief states nothing on this question for Cameroon."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Brief states nothing on this question for Cameroon."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Brief states nothing on this question for Cameroon."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Brief states nothing on this question for Cameroon."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "events",
+       "value": "B",
+       "fact": "NRC says it is piloting digitalisation of one civil registration office in Logone-Birni (Far North).",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "Logone-Birni civil registration office pilot",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "made",
+       "value": "paper",
+       "fact": "NRC says Cameroon's civil registration system remains largely manual and paper-based.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "Logone-Birni civil registration office pilot",
+       "class": "civil"
+      },
+      {
+       "sub_indicator": "civil",
+       "aspect": "offices",
+       "value": "pilot",
+       "fact": "NRC says it is piloting digitalisation of one civil registration office, in Logone-Birni.",
+       "as_of": "2026-03",
+       "date_precision": "month",
+       "system": "Logone-Birni civil registration office pilot",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Logone-Birni civil registration office pilot",
+       "country_label": "Logone-Birni pilot",
+       "class": "civil",
+       "platform": "",
+       "owner": "NRC with BUNEC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

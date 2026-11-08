@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-01-rwa-rwanda-s-journey-to-a-single-digital-identity",
+ "facts": [],
+ "systems": [
+  {
+   "system": "EMIS",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "MINEDUC",
+   "tiers": ""
+  }
+ ],
+ "note": "The EMIS is named only as an integration target; no census or learner record is stated."
+}

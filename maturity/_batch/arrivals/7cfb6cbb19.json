@@ -1,0 +1,49 @@
+{
+ "slug": "2026-05-01-rwa-rwanda-s-journey-to-a-single-digital-identity",
+ "studies": {
+  "authentication": {"countries": {"RWA": {"facts": [
+   {"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "The ID4Africa 2026 deck says IN Groupe was procured to supply authentication, with AMBAS and PKI for authentication, digital signatures and trusted transactions, as part of the Single Digital Identity build that was still rolling out in May 2026.", "as_of": "2026-05", "date_precision": "month", "system": "AMBAS + PKI (Single Digital Identity)", "class": "authentication"}
+  ], "systems": [{"system": "Single Digital Identity (SDID) with AMBAS + PKI", "country_label": "Rwanda", "class": "authentication", "platform": "IN Groupe authentication", "owner": "NIDA / RISA", "tiers": ""}], "note": ""}}},
+  "birthidlink": {"countries": {"RWA": {"facts": [
+   {"sub_indicator": "link", "aspect": "link", "value": "underway", "fact": "The deck says the Single Digital Identity is being rolled out from birth, with civil registry digitisation listed as a foundation step and the SDID core holding the National Population Register and SDIN assignment.", "as_of": "2026-05", "date_precision": "month", "system": "Single Digital Identity (SDID)", "class": "crvslink"}
+  ], "systems": [], "note": ""}}},
+  "civilregister": {"countries": {"RWA": {"facts": [
+   {"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "The deck lists civil registry digitization among the foundation work (2022-2024) of the Single Digital Identity programme, with no detail of births or offices.", "as_of": "2026-05", "date_precision": "month", "system": "civil registry digitization", "class": "civil"}
+  ], "systems": [], "note": ""}}},
+  "civilserviceskills": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The deck's digital literacy training is for citizens, not civil servants."}}},
+  "digitaldivides": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No rural or urban internet programme or figure is stated."}}},
+  "digitalskills": {"countries": {"RWA": {"facts": [
+   {"sub_indicator": "publicskills", "aspect": "training", "value": "inservice", "fact": "The deck says the Digital Ambassadors Programme, launched in 2017, has 2,000+ ambassadors across all 30 districts and has trained 2.4 million Rwandans in digital literacy (51% women), with a target of 3.8 million trainees by project close.", "as_of": "2026-05", "date_precision": "month", "system": "Digital Ambassadors Programme", "class": "publicskills"}
+  ], "systems": [{"system": "Digital Ambassadors Programme", "country_label": "Rwanda", "class": "publicskills", "platform": "", "owner": "MINICT / RISA", "tiers": ""}], "note": ""}}},
+  "educationexchange": {"countries": {"RWA": {"facts": [
+   {"sub_indicator": "exchange", "aspect": "exchange", "value": "underway", "fact": "The deck says MINEDUC is integrating education data systems with the Single Digital Identity, and that harmonizing the EMIS and the National Population Register for under-16s is a challenge needing institutional focus.", "as_of": "2026-05", "date_precision": "month", "system": "EMIS / SDID integration", "class": "exchange"}
+  ], "systems": [], "note": ""}}},
+  "educationmis": {"countries": {"RWA": {"facts": [], "systems": [{"system": "EMIS", "country_label": "Rwanda", "class": "other", "platform": "", "owner": "MINEDUC", "tiers": ""}], "note": "The EMIS is named only as an integration target; no census or learner record is stated."}}},
+  "egovservices": {"countries": {"RWA": {"facts": [
+   {"sub_indicator": "eservices", "aspect": "services", "value": "inservice", "fact": "The deck says 247+ government services are available on Irembo, which is also the channel for Single Digital Identity pre-enrollment.", "as_of": "2026-05", "date_precision": "month", "system": "Irembo", "class": "eservices"}
+  ], "systems": [{"system": "Irembo", "country_label": "Rwanda", "class": "eservices", "platform": "", "owner": "Irembo Ltd", "tiers": ""}], "note": ""}}},
+  "idcoverage": {"countries": {"RWA": {"facts": [], "systems": [], "note": "3.8M enrolled is given as a share of the programme target, not of the whole population."}}},
+  "idfrombirth": {"countries": {"RWA": {"facts": [
+   {"sub_indicator": "frombirth", "aspect": "number", "value": "underway", "fact": "The deck says the Law on Single Digital Identity (June 2023) provides for a Single Digital Identity Number from birth, with enrollment piloted in the Southern Province from October 2025 and SDIN issuance planned from October 2026.", "as_of": "2026-05", "date_precision": "month", "system": "SDIN (Single Digital Identity Number)", "class": "birthnumber"}
+  ], "systems": [], "note": ""}}},
+  "idmaintenance": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Vendors and NIDA's technical lead role are named, but no day-to-day operation, maintenance or code ownership is stated."}}},
+  "idregisters": {"countries": {"RWA": {"facts": [
+   {"sub_indicator": "registers", "aspect": "register", "value": "underway", "fact": "The deck lists the Imibereho Social Registry among systems the SDIN integrates with, described as a ready integration pathway, not yet in service.", "as_of": "2026-05", "date_precision": "month", "system": "Imibereho Social Registry", "class": "register"}
+  ], "systems": [], "note": ""}}},
+  "idrobustness": {"countries": {"RWA": {"facts": [
+   {"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "The deck says the new Single Digital Identity is in biometric enrollment (3.8M enrolled by May 2026 across 12 districts, nationwide completion targeted for 2026), with an ABIS from Neurotechnology and smart cards from HID/Toppan.", "as_of": "2026-05", "date_precision": "month", "system": "Single Digital Identity (SDID)", "class": "idsystem"}
+  ], "systems": [], "note": ""}}},
+  "idverification": {"countries": {"RWA": {"facts": [
+   {"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "The deck says the SDIN integrates with Irembo, the social registry, e-Ubuzima health, the education EMIS and eKYC for finance, shown as a ready integration pathway in May 2026.", "as_of": "2026-05", "date_precision": "month", "system": "SDIN integrations (Irembo, eKYC)", "class": "relying"}
+  ], "systems": [], "note": ""}}},
+  "itcapacity": {"countries": {"RWA": {"facts": [], "systems": [], "note": "RISA is named as implementing agency, but no system run or built by government staff is stated."}}},
+  "populationregister": {"countries": {"RWA": {"facts": [
+   {"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "The deck names a National Population Register (NPR) as an existing system, fragmented from the school records system, and as part of the SDID core.", "as_of": "2026-05", "date_precision": "month", "system": "National Population Register", "class": "population"}
+  ], "systems": [], "note": ""}}},
+  "publicconsultation": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No consultation on a digital law or policy is stated."}}},
+  "refugees": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Refugees appear only as a design recommendation, with no registration or access stated."}}},
+  "registry": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No local civil office entry is stated."}}},
+  "schoolinternet": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No school internet figure or curriculum statement."}}},
+  "schools": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No school-level record keeping is stated."}}}
+ }
+}

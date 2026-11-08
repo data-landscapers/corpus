@@ -1,15 +1,3 @@
 {"slug":"2026-04-21-nga-akamai-joins-ixpn-accelerating-faster-cheaper-and-more-secure-internet","studies":{
-"businesspayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
-"centralbank":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on central bank role."}}},
-"consumerprotection":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on consumer protection."}}},
-"crossborderpayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
-"datacentres":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No data centre in service named."}}},
-"exchangepoints":{"countries":{"NGA":{"facts":[{"sub_indicator":"exchange","aspect":"exchange","value":"content","fact":"ITEdgeNews says Akamai connected to the Internet Exchange Point of Nigeria (IXPN) and now peers locally there alongside Google and Facebook.","as_of":"2026-04-21","date_precision":"day","system":"IXPN","class":"exchange"}],"systems":[],"note":""}}},
-"g2ppayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on government payments to people."}}},
-"internationalbandwidth":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No submarine cable or fibre route stated."}}},
-"internetusage":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No share of population using the internet given."}}},
-"nationaldatacentres":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No nationally owned data centre named."}}},
-"paymentsuptake":{"countries":{"NGA":{"facts":[],"systems":[],"note":"No survey share given."}}},
-"retailpayments":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on retail payments."}}},
-"revenuecollection":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Nothing on revenue payment."}}}
+"regionalinfrastructure":{"countries":{"NGA":{"facts":[],"systems":[],"note":"Akamai (a company outside Africa) joined the IXPN exchange; no other African country is named as using it."}}}
 }}

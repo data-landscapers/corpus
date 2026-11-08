@@ -1,0 +1,51 @@
+{"slug": "2026-05-21-tgo-direction-for-open-source-dpi-sustainability-local-ownership-establish", "studies": {
+"authentication": {"countries": {
+"ETH": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Biometric Update reports Ethiopia's NIDP provides identity verification services to relying parties, including the VeriFayda KYC service, for which organisations now pay.", "as_of": "2026-05-21", "date_precision": "day", "system": "VeriFayda KYC", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "Biometric Update reports NIDP's verification service is used by many relying parties in the business community, which pay for it once it reached critical mass.", "as_of": "2026-05-21", "date_precision": "day", "system": "VeriFayda KYC", "class": "authentication"}],
+"systems": [{"system": "VeriFayda KYC", "country_label": "Ethiopia", "class": "authentication", "platform": "", "owner": "NIDP", "tiers": ""}], "note": ""},
+"MDG": {"facts": [], "systems": [], "note": "Madagascar named only for World Bank funding ending in 2026."},
+"TGO": {"facts": [], "systems": [], "note": "Nothing on authentication."},
+"UGA": {"facts": [], "systems": [], "note": "Nothing on authentication."}}},
+"birthidlink": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "No civil register link stated."},
+"MDG": {"facts": [], "systems": [], "note": "No civil register link stated."},
+"TGO": {"facts": [], "systems": [], "note": "No civil register link stated."},
+"UGA": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"idcoverage": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "No enrolment count or share stated."},
+"MDG": {"facts": [], "systems": [], "note": "No enrolment count or share stated."},
+"TGO": {"facts": [], "systems": [], "note": "No enrolment count or share stated."},
+"UGA": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Nothing on a number at birth."},
+"MDG": {"facts": [], "systems": [], "note": "Nothing on a number at birth."},
+"TGO": {"facts": [], "systems": [], "note": "Nothing on a number at birth."},
+"UGA": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Operation and ownership of the system not stated."},
+"MDG": {"facts": [], "systems": [], "note": "Operation and ownership of the system not stated."},
+"TGO": {"facts": [], "systems": [], "note": "Early capacity building at ANID is described but not who operates or maintains the system."},
+"UGA": {"facts": [], "systems": [], "note": "Nothing on who operates the system."}}},
+"idregisters": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "No register keyed on the ID stated."},
+"MDG": {"facts": [], "systems": [], "note": "No register keyed on the ID stated."},
+"TGO": {"facts": [], "systems": [], "note": "No register keyed on the ID stated."},
+"UGA": {"facts": [], "systems": [], "note": "No register keyed on the ID stated."}}},
+"idrobustness": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Issuance, biometrics and certification not stated."},
+"MDG": {"facts": [], "systems": [], "note": "Issuance, biometrics and certification not stated."},
+"TGO": {"facts": [], "systems": [], "note": "Issuance, biometrics and certification not stated."},
+"UGA": {"facts": [], "systems": [], "note": "Issuance, biometrics and certification not stated."}}},
+"idverification": {"countries": {
+"ETH": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "Biometric Update reports Ethiopia's NIDP provides identity verification to relying parties, including the VeriFayda KYC service, which organisations pay for.", "as_of": "2026-05-21", "date_precision": "day", "system": "VeriFayda KYC", "class": "relying"}], "systems": [], "note": ""},
+"MDG": {"facts": [], "systems": [], "note": "No other system checking against the ID stated."},
+"TGO": {"facts": [], "systems": [], "note": "No other system checking against the ID stated."},
+"UGA": {"facts": [], "systems": [], "note": "No other system checking against the ID stated."}}},
+"registry": {"countries": {
+"ETH": {"facts": [], "systems": [], "note": "Nothing on civil registration."},
+"MDG": {"facts": [], "systems": [], "note": "Nothing on civil registration."},
+"TGO": {"facts": [], "systems": [], "note": "Nothing on civil registration."},
+"UGA": {"facts": [], "systems": [], "note": "Nothing on civil registration."}}}
+}}

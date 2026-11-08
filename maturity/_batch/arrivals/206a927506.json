@@ -1,0 +1,26 @@
+{
+  "slug": "2023-11-29-ken-business-rivalry-blamed-for-digital-id-misinformation",
+  "studies": {
+    "authentication": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+    "birthidlink": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only a rumour about chips in new-borns is discussed; no link stated."}}},
+    "dataprotectionlaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Data protection is named only as a reason to avoid foreign firms; no law stated."}}},
+    "idcoverage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No count or share of people enrolled."}}},
+    "idfrombirth": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Document reports the baby-chip claim as misinformation; states no number at birth."}}},
+    "idmaintenance": {"countries": {"KEN": {
+      "facts": [
+        {"sub_indicator": "maintenance", "aspect": "operation", "value": "transfer", "fact": "KBC reports Immigration and Citizen Services PS Julius Bitok saying the government declined foreign firms' offers to build Maisha Namba and prefers to upgrade the existing foundational ID with local experts and homegrown IT solutions.", "as_of": "2023-11", "date_precision": "month", "system": "Maisha Namba", "class": "idsystem"}
+      ],
+      "systems": [
+        {"system": "Maisha Namba", "country_label": "Maisha Namba (digital ID, upgrade of foundational ID)", "class": "idsystem", "platform": "", "owner": "State Department for Immigration and Citizen Services", "tiers": ""}
+      ],
+      "note": ""}}},
+    "idregisters": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+    "idrobustness": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Only a planned rollout of Maisha Namba is mentioned; no build, pilot, issuance or biometric check stated."}}},
+    "publicconsultation": {"countries": {"KEN": {
+      "facts": [
+        {"sub_indicator": "consultation", "aspect": "hearing", "value": "held", "fact": "KBC reports PS Julius Bitok saying over 500 public participation and stakeholder forums have been held on the Maisha Namba digital ID, with more planned, and that the Catholic bishops' conference was briefed by the government.", "as_of": "2023-11", "date_precision": "month", "system": "Maisha Namba", "class": "consultation"}
+      ],
+      "systems": [],
+      "note": ""}}}
+  }
+}

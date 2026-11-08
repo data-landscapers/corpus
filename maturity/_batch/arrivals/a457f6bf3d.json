@@ -1,0 +1,50 @@
+{
+ "slug": "2025-05-29-mus-blueprint-transformation-digitale-2025-29-un-pari-audacieux-pour-trans",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Mobile ID is named only as a Blueprint pillar to be adopted, a plan with no service stated."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The article promises a stronger legal framework and mentions a data protection officer duty without naming a law or its standing."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no count of online services, portal or use figure."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The article describes a planned data hub and data scattered over some twenty databases, with no register keyed on the national ID."
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "The article states no public criticism by a named group, no cut and no punishment."
+    }
+   }
+  }
+ }
+}

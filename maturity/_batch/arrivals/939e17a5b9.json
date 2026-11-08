@@ -1,0 +1,99 @@
+{
+ "slug": "2024-06-11-ken-gov-t-adopts-24-hour-ids-printing-to-clear-backlog",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing on this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "Immigration PS Julius Bitok said the National Registration Bureau prints national ID cards at its own printing centre in Nairobi, running 24-hour shifts, and has procured a new printer to raise capacity.",
+       "as_of": "2024-06-11",
+       "date_precision": "day",
+       "system": "National Registration Bureau ID printing",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Registration Bureau ID printing centre",
+       "country_label": "Kenya national ID card",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "Immigration PS Julius Bitok said over 600,000 new national IDs had been printed since February 2024, after a court halt from November 2023 was lifted.",
+       "as_of": "2024-06-11",
+       "date_precision": "day",
+       "system": "National ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

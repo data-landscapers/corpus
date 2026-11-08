@@ -1,0 +1,14 @@
+{
+  "slug": "2025-09-04-nga-inec-nimc-partner-to-scale-up-nin-registration-nationwide",
+  "studies": {
+    "authentication": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+    "birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+    "idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No enrolment count or share given."}}},
+    "idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+    "idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No operator, maintenance or ownership stated."}}},
+    "idregisters": {"countries": {"NGA": {"facts": [
+      {"sub_indicator": "registers", "aspect": "register", "value": "underway", "fact": "INEC Chairman Mahmood Yakubu says INEC and NIMC piloted joint voter and NIN enrolment in Anambra State from 8 to 28 July 2025 and decided to scale it up nationwide.", "as_of": "2025-07", "date_precision": "month", "system": "National Register of Voters", "class": "register"}
+    ], "systems": [{"system": "National Register of Voters", "country_label": "Nigeria voter register", "class": "register", "platform": "", "owner": "INEC", "tiers": ""}], "note": ""}}},
+    "idrobustness": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Says NIMC manages the National Identity Database; no robustness fact asked is stated."}}}
+  }
+}

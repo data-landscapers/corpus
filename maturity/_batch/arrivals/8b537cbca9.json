@@ -1,0 +1,12 @@
+{"slug": "2026-01-09-ssd-opinion-south-sudanese-lose-opportunities-as-passport-crisis-remains-u", "studies": {
+"authentication": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on civil register and ID exchange."}}},
+"civilregister": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on birth or death registration."}}},
+"civilserviceskills": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on civil service training."}}},
+"idcoverage": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No count or share of people holding an ID given."}}},
+"idfrombirth": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"SSD": {"facts": [{"sub_indicator": "maintenance", "aspect": "operation", "value": "supplier", "fact": "Journalist Ruot George writes that the German firm Muhlbauer was contracted to design, print and produce national ID cards and passport booklets, and that in August 2024 the registry suspended nationality card and passport issuance after the printing software expired and needed complete renewal.", "as_of": "2024-08", "date_precision": "month", "system": "CRNPI national ID card and passport system", "class": "idsystem"}], "systems": [{"system": "CRNPI national ID card and passport system", "country_label": "National identity cards and passports", "class": "idsystem", "platform": "Muhlbauer", "owner": "CRNPI", "tiers": ""}], "note": ""}}},
+"idregisters": {"countries": {"SSD": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Cards are said to be printed, but uniqueness, biometrics and certification of the ID system are not stated."}}},
+"registry": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on civil registration offices."}}}
+}}

@@ -1,0 +1,331 @@
+{
+ "slug": "2024-01-01-eth-fayda-digital-id-ethiopia-status-update",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The National ID Program deck lists online authentication, offline authentication and eKYC in Fayda's credential strategy and authentication as a use case with banks and telcos.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Fayda",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Fayda",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "National ID Program",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "hosted",
+       "value": "national",
+       "fact": "The deck says Fayda uses the local government cloud (gCloud) and that software development is decoupled from the cloud provider on an on-premises cloud.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Fayda",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Fayda",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "National ID Program",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The National ID Program says Fayda relies on local engineers and an in-house technical capability.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Fayda",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "maintenance",
+       "value": "national",
+       "fact": "The deck states local engineering teams provide Fayda's technical solutions, with an in-house cybersecurity team.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Fayda",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Fayda",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "National ID Program",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The deck lists a FIN-based TIN for tax and a Fayda-enabled eHRIS for the civil service among Fayda use cases.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Fayda",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Fayda",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "National ID Program",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The deck reports Fayda registration, authentication and printed credentials under the ID law 04/2023, with demand for physical credentials as a challenge.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Fayda",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Fayda",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "National ID Program",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The National ID Program deck lists Fayda use cases with banks and telcos, including authentication, and names rapid scaling of integration with telco and bank partners as a challenge.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Fayda",
+       "class": "relying"
+      },
+      {
+       "sub_indicator": "use",
+       "aspect": "sectors",
+       "value": "several",
+       "fact": "The deck lists Fayda use cases in both finance and telecoms.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Fayda",
+       "class": "relying"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Fayda",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "National ID Program",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "inhouse",
+       "aspect": "inhouse",
+       "value": "yes",
+       "fact": "The National ID Program says it has in-house technical capability and a strong in-house cybersecurity team behind Fayda.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Fayda",
+       "class": "staff"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Fayda",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "National ID Program",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Ethiopia."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "The deck lists a pilot registration of internally displaced people with Fayda, with WFP and UNICEF.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Fayda",
+       "class": "displaced"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Fayda",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "National ID Program",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "taxpayers",
+       "aspect": "nationalid",
+       "value": "linked",
+       "fact": "The deck lists a FIN-based TIN, a taxpayer number based on the Fayda ID number, as a Fayda use case.",
+       "as_of": "2024",
+       "date_precision": "year",
+       "system": "Fayda",
+       "class": "tax"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fayda",
+       "country_label": "Fayda",
+       "class": "idsystem",
+       "platform": "MOSIP",
+       "owner": "National ID Program",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,20 @@
+{"slug": "2026-07-15-gin-fichier-electoral-et-etat-civil-bientot-un-numero-identifiant-unique-p", "studies": {
+"addressregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document states nothing on addressing."}}},
+"authentication": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document states nothing on authentication services."}}},
+"birthidlink": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Archive digitisation is stated; no link between civil register and ID system records passing is stated."}}},
+"businessregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document states nothing on the business register."}}},
+"civilregister": {"countries": {"GIN": {"facts": [], "systems": [{"system": "numerisation des archives de l'etat civil", "country_label": "Guinea", "class": "other", "platform": "", "owner": "ONECI (MATD)", "tiers": ""}], "note": "Only back-capture of existing civil-status archives is stated, not digital registration of new events."}}},
+"digitalidlaw": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No identity law or bill is stated."}}},
+"electoralregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Automatic voter registration at 18 is a stated future intent, not a roll in service or procured."}}},
+"idcoverage": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idfrombirth": {"countries": {"GIN": {"facts": [], "systems": [], "note": "One lifelong number is promised, but biometric enrolment starts at age 10, not at birth registration."}}},
+"idmaintenance": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document states nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No public register is said to be keyed on a national ID number; automatic voter listing is a future intent."}}},
+"idrobustness": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No ID system procurement, issuance, biometric check or audit is stated beyond intent."}}},
+"landregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document states nothing on land."}}},
+"localgov": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No local government office connection is stated."}}},
+"populationregister": {"countries": {"GIN": {"facts": [{"sub_indicator": "population", "aspect": "register", "value": "underway", "fact": "ONECI launched civil-status archive digitisation at Kindia on 15 July 2026, which the electoral director general Djenabou Toure said will set up a national register of natural persons, covering the 33 prefectures and 13 Conakry communes.", "as_of": "2026-07-15", "date_precision": "day", "system": "registre national des personnes physiques", "class": "population"}], "systems": [{"system": "registre national des personnes physiques", "country_label": "Guinea", "class": "population", "platform": "", "owner": "ONECI (MATD)", "tiers": ""}], "note": ""}}},
+"registry": {"countries": {"GIN": {"facts": [], "systems": [{"system": "numerisation des archives de l'etat civil", "country_label": "Guinea", "class": "archive", "platform": "", "owner": "ONECI (MATD)", "tiers": ""}], "note": "Only archive digitisation, which never places a country above stage 1; no office-level digital entry of events is stated."}}},
+"socialregistry": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document states nothing on social registries."}}},
+"taxregister": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Document states nothing on tax."}}}
+}}

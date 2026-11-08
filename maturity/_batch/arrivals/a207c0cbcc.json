@@ -1,0 +1,202 @@
+{
+ "slug": "2024-03-27-cod-rdc-l-onip-presente-le-plan-de-mise-en-uvre-du-programme-de-fichier-ge",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "underway",
+       "fact": "ONIP's interim director general says the Afritech/IDEMIA contract notified 6 November 2023 includes an identity verification platform and an NIN verification solution, to be deployed nationally.",
+       "as_of": "2023-11-06",
+       "date_precision": "day",
+       "system": "ONIP identity verification platform and NIN verification",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fichier general de la population (FGP) / national ID card",
+       "country_label": "DRC",
+       "class": "idsystem",
+       "platform": "Afritech/IDEMIA",
+       "owner": "ONIP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COD."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COD."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Two Tier 3 national data centres are contracted, not stated in service."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COD."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COD."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "transfer",
+       "fact": "ONIP's interim director general says ONIP is to manage the national data centre and the population file while the partner installs and maintains the system, and ONIP trainers are being trained by the partner, with agents trained in Paris 26 February to 1 March 2024.",
+       "as_of": "2024-03",
+       "date_precision": "month",
+       "system": "Fichier general de la population (FGP)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fichier general de la population (FGP) / national ID card",
+       "country_label": "DRC",
+       "class": "idsystem",
+       "platform": "Afritech/IDEMIA",
+       "owner": "ONIP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COD."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "ONIP's interim director general says the national ID programme was contracted to Afritech/IDEMIA (notified 6 November 2023), launched on 19 December 2023 in Kinshasa with cards handed to officials, and mass enrolment is scheduled from 2024.",
+       "as_of": "2023-12-19",
+       "date_precision": "day",
+       "system": "Fichier general de la population (FGP)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Fichier general de la population (FGP) / national ID card",
+       "country_label": "DRC",
+       "class": "idsystem",
+       "platform": "Afritech/IDEMIA",
+       "owner": "ONIP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "underway",
+       "fact": "ONIP's interim director general says the contract includes a KYC identity verification platform for private companies, with online verification scheduled for December 2025 to 2028.",
+       "as_of": "2024-03-27",
+       "date_precision": "day",
+       "system": "ONIP identity verification platform (KYC)",
+       "class": "relying"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COD."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Two Tier 3 national data centres are contracted, not stated in service."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COD."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for COD."
+    }
+   }
+  }
+ }
+}

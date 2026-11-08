@@ -1,0 +1,8 @@
+{"slug":"2025-11-20-zaf-question-nw6521-to-the-minister-of-home-affairs","studies":{
+"birthidlink":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing stated on civil register and ID links."}}},
+"g2ppayments":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Staff payroll is discussed but not said to be paid digitally; this is a staff verification matter."}}},
+"idfrombirth":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing stated on a number at birth."}}},
+"idregisters":{"countries":{"ZAF":{"facts":[{"sub_indicator":"registers","aspect":"register","value":"underway","fact":"The Department of Home Affairs says it is deploying a biometric verification solution to interface with national population and payroll databases under DPSA Circular 36 of 2025, with verification still underway and a report due 28 February 2026.","as_of":"2025-11-20","date_precision":"day","system":"Biometric staff verification (DPSA Circular 36 of 2025)","class":"register"}],"systems":[],"note":""}}},
+"idrobustness":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"The national population database is named only as a verification target; nothing on the ID system itself."}}},
+"populationregister":{"countries":{"ZAF":{"facts":[{"sub_indicator":"population","aspect":"register","value":"inservice","fact":"The Department of Home Affairs says its staff biometric verification solution will interface with national population databases to confirm each employee's identity and that the person is alive.","as_of":"2025-11-20","date_precision":"day","system":"National population database","class":"population"}],"systems":[],"note":""}}}
+}}

@@ -1,0 +1,9 @@
+{"slug": "2025-10-27-swz-hdi-systems-engaged-to-rescue-id-card-service", "studies": {
+"authentication": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on electronic authentication."}}},
+"birthidlink": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on civil register and ID exchange."}}},
+"idcoverage": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"SWZ": {"facts": [], "systems": [{"system": "ID card issuance system", "country_label": "Eswatini", "class": "idsystem", "platform": "installed and modernised by HDI Systems (South Africa)", "owner": "Ministry of Home Affairs", "tiers": ""}], "note": "The ministry awaits budget for HDI Systems' repairs, but the document does not say who operates or maintains the system."}}},
+"idregisters": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on other registers using the ID number."}}},
+"idrobustness": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "ID card production halted by a breakdown; no unique number, biometrics or audit stated."}}}
+}}

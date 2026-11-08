@@ -1,13 +1,25 @@
 {
-  "slug": "2024-12-11-mdg-si-le-taux-denregistrement-des-naissances-progresse-regulierement-a-le",
-  "studies": {
-    "admindata": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on administrative data use."}}},
-    "birthidlink": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on a link between the civil register and ID."}}},
-    "censuses": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Surveys are cited for birth registration rates only; no census stated."}}},
-    "civilregister": {"countries": {"MDG": {"facts": [
-      {"sub_indicator": "civil", "aspect": "coverage", "value": "general", "fact": "UNICEF Madagascar says the national birth registration rate fell from 83% in 2012 to 74% in 2021, citing INSTAT's ENSOMD survey, with no link to a digital system.", "as_of": "2021", "date_precision": "year", "system": "", "class": "civil"}
-    ], "systems": [], "note": ""}}},
-    "idfrombirth": {"countries": {"MDG": {"facts": [], "systems": [], "note": "Nothing on an ID number given at birth."}}},
-    "registry": {"countries": {"MDG": {"facts": [], "systems": [], "note": "No office-level digital entry stated; the national strategic CRVS plan is only referred to in a committee recommendation."}}}
+ "slug": "2024-12-11-mdg-si-le-taux-denregistrement-des-naissances-progresse-regulierement-a-le",
+ "studies": {
+  "civilregister": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "coverage",
+       "value": "general",
+       "fact": "UNICEF Madagascar said the national birth registration rate fell from 83% in 2012 to 74% in 2021, with no digital register named.",
+       "as_of": "2021",
+       "date_precision": "year",
+       "system": "civil registration",
+       "class": "civil"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
   }
+ }
 }

@@ -1,0 +1,17 @@
+{"slug": "2023-11-24-mli-decret-2023-0679-identification-agents-fonctions-publiques", "studies": {
+"birthidlink": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No link between civil register and ID system stated."}}},
+"civilregister": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Decree does not describe civil registration of births or deaths."}}},
+"civilserviceskills": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No skills training stated."}}},
+"coresystems": {"countries": {"MLI": {"facts": [], "systems": [{"system": "Système Intégré de Gestion des Ressources Humaines de l'Etat et des Collectivités territoriales", "country_label": "SIGRH project", "class": "other", "platform": "", "owner": "State", "tiers": ""}], "note": "Decree names an HR system project steering the staff enrolment, not a payroll system in use."}}},
+"dataprotectionlaw": {"countries": {"MLI": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The decree cites Law n°2013-015 of 21 May 2013, as amended, on protection of personal data, and applies it to staff access and rectification rights.", "as_of": "2023-11-16", "date_precision": "day", "system": "Loi n°2013-015 portant protection des données à caractère personnel", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The decree cites APDP deliberation n°2023-099 of 31 March 2023 giving an opinion on the Ministry of Refondation's draft decree authorising the staff biometric enrolment.", "as_of": "2023-03-31", "date_precision": "day", "system": "APDP", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The APDP gave an opinion (deliberation n°2023-099 of 31 March 2023) on a draft decree authorising personal data processing for the civil servant biometric enrolment.", "as_of": "2023-03-31", "date_precision": "day", "system": "APDP", "class": "general"}
+], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No count or share of the population given."}}},
+"idfrombirth": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idrobustness": {"countries": {"MLI": {"facts": [], "systems": [], "note": "RAVEC biometrics are cited only as the reference for matching staff data; no ID system is described."}}},
+"localgov": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on local government office connection."}}},
+"populationregister": {"countries": {"MLI": {"facts": [], "systems": [{"system": "RAVEC (Recensement administratif à vocation d'état civil)", "country_label": "RAVEC", "class": "other", "platform": "", "owner": "State, data processed by CTDEC", "tiers": ""}], "note": "RAVEC is named as a biometric database staff data are matched against; the decree does not say it is a population register."}}},
+"registry": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on civil registration offices."}}}
+}}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-06-mwi-airtel-malawi-invests-mwk81-billion-in-network-expansion",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Airtel Malawi population coverage",
+   "country_label": "87% population coverage (company, Nov 2026)",
+   "class": "other",
+   "platform": "",
+   "owner": "Airtel Malawi",
+   "tiers": ""
+  }
+ ],
+ "note": "The document gives network coverage, not the share of people owning a phone."
+}

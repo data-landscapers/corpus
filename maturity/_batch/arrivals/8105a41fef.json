@@ -1,3 +1,14 @@
-{"slug": "2026-07-24-tun-tunisie-le-centre-de-calcul-el-khawarizmi-se-dote-d-un-supercalculateu", "studies": {
-"aistrategy": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Document is about a supercomputer grant; it states nothing on a national AI strategy."}}}
-}}
+{
+ "slug": "2026-07-24-tun-tunisie-le-centre-de-calcul-el-khawarizmi-se-dote-d-un-supercalculateu",
+ "studies": {
+  "ailaw": {
+   "countries": {
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "No law, decree or draft binding rules on AI is stated; strategy, projects and survey only."
+    }
+   }
+  }
+ }
+}

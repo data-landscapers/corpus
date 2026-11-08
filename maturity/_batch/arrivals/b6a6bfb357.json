@@ -1,0 +1,28 @@
+{"slug": "2024-08-30-mus-carte-d-identite-la-mobile-id-est-une-realite", "studies": {
+"authentication": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Defimedia reports the minister launched the Mobile ID, a digital wallet app of the national identity card, on 29 August 2024, downloadable by citizens holding a Maupass account.", "as_of": "2024-08-29", "date_precision": "day", "system": "Mobile ID (Mobile Wallet Application)", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "Defimedia reports public organisations and businesses will have a separate app to verify identity via the Mobile ID, which also signs documents digitally.", "as_of": "2024-08-29", "date_precision": "day", "system": "Mobile ID (Mobile Wallet Application)", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "remote", "value": "wallet", "fact": "Defimedia reports the Mobile ID, described by the minister as a digital wallet, was launched on 29 August 2024 and lets citizens carry their identity card data on a smartphone.", "as_of": "2024-08-29", "date_precision": "day", "system": "Mobile ID (Mobile Wallet Application)", "class": "authentication"}
+], "systems": [{"system": "Mobile ID (Mobile Wallet Application)", "country_label": "Mauritius", "class": "authentication", "platform": "Thales with Harel Mallac Technologies", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on the civil register or its link to the ID."}}},
+"businesspayments": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Not about procurement."}}},
+"centralbank": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Not about payments oversight."}}},
+"consumerprotection": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Not about financial consumer protection."}}},
+"crossborderpayments": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Not about payments."}}},
+"dataprotectionlaw": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Only the minister's claim that the Mobile ID respects the Data Protection Act; no standing or application stated."}}},
+"g2ppayments": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Not about payments."}}},
+"idcoverage": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No enrolment count or share given."}}},
+"idfrombirth": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Says Thales with Harel Mallac developed the Mobile ID; not who operates or maintains it."}}},
+"idregisters": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Defimedia reports all holders of a national identity card, including the latest MNIC 3.0, are eligible for the Mobile ID, launched 29 August 2024.", "as_of": "2024-08-29", "date_precision": "day", "system": "MNIC 3.0", "class": "idsystem"}
+], "systems": [{"system": "MNIC 3.0", "country_label": "Mauritius", "class": "idsystem", "platform": "Thales with Harel Mallac Technologies", "owner": "Ministry of Information Technology, Communication and Innovation", "tiers": ""}], "note": "Minister's statement of an independent security audit is not a published audit."}}},
+"idverification": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "Defimedia reports public organisations and businesses will have another app to verify a citizen's identity through the Mobile ID, with the citizen accepting or refusing each check.", "as_of": "2024-08-29", "date_precision": "day", "system": "Mobile ID verification app", "class": "relying"}
+], "systems": [], "note": ""}}},
+"internationalstandards": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Only a claim of compliance with international data protection norms; no standard named."}}},
+"paymentsuptake": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No survey figure."}}},
+"retailpayments": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Not about payments."}}},
+"revenuecollection": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Not about revenue."}}}
+}}

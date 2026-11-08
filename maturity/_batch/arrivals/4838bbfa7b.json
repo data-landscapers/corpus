@@ -1,0 +1,17 @@
+{"slug": "2026-05-01-som-4-1-application-process-and-identity-verification", "studies": {
+"authentication": {"countries": {"SOM": {"facts": [
+{"sub_indicator": "authentication", "aspect": "remote", "value": "wallet", "fact": "The EU Agency for Asylum report says the Somali ID is available as a physical card, a digital ID wallet called eAqoonsi, or a downloadable verifiable credential with a QR code, issued by the national ID authority NIRA.", "as_of": "2026-04", "date_precision": "month", "system": "eAqoonsi", "class": "authentication"}
+], "systems": [{"system": "eAqoonsi", "country_label": "Somalia", "class": "authentication", "platform": "", "owner": "NIRA", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No link between civil register and ID system is stated."}}},
+"civilregister": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Birth certificates are mentioned only as an ID application document; no digital register stated."}}},
+"idcoverage": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No enrolment count or share given."}}},
+"idfrombirth": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Number is issued at the end of an ID application, not at birth registration."}}},
+"idmaintenance": {"countries": {"SOM": {"facts": [], "systems": [], "note": "NIRA is said to manage the system but nothing on day-to-day operation, maintenance or code ownership."}}},
+"idregisters": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"SOM": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The EU Agency for Asylum report says that after application and biometric capture NIRA issues applicants a unique 11-digit National Identification Number, and that card issuance was free as of 1 April 2026.", "as_of": "2026-04-01", "date_precision": "day", "system": "National Identification Number (NIN)", "class": "idsystem"}
+], "systems": [{"system": "National Identification Number (NIN)", "country_label": "Somalia", "class": "idsystem", "platform": "", "owner": "NIRA", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No other system checking against the ID is stated."}}},
+"refugees": {"countries": {"SOM": {"facts": [], "systems": [], "note": "The World Bank team is quoted as unsure whether ID registration for the displaced segment is happening yet; no registration count or digital access stated."}}},
+"registry": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on how local civil registration offices record events."}}}
+}}

@@ -1,0 +1,135 @@
+{
+ "slug": "2025-05-24-tgo-identification-biometrique-au-togo-un-projet-d-inclusion-sociale-pour",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The article says the government intends future social programmes, such as universal health insurance, to rest on the national identification database rather than electoral lists.",
+       "as_of": "2025-05-21",
+       "date_precision": "day",
+       "system": "e-ID Togo",
+       "class": "register"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The article says the government is continuing to implement the e-ID Togo project, with a unique ID number for each resident to be backed by biometric data, per ANID director general Sileté Devo on 21 May 2025.",
+       "as_of": "2025-05-21",
+       "date_precision": "day",
+       "system": "e-ID Togo",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "e-ID Togo",
+       "country_label": "Togo",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ANID",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for TGO."
+    }
+   }
+  }
+ }
+}

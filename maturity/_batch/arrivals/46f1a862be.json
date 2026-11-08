@@ -1,7 +1,23 @@
-{"slug": "2024-09-19-zmb-how-does-zambia-accelerate-its-internet-resilience", "studies": {
-"datacentres": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Mentions data centers only in general terms; none named as renting to others, no tier or cloud region."}}},
-"exchangepoints": {"countries": {"ZMB": {"facts": [{"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "ISOC Pulse says Zambia has one IXP (LuIX) at which 10 of the 24 registered networks peer, with 14 members per the LuIX website.", "as_of": "2024-09-19", "date_precision": "day", "system": "LuIX", "class": "exchange"}], "systems": [{"system": "LuIX", "country_label": "Zambia", "class": "exchange", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
-"gridreliability": {"countries": {"ZMB": {"facts": [], "systems": [{"system": "Load-shedding blackouts reported by mobile operators", "country_label": "up to 14 hours a day", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "Only hours of load shedding stated, no outage count or SAIFI."}}},
-"internetusage": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Says only fewer than one in four use the internet (Pulse Country Report), no figure."}}},
-"nationaldatacentres": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No data centre named or its owner stated."}}}
-}}
+{
+ "slug": "2024-09-19-zmb-how-does-zambia-accelerate-its-internet-resilience",
+ "studies": {
+  "regionalinfrastructure": {
+   "countries": {
+    "ZMB": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "LuIX",
+       "country_label": "Lusaka IXP",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "Describes a national exchange point and a World Bank pledge for national broadband; no cross-border link named."
+    }
+   }
+  }
+ }
+}

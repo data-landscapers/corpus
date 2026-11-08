@@ -1,2 +1,2 @@
 study,iso3,slug,sub_indicator,aspect,value,fact,why
-internetusage,MUS,2025-12-01-mus-mauritius-global-ai-ethics-and-governance-observatory,use,users,estimate:80:2023,"The document cites the ITU as reporting 80% of Mauritius's population using the internet, last documented in 2023.","`estimate:80:2023` does not match (survey|estimate):\d{1,3}(\.\d+)?"
+itcapacity,SOM,2025-05-20-som-somalia-s-journey-towards-a-foundational-national-id-system,inhouse,outsourced,outsourced,"NIRA's Director General says Somalia's technical pool is limited and it leverages external expertise and partners such as NADRA while keeping in-house resources on development, oversight, policy and coordination.",not an aspect
