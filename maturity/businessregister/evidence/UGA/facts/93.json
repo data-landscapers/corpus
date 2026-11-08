@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-25-uga-ask-ura-commissioner-general-37",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "shared",
+   "value": "shared",
+   "fact": "URA says that under section 4 of the Tax Procedures Code Act the Entity Registration Number or Business Registration Number issued by URSB serves as the tax identifier for non-individual entities, so they need no separate TIN.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "ERN / BRN",
+   "class": "business"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

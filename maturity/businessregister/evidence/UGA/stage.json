@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "business",
-   "stage": "3",
-   "registration": "inservice",
-   "shared": "",
-   "owners": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-002;UGA-003",
-   "gaps": "No source found since October 2023 says registration gives one number shared with tax or social security.",
-   "note": "First pass: counted from the four questions by study-ladder-businessregister.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "business",
+      "stage": "3",
+      "registration": "inservice",
+      "shared": "",
+      "owners": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-002;UGA-006",
+      "gaps": "The tax law says the registration number will serve as a firm's tax identifier and the move from the TIN has begun, but no source says it is complete; beneficial owners are not known.",
+      "note": "Reassessed 2026-11-08: URA's September 2026 answer puts the shared number in the law with the transition from the TIN under way, so question 3 is not yet met. Online registration through the e-Registry keeps stage 3.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

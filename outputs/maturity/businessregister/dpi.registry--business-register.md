@@ -230,10 +230,10 @@ Firms could register online in 2025; no source found reports a number shared wit
 
 ### Uganda: 3 Established
 
-Firms could register online in 2026; no source found reports a number shared with tax.
+Firms could register online in 2026; the law made the registration number the tax number, but the switch was not complete.
 
 - URSB unveiled its e-Registry, an online platform replacing the Online Business Registration System and giving access to business registration services through a single portal ([source, 2026-06-30](https://dailyexpress.co.ug/2026/06/30/ursb-launches-unified-e-registry-replacing-obrs/)).
-- The Auditor General's report for the year ended 2025 describes URSB's Online Business Registration System, launched in December 2022, as a digital business registration platform that remains slow, with frequent outages ([source, 2026-02-08](https://www.ceo.co.ug/ursbs-online-business-registration-system-still-slow-despite-ugx-6-5b-investment/)).
+- The Uganda Registration Services Bureau says its eRegistry online platform, which replaced the Online Business Registration System, is running, and its new URSB Connect app adds company and business-name registration as an extra channel ([source, 2026-11-05](https://pmldaily.com/news/2026/11/ursb-launches-mobile-app-for-business-registration-services.html)).
 
 ### Zimbabwe: 3 Established
 

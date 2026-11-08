@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-14-nam-namibia-wallows-in-digital-sovereignty-illusion",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "The article says Bipa announced in December 2025 a N$40 million intelligent business registration digital platform, designed as a one-stop registration centre and awarded to CSS-CA Technology.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "Bipa intelligent business registration digital platform",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bipa intelligent business registration digital platform",
+   "country_label": "Namibia",
+   "class": "business",
+   "platform": "CSS-CA Technology",
+   "owner": "Bipa",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

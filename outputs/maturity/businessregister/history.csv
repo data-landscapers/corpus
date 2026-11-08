@@ -65,3 +65,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-25,ZAF,dpi.registry--business-register,ladder,5,3,ZAF-003,"Rung 5 rewritten (Bill, 2026-10-25): beneficial owners of every company, with a shared number shown; held filings fall short"
 2026-10-25,ZMB,dpi.registry--business-register,ladder,5,2,ZMB-003;ZMB-001,"Rung 5 rewritten (Bill, 2026-10-25): beneficial owners of every company, with a shared number shown; held filings fall short"
 2026-11-07,SLE,dpi.registry--business-register,fact,2,2,SLE-004;SLE-001;SLE-002,"NIB's online business registration system demonstrated to the minister in November 2026, not stated open to applicants; stays at 2"
+2026-11-08,UGA,dpi.registry--business-register,fact,3,3,UGA-002;UGA-006,"URA's September 2026 answer: the tax law makes the registration number a firm's tax identifier, with the move from the TIN under way; not yet complete, so stage 3 stands."
