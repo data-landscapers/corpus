@@ -1,0 +1,15 @@
+{
+ "slug": "2025-02-01-mwi-digital-malawi-acceleration-project-dmap-p505095-aide-memoire-id-techn",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Bomalathu",
+   "country_label": "Bomalathu data exchange platform",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Bomalathu is named as a new data exchange platform but its state is not given."
+}
