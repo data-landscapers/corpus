@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 place: ZAF
 ledger_rows: 90
 not_held: 19
-record: 6b317d5ddf60
+record: c7fd6c647d30
 ---
 
 # News, Oct – Nov 2026
@@ -1119,6 +1119,14 @@ South Africa's Electoral Commission opened its Election Results System, which ca
 **[Elections national results hub opens](https://www.itweb.co.za/article/elections-national-results-hub-opens/8OKdWMDXOpwMbznQ)** — ITWeb South Africa, 29 October 2026
 
 South Africa's Electoral Commission opened its National Results Operations Centre at Gallagher Convention Centre on 28 October 2026. It declared its results system ready after an independent audit. Five political parties audited it on 8–12 October 2026, and 29.2 million voters are registered for the local government elections.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[MK party wants eThekwini votes quarantined over KZN IEC 'system failures'](https://www.citizen.co.za/news/south-africa/elections/mk-party-wants-ethekwini-votes-quarantined-over-kzn-iec-system-failures/)** — The Citizen, 7 November 2026
+
+South Africa's MK Party lodged a formal objection with the Electoral Commission on 6 November 2026, The Citizen reported. It alleges a failure in live results capture at the eThekwini Results Operations Centre. Leaderboard figures, it says, differ from party-signed results slips. The party wants affected voting districts quarantined and an independent forensic audit of the results backend.
 
 </div>
 
