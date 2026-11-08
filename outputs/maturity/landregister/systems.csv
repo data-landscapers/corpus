@@ -15,6 +15,7 @@ BDI,Property Management System (PMS),Burundi,land,,DTFCN,,2025-06-18-bdi-wearete
 BEN,e-Foncier Bénin,Benin,land,e-Foncier Bénin,ANDF,national cadastre,2026-09-04-ben-cadastre-a-parakou-196-474-parcelles-enregistrees-les-pays-b
 BEN,e-Foncier Bénin,Benin,land,e-Foncier Bénin,ANDF,national cadastre,2026-03-26-andf-e-foncier-cadastre-national-445000-parcelles
 BEN,e-Foncier Bénin,Benin,land,e-Foncier Bénin,ANDF,national cadastre,2026-04-22-cadastre-porto-novo-pays-bas
+BEN,National cadastre (ANDF),Benin,land,e-Foncier Bénin,ANDF,,2026-11-07-ben-terra-benin-ppmec-ii-securisation-fonciere
 BFA,eMC+,Burkina Faso,other,GAF AG eMC+,Direction Générale du Cadastre Minier,national,2025-09-30-gaf-ag-upgrade-mining-cadastre-emc-plus
 BFA,SYC@D,Burkina Faso,land,cloud platform at sif.bf,Direction générale des impôts,national,2025-03-23-sycad-plateforme-cadastre-domaines-foncier
 BFA,SyC@D,Burkina Faso,land,web platform at sif.bf,Direction générale des impôts,national,2025-03-21-dgi-plateforme-sycd-digitalisation-gestion-fonciere
@@ -46,6 +47,7 @@ CPV,Cadastro Social Único (CSU),Cabo Verde,other,data consultation application,
 CPV,SIMple (Territory Management modules),Cabo Verde,land,,"Government of Cabo Verde, Special Projects Management Unit (Ministry of Finance)",municipal,2025-01-01-tor-simple-territory-management
 CPV,SIM 2.0 (Municipal Information System),Cabo Verde,other,,Municipalities,municipal,2025-01-01-tor-simple-territory-management
 CPV,Plataforma Empresa Online (PEO),Cabo Verde,land,PEO,Governo de Cabo Verde,national,2026-01-01-cpv-peo-sobre-nos-plataforma-empresa-online
+CPV,Sistema de Registo Predial / Cadastro Predial,Registo Predial; Cadastro Predial,other,,NOSi,,2024-06-22-cpv-nosi-e-os-seus-25-anos
 DJI,Registre national des personnes physiques,DJI,other,,Direction générale de la Population et de la Famille,,2026-07-23-lanation-carte-nationale-identite-biometrique
 DZA,AMLAK,Algeria,land,,General Directorate of National Land Domain (DGDN),,2026-01-12-electronic-land-titles-amlak--wearetech
 DZA,Système national d'information agricole,Algeria,other,,"Ministry of Agriculture, Rural Development and Fisheries",,2026-06-01-national-agricultural-information-system-elmoudjahid
