@@ -1,12 +1,12 @@
 ---
 title: Mauritania: status report
-compiled: 2026-11-07
+compiled: 2026-11-08
 place: MRT
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 7
-sources_cited: 182
+sources_cited: 183
 sections_written: 39
 not_established: 2
 acquire_lines: 39
@@ -211,7 +211,7 @@ In July 2026 [66 public bodies were enrolled on the tax authority's online syste
 
 [Fewer than half of Mauritanian births were registered by 2021](https://nationstat.com/fr/country/mauritania/completeness-of-birth-registration), against [66% of children under five registered and 40% holding a certificate in 2015](https://gffklportal.org/wp-content/uploads/2021/02/5.10.-Mauritania-CRVS-country-profile.pdf). [Civil registration scores 75.0 of 100 in the 2024 Ibrahim Index, 7th of 54 African states, unchanged from 2014](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mr.pdf).
 
-[In 2025 civil registration was run by ANRPTS, covering births, marriages, divorces and deaths at commune-level Citizen Welcome Centres](https://www.ecoi.net/en/document/1187051.html). [The same agency issues identity documents against the SIGPTS register, leaving registration and identity only partly integrated](https://www.biometricupdate.com/202505/african-nations-making-digital-id-gains-in-the-face-of-common-challenges). [A newborn is enrolled free at a reception centre on the health facility's birth extract, within 60 days of birth](https://procedures.gov.mr/fr/procedure/1105).
+[In 2025 civil registration was run by ANRPTS, covering births, marriages, divorces and deaths at commune-level Citizen Welcome Centres](https://www.ecoi.net/en/document/1187051.html). [The same agency issues identity documents against the SIGPTS register, leaving registration and identity only partly integrated](https://www.biometricupdate.com/202505/african-nations-making-digital-id-gains-in-the-face-of-common-challenges). [A newborn is enrolled free at a reception centre on the health facility's birth extract, within 60 days of birth](https://procedures.gov.mr/fr/procedure/1105). [59,078 infants under one were enrolled in 2025, against 68,813 in 2023](https://admin.ansade.mr/wp-content/uploads/2026/09/%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B3%D9%86%D9%88%D9%8A-%D9%84%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-2025.pdf).
 
 [The 2024 presidential register held 1,939,342 voters against a voting-age population of 2,510,244, a coverage rate of 77.2%](https://www.idea.int/data-tools/data/country?country=141&database_theme=293). [It was compiled as the biometric RAVEL 2023 register, deduplicated against the national ID database](https://www.ifes.org/sites/default/files/2024-06/Election%20Snapshot%20Mauritania%20Presidential%20Elections%202024.pdf). [A single Tax Identification Number covers all tax operations, for individuals and businesses](https://impots.gov.mr/DGI/espace_particulier.html) (2025). [A National Social Registry of the poorest households carries social-protection targeting](https://www.worldbank.org/en/news/feature/2024/09/05/afw-transforming-lives-in-mauritania-through-adaptive-social-protection) (2024).
 
