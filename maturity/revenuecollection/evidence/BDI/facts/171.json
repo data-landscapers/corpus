@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-10-bdi-vers-une-identification-sure-et-securisee",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The Interior Ministry's permanent secretary says fines, taxes and duties will be paid by an electronic e-payment model as other sectors follow the ID project; announced, not in service.",
+   "as_of": "2024-07-02",
+   "date_precision": "day",
+   "system": "e-payment",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-02-gmb-gra-introduces-itas-system-to-stakeholders",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "underway",
+   "fact": "The GRA unveiled ITAS at two stakeholder workshops ahead of nationwide implementation, a platform to automate tax registration, filing and payment across income tax, VAT, customs and excise, with web and mobile e-services.",
+   "as_of": "2025-10-02",
+   "date_precision": "day",
+   "system": "Integrated Tax Administration System (ITAS)",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
