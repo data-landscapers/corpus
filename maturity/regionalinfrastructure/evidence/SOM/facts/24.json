@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-22-djibouti-telecom-monopoly-profile-lanation",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "La Nation's Djibouti Telecom profile lists a terrestrial cable between Djibouti and Somalia in its network (profile text partly stale).",
+   "as_of": "2026-01-22",
+   "date_precision": "day",
+   "system": "Djibouti Telecom terrestrial cable to Somalia",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

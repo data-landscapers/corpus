@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "shared",
-      "stage": "2",
+      "stage": "4",
       "built": "agreed",
-      "service": "",
+      "service": "in-service",
       "cap": "",
       "flags": "",
-      "stage_sources": "GIN-002;GIN-001",
-      "gaps": "No source found says building has started in the last three years.",
-      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "GIN-004;GIN-005",
+      "gaps": "No source found reports a link carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a named user from the other country.",
+      "note": "Fact 2025: the ministry says four cross-border interconnections, with Mali, Senegal, Cote d'Ivoire and Sierra Leone, were in operation (GIN-004), and the backbone network says Mali is connected (GIN-005). No traffic figures or named foreign user, so not 5.",
+      "as_at": "2026-11-08"
     }
   ]
 }

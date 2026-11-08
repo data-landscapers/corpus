@@ -1,0 +1,15 @@
+{
+ "slug": "2026-05-28-st-digital-sin-partenariat-lome-data-centre-cloud-prive",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Lome Data Centre",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "",
+   "owner": "SIN (state-owned)",
+   "tiers": "Tier 3"
+  }
+ ],
+ "note": "Lome Data Centre is described as aiming to serve regional organisations, but no other African country is named as using it."
+}

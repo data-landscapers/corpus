@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-01-isoc-pulse-camix-douala-tracker",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CAMIX Douala",
+   "country_label": "Cameroon Internet Exchange Point",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "CAMIX's ten members are from Cameroon, the United States and the Netherlands; no other African country is named."
+}

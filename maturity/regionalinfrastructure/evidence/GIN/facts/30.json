@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-gin-mpten-realisations-2025",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "Guinea's telecoms ministry says four operational cross-border interconnections with Mali, Senegal, Cote d'Ivoire and Sierra Leone were achieved in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Regional interconnections",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

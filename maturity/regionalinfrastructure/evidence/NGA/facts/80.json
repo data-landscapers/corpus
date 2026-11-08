@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-04-nga-nigeria-targets-90-local-internet-traffic-regional-hub-power",
+ "facts": [],
+ "systems": [
+  {
+   "system": "IXPN",
+   "country_label": "Internet Exchange Point of Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "IXPN",
+   "tiers": ""
+  }
+ ],
+ "note": "National exchange point; no other country is named using it and only a plan for regional access to partner exchanges."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-11-icolo-linx-mombasa-mba2",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "iColo and LINX said Mombasa's submarine cables and data centres provide traffic infrastructure for neighbouring Uganda, Tanzania, Rwanda and landlocked South Sudan, as well as Kenya.",
+   "as_of": "2024-11-11",
+   "date_precision": "day",
+   "system": "Mombasa submarine cables and iColo data centres",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LINX Mombasa",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "Nokia",
+   "owner": "LINX",
+   "tiers": ""
+  }
+ ],
+ "note": "LINX Mombasa IXP is planned for Q1 2025 and not yet live."
+}

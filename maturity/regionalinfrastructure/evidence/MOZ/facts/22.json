@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-08-raxio-mozambique-mz1-data-centre-specification",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Raxio MZ1",
+   "country_label": "Mozambique",
+   "class": "other",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": ""
+  }
+ ],
+ "note": "National data centre specification; no other country named using it."
+}

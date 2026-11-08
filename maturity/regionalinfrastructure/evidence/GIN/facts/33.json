@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-11-roa-bn-siege-conakry-backbones-ouest-africains",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "The ROA-BN chairman said Mali is connected to Guinea within the operational eight-country backbone network, whose headquarters opened in Conakry on 10 November 2025.",
+   "as_of": "2025-11-10",
+   "date_precision": "day",
+   "system": "ROA-BN",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

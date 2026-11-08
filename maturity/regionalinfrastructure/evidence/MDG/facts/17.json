@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-27-isoc-foundation-mgix-restart-grant",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MGIX",
+   "country_label": "Madagascar Global Internet eXchange",
+   "class": "other",
+   "platform": "",
+   "owner": "iRENALA",
+   "tiers": ""
+  }
+ ],
+ "note": "A national IXP restart grant; no link or facility shared with another African country is stated."
+}

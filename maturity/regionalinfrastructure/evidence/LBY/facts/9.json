@@ -1,0 +1,15 @@
+{
+ "slug": "2024-04-25-peeringdb-tripoli-ixp-record",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Tripoli IXP",
+   "country_label": "Libya",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "A national exchange point record with zero peers; no other country is involved."
+}

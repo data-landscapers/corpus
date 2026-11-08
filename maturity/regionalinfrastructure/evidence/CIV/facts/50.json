@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-03-civ-powering-the-civ1-data-centre-in-cote-d-ivoire",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CIV1 data centre",
+   "country_label": "Raxio CIV1, Abidjan (hosts CIVIX)",
+   "class": "other",
+   "platform": "",
+   "owner": "Raxio Group",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": "CIV1 is described as located to serve the WAEMU bloc, but no other country is named using it."
+}

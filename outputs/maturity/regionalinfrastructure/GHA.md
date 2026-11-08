@@ -2,10 +2,10 @@
 
 ## Digital links and facilities shared with other African countries
 
-**Shared link or facility agreed and under construction.** CSquared, Phase3 and SBIN [announced on 6 May 2025](<https://csquared.com/csquared-phase3-and-sbin-commission-lagos-to-accra-terrestrial-fibre-route-strengthening-west-africas-digital-resilience/>) a new terrestrial fibre route from Lagos to Accra through Ghana, Togo and Benin. The announcement describes the route as configured, activated and tested, and gives no date yet for it to be ready for service. The route is a new one, separate from the infrastructure the same company already runs between the two cities.
+**Shared link or facility agreed and under construction.** On 6 May 2025 CSquared, Phase3 and SBIN [announced a new land fibre route from Lagos to Accra](<https://csquared.com/csquared-phase3-and-sbin-commission-lagos-to-accra-terrestrial-fibre-route-strengthening-west-africas-digital-resilience/>) through Togo and Benin. They described it as configured, activated and tested, with no date yet for service. It is separate from the fibre the company already runs between the two cities. It adds a second land path between Nigeria and Ghana.
 
-**In service and carrying another country's traffic.** CSquared [said on 11 August 2025](<https://csquared.com/8208/>) that its existing infrastructure runs from Accra to Lagos. It said that this is now integrated with a new route from Abidjan to Monrovia, which ties the Accra to Lagos fibre to a link between Côte d'Ivoire and Liberia in one West African backbone.
+**In service and carrying another country's traffic.** In August 2026 [GVA of Côte d'Ivoire held a 100 gigabit port at Accra-IX](<https://tech.africa/accra-three-internet-exchanges/>), Ghana's internet exchange. Routing data of 10 August show it there beside Ghanaian networks. In August 2025 CSquared said [its Accra to Lagos fibre now joins a route from Abidjan to Monrovia](<https://csquared.com/8208/>). The two form one West African backbone.
 
-***Also on file***. None found.
+***Also on file***. [Accra-IX](<https://tech.africa/accra-three-internet-exchanges/>).
 
-***Not found***. No source found reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.
+***Not found***. No source found gives figures for traffic carried across Ghana's borders or exchanged at Accra-IX.

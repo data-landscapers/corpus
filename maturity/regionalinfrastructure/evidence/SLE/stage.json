@@ -1,16 +1,17 @@
 {
- "iso3": "SLE",
- "cells": [
-  {
-   "sub_indicator": "shared",
-   "stage": "2",
-   "built": "agreed",
-   "service": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SLE-003;SLE-002",
-   "gaps": "No source found says building has started in the last three years.",
-   "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py."
-  }
- ]
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "shared",
+      "stage": "4",
+      "built": "agreed",
+      "service": "in-service",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SLE-005;SLE-004",
+      "gaps": "No source found names a user from another country or gives figures for traffic carried across the border.",
+      "note": "Fact 2025-01: Michcom-IX is live with points of presence in Freetown, Conakry and Monrovia (SLE-005, SLE-004), a shared facility in service. Its listed peers are all Sierra Leonean, so not 5.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

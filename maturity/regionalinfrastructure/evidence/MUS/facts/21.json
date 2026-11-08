@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-ixp-tracker-mixp-snapshot",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-use",
+   "fact": "Internet Society Pulse, from PeeringDB data of May 2026, lists the Mauritius Internet Exchange Point in Ebene with 19 members, including South Africa-registered CMC Networks and Vodacom.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Mauritius Internet Exchange Point (MIXP)",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mauritius Internet Exchange Point (MIXP)",
+   "country_label": "Mauritius",
+   "class": "shared",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

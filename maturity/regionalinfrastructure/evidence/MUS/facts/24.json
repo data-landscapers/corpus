@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-15-mixp-route-server-looking-glass",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MIXP",
+   "country_label": "Mauritius Internet Exchange Point",
+   "class": "other",
+   "platform": "",
+   "owner": "MIXP",
+   "tiers": ""
+  }
+ ],
+ "note": "Looking glass of a national exchange point; no other African country's network is named as a member."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-09-paratus-goma-mombasa-fibre-highway-itweb",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "Paratus Group said on 9 February 2026 that its 2,000km G2M fibre route from Mombasa to Goma via Kigali, Kampala and Nairobi is switched on and already carrying traffic for its first wholesale customers.",
+   "as_of": "2026-02-09",
+   "date_precision": "day",
+   "system": "Paratus G2M (Goma-to-Mombasa) fibre route",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-01-bocra-newsletter-issue-003",
+ "facts": [],
+ "systems": [
+  {
+   "system": "BINX (Botswana Internet Exchange)",
+   "country_label": "Botswana",
+   "class": "other",
+   "platform": "",
+   "owner": "Internet Service Providers Association",
+   "tiers": ""
+  }
+ ],
+ "note": "BINX is a national exchange point; no other country is named as using it."
+}

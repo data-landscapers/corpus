@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-01-rwa-ixp-tracker-rwanda-internet-exchange-rinex",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "ISOC Pulse lists 17 members at the Rwanda Internet Exchange (RINEX) as of November 2026, including networks registered in Mauritius, Cote d'Ivoire and Kenya, per PeeringDB self-declarations.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "Rwanda Internet Exchange - RINEX",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Rwanda Internet Exchange - RINEX",
+   "country_label": "RINEX",
+   "class": "shared",
+   "platform": "",
+   "owner": "RICTA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

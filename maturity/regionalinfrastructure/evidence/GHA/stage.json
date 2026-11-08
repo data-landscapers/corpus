@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "shared",
-      "stage": "4",
+      "stage": "5",
       "built": "agreed",
-      "service": "in-service",
+      "service": "in-use",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-001",
-      "gaps": "No source found reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.",
-      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "GHA-003;GHA-001",
+      "gaps": "No figures are found for traffic carried across the border or exchanged at Accra-IX.",
+      "note": "Fact 2026-08-10: GVA of Cote d'Ivoire holds a 100 Gbps port at Accra-IX (GHA-003), a named user from another country, a yes to question 4.",
+      "as_at": "2026-11-08"
     }
   ]
 }

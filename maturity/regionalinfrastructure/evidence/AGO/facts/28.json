@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-29-ago-ciena-angola-cables-monet-sacs-800g",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MONET and SACS",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "submarine cable",
+   "owner": "Angola Cables",
+   "tiers": ""
+  }
+ ],
+ "note": "The cables join Angola to Brazil and the United States, not to another African country."
+}

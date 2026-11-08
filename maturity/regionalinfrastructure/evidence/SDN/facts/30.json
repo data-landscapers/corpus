@@ -1,0 +1,15 @@
+{
+ "slug": "2026-08-01-ixp-tracker-sixp",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SIXP",
+   "country_label": "Sudan Internet Exchange Point",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "SIXP's four members are from Sudan and the United States; no other African country is named."
+}

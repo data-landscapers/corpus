@@ -1,0 +1,27 @@
+{
+ "slug": "2025-05-01-tcd-connectivite-au-tchad-entre-vulnerabilite-et-ambitions-de-transformati",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "ARCEP Tchad's director general said Chad already has international fibre gateways with Cameroon and Sudan.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "fibre gateways to Cameroon and Sudan",
+   "class": "shared"
+  },
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "building",
+   "fact": "ARCEP Tchad's director general said interconnections with Niger are in progress, with links to Libya and Nigeria only envisaged.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Chad-Niger interconnection",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

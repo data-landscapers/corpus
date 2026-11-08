@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-01-isoc-pulse-ixp-tracker-angola",
+ "facts": [],
+ "systems": [
+  {
+   "system": "angonix and Angola IXP",
+   "country_label": "Angola",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Both exchange points are in Luanda and no other country is reported using them."
+}

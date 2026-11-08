@@ -1,0 +1,15 @@
+{
+ "slug": "2024-04-08-ken-session-3-internet-exchange-points-and-best-practices-for-internationa",
+ "facts": [],
+ "systems": [
+  {
+   "system": "KIXP",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "TESPOK",
+   "tiers": ""
+  }
+ ],
+ "note": "KIXP is described as the national exchange point; a regional MNO GRX offering is mentioned without a named foreign user."
+}

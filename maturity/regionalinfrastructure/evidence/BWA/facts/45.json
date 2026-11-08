@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-16-bofinet-invests-p100m-internet-gateway",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "BoFiNet says it upgraded equipment at the internet exchange points in London and Johannesburg that handle Botswana's international internet traffic, which reached just over 100 Gbps in February 2025.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Johannesburg IXP",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

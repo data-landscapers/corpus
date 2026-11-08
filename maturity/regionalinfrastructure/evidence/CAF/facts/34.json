@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-01-caf-menpt-pgnsp-composante-2",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Internet Exchange Point (IXP), national",
+   "country_label": "Central African Republic",
+   "class": "other",
+   "platform": "",
+   "owner": "MENPT / PGNSP",
+   "tiers": ""
+  }
+ ],
+ "note": "The ministry says IXP equipment is acquired and not yet in service; no other African country is named."
+}

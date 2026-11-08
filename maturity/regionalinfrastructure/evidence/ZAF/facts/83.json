@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-30-morenet-international-bandwidth-5-to-60-gbps-amlight-sacs",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-service",
+   "fact": "MoRENet's new border PoP in Cape Town interconnects with South Africa's TENET and SANReN to carry Mozambique's expanded 60 Gbps international capacity, which MoRENet staff described as ready and operational.",
+   "as_of": "2025-10-30",
+   "date_precision": "day",
+   "system": "MoRENet Cape Town border PoP",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

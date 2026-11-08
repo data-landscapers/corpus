@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-01-morocco-fezix-ixp-tracker",
+ "facts": [],
+ "systems": [
+  {
+   "system": "FEZIX",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "All three FEZIX members are registered in Morocco; no other country uses it."
+}

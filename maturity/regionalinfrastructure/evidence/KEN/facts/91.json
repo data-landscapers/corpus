@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-24-ken-kixp-presentaion-kenog-may-2024",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "in-use",
+   "fact": "A TESPOK deck of 24 May 2024 lists regional operators from other countries, BSC-Rwanda and BCS, Sombha and Roke Telkom of Uganda, among the members connected to the Kenya Internet Exchange Point.",
+   "as_of": "2024-05-24",
+   "date_precision": "day",
+   "system": "KIXP",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "KIXP",
+   "country_label": "Kenya",
+   "class": "shared",
+   "platform": "",
+   "owner": "TESPOK",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

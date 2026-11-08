@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-04-gewape-cloud-group-rinex-connection-announcement",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RINEX",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "",
+   "owner": "RICTA",
+   "tiers": ""
+  }
+ ],
+ "note": "RINEX is a national exchange point; the connecting company is named as based in South Africa, but no cross-border link or other country's use of the exchange is stated."
+}

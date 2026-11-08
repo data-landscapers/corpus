@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-01-uptime-institute-bofinet-client-certification",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Digital Delta Data Centre",
+   "country_label": "BoFiNet Digital Delta data centre and IXP",
+   "class": "other",
+   "platform": "",
+   "owner": "Botswana Fibre Networks (BoFiNet)",
+   "tiers": "Tier III design certified 2020"
+  }
+ ],
+ "note": "Facility is said to serve Botswana and Southern African infrastructure, but no other country is named using it."
+}

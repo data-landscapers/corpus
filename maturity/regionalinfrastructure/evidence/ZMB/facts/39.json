@@ -1,0 +1,15 @@
+{
+ "slug": "2024-09-19-zmb-how-does-zambia-accelerate-its-internet-resilience",
+ "facts": [],
+ "systems": [
+  {
+   "system": "LuIX",
+   "country_label": "Lusaka IXP",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Describes a national exchange point and a World Bank pledge for national broadband; no cross-border link named."
+}

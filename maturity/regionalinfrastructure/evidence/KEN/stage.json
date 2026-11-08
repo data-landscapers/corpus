@@ -1,16 +1,17 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "shared",
-   "stage": "4",
-   "built": "agreed",
-   "service": "in-service",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-009;KEN-011",
-   "gaps": "No source found reports the link or facility carrying another country's traffic in the last three years: capacity sold or traffic carried across the border, or a user from the other country named.",
-   "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "shared",
+      "stage": "5",
+      "built": "agreed",
+      "service": "in-use",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-014;KEN-011",
+      "gaps": "No figures are found for traffic carried across the border or exchanged at KIXP.",
+      "note": "Fact 2024-05-24: a TESPOK deck lists BSC-Rwanda, BCS, Sombha and Roke Telkom of Uganda as members of KIXP (KEN-014), named users from other countries, a yes to question 4.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

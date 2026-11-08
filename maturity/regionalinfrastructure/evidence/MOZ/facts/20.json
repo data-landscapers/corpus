@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-01-isoc-pulse-ixp-tracker-mozix",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MOZIX",
+   "country_label": "Mozambique",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The page gives 143 Gbps member port capacity and names no other country using the exchange."
+}
