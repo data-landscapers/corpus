@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 place: SEN
-ledger_rows: 35
+ledger_rows: 36
 not_held: 2
-record: 1d82a723a99e
+record: f4ca5f52a705
 ---
 
 # News, Oct – Nov 2026
@@ -543,6 +543,20 @@ AI Hub Senegal and the French embassy presented the results of the Kiriku Voice 
 **[Le Sénégal se dote d’un hub pour transformer les projets d’IA en applications concrètes](https://www.wearetech.africa/fr/fils/actualites/tech/le-senegal-se-dote-dun-hub-pour-transformer-les-projets-d-ia-en-applications-concretes)** — wearetech.africa, 30 October 2026
 
 Senegal and the Gates Foundation launched the Senegal AI Scaling Hub in Dakar on 29 October 2026. It is to take AI pilots into use in health, agriculture and education. The hub implements a September 2025 agreement worth over USD 10 million, which also covers digital identity and a delivery unit.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data protection commission position on manipulated media</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Escroqueries par intelligence artificielle : la CDP appelle à la vigilance face au clonage de voix et aux deepfakes](https://cdp.sn/actualites/52517c7a-0431-45a3-b40b-48f28bc2e965)** — Commission de Protection des Données Personnelles (Senegal), 5 November 2026
+
+Voice and image are personal data under Law 2008-12; unconsented AI cloning ruled unlawful processing.
 
 </div>
 
