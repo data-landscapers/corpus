@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-01-nga-a-statistical-profile-of-birth-registration-in-nigeria",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "survey",
+   "value": "published",
+   "fact": "UNICEF's June 2026 brief reports results of the Demographic and Health Survey 2023-2024 for Nigeria, the latest endorsed source for SDG 16.9.1.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "DHS 2023-24",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DHS 2023-24",
+   "country_label": "DHS 2023-24",
+   "class": "census",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
