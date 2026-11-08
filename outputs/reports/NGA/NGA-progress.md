@@ -6,7 +6,7 @@ place: NGA
 ledger_rows: 596
 not_held: 9
 indicators: 115
-record: 1143326bd585
+record: 55c5bb781e08
 ---
 
 # Nigeria: progress report, November 2025 – November 2026
@@ -192,7 +192,7 @@ Where a row reads ***No evidence***, the repository holds nothing on that indica
 
 | Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Digital sovereignty | Digital sovereignty |  | ***No evidence*** |
+| Digital sovereignty | Digital sovereignty | Edo State [replaced a foreign-owned e-governance platform with its own in September 2026](https://www.vanguardngr.com/2026/09/nobody-can-shut-down-internet-to-disrupt-nigerias-elections-urhoghide-edoicta-boss/), and payments data must be held in Nigeria from January 2027. <details><summary>Full record</summary>2026-08 — NITDA [inaugurated the taskforce to implement the National Sovereign Cloud Initiative](https://techafricanews.com/2026/08/25/nitda-inaugurates-taskforce-national-sovereign-cloud-initiative/).<br>2026-09 — Edo State [replaced a foreign-owned e-governance platform, whose licence fees it had paid, with a platform of its own serving all 128 state agencies](https://www.vanguardngr.com/2026/09/nobody-can-shut-down-internet-to-disrupt-nigerias-elections-urhoghide-edoicta-boss/).<br>2026-09 — the central bank said [payments data must be held in Nigeria from 1 January 2027, with implementation guidance still being prepared](https://techcabal.com/2026/09/29/cbn-data-localisation-nigeria-financial-data/).<br>2026-10 — [a study commissioned by Luminate put the cost of reliance on foreign cloud services at about US$850 million a year](https://businessday.ng/news/article/nigeria-loses-850m-yearly-to-foreign-cloud-dependence-luminate-study-finds/).<br>The terms of Galaxy Backbone's partnership with Huawei, and who holds administrative access to the identity database, have not been found.</details> | Movement |
 
 
 ## Where the record is thin
