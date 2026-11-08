@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-06-ben-benin-8-millions-de-dollars-pour-renforcer-l-interconnexion-des-fichie",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "La Marina BJ reports that since December 2021 the DGI online registration platform issues an IFU in under 24 hours from the NPI.",
+   "as_of": "2021-12",
+   "date_precision": "month",
+   "system": "IFU online registration (DGI)",
+   "class": "tax"
+  },
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "nationalid",
+   "value": "linked",
+   "fact": "La Marina BJ reports the DGI issues the IFU from the ANIP-issued NPI and has matched its IFU file against the RNPP; 439,333 of 1,077,679 IFU were attached to an NPI on 25 October 2023.",
+   "as_of": "2023-10-25",
+   "date_precision": "day",
+   "system": "IFU (DGI)",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IFU online registration",
+   "country_label": "Benin",
+   "class": "tax",
+   "platform": "",
+   "owner": "DGI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

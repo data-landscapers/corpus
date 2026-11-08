@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-14-gha-nia-registers-over-32-000-children-in-volta-oti-regions",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "nationalid",
+   "value": "linked",
+   "fact": "NIA Executive Secretary Wisdom Kwaku Deku says the Ghana Card PIN serves as the person's Tax Identification Number, so a registered child automatically gets a TIN.",
+   "as_of": "2026-05-14",
+   "date_precision": "day",
+   "system": "Ghana Card PIN as TIN",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

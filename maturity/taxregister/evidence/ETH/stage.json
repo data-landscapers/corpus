@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "taxpayers",
-      "stage": "unplaced",
-      "register": "",
+      "stage": "3",
+      "register": "inservice",
       "shared": "",
       "nationalid": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "No source found describes the taxpayer register itself or says the TIN is shared with business registration or customs.",
-      "note": "Over 5 million TINs are harmonised with Fayda and Fayda is mandatory for new TINs (2026), but nothing found describes the register itself, and a later yes no longer answers the earlier ones (Bill, 2026-10-23).",
-      "as_at": "2026-10-23"
+      "stage_sources": "ETH-003",
+      "gaps": "No source found says the TIN is issued at business registration or used by customs.",
+      "note": "The Ministry of Revenue registers TINs with biometric data (ICTD, May 2024), so question 2 is met. Nothing shows the TIN shared with business registration or customs, so the tie to Fayda cannot lift the cell past rung 3.",
+      "as_at": "2026-11-08"
     }
   ]
 }

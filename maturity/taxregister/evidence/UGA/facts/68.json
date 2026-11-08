@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-25-uga-ask-ura-commissioner-general-37",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "nationalid",
+   "value": "linked",
+   "fact": "URA says the NIN becomes the taxpayer number for individuals after Cabinet approval on 1 September 2026, and that mapping of taxpayers' NINs to their TINs is under way, with the web portal now requiring a NIN update.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "NIN as TIN",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

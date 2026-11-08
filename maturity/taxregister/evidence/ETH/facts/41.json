@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-eth-fayda-digital-id-ethiopia-status-update",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "nationalid",
+   "value": "linked",
+   "fact": "The deck lists a FIN-based TIN, a taxpayer number based on the Fayda ID number, as a Fayda use case.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Fayda",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Fayda",
+   "class": "other",
+   "platform": "MOSIP",
+   "owner": "National ID Program",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

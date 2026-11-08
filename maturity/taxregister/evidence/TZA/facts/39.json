@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-01-tza-nida-yawa-ufunguo-wa-maendeleo-nchini-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "nationalid",
+   "value": "linked",
+   "fact": "NIDA says its national register enabled the issuing of taxpayer numbers (TIN).",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "TIN issuance from NIDA register",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

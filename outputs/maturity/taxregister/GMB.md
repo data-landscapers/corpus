@@ -2,11 +2,11 @@
 
 ## Tax register
 
-**Computerised register.** [The Gambia Revenue Authority brochure describes online TIN e-registration through its web portal, with an instant e-acknowledgement and a printable TIN certificate on approval](<https://www.gra.gm/download-file/235e4301-48f2-11ef-b086-029254d29bb1>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
+**Computerised register.** The Gambia Revenue Authority registers taxpayers online. [Its 2024 brochure describes TIN registration on its web portal, with an instant acknowledgement and a printable certificate](<https://www.gra.gm/download-file/235e4301-48f2-11ef-b086-029254d29bb1>). A new system is replacing it. [In October 2025 the authority presented ITAS, an integrated tax system being rolled out nationwide that covers registration of every kind of taxpayer](<https://standard.gm/gra-introduces-itas-system-to-stakeholders/>).
 
-**Shared with firms or customs.** [The brochure lists customs transactions (imports and exports) among the uses of the TIN, alongside tax filing and payment](<https://www.gra.gm/download-file/235e4301-48f2-11ef-b086-029254d29bb1>).
+**Shared with firms or customs.** One number serves tax and customs. [The 2024 brochure lists imports and exports among the uses of the TIN, alongside filing and paying tax](<https://www.gra.gm/download-file/235e4301-48f2-11ef-b086-029254d29bb1>).
 
-**Tied to ID.** No source found since October 2023 says the taxpayer number is tied to the national ID. The nearest held fact: [the one given above](<https://www.gra.gm/download-file/235e4301-48f2-11ef-b086-029254d29bb1>).
+**Tied to ID.** The tax number is not yet tied to the national ID. [In October 2025 the authority said ITAS is to integrate with the national identification database to identify taxpayers](<https://standard.gm/gra-introduces-itas-system-to-stakeholders/>). That is a plan, not yet in service.
 
 ***Also on file***. None found.
 

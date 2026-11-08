@@ -22,10 +22,10 @@ The TADAT framework asks for every taxpayer to hold one unique identifier in one
 |---|---|
 | 5 Leading | 2 |
 | 4 Operating | 11 |
-| 3 Established | 18 |
+| 3 Established | 19 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
-| Unplaced | 15 |
+| Unplaced | 14 |
 | No evidence | 7 |
 
 ## Countries
@@ -146,6 +146,12 @@ Taxpayers were registered on computer in 2026; no source found reports a number 
 
 - The Finance Ministry communique of 10 April 2026, as reported by LeFisk, says the DGI's ATOM platform has been in service since 1 July 2026 and is mandatory for all new registrations, issuing the NIU taxpayer number online ([source, 2026-07-01](https://lefisk.cm/blog/atom-dgi-cameroun-immatriculation-fiscale-guide-complet)).
 - The Directorate General of Taxation says tax registration is done exclusively online by the taxpayer, and the computer system allots a unique taxpayer number (NIU) automatically ([source, 2025](https://www.impots.cm/en/node/148)).
+
+### Ethiopia: 3 Established
+
+Taxpayer numbers were registered on computer in 2024 and tied to the national ID; whether business registration or customs share them is not known.
+
+- ICTD says Ethiopia's Ministry of Revenue was already using biometric data for taxpayer identification number registration, and the government uses those TINs for several public services ([source, 2024-05](https://ictd.ac/general/ethiopia-national-digital-id-breakthrough-tax-system-transformation/)).
 
 ### Gabon: 3 Established
 
@@ -273,12 +279,6 @@ Not established: Nothing found since October 2023 says whether taxpayers are reg
 Importers registered their taxpayer number with customs in 2024, but nothing found says the register is computerised, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether taxpayers are registered on computer.
-
-### Ethiopia: Unplaced
-
-Taxpayer numbers were checked against the national ID in 2026, but nothing found describes the register itself, so no stage is set.
-
-Not established: No source found describes the taxpayer register itself or says the TIN is shared with business registration or customs.
 
 ### Liberia: Unplaced
 
