@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 place: NGA
 ledger_rows: 87
 not_held: 9
-record: ccd213eeaf8c
+record: cf3f40c2dd39
 ---
 
 # News, Oct – Nov 2026
@@ -351,6 +351,14 @@ Nigeria's Communications Commission launched a Device Checker on 7 October 2026 
 **[Device Checker: Nigeria introduces app to simplify phone verification](https://techcabal.com/2026/10/29/nigeria-device-checker-verification-app/)** — TechCabal, 29 October 2026
 
 Nigeria's communications regulator, the NCC, announced a Device Checker app on 29 October 2026. Authorised manufacturers, importers, distributors and dealers use it to scan handset IMEIs and upload device data. The NCC is also licensing phone dealers in Kano State.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Why unverified phones could affect consumers, networks](https://www.vanguardngr.com/2026/11/why-unverified-phones-could-affect-consumers-networks/)** — Vanguard, 5 November 2026
+
+NCC: Device Checker no surveillance tool, yet links IMEIs to subscriber identity; 231m devices pre-verified (Oct 2026).
 
 </div>
 
