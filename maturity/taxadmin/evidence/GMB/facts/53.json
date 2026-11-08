@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-02-gmb-gra-introduces-itas-system-to-stakeholders",
+ "facts": [
+  {
+   "sub_indicator": "taxsystem",
+   "aspect": "filing",
+   "value": "underway",
+   "fact": "The Gambia Revenue Authority introduced its Integrated Tax Administration System to stakeholders at two workshops ahead of nationwide implementation, to automate registration, filing, payment and auditing.",
+   "as_of": "2025-10-02",
+   "date_precision": "day",
+   "system": "Integrated Tax Administration System (ITAS)",
+   "class": "taxsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
