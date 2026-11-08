@@ -1,0 +1,37 @@
+{
+ "slug": "2026-04-01-som-4-3-access-to-services",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "EUAA reports banks use NIRA electronic verification for account opening and transactions, over 23,000 verifications by March 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "NIRA electronic ID verification",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "EUAA reports verification against the NIRA ID in banking, business registration, education and transport business as of March 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "NIRA electronic ID verification",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "EUAA reports over 23,000 electronic verifications using the ID by March 2026, and more than 24 public and private services integrated by November 2025.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "NIRA electronic ID verification",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-21-tgo-direction-for-open-source-dpi-sustainability-local-ownership-establish",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Biometric Update reports Ethiopia's NIDP provides identity verification to relying parties, including the VeriFayda KYC service, which organisations pay for.",
+   "as_of": "2026-05-21",
+   "date_precision": "day",
+   "system": "VeriFayda KYC",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-21-gha-ghana-nigeria-kenya-reveal-revenue-generation-models-from-national-id",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "NIMC's director general said the commission charges banks for KYC services.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "NIMC KYC services",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

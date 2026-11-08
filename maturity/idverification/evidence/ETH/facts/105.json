@@ -1,0 +1,37 @@
+{
+ "slug": "2026-08-06-eth-what-is-faydaverse-the-ethiopian-national-id-program-that-became-a-com",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Kana TV News says banks, telecoms, hospitals and government offices check citizens' identity against the Fayda database, and SIM cards are already tied to it.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Fayda eKYC",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "Kana TV News says banking, telecoms and tax use Fayda for identity checks, with a National Bank of Ethiopia mandate to link every bank account to a Fayda ID by December 2026.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Fayda eKYC",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "Kana TV News reports 190 million total authentications, more than 165 connected institutions and about two million verifications a day.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Fayda eKYC",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

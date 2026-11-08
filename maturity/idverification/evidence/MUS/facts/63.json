@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-30-mus-carte-d-identite-la-mobile-id-est-une-realite",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Defimedia reports public organisations and businesses will have another app to verify a citizen's identity through the Mobile ID, with the citizen accepting or refusing each check.",
+   "as_of": "2024-08-29",
+   "date_precision": "day",
+   "system": "Mobile ID verification app",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

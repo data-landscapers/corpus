@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-civ-country-playbook-cote-d-ivoire-id4africa-2026-29",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "ONECI's playbook lists digital verification of the ID through APIs and online services, used by public and private entities.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "ID verification API (ONECI)",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

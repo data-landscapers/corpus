@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-27-cod-rdc-l-onip-presente-le-plan-de-mise-en-uvre-du-programme-de-fichier-ge",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "ONIP's interim director general says the contract includes a KYC identity verification platform for private companies, with online verification scheduled for December 2025 to 2028.",
+   "as_of": "2024-03-27",
+   "date_precision": "day",
+   "system": "ONIP identity verification platform (KYC)",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

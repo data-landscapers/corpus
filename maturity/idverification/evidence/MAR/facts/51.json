@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-mar-mi-um6p-mosip-rnp-l3-support-collaboration",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The deck says social programme registrations are checked against RNP data through the authentication service, with 47M+ KYC checks done.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "RNP authentication and KYC",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "The deck reports 70M+ authentications and 47M+ KYC checks, and six integrated social programmes.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "RNP authentication and KYC",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

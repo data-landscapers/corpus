@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-19-zaf-national-treasury-deploys-tech-to-terminate-ghost-workers",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "National Treasury says it is testing Home Affairs data to flag public servants without valid IDs and to check by biometrics and photos whether a payroll image links to multiple identities, limited to smart ID and passport holders.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "PERSAL",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PERSAL",
+   "country_label": "PERSAL",
+   "class": "other",
+   "platform": "",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

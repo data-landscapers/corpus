@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-16-zaf-question-nw4926-to-the-minister-of-home-affairs",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The Minister of Home Affairs replied in Parliament that identity information submitted for voter registration and voting is verified through an electronic interface against the National Population Register, linking the Electoral Commission and Home Affairs.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "IEC voter registration verification",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

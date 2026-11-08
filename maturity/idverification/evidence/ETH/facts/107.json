@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-01-mosip-rewind-2025",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "MOSIP says Ethiopia has widely adopted bank eKYC services on its ID, plus a UNHCR integration.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "MOSIP-based national ID eKYC",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "MOSIP says 91 agencies are now integrated with Ethiopia's ID.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "MOSIP-based national ID eKYC",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

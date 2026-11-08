@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-26-egy-mcit-biometric-verification-e-signature-system-launch",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "MCIT says that, with the Ministry of Interior's Civil Status Sector, it built an integration platform and a pilot system letting licensed telecom operators verify identity biometrically in their apps, rolled out progressively.",
+   "as_of": "2026-08-26",
+   "date_precision": "day",
+   "system": "Biometric verification and e-signature system",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

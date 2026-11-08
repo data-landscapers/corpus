@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-ben-benin-8-millions-de-dollars-pour-renforcer-l-interconnexion-des-fichie",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "La Marina BJ reports the DGI online platform fetches a person's identification data automatically from ANIP using the NPI when issuing an IFU.",
+   "as_of": "2021-12",
+   "date_precision": "month",
+   "system": "IFU registration against NPI",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

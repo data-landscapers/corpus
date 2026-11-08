@@ -1,0 +1,27 @@
+{
+ "slug": "2025-12-10-nga-nigeria-moves-to-replace-its-national-id-system-a-misstep-could-lock-o",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "TechCabal says the NIN underpins banking, SIM registration, social services and digital payments, with e-KYC and SIM registration verifying against it.",
+   "as_of": "2025-12-10",
+   "date_precision": "day",
+   "system": "NIN verification",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "TechCabal names banking, telecoms (SIM registration) and social services as sectors relying on the NIN.",
+   "as_of": "2025-12-10",
+   "date_precision": "day",
+   "system": "NIN verification",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

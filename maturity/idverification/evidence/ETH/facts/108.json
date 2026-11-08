@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-01-eth-fayda-digital-id-ethiopia-status-update",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The National ID Program deck lists Fayda use cases with banks and telcos, including authentication, and names rapid scaling of integration with telco and bank partners as a challenge.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Fayda",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The deck lists Fayda use cases in both finance and telecoms.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Fayda",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Fayda",
+   "class": "other",
+   "platform": "MOSIP",
+   "owner": "National ID Program",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

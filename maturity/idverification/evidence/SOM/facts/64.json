@@ -1,0 +1,27 @@
+{
+ "slug": "2025-05-20-som-somalia-s-journey-towards-a-foundational-national-id-system",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "NIRA reports banks, notaries, microfinance and some ministries are connected to the Hubiye platform to verify people against the national ID.",
+   "as_of": "2025-05-20",
+   "date_precision": "day",
+   "system": "Hubiye",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "NIRA's deck counts relying parties connected: 6 private and 2 public, with others in progress.",
+   "as_of": "2025-05-20",
+   "date_precision": "day",
+   "system": "Hubiye",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

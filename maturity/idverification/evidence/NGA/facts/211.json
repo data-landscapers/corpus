@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-01-nga-the-nimc-act-2026-explained-what-nigeria-s-new-identity-law-means-for",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Olaniwun Ajayi LP says opening a bank account, buying insurance and applying for consumer credit now legally require a NIN under the NIMC Act 2026.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "NIN",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "Olaniwun Ajayi LP says the NIMC Act 2026 makes a NIN legally required across banking, insurance, tax filing, voter registration and passports.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "NIN",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

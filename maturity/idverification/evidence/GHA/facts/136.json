@@ -1,0 +1,27 @@
+{
+ "slug": "2025-05-21-gha-ghana-nigeria-kenya-reveal-revenue-generation-models-from-national-id",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The National Identification Authority's legal head said banking, social and health sectors verify identities against the Ghana card to pay claims or render services, each paying a small fee into escrow.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Ghana card verification",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The same official named the banking, social and health sectors as using Ghana card verification.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Ghana card verification",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
