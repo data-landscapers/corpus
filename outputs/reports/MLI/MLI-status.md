@@ -1,12 +1,12 @@
 ---
 title: Mali: status report
-compiled: 2026-11-07
+compiled: 2026-11-08
 place: MLI
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 7
-sources_cited: 190
+sources_cited: 191
 sections_written: 39
 not_established: 4
 acquire_lines: 46
@@ -236,6 +236,8 @@ In 2017 [the education management information system had no formal data-sharing 
 In February 2026 [the justice ministry extended its judicial records system with online platforms for criminal record extracts and nationality certificates](https://www.digitalbusiness.africa/mali-digitalisation-du-casier-judiciaire-et-du-certificat-de-nationalite/). [Their documents carry the same legal validity as those issued in person](https://www.digitalbusiness.africa/mali-digitalisation-du-casier-judiciaire-et-du-certificat-de-nationalite/). [The underlying case file system was launched with the ICT agency AGETIC in January 2025](https://www.digitalbusiness.africa/mali-digitalisation-du-casier-judiciaire-et-du-certificat-de-nationalite/).
 
 [Sigui-Dolo, launched in September 2025, issues biometric driving licences and vehicle cards and connects to TrésorPay and the SYDONIA customs system](https://www.ecofinagency.com/news-digital/1709-48777-mali-rolls-out-new-digital-tools-to-modernize-public-administration). [The tax authority's e-Impôt platform has carried online filing and payment for large and mid-sized taxpayers since December 2021](https://www.dgi.gouv.ml/16562-2/). [BAARA-ANPE, launched in June 2025, registers jobseekers and matches them with employers](https://menefp.gouv.ml/lancement-officiel-de-la-plateforme-digitale-baara-anpe-par-madame-le-ministre-oumou-sall-seck/). [By October 2021 the SIGMAP procurement system ran in five regions and Bamako, with online bidding still in preparation](https://bamada.net/kayes-les-autorites-contractantes-formees-sur-lapplication-sigmap). In 2025 [the procurement directorate's head named its low use among the system's weaknesses](https://dgmp.gouv.ml/?q=node%2F10). [In May 2025 the Prime Minister presented N'GNA SÔRÔ, a microfinance refinancing platform credited with more than 642,000 beneficiaries, and a tanker-truck gauging system](https://fr.apanews.net/technologies/mali-quatre-nouvelles-plateformes-accelerent-la-digitalisation-de-ladministration/). [A platform opened in February 2025 lets the diaspora request documents through consular missions](https://www.wearetech.africa/en/fils-uk/news/tech/mali-launches-digital-platform-to-streamline-services-for-its-diaspora). In 2025 [the identity register offered no authentication through a government portal](https://dpimap.org/mali/), so none of these services could check a user against it.
+
+In August 2025 [the finance ministry suspended the salaries of 36,151 public agents who had not presented for the biometric census of the integrated human resources system](https://www.seneweb.com/fr/news/Afrique/mali-le-gouvernement-suspend-les-salaires-de-36-151-agents-publics-apres-un-recensement-biometrique_n_466366.html). [The census had enrolled 122,166 of 158,317 agents](https://www.seneweb.com/fr/news/Afrique/mali-le-gouvernement-suspend-les-salaires-de-36-151-agents-publics-apres-un-recensement-biometrique_n_466366.html).
 
 [In 2024 Mali scored 0.3005 on the UN E-Government Development Index, 173rd of 193 member states](https://publicadministration.un.org/egovkb/en-us/data/compare-countries). In August 2026 [the territorial administration ministry named digitalisation of public services among its priorities and asked UNDP for reinforced support](https://malijet.com/actualite-politique-au-mali/311342-mali-pnud-vers-un-renforcement-du-partenariat-autour-des-r.html).
 
