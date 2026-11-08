@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-23-moz-aprimorados-mecanismos-do-registo-de-nascimento",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "events",
+   "value": "B",
+   "fact": "Jornal Notícias reports newborns are to be registered through e-SIRCEV before leaving the maternity, already in some Inhambane districts.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "e-SIRCEV",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-SIRCEV",
+   "country_label": "E-SIRCEV",
+   "class": "civil",
+   "platform": "",
+   "owner": "Ministry of Justice, Constitutional and Religious Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

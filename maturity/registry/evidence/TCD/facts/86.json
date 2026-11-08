@@ -1,0 +1,27 @@
+{
+ "slug": "2025-07-01-tcd-tchad-la-digitalisation-accelere-lenregistrement-des-naissances-a-mong",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "events",
+   "value": "B",
+   "fact": "Radio Ndarason reports births are entered in a secure system at the Mongo hospital registration desk and transmitted to ANATS; no deaths are mentioned.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "guichet unique d'enregistrement des naissances (Mongo)",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "made",
+   "value": "connected",
+   "fact": "Radio Ndarason reports the desk enters birth data at registration and ANATS receives it almost instantly by SMS for validation, after which the desk prints the act.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "guichet unique d'enregistrement des naissances (Mongo)",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

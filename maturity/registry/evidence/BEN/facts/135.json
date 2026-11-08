@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-10-ben-benin-journee-de-l-etat-civil-et-des-statistiques-de-l-etat-civil-2026",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "events",
+   "value": "B",
+   "fact": "ANIP says births are declared and registered in the maternity at ten pilot public health facilities, launched 20 August 2025 at CHU-MEL Cotonou.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Guichet Unique de declaration des Naissances",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "pilot",
+   "fact": "ANIP says the single-window registration ran as a pilot in ten public health facilities between August 2025 and February 2026, with arrondissement chiefs to be empowered to declare out-of-facility births before 31 December 2026.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Guichet Unique de declaration des Naissances",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

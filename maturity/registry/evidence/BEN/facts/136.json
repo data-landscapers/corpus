@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-08-ben-le-benin-modernise-lenregistrement-des-naissances-avec-un-guichet-uniq",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Guichet unique d'enregistrement et de déclaration des naissances",
+   "country_label": "Guichet unique des naissances (pilot, ten facilities)",
+   "class": "civil",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": "Declaration is made at the hospital, but the document does not say the birth is registered there or by what office, and the pilot is in ten facilities only; no rung is stated."
+}

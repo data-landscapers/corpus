@@ -1,0 +1,27 @@
+{
+ "slug": "2025-08-03-gin-modernisation-de-l-etat-civil-en-guinee-enabel-remet-un-important-lot",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "pilot",
+   "fact": "Planete 7 quotes the Enabel project head saying 10 pilot communes in Conakry, Kindia and Mamou have benefited from the digital civil registration project, about 80 agents were trained, and it now extends to 28 communes.",
+   "as_of": "2025-07-31",
+   "date_precision": "day",
+   "system": "Guinea civil registration digitalisation pilot project",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "Planete 7 quotes the Enabel project head saying MATD teams now fully control the system and state-recruited engineers ensure technical continuity.",
+   "as_of": "2025-07-31",
+   "date_precision": "day",
+   "system": "Guinea civil registration digitalisation pilot project",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-22-cog-le-congo-deploie-une-reforme-digitale-pour-assainir-le-fichier-solde-d",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "Société.cg reports the SIFEC civil-status software is carried by the state agency ACSI for the finance ministry, with the technical presentation closed on 2026-02-20.",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "SIFEC",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Système intégré des faits d'état civil (SIFEC)",
+   "country_label": "SIFEC",
+   "class": "civil",
+   "platform": "",
+   "owner": "ACSI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

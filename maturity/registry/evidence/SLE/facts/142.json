@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-27-civ-african-civil-registration-leaders-acsa-point-direction-for-needed-acc",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "events",
+   "value": "B",
+   "fact": "Sierra Leone's Amb. Mohamed Mubashir Massaquoi said fully electronic birth registration was launched in 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Electronic birth registration",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

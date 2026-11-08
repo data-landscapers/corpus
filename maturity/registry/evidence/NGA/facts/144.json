@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-01-nga-a-statistical-profile-of-birth-registration-in-nigeria",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "events",
+   "value": "B",
+   "fact": "UNICEF says frontline health workers and community birth attendants use digital tools to register births at the point of care, now operational in 14 states and the FCT.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "electronic birth registration",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
