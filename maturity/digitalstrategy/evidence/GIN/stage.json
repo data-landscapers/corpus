@@ -1,8 +1,22 @@
 {
   "iso3": "GIN",
   "cells": [
-    {"sub_indicator": "national", "stage": "3", "governance": "body:mandated;finance:domestic", "standing": "adopted", "text": "public", "period": "to:2027", "plan": "costed", "reporting": "", "last12": "", "cap": "", "flags": "", "stage_sources": "GIN-001;GIN-002;GIN-003",
-     "gaps": "No implementation or results report has been found, so reporting is not established. Standing is read as adopted because the ministry published the text (version 1.2, 11 June 2024) and no source calls it a draft, but no adopting act is named; GIN-001 says validated and GIN-010 says its elaboration was still under way in December 2024. The period reads 2027 in the title and 2026 in one article (GIN-011). Also held: the 2016-2020 predecessor, ended, and a World Bank mention of a planned national digital economy policy and strategy (GIN-009) that names no document. Stage 4 needs published reporting within three years.",
-     "note": "Instrument: Stratégie nationale de digitalisation de l'État et de développement de l'économie numérique 2023-2027 (Guinée Digitale 2027). Adopted by the published-text rule, public, costed and in period, but no reporting, so not stage 4."}
+    {
+      "sub_indicator": "national",
+      "stage": "3",
+      "governance": "body:mandated;finance:domestic",
+      "standing": "adopted",
+      "text": "public",
+      "period": "to:2027",
+      "plan": "costed",
+      "reporting": "",
+      "last12": "advancing",
+      "cap": "",
+      "flags": "advancing",
+      "stage_sources": "GIN-001;GIN-002;GIN-003",
+      "gaps": "No implementation or results report has been found, so reporting is not established. Standing is read as adopted because the ministry published the text (version 1.2, 11 June 2024) and no source calls it a draft, but no adopting act is named; GIN-001 says validated and GIN-010 says its elaboration was still under way in December 2024. The period reads 2027 in the title and 2026 in one article (GIN-011). On 24 April 2026 the ministry called for a consultant to draft a new national ICT and digital economy policy and strategy for 2026-2030 (GIN-045, GIN-046), with no text yet; the 2016-2020 predecessor has ended. Stage 4 needs published reporting within three years.",
+      "note": "Stage 4c 2026-11-08: drafting of a new 2026-2030 ICT and digital economy policy was opened on 24 April 2026, a dated event inside the twelve months, so advancing; the 2023-2027 strategy stays the instrument in force. Adopted by the published-text rule, public, costed and in period, but no reporting, so not stage 4.",
+      "as_at": "2026-11-08"
+    }
   ]
 }

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-04-27-gin-avis-a-manifestations-d-interet-revision-et-actualisation-du-document",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "The digital economy ministry (MCENI, via WARDIP-Guinee) called on 24 April 2026 for a consultant to draft a new national ICT and digital economy policy and strategy with an action plan for 2026-2030, for submission to the Council of Ministers.",
+   "as_of": "2026-04-24",
+   "date_precision": "day",
+   "system": "PNTICEN 2026-2030",
+   "class": "national"
+  },
+  {
+   "sub_indicator": "national",
+   "aspect": "period",
+   "value": "to:2030",
+   "fact": "The ministry's call says the new policy and strategy covers 2026-2030.",
+   "as_of": "2026-04-24",
+   "date_precision": "day",
+   "system": "PNTICEN 2026-2030",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

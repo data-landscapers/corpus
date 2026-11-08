@@ -73,6 +73,8 @@ Ghana's Digital Economy Policy and Strategy was adopted in 2024 with a 2028 targ
 
 Guinea's 2023-2027 digital strategy is public and costed, with a lead ministry named, but no source found says whether any progress report exists.
 
+*Advancing.*
+
 - The foreword thanks UNDP, the African Development Bank and other partners for their role in the technical workshops and the national workshop to validate the strategy document; the version-1.2 text dated 11 June 2024 names no adopting decree or launch act, and calls itself the strategy of the Transition Government under Prime Minister Bernard Goumou ([source, 2024-06-11](https://ande.gov.gn/file/2025/01/Strategie-Numerique_Guinee-2027_v1.2.pdf)).
 - The full strategy text, version 1.2 dated 11 June 2024, is published as a PDF on the site of the state digitalisation agency ANDE, issued by the Ministry of Posts, Telecommunications and Digital Economy (MPTEN) with ANDE ([source, 2024-06-11](https://ande.gov.gn/file/2025/01/Strategie-Numerique_Guinee-2027_v1.2.pdf)).
 - The strategy is titled 2023-2027 and sets its vision and 14 result indicators against 2022 references for a 2027 horizon, as 'Guinée Digitale 2027' ([source, 2024-06-11](https://ande.gov.gn/file/2025/01/Strategie-Numerique_Guinee-2027_v1.2.pdf)).
@@ -418,6 +420,7 @@ Mauritania approved a costed national digital agenda for 2022 to 2025 that has n
 - Agence Ecofin refers in the past tense to the Agenda national de transition numérique 2022-2025, whose stated period had ended by the article's date of 2026-06-30; the article does not say a successor exists ([source, 2025](https://www.agenceecofin.com/actualites-numerique/3006-139750-la-mauritanie-se-dote-dune-infrastructure-cloud-pour-heberger-ses-donnees-publiques)).
 - AMI reports that the Ministry of Digital Transformation and Modernisation of the Administration 'a annoncé le début de la préparation' of the Agenda National de la Transformation Numérique 2030 at a one-day workshop in Nouakchott on 4 December 2025; the article names no adopting act ([source, 2025-12-04](https://ami.mr/fr/archives/284785)).
 - The ministry's contracts list shows an individual consultant contract signed 23/07/2025 under the World Bank-financed WARDIP project, for four months, to upgrade the Agenda national de Transformation Numérique and draft an Agenda 2030; the page describes no scope ([source, 2025-07-23](https://mtnima.gov.mr/marches/)).
+- Mauritania's digital transformation minister presented the national digital transformation strategy 2030 as a document being drawn up or approved ([source, 2025-11-25](https://fr.tawassoul.net/mauritanie-ue-reunion-pour-evaluer-le-niveau-de-cooperation-numerique-bilaterale/)).
 
 ### Morocco: 2 Nascent
 
