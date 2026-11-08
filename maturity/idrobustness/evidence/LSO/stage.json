@@ -9,10 +9,10 @@
       "assurance": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LSO-007;LSO-008",
+      "stage_sources": "LSO-010;LSO-009",
       "gaps": "No source found since October 2023 says the system checks people by biometrics.",
-      "note": "First pass: counted from the four questions by study-ladder-idrobustness.py.",
-      "as_at": "2026-10-17"
+      "note": "Stage 3: Lesotho's national ID is issued to new applicants and renewed after ten years (October 2024), with ten fingerprints taken at registration. No source shows biometrics checked to stop one person enrolling twice, so stage 4 is not met.",
+      "as_at": "2026-11-08"
     }
   ]
 }

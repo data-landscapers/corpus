@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MUS-005;MUS-004",
       "gaps": "No source found since October 2023 says the system checks people by biometrics. The minister's 2024 statement that an independent audit of the Mobile ID was conducted is not a published audit.",
-      "note": "First pass: counted from the four questions by study-ladder-idrobustness.py.",
-      "as_at": "2026-10-23"
+      "note": "Stage 3: the new smart ID card launched in February 2024 and the Mobile ID is regulated by Government Notice 28 of 2024. No source shows biometrics checked to stop one person enrolling twice, so stage 4 is not met.",
+      "as_at": "2026-11-08"
     }
   ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "robustness",
-   "stage": "3",
-   "system": "inservice",
-   "biometric": "",
-   "assurance": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "RWA-008;RWA-009",
-   "gaps": "No source found since October 2023 says the system checks people by biometrics.",
-   "note": "First pass: counted from the four questions by study-ladder-idrobustness.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "robustness",
+      "stage": "3",
+      "system": "inservice",
+      "biometric": "",
+      "assurance": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-008;RWA-009",
+      "gaps": "No source found since October 2023 says the system checks people by biometrics.",
+      "note": "Stage 3: current national ID cards are in service until June 2027, and enrolment for the new Single Digital Identity with an ABIS had reached 3.8 million by May 2026. No source shows the ABIS checking enrolments for duplicates, so stage 4 is not met.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

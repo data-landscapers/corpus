@@ -1,17 +1,18 @@
 {
- "iso3": "BWA",
- "cells": [
-  {
-   "sub_indicator": "robustness",
-   "stage": "3",
-   "system": "inservice",
-   "biometric": "",
-   "assurance": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BWA-008;BWA-001",
-   "gaps": "No source found since October 2023 says the system checks people by biometrics.",
-   "note": "First pass: counted from the four questions by study-ladder-idrobustness.py."
-  }
- ]
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "robustness",
+      "stage": "3",
+      "system": "inservice",
+      "biometric": "",
+      "assurance": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BWA-008;BWA-001",
+      "gaps": "No source found since October 2023 says the system checks people by biometrics.",
+      "note": "Stage 3: the Omang is in service, and in September 2026 banks began verifying customers against the national citizen database. No source shows biometrics checked to stop one person enrolling twice, so stage 4 is not met.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

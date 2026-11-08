@@ -1,17 +1,18 @@
 {
- "iso3": "CAF",
- "cells": [
-  {
-   "sub_indicator": "robustness",
-   "stage": "3",
-   "system": "inservice",
-   "biometric": "",
-   "assurance": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CAF-001;CAF-004",
-   "gaps": "No source found since October 2023 says the system checks people by biometrics.",
-   "note": "First pass: counted from the four questions by study-ladder-idrobustness.py."
-  }
- ]
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "robustness",
+      "stage": "3",
+      "system": "inservice",
+      "biometric": "",
+      "assurance": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CAF-001;CAF-004",
+      "gaps": "No source found since October 2023 says the system checks people by biometrics.",
+      "note": "Stage 3: national identity cards were being issued in Bangui and other towns in June 2026, after biometric enrolment in Birao in December 2025. Capturing biometrics is not checking them for duplicates, so stage 4 is not met.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

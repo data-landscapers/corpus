@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MLI-001;MLI-002",
       "gaps": "No source found since October 2023 says the system checks people by biometrics.",
-      "note": "First pass: counted from the four questions by study-ladder-idrobustness.py.",
-      "as_at": "2026-10-17"
+      "note": "Stage 3: more than 20 million NINA had been attributed from the biometric file by May 2025, and Mali Kura Biometrie replaced RAVEC in February 2024. No source shows biometrics checked to stop one person enrolling twice, so stage 4 is not met.",
+      "as_at": "2026-11-08"
     }
   ]
 }

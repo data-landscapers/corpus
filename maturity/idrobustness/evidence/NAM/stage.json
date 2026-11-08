@@ -1,17 +1,18 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "robustness",
-   "stage": "3",
-   "system": "inservice",
-   "biometric": "",
-   "assurance": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-004;NAM-006",
-   "gaps": "No source found since October 2023 says the system checks people by biometrics.",
-   "note": "First pass: counted from the four questions by study-ladder-idrobustness.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "robustness",
+      "stage": "3",
+      "system": "inservice",
+      "biometric": "",
+      "assurance": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-004;NAM-006",
+      "gaps": "No source found since October 2023 says the system checks people by biometrics.",
+      "note": "Stage 3: the new electronic ID card was being issued nationwide in July 2026, built on the national population register. No source shows biometrics checked to stop one person enrolling twice, so stage 4 is not met.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "LBY",
- "cells": [
-  {
-   "sub_indicator": "robustness",
-   "stage": "5",
-   "system": "inservice",
-   "biometric": "checked",
-   "assurance": "certified",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBY-008",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-idrobustness.py."
-  }
- ]
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "robustness",
+      "stage": "5",
+      "system": "inservice",
+      "biometric": "checked",
+      "assurance": "certified",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBY-008",
+      "gaps": "",
+      "note": "Stage 5: in April 2026 the General Information Authority set a Level 3, biometric, highest-assurance tier for the Digital Identity Management System for Citizens, then in trials with banks; a later yes answers the earlier questions. The National Number system shows no biometric deduplication, and whether a level set for this digital layer counts is put to Bill (2026-11-08).",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

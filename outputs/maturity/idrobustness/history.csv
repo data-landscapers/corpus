@@ -47,3 +47,50 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-08,GNB,dpi.id--robustness-of-system,fact,3,4,GNB-007;GNB-006,"Semlex, July 2024: the identity card system assigns unique numbers through biometric enrolment and a deduplication system; 3 to 4"
 2026-11-08,ETH,dpi.id--robustness-of-system,fact,3,4,ETH-030;ETH-029,"National ID programme, March 2025: Fayda takes iris, fingerprints and face to identify each person uniquely, one person one ID; 3 to 4"
 2026-11-08,MWI,dpi.id--robustness-of-system,fact,3,3,MWI-003;MWI-004,"World Bank, February 2025: an under-capacity ABIS used for authentication and fraud prevention; no deduplication of enrolment shown, stays 3"
+2026-11-08,AGO,dpi.id--robustness-of-system,review,3,3,AGO-004;AGO-010,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,BDI,dpi.id--robustness-of-system,review,2,2,BDI-002;BDI-007;BDI-001,Rebuild: first-pass cell re-read against the ladder; stays 2
+2026-11-08,BEN,dpi.id--robustness-of-system,review,3,3,BEN-002;BEN-003,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,BFA,dpi.id--robustness-of-system,review,3,4,BFA-003;BFA-005;BFA-006,"Rebuild: the police's 2026 CNIB page says the ONI checks duplicates by fingerprint and face; a source in the window, 3 to 4"
+2026-11-08,BWA,dpi.id--robustness-of-system,review,3,3,BWA-008;BWA-001,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,CAF,dpi.id--robustness-of-system,review,3,3,CAF-001;CAF-004,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,CIV,dpi.id--robustness-of-system,review,3,3,CIV-003;CIV-004,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,CMR,dpi.id--robustness-of-system,review,3,3,CMR-001;CMR-005,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,COD,dpi.id--robustness-of-system,review,3,2,COD-012;COD-005;COD-010;COD-004,Rebuild: the biometric card is issued only in pilot Kinshasa communes and mass enrolment had not reached the provinces by September 2026; 3 to 2
+2026-11-08,COM,dpi.id--robustness-of-system,review,3,3,COM-001;COM-003,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,CPV,dpi.id--robustness-of-system,review,3,3,CPV-001;CPV-005,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,DJI,dpi.id--robustness-of-system,review,4,4,DJI-002,Rebuild: first-pass cell re-read against the ladder; stays 4
+2026-11-08,DZA,dpi.id--robustness-of-system,review,4,4,DZA-012;DZA-010,Rebuild: first-pass cell re-read against the ladder; stays 4
+2026-11-08,EGY,dpi.id--robustness-of-system,review,3,3,EGY-003;EGY-002,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,ERI,dpi.id--robustness-of-system,review,3,3,ERI-005;ERI-002;ERI-004,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,GAB,dpi.id--robustness-of-system,review,3,3,GAB-001;GAB-002,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,GHA,dpi.id--robustness-of-system,review,3,3,GHA-004;GHA-007,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,GMB,dpi.id--robustness-of-system,review,4,4,GMB-010;GMB-018,Rebuild: first-pass cell re-read against the ladder; stays 4
+2026-11-08,GNQ,dpi.id--robustness-of-system,review,3,3,GNQ-001,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,KEN,dpi.id--robustness-of-system,review,3,3,KEN-005;KEN-006,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,LBR,dpi.id--robustness-of-system,review,3,3,LBR-008;LBR-005,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,LBY,dpi.id--robustness-of-system,review,5,5,LBY-008,"Rebuild: first-pass cell re-read; assurance levels set for the national digital ID layer read as question 4 on the wording; stays 5, reading put to Bill"
+2026-11-08,LSO,dpi.id--robustness-of-system,review,3,3,LSO-010;LSO-009,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,MAR,dpi.id--robustness-of-system,review,4,3,MAR-014;MAR-004,"Rebuild: iDAKTO's 1:N matching proves identity in the Mon e-ID app and does not show enrolments deduplicated, read as for Malawi; 4 to 3"
+2026-11-08,MDG,dpi.id--robustness-of-system,review,4,4,MDG-008;MDG-015,Rebuild: first-pass cell re-read against the ladder; stays 4
+2026-11-08,MLI,dpi.id--robustness-of-system,review,3,3,MLI-001;MLI-002,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,MOZ,dpi.id--robustness-of-system,review,3,3,MOZ-004;MOZ-001,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,MRT,dpi.id--robustness-of-system,review,3,3,MRT-001;MRT-003,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,MUS,dpi.id--robustness-of-system,review,3,3,MUS-005;MUS-004,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,NAM,dpi.id--robustness-of-system,review,3,3,NAM-004;NAM-006,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,NER,dpi.id--robustness-of-system,review,3,3,NER-001;NER-002,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,RWA,dpi.id--robustness-of-system,review,3,3,RWA-008;RWA-009,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,SDN,dpi.id--robustness-of-system,review,5,5,SDN-011,"Rebuild: first-pass cell re-read; assurance levels set for the national digital ID layer read as question 4 on the wording; stays 5, reading put to Bill"
+2026-11-08,SEN,dpi.id--robustness-of-system,review,3,3,SEN-001;SEN-006,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,SLE,dpi.id--robustness-of-system,review,4,3,SLE-001;SLE-018,"Rebuild: the Director-General calls NINs non-duplicable but no source shows biometrics checked against double enrolment, read as for Guinea; 4 to 3"
+2026-11-08,SOM,dpi.id--robustness-of-system,review,4,4,SOM-010;SOM-015,Rebuild: first-pass cell re-read against the ladder; stays 4
+2026-11-08,SSD,dpi.id--robustness-of-system,review,3,3,SSD-002;SSD-003,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,STP,dpi.id--robustness-of-system,review,3,3,STP-004;STP-005,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,SWZ,dpi.id--robustness-of-system,review,3,3,SWZ-002;SWZ-003,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,SYC,dpi.id--robustness-of-system,review,3,3,SYC-008;SYC-003,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,TCD,dpi.id--robustness-of-system,review,3,4,TCD-004;TCD-007;TCD-003,"Rebuild: ANATS (2026) says SIGPTS issues the NNI after enrolment and deduplication, biometric per a 2025 account; 3 to 4"
+2026-11-08,TUN,dpi.id--robustness-of-system,review,3,3,TUN-003;TUN-006,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,TZA,dpi.id--robustness-of-system,review,4,4,TZA-002,Rebuild: first-pass cell re-read against the ladder; stays 4
+2026-11-08,UGA,dpi.id--robustness-of-system,review,4,4,UGA-006,Rebuild: first-pass cell re-read against the ladder; stays 4
+2026-11-08,ZAF,dpi.id--robustness-of-system,review,4,4,ZAF-004;ZAF-028,Rebuild: first-pass cell re-read against the ladder; stays 4
+2026-11-08,ZMB,dpi.id--robustness-of-system,review,3,3,ZMB-004;ZMB-010,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-08,ZWE,dpi.id--robustness-of-system,review,3,3,ZWE-002;ZWE-003,Rebuild: first-pass cell re-read against the ladder; stays 3

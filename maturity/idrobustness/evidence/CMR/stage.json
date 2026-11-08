@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "CMR-001;CMR-005",
       "gaps": "No source found since October 2023 says the system checks people by biometrics.",
-      "note": "First pass: counted from the four questions by study-ladder-idrobustness.py.",
-      "as_at": "2026-10-17"
+      "note": "Stage 3: new biometric cards have been issued within 48 hours since 2025, and in July 2026 police cleared double-identity cases on site. No source shows biometrics checked to stop one person enrolling twice, so stage 4 is not met.",
+      "as_at": "2026-11-08"
     }
   ]
 }

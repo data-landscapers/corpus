@@ -9,10 +9,10 @@
       "assurance": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GMB-010",
+      "stage_sources": "GMB-010;GMB-018",
       "gaps": "No source found since October 2023 reports a certification, audit or assurance level for the system.",
-      "note": "First pass: counted from the four questions by study-ladder-idrobustness.py.",
-      "as_at": "2026-10-17"
+      "note": "Stage 4: in August 2026 the government said the register uses biometrics to reduce duplicate identities, and cards have been issued after biometric deduplication since 2009. No certification, audit or assurance level is held, so stage 5 is not met.",
+      "as_at": "2026-11-08"
     }
   ]
 }

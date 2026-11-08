@@ -1,17 +1,18 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "robustness",
-   "stage": "3",
-   "system": "inservice",
-   "biometric": "",
-   "assurance": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZWE-002;ZWE-003",
-   "gaps": "No source found since October 2023 says the system checks people by biometrics.",
-   "note": "First pass: counted from the four questions by study-ladder-idrobustness.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "robustness",
+      "stage": "3",
+      "system": "inservice",
+      "biometric": "",
+      "assurance": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-002;ZWE-003",
+      "gaps": "No source found since October 2023 says the system checks people by biometrics.",
+      "note": "Stage 3: in 2026 the Civil Registry Department issues national identity documents. No source shows biometrics checked to stop one person enrolling twice, so stage 4 is not met.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

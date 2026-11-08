@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MDG-008;MDG-015",
       "gaps": "No source found since October 2023 reports a certification, audit or assurance level for the system.",
-      "note": "First pass: counted from the four questions by study-ladder-idrobustness.py.",
-      "as_at": "2026-10-18"
+      "note": "Stage 4: in 2026 the World Bank says identity is confirmed against a de-duplicated biometric database, and the January enrolment takes fingerprints, face and iris to eliminate duplicates. No certification, audit or assurance level is held, so stage 5 is not met.",
+      "as_at": "2026-11-08"
     }
   ]
 }

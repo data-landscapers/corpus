@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "robustness",
-      "stage": "4",
+      "stage": "3",
       "system": "inservice",
-      "biometric": "checked",
+      "biometric": "",
       "assurance": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MAR-002",
-      "gaps": "No source found since October 2023 reports a certification, audit or assurance level for the system.",
-      "note": "First pass: counted from the four questions by study-ladder-idrobustness.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MAR-014;MAR-004",
+      "gaps": "No source found since October 2023 says the system checks fingerprints, face or iris to stop one person enrolling twice; 1:N matching is described for proving identity in the Mon e-ID app.",
+      "note": "Stage 3: the electronic national ID card (CNIE) is in service, with 32 million issued by February 2025. iDAKTO's account of 1:N matching to prove identity in the Mon e-ID app, like biometric verification at renewal, does not show enrolments checked for duplicates, so stage 4 is not met.",
+      "as_at": "2026-11-08"
     }
   ]
 }

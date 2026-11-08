@@ -1,17 +1,18 @@
 {
- "iso3": "SLE",
- "cells": [
-  {
-   "sub_indicator": "robustness",
-   "stage": "4",
-   "system": "inservice",
-   "biometric": "checked",
-   "assurance": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SLE-002",
-   "gaps": "No source found since October 2023 reports a certification, audit or assurance level for the system.",
-   "note": "First pass: counted from the four questions by study-ladder-idrobustness.py."
-  }
- ]
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "robustness",
+      "stage": "3",
+      "system": "inservice",
+      "biometric": "",
+      "assurance": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SLE-001;SLE-018",
+      "gaps": "No source found since October 2023 says the system checks fingerprints, face or iris to stop one person enrolling twice; the Director-General calls the NINs non-duplicable.",
+      "note": "Stage 3: the NCRA's biometric system has registered about 93 per cent of the population, each with a unique NIN (August 2026). The Director-General's word that NINs are non-duplicable does not show enrolments checked for duplicates, as for Guinea, so stage 4 is not met.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

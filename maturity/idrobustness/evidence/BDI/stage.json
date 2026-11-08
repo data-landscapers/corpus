@@ -9,10 +9,10 @@
       "assurance": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BDI-002;BDI-003",
+      "stage_sources": "BDI-002;BDI-007;BDI-001",
       "gaps": "No source found since October 2023 says: is it in service.",
-      "note": "First pass: counted from the four questions by study-ladder-idrobustness.py.",
-      "as_at": "2026-10-18"
+      "note": "Stage 2: in 2026 the biometric national ID with a unique number is piloted in about a dozen communes, awaits its law and has a contractor being procured. No source shows it issuing to the population, so stage 3 is not met.",
+      "as_at": "2026-11-08"
     }
   ]
 }

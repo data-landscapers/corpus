@@ -9,10 +9,10 @@
       "assurance": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZMB-004",
+      "stage_sources": "ZMB-004;ZMB-010",
       "gaps": "No source found since October 2023 says the system checks people by biometrics.",
-      "note": "First pass: counted from the four questions by study-ladder-idrobustness.py.",
-      "as_at": "2026-10-18"
+      "note": "Stage 3: about 1.3 million people were enrolled in INRIS by December 2025, which upgrades the National Registration Card in service. No source shows the planned ABIS checking enrolments for duplicates, so stage 4 is not met.",
+      "as_at": "2026-11-08"
     }
   ]
 }

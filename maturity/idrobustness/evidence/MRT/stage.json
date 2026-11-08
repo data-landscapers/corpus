@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MRT-001;MRT-003",
       "gaps": "No source found since October 2023 says the system checks people by biometrics.",
-      "note": "First pass: counted from the four questions by study-ladder-idrobustness.py.",
-      "as_at": "2026-10-17"
+      "note": "Stage 3: the ANRPTS runs the biometric population register, open to permanent enrolment in 2026, and the Houwiyeti digital identity. An op-ed's account of fingerprint and face verification does not show enrolments checked for duplicates, so stage 4 is not met.",
+      "as_at": "2026-11-08"
     }
   ]
 }

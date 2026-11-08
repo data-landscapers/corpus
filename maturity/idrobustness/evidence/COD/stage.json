@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "robustness",
-      "stage": "3",
-      "system": "inservice",
+      "stage": "2",
+      "system": "underway",
       "biometric": "",
       "assurance": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "COD-013",
-      "gaps": "No source found since October 2023 says the system checks people by biometrics.",
-      "note": "First pass: counted from the four questions by study-ladder-idrobustness.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "COD-012;COD-005;COD-010;COD-004",
+      "gaps": "No source found since October 2023 says the national ID card or number is issued beyond pilot communes, or that the system checks people by biometrics.",
+      "note": "Stage 2: ONIP's biometric card has been issued only in pilot Kinshasa communes since 2024, mass enrolment had not reached the provinces by September 2026, and RDC-PASS is in its first operational phase. The 2024 description of the population file does not show cards or numbers issued to each person, so stage 3 is not met.",
+      "as_at": "2026-11-08"
     }
   ]
 }

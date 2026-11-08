@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "CIV-003;CIV-004",
       "gaps": "No source found since October 2023 says the system checks people by biometrics.",
-      "note": "First pass: counted from the four questions by study-ladder-idrobustness.py.",
-      "as_at": "2026-10-17"
+      "note": "Stage 3: in 2026 ONECI manages the RNPP, assigns the national identification number and issues the card. No source shows biometrics checked to stop one person enrolling twice, so stage 4 is not met.",
+      "as_at": "2026-11-08"
     }
   ]
 }

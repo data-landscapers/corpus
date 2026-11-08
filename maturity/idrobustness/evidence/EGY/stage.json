@@ -1,17 +1,18 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "robustness",
-   "stage": "3",
-   "system": "inservice",
-   "biometric": "",
-   "assurance": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "EGY-003;EGY-002",
-   "gaps": "No source found since October 2023 says the system checks people by biometrics.",
-   "note": "First pass: counted from the four questions by study-ladder-idrobustness.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "robustness",
+      "stage": "3",
+      "system": "inservice",
+      "biometric": "",
+      "assurance": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-003;EGY-002",
+      "gaps": "No source found since October 2023 says the system checks people by biometrics.",
+      "note": "Stage 3: the National ID System issues cards and holds images and fingerprints, and in 2026 services verify against the national number. Holding fingerprints is not checking them for duplicates, so stage 4 is not met.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

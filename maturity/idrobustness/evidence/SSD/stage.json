@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "SSD-002;SSD-003",
       "gaps": "No source found since October 2023 says the system checks people by biometrics.",
-      "note": "First pass: counted from the four questions by study-ladder-idrobustness.py.",
-      "as_at": "2026-10-17"
+      "note": "Stage 3: national ID cards were issued in 2026, through schools from August; the 2025 claim of no national digital ID is older and concerns a digital system. No source shows biometrics checked to stop one person enrolling twice, so stage 4 is not met.",
+      "as_at": "2026-11-08"
     }
   ]
 }

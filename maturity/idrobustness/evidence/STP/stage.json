@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "STP-004;STP-005",
       "gaps": "No source found since October 2023 says the system checks people by biometrics.",
-      "note": "First pass: counted from the four questions by study-ladder-idrobustness.py.",
-      "as_at": "2026-10-17"
+      "note": "Stage 3: the registry issued free identity cards (BI) in campaigns to March 2026. No source shows biometrics checked to stop one person enrolling twice, so stage 4 is not met.",
+      "as_at": "2026-11-08"
     }
   ]
 }

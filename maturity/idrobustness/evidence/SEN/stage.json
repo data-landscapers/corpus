@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "SEN-001;SEN-006",
       "gaps": "No source found since October 2023 says the system checks people by biometrics.",
-      "note": "First pass: counted from the four questions by study-ladder-idrobustness.py.",
-      "as_at": "2026-10-18"
+      "note": "Stage 3: Senegal issues the ECOWAS biometric identity card, whose law was being amended in September 2026. No source shows biometrics checked to stop one person enrolling twice, so stage 4 is not met.",
+      "as_at": "2026-11-08"
     }
   ]
 }

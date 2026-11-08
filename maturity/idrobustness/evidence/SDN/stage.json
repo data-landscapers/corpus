@@ -1,17 +1,18 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "robustness",
-   "stage": "5",
-   "system": "inservice",
-   "biometric": "checked",
-   "assurance": "certified",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SDN-011",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-idrobustness.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "robustness",
+      "stage": "5",
+      "system": "inservice",
+      "biometric": "checked",
+      "assurance": "certified",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SDN-011",
+      "gaps": "",
+      "note": "Stage 5: the SudaPass terms of May 2026 set three trust levels, the highest with in-person biometric verification, for the national digital ID; a later yes answers the earlier questions. No source shows the civil register's fingerprints checked for duplicates, and whether a level set for the digital layer counts is put to Bill (2026-11-08).",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

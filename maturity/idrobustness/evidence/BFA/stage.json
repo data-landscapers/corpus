@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "robustness",
-      "stage": "3",
+      "stage": "4",
       "system": "inservice",
-      "biometric": "",
+      "biometric": "checked",
       "assurance": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BFA-005;BFA-006",
-      "gaps": "No source found since October 2023 says the system checks people by biometrics.",
-      "note": "First pass: counted from the four questions by study-ladder-idrobustness.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "BFA-003;BFA-005;BFA-006",
+      "gaps": "No source found since October 2023 reports a certification, audit or assurance level for the system.",
+      "note": "Stage 4: the national police's 2026 CNIB page says the ONI system checks for duplicates by fingerprint matching and facial biometrics; the ladder asks what a source of the last three years says, so the 2009 start does not exclude it. No certification, audit or assurance level is held, so stage 5 is not met.",
+      "as_at": "2026-11-08"
     }
   ]
 }
