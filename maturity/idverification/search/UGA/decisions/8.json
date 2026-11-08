@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "use",
+ "fact": "From 12 November 2023 Ugandan telecoms were to block SIM cards whose holders' details did not match their national ID, requiring re-verification of fingerprints, photo and national ID, with at most 10 SIMs per national ID.",
+ "title": "UCC sets deadline to block unverified sim cards",
+ "publisher": "PML Daily",
+ "published": "2023-11-07",
+ "date_source": "source",
+ "why_not": ""
+}

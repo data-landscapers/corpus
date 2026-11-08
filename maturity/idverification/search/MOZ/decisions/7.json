@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "use",
+ "fact": "M-Pesa lets customers request or look up a tax number (NUIT) through the Tax Authority, open to customers whose M-Pesa account is registered with a valid Bilhete de Identidade; requests with an expired BI are rejected.",
+ "title": "NUIT através do M-Pesa",
+ "publisher": "Vodacom Moçambique",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": ""
+}

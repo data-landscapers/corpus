@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://gate.ahram.org.eg/News/5895524.aspx",
+  "title": "مساعد وزير الاتصالات: عامان من الاختبارات قبل إطلاق «الهوية الرقمية» لارتباطها بسيادة الدولة",
+  "publisher": "بوابة الأهرام",
+  "published": "2026-08-26",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q4: two years of testing before digital identity biometric verification launch"
+ },
+ {
+  "url": "https://gate.ahram.org.eg/News/5895538.aspx",
+  "title": "مصر تطلق «الهوية الرقمية».. كيف تعمل منظومة التحقق البيومتري",
+  "publisher": "بوابة الأهرام",
+  "published": "2026-08-26",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q3: biometric digital identity verification launched as pilot against civil status systems"
+ },
+ {
+  "url": "https://www.alwafd.news/5936920",
+  "title": "العقيد إبراهيم الصايم: الرقم القومي ليس مجرد بطاقة.. والأحوال المدنية تتحول رقميا",
+  "publisher": "الوفد",
+  "published": "2026-08-14",
+  "sub_indicator": "robustness",
+  "why": "Q2: national number created at birth, never repeated"
+ },
+ {
+  "url": "https://www.almasdar.com/172314",
+  "title": "ربط 105 جهة حكومية إلكترونيًا وإتاحة 242 خدمة عبر منصة مصر الرقمية",
+  "publisher": "المصدر",
+  "published": "2026-07-19",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q3: digital identity app launched, second release with biometric verification"
+ },
+ {
+  "url": "https://masaar.net/en/digital-identity-in-egypt-and-fundamental-rights/",
+  "title": "Digital Identity in Egypt: Between Enhancing Access to Services and Threatening Fundamental Rights",
+  "publisher": "Masaar",
+  "published": "2026-07-13",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q2: national ID issued under Civil Status Law; digital identity under development"
+ },
+ {
+  "url": "https://doi.org/10.19088/ids.2025.057",
+  "title": "Digital-ID in Egypt: Country Report",
+  "publisher": "Institute of Development Studies",
+  "published": "2025-12-03",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3: state of national ID and biometric digital ID"
+ },
+ {
+  "url": "https://www.ictworks.org/wp-content/uploads/2025/12/Biometric_Digital_ID_in_Africa.pdf",
+  "title": "Biometric Digital-ID in Africa: Progress and Challenges to Date - Ten Country Case Studies",
+  "publisher": "ICTworks / Centre for Internet and Society",
+  "published": "2025",
+  "sub_indicator": "robustness",
+  "why": "Q3/Q4: Egypt biometric ID and oversight"
+ },
+ {
+  "url": "https://gate.ahram.org.eg/News/3537977.aspx",
+  "title": "عبر بصمات الوجه والأصابع.. السجل المدني الذكي يطبع شهادات الميلاد والوفاة والزواج",
+  "publisher": "بوابة الأهرام",
+  "published": "2022-06-04",
+  "sub_indicator": "robustness",
+  "why": "Q3: face and fingerprint matching against biometric national ID database"
+ }
+]

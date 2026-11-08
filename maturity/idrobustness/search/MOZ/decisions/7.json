@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "biometric",
+ "fact": "The World Bank's mission aide-memoire on the 30 October to 30 November 2023 EDGE mission describes the BI as the only biometric and deduplicated identity register, and notes DNIC and the Ministry of Interior finalising specifications for biometric capture kits.",
+ "title": "Projecto de Governação e Economia Digitais (EDGE, P172350) Missão de Apoio à Implementação de 30 de Outubro a 30 de Novembro de 2023 Aide Memória",
+ "publisher": "Banco Mundial",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

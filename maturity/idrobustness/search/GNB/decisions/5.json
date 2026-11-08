@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "biometric",
+ "fact": "On 19 September 2024 Semlex opened ID enrollment centres in Farim and Bissora and stated that the unique identity number assigned to each citizen is managed by the Ministry of Justice and that national identity cards come from biometric enrollment.",
+ "title": "Expansion of Identification Centers",
+ "publisher": "Semlex",
+ "published": "2024-09-19",
+ "date_source": "source",
+ "why_not": ""
+}

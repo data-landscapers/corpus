@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202609/mozambique-plans-unified-citizen-portal-to-streamline-digital-govt-services",
+  "title": "Mozambique plans unified citizen portal to streamline digital govt services",
+  "publisher": "Biometric Update",
+  "published": "2026-09-28",
+  "sub_indicator": "robustness",
+  "why": "Q2: digital ID procurement shortlist"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202607/mozambique-approves-new-national-id-framework-to-speed-card-issuance",
+  "title": "Mozambique approves new national ID framework to speed card issuance",
+  "publisher": "Biometric Update",
+  "published": "2026-07-27",
+  "sub_indicator": "robustness",
+  "why": "Q3/Q4: cards issued, biometric data regime"
+ },
+ {
+  "url": "https://mznews.co.mz/governo-aprova-novo-regulamento-do-bilhete-de-identidade-em-mocambique/",
+  "title": "Governo aprova novo Regulamento do Bilhete de Identidade em Moçambique",
+  "publisher": "MZ News",
+  "published": "2026-06-03",
+  "sub_indicator": "robustness",
+  "why": "Q3: ID regulation approved"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202605/mozambique-seeks-partner-for-mobile-digital-id-e-signature-rollout",
+  "title": "Mozambique seeks partner for mobile digital ID, e-signature rollout",
+  "publisher": "Biometric Update",
+  "published": "2026-05-26",
+  "sub_indicator": "robustness",
+  "why": "Q2: mobile ID tender"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099042226205030950/pdf/P172350-ea7be2a4-0727-4372-a851-4df42faaf183.pdf",
+  "title": "EDGE Implementation Status and Results Report",
+  "publisher": "World Bank",
+  "published": "2026",
+  "sub_indicator": "robustness",
+  "why": "Q3: IDs issued against target"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202601/mozambique-seeks-expert-services-to-support-mass-birth-id-registration",
+  "title": "Mozambique seeks expert services to support mass birth, ID registration",
+  "publisher": "Biometric Update",
+  "published": "2026-01-05",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3: ID registration tender"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099121923083051864/pdf/P1723501c027380ae1bed61d29ed6925415.pdf",
+  "title": "Projecto de Governação e Economia Digitais (EDGE) Aide Memória",
+  "publisher": "World Bank",
+  "published": "2023-12",
+  "sub_indicator": "robustness",
+  "why": "Q3/Q4: BI the only biometric, deduplicated record"
+ },
+ {
+  "url": "https://www.intic.gov.mz/wp-content/uploads/2023/04/DNIC-SISTEMA-DE-IDENTIFICACAO-CIVIL.pdf",
+  "title": "Sistema de Identidade Civil Electrónica à luz da nova Lei de Identificação Civil",
+  "publisher": "Direcção Nacional de Identificação Civil",
+  "published": "2023-03",
+  "sub_indicator": "robustness",
+  "why": "Q3/Q4: BI with fingerprints, 8.79m issued"
+ }
+]

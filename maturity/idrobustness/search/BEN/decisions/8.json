@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "biometric",
+ "fact": "Benin's national register holds more than 13 million people, each with a unique identifier, and its identity system uses an ABIS biometric system.",
+ "title": "Foundational identity 4",
+ "publisher": "ID4Africa",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

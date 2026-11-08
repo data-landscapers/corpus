@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.finances.gouv.cg/fr/articles/relance-des-op%C3%A9rations-de-production-de-la-carte-niu",
+  "title": "Relance des opérations de production de la carte NIU",
+  "publisher": "Ministère des finances, du budget et du portefeuille public",
+  "published": "2025-10-23",
+  "sub_indicator": "use",
+  "why": "Q1-Q3: interfaces with tax, customs, budget; NIU required across sectors"
+ },
+ {
+  "url": "https://www.niu.cg/node/188",
+  "title": "Jean-Baptiste Ondaye inaugure deux nouveaux Centres d'enrôlement et de production de cartes biométriques NIU",
+  "publisher": "Numéro d'Identification Unique (niu.cg)",
+  "published": "2023-06-20",
+  "sub_indicator": "use",
+  "why": "Q2/Q3: arrêté 25550 requires NIU for bank, telecom, social security, customs"
+ },
+ {
+  "url": "https://www.journaldebrazza.com/congo-ouverture-du-centre-denrolement-du-niu/",
+  "title": "Congo : ouverture du centre d'enrôlement du NIU",
+  "publisher": "Journal de Brazza",
+  "published": "2023-06-21",
+  "sub_indicator": "use",
+  "why": "Q2/Q3: NIU reference for customs, taxes, justice, interior"
+ },
+ {
+  "url": "https://www.journaldebrazza.com/congo-larpce-alerte-sur-la-baisse-du-taux-didentification-des-abonnes/",
+  "title": "Congo : l'ARPCE alerte sur la baisse du taux d'identification des abonnés",
+  "publisher": "Journal de Brazza",
+  "published": "2025-10-23",
+  "sub_indicator": "use",
+  "why": "Q2/Q4: SIM identification survey figures"
+ },
+ {
+  "url": "https://www.adiac-congo.com/content/telephonie-mobile-encore-des-efforts-dans-lidentification-des-abonnes-151138",
+  "title": "Téléphonie mobile : encore des efforts dans l'identification des abonnés",
+  "publisher": "ADIAC",
+  "published": "2023-08-31",
+  "sub_indicator": "use",
+  "why": "Q2/Q4: SIM identification checks"
+ },
+ {
+  "url": "https://fr.allafrica.com/stories/202601160394.html",
+  "title": "Congo-Brazzaville: Talangaï - Des documents d'identité remis à des ménages vulnérables",
+  "publisher": "allAfrica",
+  "published": "2026-01-16",
+  "sub_indicator": "use",
+  "why": "Q1/Q2: ID documents for social register enrolment"
+ },
+ {
+  "url": "https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi",
+  "title": "Architecture et Digital Public Infrastructure (DPI)",
+  "publisher": "MPTEN - République du Congo",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1: planned MOSIP identity and X-Road exchange"
+ },
+ {
+  "url": "https://www.innovatrics.com/references/multi-tenant-biometric-id-platform-transforms-healthcare-in-congo/",
+  "title": "Multi-Tenant Biometric ID Platform Transforms Healthcare in Congo",
+  "publisher": "Innovatrics",
+  "published": "2025-08-20",
+  "sub_indicator": "use",
+  "why": "Q2: health fund verification"
+ }
+]

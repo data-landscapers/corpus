@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "date_source": "source",
+ "why_not": "",
+ "aspect": "biometric",
+ "fact": "In June 2021 Guinea's WURI national ID project integrated the Tech5 ABIS with MOSIP for biometric enrolment and de-duplication using face, fingerprint and iris in the first implementation phase.",
+ "title": "Tech5 integrates biometric software with MOSIP platform for Guinea's national ID system",
+ "publisher": "Biometric Update",
+ "published": "2021-06-22"
+}

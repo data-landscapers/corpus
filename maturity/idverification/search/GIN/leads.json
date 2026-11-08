@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.guinee114.com/2026/05/22/guinee-une-plateforme-nationale-pour-certifier-les-identites-telecoms/",
+  "title": "Guinée : une plateforme nationale pour certifier les identités télécoms",
+  "publisher": "Guinee114.com",
+  "published": "2026-05-22",
+  "sub_indicator": "use",
+  "why": "Q1/Q2 SIM identity certification platform"
+ },
+ {
+  "url": "https://droitguineen.com/lois/decret-d-2026-161-prg-sgg-relative-aux-telecommunications-et-aux-technologies-de-l",
+  "title": "Décret D/2026/161 : Déploiement et exploitation d'une plateforme nationale de certification de l'identité",
+  "publisher": "Droitguinéen",
+  "published": "2026-05-21",
+  "sub_indicator": "use",
+  "why": "Q1/Q4 platform linked to national identity register; quarterly counts reported"
+ },
+ {
+  "url": "https://www.arpt.gov.gn/decret-d-2026-0161-prg-sgg-portant-deploiement-et-exploitation-dune-plateforme-nationale-de-certification-de-lidentite-des-detenteurs-de-cartes-sim-et-utilisateurs-des-services-produ/",
+  "title": "Décret D/2026/0161/PRG/SGG portant déploiement et exploitation d'une plateforme nationale de certification de l'identité des détenteurs de cartes SIM",
+  "publisher": "ARPT Guinée",
+  "published": "2026-06-22",
+  "sub_indicator": "use",
+  "why": "Q1 official publication of the SIM certification decree"
+ },
+ {
+  "url": "https://horoya.net/2026/07/25/guinee-loneci-et-ng-tech-innovation-sallient-pour-moderniser-lidentification-et-letat-civil/",
+  "title": "Guinée : l'ONECI et NG Tech Innovation s'allient pour moderniser l'identification et l'état civil",
+  "publisher": "Journal Horoya",
+  "published": "2026-07-25",
+  "sub_indicator": "use",
+  "why": "Q1 RNPP verification and interoperability platform, health and education"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099062824074521822/txt/P1613291fccacf0171ae3214c48de67efcb.txt",
+  "title": "WURI Program (P161329) restructuring paper",
+  "publisher": "World Bank",
+  "published": "2024",
+  "sub_indicator": "use",
+  "why": "Q4 digital authentications indicator; Guinea pilot"
+ },
+ {
+  "url": "https://archive.uneca.org/archive2/sites/default/files/TCND/WURI_GUINEE_BANJUL.pdf",
+  "title": "WURI Guinée - présentation",
+  "publisher": "WURI Guinée / UNECA",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1 fID integration pilot with e-learning platform, eKYC"
+ },
+ {
+  "url": "https://legisguinee.com/textes/loi-2023-019-identification-personnes-physiques",
+  "title": "Loi L/2023/019 portant identification des personnes physiques",
+  "publisher": "LégisGuinée",
+  "published": "2024-07-02",
+  "sub_indicator": "use",
+  "why": "Q2/Q3 RNPP consulted by public services and private sector"
+ }
+]

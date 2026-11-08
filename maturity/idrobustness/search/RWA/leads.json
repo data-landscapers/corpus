@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202610/new-world-bank-funding-to-support-rwandas-digital-id-rollout-crvs-digitization",
+  "title": "New World Bank funding to support Rwanda's digital ID rollout, CRVS digitization",
+  "publisher": "Biometric Update",
+  "published": "2026-10-12",
+  "sub_indicator": "robustness",
+  "why": "Q1-Q3: enrolment of 13.7M biometrics"
+ },
+ {
+  "url": "https://radiotv10.rw/en/over-7-2-million-rwandans-complete-biometric-enrolment-for-electronic-ids/",
+  "title": "Over 7.2 Million Rwandans Complete Biometric Enrolment for Electronic IDs",
+  "publisher": "RADIOTV10",
+  "published": "2026-09-01",
+  "sub_indicator": "robustness",
+  "why": "Q3: biometrics captured"
+ },
+ {
+  "url": "https://allafrica.com/stories/202511240180.html",
+  "title": "Rwanda: Inside Rwanda's Move to a Biometric Digital ID",
+  "publisher": "allAfrica / The New Times",
+  "published": "2025-11-24",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q3"
+ },
+ {
+  "url": "https://allafrica.com/stories/202603170328.html",
+  "title": "Rwanda: Digital IDs - How Registration Is Progressing So Far",
+  "publisher": "allAfrica / The New Times",
+  "published": "2026-03-16",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3"
+ },
+ {
+  "url": "https://id4africa.com/2026/files/T1-3-1-Rwanda-FINAL.pdf",
+  "title": "Rwanda's Journey to a Single Digital Identity",
+  "publisher": "ID4Africa",
+  "published": "2026",
+  "sub_indicator": "robustness",
+  "why": "Q1-Q3"
+ },
+ {
+  "url": "https://www.aiib.org/en/projects/details/2026/_download/Rwanda/PIMR_SBF_Rwanda_P000462_Digital-Acceleration-Project-Digital-Investment-for-Recovery-Resilience-and-Connectivity_No.7_December_2025_Public-Version.pdf",
+  "title": "Implementation Status Report No.7, Rwanda Digital Acceleration Project",
+  "publisher": "AIIB",
+  "published": "2025-12",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q4: cybersecurity audit framework indicator"
+ },
+ {
+  "url": "https://www.nida.gov.rw/fileadmin/user_upload/NIDA/Publications/OG_n___Special_of_15.06.2023_Iyandikwa_ry_abaturage_muri_sisitemu_imwe_y_Igihugu_indangamuntu_koranabuhanga.pdf",
+  "title": "Law N° 029/2023 population registration in the single digital identity system",
+  "publisher": "Official Gazette of Rwanda",
+  "published": "2023-06-15",
+  "sub_indicator": "robustness",
+  "why": "Q1-Q3: legal basis, unique number, biometrics"
+ }
+]

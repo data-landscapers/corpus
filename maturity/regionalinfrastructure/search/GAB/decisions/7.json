@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "shared",
+ "aspect": "service",
+ "fact": "Traffic was being exchanged between operators across the Gabon-Congo border as of December 2020 under an MOU, and Gabon is a member of the ACE submarine cable consortium, with an IXP and collocation centre active.",
+ "title": "Implementation Completion and Results Report: Fourth Phase of the Central African Backbone Program - Gabon Project",
+ "publisher": "World Bank Group",
+ "published": "2021-04-09",
+ "date_source": "source",
+ "why_not": ""
+}

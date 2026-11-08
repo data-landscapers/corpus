@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.undp.org/malawi/news/malawi-surpasses-13-million-national-id-registrations",
+  "title": "Malawi Surpasses 13.5 million National ID Registrations",
+  "publisher": "UNDP Malawi",
+  "published": "2026-07-08",
+  "sub_indicator": "robustness",
+  "why": "Q2: system in service"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202411/malawi-unveils-measures-to-expedite-id-issuance-for-biometric-voter-registration",
+  "title": "Malawi unveils measures to expedite ID issuance for biometric voter registration",
+  "publisher": "Biometric Update",
+  "published": "2024-11-25",
+  "sub_indicator": "robustness",
+  "why": "Q3: biometric uniqueness check"
+ },
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2026-01/malawi_nrb_strategic_plan_2025_web.pdf",
+  "title": "NRB Strategic Plan 2025-2030",
+  "publisher": "NRB / UNDP",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Q2-Q4: ABIS dedup, PKI, standards"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099100325093520180/pdf/P505095-a4c66f94-3385-4c95-b175-bfa83f2438df.pdf",
+  "title": "Official Use (World Bank project document)",
+  "publisher": "World Bank",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Q3/Q4: ABIS, PKI weaknesses"
+ },
+ {
+  "url": "https://mwnation.com/12-3-million-register-for-id-cards/",
+  "title": "12.3 million register for ID cards",
+  "publisher": "Nation Online",
+  "published": "2024-08-23",
+  "sub_indicator": "robustness",
+  "why": "Q2: in service"
+ },
+ {
+  "url": "https://www.nrb.gov.mw/faqs/",
+  "title": "NRB FAQs",
+  "publisher": "NRB",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Q3: duplicate detection"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202607/malawi-reaches-13-5m-digital-ids-as-universal-coverage-comes-into-view",
+  "title": "Malawi reaches 13.5M digital IDs",
+  "publisher": "Biometric Update",
+  "published": "2026-07-13",
+  "sub_indicator": "robustness",
+  "why": "Q2"
+ }
+]

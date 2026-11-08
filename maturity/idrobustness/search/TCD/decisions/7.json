@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "biometric",
+ "fact": "ANATS launched its integrated population and secure documents system (SIGPTS) on 22 January 2020, enrolling biographic and biometric data in a national register, with biometric identification to detect identity fraud and a unique NNI per person.",
+ "title": "Tchad: L'Anats lance l'identification biométrique",
+ "publisher": "Initiative sur le droit à la nationalité en Afrique (source: Ndjamena Hebdo)",
+ "published": "2020",
+ "date_source": "proxy",
+ "why_not": ""
+}

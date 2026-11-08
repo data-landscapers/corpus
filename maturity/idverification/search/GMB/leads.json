@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099102025103014657/pdf/P502279-e8627dee-4568-45e7-bb51-9a1aea1ff040.pdf",
+  "title": "World Bank ID & CRVS diagnostic, The Gambia",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "use",
+  "why": "Q1-Q3: sectoral systems vs ID"
+ },
+ {
+  "url": "https://thepoint.gm/africa/gambia/headlines/health-ministry-signs-mou-with-interior-to-harmonize-nis",
+  "title": "Health Ministry signs MOU with Interior to harmonize NIS",
+  "publisher": "The Point",
+  "published": "2024-03-26",
+  "sub_indicator": "use",
+  "why": "Q1: MoU for ID authentication of birth certificates"
+ },
+ {
+  "url": "https://www.worldbank.org/en/results/2024/03/28/afw-transformative-journey-of-mass-birth-registration-and-health-insurance-in-the-gambia",
+  "title": "A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia",
+  "publisher": "World Bank",
+  "published": "2024-03-28",
+  "sub_indicator": "use",
+  "why": "Q2,Q4: health insurance, task force"
+ },
+ {
+  "url": "https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-gambia.pdf",
+  "title": "Overview of Civil Registration and Vital Statistics in the Gambia",
+  "publisher": "UNECA APAI-CRVS",
+  "published": "2026",
+  "sub_indicator": "use",
+  "why": "Q2,Q4: figures"
+ },
+ {
+  "url": "https://gfrid.org/wp-content/uploads/2023/06/Diagnostics_TheGambia_2023_preliminary_release.pdf",
+  "title": "The Gambia country diagnostic",
+  "publisher": "GFRID",
+  "published": "2023",
+  "sub_indicator": "use",
+  "why": "Q2: KYC with ID"
+ },
+ {
+  "url": "https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/",
+  "title": "Barrow Inaugurates National Data Centre, Digital Identity System",
+  "publisher": "The Standard",
+  "published": "2026-07-01",
+  "sub_indicator": "use",
+  "why": "Q1: electronic verification across services"
+ },
+ {
+  "url": "https://dpimap.org/gambia/",
+  "title": "Gambia - DPI Map",
+  "publisher": "DPI Map",
+  "published": "2026-03",
+  "sub_indicator": "use",
+  "why": "Q1: status pilot"
+ }
+]

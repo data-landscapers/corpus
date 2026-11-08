@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "sectors",
+ "fact": "Kenya's 2026 digital identity playbook lists KRA tax, SHA/SHIF health, education systems, financial-sector e-KYC, SIM registration, immigration and social protection systems as connected to the population register, with an e-KYC platform verifying identities for public and private transactions.",
+ "title": "The Kenya Digital Identity Playbook: Identity as Foundation of Digital Public Infrastructure",
+ "publisher": "Republic of Kenya, State Department for Immigration and Citizen Services (ID4Africa AGM 2026)",
+ "published": "2026-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

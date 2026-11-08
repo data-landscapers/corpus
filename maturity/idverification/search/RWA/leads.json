@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.creodata.com/blog/digital-account-opening-nida-checks-rwanda/",
+  "title": "Digital Account Opening in Rwanda: Online ID Verification",
+  "publisher": "Creodata",
+  "published": "2026-10-13",
+  "sub_indicator": "use",
+  "why": "Bank directive 2025 requires real-time national ID verification"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202409/rwanda-conducts-pilot-to-implement-biometric-sim-registration-verification",
+  "title": "Rwanda conducts pilot to implement biometric SIM registration, verification",
+  "publisher": "Biometric Update",
+  "published": "2024-09-17",
+  "sub_indicator": "use",
+  "why": "SIM registration against NIDA pilot"
+ },
+ {
+  "url": "https://www.rura.rw/index.php?eID=dumpFile&f=140493&t=f&token=553b11e6ea553a8c0b5a478a30f1e84947e5556c",
+  "title": "Regulation governing SIM card registration in Rwanda",
+  "publisher": "RURA",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "SIM registration biometric verification against NIDA"
+ },
+ {
+  "url": "https://www.vitalstrategies.org/wp-content/uploads/DPI-Rwanda-CaseStudy.pdf",
+  "title": "DPI Rwanda case study",
+  "publisher": "Vital Strategies",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Banks, telecoms, social protection verify against ID"
+ },
+ {
+  "url": "https://allafrica.com/stories/202603270015.html",
+  "title": "Rwanda: Govt Sets 2027 Deadline for Full Shift to Digital ID",
+  "publisher": "allAfrica / The New Times",
+  "published": "2026-03-27",
+  "sub_indicator": "use",
+  "why": "Banks, hospitals, telcos expected to use SDID authentication"
+ },
+ {
+  "url": "https://www.mtn.co.rw/kyc-api/",
+  "title": "KYC API - MTN Rwanda",
+  "publisher": "MTN Rwanda",
+  "published": "2026-02-24",
+  "sub_indicator": "use",
+  "why": "KYC API against MTN records (likely other)"
+ },
+ {
+  "url": "https://id4africa.com/2026/files/T1-3-1-Rwanda-FINAL.pdf",
+  "title": "Rwanda's Journey to a Single Digital Identity",
+  "publisher": "ID4Africa",
+  "published": "2026",
+  "sub_indicator": "use",
+  "why": "Integrations with Irembo, health, education, eKYC"
+ }
+]

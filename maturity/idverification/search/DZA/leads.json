@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://lesenjeuxeco.dz/lancement-du-portail-national-des-services-numeriques-la-e-gouvernance-en-marche/",
+  "title": "Lancement du portail national des services numériques: La e-gouvernance en marche",
+  "publisher": "Les Enjeux Eco",
+  "published": "2026-07-14",
+  "sub_indicator": "use",
+  "why": "portal digital identity pre-registered with NIN + biometric authentication; CNAS etc"
+ },
+ {
+  "url": "https://news.prixalgerie.com/algerie-portail-national-services-numeriques-dzair-digital-services/",
+  "title": "إطلاق البوابة الوطنية الجزائرية للخدمات الرقمية",
+  "publisher": "PrixAlgerie News",
+  "published": "2026-07-06",
+  "sub_indicator": "use",
+  "why": "unified digital identity across ministries"
+ },
+ {
+  "url": "https://www.arpce.dz/fr/pub/p6n0r5",
+  "title": "Décision N° 06/PC/ARPCE/2026 du 18 fevrier 2026 fixant les conditions et modalités d'identification des abonnés",
+  "publisher": "ARPCE",
+  "published": "2026-04-28",
+  "sub_indicator": "use",
+  "why": "SIM subscriber identification rules"
+ },
+ {
+  "url": "https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-decentralisation-algeria.pdf",
+  "title": "EGMRG 2026 – Algérie, état civil et NIN",
+  "publisher": "UNECA APAI-CRVS",
+  "published": "2026",
+  "sub_indicator": "use",
+  "why": "2023 NIN adopted by justice, banks, social security, tax, education"
+ },
+ {
+  "url": "https://id4africa.com/2026/files/T2-3-S3-4-Algeria-FINAL.pdf",
+  "title": "Expérience Algérienne dans la sécurisation du processus de numérisation de l’état civil",
+  "publisher": "Ministère de l'Intérieur (Algérie), ID4Africa",
+  "published": "2026-05",
+  "sub_indicator": "use",
+  "why": "CNIBE used to authenticate on public service platforms"
+ },
+ {
+  "url": "https://www.lnr-dz.com/2023/09/24/les-dispositions-applicables-au-numero-didentification-national-definies-par-decret/",
+  "title": "Les dispositions applicables au numéro d’identification national définies par Décret",
+  "publisher": "La Nouvelle République",
+  "published": "2023-09-24",
+  "sub_indicator": "use",
+  "why": "government entities must interconnect and use NIN"
+ },
+ {
+  "url": "https://algeriatech.news/ar/algeria-digital-id-trust-services-law-electronic-identity-2025-ar/",
+  "title": "مشروع قانون خدمات الثقة في الجزائر",
+  "publisher": "ALGERIATECH",
+  "published": "2026-03-25",
+  "sub_indicator": "use",
+  "why": "trust services law, Dzair services portal"
+ },
+ {
+  "url": "https://dpimap.org/algeria/",
+  "title": "Algeria - DPI Map",
+  "publisher": "DPI Map",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "used across 2+ sectors"
+ }
+]

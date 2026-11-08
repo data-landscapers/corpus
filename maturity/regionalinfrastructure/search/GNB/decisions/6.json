@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "shared",
+ "aspect": "service",
+ "fact": "The World Bank's May 2023 completion report says the ACE submarine cable landing in Guinea-Bissau became operational in November 2022 and the Suro-Antula backbone linking it to the regional OMVG fibre network was completed by project closure.",
+ "title": "Implementation Completion and Results Report: West Africa Regional Communications Infrastructure Project SOP3, Guinea-Bissau",
+ "publisher": "World Bank",
+ "published": "2023-05-31",
+ "date_source": "source",
+ "why_not": ""
+}

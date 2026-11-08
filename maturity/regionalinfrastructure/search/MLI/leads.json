@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://aps.sn/bakel-inauguration-de-linterconnexion-des-backbones-du-senegal-et-du-mali/",
+  "title": "Bakel : inauguration de l'interconnexion des backbones du Sénégal et du Mali",
+  "publisher": "APS",
+  "published": "2026-10-06",
+  "sub_indicator": "shared",
+  "why": "Q3: Mali-Senegal state backbone link inaugurated 5 Oct 2026"
+ },
+ {
+  "url": "https://gouvernement.ml/cooperation-numerique-et-technologique-les-backbones-du-mali-et-du-senegal-sinterconnectent/",
+  "title": "Coopération Numérique et Technologique : Les backbones du Mali et du Sénégal s'interconnectent",
+  "publisher": "Information Gouvernementale du Mali",
+  "published": "",
+  "sub_indicator": "shared",
+  "why": "Q3: government account of the ROA-BN Mali-Senegal link in service"
+ },
+ {
+  "url": "https://www.maliweb.net/economie/telecom/fibre-optique-les-reseaux-publics-mali-senegal-interconnectes-3120465.html",
+  "title": "Fibre optique : les réseaux publics Mali-Sénégal interconnectés",
+  "publisher": "Maliweb",
+  "published": "2026-10-07",
+  "sub_indicator": "shared",
+  "why": "Q1/Q3: convention of 9-10 April 2026 between SMTD and SENUM, link commissioned"
+ },
+ {
+  "url": "https://developingtelecoms.com/telecom-technology/optical-fixed-networks/16949-guinea-and-mali-agree-to-interconnect-fibre-networks.html",
+  "title": "Guinea and Mali agree to interconnect fibre networks",
+  "publisher": "Developing Telecoms",
+  "published": "2024-07-03",
+  "sub_indicator": "shared",
+  "why": "Q1: SOGEB-SMTD interconnection agreement June 2024"
+ },
+ {
+  "url": "https://tic-guinee.net/guinee-mali-signature-de-convention-dinterconnexion-des-reseaux-fibres-optiques/",
+  "title": "Guinée-Mali : signature d'une convention d'interconnexion des réseaux Fibres Optiques",
+  "publisher": "TIC-GUINEE",
+  "published": "2024-06-28",
+  "sub_indicator": "shared",
+  "why": "Q1: Guinea-Mali convention signed 25-27 June 2024"
+ },
+ {
+  "url": "https://startupmedias.africa/articles/aes-feuille-de-route-numerique-an-ii-burkina-mali-niger",
+  "title": "Burkina, Mali, Niger : l'AES adopte sa feuille de route numérique commune",
+  "publisher": "Startup Medias",
+  "published": "2026-11-06",
+  "sub_indicator": "shared",
+  "why": "Q1: AES roadmap on shared infrastructure, NOC, joint bandwidth"
+ },
+ {
+  "url": "https://www.maliweb.net/technologie/mali-inauguration-dun-data-center-tier-iii-un-tournant-majeur-pour-la-souverainete-numerique-de-laes-3113579.html",
+  "title": "Mali : inauguration d'un Data Center Tier III, un tournant majeur pour la souveraineté numérique de l'AES",
+  "publisher": "Maliweb",
+  "published": "2026-02-01",
+  "sub_indicator": "shared",
+  "why": "Q3: Bamako data centre with AES ministers, shared use"
+ },
+ {
+  "url": "https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-mali-and-niger-plan-joint-digital-infrastructure-and-cybersecurity-agreements",
+  "title": "Burkina Faso, Mali and Niger Plan Joint Digital Infrastructure and Cybersecurity Agreements",
+  "publisher": "We are Tech",
+  "published": "2026-11-05",
+  "sub_indicator": "shared",
+  "why": "Q1: agreements to be signed 24-27 Nov 2026"
+ }
+]

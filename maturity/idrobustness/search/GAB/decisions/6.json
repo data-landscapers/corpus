@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "biometric",
+ "fact": "In May 2024 Gabonese enrolling for the unique 14-character NIP had to provide fingerprints, a digital photo and a signature at registration centres.",
+ "title": "Gabon: une campagne d'enregistrement pour le renouvellement des cartes d'identité",
+ "publisher": "RFI",
+ "published": "2024-05-05",
+ "date_source": "source",
+ "why_not": ""
+}

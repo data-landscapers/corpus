@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://times.co.sz/31079/news/id-card-services-resume-in-boost-for-citizens/",
+  "title": "ID card services resume in boost for citizens",
+  "publisher": "Times of Eswatini",
+  "published": "2026-02-22",
+  "sub_indicator": "robustness",
+  "why": "Q2: ID cards issued"
+ },
+ {
+  "url": "https://eswatinifinancialtimes.africa/6702/future/id-services-resume-as-pilot-project-rolls-out/",
+  "title": "ID Services resume as pilot project rolls out",
+  "publisher": "Eswatini Financial Times",
+  "published": "2026-01-19",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q2: pilot"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202508/robust-dpi-inevitable-for-eswatinis-economic-jobs-boom-world-bank",
+  "title": "Robust DPI inevitable for Eswatini's economic, jobs boom: World Bank",
+  "publisher": "Biometric Update",
+  "published": "2025-08-05",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q3: biometric auth recommended"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202407/eswatini-urged-to-digitize-national-id-system-with-regard-for-privacy-security-risks",
+  "title": "Eswatini urged to digitize national ID system with regard for privacy, security risks",
+  "publisher": "Biometric Update",
+  "published": "2024-07-25",
+  "sub_indicator": "robustness",
+  "why": "Q2: ID status"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099061826123027004/pdf/BOSIB-eeab9c88-27f5-404b-bf04-d448d9780618.pdf",
+  "title": "Project Appraisal Document (Digital Eswatini)",
+  "publisher": "World Bank",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q3/Q4: biometric ID upgrade financed"
+ },
+ {
+  "url": "https://eswatinipositivenews.online/eswatini-secures-e1-billion-digital-funding/",
+  "title": "Eswatini secures E1 billion digital funding",
+  "publisher": "Eswatini Positive News",
+  "published": "2026-07-19",
+  "sub_indicator": "robustness",
+  "why": "Q1: digital ID system to be established"
+ },
+ {
+  "url": "https://www.eswatiniobserver.com/ids-back-manzini-id-roll-out-falls-short/",
+  "title": "ID Production Resumes in Manzini but 60-Person Daily Limit Frustrates Citizens",
+  "publisher": "Eswatini Observer",
+  "published": "2026-02-24",
+  "sub_indicator": "robustness",
+  "why": "Q2: issuance"
+ },
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2024-12/dra_report_eswatini.pdf",
+  "title": "Digital Readiness Assessment Eswatini",
+  "publisher": "UNDP",
+  "published": "2024-12",
+  "sub_indicator": "robustness",
+  "why": "Q2: register with unique PINs"
+ }
+]

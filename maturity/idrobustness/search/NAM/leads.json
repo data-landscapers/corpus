@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202610/namibia-mps-press-government-on-security-access-and-reach-of-planned-digital-id",
+  "title": "Namibia MPs press government on security, access and reach of planned digital ID",
+  "publisher": "Biometric Update",
+  "published": "2026-10-08",
+  "why": "Q1/Q3/Q4: e-ID rollout, biometrics, security measures",
+  "sub_indicator": "robustness"
+ },
+ {
+  "url": "https://economist.com.na/government-briefs-lawmakers-on-new-digital-e-id-card/",
+  "title": "Government briefs lawmakers on new digital e-ID card",
+  "publisher": "Namibia Economist",
+  "published": "2026-10-07",
+  "why": "Q1: e-ID pilot approved 2023, legal framework",
+  "sub_indicator": "robustness"
+ },
+ {
+  "url": "https://informante.web.na/?p=398234",
+  "title": "Government to roll out electronic IDs in September to drive digital services",
+  "publisher": "Informante",
+  "published": "2026-07-25",
+  "why": "Q1/Q2: e-ID rollout, random ID number, population register",
+  "sub_indicator": "robustness"
+ },
+ {
+  "url": "https://technews.com.na/2026/06/18/namibia-targets-local-tech-firms-for-national-digital-id-platform/",
+  "title": "Namibia targets local tech firms for national digital ID",
+  "publisher": "TechNews Namibia",
+  "published": "2026-06-18",
+  "why": "Q1/Q3: e-ID procurement, fingerprints and photos",
+  "sub_indicator": "robustness"
+ },
+ {
+  "url": "http://www.namibiansun.com/nmh-hub/over-117-000-ids-issued-in-2025-nmh006942-1-7902",
+  "title": "Over 117 000 IDs issued in 2025",
+  "publisher": "Namibian Sun",
+  "published": "2026-03-16",
+  "why": "Q2: 117,175 IDs issued in 2025",
+  "sub_indicator": "robustness"
+ },
+ {
+  "url": "https://www.namibian.com.na/e-id-piloting-kicks-off-at-otjimbingwe/",
+  "title": "e-ID piloting kicks off at Otjimbingwe",
+  "publisher": "The Namibian",
+  "published": "2025-09-24",
+  "why": "Q1: e-ID pilot launched",
+  "sub_indicator": "robustness"
+ },
+ {
+  "url": "https://www.undp.org/namibia/blog/season-3-namibias-digital-identity-journey-vision-reality",
+  "title": "Season 3: Namibia's Digital Identity Journey - From Vision to Reality",
+  "publisher": "UNDP",
+  "published": "2025-09-03",
+  "why": "Q1/Q3: population register, biometric enrolment, e-ID",
+  "sub_indicator": "robustness"
+ },
+ {
+  "url": "https://doi.org/10.19088/ids.2025.062",
+  "title": "Digital-ID in Namibia: Country Report",
+  "publisher": "Institute of Development Studies",
+  "published": "2025-12-03",
+  "why": "Q1-Q4: country report on digital ID",
+  "sub_indicator": "robustness"
+ }
+]

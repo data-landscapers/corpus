@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "system",
+ "fact": "NIMC reported at least 127 million National Identification Numbers issued as of December 2025.",
+ "title": "NIN database hits 127 million enrolments nationwide, says NIMC",
+ "publisher": "The Nation",
+ "published": "2026-01-12",
+ "date_source": "source",
+ "why_not": ""
+}

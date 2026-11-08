@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "shared",
+ "aspect": "service",
+ "fact": "Djibouti Telecom states its terrestrial fibre link to Ethiopia, begun in August 2007, is the backbone for traffic between the two countries and carries about 1.5 Gbps, with a secondary route being built through Galafi.",
+ "title": "Ethiopia",
+ "publisher": "Djibouti Telecom",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

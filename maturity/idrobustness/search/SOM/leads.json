@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202611/somalia-puts-hubiye-national-id-verification-platform-into-operation",
+  "title": "Somalia puts Hubiye national ID verification platform into operation",
+  "publisher": "Biometric Update",
+  "published": "2026-11-02",
+  "sub_indicator": "robustness",
+  "why": "Q2: ID in service"
+ },
+ {
+  "url": "https://www.hiiraan.com/news4/2026/Sep/206316/somalia_registers_15_million_citizens_under_national_id_system.aspx",
+  "title": "Somalia registers 1.5 million citizens under national ID system",
+  "publisher": "Hiiraan Online",
+  "published": "2026-09-20",
+  "sub_indicator": "robustness",
+  "why": "Q2: enrolment count"
+ },
+ {
+  "url": "https://www.fikir.institute/reports/digital-public-infrastructure-brief.pdf",
+  "title": "Strengthening Digital Public Infrastructure in Somalia",
+  "publisher": "FIKIR Institute",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Q4: no published audits"
+ },
+ {
+  "url": "https://www.linkedin.com/posts/victormagana100_cybersecurity-iso27001-data-activity-7518873777036939264-Oq3Z",
+  "title": "Securing Somalia's Digital Future with ISO 27001",
+  "publisher": "LinkedIn (Victor Magana)",
+  "published": "2026-10-22",
+  "sub_indicator": "robustness",
+  "why": "Q4: ISO 27001 ISMS implementation at NIRA"
+ },
+ {
+  "url": "https://undpsomalia.exposure.co/from-exclusion-to-identity",
+  "title": "FROM EXCLUSION TO IDENTITY",
+  "publisher": "UNDP Somalia",
+  "published": "2026-01-15",
+  "sub_indicator": "robustness",
+  "why": "Q2: enrolment, biometric digital ID"
+ },
+ {
+  "url": "https://blogs.worldbank.org/en/nasikiliza/federal-republic-of-somalia-launches-mass-registration-drive-for-its-digital-id",
+  "title": "Federal Republic of Somalia launches mass registration drive for its Digital ID",
+  "publisher": "World Bank",
+  "published": "2025-09-17",
+  "sub_indicator": "robustness",
+  "why": "Q1-3: mass registration, biometrics for uniqueness"
+ },
+ {
+  "url": "https://id4africa.com/2026/files/T1-3-3-Somalia-FINAL.pdf",
+  "title": "Somali Digital Identity Playbook",
+  "publisher": "NIRA / ID4Africa",
+  "published": "2026",
+  "sub_indicator": "robustness",
+  "why": "Q2-3: biometric de-duplication"
+ },
+ {
+  "url": "https://nira.gov.so/nationalid",
+  "title": "National ID Registration",
+  "publisher": "NIRA",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Q3: fingerprint dedup"
+ }
+]

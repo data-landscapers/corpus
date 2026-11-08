@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "use",
+ "fact": "The ID4D diagnostic reports that the national ID card is mandatory to open a bank account, activate a SIM, join government assistance programmes and access basic health services, with banks and operators keeping a copy of the ID document, and that the ID system is not yet integrated with sector systems.",
+ "title": "Identification for Development (ID4D): Diagnostic of Identification and Civil Registration in Sao Tome and Principe",
+ "publisher": "World Bank",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

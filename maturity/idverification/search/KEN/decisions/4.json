@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "use",
+ "fact": "The Central Bank of Kenya's Guidance on Customer Due Diligence, effective 1 September 2025, gives as customer verification for banks the cross-check that the national ID number, serial number and name match the IPRS database.",
+ "title": "Guidance on Customer Due Diligence",
+ "publisher": "Central Bank of Kenya",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.lavicepress.org/post/el-gobierno-prepara-la-renovaci%C3%B3n-tecnol%C3%B3gica-de-cnedoge",
+  "title": "El Gobierno prepara la renovación tecnológica de CNEDOGE",
+  "publisher": "vicepress.org",
+  "published": "2026-10-16",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q4: CNEDOGE modernisation, data protection, assessment"
+ },
+ {
+  "url": "https://realequatorialguinea.com/sociedad/inician-trabajos-de-modernizacion-del-sistema-de-cnedoge/",
+  "title": "Inician trabajos de modernización del sistema de CNEDOGE",
+  "publisher": "Revista Real Equatorial Guinea",
+  "published": "2026-10-16",
+  "sub_indicator": "robustness",
+  "why": "Q1: CNEDOGE system modernisation for DIP"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202407/world-bank-identifies-priority-actions-for-dpi-in-equatorial-guinea",
+  "title": "World Bank identifies priority actions for DPI in Equatorial Guinea",
+  "publisher": "Biometric Update",
+  "published": "2024-07-15",
+  "sub_indicator": "robustness",
+  "why": "Q1-Q4: foundational ID gaps per World Bank"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/comparecencia_de_simeon_oyono_esono_ante_el_pleno_de_la_camara_de_los_diputados_para_presentar_propuestas_en_los_convenios_internacionales",
+  "title": "Comparecencia de Simeón Oyono Esono ante el Pleno de la Cámara de los Diputados",
+  "publisher": "Gobierno de Guinea Ecuatorial (guineaecuatorialpress.com)",
+  "published": "2026-05-13",
+  "sub_indicator": "robustness",
+  "why": "Q3: biometric capture of fingerprints, passports (7,706)"
+ },
+ {
+  "url": "https://realequatorialguinea.com/sociedad/cnedoge-advierte-a-la-poblacion-no-contratar-intermediarios-para-tramitar-documentos-oficiales/",
+  "title": "CNEDOGE advierte a la población no contratar intermediarios para tramitar documentos oficiales",
+  "publisher": "Revista Real Equatorial Guinea",
+  "published": "2025-10-23",
+  "sub_indicator": "robustness",
+  "why": "Q2: DIP issuance in service, fees"
+ },
+ {
+  "url": "https://ahoraeg.com/sociedad/2025/05/02/cnedoge-comunica-la-entrega-de-documentacion-a-los-ciudadanos-de-diferentes-localidades-de-la-parte-continental-del-pais/",
+  "title": "CNEDOGE comunica la entrega de documentación a los ciudadanos de diferentes localidades de la parte continental del país",
+  "publisher": "AHoraeg",
+  "published": "2025-05-02",
+  "sub_indicator": "robustness",
+  "why": "Q2: national identification tour, documents delivered"
+ },
+ {
+  "url": "https://realequatorialguinea.com/sociedad/cnedoge-suspende-provisionalmente-la-tramitacion-de-pasaportes-y-dip/",
+  "title": "CNEDOGE suspende provisionalmente la tramitación de pasaportes y DIP",
+  "publisher": "Revista Real Equatorial Guinea",
+  "published": "2023-06-15",
+  "sub_indicator": "robustness",
+  "why": "Q2: DIP issuance, verification weaknesses"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/reglamento_de_aplicacion_del_decreto_de_expedicion_del_pasaporte_biometrico_cemac",
+  "title": "Reglamento de aplicación del decreto de expedición del pasaporte biométrico CEMAC",
+  "publisher": "Gobierno de Guinea Ecuatorial (guineaecuatorialpress.com)",
+  "published": "2019-09-26",
+  "sub_indicator": "robustness",
+  "why": "Q3: passport number equals DIP number (2019)"
+ }
+]

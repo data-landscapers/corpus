@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "date_source": "source",
+ "why_not": "",
+ "aspect": "biometric",
+ "fact": "Law L/2023/019 creates the unique, lifelong personal identification number (NPI) determined to avoid duplicates, and provides for capture of face, ten fingerprints and both irises in the national register of natural persons.",
+ "title": "Loi L/2023/019 portant identification des personnes physiques en République de Guinée",
+ "publisher": "LégisGuinée",
+ "published": "2023-10-25"
+}

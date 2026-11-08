@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "system",
+ "fact": "ANID says a nationwide pilot called Proof of Concept began on 4 October 2023, registering about 2,000 people, collecting fingerprints and iris and issuing identification numbers and QR-code cards.",
+ "title": "Togo / Identification biométrique : la phase pilote en cours",
+ "publisher": "Agence Nationale d'Identification (ANID)",
+ "published": "",
+ "sub_indicator": "robustness",
+ "date_source": "proxy",
+ "why_not": ""
+}

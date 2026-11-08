@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://uasf.esccom.org.sz/programmes/connectivity-programmes/",
+  "title": "Connectivity Programmes",
+  "publisher": "Universal Access Service Fund, ESCCOM",
+  "published": "2023-10-03",
+  "sub_indicator": "shared",
+  "why": "Q2/Q3: UASF-EPTC redundancy route via Maputo over MOTRACO powerline fibre"
+ },
+ {
+  "url": "https://www.africa-press.net/eswatini/all-news/eptc-launches-first-optical-fiber-network",
+  "title": "EPTC launches first optical fiber network",
+  "publisher": "Africa-Press Eswatini",
+  "published": "2023-06-22",
+  "sub_indicator": "shared",
+  "why": "Q2: Power Line Optic Fiber project connecting via Motraco infrastructure"
+ },
+ {
+  "url": "https://360mozambique.com/innovation/telecom/mozambique-and-eswatini-communications-regulators-sign-cooperation-agreement/",
+  "title": "Mozambique and Eswatini Communications Regulators Sign Cooperation Agreement",
+  "publisher": "360 Mozambique",
+  "published": "2023-06-21",
+  "sub_indicator": "shared",
+  "why": "Q1: regulators' cooperation agreement incl. interconnection"
+ },
+ {
+  "url": "https://www.insidebiz.co.sz/eswatini-hosts-2023-sadc-internet-exchange-point-peering-forum/",
+  "title": "Eswatini Hosts 2023 SADC Internet Exchange Point Peering Forum",
+  "publisher": "Inside Biz",
+  "published": "2023-10-25",
+  "sub_indicator": "shared",
+  "why": "Q3: regional IXP programme"
+ },
+ {
+  "url": "https://independentnews.co.sz/8823/business/eptc-eec-collaborate-to-utilize-same-fiber-infrastructure/",
+  "title": "EPTC, EEC collaborate to utilize same fiber infrastructure",
+  "publisher": "Independent News Eswatini",
+  "published": "2022-03-27",
+  "sub_indicator": "shared",
+  "why": "Q1/Q2: powerline fibre"
+ },
+ {
+  "url": "https://eswatinipositivenews.online/eptc-infrastructure-rebuild-project-96-complete/",
+  "title": "EPTC Infrastructure Rebuild Project 96% Complete",
+  "publisher": "Eswatini Positive News",
+  "published": "2026-07-19",
+  "sub_indicator": "shared",
+  "why": "Q3: cross-border capacity upgrade"
+ },
+ {
+  "url": "https://www.insidebiz.co.sz/eswatini-targets-120000-homes-in-national-fibre-rollout/",
+  "title": "Eswatini Targets 120,000 Homes in National Fibre Rollout",
+  "publisher": "Inside Biz",
+  "published": "2026-02-15",
+  "sub_indicator": "shared",
+  "why": "Q3: cross-border connectivity capacity"
+ }
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.finances.gouv.cg/fr/articles/relance-des-op%C3%A9rations-de-production-de-la-carte-niu",
+  "title": "Relance des opérations de production de la carte NIU",
+  "publisher": "Ministère des finances, du budget et du portefeuille public",
+  "published": "2025-10-23",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3: NIU issued with iris and fingerprints"
+ },
+ {
+  "url": "https://www.sofrecom.com/en/news-insights/congo-will-soon-boast-a-national-digital-identification-system.html",
+  "title": "Congo will soon boast a national digital identification system",
+  "publisher": "Sofrecom",
+  "published": "2024-11-13",
+  "sub_indicator": "robustness",
+  "why": "Q1: feasibility study for national digital ID"
+ },
+ {
+  "url": "https://www.aci.cg/congo-numerique-mise-en-place-dun-systeme-didentite-numerique-pour-securiser-les-donnees-personnelles/",
+  "title": "Congo/Numérique : Mise en place d'un système d'identité numérique pour sécuriser les données personnelles",
+  "publisher": "Agence Congolaise d'information",
+  "published": "2025-07-17",
+  "sub_indicator": "robustness",
+  "why": "Q1: national digital ID workshop"
+ },
+ {
+  "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/117585/COG-117585.pdf",
+  "title": "Décret n° 2024-2692 du 13 novembre 2024 modifiant le décret n° 2009-57 portant création de la carte nationale d'identité informatisée et sécurisée",
+  "publisher": "Journal officiel de la République du Congo",
+  "published": "2024-11-13",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3: CNI with fingerprints"
+ },
+ {
+  "url": "https://congolive11.com/diata-ruee-citoyenne-pour-la-nouvelle-cni/",
+  "title": "Enrôlement CNI à Diata: enjeux et bilan",
+  "publisher": "Congolive11",
+  "published": "2025-11-04",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3: CNI fingerprint enrolment"
+ },
+ {
+  "url": "https://www.finances.gouv.cg/fr/nouveau-niu_100820",
+  "title": "Mise en production du nouveau Numéro d'Identification Unique (NIU)",
+  "publisher": "Ministère des finances, du budget et du portefeuille public",
+  "published": "2020-08-10",
+  "sub_indicator": "robustness",
+  "why": "Q3: biometrics prevent multiple NIUs"
+ },
+ {
+  "url": "https://evidoria.eu/practice/camucnsss-multi-tenant-biometric-abis-the-republic-of-congo-deduplicates-universal-health-insurance-enrolment/",
+  "title": "CAMU/CNSS's Multi-Tenant Biometric ABIS",
+  "publisher": "Evidoria",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Q3: sectoral ABIS"
+ },
+ {
+  "url": "https://anssi.cg/publications/articles/cybersecurite-les-acteurs-nationaux-valident-le-projet-de-referentiel-des-prestataires-daudit-de-la-securite-des-systemes-dinformation-re-passi",
+  "title": "Cybersécurité : les acteurs nationaux valident le projet de référentiel RE-PASSI",
+  "publisher": "ANSSI Congo",
+  "published": "2026-07-29",
+  "sub_indicator": "robustness",
+  "why": "Q4: audit framework"
+ }
+]

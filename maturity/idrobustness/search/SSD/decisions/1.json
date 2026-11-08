@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "biometric",
+ "fact": "The World Bank ID4D diagnostic of May 2026 states that South Sudan's Nationality Certificate and National Identity Card are issued by DCRNPI through the same system and require biometric and biographic data capture, that the system is run by an external vendor under a build-operate-transfer arrangement, and that an August 2024 IT breakdown interrupted issuance of passports and nationality certificates.",
+ "title": "Country Diagnostic: South Sudan",
+ "publisher": "The World Bank",
+ "published": "2026-05",
+ "date_source": "source",
+ "why_not": ""
+}

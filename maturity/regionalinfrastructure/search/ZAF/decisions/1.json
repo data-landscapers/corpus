@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "shared",
+ "aspect": "service",
+ "fact": "WACREN is directly interconnected with the Eastern and Southern African research networks at the ZAOXI exchange point in Cape Town through SANReN and TENET, over a new 10 Gbps Lagos-Cape Town link (2025).",
+ "title": "Africa's research and education networks achieve historic Lagos-Cape Town interconnection",
+ "publisher": "WACREN",
+ "published": "2025-10-17",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "assurance",
+ "fact": "In May 2026 the Sudanese Cybersecurity Authority stated that SUDAPASS undergoes periodic security reviews and testing, with encryption keys and certificates managed by the National Authority for Digital Certification.",
+ "title": "Press Statement: Sudanese Cybersecurity Authority (SCA)",
+ "publisher": "Sudanese Cybersecurity Authority",
+ "published": "2026-05-29",
+ "date_source": "source",
+ "why_not": ""
+}

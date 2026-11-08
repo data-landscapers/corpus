@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "use",
+ "fact": "Regulation No 18/R/SM-ICT/RURA/2024 of 09/08/2024 requires licensees to verify citizens' fingerprint or face biometrics against NIDA records when registering SIM cards.",
+ "title": "Regulation No 18/R/SM-ICT/RURA/2024 governing SIM card registration in Rwanda",
+ "publisher": "Rwanda Utilities Regulatory Authority (RURA)",
+ "published": "2024-08-09",
+ "date_source": "source",
+ "why_not": ""
+}

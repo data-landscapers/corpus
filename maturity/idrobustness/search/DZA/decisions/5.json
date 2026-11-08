@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "system",
+ "fact": "An executive decree published in Journal officiel no. 60 defines the national identification number (NIN) as a personal, permanent, unchangeable number of 18 digits, attributed to citizens and resident foreigners.",
+ "title": "Les dispositions applicables au numéro d’identification national définies par Décret",
+ "publisher": "La Nouvelle République",
+ "published": "2023-09-24",
+ "date_source": "proxy",
+ "why_not": ""
+}

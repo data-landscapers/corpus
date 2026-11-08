@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "sectors",
+ "fact": "Mauritania's national health insurance fund (CNAM) began a pilot in October 2024, extended to all public and private partner structures in January 2025, identifying insured people biometrically through secure API interconnection with the ANRPTS and the national identity card.",
+ "title": "Système d'identification biométrique des assurés lors de leurs accès aux prestations",
+ "publisher": "Association internationale de la sécurité sociale (AISS)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

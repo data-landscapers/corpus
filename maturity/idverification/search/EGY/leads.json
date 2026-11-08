@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.fintechgate.net/256737",
+  "title": "الرقابة المالية: طفرة في استخدام التحقق الإلكتروني «e-KYC»",
+  "publisher": "بوابة التكنولوجيا المالية",
+  "published": "2026-11-07",
+  "sub_indicator": "use",
+  "why": "Q4: FRA reports 1.727 million e-KYC verifications by end Oct 2026"
+ },
+ {
+  "url": "https://www.fintechgate.net/253451",
+  "title": "«تنظيم الاتصالات» المصري: بدء التطبيق التجريبي للهوية الرقمية مع شركات المحمول الأربع",
+  "publisher": "بوابة التكنولوجيا المالية",
+  "published": "2026-10-03",
+  "sub_indicator": "use",
+  "why": "Q1/Q2: NTRA biometric verification piloted with four operators, checked against civil status"
+ },
+ {
+  "url": "https://www.fintechgate.net/252500",
+  "title": "«هوية» تبدأ تشغيل الهوية الرقمية مع 5 بنوك",
+  "publisher": "بوابة التكنولوجيا المالية",
+  "published": "2026-09-22",
+  "sub_indicator": "use",
+  "why": "Q1/Q2: Haweya starts with 5 banks, verifies against civil status data"
+ },
+ {
+  "url": "https://www.bakermckenzie.com/en/insight/publications/2026/09/egypt-new-digital-financial-identity-system-rules-for-ekyc",
+  "title": "Egypt: New Digital Financial Identity System Rules for E-KYC",
+  "publisher": "Baker McKenzie",
+  "published": "2026-09-02",
+  "sub_indicator": "use",
+  "why": "Q1/Q2: CBE rules of 23 Aug 2026 connect Haweya to Civil Status Authority"
+ },
+ {
+  "url": "https://english.ahram.org.eg/NewsContent/1/2/574745/Egypt/Society/-mln-Egyptians-turn-to-SIM-verification-service-in.aspx",
+  "title": "5 mln Egyptians turn to SIM verification service in 7 days amid data misuse concerns",
+  "publisher": "Ahram Online",
+  "published": "2026-08-17",
+  "sub_indicator": "use",
+  "why": "Q4: Araqamy lookup users rose from 7 to 12 million"
+ },
+ {
+  "url": "https://www.zawya.com/en/economy/egypt-launches-biometric-verification-system-for-remote-digital-services-467752",
+  "title": "Egypt launches biometric verification system for remote digital services",
+  "publisher": "Zawya",
+  "published": "2026-08-26",
+  "sub_indicator": "use",
+  "why": "Q1/Q2: biometric verification platform integrated with Civil Status Sector, pilot"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202511/egypt-rolls-out-digital-id-platform-to-scale-up-financial-inclusion",
+  "title": "Egypt rolls out digital ID platform to scale up financial inclusion",
+  "publisher": "Biometric Update",
+  "published": "2025-11-13",
+  "sub_indicator": "use",
+  "why": "Q1/Q2: Haweya eKYC for 37 banks, SIM purchase"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099060624125531275/pdf/BOSIB169cd52710ff1abfc17842717d1e22.pdf",
+  "title": "Implementation Completion and Results Report (Takaful and Karama)",
+  "publisher": "World Bank",
+  "published": "2024",
+  "sub_indicator": "use",
+  "why": "Q2/Q3: Unified National Registry links 114 databases via national ID; social protection cross-check"
+ }
+]

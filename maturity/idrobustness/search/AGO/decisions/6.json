@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "biometric",
+ "fact": "The World Bank's 2025 ID4D diagnostic says at least 15,683,275 Angolans possess an ID, that civil ID data collection including biometrics is performed digitally, and that the government is preparing a digital ID layer with varying levels of assurance.",
+ "title": "Identification for Development (ID4D): Diagnostic of ID Systems in Angola",
+ "publisher": "World Bank",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "biometric",
+ "fact": "The June 2021 Project Appraisal Document for Digital Gabon plans a Biometric Registry of Physical Persons issuing a unique NIP whose uniqueness is established by automated fingerprint deduplication through an ABIS, and records that a 2011 biometric deduplication reform of the ID card ended in 2014.",
+ "title": "Project Appraisal Document on a proposed loan to the Gabonese Republic for a Digital Gabon Project",
+ "publisher": "World Bank Group",
+ "published": "2021-06-15",
+ "date_source": "source",
+ "why_not": ""
+}

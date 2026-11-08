@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://hurimoney.odoo.com/faq",
+  "title": "Wakati | Mobile Money Comores - FAQ",
+  "publisher": "Huri Money",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Mobile money KYC requires CNI or passport"
+ },
+ {
+  "url": "https://www.mvola.km/particuliers/",
+  "title": "MVola Particuliers",
+  "publisher": "MVola (Telco Money)",
+  "published": "2025-01-16",
+  "sub_indicator": "use",
+  "why": "Mobile money KYC requires CNI"
+ },
+ {
+  "url": "https://www.mvola.km/wp-content/uploads/2026/11/Conditions-Generales-Utilisation.pdf",
+  "title": "Conditions Générales d'Utilisation MVola",
+  "publisher": "Telco Money S.A.",
+  "published": "2026",
+  "sub_indicator": "use",
+  "why": "KYC verification of ID validity"
+ },
+ {
+  "url": "https://simiz.io/blog/plafonds-kyc-mobile-money-comores-2026",
+  "title": "Plafonds Mobile Money aux Comores 2026 : KYC et limites",
+  "publisher": "Simiz",
+  "published": "2026-10-14",
+  "sub_indicator": "use",
+  "why": "KYC tiers using CNI"
+ },
+ {
+  "url": "https://smile.id/countries/comoros",
+  "title": "Comoros KYC & AML Compliance",
+  "publisher": "Smile ID",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "vendor page on ID types"
+ },
+ {
+  "url": "https://www.wearetech.africa/fr/fils/actualites/tech/les-comores-lancent-la-numerisation-de-leur-etat-civil",
+  "title": "Les Comores lancent la numérisation de leur état civil",
+  "publisher": "We are Tech",
+  "published": "2026-03-27",
+  "sub_indicator": "use",
+  "why": "NIP interoperability plan"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202508/regional-dpi-initiative-supports-kyc-digital-id-interoperability-across-16-countries",
+  "title": "Regional DPI initiative supports KYC, digital ID interoperability across 16 countries",
+  "publisher": "Biometric Update",
+  "published": "2025-08-26",
+  "sub_indicator": "use",
+  "why": "SADC eKYC initiative incl Comoros"
+ },
+ {
+  "url": "https://anaden.org/realisations?page=1",
+  "title": "Réalisations - ANADEN",
+  "publisher": "ANADEN",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Data centre to support digital identity"
+ }
+]

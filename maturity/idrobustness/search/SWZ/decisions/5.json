@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "system",
+ "fact": "The World Bank's June 2026 appraisal of the Digital Eswatini project says national ID coverage is 85-90 percent with no systematic verification against the National Population Register, and plans US$5.5 million for biometric identification management systems, enrolment devices and secure credentials with an authentication service.",
+ "title": "Project Appraisal Document: Digital Eswatini Project (P508948)",
+ "publisher": "World Bank",
+ "published": "2026-06-08",
+ "date_source": "source",
+ "why_not": ""
+}

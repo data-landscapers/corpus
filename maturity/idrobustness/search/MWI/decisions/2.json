@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "biometric",
+ "fact": "NRB said in a 21 November 2024 statement that its central system automatically checks each new entry's biometrics against existing data for uniqueness, with adjudication and deduplication, before assigning a unique national ID number.",
+ "title": "Malawi unveils measures to expedite ID issuance for biometric voter registration",
+ "publisher": "Biometric Update",
+ "published": "2024-11-25",
+ "date_source": "source",
+ "why_not": ""
+}

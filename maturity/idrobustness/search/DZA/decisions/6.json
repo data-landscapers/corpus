@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "assurance",
+ "fact": "The CNIBE card runs the Sealys ID Motion operating system, stated to have obtained a Common Criteria certificate including EAL7 assurances, with Match-on-Card fingerprint verification.",
+ "title": "La CNIBE : une technologie inexploitée",
+ "publisher": "GAAN",
+ "published": "2022-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

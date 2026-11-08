@@ -12,6 +12,9 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-08 05:19 · **REBUILD** · 18m · idverification use: 47 cells reassessed, 7 moved; 54 searched, 93 staged; ~67M tokens (three shared 200M) - ok
+2026-11-08 05:19 · **REBUILD** · 18m · idrobustness robustness: 47 cells reassessed, 5 moved; 54 searched, 108 staged; ~67M tokens (three shared 200M) - ok
+2026-11-08 05:19 · **REBUILD** · 18m · regionalinfrastructure shared: 54 cells reassessed, 26 moved; 54 searched, 118 staged; ~67M tokens (three shared 200M) - ok
 2026-11-08 05:10 · **BUILD** · 1h38m · catalogue 38,381; 263 sources, 51 units, 25 moved, 56 minted, 58 status; data centres 3; maturity 4,607 selected, 457 read, 45 moved; budgets: poll, none waiting; bulletin 7; register 9; prose gate 0 - ok
 2026-11-07 11:23 · **MATURITY-STUDY** · unclocked · regionalinfrastructure redesigned on Bill's word (message 78): links, exchanges and data storage shared under a joint arrangement; transit cables and foreign peering alone no longer count. Adopted at tonight's rebuild, queued first
 2026-11-07 04:42 · **INDEX** · unclocked · research index: stopped by the low-memory reaper before the first batch, 5,884 behind; message 102 updated - errored

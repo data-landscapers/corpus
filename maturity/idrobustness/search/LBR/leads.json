@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202611/revenue-sharing-data-sovereignty-concerns-arise-from-liberia-id-card-concession",
+  "title": "Revenue-sharing, data sovereignty concerns arise from Liberia ID card concession",
+  "publisher": "Biometric Update",
+  "published": "2026-11-05",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q4: concession under review; audits called for"
+ },
+ {
+  "url": "https://www.liberianobserver.com/news/national-id-deal-under-scrutiny-over-revenue-data-security/article_e4054c6e-5002-438d-ad8d-761fdecadc47.html",
+  "title": "National ID Deal Under Scrutiny Over Revenue, Data Security",
+  "publisher": "Liberian Observer",
+  "published": "2026-11-02",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q2: issuance suspended, 14% registered"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202609/liberia-to-link-national-id-crvs-in-planned-infrastructure-upgrade",
+  "title": "Liberia to link national ID, CRVS in planned infrastructure upgrade",
+  "publisher": "Biometric Update",
+  "published": "2026-09-14",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q3: new system with biometric dedup planned"
+ },
+ {
+  "url": "https://newnarratives.org/stories/tetee-gebro-stories/national-id-card-rollout-continues-to-be-held-up-by-1-7-million-unpaid-government-debt/",
+  "title": "National ID Card Rollout Continues to Be Held Up by $1.7 Million Unpaid Government Debt",
+  "publisher": "New Narratives",
+  "published": "2026-03-20",
+  "sub_indicator": "robustness",
+  "why": "Q2: 640,000 enrolled, system locked"
+ },
+ {
+  "url": "https://gnnliberia.com/nir-outlines-milestones-and-challenges-under-executive-order-147/",
+  "title": "NIR Outlines Milestones and Challenges Under Executive Order #147",
+  "publisher": "Global News Network Liberia",
+  "published": "2025-06-06",
+  "sub_indicator": "robustness",
+  "why": "Q2: 759,223 registered, unique SSN-linked cards"
+ },
+ {
+  "url": "https://odti-lr.net/Liberia-National-Digital-Strategy.pdf",
+  "title": "Liberia National Digital Strategy",
+  "publisher": "Government of Liberia",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3: NIR biometric ID cards, 15% coverage, no DR site"
+ },
+ {
+  "url": "https://id4africa.com/2024/ps2/PS2-4-Liberia-Final.pdf",
+  "title": "NIR Liberia presentation, ID4Africa 2024",
+  "publisher": "National Identification Registry",
+  "published": "2024",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3: de-duplication process, 14% coverage"
+ },
+ {
+  "url": "https://nir.gov.lr/index.php/about/faq",
+  "title": "Frequently Asked Questions about the National Identification Registry",
+  "publisher": "National Identification Registry",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Q3: AFIS fingerprint duplicate check"
+ }
+]

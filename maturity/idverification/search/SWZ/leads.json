@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.centralbank.org.sz/wp-content/uploads/2021/04/Deputy-Governors-Speech-The-Nexus-between-AML-CFT-and-Financial-Inclusion-February-2025.pdf",
+  "title": "Deputy Governor's Speech - The Nexus Between AML/CFT and Financial Inclusion",
+  "publisher": "Central Bank of Eswatini",
+  "published": "2025-02-26",
+  "sub_indicator": "use",
+  "why": "Q2: banks verify against civil registry"
+ },
+ {
+  "url": "https://www.ecofinagency.com/news-digital/0110-49197-eswatini-central-bank-launches-e-kyc-platform-to-support-financial-inclusion",
+  "title": "Eswatini Central Bank Launches e-KYC Platform",
+  "publisher": "Ecofin Agency",
+  "published": "2025-10-01",
+  "sub_indicator": "use",
+  "why": "Q2/Q1: e-KYC registry"
+ },
+ {
+  "url": "https://swazi24.com/26817/business/banking/central-bank-moves-ahead-with-e-kyc-system/",
+  "title": "Central Bank moves ahead with e-KYC system",
+  "publisher": "Swazi24",
+  "published": "2025-09-26",
+  "sub_indicator": "use",
+  "why": "Q1: e-KYC registry being built"
+ },
+ {
+  "url": "https://times.co.sz/26348/business/eswatini-embarks-on-national-e-kyc-system/",
+  "title": "Eswatini embarks on national e-KYC system",
+  "publisher": "Times of Eswatini",
+  "published": "2025-09-30",
+  "sub_indicator": "use",
+  "why": "Q1: e-KYC"
+ },
+ {
+  "url": "https://eswatinipositivenews.online/birth-certificate-now-enough-to-register-mtn-sim-card-sboniso-dlamini/",
+  "title": "Birth certificate now enough to register MTN SIM card",
+  "publisher": "Eswatini Positive News",
+  "published": "2026-08-19",
+  "sub_indicator": "use",
+  "why": "Q2: SIM registration"
+ },
+ {
+  "url": "https://myafrikamag.com/eswatini-launches-game-changing-government-in-your-hand-mobile-app/",
+  "title": "Eswatini Launches Government In Your Hand Mobile App",
+  "publisher": "My Afrika Magazine",
+  "published": "2025-05-21",
+  "sub_indicator": "use",
+  "why": "Q2: app registration with national ID"
+ },
+ {
+  "url": "https://afi-global.org/wp-content/uploads/2024/10/Eswatini-National-Financial-Inclusion-Strategy-2023-2028.pdf",
+  "title": "Eswatini National Financial Inclusion Strategy 2023-2028",
+  "publisher": "Council for Financial Inclusion / AFI",
+  "published": "2023",
+  "sub_indicator": "use",
+  "why": "Q1: MoHA pilots with banks linking ID registry"
+ },
+ {
+  "url": "https://times.co.sz/28853/business/fintech-strategy-to-transform-eswatinis-digital-future/",
+  "title": "FinTech Strategy to transform Eswatini's digital future",
+  "publisher": "Times of Eswatini",
+  "published": "2025-12-06",
+  "sub_indicator": "use",
+  "why": "Q4: 500,000 digital KYC target"
+ }
+]

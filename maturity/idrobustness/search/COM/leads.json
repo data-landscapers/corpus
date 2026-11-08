@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202603/genkey-takes-over-biometric-passport-national-id-card-production-in-comoros",
+  "title": "GenKey takes over biometric passport, national ID card production in Comoros",
+  "publisher": "Biometric Update",
+  "published": "2026-03-09",
+  "sub_indicator": "robustness",
+  "why": "ID in service, biometric, contract change"
+ },
+ {
+  "url": "https://dgpsn.km/actualite.php?actu_id=34",
+  "title": "Revue de la Cérémonie officielle de passation - Production des passeports et cartes biométriques",
+  "publisher": "DGPSN",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Official handover Semlex to GenKey"
+ },
+ {
+  "url": "https://beit-salam.km/actualit%C3%A9s/conseil-des-ministres-du-11-mars-2026-des-initiatives-pour-l%E2%80%99agriculture,-la-s%C3%A9curit%C3%A9,-l%E2%80%99innovation-et-l%E2%80%99environnement.html",
+  "title": "Conseil des ministres du 11 mars 2026",
+  "publisher": "Beit-Salam (Présidence)",
+  "published": "2026-03-12",
+  "sub_indicator": "robustness",
+  "why": "Enrolment for ID cards suspended during provider change"
+ },
+ {
+  "url": "https://justice.gouv.km/texte/decret-n14-137-pr-portant-promulgation-de-la-loi-n14-023-au-instituant-la-carte-didentite-comorienne-numerique/",
+  "title": "Décret n°14-137/PR promulguant la loi n°14-023/AU instituant la carte d'identité comorienne numérique",
+  "publisher": "Ministère de la Justice",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Legal basis of biometric ID card"
+ },
+ {
+  "url": "https://dpimap.org/comoros/",
+  "title": "Comoros - DPI Map",
+  "publisher": "DPI Map",
+  "published": "2024-10",
+  "sub_indicator": "robustness",
+  "why": "Digital ID implementation status NA"
+ },
+ {
+  "url": "https://worldphotospecs.org/comoros/id-card-photo",
+  "title": "Comoros ID Card Photo Size & Requirements",
+  "publisher": "WorldPhotoSpecs",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Card features, national ID number"
+ },
+ {
+  "url": "https://www.wearetech.africa/fr/fils/actualites/tech/les-comores-lancent-la-numerisation-de-leur-etat-civil",
+  "title": "Les Comores lancent la numérisation de leur état civil",
+  "publisher": "We are Tech",
+  "published": "2026-03-27",
+  "sub_indicator": "robustness",
+  "why": "Planned unique personal ID number"
+ },
+ {
+  "url": "https://alwatwan.net/societe/d%C3%A9centralisation/projet-amecc-i-vers-la-%C2%ABmodernisation-de-l%E2%80%99%C3%A9tat-civil%C2%BB.html",
+  "title": "Projet Amecc : vers la modernisation de l'état-civil",
+  "publisher": "Al-Watwan",
+  "published": "2026-03-26",
+  "sub_indicator": "robustness",
+  "why": "Civil registry digitisation"
+ }
+]

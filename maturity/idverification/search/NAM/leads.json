@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/fb/fb58919e-0b44-4ba0-91af-db9fb8c107fe.pdf",
+  "title": "Welcoming remarks by the Governor of the Bank of Namibia, 4 June 2024",
+  "publisher": "Bank of Namibia",
+  "published": "2024-06-04",
+  "why": "Q1: e-KYC prototype against Home Affairs databases",
+  "sub_indicator": "use"
+ },
+ {
+  "url": "https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-namibia.pdf",
+  "title": "Day 2 - Interoperability - Namibia",
+  "publisher": "UNECA APAI-CRVS",
+  "published": "",
+  "why": "Q2/Q3: social protection and EIG verified against NPRS",
+  "sub_indicator": "use"
+ },
+ {
+  "url": "https://economist.com.na/legal-identity-for-all-what-can-madagascar-learn-from-namibia/",
+  "title": "Legal identity for all: What can Madagascar learn from Namibia?",
+  "publisher": "Namibia Economist",
+  "published": "2023-10-13",
+  "why": "Q2: NPRS links registries via X-Road; EIG validation",
+  "sub_indicator": "use"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202507/namibia-weighs-biometrics-options-for-foundation-of-instant-payment-system",
+  "title": "Namibia weighs biometrics options for foundation of instant payment system",
+  "publisher": "Biometric Update",
+  "published": "2025-07-01",
+  "why": "Q1: instant payments onboarding against national registration database",
+  "sub_indicator": "use"
+ },
+ {
+  "url": "https://namibiabusinessreview.com/namibia-introduces-e-id-syncing-healthcareeducation-and-banking/",
+  "title": "Namibia introduces e-ID syncing healthcare, education and banking",
+  "publisher": "Namibia Business Review",
+  "published": "2025-06-22",
+  "why": "Q1/Q3: e-ID for verification across sectors",
+  "sub_indicator": "use"
+ },
+ {
+  "url": "https://www.parliament.na/wp-content/uploads/2024/08/Explanatory_Memorandum_Civil_Registration_and_Identification_Bill.pdf",
+  "title": "Explanatory Memorandum to the Civil Registration and Identification Bill, 2024",
+  "publisher": "Parliament of Namibia",
+  "published": "2024",
+  "why": "Q1: private-sector verification and authentication",
+  "sub_indicator": "use"
+ },
+ {
+  "url": "https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/17/178089f9-403e-4796-907a-a97c20f39e9c.pdf",
+  "title": "National Payment System",
+  "publisher": "Bank of Namibia",
+  "published": "",
+  "why": "Q1: digital identity integration into NPS for e-KYC",
+  "sub_indicator": "use"
+ },
+ {
+  "url": "https://ippr.org.na/blog/namibias-unfolding-identity-crisis/",
+  "title": "Namibia's Unfolding 'Identity Crisis'",
+  "publisher": "IPPR",
+  "published": "2023-12-24",
+  "why": "Q2: SIM registration identity authentication",
+  "sub_indicator": "use"
+ }
+]

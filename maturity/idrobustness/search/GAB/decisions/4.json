@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "system",
+ "fact": "From 3 April to 16 May 2024 the Interior Ministry issued 166,912 Personal Identification Number (NIP) attestations, the prerequisite for the electronic national ID card.",
+ "title": "Gabon : 166 912 Numéro d'Identification Personnel déjà délivrés",
+ "publisher": "Journal du Gabon",
+ "published": "2024-05-21",
+ "date_source": "source",
+ "why_not": ""
+}

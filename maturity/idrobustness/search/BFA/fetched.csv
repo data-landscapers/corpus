@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.biometricupdate.com/202608/burkina-faso-approves-operational-framework-for-wuri-digital-id-rollout,fetched,,scripts/.workroot/study/idrobustness/cache/BFA/1.txt,1285,html,Burkina Faso approves operational framework for WURI digital ID rollout | Biometric Update
+2,https://oni.bf/carte-didentite-biometrique-aes-au-burkina-faso-au-capitaine-ibrahim-traore-pour-commencer/,fetched,,scripts/.workroot/study/idrobustness/cache/BFA/2.txt,261,html,Carte d’identité biométrique AES au Burkina Faso : Au Capitaine Ibrahim TRAORÉ pour commencer - Office Nationale d'Identification (ONI)
+3,https://www.assembleenationale.bf/storage/libelrapportcagidh/8M3KuoK1JLJKtYcy8m0mVTujeRyPq6OuireR0RXo.pdf,held,held as raw/2024/2024-10-04-bfa-alt-rapport-cagidh-identification-unique.md,,0,,
+4,https://www.police.gov.bf/index.php/infos-utiles/cnib,held,held as raw/2026/2026-08-25-cnib-carte-nationale-identite-burkinabe.md,,0,,
+5,https://dpimap.org/burkina-faso/,rejected,rejected 2026-08-25: not-a-document,,0,,
+6,https://afrikactu.net/index.php/burkina-faso/securite/retards-dans-la-delivrance-des-cartes-nationales-didentite-loni-annonce-la-fin-du-calvaire-grace-a-sa-nouvelle-plateforme-denrolement/,fetched,,scripts/.workroot/study/idrobustness/cache/BFA/6.txt,368,html,"Retards dans la délivrance des cartes nationales d’identité : l’ONI annonce la fin du calvaire, grâce à sa nouvelle plateforme d’enrôlement."
+7,https://afriktimes.info/2025/08/22/burkina-faso-wuri-towards-a-unique-electronic-identification-system-for-greater-inclusion/,unfetchable,"ConnectionError; Wayback HTTP 429, not checked",,0,,
+8,https://www.alt.bf/storage/libelpv/UCCZZ7btFamjHEoAFWBvOexc5fVPUMynFwwimy83.pdf,fetched,,scripts/.workroot/study/idrobustness/cache/BFA/8.txt,10005,pdf,

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://techies.ga/article/identite-numerique-quand-pourra-t-on-faire-une-demarche-sans-redonner-ses-papiers",
+  "title": "Identité numérique : quand pourra-t-on faire une démarche sans redonner ses papiers ?",
+  "publisher": "Techies",
+  "published": "2026-10-17",
+  "sub_indicator": "use",
+  "why": "Q1/Q2: NIP used online for CNIE request, passport, driving licence; interoperability platform pending"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202609/gabon-ramping-up-digital-id-interoperability-infrastructure-implementation",
+  "title": "Gabon ramping up digital ID, interoperability infrastructure implementation",
+  "publisher": "Biometric Update",
+  "published": "2026-09-11",
+  "sub_indicator": "use",
+  "why": "Q1: digital ID and interoperability platform moving to implementation"
+ },
+ {
+  "url": "https://agpgabon.ga/gabon-identite-digitale-le-pays-franchit-un-cap-vers-une-gouvernance-inclusive-et-securisee/",
+  "title": "Gabon/Identité digitale : le pays franchit un cap vers une gouvernance inclusive et sécurisée",
+  "publisher": "Agence Gabonaise de Presse",
+  "published": "2025-09-16",
+  "sub_indicator": "use",
+  "why": "Q1: SNID to serve banking, health, telecom, SIM"
+ },
+ {
+  "url": "https://www.gabonreview.com/identification-legale-et-digitale-le-gabon-enclenche-la-mise-en-oeuvre-de-trois-projets-strategiques/",
+  "title": "Identification légale et digitale : le Gabon enclenche la mise en œuvre de trois projets stratégiques",
+  "publisher": "Gabonreview",
+  "published": "2025-06-23",
+  "sub_indicator": "use",
+  "why": "Q1: RBPP, SNID, CNEC interconnection with CNAMGS, CNSS"
+ },
+ {
+  "url": "https://www.id4africa.com/2025/files/T1-P2-S1-2_GABON-EN-final.pdf",
+  "title": "Digital Identity: Data Sharing & Interoperability – Interagency & Wallets",
+  "publisher": "ANINF / ID4Africa 2025",
+  "published": "2025",
+  "sub_indicator": "use",
+  "why": "Q1: proof of concept connecting tax, customs, treasury via interoperability platform"
+ },
+ {
+  "url": "https://www.gabonreview.com/gabon-larcep-ordonne-le-blocage-immediat-des-cartes-sim-non-ou-mal-identifiees/",
+  "title": "Gabon : L'Arcep ordonne le blocage immédiat des cartes SIM non ou mal identifiées",
+  "publisher": "Gabonreview",
+  "published": "2024-12-06",
+  "sub_indicator": "use",
+  "why": "Q2: SIM identification obligation"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099090226132027563/pdf/P175987-8dfb5a41-ff83-4fc0-a597-c588997e88ba.pdf",
+  "title": "P175987 Restructuring Amendment to the Financing Agreement (Digital Gabon)",
+  "publisher": "World Bank",
+  "published": "2026",
+  "sub_indicator": "use",
+  "why": "Q1: NIP-based authentication services and interoperability platform financed"
+ },
+ {
+  "url": "https://techpoint.africa/news/gabon-launches-electronic-id-card/",
+  "title": "Gabon launches electronic ID cards after an 11-year hiatus",
+  "publisher": "Techpoint Africa",
+  "published": "2024-07-02",
+  "sub_indicator": "use",
+  "why": "Q2: CNIE valid for banking and administrative procedures"
+ }
+]

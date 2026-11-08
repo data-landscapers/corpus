@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "biometric",
+ "fact": "A World Bank aide-memoire on a February 2025 mission says the lack of PKI encryption and an under-capacity ABIS have weakened the national ID system's security, and recommends restoring PKI and maintaining the ABIS.",
+ "title": "Digital Malawi Acceleration Project (DMAP, P505095): Aide-Mémoire, ID Technical Discussions Mission, February 10 to 19, 2025",
+ "publisher": "World Bank",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

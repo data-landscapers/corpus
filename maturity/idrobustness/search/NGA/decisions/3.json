@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "assurance",
+ "fact": "The World Bank restructuring paper of 22 October 2026 reports about 121 million NINs issued by 30 September 2026, NIMS improvements fulfilled in March 2024 including audits, penetration testing and ISO 27001 recertification, and a NIMS 2.0 contract signed on 15 September 2026.",
+ "title": "Restructuring Paper on a Proposed Project Restructuring of the Nigeria Digital Identification for Development Project",
+ "publisher": "World Bank",
+ "published": "2026-10-22",
+ "date_source": "source",
+ "why_not": ""
+}

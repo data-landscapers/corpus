@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "system",
+ "fact": "ANID's FAQ states the NIU is a unique random identifier attributed to each person successfully registered in the biometric identification programme, with ten fingerprints, both irises and a face photograph captured at enrolment.",
+ "title": "FAQ - mon identité",
+ "publisher": "Agence Nationale d'Identification (ANID)",
+ "published": "",
+ "sub_indicator": "robustness",
+ "date_source": "proxy",
+ "why_not": ""
+}

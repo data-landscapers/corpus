@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "assurance",
+ "fact": "FIKIR Institute's 18 August 2026 brief states there is little public information on independent security audits for NIRA's ID system, which holds biometric data on over a million citizens.",
+ "title": "Strengthening Digital Public Infrastructure in Somalia",
+ "publisher": "FIKIR Institute",
+ "published": "2026-08-18",
+ "date_source": "source",
+ "why_not": ""
+}

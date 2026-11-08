@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://tech.africa/seychelles-digital-ai-strategy-cloud/",
+  "title": "Seychelles Digital and AI Strategy 2026-2031 approved",
+  "publisher": "tech.africa",
+  "published": "2026-11-03",
+  "sub_indicator": "shared",
+  "why": "Q1/Q4 storage: sovereign cloud, national or shared?"
+ },
+ {
+  "url": "https://www.seychellesnewsagency.com/articles/22616/seychelles-approves-national-digital-and-ai-strategy-plans-sovereign-government-cloud-with-2-datacentres",
+  "title": "Seychelles adopts national digital and AI strategy, plans sovereign government cloud with 2 datacentres",
+  "publisher": "Seychelles News Agency",
+  "published": "2026-10-29",
+  "sub_indicator": "shared",
+  "why": "Q1 storage"
+ },
+ {
+  "url": "https://www.nation.sc/articles/16417/seychelles-achieves-security-in-international-connectivity-peace-operational-in-seychelles",
+  "title": "Seychelles achieves security in international connectivity: PEACE operational in Seychelles",
+  "publisher": "Seychelles Nation",
+  "published": "2023-01-06",
+  "sub_indicator": "shared",
+  "why": "Q3 link in service"
+ },
+ {
+  "url": "https://www.seychellesnewsagency.com/articles/18002/internet-more-value-for-money-expected-seychelles-second-undersea-cable-is-operational",
+  "title": "Internet: More value for money expected - Seychelles' second undersea cable is operational",
+  "publisher": "Seychelles News Agency",
+  "published": "2023-01-09",
+  "sub_indicator": "shared",
+  "why": "Q3 link in service"
+ },
+ {
+  "url": "https://nation.sc/articles/12700/landing-of-the-peace-submarine-cable-system-in-seychelles--second-project",
+  "title": "Landing of the PEACE submarine cable system in Seychelles",
+  "publisher": "Seychelles Nation",
+  "published": "2022-03-08",
+  "sub_indicator": "shared",
+  "why": "Q2/Q3 cable landing"
+ },
+ {
+  "url": "https://www.comesa.int/wp-content/uploads/2024/12/Opening-Remarks-by-Dr-Mohamed-Kadah-During-the-Opening-of-the-ACE-meeting.pdf",
+  "title": "Opening remarks, Africa Cloud Ecosystem pre-investment study validation",
+  "publisher": "COMESA",
+  "published": "",
+  "sub_indicator": "shared",
+  "why": "Q1 shared data storage (ACE project)"
+ },
+ {
+  "url": "https://www.comesa.int/wp-content/uploads/2026/09/7a_EGEE-ICT-Framework-of-Cooperation.pdf",
+  "title": "Framework of cooperation for the ICT sector in the EA-SA-IO region",
+  "publisher": "COMESA/CERFODES",
+  "published": "2024-12-20",
+  "sub_indicator": "shared",
+  "why": "Q1 regional arrangement"
+ }
+]

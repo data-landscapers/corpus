@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202511/senegal-taps-inspiration-from-togos-digital-id-experience",
+  "title": "Senegal taps inspiration from Togo's digital ID experience",
+  "publisher": "Biometric Update",
+  "published": "2025-11-03",
+  "sub_indicator": "robustness",
+  "why": "Q1: Senegal building MOSIP-style digital ID, delegation to Togo"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202502/senegal-unveils-digital-transformation-strategy-to-enhance-economic-growth",
+  "title": "Senegal unveils digital transformation strategy to enhance economic growth",
+  "publisher": "Biometric Update",
+  "published": "2025-02-27",
+  "sub_indicator": "robustness",
+  "why": "Q1: unique biometric digital ID in New Deal Technologique"
+ },
+ {
+  "url": "https://aps.sn/la-daf-annonce-la-reprise-de-la-confection-des-cartes-nationales-didentite-depuis-le-1er-avril/",
+  "title": "La DAF annonce la reprise de la confection des cartes nationales d'identité depuis le 1er avril",
+  "publisher": "APS",
+  "published": "2026-04-07",
+  "sub_indicator": "robustness",
+  "why": "Q2: CNI production and enrolment resumed after Feb 2026 cyber-attack"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202502/senegal-targets-3m-ecowas-biometric-id-holders-for-voter-registration",
+  "title": "Senegal targets 3M ECOWAS biometric ID holders for voter registration",
+  "publisher": "Biometric Update",
+  "published": "2025-02-18",
+  "sub_indicator": "robustness",
+  "why": "Q2: ECOWAS biometric ID in service"
+ },
+ {
+  "url": "https://doi.org/10.19088/ids.2025.055",
+  "title": "Digital-ID in Senegal: Country Report",
+  "publisher": "Institute of Development Studies",
+  "published": "2025-12-03",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3: ENBIC biometric card mandatory from 15"
+ },
+ {
+  "url": "https://openjicareport.jica.go.jp/pdf/12363180.pdf",
+  "title": "Data Collection Survey on the Digitalization of the National Identification System in the Republic of Senegal",
+  "publisher": "JICA",
+  "published": "2022-01",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3: unique CNI number, fingerprints, iris, face on chip"
+ },
+ {
+  "url": "https://openjicareport.jica.go.jp/pdf/1000057262.pdf",
+  "title": "Projet pour mise en oeuvre d'une plateforme interministerielle et interoperable d'echange de donnees, Rapport d'etat d'avancement Phase 1",
+  "publisher": "JICA",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Q1: foundational digital ID pilot to launch November 2025"
+ },
+ {
+  "url": "https://www.seneweb.com/fr/news/Societe/passeports-et-cartes-didentite-vers-la-fin-du-contrat-avec-loperateur-malaisien-et-le-recours-a-lexpertise-nationale_n_505568.html",
+  "title": "Passeports et cartes d'identité : Vers la fin du contrat avec l'opérateur malaisien et le recours à l'expertise nationale",
+  "publisher": "Seneweb",
+  "published": "2026-09-29",
+  "sub_indicator": "robustness",
+  "why": "Q4: general audit of DAF security launched after attack"
+ }
+]

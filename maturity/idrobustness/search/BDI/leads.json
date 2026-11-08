@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://burundifacts.org/burundi-la-carte-biometrique-est-elle-vraiment-techniquement-prete/",
+  "title": "Burundi : la carte biométrique est-elle vraiment « techniquement prête » ?",
+  "publisher": "Burundi Facts",
+  "published": "2026-07-26",
+  "sub_indicator": "robustness",
+  "why": "Q1-Q3: platform presented, pilot communes, fingerprints and unique number planned"
+ },
+ {
+  "url": "https://idtechwire.com/burundi-extends-biometric-civil-registration-toward-national-digital-id/",
+  "title": "Burundi Extends Biometric Civil Registration Toward National Digital ID",
+  "publisher": "ID Tech",
+  "published": "2026-08-12",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q3: 13 communes biometric registration; fingerprints and face to reduce duplicates"
+ },
+ {
+  "url": "https://www.yaga-burundi.com/identite-biometrique/",
+  "title": "Identité biométrique au Burundi : fin de suspens ?",
+  "publisher": "Yaga Burundi",
+  "published": "2026-06-22",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q2: status of biometric card in 2026"
+ },
+ {
+  "url": "https://www.burunditimes.com/burundi-unveils-biometric-national-id-system-awaits-law-before-full-rollout/",
+  "title": "Burundi unveils Biometric National ID system, awaits law before full rollout",
+  "publisher": "Burundi Times",
+  "published": "2026-05-07",
+  "sub_indicator": "robustness",
+  "why": "Q1: platform unveiled 6 May 2026, awaiting law"
+ },
+ {
+  "url": "http://lerenouveau.bi/presentation-de-la-plateforme-digitale-detat-civil-et-la-production-de-la-cni-biometrique-un-levier-strategique-pour-le-developpement-du-burundi/",
+  "title": "Présentation de la plateforme digitale d'état-civil et la production de la CNI biométrique",
+  "publisher": "Le Renouveau",
+  "published": "2026-05-06",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q3: biometric data to cut duplicates"
+ },
+ {
+  "url": "https://communityvoice.bi/the-lack-of-digital-id-systems-threatens-the-digital-economy-of-burundi/",
+  "title": "The lack of Digital ID Systems threatens the Digital Economy of Burundi",
+  "publisher": "Community Voice",
+  "published": "2026-03-30",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q2: paper card, no digital ID in service"
+ },
+ {
+  "url": "https://burundi-eco.com/carte-didentite-biometrique-cette-fois-sera-la-bonne/",
+  "title": "Carte d'identité biométrique : Cette fois sera la bonne ?",
+  "publisher": "Burundi Eco",
+  "published": "2025-03-03",
+  "sub_indicator": "robustness",
+  "why": "Q1: pilot communes, minister timeline"
+ },
+ {
+  "url": "https://mininterinfos.gov.bi/vers-une-identification-sure-et-securisee/",
+  "title": "Vers une identification sure et sécurisée",
+  "publisher": "MININTER",
+  "published": "2024-07-10",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q3: ID for D, fingerprints, iris, unique number"
+ }
+]

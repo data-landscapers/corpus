@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "biometric",
+ "fact": "The minister replied on 5 November 2025 that ABIS de-duplicates enrolments using facial recognition as the primary biometric and fingerprints as secondary.",
+ "title": "Question NW4978 to the Minister of Home Affairs",
+ "publisher": "Parliamentary Monitoring Group",
+ "published": "2025-11-05",
+ "date_source": "source",
+ "why_not": ""
+}

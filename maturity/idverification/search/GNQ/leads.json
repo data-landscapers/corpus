@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.anif.gq/wp-content/uploads/2024/04/INFORME-PUBLICO-ENR-1.pdf",
+  "title": "Evaluación Nacional de Riesgos de Lavado de Activos y Financiamiento de Terrorismo",
+  "publisher": "ANIF",
+  "published": "2024",
+  "sub_indicator": "use",
+  "why": "Q2/Q3: no interconnection between national bodies and banks to verify documents"
+ },
+ {
+  "url": "https://www.pdge-guineaecuatorial.com/la-transformacion-digital-de-getesa-contempla-inteligencia-artificial-y-expansion-de-cobertura-nacional/",
+  "title": "La transformación digital de GETESA contempla inteligencia artificial y expansión de cobertura nacional",
+  "publisher": "PDGE",
+  "published": "2026-05-23",
+  "sub_indicator": "use",
+  "why": "Q1: mandatory biometric KYC planned for GETESA"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_implementa_un_codigo_de_identificacion_para_personas_y_entidades",
+  "title": "Guinea Ecuatorial implementa un código de identificación para personas y entidades",
+  "publisher": "Gobierno de Guinea Ecuatorial (guineaecuatorialpress.com)",
+  "published": "2023-08-28",
+  "sub_indicator": "use",
+  "why": "Q1: unique ID code for tax/AML with CNEDOGE, ORTEL"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/s_e_nguema_obiang_mangue_propone_la_creacion_de_una_direccion_de_ciberseguridad_y_no_cerrar_whatsapp",
+  "title": "Nguema Obiang Mangue propone la creación de una Dirección de Ciberseguridad",
+  "publisher": "Gobierno de Guinea Ecuatorial (guineaecuatorialpress.com)",
+  "published": "2023-01-17",
+  "sub_indicator": "use",
+  "why": "Q2: SIM card identity control ordered"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202407/world-bank-identifies-priority-actions-for-dpi-in-equatorial-guinea",
+  "title": "World Bank identifies priority actions for DPI in Equatorial Guinea",
+  "publisher": "Biometric Update",
+  "published": "2024-07-15",
+  "sub_indicator": "use",
+  "why": "Q2-Q4: no digital authentication framework"
+ },
+ {
+  "url": "https://realequatorialguinea.com/destacado/politica/el-comite-de-pilotaje-del-sigef-evalua-avances-para-digitalizar-la-gestion-de-funcionarios-en-guinea-ecuatorial/",
+  "title": "El Comité de Pilotaje del SIGEF evalúa avances para digitalizar la gestión de funcionarios",
+  "publisher": "Revista Real Equatorial Guinea",
+  "published": "2026-06-18",
+  "sub_indicator": "use",
+  "why": "Q1: SIGEF biometric civil-service system (other system)"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/audiencia_entre_martina_masugu_oyana_y_melanio_ebendeng_oyana",
+  "title": "Audiencia entre Martina Masugu Oyana y Melanio Ebendeng Oyana",
+  "publisher": "Gobierno de Guinea Ecuatorial (guineaecuatorialpress.com)",
+  "published": "2025-03-16",
+  "sub_indicator": "use",
+  "why": "Q4: SIRH app 20,147 civil servants registered; civil registry digitisation"
+ },
+ {
+  "url": "https://revistainteractividad.utel.edu.mx/index.php/revista-interactividad/en/article/download/59/60/407",
+  "title": "Identidad digital y Big Data en África Central: caso Guinea Ecuatorial",
+  "publisher": "Revista Interactividad",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q2-Q3: >70% of institutions lack integrated digital identity"
+ }
+]

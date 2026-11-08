@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "date_source": "source",
+ "why_not": "",
+ "aspect": "system",
+ "fact": "Guinea's personal identification number (NPI) is 18 alphanumeric characters, unique, permanent and attributed at birth to citizens and at registration in the RNPP for resident foreigners (April 2025).",
+ "title": "La Guinée se dote d'un numéro d'identification unique et permanent",
+ "publisher": "Conakryinfos",
+ "published": "2025-04-15"
+}

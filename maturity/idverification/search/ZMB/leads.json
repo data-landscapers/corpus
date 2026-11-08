@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.creodata.com/blog/nrc-tpin-checks-account-opening-zambia/",
+  "title": "NRC Verification and TPIN for Bank Accounts in Zambia",
+  "publisher": "Creodata",
+  "published": "2026-10-13",
+  "sub_indicator": "use",
+  "why": "Q2: whether banks check NRC against INRIS"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202605/id4africa-panel-outlines-steady-kyc-process-policy-improvement",
+  "title": "ID4Africa panel outlines steady KYC process, policy improvement",
+  "publisher": "Biometric Update",
+  "published": "2026-05-14",
+  "sub_indicator": "use",
+  "why": "Q1/Q2/Q4: centralised eKYC on Home Affairs API, per-call charge"
+ },
+ {
+  "url": "https://www.boz.zm/sites/default/files/2026-06/Bank%20of%20Zambia%20Position%20Paper%20on%20Open%20Finance%20in%20Zambia.pdf",
+  "title": "Bank of Zambia Position Paper on Open Finance in Zambia",
+  "publisher": "Bank of Zambia",
+  "published": "2026",
+  "sub_indicator": "use",
+  "why": "Q1: integration with INRIS for validation planned"
+ },
+ {
+  "url": "https://znbc.co.zm/?p=10211",
+  "title": "Over 1.3 Million Citizens Enrolled on INRIS",
+  "publisher": "ZNBC",
+  "published": "2025-12-28",
+  "sub_indicator": "use",
+  "why": "Q1: INRIS API Manager integration"
+ },
+ {
+  "url": "https://cipit.strathmore.edu/wp-content/uploads/2025/09/A-Report-on-the-Study-of-Government-Digital-Services-and-Digital-ID-in-Kenya-and-Zambia_compressed-2.pdf",
+  "title": "A Report on the Study of Government Digital Services and Digital ID in Kenya and Zambia",
+  "publisher": "CIPIT, Strathmore University",
+  "published": "2025",
+  "sub_indicator": "use",
+  "why": "Q1/Q3: MOSIP interoperability with financial institutions and health"
+ },
+ {
+  "url": "https://www.zambiamonitor.com/central-bank-moves-to-modernize-zambias-payment-infrastructure-with-digital-economy-project/",
+  "title": "Central bank moves to modernize Zambia's payment infrastructure, with digital economy project",
+  "publisher": "Zambia Monitor",
+  "published": "2024-09-09",
+  "sub_indicator": "use",
+  "why": "Q1: BoZ electronic KYC system"
+ },
+ {
+  "url": "https://diggers.news/guest-diggers/2023/06/05/is-the-new-sim-card-registration-process-in-zambia-a-security-measure-or-surveillance-tool/",
+  "title": "Is the New SIM Card Registration Process in Zambia a Security Measure or Surveillance Tool?",
+  "publisher": "News Diggers",
+  "published": "2023-06-05",
+  "sub_indicator": "use",
+  "why": "Q2: SIM re-registration with NRC and live photo"
+ },
+ {
+  "url": "https://www.mohais.gov.zm/?p=2487",
+  "title": "INRIS easing access to NAPSA partial withdraw",
+  "publisher": "Ministry of Home Affairs and Internal Security",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q2/Q3: NAPSA withdrawals and NRC verification under INRIS"
+ }
+]

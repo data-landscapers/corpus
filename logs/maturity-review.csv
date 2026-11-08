@@ -64,8 +64,8 @@ idcoverage,coverage,dpi.id--registration-of-entire-population,2026-11-06,52,63,8
 idfrombirth,frombirth,dpi.id--digital-id-from-birth,2026-11-07,12,63,76
 idmaintenance,maintenance,dpi.id--national-maintenance-of-id-and-credentials-systems,2026-11-07,12,63,123
 idregisters,registers,dpi.id--use-by-other-systems,2026-11-07,12,63,108
-idrobustness,robustness,dpi.id--robustness-of-system,,,,
-idverification,use,dpi.exchange--use-of-digital-id-in-other-systems,,,,
+idrobustness,robustness,dpi.id--robustness-of-system,2026-11-08,18,66.6,108
+idverification,use,dpi.exchange--use-of-digital-id-in-other-systems,2026-11-08,18,66.6,93
 internationalbandwidth,routes,infra.connect--international-internet-bandwidth,,,,
 internationalstandards,international,gov.standards--adoption-of-international-standards,,,,
 internetusage,use,infra.connect--internet-usage,,,,
@@ -95,7 +95,7 @@ populationregister,population,dpi.registry--population-register,,,,
 publicconsultation,consultation,gov.discourse--non-governmental-contribution-to-national-policy,,,,
 qualitystandards,standards,gov.standards--national-quality-standards,,,,
 refugees,displaced,include.access--inclusion-of-refugees-and-idps,,,,
-regionalinfrastructure,shared,gov.regional--shared-regional-infrastructure,,,,
+regionalinfrastructure,shared,gov.regional--shared-regional-infrastructure,2026-11-08,18,66.6,118
 regionallaw,harmonisation,gov.regional--regional-legal-harmonisation,,,,
 regionalpolicy,cooperation,gov.regional--regional-policy-collaboration,,,,
 registry,civil,digital.rural--digitalisation-of-rural-registry-offices,,,,

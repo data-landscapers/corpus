@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "system",
+ "fact": "The AIIB project report of December 2025 states that key contracts have been signed, including the Core Single Digital ID System and Biometric Engine, and that mass enrolment began in October 2025.",
+ "title": "Implementation Status Report No. 7, Rwanda Digital Acceleration Project",
+ "publisher": "AIIB",
+ "published": "2025-12",
+ "date_source": "source",
+ "why_not": ""
+}

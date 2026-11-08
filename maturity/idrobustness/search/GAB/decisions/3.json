@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "system",
+ "fact": "Gabon launched its National Electronic Identity Card (CNIE) in late June 2024, the first national ID issuance since 2013; the president had been biometrically enrolled and issued a personal identification number in April 2024.",
+ "title": "Gabon launches new national ID system",
+ "publisher": "Biometric Update",
+ "published": "2024-07-01",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.gouv.ci/actualite/cooperation-deux-importants-protocoles-daccord-signes-entre-les-gouvernements-ivoirien-et-guineen-dans-le-secteur-numerique-2384",
+  "title": "Coopération : deux importants protocoles d'accord signés entre les gouvernements ivoirien et guinéen",
+  "publisher": "Gouvernement de Côte d'Ivoire",
+  "published": "2024-10-13",
+  "sub_indicator": "shared",
+  "why": "Q1 agreement: fibre interconnection MoU CIV-GIN"
+ },
+ {
+  "url": "https://techafricanews.com/2025/06/18/guinea-and-sierra-leone-strengthen-regional-connectivity-with-landmark-fibre-optic-interconnection-agreement/",
+  "title": "Guinea and Sierra Leone Strengthen Regional Connectivity with Landmark Fibre Optic Interconnection Agreement",
+  "publisher": "TechAfrica News",
+  "published": "2025-06-18",
+  "sub_indicator": "shared",
+  "why": "Q1/Q3 SOGEB-Leoncom interconnection at Pamelap"
+ },
+ {
+  "url": "https://guineejet.info/clsg-la-guinee-dans-les-negociations-sur-la-fibre-optique-regionale/",
+  "title": "CLSG : La Guinée dans les négociations sur la fibre optique régionale",
+  "publisher": "Guinéejet",
+  "published": "2026-06-12",
+  "sub_indicator": "shared",
+  "why": "Q1 TRANSCO CLSG spare fibre commercialisation"
+ },
+ {
+  "url": "https://developingtelecoms.com/telecom-technology/optical-fixed-networks/16949-guinea-and-mali-agree-to-interconnect-fibre-networks.html",
+  "title": "Guinea and Mali agree to interconnect fibre networks",
+  "publisher": "Developing Telecoms",
+  "published": "2024-07-03",
+  "sub_indicator": "shared",
+  "why": "Q1 SOGEB-SMTD agreement"
+ },
+ {
+  "url": "https://lepandaguinee.com/2024/11/26/la-guinee-et-la-sierra-leone-signent-un-accord-pour-renforcer-leur-interconnexion-numerique/",
+  "title": "La Guinée et la Sierra Leone signent un accord pour renforcer leur interconnexion numérique",
+  "publisher": "LePanda Guinée",
+  "published": "2024-11-26",
+  "sub_indicator": "shared",
+  "why": "Q1 framework agreement ministers"
+ },
+ {
+  "url": "https://guineenews.org/2025/11/11/roa-bn-une-nouvelle-ere-pour-la-cooperation-numerique-ouest-africaine-pose-ses-bases-a-conakry/",
+  "title": "ROA-BN : une nouvelle ère pour la coopération numérique ouest-africaine pose ses bases à Conakry",
+  "publisher": "Guinéenews",
+  "published": "2025-11-11",
+  "sub_indicator": "shared",
+  "why": "Q1/Q3 regional backbone network seat in Conakry"
+ },
+ {
+  "url": "https://www.africaguinee.com/app/uploads/2026/01/Realisations_MPTEN_2025_compressed.pdf",
+  "title": "Réalisations du MPTEN 2025",
+  "publisher": "MPTEN Guinée",
+  "published": "2026",
+  "sub_indicator": "shared",
+  "why": "Q3 four regional interconnections operational"
+ },
+ {
+  "url": "https://www.michcom-ix.net/",
+  "title": "Michcom-IX — West Africa's Internet Exchange Point",
+  "publisher": "Michcom Limited",
+  "published": "",
+  "sub_indicator": "shared",
+  "why": "Q3 exchange spanning SL, Guinea, Liberia"
+ }
+]

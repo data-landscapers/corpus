@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.ics.gov.sc/about/media-centre/publications/public-announcement",
+  "title": "PUBLIC ANNOUNCEMENT: TRANSITION TO VIRTUAL ID CARDS FOR PERMIT HOLDERS",
+  "publisher": "Department of Immigration & Civil Status",
+  "published": "2024-09-18",
+  "sub_indicator": "robustness",
+  "why": "Q2 in service"
+ },
+ {
+  "url": "https://www.seychellesnewsagency.com/public/articles/21227/New+work+permit+holders+in+Seychelles+to+have+virtual+IDs",
+  "title": "New work permit holders in Seychelles to have virtual IDs",
+  "publisher": "Seychelles News Agency",
+  "published": "2024-09-18",
+  "sub_indicator": "robustness",
+  "why": "Q2 in service"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202404/id-platform-delivered-by-wisekey-facilitates-digital-govt-services-in-seychelles",
+  "title": "ID platform delivered by WISeKey facilitates digital govt services in Seychelles",
+  "publisher": "Biometric Update",
+  "published": "2024-04-23",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q4"
+ },
+ {
+  "url": "https://www.ics.gov.sc/civil-status/national-identity-card",
+  "title": "National Identity Card",
+  "publisher": "Department of Immigration and Civil Status",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3 card issue and enrolment"
+ },
+ {
+  "url": "https://nation.sc/articles/17859/dict-first-government-institution-to-become-iso-certified",
+  "title": "DICT first government institution to become ISO certified",
+  "publisher": "Seychelles Nation",
+  "published": "2023-05-18",
+  "sub_indicator": "robustness",
+  "why": "Q4 ISO 27001"
+ },
+ {
+  "url": "https://www.nation.sc/articles/2856/civil-status",
+  "title": "Civil Status (NPDIS fully operational)",
+  "publisher": "Seychelles Nation",
+  "published": "2019-12-19",
+  "sub_indicator": "robustness",
+  "why": "Q2 population register"
+ },
+ {
+  "url": "https://www.nation.sc/articles/15648/seychelles-launches-national-digital-identity-platform--seyid",
+  "title": "Seychelles launches National Digital Identity platform - SeyID",
+  "publisher": "Seychelles Nation",
+  "published": "2022-11-02",
+  "sub_indicator": "robustness",
+  "why": "Q2 / assurance"
+ },
+ {
+  "url": "https://www.ncsi.ega.ee/country/sc/",
+  "title": "NCSI :: Seychelles",
+  "publisher": "e-Governance Academy",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Q4 secure eID"
+ }
+]

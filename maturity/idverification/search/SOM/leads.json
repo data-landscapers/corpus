@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202611/somalia-puts-hubiye-national-id-verification-platform-into-operation",
+  "title": "Somalia puts Hubiye national ID verification platform into operation",
+  "publisher": "Biometric Update",
+  "published": "2026-11-02",
+  "sub_indicator": "use",
+  "why": "Q2-4: Hubiye in use, 25 services"
+ },
+ {
+  "url": "https://www.undp.org/somalia/stories/driving-digital-transformation-somalia-2025-highlights",
+  "title": "Driving digital transformation in Somalia: 2025 highlights",
+  "publisher": "UNDP",
+  "published": "2026-05-13",
+  "sub_indicator": "use",
+  "why": "Q2-4: 25 integrated services"
+ },
+ {
+  "url": "https://id4africa.com/2026/files/T1-3-3-Somalia-FINAL.pdf",
+  "title": "Somali Digital Identity Playbook",
+  "publisher": "NIRA / ID4Africa",
+  "published": "2026",
+  "sub_indicator": "use",
+  "why": "Q2-4: sectors and verification counts"
+ },
+ {
+  "url": "https://opm.gov.so/warbixin-kaarka-aqoonsiga-qaranka-ee-nira/",
+  "title": "WARBIXIN: KAARKA AQOONSIGA QARANKA EE NIRA",
+  "publisher": "Xafiiska Ra'iisul Wasaaraha",
+  "published": "2025-12-10",
+  "sub_indicator": "use",
+  "why": "Q3: 9 services tied to ID"
+ },
+ {
+  "url": "https://centralbank.gov.so/strengthening-kyc-and-real-time-id-verification-in-the-banking-sector/",
+  "title": "Strengthening KYC and Real-Time ID Verification in the Banking Sector",
+  "publisher": "Central Bank of Somalia",
+  "published": "2025-07-30",
+  "sub_indicator": "use",
+  "why": "Q2: banks must verify NIRA ID"
+ },
+ {
+  "url": "https://nira.gov.so/news/nira-and-central-bank-of-somalia-sign-mo-u-to-strengthen-financial-services-through-national-id-integration",
+  "title": "NIRA and Central Bank of Somalia Sign MoU",
+  "publisher": "NIRA",
+  "published": "2024-10-17",
+  "sub_indicator": "use",
+  "why": "Q1: financial sector link"
+ },
+ {
+  "url": "https://nira.gov.so/news/nira-and-nca-host-consultative-meeting-with-telecom-companies-to-integrate-national-id-with-telecom-services",
+  "title": "NIRA and NCA Host Consultative Meeting with Telecom Companies",
+  "publisher": "NIRA",
+  "published": "2024-09-07",
+  "sub_indicator": "use",
+  "why": "Q1: telecom link"
+ },
+ {
+  "url": "https://www.nira.gov.so/news/2nd-somali-national-id-conference-snidc-theme-from-identity-to-impact-building-somalia-s-digital-ecosystem",
+  "title": "2nd Somali National ID Conference",
+  "publisher": "NIRA",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q3: sectors integrating"
+ }
+]

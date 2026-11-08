@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202609/gabon-ramping-up-digital-id-interoperability-infrastructure-implementation",
+  "title": "Gabon ramping up digital ID, interoperability infrastructure implementation",
+  "publisher": "Biometric Update",
+  "published": "2026-09-11",
+  "sub_indicator": "robustness",
+  "why": "Q2: new national digital ID launched July 2024"
+ },
+ {
+  "url": "https://fr.infosgabon.com/gabon-le-defi-de-lidentite/",
+  "title": "Gabon : Le défi de l'identité",
+  "publisher": "Infos Gabon",
+  "published": "2026-06-04",
+  "sub_indicator": "robustness",
+  "why": "Q2: 335,384 enrolled, 164,944 cards produced"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202407/gabon-launches-new-national-id-system",
+  "title": "Gabon launches new national ID system",
+  "publisher": "Biometric Update",
+  "published": "2024-07-01",
+  "sub_indicator": "robustness",
+  "why": "Q2: CNIE launched June 2024"
+ },
+ {
+  "url": "https://www.journaldugabon.com/gabon-166-912-numero-didentification-personnel-deja-delivres/",
+  "title": "Gabon : 166 912 Numéro d'Identification Personnel déjà délivrés",
+  "publisher": "Journal du Gabon",
+  "published": "2024-05-21",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3: NIP issued after biometric enrolment"
+ },
+ {
+  "url": "https://interieur.gouv.ga/carte-nationale-didentite-electronique-cnie/",
+  "title": "Carte nationale d'identité électronique (CNIE)",
+  "publisher": "Ministère de l'Intérieur, de la Sécurité et de la Décentralisation",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3: NIP launched 3 April 2024 after biometric registration"
+ },
+ {
+  "url": "https://www.rfi.fr/fr/afrique/20240505-gabon-une-campagne-d-enregistrement-pour-le-renouvellement-des-cartes-d-identit%C3%A9",
+  "title": "Gabon: une campagne d'enregistrement pour le renouvellement des cartes d'identité",
+  "publisher": "RFI",
+  "published": "2024-05-05",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3: fingerprints, photo, signature for unique NIP"
+ },
+ {
+  "url": "https://www.rfi.fr/fr/afrique/20231231-gabon-le-chantier-de-r%C3%A9novation-des-documents-d-identit%C3%A9-sur-les-rails",
+  "title": "Gabon: le chantier de rénovation des documents d'identité sur les rails",
+  "publisher": "RFI",
+  "published": "2023-12-31",
+  "sub_indicator": "robustness",
+  "why": "Q1: new ID project under way"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/301741627956043619/pdf/Gabon-Digital-Gabon-Project.pdf",
+  "title": "Project Appraisal Document: Digital Gabon Project",
+  "publisher": "World Bank Group",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q3/Q4: planned RBPP with ABIS deduplication; ID card history"
+ }
+]

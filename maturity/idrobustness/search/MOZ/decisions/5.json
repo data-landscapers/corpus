@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "system",
+ "fact": "Against a target of 17 million IDs issued under the EDGE project, 11 million national IDs had been issued to date, according to the World Bank's April 2026 implementation report.",
+ "title": "Implementation Status & Results Report: Digital Governance and Economy Project (P172350)",
+ "publisher": "The World Bank",
+ "published": "2026-04-23",
+ "date_source": "source",
+ "why_not": ""
+}

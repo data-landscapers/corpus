@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "system",
+ "fact": "The machine-readable identity card (first examples 2015, introduced 2016, valid 15 years) has been issued only in individual cases, and as of end 2020 Eritrea was not issuing identity cards; each of the six zobas has kept a digital population register since 2001, with a per-resident identification number.",
+ "title": "Focus Eritrea: Identity and civil status documents",
+ "publisher": "Swiss State Secretariat for Migration (SEM), Country Analysis",
+ "published": "2021-01-21",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://sierraloaded.sl/news/ncra-calls-stronger-investment-in-digital/",
+  "title": "NCRA Calls for Stronger Investment in Digital Civil Registration",
+  "publisher": "Sierra Loaded",
+  "published": "2026-08-12",
+  "sub_indicator": "use",
+  "why": "Q2/Q4: verification platform used by financial and telecom institutions"
+ },
+ {
+  "url": "https://thecalabashnewspaper.com/archives/52908",
+  "title": "NCRA, NaTCA and Mobile Operators Sign Landmark MOU for NIN-SIM Integration",
+  "publisher": "The Calabash Newspaper",
+  "published": "2025-08-20",
+  "sub_indicator": "use",
+  "why": "Q1/Q2: NIN-SIM MoU; operator access to NCRA database operational"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202404/sierra-leone-putting-digital-id-at-the-center-of-its-digital-transformation-agenda",
+  "title": "Sierra Leone putting digital ID at the center of its digital transformation agenda",
+  "publisher": "Biometric Update",
+  "published": "2024-04-11",
+  "sub_indicator": "use",
+  "why": "Q3: NIN linked to many sectors"
+ },
+ {
+  "url": "https://ncra.gov.sl/sierra-leone-through-ncra-joins-other-africa-countries-to-commemorate-the-6th-africa-crvs-day/",
+  "title": "Sierra Leone through NCRA joins other Africa countries to commemorate the 6th Africa CRVS Day",
+  "publisher": "National Civil Registration Authority",
+  "published": "2023-08-10",
+  "sub_indicator": "use",
+  "why": "Q3: services across sectors linked to NIN since March 2022"
+ },
+ {
+  "url": "https://thecalabashnewspaper.com/archives/36296",
+  "title": "NCRA DG Transforms CRVS & ID Management Landscape",
+  "publisher": "The Calabash Newspaper",
+  "published": "2023-08-23",
+  "sub_indicator": "use",
+  "why": "Q2: ID Verification Platform linking services"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202303/how-sierra-leone-joined-forces-for-national-digital-id-id4africa-livecast",
+  "title": "How Sierra Leone joined forces for national digital ID",
+  "publisher": "Biometric Update",
+  "published": "2023-03-23",
+  "sub_indicator": "use",
+  "why": "Q2/Q3: banks, NRA, operators via API, ECSL link"
+ },
+ {
+  "url": "https://ncra.gov.sl/h-e-president-bio-launched-first-ever-securitized-and-multipurpose-biometric-id-cards-in-sierra-leone/",
+  "title": "President Bio Launched First-Ever Securitized and Multipurpose Biometric ID Cards",
+  "publisher": "National Civil Registration Authority",
+  "published": "2023-02-06",
+  "sub_indicator": "use",
+  "why": "Q2: Identity Verification Platform launched for banks and MDAs"
+ },
+ {
+  "url": "https://ncra.gov.sl/ncra-engages-commercial-banks-on-digital-identity-inclusion-in-sierra-leone-2/",
+  "title": "NCRA Engages Commercial Banks on Digital Identity Inclusion",
+  "publisher": "National Civil Registration Authority",
+  "published": "2022-06-30",
+  "sub_indicator": "use",
+  "why": "Q2: eKYC platform up and running for banks"
+ }
+]

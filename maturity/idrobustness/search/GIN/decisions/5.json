@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "date_source": "proxy",
+ "why_not": "",
+ "aspect": "system",
+ "fact": "Joint order A/2025/235 sets the terms for free first-time biometric national identity cards, which are produced and issued within 15 days of enrolment.",
+ "title": "Arrêté conjoint A/2025/235 fixant les conditions et modalités d'application du Décret D/2025/021/PRG/CNRD/SGG instaurant la gratuité de la Carte Nationale d'identité Biométrique",
+ "publisher": "GuinéeLex",
+ "published": "2025"
+}

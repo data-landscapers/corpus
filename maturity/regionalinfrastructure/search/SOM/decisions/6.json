@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "shared",
+ "aspect": "service",
+ "fact": "The DARE1 submarine cable, developed by Djibouti Telecom, Somtel and Telkom Kenya, connects Djibouti, Mogadishu, Bosaso and Mombasa and was officially launched in February 2021.",
+ "title": "DARE1",
+ "publisher": "Djibouti Telecom",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "title": "Décret n° 2024-071/PR du 26 décembre 2024 portant identification systématique et obligatoire des abonnés aux services de communications électroniques au Togo",
+ "publisher": "Journal officiel de la République togolaise",
+ "published": "2025-04-23",
+ "why_not": "off-topic: operators must collect the NIU at SIM registration; it states no query of ANID to verify it, so a register keyed on the number is other",
+ "sub_indicator": "use",
+ "aspect": "",
+ "fact": "",
+ "date_source": "source"
+}

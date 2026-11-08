@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "biometric",
+ "fact": "When a Kenyan turns 18 and applies for an ID, the National Registration Bureau captures fingerprints and checks them against AFIS, which confirms fingerprint biometrics and detects duplicate or fraudulent registrations, now under the Maisha integrated identity system.",
+ "title": "Project Profile: The In-Between Lives of the Double Registered",
+ "publisher": "The Elephant",
+ "published": "2026-05-28",
+ "date_source": "proxy",
+ "why_not": ""
+}

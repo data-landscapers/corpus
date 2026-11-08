@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://mcnti.gouv.ne/souverainete-et-integration-numerique-lancement-de-lexploitation-de-la-liaison-transsaharienne-en-fibre-optique-niger-algerie-a-assamaka/",
+  "title": "Souveraineté et intégration numérique : Lancement de l’exploitation de la liaison transsaharienne en fibre optique Niger-Algérie à Assamaka",
+  "publisher": "MCNTI Niger",
+  "published": "2026-10-07",
+  "sub_indicator": "shared",
+  "why": "Q3 in service Algeria-Niger link"
+ },
+ {
+  "url": "https://anp.ne/dts-a-fibre-optique-niger-algerie-lincarnation-parfaite-dune-cooperation-sud-sud-reussie-concrete-et-mutuellement-benefique-ministre-hamani-kargne/",
+  "title": "DTS à fibre optique Niger-Algérie : l’incarnation parfaite d’une coopération Sud-Sud",
+  "publisher": "Agence Nigérienne de Presse",
+  "published": "2026-10-06",
+  "sub_indicator": "shared",
+  "why": "Q3 ministers launch operation of Trans-Saharan link"
+ },
+ {
+  "url": "https://www.journalduniger.com/niger-algerie-fibre-optique-agadez-in-guezzam/",
+  "title": "Niger-Algérie : un lien fibre de 100 Gbit/s va raccorder Agadez à la dorsale numérique transsaharienne",
+  "publisher": "Journal du Niger",
+  "published": "2026-09-09",
+  "sub_indicator": "shared",
+  "why": "Q1/Q2 agreements signed 8 Sept 2026 between Algérie Télécom and Niger Télécom"
+ },
+ {
+  "url": "https://www.ecofinagency.com/news-digital/1009-58774-niger-secures-additional-international-bandwidth-with-100-gb-algeria-fiber-route",
+  "title": "Niger Secures Additional International Bandwidth With 100 Gb Algeria Fiber Route",
+  "publisher": "Ecofin Agency",
+  "published": "2026-09-10",
+  "sub_indicator": "shared",
+  "why": "Q1 agreement for 100 Gb link"
+ },
+ {
+  "url": "https://www.horizons.dz/2026/04/adoption-de-la-declaration-dalger-sur-la-souverainete-des-telecommunications-africaines/",
+  "title": "Adoption de la Déclaration d'Alger sur la souveraineté des télécommunications africaines",
+  "publisher": "Horizons",
+  "published": "2026-04-01",
+  "sub_indicator": "shared",
+  "why": "Q1 regional declaration on data centres, IXPs"
+ },
+ {
+  "url": "https://www.afdb.org/en/news-and-events/press-releases/niger-takes-major-step-towards-high-speed-connectivity-handover-over-1000-km-fibre-optic-cable-88768",
+  "title": "Niger takes a major step towards high-speed connectivity with handover of over 1,000 km of fibre-optic cable",
+  "publisher": "African Development Bank",
+  "published": "2025-11-20",
+  "sub_indicator": "shared",
+  "why": "Q2 Trans-Sahara backbone works, Algerian border route"
+ },
+ {
+  "url": "https://www.mpt.gov.dz/transsaharan-fibre-optic-backbone/",
+  "title": "Transsaharan Fibre Optic Backbone",
+  "publisher": "Ministry of Post and Telecommunications (Algeria)",
+  "published": "2023-12-17",
+  "sub_indicator": "shared",
+  "why": "Trans-Saharan commission of six states, Algerian segment complete"
+ },
+ {
+  "url": "https://news.radioalgerie.dz/ar/node/12546",
+  "title": "التزام سداسي بتسريع انجاز مشروع الألياف البصرية العابرة للصحراء",
+  "publisher": "الإذاعة الجزائرية",
+  "published": "2022-07-24",
+  "sub_indicator": "shared",
+  "why": "Q1 six-state liaison committee commitment"
+ }
+]

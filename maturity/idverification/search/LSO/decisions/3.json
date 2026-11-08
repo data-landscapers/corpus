@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "sectors",
+ "fact": "Lesotho financial institutions connect directly to the national ID registry by API for KYC following a pilot concluded as a success in 2019, and public bodies including the passport service, public service HR system, Ministry of Finance and tax authority use the registry.",
+ "title": "Identity in Finance – A case study of the Kingdom of Lesotho",
+ "publisher": "ID4Africa",
+ "published": "2025",
+ "date_source": "proxy",
+ "sub_indicator": "use",
+ "why_not": ""
+}

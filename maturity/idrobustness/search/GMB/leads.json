@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.biometricupdate.com/202607/the-gambia-launches-sovereign-digital-id-system-built-by-margins-id-group",
+  "title": "The Gambia launches sovereign digital ID system built by Margins ID Group",
+  "publisher": "Biometric Update",
+  "published": "2026-07-03",
+  "sub_indicator": "robustness",
+  "why": "Q2,Q3: NIMS launched"
+ },
+ {
+  "url": "https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/",
+  "title": "Barrow Inaugurates National Data Centre, Digital Identity System",
+  "publisher": "The Standard",
+  "published": "2026-07-01",
+  "sub_indicator": "robustness",
+  "why": "Q2,Q4: NIMS launch, ISO-certified data centre"
+ },
+ {
+  "url": "https://thepoint.gm/africa/gambia/headlines/barrow-launches-national-id-system-with-instant-biometric-cards",
+  "title": "Barrow launches national ID system with instant biometric cards",
+  "publisher": "The Point",
+  "published": "2026-07-01",
+  "sub_indicator": "robustness",
+  "why": "Q2,Q3: biometric enrolment"
+ },
+ {
+  "url": "https://securedocumentnews.com/news/2026/jan/26/the-gambia-chooses-supplier-for-national-id-infrastructure-upgrade/",
+  "title": "The Gambia Chooses Supplier for National ID Infrastructure Upgrade",
+  "publisher": "ID & Secure Document News",
+  "published": "2026-01-26",
+  "sub_indicator": "robustness",
+  "why": "Q1: BOT contract"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099102025103014657/pdf/P502279-e8627dee-4568-45e7-bb51-9a1aea1ff040.pdf",
+  "title": "World Bank ID & CRVS diagnostic, The Gambia",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "robustness",
+  "why": "Q2,Q3,Q4: assurance levels, biometric dedup"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202409/details-of-the-gambias-national-id-card-contract-plan-emerge",
+  "title": "Details of the Gambia's national ID card contract plan emerge",
+  "publisher": "Biometric Update",
+  "published": "2024-10-01",
+  "sub_indicator": "robustness",
+  "why": "Q2,Q3: dedup history"
+ },
+ {
+  "url": "https://policies.gov.gm/d/9c7cefe5-80cf-11ef-b086-029254d29bb1",
+  "title": "Gambia National Digital Identity Strategy",
+  "publisher": "Government of The Gambia",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Q1,Q4: LoA planned"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "shared",
+ "aspect": "service",
+ "fact": "A 347 km fibre link between Congo and Cameroon under the Central African Backbone project was provisionally received at Ouesso on 26 May 2022 and had gone live.",
+ "title": "Fibre optic interconnection linking Cameroon and Congo now operational",
+ "publisher": "ITWeb Africa",
+ "published": "2022-06-02",
+ "date_source": "source",
+ "why_not": ""
+}

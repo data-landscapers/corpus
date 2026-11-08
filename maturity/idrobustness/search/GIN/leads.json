@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://horoya.net/2026/07/25/guinee-loneci-et-ng-tech-innovation-sallient-pour-moderniser-lidentification-et-letat-civil/",
+  "title": "Guinée : l'ONECI et NG Tech Innovation s'allient pour moderniser l'identification et l'état civil",
+  "publisher": "Journal Horoya",
+  "published": "2026-07-25",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q2 RNPP verification platform MoU"
+ },
+ {
+  "url": "https://idtechwire.com/guinea-launches-biometric-birth-certificates-in-sanoyah-in-civil-registry-modernization-push/",
+  "title": "Guinea Launches Biometric Birth Certificates in Sanoyah in Civil Registry Modernization Push",
+  "publisher": "ID Tech",
+  "published": "2026-03-04",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3 biometric ID card enrolment in service, duplicate fight"
+ },
+ {
+  "url": "https://guineenews.org/2025/04/22/etat-civil-aucun-document-didentite-navait-de-base-legale-selon-djenabou-toure/",
+  "title": "État-civil : « Aucun document d'identité n'avait de base légale », selon Djenabou Touré",
+  "publisher": "Guinéenews",
+  "published": "2025-04-22",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q2 unique identifier assigned from birth, census operation"
+ },
+ {
+  "url": "https://conakryinfos.com/2025/04/15/la-guinee-se-dote-dun-numero-didentification-unique-et-permanent/",
+  "title": "La Guinée se dote d'un numéro d'identification unique et permanent",
+  "publisher": "Conakryinfos",
+  "published": "2025-04-15",
+  "sub_indicator": "robustness",
+  "why": "Q2 NPI unique number"
+ },
+ {
+  "url": "https://guineelex.com/decrets-arretes/arrete-conjoint-a-2025-235-matd-mspc-maeiage-cab-sgg",
+  "title": "Arrêté conjoint A/2025/235 - carte nationale d'identité biométrique",
+  "publisher": "GuinéeLex",
+  "published": "2025-03-24",
+  "sub_indicator": "robustness",
+  "why": "Q2 free biometric ID card issuance, 15 days from enrolment"
+ },
+ {
+  "url": "https://legisguinee.com/textes/loi-2023-019-identification-personnes-physiques",
+  "title": "Loi L/2023/019 portant identification des personnes physiques",
+  "publisher": "LégisGuinée",
+  "published": "2024-07-02",
+  "sub_indicator": "robustness",
+  "why": "Q3/Q4 biometrics fingerprints face iris; security provisions"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202106/tech5-integrates-biometric-software-with-mosip-platform-for-guineas-national-id-system",
+  "title": "Tech5 integrates biometric software with MOSIP platform for Guinea's national ID system",
+  "publisher": "Biometric Update",
+  "published": "2021-06-22",
+  "sub_indicator": "robustness",
+  "why": "Q3 ABIS de-duplication"
+ }
+]

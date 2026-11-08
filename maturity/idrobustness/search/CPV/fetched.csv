@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.rfi.fr/pt/%C3%A1frica-lus%C3%B3fona/20260611-cabo-verde-j%C3%A1-produz-passaportes-e-cart%C3%B5es-de-identifica%C3%A7%C3%A3o-no-pa%C3%ADs,unfetchable,"HTTP 403; Wayback HTTP 429, not checked",,0,,
+2,https://imij.gov.cv/noticias/cms-noticia-46,unfetchable,"HTTP 500; Wayback HTTP 429, not checked",,0,,
+3,https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration,held,held as raw/2026/2026-05-19-crvs-id-reforms-birth-registration-biometricupdate.md,,0,,
+4,https://www.ecowas.int/ecowas-conducts-advocacy-on-the-deployment-of-the-ecowas-national-biometric-identity-card-in-cabo-verde/,fetched,,scripts/.workroot/study/idrobustness/cache/CPV/4.txt,539,html,ECOWAS Conducts Advocacy on the Deployment of The ECOWAS National Biometric Identity Card in Cabo Verde
+5,https://tiver.cv/incv-inicia-producao-de-documentos-eletronicos-de-identificacao/,fetched,,scripts/.workroot/study/idrobustness/cache/CPV/5.txt,279,html,INCV INICIA PRODUÇÃO DE DOCUMENTOS ELETRÓNICOS DE IDENTIFICAÇÃO
+6,https://lid-event.com/blog/cabo-verde-digital-identity-workshop-recap/,fetched,,scripts/.workroot/study/idrobustness/cache/CPV/6.txt,1996,html,Cabo Verde Digital Identity Workshop: Recap and Key Numbers
+7,https://boe.incv.cv/Bulletins/View?id=61371,fetched,,scripts/.workroot/study/idrobustness/cache/CPV/7.txt,57,html,Decreto-lei n.º 27/2023
+8,https://sniac.cv/cartao-nacional-de-identificacao/,held,held as raw/2026/2026-07-20-cabo-verde-sniac-cartao-nacional-identificacao.md,,0,,

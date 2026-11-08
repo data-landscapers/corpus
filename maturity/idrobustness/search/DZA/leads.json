@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://id4africa.com/2026/files/T2-3-S3-4-Algeria-FINAL.pdf",
+  "title": "Expérience Algérienne dans la sécurisation du processus de numérisation de l’état civil et d’émission des documents biométriques d’identité et de voyage",
+  "publisher": "Ministère de l'Intérieur (Algérie), ID4Africa",
+  "published": "2026-05",
+  "sub_indicator": "robustness",
+  "why": "unique NIN, AFIS matching, PKI, 40m cards"
+ },
+ {
+  "url": "https://www.mpt.gov.dz/wp-content/uploads/2026/02/Loi-n%C2%B0-26-02.Services-de-Confiance.Identification-electronique.FR_.pdf",
+  "title": "Loi n° 26-02 services de confiance et identification électronique",
+  "publisher": "Journal Officiel de la République Algérienne",
+  "published": "2026-02-18",
+  "sub_indicator": "robustness",
+  "why": "levels of assurance and certification for e-ID"
+ },
+ {
+  "url": "https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-decentralisation-algeria.pdf",
+  "title": "EGMRG 2026 – Algérie, état civil et NIN",
+  "publisher": "UNECA APAI-CRVS",
+  "published": "2026",
+  "sub_indicator": "robustness",
+  "why": "NIN tied to biometrics ensuring uniqueness"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202511/algeria-approves-draft-legislation-on-digital-id-trust-services",
+  "title": "Algeria approves draft legislation on digital ID, trust services",
+  "publisher": "Biometric Update",
+  "published": "2025-11-10",
+  "sub_indicator": "robustness",
+  "why": "legal framework linked to biometric ID"
+ },
+ {
+  "url": "https://www.lnr-dz.com/2023/09/24/les-dispositions-applicables-au-numero-didentification-national-definies-par-decret/",
+  "title": "Les dispositions applicables au numéro d’identification national définies par Décret",
+  "publisher": "La Nouvelle République",
+  "published": "2023-09-24",
+  "sub_indicator": "robustness",
+  "why": "NIN decree: unique permanent number"
+ },
+ {
+  "url": "https://members.gaan.dz/articles-divers/la-cnibe--une-technologie-inexploitee-page-15282",
+  "title": "La CNIBE : une technologie inexploitée",
+  "publisher": "GAAN",
+  "published": "2022-05-04",
+  "sub_indicator": "robustness",
+  "why": "chip security, Common Criteria EAL7 OS"
+ },
+ {
+  "url": "http://services.interieur.gov.dz/fr/modernisation-et-la-securisation-des-documents-didentite-et-de-voyages/",
+  "title": "Modernisation et la sécurisation des documents d’identité et de voyages",
+  "publisher": "Ministère de l'Intérieur (Algérie)",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "CNIBE security features"
+ },
+ {
+  "url": "https://dpimap.org/algeria/",
+  "title": "Algeria - DPI Map",
+  "publisher": "DPI Map",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "DPI-like ID assessment"
+ }
+]

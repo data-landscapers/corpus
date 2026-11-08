@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://bamada.net/identification-des-abonnes-telephoniques-lamrtp-renforce-les-mesures-de-fiabilite-autour-du-nina-et-de-lacquisition-des-cartes-sim",
+  "title": "Identification des abonnés téléphoniques : l'AMRTP renforce les mesures de fiabilité autour du NINA et de l'acquisition des cartes SIM",
+  "publisher": "Bamada.net",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q3: SIM registration against NINA, AMRTP communiqué 29 July 2025"
+ },
+ {
+  "url": "https://www.maliweb.net/economie/telecom/identification-des-puces-orange-mali-stupefaction-et-coleres-3107932.html",
+  "title": "Identification des puces Orange Mali : Stupéfaction et colères",
+  "publisher": "Mali Tribune / Maliweb",
+  "published": "2025-08-02",
+  "sub_indicator": "use",
+  "why": "Q3: SIM registration campaign by NINA since Nov 2024"
+ },
+ {
+  "url": "https://afrikinfos-mali.com/2025/08/04/usurpation-des-donnees-nina-sur-les-cartes-sim-le-ministere-des-tics-lamrtp-et-lapdp-reagissent-au-profit-des-consommateurs/",
+  "title": "Usurpation des données NINA sur les cartes SIM",
+  "publisher": "Afrikinfos-Mali",
+  "published": "2025-08-04",
+  "sub_indicator": "use",
+  "why": "Q3: operators ordered to let subscribers check numbers tied to NINA"
+ },
+ {
+  "url": "https://lesoirdebamako.com/2024/11/07/identification-des-puces-de-telephones-jusquau-15-decembre-un-dilemme-pour-les-usagers-qui-sont-sans-carte-nina/",
+  "title": "Identification des puces de téléphones jusqu'au 15 décembre",
+  "publisher": "Le Soir de Bamako",
+  "published": "2024-11-07",
+  "sub_indicator": "use",
+  "why": "Q3: SIM identification via NINA deadline 15 Dec 2024"
+ },
+ {
+  "url": "https://www.digitalbusiness.africa/mali-lamrtp-edifie-les-consommateurs-sur-limportance-de-lidentification-des-cartes-sim/",
+  "title": "Mali : l'AMRTP édifie les consommateurs sur l'importance de l'identification des cartes SIM",
+  "publisher": "Digital Business Africa",
+  "published": "2024-08-02",
+  "sub_indicator": "use",
+  "why": "Q3: NINA-based SIM identification since 1 Feb 2023"
+ },
+ {
+  "url": "https://www.maliweb.net/economie/telecom/telecommunications-tic-lidentification-des-sim-au-coeur-du-1er-forum-des-consommateurs-3072428.html",
+  "title": "Télécommunications/TIC : l'identification des SIM au cœur du 1er forum des consommateurs",
+  "publisher": "Maliweb",
+  "published": "2024-08-02",
+  "sub_indicator": "use",
+  "why": "Q3/Q5: three-SIM limit, subscriber counts"
+ },
+ {
+  "url": "http://www.moov-africa.ml/particulier/mobile/SVA/Pages/Identification-NINA.aspx",
+  "title": "Identification NINA",
+  "publisher": "Moov Africa Malitel",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q3: operator requires NINA identification, accepts NINA, biometric and AMO cards"
+ },
+ {
+  "url": "https://bamada.net/usurpation-didentite-cartes-sim-les-autorites-serrent-la-vis",
+  "title": "Usurpation d'identité/cartes SIM : les autorités serrent la vis",
+  "publisher": "Bamada.net",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q3: NINA-bearing ID mandatory for new SIMs"
+ }
+]

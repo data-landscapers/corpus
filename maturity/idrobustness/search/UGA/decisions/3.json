@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "biometric",
+ "fact": "NIRA closed its mass registration and renewal exercise in February 2026 having migrated all 28.5 million records to the new system, with about 10 million IDs printed and 14.3 million renewals done.",
+ "title": "NIRA closes mass National ID registration exercise",
+ "publisher": "Monitor",
+ "published": "2026-02-09",
+ "date_source": "source",
+ "why_not": ""
+}

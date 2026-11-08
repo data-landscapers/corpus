@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "system",
+ "fact": "On 30 June 2026 Guinea-Bissau's Minister of Justice inaugurated a second mobile national identity card issuance centre in Bolama, bringing the national enrollment network to 21 centres.",
+ "title": "New Identification Service for Bolama",
+ "publisher": "Semlex",
+ "published": "2026-06-30",
+ "date_source": "source",
+ "why_not": ""
+}

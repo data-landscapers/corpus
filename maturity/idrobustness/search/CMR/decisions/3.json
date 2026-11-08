@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "biometric",
+ "fact": "The 2023 World Bank ID4D diagnostic states Cameroon's ID system has been digitised since 1994, centralises validation with 1:n biometric deduplication through an AFIS before issuing cards, and covers about 82 percent of the population.",
+ "title": "Diagnostic of ID Systems in Cameroon",
+ "publisher": "World Bank Group (ID4D)",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

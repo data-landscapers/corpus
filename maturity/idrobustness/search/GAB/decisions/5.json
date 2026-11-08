@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "biometric",
+ "fact": "From 3 April 2024 Gabon's Interior Ministry has issued each citizen a 14-character Personal Identification Number after registering biometric data, to identify the person uniquely.",
+ "title": "Carte nationale d'identité électronique (CNIE)",
+ "publisher": "Ministère de l'Intérieur, de la Sécurité et de la Décentralisation",
+ "published": "2024-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

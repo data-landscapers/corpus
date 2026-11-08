@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "biometric",
+ "fact": "In May 2025 the DGSN published that enrolment at an identification post captures biometric and biographic data (photo, fingerprints) and the national identity card is produced within 48 hours of validation.",
+ "title": "Procédure d'obtention des titres identitaires",
+ "publisher": "Délégation Générale à la Sûreté Nationale",
+ "published": "2025-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

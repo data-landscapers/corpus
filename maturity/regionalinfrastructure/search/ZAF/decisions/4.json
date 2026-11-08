@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "shared",
+ "aspect": "service",
+ "fact": "As of January 2022 the UbuntuNet Alliance backbone, built under the EU-funded AfricaConnect projects, ran links from its Mtunzini and Cape Town points of presence in South Africa to Maputo, Lusaka and Nairobi.",
+ "title": "The UbuntuNet Network",
+ "publisher": "UbuntuNet Alliance",
+ "published": "2022-01",
+ "date_source": "source",
+ "why_not": ""
+}

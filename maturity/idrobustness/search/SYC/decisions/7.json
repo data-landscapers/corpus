@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "system",
+ "fact": "Seychelles launched the SeyID national digital identity platform on 31 October 2022, issuing virtual IDs to citizens and residents alongside the national identity card.",
+ "title": "Seychelles launches National Digital Identity platform – SeyID",
+ "publisher": "Seychelles Nation",
+ "published": "2022-11-02",
+ "date_source": "source",
+ "why_not": ""
+}

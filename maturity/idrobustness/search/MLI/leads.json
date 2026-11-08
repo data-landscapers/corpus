@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://bamada.net/identification-un-nouveau-systeme-biometrique-lance-pour-la-souverainete-numerique-du-mali",
+  "title": "Identification : un nouveau système biométrique lancé pour la souveraineté numérique du Mali",
+  "publisher": "Bamada.net",
+  "published": "2024-02-16",
+  "sub_indicator": "robustness",
+  "why": "Q1-2: Mali Kura Biométrie launched 13 Feb 2024; NINA issuance"
+ },
+ {
+  "url": "https://www.journalduniger.com/mali-kura-biometrie-le-systeme-qui-revolutionne-le-ravec/",
+  "title": "Mali Kura Biométrie : le système qui révolutionne le RAVEC",
+  "publisher": "Journal du Niger",
+  "published": "2024-02-14",
+  "sub_indicator": "robustness",
+  "why": "Q3: uniqueness and duplicate detection by biometrics"
+ },
+ {
+  "url": "https://www.maliweb.net/police/carte-nationale-didentite-biometrique-securisee-les-commissariats-et-brigades-territoriales-charges-de-lenrolement-et-de-la-delivrance-3087852.html",
+  "title": "Carte nationale d'identité biométrique sécurisée : les commissariats et brigades territoriales chargés de l'enrôlement et de la délivrance",
+  "publisher": "Aujourd'hui-Mali / Maliweb",
+  "published": "2024-12-14",
+  "sub_indicator": "robustness",
+  "why": "Q1-2: CNIBS enrolment stations rolled out Oct 2024"
+ },
+ {
+  "url": "https://sgg-mali.ml/JO/2025/mali-jo-2025-23.pdf",
+  "title": "Décret n°2025-0509/PT-RM du 25 juillet 2025 portant institution et réglementation de la carte nationale d'identité biométrique",
+  "publisher": "Journal Officiel de la République du Mali",
+  "published": "2025",
+  "sub_indicator": "robustness",
+  "why": "Q2-3: enrolment checked against RAVEC, biometrics updated, fraud detection"
+ },
+ {
+  "url": "https://www.maliweb.net/societe/carte-nationale-didentite-biometrique-securisee-desormais-disponible-3018667.html",
+  "title": "Carte nationale d'identité biométrique sécurisée : Désormais disponible",
+  "publisher": "L'Essor / Maliweb",
+  "published": "2023-04-12",
+  "sub_indicator": "robustness",
+  "why": "Q2-3: CNIBS issuance by face and fingerprint"
+ },
+ {
+  "url": "https://malijet.com/communiques-de-presse/281503-carte-d%E2%80%99identit%C3%A9-biom%C3%A9trique-s%C3%A9curis%C3%A9e-plus-de-5-millions-de-car.html",
+  "title": "Carte d'identité biométrique sécurisée : Plus de 5 millions de cartes confectionnées",
+  "publisher": "Malijet",
+  "published": "2023-09-04",
+  "sub_indicator": "robustness",
+  "why": "Q2: 5.7 million cards produced"
+ },
+ {
+  "url": "https://www.id4africa.com/2025/files/T2-P1-S2-3-MALI_FINAL.pdf",
+  "title": "Identité juridique : progrès (Mali)",
+  "publisher": "ID4Africa",
+  "published": "2025",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q4: 20M NINA; ISO 27001-standard hosting room"
+ },
+ {
+  "url": "https://bamada.net/remise-officielle-des-cartes-nationales-didentite-biometriques-securisees-cnibs-les-anciennes-pieces-didentite-restent-valables-seulement-pour-une-annee",
+  "title": "Remise officielle des cartes nationales d'identité biométriques sécurisées (CNIBS)",
+  "publisher": "Bamada.net",
+  "published": "2023-04-15",
+  "sub_indicator": "robustness",
+  "why": "Q2: RAVEC biometric database, unique NINA"
+ }
+]

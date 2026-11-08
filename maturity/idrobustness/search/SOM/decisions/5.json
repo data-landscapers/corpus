@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "biometric",
+ "fact": "UNDP states that as of November 2025 over 1 million Somalis were registered with biometric digital identity, and that a verified ID system reduces duplication and fraud.",
+ "title": "FROM EXCLUSION TO IDENTITY",
+ "publisher": "UNDP Somalia",
+ "published": "2026-01-15",
+ "date_source": "source",
+ "why_not": ""
+}

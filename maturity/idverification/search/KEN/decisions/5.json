@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "use",
+ "aspect": "",
+ "fact": "",
+ "title": "Kenya Client Registry",
+ "publisher": "Digital Health Agency",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "off-topic: undated dashboard page with no imprint date; its only dated line (Oct 2024 SHA integration) is an event date, not a publication date"
+}

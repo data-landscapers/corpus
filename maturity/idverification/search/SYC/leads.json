@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.cbs.sc/Downloads/publications/aml/Directives/CBS_Directive_1_of_2025-_SeyID_.pdf",
+  "title": "Directive on the Adoption and Acceptance of the National Digital Identity (SeyID) for Customer Due Diligence",
+  "publisher": "Central Bank of Seychelles",
+  "published": "2025-04-04",
+  "sub_indicator": "use",
+  "why": "Q1/Q2 banking"
+ },
+ {
+  "url": "https://www.souvrengroup.com/research-and-perspectives/built-but-not-activated",
+  "title": "Built But Not Activated",
+  "publisher": "Souvren",
+  "published": "2026-09-17",
+  "sub_indicator": "use",
+  "why": "Q2 banks do not yet verify"
+ },
+ {
+  "url": "https://www.wisekey.com/press/wisekey-expands-implementation-of-digital-identity-solutions-from-seychelles-to-africa-empowering-nations-with-secure-national-id-systems/",
+  "title": "WISeKey Expands Implementation of Digital Identity Solutions from Seychelles to Africa",
+  "publisher": "WISeKey",
+  "published": "2025-04-23",
+  "sub_indicator": "use",
+  "why": "Q2/Q3 sectors"
+ },
+ {
+  "url": "https://www.seyid.gov.sc/eKYC/AbouteKYC",
+  "title": "eKYC - SeyIDPortal",
+  "publisher": "SeyID",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q2 verification service"
+ },
+ {
+  "url": "https://www.seyid.gov.sc/Home/FAQ",
+  "title": "FAQ - SeyIDPortal",
+  "publisher": "SeyID",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q2 third-party QR verification"
+ },
+ {
+  "url": "https://nation.sc/articles/7243/stricter-sim-card-registration-to-curb-criminality",
+  "title": "Stricter SIM card registration to curb criminality",
+  "publisher": "Seychelles Nation",
+  "published": "2020-12-16",
+  "sub_indicator": "use",
+  "why": "Q2 telecoms SIM"
+ },
+ {
+  "url": "https://www.wisekey.com/press/wisekey-awarded-project-by-government-of-seychelles-to-deliver-seyid-a-digital-identity-platform/",
+  "title": "WISeKey Awarded Project by Government of Seychelles to Deliver SeyID",
+  "publisher": "WISeKey",
+  "published": "2024-04-22",
+  "sub_indicator": "use",
+  "why": "Q2 bank account opening"
+ }
+]

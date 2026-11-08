@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "biometric",
+ "fact": "The presidential decree of 28 February 2025 defines the national identity card as computerised and biometric, bearing a unique identification number, issued by the DGSN within 48 hours of validating an application after physical enrolment.",
+ "title": "Decree on the characteristics and procedures for establishing and issuing identification documents",
+ "publisher": "Presidency of the Republic of Cameroon",
+ "published": "2025-02-28",
+ "date_source": "source",
+ "why_not": ""
+}

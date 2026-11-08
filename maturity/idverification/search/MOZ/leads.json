@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://mznews.co.mz/mocambique-reforca-integracao-digital-do-estado-atraves-da-tecnologia-x-road/",
+  "title": "Moçambique reforça integração digital do Estado através da tecnologia X-Road",
+  "publisher": "MZ News",
+  "published": "2026-10-09",
+  "sub_indicator": "use",
+  "why": "Q2: X-Road integration training with DNIC, AT, INAS"
+ },
+ {
+  "url": "https://360mozambique.com/innovation/telecom/incm-launches-nutel-app-to-strengthen-subscriber-id-security/",
+  "title": "INCM Launches NUTEL App to Strengthen Subscriber ID Security",
+  "publisher": "360 Mozambique",
+  "published": "2026-09-01",
+  "sub_indicator": "use",
+  "why": "Q3: SIM registration"
+ },
+ {
+  "url": "https://aimnews.org/2026/07/22/governo-avanca-com-sistema-integrado-para-modernizar-gestao-tributaria/",
+  "title": "Governo avança com sistema integrado para modernizar gestão tributária",
+  "publisher": "AIM",
+  "published": "2026-07-22",
+  "sub_indicator": "use",
+  "why": "Q2: interoperability BI-NUIT"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099042226205030950/pdf/P172350-ea7be2a4-0727-4372-a851-4df42faaf183.pdf",
+  "title": "EDGE Implementation Status and Results Report",
+  "publisher": "World Bank",
+  "published": "2026",
+  "sub_indicator": "use",
+  "why": "Q5: relying parties indicator"
+ },
+ {
+  "url": "https://clubofmozambique.com/news/mozambique-govt-wants-private-sector-active-in-nations-digital-transformation/",
+  "title": "Mozambique: Govt wants private sector active in nation's digital transformation",
+  "publisher": "Club of Mozambique",
+  "published": "2026-02-12",
+  "sub_indicator": "use",
+  "why": "Q2: bank link to civil identification planned"
+ },
+ {
+  "url": "https://mznews.co.mz/en/incm-apela-ao-registo-de-cartoes-sim/",
+  "title": "INCM apela ao registo de cartões SIM",
+  "publisher": "MZ News",
+  "published": "2025-11-19",
+  "sub_indicator": "use",
+  "why": "Q3: SIM registration"
+ },
+ {
+  "url": "https://www.vm.co.mz/m-pesa/artigo/nuit-atraves-do-m-pesa",
+  "title": "NUIT através do M-Pesa",
+  "publisher": "Vodacom Moçambique",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q3: M-Pesa KYC with BI"
+ },
+ {
+  "url": "https://pt.linkedin.com/posts/inage-ip-gov-518591357_inage-ip-lidera-implementa%C3%A7%C3%A3o-da-plataforma-activity-7339268558721343489-Y9nP",
+  "title": "INAGE, IP Lidera Implementação da Plataforma de Interoperabilidade Centrada no Cidadão",
+  "publisher": "INAGE",
+  "published": "2025-06-13",
+  "sub_indicator": "use",
+  "why": "Q2: DNIC interoperability"
+ }
+]

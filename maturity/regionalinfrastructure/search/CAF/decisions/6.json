@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "shared",
+ "aspect": "service",
+ "fact": "On 6 February 2023 the Central African government inaugurated in Bangui 935 km of national backbone that interconnects the Central African Republic with Cameroon and Congo under the Central African Backbone project.",
+ "title": "Inauguration de la Dorsale optique nationale de la République centrafricaine et de l'interconnexion avec le Congo",
+ "publisher": "Groupe de la Banque africaine de développement",
+ "published": "2023-02-08",
+ "date_source": "source",
+ "why_not": ""
+}

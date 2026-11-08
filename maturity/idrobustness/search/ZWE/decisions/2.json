@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "system",
+ "fact": "The Sunday Mail reported that the Zimbabwe Population Registry System, the central database of citizens' details, was in final testing and due to be unveiled the following month, with an online passport and ID application platform expected before the end of the year.",
+ "title": "Passport, ID applications go online",
+ "publisher": "The Sunday Mail (via Zimbabwe Situation)",
+ "published": "2024-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

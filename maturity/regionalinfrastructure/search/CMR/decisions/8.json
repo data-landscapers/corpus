@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "shared",
+ "aspect": "service",
+ "fact": "A 22 km fibre link joining the Cameroon and Gabon backbones at Kye-Ossi/Bitam was launched and operational in July 2021, following a 28 November 2019 MoU.",
+ "title": "Cameroon-Gabon fibre link now operational",
+ "publisher": "Developing Telecoms",
+ "published": "2021-07-20",
+ "date_source": "source",
+ "why_not": ""
+}

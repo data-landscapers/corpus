@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.afdb.org/en/news-and-events/congo-new-data-centre-funded-african-development-bank-will-cement-national-and-subregional-digital-sovereignty-70847",
+  "title": "Congo: New data centre funded by African Development Bank will cement national and subregional digital sovereignty",
+  "publisher": "African Development Bank",
+  "published": "2024-05-17",
+  "sub_indicator": "shared",
+  "why": "Q1/Q2: CAB-Congo financing for fibre to Cameroon and CAR plus data centre"
+ },
+ {
+  "url": "https://www.digitalbusiness.africa/integration-en-zone-cemac-le-congo-le-cameroun-et-la-centrafrique-ecrivent-les-pages-de-leur-interconnexion-par-fibre-optique-avec-le-projet-cab/",
+  "title": "Intégration en zone Cémac : le Congo, le Cameroun et la Centrafrique écrivent les pages de leur interconnexion par fibre optique avec le projet CAB",
+  "publisher": "Digital Business Africa",
+  "published": "2022-05-31",
+  "sub_indicator": "shared",
+  "why": "Q2/Q3: Congo-Cameroon link received, Congo-CAR works launched, 2019 accord"
+ },
+ {
+  "url": "https://itweb.africa/article/fibre-optic-interconnection-linking-cameroon-and-congo-now-operational/rW1xLv5nGPQ7Rk6m",
+  "title": "Fibre optic interconnection linking Cameroon and Congo now operational",
+  "publisher": "ITWeb Africa",
+  "published": "2022-06-02",
+  "sub_indicator": "shared",
+  "why": "Q3: Congo-Cameroon fibre in service"
+ },
+ {
+  "url": "https://www.adiac-congo.com/content/congo-rca-les-travaux-dinterconnexion-de-la-fibre-optique-sous-fluviale-lances-138141",
+  "title": "Congo-RCA : les travaux d'interconnexion de la fibre optique sous-fluviale lancés",
+  "publisher": "ADIAC",
+  "published": "2022-05-27",
+  "sub_indicator": "shared",
+  "why": "Q2: works begun on Congo-CAR link"
+ },
+ {
+  "url": "https://labreveonline.com/osiane-le-congo-et-5-pays-voisins-desormais-interconnectes-par-fibre-optique/",
+  "title": "Osiane : Le Congo et 5 pays voisins désormais interconnectés par fibre optique",
+  "publisher": "La Brève Online",
+  "published": "2025-05-16",
+  "sub_indicator": "shared",
+  "why": "Q3: interconnected with DRC, Gabon, CAR, Cameroon, Angola"
+ },
+ {
+  "url": "https://www.tresor.economie.gouv.fr/Pays/CG/le-secteur-du-numerique",
+  "title": "Le secteur du numérique au Congo-Brazzaville",
+  "publisher": "Direction générale du Trésor",
+  "published": "2024-08-30",
+  "sub_indicator": "shared",
+  "why": "Q3: Gabon link under CAB since 2018, Cameroon 2022"
+ },
+ {
+  "url": "https://www.adiac-congo.com/content/numerique-les-tuyaux-ont-gagne-du-terrain-lusage-cherche-encore-le-sien-171228",
+  "title": "Numérique : les tuyaux ont gagné du terrain, l'usage cherche encore le sien",
+  "publisher": "ADIAC",
+  "published": "2026-08-14",
+  "sub_indicator": "shared",
+  "why": "Q3/Q4: CAB links to Gabon and CAR"
+ },
+ {
+  "url": "https://cgix.cg/index.php/index.php/nous%20connaitre.php",
+  "title": "Site web du CGIX",
+  "publisher": "CGIX (Congo Internet Exchange)",
+  "published": "",
+  "sub_indicator": "shared",
+  "why": "Q3: AU regional IXP; 2018 interconnection accord with GABIX"
+ }
+]

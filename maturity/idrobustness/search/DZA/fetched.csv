@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://id4africa.com/2026/files/T2-3-S3-4-Algeria-FINAL.pdf,held,held as raw/2026/2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe.md,,0,,
+2,https://www.mpt.gov.dz/wp-content/uploads/2026/02/Loi-n%C2%B0-26-02.Services-de-Confiance.Identification-electronique.FR_.pdf,held,held as raw/2026/2026-02-17-dza-jo-2026-014-loi-26-02-services-confiance-identification-electronique.md,,0,,
+3,https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-decentralisation-algeria.pdf,held,held as raw/2026/2026-07-01-dza-uneca-egmrg-crvs-digitalisation.md,,0,,
+4,https://www.biometricupdate.com/202511/algeria-approves-draft-legislation-on-digital-id-trust-services,held,held as raw/2025/2025-11-10-digital-id-trust-services-draft-law--biometricupdate.md,,0,,
+5,https://www.lnr-dz.com/2023/09/24/les-dispositions-applicables-au-numero-didentification-national-definies-par-decret/,fetched,,scripts/.workroot/study/idrobustness/cache/DZA/5.txt,455,html,Les dispositions applicables au numéro d’identification national définies par Décret
+6,https://members.gaan.dz/articles-divers/la-cnibe--une-technologie-inexploitee-page-15282,fetched,,scripts/.workroot/study/idrobustness/cache/DZA/6.txt,1246,html,La CNIBE : une technologie inexploitée - GAAN - Professionnelle
+7,http://services.interieur.gov.dz/fr/modernisation-et-la-securisation-des-documents-didentite-et-de-voyages/,unfetchable,"SSLError; Wayback HTTP 429, not checked",,0,,
+8,https://dpimap.org/algeria/,rejected,rejected 2026-08-29: not-a-document,,0,,

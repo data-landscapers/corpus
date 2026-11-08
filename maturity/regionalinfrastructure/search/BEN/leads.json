@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.capmad.com/post/cotonou-and-addis-ababa-shape-a-digital-alliance-around-sovereign-data",
+  "title": "Cotonou and Addis Ababa shape a digital alliance around sovereign data",
+  "publisher": "CAPMAD",
+  "published": "2026-08-12",
+  "sub_indicator": "shared",
+  "why": "Q1: talks on data hosting partnership with Ethiopia; WARDIP"
+ },
+ {
+  "url": "https://www.agenceecofin.com/actualites-numerique/1708-140913-le-burkina-faso-se-tourne-vers-le-nigeria-pour-son-acces-a-la-connectivite-internationale",
+  "title": "Le Burkina Faso se tourne vers le Nigeria pour son accès à la connectivité internationale",
+  "publisher": "Agence Ecofin",
+  "published": "2026-08",
+  "sub_indicator": "shared",
+  "why": "Q1: Burkina-Nigeria link via Niger and Benin"
+ },
+ {
+  "url": "https://www.coalitionfordigitalafrica.africa/news/strengthening_the_internet_in_africa",
+  "title": "Strengthening the Internet in Africa",
+  "publisher": "Coalition for Digital Africa",
+  "published": "2025-11-13",
+  "sub_indicator": "shared",
+  "why": "Q3: BENIN-IX and COTIX exchange"
+ },
+ {
+  "url": "https://afdb.africa-newsroom.com/press/niger-takes-a-major-step-towards-highspeed-connectivity-with-handover-of-over-1000-km-of-fibreoptic-cable?lang=en",
+  "title": "Niger takes a major step towards high-speed connectivity with handover of over 1,000 km of fibre-optic cable",
+  "publisher": "African Development Bank Group",
+  "published": "2025-11-21",
+  "sub_indicator": "shared",
+  "why": "Q2/Q3: Niger-Benin border fibre section"
+ },
+ {
+  "url": "https://www.agenceecofin.com/actualites-numerique/1711-133428-niger-1031-km-de-fibre-optique-poses-vers-une-interconnexion-avec-les-pays-voisins",
+  "title": "Niger : 1031 km de fibre optique posés, vers une interconnexion avec les pays voisins",
+  "publisher": "Agence Ecofin",
+  "published": "2025-11",
+  "sub_indicator": "shared",
+  "why": "Q2/Q3: interconnection with Benin not yet effective"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099021926103511908/pdf/BOSIB-f7a7b616-d21a-4121-9267-8c3fcb4ff320.pdf",
+  "title": "Project Appraisal Document WARDIP-SOP2",
+  "publisher": "World Bank",
+  "published": "",
+  "sub_indicator": "shared",
+  "why": "Q1/Q3: regional IXP and data infrastructure for Benin"
+ },
+ {
+  "url": "https://aid.nepad.org/aid/public/project-details.php?id=2063",
+  "title": "Burkina Faso-Benin Fibre-optic Link (Burkina Faso section)",
+  "publisher": "African Infrastructure Database",
+  "published": "",
+  "sub_indicator": "shared",
+  "why": "Q1/Q2: Burkina-Benin link status"
+ },
+ {
+  "url": "https://sigtel.ecowas.int/national-mobile-broadband-coverage/",
+  "title": "National Mobile Network Broadband Coverage",
+  "publisher": "ECOWAS",
+  "published": "",
+  "sub_indicator": "shared",
+  "why": "Q3: Benin fibre to Burkina and Niger, IXP"
+ }
+]

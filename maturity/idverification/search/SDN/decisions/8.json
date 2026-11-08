@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "use",
+ "fact": "The Telecommunications and Post Regulatory Authority states it coordinates between telecom operators and the civil registry to link SIM card registrations with national ID numbers.",
+ "title": "National Institutional Integration",
+ "publisher": "Telecommunications and Post Regulatory Authority",
+ "published": "2024-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

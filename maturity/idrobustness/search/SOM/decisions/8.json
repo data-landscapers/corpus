@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "biometric",
+ "fact": "NIRA states that fingerprints and a photograph are captured, biometric and biographic deduplication confirms uniqueness, and each applicant is issued a unique 11-digit National ID number.",
+ "title": "National ID Registration",
+ "publisher": "NIRA",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": ""
+}

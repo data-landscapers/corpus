@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "biometric",
+ "fact": "ANID's press release on the Proof of Concept of the e-ID solution states that registration, NIU generation and the validation and deduplication of biometric data through ABIS are tested, in a campaign of at least 2,000 people from 4 October to 4 November 2023.",
+ "title": "Press release for the Proof of Concept (POC) of the e-ID technological solution",
+ "publisher": "Agence Nationale d'Identification (ANID)",
+ "published": "",
+ "sub_indicator": "robustness",
+ "date_source": "proxy",
+ "why_not": ""
+}

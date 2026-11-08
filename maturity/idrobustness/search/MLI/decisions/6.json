@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "robustness",
+ "aspect": "system",
+ "fact": "On 29 August 2023 5,733,428 secure biometric ID cards had been produced out of 8,463,084 people in the RAVEC database.",
+ "title": "Carte d'identité biométrique sécurisée : Plus de 5 millions de cartes confectionnées",
+ "publisher": "Malijet",
+ "published": "2023-09-04",
+ "date_source": "source",
+ "why_not": ""
+}

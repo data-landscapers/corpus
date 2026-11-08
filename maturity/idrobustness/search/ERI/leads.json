@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.ecoi.net/en/file/local/2107005/General%20country%20of%20origin%20information%20report%20on%20Eritrea%20December%202023.pdf",
+  "title": "General Country of Origin Information Report on Eritrea",
+  "publisher": "Netherlands Ministry of Foreign Affairs",
+  "published": "2023-12",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3: ID card issuance, fingerprints"
+ },
+ {
+  "url": "https://www.e-doc.admin.ch/dam/sem/en/data/internationales/herkunftslaender/afrika/eri/eri-identitaets-und-zivilstandsdokumente-e.pdf.download.pdf/ERI-identitaets-und-zivilstandsdokumente-e.pdf",
+  "title": "Focus Eritrea: Identity and civil status documents",
+  "publisher": "Swiss State Secretariat for Migration",
+  "published": "2021-01-21",
+  "sub_indicator": "robustness",
+  "why": "Q1-3: ID types, register, issuance"
+ },
+ {
+  "url": "https://us.embassyeritrea.org/national-id/",
+  "title": "National ID",
+  "publisher": "Embassy of Eritrea, USA",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3: fingerprint verification for ID"
+ },
+ {
+  "url": "https://us.embassyeritrea.org/wp-content/uploads/2024/09/09-19-2024_Announcement-Launching-CAPS-to-Public-Englsih-Final.pdf",
+  "title": "Embassy of the State of Eritrea in the USA Launches Online E-Services for Consular Affairs",
+  "publisher": "Embassy of Eritrea, USA",
+  "published": "2024-09-24",
+  "sub_indicator": "robustness",
+  "why": "Q2: online ID issuance"
+ },
+ {
+  "url": "https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country/Eritrea.html",
+  "title": "Eritrea - Reciprocity Schedule",
+  "publisher": "US Department of State",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3: new ID fingerprint"
+ }
+]

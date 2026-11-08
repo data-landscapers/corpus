@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/",
+  "title": "NCRA Chief Urges 'Identity-First' Approach to Sierra Leone's Digital Public Infrastructure",
+  "publisher": "Sierra Loaded",
+  "published": "2026-08-07",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3: biometric ID system 93% registered, unique NIN; MOSIP piloted"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202608/sierra-leone-consults-private-sector-on-trusted-digital-id-framework",
+  "title": "Sierra Leone consults private sector on trusted digital ID framework",
+  "publisher": "Biometric Update",
+  "published": "2026-08-06",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q2: ID system based on MOSIP"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202602/brownfield-implementations-represent-mosips-next-wave-of-national-digital-ids",
+  "title": "Brownfield implementations represent MOSIP's next wave of national digital IDs",
+  "publisher": "Biometric Update",
+  "published": "2026-02-19",
+  "sub_indicator": "robustness",
+  "why": "Q1: migration of records to MOSIP"
+ },
+ {
+  "url": "https://dpi.africa/the-low-drive-for-national-identification-system-in-sierra-leone/",
+  "title": "The Low Drive for National Identification System in Sierra Leone",
+  "publisher": "DPI Info Hub",
+  "published": "2025-05-05",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3: ID needs fingerprints and face scans, unique NIN"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202404/sierra-leone-putting-digital-id-at-the-center-of-its-digital-transformation-agenda",
+  "title": "Sierra Leone putting digital ID at the center of its digital transformation agenda",
+  "publisher": "Biometric Update",
+  "published": "2024-04-11",
+  "sub_indicator": "robustness",
+  "why": "Q1/Q2: MOSIP pilot completed Feb 2024; 90% enrolled"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202401/sierra-leone-urges-citizens-to-obtain-biometric-id-cards-for-security-services",
+  "title": "Sierra Leone urges citizens to obtain biometric ID cards",
+  "publisher": "Biometric Update",
+  "published": "2024-01-11",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3: biometric cards with face data and PKI"
+ },
+ {
+  "url": "https://ncra.gov.sl/biometric-civil-registration-process-to-get-your-national-identification-number-nin/",
+  "title": "Biometric Civil Registration process to get your NIN",
+  "publisher": "National Civil Registration Authority",
+  "published": "2023-03-02",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3: fingerprints and photo required; non-duplicating NIN"
+ },
+ {
+  "url": "https://ncra.gov.sl/h-e-president-bio-launched-first-ever-securitized-and-multipurpose-biometric-id-cards-in-sierra-leone/",
+  "title": "President Bio Launched First-Ever Securitized and Multipurpose Biometric ID Cards",
+  "publisher": "National Civil Registration Authority",
+  "published": "2023-02-06",
+  "sub_indicator": "robustness",
+  "why": "Q2: biometric ID cards launched"
+ }
+]

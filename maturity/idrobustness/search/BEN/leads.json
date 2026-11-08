@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.worldbank.org/en/news/feature/2026/05/20/transforming-lives-in-benin-a-unique-identification-system",
+  "title": "Transforming lives in Benin: a unique identification system",
+  "publisher": "World Bank",
+  "published": "2026-03-26",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3: ~99% biometrically enrolled, NPI issued"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202605/digital-id-systems-now-critical-infrastructure-requiring-sovereign-cyber-defence",
+  "title": "Digital ID systems now critical infrastructure requiring sovereign cyber defence",
+  "publisher": "Biometric Update",
+  "published": "2026-05-14",
+  "sub_indicator": "robustness",
+  "why": "Q4: World Bank supporting Benin ISO 27001"
+ },
+ {
+  "url": "https://www.wearetech.africa/en/fils-uk/news/tech/benin-advances-e-government-with-mass-digital-id-adoption",
+  "title": "Benin Advances E-Government With Mass Digital ID Adoption",
+  "publisher": "We are Tech",
+  "published": "2026-01-28",
+  "sub_indicator": "robustness",
+  "why": "Q2: ANIP 2025 figures"
+ },
+ {
+  "url": "https://id4africa.com/2026/files/T1-2-2-Benin-FINAL.pdf",
+  "title": "PLAYBOOK BENIN",
+  "publisher": "ID4Africa",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Q3: ten fingerprints and face biometrics"
+ },
+ {
+  "url": "https://anip.bj/recrutement-dun-prestataire-pour-la-mise-en-place-du-systeme-de-gestion-securite-du-systeme-didentification-nationale-au-profit-de-lanip-relance/",
+  "title": "Recrutement d'un prestataire pour la mise en place du système de gestion sécurité du système d'identification nationale",
+  "publisher": "ANIP",
+  "published": "2025-10-14",
+  "sub_indicator": "robustness",
+  "why": "Q4: security management system tender"
+ },
+ {
+  "url": "https://www.id4africa.com/2025/files/PS5A-S1-2-Benin_FINAL.pdf",
+  "title": "Aspects pragmatiques de la réforme juridique de l'état des personnes",
+  "publisher": "ID4Africa",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Q4: independent audit of RNPP"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202506/benin-envisages-mobile-wallet-launch-in-inclusive-national-digital-id-push",
+  "title": "Benin envisages mobile wallet launch in inclusive national digital ID push",
+  "publisher": "Biometric Update",
+  "published": "2025-06-18",
+  "sub_indicator": "robustness",
+  "why": "Q2/Q3: enrolment and biometric authentications"
+ },
+ {
+  "url": "https://www.id4africa.com/2025/files/PS1-S1-3-Benin-final.pdf",
+  "title": "Foundational identity 4",
+  "publisher": "ID4Africa",
+  "published": "",
+  "sub_indicator": "robustness",
+  "why": "Q3: ABIS biometric system"
+ }
+]

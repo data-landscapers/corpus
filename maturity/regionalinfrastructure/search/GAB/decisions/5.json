@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "shared",
+ "aspect": "service",
+ "fact": "On 15 July 2021 the Gabon and Cameroon ministers inaugurated the interconnection of their fibre networks (Gabon's BNG with CAMTEL's network) at Meyo-Kye under the CAB-4 project.",
+ "title": "Interconnexion des réseaux de transmission numérique entre le Gabon et le Cameroun",
+ "publisher": "Société de Patrimoine des Infrastructures Numériques",
+ "published": "2021-07-21",
+ "date_source": "source",
+ "why_not": ""
+}

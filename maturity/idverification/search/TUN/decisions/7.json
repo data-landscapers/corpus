@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "use",
+ "fact": "TunTrust's Mobile ID certificate policy, version 01 of 17 October 2023, says applicants' national identity card number is checked against their phone number through APIs provided by telecom operators and their name against the national registry database.",
+ "title": "Mobile ID CP/CPS (PL/SMI/19)",
+ "publisher": "Agence Nationale de Certification Electronique (TunTrust)",
+ "published": "2023-10-17",
+ "date_source": "source",
+ "why_not": ""
+}
