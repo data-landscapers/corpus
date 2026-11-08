@@ -1,12 +1,12 @@
 ---
 title: Burkina Faso: status report
-compiled: 2026-11-07
+compiled: 2026-11-08
 place: BFA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-25
 intersections_read: 9
-sources_cited: 219
+sources_cited: 220
 sections_written: 39
 not_established: 0
 acquire_lines: 62
@@ -217,7 +217,7 @@ The state is now on these rails itself. [Faso Arzêka lets citizens pay taxes, d
 ### Registries
 <!-- dpi.registry -->
 
-The social registry is the register moving fastest: [362,698 households and 2,217,518 people were enrolled in the Registre Social Unique across 99 of Burkina Faso's 351 communes in January 2026, up from 79](https://fr.allafrica.com/stories/202601070188.html), with each registered person [carrying a unique identification code under the National Social Protection Strategy 2024–2028](https://rsu.gov.bf), and [its secretariat committed in April and May 2025 to including refugees](https://reliefweb.int/attachments/7398f2dc-34e8-5ce8-920b-9dc8f7bbb936/factsheet%20-unhcr%20burkina%20faso%20-%20january%20-%20june%202025%20pdf.pdf).
+[433,888 households, more than 2 million people, were enrolled in the Registre Social Unique across 110 of Burkina Faso's 351 communes at 30 June 2026, 30% of the target](https://aesinsider.com/burkina-faso-plus-de-433-000-menages-recenses-dans-le-registre-social-unique/), against [362,698 households in 99 communes in January 2026](https://fr.allafrica.com/stories/202601070188.html), with each registered person [carrying a unique identification code under the National Social Protection Strategy 2024–2028](https://rsu.gov.bf), and [its secretariat committed in April and May 2025 to including refugees](https://reliefweb.int/attachments/7398f2dc-34e8-5ce8-920b-9dc8f7bbb936/factsheet%20-unhcr%20burkina%20faso%20-%20january%20-%20june%202025%20pdf.pdf).
 
 Civil registration is the slowest. [Only 60.65% of births are registered within the legal deadline](https://www.amade.org/en/missions/protection/civil-status-for-all/civil-registration-for-children-in-burkina-faso-oe-phase-ii.html) (2024); [thirty communes held fully digitised civil-status registers by the end of 2025](https://lefaso.net/spip.php?article144154); and [the iCivil notification system operates at around 130 of 2,584 vital-event notification points](https://burkina-faso.news-pravda.com/burkina-faso/2025/06/19/36396.html) (2024). [The VENEEM platform, piloted from June 2024 in Komsilga and one Ouagadougou arrondissement, assigns a civil-status identifier at the point of registration](https://burkina24.com/2024/11/12/la-digitalisation-des-declarations-des-naissances-et-autres-actes-detat-civil-une-realite-au-burkina-faso/), and [the Code des personnes et de la famille adopted on 1 September 2025 gives digital civil registers legal standing](https://gouvernement.gov.bf/actualites/nouveau-code-des-personnes-et-de-la-famille-une-reforme-historique-adoptee-a-lunanimite-des-deputes-de-lalt/), and [a decree adopted on 22 October 2026 provides for computerised processing of civil-status data, a civil-status identifier, electronic archiving of registers and online delivery of certificates](https://www.minute.bf/wp-content/uploads/2026/10/CONSEIL-DES-MINISTRES-N%C2%B030-DU-22-OCTOBRE-2026.pdf). Displacement drives much of the output: [121,000 civil-status documents went to internally displaced people in 2025, nearly double the 65,000 target](https://lefaso.net/spip.php?article144154).
 
