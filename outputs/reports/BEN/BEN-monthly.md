@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 place: BEN
-ledger_rows: 22
+ledger_rows: 29
 not_held: 4
-record: bbfc3abc1ff7
+record: 238bdea97a00
 ---
 
 # News, Oct – Nov 2026
@@ -14,6 +14,8 @@ record: bbfc3abc1ff7
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -49,6 +51,28 @@ record: bbfc3abc1ff7
 **[Présidence de la République : un comité national du Numérique créé](https://www.lanation.bj/actualites/presidence-de-la-republique-un-comite-national-du-numerique-cree)** — La Nation, 20 October 2026
 
 Benin created a National Digital Committee under the President of the Republic by decree n° 2026-579 of 2 September 2026, reported on 20 October 2026. The head of state chairs it and it meets quarterly. It tracks digital projects through a quarterly dashboard from a permanent secretariat, and gives prior opinions on structuring digital projects and on technology partnerships that could affect national digital sovereignty.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Programme d'action du gouvernement 2026-2033</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Compte rendu du Conseil des Ministres du 04 nov. 2026](https://sgg.gouv.bj/cm/2026-11-04/)** — Secrétariat général du Gouvernement, République du Bénin, 4 November 2026
+
+PAG 2026-2033 approved, 45/55 public-private financing; Innobox AI-corpus pilot in Parakou and Porto-Novo.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Pag 2026-2033: Le gouvernement Wadagni définit sa feuille de route](https://lanation.bj/actualites/pag-2026-2033-le-gouvernement-wadagni-definit-sa-feuille-de-route)** — La Nation, 6 November 2026
+
+Approved 4 Nov 2026; technology one of two cross-cutting levers; 7.7% growth target, 55% private finance.
 
 </div>
 
@@ -127,6 +151,50 @@ Rwanda, Ghana and Benin completed the first phase of a Smart Africa pilot linkin
 **[Transformation numérique : Le Bénin veut accélérer avec l’IA et miser sur ses propres talents](https://cadreco.media/index.php/numerique/2026/transformation-numerique-le-benin-veut-accelerer-avec-lia-et-miser-sur-ses-propres-talents)** — CADRECO, 9 October 2026
 
 Benin's public-sector digital chiefs met in Cotonou on 8 October 2026 at a conference now covering digital transformation and innovation, where an AI cybersecurity framework with four risk tiers, an AI officer and an ethics committee was presented. Officials cited shortages of staff, equipment, servers and funding in administrations, and the minister stressed developing local solutions and talent.
+
+</div>
+
+</div>
+
+## Finance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#new-investments">New investments</a>
+</nav>
+
+### New investments
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PReM-Benin public resource management programme (IDA Credit 8154-BJ)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Financing Agreement, Credit Number 8154-BJ (Benin Public Resource Management for Jobs and Growth Program for Results as phase 2 of a Multi-Phase Programmatic Approach Program) between Republic of Benin and International Development Association](https://documents.worldbank.org/curated/en/099101626133533827/pdf/P513143-97a59d05-64a1-4746-ba3c-5731375ffd40.pdf)** — World Bank / International Development Association, 16 October 2026
+
+IDA credit terms and DLI table; IFU-NPI interconnection DLI from a 68% base, EUR 6,902,886 allocated.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bénin : 8 millions de dollars pour renforcer l'interconnexion des fichiers fiscaux et d'identification](https://lamarina.bj/2026/11/06/benin-8-millions-de-dollars-pour-renforcer-linterconnexion-des-fichiers-fiscaux-et-didentification/)** — La Marina BJ, 6 November 2026
+
+IDA PReM-Benin indicator: EUR 6.9m for real-time IFU-NPI matching from 68% baseline; 40.76% linked in Oct 2023.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PPMEC II national cadastre scale-up project (Netherlands)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[TERRA BÉNIN et PPMEC II pour accélérer la sécurisation foncière](https://fraternite.bj/terra-benin-et-ppmec-ii-pour-accelerer-la-securisation-fonciere/)** — Fraternite, 7 November 2026
+
+643,993 parcels in 12 communes; World Bank USD 100m for 1.5m parcels; Netherlands EUR 20m for e-Foncier.
 
 </div>
 
@@ -324,6 +392,56 @@ Benin's national identification agency says 98% of the population is enrolled. I
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Tax identifiers matched in real time to a valid personal identification number</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Financing Agreement, Credit Number 8154-BJ (Benin Public Resource Management for Jobs and Growth Program for Results as phase 2 of a Multi-Phase Programmatic Approach Program) between Republic of Benin and International Development Association](https://documents.worldbank.org/curated/en/099101626133533827/pdf/P513143-97a59d05-64a1-4746-ba3c-5731375ffd40.pdf)** — World Bank / International Development Association, 16 October 2026
+
+Summarised under [New investments](#new-investments).
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Bénin : 8 millions de dollars pour renforcer l'interconnexion des fichiers fiscaux et d'identification](https://lamarina.bj/2026/11/06/benin-8-millions-de-dollars-pour-renforcer-linterconnexion-des-fichiers-fiscaux-et-didentification/)** — La Marina BJ, 6 November 2026
+
+Summarised under [New investments](#new-investments).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">e-Foncier national land cadastre</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[TERRA BÉNIN et PPMEC II pour accélérer la sécurisation foncière](https://fraternite.bj/terra-benin-et-ppmec-ii-pour-accelerer-la-securisation-fonciere/)** — Fraternite, 7 November 2026
+
+Summarised under [New investments](#new-investments).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">TERRA land governance programme</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[TERRA BÉNIN et PPMEC II pour accélérer la sécurisation foncière](https://fraternite.bj/terra-benin-et-ppmec-ii-pour-accelerer-la-securisation-fonciere/)** — Fraternite, 7 November 2026
+
+Summarised under [New investments](#new-investments).
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -400,6 +518,8 @@ Benin's Ministry of Justice and Legislation is the first ministry to apply the g
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
 ### AI
@@ -413,6 +533,22 @@ Benin's Ministry of Justice and Legislation is the first ministry to apply the g
 **[Bénin : comment fonctionne le portail numérique des services publics ?](https://www.nasuba.info/politique-societe/benin-comment-fonctionne-le-portail-numerique-des-services-publics/)** — Nasuba, 2 November 2026
 
 Nasuba described Benin's national services portal, service-public.bj, as it stood on 2 November 2026. Its home page showed 1,208 listed services, 131 of them online, and over 2.5 million requests. Services are grouped by life event, theme and administration. Online ones include criminal-record extracts, tax certificates and first vehicle registration. The portal shows a new business mode and an AI assistant, Yèmi; a mobile app is to follow.
+
+</div>
+
+</div>
+
+### Innovation ecosystem
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Innobox community innovation houses</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Compte rendu du Conseil des Ministres du 04 nov. 2026](https://sgg.gouv.bj/cm/2026-11-04/)** — Secrétariat général du Gouvernement, République du Bénin, 4 November 2026
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
