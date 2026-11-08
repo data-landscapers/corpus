@@ -20,8 +20,8 @@ The African Charter on the Values and Principles of Public Service and Administr
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 9 |
-| 4 Operating | 8 |
+| 5 Leading | 10 |
+| 4 Operating | 7 |
 | 3 Established | 17 |
 | 2 Nascent | 5 |
 | 1 Absent | 1 |
@@ -53,6 +53,14 @@ Government staff run, maintain or built three or more of its systems by 2026, no
 - NOSi, the state information-society company, runs the election-results publication system and portal eleicoes.cv with its own staff ([source, 2026-05-17](https://www.anacao.cv/noticia/2026/05/27/legislativas-2026-nosi-diz-que-relatorio-preliminar-aponta-para-causas-de-ordem-tecnica/)).
 - The justice information system, developed and implemented by the state company NOSi, passes for maintenance and development to the Justice Ministry's IMIJ, in coordination with NOSi ([source, 2026-03-17](https://www.governo.cv/nosi-faz-entrega-formal-do-sistema-de-informacao-da-justica-ao-ministerio-da-justica/)).
 - NOSi, the government's technology arm, develops and maintains IGRPWeb among its e-government solutions ([source, 2024](https://www.caboverdeexpert.com/cabo-verde-digital-operational-nucleus-for-the-information-society-nosi/)).
+
+### Ethiopia: 5 Leading
+
+Government staff and state bodies wholly run at least three systems, among them the national ID system a state company took over in 2026.
+
+- State-owned FaydaVerse, not a supplier, manages Ethiopia's national identity system from 4 August 2026 ([source, 2026-08-04](https://kanatelevision.com/news/what-is-faydaverse-the-ethiopian-national-id-program-that-became-a-company-and-how-it-plans-to/)).
+- The election board's voter and candidate registration applications were designed entirely by its in-house technical team and were operational ([source, 2025-06-10](https://www.ena.et/web/eng/w/eng_6739876)).
+- The cyber drill platform was built entirely by INSA experts and used by 17 institutions ([source, 2026-10](https://techreviewafrica.com/news/8150/ethiopia-s-insa-organises-national-cyber-drill-competition-to-strengthen-institutional-cybersecurity-readiness)).
 
 ### Gabon: 5 Leading
 
@@ -124,14 +132,6 @@ A state company's own teams built a trade app that went live in 2024; fewer than
 - GUCE Mobile, with five modules, was launched on 25 July 2024 and was developed and operated entirely by GUCE CI's own teams ([source, 2024-07-25](https://www.gucecotedivoire.ci/innovation-et-dematerialisation-dans-lecosysteme-du-commerce-exterieur-guce-ci-lance-sa-nouvelle-application-guce-mobile-tant-attendue-par-les-operateurs-economiques-les-acteurs-majeurs-e/)).
 - GUCE CI, a state company, manages and maintains the GUCE single-window system, with technical support from the trade ministry ([source, 2024-07-25](https://www.gucecotedivoire.ci/innovation-et-dematerialisation-dans-lecosysteme-du-commerce-exterieur-guce-ci-lance-sa-nouvelle-application-guce-mobile-tant-attendue-par-les-operateurs-economiques-les-acteurs-majeurs-e/)).
 - An SNDI representative said at the 25 September 2026 plenary that SNDI has operated its own satellite network since 2006 connecting administrations, universities and health centres, and had provided internet to the University of Korhogo ([source, 2026-09-25](https://afriksoir.net/aspex-2026-le-satellite-au-coeur-des-enjeux-de-connectivite-et-de-resilience-numerique-en-cote-divoire/)).
-
-### Ethiopia: 4 Operating
-
-The election board's own team built voter and candidate registration applications in service by 2025; no three systems run wholly in-house are known.
-
-- NEBE said its voter and candidate registration applications, designed entirely by its in-house technical team, were operational ([source, 2025-06-10](https://www.ena.et/web/eng/w/eng_6739876)).
-- Addis Fortune reports INSA, the Information Network Security Administration, is spearheading the Federal Supreme Court's Integrated Court Management Information System and Electronic Records Management System ([source, 2025-07](https://addisfortune.news/supreme-court-sets-bold-course-toward-digital-justice)).
-- INSA says its own developed tools, including Ergamail and the electronic tax system, are already in use across key government agencies ([source, 2025-07-08](https://ethiopianbusinessreview.net/innovation-wears-netela-ethiopia-to-build-its-own-versions-of-whatsapp-gmail-and-zoom-citing-tired-of-data-leaks/)).
 
 ### Liberia: 4 Operating
 

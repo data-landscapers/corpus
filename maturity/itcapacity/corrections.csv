@@ -45,3 +45,7 @@ ZMB,030,added,"Rung 5 rewritten (Bill, 2026-10-26, message 31): one row per syst
 GMB,001,removed,"Rung 5 rewritten (Bill, 2026-10-26, message 31): a cadre is no longer asked; three systems run wholly by government staff are."
 GNQ,006,removed,"CNIAPGE 'established' the corruption-reporting platform; the hearing report does not say its own staff built it rather than a contractor (stage 4 asks for that)."
 GNQ,007,removed,"Maintaining a platform with no contractor named does not state that no contractor does the work (stage 5 asks for that)."
+BEN,007,removed,"a foreign national hired to direct ANIP because identity expertise is rare: says nothing of who runs its systems, so not outsourced (stage 4c 2026-11-08)"
+ETH,010,added,"Stage 4c 2026-11-08: one row per system run wholly by government staff; ETH-007's source says state-owned FaydaVerse, not a supplier, manages the national identity system."
+ETH,011,added,"Stage 4c 2026-11-08: one row per system run wholly by government staff; ETH-004's source says the election board's own team designed its registration applications entirely."
+ETH,012,added,"Stage 4c 2026-11-08: one row per system run wholly by government staff; ETH-006's source says INSA experts built the cyber drill platform entirely."

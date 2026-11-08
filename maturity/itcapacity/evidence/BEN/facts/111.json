@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-09-ben-banouto-gouvernement-reponse-nomination-dg-anip",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "outsourced",
+   "fact": "The government says digital identity expertise is rare in Benin and recruited a Rwandan national as external collaborator to direct ANIP for the next phase.",
+   "as_of": "2023-11-09",
+   "date_precision": "day",
+   "system": "ANIP",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

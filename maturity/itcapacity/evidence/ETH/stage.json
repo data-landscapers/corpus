@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "inhouse",
-      "stage": "4",
+      "stage": "5",
       "inhouse": "yes",
       "agency": "operating",
       "built": "live",
-      "own": "",
+      "own": "entire",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-004;ETH-003;ETH-002",
-      "gaps": "No source found since October 2023 names three systems run wholly by government staff.",
-      "note": "The election board said in June 2025 that its voter and candidate registration applications, designed entirely by its in-house team, were operational, so a system built by government staff went live. No three systems are named as run wholly in-house, so not 5.",
-      "as_at": "2026-11-04"
+      "stage_sources": "ETH-010;ETH-011;ETH-012",
+      "gaps": "",
+      "note": "Stage 4c 2026-11-08: state-owned FaydaVerse, not a supplier, has managed the national identity system since 4 August 2026; with the election board's registration applications and INSA's cyber drill platform, both built entirely in-house, three systems are run wholly by government staff. A later yes answers the earlier ones.",
+      "as_at": "2026-11-08"
     }
   ]
 }

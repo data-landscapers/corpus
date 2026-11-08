@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-06-eth-what-is-faydaverse-the-ethiopian-national-id-program-that-became-a-com",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "Kana TV News reports state-owned FaydaVerse, not a supplier, manages Ethiopia's national identity system from 4 August 2026.",
+   "as_of": "2026-08-04",
+   "date_precision": "day",
+   "system": "Fayda Digital ID",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "Kana TV News says FaydaVerse's Fayda E-Services manages e-government platforms spanning commerce, social protection, agriculture, tax and trade.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Fayda E-Services",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
