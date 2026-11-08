@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-06-eth-what-is-faydaverse-the-ethiopian-national-id-program-that-became-a-com",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Kana TV News reports the Fayda Digital ID system has processed 190 million secure authentications, including real-time biometric eKYC used by banks and telecoms.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Fayda Digital ID",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "Kana TV News reports Fayda is connected to more than 165 public and private institutions and over 150 enterprises pay for eKYC integration.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Fayda Digital ID",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda Digital ID",
+   "country_label": "Ethiopia",
+   "class": "authentication",
+   "platform": "MOSIP",
+   "owner": "FaydaVerse",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

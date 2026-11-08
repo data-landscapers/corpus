@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-30-sen-senegal-and-togo-strengthen-cooperation-on-digital-identity-systems",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "TechAfrica News reports that MOSIP's authentication component has been integrated within Togo's national systems, as shown to a Senegalese delegation in October 2025.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Togo national electronic identification (EID) platform on MOSIP",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Togo national electronic identification (EID) platform on MOSIP",
+   "country_label": "Togo",
+   "class": "other",
+   "platform": "MOSIP",
+   "owner": "ANID",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

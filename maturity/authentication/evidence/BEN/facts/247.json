@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-ben-benin-8-millions-de-dollars-pour-renforcer-l-interconnexion-des-fichie",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "La Marina BJ reports the DGI online platform checks the NPI against ANIP data to issue an IFU.",
+   "as_of": "2021-12",
+   "date_precision": "month",
+   "system": "NPI online check by DGI",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

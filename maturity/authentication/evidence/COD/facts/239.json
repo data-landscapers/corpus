@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-27-cod-rdc-l-onip-presente-le-plan-de-mise-en-uvre-du-programme-de-fichier-ge",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "ONIP's interim director general says the Afritech/IDEMIA contract notified 6 November 2023 includes an identity verification platform and an NIN verification solution, to be deployed nationally.",
+   "as_of": "2023-11-06",
+   "date_precision": "day",
+   "system": "ONIP identity verification platform and NIN verification",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fichier general de la population (FGP) / national ID card",
+   "country_label": "DRC",
+   "class": "other",
+   "platform": "Afritech/IDEMIA",
+   "owner": "ONIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

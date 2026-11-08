@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-nga-the-nimc-act-2026-explained-what-nigeria-s-new-identity-law-means-for",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Olaniwun Ajayi LP says the NIMC Act 2026, signed 26 June 2026, designates NIMC as Nigeria's Root Certificate Authority at the apex of the public key infrastructure, with the technical implications still to become clear in implementation.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "NIMC Root CA",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIMC Root CA",
+   "country_label": "Nigeria",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-01-mosip-rewind-2025",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "MOSIP says Ethiopia has 91 agencies integrated with its MOSIP-based national ID, including widely adopted bank eKYC services.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "MOSIP-based national ID eKYC",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MOSIP-based national ID",
+   "country_label": "Ethiopia national ID",
+   "class": "other",
+   "platform": "MOSIP",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

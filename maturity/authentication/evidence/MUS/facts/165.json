@@ -1,0 +1,46 @@
+{
+ "slug": "2024-08-30-mus-carte-d-identite-la-mobile-id-est-une-realite",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Defimedia reports the minister launched the Mobile ID, a digital wallet app of the national identity card, on 29 August 2024, downloadable by citizens holding a Maupass account.",
+   "as_of": "2024-08-29",
+   "date_precision": "day",
+   "system": "Mobile ID (Mobile Wallet Application)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "Defimedia reports public organisations and businesses will have a separate app to verify identity via the Mobile ID, which also signs documents digitally.",
+   "as_of": "2024-08-29",
+   "date_precision": "day",
+   "system": "Mobile ID (Mobile Wallet Application)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "Defimedia reports the Mobile ID, described by the minister as a digital wallet, was launched on 29 August 2024 and lets citizens carry their identity card data on a smartphone.",
+   "as_of": "2024-08-29",
+   "date_precision": "day",
+   "system": "Mobile ID (Mobile Wallet Application)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile ID (Mobile Wallet Application)",
+   "country_label": "Mauritius",
+   "class": "authentication",
+   "platform": "Thales with Harel Mallac Technologies",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

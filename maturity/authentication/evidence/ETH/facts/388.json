@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-eth-fayda-digital-id-ethiopia-status-update",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The National ID Program deck lists online authentication, offline authentication and eKYC in Fayda's credential strategy and authentication as a use case with banks and telcos.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Fayda",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Fayda",
+   "class": "other",
+   "platform": "MOSIP",
+   "owner": "National ID Program",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

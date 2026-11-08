@@ -1,0 +1,44 @@
+{
+ "slug": "2025-05-20-som-somalia-s-journey-towards-a-foundational-national-id-system",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NIRA's Director General says the Hubiye platform is operational for verification by relying parties through an API.",
+   "as_of": "2025-05-20",
+   "date_precision": "day",
+   "system": "Hubiye",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "NIRA says the eAqoonsi app has launched for digital ID access, on Google Play and the App Store.",
+   "as_of": "2025-05-20",
+   "date_precision": "day",
+   "system": "eAqoonsi",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Hubiye",
+   "country_label": "Somalia",
+   "class": "authentication",
+   "platform": "API",
+   "owner": "NIRA",
+   "tiers": ""
+  },
+  {
+   "system": "eAqoonsi",
+   "country_label": "Somalia",
+   "class": "authentication",
+   "platform": "mobile app",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-som-4-1-application-process-and-identity-verification",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "The EU Agency for Asylum report says the Somali ID is available as a physical card, a digital ID wallet called eAqoonsi, or a downloadable verifiable credential with a QR code, issued by the national ID authority NIRA.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "eAqoonsi",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eAqoonsi",
+   "country_label": "Somalia",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

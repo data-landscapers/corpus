@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "CIV-005;CIV-004;CIV-010;CIV-011",
-      "gaps": "The Côte d'Ivoire Identité app holds the ID card, but the app says the authorities do not yet recognise its digital ID, so no state-accepted mobile ID or wallet has been found; a national authentication platform and wallet are only at feasibility study.",
-      "note": "Reassessed under Bill's ruling of 23 October 2026 that a method counts only where the state accepts it: the Côte d'Ivoire Identité app's digital ID is not recognised by the authorities, so it sets no rung. E-signature in use across the public administration on ANSSI's national PKI holds stage 4 (CIV-005, CIV-004, CIV-010).",
-      "as_at": "2026-10-23"
+      "gaps": "The Côte d'Ivoire Identité app holds the ID card, but the app says the authorities do not yet recognise its digital ID; ONECI's director general said in June 2025 that the card was digitised through MyONECI+ (CIV-016), without saying it is accepted as proof anywhere. A national authentication platform and wallet are only at feasibility study.",
+      "note": "Reassessed 2026-11-08 under Bill's ruling of 23 October 2026 that a method counts only where the state accepts it: neither the MyONECI+ digitised card (CIV-016) nor the Côte d'Ivoire Identité app is shown accepted as proof of identity, so neither sets a rung. E-signature in use across the public administration on ANSSI's national PKI holds stage 4 (CIV-005, CIV-004, CIV-010).",
+      "as_at": "2026-11-08"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-rwa-rwanda-s-journey-to-a-single-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The ID4Africa 2026 deck says IN Groupe was procured to supply authentication, with AMBAS and PKI for authentication, digital signatures and trusted transactions, as part of the Single Digital Identity build that was still rolling out in May 2026.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "AMBAS + PKI (Single Digital Identity)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Single Digital Identity (SDID) with AMBAS + PKI",
+   "country_label": "Rwanda",
+   "class": "authentication",
+   "platform": "IN Groupe authentication",
+   "owner": "NIDA / RISA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

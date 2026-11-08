@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-12-nga-id4africa-fg-targets-cheaper-digital-identity-system-with-local-soluti",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Senator Victor Umeh says political parties now rely heavily on the National Identification Number to verify members on party platforms, which has raised the relevance of NIMC's verification infrastructure.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "NIMC NIN verification",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIMC NIN verification",
+   "country_label": "Nigeria",
+   "class": "authentication",
+   "platform": "",
+   "owner": "National Identity Management Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

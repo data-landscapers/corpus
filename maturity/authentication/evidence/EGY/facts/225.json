@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-26-egy-mcit-biometric-verification-e-signature-system-launch",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "MCIT says the biometric verification and e-signature system, built by NTRA with ITIDA, CyShield and licensed e-signature companies, is launching as a pilot that lets licensed telecom operators offer identity verification and e-signature in their apps.",
+   "as_of": "2026-08-26",
+   "date_precision": "day",
+   "system": "Biometric verification and e-signature system",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Biometric verification and e-signature system",
+   "country_label": "Egypt",
+   "class": "authentication",
+   "platform": "CyShield",
+   "owner": "NTRA / MCIT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

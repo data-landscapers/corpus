@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-21-gha-ghana-nigeria-kenya-reveal-revenue-generation-models-from-national-id",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "NIMC's director general said at ID4Africa 2025 the commission is working on the Nigeria Public Key Infrastructure (NPKI), to certify the public and private sectors.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Nigeria Public Key Infrastructure (NPKI)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

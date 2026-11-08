@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-15-gha-cagd-verify-ghana-card-details-by-march-15-or-face-salary-suspension",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Citi Newsroom reports the Controller and Accountant-General's Department memo of 11 February 2026 requires public employees to log onto the government payroll platform with their NIA number, which is integrated with the National Identification Authority database and flags numbers that fail to match biometric records.",
+   "as_of": "2026-02-11",
+   "date_precision": "day",
+   "system": "e-Payslip platform",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

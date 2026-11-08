@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-10-nga-nigeria-moves-to-replace-its-national-id-system-a-misstep-could-lock-o",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "TechCabal reports NIMC runs an existing NIN Authentication Service, which the MOSIP platform is to be combined with, and that banks and telecom operators already depend on it.",
+   "as_of": "2025-12-10",
+   "date_precision": "day",
+   "system": "NIN Authentication Service",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "TechCabal says authentication against the NIN is relied on by banking, telecoms (SIM registration) and social services, with outages locking out sectors from banking to telecoms.",
+   "as_of": "2025-12-10",
+   "date_precision": "day",
+   "system": "NIN Authentication Service",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIN Authentication Service",
+   "country_label": "Nigeria NIN authentication",
+   "class": "authentication",
+   "platform": "being combined with MOSIP",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-mar-mi-um6p-mosip-rnp-l3-support-collaboration",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Ministry of Interior and UM6P deck says the National Population Registry offers an authentication service, with 70M+ authentications reported.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "RNP authentication service",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The deck says the registry's authentication service compares data declared at registration for social programmes with the RNP's, and that six social programmes (RSU, AMOT, ASD, AMO, CHAMIL and others) are integrated.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "RNP authentication service",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National de la Population (RNP)",
+   "country_label": "Morocco",
+   "class": "authentication",
+   "platform": "MOSIP",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

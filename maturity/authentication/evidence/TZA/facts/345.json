@@ -1,0 +1,36 @@
+{
+ "slug": "2024-04-01-tza-nida-yawa-ufunguo-wa-maendeleo-nchini-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NIDA says it shares its national register with about 96 public and private institutions so they can verify the identity of their customers.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "NIDA national register verification",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "NIDA says about 96 public and private institutions, three of them in Zanzibar, use its register to verify people, for SIM, bank account, company and passport services.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "NIDA national register verification",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Central electronic register of registration and identification of persons",
+   "country_label": "NIDA",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

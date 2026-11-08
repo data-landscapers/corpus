@@ -1,0 +1,36 @@
+{
+ "slug": "2025-05-21-gha-ghana-nigeria-kenya-reveal-revenue-generation-models-from-national-id",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The National Identification Authority's legal head told ID4Africa 2025 that banks, social and health services verify identities against the Ghana card and pay a fee per verification.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Ghana card identity verification",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The National Identification Authority's legal head said the banking, social and health sectors all verify identity against the Ghana card.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Ghana card identity verification",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana card",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "public-private partnership",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

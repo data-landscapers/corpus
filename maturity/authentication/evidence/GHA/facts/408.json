@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-28-gha-cagd-moves-to-eliminate-ghost-names-with-biometric-verification",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Controller and Accountant-General said on 28 July 2025 that his office is procuring handheld biometric devices to verify public workers using the NIA number.",
+   "as_of": "2025-07-28",
+   "date_precision": "day",
+   "system": "Handheld biometric verification against the NIA number",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

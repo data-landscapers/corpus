@@ -1,0 +1,36 @@
+{
+ "slug": "2025-03-24-eth-bbc-amharic-eight-things-to-know-about-fayda-id",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Fayda national ID programme coordinator Yodahe Arayaselassie says that after a registrant's death is confirmed the number stays valid but is kept from use for authentication services, which implies an authentication service in use.",
+   "as_of": "2025-03-24",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "Yodahe Arayaselassie says Ethio Telecom and more than 30 other institutions have tied their services to the Fayda ID, and the National Bank of Ethiopia requires it for bank accounts in Addis Ababa.",
+   "as_of": "2025-03-24",
+   "date_precision": "day",
+   "system": "Fayda",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Fayda digital ID",
+   "class": "authentication",
+   "platform": "",
+   "owner": "National ID Programme",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

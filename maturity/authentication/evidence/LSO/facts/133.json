@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-23-lso-eoi-lesotho-nissa-systems-development-enhancement-consultancy",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Ministry of Gender, Youth and Social Development's World Bank-financed PSLP seeks a consultant to build a real-time and bulk API authenticating national ID numbers against the National Identity and Civil Registry.",
+   "as_of": "2024-04-23",
+   "date_precision": "day",
+   "system": "NISSA-NICR ID authentication API",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NISSA-NICR ID authentication API",
+   "country_label": "Lesotho",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Ministry of Gender, Youth and Social Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

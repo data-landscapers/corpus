@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-civ-country-playbook-cote-d-ivoire-id4africa-2026-29",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "ONECI's 2026 playbook lists an authentication platform and digital verification through APIs and online services as part of the national ID infrastructure it runs.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Plateforme d'authentification (ONECI)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Plateforme d'authentification",
+   "country_label": "ONECI",
+   "class": "authentication",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

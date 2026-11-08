@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-01-som-4-3-access-to-services",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "EUAA reports, citing a World Bank team, over 23,000 electronic verifications using the NIRA ID for bank account opening and transactions as of March 2026.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "NIRA electronic ID verification",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "EUAA reports, citing a World Bank team, that banks, business registration, education and transport business use NIRA's electronic ID verification, and over 24 services had integrated it by November 2025.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "NIRA electronic ID verification",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIRA electronic ID verification",
+   "country_label": "NIRA",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
