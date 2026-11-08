@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-05-ner-numerique-dans-lespace-aes-la-feuille-de-route-de-lan-ii-adoptee",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "Sidwaya reports Niger's ministry took part in the AES workshop that finalised the digital deliverables of the Year II roadmap on 5 November 2026.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "AES Year II roadmap",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
