@@ -1116,9 +1116,9 @@ NAM,hosting,Communications regulator,communications-regulator,Communications Reg
 NAM,hosting,Audit office,,Office of the Auditor General,no line,
 NAM,hosting,Anti-corruption commission,,Anti-Corruption Commission,no line,
 NAM,deal-recipient,Public Sector,,Telecom Namibia,no line,
+NAM,deal-recipient,Unknown,,"Namibia (NAM); recipient organisation not named, recipient unspecified",no line,
 NAM,deal-recipient,Public Sector,,Windhoek Smart City / Government of Namibia,no line,
 NAM,deal-recipient,Private Sector,,Paratus Namibia,no line,
-NAM,deal-recipient,Private Sector,,"Namibia (NAM); recipient organisation not named, recipient unspecified",no line,
 NAM,deal-recipient,Private Sector,,"Sub-Saharan Africa (XSS); recipient organisation not named, recipient unspecified",no line,
 NER,hosting,Presidency,,Présidence de la République du Niger,line,ner-2025-05-106-10609001
 NER,hosting,Parliament,,Assemblée nationale,no line,

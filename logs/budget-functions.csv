@@ -405,20 +405,20 @@ MDG,land-registry,found,whole,4,mdg-2024-68-460-409-253,Ministère de l'Aménage
 MDG,social-registry,found,whole,3,mdg-2024-76-762-830-00-76-0-520,Ministère de la Population et des Solidarités,rows,,
 MDG,population-register,absent,,,,,hand,"keyword scan of the finance laws' volumes for 2024 to 2026, every service line of which was read at the sittings of 2026-09-24 and 2026-09-25: no service names a population register",2026-10-02
 MDG,data-exchange,absent,,,,,hand,"keyword scan of the finance laws' volumes for 2024 to 2026, every service line of which was read at the sittings of 2026-09-24 and 2026-09-25: interoperable information systems appear as an indicator only",2026-10-02
-MLI,statistics,found,whole,18,mli-2024-310-3.008-31-1-2017-0011-001-000000,Institut national de la statistique (INSTAT),rows,,
-MLI,civil-registration-id,found,whole,15,mli-2024-330-2.036-12-2-2011-0013-001-000000-62-9-1-27,,rows,,
+MLI,statistics,found,whole,19,mli-2024-310-3.008-31-1-2017-0011-001-000000,Institut national de la statistique (INSTAT),rows,,
+MLI,civil-registration-id,found,whole,18,mli-2024-330-2.036-12-2-2011-0013-001-000000-62-9-1-27,,rows,,
 MLI,communications-regulator,found,partial,1,mli-2024-amrtp,Autorité malienne de régulation des télécommunications/TIC et des postes (AMRTP),rows,,
 MLI,ict-ministry-egov,found,whole,7,mli-2025-730-2.077-12-1-2017-0061-001-000000,Agence des technologies de l'information et de la communication (AGETIC); Portail gouvernemental du Mali,rows,,
-MLI,cybersecurity,found,whole,8,mli-2024-220-1.009-12-1-2022-0058-001-000000,,rows,,
+MLI,cybersecurity,found,whole,13,mli-2024-220-1.009-12-1-2022-0058-001-000000,,rows,,
 MLI,data-protection,found,whole,4,mli-2024-334-2.095,Autorité de protection des données à caractère personnel (APDP),rows,,
-MLI,revenue-systems,found,whole,1,mli-2026-310-2.024-a01-3.1.2,Direction générale des impôts,rows,,
+MLI,revenue-systems,found,whole,2,mli-2026-310-2.024-a01-3.1.2,Direction générale des impôts,rows,,
 MLI,treasury-fmis,found,whole,2,mli-2024-310-2.023-32-6-2016-2970-001-000000,Ministère de l'Économie et des Finances,rows,,
 MLI,procurement,absent,,,,Autorité de régulation des marchés publics et des délégations de service public (ARMDS),hand,"keyword scan of the finance laws for 2024 and 2025 and the programme documents for 2024 to 2026, read at the sitting of 2026-09-24: the procurement regulator (ARMDS) is section 312, funded as a body, and no line names a procurement system; the system appears only in the 2026 programme document's list of acronyms",2026-10-02
 MLI,electoral-register,absent,,,,,hand,"keyword scan of the finance laws for 2024 and 2025 and the programme documents for 2024 to 2026, read at the sitting of 2026-09-24: no line names the electoral file or a voter register",2026-10-02
-MLI,land-registry,found,whole,10,mli-2026-740-2.078-a01-1.1.8,,rows,,
+MLI,land-registry,found,whole,18,mli-2026-740-2.078-a01-1.1.8,,rows,,
 MLI,social-registry,absent,,,,Caisse nationale d'assurance maladie (CANAM),hand,"keyword scan of the finance laws for 2024 and 2025 and the programme documents for 2024 to 2026, read at the sitting of 2026-09-24: no line names a social registry",2026-10-02
 MLI,population-register,absent,,,,,hand,"keyword scan of the finance laws for 2024 and 2025 and the programme documents for 2024 to 2026, read at the sitting of 2026-09-24: no line names a population register apart from the civil-status data centre, held under civil registration",2026-10-02
-MLI,data-exchange,found,whole,3,mli-2024-310-1.011-32-6-2016-2969-001-000000,,rows,,
+MLI,data-exchange,found,whole,4,mli-2024-310-1.011-32-6-2016-2969-001-000000,,rows,,
 MOZ,statistics,found,whole,37,moz-2024-27a000141-27a006441-fun,Instituto Nacional de Estatística,rows,,
 MOZ,civil-registration-id,found,whole,39,moz-2024-17a000141-17a002741-fun,Direcção Nacional de Identificação Civil; Direcção Nacional dos Registos e Notariado (registo civil),rows,,
 MOZ,communications-regulator,absent,,,,Instituto Nacional das Comunicações de Moçambique,hand,keyword scan of the budget laws' maps and the general state account for 2024 to 2026: no organ or project names the communications regulator (INCM),2026-10-02

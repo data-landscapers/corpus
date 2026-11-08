@@ -1,3 +1,7 @@
+## 8 November 2026
+
+- Mali's 2027 draft now has 100 lines, 79 of them activities read from the programme annex, the grain the 2026 figures use: the tax directorate's e-filing and SIGTAS work, the finance ministry's computerisation cell, the cybercrime unit and the digital-economy directorate among them. Wholly digital lines total CFA 24.1bn against 20.9bn in the 2026 draft, now read at the same grain.
+
 ## 7 November 2026
 
 - Mali's 2027 draft is in the tables at the grain the finance bill prints: 13 investment projects and eight public bodies, CFA 16.7bn wholly digital. The 2026 figures were read at activity grain from the programme annex; the 2027 annex is not yet held, so the two years are not line-for-line comparable.
