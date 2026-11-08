@@ -1,6 +1,6 @@
 ---
 title: Namibia: finance
-compiled: 2026-11-06
+compiled: 2026-11-08
 place: NAM
 ---
 
@@ -28,7 +28,7 @@ place: NAM
 <tfoot><tr><th scope="row">All topics</th><td class="num">6</td><td class="num">2</td><td class="num">&lt;1</td><td class="num">35</td><td class="num">69</td><td class="num">74</td><td class="num total">186</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/NAM/all-finance.html">Full table &mdash; 107 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/NAM/all-finance.html">Full table &mdash; 108 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/NAM/NAM-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -77,6 +77,6 @@ place: NAM
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/NAM/finance.html">Full table &mdash; 32 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/NAM/finance.html">Full table &mdash; 33 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/NAM/NAM-nonstate.csv" download>&darr; Download CSV</a>
 </div>
