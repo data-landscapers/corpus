@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 place: BFA
-ledger_rows: 41
+ledger_rows: 42
 not_held: 6
-record: b4c983d14a52
+record: 0f0ac3b9529a
 ---
 
 # News, Oct – Nov 2026
@@ -327,6 +327,8 @@ A Nigerien delegation led by Mohamed Ghadfi, deputy secretary-general of the com
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
@@ -445,6 +447,22 @@ In an interview, Sahouba Kabré of Burkina Faso's Observatoire de la qualité de
 **[Communiqué DGI : Facturation électronique certifiée obligatoire pour les grandes entreprises dès le 1er janvier 2027](https://burkina24.com/2026/11/04/communique-dgi-facturation-electronique-certifiee-obligatoire-pour-les-grandes-entreprises-des-le-1er-janvier-2027-2/)** — Burkina24, 4 November 2026
 
 Burkina Faso's tax directorate (DGI) announced that from 1 January 2027 large and medium enterprises must issue every invoice through a certified electronic invoicing system (SECeF). The rule rests on article 564-2 of the Code général des impôts. Suppliers face fines per invoice and possible closure; clients may lose their VAT deduction.
+
+</div>
+
+</div>
+
+### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Single social register</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina Faso : Plus de 433 000 ménages recensés dans le Registre social unique](https://aesinsider.com/burkina-faso-plus-de-433-000-menages-recenses-dans-le-registre-social-unique/)** — AES Insider, 27 October 2026
+
+433,888 households, over 2m people, at 30 June 2026: 30% of target across 110 communes; ID interconnection pending.
 
 </div>
 
