@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-01-nga-the-nimc-act-2026-explained-what-nigeria-s-new-identity-law-means-for",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Olaniwun Ajayi LP says President Tinubu signed the NIMC Act 2026 on 26 June 2026, repealing the NIMC Act 2007.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "NIMC Act 2026",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "cover",
+   "value": "digital",
+   "fact": "Olaniwun Ajayi LP says the NIMC Act 2026 makes the National Identification Number the central identifier legally required for passports, voter registration, bank accounts, insurance, tax returns and consumer credit, and creates a General Multipurpose Card.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "NIMC Act 2026",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

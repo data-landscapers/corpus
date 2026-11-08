@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-22-gin-etat-civil-aucun-document-d-identite-n-avait-de-base-legale-selon-djen",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The director says a new law now governs identity documents (national ID card, birth certificate, nationality certificate) and identification documents (passport, voter card, driving licence), which previously had no legal basis.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Identity documents law",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
