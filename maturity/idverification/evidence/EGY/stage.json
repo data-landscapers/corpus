@@ -1,17 +1,18 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "5",
-   "use": "inservice",
-   "sectors": "several",
-   "usage": "reported",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "EGY-006",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "4",
+      "use": "inservice",
+      "sectors": "several",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-005;EGY-008;EGY-013",
+      "gaps": "No source gives a figure for checks against the national ID: Digified's 25 million verifications a year are the vendor's own total, and the Digital Egypt figures count users.",
+      "note": "Digified checks clients of lenders, investors and insurers against the national ID databases, and the Public Prosecution's portal admits only users verified through the Digital Egypt identity: two sectors in use, so 4. Digified's 25 million verifications are a vendor's total, not checks counted against the ID, so not 5.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

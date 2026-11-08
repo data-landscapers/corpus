@@ -1,17 +1,18 @@
 {
- "iso3": "TGO",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "2",
-   "use": "underway",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TGO-001",
-   "gaps": "No source found since October 2023 says a service in use checks people against the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "3",
+      "use": "inservice",
+      "sectors": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TGO-002",
+      "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID: the 2026 deck has the card used in microfinance without describing a check.",
+      "note": "ANID's 2026 deck says the identification number is used through verification and authentication, including sign-in to the public services portal. The microfinance use is not described as a check, so not 4.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "CMR",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "3",
-   "use": "inservice",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CMR-001",
-   "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "CMR",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "unplaced",
+      "use": "",
+      "sectors": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The only fact held is a 2026 payroll census requiring the national ID card as a document; nothing found since October 2023 says another system checks people against the ID.",
+      "note": "Presenting the card at a census is not a check against the ID system, so no rung is met.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

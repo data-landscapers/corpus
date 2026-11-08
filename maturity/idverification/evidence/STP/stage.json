@@ -1,17 +1,18 @@
 {
- "iso3": "STP",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "no evidence",
-   "use": "",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names another system checking people against the national ID, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "STP",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "no evidence",
+      "use": "",
+      "sectors": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found names another system checking people against the national ID, or says there is none.",
+      "note": "No row on another system's use of the national ID is held, and no source says there is none.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

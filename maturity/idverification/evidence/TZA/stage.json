@@ -9,10 +9,10 @@
       "usage": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-007;TZA-011",
+      "stage_sources": "TZA-007;TZA-018;TZA-017",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-idverification.py.",
-      "as_at": "2026-10-18"
+      "note": "Tax registration, bank KYC, health insurance and pensions check people against NIDA's system, which had 147 connected institutions in April 2026. Every rung is shown.",
+      "as_at": "2026-11-08"
     }
   ]
 }

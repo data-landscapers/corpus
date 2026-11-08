@@ -1,17 +1,18 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "3",
-   "use": "inservice",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-002",
-   "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "3",
+      "use": "inservice",
+      "sectors": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-003;SWZ-002",
+      "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
+      "note": "Banks and other financial institutions verify customers against the national civil registry (2025). Only finance is shown, so not 4.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

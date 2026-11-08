@@ -1,17 +1,18 @@
 {
- "iso3": "GAB",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "2",
-   "use": "underway",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GAB-001",
-   "gaps": "No source found since October 2023 says a service in use checks people against the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "GAB",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "unplaced",
+      "use": "",
+      "sectors": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The only fact held is a 2026 salary declaration making the personal ID number compulsory; nothing found since October 2023 says another system checks people against the ID.",
+      "note": "A number made compulsory in a declaration is a register keyed on it, not a check against the ID, so no rung is met.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

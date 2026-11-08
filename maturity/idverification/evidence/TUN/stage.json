@@ -9,10 +9,10 @@
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TUN-012;TUN-002",
-      "gaps": "No source found since October 2023 gives a figure for verifications or counts the services relying on the ID.",
-      "note": "First pass: counted from the four questions by study-ladder-idverification.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "TUN-012;TUN-011;TUN-008",
+      "gaps": "No source found since October 2023 gives a figure for verifications or a count of the services relying on E-Houwiya; the 2026 playbook names integrators without a total.",
+      "note": "Banks onboard customers through E-Houwiya, and the 2026 playbook lists Tunisie Telecom, CNAM, CNSS and La Poste among its integrators: several sectors, so 4. It names services but gives no count or figure, so not 5.",
+      "as_at": "2026-11-08"
     }
   ]
 }

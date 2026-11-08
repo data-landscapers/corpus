@@ -9,10 +9,10 @@
       "usage": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "SOM-005",
+      "stage_sources": "SOM-019;SOM-018;SOM-009",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-idverification.py.",
-      "as_at": "2026-10-17"
+      "note": "All commercial banks verify customers against the NIRA ID since September 2025, education and business registration also check it, and over 23,000 electronic verifications were counted by March 2026. Every rung is shown.",
+      "as_at": "2026-11-08"
     }
   ]
 }

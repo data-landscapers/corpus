@@ -1,17 +1,18 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "3",
-   "use": "inservice",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SDN-002;SDN-008",
-   "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "3",
+      "use": "inservice",
+      "sectors": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SDN-002;SDN-008",
+      "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
+      "note": "Omdurman National Bank verifies customers through SudaPass since September 2026, under a 2024 circular making banks check the national number against the Civil Registry. Only banking is shown, so not 4.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

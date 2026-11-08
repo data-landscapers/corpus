@@ -1,17 +1,18 @@
 {
- "iso3": "GMB",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "3",
-   "use": "inservice",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GMB-003;GMB-002",
-   "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "GMB",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "3",
+      "use": "inservice",
+      "sectors": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GMB-003;GMB-002",
+      "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
+      "note": "The Drivers License System verifies applicants biometrically against the national ID (2025). The health insurance card link was still in testing in 2025, so a second sector is not shown and the cell is not 4.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

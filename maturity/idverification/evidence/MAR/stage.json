@@ -1,17 +1,18 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "5",
-   "use": "inservice",
-   "sectors": "several",
-   "usage": "reported",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-003;MAR-008",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "5",
+      "use": "inservice",
+      "sectors": "several",
+      "usage": "reported",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-013;MAR-008;MAR-011",
+      "gaps": "",
+      "note": "The DGSN's trust platform serves banks, insurers, tax and health services, with over 30 institutions authorised in 2024, and a 2026 deck reports 70 million authentications against the register. Every rung is shown.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

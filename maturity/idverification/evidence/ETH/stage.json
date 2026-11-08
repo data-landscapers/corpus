@@ -9,10 +9,10 @@
       "usage": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-002;ETH-004",
+      "stage_sources": "ETH-002;ETH-020;ETH-007",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-idverification.py.",
-      "as_at": "2026-10-17"
+      "note": "Banks, telecoms and the tax ministry verify people against Fayda, and Faydaverse reports over 208 million eKYC verifications and 150 integrated partners (October 2026). Every rung is shown by a source of 2025 or 2026.",
+      "as_at": "2026-11-08"
     }
   ]
 }

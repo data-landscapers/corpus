@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "5",
-   "use": "inservice",
-   "sectors": "several",
-   "usage": "reported",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-006",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "5",
+      "use": "inservice",
+      "sectors": "several",
+      "usage": "reported",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-006;UGA-005;UGA-018",
+      "gaps": "",
+      "note": "74 financial institutions, a telecom company among them, had NIRA database access for KYC in June 2024, and banks and SIM registration require electronic verification of the new ID (2026). Two sectors and a count, so 5.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

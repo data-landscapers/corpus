@@ -1,17 +1,18 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "5",
-   "use": "inservice",
-   "sectors": "several",
-   "usage": "reported",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BEN-002;BEN-005",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "5",
+      "use": "inservice",
+      "sectors": "several",
+      "usage": "reported",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-016;BEN-015;BEN-002",
+      "gaps": "",
+      "note": "ANIP reports 27 million identity verification requests in 2025 and lists health, education, social protection, telecoms, banks and tax among the systems on its platform. SIM registration and bank eKYC check against the NPI in service, so every rung is met.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

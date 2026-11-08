@@ -1,17 +1,18 @@
 {
- "iso3": "SLE",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "4",
-   "use": "inservice",
-   "sectors": "several",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SLE-014;SLE-016",
-   "gaps": "No source found since October 2023 gives a figure for verifications or counts the services relying on the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "4",
+      "use": "inservice",
+      "sectors": "several",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SLE-016;SLE-015;SLE-019",
+      "gaps": "No source found since October 2023 gives a figure for verifications or counts the services relying on the ID.",
+      "note": "NCRA's central verification system checks people against the NIN for banks, social security, payroll and SIM registration (2024), and operators have cross-checked subscribers against its database in real time since 2025: several sectors, so 4. No figure for checks or count of relying institutions is held, so not 5.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

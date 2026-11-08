@@ -1,17 +1,18 @@
 {
- "iso3": "DJI",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "2",
-   "use": "underway",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DJI-001",
-   "gaps": "No source found since October 2023 says a service in use checks people against the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "2",
+      "use": "underway",
+      "sectors": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DJI-001",
+      "gaps": "No source found since October 2023 says a service in use checks people against the ID.",
+      "note": "The population directorate is building an interoperability system for administrations, banks and social protection to verify ID cards in real time (2026). It is described in the future tense, so not 3.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

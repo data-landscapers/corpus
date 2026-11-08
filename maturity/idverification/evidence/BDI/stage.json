@@ -1,17 +1,18 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "3",
-   "use": "inservice",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BDI-002;BDI-001",
-   "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "unplaced",
+      "use": "",
+      "sectors": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "SIM registration since June 2026 accepts only the national ID card, but nothing found since October 2023 says it, or any other system, checks people against an ID register.",
+      "note": "The SIM rule asks for the card as a document, and ARCT's interconnection monitors registration; neither is a check against the national ID, so no rung is met.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "3",
-   "use": "inservice",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SEN-001;SEN-002",
-   "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "3",
+      "use": "inservice",
+      "sectors": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-002",
+      "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID; IPRES asks pensioners to hold the card, with no check stated.",
+      "note": "The e-Sénégal app, launched in March 2026, admits users by authentication on the NIN of the biometric ID card. The IPRES proof of life asks only that the card be held, so not 4.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

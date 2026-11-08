@@ -1,17 +1,18 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "3",
-   "use": "inservice",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MUS-004",
-   "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "3",
+      "use": "inservice",
+      "sectors": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-004;MUS-001",
+      "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
+      "note": "Government e-services authenticate users through MauPass, whose registration validates the ID number against the Central Population Database, and the KOREK! digital driving licence has used it since September 2026. Banks' Central KYC is not shown in service, so not 4.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

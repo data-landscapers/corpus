@@ -9,10 +9,10 @@
       "usage": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-030;NGA-016",
+      "stage_sources": "NGA-016;NGA-001;NGA-009",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-idverification.py.",
-      "as_at": "2026-10-18"
+      "note": "Banks, telecoms, insurers and fintechs authenticate customers against the NIN through NIMC's platform, which reports 1.3 million verifications a day (August 2026). Every rung is shown.",
+      "as_at": "2026-11-08"
     }
   ]
 }

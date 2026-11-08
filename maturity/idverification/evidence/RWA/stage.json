@@ -1,17 +1,18 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "2",
-   "use": "underway",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "RWA-001;RWA-002",
-   "gaps": "No source found since October 2023 says a service in use checks people against the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "2",
+      "use": "underway",
+      "sectors": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-002;RWA-003",
+      "gaps": "No source found since October 2023 says a service in use checks people against the ID.",
+      "note": "Rwanda piloted biometric SIM registration against NIDA data under 2024 rules, and banks, hospitals and telecoms are to use the single digital ID by June 2027. No check is shown in service, so not 3.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

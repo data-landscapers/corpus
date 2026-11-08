@@ -1,17 +1,18 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "2",
-   "use": "underway",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GIN-001",
-   "gaps": "No source found since October 2023 says a service in use checks people against the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "2",
+      "use": "underway",
+      "sectors": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GIN-001",
+      "gaps": "No source found since October 2023 says a service in use checks people against the ID.",
+      "note": "The electoral commission and ONECI agreed in January 2026 to make the national register the sole source of voter identification data. Nothing shows the check in service, so not 3.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

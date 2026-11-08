@@ -9,10 +9,10 @@
       "usage": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZAF-019;ZAF-006",
+      "stage_sources": "ZAF-006;ZAF-005;ZAF-011",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-idverification.py.",
-      "as_at": "2026-10-18"
+      "note": "Banks, insurers, mobile operators, SASSA and the justice cluster check people against the National Population Register, the justice cluster alone over 180,000 transactions a day (July 2025). Every rung is shown.",
+      "as_at": "2026-11-08"
     }
   ]
 }

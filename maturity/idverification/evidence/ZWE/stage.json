@@ -1,17 +1,18 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "3",
-   "use": "inservice",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZWE-005;ZWE-006",
-   "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "4",
+      "use": "inservice",
+      "sectors": "several",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-001;ZWE-006",
+      "gaps": "No source found since October 2023 gives a figure for verifications or counts the services relying on the Civil Registry.",
+      "note": "All mobile money providers verify customers against the Civil Registry (June 2026), and the Electoral Commission uses the national population database to verify voters (July 2026): two sectors, so 4. No figure is held, so not 5.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

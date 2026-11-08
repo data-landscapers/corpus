@@ -1,17 +1,18 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "3",
-   "use": "inservice",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-001;NAM-004",
-   "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "3",
+      "use": "inservice",
+      "sectors": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-004;NAM-001",
+      "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
+      "note": "The social protection system verifies beneficiaries against the population register, saving about N$16 million (2026). No second sector is shown in service, so not 4.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

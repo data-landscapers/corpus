@@ -1,17 +1,18 @@
 {
- "iso3": "CPV",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "3",
-   "use": "inservice",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CPV-004",
-   "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "CPV",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "3",
+      "use": "inservice",
+      "sectors": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CPV-004;CPV-001",
+      "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
+      "note": "Public administration portals, the Portal de Justiça of December 2024 among them, authenticate citizens with the CNI through Autentika. Only public administration is shown, so not 4.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

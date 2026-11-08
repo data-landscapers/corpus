@@ -1,17 +1,18 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "3",
-   "use": "inservice",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MLI-002;MLI-001",
-   "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "unplaced",
+      "use": "",
+      "sectors": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The 2026 justice platforms take the NINA number and the payroll check asks for the NINA card as a paper; nothing found since October 2023 says either checks people against the ID.",
+      "note": "A number keyed into an application and a card shown as a paper are not checks against the ID system, so no rung is met.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

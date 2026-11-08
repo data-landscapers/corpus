@@ -9,10 +9,10 @@
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-002;DZA-005",
-      "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
-      "note": "First pass: counted from the four questions by study-ladder-idverification.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "DZA-005;DZA-007",
+      "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID; the banks' KYC rows do not name the national ID register.",
+      "note": "Public bodies connected to the NIN system obtain identity data electronically (2025), and the Sports Ministry's WADHIFATI platform identifies users through the national digital identity (2026). Bank KYC is not shown to check the register, so not 4.",
+      "as_at": "2026-11-08"
     }
   ]
 }

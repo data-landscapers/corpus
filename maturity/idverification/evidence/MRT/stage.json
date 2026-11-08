@@ -1,17 +1,18 @@
 {
- "iso3": "MRT",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "4",
-   "use": "inservice",
-   "sectors": "several",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MRT-002",
-   "gaps": "No source found since October 2023 gives a figure for verifications or counts the services relying on the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "4",
+      "use": "inservice",
+      "sectors": "several",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-002;MRT-001",
+      "gaps": "No source found since October 2023 gives a figure for verifications or counts the services relying on Houwiyeti; the 15 services counted are those of one app, Khadamati.",
+      "note": "The Khadamati public-services app and private financial apps verify users' national identity through Houwiyeti (August 2026): two sectors, so 4. The only count is of one app's services, so not 5.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

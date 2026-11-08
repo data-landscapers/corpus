@@ -1,17 +1,18 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "3",
-   "use": "inservice",
-   "sectors": "",
-   "usage": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBR-003",
-   "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
-   "note": "First pass: counted from the four questions by study-ladder-idverification.py."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "3",
+      "use": "inservice",
+      "sectors": "",
+      "usage": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-003",
+      "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
+      "note": "The NIR says ID numbers verify the civil service payroll under a May 2024 agreement. SIM registration and the wider verification platform are rules or plans awaiting the 2026 concession, so not 4.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }
