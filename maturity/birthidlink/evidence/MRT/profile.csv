@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MRT,link,link,coverage,inservice,2026-06,MRT-001,,
-MRT,link,events,coverage,,,,,nothing held
-MRT,link,reported,coverage,,,,,nothing held
+MRT,link,link,coverage,inservice,2026-08-30,MRT-001;MRT-002,,
+MRT,link,events,coverage,,,,,nothing found
+MRT,link,reported,coverage,,,,,nothing found

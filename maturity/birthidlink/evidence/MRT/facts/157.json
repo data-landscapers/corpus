@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-30-mrt-anrpts-from-national-identity-to-digital-state-op-ed",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "An op-ed says the ANRPTS, created by decree 150/2010, handles registration in the population register, civil status, ID cards and passports, so one body holds both the civil and ID functions.",
+   "as_of": "2026-08-30",
+   "date_precision": "day",
+   "system": "ANRPTS",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

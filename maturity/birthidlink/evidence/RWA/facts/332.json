@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-rwa-innovative-solutions-and-best-practices-in-the-transformation-of-rwand",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "A NIDA presentation says Rwanda's digital CRVS system is integrated with the national ID, the population register and health systems.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Digital CRVS system",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital CRVS system",
+   "country_label": "Rwanda",
+   "class": "other",
+   "platform": "local IT company",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

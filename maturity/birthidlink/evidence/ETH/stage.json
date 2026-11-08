@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "ETH-004;ETH-002",
       "gaps": "No source found since October 2023 says: is one link in service.",
-      "note": "Rebuild: Fayda integration with civil registration is under way, nationally and in Addis Ababa (2024 to 2026). Nothing found says which records pass.",
-      "as_at": "2026-10-22"
+      "note": "Stage 4c 2026-11-08: since March 2025 Addis Ababa schools issue a Fayda number alongside the birth certificate (ETH-005), but one city does not carry the country. Fayda integration with civil registration is under way nationally and in Addis Ababa (2024 to 2026); nothing says which records pass nationally.",
+      "as_at": "2026-11-08"
     }
   ]
 }

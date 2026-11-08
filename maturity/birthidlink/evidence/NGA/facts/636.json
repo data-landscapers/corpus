@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-31-nga-npc-unicef-nimc-algon-forge-strategic-alliance-to-scale-up-birth-regis",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "NPC, NIMC, UNICEF and ALGON agreed a compact for ward-level static points issuing birth certificates and NINs to under-fives, with data interoperability, in eleven pilot states.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Ward-level birth registration and NIN enrolment points",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

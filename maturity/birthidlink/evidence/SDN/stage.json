@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "link",
-      "stage": "2",
-      "link": "underway",
+      "stage": "3",
+      "link": "inservice",
       "events": "",
       "reported": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SDN-001",
-      "gaps": "No source found since October 2023 says: is one link in service.",
-      "note": "Rebuild: SUDAPASS integration with civil registry databases was briefed at its 2026 launch. Nothing found says records pass.",
-      "as_at": "2026-10-22"
+      "stage_sources": "SDN-002",
+      "gaps": "No source found since October 2023 says births enrol people in the ID system and deaths retire their numbers. SUDAPASS integration with civil registry databases was only briefed in 2026 (SDN-001).",
+      "note": "Stage 4c 2026-11-08: the police spokesman said in August 2024 that the Civil Registry's one system holds the national number with the birth and death certificate subsystems, so one body holds both registers. Nothing says records pass both ways, so not 4.",
+      "as_at": "2026-11-08"
     }
   ]
 }

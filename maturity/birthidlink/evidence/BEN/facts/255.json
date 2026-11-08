@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-10-ben-benin-journee-de-l-etat-civil-et-des-statistiques-de-l-etat-civil-2026",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "ANIP's Herbert Assogba says the Guichet Unique pilot in ten public health facilities (from 20 August 2025) lets a birth be declared and registered in the maternity, with the NPI generated within 72 hours and the data feeding the RNPP; over 13,000 of 17,071 children declared were registered.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Guichet Unique de declaration des Naissances",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Guichet Unique de declaration des Naissances",
+   "country_label": "Guichet Unique de declaration des Naissances",
+   "class": "crvslink",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

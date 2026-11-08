@@ -22,8 +22,8 @@ The African Union's interoperability framework and the African ministers respons
 |---|---|
 | 5 Leading | 2 |
 | 4 Operating | 2 |
-| 3 Established | 25 |
-| 2 Nascent | 19 |
+| 3 Established | 26 |
+| 2 Nascent | 18 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 5 |
@@ -194,6 +194,12 @@ The civil register and the ID system were linked one way or for one event in 202
 
 - The Directorate General of Civil Registry, Nationality, Passport and Immigration handles civil registration and issues national identity cards, so one body holds both functions (Eye Radio report of the handover) ([source, 2026-08-11](https://www.eyeradio.org/new-immigration-chief-pledges-digital-reform-as-outgoing-director-leaves-stock-of-passports/)).
 
+### Sudan: 3 Established
+
+One civil registry held the national number with birth and death records in 2024; whether records pass both ways is not known.
+
+- The police spokesman told Awal Alnahar in August 2024 that the civil registry system holds the national number together with birth and death certificates and marriage, divorce and inheritance subsystems, recovered and running to 13 April 2023 ([source, 2024-08](https://awalalnahar.net/archives/22743)).
+
 ### Tanzania: 3 Established
 
 The civil register and the ID system were linked one way or for one event in 2026.
@@ -332,12 +338,6 @@ A link between the civil register and the ID system was under way in 2025.
 A link between the civil register and the ID system was under way in 2026.
 
 - SAnews reports Cabinet approved a White Paper turning the National Population Register into an Intelligent Population Register using interoperability and real-time data integration as the foundation for a Digital ID, with mandatory digital birth and death registration ([source, 2026-04-08](https://www.sanews.gov.za/south-africa/schreiber-welcomes-approval-revised-white-paper-citizenship)).
-
-### Sudan: 2 Nascent
-
-A link between the civil register and the ID system was under way in 2026.
-
-- At the 21 May 2026 launch of SUDAPASS, officials gave technical briefings on its integration with civil registry databases, and the project runs in coordination with the Interior Ministry's Civil Registry ([source, 2026-05-21](https://diplomat.so/articles/1395/Sudan-launches-SUDAPASS-digital-ID-in-Khartoum)).
 
 ### Togo: 2 Nascent
 

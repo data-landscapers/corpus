@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-14-gha-nia-registers-over-32-000-children-in-volta-oti-regions",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "NIA Executive Secretary Wisdom Kwaku Deku says NIA, the Ghana Health Service and the Births and Deaths Registry will begin the next month registering children aged 0-5, capturing the birth, issuing a birth registration number and generating the Ghana Card PIN together.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "NIA, Ghana Health Service and Births and Deaths Registry registration of children aged 0-5",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

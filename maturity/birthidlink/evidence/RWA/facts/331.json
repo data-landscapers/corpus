@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-rwa-rwanda-s-journey-to-a-single-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The deck says the Single Digital Identity is being rolled out from birth, with civil registry digitisation listed as a foundation step and the SDID core holding the National Population Register and SDIN assignment.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Single Digital Identity (SDID)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

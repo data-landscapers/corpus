@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-01-tcd-tchad-la-digitalisation-accelere-lenregistrement-des-naissances-a-mong",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "Radio Ndarason reports that at Mongo provincial hospital births are entered digitally with a Numero National d'Identification (NNI) and sent to ANATS in N'Djamena, which validates the birth act.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "guichet unique d'enregistrement des naissances (Mongo)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Guichet unique d'enregistrement des naissances, Mongo",
+   "country_label": "Tchad",
+   "class": "other",
+   "platform": "",
+   "owner": "ANATS",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

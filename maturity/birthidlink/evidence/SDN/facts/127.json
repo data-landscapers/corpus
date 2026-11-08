@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-26-sdn-awalalnahar-police-spokesman-civil-registry-fingerprint-systems-recovered",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The police spokesman told Awal Alnahar in August 2024 that the civil registry system holds the national number together with birth and death certificates and marriage, divorce and inheritance subsystems, recovered and running to 13 April 2023.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "civil registry system (السجل المدني)",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Civil registry system (national number, birth and death certificates)",
+   "country_label": "Sudan",
+   "class": "other",
+   "platform": "NADRA registration software, German hardware",
+   "owner": "Sudan Police",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

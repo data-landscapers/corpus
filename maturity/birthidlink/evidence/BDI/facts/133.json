@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-10-bdi-vers-une-identification-sure-et-securisee",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "underway",
+   "fact": "The Interior Ministry says ID for D will cover all layers of civil status, with births taken at health facilities or by the civil-status officer feeding a unique ID number, and an interoperability link between public services; planned, preliminary scope eleven communes.",
+   "as_of": "2024-07-02",
+   "date_precision": "day",
+   "system": "ID for D",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ID for D",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SDN,link,link,coverage,underway,2026-05-21,SDN-001,,
-SDN,link,events,coverage,,,,,nothing held
-SDN,link,reported,coverage,,,,,nothing held
+SDN,link,link,coverage,inservice,2024-08,SDN-002,SDN-001=underway,
+SDN,link,events,coverage,,,,,nothing found
+SDN,link,reported,coverage,,,,,nothing found
