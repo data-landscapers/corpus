@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-ken-amaco-and-arise-iip-advance-us700-million-power-and-ai-infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Kenya Engineer, citing AMACO's project overview, says Mombasa is an important landing point for international submarine fibre cables and identifies seven submarine cable connections serving the city.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "submarine cables at Mombasa",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": "Landing stations and capacity sales not stated."
+}
