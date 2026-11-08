@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-19-civ-ago-christian-kodia-le-numero-national-d-identification-nni-est-l-elem",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "ONECI's director-general says it is working to give newborns an NNI in maternities.",
+   "as_of": "2025-06-19",
+   "date_precision": "day",
+   "system": "NNI",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

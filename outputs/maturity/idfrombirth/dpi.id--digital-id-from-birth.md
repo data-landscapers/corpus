@@ -22,11 +22,11 @@ The African Union's Digital Transformation Strategy asks for a digital legal ide
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 5 |
-| 3 Established | 8 |
-| 2 Nascent | 12 |
+| 3 Established | 9 |
+| 2 Nascent | 14 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
-| No evidence | 27 |
+| No evidence | 24 |
 
 ## Countries
 
@@ -86,6 +86,12 @@ Children were given a unique ID number at birth registration in 2024, at least i
 
 - The Ministry of Digital Affairs says the National Identification Number is attributed from birth to any person entered in a civil register ([source, 2024](https://numerique.gouv.dj/Articles/detailArticleAvancee/15)).
 
+### Ethiopia: 3 Established
+
+In Addis Ababa children could take a Fayda number with their birth certificate in 2025; whether this happens elsewhere is not known.
+
+- Yodahe Arayaselassie says that in Addis Ababa children taking their birth certificate at school can take a Fayda number at the same time, and children under five are registered with a parent as witness ([source, 2025-03-24](https://www.bbc.com/amharic/articles/c204dl15p96o)).
+
 ### Gambia: 3 Established
 
 Birth certificates have carried a unique national ID number since a 2022-23 campaign; whether every registered birth gets one is unknown.
@@ -120,6 +126,12 @@ Children were given a unique ID number at birth registration in 2026, at least i
 - NIRA says the NIN is issued automatically once a birth notification is made and certification is immediate, with no biometrics needed for a child 9 months or under; deploying crvs.nsis.nira.go.ug for birth registration and instant NIN generation is still a next step ([source, 2026-07-18](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-uganda.pdf)).
 - NIRA says about 636,000 children have been enrolled and it has registration centres in most major hospitals where parents register newborns ([source, 2026-01](https://www.monitor.co.ug/uganda/news/national/21-million-ugandans-transferred-to-new-nira-system-as-registration-drive-intensifies-5318862)).
 
+### Burkina Faso: 2 Nascent
+
+Burkina Faso provided in 2024 for an identity number given to every person from birth; whether any child has received it is not known.
+
+- The minister said the unique identifier is a random number to be assigned to every Burkinabe from birth, at home or abroad, and to every foreigner resident in the country ([source, 2024-10-11](https://www.mdenp.gov.bf/details?cHash=33c705c5a2e4a9768ead889848f29c15&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=808)).
+
 ### Burundi: 2 Nascent
 
 A unique number at birth was provided for or piloted in 2024; none given in service is on record.
@@ -131,6 +143,13 @@ A unique number at birth was provided for or piloted in 2024; none given in serv
 A unique number at birth was provided for or piloted in 2024; none given in service is on record.
 
 - MINDDEVEL's deck says law 2024/016 institutes the attribution of a unique personal identification number (NIPU), without saying it is given at birth registration or in service ([source, 2024-12-23](https://www.id4africa.com/2025/files/PS5A-S1-3-Cameroun_FINAL.pdf)).
+
+### Cote d'Ivoire: 2 Nascent
+
+Cote d'Ivoire planned in 2025 and 2026 to give newborns their national ID number in maternity wards; whether any have received it is not known.
+
+- ONECI's director general said it will soon launch a zero-undeclared-birth campaign so that identity is created automatically on digital terminals on the day of birth ([source, 2026-09-16](https://digitalmag.ci/id-day-2026-promesse-dune-identite-legale-et-numerique-a-chaque-citoyen-en-cote-divoire/)).
+- ONECI's director-general says it is working to give newborns an NNI in maternities ([source, 2025-06-19](https://digitalmag.ci/ago-christian-kodia-le-numero-national-didentification-nni-est-lelement-principal-de-la-digitalisation-de-lidentite/)).
 
 ### Ghana: 2 Nascent
 
@@ -183,6 +202,7 @@ A unique number at birth was provided for or piloted in 2025; none given in serv
 
 A unique number at birth was provided for or piloted in 2026; none given in service is on record.
 
+- The deck says the Law on Single Digital Identity (June 2023) provides for a Single Digital Identity Number from birth, with enrollment piloted in the Southern Province from October 2025 and SDIN issuance planned from October 2026 ([source, 2026-05](https://id4africa.com/2026/files/T1-3-1-Rwanda-FINAL.pdf)).
 - NIDA Director General Josephine Mukesha says the Single Digital ID will be issued from birth, extending identification to all citizens, unlike the current system that mainly covers those aged 16 and above ([source, 2026-03-26](https://www.newtimes.co.rw/article/34398/news/technology/govt-sets-2027-deadline-for-full-shift-to-digital-id)).
 - KT Press says children receive their first digital ID from birth, with a facial photo from age four and fingerprints and iris at five ([source, 2026-05](https://www.ktpress.rw/2026/05/with-rwandas-new-digital-id-you-will-control-everything-anyone-sees/)).
 
@@ -212,12 +232,6 @@ Nothing found since 2023 says whether a birth is given an identity number, so no
 
 Not established: No source says whether a birth registered in Mali creates an identity number. The DNEC's 2026 account of paper village notebooks covers remote areas only.
 
-### Burkina Faso: No evidence
-
-Nothing found names a unique number given at birth or says there is none, so no stage is set.
-
-Not established: Nothing found says whether a birth is given an identity number.
-
 ### Central African Republic: No evidence
 
 Nothing found names a unique number given at birth or says there is none, so no stage is set.
@@ -225,12 +239,6 @@ Nothing found names a unique number given at birth or says there is none, so no 
 Not established: Nothing found says whether a birth is given an identity number.
 
 ### Congo: No evidence
-
-Nothing found names a unique number given at birth or says there is none, so no stage is set.
-
-Not established: Nothing found says whether a birth is given an identity number.
-
-### Cote d'Ivoire: No evidence
 
 Nothing found names a unique number given at birth or says there is none, so no stage is set.
 
@@ -261,12 +269,6 @@ Nothing found names a unique number given at birth or says there is none, so no 
 Not established: Nothing found says whether a birth is given an identity number.
 
 ### Eswatini: No evidence
-
-Nothing found names a unique number given at birth or says there is none, so no stage is set.
-
-Not established: Nothing found says whether a birth is given an identity number.
-
-### Ethiopia: No evidence
 
 Nothing found names a unique number given at birth or says there is none, so no stage is set.
 

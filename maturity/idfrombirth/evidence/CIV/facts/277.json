@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-16-civ-id-day-2026-promesse-d-une-identite-legale-et-numerique-a-chaque-citoy",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "ONECI's director general said it will soon launch a zero-undeclared-birth campaign so that identity is created automatically on digital terminals on the day of birth.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "Campagne zéro naissance non déclarée",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

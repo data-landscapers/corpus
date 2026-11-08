@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-22-gin-etat-civil-aucun-document-d-identite-n-avait-de-base-legale-selon-djen",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "The PN-RAVEC census launched on 15 April 2025 rests on a unique identifier assigned at birth and kept until death, per the national electoral-affairs director.",
+   "as_of": "2025-04-15",
+   "date_precision": "day",
+   "system": "PN-RAVEC",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-14-gha-nia-registers-over-32-000-children-in-volta-oti-regions",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "NIA Executive Secretary Wisdom Kwaku Deku says registration of children aged 0-5 will begin the next month, with children born in hospitals automatically assigned an identity number at birth, the Ghana Card PIN generated with the birth registration number.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Ghana Card PIN at birth",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

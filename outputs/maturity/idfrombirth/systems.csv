@@ -2,10 +2,13 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,Bilhete de Identidade (BI),AGO,other,,Ministry of Justice and Human Rights,,2026-08-24-angola-med-matricula-escolas-sem-bi
 AGO,Bilhete de Identidade,Angola,other,civil identity database,,,2026-08-15-angola-intelwatch-biometric-surveillance-report
 AGO,Bilhete de Identidade,Angola,other,,Ministry of Justice and Human Rights,,2025-04-11-ago-angop-mais-15-milhoes-possuem-bi
+BDI,ID for D,Burundi,other,,Ministry of the Interior,,2024-07-10-bdi-vers-une-identification-sure-et-securisee
 BEN,CNIB,BEN,other,,ANIP,,2026-09-18-ben-beninwebtv-cnib-renouvellement-en-ligne
 BEN,ANIP identity system,Benin,other,,ANIP,,2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance
 BEN,ANIP national ID (fID),Benin,other,,ANIP,,2026-02-02 Benin reports 75% of identification services accessed through digital platforms
 BEN,NPI,Numéro Personnel d'Identification,birthnumber,,ANIP,,2026-04-08-ben-enregistrement-des-naissances-au-benin-le-guichet-unique-de-l-anip-fai
+BEN,NPI,Numero Personnel d'Identification,birthnumber,RNPP,ANIP,,2026-08-10-ben-benin-journee-de-l-etat-civil-et-des-statistiques-de-l-etat-civil-2026
+BEN,Guichet unique d'enregistrement et de déclaration des naissances,"Guichet unique des naissances (pilot, ten facilities)",birthnumber,,ANIP,,2025-09-08-ben-le-benin-modernise-lenregistrement-des-naissances-avec-un-guichet-uniq
 BFA,VENEEM,Burkina Faso,other,,Direction generale de la modernisation de l'etat civil,,2026-06-25-wakatsera-snec-bilan-2025-execution-financiere
 BFA,Carte d'identité biométrique AES (CIB-AES),Burkina Faso,other,,Office national d'identification (ONI),card,2025-12-02-cib-aes-lancement-traore-enrolement
 BWA,Omang,BWA,other,,Ministry of Labour and Home Affairs,,2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)

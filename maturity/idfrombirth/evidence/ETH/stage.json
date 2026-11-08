@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "frombirth",
-      "stage": "no evidence",
-      "number": "",
+      "stage": "3",
+      "number": "inservice",
       "national": "",
       "complete": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether a birth is given an identity number.",
-      "note": "Rebuild: No row on this sub-indicator is held, so no stage is set.",
-      "as_at": "2026-11-07"
+      "stage_sources": "ETH-001",
+      "gaps": "No source found says the number is given at birth registration outside Addis Ababa, or how many children have received it.",
+      "note": "A Fayda official said in March 2025 that in Addis Ababa children collecting a birth certificate can take a Fayda number at the same time: the number at registration in part of the country, stage 3. Nothing shows it nationally.",
+      "as_at": "2026-11-08"
     }
   ]
 }

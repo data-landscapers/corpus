@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-01-tcd-tchad-la-digitalisation-accelere-lenregistrement-des-naissances-a-mong",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "Radio Ndarason reports that at the Mongo hospital desk, in Guera province, birth acts are digitised with a Numero National d'Identification (NNI) and validated by ANATS, with 10 to 15 births registered a day.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "NNI at birth registration",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

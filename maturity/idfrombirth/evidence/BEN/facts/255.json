@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-10-ben-benin-journee-de-l-etat-civil-et-des-statistiques-de-l-etat-civil-2026",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "ANIP says that in the ten pilot health facilities the child's NPI is generated within a maximum of 72 hours of the birth registration and sent by SMS to the parent; over 13,000 of 17,071 children declared were registered.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "NPI",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NPI",
+   "country_label": "Numero Personnel d'Identification",
+   "class": "birthnumber",
+   "platform": "RNPP",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": "Pilot only; national scale-up planned, so no national fact."
+}

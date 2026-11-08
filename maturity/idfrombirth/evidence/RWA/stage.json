@@ -9,10 +9,10 @@
       "complete": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "RWA-002;RWA-001",
-      "gaps": "No source found since October 2023 says children receive a number when their birth is registered.",
-      "note": "Rebuild: NIDA says the Single Digital ID, due by 2027, will be issued from birth, stage 2. Nothing says a child has received it.",
-      "as_at": "2026-11-07"
+      "stage_sources": "RWA-003;RWA-002;RWA-001",
+      "gaps": "No source found since 2024 says a child has received the new number. NIDA's June 2024 remark that it now issues identity from birth disagrees with the 2026 sources, which put issue from birth still to come.",
+      "note": "The 2023 law provides for a Single Digital Identity Number from birth, piloted from October 2025 with issue planned from October 2026: stage 2. The newest facts stand over the 2024 remark.",
+      "as_at": "2026-11-08"
     }
   ]
 }

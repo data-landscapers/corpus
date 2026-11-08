@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-17-bfa-les-deputes-donnent-leur-quitus-pour-wuri",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "The minister said the unique identifier is a random number to be assigned to every Burkinabe from birth, at home or abroad, and to every foreigner resident in the country.",
+   "as_of": "2024-10-11",
+   "date_precision": "day",
+   "system": "Unique electronic identification of natural persons (WURI)",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "frombirth",
-      "stage": "no evidence",
-      "number": "",
+      "stage": "2",
+      "number": "underway",
       "national": "",
       "complete": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether a birth is given an identity number.",
-      "note": "Rebuild: No row on this sub-indicator is held, so no stage is set.",
-      "as_at": "2026-11-07"
+      "stage_sources": "BFA-001",
+      "gaps": "No source found says a child has yet received the number at birth registration.",
+      "note": "Deputies approved the WURI unique identifier in October 2024, which the minister said is assigned to every Burkinabe from birth: provided for, stage 2. Nothing says a child has received it.",
+      "as_at": "2026-11-08"
     }
   ]
 }

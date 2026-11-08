@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-01-nga-a-statistical-profile-of-birth-registration-in-nigeria",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "UNICEF says the electronic birth registration initiative aims to link birth records with the National Identification Number so every child gets a verifiable legal identity from birth.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "electronic birth registration",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

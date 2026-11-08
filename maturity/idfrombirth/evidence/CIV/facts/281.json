@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-27-civ-african-civil-registration-leaders-acsa-point-direction-for-needed-acc",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "Ago Christian Kodia of Cote d'Ivoire said among the country's reforms the birth registration remains as the individual's ID number, with biometrics added to the ID for service delivery.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Birth registration number as ID number",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

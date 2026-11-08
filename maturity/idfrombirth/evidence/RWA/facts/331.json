@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-rwa-rwanda-s-journey-to-a-single-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "The deck says the Law on Single Digital Identity (June 2023) provides for a Single Digital Identity Number from birth, with enrollment piloted in the Southern Province from October 2025 and SDIN issuance planned from October 2026.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "SDIN (Single Digital Identity Number)",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

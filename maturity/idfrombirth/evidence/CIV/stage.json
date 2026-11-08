@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "frombirth",
-      "stage": "no evidence",
-      "number": "",
+      "stage": "2",
+      "number": "underway",
       "national": "",
       "complete": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether a birth is given an identity number.",
-      "note": "Rebuild: No row on this sub-indicator is held, so no stage is set.",
-      "as_at": "2026-11-07"
+      "stage_sources": "CIV-001;CIV-002",
+      "gaps": "No source found says newborns now receive the NNI at birth registration. A March 2025 conference remark that the birth registration remains the ID number disagrees with ONECI's later plans to start giving it in maternities.",
+      "note": "ONECI said in June 2025 it was working to give newborns an NNI in maternities and in September 2026 that a campaign to create identities on the day of birth would soon start: provided for, stage 2. The newest facts stand over the vaguer 2025 remark.",
+      "as_at": "2026-11-08"
     }
   ]
 }

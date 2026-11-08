@@ -2,12 +2,12 @@
 
 ## Digital id from birth
 
-**Number given at birth.** [Burundi Eco reports interior ministry officials announced in July 2024 that under ID for D each person's prints and name are recorded electronically from birth and given a unique lifelong ID number](<https://burundi-eco.com/la-digitalisation-des-services-publics-un-besoin-urgent/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Number given at birth.** Burundi plans to give each child an identity number at birth. [In July 2024 interior ministry officials said the ID for D project records each person electronically from birth](<https://burundi-eco.com/la-digitalisation-des-services-publics-un-besoin-urgent/>). Each is to get a unique number for life. [The ministry's permanent secretary said the number will be given at a health facility or by the civil-status officer](<https://mininterinfos.gov.bi/vers-une-identification-sure-et-securisee/>). Fingerprints are to be taken with it. The first phase covers eleven communes. No child is yet recorded as receiving the number.
 
-**Given nationally.** No source found since October 2023 says every registered birth across the country receives the number. The nearest held fact: [the one given above](<https://burundi-eco.com/la-digitalisation-des-services-publics-un-besoin-urgent/>).
+**Given nationally.** No source found since October 2023 says every registered birth across the country receives the number. The nearest fact is [the July 2024 plan for eleven communes](<https://mininterinfos.gov.bi/vers-une-identification-sure-et-securisee/>).
 
-**All births registered.** No source found since October 2023 puts birth registration at all births and deaths at 80% or more. The nearest held fact: [the one given above](<https://burundi-eco.com/la-digitalisation-des-services-publics-un-besoin-urgent/>).
+**All births registered.** No source found since October 2023 gives the share of births or deaths registered. The nearest fact is [the ID for D announcement of July 2024](<https://burundi-eco.com/la-digitalisation-des-services-publics-un-besoin-urgent/>).
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: is a number given at birth in part of the country.
+***Not found***. No source found since October 2023 says a child has received the number in any part of the country.

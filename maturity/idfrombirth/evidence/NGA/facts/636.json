@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-31-nga-npc-unicef-nimc-algon-forge-strategic-alliance-to-scale-up-birth-regis",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "NPC, NIMC, UNICEF and ALGON adopted a work plan for phased rollout in eleven pilot states of ward-level points giving under-fives a birth certificate and a National Identification Number.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Under-five birth registration and NIN enrolment initiative",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-08-ben-le-benin-modernise-lenregistrement-des-naissances-avec-un-guichet-uniq",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "UNICEF Benin says that in the ANIP birth-declaration pilot launched 20 August 2025 in ten public health facilities, an NPI is generated automatically and sent by SMS when the parents declare the birth at the hospital.",
+   "as_of": "2025-08-20",
+   "date_precision": "day",
+   "system": "Guichet unique d'enregistrement et de déclaration des naissances",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Guichet unique d'enregistrement et de déclaration des naissances",
+   "country_label": "Guichet unique des naissances (pilot, ten facilities)",
+   "class": "birthnumber",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

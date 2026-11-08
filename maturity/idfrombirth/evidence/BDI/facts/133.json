@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-10-bdi-vers-une-identification-sure-et-securisee",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "underway",
+   "fact": "Permanent secretary Valentin Nahimana of the Interior Ministry says a unique identification number with fingerprints will be given to each child at birth, in a health facility or before the civil-status officer, under the ID for D project; a plan, preliminary scope eleven communes.",
+   "as_of": "2024-07-02",
+   "date_precision": "day",
+   "system": "ID for D",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ID for D",
+   "country_label": "Burundi",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
