@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 place: XAF
-ledger_rows: 63
+ledger_rows: 65
 not_held: 3
-record: f3f37170f23e
+record: b64a6adf13f1
 ---
 
 # News, Oct – Nov 2026
@@ -281,6 +281,20 @@ PwC's second edition of its guide to VAT on digital services in Africa counts 32
 **[32 African markets tax digital services](https://www.itweb.africa/article/32-african-markets-tax-digital-services/mQwkoq6Y5gRM3r9A)** — ITWeb Africa, 21 October 2026
 
 PwC's 2026 report on VAT and digital services in Africa finds 32 of 54 countries now tax electronic services supplied by foreign providers, up from 21 in its 2024 edition. The eleven newcomers include Algeria, Botswana, Malawi, Mauritius, Rwanda and Zanzibar, and Namibia and Mozambique have measures awaiting a start date.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">COMESA Competition and Consumer Protection Regulations, 2025</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[COMESA Introduces New Rules To Regulate Digital Markets And Business Mergers](https://businesspulse360.com/article/comesa-introduces-new-rules-to-regulate-digital-markets-and-business-mergers)** — Business Pulse 360, 5 November 2026
+
+USD 250m digital-merger threshold, USD 60m financial threshold, gatekeeper designation; guidelines under revision.
 
 </div>
 
@@ -887,6 +901,20 @@ Afreximbank is running roadshows across Africa, including in Abidjan and Harare.
 **[AFIS 2026: Inside Africa’s quest to turn $4trn savings into real economy investment](https://businessday.ng/news/article/afis-2026-inside-africas-quest-to-turn-4trn-savings-into-real-economy-investment/)** — Businessday NG, 4 November 2026
 
 A Deloitte-AFIS survey presented in Luanda found that 11% of African financial institutions surveyed were connected to PAPSS, and 45% had no plans to join. Of respondents, 69% judged AfCFTA implementation too slow, and 7% reported tangible progress. 53% said the same of the African Exchanges Linkage Project.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">A7 cross-border payment network offered to African states</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Vladimir Poutine conseille aux pays africains de rejoindre les réseaux de paiement internationaux de nouvelle génération](https://togopresse.tg/vladimir-poutine-conseille-aux-pays-africains-de-rejoindre-les-reseaux-de-paiement-internationaux-de-nouvelle-generation/)** — Togo-Presse, 7 November 2026
+
+Russian President Vladimir Putin urged African countries to join the A7 cross-border payment network in October 2026, Togo-Presse reported on 7 November. He spoke at the third Russia-Africa Summit in Moscow and called A7 impossible to block. Finance Minister Anton Siluanov put its fee at 0.3%. The paper says A7 opened offices in Nigeria and Zimbabwe in 2025.
 
 </div>
 
