@@ -2,12 +2,12 @@
 
 ## Civil register
 
-**Births digital.** [An APAI-CRVS/UNECA presentation (July 2026) describes Ethiopia's national eCRVS as a phased rollout: pilot in Addis Ababa, scale-up to Amharic-speaking regions, then national expansion to non-Amharic regions](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-digitization-ethiopia.pdf>). [The Government Communication Service quotes the Ethiopian AI Institute saying that in Addis Ababa, as a pilot, family registration and vital events registration are being implemented through a digital system connected from central level to woreda level](<https://www.gcs.gov.et/en/2025/12/22/digital-ethiopia-2025-has-brought-about-a-significant-change-in-improving-access-to-civil-registration-and-citizenship-services/>). [The Addis Ababa City Administration launched a digital civil registration system replacing 14 years of manual process, starting operations in 50 woredas of the city](<https://www.ebc.et/english/Home/NewsDetails?NewsId=3422>).
+**Births digital.** Ethiopia's national eCRVS is being rolled out in phases. [A July 2026 presentation describes a pilot in Addis Ababa, then Amharic-speaking regions, then the rest](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-digitization-ethiopia.pdf>). [In December 2025 Addis Ababa launched a digital civil registration system in 50 of its woredas](<https://www.ebc.et/english/Home/NewsDetails?NewsId=3422>). It replaced 14 years of manual work. [A government statement the same month still called the Addis system a pilot](<https://www.gcs.gov.et/en/2025/12/22/digital-ethiopia-2025-has-brought-about-a-significant-change-in-improving-access-to-civil-registration-and-citizenship-services/>).
 
-**Deaths digital.** [The same presentation lists death registration and certificate, with health-facility death notification, among the services of the national eCRVS system, which it says improved CRVS operations](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-digitization-ethiopia.pdf>).
+**Deaths digital.** The eCRVS handles deaths too. [The July 2026 presentation lists death registration and notice of deaths from health facilities among its services](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-digitization-ethiopia.pdf>).
 
-**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-digitization-ethiopia.pdf>).
+**Births at 90%.** Most births are not registered. [In March 2025 the government put birth registration at 37% complete and death registration at 16%](<https://www.vitalstrategies.org/news/new-initiative-launched-in-ethiopia-to-strengthen-health-data-and-save-lives/>). The figures are not tied to a digital system.
 
 ***Also on file***. [Fayda](<https://www.biometricupdate.com/202501/school-registration-adds-up-to-expanding-use-cases-of-ethiopias-digital-id>).
 
-***Not found***. No source found since October 2023 says: are births registered digitally across the country.
+***Not found***. No source found since October 2023 says births are registered digitally across the country.

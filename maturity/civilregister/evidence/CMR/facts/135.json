@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-01-cmr-nrc-birth-registration-brief",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "NRC says it is piloting the digitalisation of a civil registration office in Logone-Birni (Far North), while the civil registration system remains largely manual and paper-based.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Logone-Birni civil registration office pilot",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Logone-Birni civil registration office pilot",
+   "country_label": "Logone-Birni pilot",
+   "class": "civil",
+   "platform": "",
+   "owner": "NRC with BUNEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

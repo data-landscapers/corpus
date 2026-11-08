@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-rwa-rwanda-s-journey-to-a-single-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The deck lists civil registry digitization among the foundation work (2022-2024) of the Single Digital Identity programme, with no detail of births or offices.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "civil registry digitization",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-01-nga-a-statistical-profile-of-birth-registration-in-nigeria",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "UNICEF says electronic birth registration is embedded in routine health care and operational in 14 states and the Federal Capital Territory, driving towards national coverage.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "electronic birth registration",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "electronic birth registration",
+   "country_label": "Electronic birth registration",
+   "class": "civil",
+   "platform": "",
+   "owner": "National Population Commission",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

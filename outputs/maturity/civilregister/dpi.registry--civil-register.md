@@ -21,9 +21,9 @@ The African Union's Digital Transformation Strategy and the Africa Programme on 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 9 |
+| 4 Operating | 10 |
 | 3 Established | 5 |
-| 2 Nascent | 33 |
+| 2 Nascent | 32 |
 | 1 Absent | 1 |
 | Unplaced | 2 |
 | No evidence | 3 |
@@ -85,6 +85,13 @@ Births and deaths were notified electronically in 2026; no source found reports 
 
 - A speaker at the Africa CDC learning visit said the e-birth notification system, introduced in 2017, has been implemented nationwide and connects 153 state and private facilities, per Home Affairs Minister Iipumbu's account ([source, 2026-03-27](https://www.nbcnews.na/node/115695)).
 - Home Affairs Minister Iipumbu said the e-death notification, introduced in 2018, now operates in 153 state and private facilities ([source, 2026-03-27](https://www.nbcnews.na/node/115695)).
+
+### Nigeria: 4 Operating
+
+Births and deaths moved onto one digital register in every state in July 2026; the share of births it records is not known.
+
+- NPC chairman Aminu Ibrahim Yusuf said digital birth and death registration on the VitalReg E-CRVS platform began on 1 July 2026 and is operational in all 36 states and the FCT, with paper forms no longer used ([source, 2026-07-01](https://guardian.ng/news/npc-flags-off-nationwide-digital-birth-death-registration/)).
+- NPC said deaths are registered in the same digital E-CRVS/VitalReg system, in operation since 1 July 2026 ([source, 2026-07-01](https://guardian.ng/news/npc-flags-off-nationwide-digital-birth-death-registration/)).
 
 ### Sao Tome and Principe: 4 Operating
 
@@ -294,13 +301,6 @@ Digital civil registration was under way in 2026; national digital birth registr
 - UNICEF's Tahoua office chief said UNICEF contributed to computerising 68% of communes nationwide, and the ministry cited introduction of digital technologies with computerisation of civil registration ([source, 2026-08-10](https://anp.ne/tahoua-lancement-des-activites-commemoratives-de-la-journee-africaine-de-letat-civil-et-des-statistiques-de-letat/)).
 - WURI-Niger states a digital platform for managing civil status events is in service in 100 communes, with extension planned to 166 more communes and 38 diplomatic missions, and 244,310 birth certificates digitised ([source, 2026](https://www.wuri.ne/etat-civil/)).
 
-### Nigeria: 2 Nascent
-
-Digital civil registration was under way in 2026; national digital birth registration is not on record.
-
-- FIJ reports that VitalReg is the digital birth registration recently launched by Nigeria's National Population Commission, on which a Lagos man's record was found and corrected ([source, 2026-08](https://fij.ng/article/after-fijs-story-npc-removes-wrong-wife-strange-son-listed-as-lagos-mans-family/)).
-- The Federal Ministry of Information reports Akwa Ibom State announced commencement of the electronic civil registration and vital statistics (e-CRVS) system for digital registration of births and deaths, replicating the NPC chairman's 15 July 2026 national briefing, with NPC asking the state to support full roll-out ([source, 2026-07-23](https://fmino.gov.ng/akwa-ibom-to-implement-digital-civil-registration-system/)).
-
 ### Senegal: 2 Nascent
 
 Digital civil registration reached about three in four centres in 2026; national digital birth registration is not on record.
@@ -314,6 +314,7 @@ Digital civil registration was under way in 2025; national digital birth registr
 
 - NCRA says over 80% of integrated CRVS and ID services, including birth registration, are digitized and decentralized across regional and district offices ([source, 2025-05-22](https://www.id4africa.com/2025/files/T2-P1-S2-4-SIERRALEONE_FINAL.pdf)).
 - UNICEF's 6 October 2026 story says the NCRA registered a baby's birth in Bombali District on a portable digital device through Sierra Leone's digital birth registration system, which NCRA's Bombali District Registration Officer calls an integral part of the civil registration system ([source, 2026-10-06](https://www.unicef.org/digitalimpact/stories/putting-children-heart-sierra-leones-digital-public-infrastructure)).
+- NCRA's Director-General says an integrated electronic CRVS system, digitising and consolidating civil registration, vital statistics and identity management on one modular platform, has been developed with government and EU support; no national in-service rollout or birth coverage is stated ([source, 2026-08-17](https://sierraleoneconcordtimes.com/93-of-sierra-leone-registered-with-unique-nins-2/)).
 
 ### Somalia: 2 Nascent
 

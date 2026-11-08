@@ -2,12 +2,12 @@
 
 ## Civil register
 
-**Births digital.** [Statistics Botswana's Vital Statistics Report 2024 describes the Births and Deaths Registration System (BDRS) as a partially automated and decentralized system, introduced in 2003 and run through 35 district registration offices and 17 on-site registration points](<https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
+**Births digital.** Botswana's Births and Deaths Registration System is only partly automated. [Statistics Botswana's 2024 report says it dates from 2003](<https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf>). It runs through 35 district offices and 17 on-site registration points. Part of the work there is still done by hand. No source says births are registered digitally across the country.
 
-**Deaths digital.** No source found since October 2023 says deaths are registered in the digital system. The nearest held fact: [the one given above](<https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf>).
+**Deaths digital.** No source found since October 2023 says deaths are registered in a digital system. The nearest fact is [the partly automated system for births and deaths described in 2024](<https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf>).
 
-**Births at 90%.** [UNICEF's December 2024 report says Botswana has achieved universal birth registration](<https://www.unicef.org/zimbabwe/press-releases/birth-registration-steadily-increases-worldwide-150-million-children-still-invisible>).
+**Births at 90%.** Almost every birth is registered, though not shown to be digitally. [UNICEF said in December 2024 that Botswana has universal birth registration](<https://www.unicef.org/zimbabwe/press-releases/birth-registration-steadily-increases-worldwide-150-million-children-still-invisible>). [It put registration of children under five above 90%](<https://www.biometricupdate.com/202503/african-civil-registration-leaders-acsa-point-direction-for-needed-acceleration>). Neither figure is tied to the digital system.
 
 ***Also on file***. [National Identification System (NIS)](<https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf>).
 
-***Not found***. No source found since October 2023 says: are births registered digitally across the country.
+***Not found***. No source found since October 2023 says births are registered digitally across the country.

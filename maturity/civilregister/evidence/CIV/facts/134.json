@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-27-civ-african-civil-registration-leaders-acsa-point-direction-for-needed-acc",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "UNICEF said under-5 birth registration in Cote d'Ivoire is above 90 percent, a national rate not tied to a digital system.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "UNICEF under-5 registration rate",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-10-ben-benin-journee-de-l-etat-civil-et-des-statistiques-de-l-etat-civil-2026",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "ANIP says births are declared and registered in one step in the maternity under the Guichet Unique, piloted from 20 August 2025 at CHU-MEL Cotonou and extended to ten public health facilities, with national scale-up still to come.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "Guichet Unique de declaration des Naissances",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

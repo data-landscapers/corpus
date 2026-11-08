@@ -1,0 +1,27 @@
+{
+ "slug": "2025-03-27-civ-african-civil-registration-leaders-acsa-point-direction-for-needed-acc",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "Sierra Leone's Amb. Mohamed Mubashir Massaquoi said fully electronic birth registration was launched in 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Electronic birth registration",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "Massaquoi said Sierra Leone's civil registration rose from about 7 percent a decade ago to 90 percent, a rate not stated to be of the digital system.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "National civil registration rate",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

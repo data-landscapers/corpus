@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-14-gin-etat-civil-guineen-la-refondation-en-marche-l-identification-au-cur-du",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "L'Independant quotes the head of the elections directorate saying authorities set up the national civil register (RAVEC) as part of a digitalisation and modernisation of civil registration, while birth registration remains low and deaths are declared at only about 2%.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "RAVEC",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RAVEC",
+   "country_label": "Guinea",
+   "class": "civil",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

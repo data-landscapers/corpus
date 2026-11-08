@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-03-gin-modernisation-de-l-etat-civil-en-guinee-enabel-remet-un-important-lot",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "Planete 7 reports Enabel and the EU handed the interior ministry (MATD) equipment, source code and database access for the pilot civil registration digitalisation project, which reached 10 pilot communes and extends to 28 communes, 11 courts and 5 consulates.",
+   "as_of": "2025-07-31",
+   "date_precision": "day",
+   "system": "Guinea civil registration digitalisation pilot project",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Guinea civil registration digitalisation pilot project",
+   "country_label": "Guinea",
+   "class": "civil",
+   "platform": "",
+   "owner": "MATD",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

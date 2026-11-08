@@ -2,12 +2,12 @@
 
 ## Civil register
 
-**Births digital.** [The DGDEC director general told the July 2026 EGMRG meeting that the national civil-registry database (RNEC) holds more than 225,000 birth records, that digitisation of civil-registry documents is under way, that a 45-centre operational map is validated and that an integrated Central African civil-registry software is in development, with EU/CIVIPOL MODERO support](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-digitisation-car.pdf>). [Oubangui Médias reports the civil-status directorate (DGDEC), with CIVIPOL, trained agents on 16-17 July 2026 in digitising civil registers, and trained agents have started digitising them into the Registre National de l'État Civil](<https://oubanguimedias.com/2026/07/20/centrafrique-le-matddl-lance-la-numerisation-des-documents-detat-civil-pour-securiser-lidentite-nationale/>).
+**Births digital.** The Central African Republic is building a digital civil register with EU support. [The CIVIPOL-run project began with a pilot in Bangui and towns on the main corridor](<https://oubanguimedias.com/2026/02/23/centrafrique-le-comite-technique-dappui-et-de-suivi-du-projet-dappui-a-la-modernisation-de-letat-civil-valide-les-activites-du-projet-modero/>). In February 2026 it was extending to new communes. [In July 2026 the national civil register held more than 225,000 birth records](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-digitisation-car.pdf>). A civil registry software was still being developed. [Agents trained in July 2026 have started digitising old registers](<https://oubanguimedias.com/2026/07/20/centrafrique-le-matddl-lance-la-numerisation-des-documents-detat-civil-pour-securiser-lidentite-nationale/>).
 
-**Deaths digital.** No source found since October 2023 says deaths are registered in the digital system. The nearest held fact: [the one given above](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-digitisation-car.pdf>).
+**Deaths digital.** No source found since October 2023 says deaths are registered in a digital system. The nearest fact is [the national civil register's 225,000 birth records in July 2026](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-digitisation-car.pdf>).
 
-**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-digitisation-car.pdf>).
+**Births at 90%.** One child in four is registered at birth. [An OIF expert cited UNICEF's March 2025 figure of 25%](<https://oubanguimedias.com/2025/10/22/vers-une-identite-pour-tous-en-centrafrique-loif-et-le-gouvernement-lancent-un-projet-pilote-detat-civil/>). It is not tied to a digital system.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: are births registered digitally across the country.
+***Not found***. No source found since October 2023 says births are registered digitally across the country.

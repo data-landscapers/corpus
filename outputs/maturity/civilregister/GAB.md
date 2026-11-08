@@ -2,11 +2,11 @@
 
 ## Civil register
 
-**Births digital.** [The Centre hospitalier universitaire de Libreville launched doctoViene, a platform built by the firm Viene for online birth declaration with certificates stored in an electronic database, in June 2024](<https://gabonmailinfos.com/doctoviene-une-application-pour-la-numerisation-des-certificats-de-naissance-au-chul/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
+**Births digital.** Gabon has one hospital platform for declaring births online. [The Libreville university hospital launched doctoViene in June 2024](<https://gabonmailinfos.com/doctoviene-une-application-pour-la-numerisation-des-certificats-de-naissance-au-chul/>). A private firm, Viene, built it. Birth certificates are stored in an electronic database. No source says births are registered digitally elsewhere, at other hospitals or at civil registry offices.
 
-**Deaths digital.** No source found since October 2023 says deaths are registered in the digital system. The nearest held fact: [the one given above](<https://gabonmailinfos.com/doctoviene-une-application-pour-la-numerisation-des-certificats-de-naissance-au-chul/>).
+**Deaths digital.** No source found since October 2023 says deaths are registered in a digital system. The nearest fact is [the hospital birth platform launched in June 2024](<https://gabonmailinfos.com/doctoviene-une-application-pour-la-numerisation-des-certificats-de-naissance-au-chul/>).
 
-**Births at 90%.** No source found since October 2023 puts birth registration at 90% or more. The nearest held fact: [the one given above](<https://gabonmailinfos.com/doctoviene-une-application-pour-la-numerisation-des-certificats-de-naissance-au-chul/>).
+**Births at 90%.** Nearly all births are registered, though not shown to be digitally. [In September 2024 UNICEF's deputy representative said about 96% of children are registered at birth](<https://www.gabonreview.com/gabon-formation-des-officiers-detat-civil-sur-les-nouvelles-procedures-denregistrement-des-actes/>). The rate is not tied to a digital system, and no source says how the register is kept.
 
 ***Also on file***. [Registre biométrique des personnes physiques (RBPP)](<https://www.gabonreview.com/identification-legale-et-digitale-le-gabon-enclenche-la-mise-en-oeuvre-de-trois-projets-strategiques/>); [carte nationale d'identité électronique (CNIE)](<https://agpgabon.ga/gabon-nzenzele-gouvernance-locale-le-sous-prefet-renforce-lautorite-de-letat-et-la-fiabilite-de-letat-civil/>).
 

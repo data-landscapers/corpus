@@ -98,3 +98,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-25,GAB,dpi.registry--civil-register,fact,no evidence,2,GAB-001,CHU Libreville's doctoViene online birth declaration (Jun 2024): a pilot; first row
 2026-10-25,NAM,dpi.registry--civil-register,review,5,4,NAM-004;NAM-005,"Bill, 2026-10-25: a national birth registration rate may include paper registration; not shown for the digital system"
 2026-11-05,KEN,dpi.registry--civil-register,fact,2,2,KEN-002;KEN-001,"Identity Week: e-birth service ~300,000 births by Oct 2026, still expanding across the country; national not shown, stays 2"
+2026-11-08,NGA,dpi.registry--civil-register,fact,2,4,NGA-009;NGA-010,"NPC (July 2026): VitalReg birth and death registration began in all 36 states and the FCT, paper dropped; births national and deaths digital, so 2 to 4"
+2026-11-08,SDN,dpi.registry--civil-register,fact,2,2,SDN-001;SDN-002,"Police (Aug 2024): pre-war civil registry system recovered and running; 2026 sources show e-certificates restarting locally, newest stand, so stays 2"
+2026-11-08,SLE,dpi.registry--civil-register,fact,2,2,SLE-001;SLE-003;SLE-004,"ACSA (Mar 2025): fully electronic birth registration launched 2022, before the window; newer sources show district use and a new eCRVS developed, so stays 2"

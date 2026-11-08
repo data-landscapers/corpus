@@ -1,0 +1,27 @@
+{
+ "slug": "2024-08-26-sdn-awalalnahar-police-spokesman-civil-registry-fingerprint-systems-recovered",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "The police spokesman says the civil registry system, covering birth and death certificates, was fully recovered up to 13 April 2023, tested and running.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "civil registry system (السجل المدني)",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "The police spokesman says the recovered civil registry system includes the death certificate system as well as births.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "civil registry system (السجل المدني)",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

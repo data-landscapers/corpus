@@ -1,0 +1,46 @@
+{
+ "slug": "2026-09-01-rwa-over-7-2-million-rwandans-complete-biometric-enrolment-for-electronic",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "inservice",
+   "fact": "NIDA says its electronic system records nine categories of civil-status information including births, with births registered at health facilities since 2020 and at Cell offices otherwise.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "NIDA electronic system",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "deaths",
+   "value": "digital",
+   "fact": "NIDA says its electronic system can record deaths among nine categories of civil-status information.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "NIDA electronic system",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "NIDA reports birth registration at approximately 96 per cent, up from 70 to 80 per cent, without tying the rate to the digital system.",
+   "as_of": "2026-09-01",
+   "date_precision": "day",
+   "system": "NIDA electronic system",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIDA electronic system",
+   "country_label": "Rwanda NIDA civil registration",
+   "class": "civil",
+   "platform": "",
+   "owner": "NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

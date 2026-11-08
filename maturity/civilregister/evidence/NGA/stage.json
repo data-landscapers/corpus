@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "civil",
-      "stage": "2",
-      "births": "underway",
-      "deaths": "",
-      "coverage": "",
+      "stage": "4",
+      "births": "inservice",
+      "deaths": "digital",
+      "coverage": "general",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-001;NGA-003",
-      "gaps": "No source found since October 2023 says births are registered digitally across the country.",
-      "note": "The VitalReg e-CRVS launched in 2023 is extending state by state. Nothing found says births are registered in it nationally.",
-      "as_at": "2026-10-24"
+      "stage_sources": "NGA-009;NGA-010",
+      "gaps": "No source found gives the share of births registered on VitalReg; the NPC's 57% is a national rate not tied to the digital system. UNICEF in June 2026 put the platform in 14 states and the FCT, before the national start.",
+      "note": "The NPC chairman said digital birth and death registration on VitalReg began in all 36 states and the FCT on 1 July 2026, with paper forms no longer used: births and deaths digital nationally, stage 4. No coverage share of the digital system is held.",
+      "as_at": "2026-11-08"
     }
   ]
 }

@@ -5,14 +5,14 @@
       "sub_indicator": "civil",
       "stage": "2",
       "births": "underway",
-      "deaths": "",
+      "deaths": "digital",
       "coverage": "",
       "cap": "",
       "flags": "",
       "stage_sources": "SDN-001;SDN-002",
-      "gaps": "No source found since October 2023 says births are registered digitally across the country.",
-      "note": "One locality issued its first electronic birth certificate and a hospital CRVS module began in two facilities (2026).",
-      "as_at": "2026-10-24"
+      "gaps": "No source found since October 2023 says births are registered digitally across the country. The police said in August 2024 the pre-war registry system was recovered and running, but the 2026 sources show electronic birth certificates resuming office by office.",
+      "note": "The registry's recovery (2024) restores pre-war data, while the newest facts (2026) show digital birth registration restarting in one locality and two hospitals; the newest stand, so stage 2. Question 2 needs its own evidence, so the death module does not lift it.",
+      "as_at": "2026-11-08"
     }
   ]
 }

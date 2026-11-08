@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-01-tcd-tchad-la-digitalisation-accelere-lenregistrement-des-naissances-a-mong",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "Radio Ndarason reports a digital birth registration desk at Mongo provincial hospital, backed by the government and UNICEF, serving 18 health centres within 75 km and logging 10 to 15 births a day.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "guichet unique d'enregistrement des naissances (Mongo)",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

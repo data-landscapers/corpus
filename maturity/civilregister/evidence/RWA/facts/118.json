@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-rwa-innovative-solutions-and-best-practices-in-the-transformation-of-rwand",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "A NIDA presentation says Rwanda has a digital CRVS system, with full digitalization listed among future plans.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Digital CRVS system",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "A NIDA presentation says birth registration completeness rose from 51% in 2016 to 90.3% in 2024, with no share tied to the digital system.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Digital CRVS system",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

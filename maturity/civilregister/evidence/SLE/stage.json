@@ -6,13 +6,13 @@
       "stage": "2",
       "births": "underway",
       "deaths": "",
-      "coverage": "",
+      "coverage": "general",
       "cap": "",
       "flags": "",
-      "stage_sources": "SLE-001;SLE-003",
-      "gaps": "No source found since October 2023 says births are registered digitally across the country.",
-      "note": "NCRA says over 80% of its services are digitised (2025) and digital birth registration is used in districts, but no national coverage of births is stated.",
-      "as_at": "2026-10-24"
+      "stage_sources": "SLE-001;SLE-003;SLE-004",
+      "gaps": "No source found since October 2023 says births are registered digitally across the country. An official's March 2025 statement that fully electronic birth registration began in 2022 dates the launch before the window; the 2025 and 2026 sources describe district use and a new platform developed, not national registration.",
+      "note": "NCRA says most services are digitised (2025), digital registration is used in districts (2026) and an integrated eCRVS has been developed (2026), with no national in-service rollout stated: stage 2. The 2022 launch falls before the window.",
+      "as_at": "2026-11-08"
     }
   ]
 }
