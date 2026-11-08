@@ -1,14 +1,14 @@
 ---
 title: Somalia: status report
-compiled: 2026-11-07
+compiled: 2026-11-08
 place: SOM
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 204
+sources_cited: 209
 sections_written: 39
-not_established: 3
+not_established: 2
 acquire_lines: 38
 ---
 ## Governance
@@ -90,7 +90,7 @@ The European framework Somalia signed for digital government and cybersecurity c
 <!-- finance.new -->
 
 <!-- derived -->
-No other institution comes close to the World Bank: six of the 33 digital-sector commitments on record are its own, about USD 280 million of the roughly USD 330 million on record, around 85 per cent (November 2026). The 33 started between 2015 and 2026 and run to 2030. They comprise 27 grants, three concessional loans, one loan recorded as commercial and two technical assistance operations, with no equity or guarantees; all four loans are the World Bank's (November 2026). European financiers hold eight of the 33 but only about USD 31 million of the value (November 2026). Statistical capacity is the largest destination by number, taking 12, ahead of geospatial data, government systems and sectoral management systems with four each.
+No other institution comes close to the World Bank: six of the 33 digital-sector commitments on record are its own, about USD 250 million of the roughly USD 300 million on record, around 83 per cent (November 2026). The 33 started between 2015 and 2026 and run to 2030. They comprise 27 grants, four concessional loans and two technical assistance operations, with no equity or guarantees; all four loans are the World Bank's (November 2026). European financiers hold eight of the 33 but only about USD 31 million of the value (November 2026). Statistical capacity is the largest destination by number, taking 12, ahead of geospatial data, government systems and sectoral management systems with four each.
 
 The [SCALED-UP credit of USD 31 million, approved in March 2019](https://projects.worldbank.org/en/projects-operations/project-detail/P168115), and its [USD 70 million additional financing of June 2021](https://projects.worldbank.org/en/projects-operations/project-detail/P174769) run to 2026 across digital skills, financial services and job creation, and digital ID is [a major pillar of the World Bank's SPRING initiative, a programme of over USD 100 million](https://www.biometricupdate.com/202512/somalia-digital-id-major-pillar-of-world-bank-funded-spring-initiative) (December 2025). Somalia is [one of two sovereign borrowers, with South Sudan, under the USD 162 million Eastern Africa Regional Digital Integration Project approved in May 2023](https://projects.worldbank.org/en/projects-operations/project-detail/P176181). Two earlier Bank operations closed in 2023: [a USD 50 million public financial management project](https://projects.worldbank.org/en/projects-operations/project-detail/P151492) that rolled IFMIS out across the federal government, Puntland and Somaliland, though the source does not split out how much of it went on the systems, and [a USD 15 million trust-funded grant](https://d-portal.org/p?aid=XI-IATI-WBTF-P152358) that built the telecom policy and regulatory environment.
 
@@ -178,7 +178,7 @@ The system rests on the [National Identification and Registration Act of March 2
 ### Digital Payments and Fintech
 <!-- dpi.pay -->
 
-[Integration of the mobile money providers into SIPS remains outstanding, with no published date](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network) (July 2026). [Mobile money is worth roughly $8bn a year, about 36 per cent of GDP, across some 650 million transactions annually](https://techcabal.com/2026/01/07/how-ethiopia-somalia-and-djibouti-building-africas-digital-powerhouses/) (January 2026). [Private operators Hormuud and Telesom built it almost entirely, in the absence of state provision](https://techcabal.com/2026/01/07/how-ethiopia-somalia-and-djibouti-building-africas-digital-powerhouses/). [81.8% of Somalis use it](https://nec.gov.so/wp-content/uploads/2024/12/State-of-Economy-Report%E2%80%93-Volume-II-2024-A5-Print-file.pdf) (2024).
+[Integration of the mobile money providers into SIPS remains outstanding, with no published date](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network) (July 2026). [Mobile money is worth roughly $8bn a year, about 36 per cent of GDP, across some 650 million transactions annually](https://techcabal.com/2026/01/07/how-ethiopia-somalia-and-djibouti-building-africas-digital-powerhouses/) (January 2026). [Private operators Hormuud and Telesom built it almost entirely, in the absence of state provision](https://techcabal.com/2026/01/07/how-ethiopia-somalia-and-djibouti-building-africas-digital-powerhouses/). [The central bank governor put mobile money use at 87 per cent of the population and bank account ownership at 19 per cent](https://www.african.business/2026/11/long-reads/meet-the-man-building-somalias-central-bank-from-the-ground-up) (November 2026).
 
 [SIPS launched in January 2025 as the first nationwide instant payment system](https://www.fintechfutures.com/instant-real-time-payments/somalia-taps-bpc-to-launch-first-nationwide-instant-payment-system). [It carries instant transfers from mobile and banking apps and QR payments under a national standard, SOMQR](https://www.fintechfutures.com/instant-real-time-payments/somalia-taps-bpc-to-launch-first-nationwide-instant-payment-system). It is [operated by the Somalia Payment Switch, a joint venture between the Central Bank of Somalia and 13 commercial banks](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network). It [already carries person-to-person, merchant, government-to-person and person-to-government payments](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network) (July 2026). [Business-facing services are still in development](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network). The Central Bank [signed the Pan-African Payment and Settlement System membership agreement in March 2026 and is undertaking technical onboarding](https://sba.so/somalia-joins-the-pan-african-payment-and-settlement-system-papss/). [Somalia is listed as "live soon" and not yet live](https://sba.so/somalia-joins-the-pan-african-payment-and-settlement-system-papss/) (June 2026).
 
@@ -329,7 +329,7 @@ Where public information does reach the page it comes mostly through audit. The 
 ### Geospatial data
 <!-- data.geospatial -->
 
-No national programme for the state's use of earth-observation or geospatial data was in place as at August 2026: [a partner-run remote-sensing service estimates cultivable area and production and maps land use](https://faoswalim.org/information-management/information-services/remote-sensing) (August 2026). One state body reads satellite data itself: [the civil aviation authority installed a Meteosat Third Generation receiver in Mogadishu and a PUMA-2025 workstation, replacing a decade-old platform, to track lightning and convective storms](https://spaceinafrica.com/2025/07/02/somalia-launches-advanced-satellite-system-to-boost-aviation-weather-monitoring/) (July 2025).
+No national programme for the state's use of earth-observation or geospatial data was in place as at August 2026: [a partner-run remote-sensing service estimates cultivable area and production and maps land use](https://faoswalim.org/information-management/information-services/remote-sensing) (August 2026). One state body reads satellite data itself: [the civil aviation authority installed a Meteosat Third Generation receiver in Mogadishu and a PUMA-2025 workstation, replacing a decade-old platform, to track lightning and convective storms](https://spaceinafrica.com/2025/07/02/somalia-launches-advanced-satellite-system-to-boost-aviation-weather-monitoring/) (July 2025). [No Somali surface weather station was transmitting data to the WMO's global exchange systems in 2023](https://www.un-soff.org/wp-content/uploads/2023/09/Somalia-SOFF-Readiness-Funding-Request.pdf). [In March 2026 the CREWS initiative approved support to rehabilitate automatic weather stations](https://crews-initiative.org/project/somalia/), and [in May 2026 support to set up a national meteorological agency](https://crews-initiative.org/project/somalia-nmhs/).
 
 Insurance is where satellite data reaches money. [The African Risk Capacity's drought policy, modelled on satellite rainfall, paid about US$2.18m to the government and the Start Network after the poor 2024 Deyr rains](https://docs.wfp.org/api/documents/WFP-0000165657/download/), and [the World Bank-financed DRIVE livestock insurance, triggered by a satellite pasture index, paid US$3.88m to 17,734 Somali pastoralists in March 2026 with no claims filed](https://zep-re.com/no-one-filed-a-claim-71290-pastoralist-families-got-paid-anyway/).
 
@@ -345,7 +345,7 @@ American money also sits under the justice system's case file. Somalia [launched
 ### China activities
 <!-- geopol.china -->
 
-No Chinese-financed or Chinese-operated digital infrastructure was in place in Somalia as at August 2026.
+[In April 2026 Somalia's space and satellite department signed a memorandum with China's land satellite remote-sensing centre on satellite imagery and technical cooperation](https://sonna.so/en/article/somalia-signs-satellite-imagery-cooperation-mou-with-china-at-the-newspace-africa-2026). [In February 2026 the identity authority's director met China's ambassador on technical cooperation for the national identity system](https://sonna.so/en/article/director-of-nira-meets-with-chinese-ambassador-to-advance-national-id-system-and-digital-cooperation). No Chinese-financed or Chinese-operated digital infrastructure was in place in Somalia as at August 2026.
 
 ### EU activities
 <!-- geopol.eu -->
