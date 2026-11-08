@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 place: GAB
-ledger_rows: 34
+ledger_rows: 35
 not_held: 12
-record: ce31185de637
+record: 39d4a46d899e
 ---
 
 # News, Oct – Nov 2026
@@ -553,6 +553,20 @@ Gabon's National Assembly launched a Legislative Work Management Platform (GTLAN
 **[Gabon Connect : TrésorPay, DUS… le Gabon mise sur le numérique pour mieux encaisser](https://www.gabonreview.com/gabon-connect-tresorpay-dus-le-gabon-mise-sur-le-numerique-pour-mieux-encaisser/)** — GabonReview, 22 October 2026
 
 Summarised under [Data Exchange](#data-exchange).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">CPPF BAANA portal for the school allowance</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Allocation de rentrée scolaire 2027-2028 : la CPPF accélère sa révolution numérique](https://www.gabonreview.com/allocation-de-rentree-scolaire-2027-2028-la-cppf-accelere-sa-revolution-numerique/)** — GabonReview, 6 November 2026
+
+BAANA portal goes zero-paper in Greater Libreville; closes 1 Feb 2027; prior round 71,412 beneficiaries, XAF 4.36bn.
 
 </div>
 
