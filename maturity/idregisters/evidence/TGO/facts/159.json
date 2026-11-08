@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-24-tgo-identification-biometrique-au-togo-un-projet-d-inclusion-sociale-pour",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The article says the government intends future social programmes, such as universal health insurance, to rest on the national identification database rather than electoral lists.",
+   "as_of": "2025-05-21",
+   "date_precision": "day",
+   "system": "e-ID Togo",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

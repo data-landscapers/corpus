@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-15-egy-eta-wage-tax-system-mandatory-employer-registration",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The head of the Egyptian Tax Authority said that from 15 December 2024 every employer must file monthly payroll data on the wage and salary tax system, listing each employee's national number, insurance number and gross salary, under Finance Minister decision 386 of 2023.",
+   "as_of": "2024-12-15",
+   "date_precision": "day",
+   "system": "Wage and salary tax system",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Wage and salary tax system",
+   "country_label": "Egypt",
+   "class": "register",
+   "platform": "",
+   "owner": "Egyptian Tax Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

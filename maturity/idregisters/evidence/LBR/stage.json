@@ -6,13 +6,13 @@
       "stage": "3",
       "register": "inservice",
       "several": "",
-      "matching": "",
+      "matching": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBR-001;LBR-004",
-      "gaps": "Only payroll has been found using the NIN; the voter register does not. The one matching figure dates from 2018.",
-      "note": "The government payroll is audited against the registry and carries the NIN (2024), one main register; the voter register is kept apart (2025). No second main register is shown, so not stage 4.",
-      "as_at": "2026-11-07"
+      "stage_sources": "LBR-001;LBR-004;LBR-008",
+      "gaps": "Only the payroll is shown using the NIN; the voter register does not (LBR-003), so question 3 is unanswered. The 2024 payroll figure (LBR-009: 5,536 removed from March to October 2024 by the Civil Service Agency, 3,775 by the IMF's count) lumps duplicate NINs with ghost workers, double dippers and shared bank accounts.",
+      "note": "The civil service payroll uses the NIN: stage 3. A 2024 payroll clean-up figure is now held, but stage 5 needs three main registers shown first, and only one is.",
+      "as_at": "2026-11-08"
     }
   ]
 }

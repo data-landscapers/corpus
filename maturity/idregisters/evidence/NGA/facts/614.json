@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-26-nga-fg-to-link-social-register-with-nin-minister",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Humanitarian Affairs Minister Nentawe Yilwatda said at a national roundtable that efforts are under way to link the National Social Register with each Nigerian's NIN.",
+   "as_of": "2025-03-26",
+   "date_precision": "day",
+   "system": "National Social Register",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Social Register",
+   "country_label": "Nigeria",
+   "class": "register",
+   "platform": "",
+   "owner": "Federal Ministry of Humanitarian Affairs and Poverty Reduction",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

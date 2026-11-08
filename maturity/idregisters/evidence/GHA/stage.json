@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "registers",
-      "stage": "4",
+      "stage": "5",
       "register": "inservice",
       "several": "several",
-      "matching": "",
+      "matching": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-004;GHA-003;GHA-002",
-      "gaps": "No figure from checking a register against the ID is reported. No electoral or business register has been found using the number.",
-      "note": "Payroll (2024), tax and SSNIT social security (2025) use the Ghana Card number, three main registers under Bill's ruling of 2026-11-03. No matching figure is reported, so not stage 5.",
-      "as_at": "2026-11-07"
+      "stage_sources": "GHA-003;GHA-004;GHA-009",
+      "gaps": "The matching figures are the then Vice-President's own, for SSNIT and the National Service Scheme in 2024; no audited figure for the civil service payroll is held. No electoral or business register is found using the number.",
+      "note": "The payroll, the tax number and SSNIT use the Ghana Card (stage 4), and in September 2024 checks against it removed 29,000 ghost names at SSNIT and 44,000 at the National Service Scheme, a matching figure: stage 5.",
+      "as_at": "2026-11-08"
     }
   ]
 }

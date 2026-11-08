@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-eth-fayda-digital-id-ethiopia-status-update",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The deck lists a FIN-based TIN for tax and a Fayda-enabled eHRIS for the civil service among Fayda use cases.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Fayda",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Fayda",
+   "class": "other",
+   "platform": "MOSIP",
+   "owner": "National ID Program",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

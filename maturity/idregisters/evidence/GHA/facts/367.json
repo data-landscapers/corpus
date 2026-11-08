@@ -1,0 +1,27 @@
+{
+ "slug": "2024-09-24-gha-ghost-names-removed-from-government-payroll-thanks-to-ghana-card-bawum",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Mahamudu Bawumia says the government payroll was checked against the Ghana Card, starting with SSNIT and then the National Service Scheme.",
+   "as_of": "2024-09-24",
+   "date_precision": "day",
+   "system": "Ghana Card payroll checks",
+   "class": "register"
+  },
+  {
+   "sub_indicator": "registers",
+   "aspect": "matching",
+   "value": "reported",
+   "fact": "Mahamudu Bawumia says Ghana Card checks removed 29,000 ghost names at SSNIT (saving GH¢400 million) and 44,000 at the National Service Scheme (over GH¢300 million); these are his own figures.",
+   "as_of": "2024-09-24",
+   "date_precision": "day",
+   "system": "Ghana Card payroll checks",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

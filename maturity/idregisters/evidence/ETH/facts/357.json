@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-09-eth-ethiopia-s-national-digital-id-a-breakthrough-for-tax-system-transform",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ICTD says that since December 2023 taxpayer registration in Ethiopia has been integrated with Fayda, so each new taxpayer identification number is tied to a Fayda number, while mapping of existing TINs is still a goal.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "register",
+   "platform": "",
+   "owner": "National ID Programme",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

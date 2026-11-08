@@ -1,0 +1,27 @@
+{
+ "slug": "2025-10-09-lbr-frontpage-africa-investigation-uncovers-conflicting-accounts-in-gov-t",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Civil Service Agency's 2024 annual report says payroll interventions removed duplicate National Identification Numbers, among other ineligible entries, from the government payroll.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "government payroll",
+   "class": "register"
+  },
+  {
+   "sub_indicator": "registers",
+   "aspect": "matching",
+   "value": "reported",
+   "fact": "The Civil Service Agency reports 5,536 employees removed from payroll from March to October 2024 (US$1.84m saved), and the IMF 3,775 removed, the figure covering ghost workers, double dippers, duplicate NINs and shared bank accounts together.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "government payroll",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

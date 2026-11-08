@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-27-gin-modernisation-de-l-administration-le-gouvernement-lance-officiellement",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Prime Minister Amadou Oury Bah, at the 27 November 2025 launch of the civil service file FUGAS, stressed that each citizen's Numero d'Identification Unique must in future be integrated into FUGAS.",
+   "as_of": "2025-11-27",
+   "date_precision": "day",
+   "system": "FUGAS",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "FUGAS",
+   "country_label": "Fichier Unique de Gestion Administrative et de la Solde",
+   "class": "register",
+   "platform": "",
+   "owner": "Ministry of Public Service",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

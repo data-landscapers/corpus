@@ -27,6 +27,7 @@ COG,NIU (numero d'identification unique),Congo,other,,,,2025-09-09-campagne-dist
 COG,CNI (carte nationale d'identite),Congo,other,,,,2025-09-09-campagne-distribution-cni-niu-pointe-noire-ldb
 COG,identité numérique,Congo,other,,Ministry of digital economy,,2026-07-28-cg-feuille-de-route-numerique-tribune
 COG,Carte nationale d'identite informatisee et securisee,COG,other,,Ministry of Interior,,2024-11-21-decret-2024-2692-carte-nationale-identite-informatisee
+COG,Système intégré des faits d'état civil (SIFEC),SIFEC,other,,ACSI,,2026-02-22-cog-le-congo-deploie-une-reforme-digitale-pour-assainir-le-fichier-solde-d
 CPV,Autentika,Cabo Verde,other,electronic identity management and authentication platform,State of Cabo Verde,email and password; CMDCV; CNI smart card,2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao
 CPV,Cartao Nacional de Identificacao (CNI),Cabo Verde,other,smart card,,,2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao
 CPV,Chave Movel Digital de Cabo Verde (CMDCV),Cabo Verde,other,mobile digital key,,,2026-01-01-cabo-verde-autentika-plataforma-identidade-electronica-autenticacao
@@ -36,11 +37,15 @@ EGY,National ID System (national number project),EGY,other,,Civil Status Organiz
 EGY,Payroll system,Egypt,register,,Egyptian Tax Authority,,2026-07-02-egy-eta-ai-strategy-tax-administration-almasryalyoum
 EGY,EMIS portal online application (emis.gov.eg),Egypt,other,emis.gov.eg,Ministry of Education and Technical Education,,2025-05-17-egy-moe-online-registration-kindergarten-primary-2025
 EGY,Voter lists,Egypt,register,QR code read by presiding judge's app,National Elections Authority,,2025-07-16-egy-nea-polling-station-app-qr-voter-lists
+EGY,Wage and salary tax system,Egypt,register,,Egyptian Tax Authority,,2024-12-15-egy-eta-wage-tax-system-mandatory-employer-registration
 ERI,Eritrean National ID,ERI,other,,Government of Eritrea,,2024-10-17-eritrea-embassy-national-id
 ETH,Fayda,Ethiopia,other,,Faydaverse (state-owned enterprise under Ethiopian Investment Holdings),,2026-08-08-ethiopia-fayda-faydaverse-digital-wallet-expansion
 ETH,Fayda,Ethiopia,other,,National ID Program,,2026-07-24-ena-ethio-telecom-69-percent-fayda-digital-id-enrollees
 ETH,Fayda,Ethiopia,other,,National ID Program (NIDP),,2026-05-12 Strengthening Fayda Ethiopia's improvement journey through the Digital ID Assessment
 ETH,Fayda,Ethiopia,other,MOSIP,National ID Program Ethiopia (NIDP),,2026-01-01-eth-nidp-mosip-inclusive-identity-at-scale
+ETH,Faida National ID,National ID Program (Fayda/Faida),register,,National ID Program Office,,2024-10-12-eth-reporter-forgeries-fraud-national-id-program
+ETH,Fayda,Ethiopia,register,,National ID Programme,,2024-05-09-eth-ethiopia-s-national-digital-id-a-breakthrough-for-tax-system-transform
+ETH,Fayda,Fayda,other,MOSIP,National ID Program,,2024-01-01-eth-fayda-digital-id-ethiopia-status-update
 GAB,Registre biometrique des personnes physiques (RBPP),Gabon,other,,Government of Gabon (Ministry of Interior),,2025-06-23-gabon-legal-digital-id-three-projects
 GAB,Systeme national d'identite digitale (SNID),Gabon,other,,ANINF / Government of Gabon,,2025-06-23-gabon-legal-digital-id-three-projects
 GAB,ID card and passport in Gabon,GAB,other,,,,2024-01-01-in-groupe-insight-report-2023-24
@@ -50,7 +55,9 @@ GHA,Ghana Card / National Identification Register,Ghana,other,,National Identifi
 GHA,Mechanized Payroll System,Mechanized Payroll System,register,,Controller and Accountant General Department,,2024-01-15-gha-government-launches-integrated-database-for-payroll-validation-and-ver
 GHA,Ghana Card,Ghana,register,,National Identification Authority,,2025-09-18-gha-nia-to-integrate-student-database-with-ghana-card-for-easy-access
 GHA,Ghana Card,Ghana Card,other,,National Identification Authority,,2025-07-15-gha-nia-registers-190-000-persons-within-first-half-of-2025
+GHA,Ghana National Household Registry,Ghana,other,,"Ministry of Gender, Children and Social Protection",,2026-07-01-gha-gnhr-privacy-cookie-policy
 GIN,Registre national des personnes physiques (RNPP),GIN,other,,ONECI and DGE under MATD,,2026-09-18-gin-guinee114-atelier-extension-rnpp
+GIN,FUGAS,Fichier Unique de Gestion Administrative et de la Solde,register,,Ministry of Public Service,,2025-11-27-gin-modernisation-de-l-administration-le-gouvernement-lance-officiellement
 GMB,National Identity Management System,The Gambia,other,,Ministry of Interior,,2026-01-22 The Gambia picks Margins ID Group for national ID infrastructure upgrade
 KEN,IPRS,Kenya,other,,State Department for Immigration and Citizen Services,,2026-06-26-govt-enhances-registration-new-technology
 KEN,Maisha Namba,Kenya,other,,Ministry of Interior,"UPI at birth, national ID at 18",2025-02-25-birth-registration-reforms-automatic-id-biometricupdate
@@ -65,13 +72,16 @@ LBY,National Number system,Libya,other,,Civil Registry Authority,,2026-04-19-fak
 LBY,Voter registry,Libya,other,SMS digital registration,High National Elections Commission,,2025-12-08-lby-hnec-decision-253-2025-voter-register-update-regulation
 LBY,Voter lists,Libya,register,SMS to 17017,HNEC,,2025-04-14-lby-560-896-registered-for-libyan-municipal-elections
 LBY,Voter register (HNEC),Libya,register,SMS to 17017,HNEC,,2025-02-25-lby-hnec-sms-voter-registration-check
+LBY,National number system,Libya,register,,Civil Registry Authority,,2025-12-01-lby-labour-ministry-civil-registry-national-number-link-renewal
 LSO,Digital/service identification system,Lesotho,other,,MICSTI,,2026-03-25-lesotho-digital-service-id-pilot-govls
 LSO,MOSIP-based national digital identity ecosystem,LSO,other,MOSIP,MICSTI,,2026-02-26-lesotho-micsti-unicef-digital-id-work-plan
 LSO,modernised voter registration system,Lesotho,other,,Independent Electoral Commission,,2026-07-05-lso-au-hails-iec-over-election-reforms
+LSO,NISSA,Lesotho,register,,"Ministry of Gender, Youth and Social Development",,2024-04-23-lso-eoi-lesotho-nissa-systems-development-enhancement-consultancy
 MAR,MOSIP-based national ID,Morocco,other,MOSIP,,,2026-05-28 Why decentralized digital identity looks different in every country
 MAR,National ID card management system,Morocco,other,,DGSN,,2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance
 MAR,Massar,Morocco,other,,Ministry of National Education,,2024-04-23-mar-massar-registration-digital-identity-learner-register
 MDG,IDMS,MDG,other,,Presidency / UGD (PRODIGY),,2026-03-02-ugd-idms-audit-tdr
+MLI,SIGRH,Systeme Integre de Gestion des Ressources Humaines,register,,Ministere de l'Economie et des Finances,,2025-08-28-mli-mali-le-gouvernement-suspend-les-salaires-de-36-151-agents-publics-apr
 MOZ,Bilhete de Identidade (BI),Mozambique,other,,,,2026-07-28-mozambique-free-id-and-birth-certificate-issuance-extended-2027
 MOZ,Mobile digital ID and e-signature,Mozambique,other,"smartphone app, SIM and eSIM",ATDI,3,2026-05-26-seeks-partner-mobile-digital-id-esignature-biometricupdate
 MRT,Houwiyeti,Mauritania,other,mobile application,Agence nationale du registre des populations et des titres sécurisés,,2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty
@@ -103,6 +113,8 @@ NGA,NIMC national identity and biometric-enabled G2PS card,Nigeria,other,,NIMC,G
 NGA,Tax ID,Unified Tax ID,register,,Federal Inland Revenue Service,,2025-12-23-nga-nin-cac-number-to-serve-as-tax-id-firs
 NGA,IT2 tokenised biometric identity platform (Trust Stamp/BLIP),Nigeria,other,Trust Stamp IT2,BLIP Limited (deployer),,2026-10-27-trust-stamp-targets-nigerian-biometric-id-programs-with-3-year-blip-de
 NGA,Nigeria Education Data Infrastructure (NEDI),Nigeria,other,,Federal Ministry of Education,,2026-08-24-nga-fg-releases-new-operational-guidelines-for-waec-neco-students-assessme
+NGA,National Register of Voters,Nigeria voter register,register,,INEC,,2025-09-04-nga-inec-nimc-partner-to-scale-up-nin-registration-nationwide
+NGA,National Social Register,Nigeria,register,,Federal Ministry of Humanitarian Affairs and Poverty Reduction,,2025-03-26-nga-fg-to-link-social-register-with-nin-minister
 RWA,Single Digital ID (SDID),Rwanda,other,,,,2026-05-26-new-digital-id-you-control-everything-ktpress
 RWA,Single Digital ID (SDID),Rwanda,other,,National Identification Agency (NIDA),"SDIN, token, SDID card",2026-03-26-govt-sets-2027-deadline-digital-id-newtimes
 RWA,IPPIS,IPPIS Rwanda,register,,,,2026-10-16-rwa-ippis-developer-api
@@ -125,6 +137,7 @@ SWZ,Population Register (NPR),Eswatini,other,,,,2025-06-28-digital-eswatini-proj
 TGO,MOSIP-based digital ID,Togo,other,MOSIP,,,2026-05-28 Why decentralized digital identity looks different in every country
 TGO,RSPM,Togo,other,,,,2025-04-07-tgo-id4africa-rsia-inter-administration-data-exchange
 TGO,data-use hub,Togo,other,,ANID with Ministry of Digital Economy,,2023-12-07-crs-4-2023afd00779-2023-fid-un-pole-d-utilisation-des-donnees-numeriques-p
+TGO,eID Togo,eID Togo,other,,ANID,,2025-09-25-tgo-recensement-biometrique-des-fonctionnaires-et-agents-de-l-etat
 TUN,National Health Identifier (INS),Tunisia,other,,Ministry of Health,,2026-07-23-tunisia-finalizes-sahetna-digital-health-portal-national-id
 TUN,Mobile ID,Tunisia,other,,,,2026-06-26-techafricanews-mobile-id-mandatory-investors
 TUN,Carte nationale d'identité (chip card),Tunisia,other,,Ministry of the Interior specialized services,,2024-03-11-loi-organique-2024-22-carte-identite-nationale
@@ -142,6 +155,7 @@ UGA,EMIS,Uganda,other,developed by SMS ONE Ltd,Ministry of Education and Sports,
 UGA,National Identification Number (NIN),Uganda,other,,NIRA,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
 UGA,UNEB index number,Uganda,other,developed by SMS ONE Ltd,UNEB,,2024-10-03-uga-concern-as-unique-identifiers-confuse-students-parents-educators
 ZAF,population register,South Africa,other,,Department of Home Affairs,,2026-05-26-dha-treasury-employee-verification-platform
+ZAF,PERSAL,PERSAL,other,,National Treasury,,2025-09-19-zaf-national-treasury-deploys-tech-to-terminate-ghost-workers
 ZMB,MOSIP-based digital ID,Zambia,other,MOSIP,Smart Zambia Institute,,2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project
 ZMB,Foundational Digital ID and CRVS core modules,Zambia,other,,Smart Zambia Institute,,2025-09-09-zambia-dzap-early-market-engagement
 ZWE,Digital ID,Zimbabwe,other,,Registrar-General / Ministry of Home Affairs,,2025-07-15 Zimbabwe looks forward to digital ID rollout after population registry reform

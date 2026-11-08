@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-23-lso-eoi-lesotho-nissa-systems-development-enhancement-consultancy",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The ministry plans NISSA, the social registry, to authenticate national ID numbers before storing them, and says it is working with the National Identity and Civil Registry on an interoperability link.",
+   "as_of": "2024-04-23",
+   "date_precision": "day",
+   "system": "NISSA",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NISSA",
+   "country_label": "Lesotho",
+   "class": "register",
+   "platform": "",
+   "owner": "Ministry of Gender, Youth and Social Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

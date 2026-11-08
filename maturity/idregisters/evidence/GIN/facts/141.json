@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-14-gin-etat-civil-guineen-la-refondation-en-marche-l-identification-au-cur-du",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "L'Independant quotes the elections directorate head saying the voter roll will be fed from the national register of natural persons (RNPP) by an annual extraction of citizens aged 18 holding a birth record.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "RNPP",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-01-mwi-digital-malawi-acceleration-project-dmap-p505095-aide-memoire-id-techn",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The World Bank mission agreed to integrate the Unified Beneficiary Registry with the national ID system (NRIS), with an ID4D Trust Fund-supported specialist to be hired by 30 March 2025.",
+   "as_of": "2025-02",
+   "date_precision": "month",
+   "system": "Unified Beneficiary Registry",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,6 +1,6 @@
 # Use by other systems: use by other systems
 
-*As at 2026-11-07.*
+*As at 2026-11-08.*
 
 ## The norm
 
@@ -20,29 +20,48 @@ The African Union's interoperability framework and Data Policy Framework ask tha
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
-| 4 Operating | 4 |
-| 3 Established | 17 |
-| 2 Nascent | 8 |
+| 5 Leading | 1 |
+| 4 Operating | 5 |
+| 3 Established | 15 |
+| 2 Nascent | 9 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
-| No evidence | 23 |
+| No evidence | 22 |
 
 ## Countries
 
-### Ghana: 4 Operating
+### Ghana: 5 Leading
 
-The ID number has keyed the civil service payroll since 2024 and is the tax and social security number; no matching figure is reported.
+Payroll, tax and social security used the ID number, and 2024 checks removed 73,000 ghost names; no audited payroll figure is published.
 
-- The NIA Executive Secretary says the Ghana Card already serves as the Taxpayer Identification Number, SSNIT and NHIS numbers ([source, 2025-09-18](https://atlfmnews.com/nia-to-integrate-student-database-with-ghana-card-for-easy-access/)).
 - The National Identification Authority says the civil service payroll (the Mechanized Payroll System) now requires the Ghana Card PIN to validate recruited public sector employees and pensioners, with existing staff to submit their PIN at NIA offices, launched 10 January 2024 ([source, 2024-01-10](https://nia.gov.gh/government-launches-integrated-database-for-payroll-validation-and-verification/)).
-- Republic Online reports that GRA revenue collection and NHIS member verification depend on NIA biometric verification, with GRA owing $377 million and NHIS $58 million for it ([source, 2025-09-21](https://myrepubliconline.com/nia-threatens-service-cut-over-gra-nhia-and-passport-office-457m-debt/)).
+- The NIA Executive Secretary says the Ghana Card already serves as the Taxpayer Identification Number, SSNIT and NHIS numbers ([source, 2025-09-18](https://atlfmnews.com/nia-to-integrate-student-database-with-ghana-card-for-easy-access/)).
+- Mahamudu Bawumia says Ghana Card checks removed 29,000 ghost names at SSNIT (saving GH¢400 million) and 44,000 at the National Service Scheme (over GH¢300 million); these are his own figures ([source, 2024-09-24](https://www.myjoyonline.com/ghost-names-removed-from-government-payroll-thanks-to-ghana-card-bawumia/)).
+
+### Egypt: 4 Operating
+
+The voter roll, payroll tax and the social registry used the national ID number by 2026; no figure from matching is reported.
+
+- The National Elections Authority says voter entries were linked to the national number, and voters are looked up by their 14-digit national number ([source, 2025-09-19](https://www.elwatannews.com/news/details/8137356)).
+- Egyptian Tax Authority head Rasha Abdel Aal said its payroll system calculates employment income tax for 12 million state employees by making the salary statement available by national number ([source, 2026-07-02](https://www.almasryalyoum.com/news/details/4306657)).
+- Raafat Shafik of the Ministry of Social Solidarity says the national social registry of 13 million households is linked to 27 government databases through the national ID number ([source, 2026-11-06](https://almessa.gomhuriaonline.com/764443/)).
+- The head of the Egyptian Tax Authority said that from 15 December 2024 every employer must file monthly payroll data on the wage and salary tax system, listing each employee's national number, insurance number and gross salary, under Finance Minister decision 386 of 2023 ([source, 2024-12-15](https://www.almasryalyoum.com/news/details/3329890)).
 
 ### Malawi: 4 Operating
 
 Voter registration, social protection and payroll rested on the national ID in 2024; results of matching them are not known.
 
 - The EU Delegation says Malawi's National ID underpins voter registration, social protection targeting and payroll management, three main registers ([source, 2024](https://www.eeas.europa.eu/delegations/malawi/10-years-fruitful-partnership-government-malawi-civil-registration_en)).
+
+### Nigeria: 4 Operating
+
+The social register, voter registration and tax filing used the national ID number by 2026; no figure from matching is reported.
+
+- The National Social Register used for cash transfers requires a NIN, and beneficiaries without one are disqualified, says the minister's media aide ([source, 2023-10](https://punchng.com/cash-transfer-fg-disqualifies-nigerians-without-nin-bvn-cbn-begins-payment/)).
+- NSIPA says NIN is integrated into the NSR database, with 1,628,587 NINs validated by NIMC ([source, 2025](https://nsipa.gov.ng/programmes/nassco.html)).
+- INEC chairman Amupitan says INEC's online voter registration platform is anchored on the NIN as a verification protocol ([source, 2026-07-16](https://thenationonlineng.net/six-months-to-presidential-poll-inec-raises-preparation-tempo/)).
+- Olaniwun Ajayi LP says the NIMC Act 2026 gives statutory basis to requirements, many already in practice, that registering to vote and filing tax returns need a NIN ([source, 2026-06-26](https://oal.law/the-nimc-act-2026-explained-what-nigerias-new-identity-law-means-for-you/)).
+- The Federal Inland Revenue Service said that under the Nigeria Tax Administration Act, due to take effect in January 2026, the National Identification Number automatically serves as the Tax ID for individuals ([source, 2026-01](https://guardian.ng/news/nin-cac-number-to-serve-as-tax-id-firs/)).
 
 ### Tanzania: 4 Operating
 
@@ -87,13 +106,6 @@ The voters' roll used Omang, the national ID, in 2026; use by other main registe
 
 - The minister's proposed reforms keep Omang as the primary ID for voter registration and give political parties access to the verified electronic voters' roll ([source, 2026-08-17](https://allafrica.com/stories/202608190305.html)).
 
-### Egypt: 3 Established
-
-A public register used the national ID number in 2026; no source found reports use by three main registers.
-
-- The National Elections Authority says voter entries were linked to the national number, and voters are looked up by their 14-digit national number ([source, 2025-09-19](https://www.elwatannews.com/news/details/8137356)).
-- Egyptian Tax Authority head Rasha Abdel Aal said its payroll system calculates employment income tax for 12 million state employees by making the salary statement available by national number ([source, 2026-07-02](https://www.almasryalyoum.com/news/details/4306657)).
-
 ### Ethiopia: 3 Established
 
 The tax register was keyed on the national ID in 2026; use by other main registers, and what checking found, are not known.
@@ -121,6 +133,7 @@ The government payroll was checked against the national ID registry in 2024; the
 
 - The Civil Service Agency integrates National Identification Numbers into government employees' ID cards through the NIR portal, and Sargbe says this has helped remove ghost names from the payroll ([source, 2024-05](https://frontpageafricaonline.com/news/liberia-national-identification-registry-drives-digital-transformation-with-strategic-partnerships-and-enrollment-growth/)).
 - The NIR and the finance ministry built an interface to audit the government payroll against the registry as new employees join, shared with the audit and civil service agencies ([source, 2024-02-05](https://newspublictrust.com/national-identification-registry-deploys-mobile-teams)).
+- The Civil Service Agency's 2024 annual report says payroll interventions removed duplicate National Identification Numbers, among other ineligible entries, from the government payroll ([source, 2024-10](https://frontpageafricaonline.com/liberia-frontpage-africa-investigation-uncovers-conflicting-accounts-in-govt-payroll-cleanup/)).
 
 ### Libya: 3 Established
 
@@ -150,14 +163,6 @@ Social grant beneficiaries were checked against the national population register
 - Namibia's two responsible ministries signed an agreement integrating the National Population Registration System with the social protection system to verify existence and live status of persons, and the Covid-19 Emergency Income Grant applicants were all verified against the NPRS ([source, 2026-07-18](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-namibia.pdf)).
 - The Office of the Prime Minister says electronic identity verification of social grant beneficiaries already prevents payments to deceased beneficiaries ([source, 2026-07-25](https://informante.web.na/?p=398234)).
 
-### Nigeria: 3 Established
-
-The social register and the voter roll used the national ID number by 2026; a third main register in use is not known.
-
-- The National Social Register used for cash transfers requires a NIN, and beneficiaries without one are disqualified, says the minister's media aide ([source, 2023-10](https://punchng.com/cash-transfer-fg-disqualifies-nigerians-without-nin-bvn-cbn-begins-payment/)).
-- NSIPA says NIN is integrated into the NSR database, with 1,628,587 NINs validated by NIMC ([source, 2025](https://nsipa.gov.ng/programmes/nassco.html)).
-- INEC chairman Amupitan says INEC's online voter registration platform is anchored on the NIN as a verification protocol ([source, 2026-07-16](https://thenationonlineng.net/six-months-to-presidential-poll-inec-raises-preparation-tempo/)).
-
 ### Rwanda: 3 Established
 
 The voters' roll and public-service payroll used the national ID by 2026; a third main register is not known.
@@ -184,6 +189,12 @@ Health, social and pupil identifiers were linked to the citizen identifier by 20
 The electoral commission planned in 2024 to draw its voter file from the new identity base; a register using the number is not known.
 
 - Minister Aminata Zerbo says that once the identity base is built the national electoral commission (CENI) will draw its electoral file from it instead of enrolling voters for each election ([source, 2024-10-11](http://news.aouaga.com/h/155610.html)).
+
+### Cote d'Ivoire: 2 Nascent
+
+Linking the tax, social security and health insurance numbers to the national ID number was planned in 2025; no register is shown using it.
+
+- ONECI's director-general says administrative procedures must go through the NNI under a decree, and that taxpayer, social security and CMU numbers should soon be linked to it ([source, 2025-06-19](https://digitalmag.ci/ago-christian-kodia-le-numero-national-didentification-nni-est-lelement-principal-de-la-digitalisation-de-lidentite/)).
 
 ### Djibouti: 2 Nascent
 
@@ -266,12 +277,6 @@ Nothing found names a public register using the national ID number or says there
 Not established: Nothing found says whether public registers use the national ID number.
 
 ### Comoros: No evidence
-
-Nothing found names a public register using the national ID number or says there is none, so no stage is set.
-
-Not established: Nothing found says whether public registers use the national ID number.
-
-### Cote d'Ivoire: No evidence
 
 Nothing found names a public register using the national ID number or says there is none, so no stage is set.
 

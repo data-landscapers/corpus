@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-01-lby-labour-ministry-civil-registry-national-number-link-renewal",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Ministry of Labour told the Civil Registry Authority on 1 December 2025 its requirements for a direct electronic link to the national number system and discussed renewing the existing agreement between its Information and Documentation Centre and the authority.",
+   "as_of": "2025-12-01",
+   "date_precision": "day",
+   "system": "National number system",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National number system",
+   "country_label": "Libya",
+   "class": "register",
+   "platform": "",
+   "owner": "Civil Registry Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

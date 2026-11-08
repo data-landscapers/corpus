@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-19-civ-ago-christian-kodia-le-numero-national-d-identification-nni-est-l-elem",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "ONECI's director-general says administrative procedures must go through the NNI under a decree, and that taxpayer, social security and CMU numbers should soon be linked to it.",
+   "as_of": "2025-06-19",
+   "date_precision": "day",
+   "system": "NNI",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

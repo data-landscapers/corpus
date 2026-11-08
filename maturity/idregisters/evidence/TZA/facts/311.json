@@ -1,0 +1,17 @@
+{
+ "slug": "2024-04-01-tza-nida-yawa-ufunguo-wa-maendeleo-nchini-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "NIDA says its register is used for company registration and for issuing taxpayer numbers (TIN), among other services.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "NIDA national register",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

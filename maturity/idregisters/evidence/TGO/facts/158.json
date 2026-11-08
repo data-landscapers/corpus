@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-25-tgo-recensement-biometrique-des-fonctionnaires-et-agents-de-l-etat",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "PMADS says the government's biometric census of civil servants and state agents, run with ANID as an eID enrolment, builds a single staff file on the eID Togo infrastructure; it does not say the file is keyed on the ID number.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Recensement biométrique des fonctionnaires et agents de l'Etat",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eID Togo",
+   "country_label": "eID Togo",
+   "class": "other",
+   "platform": "",
+   "owner": "ANID",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

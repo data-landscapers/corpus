@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-12-eth-reporter-forgeries-fraud-national-id-program",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Reporter says the Addis Ababa City Administration and the Ministry of Revenues have signed on to the National ID program, agreeing to end their own biometric registration, and that the federal public procurement agency has integrated its data systems with it.",
+   "as_of": "2024-10-12",
+   "date_precision": "day",
+   "system": "Faida National ID",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Faida National ID",
+   "country_label": "National ID Program (Fayda/Faida)",
+   "class": "register",
+   "platform": "",
+   "owner": "National ID Program Office",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

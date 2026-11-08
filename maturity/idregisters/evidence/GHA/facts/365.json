@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-28-gha-cagd-moves-to-eliminate-ghost-names-with-biometric-verification",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Controller and Accountant-General said the government payroll database was linked with the National Identification Authority database in 2024, and that workers are to be verified using the NIA number.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Government payroll database (CAGD)",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

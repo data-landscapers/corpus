@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-09-ben-banouto-gouvernement-reponse-nomination-dg-anip",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The government lists as planned tasks an interoperability programme with all service sectors using identification data, synchronisation of communal registers with the RNPP, and voter-centre notification with the elections directorate.",
+   "as_of": "2023-11-09",
+   "date_precision": "day",
+   "system": "RNPP",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

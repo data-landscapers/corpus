@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-04-lby-gia-national-number-query-link-productive-families-authority",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The General Information Authority's national database director discussed with the Productive Families Authority activating an electronic link for national-number queries, to speed the authority's transactions for citizens.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "national number query link",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": "Discussion only; no register in service stated."
+}

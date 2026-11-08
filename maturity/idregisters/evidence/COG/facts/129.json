@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-22-cog-le-congo-deploie-une-reforme-digitale-pour-assainir-le-fichier-solde-d",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Société.cg reports SIFEC is meant to check the identity of civil servants and contract staff when they are registered on the state payroll (Solde), as presented on 2026-02-20 by ACSI's director general.",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "SIFEC",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Système intégré des faits d'état civil (SIFEC)",
+   "country_label": "SIFEC",
+   "class": "other",
+   "platform": "",
+   "owner": "ACSI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

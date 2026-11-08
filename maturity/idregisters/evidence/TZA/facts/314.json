@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-24-tza-tanzania-s-inec-faces-integrity-questions-amid-contradictions-on-voter",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "INEC's head of ICT said in March 2025 that the voter registration system retrieves a person's details from the NIDA database by their NIDA number.",
+   "as_of": "2025-03-05",
+   "date_precision": "day",
+   "system": "Permanent Voter Register",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

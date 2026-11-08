@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-egy-social-registry-13m-households-27-databases",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Raafat Shafik of the Ministry of Social Solidarity says the national social registry of 13 million households is linked to 27 government databases through the national ID number.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "National Social Registry",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

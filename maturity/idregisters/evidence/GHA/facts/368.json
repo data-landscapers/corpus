@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-19-gha-parliament-c-ttees-commend-margins-id-group-for-ghana-card-investment",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Committee chair Dominic Ayine said the Ghana Card is used for voters registration.",
+   "as_of": "2024-03-12",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

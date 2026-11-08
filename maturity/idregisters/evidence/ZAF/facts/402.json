@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-19-zaf-national-treasury-deploys-tech-to-terminate-ghost-workers",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "National Treasury says it is cross-checking the PERSAL civil service payroll with SARS tax data and Home Affairs population and biometric data, testing PERSAL for ID numbers with several PERSAL numbers, with no final results and a data-sharing legal framework and MOU still being set up.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "PERSAL",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PERSAL",
+   "country_label": "PERSAL",
+   "class": "other",
+   "platform": "",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

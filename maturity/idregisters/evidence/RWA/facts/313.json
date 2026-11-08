@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-rwa-rwanda-s-journey-to-a-single-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The deck lists the Imibereho Social Registry among systems the SDIN integrates with, described as a ready integration pathway, not yet in service.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Imibereho Social Registry",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-02-gmb-gra-introduces-itas-system-to-stakeholders",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The GRA Commissioner General said the Integrated Tax Administration System, being introduced ahead of nationwide implementation, will integrate with the national identification database for taxpayer identification.",
+   "as_of": "2025-10-02",
+   "date_precision": "day",
+   "system": "Integrated Tax Administration System (ITAS)",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

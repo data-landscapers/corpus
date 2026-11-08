@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-06-ben-benin-8-millions-de-dollars-pour-renforcer-l-interconnexion-des-fichie",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "La Marina BJ reports the DGI tax file (IFU) is attached to the NPI: 439,333 of 1,077,679 IFU were linked on 25 October 2023, and the IDA PReM-Benin programme funds real-time IFU-NPI matching.",
+   "as_of": "2023-10-25",
+   "date_precision": "day",
+   "system": "IFU-NPI interconnection",
+   "class": "register"
+  },
+  {
+   "sub_indicator": "registers",
+   "aspect": "matching",
+   "value": "reported",
+   "fact": "The Ministry of Economy and Finance stated that on 25 October 2023, 439,333 of 1,077,679 IFU were attached to an NPI, a 40.76% rate.",
+   "as_of": "2023-10-25",
+   "date_precision": "day",
+   "system": "IFU-NPI interconnection",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

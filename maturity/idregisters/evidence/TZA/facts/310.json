@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-01-rwa-legal-reforms-adapted-to-tech-changes-data-safeguards-vital-for-expand",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Edson Guyai of Tanzania's NIDA says the government is moving from insurance cards to national IDs as the tool for accessing health insurance.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "National ID for health insurance",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "registers",
-      "stage": "3",
+      "stage": "4",
       "register": "inservice",
-      "several": "",
+      "several": "several",
       "matching": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-003;EGY-004",
-      "gaps": "No third main register has been found using the national number. No figure from checking a register against the ID has been found.",
-      "note": "The electoral roll (2025) and state payroll tax (2026) use the national number, two main registers. The vendor page naming social insurance does not say that register uses the number, so not stage 4.",
-      "as_at": "2026-11-07"
+      "stage_sources": "EGY-003;EGY-004;EGY-006;EGY-007",
+      "gaps": "No figure from checking a register against the ID has been found.",
+      "note": "The electoral roll (EGY-003), the tax authority's wage tax and state payroll systems (EGY-007, EGY-004) and the national social registry (EGY-006) use the national number: three or more main registers, stage 4. Stage 5 needs a figure from matching.",
+      "as_at": "2026-11-08"
     }
   ]
 }

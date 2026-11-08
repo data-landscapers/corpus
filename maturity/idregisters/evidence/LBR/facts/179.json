@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-12-lbr-national-identification-registry-challenges-and-progress",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The NIR director said a memorandum of understanding signed with the Civil Service Agency requires every government employee to have a national identification number before being placed on the payroll.",
+   "as_of": "2024-08-11",
+   "date_precision": "day",
+   "system": "National Identification Number",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

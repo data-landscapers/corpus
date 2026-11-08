@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-20-zaf-question-nw6521-to-the-minister-of-home-affairs",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Department of Home Affairs says it is deploying a biometric verification solution to interface with national population and payroll databases under DPSA Circular 36 of 2025, with verification still underway and a report due 28 February 2026.",
+   "as_of": "2025-11-20",
+   "date_precision": "day",
+   "system": "Biometric staff verification (DPSA Circular 36 of 2025)",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

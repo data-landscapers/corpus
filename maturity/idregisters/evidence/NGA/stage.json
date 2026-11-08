@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "registers",
-      "stage": "3",
+      "stage": "4",
       "register": "inservice",
-      "several": "",
+      "several": "several",
       "matching": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-006;NGA-007;NGA-010",
-      "gaps": "No source found since October 2023 shows the tax register in use with the NIN, or a third main register; none gives a matching figure.",
-      "note": "The National Social Register (2023, 2025) and online voter registration (2026) use the NIN, two main registers. The tax register is only due to use it, so not stage 4.",
-      "as_at": "2026-11-07"
+      "stage_sources": "NGA-006;NGA-007;NGA-010;NGA-013;NGA-008",
+      "gaps": "No figure from checking a register against the ID is given: the 1,628,587 NINs validated for the social register (NGA-007) are a count of checks, not of records removed or corrected. The tax use rests on the law and a law firm's account (NGA-013, NGA-008), with no count of tax records keyed on the NIN.",
+      "note": "The social register (NGA-006, NGA-007) and online voter registration (NGA-010) use the NIN, and under the 2026 identity law filing tax returns requires it, with the NIN the individual tax number since January 2026 (NGA-013, NGA-008): three main registers, stage 4. Stage 5 needs a matching figure.",
+      "as_at": "2026-11-08"
     }
   ]
 }

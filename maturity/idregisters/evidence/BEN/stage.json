@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BEN-001;BEN-007;BEN-003",
-      "gaps": "No source found since October 2023 shows the tax register or a third main register using the NPI. No matching figure has been found.",
-      "note": "The electoral list is extracted from the national register of persons (2025) and the public-sector pension fund asks for the NPI (2026): two main registers. Tax use of the NPI is not shown, so not stage 4.",
-      "as_at": "2026-11-07"
+      "gaps": "The tax file's link to the NPI (BEN-008: 439,333 of 1,077,679 tax identifiers attached, 40.76%) and its matching figure (BEN-009) are dated 25 October 2023, before the three-year window at this reassessment, so they set nothing; nothing dated since shows the tax register's share. Only two main registers, the electoral list and the public pension fund, are shown in the window.",
+      "note": "The electoral list and the public pension fund use the NPI, two main registers: stage 3. The tax link would be the third, but its one figure is dated October 2023, outside the window.",
+      "as_at": "2026-11-08"
     }
   ]
 }

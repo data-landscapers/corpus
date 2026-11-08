@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "registers",
-      "stage": "no evidence",
-      "register": "",
+      "stage": "2",
+      "register": "underway",
       "several": "",
       "matching": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether public registers use the national ID number.",
-      "note": "No row on this sub-indicator is held, so no stage is set.",
-      "as_at": "2026-11-07"
+      "stage_sources": "CIV-001",
+      "gaps": "No source found since October 2023 shows a public register in service with the NNI; the director general says the tax, social security and health insurance numbers are to be linked to it, not that they are.",
+      "note": "ONECI's director general said in June 2025 that a decree routes administrative procedures through the NNI and that the tax, social security and CMU numbers are soon to be linked to it: adoption planned, stage 2. Stage 3 needs a register shown using the number.",
+      "as_at": "2026-11-08"
     }
   ]
 }

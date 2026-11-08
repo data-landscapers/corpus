@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-12-stp-bilhete-de-identidade-emitido-na-ilha-do-principe",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Minister of Justice said a project for an ID that carries information for social security, tax and the electoral card is drawn up and awaiting financing.",
+   "as_of": "2024-03-12",
+   "date_precision": "day",
+   "system": "Bilhete de Identidade",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

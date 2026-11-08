@@ -4,7 +4,7 @@
 
 **Register keyed on ID.** Malawi's National ID is used by several public registers. [The EU Delegation says the ID underpins voter registration, social protection targeting and payroll management](<https://www.eeas.europa.eu/delegations/malawi/10-years-fruitful-partnership-government-malawi-civil-registration_en>). Its account is the one source found since October 2023 on how public registers use the ID. It does not say how each register holds the number.
 
-**Main registers.** Three main registers rest on the ID: the voters' roll, the social protection registry and the public payroll. [The EU Delegation names all three](<https://www.eeas.europa.eu/delegations/malawi/10-years-fruitful-partnership-government-malawi-civil-registration_en>). No source found names the tax register or the business register.
+**Main registers.** Three main registers rest on the ID: the voters' roll, the social protection registry and the public payroll. [The EU Delegation names all three](<https://www.eeas.europa.eu/delegations/malawi/10-years-fruitful-partnership-government-malawi-civil-registration_en>). No source found names the tax register or the business register. In February 2025 a World Bank mission agreed [to integrate the unified beneficiary registry with the national ID system](<https://documents1.worldbank.org/curated/en/099100325093520180/pdf/P505095-a4c66f94-3385-4c95-b175-bfa83f2438df.pdf>).
 
 **Matching reported.** No figure from checking a register against the ID has been found. [The EU Delegation's account](<https://www.eeas.europa.eu/delegations/malawi/10-years-fruitful-partnership-government-malawi-civil-registration_en>) names payroll management. It gives no count of ghost workers or duplicates removed.
 

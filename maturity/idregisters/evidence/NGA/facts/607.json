@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-01-nga-the-nimc-act-2026-explained-what-nigeria-s-new-identity-law-means-for",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Olaniwun Ajayi LP says the NIMC Act 2026 gives statutory basis to requirements, many already in practice, that registering to vote and filing tax returns need a NIN.",
+   "as_of": "2026-06-26",
+   "date_precision": "day",
+   "system": "NIN",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

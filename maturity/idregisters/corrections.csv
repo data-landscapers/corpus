@@ -1,3 +1,15 @@
 iso3,n,aspect,value,action,why
 GHA,004,register,inservice,revalued: several:several,"Bill, 2026-11-03, messages-for-bill 69: SSNIT social insurance counts as social protection, so with the tax number and the payroll (GHA-003) three main registers use the Ghana Card"
 MWI,003,register,inservice,removed,An ID card as the sole identification to register as a voter does not show the roll drawn from the ID register
+COG,002,register,underway,removed,"Stage 4c: SIFEC is the civil status system; the fact is a check of civil status records at payroll registration, not the payroll adopting the national ID number"
+ETH,004,register,inservice,removed,"Stage 4c: Fayda used for tax, already held (ETH-001, ETH-002)"
+ETH,008,register,inservice,removed,"Stage 4c: Fayda a precondition for a TIN, already held (ETH-001, ETH-002)"
+GHA,007,register,inservice,removed,"Stage 4c: payroll linked with the NIA database, already held (GHA-003)"
+GHA,010,register,inservice,removed,"Stage 4c: the Ghana Card used to register voters does not show the roll drawn from the ID register (as MWI-003)"
+GHA,012,register,inservice,removed,"Stage 4c: the PIN serving as SSNIT, tax and NHIS number, already held (GHA-004)"
+LBR,007,register,underway,removed,"Stage 4c: the CSA-NIR payroll MoU, already held (LBR-002, LBR-006)"
+NGA,015,register,underway,removed,"Stage 4c: linking the National Social Register to the NIN, already held in service (NGA-006, NGA-007, NGA-012)"
+TZA,011,register,inservice,removed,"Stage 4c: NIDA used for company registration and TINs, already held (TZA-003, TZA-009)"
+UGA,011,register,underway,removed,"Stage 4c: the NIN-as-TIN approval and mapping, already held (UGA-004 to UGA-007)"
+SOM,003,register,inservice,revalued: register:underway,"Stage 4c: the ID card made mandatory for business services does not show the business register keyed on the number"
+TZA,010,register,inservice,revalued: register:underway,"Stage 4c: the government is moving from insurance cards to the national ID; not yet in service"

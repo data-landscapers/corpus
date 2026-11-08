@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-15-gha-cagd-verify-ghana-card-details-by-march-15-or-face-salary-suspension",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Citi Newsroom reports the government payroll platform is integrated with the National Identification Authority database and payroll entries are keyed on NIA numbers, with employees logging on using them, per the Controller and Accountant-General's memo of 11 February 2026.",
+   "as_of": "2026-02-11",
+   "date_precision": "day",
+   "system": "government payroll platform",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

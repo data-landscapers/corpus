@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-28-mli-mali-le-gouvernement-suspend-les-salaires-de-36-151-agents-publics-apr",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Mali's Ministry of Economy and Finance said the SIGRH biometric census of public agents, closed 15 August 2025, enrolled 122,166 of 158,317 agents and found duplicates among them with or without a verifiable NINA.",
+   "as_of": "2025-08-15",
+   "date_precision": "day",
+   "system": "SIGRH",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGRH",
+   "country_label": "Systeme Integre de Gestion des Ressources Humaines",
+   "class": "register",
+   "platform": "",
+   "owner": "Ministere de l'Economie et des Finances",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
