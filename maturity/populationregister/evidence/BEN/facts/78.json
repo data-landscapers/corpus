@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-06-ben-benin-8-millions-de-dollars-pour-renforcer-l-interconnexion-des-fichie",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "La Marina BJ, citing the TADAT report, says the Registre national des personnes physiques (RNPP) is managed by ANIP.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "RNPP (ANIP)",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "used",
+   "value": "source",
+   "fact": "La Marina BJ reports the DGI retrieves individuals' identification data automatically from ANIP from the NPI to issue an IFU.",
+   "as_of": "2021-12",
+   "date_precision": "month",
+   "system": "RNPP (ANIP)",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

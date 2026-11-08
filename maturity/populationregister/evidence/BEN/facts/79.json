@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-10-ben-benin-journee-de-l-etat-civil-et-des-statistiques-de-l-etat-civil-2026",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ANIP says the RNPP is the base of identification in Benin and is to be consolidated as the single reliable register for every Beninese.",
+   "as_of": "2026-08-10",
+   "date_precision": "day",
+   "system": "RNPP",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "vital",
+   "value": "updated",
+   "fact": "ANIP says children registered at birth in the pilot health facilities are entered in the RNPP from birth, improving its data quality.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "RNPP",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-civ-country-playbook-cote-d-ivoire-id4africa-2026-29",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ONECI's playbook describes the central national register of natural persons (RNPP) as set up and the core of the ID architecture.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Registre National des Personnes Physiques (RNPP)",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

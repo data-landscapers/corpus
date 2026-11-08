@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-06-mar-le-ministere-de-l-interieur-developpe-un-systeme-intelligent-pour-dete",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Interior Ministry's annual report says that in 2026 it will keep updating the data held in the Registre national de la population (RNP).",
+   "as_of": "2025-11-06",
+   "date_precision": "day",
+   "system": "Registre national de la population (RNP)",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-22-gin-etat-civil-aucun-document-d-identite-n-avait-de-base-legale-selon-djen",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The national register of natural persons is being built through the RAVEC census launched 15 April 2025, described as a modern extension of civil status.",
+   "as_of": "2025-04-15",
+   "date_precision": "day",
+   "system": "Registre national des personnes physiques",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

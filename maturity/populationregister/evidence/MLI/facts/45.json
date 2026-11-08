@@ -1,0 +1,15 @@
+{
+ "slug": "2023-11-24-mli-decret-2023-0679-identification-agents-fonctions-publiques",
+ "facts": [],
+ "systems": [
+  {
+   "system": "RAVEC (Recensement administratif à vocation d'état civil)",
+   "country_label": "RAVEC",
+   "class": "other",
+   "platform": "",
+   "owner": "State, data processed by CTDEC",
+   "tiers": ""
+  }
+ ],
+ "note": "RAVEC is named as a biometric database staff data are matched against; the decree does not say it is a population register."
+}

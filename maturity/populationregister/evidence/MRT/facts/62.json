@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-30-mrt-anrpts-from-national-identity-to-digital-state-op-ed",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "An op-ed says the 2021 integrated system includes a national biometric register, and the ANRPTS handles registration in the population register.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "National biometric register",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

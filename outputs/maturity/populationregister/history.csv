@@ -19,3 +19,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-01,BWA,dpi.registry--population-register,fact,no evidence,2,BWA-001,Minister says the National Registration Act is being amended to introduce a population register (March 2025); no evidence to 2
 2026-11-04,LSO,dpi.registry--population-register,fact,unplaced,3,LSO-004,"gov.ls, May 2026: Home Affairs says it maintains the National Population Register; register in service, unplaced to stage 3"
 2026-11-07,GIN,dpi.registry--population-register,fact,2,2,GIN-001;GIN-003;GIN-009,"MATD's July 2025 count of 9,010,181 people in the register; newer sources still describe it being constituted and extended, so stage 2 holds"
+2026-11-08,GIN,dpi.registry--population-register,fact,2,2,GIN-010;GIN-001;GIN-003,"Nearly 10 million people counted in December 2025, but in July 2026 the register was still to be set up through civil status digitisation: stage 2 stands."

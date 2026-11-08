@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-19-civ-ago-christian-kodia-le-numero-national-d-identification-nni-est-l-elem",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ONECI's director-general says the Registre national des personnes physiques, built on the NNI, is a reality and its data can be released to bodies with ARTCI's signed approval.",
+   "as_of": "2025-06-19",
+   "date_precision": "day",
+   "system": "RNPP",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

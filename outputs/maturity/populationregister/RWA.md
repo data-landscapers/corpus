@@ -2,11 +2,11 @@
 
 ## Population register
 
-**Register in service.** [MINALOC says the new civil registration system is interoperable with the National Population Registry, which it names among the databases linked](<https://www.minaloc.gov.rw/news-detail/rwanda-launches-new-integrated-civil-registration-system>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined. This is a first pass, which read at most twenty stories a country; the nightly deep dive reads further and may move the stage either way.
+**Register in service.** The local government ministry says [the new civil registration system is linked to the National Population Registry](<https://www.minaloc.gov.rw/news-detail/rwanda-launches-new-integrated-civil-registration-system>). A May 2026 national ID deck [names the National Population Register among existing systems](<https://id4africa.com/2026/files/T1-3-1-Rwanda-FINAL.pdf>), to form part of the single digital identity.
 
-**Updated from vital events.** No source found since October 2023 says births or deaths are entered in the population register. The nearest held fact: [the one given above](<https://www.minaloc.gov.rw/news-detail/rwanda-launches-new-integrated-civil-registration-system>).
+**Updated from vital events.** No source found since October 2023 says births or deaths are entered in the population register. An identification agency presentation covering 2016 to 2024 says [the digital civil registration system is integrated with the population register](<https://crvs.unescap.org/system/files/sites/default/files/B1_Session%203.3_75_Bugingo_PPT.pdf>), the national ID and health systems. It does not say how records pass between them.
 
-**Source for others.** No source found since October 2023 says other systems take records from the population register. The nearest held fact: [the one given above](<https://www.minaloc.gov.rw/news-detail/rwanda-launches-new-integrated-civil-registration-system>).
+**Source for others.** No source found since October 2023 says other systems take records from the population register. The May 2026 deck [plans it as part of the single digital identity's core](<https://id4africa.com/2026/files/T1-3-1-Rwanda-FINAL.pdf>).
 
 ***Also on file***. None found.
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-14-gin-etat-civil-guineen-la-refondation-en-marche-l-identification-au-cur-du",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "L'Independant quotes the elections directorate head saying the national register of natural persons (RNPP) now records nearly 10 million people.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "RNPP",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -16,6 +16,7 @@ BEN,National Registry of Natural Persons,National Registry of Natural Persons (A
 BEN,Registre National des Personnes Physiques (RNPP),Benin,population,,ANIP,,2026-10-29-ben-promotion-du-droit-a-lidentite-des-enfants-8-500-actes-de-naissance-de
 BEN,RNPP,Benin,population,,ANIP,,2025-08-11-ben-electoral-file-audit-the-initial-conclusions-of-the-expert-mission
 BEN,ANIP identification (NPI),Benin,other,eservices.anip.bj / ANIP BJ app,Agence nationale d'identification des personnes,,2026-11-03-ben-modernisation-des-services-d-identification-au-b-nin-l-anip-acc-l-re-s
+BEN,Registre National des Personnes Physiques (RNPP),Benin,population,,ANIP,,2023-11-09-ben-banouto-gouvernement-reponse-nomination-dg-anip
 BFA,fichier national des élèves,Burkina Faso,other,,Ministère de l'Enseignement de base / Ministère de la Transition digitale,,2025-06-27-numerisation-systeme-educatif-fichier-national-eleves
 BFA,registre national de l'identifiant unique de la personne physique,Burkina Faso,population,"central database, biometric",organisme en charge de l'identifiant unique (to be created by decree),,2024-10-11-bfa-alt-loi-027-2024-identification-unique
 CIV,Registre national des personnes physiques (RNPP),Cote d'Ivoire,population,,ONECI,,2026-07-30-cote-divoire-digital-identity-connected-not-identified
@@ -50,6 +51,7 @@ GIN,registre national des personnes physiques,Guinea,population,,organe en charg
 GIN,RNPP (Registre national des personnes physiques),Guinea,other,,,,2025-09-12-gin-anomalies-sur-les-cartes-d-electeurs-la-dge-rassure-face-aux-inquietud
 GIN,Registre national des personnes physiques,Guinea,population,,MATD,,2025-04-01-gin-le-premier-ministre-receptionne-les-kits-d-enrolement-biometrique
 GIN,RNPP,Registre national des personnes physiques,population,,MATD,,2025-07-19-gin-matd-les-statistiques-provisoires-du-registre-national-des-personnes-p
+GIN,registre national des personnes physiques,Guinea,population,,ONECI (MATD),,2026-07-15-gin-fichier-electoral-et-etat-civil-bientot-un-numero-identifiant-unique-p
 KEN,Maisha Integrated Population Register (IPRS),Kenya,population,,"Directorate of Population Registration Services, State Department for Immigration and Citizen Services","Primary, secondary and tertiary registration agencies feed a central repository",2026-08-30-integrated-population-registration-service
 KEN,Integrated Population Register System (IPRS),Kenya,population,,State Department for Immigration and Citizen Services,,2025-08-11-eacc-iprs-integration
 KEN,Integrated Population Registration Services (IPRS),Kenya,population,,,,2026-06-26-ngao-trained-revised-id-registration
@@ -72,6 +74,7 @@ MDG,"IDMS (lot 8, DP n°028)",Madagascar,population,"open to MOSIP, OSIA or othe
 MDG,NUI generator,Madagascar,other,,Government of Madagascar,,2024-04-12-mdg-ugd-prodigy-reponses-clarification-idms-enrolement
 MLI,RAVEC (recensement administratif à vocation d'état civil),Mali,population,Mali Kura Biométrie,Ministère de l'Administration territoriale,,2024-02-14-mali-kura-biometrie-systeme-souverain-ravec
 MLI,RAVEC / NINA biometric file,RAVEC (administered by ANSAEC),population,,ANSAEC,,2025-05-01-mli-id4africa-dnec-identite-juridique-progres
+MLI,RAVEC (Recensement administratif à vocation d'état civil),RAVEC,other,,"State, data processed by CTDEC",,2023-11-24-mli-decret-2023-0679-identification-agents-fonctions-publiques
 MOZ,National Population Registry,Mozambique,population,,National Directorate of Civil Identification,,2026-05-29-atdi-mobile-digital-id-tender
 MOZ,X-Road Interoperability Platform,Mozambique,other,X-Road,"ATDI, IP",,2026-05-29-atdi-mobile-digital-id-tender
 MRT,Registre national de la population,Mauritania,population,,Ministry of Interior,,2026-06-18-ami-kassataya-enrolement-registre-national-population-service-public-permanent
@@ -117,5 +120,7 @@ ZAF,National Population Register,National Population Register,population,,Depart
 ZAF,National Population Register,South Africa,population,population register,Department of Home Affairs,,2025-12-12-zaf-minister-leon-schreiber-invites-public-comment-on-the-draft-revised-wh
 ZAF,National Population Register,National Population Register,population,,Department of Home Affairs,,2025-03-24-zaf-home-affairs-upgrades-critical-digital-verification-system
 ZAF,Home Affairs digital verification service,Home Affairs verification service,other,,Department of Home Affairs,,2025-03-24-zaf-home-affairs-upgrades-critical-digital-verification-system
+ZAF,National Population Register,South Africa,population,,Department of Home Affairs,,2026-09-16-zaf-question-nw4926-to-the-minister-of-home-affairs
+ZAF,National Population Register,National Population Register,other,,Department of Home Affairs,,2025-09-19-zaf-national-treasury-deploys-tech-to-terminate-ghost-workers
 ZWE,national population registry,Zimbabwe,population,,Registrar-General,,2025-07-15 Zimbabwe looks forward to digital ID rollout after population registry reform
 ZWE,Zimbabwe Population Registry System (ZPRS),ZWE,population,,Civil Registry Department,,2023-11-12-zwe-herald-issuance-of-id-cards-going-on-smoothly-rg

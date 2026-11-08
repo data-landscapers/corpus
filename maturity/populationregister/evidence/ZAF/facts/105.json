@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-19-zaf-national-treasury-deploys-tech-to-terminate-ghost-workers",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The article refers to the National Population Register as an existing register that Home Affairs minister Leon Schreiber said had been upgraded in mid-2025, and that Treasury checks payroll images against.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "National Population Register",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Register",
+   "country_label": "National Population Register",
+   "class": "other",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

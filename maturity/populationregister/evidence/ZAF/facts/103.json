@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-16-zaf-question-nw4926-to-the-minister-of-home-affairs",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Minister of Home Affairs replied in Parliament that Home Affairs runs the National Population Register, which it uses with HANIS and ABIS to verify identities and source documents.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "used",
+   "value": "source",
+   "fact": "The Minister of Home Affairs replied in Parliament that the Electoral Commission's voter registration identity data is verified electronically against the National Population Register.",
+   "as_of": "2026-09-16",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Register",
+   "country_label": "South Africa",
+   "class": "population",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

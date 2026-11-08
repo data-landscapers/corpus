@@ -9,10 +9,10 @@
       "used": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GIN-001;GIN-003;GIN-009",
-      "gaps": "The ministry put the register at 9,010,181 people after de-duplicating the 2025 census (GIN-009, July 2025), but the texts constituting it were still in draft in January 2026 (GIN-003) and its extension and verification platform were being launched in September 2026 (GIN-001); no source says it is in service. Nothing says births or deaths are entered in it, or that other systems take records from it.",
-      "note": "Fact 2025-07-19: the register holds a census-based count, but newer sources still describe it being constituted and extended, so stage 2. Stage 3 needs the register in service.",
-      "as_at": "2026-11-07"
+      "stage_sources": "GIN-010;GIN-001;GIN-003",
+      "gaps": "The ministry put the register at 9,010,181 people in July 2025 (GIN-009) and the elections director at nearly 10 million in December 2025 (GIN-011), but the texts constituting it were in draft in January 2026 (GIN-003), and in July 2026 the director said the civil status digitisation then launched will set it up (GIN-010), with its extension launched in September 2026 (GIN-001); no source says it is in service. Nothing says births or deaths are entered in it, or that other systems take records from it.",
+      "note": "Reassessed 2026-11-08: the December 2025 count of nearly 10 million is a census figure, and the newest source, of July 2026, still describes the register as being set up, so stage 2. Stage 3 needs the register in service.",
+      "as_at": "2026-11-08"
     }
   ]
 }

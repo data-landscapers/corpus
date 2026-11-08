@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-20-zaf-question-nw6521-to-the-minister-of-home-affairs",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Department of Home Affairs says its staff biometric verification solution will interface with national population databases to confirm each employee's identity and that the person is alive.",
+   "as_of": "2025-11-20",
+   "date_precision": "day",
+   "system": "National population database",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

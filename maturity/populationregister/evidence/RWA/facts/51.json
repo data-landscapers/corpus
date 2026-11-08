@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-rwa-innovative-solutions-and-best-practices-in-the-transformation-of-rwand",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "A NIDA presentation says Rwanda's digital CRVS system is integrated with a population register.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Population register",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

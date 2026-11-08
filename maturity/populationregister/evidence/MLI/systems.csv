@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 MLI,RAVEC (recensement administratif à vocation d'état civil),Mali,population,Mali Kura Biométrie,Ministère de l'Administration territoriale,,2024-02-14-mali-kura-biometrie-systeme-souverain-ravec
 MLI,RAVEC / NINA biometric file,RAVEC (administered by ANSAEC),population,,ANSAEC,,2025-05-01-mli-id4africa-dnec-identite-juridique-progres
+MLI,RAVEC (Recensement administratif à vocation d'état civil),RAVEC,other,,"State, data processed by CTDEC",,2023-11-24-mli-decret-2023-0679-identification-agents-fonctions-publiques

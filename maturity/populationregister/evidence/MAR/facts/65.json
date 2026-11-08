@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-mar-mi-um6p-mosip-rnp-l3-support-collaboration",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The deck describes the National Population Registry as a digital register open to all citizens and foreign residents, with 22M+ identifiers assigned.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Registre National de la Population",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "used",
+   "value": "source",
+   "fact": "The deck says RNP data are made available to partners to simplify procedures and access to social support programmes, and six social programmes are integrated.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Registre National de la Population",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

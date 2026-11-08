@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-09-ben-banouto-gouvernement-reponse-nomination-dg-anip",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The government says RAVIP and ANIP produced the Registre National des Personnes Physiques, a biometric register of the population in which each person has a personal identification number (NPI).",
+   "as_of": "2023-11-09",
+   "date_precision": "day",
+   "system": "Registre National des Personnes Physiques (RNPP)",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre National des Personnes Physiques (RNPP)",
+   "country_label": "Benin",
+   "class": "population",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
