@@ -21,8 +21,8 @@ The Kampala Convention asks for registers and documents for internally displaced
 | Stage | Countries |
 |---|---|
 | 5 Leading | 4 |
-| 4 Operating | 6 |
-| 3 Established | 17 |
+| 4 Operating | 7 |
+| 3 Established | 16 |
 | 2 Nascent | 10 |
 | 1 Absent | 5 |
 | Unplaced | 4 |
@@ -60,6 +60,14 @@ The number of refugees or displaced people using digital services was published 
 Refugees or displaced people could use SIM cards, mobile money or digital ID in 2023; how many do is not counted.
 
 - ANOTEL, applying decree 2023-1721 of 15 December 2023, states that the refugee identity card and refugee attestation issued by CONAREF are the only documents accepted for refugees to buy a SIM card ([source, 2023-12-15](https://burkina24.com/2024/05/13/communique-de-lassociation-nationale-des-operateurs-telecommunications-anotel/)).
+
+### Chad: 4 Operating
+
+Since 2025 refugees in Chad with a refugee ID number can open bank accounts and register SIM cards; how many have is not known.
+
+- UNHCR says that with an NNIR refugees in Chad can now open bank accounts, register SIM cards, receive money transfers from abroad and access healthcare ([source, 2025-05](https://www.unhcr.org/blogs/now-i-belong-refugees-in-chad-receive-national-id-numbers/)).
+- UNHCR says that in a World Bank-funded pilot started in N'Djamena, refugees are registered with biometric verification in Chad's SIGPTS and receive a National Refugee Identification Number, with more than 4,000 of a 7,000 target having received secure documents ([source, 2025-05](https://www.unhcr.org/blogs/now-i-belong-refugees-in-chad-receive-national-id-numbers/)).
+- The World Bank states that, with other actors, 25,000 secure identity documents have been issued to refugees to date, against a target of 80,000 ([source, 2025-09](https://documents1.worldbank.org/curated/en/099735205212519675/pdf/IDU-f63a01b3-734b-45cc-bdf8-323adb04c51d.pdf)).
 
 ### Eswatini: 4 Operating
 
@@ -115,13 +123,6 @@ Refugees or displaced people were registered and documented in 2026; their acces
 Refugees or displaced people were registered and documented in 2026; their access to digital services is not on record.
 
 - UNHCR states that as of June 2026, 37,389 Sudanese refugees have been registered in the Central African Republic since April 2023, in collaboration with the National Commission for Refugees (CNR) ([source, 2026-06](https://data.unhcr.org/en/documents/download/123755)).
-
-### Chad: 3 Established
-
-Refugees or displaced people were registered and documented in 2025; their access to digital services is not on record.
-
-- The World Bank states that, with other actors, 25,000 secure identity documents have been issued to refugees to date, against a target of 80,000 ([source, 2025-09](https://documents1.worldbank.org/curated/en/099735205212519675/pdf/IDU-f63a01b3-734b-45cc-bdf8-323adb04c51d.pdf)).
-- More than 4,000 refugees in N'Djamena had received NNIR identity documents as of 1 May 2025, against a pilot target of 7,000, per Biometric Update citing UNHCR ([source, 2025-05-01](https://www.biometricupdate.com/202505/chad-issues-biometric-ids-to-thousands-of-refugees-with-idemia-tech-unhcrs-help)).
 
 ### Comoros: 3 Established
 

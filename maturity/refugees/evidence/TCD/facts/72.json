@@ -1,0 +1,36 @@
+{
+ "slug": "2025-05-01-tcd-now-i-belong-refugees-in-chad-receive-national-id-numbers",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "UNHCR says that in a World Bank-funded pilot started in N'Djamena, refugees are registered with biometric verification in Chad's SIGPTS and receive a National Refugee Identification Number, with more than 4,000 of a 7,000 target having received secure documents.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "SIGPTS / NNIR",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "access",
+   "value": "open",
+   "fact": "UNHCR says that with an NNIR refugees in Chad can now open bank accounts, register SIM cards, receive money transfers from abroad and access healthcare.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "SIGPTS / NNIR",
+   "class": "displaced"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIGPTS / NNIR",
+   "country_label": "Chad",
+   "class": "displaced",
+   "platform": "",
+   "owner": "ANATS with CNARR and UNHCR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

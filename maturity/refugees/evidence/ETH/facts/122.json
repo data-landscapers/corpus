@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-12-eth-reporter-forgeries-fraud-national-id-program",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "The Reporter says USD 50 million of the World Bank's USD 350 million financing for the National ID program is a grant for IDPs, immigrants and the registration of other marginalised people who cannot afford the fees.",
+   "as_of": "2024-10-12",
+   "date_precision": "day",
+   "system": "Faida National ID",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

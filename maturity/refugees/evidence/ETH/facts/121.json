@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-01-mosip-rewind-2025",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "MOSIP says Ethiopia had a successful UNHCR integration and rollout with its ID system.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "MOSIP-based national ID",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

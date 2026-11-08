@@ -1,17 +1,18 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "displaced",
-   "stage": "3",
-   "registration": "documented",
-   "access": "",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TCD-004;TCD-002",
-   "gaps": "No source found since October 2023 says refugees or displaced people may use SIM cards, mobile money or digital ID.",
-   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "displaced",
+      "stage": "4",
+      "registration": "documented",
+      "access": "open",
+      "counted": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-007;TCD-006;TCD-004",
+      "gaps": "No source found publishes how many refugees hold a SIM card, an account or a national digital ID; the 25,000 documents are refugee identity documents.",
+      "note": "Fact 2025-05: UNHCR says refugees with an NNIR can open bank accounts and register SIM cards, which answers question 3. No count of refugees with a SIM, an account or a national digital ID is found, so not 5.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }
