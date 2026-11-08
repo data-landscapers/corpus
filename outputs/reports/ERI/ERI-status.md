@@ -1,12 +1,12 @@
 ---
 title: Eritrea: status report
-compiled: 2026-11-06
+compiled: 2026-11-08
 place: ERI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 24
-sources_cited: 120
+sources_cited: 121
 sections_written: 39
 not_established: 4
 acquire_lines: 19
@@ -172,7 +172,7 @@ In 2018 an [identity-card application required a supporting letter from the appl
 ### Digital Identity and CRVS
 <!-- dpi.id -->
 
-In November 2025 [most Eritreans still held the older hand-written identity card, with a long backlog of applications for the newer one](https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country/Eritrea.html). The [Department of Immigration and Nationality has issued the plastic, holographic, fingerprinted card to citizens aged over 18 since late 2015](https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country/Eritrea.html). It carries [a laser-engraved photograph, the holder's fingerprint and a unique serial number](https://www.ecoi.net/en/document/2011310.html) (2018).
+In November 2025 [most Eritreans still held the older hand-written identity card, with a long backlog of applications for the newer one](https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country/Eritrea.html). [In August 2026 the Frankfurt consulate stated that renewal of expired new cards was paused until further notice](https://konsulat-eritrea.de/wereket-meninet/). The [Department of Immigration and Nationality has issued the plastic, holographic, fingerprinted card to citizens aged over 18 since late 2015](https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country/Eritrea.html). It carries [a laser-engraved photograph, the holder's fingerprint and a unique serial number](https://www.ecoi.net/en/document/2011310.html) (2018).
 
 In January 2021 each of the six zoba registers [recorded a per-resident identification number alongside biographic and civil-status fields](https://www.metas.ch/dam/sem/en/data/internationales/herkunftslaender/afrika/eri/eri-identitaets-und-zivilstandsdokumente-e.pdf.download.pdf/ERI-identitaets-und-zivilstandsdokumente-e.pdf). [Birth registration passes up from the Kebabi family register through Nus-Zoba to Zoba level](https://www.metas.ch/dam/sem/en/data/internationales/herkunftslaender/afrika/eri/eri-identitaets-und-zivilstandsdokumente-e.pdf.download.pdf/ERI-identitaets-und-zivilstandsdokumente-e.pdf).
 
