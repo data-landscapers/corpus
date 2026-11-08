@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 place: GHA
-ledger_rows: 60
+ledger_rows: 63
 not_held: 9
-record: b66b1210fb11
+record: 83ea893cd7d0
 ---
 
 # News, Oct – Nov 2026
@@ -798,6 +798,20 @@ Bank of Ghana Governor Johnson Pandit Asiama opened the reconstituted Payment Sy
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Project DESFT digital trade credentials proof of concept</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Press Release – Bank of Ghana Announces Successful Completion of Cross-Border Trade Using Digital Credentials](https://www.bog.gov.gh/news/press-release-bank-of-ghana-announces-successful-completion-of-cross-border-trade-using-digital-credentials/)** — Bank of Ghana, 5 November 2026
+
+First Project DESFT proof of concept with Monetary Authority of Singapore; digital credentials for trade and payment.
+
+</div>
+
+</div>
+
 ### Registries
 
 <div class="monthly-story" markdown="1">
@@ -809,6 +823,20 @@ Bank of Ghana Governor Johnson Pandit Asiama opened the reconstituted Payment Sy
 **[Gender Ministry swears in Data Review Committee to strengthen household registry](https://www.myjoyonline.com/gender-ministry-swears-in-data-review-committee-to-strengthen-household-registry/)** — MyJoyOnline, 3 November 2026
 
 Ghana's Ministry of Gender, Children and Social Protection swore in a Data Review Committee for the Ghana National Household Registry. The committee will review and validate the registry's analytical reports before they go to stakeholders and the public. The registry holds about three million enrolled households across all 16 regions.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Birth registration coverage</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Only 61% of Ghanaian children have birth certificates](https://3news.com/news/birth-certificates-ghana-children-unicef)** — 3News, 6 November 2026
+
+UNICEF's Andy Brooks, Nov 2026; birth certificate a school-enrolment condition from Oct 2025 under Act 1027.
 
 </div>
 
@@ -855,6 +883,20 @@ The UN Development Programme gave the Ghana Enterprises Agency 90 laptops. They 
 **[Contract Award: Design, Development, Operations and Maintenance of the eGovernment Digital Services Platform (GH-MOCDTI-535504-NC-RFB), Ghana Digital Acceleration Project P176126](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478518)** — World Bank (procurement notice OP00478518, for the Ministry of Communication, Digital Technology and Innovations, Ghana), 1 November 2026
 
 A World Bank notice records that the contract for Ghana's eGovernment digital services platform was awarded on 21 October 2026. C-BRAINS A/S, with Omni Strategies, won at GHS 76,103,721.44. Tata was evaluated at GHS 96.1 million. The project is the Ghana Digital Acceleration Project.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mandatory online health declaration for arriving travellers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Travelling to Ghana? New mandatory health declaration rule takes effect next week](https://www.graphic.com.gh/news/general-news/travelling-to-ghana-new-mandatory-health-declaration-rule-takes-effect-next-week.html)** — Graphic Online, 7 November 2026
+
+Pre-departure online form at ehds.ghs.gov.gh mandatory from 12 Nov 2026; surveillance aim; no data-handling terms stated.
 
 </div>
 
