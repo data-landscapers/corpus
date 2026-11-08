@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 place: MUS
-ledger_rows: 32
+ledger_rows: 33
 not_held: 7
-record: 81c07ba7b374
+record: fee1a15652a8
 ---
 
 # News, Oct – Nov 2026
@@ -68,6 +68,14 @@ Mauritius's ICT ministry met Meta on faster removal of fake accounts, impersonat
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Campagne nationale : Pas de censure des réseaux sociaux, jure l’État, qui revoit la loi](https://lexpress.mu/node/564465)** — L'Express (Maurice), 7 November 2026
+
+Mauritius's ICT ministry and regulator ICTA launched a three-month campaign on social-media use on 6 November 2026, L'Express reported. Amendments to the Cybersecurity and Cybercrime Act 2021 have gone to the State Law Office, the ministry said. New regulations are being prepared under the ICT Act. CERT-MU recorded 5,754 incident reports between 1 January and 5 November 2026.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -109,6 +117,14 @@ Mauritius's ICT minister, Avinash Ramtohul, told L'Express on 10 October 2026 ab
 **[PQ | Réseaux sociaux : Le gouvernement prépare un nouveau cadre contre les abus](https://lexpress.mu/node/564170)** — L'Express (Maurice), 29 October 2026
 
 Mauritius's ICT minister told the National Assembly in October 2026 that draft amendments to the Cybersecurity and Cybercrime Act 2021 are ready. They cover cyberharassment, doxxing, fake profiles, deepfakes and disinformation, and create a national cybersecurity agency. Platforms such as Facebook and TikTok would carry duties to take down content, keep evidence and report.
+
+</div>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Campagne nationale : Pas de censure des réseaux sociaux, jure l’État, qui revoit la loi](https://lexpress.mu/node/564465)** — L'Express (Maurice), 7 November 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
@@ -295,6 +311,20 @@ About 70% of government websites, those running on PHP, were taken offline over 
 **[Risque de cyberattaque : 10 à 15 % des services gouvernementaux toujours hors ligne](https://defimedia.info/risque-de-cyberattaque-10-15-des-services-gouvernementaux-toujours-hors-ligne)** — Le Defi Media Group, 25 October 2026
 
 Summarised under [Cybersecurity](#cybersecurity).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cybercrime reports against investigator numbers</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Campagne nationale : Pas de censure des réseaux sociaux, jure l’État, qui revoit la loi](https://lexpress.mu/node/564465)** — L'Express (Maurice), 7 November 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
