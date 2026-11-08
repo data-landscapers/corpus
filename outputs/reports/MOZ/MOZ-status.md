@@ -1,12 +1,12 @@
 ---
 title: Mozambique: status report
-compiled: 2026-11-07
+compiled: 2026-11-08
 place: MOZ
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 252
+sources_cited: 254
 sections_written: 39
 not_established: 1
 acquire_lines: 48
@@ -228,7 +228,7 @@ In 2018 [interoperability between the land information system, municipal cadastr
 ### Sectoral management information systems
 <!-- dpi.mis -->
 
-In 2025 the World Bank recorded [custom-built financial management, payroll, tax administration and human resources systems, with customs on commercial off-the-shelf software](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). The [treasury system settles through real-time gross settlement but is only partially used by ministries, departments and agencies](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
+In 2025 the World Bank recorded [custom-built financial management, payroll, tax administration and human resources systems, with customs on commercial off-the-shelf software](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). The [treasury system settles through real-time gross settlement but is only partially used by ministries, departments and agencies](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). [In October 2025 the government suspended 18,899 employees from the payroll after they missed the annual biometric proof of life required by the e-SNGRHE human resources system](https://360mozambique.com/development/biometric-verification-removes-over-18000-nonexistent-employees-from-the-state-payroll/). [At end-2022, 45% of tax receipts were collected through e-tributação, linked to the e-SISTAFE financial management system](https://furtherafrica.com/2023/07/25/nearly-half-of-mozambique-taxes-collected-electronically-in-2022/).
 
 Customs has cleared through [the Janela Única Electrónica single window since 2012, which had cut clearance steps from 32 to 8 by 2017](https://www.freightnews.co.za/article/single-window-speeds-up-clearance-at-moz-borders). [Decree 37/2023 made electronic lodging of declarations mandatory](https://tempo.co.mz/upload/legislacao/boletins_republica/docs/decreto-37-2023.pdf). On 18 November 2025 the Council of Ministers [authorised negotiation of a new single-window concession by direct award with Escopil Internacional and SGS](https://portaldogoverno.gov.mz/2025/11/19/governo-aprova-reformas-estruturantes-nos-sectores-de-agua-energia-e-logistica/). Mozambique [ranks first of 54 African states on tax and revenue mobilisation](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mz.pdf) (2023).
 
