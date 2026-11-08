@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-02-lbr-concerns-mount-over-nir-us-52m-biometric-id-concession-jeopardizing-jo",
+ "facts": [
+  {
+   "sub_indicator": "private",
+   "aspect": "state",
+   "value": "brought",
+   "fact": "Government signed in April 2026 a build-operate-transfer concession with Austria-based OeSD International for a nationwide ID and civil registration system, estimated at US$52 million, still awaiting legislative approval.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "NIDCRVS concession",
+   "class": "private"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
