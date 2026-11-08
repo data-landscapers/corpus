@@ -1,12 +1,12 @@
 ---
 title: Senegal: status report
-compiled: 2026-11-07
+compiled: 2026-11-08
 place: SEN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 13
-sources_cited: 285
+sources_cited: 288
 sections_written: 39
 not_established: 2
 acquire_lines: 49
@@ -105,7 +105,7 @@ Commercial lenders have gone to the operators: [IFC, British International Inves
 The government's own frame is [the Agenda de Transformation Numérique, which carries 1,105 billion FCFA across twelve priority programmes over 2025–2034](https://lesoleil.sn/actualites/economie/new-deal-technologique-un-investissement-cle-de-1105-milliards-de-fcfa/); [a US$10 million Gates Foundation grant funds a universal digital ID, an AI hub for health and agriculture and a delivery unit inside it](https://www.biometricupdate.com/202509/gates-foundation-fuels-senegals-digital-transformation-with-10m), and [DER/FJ has launched Catalyst, a US$50 million pre-seed and seed fund for Senegalese startups](https://techcabal.com/2026/07/07/francophone-weekly-by-techcabal-030/).
 
 <!-- derived -->
-By value the money concentrates on connectivity, government digitalisation and data storage; national statistics draws the most commitments, 53, but only about US$19 million. [A US$300m investment commitment by an American cybersecurity company was presented to the president in Washington on 14 September 2026](https://techafricanews.com/2026/09/16/senegal-300m-cybastion-digitalisation-projects/); no contract is on record.
+By value the money concentrates on connectivity, government digitalisation and data storage; national statistics draws the most commitments, 53, but only about US$19 million (November 2026). [A US$300m investment commitment by an American cybersecurity company was presented to the president in Washington on 14 September 2026](https://techafricanews.com/2026/09/16/senegal-300m-cybastion-digitalisation-projects/); no contract is on record.
 
 ## ICT Infrastructure
 
@@ -379,6 +379,8 @@ Across every part of the GovTech estate the index examines, nothing is published
 <!-- data.geospatial -->
 
 Senegal had no national space or geospatial agency and no policy on Earth observation as at August 2026, yet satellite data has standing uses in agriculture. The ecological monitoring centre [publishes a recurring agro-pastoral campaign bulletin analysing the vegetation index against a 1999-2022 baseline](https://www.cse.sn/wp-content/uploads/2026/05/17_Bilan_fin_campagne_2023_VF.pdf) (2023), the AgData Hub agro-climatic platform [has run on the meteorological agency's servers since its migration in September and October 2025](https://aiccra.cgiar.org/news/information-action-nationally-integrated-agdata-hub-turning-point-senegals-agriculture), and the statistics agency [signed a five-year agreement with Digital Earth Africa to calculate cultivated area, crop types and yields from satellite data](https://digitalearthafrica.org/en_za/de-africa-and-senegals-ansd-partner-to-bring-satellite-data-into-national-statistics/) (February 2026). A [rice remote-sensing platform was piloted with the national agricultural research institute](https://www.cgiar.org/news-events/news/leveraging-satellite-technology-in-senegals-rice-regions-for-national-food-and-economic-security) (October 2025), and the public-private agricultural insurer [sold satellite weather-index cover to 612,000 clients in 2022](https://irff.undp.org/sites/default/files/2024/Nov/12-senegal_0.pdf). Satellite imagery had no established role in the cadastre or in disaster response.
+
+[A WMO gap analysis found no Senegalese surface station reporting to the global basic observing network](https://www.un-soff.org/wp-content/uploads/2023/06/Senegal_-SOFF-Readiness-funding-request_vf.pdf) (2023). [The national contribution plan of October 2024 upgrades five surface stations and adds two, at Kaffrine and Kidira](https://www.un-soff.org/wp-content/uploads/2024/12/Senegal-GBON-National-Contribution-Plan-1.pdf). [An investment request of US$2.52m for the meteorological agency's observing network runs from December 2026 to November 2031](https://www.un-soff.org/wp-content/uploads/2026/04/PRODOC-Senegal.pdf).
 
 ## Geopolitics
 
