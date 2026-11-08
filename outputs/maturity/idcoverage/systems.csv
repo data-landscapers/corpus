@@ -12,6 +12,7 @@ BEN,CNIB,BEN,idsystem,,ANIP,,2026-09-18-ben-beninwebtv-cnib-renouvellement-en-li
 BEN,ANIP identity system,Benin,idsystem,,ANIP,,2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance
 BEN,national ID,Benin,idsystem,,,,2025-12-18 Seamfix revealed as developer of Benin's biometric passport renewal app
 BEN,"ANIP (Numero personnel d'identification, NPI)",Benin,idsystem,,Agence nationale d'identification des personnes,,2026-11-03-ben-modernisation-des-services-d-identification-au-b-nin-l-anip-acc-l-re-s
+BEN,Agence Nationale d'Identification des Personnes (ANIP),Benin,idsystem,,ANIP,,2023-11-09-ben-banouto-gouvernement-reponse-nomination-dg-anip
 BFA,CIB-AES,Burkina Faso,idsystem,,Alliance des Etats du Sahel; ONI technical support,,2026-08-27-bfa-aib-cib-aes-arbinda
 BFA,Carte d'identité biométrique AES (CIB-AES),Burkina Faso,idsystem,,Office national d'identification (ONI),card,2025-12-02-cib-aes-lancement-traore-enrolement
 BFA,Office national d'identification (ONI) national biometric identity card,Burkina Faso,idsystem,,Office national d'identification,,2026-09-16-bfa-sidwaya-journee-internationale-identite-diplomes-biometrie
@@ -57,6 +58,7 @@ ETH,Fayda,Ethiopia,idsystem,MOSIP,,,2026-04-07-dashen-bank-first-digital-id-acco
 ETH,Fayda,Ethiopia,idsystem,,NIDP,,2026-03-13-fayda-joins-sovereign-wealth-fund-1m-weekly-biometricupdate
 ETH,National digital ID (National ID Program),Ethiopia,idsystem,,Ethiopian National ID Program,,2026-05-13-eth-ena-eca-personal-data-protection-consultation
 ETH,national digital ID programme,Ethiopia,idsystem,,government,,2026-06-23-eth-ethiopia-plans-local-laptop-tablet-assembly-in-digital-sovereignty-pus
+ETH,Faida National ID,National ID Program (Fayda/Faida),idsystem,,"National ID Program Office, Office of the Prime Minister",,2024-10-12-eth-reporter-forgeries-fraud-national-id-program
 GAB,Permis de conduire digitalisé,Gabon,other,"Rengus Digital, hosted on Gabon Poste infrastructure",Ministère des Transports,,2026-10-02-permis-de-conduire-digitalise-gabon-poste-rengus-digital-architecture-technique
 GAB,Permis de conduire digitalisé,Gabon,other,,Ministère des Transports,,2026-09-21-gab-gabonreview-permis-conduire-digitalise-enrolement-suspendu
 GAB,Registre biometrique des personnes physiques (RBPP),Gabon,idsystem,,Government of Gabon (Ministry of Interior),,2025-06-23-gabon-legal-digital-id-three-projects
@@ -76,6 +78,7 @@ LBR,National Identification Registry,Liberia,idsystem,,NIR,,2025-07-03-nec-hands
 LBR,National Biometric Identification System (NBIS),Liberia,idsystem,,National Identification Registry,,2025-03-11-fpa-nir-digital-transformation-partnerships-enrollment
 LBR,NIR ID,LBR,idsystem,,National Identification Registry,,2024-10-10 Liberia sets July 2025 deadline for SIM registration linked to national ID (LTA-NIR MoU)
 LBR,National Biometric Identification System,NBIS,idsystem,,National Identification Registry,,2024-02-05-lbr-newspublictrust-nir-mobile-teams
+LBR,National Identification Registry (NIR),Liberia,idsystem,,NIR,,2024-08-12-lbr-national-identification-registry-challenges-and-progress
 LBY,National Number (الرقم الوطني) via the unified electronic system of the Civil Registry Authority,Libya,idsystem,unified electronic civil status system,Civil Registry Authority (مصلحة الأحوال المدنية),,2026-09-27-lby-alwasat-national-number-fraud-civil-registry
 LSO,Digital/service identification system,Lesotho,idsystem,,MICSTI,,2026-03-25-lesotho-digital-service-id-pilot-govls
 LSO,MOSIP-based national digital identity ecosystem,LSO,idsystem,MOSIP,MICSTI,,2026-02-26-lesotho-micsti-unicef-digital-id-work-plan
@@ -92,6 +95,7 @@ MDG,Izaho Tokana,Madagascar,idsystem,,Ministry of Interior and Decentralisation,
 MLI,NINA,Mali,idsystem,,,,2026-09-16-dpi-map-mali-country-profile
 MOZ,Bilhete de Identidade (BI),Mozambique,idsystem,,,,2026-07-28-mozambique-free-id-and-birth-certificate-issuance-extended-2027
 MOZ,Mobile digital ID and e-signature,Mozambique,other,"smartphone app, SIM and eSIM",ATDI,3,2026-05-26-seeks-partner-mobile-digital-id-esignature-biometricupdate
+MOZ,Civil identification database (DNIC),Mozambique,idsystem,,DNIC,,2026-04-23-moz-implementation-status-results-report-digital-governance-and-economy-pr
 MRT,Registre national de la population,MRT,idsystem,,Ministry of Interior,"biometric enrolment, permanent public service",2026-06-18-ami-kassataya-enrolement-registre-national-population-service-public-permanent
 MRT,Houwiyeti,Mauritania,other,mobile application,Agence nationale du registre des populations et des titres sécurisés,,2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty
 MRT,Registre National Biométrique des Populations,Mauritanie,idsystem,,structure prévue par l'alinéa 2 de l'article 6 de la loi 2011-003,,2025-02-24-mauritanie-loi-2025-011-modifiant-code-etat-civil-actes-numeriques

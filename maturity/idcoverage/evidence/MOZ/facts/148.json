@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-23-moz-implementation-status-results-report-digital-governance-and-economy-pr",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Civil identification database (DNIC)",
+   "country_label": "Mozambique",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "DNIC",
+   "tiers": ""
+  }
+ ],
+ "note": "Gives 11,038,940 people registered in the civil identification database on 20 March 2026 but no population or share, so no value can be drawn from this document alone."
+}

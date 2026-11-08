@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-12-lbr-national-identification-registry-challenges-and-progress",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "The National Identification Registry's executive director said 723,000 of Liberia's 5.2 million people, about 14%, were enrolled by August 2024.",
+   "as_of": "2024-08-11",
+   "date_precision": "day",
+   "system": "National Identification Registry",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Registry (NIR)",
+   "country_label": "Liberia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIR",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

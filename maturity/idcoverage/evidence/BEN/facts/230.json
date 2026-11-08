@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-09-ben-banouto-gouvernement-reponse-nomination-dg-anip",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "twothirds",
+   "fact": "The government says Benin has formally identified more than 90% of its population through RAVIP and ANIP.",
+   "as_of": "2023-11-09",
+   "date_precision": "day",
+   "system": "RNPP / NPI",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agence Nationale d'Identification des Personnes (ANIP)",
+   "country_label": "Benin",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

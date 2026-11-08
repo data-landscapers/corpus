@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-02-lbr-concerns-mount-over-nir-us-52m-biometric-id-concession-jeopardizing-jo",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "NIR figures presented at a June 2025 press briefing put enrollment at about 759,000 of an estimated 5.2 million people, about 14 percent, per NIR Executive Director Andrew Peters.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "National Identification Registry",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

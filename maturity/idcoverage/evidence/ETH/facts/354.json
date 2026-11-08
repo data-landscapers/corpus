@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-12-eth-reporter-forgeries-fraud-national-id-program",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "The Reporter quotes the National ID Program Office as saying close to 10 million people had received their Faida ID cards by October 2024, against a target of up to 90 million registered within two years.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Faida National ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Faida National ID",
+   "country_label": "National ID Program (Fayda/Faida)",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National ID Program Office, Office of the Prime Minister",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
