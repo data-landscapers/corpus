@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-ssd-sudanspost-central-bank-warns-of-cybersecurity-risks-to-digital-financial-services",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Sudans Post reports that South Sudan's digital financial services sector has expanded through mobile money platforms and electronic payment systems, which individuals and businesses use to send and receive payments and transfer funds by phone.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "mobile money platforms",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
