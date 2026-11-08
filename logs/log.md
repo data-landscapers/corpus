@@ -12,6 +12,8 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-08 05:29 · **REVIEW** · 16m · RWA: status 12 sections revised, 26 trimmed, progress 1 cell, finance 0 rows; 0 deals queued, 1 note for OSINT - ok
+2026-11-08 05:29 · **REVIEW** · 19m · NGA: status 23 sections revised, 14 trimmed, progress 1 cell, finance 0 rows; 1 deal queued, 1 note for OSINT - ok
 2026-11-08 05:19 · **REBUILD** · 18m · idverification use: 47 cells reassessed, 7 moved; 54 searched, 93 staged; ~67M tokens (three shared 200M) - ok
 2026-11-08 05:19 · **REBUILD** · 18m · idrobustness robustness: 47 cells reassessed, 5 moved; 54 searched, 108 staged; ~67M tokens (three shared 200M) - ok
 2026-11-08 05:19 · **REBUILD** · 18m · regionalinfrastructure shared: 54 cells reassessed, 26 moved; 54 searched, 118 staged; ~67M tokens (three shared 200M) - ok
