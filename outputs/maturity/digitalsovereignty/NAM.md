@@ -2,7 +2,7 @@
 
 ## Control of state data
 
-**Rule on state data.** [NDP6 plans a National Data Centre](<https://neweralive.na/namibia-targets-full-digital-transformation/>) to store government information and keep critical national data hosted within Namibia. In 2008 the Bank of Namibia issued its [Determination on Localization of Core Banking Systems (BID 19)](<https://www.lac.org.na/laws/2008/4109.pdf>), effective 11 August 2008. It requires all authorised banking institutions to keep their core banking systems in Namibia. Those systems hold accounting and other banking records.
+**Rule on state data.** [NDP6 plans a National Data Centre](<https://neweralive.na/namibia-targets-full-digital-transformation/>) to keep government data in Namibia. In April 2026 the Prime Minister's spokesperson said [the centre was at a preliminary stage, with nothing procured](<https://theissue.com.na/namibia-wallows-in-digital-sovereignty-illusion/>). A Bank of Namibia rule of 2008 [requires banks to keep their core systems in the country](<https://www.lac.org.na/laws/2008/4109.pdf>).
 
 **Hosted nationally.** No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud. The nearest held fact: [the one given above](<https://neweralive.na/namibia-targets-full-digital-transformation/>).
 
@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: is a rule on state data in force.
+***Not found***. No source found says a rule on state data is in force. None says government data is hosted in a national data centre.

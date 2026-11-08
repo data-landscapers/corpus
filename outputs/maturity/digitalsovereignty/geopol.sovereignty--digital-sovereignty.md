@@ -25,8 +25,8 @@ The AU Data Policy Framework asks for localisation of certain categories of data
 | 3 Established | 2 |
 | 2 Nascent | 32 |
 | 1 Absent | 1 |
-| Unplaced | 8 |
-| No evidence | 5 |
+| Unplaced | 9 |
+| No evidence | 4 |
 
 ## Countries
 
@@ -146,7 +146,7 @@ Keeping state data under national control was a stated goal in 2024; a rule in f
 
 ### Ethiopia: 2 Nascent
 
-Ethiopia's digital strategy aims at a sovereign national cloud; no rule in force covers state data.
+Ethiopia's digital strategy aims at a sovereign national cloud and the ID system runs on a government cloud; no rule in force covers state data.
 
 - The Ministry of Innovation and Technology says the Digital Ethiopia 2030 strategy is grounded in digital sovereignty, with a sovereign national cloud and strict enforcement of data sovereignty laws as its backbone ([source, 2025-12-29](https://www.ena.et/web/eng/w/eng_8021907)).
 
@@ -331,6 +331,12 @@ The only fact found is Somaliland's 2025 start on a government data centre, whic
 
 Not established: The one fact is Somaliland's plan for a government data centre (SOM-001); nothing found since October 2023 covers the federal government.
 
+### Togo: Unplaced
+
+Identity data was hosted in Togo in 2025, but no goal or rule on state data is known, so no stage is set.
+
+Not established: No source found since October 2023 says control of state data is a stated goal or a rule in force; the domestic hosting of identity data (TGO-001) does not answer that.
+
 ### Uganda: Unplaced
 
 Uganda hosts government systems in its national data centre; no goal or rule on state data is on record.
@@ -362,12 +368,6 @@ Nothing found names control of state data or says there is none, so no stage is 
 Not established: Nothing found says whether the state keeps its data and systems under its own control.
 
 ### Sao Tome and Principe: No evidence
-
-Nothing found names control of state data or says there is none, so no stage is set.
-
-Not established: Nothing found says whether the state keeps its data and systems under its own control.
-
-### Togo: No evidence
 
 Nothing found names control of state data or says there is none, so no stage is set.
 

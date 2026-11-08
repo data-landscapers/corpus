@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-30-sen-senegal-and-togo-strengthen-cooperation-on-digital-identity-systems",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "TechAfrica News reports that all Togolese identity data is hosted domestically within national infrastructure, per the Togolese delegation.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Togo national electronic identification (EID) platform on MOSIP",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

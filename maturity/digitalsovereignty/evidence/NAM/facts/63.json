@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-14-nam-namibia-wallows-in-digital-sovereignty-illusion",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The Prime Minister's spokesperson says a national data centre to house government servers is at a preliminary stage and part of the national development plan NDP6, with no procurement yet.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "National data centre",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

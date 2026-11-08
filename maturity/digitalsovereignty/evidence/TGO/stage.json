@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sovereignty",
-      "stage": "no evidence",
+      "stage": "unplaced",
       "rule": "",
-      "hosted": "",
+      "hosted": "national",
       "terms": "",
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found says whether the state keeps its data and systems under its own control.",
-      "note": "No evidence row on control of state data was found.",
-      "as_at": "2026-10-31"
+      "gaps": "No source found since October 2023 says control of state data is a stated goal or a rule in force; the domestic hosting of identity data (TGO-001) does not answer that.",
+      "note": "A Togolese delegation said in October 2025 that all identity data is hosted in national infrastructure (TGO-001), but no source in the window states a goal or a rule on state data. Under Bill's ruling of 2026-10-31 hosting alone places nothing, so the cell is unplaced.",
+      "as_at": "2026-11-08"
     }
   ]
 }

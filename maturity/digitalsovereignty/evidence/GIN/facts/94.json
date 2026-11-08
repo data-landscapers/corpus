@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-22-gin-etat-civil-aucun-document-d-identite-n-avait-de-base-legale-selon-djen",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "The director says the ID number is designed, generated and kept on national territory by Guinean engineers.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "PN-RAVEC",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
