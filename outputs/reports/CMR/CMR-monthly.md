@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 place: CMR
-ledger_rows: 24
+ledger_rows: 25
 not_held: 3
-record: 7528a882f206
+record: 6cd6cbbe20bc
 ---
 
 # News, Oct – Nov 2026
@@ -407,6 +407,20 @@ Cameroon's civil registration bureau BUNEC visited Côte d'Ivoire's ONECI in Abi
 </div>
 
 ### Other GovTech and e-Gov
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Physical count of state personnel and payroll clean-up (COPPE)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cameroun : le nettoyage du fichier solde de l'État de nouveau repoussé après huit ans](https://ecomatin.net/cameroun-le-nettoyage-du-fichier-solde-de-letat-de-nouveau-repousse-apres-huit-ans)** — Ecomatin, 14 October 2026
+
+Payroll clean-up slips to 2027; AIGLES live since 1 Jan 2025, biometrics module unfinished, FCFA 7.2bn budget at risk.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
