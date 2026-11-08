@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 place: ZWE
-ledger_rows: 31
+ledger_rows: 32
 not_held: 6
-record: b7c623640dc1
+record: d251b3be3f24
 ---
 
 # News, Oct – Nov 2026
@@ -525,6 +525,20 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 **[Government to scale Artificial Intelligence for economic growth and service delivery](https://www.heraldonline.co.zw/government-to-scale-artificial-intelligence-for-economic-growth-and-service-delivery/)** — The Herald, 4 November 2026
 
 Zimbabwe's ICT minister Tatenda Mavetera tasked the ministry's new AI Unit with identifying, testing and scaling AI applications. She spoke at a strategic plan review workshop in Bulawayo. The plan names inaccurate responses, bias and poor data quality as risks.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Smart Traffic Management System (ZRP Smart Policing Programme)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Home Affairs Minister admits Smart Traffic Management System makes mistakes amid motorist complaints](https://www.newzimbabwe.com/home-affairs-minister-admits-smart-traffic-management-system-makes-mistakes-amid-motorist-complaints/)** — NewZimbabwe, 6 November 2026
+
+Minister concedes plate-capture errors at 20 Harare sites; police validation lapse; MP asks it be treated as a pilot.
 
 </div>
 
