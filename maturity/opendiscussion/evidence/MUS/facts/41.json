@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-07-mus-pas-de-censure-des-reseaux-sociaux-jure-l-etat-qui-revoit-la-loi",
+ "facts": [
+  {
+   "sub_indicator": "discussion",
+   "aspect": "connection",
+   "value": "cut",
+   "fact": "L'Express recalls that almost exactly two years earlier, on the eve of the general election, the ICTA ordered the suspension of social networks.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "",
+   "class": "discussion"
+  }
+ ],
+ "systems": [],
+ "note": "The cut falls outside the twelve months; no named critic or punishment stated."
+}
