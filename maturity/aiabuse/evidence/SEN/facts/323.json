@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-05-sen-escroqueries-par-intelligence-artificielle-la-cdp-appelle-a-la-vigilance",
+ "facts": [
+  {
+   "sub_indicator": "aiharm",
+   "aspect": "rule",
+   "value": "inforce",
+   "fact": "Senegal's CDP said on 5 November 2026 that recording or reproducing a person's voice or image by AI without legal basis is unlawful processing under Law 2008-12.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "Law 2008-12",
+   "class": "aiharm"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

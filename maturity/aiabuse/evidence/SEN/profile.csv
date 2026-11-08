@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SEN,aiharm,rule,coverage,inforce,2025-10-07,SEN-002,SEN-001=none,
-SEN,aiharm,authority,coverage,,,,,nothing held
-SEN,aiharm,enforced,coverage,,,,,nothing held
+SEN,aiharm,rule,coverage,inforce,2026-11-05,SEN-002;SEN-003,SEN-001=none,
+SEN,aiharm,authority,coverage,,,,,nothing found
+SEN,aiharm,enforced,coverage,,,,,nothing found
