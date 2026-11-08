@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-07-civ-mise-en-uvre-du-rnpp-l-oneci-et-ses-partenaires-definissent-les-orient",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "supplier",
+   "fact": "ONECI states the RNPP has been deployed since 2019 as a public-private partnership in which the operator SEMLEX runs the project, reviewed at a May 2026 workshop.",
+   "as_of": "2026-05-06",
+   "date_precision": "day",
+   "system": "RNPP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-30-sen-senegal-and-togo-strengthen-cooperation-on-digital-identity-systems",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "TechAfrica News reports that Togo's ID project was developed and managed primarily through Togolese expertise.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Togo national electronic identification (EID) platform on MOSIP",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "ownership",
+   "value": "owned",
+   "fact": "TechAfrica News reports that Togo's ID platform is built on open-source MOSIP, hosted in national infrastructure, which the article says reinforces national ownership of the system.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "Togo national electronic identification (EID) platform on MOSIP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Togo national electronic identification (EID) platform on MOSIP",
+   "country_label": "Togo",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "ANID",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

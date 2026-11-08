@@ -1,0 +1,37 @@
+{
+ "slug": "2024-04-01-tza-nida-yawa-ufunguo-wa-maendeleo-nchini-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "NIDA, the national authority, keeps the central register and runs registration of people through 153 district offices linked to its data centre.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "National ID system (NIDA)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "maintenance",
+   "value": "national",
+   "fact": "NIDA says its in-house experts built 24 of 42 planned systems and provide technical support, ending dependence on foreign contractors.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "National ID system (NIDA)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "ownership",
+   "value": "owned",
+   "fact": "NIDA says that by building its systems in-house it owns the actual program copies of the national ID system and is free of foreign contractors' licence limits.",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "National ID system (NIDA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

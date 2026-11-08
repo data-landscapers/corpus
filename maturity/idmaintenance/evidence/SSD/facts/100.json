@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-19-ssd-revenue-sharing-plan-under-discussion-to-address-passport-id-shortages",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "supplier",
+   "fact": "Directorate Director General Elia Costa says a contracted company provides immigration documents and computer maintenance for the critical systems used to issue passports and ID cards, and claims over $800,000 in unpaid fees.",
+   "as_of": "2025-10-17",
+   "date_precision": "day",
+   "system": "Passport and ID card issuance systems",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Passport and national ID issuance systems",
+   "country_label": "South Sudan",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Directorate of Civil Registry, Nationality, Passports and Immigration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

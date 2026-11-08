@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-01-gnb-new-enrollment-center-in-bissau",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "supplier",
+   "fact": "Semlex Guinea-Bissau says it produces and enrols the national identity cards, with centres in Bissau and provincial towns, under a public-private partnership with the Ministry of Justice in place since 2006, while the system is managed by the ministry's Directorate of Identification.",
+   "as_of": "2024-07-01",
+   "date_precision": "day",
+   "system": "Guinea-Bissau identity card system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Guinea-Bissau identity card system (CNI)",
+   "country_label": "Guinea-Bissau",
+   "class": "idsystem",
+   "platform": "Semlex",
+   "owner": "Directorate of Identification, Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

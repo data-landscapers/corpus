@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-18-mwi-malawi-distributes-3m-national-id-cards-printed-in-country",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "Biometric Update reports the National Registration Bureau now prints national ID cards at its own facilities on a printer supplied by Emptech in April 2024, and its own staff scan, check, sort and dispatch them from a sorting centre in Kanengo.",
+   "as_of": "2024-12",
+   "date_precision": "month",
+   "system": "National ID (National Registration Bureau)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID (National Registration Bureau)",
+   "country_label": "Malawi national ID",
+   "class": "idsystem",
+   "platform": "Emptech card printer; Laxton built first citizen register in 2017",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

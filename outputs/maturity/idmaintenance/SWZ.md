@@ -2,7 +2,7 @@
 
 ## National maintenance of id and credentials systems
 
-**Operated nationally.** [The Ministry of Home Affairs produces and issues national ID cards at ten service centres](<https://times.co.sz/31079/news/id-card-services-resume-in-boost-for-citizens/>). [It resumed production in February 2026 after a technical suspension](<https://independentnews.co.sz/41508/news/home-affairs-resumes-id-card-production/>). [Chief codes are updated in its own system before a replacement card is applied for](<https://eswatinipositivenews.online/home-affairs-ministry-urges-emaswati-to-verify-chief-codes-2/>). The ministry runs the card system itself.
+**Operated nationally.** [The Ministry of Home Affairs produces and issues national ID cards at ten service centres](<https://times.co.sz/31079/news/id-card-services-resume-in-boost-for-citizens/>). [It resumed production in February 2026 after a technical suspension](<https://independentnews.co.sz/41508/news/home-affairs-resumes-id-card-production/>). [Chief codes are updated in its own system before a replacement card is applied for](<https://eswatinipositivenews.online/home-affairs-ministry-urges-emaswati-to-verify-chief-codes-2/>). The ministry runs the card system itself. [In January 2026 ID services resumed under a project piloted by the home affairs ministry's own technical team](<https://eswatinifinancialtimes.africa/6702/future/id-services-resume-as-pilot-project-rolls-out/>).
 
 **Maintained nationally.** No source found says who maintains the system. [The February 2026 suspension was for technical upgrades of the production system](<https://times.co.sz/31079/news/id-card-services-resume-in-boost-for-citizens/>). The ministry did not say who carried them out. No supplier is named in its notices.
 

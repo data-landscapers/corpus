@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NGA-002;NGA-001",
-      "gaps": "No source found says the system runs on code the state owns.",
-      "note": "NIMC says in October 2026 that its own staff maintain the core database, hosted in Nigeria. Nothing says the state owns the code.",
-      "as_at": "2026-11-07"
+      "gaps": "No source found says the system runs on code the state owns. NIMC renewed Idemia's three-year contract for upgrades, maintenance and support in April 2024 (NGA-006), against NIMC's own account of October 2026 that its staff maintain the core database (NGA-002); the move to an open-source NIMC 2.0 on MOSIP is under way (NGA-005, NGA-008).",
+      "note": "Stage 4c 2026-11-08: the 2024 Idemia maintenance contract is older than NIMC's October 2026 statement that its own staff maintain the core database, which stands. Nothing says the state owns the code, so not 5.",
+      "as_at": "2026-11-08"
     }
   ]
 }

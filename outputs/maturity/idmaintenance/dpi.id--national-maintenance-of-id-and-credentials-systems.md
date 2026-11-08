@@ -20,9 +20,9 @@ The African Union's interoperability framework asks that countries own and opera
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
+| 5 Leading | 10 |
 | 4 Operating | 3 |
-| 3 Established | 31 |
+| 3 Established | 28 |
 | 2 Nascent | 4 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
@@ -36,6 +36,14 @@ The ID system ran in 2026 on code the state owns.
 
 - The Ministry of the Interior says the central collection and processing systems were developed by Algerian engineers ([source, 2026-05](https://id4africa.com/2026/files/T2-3-S3-4-Algeria-FINAL.pdf)).
 - The Ministry of the Interior says its own engineers administer the platforms for collecting and centrally processing identity and travel document data, which Algerian engineers developed ([source, 2026-05](https://id4africa.com/2026/files/T2-3-S3-4-Algeria-FINAL.pdf)).
+
+### Ethiopia: 5 Leading
+
+A state-owned enterprise runs the ID system, local engineers maintain it, and it runs on open-source code, as of 2026.
+
+- The deck states local engineering teams provide Fayda's technical solutions, with an in-house cybersecurity team ([source, 2024](https://id4africa.com/2024/ps1/PS1-1-Ethiopia-final.pdf)).
+- Kana TV News says Fayda runs on the open-source Modular Open Source Identity Platform, MOSIP ([source, 2026-08](https://kanatelevision.com/news/what-is-faydaverse-the-ethiopian-national-id-program-that-became-a-company-and-how-it-plans-to/)).
+- The national ID authority became the government-owned enterprise Faydaverse in August 2026, mandated to develop, operate and scale the digital public infrastructure ([source, 2026-08](https://www.biometricupdate.com/202608/fayda-digital-id-nears-50m-enrollments-as-adoption-reshapes-ethiopias-economy)).
 
 ### Guinea: 5 Leading
 
@@ -51,6 +59,14 @@ The ID system ran in 2024 on code the state owns.
 - The territorial administration minister says Mali Kura Biométrie was designed autonomously by Malian engineers between 2 October and 16 December 2023, replacing the system recovered from IDEMIA ([source, 2023-12-16](https://malikonews.com/mali-mali-kura-biometrie-un-nouveau-systeme-numerique-souverain-des-donnees-ravec/)).
 - The coordinator of the volunteer expert committee says there are no foreign providers on the maintenance contract for Mali Kura Biométrie, the new RAVEC system launched on 13 February 2024 ([source, 2024-02-13](https://malikonews.com/mali-mali-kura-biometrie-un-nouveau-systeme-numerique-souverain-des-donnees-ravec/)).
 
+### Morocco: 5 Leading
+
+The population register runs on open-source code in all provinces, maintained by a Moroccan university unit, as of 2026.
+
+- The deck says UM6P's MOSIP Centre of Excellence, a Moroccan university unit with 17 staff, holds a contract with the Ministry of Interior for L3 support, evolution of the MOSIP and RNP code and migration to the LTS version ([source, 2026](https://connect.mosip.io/resources_pdf_2026/Collaborations_between_Governments_and_Academic_Institutions.pdf)).
+- The deck says the RNP runs on MOSIP (version 1.1.5.x, being migrated to LTS), generalised to all 83 provinces in October 2022 ([source, 2022-10](https://connect.mosip.io/resources_pdf_2026/Collaborations_between_Governments_and_Academic_Institutions.pdf)).
+- The DGSN, Morocco's national security directorate, issued nearly 4.7 million electronic national ID cards in 2024 at its Rabat and Marrakech centres and ran the second phase of the electronic identity system, per its annual report ([source, 2024](https://www.moroccoworldnews.com/2024/12/166797/dgsn-issued-record-4-6-million-digital-ids-slashed-crime-rates-in-2024)).
+
 ### Sierra Leone: 5 Leading
 
 The ID system ran in 2026 on code the state owns.
@@ -64,6 +80,14 @@ The ID system ran in 2025 on code the state owns.
 
 - NIRA's Director General says the DPI systems were entirely developed by Somali engineers at NIRA, reflecting national ownership; the World Bank's Scaled-UP project supported the build ([source, 2025-05-08](https://www.biometricupdate.com/202505/somalia-unveils-dpi-tools-for-biometric-verification-id-issuance-and-service-access)).
 - NIRA's Director General says the three launched systems (HUBIYE, e-Aqoonsi, CDS) were entirely developed by Somali engineers at NIRA, reflecting national ownership ([source, 2025-05](https://nira.gov.so/news/nira-launches-key-digital-public-infrastructure-for-national-id-system)).
+
+### Tanzania: 5 Leading
+
+The ID authority's own experts built and support its systems, and it owns their code, as of 2024.
+
+- NIDA says its in-house experts built 24 of 42 planned systems and provide technical support, ending dependence on foreign contractors ([source, 2024-02](https://nida.go.tz/Habari-Maelezo?value=1)).
+- NIDA says that by building its systems in-house it owns the actual program copies of the national ID system and is free of foreign contractors' licence limits ([source, 2024-02](https://nida.go.tz/Habari-Maelezo?value=1)).
+- Minister Katambi said NIDA now serves 156 offices, with machines and equipment that print ID cards electronically ([source, 2026-09-16](https://www.mwananchi.co.tz/mw/habari/kitaifa/nida-yaondoa-kikwazo-cha-umri-namba-kuunganisha-huduma-za-kiraia-5597344)).
 
 ### Togo: 5 Leading
 
@@ -175,13 +199,6 @@ The national authority ran the ID system day to day in 2026; no source found say
 - The Ministry of Home Affairs spokesperson says Chief Codes are updated in the ministry's own system before a replacement ID card is applied for ([source, 2026-08](https://eswatinipositivenews.online/home-affairs-ministry-urges-emaswati-to-verify-chief-codes-2/)).
 - The Ministry of Home Affairs says national ID card production and issuance are taking place at ten service centres after a suspension for technical upgrades of the production system ([source, 2026-02-23](https://times.co.sz/31079/news/id-card-services-resume-in-boost-for-citizens/)).
 
-### Ethiopia: 3 Established
-
-The national authority ran the ID system day to day in 2026; no source found says who maintains it.
-
-- The national ID authority became the government-owned enterprise Faydaverse in August 2026, mandated to develop, operate and scale the digital public infrastructure ([source, 2026-08](https://www.biometricupdate.com/202608/fayda-digital-id-nears-50m-enrollments-as-adoption-reshapes-ethiopias-economy)).
-- The National ID program (Fayda) has become the state-owned enterprise Faydaverse under Ethiopian Investment Holdings and runs the ID, wallet and credential verification, per its stakeholder engagement director ([source, 2026-08-08](https://capitalethiopia.com/2026/08/08/national-id-program-to-expand-digital-wallet-and-credential-verification/)).
-
 ### Gambia: 3 Established
 
 The national authority ran the ID system day to day in 2026; no source found says who maintains it.
@@ -233,12 +250,6 @@ The national authority ran the ID system day to day in 2026; no source found say
 The national authority ran the ID system day to day in 2024; no source found says who maintains it.
 
 - The Mauritius National Identity Card Unit provides registration and issuance of the national identity card and mobile ID, and card-reading services to agencies ([source, 2024-02-19](https://mnis.govmu.org/)).
-
-### Morocco: 3 Established
-
-The national authority ran the ID system day to day in 2024; no source found says who maintains it.
-
-- The DGSN, Morocco's national security directorate, issued nearly 4.7 million electronic national ID cards in 2024 at its Rabat and Marrakech centres and ran the second phase of the electronic identity system, per its annual report ([source, 2024](https://www.moroccoworldnews.com/2024/12/166797/dgsn-issued-record-4-6-million-digital-ids-slashed-crime-rates-in-2024)).
 
 ### Mozambique: 3 Established
 
@@ -292,13 +303,6 @@ The national authority ran the ID system day to day in 2026; no source found say
 The national authority ran the digital ID platform day to day in 2026; no source found says who maintains it.
 
 - The National Electronic Authentication Authority manages the platform, can suspend or terminate the service for cyber security or maintenance, and takes monitoring and enforcement action ([source, 2026-05-21](https://sudapass.gov.sd/terms?lang=en)).
-
-### Tanzania: 3 Established
-
-The national authority ran the ID system day to day in 2026; no source found says who maintains it.
-
-- Minister Katambi said NIDA now serves 156 offices, with machines and equipment that print ID cards electronically ([source, 2026-09-16](https://www.mwananchi.co.tz/mw/habari/kitaifa/nida-yaondoa-kikwazo-cha-umri-namba-kuunganisha-huduma-za-kiraia-5597344)).
-- NIDA, a government institution under the Ministry of Home Affairs, says it registers people, issues national IDs and maintains the national digital registry ([source, 2025-05-01](https://www.id4africa.com/2025/files/PS1-S1-2-Tanzania-final.pdf)).
 
 ### Tunisia: 3 Established
 

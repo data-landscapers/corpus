@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-03-mli-confection-de-la-carte-d-identite-biometrique-confiee-a-une-societe-ma",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "Aujourd'hui-Mali reports that the biometric national ID card is made and produced by a Malian company and that the whole chain is controlled by Malians.",
+   "as_of": "2024-08-03",
+   "date_precision": "day",
+   "system": "Mali Biométrie",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mali Biométrie",
+   "country_label": "MLI",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Malian authorities, card made by an unnamed Malian company",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

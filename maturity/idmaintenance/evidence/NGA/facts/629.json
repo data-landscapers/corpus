@@ -1,0 +1,36 @@
+{
+ "slug": "2025-12-10-nga-nigeria-moves-to-replace-its-national-id-system-a-misstep-could-lock-o",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "NIMC, which the article calls the sole body mandated by the constitution for identity management, issues and runs the NIN system with about 124 million NINs by October 2025.",
+   "as_of": "2025-10",
+   "date_precision": "month",
+   "system": "National Identity Management System",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "NIMC says the system integrator engaged for the MOSIP migration will work with its technical team to ensure transfer and capacity building.",
+   "as_of": "2025-12-10",
+   "date_precision": "day",
+   "system": "NIMS 2.0 on MOSIP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Management System (NIMS 2.0 on MOSIP)",
+   "country_label": "Nigeria NIN",
+   "class": "idsystem",
+   "platform": "MOSIP (migration begun July 2025)",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

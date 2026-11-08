@@ -1,0 +1,37 @@
+{
+ "slug": "2026-01-01-mar-mi-um6p-mosip-rnp-l3-support-collaboration",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "The deck says the Ministry of Interior is pursuing national technological autonomy for the RNP, with training in India and knowledge transfer, to reduce external dependence.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "RNP (MOSIP)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "maintenance",
+   "value": "national",
+   "fact": "The deck says UM6P's MOSIP Centre of Excellence, a Moroccan university unit with 17 staff, holds a contract with the Ministry of Interior for L3 support, evolution of the MOSIP and RNP code and migration to the LTS version.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "RNP (MOSIP)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "ownership",
+   "value": "owned",
+   "fact": "The deck says the RNP runs on MOSIP (version 1.1.5.x, being migrated to LTS), generalised to all 83 provinces in October 2022.",
+   "as_of": "2022-10",
+   "date_precision": "month",
+   "system": "RNP (MOSIP)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

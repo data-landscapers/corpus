@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-civ-country-playbook-cote-d-ivoire-id4africa-2026-29",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "ONECI is described as the identification authority responsible for enrolment, production and management of identity in Cote d'Ivoire.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "National ID system (ONECI)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID system",
+   "country_label": "ONECI",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

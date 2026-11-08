@@ -6,7 +6,7 @@
 
 **Maintained nationally.** [NIRA itself built the capability to issue two distinct cards, one for citizens and one for foreign nationals](<https://www.biometricupdate.com/202602/brownfield-implementations-represent-mosips-next-wave-of-national-digital-ids>). It did so in February 2026 to comply with Ugandan law. [In March 2026 it began an information-exchange module](<https://businessfocus.co.ug/nira-on-spot-as-new-national-ids-fail-to-work-for-sim-registration-banks-and-driving-permits/>).
 
-**Platform owned.** [NIRA completed the migration of its national ID records to the open-source MOSIP platform](<https://www.biometricupdate.com/202602/brownfield-implementations-represent-mosips-next-wave-of-national-digital-ids>), as reported in February 2026. [Biometric Update counted over 28 million records moved](<https://www.biometricupdate.com/202610/uganda-moves-to-make-national-digital-id-number-its-tax-identifier>). The system in service now runs on open-source code.
+**Platform owned.** [NIRA completed the migration of its national ID records to the open-source MOSIP platform](<https://www.biometricupdate.com/202602/brownfield-implementations-represent-mosips-next-wave-of-national-digital-ids>), as reported in February 2026. [Biometric Update counted over 28 million records moved](<https://www.biometricupdate.com/202610/uganda-moves-to-make-national-digital-id-number-its-tax-identifier>). The system in service now runs on open-source code. [NIRA's 2026 country playbook says the new ID system uses the open-source MOSIP platform](<https://id4africa.com/2026/files/T1-2-3-Uganda-FINAL.pdf>), for control and ownership of the technology.
 
 ***Also on file***. None found.
 

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-02-bfa-laborpresse-oni-bilan-2025-cnib",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CNIB",
+   "country_label": "Carte Nationale d'Identité Burkinabè",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONI",
+   "tiers": ""
+  }
+ ],
+ "note": "Says ONI produced the cards; does not say who operates, maintains or owns the platform."
+}

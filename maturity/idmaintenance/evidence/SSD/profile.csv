@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SSD,maintenance,operation,coverage,national,2026-08-04,SSD-001;SSD-002;SSD-003;SSD-004,,
-SSD,maintenance,maintenance,coverage,,,,,nothing held
-SSD,maintenance,ownership,coverage,,,,,nothing held
+SSD,maintenance,operation,coverage,national,2026-08-04,SSD-001;SSD-002;SSD-003;SSD-004,SSD-006=supplier;SSD-005=supplier,
+SSD,maintenance,maintenance,coverage,,,,,nothing found
+SSD,maintenance,ownership,coverage,,,,,nothing found

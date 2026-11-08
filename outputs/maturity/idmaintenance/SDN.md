@@ -2,7 +2,7 @@
 
 ## National maintenance of id and credentials systems
 
-**Operated nationally.** SudaPass is Sudan's national digital identity platform, launched on 21 May 2026. [The National Electronic Authentication Authority manages the platform and takes monitoring and enforcement action](<https://sudapass.gov.sd/terms?lang=en>). Its terms let the authority suspend the service for cyber security or maintenance. Licensed certifiers issue the digital identity.
+**Operated nationally.** SudaPass is Sudan's national digital identity platform, launched on 21 May 2026. [The National Electronic Authentication Authority manages the platform and takes monitoring and enforcement action](<https://sudapass.gov.sd/terms?lang=en>). Its terms let the authority suspend the service for cyber security or maintenance. Licensed certifiers issue the digital identity. [In August 2024 the police said the fingerprint system behind new national numbers belongs to Dermalog and must be run by its German staff](<https://awalalnahar.net/archives/22743>). [No new numbers were then being issued](<https://awalalnahar.net/archives/22743>).
 
 **Maintained nationally.** No source found says national staff maintain SudaPass or that a foreign contract has ended. [The terms let the authority suspend the service for maintenance](<https://sudapass.gov.sd/terms?lang=en>). They do not say who carries that maintenance out.
 

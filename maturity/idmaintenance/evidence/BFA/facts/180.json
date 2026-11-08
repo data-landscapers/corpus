@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-17-bfa-les-deputes-donnent-leur-quitus-pour-wuri",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "The minister said measures are being taken so that management of the unique identification system is entrusted to local expertise.",
+   "as_of": "2024-10-11",
+   "date_precision": "day",
+   "system": "Unique electronic identification of natural persons (WURI)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-30-gmb-details-of-the-gambia-s-national-id-card-contract-plan-emerge",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "Interior Minister Abdoulie Sanyang told the National Assembly that the Semlex contract had reached its end and its extension was refused, and that the government is working on other contracts to embed local content in ID card issuance.",
+   "as_of": "2024-09",
+   "date_precision": "month",
+   "system": "national ID card system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national ID card system",
+   "country_label": "Gambia national ID card",
+   "class": "idsystem",
+   "platform": "Semlex biometric identification system, build-operate-transfer contract of 2016 for six years",
+   "owner": "Ministry of Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-01-mosip-rewind-2025",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "MOSIP says it trained participants from Cote d'Ivoire at IIIT-Bangalore in 2025 to support system operations, alongside a pilot with local capacity building.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "MOSIP-based ID pilot",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

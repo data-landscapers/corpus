@@ -67,3 +67,10 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-07,ZAF,dpi.id--national-maintenance-of-id-and-credentials-systems,review,3,3,ZAF-001,Rebuild: cell re-read against the ladder beside its neighbours; stage 3 stands.
 2026-11-07,ZMB,dpi.id--national-maintenance-of-id-and-credentials-systems,review,2,2,ZMB-001;ZMB-002,Rebuild: cell re-read against the ladder beside its neighbours; stage 2 stands.
 2026-11-07,ZWE,dpi.id--national-maintenance-of-id-and-credentials-systems,review,no evidence,no evidence,,Rebuild: cell re-read against the ladder beside its neighbours; stage no evidence stands.
+2026-11-08,ETH,dpi.id--national-maintenance-of-id-and-credentials-systems,fact,3,5,ETH-010;ETH-008;ETH-005,Fayda runs on MOSIP (August 2026) and local engineering teams provide its technical solutions (2024): maintained nationally and owned; 3 to 5
+2026-11-08,MAR,dpi.id--national-maintenance-of-id-and-credentials-systems,fact,3,5,MAR-004;MAR-005;MAR-002,The population register runs on MOSIP in all 83 provinces and a Moroccan university unit holds the contract to support and change its code: 3 to 5
+2026-11-08,TZA,dpi.id--national-maintenance-of-id-and-credentials-systems,fact,3,5,TZA-006;TZA-007;TZA-001,NIDA's in-house experts built 24 of 42 systems and it owns the program copies (early 2024): 3 to 5
+2026-11-08,CIV,dpi.id--national-maintenance-of-id-and-credentials-systems,fact,3,3,CIV-001;CIV-002,ONECI names Semlex as the RNPP's PPP operator (May 2026); ONECI's management in October 2026 stands; stays 3
+2026-11-08,COD,dpi.id--national-maintenance-of-id-and-credentials-systems,fact,1,1,COD-001,ONIP's March 2024 plan to run the population file predates the consortium managing it under its 20-year contract; stays 1
+2026-11-08,GMB,dpi.id--national-maintenance-of-id-and-credentials-systems,fact,3,3,GMB-004;GMB-009,Margins manages GAM ID until handover; immigration officers run enrolment as of August 2026; stays 3
+2026-11-08,NGA,dpi.id--national-maintenance-of-id-and-credentials-systems,fact,4,4,NGA-002;NGA-001,Idemia's 2024 maintenance contract predates NIMC's October 2026 account of in-house maintenance; stays 4

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-26-sdn-awalalnahar-police-spokesman-civil-registry-fingerprint-systems-recovered",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "supplier",
+   "fact": "The police spokesman says the civil fingerprint system that runs new national numbers and the national card belongs to Dermalog, with state licences, and Germans must operate it; the police director general went to Germany to seek a restart, so no new numbers are issued.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "civil fingerprint system (Dermalog)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Civil fingerprint system",
+   "country_label": "Sudan",
+   "class": "idsystem",
+   "platform": "Dermalog",
+   "owner": "Dermalog, state licences",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

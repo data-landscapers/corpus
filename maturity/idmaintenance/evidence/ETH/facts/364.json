@@ -1,0 +1,36 @@
+{
+ "slug": "2024-01-01-eth-fayda-digital-id-ethiopia-status-update",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The National ID Program says Fayda relies on local engineers and an in-house technical capability.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Fayda",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "maintenance",
+   "value": "national",
+   "fact": "The deck states local engineering teams provide Fayda's technical solutions, with an in-house cybersecurity team.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Fayda",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "National ID Program",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

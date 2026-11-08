@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-25-tgo-e-id-togo-et-protection-des-donnees-personnelles-le-togo-a-fait-le-cho",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The ANID director general says the national identification agency runs the e-ID enrolment, with field operations entrusted to INSEED.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "e-ID Togo (NIU)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "ownership",
+   "value": "owned",
+   "fact": "The ANID director general says Togo chose the open-source MOSIP platform to have sovereignty over its national biometric identification system.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "e-ID Togo (NIU)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-ID Togo (NIU)",
+   "country_label": "Agence Nationale d'Identification (ANID)",
+   "class": "idsystem",
+   "platform": "MOSIP",
+   "owner": "ANID",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

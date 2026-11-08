@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-23-rwa-rwanda-issues-tender-for-id-system",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "ID & Secure Document News reports that RISA's March 2026 tender for the Single Digital ID card printing and personalisation system includes knowledge transfer materials and training so that NIDA can sustain and extend the system after the contract.",
+   "as_of": "2026-03-23",
+   "date_precision": "day",
+   "system": "Single Digital ID Card Printing and Personalisation System",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Single Digital ID Card Printing and Personalisation System",
+   "country_label": "Rwanda",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "RISA / NIDA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

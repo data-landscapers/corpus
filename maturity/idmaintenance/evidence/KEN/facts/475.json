@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-29-ken-business-rivalry-blamed-for-digital-id-misinformation",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "KBC reports Immigration and Citizen Services PS Julius Bitok saying the government declined foreign firms' offers to build Maisha Namba and prefers to upgrade the existing foundational ID with local experts and homegrown IT solutions.",
+   "as_of": "2023-11",
+   "date_precision": "month",
+   "system": "Maisha Namba",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maisha Namba",
+   "country_label": "Maisha Namba (digital ID, upgrade of foundational ID)",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "State Department for Immigration and Citizen Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "COD-001",
-      "gaps": "No source found says national operation is a goal or under way.",
-      "note": "The IDEMIA and Afritech consortium produces the cards and manages the population file under a 20-year contract from 2024. Nothing says a transfer is planned.",
-      "as_at": "2026-11-07"
+      "gaps": "ONIP said in March 2024 it would manage the data centre and population file, with its trainers trained by the partner (COD-003), but the May 2024 report has the IDEMIA/Afritech consortium managing the file under its 20-year contract (COD-001), and Trident operates RDC-PASS under a 20-year partnership (COD-002). No transfer is shown under way since.",
+      "note": "Stage 4c 2026-11-08: ONIP's March 2024 plan to run the population file is older than the May 2024 account of the consortium managing it, which stands, and Trident runs RDC-PASS. A foreign supplier runs the system, so stage 1.",
+      "as_at": "2026-11-08"
     }
   ]
 }

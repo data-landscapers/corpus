@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-21-gha-revenue-model-is-the-main-focus-in-our-proposal-to-review-contract-wit",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Ghana Card / National Identification System",
+   "country_label": "National Identification Authority (NIA)",
+   "class": "idsystem",
+   "platform": "Margins Group (IMS)",
+   "owner": "NIA owns data and infrastructure",
+   "tiers": ""
+  }
+ ],
+ "note": "NIA is said to own the data and infrastructure with Margins as technical partner, but no one is said to operate or maintain it day to day, and no code ownership is stated."
+}

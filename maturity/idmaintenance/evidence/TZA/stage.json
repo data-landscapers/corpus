@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "maintenance",
-      "stage": "3",
+      "stage": "5",
       "operation": "national",
-      "maintenance": "",
-      "ownership": "",
+      "maintenance": "national",
+      "ownership": "owned",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-001;TZA-002",
-      "gaps": "No source found says national staff maintain the system or the foreign contract has ended.",
-      "note": "NIDA runs the ID system day to day. Nothing says its own staff maintain and upgrade it.",
-      "as_at": "2026-11-07"
+      "stage_sources": "TZA-006;TZA-007;TZA-001",
+      "gaps": "",
+      "note": "Stage 4c 2026-11-08: NIDA said in early 2024 that its in-house experts built 24 of 42 planned systems and provide technical support (TZA-006), and that it owns the program copies free of foreign licence limits (TZA-007). A later yes answers the earlier questions.",
+      "as_at": "2026-11-08"
     }
   ]
 }

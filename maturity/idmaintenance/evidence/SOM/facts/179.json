@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-26-som-director-of-nira-meets-with-chinese-ambassador-to-advance-national-id",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "NIRA's director and China's ambassador agreed a framework under which NIRA and Chinese state agencies cooperate, including transfer of technological capabilities to Somali personnel.",
+   "as_of": "2026-02-26",
+   "date_precision": "day",
+   "system": "National Identification System (NIRA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification System",
+   "country_label": "Somalia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

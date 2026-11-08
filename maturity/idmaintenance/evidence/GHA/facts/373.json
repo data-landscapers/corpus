@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-17-gha-640-000-ghana-card-backlog-cleared-after-fresh-talks-with-private-part",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "NIA Executive Director Wisdom Yayra Koku told Metro TV on 17 September 2025 that NIA cleared a 640,000-card backlog by printing at its district offices, using 700,000 blank cards released by its private partner Identity Management Systems after negotiation.",
+   "as_of": "2025-09-17",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana",
+   "class": "idsystem",
+   "platform": "Identity Management Systems (IMS)",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

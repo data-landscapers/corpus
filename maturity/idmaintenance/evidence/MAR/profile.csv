@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MAR,maintenance,operation,coverage,national,2024,MAR-002,,
-MAR,maintenance,maintenance,coverage,,,,,nothing found
-MAR,maintenance,ownership,coverage,,,,,nothing found
+MAR,maintenance,operation,coverage,national,2024,MAR-002,MAR-003=transfer,
+MAR,maintenance,maintenance,coverage,national,2026,MAR-004,,
+MAR,maintenance,ownership,coverage,owned,2022-10,MAR-005,,nothing dated since 2023-11-08

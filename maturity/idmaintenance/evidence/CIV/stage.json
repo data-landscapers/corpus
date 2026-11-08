@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "CIV-001;CIV-002",
-      "gaps": "No source found says who maintains the system: ONECI's director general says only that its budget pays for maintenance. No source found says the system runs on code the state owns.",
-      "note": "ONECI runs the register and the card day to day. Lowered from 4: a budget paying for maintenance does not say ONECI's own staff do it.",
-      "as_at": "2026-11-07"
+      "gaps": "No source found says who maintains the system: ONECI's director general says only that its budget pays for maintenance. No source found says the system runs on code the state owns. ONECI said in May 2026 that Semlex runs the RNPP as operator of a public-private partnership since 2019 (CIV-004), against ONECI's management of it in October 2026 (CIV-001).",
+      "note": "Stage 4c 2026-11-08: Semlex is named as the RNPP's PPP operator in May 2026 (CIV-004), but the newer October 2026 account has ONECI managing the register and assigning the number (CIV-001), which stands. Nothing says ONECI's own staff maintain it, so not 4.",
+      "as_at": "2026-11-08"
     }
   ]
 }

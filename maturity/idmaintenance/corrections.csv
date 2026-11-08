@@ -3,3 +3,4 @@ LSO,001,ownership,owned,removed,"First pass: MOSIP still being deployed, not the
 MAR,001,ownership,owned,removed,First pass: being first to implement MOSIP does not say the national ID runs on it
 UGA,007,ownership,owned,removed,"First pass: the OpenCRVS module is the civil register, not the ID system"
 GMB,003,maintenance,national,removed,"Top-stage check, arrivals of 2026-10-17: lost access to Semlex data, not national maintenance"
+GMB,013,maintenance,national,removed,"Stage 4c 2026-11-08: Semlex's own account of handing over the old system; officials say parts stayed under its control (GMB-002) and the Margins system now replaces it, so not national maintenance"

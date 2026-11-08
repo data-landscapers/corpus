@@ -2,7 +2,7 @@
 
 ## National maintenance of id and credentials systems
 
-**Operated nationally.** [The Justice Minister inaugurated an ID-card production centre in Bolama in June 2026](<https://ang.gw/regioes-ministro-da-justica-inaugura-centro-de-producao-de-bilhete-de-identidade-em-bolama/>). It is the 18th issuance centre in the country. The national civil identification directorate runs it. Issuance centres now cover more of the country's regions.
+**Operated nationally.** [The Justice Minister inaugurated an ID-card production centre in Bolama in June 2026](<https://ang.gw/regioes-ministro-da-justica-inaugura-centro-de-producao-de-bilhete-de-identidade-em-bolama/>). It is the 18th issuance centre in the country. The national civil identification directorate runs it. Issuance centres now cover more of the country's regions. [Semlex Guinea-Bissau said in July 2024 that it produces and enrols the ID cards under a partnership with the justice ministry dating from 2006](<https://www.semlex.com/en/2024/07/01/nouveau-centre-denrolement-a-bissau/>). The ministry's identification directorate manages the system.
 
 **Maintained nationally.** No source found says who maintains the system. [The June 2026 report covers the opening of an issuance centre](<https://ang.gw/regioes-ministro-da-justica-inaugura-centro-de-producao-de-bilhete-de-identidade-em-bolama/>). It does not say whether national staff or a supplier maintain the system. No foreign operator is named in the report.
 

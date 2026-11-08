@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-27-cod-rdc-l-onip-presente-le-plan-de-mise-en-uvre-du-programme-de-fichier-ge",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "transfer",
+   "fact": "ONIP's interim director general says ONIP is to manage the national data centre and the population file while the partner installs and maintains the system, and ONIP trainers are being trained by the partner, with agents trained in Paris 26 February to 1 March 2024.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Fichier general de la population (FGP)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fichier general de la population (FGP) / national ID card",
+   "country_label": "DRC",
+   "class": "idsystem",
+   "platform": "Afritech/IDEMIA",
+   "owner": "ONIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

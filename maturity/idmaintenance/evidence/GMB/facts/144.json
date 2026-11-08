@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-15-gmb-press-release",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "maintenance",
+   "value": "national",
+   "fact": "Semlex Group says its 2018 build-operate-transfer agreement for the Gambia's biometric identity documents expired and the transfer to the government was completed on 22 March 2024, after which Semlex has no part in producing official documents.",
+   "as_of": "2024-03-22",
+   "date_precision": "day",
+   "system": "Gambia biometric identity documents infrastructure",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Gambia biometric identity documents infrastructure",
+   "country_label": "Gambia",
+   "class": "idsystem",
+   "platform": "Semlex (build-operate-transfer, handed over)",
+   "owner": "Government of the Gambia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

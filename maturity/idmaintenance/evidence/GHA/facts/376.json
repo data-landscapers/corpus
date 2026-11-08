@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-19-gha-parliament-c-ttees-commend-margins-id-group-for-ghana-card-investment",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "Margins Group's CEO told MPs the company built and financed the registration system in 2019-2020 while the NIA operated it, and that the law gives the NIA the mandate over the database.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana",
+   "class": "idsystem",
+   "platform": "built and financed by Margins ID Group",
+   "owner": "NIA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COD,maintenance,operation,coverage,supplier,2024-05-14,COD-001,,
-COD,maintenance,maintenance,coverage,,,,,nothing held
-COD,maintenance,ownership,coverage,,,,,nothing held
+COD,maintenance,operation,coverage,transfer,2024-03,COD-003,COD-002=supplier;COD-001=supplier,
+COD,maintenance,maintenance,coverage,,,,,nothing found
+COD,maintenance,ownership,coverage,,,,,nothing found
