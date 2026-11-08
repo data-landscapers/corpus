@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-05-tun-sijil-al-mu-assasat-yadkhul-asr-al-roboat",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Assabah News reports that Tunisia's National Business Registry launched two AI services on 5 November 2026: Nawarni, a chatbot guiding founders through company creation, and a bot to check and reserve trade names, built with HiiL and funded by the Netherlands embassy.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "Nawarni and trade-name reservation bot",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nawarni",
+   "country_label": "Tunisia",
+   "class": "govai",
+   "platform": "",
+   "owner": "Registre National des Entreprises",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

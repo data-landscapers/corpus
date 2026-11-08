@@ -22,8 +22,8 @@ The Continental AI Strategy asks for AI adopted in the public sector under a gov
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 11 |
-| 3 Established | 22 |
-| 2 Nascent | 6 |
+| 3 Established | 23 |
+| 2 Nascent | 5 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 13 |
@@ -230,6 +230,12 @@ Togo's public procurement control directorate used an AI assistant in 2026; no s
 
 - UNDP Togo says a digital assistant at the Direction nationale du contrôle de la commande publique helps staff search and analyse public procurement information, cutting a task from days to under a day ([source, 2026-11-03](https://www.undp.org/fr/togo/actualites/un-supercalculateur-pour-accelerer-linnovation-technologique-lintelligence-artificielle-et-la-prise-de-decision-strategique-au-togo)).
 
+### Tunisia: 3 Established
+
+Tunisia's business registry put two AI chatbots into service in 2026; no second government body with AI in service is known.
+
+- Assabah News reports that Tunisia's National Business Registry launched two AI services on 5 November 2026: Nawarni, a chatbot guiding founders through company creation, and a bot to check and reserve trade names, built with HiiL and funded by the Netherlands embassy ([source, 2026-11-05](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/157289-%D8%B3%D8%AC%D9%84-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D9%8A%D8%AF%D8%AE%D9%84-%D8%B9%D8%B5%D8%B1-%D8%A7%D9%84%D8%B1%D9%88%D8%A8%D9%88%D8%AA%D8%A7%D8%AA)).
+
 ### Zambia: 3 Established
 
 Zambia's revenue authority has run an AI chatbot since 2026; no source found reports other bodies have tendered or tested AI, and rules.
@@ -273,12 +279,6 @@ Two Libyan government bodies were building AI systems in 2026; none is known to 
 
 - The Audit Bureau head said it launched development of an institutional AI model, Diwan Bot, at the start of 2026 to support auditing and oversight analysis; it is described as in development ([source, 2026](https://lana.gov.ly/post.php?id=358534&lang=en)).
 - Libya Observer reports that the Minister of Labour and Rehabilitation, meeting Al-Nasr Information Technology, was told the ministry's integrated digital platform, supported by AI technologies and linking its departments, was about 30% complete, with standards and the system framework finished ([source, 2026-04-14](https://ar.libyaobserver.ly/article/36835)).
-
-### Tunisia: 2 Nascent
-
-AI for public administration was under way in 2026; none in service is on record.
-
-- The Director General of the National Customs School said projects underway, to be announced soon, include AI-powered communication tools, particularly a chatbot within the General Directorate of Taxes ([source, 2026-09-29](https://news-tunisia.tunisienumerique.com/tunisias-finance-ministry-moves-to-integrate-ai-into-taxation-customs-and-accounting/)).
 
 ### Botswana: Unplaced
 
