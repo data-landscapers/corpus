@@ -1,0 +1,27 @@
+{
+ "slug": "2026-07-01-gha-gnhr-privacy-cookie-policy",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The registry's policy states that individuals' rights over their data are set by the Data Protection Act, 2012 (Act 843) of Ghana.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Ghana National Household Registry",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The policy says individuals may lodge complaints with the Data Protection Commission of Ghana.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Ghana National Household Registry",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

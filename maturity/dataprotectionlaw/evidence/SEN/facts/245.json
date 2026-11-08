@@ -1,0 +1,46 @@
+{
+ "slug": "2026-11-05-sen-escroqueries-par-intelligence-artificielle-la-cdp-appelle-a-la-vigilance",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The CDP cited Law no. 2008-12 of 25 January 2008 on personal data protection as the law under which voice and image are personal data.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "Law 2008-12",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The CDP acted as the supervisory body by issuing a public communique and a complaints channel on 5 November 2026.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "CDP",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The CDP issued a public warning on AI voice-cloning and deepfake scams, with no decision on any organisation.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "CDP",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Commission de Protection des Donnees Personnelles (CDP)",
+   "country_label": "CDP",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

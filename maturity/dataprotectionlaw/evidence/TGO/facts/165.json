@@ -1,0 +1,27 @@
+{
+ "slug": "2025-08-25-tgo-e-id-togo-et-protection-des-donnees-personnelles-le-togo-a-fait-le-cho",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The ANID director general cites Law 2019-014 of 29 October 2019 on personal data protection as setting the rules for collection, storage and use of personal data.",
+   "as_of": "2019-10-29",
+   "date_precision": "day",
+   "system": "Loi 2019-014",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "provided",
+   "fact": "The same law is said to create the Instance de Protection des Données à Caractère Personnel to ensure compliance; the document does not say it is constituted.",
+   "as_of": "2019-10-29",
+   "date_precision": "day",
+   "system": "IPDCP",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

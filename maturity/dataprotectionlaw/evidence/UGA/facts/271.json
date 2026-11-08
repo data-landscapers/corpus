@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-uga-uganda-country-playbook",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "NIRA's playbook lists compliance with the Data Protection Act as a desired feature of the new national ID system.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Data Protection Act",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

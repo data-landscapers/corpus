@@ -1,0 +1,27 @@
+{
+ "slug": "2025-05-20-som-somalia-s-journey-towards-a-foundational-national-id-system",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "enacted",
+   "fact": "NIRA's deck states the National Data Protection Act is enacted.",
+   "as_of": "2025-05-20",
+   "date_precision": "day",
+   "system": "National Data Protection Act",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "NIRA's deck states a Data Protection Authority is established.",
+   "as_of": "2025-05-20",
+   "date_precision": "day",
+   "system": "Data Protection Authority",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
