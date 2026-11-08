@@ -20,8 +20,8 @@ The African Union's Protocol on Social Protection asks for a social protection i
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
-| 4 Operating | 15 |
+| 5 Leading | 3 |
+| 4 Operating | 14 |
 | 3 Established | 11 |
 | 2 Nascent | 16 |
 | 1 Absent | 0 |
@@ -35,6 +35,14 @@ The African Union's Protocol on Social Protection asks for a social protection i
 The social registry was linked to the national ID and another sector in 2024.
 
 - Article 8 of the joint arrete of 20 August 2024 says the registre social unique holds data drawn from the civil-status information systems and the unique identification number, among other sources ([source, 2024-08-20](https://liziba.cg/wp-content/uploads/2024/09/Arrete-n-18503-du-20-aout-2024-fixant-les-regles-de-collecte-de-traitement-dechange-et-dactualisation-des-donnees-du-registre-social-unique.pdf)).
+
+### Ghana: 5 Leading
+
+Ghana's household registry served several programmes in 2026 and was linked to the national ID, health insurance and education; how much data moves is unclear.
+
+- The policy says the registry holds the NIA Ghana Card number and links its data with NIA (ID), NHIA (health) and GES (education) ([source, 2026-07](https://gnhr.mogcsp.gov.gh/privacy.php)).
+- The policy says registry data identifies beneficiaries for several programmes, namely LEAP, NHIS and school feeding ([source, 2026-07](https://gnhr.mogcsp.gov.gh/privacy.php)).
+- The policy says the registry links its data with the NIA, NHIA, GES and other MDA databases, and shares aggregated or de-identified data with authorised MDAs for interoperability ([source, 2026-07](https://gnhr.mogcsp.gov.gh/privacy.php)).
 
 ### Rwanda: 5 Leading
 
@@ -70,21 +78,16 @@ Two or more programmes shared one social registry in 2026; no source found repor
 
 ### Egypt: 4 Operating
 
-Two or more programmes shared one social registry in 2024; no source found reports links to another sector.
+Several programmes shared one social registry in 2026, exchanging data through the national ID; links to health, education or tax records are not known.
 
 - The World Bank says cash-plus interventions (FORSA, family planning with UNFPA, Waii with UNDP, the 1,000 days programme with WFP) are built on and target beneficiaries from the TKP social registry, which holds about 11.3 million registered households (40.5 million individuals); undated, so the published date is used ([source, 2024-05-28](https://www.worldbank.org/en/results/2024/05/28/promoting-inclusive-human-capital-development-and-building-resilience-in-egypt-through-cash-transfer-programs)).
+- The national social registry exchanges data with 27 government databases through the national ID number to verify data and sharpen targeting, per the Ministry of Social Solidarity's Raafat Shafik ([source, 2026-11-06](https://almessa.gomhuriaonline.com/764443/)).
 
 ### Gambia: 4 Operating
 
 Two or more programmes shared one social registry in 2024; no source found reports links to another sector.
 
 - The World Bank blog says the Gambia Social Registry (GamSR), covering 203,022 households in 40 of 43 districts, underpinned the Nafa Quick COVID-19 response (78,422 households) and the Nafa cash-transfer programme (16,966 households), and is also used by the National Disaster Management Agency, the ROOTS project and the World Food Programme; no event date is given, so the publication date is used ([source, 2024-04-23](https://blogs.worldbank.org/en/nasikiliza/the-gambia-social-registry-a-success-story-in-systems-building)).
-
-### Ghana: 4 Operating
-
-Two or more programmes shared one social registry in 2024; no source found reports links to another sector.
-
-- The Ghana National Household Registry page describes a single national database that serves as the primary platform for identifying and targeting beneficiaries of LEAP, school feeding and national health insurance (NHIS) enrolment; no date is given for the statement, so the page's published year is used ([source, 2024](https://gnhr.mogcsp.gov.gh/registry.php)).
 
 ### Guinea: 4 Operating
 
@@ -129,10 +132,11 @@ Two or more programmes shared one social registry in 2026; no source found repor
 
 ### Morocco: 4 Operating
 
-Two or more programmes shared one social registry in 2025; no source found reports links to another sector.
+Several programmes drew on one social registry in 2025, checked against the population register; links to health, education or tax records are not known.
 
 - The government commission reported 5.3 million families enrolled in the RSU, and that the RSU-registered families received the exceptional school-start aid (over 1.8 million families) and are the base for the direct social aid programme (about 4 million families) ([source, 2025-09](https://maroc.ma/fr/actualites/le-gouvernement-attache-la-mise-en-oeuvre-optimale-du-chantier-de-generalisation-de-la-protection)).
-- The World Bank says the RSU serves as the single entry point for new social programmes in Morocco, with the project aiming to affect at least five programmes by end-2024 and eight by 2028 ([source, 2024-12-04](https://www.worldbank.org/en/news/press-release/2024/12/04/world-bank-greenlights-70m-boost-for-morocco-s-innovative-social-protection-delivery-systems)).
+- The government's written answer says the Unified Social Register is the reference framework for access to social support programmes, including direct cash transfers and mandatory basic health insurance for those unable to pay contributions ([source, 2025-11](https://www.moroccoworldnews.com/2025/12/272839/morocco-expands-direct-social-support-with-measured-data-driven-reform/)).
+- The deck says an RNP authentication service compares data declared at registration for social programmes with RNP data, and six social programmes (RSU, AMOT, ASD, AMO, CHAMIL and others) are integrated ([source, 2026](https://connect.mosip.io/resources_pdf_2026/Collaborations_between_Governments_and_Academic_Institutions.pdf)).
 
 ### Sao Tome and Principe: 4 Operating
 

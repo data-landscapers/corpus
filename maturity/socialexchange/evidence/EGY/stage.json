@@ -1,17 +1,18 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "4",
-   "exchange": "inservice",
-   "registry": "shared",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "EGY-003",
-   "gaps": "No source found since October 2023 says the registry is linked to the national ID and to another sector.",
-   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "4",
+      "exchange": "inservice",
+      "registry": "shared",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-003;EGY-004",
+      "gaps": "The registry exchanges data with 27 government databases through the national ID number (2026), but no source names a link to civil registration, health, education or tax records.",
+      "note": "The TKP registry serves several programmes (2024) and exchanges data through the national ID number (2026). No source names a link to civil registration, health, education or tax, so rung 5 is not met.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

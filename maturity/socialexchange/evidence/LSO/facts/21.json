@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-23-lso-eoi-lesotho-nissa-systems-development-enhancement-consultancy",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The ministry says it is working with the National Identity and Civil Registry (Ministry of Home Affairs) to establish an interoperability link with NISSA/MISSA, and a consultancy is sought to develop and test the API between them.",
+   "as_of": "2024-04-23",
+   "date_precision": "day",
+   "system": "NISSA/MISSA-NICR link",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NISSA/MISSA",
+   "country_label": "Lesotho",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Gender, Youth and Social Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

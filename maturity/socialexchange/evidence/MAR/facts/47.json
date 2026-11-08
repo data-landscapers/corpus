@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-mar-mi-um6p-mosip-rnp-l3-support-collaboration",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The deck says an RNP authentication service compares data declared at registration for social programmes with RNP data, and six social programmes (RSU, AMOT, ASD, AMO, CHAMIL and others) are integrated.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "RNP authentication service",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

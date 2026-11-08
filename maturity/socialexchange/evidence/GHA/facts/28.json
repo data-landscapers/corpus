@@ -1,0 +1,46 @@
+{
+ "slug": "2026-07-01-gha-gnhr-privacy-cookie-policy",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The policy says the registry links its data with the NIA, NHIA, GES and other MDA databases, and shares aggregated or de-identified data with authorised MDAs for interoperability.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Ghana National Household Registry",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "registry",
+   "value": "shared",
+   "fact": "The policy says registry data identifies beneficiaries for several programmes, namely LEAP, NHIS and school feeding.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Ghana National Household Registry",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The policy says the registry holds the NIA Ghana Card number and links its data with NIA (ID), NHIA (health) and GES (education).",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Ghana National Household Registry",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana National Household Registry",
+   "country_label": "Ghana",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Gender, Children and Social Protection",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

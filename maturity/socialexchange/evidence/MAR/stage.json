@@ -9,10 +9,10 @@
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MAR-003;MAR-001",
-      "gaps": "No source found since October 2023 says the registry is linked to the national ID and to another sector.",
-      "note": "First pass: counted from the four questions by study-ladder-socialexchange.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MAR-003;MAR-015;MAR-016",
+      "gaps": "The RSU is crossed with the RNP (2025, 2026), but no source names a link to civil registration, health, education or tax records.",
+      "note": "The RSU is the reference register for social support programmes (2025) and is checked against the RNP (2026). No source names a link to civil registration, health, education or tax records, so rung 5 is not met.",
+      "as_at": "2026-11-08"
     }
   ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "exchange",
-   "stage": "4",
-   "exchange": "inservice",
-   "registry": "shared",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-001",
-   "gaps": "No source found since October 2023 says the registry is linked to the national ID and to another sector.",
-   "note": "First pass: counted from the four questions by study-ladder-socialexchange.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "exchange",
+      "stage": "5",
+      "exchange": "inservice",
+      "registry": "shared",
+      "linked": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-007;GHA-006;GHA-005",
+      "gaps": "MoGCSP's August 2026 terms of reference say the programmes' own systems run in silos; how much data the registry exchanges with each authority is not stated.",
+      "note": "The registry's July 2026 policy says it holds the Ghana Card number and links its data with the NIA, NHIA and GES, and serves LEAP, NHIS and school feeding. The ministry's silo statement is about programme systems, not the registry, and a none defers to the newer in-service link.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }
