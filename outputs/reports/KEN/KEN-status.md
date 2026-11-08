@@ -1,12 +1,12 @@
 ---
 title: Kenya: status report
-compiled: 2026-11-07
+compiled: 2026-11-08
 place: KEN
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 14
-sources_cited: 367
+sources_cited: 368
 sections_written: 39
 not_established: 0
 acquire_lines: 63
@@ -183,7 +183,7 @@ Cybersecurity carries 19 external commitments on record, together about US$10.7 
 
 [Section 9A of the Registration of Persons Act, inserted in 2018, is the system's statutory base; no standalone digital identity act has been enacted](https://www.kenyalaw.org/lex/actview.xql?actid=CAP.%20107). [The 2020 NIIMS Rules establish the database, the Maisha Namba and card, and make the credential legal proof of identity](https://new.kenyalaw.org/akn/ke/act/ln/2020/195/eng@2022-12-31). [Registration is compulsory for citizens at 18](https://www.kenyalaw.org/lex/actview.xql?actid=CAP.%20107). Biometrics are [ten fingerprints, facial images and iris scans, DNA and GPS collection having been struck down in Nubian Rights Forum](https://globalfreedomofexpression.columbia.edu/wp-content/uploads/2021/10/Petition_56_58__59_of_2019_Consolidated.pdf). [The identifier is assigned at birth registration, with a minors' card at six and an adult card at 18](https://new.kenyalaw.org/akn/ke/act/ln/2020/195/eng@2022-12-31). [Issuance at 18 is moving to automatic generation from civil registration data](https://www.biometricupdate.com/202502/kenyas-birth-registration-reforms-set-the-stage-for-automatic-national-id-issuance).
 
-[By August 2025 biometric patient registration was operational in all level 4 to 6 public health facilities](https://www.health.go.ke/ministry-health-launches-biometric-health-identification-advances-digital-health-transformation). [The 2025 subscriber rules require it for SIM registration](https://usajili.go.ke/refugees-can-now-register-sim-cards-using-refugee-id-new-telecom-regulations-affirm). [The number is a shared identifier across education, health, tax, social security, eCitizen and the land registries](https://www.kictanet.or.ke/understanding-maisha-namba-kenyas-new-digital-identity-system/). In October 2026 [registration officers in Bungoma told a National Assembly committee that shortages of staff, vehicles and equipment were holding back identity registration](https://www.vividvoicenews.com/2026/10/03/bungoma-id-registration-hampered-by-staff-vehicle-and-equipment-shortages/). [In September 2025 the Interior Cabinet Secretary said more than one million Kenyans aged 30 and over held no national identity card](https://www.kenyanews.go.ke/government-raises-alarm-over-one-million-kenyans-without-ids/).
+[By August 2025 biometric patient registration was operational in all level 4 to 6 public health facilities](https://www.health.go.ke/ministry-health-launches-biometric-health-identification-advances-digital-health-transformation). [The 2025 subscriber rules require it for SIM registration](https://usajili.go.ke/refugees-can-now-register-sim-cards-using-refugee-id-new-telecom-regulations-affirm). [The number is a shared identifier across education, health, tax, social security, eCitizen and the land registries](https://www.kictanet.or.ke/understanding-maisha-namba-kenyas-new-digital-identity-system/). In October 2026 [registration officers in Bungoma told a National Assembly committee that shortages of staff, vehicles and equipment were holding back identity registration](https://www.vividvoicenews.com/2026/10/03/bungoma-id-registration-hampered-by-staff-vehicle-and-equipment-shortages/). [In September 2025 the Interior Cabinet Secretary said more than one million Kenyans aged 30 and over held no national identity card](https://www.kenyanews.go.ke/government-raises-alarm-over-one-million-kenyans-without-ids/). [At least 557,000 identity cards lay uncollected in November 2026, nearly 400,000 of them for more than ten years](https://nation.africa/kenya/news/state-turns-to-chiefs-e-citizen-to-trace-owners-of-uncollected-ids-5660290).
 
 [The courts declared the Huduma Namba system illegal in 2021, and have since suspended the Maisha Namba rollout for want of a data protection impact assessment](https://ethicalbusiness.africa/2026/03/14/proof-of-existence/). [No such assessment for Maisha Namba has been made public, and no access log is open to the data subject](https://www.dlapiperdataprotection.com/index.html?t=law&c=KE). [On 6 October 2026 the immigration principal secretary said electronic birth notification would reach every hospital contracted by the social health insurer by December 2026](https://www.kenyans.co.ke/news/127644-state-expand-digital-birth-registration-sha-hospitals-within-3-months).
 

@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 place: KEN
-ledger_rows: 81
+ledger_rows: 83
 not_held: 5
-record: 22bdbb2954c0
+record: e6ab63e83676
 ---
 
 # News, Oct – Nov 2026
@@ -380,6 +380,20 @@ Kenya's Public Private Partnerships Directorate signed a funding agreement on 23
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Offshore artificial-intelligence data centre at Mombasa</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AMACO and ARISE IIP Advance US$700 Million Power and AI Infrastructure Project in Mombasa](https://www.kenyaengineer.co.ke/amaco-and-arise-iip-advance-us700-million-power-and-ai-infrastructure-project-in-mombasa/)** — Kenya Engineer, 6 November 2026
+
+MoU for HERCULES at Dongo Kundu: minimum US$700m, 250 MW initial rising to 1 GW, LNG power barge feeding AI data centres.
+
+</div>
+
+</div>
+
 ### Cybersecurity
 
 <div class="monthly-story" markdown="1">
@@ -517,6 +531,20 @@ Kenya's Interior Cabinet Secretary, Kipchumba Murkomen, announced that electroni
 **[Birth registration e-service reduces admin from months to days](https://identityweek.net/birth-registration-e-service-reduces-admin-from-months-to-days/)** — Identity Week, 2 November 2026
 
 Kenya's online birth registration service won gold at the Estonian Design Awards. Nearly 300,000 births had been registered through it by October 2026. Estonia's development agency ESTDEV funded the service, and one in five Kenyan births is currently unregistered each year.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Uncollected national identity cards</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[State turns to chiefs, e-Citizen to trace owners of uncollected IDs](https://nation.africa/kenya/news/state-turns-to-chiefs-e-citizen-to-trace-owners-of-uncollected-ids-5660290)** — Daily Nation, 6 November 2026
+
+557,000 uncollected IDs, ~400,000 over ten years old; chiefs and e-Citizen SMS alerts before January 2027 voter sign-up.
 
 </div>
 
