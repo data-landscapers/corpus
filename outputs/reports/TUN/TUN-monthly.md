@@ -1,11 +1,11 @@
 ---
 title: Tunisia — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 place: TUN
-ledger_rows: 35
+ledger_rows: 36
 not_held: 5
-record: 25ff14fe926f
+record: 9f50572574f6
 ---
 
 # News, Oct – Nov 2026
@@ -487,6 +487,20 @@ Tunisian Customs official Kais Ben Zayed said on 9 October 2026 that AI built by
 **[Douane : l’intelligence artificielle bientôt utilisée pour détecter les fraudes et contrôler les marchandises](https://businessnews.com.tn/2026/10/12/douane-lintelligence-artificielle-bientot-utilisee-pour-detecter-les-fraudes-et-controler-les-marchandises/1422415/)** — Business News (Tunisia), 12 October 2026
 
 Tunisian Customs spokesman Colonel-Major Chokri Jabri said on 12 October 2026 that first trials of artificial intelligence for targeting high-risk shipments improved targeting by 20-25%. AI will also be used to analyse container scanner images remotely, and the SINDA 2 customs IT system is due for completion by the end of 2027 as declarations move to paperless processing.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Business register AI assistants (Nawarni and trade-name bot)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[سجل المؤسسات يدخل عصر "الروبوتات"](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/157289-%D8%B3%D8%AC%D9%84-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D9%8A%D8%AF%D8%AE%D9%84-%D8%B9%D8%B5%D8%B1-%D8%A7%D9%84%D8%B1%D9%88%D8%A8%D9%88%D8%AA%D8%A7%D8%AA)** — Assabah News, 5 November 2026
+
+Two AI bots launched 5 Nov 2026: Nawarni founder guide and trade-name reservation; HiiL-built, Dutch-funded.
 
 </div>
 
