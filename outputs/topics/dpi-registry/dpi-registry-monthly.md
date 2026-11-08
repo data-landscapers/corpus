@@ -1,10 +1,10 @@
 ---
 title: Registries — News, October – November 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 subject: dpi.registry
-places: DZA; AGO; BEN; CMR; COM; CIV; COD; ETH; GAB; GMB; GHA; GIN; LSO; LBR; MDG; MLI; MRT; MUS; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZWE
-record: 55b17045c588
+places: DZA; AGO; BEN; BFA; CMR; COM; CIV; COD; ETH; GAB; GMB; GHA; GIN; LSO; LBR; MDG; MLI; MRT; MUS; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZWE
+record: ed133013ce8a
 ---
 
 # News, Oct – Nov 2026
@@ -15,6 +15,8 @@ record: 55b17045c588
 <a href="#angola">Angola</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#benin">Benin</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cameroon">Cameroon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -152,6 +154,22 @@ Benin's interior ministry began issuing about 8,500 free birth certificates to p
 **[Modernisation des services d’identification au Bénin : l’ANIP accélère sa révolution numérique](https://lematinal.bj/modernisation-des-services-didentification-au-benin-lanip-accelere-sa-revolution-numerique/)** — Le Matinal, 3 November 2026
 
 Benin's national identification agency says 98% of the population is enrolled. It delivered 10.5 million services in 2025, 75% of them remotely. A pilot for late birth registration starts on 2 November 2026, and 165 more tablets are going to local districts.
+
+</div>
+
+</div>
+
+## Burkina Faso
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Single social register</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Burkina Faso : Plus de 433 000 ménages recensés dans le Registre social unique](https://aesinsider.com/burkina-faso-plus-de-433-000-menages-recenses-dans-le-registre-social-unique/)** — AES Insider, 27 October 2026
+
+433,888 households, over 2m people, at 30 June 2026: 30% of target across 110 communes; ID interconnection pending.
 
 </div>
 
@@ -394,6 +412,20 @@ Ghana's Ministry of Gender, Children and Social Protection swore in a Data Revie
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Birth registration coverage</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Only 61% of Ghanaian children have birth certificates](https://3news.com/news/birth-certificates-ghana-children-unicef)** — 3News, 6 November 2026
+
+About 61% of Ghanaian children hold a birth certificate, UNICEF's representative Andy Brooks said on 4-5 November 2026, 3News reported. He partly blamed weak telecommunications and digital registration that remote communities find hard to use. The Births and Deaths Registry registered 588,972 births by the end of 2025. That is 73.4% of the expected total for the year.
+
+</div>
+
+</div>
+
 ## Guinea
 
 <div class="monthly-story" markdown="1">
@@ -573,6 +605,14 @@ Namibia's home affairs minister, Lucia Iipumbu, told the National Assembly that 
 **[Audit finds N$28.8m in duplicate child grant payments](https://www.namibian.com.na/audit-finds-n28-8m-in-duplicate-child-grant-payments/)** — The Namibian, 13 October 2026
 
 Namibia's Auditor-General found that the ministry responsible for child grants kept paying 32,890 beneficiaries aged 19 to 21, at N$250m a year, in 2024/25, reported on 13 October 2026. The audit also found 3,350 duplicate child records, with N$28.8m paid twice, and more than N$43m paid to deceased recipients, nearly 4,000 of them over two months after their deaths were registered.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[N$44m paid to 'ghost' grant beneficiaries](https://neweralive.na/n44m-paid-to-ghost-grant-beneficiaries/)** — New Era, 15 October 2026
+
+FY2024/25 audit: 8,099 of 488,753 grant beneficiaries unmatched to the population register; N$43.83m paid to 3,922 dead.
 
 </div>
 

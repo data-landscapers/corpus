@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems — News, October – November 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 subject: dpi.mis
 places: AGO; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ffc1dd299dce
+record: 54256cde00b2
 ---
 
 # News, Oct – Nov 2026
@@ -364,6 +364,21 @@ Mohamed Hegazy, former head of the legislation committee at Egypt's communicatio
 **[Egypt’s Tax Authority Taps eTax to Operate Digital Platform for Electronic Invoice and Receipt Data](https://www.technotime.net/17974)** — Techno Time, 24 October 2026
 
 The Tax Authority contracted eTax to build and run a platform that analyses electronic-invoice and e-receipt data to select cases for examination. The work covers the data warehouse, integration, hosting and security.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Takaful and Karama unified social registry</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[التضامن: ربط بيانات 13 مليون أسرة بـ27 قاعدة حكومية لتعزيز دقة استهداف مستحقي الدعم](https://almessa.gomhuriaonline.com/764443/)** — جريدة المساء, 6 November 2026
+
+Social registry of 13m households, about half of Egypt's, linked to 27 government databases by national ID number.
 
 </div>
 
@@ -1085,6 +1100,20 @@ Tanzania's National Legal Information System (NaLIS), built by the constitution 
 **[How Tanzania Cut Emergency Referral Costs with Community Drivers and Mobile Money](https://techafricanews.com/2026/11/06/dispatch-economics-behind-africas-digital-health-system-acceleration/)** — Tech Africa News, 6 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a>
 
 Tech Africa News reported on 6 November 2026 on Tanzania's M-Mama emergency referral platform, which the African Union Commission has cited as an example. It gives a cost of USD 170.40 per referral with community drivers. State ambulances alone cost USD 472, from a PLOS Global Public Health study of a pilot in Shinyanga. Drivers are paid by mobile money once delivery is verified.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Health Insurance Fund digital claims processing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital transformation cuts NHIF claims payment period to 50 days](https://www.thecitizen.co.tz/tanzania/news/national/digital-transformation-cuts-nhif-claims-payment-period-to-50-days-5661158)** — The Citizen, 6 November 2026
+
+Settlement time 120 to 50 days in FY2024/25; paper forms down 75%; systems linked to NIDA and RITA.
 
 </div>
 

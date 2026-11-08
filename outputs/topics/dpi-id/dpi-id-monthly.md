@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, October – November 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; CMR; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: 70665f79a399
+record: cbfc29835bf5
 ---
 
 # News, Oct – Nov 2026
@@ -626,6 +626,20 @@ Kenya's Interior Cabinet Secretary, Kipchumba Murkomen, announced that electroni
 **[Birth registration e-service reduces admin from months to days](https://identityweek.net/birth-registration-e-service-reduces-admin-from-months-to-days/)** — Identity Week, 2 November 2026
 
 Kenya's online birth registration service won gold at the Estonian Design Awards. Nearly 300,000 births had been registered through it by October 2026. Estonia's development agency ESTDEV funded the service, and one in five Kenyan births is currently unregistered each year.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Uncollected national identity cards</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[State turns to chiefs, e-Citizen to trace owners of uncollected IDs](https://nation.africa/kenya/news/state-turns-to-chiefs-e-citizen-to-trace-owners-of-uncollected-ids-5660290)** — Daily Nation, 6 November 2026
+
+557,000 uncollected IDs, ~400,000 over ten years old; chiefs and e-Citizen SMS alerts before January 2027 voter sign-up.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 subject: dpi.pay
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 986916399080
+record: 35e08f03f8e8
 ---
 
 # News, Oct – Nov 2026
@@ -708,6 +708,20 @@ Stanbic Bank Ghana and Hong Kong-based RD Technologies said, as reported on 20 O
 **[Opening Remarks by Governor Dr Johnson Pandit Asiama at the 11th Meeting of the Payment Systems Advisory Committee](https://www.bog.gov.gh/wp-content/uploads/2026/11/Opening-Remarks-by-Governor-Dr-Johnson-Pandit-Asiama-at-the-11th-Meeting-of-the-Payment-Systems-Advisory-Committee-PSAC-021126.pdf)** — Bank of Ghana, 2 November 2026
 
 Bank of Ghana Governor Johnson Pandit Asiama opened the reconstituted Payment Systems Advisory Committee on 2 November 2026. He named low GhQR adoption, no agent interoperability and growing bilateral arrangements as sources of fragmentation. He put GhIPSS volumes at about 530 million transactions worth over GH¢1.73 trillion in 2025.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Project DESFT digital trade credentials proof of concept</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Press Release – Bank of Ghana Announces Successful Completion of Cross-Border Trade Using Digital Credentials](https://www.bog.gov.gh/news/press-release-bank-of-ghana-announces-successful-completion-of-cross-border-trade-using-digital-credentials/)** — Bank of Ghana, 5 November 2026
+
+The Bank of Ghana said on 5 November 2026 that it and the Monetary Authority of Singapore had completed the first proof of concept under Project DESFT (Digital Economy Semi-Fungible Token). The bank says the pilot demonstrated digital credentials for international trade and cross-border payment. The one-paragraph release names no participants, scope or next phase.
 
 </div>
 

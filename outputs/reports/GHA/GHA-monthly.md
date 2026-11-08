@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-08
 place: GHA
 ledger_rows: 63
 not_held: 9
-record: 83ea893cd7d0
+record: a85704908aff
 ---
 
 # News, Oct – Nov 2026
@@ -806,7 +806,7 @@ Bank of Ghana Governor Johnson Pandit Asiama opened the reconstituted Payment Sy
 
 **[Press Release – Bank of Ghana Announces Successful Completion of Cross-Border Trade Using Digital Credentials](https://www.bog.gov.gh/news/press-release-bank-of-ghana-announces-successful-completion-of-cross-border-trade-using-digital-credentials/)** — Bank of Ghana, 5 November 2026
 
-First Project DESFT proof of concept with Monetary Authority of Singapore; digital credentials for trade and payment.
+The Bank of Ghana said on 5 November 2026 that it and the Monetary Authority of Singapore had completed the first proof of concept under Project DESFT (Digital Economy Semi-Fungible Token). The bank says the pilot demonstrated digital credentials for international trade and cross-border payment. The one-paragraph release names no participants, scope or next phase.
 
 </div>
 
@@ -836,7 +836,7 @@ Ghana's Ministry of Gender, Children and Social Protection swore in a Data Revie
 
 **[Only 61% of Ghanaian children have birth certificates](https://3news.com/news/birth-certificates-ghana-children-unicef)** — 3News, 6 November 2026
 
-UNICEF's Andy Brooks, Nov 2026; birth certificate a school-enrolment condition from Oct 2025 under Act 1027.
+About 61% of Ghanaian children hold a birth certificate, UNICEF's representative Andy Brooks said on 4-5 November 2026, 3News reported. He partly blamed weak telecommunications and digital registration that remote communities find hard to use. The Births and Deaths Registry registered 588,972 births by the end of 2025. That is 73.4% of the expected total for the year.
 
 </div>
 
@@ -896,7 +896,7 @@ A World Bank notice records that the contract for Ghana's eGovernment digital se
 
 **[Travelling to Ghana? New mandatory health declaration rule takes effect next week](https://www.graphic.com.gh/news/general-news/travelling-to-ghana-new-mandatory-health-declaration-rule-takes-effect-next-week.html)** — Graphic Online, 7 November 2026
 
-Pre-departure online form at ehds.ghs.gov.gh mandatory from 12 Nov 2026; surveillance aim; no data-handling terms stated.
+Ghana will require every arriving traveller to file an online Mandatory Health Declaration Form from 12 November 2026, Graphic Online reported on 7 November. Travellers must complete it on the Ghana Health Service portal before embarking, for public-health surveillance. The announcement says nothing on how the data are kept, shared or protected.
 
 </div>
 

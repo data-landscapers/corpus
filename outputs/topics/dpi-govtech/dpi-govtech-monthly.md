@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, October – November 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 2753a1eb7601
+record: bd2156bdaf12
 ---
 
 # News, Oct – Nov 2026
@@ -348,6 +348,21 @@ Germany Trade & Invest listed the World Bank-financed PAFEN tender for Burundi's
 </div>
 
 ## Cameroon
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Physical count of state personnel and payroll clean-up (COPPE)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cameroun : le nettoyage du fichier solde de l'État de nouveau repoussé après huit ans](https://ecomatin.net/cameroun-le-nettoyage-du-fichier-solde-de-letat-de-nouveau-repousse-apres-huit-ans)** — Ecomatin, 14 October 2026
+
+Payroll clean-up slips to 2027; AIGLES live since 1 Jan 2025, biometrics module unfinished, FCFA 7.2bn budget at risk.
+
+</div>
+
+</div>
+
 
 <div class="monthly-story" markdown="1">
 
@@ -876,6 +891,21 @@ Gabon's National Assembly launched a Legislative Work Management Platform (GTLAN
 
 </div>
 
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">CPPF BAANA portal for the school allowance</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Allocation de rentrée scolaire 2027-2028 : la CPPF accélère sa révolution numérique](https://www.gabonreview.com/allocation-de-rentree-scolaire-2027-2028-la-cppf-accelere-sa-revolution-numerique/)** — GabonReview, 6 November 2026
+
+BAANA portal goes zero-paper in Greater Libreville; closes 1 Feb 2027; prior round 71,412 beneficiaries, XAF 4.36bn.
+
+</div>
+
+</div>
+
 ## Gambia
 
 <div class="monthly-story" markdown="1">
@@ -945,6 +975,20 @@ The UN Development Programme gave the Ghana Enterprises Agency 90 laptops. They 
 **[Contract Award: Design, Development, Operations and Maintenance of the eGovernment Digital Services Platform (GH-MOCDTI-535504-NC-RFB), Ghana Digital Acceleration Project P176126](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478518)** — World Bank (procurement notice OP00478518, for the Ministry of Communication, Digital Technology and Innovations, Ghana), 1 November 2026
 
 A World Bank notice records that the contract for Ghana's eGovernment digital services platform was awarded on 21 October 2026. C-BRAINS A/S, with Omni Strategies, won at GHS 76,103,721.44. Tata was evaluated at GHS 96.1 million. The project is the Ghana Digital Acceleration Project.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mandatory online health declaration for arriving travellers</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Travelling to Ghana? New mandatory health declaration rule takes effect next week](https://www.graphic.com.gh/news/general-news/travelling-to-ghana-new-mandatory-health-declaration-rule-takes-effect-next-week.html)** — Graphic Online, 7 November 2026
+
+Ghana will require every arriving traveller to file an online Mandatory Health Declaration Form from 12 November 2026, Graphic Online reported on 7 November. Travellers must complete it on the Ghana Health Service portal before embarking, for public-health surveillance. The announcement says nothing on how the data are kept, shared or protected.
 
 </div>
 
@@ -1889,6 +1933,14 @@ South Africa's Electoral Commission opened its Election Results System, which ca
 **[Elections national results hub opens](https://www.itweb.co.za/article/elections-national-results-hub-opens/8OKdWMDXOpwMbznQ)** — ITWeb South Africa, 29 October 2026
 
 South Africa's Electoral Commission opened its National Results Operations Centre at Gallagher Convention Centre on 28 October 2026. It declared its results system ready after an independent audit. Five political parties audited it on 8–12 October 2026, and 29.2 million voters are registered for the local government elections.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[MK party wants eThekwini votes quarantined over KZN IEC 'system failures'](https://www.citizen.co.za/news/south-africa/elections/mk-party-wants-ethekwini-votes-quarantined-over-kzn-iec-system-failures/)** — The Citizen, 7 November 2026
+
+South Africa's MK Party lodged a formal objection with the Electoral Commission on 6 November 2026, The Citizen reported. It alleges a failure in live results capture at the eThekwini Results Operations Centre. Leaderboard figures, it says, differ from party-signed results slips. The party wants affected voting districts quarantined and an independent forensic audit of the results backend.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-08
 place: BEN
 ledger_rows: 29
 not_held: 4
-record: 238bdea97a00
+record: 7883e40fd963
 ---
 
 # News, Oct – Nov 2026
@@ -64,7 +64,7 @@ Benin created a National Digital Committee under the President of the Republic b
 
 **[Compte rendu du Conseil des Ministres du 04 nov. 2026](https://sgg.gouv.bj/cm/2026-11-04/)** — Secrétariat général du Gouvernement, République du Bénin, 4 November 2026
 
-PAG 2026-2033 approved, 45/55 public-private financing; Innobox AI-corpus pilot in Parakou and Porto-Novo.
+Benin's Council of Ministers authorised a pilot of two "Innobox" innovation houses, in Parakou and Porto-Novo, on 4 November 2026, according to the government secretariat's record. The houses are modular centres for fabrication and experimentation, intended in time for every commune. Each is to collect national-language corpora for artificial intelligence, as a local relay of the national AI strategy.
 
 </div>
 
@@ -72,7 +72,7 @@ PAG 2026-2033 approved, 45/55 public-private financing; Innobox AI-corpus pilot 
 
 **[Pag 2026-2033: Le gouvernement Wadagni définit sa feuille de route](https://lanation.bj/actualites/pag-2026-2033-le-gouvernement-wadagni-definit-sa-feuille-de-route)** — La Nation, 6 November 2026
 
-Approved 4 Nov 2026; technology one of two cross-cutting levers; 7.7% growth target, 55% private finance.
+Benin's Council of Ministers approved the government action programme (PAG) for 2026-2033 on 4 November 2026, La Nation reported. The programme names technology one of two cross-cutting levers. It is to modernise public services, raise productivity and widen market access. The programme targets 7.7% average real growth with 55% private financing. Its projects, overall cost and monitoring indicators were not presented.
 
 </div>
 
@@ -172,7 +172,7 @@ Benin's public-sector digital chiefs met in Cotonou on 8 October 2026 at a confe
 
 **[Financing Agreement, Credit Number 8154-BJ (Benin Public Resource Management for Jobs and Growth Program for Results as phase 2 of a Multi-Phase Programmatic Approach Program) between Republic of Benin and International Development Association](https://documents.worldbank.org/curated/en/099101626133533827/pdf/P513143-97a59d05-64a1-4746-ba3c-5731375ffd40.pdf)** — World Bank / International Development Association, 16 October 2026
 
-IDA credit terms and DLI table; IFU-NPI interconnection DLI from a 68% base, EUR 6,902,886 allocated.
+Benin and the International Development Association signed IDA Credit 8154-BJ on 16 October 2026. It is worth EUR 60.4 million for the PReM-Benin results programme. Its first disbursement-linked indicator rewards matching tax numbers (IFU) in real time to valid personal identification numbers (NPI). Each half-point rise from a base of 68% pays EUR 156,884, and the indicator is worth EUR 6,902,886 in all, according to the World Bank agreement.
 
 </div>
 
@@ -180,7 +180,7 @@ IDA credit terms and DLI table; IFU-NPI interconnection DLI from a 68% base, EUR
 
 **[Bénin : 8 millions de dollars pour renforcer l'interconnexion des fichiers fiscaux et d'identification](https://lamarina.bj/2026/11/06/benin-8-millions-de-dollars-pour-renforcer-linterconnexion-des-fichiers-fiscaux-et-didentification/)** — La Marina BJ, 6 November 2026
 
-IDA PReM-Benin indicator: EUR 6.9m for real-time IFU-NPI matching from 68% baseline; 40.76% linked in Oct 2023.
+La Marina BJ reported on 6 November 2026 that Benin's PReM-Benin programme attaches EUR 6.9 million to linking tax numbers (IFU) with personal identification numbers (NPI). The paper cites a finance ministry figure: 439,333 of 1,077,679 tax numbers (40.76%) were linked to an NPI on 25 October 2023. It also cites a TADAT assessment of November 2023. That rated the taxpayer register's accuracy D, down from C in 2019.
 
 </div>
 
@@ -194,7 +194,7 @@ IDA PReM-Benin indicator: EUR 6.9m for real-time IFU-NPI matching from 68% basel
 
 **[TERRA BÉNIN et PPMEC II pour accélérer la sécurisation foncière](https://fraternite.bj/terra-benin-et-ppmec-ii-pour-accelerer-la-securisation-fonciere/)** — Fraternite, 7 November 2026
 
-643,993 parcels in 12 communes; World Bank USD 100m for 1.5m parcels; Netherlands EUR 20m for e-Foncier.
+Benin's land agency ANDF launched the TERRA BÉNIN and PPMEC II programmes in Cotonou on 6 November 2026, Fraternité reported. They extend the national cadastre, which holds 643,993 registered parcels in 12 communes. TERRA BÉNIN's first phase (2025-2030) has USD 100 million from the World Bank and targets 1.5 million parcels in 14 communes. PPMEC II (2026-2031) has EUR 20 million from the Netherlands. It covers six more communes and the e-Foncier Bénin platform.
 
 </div>
 

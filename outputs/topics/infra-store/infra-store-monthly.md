@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, October – November 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 subject: infra.store
 places: DZA; BWA; BFA; CMR; EGY; SWZ; GMB; GHA; KEN; LBY; MAR; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: d2532e936a1b
+record: aae34e39daab
 ---
 
 # News, Oct – Nov 2026
@@ -312,6 +312,20 @@ A second account of the Konza cloud expansion agreement, naming the counterparty
 **[Konza data centre set for expansion through public private partnership](https://peopledaily.digital/business/konza-data-centre-set-for-expansion-through-public-private-partnership)** — People Daily, 23 October 2026
 
 Kenya's Public Private Partnerships Directorate signed a funding agreement on 23 October 2026 to prepare the Konza National Data Centre Cloud Expansion and Smart City Facilities Project, including hiring a transaction adviser to structure it for a private partner. The project joined the PPP pipeline in December 2025 and is presented as strengthening sovereign cloud capacity; no private partner has been chosen, and the agreement does not mean construction has started.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Offshore artificial-intelligence data centre at Mombasa</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AMACO and ARISE IIP Advance US$700 Million Power and AI Infrastructure Project in Mombasa](https://www.kenyaengineer.co.ke/amaco-and-arise-iip-advance-us700-million-power-and-ai-infrastructure-project-in-mombasa/)** — Kenya Engineer, 6 November 2026
+
+MoU for HERCULES at Dongo Kundu: minimum US$700m, 250 MW initial rising to 1 GW, LNG power barge feeding AI data centres.
 
 </div>
 

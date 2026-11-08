@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: 821346dbc544
+record: 2d15c87ef889
 ---
 
 # News, Oct – Nov 2026
@@ -818,6 +818,7 @@ Mauritius's ICT ministry met Meta on faster removal of fake accounts, impersonat
 
 </div>
 
+
 </div>
 
 
@@ -848,6 +849,7 @@ Mauritius's ICT minister, Avinash Ramtohul, told L'Express on 10 October 2026 ab
 Mauritius's ICT minister told the National Assembly in October 2026 that draft amendments to the Cybersecurity and Cybercrime Act 2021 are ready. They cover cyberharassment, doxxing, fake profiles, deepfakes and disinformation, and create a national cybersecurity agency. Platforms such as Facebook and TikTok would carry duties to take down content, keep evidence and report.
 
 </div>
+
 
 </div>
 

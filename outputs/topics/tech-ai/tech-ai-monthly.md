@@ -1,10 +1,10 @@
 ---
 title: AI — News, October – November 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 19d13144760c
+record: ab84ebf58b20
 ---
 
 # News, Oct – Nov 2026
@@ -1264,6 +1264,20 @@ Senegal and the Gates Foundation launched the Senegal AI Scaling Hub in Dakar on
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data protection commission position on manipulated media</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Escroqueries par intelligence artificielle : la CDP appelle à la vigilance face au clonage de voix et aux deepfakes](https://cdp.sn/actualites/52517c7a-0431-45a3-b40b-48f28bc2e965)** — Commission de Protection des Données Personnelles (Senegal), 5 November 2026
+
+Voice and image are personal data under Law 2008-12; unconsented AI cloning ruled unlawful processing.
+
+</div>
+
+</div>
+
 ## Seychelles
 
 <div class="monthly-story" markdown="1">
@@ -1615,6 +1629,20 @@ Tunisian Customs spokesman Colonel-Major Chokri Jabri said on 12 October 2026 th
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Business register AI assistants (Nawarni and trade-name bot)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[سجل المؤسسات يدخل عصر "الروبوتات"](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/157289-%D8%B3%D8%AC%D9%84-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D9%8A%D8%AF%D8%AE%D9%84-%D8%B9%D8%B5%D8%B1-%D8%A7%D9%84%D8%B1%D9%88%D8%A8%D9%88%D8%AA%D8%A7%D8%AA)** — Assabah News, 5 November 2026
+
+Two AI bots launched 5 Nov 2026: Nawarni founder guide and trade-name reservation; HiiL-built, Dutch-funded.
+
+</div>
+
+</div>
+
 ## Uganda
 
 <div class="monthly-story" markdown="1">
@@ -1672,6 +1700,20 @@ UNDP Zambia and the Lusaka Water Supply and Sanitation Company launched a pilot 
 **[Government to scale Artificial Intelligence for economic growth and service delivery](https://www.heraldonline.co.zw/government-to-scale-artificial-intelligence-for-economic-growth-and-service-delivery/)** — The Herald, 4 November 2026
 
 Zimbabwe's ICT minister Tatenda Mavetera tasked the ministry's new AI Unit with identifying, testing and scaling AI applications. She spoke at a strategic plan review workshop in Bulawayo. The plan names inaccurate responses, bias and poor data quality as risks.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Smart Traffic Management System (ZRP Smart Policing Programme)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Home Affairs Minister admits Smart Traffic Management System makes mistakes amid motorist complaints](https://www.newzimbabwe.com/home-affairs-minister-admits-smart-traffic-management-system-makes-mistakes-amid-motorist-complaints/)** — NewZimbabwe, 6 November 2026
+
+Minister concedes plate-capture errors at 20 Harare sites; police validation lapse; MP asks it be treated as a pilot.
 
 </div>
 

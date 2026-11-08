@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 subject: gov.policy
 places: AGO; BEN; CMR; CAF; TCD; COM; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LBY; MDG; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; TGO; TUN; UGA; ZMB; ZWE
-record: c9aa12e93693
+record: db1f81c0a76a
 ---
 
 # News, Oct – Nov 2026
@@ -98,6 +98,28 @@ The African Development Bank published a call on 28 October 2026 for consultants
 **[Présidence de la République : un comité national du Numérique créé](https://www.lanation.bj/actualites/presidence-de-la-republique-un-comite-national-du-numerique-cree)** — La Nation, 20 October 2026
 
 Benin created a National Digital Committee under the President of the Republic by decree n° 2026-579 of 2 September 2026, reported on 20 October 2026. The head of state chairs it and it meets quarterly. It tracks digital projects through a quarterly dashboard from a permanent secretariat, and gives prior opinions on structuring digital projects and on technology partnerships that could affect national digital sovereignty.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Programme d'action du gouvernement 2026-2033</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Compte rendu du Conseil des Ministres du 04 nov. 2026](https://sgg.gouv.bj/cm/2026-11-04/)** — Secrétariat général du Gouvernement, République du Bénin, 4 November 2026
+
+Benin's Council of Ministers authorised a pilot of two "Innobox" innovation houses, in Parakou and Porto-Novo, on 4 November 2026, according to the government secretariat's record. The houses are modular centres for fabrication and experimentation, intended in time for every commune. Each is to collect national-language corpora for artificial intelligence, as a local relay of the national AI strategy.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Pag 2026-2033: Le gouvernement Wadagni définit sa feuille de route](https://lanation.bj/actualites/pag-2026-2033-le-gouvernement-wadagni-definit-sa-feuille-de-route)** — La Nation, 6 November 2026
+
+Benin's Council of Ministers approved the government action programme (PAG) for 2026-2033 on 4 November 2026, La Nation reported. The programme names technology one of two cross-cutting levers. It is to modernise public services, raise productivity and widen market access. The programme targets 7.7% average real growth with 55% private financing. Its projects, overall cost and monitoring indicators were not presented.
 
 </div>
 

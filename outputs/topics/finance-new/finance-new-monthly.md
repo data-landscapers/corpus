@@ -1,16 +1,18 @@
 ---
 title: New investments — News, October – November 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-08
+period: 2026-10-01 to 2026-11-08
 subject: finance.new
-places: AGO; CIV; COD; SWZ; ETH; GMB; GHA; MRT; MAR; NGA; RWA; SYC; ZAF; TZA; ZMB
-record: cefef8e022d2
+places: AGO; BEN; CIV; COD; SWZ; ETH; GMB; GHA; MRT; MAR; NGA; RWA; SYC; ZAF; TZA; ZMB
+record: d373f2a7f5f3
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#angola">Angola</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#benin">Benin</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -66,6 +68,44 @@ COMESA's half-year progress report on the World Bank-financed Inclusive Digitali
 **[38,7 milhões USD para financiar cursos alinhados à economia](http://expansao.co.ao/universidade/detalhe/387-milhoes-usd-para-financiar-cursos-alinhados-a-economia-75050.html)** — Expansão, 1 October 2026
 
 Angola's higher education ministry has awarded USD 38.7 million under results-based agreements to 13 public universities and institutes to expand science, technology and engineering courses, under a project co-financed by the World Bank and GPE. Only USD 710,000 had been paid out when this was reported on 1 October 2026.
+
+</div>
+
+</div>
+
+## Benin
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PReM-Benin public resource management programme (IDA Credit 8154-BJ)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Financing Agreement, Credit Number 8154-BJ (Benin Public Resource Management for Jobs and Growth Program for Results as phase 2 of a Multi-Phase Programmatic Approach Program) between Republic of Benin and International Development Association](https://documents.worldbank.org/curated/en/099101626133533827/pdf/P513143-97a59d05-64a1-4746-ba3c-5731375ffd40.pdf)** — World Bank / International Development Association, 16 October 2026
+
+Benin and the International Development Association signed IDA Credit 8154-BJ on 16 October 2026. It is worth EUR 60.4 million for the PReM-Benin results programme. Its first disbursement-linked indicator rewards matching tax numbers (IFU) in real time to valid personal identification numbers (NPI). Each half-point rise from a base of 68% pays EUR 156,884, and the indicator is worth EUR 6,902,886 in all, according to the World Bank agreement.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Bénin : 8 millions de dollars pour renforcer l'interconnexion des fichiers fiscaux et d'identification](https://lamarina.bj/2026/11/06/benin-8-millions-de-dollars-pour-renforcer-linterconnexion-des-fichiers-fiscaux-et-didentification/)** — La Marina BJ, 6 November 2026
+
+La Marina BJ reported on 6 November 2026 that Benin's PReM-Benin programme attaches EUR 6.9 million to linking tax numbers (IFU) with personal identification numbers (NPI). The paper cites a finance ministry figure: 439,333 of 1,077,679 tax numbers (40.76%) were linked to an NPI on 25 October 2023. It also cites a TADAT assessment of November 2023. That rated the taxpayer register's accuracy D, down from C in 2019.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">PPMEC II national cadastre scale-up project (Netherlands)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[TERRA BÉNIN et PPMEC II pour accélérer la sécurisation foncière](https://fraternite.bj/terra-benin-et-ppmec-ii-pour-accelerer-la-securisation-fonciere/)** — Fraternite, 7 November 2026
+
+Benin's land agency ANDF launched the TERRA BÉNIN and PPMEC II programmes in Cotonou on 6 November 2026, Fraternité reported. They extend the national cadastre, which holds 643,993 registered parcels in 12 communes. TERRA BÉNIN's first phase (2025-2030) has USD 100 million from the World Bank and targets 1.5 million parcels in 14 communes. PPMEC II (2026-2031) has EUR 20 million from the Netherlands. It covers six more communes and the e-Foncier Bénin platform.
 
 </div>
 

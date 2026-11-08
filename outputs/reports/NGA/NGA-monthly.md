@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-08
 place: NGA
 ledger_rows: 87
 not_held: 9
-record: cf3f40c2dd39
+record: c1897647910d
 ---
 
 # News, Oct – Nov 2026
@@ -358,7 +358,7 @@ Nigeria's communications regulator, the NCC, announced a Device Checker app on 2
 
 **[Why unverified phones could affect consumers, networks](https://www.vanguardngr.com/2026/11/why-unverified-phones-could-affect-consumers-networks/)** — Vanguard, 5 November 2026
 
-NCC: Device Checker no surveillance tool, yet links IMEIs to subscriber identity; 231m devices pre-verified (Oct 2026).
+Nigeria's Communications Commission urged buyers to check a phone on its Device Checker platform before paying, Vanguard reported on 5 November 2026. The NCC says about 231 million devices already on Nigerian networks were verified automatically before the framework took effect in October 2026. Zonal Controller Tunji Jimoh said the platform reads no personal data. The technical presentation, however, described linking a device's IMEI to subscriber identification.
 
 </div>
 
