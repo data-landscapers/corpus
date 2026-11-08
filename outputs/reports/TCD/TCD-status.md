@@ -1,12 +1,12 @@
 ---
 title: Chad: status report
-compiled: 2026-11-07
+compiled: 2026-11-08
 place: TCD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 10
-sources_cited: 207
+sources_cited: 208
 sections_written: 39
 not_established: 0
 acquire_lines: 37
@@ -32,7 +32,7 @@ acquire_lines: 37
 <!-- derived -->
 Of thirty instruments surveyed across identity, cybersecurity, fintech, e-government, artificial intelligence and connectivity, twenty-one have no Chadian counterpart — among them a digital identity law, an interoperability framework, a national cybersecurity strategy, critical-infrastructure protection, cloud and open data policy, an AI strategy, a startup act, a regulatory sandbox and spectrum policy.
 
-[A 34-member committee with a 45-day deadline was inaugurated on 27 April 2026 to overhaul the digital, telecom and postal legal framework](https://techafricanews.com/2026/04/29/chad-forms-committee-to-overhaul-digital-telecom-and-postal-legal-framework/). [The government considers that framework outdated relative to the pace of innovation](https://techafricanews.com/2026/04/29/chad-forms-committee-to-overhaul-digital-telecom-and-postal-legal-framework/). [A moratorium signed on 2 February 2026 suspends greffe fees on jugements supplétifs until 2030](https://atpe.td/un-enfant-un-acte-de-naissance-une-operation-pour-enregistrer-un-million-denfants/). [A jugement supplétif is the court order substituting for a missing birth record](https://atpe.td/un-enfant-un-acte-de-naissance-une-operation-pour-enregistrer-un-million-denfants/). The moratorium is needed under [a framework that already makes birth registration universal, free and mandatory](https://www.biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms-to-close-gaps). [A draft labour code adopted by the Council of Ministers on 3 September 2026 would bring digital platform workers under labour law with a presumption of salaried status](https://lendjampost.com/travail-le-tchad-change-les-regles-entre-employe-et-employeur/). [On 29 October 2026 the Council of Ministers examined a draft decree on electronic communication and digitised procedure in the civil, commercial, social and administrative courts](https://lesdepechesdutchad.com/conseil-des-ministres-fonction-publique-justice-et-transports-au-menu/).
+[A 34-member committee with a 45-day deadline was inaugurated on 27 April 2026 to overhaul the digital, telecom and postal legal framework](https://techafricanews.com/2026/04/29/chad-forms-committee-to-overhaul-digital-telecom-and-postal-legal-framework/). [The government considers that framework outdated relative to the pace of innovation](https://techafricanews.com/2026/04/29/chad-forms-committee-to-overhaul-digital-telecom-and-postal-legal-framework/). On 29 October 2026 the Council of Ministers [examined a draft decree on electronic communication and digitised court procedure](https://lesdepechesdutchad.com/conseil-des-ministres-fonction-publique-justice-et-transports-au-menu/). [A moratorium signed on 2 February 2026 suspends greffe fees on jugements supplétifs until 2030](https://atpe.td/un-enfant-un-acte-de-naissance-une-operation-pour-enregistrer-un-million-denfants/). [A jugement supplétif is the court order substituting for a missing birth record](https://atpe.td/un-enfant-un-acte-de-naissance-une-operation-pour-enregistrer-un-million-denfants/). The moratorium is needed under [a framework that already makes birth registration universal, free and mandatory](https://www.biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms-to-close-gaps). [A draft labour code adopted by the Council of Ministers on 3 September 2026 would bring digital platform workers under labour law with a presumption of salaried status](https://lendjampost.com/travail-le-tchad-change-les-regles-entre-employe-et-employeur/). [On 29 October 2026 the Council of Ministers examined a draft decree on electronic communication and digitised procedure in the civil, commercial, social and administrative courts](https://lesdepechesdutchad.com/conseil-des-ministres-fonction-publique-justice-et-transports-au-menu/).
 
 ### Data protection
 <!-- gov.protect -->
@@ -337,6 +337,8 @@ Civil registration yields the most-quoted numbers and the least complete: [48.33
 [The statistics institute's site lists five diffusion channels](https://www.inseed.td/). [They are an Open Data Portal, a national data summary page, a national statistical data archive, an SDG goal tracker and an indicator tracker for the national development plan](https://www.inseed.td/). The institute runs them beneath that whole-of-government absence, and their terms answer whether Chadian public data is open. The archive's access policy [requires that microdata not be copied or transmitted to anyone without prior written agreement](https://anad.inseed.td/index.php/politique-dacc). [It requires that a prescribed source line be cited, and that two copies of any report produced be supplied to the institute](https://anad.inseed.td/index.php/politique-dacc). The material is published and it is not open.
 
 [Chad's strongest categories in the 2024 Open Data Inventory are agriculture and health facilities at 7 out of 10](https://odin.opendatawatch.com/data). [Government finance and price statistics score 6.5, and education facilities and poverty 6](https://odin.opendatawatch.com/data). This is a weak best for what is published. [Population and vital statistics score 5, with education outcomes, gender, reproductive health and crime statistics all at 4.5](https://odin.opendatawatch.com/data). This matters directly for registry work, which needs demographic denominators to know what coverage it has reached. [Economic statistics are weaker still: international trade and labour at 3.5, balance of payments and national accounts at 4, money and banking at 5](https://odin.opendatawatch.com/data). [Three of the 23 categories assessed score zero: energy, pollution, and the digital and communications category itself](https://odin.opendatawatch.com/data). The sector this report describes publishes no open national data about itself.
+
+In October 2026 [a water-resources geoportal and a mobile data-collection application were launched as a common data tool for ministries, projects and partners in the water sector](https://lendjampost.com/tchad-le-cdig-lance-des-outils-numeriques-pour-moderniser-la-gestion-de-leau/).
 
 ### Geospatial data
 <!-- data.geospatial -->
