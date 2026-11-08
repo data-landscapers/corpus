@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-15-ner-wassika-men-plateformes-numeriques-dune-rh",
+ "facts": [],
+ "systems": [
+  {
+   "system": "DUNE-RH",
+   "country_label": "Niger education ministry HR platform",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministère de l'Éducation nationale",
+   "tiers": ""
+  }
+ ],
+ "note": "DUNE-RH is one ministry's HR platform, not central payroll."
+}

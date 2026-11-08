@@ -6,15 +6,15 @@
       "stage": "unplaced",
       "finance": "",
       "revenue": "inuse",
-      "payroll": "",
+      "payroll": "inuse",
       "renewed": "",
       "architecture": "",
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "No source found from 2023 or later says the government's financial management system is in use.",
-      "note": "Counted from the four questions by study-ladder-coresystems.py.",
-      "as_at": "2026-10-25"
+      "gaps": "No source found from 2023 or later says the government's financial management system is in use; tax and payroll systems are.",
+      "note": "Fact 2025-09-07: DPSA Circular 36 names PERSAL as the payroll system in use, so tax and payroll are on systems. Without a source on the financial system no rung can be set.",
+      "as_at": "2026-11-08"
     }
   ]
 }

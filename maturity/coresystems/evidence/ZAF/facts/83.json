@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-07-zaf-dpsa-circular-36-of-2025-physical-verification-personnel",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "DPSA Circular 36 of 2025 directs all national and provincial departments to verify every person on their payroll and update records on the HR and payroll management systems, naming PERSAL/PERSOL.",
+   "as_of": "2025-09-07",
+   "date_precision": "day",
+   "system": "PERSAL/PERSOL",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PERSAL/PERSOL",
+   "country_label": "South Africa",
+   "class": "core",
+   "platform": "",
+   "owner": "Department of Public Service and Administration",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

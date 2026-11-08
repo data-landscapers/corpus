@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-24-gha-ghost-names-removed-from-government-payroll-thanks-to-ghana-card-bawum",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "NPP flagbearer Mahamudu Bawumia says the government has been scrutinising the payroll database through the Ghana Card, and the Controller and Accountant General has removed all ghost names from the government payroll.",
+   "as_of": "2024-09-24",
+   "date_precision": "day",
+   "system": "Government payroll database",
+   "class": "core"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

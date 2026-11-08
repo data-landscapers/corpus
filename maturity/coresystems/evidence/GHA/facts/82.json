@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-28-gha-cagd-moves-to-eliminate-ghost-names-with-biometric-verification",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "The Controller and Accountant-General said the government payroll database was linked to the National Identification Authority database in 2024, with over 14,000 unverified workers and 53,307 separated staff still on the wage bill per the 2025 Mid-Year Budget.",
+   "as_of": "2025-07-28",
+   "date_precision": "day",
+   "system": "Government payroll database (CAGD)",
+   "class": "core"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

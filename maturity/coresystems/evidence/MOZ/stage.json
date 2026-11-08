@@ -1,19 +1,20 @@
 {
- "iso3": "MOZ",
- "cells": [
-  {
-   "sub_indicator": "core",
-   "stage": "2",
-   "finance": "inuse",
-   "revenue": "",
-   "payroll": "",
-   "renewed": "",
-   "architecture": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MOZ-002",
-   "gaps": "No source found from 2023 or later says both the tax system and the payroll are in use.",
-   "note": "Counted from the four questions by study-ladder-coresystems.py."
-  }
- ]
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "core",
+      "stage": "3",
+      "finance": "inuse",
+      "revenue": "inuse",
+      "payroll": "inuse",
+      "renewed": "",
+      "architecture": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MOZ-002;MOZ-004;MOZ-005",
+      "gaps": "No source found says the financial, tax or payroll system went live on a new or upgraded system since October 2023, or that an architecture or inventory is published.",
+      "note": "Fact 2025-10: e-SNGRHE runs the payroll; with SESPE collecting taxes electronically through e-SISTAFE (MOZ-002), all three core jobs run on systems. No renewal since October 2023 is found, so not 4.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

@@ -1,3 +1,4 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 NER,SIGRHEP (Système Intégré de Gestion des Ressources Humaines de l'État et de la Paie),Niger,other,,"Ministry of Public Service, Labour and Employment",central,2026-07-29-lesahel-ccr-sigrhep-gestion-ressources-humaines-etat
 NER,SIGRHEP (Système Intégré de Gestion des Ressources Humaines de l'État et de la Paie),Niger,other,,"Ministry of Public Service, Labour and Employment",central,2026-07-27-niger-sigrhep-16500-agent-files-digitised-payroll
+NER,DUNE-RH,Niger education ministry HR platform,other,,Ministère de l'Éducation nationale,,2026-10-15-ner-wassika-men-plateformes-numeriques-dune-rh

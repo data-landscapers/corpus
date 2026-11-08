@@ -22,8 +22,8 @@ The African Charter on the Values and Principles of Public Service and Administr
 |---|---|
 | 5 Leading | 6 |
 | 4 Operating | 4 |
-| 3 Established | 7 |
-| 2 Nascent | 16 |
+| 3 Established | 8 |
+| 2 Nascent | 15 |
 | 1 Absent | 0 |
 | Unplaced | 8 |
 | No evidence | 13 |
@@ -145,6 +145,14 @@ Tax and the civil-service payroll run on computer systems by 2025; no source fou
 - The Libyan Tax Authority announced the official start of work on the Unified Tax System, with the Ministry of Finance saying it implements Decision No. 448 of 2025 ([source, 2025-12-13](https://lana.gov.ly/post.php?id=346934&lang=ar)).
 - Libya's finance minister Khaled Al-Mabrouk said August 2025 public sector salaries were processed on the new unified treasury account system, after basic data for around 41% of state employees was uploaded ([source, 2025-08](https://libyaobserver.ly/news/gnu-starts-paying-public-sector-wages-through-new-treasury-system)).
 
+### Mozambique: 3 Established
+
+Finance, tax collection and payroll run on computer systems by 2025; none is known to have been renewed since 2023.
+
+- The Minister of Finance's address on the 2024 State General Account (dated November 2025) describes e-SISTAFE as operating, with its revenue collection module and SESPE linking it to commercial banks and e-money institutions to collect taxes and fees into Treasury accounts ([source, 2025-11](https://www.mef.gov.mz/index.php/imprensa/discursos/2455-cge-2024-discurso-inicial-sexcia-mf-20-11-2025/file)).
+- The Ministry of Economy and Finance says e-SISTAFE, the state financial administration system running since 2004, has 11 modules, all operational except the internal audit module, which is in development, with real-time transactions to the Single Treasury Account ([source, 2024-11-26](https://www.mef.gov.mz/index.php/imprensa/noticias/847-amilcar-tivane-nas-celebracoes-dos-20-anos-do-e-sistafe)).
+- Mozambique's Ministry of Finance said the State Human Resources Management System (e-SNGRHE) removes employees from the payroll automatically if they miss the annual biometric proof of life, and 18,899 were suspended ([source, 2025-10](https://360mozambique.com/development/biometric-verification-removes-over-18000-nonexistent-employees-from-the-state-payroll/)).
+
 ### Somalia: 3 Established
 
 Finance, tax and payroll run on computer systems by 2025; none is known to have been renewed since 2023.
@@ -227,12 +235,6 @@ The government budgets, pays and runs its payroll through computer systems by 20
 
 - Accountant General Henry Mphasa said the SAP-based Ifmis, rolled out to all ministries, departments and agencies a year earlier, is fully operational and producing user reports including annual financial statements, though contract management and revenue modules do not yet cover all agencies ([source, 2024-05-29](https://mwnation.com/ifmis-has-fully-stabilisedsays-accountant-general/)).
 
-### Mozambique: 2 Nascent
-
-The government budgets and pays through a computer system by 2025; no source found says whether tax and payroll do too.
-
-- The Minister of Finance's address on the 2024 State General Account (dated November 2025) describes e-SISTAFE as operating, with its revenue collection module and SESPE linking it to commercial banks and e-money institutions to collect taxes and fees into Treasury accounts ([source, 2025-11](https://www.mef.gov.mz/index.php/imprensa/discursos/2455-cge-2024-discurso-inicial-sexcia-mf-20-11-2025/file)).
-
 ### Seychelles: 2 Nascent
 
 The government budgets and pays through a computer system by 2024; no source found says whether tax and payroll do too.
@@ -297,7 +299,7 @@ Not established: No source found from 2023 or later says the government's financ
 
 No source found from 2023 or later says the government's financial system is in use, so no stage is set.
 
-Not established: No source found from 2023 or later says the government's financial management system is in use.
+Not established: No source found from 2023 or later says the government's financial management system is in use; tax and payroll systems are.
 
 ### Sudan: Unplaced
 

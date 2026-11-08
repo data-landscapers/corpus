@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-15-gha-cagd-verify-ghana-card-details-by-march-15-or-face-salary-suspension",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "Citi Newsroom reports the Controller and Accountant-General's Department runs a mechanised government payroll and has rolled out a new e-Payslip platform linked to it, with staff of several services covered.",
+   "as_of": "2026-02-11",
+   "date_precision": "day",
+   "system": "government mechanised payroll",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-Payslip platform",
+   "country_label": "GHA",
+   "class": "core",
+   "platform": "",
+   "owner": "Controller and Accountant-General's Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -204,6 +204,7 @@ GHA,Mechanized Payroll System,Mechanized Payroll System,core,,Controller and Acc
 GHA,"Sentinel System (Real-Time VAT, RTVAT)",Sentinel System,other,,Ghana Revenue Authority,,2026-10-08-gha-graphic-gra-real-time-vat-sentinel-digital-services
 GHA,GIFMIS,GIFMIS,other,,Government of Ghana,,2025-12-11-gha-2026-budget-through-lens-of-communication-digital-transformation
 GHA,Ghana.gov,Ghana,other,eGovernment Digital Services platform,"Ministry of Communication, Digital Technology and Innovations",,2026-11-03-gha-refonte-ghana-gov-cbrain-omni-strategies-contract
+GHA,e-Payslip platform,GHA,core,,Controller and Accountant-General's Department,,2026-02-15-gha-cagd-verify-ghana-card-details-by-march-15-or-face-salary-suspension
 GIN,GEDA,GEDA,other,,Presidency,,2026-08-14-guinea-geda-doumbouya-decrets-arretes
 GIN,GEME,GEME,other,,Government,,2026-08-13-guinea-geme-digitalisation-missions-etat
 GIN,RTGS,RTGS,other,,BCRG,,2026-07-31-guinee-bcrg-projets-reformes-dsmp
@@ -219,6 +220,7 @@ GMB,Integrated Financial Management Information System (IFMIS),GoTG IFMIS,core,,
 GMB,Integrated Digital Case Management System (DCMS),Gambia,other,,"Ministry of Justice, Ministry of Interior and Judiciary",,2026-03-27-gmb-ungm-undp-integrated-dcms-rfp
 GMB,ITAS,Gambia,other,Sogema Technologies,Gambia Revenue Authority,,2024-05-20-gmb-gra-signs-agreement-to-improve-efficiency-transparency
 GMB,GAMTAXNET,Gambia,core,,Gambia Revenue Authority,,2024-05-20-gmb-gra-signs-agreement-to-improve-efficiency-transparency
+GMB,Integrated Tax Administration System (ITAS),Gambia Revenue Authority ITAS,other,,Gambia Revenue Authority,,2025-10-02-gmb-gra-introduces-itas-system-to-stakeholders
 GNB,National GovCloud for Guinea-Bissau,GNB,other,,MTTED / WARDIP,,2026-03-17-worldbank-wardip-p176932-procurement-plan-guinea-bissau
 GNB,Interoperability and data exchange platforms (WARDIP-F-006-2024),GNB,other,,WARDIP,,2026-03-17-worldbank-wardip-p176932-procurement-plan-guinea-bissau
 GNB,SIGFiP,GNB,core,,Ministério das Finanças,,2025-12-01-mef-guine-bissau-oge-2026
@@ -319,6 +321,9 @@ MLI,Single-window portal of digitalised public services,Mali,other,,AGETIC,,2025
 MLI,Government messaging system,Mali,other,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
 MLI,.ml domain registry,Mali,other,,AGETIC,,2025-12-30-lessor-agetic-intranet-point-ml
 MLI,SIGRH,Système intégré de gestion des ressources humaines,other,,Government of Mali,,2023-11-02-mli-operation-d-identification-des-agents-de-la-fonction-publique-de-l-eta
+MLI,SIGRH,Systeme Integre de Gestion des Ressources Humaines,other,,Ministere de l'Economie et des Finances,,2025-08-28-mli-mali-le-gouvernement-suspend-les-salaires-de-36-151-agents-publics-apr
+MLI,Système Intégré de Gestion des Ressources Humaines de l'Etat et des Collectivités territoriales,SIGRH project,other,,State,,2023-11-24-mli-decret-2023-0679-identification-agents-fonctions-publiques
+MLI,SIGRH,Systeme Integre de Gestion des Ressources Humaines,other,,Government,,2023-11-13-mli-fonctions-publiques-de-l-etat-et-des-collectivites-territoriales-mise
 MOZ,Sistema de Gestão Autárquico (SGA) / e-SISTAFE Autárquico,"SGA, e-SISTAFE Autárquico",other,,"CEDSIF, IP",municipal,2020-02-21-moz-lancado-o-sistema-de-gestao-autarquico-sga-na-componente-e-sistafe-aut
 MOZ,e-SISTAFE,e-SISTAFE (State Financial Administration System),core,,,,2026-10-12-moz-consulting-co-mz-ai-public-finance-management-strategy
 MOZ,e-SISTAFE,e-SISTAFE,core,,Ministry of Finance,central;provincial;municipal,2025-11-01-mef-cge-2024-discurso-sespe
@@ -330,6 +335,7 @@ MOZ,e-GP (GEPRES project),Mozambique,other,,Ministry of Finance,,2025-04-03-moz-
 MOZ,e-GP,Mozambique,other,,Ministry of Finance,,2025-04-03-moz-me-lanca-projecto-e-gp
 MOZ,e-SISTAFE,Mozambique,core,,CEDSIF,,2024-12-10-moz-government-to-make-public-spending-more-transparent-through-technology
 MOZ,e-SISTAFE,e-SISTAFE,core,,Ministry of Economy and Finance (CEDSIF),,2024-11-26-moz-amilcar-tivane-nas-celebracoes-dos-20-anos-do-e-sistafe
+MOZ,e-SNGRHE,State Human Resources Management System,core,BioPV mobile app,Ministry of Finance,,2025-10-09-moz-biometric-verification-removes-over-18-000-nonexistent-employees-from
 MRT,RIAD,Réseau Intranet Administratif haut Débit,other,,Ministère de la Transformation Numérique et de la Modernisation de l'Administration,,2024-09-20-mtnima-riad-reseau-intranet-administratif-haut-debit
 MRT,public finance management platform,plateformes pour la gestion des finances publiques,other,,,,2025-02-01-banque-mondiale-diagnostic-economie-numerique-mauritanie
 MRT,tax declaration platform,plateformes pour les déclarations fiscales,other,,,,2025-02-01-banque-mondiale-diagnostic-economie-numerique-mauritanie
@@ -375,8 +381,10 @@ NAM,ITAS (Integrated Tax Administration System),Integrated Tax Administration Sy
 NAM,PDMS,Payroll deduction management system,other,,Ministry of Finance,,2026-01-01-nam-manual-payroll-system-raises-cost-and-control-issues
 NAM,Payroll Deduction Management System (PDMS),Namibia,other,web-based,Avril Payment Solutions,,2025-09-08-nam-finance-ministry-to-end-payroll-deduction-system-for-civil-servants
 NAM,Integrated Tax Administration System,Namibia,core,,Namibia Revenue Agency,,2025-04-22-nam-namra-sets-four-year-target-to-fully-digitize-services
+NAM,Integrated Tax Administration System (ITAS),Namibia,other,CSS-CA Technology,Ministry of Finance,,2026-04-14-nam-namibia-wallows-in-digital-sovereignty-illusion
 NER,SIGRHEP (Système Intégré de Gestion des Ressources Humaines de l'État et de la Paie),Niger,other,,"Ministry of Public Service, Labour and Employment",central,2026-07-29-lesahel-ccr-sigrhep-gestion-ressources-humaines-etat
 NER,SIGRHEP (Système Intégré de Gestion des Ressources Humaines de l'État et de la Paie),Niger,other,,"Ministry of Public Service, Labour and Employment",central,2026-07-27-niger-sigrhep-16500-agent-files-digitised-payroll
+NER,DUNE-RH,Niger education ministry HR platform,other,,Ministère de l'Éducation nationale,,2026-10-15-ner-wassika-men-plateformes-numeriques-dune-rh
 NGA,IPPIS,Integrated Personnel and Payroll Information System,core,,Office of the Accountant-General of the Federation,federal,2026-08-29-thisday-tinubu-ippis-forensic-audit
 NGA,GIFMIS,GIFMIS,core,,,federal,2026-08-29-thisday-tinubu-ippis-forensic-audit
 NGA,Remita,Remita,other,,,,2026-08-29-thisday-tinubu-ippis-forensic-audit
@@ -578,6 +586,7 @@ ZAF,National Integrated Cyber Infrastructure System,NICIS,other,,"CSIR / Departm
 ZAF,Integrated Financial Management System (IFMS),ZAF,other,COTS solution procured 2016,National Treasury and SITA,,2024-09-10-zaf-treasury-pq792-ifms-status-reply
 ZAF,Integrated Financial Management System (IFMS),South Africa,other,"Oracle, on-premises",National Treasury,,2025-06-26-zaf-question-nw3686-to-the-minister-of-finance
 ZAF,Integrated HRM ERP solution,South Africa,other,,DPSA,,2025-08-28-zaf-question-nw4571-to-the-minister-of-public-service-and-administration
+ZAF,PERSAL/PERSOL,South Africa,core,,Department of Public Service and Administration,,2025-09-07-zaf-dpsa-circular-36-of-2025-physical-verification-personnel
 ZMB,Zamportal,Zamportal,other,,SMART Zambia / Northern Provincial ICT Unit,district,2026-08-31-techafricanews-zamportal-lupososhi-road-tax
 ZMB,E-Payslip Self-Service Portal,E-Payslip Self-Service Portal,other,,SMART Zambia,district,2026-08-27-techafricanews-zambia-ict-infrastructure-rural-public-service-delivery
 ZMB,Government Wide Area Network (GWAN),GWAN,other,,SMART Zambia,district,2026-08-27-techafricanews-zambia-ict-infrastructure-rural-public-service-delivery
