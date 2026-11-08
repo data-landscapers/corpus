@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-15-uga-uganda-phonemaker-mione-hits-500-000-feature-phones-in-sales",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "plant",
+   "value": "production",
+   "fact": "PML Daily reports Mione assembles feature phones at its plant in Mbale and has sold at least 500,000 of them in Uganda since starting operations in early 2023.",
+   "as_of": "2024-01-15",
+   "date_precision": "day",
+   "system": "Mione assembly plant, Mbale",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

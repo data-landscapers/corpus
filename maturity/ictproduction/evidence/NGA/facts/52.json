@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-12-nga-id4africa-fg-targets-cheaper-digital-identity-system-with-local-soluti",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "plant",
+   "value": "production",
+   "fact": "NIMC's Director-General says Nigeria is now producing identity card chips locally through a partnership with a semiconductor company described as the first in West Africa.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Local ID card chip production",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
