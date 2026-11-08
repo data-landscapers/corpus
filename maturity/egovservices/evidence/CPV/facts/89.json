@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-22-cpv-nosi-e-os-seus-25-anos",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The author, a former NOSi manager, says Casa do Cidadão life-event public services came to be accessed multichannel, notably through the PortondinosIlha portal, with online certificates among the systems built; no count of services is given.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "PortondinosIlha / Casa do Cidadão",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Casa do Cidadão",
+   "country_label": "PortondinosIlha",
+   "class": "eservices",
+   "platform": "",
+   "owner": "NOSi",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

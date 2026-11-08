@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-rwa-rwanda-s-journey-to-a-single-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The deck says 247+ government services are available on Irembo, which is also the channel for Single Digital Identity pre-enrollment.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Irembo",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Irembo",
+   "country_label": "Rwanda",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Irembo Ltd",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

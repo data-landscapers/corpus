@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-30-mrt-anrpts-from-national-identity-to-digital-state-op-ed",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "An op-ed says citizens can request documents and services remotely through Houwiyeti and track requests, and that the criminal record, digitised in March 2025, can be obtained remotely via Houwiyeti and the Khadamati platform.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Houwiyeti; Khadamati",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Khadamati",
+   "country_label": "Mauritania",
+   "class": "eservices",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-06-tun-passeport-carte-didentite-permis-les-demarches-a-distance-promises-ava",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Tunisia's communication technologies minister said the Khadamet app, launched late August 2026, gives access to more than forty administrative services through digital identity.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Khadamet",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "Business News reports a remote passport renewal application service was launched in June 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Remote passport renewal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Khadamet",
+   "country_label": "Tunisia",
+   "class": "eservices",
+   "platform": "mobile app",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

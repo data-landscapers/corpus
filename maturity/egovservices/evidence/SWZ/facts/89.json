@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-swz-home-affairs-goes-digital-to-cut-costs",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Eswatini's foreign affairs minister, for Home Affairs, said the ministry is going digital on passports, with eVisa issuance and scanning at entry points ready.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "Passport digitisation and eVisa",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

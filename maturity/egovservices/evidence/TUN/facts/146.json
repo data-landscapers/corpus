@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-05-tun-passeports-des-tre-une-nouvelle-procedure-en-ligne-prevue-pour-2027",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Foreign Minister Mohamed Ali Nafti told parliament on 5 November 2026 that a pilot has begun integrating passport issuance for Tunisians abroad into the electronic consulate system, with progressive roll-out across consular centres in 2027; which steps will be online was not stated.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "consulat electronique",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "consulat electronique",
+   "country_label": "Tunisia",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Ministry of Foreign Affairs, Migration and Tunisians Abroad",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

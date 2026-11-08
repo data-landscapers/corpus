@@ -79,6 +79,7 @@ CPV,SNIAC,Cabo Verde,other,,NOSi,,2024-01-01-nosi-operational-nucleus-informatio
 CPV,Portal Único de Serviços Públicos Digitais,Cabo Verde,eservices,,Government of Cabo Verde,,2025-01-22-cpv-discurso-do-primeiro-ministro-no-debate-no-parlamento-protecao-e-aprim
 CPV,Plataforma do Comercio Externo,Foreign Trade Portal,eservices,,Government of Cabo Verde,,2023-11-18-cpv-o-desenvolvimento-da-plataforma-do-comercio-externo-representa-o-cumpr
 CPV,Gov.cv,Cabo Verde,eservices,web portal and Android/iOS app,Casa do Cidadao,,2026-07-22-cpv-ja-sabe-como-aceder-aos-servicos-publicos-sem-sair-de-casa-analisamos
+CPV,Casa do Cidadão,PortondinosIlha,eservices,,NOSi,,2024-06-22-cpv-nosi-e-os-seus-25-anos
 DJI,egouv.dj,Djibouti,eservices,www.egouv.dj,Government of Djibouti,,2023-08-06-dji-lanation-centre-services-citoyens
 DJI,Plateforme des marches publics,Plateforme des marches publics,other,,ANSIE,,2025-06-30-dji-un-ansie-assistant-virtuel-marches-publics
 DJI,eConstruction Permit,Djibouti,eservices,DIGIT,DATUH,,2024-09-30-dji-digital-leaders-spotlight-djibouti
@@ -126,6 +127,7 @@ ETH,eservices.gov.et,Ethiopia,eservices,web portal,Ministry of Communications an
 ETH,Unified MESOB Application,Ethiopia,eservices,mobile application,Government of Ethiopia,,2026-01-01-eth-ena-unified-mesob-application
 ETH,teleSign,teleSign,eservices,Ethio Telecom cloud,Ethio Telecom,,2026-03-31-eth-ethio-telecom-launches-telesign-to-transform-document-authentication
 ETH,e-service portal,e-service portal,eservices,,Government of Ethiopia,,2024-09-18-eth-ethiopia-digital-economy
+ETH,Fayda E-Services,Ethiopia,other,,FaydaVerse,,2026-08-06-eth-what-is-faydaverse-the-ethiopian-national-id-program-that-became-a-com
 GAB,Gabon Connect,Gabon,eservices,,"IKA Technology (developer), State",,2026-02-20-gabon-connect-single-digital-window
 GAB,MADIGIPAIE,Gabon,other,,Ministry of Economy and Finance,,2026-01-14-gabon-public-finance-egov-initiatives
 GAB,ANPI online company creation,Gabon,eservices,,Agence nationale de promotion des investissements,national,2025-10-07-gabon-egov-legal-framework
@@ -249,6 +251,7 @@ MRT,Khidmaty,Mauritania,eservices,,Ministry of Digital Transformation,,2025-12-1
 MRT,Khidmaty,Mauritania,eservices,,Ministry of Digital Transformation,,2025-09-25-mrt-ami-tasjil-online-university-registration-khidmaty
 MRT,KHADAMATI,Mauritania,eservices,,Government of Mauritania,,2024-10-30-mrt-le-conseil-des-ministres-fixe-les-modalites-de-gestion-et-procedures-d
 MRT,Khidmaty,Mauritania,eservices,web portal,Ministry of Digital Transformation,national,2024-11-12-mrt-decret-2024-154-portail-khidmaty
+MRT,Khadamati,Mauritania,eservices,,,,2026-08-30-mrt-anrpts-from-national-identity-to-digital-state-op-ed
 MUS,Corporate and Business Registration Department online services portal,Mauritius,eservices,companies.govmu.org,"Corporate and Business Registration Department, Ministry of Finance",national,2026-01-01-corporate-and-business-registration-department-online-services-portal
 MUS,MRA e-Services,Mauritius,eservices,mra.mu,Mauritius Revenue Authority,national,2025-01-01-simplified-vat-registration-mra-e-services
 MUS,InfoHighway,Mauritius,other,Service Oriented Architecture publish-and-subscribe platform at the Government Online Centre,"Ministry of Technology, Communication and Innovation",national,2024-01-01-infohighway-leaflet-v12
@@ -289,17 +292,20 @@ NGA,Government Service Portal (services.gov.ng),Nigeria,eservices,1Gov Cloud,Fed
 NGA,Online Citizenship and Business Management Platform,Nigeria,eservices,,Ministry of Interior,,2025-05-15-nga-fg-launches-new-citizenship-business-management-platform
 NGA,Online passport application portal,Nigeria,eservices,passport.immigration.gov.ng,Nigeria Immigration Service,,2024-01-08-nga-immigration-unveils-online-passport-application-portal-today
 NGA,INEC online voter registration platform,Nigeria,eservices,web platform,INEC,national,2026-07-17-nga-six-months-to-presidential-poll-inec-raises-preparation-tempo
+NGA,NCC eServices portal,NCC eServices,eservices,,Nigerian Communications Commission,,2026-01-01-nga-ncc-type-approval-device-verification-guide
 RWA,Irembo,Rwanda,eservices,online portal,Government of Rwanda with RwandaOnline Platform Ltd,national,2025-01-01-irembo-rwandan-government-e-service-portal
 RWA,Irembo,Rwanda,eservices,web and mobile,,,2026-09-04-internet-society-rwanda-digital-parenting-training-karongi
 RWA,IremboGov,IremboGov,eservices,,Irembo,,2025-05-27-gha-dial-adli-data-exchange-exemplars
 RWA,Irembo,Irembo,eservices,,,,2026-10-23-rwa-rwandans-report-lower-satisfaction-with-public-services-new-scorecard
 RWA,Irembo,Rwanda,eservices,web portal with agents,MINICT,,2025-11-05-rwa-irembo-platform-transforms-access-to-public-services
+RWA,Irembo,Rwanda,eservices,,Irembo Ltd,,2026-05-01-rwa-rwanda-s-journey-to-a-single-digital-identity
 SDN,Baldna,Sudan,eservices,Baldna platform,Ministry of Digital Transformation and Communications,,2026-10-01-sdn-alghad-baladna-new-commercial-legal-services-investment
 SDN,Baldna,Sudan,eservices,Baldna platform,Ministry of Digital Transformation and Communications,,2026-01-01-baldna-e-government-services
 SDN,"Ministry of Culture, Information, Tourism and Antiquities website",ministry website,eservices,,"Ministry of Culture, Information, Tourism and Antiquities",,2026-10-17-sdn-alawdanews-culture-ministry-website-launch-opinion
 SDN,Baladna,Sudan,eservices,national platform,Ministry of Communications and Digital Transformation,,2026-08-19-sdn-totel-column-baladna-platform-usage
 SDN,Baldna,Sudan,eservices,,Khartoum State government,,2026-05-09-sdn-khartoum-commercial-licence-baladna
 SDN,Baldna,Sudan,eservices,,Ministry of Industry and Trade,,2025-11-30-sdn-sudan-launches-electronic-import-service
+SDN,Baladna,Sudan,eservices,,Digital Transformation Authority,,2026-11-06-sdn-suna-digital-transformation-reconstruction-un-governance-summit
 SEN,e-Senegal,Senegal,eservices,web portal,Presidency / Prime Minister,national,2026-03-27-biometricupdate-e-senegal-portal
 SEN,ETAX,Senegal,other,web application,DGID,national,2026-09-03-dgid-e-dgid-plateformes-teleprocedures
 SEN,MON ESPACE PERSO,Senegal,other,web platform,DGID,national,2026-09-03-dgid-e-dgid-plateformes-teleprocedures
@@ -313,6 +319,7 @@ SLE,WanGov,Sierra Leone,eservices,,Sierra Leone Road Safety Authority / Korlie L
 SLE,One Government Platform,Sierra Leone,eservices,,Ministry of Communications and Innovation,,2025-06-04-sle-statehouse-digital-innovation-summit-2025
 SLE,WanGov,Sierra Leone,eservices,mobile app,"Ministry of Communication, Technology and Innovation",,2025-02-04-sle-sierraloaded-wangov-app-launch
 SLE,WanGov,Sierra Leone,eservices,government portal,Government of Sierra Leone,,2026-07-30-sle-government-launches-online-portal-for-police-clearance-applications
+SLE,Online Business Registration System,Sierra Leone,eservices,,National Investment Board,,2026-11-06-sle-communication-minister-explores-nib-s-new-online-business-re
 SOM,Content Management System (CMS),Somalia,eservices,Typo3,Ministry of Communication and Technology,,2024-09-29-som-govstack-digital-leaders-spotlight-somalia
 SOM,High School Records (HSR),Somalia,eservices,Joget,Ministry of Education,,2024-09-29-som-govstack-digital-leaders-spotlight-somalia
 SOM,Halmeel unified digital government services platform,Halmeel,other,,Unified Public Service Delivery Center (Halmeel),,2026-10-19-som-biometricupdate-halmeel-unified-platform-national-id
@@ -388,6 +395,9 @@ TUN,Tunisian government portal,Tunisia,eservices,,Presidency of the Government,,
 TUN,projet de gouvernance électronique,gouvernance électronique,other,,Ministère des Technologies de la communication,,2025-11-24-tun-le-budget-des-technologies-fixe-a-plus-de-197-mdt
 TUN,Dalil,Tunisia,other,national portal of administrative procedures,Presidence du gouvernement,,2026-06-30-tun-tunisie-plus-de-3-000-demarches-administratives-seront-disponibles-en
 TUN,e-People Tunisia,Tunisia,other,web platform,Tunisian administration,,2025-07-18-tun-tmo-e-people-koica-upgrade
+TUN,Khadamet,Tunisia,eservices,mobile app,Ministry of Communication Technologies,,2026-11-06-tun-passeport-carte-didentite-permis-les-demarches-a-distance-promises-ava
+TUN,consulat electronique,Tunisia,eservices,,"Ministry of Foreign Affairs, Migration and Tunisians Abroad",,2026-11-05-tun-passeports-des-tre-une-nouvelle-procedure-en-ligne-prevue-pour-2027
+TUN,Unified tax account,Tunisia,other,,Ministry of Finance,,2026-11-04-tun-ministry-of-finance-1-8-million-invoices-received-through-the-electron
 TZA,Ajira Portal,Tanzania,eservices,,,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
 TZA,NeST,Tanzania,eservices,,,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
 TZA,GovESB,Tanzania,other,,,,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states
