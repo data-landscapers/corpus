@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-07-mus-pas-de-censure-des-reseaux-sociaux-jure-l-etat-qui-revoit-la-loi",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "L'Express reports that the Cybersecurity and Cybercrime Act of 2021 is the law that created CERT-MU, with amendments now submitted to the State Law Office.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "Cybersecurity and Cybercrime Act 2021",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "unnamed",
+   "fact": "L'Express recalls that in November 2025 the Prime Minister told the National Assembly the Cybercrime Unit had handled 837 cases in nearly three years, with 120 arrests, without naming the law.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Cybersecurity and Cybercrime Act 2021",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
