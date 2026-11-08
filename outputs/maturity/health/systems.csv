@@ -509,6 +509,9 @@ EGY,Telemedicine/telehealth solutions,Telemedicine/telehealth,enabling,,"Ministr
 EGY,Family health records (paper family files),Family health records / family files,emr,Paper,Ministry of Health and Population family health centres,"Family health centres (primary care); observed at Omrania family health centre, Giza",2020-05-08-egy-mohamed-ehr-model-omrania-family-health-centre
 EGY,DHIS2 malnutrition event tracker,Egypt,tracker,DHIS2,Ministry of Health and Population,"T4: 16 primary care facilities in two governorates, January 2024",2024-01-01-egy-egypt-deploys-dhis2-for-emergency-and-humanitarian-response
 EGY,DHIS2 patient registry for Gaza referrals,Egypt,tracker,DHIS2,Ministry of Health and Population,T1/T2: 30 designated hospitals,2024-01-01-egy-egypt-deploys-dhis2-for-emergency-and-humanitarian-response
+EGY,HIS,Health Information System (Egypt Healthcare Authority),emr,,Egypt Healthcare Authority,,2026-07-22-egy-265
+EGY,LIS,"Laboratory information system, 299 facilities",single-function,,Egypt Healthcare Authority,,2026-07-22-egy-265
+EGY,RIS/PACS,"Radiology information and archiving, 94 facilities",single-function,,Egypt Healthcare Authority,,2026-07-22-egy-265
 ERI,DHIS2,DHIS2,hmis,DHIS2,,"342 facilities including rural ones (2018), offline decentralised entry",2026-03-31 Africa we have a data problem
 ERI,DHIS2 tracker program,tracker program,tracker,DHIS2,,not stated; implementation described as unclear,2026-03-31 Africa we have a data problem
 ERI,national electronic reporting system (USSD-based),national electronic reporting system,single-function,USSD over mobile networks,Ministry of Health and Ministry of Agriculture,"not stated; recommended for development and deployment, not yet in use (August 2025)",2025-08-16-who-jee-eritrea-mission-report-2025

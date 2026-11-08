@@ -24,8 +24,8 @@ Africa CDC's Digital Transformation Strategy (2023) and PHC Digitalisation Frame
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 0 |
-| 3 Established | 13 |
-| 2 Nascent | 33 |
+| 3 Established | 14 |
+| 2 Nascent | 32 |
 | 1 Absent | 2 |
 | Unplaced | 6 |
 | No evidence | 0 |
@@ -53,6 +53,16 @@ All public hospitals kept electronic patient records in 2019-20, and a central s
 - The World Bank assessment, citing PROGISSA, states that 41 of 71 public and faith-based hospitals are computerised (patient health records, facility management and automatic reporting), 39 of the 41 on OpenClinic, with nine more waiting; they are not interconnected and each has its own patient identifier; no date is given, so the report's date is used ([source, 2023-03](https://documents1.worldbank.org/curated/en/099050923073520082/pdf/P17512808c1cbf01009a830d30eb4cb8732.pdf)).
 - The World Bank assessment states that six health centres (CDS) are computerised under a pilot financed by Enabel, with 29 more financed by Enabel and four by the government planned during 2023; no denominator of health centres is given, and the report's date is used ([source, 2023-03](https://documents1.worldbank.org/curated/en/099050923073520082/pdf/P17512808c1cbf01009a830d30eb4cb8732.pdf)).
 - The PNDIS II states that in the computerised hospitals OpenClinic GA runs on a local server in each hospital for clinical users, with data exchanged between clinical services, laboratory, imaging and pharmacy in real time without further manual entry; it does not use the words point of care, and the record stays on the hospital's server ([source, 2019](https://extranet.who.int/countryplanningcycles/sites/default/files/public_file_rep/BDI_Burundi_National-plan-development-digital-health_2020-2024.pdf)).
+
+### Egypt: 3 Established
+
+Electronic records run in 265 primary care centres in six insurance governorates (2026); the share of primary clinics nationally is not known.
+
+*Advancing.*
+
+- Egypt's Healthcare Authority head Ahmed El-Sobky said its health information system (HIS) is operating in 265 primary care centres and units plus 166 service facilities in the first-phase Universal Health Insurance governorates, with lab and radiology results linked to the electronic medical record ([source, 2026-07-22](https://www.almasryalyoum.com/news/details/4321204)).
+- The Egypt Healthcare Authority said on 19 August 2024 that it runs a unified electronic medical record for patients in the governorates where the Universal Health Insurance System applies, with nearly 4.5 million electronic health files created, 42 million electronic prescriptions issued and electronic referral from primary healthcare units and centres to higher levels; its primary healthcare centres and units there are fully digitised and its hospitals work on a fully computerised system. The hospital tier is not distinguished and the statement covers only those governorates ([source, 2024-08-19](https://eha.gov.eg/en/news/highlights-transformation/)).
+- CIPIT's 2025 continental report states that Egypt has deployed AI-driven electronic health record systems, using large biomedical language models to assist record-keeping, diagnostics and treatment planning in public hospitals, citing an arXiv paper; it gives no count of hospitals, does not distinguish the hospital tier and gives no date, so the document's published date is used ([source, 2025-06-25](https://aiconference.cipit.org/documents/the-state-of-ai-in-africa-report.pdf)).
 
 ### Eswatini: 3 Established
 
@@ -265,16 +275,6 @@ A government agency has delivered computers and hospital systems to named hospit
 - Actualite.cd reported that on 12 July 2024 ANICNS handed digital kits to three Kinshasa facilities, the Lufungula general hospital (10 computers) and the Ngaba mother-and-child centre and Lufungula health centre (5 computers between them), with three hospital information systems and an internet connection, to allow the first modules of the hospital information system, those for free maternity and newborn care, to be implemented and to guarantee portability of the computerised patient record ([source, 2024-07-12](https://actualite.cd/2024/07/13/kinshasa-lanicns-dote-trois-etablissements-hospitaliers-de-kits-medicaux-digitalises)).
 - ACP reported on 13 February 2025 that ANICNS handed the Kasaï-Oriental provincial health division 516 computers, 206 tablets and 206 routers to equip 206 care establishments, which its director general said would allow an ANICNS-approved hospital information system to be put into service and the computerised patient record to be portable; the system is described as to come, not as running ([source, 2025-02-13](https://acp.cd/science-sante-environnement/kasai-oriental-un-lot-dequipements-numeriques-offert-a-la-division-provinciale-de-la-sante/)).
 - On 16 June 2026 the Ministry of Public Health's agency ANICNS opened call ANICNS/AMI/001/SIH/2026 for the now-mandatory approval of hospital information systems under a ministerial order of 11 March 2025; each must include a complete computerised patient record, admission on the national health identifier and FHIR/DICOM interoperability, with submissions due by 12 July 2026 and approved products to be listed in a national register ([source, 2026-06-16](https://www.congoquotidien.com/2026/06/16/actualite-rdc-homologation-sih-rdc/)).
-
-### Egypt: 2 Nascent
-
-Electronic health records are at an early pilot stage (government compact, December 2025); no count of hospitals or clinics is given.
-
-*Advancing.*
-
-- The government's National Health Compact of 6 December 2025 describes electronic health records in Egypt as at the stage of early pilots, says adoption of electronic medical records in health facilities remains a work in progress, and says rural and public-sector facilities face infrastructure, financing and workforce constraints in adopting digital tools; it gives no count of facilities and does not say which tiers the pilots are in ([source, 2025-12-06](https://thedocs.worldbank.org/en/doc/0273f33ab6ee48c5d842108b9b55c789-0140022025/related/HealthCompacts-EGYPT.pdf)).
-- CIPIT's 2025 continental report states that Egypt has deployed AI-driven electronic health record systems, using large biomedical language models to assist record-keeping, diagnostics and treatment planning in public hospitals, citing an arXiv paper; it gives no count of hospitals, does not distinguish the hospital tier and gives no date, so the document's published date is used ([source, 2025-06-25](https://aiconference.cipit.org/documents/the-state-of-ai-in-africa-report.pdf)).
-- The Egypt Healthcare Authority said on 19 August 2024 that it runs a unified electronic medical record for patients in the governorates where the Universal Health Insurance System applies, with nearly 4.5 million electronic health files created, 42 million electronic prescriptions issued and electronic referral from primary healthcare units and centres to higher levels; its primary healthcare centres and units there are fully digitised and its hospitals work on a fully computerised system. The hospital tier is not distinguished and the statement covers only those governorates ([source, 2024-08-19](https://eha.gov.eg/en/news/highlights-transformation/)).
 
 ### Equatorial Guinea: 2 Nascent
 

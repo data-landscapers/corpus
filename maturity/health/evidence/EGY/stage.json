@@ -17,17 +17,18 @@
     },
     {
       "sub_indicator": "emr",
-      "stage": "2",
+      "stage": "3",
       "governance": "owner:ministry;plan:current;finance:not-stated",
       "tiers": "T1;T2;T3;T4",
       "digitised": "",
       "last12": "advancing",
-      "clinics": "pilot",
+      "clinics": "count:265",
       "cap": "",
       "flags": "advancing",
-      "stage_sources": "EGY-006;EGY-007;EGY-009",
-      "gaps": "Two facts disagree: the Egypt Healthcare Authority said in August 2024 that its primary units in the Universal Health Insurance governorates are 100% digitised on a unified record (EGY-009, EGY-010), and the government's compact of December 2025 puts electronic health records at early pilots (EGY-006); the newer stands. No count of hospitals or clinics with a denominator, no number of governorates covered, and no dated fact on where the record is entered: the only such row outside the excluded source is one paper-based centre observed to 2019. T3 and T4 use is in the insurance governorates only. The advancing flag rests on a proposal discussed in September 2026, with no timetable.",
-      "note": "The newest national statement is early pilots, and the hospital use on record carries no count, so neither most T1 and T2 hospitals nor primary clinics across some districts is established as at the date. Stage 3 would follow from a dated figure for the insurance governorates' primary clinics that postdates the compact."
+      "stage_sources": "EGY-015;EGY-009;EGY-007",
+      "gaps": "The Egypt Healthcare Authority's count of 265 primary care centres and units running its health information system (July 2026, EGY-015) covers the six first-phase Universal Health Insurance governorates only and gives no denominator; it postdates the compact's early pilots of December 2025 (EGY-006), so the newer stands. No national share of primary clinics, no dated fact after 2019 on where the record is entered, and nothing on a unique patient identifier or retrieval at another facility. The advancing flag rests on a proposal discussed in September 2026, with no timetable.",
+      "note": "Electronic records run in 265 primary care centres and units across six governorates (July 2026), primary clinics in some districts, which meets stage 3. Stage 4 needs more than half of primary clinics nationally on records retrievable at another facility, and nothing shows that.",
+      "as_at": "2026-11-08"
     }
   ]
 }

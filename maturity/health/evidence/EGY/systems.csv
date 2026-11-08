@@ -18,3 +18,6 @@ EGY,Telemedicine/telehealth solutions,Telemedicine/telehealth,enabling,,"Ministr
 EGY,Family health records (paper family files),Family health records / family files,emr,Paper,Ministry of Health and Population family health centres,"Family health centres (primary care); observed at Omrania family health centre, Giza",2020-05-08-egy-mohamed-ehr-model-omrania-family-health-centre
 EGY,DHIS2 malnutrition event tracker,Egypt,tracker,DHIS2,Ministry of Health and Population,"T4: 16 primary care facilities in two governorates, January 2024",2024-01-01-egy-egypt-deploys-dhis2-for-emergency-and-humanitarian-response
 EGY,DHIS2 patient registry for Gaza referrals,Egypt,tracker,DHIS2,Ministry of Health and Population,T1/T2: 30 designated hospitals,2024-01-01-egy-egypt-deploys-dhis2-for-emergency-and-humanitarian-response
+EGY,HIS,Health Information System (Egypt Healthcare Authority),emr,,Egypt Healthcare Authority,,2026-07-22-egy-265
+EGY,LIS,"Laboratory information system, 299 facilities",single-function,,Egypt Healthcare Authority,,2026-07-22-egy-265
+EGY,RIS/PACS,"Radiology information and archiving, 94 facilities",single-function,,Egypt Healthcare Authority,,2026-07-22-egy-265

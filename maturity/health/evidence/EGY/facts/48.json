@@ -1,0 +1,42 @@
+{
+ "slug": "2026-07-22-egy-265",
+ "facts": [
+  {
+   "sub_indicator": "emr",
+   "aspect": "clinics",
+   "value": "count:265",
+   "fact": "Egypt's Healthcare Authority head Ahmed El-Sobky said its health information system (HIS) is operating in 265 primary care centres and units plus 166 service facilities in the first-phase Universal Health Insurance governorates, with lab and radiology results linked to the electronic medical record.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "HIS",
+   "class": "emr"
+  }
+ ],
+ "systems": [
+  {
+   "system": "HIS",
+   "country_label": "Health Information System (Egypt Healthcare Authority)",
+   "class": "emr",
+   "platform": "",
+   "owner": "Egypt Healthcare Authority",
+   "tiers": ""
+  },
+  {
+   "system": "LIS",
+   "country_label": "Laboratory information system, 299 facilities",
+   "class": "single-function",
+   "platform": "",
+   "owner": "Egypt Healthcare Authority",
+   "tiers": ""
+  },
+  {
+   "system": "RIS/PACS",
+   "country_label": "Radiology information and archiving, 94 facilities",
+   "class": "single-function",
+   "platform": "",
+   "owner": "Egypt Healthcare Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
