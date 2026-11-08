@@ -1,0 +1,46 @@
+{
+ "slug": "2026-07-01-gha-gnhr-privacy-cookie-policy",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The policy says the Ghana National Household Registry, run under the Ministry of Gender, Children and Social Protection, is used to identify and verify eligible beneficiaries for government programmes.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Ghana National Household Registry",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "programmes",
+   "value": "several",
+   "fact": "The policy says registry data is used to identify eligible beneficiaries for programmes such as LEAP, NHIS and school feeding.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Ghana National Household Registry",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The policy says the registry collects the NIA Ghana Card number and links registry data with NIA, NHIA and GES databases.",
+   "as_of": "2026-07",
+   "date_precision": "month",
+   "system": "Ghana National Household Registry",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana National Household Registry",
+   "country_label": "Ghana",
+   "class": "social",
+   "platform": "",
+   "owner": "Ministry of Gender, Children and Social Protection",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

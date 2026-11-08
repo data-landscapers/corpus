@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-23-lso-eoi-lesotho-nissa-systems-development-enhancement-consultancy",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The ministry says NISSA, the national social registry run by the Director of Social Assistance, currently holds 90% (488,000) of Basotho households across all 10 districts, and is being updated through the World Bank-financed PSLP.",
+   "as_of": "2024-04-23",
+   "date_precision": "day",
+   "system": "NISSA",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NISSA",
+   "country_label": "Lesotho",
+   "class": "social",
+   "platform": "",
+   "owner": "Ministry of Gender, Youth and Social Development",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

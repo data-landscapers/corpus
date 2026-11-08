@@ -2,12 +2,12 @@
 
 ## Social protection register
 
-**Registry in service.** [The World Bank says the Takaful and Karama Program runs a social registry that includes all applicants since inception and has reached around 11.3 million registered households (40.5 million individuals)](<https://www.worldbank.org/en/results/2024/05/28/promoting-inclusive-human-capital-development-and-building-resilience-in-egypt-through-cash-transfer-programs>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Registry in service.** The Takaful and Karama programme runs the social registry. It [held about 11.3 million households, 40.5 million people, in May 2024](<https://www.worldbank.org/en/results/2024/05/28/promoting-inclusive-human-capital-development-and-building-resilience-in-egypt-through-cash-transfer-programs>), the World Bank says. In November 2026 the Ministry of Social Solidarity's Raafat Shafik said [the national social registry holds data on 13 million households, about half of Egypt's](<https://almessa.gomhuriaonline.com/764443/>).
 
-**Several programmes.** [The World Bank says Takaful and Karama (two components) and the FORSA, Two is enough, Waii and 1,000 days cash-plus interventions are designed on, or target beneficiaries from, the TKP social registry](<https://www.worldbank.org/en/results/2024/05/28/promoting-inclusive-human-capital-development-and-building-resilience-in-egypt-through-cash-transfer-programs>).
+**Several programmes.** Both components of Takaful and Karama [select beneficiaries from the registry](<https://www.worldbank.org/en/results/2024/05/28/promoting-inclusive-human-capital-development-and-building-resilience-in-egypt-through-cash-transfer-programs>). So do the FORSA, Two is Enough, Waii and 1,000 days interventions, on the World Bank's account of May 2024.
 
-**Linked to ID.** No source found since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://www.worldbank.org/en/results/2024/05/28/promoting-inclusive-human-capital-development-and-building-resilience-in-egypt-through-cash-transfer-programs>).
+**Linked to ID.** Shafik said in November 2026 that [the registry is linked to 27 government databases through the national ID number](<https://almessa.gomhuriaonline.com/764443/>). He said the links are used to verify applicants' data and target support more accurately.
 
 ***Also on file***. [Unified National Registry (UNR)](<https://www.worldbank.org/en/results/2024/05/28/promoting-inclusive-human-capital-development-and-building-resilience-in-egypt-through-cash-transfer-programs>).
 
-***Not found***. No source found since October 2023 says the social registry is linked to the national ID.
+***Not found***. No source says how often the registry is checked against the linked databases.

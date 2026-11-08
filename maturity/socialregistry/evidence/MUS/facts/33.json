@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-mus-independence-allowance",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The Mauritius Revenue Authority says the Independence Allowance of Rs 20,000 is paid to eligible youths registered on the Social Register of Mauritius on reaching 18.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Social Register of Mauritius",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Social Register of Mauritius",
+   "country_label": "Social Register of Mauritius",
+   "class": "social",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

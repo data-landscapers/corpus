@@ -1,17 +1,18 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "4",
-   "registry": "inservice",
-   "programmes": "several",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "EGY-002",
-   "gaps": "No source found since October 2023 says the social registry is linked to the national ID.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "5",
+      "registry": "inservice",
+      "programmes": "several",
+      "linked": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-004;EGY-002",
+      "gaps": "Nothing shows how often or how fully the registry is checked against the 27 linked databases.",
+      "note": "The ministry said in November 2026 that the registry is linked to 27 government databases through the national ID number, which meets stage 5. Several programmes select from it (World Bank, 2024).",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

@@ -2,12 +2,12 @@
 
 ## Social protection register
 
-**Registry in service.** [The Mauritius Revenue Authority FAQ of January 2026 refers to persons registered on the Social Register of Mauritius, who continue to receive CSG income allowances at the June 2025 rates, while those not on it get lower rates](<https://www.mra.mu/download/FAQs-SocialContributionIncomeAllowance.pdf>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Registry in service.** The Mauritius Revenue Authority's FAQ of January 2026 says [people on the Social Register of Mauritius keep receiving CSG income allowances at the June 2025 rates](<https://www.mra.mu/download/FAQs-SocialContributionIncomeAllowance.pdf>). People not on it receive lower rates. The register sets who is paid what.
 
-**Several programmes.** No source found since October 2023 says two or more programmes use the social registry. The nearest held fact: [the one given above](<https://www.mra.mu/download/FAQs-SocialContributionIncomeAllowance.pdf>).
+**Several programmes.** Since the 2025-26 budget, [the Rs 20,000 Independence Allowance is paid to youths on the Social Register when they turn 18](<https://www.mra.mu/index.php/eservices1/financial-assistance/independence-allowance>). The revenue authority pays it, on an application carrying the youth's identity card number. With the CSG income allowance, that makes two payments tied to the register.
 
-**Linked to ID.** No source found since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://www.mra.mu/download/FAQs-SocialContributionIncomeAllowance.pdf>).
+**Linked to ID.** Applicants for the Independence Allowance [give the youth's National Identity Card number](<https://www.mra.mu/index.php/eservices1/financial-assistance/independence-allowance>). The authority does not say the register itself is checked against the identity system.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says two or more programmes use the social registry.
+***Not found***. No single source found since October 2023 says two or more programmes select from the register. None says it is linked to the national ID.

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-06-mar-le-ministere-de-l-interieur-developpe-un-systeme-intelligent-pour-dete",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The Interior Ministry's annual report refers to the Registre social unifié as holding data it updates, with citizens' enrolment in the beneficiary targeting system continuing in 2026.",
+   "as_of": "2025-11-06",
+   "date_precision": "day",
+   "system": "Registre social unifié (RSU)",
+   "class": "social"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

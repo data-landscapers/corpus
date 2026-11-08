@@ -1,0 +1,26 @@
+{
+ "slug": "2026-10-27-bfa-burkina-faso-plus-de-433-000-menages-recenses-dans-le-registre-social",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The minister of family and solidarity said that at 30 June 2026 the RSU database held 433,888 households (over 2 million people, 30% of target) in 110 communes across 12 regions.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "Registre social unique (RSU)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre social unique (RSU)",
+   "country_label": "RSU",
+   "class": "social",
+   "platform": "",
+   "owner": "Ministry of Family and Solidarity",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

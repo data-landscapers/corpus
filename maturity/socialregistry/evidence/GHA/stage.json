@@ -1,17 +1,18 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "4",
-   "registry": "inservice",
-   "programmes": "several",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-002",
-   "gaps": "No source found since October 2023 says the social registry is linked to the national ID.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "5",
+      "registry": "inservice",
+      "programmes": "several",
+      "linked": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-008;GHA-007;GHA-002",
+      "gaps": "No count of registry records carrying a Ghana Card number.",
+      "note": "The registry's July 2026 privacy policy says it collects the Ghana Card number and links its data with the identity authority's databases, which meets stage 5. LEAP, school feeding and health insurance select from it.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "LSO",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "2",
-   "registry": "underway",
-   "programmes": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LSO-001",
-   "gaps": "No source found since October 2023 says: is a social registry in service.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "LSO",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "3",
+      "registry": "inservice",
+      "programmes": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LSO-002",
+      "gaps": "The newest row (LSO-001, August 2024) is a request for proposals for the NISSA registry and its management system, valued underway; it does not say the registry stopped, and the April 2024 statement that NISSA holds 90% of households stands as in service. No source names two or more programmes selecting from it, or a link to the national ID.",
+      "note": "The ministry said in April 2024 that NISSA holds 488,000 households, 90% of the country's, in all 10 districts, which meets stage 3. Stage 4 needs a source saying two or more programmes select from it.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

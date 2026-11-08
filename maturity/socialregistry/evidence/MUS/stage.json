@@ -1,17 +1,18 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "social",
-   "stage": "3",
-   "registry": "inservice",
-   "programmes": "",
-   "linked": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MUS-001",
-   "gaps": "No source found since October 2023 says two or more programmes use the social registry.",
-   "note": "First pass: counted from the four questions by study-ladder-socialregistry.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "social",
+      "stage": "3",
+      "registry": "inservice",
+      "programmes": "",
+      "linked": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-001;MUS-002",
+      "gaps": "Two programmes are each tied to the Social Register in a separate source: the CSG income allowance (MUS-001) and the Independence Allowance (MUS-002). No single source says two or more programmes select from it, as question 3 asks. Nothing says the register is checked against the national ID.",
+      "note": "The register is in service, setting CSG income allowance rates and Independence Allowance eligibility. Stage 4 is not set: the ladder asks for a source saying two or more programmes use it, and each source names one.",
+      "as_at": "2026-11-08"
+    }
+  ]
 }

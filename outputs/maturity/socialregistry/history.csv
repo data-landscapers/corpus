@@ -20,3 +20,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,TZA,dpi.registry--social-protection-register,review,no evidence,unplaced,,Stage 4c: 2 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,ZAF,dpi.registry--social-protection-register,review,no evidence,2,ZAF-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,ZWE,dpi.registry--social-protection-register,fact,2,2,ZWE-001;ZWE-002,Stage 4c: 1 news arrival(s) read; restaged from every row held.
+2026-11-08,EGY,dpi.registry--social-protection-register,fact,4,5,EGY-004;EGY-002,EGY-004: the ministry said in November 2026 that the 13-million-household registry is linked to 27 government databases through the national ID number; stage 5.
+2026-11-08,GHA,dpi.registry--social-protection-register,fact,4,5,GHA-008;GHA-007;GHA-002,GHA-008: the registry's July 2026 privacy policy says it collects the Ghana Card number and links with the identity authority's databases; stage 5.
+2026-11-08,LSO,dpi.registry--social-protection-register,fact,2,3,LSO-002,"LSO-002: in April 2024 the ministry said NISSA holds 90% of households in all 10 districts; in service, stage 3. The later RFP does not say it stopped."
+2026-11-08,MUS,dpi.registry--social-protection-register,fact,3,3,MUS-001;MUS-002,"MUS-002: the Independence Allowance is paid to youths on the Social Register, a second programme beside the CSG allowance; no single source says two or more use it, so stage 3 stands."

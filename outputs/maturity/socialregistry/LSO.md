@@ -2,12 +2,12 @@
 
 ## Social protection register
 
-**Registry in service.** [The Ministry of Gender, Youth and Social Development, with EU financing and UNICEF technical assistance, issued a Request for Proposals for the NISSA social registry and MISSA, closing 12 August 2024](<https://lesotho.un.org/en/274430-request-proposals-national-information-system-social-assistance-nissa-social-registry-and>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Registry in service.** NISSA is the national social registry, run by the Director of Social Assistance. It [held 488,000 households, 90% of the country's, across all 10 districts in April 2024](<https://selibeng.com/eoi-lesotho-nissa-systems-development-enhancement-consultancy/>). The ministry was updating it under the World Bank's Pathways to Sustainable Livelihoods Project. In August 2024 it [sought proposals for the NISSA registry and its management information system](<https://lesotho.un.org/en/274430-request-proposals-national-information-system-social-assistance-nissa-social-registry-and>), with EU money and UNICEF support.
 
-**Several programmes.** No source found since October 2023 says two or more programmes use the social registry. The nearest held fact: [the one given above](<https://lesotho.un.org/en/274430-request-proposals-national-information-system-social-assistance-nissa-social-registry-and>).
+**Several programmes.** The ministry describes NISSA as [a common entry point used to target households for various programmes](<https://selibeng.com/eoi-lesotho-nissa-systems-development-enhancement-consultancy/>). It names none of them, and gives no count of programmes drawing on it.
 
-**Linked to ID.** No source found since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://lesotho.un.org/en/274430-request-proposals-national-information-system-social-assistance-nissa-social-registry-and>).
+**Linked to ID.** The 2024 request for proposals [covers the registry and its management system](<https://lesotho.un.org/en/274430-request-proposals-national-information-system-social-assistance-nissa-social-registry-and>). It says nothing of the national ID.
 
 ***Also on file***. [MISSA (Management Information System for Social Assistance)](<https://lesotho.un.org/en/274430-request-proposals-national-information-system-social-assistance-nissa-social-registry-and>); [Farmers Portal](<https://www.prnewswire.com/news-releases/lesotho-launches-national-farmers-portal-giving-every-farmer-a-place-in-a-single-digital-registry-302864372.html>).
 
-***Not found***. No source found since October 2023 says: is a social registry in service.
+***Not found***. No source found since October 2023 names two or more programmes that select from NISSA. None names a link to the national ID.
