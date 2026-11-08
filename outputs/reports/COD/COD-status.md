@@ -1,6 +1,6 @@
 ---
 title: DR Congo: status report
-compiled: 2026-11-07
+compiled: 2026-11-08
 place: COD
 region: XCA
 built_by: STATUS-INIT
@@ -204,7 +204,7 @@ The [US$1.2 billion biometric identity contract with IDEMIA, held through the in
 
 [No national identity card has been issued for decades, and the voter's card serves as the identity document in practice](https://www.ecoi.net/en/document/2092753.html) (2022). Almost nothing rests on it yet. And [identification operations and card issuance had still not begun at the end of May 2026](https://actualite.cd/2026/05/29/identification-nationale-de-la-population-en-rdc-lonip-annonce-le-demarrage-des). In September [the identification office said data collection would begin in December 2026](https://acp.cd/nation/rdc-lonip-reaffirme-son-engagement-en-faveur-dun-systeme-national-didentification-inclusif-et-securise/). The new platform [links biometrics to SIM-card registration, among uses that include access to government services and identity checks for digital payments](https://www.biometricupdate.com/202508/drc-digital-id-phased-deployment-underway-following-contract-do-over).
 
-Civil registration underneath it is paper: [digitisation is at pilot stage, in the Kinshasa commune of Masina](https://drc.unfpa.org/fr/news/rdc-masina-commune-pilote-pour-la-digitalisation-des-faits-de-letat-civil) (2025). It runs through [979 local civil registration offices, each event recorded on paper in four carbon copies, with no computer or mobile device used in registration](https://apai-crvs.uneca.org/sites/default/files/resourcefiles/CRVS_CongoDRSnapshot_e.pdf). Its [birth registration covered around 40% of children under five in 2018](https://www.indexmundi.com/facts/dem.-rep.-congo/indicator/SP.REG.BRTH.ZS).
+Civil registration underneath it is paper: [digitisation is at pilot stage, in the Kinshasa commune of Masina](https://drc.unfpa.org/fr/news/rdc-masina-commune-pilote-pour-la-digitalisation-des-faits-de-letat-civil) (2025). It runs through [979 local civil registration offices, each event recorded on paper in four carbon copies, with no computer or mobile device used in registration](https://apai-crvs.uneca.org/sites/default/files/resourcefiles/CRVS_CongoDRSnapshot_e.pdf). [Birth registration stood at 32% in the 2023-24 demographic and health survey](https://www.mediacongo.net/dpics/filesmanager/jobaof/2025/08-aout/04/patn_250818_01_04.pdf).
 
 ### Digital Payments and Fintech
 <!-- dpi.pay -->
