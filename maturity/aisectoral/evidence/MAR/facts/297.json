@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-06-mar-le-ministere-de-l-interieur-developpe-un-systeme-intelligent-pour-dete",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Interior Ministry's annual report says it launched a project to detect false declarations in the Registre social unifié and trained a fraud-detection model on RSU data.",
+   "as_of": "2025-11-06",
+   "date_precision": "day",
+   "system": "Registre social unifié (RSU)",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

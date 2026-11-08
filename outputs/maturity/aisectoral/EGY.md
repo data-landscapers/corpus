@@ -2,12 +2,12 @@
 
 ## AI in sector systems
 
-**AI in service.** The customs head said in November 2025 that Egypt has [begun running three smart systems on the Nafeza platform](<https://www.elwatannews.com/news/details/8169196>): tariff classification by AI algorithms, automated valuation, and a risk system that scores each shipment before arrival. The health minister's adviser on radiology said in September 2025 that [AI applications are used daily in some hospitals and institutes to diagnose breast, prostate and brain tumours](<https://www.masrtimes.com/587268>). The national AI council's first-half 2026 report [lists the launch of a smart judicial assistant](<https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/>). The tax authority's head said in July 2026 that an [AI real estate tax app is about to launch, with an AI tax assistant being prepared](<https://www.almasryalyoum.com/news/details/4306657>).
+**AI in service.** Several Egyptian agencies run AI tools. [In November 2025 the customs head said three smart systems run on the Nafeza platform](<https://www.elwatannews.com/news/details/8169196>). They classify tariffs, value goods and score each shipment's risk. [In September 2025 a health ministry adviser said some hospitals use AI daily to diagnose tumours](<https://www.masrtimes.com/587268>). [In November 2026 a social solidarity official said the Takaful and Karama cash programme uses AI](<https://almessa.gomhuriaonline.com/764443/>). It targets aid, answers complaints and checks applicants' data. [The tax authority said in July 2026 that an AI tax app was about to launch](<https://www.almasryalyoum.com/news/details/4306657>).
 
-**Several sectors.** Customs, health, justice and agriculture each have AI in service, in separate accounts. In November 2024 the remote sensing authority NARSS and the agriculture ministry [used remote sensing and AI to inventory and classify crops by governorate](<https://www.dailynewsegypt.com/2024/11/05/narss-agriculture-ministry-launch-map-of-winter-crops/>), producing the 2023-24 winter crop map.
+**Several sectors.** Each sector's AI is reported in a separate account. [The AI council's 2026 report lists a smart judicial assistant](<https://techafricanews.com/2026/09/25/egypt-ai-council-national-ai-strategy-quantum-computing/>). [In November 2024 the remote sensing authority mapped winter crops with AI](<https://www.dailynewsegypt.com/2024/11/05/narss-agriculture-ministry-launch-map-of-winter-crops/>). No one source covers two sectors.
 
-**Results reported.** No measured results of a sectoral AI system have been found. The nearest held fact is the [customs systems' start](<https://www.elwatannews.com/news/details/8169196>), reported without figures.
+**Results reported.** No measured results of a sectoral AI system are on file. [The customs systems' start was reported without figures](<https://www.elwatannews.com/news/details/8169196>).
 
 ***Also on file***. None found.
 
-***Not found***. No single source found says AI is in service in several sectors, and no source found reports measured results of a sectoral AI system in service.
+***Not found***. No one source says AI is in service in several sectors. No measured results are on file.

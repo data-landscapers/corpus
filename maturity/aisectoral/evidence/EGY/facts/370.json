@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-egy-social-registry-13m-households-27-databases",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Ministry of Social Solidarity official Raafat Shafik says the Takaful and Karama programme relies on AI applications that improve targeting accuracy, answer citizens' queries and complaints automatically, and verify applicants' socio-economic data.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "Takaful and Karama",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

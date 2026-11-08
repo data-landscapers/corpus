@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-tza-digital-transformation-cuts-nhif-claims-payment-period-to-50-days",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The National Health Insurance Fund says it cut average claims settlement time from 120 to 50 days in 2024/25 after adopting digital systems and AI in claims processing.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NHIF claims processing",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

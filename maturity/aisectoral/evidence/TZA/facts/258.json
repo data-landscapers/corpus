@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-06-why-africa-should-build-trust-in-ai-differently-newsroom",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "A randomised controlled trial is underway in Tanzania testing whether AI diabetic retinopathy screening gets more patients to timely ophthalmology follow-up, per Amref's Caroline Mbindyo.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "AI diabetic retinopathy screening",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI diabetic retinopathy screening trial",
+   "country_label": "Tanzania",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
