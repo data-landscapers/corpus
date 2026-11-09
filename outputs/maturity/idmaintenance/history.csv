@@ -74,3 +74,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-08,COD,dpi.id--national-maintenance-of-id-and-credentials-systems,fact,1,1,COD-001,ONIP's March 2024 plan to run the population file predates the consortium managing it under its 20-year contract; stays 1
 2026-11-08,GMB,dpi.id--national-maintenance-of-id-and-credentials-systems,fact,3,3,GMB-004;GMB-009,Margins manages GAM ID until handover; immigration officers run enrolment as of August 2026; stays 3
 2026-11-08,NGA,dpi.id--national-maintenance-of-id-and-credentials-systems,fact,4,4,NGA-002;NGA-001,Idemia's 2024 maintenance contract predates NIMC's October 2026 account of in-house maintenance; stays 4
+2026-11-09,CPV,dpi.id--national-maintenance-of-id-and-credentials-systems,fact,no evidence,2,CPV-001,"Resolution 95/2025: the national press INCV authorised to take over procurement, personalisation and issue of the e-ID card; transfer announced, no evidence to 2"
+2026-11-09,NER,dpi.id--national-maintenance-of-id-and-credentials-systems,fact,2,2,NER-002;NER-001,"ANP, April 2026: a Libyan company provides production of the new biometric card; with the March 2026 skills-transfer statement, 2 holds"

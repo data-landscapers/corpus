@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-ben-foundational-identity-4",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "ANIP's own deck presents the national agency as running the national register of physical persons and its online delivery and authentication of documents.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "RNPP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

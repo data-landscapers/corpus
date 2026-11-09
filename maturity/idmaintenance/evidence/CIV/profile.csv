@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,maintenance,operation,coverage,national,2026-10-05,CIV-001;CIV-002;CIV-006,CIV-004=supplier;CIV-005=transfer,
+CIV,maintenance,operation,coverage,national,2026-10-05,CIV-001;CIV-002;CIV-006;CIV-007,CIV-004=supplier;CIV-005=transfer,
 CIV,maintenance,maintenance,coverage,national,2026-05-12,CIV-003,,
 CIV,maintenance,ownership,coverage,,,,,nothing found

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-25-tgo-wb-wuri-phase-2-restructuring-paper-res01578",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "ownership",
+   "value": "owned",
+   "fact": "The World Bank describes Togo's e-ID as a biometric ID system based on open-source technologies (MOSIP).",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Togo e-ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

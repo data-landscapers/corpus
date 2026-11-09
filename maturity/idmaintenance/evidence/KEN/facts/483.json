@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-28-ken-project-profile-the-in-between-lives-of-the-double-registered",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "The Elephant says AFIS is managed by the National Registration Bureau, which issues identification documents, and that officials upgraded the existing IPRS-AFIS infrastructure into the Maisha system rather than build a new one.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "AFIS / Maisha Integrated Identity System",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Automated Identification System (AFIS)",
+   "country_label": "Kenya",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

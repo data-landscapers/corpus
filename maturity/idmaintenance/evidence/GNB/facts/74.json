@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-19-gnb-expansion-of-identification-centers",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "supplier",
+   "fact": "Semlex, a vendor, runs the biometric enrolment centres and supplies secure ECOWAS identity cards in Guinea-Bissau under a public-private partnership with the Ministry of Justice dating from 2006, while the Ministry of Justice manages the unique identity number, says Semlex.",
+   "as_of": "2024-09-19",
+   "date_precision": "day",
+   "system": "National identity card (CNI) system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National identity card (CNI) system",
+   "country_label": "Guinea-Bissau",
+   "class": "idsystem",
+   "platform": "Semlex enrolment centres",
+   "owner": "Ministry of Justice",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

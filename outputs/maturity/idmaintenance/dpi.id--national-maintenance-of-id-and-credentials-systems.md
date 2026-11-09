@@ -23,10 +23,10 @@ The African Union's interoperability framework asks that countries own and opera
 | 5 Leading | 10 |
 | 4 Operating | 3 |
 | 3 Established | 28 |
-| 2 Nascent | 4 |
+| 2 Nascent | 5 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
-| No evidence | 7 |
+| No evidence | 6 |
 
 ## Countries
 
@@ -311,6 +311,12 @@ The national authority ran the ID system day to day in 2026; no source found say
 - The playbook's governance diagram shows the citizen identifier system managed by the Unite de Gestion de l'Identifiant Unique Citoyen within the Ministry of the Interior, with the interoperability platform operated by the Centre National Informatique ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 - The CNI, a national operator, is in charge of the national unique identifier register and the citizen's digital identity, per its own communique ([source, 2026-01](https://www.thd.tn/tunisie-le-centre-national-de-linformatique-celebre-50-ans-au-coeur-de-la-transformation-numerique-de-letat/)).
 
+### Cape Verde: 2 Nascent
+
+The national press was authorised in 2025 to take over producing the ID card; who runs the ID system day to day is not known.
+
+- Cabo Verde's Resolution 95/2025 authorises the national press INCV to take over procurement, personalisation and issue of the electronic national ID card, residence permit and e-passport, which the report says reduces dependence on external suppliers ([source, 2025-09](https://tiver.cv/incv-inicia-producao-de-documentos-eletronicos-de-identificacao/)).
+
 ### Comoros: 2 Nascent
 
 A move to national operation of the ID system was under way in 2026.
@@ -326,8 +332,9 @@ A move to national operation of the ID system was under way in 2026.
 
 ### Niger: 2 Nascent
 
-A move to national operation of the ID system was under way in 2026.
+A supplier produced the new ID card in 2026 while training local teams; whether a national authority runs the system is not known.
 
+- The Libyan company Alitisal Aljadeed provides the production service for Niger's new biometric national identity card, per the Agence Nigerienne de Presse ([source, 2026-04-25](https://anp.ne/niger-lancement-officiel-de-la-carte-didentite-nationale-biometrique-aes-a-niamey/)).
 - Alitisal Aljadeed's engineer says the biometric ID card and passport project, run as a public-private partnership with a local company, includes training of local teams to transfer skills ([source, 2026-03-06](https://www.lesahel.org/projet-des-nouveaux-passeports-et-cartes-biometriques-du-niger-le-secretaire-general-du-ministere-de-linterieur-visite-les-services-concernes-pour-apprecier-letat-de-mise-en-o/)).
 
 ### Zambia: 2 Nascent
@@ -350,12 +357,6 @@ The foreign supplier's contract ended in 2024 and a new company took over; who r
 Not established: Pangea's maintenance contract ended in December 2024 and a new company took over; nothing says who that is or who runs the system now.
 
 ### Burundi: No evidence
-
-Nothing found names who operates the national ID system or says there is none, so no stage is set.
-
-Not established: Nothing found says who operates the national ID system.
-
-### Cape Verde: No evidence
 
 Nothing found names who operates the national ID system or says there is none, so no stage is set.
 

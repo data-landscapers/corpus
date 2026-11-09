@@ -4,15 +4,15 @@
     {
       "sub_indicator": "maintenance",
       "stage": "2",
-      "operation": "transfer",
+      "operation": "supplier",
       "maintenance": "",
       "ownership": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NER-001",
-      "gaps": "No source found says a national authority runs the system day to day.",
-      "note": "The ID card project, a public-private partnership, trains local teams to take over. Nothing says a national authority runs it day to day.",
-      "as_at": "2026-11-07"
+      "stage_sources": "NER-002;NER-001",
+      "gaps": "No source found says a national authority runs the system day to day. In April 2026 a Libyan company provided card production.",
+      "note": "A Libyan company produces the new biometric card, launched in April 2026, while the project trains local teams to take over: a transfer of skills while a supplier runs it, rung 2. Nothing says a national authority runs it day to day.",
+      "as_at": "2026-11-09"
     }
   ]
 }

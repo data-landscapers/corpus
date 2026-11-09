@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "maintenance",
-      "stage": "no evidence",
-      "operation": "",
+      "stage": "2",
+      "operation": "transfer",
       "maintenance": "",
       "ownership": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says who operates the national ID system.",
-      "note": "No row on who runs or maintains the national ID system is held.",
-      "as_at": "2026-11-07"
+      "stage_sources": "CPV-001",
+      "gaps": "No source found says who operates the national ID system day to day, who maintains it, or whether the state owns its code.",
+      "note": "A September 2025 resolution lets the national press take over buying, personalising and issuing the electronic ID card, to cut dependence on outside suppliers: a stated move to national operation, rung 2. Nothing says a national authority runs the ID system itself, so not 3.",
+      "as_at": "2026-11-09"
     }
   ]
 }

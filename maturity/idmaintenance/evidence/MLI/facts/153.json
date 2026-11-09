@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-16-mli-identification-un-nouveau-systeme-biometrique-lance-pour-la-souveraine",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "Mali's Ministry of Territorial Administration says the new sovereign Mali Kura Biometrie system now runs RAVEC data management and the national civil-status data centre CTDEC has ended issuing temporary NINA numbers.",
+   "as_of": "2024-02-14",
+   "date_precision": "day",
+   "system": "Mali Kura Biometrie",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mali Kura Biometrie",
+   "country_label": "Mali",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of Territorial Administration and Decentralisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

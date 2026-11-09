@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-15-som-from-exclusion-to-identity",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "UNDP Somalia says NIRA deployed its own trained staff, equipment and biometric technology to run the Baidoa registrations and is processing 12,000 to 15,000 registrations a day.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Somali National ID system (NIRA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Somali National ID system",
+   "country_label": "Somalia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

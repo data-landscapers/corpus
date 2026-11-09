@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-16-tza-nida-yapongezwa-kumaliza-kero-ya-vitambulisho",
+ "facts": [
+  {
+   "sub_indicator": "maintenance",
+   "aspect": "operation",
+   "value": "national",
+   "fact": "Parliament's committee visited NIDA's main centre for processing and keeping people's data, where NIDA itself printed 20,548,067 national IDs by February 2024, per Deputy Minister Jumanne Sagini.",
+   "as_of": "2024-03-15",
+   "date_precision": "day",
+   "system": "NIDA national ID system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National ID project (NIN and national ID card)",
+   "country_label": "Tanzania",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority (NIDA)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
