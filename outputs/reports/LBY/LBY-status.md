@@ -1,12 +1,12 @@
 ---
 title: Libya: status report
-compiled: 2026-11-08
+compiled: 2026-11-09
 place: LBY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 209
+sources_cited: 210
 sections_written: 39
 not_established: 0
 acquire_lines: 50
@@ -257,7 +257,7 @@ About 450,000 public-sector employees remained outside that system in September 
 ### AI
 <!-- tech.ai -->
 
-In October 2025 [LIBIGPT, a domestic generative-AI system, went public](https://libyaherald.com/2025/10/libyas-first-ai-system-libigpt-launched-in-presence-of-minister-of-economy-and-trade). In April 2026 [Tadamon Bank was building an AI chatbot and voice service with an Indian vendor](https://alwasat.ly/news/economy/516048). [In early 2026 the audit bureau began building an in-house AI model, Diwan Bot, for audit analysis](https://lana.gov.ly/post.php?id=358534&lang=en). [The labour ministry's AI-supported platform was about 30% complete in April 2026](https://ar.libyaobserver.ly/article/36835).
+In October 2025 [LIBIGPT, a domestic generative-AI system, went public](https://libyaherald.com/2025/10/libyas-first-ai-system-libigpt-launched-in-presence-of-minister-of-economy-and-trade). In April 2026 [Tadamon Bank was building an AI chatbot and voice service with an Indian vendor](https://alwasat.ly/news/economy/516048). [In early 2026 the audit bureau began building an in-house AI model, Diwan Bot, for audit analysis](https://lana.gov.ly/post.php?id=358534&lang=en). [The labour ministry's AI-supported platform was about 30% complete in April 2026](https://ar.libyaobserver.ly/article/36835). [On 8 November 2026 the ministry reported it ready for web use, with mobile apps to follow](https://lana.gov.ly/post.php?id=369567&lang=ar).
 
 [Libya's June 2026 AI strategy commits the Tripoli government to a National Data Exchange Platform by 2028](https://www.gia.gov.ly/en/2026/06/02/libya-adopts-the-ethical-charter-and-artificial-intelligence-strategy-with-a-2030-vision-and-ambitious-goals/). [It aims to automate half of government transactions and digitise 70% of paper records by 2030](https://www.gia.gov.ly/en/2026/06/02/libya-adopts-the-ethical-charter-and-artificial-intelligence-strategy-with-a-2030-vision-and-ambitious-goals/). [It also plans AI models to detect financial fraud and money laundering](https://www.gia.gov.ly/en/2026/06/02/libya-adopts-the-ethical-charter-and-artificial-intelligence-strategy-with-a-2030-vision-and-ambitious-goals/). [The communications ministry's 2024 National Artificial Intelligence Policy remains the single published instrument covering AI alongside eight other domains](https://www.cim.gov.ly/media-center/66).
 

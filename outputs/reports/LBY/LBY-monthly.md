@@ -1,11 +1,11 @@
 ---
 title: Libya — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: LBY
-ledger_rows: 20
+ledger_rows: 21
 not_held: 3
-record: c6ad496c1286
+record: 0ca7d1692cbc
 ---
 
 # News, Oct – Nov 2026
@@ -20,6 +20,8 @@ record: c6ad496c1286
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dpi">DPI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -309,6 +311,28 @@ Libya's Audit Bureau presented its Athar platform for managing and following up 
 **[مصلحة الجوازات تتلقى 773 طلباً للحصول على التأشيرات الإلكترونية خلال أسبوع](https://lana.gov.ly/post.php?id=368841&lang=ar)** — Libyan News Agency (LANA), 29 October 2026
 
 Libya's Passports, Nationality and Foreigners Affairs Authority received 773 e-visa applications from 78 nationalities between 23 and 29 October 2026. It approved 610 and refused 65, and 98 were still pending.
+
+</div>
+
+</div>
+
+## Technology
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
+<a href="#ai">AI</a>
+</nav>
+
+### AI
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Labour ministry integrated AI-supported platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزارة العمل والتأهيل تستعد لتشغيل منصتها الشاملة وتوحيد بياناتها ](https://lana.gov.ly/post.php?id=369567&lang=ar)** — Libyan News Agency (LANA), 8 November 2026
+
+Libya's Ministry of Labour and Rehabilitation said on 8 November 2026 that its digital platform is ready for web use, with iOS and Android versions to follow. The minister ordered staff data registration to be completed so that the platform's unified database can go live. The implementer is Nasr Global IT.
 
 </div>
 
