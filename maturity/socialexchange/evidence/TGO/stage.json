@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "exchange",
-      "stage": "2",
-      "exchange": "underway",
+      "stage": "3",
+      "exchange": "inservice",
       "registry": "",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TGO-008;TGO-001",
-      "gaps": "No source found since October 2023 says a registry or programme exchanges data in use.",
-      "note": "First pass: counted from the four questions by study-ladder-socialexchange.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "TGO-009",
+      "gaps": "No source found since October 2023 says two or more programmes draw their beneficiaries from the RSPM in use, or that it is linked to civil registration, health, education or tax.",
+      "note": "In March 2026 the World Bank said the e-ID is fully interoperable with the RSPM social registry and authenticates Novissi cash-transfer beneficiaries, so a registry exchanges data in use. No second programme drawing on the shared registry is shown, so not 4.",
+      "as_at": "2026-11-09"
     }
   ]
 }

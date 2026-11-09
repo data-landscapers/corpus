@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-25-tgo-wb-wuri-phase-2-restructuring-paper-res01578",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "inservice",
+   "fact": "The World Bank says Togo's e-ID is fully interoperable with the dynamic social registry (RSPM) and integrated into the Novissi platform.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "RSPM",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

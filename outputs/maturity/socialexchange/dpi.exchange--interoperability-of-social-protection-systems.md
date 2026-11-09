@@ -22,8 +22,8 @@ The African Union's Protocol on Social Protection asks for a social protection i
 |---|---|
 | 5 Leading | 3 |
 | 4 Operating | 14 |
-| 3 Established | 11 |
-| 2 Nascent | 16 |
+| 3 Established | 12 |
+| 2 Nascent | 15 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 9 |
@@ -200,6 +200,12 @@ A social protection system exchanged data in 2025; no source found reports a reg
 
 - The World Bank's completion report dated 28 February 2025 is catalogued as stating that the project MIS held a data-sharing platform linked to the National Civil Registry via API and to payment providers, but the captured text stops before that narrative, so the date used is the report's published date ([source, 2025-02-28](https://documents1.worldbank.org/curated/en/099022825170010485/pdf/BOSIB-b08fcd99-e483-44a2-b32b-5fe82545b0b8.pdf)).
 
+### Togo: 3 Established
+
+Togo's e-ID exchanged data with the social registry in 2026; whether several programmes share that registry is not known.
+
+- The World Bank says Togo's e-ID is fully interoperable with the dynamic social registry (RSPM) and integrated into the Novissi platform ([source, 2026-03](https://documents1.worldbank.org/curated/en/099032526174532318/pdf/P169594-5fd6786a-2b45-425b-95b6-0e79d792a6fb.pdf)).
+
 ### Tunisia: 3 Established
 
 A social protection system exchanged data in 2026; no source found reports a registry shared by programmes.
@@ -297,13 +303,6 @@ A link between social protection systems was under way in 2026; none in service 
 A link between social protection systems was under way in 2023; none in service is on record.
 
 - The World Bank technical note says the initial SPRINT configuration would upload existing beneficiary and applicant data from current and former programmes, and that a data sharing policy would be developed for exchanges with external entities ([source, 2023](https://documents1.worldbank.org/curated/en/099060123071017741/txt/P1749420c981460708f7206678358ba026.txt)).
-
-### Togo: 2 Nascent
-
-A link between social protection systems was under way in 2025; none in service is on record.
-
-- Togo's presentation says the RSPM was being integrated in 2025 to link socio-economic data across institutions through the e-ID, over the RSIA ([source, 2025](https://www.id4africa.com/2025/files/T1-P2-S1-3_TOGO-final.pdf)).
-- The Ministry of Planning reports that on 18 December 2025 the government launched the cash-transfer component of the Programme National de Protection Sociale, for more than 700,000 people targeted by INSEED and ANADEB, to be paid at 25,000 FCFA per household through mobile money (Mixx by Yas and Flooz) ([source, 2025-12-18](https://planification.gouv.tg/programme-national-de-la-protection-sociale-le-ministre-sandra-lance-loperationnalisation-des-transferts-monetaires/)).
 
 ### Zambia: 2 Nascent
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-16-gab-p175987-amendment-letter-loan-agreement-digital-gabon",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "underway",
+   "fact": "The amended Digital Gabon financing agreement (effective 2 September 2026) provides for integrating the CNAM-GS social protection beneficiary registry into the Interoperability Platform and linking it to the RBPP ID system.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "CNAM-GS social protection beneficiary registry",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
