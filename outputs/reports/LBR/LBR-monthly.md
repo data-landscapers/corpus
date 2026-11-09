@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: LBR
-ledger_rows: 19
+ledger_rows: 20
 not_held: 6
-record: 06994754f37a
+record: 8c5370667ce3
 ---
 
 # News, Oct – Nov 2026
@@ -343,6 +343,20 @@ Liberia's online police clearance system has generated more than US$200,000 sinc
 **[Liberia to Digitalize 16 Key Government Services with World Bank Support](https://frontpageafricaonline.com/liberia-to-digitalize-16-key-government-services-with-world-bank-support/)** — FrontPage Africa, 20 October 2026
 
 Liberia's Office of the Chief Information Officer met ministries and agencies on 17 and 18 October 2026 to validate 16 priority government services for digitalisation with World Bank support. They assessed readiness and procurement for an e-Liberia one-stop portal, a Government Service Bus for real-time data sharing, National Data Center upgrades and digitised County Service Centers.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Revenue authority public revenue dashboard</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[LRA Commissioner General Highlights Revenue Growth, Accountability and Digital Reforms at ATAF Meetings](https://knewsonline.com/lra-commissionergeneral-highlights-revenue-growth-accountability-and-digital-reforms-at-ataf-meetings)** — Knews Liberia, 8 November 2026
+
+The Liberia Revenue Authority showed a public revenue dashboard and an AI virtual taxpayer assistant, Fatu, at the African Tax Administration Forum meetings in Cairo, reported on 8 November 2026. The dashboard gives monthly collections by revenue category and tax type. Commissioner General James Dorbor Jallah said collections rose from US$612 million in 2023 to US$848 million in 2025.
 
 </div>
 
