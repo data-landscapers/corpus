@@ -1,12 +1,12 @@
 ---
 title: Morocco: status report
-compiled: 2026-11-07
+compiled: 2026-11-09
 place: MAR
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 13
-sources_cited: 250
+sources_cited: 251
 sections_written: 39
 not_established: 1
 acquire_lines: 61
@@ -175,7 +175,7 @@ What the layer has not delivered shows in the ombudsman's diagnosis of why Moroc
 ### Digital Identity and CRVS
 <!-- dpi.id -->
 
-The credential and the digital identity built on it are on different scales. The DGSN [issued about 4.6 million electronic national identity cards during 2024](https://www.moroccoworldnews.com/2024/12/166797/dgsn-issued-record-4-6-million-digital-ids-slashed-crime-rates-in-2024), a record year, while users of the national digital identity platform were still [counted in the millions by September 2025](https://www.biometricupdate.com/202509/idakto-cso-explains-moroccos-move-to-prioritize-digital-id-after-cyberattacks).
+The credential and the digital identity built on it are on different scales. The DGSN [issued about 4.6 million electronic national identity cards during 2024](https://www.moroccoworldnews.com/2024/12/166797/dgsn-issued-record-4-6-million-digital-ids-slashed-crime-rates-in-2024), a record year. [The national digital identity platform built on it had 5 million users in the first quarter of 2026, with 15 million transactions since 2022](https://id4africa.com/2026/files/T1-1-4-Morocco-FINAL.pdf).
 
 Holding the card is [compulsory from the age of 16, on pain of a fine](https://en.bladi.net/morocco-introduces-mandatory-electronic-cards-citizens-and-older,72638.html), and it is [codified as proof of identity and nationality](https://id4d.worldbank.org/sites/default/files/2018-04/Morocco_ID4D_Diagnostic_Web404018.pdf), replacing the birth certificate, the certificate of residence, the proof of life and the certificate of nationality. Records sit in a [fully electronic central registry deduplicated by automated fingerprint matching](https://id4d.worldbank.org/sites/default/files/2018-04/Morocco_ID4D_Diagnostic_Web404018.pdf), and the chip [carries ten-print and facial templates, with liveness detection for remote authentication and no iris capture](https://www.idemia.com/wp-content/uploads/2022/06/idemia-national-digital-id-program-kingdom-morocco-case-study-202206.pdf). The identifier behind it starts at birth: [Law 36.21 on civil status, as consolidated with the amending Law 16.25 published on 29 January 2026, assigns the civil and social digital identifier at birth registration to every Moroccan and every foreign resident in Morocco](https://adala.justice.gov.ma/api/uploads/2026/02/03/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.21.81%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2036.21%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D8%A9%20%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9-1770131346033.pdf).
 
