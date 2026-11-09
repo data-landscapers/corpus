@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-sle-the-low-drive-for-national-identification-system-in-sierra-leone",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "twothirds",
+   "fact": "NCRA's director of information says it is safer to say 80 percent of Sierra Leoneans are registered, though how many collected the ID is unclear.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National Identity Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Card",
+   "country_label": "Sierra Leone",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NCRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

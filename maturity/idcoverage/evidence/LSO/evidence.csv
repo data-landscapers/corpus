@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+LSO-001,LSO,coverage,share,third,"ID4Africa deck states 'NID coverage is currently 90%' (undated within the deck, population base not stated).",2025,year,NICR,idsystem,2025-01-01-lso-identity-in-finance-a-case-study-of-the-kingdom-of-lesotho,https://www.id4africa.com/2025/files/T3-P3-S2-4-Lesotho_FINAL.pdf

@@ -23,10 +23,10 @@ The African Union's Digital Transformation Strategy sets a target of 99.9% of pe
 | 5 Leading | 0 |
 | 4 Operating | 0 |
 | 3 Established | 7 |
-| 2 Nascent | 8 |
+| 2 Nascent | 9 |
 | 1 Absent | 8 |
 | Unplaced | 2 |
-| No evidence | 29 |
+| No evidence | 28 |
 
 ## Countries
 
@@ -107,6 +107,12 @@ A third of the population or more held a national ID in 2024.
 A third of the population or more held a national ID in 2025.
 
 - The Interior Ministry announced 9,010,191 people registered on the RNPP after 111,319 confirmed duplicates were removed, about 59.7% of the 15.1 million population (share computed from the population held) ([source, 2025-07-19](https://mediaguinee.com/2025/07/ibrahima-kalil-conde-matd-ce-processus-de-constitution-du-rnpp-et-du-fichier-electoral-va-permettre-a-la-guinee-de-tourner-definitivement-la-page-des-contestations/)).
+
+### Lesotho: 2 Nascent
+
+A 2025 government figure put national ID coverage at 90%; whether that is of the whole population is not known.
+
+- ID4Africa deck states 'NID coverage is currently 90%' (undated within the deck, population base not stated) ([source, 2025](https://www.id4africa.com/2025/files/T3-P3-S2-4-Lesotho_FINAL.pdf)).
 
 ### Malawi: 2 Nascent
 
@@ -292,12 +298,6 @@ Nothing found names a count of people holding a national ID or says there is non
 Not established: Nothing found counts the people holding a national ID.
 
 ### Kenya: No evidence
-
-Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
-
-Not established: Nothing found counts the people holding a national ID.
-
-### Lesotho: No evidence
 
 Nothing found names a count of people holding a national ID or says there is none, so no stage is set.
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-24-rwa-rwanda-inside-rwanda-s-move-to-a-biometric-digital-id",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "below",
+   "fact": "NIDA's Director General says over 300,000 people had registered for the new digital ID by 20 November 2025, in a population the article's link says passes 13 million.",
+   "as_of": "2025-11-20",
+   "date_precision": "day",
+   "system": "digital ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

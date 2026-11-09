@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "coverage",
-      "stage": "no evidence",
-      "share": "",
+      "stage": "2",
+      "share": "third",
       "everyone": "",
       "births": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found counts the people holding a national ID.",
-      "note": "No row on this sub-indicator is held, so no stage is set.",
-      "as_at": "2026-11-06"
+      "stage_sources": "LSO-001",
+      "gaps": "No source found since October 2023 counts two-thirds of the population or more holding a national ID. The 90% national ID coverage in an undated 2025 deck gives no base, so it may be a share of those eligible rather than of the population.",
+      "note": "A 2025 government deck puts national ID coverage at 90%, which shows a third of the population or more whatever its base. Without a base it does not show two-thirds.",
+      "as_at": "2026-11-09"
     }
   ]
 }

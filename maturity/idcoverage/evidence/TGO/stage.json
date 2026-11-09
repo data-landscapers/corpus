@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TGO-002;TGO-010",
-      "gaps": "No source found since October 2023 counts 99.9% of the population or more holding a national ID.",
+      "gaps": "No source found since October 2023 counts 99.9% of the population or more holding a national ID. The World Bank counted nearly 4 million enrolled, 49% of the population, in March 2026, against the government's more than 6 million numbers at the end of 2025; ANID's September 2026 count of more than six million is the newest.",
       "note": "More than 6 million with a NIU at the end of 2025 and in September 2026 are about 70% of the population. Nothing counts 99.9%.",
-      "as_at": "2026-11-06"
+      "as_at": "2026-11-09"
     }
   ]
 }

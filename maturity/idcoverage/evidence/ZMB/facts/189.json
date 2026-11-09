@@ -1,0 +1,15 @@
+{
+ "slug": "2024-04-04-zmb-zambian-govt-doesnt-want-to-see-hungry-citizens-enroll-for-digital-id",
+ "facts": [],
+ "systems": [
+  {
+   "system": "INRIS",
+   "country_label": "Zambia",
+   "class": "idsystem",
+   "platform": "Dermalog",
+   "owner": "Department of National Registration, Passport and Citizenship",
+   "tiers": ""
+  }
+ ],
+ "note": "A count of over one million registered (September 2023) is given but no share of the population."
+}

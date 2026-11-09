@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-25-tgo-wb-wuri-phase-2-restructuring-paper-res01578",
+ "facts": [
+  {
+   "sub_indicator": "coverage",
+   "aspect": "share",
+   "value": "third",
+   "fact": "The World Bank says Togo's mass registration campaign has enrolled nearly 4 million people, 49% of the population, and delivered 2.6 million ID credentials against a target of 7 million.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Togo e-ID",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

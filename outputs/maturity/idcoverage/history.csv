@@ -57,3 +57,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-06,ZMB,dpi.id--registration-of-entire-population,review,1,1,ZMB-001;ZMB-002,Rebuild: second reading of the first-pass cell agrees with the stage; sources set to the newest count.
 2026-11-06,ZWE,dpi.id--registration-of-entire-population,review,no evidence,no evidence,,Rebuild: no row on this sub-indicator is held; no evidence stands.
 2026-11-07,NER,dpi.id--registration-of-entire-population,fact,1,1,NER-003;NER-001,"On 7 October 2026 the director general said fewer than 3 million hold the card, confirming the lower Diffa reading: about 11%, stage 1."
+2026-11-09,LSO,dpi.id--registration-of-entire-population,fact,no evidence,2,LSO-001,"ID4Africa 2025 deck: NID coverage 90%, base not stated; read as a third or more"
+2026-11-09,TGO,dpi.id--registration-of-entire-population,fact,3,3,TGO-002;TGO-010,"World Bank WURI 2 paper, March 2026: nearly 4 million enrolled, 49%; ANID's September 2026 count of over 6 million is newer, stage holds"
