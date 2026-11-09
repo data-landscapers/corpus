@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-bfa-burkina-faso-le-nouveau-regime-juridique-de-l-identification-des-abonn",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Decree 2023-1721 of 15 December 2023, as read by Africa Data Protection, lets a subscriber identify for a SIM with a refugee identity card or a refugee certificate from the National Commission for Refugees.",
+   "as_of": "2023-12-15",
+   "date_precision": "day",
+   "system": "Decree 2023-1721",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

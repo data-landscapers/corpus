@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-04-ken-murkomen-announces-national-drive-to-accelerate-id-collection-digital",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Murkomen said the government is registering aliens and that all refugees will be registered so they can access services.",
+   "as_of": "2025-10-03",
+   "date_precision": "day",
+   "system": "Refugee registration",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

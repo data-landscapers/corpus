@@ -1,17 +1,18 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "displaced",
-   "stage": "2",
-   "registration": "underway",
-   "access": "",
-   "counted": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-001",
-   "gaps": "No source found since October 2023 says: are they registered and documented.",
-   "note": "First pass: counted from the four questions by study-ladder-refugees.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "displaced",
+      "stage": "3",
+      "registration": "documented",
+      "access": "",
+      "counted": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-002;NAM-001",
+      "gaps": "No source found since October 2023 says refugees or displaced people may register SIM cards, open accounts or enrol in the national ID, or counts those who have.",
+      "note": "The Home Affairs minister said 682 African guest identity cards were issued to refugees in 2025, a number of documents issued, so 3. The UNHCR mobile money cash transfers in Osire are a programme for refugees, not a stated right to hold a SIM or account, so not 4.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }

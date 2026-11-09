@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-16-nga-126m-nigerians-secure-nin-database-capacity-hits-250m-fg",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "access",
+   "value": "open",
+   "fact": "President Tinubu said special exercises were conducted to enrol refugees and internally displaced persons in the national identity database.",
+   "as_of": "2025-09-16",
+   "date_precision": "day",
+   "system": "National Identity Database",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -22,8 +22,8 @@ The Kampala Convention asks for registers and documents for internally displaced
 |---|---|
 | 5 Leading | 4 |
 | 4 Operating | 7 |
-| 3 Established | 16 |
-| 2 Nascent | 10 |
+| 3 Established | 17 |
+| 2 Nascent | 9 |
 | 1 Absent | 5 |
 | Unplaced | 4 |
 | No evidence | 8 |
@@ -180,6 +180,13 @@ Refugees or displaced people were registered and documented in 2025; their acces
 
 - The National Director of Registries and Notaries says more than 145,000 IDPs have been registered since the attacks in the north began, with retroactive birth registration facilitated by the government with UNICEF, IOM and the World Bank ([source, 2025](https://www.child-identity.org/wp-content/uploads/2025/06/Arnaldo-ENglish-Reuniao-de-Lanc%C2%B8amento-Regional-do-Quadro-de-Programa-Estrate%C2%B4gico-para-o-Fortalecimento-do-RCEV-ENGL-1-002-en-GB.pdf)).
 
+### Namibia: 3 Established
+
+Namibia issued 682 identity cards to refugees in 2025; whether refugees may hold SIM cards or accounts in their own name is not known.
+
+- Minister Iipumbu said 682 African guest identity cards were issued to refugees in 2025 to ease access to education, employment and financial services ([source, 2025](http://www.namibiansun.com/nmh-hub/over-117-000-ids-issued-in-2025-nmh006942-1-7902)).
+- UNHCR, with the government of Namibia, launched cash-based interventions delivered through MTC Namibia's mobile money service for refugees and asylum-seekers in Osire settlement, benefiting around 6,000 individuals and over 1,000 households ([source, 2025-02](https://namibia.un.org/en/289948-cash-based-interventions-provide-ray-hope-refugees-namibia-amid-severe-drought-and-funding)).
+
 ### Sudan: 3 Established
 
 Refugees or displaced people were registered and documented in 2026; their access to digital services is not on record.
@@ -232,12 +239,6 @@ Registration or a digital service for refugees or displaced people was under way
 
 - The RAMCO (formerly LRRRC) Executive Director said the Commission signed an MoU with the National Identification Registry and the Liberia Immigration Service to enhance identity management and legal documentation for persons of concern, especially refugees opting for integration ([source, 2026-06-24](https://lina.micat.gov.lr/lrrrc-rebrands-to-ramco-expands-mandate-to-cover-all-human-mobility/)).
 - Biometric Update reports, citing an LRRRC statement, that the LRRRC, NIR and LIS signed an MoU under which the NIR is to enrol eligible refugees, including integrated Ivorian refugees, in the National Biometric Identification System and issue biometric Refugee Identification cards ([source, 2026-03-04](https://www.biometricupdate.com/202603/liberia-govt-agencies-agree-on-framework-for-refugee-biometric-id)).
-
-### Namibia: 2 Nascent
-
-Registration or a digital service for refugees or displaced people was under way in 2025; documents issued are not on record.
-
-- UNHCR, with the government of Namibia, launched cash-based interventions delivered through MTC Namibia's mobile money service for refugees and asylum-seekers in Osire settlement, benefiting around 6,000 individuals and over 1,000 households ([source, 2025-02](https://namibia.un.org/en/289948-cash-based-interventions-provide-ray-hope-refugees-namibia-amid-severe-drought-and-funding)).
 
 ### Niger: 2 Nascent
 

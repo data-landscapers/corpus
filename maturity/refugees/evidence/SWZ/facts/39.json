@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-26-swz-deputy-governor-s-speech-the-nexus-between-aml-cft-and-financial-inclu",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "The Central Bank of Eswatini and the Commissioner for Refugees recommend a permit or registration document for all refugees, to register them on the national civil registry and give them a national ID number; not yet implemented.",
+   "as_of": "2025-02-26",
+   "date_precision": "day",
+   "system": "Refugee registration on national civil registry",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

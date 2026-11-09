@@ -1,0 +1,37 @@
+{
+ "slug": "2026-01-15-som-from-exclusion-to-identity",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "documented",
+   "fact": "UNDP Somalia says a Baidoa pilot with NIRA registered 38,026 internally displaced people for the national ID in one month.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Baidoa IDP registration pilot",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "access",
+   "value": "open",
+   "fact": "UNDP Somalia says displaced people in Baidoa enrolled in the national digital ID system, and that from January 2026 the ID will be required for services such as opening a bank account.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Somali National ID system (NIRA)",
+   "class": "displaced"
+  },
+  {
+   "sub_indicator": "displaced",
+   "aspect": "counted",
+   "value": "counted",
+   "fact": "UNDP Somalia counts 38,026 internally displaced people enrolled in the national ID in the Baidoa pilot, against 500,000 IDPs in Baidoa.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Baidoa IDP registration pilot",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
