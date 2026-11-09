@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-04-mli-usurpation-des-donnees-nina-sur-les-cartes-sim-le-ministere-des-tics-l",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "use",
+   "value": "unnamed",
+   "fact": "Several suspects were arrested at the Pole national de lutte contre la cybercriminalite over fraudulent use of NINA data to register SIM cards, per the ministry as reported; no law or offence is named.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Pole national de lutte contre la cybercriminalite",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
