@@ -1,12 +1,12 @@
 ---
 title: South Africa: status report
-compiled: 2026-11-08
+compiled: 2026-11-09
 place: ZAF
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 12
-sources_cited: 348
+sources_cited: 350
 sections_written: 39
 not_established: 1
 acquire_lines: 49
@@ -62,7 +62,7 @@ On 13 November 2025 the Competition Commission [closed its Media and Digital Pla
 
 [The National Radio Frequency Plan 2026 re-bases the allocation table on the ITU Radio Regulations 2024](https://www.gov.za/documents/notices/electronic-communications-act-national-radio-frequency-plan-2026-24-jul-2026). [It aligns to AfriSAP and the SADC Frequency Allocation Plan](https://www.gov.za/documents/notices/electronic-communications-act-national-radio-frequency-plan-2026-24-jul-2026). [A Reserve Bank directive gazetted on 1 April 2025 moves low-value transfers within the Common Monetary Area onto the SADC instant scheme by 1 April 2027](https://www.gov.za/sites/default/files/gcis_document/202504/52435gon3106.pdf).
 
-[A private terrestrial fibre route has run from Mombasa to Johannesburg through the DRC since May 2023](https://liquid.tech/about-us/news/liquid-dataport-launches-the-first-terrestrial-data-superhighway-connecting-mombasa-to-johannesburg/). [The METISS cable has linked Mauritius, Réunion and Madagascar to a landing near Durban since March 2021](https://fibernet.ceb.mu/wp-content/uploads/2021/03/2021-03-17-MISE-EN-SERVICE-DU-CABLE-METISS.pdf). [Google's Umoja route from Kenya to Johannesburg had its terrestrial path built by May 2024](https://cloud.google.com/blog/products/infrastructure/investing-in-connectivity-and-growth-for-africa). [In 2019 the state wholesaler Broadband Infraco reached the borders of all six land neighbours](https://www.itweb.co.za/article/broadband-infraco-intensifies-capacity-to-platinum-belt/LPwQ57lynQmMNgkj).
+[A private terrestrial fibre route has run from Mombasa to Johannesburg through the DRC since May 2023](https://liquid.tech/about-us/news/liquid-dataport-launches-the-first-terrestrial-data-superhighway-connecting-mombasa-to-johannesburg/). [The METISS cable has linked Mauritius, Réunion and Madagascar to a landing near Durban since March 2021](https://fibernet.ceb.mu/wp-content/uploads/2021/03/2021-03-17-MISE-EN-SERVICE-DU-CABLE-METISS.pdf). [Google's Umoja route from Kenya to Johannesburg had its terrestrial path built by May 2024](https://cloud.google.com/blog/products/infrastructure/investing-in-connectivity-and-growth-for-africa). [A terrestrial route from Luanda to Cape Town through Kinshasa was launched in July 2023](https://acp.cd/nation/fibre-optique-lancement-de-la-connectivite-terrestre-entre-luanda-et-cape-town-a-kinshasa/). [In October 2025 a 10 Gbps research-network link from Lagos reached the ZAOXI exchange in Cape Town](https://wacren.net/en/newsletter/africas-research-and-education-networks-achieve-historic-lagos-cape-town-interconnection/). [In 2019 the state wholesaler Broadband Infraco reached the borders of all six land neighbours](https://www.itweb.co.za/article/broadband-infraco-intensifies-capacity-to-platinum-belt/LPwQ57lynQmMNgkj).
 
 [On 26 August 2026 the revenue service hosted five customs administrations that adopted a roadmap for customs data exchange](https://trademarkafrica.com/five-southern-african-customs-administrations-agree-on-a-roadmap-for-faster-digitally-connected-trade-corridors/). [The instant payment rail settles across borders through the SADC scheme, with live corridors to Zambia, Zimbabwe, Namibia, Lesotho and Eswatini](https://techcentral.co.za/payshap-cross-border-settlements-sadc/240568/). [South Africa left the Financial Action Task Force grey list in October 2025, having been placed on it in February 2023](https://www.sundaytimes.timeslive.co.za/business/2026-08-04-crackdown-on-crypto-flows-aims-to-keep-sa-off-greylist/).
 

@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: ZAF
-ledger_rows: 90
+ledger_rows: 91
 not_held: 19
-record: c7fd6c647d30
+record: b03e9f6d8c03
 ---
 
 # News, Oct – Nov 2026
@@ -1305,6 +1305,20 @@ Summarised under [Data Exchange](#data-exchange).
 **[Operation Vulindlela implementation continues to make strides](https://www.sanews.gov.za/south-africa/operation-vulindlela-implementation-continues-make-strides)** — SAnews (South African Government News Agency), 30 October 2026
 
 Summarised under [Data Exchange](#data-exchange).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electoral Commission voter management devices</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Technology streamlines 2026 voting process](https://www.sanews.gov.za/south-africa/technology-streamlines-2026-voting-process)** — SAnews (South African Government), 8 November 2026
+
+South Africa's Electoral Commission used 56,000 voter management devices in the 2026 Local Government Elections, Chief Electoral Officer Sy Mamabolo said on 8 November 2026. That is 16,000 more than its 2021 fleet. Of the new devices, 8,000 were bought and 8,000 donated by Gauteng. The results API took 14.3 million requests. 1,149 users joined the new Virtual Results Operating Centre.
 
 </div>
 
