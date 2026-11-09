@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-ken-the-kenya-digital-identity-playbook-identity-as-foundation-of-digital",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The deck says the Registration of Persons Act, Cap. 107, established in 1978, provides for mandatory identification, registration and issue of identity cards to citizens aged 18 and over.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Registration of Persons Act, Cap. 107",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registration of Persons Act, Cap. 107",
+   "country_label": "Kenya",
+   "class": "law",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

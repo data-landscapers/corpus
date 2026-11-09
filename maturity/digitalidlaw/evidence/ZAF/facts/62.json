@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-19-zaf-pmg-nw6103-duplicate-missing-id-numbers",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "bill",
+   "fact": "The Minister of Home Affairs says the department is amending legislation, including the Digital ID Policy and National Identification Registration Bill.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "National Identification Registration Bill",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
