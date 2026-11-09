@@ -1,11 +1,11 @@
 ---
 title: Comoros — News, Oct – Nov 2026
-compiled: 2026-11-03
-period: 2026-10-01 to 2026-11-03
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: COM
-ledger_rows: 7
+ledger_rows: 8
 not_held: 22
-record: dd2883252152
+record: e823d241c010
 ---
 
 # News, Oct – Nov 2026
@@ -79,8 +79,26 @@ Bahrain's Information and eGovernment Authority held its first knowledge-exchang
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
 </nav>
+
+### Digital Identity and CRVS
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Identity requirement for MVola mobile-money accounts</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Conditions Générales d'Utilisation du Service TELCO MONEY (MVola)](https://www.mvola.km/wp-content/uploads/2026/11/Conditions-Generales-Utilisation.pdf)** — TELCO MONEY S.A., 1 November 2026
+
+Risk-tiered KYC: ID document and phone checks for individuals, beneficial owners for firms; records kept 10 years.
+
+</div>
+
+</div>
 
 ### Registries
 
