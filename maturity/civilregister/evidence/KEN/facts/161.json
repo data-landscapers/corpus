@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-ken-the-kenya-digital-identity-playbook-identity-as-foundation-of-digital",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "coverage",
+   "value": "general",
+   "fact": "The deck gives national birth registration coverage as 70%, with no statement that it is held in a digital system.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Civil Registration Services",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Civil Registration Services",
+   "country_label": "Kenya",
+   "class": "civil",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

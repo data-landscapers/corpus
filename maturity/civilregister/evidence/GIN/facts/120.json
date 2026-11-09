@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-24-gin-arrete-conjoint-a-2025-235-fixant-les-conditions-et-modalites-d-applic",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "A joint order of 24 March 2025 says the civil status ministry's services issue a digital, secured birth certificate free of charge, required for the biometric national ID card.",
+   "as_of": "2025-03-24",
+   "date_precision": "day",
+   "system": "acte de naissance numerique et securise",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

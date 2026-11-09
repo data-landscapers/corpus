@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-16-gab-p175987-amendment-letter-loan-agreement-digital-gabon",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "The amended Digital Gabon financing agreement (effective 2 September 2026) finances developing a fully digitalised civil registry system and digitising legacy paper civil registry records.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "digitalised Civil Registry (CR) system",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -44,6 +44,11 @@ CIV,Cityweb,Cityweb,civil,,ONECI,,2024-10-27-civ-cni-double-identite-enregistrem
 CIV,CityWeb,CityWeb (ONECI),civil,web application,ONECI,"communes, sub-prefectures, prefectures",2026-10-27-civ-digitalisation-trois-outils-de-modernisation-de-letat-civil
 CIV,CityWeb,Cote d'Ivoire,civil,CityWeb,ONECI,centres,2026-10-29-etat-civil-le-cameroun-sinspire-de-la-cote-divoire-pour-interconnecter-ses
 CIV,Cityweb,Cote d'Ivoire,civil,,ONECI,692 civil registration centres,2026-02-10-civ-cote-d-ivoire-le-delai-de-delivrance-de-la-carte-nationale-d-identite
+CIV,RNPP,Côte d'Ivoire,other,,ONECI,,2024-07-16-civ-le-dg-de-l-oneci-echange-avec-la-presse-nationale
+CIV,City Web,Côte d'Ivoire,civil,,ONECI,,2024-07-16-civ-le-dg-de-l-oneci-echange-avec-la-presse-nationale
+CIV,RNPP,Côte d'Ivoire,other,,ONECI,,2024-07-15-civ-cote-d-ivoire-le-numerique-au-service-de-la-securite-et-la-fiabilite-d
+CIV,City Web,Côte d'Ivoire,civil,,ONECI,,2024-07-15-civ-cote-d-ivoire-le-numerique-au-service-de-la-securite-et-la-fiabilite-d
+CIV,CNI / NNI,Côte d'Ivoire,other,,ONECI,,2024-07-15-civ-cote-d-ivoire-le-numerique-au-service-de-la-securite-et-la-fiabilite-d
 CMR,BUNEC civil registry digitisation,Cameroon,civil,,BUNEC,,2026-09-16-cmr-ecomatin-bunec-52-milliards-numerisation-etat-civil
 CMR,SIGEC,Cameroon,civil,,BUNEC,commune,2026-08-25-undp-bertoua-sigec-digitalisation-etat-civil-est
 CMR,SANEC,Cameroon,civil,,BUNEC,commune,2026-08-25-undp-bertoua-sigec-digitalisation-etat-civil-est
@@ -139,6 +144,7 @@ KEN,Unique Personal Identifier (UPI),Kenya,other,,,,2026-10-06-ken-kenyans-e-not
 KEN,Live Capture Units,Kenya,other,,National Registration Bureau,county,2026-10-05-parliament-probes-delays-in-issuance-of-ids
 KEN,Electronic birth notification,Kenya,civil,,,,2026-06-26-ngao-trained-revised-id-registration
 KEN,e-birth register (digital birth registration e-service),Kenya,civil,,State Department for Immigration and Citizen Services,,2026-11-02-ken-birth-registration-e-service-reduces-admin-from-months-to-days
+KEN,Civil Registration Services,Kenya,civil,,Government of Kenya,,2026-05-01-ken-the-kenya-digital-identity-playbook-identity-as-foundation-of-digital
 LBR,Birth Registration Information Management System (BRIMS),Liberia,civil,DHIS2,"Ministry of Health, supported by UNICEF","15 counties, 58 centers",2024-12-11-unicef-liberia-children-legal-identity
 LBR,NID-CRVS system (proposed),Liberia,other,,National Identification Registry with OSD International,,2026-09-14-liberia-nid-crvs-link-osd-ppp-biometricupdate
 LBR,National Identification Central Digital Civil Registry and Vital Statistics System (NIDCRVS),NIDCRVS,other,,Government of Liberia (proposed; OeSD International GmbH as contractor),,2026-10-16-lbr-newdawn-house-scrutinizes-52m-national-id-deal

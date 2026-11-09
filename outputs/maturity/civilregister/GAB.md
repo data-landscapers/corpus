@@ -2,7 +2,7 @@
 
 ## Civil register
 
-**Births digital.** Gabon has one hospital platform for declaring births online. [The Libreville university hospital launched doctoViene in June 2024](<https://gabonmailinfos.com/doctoviene-une-application-pour-la-numerisation-des-certificats-de-naissance-au-chul/>). A private firm, Viene, built it. Birth certificates are stored in an electronic database. No source says births are registered digitally elsewhere, at other hospitals or at civil registry offices.
+**Births digital.** Gabon has one hospital platform for declaring births online. [The Libreville university hospital launched doctoViene in June 2024](<https://gabonmailinfos.com/doctoviene-une-application-pour-la-numerisation-des-certificats-de-naissance-au-chul/>). A private firm, Viene, built it. Birth certificates are stored in an electronic database. No source says births are registered digitally elsewhere, at other hospitals or at civil registry offices. [The Digital Gabon financing agreement, amended from 2 September 2026, funds a fully digital civil registry](<https://documents1.worldbank.org/curated/en/099090226132027563/pdf/P175987-8dfb5a41-ff83-4fc0-a597-c588997e88ba.pdf>) and the digitising of paper records.
 
 **Deaths digital.** No source found since October 2023 says deaths are registered in a digital system. The nearest fact is [the hospital birth platform launched in June 2024](<https://gabonmailinfos.com/doctoviene-une-application-pour-la-numerisation-des-certificats-de-naissance-au-chul/>).
 

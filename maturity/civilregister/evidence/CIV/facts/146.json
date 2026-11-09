@@ -1,0 +1,42 @@
+{
+ "slug": "2024-07-15-civ-cote-d-ivoire-le-numerique-au-service-de-la-securite-et-la-fiabilite-d",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "ONECI's director-general says the City Web civil-registration software, which centralises recording of civil-status events, is being rolled out and covers 302 of 690 centres.",
+   "as_of": "2024-07-15",
+   "date_precision": "day",
+   "system": "City Web",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNPP",
+   "country_label": "Côte d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  },
+  {
+   "system": "City Web",
+   "country_label": "Côte d'Ivoire",
+   "class": "civil",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  },
+  {
+   "system": "CNI / NNI",
+   "country_label": "Côte d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
