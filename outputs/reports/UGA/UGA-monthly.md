@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: UGA
-ledger_rows: 35
+ledger_rows: 37
 not_held: 12
-record: 173e84a10515
+record: 4898035c2660
 ---
 
 # News, Oct – Nov 2026
@@ -24,6 +24,8 @@ record: 173e84a10515
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geopolitics">Geopolitics</a>
 </nav>
@@ -315,6 +317,20 @@ Summarised under [Connectivity](#connectivity).
 **[Museveni Orders Cancellation of UTel Deal, Calls Investors ‘Bafere’ Over Missing $25 Million](https://nilepost.co.ug/news/376831/museveni-orders-cancellation-of-utel-deal-calls-investors-bafere-over-missing-25-million)** — Nile Post, 9 October 2026
 
 Uganda's President Yoweri Museveni ordered the cancellation of the government's agreement with Rowad Capital Commercial to revive Uganda Telecom at a State House meeting on 6 October 2026, according to unnamed meeting sources. The investor had not paid the initial US$25 million of a US$225 million package in four years. Ministries are to prepare a Cabinet paper on state funding for the revival.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Uganda-Tanzania fibre route on the transmission network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Questions swirl over internet deal between Uganda, Tanzania](https://www.monitor.co.ug/uganda/news/national/questions-swirl-over-internet-deal-between-uganda-tanzania-5654914)** — Monitor (Daily Monitor), 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
+
+USD 4.6m UETCL DWDM fibre deal steered to Samanga-Liquid JV by 27 July 2026 directive; NITA-U not involved.
 
 </div>
 
@@ -707,6 +723,28 @@ At a dialogue on Uganda's digital skills held by the Uganda Communications Commi
 **[Uganda’s digital skills gap threatens jobs despite expanding connectivity – UCC](https://pmldaily.com/news/2026/10/ugandas-digital-skills-gap-threatens-jobs-despite-expanding-connectivity-ucc.html)** — PML Daily, 22 October 2026
 
 Summarised under [Digital divides](#digital-divides).
+
+</div>
+
+</div>
+
+## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#national-statistics">National statistics</a>
+</nav>
+
+### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Women's digital entrepreneurship barometer (AEDIB 2.0)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Technical Assistance for Capacity Building in Gender-Disaggregated Data Collection on Women's Entrepreneurship and Digitalization and Development of a Women's Digital Entrepreneurship Barometer Methodology (TZA25001-10032)](https://www.enabel.be/app/uploads/2026/11/TZA25001-10032_Tender-Specifications.pdf)** — Enabel, 6 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
+
+AEDIB 2.0 gender-data barometer for Tanzania (Mainland, Zanzibar) and Uganda; 730-day contract; bids close 27 Nov 2026.
 
 </div>
 
