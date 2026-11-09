@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-06-gmb-gov-t-launches-d40m-digital-skills-programme-for-1-280-youths",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The Gambian government launched a D40 million Labour Digital Skills Development Programme under World Bank-funded WARDIP, signing contracts with three institutions to train 1,280 young Gambians over three years (reported by The Point).",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "Labour Digital Skills Development Programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Labour Digital Skills Development Programme",
+   "country_label": "The Gambia",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Ministry of Communications and Digital Economy (WARDIP)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
