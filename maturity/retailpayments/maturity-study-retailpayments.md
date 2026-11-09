@@ -47,6 +47,8 @@ Asked in order. Each is answered with a date and a link.
 
 A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `service` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `interop` (`interop`) for 3 and `switch` (`national`) for 4.
 
+- **Stage 5 needs a switch that serves every service** *(Bill, 2026-11-09, message 110)*: two switches can answer it only if each covers wallets and banks across all of P2P, P2G and P2B. No source shows both Kenswitch and Pesalink covering all of them, and Kenya stays at 4.
+
 ## 4. The norm
 
 The African Union's Digital Transformation Strategy asks for interoperable e-money and digital financial services, with low-cost channels and agents reaching underserved areas. This study asks the four questions above; it does not measure a country against the norm.

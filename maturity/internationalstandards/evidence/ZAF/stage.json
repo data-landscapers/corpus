@@ -3,14 +3,14 @@
   "cells": [
     {
       "sub_indicator": "international",
-      "stage": "5",
-      "standing": "adopted",
-      "use": "writes",
+      "stage": "2",
+      "standing": "member",
+      "use": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZAF-002;ZAF-001",
-      "gaps": "No row names an adopted national standard on information technology or data, or a rule requiring public bodies to meet one; questions 2 and 3 are answered only by the rule that a later yes answers the earlier ones.",
-      "note": "ISO lists SABS as participating in ISO/IEC JTC 1 and its SC 27, SC 37 and SC 42 in 2026, which answers question 4 and, by the rule that a later yes answers the earlier ones, questions 1 to 3.",
+      "stage_sources": "ZAF-001",
+      "gaps": "No row names an international standard on information technology or data adopted as a national standard, so question 2 is unanswered; SABS's participation in ISO/IEC JTC 1 (ZAF-002) no longer answers questions 2 and 3.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 112): each question must be answered on its own evidence. ISO's listing of SABS in JTC 1 and its subcommittees answers question 1; no row names an adopted national standard, so the committee seats cannot lift it past 2.",
       "as_at": "2026-11-09"
     }
   ]

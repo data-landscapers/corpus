@@ -30,3 +30,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-06,NER,data.geospatial--meteorological-use-of-satellite-data,fact,2,2,NER-001,"CREWS Niger 1.0 and 2.0 rows: bulletins and planned early-warning reports, no satellite data named; stays 2"
 2026-11-06,MUS,data.geospatial--meteorological-use-of-satellite-data,fact,unplaced,unplaced,,"GCF FP161 row: regional early-warning project, no satellite data named; stays unplaced"
 2026-11-06,SYC,data.geospatial--meteorological-use-of-satellite-data,fact,5,5,SYC-002,GCF FP161 row: no satellite data named; stays 5 on certification; short no longer claims satellite-based warnings
+2026-11-09,BWA,data.geospatial--meteorological-use-of-satellite-data,ladder,no evidence,2,BWA-001,"Bill, message 93: Daily News (12 Dec 2023) reports China's donated satellite ground station; nothing says it operates"

@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "COD-005",
-      "gaps": "",
-      "note": "DHIS2 carries facility reporting across the health zones, eIDSR surveillance is integrated in it, and completeness of 99% in 2024 is published.",
-      "as_at": "2026-11-05"
+      "gaps": "No separate system is named as exchanging data with the national DHIS2; eIDSR runs inside it. The published rate answers question 3.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 95): eIDSR runs inside the national DHIS2 and is not a link, but the published completeness of 99% in 2024 answers question 3, so the cell holds at 5.",
+      "as_at": "2026-11-09"
     }
   ]
 }

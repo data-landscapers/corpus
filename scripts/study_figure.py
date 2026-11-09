@@ -76,9 +76,9 @@ FIGURES = {
         fact="Information and communication employed {v} per cent of all workers in {country} in {y}, by ILOSTAT's labour force series.",
         fig="information and communication employed {v} per cent of all workers",
         unit="per cent of employment", what="employment in information and communication",
-        cond_none="No source found since October 2023 gives youth unemployment of 14 per cent or less on the national labour force survey.",
-        cond_short="and youth unemployment is 14 per cent or less",
-        cond_low="Youth unemployment is asked about only once information and communication employs 1 per cent of workers, so with {link} none was looked for in this first pass.",
+        cond_none="No credible statistic found since October 2023 gives graduate unemployment of 14 per cent or less.",
+        cond_short="and graduate unemployment is 14 per cent or less",
+        cond_low="Graduate unemployment is asked about only once information and communication employs 1 per cent of workers, so with {link} none was looked for in this first pass.",
         caveat="The figure counts all employment in publishing, broadcasting, telecommunications and IT services, not graduates alone."),
     "gendergap": dict(
         owner="International Telecommunication Union", dataset="itu-internet-use-gender-gap", sub="gender", cls="gendergap",

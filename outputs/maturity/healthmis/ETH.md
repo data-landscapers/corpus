@@ -10,4 +10,4 @@
 
 ***Also on file***. [eCHIS](<https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0350270>); [DHIS2 (education data, TaRL)](<https://education.dhis2.org/implementation/ethiopia/>).
 
-***Not found***. No source found since October 2023 gives the system's reporting completeness or timeliness.
+***Not found***. No source since October 2023 names a separate system that exchanges data with the national system. None gives its reporting rate.

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "social",
-      "stage": "5",
+      "stage": "4",
       "registry": "inservice",
       "programmes": "several",
       "linked": "linked",
       "cap": "",
       "flags": "",
       "stage_sources": "GHA-008;GHA-007;GHA-002",
-      "gaps": "No count of registry records carrying a Ghana Card number.",
-      "note": "The registry's July 2026 privacy policy says it collects the Ghana Card number and links its data with the identity authority's databases, which meets stage 5. LEAP, school feeding and health insurance select from it.",
-      "as_at": "2026-11-08"
+      "gaps": "No source found says LEAP or another programme drawing on the registry pays benefits digitally. No count of records carrying a Ghana Card number.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 106): the registry collects the Ghana Card number and links with the identity authority's data, and LEAP, school feeding and health insurance select from it, which sets stage 4. Stage 5 now also needs digital payment, and nothing held says so.",
+      "as_at": "2026-11-09"
     }
   ]
 }

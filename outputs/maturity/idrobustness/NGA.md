@@ -10,4 +10,4 @@
 
 ***Also on file***. [CoopID / Cooperative Verification Number](<https://www.nationalaccordnewspaper.com/fg-signs-mou-for-national-cooperative-digital-id-begins-6-month-revalidation/>); [NINAuth](<https://www.arise.tv/nimc-intensifies-ward-level-nin-enrolment-nationwide/>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source since October 2023 gives a share of the population holding a number. Nor does one give it for adults.

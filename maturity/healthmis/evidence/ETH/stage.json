@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hmis",
-      "stage": "4",
+      "stage": "3",
       "system": "inservice",
-      "linked": "linked",
+      "linked": "",
       "completeness": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-003;ETH-007",
-      "gaps": "No source found since October 2023 gives the system's reporting completeness or timeliness.",
-      "note": "The national DHIS2 reached all 30,000+ public facilities by 2024, and weekly notifiable disease surveillance data are integrated into the DHIS2-based emergency system. No reporting rate is published, so not 5.",
-      "as_at": "2026-11-07"
+      "stage_sources": "ETH-003",
+      "gaps": "No source found since October 2023 names a separate system that exchanges data with the national DHIS2; the PHEM surveillance system is DHIS2-based and no source says it exchanges data with the HMIS. No source gives the system's reporting completeness or timeliness.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 95): surveillance data entered into the DHIS2-based PHEM system is not shown exchanging data with the HMIS, so the cell stops at 3. The national DHIS2 reached all 30,000+ public facilities by 2024.",
+      "as_at": "2026-11-09"
     }
   ]
 }

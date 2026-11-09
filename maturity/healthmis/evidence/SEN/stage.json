@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SEN-002",
-      "gaps": "",
-      "note": "The unified national DHIS2 platform extends to surveillance and the supply chain, and the share of districts at 90% completeness, 57% in 2024, is published.",
-      "as_at": "2026-11-05"
+      "gaps": "No separate system is named as exchanging data with the national DHIS2; surveillance and the supply chain run inside it. The published rate answers question 3.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 95): surveillance and supply-chain modules inside the national DHIS2 are not links, but the published district completeness answers question 3, so the cell holds at 5.",
+      "as_at": "2026-11-09"
     }
   ]
 }

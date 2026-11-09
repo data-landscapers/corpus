@@ -92,9 +92,9 @@
     "A national ID system is procured, being built or piloted, or is ready and waiting on its law.",
     "The national ID system is in service, issuing each person a unique number or credential.",
     "The system checks fingerprints, face or iris to stop one person enrolling twice.",
-    "A source from the past three years reports a security certification, a published audit or a level of assurance set for the system."
+    "A source from the past three years reports a security certification, a published audit or a level of assurance set for the system, and the ID is held by all or nearly all the population."
    ],
-   "criteria_of": "bb5119a62ec3"
+   "criteria_of": "80f7341e3d36"
   }
  ],
  "classes": [

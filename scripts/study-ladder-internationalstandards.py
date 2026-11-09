@@ -7,7 +7,7 @@ r"""study-ladder-internationalstandards.py — the international standards study
 `maturity/documentation/maturity-study-method.md` §7, as `study-ladder-qualitystandards.py`
 does it. The ladder is `maturity-study-internationalstandards.md` §2 and §3:
 
-1. **Membership of ISO or IEC**: a `standing` of `member` or `adopted`, however old.
+1. **Membership of ISO or IEC**: a `standing` of `member`, however old.
 2. **An international standard on information technology or data adopted as a national
    one**: a `standing` of `adopted`, however old.
 3. **Public bodies must meet a named international standard**: a `use` of `required`, of
@@ -15,7 +15,9 @@ does it. The ladder is `maturity-study-internationalstandards.md` §2 and §3:
 4. **Taking part in writing such standards in the last three years**: a `use` of `writes`
    dated inside them. An older one is outside its window and answers nothing.
 
-A yes to a later question answers the earlier ones. Stage 1 is a `standing` of `none` dated
+**Each question must be met on its own evidence to progress** *(Bill, 2026-11-09, message 112)*:
+a later yes no longer answers the earlier ones, and a cell takes the last rung its evidence
+reaches without a gap. Stage 1 is a `standing` of `none` dated
 inside three years with no membership on record. A fact dated after the as-at sets nothing. A
 year or a month stands for its last day, or for the as-at where that day falls after it and
 the source was published by it.
@@ -97,11 +99,11 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         return {"stage": "no evidence", **blank,
                 "gaps": "Nothing found names the country's standards body as a member of ISO or "
                         "IEC, or says it belongs to neither."}
-    if writes:
-        s, src = "5", writes + required[:1] + adopted[:1]
-    elif required:
-        s, src = "4", required + adopted[:1]
-    elif adopted:
+    if member and adopted and required and writes:
+        s, src = "5", writes + required[:1] + adopted[:1] + member[:1]
+    elif member and adopted and required:
+        s, src = "4", required + adopted[:1] + member[:1]
+    elif member and adopted:
         s, src = "3", adopted + member[:1]
     elif member:
         s, src = "2", member

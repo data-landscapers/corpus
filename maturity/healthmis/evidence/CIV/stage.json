@@ -9,10 +9,10 @@
       "completeness": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CIV-002",
+      "stage_sources": "CIV-001;CIV-002",
       "gaps": "No source found since October 2023 gives the system's reporting completeness or timeliness.",
-      "note": "SIGSANTE, on DHIS2, has centralised routine data since 2015 and integrates vaccination and surveillance flows. No reporting rate is held, so it stops at 4.",
-      "as_at": "2026-11-05"
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 95): vaccination and surveillance flows inside SIGSANTE are not links, but the separate mHealth community platform sends consultation and vaccination data to it over HL7 FHIR, so the cell holds at 4. No reporting rate is held, so not 5.",
+      "as_at": "2026-11-09"
     }
   ]
 }

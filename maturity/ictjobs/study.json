@@ -27,7 +27,10 @@
   "enquête emploi",
   "enquête sur l'emploi",
   "taux de chômage",
-  "unemployment rate"
+  "unemployment rate",
+  "graduate unemployment",
+  "chômage des diplômés",
+  "desemprego dos licenciados"
  ],
  "sub_indicators": [
   {
@@ -43,7 +46,7 @@
     "Information and communication employs 0.3 per cent or more of all workers, in the latest figure for 2023 or later, from ILOSTAT's series.",
     "Information and communication employs 0.6 per cent or more of all workers.",
     "Information and communication employs 1 per cent or more of all workers.",
-    "Information and communication employs 1 per cent or more of all workers, and youth unemployment is 14 per cent or less on the national labour force survey."
+    "Information and communication employs 1 per cent or more of all workers, and a credible statistic from the last three years puts graduate unemployment at 14 per cent or less."
    ],
    "criteria_of": "c92b7ad48638"
   }
@@ -61,7 +64,7 @@
   },
   {
    "key": "youth",
-   "name": "Youth unemployment",
+   "name": "Graduate unemployment",
    "role": "coverage",
    "defer": [],
    "prefer": [

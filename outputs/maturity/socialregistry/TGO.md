@@ -10,4 +10,4 @@
 
 ***Also on file***. [Central National Biometric Identification Database](<https://anid.gouv.tg/en/about-us/>).
 
-***Not found***. No source found names the social programmes that choose who receives support from the RSPM.
+***Not found***. No source found names the programmes that draw on the RSPM. None says benefits are paid digitally.

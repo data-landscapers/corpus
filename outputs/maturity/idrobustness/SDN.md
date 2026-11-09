@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 says the civil register checks fingerprints for duplicates. None gives the share of the population holding SudaPass, launched in May 2026.

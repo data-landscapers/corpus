@@ -85,7 +85,7 @@ The African Union's Digital Transformation Strategy 2020–2030 asks every membe
 - **Facts drawn from Data Landscapers' own AI-compiled cable factsheet were all removed**, 26 rows: the sister site is not an independent source. So were statements that 2Africa is open access as a whole, where no country was named.
 - **The same route named twice is one route.** An unnamed "single cable" beside ACE is ACE: Guinea, Liberia and Sierra Leone are at stage 2. So are Ethiopia (the fibre through Djibouti) and Rwanda (the Goma to Mombasa route). A May 2026 source saying ACE is Mauritania's only route in service removed two older facts naming a second route.
 - **Zambia's minister says it has fibre links to eight neighbours** (February 2026); the parent added the fact from the document the drafter read. Niger's minister says only that it is "interconnected" with five neighbours, which was removed: the statement does not say the links carry its traffic. Niger is at stage 2.
-- **Eritrea is at stage 1**, on an August 2026 source that it has no submarine cable landing. Mali is unplaced: its fibre link to Senegal opened on 5 October 2026, after the as-at. Malawi and Zimbabwe are without evidence.
+- **Eritrea is at stage 1** *(Bill, message 113)*, on an August 2026 source that it has no submarine cable landing. Mali is unplaced: its fibre link to Senegal opened on 5 October 2026, after the as-at. Malawi and Zimbabwe are without evidence.
 - **A script wrote the summaries**, `scripts/study-internationalbandwidth-write.py`, from the drafters' fact sentences, to hold the ceiling.
 - **Tokens: 62.4 million at the map**, ceiling 70 million, step 1 included.
 

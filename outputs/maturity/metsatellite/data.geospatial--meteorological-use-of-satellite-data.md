@@ -23,10 +23,10 @@ The Integrated African Strategy on Meteorology asks for sustained access to geos
 | 5 Leading | 2 |
 | 4 Operating | 6 |
 | 3 Established | 13 |
-| 2 Nascent | 11 |
+| 2 Nascent | 12 |
 | 1 Absent | 0 |
 | Unplaced | 13 |
-| No evidence | 9 |
+| No evidence | 8 |
 
 ## Countries
 
@@ -163,6 +163,12 @@ The national weather service used satellite data in its forecasts in 2026; warni
 The national weather service was receiving or installing a satellite data stream in 2024; its use in forecasts is not on record.
 
 - The Beninese government says a new PUMA station for processing Meteosat Third Generation data would be installed in Benin during the 16th EUMETSAT User Forum in Cotonou, 16-20 September 2024 ([source, 2024-09-17](https://www.gouv.bj/article/2777/meteo-benin-renforce-systeme-satellitaire-travers-eumetsat/)).
+
+### Botswana: 2 Nascent
+
+China donated a satellite ground station to the met department in December 2023; nothing says it is operating.
+
+- At COP28 China, through the China Academy of Space, donated a P31 million multi-satellite meteorological transportable ground application system to the Department of Meteorological Services; a memorandum between the two governments was yet to be signed ([source, 2023-12-12](https://dailynews.gov.bw/news-detail/76992)).
 
 ### Burundi: 2 Nascent
 
@@ -301,12 +307,6 @@ Not established: Nothing found since October 2023 says whether the national weat
 Nothing found since 2023 names satellite data in the national weather service, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether the national weather service receives or uses satellite data.
-
-### Botswana: No evidence
-
-Nothing found names satellite data in the national weather service or says there is none, so no stage is set.
-
-Not established: Nothing found says whether the national weather service uses satellite data.
 
 ### Cote d'Ivoire: No evidence
 

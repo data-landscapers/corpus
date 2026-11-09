@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "social",
-      "stage": "5",
+      "stage": "4",
       "registry": "inservice",
       "programmes": "",
       "linked": "linked",
       "cap": "",
       "flags": "",
       "stage_sources": "TGO-004;TGO-003",
-      "gaps": "No source found says which social programmes draw their beneficiaries from the RSPM.",
-      "note": "The World Bank said in March 2026 that the e-ID is fully interoperable with the RSPM social registry, which takes in ID numbers automatically. Under the study's rule a later yes answers the earlier questions, so the link sets stage 5.",
+      "gaps": "No source found says which social programmes draw their beneficiaries from the RSPM, or that any pays benefits digitally.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 106): the e-ID is fully interoperable with the RSPM, which takes in ID numbers automatically; a full link now sets stage 4 on its own. Stage 5 also needs digital payment by a programme using it, and nothing held says so.",
       "as_at": "2026-11-09"
     }
   ]

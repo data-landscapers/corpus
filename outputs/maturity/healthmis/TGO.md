@@ -10,4 +10,4 @@
 
 ***Also on file***. [eRDQA](<https://dhis2.org/fr/hisp-highlights-july-2026/>); [DHIS2-based One Health platform](<https://dhis2.org/climate/country-profiles/togo/>).
 
-***Not found***. No source found since October 2023 gives the system's reporting completeness or timeliness.
+***Not found***. No source since October 2023 names a separate system that exchanges data with the national system. None gives its reporting rate.

@@ -1,6 +1,7 @@
 {
   "id": "internationalstandards",
   "study_file": "maturity-study-internationalstandards.md",
+  "later_yes": false,
   "subjects": [
     "gov.standards"
   ],

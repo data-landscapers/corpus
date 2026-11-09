@@ -21,8 +21,8 @@ The African Union's interoperability framework and Data Policy Framework ask tha
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 5 |
-| 3 Established | 16 |
+| 4 Operating | 6 |
+| 3 Established | 15 |
 | 2 Nascent | 9 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
@@ -37,6 +37,15 @@ Payroll, tax and social security used the ID number, and 2024 checks removed 73,
 - The National Identification Authority says the civil service payroll (the Mechanized Payroll System) now requires the Ghana Card PIN to validate recruited public sector employees and pensioners, with existing staff to submit their PIN at NIA offices, launched 10 January 2024 ([source, 2024-01-10](https://nia.gov.gh/government-launches-integrated-database-for-payroll-validation-and-verification/)).
 - The NIA Executive Secretary says the Ghana Card already serves as the Taxpayer Identification Number, SSNIT and NHIS numbers ([source, 2025-09-18](https://atlfmnews.com/nia-to-integrate-student-database-with-ghana-card-for-easy-access/)).
 - Mahamudu Bawumia says Ghana Card checks removed 29,000 ghost names at SSNIT (saving GH¢400 million) and 44,000 at the National Service Scheme (over GH¢300 million); these are his own figures ([source, 2024-09-24](https://www.myjoyonline.com/ghost-names-removed-from-government-payroll-thanks-to-ghana-card-bawumia/)).
+
+### Benin: 4 Operating
+
+The electoral list, the public pension fund and the tax file use the national ID number; no figure from matching is given.
+
+- ANIP says the provisional electoral list is extracted directly from the Fichier National de l'État Civil, the same database used to issue the national identity card and the IFU tax identifier ([source, 2025-09-11](https://beninwebtv.bj/affichage-de-la-liste-electorale-provisoire-lanip-lance-la-phase-de-verification/)).
+- ANIP's director general said Benin's computerised electoral list is extracted directly from the national register of natural persons ([source, 2025-02-21](https://www.gouv.bj/article/2994/inquietudes-autour-fiabilite-liste-electorale-informatisee-benin-anip-reaffirme-credibilite-grace-systeme-mise-jour-continue/)).
+- Ecofin Agency reports the public-sector pension fund FNRB's proof-of-life service requires each retiree's NPI alongside the pension booklet number ([source, 2026-10-15](https://www.ecofinagency.com/news-digital/1710-59862-benin-launches-app-letting-public-sector-retirees-provide-proof-of-life-remotely)).
+- La Marina BJ reports the DGI tax file (IFU) is attached to the NPI: 439,333 of 1,077,679 IFU were linked on 25 October 2023, and the IDA PReM-Benin programme funds real-time IFU-NPI matching ([source, 2023-10-25](https://lamarina.bj/2026/11/06/benin-8-millions-de-dollars-pour-renforcer-linterconnexion-des-fichiers-fiscaux-et-didentification/)).
 
 ### Egypt: 4 Operating
 
@@ -92,14 +101,6 @@ The electoral roll and the tax register used the identity card number in 2025 an
 - Intelwatch says Angola does not run an independent biometric voter registration and its electoral roll is derived from the civil identity database; the 2025 Lei do Recenseamento Eleitoral Oficioso replaces in-person registration with an automatic register extracted from the identity base ([source, 2026-08-15](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/)).
 - Minister Marcy Lopes says the Bilhete de Identidade is the main document for the update of the electoral register (Registo Eleitoral Oficioso) running from 15 June 2026 to 31 March 2027 ([source, 2026-07-15](https://angop.ao/noticias/politica/mais-de-120-mil-bilhetes-de-identidade-aguardam-levantamento-em-todo-o-pais/)).
 - Secretary of State Osvaldo Amaro said the civil identification systems and the tax administration (AGT) are synchronised so that the Bilhete de Identidade number is also the tax identification number (NIF) ([source, 2025-09-18](https://pti.ao/ministerio-da-justica-reitera-aposta-nas-tic-para-modernizar-e-simplificar-servicos/)).
-
-### Benin: 3 Established
-
-The electoral list and the public pension fund used the national ID number in 2025 and 2026; its use for tax is not known.
-
-- ANIP says the provisional electoral list is extracted directly from the Fichier National de l'État Civil, the same database used to issue the national identity card and the IFU tax identifier ([source, 2025-09-11](https://beninwebtv.bj/affichage-de-la-liste-electorale-provisoire-lanip-lance-la-phase-de-verification/)).
-- ANIP's director general said Benin's computerised electoral list is extracted directly from the national register of natural persons ([source, 2025-02-21](https://www.gouv.bj/article/2994/inquietudes-autour-fiabilite-liste-electorale-informatisee-benin-anip-reaffirme-credibilite-grace-systeme-mise-jour-continue/)).
-- Ecofin Agency reports the public-sector pension fund FNRB's proof-of-life service requires each retiree's NPI alongside the pension booklet number ([source, 2026-10-15](https://www.ecofinagency.com/news-digital/1710-59862-benin-launches-app-letting-public-sector-retirees-provide-proof-of-life-remotely)).
 
 ### Botswana: 3 Established
 

@@ -10,4 +10,4 @@
 
 ***Also on file***. [DHIS2 Tracker (Ebola configuration)](<https://dhis2.org/drc-uganda-africa-cdc-ebola-outbreak-response/>); [Mpox surveillance mobile/web app connected to DHIS2](<https://community.dhis2.org/t/surveillance-mpox-integree-a-dhis2-au-sud-kivu/71886>); [DHIS2 EVD Tracker](<https://dhis2.org/drc-ebola-response-2025/>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. Nothing found names a separate system exchanging data with the national system.

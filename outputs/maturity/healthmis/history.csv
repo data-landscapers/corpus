@@ -67,3 +67,11 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-07,ETH,dpi.mis--health,fact,3,4,ETH-003;ETH-007,"DHIS2 profile: weekly notifiable disease surveillance integrated into the DHIS2-based PHEM system (2024): linked, 3 to 4"
 2026-11-07,CMR,dpi.mis--health,fact,unplaced,3,CMR-004,"2026 preprint: national DHIS2 takes monthly reports from all ten regions and 202 districts, changed 2024: unplaced to 3"
 2026-11-07,TCD,dpi.mis--health,fact,2,3,TCD-002,"2025 national health statistics yearbook, in validation 22 September 2026, rests on the national DHIS2 base: 2 to 3"
+2026-11-09,TGO,dpi.mis--health,ladder,4,3,TGO-002,Bill's ruling on message 95: surveillance inside the national DHIS2 is not a link to another system; 4 to 3
+2026-11-09,GNB,dpi.mis--health,ladder,4,3,GNB-003;GNB-001,Bill's ruling on message 95: surveillance and Tracker registries inside the national DHIS2 are not links to another system; 4 to 3
+2026-11-09,ETH,dpi.mis--health,ladder,4,3,ETH-003,Bill's ruling on message 95: the DHIS2-based PHEM surveillance system is not shown exchanging data with the HMIS; 4 to 3
+2026-11-09,SOM,dpi.mis--health,ladder,4,4,SOM-001;SOM-002,"Bill's ruling on message 95: Tracker inside DHIS2 no longer counts, but the separate RAAD health record feeds DHIS2 reports; holds at 4"
+2026-11-09,CIV,dpi.mis--health,ladder,4,4,CIV-001;CIV-002,"Bill's ruling on message 95: flows inside SIGSANTE no longer count, but the separate mHealth community platform sends data over FHIR; holds at 4"
+2026-11-09,COD,dpi.mis--health,ladder,5,5,COD-005,"Bill's ruling on message 95: eIDSR runs inside the national DHIS2, not a link; the published rate answers question 3; holds at 5"
+2026-11-09,SEN,dpi.mis--health,ladder,5,5,SEN-002,Bill's ruling on message 95: surveillance and supply-chain modules inside DHIS2 are not links; the published rate answers question 3; holds at 5
+2026-11-09,ZMB,dpi.mis--health,ladder,5,5,ZMB-002,Bill's ruling on message 95: surveillance inside DHIS2 and a FHIR profile are not a link in service; the published rate answers question 3; holds at 5

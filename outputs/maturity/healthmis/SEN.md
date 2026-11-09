@@ -10,4 +10,4 @@
 
 ***Also on file***. [DHIS2 for Education](<https://education.dhis2.org/implementation/senegal/>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. Nothing found names a separate system exchanging data with the national system.

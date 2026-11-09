@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "social",
-      "stage": "3",
+      "stage": "4",
       "registry": "inservice",
-      "programmes": "",
+      "programmes": "several",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MRT-002;MRT-001",
-      "gaps": "No source found since October 2023 says two or more programmes use the social registry.",
-      "note": "First pass: counted from the four questions by study-ladder-socialregistry.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MRT-005;MRT-001",
+      "gaps": "Nothing says the social registry is linked to the national ID, or that benefits are paid digitally.",
+      "note": "Reassessed 2026-11-09: Decree 2024-073 makes households enrolled in the Registre Social eligible for both Tekavoul regular transfers and shock-response transfers, which answers question 3 and sets stage 4. The first pass had read it as the registry alone; nothing held links the registry to the national ID.",
+      "as_at": "2026-11-09"
     }
   ]
 }

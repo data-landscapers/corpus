@@ -49,6 +49,8 @@ A later yes answers the earlier ones (method §3.3). `study.json` holds this as 
 
 **Question 3, the number given to every birth registered in the country, is shown by its own evidence** *(Bill, 2026-10-23; `study.json` → `"must_show": [3]`)*: a later yes no longer answers it, and answers the other questions still. No cell moved.
 
+- **Question 3 needs evidence, not intent** *(Bill, 2026-11-09, message 103)*: a general statement that a number is issued upon birth registration does not answer it. Lesotho, Malawi and Djibouti stay at 3.
+
 ## 4. The norm
 
 The African Union's Digital Transformation Strategy asks for a digital legal identity for every person from birth, through civil registration; the SDG target is all births and 80% of deaths registered. This study asks the four questions above; it does not measure a country against the norm.

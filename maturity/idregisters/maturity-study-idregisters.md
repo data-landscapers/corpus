@@ -47,7 +47,11 @@ Asked in order. Each is answered with a date and a link.
 
 **A later yes no longer answers the earlier ones** *(Bill, 2026-10-23; method §3.3 switched off here, `study.json` → `"later_yes": false`)*: a stage needs every lower rung shown by its own evidence, and a cell whose evidence stops short takes the rung it reaches. Question 2 still answers question 1: a register keyed on the number was under way first, and the two are one aspect. `study.json` holds this as three aspects: `register` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `several` (`several`) for 3 and `matching` (`reported`) for 4.
 
+**The three-year window counts from the source's date, not the fact's** *(Bill, 2026-11-09, message 107, as message 34 ruled for laws in force)*: Benin's tax-file link, dated October 2023 in a November 2026 report, answers question 3. BEN 3→4.
+
 **Social insurance counts as social protection** *(Bill, 2026-11-03, messages-for-bill 69)*: a social security fund such as Ghana's SSNIT keyed on the number is one of the five main registers for question 3. GHA 3→4.
+
+- **A figure of records linked to the ID is not a matching figure** *(Bill, 2026-11-09, message 104)*: rung 5 needs what the check found. Uganda and Tanzania stay at 4.
 
 ## 4. The norm
 

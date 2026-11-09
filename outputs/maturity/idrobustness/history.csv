@@ -96,3 +96,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-08,ZWE,dpi.id--robustness-of-system,review,3,3,ZWE-002;ZWE-003,Rebuild: first-pass cell re-read against the ladder; stays 3
 2026-11-09,KEN,dpi.id--robustness-of-system,fact,3,4,KEN-019;KEN-017;KEN-005,"AFIS detects duplicate registrations from fingerprints (The Elephant, May 2026; ID4Africa deck): 3 -> 4"
 2026-11-09,NER,dpi.id--robustness-of-system,fact,3,4,NER-025;NER-002,"AES card enrolment takes fingerprints, face and iris to guarantee each citizen's uniqueness (April 2026): 3 -> 4"
+2026-11-09,LBY,dpi.id--robustness-of-system,ladder,5,3,LBY-010;LBY-012;LBY-006,Rung 5 needs the ID issued to the whole population (message 108): the digital ID's Level 3 assurance is for a layer in bank trials; 5 to 3
+2026-11-09,SDN,dpi.id--robustness-of-system,ladder,5,3,SDN-012;SDN-015;SDN-006,"Rung 5 needs the ID issued to the whole population (message 108): SudaPass, launched May 2026, has no coverage figure; 5 to 3"
+2026-11-09,NGA,dpi.id--robustness-of-system,ladder,5,4,NGA-023;NGA-037;NGA-022,"Rung 5 needs the ID issued to the whole population (message 108): 121 million NINs, no share stated; 5 to 4"

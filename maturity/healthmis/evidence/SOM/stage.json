@@ -9,10 +9,10 @@
       "completeness": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SOM-006;SOM-002",
+      "stage_sources": "SOM-001;SOM-002",
       "gaps": "No source found since October 2023 gives the system's reporting completeness or timeliness.",
-      "note": "DHIS2 is the national HMIS, with Tracker carrying surveillance and immunisation records and the RAAD record generating its reports. No national reporting rate is held; the 111-facility figure is not one.",
-      "as_at": "2026-11-05"
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 95): DHIS2 Tracker inside the national system is not a link, but RAAD, the ministry's separate primary-care health record, generates DHIS2 reports from 111 facilities, so the cell holds at 4. No national reporting rate is held; the 111-facility figure is not one.",
+      "as_at": "2026-11-09"
     }
   ]
 }

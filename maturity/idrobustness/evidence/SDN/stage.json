@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "robustness",
-      "stage": "5",
+      "stage": "3",
       "system": "inservice",
-      "biometric": "checked",
+      "biometric": "",
       "assurance": "certified",
       "cap": "",
       "flags": "",
-      "stage_sources": "SDN-011",
-      "gaps": "",
-      "note": "Stage 5: the SudaPass terms of May 2026 set three trust levels, the highest with in-person biometric verification, for the national digital ID; a later yes answers the earlier questions. No source shows the civil register's fingerprints checked for duplicates, and whether a level set for the digital layer counts is put to Bill (2026-11-08).",
-      "as_at": "2026-11-08"
+      "stage_sources": "SDN-012;SDN-015;SDN-006",
+      "gaps": "No source shows the civil register's fingerprints checked for duplicates, and SudaPass, launched in May 2026, has no coverage figure; nine million ID cards are on record.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 108): SudaPass's trust levels are set for a digital ID launched in May 2026 with no figure showing it held by the population, so they are no yes to stage 5 and answer no earlier question. National numbers and ID cards are being issued, but no source shows biometric deduplication.",
+      "as_at": "2026-11-09"
     }
   ]
 }

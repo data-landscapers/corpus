@@ -9,9 +9,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "SWZ-002",
-      "gaps": "No source found since October 2023 gives youth unemployment of 14 per cent or less on the national labour force survey.",
-      "note": "The latest figure, 1.56 per cent of employment for 2023, clears 1; no source since October 2023 gives youth unemployment of 14 per cent or less on the national labour force survey.",
-      "as_at": "2026-11-05"
+      "gaps": "No credible statistic found since October 2023 gives graduate unemployment of 14 per cent or less.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 94): question 4 asks for graduate unemployment from any credible statistic, not youth unemployment. The latest figure, 1.56 per cent of employment for 2023, clears 1; the figures read give youth unemployment of about half, which does not answer it.",
+      "as_at": "2026-11-09"
     }
   ]
 }

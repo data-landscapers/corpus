@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source says how many registry records carry a Ghana Card number.
+***Not found***. No source found since October 2023 says LEAP, or another programme drawing on the registry, pays benefits digitally. None says how many records carry a Ghana Card number.

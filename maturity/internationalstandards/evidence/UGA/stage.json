@@ -3,14 +3,14 @@
   "cells": [
     {
       "sub_indicator": "international",
-      "stage": "4",
-      "standing": "adopted",
-      "use": "required",
+      "stage": "unplaced",
+      "standing": "",
+      "use": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-001",
-      "gaps": "No dated source from the last three years names a participating seat on an ISO or IEC committee on information technology or data. No row states ISO membership or a named national adoption; both are answered only by the rule that a later yes answers the earlier ones.",
-      "note": "NITA-U's 2026 policy, mandatory for ministries and agencies, requires ISO/IEC 27001:2022, which answers question 3 and, by the rule that a later yes answers the earlier ones, questions 1 and 2. No committee seat is held, so question 4 is unanswered.",
+      "stage_sources": "",
+      "gaps": "No source names the standards body as a member of ISO or IEC, so question 1 is unanswered and no rung is set. NITA-U's 2026 policy requiring ISO/IEC 27001:2022 of public bodies (UGA-001) would answer question 3, and no row names a national adoption.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 112): each question must be answered on its own evidence. The 2026 policy no longer answers questions 1 and 2, and with no membership on record no rung is set.",
       "as_at": "2026-11-09"
     }
   ]

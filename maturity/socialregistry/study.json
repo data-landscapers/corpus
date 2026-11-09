@@ -55,10 +55,10 @@
     "A source from the past three years says no social registry exists and programmes hold their own lists.",
     "A social registry is procured, piloted or being populated in some districts.",
     "A social registry is in service.",
-    "Two or more social programmes choose who receives support from the social registry.",
-    "The social registry is linked to or checked against the national ID."
+    "Two or more social programmes choose who receives support from the social registry, or it is linked to the national ID.",
+    "The social registry is linked to the national ID, and a programme drawing on it pays benefits digitally."
    ],
-   "criteria_of": "bc1c8abaa79e"
+   "criteria_of": "fd2c1625e383"
   }
  ],
  "classes": [
@@ -101,11 +101,16 @@
    "role": "coverage",
    "defer": [],
    "prefer": [
-    "linked"
+    "linked",
+    "paid",
+    "checked"
    ],
    "values": [
-    "linked"
-   ]
+    "linked",
+    "checked",
+    "paid"
+   ],
+   "multi": true
   }
  ],
  "flags": []

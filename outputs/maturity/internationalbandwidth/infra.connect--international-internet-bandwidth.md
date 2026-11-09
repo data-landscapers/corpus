@@ -24,8 +24,8 @@ The African Union's Digital Transformation Strategy 2020–2030 asks every membe
 | 4 Operating | 8 |
 | 3 Established | 24 |
 | 2 Nascent | 11 |
-| 1 Absent | 0 |
-| Unplaced | 1 |
+| 1 Absent | 1 |
+| Unplaced | 0 |
 | No evidence | 1 |
 
 ## Countries
@@ -391,11 +391,11 @@ One fibre route abroad in service by 2023; no second route is known.
 
 - Africa Business Insight reports that until 2023 South Sudan depended primarily on a single international connectivity route through Uganda, itself without direct submarine cable access, citing a 2023 World Bank diagnostic ([source, 2023](https://africabusinessinsight.com/central-african-republic-seeks-new/)).
 
-### Eritrea: Unplaced
+### Eritrea: 1 Absent
 
-A 2026 source says no submarine cable lands, and land links abroad are not known, so no stage is set.
+A 2026 source says no submarine cable lands, and no land route abroad is on record.
 
-Not established: Mesob Journal (August 2026) says no submarine cable lands in Eritrea but does not address land links; no source says the country has no international fibre route at all, and none names one in service.
+- Mesob Journal (10 Aug 2026) states that industry infrastructure directories continue to identify Eritrea as the only coastal African state without an operational submarine cable landing station, and argues it should gain more than one international route; it does not address terrestrial links ([source, 2026-08-10](https://mesobjournal.com/post/eritrea-digital-sovereignty-red-sea-internet-gateway)).
 
 ### Zimbabwe: No evidence
 

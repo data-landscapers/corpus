@@ -1,7 +1,7 @@
 ---
 type: task
 reader: cc
-title: maturity-study-socialregistry.md — a social registry of households, in four questions
+title: maturity-study-socialregistry.md — a social registry of households, in five questions
 last_reviewed: 2026-10-16
 status: first pass run 2026-10-16; staged, written and on the soft-launch map; waits for Bill's acceptance
 ---
@@ -31,7 +31,8 @@ Asked in order. Each is answered with a date and a link.
 | 1 | Is a social registry under way? | A source from the last three years says a social registry is procured, piloted or being populated in some districts |
 | 2 | Is a social registry in service? | A source from the last three years says a social registry is in service |
 | 3 | Do two or more programmes use it? | A source from the last three years says two or more social programmes choose who receives support from the social registry |
-| 4 | Is it linked to the national ID? | A source from the last three years says the social registry is linked to or checked against the national ID |
+| 4 | Is it linked to the national ID? | A source from the last three years says the social registry is linked to the national ID: it holds the ID number or exchanges records with the ID system. A check of IDs at enrolment is not a link |
+| 5 | Do its programmes pay digitally? | A source from the last three years says a programme that selects from the social registry pays benefits digitally, to a bank or mobile-money account or a card |
 
 ## 3. The ladders
 
@@ -42,14 +43,17 @@ Asked in order. Each is answered with a date and a link.
 | 1 None | A source from the past three years says no social registry exists and programmes hold their own lists. |
 | 2 Under way | Yes to 1 |
 | 3 In service | Yes to 2 |
-| 4 Several programmes | Yes to 3 |
-| 5 Linked to ID | Yes to 4 |
+| 4 Several programmes or linked | Yes to 3, or yes to 4 |
+| 5 Linked and paying | Yes to 4 and yes to 5 |
 
-A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `registry` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `programmes` (`several`) for 3 and `linked` (`linked`) for 4.
+- **Stage 5 needs the registry linked to the national ID and benefits paid digitally; stage 4 takes a link alone** *(Bill, 2026-11-09, message 106)*: eligibility drawn from the registry is not payment, and an ID checked at enrolment is not a link. A yes to 3 or 4 answers 1 and 2 (method §3.3). The seven cells at 5 hold no payment fact and go to 4: CIV, COG, EGY, GHA, NGA, RWA, TGO.
+- **Separate sources together answer question 3** *(Bill, 2026-11-09, message 106)*: two programmes each tied to the registry in its own source are two programmes. MUS 3→4.
+
+`study.json` holds this as three aspects: `registry` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `programmes` (`several`) for 3, and `linked` (`linked`, `checked`, `paid`, several joined by `;`) for 4 and 5. `checked` is an ID check that is not a link and answers nothing; `paid` answers 5, and is held under `linked` so no page gains a paragraph.
 
 ## 4. The norm
 
-The African Union's Protocol on Social Protection asks states for a social registry and integrated beneficiary registry, interoperable with civil registration and payments. This study asks the four questions above; it does not measure a country against the norm.
+The African Union's Protocol on Social Protection asks states for a social registry and integrated beneficiary registry, interoperable with civil registration and payments. This study asks the five questions above; it does not measure a country against the norm.
 
 ## 5. What the run reads
 

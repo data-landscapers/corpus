@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "robustness",
-      "stage": "5",
+      "stage": "4",
       "system": "inservice",
       "biometric": "checked",
       "assurance": "certified",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-031;NGA-023;NGA-022",
-      "gaps": "",
-      "note": "Stage 5: in December 2025 NIMC said it has held ISO 27001 certification since 2014, upgraded to the 2022 standard, a security certification reported inside the three years. Numbers are issued after biometric de-duplication, so every rung below is met.",
-      "as_at": "2026-11-08"
+      "stage_sources": "NGA-023;NGA-037;NGA-022",
+      "gaps": "No source gives the share of the population or of adults holding a NIN: 121 million numbers were issued by September 2026, against NIMC's target of 180 million.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 108): NIMC's ISO 27001 certification stands, but stage 5 now also needs the ID held by all or nearly all the population, and 121 million NINs issued by September 2026 with a target of 180 million does not show it. Numbers are issued after biometric de-duplication.",
+      "as_at": "2026-11-09"
     }
   ]
 }

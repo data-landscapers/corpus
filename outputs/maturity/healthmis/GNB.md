@@ -10,4 +10,4 @@
 
 ***Also on file***. [DHIS2 Tracker electronic registries](<https://dhis2.org/climate/country-profiles/guinea-bissau/>); [mWater](<https://dhis2.org/climate/country-profiles/guinea-bissau/>).
 
-***Not found***. No source found since October 2023 gives the system's reporting completeness or timeliness.
+***Not found***. No source since October 2023 names a separate system that exchanges data with the national system. None gives its reporting rate.

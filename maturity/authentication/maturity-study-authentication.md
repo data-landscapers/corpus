@@ -47,6 +47,8 @@ Asked in order. Each is answered with a date and a link.
 
 A later yes answers the earlier ones (method §3.3). **State acceptance applies to every rung** *(Bill, 2026-10-23)*: an authentication service, e-signature, mobile ID or digital wallet counts toward a rung only where the state accepts it, by recognising it in law, running it or having it run for a state body, or accepting it for access to state services. A private or vendor app the authorities do not recognise counts for nothing. `study.json` holds this as three aspects: `service` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `reach` (`several`) for 3 and `remote` (`wallet`) for 4.
 
+- **Banks checking IDs against the register are one service** *(Bill, 2026-11-09, message 111)*: several banks and lenders are not several bodies for rung 4. Lesotho and Eswatini stay at 3.
+
 ## 4. The norm
 
 The African Union's interoperability framework and the AfCFTA Digital Trade Protocol ask for authentication and e-signature services in layers, up to remote authentication recognised across borders. This study asks the four questions above; it does not measure a country against the norm.

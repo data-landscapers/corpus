@@ -10,4 +10,4 @@
 
 ***Also on file***. [Unified National Registry (UNR)](<https://www.worldbank.org/en/results/2024/05/28/promoting-inclusive-human-capital-development-and-building-resilience-in-egypt-through-cash-transfer-programs>).
 
-***Not found***. No source says how often the registry is checked against the linked databases.
+***Not found***. No source found since October 2023 says Takaful and Karama pays benefits digitally. None says another programme using the registry does.

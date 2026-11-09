@@ -3,14 +3,14 @@
   "cells": [
     {
       "sub_indicator": "international",
-      "stage": "5",
-      "standing": "adopted",
-      "use": "writes",
+      "stage": "2",
+      "standing": "member",
+      "use": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "RWA-002;RWA-001",
-      "gaps": "No row names an adopted national standard on information technology or data, or a rule requiring public bodies to meet one; questions 2 and 3 are answered only by the rule that a later yes answers the earlier ones.",
-      "note": "RSB is a participating member of ISO/IEC JTC 1/SC 40 in 2026, which answers question 4 and, by the rule that a later yes answers the earlier ones, questions 1 to 3. The observer seats on JTC 1 and SC 27 count for nothing.",
+      "stage_sources": "RWA-001",
+      "gaps": "No row names an international standard on information technology or data adopted as a national standard, so question 2 is unanswered; the participating seat on ISO/IEC JTC 1/SC 40 (RWA-002) no longer answers questions 2 and 3.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 112): each question must be answered on its own evidence. RSB's participating membership of 28 ISO committees answers question 1; no row names an adopted national standard, so the seat on JTC 1/SC 40 cannot lift it past 2.",
       "as_at": "2026-11-09"
     }
   ]

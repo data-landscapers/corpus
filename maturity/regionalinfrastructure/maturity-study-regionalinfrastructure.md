@@ -57,7 +57,7 @@ Asked in order. Each is answered with a date and a link.
 - **Questions 3 and 4 have no time limit**; a facility in service stands until a dated source says it is cut or closed. Questions 1 and 2 count for three years.
 - **A company counts only as a party to an arrangement with the other country's operator or body.** One company's or one group's network across borders, with its own subsidiaries or wholesale customers, is `other`.
 - **Foreign networks joining an exchange as members is commercial use, not collaboration** *(settles message 78)*: a yes needs an agreement between the exchange or its national body and a body of the other country, or a regional programme naming both. Neither South Africa (NAPAfrica) nor the Democratic Republic of the Congo (KINIX) takes a yes on peering alone.
-- **The arrangement is taken from what a source says**: a source names a party in each country, or the consortium or regional programme that holds the facility. A state operator's link to a neighbour with no party there named is not yet a yes *(adopted at the rebuild, 2026-11-08)*.
+- **The arrangement is taken from what a source says** *(Bill, message 109)*: a source names a party in each country, or the consortium or regional programme that holds the facility. A state operator's link to a neighbour with no party there named is not yet a yes *(adopted at the rebuild, 2026-11-08)*.
 - **A statement that the country shares no digital infrastructure counts for three years**, and gives way to a dated source naming some.
 - **A link counts for each country a source names at its ends.** A country only named as on the route does not take the stage.
 - **A landlocked country's route to a sea cable through a neighbour is a link in service** for both, where a dated source says traffic runs over it under an arrangement both are party to.
@@ -72,6 +72,7 @@ Asked in order. Each is answered with a date and a link.
 - **Withdrawn at the redesign**: a company's link counting as a government's, and a company's cable carrying a landlocked country's traffic to its parent network.
 
 `study.json` holds this as two aspects: `built` (`building`, `agreed`, `none`) for questions 1 and 2, and `service` (`link`, `exchange`, `storage`, `none`) for 3 and 4.
+
 
 ## 4. The norm
 

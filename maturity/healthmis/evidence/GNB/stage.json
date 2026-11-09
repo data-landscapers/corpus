@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hmis",
-      "stage": "4",
+      "stage": "3",
       "system": "inservice",
-      "linked": "linked",
+      "linked": "",
       "completeness": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GNB-004",
-      "gaps": "No source found since October 2023 gives the system's reporting completeness or timeliness.",
-      "note": "DHIS2 is the national HMIS and carries disease surveillance and Tracker registries for immunisation. No reporting rate is held, so it stops at 4.",
-      "as_at": "2026-11-05"
+      "stage_sources": "GNB-003;GNB-001",
+      "gaps": "No source found since October 2023 names a separate system that exchanges data with the national DHIS2; surveillance and Tracker registries run inside it. No source gives the system's reporting completeness or timeliness.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 95): surveillance and Tracker registries inside the national DHIS2 are not links to another system, so the cell stops at 3. DHIS2 has been the national HMIS since 2011, managed by INASA.",
+      "as_at": "2026-11-09"
     }
   ]
 }

@@ -47,6 +47,8 @@ Asked in order. Each is answered with a date and a link.
 
 A later yes answers the earlier ones (method §3.3). **A national exchange in service is taken to link three or more systems, unless a source shows it links fewer** *(Bill, 2026-11-09, message 81)*: Cameroon's platform links only insurance enrolment and billing, and stays at 3. `study.json` holds this as three aspects: `exchange` (`inservice`, `underway`, `none`) for questions 1 and 2, `breadth` (`wide`) for 3 and `identifier` (`linked`) for 4. **For the drafter**: the system's name goes in `system`, the bodies or systems it links in the fact.
 
+- **Stage 4 needs one exchange joining three or more systems** *(Bill, 2026-11-09, message 96)*: separate links into one hub, such as two systems each feeding DHIS2, do not count. Somalia stays at 3.
+
 ## 4. The norm
 
 Africa CDC's health information exchange guidelines and Smart Africa's digital health blueprint ask for a national exchange policy, common standards and identifiers, then exchanges in service across the health system. This study asks the four questions above; it does not measure a country against the norm.

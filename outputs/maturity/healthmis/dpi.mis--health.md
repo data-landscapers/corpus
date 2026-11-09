@@ -21,8 +21,8 @@ The Africa CDC Digital Transformation Strategy asks for national digital health 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 15 |
-| 4 Operating | 8 |
-| 3 Established | 17 |
+| 4 Operating | 5 |
+| 3 Established | 20 |
 | 2 Nascent | 8 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
@@ -130,22 +130,10 @@ The national health information system was linked to another health system in 20
 
 ### Cote d'Ivoire: 4 Operating
 
-The national health information system was linked to another health system in 2025; its reporting rate is not published.
+Cote d'Ivoire's national health information system took data from a community health platform in 2025; its reporting rate is not known.
 
+- The mHealth Africa article says DHIS2 (the national database known as SIGSANTE) is the backbone of Côte d'Ivoire's National Health Information System and has centralised routine health data since its deployment in 2015 ([source, 2025-09-11](https://www.mhealth-africa.org/en/actualites/mhealth-et-dhis2-vers-une-interoperabilite-renforcee-en-cote-divoire/)).
 - The article says that since 2018 the national DHIS2 has integrated vaccination, epidemiological surveillance and community data flows, and that the mHealth community platform transmits data to it via HL7 FHIR APIs ([source, 2025-09-11](https://www.mhealth-africa.org/en/actualites/mhealth-et-dhis2-vers-une-interoperabilite-renforcee-en-cote-divoire/)).
-
-### Ethiopia: 4 Operating
-
-Ethiopia's national health information system was linked to disease surveillance by 2024; its reporting rate is not published.
-
-- DHIS2 and the Ministry of Health say the DHIS2-based national HMIS reached all 30,000+ public health facilities by 2024, after full national implementation began in 2017, and held over 1 billion records by 2025 ([source, 2024](https://dhis2.org/ethiopia-healthcare-performance)).
-- The profile says weekly notifiable disease surveillance data has been integrated into the DHIS2-based Public Health Emergency Management (PHEM) system ([source, 2024](https://dhis2.org/climate/country-profiles/ethiopia/)).
-
-### Guinea-Bissau: 4 Operating
-
-The national health information system was linked to another health system in 2026; its reporting rate is not published.
-
-- The DHIS2 country profile says DHIS2 is also used in Guinea Bissau for disease surveillance and ITN campaign planning, and DHIS2 Tracker programs serve as electronic registries for maternal and child health and immunization ([source, 2026-08-03](https://dhis2.org/climate/country-profiles/guinea-bissau/)).
 
 ### Mozambique: 4 Operating
 
@@ -162,16 +150,10 @@ The national health information system was linked to another health system in 20
 
 ### Somalia: 4 Operating
 
-The national health information system was linked to another health system in 2026; its reporting rate is not published.
+Somalia's national health information system took reports from a separate patient record system in 2025; its national reporting rate is not known.
 
-- HISP UiO says Somalia has adopted DHIS2 Tracker for disease surveillance, HIV monitoring and immunization records within its DHIS2-based health management information system ([source, 2025-08-15](https://dhis2.org/unicef-and-hisp-uio-expand-partnership-somalia/)).
+- The Somalia Federal Ministry of Health poster says DHIS2 functions as the national HMIS for aggregate reporting in Somalia ([source, 2026-05](https://community.dhis2.org/t/a-standards-based-approach-to-dhis2-integration/72690)).
 - The poster says RAAD (BAMNI), the national primary-care electronic health record deployed in 111 facilities across six states, automatically generates DHIS2-compliant aggregate reports from routine care records ([source, 2025](https://community.dhis2.org/t/a-standards-based-approach-to-dhis2-integration/72690)).
-
-### Togo: 4 Operating
-
-The national health information system was linked to another health system in 2026; its reporting rate is not published.
-
-- The profile says Togo also uses DHIS2 for infectious disease surveillance, alongside its HMIS role ([source, 2026-07](https://dhis2.org/climate/country-profiles/togo/)).
 
 ### Benin: 3 Established
 
@@ -222,6 +204,12 @@ A national health information system was in service in 2024; links to other heal
 
 - The DHIS2 Community post says the Ministry of Health deployed a national DHIS2 system across the country's health system, with data flowing from remote zones and sub-zones to central analysis ([source, 2024-03-13](https://community.dhis2.org/t/overcoming-connectivity-barriers-the-role-of-dhis2-platform-in-enhancing-health-data-management-in-eritrea/57621)).
 
+### Ethiopia: 3 Established
+
+Ethiopia's national health information system reached all public facilities by 2024; a link to another health system is not known.
+
+- DHIS2 and the Ministry of Health say the DHIS2-based national HMIS reached all 30,000+ public health facilities by 2024, after full national implementation began in 2017, and held over 1 billion records by 2025 ([source, 2024](https://dhis2.org/ethiopia-healthcare-performance)).
+
 ### Gambia: 3 Established
 
 A national health information system had been in service since 2009 by 2024; links to other health systems are not known.
@@ -233,6 +221,13 @@ A national health information system had been in service since 2009 by 2024; lin
 A national health information system was in service in 2025; links to other health systems are not on record.
 
 - The Ministry of Health's PASA2 page says SNIS data is entered on the DHIS2 platform, with 77 solar systems installed in 7 regions and 33 health districts to power data entry and 21 facilities given internet and computers ([source, 2025](https://pasa2.sante.gov.gn/activite-cle/gestion-analyse-et-validation-des-donnees-snis-dhis2/)).
+
+### Guinea-Bissau: 3 Established
+
+Guinea-Bissau's national health information system was in service in 2026; a link to another health system is not known.
+
+- The DHIS2 country profile says DHIS2 has been used as Guinea Bissau's national health management information system since 2013, covering routine data on a range of health programs ([source, 2026-08-03](https://dhis2.org/climate/country-profiles/guinea-bissau/)).
+- DHIS2 has been Guinea-Bissau's national health management information system since 2011, managed by INASA and including data from a wider range of health programs, according to DHIS2 ([source, 2026-10-06](https://dhis2.org/hisp-to-strengthen-guinea-bissaus-national-dhis2-system/)).
 
 ### Liberia: 3 Established
 
@@ -278,6 +273,12 @@ A national health information system was in service in 2026; links to other heal
 
 - The Ministry of Health service page lists DHIS2 as the system used for health information collection, storage, analysis, reporting and dissemination, with an HMIS data warehouse accessible through DHIS2 HMIS Data and a public data portal ([source, 2026-08-28](https://www.moh.go.tz/en/services/18)).
 - The IMPULSE study (Nov 2022-Jul 2024) found DHIS2 in use as the routine health information system in central and subnational data offices in Tanzania ([source, 2024-07](https://researchonline.lshtm.ac.uk/id/eprint/4679144/)).
+
+### Togo: 3 Established
+
+Togo's national health information system was in service in 2026; a link to another health system is not known.
+
+- DHIS2 has been used by Togo's Ministry of Health since 2016 as the country's HMIS, its main data collection and aggregation tool and national repository for health data, owned and maintained by the ministry with HISP WCA support (DHIS2 profile, updated July 2026) ([source, 2026-07](https://dhis2.org/climate/country-profiles/togo/)).
 
 ### Cape Verde: 2 Nascent
 

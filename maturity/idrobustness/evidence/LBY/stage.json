@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "robustness",
-      "stage": "5",
+      "stage": "3",
       "system": "inservice",
-      "biometric": "checked",
+      "biometric": "",
       "assurance": "certified",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBY-008",
-      "gaps": "",
-      "note": "Stage 5: in April 2026 the General Information Authority set a Level 3, biometric, highest-assurance tier for the Digital Identity Management System for Citizens, then in trials with banks; a later yes answers the earlier questions. The National Number system shows no biometric deduplication, and whether a level set for this digital layer counts is put to Bill (2026-11-08).",
-      "as_at": "2026-11-08"
+      "stage_sources": "LBY-010;LBY-012;LBY-006",
+      "gaps": "No source shows the national numbers checked by biometrics for duplicates, and the digital ID's Level 3 assurance is set for a layer still in trials with banks, not issued to the population.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 108): the Level 3 assurance set in April 2026 is for the Digital Identity Management System for Citizens, still in bank trials, so it is no yes to stage 5 and answers no earlier question. The national number is in service and issued to all nationals, but no source shows biometric deduplication.",
+      "as_at": "2026-11-09"
     }
   ]
 }

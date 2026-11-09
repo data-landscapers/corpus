@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ZMB-002",
-      "gaps": "",
-      "note": "DHIS2 is the national system, used by about 90% of facilities for disease surveillance reporting, and completeness of 99% in 2024 is published.",
-      "as_at": "2026-11-05"
+      "gaps": "No separate system is shown exchanging data with the national DHIS2; disease surveillance reporting runs inside it and the FHIR guide sets a profile, not an exchange in service. The published rate answers question 3.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 95): surveillance reporting inside the national DHIS2 and a FHIR profile are not a link in service, but the published completeness of 99% in 2024 answers question 3, so the cell holds at 5.",
+      "as_at": "2026-11-09"
     }
   ]
 }

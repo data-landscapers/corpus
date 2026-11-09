@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "social",
-      "stage": "5",
+      "stage": "4",
       "registry": "inservice",
       "programmes": "several",
       "linked": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-006;NGA-008",
-      "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-socialregistry.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "NGA-006;NGA-008;NGA-002",
+      "gaps": "No source found says the cash transfers drawn from the register are paid digitally; BVN checks alone do not say so.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 106): NINs are integrated into the National Social Register and two transfer programmes draw on it, which sets stage 4. Stage 5 now also needs digital payment by a programme using it, and nothing held says so.",
+      "as_at": "2026-11-09"
     }
   ]
 }

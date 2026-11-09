@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "hmis",
-      "stage": "4",
+      "stage": "3",
       "system": "inservice",
-      "linked": "linked",
+      "linked": "",
       "completeness": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TGO-003",
-      "gaps": "No source found since October 2023 gives the system's reporting completeness or timeliness.",
-      "note": "DHIS2 is the national HMIS and repository and also carries infectious disease surveillance. No reporting rate is held, so it stops at 4.",
-      "as_at": "2026-11-05"
+      "stage_sources": "TGO-002",
+      "gaps": "No source found since October 2023 names a separate system that exchanges data with the national DHIS2; surveillance runs inside it. No source gives the system's reporting completeness or timeliness.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 95): surveillance run inside the national DHIS2 is not a link to another system, so the cell stops at 3. DHIS2 has been the ministry's national HMIS and repository since 2016.",
+      "as_at": "2026-11-09"
     }
   ]
 }

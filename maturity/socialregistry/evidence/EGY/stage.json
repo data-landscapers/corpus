@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "social",
-      "stage": "5",
+      "stage": "4",
       "registry": "inservice",
       "programmes": "several",
       "linked": "linked",
       "cap": "",
       "flags": "",
       "stage_sources": "EGY-004;EGY-002",
-      "gaps": "Nothing shows how often or how fully the registry is checked against the 27 linked databases.",
-      "note": "The ministry said in November 2026 that the registry is linked to 27 government databases through the national ID number, which meets stage 5. Several programmes select from it (World Bank, 2024).",
-      "as_at": "2026-11-08"
+      "gaps": "No source found says Takaful and Karama or another programme drawing on the registry pays benefits digitally.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 106): the registry is linked to 27 government databases through the national ID number, and several programmes select from it, which sets stage 4. Stage 5 now also needs digital payment by a programme using it, and nothing held says so.",
+      "as_at": "2026-11-09"
     }
   ]
 }

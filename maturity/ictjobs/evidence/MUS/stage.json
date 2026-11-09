@@ -9,9 +9,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MUS-004",
-      "gaps": "Youth unemployment was 18.4 per cent in 2025 on the national labour force survey, above 14 per cent.",
-      "note": "The latest figure, 3.39 per cent of employment for 2024, clears 1. Statistics Mauritius's 2025 labour force survey puts youth unemployment at 18.4 per cent, above 14, so question 4 is not met.",
-      "as_at": "2026-11-05"
+      "gaps": "No credible statistic found since October 2023 gives graduate unemployment of 14 per cent or less.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 94): question 4 asks for graduate unemployment from any credible statistic, not youth unemployment. The latest figure, 3.39 per cent of employment for 2024, clears 1; Statistics Mauritius's 18.4 per cent for 2025 counts all young people, not graduates.",
+      "as_at": "2026-11-09"
     }
   ]
 }

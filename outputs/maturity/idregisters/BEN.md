@@ -10,4 +10,4 @@
 
 ***Also on file***. [CNIB](<https://beninwebtv.com/benin-la-carte-didentite-biometrique-peut-desormais-etre-renouvelee-en-ligne/>); [ANIP identity system](<https://www.biometricupdate.com/202605/building-digital-id-systems-that-last-african-countries-share-experiences-as-id4africa-2026-opens>); [Registre national des personnes physiques (RNPP)](<https://lanationbenin.bj/actualites/interoperabilite-avec-le-registre-national-des-personnes-physiques-des-structures-publiques-et-privees-entretenues-sur-les-avantages>); [Numero personnel d'identification (NPI)](<https://lanationbenin.bj/actualites/interoperabilite-avec-le-registre-national-des-personnes-physiques-des-structures-publiques-et-privees-entretenues-sur-les-avantages>); [Preuve de Vie app](<https://www.ecofinagency.com/news-digital/1710-59862-benin-launches-app-letting-public-sector-retirees-provide-proof-of-life-remotely>).
 
-***Not found***. No source dated since October 2023 gives the share of tax identifiers linked to the NPI. None gives a figure from matching.
+***Not found***. No later share of tax identifiers linked to the NPI is given. Nor is a figure for what matching found.

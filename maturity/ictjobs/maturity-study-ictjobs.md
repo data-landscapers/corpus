@@ -1,7 +1,7 @@
 ---
 type: task
 reader: cc
-title: maturity-study-ictjobs.md — employment in information and communication and youth unemployment, from the held figure
+title: maturity-study-ictjobs.md — employment in information and communication and graduate unemployment, from the held figure
 last_reviewed: 2026-10-16
 status: first pass run 2026-10-16; staged, written and on the soft-launch map; waits for Bill's acceptance
 ---
@@ -12,7 +12,7 @@ status: first pass run 2026-10-16; staged, written and on the soft-launch map; w
 
 ## 1. What is assessed
 
-**How much of the workforce is employed in information and communication, and whether youth unemployment is low.** The figure is ILOSTAT's employment in ISIC section J as a share of all employment (`ilostat-isic-j-employment` in `reference/measures.csv`), the frame row's own value; the frame reads absorption into the sector, since the STEM share is the university row's.
+**How much of the workforce is employed in information and communication, and whether graduate unemployment is low.** The figure is ILOSTAT's employment in ISIC section J as a share of all employment (`ilostat-isic-j-employment` in `reference/measures.csv`), the frame row's own value; the frame reads absorption into the sector, since the STEM share is the university row's.
 
 The study redraws `capacity.training--graduates-entering-dt-ecosystem`, which as at 2026-08-31 puts 18 countries at stage 4, nine each at 3, 2 and 1, and nine unplaced. It touches no other row.
 
@@ -20,7 +20,7 @@ The study redraws `capacity.training--graduates-entering-dt-ecosystem`, which as
 |---|---|---|
 | ICT employment | Graduates entering DT ecosystem: ICT employment | `capacity.training--graduates-entering-dt-ecosystem` |
 
-Anything else the evidence names is `other`, noted and never staged: a jobs or skills programme, an overall unemployment rate with no youth figure, an estimate with no survey named.
+Anything else the evidence names is `other`, noted and never staged: a jobs or skills programme, an unemployment rate for young people or for all workers with no figure for graduates.
 
 ## 2. The questions
 
@@ -31,7 +31,7 @@ Asked in order. Each is answered with a date and a link.
 | 1 | Is the figure at least 0.3? | The latest figure held, for 2023 or later, is 0.3 per cent of employment or more |
 | 2 | At least 0.6? | That figure is 0.6 or more |
 | 3 | At least 1? | That figure is 1 or more |
-| 4 | Is youth unemployment 14 per cent or below? | A source from the last three years gives youth unemployment of 14 per cent or less from the national labour force survey |
+| 4 | Is graduate unemployment 14 per cent or below? | A credible statistic dated within the last three years gives unemployment among graduates of 14 per cent or less |
 
 ## 3. The ladders
 
@@ -48,8 +48,9 @@ Asked in order. Each is answered with a date and a link.
 - **The lines are the frame's own cuts** (`lookups/maturity-measures.csv`), fixed and not redrawn, so a country moves only when its own figure crosses one.
 - **Question 4 counts only beside a figure at the top line**: it is the frame's stage-5 condition, not a step beyond the figure, so method §3.3 does not apply to it.
 - **A fall is a fall**: the latest figure sets the stage. No figure for 2023 or later is *unplaced*; none at all is *No evidence*.
+- **Question 4 asks about graduates, from any credible statistic** *(Bill, 2026-11-09, message 94)*: a youth or national unemployment rate does not answer it, and the figure need not come from the labour force survey. Seychelles stays at 4.
 
-`study.json` holds this as two aspects: `jobs`, whose value is the figure (`official:…`), and `youth` (`low`).
+`study.json` holds this as two aspects: `jobs`, whose value is the figure (`official:…`), and `youth` (`low`), which records graduate unemployment of 14 per cent or less.
 
 ## 4. The norm
 

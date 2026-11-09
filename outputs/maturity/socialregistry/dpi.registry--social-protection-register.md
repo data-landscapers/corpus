@@ -1,10 +1,10 @@
 # Social protection register: social protection register
 
-*As at 2026-10-18.*
+*As at 2026-09-30.*
 
 ## The norm
 
-The African Union's Protocol on Social Protection asks states for a social registry and integrated beneficiary registry, interoperable with civil registration and payments. This study asks the four questions above; it does not measure a country against the norm.
+The African Union's Protocol on Social Protection asks states for a social registry and integrated beneficiary registry, interoperable with civil registration and payments. This study asks the five questions above; it does not measure a country against the norm.
 
 ## The ladder
 
@@ -13,70 +13,22 @@ The African Union's Protocol on Social Protection asks states for a social regis
 | 1 None | A source from the past three years says no social registry exists and programmes hold their own lists. |
 | 2 Under way | Yes to 1 |
 | 3 In service | Yes to 2 |
-| 4 Several programmes | Yes to 3 |
-| 5 Linked to ID | Yes to 4 |
+| 4 Several programmes or linked | Yes to 3, or yes to 4 |
+| 5 Linked and paying | Yes to 4 and yes to 5 |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
-| 4 Operating | 10 |
-| 3 Established | 14 |
+| 5 Leading | 0 |
+| 4 Operating | 19 |
+| 3 Established | 12 |
 | 2 Nascent | 13 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
 | No evidence | 7 |
 
 ## Countries
-
-### Congo: 5 Leading
-
-The social registry was linked to the national ID in 2024.
-
-- Article 8 of the arrete says the registre social unique holds data from the civil-status information systems and the unique identification number, among other sources ([source, 2024-08-20](https://liziba.cg/wp-content/uploads/2024/09/Arrete-n-18503-du-20-aout-2024-fixant-les-regles-de-collecte-de-traitement-dechange-et-dactualisation-des-donnees-du-registre-social-unique.pdf)).
-
-### Cote d'Ivoire: 5 Leading
-
-The social registry was linked to the national ID in 2026.
-
-- BCPFS and ONECI signed a convention on 2 April 2026 interconnecting the Registre Social Unique with ONECI's databases, with beneficiaries identified through the national register of persons to remove duplicates ([source, 2026-04-02](https://filetsociaux-ci.org/registre-social-unique-des-menages-pauvres-et-vulnerables-rsu-signature-dune-convention-entre-le-bureau-de-coordination-du-programme-filets-sociaux-bcpfs-et-loffice-nation/)).
-
-### Egypt: 5 Leading
-
-The 13-million-household social registry was linked to 27 government databases by national ID number in 2026; how often it is checked is unclear.
-
-- The social registry is linked to 27 government databases through the national ID number, per Raafat Shafik of the Ministry of Social Solidarity ([source, 2026-11-06](https://almessa.gomhuriaonline.com/764443/)).
-- The World Bank says Takaful and Karama (two components) and the FORSA, Two is enough, Waii and 1,000 days cash-plus interventions are designed on, or target beneficiaries from, the TKP social registry ([source, 2024-05-28](https://www.worldbank.org/en/results/2024/05/28/promoting-inclusive-human-capital-development-and-building-resilience-in-egypt-through-cash-transfer-programs)).
-
-### Ghana: 5 Leading
-
-The household registry collected Ghana Card numbers and linked to the identity authority's data in 2026; how many records carry one is unclear.
-
-- The policy says the registry collects the NIA Ghana Card number and links registry data with NIA, NHIA and GES databases ([source, 2026-07](https://gnhr.mogcsp.gov.gh/privacy.php)).
-- The policy says registry data is used to identify eligible beneficiaries for programmes such as LEAP, NHIS and school feeding ([source, 2026-07](https://gnhr.mogcsp.gov.gh/privacy.php)).
-- The GNHR site says the registry targets beneficiaries of LEAP, school feeding and national health insurance (NHIS), and that its data is used by 15 programmes and 8 organisations over 2019-2026 ([source, 2024](https://gnhr.mogcsp.gov.gh/registry.php)).
-
-### Nigeria: 5 Leading
-
-The social registry was linked to the national ID in 2026.
-
-- NASSCO said 12.3 million NINs have been captured into the National Social Register and over 11.5 million validated, with NIN integration ongoing ([source, 2026-05-07](https://tribuneonlineng.com/77-million-nigerians-now-on-fgs-safety-net-register-nassco/)).
-- NSIPA says NIN and BVN are integrated into the NSR database, with 1,628,587 NINs validated by NIMC ([source, 2025](https://nsipa.gov.ng/programmes/nassco.html)).
-
-### Rwanda: 5 Leading
-
-The social registry was linked to the national ID in 2025.
-
-- The World Bank states Rwanda moved to a national digital platform linked to ID and administrative data ([source, 2025-11-19](https://www.worldbank.org/en/results/2025/11/19/social-registries-digital-platforms-inclusive-service-delivery)).
-- BMZ reports data in Imibereho is validated through cross-checks with other government databases including the National ID Agency (NIDA) ([source, 2024-02-29](https://health.bmz.de/stories/rwandan-government-launches-imibereho-dynamic-social-registry/)).
-
-### Togo: 5 Leading
-
-The social registry took in national ID numbers automatically in 2026; which programmes draw on it is not known.
-
-- The World Bank says the e-ID system is fully interoperable with the RSPM, enabling automatic ingestion of unique identification numbers ([source, 2026-03](https://documents1.worldbank.org/curated/en/099032526174532318/pdf/P169594-5fd6786a-2b45-425b-95b6-0e79d792a6fb.pdf)).
-- The World Bank says Togo has operationalised a dynamic social registry (RSPM) that its e-ID feeds ([source, 2026-03](https://documents1.worldbank.org/curated/en/099032526174532318/pdf/P169594-5fd6786a-2b45-425b-95b6-0e79d792a6fb.pdf)).
 
 ### Burundi: 4 Operating
 
@@ -91,17 +43,46 @@ Two or more programmes used the social registry in 2026; no source found reports
 - The Government of Cabo Verde says registered eligible households can access targeted support including cash transfers, food security support and resilience programmes through the Cadastro Social Unico ([source, 2026-06-17](https://www.governo.cv/apelo-ao-registo-no-cadastro-social-unico-csu-para-agregados-familiares-em-zonas-climaticamente-vulneraveis/)).
 - The Cabo Verde minister says about 16 social programmes use the CSU to select beneficiaries, including RSI, social pension, higher-education grants and the social energy and water tariff ([source, 2024-02-20](https://www.governo.cv/governo-lanca-mecanismo-de-gestao-das-informacoes-e-reclamacoes-do-cadastro-social-unico/)).
 
+### Congo: 4 Operating
+
+Several programmes used the social registry, which held the national ID number, in 2026; whether any programme pays digitally is not known.
+
+- Article 8 of the arrete says the registre social unique holds data from the civil-status information systems and the unique identification number, among other sources ([source, 2024-08-20](https://liziba.cg/wp-content/uploads/2024/09/Arrete-n-18503-du-20-aout-2024-fixant-les-regles-de-collecte-de-traitement-dechange-et-dactualisation-des-donnees-du-registre-social-unique.pdf)).
+- The minister says that thanks to the RSU the assistance programmes, universal health insurance, social safety nets and insertion projects, now have a common source of information ([source, 2026-04-10](https://affaires-sociales.gouv.cg/2026/04/14/le-registre-social-unique-du-congo-dispose-dun-siege-approprie/)).
+
+### Cote d'Ivoire: 4 Operating
+
+The social registry was linked to the national ID in 2026; which programmes use it, and whether any pays digitally, is not known.
+
+- BCPFS and ONECI signed a convention on 2 April 2026 interconnecting the Registre Social Unique with ONECI's databases, with beneficiaries identified through the national register of persons to remove duplicates ([source, 2026-04-02](https://filetsociaux-ci.org/registre-social-unique-des-menages-pauvres-et-vulnerables-rsu-signature-dune-convention-entre-le-bureau-de-coordination-du-programme-filets-sociaux-bcpfs-et-loffice-nation/)).
+- The Bureau de Coordination des Programmes Filets Sociaux says the RSU, set up in 2019, has more than 1.45 million households and 8.8 million individuals registered ([source, 2025-08](https://filetsociaux-ci.org/elaboration-et-validation-des-indicateurs-du-registre-social-unique-des-menages-pauvres-et-vulnerables-rsu/)).
+
 ### DR Congo: 4 Operating
 
 Two or more programmes used the social registry in 2026; no source found reports a link to the national ID.
 
 - MINAS says the RSU provides lists of eligible households to the different social programmes, including State ones, under data-sharing protocols ([source, 2026-07-19](https://minas.gouv.cd/registre-social-unique-rsu-un-levier-essentiel-pour-la-protection-sociale-en-rdc/)).
 
+### Egypt: 4 Operating
+
+Several programmes used the social registry, linked to 27 databases by national ID number, in 2026; whether benefits are paid digitally is not known.
+
+- The social registry is linked to 27 government databases through the national ID number, per Raafat Shafik of the Ministry of Social Solidarity ([source, 2026-11-06](https://almessa.gomhuriaonline.com/764443/)).
+- The World Bank says Takaful and Karama (two components) and the FORSA, Two is enough, Waii and 1,000 days cash-plus interventions are designed on, or target beneficiaries from, the TKP social registry ([source, 2024-05-28](https://www.worldbank.org/en/results/2024/05/28/promoting-inclusive-human-capital-development-and-building-resilience-in-egypt-through-cash-transfer-programs)).
+
 ### Gambia: 4 Operating
 
 Two or more programmes used the social registry in 2024; no source found reports a link to the national ID.
 
 - The World Bank says GamSR data underpinned the Nafa Quick COVID-19 response (78,422 households) and the Nafa cash-transfer programme (16,966 households), and is also used by the National Disaster Management Agency, the ROOTS project and the World Food Programme ([source, 2024-04-23](https://blogs.worldbank.org/en/nasikiliza/the-gambia-social-registry-a-success-story-in-systems-building)).
+
+### Ghana: 4 Operating
+
+Several programmes used the household registry, which linked to the identity authority's data, in 2026; whether benefits are paid digitally is not known.
+
+- The policy says the registry collects the NIA Ghana Card number and links registry data with NIA, NHIA and GES databases ([source, 2026-07](https://gnhr.mogcsp.gov.gh/privacy.php)).
+- The policy says registry data is used to identify eligible beneficiaries for programmes such as LEAP, NHIS and school feeding ([source, 2026-07](https://gnhr.mogcsp.gov.gh/privacy.php)).
+- The GNHR site says the registry targets beneficiaries of LEAP, school feeding and national health insurance (NHIS), and that its data is used by 15 programmes and 8 organisations over 2019-2026 ([source, 2024](https://gnhr.mogcsp.gov.gh/registry.php)).
 
 ### Guinea: 4 Operating
 
@@ -127,6 +108,20 @@ Two or more programmes used the social registry in 2025; no source found reports
 
 - The World Bank mission says five programmes use the UBR data for targeting and research as of March 2025 ([source, 2025-03](https://documents1.worldbank.org/curated/en/099062325114042048/txt/P169198-441cfc05-221d-412e-9c5e-a5b191e1d0bb.txt)).
 
+### Mauritania: 4 Operating
+
+Two transfer programmes chose recipients from the social registry in 2024; whether it is linked to the national ID is not known.
+
+- Decree 2024-073 of 15 May 2024 states that any poor household enrolled in the Registre Social is eligible for Tekavoul regular transfers (Art. 11) and any vulnerable household enrolled in it for shock-response transfers (Art. 13), so the Registre Social is in use to choose recipients ([source, 2024-05-15](https://faolex.fao.org/docs/pdf/mau229659.pdf)).
+- The national social registry coordinator at Taazour says the AOUN operation covers all 352,000 households registered in the social registry database ([source, 2026-06-12](https://www.ami.mr/archives/261586)).
+
+### Mauritius: 4 Operating
+
+Two allowances were tied to the social register in 2026; whether it is linked to the national ID is not known.
+
+- The Mauritius Revenue Authority FAQ of January 2026 refers to persons registered on the Social Register of Mauritius, who continue to receive CSG income allowances at the June 2025 rates, while those not on it get lower rates ([source, 2026-01](https://www.mra.mu/download/FAQs-SocialContributionIncomeAllowance.pdf)).
+- The Mauritius Revenue Authority says the Independence Allowance of Rs 20,000 is paid to eligible youths registered on the Social Register of Mauritius on reaching 18 ([source, 2025](https://www.mra.mu/index.php/eservices1/financial-assistance/independence-allowance)).
+
 ### Morocco: 4 Operating
 
 Two or more programmes used the social registry in 2026; no source found reports a link to the national ID.
@@ -134,11 +129,33 @@ Two or more programmes used the social registry in 2026; no source found reports
 - The author says the Registre social unifié index is used in targeting beneficiaries of social programmes (plural, unnamed) ([source, 2026-10-12](https://medias24.com/chronique/droits-humains-maroc-defi-espace-numerique/)).
 - The Ministry of Interior document says the RSU is used to improve targeting of social protection programmes (plural) and that the RNP is used by social protection programmes ([source, 2024-10-23](https://aujourdhui.ma/actualite/operation-extension-de-lidentifiant-digital-civil-et-social)).
 
+### Nigeria: 4 Operating
+
+Two transfer programmes drew on the social register, which held 12.3 million ID numbers, in 2026; whether transfers are paid digitally is not known.
+
+- NASSCO said 12.3 million NINs have been captured into the National Social Register and over 11.5 million validated, with NIN integration ongoing ([source, 2026-05-07](https://tribuneonlineng.com/77-million-nigerians-now-on-fgs-safety-net-register-nassco/)).
+- NSIPA says NIN and BVN are integrated into the NSR database, with 1,628,587 NINs validated by NIMC ([source, 2025](https://nsipa.gov.ng/programmes/nassco.html)).
+- The World Bank report says ESR-CT households are identified from the Social Registers (National Social Register and Rapid Response Register), and the Extended Regular Cash Transfer also counts households from it ([source, 2025-09-03](https://documents1.worldbank.org/curated/en/099090325094525591/txt/P176935-a76b292b-0876-428f-bd15-82f5f0c9fba7.txt)).
+
+### Rwanda: 4 Operating
+
+Several programmes drew on the social registry, linked to the national ID, in 2025; whether benefits are paid digitally is not known.
+
+- The World Bank states Rwanda moved to a national digital platform linked to ID and administrative data ([source, 2025-11-19](https://www.worldbank.org/en/results/2025/11/19/social-registries-digital-platforms-inclusive-service-delivery)).
+- The World Bank states the Imibereho registry supports safety nets, economic inclusion, skills and health insurance programmes, with over 11 million people covered by health insurance ([source, 2025-11-19](https://www.worldbank.org/en/results/2025/11/19/social-registries-digital-platforms-inclusive-service-delivery)).
+
 ### Senegal: 4 Operating
 
 Two or more programmes used the social registry in 2023; no source found reports a link to the national ID.
 
 - DGPSN says RNU data lowered data-collection costs for one-time interventions (exceptional cash transfers, Covid-19 assistance) beside the PNBSF cash transfer programme it serves ([source, 2023-11](https://spdci.org/wp-content/uploads/2023/11/Talking-Interoperability-13-Senegal-Eng-revised.pdf)).
+
+### Togo: 4 Operating
+
+The social registry took in national ID numbers automatically in 2026; which programmes draw on it, and how they pay, is not known.
+
+- The World Bank says the e-ID system is fully interoperable with the RSPM, enabling automatic ingestion of unique identification numbers ([source, 2026-03](https://documents1.worldbank.org/curated/en/099032526174532318/pdf/P169594-5fd6786a-2b45-425b-95b6-0e79d792a6fb.pdf)).
+- The World Bank says Togo has operationalised a dynamic social registry (RSPM) that its e-ID feeds ([source, 2026-03](https://documents1.worldbank.org/curated/en/099032526174532318/pdf/P169594-5fd6786a-2b45-425b-95b6-0e79d792a6fb.pdf)).
 
 ### Angola: 3 Established
 
@@ -196,20 +213,6 @@ A social registry was in service in 2026; no source found reports its use by two
 A social registry was in service in 2025; no source found reports its use by two or more programmes.
 
 - WFP says it is supporting the Commissariat a la Securite Alimentaire in a lessons-learned exercise on the 2025 use of the RSU (Unified Social Registry) for targeting within the national food insecurity response ([source, 2025](https://docs.wfp.org/api/documents/WFP-0000172581/download/)).
-
-### Mauritania: 3 Established
-
-A social registry was in service in 2026; no source found reports its use by two or more programmes.
-
-- Taazour says the AOUN operation targets 2,057,006 citizens registered in the social registry database nationwide, who verify eligibility on its platform ([source, 2026-06](https://taazour.mr/archives/7559)).
-- The national social registry coordinator at Taazour says the AOUN operation covers all 352,000 households registered in the social registry database ([source, 2026-06-12](https://www.ami.mr/archives/261586)).
-
-### Mauritius: 3 Established
-
-A social registry was in service in 2026; no source found reports its use by two or more programmes.
-
-- The Mauritius Revenue Authority FAQ of January 2026 refers to persons registered on the Social Register of Mauritius, who continue to receive CSG income allowances at the June 2025 rates, while those not on it get lower rates ([source, 2026-01](https://www.mra.mu/download/FAQs-SocialContributionIncomeAllowance.pdf)).
-- The Mauritius Revenue Authority says the Independence Allowance of Rs 20,000 is paid to eligible youths registered on the Social Register of Mauritius on reaching 18 ([source, 2025](https://www.mra.mu/index.php/eservices1/financial-assistance/independence-allowance)).
 
 ### Niger: 3 Established
 

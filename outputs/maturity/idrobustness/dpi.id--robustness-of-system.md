@@ -4,7 +4,7 @@
 
 ## The norm
 
-The African Union's interoperability framework asks that a national ID system have technical integrity: unique identities, defined levels of assurance and security baselines that others can trust. This study asks the four questions above; it does not measure a country against the norm.
+The African Union's interoperability framework asks that a national ID system have technical integrity: unique identities, defined levels of assurance and security baselines that others can trust. This study asks the five questions above; it does not measure a country against the norm.
 
 ## The ladder
 
@@ -14,41 +14,21 @@ The African Union's interoperability framework asks that a national ID system ha
 | 2 Under way | Yes to 1 |
 | 3 In service | Yes to 2 |
 | 4 Biometric checks | Yes to 3 |
-| 5 Certified | Yes to 4 |
+| 5 Certified | Yes to 4 and 5 |
 
 ## Countries by stage
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
-| 4 Operating | 16 |
-| 3 Established | 33 |
+| 5 Leading | 0 |
+| 4 Operating | 17 |
+| 3 Established | 35 |
 | 2 Nascent | 2 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 0 |
 
 ## Countries
-
-### Libya: 5 Leading
-
-Libya's digital ID set a biometric top assurance level in 2026, then in bank trials; no deduplication of national numbers is on record.
-
-- The Digital Identity Management System for Citizens has a Level 3 identity based on biometric data, described as the highest level of digital verification ([source, 2026-04](https://www.gia.gov.ly/en/2026/04/19/general-information-authority-central-bank-of-libya-national-authority-for-combating-money-laundering-with-the-relevant-authorities/)).
-
-### Nigeria: 5 Leading
-
-The national ID system's security was certified or audited in 2025.
-
-- NIMC says it has held ISO 27001 certification since 2014, now upgraded to the 2022 standard ([source, 2025-12-10](https://techcabal.com/2025/12/10/inside-nigerias-83m-bet-on-mosip-for-its-national-id/)).
-- The World Bank paper says the 121 million NINs were generated following biometric and demographic validation and de-duplication ([source, 2026-09-14](https://www.biometricupdate.com/202611/nigeria-seeks-digital-id-project-extension-to-roll-out-mosip-based-infrastructure)).
-- A World Bank restructuring paper records about 121 million NINs successfully generated as of 14 September 2026, out of about 145 million enrolments ([source, 2026-09-14](https://www.biometricupdate.com/202611/nigeria-seeks-digital-id-project-extension-to-roll-out-mosip-based-infrastructure)).
-
-### Sudan: 5 Leading
-
-Sudan's national digital ID set three assurance levels in 2026, the highest biometric; no deduplication of the civil register is on record.
-
-- Identities are classified into three trust levels by strength of verification: basic, intermediate, and high with in-person biometric verification ([source, 2026-05-21](https://sudapass.gov.sd/terms?lang=en)).
 
 ### Algeria: 4 Operating
 
@@ -128,6 +108,14 @@ The national ID system checked people by biometrics in 2026; no certification or
 
 - Enrolment captures fingerprints, face, voice and iris to build a digital model that the authorities say prevents identity theft and guarantees each citizen's uniqueness ([source, 2026-04-25](https://anp.ne/niger-lancement-officiel-de-la-carte-didentite-nationale-biometrique-aes-a-niamey/)).
 - Niger opened enrolment for the biometric national identity card CNIB AES in Agadez, collecting fingerprints and biometrics locally and sending files to Niamey for printing, with a five-year validity, per the Journal du Niger ([source, 2026-09-15](https://www.journalduniger.com/agadez-lancement-enrolement-carte-identite-biometrique-cnib-aes/)).
+
+### Nigeria: 4 Operating
+
+Nigeria issued 121 million ID numbers by 2026 after biometric de-duplication, with its security certified; no source shows the whole population holds one.
+
+- The World Bank paper says the 121 million NINs were generated following biometric and demographic validation and de-duplication ([source, 2026-09-14](https://www.biometricupdate.com/202611/nigeria-seeks-digital-id-project-extension-to-roll-out-mosip-based-infrastructure)).
+- The NIMC DG says biometric verification, fingerprints and facial recognition, flags duplicate enrolments at the front end and invalidates them ([source, 2026-07-12](https://www.channelstv.com/2026/07/12/tinubu-has-given-nimc-until-end-of-2026-to-enrol-every-nigerian-dg/)).
+- A World Bank restructuring paper records about 121 million NINs successfully generated as of 14 September 2026, out of about 145 million enrolments ([source, 2026-09-14](https://www.biometricupdate.com/202611/nigeria-seeks-digital-id-project-extension-to-roll-out-mosip-based-infrastructure)).
 
 ### Somalia: 4 Operating
 
@@ -281,6 +269,14 @@ The national ID system was issuing unique numbers in 2026; no source found repor
 - The proclamation says about 720,000 people are enrolled in the NBIS and that every person in Liberia is required to enrol, with citizen or foreign-national status recorded ([source, 2026-09-16](https://www.africa-newsroom.com/press/liberia-president-boakai-declares-wednesday-september-16-as-national-identification-day?lang=en)).
 - The article says citizens outside Monrovia must travel to the capital to register and obtain national ID cards from the National Identification Registry, whose director says it wants to replace its current technology under a proposed US$39 million plan ([source, 2026-08-31](https://knewsonline.com/liberia-plans-nationwide-same-day-national-id-service-seeks-us39-million-for-rollout)).
 
+### Libya: 3 Established
+
+Libya's national number is issued to all nationals; no biometric deduplication is on record, and its digital ID was in bank trials in 2026.
+
+- The Civil Registry Authority issues a unique National ID Number to all Libyan nationals, needed for a SIM, passport, bank account or vote; the Libya Herald also recalls a leaked estimate of 250,000-700,000 fake numbers ([source, 2024-09-06](https://libyaherald.com/2024/09/pm-aldabaiba-follows-up-on-intilaqa-project-for-matching-civil-registry-electronic-data-with-paper-records)).
+- The Attorney General's Office says a review found 315,385 National Numbers granted contrary to legislation and 8,662 National Numbers suspended, showing the national number system in operation ([source, 2026-10-15](https://alwasat.ly/news/481677)).
+- Libya's Attorney General Al-Siddiq Al-Sour said a review found more than 315,000 national identification numbers issued unlawfully, with 8,662 numbers suspended ([source, 2026-10-13](https://libyaobserver.ly/news/libyas-attorney-general-reveals-315000-unlawfully-issued-national-id-numbers-citizenship-data)).
+
 ### Malawi: 3 Established
 
 The national ID system was issuing unique numbers in 2026; no source found reports biometric checks.
@@ -371,6 +367,14 @@ The national ID system was issuing unique numbers in 2026; no source found repor
 
 - The Directorate is registering examination candidates for National IDs in schools, launched 4 August 2026, with expansion to more schools planned ([source, 2026-08-04](https://catholicradionetwork.org/2026/08/04/immigration-directorate-launches-school-based-national-id-registration-for-examination-candidates/)).
 - The Directorate launched school-based registration to provide National ID cards to Primary Eight and Senior Four candidates, starting in Juba and to expand to other states ([source, 2026-08-04](https://www.eyeradio.org/school-based-national-id-registration-launched-for-exam-candidates-in-juba/)).
+
+### Sudan: 3 Established
+
+Sudan issues national numbers and ID cards; no biometric deduplication is on record, and its digital ID, launched in 2026, has no coverage figure.
+
+- The Passports and Civil Registry Authority says national numbers have been issued to all age groups above 12 through civil registry centres, and national ID card issuance resumed in safe states from 15 February 2026 ([source, 2026-02-15](https://suda.news/46425)).
+- Pakistan's interior minister Mohsin Naqvi said that with NADRA's support Sudan has issued nine million national identity cards (and 36 million citizenship cards) to date ([source, 2026-11-07](https://thenews.pk/print/1447584-pakistan-sudan-to-strengthen-security-digital-registration-efforts)).
+- The Ministry of Digital Transformation and Telecommunications launched SUDAPASS, the national digital identity, on 21 May 2026, implemented through the Cybersecurity Authority and the National Electronic Certification Authority with the Interior Ministry's Civil Registry ([source, 2026-05-21](https://www.suna.sd/posts/alsodan-ytlk-alhoy-alrkmy-alotny-sodabasltaazyz-althk-oalthol-alrkmy)).
 
 ### Tunisia: 3 Established
 

@@ -10,4 +10,4 @@
 
 ***Also on file***. [SmartCare / SmartCare Pro](<https://www.theglobalfund.org/media/w4gdfjob/publication_zambia-digital-health_casestudy_en.pdf>); [electronic integrated disease surveillance and response system](<https://www.theglobalfund.org/media/w4gdfjob/publication_zambia-digital-health_casestudy_en.pdf>); [eLMIS](<https://github.com/MOH-Zambia/ZM-Core/>); [SmartCare](<https://github.com/MOH-Zambia/ZM-Core/>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. Nothing found names a separate system exchanging data with the national system.

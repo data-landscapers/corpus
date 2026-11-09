@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Operating | Yes to 1, 2 and 3: public bodies must meet a named international standard |
 | 5 Leading | Yes to all four: the country has taken part in writing such standards in the last three years |
 
-- **A yes to a later question answers the earlier ones**: a national standard carrying an ISO number shows the body adopts from ISO.
+- **Each question must be met on its own evidence** *(Bill, 2026-11-09, message 112; `"later_yes": false`)*: a committee seat or a rule does not show adoption, nor an adopted standard membership.
 - **Questions 1 to 3 have no time limit**: a membership, a standard and a rule stand, with their year, until a dated source says they have gone. Question 4 counts for three years.
 - **A statement that the country belongs to no international standards organisation counts for three years.**
 - **The class of membership does not change the stage.** Full, correspondent and subscriber members all answer question 1, and the summary says which. This is a change from the row as it stands, which reads the class as a rung: a correspondent member can and does adopt international standards, so the class is not a step on the way.

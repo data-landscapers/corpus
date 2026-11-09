@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-healthmis.md — the national health information system, in four questions
-last_reviewed: 2026-10-23
+last_reviewed: 2026-11-09
 status: first pass run 2026-10-16; staged, written and on the soft-launch map; waits for Bill's acceptance
 ---
 
@@ -48,6 +48,8 @@ Asked in order. Each is answered with a date and a link.
 A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `system` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `linked` (`linked`) for 3 and `completeness` (`published`) for 4.
 
 **Question 2, a national system with facilities or districts across the country reporting, is shown by its own evidence** *(Bill, 2026-10-23; `study.json` → `"must_show": [2]`)*: a later yes no longer answers it, and answers the other questions still. No cell moved.
+
+**Question 3, a link, is to a separate system** *(Bill, 2026-11-09, message 95)*: a separate system exchanging data with the national one counts, such as an eLMIS, a surveillance platform or a patient record pushing to DHIS2; a module, Tracker program or surveillance function inside the same DHIS2 instance is not a link. Ethiopia, Guinea-Bissau and Togo went from 4 to 3; a published rate still answers question 3 at stage 5.
 
 ## 4. The norm
 

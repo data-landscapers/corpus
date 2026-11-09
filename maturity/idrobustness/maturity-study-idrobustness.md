@@ -1,7 +1,7 @@
 ---
 type: task
 reader: cc
-title: maturity-study-idrobustness.md — the national ID system and how sound it is, in four questions
+title: maturity-study-idrobustness.md — the national ID system and how sound it is, in five questions
 last_reviewed: 2026-10-16
 status: first pass run 2026-10-16; staged, written and on the soft-launch map; waits for Bill's acceptance
 ---
@@ -32,6 +32,7 @@ Asked in order. Each is answered with a date and a link.
 | 2 | Is it in service? | A source from the last three years says the system is issuing credentials or numbers that are unique to each person |
 | 3 | Does it check people by biometrics? | A source from the last three years says it checks fingerprints, face or iris to stop one person enrolling twice |
 | 4 | Is its security certified or audited? | A source from the last three years reports a security certification (such as ISO 27001), a published audit, or a level of assurance set for the system |
+| 5 | Is it issued to the whole population? | A source from the last three years says the ID that question 4 answers for is held by all or nearly all of the population or of its adults: every national, or a stated share of 90% or more |
 
 ## 3. The ladders
 
@@ -43,13 +44,15 @@ Asked in order. Each is answered with a date and a link.
 | 2 Under way | Yes to 1 |
 | 3 In service | Yes to 2 |
 | 4 Biometric checks | Yes to 3 |
-| 5 Certified | Yes to 4 |
+| 5 Certified | Yes to 4 and 5 |
 
 A later yes answers the earlier ones (method §3.3). **Settled as worded** *(Bill, 2026-10-23)*: a minister's statement that an audit was done is not a published audit, so it is no yes to question 4. `study.json` holds this as three aspects: `system` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `biometric` (`checked`) for 3 and `assurance` (`certified`) for 4.
 
+- **Rung 5 needs the whole population** *(Bill, 2026-11-09, message 108)*: the certified or audited ID must also be issued to all or nearly all the population, which question 5 asks. A count with no share, a share of enrolments, a target or a right to enrol does not answer it, and nor does a credential launched or in trials; question 5 is read from the text of the `system` facts and has no aspect of its own. So a level of assurance set for a digital-ID layer counts only where that layer itself reaches the whole population, and a yes to 4 without a yes to 5 answers no earlier question: Libya and Sudan fall to 3, and Nigeria, 121 million numbers issued with no share stated, to 4.
+
 ## 4. The norm
 
-The African Union's interoperability framework asks that a national ID system have technical integrity: unique identities, defined levels of assurance and security baselines that others can trust. This study asks the four questions above; it does not measure a country against the norm.
+The African Union's interoperability framework asks that a national ID system have technical integrity: unique identities, defined levels of assurance and security baselines that others can trust. This study asks the five questions above; it does not measure a country against the norm.
 
 ## 5. What the run reads
 
