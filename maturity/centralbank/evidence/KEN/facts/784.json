@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-02-ken-kenswitch-wibmo-3ds-access-control-server-partnership",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "The Kenswitch release describes Kenswitch as a domestic payment switch regulated by the Central Bank of Kenya, connecting banks, SACCOs, microfinance institutions and mobile money providers.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "Kenswitch",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kenswitch",
+   "country_label": "KEN",
+   "class": "oversight",
+   "platform": "",
+   "owner": "Kenswitch",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

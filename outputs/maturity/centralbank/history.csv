@@ -89,3 +89,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-27,SYC,dpi.pay--governance-role-of-central-bank,fact,3,4,SYC-003,"Governor's remarks (Jul 2025): banks interoperate on SEFT under the oversight Act; switch overseen, 4"
 2026-10-28,SDN,dpi.pay--governance-role-of-central-bank,fact,3,4,SDN-005,"Hawas, October 2026: EBS's general manager says it runs the national switch connecting all Sudanese banks under Central Bank of Sudan supervision; a switch the central bank oversees; 3 -> 4"
 2026-11-05,UGA,dpi.pay--governance-role-of-central-bank,fact,unplaced,4,UGA-002,Bank of Uganda notice of November 2026 shows it runs the RTGS and ACH in service; unplaced to 4
+2026-11-09,KEN,dpi.pay--governance-role-of-central-bank,fact,3,4,KEN-003;KEN-004,"Kenswitch, a domestic switch connecting banks, SACCOs and mobile money, is regulated by the CBK (November 2026): 3 to 4"

@@ -21,8 +21,8 @@ The AfCFTA Digital Trade Protocol's annex on digital payments asks central banks
 | Stage | Countries |
 |---|---|
 | 5 Leading | 7 |
-| 4 Operating | 39 |
-| 3 Established | 8 |
+| 4 Operating | 40 |
+| 3 Established | 7 |
 | 2 Nascent | 0 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -199,6 +199,13 @@ The central bank oversaw a national payment switch in 2026; live participation i
 - BCEAO runs PI-SPI, the instant payment platform for UEMOA members including Guinea-Bissau, launched 30 September 2025 with 175 connected participants a year later ([source, 2026-09](https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout)).
 - The BCEAO list says the BCEAO builds and runs PI-SPI, an instant payment switch serving Guinea-Bissau ([source, 2026-09-30](https://www.bceao.int/sites/default/files/inline-files/Liste%20des%20participants_PI-SPI_30_sept_2026_0.pdf)).
 
+### Kenya: 4 Operating
+
+The central bank licenses payment providers and regulates a domestic switch in 2026; whether Kenya pays through PAPSS is not known.
+
+- In a speech published 13 March 2026, the National Bank of Rwanda says the passporting MoU applies to payment service providers licensed by their home supervisory authority, the central bank ([source, 2026-03-13](https://www.bis.org/speeches/20260313-signing-mou-between-central-bank-kenya-and-national-bank-rwanda)).
+- The Kenswitch release describes Kenswitch as a domestic payment switch regulated by the Central Bank of Kenya, connecting banks, SACCOs, microfinance institutions and mobile money providers ([source, 2026-11-02](https://www.business-standard.com/content/press-releases-ani/kenswitch-partners-with-payu-s-wibmo-to-strengthen-online-card-security-in-kenya-126110200460_1.html)).
+
 ### Lesotho: 4 Operating
 
 The central bank ran or oversaw a national payment switch in 2025; no source found reports a regional link.
@@ -364,12 +371,6 @@ The central bank licensed payment providers in 2026; no source found reports a n
 
 - The National Bank of Ethiopia licenses ETTA's ZooryaPay as a Payment System Operator, per the Capital newspaper report ([source, 2026-10](https://capitalethiopia.com/2026/10/07/ethiopias-commerce-goes-contactless-with-new-visa-and-etta-infrastructure-agreement/)).
 - Directive 1069/2025 defines payment service providers as those licensed or authorized by the National Bank of Ethiopia to issue payment instruments, and requires federal public bodies to accept payments from all of them ([source, 2025-05-26](https://www.mofed.gov.et/media/filer_public/7e/a5/7ea5bf66-de9b-447d-b34d-8ca9667ddf50/1069_2017_yamanegesete_maseriyaa_beetoce_faqaade_katasathaacawe_yakefeyaa_agalegelote_sachiwoce_kefeyaa_yamiqabalubatene.pdf)).
-
-### Kenya: 3 Established
-
-The central bank licenses payment providers by 2026; no source found reports a national switch it runs or oversees.
-
-- In a speech published 13 March 2026, the National Bank of Rwanda says the passporting MoU applies to payment service providers licensed by their home supervisory authority, the central bank ([source, 2026-03-13](https://www.bis.org/speeches/20260313-signing-mou-between-central-bank-kenya-and-national-bank-rwanda)).
 
 ### Madagascar: 3 Established
 
