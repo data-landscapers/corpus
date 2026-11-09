@@ -1,12 +1,12 @@
 ---
 title: Mozambique: status report
-compiled: 2026-11-08
+compiled: 2026-11-09
 place: MOZ
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 254
+sources_cited: 255
 sections_written: 39
 not_established: 1
 acquire_lines: 48
@@ -53,7 +53,7 @@ The [Press and Media Law, Law 3/2026, was gazetted on 26 May 2026](https://ciber
 
 Mozambique's ATDI and Ethiopia's FaydaVerse Digital Solutions Enterprise [signed a memorandum of understanding in Addis Ababa on 27 April 2026](https://clubofmozambique.com/news/mozambique-and-ethiopia-sign-mou-to-boost-digital-identity/). [It covers digital identity and public infrastructure, open standards, interoperability and capacity-building](https://clubofmozambique.com/news/mozambique-and-ethiopia-sign-mou-to-boost-digital-identity/). In October 2026 [a 14-member mission led by the digital agency went to Ethiopia for training on a national digital identity platform](https://mznews.co.mz/atdi-mjcr-dnic-senami-e-inatro-preparam-implementacao-da-identidade-digital-em-mocambique/). In February 2026 the president [named Kenya and Rwanda as the models for the digital government overhaul he ordered](https://iafrica.com/mozambique-launches-digital-government-overhaul-looking-to-kenya-and-rwanda-as-models/). Mozambique has [ratified the African Union's Malabo Convention on cyber security and personal data protection](https://www.ibanet.org/document?id=Digital-Regulations-in-the-Metaverse-Era-Mozambique). [Its only regional economic community membership is SADC](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mz.pdf). [It scored 57.6 out of 100 on the Ibrahim Index's Regional Integration measure in 2023, 14th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-mz.pdf).
 
-In August 2026 [the customs administrations of Malawi, Mozambique, South Africa, Zambia and Zimbabwe adopted a roadmap for customs-to-customs data exchange in Pretoria](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/). [It is phased from priority corridors](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/).
+In August 2026 [the customs administrations of Malawi, Mozambique, South Africa, Zambia and Zimbabwe adopted a roadmap for customs-to-customs data exchange in Pretoria](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/). [It is phased from priority corridors](https://southernafricantimes.com/five-southern-african-countries-move-to-link-customs-data-as-trade-corridors-face-pressure-to-cut-delays/). [In June 2026 the Mozambican and Angolan ministers signed a memorandum on a Nacala-Lobito submarine cable](https://www.oeconomico.com/mocambique-e-angola-avancam-com-cabo-nacala-lobito-para-reforcar-corredor-digital-regional/).
 
 [On 9 October 2026 the ICT institute was reported to have joined TriDigital, a common framework for assessing the digital maturity of public institutions](https://mznews.co.mz/mocambique-integra-projecto-para-avaliar-maturidade-digital-das-instituicoes-publicas/). [It covers Angola, Guinea-Bissau, Mozambique and São Tomé and Príncipe and runs to January 2028](https://mznews.co.mz/mocambique-integra-projecto-para-avaliar-maturidade-digital-das-instituicoes-publicas/). On 12 October 2026 the ICT institute [was elected to the management committee of the African Network of Cybersecurity Authorities for Southern Africa](https://intic.gov.mz/mocambique-eleito-para-o-comite-de-gestao-da-anca-cert-em-representacao-da-africa-austral/). [In October 2026 it also joined the SADC Regional Working Group on Data Protection](https://techreviewafrica.com/news/7857/mozambique-joins-sadc-regional-working-group-on-data-protection). [The SADC ICT ministers had urged states on 26 June 2026 to appoint representatives](https://techreviewafrica.com/news/7857/mozambique-joins-sadc-regional-working-group-on-data-protection).
 
