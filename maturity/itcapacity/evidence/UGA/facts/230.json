@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-02-uga-questions-swirl-over-internet-deal-between-uganda-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "NITA-U's executive director said NITA-U is in charge of Uganda's National Backbone Infrastructure and its operations, per the Monitor.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "National Backbone Infrastructure (NBI)",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
