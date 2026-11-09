@@ -1,12 +1,12 @@
 ---
 title: Sierra Leone: status report
-compiled: 2026-11-08
+compiled: 2026-11-09
 place: SLE
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 10
-sources_cited: 203
+sources_cited: 204
 sections_written: 39
 not_established: 2
 acquire_lines: 48
@@ -307,7 +307,7 @@ The pipeline those programmes draw on is thin and only recently connected. [Twel
 ### Research institutions
 <!-- capacity.research -->
 
-Knowledge production in computing and engineering rests on a small number of public institutions: [the University of Sierra Leone, whose Fourah Bay College awards degrees in electrical, electronic, mechanical and civil engineering, and Njala University](https://www.usl.edu.sl/programs?campus=fbc). Neither the scale of that output nor Sierra Leone's public spending on research and development had been published as at August 2026.
+Knowledge production in computing and engineering rests on a small number of public institutions: [the University of Sierra Leone, whose Fourah Bay College awards degrees in electrical, electronic, mechanical and civil engineering, and Njala University](https://www.usl.edu.sl/programs?campus=fbc). Neither the scale of that output nor Sierra Leone's public spending on research and development had been published as at August 2026. In September 2025 the [West and Central African research network announced Sierra Leone's connection to its backbone, with five other states, co-funded by the European Commission](https://wacren.net/en/news/wacren-connects-six-new-countries-and-sets-foundation-for-climate-programme/).
 
 [The Center for Information Privacy, Human-Centered Technology and Ethics Research launched in Freetown on 6 October 2026 to research the handling of personal data, train on data-subject rights and feed evidence into data-protection law and policy](https://truthmedia.sl/cipher-launched-to-promote-data-protection-cybersecurity-and-digital-privacy/).
 
