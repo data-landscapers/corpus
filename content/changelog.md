@@ -1,3 +1,7 @@
+## 9 November 2026
+
+- Togo's 2027 draft now holds the digital ministry's two digital programmes, read from the draft programme budget: CFA 4.9bn wholly digital for public services, identity and the social registry, and 3.9bn partly digital for networks and post. The CFA 19.0bn of grants and loans in the same programmes is left out, and the modernisation account and geographic-information programme are now shown as state-funded.
+
 ## 8 November 2026
 
 - Mali's 2027 draft now has 100 lines, 79 of them activities read from the programme annex, the grain the 2026 figures use: the tax directorate's e-filing and SIGTAS work, the finance ministry's computerisation cell, the cybercrime unit and the digital-economy directorate among them. Wholly digital lines total CFA 24.1bn against 20.9bn in the 2026 draft, now read at the same grain.

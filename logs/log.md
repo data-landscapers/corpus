@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-09 03:15 · **BUDGET-EXTRACT** · 15m · TGO FY2027 from the budget programme 2027-2029 (projet): 6 lines (section 870 P2 and P3 on internal resources, 3 whole, 3 partial), PMADS and Information geographique booked domestic; 19.0bn grants and loans left out; archetype Q/TGO added; housekeeping 45
 2026-11-09 02:54 · **RENDER** · 30m · 301 documents, home, countries, catalogue 38,631, finance, datasets, maturity rendered; 73 editions pruned; R2 4,981 objects up; deployed f59cfaa - ok
 2026-11-09 02:23 · **REVIEW** · unclocked · SDN: status 17 sections revised, 17 trimmed, progress 10 cells, finance 14 rows; 0 deals queued, 1 notes for OSINT - ok
 2026-11-09 02:23 · **REVIEW** · 18m · SEN: status 1 sections revised, 28 trimmed, progress 1 cells, finance 0 rows; 1 deals queued, 0 notes for OSINT - ok

@@ -1189,11 +1189,11 @@ NGA,deal-recipient,Research,,"Pan-Atlantic University Foundation (Lagos, Nigeria
 NGA,deal-recipient,Private Sector,,Terra Industries,no line,
 NGA,deal-recipient,NGO,,FATE Foundation,no line,
 NGA,deal-recipient,Public Sector,,Nigeria,no line,
-NGA,deal-recipient,Public Sector,,Government of Nigeria / Project BRIDGE (D-VIBE),line,nga-2024-0234001001-ergp12191101
 NGA,deal-recipient,Private Sector,,BFREE,no line,
 NGA,deal-recipient,Public Sector,,Federal Republic of Nigeria,no line,
 NGA,deal-recipient,Public Sector,,Nigeria Police Force,line,nga-2024-0155004001-ergp4103135
 NGA,deal-recipient,Fund,,Nigeria Sovereign Investment Authority (NSIA),no line,
+NGA,deal-recipient,Private Sector,,"Infragora Global Capital, for AFRIDATA DATACENTER NIGERIA Ltd",line,nga-2024-0156003001
 NGA,deal-recipient,Public Sector,,Federal Republic of Nigeria / Federal Ministry of Health and Social Welfare,line,nga-2024-0521001001-ergp25155718
 NGA,deal-recipient,Private Sector,,West Indian Ocean Cable Company (WIOCC),no line,
 NGA,deal-recipient,Private Sector,,Equinix Nigeria,no line,
@@ -1244,7 +1244,6 @@ RWA,hosting,Cybersecurity agency / National CERT,cybersecurity,National Cyber Se
 RWA,hosting,Communications regulator,communications-regulator,Rwanda Utilities Regulatory Authority,no line,
 RWA,hosting,Audit office,,Office of the Auditor General of State Finances,no line,
 RWA,hosting,Anti-corruption commission,,Office of the Ombudsman,no line,
-RWA,deal-recipient,Private Sector,,Paradigm Tower Ventures / Paradigm Infrastructure,no line,
 RWA,deal-recipient,Private Sector,,"RWA; CHARIS UNMANNED AERIAL SOLUTIONS LTD, named as transaction receiver",no line,
 RWA,deal-recipient,Unknown,,"RWA; Centre for the Fourth Industrial Revolution, named as transaction receiver",no line,
 RWA,deal-recipient,Multilateral,,"Rwanda (RWA); recipient organisation not named, recipient unspecified",no line,
