@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-25-tgo-wb-wuri-phase-2-restructuring-paper-res01578",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The World Bank says Togo's e-ID is integrated into the Novissi platform and is used to authenticate beneficiaries of ANADEB's cash transfer programmes.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Togo e-ID",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The World Bank says Togo's national digital services gateway, social registry and social payments platform use the fID.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Togo e-ID",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Togo e-ID",
+   "country_label": "Togo",
+   "class": "authentication",
+   "platform": "MOSIP",
+   "owner": "ANID",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

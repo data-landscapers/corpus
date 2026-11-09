@@ -1,0 +1,46 @@
+{
+ "slug": "2024-02-09-mar-digitalisation-mon-e-id-de-la-dgsn-enregistre-plus-de-5-millions-d-ope",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "DGSN's Ismail Kdidar says the Mon e-ID platform has recorded 5,281,790 identity authentications since its launch on 25 April 2022, using the electronic ID card with PIN and facial recognition under law 04-20.",
+   "as_of": "2024-02-09",
+   "date_precision": "day",
+   "system": "Mon e-ID (Mon identité numérique)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "DGSN says 29 partner service providers use the Mon e-ID platform to authenticate users, including for the criminal record, nationality certificate and housing aid requests.",
+   "as_of": "2024-02-09",
+   "date_precision": "day",
+   "system": "Mon e-ID (Mon identité numérique)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "DGSN says citizens use the mobile application 'mon identité numérique' to prove their identity online and reach partners' digital services.",
+   "as_of": "2024-02-09",
+   "date_precision": "day",
+   "system": "Mon e-ID (Mon identité numérique)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mon e-ID",
+   "country_label": "Morocco",
+   "class": "authentication",
+   "platform": "mobile app on the electronic ID card",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

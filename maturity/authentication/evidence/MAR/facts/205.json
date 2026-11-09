@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-02-mar-accord-cadre-de-partenariat-pour-le-developpement-de-l-e-gouvernement",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The digital transition ministry and the DGSN signed a framework agreement on 2 May 2025 to make the identity verification services of the national trusted-third-party platform available for e-government, tied to the new electronic national ID card.",
+   "as_of": "2025-05-02",
+   "date_precision": "day",
+   "system": "national trusted-third-party platform",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national trusted-third-party platform",
+   "country_label": "Morocco",
+   "class": "authentication",
+   "platform": "",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

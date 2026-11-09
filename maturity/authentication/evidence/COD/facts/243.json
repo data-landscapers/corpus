@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-13-cod-rdc-pass-equity-bcdc-prepare-son-integration-dans-les-services-bancair",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Le Point reports that in March 2026 the digital economy ministry adopted new authorisation procedures for digital services including trust services, hosting, cloud and fintechs.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Trust services authorisation",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Le Point reports RDC-PASS, a unique secure free personal digital identifier for access to public services, was officially launched on 13 June 2026 per the Presidency; it is not a national ID card.",
+   "as_of": "2026-06-13",
+   "date_precision": "day",
+   "system": "RDC-PASS",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RDC-PASS",
+   "country_label": "COD",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Ministry of Digital Economy / Presidency",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

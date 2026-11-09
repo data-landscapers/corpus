@@ -12,3 +12,6 @@ SDN,Bank account opening with national number,Sudan,other,,Central Bank of Sudan
 SDN,Civil Registry system (General Administration of Civil Registry),Sudan,other,,General Administration of the Civil Registry,,2024-12-02-cbos-national-number-bank-account-circular
 SDN,SUDAPASS,Sudan,authentication,,Sudanese Cybersecurity Authority,,2026-08-29-sudan-sudapass-platform-page
 SDN,Sudanese Digital Identity (SUDAPASS),Sudan,authentication,smartphone application and national platform,National Electronic Authentication Authority,"three trust levels: basic, intermediate, high",2026-05-21-sudan-sudapass-terms-and-conditions
+SDN,Civil Registry General Administration system,Sudan,other,,Civil Registry General Administration,,2024-12-02-sdn-cbos-circular-national-number-account-opening
+SDN,Remote account opening identity verification,Sudan,authentication,bank systems linked to the civil registry system,Central Bank of Sudan (rule); banks,,2024-12-02-sdn-cbos-national-number-remote-account-opening
+SDN,SUDAPASS,Sudan,authentication,National Digital Identity Platform,Sudanese Cybersecurity Authority; keys and certificates with NADC,,2026-05-29-sdn-press-statement-sudanese-cybersecurity-authority-sca

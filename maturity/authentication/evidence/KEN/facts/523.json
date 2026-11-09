@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-02-ken-kenswitch-wibmo-3ds-access-control-server-partnership",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Wibmo 3-D Secure Access Control Server",
+   "country_label": "KEN",
+   "class": "other",
+   "platform": "EMV 3-D Secure",
+   "owner": "Kenswitch",
+   "tiers": ""
+  }
+ ],
+ "note": "Card-payment authentication by issuers, not a state-accepted identity service."
+}

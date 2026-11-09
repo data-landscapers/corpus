@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-05-zaf-question-nw4978-to-the-minister-of-home-affairs",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Department of Home Affairs says Live Capture identifies applicants through online biometric verification with a direct interface to HANIS and ABIS, and Smart ID card collection includes online verification.",
+   "as_of": "2025-11-05",
+   "date_precision": "day",
+   "system": "Live Capture",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Department of Home Affairs says a PKI-based Digital Identity framework is being developed to secure issuance and enable third-party verification.",
+   "as_of": "2025-11-05",
+   "date_precision": "day",
+   "system": "PKI-based Digital Identity framework",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Live Capture",
+   "country_label": "South Africa",
+   "class": "authentication",
+   "platform": "HANIS/ABIS",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

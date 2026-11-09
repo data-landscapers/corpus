@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-14-lso-id4africa-panel-outlines-steady-kyc-process-policy-improvement",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Bank of Zambia's ICT director says Zambia is developing a centralised eKYC platform using Home Affairs digital IDs through an API and a fingerprint check.",
+   "as_of": "2026-05-14",
+   "date_precision": "day",
+   "system": "centralised eKYC platform",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "centralised eKYC platform",
+   "country_label": "ZMB",
+   "class": "authentication",
+   "platform": "Home Affairs API with fingerprint check",
+   "owner": "Ministry of Home Affairs / Bank of Zambia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

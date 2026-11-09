@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-12-civ-l-oneci-et-la-sgci-scellent-un-partenariat-strategique-pour-une-authen",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "ONECI says its web platform for online digital authentication is made available to Societe Generale Cote d'Ivoire under a convention signed 2025-11-11, with ONECI acting as state certification authority for identity data.",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "ONECI online authentication platform",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

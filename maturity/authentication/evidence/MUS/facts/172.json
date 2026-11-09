@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-22-mus-mauritius-pioneering-next-generation-id-system",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Home Affairs PS (Prime Minister's Office) and Thales present the new Mauritian eID card as carrying a digital certificate for online authentication and eSignature.",
+   "as_of": "2024-05-22",
+   "date_precision": "day",
+   "system": "Mauritius eID card certificate",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MauPass / MauSign (Digital ID Wallet)",
+   "country_label": "Mauritius",
+   "class": "authentication",
+   "platform": "Thales",
+   "owner": "Prime Minister's Office",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

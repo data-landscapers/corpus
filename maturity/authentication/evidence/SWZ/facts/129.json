@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-26-swz-deputy-governor-s-speech-the-nexus-between-aml-cft-and-financial-inclu",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Banks verify customers' identification information online against the national civil registry through the national database centre, a new development still being improved, says the Central Bank of Eswatini's Deputy Governor.",
+   "as_of": "2025-02-26",
+   "date_precision": "day",
+   "system": "National database centre ID verification",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

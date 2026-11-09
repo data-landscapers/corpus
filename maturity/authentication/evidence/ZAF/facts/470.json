@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-19-zaf-pmg-nw6103-duplicate-missing-id-numbers",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Minister of Home Affairs says in a written reply that the department is rolling out a new digital verification function using facial recognition against the entire population register for certain transactions.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "Digital verification function",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

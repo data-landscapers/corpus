@@ -3,3 +3,6 @@ DZA,004,reach,several,removed,First pass: the regulator will oversee providers; 
 SYC,008,remote,wallet,removed,"First pass: a virtual card for permit holders only, not the national ID"
 GHA,011,reach,several,removed,First pass: the card is required for services; their checking it is not stated
 TZA,005,reach,several,removed,First pass: the card is required for services; their checking it is not stated
+COD,018,service,inservice,revalued: underway,"Stage 4c: RDC-PASS launched in June 2026 is not shown in use, as the rebuild read COD-011"
+COG,002,service,inservice,revalued: underway,"Stage 4c: a root certification authority designated since 2014, an architecture the article calls complete on paper; no use is stated"
+SWZ,004,service,inservice,removed,"Stage 4c: repeats SWZ-003, the Deputy Governor's 2025 speech, from a second copy"

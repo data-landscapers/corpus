@@ -1,0 +1,36 @@
+{
+ "slug": "2025-09-16-nga-126m-nigerians-secure-nin-database-capacity-hits-250m-fg",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NIMC and the government say NIN verification is in use, for example facilitating student loans through NIN verification since May 2024.",
+   "as_of": "2025-09-16",
+   "date_precision": "day",
+   "system": "NIN verification",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "NIMC says NIN data is linked with 125 partner agencies and the NIN is used for student loans, SIM linkage and other services.",
+   "as_of": "2025-09-16",
+   "date_precision": "day",
+   "system": "NIN verification",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIN verification",
+   "country_label": "Nigeria",
+   "class": "authentication",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

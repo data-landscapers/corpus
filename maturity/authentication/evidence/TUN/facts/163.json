@@ -1,0 +1,46 @@
+{
+ "slug": "2024-10-01-tun-radio-express-120000-tunisians-hold-digital-identity",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Ministry of Communication Technologies said on 21 March 2024 that the E-Houwiya mobile digital identity app can be downloaded from app stores, used for e-signature with the citizen's certificate and keys.",
+   "as_of": "2024-03-21",
+   "date_precision": "day",
+   "system": "E-Houwiya",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "A Ministry of Communication Technologies director said the digital identity gives access to many administrative services with one identity, including portals of the social affairs, interior and state property ministries.",
+   "as_of": "2024-10-01",
+   "date_precision": "day",
+   "system": "E-Houwiya",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "E-Houwiya, a mobile digital identity tied to the citizen's unique identifier, is available to Tunisians aged 18 or over holding a national ID card, and was used for remote school and university enrolment.",
+   "as_of": "2024-10-01",
+   "date_precision": "day",
+   "system": "E-Houwiya",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "E-Houwiya",
+   "country_label": "Tunisia",
+   "class": "authentication",
+   "platform": "mobile app",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

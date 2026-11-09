@@ -1,0 +1,36 @@
+{
+ "slug": "2026-08-25-gha-muntaka-nia-clears-ghana-card-backlog-registers-418-000-children",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Interior Minister Muntaka says the NIA processed more than 125 million biometric verification transactions in 2025 on its verification platform.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NIA verification platform",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "Interior Minister Muntaka says 38 more institutions had joined the NIA verification platform by 13 August 2026, bringing the total using it to about 284.",
+   "as_of": "2026-08-13",
+   "date_precision": "day",
+   "system": "NIA verification platform",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIA verification platform",
+   "country_label": "GHA",
+   "class": "authentication",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

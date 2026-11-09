@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-01-ken-the-kenya-digital-identity-playbook-identity-as-foundation-of-digital",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Kenya government's ID4Africa 2026 deck says real-time authentication runs through IPRS and eCitizen, with an e-KYC platform and digital signing still under way.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "IPRS",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The deck says over 22,000 services online rely on the digital ID for access, and IPRS connects KRA, SHA, education, financial e-KYC, SIM registration and social protection systems.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "IPRS",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IPRS",
+   "country_label": "Kenya",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

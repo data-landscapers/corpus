@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-29-sdn-press-statement-sudanese-cybersecurity-authority-sca",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Sudanese Cybersecurity Authority says SUDAPASS encryption keys and digital certificates are managed by the National Authority for Digital Certification.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "SUDAPASS",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SUDAPASS",
+   "country_label": "Sudan",
+   "class": "authentication",
+   "platform": "National Digital Identity Platform",
+   "owner": "Sudanese Cybersecurity Authority; keys and certificates with NADC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

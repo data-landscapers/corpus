@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-14-cog-numerique-les-tuyaux-ont-gagne-du-terrain-l-usage-cherche-encore-le-si",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "ADIAC says the Guichet unique des opérations transfrontalières has been the state's root certification authority for electronic signature since 2014.",
+   "as_of": "2014",
+   "date_precision": "year",
+   "system": "Guichet unique des opérations transfrontalières (root certification authority)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Guichet unique des opérations transfrontalières root CA",
+   "country_label": "Congo",
+   "class": "authentication",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

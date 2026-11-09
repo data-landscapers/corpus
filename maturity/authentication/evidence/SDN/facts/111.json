@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-02-sdn-cbos-national-number-remote-account-opening",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "The Central Bank of Sudan's circular of 2 December 2024 requires banks to offer remote account opening, verifying identity documents by linking the bank's system to the civil registry system with face recognition as the main check, and told banks to start preparing the technical systems at once.",
+   "as_of": "2024-12-02",
+   "date_precision": "day",
+   "system": "Remote account opening identity verification",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Remote account opening identity verification",
+   "country_label": "Sudan",
+   "class": "authentication",
+   "platform": "bank systems linked to the civil registry system",
+   "owner": "Central Bank of Sudan (rule); banks",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -2,7 +2,7 @@
 
 ## Authentication
 
-**Authentication service.** ANSSI announced on 24 July 2026 that the [national public key infrastructure is in service](<https://www.anssi.ci/>), at the top of the tree for electronic certificates. Since February 2025 ONECI has [given Orange Bank Africa APIs to verify customer identities](<https://www.koaci.com/article/2025/02/03/cote-divoire/economie/cote-divoire-signature-dune-convention-entre-oba-et-loneci-pour-renforcer-la-securite-des-transactions_184218.html>) against its records.
+**Authentication service.** ANSSI announced on 24 July 2026 that the [national public key infrastructure is in service](<https://www.anssi.ci/>), at the top of the tree for electronic certificates. Since February 2025 ONECI has [given Orange Bank Africa APIs to verify customer identities](<https://www.koaci.com/article/2025/02/03/cote-divoire/economie/cote-divoire-signature-dune-convention-entre-oba-et-loneci-pour-renforcer-la-securite-des-transactions_184218.html>) against its records. In November 2025 ONECI [opened its online authentication platform to Société Générale Côte d'Ivoire](<https://www.oneci.ci/actualites/1762974839>).
 
 **Used across services.** The DMOA says it is [extending electronic signature across public administration](<https://techafricanews.com/2026/09/18/cote-divoire-expands-electronic-signature-paperless-administration/>), most recently to municipal officials in Marcory. ANSSI says the national PKI is [the trust base for every certification authority](<https://www.anssi.ci/>) operating in the country.
 

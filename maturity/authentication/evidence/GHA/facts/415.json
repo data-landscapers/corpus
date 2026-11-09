@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-21-gha-nia-has-registered-over-19-4-million-ghanaians-executive-secretary",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "NIA's Executive Secretary says the Identity Verification System platform has processed over 200 million verification requests.",
+   "as_of": "2026-05-21",
+   "date_precision": "day",
+   "system": "Identity Verification System",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "NIA's Executive Secretary says 281 institutions, including banks, government institutions, fintechs and telecoms, are onboarded onto the Identity Verification System.",
+   "as_of": "2026-05-21",
+   "date_precision": "day",
+   "system": "Identity Verification System",
+   "class": "authentication"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

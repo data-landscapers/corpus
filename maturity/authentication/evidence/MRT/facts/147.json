@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-mrt-systeme-d-identification-biometrique-des-assures-lors-de-leurs-acces-a",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Mauritania's national health insurance fund CNAM verifies insured persons by fingerprint or face, matched against the national ID card or by real-time query of the national agency ANRPTS through secure APIs, in all partner facilities since January 2025, per ISSA.",
+   "as_of": "2025-01",
+   "date_precision": "month",
+   "system": "CNAM biometric identification of insured persons",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNAM biometric identification of insured persons",
+   "country_label": "Mauritania",
+   "class": "authentication",
+   "platform": "ANRPTS APIs",
+   "owner": "CNAM",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-07-mar-dgsn-bank-al-maghrib-identity-verification-protocol",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "A joint DGSN and Bank Al-Maghrib communique of 7 October 2024 says the DGSN has developed a trusted-third-party identity verification platform, linked to the digital identity system, that gives instant automatic verification in person or remotely.",
+   "as_of": "2024-10-07",
+   "date_precision": "day",
+   "system": "DGSN trusted-third-party identity verification platform",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "DGSN trusted-third-party identity verification platform",
+   "country_label": "Morocco",
+   "class": "authentication",
+   "platform": "",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

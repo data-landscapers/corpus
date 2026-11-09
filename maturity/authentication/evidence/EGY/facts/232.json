@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-07-egy-cairo-ict-2026-fra-chairman-highlights-digital-transformation-in-non-b",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Egypt's Financial Regulatory Authority says e-KYC verifications in non-banking finance reached over 1.727 million by late October 2026, up from 354,000 at end-2025, under its e-KYC and digital identity guidelines.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "e-KYC",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-KYC",
+   "country_label": "Egypt",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Financial Regulatory Authority (regulator)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

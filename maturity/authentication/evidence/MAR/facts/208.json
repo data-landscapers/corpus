@@ -1,0 +1,46 @@
+{
+ "slug": "2026-01-01-mar-country-playbook-maroc-souverainete-et-inclusion-numerique",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "DGSN's ID4Africa 2026 playbook says Morocco's digital identity platform, built on the national CNIE card and authenticating by PIN or fingerprint, has 5 million unique users and 15 million transactions since 2022.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Identité Numérique Marocaine (CNIE)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "DGSN says the digital identity platform serves 73 services and 54 partners, including CNSS, AMO, the judicial record and Massar, and banks, insurers and telecoms use it for instant KYC.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Identité Numérique Marocaine (CNIE)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "DGSN says the CNIE digitised on a smartphone is now used on a par with the physical card, derived at public kiosks or on a non-NFC phone, with online authentication on compatible services.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Identité Numérique Marocaine (CNIE)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Identité Numérique Marocaine",
+   "country_label": "Morocco",
+   "class": "authentication",
+   "platform": "CNIE card with smartphone",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-18-cpv-cabo-verde-em-destaque-na-id4africa-2026-sniac-apresentado-como-motor",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "IMIJ says the SNIAC (national civil identification and authentication system) is in service and has logged over 30 million data requests.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "SNIAC",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "IMIJ says SNIAC is linked to more than 50 public and private services, banks foremost, and supports the Justice, Consular and National portals.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "SNIAC",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SNIAC",
+   "country_label": "Cabo Verde",
+   "class": "authentication",
+   "platform": "",
+   "owner": "IMIJ",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
