@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "social",
-      "stage": "3",
+      "stage": "5",
       "registry": "inservice",
       "programmes": "",
-      "linked": "",
+      "linked": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "TGO-001",
-      "gaps": "No source found since October 2023 says two or more programmes use the social registry.",
-      "note": "First pass: counted from the four questions by study-ladder-socialregistry.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "TGO-004;TGO-003",
+      "gaps": "No source found says which social programmes draw their beneficiaries from the RSPM.",
+      "note": "The World Bank said in March 2026 that the e-ID is fully interoperable with the RSPM social registry, which takes in ID numbers automatically. Under the study's rule a later yes answers the earlier questions, so the link sets stage 5.",
+      "as_at": "2026-11-09"
     }
   ]
 }

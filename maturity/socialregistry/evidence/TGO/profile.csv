@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TGO,social,registry,coverage,inservice,2025,TGO-001,TGO-002=underway,
+TGO,social,registry,coverage,inservice,2026-03,TGO-001;TGO-003,TGO-002=underway,
 TGO,social,programmes,coverage,,,,,nothing found
-TGO,social,linked,coverage,,,,,nothing found
+TGO,social,linked,coverage,linked,2026-03,TGO-004,,

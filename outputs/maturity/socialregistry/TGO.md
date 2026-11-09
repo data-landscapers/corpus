@@ -2,12 +2,12 @@
 
 ## Social protection register
 
-**Registry in service.** [ANID states that it maintains the Central National Biometric Identification Database and the Social Register of Individuals and Households (RSPM)](<https://anid.gouv.tg/en/about-us/>). [Togo's presentation says the RSPM social registry was in development and initial integration in 2025, with full-scale operation planned for 2026](<https://www.id4africa.com/2025/files/T1-P2-S1-3_TOGO-final.pdf>). 2 facts are held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Registry in service.** The national identity agency ANID [keeps the Social Register of Individuals and Households (RSPM)](<https://anid.gouv.tg/en/about-us/>). A 2025 government presentation to ID4Africa put the registry [in development and initial integration, with full operation planned for 2026](<https://www.id4africa.com/2025/files/T1-P2-S1-3_TOGO-final.pdf>). By March 2026 the World Bank said [Togo had put the RSPM into operation](<https://documents1.worldbank.org/curated/en/099032526174532318/pdf/P169594-5fd6786a-2b45-425b-95b6-0e79d792a6fb.pdf>).
 
-**Several programmes.** No source found since October 2023 says two or more programmes use the social registry. The nearest held fact: [the one given above](<https://anid.gouv.tg/en/about-us/>).
+**Several programmes.** No source found names the programmes that choose beneficiaries from the RSPM. The nearest held fact: the World Bank's March 2026 statement that [the national ID feeds the registry](<https://documents1.worldbank.org/curated/en/099032526174532318/pdf/P169594-5fd6786a-2b45-425b-95b6-0e79d792a6fb.pdf>).
 
-**Linked to ID.** No source found since October 2023 says the social registry is linked to the national ID. The nearest held fact: [the one given above](<https://anid.gouv.tg/en/about-us/>).
+**Linked to ID.** The World Bank reported in March 2026 that [the e-ID system is fully interoperable with the RSPM](<https://documents1.worldbank.org/curated/en/099032526174532318/pdf/P169594-5fd6786a-2b45-425b-95b6-0e79d792a6fb.pdf>), which takes in unique identification numbers automatically. One agency, ANID, [keeps both the central biometric ID database and the registry](<https://anid.gouv.tg/en/about-us/>).
 
 ***Also on file***. [Central National Biometric Identification Database](<https://anid.gouv.tg/en/about-us/>).
 
-***Not found***. No source found since October 2023 says two or more programmes use the social registry.
+***Not found***. No source found names the social programmes that choose who receives support from the RSPM.

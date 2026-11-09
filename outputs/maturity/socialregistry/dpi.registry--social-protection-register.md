@@ -20,9 +20,9 @@ The African Union's Protocol on Social Protection asks states for a social regis
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
+| 5 Leading | 7 |
 | 4 Operating | 10 |
-| 3 Established | 15 |
+| 3 Established | 14 |
 | 2 Nascent | 13 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
@@ -70,6 +70,13 @@ The social registry was linked to the national ID in 2025.
 
 - The World Bank states Rwanda moved to a national digital platform linked to ID and administrative data ([source, 2025-11-19](https://www.worldbank.org/en/results/2025/11/19/social-registries-digital-platforms-inclusive-service-delivery)).
 - BMZ reports data in Imibereho is validated through cross-checks with other government databases including the National ID Agency (NIDA) ([source, 2024-02-29](https://health.bmz.de/stories/rwandan-government-launches-imibereho-dynamic-social-registry/)).
+
+### Togo: 5 Leading
+
+The social registry took in national ID numbers automatically in 2026; which programmes draw on it is not known.
+
+- The World Bank says the e-ID system is fully interoperable with the RSPM, enabling automatic ingestion of unique identification numbers ([source, 2026-03](https://documents1.worldbank.org/curated/en/099032526174532318/pdf/P169594-5fd6786a-2b45-425b-95b6-0e79d792a6fb.pdf)).
+- The World Bank says Togo has operationalised a dynamic social registry (RSPM) that its e-ID feeds ([source, 2026-03](https://documents1.worldbank.org/curated/en/099032526174532318/pdf/P169594-5fd6786a-2b45-425b-95b6-0e79d792a6fb.pdf)).
 
 ### Burundi: 4 Operating
 
@@ -224,12 +231,6 @@ A social registry was in service in 2025; no source found reports its use by two
 
 - The World Bank says the BOOST-You project will strengthen adaptive delivery systems by improving the existing Unified Social Registry, alongside a National Socio-economic Survey covering 12 million people ([source, 2025-10-28](https://www.worldbank.org/en/news/press-release/2025/10/28/over-738000-somalis-to-benefit-from-world-bank-supported-initiative-for-jobs-social-protection-and-climate-resilience)).
 - Somalia's Prime Minister unveiled the Social Welfare System of the Unified Social Registry and urged aid agencies to use the government's registry to avoid duplication ([source, 2023-11-13](https://www.somalidispatch.com/latest-news/somalia-feds-to-launch-social-welfare-system-and-unified-social-registry/)).
-
-### Togo: 3 Established
-
-A social registry was in service in 2025; no source found reports its use by two or more programmes.
-
-- ANID states that it maintains the Central National Biometric Identification Database and the Social Register of Individuals and Households (RSPM) ([source, 2025](https://anid.gouv.tg/en/about-us/)).
 
 ### Benin: 2 Nascent
 

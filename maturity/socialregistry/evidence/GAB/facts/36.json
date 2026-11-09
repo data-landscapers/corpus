@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-16-gab-p175987-amendment-letter-loan-agreement-digital-gabon",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The amended Digital Gabon financing agreement (effective 2 September 2026) refers to the existing social protection beneficiary registry managed by CNAM-GS and finances improving it.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "Social Protection beneficiary registry (CNAM-GS)",
+   "class": "social"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

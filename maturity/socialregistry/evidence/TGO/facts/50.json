@@ -1,0 +1,27 @@
+{
+ "slug": "2026-03-25-tgo-wb-wuri-phase-2-restructuring-paper-res01578",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "inservice",
+   "fact": "The World Bank says Togo has operationalised a dynamic social registry (RSPM) that its e-ID feeds.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "RSPM",
+   "class": "social"
+  },
+  {
+   "sub_indicator": "social",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The World Bank says the e-ID system is fully interoperable with the RSPM, enabling automatic ingestion of unique identification numbers.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "RSPM",
+   "class": "social"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
