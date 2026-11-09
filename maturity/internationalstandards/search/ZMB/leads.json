@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.zabs.org.zm/documents/annual-reports/zabs-annual-report-2024.pdf",
+  "title": "Zambia Bureau of Standards Annual Report 2024",
+  "publisher": "Zambia Bureau of Standards",
+  "published": "2025",
+  "sub_indicator": "international",
+  "why": "Q1,Q4: ISO full membership from 1 Oct 2024"
+ },
+ {
+  "url": "https://www.iso.org/member/2215.html",
+  "title": "ISO - ZABS - Zambia Bureau of Standards",
+  "publisher": "ISO",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q1,Q4: member body, TC participation"
+ },
+ {
+  "url": "https://www.iso.org/es/contents/data/member/00/22/2215.html?t=OT&view=participation",
+  "title": "ISO - ZABS TC participation",
+  "publisher": "ISO",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q4: committees incl. JTC 1/SC 38"
+ },
+ {
+  "url": "http://iso.org/committee/45020.html?view=participation",
+  "title": "ISO/IEC JTC 1 participating members",
+  "publisher": "ISO",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q4: ZABS listed participating member of JTC 1"
+ },
+ {
+  "url": "https://media.zambialii.org/media/legislation/40749/source_file/a0f9a9fca1dadc67/zm-act-si-2023-43-publication-document.pdf",
+  "title": "Statutory Instrument No. 43 of 2023 (Electronic Government)",
+  "publisher": "Government of Zambia",
+  "published": "2023-10-06",
+  "sub_indicator": "international",
+  "why": "Q3: public bodies and standards set by the Division"
+ },
+ {
+  "url": "https://policyvault.africa/wp-content/uploads/policy/ZMB610.pdf",
+  "title": "Public Service ICT Information Security Standard",
+  "publisher": "E-Government Division, Office of the President",
+  "published": "2019",
+  "sub_indicator": "international",
+  "why": "Q3: security standard binding MPSAs, ISO 27001 alignment"
+ },
+ {
+  "url": "https://www.digitaldevelopment.org/wp-content/uploads/2024/04/Zambia-National-ICT-Policy-2023.pdf",
+  "title": "National ICT Policy 2023",
+  "publisher": "Ministry of Technology and Science",
+  "published": "2023",
+  "sub_indicator": "international",
+  "why": "Q2: domesticate international information security standards"
+ },
+ {
+  "url": "https://techafricanews.com/2025/05/05/smart-zambia-staff-trained-in-cybersecurity-and-iso-27001-compliance/",
+  "title": "SMART Zambia Staff Trained in Cybersecurity and ISO 27001 Compliance",
+  "publisher": "TechAfrica News",
+  "published": "2025-05-05",
+  "sub_indicator": "international",
+  "why": "Q3: ISO 27001 compliance"
+ }
+]

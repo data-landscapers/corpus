@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Five submarine cables (SAT-3/WASC, WACS, NCSCS, SAIL, Ceiba-2) connect Cameroon through three landing points, Limbe, Douala and Kribi.",
+ "title": "Comment Internet arrive au Cameroun",
+ "publisher": "OBS-CC",
+ "published": "2026-08-09",
+ "date_source": "source",
+ "why_not": ""
+}

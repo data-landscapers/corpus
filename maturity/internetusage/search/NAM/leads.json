@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://fred.stlouisfed.org/series/ITNETUSERP2NAM",
+  "title": "Internet users for Namibia",
+  "publisher": "FRED, St. Louis Fed (World Bank/ITU)",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1-Q3: 64.87 per 100 in 2024"
+ },
+ {
+  "url": "https://ourworldindata.org/grapher/share-of-individuals-using-the-internet?country=%7EVNM&tab=chart",
+  "title": "Share of the population using the Internet",
+  "publisher": "Our World in Data (ITU via World Bank)",
+  "published": "2026-07-27",
+  "sub_indicator": "use",
+  "why": "Q1-Q3 ITU estimate"
+ },
+ {
+  "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?type=points&view=map",
+  "title": "Individuals using the Internet (% of population)",
+  "publisher": "World Bank (ITU)",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1-Q3: Namibia 2024 65"
+ },
+ {
+  "url": "https://www.apc.org/en/pubs/summary-human-rights-digital-context-namibia",
+  "title": "Summary: Human rights in the digital context in Namibia",
+  "publisher": "APC",
+  "published": "2025",
+  "sub_indicator": "use",
+  "why": "Q2: penetration 64.4% start of 2025"
+ },
+ {
+  "url": "https://statorigin.org/statistics/internet-users/namibia",
+  "title": "Internet users in Namibia 2024",
+  "publisher": "Statorigin (ITU)",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1-Q3 ITU 2024"
+ },
+ {
+  "url": "https://namibiabusinessreview.com/namibia-achieves-58-internet-coverage/",
+  "title": "Namibia achieves 58% internet coverage",
+  "publisher": "Namibia Business Review",
+  "published": "2025-08-11",
+  "sub_indicator": "use",
+  "why": "CRAN statement 58% access"
+ }
+]

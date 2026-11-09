@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://esccom.org.sz/wp-content/uploads/2026/08/EPTC-AND-JENNY-FINAL-DECISION-Notice-5.pdf",
+  "title": "Notice 5/2026: EPTC and Jenny Eswatini decision on self-provisioning",
+  "publisher": "Eswatini Communications Commission",
+  "published": "2026",
+  "sub_indicator": "routes",
+  "why": "Q1-Q3: cross-border fibre via Malutha and EPTC backbone; all internet enters via EPTC"
+ },
+ {
+  "url": "https://www.insidebiz.co.sz/eswatini-targets-120000-homes-in-national-fibre-rollout/",
+  "title": "Eswatini Targets 120,000 Homes in National Fibre Rollout",
+  "publisher": "Inside Biz",
+  "published": "2026-02-15",
+  "sub_indicator": "routes",
+  "why": "Q1: cross-border connectivity rose from 40 to 111 Gbps"
+ },
+ {
+  "url": "https://www.africabandwidthmaps.com/?p=7480",
+  "title": "Eswatini's International Bandwidth Reaches 67.150 Gbps in 2024",
+  "publisher": "Africa Bandwidth Maps",
+  "published": "2025-09-29",
+  "sub_indicator": "routes",
+  "why": "Q1: EPTC international bandwidth per ESCCOM statistics"
+ },
+ {
+  "url": "https://itweb.africa/article/paratus-launches-two-mozambique-to-sa-fiber-links/lwrKx73Ye2yqmg1o",
+  "title": "Paratus launches two Mozambique to SA fiber links",
+  "publisher": "ITWeb Africa",
+  "published": "2023-10-13",
+  "sub_indicator": "routes",
+  "why": "Q2: a Mozambique-SA fibre link crossing Eswatini"
+ },
+ {
+  "url": "https://uasf.esccom.org.sz/programmes/connectivity-programmes/",
+  "title": "Connectivity Programmes - Universal Access Service Fund",
+  "publisher": "Universal Access and Service Fund, ESCCOM",
+  "published": "2023-10-03",
+  "sub_indicator": "routes",
+  "why": "Q2-Q3: EPTC North/West/South routes to SA plus new east route via Maputo"
+ },
+ {
+  "url": "https://www.motraco.co.mz/en/acordo-motraco-tmcel-impulsiona-conectividade-regional/",
+  "title": "MOTRACO and TMcel agreement for strengthening communication infrastructure",
+  "publisher": "MOTRACO",
+  "published": "2024-01-24",
+  "sub_indicator": "routes",
+  "why": "Q2-Q3: Maputo-Edwaleni-Camden fibre route for EPTC"
+ },
+ {
+  "url": "https://www.internetsociety.org/resources/doc/2024/2024-east-africa-submarine-cable-outage-report/",
+  "title": "2024 East Africa Submarine Cable Outage Report",
+  "publisher": "Internet Society",
+  "published": "2024-07-23",
+  "sub_indicator": "routes",
+  "why": "Q1/Q3a: cables serving Mozambique and South Africa with terrestrial links to Eswatini"
+ },
+ {
+  "url": "https://www.engineeringnews.co.za/article/paratus-activates-direct-terrestrial-fibre-link-from-teraco-to-maputo-2020-09-04",
+  "title": "Paratus activates direct terrestrial fibre link from Teraco to Maputo",
+  "publisher": "Engineering News",
+  "published": "2020-09-04",
+  "sub_indicator": "routes",
+  "why": "Q2: 750 km Maputo-Eswatini-Johannesburg route live"
+ }
+]

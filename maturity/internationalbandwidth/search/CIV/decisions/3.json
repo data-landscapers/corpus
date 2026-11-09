@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Five submarine cables land at Abidjan (SAT-3, ACE, WACS, MainOne and Maroc Telecom West Africa), with ARTCI reporting 2.145 Tbps of installed international bandwidth in December 2024.",
+ "title": "Côte d'Ivoire: Côte d'Ivoire's International Bandwidth Surpasses 1 Tbps, Increases By 68% During 2024",
+ "publisher": "Africa Bandwidth Maps",
+ "published": "2025-08-19",
+ "date_source": "source",
+ "why_not": ""
+}

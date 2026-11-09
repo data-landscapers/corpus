@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "",
+ "title": "Broadband Infrastructure",
+ "publisher": "ECOWAS Commission",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: an ECOWAS summary table with no date on the page; the fact cannot be dated"
+}

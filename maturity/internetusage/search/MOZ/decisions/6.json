@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "fact": "",
+ "title": "Internet users for Mozambique (ITNETUSERP2MOZ)",
+ "publisher": "FRED",
+ "published": "",
+ "why_not": "off-topic: archived capture shows 2023 as the latest value, before 2024; page is undated",
+ "sub_indicator": "use",
+ "aspect": "users",
+ "date_source": "proxy"
+}

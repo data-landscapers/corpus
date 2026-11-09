@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "users",
+ "fact": "estimate: 11.1 per cent of Burundi's individuals used the internet in 2023, the lowest of the 32 landlocked developing countries (ITU estimate, table A2.2).",
+ "title": "Measuring digital development - Facts and Figures: Focus on Landlocked Developing Countries",
+ "publisher": "International Telecommunication Union",
+ "published": "2025-07",
+ "date_source": "source",
+ "why_not": ""
+}

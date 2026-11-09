@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "In August 2024 the Ghanaian Times stated that MTN Ghana used fibre systems from SAT3/WASC, Main One and WACS in Accra, and that Equiano reaches Ghana by land-based fibre from Lome, Togo.",
+ "title": "Build robust, resilient internet connectivity to prevent March 2024 service disruption repetition",
+ "publisher": "Ghanaian Times",
+ "published": "2024-08-12",
+ "date_source": "source",
+ "why_not": ""
+}

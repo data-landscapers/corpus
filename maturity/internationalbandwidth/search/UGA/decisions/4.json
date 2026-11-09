@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Ugandan Internet traffic uses the submarine fibre cables at Mombasa, Kenya, with Uganda dependent on the coast for access (December 2020).",
+ "title": "The Internet in East Africa: a mixed methods study",
+ "publisher": "East African Journal of Science, Technology and Innovation",
+ "published": "2020-12",
+ "date_source": "source",
+ "why_not": ""
+}

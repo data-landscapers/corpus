@@ -1,0 +1,7 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.ecofinagency.com/news-digital/1407-57372-burkina-faso-to-extend-telecom-access-to-1-5-2-million-people,fetched,,scripts/.workroot/study/internetusage/cache/BFA/1.txt,929,html,Burkina Faso to Extend Telecom Access to 1.5–2 Million People
+2,https://www.ceicdata.com/en/burkina-faso/telecommunication/bf-internet-users-individuals--of-population,fetched,,scripts/.workroot/study/internetusage/cache/BFA/2.txt,2346,html,Burkina Faso BF: Internet Users: Individuals: % of Population
+3,https://fred.stlouisfed.org/series/ITNETUSERP2BFA,unfetchable,ReadTimeout; Wayback ConnectionError,,0,,
+4,https://pulse.internetsociety.org/en/reports/BF/,fetched,,scripts/.workroot/study/internetusage/cache/BFA/4.txt,423,html,Country Report for Burkina Faso | ISOC Pulse
+5,https://data.worldbank.org/country/burkina-faso,fetched,,scripts/.workroot/study/internetusage/cache/BFA/5.txt,634,html,World Bank Open Data
+6,https://www.insd.bf/sites/default/files/2024-11/Burkina%20Faso%202021%20DHS%20Final%20Report%2009072024.pdf,fetched,,scripts/.workroot/study/internetusage/cache/BFA/6.txt,421408,pdf,2021 Burkina Faso Demographic and Health Survey - Final Report [FR378]

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "use",
+ "aspect": "",
+ "fact": "",
+ "title": "ICT Development Index (IDI)",
+ "publisher": "Mauritius Digital Promotion Agency",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": "no-development: normalised index score, not a share of the population"
+}

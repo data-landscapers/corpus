@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "users",
+ "fact": "The ITU-based series for Guinea-Bissau gives 29.7774 individuals using the internet per 100 people for 2024, up from 28.7124 in 2023.",
+ "title": "Internet users for Guinea-Bissau (ITNETUSERP2GNB)",
+ "publisher": "FRED, Federal Reserve Bank of St. Louis (source: ITU, World Bank)",
+ "published": "2026-04-14",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "use",
+ "aspect": "",
+ "fact": "",
+ "title": "Équipement et usages des TIC par les ménages et les individus (synthèse)",
+ "publisher": "ANRT",
+ "published": "",
+ "date_source": "source",
+ "why_not": "already-held: same ANRT 2024-2025 survey synthesis; its 91.2 per cent for 2024 is in evidence.csv"
+}

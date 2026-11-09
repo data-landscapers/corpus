@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Orange Tunisie announced on 25 June 2026 that the MEDUSA submarine cable, landed at Bizerte on 1 November 2025, is operational and carrying international traffic, with four fibre pairs of 24 Tbps each on the Tunisian section.",
+ "title": "Orange Tunisie met en service le câble sous-marin MEDUSA",
+ "publisher": "Orange Tunisie",
+ "published": "2026-06-25",
+ "date_source": "source",
+ "why_not": ""
+}

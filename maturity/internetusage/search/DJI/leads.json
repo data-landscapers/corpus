@@ -1,0 +1,9 @@
+[
+{"url":"https://datareportal.com/reports/digital-2027-djibouti","title":"Digital 2027: Djibouti","publisher":"DataReportal","published":"2026-11-05","sub_indicator":"use","why":"Q1-Q4: internet users 65.3 percent of population, October 2026"},
+{"url":"https://www.ecofinagency.com/news-digital/1102-52796-djibouti-launches-mobile-id-platform-to-streamline-public-services","title":"Djibouti Launches Mobile ID Platform to Streamline Public Services","publisher":"Ecofin Agency","published":"2026-02-11","sub_indicator":"use","why":"Q1-Q4: cites 65 percent internet penetration end 2025"},
+{"url":"https://datareportal.com/reports/digital-2026-djibouti","title":"Digital 2026: Djibouti","publisher":"DataReportal","published":"2025-11-08","sub_indicator":"use","why":"Q1-Q4: 772 thousand users, 65.0 percent, late 2025"},
+{"url":"https://datareportal.com/reports/digital-2025-djibouti","title":"Digital 2025: Djibouti","publisher":"DataReportal","published":"2025-03-03","sub_indicator":"use","why":"Q1-Q4: 765 thousand users, 65.0 percent, January 2025"},
+{"url":"https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=DJ","title":"Individuals using the Internet (% of population) - Djibouti","publisher":"World Bank, from ITU","published":"","sub_indicator":"use","why":"Q1-Q4: ITU series, 2024 value"},
+{"url":"https://pulse.internetsociety.org/fr/reports/DJ/","title":"Country Report for Djibouti","publisher":"Internet Society Pulse","published":"","sub_indicator":"use","why":"Q1-Q4: 65 percent of population used the internet, 2024"},
+{"url":"https://fred.stlouisfed.org/series/ITNETUSERP2DJI","title":"Internet users for Djibouti","publisher":"FRED, St. Louis Fed (World Bank source)","published":"","sub_indicator":"use","why":"Q1-Q4: 2024 value 65.3 per 100 people"}
+]

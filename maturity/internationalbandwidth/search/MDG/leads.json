@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.madagascarnewsroom.com/2024/12/madagascar-cables-sous-marins--t4.html",
+  "title": "CABLES SOUS-MARINS | En attendant le « T4 »",
+  "publisher": "Madagascar Newsroom",
+  "published": "2024-12-07",
+  "sub_indicator": "routes",
+  "why": "Q1-3a: four cables (LION, EASSy, METISS, 2Africa) at Toamasina, Toliara, Fort Dauphin, Mahajanga; 2Africa 180 Tbps"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099230003132371852/pdf/BOSIB1b3e397fd115bb14c101b4a81348eb92ff10a.pdf",
+  "title": "Digital and Energy Connectivity for Inclusion in Madagascar Project",
+  "publisher": "World Bank Group",
+  "published": "2023",
+  "sub_indicator": "routes",
+  "why": "Q1-3: three submarine cables in use, three geographically dispersed landing stations"
+ },
+ {
+  "url": "https://fibernet.ceb.mu/wp-content/uploads/2021/03/2021-03-17-MISE-EN-SERVICE-DU-CABLE-METISS.pdf",
+  "title": "Le câble sous-marin METISS a été mis en service",
+  "publisher": "CEB Fibernet / METISS consortium",
+  "published": "2021-03-17",
+  "sub_indicator": "routes",
+  "why": "Q1,Q3: METISS in service 5 March 2021, Fort Dauphin"
+ },
+ {
+  "url": "https://itweb.africa/article/madagascars-telma-links-up-on-mettis-cable-to-bolster-broadband/dgp45qa6KlVvX9l8",
+  "title": "Madagascar's Telma links up on METTIS cable to bolster broadband",
+  "publisher": "ITWeb Africa",
+  "published": "2021-03-23",
+  "sub_indicator": "routes",
+  "why": "Q1,Q3a: METISS 24 Tbps, Telma connected"
+ },
+ {
+  "url": "https://www.connectingafrica.com/connectivity/2africa-reaches-the-shores-of-madagascar",
+  "title": "2Africa reaches the shores of Madagascar",
+  "publisher": "Connecting Africa",
+  "published": "2023-02-15",
+  "sub_indicator": "routes",
+  "why": "Q3a: 2Africa lands at Mahajanga, design capacity 180 Tbit/s"
+ },
+ {
+  "url": "https://www.2424.mg/internet-madagascar-connecte-au-nouveau-cable-optique-sous-marin-2africa",
+  "title": "INTERNET – Madagascar connecté au nouveau câble optique sous-marin 2Africa",
+  "publisher": "2424.mg",
+  "published": "2023-02-06",
+  "sub_indicator": "routes",
+  "why": "Q2-3: three international exits Toamasina, Toliara, Tolagnaro plus Mahajanga"
+ },
+ {
+  "url": "https://lion-submarinesystem.com/",
+  "title": "CSM LION-LION2",
+  "publisher": "LION consortium",
+  "published": "",
+  "sub_indicator": "routes",
+  "why": "Q1: LION in service since 2009, landing station Toamasina"
+ },
+ {
+  "url": "https://news.internetsociety.org/limportance-de-la-regulation-dans-le-developpement-des-infrastructures-de-linternet-a-madagascar/",
+  "title": "L'importance de la Régulation dans le développement des infrastructures de l'Internet à Madagascar",
+  "publisher": "Internet Society",
+  "published": "",
+  "sub_indicator": "routes",
+  "why": "Q1-2: LION and EASSy in service with capacities"
+ }
+]

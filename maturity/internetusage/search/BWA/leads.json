@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.statsbots.org.bw/sites/default/files/publications/Botswana%20Household%20Access%20and%20Individual%20Use%20of%20ICT%27s%20Stats%20Brief%202024.pdf",
+  "title": "Botswana Household Access and Individual Use of ICTs Stats Brief 2024",
+  "publisher": "Statistics Botswana",
+  "published": "2025",
+  "sub_indicator": "use",
+  "why": "Q1-2: 57.5% of individuals used internet in 2024"
+ },
+ {
+  "url": "http://statsbots.org.bw/sites/default/files/documents/Botswana%20Household%20Access%20and%20Individual%20Use%20of%20ICT%27s%202024.pdf",
+  "title": "2024 ICT Survey Summary Results - Key Findings",
+  "publisher": "Statistics Botswana",
+  "published": "2025",
+  "sub_indicator": "use",
+  "why": "Q1-2: 57.5% internet use"
+ },
+ {
+  "url": "https://www.statsbots.org.bw/sites/default/files/press-releases/Press%20Release-Statistics%20Botswana%202024%20ICT%20Household%20Survey%20Results.pdf",
+  "title": "Statistics Botswana releases 2024 ICT Household Survey results",
+  "publisher": "Statistics Botswana",
+  "published": "2025",
+  "sub_indicator": "use",
+  "why": "Q1-2: 57.5%"
+ },
+ {
+  "url": "https://www.itu.int/itu-d/meetings/wp-content/uploads/IPS/documents/46/10_EGH2026_DataCollectionBotswana_TebogoTsienyane.pdf",
+  "title": "Experience and approach taken by Statistics Botswana for data collection on ICT use",
+  "publisher": "Statistics Botswana (ITU EGH 2026)",
+  "published": "2026",
+  "sub_indicator": "use",
+  "why": "Q1-2: internet use 57.5%"
+ },
+ {
+  "url": "https://datareportal.com/reports/digital-2027-botswana",
+  "title": "Digital 2027: Botswana",
+  "publisher": "DataReportal",
+  "published": "2026-11-05",
+  "sub_indicator": "use",
+  "why": "Q1-2: 57.5% estimate"
+ },
+ {
+  "url": "https://datareportal.com/reports/digital-2026-botswana",
+  "title": "Digital 2026: Botswana",
+  "publisher": "DataReportal",
+  "published": "2025-11-08",
+  "sub_indicator": "use",
+  "why": "Q3: 81.4% estimate, conflicts with survey"
+ },
+ {
+  "url": "https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ICT_MDD-2025-1-PDF-E.pdf",
+  "title": "The ICT Development Index 2025",
+  "publisher": "ITU",
+  "published": "2025",
+  "sub_indicator": "use",
+  "why": "Q1-3: Botswana individuals using internet 81.4"
+ },
+ {
+  "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BW",
+  "title": "Individuals using the Internet (% of population) - Botswana",
+  "publisher": "World Bank / ITU",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1-2: ITU series to 2024"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "users",
+ "fact": "ITU estimate: 81.4 per cent of Botswana's individuals used the internet, in the ICT Development Index 2025 data table.",
+ "title": "Measuring digital development: The ICT Development Index 2025",
+ "publisher": "International Telecommunication Union",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

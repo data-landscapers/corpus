@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes;access",
+ "fact": "Google's Equiano cable, design capacity 144 Tbit/s, landed at Melkbosstrand on 8 August 2022, and WIOCC owns a full fibre pair on it with capacity it controls and upgrades itself.",
+ "title": "Google's giant Equiano Internet cable has landed in South Africa",
+ "publisher": "TechCentral",
+ "published": "2022-08-08",
+ "date_source": "source",
+ "why_not": ""
+}

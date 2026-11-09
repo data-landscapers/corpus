@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://datareportal.com/reports/digital-2027-guinea-bissau,held,held as raw/2026/2026-11-05-gnb-datareportal-digital-2027-guinea-bissau.md,,0,,
+2,https://fred.stlouisfed.org/series/ITNETUSERP2GNB,fetched,,scripts/.workroot/study/internetusage/cache/GNB/2.txt,84,html,Internet users for Guinea-Bissau
+3,https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=GW,not-a-document,World Bank indicator widget,,0,,
+4,https://datareportal.com/reports/digital-2025-guinea-bissau,held,held as raw/2025/2025-03-03 Digital 2025 - Guinea-Bissau (DataReportal).md,,0,,
+5,https://fgi.gw/wp-content/uploads/2025/04/Relatorio_FGI_2024_Final.pdf,held,held as raw/2025/2025-04-01-gnb-relatorio-do-primeiro-forum-da-governacao-da-internet-guine-bissau-202.md,,0,,
+6,https://datareportal.com/reports/digital-2024-guinea-bissau,fetched,,scripts/.workroot/study/internetusage/cache/GNB/6.txt,3297,html,Digital 2024: Guinea-Bissau — DataReportal – Global Digital Insights
+7,https://arn.gw/observatorio-mercado-2023/,fetched,,scripts/.workroot/study/internetusage/cache/GNB/7.txt,2117,html,Observatório de Mercado do Ano 2023
+8,https://arn.gw/site24/wp-content/uploads/2025/10/Observatorio-de-mercado-2-o-trimestre-ano-de-2025.pdf,held,held as raw/2025/2025-12-08-arn-guine-bissau-observatorio-de-mercado-2t-2025.md,,0,,

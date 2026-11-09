@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "2Africa has two Nigerian landings, one 500 km south of Lagos, while all other Nigerian cable landings are along a 25 km stretch of beach at Lekki.",
+ "title": "Lagos Subsea Cable Update",
+ "publisher": "Roderick S. Beck (Subsea Cables blog)",
+ "published": "2024-11-26",
+ "date_source": "source",
+ "why_not": ""
+}

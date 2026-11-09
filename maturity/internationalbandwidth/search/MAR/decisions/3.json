@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes;access",
+ "fact": "Orange Maroc announced on 16 December 2025 the landing of the Medusa cable at Nador and the opening of the country's first open-access cable landing station, open to all operators.",
+ "title": "Orange Maroc accueille le câble sous-marin Medusa dans sa station d'atterrissement open access à Nador",
+ "publisher": "Le Matin.ma",
+ "published": "2025-12-16",
+ "date_source": "source",
+ "why_not": ""
+}

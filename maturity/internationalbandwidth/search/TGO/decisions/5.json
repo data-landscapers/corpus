@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Google's Equiano cable has been operational in Togo since August 2023, managed by CSquared Woezon, with capacity sold to local operators including TogoCom.",
+ "title": "Togo: Equiano cable operational since August",
+ "publisher": "Togo First",
+ "published": "2023-11-09",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -66,9 +66,9 @@ idmaintenance,maintenance,dpi.id--national-maintenance-of-id-and-credentials-sys
 idregisters,registers,dpi.id--use-by-other-systems,2026-11-07,12,63,108
 idrobustness,robustness,dpi.id--robustness-of-system,2026-11-08,18,66.6,108
 idverification,use,dpi.exchange--use-of-digital-id-in-other-systems,2026-11-08,18,66.6,93
-internationalbandwidth,routes,infra.connect--international-internet-bandwidth,,,,
-internationalstandards,international,gov.standards--adoption-of-international-standards,,,,
-internetusage,use,infra.connect--internet-usage,,,,
+internationalbandwidth,routes,infra.connect--international-internet-bandwidth,2026-11-09,16,68,168
+internationalstandards,international,gov.standards--adoption-of-international-standards,2026-11-09,16,68,52
+internetusage,use,infra.connect--internet-usage,2026-11-09,16,67,34
 interoperability,framework,gov.policy--data-interoperability-framework-roadmap,,,,
 interoperabilitylaw,law,gov.legislate--legislation-enabling-data-interoperability,,,,
 interoperabilitystandards,standards,gov.standards--national-interoperability-standards,,,,

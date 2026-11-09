@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "The METISS cable entered service on 5 March 2021 as Mauritius's third active submarine telecommunication cable, linking Mauritius to Reunion, Madagascar and mainland Africa.",
+ "title": "METISS Submarine Cable Goes Online !",
+ "publisher": "CEB Fibernet",
+ "published": "2021-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://data.worldbank.org/indicator/IT.NET.USER.ZS,rejected,rejected 2026-09-19: not-a-document,,0,,
+2,https://fred.stlouisfed.org/series/ITNETUSERP2SYC,fetched,,scripts/.workroot/study/internetusage/cache/SYC/2.txt,84,html,Internet users for Seychelles
+3,https://seychelles.un.org/en/258748-taking-action-%E2%80%9Cclean%E2%80%9D-information-ecosystem,fetched,,scripts/.workroot/study/internetusage/cache/SYC/3.txt,430,html,Taking Action for a “clean” information ecosystem
+4,https://theseychellestimes.com/2025/06/24/seychelles-among-africas-digital-leaders-new-itu-report-finds/,fetched,,scripts/.workroot/study/internetusage/cache/SYC/4.txt,250,html,"Seychelles Among Africa's Digital Leaders, New ITU Report Finds | The Seychelles Times"
+5,https://www.finance.gov.sc/wp-content/uploads/2025/10/VNR_SEYCHELLES_2025-1.pdf,held,held as raw/2025/2025-06-01-finance-gov-sc-voluntary-national-review-2025.md,,0,,

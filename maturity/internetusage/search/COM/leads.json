@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://fred.stlouisfed.org/series/ITNETUSERP2COM",
+  "title": "Internet users for Comoros (ITNETUSERP2COM)",
+  "publisher": "FRED, St. Louis Fed (World Bank/ITU)",
+  "published": "2026-04-14",
+  "sub_indicator": "use",
+  "why": "Q1-4: 32.5 per cent in 2024"
+ },
+ {
+  "url": "https://nada.inseed-comores.org/index.php/catalog/15",
+  "title": "Comoros - Enquête Harmonisée sur les Conditions de Vie des Ménages 2024",
+  "publisher": "INSEED",
+  "published": "2024",
+  "sub_indicator": "use",
+  "why": "Q1-4: national household survey 2024 catalogue"
+ },
+ {
+  "url": "https://catalog.ihsn.org/catalog/13650/variable/F1/V131?name=internet_use",
+  "title": "Comoros - The Global Findex Database 2025",
+  "publisher": "World Bank / IHSN",
+  "published": "2025",
+  "sub_indicator": "use",
+  "why": "Q1-4: survey microdata internet use"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/es/reports/km/",
+  "title": "Country Report for Comoras",
+  "publisher": "Internet Society Pulse",
+  "published": "2025",
+  "sub_indicator": "use",
+  "why": "Q1: about 33 per cent use internet 2024"
+ },
+ {
+  "url": "https://www.agenceecofin.com/actualites-numerique/0307-139860-comores-les-internautes-denoncent-les-nouveaux-tarifs-juges-eleves",
+  "title": "Comores : les internautes dénoncent les nouveaux tarifs jugés élevés",
+  "publisher": "Agence Ecofin",
+  "published": "2026",
+  "sub_indicator": "use",
+  "why": "Q1: 32.5 per cent used internet in 2024 per ITU"
+ },
+ {
+  "url": "https://alwatwan.net/societe/internet-illimit%C3%A9-l%E2%80%99anrtic-devrait-publier-les-nouvelles-offres-%C2%ABcette-semaine%C2%BB.html",
+  "title": "Internet illimité : l'Anrtic devrait publier les nouvelles offres",
+  "publisher": "Al-Watwan",
+  "published": "2026-06-30",
+  "sub_indicator": "use",
+  "why": "Q1: minister says penetration insufficient"
+ },
+ {
+  "url": "https://datareportal.com/reports/digital-2026-comoros",
+  "title": "Digital 2026: Comoros",
+  "publisher": "DataReportal",
+  "published": "2025-11-08",
+  "sub_indicator": "use",
+  "why": "Q1: 35.7 per cent at end 2025"
+ },
+ {
+  "url": "https://datahub.itu.int/data/?e=COM",
+  "title": "Data explorer - ITU DataHub",
+  "publisher": "ITU",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1-4: ITU series"
+ }
+]

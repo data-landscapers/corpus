@@ -1,0 +1,9 @@
+[
+{"url":"https://radiomacuto.org/starlink-guinea-ecuatorial-disponible/","title":"Starlink en Guinea Ecuatorial tras dos años de restricciones","publisher":"RadioMacuto","published":"2026-08-30","sub_indicator":"use","why":"Q1-2: World Bank figure of 63 per cent of population using internet in 2024"},
+{"url":"https://www.itu.int/itu-d/reports/statistics/2025/10/15/ff25-internet-use/","title":"Internet use - Statistics (Facts and Figures 2025)","publisher":"International Telecommunication Union","published":"2025-10-15","sub_indicator":"use","why":"Q1-4: ITU internet use, global and regional"},
+{"url":"https://inege.org/wp-content/uploads/2024/12/Informe-Definitivo-de-la-ENH2.pdf","title":"II Encuesta Nacional de Hogares de Guinea Ecuatorial","publisher":"INEGE","published":"2024-12","sub_indicator":"use","why":"Q1-3: national household survey 2022-2023, possible internet use share"},
+{"url":"https://fred.stlouisfed.org/series/ITNETUSERP2GNQ","title":"Internet users for Equatorial Guinea (ITNETUSERP2GNQ)","publisher":"FRED, Federal Reserve Bank of St. Louis (World Bank / ITU data)","published":"2026-04-14","sub_indicator":"use","why":"Q1-2: 63.3 per 100 people in 2024"},
+{"url":"https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=GQ","title":"Individuals using the Internet (% of population) - Equatorial Guinea","publisher":"World Bank, from ITU","published":"","sub_indicator":"use","why":"Q1-2: ITU series for Equatorial Guinea"},
+{"url":"https://data.un.org/Data.aspx?d=ITU&f=ind1Code%3AI99H%3BcountryCode%3AGNQ&q=EQUATORIAL+GUINEA","title":"Percentage of individuals using the internet","publisher":"UNdata (ITU)","published":"","sub_indicator":"use","why":"Q1-2: ITU estimate series to 2022"},
+{"url":"https://dig.watch/countries/equatorial-guinea","title":"Equatorial Guinea | Digital Watch Observatory","publisher":"Diplo Digital Watch","published":"","sub_indicator":"use","why":"Q1-2: ITU individuals using the internet"}
+]

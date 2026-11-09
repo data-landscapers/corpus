@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Telecom Namibia activated the Equiano cable and inaugurated its Swakopmund cable station in July 2024, the text noting WACS landed at Swakopmund and that the two undersea cables give connection diversity.",
+ "title": "Telecom activates Equiano submarine cable",
+ "publisher": "NBC",
+ "published": "2024-07",
+ "date_source": "proxy",
+ "why_not": ""
+}

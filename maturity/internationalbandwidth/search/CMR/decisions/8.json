@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Four submarine cable systems (SAT-3, WACS, SAIL, NCSCS) link Cameroon to the world via the landing points of Douala, Limbe and Kribi.",
+ "title": "Transport & Connectivity Services - Fiche produit BU Transport, Édition 2026",
+ "publisher": "CAMTEL",
+ "published": "2026",
+ "date_source": "source",
+ "why_not": ""
+}

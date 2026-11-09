@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "access",
+ "fact": "Décret n° 2022-1357 of 7 July 2022, published in the Journal officiel of 6 August 2022, requires operators of submarine cable landing stations to give other operators equitable, non-discriminatory access to the station and to capacity on cables landing there, on cost-oriented terms with a reference offer.",
+ "title": "Décret n° 2022-1357 du 07 juillet 2022 relatif à l’interconnexion, au partage d’infrastructures et à l’accès",
+ "publisher": "Journal officiel de la République du Sénégal",
+ "published": "2022-08-06",
+ "date_source": "source",
+ "why_not": ""
+}

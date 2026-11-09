@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Ethiopia's fibre backbone connects to cross-border routes via Djibouti (the main route, through two border crossings at Galafi and Ali Sabieh) and via Kenya, with a lower level of traffic.",
+ "title": "Missing Broadband Links in the Horn of Africa Region",
+ "publisher": "The World Bank",
+ "published": "2021",
+ "date_source": "source",
+ "why_not": ""
+}

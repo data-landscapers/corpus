@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "users",
+ "fact": "Citing the ITU and the regulator, the news agency reported on 15 July 2025 that internet use among individuals in Libya exceeds 80 per cent, against a world average of 74.6 per cent.",
+ "title": "ليبيا تتصدر مؤشر تطوير وتنمية تكنولوجيا المعلومات والاتصالات 2025",
+ "publisher": "وكالة الأنباء الليبية",
+ "published": "2025-07-15",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,10 @@
+[
+{"url":"https://datareportal.com/reports/digital-2027-guinea-bissau","title":"Digital 2027: Guinea-Bissau","publisher":"DataReportal","published":"2026-11-05","sub_indicator":"use","why":"29.8 percent of population online, end 2026 (Q1)"},
+{"url":"https://fred.stlouisfed.org/series/ITNETUSERP2GNB","title":"Internet users for Guinea-Bissau (ITNETUSERP2GNB)","publisher":"FRED, Federal Reserve Bank of St. Louis (World Bank/ITU)","published":"2026-04-14","sub_indicator":"use","why":"2024 ITU-based figure 29.78 per 100 people (Q1)"},
+{"url":"https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=GW","title":"Individuals using the Internet (% of population) - Guinea-Bissau","publisher":"World Bank, from ITU","published":"2025","sub_indicator":"use","why":"2024 ITU estimate, about 30 per cent (Q1)"},
+{"url":"https://datareportal.com/reports/digital-2025-guinea-bissau","title":"Digital 2025: Guinea-Bissau","publisher":"DataReportal","published":"2025-03-03","sub_indicator":"use","why":"32.5 percent online at start of 2025 (Q1)"},
+{"url":"https://fgi.gw/wp-content/uploads/2025/04/Relatorio_FGI_2024_Final.pdf","title":"Relatório FGI 2024","publisher":"Fórum de Governação da Internet da Guiné-Bissau","published":"2025-04","sub_indicator":"use","why":"Internet users share January 2024 (Q1)"},
+{"url":"https://datareportal.com/reports/digital-2024-guinea-bissau","title":"Digital 2024: Guinea-Bissau","publisher":"DataReportal","published":"2024-02-23","sub_indicator":"use","why":"31.6 percent penetration start 2024 (Q1)"},
+{"url":"https://arn.gw/observatorio-mercado-2023/","title":"Observatório de Mercado do Ano 2023","publisher":"ARN","published":"2024-06-21","sub_indicator":"use","why":"Regulator's subscriber counts, 2023 (Q1 context)"},
+{"url":"https://arn.gw/site24/wp-content/uploads/2025/10/Observatorio-de-mercado-2-o-trimestre-ano-de-2025.pdf","title":"Observatório de mercado do 2º trimestre do ano 2025","publisher":"ARN","published":"2025","sub_indicator":"use","why":"Regulator's penetration rates, Q2 2025 (Q1 context)"}
+]

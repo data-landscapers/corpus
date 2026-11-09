@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://csquared.com/csquared-adds-2africa-west-capacity-to-strengthen-regional-internet-resilience/",
+  "title": "CSquared adds 2Africa West capacity to strengthen regional internet resilience",
+  "publisher": "CSquared",
+  "published": "2026-07-13",
+  "sub_indicator": "routes",
+  "why": "Q3: independent subsea and terrestrial routes; Equiano reaches Ghana via Togo"
+ },
+ {
+  "url": "https://bayobab.africa/bayobab-lands-2africa-subsea-cable-in-ghana-and-nigeria-to-strengthen-internet-connectivity-across-west-africa/",
+  "title": "Bayobab lands 2Africa subsea cable in Ghana and Nigeria",
+  "publisher": "Bayobab",
+  "published": "2024-02-08",
+  "sub_indicator": "routes",
+  "why": "Q1/Q2/Q4: 2Africa landed in Accra, six landings, open-access landing stations"
+ },
+ {
+  "url": "https://ghanaiantimes.com.gh/build-robust-resilient-internet-connectivity-to-prevent-march-2024-service-disruption-repetition-2/",
+  "title": "Build robust, resilient internet connectivity to prevent March 2024 service disruption repetition",
+  "publisher": "Ghanaian Times",
+  "published": "2024-08-12",
+  "sub_indicator": "routes",
+  "why": "Q2/Q3: Ghana multiple cables; Equiano reaches Ghana by land from Lome"
+ },
+ {
+  "url": "https://www.internetsociety.org/resources/doc/2024/2024-west-africa-submarine-cable-outage-report/",
+  "title": "2024 West Africa Submarine Cable Outage Report",
+  "publisher": "Internet Society",
+  "published": "2024-04-18",
+  "sub_indicator": "routes",
+  "why": "Q1/Q2: Ghana connected to five cables"
+ },
+ {
+  "url": "https://tech.africa/csquared-2africa-west-capacity/",
+  "title": "CSquared adds 2Africa capacity to cut West Africa cable risk",
+  "publisher": "Tech Africa",
+  "published": "2026-07-15",
+  "sub_indicator": "routes",
+  "why": "Q3/3a: Equiano lands Nigeria and Togo, terrestrial to Ghana"
+ },
+ {
+  "url": "https://bayobab.africa/bayobab-lands-2africa-subsea-cable-in-ghana-further-strengthening-internet-connectivity-in-africa/",
+  "title": "Bayobab Lands 2Africa Subsea Cable in Ghana",
+  "publisher": "Bayobab",
+  "published": "2023-11-27",
+  "sub_indicator": "routes",
+  "why": "Q1/Q2: 2Africa landed in Accra, six landings"
+ },
+ {
+  "url": "https://sigtel.ecowas.int/regional-fiber-infrastructure/",
+  "title": "Regional Fiber Infrastructure",
+  "publisher": "ECOWAS",
+  "published": "",
+  "sub_indicator": "routes",
+  "why": "Q1/Q2: Ghana five cables and landing points"
+ },
+ {
+  "url": "https://nca.org.gh/submarine-cable-landing/",
+  "title": "Submarine Cable Landing",
+  "publisher": "National Communications Authority",
+  "published": "",
+  "sub_indicator": "routes",
+  "why": "Q1/Q2: Ghana has five submarine cable providers"
+ }
+]

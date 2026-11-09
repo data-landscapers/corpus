@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "The WACS submarine cable was cut on 2 January 2026 about 70 km off Pointe-Noire, disrupting internet in the Republic of Congo for weeks; backup capacity was activated through the DRC and Angola but proved insufficient.",
+ "title": "Après la panne du WACS, les opérateurs congolais renforcent leur connectivité grâce au câble 2Africa",
+ "publisher": "ARPCE Congo",
+ "published": "2026-02-19",
+ "date_source": "proxy",
+ "why_not": ""
+}

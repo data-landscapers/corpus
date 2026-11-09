@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "fact": "estimate:20.5 - Mozambique had 7.57 million individuals using the internet in October 2026, 20.5 per cent of the population.",
+ "title": "Digital 2027: Mozambique",
+ "publisher": "DataReportal",
+ "published": "2026-11-05",
+ "why_not": "",
+ "sub_indicator": "use",
+ "aspect": "users",
+ "date_source": "proxy"
+}

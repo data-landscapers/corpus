@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "EASSy, ready for service in July 2010 and upgraded to over 36 Tbps design capacity, has a landing station in Sudan; Sudan Telecom Company is an owner.",
+ "title": "EASSy",
+ "publisher": "Djibouti Telecom",
+ "published": "2024-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

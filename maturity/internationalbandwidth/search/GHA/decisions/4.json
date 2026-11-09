@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "The Internet Society's April 2024 report lists Ghana as connected to submarine cables MainOne, ACE, Glo-1, SAT-3 and WACS.",
+ "title": "2024 West Africa Submarine Cable Outage Report",
+ "publisher": "Internet Society",
+ "published": "2024-04-18",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Malawi has no submarine cable and has terrestrial cross-border fibre links to Mozambique, Tanzania and Zambia, and relies predominantly on SEACOM and EASSy.",
+ "title": "2024 East Africa Submarine Cable Outage Report",
+ "publisher": "Internet Society",
+ "published": "2024-07-23",
+ "date_source": "source",
+ "why_not": ""
+}

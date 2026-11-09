@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://paratus.africa/blog/equiano-cable-activated-in-namibia/",
+  "title": "Equiano Cable Activated in Namibia",
+  "publisher": "Paratus",
+  "published": "2023-06-12",
+  "sub_indicator": "routes",
+  "why": "Q2/Q3a/Q4: second cable activated, 144 Tbps, open access"
+ },
+ {
+  "url": "https://www.telecom.na/media-centre/797-telecom-namibia-celebrates-32-years-with-historic-inauguration-of-the-%E2%80%9Ctelecom-namibia-equiano-cable-station%E2%80%9D-and-activation-of-capacity-on-equiano-subsea-cable",
+  "title": "Telecom Namibia Celebrates 32 Years ... Equiano Cable Station",
+  "publisher": "Telecom Namibia",
+  "published": "2024-07-31",
+  "sub_indicator": "routes",
+  "why": "Q2: Equiano activated alongside WACS"
+ },
+ {
+  "url": "https://www.telecom.na/media-centre/787-telecom-namibia-and-sparkle-partner-to-deliver-enhanced-connectivity-for-namibia%E2%80%99s-digital-transformation",
+  "title": "Telecom Namibia and Sparkle Partner",
+  "publisher": "Telecom Namibia",
+  "published": "2024-06-11",
+  "sub_indicator": "routes",
+  "why": "Q2/Q3: capacity on Equiano as diversified route"
+ },
+ {
+  "url": "https://www.submarinenetworks.com/en/systems/euro-africa/equiano/paratus-lights-up-equiano-cable-system-in-namibia",
+  "title": "Paratus Lights up Equiano Cable System in Namibia",
+  "publisher": "Submarine Networks",
+  "published": "2023-06-16",
+  "sub_indicator": "routes",
+  "why": "Q1-Q4: terrestrial links, Equiano, open access"
+ },
+ {
+  "url": "https://africapractice.com/wp-content/uploads/2022/06/EIA-Namibia-22June2022.pdf",
+  "title": "Equiano economic impact assessment Namibia",
+  "publisher": "Africa Practice / Genesis Analytics",
+  "published": "2022-06",
+  "sub_indicator": "routes",
+  "why": "Q1/Q3: WACS single cable, terrestrial links to neighbours"
+ },
+ {
+  "url": "https://neweralive.na/telecom-namibia-works-on-network-optimisation/",
+  "title": "Telecom Namibia works on network optimisation",
+  "publisher": "New Era",
+  "published": "2025-06-30",
+  "sub_indicator": "routes",
+  "why": "Q1: WACS landing at Swakopmund in service 2025"
+ },
+ {
+  "url": "https://www.nbcnews.na/index.php/node/106646",
+  "title": "Telecom activates Equiano submarine cable",
+  "publisher": "NBC",
+  "published": "2024-07",
+  "sub_indicator": "routes",
+  "why": "Q2: two undersea cables"
+ },
+ {
+  "url": "https://www.mtc.com.na/uploads/press_releases/Presser_-_MTC_Botswana_Fibre_Networks_-_MOU.pdf",
+  "title": "MTC and BoFiNet Sign MOU",
+  "publisher": "MTC",
+  "published": "2026-02-18",
+  "sub_indicator": "routes",
+  "why": "Q3: Namibia-Botswana cross-border fibre route"
+ }
+]

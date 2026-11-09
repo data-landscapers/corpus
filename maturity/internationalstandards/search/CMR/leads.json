@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.iso.org/member/1623.html",
+  "title": "ISO - ANOR - Agence des Normes et de la Qualité",
+  "publisher": "ISO",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q1 ISO membership class; Q4 TC participation"
+ },
+ {
+  "url": "https://anor.cm/articles/comites-techniques",
+  "title": "COMITÉS TECHNIQUES - ANOR",
+  "publisher": "ANOR",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q1 ISO and IEC membership"
+ },
+ {
+  "url": "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/committee/04/50/45020.html?view=participation",
+  "title": "ISO/IEC JTC 1 - Information technology: Participation",
+  "publisher": "ISO",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q4 JTC 1 participating or observing status"
+ },
+ {
+  "url": "https://anor.cm/",
+  "title": "ANOR - Agence des Normes et de la Qualité",
+  "publisher": "ANOR",
+  "published": "2025-03-18",
+  "sub_indicator": "international",
+  "why": "Q2 homologation of 25 national standards, technology"
+ },
+ {
+  "url": "https://armp.cm/details?id_publication=5876&type_publication=AMI",
+  "title": "Agence de Régulation des Marchés Publics: avis PATNUC cybersécurité",
+  "publisher": "ARMP",
+  "published": "2025-11-13",
+  "sub_indicator": "international",
+  "why": "Q3 audits of public administrations on ISO 27001"
+ },
+ {
+  "url": "https://www.antic.cm/index.php/fr/missions/audit-de-securite.html",
+  "title": "Audit de sécurité",
+  "publisher": "ANTIC",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q3 mandatory security audit of public administrations"
+ },
+ {
+  "url": "https://minfi.gov.cm/wp-content/uploads/2024/11/politique-de-securite-MINFI-final-.pdf",
+  "title": "Politique gouvernementale de Cybersécurité (PSSI du MINFI)",
+  "publisher": "MINFI",
+  "published": "2024-11",
+  "sub_indicator": "international",
+  "why": "Q3 ISO/CEI 27001 based security policy"
+ },
+ {
+  "url": "https://anor.cm/uploads/catalogue_des_normes.pdf",
+  "title": "Catalogue des normes camerounaises",
+  "publisher": "ANOR",
+  "published": "2014",
+  "sub_indicator": "international",
+  "why": "Q2 national standards NC 429:2014 = ISO/IEC 27001:2013"
+ }
+]

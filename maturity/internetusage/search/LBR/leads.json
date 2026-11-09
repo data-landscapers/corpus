@@ -1,0 +1,10 @@
+[
+{"url":"https://datareportal.com/reports/digital-2027-liberia","title":"Digital 2027: Liberia","publisher":"DataReportal","published":"2026-11-05","sub_indicator":"use","why":"Q1-Q4: 1.90 million users, 32.2 percent, October 2026"},
+{"url":"https://datareportal.com/reports/digital-2026-liberia","title":"Digital 2026: Liberia","publisher":"DataReportal","published":"2025-11-08","sub_indicator":"use","why":"Q1-Q4: 30.0 percent, October 2025"},
+{"url":"https://datareportal.com/reports/digital-2025-liberia","title":"Digital 2025: Liberia","publisher":"DataReportal","published":"2025-03-03","sub_indicator":"use","why":"Q1-Q4: 32.4 percent, January 2025"},
+{"url":"https://pulse.internetsociety.org/en/reports/LR/","title":"Country Report for Liberia","publisher":"ISOC Pulse","published":"","sub_indicator":"use","why":"Q1-Q4: about 32 percent used internet, 2024"},
+{"url":"https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=LR","title":"Individuals using the Internet (% of population) - Liberia","publisher":"World Bank / ITU","published":"","sub_indicator":"use","why":"Q1-Q4: ITU series to 2024"},
+{"url":"https://visualizedata.org/places/lr/internet-users/","title":"Using the internet in Liberia","publisher":"visualizedata.org","published":"2026-10-27","sub_indicator":"use","why":"Q1-Q4: 32.2 percent in 2024 (WDI)"},
+{"url":"https://statbase.org/data/lbr-population-using-internet/","title":"Individuals using the Internet | Liberia","publisher":"Statbase","published":"","sub_indicator":"use","why":"Q1-Q4: ITU 32.23 percent 2024"},
+{"url":"https://lta.gov.lr/wp-content/uploads/2026/04/Sector-Data-Snapshot-25.pdf","title":"Sector Trends at a Glance","publisher":"Liberia Telecommunications Authority","published":"2026-04","sub_indicator":"use","why":"Q1-Q2: mobile broadband subscriptions 63 percent 2025"}
+]

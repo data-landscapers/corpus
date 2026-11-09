@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Algérie Télécom's international network runs by submarine cable (Oran-Valence, Alger-Valence, Alger-Palma, SMW4 from Annaba, MEDEX) and by a terrestrial cable from El Kala to Tabarka in Tunisia.",
+ "title": "Evolution de l’Infrastructure de Transport Ip d’Algérie Télécom",
+ "publisher": "Algérie Télécom (ITU Meaningful Connectivity workshop)",
+ "published": "2024-11-20",
+ "date_source": "source",
+ "why_not": ""
+}

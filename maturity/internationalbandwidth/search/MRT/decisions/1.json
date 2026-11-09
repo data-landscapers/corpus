@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "On 4 May 2026 a new EllaLink cable was landed at a new Nouadhibou landing station, giving Mauritania a second international connection, with the cable to enter service later.",
+ "title": "EllaLink et le MTNIMA Posent une Nouvelle Branche de Câble Sous-Marin à Nouadhibou",
+ "publisher": "MTNIMA",
+ "published": "2026-05-05",
+ "date_source": "source",
+ "why_not": ""
+}

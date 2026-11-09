@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "After the WACS incident of 2 January 2026, Congo Telecom said its network stayed functional through switchover to backup capacity, with slowdowns at peak hours, while MTN Congo and Airtel Congo pooled remaining capacity.",
+ "title": "Fibre optique : Solidarité historique entre opérateurs du Congo pour pallier l'incident sur le câble sous-marin WACS",
+ "publisher": "Digital Business Africa",
+ "published": "2026-01-05",
+ "date_source": "source",
+ "why_not": ""
+}

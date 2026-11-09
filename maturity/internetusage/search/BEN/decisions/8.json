@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "users",
+ "fact": "ARCEP, correcting for multiple SIMs, estimated the number of unique internet users at the end of 2023 at 7.0 million, 55.4 per cent of Benin's total population, against GSMA's own estimate of 28 per cent of the population using mobile internet.",
+ "title": "La transformation numérique de l'économie du Bénin",
+ "publisher": "GSMA",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "The DRC depends on two international submarine cables, WACS (connected 2013) and 2Africa, which landed in September 2023 and was put into service in December 2025 by Airtel RDC.",
+ "title": "La RDC veut renforcer ses moyens de connectivité Internet internationale",
+ "publisher": "Agence Ecofin",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

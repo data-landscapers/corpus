@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "By October 2020 Equatorial Guinea had moved from a 34 Mbps satellite link to access through several international and national submarine cables.",
+ "title": "Equatorial Guinea lays networks, aiming to be a West Africa tech hub",
+ "publisher": "CIO",
+ "published": "2020-10-05",
+ "date_source": "source",
+ "why_not": ""
+}

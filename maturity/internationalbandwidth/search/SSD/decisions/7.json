@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "A cable link completed by Liquid Telecom in February 2020 connects Juba directly to its submarine landing station at Mombasa, South Sudan's first direct international fibre link.",
+ "title": "South Sudan gains its first international fibre cable link",
+ "publisher": "Developing Telecoms (BuddeComm)",
+ "published": "2020-10-19",
+ "date_source": "proxy",
+ "why_not": ""
+}

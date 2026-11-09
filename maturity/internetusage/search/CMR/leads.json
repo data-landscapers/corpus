@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=CM",
+  "title": "Individuals using the Internet (% of population) - Cameroon",
+  "publisher": "World Bank (ITU data)",
+  "published": "2024",
+  "sub_indicator": "use",
+  "why": "Q1-2: ITU estimate 46.26% for 2024"
+ },
+ {
+  "url": "https://ourworldindata.org/grapher/share-of-individuals-using-the-internet?tab=map",
+  "title": "Share of the population using the Internet, 2025",
+  "publisher": "Our World in Data (ITU via World Bank)",
+  "published": "2026-07-27",
+  "sub_indicator": "use",
+  "why": "Q1-2: Cameroon 46%"
+ },
+ {
+  "url": "https://fred.stlouisfed.org/series/ITNETUSERP2CMR",
+  "title": "Internet users for Cameroon",
+  "publisher": "FRED / World Bank",
+  "published": "2026-04-14",
+  "sub_indicator": "use",
+  "why": "Q1-2: 46.26 per 100 people, 2024"
+ },
+ {
+  "url": "https://www.nada.stat.cm/index.php/catalog/211/download/1806",
+  "title": "Annuaire Statistique des Postes, Télécommunications et TIC au Cameroun, Edition 2024",
+  "publisher": "MINPOSTEL / INS",
+  "published": "2024",
+  "sub_indicator": "use",
+  "why": "Survey 2024 share of population using internet"
+ },
+ {
+  "url": "https://www.investiraucameroun.com/telecom/1606-22118-internet-avec-plus-de-40-d-individus-actifs-le-cameroun-depasse-la-moyenne-en-afrique-malgre-le-retard-sur-le-haut-debit",
+  "title": "Internet : avec plus de 40% d'individus actifs, le Cameroun dépasse la moyenne en Afrique",
+  "publisher": "Investir au Cameroun",
+  "published": "2025",
+  "sub_indicator": "use",
+  "why": "Q1: ITU 2023 over 40%"
+ },
+ {
+  "url": "https://refugeeconnectivity.org/our-work/cameroon",
+  "title": "Cameroon - Connectivity for Refugees",
+  "publisher": "UNHCR",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1-2: 46% of individuals use internet as of 2024"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "The report's Table 1 lists the submarine cables serving Kenya as 2Africa, Africa-1, DARE-1, EASSy, LION2, PEACE, SEACOM and TEAMS, with terrestrial cross-border links to Ethiopia, Somalia, South Sudan, Tanzania and Uganda.",
+ "title": "2024 East Africa Submarine Cable Outage Report",
+ "publisher": "Internet Society",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

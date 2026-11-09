@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Somalia has two existing fiber optic systems connecting it to the global internet, EASSy and DARE1, with 2Africa under development.",
+ "title": "Somalia - Information, Communication and Technology (ICT)",
+ "publisher": "U.S. International Trade Administration",
+ "published": "2024-01-22",
+ "date_source": "proxy",
+ "why_not": ""
+}

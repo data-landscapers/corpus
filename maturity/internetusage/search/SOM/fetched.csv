@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=SO,not-a-document,World Bank indicator widget,,0,,
+2,https://fred.stlouisfed.org/series/ITNETUSERP2SOM,unfetchable,ReadTimeout; Wayback ConnectionError,,0,,
+3,https://worldsignalsmonitor.com/series/somalia-series-bb35672c90497342f8f6208ce69ebcdf/,fetched,,scripts/.workroot/study/internetusage/cache/SOM/3.txt,573,html,"Internet use in Somalia, Fed. Rep. · World Signal Monitor"
+4,https://moct.gov.so/en/wp-content/uploads/2025/08/Somalia-Digital-Inclusion-Policy_High-Level-Policy-document.pdf,held,held as raw/2025/2025-08-01-somalia-digital-inclusion-policy.md,,0,,
+5,https://www.hiiraan.com/news4/2025/Oct/203323/somalia_s_internet_users_soar_to_10_7_million_as_starlink_and_digital_strategy_fuel_expansion.aspx,held,held as raw/2025/2025-10-16-somalia-internet-users-10-7-million.md,,0,,
+6,https://www.caasimada.net/df-oo-shaacisay-in-10-milyan-ay-gaareen-dadka-soomaaliyeed-ee/,fetched,,scripts/.workroot/study/internetusage/cache/SOM/6.txt,223,html,Dowladda oo shaacisay in 10 milyan ay gaareen dadka Soomaaliyeed ee...
+7,https://datareportal.com/reports/digital-2027-somalia,fetched,,scripts/.workroot/study/internetusage/cache/SOM/7.txt,4959,html,Digital 2027: Somalia — DataReportal – Global Digital Insights
+8,https://www.itu.int/itu-d/reports/statistics/wp-content/uploads/sites/5/2026/11/ITUFactsAndFigures2026.pdf,fetched,,scripts/.workroot/study/internetusage/cache/SOM/8.txt,10107,pdf,Measuring digital development

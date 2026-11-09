@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "In July 2024 Mozambique is listed with three submarine cables (2Africa, EASSy, SEACOM) and cross-border links to Eswatini, Malawi, South Africa, Tanzania, Zimbabwe and Zambia.",
+ "title": "2024 East Africa Submarine Cable Outage Report",
+ "publisher": "Internet Society",
+ "published": "2024-07-23",
+ "date_source": "source",
+ "why_not": ""
+}

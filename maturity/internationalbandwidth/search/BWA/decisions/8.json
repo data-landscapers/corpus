@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "The 840 km Botswana Kalahari Fibre route from Mamuno to Lobatse was launched on 29 May 2024, connecting Botswana to the 144-terabit Equiano cable at Swakopmund and diversifying network routes.",
+ "title": "Botswana Kalahari Fibre route complete",
+ "publisher": "Botswana Daily News",
+ "published": "2024-05-30",
+ "date_source": "source",
+ "why_not": ""
+}

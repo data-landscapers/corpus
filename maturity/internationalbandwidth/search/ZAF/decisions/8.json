@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "The last segment of the Africa Coast to Europe (ACE) cable, landing at Duynefontein near Cape Town, was put into commercial service on 1 June 2021, raising design capacity to 20 Tbps.",
+ "title": "Commissioning of the last segment and system upgrade",
+ "publisher": "ACE Submarine Cable",
+ "published": "2021-06-01",
+ "date_source": "source",
+ "why_not": ""
+}

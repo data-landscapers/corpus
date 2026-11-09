@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "international",
+ "aspect": "",
+ "fact": "",
+ "title": "MS ISO/IEC 27001:2022/Amd 1:2024",
+ "publisher": "Mauritius Standards Bureau",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: catalogue entry with no date of its own; the 27001 adoption is covered by leads 2 and 4"
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "As at June 2022 Namibia relied on one submarine cable, WACS (30 Tbps design) landing at Swakopmund, with terrestrial fibre links to Angola, Botswana, South Africa and Zambia; Equiano was expected in 2022.",
+ "title": "Equiano (economic impact assessment, Namibia)",
+ "publisher": "Africa Practice and Genesis Analytics",
+ "published": "2022-06",
+ "date_source": "source",
+ "why_not": ""
+}

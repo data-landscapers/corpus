@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "users",
+ "fact": "DataReportal reported 708.2 thousand internet users in Eswatini at the start of 2024, penetration of 58.3 percent.",
+ "title": "Digital 2024: Eswatini",
+ "publisher": "DataReportal",
+ "published": "2024-02-23",
+ "date_source": "source",
+ "why_not": ""
+}

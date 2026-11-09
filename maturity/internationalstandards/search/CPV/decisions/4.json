@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "international",
+ "aspect": "",
+ "fact": "",
+ "title": "Decreto-lei nº 9/2021",
+ "publisher": "Boletim Oficial de Cabo Verde",
+ "published": "2021-01-29",
+ "date_source": "source",
+ "why_not": "headline-only-stub: the fetched page holds only the decree's title and summary, no text"
+}

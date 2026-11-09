@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "users",
+ "fact": "The ANSD's Situation économique et sociale du Sénégal 2024, published January 2026, states that 62.3 per cent of people aged 10 and over had access to the internet in 2024 (79.4 per cent urban, 41.3 per cent rural); the figure is for people aged 10 and over, not the whole population, and says access, not use.",
+ "title": "Situation économique et sociale du Sénégal (SESN) édition 2024",
+ "publisher": "ANSD (Agence nationale de la statistique et de la démographie)",
+ "published": "2026-01",
+ "date_source": "source",
+ "why_not": ""
+}

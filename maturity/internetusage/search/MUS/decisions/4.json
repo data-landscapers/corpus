@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "users",
+ "fact": "In the 2024 household survey 83.2 per cent of persons aged twelve and over (83.3 per cent aged five and over) used the internet, up from 68.3 per cent in 2020.",
+ "title": "Social Indicators: ICT Statistics Year 2024",
+ "publisher": "Statistics Mauritius",
+ "published": "2025-07-11",
+ "date_source": "source",
+ "why_not": ""
+}

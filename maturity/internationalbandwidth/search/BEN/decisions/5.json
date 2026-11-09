@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "ARCEP Benin's November 2022 presentation states that Benin has three submarine cables (SAT3, ACE and West Africa) and proposes a security loop on the national backbone.",
+ "title": "Partage d'expériences de l'ARCEP Bénin sur la résilience et la sécurité des réseaux de télécommunications",
+ "publisher": "ARCEP Bénin",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

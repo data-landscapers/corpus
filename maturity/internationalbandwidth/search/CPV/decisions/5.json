@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "The EllaLink international submarine cable went live in Praia, Cape Verde, on 6 June 2022.",
+ "title": "EllaLink Goes Live in Cape Verde",
+ "publisher": "SubTel Forum",
+ "published": "2022-06-09",
+ "date_source": "source",
+ "why_not": ""
+}

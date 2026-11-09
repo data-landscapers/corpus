@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "The 2025-2026 BU WAC catalogue states Mauritel operates the Mauritanian branch of the West Africa Cable submarine cable and its landing point at the Nouadhibou terminal station, separate from the ACE station at Nouakchott.",
+ "title": "Catalogue d'Interconnexion 2025/2026 - BU WAC",
+ "publisher": "Moov Mauritel (BU WAC), published by ARE",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

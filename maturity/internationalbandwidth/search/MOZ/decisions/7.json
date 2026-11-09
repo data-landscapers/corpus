@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "The 180 Tbps 2Africa cable landed in Maputo in February 2023, received at iColo data centre MPM1.",
+ "title": "2Africa cable lands in Mozambique",
+ "publisher": "DCD",
+ "published": "2023-02-17",
+ "date_source": "source",
+ "why_not": ""
+}

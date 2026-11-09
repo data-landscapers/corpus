@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "On 12 June 2023 Paratus activated the Equiano cable at Swakopmund, Namibia's second subsea cable beside WACS, 144 Tbps design capacity with open access via the landing station.",
+ "title": "Equiano Cable Activated in Namibia",
+ "publisher": "Paratus",
+ "published": "2023-06-12",
+ "date_source": "source",
+ "why_not": ""
+}

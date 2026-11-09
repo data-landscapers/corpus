@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "On 1 August 2025 EllaLink states Mauritania has relied on a single international route, the ACE cable, and that the Nouadhibou station will give a geographically distinct second route, with land backup routes via Senegal and Mali.",
+ "title": "Mauritania Joins EllaLink: Boosting Africa-Europe Digital Connectivity",
+ "publisher": "EllaLink",
+ "published": "2025-08-01",
+ "date_source": "source",
+ "why_not": ""
+}

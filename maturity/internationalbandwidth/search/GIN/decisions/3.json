@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Guinea has a single international subsea link via ACE, and its backbone operator SOGEB signed an agreement with Mali's SMTD in June 2024 to interconnect the two countries' fibre networks.",
+ "title": "Guinea and Mali agree to interconnect fibre networks",
+ "publisher": "Developing Telecoms",
+ "published": "2024-07-03",
+ "date_source": "source",
+ "why_not": ""
+}

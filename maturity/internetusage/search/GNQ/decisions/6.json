@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "use",
+ "aspect": "",
+ "fact": "",
+ "title": "Percentage of individuals using the internet",
+ "publisher": "UNdata (ITU)",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "already-held: the ITU series, whose latest value here is an ITU estimate for 2022, before the 2024 floor"
+}

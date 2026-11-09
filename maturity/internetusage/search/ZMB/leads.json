@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.itu.int/itu-d/sites/projectumc/wp-content/uploads/sites/42/2026/03/Zambia_2025-ICT-Survey.pdf",
+  "title": "Zambia 2025 ICT Survey presentation",
+  "publisher": "ZamStats/ZICTA via ITU",
+  "published": "2026-03",
+  "sub_indicator": "use",
+  "why": "Q1-2: individuals with internet access 29.7% in 2025"
+ },
+ {
+  "url": "https://www.zamstats.gov.zm/wp-content/uploads/2025/12/ZDHS-2024.pdf",
+  "title": "Zambia Demographic and Health Survey 2024",
+  "publisher": "Zambia Statistics Agency",
+  "published": "2025-12",
+  "sub_indicator": "use",
+  "why": "Q1-2: individuals 15-49 using internet 34.1%"
+ },
+ {
+  "url": "https://www.zambiamonitor.com/techbytes-internet-penetration-rises-to-72-1-in-zambia-authorities-claim/",
+  "title": "Techbytes: Internet penetration rises to 72.1 in Zambia",
+  "publisher": "Zambia Monitor",
+  "published": "2026-06-10",
+  "sub_indicator": "use",
+  "why": "Q1-3: ministry penetration claim"
+ },
+ {
+  "url": "https://www.ecofinagency.com/news-digital/1012-51263-zambia-and-yango-held-talks-on-digital-transformation",
+  "title": "Zambia and Yango Held Talks on Digital Transformation",
+  "publisher": "Ecofin Agency",
+  "published": "2025-12-10",
+  "sub_indicator": "use",
+  "why": "Q1: 33% internet access"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/reports/ZM/",
+  "title": "Country Report for Zambia",
+  "publisher": "ISOC Pulse",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1: 17% used internet 2024 (ITU)"
+ },
+ {
+  "url": "https://www.zamstats.gov.zm/wp-content/uploads/2025/02/National-ICT-Survey-2022.pdf",
+  "title": "2022 National Survey on Access and Usage of ICTs",
+  "publisher": "Zambia Statistics Agency",
+  "published": "2025-02",
+  "sub_indicator": "use",
+  "why": "Q1: 25.2% individuals 10+ used internet 2022"
+ }
+]

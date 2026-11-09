@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "The Ceiba-2 submarine cable, in operation since March 2017, links Malabo and Bata with Kribi in Cameroon and acts as a second international connection point for Equatorial Guinea, its Bata station beside ACE's.",
+ "title": "CEIBA-2",
+ "publisher": "GITGE",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "undated: the page carries no date of its own, so the fact cannot be dated"
+}

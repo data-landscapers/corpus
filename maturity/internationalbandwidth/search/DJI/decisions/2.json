@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "La Nation reported in May 2026 that more than ten international submarine cables converge on Djibouti, with landing stations at Haramous and Ras Dika, the newer one hosting very high capacity cables.",
+ "title": "Djibouti, la porte d'entrée du numérique en Afrique",
+ "publisher": "La Nation",
+ "published": "2026-05-08",
+ "date_source": "source",
+ "why_not": ""
+}

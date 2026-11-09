@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "As of 6 January 2026 Tunisia's international routes comprise SMW4, DIDON-SMW2 and HANNIBAL cables, with Medusa (Bizerte-Marseille) in testing; KELTRA is obsolete and no longer a strategic active cable.",
+ "title": "Des câbles historiques aux nouvelles routes stratégiques: comment la Tunisie a construit sa connectivité internationale",
+ "publisher": "THD - Tunisie Haut Debit",
+ "published": "2026-01-06",
+ "date_source": "source",
+ "why_not": ""
+}

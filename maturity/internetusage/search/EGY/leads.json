@@ -1,0 +1,8 @@
+[
+{"url":"https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=EG","title":"Individuals using the Internet (% of population) - Egypt, Arab Rep.","publisher":"World Bank (ITU World Telecommunication/ICT Indicators Database)","published":"","sub_indicator":"use","why":"ITU series for Egypt to 2024, about 75 per cent"},
+{"url":"https://www.theglobaleconomy.com/Egypt/Internet_users/","title":"Egypt Internet users - data, chart","publisher":"TheGlobalEconomy.com (World Bank data)","published":"","sub_indicator":"use","why":"74.65 per cent in 2024"},
+{"url":"https://worldsignalsmonitor.com/series/egypt-series-06709ce7ea5eb4697b526454a6a63049/","title":"Internet use in Egypt, Arab Rep.","publisher":"World Signal Monitor (World Bank WDI)","published":"2026-10-11","sub_indicator":"use","why":"2024 value 74.65 per cent with source notes (ITU estimate, MCIT)"},
+{"url":"https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ICT_MDD-2025-3-PDF-E.pdf","title":"Measuring digital development: Facts and Figures 2025","publisher":"International Telecommunication Union","published":"2025","sub_indicator":"use","why":"ITU 2025 estimates; Arab States 70 per cent"},
+{"url":"https://datareportal.com/reports/digital-2026-egypt","title":"Digital 2026: Egypt","publisher":"DataReportal (Kepios)","published":"2025-11-08","sub_indicator":"use","why":"82.7 per cent in October 2025, market estimate"},
+{"url":"https://data.un.org/Data.aspx?d=ITU&f=ind1Code%3AI99H%3BcountryCode%3AEGY","title":"UNdata: Percentage of individuals using the internet - Egypt","publisher":"UNdata (ITU)","published":"","sub_indicator":"use","why":"ITU series to 2022"}
+]

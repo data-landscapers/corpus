@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes;access",
+ "fact": "LesEco.ma reported on 18 December 2025 that the Medusa cable landed at Nador and that, of twelve fibre pairs usable in this phase, two are allocated to inwi and Orange Maroc and the rest are for new entrants, at an open-access landing station.",
+ "title": "Connectivité : Medusa, le câble qui redessine la carte numérique du Maroc",
+ "publisher": "LesEco.ma",
+ "published": "2025-12-18",
+ "date_source": "source",
+ "why_not": ""
+}

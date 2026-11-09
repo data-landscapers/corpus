@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Eswatini's regulator ruled on 1 June 2026 that all internet connectivity entering Eswatini must be routed through the national backbone operated by EPTC, after Jenny Internet built its own cross-border fibre link at the Malutha Border Post.",
+ "title": "Notice 5/2026: EPTC and Jenny Eswatini Decision on Self-Provisioning",
+ "publisher": "Eswatini Communications Commission",
+ "published": "2026-06-01",
+ "date_source": "source",
+ "why_not": ""
+}

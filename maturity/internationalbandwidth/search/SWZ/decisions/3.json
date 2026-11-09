@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "EPTC's incoming international bandwidth reached 67.150 Gbps in 2024 per ESCCOM statistics.",
+ "title": "Eswatini's International Bandwidth Reaches 67.150 Gbps in 2024",
+ "publisher": "Africa Bandwidth Maps",
+ "published": "2025-09-29",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "The World Bank appraisal of 9 March 2023 states Madagascar has three international submarine cables in use and three geographically dispersed landing stations, with a fourth planned.",
+ "title": "Project Appraisal Document: Digital and Energy Connectivity for Inclusion in Madagascar Project (PAD5105)",
+ "publisher": "World Bank Group",
+ "published": "2023-03-09",
+ "date_source": "source",
+ "why_not": ""
+}

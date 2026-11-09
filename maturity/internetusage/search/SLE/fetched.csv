@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://fred.stlouisfed.org/series/ITNETUSERP2SLE,unfetchable,ConnectionError; Wayback ConnectionError,,0,,
+2,https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=SL,not-a-document,World Bank indicator widget,,0,,
+3,https://takip.dev/country/sierra-leone/internet-users,fetched,,scripts/.workroot/study/internetusage/cache/SLE/3.txt,478,html,Internet users in Sierra Leone since 1990
+4,https://worldsignalsmonitor.com/series/sierra-leone-series-c679f4f4279da6e6c540b68483b6f2b8/,fetched,,scripts/.workroot/study/internetusage/cache/SLE/4.txt,544,html,Internet use in Sierra Leone · World Signal Monitor
+5,https://www.uncdf.org/Download/AdminFileWithFilename?cultureId=127&filename=national-digital-and-financial-literacy-survey-sierra-leonerevisedpdf&id=21521,fetched,,scripts/.workroot/study/internetusage/cache/SLE/5.txt,33744,pdf,
+6,https://microdata.worldbank.org/catalog/7973,fetched,,scripts/.workroot/study/internetusage/cache/SLE/6.txt,1658,html,The Global Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy
+7,https://datareportal.com/reports/digital-2025-sierra-leone,held,held as raw/2025/2025-03-03 Digital 2025 Sierra Leone (DataReportal).md,,0,,
+8,https://www.statistics.sl/images/StatisticsSL/Documents/DHS2018/SIERRA_LEONE_2019_DHS_REPORT.pdf,fetched,,scripts/.workroot/study/internetusage/cache/SLE/8.txt,308194,pdf,

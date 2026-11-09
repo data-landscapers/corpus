@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "users",
+ "fact": "The Daily News reported on 7 November 2025 that TCRA's July-September 2025 report gives 56,322,287 internet subscriptions at September 2025, a national internet penetration of 82.6 per cent, above the government's 80 per cent goal.",
+ "title": "TZ internet users utilises only 15 pc of available capacity",
+ "publisher": "Daily News",
+ "published": "2025-11-07",
+ "date_source": "source",
+ "why_not": ""
+}

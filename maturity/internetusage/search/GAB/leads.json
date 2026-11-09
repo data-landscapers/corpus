@@ -1,0 +1,10 @@
+[
+{"url":"https://gaboneco.ga/en/donnees/data-stories/connectivite-numerique-en-chiffres","title":"Digital connectivity in figures","publisher":"Gabon Eco","published":"2026-09-22","sub_indicator":"use","why":"Q1-Q2: internet users 68.7% of population in 2024, World Bank/ITU series"},
+{"url":"https://mplus.africa/gabon-le-taux-de-penetration-des-abonnements/","title":"Gabon : le taux de pénétration des abonnements Internet dépasse les 127 %","publisher":"Mplus Africa","published":"2026-10-31","sub_indicator":"use","why":"Q2: population using the internet estimated at 71.9% at end of 2025"},
+{"url":"https://ourworldindata.org/grapher/share-of-individuals-using-the-internet?mapSelect=WB_SA%7EWB_SSA","title":"Share of the population using the Internet, 2025","publisher":"Our World in Data","published":"2026-07-27","sub_indicator":"use","why":"Q1-Q2: ITU series via World Bank, Gabon 69%"},
+{"url":"https://datareportal.com/reports/digital-2026-gabon","title":"Digital 2026: Gabon","publisher":"DataReportal","published":"2025-11-08","sub_indicator":"use","why":"Q2: 71.9% of population using the internet at end of 2025"},
+{"url":"https://gabonmediatime.com/uit-le-gabon-2e-pays-africain-le-plus-connecte-a-internet-en-2025/","title":"UIT : le Gabon, 2e pays africain le plus connecté à Internet en 2025 !","publisher":"Gabonmediatime","published":"2025-11-21","sub_indicator":"use","why":"Q2: ITU 2025 ranking gives Gabon 62% of internet users"},
+{"url":"https://datareportal.com/reports/digital-2025-gabon","title":"Digital 2025: Gabon","publisher":"DataReportal","published":"2025-03-03","sub_indicator":"use","why":"Q2: 71.9% online penetration at the start of 2025"},
+{"url":"https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=GA","title":"Individuals using the Internet (% of population) - Gabon","publisher":"World Bank Data","published":"","sub_indicator":"use","why":"Q1-Q2: ITU series, 2024 value"},
+{"url":"https://datahub.itu.int/data/?e=GAB&i=20375","title":"Data explorer - ITU DataHub","publisher":"ITU","published":"","sub_indicator":"use","why":"Q1-Q2: ITU internet-use indicator for Gabon"}
+]

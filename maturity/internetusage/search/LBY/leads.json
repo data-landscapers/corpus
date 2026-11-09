@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://lana.gov.ly/post.php?id=358517&lang=ar",
+  "title": "الباعور: ليبيا تمتلك جاهزية رقمية مرتفعة ونسبة انتشار الإنترنت تتجاوز 90%",
+  "publisher": "وكالة الأنباء الليبية",
+  "published": "2026-06-01",
+  "sub_indicator": "use",
+  "why": "Q1-3: regulator head says internet penetration over 90%"
+ },
+ {
+  "url": "https://libyaobserver.ly/news/national-survey-reveals-disparities-living-standards-and-services-among-libyan-households",
+  "title": "National survey reveals disparities in living standards and services among Libyan households",
+  "publisher": "The Libya Observer",
+  "published": "2026-08-18",
+  "sub_indicator": "use",
+  "why": "MICS 2024-25: women 15-49 internet use 74%"
+ },
+ {
+  "url": "https://datareportal.com/reports/digital-2025-libya",
+  "title": "Digital 2025: Libya",
+  "publisher": "DataReportal",
+  "published": "2025-03-03",
+  "sub_indicator": "use",
+  "why": "Q1-3: 88.5% (excluded type, check)"
+ },
+ {
+  "url": "https://lana.gov.ly/post.php?id=336761&lang=ar",
+  "title": "ليبيا تتصدر مؤشر تطوير وتنمية تكنولوجيا المعلومات والاتصالات 2025",
+  "publisher": "وكالة الأنباء الليبية",
+  "published": "2025-07-15",
+  "sub_indicator": "use",
+  "why": "Q1-3: individuals' internet use above 80%"
+ },
+ {
+  "url": "https://www.itu.int/itu-d/reports/statistics/2025/10/15/ff25-internet-use/",
+  "title": "Facts and Figures 2025: Internet use",
+  "publisher": "ITU",
+  "published": "2025-10-15",
+  "sub_indicator": "use",
+  "why": "regional/global context"
+ },
+ {
+  "url": "https://infrastructure.statizoid.com/stat/individuals-using-the-internet-percent-of-population/libya/",
+  "title": "Individuals using the Internet (%) in Libya (2024)",
+  "publisher": "Statizoid (ITU data)",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "ITU 2024 82.0%"
+ },
+ {
+  "url": "https://lebeconomy.com/544980/",
+  "title": "لبنان في المرتبة 11 عربياً باستخدام الإنترنت",
+  "publisher": "Leb Economy",
+  "published": "2026-11-05",
+  "sub_indicator": "use",
+  "why": "ITU Libya 81.95%"
+ },
+ {
+  "url": "https://opendata.gia.gov.ly/dashboard/dataset/2025-4444",
+  "title": "انتشار الانترنت 2025",
+  "publisher": "الهيئة العامة للاتصالات والمعلوماتية",
+  "published": "2025",
+  "sub_indicator": "use",
+  "why": "Regulator internet use indicators 2025"
+ }
+]

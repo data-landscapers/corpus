@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://datareportal.com/reports/digital-2026-madagascar",
+  "title": "Digital 2026: Madagascar",
+  "publisher": "DataReportal (Kepios)",
+  "published": "2025-11-08",
+  "sub_indicator": "use",
+  "why": "Q1: 6.71 million users, 20.4% at end 2025"
+ },
+ {
+  "url": "https://datareportal.com/reports/digital-2025-madagascar",
+  "title": "Digital 2025: Madagascar",
+  "publisher": "DataReportal (Kepios)",
+  "published": "2025-03-03",
+  "sub_indicator": "use",
+  "why": "Q1: 6.60 million users, 20.4% January 2025"
+ },
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2025-12/dra_final_report_madagascar_vf_0.pdf",
+  "title": "Madagascar Digital Readiness Assessment",
+  "publisher": "UNDP",
+  "published": "2025-12",
+  "sub_indicator": "use",
+  "why": "Q1: 20.4% of Malagasy use internet in 2025"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/reports/MG/",
+  "title": "Country Report for Madagascar",
+  "publisher": "ISOC Pulse",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1: approx 19% internet users 2024 (ITU)"
+ },
+ {
+  "url": "https://newsmada.com/2025/02/08/internet-madagascar-compte-660-millions-dutilisateurs/",
+  "title": "Internet: Madagascar compte 6,60 millions d'utilisateurs",
+  "publisher": "Newsmada",
+  "published": "2025-02-08",
+  "sub_indicator": "use",
+  "why": "Q1: 6.60M, 20.4%; ARTEC figures"
+ },
+ {
+  "url": "https://sigma.world/news/madagascars-artec-calls-for-lower-internet-prices/",
+  "title": "Madagascar's ARTEC calls for lower internet prices",
+  "publisher": "Sigma",
+  "published": "2025-11-26",
+  "sub_indicator": "use",
+  "why": "Q1: ARTEC 32.57% (2023) vs ITU 20.4%"
+ },
+ {
+  "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=MG",
+  "title": "Individuals using the Internet (% of population) - Madagascar",
+  "publisher": "World Bank / ITU",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1: ITU series to 2024"
+ }
+]

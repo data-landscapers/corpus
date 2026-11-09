@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Mauritius Telecom landed T3 at Baie Jacotet on 24 March 2023 to add to SAFE (2002) and LION (2009), and METISS also connects Mauritius to South Africa.",
+ "title": "Mauritius Telecom Lands T3 Cable in Baie Jacotet, Mauritius",
+ "publisher": "Submarine Networks",
+ "published": "2023-03-28",
+ "date_source": "proxy",
+ "why_not": ""
+}

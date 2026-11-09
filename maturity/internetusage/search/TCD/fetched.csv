@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://data.worldbank.org/indicator/IT.NET.USER.ZS,rejected,rejected 2026-09-19: not-a-document,,0,,
+2,https://pulse.internetsociety.org/en/reports/TD/,fetched,,scripts/.workroot/study/internetusage/cache/TCD/2.txt,386,html,Country Report for Chad | ISOC Pulse
+3,https://observatoire-tic-tchad.org/,fetched,,scripts/.workroot/study/internetusage/cache/TCD/3.txt,847,html,Mesurer la transformation numÃ©rique du Tchad
+4,https://mten.gouv.td/le-ministre-presente-le-secteur-des-telecommunications-et-du-numerique-au-cesce/,fetched,,scripts/.workroot/study/internetusage/cache/TCD/4.txt,619,html,Le ministre présente le secteur des télécommunications et du numérique au CESCE
+5,https://www.ecofinagency.com/news-digital/1607-47722-chad-plans-1-5-billion-digital-investment-by-2030,fetched,,scripts/.workroot/study/internetusage/cache/TCD/5.txt,787,html,Chad Plans $1.5 Billion Digital Investment by 2030
+6,https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_TCD.pdf,fetched,,scripts/.workroot/study/internetusage/cache/TCD/6.txt,684,pdf,
+7,https://microdata.worldbank.org/catalog/7882,fetched,,scripts/.workroot/study/internetusage/cache/TCD/7.txt,1655,html,The Global Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy
+8,https://datareportal.com/reports/digital-2026-chad,held,held as raw/2025/2025-11-08-datareportal-digital-2026-chad.md,,0,,

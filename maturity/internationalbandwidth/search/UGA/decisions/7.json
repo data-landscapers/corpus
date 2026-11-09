@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "The Uganda Communications Commission states that Uganda connects through Mombasa in Kenya and Dar es Salaam in Tanzania, with Seacom and EASSy the primary submarine cables used.",
+ "title": "UCC's role in strengthening affordable and resilient international Connectivity",
+ "publisher": "Uganda Communications Commission (ITU workshop presentation)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

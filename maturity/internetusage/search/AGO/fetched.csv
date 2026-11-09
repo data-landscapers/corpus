@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.itu.int/itu-d/sites/projectumc/wp-content/uploads/sites/42/2025/11/Day-3-Angola.pdf,held,held as raw/2025/2025-11-07-inacom-promocao-e-medicao-da-conectividade-universal-e-significativa-angola.md,,0,,
+2,https://fred.stlouisfed.org/series/ITNETUSERP2AGO,unfetchable,ConnectionError; Wayback ConnectionError,,0,,
+3,https://data.un.org/_Docs/SYB/PDFs/SYB68_314_202511_Internet%20Usage.pdf,fetched,,scripts/.workroot/study/internetusage/cache/AGO/3.txt,4517,pdf,
+4,https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-SDDT_AFR-2025-PDF-E.pdf,fetched,,scripts/.workroot/study/internetusage/cache/AGO/4.txt,15206,pdf,Measuring digital development

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Per the National Communications Authority's official data, four submarine fibre optic cables are used in Somalia: Gulf2Africa, DARE, Peace and EASSy.",
+ "title": "Waxa uu salka ku hayo walaaca laga qabo in Internetka laga jaro Soomaaliya iyo waxa dhici kara",
+ "publisher": "BBC News Somali",
+ "published": "2024-02-07",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "MTN Congo said on 13 February 2026 that it had activated the 2Africa cable at Pointe-Noire, giving the country a second international route after the WACS cable, which had been its only international link since 2012; 2Africa has 180 Tbps nominal capacity against 14.5 Tbps for WACS.",
+ "title": "Congo Expands International Bandwidth with 2Africa Landing",
+ "publisher": "Ecofin Agency",
+ "published": "2026-02-16",
+ "date_source": "source",
+ "why_not": ""
+}

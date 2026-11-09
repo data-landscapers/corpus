@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Landlocked neighbours reach submarine cables through terrestrial links: Mozambique (2Africa, EASSy, SEACOM) and South Africa (ACE, EASSy, Equiano, METISS, SEACOM, SAFE, SAT-3, T3, WACS) both list Eswatini among their cross-border links.",
+ "title": "2024 East Africa Submarine Cable Outage Report",
+ "publisher": "Internet Society",
+ "published": "2024-07-23",
+ "date_source": "source",
+ "why_not": ""
+}

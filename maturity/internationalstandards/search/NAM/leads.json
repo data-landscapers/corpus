@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.iso.org/member/1569.html",
+  "title": "ISO - NSI - Namibian Standards Institution",
+  "publisher": "ISO",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q1/Q4: member body, committee participation"
+ },
+ {
+  "url": "https://www.iso.org/member/1569.html?t=OT&view=participation",
+  "title": "ISO - NSI participation",
+  "publisher": "ISO",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q4: NSI participating in JTC 1/SC 27"
+ },
+ {
+  "url": "https://www.trade.gov/country-commercial-guides/namibia-standards-trade",
+  "title": "Namibia - Standards for Trade",
+  "publisher": "US International Trade Administration",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q1: ISO membership"
+ },
+ {
+  "url": "https://www.nsi.com.na/technical-commitee/",
+  "title": "Technical Committees",
+  "publisher": "Namibian Standards Institution",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q2: international standards used"
+ },
+ {
+  "url": "https://nsi.com.na/resource-centre/",
+  "title": "Resource Centre",
+  "publisher": "Namibian Standards Institution",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q2: ISO/IEC 27001 listed"
+ },
+ {
+  "url": "https://technews.com.na/2026/04/30/namibia-introduces-national-cyber-incident-framework/",
+  "title": "Namibia introduces national cyber incident framework",
+  "publisher": "TechNews Namibia",
+  "published": "2026-04-30",
+  "sub_indicator": "international",
+  "why": "Q3: guidelines aligned to ISO/IEC 27001"
+ },
+ {
+  "url": "https://informante.web.na/?p=393958",
+  "title": "Namibia launches national 2026 Cybersecurity Guidelines",
+  "publisher": "Informanté",
+  "published": "2026-05-03",
+  "sub_indicator": "international",
+  "why": "Q3: guidelines aligned to ISO/IEC 27001"
+ },
+ {
+  "url": "https://economist.com.na/cybersecurity-guidelines-launched-to-create-a-safe-digital-space-for-citizens/",
+  "title": "Cybersecurity guidelines launched",
+  "publisher": "Namibia Economist",
+  "published": "2026-05-05",
+  "sub_indicator": "international",
+  "why": "Q3"
+ }
+]

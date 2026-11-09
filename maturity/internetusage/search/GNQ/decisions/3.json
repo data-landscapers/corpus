@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "use",
+ "aspect": "",
+ "fact": "",
+ "title": "II Encuesta Nacional de Hogares de Guinea Ecuatorial",
+ "publisher": "INEGE",
+ "published": "2024-12",
+ "date_source": "source",
+ "why_not": "off-topic: the household survey report gives no share of people who use the internet"
+}

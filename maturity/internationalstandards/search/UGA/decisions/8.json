@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "international",
+ "aspect": "standing",
+ "fact": "The UNBS Uganda Standards Catalogue as of 31 December 2023 states UNBS is a member of ISO and lists US ISO/IEC 27001:2013 (Information security management systems) as a Uganda Standard.",
+ "title": "Uganda Standards Catalogue as of 31 December 2023",
+ "publisher": "Uganda National Bureau of Standards",
+ "published": "2023-12-31",
+ "date_source": "source",
+ "why_not": "inadmissible-origin: an archive capture whose own URL differs from the publisher address, misfiled at staging"
+}

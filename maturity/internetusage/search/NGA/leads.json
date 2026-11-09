@@ -1,0 +1,10 @@
+[
+{"url":"https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=NG","title":"Individuals using the Internet (% of population) - Nigeria","publisher":"World Bank (ITU data)","published":"","sub_indicator":"use","why":"Q1/Q2: ITU estimate for Nigeria, 2024"},
+{"url":"https://www.visualcapitalist.com/cp/mapped-how-much-of-each-country-is-online/","title":"Mapped: How Much of Each Country Is Online?","publisher":"Visual Capitalist","published":"2026-11-04","sub_indicator":"use","why":"Q1/Q2: ITU share of internet users table incl. Nigeria 41.21%"},
+{"url":"https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ICT_MDD-2025-3-PDF-E.pdf","title":"Measuring digital development: Facts and Figures 2025","publisher":"ITU","published":"2025","sub_indicator":"use","why":"Q1-Q4: ITU internet use estimates, Africa 36%"},
+{"url":"https://infrastructure.statizoid.com/stat/individuals-using-the-internet-percent-of-population/nigeria/","title":"Individuals using the Internet (%) in Nigeria (2024)","publisher":"Statizoid (ITU data)","published":"","sub_indicator":"use","why":"Q1/Q2: 41.2% in 2024"},
+{"url":"https://microdata.worldbank.org/catalog/7957/variable/F1/V161?name=con24","title":"Nigeria - The Global Findex Database 2025","publisher":"World Bank","published":"2025","sub_indicator":"use","why":"Q1/Q2: survey question on internet use in the past seven days, 2024"},
+{"url":"https://microdata.nigerianstat.gov.ng/index.php/catalog/178/variable/F4/V289?name=ed13","title":"Nigeria Time Use Survey 2024","publisher":"National Bureau of Statistics","published":"","sub_indicator":"use","why":"Q2: survey question on internet access, 2024-2025"},
+{"url":"https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_NGA.pdf","title":"Digital Development Dashboard: Nigeria","publisher":"ITU","published":"","sub_indicator":"use","why":"Q1/Q2: ITU estimate 35% for 2022 (stale)"},
+{"url":"https://countrydatahub.com/countries/nigeria/individuals-using-the-internet-of-population","title":"Nigeria: Individuals using the Internet (% of population)","publisher":"CountryDataHub (World Bank data)","published":"","sub_indicator":"use","why":"Q1/Q2: 41.21% in 2024"}
+]

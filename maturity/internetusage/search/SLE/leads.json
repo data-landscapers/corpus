@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://fred.stlouisfed.org/series/ITNETUSERP2SLE",
+  "title": "Internet users for Sierra Leone (ITNETUSERP2SLE)",
+  "publisher": "FRED / World Bank",
+  "published": "2026-04-14",
+  "sub_indicator": "use",
+  "why": "Q1-Q2: 25.1 per cent in 2024 (ITU estimate)"
+ },
+ {
+  "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=SL",
+  "title": "Individuals using the Internet (% of population) - Sierra Leone",
+  "publisher": "World Bank",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1: ITU series to 2024"
+ },
+ {
+  "url": "https://takip.dev/country/sierra-leone/internet-users",
+  "title": "Internet users in Sierra Leone since 1990",
+  "publisher": "TAKIP",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1: 25.1 per cent 2024 by ITU estimates"
+ },
+ {
+  "url": "https://worldsignalsmonitor.com/series/sierra-leone-series-c679f4f4279da6e6c540b68483b6f2b8/",
+  "title": "Internet use in Sierra Leone",
+  "publisher": "World Signal Monitor",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1: 25.10 per cent 2024"
+ },
+ {
+  "url": "https://www.uncdf.org/Download/AdminFileWithFilename?cultureId=127&filename=national-digital-and-financial-literacy-survey-sierra-leonerevisedpdf&id=21521",
+  "title": "Sierra Leone National Digital and Financial Literacy Baseline Survey",
+  "publisher": "UNCDF",
+  "published": "2025-03",
+  "sub_indicator": "use",
+  "why": "Q1: survey, adults only"
+ },
+ {
+  "url": "https://microdata.worldbank.org/catalog/7973",
+  "title": "The Global Findex Database 2025, Sierra Leone",
+  "publisher": "World Bank",
+  "published": "2025-10",
+  "sub_indicator": "use",
+  "why": "Q1: 2024 survey, adults"
+ },
+ {
+  "url": "https://datareportal.com/reports/digital-2025-sierra-leone",
+  "title": "Digital 2025: Sierra Leone",
+  "publisher": "DataReportal",
+  "published": "2025-03-03",
+  "sub_indicator": "use",
+  "why": "Q1: 20.7 per cent January 2025"
+ },
+ {
+  "url": "https://www.statistics.sl/images/StatisticsSL/Documents/DHS2018/SIERRA_LEONE_2019_DHS_REPORT.pdf",
+  "title": "Sierra Leone Demographic and Health Survey 2019",
+  "publisher": "Statistics Sierra Leone",
+  "published": "2019",
+  "sub_indicator": "use",
+  "why": "Q1: 20.5 per cent using internet, 2019 survey"
+ }
+]

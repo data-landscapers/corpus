@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "users",
+ "fact": "DataReportal states 786 thousand individuals used the internet in Djibouti at the end of 2026, online penetration of 65.3 percent of the population.",
+ "title": "Digital 2027: Djibouti",
+ "publisher": "DataReportal",
+ "published": "2026-11-05",
+ "date_source": "source",
+ "why_not": ""
+}

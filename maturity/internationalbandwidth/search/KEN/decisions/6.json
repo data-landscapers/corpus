@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Telkom Kenya lists TEAMS (ready for service 1 October 2009), EASSy (July 2010), LION2 and DARE1 (ready for service 2021) as cables it hosts or lands at Mombasa, with Telkom hosting the TEAMS, EASSy, LION2 and PEACE landing stations.",
+ "title": "Submarine Cable",
+ "publisher": "Telkom Kenya",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "undated: the page carries no date of its own, so the fact cannot be dated"
+}

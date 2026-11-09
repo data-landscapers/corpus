@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Fly Lion 3 reached Moroni at Itsandra beach as a backup cable to EASSy, so that a cut of EASSy no longer leaves the country disconnected.",
+ "title": "Télécommunications / Le câble international Fly Lion 3 atterrit à Moroni",
+ "publisher": "La Gazette des Comores",
+ "published": "2019",
+ "date_source": "proxy",
+ "why_not": ""
+}

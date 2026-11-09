@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Telkom and the PEACE Cable company landed the PEACE cable (192 Tbps total capacity) in Mombasa on 29 March 2022, the sixth submarine cable to terminate in Kenya after DARE1, SEACOM, TEAMS, EASSy and LION2.",
+ "title": "Telkom and PEACE Cable Company land new submarine cable in Kenya",
+ "publisher": "Telkom Kenya",
+ "published": "2022-03-29",
+ "date_source": "source",
+ "why_not": ""
+}

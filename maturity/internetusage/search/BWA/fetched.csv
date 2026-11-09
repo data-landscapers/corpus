@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.statsbots.org.bw/sites/default/files/publications/Botswana%20Household%20Access%20and%20Individual%20Use%20of%20ICT%27s%20Stats%20Brief%202024.pdf,held,held as raw/2025/2025-08-01-botswana-ict-household-survey-2024.md,,0,,
+2,http://statsbots.org.bw/sites/default/files/documents/Botswana%20Household%20Access%20and%20Individual%20Use%20of%20ICT%27s%202024.pdf,fetched,,scripts/.workroot/study/internetusage/cache/BWA/2.txt,1579,pdf,2024 ICT Survey Summary Results – Key Findings Final
+3,https://www.statsbots.org.bw/sites/default/files/press-releases/Press%20Release-Statistics%20Botswana%202024%20ICT%20Household%20Survey%20Results.pdf,fetched,,scripts/.workroot/study/internetusage/cache/BWA/3.txt,435,pdf,
+4,https://www.itu.int/itu-d/meetings/wp-content/uploads/IPS/documents/46/10_EGH2026_DataCollectionBotswana_TebogoTsienyane.pdf,held,held as raw/2026/2026-09-09-bwa-itu-statsbots-ict-data-collection.md,,0,,
+5,https://datareportal.com/reports/digital-2027-botswana,held,held as raw/2026/2026-11-05-bwa-digital-2027-botswana.md,,0,,
+6,https://datareportal.com/reports/digital-2026-botswana,fetched,,scripts/.workroot/study/internetusage/cache/BWA/6.txt,4610,html,Digital 2026: Botswana — DataReportal – Global Digital Insights
+7,https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ICT_MDD-2025-1-PDF-E.pdf,fetched,,scripts/.workroot/study/internetusage/cache/BWA/7.txt,16650,pdf,The ICT Development Index 2025
+8,https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BW,not-a-document,World Bank indicator widget,,0,,

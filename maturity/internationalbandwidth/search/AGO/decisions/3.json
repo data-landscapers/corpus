@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "The 2Africa cable entered operation in Angola in July 2025 and lands at Cacuaco, Luanda, with a landing station built by Unitel and projected capacity of up to 180 Tbps.",
+ "title": "UNITEL E O CABO SUBMARINO 2AFRICA",
+ "publisher": "AAI - Associação Angolana de Internet",
+ "published": "2025-12-22",
+ "date_source": "source",
+ "why_not": ""
+}

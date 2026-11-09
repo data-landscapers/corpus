@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "users",
+ "fact": "The INT Baromètre du numérique 2026, a face-to-face survey of 5,077 people aged 10 to 70 run 15 May to 10 June 2026, found 85.9 per cent used the internet, up 10.9 per cent on 2023.",
+ "title": "Environ 86% des Tunisiens utilisent Internet et près de 70% des connexions se font le soir à partir de 18h",
+ "publisher": "THD - Tunisie Haut Debit",
+ "published": "2026-09-24",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://lca.org.ls/wp-content/uploads/filr/4003/The-state-of-ICT-in-Lesotho-2023.pdf,held,held as raw/2024/2024-01-01-lso-the-state-of-ict-in-lesotho-2023.md,,0,,
+2,https://lca.org.ls/wp-content/uploads/filr/4278/Annual-Report-2024-25-2-1.pdf,held,held as raw/2026/2026-02-25-lca-annual-report-2024-25.md,,0,,
+3,https://lca.org.ls/wp-content/uploads/filr/4005/COMPARATIVE-HOUSEHOLD-RESULTS-2016_2023.pdf,held,held as raw/2025/2025-01-01-lca-ict-access-use-households-comparative-2016-2023.md,,0,,
+4,https://pulse.internetsociety.org/en/reports/LS/,fetched,,scripts/.workroot/study/internetusage/cache/LSO/4.txt,407,html,Country Report for Lesotho | ISOC Pulse
+5,https://datareportal.com/reports/digital-2025-lesotho,fetched,,scripts/.workroot/study/internetusage/cache/LSO/5.txt,3879,html,Digital 2025: Lesotho — DataReportal – Global Digital Insights
+6,https://paradigmhq.org/wp-content/uploads/2025/09/Londa-24-Lesotho.pdf,held,held as raw/2025/2025-09-01-lso-paradigm-londa-2024-lesotho.md,,0,,
+7,https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ICT_MDD-2025-3-PDF-E.pdf,fetched,,scripts/.workroot/study/internetusage/cache/LSO/7.txt,9422,pdf,Measuring digital development
+8,https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=LS,not-a-document,World Bank indicator widget,,0,,

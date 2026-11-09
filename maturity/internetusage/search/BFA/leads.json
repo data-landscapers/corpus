@@ -1,0 +1,8 @@
+[
+{"url":"https://www.ecofinagency.com/news-digital/1407-57372-burkina-faso-to-extend-telecom-access-to-1-5-2-million-people","title":"Burkina Faso to Extend Telecom Access to 1.5-2 Million People","publisher":"Ecofin Agency","published":"2026-07-14","sub_indicator":"use","why":"Q1: ITU estimate of internet use 28.3% of population for 2024"},
+{"url":"https://www.ceicdata.com/en/burkina-faso/telecommunication/bf-internet-users-individuals--of-population","title":"Burkina Faso BF: Internet Users: Individuals: % of Population","publisher":"CEIC","published":"2026-04-12","sub_indicator":"use","why":"Q1/Q2: 28.253% in 2024, ITU series via World Bank"},
+{"url":"https://fred.stlouisfed.org/series/ITNETUSERP2BFA","title":"Internet users for Burkina Faso (ITNETUSERP2BFA)","publisher":"FRED, Federal Reserve Bank of St. Louis","published":"2026-04-14","sub_indicator":"use","why":"Q1/Q2: 28.25 per 100 people in 2024, World Bank WDI/ITU"},
+{"url":"https://pulse.internetsociety.org/en/reports/BF/","title":"Country Report for Burkina Faso","publisher":"ISOC Pulse","published":"2026","sub_indicator":"use","why":"Q1/Q2: 28% of population used internet in 2024"},
+{"url":"https://data.worldbank.org/country/burkina-faso","title":"Burkina Faso | Data","publisher":"World Bank","published":"","sub_indicator":"use","why":"Q1: individuals using internet 28% in 2024"},
+{"url":"https://www.insd.bf/sites/default/files/2024-11/Burkina%20Faso%202021%20DHS%20Final%20Report%2009072024.pdf","title":"Enquête Démographique et de Santé 2021, Burkina Faso","publisher":"INSD et ICF","published":"2023-08","sub_indicator":"use","why":"Q1/Q2: national survey, proportion of individuals using the internet 27.3% (SDG 17.8.1)"}
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://datareportal.com/reports/digital-2026-ghana",
+  "title": "Digital 2026: Ghana",
+  "publisher": "DataReportal",
+  "published": "2025-11-08",
+  "sub_indicator": "use",
+  "why": "Q1-3: 74.6 percent online, Oct 2025"
+ },
+ {
+  "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=GH",
+  "title": "Individuals using the Internet (% of population) - Ghana",
+  "publisher": "World Bank / ITU",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1-3: ITU figure for 2024"
+ },
+ {
+  "url": "https://countrydatahub.com/countries/ghana/individuals-using-the-internet-of-population",
+  "title": "Ghana: Individuals using the Internet (% of population)",
+  "publisher": "CountryDataHub",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1-3: 72.18 percent in 2024"
+ },
+ {
+  "url": "https://www.ghnow.com/revealed-ghana-has-26-3-million-internet-users-at-the-end-of-2025/",
+  "title": "Revealed - Ghana has 26.3 million internet users at the end of 2025",
+  "publisher": "GHnow",
+  "published": "2026-03-09",
+  "sub_indicator": "use",
+  "why": "Q1-3: 74.6 percent"
+ }
+]

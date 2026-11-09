@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: the ISO participation page is undated and lists committee seats (JTC 1/SC 37 and SC 42) without a date, so it cannot show participation in the last three years."
+}

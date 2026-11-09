@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "The April 2025 IMT catalogue states IMT operates an international gateway made of the ACE submarine cable landing point at the Nouakchott terminal station, and sells capacity on ACE to operators.",
+ "title": "Catalogue Global des Services 2025-2026",
+ "publisher": "International Mauritania Telecom (IMT)",
+ "published": "2025-04",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.iso.org/member/2084.html",
+  "title": "ISO - SBS - Seychelles Bureau of Standards",
+  "publisher": "ISO",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q1: correspondent member"
+ },
+ {
+  "url": "https://jeanlucrotolo.com/sbs/world-standards-day-2021/",
+  "title": "World Standards Day 2021",
+  "publisher": "Seychelles Bureau of Standards",
+  "published": "2021-10-14",
+  "sub_indicator": "international",
+  "why": "Q1: ISO correspondent, IEC affiliate"
+ },
+ {
+  "url": "https://www.lloydsbanktrade.com/en/market-potential/seychelles/standards",
+  "title": "Industrial and commercial standards in the Seychelles",
+  "publisher": "International Trade Portal",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q1: SBS membership"
+ },
+ {
+  "url": "https://nation.sc/articles/17859/dict-first-government-institution-to-become-iso-certified",
+  "title": "DICT first government institution to become ISO certified",
+  "publisher": "Seychelles Nation",
+  "published": "2023-05-18",
+  "sub_indicator": "international",
+  "why": "Q3: government ISO 27001 context"
+ },
+ {
+  "url": "https://www.ict.gov.sc/documents/Policies/National%20Cybersecurity%20Strategy%20-%202019-2024.pdf",
+  "title": "National Cybersecurity Strategy 2019-2024",
+  "publisher": "DICT Seychelles",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q3: ISO 27001 in MDAs"
+ },
+ {
+  "url": "https://www.iso.org/about/members",
+  "title": "ISO - Members",
+  "publisher": "ISO",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q1/Q4: TC participation"
+ },
+ {
+  "url": "https://www.nationalassembly.sc/sites/default/files/2024-09/SI%2071%202024%20-%20Virtual%20Asset%20Service%20Provider%20%28Cyber%20Security%20Requirements%29%20Regulations%202024.pdf",
+  "title": "SI 71 of 2024 VASP (Cyber Security Requirements) Regulations 2024",
+  "publisher": "National Assembly of Seychelles",
+  "published": "2024-09-06",
+  "sub_indicator": "international",
+  "why": "Q3 check: sector rule"
+ },
+ {
+  "url": "https://jeanlucrotolo.com/sbs/standards-catalogue/",
+  "title": "Standards Catalogue",
+  "publisher": "Seychelles Bureau of Standards",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q2: adopted standards catalogue"
+ }
+]

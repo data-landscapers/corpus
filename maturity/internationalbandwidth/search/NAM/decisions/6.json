@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "WACS, landing at Swakopmund, was in service in June 2025, when maintenance on a faulty branching unit near Swakopmund caused severe service delays for Namibian providers.",
+ "title": "Telecom Namibia works on network optimisation",
+ "publisher": "New Era",
+ "published": "2025-06-30",
+ "date_source": "source",
+ "why_not": ""
+}

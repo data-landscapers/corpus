@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.iso.org/member/1971.html",
+  "title": "ISO - BNM - Bureau de Normes de Madagascar",
+  "publisher": "ISO",
+  "published": "",
+  "sub_indicator": "standing",
+  "why": "Q1: BNM correspondent member of ISO"
+ },
+ {
+  "url": "https://www.bnm.mg/participation-de-madagascar-a-la-reunion-annuelle-2024-de-liso-a-carthagene-des-indes-colombie/",
+  "title": "Participation de Madagascar à la réunion annuelle 2024 de l'ISO",
+  "publisher": "Bureau des Normes de Madagascar",
+  "published": "2024-09-20",
+  "sub_indicator": "standing",
+  "why": "Q1: BNM correspondent member"
+ },
+ {
+  "url": "https://www.bnm.mg/la-journee-mondiale-de-la-normalisation-2024-une-vision-commune-pour-un-monde-meilleur/",
+  "title": "La Journée mondiale de la normalisation 2024",
+  "publisher": "Bureau des Normes de Madagascar",
+  "published": "2024-10-15",
+  "sub_indicator": "standing",
+  "why": "Q1: BNM represents Madagascar at ISO and IEC"
+ },
+ {
+  "url": "https://www.bnm.mg/nec-madagascar/",
+  "title": "NEC Madagascar",
+  "publisher": "Bureau des Normes de Madagascar",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1,Q4: IEC affiliate, mirror committee, 50+ IEC standards adopted"
+ },
+ {
+  "url": "https://www.bnm.mg/differents-activites/",
+  "title": "Missions et activités",
+  "publisher": "Bureau des Normes de Madagascar",
+  "published": "",
+  "sub_indicator": "standing",
+  "why": "Q1: affiliations to ISO and IEC"
+ },
+ {
+  "url": "https://www.certim.mg/fr/node/129",
+  "title": "Audit obligatoire et périodique de cybersécurité des institutions financières",
+  "publisher": "CERTIM",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q3: draft decree audit against ISO/IEC 27001"
+ },
+ {
+  "url": "https://digital.gov.mg/wp-content/uploads/2022/05/UGD-Cadre-dinterop%C3%A9rabilit%C3%A9V1.0.2.pdf",
+  "title": "Cadre d'interopérabilité V1.0.2",
+  "publisher": "Unité de Gouvernance Digitale",
+  "published": "2022-05",
+  "sub_indicator": "use",
+  "why": "Q3: interoperability framework binding on public administration"
+ },
+ {
+  "url": "https://www.ramarolahysafidy.com/iso-simplement/qui-ecrit-les-normes-que-afrique-applique",
+  "title": "Qui écrit les normes que l'Afrique applique ?",
+  "publisher": "RAMAROLAHY Safidy",
+  "published": "2026-09-29",
+  "sub_indicator": "standing",
+  "why": "Q1,Q4: BNM correspondent member, 5 TC participations"
+ }
+]

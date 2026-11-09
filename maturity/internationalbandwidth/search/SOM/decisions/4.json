@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Somalia's international connectivity is provided by submarine cable landings in Mogadishu and Bosaso and terrestrial links to Djibouti, with microwave links to Kenya.",
+ "title": "Missing Broadband Links in the Horn of Africa Region",
+ "publisher": "World Bank Group",
+ "published": "2021",
+ "date_source": "source",
+ "why_not": ""
+}

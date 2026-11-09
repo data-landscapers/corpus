@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Cameroon is connected with five international submarine cable systems in service (SAIL, WACS, SAT-3/WASC, NCSCS, Ceiba-2), with landing points at Kribi among others.",
+ "title": "Cameroon Plans to Participate in Medusa Africa Submarine Cable",
+ "publisher": "Submarine Networks",
+ "published": "2026-01-05",
+ "date_source": "source",
+ "why_not": ""
+}

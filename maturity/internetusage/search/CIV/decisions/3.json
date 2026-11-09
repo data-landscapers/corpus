@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "users",
+ "fact": "Kepios's analysis put 13.4 million individuals, 40.7 percent of the population, as using the internet in Côte d'Ivoire in October 2025.",
+ "title": "Digital 2026: Côte d'Ivoire",
+ "publisher": "DataReportal",
+ "published": "2025-11-08",
+ "date_source": "source",
+ "why_not": ""
+}

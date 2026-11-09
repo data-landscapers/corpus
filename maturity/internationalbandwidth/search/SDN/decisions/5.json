@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "In March 2024 Sudan had terrestrial fibre links to Ethiopia, Egypt, South Sudan and Chad and submarine cable links via Port Sudan.",
+ "title": "Chad's Recent Outages Highlight Resiliency Gaps",
+ "publisher": "Internet Society Pulse",
+ "published": "2024-03-12",
+ "date_source": "source",
+ "why_not": ""
+}

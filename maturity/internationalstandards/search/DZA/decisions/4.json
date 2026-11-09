@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "international",
+ "aspect": "standing",
+ "fact": "IANOR's catalogue of Algerian standards as at 31 December 2023 lists NA ISO/CEI 27001 (2017) and NA ISO/CEI 27002 (2016) on information security, each adopted from the ISO/CEI standard of 2013.",
+ "title": "CTN 59 « Systèmes de management » (Catalogue des normes algériennes au 31 décembre 2023)",
+ "publisher": "IANOR",
+ "published": "2023-12-31",
+ "date_source": "source",
+ "why_not": ""
+}

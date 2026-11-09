@@ -1,0 +1,7 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=EG,not-a-document,World Bank indicator widget,,0,,
+2,https://www.theglobaleconomy.com/Egypt/Internet_users/,fetched,,scripts/.workroot/study/internetusage/cache/EGY/2.txt,537,html,"Egypt Internet users - data, chart | TheGlobalEconomy.com"
+3,https://worldsignalsmonitor.com/series/egypt-series-06709ce7ea5eb4697b526454a6a63049/,fetched,,scripts/.workroot/study/internetusage/cache/EGY/3.txt,664,html,"Internet use in Egypt, Arab Rep. · World Signal Monitor"
+4,https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ICT_MDD-2025-3-PDF-E.pdf,fetched,,scripts/.workroot/study/internetusage/cache/EGY/4.txt,9422,pdf,Measuring digital development
+5,https://datareportal.com/reports/digital-2026-egypt,held,held as raw/2025/2025-11-08-digital-2026-egypt-datareportal.md,,0,,
+6,https://data.un.org/Data.aspx?d=ITU&f=ind1Code%3AI99H%3BcountryCode%3AEGY,fetched,,scripts/.workroot/study/internetusage/cache/EGY/6.txt,895,html,World Telecommunication/ICT Indicators Database

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Paratus Group announced on 9 February 2026 the commissioning of the 2,000 km Goma-to-Mombasa terrestrial fibre backbone linking the DRC to Kenya via Rwanda and Uganda, for wholesale customers.",
+ "title": "Fibre optique : Paratus Group active un corridor de 2 000 km entre Goma et Mombasa",
+ "publisher": "La Tribune Afrique",
+ "published": "2026-02-11",
+ "date_source": "source",
+ "why_not": ""
+}

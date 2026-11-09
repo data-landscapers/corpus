@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Rwanda has no submarine cable and is linked by terrestrial cross-border fibre to Burundi, the DR Congo, Tanzania and Uganda, as at the 2024 outage report.",
+ "title": "2024 East Africa Submarine Cable Outage Report",
+ "publisher": "Internet Society",
+ "published": "2024-07-23",
+ "date_source": "source",
+ "why_not": ""
+}

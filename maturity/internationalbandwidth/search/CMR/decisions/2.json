@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Camtel's transport network is fed by four submarine cable outlets at three landing stations: WACS at Batoke (Limbe), SAT3 at Douala, and NCSCS, SAIL and Ceiba 2 at Kribi.",
+ "title": "Interconnection, access and infrastructure-sharing catalogue for transport services: offering for public electronic communications network concession operators",
+ "publisher": "CAMTEL",
+ "published": "2023-06-20",
+ "date_source": "source",
+ "why_not": ""
+}

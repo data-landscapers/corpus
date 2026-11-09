@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "users",
+ "fact": "DataReportal states there were 51.7 million individuals using the internet in South Africa in October 2025, an online penetration of 79.6 percent of the total population.",
+ "title": "Digital 2026: South Africa",
+ "publisher": "DataReportal",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "use",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: ISOC Pulse aggregator repeating the ITU figure, no own document date"
+}

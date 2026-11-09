@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "WIOCC landed Google's 144Tbps Equiano cable directly into OADC's Lagos data centre in early 2022, with capacity to be operational from March-April 2023.",
+ "title": "Bridging connectivity gaps via wholesale offering",
+ "publisher": "WIOCC",
+ "published": "2023-03-06",
+ "date_source": "source",
+ "why_not": ""
+}

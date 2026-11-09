@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "access",
+ "fact": "Algérie Télécom's interconnection catalogue for 31 October 2020 to 30 October 2021, approved by the ARPCE, offers operators international links and internet bandwidth (10 Gbps and 100 Gbps) at published tariffs.",
+ "title": "Catalogue d'interconnexion d'Algérie Télécom 2020-2021",
+ "publisher": "Algérie Télécom (ARPCE)",
+ "published": "2020-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

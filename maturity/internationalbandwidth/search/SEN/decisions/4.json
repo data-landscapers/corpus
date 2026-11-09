@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes;access",
+ "fact": "Sonatel states on 20 February 2026 that 2Africa, put into service in December 2025 with a nominal capacity of 180 Tbit/s, lands at a Sonatel-owned landing station in Senegal and runs on an open-access model with carrier-neutral landing stations accessible to all operators.",
+ "title": "Sonatel annonce la mise en service du Câble sous - marin 2Africa, le plus performant jamais déployé en Afrique.",
+ "publisher": "Groupe Sonatel",
+ "published": "2026-02-20",
+ "date_source": "source",
+ "why_not": ""
+}

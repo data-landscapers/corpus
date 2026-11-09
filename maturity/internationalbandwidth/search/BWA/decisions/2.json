@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Landlocked Botswana's access to international bandwidth runs via Namibia's WACS landing station in Swakopmund, over the Trans-Kalahari Fibre and Botswana Kalahari Fibre routes that connect Johannesburg and Gaborone to Namibian cable landing points.",
+ "title": "Botswana, Namibia sign regional ICT agreement",
+ "publisher": "ITWeb Africa",
+ "published": "2026-08-06",
+ "date_source": "source",
+ "why_not": ""
+}

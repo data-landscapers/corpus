@@ -1,0 +1,5 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.balai.cv/noticias/utilizacao-da-internet-em-cabo-verde-sobe-ligeiramente-para-773-em-2025-revelam-dados-do-ine/,fetched,,scripts/.workroot/study/internetusage/cache/CPV/1.txt,517,html,"Utilização da internet em Cabo Verde sobe ligeiramente para 77,3% em 2025, revelam dados do INE - Balai"
+2,https://www.governo.cv/wp-content/uploads/2026/04/economiadigital.pdf,held,held as raw/2026/2026-04-01-cabo-verde-governo-em-acao-economia-digital.md,,0,,
+3,https://ine.cv/publicacoes/estatisticas-das-tecnologias-de-informacao-e-comunicacao-2024/,unfetchable,empty extraction; Wayback ConnectionError,,0,,
+4,https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=CV,not-a-document,World Bank indicator widget,,0,,

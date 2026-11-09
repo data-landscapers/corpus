@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://thecalabashnewspaper.com/archives/8873",
+  "title": "Sierra Leone – Guinea Fiber Optic Cables Interconnected at Gbalamuya",
+  "publisher": "The Calabash Newspaper",
+  "published": "2020-03-02",
+  "sub_indicator": "routes",
+  "why": "Q1-Q2: land fibre link to Guinea connected as backup to ACE"
+ },
+ {
+  "url": "https://developingtelecoms.com/telecom-business/200-buddecom-market-reports/10138-sierra-leone-s-fibre-link-to-guinea-is-completed.html",
+  "title": "Sierra Leone's fibre link to Guinea is completed",
+  "publisher": "Developing Telecoms",
+  "published": "2020-10-16",
+  "sub_indicator": "routes",
+  "why": "Q1-Q2: cable link to Guinea completed Feb 2020"
+ },
+ {
+  "url": "https://pulse.internetsociety.org/en/news/2024/09/guinea-sierra-leone-advance-fiber-optic-interconnection-project/",
+  "title": "Guinea, Sierra Leone Advance Fiber Optic Interconnection Project",
+  "publisher": "ISOC Pulse",
+  "published": "2024-09-03",
+  "sub_indicator": "routes",
+  "why": "Q2-Q3: interconnection project, Guinea relies on one cable"
+ },
+ {
+  "url": "https://www.telecompaper.com/news/sierra-leone-visits-guinea-to-explore-second-submarine-fibre-cable--1542130",
+  "title": "Sierra Leone visits Guinea to explore second submarine fibre cable",
+  "publisher": "Telecompaper",
+  "published": "2025-07-14",
+  "sub_indicator": "routes",
+  "why": "Q2: second cable landing only being explored"
+ },
+ {
+  "url": "https://www.forbesafrica.com/africa-undiscovered/2025/04/11/bridging-connectivity-and-opportunity-for-sierra-leones-communities",
+  "title": "Bridging Connectivity and Opportunity for Sierra Leone's Communities",
+  "publisher": "Forbes Africa",
+  "published": "2025-04-11",
+  "sub_indicator": "routes",
+  "why": "Q1,Q4: country's only landing station, licensed for wholesale to MNOs and ISPs"
+ },
+ {
+  "url": "https://csquared.com/csquared-adds-2africa-west-capacity-to-strengthen-regional-internet-resilience/",
+  "title": "Csquared adds 2Africa west capacity to strengthen regional internet resilience",
+  "publisher": "CSquared",
+  "published": "2026-07-13",
+  "sub_indicator": "routes",
+  "why": "Q3/3a: 2Africa West capacity and backbone reaching Sierra Leone"
+ },
+ {
+  "url": "https://www.submarinecablestatus.com/landing-points/freetown-sierra-leone",
+  "title": "Freetown, Sierra Leone cable landing point",
+  "publisher": "Submarine Cable Status",
+  "published": "",
+  "sub_indicator": "routes",
+  "why": "Q1-Q2: one cable in service at Freetown"
+ },
+ {
+  "url": "https://thecommonwealth.org/investment-platform/sierra-leone-second-submarine-cable-project",
+  "title": "Sierra Leone Second Submarine Cable Project",
+  "publisher": "Commonwealth",
+  "published": "",
+  "sub_indicator": "routes",
+  "why": "Q2,Q4: operators buy 95.5 Gbps; second cable proposed"
+ }
+]

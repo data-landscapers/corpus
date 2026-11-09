@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Mozambique is connected by the SEACOM and EASSy undersea links and by fibre and microwave to Zimbabwe, Swaziland and Malawi; SEACOM offers open access at its Maputo landing station.",
+ "title": "Mozambique Digital Economy Diagnostic",
+ "publisher": "World Bank",
+ "published": "2020",
+ "date_source": "source",
+ "why_not": ""
+}

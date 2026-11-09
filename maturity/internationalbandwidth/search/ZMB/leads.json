@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://apanews.net/zambia-mozambique-launch-cross-border-fibre-link/",
+  "title": "Zambia, Mozambique launch cross-border fibre link",
+  "publisher": "APAnews",
+  "published": "2026-02-23",
+  "sub_indicator": "routes",
+  "why": "Q1-3: minister says fibre to eight neighbours; link to 2Africa"
+ },
+ {
+  "url": "https://bayobab.africa/bayobab-zambia-and-vodacom-mocambique-launch-strategic-fibre-interconnection-at-zambia-mozambique-border/",
+  "title": "Bayobab Zambia and Vodacom Moçambique launch strategic fibre Interconnection",
+  "publisher": "Bayobab",
+  "published": "2026-02-20",
+  "sub_indicator": "routes",
+  "why": "Q1-3a: route to 2Africa on east and west seaboards"
+ },
+ {
+  "url": "https://itweb.africa/article/bayobab-vodacom-enhance-africas-digital-backbone/DZQ587V8XwmqzXy2",
+  "title": "Bayobab, Vodacom enhance Africa's digital backbone",
+  "publisher": "ITWeb Africa",
+  "published": "2026-02-23",
+  "sub_indicator": "routes",
+  "why": "Q1-2: Chanida interconnection, eight neighbours"
+ },
+ {
+  "url": "https://cajnewsafrica.com/2026/02/23/landmark-zambia-mozambique-fibre-connection-project-launched/",
+  "title": "Landmark Zambia-Mozambique fibre connection project launched",
+  "publisher": "CAJ News Africa",
+  "published": "2026-02-23",
+  "sub_indicator": "routes",
+  "why": "Q2-3: lists eight neighbours, redundancy"
+ },
+ {
+  "url": "https://bayobab.africa/bayobab-zambia-achieves-milestone-completion-of-structural-separation-and-fibre-asset-transfer/",
+  "title": "Bayobab Zambia Achieves Milestone",
+  "publisher": "Bayobab",
+  "published": "2024-04-17",
+  "sub_indicator": "routes",
+  "why": "Q1-2: connections to seven neighbours"
+ },
+ {
+  "url": "https://paratus.africa/zambia/business-solutions/carrier-services/",
+  "title": "Reliable Carrier Services",
+  "publisher": "Paratus Zambia",
+  "published": "",
+  "sub_indicator": "routes",
+  "why": "Q4: wholesale IP transit and carriers in six countries"
+ },
+ {
+  "url": "https://www.zesco.co.zm/investments",
+  "title": "ZESCO Limited - Investments",
+  "publisher": "ZESCO",
+  "published": "",
+  "sub_indicator": "routes",
+  "why": "Q1-2: FibreCom interconnections with five neighbours; backbone offered to other providers"
+ },
+ {
+  "url": "https://www.pdu.gov.zm/blog/tax-waiver-secures-54-million-ict-investment",
+  "title": "Tax waiver secures $54 million ICT investment",
+  "publisher": "Presidential Delivery Unit Zambia",
+  "published": "2024-05-29",
+  "sub_indicator": "routes",
+  "why": "Q1-2: fibre to seven neighbours"
+ }
+]

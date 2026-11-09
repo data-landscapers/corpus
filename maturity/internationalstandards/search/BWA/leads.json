@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.iso.org/member/1753.html",
+  "title": "ISO - BOBS - Botswana Bureau of Standards",
+  "publisher": "ISO",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q1,Q4: member body; participating in 11 TCs"
+ },
+ {
+  "url": "https://bobstandards.bw/governance/",
+  "title": "Governance - BOBS",
+  "publisher": "Botswana Bureau of Standards",
+  "published": "2022-03-28",
+  "sub_indicator": "international",
+  "why": "Q1: full ISO member, IEC affiliate plus"
+ },
+ {
+  "url": "https://bobstandards.bw/faqs/",
+  "title": "FAQs - BOBS",
+  "publisher": "Botswana Bureau of Standards",
+  "published": "2022-03-29",
+  "sub_indicator": "international",
+  "why": "Q1: ISO/IEC membership"
+ },
+ {
+  "url": "https://www.trade.gov/country-commercial-guides/botswana-standards-trade",
+  "title": "Botswana - Standards for Trade",
+  "publisher": "US International Trade Administration",
+  "published": "2021-10-10",
+  "sub_indicator": "international",
+  "why": "Q1-2: adopts ISO standards, IEC affiliate"
+ },
+ {
+  "url": "https://bobstandards.bw/technical-committee/security-and-resilience/",
+  "title": "Security and Resilience Archives - BOBS",
+  "publisher": "Botswana Bureau of Standards",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q2: ISO standards adopted as BOS (IDT)"
+ },
+ {
+  "url": "https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/Baseline_Security_Requirements.pdf",
+  "title": "Baseline Security requirements for Services Providers",
+  "publisher": "BOCRA / Botswana National CSIRT",
+  "published": "2025-11-04",
+  "sub_indicator": "international",
+  "why": "Q3: ISMS complying with ISO 27001"
+ },
+ {
+  "url": "https://www.cirt.org.bw/sites/default/files/2026-09/Cybersecurity_Act.pdf",
+  "title": "Cybersecurity Act, No. 21 of 2025",
+  "publisher": "Government of Botswana",
+  "published": "2025",
+  "sub_indicator": "international",
+  "why": "Q3: standards for critical infrastructure"
+ },
+ {
+  "url": "https://bobstandards.bw/standard-development-stage/published/",
+  "title": "Published Archives - BOBS",
+  "publisher": "Botswana Bureau of Standards",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q2: ISO/IEC standards adopted nationally"
+ }
+]

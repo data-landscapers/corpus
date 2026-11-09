@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "On 21 August 2024 the ETC activated a dedicated 1Gbps undersea fibre connection in Port Sudan, built with Sudatel.",
+ "title": "Undersea cable delivers critical connectivity in Sudan",
+ "publisher": "Emergency Telecommunications Cluster",
+ "published": "2024-09-04",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://itweb.africa/article/o3-lands-medusa-cable-in-benghazi/PmxVE7KE4J3qQY85",
+  "title": "O3 lands Medusa cable in Benghazi",
+  "publisher": "ITWeb Africa",
+  "published": "2026-10-27",
+  "sub_indicator": "routes",
+  "why": "Q1: Medusa landed in Benghazi; Tripoli planned"
+ },
+ {
+  "url": "https://newswire.telecomramblings.com/2026/10/libya-gets-its-first-subsea-cable-landing-as-o3-group-opens-continental-digital-route/",
+  "title": "Libya gets its first subsea cable landing as O3 Group opens continental digital route",
+  "publisher": "Telecom Ramblings",
+  "published": "2026-10-26",
+  "sub_indicator": "routes",
+  "why": "Q1/Q2: Medusa Benghazi landing"
+ },
+ {
+  "url": "https://libyareview.com/69172/libyas-benghazi-receives-undersea-cable-connecting-libya-to-marseille/",
+  "title": "Libya's Benghazi Receives Undersea Cable Connecting Libya To Marseille",
+  "publisher": "LibyaReview",
+  "published": "2026-10-22",
+  "sub_indicator": "routes",
+  "why": "Q1: Medusa arrival"
+ },
+ {
+  "url": "https://techafricanews.com/2026/10/19/libya-o3-group-digital-infrastructure-medusa-cable-landing/",
+  "title": "Libya's O3 Group Unveils Digital Infrastructure Plans After Medusa Cable Landing",
+  "publisher": "TechAfrica News",
+  "published": "2026-10-19",
+  "sub_indicator": "routes",
+  "why": "Q2/Q3: east and west diverse connections"
+ },
+ {
+  "url": "https://capacityglobal.com/news/medusa-subsea-cable-inaugurated-in-libya-to-boost-post-war-connectivity/",
+  "title": "Medusa subsea cable inaugurated in Libya to boost post-war connectivity",
+  "publisher": "Capacity",
+  "published": "2025-05-12",
+  "sub_indicator": "routes",
+  "why": "Q1/Q2: Misrata Medusa agreement"
+ },
+ {
+  "url": "https://lana.gov.ly/post.php?id=332403&lang=ar",
+  "title": "الشركة القابضة للاتصالات تعلن تدشين مشروع الكابل البحري (ميدوسا)",
+  "publisher": "وكالة الأنباء الليبية",
+  "published": "2025-05-10",
+  "sub_indicator": "routes",
+  "why": "Q1: Medusa launch Misrata"
+ },
+ {
+  "url": "https://lana.gov.ly/post.php?id=216951&lang=en",
+  "title": "Libyan Communications Holding Company announces completion of Silvium submarine cable project linking Libya with Greece",
+  "publisher": "Libyan News Agency",
+  "published": "2021-10-07",
+  "sub_indicator": "routes",
+  "why": "Q2/Q3: Silphium, EIG, Italy cables"
+ },
+ {
+  "url": "https://libyaherald.com/2021/04/libya-and-egypt-sign-telecommunication-technology-and-technical-training-agreements",
+  "title": "Libya and Egypt Sign Strategic Telecommunications and Tech Agreements",
+  "publisher": "Libya Herald",
+  "published": "2021-04-23",
+  "sub_indicator": "routes",
+  "why": "Q3: Egypt border land cable"
+ }
+]

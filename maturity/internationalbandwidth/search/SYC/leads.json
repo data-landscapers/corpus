@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.nation.sc/articles/16417/seychelles-achieves-security-in-international-connectivity-peace-operational-in-seychelles",
+  "title": "Seychelles achieves security in international connectivity: PEACE operational in Seychelles",
+  "publisher": "Seychelles Nation",
+  "published": "2023-01-06",
+  "sub_indicator": "routes",
+  "why": "Q1-2: SEAS and PEACE in service"
+ },
+ {
+  "url": "https://www.seychellesnewsagency.com/articles/18002/internet-more-value-for-money-expected-seychelles-second-undersea-cable-is-operational",
+  "title": "Internet: More value for money expected - Seychelles' second undersea cable is operational",
+  "publisher": "Seychelles News Agency",
+  "published": "2023-01-09",
+  "sub_indicator": "routes",
+  "why": "Q2-3: two cables completely separate"
+ },
+ {
+  "url": "https://www.nation.sc/articles/17555/intelvisions-2africa-cable-system-lands-in-seychelles-",
+  "title": "Intelvision's 2Africa cable system lands in Seychelles",
+  "publisher": "Seychelles Nation",
+  "published": "2023-04-21",
+  "sub_indicator": "routes",
+  "why": "Q3/3a: 2Africa lands at North East Point"
+ },
+ {
+  "url": "https://www.seychellesnewsagency.com/articles/18550/seychelles-gets-3rd-submarine-cable-system-for-more-competitive-internet-prices",
+  "title": "Seychelles gets 3rd submarine cable system for more competitive internet prices",
+  "publisher": "Seychelles News Agency",
+  "published": "2023-04-20",
+  "sub_indicator": "routes",
+  "why": "Q3a: 2Africa 180 Tbps design capacity landed"
+ },
+ {
+  "url": "https://www.submarinenetworks.com/en/systems/asia-europe-africa/2africa/intelvision-lands-2africa-in-seychelles-the-third-subsea-cable-connecting-seychelles",
+  "title": "Intelvision Lands 2Africa in Seychelles, the Third Subsea Cable Connecting Seychelles",
+  "publisher": "Submarine Networks",
+  "published": "2023-05-01",
+  "sub_indicator": "routes",
+  "why": "Q3: three cables; Q4 capacity bought from Vodafone"
+ },
+ {
+  "url": "https://nation.sc/articles/12700/landing-of-the-peace-submarine-cable-system-in-seychelles--second-project",
+  "title": "Landing of the PEACE submarine cable system in Seychelles - Second project",
+  "publisher": "Seychelles Nation",
+  "published": "2022-03-08",
+  "sub_indicator": "routes",
+  "why": "Q2-3: SEAS at Beau Vallon, PEACE at Perseverance"
+ },
+ {
+  "url": "https://www.ifc.org/en/pressroom/2021/ifc-supports-intelvision-to-strengthen-seychelles-broadband-inte",
+  "title": "IFC Supports Intelvision to Strengthen Seychelles' Broadband Internet Network",
+  "publisher": "IFC",
+  "published": "2021-08-16",
+  "sub_indicator": "routes",
+  "why": "Q4: Intelvision leases capacity on 2Africa branch"
+ },
+ {
+  "url": "https://www.prnewswire.com/news-releases/new-branches-for-the-2africa-subsea-cable-system-301356366.html",
+  "title": "New Branches for the 2Africa Subsea Cable System",
+  "publisher": "2Africa consortium (PR Newswire)",
+  "published": "2021-08-17",
+  "sub_indicator": "routes",
+  "why": "Q4: open-access landing stations"
+ }
+]

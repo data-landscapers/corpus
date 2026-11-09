@@ -1,0 +1,7 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=CM,not-a-document,World Bank indicator widget,,0,,
+2,https://ourworldindata.org/grapher/share-of-individuals-using-the-internet?tab=map,fetched,,scripts/.workroot/study/internetusage/cache/CMR/2.txt,1558,html,Share of the population using the Internet
+3,https://fred.stlouisfed.org/series/ITNETUSERP2CMR,unfetchable,ConnectionError; Wayback ConnectionError,,0,,
+4,https://www.nada.stat.cm/index.php/catalog/211/download/1806,fetched,,scripts/.workroot/study/internetusage/cache/CMR/4.txt,54125,pdf,Microsoft Word - ANNUAIRE MINPOSTEL CORRIGE OK A5.docx
+5,https://www.investiraucameroun.com/telecom/1606-22118-internet-avec-plus-de-40-d-individus-actifs-le-cameroun-depasse-la-moyenne-en-afrique-malgre-le-retard-sur-le-haut-debit,fetched,,scripts/.workroot/study/internetusage/cache/CMR/5.txt,628,html,"Internet : avec plus de 40% d’individus actifs, le Cameroun dépasse la moyenne en Afrique malgré le retard sur le haut débit"
+6,https://refugeeconnectivity.org/our-work/cameroon,fetched,,scripts/.workroot/study/internetusage/cache/CMR/6.txt,374,html,Cameroon | UNHCR - Connectivity for Refugees

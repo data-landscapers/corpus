@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://pulse.internetsociety.org/en/reports/SD/",
+  "title": "Country Report for Sudan",
+  "publisher": "Internet Society Pulse",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1: ITU-based share of Sudan's population using the internet (29%, 2022)"
+ },
+ {
+  "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=SD",
+  "title": "Individuals using the Internet (% of population) - Sudan",
+  "publisher": "World Bank (ITU data)",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1-Q4: ITU series, latest Sudan year"
+ },
+ {
+  "url": "https://paradigmhq.org/wp-content/uploads/2025/09/Londa-24-Sudan.pdf",
+  "title": "Londa 2024: Digital Rights and Inclusion in Africa, Sudan country report",
+  "publisher": "Paradigm Initiative",
+  "published": "2025",
+  "sub_indicator": "use",
+  "why": "Q1: 28.7% penetration, January 2024 (DataReportal-sourced)"
+ },
+ {
+  "url": "https://ourworldindata.org/grapher/share-of-individuals-using-the-internet",
+  "title": "Share of the population using the Internet",
+  "publisher": "Our World in Data (ITU via World Bank)",
+  "published": "2026-07-27",
+  "sub_indicator": "use",
+  "why": "Q1-Q4: ITU share by country, 1990-2025"
+ }
+]

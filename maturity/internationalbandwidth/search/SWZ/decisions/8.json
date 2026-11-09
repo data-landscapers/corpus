@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Paratus lit a 750 km fibre route from Maputo through Eswatini to Johannesburg in September 2020, with first live traffic.",
+ "title": "Paratus activates direct terrestrial fibre link from Teraco to Maputo",
+ "publisher": "Engineering News",
+ "published": "2020-09-04",
+ "date_source": "source",
+ "why_not": ""
+}

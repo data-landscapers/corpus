@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "On 17 June 2026 Seacom launched a Nairobi-Kisumu-Kampala terrestrial route carrying traffic inland from the Mombasa subsea landing stations, using two Kenya-Uganda border crossings, Malaba and Busia.",
+ "title": "Seacom deploys a new high-capacity Nairobi–Kampala route to strengthen East Africa's digital backbone",
+ "publisher": "Seacom",
+ "published": "2026-06-17",
+ "date_source": "source",
+ "why_not": ""
+}

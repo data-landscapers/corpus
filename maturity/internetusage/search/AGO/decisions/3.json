@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "users",
+ "fact": "estimate:44.8 per cent of Angola's population used the internet in 2023, an ITU estimate in the UN Statistical Yearbook.",
+ "title": "Internet usage",
+ "publisher": "United Nations Statistical Yearbook, sixty-eighth issue (ITU data)",
+ "published": "2025-11",
+ "date_source": "source",
+ "why_not": ""
+}

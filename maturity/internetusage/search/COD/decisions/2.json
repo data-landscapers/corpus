@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "use",
+ "aspect": "users",
+ "fact": "Internet Society Pulse reports that 20 per cent of the population of the DRC used the internet at least once in a three-month period in 2024, against 40 per cent for Africa on average.",
+ "title": "Country Report for République démocratique du Congo",
+ "publisher": "Internet Society Pulse",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

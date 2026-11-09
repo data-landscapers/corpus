@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
+  "title": "Individuals using the Internet (% of population)",
+  "publisher": "World Bank (ITU data)",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1-3: 2024 figure"
+ },
+ {
+  "url": "https://fred.stlouisfed.org/series/ITNETUSERP2SYC",
+  "title": "Internet users for Seychelles",
+  "publisher": "FRED (World Bank)",
+  "published": "",
+  "sub_indicator": "use",
+  "why": "Q1-3: 87.8 for 2024"
+ },
+ {
+  "url": "https://seychelles.un.org/en/258748-taking-action-%E2%80%9Cclean%E2%80%9D-information-ecosystem",
+  "title": "Taking Action for a clean information ecosystem",
+  "publisher": "United Nations in Seychelles",
+  "published": "2024-01-25",
+  "sub_indicator": "use",
+  "why": "ITU figure 82 per cent"
+ },
+ {
+  "url": "https://theseychellestimes.com/2025/06/24/seychelles-among-africas-digital-leaders-new-itu-report-finds/",
+  "title": "Seychelles Among Africa's Digital Leaders, New ITU Report Finds",
+  "publisher": "The Seychelles Times",
+  "published": "2025-06-24",
+  "sub_indicator": "use",
+  "why": "ITU 2025 report"
+ },
+ {
+  "url": "https://www.finance.gov.sc/wp-content/uploads/2025/10/VNR_SEYCHELLES_2025-1.pdf",
+  "title": "Voluntary National Review Seychelles 2025",
+  "publisher": "Ministry of Finance, Seychelles",
+  "published": "2025",
+  "sub_indicator": "use",
+  "why": "household internet access 2022 (other)"
+ }
+]

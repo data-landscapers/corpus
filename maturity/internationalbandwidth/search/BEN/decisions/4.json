@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "The deck, citing TeleGeography, lists SAT-3 (2002), ACE (2012) and Maroc Telecom West Africa (2021, Benin-Togo-Abidjan) among the cables serving Benin.",
+ "title": "West Africa's Digital and Infrastructure Outlook",
+ "publisher": "AF-CIX Lagos (AfPIF)",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

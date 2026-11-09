@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://gsa.gov.gh/standards/",
+  "title": "Standards",
+  "publisher": "Ghana Standards Authority",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q1/Q4: ISO full member, committee participation"
+ },
+ {
+  "url": "https://iecncgh.org/international-affiliations/",
+  "title": "International Affiliations",
+  "publisher": "IEC National Committee of Ghana",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q1/Q4: IEC associate member, JTC1/SC25 O-member"
+ },
+ {
+  "url": "https://www.iso.org/member/1747.html",
+  "title": "ISO - GSA - Ghana Standards Authority",
+  "publisher": "ISO",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q1: Member body"
+ },
+ {
+  "url": "https://csa.gov.gh/resources/Directive_CII.pdf",
+  "title": "Directive for the Protection of Critical Information Infrastructure",
+  "publisher": "Cyber Security Authority",
+  "published": "2021",
+  "sub_indicator": "international",
+  "why": "Q3: CII owners incl. Government sector must follow CSA-approved standards"
+ },
+ {
+  "url": "https://www.bog.gov.gh/wp-content/uploads/2020/06/Cyber-Information-Security-Directive-2026.pdf",
+  "title": "Cyber and Information Security Directive",
+  "publisher": "Bank of Ghana",
+  "published": "2026",
+  "sub_indicator": "international",
+  "why": "Q3: requires ISO/IEC 27001 certification (regulated financial institutions)"
+ },
+ {
+  "url": "https://www.iso.org/committee/45342.html?view=participation",
+  "title": "ISO/IEC JTC 1/SC 32 participation",
+  "publisher": "ISO",
+  "published": "",
+  "sub_indicator": "international",
+  "why": "Q4: Ghana observer member"
+ },
+ {
+  "url": "https://stdfr.org/1487614355.html",
+  "title": "GS ISO/IEC 27001:2024",
+  "publisher": "Ghana Standards Authority (via stdfr.org)",
+  "published": "2024",
+  "sub_indicator": "international",
+  "why": "Q2: ISO/IEC 27001 adopted as Ghana Standard"
+ }
+]

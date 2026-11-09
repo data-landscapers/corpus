@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Algeria is connected to the international internet by four submarine cables and a land link from Tunisia, the latest cable linking Algiers and Oran to Valencia, in service since 31 December 2020.",
+ "title": "Fibre optique : l’Algérie veut doubler ses capacités à l’international",
+ "publisher": "Jeune Afrique",
+ "published": "2022-03-14",
+ "date_source": "source",
+ "why_not": ""
+}

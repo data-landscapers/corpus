@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "In May 2026 only one subsea cable, ACE landing at Nouakchott, is stated to land in Mauritania, while EllaLink has landed a new branch at Nouadhibou.",
+ "title": "EllaLink lands submarine cable in Mauritania",
+ "publisher": "DCD",
+ "published": "2026-05-06",
+ "date_source": "source",
+ "why_not": ""
+}

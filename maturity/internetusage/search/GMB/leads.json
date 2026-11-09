@@ -1,0 +1,7 @@
+[
+{"url":"https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=GM","title":"Individuals using the Internet (% of population) - Gambia, The","publisher":"World Bank, from ITU World Telecommunication/ICT Indicators Database","published":"2025","sub_indicator":"use","why":"Q1-Q2: ITU series, 2024 value near 49 per cent"},
+{"url":"https://www.itu.int/itu-d/sites/projectumc/wp-content/uploads/sites/42/2026/03/Gambia_Measuring-UMC.pdf","title":"Measuring Universal and Meaningful Connectivity: The Gambia","publisher":"ITU","published":"2026-03","sub_indicator":"use","why":"Q1-Q2: national sources for individual internet use"},
+{"url":"https://www.gbosdata.org/downloads-file/580-communication-statistics-summary-report-2024","title":"Communication Statistics 2024","publisher":"Gambia Bureau of Statistics","published":"2025","sub_indicator":"use","why":"Q1-Q2: national ICT access and use report for 2024"},
+{"url":"https://www.gbosdata.org/downloads-file/336-the-2019-20-gambia-demography-and-health-surve","title":"The Gambia Demographic and Health Survey 2019-20","publisher":"Gambia Bureau of Statistics","published":"2021","sub_indicator":"use","why":"Q1-Q2: survey on individuals using the internet (older than 2024)"},
+{"url":"https://gambia.un.org/en/237227-closing-gender-gap-technological-access-key-empowering-women-gambia","title":"Closing the Gender Gap in Technological Access","publisher":"United Nations in The Gambia","published":"2023-06-20","sub_indicator":"use","why":"Q1: survey-based internet use statements"}
+]

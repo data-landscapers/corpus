@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Lesotho, landlocked, reaches submarine cables landing in South Africa through three international gateways, with a WIOCC point of presence for EASSy in Lesotho.",
+ "title": "Lesotho Digital Economy Diagnostic",
+ "publisher": "World Bank Group",
+ "published": "2020",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,7 @@
+[
+{"url":"https://fred.stlouisfed.org/series/ITNETUSERP2MRT","title":"Internet users for Mauritania (ITNETUSERP2MRT)","publisher":"FRED, St. Louis Fed (World Bank / ITU)","published":"2026-04-14","sub_indicator":"use","why":"Q1/Q2: ITU-based figure 45.78 per 100 people for 2024"},
+{"url":"https://pulse.internetsociety.org/en/reports/MR/","title":"Country Report for Mauritania","publisher":"Internet Society Pulse","published":"","sub_indicator":"use","why":"Q1/Q2: about 46 per cent of the population used the internet, 2024"},
+{"url":"https://www.ecofinagency.com/news-digital/2506-47404-mauritania-advances-e-commerce-but-digital-barriers-persist","title":"Mauritania Advances E-Commerce, But Digital Barriers Persist","publisher":"Ecofin Agency","published":"2025-06-25","sub_indicator":"use","why":"Q1/Q2: 44.4 per cent had internet access in 2024 citing ITU"},
+{"url":"https://datahub.itu.int/data/?c=701&e=MRT&i=100095","title":"Data explorer - ITU DataHub","publisher":"ITU","published":"","sub_indicator":"use","why":"Q1/Q2: ITU individuals using the internet for Mauritania"},
+{"url":"https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=MR","title":"Individuals using the Internet (% of population) - Mauritania","publisher":"World Bank","published":"","sub_indicator":"use","why":"Q1/Q2: ITU figure for 2024"}
+]

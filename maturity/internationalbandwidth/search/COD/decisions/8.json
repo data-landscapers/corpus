@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes;access",
+ "fact": "On 30 September 2023 the ACP reported that the DRC was connected at Moanda to a second submarine cable, 2Africa, beside WACS operating there since July 2013, with Mawezi (Orange and Airtel) to operate the landing station in open-access mode.",
+ "title": "Fibre-optique: la RDC dotée d'un deuxième câble pour \"plus de connexions résilientes\" (Expert)",
+ "publisher": "ACP",
+ "published": "2023-09-30",
+ "date_source": "source",
+ "why_not": ""
+}

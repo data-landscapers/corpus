@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes;access",
+ "fact": "On 13 December 2022 MTN announced the 45,000 km 2Africa cable landed at Yzerfontein (2Africa West, sharing the WACS station) and Duynefontein (2Africa East, with ACE), with design capacity up to 180 Tbps, and that South African providers can acquire capacity in carrier-neutral data centres or open-access landing stations.",
+ "title": "MTN GlobalConnect, MTN South Africa land 2Africa subsea cable in Western Cape to strengthen internet connectivity",
+ "publisher": "MTN",
+ "published": "2022-12-13",
+ "date_source": "source",
+ "why_not": ""
+}

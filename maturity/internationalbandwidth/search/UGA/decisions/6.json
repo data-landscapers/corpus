@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Uganda has no submarine cable and a terrestrial cross-border fibre from Kampala to the Mombasa landing station delivers submarine capacity to it; the report lists terrestrial links to Kenya, Tanzania, Rwanda, DR Congo and South Sudan.",
+ "title": "2024 East Africa Submarine Cable Outage Report",
+ "publisher": "Internet Society",
+ "published": "2024-07-23",
+ "date_source": "source",
+ "why_not": ""
+}

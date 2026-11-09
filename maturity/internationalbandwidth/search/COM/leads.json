@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://comorescables.km/?action=nous",
+  "title": "Comores Câbles",
+  "publisher": "Comores Câbles",
+  "published": "",
+  "sub_indicator": "routes",
+  "why": "Q1-3: names EASSy, FLYLION3 and 2Africa as the country's cables"
+ },
+ {
+  "url": "https://comorescables.km/Projets_de_cables/FLY-LION3_renforcer_la_connectivit%C3%A9_r%C3%A9gionale.html",
+  "title": "FLY-LION3: renforcer la connectivité régionale",
+  "publisher": "Comores Câbles",
+  "published": "",
+  "sub_indicator": "routes",
+  "why": "Q1-2: FLY-LION3 and EASSy share traffic, redundancy"
+ },
+ {
+  "url": "https://www.itu.int/en/ITU-D/Regional-Presence/ArabStates/Documents/events/2023/RDF-23/Contributions/25_Contribution_RDF_ARB_ANRTIC_Com.pdf",
+  "title": "UNION DES COMORES (contribution to ITU Arab Regional Development Forum 2023)",
+  "publisher": "ANRTIC",
+  "published": "2023",
+  "sub_indicator": "routes",
+  "why": "Q2-3: regulator says country linked east by FLY-LION 3 and west by EASSY, double connection"
+ },
+ {
+  "url": "https://minpoten.egouv.km/en/ministry/ministry-projects/",
+  "title": "Ministry projects",
+  "publisher": "Ministry of Posts and Telecommunications (Comoros)",
+  "published": "",
+  "sub_indicator": "routes",
+  "why": "Q1-2: FLY-LION3 commissioned 19 Oct 2019; Comoros Cables"
+ },
+ {
+  "url": "https://comorescables.km/Technologies",
+  "title": "Comores Câbles - Technologies",
+  "publisher": "Comores Câbles",
+  "published": "",
+  "sub_indicator": "routes",
+  "why": "Q1-2: 2Africa in service, EASSy, FLY-LION3"
+ },
+ {
+  "url": "https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/t%C3%A9l%C3%A9communications-/-le-c%C3%A2ble-international-fly-lion-3-atterrit-%C3%A0-moroni-.html",
+  "title": "Télécommunications / Le câble international Fly Lion 3 atterrit à Moroni",
+  "publisher": "La Gazette des Comores",
+  "published": "",
+  "sub_indicator": "routes",
+  "why": "Q2-3: Fly Lion 3 as backup to EASSy at Moroni"
+ },
+ {
+  "url": "https://www.megazap.fr/Le-cable-sous-marin-tres-haut-debit-FLY-LION3-atterrit-a-Mayotte_a4620.html",
+  "title": "Le câble sous-marin très haut débit FLY-LION3 atterrit à Mayotte",
+  "publisher": "Megazap",
+  "published": "2019-02-25",
+  "sub_indicator": "routes",
+  "why": "Q1: FLY-LION3 landing stations at Moroni and Kaweni"
+ }
+]

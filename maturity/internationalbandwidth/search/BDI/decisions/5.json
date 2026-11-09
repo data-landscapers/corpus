@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "routes",
+ "aspect": "routes",
+ "fact": "Burundi is connected to a single submarine cable, EASSy, through six cross-border connections with Rwanda and Tanzania, and in December 2019 BBS signed a 10-year agreement with TTCL for access to SEACOM.",
+ "title": "Burundi Digital Economy Assessment",
+ "publisher": "World Bank Group",
+ "published": "2020",
+ "date_source": "source",
+ "why_not": ""
+}

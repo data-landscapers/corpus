@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.connectingafrica.com/fiber-networking/bofinet-upgrades-its-available-international-capacity-to-1tbit-s",
+  "title": "BoFiNet upgrades its available international capacity to 1 Tbit/s",
+  "publisher": "Connecting Africa",
+  "published": "2026-09-23",
+  "sub_indicator": "routes",
+  "why": "Q1-2: routes via South African borders, Namibia interconnects"
+ },
+ {
+  "url": "https://itweb.africa/article/botswana-namibia-sign-regional-ict-agreement/lwrKxq3Y1xm7mg1o",
+  "title": "Botswana, Namibia sign regional ICT agreement",
+  "publisher": "ITWeb Africa",
+  "published": "2026-08-06",
+  "sub_indicator": "routes",
+  "why": "Q1-3: access via Swakopmund WACS landing, TKF and BKF routes"
+ },
+ {
+  "url": "https://www.bofinet.co.bw/index.php/news/article/bofinet-signs-mou-with-mtc-namibia-to-further-bolster-connectivity-reliability-for-botswana",
+  "title": "BoFiNet Signs MOU with MTC Namibia",
+  "publisher": "BoFiNet",
+  "published": "2026",
+  "sub_indicator": "routes",
+  "why": "Q2-3: cross-border interconnections Mamuno and Ngoma"
+ },
+ {
+  "url": "https://paratus.africa/blog/three-years-on-paratus-has-used-equiano-to-shape-sadc-connectivity-landscape/",
+  "title": "Three years on: Paratus has used Equiano to shape SADC connectivity landscape",
+  "publisher": "Paratus Africa",
+  "published": "2025-07-14",
+  "sub_indicator": "routes",
+  "why": "Q1,3a: BKF to Equiano, 144 Tbps"
+ },
+ {
+  "url": "https://www.bofinet.co.bw/uploads/567/01M07CRWGQN1GNEPN48DXSW851.pdf",
+  "title": "BoFiNet 2024 Annual Report",
+  "publisher": "BoFiNet",
+  "published": "2025",
+  "sub_indicator": "routes",
+  "why": "Q1-3a: WACS, EASSy, Equiano 144Tbps; border crossings"
+ },
+ {
+  "url": "https://www.bofinet.co.bw/uploads/571/01M07F2TQ2HE6M06GD31SSDFZG.pdf",
+  "title": "Powering Botswana's Digital Future (BoFiNet annual report)",
+  "publisher": "BoFiNet",
+  "published": "2026",
+  "sub_indicator": "routes",
+  "why": "Q2-3: four SADC cross-border routes, Sesheke route"
+ },
+ {
+  "url": "https://paratus.africa/botswana/blog/paratus-botswana-announces-new-botswana-to-zambia-fiber-route/",
+  "title": "Paratus Botswana Announces New Botswana to Zambia Fiber Route",
+  "publisher": "Paratus Botswana",
+  "published": "2024-12-04",
+  "sub_indicator": "routes",
+  "why": "Q2-3: fourth fibre route, redundancy to South Africa routes"
+ },
+ {
+  "url": "https://dailynews.gov.bw/news-detail/79822",
+  "title": "Paratus Botswana launches Botswana Kalahari Fibre",
+  "publisher": "Botswana Daily News",
+  "published": "2024-05-30",
+  "sub_indicator": "routes",
+  "why": "Q1,3a: BKF connects to 144 Tbps Equiano"
+ }
+]
