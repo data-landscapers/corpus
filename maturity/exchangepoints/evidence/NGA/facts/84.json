@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-08-nga-nigeria-s-internet-capacity-expands-as-data-centre-links-hit-1tbps",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "BusinessDay reports the Internet Exchange Point of Nigeria (IXPN), established in 2006, lets ISPs, operators and content delivery networks exchange traffic locally, with peering centred on Digital Realty's Medallion data centre.",
+   "as_of": "2026-11-08",
+   "date_precision": "day",
+   "system": "IXPN",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IXPN",
+   "country_label": "Nigeria",
+   "class": "exchange",
+   "platform": "",
+   "owner": "IXPN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-17-zaf-wacren-lagos-cape-town-ren-interconnection-zaoxi",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "WACREN says it is directly interconnected at the ZAOXI Global Exchange Point in Cape Town through SANReN and TENET, over a 10 Gbps Lagos-Cape Town link.",
+   "as_of": "2025-10-17",
+   "date_precision": "day",
+   "system": "ZAOXI",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wider",
+   "fact": "WACREN, a West and Central African network, interconnects at ZAOXI in Cape Town.",
+   "as_of": "2025-10-17",
+   "date_precision": "day",
+   "system": "ZAOXI",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ZAOXI",
+   "country_label": "South Africa",
+   "class": "exchange",
+   "platform": "global exchange point",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

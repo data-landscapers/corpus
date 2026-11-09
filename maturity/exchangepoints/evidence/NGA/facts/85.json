@@ -1,0 +1,36 @@
+{
+ "slug": "2025-10-17-zaf-wacren-lagos-cape-town-ren-interconnection-zaoxi",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "WACREN says it established the Lagos GXP, linked by 10 Gbps to ZAOXI in Cape Town and connecting to Internet2, CANARIE, RedCLARA, CSTNET, ANSP and GEANT.",
+   "as_of": "2025-10-17",
+   "date_precision": "day",
+   "system": "Lagos GXP",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wider",
+   "fact": "WACREN says the Lagos GXP connects to research networks abroad and interconnects with ZAOXI in South Africa.",
+   "as_of": "2025-10-17",
+   "date_precision": "day",
+   "system": "Lagos GXP",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Lagos GXP",
+   "country_label": "Nigeria",
+   "class": "exchange",
+   "platform": "global exchange point",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

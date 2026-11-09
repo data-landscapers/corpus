@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NGA,exchange,exchange,coverage,growing,2025,NGA-007,NGA-019=service;NGA-001=service;NGA-009=service;NGA-014=service;NGA-015=content;NGA-013=service;NGA-018=content;NGA-016=traffic;NGA-004=service;NGA-008=content;NGA-006=traffic;NGA-003=traffic;NGA-010=service;NGA-011=service;NGA-012=service;NGA-005=traffic,
-NGA,exchange,reach,coverage,wider,2026-11,NGA-002;NGA-017;NGA-020,,
+NGA,exchange,exchange,coverage,growing,2025,NGA-007,NGA-019=service;NGA-021=service;NGA-001=service;NGA-009=service;NGA-014=service;NGA-015=content;NGA-013=service;NGA-018=content;NGA-016=traffic;NGA-004=service;NGA-008=content;NGA-006=traffic;NGA-022=service;NGA-003=traffic;NGA-010=service;NGA-011=service;NGA-012=service;NGA-005=traffic,
+NGA,exchange,reach,coverage,wider,2026-11,NGA-002;NGA-017;NGA-020;NGA-023,,

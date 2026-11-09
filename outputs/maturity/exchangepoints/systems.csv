@@ -186,6 +186,8 @@ NGA,AMS-IX Lagos,AMS-IX Lagos,exchange,,AMS-IX,,2026-06-29-starlink-africa-avail
 NGA,Equinix Lekki,Equinix Lekki,other,,Equinix,,2026-06-29-starlink-africa-availability-costs-performance
 NGA,IXPN,Internet Exchange Point of Nigeria,exchange,,,,2026-07-06-nga-nigeria-s-internet-exchange-goes-400g-as-traffic-tops-two-terabits
 NGA,IXPN,Nigeria,exchange,,Internet Exchange Point of Nigeria,,2026-11-04-nga-nigeria-targets-90-local-internet-traffic-regional-hub-power
+NGA,IXPN,Nigeria,exchange,,IXPN,,2026-11-08-nga-nigeria-s-internet-capacity-expands-as-data-centre-links-hit-1tbps
+NGA,Lagos GXP,Nigeria,exchange,global exchange point,,,2025-10-17-zaf-wacren-lagos-cape-town-ren-interconnection-zaoxi
 RWA,RINEX,RINEX (Rwanda Internet Exchange Point),exchange,,RICTA,,2026-06-04-gewape-cloud-group-rinex-connection-announcement
 RWA,RINEX,RINEX (Rwanda Internet Exchange Point),exchange,,RICTA,,2014-02-01-rinex-terms-and-policies
 RWA,RINEX,Rwanda Internet Exchange,exchange,,,,2026-07-13-isoc-local-peering-africa
@@ -259,6 +261,7 @@ ZAF,NAPAfrica Johannesburg,NAPAfrica,exchange,,,,2026-06-29-starlink-africa-avai
 ZAF,JINX,JINX,exchange,,,,2026-06-29-starlink-africa-availability-costs-performance
 ZAF,NAPAfrica,NAPAfrica,exchange,IXP in Teraco data centres,Teraco,,2025-11-11-zaf-napafrica-and-teraco-acx-growing-africas-digital-community-as-napafric
 ZAF,NAPAfrica,South Africa,exchange,,Teraco,,2025-03-04-zaf-napafrica-achieves-5tbps-traffic-milestone-driving-africas-digital-tra
+ZAF,ZAOXI,South Africa,exchange,global exchange point,,,2025-10-17-zaf-wacren-lagos-cape-town-ren-interconnection-zaoxi
 ZMB,Lusaka IXP,Lusaka IXP,exchange,,,,2025-12-08-afrinic-dns-deployment-lusaka-ixp-linkedin
 ZMB,LSK-IX,Lusaka Internet Exchange Point,exchange,,,,2024-08-02-zambia-lsk-ix-exchange-record
 ZMB,LSK-IX,LSKIX,exchange,IXP Manager,,,2025-01-01-city-channels-cable-network-joins-lskix
