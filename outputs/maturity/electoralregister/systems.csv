@@ -26,6 +26,7 @@ CMR,ELECAM biometric voter register,Cameroon voter register,electoral,AFIS and f
 COD,fichier électoral (RFE 2022),DRC,electoral,,CENI,,2026-03-15-actualite-non-execution-feuille-route-ceni
 COD,fichier électoral,DRC,electoral,,CENI,,2026-02-19-ceni-transmet-fichier-electoral-onip-actualite
 COD,CENI mobile app,DR Congo,electoral,mobile app,CENI,,2023-12-02-cod-une-application-mobile-mise-a-jour-pour-consulter-les-electeurs
+COD,CENI electoral file,DR Congo,electoral,,CENI,,2026-09-16-cod-rdc-l-identification-de-masse-de-la-population-annoncee-pour-mi-decemb
 COG,NIU (numero d'identification unique),Congo,other,,police data collection section,,2025-09-09-campagne-distribution-cni-niu-pointe-noire-ldb
 COG,liste électorale,Congo,electoral,manual lists,Ministère de l'intérieur et de la décentralisation,,2025-09-04-cog-horizonafricain-revision-listes-electorales
 COG,listes electorales provisoires,Congo,electoral,posted lists,"DGAE, Ministry of the Interior",,2025-12-11-cog-presidentielle-2026-des-listes-electorales-provisoires-deja-disponible
@@ -147,6 +148,7 @@ STP,SIGA,Sao Tome and Principe,other,,Direcao-Geral dos Registos e Notariado,,20
 STP,plataforma de recenseamento automático,Sao Tome and Principe,electoral,,CEN/GTE,,2025-09-01-prese-nota-imprensa-recenseamento-eleitoral-automatico-interoperabilidade
 STP,SIVIKA,STP,other,app,Comissao Eleitoral Nacional,,2026-09-25-stp-cen-anuncia-aumento-do-numero-de-eleitores-mas-reclama-pela-logistica
 STP,Recenseamento eleitoral automático,São Tomé e Príncipe,electoral,,CEN,,2026-06-06-stp-eleicoes-26-pelo-menos-142-298-eleitores-inscritos-para-as-eleicoes-pr
+STP,Plataforma de recenseamento eleitoral automatico,Sao Tome and Principe,electoral,University of Aveiro platform,Comissao Eleitoral Nacional,,2026-04-30-stp-prese-press-note-results-automatic-voter-registration
 SWZ,EBC biometric voter registration,Eswatini,electoral,biometric capture,Elections and Boundaries Commission,,2026-09-12-swz-eswatinipositivenews-imbali-biometric-voter-registration
 SWZ,Continuous Voter Registration,Eswatini,electoral,computers and biometric capture,Elections and Boundaries Commission,,2026-09-11-swz-positivenews-biometric-voter-registration
 SWZ,Optimal Mark Recognition (OMR) System,Eswatini,electoral,OMR,Elections and Boundaries Commission,,2026-08-29-ebc-electoral-process
