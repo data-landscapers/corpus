@@ -1,11 +1,11 @@
 ---
 title: Mauritania — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: MRT
 ledger_rows: 12
 not_held: 3
-record: aa3d5a255856
+record: d44f664de883
 ---
 
 # News, Oct – Nov 2026
@@ -95,6 +95,14 @@ Mauritania's regulator ARE published on 7 October 2026 its re-inspection of mobi
 **[Mauritania's Digital Economy Plans Face Persistent Telecom Network Quality Problems](https://www.ecofinagency.com/news-digital/0910-59612-mauritanias-digital-economy-plans-face-persistent-telecom-network-quality-problems)** — Ecofin Agency, 9 October 2026
 
 Mauritania's regulator ARE released results on 7 October 2026 of a February–March inspection that found failings in voice and mobile data services at Mattel, Mauritel and Chinguitel, including call completion and drop rates in several towns and on main roads and weak 3G and 4G performance. Ecofin sets this against the government's plans for online public services, AI and e-commerce.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Télécommunications : L'Autorité de Régulation inflige plus de 421 millions MRU d'amendes aux trois opérateurs nationaux - Le Quotidien](https://lequotidien.mr/?p=42474)** — Le Quotidien (Mauritania), 6 November 2026
+
+Decision of 5 Nov 2026: Mauritel MRU 262.1m, Mattel 108.8m, Chinguitel 50.4m, 3% of turnover; network audit ordered.
 
 </div>
 
