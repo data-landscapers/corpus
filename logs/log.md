@@ -12,9 +12,9 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
-2026-11-09 02:21 · **REBUILD** · unclocked · internetusage use: 1 cell reassessed, 0 moved; 54 searched, 34 staged; ~67M tokens (three shared 203M) - ok
-2026-11-09 02:21 · **REBUILD** · unclocked · internationalstandards international: 54 cells reassessed, 0 moved; 54 searched, 52 staged; ~68M tokens (three shared 203M) - ok
-2026-11-09 02:21 · **REBUILD** · 21h21m · internationalbandwidth routes: 6 cells reassessed, 4 moved; 54 searched, 168 staged; ~68M tokens (three shared 203M) - ok
+2026-11-09 02:21 · **REBUILD** · 16m · internetusage use: 1 cell reassessed, 0 moved; 54 searched, 34 staged; ~67M tokens (three shared 203M) - ok
+2026-11-09 02:21 · **REBUILD** · 16m · internationalstandards international: 54 cells reassessed, 0 moved; 54 searched, 52 staged; ~68M tokens (three shared 203M) - ok
+2026-11-09 02:21 · **REBUILD** · 16m · internationalbandwidth routes: 6 cells reassessed, 4 moved; 54 searched, 168 staged; ~68M tokens (three shared 203M) - ok
 2026-11-09 02:05 · **BUILD** · 1h04m · catalogue 38,631; 376 sources, 58 units, 34 moved, 124 minted, 49 status; data centres 7 changed, 1 added; maturity 177 calls, 31 moved; budgets none waiting; bulletin 9; prose gate 14 fixed - ok
 2026-11-08 06:20 · **INDEX** · 1m · research index: stopped by the low-memory reaper, 6,140 behind; message 102 updated - errored
 2026-11-08 06:19 · **BUDGET-EXTRACT** · 9m · MLI FY2027: 79 activity lines from the DPPD-PAP 2027-2029, proposed stage, beside the bill's 21 (100 in all); 308 of 311 action tables foot, bodies and BSI projects reconcile to the annex and are not doubled
