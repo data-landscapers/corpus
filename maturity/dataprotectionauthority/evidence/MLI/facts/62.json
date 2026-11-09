@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-04-mli-usurpation-des-donnees-nina-sur-les-cartes-sim-le-ministere-des-tics-l",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Autorite de protection des donnees a caractere personnel (APDP) acted on complaints and denunciations of personal data violations over NINA misuse on SIM cards and called it a massive compromise of personal data.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "APDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-ben-foundational-identity-4",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "ANIP's deck says the CNIL was transformed into the Data Protection Authority (APDP) alongside the new Digital Code.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "APDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

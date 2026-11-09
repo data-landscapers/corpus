@@ -1,0 +1,17 @@
+{
+ "slug": "2025-08-02-mli-identification-des-puces-orange-mali-stupefaction-et-coleres",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Mali Tribune reports the APDP, the personal data protection authority, issued a communique on 29 July 2025 saying it had received several complaints over the SIM identification campaign.",
+   "as_of": "2025-07-29",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": "No ruling against a named organisation stated."
+}
