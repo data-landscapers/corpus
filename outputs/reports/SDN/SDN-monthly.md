@@ -1,11 +1,11 @@
 ---
 title: Sudan — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: SDN
-ledger_rows: 23
+ledger_rows: 24
 not_held: 5
-record: 577234c81571
+record: b44a43b2b3d8
 ---
 
 # News, Oct – Nov 2026
@@ -175,6 +175,20 @@ Sudan's prime minister issued a decision on 19 October 2026 forming a National M
 **[مجلس الوزراء يدين الاعتداءات المتكررة على المنشآت الخدمية عبر المسيرات التي تنطلق دولة إثيوبيا](https://suna.sd/posts/mgls-alozraaa-ydyn-alaaatdaaaat-almtkrr-aal-almnshat-alkhdmy-aabr-almsyrat-alty-tntlk-mn-dakhl-dol-athyobya)** — Sudan News Agency (SUNA), 1 November 2026
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Pakistan-Sudan cybercrime memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Pakistan, Sudan to strengthen security, digital registration efforts](https://thenews.pk/print/1447584-pakistan-sudan-to-strengthen-security-digital-registration-efforts)** — The News International, 7 November 2026
+
+NADRA-backed issuance claimed at 36m citizenship cards and 9m national IDs; cybercrime MoU agreed in principle.
 
 </div>
 
