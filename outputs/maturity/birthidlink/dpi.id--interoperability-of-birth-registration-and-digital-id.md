@@ -22,8 +22,8 @@ The African Union's interoperability framework and the African ministers respons
 |---|---|
 | 5 Leading | 2 |
 | 4 Operating | 2 |
-| 3 Established | 26 |
-| 2 Nascent | 18 |
+| 3 Established | 27 |
+| 2 Nascent | 17 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 5 |
@@ -188,6 +188,12 @@ The civil register and the ID system were linked one way or for one event in 202
 - The National Civil Registration Authority is the single body described as handling both civil registration and national identification ([source, 2026-09-17](https://thecalabashnewspaper.com/archives/64446)).
 - NCRA Director General Massaquoi said NCRA has integrated civil registration with identity management, one body holding both functions ([source, 2026-08-10](https://sierraloaded.sl/news/ncra-calls-stronger-investment-in-digital/)).
 
+### South Africa: 3 Established
+
+Births registered at health facilities entered the population register with an ID number in 2025; whether deaths retire ID numbers is not known.
+
+- The Department of Home Affairs says births registered through health facilities enter the population register through a single entry point, the child's ID number being allocated at birth and kept for life, under an MOU with the Department of Health ([source, 2025-11-05](https://pmg.org.za/committee-question/33804/)).
+
 ### South Sudan: 3 Established
 
 The civil register and the ID system were linked one way or for one event in 2026.
@@ -332,12 +338,6 @@ A link between the civil register and the ID system was under way in 2025.
 
 - The Ministry of Interior, Federal Affairs and Reconciliation is testing interfaces that would integrate the digital civil registration platform with national ID, health, education and immigration services ([source, 2025-08-11](https://www.ecofinagency.com/news-digital/1108-48024-somalia-pilots-19-district-digital-civil-registry-lays-groundwork-for-nationwide-legal-identity)).
 - The Ministry of Interior, Federal Affairs and Reconciliation says it is working to integrate the digital registration system with other government services including national ID ([source, 2025-08-10](https://sonna.so/en/article/somalia-marks-africa-civil-registration-and-vital-statistics-day-with-launch-of-unified-digital-registration-service)).
-
-### South Africa: 2 Nascent
-
-A link between the civil register and the ID system was under way in 2026.
-
-- SAnews reports Cabinet approved a White Paper turning the National Population Register into an Intelligent Population Register using interoperability and real-time data integration as the foundation for a Digital ID, with mandatory digital birth and death registration ([source, 2026-04-08](https://www.sanews.gov.za/south-africa/schreiber-welcomes-approval-revised-white-paper-citizenship)).
 
 ### Togo: 2 Nascent
 

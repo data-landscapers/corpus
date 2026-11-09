@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-05-zaf-question-nw4978-to-the-minister-of-home-affairs",
+ "facts": [
+  {
+   "sub_indicator": "link",
+   "aspect": "link",
+   "value": "inservice",
+   "fact": "The Department of Home Affairs says births registered through health facilities enter the population register through a single entry point, the child's ID number being allocated at birth and kept for life, under an MOU with the Department of Health.",
+   "as_of": "2025-11-05",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "crvslink"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
