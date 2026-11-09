@@ -1,16 +1,17 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "routes",
-   "stage": "3",
-   "routes": "two",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BDI-002",
-   "gaps": "No source found says two of the routes land at different stations, or run through two different neighbours.",
-   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "routes",
+      "stage": "3",
+      "routes": "independent",
+      "access": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BDI-002;BDI-001",
+      "gaps": "No source found says a cable of more than 100 Tbps design capacity carries the country's traffic.",
+      "note": "Reassessed 2026-11-09: ARCT lists fibre crossings to Rwanda, the DRC and Tanzania over which Burundi reaches EASSy, SEACOM and TEAMS (BDI-002), read as routes through two neighbours, as Zambia's links to eight neighbours are. No source says a cable of more than 100 Tbps carries Burundi's traffic, so stage 3.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }

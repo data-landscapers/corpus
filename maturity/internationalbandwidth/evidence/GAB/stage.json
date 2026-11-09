@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "routes",
-      "stage": "3",
+      "stage": "4",
       "routes": "independent",
       "access": "",
       "cap": "",
       "flags": "",
       "stage_sources": "GAB-006;GAB-002;GAB-005",
-      "gaps": "GAB-002 says Gabon lands 2Africa among four cable systems, but no source states that 2Africa, or another cable of more than 100 Tbps design capacity, is in service carrying Gabon's traffic. No source found says other operators buy capacity on the routes.",
-      "note": "SPIN's director-general (GAB-006, October 2026) places the ACE landing beside backbone links to Cameroon, Equatorial Guinea and Congo, a cable and a land link through a neighbour, so two independent routes. TM Africa's statement that Gabon lands 2Africa (GAB-002) does not say the cable is in service, so question 3a is not read as met and the stage stays 3.",
-      "as_at": "2026-11-05"
+      "gaps": "No source found says other operators buy capacity at the landing station or on the international routes, or that they run on open-access or wholesale terms.",
+      "note": "Reassessed 2026-11-09: the ACE landing and backbone links to Cameroon, Equatorial Guinea and Congo share no landing station (GAB-006), and the minister's four cables in service (GAB-005) are the four TM Africa names, 2Africa among them (GAB-002), the reading Djibouti's 2Africa rests on. Nothing says capacity is sold to other operators, so not 5.",
+      "as_at": "2026-11-09"
     }
   ]
 }
