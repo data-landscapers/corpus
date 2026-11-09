@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-mus-independence-allowance",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The Mauritius Revenue Authority says it pays the Rs 20,000 Independence Allowance to eligible youths into the bank account given in a one-time electronic application.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Independence Allowance",
+   "class": "g2p"
+  },
+  {
+   "sub_indicator": "g2p",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The MRA says eligibility requires registration on the Social Register of Mauritius and the application must include the youth's National Identity Card number.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Independence Allowance",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Independence Allowance",
+   "country_label": "Mauritius",
+   "class": "g2p",
+   "platform": "MRA e-services",
+   "owner": "Mauritius Revenue Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

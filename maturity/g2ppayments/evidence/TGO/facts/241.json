@@ -1,0 +1,36 @@
+{
+ "slug": "2026-03-25-tgo-wb-wuri-phase-2-restructuring-paper-res01578",
+ "facts": [
+  {
+   "sub_indicator": "g2p",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The World Bank says Togo's social payments platform uses the fID and the Novissi platform serves ANADEB's cash transfer programmes.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Novissi",
+   "class": "g2p"
+  },
+  {
+   "sub_indicator": "g2p",
+   "aspect": "linked",
+   "value": "linked",
+   "fact": "The World Bank says the e-ID is used to authenticate beneficiaries of ANADEB cash transfers on the Novissi platform.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Novissi",
+   "class": "g2p"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Novissi",
+   "country_label": "Togo",
+   "class": "g2p",
+   "platform": "",
+   "owner": "ANADEB",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

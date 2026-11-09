@@ -94,3 +94,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-06,DZA,dpi.pay--g2p-functionality,fact,unplaced,2,DZA-002,"CNAS-Algerie Poste convention of June 2024 to digitise benefit transfers to CCP accounts: contracted digital payment, unplaced to 2"
 2026-11-06,TZA,dpi.pay--g2p-functionality,fact,unplaced,3,TZA-002,"TASAF paid 60% of 896,746 households electronically Jul 2025-Mar 2026: a social transfer paid digitally, unplaced to 3"
 2026-11-07,TZA,dpi.pay--g2p-functionality,fact,3,5,TZA-004;TZA-002,"TZA-004: NIDA says its system lets TASAF verify beneficiaries against the national ID when paying electronically; question 4 met, stage 3 to 5"
+2026-11-09,MUS,dpi.pay--g2p-functionality,fact,no evidence,5,MUS-002;MUS-001,"MRA pays the 2025 Independence Allowance into bank accounts, eligibility tied to the Social Register and ID card number"
+2026-11-09,TGO,dpi.pay--g2p-functionality,fact,3,5,TGO-006;TGO-005;TGO-001,World Bank 2026: ANADEB cash transfers run on Novissi with beneficiaries authenticated by the e-ID; second stream beside pensions

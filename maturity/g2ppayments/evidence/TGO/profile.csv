@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-TGO,g2p,payment,coverage,inservice,2026-07,TGO-001;TGO-002;TGO-003,TGO-004=underway,
+TGO,g2p,payment,coverage,inservice,2026-07,TGO-001;TGO-002;TGO-003;TGO-005,TGO-004=underway,
 TGO,g2p,streams,coverage,,,,,nothing found
-TGO,g2p,linked,coverage,,,,,nothing found
+TGO,g2p,linked,coverage,linked,2026-03,TGO-006,,

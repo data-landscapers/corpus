@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "no evidence",
-      "payment": "",
+      "stage": "5",
+      "payment": "inservice",
       "streams": "",
-      "linked": "",
+      "linked": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says how government pays people.",
-      "note": "No evidence row on government payments to people is held, so no stage is set.",
-      "as_at": "2026-11-05"
+      "stage_sources": "MUS-002;MUS-001",
+      "gaps": "No source found since October 2023 shows civil service salaries or pensions paid digitally.",
+      "note": "The MRA pays the 2025 Independence Allowance into bank accounts and requires the youth to be on the Social Register, with the ID card number: a payment checked against a social registry, so 5 by a later yes. Only one stream is shown.",
+      "as_at": "2026-11-09"
     }
   ]
 }

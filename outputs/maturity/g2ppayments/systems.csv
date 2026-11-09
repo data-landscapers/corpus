@@ -128,6 +128,7 @@ MOZ,PASD-PE,Post-Emergency Direct Social Assistance Program,g2p,"SPA, M-Pesa wal
 MOZ,campaign worker databases for digital payment,Mozambique,other,,Dimagi Inc. (implementer),,2024-12-19-crs-1601-2024012782-09-2024-campaign-worker-databases-to-facilitate-rapid-digi
 MRT,TEKAVOUL,Mauritania,g2p,,Taazour (Delegation Generale a la Solidarite Nationale et a la Lutte contre l'Exclusion),regular conditional transfers; Tekavoul Choc temporary unconditional transfers,2024-05-15-mrt-decret-2024-073-creation-programme-tekavoul-registre-social
 MRT,Registre Social,Mauritania,other,,,,2024-05-15-mrt-decret-2024-073-creation-programme-tekavoul-registre-social
+MUS,Independence Allowance,Mauritius,g2p,MRA e-services,Mauritius Revenue Authority,,2025-01-01-mus-independence-allowance
 MWI,SCTP and CS-EPWP e-payments,Malawi,g2p,"e-wallets via TNM, Airtel, FDH, Standard Bank, Wealthnet Finance (Kaku Pay), NBS Bank",NLGFC,,2025-03-21-ssrlp-inspire-o-aide-memoire
 MWI,Unified Beneficiary Registry,Malawi,other,,Government of Malawi,,2025-03-21-ssrlp-inspire-o-aide-memoire
 MWI,Malawi Police electronic traffic fine payment,MWI,other,,,,2026-09-04-itwebafrica-malawi-police-digital-traffic-fines
@@ -211,6 +212,7 @@ TGO,PayHub,Togo,other,digital platform for registering Mobile Money numbers,,,20
 TGO,PI-SPI,Togo,other,instant payment system,BCEAO,,2025-11-18 BCEAO Launches Developer Sandbox for Instant Payments
 TGO,Mixx by Yas,Togo,other,mobile money,,,2026-06-16-tgo-pensions-de-retraite-la-crt-met-fin-aux-paiements-en-especes
 TGO,Flooz,Togo,other,mobile money,Moov Africa Togo,,2026-06-16-tgo-pensions-de-retraite-la-crt-met-fin-aux-paiements-en-especes
+TGO,Novissi,Togo,g2p,,ANADEB,,2026-03-25-tgo-wb-wuri-phase-2-restructuring-paper-res01578
 TUN,PAPSS,Tunisia,other,,,,2025-02-01-tunisian-banks-urged-to-join-pan-african-papss-system
 TUN,AMEN Social Program,Tunisia,g2p,social registry with proxy-means test and unique identifier,Ministry of Social Affairs,,2024-04-26-worldbank-tunisie-amen-protection-sociale-teri
 TUN,Tunisian Post e-wallet payment card,Tunisia,g2p,e-wallet card,Tunisian Post,,2024-04-26-worldbank-tunisie-amen-protection-sociale-teri

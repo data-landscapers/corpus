@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "3",
+      "stage": "5",
       "payment": "inservice",
-      "streams": "",
-      "linked": "",
+      "streams": "several",
+      "linked": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "TGO-001",
-      "gaps": "No source found since October 2023 shows two or more main government payment streams paid digitally.",
-      "note": "CGAR paid its first retirement allowances by bank transfer and mobile money in July 2026, so stage 3. Novissi's mobile payments date from 2020 and set nothing.",
-      "as_at": "2026-11-05"
+      "stage_sources": "TGO-006;TGO-005;TGO-001",
+      "gaps": "No source found since October 2023 shows civil service salaries paid digitally.",
+      "note": "CGAR pays retirement allowances by bank transfer and mobile money (2026), and the World Bank says ANADEB's cash transfers run on the Novissi platform (2026): two streams. The e-ID authenticates those beneficiaries, so every rung is shown.",
+      "as_at": "2026-11-09"
     }
   ]
 }

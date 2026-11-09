@@ -20,13 +20,13 @@ The African Union's Digital Transformation Strategy asks governments to digitise
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 11 |
+| 5 Leading | 13 |
 | 4 Operating | 6 |
-| 3 Established | 22 |
+| 3 Established | 21 |
 | 2 Nascent | 8 |
 | 1 Absent | 0 |
 | Unplaced | 4 |
-| No evidence | 3 |
+| No evidence | 2 |
 
 ## Countries
 
@@ -64,6 +64,13 @@ Government payments to people were checked against the national ID or social reg
 
 - Decree 2024-073 (Article 11 and Article 13) makes every poor or vulnerable household enrolled in the Registre Social eligible for Tekavoul regular and shock-response cash transfers, within a national quota set by the Government ([source, 2024-05-15](https://faolex.fao.org/docs/pdf/mau229659.pdf)).
 
+### Mauritius: 5 Leading
+
+A youth allowance was paid into bank accounts and checked against the social register in 2025; whether salaries or pensions go digitally is not known.
+
+- The MRA says eligibility requires registration on the Social Register of Mauritius and the application must include the youth's National Identity Card number ([source, 2025](https://www.mra.mu/index.php/eservices1/financial-assistance/independence-allowance)).
+- The Mauritius Revenue Authority says it pays the Rs 20,000 Independence Allowance to eligible youths into the bank account given in a one-time electronic application ([source, 2025](https://www.mra.mu/index.php/eservices1/financial-assistance/independence-allowance)).
+
 ### Morocco: 5 Leading
 
 Direct social support was paid into accounts and checked against the social register in 2025; whether salaries are paid digitally is not known.
@@ -98,6 +105,14 @@ TASAF grants were paid digitally and checked against the national ID in 2026; wh
 
 - NIDA says its system lets TASAF verify beneficiaries when making electronic payments, so only intended recipients are paid ([source, 2026-09-01](https://nida.go.tz/uploads/speeches/20260911123900_doc.pdf)).
 - TASAF reported to parliament (via the minister) that of 896,746 beneficiary households paid TZS 43.5 billion from July 2025 to March 2026, 535,536 households (60%) received grants electronically through mobile networks and bank accounts ([source, 2026-03](https://www.tasaf.go.tz/news/tasaf-disburses-sh43-5-billion-to-beneficiary-households-government-sets-new-strategies)).
+
+### Togo: 5 Leading
+
+Pensions and social cash transfers were paid digitally in 2026, beneficiaries checked against the national ID; whether salaries are paid digitally is not known.
+
+- The World Bank says the e-ID is used to authenticate beneficiaries of ANADEB cash transfers on the Novissi platform ([source, 2026-03](https://documents1.worldbank.org/curated/en/099032526174532318/pdf/P169594-5fd6786a-2b45-425b-95b6-0e79d792a6fb.pdf)).
+- The World Bank says Togo's social payments platform uses the fID and the Novissi platform serves ANADEB's cash transfer programmes ([source, 2026-03](https://documents1.worldbank.org/curated/en/099032526174532318/pdf/P169594-5fd6786a-2b45-425b-95b6-0e79d792a6fb.pdf)).
+- CGAR paid its first retirement allowances in July 2026 by bank transfer and Mobile Money, with beneficiaries to supply payment details by 31 August 2026 ([source, 2026-07](https://actu-togo.tg/2026/08/04/togo-paiements-des-allocations-de-retraite-les-beneficiaires-invites-a-utiliser-le-numero-vert-8220/)).
 
 ### Uganda: 5 Leading
 
@@ -272,12 +287,6 @@ Public workers' pay was moved onto bank accounts in 2026; no source found says w
 
 - Sudan's finance ministry says Council of Ministers decisions 149 and 150 require workers' entitlements to be paid through bank accounts, and that this has been put into effect ([source, 2026-04-11](https://spokesperson-sd.com/ar/archives/39743)).
 
-### Togo: 3 Established
-
-A government programme paid people digitally in 2026; no source found reports a second main stream.
-
-- CGAR paid its first retirement allowances in July 2026 by bank transfer and Mobile Money, with beneficiaries to supply payment details by 31 August 2026 ([source, 2026-07](https://actu-togo.tg/2026/08/04/togo-paiements-des-allocations-de-retraite-les-beneficiaires-invites-a-utiliser-le-numero-vert-8220/)).
-
 ### Tunisia: 3 Established
 
 A government programme paid people digitally in 2024; no source found reports a second main stream.
@@ -367,12 +376,6 @@ Nothing found since 2023 names digital government payments to people, so no stag
 Not established: Nothing found since October 2023 says whether government pays people digitally.
 
 ### Equatorial Guinea: No evidence
-
-Nothing found names digital government payments to people or says there is none, so no stage is set.
-
-Not established: Nothing found says how government pays people.
-
-### Mauritius: No evidence
 
 Nothing found names digital government payments to people or says there is none, so no stage is set.
 
