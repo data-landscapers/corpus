@@ -1,12 +1,12 @@
 ---
 title: Gabon: status report
-compiled: 2026-11-08
+compiled: 2026-11-09
 place: GAB
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 229
+sources_cited: 231
 sections_written: 39
 not_established: 0
 acquire_lines: 35
@@ -47,7 +47,7 @@ The [World Bank's GovTech Maturity Index 2025 update](https://www.worldbank.org/
 ### Regional collaboration
 <!-- gov.regional -->
 
-[GIMACPAY, the CEMAC regional instant payment system, has been live since July 2020](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf). [Gabon's payments build sits on it; GIMAC runs it, with the central bank BEAC as majority owner and settlement agent](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf). [It treats cross-border transfers within the monetary union on the same basis as domestic ones](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf). The backbone was built under the [regional Central African Backbone programme, whose Gabon operation closed in 2020](https://projects.worldbank.org/en/projects-operations/project-detail/P158299).
+[GIMACPAY, the CEMAC regional instant payment system, has been live since July 2020](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf). [Gabon's payments build sits on it; GIMAC runs it, with the central bank BEAC as majority owner and settlement agent](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf). [It treats cross-border transfers within the monetary union on the same basis as domestic ones](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf). The backbone was built under the [regional Central African Backbone programme, whose Gabon operation closed in 2020](https://projects.worldbank.org/en/projects-operations/project-detail/P158299). [Under it the backbone was linked to Cameroon's state network at Meyo-Kye in July 2021](https://spin.ga/interconnexion-des-reseaux-de-transmission-numerique-entre-le-gabon-et-le-cameroun/).
 
 [Regional Integration scored 25.4 of 100 in 2023, 46th of 54 African states, despite rising 9.7 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ga.pdf). [ECCAS is Gabon's only regional economic community membership](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ga.pdf). [In October 2026 Gabon signed a host-country agreement with the African Union for its technical committee on communication and ICT](https://techafricanews.com/2026/10/27/gabon-african-union-host-country-agreement-digital-cooperation/). [The committee's sixth session opened in Libreville](https://techafricanews.com/2026/10/27/gabon-african-union-host-country-agreement-digital-cooperation/).
 
@@ -114,7 +114,7 @@ In December 2021 [MIGA approved about US$28 million of political-risk cover over
 <!-- derived -->
 Twenty-one commitments and pledges are on the record, made between 2015 and 2026 by twelve financiers (November 2026). They come to about US$552 million (November 2026), of which US$287 million is five World Bank loans and US$234 million is a Huawei smart-cities memorandum, a pledge and not a financing agreement. Thirteen are grants, together worth under US$2 million (November 2026). Four commitments are active, three completed, one approved and one in the pipeline; twelve carry no recorded status.
 
-[The lender's restructuring paper of June 2026 records US$13.38m disbursed by 31 May 2026](https://documents1.worldbank.org/curated/en/099062726133542471/pdf/P175987-e83bc197-693c-4c5b-bf60-39949daa03f8.pdf). [It rates progress towards the objective moderately unsatisfactory and leaves the civil-registration digitisation component unchanged](https://documents1.worldbank.org/curated/en/099062726133542471/pdf/P175987-e83bc197-693c-4c5b-bf60-39949daa03f8.pdf).
+[The lender's restructuring paper of June 2026 records US$13.38m disbursed by 31 May 2026](https://documents1.worldbank.org/curated/en/099062726133542471/pdf/P175987-e83bc197-693c-4c5b-bf60-39949daa03f8.pdf). [It rates progress towards the objective moderately unsatisfactory and leaves the civil-registration digitisation component unchanged](https://documents1.worldbank.org/curated/en/099062726133542471/pdf/P175987-e83bc197-693c-4c5b-bf60-39949daa03f8.pdf). [The amendment implementing it took effect on 2 September 2026, adding health-insurance system maintenance, fibre studies and an electronic-document system](https://documents1.worldbank.org/curated/en/099090226132027563/pdf/P175987-8dfb5a41-ff83-4fc0-a597-c588997e88ba.pdf).
 
 ## ICT Infrastructure
 
