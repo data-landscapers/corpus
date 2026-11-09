@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-19-zwe-zimra-commissions-tarms-zimbabwe-s-new-digital-tax-system",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ZIMRA says more than 1.2 million Taxpayer Identification Numbers have been issued through TaRMS, which handles TIN registration, with over 184,000 active taxpayers.",
+   "as_of": "2025-08-18",
+   "date_precision": "day",
+   "system": "TaRMS",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TaRMS",
+   "country_label": "Zimbabwe",
+   "class": "tax",
+   "platform": "open technologies, ZIMRA has source code access",
+   "owner": "ZIMRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
