@@ -1,0 +1,15 @@
+{
+ "slug": "2024-06-16-zwe-passport-id-applications-go-online",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Zimbabwe Population Registry System (ZPRS)",
+   "country_label": "Zimbabwe",
+   "class": "identity",
+   "platform": "",
+   "owner": "Civil Registry Department",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a planned hospital link for instant birth and death registration; no office entry stated."
+}

@@ -136,7 +136,7 @@ Births were registered digitally at 97 hospital registry points in 2025; no sour
 
 ### Cote d'Ivoire: 3 Established
 
-In March 2026 the registrar said 98 per cent of civil status centres were computerised and connected; no source says whether any registers births digitally.
+In March 2026 the registrar said 98 per cent of civil status centres were computerised; the share registering births digitally is not known.
 
 *Advancing; Backlog capture; Identity integrated.*
 

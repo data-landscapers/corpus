@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-16-civ-le-dg-de-l-oneci-echange-avec-la-presse-nationale",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "made",
+   "value": "connected",
+   "fact": "ONECI's director general says 298 civil-status centres are connected to the centralised City Web system for registering civil-status events.",
+   "as_of": "2024-07-15",
+   "date_precision": "day",
+   "system": "City Web",
+   "class": "civil"
+  },
+  {
+   "sub_indicator": "civil",
+   "aspect": "offices",
+   "value": "count:298",
+   "fact": "ONECI's director general says 298 civil-status centres are already connected to City Web, in its generalisation phase.",
+   "as_of": "2024-07-15",
+   "date_precision": "day",
+   "system": "City Web",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "City Web",
+   "country_label": "Côte d'Ivoire",
+   "class": "civil",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
