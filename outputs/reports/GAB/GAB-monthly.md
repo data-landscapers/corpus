@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Oct – Nov 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: GAB
-ledger_rows: 35
+ledger_rows: 36
 not_held: 12
-record: 39d4a46d899e
+record: 6675a5afbccc
 ---
 
 # News, Oct – Nov 2026
@@ -459,6 +459,20 @@ Gabon's economy ministry launched the Fichier unique des participations, a digit
 **[Douanes : le Gabon passe au contrôle numérique](https://fr.infosgabon.com/douanes-le-gabon-passe-au-controle-numerique/)** — Infos Gabon, 6 October 2026
 
 IKA Technologie presented on 29 September 2026 the integrated customs operations management system it is building for Gabon under the Gabon Connect project. Its first lot covers customs clearance of minerals and the special hydrocarbons warehouse. No cost or go-live date is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AGRI-TRACK 241 agricultural data platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon/Agriculture : AGRI-TRACK 241, une plateforme numérique pour accompagner la filière avicole](https://agpgabon.ga/gabon-agriculture-agri-track-241-une-plateforme-numerique-pour-accompagner-la-filiere-avicole/)** — Agence Gabonaise de Presse, 7 November 2026
+
+Farm-data platform under 3 Nov 2026 ministerial protocol; SYSTEP module for 150 poultry farms before 2027 import halt.
 
 </div>
 
