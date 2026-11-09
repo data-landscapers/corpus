@@ -153,7 +153,9 @@ No later coverage, enrolment or performance figure is held, and the independent 
 
 2024-09 — the prime minister said [the home affairs department had issued no identity cards for over a year, and that 120,000 cards had arrived from a manufacturer now contracted directly](2024-09-21-lso-lestimes-pm-allays-fears-passports-ids).
 
-2024-12-30 — [the systems contract was terminated, and the supplier is now suing for unpaid fees](2025-10-30-lso-lestimes-nikuv-sues-govt-m39m) (October 2025).",LSO-dpi.id-nationalid|LSO-dpi.id-nikuv-contract,3,LSO-dpi.id-nationalid,,,,,,,2026-08-31,0,"In operation per 2022 World Bank case study; no assurance level, audit or certification"
+2024-12-30 — [the systems contract was terminated, and the supplier is now suing for unpaid fees](2025-10-30-lso-lestimes-nikuv-sues-govt-m39m) (October 2025).
+
+2025-08-01 - the financial intelligence unit [reported that the register's verification portal shows no faces, that not all lenders can use it and that unprinted card stock was pilfered](2025-08-01-lso-strategic-report-on-the-prevalent-identity-theft-fraud).",LSO-dpi.id-nationalid|LSO-dpi.id-nikuv-contract|LSO-dpi.id-nicr-verification-portal,3,LSO-dpi.id-nationalid,,,,,,,2026-08-31,0,"In operation per 2022 World Bank case study; no assurance level, audit or certification"
 dpi.id--national-maintenance-of-id-and-credentials-systems,Movement,A [2026 work plan with UNICEF](2026-03-03-lesotho-unicef-mosip-national-id-biometricupdate) commits to a MOSIP-based national identity platform covering passport and identity renewal and proof-of-life verification.,"The work plan was signed by the ministry and UNICEF on 3 March 2026, covering passport and identity renewal, biometric registration and proof-of-life verification on a MOSIP base ([work plan](2026-03-03-lesotho-unicef-mosip-national-id-biometricupdate)).
 
 Digital identity pilots had begun under the memorandum with India, with no platform then named ([memorandum](2025-07-29-lesotho-india-dpi-mou-publiceye)), and the systems under development were reviewed with the national university in February 2026 ([review](2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE)). No procurement, vendor or go-live date is published.
@@ -489,7 +491,9 @@ dpi.id--use-by-other-systems,Movement,"The identity number is [in use for custom
 
 2025-08-26 — [a framework workshop set out identity-verified access to services](2025-08-26-lesotho-dpi-framework-workshop-lena), the earliest in-window statement of the design.
 
-What the repository does not hold is a transaction figure: how often the identity is actually checked, by whom, and at what cost to the relying party.",LSO-dpi.id-id-in-financial-services|LSO-dpi.id-mosip|LSO-dpi.id-servicepilot,2,LSO-dpi.id-servicepilot,,,,,,,2026-08-31,0,Service-ID pilot keyed on the national ID; no public register keyed on it on record here
+What the repository does not hold is a transaction figure: how often the identity is actually checked, by whom, and at what cost to the relying party.
+
+2026-05 - a central bank official [said revised know-your-customer rules let pensioners verify with the national identity card alone](2026-05-14-lso-id4africa-panel-outlines-steady-kyc-process-policy-improvement).",LSO-dpi.id-id-in-financial-services|LSO-dpi.id-mosip|LSO-dpi.id-servicepilot|LSO-dpi.id-pensioner-kyc-national-id-rule,2,LSO-dpi.id-servicepilot,,,,,,,2026-08-31,0,Service-ID pilot keyed on the national ID; no public register keyed on it on record here
 dpi.pay--b2b-and-b2g-functionality,Movement,The [national e-invoicing platform is rolling out with business-to-business and business-to-government invoicing](2026-08-12-lesotho-lekuka-e-invoicing-system).,"2023-03-14 — [the revenue authority launched its e-payment and e-taxation platform](2023-03-14-lesotho-rsl-e-payment-e-taxation-launch), the operative business-to-government rail.
 
 2026-02-10 — [a payment gateway with a commercial bank went live for tax settlement](2026-02-10-lesotho-rsl-standard-lesotho-bank-payment-integration).
