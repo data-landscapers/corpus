@@ -1,11 +1,11 @@
 ---
 title: Namibia — News, Oct – Nov 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: NAM
-ledger_rows: 15
+ledger_rows: 16
 not_held: 9
-record: 05e062f0a1c4
+record: 6e6cd491efa2
 ---
 
 # News, Oct – Nov 2026
@@ -131,6 +131,20 @@ Cornelia Shipindo became Executive of the Namibia Cyber Security Incident Respon
 **[Namibia strengthens digital trust](http://marketwatch.com.na/market-watch/namibia-strengthens-digital-trust-nmh017323-3015-21284)** — Market Watch (Namibia Media Holdings), 4 October 2026
 
 Namibia's communications regulator launched DigiNam in Windhoek on 31 August as the public face of the national public key infrastructure, for which the regulator is root certification authority. It is meant to support electronic signatures, digital identity and authenticated online transactions under the Electronic Transactions Act of 2019.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Detected vulnerabilities and cyber events</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Namibian cybersecurity risks remain elevated – NAM-CSIRT](https://neweralive.na/namibian-cybersecurity-risks-remain-elevated-nam-csirt/)** — New Era, 6 November 2026
+
+Vulnerabilities down 1.5% on Q2, events up 0.93%; Open CWMP 320,664 detections; Telnet, SNMP, RDP exposure rising.
 
 </div>
 
