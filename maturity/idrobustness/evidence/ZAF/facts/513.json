@@ -1,0 +1,44 @@
+{
+ "slug": "2025-11-05-zaf-question-nw4978-to-the-minister-of-home-affairs",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Department of Home Affairs describes the Home Affairs National Identification System (HANIS), Smart ID cards and the National Population Register as in operation, with ID numbers allocated for life.",
+   "as_of": "2025-11-05",
+   "date_precision": "day",
+   "system": "HANIS",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "The Department of Home Affairs says ABIS has been commissioned with fingerprints, face, iris, palm and infant footprint and de-duplicates on face first, fingerprints second.",
+   "as_of": "2025-11-05",
+   "date_precision": "day",
+   "system": "ABIS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "HANIS",
+   "country_label": "South Africa",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  },
+  {
+   "system": "ABIS",
+   "country_label": "South Africa",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

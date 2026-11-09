@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-16-gab-p175987-amendment-letter-loan-agreement-digital-gabon",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The amended Digital Gabon financing agreement (effective 2 September 2026) finances development and implementation of an RBPP System to issue unique ID credentials, with NIP enrolment and a national ID card production system.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "RBPP System",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-29-sdn-press-statement-sudanese-cybersecurity-authority-sca",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Sudanese Cybersecurity Authority says the national digital identity platform SUDAPASS has been developed and operated to security requirements.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "SUDAPASS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SUDAPASS",
+   "country_label": "Sudan",
+   "class": "idsystem",
+   "platform": "National Digital Identity Platform",
+   "owner": "Sudanese Cybersecurity Authority; keys and certificates with NADC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

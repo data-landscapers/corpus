@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-27-zaf-question-no481-to-the-minister-of-home-affairs",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The Minister of Home Affairs says the department has begun migrating its biometric and identity infrastructure into a new SARS-supported data centre as the foundation of the planned Digital Identity platform, with procurement and implementation preparations being finalised.",
+   "as_of": "2026-05-27",
+   "date_precision": "day",
+   "system": "Digital Identity platform",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Identity platform",
+   "country_label": "South Africa",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

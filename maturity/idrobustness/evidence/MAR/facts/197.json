@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-09-mar-digitalisation-mon-e-id-de-la-dgsn-enregistre-plus-de-5-millions-d-ope",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "DGSN says every Moroccan citizen holds a physical identity based on the national identity card, from which a digital identity is derived.",
+   "as_of": "2024-02-09",
+   "date_precision": "day",
+   "system": "Carte d'identité nationale",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": "Facial recognition is used to authenticate, not stated to stop double enrolment; no certification or audit."
+}

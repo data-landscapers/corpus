@@ -1,0 +1,34 @@
+{
+ "slug": "2023-12-31-gab-gabon-le-chantier-de-renovation-des-documents-d-identite-sur-les-rails",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "RFI reports Interior Minister Immongault announced a new national ID card with a personal identification number, to be made by Thales under the DGDI, with 45 enrolment sites, FCFA 2 billion budgeted and production from the first quarter of 2024.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "CNI and NIP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNI with NIP",
+   "country_label": "GAB",
+   "class": "idsystem",
+   "platform": "Thales chip card",
+   "owner": "DGDI",
+   "tiers": ""
+  },
+  {
+   "system": "IBOGA biometric file",
+   "country_label": "GAB",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

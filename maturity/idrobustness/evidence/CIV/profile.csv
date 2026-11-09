@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,robustness,system,coverage,inservice,2026-10-30,CIV-001;CIV-002;CIV-003;CIV-004;CIV-005;CIV-006;CIV-007;CIV-008;CIV-009;CIV-010;CIV-011;CIV-012;CIV-013;CIV-015;CIV-017;CIV-018,CIV-014=underway;CIV-016=underway,
+CIV,robustness,system,coverage,inservice,2026-10-30,CIV-001;CIV-002;CIV-003;CIV-004;CIV-005;CIV-006;CIV-007;CIV-008;CIV-009;CIV-010;CIV-011;CIV-012;CIV-013;CIV-015;CIV-017;CIV-018;CIV-019;CIV-020,CIV-014=underway;CIV-016=underway,
 CIV,robustness,biometric,coverage,,,,,nothing found
 CIV,robustness,assurance,coverage,,,,,nothing found

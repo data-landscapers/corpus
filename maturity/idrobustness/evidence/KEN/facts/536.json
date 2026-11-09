@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-04-ken-murkomen-announces-national-drive-to-accelerate-id-collection-digital",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Interior Cabinet Secretary Murkomen said he received his third-generation MAISHA number within five minutes of registering, and that 300 live capture machines are being procured toward all 1,450 wards.",
+   "as_of": "2025-10-03",
+   "date_precision": "day",
+   "system": "MAISHA",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MAISHA",
+   "country_label": "Kenya",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

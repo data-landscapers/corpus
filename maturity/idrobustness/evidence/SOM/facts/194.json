@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-15-som-from-exclusion-to-identity",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "UNDP Somalia says NIRA's national ID system, launched in September 2023, had registered over 1 million Somalis with biometric digital identity by November 2025.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Somali National ID system (NIRA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Somali National ID system",
+   "country_label": "Somalia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": "No statement that biometrics check against duplicate enrolment, and no certification or audit."
+}

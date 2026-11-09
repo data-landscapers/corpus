@@ -2,3 +2,6 @@ iso3,n,aspect,value,action,why
 MUS,003,assurance,certified,removed,First pass: a rule requiring an audit every three years is not an audit on record
 GHA,015,system,underway,removed,"Stage 4c: a funded plan for an AI identity system, not a national ID register procured or being built"
 TZA,021,system,inservice,removed,"Stage 4c: a key factor for success on a NIDA slide, not a statement that everyone holds Jamii Namba"
+ETH,031,system,underway,removed,"Stage 4c: a minister naming Fayda's launch, not a statement that the system is procured, built or piloted"
+COD,021,system,inservice,removed,"Stage 4c: RDC-PASS launched, with nothing stated of credentials issued to each person"
+COD,022,system,inservice,removed,"Stage 4c: issuance in four pilot Kinshasa communes is a pilot, and repeats COD-012"

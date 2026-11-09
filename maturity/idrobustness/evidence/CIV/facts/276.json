@@ -1,0 +1,34 @@
+{
+ "slug": "2024-07-16-civ-le-dg-de-l-oneci-echange-avec-la-presse-nationale",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ONECI's director general says the RNPP gives each person living or passing through Côte d'Ivoire a unique national identification number (NNI), and that 7,348,142 ID cards were produced from 8,124,319 requests.",
+   "as_of": "2024-07-15",
+   "date_precision": "day",
+   "system": "RNPP",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNPP",
+   "country_label": "Côte d'Ivoire",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  },
+  {
+   "system": "City Web",
+   "country_label": "Côte d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

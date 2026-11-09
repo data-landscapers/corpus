@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-16-tza-nida-yapongezwa-kumaliza-kero-ya-vitambulisho",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Deputy Minister Sagini said NIDA had printed 20,548,067 national ID cards and distributed 19,743,367 by February 2024 for people registered and given a national identification number (NIN).",
+   "as_of": "2024-02",
+   "date_precision": "month",
+   "system": "National ID (NIN and card)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": "Iris and face verification for people without usable fingerprints is only a strategy being prepared; no certification or audit."
+}

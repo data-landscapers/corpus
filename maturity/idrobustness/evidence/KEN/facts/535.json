@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-28-ken-project-profile-the-in-between-lives-of-the-double-registered",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Elephant says the Maisha system issues the Maisha Number, a unique lifetime personal identifier, and the Maisha Card replacing earlier national ID cards, on top of the IPRS-AFIS infrastructure.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Maisha Integrated Identity System",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "The Elephant says AFIS confirms fingerprint biometrics and detects duplicate or fraudulent registrations when ID applications are processed; an upgrade to ABIS adding face and iris is under way.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Automated Identification System (AFIS)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maisha Integrated Identity System",
+   "country_label": "Kenya",
+   "class": "idsystem",
+   "platform": "IPRS-AFIS",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

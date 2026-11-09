@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-07-mar-dgsn-bank-al-maghrib-identity-verification-protocol",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The 7 October 2024 communique refers to an existing electronic national identity card (CNIE) carrying embedded identification data, part of which is publicly readable, that the DGSN makes available for identity verification.",
+   "as_of": "2024-10-07",
+   "date_precision": "day",
+   "system": "Electronic CNIE",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Electronic CNIE",
+   "country_label": "Morocco",
+   "class": "other",
+   "platform": "",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

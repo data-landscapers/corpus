@@ -21,8 +21,8 @@ The African Union's interoperability framework asks that a national ID system ha
 | Stage | Countries |
 |---|---|
 | 5 Leading | 3 |
-| 4 Operating | 14 |
-| 3 Established | 35 |
+| 4 Operating | 16 |
+| 3 Established | 33 |
 | 2 Nascent | 2 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -107,12 +107,27 @@ The national ID system checked people by biometrics in 2024; no certification or
 - Semlex says the identity card system is based on biometric enrolment and a deduplication system that assigns a unique identity number ([source, 2024-07-01](https://www.semlex.com/en/2024/07/01/nouveau-centre-denrolement-a-bissau/)).
 - Semlex says Guinea-Bissau's identity card system issues a unique identity number to each citizen through biometric enrolment, with cards delivered in 48 hours in the capital and 7 days elsewhere ([source, 2024-07-01](https://www.semlex.com/en/2024/07/01/nouveau-centre-denrolement-a-bissau/)).
 
+### Kenya: 4 Operating
+
+The national ID system checked people by biometrics in 2026; no certification or audit is known.
+
+- The Elephant says AFIS confirms fingerprint biometrics and detects duplicate or fraudulent registrations when ID applications are processed; an upgrade to ABIS adding face and iris is under way ([source, 2026-05](https://www.theelephant.info/investigations/2026/05/28/project-profile-the-in-between-lives-of-the-double-registered/)).
+- The deck lists AFIS deduplication infrastructure and biometric enrolment in the identity lifecycle, with two fingerprints held on the card chip ([source, 2026-05](https://id4africa.com/2026/files/T1-1-3-Kenya-FINAL.pdf)).
+- National Registration Bureau secretary Gilbert Kitiyo said over 600,000 people without IDs have been registered since extra vetting in border counties ended, with first-time applications free ([source, 2026-09-17](https://radiogeneration.co.ke/news/114038/600000-secure-ids-after-government-drops-extra-vetting-in-border-counties)).
+
 ### Madagascar: 4 Operating
 
 The national ID system checked people by biometrics in 2026; no certification or audit is known.
 
 - The World Bank says teams collect fingerprints and iris scans, and identity is confirmed against a de-duplicated biometric database ([source, 2026-06-10](https://www.worldbank.org/en/news/feature/2026/07/01/no-longer-invisible-unlocking-legal-identity-for-millions-in-madagascar)).
 - The programme captures fingerprints, facial recognition and iris scans to ensure the uniqueness of each record and eliminate duplicate identities, TechAfrica News reports ([source, 2026-01-27](https://techafricanews.com/2026/01/30/national-biometric-enrolment-begins-paving-way-for-digital-inclusion-in-madagascar/)).
+
+### Niger: 4 Operating
+
+The national ID system checked people by biometrics in 2026; no certification or audit is known.
+
+- Enrolment captures fingerprints, face, voice and iris to build a digital model that the authorities say prevents identity theft and guarantees each citizen's uniqueness ([source, 2026-04-25](https://anp.ne/niger-lancement-officiel-de-la-carte-didentite-nationale-biometrique-aes-a-niamey/)).
+- Niger opened enrolment for the biometric national identity card CNIB AES in Agadez, collecting fingerprints and biometrics locally and sending files to Niamey for printing, with a five-year validity, per the Journal du Niger ([source, 2026-09-15](https://www.journalduniger.com/agadez-lancement-enrolement-carte-identite-biometrique-cnib-aes/)).
 
 ### Somalia: 4 Operating
 
@@ -252,13 +267,6 @@ The national ID system was issuing unique numbers in 2026; no source found repor
 - Enrolment centres of the biometric civil status reform are operating in Guinea, with MGG as the state's technical partner, and users are being enrolled for biometric documents, which the authorities announced as free, per MGG ([source, 2026-07](https://www.infosbruts.com/etat-civil-biometrique-en-guinee-mgg-denonce-des-pratiques-de-racket-et-appelle-a-une-reaction-des-autorites/)).
 - ID Tech Wire reports that biometric national ID card enrolment, free for first-time applicants aged 16 and over, began in Sanoyah commune on MOSIP and TECH5 infrastructure ([source, 2026-03-02](https://idtechwire.com/guinea-launches-biometric-birth-certificates-in-sanoyah-in-civil-registry-modernization-push)).
 
-### Kenya: 3 Established
-
-The national ID system was issuing unique numbers in 2026; no source found reports biometric checks.
-
-- National Registration Bureau secretary Gilbert Kitiyo said over 600,000 people without IDs have been registered since extra vetting in border counties ended, with first-time applications free ([source, 2026-09-17](https://radiogeneration.co.ke/news/114038/600000-secure-ids-after-government-drops-extra-vetting-in-border-counties)).
-- Principal Secretary Belio Kipsang said 600 live-capture biometric devices let new national identity cards be issued in 10 days, one day in Nairobi ([source, 2026-06-26](https://www.kenyanews.go.ke/govt-enhances-registration-of-persons-through-new-technology/)).
-
 ### Lesotho: 3 Established
 
 The national ID system was issuing unique numbers in 2025; no source found reports biometric checks.
@@ -321,13 +329,6 @@ The national ID system was issuing unique numbers in 2026; no source found repor
 
 - The Ministry of Home Affairs says the new electronic ID card is being rolled out nationwide and issued free to first-time applicants and renewals ([source, 2026-07-29](https://www.namibian.com.na/ministry-of-home-affairs-clarifies-e-id-costs/)).
 - Existing identity cards stay legally valid until withdrawn by gazette, and the E-ID is built on the national population register ([source, 2026-07-25](https://informante.web.na/?p=398234)).
-
-### Niger: 3 Established
-
-The national ID system was issuing unique numbers in 2026; no source found reports biometric checks.
-
-- ActuNiger says the AES passport launch came a few months after the launch of the biometric national identity card (CNIB) ([source, 2026-09](https://actuniger.com/politique/22354-lancement-officiel-du-passeport-biometrique-aes-le-niger-se-dote-dun-nouveau-document-de-voyage.html)).
-- Niger opened enrolment for the biometric national identity card CNIB AES in Agadez, collecting fingerprints and biometrics locally and sending files to Niamey for printing, with a five-year validity, per the Journal du Niger ([source, 2026-09-15](https://www.journalduniger.com/agadez-lancement-enrolement-carte-identite-biometrique-cnib-aes/)).
 
 ### Rwanda: 3 Established
 

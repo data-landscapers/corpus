@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-sle-the-low-drive-for-national-identification-system-in-sierra-leone",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Concord Times reports NCRA has issued the biometric National Identity Card with a unique NIN to residents since its January 2023 launch.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National Identity Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Card",
+   "country_label": "Sierra Leone",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NCRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

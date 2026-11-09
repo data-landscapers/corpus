@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-11-caf-centre-de-la-rca-a-bambari-les-populations-soulagees-de-pouvoir-enfin",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "RFI reports the national identity card is issued at Bambari from July 2024 as well as Bangui, with photo and fingerprint capture mandatory at the office of al-Madina, the body that makes the card.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "Carte nationale d'identite (CNI)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

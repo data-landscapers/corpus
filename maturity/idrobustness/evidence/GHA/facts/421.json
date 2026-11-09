@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-27-gha-ghana-card-registration-nia-uncovers-over-100k-double-registration-app",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIA Executive Secretary Kenneth Attafuah told Parliament's Government Assurance Committee that 18,145,839 people were registered on the national identity register and 17,323,416 Ghana Cards issued as at 20 August 2024.",
+   "as_of": "2024-08-20",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana Card",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

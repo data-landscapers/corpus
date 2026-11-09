@@ -94,3 +94,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-08,ZAF,dpi.id--robustness-of-system,review,4,4,ZAF-004;ZAF-028,Rebuild: first-pass cell re-read against the ladder; stays 4
 2026-11-08,ZMB,dpi.id--robustness-of-system,review,3,3,ZMB-004;ZMB-010,Rebuild: first-pass cell re-read against the ladder; stays 3
 2026-11-08,ZWE,dpi.id--robustness-of-system,review,3,3,ZWE-002;ZWE-003,Rebuild: first-pass cell re-read against the ladder; stays 3
+2026-11-09,KEN,dpi.id--robustness-of-system,fact,3,4,KEN-019;KEN-017;KEN-005,"AFIS detects duplicate registrations from fingerprints (The Elephant, May 2026; ID4Africa deck): 3 -> 4"
+2026-11-09,NER,dpi.id--robustness-of-system,fact,3,4,NER-025;NER-002,"AES card enrolment takes fingerprints, face and iris to guarantee each citizen's uniqueness (April 2026): 3 -> 4"

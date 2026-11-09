@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-16-mli-identification-un-nouveau-systeme-biometrique-lance-pour-la-souveraine",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Mali's Ministry of Territorial Administration says full biometric enrolment functions resumed on 14 February 2024 under Mali Kura Biometrie, the RAVEC system, with national NINA numbers issued from the RAVEC database.",
+   "as_of": "2024-02-14",
+   "date_precision": "day",
+   "system": "RAVEC / NINA",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RAVEC",
+   "country_label": "Mali",
+   "class": "idsystem",
+   "platform": "Mali Kura Biometrie",
+   "owner": "Ministry of Territorial Administration and Decentralisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

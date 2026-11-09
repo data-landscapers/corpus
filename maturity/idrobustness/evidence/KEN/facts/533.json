@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-01-ken-the-kenya-digital-identity-playbook-identity-as-foundation-of-digital",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The deck says Kenya has a biometric-enabled national identity database and has produced over 6 million electronic ID (Maisha) cards since October 2023.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Maisha Namba / National Registration Bureau",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "The deck lists AFIS deduplication infrastructure and biometric enrolment in the identity lifecycle, with two fingerprints held on the card chip.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "AFIS deduplication",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National identity database / Maisha card",
+   "country_label": "Kenya",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

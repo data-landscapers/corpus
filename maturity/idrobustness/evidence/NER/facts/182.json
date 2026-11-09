@@ -1,0 +1,36 @@
+{
+ "slug": "2026-04-25-ner-niger-lancement-officiel-de-la-carte-d-identite-nationale-biometrique",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Niger's Ministry of the Interior launched general enrolment for the AES national biometric identity card on 25 April 2026 at Yantala police station in Niamey, to extend to all 20 Niamey stations and then the rest of the country.",
+   "as_of": "2026-04-25",
+   "date_precision": "day",
+   "system": "AES national biometric identity card",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "Enrolment captures fingerprints, face, voice and iris to build a digital model that the authorities say prevents identity theft and guarantees each citizen's uniqueness.",
+   "as_of": "2026-04-25",
+   "date_precision": "day",
+   "system": "AES national biometric identity card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AES national biometric identity card",
+   "country_label": "Niger",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Ministry of the Interior",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

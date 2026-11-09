@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-09-eth-fayda-id-required-for-addis-ababa-school-registration",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The National ID Program's communications specialist says over 21 million Ethiopians have been registered for the Fayda digital ID, each given a 16-digit number, with fingerprints taken at enrolment from age 5.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "Fayda",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Fayda",
+   "country_label": "Ethiopia",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National ID Program",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

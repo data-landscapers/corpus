@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-21-gha-nia-has-registered-over-19-4-million-ghanaians-executive-secretary",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "NIA says it has registered over 19.4 million people aged 15 and above and issued over 18.7 million Ghana Cards.",
+   "as_of": "2026-05-21",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ghana Card",
+   "country_label": "Ghana",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

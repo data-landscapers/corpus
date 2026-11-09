@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-19-zaf-pmg-nw6103-duplicate-missing-id-numbers",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The Minister of Home Affairs says each ID number on the National Population Register is assigned to a person, with no missing or unlinked numbers, though it has no figure for duplicates.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

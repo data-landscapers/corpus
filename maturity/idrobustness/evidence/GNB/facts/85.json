@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-19-gnb-expansion-of-identification-centers",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Guinea-Bissau issues national identity cards (CNI) after biometric enrolment, each citizen being assigned a unique identity number managed by the Ministry of Justice, with new Semlex enrolment centres opened at Farim and Bissora in September 2024, says Semlex.",
+   "as_of": "2024-09-19",
+   "date_precision": "day",
+   "system": "National identity card (CNI) system",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

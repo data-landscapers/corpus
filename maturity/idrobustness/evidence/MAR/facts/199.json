@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-mar-country-playbook-maroc-souverainete-et-inclusion-numerique",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "DGSN's playbook presents the CNIE national identity card as the single reference at the centre of Morocco's digital identity architecture, in use by 5 million platform users.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "CNIE",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CNIE",
+   "country_label": "Morocco",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "DGSN",
+   "tiers": ""
+  }
+ ],
+ "note": "Fingerprint is used to authenticate, not stated to stop double enrolment; no certification or audit."
+}

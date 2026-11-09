@@ -1,0 +1,36 @@
+{
+ "slug": "2024-06-25-nga-nigeria-s-nimc-fights-off-data-breach-accusations-flags-5-data-harvest",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Biometric Update reports registrations in Nigeria's national digital ID database were just over 107 million as of April 2024.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "National Identity Database (NIN)",
+   "class": "idsystem"
+  },
+  {
+   "sub_indicator": "robustness",
+   "aspect": "assurance",
+   "value": "certified",
+   "fact": "NIMC's spokesman said its infrastructure meets the ISO 27001:2013 information security standard with annual recertification.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "National Identity Database (NIN)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity Database (NIN)",
+   "country_label": "Nigeria",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

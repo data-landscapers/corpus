@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-13-cod-rdc-pass-equity-bcdc-prepare-son-integration-dans-les-services-bancair",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Le Point reports RDC-PASS, a unique personal digital identifier, was officially launched on 13 June 2026, though it is not a national identity card and replaces no legal ID document.",
+   "as_of": "2026-06-13",
+   "date_precision": "day",
+   "system": "RDC-PASS",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RDC-PASS",
+   "country_label": "COD",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "Government of DRC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-02-zaf-question-nw49-to-the-minister-of-home-affairs",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "biometric",
+   "value": "checked",
+   "fact": "South Africa's Minister of Home Affairs said in a written reply of 2 April 2026 that the department is strengthening biometric verification by fingerprint and facial recognition matching to find duplicate and fraudulent records in the National Population Register.",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Register",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

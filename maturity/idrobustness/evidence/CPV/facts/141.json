@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-16-cpv-ecowas-conducts-advocacy-on-the-deployment-of-the-ecowas-national-biom",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Juvenal Pereira, president of the implementation team of Cabo Verde's National Civil Identification and Authentication System, told an ECOWAS mission on 11 June 2024 that the country already has a functioning national identification card system.",
+   "as_of": "2024-06-11",
+   "date_precision": "day",
+   "system": "National Civil Identification and Authentication System",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Civil Identification and Authentication System",
+   "country_label": "Cabo Verde",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

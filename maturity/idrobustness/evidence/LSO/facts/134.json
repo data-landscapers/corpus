@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-14-lso-id4africa-panel-outlines-steady-kyc-process-policy-improvement",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Central Bank of Lesotho's payments director says Lesotho has national identity cards now used in identity verification, replacing earlier methods such as knowledge of the local chief's daughter's name.",
+   "as_of": "2026-05-14",
+   "date_precision": "day",
+   "system": "national identity card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national identity card",
+   "country_label": "LSO",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

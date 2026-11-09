@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-07-mli-identification-des-puces-de-telephones-jusqu-au-15-decembre-un-dilemme",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "The article says subscribers hold the NINA national identity number and a biometric card derived from it, and that a ministry official says people must identify biometrically and each hold a NINA.",
+   "as_of": "2024-11-07",
+   "date_precision": "day",
+   "system": "NINA",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

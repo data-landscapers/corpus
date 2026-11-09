@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-18-cpv-cabo-verde-em-destaque-na-id4africa-2026-sniac-apresentado-como-motor",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "IMIJ says the SNIAC is the country's main digital integration engine and that the National Identification Card (CNI) has been implemented.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "SNIAC",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SNIAC",
+   "country_label": "Cabo Verde",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "IMIJ",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

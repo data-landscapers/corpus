@@ -1,0 +1,26 @@
+{
+ "slug": "2025-09-02-tcd-des-manquements-graves-d-airtel-et-moov-africa-denonces",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Arcep's May 2025 audit reports mobile subscribers being identified with the Numero national d'identification (NNI).",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "NNI",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NNI",
+   "country_label": "Chad",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

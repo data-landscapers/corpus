@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-lso-identity-in-finance-a-case-study-of-the-kingdom-of-lesotho",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ID4Africa deck says Lesotho's National Identity and Civil Registration system is implemented and used as the foundational ID, with NID coverage at 90%.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "NICR",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity and Civil Registration (NICR) system",
+   "country_label": "NICR",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

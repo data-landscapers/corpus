@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-26-cpv-incv-inicia-producao-de-documentos-eletronicos-de-identificacao",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "Cabo Verde's Resolution 95/2025 authorises INCV to produce the electronic national ID card at a new security print works financed through the GESTDOC project, per the Expresso das Ilhas report.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "Cartao Nacional de Identificacao Eletronico",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

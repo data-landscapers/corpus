@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-16-gha-nia-opens-ghana-card-registration-centre-in-spain-for-ghanaians-abroad",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "Ghana's National Identification Authority issued the first Ghana Card at its new registration centre in Spain after biometric capture, per its Executive Secretary.",
+   "as_of": "2026-07-16",
+   "date_precision": "day",
+   "system": "Ghana Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
