@@ -1,11 +1,11 @@
 ---
 title: Mauritius — News, Oct – Nov 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: MUS
-ledger_rows: 33
+ledger_rows: 36
 not_held: 7
-record: fee1a15652a8
+record: f15520e05959
 ---
 
 # News, Oct – Nov 2026
@@ -318,6 +318,20 @@ Summarised under [Cybersecurity](#cybersecurity).
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Cybercrime memorandum with India's Ministry of Home Affairs</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Highlights of Cabinet Meeting - Friday 06 November 2026](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20Friday%2006%20November%202026.pdf)** — Prime Minister's Office, Mauritius, 6 November 2026
+
+India cybercrime MoU on content removal and CII threats; India cell-broadcast early warning MoU; Ki Pri price app.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Cybercrime reports against investigator numbers</p>
 
 <div class="bulletin-item bulletin-item--xref" markdown="1">
@@ -516,6 +530,20 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ki Pri price-checking app</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Highlights of Cabinet Meeting - Friday 06 November 2026](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20Friday%2006%20November%202026.pdf)** — Prime Minister's Office, Mauritius, 6 November 2026
+
+Summarised under [Cybersecurity](#cybersecurity).
+
+</div>
+
+</div>
+
 ## Capacity
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
@@ -657,6 +685,20 @@ Mauritius's State Informatics Limited and India's Tata Consultancy Services sign
 **[Mauritius’ SIL signs MoU with TCS to strengthen digital transformation](https://techafricanews.com/2026/10/19/mauritius-sil-signs-mou-tcs-digital-transformation/)** — TechAfrica News, 19 October 2026
 
 Mauritius' State Informatics Ltd signed a memorandum of understanding with India's Tata Consultancy Services on digital transformation, technology cooperation and innovation. IT Minister Avinash Ramtohul said it would support knowledge transfer and local digital skills, and he pointed to the planned AI City and the automation of public-sector workflows.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cell-broadcast early warning system with India</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Highlights of Cabinet Meeting - Friday 06 November 2026](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20Friday%2006%20November%202026.pdf)** — Prime Minister's Office, Mauritius, 6 November 2026
+
+Summarised under [Cybersecurity](#cybersecurity).
 
 </div>
 
