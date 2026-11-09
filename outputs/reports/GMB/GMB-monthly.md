@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-09
 place: GMB
 ledger_rows: 15
 not_held: 2
-record: 500f1246d72b
+record: 042984982f8e
 ---
 
 # News, Oct – Nov 2026
@@ -284,7 +284,7 @@ Summarised under [New investments](#new-investments).
 
 **[Gov't launches D40M digital skills programme for 1,280 youths](https://thepoint.gm/africa/gambia/headlines/govt-launches-d40m-digital-skills-programme-for-1280-youths)** — The Point (The Gambia), 6 November 2026
 
-Contracts with USET, CSU and IIHTG; software, cybersecurity, AI training; three-month internships.
+The Point reported on 6 November 2026 that The Gambia launched a D40 million digital skills programme under the World Bank-funded WARDIP. Contracts were signed with three training institutions to train 1,280 young people over three years. Courses include software development, cybersecurity and data analytics, and the programme includes three-month internships.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-09
 place: NGA
 ledger_rows: 88
 not_held: 9
-record: 16576f953cf1
+record: 66bb5d5e8af9
 ---
 
 # News, Oct – Nov 2026
@@ -1080,7 +1080,7 @@ Paga now lets businesses collect direct debits from customers of other Nigerian 
 
 **[Redtech Plans a Kenya-Nigeria Payments Corridor With Kenyan Launch in 2027](https://techweez.com/2026/11/07/redtech-plans-a-kenya-nigeria-payments-corridor-with-kenyan-launch-in-2027/)** — Techweez, 7 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
 
-Kenyan launch by Q1 2027 via partners; US$20bn processed in 2025; UBA route to 20 markets.
+Redtech, a Nigerian payments company, plans a payments link between Nigeria and Kenya, its chief executive Emmanuel Ojo told Techweez in a report of 7 November 2026. A Kenyan launch is planned by the first quarter of 2027, through partners. Ojo says some African markets settle within 24 hours while others take three or four days.
 
 </div>
 

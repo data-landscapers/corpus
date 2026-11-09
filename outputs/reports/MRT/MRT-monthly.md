@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-09
 place: MRT
 ledger_rows: 12
 not_held: 3
-record: d44f664de883
+record: 1370594603d9
 ---
 
 # News, Oct – Nov 2026
@@ -102,7 +102,7 @@ Mauritania's regulator ARE released results on 7 October 2026 of a February–Ma
 
 **[Télécommunications : L'Autorité de Régulation inflige plus de 421 millions MRU d'amendes aux trois opérateurs nationaux - Le Quotidien](https://lequotidien.mr/?p=42474)** — Le Quotidien (Mauritania), 6 November 2026
 
-Decision of 5 Nov 2026: Mauritel MRU 262.1m, Mattel 108.8m, Chinguitel 50.4m, 3% of turnover; network audit ordered.
+Mauritania's regulator ARE fined Mauritel, Mattel and Chinguitel a combined MRU 421,259,757 on 5 November 2026 for poor voice and data service quality. Each fine is 3% of turnover: Mauritel MRU 262.1 million, Mattel 108.8 million and Chinguitel 50.4 million. ARE also ordered a technical and financial network audit and a permanent performance-monitoring platform.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-09
 place: GAB
 ledger_rows: 36
 not_held: 12
-record: 6675a5afbccc
+record: bffee30ab2fe
 ---
 
 # News, Oct – Nov 2026
@@ -472,7 +472,7 @@ IKA Technologie presented on 29 September 2026 the integrated customs operations
 
 **[Gabon/Agriculture : AGRI-TRACK 241, une plateforme numérique pour accompagner la filière avicole](https://agpgabon.ga/gabon-agriculture-agri-track-241-une-plateforme-numerique-pour-accompagner-la-filiere-avicole/)** — Agence Gabonaise de Presse, 7 November 2026
 
-Farm-data platform under 3 Nov 2026 ministerial protocol; SYSTEP module for 150 poultry farms before 2027 import halt.
+Gabon's agriculture and digital-economy ministries signed a cooperation protocol on 3 November 2026 to deploy AGRI-TRACK 241, a platform for agricultural data. AGP reported it on 7 November 2026. Its first module, SYSTEP, will support 150 poultry farms, starting with a cohort of 79. This is ahead of a halt to broiler imports set for 1 January 2027.
 
 </div>
 
@@ -580,7 +580,7 @@ Summarised under [Data Exchange](#data-exchange).
 
 **[Allocation de rentrée scolaire 2027-2028 : la CPPF accélère sa révolution numérique](https://www.gabonreview.com/allocation-de-rentree-scolaire-2027-2028-la-cppf-accelere-sa-revolution-numerique/)** — GabonReview, 6 November 2026
 
-BAANA portal goes zero-paper in Greater Libreville; closes 1 Feb 2027; prior round 71,412 beneficiaries, XAF 4.36bn.
+Gabon's civil-service pension and family fund (CPPF) opened collection of school certificates for the 2027-2028 school allowance on 5 November 2026. Parents and heads enter them online on the BAANA platform. Greater Libreville goes paperless, and the campaign closes on 1 February 2027. The previous round covered 71,412 beneficiaries and XAF 4.36 billion.
 
 </div>
 

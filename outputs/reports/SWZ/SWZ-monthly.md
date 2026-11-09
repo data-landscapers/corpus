@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-09
 place: SWZ
 ledger_rows: 31
 not_held: 3
-record: f8ad3ea4a19d
+record: a1617ae72832
 ---
 
 # News, Oct – Nov 2026
@@ -496,7 +496,7 @@ Eswatini scored 1.07 out of 4 on the Africa AI Governance Index 2026, in the Eme
 
 **[Eswatini risks missing E1.2bn AI economic opportunity – study](https://times.co.sz/47905/business/eswatini-risks-e1-2bn-ai-economic-opportunity-study/)** — Times of Eswatini, 6 November 2026
 
-Ayre Index: Eswatini 52nd of 56, 36.9/100 vs benchmark 53; youth unemployment 52.6%; full 56-country table.
+The Ayre Index, launched at the Commonwealth Heads of Government Meeting and reported on 6 November 2026, ranks Eswatini 52nd of 56 countries. It scores 36.9 out of 100 against a benchmark of 53. The study puts the AI opportunity at about E1.23 billion over a decade. It records youth unemployment of 52.6%, the highest of the 56.
 
 </div>
 

@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — News, Oct – Nov 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: BFA
 ledger_rows: 42
 not_held: 6
-record: 0f0ac3b9529a
+record: 59e82daecd01
 ---
 
 # News, Oct – Nov 2026
@@ -462,7 +462,7 @@ Burkina Faso's tax directorate (DGI) announced that from 1 January 2027 large an
 
 **[Burkina Faso : Plus de 433 000 ménages recensés dans le Registre social unique](https://aesinsider.com/burkina-faso-plus-de-433-000-menages-recenses-dans-le-registre-social-unique/)** — AES Insider, 27 October 2026
 
-433,888 households, over 2m people, at 30 June 2026: 30% of target across 110 communes; ID interconnection pending.
+AES Insider reported that Burkina Faso's social registry committee met on 27 October 2026 in Ouagadougou. The family and solidarity minister, Pélagie Kaboré, said the registry held 433,888 households at 30 June 2026, over 2 million people in 110 communes. She put this at 30% of the target and called for faster expansion and links to other systems.
 
 </div>
 

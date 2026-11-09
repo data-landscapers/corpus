@@ -1,11 +1,11 @@
 ---
 title: Senegal — News, Oct – Nov 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: SEN
 ledger_rows: 36
 not_held: 2
-record: f4ca5f52a705
+record: 47fcb990751d
 ---
 
 # News, Oct – Nov 2026
@@ -556,7 +556,7 @@ Senegal and the Gates Foundation launched the Senegal AI Scaling Hub in Dakar on
 
 **[Escroqueries par intelligence artificielle : la CDP appelle à la vigilance face au clonage de voix et aux deepfakes](https://cdp.sn/actualites/52517c7a-0431-45a3-b40b-48f28bc2e965)** — Commission de Protection des Données Personnelles (Senegal), 5 November 2026
 
-Voice and image are personal data under Law 2008-12; unconsented AI cloning ruled unlawful processing.
+Senegal's data protection commission (CDP) warned on 5 November 2026 of rising AI scams using voice cloning and deepfakes. It says a person's voice and image are personal data under Law 2008-12. Copying them with AI without consent is unlawful processing, it says. It advises people to call back on a known number.
 
 </div>
 

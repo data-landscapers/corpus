@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-09
 place: MOZ
 ledger_rows: 31
 not_held: 18
-record: 8676916ea569
+record: 622266803f99
 ---
 
 # News, Oct – Nov 2026
@@ -478,7 +478,7 @@ A private document-services firm said on 25 October 2026 that official fees are 
 
 **[Mozambique: New e-auction platform strengthens transparency in asset recovery](https://clubofmozambique.com/news/mozambique-new-e-auction-platform-strengthens-transparency-in-asset-recovery/)** — Club of Mozambique, 6 November 2026
 
-First e-auction offers 14 seized vehicles at 70% of appraised value; asset module, BI tool and public portal.
+Mozambique's Asset Management Office launched an e-auction platform for assets seized from crime, Finance Minister Carla Loveira said at a Maputo seminar reported on 6 November 2026. The first auction offers 14 seized vehicles at starting prices of 70% of appraised value. The platform also has an asset-management module, a business-intelligence tool and a public monitoring portal.
 
 </div>
 
@@ -542,7 +542,7 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 
 **[Study Projects US$324M Boost to Mozambique’s GDP from AI Over the Next Decade - Consulting.co.mz | Business Consulting, Procurement & Audit in Mozambique](https://consulting.co.mz/study-projects-us324m-boost-to-mozambiques-gdp-from-ai-over-the-next-decade/)** — Consulting.co.mz, 6 November 2026
 
-Mozambique 44th of 56, score 38.9 against a 53 threshold; AI could add US$324m to GDP over ten years.
+The 2026 Ayre Index, reported on 6 November 2026, ranks Mozambique 44th of 56 Commonwealth countries on youth readiness for AI. It scores 38.9 out of 100 against a threshold of 53. The study projects AI could add US$324 million to GDP over ten years. It cites electricity access of 36.9% and internet use of 35% among young people.
 
 </div>
 

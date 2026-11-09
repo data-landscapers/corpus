@@ -1,11 +1,11 @@
 ---
 title: Tunisia — News, Oct – Nov 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: TUN
 ledger_rows: 36
 not_held: 5
-record: 9f50572574f6
+record: 961d59f393ee
 ---
 
 # News, Oct – Nov 2026
@@ -500,7 +500,7 @@ Tunisian Customs spokesman Colonel-Major Chokri Jabri said on 12 October 2026 th
 
 **[سجل المؤسسات يدخل عصر "الروبوتات"](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/157289-%D8%B3%D8%AC%D9%84-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D9%8A%D8%AF%D8%AE%D9%84-%D8%B9%D8%B5%D8%B1-%D8%A7%D9%84%D8%B1%D9%88%D8%A8%D9%88%D8%AA%D8%A7%D8%AA)** — Assabah News, 5 November 2026
 
-Two AI bots launched 5 Nov 2026: Nawarni founder guide and trade-name reservation; HiiL-built, Dutch-funded.
+Tunisia's National Business Registry announced two AI services on 5 November 2026. Nawarni is a chatbot that guides founders through company creation and the choice of legal form. A second bot checks and reserves trade names. The Hague Institute for Innovation of Law built them, with funding from the Dutch embassy.
 
 </div>
 

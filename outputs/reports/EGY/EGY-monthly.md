@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-09
 place: EGY
 ledger_rows: 51
 not_held: 36
-record: a5a07920602c
+record: 56dbcd13d762
 ---
 
 # News, Oct – Nov 2026
@@ -134,7 +134,7 @@ Egypt's government will send parliament a bill on classifying and sharing data b
 
 **[Cairo ICT 2026: FRA Chairman Highlights Digital Transformation in Non-Banking Finance](https://fra.gov.eg/en/fra_news/%d8%ae%d9%84%d8%a7%d9%84-%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d8%A7%d9%84%d9%87%d9%8A%d8%A6%d8%A9-%d8%A7%d9%84%d8%b9%D8%A7%D9%85%D8%A9-%D9%84%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85/)** — Financial Regulatory Authority (Egypt), 7 November 2026
 
-e-KYC checks past 1.727M by late Oct 2026 vs 354K end-2025; 862K digital contracts; 2 sandbox projects live.
+Egypt's Financial Regulatory Authority reported over 1.727 million e-KYC verifications in non-bank finance by late October 2026, against 354,000 at the end of 2025. It put registered digital contracts at 862,000, against 190,000. Presenting at Cairo ICT 2026 on 7 November 2026, it said its sandbox had taken 67 applications and moved two to live testing.
 
 </div>
 
@@ -524,7 +524,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[الرقابة المالية : طفرة في استخدام التحقق الإلكتروني «e-KYC».. والتوسع في الهوية الرقمية يدعم تقديم الخدمات المالية غير المصرفي](https://www.fintechgate.net/256737)** — بوابة التكنولوجيا المالية, 7 November 2026
 
-1.727m e-KYC checks and 862,000 digital contracts by end-October 2026, up from 354,000 and 190,000 at end-2025.
+Fintechgate reported on 7 November 2026 that the head of Egypt's Financial Regulatory Authority, Islam Azzam, cited over 1.727 million e-KYC verifications and about 862,000 digital contracts by the end of October 2026. The figures compare with 354,000 verifications and 190,000 contracts at the end of 2025. He spoke at Cairo ICT 2026.
 
 </div>
 
@@ -612,7 +612,7 @@ Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
 
 **[التضامن: ربط بيانات 13 مليون أسرة بـ27 قاعدة حكومية لتعزيز دقة استهداف مستحقي الدعم](https://almessa.gomhuriaonline.com/764443/)** — جريدة المساء, 6 November 2026
 
-Social registry of 13m households, about half of Egypt's, linked to 27 government databases by national ID number.
+Assabah reported on 6 November 2026 that Egypt's national social registry holds 13 million households, about half the country's total. Raafat Shafik, assistant to the social solidarity minister, said it links to 27 government databases. He spoke at an Arab conference in Tunisia and described its use in the Takaful and Karama cash programme.
 
 </div>
 

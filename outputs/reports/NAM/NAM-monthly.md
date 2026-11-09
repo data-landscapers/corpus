@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-09
 place: NAM
 ledger_rows: 16
 not_held: 9
-record: 6e6cd491efa2
+record: a43a79be1332
 ---
 
 # News, Oct – Nov 2026
@@ -144,7 +144,7 @@ Namibia's communications regulator launched DigiNam in Windhoek on 31 August as 
 
 **[Namibian cybersecurity risks remain elevated – NAM-CSIRT](https://neweralive.na/namibian-cybersecurity-risks-remain-elevated-nam-csirt/)** — New Era, 6 November 2026
 
-Vulnerabilities down 1.5% on Q2, events up 0.93%; Open CWMP 320,664 detections; Telnet, SNMP, RDP exposure rising.
+Namibia's NAM-CSIRT, housed at the regulator CRAN, recorded 506,143 vulnerabilities and 163,053 cyber events in July to September 2026, according to its newsletter reported on 6 November 2026. Vulnerabilities fell about 1.5% from 513,921 in the second quarter. Events rose 0.93% from 161,547. Exposed Open CWMP services were the most detected, at 320,664.
 
 </div>
 
@@ -226,7 +226,7 @@ Namibia's Auditor-General found that the ministry responsible for child grants k
 
 **[N$44m paid to 'ghost' grant beneficiaries](https://neweralive.na/n44m-paid-to-ghost-grant-beneficiaries/)** — New Era, 15 October 2026
 
-FY2024/25 audit: 8,099 of 488,753 grant beneficiaries unmatched to the population register; N$43.83m paid to 3,922 dead.
+New Era reported on 15 October 2026 that Namibia's auditor general found N$43.83 million paid to 3,922 social grant beneficiaries confirmed dead in 2024/25. The audit also found 3,350 duplicate child records, with N$28.79 million in duplicate payments. In the population register match, 8,099 of 488,753 beneficiaries could not be matched.
 
 </div>
 

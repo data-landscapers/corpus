@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-09
 place: UGA
 ledger_rows: 37
 not_held: 12
-record: 4898035c2660
+record: c87d12534dd4
 ---
 
 # News, Oct – Nov 2026
@@ -330,7 +330,7 @@ Uganda's President Yoweri Museveni ordered the cancellation of the government's 
 
 **[Questions swirl over internet deal between Uganda, Tanzania](https://www.monitor.co.ug/uganda/news/national/questions-swirl-over-internet-deal-between-uganda-tanzania-5654914)** — Monitor (Daily Monitor), 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
 
-USD 4.6m UETCL DWDM fibre deal steered to Samanga-Liquid JV by 27 July 2026 directive; NITA-U not involved.
+Uganda's talks with Samanga Utilities now centre on a 1,775 km fibre line run by the Uganda Electricity Transmission Company, the Daily Monitor reported on 2 November 2026. A Samanga and Liquid Telecommunications joint venture is being evaluated for a $4.6 million contract. The paper says it is unclear whether it would add Tanzanian capacity. It might only operate the existing fibre.
 
 </div>
 
@@ -744,7 +744,7 @@ Summarised under [Digital divides](#digital-divides).
 
 **[Technical Assistance for Capacity Building in Gender-Disaggregated Data Collection on Women's Entrepreneurship and Digitalization and Development of a Women's Digital Entrepreneurship Barometer Methodology (TZA25001-10032)](https://www.enabel.be/app/uploads/2026/11/TZA25001-10032_Tender-Specifications.pdf)** — Enabel, 6 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
 
-AEDIB 2.0 gender-data barometer for Tanzania (Mainland, Zanzibar) and Uganda; 730-day contract; bids close 27 Nov 2026.
+Enabel published tender TZA25001-10032 on 6 November 2026 for technical assistance on gender-disaggregated data on women's entrepreneurship and digitalisation. The work includes a women's digital entrepreneurship barometer methodology for Tanzania and Uganda, under a 730-day contract. Bids close on 27 November 2026 at 16:00 East Africa Time.
 
 </div>
 

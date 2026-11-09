@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — News, Oct – Nov 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: ZWE
 ledger_rows: 32
 not_held: 6
-record: d251b3be3f24
+record: 1d74df7e2352
 ---
 
 # News, Oct – Nov 2026
@@ -538,7 +538,7 @@ Zimbabwe's ICT minister Tatenda Mavetera tasked the ministry's new AI Unit with 
 
 **[Home Affairs Minister admits Smart Traffic Management System makes mistakes amid motorist complaints](https://www.newzimbabwe.com/home-affairs-minister-admits-smart-traffic-management-system-makes-mistakes-amid-motorist-complaints/)** — NewZimbabwe, 6 November 2026
 
-Minister concedes plate-capture errors at 20 Harare sites; police validation lapse; MP asks it be treated as a pilot.
+Zimbabwe's Home Affairs Minister Kazembe Kazembe told the National Assembly that the Smart Traffic Management System makes errors when it captures vehicle registration details, NewZimbabwe reported on 6 November 2026. He accepted motorists' complaints of misidentification and a lapse in police validation before tickets are issued. The number-plate system runs at 20 sites in Harare.
 
 </div>
 

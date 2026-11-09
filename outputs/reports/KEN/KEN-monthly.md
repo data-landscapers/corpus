@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-09
 place: KEN
 ledger_rows: 86
 not_held: 5
-record: 14dc83914667
+record: f907b06c3e90
 ---
 
 # News, Oct – Nov 2026
@@ -364,7 +364,7 @@ Namelok Wireless announced on 4 November 2026 a community internet network in Ki
 
 **[Kenya’s AI ambitions face infrastructure test as $2 billion subsea cable takes shape](https://www.the-star.co.ke/news/africa/2026-11-06-kenyas-ai-ambitions-face-infrastructure-test-as-subsea-cable-takes-shape)** — The Star (Kenya), 6 November 2026
 
-Seacom CTO: Africa-Asia cable landing at Mombasa, completion 2030; post-quantum encryption explored.
+The Star reported on 6 November 2026 that Seacom's chief technology officer, Prenesh Padayachee, expects its US$2 billion Africa-to-Asia subsea cable to be complete in 2030. He spoke on BBC Africa Enterprise. Mombasa is a key landing point for East African traffic. Seacom is also exploring post-quantum encryption for data in transit.
 
 </div>
 
@@ -402,7 +402,7 @@ Kenya's Public Private Partnerships Directorate signed a funding agreement on 23
 
 **[AMACO and ARISE IIP Advance US$700 Million Power and AI Infrastructure Project in Mombasa](https://www.kenyaengineer.co.ke/amaco-and-arise-iip-advance-us700-million-power-and-ai-infrastructure-project-in-mombasa/)** — Kenya Engineer, 6 November 2026
 
-MoU for HERCULES at Dongo Kundu: minimum US$700m, 250 MW initial rising to 1 GW, LNG power barge feeding AI data centres.
+Kenya Engineer reported on 6 November 2026 that AMACO Energy and ARISE IIP Kenya signed an MoU on HERCULES. It is a proposed power and AI data centre project at Dongo Kundu, Mombasa. AMACO puts the investment at a minimum of US$700 million, with about 250 MW of LNG-based generation rising to 1 GW.
 
 </div>
 
@@ -558,7 +558,7 @@ Kenya's online birth registration service won gold at the Estonian Design Awards
 
 **[State turns to chiefs, e-Citizen to trace owners of uncollected IDs](https://nation.africa/kenya/news/state-turns-to-chiefs-e-citizen-to-trace-owners-of-uncollected-ids-5660290)** — Daily Nation, 6 November 2026
 
-557,000 uncollected IDs, ~400,000 over ten years old; chiefs and e-Citizen SMS alerts before January 2027 voter sign-up.
+The Daily Nation reported that Kenya's immigration department told a National Assembly committee on 5 November 2026 that at least 557,000 national ID cards are uncollected. Nearly 400,000 have waited over ten years. Chiefs and e-Citizen text alerts will be used to trace owners before voter registration opens in January 2027.
 
 </div>
 
@@ -686,7 +686,7 @@ Mastercard and Moovn Technologies signed a five-year agreement, announced on 19 
 
 **[Kenswitch Partners with PayU's Wibmo to Strengthen Online Card Security in Kenya](https://www.business-standard.com/content/press-releases-ani/kenswitch-partners-with-payu-s-wibmo-to-strengthen-online-card-security-in-kenya-126110200460_1.html)** — Business Standard (ANI press release), 2 November 2026
 
-ACS access for Kenswitch-connected issuers; risk-based OTP, biometric and push authentication; 2,500+ ATMs, 50,000+ POS.
+Kenswitch, Kenya's domestic payment switch, announced on 2 November 2026 a partnership with Wibmo, a PayU company. Banks connected to Kenswitch gain an EMV 3-D Secure access control server for online card payments. It checks risk in real time and may ask for a one-time password, biometrics or a push approval.
 
 </div>
 
@@ -728,7 +728,7 @@ Safaricom's net income rose 35.9% to KES 58.2 billion in the six months to 30 Se
 
 **[Redtech Plans a Kenya-Nigeria Payments Corridor With Kenyan Launch in 2027](https://techweez.com/2026/11/07/redtech-plans-a-kenya-nigeria-payments-corridor-with-kenyan-launch-in-2027/)** — Techweez, 7 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
-Kenyan launch by Q1 2027 via partners; US$20bn processed in 2025; UBA route to 20 markets.
+Redtech, a Nigerian payments company, plans a payments link between Nigeria and Kenya, its chief executive Emmanuel Ojo told Techweez in a report of 7 November 2026. A Kenyan launch is planned by the first quarter of 2027, through partners. Ojo says some African markets settle within 24 hours while others take three or four days.
 
 </div>
 

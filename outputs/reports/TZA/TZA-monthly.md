@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Oct – Nov 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: TZA
 ledger_rows: 44
 not_held: 5
-record: 4fcc6db3b641
+record: f6e7b643a950
 ---
 
 # News, Oct – Nov 2026
@@ -526,7 +526,7 @@ Tech Africa News reported on 6 November 2026 on Tanzania's M-Mama emergency refe
 
 **[Digital transformation cuts NHIF claims payment period to 50 days](https://www.thecitizen.co.tz/tanzania/news/national/digital-transformation-cuts-nhif-claims-payment-period-to-50-days-5661158)** — The Citizen, 6 November 2026
 
-Settlement time 120 to 50 days in FY2024/25; paper forms down 75%; systems linked to NIDA and RITA.
+Tanzania's National Health Insurance Fund cut its average claims settlement time from 120 to 50 days in FY2024/25, according to its briefing of 6 November 2026. It credits digitised claims processing and AI. It reports paper claim forms down 75% and card costs down 80%, with systems linked to NIDA and RITA.
 
 </div>
 

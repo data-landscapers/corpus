@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-09
 place: COM
 ledger_rows: 8
 not_held: 22
-record: e823d241c010
+record: b9994d0f260e
 ---
 
 # News, Oct – Nov 2026
@@ -94,7 +94,7 @@ Bahrain's Information and eGovernment Authority held its first knowledge-exchang
 
 **[Conditions Générales d'Utilisation du Service TELCO MONEY (MVola)](https://www.mvola.km/wp-content/uploads/2026/11/Conditions-Generales-Utilisation.pdf)** — TELCO MONEY S.A., 1 November 2026
 
-Risk-tiered KYC: ID document and phone checks for individuals, beneficial owners for firms; records kept 10 years.
+Telco Money, the operator of the MVola mobile money service in the Comoros, published its general terms of use dated 1 November 2026. Checks scale with risk. Individuals provide an identity document and a phone check, and firms declare their beneficial owners. Records are kept for 10 years.
 
 </div>
 

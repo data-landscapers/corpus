@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-09
 place: SDN
 ledger_rows: 24
 not_held: 5
-record: b44a43b2b3d8
+record: 1ab0694ae57e
 ---
 
 # News, Oct – Nov 2026
@@ -188,7 +188,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[Pakistan, Sudan to strengthen security, digital registration efforts](https://thenews.pk/print/1447584-pakistan-sudan-to-strengthen-security-digital-registration-efforts)** — The News International, 7 November 2026
 
-NADRA-backed issuance claimed at 36m citizenship cards and 9m national IDs; cybercrime MoU agreed in principle.
+Pakistan and Sudan agreed to widen cooperation on security, cybercrime, police training and civil registration after interior ministers met in Islamabad, The News reported on 7 November 2026. They agreed in principle to sign a cybercrime memorandum. Pakistan's Interior Minister Mohsin Naqvi said Nadra support had helped Sudan issue 36 million citizenship cards and nine million national identity cards.
 
 </div>
 

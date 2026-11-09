@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: XAF
 ledger_rows: 65
 not_held: 3
-record: b64a6adf13f1
+record: 120764a3492f
 ---
 
 # News, Oct – Nov 2026
@@ -294,7 +294,7 @@ PwC's 2026 report on VAT and digital services in Africa finds 32 of 54 countries
 
 **[COMESA Introduces New Rules To Regulate Digital Markets And Business Mergers](https://businesspulse360.com/article/comesa-introduces-new-rules-to-regulate-digital-markets-and-business-mergers)** — Business Pulse 360, 5 November 2026
 
-USD 250m digital-merger threshold, USD 60m financial threshold, gatekeeper designation; guidelines under revision.
+COMESA's competition commission said on 5 November 2026 that digital mergers worth at least USD 250 million now fall within its jurisdiction. The rules come from regulations adopted in December 2025, which replaced those of 2004. They also set a general financial threshold of USD 60 million and add market inquiry powers. Guidelines are being revised.
 
 </div>
 

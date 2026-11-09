@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-09
 place: MAR
 ledger_rows: 24
 not_held: 14
-record: becce4e9898c
+record: 99dd9b3834d5
 ---
 
 # News, Oct – Nov 2026
@@ -456,7 +456,7 @@ The October 2026 report rates more than 75 economies on 33 indicators of exposur
 
 **[Morocco, Korea Advance Customs Cooperation on AI, Digitalization](https://www.moroccoworldnews.com/2026/11/345265/morocco-korea-advance-customs-cooperation-on-ai-digitalization/)** — Morocco World News, 6 November 2026
 
-ADII and Korea Customs Service big-data and AI project, begun May 2026, in final phase by November.
+Morocco World News reported on 6 November 2026 that Moroccan customs (ADII) and the Korea Customs Service have entered the final phase of a joint project. It began in May 2026 and is run by the Korean firm Okestro. It covers big data and AI for revenue management and digital governance, according to an ADII statement.
 
 </div>
 

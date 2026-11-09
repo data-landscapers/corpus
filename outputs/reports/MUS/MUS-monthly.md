@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-09
 place: MUS
 ledger_rows: 36
 not_held: 7
-record: f15520e05959
+record: 4b4f5777fb29
 ---
 
 # News, Oct – Nov 2026
@@ -324,7 +324,7 @@ Summarised under [Cybersecurity](#cybersecurity).
 
 **[Highlights of Cabinet Meeting - Friday 06 November 2026](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20Friday%2006%20November%202026.pdf)** — Prime Minister's Office, Mauritius, 6 November 2026
 
-India cybercrime MoU on content removal and CII threats; India cell-broadcast early warning MoU; Ki Pri price app.
+Mauritius's Cabinet agreed on 6 November 2026 that the ICT ministry will sign a cybercrime memorandum with India's Ministry of Home Affairs. It covers removal of unlawful content, legal cooperation, operational support and threats to critical information infrastructure. Cabinet also approved an Indian memorandum on a cell-broadcast disaster early-warning system, to be deployed by C-DOT.
 
 </div>
 

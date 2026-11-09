@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-09
 place: TGO
 ledger_rows: 25
 not_held: 16
-record: 35e6126cb4d2
+record: 4ac460e25f8a
 ---
 
 # News, Oct – Nov 2026
@@ -64,7 +64,7 @@ Togo scored 1.24 out of 4 on the Africa AI Governance Index 2026, in the Emergin
 
 **[Conseil des ministres du 06 novembre 2026](https://www.republiquetogolaise.tg/gestion-publique/0711-12467-conseil-des-ministres-du-06-novembre-2026)** — Togo Officiel, République Togolaise, 7 November 2026
 
-Postal policy 2026-2029 put forward for adoption; land code amendment with digitalised land management at first reading.
+Togo's Council of Ministers met on 6 November 2026 and authorised submission for adoption of a national postal-sector policy for 2026-2029. Its five orientations include digital transformation, digital financial services and e-commerce. The council also took a first reading of a bill amending the 2018 land and property code to digitalise land management and create a national land observatory.
 
 </div>
 

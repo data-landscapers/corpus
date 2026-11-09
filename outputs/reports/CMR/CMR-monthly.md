@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-09
 place: CMR
 ledger_rows: 26
 not_held: 3
-record: 4e3bbf2b99fb
+record: 41b12fd89a56
 ---
 
 # News, Oct – Nov 2026
@@ -252,7 +252,7 @@ Uptime Institute's register for Cameroon lists two Tier III design certification
 
 **[MISSOLE | : LES ÉTATS UNIS S’ENGAGENT AUX CÔTÉS DU PORT AUTONOME DE DOUALA POUR BÂTIR UN DATA CENTER DE DERNIÈRE GÉNÉRATION](https://lavoixdelacite.com/2026/11/07/missole-les-etats-unis-sengagent-aux-cotes-du-port-autonome-de-douala-pour-batir-un-data-center-de-derniere-generation/)** — La Voix de la Cité, 7 November 2026
 
-Two-hectare AI-ready modular data centre with own power plant at Dibamba port zone; US chargé d'affaires visit.
+The Port Autonome de Douala plans a two-hectare modular data centre, built for AI and with its own power plant, at its Dibamba industrial-port zone. It was shown to US chargé d'affaires John G. Robinson on a visit reported on 7 November 2026. The port says the site would keep hosted data under Cameroonian sovereignty. It names no builder, financier or timeline.
 
 </div>
 
@@ -430,7 +430,7 @@ Cameroon's civil registration bureau BUNEC visited Côte d'Ivoire's ONECI in Abi
 
 **[Cameroun : le nettoyage du fichier solde de l'État de nouveau repoussé après huit ans](https://ecomatin.net/cameroun-le-nettoyage-du-fichier-solde-de-letat-de-nouveau-repousse-apres-huit-ans)** — Ecomatin, 14 October 2026
 
-Payroll clean-up slips to 2027; AIGLES live since 1 Jan 2025, biometrics module unfinished, FCFA 7.2bn budget at risk.
+Ecomatin reported on 14 October 2026 that Cameroon's clean-up of the state payroll file will slip to 2027. The head of state's budget circular lists finishing the physical headcount of state staff, begun in 2018, among 2027 priorities. The AIGLES payroll system has been live since January 2025, but its biometrics module is unfinished.
 
 </div>
 
