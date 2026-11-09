@@ -1,12 +1,12 @@
 ---
 title: Guinea: status report
-compiled: 2026-11-08
+compiled: 2026-11-09
 place: GIN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 225
+sources_cited: 226
 sections_written: 39
 not_established: 0
 acquire_lines: 45
@@ -47,7 +47,7 @@ Guinea [scores 41.9 of 100 for overall governance in the 2024 Ibrahim Index (202
 
 [Guinea's WURI project closed on 28 June 2024, two years ahead of schedule](https://documents.worldbank.org/curated/en/099050225110559061). [Its early exit leaves Côte d'Ivoire as the programme's advancing partner](https://documents.worldbank.org/curated/en/099050225110559061). [In 2024 Mali, Burkina Faso and Niger severed their ECOWAS ties](https://www.biometricupdate.com/202603/focus-on-sahel-digital-sovereignty). [They have since launched Alliance of Sahel States biometric credentials, starting with a common passport in January 2025](https://www.biometricupdate.com/202603/focus-on-sahel-digital-sovereignty).
 
-[In June 2025 Guinea and Sierra Leone interconnected their national backbones at the Pamelap crossing](https://www.telecomreviewafrica.com/articles/general-news/12188-guinea-and-sierra-leone-link-national-fibre-networks-for-regional-digital-integration/). [The link falls under the two countries' 2024 Digital Pact](https://www.telecomreviewafrica.com/articles/general-news/12188-guinea-and-sierra-leone-link-national-fibre-networks-for-regional-digital-integration/). [In June 2026 Guinea's officials joined Liberia's and Sierra Leone's in agreeing to commercialise spare fibre on the TRANSCO CLSG power network](https://techafricanews.com/2026/06/16/liberia-advances-regional-fiber-optic-expansion-strategy-through-transco-clsg-partnership/). [In June 2024 the state backbone company and Mali's transmission company agreed to interconnect their networks](https://developingtelecoms.com/telecom-technology/optical-fixed-networks/17258-guinea-adds-cote-d-ivoire-to-regional-fibre-interconnectivity-plan.html). [A link to Côte d'Ivoire's network is planned with no timeline](https://developingtelecoms.com/telecom-technology/optical-fixed-networks/17258-guinea-adds-cote-d-ivoire-to-regional-fibre-interconnectivity-plan.html).
+[In June 2025 Guinea and Sierra Leone interconnected their national backbones at the Pamelap crossing](https://www.telecomreviewafrica.com/articles/general-news/12188-guinea-and-sierra-leone-link-national-fibre-networks-for-regional-digital-integration/). [The link falls under the two countries' 2024 Digital Pact](https://www.telecomreviewafrica.com/articles/general-news/12188-guinea-and-sierra-leone-link-national-fibre-networks-for-regional-digital-integration/). [In June 2026 Guinea's officials joined Liberia's and Sierra Leone's in agreeing to commercialise spare fibre on the TRANSCO CLSG power network](https://techafricanews.com/2026/06/16/liberia-advances-regional-fiber-optic-expansion-strategy-through-transco-clsg-partnership/). [In June 2024 the state backbone company and Mali's transmission company agreed to interconnect their networks](https://developingtelecoms.com/telecom-technology/optical-fixed-networks/17258-guinea-adds-cote-d-ivoire-to-regional-fibre-interconnectivity-plan.html). [On 11 October 2024 the Guinean and Ivorian ministers signed a protocol to interconnect the two countries' fibre networks](https://www.gouv.ci/actualite/cooperation-deux-importants-protocoles-daccord-signes-entre-les-gouvernements-ivoirien-et-guineen-dans-le-secteur-numerique-2384).
 
 [The World Bank's second WARDIP phase, announced on 11 March 2026, covers Benin, Liberia and Sierra Leone](https://www.biometricupdate.com/202603/new-137m-initiative-to-enable-digital-service-access). Guinea is in [the first phase, with The Gambia, Guinea-Bissau and Mauritania](https://projects.worldbank.org/en/projects-operations/project-detail/P176932). [The ECOWAS budget for 2026-2028 records nil for its Youth Entrepreneurship in ICT line from 2024 through 2028](https://www.ecowas.int/wp-content/uploads/2026/06/ECOWAS-COMMUNITY-BUDGET-2026-2028.pdf).
 
