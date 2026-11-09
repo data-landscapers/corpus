@@ -1,0 +1,36 @@
+{
+ "slug": "2025-11-05-zaf-question-nw4978-to-the-minister-of-home-affairs",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Department of Home Affairs describes the National Population Register as in operation, with enrolments entered into it by capture staff.",
+   "as_of": "2025-11-05",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "vital",
+   "value": "updated",
+   "fact": "The Department of Home Affairs says new birth registrations are entered into the National Population Register and that it is integrating vital events such as births and deaths to keep it accurate.",
+   "as_of": "2025-11-05",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Register",
+   "country_label": "South Africa",
+   "class": "population",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

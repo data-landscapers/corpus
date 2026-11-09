@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-ben-foundational-identity-4",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ANIP's deck states more than 13 million people are registered in the national register of physical persons (RNPP) and shows a Population Register in its identity architecture.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "RNPP",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

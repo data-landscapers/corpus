@@ -1,0 +1,34 @@
+{
+ "slug": "2024-07-16-civ-le-dg-de-l-oneci-echange-avec-la-presse-nationale",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ONECI's director general says the RNPP is a single biometric file centralising civil-status information for the population, giving each person a unique NNI.",
+   "as_of": "2024-07-15",
+   "date_precision": "day",
+   "system": "RNPP",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNPP",
+   "country_label": "Côte d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  },
+  {
+   "system": "City Web",
+   "country_label": "Côte d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

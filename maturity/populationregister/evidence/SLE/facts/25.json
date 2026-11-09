@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-11-sle-sierra-leone-urges-citizens-to-obtain-biometric-id-cards-for-security",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Biometric Update reports that the 11-digit NIN on Sierra Leone's ID card is a unique identifier linked to the card holder's personal details in the national population registry.",
+   "as_of": "2024-01-11",
+   "date_precision": "day",
+   "system": "national population registry",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national population registry",
+   "country_label": "Sierra Leone",
+   "class": "population",
+   "platform": "",
+   "owner": "NCRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

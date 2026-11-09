@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-16-zwe-passport-id-applications-go-online",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "The Sunday Mail reports the Zimbabwe Population Registry System, a central database of citizens' demographic data, is in final testing and due to be implemented from July 2024, per Minister Kazembe.",
+   "as_of": "2024-06-16",
+   "date_precision": "day",
+   "system": "Zimbabwe Population Registry System (ZPRS)",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zimbabwe Population Registry System (ZPRS)",
+   "country_label": "Zimbabwe",
+   "class": "population",
+   "platform": "",
+   "owner": "Civil Registry Department",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

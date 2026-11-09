@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-16-mli-identification-un-nouveau-systeme-biometrique-lance-pour-la-souveraine",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Mali's Ministry of Territorial Administration says the RAVEC administrative census database for civil-status purposes is in service on the new Mali Kura Biometrie system, launched on 13 February 2024.",
+   "as_of": "2024-02-13",
+   "date_precision": "day",
+   "system": "RAVEC",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

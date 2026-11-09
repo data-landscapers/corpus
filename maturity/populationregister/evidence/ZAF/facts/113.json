@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-19-zaf-pmg-nw6103-duplicate-missing-id-numbers",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Minister of Home Affairs refers to the National Population Register as holding ID numbers each assigned to a person.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "population"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

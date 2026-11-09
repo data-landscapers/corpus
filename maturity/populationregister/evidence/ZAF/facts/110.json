@@ -1,0 +1,26 @@
+{
+ "slug": "2026-04-02-zaf-question-nw49-to-the-minister-of-home-affairs",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "South Africa's Minister of Home Affairs said in a written reply of 2 April 2026 that the department is cleansing and strengthening the integrity of the National Population Register, which is being transformed into an intelligent population register.",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Register",
+   "country_label": "South Africa",
+   "class": "population",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

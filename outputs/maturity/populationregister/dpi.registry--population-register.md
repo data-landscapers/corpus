@@ -22,11 +22,11 @@ The African Union's Digital Transformation Strategy puts an electronic populatio
 |---|---|
 | 5 Leading | 11 |
 | 4 Operating | 0 |
-| 3 Established | 7 |
+| 3 Established | 8 |
 | 2 Nascent | 6 |
 | 1 Absent | 0 |
 | Unplaced | 4 |
-| No evidence | 26 |
+| No evidence | 25 |
 
 ## Countries
 
@@ -141,6 +141,12 @@ A population register was in service in 2026; no source found reports updating f
 A population register was in service in 2026; no source found reports updating from births and deaths.
 
 - MINALOC says the new civil registration system is interoperable with the National Population Registry, which it names among the databases linked ([source, 2026-06-03](https://www.minaloc.gov.rw/news-detail/rwanda-launches-new-integrated-civil-registration-system)).
+
+### Sierra Leone: 3 Established
+
+A national population registry held ID card holders' details in 2024; whether births and deaths are entered in it is not known.
+
+- Biometric Update reports that the 11-digit NIN on Sierra Leone's ID card is a unique identifier linked to the card holder's personal details in the national population registry ([source, 2024-01-11](https://www.biometricupdate.com/202401/sierra-leone-urges-citizens-to-obtain-biometric-id-cards-for-security-services)).
 
 ### Botswana: 2 Nascent
 
@@ -308,12 +314,6 @@ Nothing found names a population register or says there is none, so no stage is 
 Not established: Nothing found names a population register, or says there is none.
 
 ### Senegal: No evidence
-
-Nothing found names a population register or says there is none, so no stage is set.
-
-Not established: Nothing found names a population register, or says there is none.
-
-### Sierra Leone: No evidence
 
 Nothing found names a population register or says there is none, so no stage is set.
 

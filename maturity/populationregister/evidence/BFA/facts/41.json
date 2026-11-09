@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-27-bfa-burkina-faso-plus-de-433-000-menages-recenses-dans-le-registre-social",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre social unique (RSU)",
+   "country_label": "Burkina Faso",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministere de la famille et de la solidarite",
+   "tiers": ""
+  }
+ ],
+ "note": "The RSU is a household register of poor and vulnerable households, not a register of the whole population."
+}

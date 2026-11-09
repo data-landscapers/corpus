@@ -1,0 +1,36 @@
+{
+ "slug": "2026-05-28-ken-project-profile-the-in-between-lives-of-the-double-registered",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Elephant describes the IPRS as Kenya's National Master Population Database in use for processing ID applications.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Integrated Population Registration System (IPRS)",
+   "class": "population"
+  },
+  {
+   "sub_indicator": "population",
+   "aspect": "vital",
+   "value": "updated",
+   "fact": "The Elephant says the IPRS consolidates civil registration data, including records of births and deaths.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Integrated Population Registration System (IPRS)",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Population Registration System (IPRS)",
+   "country_label": "Kenya",
+   "class": "population",
+   "platform": "",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

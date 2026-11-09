@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-09-zaf-home-affairs-r10-id-fee-is-forcing-companies-to-rethink-identity-verif",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "TechCentral says Home Affairs offers live ID lookups against the national population database, with a fee of up to R10 a transaction since July 2025.",
+   "as_of": "2026-02-09",
+   "date_precision": "day",
+   "system": "national population database",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national population database",
+   "country_label": "South Africa",
+   "class": "population",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

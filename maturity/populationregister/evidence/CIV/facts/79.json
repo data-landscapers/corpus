@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-12-civ-l-oneci-et-la-sgci-scellent-un-partenariat-strategique-pour-une-authen",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "ONECI describes the Registre National des Personnes Physiques (RNPP) as holding alphanumeric, biographic and biometric data of persons, queried in real time by a bank from 2025-11-11.",
+   "as_of": "2025-11-11",
+   "date_precision": "day",
+   "system": "RNPP",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNPP",
+   "country_label": "Cote d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-14-zaf-question-no-876-cw623e-to-the-minister-of-home-affairs-draft-digital-i",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The Minister of Home Affairs says the Department is modernising the population register and strengthening biometric and verification capabilities.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Population register",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Population register",
+   "country_label": "South Africa",
+   "class": "population",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

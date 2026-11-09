@@ -1,17 +1,18 @@
 {
- "iso3": "SLE",
- "cells": [
-  {
-   "sub_indicator": "population",
-   "stage": "no evidence",
-   "register": "",
-   "vital": "",
-   "used": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names a population register, or says there is none.",
-   "note": "First pass: counted from the four questions by study-ladder-populationregister.py."
-  }
- ]
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "population",
+      "stage": "3",
+      "register": "inservice",
+      "vital": "",
+      "used": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SLE-001",
+      "gaps": "No source found since October 2023 says births or deaths are entered in the population register, or that other registers or services take records from it.",
+      "note": "In January 2024 the NIN on the ID card was linked to each holder's details in the national population registry, so a register is in service. Nothing says vital events are entered in it, so not 4.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }
