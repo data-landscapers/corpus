@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-20-ago-angola-and-zambia-sign-ict-cooperation-agreement",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Zambia's science and technology minister signed an ICT cooperation MoU with Angola's telecommunications minister at ANGOTIC 2023, covering AI, space technology and cross-border fibre.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Angola-Zambia ICT cooperation MoU",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

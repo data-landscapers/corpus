@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "cooperation",
-      "stage": "4",
+      "stage": "5",
       "part": "active",
-      "effect": "in-effect",
+      "effect": "in-use",
       "cap": "",
       "flags": "",
-      "stage_sources": "SSD-003;SSD-007",
-      "gaps": "No source found gives figures of use, a decision of a joint body, or a review of what an agreement has delivered, in the last three years.",
-      "note": "An EAC official told the regional assembly in November 2026 that South Sudan has put the One Network Area roaming framework into effect (SSD-007), so 4. No figures of its use, joint decision or review are held, so not 5.",
-      "as_at": "2026-11-06"
+      "stage_sources": "SSD-008;SSD-007;SSD-003",
+      "gaps": "No figures of South Sudan's own traffic under the One Network Area are held; the 900-fold rise is for the partner states together, and its November 2023 communique is at the edge of the three years.",
+      "note": "Reassessed 2026-11-09: the Northern Corridor ICT ministers' communique of 9 November 2023, attended by South Sudan's minister, reports the One Network Area operational with traffic up over 900 times among the partner states (SSD-008), so what South Sudan put into effect (SSD-007) is reported in use.",
+      "as_at": "2026-11-09"
     }
   ]
 }

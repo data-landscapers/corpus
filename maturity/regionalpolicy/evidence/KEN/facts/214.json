@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-24-rwa-uganda-rwanda-complete-fiber-link-at-mirama-hills-border-as-region-eye",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "The country took part as a partner state in the August 2026 Northern Corridor Integration Projects cluster meeting held in Kampala.",
+   "as_of": "2026-08-24",
+   "date_precision": "day",
+   "system": "Northern Corridor Integration Projects",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "effect",
+   "value": "in-use",
+   "fact": "The Northern Corridor ICT cluster reports the One Network Area, which scrapped roaming charges between member states, drove a more than 900-fold rise in roaming traffic.",
+   "as_of": "2026-08-24",
+   "date_precision": "day",
+   "system": "One Network Area",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

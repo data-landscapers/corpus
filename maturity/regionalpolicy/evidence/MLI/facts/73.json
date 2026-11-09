@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-06-mli-burkina-mali-niger-l-aes-adopte-sa-feuille-de-route-numerique-commune",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "In September 2026 the telecom and postal regulators of Burkina Faso, Mali and Niger signed in Ouagadougou a convention creating the Council of Sahel Regulators.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Council of Sahel Regulators",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Startup Medias reports the AES digital roadmap, 16 of 18 deliverables finalised, was adopted in Ouagadougou on 5 November 2026 by delegations of Burkina Faso, Mali and Niger, the Malian delegation head presenting the tally.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "AES digital roadmap",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

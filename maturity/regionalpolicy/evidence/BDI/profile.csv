@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-BDI,cooperation,part,coverage,member,2026-08-03,BDI-001;BDI-003;BDI-005;BDI-006;BDI-007;BDI-008,,
+BDI,cooperation,part,coverage,active,2024-10,BDI-010,BDI-003=member;BDI-005=member;BDI-006=member;BDI-007=member;BDI-008=member;BDI-001=member,
 BDI,cooperation,effect,coverage,in-use,2025,BDI-004,BDI-009=in-effect;BDI-002=in-effect,

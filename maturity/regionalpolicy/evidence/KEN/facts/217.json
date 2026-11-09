@@ -1,0 +1,27 @@
+{
+ "slug": "2023-11-09-uga-ministerial-meeting-for-the-ict-infrastructure-development-9th-novembe",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Kenya's ICT Cabinet Secretary convened and hosted the joint ministerial meeting of the Northern Corridor ICT Infrastructure Development cluster in Nairobi.",
+   "as_of": "2023-11-09",
+   "date_precision": "day",
+   "system": "Northern Corridor Integration Projects",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "effect",
+   "value": "in-use",
+   "fact": "The joint communique of the Northern Corridor Integration Projects ICT ministers (Kenya, Uganda, South Sudan, Rwanda) says One Network Area for voice, data and SMS is operational among the Partner States and has led to over 900 times traffic increase.",
+   "as_of": "2023-11-09",
+   "date_precision": "day",
+   "system": "One Network Area",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
