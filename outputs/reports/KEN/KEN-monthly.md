@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: KEN
-ledger_rows: 83
+ledger_rows: 86
 not_held: 5
-record: e6ab63e83676
+record: 14dc83914667
 ---
 
 # News, Oct – Nov 2026
@@ -356,6 +356,20 @@ Namelok Wireless announced on 4 November 2026 a community internet network in Ki
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Seacom Africa-Asia subsea cable</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya’s AI ambitions face infrastructure test as $2 billion subsea cable takes shape](https://www.the-star.co.ke/news/africa/2026-11-06-kenyas-ai-ambitions-face-infrastructure-test-as-subsea-cable-takes-shape)** — The Star (Kenya), 6 November 2026
+
+Seacom CTO: Africa-Asia cable landing at Mombasa, completion 2030; post-quantum encryption explored.
+
+</div>
+
+</div>
+
 ### Data Storage
 
 <div class="monthly-story" markdown="1">
@@ -666,6 +680,20 @@ Mastercard and Moovn Technologies signed a five-year agreement, announced on 19 
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Kenswitch 3-D Secure access control server</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenswitch Partners with PayU's Wibmo to Strengthen Online Card Security in Kenya](https://www.business-standard.com/content/press-releases-ani/kenswitch-partners-with-payu-s-wibmo-to-strengthen-online-card-security-in-kenya-126110200460_1.html)** — Business Standard (ANI press release), 2 November 2026
+
+ACS access for Kenswitch-connected issuers; risk-based OTP, biometric and push authentication; 2,500+ ATMs, 50,000+ POS.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">PesaLink</p>
 
 <div class="bulletin-item" markdown="1">
@@ -687,6 +715,20 @@ Kenya's Postbank joined the Pesalink network, reported on 4 November 2026, so cu
 **[Safaricom H1 profit jumps 36% to $448m](https://www.itweb.africa/article/safaricom-h1-profit-jumps-36-to-448m/wbrpO7g2eJOvDLZn)** — ITWeb Africa, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a>
 
 Safaricom's net income rose 35.9% to KES 58.2 billion in the six months to 30 September 2026. M-PESA revenue grew 13.6% to KES 100.1 billion. Safaricom Ethiopia raised service revenue 71.6% and narrowed its EBITDA loss to KES 434.4 million.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Redtech Kenya-Nigeria payments corridor</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Redtech Plans a Kenya-Nigeria Payments Corridor With Kenyan Launch in 2027](https://techweez.com/2026/11/07/redtech-plans-a-kenya-nigeria-payments-corridor-with-kenyan-launch-in-2027/)** — Techweez, 7 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Kenyan launch by Q1 2027 via partners; US$20bn processed in 2025; UBA route to 20 markets.
 
 </div>
 
