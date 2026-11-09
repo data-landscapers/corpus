@@ -1,12 +1,12 @@
 ---
 title: Burundi: status report
-compiled: 2026-11-07
+compiled: 2026-11-09
 place: BDI
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 28
-sources_cited: 252
+sources_cited: 253
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -53,7 +53,7 @@ Until then the digital statutes were [the 2022 cybercrime statute](https://amate
 
 [In 2023 Burundi, a member of COMESA, the East African Community and ECCAS, scored 61.8 out of 100 for Regional Integration, seventh of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bi.pdf). [It was the country's best-ranked measure, in a business environment ranked 43rd](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-bi.pdf). [From 16 to 21 February 2026 Burundi hosted the Central Africa Internet Governance Forum for the first time, with eleven countries taking part](https://finances.gov.bi/index.php/2026/02/19/le-burundi-accueille-pour-la-premiere-fois-le-forum-sur-la-gouvernance-de-linternet-en-afrique-centrale/).
 
-[In July 2026 Burundi named postal modernisation and internet infrastructure as its priorities with Vietnam](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe). [Vietnam asked in return for a wider role for Viettel's local operator Lumitel](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe). [On Burundi's side the channel runs through the secretary general of the ruling CNDD-FDD party](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe).
+[In October 2024 Burundi and Zambia signed a memorandum for a cable under Lake Tanganyika to Makamba](https://itweb.africa/article/burundi-zambia-agree-underwater-fibre-connection/kLgB17ezr59M59N4). [In July 2026 Burundi named postal modernisation and internet infrastructure as its priorities with Vietnam](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe). [Vietnam asked in return for a wider role for Viettel's local operator Lumitel](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe). [On Burundi's side the channel runs through the secretary general of the ruling CNDD-FDD party](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe).
 
 ### Standards
 <!-- gov.standards -->
