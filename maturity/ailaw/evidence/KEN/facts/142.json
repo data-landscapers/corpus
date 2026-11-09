@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-06-ken-kenyas-ai-ambitions-face-infrastructure-test-as-subsea-cable-takes-shape",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Artificial Intelligence Bill 2026 was rejected by a Senate committee over concerns that its penalties and regulatory reach could constrain startups, according to The Star.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "Artificial Intelligence Bill 2026",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Artificial Intelligence Bill 2026",
+   "country_label": "Kenya",
+   "class": "law",
+   "platform": "",
+   "owner": "Parliament of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
