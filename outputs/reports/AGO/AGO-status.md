@@ -1,12 +1,12 @@
 ---
 title: Angola: status report
-compiled: 2026-11-07
+compiled: 2026-11-09
 place: AGO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-04
 intersections_read: 12
-sources_cited: 280
+sources_cited: 282
 sections_written: 39
 not_established: 0
 acquire_lines: 47
@@ -132,7 +132,7 @@ The digital lines of the 2025 budget law come to Kz 384.4 billion appropriated, 
 
 [The terrestrial fibre network connects every provincial and communal capital (May 2023)](https://minttics.gov.ao/ao/noticias/matias-borges-dois-novos-projectos-vao-garantir-a-expansao-dos-servicos-de-comunicacoes-nos-municipios-e-nas-comunas/). [In May 2026 the justice ministry blamed four months of outages at identification and civil registry posts across most of the country on telecommunications breakdowns](https://www.novojornal.co.ao/politica/detalhe/minjusdh-diz-que-falhas-do-sistema-nos-postos-de-identificacao-e-registo-civil-que-ja-duram-ha-meses-se-devem-as-quebras-de-telecomunicacoes-71601.html). [The first link of the national fibre broadband network, from Luanda through Bengo and Cuanza Sul, went into service at Lobito on 16 September 2026](https://www.angop.ao/noticias/tecnologia/rede-de-banda-larga-de-fibra-optica-ja-funciona-em-benguela/). [Huambo, Namibe and Cabinda are named for the next phase](https://www.angop.ao/noticias/tecnologia/rede-de-banda-larga-de-fibra-optica-ja-funciona-em-benguela/).
 
-[Unitel put US$43 million into Angola's branch of the 2Africa cable at Cacuaco in December 2025, securing 23.6 Tbps for the country](https://angop.ao/noticias/economia/unitel-invete-mais-de-40-milhoes-de-dolares-americano-em-fibra-optica/). [A June 2026 agreement with Telecom Namibia and SATCAB gives Angola Telecom an initial 1.0 Tbps of Equiano capacity](https://techafricanews.com/2026/06/15/telecom-namibia-angola-telecom-and-satcab-sign-sarssy-deal-to-deliver-1-tbps-connectivity-across-southern-africa/). [Used international bandwidth stood at 5.50 kbit/s per capita in November 2025, unchanged from the June 2024 baseline, against a project target of 10](https://documents1.worldbank.org/curated/en/099061026070543652/txt/P180693-058921d6-9889-4e02-97c2-06851c475610.txt). [Two internet exchange points were active in June 2026, with 29 members between them](https://pulse.internetsociety.org/en/ixp-tracker/country/AO/).
+[Unitel put US$43 million into Angola's branch of the 2Africa cable at Cacuaco in December 2025, securing 23.6 Tbps for the country](https://angop.ao/noticias/economia/unitel-invete-mais-de-40-milhoes-de-dolares-americano-em-fibra-optica/). [A June 2026 agreement with Telecom Namibia and SATCAB gives Angola Telecom an initial 1.0 Tbps of Equiano capacity](https://techafricanews.com/2026/06/15/telecom-namibia-angola-telecom-and-satcab-sign-sarssy-deal-to-deliver-1-tbps-connectivity-across-southern-africa/). [The state operator gives June 2027 for SARSSy, a cable landing in five Angolan provinces and joining Equiano at Swakopmund, to replace the ageing SAT-3](https://pti.ao/angola-telecom-preve-operacao-do-cabo-submarino-sarssy-ate-2027/) (July 2026). [Terrestrial fibre already runs to Namibia between Santa Clara and Ondjiva](https://pti.ao/angola-telecom-preve-operacao-do-cabo-submarino-sarssy-ate-2027/). In June 2026 the ministers of Angola and Mozambique [signed a memorandum for a Nacala-Lobito submarine cable](https://www.oeconomico.com/mocambique-e-angola-avancam-com-cabo-nacala-lobito-para-reforcar-corredor-digital-regional/). [Used international bandwidth stood at 5.50 kbit/s per capita in November 2025, unchanged from the June 2024 baseline, against a project target of 10](https://documents1.worldbank.org/curated/en/099061026070543652/txt/P180693-058921d6-9889-4e02-97c2-06851c475610.txt). [Two internet exchange points were active in June 2026, with 29 members between them](https://pulse.internetsociety.org/en/ixp-tracker/country/AO/).
 
 [On 30 April 2026 the Digital Acceleration Project's outcome indicators for broadband users, users of digital services and adopting firms all still read zero](https://documents1.worldbank.org/curated/en/099061026070543652/txt/P180693-058921d6-9889-4e02-97c2-06851c475610.txt). [Its target is 13.5 million people brought to broadband by March 2030](https://documents1.worldbank.org/curated/en/099061026070543652/txt/P180693-058921d6-9889-4e02-97c2-06851c475610.txt).
 
