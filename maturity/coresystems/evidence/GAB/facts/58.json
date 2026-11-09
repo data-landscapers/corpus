@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-16-gab-p175987-amendment-letter-loan-agreement-digital-gabon",
+ "facts": [],
+ "systems": [
+  {
+   "system": "HRMIS modules and payroll management system",
+   "country_label": "Gabon",
+   "class": "other",
+   "platform": "",
+   "owner": "Gabonese Republic",
+   "tiers": ""
+  }
+ ],
+ "note": "Only HRMIS development and linking to the existing payroll system, with no statement that it is in use across government."
+}

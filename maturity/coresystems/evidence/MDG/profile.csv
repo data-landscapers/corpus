@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-MDG,core,finance,coverage,,,,,nothing held
+MDG,core,finance,coverage,,,,,nothing found
 MDG,core,revenue,coverage,inuse,2025-09,MDG-001,,
-MDG,core,payroll,coverage,,,,,nothing held
-MDG,core,renewed,coverage,,,,,nothing held
-MDG,core,architecture,coverage,,,,,nothing held
+MDG,core,payroll,coverage,,,,,nothing found
+MDG,core,renewed,coverage,,,,,nothing found
+MDG,core,architecture,coverage,,,,,nothing found

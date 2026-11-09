@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-22-gab-gabon-fonction-publique-l-operation-d-assainissement-du-fichier-solde",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "payroll",
+   "value": "inuse",
+   "fact": "AGP reports the biometric census of public agents was cross-matched with payroll data to find agents not located, with 2025 personnel spending of about FCFA 809.1 billion, so a state payroll file is in use.",
+   "as_of": "2026-09-22",
+   "date_precision": "day",
+   "system": "fichier solde",
+   "class": "core"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

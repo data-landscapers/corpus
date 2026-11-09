@@ -1,0 +1,36 @@
+{
+ "slug": "2025-08-19-zwe-zimra-commissions-tarms-zimbabwe-s-new-digital-tax-system",
+ "facts": [
+  {
+   "sub_indicator": "core",
+   "aspect": "revenue",
+   "value": "inuse",
+   "fact": "ZIMRA commissioned TaRMS on 18 August 2025, the tax administration and revenue system that replaced its SAP-based legacy setup and is in use for filing, payments and refunds.",
+   "as_of": "2025-08-18",
+   "date_precision": "day",
+   "system": "TaRMS",
+   "class": "core"
+  },
+  {
+   "sub_indicator": "core",
+   "aspect": "renewed",
+   "value": "live",
+   "fact": "ZIMRA's release schedule shows TaRMS Release 1 (user management, TIN registration, return filing, payments) went live in December 2023, replacing the legacy SAP system.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "TaRMS",
+   "class": "core"
+  }
+ ],
+ "systems": [
+  {
+   "system": "TaRMS",
+   "country_label": "Zimbabwe",
+   "class": "core",
+   "platform": "open technologies, ZIMRA has source code access",
+   "owner": "ZIMRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
