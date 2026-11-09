@@ -1,0 +1,46 @@
+{
+ "slug": "2026-05-01-ken-the-kenya-digital-identity-playbook-identity-as-foundation-of-digital",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "The deck says more than 22,000 digital government services are onboarded on eCitizen.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "eCitizen",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "gateway",
+   "value": "single",
+   "fact": "The deck says eCitizen carries services of many bodies, with over 22,000 services online relying on the digital ID for access.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "eCitizen",
+   "class": "eservices"
+  },
+  {
+   "sub_indicator": "eservices",
+   "aspect": "usage",
+   "value": "published",
+   "fact": "The deck gives over 15 million active eCitizen accounts.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "eCitizen",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "eCitizen",
+   "country_label": "Kenya",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

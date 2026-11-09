@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-16-gab-p175987-amendment-letter-loan-agreement-digital-gabon",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "The amended Digital Gabon financing agreement (effective 2 September 2026) finances developing and operationalising a one-stop shop for public e-services for individuals and businesses.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "one-stop shop for public e-services",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-09-mar-digitalisation-mon-e-id-de-la-dgsn-enregistre-plus-de-5-millions-d-ope",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "inservice",
+   "fact": "DGSN says users can use Mon e-ID to request the criminal record, the nationality certificate and housing aid online from partner service providers.",
+   "as_of": "2024-02-09",
+   "date_precision": "day",
+   "system": "Mon e-ID (Mon identité numérique)",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": "Three services named; no count of ten or more, no portal or usage figure."
+}

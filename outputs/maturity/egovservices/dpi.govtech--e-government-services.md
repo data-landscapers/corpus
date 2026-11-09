@@ -56,9 +56,9 @@ Use of the national government services portal was published in 2026.
 
 ### Kenya: 5 Leading
 
-Use of the national government services portal was published in 2024.
+One national portal carried over 22,000 services with over 15 million active accounts in 2026; its 2026 transaction count is not known.
 
-- The Director General of e-citizen said eCitizen has 11.8 million users and approximately 40,000 transactions daily ([source, 2024-07-12](https://www.publicservice.go.ke/psc-certifies-141-candidates-after-undergoing-a-data-protection-and-cybersecurity-capacity-building-programme/)).
+- The deck gives over 15 million active eCitizen accounts ([source, 2026-05](https://id4africa.com/2026/files/T1-1-3-Kenya-FINAL.pdf)).
 - The Principal Secretary says e-Citizen, connected to the IPRS database that links the National Registration Bureau, civil registration and immigration, has more than 13 million registered users ([source, 2024-05-09](https://www.kenyanews.go.ke/digital-identity-id-roll-out-on-course-ps/)).
 - KBC reports ICT Cabinet Secretary William Kabogo saying over 33,000 government services are already digitised on the eCitizen platform ([source, 2025-06-03](https://www.kbc.co.ke/govt-pledges-full-digital-access-for-persons-with-disabilities/)).
 

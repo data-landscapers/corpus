@@ -9,10 +9,10 @@
       "usage": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-004;KEN-008;KEN-014",
-      "gaps": "Use figures after December 2024 have not been found.",
-      "note": "eCitizen carries services of more than 350 agencies on one account linked to the national registers (KEN-002, KEN-008). Its Director General published 11.8 million users and about 40,000 transactions a day in July 2024 (KEN-004), which meets stage 5.",
-      "as_at": "2026-11-03"
+      "stage_sources": "KEN-021;KEN-008;KEN-014",
+      "gaps": "No 2026 count of transactions through eCitizen has been found.",
+      "note": "eCitizen carries services of more than 350 agencies on one account linked to the national registers (KEN-002, KEN-008). A May 2026 government presentation gives over 15 million active accounts (KEN-021), a published use figure, so stage 5 stands.",
+      "as_at": "2026-11-09"
     }
   ]
 }
