@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: MAR
-ledger_rows: 23
+ledger_rows: 24
 not_held: 14
-record: 0fb4aae97009
+record: becce4e9898c
 ---
 
 # News, Oct – Nov 2026
@@ -443,6 +443,20 @@ The Office des changes opened an international tender for an e-declarations plat
 **[The AI Maturity Matrix 2026: AI Is Transforming How Economies Develop and Compete](https://www.bcg.com/publications/2026/countries-most-ready-for-ai)** — Boston Consulting Group, 1 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
 The October 2026 report rates more than 75 economies on 33 indicators of exposure to AI and readiness for it. Eleven African economies are rated, and Nigeria moves up to a higher readiness group.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Customs big-data and AI project with the Korea Customs Service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Morocco, Korea Advance Customs Cooperation on AI, Digitalization](https://www.moroccoworldnews.com/2026/11/345265/morocco-korea-advance-customs-cooperation-on-ai-digitalization/)** — Morocco World News, 6 November 2026
+
+ADII and Korea Customs Service big-data and AI project, begun May 2026, in final phase by November.
 
 </div>
 
