@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-08-nga-nigeria-s-internet-capacity-expands-as-data-centre-links-hit-1tbps",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "BusinessDay reports Digital Realty's Medallion Data Centre in Lagos, a carrier-neutral facility hosting most IXPN traffic, is interconnected at 1Tbps with Equinix and 500Gbps with Rack Centre, per IXPN's chief executive.",
+   "as_of": "2026-11-08",
+   "date_precision": "day",
+   "system": "Medallion Data Centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Medallion Data Centre",
+   "country_label": "Nigeria",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Digital Realty",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
