@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-01-cmr-procedure-d-obtention-des-titres-identitaires",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "payment",
+   "value": "inservice",
+   "fact": "The DGSN brochure says the 10,000 FCFA stamp duty for the national identity card is paid online at pre-enrolment.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "idcam.cm online payment of stamp duty",
+   "class": "revenue"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
