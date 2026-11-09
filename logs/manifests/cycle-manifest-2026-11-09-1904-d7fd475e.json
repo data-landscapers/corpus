@@ -1,0 +1,33 @@
+{
+ "schema": 3,
+ "written_utc": "2026-11-09 19:04",
+ "pass": "NOTES-FOR-OSINT",
+ "head": "d7fd475e85719ea25155ca6b3b35017a94a1b940",
+ "head_committed_utc": "2026-11-09 19:04",
+ "collection": {
+  "last_admission": "2026-11-08 23:19",
+  "sweep_closed": "2026-11-08 21:27",
+  "ingest_started": "2026-11-08 21:29"
+ },
+ "rotation": {
+  "days": 2,
+  "newest_close": {
+   "day": "2",
+   "jobs": [
+    "SWEEP-FINANCIERS",
+    "SWEEP-IATI",
+    "SWEEP-COUNTRY-DEEP"
+   ],
+   "start": "2026-11-08 21:04",
+   "end": "2026-11-09 00:28",
+   "duration": "3:24",
+   "skipped": false,
+   "in_progress": false
+  },
+  "in_progress": []
+ },
+ "counts": {
+  "awaiting_ingest": 0,
+  "raw_sources": 43709
+ }
+}
