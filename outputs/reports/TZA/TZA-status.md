@@ -1,12 +1,12 @@
 ---
 title: Tanzania: status report
-compiled: 2026-11-07
+compiled: 2026-11-09
 place: TZA
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 12
-sources_cited: 284
+sources_cited: 287
 sections_written: 39
 not_established: 0
 acquire_lines: 45
@@ -56,6 +56,8 @@ The [Personal Data Protection Act No. 11 of 2022](https://www.mawasiliano.go.tz/
 [Payments out of Tanzania ran through the East African Payment System and SADC-RTGS, not the instant-payment system](https://bot.go.tz/Publications/Regular/Annual%20Report/en/2025032515311662.pdf), in 2025. [A Tanzania–Rwanda instant-payment corridor was still being worked through at a technical meeting in Zanzibar](https://www.thecitizen.co.tz/tanzania/business/eac-advances-tanzania-rwanda-cross-border-digital-payments-integration-5523374) in July 2026. [At the Monetary Affairs Committee's July 2026 meeting the single East African currency target stayed at 2031](https://www.eac.int/documents?controller=download&task=download.file&file=84a90aa8-df68-461c-9541-d0e124507d2f&name=29th%20EAC%20MAC%20Communique.pdf.pdf). [The committee minuted that no partner state, Tanzania included, had met all four primary convergence criteria](https://www.eac.int/documents?controller=download&task=download.file&file=84a90aa8-df68-461c-9541-d0e124507d2f&name=29th%20EAC%20MAC%20Communique.pdf.pdf). [Its remedy is a peer review mechanism for macroeconomic surveillance](https://www.eac.int/documents?controller=download&task=download.file&file=84a90aa8-df68-461c-9541-d0e124507d2f&name=29th%20EAC%20MAC%20Communique.pdf.pdf).
 
 [In February 2026 the Pan African Postal Union's Secretary General named Tanzania's addressing work and its UPU S42 certification a benchmark for the continent](https://ippmedia.com/the-guardian/news/local-news/read/tanzania-registers-12-million-housing-addresses-to-boost-digital-governance-2026-02-09-105732). [He said that without harmonised addressing e-commerce cannot scale](https://ippmedia.com/the-guardian/news/local-news/read/tanzania-registers-12-million-housing-addresses-to-boost-digital-governance-2026-02-09-105732).
+
+[In October 2025 the state operator and the Congolese fibre company officialised a cable from Kigoma to Kalemie under Lake Tanganyika](https://afriqueitnews.com/tech-media/rdc-tanzanie-interconnexion-fibre-optique-pourrait-transformer-region/). [Its Kigoma land works were 5% complete in August 2026, with completion expected in April 2027](https://www.mawasiliano.go.tz/news/naibu-waziri-mkama-akagua-mradi-wa-mkongo-wa-taifa-kuunganisha-tanzania-na-drc).
 
 [In August 2025 officials placed the country's data-governance work inside the African Union Data Policy Framework of 2022](https://www.mwananchi.co.tz/mw/habari/kitaifa/tanzania-yajipanga-ukinara-ulinzi-wa-data-uchumi-wa-kidijitali-afrika-5173946). [At the Geneva Global Dialogue on AI Governance in July 2026, Tanzania called for global AI rules that do not leave developing countries behind](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-calls-for-stronger-global-cooperation-on-ai-governance-5520194). [Tanzania scored 57.2 out of 100 for regional integration in 2023, 15th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-tz.pdf), up 1.5 points over the decade.
 
@@ -188,7 +190,7 @@ Across the border, [the East African Community endorsed a regional Secure Data S
 
 [Enrolment opens only from age 18, and the Infant Registration Bill that would extend it to newborns had not been tabled and enacted as of early 2026](https://www.biometricupdate.com/202506/tanzania-launching-infant-biometric-registration-pilot-with-unicef-support). [No biometric method works for children under five, so NIDA links a child's identity to the mother's national ID](https://www.biometricupdate.com/202506/tanzania-launching-infant-biometric-registration-pilot-with-unicef-support). [Child identification was under pilot in three districts in September 2026](https://www.thecitizen.co.tz/tanzania/news/national/why-your-nida-number-is-more-than-just-a-numeral-5598108).
 
-[In April 2026 NIDA was procuring a second phase of the register, adding iris and facial recognition to the existing fingerprint biometrics](https://www.biometricupdate.com/202604/tanzania-seeks-biometrics-contractors-for-phase-ii-of-national-digital-id-project). The second phase also builds a headquarters in Dodoma and extends enrolment offices to 31 districts. [The first phase built the core and disaster-recovery data centres and registration offices in 13 districts](https://dailynews.co.tz/nida-executes-national-id-system-expansion-project-ii/). [A request to print cards in Zanzibar as passports are printed was declined in May 2026](https://dailynews.co.tz/national-ids-to-stay-under-centralised-printing/). The stated grounds were that centralised printing protects biometric data and encryption from fraud and leakage.
+[In April 2026 NIDA was procuring a second phase of the register, adding iris and facial recognition to the existing fingerprint biometrics](https://www.biometricupdate.com/202604/tanzania-seeks-biometrics-contractors-for-phase-ii-of-national-digital-id-project). The second phase also builds a headquarters in Dodoma and extends enrolment offices to 31 districts. [In February 2026 NIDA said it would issue a redesigned card with anti-forgery features and a machine-readable zone for travel, at Sh20,000 for existing holders](https://www.mwananchi.co.tz/mw/habari/kitaifa/nida-kubadili-muundo-vitambulisho-vya-taifa-5370652). [The first phase built the core and disaster-recovery data centres and registration offices in 13 districts](https://dailynews.co.tz/nida-executes-national-id-system-expansion-project-ii/). [A request to print cards in Zanzibar as passports are printed was declined in May 2026](https://dailynews.co.tz/national-ids-to-stay-under-centralised-printing/). The stated grounds were that centralised printing protects biometric data and encryption from fraud and leakage.
 
 [There is no judicial route of appeal against refusal or cancellation of a national ID](https://digitalid.design/RIA%20docs/CIS_DigitalID_RIA_Tanzania_31.10.21.pdf). The appeal lies to the Director of Registration and then to the Minister, whose decision is final.
 
