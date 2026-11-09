@@ -1,11 +1,11 @@
 ---
 title: Eswatini — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: SWZ
-ledger_rows: 30
+ledger_rows: 31
 not_held: 3
-record: fa9729d7894c
+record: f8ad3ea4a19d
 ---
 
 # News, Oct – Nov 2026
@@ -483,6 +483,20 @@ Eswatini's Home Affairs Minister Pholile Shakantu told the portfolio committee t
 **[Country Profile on AI Governance: Eswatini](https://www.aipolicy.africa/country-profiles/eswatini)** — AI Policy Lab (LawyersHub), 7 October 2026
 
 Eswatini scored 1.07 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked 32 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its pillar scores are fellow-assigned, strongest Regional Integration (1.60) and weakest Implementation and Impact (0.70); its AI strategy is still in draft, a data protection authority is appointed, and no AI bill text was found.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Ayre Index of AI readiness</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Eswatini risks missing E1.2bn AI economic opportunity – study](https://times.co.sz/47905/business/eswatini-risks-e1-2bn-ai-economic-opportunity-study/)** — Times of Eswatini, 6 November 2026
+
+Ayre Index: Eswatini 52nd of 56, 36.9/100 vs benchmark 53; youth unemployment 52.6%; full 56-country table.
 
 </div>
 
