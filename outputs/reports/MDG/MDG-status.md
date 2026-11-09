@@ -1,6 +1,6 @@
 ---
 title: Madagascar: status report
-compiled: 2026-11-07
+compiled: 2026-11-09
 place: MDG
 region: XEA
 built_by: STATUS-INIT
@@ -119,10 +119,10 @@ Seventy-five digital-sector commitments to Madagascar are held with a start year
 All 75 carry a dollar amount, and together they come to about US$442 million as at November 2026 — committed sums, not disbursements.
 
 <!-- derived -->
-The World Bank holds five of the 75 and about 81 per cent of the money; China Eximbank's loan, at about US$55 million, is the largest from any other financier (November 2026). USAID made 33 of the commitments, together worth about US$14 million.
+The World Bank holds five of the 75 and about 81 per cent of the money; China Eximbank's loan, at about US$55 million, is the largest from any other financier (November 2026). USAID made 33 of the commitments, together worth about US$14 million (November 2026).
 
 <!-- derived -->
-Connectivity takes the largest share of the money, about US$190 million, ahead of digital identity at US$143 million and digital payments at about US$53 million (November 2026). National statistics has the most commitments, 32, worth about US$46 million together.
+Connectivity takes the largest share of the money, about US$190 million, ahead of digital identity at US$143 million and digital payments at about US$53 million (November 2026). National statistics has the most commitments, 32, worth about US$46 million together (November 2026).
 
 <!-- derived -->
 The June 2025 development policy operation and PRODUIRE2 are not among them: digital is one reform area in the first and land services a small part of the second.
