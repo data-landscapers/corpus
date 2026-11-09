@@ -1,10 +1,10 @@
 ---
 title: Access to services — News, October – November 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 subject: include.access
 places: BFA; CPV; COD; ETH; GAB; GHA; KEN; LBR; MDG; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; UGA; ZMB
-record: 7c74ada83138
+record: 5440e3980257
 ---
 
 # News, Oct – Nov 2026

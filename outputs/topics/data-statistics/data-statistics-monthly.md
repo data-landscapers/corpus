@@ -1,10 +1,10 @@
 ---
 title: National statistics — News, October – November 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 subject: data.statistics
-places: BDI; CAF; COG; COD; EGY; GNQ; GAB; GHA; KEN; MWI; MLI; MOZ; RWA; SEN; SLE; ZAF; TZA; TUN
-record: 4f818f5a1a04
+places: BDI; CAF; COG; COD; EGY; GNQ; GAB; GHA; KEN; MWI; MLI; MOZ; RWA; SEN; SLE; ZAF; TZA; TUN; UGA
+record: 3cfd7a29c087
 ---
 
 # News, Oct – Nov 2026
@@ -45,6 +45,8 @@ record: 4f818f5a1a04
 <a href="#tanzania">Tanzania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tunisia">Tunisia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#uganda">Uganda</a>
 </nav>
 
 ## Burundi
@@ -436,6 +438,22 @@ Tunisia's telecoms regulator, the Instance Nationale des Télécommunications, p
 **[Tunisie : près de 86 % des 10-70 ans sont connectés et près d’un internaute sur deux utilise l’IA](https://www.leconomistemaghrebin.com/2026/10/16/86pc-10-70-ans-tunisie-connectes/)** — L'Économiste Maghrébin Tunisie, 16 October 2026
 
 Tunisia's telecoms regulator INT found in its 2026 digital barometer that 85.9% of people aged 10 to 70 use the internet, 10.9 points more than in 2023, and that 47.9% of users use AI applications, ahead of e-commerce (36.9%) and online government services (26.5%). The face-to-face survey of 5,077 people ran from 15 May to 10 June 2026; fibre accounts for 4% of connections.
+
+</div>
+
+</div>
+
+## Uganda
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Women's digital entrepreneurship barometer (AEDIB 2.0)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Technical Assistance for Capacity Building in Gender-Disaggregated Data Collection on Women's Entrepreneurship and Digitalization and Development of a Women's Digital Entrepreneurship Barometer Methodology (TZA25001-10032)](https://www.enabel.be/app/uploads/2026/11/TZA25001-10032_Tender-Specifications.pdf)** — Enabel, 6 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
+
+Enabel published tender TZA25001-10032 on 6 November 2026 for technical assistance on gender-disaggregated data on women's entrepreneurship and digitalisation. The work includes a women's digital entrepreneurship barometer methodology for Tanzania and Uganda, under a 730-day contract. Bids close on 27 November 2026 at 16:00 East Africa Time.
 
 </div>
 

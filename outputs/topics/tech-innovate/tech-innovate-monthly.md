@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — News, October – November 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 subject: tech.innovate
 places: DZA; BFA; CIV; COD; SWZ; MWI; NAM; NGA; ZAF; TZA; TUN; ZWE
-record: bc5abedf5ee5
+record: 2ea4b363e12b
 ---
 
 # News, Oct – Nov 2026

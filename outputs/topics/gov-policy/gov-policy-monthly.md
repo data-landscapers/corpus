@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 subject: gov.policy
 places: AGO; BEN; CMR; CAF; TCD; COM; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LBY; MDG; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; TGO; TUN; UGA; ZMB; ZWE
-record: db1f81c0a76a
+record: 590029926a36
 ---
 
 # News, Oct – Nov 2026
@@ -878,6 +878,20 @@ South Africa's regulator ICASA published a Discussion Document on 30 October 202
 **[Country Profile on AI Governance: Togo](https://www.aipolicy.africa/country-profiles/togo)** — AI Policy Lab (LawyersHub), 7 October 2026
 
 Togo scored 1.24 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked 26 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Regional Integration (2.57) and its weakest are Infrastructure and Data, Human Capital and Implementation and Impact (1.00 each); its AI strategy is in draft, the Digital Code is pending, and it has ratified the Malabo Convention.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Postal-sector development policy 2026-2029</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Conseil des ministres du 06 novembre 2026](https://www.republiquetogolaise.tg/gestion-publique/0711-12467-conseil-des-ministres-du-06-novembre-2026)** — Togo Officiel, République Togolaise, 7 November 2026
+
+Togo's Council of Ministers met on 6 November 2026 and authorised submission for adoption of a national postal-sector policy for 2026-2029. Its five orientations include digital transformation, digital financial services and e-commerce. The council also took a first reading of a bill amending the 2018 land and property code to digitalise land management and create a national land observatory.
 
 </div>
 

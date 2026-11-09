@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: 2d15c87ef889
+record: 2f6a426f07ea
 ---
 
 # News, Oct – Nov 2026
@@ -473,6 +473,20 @@ Egypt's Financial Regulatory Authority licensed Souhoola to provide fintech-base
 **[رئيس «اتصالات النواب»: الحكومة ستتقدم بمشروع قانون تصنيف وتداول وإتاحة البيانات بين القطاعات الحكومية خلال أسابيع](https://www.almasryalyoum.com/news/details/4400426)** — Al-Masry Al-Youm, 3 November 2026
 
 Egypt's government will send parliament a bill on classifying and sharing data between state bodies within weeks, the chair of the ICT committee said on 3 November 2026. It will be the first law the committee studies. He tied it to the one-stop service file.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Financial Regulatory Authority technology sandbox</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cairo ICT 2026: FRA Chairman Highlights Digital Transformation in Non-Banking Finance](https://fra.gov.eg/en/fra_news/%d8%ae%d9%84%d8%a7%d9%84-%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d8%A7%d9%84%d9%87%d9%8A%d8%A6%d8%A9-%d8%A7%d9%84%d8%b9%D8%A7%D9%85%D8%A9-%D9%84%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85/)** — Financial Regulatory Authority (Egypt), 7 November 2026
+
+Egypt's Financial Regulatory Authority reported over 1.727 million e-KYC verifications in non-bank finance by late October 2026, against 354,000 at the end of 2025. It put registered digital contracts at 862,000, against 190,000. Presenting at Cairo ICT 2026 on 7 November 2026, it said its sandbox had taken 67 applications and moved two to live testing.
 
 </div>
 

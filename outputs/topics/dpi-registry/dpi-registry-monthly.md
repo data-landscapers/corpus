@@ -1,10 +1,10 @@
 ---
 title: Registries — News, October – November 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; CMR; COM; CIV; COD; ETH; GAB; GMB; GHA; GIN; LSO; LBR; MDG; MLI; MRT; MUS; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZWE
-record: ed133013ce8a
+record: c1d448b69549
 ---
 
 # News, Oct – Nov 2026
@@ -169,7 +169,7 @@ Benin's national identification agency says 98% of the population is enrolled. I
 
 **[Burkina Faso : Plus de 433 000 ménages recensés dans le Registre social unique](https://aesinsider.com/burkina-faso-plus-de-433-000-menages-recenses-dans-le-registre-social-unique/)** — AES Insider, 27 October 2026
 
-433,888 households, over 2m people, at 30 June 2026: 30% of target across 110 communes; ID interconnection pending.
+AES Insider reported that Burkina Faso's social registry committee met on 27 October 2026 in Ouagadougou. The family and solidarity minister, Pélagie Kaboré, said the registry held 433,888 households at 30 June 2026, over 2 million people in 110 communes. She put this at 30% of the target and called for faster expansion and links to other systems.
 
 </div>
 
@@ -612,7 +612,7 @@ Namibia's Auditor-General found that the ministry responsible for child grants k
 
 **[N$44m paid to 'ghost' grant beneficiaries](https://neweralive.na/n44m-paid-to-ghost-grant-beneficiaries/)** — New Era, 15 October 2026
 
-FY2024/25 audit: 8,099 of 488,753 grant beneficiaries unmatched to the population register; N$43.83m paid to 3,922 dead.
+New Era reported on 15 October 2026 that Namibia's auditor general found N$43.83 million paid to 3,922 social grant beneficiaries confirmed dead in 2024/25. The audit also found 3,350 duplicate child records, with N$28.79 million in duplicate payments. In the population register match, 8,099 of 488,753 beneficiaries could not be matched.
 
 </div>
 

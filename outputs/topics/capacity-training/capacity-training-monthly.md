@@ -1,10 +1,10 @@
 ---
 title: Training and skills — News, October – November 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 subject: capacity.training
-places: BFA; CAF; CIV; DJI; COD; EGY; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN
-record: cfd2d13eea79
+places: BFA; CAF; CIV; DJI; COD; EGY; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MDG; MUS; MAR; MOZ; NGA; RWA; SOM; ZAF; TZA; TGO; TUN
+record: 349f325a3062
 ---
 
 # News, Oct – Nov 2026
@@ -23,6 +23,8 @@ record: cfd2d13eea79
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gabon">Gabon</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#gambia">Gambia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -164,6 +166,22 @@ Egypt's communications and labour ministries signed a memorandum to digitise the
 **[Gabon Taps Huawei, ST DIGITAL to Build Digital Skills Training Centre](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-taps-huawei-st-digital-to-build-digital-skills-training-centre)** — We Are Tech, 6 November 2026
 
 ST DIGITAL Gabon and Huawei Technologies Gabon signed a memorandum of understanding in Shanghai on 4 November 2026 to set up a National Talent Training Centre. It will train Gabonese technicians and instructors in networking, cybersecurity, cloud computing, AI, 4G mobile networks and fibre optics. The signing took place during President Oligui Nguema's visit to China.
+
+</div>
+
+</div>
+
+## Gambia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Labour Digital Skill programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gov't launches D40M digital skills programme for 1,280 youths](https://thepoint.gm/africa/gambia/headlines/govt-launches-d40m-digital-skills-programme-for-1280-youths)** — The Point (The Gambia), 6 November 2026
+
+The Point reported on 6 November 2026 that The Gambia launched a D40 million digital skills programme under the World Bank-funded WARDIP. Contracts were signed with three training institutions to train 1,280 young people over three years. Courses include software development, cybersecurity and data analytics, and the programme includes three-month internships.
 
 </div>
 

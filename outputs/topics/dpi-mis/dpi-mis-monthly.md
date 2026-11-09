@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems — News, October – November 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 subject: dpi.mis
 places: AGO; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 54256cde00b2
+record: b9429da2c323
 ---
 
 # News, Oct – Nov 2026
@@ -378,7 +378,7 @@ The Tax Authority contracted eTax to build and run a platform that analyses elec
 
 **[التضامن: ربط بيانات 13 مليون أسرة بـ27 قاعدة حكومية لتعزيز دقة استهداف مستحقي الدعم](https://almessa.gomhuriaonline.com/764443/)** — جريدة المساء, 6 November 2026
 
-Social registry of 13m households, about half of Egypt's, linked to 27 government databases by national ID number.
+Assabah reported on 6 November 2026 that Egypt's national social registry holds 13 million households, about half the country's total. Raafat Shafik, assistant to the social solidarity minister, said it links to 27 government databases. He spoke at an Arab conference in Tunisia and described its use in the Takaful and Karama cash programme.
 
 </div>
 
@@ -456,6 +456,20 @@ The Oromia Supreme Court and the Ethiopian Artificial Intelligence Institute rev
 **[Douanes : le Gabon passe au contrôle numérique](https://fr.infosgabon.com/douanes-le-gabon-passe-au-controle-numerique/)** — Infos Gabon, 6 October 2026
 
 IKA Technologie presented on 29 September 2026 the integrated customs operations management system it is building for Gabon under the Gabon Connect project. Its first lot covers customs clearance of minerals and the special hydrocarbons warehouse. No cost or go-live date is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AGRI-TRACK 241 agricultural data platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon/Agriculture : AGRI-TRACK 241, une plateforme numérique pour accompagner la filière avicole](https://agpgabon.ga/gabon-agriculture-agri-track-241-une-plateforme-numerique-pour-accompagner-la-filiere-avicole/)** — Agence Gabonaise de Presse, 7 November 2026
+
+Gabon's agriculture and digital-economy ministries signed a cooperation protocol on 3 November 2026 to deploy AGRI-TRACK 241, a platform for agricultural data. AGP reported it on 7 November 2026. Its first module, SYSTEP, will support 150 poultry farms, starting with a cohort of 79. This is ahead of a halt to broiler imports set for 1 January 2027.
 
 </div>
 
@@ -1113,7 +1127,7 @@ Tech Africa News reported on 6 November 2026 on Tanzania's M-Mama emergency refe
 
 **[Digital transformation cuts NHIF claims payment period to 50 days](https://www.thecitizen.co.tz/tanzania/news/national/digital-transformation-cuts-nhif-claims-payment-period-to-50-days-5661158)** — The Citizen, 6 November 2026
 
-Settlement time 120 to 50 days in FY2024/25; paper forms down 75%; systems linked to NIDA and RITA.
+Tanzania's National Health Insurance Fund cut its average claims settlement time from 120 to 50 days in FY2024/25, according to its briefing of 6 November 2026. It credits digitised claims processing and AI. It reports paper claim forms down 75% and card costs down 80%, with systems linked to NIDA and RITA.
 
 </div>
 

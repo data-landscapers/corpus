@@ -1,10 +1,10 @@
 ---
 title: India activities — News, October – November 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 subject: geopol.india
 places: MUS
-record: 27350d2cc441
+record: 7f7f46ef1848
 ---
 
 # News, Oct – Nov 2026

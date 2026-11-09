@@ -1,10 +1,10 @@
 ---
 title: MoUs and other agreements — News, October – November 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 subject: finance.mou
-places: BWA; BDI; ETH; NGA; SEN; SDN; TZA; UGA
-record: 0c829ddc8449
+places: BWA; BDI; EGY; ETH; NGA; SEN; SDN; TZA; UGA
+record: aa35146da86c
 ---
 
 # News, Oct – Nov 2026
@@ -13,6 +13,8 @@ record: 0c829ddc8449
 <a href="#botswana">Botswana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burundi">Burundi</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ethiopia">Ethiopia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -54,6 +56,22 @@ Orange Botswana and Huawei Technologies Botswana signed a memorandum of understa
 **[Burundi: Bujumbura Seeks South Korean Support for Digital Identity Infrastructure](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-bujumbura-seeks-south-korean-support-for-digital-identity-infrastructure)** — We are Tech, 21 October 2026
 
 Burundi's finance and digital economy minister met South Korea's science and ICT ministry in Seoul in October 2026. They discussed cooperation on digital identity, data centres, secure hosting of public data and links between government agencies. Financing through KOICA and Korea's EDCF fund was explored, with training and cybersecurity support.
+
+</div>
+
+</div>
+
+## Egypt
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Telecom Egypt and e-finance memorandum on government digital services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Minister of Communications Attends Graduation of 20 Startups under “WE Innovate Star” Program](https://egyptinnovate.com/en/news/minister-of-communications-attends-graduation-of-20-startups-under-we-innovate-star-program)** — EgyptInnovate, 8 November 2026
+
+Telecom Egypt and e-finance signed a memorandum at Cairo ICT 2026, held from 7 to 10 November. It covers joint telecoms, cloud and digital services for government and companies. At the same event, 20 cybersecurity and AI startups graduated from Telecom Egypt's WE Innovate Star programme. The programme is run with the telecoms regulator's EG-CERT.
 
 </div>
 

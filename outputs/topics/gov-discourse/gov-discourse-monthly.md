@@ -1,10 +1,10 @@
 ---
 title: Public debate and participation in policymaking — News, October – November 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 subject: gov.discourse
 places: DZA; CIV; GAB; MWI; NGA; TUN; ZMB; ZWE
-record: 69fe8af76061
+record: 81fcdce65a92
 ---
 
 # News, Oct – Nov 2026

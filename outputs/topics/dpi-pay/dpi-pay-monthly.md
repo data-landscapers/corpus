@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 subject: dpi.pay
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 35e08f03f8e8
+record: a847481dce57
 ---
 
 # News, Oct – Nov 2026
@@ -834,6 +834,20 @@ Mastercard and Moovn Technologies signed a five-year agreement, announced on 19 
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Kenswitch 3-D Secure access control server</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenswitch Partners with PayU's Wibmo to Strengthen Online Card Security in Kenya](https://www.business-standard.com/content/press-releases-ani/kenswitch-partners-with-payu-s-wibmo-to-strengthen-online-card-security-in-kenya-126110200460_1.html)** — Business Standard (ANI press release), 2 November 2026
+
+Kenswitch, Kenya's domestic payment switch, announced on 2 November 2026 a partnership with Wibmo, a PayU company. Banks connected to Kenswitch gain an EMV 3-D Secure access control server for online card payments. It checks risk in real time and may ask for a one-time password, biometrics or a push approval.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">PesaLink</p>
 
 <div class="bulletin-item" markdown="1">
@@ -855,6 +869,20 @@ Kenya's Postbank joined the Pesalink network, reported on 4 November 2026, so cu
 **[Safaricom H1 profit jumps 36% to $448m](https://www.itweb.africa/article/safaricom-h1-profit-jumps-36-to-448m/wbrpO7g2eJOvDLZn)** — ITWeb Africa, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ETH/ETH-monthly.html" title="ETH">Ethiopia</a>
 
 Safaricom's net income rose 35.9% to KES 58.2 billion in the six months to 30 September 2026. M-PESA revenue grew 13.6% to KES 100.1 billion. Safaricom Ethiopia raised service revenue 71.6% and narrowed its EBITDA loss to KES 434.4 million.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Redtech Kenya-Nigeria payments corridor</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Redtech Plans a Kenya-Nigeria Payments Corridor With Kenyan Launch in 2027](https://techweez.com/2026/11/07/redtech-plans-a-kenya-nigeria-payments-corridor-with-kenyan-launch-in-2027/)** — Techweez, 7 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
+
+Redtech, a Nigerian payments company, plans a payments link between Nigeria and Kenya, its chief executive Emmanuel Ojo told Techweez in a report of 7 November 2026. A Kenyan launch is planned by the first quarter of 2027, through partners. Ojo says some African markets settle within 24 hours while others take three or four days.
 
 </div>
 
@@ -1316,6 +1344,20 @@ Under the Central Bank of Nigeria's regulations released on 5 November 2026, the
 **[Paga expands Direct Debit access for businesses beyond its network](https://techcabal.com/2026/11/05/paga-engine-expands-direct-debit-access/)** — TechCabal, 5 November 2026
 
 Paga now lets businesses collect direct debits from customers of other Nigerian financial institutions through Paga Engine, using existing interbank rails. TechCabal reported it on 5 November 2026. Central Bank of Nigeria data show 157.4 million direct-debit transactions worth about ₦23.3 trillion in 2024.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Redtech Kenya-Nigeria payments corridor</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Redtech Plans a Kenya-Nigeria Payments Corridor With Kenyan Launch in 2027](https://techweez.com/2026/11/07/redtech-plans-a-kenya-nigeria-payments-corridor-with-kenyan-launch-in-2027/)** — Techweez, 7 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+
+Redtech, a Nigerian payments company, plans a payments link between Nigeria and Kenya, its chief executive Emmanuel Ojo told Techweez in a report of 7 November 2026. A Kenyan launch is planned by the first quarter of 2027, through partners. Ojo says some African markets settle within 24 hours while others take three or four days.
 
 </div>
 

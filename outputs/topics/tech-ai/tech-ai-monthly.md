@@ -1,10 +1,10 @@
 ---
 title: AI — News, October – November 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 subject: tech.ai
-places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ab84ebf58b20
+places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 0e9e39f2f0e0
 ---
 
 # News, Oct – Nov 2026
@@ -55,6 +55,8 @@ record: ab84ebf58b20
 <a href="#guinea-bissau">Guinea-Bissau</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#kenya">Kenya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#madagascar">Madagascar</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -613,6 +615,20 @@ Eswatini scored 1.07 out of 4 on the Africa AI Governance Index 2026, in the Eme
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Ayre Index of AI readiness</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Eswatini risks missing E1.2bn AI economic opportunity – study](https://times.co.sz/47905/business/eswatini-risks-e1-2bn-ai-economic-opportunity-study/)** — Times of Eswatini, 6 November 2026
+
+The Ayre Index, launched at the Commonwealth Heads of Government Meeting and reported on 6 November 2026, ranks Eswatini 52nd of 56 countries. It scores 36.9 out of 100 against a benchmark of 53. The study puts the AI opportunity at about E1.23 billion over a decade. It records youth unemployment of 52.6%, the highest of the 56.
+
+</div>
+
+</div>
+
 ## Ethiopia
 
 <div class="monthly-story" markdown="1">
@@ -916,6 +932,22 @@ Kenyan fintech WayaWaya announced a partnership with Choice Bank on 6 November 2
 
 </div>
 
+## Libya
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Labour ministry integrated AI-supported platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزارة العمل والتأهيل تستعد لتشغيل منصتها الشاملة وتوحيد بياناتها ](https://lana.gov.ly/post.php?id=369567&lang=ar)** — Libyan News Agency (LANA), 8 November 2026
+
+Libya's Ministry of Labour and Rehabilitation said on 8 November 2026 that its digital platform is ready for web use, with iOS and Android versions to follow. The minister ordered staff data registration to be completed so that the platform's unified database can go live. The implementer is Nasr Global IT.
+
+</div>
+
+</div>
+
 ## Madagascar
 
 <div class="monthly-story" markdown="1">
@@ -1010,6 +1042,20 @@ The October 2026 report rates more than 75 economies on 33 indicators of exposur
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Customs big-data and AI project with the Korea Customs Service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Morocco, Korea Advance Customs Cooperation on AI, Digitalization](https://www.moroccoworldnews.com/2026/11/345265/morocco-korea-advance-customs-cooperation-on-ai-digitalization/)** — Morocco World News, 6 November 2026
+
+Morocco World News reported on 6 November 2026 that Moroccan customs (ADII) and the Korea Customs Service have entered the final phase of a joint project. It began in May 2026 and is run by the Korean firm Okestro. It covers big data and AI for revenue management and digital governance, according to an ADII statement.
+
+</div>
+
+</div>
+
 ## Mozambique
 
 <div class="monthly-story" markdown="1">
@@ -1021,6 +1067,22 @@ The October 2026 report rates more than 75 economies on 33 indicators of exposur
 **[Country Profile on AI Governance: Mozambique](https://www.aipolicy.africa/country-profiles/mozambique)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Mozambique scored 0.96 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 34 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its pillar scores are fellow-assigned, strongest Strategy and Vision (1.60) and weakest Implementation and Impact (0.30); the profile lists a draft AI strategy not yet adopted, an AI commission created and no data protection law.
+
+</div>
+
+</div>
+
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Commonwealth youth AI readiness index score</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Study Projects US$324M Boost to Mozambique’s GDP from AI Over the Next Decade - Consulting.co.mz | Business Consulting, Procurement & Audit in Mozambique](https://consulting.co.mz/study-projects-us324m-boost-to-mozambiques-gdp-from-ai-over-the-next-decade/)** — Consulting.co.mz, 6 November 2026
+
+The 2026 Ayre Index, reported on 6 November 2026, ranks Mozambique 44th of 56 Commonwealth countries on youth readiness for AI. It scores 38.9 out of 100 against a threshold of 53. The study projects AI could add US$324 million to GDP over ten years. It cites electricity access of 36.9% and internet use of 35% among young people.
 
 </div>
 
@@ -1272,7 +1334,7 @@ Senegal and the Gates Foundation launched the Senegal AI Scaling Hub in Dakar on
 
 **[Escroqueries par intelligence artificielle : la CDP appelle à la vigilance face au clonage de voix et aux deepfakes](https://cdp.sn/actualites/52517c7a-0431-45a3-b40b-48f28bc2e965)** — Commission de Protection des Données Personnelles (Senegal), 5 November 2026
 
-Voice and image are personal data under Law 2008-12; unconsented AI cloning ruled unlawful processing.
+Senegal's data protection commission (CDP) warned on 5 November 2026 of rising AI scams using voice cloning and deepfakes. It says a person's voice and image are personal data under Law 2008-12. Copying them with AI without consent is unlawful processing, it says. It advises people to call back on a known number.
 
 </div>
 
@@ -1637,7 +1699,7 @@ Tunisian Customs spokesman Colonel-Major Chokri Jabri said on 12 October 2026 th
 
 **[سجل المؤسسات يدخل عصر "الروبوتات"](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/157289-%D8%B3%D8%AC%D9%84-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D9%8A%D8%AF%D8%AE%D9%84-%D8%B9%D8%B5%D8%B1-%D8%A7%D9%84%D8%B1%D9%88%D8%A8%D9%88%D8%AA%D8%A7%D8%AA)** — Assabah News, 5 November 2026
 
-Two AI bots launched 5 Nov 2026: Nawarni founder guide and trade-name reservation; HiiL-built, Dutch-funded.
+Tunisia's National Business Registry announced two AI services on 5 November 2026. Nawarni is a chatbot that guides founders through company creation and the choice of legal form. A second bot checks and reserves trade names. The Hague Institute for Innovation of Law built them, with funding from the Dutch embassy.
 
 </div>
 
@@ -1713,7 +1775,7 @@ Zimbabwe's ICT minister Tatenda Mavetera tasked the ministry's new AI Unit with 
 
 **[Home Affairs Minister admits Smart Traffic Management System makes mistakes amid motorist complaints](https://www.newzimbabwe.com/home-affairs-minister-admits-smart-traffic-management-system-makes-mistakes-amid-motorist-complaints/)** — NewZimbabwe, 6 November 2026
 
-Minister concedes plate-capture errors at 20 Harare sites; police validation lapse; MP asks it be treated as a pilot.
+Zimbabwe's Home Affairs Minister Kazembe Kazembe told the National Assembly that the Smart Traffic Management System makes errors when it captures vehicle registration details, NewZimbabwe reported on 6 November 2026. He accepted motorists' complaints of misidentification and a lapse in police validation before tickets are issued. The number-plate system runs at 20 sites in Harare.
 
 </div>
 

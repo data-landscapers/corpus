@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, October – November 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 subject: infra.store
 places: DZA; BWA; BFA; CMR; EGY; SWZ; GMB; GHA; KEN; LBY; MAR; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: aae34e39daab
+record: 148a683abdf8
 ---
 
 # News, Oct – Nov 2026
@@ -130,6 +130,20 @@ Orange Business Cameroon describes its data centre, open since May 2017, as Tier
 **[Uptime Institute Awards in Cameroon](https://uptimeinstitute.com/uptime-institute-awards/country/id/CM)** — Uptime Institute, 28 October 2026
 
 Uptime Institute's register for Cameroon lists two Tier III design certifications. They cover Cameroon Telecommunications' Camtel NBN II data centre and MTN Cameroon's data centre, both in Yaoundé.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Port Autonome de Douala data centre at the Dibamba industrial-port zone</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MISSOLE | : LES ÉTATS UNIS S’ENGAGENT AUX CÔTÉS DU PORT AUTONOME DE DOUALA POUR BÂTIR UN DATA CENTER DE DERNIÈRE GÉNÉRATION](https://lavoixdelacite.com/2026/11/07/missole-les-etats-unis-sengagent-aux-cotes-du-port-autonome-de-douala-pour-batir-un-data-center-de-derniere-generation/)** — La Voix de la Cité, 7 November 2026
+
+The Port Autonome de Douala plans a two-hectare modular data centre, built for AI and with its own power plant, at its Dibamba industrial-port zone. It was shown to US chargé d'affaires John G. Robinson on a visit reported on 7 November 2026. The port says the site would keep hosted data under Cameroonian sovereignty. It names no builder, financier or timeline.
 
 </div>
 
@@ -325,7 +339,7 @@ Kenya's Public Private Partnerships Directorate signed a funding agreement on 23
 
 **[AMACO and ARISE IIP Advance US$700 Million Power and AI Infrastructure Project in Mombasa](https://www.kenyaengineer.co.ke/amaco-and-arise-iip-advance-us700-million-power-and-ai-infrastructure-project-in-mombasa/)** — Kenya Engineer, 6 November 2026
 
-MoU for HERCULES at Dongo Kundu: minimum US$700m, 250 MW initial rising to 1 GW, LNG power barge feeding AI data centres.
+Kenya Engineer reported on 6 November 2026 that AMACO Energy and ARISE IIP Kenya signed an MoU on HERCULES. It is a proposed power and AI data centre project at Dongo Kundu, Mombasa. AMACO puts the investment at a minimum of US$700 million, with about 250 MW of LNG-based generation rising to 1 GW.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, October – November 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: bd2156bdaf12
+record: 5668e4bad031
 ---
 
 # News, Oct – Nov 2026
@@ -357,7 +357,7 @@ Germany Trade & Invest listed the World Bank-financed PAFEN tender for Burundi's
 
 **[Cameroun : le nettoyage du fichier solde de l'État de nouveau repoussé après huit ans](https://ecomatin.net/cameroun-le-nettoyage-du-fichier-solde-de-letat-de-nouveau-repousse-apres-huit-ans)** — Ecomatin, 14 October 2026
 
-Payroll clean-up slips to 2027; AIGLES live since 1 Jan 2025, biometrics module unfinished, FCFA 7.2bn budget at risk.
+Ecomatin reported on 14 October 2026 that Cameroon's clean-up of the state payroll file will slip to 2027. The head of state's budget circular lists finishing the physical headcount of state staff, begun in 2018, among 2027 priorities. The AIGLES payroll system has been live since January 2025, but its biometrics module is unfinished.
 
 </div>
 
@@ -900,7 +900,7 @@ Gabon's National Assembly launched a Legislative Work Management Platform (GTLAN
 
 **[Allocation de rentrée scolaire 2027-2028 : la CPPF accélère sa révolution numérique](https://www.gabonreview.com/allocation-de-rentree-scolaire-2027-2028-la-cppf-accelere-sa-revolution-numerique/)** — GabonReview, 6 November 2026
 
-BAANA portal goes zero-paper in Greater Libreville; closes 1 Feb 2027; prior round 71,412 beneficiaries, XAF 4.36bn.
+Gabon's civil-service pension and family fund (CPPF) opened collection of school certificates for the 2027-2028 school allowance on 5 November 2026. Parents and heads enter them online on the BAANA platform. Greater Libreville goes paperless, and the campaign closes on 1 February 2027. The previous round covered 71,412 beneficiaries and XAF 4.36 billion.
 
 </div>
 
@@ -1285,6 +1285,20 @@ Liberia's Office of the Chief Information Officer met ministries and agencies on
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Revenue authority public revenue dashboard</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[LRA Commissioner General Highlights Revenue Growth, Accountability and Digital Reforms at ATAF Meetings](https://knewsonline.com/lra-commissionergeneral-highlights-revenue-growth-accountability-and-digital-reforms-at-ataf-meetings)** — Knews Liberia, 8 November 2026
+
+The Liberia Revenue Authority showed a public revenue dashboard and an AI virtual taxpayer assistant, Fatu, at the African Tax Administration Forum meetings in Cairo, reported on 8 November 2026. The dashboard gives monthly collections by revenue category and tax type. Commissioner General James Dorbor Jallah said collections rose from US$612 million in 2023 to US$848 million in 2025.
+
+</div>
+
+</div>
+
 ## Libya
 
 <div class="monthly-story" markdown="1">
@@ -1594,6 +1608,20 @@ Fees at Mozambique's new Centro Pronto document centre have drawn public anger, 
 **[Preços de passaporte, carta de condução e bilhete de identidade continuam inalteráveis](https://aimnews.org/2026/10/25/precos-de-passaporte-carta-de-conducao-e-bilhete-de-identidade-continuam-inalteraveis/)** — Agência de Informação de Moçambique (AIM), 25 October 2026
 
 A private document-services firm said on 25 October 2026 that official fees are unchanged at the public counters. The fees cover identity cards, residence permits, passports and driving licences. Its own service is an optional paid channel. An express passport costs the state fee of MZN 7,200. It adds a MZN 3,038.89 service fee and 16% VAT on that fee. Delivery takes one working day.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Seized-asset e-auction platform (Asset Management Office)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mozambique: New e-auction platform strengthens transparency in asset recovery](https://clubofmozambique.com/news/mozambique-new-e-auction-platform-strengthens-transparency-in-asset-recovery/)** — Club of Mozambique, 6 November 2026
+
+Mozambique's Asset Management Office launched an e-auction platform for assets seized from crime, Finance Minister Carla Loveira said at a Maputo seminar reported on 6 November 2026. The first auction offers 14 seized vehicles at starting prices of 70% of appraised value. The platform also has an asset-management module, a business-intelligence tool and a public monitoring portal.
 
 </div>
 
@@ -2050,6 +2078,22 @@ South Africa's National Treasury is allocating R150 million to the Presidency's 
 **[SAAFF calls for customs integration in digital VAT model](https://www.freightnews.co.za/article/saaff-calls-for-customs-integration-in-digital-vat-model)** — Freight News, 26 October 2026
 
 South Africa's revenue service closed consultation on its Digital VAT Model, built on e-invoicing and near-real-time reporting, on 16 October 2026. The freight forwarders' association asked for customs and VAT records to be linked through the Movement Reference Number. It also asked for a phased rollout and an industry pilot.
+
+</div>
+
+</div>
+
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electoral Commission voter management devices</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Technology streamlines 2026 voting process](https://www.sanews.gov.za/south-africa/technology-streamlines-2026-voting-process)** — SAnews (South African Government), 8 November 2026
+
+South Africa's Electoral Commission used 56,000 voter management devices in the 2026 Local Government Elections, Chief Electoral Officer Sy Mamabolo said on 8 November 2026. That is 16,000 more than its 2021 fleet. Of the new devices, 8,000 were bought and 8,000 donated by Gauteng. The results API took 14.3 million requests. 1,149 users joined the new Virtual Results Operating Centre.
 
 </div>
 

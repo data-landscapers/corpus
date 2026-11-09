@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, October – November 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 subject: infra.cybersec
 places: BEN; BWA; BFA; CMR; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; ZMB; ZWE
-record: 576e61f57a4f
+record: 7590b1c83ea1
 ---
 
 # News, Oct – Nov 2026
@@ -604,6 +604,22 @@ The Bank of Mauritius is tendering for the supply and implementation of a threat
 
 </div>
 
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cybercrime memorandum with India's Ministry of Home Affairs</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Highlights of Cabinet Meeting - Friday 06 November 2026](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20Friday%2006%20November%202026.pdf)** — Prime Minister's Office, Mauritius, 6 November 2026
+
+Mauritius's Cabinet agreed on 6 November 2026 that the ICT ministry will sign a cybercrime memorandum with India's Ministry of Home Affairs. It covers removal of unlawful content, legal cooperation, operational support and threats to critical information infrastructure. Cabinet also approved an Indian memorandum on a cell-broadcast disaster early-warning system, to be deployed by C-DOT.
+
+</div>
+
+</div>
+
 ## Mozambique
 
 <div class="monthly-story" markdown="1">
@@ -687,6 +703,20 @@ Cornelia Shipindo became Executive of the Namibia Cyber Security Incident Respon
 **[Namibia strengthens digital trust](http://marketwatch.com.na/market-watch/namibia-strengthens-digital-trust-nmh017323-3015-21284)** — Market Watch (Namibia Media Holdings), 4 October 2026
 
 Namibia's communications regulator launched DigiNam in Windhoek on 31 August as the public face of the national public key infrastructure, for which the regulator is root certification authority. It is meant to support electronic signatures, digital identity and authenticated online transactions under the Electronic Transactions Act of 2019.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Detected vulnerabilities and cyber events</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Namibian cybersecurity risks remain elevated – NAM-CSIRT](https://neweralive.na/namibian-cybersecurity-risks-remain-elevated-nam-csirt/)** — New Era, 6 November 2026
+
+Namibia's NAM-CSIRT, housed at the regulator CRAN, recorded 506,143 vulnerabilities and 163,053 cyber events in July to September 2026, according to its newsletter reported on 6 November 2026. Vulnerabilities fell about 1.5% from 513,921 in the second quarter. Events rose 0.93% from 161,547. Exposed Open CWMP services were the most detected, at 320,664.
 
 </div>
 
@@ -961,6 +991,21 @@ The Bank of South Sudan and the National Communication Authority signed an updat
 **[رئيس مجلس الوزراء يصدر قراراً بتشكيل الآلية الوطنية لمكافحة جرائم المعلوماتية](https://www.suna.sd/posts/ryys-mgls-alozraaa-ysdr-krara-btshkyl-alaly-alotny-lmkafh-graym-almaalomaty-bryas-msaaad-alnayb-alaaam)** — Sudan News Agency (SUNA), 19 October 2026
 
 Sudan's prime minister issued a decision on 19 October 2026 forming a National Mechanism to Combat Informatics Crimes, chaired by an assistant attorney general. It is tasked with combating cybercrime and publications deemed harmful to the state and society, monitoring media and social platforms, and taking preventive and legal action, including lawsuits on the state's behalf.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Pakistan-Sudan cybercrime memorandum</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Pakistan, Sudan to strengthen security, digital registration efforts](https://thenews.pk/print/1447584-pakistan-sudan-to-strengthen-security-digital-registration-efforts)** — The News International, 7 November 2026
+
+Pakistan and Sudan agreed to widen cooperation on security, cybercrime, police training and civil registration after interior ministers met in Islamabad, The News reported on 7 November 2026. They agreed in principle to sign a cybercrime memorandum. Pakistan's Interior Minister Mohsin Naqvi said Nadra support had helped Sudan issue 36 million citizenship cards and nine million national identity cards.
 
 </div>
 

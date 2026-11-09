@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — News, October – November 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 subject: dpi.id
-places: DZA; AGO; BEN; BWA; BFA; CMR; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: cbfc29835bf5
+places: DZA; AGO; BEN; BWA; BFA; CMR; COM; CIV; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MUS; NAM; NER; NGA; RWA; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
+record: 9b3f0f4448b3
 ---
 
 # News, Oct – Nov 2026
@@ -21,6 +21,8 @@ record: cbfc29835bf5
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cameroon">Cameroon</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#comoros">Comoros</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -295,6 +297,22 @@ At the first e-Gov Africa Summit in Yaoundé, Cameroon's public service ministry
 
 </div>
 
+## Comoros
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Identity requirement for MVola mobile-money accounts</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Conditions Générales d'Utilisation du Service TELCO MONEY (MVola)](https://www.mvola.km/wp-content/uploads/2026/11/Conditions-Generales-Utilisation.pdf)** — TELCO MONEY S.A., 1 November 2026
+
+Telco Money, the operator of the MVola mobile money service in the Comoros, published its general terms of use dated 1 November 2026. Checks scale with risk. Individuals provide an identity document and a phone check, and firms declare their beneficial owners. Records are kept for 10 years.
+
+</div>
+
+</div>
+
 ## Cote d'Ivoire
 
 <div class="monthly-story" markdown="1">
@@ -360,6 +378,21 @@ The director general of RDC-Pass, the DRC's unique digital identifier, said on 2
 **[Thales, Cyshield join forces on Egypt’s biometric border and passport plans](https://www.biometricupdate.com/202610/thales-cyshield-join-forces-on-egypts-biometric-border-and-passport-plans)** — Biometric Update, 30 October 2026
 
 Thales and the Egyptian firm Cyshield signed a memorandum on biometric border management and electronic passports for Egypt, reported on 30 October 2026. It covers biometric e-gates across more than 32 air, land and sea border points. It also covers issuance systems for a planned national e-passport rollout.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic customer identification checks in non-bank finance</p>
+
+
+<div class="bulletin-item" markdown="1">
+
+**[الرقابة المالية : طفرة في استخدام التحقق الإلكتروني «e-KYC».. والتوسع في الهوية الرقمية يدعم تقديم الخدمات المالية غير المصرفي](https://www.fintechgate.net/256737)** — بوابة التكنولوجيا المالية, 7 November 2026
+
+Fintechgate reported on 7 November 2026 that the head of Egypt's Financial Regulatory Authority, Islam Azzam, cited over 1.727 million e-KYC verifications and about 862,000 digital contracts by the end of October 2026. The figures compare with 354,000 verifications and 190,000 contracts at the end of 2025. He spoke at Cairo ICT 2026.
 
 </div>
 
@@ -639,7 +672,7 @@ Kenya's online birth registration service won gold at the Estonian Design Awards
 
 **[State turns to chiefs, e-Citizen to trace owners of uncollected IDs](https://nation.africa/kenya/news/state-turns-to-chiefs-e-citizen-to-trace-owners-of-uncollected-ids-5660290)** — Daily Nation, 6 November 2026
 
-557,000 uncollected IDs, ~400,000 over ten years old; chiefs and e-Citizen SMS alerts before January 2027 voter sign-up.
+The Daily Nation reported that Kenya's immigration department told a National Assembly committee on 5 November 2026 that at least 557,000 national ID cards are uncollected. Nearly 400,000 have waited over ten years. Chiefs and e-Citizen text alerts will be used to trace owners before voter registration opens in January 2027.
 
 </div>
 

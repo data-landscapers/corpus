@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, October – November 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: d94a84d1eed4
+record: 44ba18b0ecdc
 ---
 
 # News, Oct – Nov 2026
@@ -1040,6 +1040,20 @@ Namelok Wireless announced on 4 November 2026 a community internet network in Ki
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Seacom Africa-Asia subsea cable</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya’s AI ambitions face infrastructure test as $2 billion subsea cable takes shape](https://www.the-star.co.ke/news/africa/2026-11-06-kenyas-ai-ambitions-face-infrastructure-test-as-subsea-cable-takes-shape)** — The Star (Kenya), 6 November 2026
+
+The Star reported on 6 November 2026 that Seacom's chief technology officer, Prenesh Padayachee, expects its US$2 billion Africa-to-Asia subsea cable to be complete in 2030. He spoke on BBC Africa Enterprise. Mombasa is a key landing point for East African traffic. Seacom is also exploring post-quantum encryption for data in transit.
+
+</div>
+
+</div>
+
 ## Lesotho
 
 <div class="monthly-story" markdown="1">
@@ -1294,6 +1308,14 @@ Mauritania's regulator ARE released results on 7 October 2026 of a February–Ma
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Télécommunications : L'Autorité de Régulation inflige plus de 421 millions MRU d'amendes aux trois opérateurs nationaux - Le Quotidien](https://lequotidien.mr/?p=42474)** — Le Quotidien (Mauritania), 6 November 2026
+
+Mauritania's regulator ARE fined Mauritel, Mattel and Chinguitel a combined MRU 421,259,757 on 5 November 2026 for poor voice and data service quality. Each fine is 3% of turnover: Mauritel MRU 262.1 million, Mattel 108.8 million and Chinguitel 50.4 million. ARE also ordered a technical and financial network audit and a permanent performance-monitoring platform.
+
+</div>
+
 </div>
 
 ## Mauritius
@@ -1417,6 +1439,14 @@ The Internet Exchange Point of Nigeria, founded in 2006, is marking its 20th ann
 **[Nigeria targets 90% local Internet traffic, regional hub power](https://guardian.ng/technology/tech/nigeria-targets-90-local-internet-traffic-regional-hub-power/)** — The Guardian Nigeria, 4 November 2026
 
 The Internet Exchange Point of Nigeria (IXPN) marked its 20th year with a goal of 90% local traffic by 2046. Chief executive Muhammed Rudman said up to 70% of traffic is now local, against 1% in 2006. The exchange has over 130 connected networks and plans 1.6T capacity trials in 2033-2036.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria’s internet capacity expands as data centre links hit 1Tbps - Businessday NG](https://businessday.ng/technology/article/nigerias-internet-capacity-expands-as-data-centre-links-hit-1tbps/)** — BusinessDay Nigeria, 8 November 2026
+
+The link between Digital Realty's Medallion data centre and Equinix in Lagos has reached 1 terabit per second. Medallion's link to Rack Centre runs at 500 gigabits per second. Muhammed Rudman, head of the Internet Exchange Point of Nigeria, gave the figures at its 20th anniversary event. BusinessDay reported them on 8 November 2026.
 
 </div>
 
@@ -1941,6 +1971,20 @@ Togo's regulator ARCEP opened a tender, number 004/ARCEP/PRMP/2026 of 25 Septemb
 **[Museveni Orders Cancellation of UTel Deal, Calls Investors ‘Bafere’ Over Missing $25 Million](https://nilepost.co.ug/news/376831/museveni-orders-cancellation-of-utel-deal-calls-investors-bafere-over-missing-25-million)** — Nile Post, 9 October 2026
 
 Uganda's President Yoweri Museveni ordered the cancellation of the government's agreement with Rowad Capital Commercial to revive Uganda Telecom at a State House meeting on 6 October 2026, according to unnamed meeting sources. The investor had not paid the initial US$25 million of a US$225 million package in four years. Ministries are to prepare a Cabinet paper on state funding for the revival.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Uganda-Tanzania fibre route on the transmission network</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Questions swirl over internet deal between Uganda, Tanzania](https://www.monitor.co.ug/uganda/news/national/questions-swirl-over-internet-deal-between-uganda-tanzania-5654914)** — Monitor (Daily Monitor), 2 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a>
+
+Uganda's talks with Samanga Utilities now centre on a 1,775 km fibre line run by the Uganda Electricity Transmission Company, the Daily Monitor reported on 2 November 2026. A Samanga and Liquid Telecommunications joint venture is being evaluated for a $4.6 million contract. The paper says it is unclear whether it would add Tanzanian capacity. It might only operate the existing fibre.
 
 </div>
 
