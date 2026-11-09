@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-14-civ-la-guinee-et-la-cote-d-ivoire-signent-un-accord-d-interconnexion-par-f",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Agence Ecofin says Guinea has only one fibre connection, mainly the ACE submarine cable to which it has been linked since 2014.",
+   "as_of": "2024-10-14",
+   "date_precision": "day",
+   "system": "ACE",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

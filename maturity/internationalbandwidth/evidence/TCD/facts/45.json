@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-19-cmr-le-tchad-securise-sa-connectivite-avec-le-cameroun-par-un-nouvel-accor",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Sika Finance says Chad has depended on Cameroon's digital infrastructure for 90% of its connectivity since 2015, its only other international route having been put out of service by the war in Sudan.",
+   "as_of": "2025-05-19",
+   "date_precision": "day",
+   "system": "SOTEL-CAMTEL fibre interconnection",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": "A second route is promised, not in service."
+}

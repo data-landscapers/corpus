@@ -1,0 +1,15 @@
+{
+ "slug": "2026-07-01-ago-angola-telecom-preve-operacao-do-cabo-submarino-sarssy-ate-2027",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SARSSy",
+   "country_label": "NAM",
+   "class": "other",
+   "platform": "subsea cable",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Namibian routes not stated; SARSSy is planned."
+}

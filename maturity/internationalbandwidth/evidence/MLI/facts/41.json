@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-mli-burkina-mali-niger-l-aes-adopte-sa-feuille-de-route-numerique-commune",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Startup Medias says the three landlocked AES countries depend on the submarine cables of their coastal neighbours for international connectivity.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "International fibre via coastal neighbours",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": "Joint bandwidth purchase is only a planned axis."
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-19-cmr-le-tchad-securise-sa-connectivite-avec-le-cameroun-par-un-nouvel-accor",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Sika Finance says Cameroon's submarine cable at Kribi is in use, and that Cameroon opened access to it to Chad in 2015.",
+   "as_of": "2025-05-19",
+   "date_precision": "day",
+   "system": "Kribi submarine cable",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

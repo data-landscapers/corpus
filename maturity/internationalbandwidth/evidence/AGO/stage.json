@@ -1,16 +1,17 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "routes",
-   "stage": "3",
-   "routes": "two",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "AGO-009;AGO-014",
-   "gaps": "No source found says two of the routes land at different stations, or run through two different neighbours.",
-   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "routes",
+      "stage": "5",
+      "routes": "independent",
+      "access": "open",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-017;AGO-014;AGO-002",
+      "gaps": "",
+      "note": "Reassessed 2026-11-09: Angola Telecom said in July 2026 that a land link to Namibia runs beside the cables landing at Sangano and Cacuaco, so two routes share no landing station (AGO-017), and 2Africa entered operation by April 2026 (AGO-014). Angola Cables sells wholesale capacity on SACS (AGO-002).",
+      "as_at": "2026-11-09"
+    }
+  ]
 }

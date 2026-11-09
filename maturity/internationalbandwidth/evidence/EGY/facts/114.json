@@ -1,0 +1,15 @@
+{
+ "slug": "2024-11-06-egy-telecom-egypt-africa-1-cable-lands-ras-ghareb",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Africa-1",
+   "country_label": "Egypt",
+   "class": "other",
+   "platform": "submarine cable",
+   "owner": "Africa-1 consortium",
+   "tiers": ""
+  }
+ ],
+ "note": "Africa-1 first landed at Ras Ghareb in Nov 2024; operational phase still ahead, so not in service."
+}

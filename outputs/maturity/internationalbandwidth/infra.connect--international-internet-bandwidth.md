@@ -1,6 +1,6 @@
 # International internet bandwidth: fibre routes to the rest of the world
 
-*As at 2026-10-30.*
+*As at 2026-11-09.*
 
 ## The norm
 
@@ -20,15 +20,23 @@ The African Union's Digital Transformation Strategy 2020–2030 asks every membe
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 8 |
-| 4 Operating | 6 |
-| 3 Established | 29 |
+| 5 Leading | 9 |
+| 4 Operating | 7 |
+| 3 Established | 27 |
 | 2 Nascent | 9 |
 | 1 Absent | 1 |
 | Unplaced | 0 |
 | No evidence | 1 |
 
 ## Countries
+
+### Angola: 5 Leading
+
+Angola has cables landing at two Luanda stations and a land link to Namibia (2026), and capacity is sold wholesale on SACS.
+
+- Yuri Silva says a terrestrial fibre link already exists between Santa Clara in Angola and Ondjiva in Namibia, over which the two operators provide services in both directions, besides the submarine cables landing at Sangano and Cacuaco in Luanda ([source, 2026-07](https://pti.ao/angola-telecom-preve-operacao-do-cabo-submarino-sarssy-ate-2027/)).
+- The minister listed among Angola's sector investments the entry into operation of the 2Africa submarine cable, besides the SACS and WACS systems, i.e. three submarine systems in service; no landing stations are named and the date is the article's date ([source, 2026-04-28](https://angop.ao/noticias/tecnologia/centro-de-dados-do-governo-representa-afirmacao-da-soberania-digital-de-angola-ministro/)).
+- Ciena states Angola Cables sells wholesale capacity on its SACS and MONET cables to hyperscale, cloud, wholesale, content and enterprise customers, from a single 100 Gbps to a full fibre pair, including spectrum ([source, 2026-09-29](https://www.ciena.com/about/newsroom/press-releases/angola-cables-boosts-capacity-across-monet-and-sacs-submarine-cable-systems-with-ciena-technology)).
 
 ### DR Congo: 5 Leading
 
@@ -115,6 +123,13 @@ Two independent fibre routes abroad by 2026; no source found says whether other 
 - Agence Ecofin (17 Aug 2026) says landlocked Burkina Faso relies on coastal neighbours Cote d'Ivoire, Ghana and Togo for submarine-cable capacity, described as three existing transit corridors; the ministry wants Nigeria added ([source, 2026-08](https://www.agenceecofin.com/actualites-numerique/1708-140913-le-burkina-faso-se-tourne-vers-le-nigeria-pour-son-acces-a-la-connectivite-internationale)).
 - Mobile Europe (15 Jul 2026) says CSquared's existing architecture includes the Equiano cable, landing in Nigeria and Togo, which reaches Burkina Faso via CSquared's terrestrial backbone ([source, 2026-07-15](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/)).
 
+### Congo: 4 Operating
+
+Congo has two submarine cables and fibre links to five neighbours (2025); whether other operators buy capacity is not known.
+
+- Minister Léon Juste Ibombo said on 14 May 2025 that Congo is interconnected by fibre optic cable with DRC, Gabon, Central African Republic, Cameroon and Angola, and has landed the 2Africa submarine cable off Pointe-Noire ([source, 2025-05-14](https://labreveonline.com/osiane-le-congo-et-5-pays-voisins-desormais-interconnectes-par-fibre-optique/)).
+- DCD reports President Sassou N'Guesso activated Congo's connection to the 2Africa cable at Pointe-Noire on 28 February 2024 ([source, 2024-02-28](https://www.datacenterdynamics.com/en/news/republic-of-congo-launches-data-center-in-pointe-noire-for-2africa-cable)).
+
 ### Djibouti: 4 Operating
 
 Two independent fibre routes abroad by 2021; no source found says whether other operators buy capacity on them.
@@ -141,13 +156,6 @@ Two independent fibre routes abroad by 2025; no source found says whether other 
 Two independent fibre routes abroad by 2026; no cable of more than 100 Tbps is known to carry its traffic.
 
 - Minister Zerrouki told the APN that Algeria is connected to the global internet through four submarine cable systems, SEA-ME-WE 4, Medex, Orval (Oran-Valence) and Alval (Alger-Valence), plus an Alger-Palma cable; the document names Oran and Algiers as separate cable origins but does not use the words landing station ([source, 2026-01-15](http://news.radioalgerie.dz/fr/node/77708)).
-
-### Angola: 3 Established
-
-Two or more fibre routes abroad by 2026; no source found says whether two are independent of each other.
-
-- Telecoms minister Mário Oliveira states in an ANGOP op-ed that WACS links Angola to the west African coast and Europe and SACS links Luanda to Fortaleza, Brazil, together reducing dependence on a single international route; two routes in service, WACS landing station not named ([source, 2026-08-24](https://angop.ao/noticias/economia/soberania-digital-do-governo-de-angola-uma-necessidade-que-se-impoe/)).
-- The minister listed among Angola's sector investments the entry into operation of the 2Africa submarine cable, besides the SACS and WACS systems, i.e. three submarine systems in service; no landing stations are named and the date is the article's date ([source, 2026-04-28](https://angop.ao/noticias/tecnologia/centro-de-dados-do-governo-representa-afirmacao-da-soberania-digital-de-angola-ministro/)).
 
 ### Burundi: 3 Established
 
@@ -181,13 +189,6 @@ Two or more fibre routes abroad by 2024; no source found says whether two are in
 
 - Digital Watch Observatory states Comoros is linked to regional and global fibre systems including EASSy, FLY-LION3 and 2Africa, with Moroni a multi-cable landing point (three named systems, one landing point). Page gives no date for the statement beyond published 2024 (its text refers to 2025 events) ([source, 2024](http://web.archive.org/web/20260824175002/https://dig.watch/countries/comoros)).
 - The Comorian minister states that 2Africa will be a fourth international submarine cable joining those already operational, i.e. three in service; the cables and landing stations are not named. Document date used as the statement date ([source, 2022-09-29](https://pp.itu.int/2022/en/itu_policy_statements/kamalidini-souef-comoros/)).
-
-### Congo: 3 Established
-
-Two or more fibre routes abroad by 2026; no source found says whether two are independent of each other.
-
-- Africa Business Insight (2026-05-25) says Congo has access to two submarine cable systems, unnamed, and that the Central African Republic has a fibre link to Congo under the Central African Backbone project ([source, 2026-05-25](https://africabusinessinsight.com/central-african-republic-seeks-new/)).
-- DCD reports the 2Africa landing at Pointe-Noire is near the existing WACS station, so two cables are in service at the same landing area ([source, 2024-02-28](https://www.datacenterdynamics.com/en/news/republic-of-congo-launches-data-center-in-pointe-noire-for-2africa-cable)).
 
 ### Cote d'Ivoire: 3 Established
 

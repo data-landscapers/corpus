@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-14-civ-la-guinee-et-la-cote-d-ivoire-signent-un-accord-d-interconnexion-par-f",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Agence Ecofin says, citing the Submarine Cable Map, that Cote d'Ivoire is linked to six international submarine cables.",
+   "as_of": "2024-10-14",
+   "date_precision": "day",
+   "system": "International submarine cables",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
