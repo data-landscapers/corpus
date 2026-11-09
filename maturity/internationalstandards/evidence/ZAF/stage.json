@@ -8,10 +8,10 @@
       "use": "writes",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZAF-002",
-      "gaps": "All four questions are answered.",
-      "note": "Counted from the four questions by study-ladder-internationalstandards.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "ZAF-002;ZAF-001",
+      "gaps": "No row names an adopted national standard on information technology or data, or a rule requiring public bodies to meet one; questions 2 and 3 are answered only by the rule that a later yes answers the earlier ones.",
+      "note": "ISO lists SABS as participating in ISO/IEC JTC 1 and its SC 27, SC 37 and SC 42 in 2026, which answers question 4 and, by the rule that a later yes answers the earlier ones, questions 1 to 3.",
+      "as_at": "2026-11-09"
     }
   ]
 }

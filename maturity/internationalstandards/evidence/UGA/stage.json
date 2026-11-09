@@ -1,16 +1,17 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "international",
-   "stage": "4",
-   "standing": "adopted",
-   "use": "required",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-001",
-   "gaps": "No source from the last three years naming the standards body or a public body as a participating member, chair or secretariat of an ISO or IEC committee on information technology or data is held.",
-   "note": "Counted from the four questions by study-ladder-internationalstandards.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "international",
+      "stage": "4",
+      "standing": "adopted",
+      "use": "required",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-001",
+      "gaps": "No dated source from the last three years names a participating seat on an ISO or IEC committee on information technology or data. No row states ISO membership or a named national adoption; both are answered only by the rule that a later yes answers the earlier ones.",
+      "note": "NITA-U's 2026 policy, mandatory for ministries and agencies, requires ISO/IEC 27001:2022, which answers question 3 and, by the rule that a later yes answers the earlier ones, questions 1 and 2. No committee seat is held, so question 4 is unanswered.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }

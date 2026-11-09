@@ -1,6 +1,6 @@
 # Adoption of international standards: international standards for information technology and data
 
-*As at 2026-10-17.*
+*As at 2026-11-09.*
 
 ## The norm
 
@@ -35,11 +35,13 @@ The African Continental Free Trade Area's annex on technical barriers to trade, 
 In October 2026 Rwanda's standards board listed participating membership of 28 ISO committees, including IT service management; national adoption of any standard is not known.
 
 - The RSB page lists Rwanda as a participating member of ISO/IEC JTC 1/SC 40 on IT service management and IT governance, and an observer on JTC 1 and SC 27 ([source, 2026-10](https://www.rsb.gov.rw/standards/our-technical-committees/rsb-technical-committees/international-and-regional-technical-committees)).
+- The Rwanda Standards Board page lists participating (P) membership of 28 ISO technical committees ([source, 2026-10](https://www.rsb.gov.rw/standards/our-technical-committees/rsb-technical-committees/international-and-regional-technical-committees)).
 
 ### South Africa: 5 Leading
 
 South Africa's standards body took part in the international information technology standards committee in 2026; no source found says whether it adopts those standards nationally.
 
+- ISO's membership page lists the South African Bureau of Standards as participating in ISO/IEC JTC 1 and its subcommittees on information technology, including SC 27 information security, SC 37 biometrics and SC 42 artificial intelligence ([source, 2026](https://www.iso.org/member/1485.html?t=PT&view=participation)).
 - ISO's membership page lists the South African Bureau of Standards as participating in ISO/IEC JTC 1 and its subcommittees on information technology, including SC 27 information security, SC 37 biometrics and SC 42 artificial intelligence ([source, 2026](https://www.iso.org/member/1485.html?t=PT&view=participation)).
 
 ### Uganda: 4 Operating
@@ -304,7 +306,7 @@ Tunisia's standards body, INNORPI, was an ISO member body in 2026; no internatio
 
 A 2026 aviation order requires one passenger-data system to meet an international security standard; membership of ISO is not known, so no stage is set.
 
-Not established: No source names the standards body as a member of ISO or IEC, or says it belongs to neither. The one row is a transport ministry order requiring the API/PNR system to meet ISO/IEC 27001, a rule for one sector.
+Not established: No source names the standards body as a member of ISO or IEC, or says it belongs to neither. The one row is a transport ministry order binding one government system, which places nothing.
 
 ### Botswana: No evidence
 

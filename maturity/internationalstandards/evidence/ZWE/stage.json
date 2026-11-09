@@ -1,16 +1,17 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "international",
-   "stage": "3",
-   "standing": "adopted",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZWE-001",
-   "gaps": "No source found names a law, decree, regulation, directive or circular requiring public bodies to meet a named international standard on information technology or data.",
-   "note": "Counted from the four questions by study-ladder-internationalstandards.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "international",
+      "stage": "3",
+      "standing": "adopted",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-001",
+      "gaps": "No source found names a law, decree, regulation, directive or circular requiring public bodies to meet a named international standard on information technology or data.",
+      "note": "SAZ lists ZWS ISO/IEC 27001:2022 as a Zimbabwe Standard, which answers question 2. No row names a law, decree, regulation, directive or circular requiring public bodies to meet one, so question 3 is unanswered.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }

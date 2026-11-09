@@ -10,8 +10,8 @@
       "flags": "",
       "stage_sources": "CMR-001",
       "gaps": "No source found names an international standard on information technology or data adopted as a national standard.",
-      "note": "Counted from the four questions by study-ladder-internationalstandards.py.",
-      "as_at": "2026-10-17"
+      "note": "ISO lists ANOR as a member body that is also an IEC member, which answers question 1; its committees are not named. No row names an international standard on information technology or data adopted as a national one, so question 2 is unanswered.",
+      "as_at": "2026-11-09"
     }
   ]
 }

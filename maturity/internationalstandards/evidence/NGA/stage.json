@@ -10,8 +10,8 @@
       "flags": "",
       "stage_sources": "NGA-001",
       "gaps": "No source found names an international standard on information technology or data adopted as a national standard.",
-      "note": "Counted from the four questions by study-ladder-internationalstandards.py.",
-      "as_at": "2026-10-17"
+      "note": "ISO lists SON as a member body, which answers question 1; its 109 committees are not named, so question 4 is not read from them. No row names an international standard on information technology or data adopted as a national one, so question 2 is unanswered.",
+      "as_at": "2026-11-09"
     }
   ]
 }

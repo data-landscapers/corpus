@@ -10,8 +10,8 @@
       "flags": "",
       "stage_sources": "COD-001;COD-002",
       "gaps": "No source found names an international standard on information technology or data adopted as a national standard.",
-      "note": "Counted from the four questions by study-ladder-internationalstandards.py.",
-      "as_at": "2026-10-17"
+      "note": "ISO lists OCC as the member body, and OCC says so itself in 2024, which answers question 1; the IEC affiliate programme is not membership. No row names an international standard on information technology or data adopted as a national one, so question 2 is unanswered.",
+      "as_at": "2026-11-09"
     }
   ]
 }
