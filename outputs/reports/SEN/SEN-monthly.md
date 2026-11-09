@@ -3,9 +3,9 @@ title: Senegal — News, Oct – Nov 2026
 compiled: 2026-11-09
 period: 2026-10-01 to 2026-11-09
 place: SEN
-ledger_rows: 36
+ledger_rows: 35
 not_held: 2
-record: 47fcb990751d
+record: f9476fabeb00
 ---
 
 # News, Oct – Nov 2026
@@ -60,7 +60,7 @@ Senegal's telecoms and digital ministry aims to restructure the postal sector by
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Digital governance committee (GouvNum)</p>
+<p class="monthly-story__name">Digital governance steering committee (GouvNum)</p>
 
 <div class="bulletin-item" markdown="1">
 
@@ -69,12 +69,6 @@ Senegal's telecoms and digital ministry aims to restructure the postal sector by
 In an open note to Senegal's prime minister, economist Seydou Bocoum argues that the new digital governance committee (GouvNum) cannot deliver digital identity and e-government until five prerequisites are met: practical access to information under law 2025-15, reliable networks, a working national addressing system, a social data tariff and visible sanctions by the regulator ARTP. He cites ARTP tests in Popenguine in June 2025 where call and data success rates fell well below regulatory thresholds, and proposes a 30-day stocktake followed by an interministerial action plan within 60 to 90 days.
 
 </div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Digital governance steering committee</p>
 
 <div class="bulletin-item" markdown="1">
 
