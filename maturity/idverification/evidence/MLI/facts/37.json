@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-24-mli-decret-2023-0679-identification-agents-fonctions-publiques",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Decree 2023-0679 of 16 November 2023 makes identification of all state and local civil servants compulsory, matching each agent's data against the biometric RAVEC data, with unidentified agents struck from the payroll file.",
+   "as_of": "2023-11-16",
+   "date_precision": "day",
+   "system": "Civil servant identification against RAVEC",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RAVEC",
+   "country_label": "Mali",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

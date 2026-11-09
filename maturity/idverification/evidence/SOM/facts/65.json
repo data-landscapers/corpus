@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-17-som-nira-and-central-bank-of-somalia-sign-mou-to-strengthen-financial-serv",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "NIRA says it and the Central Bank of Somalia signed an MoU to link financial services to the National ID system, and NIRA introduced its Hubiye System for customer verification that banks and financial institutions will use.",
+   "as_of": "2024-10-17",
+   "date_precision": "day",
+   "system": "Hubiye System",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Hubiye System",
+   "country_label": "Hubiye",
+   "class": "relying",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

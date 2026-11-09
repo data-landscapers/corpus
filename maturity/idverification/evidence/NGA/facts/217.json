@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-12-nga-nigeria-intends-to-boost-universal-health-coverage-drive-with-digital",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "NHIA and NIMC signed an MoU to integrate the NIN with the health insurance system, linking NHIA members' identity to patient records; the article (Biometric Update) describes the unified system as to be put in place.",
+   "as_of": "2025-10-12",
+   "date_precision": "day",
+   "system": "NHIA-NIMC NIN integration",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIN",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "NIMC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

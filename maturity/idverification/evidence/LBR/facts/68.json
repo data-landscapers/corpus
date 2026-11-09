@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-17-lbr-government-extends-national-id-deadline-to-august-31",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "NIR's Executive Director said on 16 June 2025 that financial institutions are fully integrated with the KYC system and that NIR is deploying secure APIs for authorised institutions to access verified data.",
+   "as_of": "2025-06-16",
+   "date_precision": "day",
+   "system": "National ID registry KYC",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

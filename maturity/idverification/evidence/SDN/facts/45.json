@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-14-sdn-sudani-fintech-officially-launches-sah-platform",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Sudatel's statement says the launched Sah platform has direct connectivity with the Civil Registry, enabling faster user identity verification.",
+   "as_of": "2026-04-14",
+   "date_precision": "day",
+   "system": "Sah",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

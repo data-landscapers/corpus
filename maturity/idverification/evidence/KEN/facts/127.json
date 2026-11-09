@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-06-ken-state-turns-to-chiefs-e-citizen-to-trace-owners-of-uncollected-ids",
+ "facts": [],
+ "systems": [
+  {
+   "system": "e-Citizen SMS notification",
+   "country_label": "KEN",
+   "class": "other",
+   "platform": "e-Citizen",
+   "owner": "State Department for Immigration and Citizen Services",
+   "tiers": ""
+  }
+ ],
+ "note": "Only the ID system's own card collection; no other system checking against the ID."
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-20-sle-ncra-natca-and-mobile-operators-sign-landmark-mou-for-nin-sim-integrat",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "NaTCA says mobile operators can securely access the NCRA national ID database to verify subscribers for NIN-SIM linkage, and the system is now fully operational.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "NIN-SIM integration",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NIN-SIM integration",
+   "country_label": "Sierra Leone",
+   "class": "relying",
+   "platform": "NCRA national ID database accessed by mobile operators",
+   "owner": "NCRA with NaTCA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

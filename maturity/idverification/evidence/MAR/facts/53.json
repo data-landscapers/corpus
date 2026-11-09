@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-02-mar-accord-cadre-de-partenariat-pour-le-developpement-de-l-e-gouvernement",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The digital transition ministry and the DGSN signed a framework agreement on 2 May 2025 to make the trusted-third-party platform's identity verification services available to e-government services.",
+   "as_of": "2025-05-02",
+   "date_precision": "day",
+   "system": "national trusted-third-party platform",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

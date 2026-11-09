@@ -1,0 +1,37 @@
+{
+ "slug": "2025-09-16-nga-126m-nigerians-secure-nin-database-capacity-hits-250m-fg",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "NIMC's director-general said NIN verification facilitated student loans for over 449,000 students since May 2024, and the NIN-SIM linkage is enforced with the NCC.",
+   "as_of": "2025-09-16",
+   "date_precision": "day",
+   "system": "NIN verification",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The document names NIN use in telecoms (SIM linkage), education loans (NELFUND), agriculture programmes and health insurance enrolment.",
+   "as_of": "2025-09-16",
+   "date_precision": "day",
+   "system": "NIN verification",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "NIMC reports 449,000 students benefited from loans via NIN verification (N86.35 billion disbursed) and data linked with 125 partner agencies.",
+   "as_of": "2025-09-16",
+   "date_precision": "day",
+   "system": "NIN verification",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

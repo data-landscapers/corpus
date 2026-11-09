@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-lso-identity-in-finance-a-case-study-of-the-kingdom-of-lesotho",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "ID4Africa deck says that after a 2019 pilot by the Central Bank of Lesotho, Ministry of Finance and FinMark Trust succeeded, financial institutions connect to the NID via API for KYC identification and verification and more institutions were allowed to use it.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "NICR KYC API",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identity and Civil Registration (NICR) system",
+   "country_label": "NICR",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

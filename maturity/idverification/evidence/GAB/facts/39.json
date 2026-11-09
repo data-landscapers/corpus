@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-16-gab-p175987-amendment-letter-loan-agreement-digital-gabon",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The amended Digital Gabon financing agreement (effective 2 September 2026) finances digital authentication of social protection beneficiaries' identity and upgrading ID authentication technology for the civil service HR system, both against the RBPP ID system.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "RBPP System authentication",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "use",
-      "stage": "unplaced",
-      "use": "",
+      "stage": "2",
+      "use": "underway",
       "sectors": "",
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "The 2026 justice platforms take the NINA number and the payroll check asks for the NINA card as a paper; nothing found since October 2023 says either checks people against the ID.",
-      "note": "A number keyed into an application and a card shown as a paper are not checks against the ID system, so no rung is met.",
-      "as_at": "2026-11-08"
+      "stage_sources": "MLI-003;MLI-004",
+      "gaps": "No source found since October 2023 says a service in use checks people against the ID: SIM rules have operators record the NINA, and the justice platforms and payroll take the number or the card.",
+      "note": "Decree 2023-0679 of November 2023 orders every civil servant's data matched against the biometric RAVEC records, so a use is under way. SIM registration records the NINA rather than checking it against the register, so not 3.",
+      "as_at": "2026-11-09"
     }
   ]
 }

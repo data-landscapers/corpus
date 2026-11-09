@@ -20,12 +20,12 @@ The African Union's interoperability framework and the AfCFTA Digital Trade Prot
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 10 |
-| 4 Operating | 7 |
-| 3 Established | 15 |
-| 2 Nascent | 8 |
+| 5 Leading | 11 |
+| 4 Operating | 8 |
+| 3 Established | 13 |
+| 2 Nascent | 10 |
 | 1 Absent | 0 |
-| Unplaced | 6 |
+| Unplaced | 4 |
 | No evidence | 8 |
 
 ## Countries
@@ -52,6 +52,14 @@ Banks, SIM registration and state services check the Ghana Card; 191 financial i
 
 - NIA Executive Secretary Kenneth Attafuah said 191 financial institutions, including the Bank of Ghana, all 24 universal banks and 145 rural banks, had been onboarded onto the NIA's personal verification system platform to verify clients' identities ([source, 2024-02-02](https://www.ghanaweb.com/GhanaHomePage/NewsArchive/191-financial-institutions-now-have-seamless-access-to-National-Identification-Authority-Data-1914728)).
 - BBC reported on 2026-07-16 that the Ghana Card is needed for banking services, SIM card registration, and passport and driver's licence applications ([source, 2026-07-16](https://www.bbc.co.uk/news/articles/cn4n9q538z2o)).
+
+### Kenya: 5 Leading
+
+Over 22,000 services relied on the digital ID in 2026, with tax, health insurance, banks and SIM registration checking against it.
+
+- The deck says over 22,000 services are online relying on the digital ID for access ([source, 2026-05](https://id4africa.com/2026/files/T1-1-3-Kenya-FINAL.pdf)).
+- The deck lists KRA tax, health insurance, education, financial e-KYC, SIM registration and social protection systems as connected to the national ID verification ([source, 2026-05](https://id4africa.com/2026/files/T1-1-3-Kenya-FINAL.pdf)).
+- The same presentation gives SIM card registration (telecoms) and bank account opening (banking) as transactions the Maisha Card is validated for through KYC ([source, 2023-11-01](https://id4africa.com/2024/ps1/PS1-2-Kenya-Final.pdf)).
 
 ### Malawi: 5 Leading
 
@@ -117,14 +125,6 @@ Lenders' and insurers' checks and government portals verified people against the
 - Egypt's Public Prosecution announced on 10 September 2026 that access to its electronic portal's personal-status document copy services is limited to users whose identity is verified through the Digital Egypt portal's digital identity ([source, 2026-09-10](https://www.youm7.com/story/2026/9/10/%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D8%B9%D8%A8%D8%B1-%D8%A8%D9%88%D8%A7%D8%A8%D8%AA%D9%87%D8%A7/7541763)).
 - Enterprise reports that Digital Egypt accounts are opened with the 14-digit national ID and the mobile number registered to it, unlocking civil status, traffic, real estate, court and commercial registry services ([source, 2026-08-02](https://enterpriseam.com/egypt/2026/08/02/your-guide-to-navigating-egypts-online-government-services/)).
 
-### Kenya: 4 Operating
-
-Services in two or more sectors checked people against the national ID in 2023; no source found reports volumes.
-
-- The same presentation gives SIM card registration (telecoms) and bank account opening (banking) as transactions the Maisha Card is validated for through KYC ([source, 2023-11-01](https://id4africa.com/2024/ps1/PS1-2-Kenya-Final.pdf)).
-- The presentation says the Maisha Integrated Database has an eKYC layer through which relying agencies request validation, answered only with Boolean yes/no values, and that data goes only to whitelisted relying agencies ([source, 2024](https://id4africa.com/2024/ps1/PS1-2-Kenya-Final.pdf)).
-- Kenya's Registration of Telecommunications Service Subscribers Regulations 2025 (Legal Notice No. 90), reported by the State Department for Immigration and Citizen Services, require biometric and ID verification for SIM registration and recognise the Refugee Identity Card as valid for it, with a six-month compliance window for existing subscribers ([source, 2025-06-09](https://usajili.go.ke/refugees-can-now-register-sim-cards-using-refugee-id-new-telecom-regulations-affirm)).
-
 ### Lesotho: 4 Operating
 
 Banks and the electoral commission's voter register relied on the national ID in 2026; no figure for verifications has been found.
@@ -132,6 +132,13 @@ Banks and the electoral commission's voter register relied on the national ID in
 - The IEC told the AU follow-up mission that its modernised voter registration system is integrated with the National Identity and Civil Registry through Unique Identification Numbers, with online registration and over 579,520 citizens registered ([source, 2026-07](https://sundayexpress.co.ls/?p=36187)).
 - Minister Lephema says legal identity has let citizens open bank accounts, access credit and use mobile money ([source, 2025-09-16](https://www.thereporter.co.ls/2025/09/16/education-sector-lags-behind-in-id-integrationlephema/)).
 - Digital identity cards in Lesotho are listed among domestic eKYC frameworks that have financial services use cases (FinMark Trust, June 2026; no date for the use, published date used) ([source, 2026-06](https://finmark.org.za/knowledge-hub/blog/building-a-cross-border-dpi-for-financial-inclusion-in-sadc)).
+
+### Liberia: 4 Operating
+
+The civil service payroll and banks checked people against the national ID in 2025; no count of those checks is known.
+
+- NIR's Executive Director said on 16 June 2025 that financial institutions are fully integrated with the KYC system and that NIR is deploying secure APIs for authorised institutions to access verified data ([source, 2025-06-16](https://liberianinvestigator.com/government-extends-national-id-deadline-to-august-31/)).
+- The National Identification Registry says an MoU with the Civil Service Agency (May 2024) allows national ID numbers to be used for payroll verification, helping identify ghost workers ([source, 2024-05](https://www.biometricupdate.com/202503/liberia-says-national-id-system-drives-digital-economy-facilitates-service-delivery)).
 
 ### Mauritania: 4 Operating
 
@@ -155,6 +162,13 @@ Services in two or more sectors checked people against the national ID in 2026; 
 - The playbook lists E-Houwiya integration across telecoms, banking, health insurance, social security, education and public portals ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 - The playbook lists services that integrate E-Houwiya, including Tunisie Telecom, the health insurer CNAM, the social security fund CNSS, five named banks, La Poste and insurance ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 - The former communications technology minister who led its design writes that E-Houwiya is open to the banking sector for remote onboarding and KYC compliance under Central Bank of Tunisia rules published 28 February 2025 ([source, 2025-03](https://idtechwire.com/e-houwiya-a-milestone-in-tunisias-digital-transformation-roadmap-2025)).
+
+### Zambia: 4 Operating
+
+Farm-input vouchers and banks checked people against the national ID in 2026; no count of those checks is known.
+
+- Bank of Zambia says Home Affairs charges banks about 80 cents per successful API call to verify against its database ([source, 2026-05-14](https://www.biometricupdate.com/202605/id4africa-panel-outlines-steady-kyc-process-policy-improvement)).
+- The Presidential Delivery Unit says the FISP e-Voucher system, a farm-input subsidy programme, uses electronic Know-Your-Customer verification to cut duplication and ghost beneficiaries, rolled out to all 116 districts with redemption closing on 15 January 2026, though the document does not name the national ID register as the thing checked ([source, 2026-01-15](https://www.pdu.gov.zm/blog/how-fisp-e-voucher-is-delivering-support-where-it-matters-most)).
 
 ### Zimbabwe: 4 Operating
 
@@ -205,12 +219,6 @@ A service checked people against the national ID in 2025; no source found report
 - The diagnostic says the Drivers License System uses the National ID system for biometric verification of applicants to prevent identity fraud and duplication; no date is given, so the document's 2025 publication year is used ([source, 2025](https://documents1.worldbank.org/curated/en/099102025103014657/pdf/P502279-e8627dee-4568-45e7-bb51-9a1aea1ff040.pdf)).
 - The World Bank ID4D diagnostic says the national ID's NIN was populated into the eCRVS to cross-verify parents' IDs when new NINs were issued after the mass enrolment ([source, 2023](https://documents1.worldbank.org/curated/en/099102025103014657/pdf/P502279-e8627dee-4568-45e7-bb51-9a1aea1ff040.pdf)).
 
-### Liberia: 3 Established
-
-A service checked people against the national ID in 2024; no source found reports use in a second sector.
-
-- The National Identification Registry says an MoU with the Civil Service Agency (May 2024) allows national ID numbers to be used for payroll verification, helping identify ghost workers ([source, 2024-05](https://www.biometricupdate.com/202503/liberia-says-national-id-system-drives-digital-economy-facilitates-service-delivery)).
-
 ### Libya: 3 Established
 
 Some government digital services matched people's national number in 2025; no source found reports use in other sectors.
@@ -258,13 +266,6 @@ Public services signed people in against the national identification number in 2
 
 - The deck says the e-ID card is used within microfinance institutions and that the unique identification number is used through verification and authentication across the ecosystem ([source, 2026](https://id4africa.com/2026/files/T1-2-4-Togo-FINAL.pdf)).
 
-### Zambia: 3 Established
-
-Services checked people against the national ID in 2026 in one sector; use in a second sector is claimed but not shown.
-
-- The Presidential Delivery Unit says the FISP e-Voucher system, a farm-input subsidy programme, uses electronic Know-Your-Customer verification to cut duplication and ghost beneficiaries, rolled out to all 116 districts with redemption closing on 15 January 2026, though the document does not name the national ID register as the thing checked ([source, 2026-01-15](https://www.pdu.gov.zm/blog/how-fisp-e-voucher-is-delivering-support-where-it-matters-most)).
-- Co-Develop says the eKYC platform verifies identity against the NRC number and has been extended to emergency drought relief and electronic health records ([source, 2024](https://www.codevelop.fund/zambia)).
-
 ### Angola: 2 Nascent
 
 Another system's use of the national ID was under way in 2026; none in service is on record.
@@ -290,11 +291,24 @@ Another system's use of the national ID was under way in 2026; none in service i
 
 - The director general says the directorate is working on an interoperability system so that administrations, banks and social protection bodies can verify the authenticity of a national ID card in real time; the document speaks of this in the future tense (they 'will be able to verify') ([source, 2026-07-23](https://www.lanation.dj/notre-vision-est-de-faire-de-la-direction-generale-de-la-population-et-de-la-famille-une-administration-entierement-modernisee-interconnectee-et-proche-des-citoyens-abdi-abdillahi-obsie/)).
 
+### Gabon: 2 Nascent
+
+A 2026 financing agreement funds checks of benefit recipients and civil servants against the ID register; no check in service is known.
+
+- The amended Digital Gabon financing agreement (effective 2 September 2026) finances digital authentication of social protection beneficiaries' identity and upgrading ID authentication technology for the civil service HR system, both against the RBPP ID system ([source, 2026-09-02](https://documents1.worldbank.org/curated/en/099090226132027563/pdf/P175987-8dfb5a41-ff83-4fc0-a597-c588997e88ba.pdf)).
+
 ### Guinea: 2 Nascent
 
 Another system's use of the national ID was under way in 2026; none in service is on record.
 
 - On 22 January 2026 the DGE and ONECI signed a convention under which the national register of persons (RNPP) is to be the sole official source of voter identification data for the biometric electoral file ([source, 2026-01-22](https://mediaguinee.com/2026/01/conakry-la-dge-et-loneci-scellent-une-alliance-pour-un-fichier-electoral-fiable/)).
+
+### Mali: 2 Nascent
+
+A 2023 decree ordered civil servants matched against the biometric civil-status census; no service checking people against the ID is known.
+
+- Decree 2023-0679 of 16 November 2023 makes identification of all state and local civil servants compulsory, matching each agent's data against the biometric RAVEC data, with unidentified agents struck from the payroll file ([source, 2023-11-16](https://sgg-mali.ml/JO/2023/mali-jo-2023-34.pdf)).
+- Mali's Council of Ministers adopted a draft decree on 8 November 2023 for identifying State and local-government civil servants under an integrated human resources management system that incorporates the biometric data of the civil-status census RAVEC, per Le Sursaut ([source, 2023-11-08](https://www.maliweb.net/fonction-publique/fonctions-publiques-de-letat-et-des-collectivites-territoriales-mise-en-oeuvre-de-loperation-didentification-des-agents-3043107.html)).
 
 ### Mozambique: 2 Nascent
 
@@ -339,18 +353,6 @@ Not established: The only fact held is a 2026 payroll census requiring the natio
 Nothing found since 2023 names another system checking people against the national ID, so no stage is set.
 
 Not established: Nothing found since October 2023 names another system checking people against the national ID.
-
-### Gabon: Unplaced
-
-Salary declarations made the personal ID number compulsory in 2026, but no check against the ID is known, so no stage is set.
-
-Not established: The only fact held is a 2026 salary declaration making the personal ID number compulsory; nothing found since October 2023 says another system checks people against the ID.
-
-### Mali: Unplaced
-
-Justice platforms took the NINA number in 2026, but no system checking people against the ID is known, so no stage is set.
-
-Not established: The 2026 justice platforms take the NINA number and the payroll check asks for the NINA card as a paper; nothing found since October 2023 says either checks people against the ID.
 
 ### Central African Republic: No evidence
 

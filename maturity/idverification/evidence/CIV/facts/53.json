@@ -1,0 +1,42 @@
+{
+ "slug": "2024-07-15-civ-cote-d-ivoire-le-numerique-au-service-de-la-securite-et-la-fiabilite-d",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "ONECI says its APIs and secure terminals let public and private institutions verify personal information against identification data.",
+   "as_of": "2024-07-15",
+   "date_precision": "day",
+   "system": "ONECI API and TVI terminals",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RNPP",
+   "country_label": "Côte d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  },
+  {
+   "system": "City Web",
+   "country_label": "Côte d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  },
+  {
+   "system": "CNI / NNI",
+   "country_label": "Côte d'Ivoire",
+   "class": "other",
+   "platform": "",
+   "owner": "ONECI",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

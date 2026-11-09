@@ -1,0 +1,17 @@
+{
+ "slug": "2026-08-14-zaf-question-no-876-cw623e-to-the-minister-of-home-affairs-draft-digital-i",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Minister of Home Affairs says the Department is expanding API-based integration for real-time identity verification with public and private sector institutions, and has signed agreements with major banks.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Home Affairs API-based identity verification",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

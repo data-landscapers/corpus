@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "EGY-005;EGY-008;EGY-013",
       "gaps": "No source gives a figure for checks against the national ID: Digified's 25 million verifications a year are the vendor's own total, and the Digital Egypt figures count users.",
-      "note": "Digified checks clients of lenders, investors and insurers against the national ID databases, and the Public Prosecution's portal admits only users verified through the Digital Egypt identity: two sectors in use, so 4. Digified's 25 million verifications are a vendor's total, not checks counted against the ID, so not 5.",
-      "as_at": "2026-11-08"
+      "note": "Digified checks clients of lenders, investors and insurers against the national ID databases, and the Public Prosecution's portal admits only users verified through the Digital Egypt identity: two sectors in use, so 4. Digified's 25 million is a vendor's total, and Haweya's five banks are a first phase not yet begun, so not 5.",
+      "as_at": "2026-11-09"
     }
   ]
 }

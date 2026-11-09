@@ -1,0 +1,26 @@
+{
+ "slug": "2024-09-07-som-nira-and-nca-host-consultative-meeting-with-telecom-companies-to-integ",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "NIRA and the National Communications Authority, meeting telecom companies on 7 September 2024, agreed to form technical committees to plan an MoU linking the National ID system with SIM registration and mobile money; no link is stated as built or in service.",
+   "as_of": "2024-09-07",
+   "date_precision": "day",
+   "system": "National Identification System (NIRA)",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification System",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "",
+   "owner": "NIRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-01-16-com-mvola-particuliers",
+ "facts": [],
+ "systems": [
+  {
+   "system": "MVola",
+   "country_label": "Comoros",
+   "class": "other",
+   "platform": "mobile money",
+   "owner": "Telco Money S.A. (Yas)",
+   "tiers": ""
+  }
+ ],
+ "note": "MVola only has merchants view an original ID card or passport; no check against the national ID system is stated."
+}

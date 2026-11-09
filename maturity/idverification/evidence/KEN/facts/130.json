@@ -1,0 +1,46 @@
+{
+ "slug": "2026-05-01-ken-the-kenya-digital-identity-playbook-identity-as-foundation-of-digital",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "The deck says IPRS and eCitizen give real-time authentication, and connected systems include KRA tax, SHA/SHIF, education, financial-sector e-KYC, SIM registration and social protection.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "IPRS",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "The deck lists KRA tax, health insurance, education, financial e-KYC, SIM registration and social protection systems as connected to the national ID verification.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "IPRS",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "The deck says over 22,000 services are online relying on the digital ID for access.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "IPRS",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IPRS",
+   "country_label": "Kenya",
+   "class": "relying",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

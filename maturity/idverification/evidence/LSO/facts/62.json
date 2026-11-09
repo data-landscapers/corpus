@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-14-lso-id4africa-panel-outlines-steady-kyc-process-policy-improvement",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "A review of Lesotho's KYC rules, per the Central Bank of Lesotho, lets pensioners complete bank ID verification with only their national ID.",
+   "as_of": "2026-05-14",
+   "date_precision": "day",
+   "system": "national ID in bank KYC",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

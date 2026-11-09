@@ -1,0 +1,27 @@
+{
+ "slug": "2026-05-14-lso-id4africa-panel-outlines-steady-kyc-process-policy-improvement",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Bank of Zambia says it is developing a centralised eKYC platform built on Home Affairs digital IDs via an API and fingerprint check.",
+   "as_of": "2026-05-14",
+   "date_precision": "day",
+   "system": "centralised eKYC platform",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Bank of Zambia says Home Affairs charges banks about 80 cents per successful API call to verify against its database.",
+   "as_of": "2026-05-14",
+   "date_precision": "day",
+   "system": "Home Affairs ID verification API",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2026-09-22-egy-fintechgate-haweya-digital-id-five-banks-18-months",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Haweya's digital identity service lets banks verify a customer remotely by matching the national ID card data and a live selfie against civil status data; the first phase starts with 5 banks, per Haweya's managing director.",
+   "as_of": "2026-09-22",
+   "date_precision": "day",
+   "system": "Haweya",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "Haweya's first phase of operation counts 5 banks relying on it, with all banks in Egypt targeted within 18 months, per its managing director.",
+   "as_of": "2026-09-22",
+   "date_precision": "day",
+   "system": "Haweya",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Haweya",
+   "country_label": "Egypt",
+   "class": "relying",
+   "platform": "",
+   "owner": "Haweya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

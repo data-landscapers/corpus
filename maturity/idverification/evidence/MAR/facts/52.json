@@ -1,0 +1,37 @@
+{
+ "slug": "2026-01-01-mar-country-playbook-maroc-souverainete-et-inclusion-numerique",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "DGSN says social protection bodies CNSS and AMO, the judicial record and the Massar education system check people against the digital identity.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Identité Numérique Marocaine (CNIE)",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "DGSN says social protection, justice, education, and banks (GPBM), insurers and telecoms rely on the digital identity for instant KYC and remote contract signing.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Identité Numérique Marocaine (CNIE)",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "DGSN reports 73 services, 54 partners and 15 million transactions since 2022 (9.2 million in 2025, 2.7 million in the first quarter of 2026), and over 1.5 million authentications for the AFCON 2025 Yalla app.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Identité Numérique Marocaine (CNIE)",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

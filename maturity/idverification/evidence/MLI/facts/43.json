@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-02-mli-mali-l-amrtp-edifie-les-consommateurs-sur-l-importance-de-l-identifica",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Mali's telecoms regulator AMRTP decided that mobile operators identify SIM cards on presentation of the national identification number (NINA) from 1 February 2023, and Orange Mali asked customers in late July 2024 to come to an agency with their NINA or biometric card.",
+   "as_of": "2023-02-01",
+   "date_precision": "day",
+   "system": "SIM identification by NINA",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM identification by NINA",
+   "country_label": "Mali",
+   "class": "relying",
+   "platform": "mobile operators",
+   "owner": "AMRTP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

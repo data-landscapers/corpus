@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-07-mar-dgsn-bank-al-maghrib-identity-verification-protocol",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "A protocol signed in Rabat on 7 October 2024 lets Bank Al-Maghrib integrate the DGSN's trusted-third-party identity verification platform into its information systems for in-person or remote checks and read the public data on the electronic CNIE; no verification is yet reported in use.",
+   "as_of": "2024-10-07",
+   "date_precision": "day",
+   "system": "DGSN trusted-third-party identity verification platform",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

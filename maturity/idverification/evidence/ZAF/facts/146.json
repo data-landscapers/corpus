@@ -1,0 +1,27 @@
+{
+ "slug": "2026-04-15-zaf-huge-win-for-home-affairs-after-6-500-fee-increase",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Network operators, banks and other companies verify customers' identities through Home Affairs' Online Verification Service; the fee per check rose from 15 cents to R10 in July 2025, per BusinessTech.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Online Verification Service",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "Mobile network operators (SIM verification under RICA) and banks both verify customers against Home Affairs' Online Verification Service, per BusinessTech reporting the ACT's statements.",
+   "as_of": "2026-04",
+   "date_precision": "month",
+   "system": "Online Verification Service",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

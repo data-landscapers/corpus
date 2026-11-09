@@ -1,0 +1,27 @@
+{
+ "slug": "2025-09-02-tcd-des-manquements-graves-d-airtel-et-moov-africa-denonces",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Arcep's audit mission of May 2025 found mobile subscribers identified with the Numero national d'identification (NNI): 21.77% of Airtel's 7,879,796 identified subscribers and 43.96% of Moov Africa's 7,509,196.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "NNI",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "Arcep reports figures from its May 2025 audit: 21.77% of Airtel and 43.96% of Moov Africa identified subscribers were registered with the NNI.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "NNI",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-02-26-swz-deputy-governor-s-speech-the-nexus-between-aml-cft-and-financial-inclu",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Financial institutions are integrated with the national database centre (Eswatini Royal Science Technology Park) to verify customers' ID information against the national civil registry, per the Central Bank of Eswatini's Deputy Governor.",
+   "as_of": "2025-02-26",
+   "date_precision": "day",
+   "system": "National database centre ID verification (Eswatini Royal Science Technology Park)",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National database centre ID verification",
+   "country_label": "Eswatini",
+   "class": "relying",
+   "platform": "",
+   "owner": "Eswatini Royal Science Technology Park",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

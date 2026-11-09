@@ -11,3 +11,9 @@ MLI,Système d'information foncière / Guichet unique foncier (SIF/GUF),Mali,oth
 MLI,NINACAD,Mali,other,application NINACAD,service du cadastre,,2019-02-22-mali-decret-2019-0112-ninacad-identification-parcelles
 MLI,NINA (Numéro d'Identification Nationale),Mali,other,répertoire national,service national chargé de la statistique,,2006-10-18-mali-decret-06-442-modalites-application-nina
 MLI,NINA (Numéro d'Identification Nationale),Mali,other,répertoire national,service national chargé de la statistique,,2006-08-11-mali-loi-06-040-numero-identification-nationale
+MLI,RAVEC,Mali,other,,,,2023-11-24-mli-decret-2023-0679-identification-agents-fonctions-publiques
+MLI,Système Intégré de Gestion des Ressources Humaines (SIGRH),Mali,relying,RAVEC biometric data,Ministry of State Refoundation,,2023-11-13-mli-fonctions-publiques-de-l-etat-et-des-collectivites-territoriales-mise
+MLI,NINA,Mali,other,,,,2025-07-29-mli-identification-des-abonnes-telephoniques-l-amrtp-renforce-les-mesures
+MLI,NINA-based SIM identification,Mali,relying,,Telecom operators; regulator AMRTP,,2025-08-04-mli-usurpation-des-donnees-nina-sur-les-cartes-sim-le-ministere-des-tics-l
+MLI,NINA,Mali,other,,,,2024-11-07-mli-identification-des-puces-de-telephones-jusqu-au-15-decembre-un-dilemme
+MLI,SIM identification by NINA,Mali,relying,mobile operators,AMRTP,,2024-08-02-mli-mali-l-amrtp-edifie-les-consommateurs-sur-l-importance-de-l-identifica

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-08-25-gha-muntaka-nia-clears-ghana-card-backlog-registers-418-000-children",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Interior Minister Muntaka says the Ghana Card is used for identity verification across public and private institutions, with about 284 institutions on the NIA verification platform.",
+   "as_of": "2026-08-13",
+   "date_precision": "day",
+   "system": "NIA verification platform",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "Interior Minister Muntaka says more than 125 million biometric verification transactions were processed in 2025, and about 284 institutions used the platform by 13 August 2026.",
+   "as_of": "2026-08-13",
+   "date_precision": "day",
+   "system": "NIA verification platform",
+   "class": "relying"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "use",
-      "stage": "4",
+      "stage": "5",
       "use": "inservice",
       "sectors": "several",
-      "usage": "",
+      "usage": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-006;KEN-007;KEN-001",
-      "gaps": "No source found since October 2023 gives a figure for verifications or counts the services relying on the ID.",
-      "note": "Relying agencies query the Maisha database's eKYC layer, the government names SIM registration and bank account opening as validated through it, and SIM rules have required ID verification since 2025: two sectors, so 4. No figure for checks is held, so not 5.",
-      "as_at": "2026-11-08"
+      "stage_sources": "KEN-011;KEN-010;KEN-006",
+      "gaps": "",
+      "note": "Relying agencies query the Maisha eKYC layer, and the 2026 ID4Africa deck names tax, health insurance, education, bank eKYC, SIM registration and social protection as connected. It counts over 22,000 services relying on the digital ID, so every rung is shown.",
+      "as_at": "2026-11-09"
     }
   ]
 }

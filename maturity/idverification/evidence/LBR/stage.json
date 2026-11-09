@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "use",
-      "stage": "3",
+      "stage": "4",
       "use": "inservice",
-      "sectors": "",
+      "sectors": "several",
       "usage": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBR-003",
-      "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
-      "note": "The NIR says ID numbers verify the civil service payroll under a May 2024 agreement. SIM registration and the wider verification platform are rules or plans awaiting the 2026 concession, so not 4.",
-      "as_at": "2026-11-08"
+      "stage_sources": "LBR-009;LBR-003",
+      "gaps": "No source found since October 2023 gives a figure for verifications or counts the services relying on the ID.",
+      "note": "ID numbers verify the civil service payroll under a May 2024 agreement, and in June 2025 the NIR said financial institutions are fully integrated with its KYC system: two sectors, so 4. No figure for checks is held, so not 5.",
+      "as_at": "2026-11-09"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-19-mwi-malawi-moves-to-curb-mobile-fraud",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "MACRA announced a national biometric SIM registration in which fingerprints and face are matched against National Registration Bureau records and linked to the National ID; registration had not yet commenced.",
+   "as_of": "2026-01-19",
+   "date_precision": "day",
+   "system": "National biometric SIM card registration",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National biometric SIM card registration",
+   "country_label": "Malawi",
+   "class": "relying",
+   "platform": "",
+   "owner": "MACRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

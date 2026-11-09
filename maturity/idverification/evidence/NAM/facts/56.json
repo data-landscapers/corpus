@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-04-nam-welcoming-remarks-by-the-governor-of-the-bank-of-namibia-johannes-gawa",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The Governor said the Bank of Namibia developed a prototype e-KYC between private-sector and Ministry of Home Affairs databases for instant identity verification, to be fully implemented once the Civil Registration and Identification Bill is promulgated.",
+   "as_of": "2024-06-04",
+   "date_precision": "day",
+   "system": "e-KYC prototype (Bank of Namibia / Ministry of Home Affairs databases)",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-KYC prototype",
+   "country_label": "Namibia",
+   "class": "relying",
+   "platform": "",
+   "owner": "Bank of Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

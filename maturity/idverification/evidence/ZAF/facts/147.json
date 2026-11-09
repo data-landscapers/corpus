@@ -1,0 +1,15 @@
+{
+ "slug": "2026-03-09-zaf-home-affairs-on-first-bank-branches-go-live-under-new-digital-partners",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Online Verification Service / API Digital Gateway",
+   "country_label": "South Africa",
+   "class": "relying",
+   "platform": "API gateway",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": "Document names the Online Verification Service but says only that banks submit Smart ID applications through the gateway, not that they check people against the ID."
+}

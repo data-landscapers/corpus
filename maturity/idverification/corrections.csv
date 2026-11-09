@@ -4,3 +4,5 @@ EGY,002,usage,reported,removed,"First pass: sign-ups to an app are not verificat
 GHA,011,usage,reported,removed,"First pass: a share cross-referenced with no count of verifications"
 GHA,005,usage,reported,removed,"First pass: SIMs linked to the card with biometrics never checked against the register; not a figure for verifications"
 ZAF,015,usage,reported,removed,"First pass: bank branches offering Home Affairs services are not a figure for verifications"
+EGY,015,use,inservice,revalued: underway,"the managing director says the first phase with 5 banks will start, so the service is under way, not in use"
+EGY,016,usage,reported,removed,"five banks named for a first phase not yet begun are a target, not a count of services relying on the ID"

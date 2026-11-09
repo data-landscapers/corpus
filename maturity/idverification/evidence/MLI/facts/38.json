@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-13-mli-fonctions-publiques-de-l-etat-et-des-collectivites-territoriales-mise",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Mali's Council of Ministers adopted a draft decree on 8 November 2023 for identifying State and local-government civil servants under an integrated human resources management system that incorporates the biometric data of the civil-status census RAVEC, per Le Sursaut.",
+   "as_of": "2023-11-08",
+   "date_precision": "day",
+   "system": "Système Intégré de Gestion des Ressources Humaines (SIGRH)",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Système Intégré de Gestion des Ressources Humaines (SIGRH)",
+   "country_label": "Mali",
+   "class": "relying",
+   "platform": "RAVEC biometric data",
+   "owner": "Ministry of State Refoundation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

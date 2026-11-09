@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-04-mli-usurpation-des-donnees-nina-sur-les-cartes-sim-le-ministere-des-tics-l",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Telecom operators identify SIM card subscribers with their NINA data, and the regulator AMRTP instructed all licensed operators to give subscribers a means to check the phone numbers linked to their NINA, after fraudulent registrations came to light.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "NINA-based SIM identification",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NINA-based SIM identification",
+   "country_label": "Mali",
+   "class": "relying",
+   "platform": "",
+   "owner": "Telecom operators; regulator AMRTP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
