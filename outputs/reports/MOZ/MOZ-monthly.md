@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: MOZ
-ledger_rows: 29
+ledger_rows: 31
 not_held: 18
-record: f4bb940a0bc1
+record: 8676916ea569
 ---
 
 # News, Oct – Nov 2026
@@ -470,6 +470,20 @@ A private document-services firm said on 25 October 2026 that official fees are 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Seized-asset e-auction platform (Asset Management Office)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Mozambique: New e-auction platform strengthens transparency in asset recovery](https://clubofmozambique.com/news/mozambique-new-e-auction-platform-strengthens-transparency-in-asset-recovery/)** — Club of Mozambique, 6 November 2026
+
+First e-auction offers 14 seized vehicles at 70% of appraised value; asset module, BI tool and public portal.
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -515,6 +529,20 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 **[Governor Felisberto Navalha delivers opening address at 51st Banco de Moçambique Advisory Board Meeting in Tete](https://www.bancomoc.mz/en/media/highlights/governor-felisberto-navalha-delivers-opening-address-at-51st-banco-de-mocambique-advisory-board-meeting-in-tete/)** — Banco de Moçambique, 28 October 2026
 
 Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Commonwealth youth AI readiness index score</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Study Projects US$324M Boost to Mozambique’s GDP from AI Over the Next Decade - Consulting.co.mz | Business Consulting, Procurement & Audit in Mozambique](https://consulting.co.mz/study-projects-us324m-boost-to-mozambiques-gdp-from-ai-over-the-next-decade/)** — Consulting.co.mz, 6 November 2026
+
+Mozambique 44th of 56, score 38.9 against a 53 threshold; AI could add US$324m to GDP over ten years.
 
 </div>
 
