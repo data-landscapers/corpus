@@ -22,8 +22,8 @@ The Digital Transformation Strategy asks for a technology park and incubation hu
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 4 |
-| 3 Established | 32 |
-| 2 Nascent | 17 |
+| 3 Established | 33 |
+| 2 Nascent | 16 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 0 |
@@ -93,6 +93,12 @@ A hub ran a programme for startups in 2026; hubs in more than one city are not o
 A hub ran a programme for startups in 2026; hubs in more than one city are not on record.
 
 - Eni/Joule's Yasika second edition in Brazzaville incubates 13 selected startups and upskills 22 other participants, after a bootcamp held 4 to 6 May ([source, 2026-05-04](https://www.eni.com/joule/en-IT/media/2026/05/yasika-second-edition-is-brought-to-life-with-bootcamp.html)).
+
+### Cote d'Ivoire: 3 Established
+
+The digital ministry took 32 firms into two 24-month acceleration programmes in 2026; hubs with programmes outside Abidjan are not known.
+
+- The Ministry of Digital Transition selected 32 firms from over 150 applicants on 4 November 2026 for 24 months of support in the Ivoire Tech Next 15 (14 firms) and Ivoire Tech Scale Up (18 firms) programmes ([source, 2026-11-04](https://www.afriksoir.net/cote-divoire-32-entreprises-du-numerique-selectionnees-pour-accelerer-leur-croissance/)).
 
 ### DR Congo: 3 Established
 
@@ -291,13 +297,6 @@ A technology hub or park was under way in 2025; none running programmes is on re
 
 - The Centre d'innovation technologique de N'Djamena, created by arrete n0050 of 1 September 2025, was officially launched with an aim to incubate Chadian tech startups, with no incubation programme or cohort stated ([source, 2025-10-30](https://tchadinfos.com/2025/10/30/le-centre-dinnovation-technologique-de-ndjamena-est-lance/)).
 - The startup day was held at WenakLabs in N'Djamena with Tcharay HUB, both named as hubs with founders speaking; no programme or cohort is stated ([source, 2025-09-19](https://www.toumaiwebmedias.com/tchad-le-ministre-des-finances-echange-avec-les-jeunes-entrepreneurs/)).
-
-### Cote d'Ivoire: 2 Nascent
-
-A technology hub or park was under way in 2026; none running programmes is on record.
-
-- AIP reports UNDP handed over the UniPod, a digital fabrication and innovation centre at Lycee technique de Cocody, Abidjan, open to startups to prototype, with no incubation cohort programme stated ([source, 2026-07](https://www.aip.ci/aip-le-pnud-dote-la-cote-divoire-de-son-premier-pole-dinnovation-et-de-technologie-unipod/)).
-- Ivory Coast's digital ministry launched the Ivoire Tech Next 15 and Ivoire Tech Scale Up programmes on 29 July 2026 for 15 startups and 15 SMEs over 24 months, with applications open until 13 September ([source, 2026-07-29](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-divoire-lance-deux-accelerateurs-pour-faire-emerger-ses-champions-du-numerique)).
 
 ### Djibouti: 2 Nascent
 

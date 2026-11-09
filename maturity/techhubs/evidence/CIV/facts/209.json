@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-08-civ-cote-divoire-32-entreprises-du-numerique-selectionnees-pour-accelerer",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "The Ministry of Digital Transition selected 32 firms from over 150 applicants on 4 November 2026 for 24 months of support in the Ivoire Tech Next 15 (14 firms) and Ivoire Tech Scale Up (18 firms) programmes.",
+   "as_of": "2026-11-04",
+   "date_precision": "day",
+   "system": "Ivoire Tech Next 15 and Ivoire Tech Scale Up",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ivoire Tech Next 15",
+   "country_label": "Cote d'Ivoire",
+   "class": "hub",
+   "platform": "",
+   "owner": "Ministry of Digital Transition and Technological Innovation",
+   "tiers": ""
+  },
+  {
+   "system": "Ivoire Tech Scale Up",
+   "country_label": "Cote d'Ivoire",
+   "class": "hub",
+   "platform": "",
+   "owner": "Ministry of Digital Transition and Technological Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

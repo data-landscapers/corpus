@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-CIV,hub,hubs,coverage,underway,2026-07,CIV-001;CIV-002;CIV-003;CIV-006,,
-CIV,hub,cities,coverage,,,,,nothing held
-CIV,hub,park,coverage,,,,,nothing held
+CIV,hub,hubs,coverage,inservice,2026-11-04,CIV-007,CIV-001=underway;CIV-002=underway;CIV-003=underway;CIV-006=underway,
+CIV,hub,cities,coverage,,,,,nothing found
+CIV,hub,park,coverage,,,,,nothing found
