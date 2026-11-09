@@ -167,7 +167,7 @@
 | [Statistics from administrative data](../../maturity/indicators/data.statistics--statistics-from-administrative-data.md)<br>*system* | 2 Nascent | 2 Nascent | **Africa Broadband Maps training** (In development) — [Tech Review Africa, 1 Jun 2026](https://techreviewafrica.com/news/5719/itu-bdt-drives-africa-broadband-maps-project-with-subregional-gis-training-in-southern-africa) | data-management training under way; no admin-data product on record |
 | [Use of open data](../../maturity/indicators/data.open--use-of-open-data.md)<br>*system* | 2 Nascent | 2 Nascent | **Tourism Statistics Dashboard** (Implemented) — [DailyNews (BOPA), 15 Apr 2026](https://dailynews.gov.bw/news-detail/91015) | dashboard publishes indicators with no open licence or bulk download stated |
 | [Agricultural use of satellite data](../../maturity/indicators/data.geospatial--agricultural-use-of-satellite-data.md)<br>*system* | unplaced | unplaced |  | BOTSAT-1 has no product or agricultural use on record |
-| [Meteorological use of satellite data](../../maturity/indicators/data.geospatial--meteorological-use-of-satellite-data.md)<br>*system* | 2 Nascent | 2 Nascent | **Meteorological satellite ground station** (Implemented) — [DailyNews (BOPA), 12 Dec 2023](https://dailynews.gov.bw/news-detail/76992) | ground station operating at the met service; forecasting use not on record |
+| [Meteorological use of satellite data](../../maturity/indicators/data.geospatial--meteorological-use-of-satellite-data.md)<br>*system* | 2 Nascent | 2 Nascent | **Meteorological satellite ground station** (Planned) — [DailyNews (BOPA), 12 Dec 2023](https://dailynews.gov.bw/news-detail/76992) | ground station operating at the met service; forecasting use not on record |
 
 ## Geopolitics
 

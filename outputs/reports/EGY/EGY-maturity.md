@@ -48,7 +48,7 @@
 
 | Indicator | Jul | Aug | Evidence | Qualifier |
 |---|---|---|---|---|
-| [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | — | 2 Nascent | **ICT sector public investment** — [Ministry of International Cooperation, Egypt, 7 Aug 2026](https://moic.gov.eg/news/2134) | ICT public-investment allocation in the annual plan; no recurring line or dedicated fund or outturn on record |
+| [Sustainable domestic financing of digital transformation](../../maturity/indicators/finance.budget--sustainable-domestic-financing-of-digital-transformation.md)<br>*instrument* | — | 2 Nascent | **ICT sector public investment** — [EnterpriseAM, 24 Aug 2026](https://enterpriseam.com/egypt/2026/08/24/govt-targets-egp-138-9-bn-in-ict-investment-mostly-from-private-capital/) | ICT public-investment allocation in the annual plan; no recurring line or dedicated fund or outturn on record |
 | [Mobilisation of non-state finance](../../maturity/indicators/finance.new--mobilisation-of-non-state-finance.md)<br>*measure* | 3 approaching | 3 approaching | **0.05229 per cent of GDP** (2026) — [Corpus, non-state finance](https://corpus.data-landscapers.io/finance/) | 8 private commitment(s) starting 2024–2026, over GDP 2025 (WDI) |
 
 ## ICT Infrastructure
