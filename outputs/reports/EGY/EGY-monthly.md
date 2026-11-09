@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: EGY
-ledger_rows: 48
+ledger_rows: 51
 not_held: 36
-record: 623ebf3b267a
+record: a5a07920602c
 ---
 
 # News, Oct – Nov 2026
@@ -14,6 +14,8 @@ record: 623ebf3b267a
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -124,6 +126,20 @@ Egypt's government will send parliament a bill on classifying and sharing data b
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Financial Regulatory Authority technology sandbox</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Cairo ICT 2026: FRA Chairman Highlights Digital Transformation in Non-Banking Finance](https://fra.gov.eg/en/fra_news/%d8%ae%d9%84%d8%a7%d9%84-%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d8%A7%d9%84%d9%87%d9%8A%d8%A6%d8%A9-%d8%A7%d9%84%d8%b9%D8%A7%D9%85%D8%A9-%D9%84%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85/)** — Financial Regulatory Authority (Egypt), 7 November 2026
+
+e-KYC checks past 1.727M by late Oct 2026 vs 354K end-2025; 862K digital contracts; 2 sandbox projects live.
+
+</div>
+
+</div>
+
 ### Data protection
 
 <div class="monthly-story" markdown="1">
@@ -195,6 +211,28 @@ Uganda's State Minister for ICT, Joyce Ssebugwawo, held talks in Cairo with Egyp
 **[تنظيم الاتصالات: منظومة لتقييم المدن الذكية والمستدامة وفق معايير دولية](https://www.youm7.com/story/2026/10/15/%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D9%84%D8%AA%D9%82%D9%8A%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D8%AF%D9%86-%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D9%85%D8%A9-%D9%88%D9%81%D9%82-%D9%85%D8%B9%D8%A7%D9%8A%D9%8A%D8%B1-%D8%AF%D9%88%D9%84%D9%8A%D8%A9/7580488)** — Youm7, 15 October 2026
 
 Egypt's telecoms regulator described an online system that scores new cities against its smart and sustainable cities code and issues conformity certificates. It is applied with the housing ministry to cities including the New Administrative Capital and New Alamein.
+
+</div>
+
+</div>
+
+## Finance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#mous-and-other-agreements">MoUs and other agreements</a>
+</nav>
+
+### MoUs and other agreements
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Telecom Egypt and e-finance memorandum on government digital services</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Minister of Communications Attends Graduation of 20 Startups under “WE Innovate Star” Program](https://egyptinnovate.com/en/news/minister-of-communications-attends-graduation-of-20-startups-under-we-innovate-star-program)** — EgyptInnovate, 8 November 2026
+
+Telecom Egypt and e-finance signed a memorandum at Cairo ICT 2026, held from 7 to 10 November. It covers joint telecoms, cloud and digital services for government and companies. At the same event, 20 cybersecurity and AI startups graduated from Telecom Egypt's WE Innovate Star programme. The programme is run with the telecoms regulator's EG-CERT.
 
 </div>
 
@@ -465,6 +503,28 @@ Egypt's Ministry of Justice said it has linked the real estate registry by netwo
 **[Thales, Cyshield join forces on Egypt’s biometric border and passport plans](https://www.biometricupdate.com/202610/thales-cyshield-join-forces-on-egypts-biometric-border-and-passport-plans)** — Biometric Update, 30 October 2026
 
 Thales and the Egyptian firm Cyshield signed a memorandum on biometric border management and electronic passports for Egypt, reported on 30 October 2026. It covers biometric e-gates across more than 32 air, land and sea border points. It also covers issuance systems for a planned national e-passport rollout.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic customer identification checks in non-bank finance</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Cairo ICT 2026: FRA Chairman Highlights Digital Transformation in Non-Banking Finance](https://fra.gov.eg/en/fra_news/%d8%ae%d9%84%d8%a7%d9%84-%d9%85%d8%b4%d8%a7%d8%b1%d9%83%d8%a9-%d8%A7%d9%84%d9%87%d9%8A%d8%A6%d8%A9-%d8%A7%d9%84%d8%b9%D8%A7%D9%85%D8%A9-%D9%84%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85/)** — Financial Regulatory Authority (Egypt), 7 November 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[الرقابة المالية : طفرة في استخدام التحقق الإلكتروني «e-KYC».. والتوسع في الهوية الرقمية يدعم تقديم الخدمات المالية غير المصرفي](https://www.fintechgate.net/256737)** — بوابة التكنولوجيا المالية, 7 November 2026
+
+1.727m e-KYC checks and 862,000 digital contracts by end-October 2026, up from 354,000 and 190,000 at end-2025.
 
 </div>
 
