@@ -1,12 +1,12 @@
 ---
 title: Namibia: status report
-compiled: 2026-11-08
+compiled: 2026-11-09
 place: NAM
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 6
-sources_cited: 186
+sources_cited: 187
 sections_written: 39
 not_established: 2
 acquire_lines: 45
@@ -161,7 +161,7 @@ Namibia's digital-sector financing from 2016 to 2026 runs to 38 commitments, wor
 ### Cybersecurity
 <!-- infra.cybersec -->
 
-[NAM-CSIRT, the national incident response team, sits inside the communications regulator and publishes its threat figures quarterly](https://neweralive.na/namibias-cyber-threats-soar/) (2026). [CRAN appointed an executive to lead it from 1 October 2026](https://technews.com.na/2026/10/03/cran-appoints-cornelia-shipindo-to-lead-namibias-cyber-incident-response/). [NAM-CSIRT counted 1.7 million cyberattacks against Namibian targets in 2025, 37 percent more than in 2024, and 2.23 million detected vulnerabilities](https://www.wearetech.africa/en/fils-uk/news/tech/namibia-reports-37-surge-in-cyberattacks-in-2025). [Its April-June 2026 quarter logged 513,921 vulnerabilities and 161,547 security events, up 39.8 and 56.7 percent on the previous quarter](https://neweralive.na/namibias-cyber-threats-soar/). [It named internet-exposed systems as the principal cause](https://neweralive.na/namibias-cyber-threats-soar/) (2026).
+[NAM-CSIRT, the national incident response team, sits inside the communications regulator and publishes its threat figures quarterly](https://neweralive.na/namibias-cyber-threats-soar/) (2026). [CRAN appointed an executive to lead it from 1 October 2026](https://technews.com.na/2026/10/03/cran-appoints-cornelia-shipindo-to-lead-namibias-cyber-incident-response/). [NAM-CSIRT counted 1.7 million cyberattacks against Namibian targets in 2025, 37 percent more than in 2024, and 2.23 million detected vulnerabilities](https://www.wearetech.africa/en/fils-uk/news/tech/namibia-reports-37-surge-in-cyberattacks-in-2025). [Its July-September 2026 quarter logged 506,143 vulnerabilities and 163,053 cyber events, vulnerabilities down about 1.5 percent on the second quarter and events up 0.93 percent](https://neweralive.na/namibian-cybersecurity-risks-remain-elevated-nam-csirt/). [It named internet-exposed systems as the principal cause](https://neweralive.na/namibias-cyber-threats-soar/) (2026).
 
 [Namibia had neither a cybercrime statute nor a data protection law in July 2026; both bills were still being finalised](https://itweb.africa/article/namibia-pushes-cyber-security-reforms/mQwkoq6YJWlM3r9A). [Enforcement rests meanwhile on the Electronic Transactions Act, the Communications Act and the Penal Code](https://itweb.africa/article/namibia-pushes-cyber-security-reforms/mQwkoq6YJWlM3r9A) (2026). [A Cybercrime Bill that would designate and protect critical information infrastructure was still in draft in January 2026](https://www.nmt.africa/uploads/698358a24619d/NAMIBIACYBERCRIMEBILL-30.1.26.pdf). [Under determination PSD-12, in force from 1 July 2023, payment system participants must report a successful cyberattack to the central bank within 24 hours](https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/14/145ecebb-bf2e-4959-affa-728ab894bb8b.pdf). [A full impact assessment of financial, data and availability loss must follow within a month](https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/14/145ecebb-bf2e-4959-affa-728ab894bb8b.pdf).
 
