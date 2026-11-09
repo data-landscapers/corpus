@@ -1,15 +1,16 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "3",
-   "users": "estimate:63.4",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-004",
-   "gaps": "The latest figure, 63.4 per cent for 2024, is below 80 per cent.",
-   "note": "Counted from the four questions by study-ladder-internetusage.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "3",
+      "users": "estimate:63.4",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-004",
+      "gaps": "The latest figure, 63.4 per cent for 2024, is below 80 per cent.",
+      "note": "The Union's estimate of 63.4 per cent for 2024 is past half and short of four in five. A World Bank figure of about 58 per cent, quoted in a news story, is neither the Union's estimate nor a national survey and sets nothing.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }
