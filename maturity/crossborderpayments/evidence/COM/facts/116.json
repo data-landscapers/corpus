@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-16-com-mvola-particuliers",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "corridor",
+   "value": "inservice",
+   "fact": "MVola sends money from Comoros to Madagascar, Tanzania, Uganda, Cote d'Ivoire, Morocco, Guinea and Senegal, and receives transfers from Ria and Orange Money Europe.",
+   "as_of": "2025-01-16",
+   "date_precision": "day",
+   "system": "MVola",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MVola",
+   "country_label": "Comoros",
+   "class": "crossborder",
+   "platform": "mobile money",
+   "owner": "Telco Money S.A. (Yas)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
