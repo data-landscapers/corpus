@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-06-xgl-contribution-by-undp-to-the-cstd-2026-2027-priority-theme-on-data-gov",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "UNDP says it has supported South Africa's National Treasury in designing and piloting MzansiXchange, a national data exchange for data sharing across government, and the pilot is testing the technical model and governance arrangements.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "MzansiXchange",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MzansiXchange",
+   "country_label": "South Africa",
+   "class": "exchange",
+   "platform": "national data exchange (pilot)",
+   "owner": "National Treasury",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

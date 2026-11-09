@@ -1,0 +1,36 @@
+{
+ "slug": "2025-01-01-ben-foundational-identity-4",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "ANIP's deck lists the launch of a National Interoperability Platform.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National Interoperability Platform",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "ANIP's deck states more than 20 interoperability connections with the public and private sectors.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National Interoperability Platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Interoperability Platform",
+   "country_label": "Benin",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
