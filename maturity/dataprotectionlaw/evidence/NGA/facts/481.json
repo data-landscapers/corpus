@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-25-nga-nigeria-s-nimc-fights-off-data-breach-accusations-flags-5-data-harvest",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "NIMC's spokesman said the Commission's infrastructure operates in strict compliance with the Nigerian Data Protection Law.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Nigerian Data Protection Law",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

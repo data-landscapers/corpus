@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-24-rwa-rwanda-inside-rwanda-s-move-to-a-biometric-digital-id",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "NIDA's Director General says the digital ID complies with Rwanda's personal data protection and privacy law, requiring user consent before data access.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "personal data protection and privacy law",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

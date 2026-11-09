@@ -1,0 +1,27 @@
+{
+ "slug": "2025-08-04-mli-usurpation-des-donnees-nina-sur-les-cartes-sim-le-ministere-des-tics-l",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The APDP, the personal data protection authority, was seized of complaints and alerted individuals and operators to data violation risks in August 2025.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "APDP",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "The APDP issued warnings to individuals and operators, saying publishing the NINA data on social networks is itself a violation, with no decision or sanction stated.",
+   "as_of": "2025-08",
+   "date_precision": "month",
+   "system": "APDP",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

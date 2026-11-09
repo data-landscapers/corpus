@@ -1,0 +1,27 @@
+{
+ "slug": "2025-08-02-mli-identification-des-puces-orange-mali-stupefaction-et-coleres",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Mali Tribune reports the APDP, the personal data protection authority, issued a communique on 29 July 2025 saying it had received several complaints over the SIM identification campaign.",
+   "as_of": "2025-07-29",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "activity",
+   "fact": "Mali Tribune reports the APDP's 29 July 2025 communique recalled operators' duty to secure data and called posting NINA-linked numbers on social media a privacy violation, with no decision stated.",
+   "as_of": "2025-07-29",
+   "date_precision": "day",
+   "system": "APDP",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
