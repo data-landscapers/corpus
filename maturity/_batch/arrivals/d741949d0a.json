@@ -1,0 +1,11 @@
+{"slug": "2026-02-23-moz-mocambique-e-zambia-avancam-com-interligacao-digital-transfronteirica", "studies": {
+"fibrebackbone": {"countries": {
+"MOZ": {"facts": [], "systems": [], "note": "Cross-border link only; no national backbone stated."},
+"ZMB": {"facts": [], "systems": [], "note": "Cross-border link only; no national backbone stated."}}},
+"regionalinfrastructure": {"countries": {
+"MOZ": {"facts": [{"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "MZ News reports that on 20 February 2026 Mozambique's communications minister launched the Mozambique-Zambia Interconnectivity Project at Cassacatiza, a cross-border fibre partnership of Vodacom Moçambique and Bayobab Zambia with both countries' regulators involved.", "as_of": "2026-02-20", "date_precision": "day", "system": "Mozambique-Zambia Interconnectivity Project", "class": "shared"}], "systems": [{"system": "Mozambique-Zambia Interconnectivity Project (Cassacatiza)", "country_label": "Mozambique", "class": "shared", "platform": "fibre", "owner": "Vodacom Moçambique and Bayobab Zambia", "tiers": ""}], "note": "Launch ceremony only; works begun or in service not stated."},
+"ZMB": {"facts": [{"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "MZ News reports that on 20 February 2026 the Mozambique-Zambia Interconnectivity Project was launched at Cassacatiza with Zambia's science and technology minister present, a cross-border fibre partnership of Vodacom Moçambique and Bayobab Zambia with both countries' regulators involved.", "as_of": "2026-02-20", "date_precision": "day", "system": "Mozambique-Zambia Interconnectivity Project", "class": "shared"}], "systems": [], "note": "Launch ceremony only; works begun or in service not stated."}}},
+"regionalpolicy": {"countries": {
+"MOZ": {"facts": [], "systems": [], "note": "A project launch; no signed digital policy agreement or body membership stated."},
+"ZMB": {"facts": [], "systems": [], "note": "A project launch; no signed digital policy agreement or body membership stated."}}}
+}}

@@ -1,9 +1,23 @@
-{"slug":"2026-08-11-eri-consulate-frankfurt-national-id-card-requirements","studies":{
-"authentication":{"countries":{"ERI":{"facts":[],"systems":[],"note":"Only an online application form and fingerprint capture at the consulate; no authentication service."}}},
-"birthidlink":{"countries":{"ERI":{"facts":[],"systems":[],"note":"Birth certificate is a document requirement; no register link stated."}}},
-"idcoverage":{"countries":{"ERI":{"facts":[],"systems":[],"note":"No count or share of people holding the ID."}}},
-"idfrombirth":{"countries":{"ERI":{"facts":[],"systems":[],"note":"Minors' ID is issued on request with a birth certificate; no number at birth stated."}}},
-"idmaintenance":{"countries":{"ERI":{"facts":[],"systems":[],"note":"Document states nothing on who operates or owns the ID system."}}},
-"idregisters":{"countries":{"ERI":{"facts":[],"systems":[],"note":"Document states nothing on registers keyed on the ID number."}}},
-"idrobustness":{"countries":{"ERI":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"inservice","fact":"The Eritrean Consulate General in Frankfurt page of 11 August 2026 describes issuing and replacing the new national ID card, with fingerprints taken through the Consular Affairs Processing System (CAPS) and a bar on applying twice.","as_of":"2026-08-11","date_precision":"day","system":"Eritrean national ID card (CAPS)","class":"idsystem"}],"systems":[{"system":"Consular Affairs Processing System (CAPS)","country_label":"Eritrea","class":"other","platform":"","owner":"Ministry of Foreign Affairs","tiers":""}],"note":""}}}
-}}
+{
+ "slug": "2026-08-11-eri-consulate-frankfurt-national-id-card-requirements",
+ "studies": {
+  "digitalidlaw": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Consulate service page states no identity law or bill."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "ERI": {
+     "facts": [],
+     "systems": [],
+     "note": "Page covers identity card applications abroad; no civil registration office entry stated."
+    }
+   }
+  }
+ }
+}

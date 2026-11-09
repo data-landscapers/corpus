@@ -1,0 +1,97 @@
+{
+ "slug": "2024-04-26-cod-rdc-lancement-de-l-operation-d-octroi-des-cartes-d-identite-et-de-l-id",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "ACP reports ONIP resumed national ID card issuance and mass identification in four pilot Kinshasa communes on 26 April 2024, after starting on 30 June 2023, with a 10-year card and enrolment pooled with the electoral commission.",
+       "as_of": "2024-04-26",
+       "date_precision": "day",
+       "system": "National ID card (ONIP)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National ID card (ONIP)",
+       "country_label": "Carte d'identite",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONIP",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "slug": "2024-06-16-zwe-passport-id-applications-go-online",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "underway",
+       "fact": "The Sunday Mail reports the Zimbabwe Population Registry System, a central database of citizens' demographic data, is in final testing and due to be implemented from July 2024, per Minister Kazembe.",
+       "as_of": "2024-06-16",
+       "date_precision": "day",
+       "system": "Zimbabwe Population Registry System (ZPRS)",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Zimbabwe Population Registry System (ZPRS)",
+       "country_label": "Zimbabwe",
+       "class": "population",
+       "platform": "",
+       "owner": "Civil Registry Department",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "ZWE": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Zimbabwe Population Registry System (ZPRS)",
+       "country_label": "Zimbabwe",
+       "class": "identity",
+       "platform": "",
+       "owner": "Civil Registry Department",
+       "tiers": ""
+      }
+     ],
+     "note": "Only a planned hospital link for instant birth and death registration; no office entry stated."
+    }
+   }
+  }
+ }
+}

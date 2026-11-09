@@ -1,0 +1,241 @@
+{
+ "slug": "2025-10-17-zaf-wacren-lagos-cape-town-ren-interconnection-zaoxi",
+ "studies": {
+  "agrisatellite": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No farming satellite use stated."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No farming satellite use stated."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "No farming satellite use stated."
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No farming satellite use stated."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No farming satellite use stated."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No farming satellite use stated."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "No farming satellite use stated."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No farming satellite use stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI built or hosted in the country stated."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI built or hosted in the country stated."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI built or hosted in the country stated."
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI built or hosted in the country stated."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI built or hosted in the country stated."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI built or hosted in the country stated."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI built or hosted in the country stated."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI built or hosted in the country stated."
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated for this country."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated for this country."
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated for this country."
+    },
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "WACREN says it established the Lagos GXP, linked by 10 Gbps to ZAOXI in Cape Town and connecting to Internet2, CANARIE, RedCLARA, CSTNET, ANSP and GEANT.",
+       "as_of": "2025-10-17",
+       "date_precision": "day",
+       "system": "Lagos GXP",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "reach",
+       "value": "wider",
+       "fact": "WACREN says the Lagos GXP connects to research networks abroad and interconnects with ZAOXI in South Africa.",
+       "as_of": "2025-10-17",
+       "date_precision": "day",
+       "system": "Lagos GXP",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Lagos GXP",
+       "country_label": "Nigeria",
+       "class": "exchange",
+       "platform": "global exchange point",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated for this country."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated for this country."
+    },
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "WACREN says it is directly interconnected at the ZAOXI Global Exchange Point in Cape Town through SANReN and TENET, over a 10 Gbps Lagos-Cape Town link.",
+       "as_of": "2025-10-17",
+       "date_precision": "day",
+       "system": "ZAOXI",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "reach",
+       "value": "wider",
+       "fact": "WACREN, a West and Central African network, interconnects at ZAOXI in Cape Town.",
+       "as_of": "2025-10-17",
+       "date_precision": "day",
+       "system": "ZAOXI",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "ZAOXI",
+       "country_label": "South Africa",
+       "class": "exchange",
+       "platform": "global exchange point",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "stemgraduates": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "No STEM figure or university REN connection stated."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "No STEM figure or university REN connection stated."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "No STEM figure or university REN connection stated."
+    },
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "No STEM figure or university REN connection stated."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No STEM figure or university REN connection stated."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "No STEM figure or university REN connection stated."
+    },
+    "SLE": {
+     "facts": [],
+     "systems": [],
+     "note": "No STEM figure or university REN connection stated."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "No STEM figure or university REN connection stated."
+    }
+   }
+  }
+ }
+}

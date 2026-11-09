@@ -1,7 +1,6 @@
 {"slug": "2026-10-20-rwa-rwanda-looks-to-coordinated-ai-plan-to-boost-jobs-and-digital-public-s", "studies": {
-"aiabuse": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The article states nothing on AI rules or an authority."}}},
-"aigovernment": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The article describes a plan to coordinate strategies; no government AI system or rules are stated."}}},
-"aisectoral": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The article names no AI tool in a sector system."}}},
-"aisystems": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The article names no AI model, dataset or computing; infrastructure is a stated priority only."}}},
-"regionalpolicy": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The summit was in South Korea and no African body or agreement is named."}}}
+"aistrategy": {"countries": {"RWA": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "Minister of State Yves Iradukunda said Rwanda intends to bring its existing digital and AI strategies together under one coordinated programme; the article gives no adoption detail.", "as_of": "2026-10-20", "date_precision": "day", "system": "Rwanda's AI strategy", "class": "strategy"}], "systems": [], "note": ""}}},
+"broadbandstrategy": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No broadband plan or targets stated."}}},
+"datagovernance": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No data policy stated."}}},
+"digitalstrategy": {"countries": {"RWA": {"facts": [], "systems": [], "note": "An existing digital strategy is mentioned only in passing, with no scope, adoption, period or text stated."}}}
 }}

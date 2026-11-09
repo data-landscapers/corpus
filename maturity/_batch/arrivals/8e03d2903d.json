@@ -1,0 +1,40 @@
+{"slug": "2025-09-16-nga-126m-nigerians-secure-nin-database-capacity-hits-250m-fg", "studies": {
+"authentication": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "NIMC and the government say NIN verification is in use, for example facilitating student loans through NIN verification since May 2024.", "as_of": "2025-09-16", "date_precision": "day", "system": "NIN verification", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "NIMC says NIN data is linked with 125 partner agencies and the NIN is used for student loans, SIM linkage and other services.", "as_of": "2025-09-16", "date_precision": "day", "system": "NIN verification", "class": "authentication"}],
+"systems": [{"system": "NIN verification", "country_label": "Nigeria", "class": "authentication", "platform": "", "owner": "NIMC", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "link", "aspect": "link", "value": "inservice", "fact": "President Tinubu said NIMC had harmonised and linked data with 125 partner agencies, including the National Population Commission for birth registration.", "as_of": "2025-09-16", "date_precision": "day", "system": "National Identity Database", "class": "crvslink"}],
+"systems": [], "note": ""}}},
+"businesspayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"businessregister": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Only says NIN enables business registration; no register stated."}}},
+"centralbank": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on central bank role."}}},
+"civilregister": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on a digital civil register."}}},
+"consumerprotection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"NGA": {"facts": [], "systems": [], "note": "The BATTIC data centre supports border and passport services only, not for hire."}}},
+"disabilityaccess": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Disability policy trained ID enrolment agents; no information or digital service accessibility stated."}}},
+"g2ppayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No government payment to people stated."}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "126 million enrolled is stated but no population figure or share, so no rung settled."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the platform."}}},
+"idregisters": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "President Tinubu said NIMC had linked data with 125 partner agencies, including the Federal Inland Revenue Service for tax records.", "as_of": "2025-09-16", "date_precision": "day", "system": "National Identity Database", "class": "register"}],
+"systems": [], "note": ""}}},
+"idrobustness": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "President Tinubu said over 126 million Nigerians are enrolled in the National Identity Database, with capacity raised from 100 million to 250 million records.", "as_of": "2025-09-16", "date_precision": "day", "system": "National Identity Database", "class": "idsystem"}],
+"systems": [{"system": "National Identity Database (NIN)", "country_label": "Nigeria", "class": "idsystem", "platform": "", "owner": "NIMC", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "NIMC's director-general said NIN verification facilitated student loans for over 449,000 students since May 2024, and the NIN-SIM linkage is enforced with the NCC.", "as_of": "2025-09-16", "date_precision": "day", "system": "NIN verification", "class": "relying"},
+{"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "The document names NIN use in telecoms (SIM linkage), education loans (NELFUND), agriculture programmes and health insurance enrolment.", "as_of": "2025-09-16", "date_precision": "day", "system": "NIN verification", "class": "relying"},
+{"sub_indicator": "use", "aspect": "usage", "value": "reported", "fact": "NIMC reports 449,000 students benefited from loans via NIN verification (N86.35 billion disbursed) and data linked with 125 partner agencies.", "as_of": "2025-09-16", "date_precision": "day", "system": "NIN verification", "class": "relying"}],
+"systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No data centre for hire stated."}}},
+"paymentsuptake": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No account survey figure."}}},
+"refugees": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "displaced", "aspect": "access", "value": "open", "fact": "President Tinubu said special exercises were conducted to enrol refugees and internally displaced persons in the national identity database.", "as_of": "2025-09-16", "date_precision": "day", "system": "National Identity Database", "class": "displaced"}],
+"systems": [], "note": ""}}},
+"registry": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on civil registration offices."}}},
+"retailpayments": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on retail payments."}}},
+"revenuecollection": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Says NIN improves tax collection; no electronic payment stated."}}}
+}}

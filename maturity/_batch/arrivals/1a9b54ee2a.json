@@ -1,0 +1,106 @@
+{
+ "slug": "2026-03-09-zaf-home-affairs-on-first-bank-branches-go-live-under-new-digital-partners",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Department of Home Affairs says Smart ID card applications and re-issues went live in bank branches on 9 March 2026, replacing the green ID book that about 16 million South Africans still use.",
+       "as_of": "2026-03-09",
+       "date_precision": "day",
+       "system": "Smart ID card",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Smart ID card",
+       "country_label": "South Africa",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Department of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "ZAF": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Online Verification Service / API Digital Gateway",
+       "country_label": "South Africa",
+       "class": "relying",
+       "platform": "API gateway",
+       "owner": "Department of Home Affairs",
+       "tiers": ""
+      }
+     ],
+     "note": "Document names the Online Verification Service but says only that banks submit Smart ID applications through the gateway, not that they check people against the ID."
+    }
+   }
+  }
+ }
+}

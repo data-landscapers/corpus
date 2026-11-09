@@ -1,0 +1,106 @@
+{
+ "slug": "2025-04-15-tza-nida-gets-tough-on-unclaimed-ids",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "NIDA national ID",
+       "country_label": "Tanzania",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority (NIDA)",
+       "tiers": ""
+      }
+     ],
+     "note": "Jamii Number pilot registers minors under 18 in three areas, not tied to birth registration; not recorded."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "128 institutions integrated with NIDA is use of the ID by other systems, not registers keyed on the number; not recorded."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "NIDA Director General James Kaji says NIDA issues National Identification Numbers and ID cards, with 1,880,608 people notified by 23 March 2025 to collect cards.",
+       "as_of": "2025-03-23",
+       "date_precision": "day",
+       "system": "NIDA national ID",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIDA national ID",
+       "country_label": "Tanzania",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Identification Authority (NIDA)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Article states nothing on this study."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-03-03-bdi-burundi-eco-carte-d-identite-biometrique-cette-fois-sera-la-bonne",
+ "studies": {
+  "authentication": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on an authentication service."}}},
+  "birthidlink": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on a civil register to ID link."}}},
+  "civilregister": {"countries": {"BDI": {"facts": [], "systems": [], "note": "A civil-status digitisation project is named without saying what is in service or piloted."}}},
+  "idcoverage": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+  "idfrombirth": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on an ID number at birth."}}},
+  "idmaintenance": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on who operates the ID system."}}},
+  "idregisters": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
+  "idrobustness": {"countries": {"BDI": {"facts": [
+   {"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Burundi Eco reports the pilot phase of making biometric ID cards was launched in eleven communes including Gitega, Ngozi and Kayanza, and the Interior Minister told the National Assembly on 18 February 2025 the card should be available before the 2027 elections, after the family code is revised.", "as_of": "2025-03-03", "date_precision": "day", "system": "biometric identity card", "class": "idsystem"}
+  ], "systems": [{"system": "biometric identity card", "country_label": "Burundi", "class": "idsystem", "platform": "", "owner": "Ministry of Interior", "tiers": ""}], "note": ""}}},
+  "localgov": {"countries": {"BDI": {"facts": [], "systems": [], "note": "Nothing on local government office connection."}}},
+  "registry": {"countries": {"BDI": {"facts": [], "systems": [], "note": "No civil registration office entering events digitally is stated."}}}
+ }
+}

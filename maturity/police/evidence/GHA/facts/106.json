@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-08-gha-traffitech-gh-protect-motorists-data-from-criminals-kumadoe",
+ "facts": [],
+ "systems": [
+  {
+   "system": "TraffiTech-GH",
+   "country_label": "Ghana",
+   "class": "single-function",
+   "platform": "",
+   "owner": "Motor Traffic and Transport Department, Ghana Police Service",
+   "tiers": ""
+  }
+ ],
+ "note": "Traffic enforcement cameras only; no station report or case record stated."
+}

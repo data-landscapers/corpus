@@ -1,0 +1,19 @@
+{"slug": "2024-10-13-gin-cooperation-deux-importants-protocoles-d-accord-signes-entre-les-gouve", "studies": {
+"egovservices": {"countries": {
+"CIV": {"facts": [], "systems": [], "note": "Nothing on online government services."},
+"GIN": {"facts": [], "systems": [], "note": "Nothing on online government services."}}},
+"regionalinfrastructure": {"countries": {
+"CIV": {"facts": [
+{"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Ministers Kalil Konate of Cote d'Ivoire and Rose Pola Pricemou of Guinea signed a protocol in Conakry on 11 October 2024 on interconnecting the two countries' fibre-optic networks, says the Ivorian government portal.", "as_of": "2024-10-11", "date_precision": "day", "system": "Cote d'Ivoire-Guinea fibre-optic interconnection", "class": "shared"}
+], "systems": [], "note": ""},
+"GIN": {"facts": [
+{"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Minister Rose Pola Pricemou of Guinea and Cote d'Ivoire's minister Kalil Konate signed a protocol in Conakry on 11 October 2024 on interconnecting the two countries' fibre-optic networks, says the Ivorian government portal.", "as_of": "2024-10-11", "date_precision": "day", "system": "Cote d'Ivoire-Guinea fibre-optic interconnection", "class": "shared"}
+], "systems": [], "note": ""}}},
+"regionalpolicy": {"countries": {
+"CIV": {"facts": [
+{"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Cote d'Ivoire's minister Kalil Konate signed with Guinea's minister Rose Pola Pricemou on 11 October 2024 a protocol on wider cooperation in posts, telecommunications and the digital economy, says the Ivorian government portal.", "as_of": "2024-10-11", "date_precision": "day", "system": "Cote d'Ivoire-Guinea digital cooperation protocol", "class": "cooperation"}
+], "systems": [], "note": ""},
+"GIN": {"facts": [
+{"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Guinea's minister Rose Pola Pricemou signed with Cote d'Ivoire's minister Kalil Konate on 11 October 2024 a protocol on wider cooperation in posts, telecommunications and the digital economy, says the Ivorian government portal.", "as_of": "2024-10-11", "date_precision": "day", "system": "Cote d'Ivoire-Guinea digital cooperation protocol", "class": "cooperation"}
+], "systems": [], "note": ""}}}
+}}

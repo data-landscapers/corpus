@@ -1,0 +1,30 @@
+{"slug": "2025-05-01-cmr-procedure-d-obtention-des-titres-identitaires", "studies": {
+"authentication": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Online pre-enrolment by one-time code is enrolment, not an identity authentication service."}}},
+"birthidlink": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Birth certificates are only documents supplied by the applicant; no register link stated."}}},
+"businesspayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
+"civilregister": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on digital civil registration."}}},
+"civilserviceskills": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on civil service skills."}}},
+"consumerprotection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"digitalidlaw": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Two presidential decrees of 28 February 2025 are named, not a law; no statement of a law in force."}}},
+"disabilityaccess": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on disability access to digital services."}}},
+"g2ppayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"idcoverage": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Card is for adults from 18; no number at birth."}}},
+"idmaintenance": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Names the police as issuer and national production centres, but not who operates, maintains or owns the system platform."}}},
+"idregisters": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No public register keyed on the ID number named."}}},
+"idrobustness": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The national police (DGSN) brochure says national identity cards are issued after online pre-enrolment and physical biometric enrolment, produced within 48 hours at centres in Yaounde, Douala and Garoua, under decrees signed on 28 February 2025.", "as_of": "2025-05", "date_precision": "month", "system": "Carte Nationale d'Identite (idcam.cm)", "class": "idsystem"}],
+"systems": [{"system": "Carte Nationale d'Identite (idcam.cm)", "country_label": "Cameroon", "class": "idsystem", "platform": "", "owner": "DGSN", "tiers": ""}], "note": ""}}},
+"internationalstandards": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Cards follow ICAO Doc 9303 and ISO/IEC 7810, but the document states no study-relevant adoption or certification fact I can class."}}},
+"paymentsuptake": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No survey share of adults with accounts."}}},
+"police": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Police run ID enrolment only; nothing on the police study's subject."}}},
+"registry": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on local civil registration offices."}}},
+"retailpayments": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "The DGSN brochure lists Yoomee, MTN Mobile Money and Orange Money as ways to pay the identity-card fee online.", "as_of": "2025-05", "date_precision": "month", "system": "Mobile money (Yoomee, MTN Mobile Money, Orange Money)", "class": "retail"}],
+"systems": [{"system": "Mobile money (Yoomee, MTN Mobile Money, Orange Money)", "country_label": "Cameroon", "class": "retail", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"CMR": {"facts": [
+{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "The DGSN brochure says the 10,000 FCFA stamp duty for the national identity card is paid online at pre-enrolment.", "as_of": "2025-05", "date_precision": "month", "system": "idcam.cm online payment of stamp duty", "class": "revenue"}],
+"systems": [], "note": ""}}}
+}}

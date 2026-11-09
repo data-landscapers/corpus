@@ -1,0 +1,13 @@
+{"slug":"2026-11-02-ken-kenswitch-wibmo-3ds-access-control-server-partnership","studies":{
+"authentication":{"countries":{"KEN":{"facts":[],"systems":[{"system":"Wibmo 3-D Secure Access Control Server","country_label":"KEN","class":"other","platform":"EMV 3-D Secure","owner":"Kenswitch","tiers":""}],"note":"Card-payment authentication by issuers, not a state-accepted identity service."}}},
+"businesspayments":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"KEN":{"facts":[{"sub_indicator":"centralbank","aspect":"switch","value":"overseen","fact":"The Kenswitch release describes Kenswitch as a domestic payment switch regulated by the Central Bank of Kenya, connecting banks, SACCOs, microfinance institutions and mobile money providers.","as_of":"2026-11-02","date_precision":"day","system":"Kenswitch","class":"oversight"}],"systems":[{"system":"Kenswitch","country_label":"KEN","class":"oversight","platform":"","owner":"Kenswitch","tiers":""}],"note":""}}},
+"consumerprotection":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Nothing on consumer rules or redress."}}},
+"crossborderpayments":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Only local and global merchants through Kenswitch; no corridor named."}}},
+"g2ppayments":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Nothing on government payments."}}},
+"idrobustness":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Nothing on national ID."}}},
+"idverification":{"countries":{"KEN":{"facts":[],"systems":[],"note":"No check against the national ID."}}},
+"paymentsuptake":{"countries":{"KEN":{"facts":[],"systems":[],"note":"No survey share; only network counts of ATMs, POS and agents."}}},
+"retailpayments":{"countries":{"KEN":{"facts":[{"sub_indicator":"retail","aspect":"interop","value":"interop","fact":"The Kenswitch release says its domestic switch enables interoperability among banks, SACCOs, microfinance institutions and mobile money network providers across multiple payment channels.","as_of":"2026-11-02","date_precision":"day","system":"Kenswitch","class":"retail"},{"sub_indicator":"retail","aspect":"switch","value":"national","fact":"The Kenswitch release says Kenswitch is Kenya's domestic payment switch connecting banks and mobile money network providers, with a member network of 2,500+ ATMs, 50,000+ POS terminals and 80,000+ agents.","as_of":"2026-11-02","date_precision":"day","system":"Kenswitch","class":"retail"}],"systems":[],"note":""}}},
+"revenuecollection":{"countries":{"KEN":{"facts":[],"systems":[],"note":"Nothing on tax or fee payment."}}}
+}}

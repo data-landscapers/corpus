@@ -1,11 +1,1 @@
-{"slug": "2023-11-13-mli-fonctions-publiques-de-l-etat-et-des-collectivites-territoriales-mise", "studies": {
-"birthidlink": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Civil servants' identification against RAVEC data; no civil register to ID link stated."}}},
-"civilregister": {"countries": {"MLI": {"facts": [], "systems": [], "note": "RAVEC is named only as a data source for a civil-servant HR system; no digital civil registration stated."}}},
-"civilserviceskills": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No training stated."}}},
-"coresystems": {"countries": {"MLI": {"facts": [], "systems": [{"system": "SIGRH", "country_label": "Systeme Integre de Gestion des Ressources Humaines", "class": "other", "platform": "", "owner": "Government", "tiers": ""}], "note": "The integrated HR system is decided on, not stated in use; the decree is adopted in draft only."}}},
-"idfrombirth": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
-"idrobustness": {"countries": {"MLI": {"facts": [], "systems": [], "note": "RAVEC biometric data is mentioned as an input; no ID system state stated."}}},
-"localgov": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No connection of local government offices stated."}}},
-"populationregister": {"countries": {"MLI": {"facts": [], "systems": [], "note": "RAVEC is not described as a population register in this document."}}},
-"registry": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on civil registration offices."}}}
-}}
+{"slug":"2023-11-13-mli-fonctions-publiques-de-l-etat-et-des-collectivites-territoriales-mise","studies":{"idverification":{"countries":{"MLI":{"facts":[{"sub_indicator":"use","aspect":"use","value":"underway","fact":"Mali's Council of Ministers adopted a draft decree on 8 November 2023 for identifying State and local-government civil servants under an integrated human resources management system that incorporates the biometric data of the civil-status census RAVEC, per Le Sursaut.","as_of":"2023-11-08","date_precision":"day","system":"Système Intégré de Gestion des Ressources Humaines (SIGRH)","class":"relying"}],"systems":[{"system":"Système Intégré de Gestion des Ressources Humaines (SIGRH)","country_label":"Mali","class":"relying","platform":"RAVEC biometric data","owner":"Ministry of State Refoundation","tiers":""}],"note":""}}}}}

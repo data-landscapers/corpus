@@ -1,0 +1,12 @@
+{"slug": "2024-12-02-eth-bbc-amharic-nbe-fayda-mandatory-bank-account-opening", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on civil register links."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Over 10 million registered but no population share stated."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the system."}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No public register keyed on the ID stated."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "BBC Amharic says Fayda gives each person a unique 12-digit number and more than 10 million people had registered, per National ID Program data.", "as_of": "2024-12", "date_precision": "month", "system": "Fayda", "class": "idsystem"},
+{"sub_indicator": "robustness", "aspect": "biometric", "value": "checked", "fact": "BBC Amharic says Fayda registration takes fingerprints, iris scans and a face image, with the aim of one person, one identity.", "as_of": "2024-12", "date_precision": "month", "system": "Fayda", "class": "idsystem"}],
+"systems": [{"system": "Fayda", "country_label": "Ethiopia", "class": "idsystem", "platform": "", "owner": "National ID Program", "tiers": ""}], "note": ""}}}
+}}

@@ -1,0 +1,14 @@
+{"slug":"2026-05-27-zaf-question-no481-to-the-minister-of-home-affairs","studies":{
+"authentication":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"An interim digital ID pilot is only being explored; none authorised or run."}}},
+"birthidlink":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on civil register and ID links."}}},
+"datacentres":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"A state data centre for the ID platform; no hire to others stated."}}},
+"digitalidlaw":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Only draft regulations under the Identification Act are mentioned; no bill, and the Act's standing is not stated."}}},
+"eparticipation":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Gazetted for comment; no online posting or channel stated."}}},
+"idcoverage":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"No enrolment count or share stated."}}},
+"idfrombirth":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Nothing on numbers from birth."}}},
+"idmaintenance":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"Vendor risk is mentioned but not who operates or maintains the system."}}},
+"idregisters":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"No register matching stated."}}},
+"idrobustness":{"countries":{"ZAF":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"underway","fact":"The Minister of Home Affairs says the department has begun migrating its biometric and identity infrastructure into a new SARS-supported data centre as the foundation of the planned Digital Identity platform, with procurement and implementation preparations being finalised.","as_of":"2026-05-27","date_precision":"day","system":"Digital Identity platform","class":"idsystem"}],"systems":[{"system":"Digital Identity platform","country_label":"South Africa","class":"idsystem","platform":"","owner":"Department of Home Affairs","tiers":""}],"note":""}}},
+"nationaldatacentres":{"countries":{"ZAF":{"facts":[],"systems":[],"note":"A SARS-supported data centre is mentioned for the ID platform; no hosting for others or tier stated."}}},
+"publicconsultation":{"countries":{"ZAF":{"facts":[{"sub_indicator":"consultation","aspect":"hearing","value":"held","fact":"The Minister of Home Affairs says draft regulations under the Identification Act for the Digital Identity platform were recently gazetted for public comment.","as_of":"2026-05-27","date_precision":"day","system":"Draft regulations under the Identification Act","class":"consultation"}],"systems":[],"note":""}}}
+}}

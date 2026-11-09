@@ -1,0 +1,86 @@
+{"slug": "2026-03-25-tgo-wb-wuri-phase-2-restructuring-paper-res01578", "studies": {
+"authentication": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Only a beneficiary count for Benin; no authentication service stated."},
+"BFA": {"facts": [], "systems": [], "note": "Only a target for Burkina Faso; no authentication service stated."},
+"NER": {"facts": [], "systems": [], "note": "Only a target for Niger; no authentication service stated."},
+"TGO": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "The World Bank says Togo's e-ID is integrated into the Novissi platform and is used to authenticate beneficiaries of ANADEB's cash transfer programmes.", "as_of": "2026-03", "date_precision": "month", "system": "Togo e-ID", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "The World Bank says Togo's national digital services gateway, social registry and social payments platform use the fID.", "as_of": "2026-03", "date_precision": "month", "system": "Togo e-ID", "class": "authentication"}],
+"systems": [{"system": "Togo e-ID", "country_label": "Togo", "class": "authentication", "platform": "MOSIP", "owner": "ANID", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "No civil register link stated."},
+"BFA": {"facts": [], "systems": [], "note": "No civil register link stated."},
+"NER": {"facts": [], "systems": [], "note": "No civil register link stated."},
+"TGO": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"dataprotectionlaw": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Not mentioned for Benin."},
+"BFA": {"facts": [], "systems": [], "note": "Not mentioned for Burkina Faso."},
+"NER": {"facts": [], "systems": [], "note": "Not mentioned for Niger."},
+"TGO": {"facts": [], "systems": [], "note": "Data protection named only as part of a framework Togo has operationalised; no law, standing or authority stated."}}},
+"g2ppayments": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "No government payments stated."},
+"BFA": {"facts": [], "systems": [], "note": "No government payments stated."},
+"NER": {"facts": [], "systems": [], "note": "No government payments stated."},
+"TGO": {"facts": [
+{"sub_indicator": "g2p", "aspect": "payment", "value": "inservice", "fact": "The World Bank says Togo's social payments platform uses the fID and the Novissi platform serves ANADEB's cash transfer programmes.", "as_of": "2026-03", "date_precision": "month", "system": "Novissi", "class": "g2p"},
+{"sub_indicator": "g2p", "aspect": "linked", "value": "linked", "fact": "The World Bank says the e-ID is used to authenticate beneficiaries of ANADEB cash transfers on the Novissi platform.", "as_of": "2026-03", "date_precision": "month", "system": "Novissi", "class": "g2p"}],
+"systems": [{"system": "Novissi", "country_label": "Togo", "class": "g2p", "platform": "", "owner": "ANADEB", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "A count of UNIs received is given (about 9.6 million) but no share of the population."},
+"BFA": {"facts": [], "systems": [], "note": "Only a target; no enrolment share stated."},
+"NER": {"facts": [], "systems": [], "note": "Only a target; no enrolment share stated."},
+"TGO": {"facts": [
+{"sub_indicator": "coverage", "aspect": "share", "value": "third", "fact": "The World Bank says Togo's mass registration campaign has enrolled nearly 4 million people, 49% of the population, and delivered 2.6 million ID credentials against a target of 7 million.", "as_of": "2026-03", "date_precision": "month", "system": "Togo e-ID", "class": "idsystem"}],
+"systems": [], "note": ""}}},
+"idfrombirth": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "No number at birth stated."},
+"BFA": {"facts": [], "systems": [], "note": "No number at birth stated."},
+"NER": {"facts": [], "systems": [], "note": "No number at birth stated."},
+"TGO": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Operation and ownership not stated."},
+"BFA": {"facts": [], "systems": [], "note": "Operation and ownership not stated."},
+"NER": {"facts": [], "systems": [], "note": "Operation and ownership not stated."},
+"TGO": {"facts": [
+{"sub_indicator": "maintenance", "aspect": "ownership", "value": "owned", "fact": "The World Bank describes Togo's e-ID as a biometric ID system based on open-source technologies (MOSIP).", "as_of": "2026-03", "date_precision": "month", "system": "Togo e-ID", "class": "idsystem"}],
+"systems": [], "note": ""}}},
+"idregisters": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "No register keyed on the ID stated."},
+"BFA": {"facts": [], "systems": [], "note": "No register keyed on the ID stated."},
+"NER": {"facts": [], "systems": [], "note": "No register keyed on the ID stated."},
+"TGO": {"facts": [
+{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "The World Bank says Togo's e-ID is fully interoperable with the dynamic social registry (RSPM), which automatically ingests biographic data and unique identification numbers.", "as_of": "2026-03", "date_precision": "month", "system": "RSPM", "class": "register"}],
+"systems": [{"system": "RSPM", "country_label": "Togo", "class": "social", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"idrobustness": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "No system status stated beyond a UNI count."},
+"BFA": {"facts": [], "systems": [], "note": "No system status stated."},
+"NER": {"facts": [], "systems": [], "note": "No system status stated."},
+"TGO": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The World Bank says Togo's fID system is operational and generates unique identification numbers aligned with international standards.", "as_of": "2026-03", "date_precision": "month", "system": "Togo e-ID", "class": "idsystem"}],
+"systems": [], "note": ""}}},
+"internationalstandards": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Not mentioned."},
+"BFA": {"facts": [], "systems": [], "note": "Not mentioned."},
+"NER": {"facts": [], "systems": [], "note": "Not mentioned."},
+"TGO": {"facts": [], "systems": [], "note": "A system aligned with international standards only; no standards body or rule stated."}}},
+"socialexchange": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Not mentioned."},
+"BFA": {"facts": [], "systems": [], "note": "Not mentioned."},
+"NER": {"facts": [], "systems": [], "note": "Not mentioned."},
+"TGO": {"facts": [
+{"sub_indicator": "exchange", "aspect": "exchange", "value": "inservice", "fact": "The World Bank says Togo's e-ID is fully interoperable with the dynamic social registry (RSPM) and integrated into the Novissi platform.", "as_of": "2026-03", "date_precision": "month", "system": "RSPM", "class": "exchange"}],
+"systems": [], "note": ""}}},
+"socialprotection": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Not mentioned."},
+"BFA": {"facts": [], "systems": [], "note": "Not mentioned."},
+"NER": {"facts": [], "systems": [], "note": "Not mentioned."},
+"TGO": {"facts": [], "systems": [], "note": "No programme management information system described."}}},
+"socialregistry": {"countries": {
+"BEN": {"facts": [], "systems": [], "note": "Not mentioned."},
+"BFA": {"facts": [], "systems": [], "note": "Not mentioned."},
+"NER": {"facts": [], "systems": [], "note": "Not mentioned."},
+"TGO": {"facts": [
+{"sub_indicator": "social", "aspect": "registry", "value": "inservice", "fact": "The World Bank says Togo has operationalised a dynamic social registry (RSPM) that its e-ID feeds.", "as_of": "2026-03", "date_precision": "month", "system": "RSPM", "class": "social"},
+{"sub_indicator": "social", "aspect": "linked", "value": "linked", "fact": "The World Bank says the e-ID system is fully interoperable with the RSPM, enabling automatic ingestion of unique identification numbers.", "as_of": "2026-03", "date_precision": "month", "system": "RSPM", "class": "social"}],
+"systems": [], "note": ""}}}
+}}

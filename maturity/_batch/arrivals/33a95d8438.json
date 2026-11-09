@@ -1,0 +1,13 @@
+{"slug": "2024-12-02-sdn-cbos-national-number-remote-account-opening", "studies": {
+"authentication": {"countries": {"SDN": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "The Central Bank of Sudan's circular of 2 December 2024 requires banks to offer remote account opening, verifying identity documents by linking the bank's system to the civil registry system with face recognition as the main check, and told banks to start preparing the technical systems at once.", "as_of": "2024-12-02", "date_precision": "day", "system": "Remote account opening identity verification", "class": "authentication"}
+], "systems": [{"system": "Remote account opening identity verification", "country_label": "Sudan", "class": "authentication", "platform": "bank systems linked to the civil registry system", "owner": "Central Bank of Sudan (rule); banks", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No exchange of records between the civil register and the ID system is stated; banks check against the civil registry, which is a different matter."}}},
+"civilregister": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on how births and deaths are registered."}}},
+"idcoverage": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idfrombirth": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on who operates or maintains the system."}}},
+"idregisters": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Bank account opening is a private use of the national number, not a public register keyed on it."}}},
+"idrobustness": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The national number and civil registry system are named but nothing is stated on issuing unique numbers or biometric deduplication."}}},
+"registry": {"countries": {"SDN": {"facts": [], "systems": [{"system": "General Administration of Civil Registry system", "country_label": "Sudan", "class": "other", "platform": "", "owner": "Civil Registry", "tiers": ""}], "note": "Nothing on how local offices record births or deaths."}}}
+}}

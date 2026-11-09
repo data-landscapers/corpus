@@ -1,0 +1,4 @@
+{"slug":"2024-08-15-tun-tunisia-asks-operators-to-deactivate-unidentified-sim-cards","studies":{
+"idverification":{"countries":{"TUN":{"facts":[{"sub_indicator":"use","aspect":"use","value":"underway","fact":"Developing Telecoms, citing Ecofin, reports Tunisia's communication technologies ministry and the INT asked operators to deactivate unidentified SIM cards and to verify subscribers against an official identity document, with no deadline stated.","as_of":"2024-08","date_precision":"month","system":"SIM identification","class":"relying"}],"systems":[],"note":""}}},
+"internetusage":{"countries":{"TUN":{"facts":[],"systems":[],"note":"Only subscriber and mobile internet user counts, not a share of the population."}}}
+}}

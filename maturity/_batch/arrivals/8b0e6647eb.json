@@ -1,0 +1,10 @@
+{"slug": "2026-08-01-caf-bria-une-operation-speciale-permet-aux-habitants-de-la-haute-kotto-d-o", "studies": {
+"authentication": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
+"idcoverage": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Only a count of 19,000+ cards issued in one earlier Bria mission; no national count or share."}}},
+"idfrombirth": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Names Almadina agents doing enrolment; who operates and owns the system is not stated."}}},
+"idregisters": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"CAF": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Corbeaunews reports a special national identity card enrolment and issue operation running in Bria, Haute-Kotto, since 17 August 2026, after a previous Bria mission issued more than 19,000 cards.", "as_of": "2026-08", "date_precision": "month", "system": "Carte nationale d'identité", "class": "idsystem"}], "systems": [{"system": "Carte nationale d'identité", "country_label": "Central African Republic", "class": "idsystem", "platform": "", "owner": "Ministry of Public Security", "tiers": ""}], "note": "No biometric duplicate check, certification or audit stated."}}},
+"police": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on police station records; the commissariat only hosted the launch."}}}
+}}

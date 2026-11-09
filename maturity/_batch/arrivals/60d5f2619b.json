@@ -1,0 +1,10 @@
+{"slug":"2026-09-16-cod-rdc-l-identification-de-masse-de-la-population-annoncee-pour-mi-decemb","studies":{
+"authentication":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on authentication services."}}},
+"birthidlink":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on civil register and ID links."}}},
+"electoralregister":{"countries":{"COD":{"facts":[{"sub_indicator":"electoral","aspect":"linked","value":"linked","fact":"The electoral commission CENI formally handed the electoral file of voters enrolled in 2022 to the national identification office ONIP on 19 February 2026, to serve as the technical base for identifying citizens, per Actualite.cd.","as_of":"2026-02-19","date_precision":"day","system":"CENI electoral file","class":"electoral"}],"systems":[{"system":"CENI electoral file","country_label":"DR Congo","class":"electoral","platform":"","owner":"CENI","tiers":""}],"note":""}}},
+"idcoverage":{"countries":{"COD":{"facts":[],"systems":[],"note":"No enrolment count or share stated."}}},
+"idfrombirth":{"countries":{"COD":{"facts":[],"systems":[],"note":"Nothing on numbers from birth."}}},
+"idmaintenance":{"countries":{"COD":{"facts":[],"systems":[],"note":"No operator or maintenance arrangement stated; the earlier Idemia contract was cancelled."}}},
+"idregisters":{"countries":{"COD":{"facts":[],"systems":[],"note":"No register matching figures stated."}}},
+"idrobustness":{"countries":{"COD":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"underway","fact":"The Interior Minister announced to the Council of Ministers on 11 September 2026 that mass identification of the population by the national identification office ONIP will launch in mid-December 2026, with preparatory meetings under way and the timetable tied to financing.","as_of":"2026-09-11","date_precision":"day","system":"ONIP mass identification","class":"idsystem"}],"systems":[{"system":"ONIP mass identification","country_label":"DR Congo","class":"idsystem","platform":"","owner":"ONIP (Ministry of the Interior)","tiers":""}],"note":""}}}
+}}

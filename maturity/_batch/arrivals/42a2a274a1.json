@@ -1,0 +1,23 @@
+{"slug":"2026-09-22-egy-fintechgate-haweya-digital-id-five-banks-18-months","studies":{
+"aiabuse":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Deepfake countermeasures are a product feature, not a rule or authority."}}},
+"authentication":{"countries":{"EGY":{"facts":[{"sub_indicator":"authentication","aspect":"service","value":"inservice","fact":"Haweya, an Egyptian company operating under the Central Bank of Egypt's sponsorship, is starting its digital identity verification service with 5 banks, checking the national ID card and a live selfie against civil status data, per its managing director Tamer Gadalla.","as_of":"2026-09-22","date_precision":"day","system":"Haweya","class":"authentication"}],"systems":[{"system":"Haweya","country_label":"Egypt","class":"authentication","platform":"","owner":"Haweya (under Central Bank of Egypt sponsorship)","tiers":""}],"note":""}}},
+"birthidlink":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Civil status data is only the match source for verification; no birth or death link stated."}}},
+"businesspayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing on e-procurement."}}},
+"centralbank":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Says Haweya works under the central bank's sponsorship; no payments mandate, licensing or switch stated."}}},
+"consumerprotection":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing on consumer protection rules or redress."}}},
+"crossborderpayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing on cross-border payments."}}},
+"dataprotectionlaw":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No data protection law stated."}}},
+"egovservices":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Bank and financial services only; no government e-services stated."}}},
+"g2ppayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing on government payments."}}},
+"idcoverage":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No enrolment count or share stated."}}},
+"idfrombirth":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing on numbers from birth."}}},
+"idmaintenance":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing on who operates or maintains the ID system."}}},
+"idregisters":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No register matching figures stated."}}},
+"idrobustness":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Liveness checks are on Haweya's customers; nothing on the national ID system's enrolment checks or certification."}}},
+"idverification":{"countries":{"EGY":{"facts":[{"sub_indicator":"use","aspect":"use","value":"inservice","fact":"Haweya's digital identity service lets banks verify a customer remotely by matching the national ID card data and a live selfie against civil status data; the first phase starts with 5 banks, per Haweya's managing director.","as_of":"2026-09-22","date_precision":"day","system":"Haweya","class":"relying"},{"sub_indicator":"use","aspect":"usage","value":"reported","fact":"Haweya's first phase of operation counts 5 banks relying on it, with all banks in Egypt targeted within 18 months, per its managing director.","as_of":"2026-09-22","date_precision":"day","system":"Haweya","class":"relying"}],"systems":[{"system":"Haweya","country_label":"Egypt","class":"relying","platform":"","owner":"Haweya","tiers":""}],"note":""}}},
+"paymentsuptake":{"countries":{"EGY":{"facts":[],"systems":[],"note":"No survey share of digital payments stated."}}},
+"police":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing on police records."}}},
+"registry":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing on civil registration."}}},
+"retailpayments":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing on retail payment services."}}},
+"revenuecollection":{"countries":{"EGY":{"facts":[],"systems":[],"note":"Nothing on revenue collection."}}}
+}}

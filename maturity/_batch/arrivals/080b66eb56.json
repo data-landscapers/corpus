@@ -1,0 +1,108 @@
+{
+ "slug": "2024-05-21-gab-gabon-166-912-numero-d-identification-personnel-deja-delivres",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "electoral",
+       "aspect": "roll",
+       "value": "inservice",
+       "fact": "The article says people on the biometric electoral list since 2013 can obtain the NIP through the monnip.ga web portal.",
+       "as_of": "2024-05",
+       "date_precision": "month",
+       "system": "liste electorale biometrique",
+       "class": "electoral"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The interior minister says 166,912 Numero d'Identification Personnel (NIP) attestations were issued from 3 April to 16 May 2024, 61,186 of them online.",
+       "as_of": "2024-05-16",
+       "date_precision": "day",
+       "system": "Numero d'Identification Personnel (NIP)",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Numero d'Identification Personnel (NIP)",
+       "country_label": "Gabon",
+       "class": "idsystem",
+       "platform": "monnip.ga portal and issuing centres",
+       "owner": "Ministry of the Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,8 @@
+{"slug": "2024-11-06-egy-telecom-egypt-africa-1-cable-lands-ras-ghareb", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Cable landing release; says nothing on AI harms."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Cable landing release; says nothing on government AI."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Cable landing release; says nothing on sector AI."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Mentions AI only as a demand driver for bandwidth; no AI built or hosted."}}},
+"digitaldivides": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No rural programme or rural and urban figures stated."}}},
+"internationalbandwidth": {"countries": {"EGY": {"facts": [], "systems": [{"system": "Africa-1", "country_label": "Egypt", "class": "other", "platform": "submarine cable", "owner": "Africa-1 consortium", "tiers": ""}], "note": "Africa-1 first landed at Ras Ghareb in Nov 2024; operational phase still ahead, so not in service."}}}
+}}

@@ -1,0 +1,38 @@
+{
+  "slug": "2026-03-16-nam-over-117-000-ids-issued-in-2025",
+  "studies": {
+    "authentication": {"countries": {"NAM": {"facts": [], "systems": [], "note": "e-ID launch is only expected in FY2026-27; no authentication service is authorised, piloted or in use."}}},
+    "birthidlink": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Births certificates and IDs are both reported, but no link between the registers is stated."}}},
+    "civilregister": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Birth certificates issued are counted; no digital civil registration system is named."}}},
+    "digitaldivides": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on rural internet programmes or rural-urban use."}}},
+    "digitalidlaw": {"countries": {"NAM": {
+      "facts": [
+        {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Namibian Sun reports the home affairs ministry is advancing amendments to several laws including the Civil Registration and Identification Act, so the Act is in force.", "as_of": "2026-03", "date_precision": "month", "system": "Civil Registration and Identification Act", "class": "law"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "idcoverage": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Documents issued in 2025 are a flow count, not people enrolled over the population."}}},
+    "idfrombirth": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+    "idmaintenance": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Who operates or maintains the ID system is not stated."}}},
+    "idregisters": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No public register keyed on the ID number is stated."}}},
+    "idrobustness": {"countries": {"NAM": {
+      "facts": [
+        {"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Minister Lucia Iipumbu said the home affairs ministry issued 117,175 national identity documents in 2025, with electronic ID documents expected to launch in FY2026-27.", "as_of": "2025", "date_precision": "year", "system": "National identity documents", "class": "idsystem"}
+      ],
+      "systems": [
+        {"system": "National identity documents / e-ID", "country_label": "Namibia", "class": "idsystem", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": ""}
+      ],
+      "note": ""}}},
+    "idverification": {"countries": {"NAM": {"facts": [], "systems": [], "note": "The e-ID is only designed to enable integration; no system checking against the ID is stated."}}},
+    "police": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Police items are training, vehicles and operations; no station record system."}}},
+    "refugees": {"countries": {"NAM": {
+      "facts": [
+        {"sub_indicator": "displaced", "aspect": "registration", "value": "documented", "fact": "Minister Iipumbu said 682 African guest identity cards were issued to refugees in 2025 to ease access to education, employment and financial services.", "as_of": "2025", "date_precision": "year", "system": "African guest identity card", "class": "displaced"}
+      ],
+      "systems": [
+        {"system": "African guest identity card", "country_label": "Namibia", "class": "displaced", "platform": "", "owner": "Ministry of Home Affairs, Immigration, Safety and Security", "tiers": ""}
+      ],
+      "note": ""}}},
+    "registry": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No digital entry of births or deaths at local offices is stated."}}}
+  }
+}

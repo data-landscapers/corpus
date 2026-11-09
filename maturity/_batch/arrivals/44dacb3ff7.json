@@ -1,0 +1,19 @@
+{"slug": "2024-06-25-nga-nigeria-s-nimc-fights-off-data-breach-accusations-flags-5-data-harvest", "studies": {
+"authentication": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on civil register links."}}},
+"dataprotectionlaw": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "NIMC's spokesman said the Commission's infrastructure operates in strict compliance with the Nigerian Data Protection Law.", "as_of": "2024-06", "date_precision": "month", "system": "Nigerian Data Protection Law", "class": "general"}],
+"systems": [], "note": ""}}},
+"idcoverage": {"countries": {"NGA": {"facts": [], "systems": [], "note": "107 million registrations as of April 2024 but no population share stated."}}},
+"idfrombirth": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the platform."}}},
+"idregisters": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No register keyed on the NIN stated."}}},
+"idrobustness": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Biometric Update reports registrations in Nigeria's national digital ID database were just over 107 million as of April 2024.", "as_of": "2024-04", "date_precision": "month", "system": "National Identity Database (NIN)", "class": "idsystem"},
+{"sub_indicator": "robustness", "aspect": "assurance", "value": "certified", "fact": "NIMC's spokesman said its infrastructure meets the ISO 27001:2013 information security standard with annual recertification.", "as_of": "2024-06", "date_precision": "month", "system": "National Identity Database (NIN)", "class": "idsystem"}],
+"systems": [{"system": "National Identity Database (NIN)", "country_label": "Nigeria", "class": "idsystem", "platform": "", "owner": "NIMC", "tiers": ""}], "note": ""}}},
+"internationalstandards": {"countries": {"NGA": {"facts": [], "systems": [], "note": "ISO 27001 is an infrastructure certificate, which places nothing here."}}},
+"opendiscussion": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Paradigm Initiative criticises data protection handling, not a named government policy or decision."}}},
+"policyresearch": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Paradigm Initiative is an advocacy group; no research publication or policy role stated."}}},
+"qualitystandards": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No national standards body or standard stated."}}}
+}}

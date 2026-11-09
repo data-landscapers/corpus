@@ -1,0 +1,31 @@
+{
+  "slug": "2025-09-19-uga-nira-assures-ugandans-on-security-of-national-id-data",
+  "studies": {
+    "authentication": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No authentication service is mentioned."}}},
+    "birthidlink": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No civil register link is mentioned."}}},
+    "dataprotectionlaw": {"countries": {"UGA": {
+      "facts": [
+        {"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "NIRA's press statement cites the Data Protection and Privacy Act, 2019 as setting obligations on processing personal and biometric data, including purpose limitation, minimisation and security safeguards.", "as_of": "2025-09", "date_precision": "month", "system": "Data Protection and Privacy Act, 2019", "class": "general"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "digitalidlaw": {"countries": {"UGA": {
+      "facts": [
+        {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "NIRA says the Registration of Persons Act (ROPA) provides the legal framework for collecting, storing and using personal data in the National Identification Register, including ID and passport issuance.", "as_of": "2025-09", "date_precision": "month", "system": "Registration of Persons Act", "class": "law"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "idcoverage": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+    "idfrombirth": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+    "idmaintenance": {"countries": {"UGA": {"facts": [], "systems": [], "note": "NIRA's security safeguards are stated, but not who operates, maintains or owns the platform."}}},
+    "idregisters": {"countries": {"UGA": {"facts": [], "systems": [], "note": "No other register keyed on the ID number is mentioned."}}},
+    "idrobustness": {"countries": {"UGA": {
+      "facts": [
+        {"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "NIRA says it runs the National Identification Register holding citizens' personal and biometric data, from which IDs and passports are issued under strict quality assurance controls.", "as_of": "2025-09", "date_precision": "month", "system": "National Identification Register (NIR)", "class": "idsystem"}
+      ],
+      "systems": [
+        {"system": "National Identification Register (NIR)", "country_label": "Uganda", "class": "idsystem", "platform": "", "owner": "National Identification and Registration Authority (NIRA)", "tiers": ""}
+      ],
+      "note": "Security safeguards (encryption, intrusion detection, monitoring) are stated, but no certification, published audit or assurance level."}}}
+  }
+}

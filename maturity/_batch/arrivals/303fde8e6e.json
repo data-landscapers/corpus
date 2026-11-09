@@ -1,0 +1,6 @@
+{"slug": "2026-02-23-ssd-major-milestone-for-africa-s-digital-connectivity", "studies": {
+"eparticipation": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on online participation."}}},
+"fibrebackbone": {"countries": {"SSD": {"facts": [{"sub_indicator": "backbone", "aspect": "reach", "value": "building", "fact": "Africa50 said fibre construction has officially commenced in South Sudan along the Nadapal-Kapoeta-Torit-Juba-Yirol-Rumbek-Waw-Tambura-Ri Yubu route, under the East2West Connectivity Project with Bayobab.", "as_of": "2026-02-23", "date_precision": "day", "system": "East2West Connectivity Project", "class": "backbone"}], "systems": [{"system": "East2West Connectivity Project", "country_label": "South Sudan", "class": "backbone", "platform": "terrestrial fibre", "owner": "Africa50 and Bayobab", "tiers": ""}], "note": ""}}},
+"publicconsultation": {"countries": {"SSD": {"facts": [], "systems": [], "note": "Nothing on consultation."}}},
+"regionalinfrastructure": {"countries": {"SSD": {"facts": [], "systems": [{"system": "East2West Connectivity Project", "country_label": "South Sudan", "class": "other", "platform": "terrestrial fibre", "owner": "Africa50 and Bayobab", "tiers": ""}], "note": "Post names no agreement with a party in South Sudan or another country, nor a cross-border link."}}}
+}}

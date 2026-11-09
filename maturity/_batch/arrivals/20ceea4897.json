@@ -1,0 +1,19 @@
+{"slug": "2025-08-01-lso-strategic-report-on-the-prevalent-identity-theft-fraud", "studies": {
+"authentication": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Lesotho's Financial Intelligence Unit says the NICR gives banks and money lenders viewing rights to its national identity database to verify identity documents at onboarding, though not all have access.", "as_of": "2025-08", "date_precision": "month", "system": "NICR verification portal", "class": "authentication"}],
+"systems": [{"system": "NICR verification portal", "country_label": "Lesotho", "class": "authentication", "platform": "", "owner": "National Identification and Civil Registry (NICR)", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on a civil register to ID link."}}},
+"civilregister": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on digital civil registration."}}},
+"idcoverage": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the platform."}}},
+"idregisters": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No public register keyed on the ID number named."}}},
+"idrobustness": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Lesotho's Financial Intelligence Unit says the NICR is custodian of the national identity database, against which identity documents and their ID numbers are authenticated, and the Ministry of Home Affairs produces the documents.", "as_of": "2025-08", "date_precision": "month", "system": "NICR national identity database", "class": "idsystem"}],
+"systems": [{"system": "NICR national identity database", "country_label": "Lesotho", "class": "idsystem", "platform": "", "owner": "National Identification and Civil Registry (NICR)", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"LSO": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "Lesotho's Financial Intelligence Unit says banks and money lenders verify customers' national identity documents against the NICR database at onboarding, where they hold viewing rights, which not all do.", "as_of": "2025-08", "date_precision": "month", "system": "NICR verification portal", "class": "relying"}],
+"systems": [{"system": "NICR verification portal", "country_label": "Lesotho", "class": "relying", "platform": "", "owner": "National Identification and Civil Registry (NICR)", "tiers": ""}], "note": ""}}},
+"publicconsultation": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on consultation of people outside government."}}},
+"registry": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Nothing on local civil registration offices."}}}
+}}

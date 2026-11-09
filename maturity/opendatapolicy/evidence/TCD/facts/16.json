@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-27-tcd-lendjampost-cdig-geoportail-siteau-app-launch",
+ "facts": [],
+ "systems": [
+  {
+   "system": "SITEAU Geoportail and SITEAU-APP",
+   "country_label": "Chad",
+   "class": "other",
+   "platform": "Geoportal and mobile application",
+   "owner": "CDIG (Centre de Documentation et d'Information Geographique)",
+   "tiers": ""
+  }
+ ],
+ "note": "A water-sector portal with no open data policy tied to it."
+}

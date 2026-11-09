@@ -1,0 +1,18 @@
+{"slug": "2026-11-08-eth-digital-sovereignty-priority-for-africa-s-future-innovation-technology-state-m", "studies": {
+"aiabuse": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Minister only warns of deepfakes and AI disinformation; no rule or authority stated."}}},
+"aigovernment": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No government body's use of AI is stated."}}},
+"aisectoral": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+"aisystems": {"countries": {"ETH": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "The Ethiopian Artificial Intelligence Institute is developing AI models in Ethiopia's local languages, State Minister Solomon Soka said.", "as_of": "2026-11-08", "date_precision": "day", "system": "Ethiopian Artificial Intelligence Institute", "class": "localai"}], "systems": [{"system": "Ethiopian Artificial Intelligence Institute", "country_label": "Ethiopia", "class": "localai", "platform": "", "owner": "government", "tiers": ""}], "note": ""}}},
+"authentication": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Fayda is named only as a launched national digital ID; no authentication service is described."}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
+"datacentres": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Only a goal to host national data in-country and a call for African-owned data centres; no facility stated."}}},
+"digitalskills": {"countries": {"ETH": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "State Minister Solomon Soka highlighted an initiative to train five million Ethiopians in coding.", "as_of": "2026-11-08", "date_precision": "day", "system": "Five million coders initiative", "class": "publicskills"}], "systems": [], "note": ""}}},
+"digitalsovereignty": {"countries": {"ETH": {"facts": [{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "State Minister Solomon Soka said Ethiopia aims to host its national data, projected at about 600 petabytes by 2030, within its own digital infrastructure under the Digital Ethiopia 2030 strategy.", "as_of": "2026-11-08", "date_precision": "day", "system": "Digital Ethiopia 2030 Strategy", "class": "sovereignty"}], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Who operates or owns Fayda is not stated."}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "State Minister Solomon Soka highlighted the launch of the national digital identity system, Fayda; issuance is not stated.", "as_of": "2026-11-08", "date_precision": "day", "system": "Fayda", "class": "idsystem"}], "systems": [{"system": "Fayda", "country_label": "Ethiopia", "class": "idsystem", "platform": "", "owner": "government", "tiers": ""}], "note": ""}}},
+"nationaldatacentres": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire stated."}}},
+"schoolinternet": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No school internet figure or curriculum rule stated."}}}
+}}

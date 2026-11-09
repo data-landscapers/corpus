@@ -1,0 +1,24 @@
+{"slug": "2026-01-15-som-from-exclusion-to-identity", "studies": {
+"authentication": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No authentication, e-signature or digital wallet service stated."}}},
+"birthidlink": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
+"businesspayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on the central bank's payments role."}}},
+"consumerprotection": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer protection."}}},
+"crossborderpayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"g2ppayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"idcoverage": {"countries": {"SOM": {"facts": [], "systems": [], "note": "States over 1 million registered as of November 2025 but gives no population or share."}}},
+"idfrombirth": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"SOM": {"facts": [{"sub_indicator": "maintenance", "aspect": "operation", "value": "national", "fact": "UNDP Somalia says NIRA deployed its own trained staff, equipment and biometric technology to run the Baidoa registrations and is processing 12,000 to 15,000 registrations a day.", "as_of": "2025-11", "date_precision": "month", "system": "Somali National ID system (NIRA)", "class": "idsystem"}], "systems": [{"system": "Somali National ID system", "country_label": "Somalia", "class": "idsystem", "platform": "", "owner": "NIRA", "tiers": ""}], "note": ""}}},
+"idregisters": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Only says services such as bank accounts will require the ID from January 2026; no public register keyed on it."}}},
+"idrobustness": {"countries": {"SOM": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "UNDP Somalia says NIRA's national ID system, launched in September 2023, had registered over 1 million Somalis with biometric digital identity by November 2025.", "as_of": "2025-11", "date_precision": "month", "system": "Somali National ID system (NIRA)", "class": "idsystem"}], "systems": [{"system": "Somali National ID system", "country_label": "Somalia", "class": "idsystem", "platform": "", "owner": "NIRA", "tiers": ""}], "note": "No statement that biometrics check against duplicate enrolment, and no certification or audit."}}},
+"localgov": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on local government office connection."}}},
+"paymentsuptake": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No account ownership survey stated."}}},
+"refugees": {"countries": {"SOM": {"facts": [
+{"sub_indicator": "displaced", "aspect": "registration", "value": "documented", "fact": "UNDP Somalia says a Baidoa pilot with NIRA registered 38,026 internally displaced people for the national ID in one month.", "as_of": "2025-11", "date_precision": "month", "system": "Baidoa IDP registration pilot", "class": "displaced"},
+{"sub_indicator": "displaced", "aspect": "access", "value": "open", "fact": "UNDP Somalia says displaced people in Baidoa enrolled in the national digital ID system, and that from January 2026 the ID will be required for services such as opening a bank account.", "as_of": "2025-11", "date_precision": "month", "system": "Somali National ID system (NIRA)", "class": "displaced"},
+{"sub_indicator": "displaced", "aspect": "counted", "value": "counted", "fact": "UNDP Somalia counts 38,026 internally displaced people enrolled in the national ID in the Baidoa pilot, against 500,000 IDPs in Baidoa.", "as_of": "2025-11", "date_precision": "month", "system": "Baidoa IDP registration pilot", "class": "displaced"}],
+"systems": [], "note": ""}}},
+"registry": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on civil registration offices."}}},
+"retailpayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on retail digital payments."}}},
+"revenuecollection": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Nothing on electronic revenue payment."}}}
+}}

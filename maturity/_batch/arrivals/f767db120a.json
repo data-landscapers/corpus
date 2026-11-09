@@ -1,21 +1,75 @@
 {
  "slug": "2026-10-23-ben-benin-lanip-deploie-des-tablettes-pour-actualiser-les-donnees-dans-les",
  "studies": {
-  "localgov": {
+  "authentication": {
    "countries": {
     "BEN": {
      "facts": [],
      "systems": [],
-     "note": "Tablets for arrondissement secretaries are equipment for the ID agency's updates, with no connection of local government offices stated."
+     "note": "The document only describes updating phone and signature on ANIP records; it states nothing this study asks."
     }
    }
   },
-  "idmaintenance": {
+  "birthidlink": {
    "countries": {
     "BEN": {
      "facts": [],
      "systems": [],
-     "note": "The document states nothing on this study's aspects for this country that the study's questions ask."
+     "note": "The document only describes updating phone and signature on ANIP records; it states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document only describes updating phone and signature on ANIP records; it states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document only describes updating phone and signature on ANIP records; it states nothing this study asks."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document only describes updating phone and signature on ANIP records; it states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ANIP records, ANIP BJ app and portal",
+       "country_label": "Benin",
+       "class": "other",
+       "platform": "",
+       "owner": "ANIP",
+       "tiers": ""
+      }
+     ],
+     "note": "The document only describes updating phone and signature on ANIP records; it states nothing this study asks."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document only describes updating phone and signature on ANIP records; it states nothing this study asks."
     }
    }
   }

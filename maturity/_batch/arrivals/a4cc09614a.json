@@ -1,0 +1,10 @@
+{"slug": "2026-07-16-gha-nia-opens-ghana-card-registration-centre-in-spain-for-ghanaians-abroad", "studies": {
+"authentication": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on electronic authentication."}}},
+"birthidlink": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"idcoverage": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"GHA": {"facts": [{"sub_indicator": "maintenance", "aspect": "operation", "value": "national", "fact": "Ghana's National Identification Authority opened a Ghana Card registration centre in Spain, with applicants interviewed by officials in Accra and biometrics captured at the centre, per its Executive Secretary on X.", "as_of": "2026-07-16", "date_precision": "day", "system": "Ghana Card", "class": "idsystem"}], "systems": [{"system": "Ghana Card", "country_label": "Ghana", "class": "idsystem", "platform": "", "owner": "National Identification Authority", "tiers": ""}], "note": ""}}},
+"idregisters": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"GHA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Ghana's National Identification Authority issued the first Ghana Card at its new registration centre in Spain after biometric capture, per its Executive Secretary.", "as_of": "2026-07-16", "date_precision": "day", "system": "Ghana Card", "class": "idsystem"}], "systems": [], "note": ""}}},
+"registry": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on local civil registration offices."}}}
+}}

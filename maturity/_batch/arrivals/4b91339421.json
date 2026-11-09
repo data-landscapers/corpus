@@ -1,0 +1,371 @@
+{
+ "slug": "2026-09-09-sdn-horizon-advances-through-pre-commercialisation-workshop-in-addis-ababa",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "HORIZON FIBER Initiative",
+       "country_label": "Djibouti",
+       "class": "other",
+       "platform": "terrestrial fibre corridor Djibouti-Ethiopia-Sudan",
+       "owner": "Djibouti Telecom, Ethio telecom, Sudatel",
+       "tiers": ""
+      }
+     ],
+     "note": "HORIZON corridor is described as being developed; no agreement, contract, works or service stated, only a workshop."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "HORIZON FIBER Initiative",
+       "country_label": "Ethiopia",
+       "class": "other",
+       "platform": "terrestrial fibre corridor Djibouti-Ethiopia-Sudan",
+       "owner": "Djibouti Telecom, Ethio telecom, Sudatel",
+       "tiers": ""
+      }
+     ],
+     "note": "HORIZON corridor is described as being developed; no agreement, contract, works or service stated, only a workshop."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "HORIZON FIBER Initiative",
+       "country_label": "Sudan",
+       "class": "other",
+       "platform": "terrestrial fibre corridor Djibouti-Ethiopia-Sudan",
+       "owner": "Djibouti Telecom, Ethio telecom, Sudatel",
+       "tiers": ""
+      }
+     ],
+     "note": "HORIZON corridor is described as being developed; no agreement, contract, works or service stated, only a workshop."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "HORIZON FIBER Initiative",
+       "country_label": "Djibouti",
+       "class": "other",
+       "platform": "terrestrial fibre corridor Djibouti-Ethiopia-Sudan",
+       "owner": "Djibouti Telecom, Ethio telecom, Sudatel",
+       "tiers": ""
+      }
+     ],
+     "note": "HORIZON corridor is described as being developed; no agreement, contract, works or service stated, only a workshop."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "HORIZON FIBER Initiative",
+       "country_label": "Ethiopia",
+       "class": "other",
+       "platform": "terrestrial fibre corridor Djibouti-Ethiopia-Sudan",
+       "owner": "Djibouti Telecom, Ethio telecom, Sudatel",
+       "tiers": ""
+      }
+     ],
+     "note": "HORIZON corridor is described as being developed; no agreement, contract, works or service stated, only a workshop."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "HORIZON FIBER Initiative",
+       "country_label": "Sudan",
+       "class": "other",
+       "platform": "terrestrial fibre corridor Djibouti-Ethiopia-Sudan",
+       "owner": "Djibouti Telecom, Ethio telecom, Sudatel",
+       "tiers": ""
+      }
+     ],
+     "note": "HORIZON corridor is described as being developed; no agreement, contract, works or service stated, only a workshop."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "HORIZON FIBER Initiative",
+       "country_label": "Djibouti",
+       "class": "other",
+       "platform": "terrestrial fibre corridor Djibouti-Ethiopia-Sudan",
+       "owner": "Djibouti Telecom, Ethio telecom, Sudatel",
+       "tiers": ""
+      }
+     ],
+     "note": "HORIZON corridor is described as being developed; no agreement, contract, works or service stated, only a workshop."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "HORIZON FIBER Initiative",
+       "country_label": "Ethiopia",
+       "class": "other",
+       "platform": "terrestrial fibre corridor Djibouti-Ethiopia-Sudan",
+       "owner": "Djibouti Telecom, Ethio telecom, Sudatel",
+       "tiers": ""
+      }
+     ],
+     "note": "HORIZON corridor is described as being developed; no agreement, contract, works or service stated, only a workshop."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "HORIZON FIBER Initiative",
+       "country_label": "Sudan",
+       "class": "other",
+       "platform": "terrestrial fibre corridor Djibouti-Ethiopia-Sudan",
+       "owner": "Djibouti Telecom, Ethio telecom, Sudatel",
+       "tiers": ""
+      }
+     ],
+     "note": "HORIZON corridor is described as being developed; no agreement, contract, works or service stated, only a workshop."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

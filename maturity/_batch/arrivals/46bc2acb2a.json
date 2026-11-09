@@ -1,14 +1,1 @@
-{
- "slug": "2026-11-03-egy-almasryalyoum-data-classification-sharing-bill-within-weeks",
- "studies": {
-  "interoperabilitylaw": {
-   "countries": {
-    "EGY": {
-     "facts": [],
-     "systems": [],
-     "note": "Bill only announced as due within weeks, not yet tabled or published; no draft stated."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-11-03-egy-almasryalyoum-data-classification-sharing-bill-within-weeks", "studies": {"accesstoinformationlaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The announced bill is on classifying and sharing data between government sectors, not a right to ask for information."}}}, "cybersecuritylaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on a cybercrime or cybersecurity law."}}}, "dataprotectionlaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The announced bill covers data classification and sharing between government bodies; the document does not call it a personal data protection law."}}}}}

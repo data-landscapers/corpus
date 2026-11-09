@@ -1,0 +1,9 @@
+{"slug": "2024-04-04-zmb-zambian-govt-doesnt-want-to-see-hungry-citizens-enroll-for-digital-id", "studies": {
+"authentication": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"idcoverage": {"countries": {"ZMB": {"facts": [], "systems": [{"system": "INRIS", "country_label": "Zambia", "class": "idsystem", "platform": "Dermalog", "owner": "Department of National Registration, Passport and Citizenship", "tiers": ""}], "note": "A count of over one million registered (September 2023) is given but no share of the population."}}},
+"idfrombirth": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Developer is named (Dermalog) but who operates and maintains the system day to day is not stated."}}},
+"idregisters": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No register keyed on the ID stated."}}},
+"idrobustness": {"countries": {"ZMB": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Biometric Update reports that Zambia launched the production rollout (phase 2) of INRIS in 2022 and that over one million people were registered as of September 2023, although USD 80 million budgeted for it was reallocated to drought response in 2024.", "as_of": "2023-09", "date_precision": "month", "system": "INRIS", "class": "idsystem"}], "systems": [{"system": "INRIS", "country_label": "Zambia", "class": "idsystem", "platform": "Dermalog", "owner": "Department of National Registration, Passport and Citizenship", "tiers": ""}], "note": ""}}}
+}}

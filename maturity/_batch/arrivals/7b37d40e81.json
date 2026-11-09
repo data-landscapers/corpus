@@ -1,0 +1,28 @@
+{"slug": "2025-11-05-zaf-question-nw4978-to-the-minister-of-home-affairs", "studies": {
+"authentication": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "The Department of Home Affairs says Live Capture identifies applicants through online biometric verification with a direct interface to HANIS and ABIS, and Smart ID card collection includes online verification.", "as_of": "2025-11-05", "date_precision": "day", "system": "Live Capture", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "service", "value": "underway", "fact": "The Department of Home Affairs says a PKI-based Digital Identity framework is being developed to secure issuance and enable third-party verification.", "as_of": "2025-11-05", "date_precision": "day", "system": "PKI-based Digital Identity framework", "class": "authentication"}],
+"systems": [{"system": "Live Capture", "country_label": "South Africa", "class": "authentication", "platform": "HANIS/ABIS", "owner": "Department of Home Affairs", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "link", "aspect": "link", "value": "inservice", "fact": "The Department of Home Affairs says births registered through health facilities enter the population register through a single entry point, the child's ID number being allocated at birth and kept for life, under an MOU with the Department of Health.", "as_of": "2025-11-05", "date_precision": "day", "system": "National Population Register", "class": "crvslink"}],
+"systems": [], "note": ""}}},
+"civilregister": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Birth registration through health facilities is described but no digital civil register is stated."}}},
+"digitalidlaw": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The reply cites section 19(4) of the Identification Act, 1997 (Act No. 68 of 1997) as the basis for cancelling citizenship acquired unlawfully, treating the Act as in force.", "as_of": "2025-11-05", "date_precision": "day", "system": "Identification Act 1997", "class": "law"}],
+"systems": [], "note": ""}}},
+"idcoverage": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "frombirth", "aspect": "number", "value": "inservice", "fact": "The Department of Home Affairs says an ID number is allocated to the child when the birth is registered through health facilities and remains with the child for life.", "as_of": "2025-11-05", "date_precision": "day", "system": "National Population Register", "class": "birthnumber"}],
+"systems": [], "note": ""}}},
+"idmaintenance": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Who operates, maintains or owns the system platform is not stated."}}},
+"idregisters": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The Department of Home Affairs describes the Home Affairs National Identification System (HANIS), Smart ID cards and the National Population Register as in operation, with ID numbers allocated for life.", "as_of": "2025-11-05", "date_precision": "day", "system": "HANIS", "class": "idsystem"},
+{"sub_indicator": "robustness", "aspect": "biometric", "value": "checked", "fact": "The Department of Home Affairs says ABIS has been commissioned with fingerprints, face, iris, palm and infant footprint and de-duplicates on face first, fingerprints second.", "as_of": "2025-11-05", "date_precision": "day", "system": "ABIS", "class": "idsystem"}],
+"systems": [{"system": "HANIS", "country_label": "South Africa", "class": "idsystem", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}, {"system": "ABIS", "country_label": "South Africa", "class": "idsystem", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}], "note": ""}}},
+"populationregister": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "The Department of Home Affairs describes the National Population Register as in operation, with enrolments entered into it by capture staff.", "as_of": "2025-11-05", "date_precision": "day", "system": "National Population Register", "class": "population"},
+{"sub_indicator": "population", "aspect": "vital", "value": "updated", "fact": "The Department of Home Affairs says new birth registrations are entered into the National Population Register and that it is integrating vital events such as births and deaths to keep it accurate.", "as_of": "2025-11-05", "date_precision": "day", "system": "National Population Register", "class": "population"}],
+"systems": [{"system": "National Population Register", "country_label": "South Africa", "class": "population", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}], "note": ""}}},
+"registry": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No local civil registration office entering events digitally is stated."}}}
+}}

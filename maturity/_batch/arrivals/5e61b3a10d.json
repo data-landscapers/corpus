@@ -1,0 +1,17 @@
+{"slug": "2024-08-02-mli-mali-l-amrtp-edifie-les-consommateurs-sur-l-importance-de-l-identifica", "studies": {
+"aiabuse": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"aigovernment": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"aisectoral": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"aisystems": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
+"authentication": {"countries": {"MLI": {"facts": [], "systems": [], "note": "SIM identification against the NINA is not an online authentication, e-signature or PKI service."}}},
+"birthidlink": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"idcoverage": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No enrolment count or share given."}}},
+"idfrombirth": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Only SIM identification, which is for the idverification study."}}},
+"idrobustness": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on the ID system's issuing, biometrics or certification."}}},
+"idverification": {"countries": {"MLI": {"facts": [{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "Mali's telecoms regulator AMRTP decided that mobile operators identify SIM cards on presentation of the national identification number (NINA) from 1 February 2023, and Orange Mali asked customers in late July 2024 to come to an agency with their NINA or biometric card.", "as_of": "2023-02-01", "date_precision": "day", "system": "SIM identification by NINA", "class": "relying"}], "systems": [{"system": "SIM identification by NINA", "country_label": "Mali", "class": "relying", "platform": "mobile operators", "owner": "AMRTP", "tiers": ""}], "note": ""}}},
+"publicconsultation": {"countries": {"MLI": {"facts": [], "systems": [], "note": "A consumer forum on SIM identification, not a consultation on a named digital law or policy."}}},
+"regionalpolicy": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on African regional digital bodies."}}},
+"schoolinternet": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

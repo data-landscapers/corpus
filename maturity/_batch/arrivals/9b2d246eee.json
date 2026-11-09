@@ -1,0 +1,12 @@
+{"slug": "2024-11-20-sdn-alyoumaltali-police-child-national-number-face-iris-card", "studies": {
+"authentication": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No link between civil register and ID system stated."}}},
+"civilregister": {"countries": {"SDN": {"facts": [], "systems": [], "note": "National number issuance, not digital birth or death registration."}}},
+"idcoverage": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Number issued for children, but not stated as given when the birth is registered."}}},
+"idmaintenance": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Police run the civil registry service, but operation, maintenance and ownership of the platform are not stated."}}},
+"idregisters": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No other register keyed on the number stated."}}},
+"idrobustness": {"countries": {"SDN": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The police press office, via the head of its technology and information department, said in November 2024 that national-number issuance for children had been launched in all civil registry centres at home and abroad, as the second phase of restoring the central system, with adults to follow.", "as_of": "2024-11-20", "date_precision": "day", "system": "National number (General Administration of Civil Registry)", "class": "idsystem"}], "systems": [{"system": "National number and national card", "country_label": "Sudan", "class": "other", "platform": "", "owner": "General Administration of Civil Registry, Police", "tiers": ""}], "note": ""}}},
+"qualitystandards": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No standards body or standard stated."}}},
+"registry": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Identity number issuance only; no civil registration offices stated."}}}
+}}

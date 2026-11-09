@@ -1,32 +1,75 @@
 {
  "slug": "2026-11-05-gha-bank-of-ghana-announces-successful-completion-of-cross-border-trade",
  "studies": {
-  "crossborderpayments": {
+  "businesspayments": {
    "countries": {
     "GHA": {
-     "facts": [
-      {
-       "sub_indicator": "crossborder",
-       "aspect": "corridor",
-       "value": "underway",
-       "fact": "The Bank of Ghana, with the Monetary Authority of Singapore, completed the first proof of concept under Project DESFT demonstrating digital credentials for international trade and cross-border payment.",
-       "as_of": "2026-11-05",
-       "date_precision": "day",
-       "system": "Project DESFT",
-       "class": "crossborder"
-      }
-     ],
-     "systems": [
-      {
-       "system": "Project DESFT",
-       "country_label": "Digital Economy Semi-Fungible Token",
-       "class": "crossborder",
-       "platform": "",
-       "owner": "Bank of Ghana",
-       "tiers": ""
-      }
-     ],
-     "note": ""
+     "facts": [],
+     "systems": [],
+     "note": "Release only says a Bank of Ghana and MAS proof of concept (Project DESFT) tested digital credentials for trade and cross-border payment; a pilot answers nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Release only says a Bank of Ghana and MAS proof of concept (Project DESFT) tested digital credentials for trade and cross-border payment; a pilot answers nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Release only says a Bank of Ghana and MAS proof of concept (Project DESFT) tested digital credentials for trade and cross-border payment; a pilot answers nothing this study asks."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Release only says a Bank of Ghana and MAS proof of concept (Project DESFT) tested digital credentials for trade and cross-border payment; a pilot answers nothing this study asks."
+    }
+   }
+  },
+  "paymentslaw": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Release only says a Bank of Ghana and MAS proof of concept (Project DESFT) tested digital credentials for trade and cross-border payment; a pilot answers nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Release only says a Bank of Ghana and MAS proof of concept (Project DESFT) tested digital credentials for trade and cross-border payment; a pilot answers nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Release only says a Bank of Ghana and MAS proof of concept (Project DESFT) tested digital credentials for trade and cross-border payment; a pilot answers nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Release only says a Bank of Ghana and MAS proof of concept (Project DESFT) tested digital credentials for trade and cross-border payment; a pilot answers nothing this study asks."
     }
    }
   }

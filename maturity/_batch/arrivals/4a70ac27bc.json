@@ -1,0 +1,15 @@
+{"slug": "2024-09-19-gnb-expansion-of-identification-centers", "studies": {
+"authentication": {"countries": {"GNB": {"facts": [], "systems": [], "note": "Nothing on electronic authentication."}}},
+"birthidlink": {"countries": {"GNB": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"idcoverage": {"countries": {"GNB": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+"idfrombirth": {"countries": {"GNB": {"facts": [], "systems": [], "note": "The unique number is said to follow people for life but nothing says it is given at birth registration."}}},
+"idmaintenance": {"countries": {"GNB": {"facts": [
+{"sub_indicator": "maintenance", "aspect": "operation", "value": "supplier", "fact": "Semlex, a vendor, runs the biometric enrolment centres and supplies secure ECOWAS identity cards in Guinea-Bissau under a public-private partnership with the Ministry of Justice dating from 2006, while the Ministry of Justice manages the unique identity number, says Semlex.", "as_of": "2024-09-19", "date_precision": "day", "system": "National identity card (CNI) system", "class": "idsystem"}
+], "systems": [{"system": "National identity card (CNI) system", "country_label": "Guinea-Bissau", "class": "idsystem", "platform": "Semlex enrolment centres", "owner": "Ministry of Justice", "tiers": ""}], "note": ""}}},
+"idregisters": {"countries": {"GNB": {"facts": [], "systems": [], "note": "No public register keyed on the number is described."}}},
+"idrobustness": {"countries": {"GNB": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Guinea-Bissau issues national identity cards (CNI) after biometric enrolment, each citizen being assigned a unique identity number managed by the Ministry of Justice, with new Semlex enrolment centres opened at Farim and Bissora in September 2024, says Semlex.", "as_of": "2024-09-19", "date_precision": "day", "system": "National identity card (CNI) system", "class": "idsystem"}
+], "systems": [], "note": ""}}},
+"localgov": {"countries": {"GNB": {"facts": [], "systems": [], "note": "Nothing on local government offices."}}},
+"nonstatefinance": {"countries": {"GNB": {"facts": [], "systems": [], "note": "The 2006 public-private partnership is named without any amount."}}}
+}}

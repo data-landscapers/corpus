@@ -1,0 +1,157 @@
+{
+ "slug": "2026-07-12-nga-tinubu-has-given-nimc-until-end-of-2026-to-enrol-every-nigerian-says-d",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The NIMC DG says telcos already match SIM applicants' facial biometrics against the NIMC database in real time through API integration.",
+       "as_of": "2026-07-12",
+       "date_precision": "day",
+       "system": "NIMC API validation",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIMC API validation",
+       "country_label": "Nigeria",
+       "class": "authentication",
+       "platform": "",
+       "owner": "NIMC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The NIMC DG says President Tinubu signed the National Identity Management Commission Act 2026 into law on 26 June 2026, repealing the 2007 act.",
+       "as_of": "2026-06-26",
+       "date_precision": "day",
+       "system": "NIMC Act 2026",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "cover",
+       "value": "digital",
+       "fact": "The NIMC DG says the NIMC Act 2026 makes the NIN the foundational identity credential for government and essential private services and cements NIMC's role in capturing biometrics.",
+       "as_of": "2026-06-26",
+       "date_precision": "day",
+       "system": "NIMC Act 2026",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIMC Act 2026",
+       "country_label": "Nigeria",
+       "class": "law",
+       "platform": "",
+       "owner": "NIMC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The NIMC DG says the NIN is a unique identifier so that each person is enrolled once, and a duplicate record is invalidated so one identity is generated.",
+       "as_of": "2026-07-12",
+       "date_precision": "day",
+       "system": "NIN",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "robustness",
+       "aspect": "biometric",
+       "value": "checked",
+       "fact": "The NIMC DG says biometric verification, fingerprints and facial recognition, flags duplicate enrolments at the front end and invalidates them.",
+       "as_of": "2026-07-12",
+       "date_precision": "day",
+       "system": "NIMC biometric deduplication",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIMC national identity database / NIN",
+       "country_label": "Nigeria",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "NIMC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

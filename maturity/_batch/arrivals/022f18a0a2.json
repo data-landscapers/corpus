@@ -1,0 +1,198 @@
+{
+ "slug": "2025-01-16-com-mvola-particuliers",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states nothing on this study."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states nothing on this study."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states nothing on this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states nothing on this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states nothing on this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "crossborder",
+       "aspect": "corridor",
+       "value": "inservice",
+       "fact": "MVola sends money from Comoros to Madagascar, Tanzania, Uganda, Cote d'Ivoire, Morocco, Guinea and Senegal, and receives transfers from Ria and Orange Money Europe.",
+       "as_of": "2025-01-16",
+       "date_precision": "day",
+       "system": "MVola",
+       "class": "crossborder"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MVola",
+       "country_label": "Comoros",
+       "class": "crossborder",
+       "platform": "mobile money",
+       "owner": "Telco Money S.A. (Yas)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states nothing on this study."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states nothing on this study."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states nothing on this study."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states nothing on this study."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states nothing on this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states nothing on this study."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "MVola",
+       "country_label": "Comoros",
+       "class": "other",
+       "platform": "mobile money",
+       "owner": "Telco Money S.A. (Yas)",
+       "tiers": ""
+      }
+     ],
+     "note": "MVola only has merchants view an original ID card or passport; no check against the national ID system is stated."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states nothing on this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COM": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "MVola (Telco Money, Yas) runs mobile money in Comoros: national and international transfers, deposits and withdrawals at over 2,000 points, credit purchase and bill payment.",
+       "as_of": "2025-01-16",
+       "date_precision": "day",
+       "system": "MVola",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MVola",
+       "country_label": "Comoros",
+       "class": "retail",
+       "platform": "mobile money",
+       "owner": "Telco Money S.A. (Yas)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Page states nothing on this study."
+    }
+   }
+  }
+ }
+}

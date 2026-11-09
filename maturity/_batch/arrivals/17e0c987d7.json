@@ -1,0 +1,10 @@
+{"slug": "2026-03-20-lbr-national-id-card-rollout-continues-to-be-held-up-by-1-7-million-unpaid", "studies": {
+"authentication": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on electronic authentication."}}},
+"birthidlink": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"electoralregister": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The 500 kits are for ID enrolment sites, not stated as a voters' roll."}}},
+"idcoverage": {"countries": {"LBR": {"facts": [], "systems": [], "note": "640,000 enrolled is stated with no population share."}}},
+"idfrombirth": {"countries": {"LBR": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"LBR": {"facts": [{"sub_indicator": "maintenance", "aspect": "operation", "value": "supplier", "fact": "Liberia's National Identification Registry says it cannot fully access its biometric database because Kenyan builder Techno Brain withholds access until the government pays a US$1.7 million debt, per New Narratives.", "as_of": "2026-03", "date_precision": "month", "system": "National digital identity system (Techno Brain)", "class": "idsystem"}], "systems": [{"system": "National digital identity system", "country_label": "Liberia", "class": "idsystem", "platform": "Techno Brain", "owner": "National Identification Registry", "tiers": ""}], "note": ""}}},
+"idregisters": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"LBR": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Liberia's national digital ID system holds biometric data (photographs and fingerprints) for 640,000 people enrolled under an earlier version, and the registry issues cards, though rollout was halted in 2025, per New Narratives.", "as_of": "2026-03", "date_precision": "month", "system": "National digital identity system", "class": "idsystem"}], "systems": [], "note": ""}}}
+}}

@@ -1,0 +1,7 @@
+{"slug": "2024-12-15-sdn-alnilin-civil-registry-bank-network-linkage-port-sudan", "studies": {
+"birthidlink": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Banks link to civil registry data for identity checks; no link between birth or death records and an ID system stated."}}},
+"civilregister": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No digital registration of births or deaths stated."}}},
+"egovservices": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Bank network link for identity checks is not a government service for people."}}},
+"idfrombirth": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"registry": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on local civil registration offices entering births or deaths."}}}
+}}

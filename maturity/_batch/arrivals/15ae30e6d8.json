@@ -1,0 +1,11 @@
+{"slug": "2026-04-30-stp-prese-press-note-results-automatic-voter-registration", "studies": {
+"birthidlink": {"countries": {"STP": {"facts": [], "systems": [], "note": "The link described is civil register to electoral roll, not to an ID system."}}},
+"civilregister": {"countries": {"STP": {"facts": [], "systems": [], "note": "Civil register named only as a data source for the roll; nothing on digital registration of births or deaths."}}},
+"dataprotectionlaw": {"countries": {"STP": {"facts": [], "systems": [], "note": "Only a passing mention of personal data safeguards in the electoral law; no data protection law stated."}}},
+"electoralregister": {"countries": {"STP": {"facts": [
+{"sub_indicator": "electoral", "aspect": "roll", "value": "inservice", "fact": "The PReSE project says the automatic electoral registration platform built by the University of Aveiro is operational and already used to draw up the provisional 2026 electoral rolls in Sao Tome and Principe.", "as_of": "2026-04-29", "date_precision": "day", "system": "Plataforma de recenseamento eleitoral automatico", "class": "electoral"},
+{"sub_indicator": "electoral", "aspect": "linked", "value": "linked", "fact": "The PReSE project says the platform makes civil registry data and the electoral registration database interoperable, updating voters automatically, with the DGRN removing duplicate records and deceased citizens from the electoral database.", "as_of": "2026-04-29", "date_precision": "day", "system": "Plataforma de recenseamento eleitoral automatico", "class": "electoral"}],
+"systems": [{"system": "Plataforma de recenseamento eleitoral automatico", "country_label": "Sao Tome and Principe", "class": "electoral", "platform": "University of Aveiro platform", "owner": "Comissao Eleitoral Nacional", "tiers": ""}], "note": ""}}},
+"idfrombirth": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"registry": {"countries": {"STP": {"facts": [], "systems": [], "note": "Nothing on local civil registration offices entering events digitally."}}}
+}}

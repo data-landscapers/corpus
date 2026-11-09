@@ -1,14 +1,4 @@
-{
- "slug": "2026-11-02-egy-6-million-new-lines-and-fiber-optics-doubled-ntra-unveils-egypts-inter",
- "studies": {
-  "fibrebackbone": {
-   "countries": {
-    "EGY": {
-     "facts": [],
-     "systems": [],
-     "note": "The document covers fibre upgrades of fixed access lines and villages, not long-distance backbone between regions."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-11-02-egy-6-million-new-lines-and-fiber-optics-doubled-ntra-unveils-egypts-inter", "studies": {
+"exchangepoints": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on exchange points."}}},
+"internationalbandwidth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only domestic fixed-line fibre upgrades stated; no international route."}}}
+}}

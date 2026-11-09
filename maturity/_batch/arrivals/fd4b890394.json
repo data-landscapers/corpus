@@ -1,0 +1,104 @@
+{
+ "slug": "2024-12-02-sdn-cbos-circular-national-number-account-opening",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Civil Registry General Administration system",
+       "country_label": "Sudan",
+       "class": "other",
+       "platform": "",
+       "owner": "Civil Registry General Administration",
+       "tiers": ""
+      }
+     ],
+     "note": "Circular only requires banks to check the national number against the Civil Registry system; no online check or other question of this study is stated."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Circular only requires banks to check the national number against the Civil Registry system; no online check or other question of this study is stated."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Circular only requires banks to check the national number against the Civil Registry system; no online check or other question of this study is stated."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Circular only requires banks to check the national number against the Civil Registry system; no online check or other question of this study is stated."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Circular only requires banks to check the national number against the Civil Registry system; no online check or other question of this study is stated."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Circular only requires banks to check the national number against the Civil Registry system; no online check or other question of this study is stated."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Circular only requires banks to check the national number against the Civil Registry system; no online check or other question of this study is stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Civil Registry General Administration system",
+       "country_label": "Sudan",
+       "class": "other",
+       "platform": "",
+       "owner": "Civil Registry General Administration",
+       "tiers": ""
+      }
+     ],
+     "note": "Circular only requires banks to check the national number against the Civil Registry system; no online check or other question of this study is stated."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Circular only requires banks to check the national number against the Civil Registry system; no online check or other question of this study is stated."
+    }
+   }
+  }
+ }
+}

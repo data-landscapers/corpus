@@ -1,0 +1,11 @@
+{"slug": "2026-11-06-ner-le-niger-mise-sur-lexpertise-burkinabe-pour-batir-son-centre-de-cybers", "studies": {
+"cybersecurity": {"countries": {"NER": {"facts": [
+{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "Agence Ecofin reports that Niger's government adopted decrees in October 2025 creating the National Cybersecurity Centre (CNAC) and approving its statutes, as a public administrative establishment to coordinate the national strategy.", "as_of": "2025-10", "date_precision": "month", "system": "CNAC", "class": "response"},
+{"sub_indicator": "readiness", "aspect": "foundation", "value": "strategy", "fact": "Agence Ecofin reports that Niger adopted a National Cybersecurity Strategy in December 2022 for 2023-2027.", "as_of": "2022-12", "date_precision": "month", "system": "Stratégie nationale de cybersécurité 2023-2027", "class": "response"}],
+"systems": [{"system": "CNAC", "country_label": "Centre national de cybersécurité (CNAC)", "class": "response", "platform": "", "owner": "government", "tiers": ""}], "note": ""}}},
+"interoperabilitystandards": {"countries": {"NER": {"facts": [], "systems": [], "note": "No technical standards for government systems stated."}}},
+"itcapacity": {"countries": {"NER": {"facts": [], "systems": [], "note": "No government staff running systems stated; the article concerns a planned security operations centre."}}},
+"localgov": {"countries": {"NER": {"facts": [], "systems": [], "note": "Not mentioned."}}},
+"regionalpolicy": {"countries": {"NER": {"facts": [], "systems": [], "note": "A study mission to Burkina Faso's ANSSI under AES cooperation is a visit, not membership of an African digital policy body or a signed agreement."}}},
+"schoolinternet": {"countries": {"NER": {"facts": [], "systems": [], "note": "Not mentioned."}}}
+}}

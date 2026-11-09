@@ -1,15 +1,3 @@
 {"slug": "2026-10-31-rwa-rwandas-first-voice-ai-companion-miss-baza-launched-by-mtn-and-viamo", "studies": {
-"aiabuse": {"countries": {"RWA": {"facts": [], "systems": [], "note": "States only a minister's wish that the platform protect personal data; no rule, authority or enforcement on AI harms."}}},
-"aigovernment": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Miss Baza is an MTN and Viamo service, not a government body's AI system; Mbaza integration is only encouraged."}}},
-"aisectoral": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No public sector system using AI is stated; Eden Care health insurance information is a private partner."}}},
-"aisystems": {"countries": {"RWA": {"facts": [], "systems": [{"system": "Miss Baza", "country_label": "Miss Baza voice AI companion", "class": "other", "platform": "Google Gemini, dial 845", "owner": "MTN Rwanda and Viamo", "tiers": ""}], "note": "Built by MTN and Viamo on Google's Gemini with a contribution from Rwandan firm Pindo; no model, dataset or AI computing built or hosted in Rwanda is stated."}}},
-"businesspayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on public e-procurement."}}},
-"centralbank": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on the central bank."}}},
-"consumerprotection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on consumer protection for digital financial services."}}},
-"crossborderpayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
-"g2ppayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
-"localgov": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on local government office connection."}}},
-"paymentsuptake": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No survey share of adults with an account."}}},
-"retailpayments": {"countries": {"RWA": {"facts": [], "systems": [], "note": "MTN Mobile Money integration for voice payments is only planned; no service state is given."}}},
-"revenuecollection": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Payment of taxes by voice command is only a plan."}}}
+"aistrategy": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Company voice AI launch; no government AI strategy stated."}}}
 }}

@@ -1,0 +1,37 @@
+{
+  "slug": "2024-06-04-nam-welcoming-remarks-by-the-governor-of-the-bank-of-namibia-johannes-gawa",
+  "studies": {
+    "birthidlink": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No link between civil register and ID system is stated."}}},
+    "businesspayments": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No e-procurement system is mentioned."}}},
+    "centralbank": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Governor speaks of an enabling fintech framework and an instant payment project, but states no mandate, licensing, switch oversight or PAPSS."}}},
+    "civilregister": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No civil registration system is described."}}},
+    "civilserviceskills": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Only the central bank's own staff skills curriculum is mentioned, not a civil-service programme."}}},
+    "consumerprotection": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No consumer protection rule or complaints body is mentioned."}}},
+    "crossborderpayments": {"countries": {"NAM": {"facts": [], "systems": [], "note": "A CBDC for cross-border payments is only being explored; no corridor."}}},
+    "digitalidlaw": {"countries": {"NAM": {
+      "facts": [
+        {"sub_indicator": "law", "aspect": "standing", "value": "bill", "fact": "Bank of Namibia Governor Johannes !Gawaxab said the Civil Registration and Identification Bill was currently in Parliament.", "as_of": "2024-06-04", "date_precision": "day", "system": "Civil Registration and Identification Bill", "class": "law"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "digitalskills": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Digital literacy is only mentioned as an emphasis; no public programme or survey."}}},
+    "digitalstrategy": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Only the Bank of Namibia's own strategic plan (2022-2024) is mentioned, a ministry-plan type."}}},
+    "g2ppayments": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Automated government payment processing by the Bank is not payment to people."}}},
+    "idfrombirth": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No number at birth is mentioned."}}},
+    "idverification": {"countries": {"NAM": {
+      "facts": [
+        {"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "The Governor said the Bank of Namibia developed a prototype e-KYC between private-sector and Ministry of Home Affairs databases for instant identity verification, to be fully implemented once the Civil Registration and Identification Bill is promulgated.", "as_of": "2024-06-04", "date_precision": "day", "system": "e-KYC prototype (Bank of Namibia / Ministry of Home Affairs databases)", "class": "relying"}
+      ],
+      "systems": [
+        {"system": "e-KYC prototype", "country_label": "Namibia", "class": "relying", "platform": "", "owner": "Bank of Namibia", "tiers": ""}
+      ],
+      "note": ""}}},
+    "paymentsuptake": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No survey share of adults with an account is given."}}},
+    "registry": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No local civil registration office is mentioned."}}},
+    "retailpayments": {"countries": {"NAM": {"facts": [], "systems": [], "note": "An instant payment project is described as under development with India's NPCI; no mobile money licence, pilot or service is stated."}}},
+    "revenuecollection": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No electronic tax or fee payment is mentioned."}}},
+    "schoolinternet": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No school internet figure or curriculum statement."}}},
+    "startups": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No startup law, label or fund is mentioned."}}},
+    "techhubs": {"countries": {"NAM": {"facts": [], "systems": [], "note": "The Bank's Innovation Hub is a regulator-fintech dialogue unit; no startup cohort programme is stated."}}}
+  }
+}

@@ -1,0 +1,18 @@
+{"slug": "2026-04-14-sdn-sudani-fintech-officially-launches-sah-platform", "studies": {
+"birthidlink": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No link between civil register and ID system stated."}}},
+"businesspayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"SDN": {"facts": [{"sub_indicator": "centralbank", "aspect": "mandate", "value": "licensing", "fact": "Sudatel's statement says the Sah digital financial services platform operates under the supervision and licensing of the Central Bank of Sudan.", "as_of": "2026-04-14", "date_precision": "day", "system": "Sah", "class": "oversight"}], "systems": [{"system": "Sah", "country_label": "Sudan", "class": "retail", "platform": "mobile app and USSD *500#", "owner": "Sudani Fintech", "tiers": ""}], "note": ""}}},
+"civilregister": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Civil Registry is named only as a connected system; no digital civil registration stated."}}},
+"consumerprotection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No consumer rules or complaints body stated."}}},
+"crossborderpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No cross-border payments stated."}}},
+"g2ppayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No government payments stated."}}},
+"idfrombirth": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idverification": {"countries": {"SDN": {"facts": [{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "Sudatel's statement says the launched Sah platform has direct connectivity with the Civil Registry, enabling faster user identity verification.", "as_of": "2026-04-14", "date_precision": "day", "system": "Sah", "class": "relying"}], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No survey share of adults with accounts stated."}}},
+"registry": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No local civil registration offices stated."}}},
+"retailpayments": {"countries": {"SDN": {"facts": [
+{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Sudani Fintech launched Sah on 14 April 2026, a licensed mobile and USSD platform giving users instant accounts to send and receive funds.", "as_of": "2026-04-14", "date_precision": "day", "system": "Sah", "class": "retail"},
+{"sub_indicator": "retail", "aspect": "interop", "value": "interop", "fact": "Sudani Fintech says Sah users can transfer to and from all banks in Sudan using the BBAN.", "as_of": "2026-04-14", "date_precision": "day", "system": "Sah", "class": "retail"}],
+"systems": [], "note": ""}}},
+"revenuecollection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No tax or fee payment stated."}}}
+}}

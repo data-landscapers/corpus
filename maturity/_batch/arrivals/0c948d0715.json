@@ -1,0 +1,13 @@
+{
+ "slug": "2025-12-13-tun-la-date-de-lancement-de-la-carte-d-identite-et-du-passeport-biometriqu",
+ "studies": {
+  "authentication": {"countries": {"TUN": {"facts": [], "systems": [], "note": "A unified mobile app is only announced, not contracted or piloted."}}},
+  "birthidlink": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on a civil register to ID link."}}},
+  "digitalidlaw": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on an identity law."}}},
+  "idcoverage": {"countries": {"TUN": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+  "idfrombirth": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on an ID number at birth."}}},
+  "idmaintenance": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on who operates the ID system."}}},
+  "idregisters": {"countries": {"TUN": {"facts": [], "systems": [], "note": "A unique identification number is mentioned for a planned app only; no register keyed on it."}}},
+  "idrobustness": {"countries": {"TUN": {"facts": [], "systems": [{"system": "biometric ID card and passport system", "country_label": "Tunisia", "class": "idsystem", "platform": "", "owner": "Ministry of Communication Technologies", "tiers": ""}], "note": "The tender is only to be published soon; a minister's target of end 2026 or early 2027 is a plan, not a system procured or piloted."}}}
+ }
+}

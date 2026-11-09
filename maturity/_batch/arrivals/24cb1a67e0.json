@@ -1,0 +1,16 @@
+{"slug": "2026-11-06-xgl-contribution-by-undp-to-the-cstd-2026-2027-priority-theme-on-data-gov", "studies": {
+"businessregister": {"countries": {
+"ZAF": {"facts": [], "systems": [], "note": "Nothing on a business register for South Africa."},
+"ZMB": {"facts": [], "systems": [], "note": "Nothing on a business register for Zambia."}}},
+"censuses": {"countries": {
+"ZAF": {"facts": [], "systems": [], "note": "No census or national survey stated for South Africa."},
+"ZMB": {"facts": [], "systems": [], "note": "A household survey is used in a tax-benefit model, but no census or published survey results are stated."}}},
+"dataexchange": {"countries": {
+"ZAF": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "UNDP says it has supported South Africa's National Treasury in designing and piloting MzansiXchange, a national data exchange for data sharing across government, and the pilot is testing the technical model and governance arrangements.", "as_of": "2026-11-06", "date_precision": "day", "system": "MzansiXchange", "class": "exchange"}
+], "systems": [{"system": "MzansiXchange", "country_label": "South Africa", "class": "exchange", "platform": "national data exchange (pilot)", "owner": "National Treasury", "tiers": ""}], "note": ""},
+"ZMB": {"facts": [], "systems": [], "note": "A data-linking exercise for a microsimulation model is described, not an exchange platform."}}},
+"disabilityaccess": {"countries": {
+"ZAF": {"facts": [], "systems": [], "note": "Nothing on digital accessibility for South Africa."},
+"ZMB": {"facts": [], "systems": [], "note": "Support for girls' tertiary education is mentioned, with nothing on digital accessibility for persons with disabilities."}}}
+}}

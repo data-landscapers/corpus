@@ -1,1 +1,41 @@
-{"slug": "2026-11-06-ben-pag-2026-2033-feuille-de-route", "studies": {"nonstatefinance": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The 55% private financing is a programme target with no amount for a digital business or project."}}}}}
+{
+ "slug": "2026-11-06-ben-pag-2026-2033-feuille-de-route",
+ "studies": {
+  "cloudstrategy": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "datalocalisation": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The PAG 2026-2033 is a government action programme, not a stated digital strategy; technology is only a cross-cutting lever."
+    }
+   }
+  }
+ }
+}

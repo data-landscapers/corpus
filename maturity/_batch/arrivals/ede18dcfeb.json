@@ -1,0 +1,198 @@
+{
+ "slug": "2026-11-08-nga-nigeria-s-internet-capacity-expands-as-data-centre-links-hit-1tbps",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "datacentre",
+       "aspect": "centre",
+       "value": "service",
+       "fact": "BusinessDay reports Digital Realty's Medallion Data Centre in Lagos, a carrier-neutral facility hosting most IXPN traffic, is interconnected at 1Tbps with Equinix and 500Gbps with Rack Centre, per IXPN's chief executive.",
+       "as_of": "2026-11-08",
+       "date_precision": "day",
+       "system": "Medallion Data Centre",
+       "class": "datacentre"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Medallion Data Centre",
+       "country_label": "Nigeria",
+       "class": "datacentre",
+       "platform": "",
+       "owner": "Digital Realty",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "exchangepoints": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "BusinessDay reports the Internet Exchange Point of Nigeria (IXPN), established in 2006, lets ISPs, operators and content delivery networks exchange traffic locally, with peering centred on Digital Realty's Medallion data centre.",
+       "as_of": "2026-11-08",
+       "date_precision": "day",
+       "system": "IXPN",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "IXPN",
+       "country_label": "Nigeria",
+       "class": "exchange",
+       "platform": "",
+       "owner": "IXPN",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

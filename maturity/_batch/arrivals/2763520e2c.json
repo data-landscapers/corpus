@@ -1,0 +1,8 @@
+{"slug": "2026-11-08-civ-cote-divoire-32-entreprises-du-numerique-selectionnees-pour-accelerer", "studies": {
+"aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on government AI use."}}},
+"aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Nothing on sectoral AI."}}},
+"aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "AI is only a support theme for startups; no AI built or hosted stated."}}},
+"startups": {"countries": {"CIV": {"facts": [], "systems": [], "note": "No startup law, labelling or fund stated; 5-10 billion FCFA is an aim only."}}},
+"techhubs": {"countries": {"CIV": {"facts": [{"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "The Ministry of Digital Transition selected 32 firms from over 150 applicants on 4 November 2026 for 24 months of support in the Ivoire Tech Next 15 (14 firms) and Ivoire Tech Scale Up (18 firms) programmes.", "as_of": "2026-11-04", "date_precision": "day", "system": "Ivoire Tech Next 15 and Ivoire Tech Scale Up", "class": "hub"}], "systems": [{"system": "Ivoire Tech Next 15", "country_label": "Cote d'Ivoire", "class": "hub", "platform": "", "owner": "Ministry of Digital Transition and Technological Innovation", "tiers": ""}, {"system": "Ivoire Tech Scale Up", "country_label": "Cote d'Ivoire", "class": "hub", "platform": "", "owner": "Ministry of Digital Transition and Technological Innovation", "tiers": ""}], "note": ""}}}
+}}

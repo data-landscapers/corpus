@@ -1,0 +1,23 @@
+{
+ "slug": "2026-07-28-lanation-interoperabilite-regles-acces-xroad-bj",
+ "studies": {
+  "idverification": {
+   "countries": {
+    "BEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Xroad-BJ",
+       "country_label": "Benin",
+       "class": "other",
+       "platform": "",
+       "owner": "ASIN",
+       "tiers": ""
+      }
+     ],
+     "note": "The document sets access rules for the data-exchange platform and says nothing about checks against the national ID."
+    }
+   }
+  }
+ }
+}

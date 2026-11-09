@@ -1,0 +1,21 @@
+{"slug": "2026-08-14-zaf-question-no-876-cw623e-to-the-minister-of-home-affairs-draft-digital-i", "studies": {
+"authentication": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "The Minister of Home Affairs' written reply says the Department has stabilised and improved its Online Verification Service (OVS) and implemented facial biometric verification.", "as_of": "2026-08", "date_precision": "month", "system": "Online Verification Service (OVS)", "class": "authentication"}],
+"systems": [{"system": "Online Verification Service (OVS)", "country_label": "South Africa", "class": "authentication", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on a civil register to ID link."}}},
+"digitaldivides": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Mentions support for rural communities only as a stated benefit of a proposed framework."}}},
+"digitalidlaw": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Draft Digital Identity Regulations are a draft rule under the 1997 Act; the reply does not say the Act provides for a digital identity."}}},
+"idcoverage": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the platform."}}},
+"idregisters": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No register keyed on the ID number named; a SARS partnership on infrastructure is not that."}}},
+"idrobustness": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The Minister of Home Affairs says the Department is expanding Smart ID and passport services through banks, under agreements signed with major banks.", "as_of": "2026-08", "date_precision": "month", "system": "Smart ID", "class": "idsystem"}],
+"systems": [{"system": "Smart ID", "country_label": "South Africa", "class": "idsystem", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "The Minister of Home Affairs says the Department is expanding API-based integration for real-time identity verification with public and private sector institutions, and has signed agreements with major banks.", "as_of": "2026-08", "date_precision": "month", "system": "Home Affairs API-based identity verification", "class": "relying"}],
+"systems": [], "note": ""}}},
+"populationregister": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "The Minister of Home Affairs says the Department is modernising the population register and strengthening biometric and verification capabilities.", "as_of": "2026-08", "date_precision": "month", "system": "Population register", "class": "population"}],
+"systems": [{"system": "Population register", "country_label": "South Africa", "class": "population", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}], "note": ""}}}
+}}

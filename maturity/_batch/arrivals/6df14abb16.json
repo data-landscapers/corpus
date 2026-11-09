@@ -1,13 +1,32 @@
-{"slug": "2025-08-28-mli-mali-le-gouvernement-suspend-les-salaires-de-36-151-agents-publics-apr", "studies": {
-"authentication": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No authentication service is stated."}}},
-"birthidlink": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No civil register link is stated."}}},
-"censuses": {"countries": {"MLI": {"facts": [], "systems": [], "note": "The census described is of public agents, not of the population."}}},
-"civilserviceskills": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No digital-skills training is stated."}}},
-"coresystems": {"countries": {"MLI": {"facts": [], "systems": [{"system": "SIGRH", "country_label": "Systeme Integre de Gestion des Ressources Humaines", "class": "other", "platform": "", "owner": "Ministere de l'Economie et des Finances", "tiers": ""}], "note": "SIGRH is named for a biometric census of agents; the document does not say a payroll system is in use or down."}}},
-"digitalidlaw": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No identity law is stated."}}},
-"idcoverage": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No national enrolment count is given; the figures are for public agents only."}}},
-"idfrombirth": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
-"idmaintenance": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Document does not say who operates the ID system."}}},
-"idregisters": {"countries": {"MLI": {"facts": [{"sub_indicator": "registers", "aspect": "register", "value": "inservice", "fact": "Mali's Ministry of Economy and Finance said the SIGRH biometric census of public agents, closed 15 August 2025, enrolled 122,166 of 158,317 agents and found duplicates among them with or without a verifiable NINA.", "as_of": "2025-08-15", "date_precision": "day", "system": "SIGRH", "class": "register"}], "systems": [{"system": "SIGRH", "country_label": "Systeme Integre de Gestion des Ressources Humaines", "class": "register", "platform": "", "owner": "Ministere de l'Economie et des Finances", "tiers": ""}], "note": ""}}},
-"idrobustness": {"countries": {"MLI": {"facts": [], "systems": [], "note": "NINA is mentioned only in passing; nothing on the national ID system's status."}}}
-}}
+{
+ "slug": "2025-08-28-mli-mali-le-gouvernement-suspend-les-salaires-de-36-151-agents-publics-apr",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "SIGRH biometric census of public agents; states nothing on this study."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "Duplicates among enrolled agents noted with or without a verifiable NINA; no service checking people against the ID is stated."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "SIGRH biometric census of public agents; states nothing on this study."
+    }
+   }
+  }
+ }
+}

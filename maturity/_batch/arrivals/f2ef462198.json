@@ -1,0 +1,23 @@
+{
+ "slug": "2026-08-19-dcd-omantel-otech-bsc-rwanda-data-centre-mou",
+ "studies": {
+  "cloudstrategy": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "A planned data centre MoU only; no backup site in service for a public body."
+    }
+   }
+  }
+ }
+}

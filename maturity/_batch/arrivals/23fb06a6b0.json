@@ -1,0 +1,11 @@
+{"slug": "2025-06-01-lby-lypay-terms-and-conditions", "studies": {
+"authentication": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Terms of a payment alias directory; no authentication, e-signature or PKI service described."}}},
+"birthidlink": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"dataprotectionlaw": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Only a generic promise to comply with data protection laws; no law named."}}},
+"idcoverage": {"countries": {"LBY": {"facts": [], "systems": [], "note": "No count or share of people holding a national number."}}},
+"idfrombirth": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
+"idmaintenance": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on who operates the ID system."}}},
+"idregisters": {"countries": {"LBY": {"facts": [], "systems": [], "note": "A payment alias directory tied to the national number is a private-style service, not a public register."}}},
+"idrobustness": {"countries": {"LBY": {"facts": [], "systems": [], "note": "A valid national number is required to register, but nothing on how the ID system issues or checks it."}}},
+"police": {"countries": {"LBY": {"facts": [], "systems": [], "note": "Nothing on police records."}}}
+}}

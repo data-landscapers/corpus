@@ -1,0 +1,9 @@
+{"slug": "2025-04-14-tza-habarileo-wasiofuata-vitambulisho-nida-kusitishiwa-namba", "studies": {
+"authentication": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on authentication services."}}},
+"birthidlink": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"idcoverage": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Only SMS and card-collection counts; no share of the population enrolled."}}},
+"idfrombirth": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The under-18 pilot registers minors in three districts, not at birth registration."}}},
+"idmaintenance": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on who maintains or owns the system beyond NIDA issuing the IDs."}}},
+"idregisters": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No public register keyed on the number is named."}}},
+"idrobustness": {"countries": {"TZA": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Tanzania's National Identification Authority (NIDA) is issuing national ID numbers and cards, its Director General said on 14 April 2025, and will suspend numbers of people who do not collect cards from 1 May 2025.", "as_of": "2025-04-14", "date_precision": "day", "system": "NIDA national ID numbers and cards", "class": "idsystem"}], "systems": [{"system": "NIDA national ID (Jamii Namba)", "country_label": "Tanzania", "class": "idsystem", "platform": "", "owner": "NIDA", "tiers": ""}], "note": ""}}}
+}}

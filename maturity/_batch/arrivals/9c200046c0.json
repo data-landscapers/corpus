@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-07-tgo-conseil-des-ministres-du-06-novembre-2026",
+ "studies": {
+  "businesspayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+  "centralbank": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on the central bank's payments role."}}},
+  "civilserviceskills": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on digital-skills training for civil servants."}}},
+  "consumerprotection": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on consumer rules for digital finance."}}},
+  "crossborderpayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+  "egovservices": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on government services online."}}},
+  "g2ppayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on digital government payments to people."}}},
+  "localgov": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on local government office connection."}}},
+  "paymentsuptake": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No survey figure."}}},
+  "retailpayments": {"countries": {"TGO": {"facts": [], "systems": [], "note": "The postal policy names digital financial inclusion as an orientation only; no service stated."}}},
+  "revenuecollection": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Nothing on electronic tax payment."}}},
+  "schoolinternet": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No school internet figure or curriculum statement."}}}
+ }
+}

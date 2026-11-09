@@ -1,0 +1,281 @@
+{
+ "slug": "2023-11-09-uga-ministerial-meeting-for-the-ict-infrastructure-development-9th-novembe",
+ "studies": {
+  "egovservices": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "service",
+       "value": "link",
+       "fact": "The communique says the Northern Corridor ministers acknowledged cross border national backbone connections among the Partner States and welcomed cross-border broadband interconnectivity connecting land-locked countries to undersea cables; no link or operator is named.",
+       "as_of": "2023-11-09",
+       "date_precision": "day",
+       "system": "Northern Corridor cross-border connections",
+       "class": "shared"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "service",
+       "value": "link",
+       "fact": "The communique says the Northern Corridor ministers acknowledged cross border national backbone connections among the Partner States and welcomed cross-border broadband interconnectivity connecting land-locked countries to undersea cables; no link or operator is named.",
+       "as_of": "2023-11-09",
+       "date_precision": "day",
+       "system": "Northern Corridor cross-border connections",
+       "class": "shared"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "service",
+       "value": "link",
+       "fact": "The communique says the Northern Corridor ministers acknowledged cross border national backbone connections among the Partner States and welcomed cross-border broadband interconnectivity connecting land-locked countries to undersea cables; no link or operator is named.",
+       "as_of": "2023-11-09",
+       "date_precision": "day",
+       "system": "Northern Corridor cross-border connections",
+       "class": "shared"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "service",
+       "value": "link",
+       "fact": "The communique says the Northern Corridor ministers acknowledged cross border national backbone connections among the Partner States and welcomed cross-border broadband interconnectivity connecting land-locked countries to undersea cables; no link or operator is named.",
+       "as_of": "2023-11-09",
+       "date_precision": "day",
+       "system": "Northern Corridor cross-border connections",
+       "class": "shared"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Kenya's ICT Cabinet Secretary convened and hosted the joint ministerial meeting of the Northern Corridor ICT Infrastructure Development cluster in Nairobi.",
+       "as_of": "2023-11-09",
+       "date_precision": "day",
+       "system": "Northern Corridor Integration Projects",
+       "class": "cooperation"
+      },
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-use",
+       "fact": "The joint communique of the Northern Corridor Integration Projects ICT ministers (Kenya, Uganda, South Sudan, Rwanda) says One Network Area for voice, data and SMS is operational among the Partner States and has led to over 900 times traffic increase.",
+       "as_of": "2023-11-09",
+       "date_precision": "day",
+       "system": "One Network Area",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-use",
+       "fact": "The joint communique of the Northern Corridor Integration Projects ICT ministers (Kenya, Uganda, South Sudan, Rwanda) says One Network Area for voice, data and SMS is operational among the Partner States and has led to over 900 times traffic increase.",
+       "as_of": "2023-11-09",
+       "date_precision": "day",
+       "system": "One Network Area",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SSD": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-use",
+       "fact": "The joint communique of the Northern Corridor Integration Projects ICT ministers (Kenya, Uganda, South Sudan, Rwanda) says One Network Area for voice, data and SMS is operational among the Partner States and has led to over 900 times traffic increase.",
+       "as_of": "2023-11-09",
+       "date_precision": "day",
+       "system": "One Network Area",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "part",
+       "value": "active",
+       "fact": "Uganda's Minister of ICT chaired the joint ministerial meeting of the Northern Corridor ICT Infrastructure Development cluster in Nairobi and coordinates the cluster.",
+       "as_of": "2023-11-09",
+       "date_precision": "day",
+       "system": "Northern Corridor Integration Projects",
+       "class": "cooperation"
+      },
+      {
+       "sub_indicator": "cooperation",
+       "aspect": "effect",
+       "value": "in-use",
+       "fact": "The joint communique of the Northern Corridor Integration Projects ICT ministers (Kenya, Uganda, South Sudan, Rwanda) says One Network Area for voice, data and SMS is operational among the Partner States and has led to over 900 times traffic increase.",
+       "as_of": "2023-11-09",
+       "date_precision": "day",
+       "system": "One Network Area",
+       "class": "cooperation"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "SSD": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  }
+ }
+}

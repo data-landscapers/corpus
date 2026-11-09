@@ -1,0 +1,24 @@
+{"slug": "2026-04-30-sle-15-million-world-bank-grant-secured-for-second-fibre-cable-landing-say", "studies": {
+"datacentres": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "Nothing on data centres."},
+"LBR": {"facts": [], "systems": [], "note": "Nothing on data centres."},
+"SLE": {"facts": [], "systems": [], "note": "Nothing on data centres."}}},
+"fibrebackbone": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "Guinea's own backbone is not described; only Sierra Leone's interconnection with it."},
+"LBR": {"facts": [], "systems": [], "note": "Only a planned expansion of Sierra Leone's fibre to Liberia; no Liberian backbone stated."},
+"SLE": {"facts": [
+{"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "Minister Salima Bah told Parliament's ICT committee on 29 April 2026 that the fibre backbone has been expanded to 14 of Sierra Leone's 16 districts, with work under way to reach Falaba and Karene.", "as_of": "2026-04-29", "date_precision": "day", "system": "national fibre backbone", "class": "backbone"}],
+"systems": [], "note": ""}}},
+"internationalbandwidth": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "No cable landing or traffic route for Guinea stated."},
+"LBR": {"facts": [], "systems": [], "note": "No cable landing or traffic route for Liberia stated."},
+"SLE": {"facts": [], "systems": [], "note": "A second cable landing is only funded; interconnection with Guinea and redundancy sharing are stated but not that international traffic runs over it."}}},
+"nationaldatacentres": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "Nothing on data centres."},
+"LBR": {"facts": [], "systems": [], "note": "Nothing on data centres."},
+"SLE": {"facts": [], "systems": [], "note": "Nothing on data centres."}}},
+"publicconsultation": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "Nothing on consultation."},
+"LBR": {"facts": [], "systems": [], "note": "Nothing on consultation."},
+"SLE": {"facts": [], "systems": [], "note": "A parliamentary stakeholders' engagement on inclusive digital transformation is named, but no digital law or policy put to outsiders."}}}
+}}

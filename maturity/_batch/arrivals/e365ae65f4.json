@@ -1,0 +1,10 @@
+{"slug": "2026-11-06-lso-vodacom-lesotho-extends-m-pesa-app-to-iphones", "studies": {
+"businesspayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No government e-procurement stated."}}},
+"centralbank": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No consumer rules or complaints body stated."}}},
+"crossborderpayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No cross-border payments stated."}}},
+"g2ppayments": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No government payments stated."}}},
+"paymentsuptake": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Only transaction counts and a provider's market share; no survey share of adults with accounts."}}},
+"retailpayments": {"countries": {"LSO": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Mohale FM reports on 6 November 2026 that Vodacom Lesotho's M-Pesa app lets customers transfer money, pay bills and merchants and buy airtime, and that Vodacom estimates M-Pesa holds 88% of a mobile-money market with over 112 million transactions in 2024.", "as_of": "2026-11-06", "date_precision": "day", "system": "M-Pesa (Vodacom Lesotho)", "class": "retail"}], "systems": [{"system": "M-Pesa", "country_label": "Lesotho", "class": "retail", "platform": "M-Pesa Super App", "owner": "Vodacom Lesotho", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No tax or fee payment to the state stated."}}}
+}}

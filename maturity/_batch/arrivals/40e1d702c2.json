@@ -1,0 +1,8 @@
+{"slug": "2025-10-24-cod-rdc-tanzanie-une-interconnexion-en-fibre-optique-qui-pourrait-transfor", "studies": {
+"internationalbandwidth": {"countries": {
+"COD": {"facts": [], "systems": [], "note": "The Kalemie-Kigoma cable is planned, not in service."},
+"TZA": {"facts": [], "systems": [], "note": "The Kalemie-Kigoma cable is planned, not in service."}}},
+"regionalinfrastructure": {"countries": {
+"COD": {"facts": [{"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "AfriqueITNews reports that on 20 October 2025 the heads of Congo's SOCOF and Tanzania's TTCL, with a Tanzanian ministry representative, made official the Kalemie-Kigoma lake cable, with works due in Q1 2026 and service by end 2027.", "as_of": "2025-10-20", "date_precision": "day", "system": "Kalemie-Kigoma lake cable", "class": "shared"}], "systems": [], "note": ""},
+"TZA": {"facts": [{"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "AfriqueITNews reports that on 20 October 2025 the heads of Congo's SOCOF and Tanzania's TTCL, with a Tanzanian ministry representative, made official the Kalemie-Kigoma lake cable, with works due in Q1 2026 and service by end 2027.", "as_of": "2025-10-20", "date_precision": "day", "system": "Kalemie-Kigoma lake cable", "class": "shared"}], "systems": [], "note": ""}}}
+}}

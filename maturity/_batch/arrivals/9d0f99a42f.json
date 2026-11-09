@@ -1,0 +1,10 @@
+{"slug": "2024-06-16-cpv-ecowas-conducts-advocacy-on-the-deployment-of-the-ecowas-national-biom", "studies": {
+"authentication": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on authentication."}}},
+"birthidlink": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on civil register and ID link."}}},
+"idcoverage": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No register keyed on the ID stated."}}},
+"idrobustness": {"countries": {"CPV": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Juvenal Pereira, president of the implementation team of Cabo Verde's National Civil Identification and Authentication System, told an ECOWAS mission on 11 June 2024 that the country already has a functioning national identification card system.", "as_of": "2024-06-11", "date_precision": "day", "system": "National Civil Identification and Authentication System", "class": "idsystem"}], "systems": [{"system": "National Civil Identification and Authentication System", "country_label": "Cabo Verde", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"police": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on a police system; the mission met the National Police only on the ECOWAS card."}}}
+}}

@@ -1,13 +1,1 @@
-{"slug":"2026-11-06-tza-digital-transformation-cuts-nhif-claims-payment-period-to-50-days","studies":{
-"aiabuse":{"countries":{"TZA":{"facts":[],"systems":[],"note":"The document states nothing this study asks about Tanzania."}}},
-"aigovernment":{"countries":{"TZA":{"facts":[],"systems":[],"note":"The AI named is inside the health insurance fund's claims system, a sector system."}}},
-"aisectoral":{"countries":{"TZA":{"facts":[{"sub_indicator":"sectorai","aspect":"use","value":"inservice","fact":"The National Health Insurance Fund says it cut average claims settlement time from 120 to 50 days in 2024/25 after adopting digital systems and AI in claims processing.","as_of":"2025","date_precision":"year","system":"NHIF claims processing","class":"sectorai"}],"systems":[],"note":""}}},
-"aisystems":{"countries":{"TZA":{"facts":[],"systems":[],"note":"The document states nothing this study asks about Tanzania."}}},
-"authentication":{"countries":{"TZA":{"facts":[],"systems":[],"note":"The document states nothing this study asks about Tanzania."}}},
-"birthidlink":{"countries":{"TZA":{"facts":[],"systems":[],"note":"NHIF integration with NIDA and RITA is a health fund's link, not a civil register to ID exchange."}}},
-"idcoverage":{"countries":{"TZA":{"facts":[],"systems":[],"note":"The document states nothing this study asks about Tanzania."}}},
-"idfrombirth":{"countries":{"TZA":{"facts":[],"systems":[],"note":"The document states nothing this study asks about Tanzania."}}},
-"idmaintenance":{"countries":{"TZA":{"facts":[],"systems":[],"note":"The document states nothing this study asks about Tanzania."}}},
-"idregisters":{"countries":{"TZA":{"facts":[],"systems":[],"note":"NHIF's systems are said to be integrated with NIDA, but no register keyed on the national ID number is stated."}}},
-"idrobustness":{"countries":{"TZA":{"facts":[],"systems":[],"note":"The document states nothing this study asks about Tanzania."}}}
-}}
+{"slug": "2026-11-06-tza-digital-transformation-cuts-nhif-claims-payment-period-to-50-days", "studies": {"healthmis": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Only NHIF's insurance claims system; no national health reporting system stated."}}}}}

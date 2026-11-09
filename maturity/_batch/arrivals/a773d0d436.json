@@ -1,0 +1,15 @@
+{"slug": "2026-11-07-egy-fintechgate-fra-ekyc-1-7-million-verifications-october-2026", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on a rule or authority for AI harms."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "FRA only says it is studying AI use for data analysis and a fraud system; no tender, pilot or service stated."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "AI for FRA is under study only; no tool piloted or in service."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"authentication": {"countries": {"EGY": {"facts": [], "systems": [], "note": "e-KYC is regulated for non-bank firms but the document names no state-accepted authentication service, e-signature or mobile ID."}}},
+"birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Civil register and ID link not mentioned."}}},
+"dataprotectionlaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Mentions data protection requirements for FRA-supervised firms only; no general law, authority or application stated."}}},
+"idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No ID enrolment count or share."}}},
+"idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No number at birth mentioned."}}},
+"idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on who runs or owns the ID system."}}},
+"idregisters": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No public register keyed on the national ID number stated."}}},
+"idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The national ID system itself is not described."}}},
+"idverification": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Gives 1.727m e-KYC checks to end-October 2026 by non-bank financial firms, but does not say they are checked against the national ID."}}}
+}}

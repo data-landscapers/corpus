@@ -1,0 +1,14 @@
+{"slug": "2025-03-24-gin-arrete-conjoint-a-2025-235-fixant-les-conditions-et-modalites-d-applic", "studies": {
+"authentication": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on electronic authentication."}}},
+"birthidlink": {"countries": {"GIN": {"facts": [], "systems": [], "note": "A digital birth certificate is a required document for the card, not a stated record exchange between registers."}}},
+"civilregister": {"countries": {"GIN": {"facts": [{"sub_indicator": "civil", "aspect": "births", "value": "underway", "fact": "A joint order of 24 March 2025 says the civil status ministry's services issue a digital, secured birth certificate free of charge, required for the biometric national ID card.", "as_of": "2025-03-24", "date_precision": "day", "system": "acte de naissance numerique et securise", "class": "civil"}], "systems": [], "note": ""}}},
+"civilserviceskills": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on civil servant digital skills."}}},
+"digitalidlaw": {"countries": {"GIN": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "A joint order of 24 March 2025 is made under Law L/2023/019/CNT of 25 October 2023 on the identification of natural persons, among its legal bases.", "as_of": "2023-10-25", "date_precision": "day", "system": "Loi L/2023/019/CNT portant Identification des Personnes Physiques", "class": "law"}], "systems": [], "note": ""}}},
+"idcoverage": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the system."}}},
+"idregisters": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"GIN": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "A joint order of 24 March 2025 makes the biometric national ID card free on first application from age 16, produced and delivered within 15 days of enrolment by the security ministry's services.", "as_of": "2025-03-24", "date_precision": "day", "system": "Carte Nationale d'identite Biometrique", "class": "idsystem"}], "systems": [{"system": "Carte Nationale d'identite Biometrique", "country_label": "Guinea", "class": "idsystem", "platform": "", "owner": "Ministry of Security and Civil Protection", "tiers": ""}], "note": ""}}},
+"police": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on police station records."}}},
+"registry": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Nothing on local civil registration offices entering events digitally."}}}
+}}

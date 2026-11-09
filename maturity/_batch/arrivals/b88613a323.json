@@ -1,0 +1,12 @@
+{"slug": "2025-10-04-ken-murkomen-announces-national-drive-to-accelerate-id-collection-digital", "studies": {
+"authentication": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing stated on an authentication service."}}},
+"birthidlink": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing stated on civil register and ID exchange."}}},
+"electoralregister": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Voter registration is mentioned with no digital roll stated."}}},
+"idcoverage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Uncollected ID counts given, no enrolment share stated."}}},
+"idfrombirth": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing stated on a number at birth."}}},
+"idmaintenance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing stated on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No register keyed on the ID number is stated."}}},
+"idrobustness": {"countries": {"KEN": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Interior Cabinet Secretary Murkomen said he received his third-generation MAISHA number within five minutes of registering, and that 300 live capture machines are being procured toward all 1,450 wards.", "as_of": "2025-10-03", "date_precision": "day", "system": "MAISHA", "class": "idsystem"}], "systems": [{"system": "MAISHA", "country_label": "Kenya", "class": "idsystem", "platform": "", "owner": "National Registration Bureau", "tiers": ""}], "note": ""}}},
+"refugees": {"countries": {"KEN": {"facts": [{"sub_indicator": "displaced", "aspect": "registration", "value": "underway", "fact": "Murkomen said the government is registering aliens and that all refugees will be registered so they can access services.", "as_of": "2025-10-03", "date_precision": "day", "system": "Refugee registration", "class": "displaced"}], "systems": [], "note": ""}}},
+"registry": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing stated on civil registration offices."}}}
+}}

@@ -1,0 +1,31 @@
+{
+ "slug": "2024-12-03-eth-strategic-partnership-announced-among-ethio-telecom-djibouti-telecom-a",
+ "studies": {
+  "digitaldivides": {"countries": {
+   "DJI": {"facts": [], "systems": [], "note": "Nothing on rural internet programmes or measurement."},
+   "ETH": {"facts": [], "systems": [], "note": "Nothing on rural internet programmes or measurement."},
+   "SDN": {"facts": [], "systems": [], "note": "Nothing on rural internet programmes or measurement."}}},
+  "digitalstrategy": {"countries": {
+   "DJI": {"facts": [], "systems": [], "note": "No national digital strategy is described; only a mention of Africa's Digital Transformation Strategy 2030."},
+   "ETH": {"facts": [], "systems": [], "note": "No national digital strategy is described; only a mention of Africa's Digital Transformation Strategy 2030."},
+   "SDN": {"facts": [], "systems": [], "note": "No national digital strategy is described."}}},
+  "fibrebackbone": {"countries": {
+   "DJI": {"facts": [], "systems": [], "note": "The Horizon Fiber link is cross-border and only agreed; no national backbone stated."},
+   "ETH": {"facts": [], "systems": [], "note": "The Horizon Fiber link is cross-border and only agreed; no national backbone stated."},
+   "SDN": {"facts": [], "systems": [], "note": "The Horizon Fiber link is cross-border and only agreed; no national backbone stated."}}},
+  "internationalbandwidth": {"countries": {
+   "DJI": {"facts": [], "systems": [], "note": "The terrestrial route is planned, with services targeted for April 2025; none stated in service."},
+   "ETH": {"facts": [], "systems": [], "note": "The terrestrial route is planned, with services targeted for April 2025; none stated in service."},
+   "SDN": {"facts": [], "systems": [], "note": "A Port Sudan cable landing station is mentioned by Sudatel, but no route is stated in service."}}},
+  "regionalinfrastructure": {"countries": {
+   "DJI": {"facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Ethio telecom says Djibouti Telecom signed a memorandum of understanding on 3 December 2024 with Ethio telecom and Sudatel for the Horizon Fiber terrestrial fibre link across Djibouti, Sudan and Ethiopia.", "as_of": "2024-12-03", "date_precision": "day", "system": "Horizon Fiber Initiative", "class": "shared"}
+   ], "systems": [{"system": "Horizon Fiber Initiative", "country_label": "Djibouti", "class": "shared", "platform": "", "owner": "Djibouti Telecom, Ethio telecom, Sudatel", "tiers": ""}], "note": ""},
+   "ETH": {"facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Ethio telecom says it signed a memorandum of understanding on 3 December 2024 with Djibouti Telecom and Sudatel for the Horizon Fiber terrestrial fibre link across Djibouti, Sudan and Ethiopia, with services targeted for April 2025.", "as_of": "2024-12-03", "date_precision": "day", "system": "Horizon Fiber Initiative", "class": "shared"}
+   ], "systems": [{"system": "Horizon Fiber Initiative", "country_label": "Ethiopia", "class": "shared", "platform": "", "owner": "Ethio telecom, Djibouti Telecom, Sudatel", "tiers": ""}], "note": ""},
+   "SDN": {"facts": [
+    {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Ethio telecom says Sudatel Telecom Group signed a memorandum of understanding on 3 December 2024 with Ethio telecom and Djibouti Telecom for the Horizon Fiber terrestrial fibre link across Djibouti, Sudan and Ethiopia.", "as_of": "2024-12-03", "date_precision": "day", "system": "Horizon Fiber Initiative", "class": "shared"}
+   ], "systems": [{"system": "Horizon Fiber Initiative", "country_label": "Sudan", "class": "shared", "platform": "", "owner": "Sudatel, Ethio telecom, Djibouti Telecom", "tiers": ""}], "note": ""}}}
+ }
+}

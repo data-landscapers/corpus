@@ -1,0 +1,5 @@
+{"slug":"2026-04-24-nam-namibia-angola-sign-connectivity-deal-to-boost-west-coast-bandwidth","studies":{
+"internationalbandwidth":{"countries":{
+"AGO":{"facts":[],"systems":[],"note":"Capacity access agreed; no Angolan route stated in service."},
+"NAM":{"facts":[{"sub_indicator":"routes","aspect":"routes","value":"one","fact":"TechNews Namibia says the Equiano cable landed in Swakopmund in 2022 and became fully operational in July 2024.","as_of":"2024-07","date_precision":"month","system":"Equiano","class":"route"},{"sub_indicator":"routes","aspect":"access","value":"open","fact":"TechNews Namibia reports the April 2026 agreement gives Angola Telecom access to global capacity through the Equiano landing in Swakopmund.","as_of":"2026-04","date_precision":"month","system":"Equiano","class":"route"}],"systems":[{"system":"Equiano","country_label":"NAM","class":"route","platform":"subsea cable","owner":"","tiers":""}],"note":""}}}
+}}

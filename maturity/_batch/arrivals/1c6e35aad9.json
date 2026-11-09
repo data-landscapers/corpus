@@ -1,0 +1,28 @@
+{
+ "slug": "2024-11-01-sdn-national-institutional-integration",
+ "studies": {
+  "authentication": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on an authentication service."}}},
+  "birthidlink": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on a civil register to ID link."}}},
+  "businesspayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+  "centralbank": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The telecom regulator licenses payment apps with the central bank; no central bank licensing or switch role is stated."}}},
+  "civilregister": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on digital civil registration."}}},
+  "consumerprotection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on consumer rules for digital finance."}}},
+  "crossborderpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+  "cybersecurity": {"countries": {"SDN": {"facts": [
+   {"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "The Telecommunications and Post Regulatory Authority says the Sudanese Computer Emergency Response Team is part of TPRA and plays a role in combating cybercrime and coordinating with similar centres abroad.", "as_of": "2024-11", "date_precision": "month", "system": "Sudanese Computer Emergency Response Team (Sudan CERT)", "class": "response"}
+  ], "systems": [{"system": "Sudan CERT", "country_label": "Sudanese Computer Emergency Response Team", "class": "response", "platform": "", "owner": "TPRA", "tiers": ""}], "note": ""}}},
+  "g2ppayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+  "idcoverage": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
+  "idfrombirth": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on an ID number at birth."}}},
+  "idmaintenance": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on who operates the ID system."}}},
+  "idregisters": {"countries": {"SDN": {"facts": [], "systems": [{"system": "SIM registration linked to national ID numbers", "country_label": "Sudan", "class": "other", "platform": "", "owner": "TPRA with Ministry of Interior civil registry", "tiers": ""}], "note": "Only SIM registration is linked to the ID number, which is not a public register."}}},
+  "idrobustness": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on the national ID system's issuance or checks."}}},
+  "internationalstandards": {"countries": {"SDN": {"facts": [], "systems": [], "note": "A National Electrotechnical Committee affiliated with the IEC exists since 2022, but IEC membership of the standards body and participation in writing standards are not stated."}}},
+  "paymentsuptake": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No survey figure."}}},
+  "policyresearch": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on local digital policy research."}}},
+  "qualitystandards": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The Sudanese Standards and Metrology Organization is named, but no law, IT standard or certification is stated."}}},
+  "registry": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on local civil registration offices."}}},
+  "retailpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Licensing of payment apps is mentioned without saying a service is in service."}}},
+  "revenuecollection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on electronic tax payment."}}}
+ }
+}

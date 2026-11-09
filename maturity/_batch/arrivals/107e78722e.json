@@ -1,0 +1,55 @@
+{
+ "slug": "2025-06-05-ken-joint-communique-between-the-federal-democratic-republic-of-ethiopia-a",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "ETH": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "built",
+       "value": "agreed",
+       "fact": "In a joint communique of 5 June 2025 convened by IGAD, Ethiopia and Kenya committed to complete the cross-border fibre optic connectivity and noted the need for consensus on optic fibre meet-me points.",
+       "as_of": "2025-06-05",
+       "date_precision": "day",
+       "system": "Ethiopia-Kenya cross-border fibre optic connectivity",
+       "class": "shared"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "built",
+       "value": "agreed",
+       "fact": "In a joint communique of 5 June 2025 convened by IGAD, Ethiopia and Kenya committed to complete the cross-border fibre optic connectivity and noted the need for consensus on optic fibre meet-me points.",
+       "as_of": "2025-06-05",
+       "date_precision": "day",
+       "system": "Ethiopia-Kenya cross-border fibre optic connectivity",
+       "class": "shared"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

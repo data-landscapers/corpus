@@ -1,0 +1,473 @@
+{
+ "slug": "2024-07-15-civ-cote-d-ivoire-le-numerique-au-service-de-la-securite-et-la-fiabilite-d",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for CIV."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "ONECI says it provides APIs and secure terminals (TVI) letting public and private institutions access identification data to verify personal information.",
+       "as_of": "2024-07-15",
+       "date_precision": "day",
+       "system": "ONECI API and TVI terminals",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RNPP",
+       "country_label": "Côte d'Ivoire",
+       "class": "population",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "City Web",
+       "country_label": "Côte d'Ivoire",
+       "class": "civil",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "CNI / NNI",
+       "country_label": "Côte d'Ivoire",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "The RNPP, run by ONECI, holds civil-status data and the unique national identification number (NNI) for each resident in one register, per ONECI's director-general.",
+       "as_of": "2024-07-15",
+       "date_precision": "day",
+       "system": "RNPP",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RNPP",
+       "country_label": "Côte d'Ivoire",
+       "class": "population",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "City Web",
+       "country_label": "Côte d'Ivoire",
+       "class": "civil",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "CNI / NNI",
+       "country_label": "Côte d'Ivoire",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "businessregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for CIV."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "births",
+       "value": "underway",
+       "fact": "ONECI's director-general says the City Web civil-registration software, which centralises recording of civil-status events, is being rolled out and covers 302 of 690 centres.",
+       "as_of": "2024-07-15",
+       "date_precision": "day",
+       "system": "City Web",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RNPP",
+       "country_label": "Côte d'Ivoire",
+       "class": "population",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "City Web",
+       "country_label": "Côte d'Ivoire",
+       "class": "civil",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "CNI / NNI",
+       "country_label": "Côte d'Ivoire",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for CIV."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for CIV."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for CIV."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for CIV."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for CIV."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "ONECI, the national authority, produces and manages the national ID card and the RNPP, according to its director-general.",
+       "as_of": "2024-07-15",
+       "date_precision": "day",
+       "system": "ONECI national ID system",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RNPP",
+       "country_label": "Côte d'Ivoire",
+       "class": "population",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "City Web",
+       "country_label": "Côte d'Ivoire",
+       "class": "civil",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "CNI / NNI",
+       "country_label": "Côte d'Ivoire",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for CIV."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "ONECI has received over 8 million ID card requests and produced over 7 million, each person holding a unique NNI in the RNPP.",
+       "as_of": "2024-07-15",
+       "date_precision": "day",
+       "system": "CNI / RNPP",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RNPP",
+       "country_label": "Côte d'Ivoire",
+       "class": "population",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "City Web",
+       "country_label": "Côte d'Ivoire",
+       "class": "civil",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "CNI / NNI",
+       "country_label": "Côte d'Ivoire",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "ONECI says its APIs and secure terminals let public and private institutions verify personal information against identification data.",
+       "as_of": "2024-07-15",
+       "date_precision": "day",
+       "system": "ONECI API and TVI terminals",
+       "class": "relying"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RNPP",
+       "country_label": "Côte d'Ivoire",
+       "class": "population",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "City Web",
+       "country_label": "Côte d'Ivoire",
+       "class": "civil",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "CNI / NNI",
+       "country_label": "Côte d'Ivoire",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "landregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for CIV."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "population",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The RNPP is described by ONECI as a single file centralising civil-status information on Ivorian residents, each with a unique NNI.",
+       "as_of": "2024-07-15",
+       "date_precision": "day",
+       "system": "RNPP",
+       "class": "population"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RNPP",
+       "country_label": "Côte d'Ivoire",
+       "class": "population",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "City Web",
+       "country_label": "Côte d'Ivoire",
+       "class": "civil",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "CNI / NNI",
+       "country_label": "Côte d'Ivoire",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "offices",
+       "value": "equipped:43.8%",
+       "fact": "ONECI says City Web is deployed in 302 of 690 civil-status centres (43.8%), with deployment continuing.",
+       "as_of": "2024-07-15",
+       "date_precision": "day",
+       "system": "City Web",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "RNPP",
+       "country_label": "Côte d'Ivoire",
+       "class": "population",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "City Web",
+       "country_label": "Côte d'Ivoire",
+       "class": "civil",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      },
+      {
+       "system": "CNI / NNI",
+       "country_label": "Côte d'Ivoire",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "ONECI",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for CIV."
+    }
+   }
+  },
+  "socialregistry": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for CIV."
+    }
+   }
+  },
+  "taxregister": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for CIV."
+    }
+   }
+  }
+ }
+}

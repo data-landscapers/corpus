@@ -1,0 +1,517 @@
+{
+ "slug": "2026-05-01-ken-the-kenya-digital-identity-playbook-identity-as-foundation-of-digital",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Kenya government's ID4Africa 2026 deck says real-time authentication runs through IPRS and eCitizen, with an e-KYC platform and digital signing still under way.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "IPRS",
+       "class": "authentication"
+      },
+      {
+       "sub_indicator": "authentication",
+       "aspect": "reach",
+       "value": "several",
+       "fact": "The deck says over 22,000 services online rely on the digital ID for access, and IPRS connects KRA, SHA, education, financial e-KYC, SIM registration and social protection systems.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "IPRS",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "IPRS",
+       "country_label": "Kenya",
+       "class": "authentication",
+       "platform": "",
+       "owner": "Government of Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "link",
+       "aspect": "link",
+       "value": "inservice",
+       "fact": "The deck says the Unique Personal Identifier (Maisha Namba) is implemented and in use by both Civil Registration Services and the National Registration Bureau, with integration done.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "Maisha Namba (UPI)",
+       "class": "crvslink"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Maisha Namba (UPI)",
+       "country_label": "Kenya",
+       "class": "crvslink",
+       "platform": "",
+       "owner": "Government of Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "civil",
+       "aspect": "coverage",
+       "value": "general",
+       "fact": "The deck gives national birth registration coverage as 70%, with no statement that it is held in a digital system.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "Civil Registration Services",
+       "class": "civil"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Civil Registration Services",
+       "country_label": "Kenya",
+       "class": "civil",
+       "platform": "",
+       "owner": "Government of Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "general",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The deck names the Data Protection Act (2019) as a legal framework governing access to identity data.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "Data Protection Act 2019",
+       "class": "general"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Data Protection Act 2019",
+       "country_label": "Kenya",
+       "class": "general",
+       "platform": "",
+       "owner": "Government of Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "The deck says the Registration of Persons Act, Cap. 107, established in 1978, provides for mandatory identification, registration and issue of identity cards to citizens aged 18 and over.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "Registration of Persons Act, Cap. 107",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Registration of Persons Act, Cap. 107",
+       "country_label": "Kenya",
+       "class": "law",
+       "platform": "",
+       "owner": "Government of Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "eservices",
+       "aspect": "services",
+       "value": "inservice",
+       "fact": "The deck says more than 22,000 digital government services are onboarded on eCitizen.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "eCitizen",
+       "class": "eservices"
+      },
+      {
+       "sub_indicator": "eservices",
+       "aspect": "gateway",
+       "value": "single",
+       "fact": "The deck says eCitizen carries services of many bodies, with over 22,000 services online relying on the digital ID for access.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "eCitizen",
+       "class": "eservices"
+      },
+      {
+       "sub_indicator": "eservices",
+       "aspect": "usage",
+       "value": "published",
+       "fact": "The deck gives over 15 million active eCitizen accounts.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "eCitizen",
+       "class": "eservices"
+      }
+     ],
+     "systems": [
+      {
+       "system": "eCitizen",
+       "country_label": "Kenya",
+       "class": "eservices",
+       "platform": "",
+       "owner": "Government of Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "frombirth",
+       "aspect": "number",
+       "value": "inservice",
+       "fact": "The deck gives the identity lifecycle as birth registration, then Unique Personal Identifier issuance, then national ID, with the UPI in use by civil registration and the National Registration Bureau.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "Maisha Namba (UPI)",
+       "class": "birthnumber"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Maisha Namba (UPI)",
+       "country_label": "Kenya",
+       "class": "birthnumber",
+       "platform": "",
+       "owner": "Government of Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "registers",
+       "aspect": "register",
+       "value": "inservice",
+       "fact": "The deck says the Maisha Namba personal identifier is in use by Civil Registration Services and the National Registration Bureau.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "Maisha Namba (UPI)",
+       "class": "register"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Maisha Namba (UPI)",
+       "country_label": "Kenya",
+       "class": "register",
+       "platform": "",
+       "owner": "Government of Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The deck says Kenya has a biometric-enabled national identity database and has produced over 6 million electronic ID (Maisha) cards since October 2023.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "Maisha Namba / National Registration Bureau",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "robustness",
+       "aspect": "biometric",
+       "value": "checked",
+       "fact": "The deck lists AFIS deduplication infrastructure and biometric enrolment in the identity lifecycle, with two fingerprints held on the card chip.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "AFIS deduplication",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National identity database / Maisha card",
+       "country_label": "Kenya",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "National Registration Bureau",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "The deck says IPRS and eCitizen give real-time authentication, and connected systems include KRA tax, SHA/SHIF, education, financial-sector e-KYC, SIM registration and social protection.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "IPRS",
+       "class": "relying"
+      },
+      {
+       "sub_indicator": "use",
+       "aspect": "sectors",
+       "value": "several",
+       "fact": "The deck lists KRA tax, health insurance, education, financial e-KYC, SIM registration and social protection systems as connected to the national ID verification.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "IPRS",
+       "class": "relying"
+      },
+      {
+       "sub_indicator": "use",
+       "aspect": "usage",
+       "value": "reported",
+       "fact": "The deck says over 22,000 services are online relying on the digital ID for access.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "IPRS",
+       "class": "relying"
+      }
+     ],
+     "systems": [
+      {
+       "system": "IPRS",
+       "country_label": "Kenya",
+       "class": "relying",
+       "platform": "",
+       "owner": "Government of Kenya",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

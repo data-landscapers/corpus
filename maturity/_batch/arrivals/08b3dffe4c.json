@@ -1,0 +1,295 @@
+{
+  "slug": "2026-11-07-egy-cairo-ict-2026-fra-chairman-highlights-digital-transformation-in-non-b",
+  "studies": {
+    "addressregister": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "aiabuse": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "aigovernment": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "aisectoral": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "aisystems": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "authentication": {
+      "countries": {
+        "EGY": {
+          "facts": [
+            {
+              "sub_indicator": "authentication",
+              "aspect": "service",
+              "value": "inservice",
+              "fact": "Egypt's Financial Regulatory Authority says e-KYC verifications in non-banking finance reached over 1.727 million by late October 2026, up from 354,000 at end-2025, under its e-KYC and digital identity guidelines.",
+              "as_of": "2026-10",
+              "date_precision": "month",
+              "system": "e-KYC",
+              "class": "authentication"
+            }
+          ],
+          "systems": [
+            {
+              "system": "e-KYC",
+              "country_label": "Egypt",
+              "class": "authentication",
+              "platform": "",
+              "owner": "Financial Regulatory Authority (regulator)",
+              "tiers": ""
+            }
+          ],
+          "note": ""
+        }
+      }
+    },
+    "birthidlink": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "businesspayments": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "businessregister": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "centralbank": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "civilregister": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "consumerprotection": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "crossborderpayments": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "dataprotectionlaw": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "electoralregister": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "g2ppayments": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "idcoverage": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "idfrombirth": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "idmaintenance": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "idregisters": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "idrobustness": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "idverification": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "landregister": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "paymentsuptake": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "populationregister": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "regionalpolicy": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "retailpayments": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "revenuecollection": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "socialregistry": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    },
+    "taxregister": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [],
+          "note": "The document states nothing this study asks for Egypt."
+        }
+      }
+    }
+  }
+}

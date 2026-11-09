@@ -1,0 +1,26 @@
+{"slug": "2026-06-23-moz-mocambique-e-angola-avancam-com-cabo-nacala-lobito-para-reforcar-corre", "studies": {
+"aiabuse": {"countries": {
+"AGO": {"facts": [], "systems": [], "note": "Nothing on AI harms for Angola."},
+"MOZ": {"facts": [], "systems": [], "note": "The ITU head welcomed unnamed institutional mechanisms to guide AI use; no rule or authority on AI harms is stated."}}},
+"aigovernment": {"countries": {
+"AGO": {"facts": [], "systems": [], "note": "Nothing on AI in administration."},
+"MOZ": {"facts": [], "systems": [], "note": "No government AI system is described."}}},
+"aisectoral": {"countries": {
+"AGO": {"facts": [], "systems": [], "note": "Nothing on sectoral AI."},
+"MOZ": {"facts": [], "systems": [], "note": "Nothing on sectoral AI."}}},
+"aisystems": {"countries": {
+"AGO": {"facts": [], "systems": [], "note": "Nothing on AI built at home."},
+"MOZ": {"facts": [], "systems": [], "note": "Data centres are mentioned only as an aspiration, with no AI computing named."}}},
+"digitalstrategy": {"countries": {
+"AGO": {"facts": [], "systems": [], "note": "No Angolan digital strategy is mentioned."},
+"MOZ": {"facts": [], "systems": [], "note": "The ITU head refers to Mozambique's digital strategy without naming, dating or describing it."}}},
+"internationalbandwidth": {"countries": {
+"AGO": {"facts": [], "systems": [{"system": "Nacala-Lobito subsea cable", "country_label": "Angola", "class": "other", "platform": "submarine cable", "owner": "", "tiers": ""}], "note": "The Nacala-Lobito cable is only at concession phase, not in service."},
+"MOZ": {"facts": [], "systems": [{"system": "Nacala-Lobito subsea cable", "country_label": "Mozambique", "class": "other", "platform": "submarine cable", "owner": "", "tiers": ""}], "note": "The Nacala-Lobito cable is only at concession phase, not in service."}}},
+"regionalpolicy": {"countries": {
+"AGO": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Angola's telecommunications minister Mario Oliveira and Mozambique's minister Americo Muchanga signed a memorandum of understanding to establish a Nacala-Lobito submarine cable, reported by O.Economico citing Jornal Noticias.", "as_of": "2026-06-22", "date_precision": "day", "system": "Nacala-Lobito cable memorandum of understanding", "class": "cooperation"}], "systems": [], "note": ""},
+"MOZ": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Mozambique's communications minister Americo Muchanga and Angola's minister Mario Oliveira signed a memorandum of understanding to establish a Nacala-Lobito submarine cable, reported by O.Economico citing Jornal Noticias.", "as_of": "2026-06-22", "date_precision": "day", "system": "Nacala-Lobito cable memorandum of understanding", "class": "cooperation"}], "systems": [], "note": ""}}},
+"schoolinternet": {"countries": {
+"AGO": {"facts": [], "systems": [], "note": "Nothing on school internet for Angola."},
+"MOZ": {"facts": [], "systems": [], "note": "USD 20 million school connectivity is a programme with no share of schools or curriculum stated."}}}
+}}

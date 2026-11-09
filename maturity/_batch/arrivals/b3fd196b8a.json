@@ -1,5 +1,7 @@
-{"slug":"2026-10-15-nam-n-44m-paid-to-ghost-grant-beneficiaries","studies":{
-"birthidlink":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing stated on civil register and ID links."}}},
-"idfrombirth":{"countries":{"NAM":{"facts":[],"systems":[],"note":"Nothing stated on a number at birth."}}},
-"populationregister":{"countries":{"NAM":{"facts":[{"sub_indicator":"population","aspect":"register","value":"inservice","fact":"The Auditor General compared 488,753 social grant beneficiaries on the Integrated Social Assistance System with the National Population Registration System and found 8,099 unmatched.","as_of":"2026-10-15","date_precision":"day","system":"National Population Registration System (NPRS)","class":"population"},{"sub_indicator":"population","aspect":"used","value":"source","fact":"The Auditor General's report says social grant recipients on the Integrated Social Assistance System were checked against records in the National Population Registration System.","as_of":"2026-10-15","date_precision":"day","system":"National Population Registration System (NPRS)","class":"population"}],"systems":[],"note":""}}}
+{"slug": "2026-10-15-nam-n-44m-paid-to-ghost-grant-beneficiaries", "studies": {
+"businessregister": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on a business register."}}},
+"civilregister": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on civil registration."}}},
+"landregister": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on a land register."}}},
+"registry": {"countries": {"NAM": {"facts": [], "systems": [], "note": "Nothing on civil registration offices."}}},
+"socialregistry": {"countries": {"NAM": {"facts": [], "systems": [{"system": "Integrated Social Assistance System (ISAS)", "country_label": "Namibia", "class": "other", "platform": "", "owner": "Ministry of Gender Equality and Child Welfare", "tiers": ""}], "note": "ISAS is a grant payment and beneficiary system; the match to the NPRS was an auditor's check, and no household registry is stated."}}}
 }}

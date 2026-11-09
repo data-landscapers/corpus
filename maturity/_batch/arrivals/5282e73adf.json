@@ -1,0 +1,10 @@
+{"slug": "2025-09-26-cpv-incv-inicia-producao-de-documentos-eletronicos-de-identificacao", "studies": {
+"authentication": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"dataprotectionlaw": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Mentions data protection standards of the print works only; no law stated."}}},
+"idcoverage": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"CPV": {"facts": [{"sub_indicator": "maintenance", "aspect": "operation", "value": "transfer", "fact": "Cabo Verde's Resolution 95/2025 authorises the national press INCV to take over procurement, personalisation and issue of the electronic national ID card, residence permit and e-passport, which the report says reduces dependence on external suppliers.", "as_of": "2025-09", "date_precision": "month", "system": "Cartao Nacional de Identificacao Eletronico", "class": "idsystem"}], "systems": [{"system": "Cartao Nacional de Identificacao Eletronico", "country_label": "Cabo Verde", "class": "idsystem", "platform": "", "owner": "INCV (Imprensa Nacional de Cabo Verde)", "tiers": ""}], "note": ""}}},
+"idregisters": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"CPV": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "Cabo Verde's Resolution 95/2025 authorises INCV to produce the electronic national ID card at a new security print works financed through the GESTDOC project, per the Expresso das Ilhas report.", "as_of": "2025-09", "date_precision": "month", "system": "Cartao Nacional de Identificacao Eletronico", "class": "idsystem"}], "systems": [], "note": ""}}}
+}}

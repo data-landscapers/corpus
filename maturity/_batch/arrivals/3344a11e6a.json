@@ -1,0 +1,14 @@
+{
+  "slug": "2025-05-16-cog-osiane-le-congo-et-5-pays-voisins-desormais-interconnectes-par-fibre-o",
+  "studies": {
+    "internationalbandwidth": {"countries": {"COG": {
+      "facts": [
+        {"sub_indicator": "routes", "aspect": "routes", "value": "two", "fact": "Minister Léon Juste Ibombo said on 14 May 2025 that Congo is interconnected by fibre optic cable with DRC, Gabon, Central African Republic, Cameroon and Angola, and has landed the 2Africa submarine cable off Pointe-Noire.", "as_of": "2025-05-14", "date_precision": "day", "system": "Fibre links to neighbours and 2Africa landing", "class": "route"}
+      ],
+      "systems": [],
+      "note": "No in-service date for 2Africa and no wholesale terms are stated."}}},
+    "regionalinfrastructure": {"countries": {"COG": {"facts": [], "systems": [], "note": "Minister's claim of fibre interconnection names no party or arrangement in the neighbouring countries."}}},
+    "startups": {"countries": {"COG": {"facts": [], "systems": [], "note": "OSIANE is a tech fair with prizes; no startup law, label or fund is stated."}}},
+    "techhubs": {"countries": {"COG": {"facts": [], "systems": [], "note": "OSIANE is a fair; no hub, incubator or park is described."}}}
+  }
+}

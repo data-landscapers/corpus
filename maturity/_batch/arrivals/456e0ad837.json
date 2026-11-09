@@ -1,0 +1,11 @@
+{"slug": "2025-08-09-eth-fayda-id-required-for-addis-ababa-school-registration", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [], "systems": [], "note": "55 institutions linked services to Fayda, but no verification or authentication service is described."}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Says Fayda can serve as a unique number for birth and civil registration systems; no link stated as made or planned."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "States over 21 million registered but no population share, so no value from the list is settled."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Children under 5 may enrol with a parent's witness, but no number is given at birth registration."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the platform."}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No public register keyed on the number named."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The National ID Program's communications specialist says over 21 million Ethiopians have been registered for the Fayda digital ID, each given a 16-digit number, with fingerprints taken at enrolment from age 5.", "as_of": "2025-08", "date_precision": "month", "system": "Fayda", "class": "idsystem"}],
+"systems": [{"system": "Fayda", "country_label": "Ethiopia", "class": "idsystem", "platform": "", "owner": "National ID Program", "tiers": ""}], "note": ""}}}
+}}

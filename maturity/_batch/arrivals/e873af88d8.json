@@ -1,0 +1,16 @@
+{"slug":"2026-04-25-ner-niger-lancement-officiel-de-la-carte-d-identite-nationale-biometrique","studies":{
+"authentication":{"countries":{"NER":{"facts":[],"systems":[],"note":"No electronic authentication service stated; card enrolment only."}}},
+"birthidlink":{"countries":{"NER":{"facts":[],"systems":[],"note":"Birth certificate is a document required for enrolment; no record exchange stated."}}},
+"civilregister":{"countries":{"NER":{"facts":[],"systems":[],"note":"A draft civil status ordinance is mentioned with no digital register described."}}},
+"datacentres":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on data centres in Niger."}}},
+"digitalidlaw":{"countries":{"NER":{"facts":[],"systems":[],"note":"Only a draft civil status ordinance and an agency creation are mentioned; the document does not say they set up the identity system."}}},
+"digitalsovereignty":{"countries":{"NER":{"facts":[],"systems":[],"note":"General sovereignty statement only; nothing on state data."}}},
+"idcoverage":{"countries":{"NER":{"facts":[],"systems":[],"note":"No enrolment count or share stated."}}},
+"idfrombirth":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on numbers issued at birth."}}},
+"idmaintenance":{"countries":{"NER":{"facts":[{"sub_indicator":"maintenance","aspect":"operation","value":"supplier","fact":"The Libyan company Alitisal Aljadeed provides the production service for Niger's new biometric national identity card, per the Agence Nigerienne de Presse.","as_of":"2026-04-25","date_precision":"day","system":"AES national biometric identity card","class":"idsystem"}],"systems":[{"system":"AES national biometric identity card","country_label":"Niger","class":"idsystem","platform":"","owner":"Ministry of the Interior","tiers":""}],"note":""}}},
+"idregisters":{"countries":{"NER":{"facts":[],"systems":[],"note":"No register matching stated."}}},
+"idrobustness":{"countries":{"NER":{"facts":[{"sub_indicator":"robustness","aspect":"system","value":"underway","fact":"Niger's Ministry of the Interior launched general enrolment for the AES national biometric identity card on 25 April 2026 at Yantala police station in Niamey, to extend to all 20 Niamey stations and then the rest of the country.","as_of":"2026-04-25","date_precision":"day","system":"AES national biometric identity card","class":"idsystem"},{"sub_indicator":"robustness","aspect":"biometric","value":"checked","fact":"Enrolment captures fingerprints, face, voice and iris to build a digital model that the authorities say prevents identity theft and guarantees each citizen's uniqueness.","as_of":"2026-04-25","date_precision":"day","system":"AES national biometric identity card","class":"idsystem"}],"systems":[{"system":"AES national biometric identity card","country_label":"Niger","class":"idsystem","platform":"","owner":"Ministry of the Interior","tiers":""}],"note":""}}},
+"nationaldatacentres":{"countries":{"NER":{"facts":[],"systems":[],"note":"Nothing on data centres in Niger."}}},
+"police":{"countries":{"NER":{"facts":[],"systems":[],"note":"Police stations serve as enrolment points only; no police records stated."}}},
+"registry":{"countries":{"NER":{"facts":[],"systems":[],"note":"A draft civil status ordinance is mentioned with no registration system described."}}}
+}}

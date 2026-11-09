@@ -1,14 +1,10 @@
-{"slug": "2026-11-07-mus-pas-de-censure-des-reseaux-sociaux-jure-l-etat-qui-revoit-la-loi", "studies": {
-"cybersecurity": {"countries": {"MUS": {"facts": [
-{"sub_indicator": "readiness", "aspect": "foundation", "value": "body", "fact": "L'Express reports that the Cybersecurity and Cybercrime Act of 2021 created CERT-MU, the national response team.", "as_of": "2021", "date_precision": "year", "system": "CERT-MU", "class": "response"},
-{"sub_indicator": "readiness", "aspect": "figures", "value": "recorded", "fact": "L'Express reports that CERT-MU recorded 5,754 incident reports between 1 January and 5 November 2026, 1,697 of them online harassment; a count of reports, with no account of action taken.", "as_of": "2026-11-05", "date_precision": "day", "system": "CERT-MU", "class": "response"}
-], "systems": [{"system": "CERT-MU", "country_label": "Computer Emergency Response Team-Mauritius", "class": "response", "platform": "", "owner": "ICT ministry", "tiers": ""}], "note": ""}}},
-"cybersecuritylaw": {"countries": {"MUS": {"facts": [
-{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "L'Express reports that the Cybersecurity and Cybercrime Act of 2021 is the law that created CERT-MU, with amendments now submitted to the State Law Office.", "as_of": "2026-11-06", "date_precision": "day", "system": "Cybersecurity and Cybercrime Act 2021", "class": "law"},
-{"sub_indicator": "law", "aspect": "use", "value": "unnamed", "fact": "L'Express recalls that in November 2025 the Prime Minister told the National Assembly the Cybercrime Unit had handled 837 cases in nearly three years, with 120 arrests, without naming the law.", "as_of": "2025-11", "date_precision": "month", "system": "Cybersecurity and Cybercrime Act 2021", "class": "law"}
-], "systems": [], "note": ""}}},
-"itcapacity": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on government technical staff or systems."}}},
-"opendiscussion": {"countries": {"MUS": {"facts": [
-{"sub_indicator": "discussion", "aspect": "connection", "value": "cut", "fact": "L'Express recalls that almost exactly two years earlier, on the eve of the general election, the ICTA ordered the suspension of social networks.", "as_of": "2024-11", "date_precision": "month", "system": "", "class": "discussion"}
-], "systems": [], "note": "The cut falls outside the twelve months; no named critic or punishment stated."}}}
-}}
+{
+  "slug": "2026-11-07-mus-pas-de-censure-des-reseaux-sociaux-jure-l-etat-qui-revoit-la-loi",
+  "studies": {
+    "aiabuse": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Article is about social-media harms and cybercrime law; AI is not mentioned."}}},
+    "dataprotectionlaw": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No data protection law is mentioned."}}},
+    "digitalidlaw": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No identity law is mentioned."}}},
+    "ecommercelaw": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No electronic transactions or e-commerce law is mentioned."}}},
+    "interoperabilitylaw": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No law on public bodies sharing data is mentioned."}}}
+  }
+}

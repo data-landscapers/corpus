@@ -1,0 +1,17 @@
+{"slug": "2024-05-22-mus-mauritius-pioneering-next-generation-id-system", "studies": {
+"authentication": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "The Home Affairs PS (Prime Minister's Office) and Thales present the new Mauritian eID card as carrying a digital certificate for online authentication and eSignature.", "as_of": "2024-05-22", "date_precision": "day", "system": "Mauritius eID card certificate", "class": "authentication"}],
+"systems": [{"system": "MauPass / MauSign (Digital ID Wallet)", "country_label": "Mauritius", "class": "authentication", "platform": "Thales", "owner": "Prime Minister's Office", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No civil register link to the ID stated."}}},
+"civilregister": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Wallet holds a birth certificate credential only; no civil register system stated."}}},
+"digitalstrategy": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Names Digital Mauritius 2030 Strategy in a slide but states no adoption, text or reporting."}}},
+"idcoverage": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the system."}}},
+"idregisters": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No register keyed on the ID stated."}}},
+"idrobustness": {"countries": {"MUS": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The presenters describe an end-to-end ID system in which citizens register, biographic and biometric data are captured and a new eID card is produced and personalised.", "as_of": "2024-05-22", "date_precision": "day", "system": "Mauritius eID card and Identity Management System", "class": "idsystem"}],
+"systems": [{"system": "Mauritius eID card (IDMS)", "country_label": "Mauritius", "class": "idsystem", "platform": "Thales", "owner": "Prime Minister's Office", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Verifier app described but no service relying on the ID is named."}}},
+"registry": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Nothing on civil registration offices."}}}
+}}

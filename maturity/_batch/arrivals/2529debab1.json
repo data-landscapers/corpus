@@ -1,0 +1,18 @@
+{"slug": "2024-09-07-som-nira-and-nca-host-consultative-meeting-with-telecom-companies-to-integ", "studies": {
+"authentication": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No authentication, e-signature or PKI service stated."}}},
+"birthidlink": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
+"businesspayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No financial consumer rules stated."}}},
+"crossborderpayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No cross-border payments stated."}}},
+"g2ppayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No government payments stated."}}},
+"idcoverage": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Who operates or owns the ID system is not stated."}}},
+"idregisters": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No public register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No statement of issuance, biometrics or certification of the ID system."}}},
+"idverification": {"countries": {"SOM": {"facts": [{"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "NIRA and the National Communications Authority, meeting telecom companies on 7 September 2024, agreed to form technical committees to plan an MoU linking the National ID system with SIM registration and mobile money; no link is stated as built or in service.", "as_of": "2024-09-07", "date_precision": "day", "system": "National Identification System (NIRA)", "class": "relying"}], "systems": [{"system": "National Identification System", "country_label": "Somalia", "class": "other", "platform": "", "owner": "NIRA", "tiers": ""}], "note": ""}}},
+"paymentsuptake": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No survey share of adults with accounts stated."}}},
+"retailpayments": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Mobile money named only as a service to be tied to the ID; no licensing or service status stated."}}},
+"revenuecollection": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No electronic tax or fee payment stated."}}}
+}}

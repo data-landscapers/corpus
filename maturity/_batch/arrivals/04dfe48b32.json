@@ -1,0 +1,10 @@
+{"slug": "2026-11-08-egy-eg-darwish-egypt-needs-a-law-on-data-disclosure-and-circulation", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Opinion that no AI-specific criminal law is needed; no rule, authority or enforcement on AI harms stated."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"ailaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Former minister says no AI-specific criminal law is needed; no draft or rule in force on AI stated."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only advice that local firms build small specialised models; no model, dataset or computing stated."}}},
+"datacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No Egyptian data centre stated; only global investment figures and a call for local cloud."}}},
+"dataprotectionlaw": {"countries": {"EGY": {"facts": [{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Former minister Ahmed Darwish says Egypt has a personal data protection law, which he calls a good step.", "as_of": "2026-11-08", "date_precision": "day", "system": "Personal data protection law", "class": "general"}], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No nationally owned data centre stated."}}}
+}}

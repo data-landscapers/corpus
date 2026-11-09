@@ -1,0 +1,285 @@
+{
+ "slug": "2025-02-26-swz-deputy-governor-s-speech-the-nexus-between-aml-cft-and-financial-inclu",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No AI rule or authority stated."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only exploring AI for fraud detection at the central bank; no pilot stated."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only exploring AI for fraud detection; no pilot or service stated."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Banks verify customers' identification information online against the national civil registry through the national database centre, a new development still being improved, says the Central Bank of Eswatini's Deputy Governor.",
+       "as_of": "2025-02-26",
+       "date_precision": "day",
+       "system": "National database centre ID verification",
+       "class": "authentication"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "mandate",
+       "value": "licensing",
+       "fact": "The Central Bank of Eswatini says it has licensed and regulated mobile money operators since 2011.",
+       "as_of": "2011",
+       "date_precision": "year",
+       "system": "Mobile money licensing",
+       "class": "oversight"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "civilregister": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Only exploring a cross-border CBDC (Project Sunbird); no corridor stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "Financial institutions are integrated with the national database centre (Eswatini Royal Science Technology Park) to verify customers' ID information against the national civil registry, per the Central Bank of Eswatini's Deputy Governor.",
+       "as_of": "2025-02-26",
+       "date_precision": "day",
+       "system": "National database centre ID verification (Eswatini Royal Science Technology Park)",
+       "class": "relying"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National database centre ID verification",
+       "country_label": "Eswatini",
+       "class": "relying",
+       "platform": "",
+       "owner": "Eswatini Royal Science Technology Park",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "87% financial inclusion rate and 71% mobile money use (2018) are not stated as an account-ownership survey."
+    }
+   }
+  },
+  "refugees": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "displaced",
+       "aspect": "registration",
+       "value": "underway",
+       "fact": "The Central Bank of Eswatini and the Commissioner for Refugees recommend a permit or registration document for all refugees, to register them on the national civil registry and give them a national ID number; not yet implemented.",
+       "as_of": "2025-02-26",
+       "date_precision": "day",
+       "system": "Refugee registration on national civil registry",
+       "class": "displaced"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "registry": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on local civil registration offices entering events digitally."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "SWZ": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Central Bank of Eswatini has licensed and regulated mobile money operators since 2011, and by 2018 71% of adults were using mobile money, says its Deputy Governor.",
+       "as_of": "2018",
+       "date_precision": "year",
+       "system": "Mobile money",
+       "class": "retail"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Eswatini."
+    }
+   }
+  }
+ }
+}

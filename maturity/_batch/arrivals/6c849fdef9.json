@@ -1,0 +1,59 @@
+{
+  "slug": "2026-05-28-ken-project-profile-the-in-between-lives-of-the-double-registered",
+  "studies": {
+    "aiabuse": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Mentions AI only as the technique behind biometrics; no rule or authority on AI harms."}}},
+    "aigovernment": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No government body's AI system for administration is stated."}}},
+    "aisectoral": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No sectoral AI tool in a public system is stated."}}},
+    "aisystems": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No AI model, dataset or AI computing built in Kenya is stated."}}},
+    "authentication": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Describes fingerprint checks at ID application, not an electronic authentication service."}}},
+    "birthidlink": {"countries": {"KEN": {
+      "facts": [
+        {"sub_indicator": "link", "aspect": "link", "value": "inservice", "fact": "The Elephant says the IPRS, Kenya's national master population database, consolidates civil registration data including births and deaths with national ID data, with the NRB relying on it to process ID applications.", "as_of": "2026-05", "date_precision": "month", "system": "Integrated Population Registration System (IPRS)", "class": "crvslink"}
+      ],
+      "systems": [
+        {"system": "Integrated Population Registration System (IPRS)", "country_label": "Kenya", "class": "crvslink", "platform": "", "owner": "National Registration Bureau", "tiers": ""}
+      ],
+      "note": ""}}},
+    "civilregister": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Names births and deaths only as data inside IPRS; no digital civil registration service or coverage is stated."}}},
+    "idcoverage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No count or share of the population holding an ID is given."}}},
+    "idfrombirth": {"countries": {"KEN": {"facts": [], "systems": [], "note": "IDs are applied for at 18; the Maisha Number is described as lifetime but no number at birth is stated."}}},
+    "idmaintenance": {"countries": {"KEN": {
+      "facts": [
+        {"sub_indicator": "maintenance", "aspect": "operation", "value": "national", "fact": "The Elephant says AFIS is managed by the National Registration Bureau, which issues identification documents, and that officials upgraded the existing IPRS-AFIS infrastructure into the Maisha system rather than build a new one.", "as_of": "2026-05", "date_precision": "month", "system": "AFIS / Maisha Integrated Identity System", "class": "idsystem"}
+      ],
+      "systems": [
+        {"system": "Automated Identification System (AFIS)", "country_label": "Kenya", "class": "idsystem", "platform": "", "owner": "National Registration Bureau", "tiers": ""}
+      ],
+      "note": ""}}},
+    "idregisters": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No electoral, tax, payroll, social or business register keyed on the ID number is stated."}}},
+    "idrobustness": {"countries": {"KEN": {
+      "facts": [
+        {"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "The Elephant says the Maisha system issues the Maisha Number, a unique lifetime personal identifier, and the Maisha Card replacing earlier national ID cards, on top of the IPRS-AFIS infrastructure.", "as_of": "2026-05", "date_precision": "month", "system": "Maisha Integrated Identity System", "class": "idsystem"},
+        {"sub_indicator": "robustness", "aspect": "biometric", "value": "checked", "fact": "The Elephant says AFIS confirms fingerprint biometrics and detects duplicate or fraudulent registrations when ID applications are processed; an upgrade to ABIS adding face and iris is under way.", "as_of": "2026-05", "date_precision": "month", "system": "Automated Identification System (AFIS)", "class": "idsystem"}
+      ],
+      "systems": [
+        {"system": "Maisha Integrated Identity System", "country_label": "Kenya", "class": "idsystem", "platform": "IPRS-AFIS", "owner": "National Registration Bureau", "tiers": ""}
+      ],
+      "note": ""}}},
+    "idverification": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No other system checking people against the national ID is stated."}}},
+    "police": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No police station record system is mentioned."}}},
+    "populationregister": {"countries": {"KEN": {
+      "facts": [
+        {"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "The Elephant describes the IPRS as Kenya's National Master Population Database in use for processing ID applications.", "as_of": "2026-05", "date_precision": "month", "system": "Integrated Population Registration System (IPRS)", "class": "population"},
+        {"sub_indicator": "population", "aspect": "vital", "value": "updated", "fact": "The Elephant says the IPRS consolidates civil registration data, including records of births and deaths.", "as_of": "2026-05", "date_precision": "month", "system": "Integrated Population Registration System (IPRS)", "class": "population"}
+      ],
+      "systems": [
+        {"system": "Integrated Population Registration System (IPRS)", "country_label": "Kenya", "class": "population", "platform": "", "owner": "National Registration Bureau", "tiers": ""}
+      ],
+      "note": ""}}},
+    "refugees": {"countries": {"KEN": {
+      "facts": [
+        {"sub_indicator": "displaced", "aspect": "registration", "value": "underway", "fact": "The Elephant says UNHCR gave the Kenyan government access to its proGres database in April 2016 as part of transferring responsibility for registering refugees and asylum seekers and status determination to the government.", "as_of": "2016-04", "date_precision": "month", "system": "proGres", "class": "displaced"}
+      ],
+      "systems": [
+        {"system": "proGres v4", "country_label": "Kenya", "class": "displaced", "platform": "", "owner": "UNHCR", "tiers": ""}
+      ],
+      "note": ""}}},
+    "registry": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No local civil registration office entering births or deaths digitally is stated."}}}
+  }
+}

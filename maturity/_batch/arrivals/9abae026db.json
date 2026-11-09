@@ -1,0 +1,146 @@
+{
+ "slug": "2026-05-29-sdn-press-statement-sudanese-cybersecurity-authority-sca",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "authentication",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "The Sudanese Cybersecurity Authority says SUDAPASS encryption keys and digital certificates are managed by the National Authority for Digital Certification.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "SUDAPASS",
+       "class": "authentication"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SUDAPASS",
+       "country_label": "Sudan",
+       "class": "authentication",
+       "platform": "National Digital Identity Platform",
+       "owner": "Sudanese Cybersecurity Authority; keys and certificates with NADC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "maintenance",
+       "aspect": "operation",
+       "value": "national",
+       "fact": "The Sudanese Cybersecurity Authority says SUDAPASS is developed and operated by qualified Sudanese professionals.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "SUDAPASS",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SUDAPASS",
+       "country_label": "Sudan",
+       "class": "idsystem",
+       "platform": "National Digital Identity Platform",
+       "owner": "Sudanese Cybersecurity Authority; keys and certificates with NADC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "inservice",
+       "fact": "The Sudanese Cybersecurity Authority says the national digital identity platform SUDAPASS has been developed and operated to security requirements.",
+       "as_of": "2026-05",
+       "date_precision": "month",
+       "system": "SUDAPASS",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SUDAPASS",
+       "country_label": "Sudan",
+       "class": "idsystem",
+       "platform": "National Digital Identity Platform",
+       "owner": "Sudanese Cybersecurity Authority; keys and certificates with NADC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

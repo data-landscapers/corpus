@@ -1,0 +1,21 @@
+{"slug": "2026-04-15-zaf-huge-win-for-home-affairs-after-6-500-fee-increase", "studies": {
+"authentication": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Home Affairs' Online Verification Service checks identities against the National Population Register in real time in seconds, with uptime upgraded to 99%, says Minister Leon Schreiber.", "as_of": "2026-04", "date_precision": "month", "system": "Online Verification Service", "class": "authentication"},
+{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "Network operators, banks and other companies use Home Affairs' Online Verification Service to verify their customers' identities, per BusinessTech reporting the ACT's statements.", "as_of": "2026-04", "date_precision": "month", "system": "Online Verification Service", "class": "authentication"}
+], "systems": [{"system": "Online Verification Service", "country_label": "South Africa", "class": "authentication", "platform": "National Population Register verification", "owner": "Department of Home Affairs", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
+"digitalstrategy": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "A new Digital Identity system is mentioned but no national digital strategy."}}},
+"idcoverage": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
+"idfrombirth": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Cost of maintaining and upgrading the system is mentioned but no operator, staff or ownership is stated."}}},
+"idregisters": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "No public register keyed on the national number is described."}}},
+"idrobustness": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Smart ID is mentioned only as a service at bank branches; nothing on uniqueness, biometrics or certification."}}},
+"idverification": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "Network operators, banks and other companies verify customers' identities through Home Affairs' Online Verification Service; the fee per check rose from 15 cents to R10 in July 2025, per BusinessTech.", "as_of": "2025-07", "date_precision": "month", "system": "Online Verification Service", "class": "relying"},
+{"sub_indicator": "use", "aspect": "sectors", "value": "several", "fact": "Mobile network operators (SIM verification under RICA) and banks both verify customers against Home Affairs' Online Verification Service, per BusinessTech reporting the ACT's statements.", "as_of": "2026-04", "date_precision": "month", "system": "Online Verification Service", "class": "relying"}
+], "systems": [], "note": ""}}},
+"populationregister": {"countries": {"ZAF": {"facts": [
+{"sub_indicator": "population", "aspect": "register", "value": "inservice", "fact": "Home Affairs' National Population Register is in service, with a new cost structure for access through the Online Verification Service live from July 2025, per BusinessTech.", "as_of": "2025-07", "date_precision": "month", "system": "National Population Register", "class": "population"},
+{"sub_indicator": "population", "aspect": "used", "value": "source", "fact": "Network operators, banks and other companies verify customers' identities against the National Population Register through Home Affairs' Online Verification Service, per BusinessTech.", "as_of": "2026-04", "date_precision": "month", "system": "National Population Register", "class": "population"}
+], "systems": [{"system": "National Population Register", "country_label": "South Africa", "class": "population", "platform": "", "owner": "Department of Home Affairs", "tiers": ""}], "note": ""}}}
+}}

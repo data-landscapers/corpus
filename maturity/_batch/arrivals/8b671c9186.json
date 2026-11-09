@@ -1,0 +1,125 @@
+{
+ "slug": "2026-01-28-mdg-madagascar-colonel-michael-randrianirina-mettre-fin-aux-doublons-dans",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Madagascar."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Madagascar."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a statement that enrolment will end duplicates in electoral lists; no digital voter register is procured or piloted."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Madagascar."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Madagascar."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Madagascar."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Madagascar."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "robustness",
+       "aspect": "system",
+       "value": "underway",
+       "fact": "The pilot phase of national biometric enrolment, issuing a free lifelong unique identifier (NIU), began on 27 January 2026 in Atsimondrano district, with national rollout planned for April to June 2026, financed by the World Bank's PRODIGY project.",
+       "as_of": "2026-01-27",
+       "date_precision": "day",
+       "system": "NIU biometric enrolment",
+       "class": "idsystem"
+      },
+      {
+       "sub_indicator": "robustness",
+       "aspect": "biometric",
+       "value": "checked",
+       "fact": "Officials say fingerprint, facial and iris capture in the enrolment is meant to guarantee uniqueness of data and end duplicates in citizen identification.",
+       "as_of": "2026-01-27",
+       "date_precision": "day",
+       "system": "NIU biometric enrolment",
+       "class": "idsystem"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NIU biometric enrolment",
+       "country_label": "Madagascar",
+       "class": "idsystem",
+       "platform": "",
+       "owner": "Ministry of Interior",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Madagascar."
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "The document states nothing this study asks for Madagascar."
+    }
+   }
+  }
+ }
+}
