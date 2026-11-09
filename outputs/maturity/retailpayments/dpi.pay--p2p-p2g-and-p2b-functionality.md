@@ -21,8 +21,8 @@ The African Union's Digital Transformation Strategy asks for interoperable e-mon
 | Stage | Countries |
 |---|---|
 | 5 Leading | 27 |
-| 4 Operating | 16 |
-| 3 Established | 10 |
+| 4 Operating | 17 |
+| 3 Established | 9 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -256,6 +256,7 @@ Payments between mobile money providers or with banks were in service in 2026; n
 
 - TechCabal says Kenyan commercial banks compete over how seamlessly customers can move funds between accounts and mobile wallets ([source, 2026-09](https://techcabal.com/2026/09/27/kenyas-payments-revolution-cannot-end-with-mobile-money/)).
 - Pesalink, run by the Kenya Bankers Association's IPSL, connects banks, telcos and microfinance institutions (TechCabal) ([source, 2026-04-03](https://techcabal.com/2026/04/03/kenswitch-visa-deal-stakes-kenya-payments-overhaul/)).
+- The Kenswitch release says its domestic switch enables interoperability among banks, SACCOs, microfinance institutions and mobile money network providers across multiple payment channels ([source, 2026-11-02](https://www.business-standard.com/content/press-releases-ani/kenswitch-partners-with-payu-s-wibmo-to-strengthen-online-card-security-in-kenya-126110200460_1.html)).
 
 ### Liberia: 4 Operating
 
@@ -304,6 +305,13 @@ Payments between mobile money providers or with banks were in service in 2026; n
 
 - PI-SPI, the BCEAO's instant payment platform, allows instant transfers and payments between banks, e-money institutions and payment institutions, and Wave was authorised on it for Senegal on 30 September 2026 ([source, 2026-09-30](https://www.agenceecofin.com/actualites-finance/0110-142036-wave-rejoint-la-plateforme-de-paiement-instantane-de-la-bceao-un-an-apres-son-lancement)).
 - PI-SPI, in service since 30 September 2025, enables transfers and payments between accounts at banks, e-money institutions, microfinance institutions and payment institutions, including by interoperable QR code; 80 participants were connected at 24 June 2026 ([source, 2026-06-24](https://www.seneweb.com/fr/news/Economie/mobile-money-pourquoi-le-duel-orange-money-wave-ne-resume-plus-le-marche_n_505004.html)).
+
+### Sudan: 4 Operating
+
+Wallet users could send money to and from all banks in 2026; whether a national switch joins wallets and banks is not known.
+
+- Sudani Fintech says Sah users can transfer to and from all banks in Sudan using the BBAN ([source, 2026-04-14](https://www.sudatel.sd/en/news-and-announcement/sudani-fintech-launches-sah-platform/)).
+- Sudan Horizon says the BBAN service lets Bede wallet users send and receive funds across all Sudanese banks ([source, 2026-10-13](https://sudanhorizon.com/bede-sudan-launches-bban-service-to-strengthen-banking-integration-and-expand-digital-transaction/)).
 
 ### Togo: 4 Operating
 
@@ -364,13 +372,6 @@ Mobile money or e-money was in service in 2026; no source found reports payments
 
 - The article describes rules for operating electronic money systems in South Sudan, with transaction limits by customer tier and agent reporting, implying mobile money services are in operation ([source, 2026-09-01](https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/)).
 - MTN MoMo, a mobile money service, trained 1,225 South Sudanese entrepreneurs to accept digital payments, sell airtime and provide cash-in services, per Tech Africa News ([source, 2026-08-24](https://techafricanews.com/2026/08/24/mtn-momo-equips-1225-entrepreneurs-digital-finance-skills/)).
-
-### Sudan: 3 Established
-
-Mobile money or e-money was in service in 2026; no source found reports payments between providers.
-
-- The Sudan Times describes Bankak as one of Sudan's most widely used banking applications, used by customers to pay traders in Darfur ([source, 2026-09-15](https://thesudantimes.com/sudan/dagalo-orders-unified-cash-digital-payment-prices-in-darfur/)).
-- Banking expert Abdullatif Ali Ibrahim says Bankak, the Bank of Khartoum app, remains Sudan's leading digital transfer platform, used for daily and commercial transactions, with Fawry and other bank services also operating (Dabanga) ([source, 2026-09-10](https://www.dabangasudan.org/en/all-news/article/bankak-outages-disrupt-sudans-digital-payments-and-markets)).
 
 ### Tunisia: 3 Established
 

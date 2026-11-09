@@ -1,17 +1,18 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "retail",
-   "stage": "4",
-   "service": "inservice",
-   "interop": "interop",
-   "switch": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-010;KEN-013",
-   "gaps": "No source found since October 2023 says a national switch connects wallets and bank accounts.",
-   "note": "First pass: counted from the four questions by study-ladder-retailpayments.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "retail",
+      "stage": "4",
+      "service": "inservice",
+      "interop": "interop",
+      "switch": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-010;KEN-013;KEN-028",
+      "gaps": "No source found says one national switch connects wallets and bank accounts. Kenswitch calls itself Kenya's domestic switch joining banks and mobile money providers, but Pesalink does the same, and transfers between M-PESA, banks and other wallets pass through several platforms.",
+      "note": "Banks, wallets and telcos interoperate through Pesalink and Kenswitch, so 4. Two switches share the traffic and transfers pass through several platforms, so no single national switch is shown and not 5.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }

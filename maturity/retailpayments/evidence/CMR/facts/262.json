@@ -1,0 +1,26 @@
+{
+ "slug": "2025-05-01-cmr-procedure-d-obtention-des-titres-identitaires",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The DGSN brochure lists Yoomee, MTN Mobile Money and Orange Money as ways to pay the identity-card fee online.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Mobile money (Yoomee, MTN Mobile Money, Orange Money)",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mobile money (Yoomee, MTN Mobile Money, Orange Money)",
+   "country_label": "Cameroon",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

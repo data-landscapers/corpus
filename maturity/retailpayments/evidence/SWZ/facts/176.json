@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-26-swz-deputy-governor-s-speech-the-nexus-between-aml-cft-and-financial-inclu",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Central Bank of Eswatini has licensed and regulated mobile money operators since 2011, and by 2018 71% of adults were using mobile money, says its Deputy Governor.",
+   "as_of": "2018",
+   "date_precision": "year",
+   "system": "Mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

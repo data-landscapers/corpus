@@ -1,17 +1,18 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "retail",
-   "stage": "3",
-   "service": "inservice",
-   "interop": "",
-   "switch": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SDN-001;SDN-007",
-   "gaps": "No source found since October 2023 says payments between providers, or between wallets and banks, are in service.",
-   "note": "First pass: counted from the four questions by study-ladder-retailpayments.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "retail",
+      "stage": "4",
+      "service": "inservice",
+      "interop": "interop",
+      "switch": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SDN-013;SDN-005",
+      "gaps": "No source found since October 2023 says a national switch connects wallets and bank accounts.",
+      "note": "Sudani Fintech's Sah, launched in April 2026, and Zain's Bede wallet let users send and receive funds across all Sudanese banks, so wallet-to-bank payments are in service. No national switch is named, so not 5.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }

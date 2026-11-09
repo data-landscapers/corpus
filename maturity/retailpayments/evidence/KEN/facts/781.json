@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-07-ken-redtech-plans-a-kenya-nigeria-payments-corridor-with-kenyan-launch-in",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Techweez reports M-Pesa holds about 89% of mobile money subscriptions in Kenya and businesses already use mobile money to collect from customers and pay suppliers.",
+   "as_of": "2026-11-07",
+   "date_precision": "day",
+   "system": "M-Pesa",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-Pesa",
+   "country_label": "M-Pesa",
+   "class": "retail",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -148,6 +148,7 @@ CMR,MTN Mobile Money,Cameroon,retail,,MTN,,2026-11-02-cmr-cameroon-finds-3-914-f
 CMR,Orange Money,Cameroon,retail,,Orange,,2026-11-02-cmr-cameroon-finds-3-914-fintech-security-vulnerabilities-after-earlier-au
 CMR,SchoolMap,Cameroon,other,SchoolMap,Ministry of Secondary Education,,2024-08-28-cmr-cameroon-deploys-schoolmap-to-simplify-tuition-payment
 CMR,Matricule Unique,Cameroon,other,school card platform (carte scolaire),Ministry of Secondary Education (MINESEC),,2024-08-01-cmr-matricule-unique-nouvelle-etape-de-la-digitalisation-de-l-enseignement
+CMR,"Mobile money (Yoomee, MTN Mobile Money, Orange Money)",Cameroon,retail,,,,2025-05-01-cmr-procedure-d-obtention-des-titres-identitaires
 COD,FlashApp,DRC,retail,,Flash,,2026-07-14-mastercard-flash-digital-financial-inclusion-drc-techafricanews
 COD,MainMoney,COD,retail,Keyo palm biometrics,AI.Tech,,2026-05-11-mainmoney-palm-biometrics-financial-inclusion-drc-biometricupdate
 COD,MainMoney,DR Congo,retail,palm-vein payment terminal,MainMoney,,2026-04-30-mainmoney-palm-vein-lancement-actualite
@@ -175,6 +176,7 @@ COM,MVola,Comoros,retail,,AXIAN,,2025-11-26-axian-digibank-fintech-rebrand-techc
 COM,MVola,Comoros,retail,,AXIAN,,2026-02-24-axian-central-bank-approval-digital-finance-institution-techafricanews
 COM,Decentralised Digital Financial Institution licence,Comoros,other,,AXIAN,,2026-02-24-axian-central-bank-approval-digital-finance-institution-techafricanews
 COM,Mvola Comores,Comoros,retail,mobile money,Telma Comores,,2024-02-22-com-transfert-d-argent-mvola-comores-lance-de-nouveaux-services
+COM,MVola,Comoros,retail,mobile money,Telco Money S.A. (Yas),,2025-01-16-com-mvola-particuliers
 CPV,Makeba,Cabo Verde,retail,,Banco BAI,,2021-09-30-cpv-balai-estudo-moeda-eletronica-makeba
 CPV,Televinti4,Cabo Verde,retail,mobile app,SISP,,2024-03-03-cpv-expressodasilhas-televinti4-penetracao-baixa
 CPV,Vinti4 network,Cabo Verde,other,card network,SISP,,2024-03-03-cpv-expressodasilhas-televinti4-penetracao-baixa
@@ -389,6 +391,7 @@ KEN,IPSL payment scheme,Kenya,other,Tazama,Integrated Payment Services Limited,,
 KEN,M-PESA,M-PESA,retail,,Safaricom,,2026-11-06-wayawaya-partners-choice-bank
 KEN,Airtel Money,Airtel Money,retail,,Airtel,,2026-11-06-wayawaya-partners-choice-bank
 KEN,Pesalink,Kenya,other,,Kenya Bankers Association (operated by IPSL),,2026-11-04-ken-postbank-opens-600-agent-points-to-other-banks-via-pesalink
+KEN,M-Pesa,M-Pesa,retail,,,,2026-11-07-ken-redtech-plans-a-kenya-nigeria-payments-corridor-with-kenyan-launch-in
 LBR,Inclusive Instant Payment System,Liberia,retail,instant payment,Central Bank of Liberia,Lonestar MTN Mobile Money; Orange Money Liberia,2026-10-01-liberian-observer-liberia-instant-payment-system-5-3m-transactions
 LBR,Inclusive Instant Payment System (IIPS),Liberia,retail,Mojaloop,Central Bank of Liberia,,2026-09-26-lbr-finance-minister-washington-diaspora-payments
 LBR,National Electronic Payment Switch,Liberia,retail,,Government of Liberia,planned,2026-09-26-lbr-finance-minister-washington-diaspora-payments
@@ -432,6 +435,7 @@ LSO,LeSwitch,Lesotho,retail,national payment switch,Central Bank of Lesotho with
 LSO,CIPS,Lesotho,other,RMB settlement,Standard Bank access,,2026-07-27-standard-bank-cips-cny-8-billion-africa-china
 LSO,EcoCash,Lesotho,retail,,,,2025-06-01-lso-rsl-guide-on-tax-registration
 LSO,M-Pesa,Lesotho,retail,,,,2025-06-01-lso-rsl-guide-on-tax-registration
+LSO,M-Pesa,Lesotho,retail,M-Pesa Super App,Vodacom Lesotho,,2026-11-06-lso-vodacom-lesotho-extends-m-pesa-app-to-iphones
 MAR,M-Wallet,Morocco,retail,mobile wallet,payment institutions and banks,,2026-04-01-bkam-snif-rapport-annuel-exercice-2023
 MAR,Fatourati,Morocco,retail,,CMI,,2026-02-18-cmi-fatourati-agregateur-fintechs-editeurs
 MAR,MarocPay,Morocco,retail,,,,2025-09-08-cmi-fatourati-collect-reglement-multicanal

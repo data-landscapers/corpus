@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-02-ken-kenswitch-wibmo-3ds-access-control-server-partnership",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "The Kenswitch release says its domestic switch enables interoperability among banks, SACCOs, microfinance institutions and mobile money network providers across multiple payment channels.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "Kenswitch",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "switch",
+   "value": "national",
+   "fact": "The Kenswitch release says Kenswitch is Kenya's domestic payment switch connecting banks and mobile money network providers, with a member network of 2,500+ ATMs, 50,000+ POS terminals and 80,000+ agents.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "Kenswitch",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
