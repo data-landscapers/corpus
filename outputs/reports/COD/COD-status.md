@@ -1,12 +1,12 @@
 ---
 title: DR Congo: status report
-compiled: 2026-11-08
+compiled: 2026-11-09
 place: COD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 6
-sources_cited: 277
+sources_cited: 280
 sections_written: 39
 not_established: 1
 acquire_lines: 50
@@ -49,7 +49,7 @@ In 2026 Kinshasa's provincial government [announced drone surveillance paired wi
 
 DR Congo belongs to COMESA, the East African Community, ECCAS and SADC, and [scores 26.0 out of 100 on regional integration, 45th of 54 African states and down 4.9 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cd.pdf).
 
-A [terrestrial route from Goma to Mombasa was lit in February 2026](https://itweb.africa/article/paratus-lights-up-new-east-africa-fibre-highway-linking-goma-to-mombasa/wbrpOqg2aJQMDLZn), tying eastern Congo into the East African submarine corridor. It gives Goma a land path to the Kenyan coast.
+A [terrestrial route from Goma to Mombasa was lit in February 2026](https://itweb.africa/article/paratus-lights-up-new-east-africa-fibre-highway-linking-goma-to-mombasa/wbrpOqg2aJQMDLZn), tying eastern Congo into the East African submarine corridor. It gives Goma a land path to the Kenyan coast. [A cable from Kigoma in Tanzania to Kalemie under Lake Tanganyika was 5% built on the Tanzanian shore in August 2026, with completion expected in April 2027](https://www.mawasiliano.go.tz/news/naibu-waziri-mkama-akagua-mradi-wa-mkongo-wa-taifa-kuunganisha-tanzania-na-drc). In May 2026 the ICT ministries of Uganda and DR Congo [signed a memorandum to connect Uganda's national backbone to the Congolese network](https://ict.go.ug/media/news/uganda-and-drc-deepen-digital-and-regional-cooperation). To the west, [a terrestrial route from Luanda to Cape Town through Kinshasa and Kananga was launched in July 2023](https://acp.cd/nation/fibre-optique-lancement-de-la-connectivite-terrestre-entre-luanda-et-cape-town-a-kinshasa/).
 
 [A federated eKYC framework presented in August 2025 aims to cover 16 SADC states, DR Congo among them](https://www.biometricupdate.com/202508/regional-dpi-initiative-supports-kyc-digital-id-interoperability-across-16-countries). Congolese identity [cannot yet be checked across borders through a shared system](https://www.biometricupdate.com/202508/regional-dpi-initiative-supports-kyc-digital-id-interoperability-across-16-countries). [The framework follows a cross-border verification pilot between South Africa and Lesotho](https://www.biometricupdate.com/202508/regional-dpi-initiative-supports-kyc-digital-id-interoperability-across-16-countries). Cross-border remittances into the country [run mainly over the counter through international providers partnered with banks](https://migrantmoney.uncdf.org/wp-content/uploads/2025/05/Policy-Diagnostic-DRC-April2025.pdf) (2025). [Mobile money operators are barred from cross-border remittance, and the country has yet to join the East African Payment System](https://migrantmoney.uncdf.org/wp-content/uploads/2025/05/Policy-Diagnostic-DRC-April2025.pdf). On 18 September 2026 the central bank [signed accession to the Pan-African Payment and Settlement System and the East African central banks' memorandum on currency convertibility](https://actualite.cd/2026/09/21/eac-papss-ia-la-bcc-accelere-lintegration-de-la-rdc-dans-lecosysteme-financier-africain).
 
