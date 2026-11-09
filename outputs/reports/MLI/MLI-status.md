@@ -1,12 +1,12 @@
 ---
 title: Mali: status report
-compiled: 2026-11-08
+compiled: 2026-11-09
 place: MLI
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 7
-sources_cited: 191
+sources_cited: 194
 sections_written: 39
 not_established: 4
 acquire_lines: 46
@@ -187,7 +187,7 @@ In September 2025 [the health ministry presented OpenClinic with its link to the
 ### Digital Identity and CRVS
 <!-- dpi.id -->
 
-In 2025 Mali's identity system [supported neither digital know-your-customer nor authentication through a government portal](https://dpimap.org/mali/). [Identity is verified by physical inspection of the document](https://dpimap.org/mali/). Behind it sits a biometric register of national scale. By August 2023 [5,733,428 biometric national identity cards had been produced against 8,463,084 people listed as eligible in the RAVEC database](https://bamada.net/situation-de-la-carte-didentite-nationale-biometrique-au-mali-5-733-428-cartes-disponible-sur-les-8-463-084-personnes-aptes-dans-la-base-de-donnees-du-ravec), roughly two-thirds.
+In 2025 Mali's identity system [supported neither digital know-your-customer nor authentication through a government portal](https://dpimap.org/mali/). [Identity is verified by physical inspection of the document](https://dpimap.org/mali/). [Since 1 February 2023 SIM registration has required the national identification number](https://www.digitalbusiness.africa/mali-lamrtp-edifie-les-consommateurs-sur-limportance-de-lidentification-des-cartes-sim/). In July 2025 [subscribers found lines registered on their number without consent](https://www.maliweb.net/economie/telecom/identification-des-puces-orange-mali-stupefaction-et-coleres-3107932.html), and the regulator [ordered operators to let every subscriber check the lines linked to it](https://bamada.net/identification-des-abonnes-telephoniques-lamrtp-renforce-les-mesures-de-fiabilite-autour-du-nina-et-de-lacquisition-des-cartes-sim). Behind it sits a biometric register of national scale. By August 2023 [5,733,428 biometric national identity cards had been produced against 8,463,084 people listed as eligible in the RAVEC database](https://bamada.net/situation-de-la-carte-didentite-nationale-biometrique-au-mali-5-733-428-cartes-disponible-sur-les-8-463-084-personnes-aptes-dans-la-base-de-donnees-du-ravec), roughly two-thirds.
 
 The credential rests on [Decree 2025-0509 of 25 July 2025, which instituted the Sahel confederation biometric identity card](https://sgg-mali.ml/JO/2025/mali-jo-2025-23.pdf). [The card is valid five years and carries the national identification number, and the decree repealed the 2022 decree on the secure biometric card](https://sgg-mali.ml/JO/2025/mali-jo-2025-23.pdf). Enrolment [captures fingerprints and a facial photograph, with no iris](https://dpimap.org/mali/). [The practice is unchanged from the 2009-2011 RAVEC census to the 2025 biometric passport](https://dpimap.org/mali/). Malians nonetheless [rate the ease of obtaining an identity document at 69.9 out of 100, 8th of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf). [The score rose 5.7 points over 2014-2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ml.pdf), while the civil registration score collapsed.
 
