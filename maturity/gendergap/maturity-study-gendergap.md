@@ -47,6 +47,7 @@ Asked in order. Each is answered with a date and a link.
 
 - **The lines are the frame's own provisional cuts** (`lookups/maturity-measures.csv`, direction lower), fixed and not redrawn as quintiles.
 - **A rise is a rise**: the latest figure sets the stage. No figure for 2023 or later is *unplaced*; none at all is *No evidence*. A figure below zero, women's use the higher, counts as parity.
+- **Afrobarometer counts as a national household survey**, on equal terms with DHS and MICS and ahead of ITU's series *(Bill, 2026-11-09, message 86)*. **A figure for part of the population does not count**: Tunisia's census figure for literate people aged 10 and over is unplaced *(Bill, message 87)*.
 
 `study.json` holds this as one aspect, `gap`, whose value is the figure (`official:…`).
 

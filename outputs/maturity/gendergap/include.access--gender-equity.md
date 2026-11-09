@@ -22,9 +22,9 @@ The Maputo Protocol asks for women's access to and control of information techno
 |---|---|
 | 5 Leading | 2 |
 | 4 Operating | 2 |
-| 3 Established | 4 |
+| 3 Established | 3 |
 | 2 Nascent | 1 |
-| 1 Absent | 0 |
+| 1 Absent | 1 |
 | Unplaced | 22 |
 | No evidence | 23 |
 
@@ -66,12 +66,6 @@ In 2024, the gender gap in internet use was 14.8 per cent.
 
 - The gender gap in internet use in Kenya was 14.8 per cent in 2024, by ITU's internet use series by sex ([source, 2024](https://unstats.un.org/sdgs/dataportal)).
 
-### Malawi: 3 Established
-
-In 2023, the gender gap in internet use was 14.4 per cent.
-
-- The gender gap in internet use in Malawi was 14.4 per cent in 2023, by ITU's internet use series by sex ([source, 2023](https://unstats.un.org/sdgs/dataportal)).
-
 ### Morocco: 3 Established
 
 In 2024, the gender gap in internet use was 14.6 per cent.
@@ -83,6 +77,12 @@ In 2024, the gender gap in internet use was 14.6 per cent.
 In 2024, the gender gap in internet use was 28.3 per cent.
 
 - The gender gap in internet use in Uganda was 28.3 per cent in 2024, by ITU's internet use series by sex ([source, 2024](https://unstats.un.org/sdgs/dataportal)).
+
+### Malawi: 1 Absent
+
+In 2024, the gender gap in internet use was 45.5 per cent, by Afrobarometer's survey.
+
+- Afrobarometer's 2024 survey found 33% of men and 18% of women in Malawi use the internet at least a few times a month, a gender gap of 45.5 per cent ([source, 2024](https://www.afrobarometer.org/wp-content/uploads/2025/12/AD1094-Leave-no-Malawian-offline-Understanding-the-digital-divide-Afrobarometer-17dec25.pdf)).
 
 ### Algeria: Unplaced
 

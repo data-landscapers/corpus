@@ -3,7 +3,7 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "5",
+      "stage": "3",
       "payment": "inservice",
       "streams": "",
       "linked": "linked",
@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MAR-002;MAR-003",
       "gaps": "No source found since October 2023 shows civil service salaries or pensions paid digitally.",
-      "note": "Direct Social Support is paid monthly into payment accounts and eligibility is verified against the Unified Social Register by monthly data exchanges (November 2025), a yes to question 4, so stage 5.",
-      "as_at": "2026-11-06"
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 89): Direct Social Support paid into payment accounts are one stream, so 3. The registry or ID check counts only once two main streams are paid digitally.",
+      "as_at": "2026-11-09"
     }
   ]
 }

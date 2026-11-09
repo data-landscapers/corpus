@@ -3,7 +3,7 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "5",
+      "stage": "3",
       "payment": "inservice",
       "streams": "",
       "linked": "linked",
@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "STP-001;STP-004",
       "gaps": "No source found since October 2023 shows civil service salaries or pensions paid digitally.",
-      "note": "Ke Non pays the Vulnerable Family Programme by bank transfer (2025) and identifies clients against the national civil registry, holding the Unique Social Registry (February 2024), a yes to question 4, so stage 5.",
-      "as_at": "2026-11-06"
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 89): the Vulnerable Family Programme paid by bank transfer are one stream, so 3. The registry or ID check counts only once two main streams are paid digitally.",
+      "as_at": "2026-11-09"
     }
   ]
 }

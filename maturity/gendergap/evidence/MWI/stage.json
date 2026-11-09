@@ -3,14 +3,14 @@
   "cells": [
     {
       "sub_indicator": "gender",
-      "stage": "3",
-      "gap": "official:14.3617",
+      "stage": "1",
+      "gap": "official:45.4545",
       "cap": "",
       "flags": "",
-      "stage_sources": "MWI-001",
-      "gaps": "The latest figure, 14.4 per cent for 2023, is above 10.",
-      "note": "The latest figure, 14.4 per cent for 2023 from ITU's series, is 20 or less but above 10, so 3 and not 4. Afrobarometer's 2024 survey (33 per cent of men, 18 of women online a few times a month) is an opinion survey with its own definition, not a household ICT survey, and is not staged.",
-      "as_at": "2026-11-05"
+      "stage_sources": "MWI-002",
+      "gaps": "The latest figure, 45.5 per cent for 2024, is above 30.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 86): Afrobarometer counts on equal terms with DHS and MICS and above ITU. Its 2024 survey puts 33 per cent of men and 18 of women online, a gap of 45.5 per cent, above 30, so 1.",
+      "as_at": "2026-11-09"
     }
   ]
 }

@@ -47,6 +47,7 @@ Asked in order. Each is answered with a date and a link.
 | 5 Leading | Yes to 4: two independent routes, a high-capacity cable, and capacity sold to other operators |
 
 - **High-capacity cables** *(Bill, 2026-10-30)*: more than 100 Tbps design capacity, the cable's whole system and not the branch. 2Africa, Equiano and Medusa count; Umoja, Waterworth and Seacom 2.0 count once a source says they carry traffic. Another cable counts where a source states its design capacity above 100 Tbps. `high-capacity.csv` names, per country, the row that shows such a cable carrying its traffic; a stager adds a line when a cell reaches question 3a.
+- **A cable a source says the country "already lands" is in service** *(Bill, 2026-11-09, message 82)*: the benefit of the doubt goes to the landing. Gabon's 2Africa answers the high-capacity test.
 - **A sale at a point of presence is not question 4** *(Bill, 2026-10-30)*: the capacity must be sold at the landing station, on the cable, or on open-access or regulated terms.
 - **No question has a window.** A route in service stays in service until a later source says it is cut or closed; a cut that is repaired is still in service.
 - **A route counts for the country it lands in, or whose traffic a source says it carries.** A cable that passes offshore does not count.

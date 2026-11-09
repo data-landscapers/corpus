@@ -60,7 +60,7 @@
     "A source from the past three years says the country's health systems do not exchange data.",
     "An exchange between health systems is contracted, being built or piloted, or a health information exchange is being set up.",
     "Two or more health systems exchange data in routine use, such as the HMIS with patient records, a laboratory or supply-chain system.",
-    "Three or more health systems exchange data, or a national health information exchange is in service.",
+    "Three or more health systems exchange data, or a national health information exchange is in service and no source shows it links fewer than three.",
     "Patient records are linked across systems through the national ID or a national unique health identifier."
    ],
    "criteria_of": "775a68e4a88f"

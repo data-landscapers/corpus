@@ -48,7 +48,7 @@ Asked in order. Each is answered with a date and a link.
 | 5 Leading | Yes to 4: one or fewer |
 
 - **The figures Corpus already holds answer all four questions for 48 countries before anything is read**: stage 1 for nine, stage 2 for ten, stage 3 for 13, stage 4 for ten, and stage 5 for Cabo Verde, Morocco, Senegal, Seychelles, Tanzania and Tunisia.
-- **Six countries have no figure in the window**: Algeria, Eritrea and Libya have none at all; Madagascar's is for 2022, South Africa's for 2020 and Sudan's for 2014. They are *No evidence* unless a story read in the run gives one.
+- **Six countries have no figure in the window**: Algeria, Eritrea and Libya have none at all; Madagascar's is for 2022, South Africa's for 2020 and Sudan's for 2014. Algeria, Eritrea and Libya are *No evidence*; Madagascar, South Africa and Sudan, whose figures cannot set a rung, are *unplaced* *(Bill, 2026-11-09, message 85)*.
 - **The power-pool condition goes.** The row reaches stage 5 only with a best-fifth figure and the grid trading through its regional power pool, which no cell holds, and which is about trade, not whether the lights stay on. Stage 5 is a figure: once a month or less.
 - **The lines are fixed, not drawn from where other countries stand.** The row divides the continent into fifths, so a country can move because its neighbours did; here it moves only when its own figure crosses a line. The row's provisional cuts of 10, 5 and 2 become the lines.
 - **A regulator's or utility's SAIFI for 2023 or later is used in place of the survey**, as the row does: Guinea's and Senegal's are held.

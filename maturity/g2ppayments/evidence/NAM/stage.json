@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "5",
+      "stage": "3",
       "payment": "inservice",
-      "streams": "several",
+      "streams": "",
       "linked": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "NAM-002",
-      "gaps": "",
-      "note": "Social grants are paid over the instant payment system (June 2026) and beneficiaries were verified against the population register (September 2026), so stage 5.",
-      "as_at": "2026-11-05"
+      "stage_sources": "NAM-001;NAM-003",
+      "gaps": "No source found since October 2023 shows a second main stream, civil service salaries or pensions, paid digitally.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 89): social grants paid over the instant payment system (June 2026) are one stream, so 3. The check against the population register counts only once two main streams are paid digitally.",
+      "as_at": "2026-11-09"
     }
   ]
 }

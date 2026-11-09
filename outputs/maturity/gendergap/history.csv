@@ -59,3 +59,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-05,ZAF,include.access--gender-equity,review,no evidence,no evidence,,"Rebuild: no figure of any year found in the listed news; no evidence holds; Stats SA's 2024 figures are household access by the head's sex, not individual use"
 2026-11-05,ZMB,include.access--gender-equity,review,unplaced,unplaced,,"Rebuild: latest figure 14.8 per cent for 2018, before 2023; no 2023-or-later figure in the listed news; unplaced holds"
 2026-11-05,ZWE,include.access--gender-equity,review,unplaced,unplaced,,"Rebuild: latest figure -2.8 per cent for 2020, before 2023; no 2023-or-later figure in the listed news; unplaced holds"
+2026-11-09,MWI,include.access--gender-equity,ladder,3,1,MWI-002,"Bill, message 86: Afrobarometer counts with DHS and MICS, above ITU; 2024 gap 45.5 per cent"

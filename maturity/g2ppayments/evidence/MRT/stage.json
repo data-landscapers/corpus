@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "5",
+      "stage": "3",
       "payment": "inservice",
-      "streams": "several",
-      "linked": "linked",
+      "streams": "",
+      "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MRT-001",
-      "gaps": "",
-      "note": "Tekavoul transfers have been paid electronically since September 2024, and a 2024 decree makes social-registry households its eligible pool, so stage 5 under the later-yes rule.",
-      "as_at": "2026-11-05"
+      "stage_sources": "MRT-002",
+      "gaps": "No source found since October 2023 shows a second main stream, civil service salaries or pensions, paid digitally, or payments checked against the national ID.",
+      "note": "Restaged 2026-11-09 on Bill's rulings (messages 88 and 89): Tekavoul transfers paid electronically since September 2024 are one programme, so 3. Stage 5 needs stage 4 on its own evidence, and registry enrolment is not a check of the payment.",
+      "as_at": "2026-11-09"
     }
   ]
 }

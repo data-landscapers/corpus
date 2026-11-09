@@ -20,8 +20,8 @@ The African Union's Digital Transformation Strategy 2020–2030 and its African 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
-| 4 Operating | 0 |
+| 5 Leading | 5 |
+| 4 Operating | 1 |
 | 3 Established | 8 |
 | 2 Nascent | 32 |
 | 1 Absent | 5 |
@@ -29,14 +29,6 @@ The African Union's Digital Transformation Strategy 2020–2030 and its African 
 | No evidence | 3 |
 
 ## Countries
-
-### Cote d'Ivoire: 5 Leading
-
-An exchange point in service by 2026, with a global content network, traffic growing and reach beyond one city.
-
-- ARTCI says Akamai was integrated into the CIVIX exchange point, in service since October 2013, and that Netflix and PCH now connect there alongside local operators ([source, 2026-06-15](https://fr.apanews.net/technologies/peering-day-2026-la-rci-vise-des-ports-internet-de-100-gbps/)).
-- ARTCI gives CIVIX average daily traffic of 4 Mbps in 2013, 10 Gbps in 2019, 20 Gbps in 2020-2024 and 36 Gbps in 2025-2026 ([source, 2026-06-15](https://fr.apanews.net/technologies/peering-day-2026-la-rci-vise-des-ports-internet-de-100-gbps/)).
-- ARTCI announced recently the official launch of a third point of presence for CIVIX with Raxio in the neutral data centre at Grand-Bassam, a city other than Abidjan; the article gives no launch date and no members there, so the forum date is used ([source, 2025-08-05](https://www.fratmat.info/article/2635918/economie/forum-sur-le-peering-en-cote-divoire-lartci-impulse-une-dynamique-nouvelle-pour-linterconnexion-locale)).
 
 ### DR Congo: 5 Leading
 
@@ -78,6 +70,13 @@ An exchange point in service by 2026, with a global content network, traffic gro
 - Teraco says Akamai, Amazon, Cloudflare, Google, Meta, Microsoft, Netflix and TikTok are at NAPAfrica, and Netflix Open Connect is hosted in Cape Town and Durban ([source, 2025-11-11](https://www.teraco.co.za/news/napafrica-and-teraco-acx-growing-africas-digital-community-as-napafrica-hits-6tbps/)).
 - Teraco says NAPAfrica traffic peaked at 100 Gbps in 2016, 500 Gbps in 2018, 2 Tbps in 2021, over 4 Tbps in 2023 and 5 Tbps in February 2025 ([source, 2025-02](https://www.teraco.co.za/news/napafrica-internet-exchange-achieves-5tbps-traffic-milestone-driving-africas-digital-transformation/)).
 - Teraco says NAPAfrica operates in Johannesburg, Cape Town and Durban, with 680 members from over 50 countries ([source, 2025-11-11](https://www.teraco.co.za/news/napafrica-and-teraco-acx-growing-africas-digital-community-as-napafrica-hits-6tbps/)).
+
+### Cote d'Ivoire: 4 Operating
+
+An exchange point in service, with a global content network and traffic growing, but none beyond Abidjan.
+
+- ARTCI says Akamai was integrated into the CIVIX exchange point, in service since October 2013, and that Netflix and PCH now connect there alongside local operators ([source, 2026-06-15](https://fr.apanews.net/technologies/peering-day-2026-la-rci-vise-des-ports-internet-de-100-gbps/)).
+- ARTCI gives CIVIX average daily traffic of 4 Mbps in 2013, 10 Gbps in 2019, 20 Gbps in 2020-2024 and 36 Gbps in 2025-2026 ([source, 2026-06-15](https://fr.apanews.net/technologies/peering-day-2026-la-rci-vise-des-ports-internet-de-100-gbps/)).
 
 ### Angola: 3 Established
 

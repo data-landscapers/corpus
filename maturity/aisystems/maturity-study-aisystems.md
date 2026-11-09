@@ -49,6 +49,8 @@ Asked in order. Each is answered with a date and a link.
 
 A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `build` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `compute` (`compute`) for 3 and `shared` (`shared`) for 4.
 
+- **Use by government bodies is not sharing** *(Bill, 2026-11-09, message 80)*: question 4 needs the system open to researchers, startups or other countries. Togo's UNDP GPU server, used by two government bodies and the lab that runs it, stays at 4.
+
 ## 4. The norm
 
 The Continental AI Strategy asks that a country can manage its own data and AI, Local First: sovereign or regional computing, open national datasets and talent, taking part in continental AI infrastructure. This study asks the four questions above; it does not measure a country against the norm.

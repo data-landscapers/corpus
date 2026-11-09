@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "5",
+      "stage": "3",
       "payment": "inservice",
       "streams": "",
       "linked": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-006;NGA-007;NGA-009",
+      "stage_sources": "NGA-006;NGA-003",
       "gaps": "No source found since October 2023 shows civil service salaries or pensions paid digitally.",
-      "note": "Conditional cash transfers are paid to bank accounts and wallets tied to the NIN (September 2025), and NERSI selects from identity records and the National Social Register (November 2026): a yes to question 4, so stage 5. Only social transfers are shown paid digitally.",
-      "as_at": "2026-11-06"
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 89): conditional cash transfers paid to accounts and wallets are one stream, so 3. The NIN check counts only once two main streams are paid digitally.",
+      "as_at": "2026-11-09"
     }
   ]
 }

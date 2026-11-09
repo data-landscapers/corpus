@@ -30,7 +30,7 @@ Asked in order. Each is answered with a date and a link.
 |---|---|---|
 | 1 | Is an exchange between health systems under way? | A source from the last three years says one is contracted, being built or piloted, or a health information exchange is being set up |
 | 2 | Do two health systems exchange data in service? | A source from the last three years says two or more health systems exchange data in routine use |
-| 3 | Does the exchange reach across the health system? | A source from the last three years says three or more health systems exchange data, or a national health information exchange is in service |
+| 3 | Does the exchange reach across the health system? | A source from the last three years says three or more health systems exchange data, or a national health information exchange is in service and no source shows it links fewer than three |
 | 4 | Are patients matched by a national identifier? | A source from the last three years says patient records are linked through the national ID or a national unique health identifier used across systems |
 
 ## 3. The ladders
@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Across the system | Yes to 3 |
 | 5 Patients matched | Yes to 4 |
 
-A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `exchange` (`inservice`, `underway`, `none`) for questions 1 and 2, `breadth` (`wide`) for 3 and `identifier` (`linked`) for 4. **For the drafter**: the system's name goes in `system`, the bodies or systems it links in the fact.
+A later yes answers the earlier ones (method §3.3). **A national exchange in service is taken to link three or more systems, unless a source shows it links fewer** *(Bill, 2026-11-09, message 81)*: Cameroon's platform links only insurance enrolment and billing, and stays at 3. `study.json` holds this as three aspects: `exchange` (`inservice`, `underway`, `none`) for questions 1 and 2, `breadth` (`wide`) for 3 and `identifier` (`linked`) for 4. **For the drafter**: the system's name goes in `system`, the bodies or systems it links in the fact.
 
 ## 4. The norm
 

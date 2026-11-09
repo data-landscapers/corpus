@@ -3,7 +3,7 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "5",
+      "stage": "3",
       "payment": "inservice",
       "streams": "",
       "linked": "linked",
@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "KEN-002;KEN-003",
       "gaps": "No source found since October 2023 shows salaries or pensions paid digitally in service; the Treasury's August 2025 payroll change was a statement of intent.",
-      "note": "Inua Jamii transfers are paid through M-Pesa to a line that must match the beneficiary's ID card (January 2025), a yes to question 4. A later yes answers the earlier ones, so stage 5.",
-      "as_at": "2026-11-06"
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 89): Inua Jamii transfers paid through M-Pesa are one stream, so 3. The registry or ID check counts only once two main streams are paid digitally.",
+      "as_at": "2026-11-09"
     }
   ]
 }

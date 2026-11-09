@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "5",
+      "stage": "4",
       "payment": "inservice",
       "streams": "several",
-      "linked": "linked",
+      "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBR-002",
-      "gaps": "",
-      "note": "Social cash transfers are paid by mobile money and salaries pushed to wallets (2026), and the household social registry supplies the transfer's enrolment, so stage 5.",
-      "as_at": "2026-11-05"
+      "stage_sources": "LBR-001;LBR-005;LBR-006",
+      "gaps": "No source found says government payments are checked against the national ID; enrolment from the social registry is not a check of the payment.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 88): social cash transfers by mobile money and salaries pushed to wallets are two main streams, so 4. The social registry supplies enrolment, but no source refers to the national ID, so not 5.",
+      "as_at": "2026-11-09"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "5",
+      "stage": "3",
       "payment": "inservice",
       "streams": "",
       "linked": "linked",
@@ -11,7 +11,7 @@
       "flags": "",
       "stage_sources": "MUS-002;MUS-001",
       "gaps": "No source found since October 2023 shows civil service salaries or pensions paid digitally.",
-      "note": "The MRA pays the 2025 Independence Allowance into bank accounts and requires the youth to be on the Social Register, with the ID card number: a payment checked against a social registry, so 5 by a later yes. Only one stream is shown.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 89): the Independence Allowance paid into bank accounts are one stream, so 3. The registry or ID check counts only once two main streams are paid digitally.",
       "as_at": "2026-11-09"
     }
   ]

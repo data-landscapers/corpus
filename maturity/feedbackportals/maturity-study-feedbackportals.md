@@ -47,6 +47,8 @@ Asked in order. Each is answered with a date and a link.
 
 A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `channel` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `reach` (`wide`) for 3 and `results` (`published`) for 4.
 
+- **A share of complaints "handled and closed" is a share resolved** *(Bill, 2026-11-09, message 84)*: the benefit of the doubt goes to the figure. Algeria's mediator's 76.81% answers question 4.
+
 **A phone hotline or contact centre that also takes email counts as a digital channel** *(Bill, 2026-11-04, messages-for-bill 76)*. ZAF stays at 5, LSO at 2.
 
 ## 4. The norm

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "g2p",
-      "stage": "5",
+      "stage": "2",
       "payment": "underway",
       "streams": "",
       "linked": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-003;UGA-002",
+      "stage_sources": "UGA-002",
       "gaps": "No source found since October 2023 shows a government transfer, salary or pension paid digitally in service; SAGE mobile money payment is a pilot.",
-      "note": "SAGE grant eligibility is checked against the date of birth on the national ID (October 2026), a yes to question 4 that answers the earlier ones, so stage 5. The Parish Development Model's loans are not a transfer, salary or pension, and SAGE mobile money payment is a pilot.",
-      "as_at": "2026-11-05"
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 89): stage 5 needs stage 4 on its own evidence. SAGE mobile money payment is a pilot, so 2; the ID check on SAGE eligibility does not answer the earlier questions.",
+      "as_at": "2026-11-09"
     }
   ]
 }

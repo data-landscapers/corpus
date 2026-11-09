@@ -25,8 +25,8 @@ The African Union's single electricity market and Continental Power System Maste
 | 3 Established | 11 |
 | 2 Nascent | 11 |
 | 1 Absent | 8 |
-| Unplaced | 0 |
-| No evidence | 6 |
+| Unplaced | 3 |
+| No evidence | 3 |
 
 ## Countries
 
@@ -318,6 +318,24 @@ In 2025 the power went off 21.42 times a month, as reported by firms surveyed by
 
 - Firms in Zambia reported 21.42 power outages in a typical month in the World Bank's 2025 Enterprise Survey ([source, 2025](https://www.enterprisesurveys.org/en/data)).
 
+### Madagascar: Unplaced
+
+No count of power outages for 2023 or later has been found, so no stage is set.
+
+Not established: The only figure held is for 2022, before 2023, so it sets no rung.
+
+### South Africa: Unplaced
+
+No count of power outages for 2023 or later has been found, so no stage is set.
+
+Not established: The only figure held is for 2020, before 2023, so it sets no rung.
+
+### Sudan: Unplaced
+
+No count of power outages for 2023 or later has been found, so no stage is set.
+
+Not established: The only figure held is for 2014, before 2023, so it sets no rung.
+
 ### Algeria: No evidence
 
 No count of power outages for 2023 or later has been found, so no stage is set.
@@ -335,21 +353,3 @@ Not established: Nothing found gives how often the power goes off.
 No count of power outages for 2023 or later has been found, so no stage is set.
 
 Not established: Nothing found gives how often the power goes off.
-
-### Madagascar: No evidence
-
-No count of power outages for 2023 or later has been found, so no stage is set.
-
-Not established: No figure for 2023 or later has been found for how often the power goes off.
-
-### South Africa: No evidence
-
-No count of power outages for 2023 or later has been found, so no stage is set.
-
-Not established: No figure for 2023 or later has been found for how often the power goes off.
-
-### Sudan: No evidence
-
-No count of power outages for 2023 or later has been found, so no stage is set.
-
-Not established: No figure for 2023 or later has been found for how often the power goes off.

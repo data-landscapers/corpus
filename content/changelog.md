@@ -1,5 +1,6 @@
 ## 9 November 2026
 
+- G2P payments now reach stage 5 only where two main payment streams are digital: eleven countries move down, and Ghana and Togo stay at 5. Malawi's gender gap goes to stage 1 on Afrobarometer's survey, Côte d'Ivoire's exchange point to 4, and grid reliability in Madagascar, Sudan and South Africa to unplaced, their figures predating 2023.
 - Togo's 2027 draft now holds the digital ministry's two digital programmes, read from the draft programme budget: CFA 4.9bn wholly digital for public services, identity and the social registry, and 3.9bn partly digital for networks and post. The CFA 19.0bn of grants and loans in the same programmes is left out, and the modernisation account and geographic-information programme are now shown as state-funded.
 
 ## 8 November 2026

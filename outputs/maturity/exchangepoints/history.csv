@@ -12,3 +12,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-05,COD,infra.connect--internet-exchange-points,fact,2,5,COD-004;COD-005;COD-010;COD-008,Meta and Cloudflare peer at KINIX; traffic 84 Gbps (Aug 2024) to over 1 Tbps (Aug 2026); Lubumbashi and Goma exchanges
 2026-11-05,EGY,infra.connect--internet-exchange-points,fact,3,5,EGY-004;EGY-008;EGY-005,AMS-IX: EG-IX peak 338 Gb/s (2025) to 945 Gb/s (Q3 2026); Jordanian carriers already held
 2026-11-05,ZAF,infra.connect--internet-exchange-points,fact,3,5,ZAF-021;ZAF-024;ZAF-023,"Teraco: NAPAfrica peak over 4 Tbps (2023) to 5 Tbps (Feb 2025); three cities, members from 50 countries"
+2026-11-09,CIV,infra.connect--internet-exchange-points,ladder,5,4,CIV-011;CIV-012,"Bill, message 79: Grand-Bassam is beside Abidjan, not a second city; period averages show growth"

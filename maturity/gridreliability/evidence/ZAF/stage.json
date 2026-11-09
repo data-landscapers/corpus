@@ -1,15 +1,16 @@
 {
- "iso3": "ZAF",
- "cells": [
-  {
-   "sub_indicator": "outages",
-   "stage": "no evidence",
-   "outages": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No figure for 2023 or later has been found for how often the power goes off.",
-   "note": "Counted from the four questions by study-ladder-gridreliability.py."
-  }
- ]
+  "iso3": "ZAF",
+  "cells": [
+    {
+      "sub_indicator": "outages",
+      "stage": "unplaced",
+      "outages": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "The only figure held is for 2020, before 2023, so it sets no rung.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 85): a figure older than 2023 leaves the cell unplaced, not without evidence.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }

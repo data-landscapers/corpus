@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "exchange",
-      "stage": "5",
+      "stage": "4",
       "exchange": "growing",
-      "reach": "wider",
+      "reach": "none",
       "cap": "",
       "flags": "",
-      "stage_sources": "CIV-011;CIV-012;CIV-006",
-      "gaps": "",
-      "note": "Reassessed 2026-11-05: ARTCI gives CIVIX average daily traffic of 20 Gbps in 2020-2024 and 36 Gbps in 2025-2026, with Akamai and Netflix connected. A third point of presence at Grand-Bassam answers the second city.",
-      "as_at": "2026-11-05"
+      "stage_sources": "CIV-011;CIV-012",
+      "gaps": "No second city: Grand-Bassam is a resort beside Abidjan, and no operators from other countries are named.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 79): ARTCI's period averages, 20 Gbps in 2020-2024 and 36 Gbps in 2025-2026, show growth, and Akamai and Netflix are connected. The Grand-Bassam point of presence is beside Abidjan, not in a second city.",
+      "as_at": "2026-11-09"
     }
   ]
 }
