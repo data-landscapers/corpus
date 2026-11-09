@@ -1,0 +1,17 @@
+{
+ "slug": "2025-01-01-ben-foundational-identity-4",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "strategy",
+   "fact": "ANIP's deck lists a National Digital Security Strategy among its milestones, alongside a State Information Systems Security Policy.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "National Digital Security Strategy",
+   "class": "response"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

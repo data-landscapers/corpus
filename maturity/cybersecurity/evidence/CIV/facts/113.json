@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-14-ben-digital-id-systems-now-critical-infrastructure-requiring-sovereign-cyb",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Biometric Update reports Guelpetchin Moussa Ouattara is Director General of Cote d'Ivoire's National Agency for Information System Security (ANSSI).",
+   "as_of": "2026-05-14",
+   "date_precision": "day",
+   "system": "ANSSI",
+   "class": "response"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

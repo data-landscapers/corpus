@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-14-ben-digital-id-systems-now-critical-infrastructure-requiring-sovereign-cyb",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "Biometric Update names Ghana's Cyber Security Authority, whose former Director General Albert Antwi-Boasiako spoke at the ID4Africa 2026 AGM.",
+   "as_of": "2026-05-14",
+   "date_precision": "day",
+   "system": "Cyber Security Authority",
+   "class": "response"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

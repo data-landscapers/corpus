@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-14-cog-numerique-les-tuyaux-ont-gagne-du-terrain-l-usage-cherche-encore-le-si",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "ADIAC lists the Agence nationale de la sécurité des systèmes d'information as the agency in charge of cybersecurity, among the institutions built since 2022.",
+   "as_of": "2026-08-14",
+   "date_precision": "day",
+   "system": "Agence nationale de la sécurité des systèmes d'information",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Agence nationale de la sécurité des systèmes d'information",
+   "country_label": "Agence nationale de la sécurité des systèmes d'information",
+   "class": "response",
+   "platform": "",
+   "owner": "State",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

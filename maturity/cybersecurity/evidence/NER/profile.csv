@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-NER,readiness,foundation,coverage,body,2025-10,NER-002;NER-005,NER-003=strategy;NER-001=strategy;NER-004=strategy,
+NER,readiness,foundation,coverage,body,2025-10,NER-002;NER-005;NER-006,NER-003=strategy;NER-001=strategy;NER-004=strategy;NER-007=strategy,
 NER,readiness,response,coverage,,,,,nothing found
 NER,readiness,cii,coverage,,,,,nothing found
 NER,readiness,figures,coverage,,,,,nothing found

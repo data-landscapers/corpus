@@ -1,0 +1,46 @@
+{
+ "slug": "2026-11-06-nam-namibian-cybersecurity-risks-remain-elevated-nam-csirt",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "New Era reports that NAM-CSIRT, the Namibia Cyber Security Incident Response Team, is housed under the Communications Regulatory Authority of Namibia.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "NAM-CSIRT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "response",
+   "value": "responded",
+   "fact": "NAM-CSIRT's Q3 2026 newsletter, reported by New Era, urged organisations to patch SharePoint and VMware vCenter vulnerabilities (CVE-2026-50522, CVE-2026-59309, CVE-2026-59310) and examined two incidents, one at the Ministry of Defence and Veterans Affairs.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "NAM-CSIRT",
+   "class": "response"
+  },
+  {
+   "sub_indicator": "readiness",
+   "aspect": "figures",
+   "value": "recorded",
+   "fact": "NAM-CSIRT recorded 506,143 cyber vulnerabilities and 163,053 cyber events in July to September 2026, a count of detections with no action stated.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "NAM-CSIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NAM-CSIRT",
+   "country_label": "NAM-CSIRT",
+   "class": "response",
+   "platform": "",
+   "owner": "CRAN",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

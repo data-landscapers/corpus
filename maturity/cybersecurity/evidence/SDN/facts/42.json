@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-01-sdn-national-institutional-integration",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "The Telecommunications and Post Regulatory Authority says the Sudanese Computer Emergency Response Team is part of TPRA and plays a role in combating cybercrime and coordinating with similar centres abroad.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Sudanese Computer Emergency Response Team (Sudan CERT)",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sudan CERT",
+   "country_label": "Sudanese Computer Emergency Response Team",
+   "class": "response",
+   "platform": "",
+   "owner": "TPRA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

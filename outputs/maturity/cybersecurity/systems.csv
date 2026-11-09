@@ -170,6 +170,7 @@ COG,Agence nationale de sécurité des systèmes d'information (ANSSI),Congo,res
 COG,Agence nationale de sécurité des systèmes d'information (ANSSI),Congo,response,,State,,2026-07-09-cog-decret-2026-101-facturation-electronique-certifiee-sfec
 COG,Agence nationale de sécurité des systèmes d'information (ANSSI),Agence nationale de sécurité des systèmes d'information (ANSSI),response,,Presidency of the Republic (supervisory authority),national,2023-01-19-cog-decret-2022-1944-statuts-anssi
 COG,ANSSI,Agence nationale de la sécurité des systèmes d'information,response,,Presidency of the Republic (tutelle),,2026-01-17-cog-congo-telecommunications-des-orientations-pour-permettre-a-l-anssi-d-a
+COG,Agence nationale de la sécurité des systèmes d'information,Agence nationale de la sécurité des systèmes d'information,response,,State,,2026-08-14-cog-numerique-les-tuyaux-ont-gagne-du-terrain-l-usage-cherche-encore-le-si
 COM,Direction Nationale de la Cybersecurite (ANADEN),Comoros,response,,ANADEN,national,2021-11-04-ancs-about-direction-nationale-cybersecurite
 COM,Portail National de Cybersécurité,ANADEN,other,web portal,ANADEN,,2024-05-15-com-presentation-officielle-du-portail-national-de-la-cybersecurite
 CPV,CSIRT RTPE,Cabo Verde,response,,"NOSi, E.P.E.",,2025-10-31 Cabo Verde launches national SOC and CSIRT
@@ -225,6 +226,7 @@ EGY,National Cyber Crises Exercise,,other,,,,2023-06-26-egy-national-cybersecuri
 EGY,National Center for Computer and Network Emergency Readiness,EGY,response,,MCIT,,2026-10-01-egy-760-2025
 EGY,Supreme Council for Cybersecurity,Supreme Council for Cybersecurity,other,,MCIT,,2024-12-21-egy-supreme-cybersecurity-council-approves-key-controls
 EGY,National Cybersecurity Strategy 2023-2027,National Cybersecurity Strategy 2023-2027,response,,MCIT,,2026-01-01-egy-mcit-ict-strategy-page-publications-en
+EGY,EG-CERT,EG-CERT,response,,NTRA,,2026-11-08-egy-telecom-egypt-e-finance-mou-we-innovate-star-graduation
 ETH,Information Network Security Administration (INSA),Information Network Security Administration (INSA),response,,Government of Ethiopia,,2026-09-30-ethiopia-establishes-financial-sector-cybersecurity-forum-to-improve-digital-res
 ETH,Information Network Security Administration (INSA),Information Network Security Administration (INSA),response,,Government of Ethiopia,,2026-08-07-ethiopia-critical-infrastructure-cybersecurity-proclamation-insa
 ETH,National Computer Emergency Response Team (CERT),National CERT,response,,Government of Ethiopia,,2026-08-07-ethiopia-cybersecurity-proclamation-1426-insa
@@ -367,6 +369,7 @@ KEN,National Cybersecurity Agency,National Cybersecurity Agency,response,Nationa
 KEN,National KE-CIRT/CC,National KE-CIRT/CC,response,,Communications Authority of Kenya,,2026-11-03-ken-kenya-s-cybersecurity-agency-gets-a-board-the-law-has-yet-to-catch-up
 KEN,National Cybersecurity Agency,National Cybersecurity Agency,response,,Government of Kenya,,2026-11-05-ken-kenya-moves-to-operationalise-cybersecurity-agency
 KEN,National KE-CIRT/CC,National KE-CIRT/CC,response,,Communications Authority of Kenya,,2026-11-05-ken-kenya-moves-to-operationalise-cybersecurity-agency
+KEN,National Cybersecurity Agency,National Cybersecurity Agency,response,,Government of Kenya,,2026-11-06-ken-kenyas-ai-ambitions-face-infrastructure-test-as-subsea-cable-takes-shape
 LBR,computer security incident response team (Cybaston Digital Fast Track),Liberia,response,,"Cybaston Institute of Technology, handover to Ministry of Posts and Telecommunications in September 2029",,2024-09-24-liberia-cybaston-five-year-digital-fast-track-agreement
 LBR,National Cybersecurity Strategy (2024-2029),Liberia,response,,Ministry of Posts and Telecommunications,,2026-03-01-liberia-national-data-governance-policy
 LBR,Liberia National CERT (proposed),Liberia,other,,,,2026-03-01-liberia-national-data-governance-policy
@@ -495,12 +498,14 @@ NAM,NAM-CSIRT,NAM-CSIRT,response,,Communications Regulatory Authority of Namibia
 NAM,NAM-CSIRT,NAM-CSIRT,response,,Communications Regulatory Authority of Namibia,,2025-04-01-nam-namibia-cyber-security-incident-response-team-rfc-2350
 NAM,NAM-CSIRT,Namibia Cyber Security Incident Response Team (NAM-CSIRT),response,,CRAN,,2025-02-28-nam-namibia-s-cyber-security-team-warns-of-rising-threats
 NAM,Nam-CSIRT,Nam-CSIRT,response,,Ministry of Information and Communication Technology,,2026-04-01-nam-mict-tables-n-682m-budget-to-drive-digital-rollout-and-cybersecurity-p
+NAM,NAM-CSIRT,NAM-CSIRT,response,,CRAN,,2026-11-06-nam-namibian-cybersecurity-risks-remain-elevated-nam-csirt
 NER,"centre national de cyber-sécurité (CNAC), with a Security Operations Centre and a CERT",Centre national de cyber-sécurité (CNAC),response,,Ministry of Communication and New Information Technologies,,2025-07-24-national-committee-critical-digital-infrastructure-lesahel
 NER,Agence Nigérienne pour la Société de l'Information (ANSI),NER,other,,State,,2025-07-25-africacert-handshake-symposium-niamey-lesahel
 NER,Centre National de Cybersécurité (CNAC),NER,response,,State (public administrative establishment),,2025-10-11-gouv-conseil-ministres-cnac-ance
 NER,Agence Nigérienne de Certification Electronique (ANCE),NER,other,,State,,2025-10-11-gouv-conseil-ministres-cnac-ance
 NER,CNAC,CNAC,response,,Government of Niger,,2026-06-02-ner-la-cybersecurite-au-niger-la-necessite-d-un-espace-numerique-securise
 NER,CNAC,Niger,response,,Government of Niger,,2026-11-03-cybersecurite-le-niger-sollicite-lexperience-du-burkina-faso-pour-son
+NER,CNAC,Centre national de cybersécurité (CNAC),response,,government,,2026-11-06-ner-le-niger-mise-sur-lexpertise-burkinabe-pour-batir-son-centre-de-cybers
 NGA,ngCERT,ngCERT,response,,Nigerian Communications Commission,,2026-09-22-nga-ngcert-ransomware-phobos-advisory
 NGA,ngCERT,ngCERT,response,,Nigerian Communications Commission,,2026-09-15-nga-ngcert-advisory-escalating-cybersecurity-threats
 NGA,National Cybersecurity Coordination Centre,National Cybersecurity Coordination Centre,response,,Office of the National Security Adviser,,2026-08-22-businessday-nigeria-uk-cyber-alliance-ai-threats
@@ -548,6 +553,7 @@ SDN,National Mechanism to Combat Informatics Crimes,الآلية الوطنية 
 SDN,Sudan-CERT,Sudanese Cybersecurity Authority,response,,Sudanese Cybersecurity Authority,,2025-01-01-sdn-about-the-sudanese-national-cybersecurity-authority
 SDN,Sudan-CERT,National Center for Cyber Incident Response (Sudan-CERT),response,,Sudan cybersecurity authority (SCA),,2025-11-01-sdn-sca-ransomware-warning-sme
 SDN,Sudanese Cybersecurity Authority,Sudanese Cybersecurity Authority,response,,Ministry of Digital Transformation and Communications,,2026-01-22-sdn-sudan-outlines-digital-transformation-pathway-at-arab-telecommunicatio
+SDN,Sudan CERT,Sudanese Computer Emergency Response Team,response,,TPRA,,2024-11-01-sdn-national-institutional-integration
 SEN,Autorité nationale de cybersécurité (provided for by the adopted bill),Autorité nationale de cybersécurité,response,,,national,2026-08-21-dcssi-protection-infrastructures-information-critiques
 SEN,CERT national (provided for by the adopted bill),CERT national,response,,,national,2026-08-21-dcssi-protection-infrastructures-information-critiques
 SEN,Direction générale du Chiffre et de la Sécurité des Systèmes d'Information (DCSSI),DCSSI,other,,,,2026-08-21-dcssi-protection-infrastructures-information-critiques
