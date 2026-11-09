@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: NGA
-ledger_rows: 87
+ledger_rows: 88
 not_held: 9
-record: c1897647910d
+record: 16576f953cf1
 ---
 
 # News, Oct – Nov 2026
@@ -485,6 +485,14 @@ The Internet Exchange Point of Nigeria, founded in 2006, is marking its 20th ann
 **[Nigeria targets 90% local Internet traffic, regional hub power](https://guardian.ng/technology/tech/nigeria-targets-90-local-internet-traffic-regional-hub-power/)** — The Guardian Nigeria, 4 November 2026
 
 The Internet Exchange Point of Nigeria (IXPN) marked its 20th year with a goal of 90% local traffic by 2046. Chief executive Muhammed Rudman said up to 70% of traffic is now local, against 1% in 2006. The exchange has over 130 connected networks and plans 1.6T capacity trials in 2033-2036.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria’s internet capacity expands as data centre links hit 1Tbps - Businessday NG](https://businessday.ng/technology/article/nigerias-internet-capacity-expands-as-data-centre-links-hit-1tbps/)** — BusinessDay Nigeria, 8 November 2026
+
+The link between Digital Realty's Medallion data centre and Equinix in Lagos has reached 1 terabit per second. Medallion's link to Rack Centre runs at 500 gigabits per second. Muhammed Rudman, head of the Internet Exchange Point of Nigeria, gave the figures at its 20th anniversary event. BusinessDay reported them on 8 November 2026.
 
 </div>
 
@@ -1059,6 +1067,20 @@ Under the Central Bank of Nigeria's regulations released on 5 November 2026, the
 **[Paga expands Direct Debit access for businesses beyond its network](https://techcabal.com/2026/11/05/paga-engine-expands-direct-debit-access/)** — TechCabal, 5 November 2026
 
 Paga now lets businesses collect direct debits from customers of other Nigerian financial institutions through Paga Engine, using existing interbank rails. TechCabal reported it on 5 November 2026. Central Bank of Nigeria data show 157.4 million direct-debit transactions worth about ₦23.3 trillion in 2024.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Redtech Kenya-Nigeria payments corridor</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Redtech Plans a Kenya-Nigeria Payments Corridor With Kenyan Launch in 2027](https://techweez.com/2026/11/07/redtech-plans-a-kenya-nigeria-payments-corridor-with-kenyan-launch-in-2027/)** — Techweez, 7 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+
+Kenyan launch by Q1 2027 via partners; US$20bn processed in 2025; UBA route to 20 markets.
 
 </div>
 
