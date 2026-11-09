@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-23-moz-mocambique-e-zambia-avancam-com-interligacao-digital-transfronteirica",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "MZ News reports that on 20 February 2026 Mozambique's communications minister launched the Mozambique-Zambia Interconnectivity Project at Cassacatiza, a cross-border fibre partnership of Vodacom Moçambique and Bayobab Zambia with both countries' regulators involved.",
+   "as_of": "2026-02-20",
+   "date_precision": "day",
+   "system": "Mozambique-Zambia Interconnectivity Project",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mozambique-Zambia Interconnectivity Project (Cassacatiza)",
+   "country_label": "Mozambique",
+   "class": "shared",
+   "platform": "fibre",
+   "owner": "Vodacom Moçambique and Bayobab Zambia",
+   "tiers": ""
+  }
+ ],
+ "note": "Launch ceremony only; works begun or in service not stated."
+}

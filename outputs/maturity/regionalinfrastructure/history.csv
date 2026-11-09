@@ -91,3 +91,9 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-08,ZAF,gov.regional--shared-regional-infrastructure,ladder,5,4,ZAF-007,"Redesign adopted: NAPAfrica peering, Infraco's claims and company routes removed; MoRENet's link to TENET and SANReN is in service; stage 4."
 2026-11-08,ZMB,gov.regional--shared-regional-infrastructure,ladder,4,4,ZMB-003,Redesign adopted: the Mozambique interconnector commissioned by both ministers in February 2026 is in service; links only; stage 4.
 2026-11-08,ZWE,gov.regional--shared-regional-infrastructure,ladder,4,unplaced,,"Redesign adopted: the Powertel and Paratus partnership and TelOne's transit links name no party in another country, removed; unplaced."
+2026-11-09,GNB,gov.regional--shared-regional-infrastructure,fact,unplaced,4,GNB-002,WACREN backbone joined in 2025 is a regional link in service; unplaced to 4
+2026-11-09,MRT,gov.regional--shared-regional-infrastructure,fact,no evidence,4,MRT-002,WACREN backbone joined in 2025 is a regional link in service; no evidence to 4
+2026-11-09,RWA,gov.regional--shared-regional-infrastructure,fact,no evidence,3,RWA-005,Mirama Hills link with Uganda built in 2026 under the Northern Corridor projects; no evidence to 3
+2026-11-09,UGA,gov.regional--shared-regional-infrastructure,fact,no evidence,3,UGA-009;UGA-010,"Mirama Hills and Busia links built in 2026, not yet switched on; no evidence to 3"
+2026-11-09,BWA,gov.regional--shared-regional-infrastructure,fact,2,3,BWA-006;BWA-001,BoFiNet and MTC Namibia completed cross-border interconnections by February 2026; 2 to 3
+2026-11-09,NAM,gov.regional--shared-regional-infrastructure,fact,2,3,NAM-009;NAM-002,MTC Namibia and BoFiNet completed cross-border interconnections by February 2026; 2 to 3

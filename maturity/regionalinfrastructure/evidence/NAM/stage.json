@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "shared",
-      "stage": "2",
-      "built": "agreed",
+      "stage": "3",
+      "built": "building",
       "service": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NAM-002;NAM-001",
-      "gaps": "No source found says building has started in the last three years.",
-      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
-      "as_at": "2026-11-08"
+      "stage_sources": "NAM-009;NAM-002",
+      "gaps": "No source found says a shared link, exchange or data facility is in service.",
+      "note": "MTC Namibia and BoFiNet completed cross-border interconnections by February 2026 and signed a memorandum, so stage 3. No source says they carry traffic, so not 4.",
+      "as_at": "2026-11-09"
     }
   ]
 }

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-09-01-gnb-wacren-connects-six-new-countries-and-sets-foundation-for-climate-prog",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "link",
+   "fact": "WACREN says a new 10Gbps Lagos to Cape Town link is live through the ZAOXI exchange point, connecting WACREN with South Africa's SANReN.",
+   "as_of": "2025-09",
+   "date_precision": "month",
+   "system": "WACREN Lagos-Cape Town link",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

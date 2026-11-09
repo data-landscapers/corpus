@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-09-uga-ministerial-meeting-for-the-ict-infrastructure-development-9th-novembe",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "link",
+   "fact": "The communique says the Northern Corridor ministers acknowledged cross border national backbone connections among the Partner States and welcomed cross-border broadband interconnectivity connecting land-locked countries to undersea cables; no link or operator is named.",
+   "as_of": "2023-11-09",
+   "date_precision": "day",
+   "system": "Northern Corridor cross-border connections",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

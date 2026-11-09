@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-03-eth-strategic-partnership-announced-among-ethio-telecom-djibouti-telecom-a",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "Ethio telecom says Djibouti Telecom signed a memorandum of understanding on 3 December 2024 with Ethio telecom and Sudatel for the Horizon Fiber terrestrial fibre link across Djibouti, Sudan and Ethiopia.",
+   "as_of": "2024-12-03",
+   "date_precision": "day",
+   "system": "Horizon Fiber Initiative",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Horizon Fiber Initiative",
+   "country_label": "Djibouti",
+   "class": "shared",
+   "platform": "",
+   "owner": "Djibouti Telecom, Ethio telecom, Sudatel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

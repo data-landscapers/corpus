@@ -2,6 +2,7 @@ iso3,source_slug,read,merged_on
 AGO,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic,,2026-10-19
 AGO,"2023-06-27 Paratus to build third Angola data center (DC3, Tier IV)",,2026-10-19
 AGO,2024-01-01-crs-302-2024012662-2024-javilian-fiber-backbone-project-feasibility-study,,2026-11-08
+AGO,2024-02-20-ago-angola-and-zambia-sign-ict-cooperation-agreement,,2026-11-09
 AGO,2025-08-01-ago-trafego-de-internet-em-angola-atinge-maximos-historicos,,2026-11-08
 AGO,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report,,2026-10-19
 AGO,2026-06-01-isoc-pulse-ixp-tracker-angola,,2026-11-08
@@ -59,6 +60,7 @@ BWA,2025-04-16-bofinet-invests-p100m-internet-gateway,,2026-11-08
 BWA,2025-05-13-bwa-how-bofinet-plans-to-transform-botswana-into-southern-africa-s-interne,,2026-11-05
 BWA,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report,,2026-10-19
 BWA,2025-11-27-botswana-bids-to-host-sadc-internet-exchange-itweb,,2026-10-19
+BWA,2026-02-17-bwa-bofinet-signs-mou-with-mtc-namibia-to-further-bolster-connectivity-rel,,2026-11-09
 BWA,2026-02-18-mtc-bofinet-namibia-botswana-mou,,2026-10-19
 BWA,2026-03-01-bocra-state-of-icts-2026,,2026-11-08
 BWA,2026-03-13-bocra-sadc-one-network-area-roaming-tariffs-techafricanews,,2026-10-19
@@ -90,6 +92,8 @@ CAF,2026-10-26-caf-vers-une-diversification-de-la-connectivite-en-centrafrique,,
 CIV,2024-09-04-mli-devtelecoms-guinea-mali-fibre-interconnection,,2026-10-19
 CIV,2024-09-05-lbr-sierraloaded-natca-terrestrial-fibre-mou,,2026-10-19
 CIV,2024-09-24-raxio-civ1-abidjan-launch-press-release,,2026-11-08
+CIV,2024-10-13-gin-cooperation-deux-importants-protocoles-d-accord-signes-entre-les-gouve,,2026-11-09
+CIV,2024-10-14-civ-la-guinee-et-la-cote-d-ivoire-signent-un-accord-d-interconnexion-par-f,,2026-11-09
 CIV,2024-12-18-civ-2025-323-78016002230,,2026-10-19
 CIV,2025-01-03-civ-powering-the-civ1-data-centre-in-cote-d-ivoire,,2026-11-08
 CIV,2025-06-30-raxio-artci-civix-ixp-mou-techafricanews,,2026-11-08
@@ -111,6 +115,7 @@ CIV,2026-10-29-acet-unlocking-africas-digital-potential,,2026-11-04
 CMR,2023-02-08-afdb-inauguration-dorsale-optique-nationale-rca,,2026-10-19
 CMR,2024-08-20-xca-central-africa-s-improved-peering-landscape-can-benefit-from-local-con,,2026-11-05
 CMR,2025-05-16-cameroon-chad-digital-cooperation-agreement-techreviewafrica,,2026-10-19
+CMR,2025-05-19-cmr-le-tchad-securise-sa-connectivite-avec-le-cameroun-par-un-nouvel-accor,,2026-11-09
 CMR,2025-07-09-cmr-dgb-cenadi-etude-datacenters,,2026-11-08
 CMR,2025-07-14-minpostel-st-digital-data-center-visite,,2026-11-08
 CMR,2025-12-19-armp-src-datacenter-upgrade-tender,,2026-11-08
@@ -141,8 +146,10 @@ COD,2024-05-15-bdi-abp-memorandum-fibre-rdc-burundi,,2026-10-19
 COD,2024-08-01-cod-ispa-drc-s-cache-fill-cost-sharing-model,,2026-11-08
 COD,2024-08-15-cod-actualite-oadc-texaf-digital-kinshasa,,2026-11-08
 COD,2024-08-20-xca-central-africa-s-improved-peering-landscape-can-benefit-from-local-con,,2026-11-05
+COD,2025-10-24-cod-rdc-tanzanie-une-interconnexion-en-fibre-optique-qui-pourrait-transfor,,2026-11-09
 COD,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report,,2026-10-19
 COD,2026-02-09-paratus-goma-mombasa-fibre-highway-itweb,,2026-10-19
+COD,2026-03-18-tza-tanzania-urged-fast-track-construction-of-ict-backbone-linking-it-with,,2026-11-09
 COD,2026-05-19-ecofin-wiocc-european-dfis-chosen-vehicle-data-centre-race,,2026-10-19
 COD,2026-06-16-anicns-ami-data-center-national-sante,,2026-11-08
 COD,2026-06-29-starlink-africa-availability-costs-performance,,2026-11-08
@@ -157,12 +164,14 @@ COG,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-t
 COG,2023-02-08-afdb-inauguration-dorsale-optique-nationale-rca,,2026-10-19
 COG,2024-08-20-xca-central-africa-s-improved-peering-landscape-can-benefit-from-local-con,,2026-11-05
 COG,2024-08-30-cog-le-secteur-du-numerique-au-congo-brazzaville,,2026-11-05
+COG,2025-05-16-cog-osiane-le-congo-et-5-pays-voisins-desormais-interconnectes-par-fibre-o,,2026-11-09
 COG,2026-01-01-xalam-congo-republic-data-center-market-briefing,,2026-10-19
 COG,2026-05-06-cog-compte-rendu-conseil-des-ministres,,2026-10-19
 COG,2026-05-14-where-is-africas-data-stored,,2026-11-08
 COG,2026-06-02-ceo-ong-pratic-souverainete-numerique-ldb,,2026-10-19
 COG,2026-06-21-congo-telecom-central-africa-digital-hub-ambition-techreviewafrica,,2026-10-19
 COG,2026-06-29-starlink-africa-availability-costs-performance,,2026-11-08
+COG,2026-08-14-cog-numerique-les-tuyaux-ont-gagne-du-terrain-l-usage-cherche-encore-le-si,,2026-11-09
 COG,2026-08-27-appo-local-content-platform-brazzaville,,2026-10-27
 COG,2026-09-24-cog-congo-le-nouveau-datacenter-national-livre-d-ici-la-fin-de-l-annee-202,,2026-10-28
 COG,2026-10-04-xaf-digitaleconomy-fifth-layer-africa-chips,,2026-10-19
@@ -186,8 +195,10 @@ CPV,2026-02-03-cabo-verde-ugpe-eoi-revisao-codigo-aduaneiro-sistemas-electronico
 CPV,2026-06-29-starlink-africa-availability-costs-performance,,2026-11-08
 CPV,2026-07-07-cabo-verde-ugpe-reoi-modernizacao-sistema-estatistico-das-pescas,,2026-10-19
 CPV,2026-11-01-cpv-ixp-tracker-cabo-verde,,2026-11-08
+DJI,2024-01-01-dji-djibouti-telecom-terrestrial-network-ethiopia,,2026-11-09
 DJI,2024-07-17-djibouti-telecom-connectivity-hub,,2026-11-08
 DJI,2024-08-26-dji-douanes-site-de-secours-datacenter,,2026-11-08
+DJI,2024-12-03-eth-strategic-partnership-announced-among-ethio-telecom-djibouti-telecom-a,,2026-11-09
 DJI,2025-01-01-dji-dgtresor-intelligence-artificielle-djibouti,,2026-11-08
 DJI,2025-06-06-wingu-60m-east-africa-expansion-connectingafrica,,2026-10-19
 DJI,2025-07-24-sdn-telebirr-eyes-regional-payment-ties-with-sudan-and-djibouti-aligned-to,,2026-10-27
@@ -211,6 +222,7 @@ DJI,"2026-07-13 Djibouti Seeks ITU, Smart Africa Support for Telecoms and AI Dev
 DJI,2026-08-03-il-ministro-bernini-a-gibuti-e-il-progetto-med-or-sull-underwater,,2026-10-19
 DJI,2026-09-01-africa-finance-corporation-wiocc-2026-wiocc-group-equity,,2026-10-19
 DJI,2026-09-09-lanation-djibouti-horizon-fibre-optique-corne-afrique,,2026-10-19
+DJI,2026-09-09-sdn-horizon-advances-through-pre-commercialisation-workshop-in-addis-ababa,,2026-11-09
 DJI,2026-09-10-dji-btwmedia-horizon-fibre-capacite-urgence-critique,,2026-10-19
 DJI,2026-09-17-wearetech-djibouti-huawei-infrastructures-numeriques,,2026-10-19
 DJI,2026-09-28-dji-adi-helem-wingu-africa-ixp-innovation-centre,,2026-11-08
@@ -218,6 +230,7 @@ DJI,2026-10-14-ifc-53707-wiocc-vii-debt-summary-of-investment,,2026-10-19
 DJI,2026-10-15-shore-africa-ifc-proposes-35m-loan-wiocc,,2026-10-19
 DJI,2026-10-26-dji-djibouti-reviews-progress-on-30-million-in-world-bank-funded-digital-p,,2026-11-04
 DZA,2024-03-26-dza-radioalgerie-12-projets-numerisation-education,,2026-10-19
+DZA,2024-07-08-mrt-l-algerie-abrite-la-5eme-session-du-comite-de-liason-de-la-dorsale-tra,,2026-11-09
 DZA,2024-11-20-dza-linterconnexion-et-ses-enjeux-dans-les-tic-en-algerie,,2026-11-08
 DZA,2025-02-06-dza-mf-modernisation-douanes-alces,,2026-10-22
 DZA,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report,,2026-10-19
@@ -252,7 +265,10 @@ ERI,2026-01-01-isoc-pulse-ixp-tracker-eritrea,,2026-11-08
 ERI,2026-04-16 The Long View - What ICT4D did for Africa and why that deep past matters for today,,2026-10-19
 ERI,2026-06-29-starlink-africa-availability-costs-performance,,2026-11-08
 ERI,2026-08-10-mesobjournal-eritrea-digital-sovereignty,,2026-11-08
+ETH,2024-01-01-dji-djibouti-telecom-terrestrial-network-ethiopia,,2026-11-09
+ETH,2024-12-03-eth-strategic-partnership-announced-among-ethio-telecom-djibouti-telecom-a,,2026-11-09
 ETH,2025-04-01-eth-raxio-et1-data-sheet-technical-specifications,,2026-11-08
+ETH,2025-06-05-ken-joint-communique-between-the-federal-democratic-republic-of-ethiopia-a,,2026-11-09
 ETH,2025-07-24-sdn-telebirr-eyes-regional-payment-ties-with-sudan-and-djibouti-aligned-to,,2026-10-27
 ETH,2025-09-04-wingu-africa-transforming-connectivity-addix-ixp,,2026-11-08
 ETH,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report,,2026-10-19
@@ -270,6 +286,7 @@ ETH,2026-06-29-starlink-africa-availability-costs-performance,,2026-11-08
 ETH,2026-06-30-eth-unesco-ai-ram-country-profile,,2026-10-19
 ETH,2026-08-20-tan-ethio-telecom-horizon-fibre-corridor,,2026-10-19
 ETH,2026-09-09-lanation-djibouti-horizon-fibre-optique-corne-afrique,,2026-10-19
+ETH,2026-09-09-sdn-horizon-advances-through-pre-commercialisation-workshop-in-addis-ababa,,2026-11-09
 ETH,2026-09-10-dji-btwmedia-horizon-fibre-capacite-urgence-critique,,2026-10-19
 ETH,2026-10-15-afreximbank-ethiopia-joins-papss-cowry-2026,,2026-10-19
 ETH,2026-10-29-acet-unlocking-africas-digital-potential,,2026-11-04
@@ -280,6 +297,7 @@ GAB,2024-12-17-gab-gabon-le-ministre-des-affaires-etrangeres-defend-deux-lois-de
 GAB,2025-01-30-gab-gabon-vers-une-modernisation-des-douanes-pour-faciliter-le-commerce-et,,2026-11-08
 GAB,2025-09-19-pch-gabix-gabon-internet-exchange-directory,,2026-11-08
 GAB,2025-10-22-gab-budget-2026-40-45-et-85-89-milliards-pour-moderniser-les-secteurs-de-l,,2026-10-27
+GAB,2025-11-11-gab-cooperation-le-gabon-et-la-guinee-equatoriale-travaillent-pour-une-mei,,2026-11-09
 GAB,2025-11-13-gabon-guinea-ecuatorial-fibra-roaming-frecuencias-techafricanews,,2026-10-19
 GAB,2026-06-29-starlink-africa-availability-costs-performance,,2026-11-08
 GAB,2026-07-08-gabon-sovereign-datacenter-technical-spec,,2026-11-08
@@ -302,6 +320,7 @@ GHA,2025-05-06-gha-csquared-lagos-accra-terrestrial-fibre,,2026-10-19
 GHA,2025-07-31-civ-technical-mission-to-ghana-on-the-deployment-of-sigmat-between-ghana-a,,2026-10-27
 GHA,2025-08-11-tgo-csquared-west-africa-cross-border-backbone,,2026-10-19
 GHA,2025-08-21-ghana-burkina-interference-frequences-transfrontalieres,,2026-10-19
+GHA,2025-09-01-gnb-wacren-connects-six-new-countries-and-sets-foundation-for-climate-prog,,2026-11-09
 GHA,2025-10-27-gha-the-hidden-tax-on-ghana-s-digital-future-a-path-to-faster-cheaper-inte,,2026-11-08
 GHA,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report,,2026-10-19
 GHA,2025-11-11-roa-bn-siege-conakry-backbones-ouest-africains,,2026-11-08
@@ -320,8 +339,12 @@ GHA,2026-10-30-xaf-au-ministers-digital-strategies-to-delivery,,2026-11-04
 GIN,2024-06-20-gmb-ecowas-amilcar-cabral-4th-ministerial,,2026-10-19
 GIN,2024-09-04-mli-devtelecoms-guinea-mali-fibre-interconnection,,2026-10-19
 GIN,2024-09-05-lbr-sierraloaded-natca-terrestrial-fibre-mou,,2026-10-19
+GIN,2024-10-13-gin-cooperation-deux-importants-protocoles-d-accord-signes-entre-les-gouve,,2026-11-09
+GIN,2024-10-14-civ-la-guinee-et-la-cote-d-ivoire-signent-un-accord-d-interconnexion-par-f,,2026-11-09
+GIN,2024-11-26-gin-la-guinee-et-la-sierra-leone-signent-un-accord-pour-renforcer-leur-int,,2026-11-09
 GIN,2025-06-23-sogeb-leonecom-fibre-interconnection,,2026-10-19
 GIN,2025-08-11-tgo-csquared-west-africa-cross-border-backbone,,2026-10-19
+GIN,2025-09-01-gnb-wacren-connects-six-new-countries-and-sets-foundation-for-climate-prog,,2026-11-09
 GIN,2025-11-11-roa-bn-siege-conakry-backbones-ouest-africains,,2026-11-08
 GIN,2025-11-17-natca-guinea-free-roaming,,2026-10-19
 GIN,2026-01-01-gin-mpten-realisations-2025,,2026-11-08
@@ -333,6 +356,7 @@ GIN,2026-10-04-xaf-digitaleconomy-fifth-layer-africa-chips,,2026-10-19
 GIN,2026-11-01-gin-ixp-tracker-guinea,,2026-11-08
 GMB,2024-06-20-gmb-ecowas-amilcar-cabral-4th-ministerial,,2026-10-19
 GMB,2025-02-05-west-african-roaming-mou-lbr-gmb-sle,,2026-10-19
+GMB,2025-09-01-gnb-wacren-connects-six-new-countries-and-sets-foundation-for-climate-prog,,2026-11-09
 GMB,2026-04-01-watra-infrastructure-development-working-group-report-2023-2025,,2026-10-19
 GMB,2026-06-26-gmb-afrimoney-connects-the-gambia-and-sierra-leone-directly-in-historic-fi,,2026-10-27
 GMB,2026-06-26-senegal-gambia-digital-integration-regulatory-cooperation-techreviewafrica,,2026-10-19
@@ -343,6 +367,7 @@ GNB,2024-11-21-cpv-relevant-recommendations-to-ensure-the-success-of-sigmat-in-t
 GNB,2025-01-01-gnb-guinea-bissau-digital-watch-observatory,,2026-11-08
 GNB,2025-05-21-ben-launch-of-the-interconnected-transit-goods-management-system-sigmat-be,,2026-10-27
 GNB,"2025-06-10 Guinea-Bissau deploys efforts to digitize birth registration, national ID systems",,2026-10-19
+GNB,2025-09-01-gnb-wacren-connects-six-new-countries-and-sets-foundation-for-climate-prog,,2026-11-09
 GNB,2025-09-23-gnb-reuniao-de-trabalho-entre-gwix-e-wardip-gb,,2026-11-08
 GNB,2026-01-01-gnb-cfe-sobre-nos-centro-formalizacao-empresas,,2026-10-19
 GNB,"2026-03-16 Women traders receive ECOWAS biometric ID in Sao Domingos, Guinea-Bissau",,2026-10-19
@@ -350,28 +375,34 @@ GNB,2026-06-29-starlink-africa-availability-costs-performance,,2026-11-08
 GNB,2026-08-21-pch-report-on-internet-exchange-point-locations,,2026-11-08
 GNQ,2017-01-01-pida-pap-equatorial-guinea-internet-exchange-point,,2026-10-19
 GNQ,2024-08-20-xca-central-africa-s-improved-peering-landscape-can-benefit-from-local-con,,2026-11-05
+GNQ,2025-11-11-gab-cooperation-le-gabon-et-la-guinee-equatoriale-travaillent-pour-une-mei,,2026-11-09
 GNQ,2025-11-13-gabon-guinea-ecuatorial-fibra-roaming-frecuencias-techafricanews,,2026-10-19
 GNQ,2025-11-14-spin-gabon-guinee-equatoriale-interconnexion-dorsales,,2026-10-19
 GNQ,2026-06-29-starlink-africa-availability-costs-performance,,2026-11-08
 KEN,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic,,2026-10-19
+KEN,2023-11-09-uga-ministerial-meeting-for-the-ict-infrastructure-development-9th-novembe,,2026-11-09
 KEN,2024-04-08-ken-session-3-internet-exchange-points-and-best-practices-for-internationa,,2026-11-08
 KEN,2024-05-24-ken-kixp-presentaion-kenog-may-2024,,2026-11-08
 KEN,2024-09-11-dcnn-linx-nairobi-expands-to-paix,,2026-11-08
 KEN,2024-11-11-icolo-linx-mombasa-mba2,,2026-11-08
 KEN,2025-02-27-linx-mombasa-ready-for-business-from-icolo-data-centers-in-kenya-news,,2026-11-08
 KEN,2025-02-28-developingtelecoms-ixafrica-nbox1-phase-one-kixp,,2026-11-08
+KEN,2025-06-05-ken-joint-communique-between-the-federal-democratic-republic-of-ethiopia-a,,2026-11-09
 KEN,2025-07-20-kenya-and-tanzania-launch-terrestrial-fiber-link-connection,,2026-10-19
 KEN,2025-07-20-tza-dailynews-horohoro-fibre-redundancy-route,,2026-10-19
+KEN,2025-07-21-ken-kenya-and-tanzania-launch-cross-border-fibre-link-to-boost-east-africa,,2026-11-09
 KEN,2025-08-13-icolos-mombasa-peering-expands-as-kenya-internet-exchange-point-kixp-launches-ne,,2026-11-08
 KEN,2025-09-12-kenya-paratus-cloud-launch-ixafrica,,2026-11-08
 KEN,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report,,2026-10-19
 KEN,2026-01-01-kixp-kenya-internet-exchange-point-nairobi,,2026-11-08
 KEN,2026-02-05-horizon-fiber-binding-agreement-connectingafrica,,2026-10-19
+KEN,2026-02-09-paratus-goma-mombasa-fibre-highway-itweb,,2026-11-09
 KEN,2026-05-04-east-africa-regional-satellite-ncrcbsi,,2026-10-19
 KEN,2026-05-25 Local Infrastructure Lower Costs How Peering Is Moving the Needle on Internet Affordability,,2026-11-08
 KEN,2026-07-29-kenya-and-tanzania-launch-terrestrial-fiber-link-connection,,2026-10-19
 KEN,2026-08-05-eaaif-eastcastle-liquid-82m-eaif,,2026-10-19
 KEN,2026-08-24-chimpreports-ncip-partner-state-communications-satellite-study,,2026-10-19
+KEN,2026-08-24-rwa-uganda-rwanda-complete-fiber-link-at-mirama-hills-border-as-region-eye,,2026-11-09
 KEN,2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre,,2026-10-19
 KEN,2026-09-01-africa-finance-corporation-wiocc-2026-wiocc-group-equity,,2026-10-19
 KEN,2026-09-22-gha-graphic-masterkey-digital-skills-wallet,,2026-10-19
@@ -433,6 +464,7 @@ MDG,2026-06-29-starlink-africa-availability-costs-performance,,2026-11-08
 MDG,2026-07-13-isoc-local-peering-africa,,2026-11-08
 MLI,2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable,,2026-10-19
 MLI,2024-01-01-mli-afribone-a-propos-solar-data-center,,2026-10-19
+MLI,2024-07-08-mrt-l-algerie-abrite-la-5eme-session-du-comite-de-liason-de-la-dorsale-tra,,2026-11-09
 MLI,2024-07-24-mli-douanes-interconnexion-systemes-aes,,2026-10-19
 MLI,2024-09-04-mli-devtelecoms-guinea-mali-fibre-interconnection,,2026-10-19
 MLI,2025-01-01-mli-isoc-mali-publications,,2026-11-08
@@ -454,6 +486,7 @@ MOZ,2025-05-13-moz-icolo-s-peering-environment-expands-in-maputo-with-the-entry-
 MOZ,2025-05-15-mozambique-internet-exchange-new-pop-digital-realty-maputo,,2026-11-08
 MOZ,2025-10-30-morenet-international-bandwidth-5-to-60-gbps-amlight-sacs,,2026-11-08
 MOZ,2026-02-23 Zambia and Mozambique launch fibre-optic interconnector at Chanida–Cassacatiza border,,2026-10-19
+MOZ,2026-02-23-moz-mocambique-e-zambia-avancam-com-interligacao-digital-transfronteirica,,2026-11-09
 MOZ,2026-06-22-chapo-pledges-5g-district-capitals-2027-clubofmozambique,,2026-10-19
 MOZ,2026-06-29-starlink-africa-availability-costs-performance,,2026-11-08
 MOZ,2026-07-01-isoc-pulse-ixp-tracker-mozix,,2026-11-08
@@ -463,8 +496,10 @@ MOZ,2026-10-10-moz-techdisruptor-csm-tma-beira-corridor-observatory,,2026-10-19
 MOZ,2026-10-15-shore-africa-ifc-proposes-35m-loan-wiocc,,2026-10-19
 MOZ,2026-11-01-moz-ixp-tracker-mozambique,,2026-11-08
 MRT,2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable,,2026-10-19
+MRT,2024-07-08-mrt-l-algerie-abrite-la-5eme-session-du-comite-de-liason-de-la-dorsale-tra,,2026-11-09
 MRT,2025-05-28-mauritanie-lancement-ixp-national,,2026-11-08
 MRT,2025-08-05-mrt-de-grands-projets-porteurs-de-modernisation-de-l-administration,,2026-11-08
+MRT,2025-09-01-gnb-wacren-connects-six-new-countries-and-sets-foundation-for-climate-prog,,2026-11-09
 MRT,2025-11-19-mrt-009-2025,,2026-11-04
 MRT,2025-12-03-mrt-mauritanie-24-2-millions-pour-poursuivre-la-transformation-numerique-e,,2026-11-08
 MRT,2026-03-24-apd-mudawala-002-2026-nizam-maadeni-rabt-bayni-sijil-watani-lilsukkan,,2026-10-19
@@ -514,6 +549,7 @@ NAM,2024-01-01-crs-302-2024012662-2024-javilian-fiber-backbone-project-feasibili
 NAM,2025-01-01-mict-strategic-plan-2025-2030-data-centre-energy,,2026-11-08
 NAM,2025-10-14-namibia-taps-angosat-2-to-boost-connectivity,,2026-10-19
 NAM,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report,,2026-10-19
+NAM,2026-02-17-bwa-bofinet-signs-mou-with-mtc-namibia-to-further-bolster-connectivity-rel,,2026-11-09
 NAM,2026-06-12-namibia-angola-ink-satellite-deal-itweb,,2026-10-19
 NAM,"2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms",,2026-10-19
 NAM,2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps,,2026-10-19
@@ -522,6 +558,7 @@ NAM,2026-08-01-nam-isoc-pulse-ixp-tracker-windhoek,,2026-11-08
 NAM,2026-10-04-xaf-digitaleconomy-fifth-layer-africa-chips,,2026-10-19
 NER,2019-01-01-afdb-reg-005-chad---trans-saharan-fiber-optic-backbone,,2026-10-19
 NER,2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable,,2026-10-19
+NER,2024-07-08-mrt-l-algerie-abrite-la-5eme-session-du-comite-de-liason-de-la-dorsale-tra,,2026-11-09
 NER,2025-06-19-niger-tchad-protocole-interconnexion-dts-fo,,2026-10-19
 NER,2025-07-24-national-committee-critical-digital-infrastructure-lesahel,,2026-11-08
 NER,2025-08-11-tgo-csquared-west-africa-cross-border-backbone,,2026-10-19
@@ -544,7 +581,9 @@ NER,2026-10-06-ner-anp-assamaka-dorsale-transsaharienne-fibre,,2026-10-19
 NER,2026-10-06-ner-mcnti-niger-algerie-interconnexion-fibre-agadez,,2026-10-19
 NER,2026-10-07-ner-dza-mcnti-liaison-fibre-transsaharienne-assamaka,,2026-10-19
 NER,2026-11-05-ner-numerique-dans-lespace-aes-la-feuille-de-route-de-lan-ii-adoptee,,2026-11-08
+NGA,2024-07-08-mrt-l-algerie-abrite-la-5eme-session-du-comite-de-liason-de-la-dorsale-tra,,2026-11-09
 NGA,2025-05-06-gha-csquared-lagos-accra-terrestrial-fibre,,2026-10-19
+NGA,2025-09-01-gnb-wacren-connects-six-new-countries-and-sets-foundation-for-climate-prog,,2026-11-09
 NGA,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report,,2026-10-19
 NGA,2025-12-05-ifc-wiocc-group-2025-wiocc-vi-sustainability-linked-loan,,2026-10-19
 NGA,2026-02-05-ixpn-traffic-growth-local-peering,,2026-11-08
@@ -570,7 +609,9 @@ NGA,2026-10-22-nga-fg-proposes-shared-ai-computing-infrastructure,,2026-10-27
 NGA,2026-10-29-acet-unlocking-africas-digital-potential,,2026-11-04
 NGA,2026-11-04-fibre-cuts-and-nigerias-digital-economy,,2026-11-05
 NGA,2026-11-04-nga-nigeria-targets-90-local-internet-traffic-regional-hub-power,,2026-11-08
+NGA,2026-11-08-nga-nigeria-s-internet-capacity-expands-as-data-centre-links-hit-1tbps,,2026-11-09
 RWA,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic,,2026-10-19
+RWA,2023-11-09-uga-ministerial-meeting-for-the-ict-infrastructure-development-9th-novembe,,2026-11-09
 RWA,2024-01-08-ben-promouvoir-une-afrique-numerique-renforcer-les-points-d-echange-intern,,2026-11-08
 RWA,2025-10-31-rwa-rdap-tender-disaster-recovery-site,,2026-11-08
 RWA,2025-11-01-afpif-2026-rwanda-hosting-announcement,,2026-11-08
@@ -585,6 +626,7 @@ RWA,2026-08-11-giz-smart-africa-digital-sovereignty-interview,,2026-10-19
 RWA,2026-08-13-afpif-2026-kigali-inland-connectivity-taarifa,,2026-11-08
 RWA,2026-08-18-paratus-rwanda-afpif-2026,,2026-10-19
 RWA,2026-08-24-chimpreports-ncip-partner-state-communications-satellite-study,,2026-10-19
+RWA,2026-08-24-rwa-uganda-rwanda-complete-fiber-link-at-mirama-hills-border-as-region-eye,,2026-11-09
 RWA,2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre,,2026-10-19
 RWA,2026-09-09-techtrendske-paratus-east-africa-connectivity-itw,,2026-10-19
 RWA,2026-09-15-xaf-smbtech-hca-conference-cross-border-buildout,,2026-11-08
@@ -594,6 +636,7 @@ RWA,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single
 RWA,2026-10-29-acet-unlocking-africas-digital-potential,,2026-11-04
 RWA,2026-11-01-rwa-ixp-tracker-rwanda-internet-exchange-rinex,,2026-11-08
 SDN,2023-09-11-pida-port-sudan-douala-fibre-corridor,,2026-10-19
+SDN,2024-12-03-eth-strategic-partnership-announced-among-ethio-telecom-djibouti-telecom-a,,2026-11-09
 SDN,2025-07-24-sdn-telebirr-eyes-regional-payment-ties-with-sudan-and-djibouti-aligned-to,,2026-10-27
 SDN,2025-11-11-sudan-internet-society-pulse-country-report,,2026-11-08
 SDN,2025-11-11-sudan-welfare-monitoring-survey-round-iv-2025,,2026-11-08
@@ -611,11 +654,13 @@ SDN,2026-06-29-starlink-africa-availability-costs-performance,,2026-11-08
 SDN,2026-07-08-sudan-afrinic-isoc-ixp-cooperation,,2026-11-08
 SDN,2026-08-01-ixp-tracker-sixp,,2026-11-08
 SDN,2026-09-09-lanation-djibouti-horizon-fibre-optique-corne-afrique,,2026-10-19
+SDN,2026-09-09-sdn-horizon-advances-through-pre-commercialisation-workshop-in-addis-ababa,,2026-11-09
 SDN,2026-09-10-dji-btwmedia-horizon-fibre-capacite-urgence-critique,,2026-10-19
 SEN,2024-06-15-decret-2024-953-attributions-ministre-communication-telecommunications-numerique,,2026-11-08
 SEN,2025-03-26-senum-sonatel-partnership,,2026-11-08
 SEN,2025-05-09-techafricanews-phase3-sonatel-fibre,,2026-10-19
 SEN,2025-08-11-tgo-csquared-west-africa-cross-border-backbone,,2026-10-19
+SEN,2025-09-01-gnb-wacren-connects-six-new-countries-and-sets-foundation-for-climate-prog,,2026-11-09
 SEN,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report,,2026-10-19
 SEN,2025-11-11-roa-bn-siege-conakry-backbones-ouest-africains,,2026-11-08
 SEN,2026-04-01-watra-infrastructure-development-working-group-report-2023-2025,,2026-10-19
@@ -630,12 +675,14 @@ SEN,2026-10-15-sen-stellarix-sen-startup-cloud-souverain,,2026-11-08
 SEN,2026-10-29-acet-unlocking-africas-digital-potential,,2026-11-04
 SLE,2024-06-20-gmb-ecowas-amilcar-cabral-4th-ministerial,,2026-10-19
 SLE,2024-09-05-lbr-sierraloaded-natca-terrestrial-fibre-mou,,2026-10-19
+SLE,2024-11-26-gin-la-guinee-et-la-sierra-leone-signent-un-accord-pour-renforcer-leur-int,,2026-11-09
 SLE,2025-01-01-michcom-ix,,2026-11-08
 SLE,2025-02-05-west-african-roaming-mou-lbr-gmb-sle,,2026-10-19
 SLE,2025-06-01 Model Framework for Building Internet Resilience in Africa,,2026-11-08
 SLE,2025-06-23-sogeb-leonecom-fibre-interconnection,,2026-10-19
 SLE,2025-08-11-tgo-csquared-west-africa-cross-border-backbone,,2026-10-19
 SLE,2025-08-16-slixp-feasibility-study-completed,,2026-11-08
+SLE,2025-09-01-gnb-wacren-connects-six-new-countries-and-sets-foundation-for-climate-prog,,2026-11-09
 SLE,2025-11-11-roa-bn-siege-conakry-backbones-ouest-africains,,2026-11-08
 SLE,2025-11-17-natca-guinea-free-roaming,,2026-10-19
 SLE,2026-06-03-sierra-leone-michcom-ix-peeringdb-exchange-record,,2026-11-08
@@ -653,11 +700,13 @@ SOM,2026-10-14-ifc-53707-wiocc-vii-debt-summary-of-investment,,2026-10-19
 SOM,2026-10-15-shore-africa-ifc-proposes-35m-loan-wiocc,,2026-10-19
 SOM,2026-10-16-som-pch-soixp-directory-entry,,2026-11-08
 SSD,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic,,2026-10-19
+SSD,2023-11-09-uga-ministerial-meeting-for-the-ict-infrastructure-development-9th-novembe,,2026-11-09
 SSD,2025-06-25-ssd-ixp-peering-roadshow-and-workshop-concludes-successfully-in-juba-south,,2026-11-08
 SSD,2025-07-01-isoc-pulse-south-sudan-resilience-index,,2026-11-08
 SSD,2025-08-29-south-sudan-eardip-implementation-support-mission,,2026-11-08
 SSD,2025-11-01-isoc-south-sudan-ixp-implementation-update,,2026-11-08
 SSD,2026-01-01-ssd-south-sudan-digital-watch-observatory,,2026-10-22
+SSD,2026-02-23-ssd-major-milestone-for-africa-s-digital-connectivity,,2026-11-09
 SSD,2026-05-04-east-africa-regional-satellite-ncrcbsi,,2026-10-19
 SSD,2026-06-29-starlink-africa-availability-costs-performance,,2026-11-08
 SSD,2026-06-30-world-bank-eardip-isr-seq7,,2026-10-19
@@ -685,9 +734,11 @@ SYC,2026-06-29-starlink-africa-availability-costs-performance,,2026-11-08
 SYC,2026-08-31-afcfta-quest-ghana-digital-trade-corridor,,2026-10-19
 TCD,2011-06-06-wb-tcd-cab-apl1b-central-african-backbone,,2026-10-19
 TCD,2019-01-01-afdb-reg-005-chad---trans-saharan-fiber-optic-backbone,,2026-10-19
+TCD,2024-07-08-mrt-l-algerie-abrite-la-5eme-session-du-comite-de-liason-de-la-dorsale-tra,,2026-11-09
 TCD,2024-08-20-xca-central-africa-s-improved-peering-landscape-can-benefit-from-local-con,,2026-11-05
 TCD,2025-03-07-trans-saharan-fiber-project-delays,,2026-10-19
 TCD,2025-05-01-tcd-connectivite-au-tchad-entre-vulnerabilite-et-ambitions-de-transformati,,2026-11-08
+TCD,2025-05-19-cmr-le-tchad-securise-sa-connectivite-avec-le-cameroun-par-un-nouvel-accor,,2026-11-09
 TCD,2026-01-06 Chad invests 175m in national data center and networks,,2026-11-08
 TCD,2026-01-11-tchadinfos-dts-degradations-site-bol,,2026-10-19
 TCD,2026-02-09-chad-fast-track-ndjamena-mbere-fiber-link-cameroon-connectingafrica,,2026-10-19
@@ -731,11 +782,14 @@ TUN,2026-10-29-acet-unlocking-africas-digital-potential,,2026-11-04
 TZA,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic,,2026-10-19
 TZA,2025-07-20-kenya-and-tanzania-launch-terrestrial-fiber-link-connection,,2026-10-19
 TZA,2025-07-20-tza-dailynews-horohoro-fibre-redundancy-route,,2026-10-19
+TZA,2025-07-21-ken-kenya-and-tanzania-launch-cross-border-fibre-link-to-boost-east-africa,,2026-11-09
 TZA,2025-08-19-airtel-tanzania-zictia-broadband-zanzibar,,2026-10-19
 TZA,2025-09-24-stellarix-joins-tispa,,2026-11-08
+TZA,2025-10-24-cod-rdc-tanzanie-une-interconnexion-en-fibre-optique-qui-pourrait-transfor,,2026-11-09
 TZA,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report,,2026-10-19
 TZA,2026-01-01-raxio-tanzania-data-centre,,2026-11-08
 TZA,2026-02-05-horizon-fiber-binding-agreement-connectingafrica,,2026-10-19
+TZA,2026-03-18-tza-tanzania-urged-fast-track-construction-of-ict-backbone-linking-it-with,,2026-11-09
 TZA,2026-04-23-wingu-cloud-exchange-tanzania-lodge-interview,,2026-11-08
 TZA,2026-05-04-east-africa-regional-satellite-ncrcbsi,,2026-10-19
 TZA,2026-06-25-yas-zictia-expand-broadband-zanzibar,,2026-10-19
@@ -746,7 +800,9 @@ TZA,2026-08-28-tispa-internet-exchange-points,,2026-11-08
 TZA,2026-09-05-tanzania-drc-tanganyika-fibre-sgr-dailynews,,2026-10-19
 TZA,2026-09-25-tza-tix-100g-core-upgrade,,2026-11-08
 TZA,2026-11-01-tza-ixp-tracker-tanzania,,2026-11-08
+TZA,2026-11-02-uga-questions-swirl-over-internet-deal-between-uganda-tanzania,,2026-11-09
 UGA,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic,,2026-10-19
+UGA,2023-11-09-uga-ministerial-meeting-for-the-ict-infrastructure-development-9th-novembe,,2026-11-09
 UGA,2024-06-01-uga-regional-electronic-cargo-tracking-system-rects,,2026-10-27
 UGA,2024-11-01-uga-manifesto-week-ict-ministry-reveals-key-achievements-as-internet-penet,,2026-11-08
 UGA,2025-05-14-eac-payment-masterplan-unveiled,,2026-10-19
@@ -763,10 +819,12 @@ UGA,2026-05-25 Local Infrastructure Lower Costs How Peering Is Moving the Needle
 UGA,2026-06-29-starlink-africa-availability-costs-performance,,2026-11-08
 UGA,2026-08-09-isoc-pulse-uganda-january-2026-shutdown-record,,2026-11-08
 UGA,2026-08-24-chimpreports-ncip-partner-state-communications-satellite-study,,2026-10-19
+UGA,2026-08-24-rwa-uganda-rwanda-complete-fiber-link-at-mirama-hills-border-as-region-eye,,2026-11-09
 UGA,2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre,,2026-10-19
 UGA,2026-09-01-africa-finance-corporation-wiocc-2026-wiocc-group-equity,,2026-10-19
 UGA,2026-09-07-newvision-ucc-explains-internet-shutdown,,2026-11-08
 UGA,2026-10-14-ifc-53707-wiocc-vii-debt-summary-of-investment,,2026-10-19
+UGA,2026-11-02-uga-questions-swirl-over-internet-deal-between-uganda-tanzania,,2026-11-09
 ZAF,2024-05-23-zaf-open-access-data-centres-isando-achieves-tier-iii-design-certification,,2026-11-04
 ZAF,2024-07-25 Africa Data Centres adding 6MW capacity in Cape Town,,2026-11-08
 ZAF,2024-07-25-adc-zaf-cpt1-6mw-expansion-live-release,,2026-11-08
@@ -796,6 +854,7 @@ ZAF,2026-10-18-zaf-vodacoms-technology-chief-outlines-regional-data-centre-strat
 ZAF,2026-10-20-zaf-south-africa-s-ratification-of-the-afcfta-protocol-on-digital-trade,,2026-10-22
 ZAF,2026-10-29-acet-unlocking-africas-digital-potential,,2026-11-04
 ZMB,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic,,2026-10-19
+ZMB,2024-02-20-ago-angola-and-zambia-sign-ict-cooperation-agreement,,2026-11-09
 ZMB,2024-08-02-zambia-lsk-ix-exchange-record,,2026-11-08
 ZMB,2024-09-19-zmb-how-does-zambia-accelerate-its-internet-resilience,,2026-11-08
 ZMB,2025-01-01-city-channels-cable-network-joins-lskix,,2026-11-08
@@ -804,6 +863,7 @@ ZMB,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-rep
 ZMB,2025-11-10-zambia-gewel2-additional-financing-project-paper,,2026-11-08
 ZMB,2025-12-08-afrinic-dns-deployment-lusaka-ixp-linkedin,,2026-11-08
 ZMB,2026-01-01-xalam-zambia-data-center-market-briefing,,2026-10-19
+ZMB,2026-02-23-moz-mocambique-e-zambia-avancam-com-interligacao-digital-transfronteirica,,2026-11-09
 ZMB,2026-06-29-starlink-africa-availability-costs-performance,,2026-11-08
 ZMB,2026-07-27-comesa-idea-annual-digital-forum-launch-lusaka,,2026-10-19
 ZMB,2026-07-30-comesa-idea-3rd-project-steering-committee,,2026-10-19

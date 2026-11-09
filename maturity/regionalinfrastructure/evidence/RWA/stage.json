@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "shared",
-      "stage": "no evidence",
-      "built": "",
+      "stage": "3",
+      "built": "building",
       "service": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found names a digital link or facility the country shares with another African country, or says it has none.",
-      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
-      "as_at": "2026-11-08"
+      "stage_sources": "RWA-005",
+      "gaps": "No source found says a shared link, exchange or data facility is in service.",
+      "note": "The Mirama Hills link with Uganda was built in 2026 under the Northern Corridor projects, so stage 3. It is not yet switched on, so not 4.",
+      "as_at": "2026-11-09"
     }
   ]
 }

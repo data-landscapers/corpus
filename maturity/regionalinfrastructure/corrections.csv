@@ -185,3 +185,10 @@ ZWE,012,service,in-service,removed,"redesign 2026-11-07: a partnership inside Zi
 ZWE,013,built,building,removed,"redesign 2026-11-07: a partnership inside Zimbabwe with one company, no party in Botswana or Zambia named, is other"
 ZWE,014,built,agreed,removed,"redesign 2026-11-07: a partnership inside Zimbabwe with one company, no party in Botswana or Zambia named, is other"
 SLE,006,service,link,added: link,redesign 2026-11-07: a link counts for each country a source names at its ends; the row restates GIN-004 for the other end
+KEN,015,service,in-service,removed,"one company's network across borders, with no arrangement between bodies of two countries named, is other"
+KEN,019,service,link,removed,"the communique acknowledges cross-border connections among the Northern Corridor states and names no link, operator or party at either end"
+RWA,006,service,link,removed,"the communique acknowledges cross-border connections among the Northern Corridor states and names no link, operator or party at either end"
+SSD,009,service,link,removed,"the communique acknowledges cross-border connections among the Northern Corridor states and names no link, operator or party at either end"
+UGA,011,service,link,removed,"the communique acknowledges cross-border connections among the Northern Corridor states and names no link, operator or party at either end"
+BWA,006,built,building,added: building,"the source says the two operators recently completed cross-border fibre interconnections at Mamuno-Charles Hill and Ngoma, which the drafter left out"
+NAM,009,built,building,added: building,"the source says the two operators recently completed cross-border fibre interconnections at Mamuno-Charles Hill and Ngoma, which the drafter left out"

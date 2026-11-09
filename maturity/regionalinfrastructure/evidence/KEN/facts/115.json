@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-21-ken-kenya-and-tanzania-launch-cross-border-fibre-link-to-boost-east-africa",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "link",
+   "fact": "TechAfrica News reports the Dar-es-Salaam to Mombasa terrestrial fibre link was officially launched on 21 July 2025 at the Lunga Lunga/Horohoro border, a joint effort of Kenya's ICT Authority and TTCL, connecting Kenya's NICTBB to Tanzania's national fibre network.",
+   "as_of": "2025-07-21",
+   "date_precision": "day",
+   "system": "Dar-es-Salaam to Mombasa Terrestrial Fibre Link",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Dar-es-Salaam to Mombasa Terrestrial Fibre Link",
+   "country_label": "Kenya",
+   "class": "shared",
+   "platform": "",
+   "owner": "ICT Authority (Kenya) and TTCL (Tanzania)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

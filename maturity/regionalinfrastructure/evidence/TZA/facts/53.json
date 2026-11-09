@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-02-uga-questions-swirl-over-internet-deal-between-uganda-tanzania",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "The Monitor reports that Tanzania Telecommunications Corporation (TTCL) and Uganda's NITA-U signed a memorandum of understanding on 29 September 2023, under which Tanzania would connect Uganda's national fibre infrastructure to its regional fibre loop.",
+   "as_of": "2023-09-29",
+   "date_precision": "day",
+   "system": "NITA-U and TTCL fibre interconnection MoU",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

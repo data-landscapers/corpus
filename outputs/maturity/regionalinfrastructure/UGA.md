@@ -2,6 +2,10 @@
 
 ## Digital links and facilities shared with other African countries
 
+**Shared infrastructure agreed and under construction.** Uganda and Rwanda [made the final fibre connection at the Mirama Hills border](<https://pmldaily.com/news/2026/08/uganda-rwanda-complete-fiber-link-at-mirama-hills-border.html>) earlier in 2026, under the Northern Corridor Integration Projects. The same report says Uganda and Kenya have completed a connection at Busia. An agreement between Uganda's NITA-U and Kenya's ICT Authority is still to be finalised there. NITA-U and Tanzania's TTCL [signed a memorandum on 29 September 2023](<https://www.monitor.co.ug/uganda/news/national/questions-swirl-over-internet-deal-between-uganda-tanzania-5654914>) to join Uganda's backbone to Tanzania's fibre loop.
+
+**Shared infrastructure in service, by kind.** No source found says a shared link is in service. Operators must still [agree capacity at Mirama Hills and finalise the Busia agreement](<https://pmldaily.com/news/2026/08/uganda-rwanda-complete-fiber-link-at-mirama-hills-border.html>) before commercial service. In November 2026 the Monitor [found little record of what the Tanzania memorandum led to](<https://www.monitor.co.ug/uganda/news/national/questions-swirl-over-internet-deal-between-uganda-tanzania-5654914>). No exchange point or data facility run with another country is on record.
+
 ***Also on file***. [Paratus Goma to Mombasa route](<https://itweb.africa/article/paratus-lights-up-new-east-africa-fibre-highway-linking-goma-to-mombasa/wbrpOqg2aJQMDLZn>); [Bayobab Mombasa to Kampala route](<https://www.connectingafrica.com/connectivity/east-african-countries-to-launch-regional-satellite>); [Project East2West](<https://www.africa50.com/media/news/article/africa50-and-mtn-globalconnect-announce-a-partnership-to-develop-a-us320-million-pan-african-terrestrial-fibre-optic-cable-connecting-10-countries-project-east2west/>).
 
-***Not found***. Nothing found names digital infrastructure Uganda shares with another African country under an agreement. Nothing found says it has none.
+***Not found***. No source found says a shared link, exchange or data centre is in service.

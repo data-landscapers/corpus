@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-14-civ-la-guinee-et-la-cote-d-ivoire-signent-un-accord-d-interconnexion-par-f",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "Agence Ecofin reports that the Ivorian and Guinean ministers signed on 11 October 2024 a partnership agreement to interconnect the two countries' fibre optic networks.",
+   "as_of": "2024-10-11",
+   "date_precision": "day",
+   "system": "Guinea-Cote d'Ivoire fibre interconnection",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

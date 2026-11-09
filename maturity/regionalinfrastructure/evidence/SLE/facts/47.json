@@ -1,0 +1,17 @@
+{
+ "slug": "2024-11-26-gin-la-guinee-et-la-sierra-leone-signent-un-accord-pour-renforcer-leur-int",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "Sierra Leone's minister Salima Monorma Bah and Guinea's minister Rose Pola Pricemou signed a framework agreement in Freetown on 22 November 2024 that includes interconnecting the two countries' national internet backbones, per Agence Ecofin.",
+   "as_of": "2024-11-22",
+   "date_precision": "day",
+   "system": "Guinea-Sierra Leone backbone interconnection",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

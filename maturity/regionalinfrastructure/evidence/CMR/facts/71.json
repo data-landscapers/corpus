@@ -1,0 +1,27 @@
+{
+ "slug": "2025-05-19-cmr-le-tchad-securise-sa-connectivite-avec-le-cameroun-par-un-nouvel-accor",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "Sika Finance reports that on 15 May 2025 Cameroon and Chad agreed that CAMTEL would finish the Yagoua-Bongor link by end June 2025, activate Nana-Mbere and raise cross-border capacity to 100 Gbit/s.",
+   "as_of": "2025-05-15",
+   "date_precision": "day",
+   "system": "CAMTEL-SOTEL fibre interconnection",
+   "class": "shared"
+  },
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "link",
+   "fact": "Sika Finance says Chad's operator SOTEL buys connectivity from Cameroon's CAMTEL over a fibre interconnection in service since 2015.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "CAMTEL-SOTEL fibre interconnection",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
