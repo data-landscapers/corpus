@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-01-som-meet-the-man-building-somalia-s-central-bank-from-the-ground",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "African Business reports the Central Bank of Somalia moved to regulate mobile money providers in 2021, per the governor's interview.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "Central Bank of Somalia mobile money regulation",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
