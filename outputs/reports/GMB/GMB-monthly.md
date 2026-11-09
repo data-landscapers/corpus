@@ -1,11 +1,11 @@
 ---
 title: Gambia — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: GMB
-ledger_rows: 14
+ledger_rows: 15
 not_held: 2
-record: 5a33a68ad88d
+record: 500f1246d72b
 ---
 
 # News, Oct – Nov 2026
@@ -254,6 +254,8 @@ UNDP and The Gambia's Independent Electoral Commission launched e-Monitor Plus a
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
 <a href="#literacy">Literacy</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#training-and-skills">Training and skills</a>
 </nav>
 
 ### Literacy
@@ -267,6 +269,22 @@ UNDP and The Gambia's Independent Electoral Commission launched e-Monitor Plus a
 **[EOI - Gambia - Digital Literacy Policy and Strategy Formulation - DIGEST](https://www.afdb.org/en/documents/eoi-gambia-digital-literacy-policy-strategy-98330)** — African Development Bank, 6 November 2026
 
 Summarised under [New investments](#new-investments).
+
+</div>
+
+</div>
+
+### Training and skills
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Labour Digital Skill programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gov't launches D40M digital skills programme for 1,280 youths](https://thepoint.gm/africa/gambia/headlines/govt-launches-d40m-digital-skills-programme-for-1280-youths)** — The Point (The Gambia), 6 November 2026
+
+Contracts with USET, CSU and IIHTG; software, cybersecurity, AI training; three-month internships.
 
 </div>
 
