@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-ben-foundational-identity-4",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "ANIP's deck says AI is already used at the agency to detect suspicious activities and fake documents, automate cross-checks and protect register integrity.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ANIP AI fraud and fake-document detection",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ANIP AI fraud and fake-document detection",
+   "country_label": "ANIP",
+   "class": "govai",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
