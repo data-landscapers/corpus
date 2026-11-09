@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-16-gab-p175987-amendment-letter-loan-agreement-digital-gabon",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "The amended Digital Gabon financing agreement (effective 2 September 2026) finances the design and implementation of an e-Government Procurement system covering planning to delivery and linked with government payment systems.",
+   "as_of": "2026-09-02",
+   "date_precision": "day",
+   "system": "e-Government Procurement (e-GP) system",
+   "class": "procurement"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
