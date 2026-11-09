@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-05-zaf-question-nw4978-to-the-minister-of-home-affairs",
+ "facts": [
+  {
+   "sub_indicator": "frombirth",
+   "aspect": "number",
+   "value": "inservice",
+   "fact": "The Department of Home Affairs says an ID number is allocated to the child when the birth is registered through health facilities and remains with the child for life.",
+   "as_of": "2025-11-05",
+   "date_precision": "day",
+   "system": "National Population Register",
+   "class": "birthnumber"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

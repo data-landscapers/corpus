@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "frombirth",
-      "stage": "no evidence",
-      "number": "",
+      "stage": "3",
+      "number": "inservice",
       "national": "",
       "complete": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether a birth is given an identity number.",
-      "note": "Rebuild: No row on this sub-indicator is held, so no stage is set.",
-      "as_at": "2026-11-07"
+      "stage_sources": "ZAF-001",
+      "gaps": "No source says every birth registered in the country receives the number, or that birth registration reaches all births.",
+      "note": "In November 2025 Home Affairs said a child whose birth is registered through health facilities is allocated an ID number kept for life, so children receive the number in at least part of the country. Only the health-facility route is described, so not 4.",
+      "as_at": "2026-11-09"
     }
   ]
 }

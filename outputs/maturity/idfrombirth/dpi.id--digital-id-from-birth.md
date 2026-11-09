@@ -22,11 +22,11 @@ The African Union's Digital Transformation Strategy asks for a digital legal ide
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 5 |
-| 3 Established | 9 |
+| 3 Established | 10 |
 | 2 Nascent | 14 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
-| No evidence | 24 |
+| No evidence | 23 |
 
 ## Countries
 
@@ -118,6 +118,12 @@ Children were given a unique ID number at birth registration in 2025, at least i
 
 - The NPC chairman said the NIN has been integrated into the e-CRVS system and newborns can now receive a NIN at birth. Over 15,000 children registered in Jigawa have birth certificates processed for NIN generation, the chairman said ([source, 2025-09-16](http://www.nationalpopulation.gov.ng/news/npc-chairman-joins-stakeholders-to-celebrate-the-7th-national-day-of-identity-in-abuja)).
 - The NPC's Assistant Director of Civil Registration says a unique NIN is now generated for each child during birth registration and tied to the mother ([source, 2024-09-26](https://blueprint.ng/birth-registration-npc-introduces-nin-integration-for-newborns-linked-to-mothers/)).
+
+### South Africa: 3 Established
+
+A child registered at a health facility was given a lifelong ID number in 2025; whether every registered birth gets one is not known.
+
+- The Department of Home Affairs says an ID number is allocated to the child when the birth is registered through health facilities and remains with the child for life ([source, 2025-11-05](https://pmg.org.za/committee-question/33804/)).
 
 ### Uganda: 3 Established
 
@@ -341,12 +347,6 @@ Nothing found names a unique number given at birth or says there is none, so no 
 Not established: Nothing found says whether a birth is given an identity number.
 
 ### Somalia: No evidence
-
-Nothing found names a unique number given at birth or says there is none, so no stage is set.
-
-Not established: Nothing found says whether a birth is given an identity number.
-
-### South Africa: No evidence
 
 Nothing found names a unique number given at birth or says there is none, so no stage is set.
 

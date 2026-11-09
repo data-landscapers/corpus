@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "KEN-002;KEN-005;KEN-004",
-      "gaps": "No source found since October 2023 says children receive a number when their birth is registered. A 2024 statement that newborns receive the Maisha number is older than the 2026 statements that the e-notification issuing it is still to roll out.",
-      "note": "Rebuild: in October 2026 the e-notification that issues the UPI at birth was to reach SHA hospitals by December 2026, so it is provided for, stage 2. The 2024 statement is older and stands behind it.",
-      "as_at": "2026-11-07"
+      "gaps": "No source found since October 2023 says children receive a number when their birth is registered. A 2024 statement that newborns receive the Maisha number, and a May 2026 deck showing the number in use by civil registration, are older than the October 2026 statements that the e-notification issuing it is still to roll out.",
+      "note": "In October 2026 the e-notification that issues the UPI at birth was to reach SHA hospitals by December 2026, so it is provided for, stage 2. The May 2026 deck and the 2024 statement are older and stand behind it.",
+      "as_at": "2026-11-09"
     }
   ]
 }
