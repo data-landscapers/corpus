@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-09
+period: 2026-10-01 to 2026-11-09
 place: TGO
-ledger_rows: 23
+ledger_rows: 25
 not_held: 16
-record: c521d21b3ad6
+record: 35e6126cb4d2
 ---
 
 # News, Oct – Nov 2026
@@ -51,6 +51,20 @@ record: c521d21b3ad6
 **[Country Profile on AI Governance: Togo](https://www.aipolicy.africa/country-profiles/togo)** — AI Policy Lab (LawyersHub), 7 October 2026
 
 Togo scored 1.24 out of 4 on the Africa AI Governance Index 2026, in the Emerging tier and ranked 26 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Regional Integration (2.57) and its weakest are Infrastructure and Data, Human Capital and Implementation and Impact (1.00 each); its AI strategy is in draft, the Digital Code is pending, and it has ratified the Malabo Convention.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Postal-sector development policy 2026-2029</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Conseil des ministres du 06 novembre 2026](https://www.republiquetogolaise.tg/gestion-publique/0711-12467-conseil-des-ministres-du-06-novembre-2026)** — Togo Officiel, République Togolaise, 7 November 2026
+
+Postal policy 2026-2029 put forward for adoption; land code amendment with digitalised land management at first reading.
 
 </div>
 
@@ -169,6 +183,8 @@ Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communic
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
@@ -185,6 +201,22 @@ Opening the BUILD 2026 conference on shared compute in Abuja, Nigeria's communic
 **[Togo: Instant Payment Platform Processed Nearly CFAF 15 Billion in Transactions by End-October](https://www.togofirst.com/en/economic-governance/0511-20563-togo-instant-payment-platform-processed-nearly-cfaf-15-billion-in-transactions-by-end-october)** — Togo First, 5 November 2026
 
 BCEAO said on 5 November 2026 that its PI-SPI instant payment platform had processed nearly CFAF 15 billion in 163,000 transactions in Togo by the end of October. The platform has 3.9 million users in Togo and 17 connected providers. The bank spoke at the start of a student awareness campaign in Lomé.
+
+</div>
+
+</div>
+
+### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Code foncier et domanial and the computerised cadastre</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Conseil des ministres du 06 novembre 2026](https://www.republiquetogolaise.tg/gestion-publique/0711-12467-conseil-des-ministres-du-06-novembre-2026)** — Togo Officiel, République Togolaise, 7 November 2026
+
+Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
 
 </div>
 
