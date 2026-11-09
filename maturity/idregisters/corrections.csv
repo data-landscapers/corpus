@@ -13,3 +13,4 @@ TZA,011,register,inservice,removed,"Stage 4c: NIDA used for company registration
 UGA,011,register,underway,removed,"Stage 4c: the NIN-as-TIN approval and mapping, already held (UGA-004 to UGA-007)"
 SOM,003,register,inservice,revalued: register:underway,"Stage 4c: the ID card made mandatory for business services does not show the business register keyed on the number"
 TZA,010,register,inservice,revalued: register:underway,"Stage 4c: the government is moving from insurance cards to the national ID; not yet in service"
+KEN,004,register,inservice,removed,"civil registration, where the number is issued at birth, and the registration bureau that holds the ID register are not among the registers the study counts"

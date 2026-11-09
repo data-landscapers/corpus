@@ -1,0 +1,26 @@
+{
+ "slug": "2026-05-01-ken-the-kenya-digital-identity-playbook-identity-as-foundation-of-digital",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The deck says the Maisha Namba personal identifier is in use by Civil Registration Services and the National Registration Bureau.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "Maisha Namba (UPI)",
+   "class": "register"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maisha Namba (UPI)",
+   "country_label": "Kenya",
+   "class": "register",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

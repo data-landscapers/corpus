@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "registers",
-      "stage": "no evidence",
-      "register": "",
+      "stage": "2",
+      "register": "underway",
       "several": "",
-      "matching": "",
+      "matching": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found says whether public registers use the national ID number.",
-      "note": "No row on this sub-indicator is held, so no stage is set.",
-      "as_at": "2026-11-07"
+      "stage_sources": "GAB-002",
+      "gaps": "No source found shows a public register in service with the ID number. The 2026 payroll check (GAB-001) matched records against the immigration directorate, not a register keyed on the number, and cannot count before stage 4.",
+      "note": "The amended Digital Gabon financing (2026) provides for keying the social registry and the civil service database on the RBPP: under way, stage 2. No register is shown in service, so not 3.",
+      "as_at": "2026-11-09"
     }
   ]
 }

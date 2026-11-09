@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "registers",
-      "stage": "2",
-      "register": "underway",
+      "stage": "3",
+      "register": "inservice",
       "several": "",
       "matching": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TGO-001",
-      "gaps": "No source found since October 2023 shows a public register in service with the e-ID number.",
-      "note": "The social registry, RSPM, was in development and initial integration in 2025 with the e-ID as its key. No source shows it in service, so not stage 3.",
-      "as_at": "2026-11-07"
+      "stage_sources": "TGO-005;TGO-001",
+      "gaps": "Only the social registry is shown keyed on the e-ID; no second main register in service is found. No matching figure is given.",
+      "note": "The World Bank says the social registry RSPM ingests the e-ID number automatically (2026), after it was built on it as its key (2025): one register, stage 3. No second main register is shown, so not 4.",
+      "as_at": "2026-11-09"
     }
   ]
 }

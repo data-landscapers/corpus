@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-22-gab-gabon-fonction-publique-l-operation-d-assainissement-du-fichier-solde",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "matching",
+   "value": "reported",
+   "fact": "AGP reports census data on public agents were cross-matched with payroll data and DGDI records, freeing posts expected to save about FCFA 11 billion, per minister Laurence Ndong.",
+   "as_of": "2026-09-22",
+   "date_precision": "day",
+   "system": "fichier solde cross-check with DGDI records",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

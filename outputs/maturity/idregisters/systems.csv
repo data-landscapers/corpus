@@ -62,11 +62,13 @@ GMB,National Identity Management System,The Gambia,other,,Ministry of Interior,,
 KEN,IPRS,Kenya,other,,State Department for Immigration and Citizen Services,,2026-06-26-govt-enhances-registration-new-technology
 KEN,Maisha Namba,Kenya,other,,Ministry of Interior,"UPI at birth, national ID at 18",2025-02-25-birth-registration-reforms-automatic-id-biometricupdate
 KEN,Maisha Namba / Maisha Card,Kenya,other,,National Registration Bureau,,2024-09-02-ken-state-revs-up-maisha-namba-digital-id-awareness-drive
+KEN,Maisha Namba (UPI),Kenya,register,,Government of Kenya,,2026-05-01-ken-the-kenya-digital-identity-playbook-identity-as-foundation-of-digital
 LBR,National Biometric Identification System (NBIS),Liberia,other,,National Identification Registry,,2025-03-11-fpa-nir-digital-transformation-partnerships-enrollment
 LBR,NIR ID,LBR,other,,National Identification Registry,,2024-10-10 Liberia sets July 2025 deadline for SIM registration linked to national ID (LTA-NIR MoU)
 LBR,NBIS (National Biometric Identification System),Liberia,other,,National Identification Registry,,2024-05-28-csa-nir-mou-service-delivery
 LBR,National Identification Registry,Liberia,other,,NIR,,2025-07-03-nec-hands-over-biometric-kits-to-nir
 LBR,National Biometric Identification System,NBIS,other,,National Identification Registry,,2024-02-05-lbr-newspublictrust-nir-mobile-teams
+LBR,NIR e-verification portal,Liberia,register,,National Identification Registry,,2025-06-24-lbr-liberian-banks-no-longer-require-national-id-card-says-cbl-and-nir
 LBY,unified electronic national number system (civil status authority),Libya,register,electronic national number system,Civil Registry Authority (مصلحة الأحوال المدنية),,2026-09-27-lby-alwasat-national-number-fraud-civil-registry
 LBY,National Number system,Libya,other,,Civil Registry Authority,,2026-04-19-fake-national-numbers-for-sale-alwasat
 LBY,Voter registry,Libya,other,SMS digital registration,High National Elections Commission,,2025-12-08-lby-hnec-decision-253-2025-voter-register-update-regulation
@@ -84,6 +86,7 @@ MDG,IDMS,MDG,other,,Presidency / UGD (PRODIGY),,2026-03-02-ugd-idms-audit-tdr
 MLI,SIGRH,Systeme Integre de Gestion des Ressources Humaines,register,,Ministere de l'Economie et des Finances,,2025-08-28-mli-mali-le-gouvernement-suspend-les-salaires-de-36-151-agents-publics-apr
 MOZ,Bilhete de Identidade (BI),Mozambique,other,,,,2026-07-28-mozambique-free-id-and-birth-certificate-issuance-extended-2027
 MOZ,Mobile digital ID and e-signature,Mozambique,other,"smartphone app, SIM and eSIM",ATDI,3,2026-05-26-seeks-partner-mobile-digital-id-esignature-biometricupdate
+MOZ,e-SNGRHE,Mozambique,other,,Ministry of Finance,,2025-10-09-moz-biometric-verification-removes-over-18-000-nonexistent-employees-from
 MRT,Houwiyeti,Mauritania,other,mobile application,Agence nationale du registre des populations et des titres sécurisés,,2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty
 MRT,Khadamati,Mauritania,other,mobile application,,,2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty
 MRT,Registre biométrique national (ANRPTS),MRT,other,,Agence Nationale du Registre des Populations et des Titres Sécurisés,,2023-11-21-mrt-procedures-enrolement-enfant-rnp
@@ -118,6 +121,7 @@ NGA,National Social Register,Nigeria,register,,Federal Ministry of Humanitarian 
 RWA,Single Digital ID (SDID),Rwanda,other,,,,2026-05-26-new-digital-id-you-control-everything-ktpress
 RWA,Single Digital ID (SDID),Rwanda,other,,National Identification Agency (NIDA),"SDIN, token, SDID card",2026-03-26-govt-sets-2027-deadline-digital-id-newtimes
 RWA,IPPIS,IPPIS Rwanda,register,,,,2026-10-16-rwa-ippis-developer-api
+SDN,SIM registration linked to national ID numbers,Sudan,other,,TPRA with Ministry of Interior civil registry,,2024-11-01-sdn-national-institutional-integration
 SLE,National Biometric Identity Management System / NIN,Sierra Leone,other,,NCRA,,2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure
 SLE,National Identification Number and National ID card,SLE,other,,NCRA,,2026-09-18-sle-calabash-ncra-identity-day-inmates
 SOM,National Identification and Registration Authority identity number,Somalia,other,,National Identification and Registration Authority,,2026-09-09-som-somalidigest-nira-id-behind-every-social-media-account
@@ -138,6 +142,7 @@ TGO,MOSIP-based digital ID,Togo,other,MOSIP,,,2026-05-28 Why decentralized digit
 TGO,RSPM,Togo,other,,,,2025-04-07-tgo-id4africa-rsia-inter-administration-data-exchange
 TGO,data-use hub,Togo,other,,ANID with Ministry of Digital Economy,,2023-12-07-crs-4-2023afd00779-2023-fid-un-pole-d-utilisation-des-donnees-numeriques-p
 TGO,eID Togo,eID Togo,other,,ANID,,2025-09-25-tgo-recensement-biometrique-des-fonctionnaires-et-agents-de-l-etat
+TGO,RSPM,Togo,other,,,,2026-03-25-tgo-wb-wuri-phase-2-restructuring-paper-res01578
 TUN,National Health Identifier (INS),Tunisia,other,,Ministry of Health,,2026-07-23-tunisia-finalizes-sahetna-digital-health-portal-national-id
 TUN,Mobile ID,Tunisia,other,,,,2026-06-26-techafricanews-mobile-id-mandatory-investors
 TUN,Carte nationale d'identité (chip card),Tunisia,other,,Ministry of the Interior specialized services,,2024-03-11-loi-organique-2024-22-carte-identite-nationale

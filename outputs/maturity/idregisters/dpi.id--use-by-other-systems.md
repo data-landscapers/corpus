@@ -22,11 +22,11 @@ The African Union's interoperability framework and Data Policy Framework ask tha
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 5 |
-| 3 Established | 15 |
+| 3 Established | 16 |
 | 2 Nascent | 9 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
-| No evidence | 22 |
+| No evidence | 21 |
 
 ## Countries
 
@@ -62,6 +62,7 @@ The social register, voter registration and tax filing used the national ID numb
 - INEC chairman Amupitan says INEC's online voter registration platform is anchored on the NIN as a verification protocol ([source, 2026-07-16](https://thenationonlineng.net/six-months-to-presidential-poll-inec-raises-preparation-tempo/)).
 - Olaniwun Ajayi LP says the NIMC Act 2026 gives statutory basis to requirements, many already in practice, that registering to vote and filing tax returns need a NIN ([source, 2026-06-26](https://oal.law/the-nimc-act-2026-explained-what-nigerias-new-identity-law-means-for-you/)).
 - The Federal Inland Revenue Service said that under the Nigeria Tax Administration Act, due to take effect in January 2026, the National Identification Number automatically serves as the Tax ID for individuals ([source, 2026-01](https://guardian.ng/news/nin-cac-number-to-serve-as-tax-id-firs/)).
+- President Tinubu said NIMC had linked data with 125 partner agencies, including the Federal Inland Revenue Service for tax records ([source, 2025-09-16](https://guardian.ng/featured/126m-nigerians-secure-nin-database-capacity-hits-250m-fg/)).
 
 ### Tanzania: 4 Operating
 
@@ -178,6 +179,13 @@ Government payroll was linked to the national ID number by 2024; no source found
 - Vibbie says the NIN is linked to government payroll, among other government services, under the parliament's ratification and directives ([source, 2024-04-11](https://www.biometricupdate.com/202404/sierra-leone-putting-digital-id-at-the-center-of-its-digital-transformation-agenda)).
 - The Electoral Commission said on 10 August 2026 that linking its voter registration with the NCRA identity system would help verify eligible voters and reduce duplication ahead of the 2028 elections ([source, 2026-08-10](https://sierraloaded.sl/news/ncra-calls-stronger-investment-in-digital/)).
 
+### Togo: 3 Established
+
+Togo's social registry took in the national e-ID number automatically by 2026; whether other main registers use it is not known.
+
+- The World Bank says Togo's e-ID is fully interoperable with the dynamic social registry (RSPM), which automatically ingests biographic data and unique identification numbers ([source, 2026-03](https://documents1.worldbank.org/curated/en/099032526174532318/pdf/P169594-5fd6786a-2b45-425b-95b6-0e79d792a6fb.pdf)).
+- Togo's presentation says the Social Registry of Individuals and Households (RSPM) was in development and initial integration in 2025, using the e-ID as its unique key ([source, 2025](https://www.id4africa.com/2025/files/T1-P2-S1-3_TOGO-final.pdf)).
+
 ### Tunisia: 3 Established
 
 Health, social and pupil identifiers were linked to the citizen identifier by 2026; use by the main registers is not known.
@@ -201,6 +209,12 @@ Linking the tax, social security and health insurance numbers to the national ID
 Public bodies were required in 2024 to use the national ID number to exchange data; a register using it is not known.
 
 - The Ministry of Digital Affairs says use of the NNI is obligatory for all institutions to exchange data between public bodies, and an interoperability platform with ANSIE is being set up ([source, 2024](https://numerique.gouv.dj/Articles/detailArticleAvancee/15)).
+
+### Gabon: 2 Nascent
+
+Gabon's 2026 World Bank financing provides for keying the social registry and civil service database on the new ID register; neither is known in service.
+
+- The amended Digital Gabon financing agreement (effective 2 September 2026) provides for linking the social protection beneficiary registry and the civil servants' HR database to the RBPP ID system ([source, 2026-09-02](https://documents1.worldbank.org/curated/en/099090226132027563/pdf/P175987-8dfb5a41-ff83-4fc0-a597-c588997e88ba.pdf)).
 
 ### Guinea: 2 Nascent
 
@@ -233,12 +247,6 @@ Government payroll was directed in 2026 to link to the national ID, with a pilot
 A payroll check against the population register was due to go live in June 2026; its use is not known.
 
 - Home Affairs built a real-time employee verification portal for National Treasury, linked to the population register, to check government payroll records, going live 15 June 2026 per the department ([source, 2026-06-15](https://www.gov.za/news/media-statements/home-affairs-builds-digital-verification-platform-national-treasury-combat)).
-
-### Togo: 2 Nascent
-
-The social registry was being built on the national e-ID in 2025; a register in service with it is not known.
-
-- Togo's presentation says the Social Registry of Individuals and Households (RSPM) was in development and initial integration in 2025, using the e-ID as its unique key ([source, 2025](https://www.id4africa.com/2025/files/T1-P2-S1-3_TOGO-final.pdf)).
 
 ### Cameroon: Unplaced
 
@@ -301,12 +309,6 @@ Nothing found names a public register using the national ID number or says there
 Not established: Nothing found says whether public registers use the national ID number.
 
 ### Eswatini: No evidence
-
-Nothing found names a public register using the national ID number or says there is none, so no stage is set.
-
-Not established: Nothing found says whether public registers use the national ID number.
-
-### Gabon: No evidence
 
 Nothing found names a public register using the national ID number or says there is none, so no stage is set.
 

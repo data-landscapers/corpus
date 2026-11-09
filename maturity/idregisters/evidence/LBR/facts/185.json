@@ -1,0 +1,17 @@
+{
+ "slug": "2025-06-17-lbr-government-extends-national-id-deadline-to-august-31",
+ "facts": [
+  {
+   "sub_indicator": "registers",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "NIR's Executive Director said NIR is finalising an MoU with the National Elections Commission, which will eventually use NIR data to verify voter identity in future elections.",
+   "as_of": "2025-06-16",
+   "date_precision": "day",
+   "system": "National Identification Registry",
+   "class": "register"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
