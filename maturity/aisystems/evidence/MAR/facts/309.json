@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-mar-morocco-korea-advance-customs-cooperation-on-ai-digitalization",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "Morocco's digital ministry announced in September 2026 the first AI tools from its Mistral AI partnership, a Darija and Arabic dialect identifier and a Darija speech recogniser, and authorities presented a sovereign AI marketplace.",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "Mistral AI partnership tools; sovereign AI marketplace",
+   "class": "localai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
