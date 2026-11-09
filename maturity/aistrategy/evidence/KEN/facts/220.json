@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-06-ken-kenyas-ai-ambitions-face-infrastructure-test-as-subsea-cable-takes-shape",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The National Artificial Intelligence Strategy 2025-2030, a five-year plan, is being implemented, according to The Star.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "National Artificial Intelligence Strategy 2025-2030",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Strategy 2025-2030",
+   "country_label": "Kenya",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
