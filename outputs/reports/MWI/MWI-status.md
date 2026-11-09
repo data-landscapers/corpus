@@ -1,12 +1,12 @@
 ---
 title: Malawi: status report
-compiled: 2026-11-07
+compiled: 2026-11-09
 place: MWI
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 244
+sources_cited: 245
 sections_written: 39
 not_established: 0
 acquire_lines: 44
@@ -180,7 +180,7 @@ The Bureau [reports links with more than 33 public and private institutions](htt
 
 On 16 September 2026 the Bureau [launched the Nzika smartphone wallet, holding national ID, birth, marriage and death credentials](https://www.biometricupdate.com/202609/malawi-drops-id-card-expiry-date-policy-as-digital-wallet-launches). The same day the homeland security minister [directed that national ID cards be issued without expiry dates](https://malawi24.com/2026/09/16/malawi-drops-expiry-dates-on-national-ids/). The wallet [complements the plastic card and does not replace it: a person must already hold a national ID to self-register for the digital version](https://itweb.africa/article/malawi-to-unveil-digital-ids-in-september/P3gQ2MGAZaAvnRD1). The system is [primarily donor-funded, having drawn over US$73 million from UNDP, DFID, the EU, Irish Aid, Norway, USAID and UNICEF](https://www.id4africa.com/2022/files/ID4Africa_LiveCast_Supplement_NRB.pdf) (2022). [Government meets roughly 40 per cent of project costs and struggles with recurrent salaries, card production and IT maintenance](https://www.id4africa.com/2022/files/ID4Africa_LiveCast_Supplement_NRB.pdf) (2022). A World Bank-financed contract [for 2,400 biometric registration kits, of about US$5.09 million, was awarded in March 2026 to a Hong Kong-registered supplier](https://malawi24.com/2026/09/26/nzika-wallet-controversy-who-holds-the-keys-to-malawis-multibillion-digital-identity/) (reported September 2026). [The award was some 27 per cent above the estimate](https://malawi24.com/2026/09/26/nzika-wallet-controversy-who-holds-the-keys-to-malawis-multibillion-digital-identity/) (March 2026).
 
-[The UN agency's own account of 10 October 2026 puts the registration application in pilot at 87 locations across five districts, with 250 planned by 2028](https://www.undp.org/malawi/news/undp-hands-over-152-printers-national-registration-bureau-expand-civil-registration). [The application links civil registration to identity management](https://www.undp.org/malawi/news/undp-hands-over-152-printers-national-registration-bureau-expand-civil-registration).
+[The UN agency's own account of 10 October 2026 puts the registration application in pilot at 87 locations across five districts, with 250 planned by 2028](https://www.undp.org/malawi/news/undp-hands-over-152-printers-national-registration-bureau-expand-civil-registration). [The application links civil registration to identity management](https://www.undp.org/malawi/news/undp-hands-over-152-printers-national-registration-bureau-expand-civil-registration). [Mandatory biometric SIM registration against the identity system, due to start in July 2025, had not begun in January 2026, when the regulator capped each national ID at five SIMs](https://itweb.africa/article/malawi-moves-to-curb-mobile-fraud/GxwQD71D9BPvlPVo).
 
 ### Digital Payments and Fintech
 <!-- dpi.pay -->
