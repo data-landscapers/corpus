@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-regionalinfrastructure.md — the twenty-ninth maturity study: digital links and facilities shared with other African countries, in four questions
-last_reviewed: 2026-11-08
+last_reviewed: 2026-11-09
 status: run 2026-10-13; redesigned on Bill's word 2026-11-07 and adopted 2026-11-08 (§8)
 ---
 
@@ -22,7 +22,7 @@ status: run 2026-10-13; redesigned on Bill's word 2026-11-07 and adopted 2026-11
 
 **Active collaboration is the test.** A party is a government, regulator, state operator or national body (an exchange, a research and education network) of each country, or a regional body acting for them.
 
-The study redraws `gov.regional--shared-regional-infrastructure`, which as at 2026-08-31 puts 22 countries at stage 3, 22 at stage 2 and one at stage 1, none at 4 or 5, and leaves nine unplaced. It touches no other row.
+The study redraws `gov.regional--shared-regional-infrastructure` and touches no other row.
 
 | Sub-indicator | Indicator text | Id |
 |---|---|---|
@@ -65,12 +65,11 @@ Asked in order. Each is answered with a date and a link.
 - **A regional programme's financing signed by the country is a yes to question 1** where the source names the cross-border link or shared facility it pays for.
 - **An agreement a later dated source says is suspended or cancelled is no longer a yes.**
 - **A national facility described as serving the region is not a yes to question 3** until a source names another country's body using it under an arrangement.
-- **The best-placed facility sets the stage**; the others are named in the summary.
-- **What a facility joins and what it carries is taken from what a source says of it.** How good or how dear it is, is not judged.
-- **A resolution to pay for a study of a shared satellite is a study**, not a yes to question 1 *(added in the first run, for the Northern Corridor states' satellite)*.
-- **A network named as crossing the country, with no link to a neighbour named, is not a yes** *(added in the first run)*.
-- **A cable owner's announced plan, or a consensus reached at a workshop, is not an agreement** *(added in the first run, for Madagascar, Liberia and Sierra Leone)*.
-- **Withdrawn at the redesign**: *a company's link counts as a government's*; *a link live and carrying traffic for customers not named* no longer bears on a question; and *a company's cable carrying a landlocked country's traffic to its parent network is in service*, which §1 now lists as one company's network.
+- **The best-placed facility sets the stage**; the others are named in the summary. How good or how dear a facility is, is not judged.
+- **A resolution to pay for a study of a shared satellite is a study**, not a yes to question 1.
+- **A network named as crossing the country, with no link to a neighbour named, is not a yes**.
+- **A cable owner's announced plan, or a consensus reached at a workshop, is not an agreement**.
+- **Withdrawn at the redesign**: a company's link counting as a government's, and a company's cable carrying a landlocked country's traffic to its parent network.
 
 `study.json` holds this as two aspects: `built` (`building`, `agreed`, `none`) for questions 1 and 2, and `service` (`link`, `exchange`, `storage`, `none`) for 3 and 4.
 
@@ -85,31 +84,21 @@ The African Union's Programme for Infrastructure Development in Africa and its D
 
 ## 6. Token ceiling
 
-**40 million.** The run checks after every fan-out and stops at it.
+**40 million**, checked after every fan-out.
 
 ## 7. Tasks, in order
 
 - [x] **D0. Prepare**: this file and `study.json`, 2026-10-13.
 - [x] **D1. Bill's word**: run on it, 2026-10-13.
 - [x] **D2. Read**: 116 calls in two fan-outs, 185 facts.
-- [x] **D3. Staged** as at 2026-09-30: none at 5, 4: 25, 3: 2, 2: 8, 1: 1, three unplaced, 15 without evidence; 21 rows removed or revalued and seven added (`corrections.csv`); agreement 16 of 20 at the first staging, 19 of 20 after three cells were restaged the second reader's way.
+- [x] **D3. Staged** as at 2026-09-30; corrections in `corrections.csv`; agreement 19 of 20 after the second reading.
 - [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-13.
 
-**Decided in the run**:
-
-- **No country reaches stage 5.** No story read gives a figure for traffic across a border or names a user from the other country.
-- **The Democratic Republic of the Congo and Kenya were staged 5 and are 4**, on the second reading.
-- **Seven rows were added for the other end of a link** a source names: Morocco, Somalia, Nigeria, Zambia, Gabon, Botswana and Kenya.
-- **Rwanda is unplaced**: it is on the Goma route, not at an end.
-- **Eswatini is stage 2**; the second reader put it at 4.
-- **Algeria is stage 2 and Niger 4**: the link between them opened on 6 October 2026, after the as-at.
-- **Fifteen countries are without evidence**, South Africa, Egypt, Ghana and Tunisia among them: their cells cited what this study only notes.
-- **The summaries were written in the thread, not by writers**, to hold the ceiling.
-- **Tokens: about 41 million at the map**, ceiling 40 million, step 1 included.
+**Decided in the run**, superseded by the restaging of §8: no country reached stage 5, seven rows were added for the other end of a link a source names, and the run came to about 41 million tokens against 40 million.
 
 ## 8. The redesign
 
-**Redesigned on Bill's word, 2026-11-07, and adopted at the rebuild of 2026-11-08**: §1 to §3 above replace the first run's, and `redesign.md` is deleted. Every `service` row was revalued to its kind or removed, and the rows that name no arrangement were removed with them: 95 removed, 44 revalued to `link` and one added for the other end of a link (`corrections.csv`). Every country was restaged and logged `ladder`: none at 5, 4: 25, 3: 1, 2: 12, 1: 1, three unplaced, 12 without evidence. No exchange or data facility is yet on record in service under an arrangement, so every stage 4 rests on links.
+**Redesigned on Bill's word, 2026-11-07, and adopted at the rebuild of 2026-11-08**: §1 to §3 above replace the first run's, and `redesign.md` is deleted. Every `service` row was revalued to its kind or removed with the rows that name no arrangement (`corrections.csv`: 95 removed, 44 revalued, one added). Every country was restaged and logged `ladder`: none at 5, 4: 25, 3: 1, 2: 12, 1: 1, three unplaced, 12 without evidence. No exchange or data facility is yet on record in service under an arrangement, so every stage 4 rests on links.
 
 ## Boundary
 
