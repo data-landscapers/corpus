@@ -76,3 +76,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-08,NGA,dpi.id--national-maintenance-of-id-and-credentials-systems,fact,4,4,NGA-002;NGA-001,Idemia's 2024 maintenance contract predates NIMC's October 2026 account of in-house maintenance; stays 4
 2026-11-09,CPV,dpi.id--national-maintenance-of-id-and-credentials-systems,fact,no evidence,2,CPV-001,"Resolution 95/2025: the national press INCV authorised to take over procurement, personalisation and issue of the e-ID card; transfer announced, no evidence to 2"
 2026-11-09,NER,dpi.id--national-maintenance-of-id-and-credentials-systems,fact,2,2,NER-002;NER-001,"ANP, April 2026: a Libyan company provides production of the new biometric card; with the March 2026 skills-transfer statement, 2 holds"
+2026-11-09,GIN,dpi.id--national-maintenance-of-id-and-credentials-systems,ladder,5,2,GIN-002,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 2."
+2026-11-09,SLE,dpi.id--national-maintenance-of-id-and-credentials-systems,ladder,5,3,SLE-006;SLE-005;SLE-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-09,SOM,dpi.id--national-maintenance-of-id-and-credentials-systems,ladder,5,3,SOM-003;SOM-011;SOM-002,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-09,TGO,dpi.id--national-maintenance-of-id-and-credentials-systems,ladder,5,3,TGO-008;TGO-004;TGO-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."

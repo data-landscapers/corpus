@@ -10,4 +10,4 @@
 
 ***Also on file***. [PAPSS](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>).
 
-***Not found***. No source found since October 2023 names consumer-protection rules for digital finance in force, or reports a fine, a sanction or complaint figures for digital financial services.
+***Not found***. No source found since October 2023 says digital-finance consumer rules are drafted or in force. None reports a fine, sanction or complaint figures.

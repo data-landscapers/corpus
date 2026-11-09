@@ -10,4 +10,4 @@
 
 ***Also on file***. [AfCFTA Digital Trade Corridor](<https://www.citinewsroom.com/2026/08/afcfta-quest-ghana-sign-deal-to-establish-digital-trade-corridor/>); [Fusepay](<https://www.fusepay.app/blog-posts/fusepay-receives-final-approval-to-operate-as-a-licensed-payment-service-provider-in-seychelles>).
 
-***Not found***. No source found names a cross-border mobile money or remittance corridor in service, or gives a figure for cross-border digital payments.
+***Not found***. No source found names a cross-border mobile money or remittance corridor in service.

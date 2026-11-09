@@ -20,9 +20,9 @@ The AU Charter on Decentralisation asks that ICT be used so residents can give f
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
+| 5 Leading | 5 |
 | 4 Operating | 1 |
-| 3 Established | 2 |
+| 3 Established | 3 |
 | 2 Nascent | 28 |
 | 1 Absent | 0 |
 | Unplaced | 8 |
@@ -43,12 +43,6 @@ The national mediator's complaints portal reached all administrations and publis
 Results of the national complaints channel were published in 2025.
 
 - The monthly report to the Prime Minister gives complaints resolved per ministry and body, for example 15.1 thousand in health and 13.6 thousand at the Interior Ministry, for September and earlier periods ([source, 2025-09](https://www.almasryalyoum.com/news/details/3569705)).
-
-### Mauritania: 5 Leading
-
-Results of the national complaints channel were published in 2025.
-
-- The minister states 96% of requests and complaints on Ain have been processed, the other 4% being in progress, and that 52% of citizens rating the service call it good quality ([source, 2025-05-21](https://ami.mr/fr/archives/271580)).
 
 ### Morocco: 5 Leading
 
@@ -82,6 +76,12 @@ A national complaints channel covered services across government in 2024; its re
 The telecoms regulator's complaints channels handled about a hundred cases in 2025; whether a channel reaches across government is not known.
 
 - ARCEP Benin receives complaints through a green line, one-stop counter, email and social networks, and handled about a hundred formal consumer complaints in 2025, 67% found justified, per La Marina ([source, 2025](https://lamarina.bj/2026/06/17/telecoms-comment-larcep-benin-compte-automatiser-la-gestion-des-litiges/)).
+
+### Mauritania: 3 Established
+
+Mauritania's complaints app recorded about 9,000 requests and complaints by May 2025; whether it reaches across government is not known.
+
+- The Minister of Digital Transformation says the Ain app, launched in October 2024, had recorded about 9,000 requests and complaints on access to basic services by May 2025 ([source, 2025-05-21](https://ami.mr/fr/archives/271580)).
 
 ### Uganda: 3 Established
 

@@ -16,7 +16,9 @@ r"""study-ladder-cybersecuritylaw.py — the cybersecurity law study's four ques
 4. **Regular use**: a `use` of `regular` dated inside two years of the as-at and not after it,
    set by corrections.csv on the stager's case-by-case reading *(Bill, 2026-10-30)*.
 
-Stage 1 is a `standing` of `none` dated inside three years with no bill or law on record.
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a later
+yes no longer answers the earlier ones, and a cell takes the last rung its evidence reaches
+without a gap. Stage 1 is a `standing` of `none` dated inside three years with no bill or law on record.
 A fact dated after the as-at sets nothing. A year or a month stands for its last day.
 
 `corrections.csv`, where the parent's reading removed or revalued a row, is applied to
@@ -83,9 +85,9 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     if not rows:
         return {"stage": "no evidence", "standing": "", "use": "", "sources": [],
                 "gaps": "Nothing found names a cybercrime or cybersecurity law or bill, or says there is none."}
-    if reported:
+    if law and used and reported:
         s, src = "5", reported + law[:1]
-    elif used:
+    elif law and used:
         s, src = "4", used + law[:1]
     elif law:
         s, src = "3", law

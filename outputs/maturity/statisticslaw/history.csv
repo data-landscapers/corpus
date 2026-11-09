@@ -4,3 +4,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,NGA,gov.legislate--statistics-legislation,fact,3,3,NGA-002;NGA-004,Arrivals added NGA-007; stage unchanged.
 2026-10-17,SLE,gov.legislate--statistics-legislation,fact,3,3,SLE-004;SLE-001,Arrivals added SLE-004; stage unchanged.
 2026-10-17,SSD,gov.legislate--statistics-legislation,fact,3,3,SSD-002;SSD-001,Arrivals added SSD-003; stage unchanged.
+2026-11-09,BWA,gov.legislate--statistics-legislation,ladder,5,3,BWA-001;BWA-002,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-09,ZMB,gov.legislate--statistics-legislation,ladder,5,3,ZMB-001;ZMB-003,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."

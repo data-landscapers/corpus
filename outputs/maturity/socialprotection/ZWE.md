@@ -10,4 +10,4 @@
 
 ***Also on file***. [Zimbabwe Social Registry (ZISO)](<https://www.zbcnews.co.zw/government-develops-social-registry-to-strengthen-safety-nets/>).
 
-***Not found***. No source since October 2023 names the system that runs the HSCT, or says one serves several programmes.
+***Not found***. No source found since October 2023 names a management information system for a social programme. Procured, piloted, built and in service were looked for.

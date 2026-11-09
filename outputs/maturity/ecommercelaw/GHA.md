@@ -8,4 +8,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found shows a licence, penalty or court case under the Act after the 2023 notice, or lists further rules made under it.
+***Not found***. No source found names a decree, regulation or order made under the law.

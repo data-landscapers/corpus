@@ -10,4 +10,4 @@
 
 ***Also on file***. [Digital Land Acquisition and Management Platform (DILAP)](<https://labarijournal.com/ghana-has-spent-years-trying-to-digitise-its-land-registry-system-progress-is-still-underwhelming/>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 says the land system joins records to survey maps or valuation.

@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says online filing is mandatory or used for half or more of returns.
+***Not found***. No source found since October 2023 says: can tax returns be filed online.

@@ -20,28 +20,15 @@ The Digital Transformation Strategy asks for 300 million Africans a year trained
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
+| 5 Leading | 0 |
 | 4 Operating | 4 |
 | 3 Established | 17 |
-| 2 Nascent | 23 |
+| 2 Nascent | 25 |
 | 1 Absent | 1 |
 | Unplaced | 2 |
 | No evidence | 5 |
 
 ## Countries
-
-### Botswana: 5 Leading
-
-Statistics Botswana's 2024 household survey found 59.2 per cent of individuals with e-skills.
-
-- Statistics Botswana's 2024 Household Access and Individual Use of ICTs Survey found 59.2% of individuals reported having e-skills, basic skills more prevalent than advanced ([source, 2024](https://www.itu.int/itu-d/meetings/wp-content/uploads/IPS/documents/46/10_EGH2026_DataCollectionBotswana_TebogoTsienyane.pdf)).
-
-### Mauritius: 5 Leading
-
-In 2024, 62.2 per cent of people aged five and over in Mauritius could use a computer.
-
-- The Mauritius Digital Promotion Agency ICT household indicators table gives a digital literacy rate, persons aged 5 and above who can use a computer, of 62.2 percent for 2024 ([source, 2024](https://indicators.govmu.org/ictindicators/?page_id=3218)).
-- The same table gives 62.2 percent of persons aged 5 and above able to use a computer in 2024, above half ([source, 2024](https://indicators.govmu.org/ictindicators/?page_id=3218)).
 
 ### Lesotho: 4 Operating
 
@@ -200,6 +187,14 @@ The government opened applications for national digital-skills training in 2025;
 
 - The Government of Benin, through the School of Digital Professions, launched a national call for applications for OIF D-CLIC digital skills training for young people, per TechAfrica News ([source, 2025-10-20](https://techafricanews.com/2025/10/20/benin-accelerates-digital-transformation-with-new-oif-d-clic-training-program)).
 
+### Botswana: 2 Nascent
+
+Botswana ran digital-skills sessions and a library roadshow from 2023; the number of people any programme trained is not known.
+
+- ITWeb Africa reports a BOCRA-funded four-month eBotho Digital Literacy Roadshow, run by the NGO Cybersmart Botswana with the National Library Service and the communications ministry, launched in November 2023 to teach digital skills to the public at libraries nationwide; no number trained is stated ([source, 2023-11-08](https://itweb.africa/article/botswana-launches-national-digital-skills-roadshow/mQwkoq6YEL4M3r9A)).
+- BOCRA's incident response team is running ICT training and cybersecurity awareness sessions for students and teachers at four named schools, following its Digital Centres handover ([source, 2026-01](https://techreviewafrica.com/news/3680/bocra-expands-ict-training-to-support-digital-inclusion-in-botswana-schools)).
+- SmartBots (Government of Botswana) says the ongoing EU-funded programme, started August 2024, includes targeted programmes that enhance digital skills for women and youth entrepreneurs ([source, 2024-08](https://smartbots.org.bw/projects/eu-digital-transformation)).
+
 ### Burkina Faso: 2 Nascent
 
 A World Bank-financed digital project includes digital-skills training from 2023; a national programme's count of people trained has not been found.
@@ -304,6 +299,13 @@ The vocational training minister launched a digital project for 2,150 young peop
 
 - Mauritania's vocational training minister launched the France-funded, Simplon-implemented project to support youth employability in digital, training 2,150 beneficiaries in six cities ([source, 2026-07-23](https://www.ami.mr/archives/264918)).
 - The Ministry of Digital Transformation and Administrative Modernisation is preparing a campaign on digital education to teach the public secure and responsible use of digital tools ([source, 2024-11-01](https://mtnima.gov.mr/fr/education-numerique-lancement-prochain-dune-campagne-de-sensibilisation/)).
+
+### Mauritius: 2 Nascent
+
+Mauritius launched community digital training in 2025 and a free online course portal in 2026; the number of people trained is not known.
+
+- The Mauritius Digital Promotion Agency says the Minister of Information Technology, Communication and Innovation launched the inaugural Community Digital Empowerment Programme in Bel Air on 10-11 May 2025, with similar events planned in other regions ([source, 2025-05-11](https://mdpa.govmu.org/mdpa/index.php/community-digital-empowerment-programme/)).
+- Tech Review Africa reports Mauritius Telecom and AWS launched the free myt Learning Hub portal with 16 digital and AI courses for all Mauritians, as part of the government's target to train 50,000 people, with no number trained stated ([source, 2026-11-06](https://techreviewafrica.com/news/8162/mauritius-telecom-launches-free-digital-and-ai-skills-training-platform)).
 
 ### Mozambique: 2 Nascent
 

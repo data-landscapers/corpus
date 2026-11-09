@@ -115,7 +115,7 @@ def main() -> int:
     iid0 = studies[0]["sub_indicators"][0]["indicator_id"]
     h = lambda d, kind, a, b, iso3=iso: {"date": d, "iso3": iso3, "indicator_id": iid0, "kind": kind,
                                          "from": a, "to": b, "sources": "", "note": ""}
-    hist = [h("2026-11-02", "fact", "2", "3"), h("2026-12-01", "review", "3", "3")]
+    hist = [h("2026-11-12", "fact", "2", "3"), h("2026-12-01", "review", "3", "3")]
     check("a move on a fact is the stage's last move, and a review that changed nothing is not",
           ms.last_change(hist, iid0, iso) == ("Nov 2026", None))
     check("a change the rotation made reads as reassessed",

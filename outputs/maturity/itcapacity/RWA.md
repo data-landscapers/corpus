@@ -12,4 +12,4 @@
 
 ***Also on file***. [Irembo](<https://www.newtimes.co.rw/article/39566/news/security/cybersecurity-rwandans-urged-to-protect-private-data>); [Data Sharing Platform](<https://www.newtimes.co.rw/article/39395/news/health/africa-needs-to-take-charge-of-its-digital-health-systems-says-minister>); [Shared Government Data Hub](<https://www.newtimes.co.rw/article/39395/news/health/africa-needs-to-take-charge-of-its-digital-health-systems-says-minister>); [IremboGov](<https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy>); [Single Digital Identity (SDID)](<https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy>); [RNDPS 2.0 (eKash)](<https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy>).
 
-***Not found***. No source found says a system built by government staff went live since October 2023.
+***Not found***. No source found from 2023 or later says government staff run or maintain any of its systems.

@@ -10,4 +10,4 @@
 
 ***Also on file***. [Gauteng e-Panic Button app](<https://www.citizen.co.za/news/gauteng-e-government-panic-button-app-data-breach/>); [e-Indigent Register](<https://www.gov.za/news/media-statements/gauteng-e-government-accelerates-digital-transformation-e-gov-delivers-more>); [MyMzansi](<https://techcentral.co.za/south-africa-digital-id-schreiber-demo/286764/>).
 
-***Not found***. How users sign in to the national portal. Use figures after April 2024.
+***Not found***. No source found says how users sign in to the national portal. The national ID and a shared account were looked for.

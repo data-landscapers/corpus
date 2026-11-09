@@ -47,7 +47,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Operating | Yes to 1, 2 and 3: a national law or rule gives effect to it |
 | 5 Leading | Yes to all four: reported applied across a border in the last three years |
 
-- **A yes to a later question answers the earlier ones**: a national law passed to carry out a community directive needs no ratification; a licence recognised under an agreement shows the agreement is in effect.
+- **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a national law carrying out a community directive no longer stands in for ratification, nor a licence recognised under an agreement for the agreement in effect.
 - **Questions 1, 2 and 3 have no time limit**; a signature, a ratification and a law stand, with their year, until a dated source says the country has withdrawn or the law is repealed. Question 4 counts for three years.
 - **A statement that the country has not signed counts for three years**, and gives way to a dated source naming a signature or another shared text.
 - **Not signing one text is not stage 1** where the country has signed or is bound by another. It is named in the summary.

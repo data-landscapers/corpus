@@ -47,7 +47,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Operating | Yes to 1, 2 and 3: something agreed put into effect |
 | 5 Leading | Yes to all four: reported in use in the last three years |
 
-- **A yes to a later question answers the earlier ones**: an agreement signed shows the country takes part; a joint body's decision shows it was set up.
+- **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*.
 - **Membership has no time limit**; it stands, with its year, until a dated source says the country has left or is suspended.
 - **Question 3 has no time limit**; what was put into effect stands until a dated source says it has ended. Questions 2 and 4 count for three years.
 - **A statement that the country stands outside counts for three years**, and gives way to a dated source naming a membership or an agreement.

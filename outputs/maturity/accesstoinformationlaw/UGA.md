@@ -8,4 +8,4 @@
 
 ***Also on file***. [Data Protection and Privacy Act, Cap 97](<https://www.mmaks.co.ug/articles/2026/08/21/examination-scripts-are-personal-data-high-court-sets-aside-order-compelling>).
 
-***Not found***. Nothing on the four questions.
+***Not found***. No source found names rules made under the law or says its oversight body is set up.

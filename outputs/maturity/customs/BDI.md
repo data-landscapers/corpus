@@ -10,4 +10,4 @@
 
 ***Also on file***. [Systeme de Suivi et Inspection Electronique des Cargos](<https://www.obr.bi/index.php/en/actualites/2617-l-interfacage-des-systemes-de-suivi-electronique-des-cargos-pour-la-securite-et-la-surete-des-biens-ou-des-marchandises>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found says customs declarations are processed in an automated system. The main port, airport and border posts were looked for.

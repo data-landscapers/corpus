@@ -10,4 +10,4 @@
 
 ***Also on file***. [The Mo Ibrahim Foundation 2024 IIAG scores](<https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ls.pdf>) for Freedom of Expression and Belief, Media Freedom and Digital Freedom.
 
-***Not found***. No law, ruling of the country's own court or undertaking given in court in the last three years is held that bars the government from cutting the internet. Nothing found says government policy is criticised in public inside the country, or that the internet was cut.
+***Not found***. No source from the last three years says anyone in the country criticised a government policy in public. None says the internet was cut in the last twelve months.

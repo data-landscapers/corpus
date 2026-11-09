@@ -16,3 +16,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-08,EGY,dpi.exchange--interoperability-of-social-protection-systems,fact,4,4,EGY-003;EGY-004,"Ministry official (Nov 2026): registry exchanges with 27 databases via the national ID number; no named sector link, so stays 4"
 2026-11-08,MAR,dpi.exchange--interoperability-of-social-protection-systems,fact,4,4,MAR-003;MAR-015;MAR-016,"2026 deck: RNP authentication serves six social programmes incl. RSU; ID link held, no sector link named, so stays 4"
 2026-11-09,TGO,dpi.exchange--interoperability-of-social-protection-systems,fact,2,3,TGO-009,"World Bank restructuring paper, March 2026: e-ID fully interoperable with the RSPM social registry and used to authenticate Novissi beneficiaries; exchange in service, 2 to 3"
+2026-11-09,BFA,dpi.exchange--interoperability-of-social-protection-systems,ladder,4,2,BFA-001;BFA-003,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
+2026-11-09,BWA,dpi.exchange--interoperability-of-social-protection-systems,ladder,4,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to unplaced."
+2026-11-09,CPV,dpi.exchange--interoperability-of-social-protection-systems,ladder,4,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to unplaced."
+2026-11-09,GMB,dpi.exchange--interoperability-of-social-protection-systems,ladder,4,2,GMB-002,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."

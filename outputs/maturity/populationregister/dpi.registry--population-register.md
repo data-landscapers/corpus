@@ -1,6 +1,6 @@
 # Population register: population register
 
-*As at 2026-10-18.*
+*As at 2026-10-17.*
 
 ## The norm
 
@@ -20,9 +20,9 @@ The African Union's Digital Transformation Strategy puts an electronic populatio
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 11 |
+| 5 Leading | 5 |
 | 4 Operating | 0 |
-| 3 Established | 8 |
+| 3 Established | 14 |
 | 2 Nascent | 6 |
 | 1 Absent | 0 |
 | Unplaced | 4 |
@@ -30,30 +30,12 @@ The African Union's Digital Transformation Strategy puts an electronic populatio
 
 ## Countries
 
-### Algeria: 5 Leading
-
-Other systems drew on the population register in 2023.
-
-- The Interior Ministry says 23 ministries and public bodies drew on Registre national de l'Etat civil data in 2023, nearly 111 million consultations ([source, 2023](https://www.lnr-dz.com/2024/01/18/merad-senquiert-de-letat-davancement-des-projets-de-modernisation/)).
-
 ### Benin: 5 Leading
 
 Other systems drew on the population register in 2026.
 
 - Banouto reports the ANIP eServices portal's Explorez votre identite service takes its data from the RNPP ([source, 2026-09-18](https://www.banouto.bj/societe/article/20260918-anip-voici-comment-decouvrir-combien-de-beninois-partagent-votre-nom-prenom-ou-date-de-naissance)).
 - ANIP says the RNPP is the only source for identity cards, passports and driving licences, and that phone SIM acquisition and public service platforms authenticate against the NPI ([source, 2026-05](https://id4africa.com/2026/files/T1-2-2-Benin-FINAL.pdf)).
-
-### Chad: 5 Leading
-
-Other systems drew on the population register in 2026.
-
-- The Ministry of Finance and ANATS signed a protocol giving the ministry a secured channel to consult data from the registre national biométrique des populations for identification and verification in administrative, budgetary and financial processes, and the ANATS director-general says all public and private administrations will be able to connect to it ([source, 2026-03-10](https://atpe.td/donnees-securisees-le-ministere-des-finances-dispose-dun-cadre-securise/)).
-
-### Cote d'Ivoire: 5 Leading
-
-Other systems drew on the population register in 2026.
-
-- BCPFS and ONECI signed a convention on 2 April 2026 interconnecting the Registre Social Unique with ONECI's databases, so beneficiaries are identified through the Registre National des Personnes Physiques run by ONECI ([source, 2026-04-02](https://filetsociaux-ci.org/registre-social-unique-des-menages-pauvres-et-vulnerables-rsu-signature-dune-convention-entre-le-bureau-de-coordination-du-programme-filets-sociaux-bcpfs-et-loffice-nation/)).
 
 ### DR Congo: 5 Leading
 
@@ -66,18 +48,6 @@ Other systems drew on the population register in 2024.
 Other systems drew on the population register in 2026.
 
 - The State Department for Immigration and Citizen Services says public and private entities with a signed MOU access the register for identity verification, at a Ksh. 20 fee per hit ([source, 2026-08-30](https://usajili.go.ke/integrated-population-registration-service)).
-
-### Morocco: 5 Leading
-
-Other systems drew on the population register in 2026.
-
-- The Times of India reports that Morocco's national population register is already being used to help 5 million eligible households access social programmes ([source, 2026-06](https://timesofindia.indiatimes.com/technology/times-techies/theyre-taking-dpi-to-the-world/articleshow/131849408.cms)).
-
-### Namibia: 5 Leading
-
-Other systems drew on the population register in 2026.
-
-- Namibia's Chief Registrar said all applicants for the Covid-19 Emergency Income Grant were verified against the NPRS, and social protection verifies live status against it ([source, 2026-07-18](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-namibia.pdf)).
 
 ### South Africa: 5 Leading
 
@@ -92,11 +62,26 @@ Other systems drew on the population register in 2026.
 
 - The playbook says the register is the pivot for sectoral identifiers and that its data are exchanged with state structures through the national interoperability platform ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 
-### Zimbabwe: 5 Leading
+### Algeria: 3 Established
 
-Other systems drew on the population register in 2025.
+The civil-status register was in use in 2023 and hospitals drew on it in 2026; whether births or deaths are entered is not known.
 
-- Biometric Update reports the upgraded national population registry was linked up with other important services to facilitate access, and that an integrated digital system will be based on it ([source, 2025-07](https://www.biometricupdate.com/202507/zimbabwe-looks-forward-to-digital-id-rollout-after-population-registry-reform)).
+- Medica Magazine reports hospitals are connected to the Interior Ministry's civil-status database, from which patients are identified by their biometric card ([source, 2026-07](https://medica-magazine.com/lalgerie-fixe-la-date-de-la-generalisation-du-dossier-medical-numerique/)).
+- The Interior Ministry says the Registre national de l'Etat civil is in use, with access to its data giving nearly 111 million consultations in 2023 ([source, 2023](https://www.lnr-dz.com/2024/01/18/merad-senquiert-de-letat-davancement-des-projets-de-modernisation/)).
+
+### Chad: 3 Established
+
+The biometric population register was in service in 2026 and the finance ministry may consult it; whether births or deaths are entered is not known.
+
+- ANATS's director-general says the government has deployed an integrated population and secure-titles management system whose base is the registre national biométrique des populations, designed to guarantee each person's uniqueness ([source, 2026-03-10](https://atpe.td/donnees-securisees-le-ministere-des-finances-dispose-dun-cadre-securise/)).
+- Tchadinfos reports that on 10 March 2026 the finance ministry and ANATS signed a memorandum for consulting data from the national biometric population register, which ANATS's director general described as an essential tool guaranteeing the uniqueness of each citizen's identity ([source, 2026-03-10](https://tchadinfos.com/2026/03/10/tchad-le-ministere-des-finances-et-lanats-signent-un-accord-pour-securiser-et-partager-les-donnees-didentite/)).
+
+### Cote d'Ivoire: 3 Established
+
+The national register of persons was in service in 2026, with 11 million people numbered; whether births or deaths are entered is not known.
+
+- ONECI, under the Interior Ministry, is described as managing the RNPP and assigning the national identification number, which is the basis the PARAE feasibility study launched on 5 October 2026 builds on ([source, 2026-10-05](https://www.aip.ci/cote-divoire-aip-le-gouvernement-mise-sur-le-parae-pour-renforcer-la-confiance-dans-les-services-publics-numeriques/)).
+- The RNPP (Registre national des personnes physiques) holds citizens' biometric and civil data and assigns each a national identification number (NNI), with 11 million people holding one according to the ONECI director-general as relayed by the article ([source, 2026-07-30](https://digitalmag.ci/identite-numerique-la-cote-divoire-pays-connecte-mais-pas-encore-pleinement-identifie/)).
 
 ### Djibouti: 3 Established
 
@@ -130,11 +115,25 @@ A population register was in service in 2026; no source found reports updating f
 - The interior minister told the National Assembly that the Registre national de la population grew from 3.4 million registered citizens in 2019 to over 5.1 million, with enrolment now a permanent public service ([source, 2026-06-18](https://kassataya.com/ministre-de-linterieur-lenrolement-de-la-population-est-devenu-un-service-public-permanent-qui-garantit-le-droit-de-tous-les-citoyens-a-lenregistrement/)).
 - The interior minister told the National Assembly that the Registre national de la population grew from 3.4 million registered citizens in 2019 to over 5.1 million, with enrolment now a permanent public service ([source, 2026-06-18](https://www.ami.mr/archives/261951)).
 
+### Morocco: 3 Established
+
+The population register held 22 million people in 2026 and is used to target social aid; whether births or deaths are entered is not known.
+
+- The Times of India reports that Morocco has registered 22 million of its 39 million people in its national population register ([source, 2026-06](https://timesofindia.indiatimes.com/technology/times-techies/theyre-taking-dpi-to-the-world/articleshow/131849408.cms)).
+- The ANSS annual report, as reported by Le Brief, says the Registre national de la population (RNP) is crossed with the RSU to target direct social aid ([source, 2025-12](https://www.lebrief.ma/soutien-social-un-an-apres-impact-de-lanss-100155241/)).
+
 ### Mozambique: 3 Established
 
 A population register was in service in 2026; no source found reports updating from births and deaths.
 
 - ATDI's World Bank-funded EDGE request for expressions of interest (29 May 2026) names the National Population Registry, run by the National Directorate of Civil Identification, as existing infrastructure the new mobile digital identity solution must be integrated with ([source, 2026-05-29](https://360mozambique.com/tenders/consulting-services-for-the-implementation-of-national-mobile-digital-identity-and-electronic-signature-infrastructure-for-the-republic-of-mozambique/)).
+
+### Namibia: 3 Established
+
+The population register was in service in 2026, used to verify social grant recipients; no source since October 2023 records births or deaths entered.
+
+- The ministries of civil registration and social protection signed an agreement integrating the National Population Registration System with the social protection system to verify existence and live status of persons ([source, 2026-07-18](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-namibia.pdf)).
+- UCSF's NAMTAC page says the master patient index is linked with the National Population Registry System (NPRS), using Namibian ID numbers and birth certificate numbers ([source, 2025](https://informaticshub.ucsf.edu/node/116)).
 
 ### Rwanda: 3 Established
 
@@ -147,6 +146,13 @@ A population register was in service in 2026; no source found reports updating f
 A national population registry held ID card holders' details in 2024; whether births and deaths are entered in it is not known.
 
 - Biometric Update reports that the 11-digit NIN on Sierra Leone's ID card is a unique identifier linked to the card holder's personal details in the national population registry ([source, 2024-01-11](https://www.biometricupdate.com/202401/sierra-leone-urges-citizens-to-obtain-biometric-id-cards-for-security-services)).
+
+### Zimbabwe: 3 Established
+
+The national population registry was upgraded by mid-2025 and linked to other services; whether births or deaths are entered is not known.
+
+- Biometric Update reports that Zimbabwe upgraded its national population registry in a reform begun around 2023 and concluded by mid-2025 ([source, 2025-07](https://www.biometricupdate.com/202507/zimbabwe-looks-forward-to-digital-id-rollout-after-population-registry-reform)).
+- The Herald reports ZPRS is the official platform that stores and manages demographic data of all Zimbabwean citizens, including name, date of birth, sex, nationality, marital status, place of birth and residence, and national ID number, with an upgrade being finalised ([source, 2023-11-12](https://www.heraldonline.co.zw/issuance-of-id-cards-going-on-smoothly-rg/)).
 
 ### Botswana: 2 Nascent
 

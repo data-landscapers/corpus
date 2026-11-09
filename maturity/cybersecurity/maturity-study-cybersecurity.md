@@ -52,7 +52,7 @@ Asked in order. Each is answered with a date and a link.
 - **Stage 4 keeps the row's critical-infrastructure regime** as one fact a notice states. Its enforcement and prosecutions go to the law's row.
 - **Stage 5 keeps the row's "reporting published"** as an account of incidents dealt with *(Bill, 2026-10-30: a count of complaints or detections shows recording, not action)*. Malabo ratification, regional cooperation and a recognised assessment go: the first is noted as on the law's row, and the other two are not a fact a story states.
 - **Windows**: a strategy counts while its period runs, and a body until a source says it was dissolved; question 2 is three years; question 3 has none; question 4 is one year. A statement that there is nothing counts for three years.
-- **A later yes answers the earlier ones**: published figures show a body that responds, and a designation names the body operators report to.
+- **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: published figures no longer show a body that responds, nor a designation the body operators report to.
 
 `study.json` holds this as four aspects, which head the long summary's paragraphs: `foundation` (`body`, `strategy`, `none`) for question 1, `response` (`responded`) for question 2, `cii` (`designated`) for question 3 and `figures` (`published`, or `recorded` for a count that shows no action, which never stages) for question 4. **For the drafter**: a body's name goes in `country_label`; an alert counts only when the national body issued it, not a bank or a ministry.
 

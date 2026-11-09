@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "body",
-      "stage": "5",
+      "stage": "3",
       "standing": "constituted",
-      "rulings": "reported",
+      "rulings": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BEN-003;BEN-020",
-      "gaps": "Nothing on the four questions.",
+      "stage_sources": "BEN-020;BEN-001",
+      "gaps": "No ruling of the authority against a named organisation in the last three years has been found.",
       "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py.",
-      "as_at": "2026-10-17"
+      "as_at": "2026-11-09"
     }
   ]
 }

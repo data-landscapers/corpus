@@ -10,4 +10,4 @@
 
 ***Also on file***. [PAPSS](<https://thecondia.com/remita-launches-super-app/>); [Remita](<https://thecondia.com/remita-launches-super-app/>); [TeamApt](<https://businessday.ng/technology/article/teamapt-gains-direct-mastercard-network-access-in-strategic-payments-expansion/>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source since October 2023 says the Central Bank of Nigeria runs a national switch.

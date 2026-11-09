@@ -1,6 +1,6 @@
 # Health: health information system
 
-*As at 2026-11-07.*
+*As at 2026-11-05.*
 
 ## The norm
 
@@ -20,22 +20,15 @@ The Africa CDC Digital Transformation Strategy asks for national digital health 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 15 |
+| 5 Leading | 10 |
 | 4 Operating | 5 |
-| 3 Established | 20 |
+| 3 Established | 25 |
 | 2 Nascent | 8 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 5 |
 
 ## Countries
-
-### Angola: 5 Leading
-
-Angola published its national health reporting rate for 2025, 71% of expected facility reports; links to other health systems are not known.
-
-- DHIS2 says a March 2026 joint WHO and HISP UiO mission found Angola's DHIS2-based national health information system serving more than 4,700 registered users and working as a solid national platform for the Ministry of Health ([source, 2026-03](https://dhis2.org/pt-pt/angola-to-partner-with-hisp-uio-and-who/)).
-- The report gives national completeness of monthly facility reporting as 71% of expected reports in 2025, 120% in 2024, and 24% of districts at 90% or more in 2025 ([source, 2025](https://www.countdown2030.org/wp-content/uploads/2026/09/Angola.pdf)).
 
 ### Burundi: 5 Leading
 
@@ -62,18 +55,6 @@ Madagascar published its national health reporting rate, 98% of facility reports
 - mTOMADY says DHIS2 is the national health data system used by the Ministry of Public Health in Madagascar ([source, 2025-10-07](https://www.linkedin.com/posts/mtomady_digitalhealth-interoperability-dhis2-activity-7381257757754150912-s2DE)).
 - Monthly facility reporting completeness held at 98% in 2024 and 2025, and districts with complete reporting rose from 92% to 94%, per the Countdown 2030 synthesis ([source, 2025](https://www.countdown2030.org/wp-content/uploads/2026/09/Madagascar.pdf)).
 
-### Namibia: 5 Leading
-
-The reporting rate of the national health information system was published in 2024.
-
-- Countdown to 2030 gives national DHIS2 completeness of monthly facility reporting as 86% in 2019 rising to 96% of expected monthly reports in 2024 ([source, 2024](https://www.countdown2030.org/wp-content/uploads/2025/09/Namibia-Synthesis-Report.pdf)).
-
-### Nigeria: 5 Leading
-
-The reporting rate of the national health information system was published in 2025.
-
-- The Federal Ministry of Health says the national health facility reporting rate for June 2025 was 91.5% at the time of the report, with monthly rates of 90.9% to 93.4% for January to June 2025 ([source, 2025-06](https://fmohconnect.gov.ng/wp-content/uploads/2025/09/NHMIS-June-2025-Bulletin-1.pdf)).
-
 ### Rwanda: 5 Leading
 
 The reporting rate of the national health information system was published in 2026.
@@ -97,18 +78,6 @@ The reporting rate of the national health information system was published in 20
 The reporting rate of the national health information system was published in 2025.
 
 - The WHO/MoH maturity assessment records the completeness rate for routine reports at 62% and for indicator data at 57% ([source, 2025-02](https://www.afro.who.int/sites/default/files/2025-03/Knowledge%20Management%20Series%20for%20Health%20Maturity%20of%20the%20Health%20Information%20System%20of%20South%20Sudan%20_%20progress%2C%20gaps%20and%20priorities%20for%20investment.pdf)).
-
-### Sudan: 5 Leading
-
-The reporting rate of the national health information system was published in 2025.
-
-- The Federal Health Minister said national teams raised data reporting coverage from 13 percent at the onset of the crisis to more than 56 percent by the end of 2025 ([source, 2025-12](https://allafrica.com/stories/202602100399.html)).
-
-### Uganda: 5 Leading
-
-The reporting rate of the national health information system was published in 2025.
-
-- DHIS2 reporting rose from 58 percent in 2020 to 98 percent in 2025, per Makerere University News on the MakSPH-METS programme ([source, 2025](https://news.mak.ac.ug/2026/04/mak-transitions-100-million-digital-health-systems-assets-to-health-ministry/)).
 
 ### Zambia: 5 Leading
 
@@ -154,6 +123,13 @@ Somalia's national health information system took reports from a separate patien
 
 - The Somalia Federal Ministry of Health poster says DHIS2 functions as the national HMIS for aggregate reporting in Somalia ([source, 2026-05](https://community.dhis2.org/t/a-standards-based-approach-to-dhis2-integration/72690)).
 - The poster says RAAD (BAMNI), the national primary-care electronic health record deployed in 111 facilities across six states, automatically generates DHIS2-compliant aggregate reports from routine care records ([source, 2025](https://community.dhis2.org/t/a-standards-based-approach-to-dhis2-integration/72690)).
+
+### Angola: 3 Established
+
+Angola's national health information system received 71% of expected facility reports in 2025; links to other health systems are not known.
+
+- DHIS2 says a March 2026 joint WHO and HISP UiO mission found Angola's DHIS2-based national health information system serving more than 4,700 registered users and working as a solid national platform for the Ministry of Health ([source, 2026-03](https://dhis2.org/pt-pt/angola-to-partner-with-hisp-uio-and-who/)).
+- The Countdown 2030 report says national routine facility reports run through DHIS2 in Angola, whose 2020-2021 implementation lowered data quality; it gives national completeness of 71% of expected monthly facility reports in 2025, with private sector not reporting and gaps in several provinces ([source, 2025](https://www.countdown2030.org/wp-content/uploads/2026/09/Angola.pdf)).
 
 ### Benin: 3 Established
 
@@ -261,11 +237,31 @@ A national health information system was in service in 2025; links to other heal
 - The Countdown 2030 chartbook report assesses national DHIS2 health-facility data for 2019-2024 by district and region, covering national trends, and reports that district report completeness is low against target ([source, 2025](https://www.countdown2030.org/wp-content/uploads/2025/09/MAURITANIE-Chartbook-Report-CAM-2025.pdf.pdf)).
 - Countdown to 2030 and APHRC held a national workshop on 3-7 November 2025 training district-level focal points to analyse and use data from Mauritania's National Health Information System (SNIS), with practical sessions in DHIS2 ([source, 2025-11](https://www.countdown2030.org/countdown-news/strengthening-the-use-of-srmnia-nutrition-data-for-action-in-mauritania)).
 
+### Namibia: 3 Established
+
+Namibia's national health information system received 96% of expected facility reports in 2024; links to other health systems are not known.
+
+- Countdown to 2030 reports national health facility data from DHIS2 for 2019-2024, with 96% of expected monthly facility reports received nationally in 2024 and 93% of districts at 90% completeness or better ([source, 2024](https://www.countdown2030.org/wp-content/uploads/2025/09/Namibia-Synthesis-Report.pdf)).
+- The US CDC says it supports the health ministry with the national health information management system (DHIS2), which collects aggregated data and produces summary reports, giving staff from health facilities up to national programmes access to information ([source, 2024-10-04](https://dev2.restoredcdc.org/www.cdc.gov/global-health/media/pdfs/2024/11/Namibia-2024-Fact-Sheet.pdf)).
+
+### Nigeria: 3 Established
+
+Nigeria's health facilities reported through the national health information system in 2025; links to other health systems are not known.
+
+- The Federal Ministry of Health's June 2025 NHMIS Bulletin reports national health facility data through the National Health Management Information System, with states encouraged to report directly into DHIS-2 and facilities across states and the FCT shown reporting ([source, 2025-06](https://fmohconnect.gov.ng/wp-content/uploads/2025/09/NHMIS-June-2025-Bulletin-1.pdf)).
+
 ### Sao Tome and Principe: 3 Established
 
 A national health information system was in service in 2023; links to other health systems are not on record.
 
 - A University of Sao Tome and Principe master's dissertation, reported by Tela Non, used national DHIS2 system data for 2022-2023 to compare hypertension, diabetes and stroke incidence across districts including Agua Grande, Lemba, Me-Zochi, Lobata and Principe ([source, 2023](https://www.telanon.info/sociedade/2026/07/29/53782/estudo-revela-elevada-carga-de-hipertensao-diabetes-e-avc-em-sao-tome-e-principe/)).
+
+### Sudan: 3 Established
+
+Sudan's national health information system was its one approved system in 2025 and 2026; links to other health systems are not known.
+
+- A study of Sudan's health information systems found there is only one approved system for collecting health information, DHIS2 ([source, 2025-12](https://doi.org/10.59992/ijci.2025.v4n12p2)).
+- A General Administration of Information director calls the DHIS2-based health information system the backbone of the country, and the WHO representative cites improved information coverage achieved during the war ([source, 2026-02-16](https://www.linkedin.com/posts/dhis-2_dhis2-sudan-hmis-activity-7429087417556578304-wJeR)).
 
 ### Tanzania: 3 Established
 
@@ -279,6 +275,14 @@ A national health information system was in service in 2026; links to other heal
 Togo's national health information system was in service in 2026; a link to another health system is not known.
 
 - DHIS2 has been used by Togo's Ministry of Health since 2016 as the country's HMIS, its main data collection and aggregation tool and national repository for health data, owned and maintained by the ministry with HISP WCA support (DHIS2 profile, updated July 2026) ([source, 2026-07](https://dhis2.org/climate/country-profiles/togo/)).
+
+### Uganda: 3 Established
+
+Uganda's national health information system reached 98 per cent reporting in 2025; links to other health systems are not known.
+
+- Reporting through DHIS2 across Uganda improved from 58 percent in 2020 to 98 percent in 2025, and Makerere handed the digital health systems including DHIS2 to the Ministry of Health on 31 March 2026, per Makerere University News ([source, 2025](https://news.mak.ac.ug/2026/04/mak-transitions-100-million-digital-health-systems-assets-to-health-ministry/)).
+- The report, dated 10 March 2026, describes the Ministry of Health's District Health Information Software (DHIS2) as carrying the national HMIS data and a national MCCD application, with hospitals in Kampala, eastern and western Uganda entering mortality data into it ([source, 2025-12](https://uniph.go.ug/wp-content/uploads/2026/03/CRVS-D4H-quartely-Report-October-December-2025.pdf)).
+- The IMPULSE study (Nov 2022-Jul 2024) found DHIS2 in use as the routine health information system in central and subnational data offices in Uganda ([source, 2024-07](https://researchonline.lshtm.ac.uk/id/eprint/4679144/)).
 
 ### Cape Verde: 2 Nascent
 

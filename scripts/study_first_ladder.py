@@ -15,13 +15,13 @@ The first aspect's values are read from `study.json` in that order, top first: `
 3. The second aspect's one value.
 4. The third aspect's one value.
 
-**A later yes answers the earlier ones** (method §3.3), unless `study.json` -> `"later_yes": false`
-*(Bill, 2026-10-23: birthidlink, idregisters, taxregister)*: then stage 4 needs the first aspect
-at its top value as well, and stage 5 needs that and the second aspect, each shown by its own row
-in the window. `inservice` still answers `underway`: they are one aspect. **`"must_show": [n, ...]`**
-*(Bill, 2026-10-23: a nationwide criterion is observed)* is the finer setting: a later yes does not
-answer the questions it lists, and answers the rest; the stage is the last question answered in an
-unbroken run from question 1, and its sources that question's own rows, else the later yes that
+**Each step of the ladder must be met to progress** (method §3.3; *Bill, 2026-11-09, message 114*,
+study-wide after his rulings on seven studies): stage 4 needs the first aspect at its top value,
+and stage 5 that and the second aspect, each shown by its own row in the window; the stage is
+the last question answered in an unbroken run from question 1. `inservice` still answers
+`underway`: they are one aspect. A study whose higher yes truly implies a lower one sets
+`"later_yes": true`, and then **`"must_show": [n, ...]`** lists the questions a later yes still
+does not answer; the stage's sources are that question's own rows, else the later yes that
 answered it. Stage 1 is the first aspect at `none` with no other yes. Every window is three years; a fact dated after the as-at
 sets nothing, and a year or a month stands for its last day. `corrections.csv` (`removed`, or `revalued: aspect:value`)
 is applied to `evidence.csv` first, once, as `study-ladder-opendatause.py` does. Writes each
@@ -136,8 +136,8 @@ def stage(study: dict, rows: list[dict], as_at: dt.date, gaps: dict, empty: str,
 
 
 def must_show(study: dict) -> set[int]:
-    """The questions a later yes does not answer: `must_show`, or all three under `later_yes: false`."""
-    if study.get("later_yes", True) is False:   # Bill, 2026-10-23: every lower rung shown
+    """The questions a later yes does not answer: all three, unless `later_yes: true`, then `must_show`."""
+    if study.get("later_yes", False) is not True:   # Bill, 2026-11-09, message 114: every rung shown
         return {1, 2, 3}
     return {int(q) for q in study.get("must_show", [])}   # Bill, 2026-10-23: nationwide is shown
 

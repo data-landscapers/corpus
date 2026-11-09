@@ -20,10 +20,10 @@ The Malabo Convention, chapter III, asks each party for a national cybersecurity
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
-| 4 Operating | 8 |
-| 3 Established | 10 |
-| 2 Nascent | 30 |
+| 5 Leading | 3 |
+| 4 Operating | 5 |
+| 3 Established | 12 |
+| 2 Nascent | 33 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 0 |
@@ -55,29 +55,6 @@ The national cyber body published an account of incidents it dealt with for a pe
 - Cabinet Secretary Kabogo said the government established the National Cybersecurity Agency through a presidential order published in the Kenya Gazette to lead national coordination and run the National Cybersecurity Operations Centre ([source, 2026-10-28](https://www.kenyanews.go.ke/calls-to-boost-ai-driven-cybersecurity-cooperation-against-cybercrime/)).
 - Communications Authority Director General David Mugonyi says Kenya promulgated the Cybercrime and Computer Misuse (Critical Information Infrastructure and Cybercrime Management) Regulations in early 2024 to secure critical information infrastructure in sectors such as e-government, telecommunications, banking, transport, energy and health ([source, 2024](https://www.ca.go.ke/ca-lay-2500km-fibre-accross-19-counties)).
 
-### Morocco: 5 Leading
-
-The national cyber body published an account of incidents it dealt with for a period to 2025.
-
-- Minister Delegate Abdellatif Loudiyi gave 879 attacks recorded, 109 direct interventions, 22 alerts and 511 bulletins (248 critical) for 2025 ([source, 2025](https://h24info.ma/maroc/dgssi-879-cyberattaques-recensees-en-2025/)).
-- maCERT, the DGSSI's cyber watch and response centre, issued a security warning bulletin (ref. 65471806/26) on the FortiBleed leak affecting Fortinet firewalls and SSL VPN gateways, saying several Moroccan institutions were affected and urging MFA and password changes ([source, 2026-06-21](https://www.hespress.com/%D8%AD%D9%85%D9%84%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%B6%D8%AE%D9%85%D8%A9-%D9%84%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%AA%D9%87%D8%AF%D8%AF-%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-1765087.html)).
-- Morocco's DGSSI, under the National Defense Administration, is stated to host Morocco CyberSecurity Week and to have deployed security operations centres and strengthened oversight and auditing in recent years ([source, 2026-10-12](https://www.maroc.ma/en/news/morocco-cybersecurity-week-kicks-rabat)).
-
-### Tunisia: 5 Leading
-
-The national cyber body published an account of incidents it dealt with for a period to 2026.
-
-- The ANCS published tunCERT counts for the first half of 2026: 336 advisories and 657,540 incidents reported ([source, 2026-06](https://www.ancs.tn/fr/statistiques/statistiques-relatives-au-cyberespace-tunisien-1er-semestre-2026)).
-- Managers reports that the national cybersecurity agency ANCS published an alert on 21 October 2026 (bulletin tunCERT/Vuln.2026-657) on two critical PHP vulnerabilities, urging patching ([source, 2026-10-21](https://managers.tn/2026/10/24/tunisie-bct-steg-atct-plusieurs-sites-institutionnels-suspendus-details/)).
-- The article states the Agence nationale de la cybersécurité (ANCS) relayed government circular no. 5 and the 2023 cybersecurity decree-law framework; the body operates in September 2026 ([source, 2026-09](https://www.challenges.tn/high-tech/cybersecurite-en-tunisie-deux-circulaires-en-trois-semaines-les-entreprises-privees-sont-prevenues)).
-
-### Angola: 4 Operating
-
-Critical information infrastructure designated by 2026; the national body publishes no recent account of incidents it dealt with that is known.
-
-- Lei n.º 9/26 requires operators of critical infrastructure, essential services, electronic communications, data centres, cloud and digital services to register with the Centre within 180 days and notify significant incidents to CERT.ao, with deadlines to be set by separate instrument ([source, 2026-09-28](https://pti.ao/nova-lei-da-ciberseguranca-impoe-registo-e-notificacao-de-incidentes-a-operadores/)).
-- President Lourenço's State of the Nation address, as reported by PTI, refers to the approval of the National Cybersecurity Strategy and the structuring of a National Cybersecurity Centre ([source, 2026-10-16](https://pti.ao/estado-da-nacao-presidente-destaca-progressos-nas-telecomunicacoes-e-transformacao-digital/)).
-
 ### Cote d'Ivoire: 4 Operating
 
 Critical information infrastructure designated by 2026; the national body publishes no recent account of incidents it dealt with that is known.
@@ -85,13 +62,6 @@ Critical information infrastructure designated by 2026; the national body publis
 - The source states that reporting cyber incidents to ANSSI is a legal obligation for companies, with administrative sanctions for non-declaration; no decree is named ([source, 2026-07](https://digitalmag.ci/cote-divoire-ne-pas-signaler-une-cyberattaque-expose-a-des-poursuites-penales-et-administratives/)).
 - CI-CERT's alert register lists four public security alerts, from 22 January to 15 February 2024, including AnyDesk compromise and a phishing campaign ([source, 2024-02-15](https://www.cicert.ci/)).
 - RFI describes the Agence nationale de la sécurité des systèmes d'information (Anssi) as the authority responsible for securing Côte d'Ivoire's national digital space, which led the Cyber.Ex national drill in Abidjan on 28-29 October 2026 ([source, 2026-10-29](https://www.rfi.fr/fr/afrique/20261029-en-c%C3%B4te-d-ivoire-une-simulation-nationale-pour-apprendre-%C3%A0-r%C3%A9agir-aux-cyberattaques-majeures)).
-
-### DR Congo: 4 Operating
-
-Critical information infrastructure designated by 2026; the national body publishes no recent account of incidents it dealt with that is known.
-
-- Article 4 of the ordonnance requires public institutions and operators of vital importance to inform ANCY of all attacks and intrusions; Article 3 also tasks ANCY with identifying such operators with ministries and sector regulators ([source, 2026-05-16](https://fr.scribd.com/document/1057825809/J-O-n-special-du-16-juin-2026-ANCY)).
-- The minister said a national cybersecurity agency (Agence nationale de cybersécurité) has been created by presidential ordinance to strengthen the national response to digital threats; the source gives no date for the ordinance, so the publication date is used ([source, 2026-09-29](https://depeche.cd/2026/09/29/rdc-augustin-kibassa-detaille-les-avancees-dun-an-dans-la-transformation-numerique/)).
 
 ### Mozambique: 4 Operating
 
@@ -116,13 +86,6 @@ Critical information infrastructure designated by 2026; the national body publis
 - The NCC Executive Vice-Chairman and another speaker said at a 2026-08-11 workshop that telecommunications and fibre-optic infrastructure has been designated Critical National Information Infrastructure; the designation date is not given, so as_of is the statement date ([source, 2026-08-11](https://punchng.com/fibre-cuts-hit-5000-as-road-works-intensify/)).
 - NCC-CSIRT of the Nigerian Communications Commission issued a public security advisory on DDoS threats driven by botnet malware strains (Andromeda, BruteForceBot, Win.AsyncRAT, Gamut, StealRat) in the communications sector, rating damage and probability high ([source, 2026-09-30](https://csirt.ncc.gov.ng/index.php/resources/security-advisories/426-ddos-threats-driven-by-malware-strains-targeting-the-communications-sector)).
 - The op-ed states the Nigeria Computer Emergency Response Team (ngCERT) provides a national incident-response function and publishes security advisories; no event date is given, so the document's published date is used ([source, 2026-09-26](https://www.thisdaylive.com/2026/09/26/would-nigeria-know-when-an-ai-agent-breaks-into-our-system/)).
-
-### Tanzania: 4 Operating
-
-Critical information infrastructure designated by 2026; the national body publishes no recent account of incidents it dealt with that is known.
-
-- Government Notice No. 147 of 19 June 2026, made by the Minister for Communication and Information Technology under section 28 of the Cybercrimes Act (Cap. 443), designates 25 categories of computer systems as critical information infrastructure and requires owners to register them with the Ministry and submit quarterly risk assessments ([source, 2026-06-19](https://media.tanzlii.org/media/legislation/400769/source_file/b94ac284c6b6b841/cybercrimes-protection-of-critical-information-infrastructure-order-2026.pdf)).
-- The Minister states Tanzania, through TCRA, established TZ-CERT under the Electronic and Postal Communications Act, 2010, and that it monitors, detects and responds to cybersecurity threats ([source, 2026-05-13](https://www.tcra.go.tz/uploads/text-editor/files/MINISTERS%20STATEMENT%20WITSD%202026_1779118337.pdf)).
 
 ### Uganda: 4 Operating
 
@@ -175,6 +138,14 @@ The national cyber body responded to an incident or issued an alert in 2026; no 
 - CERT-MU published a security bulletin on 22 October 2026 rating the PHP2Shell vulnerabilities (CVE-2026-109618 and -109619) critical at 9.2, and the government took some state sites offline as a precaution ([source, 2026-10-22](https://lexpress.mu/node/563942)).
 - The ICT minister refers to the Computer Emergency Response Team of Mauritius (CERT-MU) as an existing body that is to sign a content takedown agreement with Meta ([source, 2026-10-10](https://lexpress.mu/s/avinash-ramtohul-il-faut-apporter-un-peu-de-discipline-dans-les-reseaux-sociaux-563444)).
 
+### Morocco: 3 Established
+
+Morocco's national cyber body issued alerts and intervened in 109 attacks in 2025; designation of critical information infrastructure is not known.
+
+- maCERT, the DGSSI's cyber watch and response centre, issued a security warning bulletin (ref. 65471806/26) on the FortiBleed leak affecting Fortinet firewalls and SSL VPN gateways, saying several Moroccan institutions were affected and urging MFA and password changes ([source, 2026-06-21](https://www.hespress.com/%D8%AD%D9%85%D9%84%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%B6%D8%AE%D9%85%D8%A9-%D9%84%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%AA%D9%87%D8%AF%D8%AF-%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-1765087.html)).
+- The DGSSI said 109 of 879 recorded cyberattacks in 2025 needed direct intervention by its Centre de veille, and it issued 22 security alerts and 511 bulletins ([source, 2025](https://h24info.ma/maroc/dgssi-879-cyberattaques-recensees-en-2025/)).
+- The op-ed cites data given to Parliament in November 2025 that the DGSSI detected 879 cyber incidents, 109 of which required its direct intervention, and says it confirmed the 2025 Tawtik.ma data leak ([source, 2025-11](https://al3omk.com/1205193.html)).
+
 ### Sierra Leone: 3 Established
 
 The national cyber body responded to an incident or issued an alert in 2026; no critical infrastructure designation is known.
@@ -196,6 +167,14 @@ The national cyber body responded to an incident or issued an alert in 2026; no 
 - CERT.tg issued a public alert on a surge of compromises of WhatsApp, Facebook and other online accounts in Togo; the article dates it to Thursday 20 August 2026 (inferred from its publication date) ([source, 2026-08-20](https://savoirnews.net/togo-le-cert-tg-alerte-sur-une-nouvelle-vague-de-piratage-de-comptes-en-ligne/)).
 - The National Cybersecurity Agency (ANCy) is stated to have held the fourth stage of its national awareness tour at Kougnohou on 14 September 2026, for nearly 200 attendees ([source, 2026-09-14](https://togoregard.tg/cybersecurite-lancy-sensibilise-pres-de-200-acteurs-a-kougnohou/)).
 
+### Tunisia: 3 Established
+
+Tunisia's national cyber body issued alerts and handled incidents in 2025 and 2026; the decree designating critical information infrastructure is not known.
+
+- Managers reports that the national cybersecurity agency ANCS published an alert on 21 October 2026 (bulletin tunCERT/Vuln.2026-657) on two critical PHP vulnerabilities, urging patching ([source, 2026-10-21](https://managers.tn/2026/10/24/tunisie-bct-steg-atct-plusieurs-sites-institutionnels-suspendus-details/)).
+- tunCERT published 336 security advisories and reported 657,540 incidents to national stakeholders in the first half of 2026, per the ANCS ([source, 2026-06](https://www.ancs.tn/fr/statistiques/statistiques-relatives-au-cyberespace-tunisien-1er-semestre-2026)).
+- The Agence nationale de cybersécurité, with the communications ministry, handled an attempted attack on the university data centre, per El Khawarizmi's communiqué ([source, 2025-07-10](https://www.lapresse.tn/2025/07/10/le-centre-el-khawarizmi-bloque-une-cyberattaque-ciblant-les-plateformes-universitaires/)).
+
 ### Zimbabwe: 3 Established
 
 The national cyber body responded to an incident or issued an alert in 2025; no critical infrastructure designation is known.
@@ -208,6 +187,12 @@ The national cyber body responded to an incident or issued an alert in 2025; no 
 The country had a cybersecurity strategy by 2026; no incident response by a national body is known since 2023.
 
 - The article states a national cybersecurity strategy is in force and that the Information Systems Security Agency oversees its implementation; no period or event date is given, so the article's published date is used ([source, 2026-09-20](https://www.echaab.dz/2026/09/20/%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%B4%D9%81%D8%A7%D9%81%D9%8A%D8%A9-%D9%88%D8%B9%D8%B5%D8%B1%D9%86%D8%A9/)).
+
+### Angola: 2 Nascent
+
+Angola approved a national cybersecurity strategy by 2026; an incident handled or public alert issued by a national body since October 2023 is not known.
+
+- President Lourenço's State of the Nation address, as reported by PTI, refers to the approval of the National Cybersecurity Strategy and the structuring of a National Cybersecurity Centre ([source, 2026-10-16](https://pti.ao/estado-da-nacao-presidente-destaca-progressos-nas-telecomunicacoes-e-transformacao-digital/)).
 
 ### Benin: 2 Nascent
 
@@ -250,6 +235,12 @@ The country had a national cyber body by 2021; no incident response by a nationa
 The country had a national cyber body by 2026; no incident response by a national body is known since 2023.
 
 - ANSSI, the national information systems security agency, is stated to hold a working session at its Brazzaville headquarters on 28 July 2026 to validate a draft qualification standard for cybersecurity audit providers ([source, 2026-07-28](https://fr.linkedin.com/posts/anssi-cg_il-sest-tenu-ce-mardi-28-juillet-2026-au-activity-7487929626313486337-A1oT)).
+
+### DR Congo: 2 Nascent
+
+DR Congo set up a national cybersecurity agency by ordinance in May 2026; an incident it handled or alert it issued is not known.
+
+- Presidential Ordonnance n° 26/033 of 16 May 2026, in force on signature, organises the Agence Nationale de Cybersécurité (ANCY) as a public body and the national authority for cybersecurity and information-system security, under the President, and tasks it with setting up a national SOC and CERT/CSIRT ([source, 2026-05-16](https://fr.scribd.com/document/1057825809/J-O-n-special-du-16-juin-2026-ANCY)).
 
 ### Djibouti: 2 Nascent
 
@@ -376,6 +367,13 @@ The country had a national cyber body by 2026; no incident response by a nationa
 The country had a national cyber body by 2026; no incident response by a national body is known since 2023.
 
 - The Cybercrime and Computer Misuse Act 2026, signed 18 February 2026, designates the authority as lead national responder to cyber threats and requires it to establish a National Computer Incident Response Team Coordination Centre (SS-CIRT/CC) ([source, 2026-02-18](https://www.radiotamazuj.org/en/news/article/explainer-cybercrime-and-computer-misuse-act-2026-chapter-v)).
+
+### Tanzania: 2 Nascent
+
+Tanzania has a cybersecurity strategy and a national response team; an incident handled or alert issued since October 2023 is not known.
+
+- The Minister states Tanzania, through TCRA, established TZ-CERT under the Electronic and Postal Communications Act, 2010, and that it monitors, detects and responds to cybersecurity threats ([source, 2026-05-13](https://www.tcra.go.tz/uploads/text-editor/files/MINISTERS%20STATEMENT%20WITSD%202026_1779118337.pdf)).
+- The article says Tanzania recently launched a National Cybersecurity Strategy (2023-2028); no launch date is given, so as_of is the document's published date ([source, 2025-04-10](https://www.thecitizen.co.tz/tanzania/news/national/experts-back-tanzania-s-cyber-security-push-amid-growing-digital-threats-4998368)).
 
 ### Zambia: 2 Nascent
 

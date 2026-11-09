@@ -12,4 +12,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found says Morocco's critical information infrastructure was designated. None says its operators must report incidents to the DGSSI.

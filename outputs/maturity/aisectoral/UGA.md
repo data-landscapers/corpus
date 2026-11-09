@@ -10,4 +10,4 @@
 
 ***Also on file***. [ISBAT University AI and Robotics Laboratory](<https://ura.go.ug/en/ura-cg-launches-university-ai-and-robotics-laboratory/>).
 
-***Not found***. No single source says AI is in service in the public systems of two or more sectors.
+***Not found***. No single source found says AI is in service in the public systems of two or more sectors.

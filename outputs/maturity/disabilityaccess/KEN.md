@@ -10,4 +10,4 @@
 
 ***Also on file***. [Digital Platform for Gender-Based Violence and Persons with Disabilities Case Management and Reporting](<https://www.nakuru.go.ke/new-digital-platform-launched-in-nakuru-county-to-improve-support-for-survivors-of-gender-based-violence-and-persons-with-disabilities/>).
 
-***Not found***. No results of an accessibility audit of public websites or digital services have been published since October 2023.
+***Not found***. No rule in force found since October 2023 makes public information or digital services accessible. A law, regulation, policy or standard was looked for.

@@ -8,4 +8,4 @@
 
 ***Also on file***. [GEMS digital school inspection dashboards](<https://blogs.worldbank.org/en/opendata/from-paper-forms-to-data-driven-decisions--how-gems-improved-sch>); [Gender Data Portal](<https://documents1.worldbank.org/curated/en/099037006302214402/pdf/IDU06117454a06d9c041600bf07075952fc5ee49.pdf>); [Sistema de Informação de Planos e Projetos (SIPP)](<https://www.imvf.org/2026/10/20/26-tecnicos-capacitados-para-reforcar-o-acompanhamento-dos-projetos-de-desenvolvimento-na-guine-bissau/>).
 
-***Not found***. No source found since October 2024 names or counts four or more public bodies publishing data.
+***Not found***. No source found since October 2023 states an open licence for the data.

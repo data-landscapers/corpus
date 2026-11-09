@@ -8,4 +8,4 @@
 
 ***Also on file***. The [Code du numérique, as amended by loi n° 2020-35](https://fraternite.bj/protection-des-donnees-a-caractere-personnel-au-benin-ce-que-dit-la-loi-du-06-janvier-2021/), and [Loi n° 2009-09 of 22 May 2009, replaced by the 2018 Code](https://archive.apdp.bj/wp-content/uploads/2020/12/Rapport-Bilan_2015-2020_Version-finale.pdf).
 
-***Not found***. Nothing on the four questions.
+***Not found***. No ruling of the authority against a named organisation in the last three years has been found.

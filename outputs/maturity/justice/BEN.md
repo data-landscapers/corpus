@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says judgments are published or case status can be looked up online.
+***Not found***. No source found since October 2023 says: do courts manage cases electronically.

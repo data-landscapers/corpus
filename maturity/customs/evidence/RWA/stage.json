@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "customs",
-      "stage": "5",
+      "stage": "3",
       "system": "inservice",
       "window": "",
       "exchange": "exchange",
       "cap": "",
       "flags": "",
-      "stage_sources": "RWA-004",
+      "stage_sources": "RWA-002",
       "gaps": "No source found since October 2023 says a trade single window is in service.",
-      "note": "TradeMark Africa says Rwanda's customs system is one of five interconnected through the EAC Single Customs Territory Centralised Platform, unveiled in revamped form in January 2025, so stage 5. No source describes a trade single window.",
-      "as_at": "2026-10-27"
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: no source since October 2023 says a trade single window is in service; the EAC Single Customs Territory platform answers the regional question only, so ASYCUDA World processing trade gives 3.",
+      "as_at": "2026-11-09"
     }
   ]
 }

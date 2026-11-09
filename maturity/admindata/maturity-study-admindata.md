@@ -47,7 +47,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Operating | Yes to 3: statistics from at least one administrative source published at least twice in the last three years |
 | 5 Leading | Yes to 4: statistics from at least three administrative sources published at least twice in the last three years |
 
-- **A later yes answers the earlier ones.**
+- **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*. The four questions measure one yearbook at rising levels, so a higher answer is the same fact.
 - **One yearbook published twice can carry stage 5** where each edition draws on three sources or more.
 - **Two editions are two publications**: one report covering two years is one edition.
 - **Civil registration is one source among the rest** *(Bill, 2026-10-19)*. The ladder of 2026-10-15 put vital statistics at 4 and their yearly publication at 5; it is replaced by the count of sources and editions above.

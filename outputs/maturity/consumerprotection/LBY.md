@@ -10,4 +10,4 @@
 
 ***Also on file***. [Moamalat Financial Services Company](<https://libyaherald.com/2026/10/electronic-transactions-reached-865-billion-libyan-dinars-by-end-of-september-2026-cbl/>).
 
-***Not found***. No source found since October 2023 reports a fine, a sanction or complaint figures for digital financial services.
+***Not found***. The rules held date from March 2020. No source found since October 2023 says digital-finance consumer rules are drafted or in force. None reports a fine, sanction or complaint figures.

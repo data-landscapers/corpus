@@ -1,6 +1,6 @@
 # Inclusion of persons with disabilities: digital accessibility
 
-*As at 2026-11-02.*
+*As at 2026-11-01.*
 
 ## The norm
 
@@ -20,21 +20,15 @@ The AU Disability Protocol asks for public information in accessible formats and
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
-| 4 Operating | 17 |
+| 5 Leading | 1 |
+| 4 Operating | 7 |
 | 3 Established | 5 |
-| 2 Nascent | 9 |
+| 2 Nascent | 20 |
 | 1 Absent | 4 |
 | Unplaced | 6 |
 | No evidence | 11 |
 
 ## Countries
-
-### Morocco: 5 Leading
-
-A 2026 government study found 47.5% of public institutions offer digital services fit for persons with disabilities; no rule in force has been found.
-
-- A joint study by the Mediator institution, the ONDH and the Secretariat of State for Social Inclusion, presented in March 2026, found only 47.5% of public institutions offer inclusive digital solutions and 25% of administrations are inclusive overall ([source, 2026-03-31](https://fr.le360.ma/societe/personnes-en-situation-de-handicap-seules-25-des-administrations-marocaines-sont-inclusives-le_IH7JZFEDLJHUTK5V2MM3YSNIFY/)).
 
 ### Nigeria: 5 Leading
 
@@ -42,12 +36,6 @@ An audit of how accessible public digital services are was published in 2026.
 
 - An assessment presented to NITDA by researcher Tracy Onabis Agbamu found only 47% of about 30 government digital platforms met the accessibility threshold ([source, 2026-09-16](https://www.itweb.africa/article/nigerian-govt-platforms-fail-access-test/KA3Ww7dzPjkqrydZ)).
 - Research by the Centre for Inclusive Development, presented by Tracy Onabis Agbamu, assessed about 30 government digital platforms and found only 47 per cent met the required accessibility threshold ([source, 2026-09-16](https://techafricanews.com/2026/09/16/nitda-strengthens-digital-accessibility-persons-with-disabilities/)).
-
-### Benin: 4 Operating
-
-Accessible digital services or assistive technology were delivered to persons with disabilities in 2024; no audit is published.
-
-- La Nation reports the government set up three digital classrooms for visually impaired learners (Cotonou-Sègbèya, Parakou, and one other) with screen readers, braille printers and braille displays, and 31 pupils of CEG Sègbèya trained at Sègbèya in 2023-2024 ([source, 2024](https://lanation.bj/numerique/inclusion-des-personnes-handicapees-au-benin-une-avancee-grace-aux-classes-numeriques)).
 
 ### Cote d'Ivoire: 4 Operating
 
@@ -68,37 +56,11 @@ Accessible digital services or assistive technology were delivered to persons wi
 - Egypt's Ministry of Transport added a digital accessibility service to its website mot.gov.eg with text-to-speech, speech-to-text, a sign-language interpreter, dyslexia fonts, a reading mask and keyboard navigation, working with the ICT ministry and the National Academy of IT for Persons with Disabilities ([source, 2026-09-17](https://www.youm7.com/story/2026/9/17/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D8%AA%D8%B7%D9%84%D9%82-%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D8%AA%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A8%D8%B0%D9%88%D9%8A-%D8%A7%D9%84%D9%87%D9%85%D9%85-%D8%B9%D8%A8%D8%B1-%D9%85%D9%88%D9%82%D8%B9%D9%87%D8%A7/7549148)).
 - Egypt's ICT ministry launched accessibility tools on its official website, including screen-reader compatibility, keyboard navigation, font and contrast changes and an accessibility icon, available on all pages ([source, 2026-08-04](https://gate.ahram.org.eg/News/5882651.aspx)).
 
-### Eswatini: 4 Operating
-
-Accessible digital services or assistive technology were delivered to persons with disabilities in 2026; no audit is published.
-
-- ESCCOM, through the Universal Access Fund, handed over 13 specialised assistive technology devices, including Prodigi Connect and BrailleNote Reader, to the Ministry of Education and Training for learners with visual impairments ([source, 2026-06-23](https://www.linkedin.com/posts/eswatini-communications-commission_leavenoonebehind-universalaccess-inclusiveeducation-activity-7475086873799983105-VzlC)).
-
 ### Ghana: 4 Operating
 
 Accessible digital services or assistive technology were delivered to persons with disabilities in 2024; no audit is published.
 
 - Ghana says the National Communication Authority, in its move to digital terrestrial television, has taken measures to make GTV news broadcasts accessible to the deaf ([source, 2024-06-18](https://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=u%2F7HeWsLeAGf4bOeOKu3awum%2BSewPd75x9YtJIsnfd7wWVeIkx7T8atLYZizIHJzk1touKDXHXm66ALasS%2BmMw%3D%3D)).
-
-### Kenya: 4 Operating
-
-Accessible digital services or assistive technology were delivered to persons with disabilities in 2026; no audit is published.
-
-- Nakuru County Government put into operation a digital platform whose disability module lets residents apply online or by mobile phone for assistive devices, empowerment programmes and tax relief, with 216 applications submitted so far ([source, 2026-09-22](https://www.nakuru.go.ke/new-digital-platform-launched-in-nakuru-county-to-improve-support-for-survivors-of-gender-based-violence-and-persons-with-disabilities/)).
-- The USF portfolio listed by the Communications Authority includes an Education Cloud and Assistive Tech project providing content and devices for learners with print disabilities ([source, 2025-08](https://www.kictanet.or.ke/major-usf-transparency-update-kenyas-communications-authority-responds-to-public-inquiry/)).
-
-### Lesotho: 4 Operating
-
-Accessible digital services or assistive technology were delivered to persons with disabilities in 2026; no audit is published.
-
-- The Ministry of Information, Communications, Science and Technology and Innovation signed an MoU with Vodacom and unveiled a 4G-enabled digital library (Insight Centre) at the State Library in Maseru, equipped with 10 computers, a Braille printer and eye-tracking assistive technology for persons with disabilities ([source, 2026-03-16](https://www.gov.ls/education/4g-enabled-digital-library-unveiled-for-persons-with-disability-in-maseru/)).
-
-### Mauritius: 4 Operating
-
-A government website offered accessibility tools in 2026; no published audit of public websites, and no rule in force, has been found.
-
-- The AI Unit's government website offers built-in accessibility tools including read-aloud, text scaling from 80% to 200%, high contrast, a dyslexia-friendly font, keyboard navigation and a simple language mode ([source, 2026-05](https://aim.govmu.org/aim/accessibility)).
-- The AI Unit of the Ministry of ICT and Innovation says its website is working to meet WCAG 2.2 Level AA and is not yet fully there ([source, 2026-05](https://aim.govmu.org/aim/accessibility)).
 
 ### Rwanda: 4 Operating
 
@@ -107,44 +69,12 @@ The education board broadcast lessons with sign language and audio for deaf and 
 - GPE reports the Rwanda Basic Education Board's edutainment episodes (96 recorded by September 2024) carry sign language for deaf children and audio for blind children, broadcast on radio and TV and online ([source, 2024-09](https://www.globalpartnership.org/results/country-journeys/rwanda-education-goes-digital)).
 - The Rwanda Information Society Authority's Government of Rwanda Websites Guideline states that all government websites must meet or exceed WCAG 2.2, with semantic HTML and ARIA roles supporting assistive technologies, keyboard access and captions ([source, 2025](https://guidelines.risa.gov.rw/books/government-of-rwanda-websites-guideline/page/accessibility)).
 
-### Sierra Leone: 4 Operating
-
-Accessible digital services or assistive technology were delivered to persons with disabilities in 2025; no audit is published.
-
-- MoCTI, with World Bank-funded SLDTP support, handed over a second set of assistive devices (computers with NVDA screen-reader software, Braille note takers and embossers, scanners and book readers, braillers, digital recorders) to four disability institutions in Makeni, Kenema and Freetown, after an early 2024 phase to two Freetown schools ([source, 2025-11-12](https://sldtp.gov.sl/2025/11/12/mocti-hands-over-assistive-devices-to-disability-institutions-with-support-from-sldtp/)).
-
-### South Africa: 4 Operating
-
-By 2025, 406 of 461 public special schools had received assistive devices; no audit of public websites has been found.
-
-- The Department of Basic Education told Parliament's select committee that, under ICASA obligations, 406 of 461 (88%) public special schools had received ICT equipment, connectivity and assistive devices, with 12,180 learner devices and 1,624 teacher devices distributed ([source, 2025-07-29](https://www.education.gov.za/ArchivedDocuments/ArchivedArticles/ProgressinInclusiveEducation.aspx)).
-- Deputy Minister of Science, Technology and Innovation Nomalungelo Gina launched assistive technologies funded through Technology Innovation Agency programmes, including the Ka-dah smartphone device for blind users, the WeSignIt sign-language app and the Virecom video interpreting service, at Central University of Technology in Bloemfontein on 4 August 2025 ([source, 2025-08-04](https://www.gov.za/news/media-statements/deputy-minister-nomalungelo-gina-innovations-assist-people-disabilities-south)).
-
 ### Tanzania: 4 Operating
 
 The communications regulator's website and digital skills training are made accessible; no non-academic audit is found.
 
 - TCRA has integrated assistive technologies into its website to improve accessibility, and its FURSA SANA and FUTA DELETE KABISA campaigns used sign language interpretation and braille in digital skills training for persons with disabilities in Dar es Salaam, Mtwara and Dodoma ([source, 2026-10-09](https://dailynews.co.tz/tcra-advances-digital-inclusion-for-pwds-through-assistive-technologies/)).
 - The strategy states that the Government supports ICT-based assistive technology for learning at the Open University of Tanzania in Dar es Salaam, where visually impaired and deaf people are trained to use assistive products and sign language ([source, 2024-11](https://www.kazi.go.tz/uploads/documents/en-1734703693-NATIONAL%20ASSISTIVE%20TECHNOLOGY%20STRATEGY-2024-2027%20SIGNED%2021-11-2024.pdf)).
-
-### Tunisia: 4 Operating
-
-Accessible digital services or assistive technology were delivered to persons with disabilities in 2025; no audit is published.
-
-- The Ministry of Social Affairs launched a digital platform for obtaining the disability card, letting persons with disabilities upload documents electronically, track the procedure via 'Espace Citoyen' and renew remotely, without travelling or attending in person ([source, 2025-12-05](https://www.lapresse.tn/2025/12/05/affaires-sociales-lancement-de-la-plateforme-numerique-pour-loctroi-de-la-carte-dinvalidite/)).
-
-### Uganda: 4 Operating
-
-Accessible digital services or assistive technology were delivered to persons with disabilities in 2026; no audit is published.
-
-- The National Council for Persons with Disabilities, with IDI Uganda and KOICA funding, opened an ICT hub in Kasese giving persons with disabilities computer literacy training in an inclusive learning environment with accessible ICT facilities ([source, 2026-08](https://elixnews.co.ug/new-ict-hub-launched-in-kasese-to-skill-pwds/)).
-- The National Council for Persons with Disabilities, with IDI Uganda and KOICA funding, opened an ICT hub in Kasese giving persons with disabilities computer literacy training in an inclusive learning environment with accessible ICT facilities ([source, 2026-08](https://nilepost.co.ug/news/360591/new-ict-hub-in-kasese-to-empower-persons-with-disabilities-with-digital-skills)).
-
-### Zambia: 4 Operating
-
-Accessible digital services or assistive technology were delivered to persons with disabilities in 2024; no audit is published.
-
-- ZICTA donated to Chinsali Special School in 2024 15 desktop computers, five with JAWS screen-reading software, plus a braille printer and internet connectivity, for a school of 768 learners including 213 with disabilities ([source, 2024](https://techafricanews.com/2026/06/17/zicta-assesses-uasf-ict-projects-to-expand-digital-inclusion-across-rural-zambia/)).
 
 ### Zimbabwe: 4 Operating
 
@@ -183,6 +113,12 @@ A rule in force required accessible information or digital services in 2024; del
 
 - Lei 10/2024, published in the Boletim da Republica on 7 June 2024, gives persons with disabilities a right of access to information and communication technologies and systems (Article 16) and says public service entities should provide service information in accessible formats, with sign-language training for State communicators (Article 17) ([source, 2024-06-07](https://faolex.fao.org/docs/pdf/moz228091.pdf)).
 
+### Benin: 2 Nascent
+
+Benin set up digital classrooms for visually impaired pupils in 2024; a rule in force requiring accessible public information or services is not known.
+
+- La Nation reports the government set up three digital classrooms for visually impaired learners (Cotonou-Sègbèya, Parakou, and one other) with screen readers, braille printers and braille displays, and 31 pupils of CEG Sègbèya trained at Sègbèya in 2023-2024 ([source, 2024](https://lanation.bj/numerique/inclusion-des-personnes-handicapees-au-benin-une-avancee-grace-aux-classes-numeriques)).
+
 ### Burkina Faso: 2 Nascent
 
 Work to make information and digital services accessible to persons with disabilities was under way in 2025; a rule in force is not on record.
@@ -202,6 +138,13 @@ The national disability agency was building a sign language app and accessible I
 - The National Agency for Persons with Disabilities held a workshop on its sign-language survey to digitise the Djiboutian sign language dictionary, and is finalising a Play Store app to learn the language ([source, 2024-07-02](https://www.lanation.dj/anph-mieux-comprendre-lusage-et-la-connaissance-des-langues-des-signes-parmi-les-personnes-malentendantes/)).
 - An October 2024 concept note by the national disability agency (ANPH) presents the Mobile ID launch and a hackathon to build Mobile ID applications that improve access to public services for persons with disabilities ([source, 2024-10](https://evenement.anph.dj/pdf/note.pdf)).
 
+### Eswatini: 2 Nascent
+
+Eswatini's regulator gave assistive devices for visually impaired learners in 2026; a rule in force requiring accessible public services is not known.
+
+- ESCCOM, through the Universal Access Fund, handed over 13 specialised assistive technology devices, including Prodigi Connect and BrailleNote Reader, to the Ministry of Education and Training for learners with visual impairments ([source, 2026-06-23](https://www.linkedin.com/posts/eswatini-communications-commission_leavenoonebehind-universalaccess-inclusiveeducation-activity-7475086873799983105-VzlC)).
+- The ICT Ministry reports it provided devices and assistive technologies to vulnerable groups and learners with disabilities in the first quarter of 2026/27 ([source, 2026-07](https://swazidailynews.com/9096/business/economy/ict-ministry-records-strong-start-as-digital-rollout-gains-momentum/)).
+
 ### Gambia: 2 Nascent
 
 Work to make information and digital services accessible to persons with disabilities was under way in 2026; a rule in force is not on record.
@@ -213,6 +156,20 @@ Work to make information and digital services accessible to persons with disabil
 Work to make information and digital services accessible to persons with disabilities was under way in 2026; a rule in force is not on record.
 
 - The ECOWAS Commission, with Guinean authorities and disability organisations, met in Conakry in June 2026 on implementing the third phase of its assistive-devices programme for children with disabilities, which covers specialised tablets among other devices and has USD 300,000 committed ([source, 2026-06](https://www.guinee7.com/2026/06/25/inclusion-la-cedeao-renforce-son-engagement-en-faveur-des-enfants-en-situation-de-handicap-en-guinee/)).
+
+### Kenya: 2 Nascent
+
+Kenya was rolling out an accessibility standard for digital products in 2025; a rule in force requiring accessible public services is not known.
+
+- KBC reports ICT Cabinet Secretary William Kabogo saying the ministry is rolling out the Accessibility Standard for Digital Products, which he says is already influencing how services are designed and delivered ([source, 2025-06-03](https://www.kbc.co.ke/govt-pledges-full-digital-access-for-persons-with-disabilities/)).
+- At a forum on 30 October 2026 validating a Digital and ICT Accessibility Maturity roadmap, Kenyan officials said public institutions are to audit their websites and online platforms and draw up plans to remove barriers for persons with disabilities, and the disability office is drafting inclusive communication guidelines on sign language, captioning and accessible documents, per The Star ([source, 2026-10-30](https://www.the-star.co.ke/news/2026-10-31-state-plans-digital-accessibility-audits-to-improve-services-for-pwds)).
+- The National Assembly passed the Public Participation Bill, 2025 on 12 August 2026, awaiting presidential assent, requiring authorities to state how they will make participation accessible to persons with disabilities and provide translation and sign language services ([source, 2026-08-12](https://nation.africa/kenya/news/mps-pass-public-participation-law-here-is-what-it-means-for-you-5558002)).
+
+### Lesotho: 2 Nascent
+
+Lesotho opened a digital library with assistive technology for persons with disabilities in 2026; a rule in force requiring accessible services is not known.
+
+- The Ministry of Information, Communications, Science and Technology and Innovation signed an MoU with Vodacom and unveiled a 4G-enabled digital library (Insight Centre) at the State Library in Maseru, equipped with 10 computers, a Braille printer and eye-tracking assistive technology for persons with disabilities ([source, 2026-03-16](https://www.gov.ls/education/4g-enabled-digital-library-unveiled-for-persons-with-disability-in-maseru/)).
 
 ### Liberia: 2 Nascent
 
@@ -226,17 +183,64 @@ Work to make information and digital services accessible to persons with disabil
 
 - Decree 2025-1526 of the Prime Minister, 3 December 2025, presents to Parliament draft law 017/2025 on access to public information, whose principle 9 says public information must be adapted for persons with disabilities through specialised media, adapted technologies or human assistance ([source, 2025-12-03](https://pub-7e0d3a35c1b949698a7ced344fa56252.r2.dev/textes/017-2025/PROJET_LAICP___PR_SENT_E_AU.PDF)).
 
+### Mauritius: 2 Nascent
+
+A Mauritian ministry unit was working towards web accessibility standards in 2026; a rule in force requiring accessible public information is not known.
+
+- The AI Unit of the Ministry of ICT and Innovation says its website is working to meet WCAG 2.2 Level AA and is not yet fully there ([source, 2026-05](https://aim.govmu.org/aim/accessibility)).
+
+### Morocco: 2 Nascent
+
+Morocco held workshops on a national digital accessibility plan in 2024 and 2026; a rule in force or government delivery is not known.
+
+- Digital transition minister Amal El Fallah Seghrouchni chaired a civil-society consultation with a workshop on access of persons with disabilities to digital public services, whose proposals are to feed the update of the third Open Government action plan 2024-2028, per LeNew ([source, 2026-09-07](https://lenew.ma/inclusion-numerique-le-gouvernement-mise-sur-les-jeunes-les-femmes-et-les-personnes-en-situation-de-handicap/)).
+- UN ESCWA and Morocco's Agency of Digital Development held a national workshop in Rabat on 18 July 2024 to develop a national plan for digital accessibility, discussing the development phases of the e-Accessibility plan ([source, 2024-07-18](https://www.unescwa.org/news/concepts-and-policies-digital-accessibility-morocco)).
+
+### Sierra Leone: 2 Nascent
+
+Sierra Leone's ICT ministry gave assistive devices to disability institutions in 2025; a rule in force requiring accessible public services is not known.
+
+- Sierra Leone's Directorate of Science, Technology and Innovation and the Ministry of Social Welfare validated the UNICEF-sponsored Leh Wi Tok communication app for speech- and hearing-impaired people, with a first phase for school pupils, and the Social Welfare minister plans to present it for cabinet approval ([source, 2026-10-22](https://www.sierraleonepress.com/dsti-and-social-welfare-validate-new-app-for-speech-and-hearing-impaired-in-sierra-leone/)).
+- MoCTI, with World Bank-funded SLDTP support, handed over a second set of assistive devices (computers with NVDA screen-reader software, Braille note takers and embossers, scanners and book readers, braillers, digital recorders) to four disability institutions in Makeni, Kenema and Freetown, after an early 2024 phase to two Freetown schools ([source, 2025-11-12](https://sldtp.gov.sl/2025/11/12/mocti-hands-over-assistive-devices-to-disability-institutions-with-support-from-sldtp/)).
+
 ### Somalia: 2 Nascent
 
 Work to make information and digital services accessible to persons with disabilities was under way in 2026; a rule in force is not on record.
 
 - The Ministry of Communication and Technology project unit's January 2026 EA-RDIP Grievance Redress Mechanism manual states the mechanism (with SMS, online and telephone channels) will be accessible irrespective of disability status and will use disability-inclusive reporting mechanisms ([source, 2026-01](https://moct.gov.so/en/wp-content/uploads/2026/01/GRM-Manual-Final-clean-copy.pdf)).
 
+### South Africa: 2 Nascent
+
+South Africa pledged accessible formats and reviewed access rules in 2026; a rule in force requiring accessible public information or services is not known.
+
+- The Minister in the Presidency for Women, Youth and Persons with Disabilities proposed an approach with South Africa and China that includes accessible websites and mobile applications, captioning, Braille, Easy Read and South African Sign Language services, within a seven-point action plan on accessibility and assistive technology ([source, 2026-08-11](https://www.sanews.gov.za/south-africa/sa-china-deepen-cooperation-disability-inclusion)).
+- Parliament says GCIS, with its 2026/27 allocation of R803.2 million, is committed to providing information in all official languages, South African Sign Language, Braille and other accessible formats ([source, 2026-05-05](https://www.parliament.gov.za/news/communications-committee-adopts-budget-votes-drive-digital-transformation-and-strengthen-government-communication)).
+- USAASA opened a public consultation on updating the 2010 ministerial determination on universal access and service, with a review of accessibility for people with disabilities among its issues ([source, 2026-10-10](https://www.sundaytimes.timeslive.co.za/business/2026-10-10-public-consultation-to-update-universal-access-policy/)).
+
 ### South Sudan: 2 Nascent
 
 Work to make information and digital services accessible to persons with disabilities was under way in 2025; a rule in force is not on record.
 
 - Light for the World launched, in partnership with the Ministry of General Education and Instruction, a programme training 1,400 teachers over two years at three national teacher training institutes in sign language, braille and inclusive pedagogy, funded by Education Cannot Wait ([source, 2025-10-08](https://www.prnewswire.com/news-releases/signs-of-change-equipping-teachers-with-tools-for-inclusive-classrooms-302578862.html)).
+
+### Tunisia: 2 Nascent
+
+Tunisia put the disability card application online in 2025; a rule in force requiring accessible public information or digital services is not known.
+
+- The Ministry of Social Affairs launched a digital platform for obtaining the disability card, letting persons with disabilities upload documents electronically, track the procedure via 'Espace Citoyen' and renew remotely, without travelling or attending in person ([source, 2025-12-05](https://www.lapresse.tn/2025/12/05/affaires-sociales-lancement-de-la-plateforme-numerique-pour-loctroi-de-la-carte-dinvalidite/)).
+
+### Uganda: 2 Nascent
+
+Uganda's communications regulator gave assistive technologies to schools and hubs by 2026; a rule in force requiring accessible public services is not known.
+
+- UCC says UCUSAF runs an ICT for Persons with Disabilities programme among its programmes ([source, 2024-02-06](https://www.ucc.co.ug/wp-content/uploads/2024/03/UCC-UCUSAF-TELECOM-INFRASTRUCTURE-LAUNCHED-IN-AGAGO-06.FEB_.2024.pdf)).
+- The UCC says the UCUSAF ICT4PWD programme provided assistive technologies to secondary schools and regional hubs, with the assessment covering 73 of 135 districts ([source, 2026-02-11](https://www.ucc.co.ug/ucc-study-highlights-strong-impact-of-ict4pwd-programme/)).
+
+### Zambia: 2 Nascent
+
+Zambia had draft national accessibility standards covering digital environments in 2025; a rule in force requiring accessible public services is not known.
+
+- ZAPD says Cabinet Memo Number 30 on Accessibility has been issued and that Draft National Accessibility Standards covering built and digital environments have been developed ([source, 2025-05-15](https://zapd.org.zm/zapd-observes-14th-global-accesibility-awareness-day/)).
 
 ### Comoros: 1 Absent
 

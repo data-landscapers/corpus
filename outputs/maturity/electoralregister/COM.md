@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source since October 2023 says the roll is drawn from or checked against the ID register.
+***Not found***. No source found since October 2023 says a digital or biometric voter register is procured, piloted or in service.

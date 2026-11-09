@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. Nothing found since October 2023 says whether a startup law or strategy is prepared or adopted.

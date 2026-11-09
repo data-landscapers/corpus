@@ -10,4 +10,4 @@
 
 ***Also on file***. [PI-SPI](<https://www.bceao.int/sites/default/files/inline-files/Liste%20des%20participants_PI-SPI_30_sept_2026_0.pdf>).
 
-***Not found***. No source found since October 2023 gives a figure for cross-border digital payments.
+***Not found***. Nothing found since October 2023 says whether a cross-border digital payment channel is in service.

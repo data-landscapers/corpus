@@ -27,3 +27,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,ZMB,dpi.mis--justice,review,no evidence,2,ZMB-001,Stage 4c: 3 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-21,TZA,dpi.mis--justice,fact,3,4,TZA-005;TZA-004,Chief Court Administrator: litigants can file cases online and track them (February 2026); 3 to 4
 2026-10-26,RWA,dpi.mis--justice,fact,3,4,RWA-002;RWA-001,"The 13th Rwanda Governance Scorecard (22 October 2026) rates electronic court filing services at 65.40% satisfaction (RWA-002): online filing in service, 3 to 4"
+2026-11-09,BEN,dpi.mis--justice,ladder,4,2,BEN-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
+2026-11-09,SYC,dpi.mis--justice,ladder,4,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to unplaced."
+2026-11-09,MAR,dpi.mis--justice,ladder,4,4,MAR-003,"Recounted under message 114 (each step met on its own evidence): later rows answer every step, so the stage holds."

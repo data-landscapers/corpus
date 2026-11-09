@@ -14,4 +14,4 @@
 
 ***Also on file***. [Libya e-payment system (card/POS)](<https://libyaherald.com/2026/05/two-million-pos-transactions-in-a-single-day-across-67000-points-cause-collapse-of-e-payment-system-cbl-apologises>); [LYPay](<https://alwasat.ly/news/libya/510123>); [OnePay](<https://alwasat.ly/news/libya/510123>); [Integrated Financial Management and Information System (IFMIS)](<https://www.afdb.org/en/documents/gpn-libya-support-implementation-integrated-financial-management-and-information-system-government-libya-si-ifmis>); [GFMIS](<https://alwasat.ly/news/libya/493416>); [ASYCUDA](<https://libyaherald.com/2025/08/customs-authority-announces-full-launch-of-asycuda-system-next-month>).
 
-***Not found***. No source found from 2023 or later describes the financial management system itself in use. Nothing found says a core system replaced an older one or that the government has published a map of its systems.
+***Not found***. No source from 2023 or later says the financial management system is in use across central government. None says the finances are run without one.

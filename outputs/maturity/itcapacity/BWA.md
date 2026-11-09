@@ -12,4 +12,4 @@
 
 ***Also on file***. [Digital Delta Data Centre](<https://www.mmegi.bw/business/govt-moves-to-in-house-local-data/news>); [1Gov-1Citizen](<https://techafricanews.com/2026/03/18/botswana-advances-digital-government-with-1gov-1citizen-platform-upgrade/>); [Government Data Network](<https://techafricanews.com/2026/03/18/botswana-advances-digital-government-with-1gov-1citizen-platform-upgrade/>); [Delta Digital Data Centre](<https://dailynews.gov.bw/news-detail/90463>).
 
-***Not found***. No source found says a system built by government staff went live since October 2023.
+***Not found***. No source found from 2023 or later says government staff run or maintain any of its systems.

@@ -3,7 +3,7 @@
   "cells": [
     {
       "sub_indicator": "core",
-      "stage": "5",
+      "stage": "unplaced",
       "finance": "",
       "revenue": "",
       "payroll": "inuse",
@@ -11,10 +11,10 @@
       "architecture": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-002;UGA-004",
-      "gaps": "Nothing found from 2023 or later on the financial or tax systems.",
-      "note": "The renewed Government Enterprise Architecture (May 2026) answers question 4: stage 5 under the later-yes rule. A 2024 REAP page adds that the payroll runs on a pension and payroll system due to be replaced.",
-      "as_at": "2026-10-27"
+      "stage_sources": "",
+      "gaps": "No source found from 2023 or later says the financial management system is in use across central government, or that the finances are not run on a computer system.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: the only IFMIS fact is the 2022 IT survey, outside the window, so the money question has no answer; the renewed 2026 enterprise architecture answered it only by the later-yes rule.",
+      "as_at": "2026-11-09"
     }
   ]
 }

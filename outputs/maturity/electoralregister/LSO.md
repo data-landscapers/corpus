@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 says the roll was open to voters to check. Online, text-message and centre checks were looked for.

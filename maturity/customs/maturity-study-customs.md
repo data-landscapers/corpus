@@ -47,7 +47,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Single window | Yes to 3 |
 | 5 Regional exchange | Yes to 4 |
 
-A later yes answers the earlier ones (method §3.3). **Rung 5 rewritten** *(Bill, 2026-10-26, message 39)*: a link with one or a few neighbours is no longer a yes; eight such facts were removed (`corrections.csv`), and Cameroon falls to 4, Chad and the Central African Republic to 3. **Dated by the source**: a standing state answers when a source from the last three years states it (`source_dated`), and a year-only fact of the as-at's year counts from its source's date. **A government statement is a fact** (Somalia to 3); **a guide is preparation, not implementation** (Mauritania to 2). `study.json` holds this as three aspects: `system` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `window` (`window`) for 3 and `exchange` (`exchange`) for 4.
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114; method §3.3)*. **Rung 5 rewritten** *(Bill, 2026-10-26, message 39)*: a link with one or a few neighbours is no longer a yes; eight such facts were removed (`corrections.csv`), and Cameroon falls to 4, Chad and the Central African Republic to 3. **Dated by the source**: a standing state answers when a source from the last three years states it (`source_dated`), and a year-only fact of the as-at's year counts from its source's date. **A government statement is a fact** (Somalia to 3); **a guide is preparation, not implementation** (Mauritania to 2). `study.json` holds this as three aspects: `system` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `window` (`window`) for 3 and `exchange` (`exchange`) for 4.
 
 ## 4. The norm
 

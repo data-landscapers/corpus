@@ -49,7 +49,7 @@ Asked in order. Each is answered with a date and a link.
 
 **A programme need not be shown national** *(Bill, 2026-10-31, messages-for-bill 61)*: question 2 is met by a government programme, alone or with partners, with a stated count, shown in more than one location. KEN, SWZ, BDI 2→3; a count from one site (MOZ's Matola pilot) or with no location (BFA) is not enough.
 
-A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `training` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `measured` (`measured`) for 3 and `half` (`half`) for 4.
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114; method §3.3)*. `study.json` holds this as three aspects: `training` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `measured` (`measured`) for 3 and `half` (`half`) for 4.
 
 ## 4. The norm
 

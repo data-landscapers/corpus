@@ -15,8 +15,10 @@ does it. The ladder is `maturity-study-qualitystandards.md` §2 and §3:
 4. **A public body certified in the last three years**: a `certification` of `public-body`
    dated inside them. An older one answers question 3 and nothing more.
 
-A yes to a later question answers the earlier ones. Stage 1 is a `standing` of `none` dated
-inside three years with no body on record. A fact dated after the as-at sets nothing. A year
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a later
+yes no longer answers the earlier ones, and a cell takes the last rung its evidence reaches
+without a gap. A `published` still answers `body`, and a `public-body` `offered`: they are one
+aspect. Stage 1 is a `standing` of `none` dated inside three years with no body on record. A fact dated after the as-at sets nothing. A year
 or a month stands for its last day, or for the as-at where that day falls after it and the
 source was published by it.
 
@@ -93,9 +95,9 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     if not rows:
         return {"stage": "no evidence", "standing": "", "certification": "", "sources": [],
                 "gaps": "Nothing found names a national standards body, or says there is none."}
-    if public:
+    if issued and public:
         s, src = "5", public + issued[:1]
-    elif offered:
+    elif issued and offered:
         s, src = "4", offered + issued[:1]
     elif issued:
         s, src = "3", issued + body[:1]

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "centralbank",
-      "stage": "4",
+      "stage": "unplaced",
       "mandate": "",
       "switch": "overseen",
       "regional": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-002",
-      "gaps": "Nothing found since October 2023 says whether the central bank licenses payment providers; the country is not shown live on PAPSS.",
-      "note": "The Bank of Uganda runs the RTGS and the Automated Clearing House, in service until an upgrade closure of 5 to 9 November 2026 (UGA-002); an interbank clearing system the central bank manages answers question 3. The East African Payment System is regional and does not answer question 4.",
-      "as_at": "2026-11-05"
+      "stage_sources": "",
+      "gaps": "Nothing found since October 2023 says the Bank of Uganda has a payments mandate being set up or licenses payment providers; the country is not shown live on PAPSS.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: no source says the Bank of Uganda's payments mandate is being set up or that it licenses payment providers; the RTGS and Automated Clearing House it runs were the higher fact.",
+      "as_at": "2026-11-09"
     }
   ]
 }

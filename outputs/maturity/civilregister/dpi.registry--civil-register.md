@@ -23,9 +23,9 @@ The African Union's Digital Transformation Strategy and the Africa Programme on 
 | 5 Leading | 1 |
 | 4 Operating | 10 |
 | 3 Established | 5 |
-| 2 Nascent | 32 |
+| 2 Nascent | 31 |
 | 1 Absent | 1 |
-| Unplaced | 2 |
+| Unplaced | 3 |
 | No evidence | 3 |
 
 ## Countries
@@ -176,13 +176,6 @@ Digital civil registration was under way in 2026; national digital birth registr
 
 - BUNEC director-general Alexandre Marie Yomo said on 14 September 2026 that the digitisation pilot begun in 2020 has digitised 60 of Cameroon's 432 civil-registration centres (13.9%), up from 42 in April 2022, with full completeness targeted for 2029-2030 if funded ([source, 2026-09-14](https://ecomatin.net/cameroun-52-milliards-fcfa-recherches-pour-numeriser-letat-civil)).
 - UNDP says the Système Intégré de Gestion de l'État Civil (SIGEC), with the SANEC digital archive, is being rolled out under its Legal Identity II project with BUNEC in six East Region communes including Bertoua, Batouri and Abong-Mbang, with Bertoua 1er already in production producing birth and marriage acts ([source, 2026-08](https://www.undp.org/cameroon/stories/dans-lest-du-cameroun-la-digitalisation-de-letat-civil-transforme-progressivement-lacces-lidentite-legale-bertoua-cameroun-aout-2026)).
-
-### Cape Verde: 2 Nascent
-
-Births were 99% registered in 2026, but nothing found says they are registered digitally across the country.
-
-- Biometric Update reports, citing the IMIJ presentation at ID4Africa 2026, that Cabo Verde reached 99 percent birth registration, up from about 91 percent before the reforms ([source, 2026-05](https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration)).
-- IMIJ's ID4Africa 2026 deck gives birth registration in Cabo Verde as about 99-100% (presenter's approximation) ([source, 2026-05](https://id4africa.com/2026/files/T4-1-S2-1-Cape-Verde-FINAL.pdf)).
 
 ### Central African Republic: 2 Nascent
 
@@ -370,6 +363,12 @@ A 2026 source says civil registration is on paper with no digital register.
 
 - La Gazette des Comores reports that AMECC aims to modernise a civil registration system still largely dependent on old paper registers, with people in rural areas still holding no birth extract in 2026 ([source, 2026-08-28](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/%C3%A9tat-civil-l%E2%80%99amecc-veut-enterrer-les-registres-sur-papier-.html)).
 - Comores Droit states that for decades births, marriages and deaths in Comoros have been recorded in paper registers, with only one in five of 37 surveyed civil-status centres having internet access (preliminary study, March 2026) ([source, 2026-03](http://comoresdroit.centerblog.net/2912-une-revolution-numerique-se-prepare-pour-l-etat-civil)).
+
+### Cape Verde: Unplaced
+
+Cabo Verde registered 99% of births in 2026, but no source found says registration is digital, so no stage is set.
+
+Not established: No source found since October 2023 says a digital civil registration system is procured, piloted or rolled out.
 
 ### Equatorial Guinea: Unplaced
 

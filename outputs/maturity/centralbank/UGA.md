@@ -10,4 +10,4 @@
 
 ***Also on file***. [East African Payment System](<https://ubc.go.ug/2025/10/06/bous-new-payment-system-cuts-delays-and-boosts-e-money-by-28-6>), a regional system, which does not answer the ladder.
 
-***Not found***. No source found since October 2023 says the central bank licenses payment providers. None says the country is live on PAPSS.
+***Not found***. Nothing found since October 2023 says the Bank of Uganda has a payments mandate or licenses payment providers. Uganda is not shown live on PAPSS.

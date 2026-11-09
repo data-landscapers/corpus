@@ -8,4 +8,4 @@
 
 ***Also on file***. [Zamportal](<http://www.szi.gov.zm/wp-content/uploads/2023/08/Final-National_e-Government_Plan_-2023-Final-17.08.2023.pdf>); [Zambia National Research Repository (ZNRR)](<https://efficacynews.africa/2026/09/17/finance-ministry-zamstats-and-unicef-launch-national-research-repository/>); [National Carbon Registry](<https://www.lusakatimes.com/2026/08/08/govt-launches-national-carbon-registry/>); [Zambia Carbon Registry](<https://unepccc.org/zambia-launches-national-carbon-registry/>); [ZNSDI GeoPortal](<https://techafricanews.com/2026/07/08/smart-zambia-expands-digital-infrastructure-to-reach-every-corner-of-the-country/>); [NSDI Portal](<https://itweb.africa/article/zambias-govt-leans-towards-open-source/KjlyrvwBpprqk6am>).
 
-***Not found***. No source found since October 2024 names or counts four or more public bodies publishing data.
+***Not found***. No source found since October 2023 states an open licence for the data.

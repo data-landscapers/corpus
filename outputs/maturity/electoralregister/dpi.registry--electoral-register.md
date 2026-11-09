@@ -20,22 +20,15 @@ The African Charter on Democracy, Elections and Governance and the AU's election
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 14 |
-| 4 Operating | 21 |
-| 3 Established | 7 |
-| 2 Nascent | 2 |
+| 5 Leading | 11 |
+| 4 Operating | 18 |
+| 3 Established | 10 |
+| 2 Nascent | 3 |
 | 1 Absent | 2 |
-| Unplaced | 4 |
+| Unplaced | 6 |
 | No evidence | 4 |
 
 ## Countries
-
-### Angola: 5 Leading
-
-The voters' roll was drawn from or checked against the ID or civil register in 2026.
-
-- Intelwatch says Angola's electoral roll is "derived from the civil identity database", and that under the 2025 Law on Ex Officio Electoral Registration in-person registration is replaced by an automatic registration extracted from the identity database ([source, 2026-08-15](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/)).
-- Justice Minister Marcy Lopes says the citizens database is interlinked with the ID database, allowing information exchange to update the electoral register and to regularise voter-card holders without an ID ([source, 2026-07-01](https://angop.ao/noticias/politica/cerca-de-16-milhoes-de-cidadaos-constam-da-base-do-bilhete-de-identidade/)).
 
 ### Benin: 5 Leading
 
@@ -56,14 +49,6 @@ The voters' roll was drawn from or checked against the ID or civil register in 2
 
 - The convention makes the data of the registre national des personnes physiques the single official source of voter identification data for the biometric electoral lists, says the DGE director general ([source, 2026-01-22](https://mediaguinee.com/2026/01/conakry-la-dge-et-loneci-scellent-une-alliance-pour-un-fichier-electoral-fiable/)).
 - Jurist Sayon Mara writes that the first phase of PN-RAVEC, launched 15 April 2025 with biometric enrolment of people aged 10 and over, consists essentially of building the RNPP in order to extract the electoral file for the referendum and national and local elections ([source, 2025-04-15](https://mediaguinee.com/2025/04/en-avant-pour-le-recensement-biometrique-par-sayon-mara/)).
-
-### Lesotho: 5 Leading
-
-The voters' roll was drawn from or checked against the ID or civil register in 2026.
-
-- The IEC said its voter registration system is integrated with the National Identity and Civil Registry (NICR) through Unique Identification Numbers ([source, 2026-07](https://sundayexpress.co.ls/?p=36187)).
-- The IEC told the AU follow-up mission it had a modernised voter registration system with online registration services and a fresh nationwide registration exercise in 2024, with over 579,520 citizens registered ([source, 2026-07](https://sundayexpress.co.ls/?p=36187)).
-- Lesotho's IEC has hired a private auditor to examine the voters' roll, the servers holding voters' data and the registration systems, the commission said ([source, 2026-09](https://lestimes.com/?p=91669)).
 
 ### Mali: 5 Leading
 
@@ -119,18 +104,6 @@ The voters' roll was drawn from or checked against the ID or civil register in 2
 - The Daily Monitor says the national voter register was compiled using biometric data extracted from the National Identification and Registration Authority (Nira) ([source, 2025-10-29](https://www.monitor.co.ug/uganda/news/national/one-man-one-vote-inside-new-ec-biometric-system-5249126)).
 - The Electoral Commission says the National Voters Register was displayed in 2025 and urges the public to use its official website ec.or.ug/register to verify voter registration particulars and polling station ([source, 2025-12-31](https://ec.or.ug/sites/default/files/press/Statement%20by%20EC%20Chairperson%20General%20Election%20Updates.31.12.2025.pdf)).
 
-### Zimbabwe: 5 Leading
-
-The voters' roll was drawn from or checked against the ID or civil register in 2026.
-
-- Justice Minister Ziyambi said ZEC was already using the Registrar-General's national population database to clean up the voters' roll, since it shows who is alive, dead and of voting age ([source, 2026-07-23](https://www.zbcnews.co.zw/registrar-general-to-take-over-voters-roll-under-constitutional-reforms/)).
-
-### Botswana: 4 Operating
-
-Voters could inspect the roll at commission offices in 2024; no source found reports a link to the ID or civil register.
-
-- The IEC Secretary says that after each roll is generated the public can inspect it for 80 days at the commission's secretary's office and designated places, and obtain hard copies for a fee, with no soft copies and no online roll ([source, 2024-09-03](https://dailynews.gov.bw/news-detail/81588)).
-
 ### Cameroon: 4 Operating
 
 Voters could check the digital roll online in 2025; no source found reports a link to the ID or civil register.
@@ -150,12 +123,6 @@ Voters could check the digital roll in 2025; no source found reports a link to t
 
 - The ANE officially published the definitive electoral list of 2,398,158 registered voters on 23 August 2025 ([source, 2025-08-23](https://french.xinhuanet.com/20250825/216678a5ca894a1d915b2f5528ff0973/c.html)).
 - The ANE enrolled 567,748 voters on tablets in Aire 1 from 24 November to 24 December 2024 and centralised the data on the production server of the electoral file ([source, 2024-12](https://oubanguimedias.com/2025/02/07/centrafrique-lautorite-nationale-des-elections-presente-les-resultats-de-revision-du-fichier-electorale-dans-laire-n-1/)).
-
-### Comoros: 4 Operating
-
-Voter lists were posted at polling stations in 2025; no link to the ID register is known.
-
-- The OIF's Francophonie electoral mission reports that the voters' lists were systematically posted in front of all polling stations visited for the 12 January 2025 legislative elections ([source, 2025-01-12](https://www.lexterieur.com/la-une/international/legislatives-aux-comores-la-declaration-preliminaire-de-la-mission-electorale-de-la-francophonie)).
 
 ### Cote d'Ivoire: 4 Operating
 
@@ -221,12 +188,6 @@ Voters could check their entries at registration centres in 2025; no link to the
 
 - The Malawi Electoral Commission's Chief Elections Officer said in a 5 June 2025 response that Sections 20 and 21 of the 2023 Elections Act limit voter-roll inspection to verification of entries at registration centres and regional offices ([source, 2025-06-05](https://africabrief.substack.com/p/mec-rejects-observer-coalitions-electronic)).
 
-### Mauritius: 4 Operating
-
-Voters could check the digital roll in 2024; no source found reports a link to the ID or civil register.
-
-- The Electoral Commissioner's office says voters can check the electoral register online at electoral.govmu.org or by SMS, using their national identity card number, as well as at 43 registration centres and by phone, during the 16-30 May 2024 registration ([source, 2024-05-21](https://defimedia.info/liste-electorale-plus-que-quelques-jours-pour-verifier-et-sinscrire)).
-
 ### Morocco: 4 Operating
 
 Voters could check the digital roll in 2026; no source found reports a link to the ID or civil register.
@@ -273,6 +234,13 @@ The voters' roll was held digitally in 2023; voters checking it is not on record
 
 - ANIE president Mohamed Charfi said that digitising registration operations helped remove nearly one million duplicate registrations from the electoral file between 2021 and 2023, with the electorate put at 23,240,286 after the revision closed on 5 December 2023 ([source, 2023-12-05](https://www.lexpressquotidien.dz/2023/12/07/charfi-affirme-une-parfaite-maitrise-du-fichier-electoral/)).
 
+### Angola: 3 Established
+
+Angola's voters' roll was drawn automatically from the identity database in 2026; whether voters could check the roll is not known.
+
+- Intelwatch says Angola's electoral roll is "derived from the civil identity database", and that under the 2025 Law on Ex Officio Electoral Registration in-person registration is replaced by an automatic registration extracted from the identity database ([source, 2026-08-15](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/)).
+- Justice Minister Marcy Lopes says the citizens database is interlinked with the ID database, allowing information exchange to update the electoral register and to regularise voter-card holders without an ID ([source, 2026-07-01](https://angop.ao/noticias/politica/cerca-de-16-milhoes-de-cidadaos-constam-da-base-do-bilhete-de-identidade/)).
+
 ### Burundi: 3 Established
 
 The voters' roll was held digitally in 2026; voters checking it is not on record.
@@ -293,6 +261,14 @@ The voters' roll was held digitally in 2026; voters checking it is not on record
 - GTAPE handed the National Elections Commission the updated electoral rolls of 966,152 registered voters in physical and electronic versions for the 30 August 2026 referendum ([source, 2026-08-18](https://ang.gw/referendo-30-de-agosto-gtape-entrega-cadernos-eleitorais-a-cne/)).
 - GTAPE's director-general said the 966,152 voters ready for the 23 November 2025 elections are in GTAPE's databases (Bancos de dados), up from 928,187 the year before ([source, 2025-08-15](https://ang.gw/eleicoes-gerais-gtate-anuncia-inscricao-de-966-152-eleitores-para-as-legislativas-e-presidenciais-de-novembro/)).
 
+### Lesotho: 3 Established
+
+Lesotho's electoral commission ran a modernised registration system with online registration in 2024; whether voters could check the roll is not known.
+
+- The IEC told the AU follow-up mission it had a modernised voter registration system with online registration services and a fresh nationwide registration exercise in 2024, with over 579,520 citizens registered ([source, 2026-07](https://sundayexpress.co.ls/?p=36187)).
+- The IEC said its nationwide re-registration campaign registers voters at its offices and through an online portal on its website, with at least 18,570 registered by mid-October 2024, about 3,000 of them online ([source, 2024-10-16](https://publiceyenews.com/2024/10/16/800-000-ghost-voters-unearthed/)).
+- Lesotho's IEC has hired a private auditor to examine the voters' roll, the servers holding voters' data and the registration systems, the commission said ([source, 2026-09](https://lestimes.com/?p=91669)).
+
 ### Liberia: 3 Established
 
 The voters' roll was held digitally in 2023; voters checking it is not on record.
@@ -312,6 +288,20 @@ The voters' roll was held digitally in 2025; voters checking it is not on record
 
 - An OIF audit mission judged the biometric electoral register, with 4,432,936 voters counted after the 2023 census, reliable enough for the regional and legislative polls ([source, 2023-11-15](https://togoscoop.tg/23015-2/)).
 - A presidential decree of 1 April 2025 opened roll revision from 7 to 23 April 2025, in which the CENI revises the electoral file and issues biometric voter cards ([source, 2025-04](https://togopresse.tg/la-revision-des-listes-electorales-annoncee-du-07-au-23-avril-2025-en-prelude-aux-elections-municipales/)).
+
+### Zimbabwe: 3 Established
+
+Zimbabwe's electoral commission kept a biometric voter database in 2025 and 2026; whether voters could check the roll is not known.
+
+- The Civil Registry Department and ZEC began handing voter registration and voters' roll management to the Registrar-General, including Biometric Voter Registration (BVR) kits and network infrastructure, with continuous voter registration continuing ([source, 2026-08-18](https://www.zimbabwesituation.com/news/rg-zec-begin-nationwide-handover-of-voter-registration-mandate/)).
+- The report says the Zimbabwe Electoral Commission maintains biometric voter databases ([source, 2025](https://privacyscorecardreport.com/privacy-scorecard-report-2025/zimbabwe/zimbabwes-data-protection-regime/)).
+
+### Botswana: 2 Nascent
+
+Botswana funded electronic voter registration in 2026 ahead of the 2029 election; a digital roll in service is not known.
+
+- The Ministry of Finance's FY2026/27 Committee of Supply speech appropriates BWP 50,000,000 to the Independent Electoral Commission for installation of electronic voter registration systems, which may straddle two or three financial years ([source, 2026-04](https://botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/IEC.pdf)).
+- The IEC, per its Secretary Jefferson Siamisang to the Public Accounts Committee, is rolling out technology-driven reforms to modernise voter registration ahead of the 2029 General Election ([source, 2026-06](https://www.mmegi.bw/news/iec-pushes-for-digital-election-reforms/news)).
 
 ### Madagascar: 2 Nascent
 
@@ -350,11 +340,23 @@ Nothing found since 2023 names a digital voters' roll, so no stage is set.
 
 Not established: No source since October 2023 says how the voters' roll is held; the facts held are older.
 
+### Comoros: Unplaced
+
+Comoros posted voter lists at polling stations in 2025; a digital roll since 2015 is not known, so no stage is set.
+
+Not established: No source found since October 2023 says a digital or biometric voter register is procured, piloted or in service.
+
 ### Djibouti: Unplaced
 
 Nothing found since 2023 names a digital voters' roll, so no stage is set.
 
 Not established: No source since October 2023 says how the voters' roll is held; the facts held are older.
+
+### Mauritius: Unplaced
+
+Mauritians could check the electoral register online or by SMS in 2024; a digital roll is not known, so no stage is set.
+
+Not established: No source found since October 2023 says a digital or biometric voter register is procured, piloted or in service.
 
 ### Sierra Leone: Unplaced
 

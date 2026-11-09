@@ -20,6 +20,10 @@ act, with the Malabo Convention at stage 3 and never needed above it)*:
 disagree; this study's own rows are what `stage_sources` cites. Stage 1 is the law study
 finding no law in force. A country the law study could not place has no evidence here.
 
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a
+later yes no longer answers the earlier ones, and a cell takes the last rung its evidence
+reaches without a gap.
+
 `corrections.csv`, where the parent's reading removed or revalued a row, is applied to
 `evidence.csv` first, once. Writes each `stage.json` and `ladder-test.csv`.
 
@@ -98,8 +102,8 @@ def stage(rows: list[dict], as_at: dt.date, law: str, body: dict) -> dict:
                 "gaps": "Nothing found says whether a data protection law is in force."}
     if not in_force:
         s, src = "1", pick("law", ("not-yet", "none")) + ratified
-    elif appointed and acting:
-        s, src = "5", (pick("practice", ("ruling",), three) or working) + pick("authority", ("appointed",), n=1)
+    elif appointed and working and acting:
+        s, src = "5", pick("practice", ("ruling",), three) + working + pick("authority", ("appointed",), n=1)
         cols["practice"] = "ruling"
     elif appointed and working:
         s, src = "4", working + pick("authority", ("appointed",), n=1)

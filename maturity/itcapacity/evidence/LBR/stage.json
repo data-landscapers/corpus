@@ -1,18 +1,19 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "4",
-   "inhouse": "yes",
-   "agency": "",
-   "built": "live",
-   "own": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBR-002;LBR-001",
-   "gaps": "No sources found since October 2023 name three systems run wholly by government staff.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "2",
+      "inhouse": "yes",
+      "agency": "",
+      "built": "live",
+      "own": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-001",
+      "gaps": "No source found from 2023 or later says a government body builds or runs systems for the rest of government.",
+      "note": "Counted from the four questions by study-ladder-itcapacity.py.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }

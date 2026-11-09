@@ -10,4 +10,4 @@
 
 ***Also on file***. [EU Support to Digital Transformation in Botswana](<https://smartbots.org.bw/projects/eu-digital-transformation>).
 
-***Not found***. The 2024 survey gives a share of all individuals; a share for adults alone has not been found.
+***Not found***. No source found gives a number trained by a public digital-skills programme. Only programmes in more than one location count.

@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Reviewed | Yes to 3: its progress reviewed |
 | 5 Evaluated | Yes to 4: an evaluation completed |
 
-- **A later yes answers the earlier ones**: a review of a strategy shows it was adopted.
+- **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a review of a strategy no longer shows it was adopted.
 - **A strategy counts for its stated period.** One with no stated period counts for five years from adoption. A successor in preparation after one expires is stage 2.
 - **An expired strategy with nothing after it is not stage 1** unless a source says so; the cell is unplaced and the summary gives the year it ended. That moves DR Congo, Ethiopia, Libya and Mauritius off stage 1 unless a source states the absence.
 - **Question 1 dates an adopted strategy by its adoption, not by a later mention**: a status table listing a 2017-2021 strategy in 2026 is not a yes. An extension issued in the window is an adoption in it.

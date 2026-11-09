@@ -15,9 +15,9 @@ r"""study-ladder-coresystems.py — the core government systems study's four que
 
 **A system out of action is not in use**: a `down` row inside twelve months, newer than the
 newest `inuse` on that aspect, answers its question no. A `none` inside three years and newer
-than any `inuse` does the same. A yes to a later question answers the earlier ones (§3.3)
-unless one of them is answered no, which stops the count there. A `finance` of `none` with no
-yes at all is stage 1.
+than any `inuse` does the same. **Each step of the ladder must be met to progress** *(Bill,
+2026-11-09, message 114)*: a later yes no longer answers the earlier ones, and a cell takes the
+last rung its evidence reaches without a gap. A `finance` of `none` with no yes at all is stage 1.
 
 A fact dated after the as-at sets nothing; a year or a month stands for its last day, and the
 as-at's own year for the as-at. `corrections.csv` is applied to `evidence.csv` first, once.
@@ -104,7 +104,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
          "no" if "no" in (a["revenue"][0], a["payroll"][0])
          else "yes" if a["revenue"][0] == a["payroll"][0] == "yes" else "",
          "yes" if renewed else "", "yes" if mapped else ""]
-    top = max((i + 1 for i, v in enumerate(q) if v == "yes"), default=0)
+    top = next((i for i, v in enumerate(q) if v != "yes"), len(q))   # Bill, 2026-11-09, message 114
     stop = next((i for i, v in enumerate(q) if v == "no"), None)
     if stop is not None and stop < top:
         top = stop                          # an answered no stops the count there
@@ -115,7 +115,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     values.update(renewed="live" if renewed else "", architecture="published" if mapped else "")
     if top == 0:
         fin = a["finance"]
-        if fin[0] == "no" and said[fin[1]] == "none":
+        if fin[0] == "no" and said[fin[1]] == "none" and "yes" not in q:
             return {"stage": "1", "sources": [fin[1]], "values": values, "gaps": ""}
         gap = ("A source found says the government's financial system is out of action; none says it is back."
                if fin[0] == "no" else

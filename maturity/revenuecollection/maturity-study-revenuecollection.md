@@ -45,9 +45,9 @@ Asked in order. Each is answered with a date and a link.
 | 4 Main taxes and duties | Yes to 3 |
 | 5 Share reported | Yes to 4 |
 
-A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `payment` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `main` (`main`) for 3 and `reported` (`reported`) for 4.
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114; method §3.3)*. `study.json` holds this as three aspects: `payment` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `main` (`main`) for 3 and `reported` (`reported`) for 4.
 
-**A reported figure reaches stage 5 though the main taxes are not shown paid electronically** *(Bill, 2026-11-04, messages-for-bill 75)*: a later yes answers question 3 here. GHA 3→5, CIV 3→5.
+**A reported figure reaches stage 5 though the main taxes are not shown paid electronically** *(Bill, 2026-11-04, messages-for-bill 75)*: a later yes answers question 3 here, an exception to the rule that each step must be met *(message 114)*: `study.json` → `"later_yes": true`, with questions 1 and 2 still shown by their own evidence. GHA 3→5, CIV 3→5.
 
 ## 4. The norm
 

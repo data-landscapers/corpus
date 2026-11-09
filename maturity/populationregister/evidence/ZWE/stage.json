@@ -1,17 +1,18 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "population",
-   "stage": "5",
-   "register": "inservice",
-   "vital": "updated",
-   "used": "source",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZWE-002",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-populationregister.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "population",
+      "stage": "3",
+      "register": "inservice",
+      "vital": "",
+      "used": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-001;ZWE-003",
+      "gaps": "No source found since October 2023 says births or deaths are entered in the population register.",
+      "note": "First pass: counted from the four questions by study-ladder-populationregister.py.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }

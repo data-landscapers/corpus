@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Operating | Yes to 1, 2 and 3: certification against one is on offer in the country |
 | 5 Leading | Yes to all four: a public body has been certified in the last three years |
 
-- **A yes to a later question answers the earlier ones**: a certificate from the standards body against a national standard shows the standard is issued.
+- **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a certificate from the standards body against a national standard no longer shows the standard is issued.
 - **Questions 1 to 3 have no time limit**: a body and a standard stand, with their year, until a dated source says they have gone. Question 4 counts for three years.
 - **A statement that there is no standards body counts for three years.**
 - **Another body counts for question 2 where the law gives it the power to set national standards for information technology**, such as a national information technology agency.

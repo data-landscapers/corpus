@@ -3,7 +3,7 @@
   "cells": [
     {
       "sub_indicator": "core",
-      "stage": "5",
+      "stage": "unplaced",
       "finance": "",
       "revenue": "",
       "payroll": "inuse",
@@ -11,10 +11,10 @@
       "architecture": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "MUS-001;MUS-004",
-      "gaps": "",
+      "stage_sources": "",
+      "gaps": "No source found from 2023 or later says the government's financial management system is in use.",
       "note": "Counted from the four questions by study-ladder-coresystems.py.",
-      "as_at": "2026-10-17"
+      "as_at": "2026-11-09"
     }
   ]
 }

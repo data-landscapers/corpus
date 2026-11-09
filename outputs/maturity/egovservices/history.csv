@@ -106,3 +106,11 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-04,MUS,dpi.govtech--e-government-services,ladder,5,2,MUS-011;MUS-009,"Bill 2026-11-04, message 74: a national app is not the national portal; Korek and MauPass use no longer answers question 4; 5 to 2"
 2026-11-07,MOZ,dpi.govtech--e-government-services,fact,3,3,MOZ-005;MOZ-004;MOZ-003,World Bank ISR of March 2026 counts 25 information services and one transactional on the discontinued earlier portal; the newer September 2026 count of about 26 on the new portal stands; stays at 3
 2026-11-09,KEN,dpi.govtech--e-government-services,fact,5,5,KEN-021;KEN-008;KEN-014,"A May 2026 government presentation gives over 15 million active eCitizen accounts, a newer use figure; stays 5"
+2026-11-09,BEN,dpi.govtech--e-government-services,ladder,5,3,BEN-016;BEN-012;BEN-014,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-09,COG,dpi.govtech--e-government-services,ladder,4,2,COG-001;COG-004,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
+2026-11-09,RWA,dpi.govtech--e-government-services,ladder,5,3,RWA-008;RWA-004;RWA-010,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-09,SDN,dpi.govtech--e-government-services,ladder,5,3,SDN-005;SDN-009;SDN-003,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-09,SSD,dpi.govtech--e-government-services,ladder,4,2,SSD-007;SSD-001;SSD-004,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
+2026-11-09,SYC,dpi.govtech--e-government-services,ladder,4,2,SYC-005;SYC-002;SYC-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
+2026-11-09,ZAF,dpi.govtech--e-government-services,ladder,5,3,ZAF-004;ZAF-006,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-09,ZMB,dpi.govtech--e-government-services,ladder,5,3,ZMB-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."

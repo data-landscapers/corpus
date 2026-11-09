@@ -1,16 +1,17 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "body",
-   "stage": "5",
-   "standing": "constituted",
-   "rulings": "reported",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MUS-006;MUS-001",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "body",
+      "stage": "3",
+      "standing": "constituted",
+      "rulings": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-008;MUS-009",
+      "gaps": "No ruling of the authority against a named organisation in the last three years has been found.",
+      "note": "Counted from the four questions by study-ladder-dataprotectionauthority.py.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }

@@ -10,4 +10,4 @@
 
 ***Also on file***. [Electronic Case Management System (ECMS)](<https://statehouse.gov.sc/news/7053/president-herminie-officially-launches-electronic-case-management-system-new-digital-platform-marks-significant-step-forward-for-seychelles-legal-affairs-sector>).
 
-***Not found***. No source found since October 2023 says judgments are published or case status can be looked up online.
+***Not found***. Nothing found since October 2023 says whether courts manage cases electronically.

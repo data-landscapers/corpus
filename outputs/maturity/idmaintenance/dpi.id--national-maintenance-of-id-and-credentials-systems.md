@@ -20,10 +20,10 @@ The African Union's interoperability framework asks that countries own and opera
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 10 |
+| 5 Leading | 6 |
 | 4 Operating | 3 |
-| 3 Established | 28 |
-| 2 Nascent | 5 |
+| 3 Established | 31 |
+| 2 Nascent | 6 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
 | No evidence | 6 |
@@ -45,12 +45,6 @@ A state-owned enterprise runs the ID system, local engineers maintain it, and it
 - Kana TV News says Fayda runs on the open-source Modular Open Source Identity Platform, MOSIP ([source, 2026-08](https://kanatelevision.com/news/what-is-faydaverse-the-ethiopian-national-id-program-that-became-a-company-and-how-it-plans-to/)).
 - The national ID authority became the government-owned enterprise Faydaverse in August 2026, mandated to develop, operate and scale the digital public infrastructure ([source, 2026-08](https://www.biometricupdate.com/202608/fayda-digital-id-nears-50m-enrollments-as-adoption-reshapes-ethiopias-economy)).
 
-### Guinea: 5 Leading
-
-The ID system ran in 2026 on code the state owns.
-
-- ID Tech Wire says Guinea's national ID programme is built on the open-source MOSIP platform with TECH5 biometric infrastructure, with enrolment in service in Sanoyah ([source, 2026-03-02](https://idtechwire.com/guinea-launches-biometric-birth-certificates-in-sanoyah-in-civil-registry-modernization-push)).
-
 ### Mali: 5 Leading
 
 The ID system ran in 2024 on code the state owns.
@@ -67,20 +61,6 @@ The population register runs on open-source code in all provinces, maintained by
 - The deck says the RNP runs on MOSIP (version 1.1.5.x, being migrated to LTS), generalised to all 83 provinces in October 2022 ([source, 2022-10](https://connect.mosip.io/resources_pdf_2026/Collaborations_between_Governments_and_Academic_Institutions.pdf)).
 - The DGSN, Morocco's national security directorate, issued nearly 4.7 million electronic national ID cards in 2024 at its Rabat and Marrakech centres and ran the second phase of the electronic identity system, per its annual report ([source, 2024](https://www.moroccoworldnews.com/2024/12/166797/dgsn-issued-record-4-6-million-digital-ids-slashed-crime-rates-in-2024)).
 
-### Sierra Leone: 5 Leading
-
-The ID system ran in 2026 on code the state owns.
-
-- Biometric Update says Sierra Leone's national ID system is based on MOSIP, an open-source platform ([source, 2026-08-06](https://www.biometricupdate.com/202608/sierra-leone-consults-private-sector-on-trusted-digital-id-framework)).
-- NCRA's Director-General says the integrated registration and identity management system is managed in its entirety by the NCRA under the 2016 Act ([source, 2026-08-17](https://sierraleoneconcordtimes.com/93-of-sierra-leone-registered-with-unique-nins-2/)).
-
-### Somalia: 5 Leading
-
-The ID system ran in 2025 on code the state owns.
-
-- NIRA's Director General says the DPI systems were entirely developed by Somali engineers at NIRA, reflecting national ownership; the World Bank's Scaled-UP project supported the build ([source, 2025-05-08](https://www.biometricupdate.com/202505/somalia-unveils-dpi-tools-for-biometric-verification-id-issuance-and-service-access)).
-- NIRA's Director General says the three launched systems (HUBIYE, e-Aqoonsi, CDS) were entirely developed by Somali engineers at NIRA, reflecting national ownership ([source, 2025-05](https://nira.gov.so/news/nira-launches-key-digital-public-infrastructure-for-national-id-system)).
-
 ### Tanzania: 5 Leading
 
 The ID authority's own experts built and support its systems, and it owns their code, as of 2024.
@@ -88,13 +68,6 @@ The ID authority's own experts built and support its systems, and it owns their 
 - NIDA says its in-house experts built 24 of 42 planned systems and provide technical support, ending dependence on foreign contractors ([source, 2024-02](https://nida.go.tz/Habari-Maelezo?value=1)).
 - NIDA says that by building its systems in-house it owns the actual program copies of the national ID system and is free of foreign contractors' licence limits ([source, 2024-02](https://nida.go.tz/Habari-Maelezo?value=1)).
 - Minister Katambi said NIDA now serves 156 offices, with machines and equipment that print ID cards electronically ([source, 2026-09-16](https://www.mwananchi.co.tz/mw/habari/kitaifa/nida-yaondoa-kikwazo-cha-umri-namba-kuunganisha-huduma-za-kiraia-5597344)).
-
-### Togo: 5 Leading
-
-The ID system ran in 2026 on code the state owns.
-
-- Togo chose MOSIP, an open-source identity platform, to build the infrastructure, which the article says lets the country keep control of it ([source, 2026-09-28](https://levisionnaire.tg/e-id-togo-plus-de-6-millions-de-personnes-enregistrees-la-region-de-la-kara-prochaine-etape/)).
-- Togo's national digital ID system is MOSIP-based, an open-source platform, under a 2021 MoU; an Atos and Idemia consortium implements mostly the technical aspects ([source, 2026-04](https://www.biometricupdate.com/202604/togo-issues-6m-unique-numbers-as-mosip-based-digital-id-project-progresses)).
 
 ### Uganda: 5 Leading
 
@@ -285,6 +258,22 @@ The national authority ran the ID system day to day in 2024; no source found say
 - The Civil Status Division of the Department of Immigration and Civil Status prepares and issues Identity Cards to all residents and holds the National Population Database ([source, 2026](https://www.ics.gov.sc/about/department/civil-status-division)).
 - The Department of Immigration and Civil Status issues, replaces and amends the National Identity Card at its ID Card Offices in Victoria and Grand Anse Praslin, per its FAQ ([source, 2024](https://www.ics.gov.sc/faq/civil-services/id-section)).
 
+### Sierra Leone: 3 Established
+
+Sierra Leone's registration authority ran the ID system in 2026; national staff maintaining and upgrading it is not known.
+
+- NCRA's Director-General says the integrated registration and identity management system is managed in its entirety by the NCRA under the 2016 Act ([source, 2026-08-17](https://sierraleoneconcordtimes.com/93-of-sierra-leone-registered-with-unique-nins-2/)).
+- Biometric Update reports that Sierra Leone's identity system is managed by the National Civil Registration Authority, which is responsible for civil registration and ID services ([source, 2024-04-11](https://www.biometricupdate.com/202404/sierra-leone-putting-digital-id-at-the-center-of-its-digital-transformation-agenda)).
+- The NCRA has developed the National Biometric Identity Management System and a Tier III data centre and operates an eKYC platform, per its Director-General ([source, 2026-08-05](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/)).
+
+### Somalia: 3 Established
+
+Somalia's registration authority ran ID registration with its own staff in 2025 and 2026; national staff maintaining the system is not known.
+
+- NIRA, the national authority, runs registration: 59 centres, 17 mobile teams and 31 embassy centres, per its director general ([source, 2026-09](https://sonna.so/en/article/National-Identification-Week-2026-Concludes-in-Mogadishu)).
+- UNDP Somalia says NIRA deployed its own trained staff, equipment and biometric technology to run the Baidoa registrations and is processing 12,000 to 15,000 registrations a day ([source, 2025-11](https://undpsomalia.exposure.co/from-exclusion-to-identity)).
+- Somalia's National Identification and Registration Authority (NIRA) runs the registration and issuance of the national ID, which it launched as eAqoonsi in September 2023, says the Hiiraan report ([source, 2026-09-19](https://www.hiiraan.com/news4/2026/Sep/206316/somalia_registers_15_million_citizens_under_national_id_system.aspx)).
+
 ### South Africa: 3 Established
 
 The national authority ran the ID system day to day in 2026; no source found says who maintains it.
@@ -303,6 +292,14 @@ The national authority ran the ID system day to day in 2026; no source found say
 The national authority ran the digital ID platform day to day in 2026; no source found says who maintains it.
 
 - The National Electronic Authentication Authority manages the platform, can suspend or terminate the service for cyber security or maintenance, and takes monitoring and enforcement action ([source, 2026-05-21](https://sudapass.gov.sd/terms?lang=en)).
+
+### Togo: 3 Established
+
+Togo's identification agency ran ID enrolment in 2025 and 2026; national staff maintaining and upgrading the system is not known.
+
+- The ANID director general says the national identification agency runs the e-ID enrolment, with field operations entrusted to INSEED ([source, 2025-08](https://www.toutafrica.com/2025/08/25/e-id-togo-et-protection-des-donnees-personnelles-le-togo-a-fait-le-choix-strategique-dutiliser-mosip/)).
+- The national biometric identification agency ANID opened fifty enrolment centres at Atakpame, bringing the Plateaux region in after the Savanes, Grand Lome and Maritime, says the government portal ([source, 2026-03-21](https://www.republicoftogo.com/toutes-les-rubriques/societe/se-faire-enregistrer-c-est-compter-c-est-exister-c-est-participer)).
+- The national identification agency ANID's teams carried out biometric registration across the regions to build the national identification register ([source, 2026-09-26](https://levisionnaire.tg/e-id-togo-plus-de-6-millions-de-personnes-enregistrees-la-region-de-la-kara-prochaine-etape/)).
 
 ### Tunisia: 3 Established
 
@@ -323,6 +320,12 @@ A move to national operation of the ID system was under way in 2026.
 
 - Al-Watwan reports that the Comoros interior minister said GenKey took over production of biometric passports and national identity cards on 31 March 2026 from Semlex, with a transfer of skills to national staff and progressive national appropriation of biometric data ([source, 2026-03-31](https://alwatwan.net/societe/production-de-documents-biom%C3%A9triques-genkey-succ%C3%A8de-officiellement-%C3%A0-semlex.html)).
 - Al-Watwan reports that on 24 March 2026 Semlex, producer of Comoros' biometric ID cards and passports since 2007, handed the data to the government, that Dutch firm GenKey takes over production and management of the documents, and that the Interior Ministry calls the handover control of the state's identification resources, with data hosted in Comoros ([source, 2026-03-24](https://alwatwan.net/societe/confection-des-papiers-biom%C3%A9triques-i-semlex-remet-les-donn%C3%A9es-au-gouvernement.html)).
+
+### Guinea: 2 Nascent
+
+Guinea was training national staff to take over its ID system in 2026; a national authority running it day to day is not known.
+
+- NG Tech Innovation says teams are already mobilised in Conakry to train national cadres and transfer skills, with the register's infrastructure developed by Guinean engineers ([source, 2026-07-24](https://mediaguinee.com/2026/07/identite-numerique-loneci-et-ng-tech-innovation-scellent-un-partenariat-strategique-pour-le-rnpp/)).
 
 ### Madagascar: 2 Nascent
 

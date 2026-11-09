@@ -10,4 +10,4 @@
 
 ***Also on file***. [Identifiant sanitaire unique and dossier médical numérique](<https://www.lapresse.tn/2026/09/29/telehealth-connect-tunisia-2026-la-tunisie-veut-faire-du-numerique-un-levier-dequite-en-sante/>). [National health identifier](<https://dharab.com/tunisia-bets-on-telehealth-as-it-prepares-to-host-telehealth-connect-2026/>). [Sahetna](<https://dharab.com/tunisia-bets-on-telehealth-as-it-prepares-to-host-telehealth-connect-2026/>). [Electronic medical records](<https://dharab.com/tunisia-bets-on-telehealth-as-it-prepares-to-host-telehealth-connect-2026/>). [Teleradiology](<https://dharab.com/tunisia-bets-on-telehealth-as-it-prepares-to-host-telehealth-connect-2026/>). [Sahetna.tn](<https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109>).
 
-***Not found***. No source found counts the health systems the identifier links. None says it has reached every public facility.
+***Not found***. No source found says three or more health systems exchange data. None names a national health information exchange in service.

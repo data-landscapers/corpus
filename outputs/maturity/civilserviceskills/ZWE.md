@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 gives the share of the civil service trained in digital skills.
+***Not found***. No source found since October 2023 names a standing digital-skills programme for civil servants. None states a number trained.

@@ -12,4 +12,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found says Tunisia's critical information infrastructure was designated. The 2023 decree-law leaves the list to a decree not found issued.

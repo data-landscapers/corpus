@@ -1,16 +1,17 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "5",
-   "standing": "in-force",
-   "reach": "applied",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-002;UGA-001",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "3",
+      "standing": "in-force",
+      "reach": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-001;UGA-003",
+      "gaps": "No source found names rules made under the law or says its oversight body is set up.",
+      "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }

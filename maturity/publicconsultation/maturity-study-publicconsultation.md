@@ -49,7 +49,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Operating | Yes to 1, 2 and 3: a consultation was held because a rule required it |
 | 5 Leading | Yes to all four: a standing body with outside members gave its view |
 
-- **A yes to a later question answers the earlier ones**: a consultation held under a rule, and a council's opinion on a bill, each show people outside government were asked.
+- **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a consultation required by a rule, or a council's opinion on a bill, no longer shows people outside government were asked.
 - **Every answer counts for three years.** So does a statement that people were not consulted, and it places a country at stage 1 only where no yes is held inside the same three years.
 - **A national internet governance forum places nothing**, and is noted: it meets, and no government is bound to ask it anything. The row as it stands places Togo, South Sudan, São Tomé and Príncipe and Chad on theirs.
 - **A rule that requires consultation places nothing until a consultation is held under it**, and is noted. The row as it stands places Tunisia and Angola on the rule.

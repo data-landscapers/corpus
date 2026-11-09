@@ -97,3 +97,9 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-05,LBY,dpi.registry--electoral-register,fact,2,4,LBY-001;LBY-002;LBY-004;LBY-005,HNEC voter lists published April 2025 and SMS registration check from February 2025: roll open for checking
 2026-11-08,TZA,dpi.registry--electoral-register,fact,5,5,TZA-003;TZA-007;TZA-001,"INEC's head of ICT said in March 2025 that registration draws on NIDA; INEC denied integration in August 2025: rung still met by TZA-003 and TZA-007, stays 5, denial in gaps"
 2026-11-08,MDG,dpi.registry--electoral-register,fact,2,2,MDG-003;MDG-002,"A second report that the August 2026 overhaul is mainly on paper: procurement still answers question 1 (messages-for-bill 73), stays 2"
+2026-11-09,AGO,dpi.registry--electoral-register,ladder,5,3,AGO-001;AGO-002,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-09,BWA,dpi.registry--electoral-register,ladder,4,2,BWA-002;BWA-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
+2026-11-09,COM,dpi.registry--electoral-register,ladder,4,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to unplaced."
+2026-11-09,LSO,dpi.registry--electoral-register,ladder,5,3,LSO-011;LSO-006;LSO-007,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-09,MUS,dpi.registry--electoral-register,ladder,4,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to unplaced."
+2026-11-09,ZWE,dpi.registry--electoral-register,ladder,5,3,ZWE-001;ZWE-004,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."

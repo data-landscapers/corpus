@@ -12,4 +12,4 @@
 
 ***Also on file***. [Data Protection Act 2017](<https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf>). [Data Protection Office](<https://mitci.govmu.org/mitci/wp-content/uploads/2026/06/117_The-Data-Protection_Designation-Tasks-and-Position-of-Data-Protection-Officers_Reg.pdf>). [Data Protection (Fees) Regulations 2020](<https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf>). [Insurance sector guidelines 2024](<https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf>). [CCTV Code of Practice 2010](<https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf>). [Draft Data Protection Bill](<https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf>).
 
-***Not found***. Nothing further on the four questions.
+***Not found***. No ruling of the authority against a named organisation is found from the last three years.

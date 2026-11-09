@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says a rule requires drafts to be put online for public comment.
+***Not found***. No source found since October 2023 says a named draft was posted online for public comment.

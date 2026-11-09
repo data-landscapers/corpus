@@ -14,4 +14,4 @@
 
 ***Also on file***. [National GovCloud for Guinea-Bissau](<https://documents1.worldbank.org/curated/en/099031726185534997/txt/P176932-ff007e3d-6dc7-4a7e-b858-14a297e1be23.txt>); [Interoperability and data exchange platforms (WARDIP-F-006-2024)](<https://documents1.worldbank.org/curated/en/099031726185534997/txt/P176932-ff007e3d-6dc7-4a7e-b858-14a297e1be23.txt>).
 
-***Not found***. No source found from 2023 or later says the financial management or tax systems are in use. Nothing found says the government has published a map of its systems.
+***Not found***. No source from 2023 or later says the financial management system is in use across central government. None says the finances are run without one.

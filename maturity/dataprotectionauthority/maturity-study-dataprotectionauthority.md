@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Operating | Yes to 1, 2 and 3 |
 | 5 Leading | Yes to all four |
 
-- **A yes to a later question answers the earlier ones**: a ruling shows the authority is appointed.
+- **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a ruling no longer shows the authority is appointed, and yearly figures do not answer question 3.
 - **An authority whose members have all left and not been replaced is a no to question 2**, from the date a source says so.
 - **A country with a bill and no law is stage 1 only if a source states the absence**; otherwise it has no evidence, and the long summary notes the bill.
 - **Only the authority's own rulings count.** A court's judgment belongs to the law row.

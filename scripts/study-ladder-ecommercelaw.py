@@ -14,9 +14,9 @@ r"""study-ladder-ecommercelaw.py — the e-commerce law study's four questions, 
 3. **Rules made under it**: a `reach` of `rules`, of any age.
 4. **Applied**: a `reach` of `applied` dated inside three years of the as-at.
 
-**A yes to a later question answers the earlier ones** (method §3.3): a signature provider
-accredited under the law shows the law is in force. An `applied` older than three years
-is not a yes to question 4; it still shows a law in force, and no more. Stage 1
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a
+later yes no longer answers the earlier ones, and a cell takes the last rung its evidence
+reaches without a gap. Stage 1
 is a `standing` of `none` dated inside three years with no draft or law on record. A fact
 dated after the as-at sets nothing. A year or a month stands for its last day.
 
@@ -79,18 +79,18 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         and (since is None or d >= since)][:n]
     law, draft = pick("standing", ("in-force",)), pick("standing", ("draft",))
     applied = pick("reach", ("applied",), three)
-    rules, old = pick("reach", ("rules",)), pick("reach", ("applied",))
+    rules = pick("reach", ("rules",))
     none = pick("standing", ("none",), three)
     if not rows:
         return {"stage": "no evidence", "standing": "", "reach": "", "sources": [],
                 "gaps": "Nothing found names a law on electronic transactions or e-commerce or a "
                         "draft of one, or says there is none."}
-    if applied:
+    if law and rules and applied:
         s, src = "5", applied + [r for r in rules if r not in applied][:1] + law[:1]
-    elif rules:
+    elif law and rules:
         s, src = "4", rules[:2] + law[:1]
-    elif law or old:
-        s, src = "3", law or old
+    elif law:
+        s, src = "3", law
     elif draft:
         s, src = "2", draft
     elif none:

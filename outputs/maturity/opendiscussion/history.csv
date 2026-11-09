@@ -36,3 +36,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-30,ETH,gov.discourse--open-discussion-of-government-policy,fact,unplaced,unplaced,,"Access Now, October 2026: new internet shutdowns in Tigray, no one named as ordering them; places nothing, stays unplaced"
 2026-10-31,DZA,gov.discourse--open-discussion-of-government-policy,ladder,1,no evidence,,"Exam-building cut is not a cut (Bill, messages-for-bill 52, 2026-10-31)"
 2026-11-05,BEN,gov.discourse--open-discussion-of-government-policy,fact,unplaced,2,BEN-005,"UPMB and Amnesty International Bénin called in public on 3 November 2026 for the Code du numérique's articles 550ff to be reviewed; question 1 met, unplaced to 2. Jailings inside the twelve months keep question 2 a no."
+2026-11-09,GMB,gov.discourse--open-discussion-of-government-policy,ladder,4,2,GMB-001;GMB-003,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
+2026-11-09,LSO,gov.discourse--open-discussion-of-government-policy,ladder,4,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to unplaced."

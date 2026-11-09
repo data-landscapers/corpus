@@ -49,7 +49,7 @@ Asked in order. Each is answered with a date and a link.
 
 **Rung 5 rewritten** *(Bill, 2026-10-25)*: every company must be on the beneficial-owner register, full national coverage, and question 3 is shown by its own evidence (`study.json` → `"must_show": [3]`). A filing rate short of all companies, or a duty to file, is `partial`. All ten cells at 5 fell: Tunisia to 4; Kenya, Mozambique, Nigeria, Senegal, South Africa and Tanzania to 3; Ghana, Namibia and Zambia to 2.
 
-A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `registration` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `shared` (`shared`) for 3 and `owners` (`all`, `partial`) for 4, where only `all` is a yes.
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114; method §3.3)*. `study.json` holds this as three aspects: `registration` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `shared` (`shared`) for 3 and `owners` (`all`, `partial`) for 4, where only `all` is a yes.
 
 ## 4. The norm
 

@@ -16,8 +16,10 @@ count for twelve months, every other answer for three years:
 
 **Stage 1 outranks a yes**: a `connection` of `cut` inside the twelve months, or a `debate`
 of `silenced` inside the three years, places a country there whatever else is held. **A
-`punished` inside the twelve months is a no to question 2 and stops the count.** A later yes
-answers an earlier question nothing found answers. A fact dated after the as-at sets nothing.
+`punished` inside the twelve months is a no to question 2 and stops the count.** **Each step
+of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a later yes no longer
+answers the earlier ones, and a cell takes the last rung its evidence reaches without a gap. A
+fact dated after the as-at sets nothing.
 A year or a month stands for its last day, or for the as-at where that day falls after it
 and the source was published by it. **A cut or a punishment dated only to a year that began
 before the twelve months sets nothing**: the year does not show it inside them. A `silenced`
@@ -117,17 +119,17 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
               else "unpunished" if unpunished else ""}
     if cut or silenced:
         return {"stage": "1", **values, "sources": list(dict.fromkeys(cut + silenced[:1])), "gaps": ""}
-    if not (criticised or unpunished or repealed or barred):
+    if not criticised:
         return {"stage": "unplaced", **values, "sources": [],
                 "gaps": "No source dated in the last three years says a newspaper, broadcaster, "
                         "party or group inside the country criticised a government policy in "
                         "public, and none says the internet was cut in the last twelve months."}
     if punished:
         s, src, gap = "2", criticised[:1] + punished, GAPS["2 no"]
-    elif barred:
-        s, src, gap = "5", barred + repealed[:1] + unpunished[:1], GAPS["5"]
-    elif repealed:
-        s, src, gap = "4", repealed + unpunished[:1], GAPS["4"]
+    elif unpunished and repealed and barred:
+        s, src, gap = "5", barred + repealed[:1] + unpunished[:1] + criticised[:1], GAPS["5"]
+    elif unpunished and repealed:
+        s, src, gap = "4", repealed + unpunished[:1] + criticised[:1], GAPS["4"]
     elif unpunished:
         s, src, gap = "3", unpunished + criticised[:1], GAPS["3"]
     else:

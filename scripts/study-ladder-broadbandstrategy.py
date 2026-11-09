@@ -20,8 +20,10 @@ r"""study-ladder-broadbandstrategy.py — the broadband plan study's four questi
    its gap says so.
 
 A `delivery` fact lifts nothing where the plan on record has ended or is only a draft: the
-ladder puts both at stage 2. With no `standing` fact at all it answers the earlier
-questions. Stage 1 is a `standing` of `none` dated inside three years with no plan or draft
+ladder puts both at stage 2.
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a later
+yes no longer answers the earlier ones, and a cell takes the last rung its evidence reaches
+without a gap. Stage 1 is a `standing` of `none` dated inside three years with no plan or draft
 on record. A fact dated after the as-at sets nothing. A year or a month stands for its last
 day.
 
@@ -91,13 +93,12 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     funded = pick("delivery", ("funded",), three)
     reported = pick("delivery", ("reported",), three)
     none = pick("standing", ("none",), three)
-    lifts = running or not (settled or draft)
     if not rows:
         return {"stage": "no evidence", "standing": "", "delivery": "", "sources": [],
                 "gaps": "Nothing found names a national broadband plan, or says there is none."}
-    if reported and funded and lifts:
+    if running and funded and reported:
         s, src = "5", reported[:1] + funded[:1] + plan[:1]
-    elif funded and lifts:
+    elif running and funded:
         s, src = "4", funded + plan[:1]
     elif running:
         s, src = "3", plan

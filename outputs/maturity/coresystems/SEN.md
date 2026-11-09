@@ -14,4 +14,4 @@
 
 ***Also on file***. [Senegalese National Interoperability Platform (PINS)](<https://techreviewafrica.com/news/6516/senegal-advances-digital-transformation-agenda-with-government-enterprise-architecture-project>); [DAF biometric national ID and passport system](<https://www.connectingafrica.com/cybersecurity/senegal-s-free-internet-plan-could-pose-cybersecurity-risks>).
 
-***Not found***. No source found says the government has published an enterprise architecture or an inventory of its systems, or names the financial management system or the payroll in use.
+***Not found***. No source from 2023 or later says the financial management system is in use across central government. None says the finances are run without one.

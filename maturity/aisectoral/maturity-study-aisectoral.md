@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Several sectors | Yes to 3 |
 | 5 Results reported | Yes to 4 |
 
-A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `use` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `sectors` (`several`) for 3 and `results` (`reported`) for 4.
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114; method §3.3)*. `study.json` holds this as three aspects: `use` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `sectors` (`several`) for 3 and `results` (`reported`) for 4.
 
 ## 4. The norm
 

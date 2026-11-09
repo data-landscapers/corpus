@@ -10,4 +10,4 @@
 
 ***Also on file***. [Smart City Surveillance Initiative](<https://itweb.africa/article/malawi-backs-ai-crime-cameras/G98Yd7LGnmzvX2PD>).
 
-***Not found***. No single source says AI is in service in the public systems of two or more sectors.
+***Not found***. No single source found says AI is in service in the public systems of two or more sectors.

@@ -14,9 +14,11 @@ r"""study-ladder-itcapacity.py — the in-house capacity study's four questions,
 4. **Run wholly in-house**: `own` rows of `entire` naming three or more systems, inside three
    years *(Bill, 2026-10-26, message 31: the cadre is no longer asked)*.
 
-A yes to a later question answers the earlier ones (§3.3). No question is answered no: one
-body's systems run by a supplier says nothing of another's staff, so an `outsourced` row only
-places a country at stage 1, and only where nothing answers yes.
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a later
+yes no longer answers the earlier ones, and a cell takes the last rung its evidence reaches
+without a gap. No question is answered no: one body's systems run by a supplier says nothing
+of another's staff, so an `outsourced` row only places a country at stage 1, and only where
+question 1 has no yes.
 
 A fact dated after the as-at sets nothing; a year or a month stands for its last day, and the
 as-at's own year for the as-at. `corrections.csv` is applied to `evidence.csv` first, once.
@@ -90,7 +92,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     if len(own) < OWN:
         hit["own"] = None
     values = {k: (v if hit[k] else "") for k, v, _ in QS}
-    top = max((i + 1 for i, (k, _, _) in enumerate(QS) if hit[k]), default=0)
+    top = next((i for i, (k, _, _) in enumerate(QS) if not hit[k]), len(QS))
     if top == 0:
         out = next((r for d, r in live if r["aspect"] == "inhouse" and r["value"] == "outsourced"
                     and d >= three), None)
@@ -100,7 +102,8 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         return {"stage": "unplaced", "sources": [], "values": values,
                 "gaps": "No source found from 2023 or later says government staff run or maintain "
                         "any of its systems."}
-    sources = ([r["row_id"] for r in own.values()][:OWN] if top == 4
+    sources = ([r["row_id"] for r in own.values()][:OWN]
+               + [hit[k]["row_id"] for k, _, _ in reversed(QS[:3])] if top == 4
                else [hit[k]["row_id"] for k, _, _ in reversed(QS[:top]) if hit[k]][:3])
     return {"stage": str(top + 1), "sources": sources, "values": values, "gaps": GAPS[str(top + 1)]}
 

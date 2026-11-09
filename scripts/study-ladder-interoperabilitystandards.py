@@ -15,8 +15,9 @@ does it. The ladder is `maturity-study-interoperabilitystandards.md` §2 and §3
    `checked` dated inside them. An older one answers nothing.
 
 A `use` fact lifts nothing where the standards on record are only a draft: the ladder puts
-it at stage 2. With no `standing` fact at all it answers the earlier questions. Stage 1 is
-a `standing` of `none` dated inside three years with no standards or draft on record. A
+it at stage 2. **Each step of the ladder must be met to progress** *(Bill, 2026-11-09,
+message 114)*: a later yes no longer answers the earlier ones, and a cell takes the last rung
+its evidence reaches without a gap. Stage 1 is a `standing` of `none` dated inside three years with no standards or draft on record. A
 fact dated after the as-at sets nothing. A year or a month stands for its last day.
 
 `corrections.csv`, where the parent's reading removed or revalued a row, is applied to
@@ -82,14 +83,13 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     means = pick("use", ("required",))
     applied = pick("use", ("checked",), three)
     none = pick("standing", ("none",), three)
-    lifts = bool(policy) or not draft
     if not rows:
         return {"stage": "no evidence", "standing": "", "use": "", "sources": [],
                 "gaps": "Nothing found names technical standards for government systems to "
                         "exchange data, or says there are none."}
-    if applied and lifts:
-        s, src = "5", applied + policy[:1]
-    elif means and lifts:
+    if policy and means and applied:
+        s, src = "5", applied + means[:1] + policy[:1]
+    elif policy and means:
         s, src = "4", means + policy[:1]
     elif policy:
         s, src = "3", policy

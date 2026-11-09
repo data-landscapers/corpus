@@ -12,4 +12,4 @@
 
 ***Also on file***. [Online police clearance system](<https://www.thenewdawnliberia.com/police-online-clearance-generates-us200k/>); [National E-Procurement platform](<https://techafricanews.com/2026/08/12/liberia-and-sierra-leone-deepen-cooperation-on-digital-transformation-and-e-governance/>); [Electronic Government Procurement (e-GP) system](<https://www.liberianobserver.com/news/liberia-s-e-gp-system-becomes-regional-model/article_578f3d8d-5076-43c2-8d63-594282d1476a.html>).
 
-***Not found***. No sources found since October 2023 name three systems run wholly by government staff.
+***Not found***. No source from 2023 or later names a body that builds systems for government.

@@ -10,4 +10,4 @@
 
 ***Also on file***. [eAFYA EMR](<https://uniph.go.ug/wp-content/uploads/2026/04/Uganda-CRVS-quartely-report-January-March-2026-1.pdf>); [OpenHIM](<https://news.mak.ac.ug/2026/04/mak-transitions-100-million-digital-health-systems-assets-to-health-ministry/>); [eIDSR](<https://news.mak.ac.ug/2026/04/mak-transitions-100-million-digital-health-systems-assets-to-health-ministry/>); [eCHIS](<https://uniph.go.ug/wp-content/uploads/2026/03/CRVS-D4H-quartely-Report-October-December-2025.pdf>); [NIRA CRVS system](<https://uniph.go.ug/wp-content/uploads/2026/03/CRVS-D4H-quartely-Report-October-December-2025.pdf>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 links the national system to another. Surveillance, the medicines supply chain and patient or immunisation registers were looked for.

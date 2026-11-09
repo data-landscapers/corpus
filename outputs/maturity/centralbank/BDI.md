@@ -10,4 +10,4 @@
 
 ***Also on file***. [BurundiPay](<https://www.burunditimes.com/regional-lawmakers-flag-unfinished-burundi-payment-systems-work-as-grant-closes/>); [East African Payment System](<https://www.burunditimes.com/regional-lawmakers-flag-unfinished-burundi-payment-systems-work-as-grant-closes/>); [East African Payment System (EAPS)](<https://www.theeastafrican.co.ke/tea/news/east-africa/burundi-to-join-east-african-payment-network-by-december-2026-5562616>); [PAPSS](<https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/>).
 
-***Not found***. No source found reports Burundian payments running on PAPSS.
+***Not found***. No source found since October 2023 gives the BRB a payments mandate or says it licenses providers. Authorising four banks for PAPSS is not licensing them.

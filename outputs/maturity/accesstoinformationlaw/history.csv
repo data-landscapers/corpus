@@ -17,3 +17,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-20,SYC,gov.legislate--access-to-information-legislation,fact,4,5,SYC-006;SYC-008;SYC-001,Information Commission decisions finding breaches in 2024; stage 4 to 5
 2026-10-20,TUN,gov.legislate--access-to-information-legislation,fact,4,5,TUN-004;TUN-001,"2024 UNESCO return: 7,347 appeals in 2023; stage 4 to 5"
 2026-10-20,ZWE,gov.legislate--access-to-information-legislation,fact,4,5,ZWE-005;ZWE-001;ZWE-002,MISA 2024 report: ZMC issued release orders under the Act; stage 4 to 5
+2026-11-09,NGA,gov.legislate--access-to-information-legislation,ladder,5,3,NGA-001;NGA-003,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-09,SSD,gov.legislate--access-to-information-legislation,ladder,4,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to unplaced."
+2026-11-09,UGA,gov.legislate--access-to-information-legislation,ladder,5,3,UGA-001;UGA-003,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-09,MOZ,gov.legislate--access-to-information-legislation,ladder,5,3,MOZ-001;MOZ-002,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."

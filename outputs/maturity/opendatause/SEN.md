@@ -8,4 +8,4 @@
 
 ***Also on file***. [ANADS (Archivage national des données du Sénégal), ANSD catalogue](<http://anads.ansd.sn/index.php/catalog/337>); [Digital Earth Africa](<https://aws.amazon.com/blogs/publicsector/digital-earth-africa-and-aws-are-making-satellite-data-work-for-africa/>).
 
-***Not found***. No source found since October 2024 names or counts four or more public bodies publishing data.
+***Not found***. No source found since October 2023 states an open licence. None gives terms that let anyone reuse public data.

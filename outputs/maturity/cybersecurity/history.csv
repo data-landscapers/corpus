@@ -47,3 +47,8 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-30,TUN,infra.cybersec--national-cybersecurity-readiness,ladder,5,5,TUN-017;TUN-023;TUN-003,"Rung 5 rewritten (Bill, 2026-10-30): the body must publish evidence of dealing with incidents in the past year; a count recorded or detected no longer answers it"
 2026-11-01,KEN,infra.cybersec--national-cybersecurity-readiness,fact,5,5,KEN-013;KEN-016;KEN-024;KEN-025,Critical information infrastructure regulations promulgated in early 2024 answer question 4; stays 5
 2026-11-04,BFA,infra.cybersec--national-cybersecurity-readiness,fact,2,3,BFA-020;BFA-019;BFA-012,"ANSSI-BF: 79 major alerts treated H1 2025, 19 security alerts to SOC-connected bodies in 2024: the body has handled incidents"
+2026-11-09,AGO,infra.cybersec--national-cybersecurity-readiness,ladder,4,2,AGO-010,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
+2026-11-09,COD,infra.cybersec--national-cybersecurity-readiness,ladder,4,2,COD-003,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
+2026-11-09,MAR,infra.cybersec--national-cybersecurity-readiness,ladder,5,3,MAR-001;MAR-012;MAR-018,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-09,TUN,infra.cybersec--national-cybersecurity-readiness,ladder,5,3,TUN-023;TUN-016;TUN-024,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-09,TZA,infra.cybersec--national-cybersecurity-readiness,ladder,4,2,TZA-003;TZA-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."

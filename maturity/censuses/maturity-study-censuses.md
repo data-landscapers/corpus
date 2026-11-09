@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Published | Yes to 3: its results published, preliminary or final |
 | 5 Surveyed | Yes to 4: a household survey published as well |
 
-- **A later yes answers the earlier ones**: published results show a census was counted. **A survey answers question 4 only**: on its own it is noted, and it counts only above a published census.
+- **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: published results no longer show a census was counted on their own; a source reporting results that dates the count answers both. **A survey answers question 4 only**: on its own it is noted, and it counts only above a published census.
 - **The ten-year window is the UN's rule** of a census at least once a decade. A census counted before October 2016 with a successor in preparation is stage 2.
 - **No census in ten years and none in preparation is not stage 1** unless a source says so; the cell is unplaced and the summary gives the year of the last count.
 - **Changes from the row as it stands.** Stage 3 also took a survey programme with irregular rounds, stage 4 asked for disaggregation, a portal or microdata and a regular survey programme together, and stage 5 for every round met under the Charter's principles. Disaggregation and access need the results themselves read, and "under the Charter's principles" is alignment, so they go; the census is the ladder and one recent survey its top.

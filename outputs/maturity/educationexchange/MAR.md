@@ -10,4 +10,4 @@
 
 ***Also on file***. [E-government interoperability platform](<https://www.wearetech.africa/en/fils-uk/news/public-management/morocco-launches-e-government-interoperability-platform>).
 
-***Not found***. No source found since October 2023 names two education systems exchanging data, or one learner identifier used across them.
+***Not found***. No source found since October 2023 names a link between education systems at any stage. None says there is none.

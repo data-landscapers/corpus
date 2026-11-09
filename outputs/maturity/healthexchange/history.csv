@@ -65,3 +65,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-07,KEN,dpi.exchange--interoperability-of-health-systems,fact,3,4,KEN-005;KEN-006;KEN-007;KEN-008,National HIE operational across all SHA-contracted facilities (Aug 2025) and fully deployed by Dec 2024: a national exchange in service
 2026-11-07,NAM,dpi.exchange--interoperability-of-health-systems,fact,1,3,NAM-003,"NAMTAC 2025: PTracker submits data to DHIS2 and the national data warehouse; two systems in routine use, breadth unsettled against the minister's 2026 remarks"
 2026-11-08,LBR,dpi.exchange--interoperability-of-health-systems,fact,no evidence,2,LBR-001,Liberia is one of four WAHO pilot countries for automated transfer of routine data from its DHIS2 (March 2026): an exchange piloted; restaged no evidence to 2.
+2026-11-09,TUN,dpi.exchange--interoperability-of-health-systems,ladder,5,3,TUN-007,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."

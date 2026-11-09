@@ -53,7 +53,7 @@ Asked in order. Each is answered with a date and a link.
 - **A cut inside the twelve months places a country at stage 1 whatever else is held.** The row as it stands puts Uganda and Tanzania at stage 2.
 - **A cut in one province, a slowed service, and a cut for school examinations are cuts.**
 - **A cut confined to exam buildings, the rest of the country connected, is not a cut** *(Bill, 2026-10-31, messages-for-bill 52)*.
-- **A no to question 2 stops the count whatever comes after it.** A later yes answers an earlier question nothing held answers, and never one a dated arrest has answered no.
+- **A no to question 2 stops the count whatever comes after it.** **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a later yes answers no earlier question.
 - **Cuts and punishments count for twelve months; every other answer for three years.**
 - **A cut or a punishment dated only to a year that began before the twelve months places nothing**: the year does not show it inside them. *(Added in the run.)*
 - **A cut the source puts down to no one's order places nothing**, and is noted. *(Added in the run.)*

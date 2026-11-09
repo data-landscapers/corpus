@@ -21,9 +21,9 @@ The AU Charter on the Principles of Public Service and Administration asks for s
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 7 |
+| 4 Operating | 5 |
 | 3 Established | 8 |
-| 2 Nascent | 37 |
+| 2 Nascent | 39 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 0 |
@@ -69,19 +69,6 @@ AI training became mandatory for all public servants in 2026 and nearly 200,000 
 Digital-skills training reached civil servants across government in 2026; the share trained is not published.
 
 - TechReviewAfrica reports the training targets staff across ministries, departments and agencies ([source, 2026-09-20](https://techreviewafrica.com/news/7357/sierra-leone-expands-digital-skills-training-for-civil-servants)).
-
-### Tunisia: 4 Operating
-
-A digital-skills platform for all 680,000 civil servants opened in 2023; no source found reports the number trained and the share.
-
-- The ministry says the Digital Learning Academy platform is for all 680,000 state civil servants ([source, 2023-12-01](https://www.leconomistemaghrebin.com/2023/12/02/lancement-de-la-plate-forme-digital-learning-academy-pour-renforcer-les-competences-des-agents-de-la-fonction-publique/)).
-- The Ministry of Communication Technologies launched the Digital Learning Academy platform on 1 December 2023 to build digital skills among the state's 680,000 civil servants, managed by Smart Tunisian Technoparks (S2T) with GIZ present ([source, 2023-12-01](https://www.leconomistemaghrebin.com/2023/12/02/lancement-de-la-plate-forme-digital-learning-academy-pour-renforcer-les-competences-des-agents-de-la-fonction-publique/)).
-
-### Zimbabwe: 4 Operating
-
-The government said in 2025 that digital-skills training will be mandatory for all civil servants, 10,000 a year; the share trained is not published.
-
-- Zimbabwe's government is set to make digital skills training in AI, cybersecurity and data management mandatory for all civil servants, with at least 10 000 public employees trained each year, per Finance Minister Mthuli Ncube ([source, 2025-11-07](http://www.businessdaily.co.zw/index-id-National-zk-52741.html)).
 
 ### Cote d'Ivoire: 3 Established
 
@@ -369,11 +356,26 @@ Digital-skills training for civil servants was under way in 2025; a standing pro
 
 - CEGA and Togo's Ministry of Public Service Efficiency and Digital Transformation announced a new Data Ambassadors Program under the Togo Data Lab to train 27 data specialists in government, and expect to train 70 government data scientists in the first two years ([source, 2025-12-03](https://cega.berkeley.edu/article/togo-expands-data-lab-to-drive-durable-policy-innovation-with-support-from-google-org/)).
 
+### Tunisia: 2 Nascent
+
+Tunisia opened a digital-skills platform for its 680,000 civil servants in 2023; no source found gives the number it has trained.
+
+- The Ministry of Communication Technologies launched the Digital Learning Academy platform on 1 December 2023 to build digital skills among the state's 680,000 civil servants, managed by Smart Tunisian Technoparks (S2T) with GIZ present ([source, 2023-12-01](https://www.leconomistemaghrebin.com/2023/12/02/lancement-de-la-plate-forme-digital-learning-academy-pour-renforcer-les-competences-des-agents-de-la-fonction-publique/)).
+- L'Economiste Maghrebin reports a KOICA-funded national e-learning platform with the Presidency of the Government and ENA, operational since June 2024, with four pilot modules including e-governance, offering training to public agents; no number trained is given ([source, 2024-06](https://www.leconomistemaghrebin.com/2025/02/26/koica-tunisie-plateforme-learning/)).
+
 ### Zambia: 2 Nascent
 
 Digital-skills training for civil servants was under way in 2026; a standing programme is not on record.
 
 - SMART Zambia's e-Government Division trained 146 public officers in three Southern Province districts (40 Gwembe, 46 Mazabuka, 60 Siavonga) in digital literacy, cybersecurity, Outlook and data protection ([source, 2026-07](https://techafricanews.com/2026/07/20/smart-zambia-trains-146-district-officers-in-southern-province-to-strengthen-digital-skills/)).
+
+### Zimbabwe: 2 Nascent
+
+Zimbabwe trained 105 civil servants in cyber security in 2024 and plans mandatory digital-skills training; no standing programme with a number trained is known.
+
+- Finance Minister Mthuli Ncube told the 2026 Pre-Budget Seminar that digital skills certification (Microsoft, Google, cybersecurity) will be mandatory, targeting 10,000 civil servants a year; the item is a proposed priority ([source, 2025-11-06](https://www.heraldonline.co.zw/digital-skills-for-civil-servants/)).
+- Minister Mavetera announced a three-tier AI Skills Accelerator Programme for the public sector, with foundational awareness for every civil servant, specialist training for ICT professionals and research partnerships with state universities ([source, 2026-05-07](https://spikedmedia.co.zw/minister-mavetera-issues-five-landmark-directives-at-inaugural-ict-directors-workshop/)).
+- The ICT Minister addressed 105 civil servants who received certificates after a week-long cyber security training run by the Ministry of ICT with Huawei, and said the Ministry would keep organising such training ([source, 2024-08](https://gemnation.co.zw/ensure-adequate-cyber-security-systems-ict-minister/)).
 
 ### Eritrea: Unplaced
 

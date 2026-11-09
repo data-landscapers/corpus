@@ -7,8 +7,9 @@ r"""study-ladder-satellitebroadband.py — the satellite broadband study's four 
 `maturity/documentation/maturity-study-method.md` §7, as `study-ladder-exchangepoints.py`
 does it. The ladder is `maturity-study-satellitebroadband.md` §2 and §3:
 
-1. **Licensed**: a `service` row of `licensed`, `sale` or `choice`, or a `counted` row of
-   `counted`, of any age.
+1. **Licensed**: a `service` row of `licensed`, `sale` or `choice`, of any age. A `counted`
+   row no longer answers it *(Bill, 2026-11-09, message 114: each step of the ladder must be
+   met to progress)*.
 2. **On sale**: a `service` row of `sale` or `choice`, of any age.
 3. **Two networks**: a `service` row of `choice`, or `sale` rows naming two different
    satellite networks in `system` (`network()` folds a reseller's name onto its network).
@@ -138,7 +139,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         (d, r) for d, r in live if r["aspect"] == aspect and r["value"] in values
         and (since is None or d >= since)][:n]
     ids = lambda ps: [r["row_id"] for _, r in ps]  # noqa: E731
-    licensed = pick("service", POSITIVE) or pick("counted", ("counted",))
+    licensed = pick("service", POSITIVE)
     none = pick("service", ("none",), three)
     if none and not licensed:
         return {"stage": "1", "sources": ids(none[:1]), "gaps": ""}

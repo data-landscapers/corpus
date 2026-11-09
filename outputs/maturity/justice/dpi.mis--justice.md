@@ -1,6 +1,6 @@
 # Justice: justice
 
-*As at 2026-09-30.*
+*As at 2026-08-31.*
 
 ## The norm
 
@@ -21,11 +21,11 @@ The African Commission's Fair Trial Principles ask for systems recording proceed
 | Stage | Countries |
 |---|---|
 | 5 Leading | 4 |
-| 4 Operating | 8 |
+| 4 Operating | 6 |
 | 3 Established | 8 |
-| 2 Nascent | 18 |
+| 2 Nascent | 19 |
 | 1 Absent | 0 |
-| Unplaced | 6 |
+| Unplaced | 7 |
 | No evidence | 10 |
 
 ## Countries
@@ -54,12 +54,6 @@ Court judgments or case status were open online in 2026.
 
 - The Minister says IECMS incorporates case tracking for litigants, and the JSC says court users can monitor cases electronically ([source, 2026-09-26](https://www.heraldonline.co.zw/electronic-case-management-system-iecms-brings-justice-closer-to-gweru-residents/)).
 
-### Benin: 4 Operating
-
-Cases could be filed with the courts online in 2026; no source found reports judgments or case status open online.
-
-- La Marina BJ reports that from 16 February 2026 requests and fee payments for three filings at the Cotonou Commercial Court are made exclusively online, with copies of rulings to follow from 1 March 2026 ([source, 2026-02-16](https://lamarina.bj/2026/02/13/benin-trois-nouveaux-e-services-desormais-operationnels-au-tribunal-de-commerce-de-cotonou/)).
-
 ### Gambia: 4 Operating
 
 Cases could be filed with the courts online in 2024; no source found reports judgments or case status open online.
@@ -85,13 +79,6 @@ Cases could be filed with the courts online in 2026; no source found reports onl
 
 - The 13th Rwanda Governance Scorecard (RGB, 22 October 2026) scored electronic court filing services at 65.40% satisfaction, down 13.60 points on the previous assessment ([source, 2026-10-22](https://rwandadispatch.com/rwandans-report-lower-satisfaction-with-public-services-new-scorecard-shows/)).
 - The New Times reports that from January 2025 Rwanda's justice sector and its stakeholders will begin using an upgraded Integrated Electronic Case Management System (IECMS) ([source, 2025-01](https://www.newtimes.co.rw/article/22773/news/law/justice-whats-new-in-upgraded-integrated-case-management-system)).
-
-### Seychelles: 4 Operating
-
-Cases could be filed with the courts online in 2025; no source found reports judgments or case status open online.
-
-- The Seychelles Judiciary launched its e-Service Platform, phase one, letting legal practitioners file written submissions and upload documents online, with card payment and digital receipts; built by vendor Switch ([source, 2025-11-26](https://www.judiciary.sc/news/judiciary-launches-new-e-service-platform-to-streamline-access-to-justice/)).
-- Chief Justice Govinden's Electronic Filing of Written Submissions (Civil Matters) Rules, 2025 (S.I. 72) let legal practitioners and parties file written submissions in civil cases before the Supreme Court electronically via a designated online platform or the Court's email address; commencement date is left blank in the gazetted text ([source, 2025-09-15](https://www.nationalassembly.sc/sites/default/files/2025-11/SI%2072%202025%20-%20Electronic%20Filing%20of%20Written%20Submissions%20%28Civil%20Matters%29%20Regulations%202025_0.pdf)).
 
 ### South Africa: 4 Operating
 
@@ -161,6 +148,12 @@ Courts managed cases electronically in 2025; online filing is not on record.
 A court case management system was under way in 2025; none in service is on record.
 
 - OPaís reports, from the Executive's report annexed to the 2025 state budget, that common-jurisdiction courts will start this year an integrated information-management and document-dematerialisation system, with over Kz 1 billion for the judicial council (CSMJ) ([source, 2025-01-08](https://www.opais.ao/politica/tribunais-arrancam-com-digitalizacao-de-processos-para-conferir-maior-celeridade/)).
+
+### Benin: 2 Nascent
+
+An e-justice case system was at feasibility study in 2024, and online filing opened in 2026; electronic case management in courts is not known.
+
+- La Marina BJ reports that Benin's e-justice project, an information system for managing criminal and civil procedures, was at the stage of a technical feasibility study due to start in October 2024, with a consultancy to be named by September 2024 ([source, 2024-08-29](https://lamarina.bj/2024/08/29/ou-en-est-on-avec-linterconnexion-des-juridictions-au-benin/)).
 
 ### Botswana: 2 Nascent
 
@@ -289,6 +282,12 @@ Not established: Nothing found since October 2023 says whether courts manage cas
 ### Mauritius: Unplaced
 
 Nothing found since 2023 names a court case management system, so no stage is set.
+
+Not established: Nothing found since October 2023 says whether courts manage cases electronically.
+
+### Seychelles: Unplaced
+
+Lawyers could file submissions online from 2025, but nothing since October 2023 says whether courts manage cases electronically, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether courts manage cases electronically.
 

@@ -14,8 +14,10 @@ counts for three years:
 3. **A consultation held under a rule that requires one**: a `standing` of `required`.
 4. **A standing body with outside members gave its view**: a `standing` of `body`.
 
-A yes to a later question answers the earlier ones. Stage 1 is a `hearing` of `none` inside
-the three years with no yes inside them. A fact dated after the as-at sets nothing. A year or
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a later
+yes no longer answers the earlier ones, and a cell takes the last rung its evidence reaches
+without a gap. An `answered` still answers `held`. Stage 1 is a `hearing` of `none` inside
+the three years with no `held` or `answered` inside them. A fact dated after the as-at sets nothing. A year or
 a month stands for its last day, or for the as-at where that day falls after it and the
 source was published by it.
 
@@ -95,9 +97,9 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         return {"stage": "no evidence", **blank,
                 "gaps": "Nothing found says people outside government were asked for their views "
                         "on a digital law or policy, or that they were not."}
-    if body:
+    if answered and required and body:
         s, src = "5", body + required[:1] + answered[:1]
-    elif required:
+    elif answered and required:
         s, src = "4", required + answered[:1]
     elif answered:
         s, src = "3", answered + held[:1]

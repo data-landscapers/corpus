@@ -8,4 +8,4 @@
 
 ***Also on file***. [Nigerian Data Protection Regulations, 2019](<https://mediarightsagenda.org/federal-high-court-rules-that-foi-act-overrides-other-laws-in-journalists-suit-against-nigeria-shippers-council/>).
 
-***Not found***. Nothing on the four questions.
+***Not found***. No source found names rules made under the law or says its oversight body is set up.

@@ -10,4 +10,4 @@
 
 ***Also on file***. [plateforme e-services de la DGI](<https://beninwebtv.bj/benin-limpot-en-ligne-arrive-a-parakou-come-et-lokossa/>); [e-Foncier Benin](<https://lanation.bj/actualites/reforme-du-e-foncier-au-benin-plus-de-491-000-parcelles-enregistrees-dans-12-communes>); [e-services Bénin (e-services.impots.bj)](<https://www.digitalbusiness.africa/le-benin-permet-desormais-aux-contribuables-et-aux-particuliers-de-declarer-et-de-payer-leurs-impots-en-ligne/>).
 
-***Not found***. How users sign in to service-public.bj.
+***Not found***. No source found since October 2023 says how users sign in to service-public.bj. The national ID and a shared account were looked for.

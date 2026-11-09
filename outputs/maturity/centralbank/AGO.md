@@ -10,4 +10,4 @@
 
 ***Also on file***. [EMIS](<https://fintechs.ao/emis-usa-inteligencia-artificial-para-reforcar-a-seguranca-dos-pagamentos-digitais-em-angola/>); [Sistema de Transferencias Instantaneas (STI)](<https://fintechs.ao/africa-ja-tem-36-sistemas-de-pagamentos-instantaneos-o-proximo-desafio-e-faze-los-conversar/>); [BAI-Visa agreement](<https://targeting.ao/parcerias/bai-e-visa-reforcam-parceria-para-acelerar-pagamentos-digitais-em-angola/>).
 
-***Not found***. No source found since October 2023 says the country is live on PAPSS.
+***Not found***. No source found since October 2023 gives the Banco Nacional de Angola a payments mandate. None says it licenses payment providers.

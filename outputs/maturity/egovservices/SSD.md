@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 gives users, applications or transactions through the national portal.
+***Not found***. No source found says ten or more government services can be completed online. No portal count reaches ten.

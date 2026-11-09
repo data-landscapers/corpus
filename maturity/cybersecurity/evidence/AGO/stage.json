@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "readiness",
-      "stage": "4",
+      "stage": "2",
       "foundation": "strategy",
       "response": "",
       "cii": "designated",
       "figures": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "AGO-004;AGO-010",
-      "gaps": "No source found says the national body published how it dealt with incidents in the past year.",
+      "stage_sources": "AGO-010",
+      "gaps": "No source found says the national body handled an incident or issued a public alert since October 2023.",
       "note": "Counted from the four questions by study-ladder-cybersecurity.py.",
-      "as_at": "2026-10-17"
+      "as_at": "2026-11-09"
     }
   ]
 }

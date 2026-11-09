@@ -7,8 +7,8 @@ r"""study-ladder-exchangepoints.py — the exchange points study's four question
 `maturity/documentation/maturity-study-method.md` §7, as `study-ladder-internationalbandwidth.py`
 does it. The ladder is `maturity-study-exchangepoints.md` §2 and §3:
 
-1. **In service**: an `exchange` row of `service`, `traffic`, `content` or `growing`, or a
-   `reach` of `wider`, of any age.
+1. **In service**: an `exchange` row of `service`, `traffic`, `content` or `growing`, of any
+   age.
 2. **A content network**: an `exchange` row of `content`, of any age.
 3. **Traffic growing**: an `exchange` row of `growing` dated in the last three years, or two
    `traffic` rows for the same exchange at least twelve months apart, the later one higher
@@ -16,7 +16,9 @@ does it. The ladder is `maturity-study-exchangepoints.md` §2 and §3:
    what is compared, in Gb/s.
 4. **Beyond one city**: a `reach` row of `wider`, of any age.
 
-**An unanswered question stops the count** (method §3.6). **A later dated `none` reverses**
+**An unanswered question stops the count** (method §3.6), and a `reach` of `wider` does not
+answer question 1 *(Bill, 2026-11-09, message 114: each step of the ladder must be met to
+progress)*. **A later dated `none` reverses**
 (§3.5): an `exchange` of `none` dated after every positive row, and inside three years, sets
 stage 1. A fact dated after the as-at sets nothing; a year or a month stands for its last
 day, and the as-at's own year for the as-at.
@@ -120,7 +122,7 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         and (since is None or d >= since)][:n]
     ids = lambda ps: [i for _, i in ps]  # noqa: E731
     working = ("service", "traffic", "content", "growing")
-    service = pick("exchange", working) or pick("reach", ("wider",))
+    service = pick("exchange", working)
     positive = sorted(pick("exchange", working, n=1) + pick("reach", ("wider",), n=1), reverse=True)
     none = pick("exchange", ("none",), three)
     if none and (not positive or none[0][0] > positive[0][0]):

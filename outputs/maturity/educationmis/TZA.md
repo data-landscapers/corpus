@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says learner records are linked to the national ID or another government system.
+***Not found***. No source found since October 2023 says the education information system produced an annual school census. None says it published education statistics.

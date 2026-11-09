@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No rule in force requiring accessible public websites or digital services has been found. No delivery by a government body has been found.
+***Not found***. No rule in force is found: a 2024 study of public-sector web teams reports no legal framework or guidelines (MAR-005). No delivery of accessible digital services by a government body is found.

@@ -1,6 +1,6 @@
 # Cross-border functionality: cross-border functionality
 
-*As at 2026-09-30.*
+*As at 2026-08-31.*
 
 ## The norm
 
@@ -21,11 +21,11 @@ The African Union's Digital Transformation Strategy and the Pan-African Payment 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 12 |
-| 4 Operating | 27 |
+| 4 Operating | 24 |
 | 3 Established | 6 |
-| 2 Nascent | 4 |
+| 2 Nascent | 6 |
 | 1 Absent | 0 |
-| Unplaced | 2 |
+| Unplaced | 3 |
 | No evidence | 3 |
 
 ## Countries
@@ -112,12 +112,6 @@ The country took part in a regional payment system in 2026; cross-border volumes
 
 - Botswana is now a live corridor of TCIB, the cross-border scheme PayInc operates as SADC Regional Settlement Operator for the SADC region, per TechAfrica News ([source, 2026-03-02](https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/)).
 
-### Burundi: 4 Operating
-
-The country took part in a regional payment system in 2026; cross-border volumes are not reported.
-
-- The BRB has acceded to PAPSS, with four Burundian banks authorised to take part, says BRB's Nduwimana Libere ([source, 2026-08-04](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/)).
-
 ### Cameroon: 4 Operating
 
 The country took part in a regional payment system in 2026; cross-border volumes are not reported.
@@ -193,13 +187,6 @@ The country took part in a regional payment system in 2024; cross-border volumes
 
 - UBA Guinée integrated PAPSS from 9 September 2024, letting its clients make cross-border payments in local currencies across participating African countries ([source, 2024-09-09](https://www.guinee360.com/10/09/2024/uba-guinee-adopte-le-papss-une-nouvelle-ere-pour-les-transactions-financieres-en-afrique-2/)).
 
-### Guinea-Bissau: 4 Operating
-
-The country took part in a regional payment system in 2026; cross-border volumes are not reported.
-
-- Guinea-Bissau is a UEMOA member covered by PI-SPI, the regional instant payment system in service since 30 September 2025 ([source, 2026-09](https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout)).
-- The BCEAO list places Guinea-Bissau in the eight-country WAEMU PI-SPI regional instant payment rail ([source, 2026-09-30](https://www.bceao.int/sites/default/files/inline-files/Liste%20des%20participants_PI-SPI_30_sept_2026_0.pdf)).
-
 ### Kenya: 4 Operating
 
 The country took part in a regional payment system in 2026; cross-border volumes are not reported.
@@ -253,12 +240,6 @@ The country took part in a regional payment system in 2026; cross-border volumes
 
 - Senegal has 43 of the 175 participants authorised to open PI-SPI services to the public across the eight WAEMU countries, per the list the BCEAO updated on 30 September 2026 ([source, 2026-09-30](https://www.agenceecofin.com/actualites-finance/0110-142036-wave-rejoint-la-plateforme-de-paiement-instantane-de-la-bceao-un-an-apres-son-lancement)).
 - PI-SPI, the BCEAO regional instant payment platform covering the UMOA, has been in service since 30 September 2025, with 80 participants connected at 24 June 2026 ([source, 2026-06-24](https://www.seneweb.com/fr/news/Economie/mobile-money-pourquoi-le-duel-orange-money-wave-ne-resume-plus-le-marche_n_505004.html)).
-
-### Seychelles: 4 Operating
-
-The country took part in a regional payment system in 2025; cross-border volumes are not reported.
-
-- Governor Caroline Abel said Seychelles remains active on the SADC-RTGS platform, processing cross-border payments through the Central Bank, though volumes are limited ([source, 2025-07-30](https://www.cbs.sc/Downloads/publications/Speeches/Opening%20Remarks%20by%20Governor%20Caroline%20Abel%20-SADC%20CCBG%20PSS%20and%20PSOC%20meetings.pdf)).
 
 ### Sierra Leone: 4 Operating
 
@@ -328,11 +309,24 @@ A cross-border digital payment corridor was in service in 2025; no source found 
 
 - ITWeb Africa reports MTN MoMo in South Sudan, with Onafriq, now offers inbound international remittances into MoMo wallets from 15 countries including the UAE, Uganda, Kenya, the US and Australia ([source, 2025-05-29](https://itweb.africa/article/mtn-momo-onafriq-partner-on-remittances-in-south-sudan/kYbe97XbmYYqAWpG)).
 
+### Burundi: 2 Nascent
+
+Burundi is connecting to COMESA's and the EAC's regional payment systems in 2026; no source found names a cross-border corridor in service.
+
+- The Bank of the Republic of Burundi hosted training for local banks and the Post Office on connecting to COMESA's Regional Payment and Settlement System and Digital Regional Payment Platform, with connection under way and not yet stated in service ([source, 2026-08-19](https://www.channelafrica.co.za/channelafrica/news/burundi-integrates-comesa-payment-systems-to-boost-cross-border-trade/)).
+- The Bank of the Republic of Burundi told EAC governors in July 2026 that Burundi's integration into the East African Payment System is targeted for completion by December 2026 ([source, 2026-07](https://www.theeastafrican.co.ke/tea/news/east-africa/burundi-to-join-east-african-payment-network-by-december-2026-5562616)).
+
 ### Libya: 2 Nascent
 
 A cross-border digital payment corridor was under way in 2026; none in service is on record.
 
 - Governor Naji Issa said the project to connect Libya to China's CIPS cross-border payment system has begun, with a pilot phase targeted for early 2027 ([source, 2026-09](https://libyaherald.com/2026/09/cbl-governor-issa-launches-several-initiatives-and-reviews-achievements-at-tripoli-arab-savings-and-financial-literacy-conference)).
+
+### Seychelles: 2 Nascent
+
+A Mauritius-Seychelles cross-border payment link was announced in 2026; no source found names a mobile money or remittance corridor in service.
+
+- Mauritius Telecom's CEO announced at the AllMyT Summit the launch of cross-border payment capabilities between Mauritius and Seychelles, in partnership with Seychelles fintech Eboo, as the first of a series of Indian Ocean regional payment announcements ([source, 2026-07-16](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/)).
 
 ### Somalia: 2 Nascent
 
@@ -355,6 +349,12 @@ A cross-border digital payment corridor was under way in 2026; none in service i
 ### Cape Verde: Unplaced
 
 Nothing found since 2023 names a cross-border digital payment channel, so no stage is set.
+
+Not established: Nothing found since October 2023 says whether a cross-border digital payment channel is in service.
+
+### Guinea-Bissau: Unplaced
+
+Guinea-Bissau takes part in West Africa's regional instant-payment system, but no source found names a cross-border payment corridor, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether a cross-border digital payment channel is in service.
 

@@ -20,22 +20,15 @@ The African Union's Digital Transformation Strategy asks for consumer protection
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 8 |
-| 4 Operating | 14 |
+| 5 Leading | 7 |
+| 4 Operating | 9 |
 | 3 Established | 12 |
-| 2 Nascent | 3 |
+| 2 Nascent | 4 |
 | 1 Absent | 1 |
-| Unplaced | 6 |
+| Unplaced | 11 |
 | No evidence | 10 |
 
 ## Countries
-
-### Angola: 5 Leading
-
-The central bank published complaint counts for named mobile money providers in 2025; no source found reports rules for digital finance adopted since 2023.
-
-- The BNA ranking puts Afrimoney at 1,138 complaints in Q2 2025, up 180.2% on Q1, with Unitelmoney at 935 and Paypay at 453 ([source, 2025-06](https://pti.ao/afrimoney-lidera-queixas-de-clientes-das-instituicoes-financeiras-nao-bancarias/)).
-- The BNA report puts Afrimoney at 8,453 mobile banking complaints in Q1 2024, with Unitel Money at 532 and PayPay at 110 among non-bank financial institutions ([source, 2024-03](https://pti.ao/crescem-as-reclamacoes-pelos-servicos-de-mobile-money/)).
 
 ### Ghana: 5 Leading
 
@@ -82,23 +75,11 @@ The central bank barred 69 digital lending apps in 2024 for breaching its consum
 - The Bank of Tanzania named 69 digital lending apps on 21 November 2024 as unlicensed and failing the August 2024 guidance note, barred them from lending, and said it was working with the TCRA to block them ([source, 2024-11-21](https://www.bot.go.tz/Adverts/PressRelease/en/2024112512091545.pdf)).
 - Nukta Habari reports the Bank of Tanzania on 21 November 2024 cancelled the permits of 69 online lending apps for breaching licence conditions, including failing to protect customer privacy ([source, 2024-11-21](https://nukta.co.tz/bot-yafuta-vibali-vya-apps-69-zinazotoa-mikopo-mtandaoni)).
 
-### Benin: 4 Operating
-
-A body took complaints about digital financial services in 2025; enforcement is not reported.
-
-- A client who feels wronged may complain to the Commission bancaire and obtain mediation through the OQSF, the observatory created by decree 2020-291 and made operational in October 2024, per Fraternite ([source, 2025-07](https://fraternite.bj/guichets-automatiques-bancaires-et-mobile-money-enquete-sur-le-calvaire-des-usagers-face-aux-transactions-echouees/)).
-
 ### Burkina Faso: 4 Operating
 
 A financial mediator took complaints, e-money included, in 2024; no source found reports enforcement figures since 2023.
 
 - The report says decree 2022-1066 of 9 December 2022 created the Observatoire de la qualité des services financiers (OQSF-BF) with financial mediation between providers, including electronic money issuers, and users, and that the UEMOA Banking Commission can also be seized when a complaint is unsatisfied ([source, 2024-12](https://www.finances.gov.bf/fileadmin/user_upload/storage/Etude_diagnostique_mecanismes_de_recours_interne_des_PSF_Rapport_Final.pdf)).
-
-### Cape Verde: 4 Operating
-
-The central bank handled complaints about digital payment systems in 2025; no source found reports the rules in force and any enforcement.
-
-- A Banco de Cabo Verde official says the BCV handles complaints about digital payment systems, though often cannot resolve them where the user caused the failure ([source, 2025-03-19](https://www.asemana.cv/index.php/atualidade/14109-maior-parte-das-fraudes-acontece-por-uso-indevido-dos-sistemas-de-pagamentos-digitais-bcv)).
 
 ### Cote d'Ivoire: 4 Operating
 
@@ -126,18 +107,6 @@ The central bank's consumer protection division handled financial complaints in 
 
 - The Central Bank of Lesotho's Financial Consumer Protection Division handles and resolves financial complaints, and the bank plans to train its staff in complaints data analysis ([source, 2026-02](https://newsdayonline.co.ls/cbl-tightens-financial-customer-protection-efforts/)).
 
-### Libya: 4 Operating
-
-The central bank took complaints about its instant payment service from 2025; no source found reports enforcement on digital financial services.
-
-- The Central Bank of Libya's LYPay instant payment website includes a platform for submitting complaints and inquiries ([source, 2025-06-18](https://cbl.gov.ly/en/the-central-bank-of-libya-officially-launches-the-website-for-the-instant-payment-service-lypay/)).
-
-### Morocco: 4 Operating
-
-A banking mediation centre took complaints in 2024, payment institutions included; no source found reports enforcement on digital financial services.
-
-- The Moroccan banking mediation centre Al Wassit Albanki, set up under Bank Al-Maghrib, received 5,536 complaint files in 2024, of which disputes over payment means (cards 57.35%, transfers 29.08%) were 21.16% of those treated, and payment institutions and money transfer companies were among the institutions concerned ([source, 2024](https://cmmb.ma/wp-content/uploads/2025/05/Rapport-dactivite-2024.pdf)).
-
 ### Rwanda: 4 Operating
 
 A body took complaints about digital financial services in 2026; enforcement is not reported.
@@ -149,13 +118,6 @@ A body took complaints about digital financial services in 2026; enforcement is 
 A financial-services mediator took complaints in 2025; enforcement on digital financial services is not on record.
 
 - The Observatoire de la qualité des services financiers, under the Ministry of Finance since 2009, handled 475 new disputed files in 2025 (379 in 2024) through mediation, 357 of them banking, microfinance, financial institutions and La Poste ([source, 2025](https://aps.sn/mediation-financiere-475-dossiers-traites-en-2025-contre-379-en-2024-oqsf/)).
-
-### South Africa: 4 Operating
-
-The financial ombud took complaints about mobile and internet banking fraud in 2025; no source found reports rules for digital finance in force.
-
-- The National Financial Ombud South Africa Banking Division resolved disputes in 2025 and reports that mobile banking and internet banking fraud were the highest complaint generators, 39% of all cases received ([source, 2025-12-15](https://nfosa.co.za/nfo-banking-division-returns-r60-million-to-consumers-in-2025/)).
-- The National Financial Ombud Scheme takes consumer complaints about banking fraud, most of it mobile and digital banking, and closed 3,651 fraud cases in 2025, per the ombud ([source, 2025](https://www.citizen.co.za/business/fraud-complaints-at-the-banking-ombud-nearly-double-in-a-year-as-digital-scams-surge/)).
 
 ### Uganda: 4 Operating
 
@@ -262,17 +224,41 @@ Consumer-protection rules for digital finance were being drafted in 2025; none i
 
 - The National Payment System Bill, passed by the House of the People, is stated to ensure consumer protection; it awaits the Senate ([source, 2025-11-08](https://golekaab.so/en/bill/15)).
 
+### South Africa: 2 Nascent
+
+South Africa's conduct regulator planned a draft conduct standard for payment services in 2025; no digital-finance consumer rule is known in force.
+
+- The FSCA's 2025 Regulation Plan says that, with the SARB National Payment System Department's draft Directive X of 2025 (14 March 2025) proposing a payment-provider authorisation framework, the FSCA will in the coming year develop a draft Conduct Standard applicable to payment services activities, timed with the NPSD ([source, 2025](https://www2.fsca.co.za/Regulatory%20Frameworks/Regulatory%20Frameworks%20Documents/2025%20FSCA%203-year%20Regulation%20Plan.pdf)).
+
 ### Niger: 1 Absent
 
 A 2024 source says no consumer-protection rules apply to digital financial services.
 
 - UNCDF states Niger's consumer protection texts need updating because they do not cover digital finance, and that practically no legal recourse exists for consumers of digital financial services ([source, 2024-01-08](https://www.uncdf.org/fr/article/8603/vers-une-meilleure-protection-des-consommateurs-au-niger)).
 
+### Angola: Unplaced
+
+Angola's central bank published mobile money complaint counts in 2025; its rules for payment providers date from 2016 and 2017, so no stage is set.
+
+Not established: No source found since October 2023 says consumer-protection rules for digital financial services are being drafted or are in force; the BNA notices held are cited by sources of 2017 and 2020.
+
+### Benin: Unplaced
+
+Benin's financial services observatory has taken complaints, e-money included, since 2025; whether consumer rules cover digital finance is not known, so no stage is set.
+
+Not established: Nothing found since October 2023 says whether consumer-protection rules apply to digital finance.
+
 ### Burundi: Unplaced
 
 Nothing found since 2023 names consumer-protection rules for digital finance, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether consumer-protection rules apply to digital finance.
+
+### Cape Verde: Unplaced
+
+Cabo Verde's central bank handled complaints about digital payments in 2025, but no consumer rules for digital finance are known, so no stage is set.
+
+Not established: No source found since October 2023 says consumer-protection rules for digital finance are being drafted or are in force, or reports a fine, sanction or complaint figures.
 
 ### Congo: Unplaced
 
@@ -286,11 +272,23 @@ Nothing found since 2023 names consumer-protection rules for digital finance, so
 
 Not established: Nothing found since October 2023 says whether consumer-protection rules apply to digital finance.
 
+### Libya: Unplaced
+
+Libya's central bank opened a complaints platform in 2025, but the e-payment consumer rules date from 2020, so no stage is set.
+
+Not established: The rules held date from March 2020; no source found since October 2023 says consumer-protection rules for digital finance are being drafted or are in force, or reports a fine, sanction or complaint figures.
+
 ### Mauritania: Unplaced
 
 A pilot financial complaints line was announced in 2026; rules and a working complaints body are not known, so no stage is set.
 
 Not established: A pilot week of the central bank's complaints call centre was announced for April 2026; no source shows it taking complaints, and nothing found names rules for digital finance.
+
+### Morocco: Unplaced
+
+Morocco's banking mediation centre took 5,536 complaints in 2024, payment institutions included; no consumer rules for digital finance are known, so no stage is set.
+
+Not established: No source found since October 2023 says consumer-protection rules for digital finance are being drafted or are in force, or reports a fine, sanction or complaint figures for digital financial services.
 
 ### Sao Tome and Principe: Unplaced
 

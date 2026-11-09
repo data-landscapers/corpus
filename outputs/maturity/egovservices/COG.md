@@ -10,4 +10,4 @@
 
 ***Also on file***. [Identité numérique](<https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi>); [ADEN online government services platform](<https://www.wearetech.africa/fr/fils/actualites/tech/congo-l-aden-s-associe-a-la-societe-anglaise-regalli-pour-deployer-un-portail-numerique-des-services-gouvernementaux>).
 
-***Not found***. How many people use the e-Citizen Portal. How many services it carries.
+***Not found***. No source found since October 2023 says ten or more government services can be completed online. No portal count reaches ten.

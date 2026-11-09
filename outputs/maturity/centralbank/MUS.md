@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says the country is live on PAPSS.
+***Not found***. No source found since October 2023 gives the Bank of Mauritius a payments mandate. None says it licenses payment providers.

@@ -18,8 +18,9 @@ crosses or lands in it is `other` and never reaches here *(Bill, 2026-11-07)*. *
 rebuild revalues them, a legacy `in-service` or `in-use` row is read as `link`**: the ladder
 before 2026-11-07 counted only links, and a cross-border carrier cannot be told from its value.
 
-**A yes to a later question answers the earlier ones** (method §3.3): a link in service was
-agreed and built. Stage 1 is a `none` on either aspect dated inside three years where no
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*, but a
+facility in service is the end of the agreeing and building questions 1 and 2 ask about, as
+`inservice` answers `underway` in the shared ladder, so it still answers them. Stage 1 is a `none` on either aspect dated inside three years where no
 other answer stands. An agreement older than three years with nothing built since sets
 nothing. A fact dated after the as-at sets nothing. A year or a month stands for its last
 day, and the as-at's own year for the as-at.

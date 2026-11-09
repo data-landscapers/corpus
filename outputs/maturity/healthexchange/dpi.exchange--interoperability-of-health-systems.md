@@ -1,6 +1,6 @@
 # Interoperability of health systems: interoperability of health systems
 
-*As at 2026-11-05.*
+*As at 2026-10-29.*
 
 ## The norm
 
@@ -20,22 +20,15 @@ Africa CDC's health information exchange guidelines and Smart Africa's digital h
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Leading | 0 |
 | 4 Operating | 8 |
-| 3 Established | 13 |
+| 3 Established | 14 |
 | 2 Nascent | 23 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 7 |
 
 ## Countries
-
-### Tunisia: 5 Leading
-
-A national health identifier tied to the ID card linked patient files in public hospitals in 2026; no source counts the systems it links.
-
-- Ministry adviser Ines Ayadi says the national health identifier (EVAX identifier) is linked to the national ID card, social security number and school and university identifiers, and that medical files of about 100,000 people have been updated and linked to it, in public hospitals ([source, 2026-07-27](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109)).
-- CHU Sahloul's communique says it had unified 180,000 health identifiers under the Identifiant unique de santé by 6 October 2026, the lead among public hospitals in the roll-out, and describes the identifier as linking each patient's health data and giving health structures access to the information whatever the place of care ([source, 2026-10-06](https://www.lapresse.tn/2026/10/07/avec-180-000-identifiants-uniques-le-chu-de-sahloul-leader-national-en-transition-numerique/)).
 
 ### Burundi: 4 Operating
 
@@ -162,6 +155,12 @@ Two facility systems sent data to the national DHIS2 in routine use in 2026; no 
 The national supply-chain system exchanged data with DHIS2 in 2026; no third system exchanging data is reported.
 
 - UNDP reports the mSupply eLMIS at the Gumbo Warehouse is interoperable with DHIS2, with an eLMIS dashboard integrated into DHIS2, and rolled out to 105 of 145 health facilities (72.4%) ([source, 2026-03](https://www.undp.org/sites/g/files/zskgke326/files/2026-06/undp-ss-rsshbrief-2026.pdf)).
+
+### Tunisia: 3 Established
+
+Tunisia's health identifier programme exchanged data between medical institutions in 2026; an exchange joining three or more health systems is not known.
+
+- The regional director said the INS programme provides a fast, secure exchange of health data between the various medical institutions, under the ministry's digital transformation programmes ([source, 2026-07-16](https://www.radionationale.tn/article/6a58a8f208d2abfa3060938d/%D9%82%D8%A8%D9%84%D9%8A-%D8%A7%D9%86%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%81-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%B5%D8%AD%D8%A9)).
 
 ### Zambia: 3 Established
 

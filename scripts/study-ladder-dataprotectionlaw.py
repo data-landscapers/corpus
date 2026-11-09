@@ -14,8 +14,10 @@ whichever name the source gave the law or the body.
 
 **Read strictly**:
 
-- `in-force` beats `transition` beats `enacted`; a dated decision under the law is itself
-  evidence that it is in force (study file §4);
+- `in-force` beats `transition` beats `enacted`. **Each step of the ladder must be met to
+  progress** *(Bill, 2026-11-09, message 114)*: a later yes no longer answers the earlier ones,
+  and a cell takes the last rung its evidence reaches without a gap, so a dated decision under
+  a law not stated in force leaves it at stage 3;
 - application counts when dated inside three years of the as-at, and for rung 5 a `reported`
   year ending inside two;
 - stage 1 needs a `standing` of `none` and no row stating any other standing.
@@ -58,8 +60,6 @@ def country(ev: list[dict], systems: list[dict], as_at: dt.date) -> dict:
     if law:
         best = min(law, key=lambda r: (LAW.index(r["value"]), -_date(r["as_of"]).toordinal()))
         out["standing"], out["instrument"] = best["value"], best["system"]
-        if recent and out["standing"] != "in-force":
-            out["standing"] = "in-force"
         newest_law = max(_date(r["as_of"]) for r in law)
         if any(_date(r["as_of"]) > newest_law and r["system"] != out["instrument"] for r in bill):
             out["flags"].append("under revision")

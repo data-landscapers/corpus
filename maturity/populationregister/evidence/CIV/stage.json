@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "population",
-      "stage": "5",
+      "stage": "3",
       "register": "inservice",
-      "vital": "updated",
-      "used": "source",
+      "vital": "",
+      "used": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CIV-002",
-      "gaps": "",
+      "stage_sources": "CIV-003;CIV-001",
+      "gaps": "No source found since October 2023 says births or deaths are entered in the population register.",
       "note": "First pass: counted from the four questions by study-ladder-populationregister.py.",
-      "as_at": "2026-10-17"
+      "as_at": "2026-11-09"
     }
   ]
 }

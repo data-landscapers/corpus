@@ -1,6 +1,6 @@
 # Tech startup ecosystem: startup law and funding
 
-*As at 2026-10-18.*
+*As at 2026-08-31.*
 
 ## The norm
 
@@ -20,39 +20,15 @@ The Digital Transformation Strategy and the AU Startup Model Law Framework ask f
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 4 |
-| 4 Operating | 8 |
-| 3 Established | 7 |
+| 5 Leading | 0 |
+| 4 Operating | 6 |
+| 3 Established | 8 |
 | 2 Nascent | 16 |
 | 1 Absent | 2 |
-| Unplaced | 0 |
+| Unplaced | 5 |
 | No evidence | 17 |
 
 ## Countries
-
-### Botswana: 5 Leading
-
-A public fund under the startup law or strategy financed startups in 2025.
-
-- The Botswana Digital and Innovation Hub financed startup IoT Communications through the Botswana Innovation Fund, which the founder put at P1 million ([source, 2025-02](https://dailynews.gov.bw/news-detail/84714)).
-
-### Cape Verde: 5 Leading
-
-A public fund under the startup law or strategy financed startups in 2025.
-
-- Lopes said the government funds around 100 start-ups, two co-founders each receiving six minimum salaries, and a $24 million Morabeza Fund targets youth- and women-led tech start-ups ([source, 2025-05](https://www.wearetech.africa/en/fils-uk/news/public-management/cape-verde-ramps-up-digital-start-up-ecosystem-to-boost-economy)).
-
-### Rwanda: 5 Leading
-
-A public fund under the startup law or strategy financed startups in 2024.
-
-- The Rwanda Innovation Fund, a venture capital initiative of about $68.6 million backed by the African Development Bank and the Government of Rwanda and managed by Angaza Capital, had backed 12 technology companies by 2024, according to KT Press ([source, 2024](https://www.ktpress.rw/2026/07/why-tech-is-rwandas-fastest-growing-source-of-new-jobs/)).
-
-### South Africa: 5 Leading
-
-A public fund under the startup law or strategy financed startups in 2025.
-
-- The DSTI says its public Innovation Fund has supported 12 venture capital firms and around 96 technology investment opportunities and enterprises, giving catalytic risk capital to early-stage startups and tech-enabled SMEs ([source, 2025-02-21](https://www.gov.za/news/media-statements/science-technology-and-innovation-innovation-fund-21-feb-2025)).
 
 ### Algeria: 4 Operating
 
@@ -60,12 +36,6 @@ Startups were labelled under the startup law or strategy in 2026; no source foun
 
 - El Watan reports 673 startups created, 3949 patents registered and 2339 'projet innovant' labels issued between 2022 and July 2026 ([source, 2026-07](https://elwatan.dz/strategie-nationale-de-lintelligence-artificielle-kamel-baddari-fixe-la-feuille-de-route/)).
 - Authorities reported Algeria had registered 130 start-ups and 1,175 projects labeled as innovative ([source, 2026-04-20](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-unveils-first-ai-and-cybersecurity-start-up-cluster)).
-
-### Benin: 4 Operating
-
-Startups were labelled under the startup law or strategy in 2025; no source found reports a public fund under it.
-
-- BIIC and ADPME launched the FAEN programme to finance start-ups holding the 'start-up' label in seed phase (under 3 years) and growth-stage SMEs ([source, 2025-10-02](https://www.biic-bank.com/fr/actualite/lancement-operationnel-du-fonds-dappui-a-lentrepreneuriat-pour-accompagner-et-financer-des-start-ups-labellisees.html)).
 
 ### Cote d'Ivoire: 4 Operating
 
@@ -93,12 +63,6 @@ Over 540 startups held the state's innovative-startup label by 2025; investments
 - Decree No. 2.26.576 of 3 August 2026 strengthened the regulatory framework of the Startup Catalytic Fund, set up by the Ministry of Digital Transition and Administration Reform and managed by Tamwilcom, with $36 million public money over three years into venture capital funds, per The Morocco Post ([source, 2026-08-03](https://themoroccopost.com/morocco-targets-258-million-in-startup-financing-through-new-venture-capital-mechanism/)).
 - Decree 2.26.576 of 3 August 2026 authorises Tamwilcom to take stakes for the Fonds Catalytique Startups in funds investing in startups, capped at 347 million dirhams over three years, under the Digital Morocco 2030 strategy ([source, 2026-08-03](https://librentreprise.ma/2026/09/10/feu-vert-a-tamwilcom-pour-investir-347-mdh-dans-les-startups/)).
 
-### Nigeria: 4 Operating
-
-Startups were labelled under the startup law or strategy in 2025; no source found reports a public fund under it.
-
-- NAN reports the Startup Consultative Forum's membership includes labelled startups, and that certified startups get access to incentives under the Act ([source, 2025-04-29](https://nannews.ng/nitda-inaugurates-startup-consultative-forum-assures-implementation-of-nsa/)).
-
 ### Tunisia: 4 Operating
 
 Startups were labelled under the startup law or strategy in 2026; no source found reports a public fund under it.
@@ -110,6 +74,12 @@ Startups were labelled under the startup law or strategy in 2026; no source foun
 A startup law or strategy was adopted by 2026; startups labelled under it are not on record.
 
 - Angola's parliament unanimously passed a start-up law defining startups with a maximum annual revenue cap of $3.5 million and no minimum, according to ITWeb Africa and the Minister of Industry and Commerce ([source, 2026-03-23](https://itweb.africa/article/angola-passes-landmark-start-up-law/lLn14MmQwnVMJ6Aa)).
+
+### Cape Verde: 3 Established
+
+A startup law with tax benefits was in place in 2025 and a public fund backs startups; startups labelled under it are not known.
+
+- Secretary of State Pedro Lopes said Cape Verde has a dedicated start-up law with tax benefits ([source, 2025-05](https://www.wearetech.africa/en/fils-uk/news/public-management/cape-verde-ramps-up-digital-start-up-ecosystem-to-boost-economy)).
 
 ### Congo: 3 Established
 
@@ -260,6 +230,36 @@ A 2026 source says no startup law, strategy or public support exists.
 A 2023 source says no startup law, strategy or public support exists.
 
 - UNCTAD's Seychelles National Entrepreneurship Strategy says there is no stand-alone Entrepreneurship Policy or Act and proposes only to consider introducing a Start-Up Act defining innovative start-ups ([source, 2023](https://unctad.org/system/files/official-document/tcsdiaeinf2023d2_en.pdf)).
+
+### Benin: Unplaced
+
+A fund for labelled startups was launched in 2025, but no startup law or strategy since October 2023 is known, so no stage is set.
+
+Not established: Nothing found since October 2023 says whether a startup law or strategy is prepared or adopted.
+
+### Botswana: Unplaced
+
+A public innovation fund financed a startup in 2025, but no startup law or strategy since October 2023 is known, so no stage is set.
+
+Not established: Nothing found since October 2023 says whether a startup law or strategy is prepared or adopted.
+
+### Nigeria: Unplaced
+
+The 2022 Startup Act labels startups, reported in 2025, but no source since October 2023 reports its adoption, so no stage is set.
+
+Not established: Nothing found since October 2023 says whether a startup law or strategy is prepared or adopted.
+
+### Rwanda: Unplaced
+
+A government-backed fund had backed 12 firms by 2024, but no startup law or strategy since October 2023 is known, so no stage is set.
+
+Not established: Nothing found since October 2023 says whether a startup law or strategy is prepared or adopted.
+
+### South Africa: Unplaced
+
+A public fund backed about 96 firms by 2025, but no startup law or strategy since October 2023 is known, so no stage is set.
+
+Not established: Nothing found since October 2023 says whether a startup law or strategy is prepared or adopted.
 
 ### Burundi: No evidence
 

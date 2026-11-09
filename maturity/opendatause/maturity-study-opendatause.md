@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Several bodies | Yes to 3: two or more public bodies publish |
 | 5 Four or more bodies | Yes to 4: four or more public bodies publish, on a source from the last two years |
 
-- **A later yes answers the earlier ones**, as the method has it: four or more bodies publishing places a country at stage 5 whether or not its licence is held.
+- **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: four or more bodies publishing reach stage 5 only where the licence is held.
 - **A statistics office's data portal counts**, and will carry most stage 2 and 3 cells. A portal a development bank or donor runs counts only where a source says the government body publishes on it.
 - **A statement that there is no national portal is not a stage 1**: a statistics office may still publish. Stage 1 needs a source that no body publishes data for download.
 - **Dataset counts and how open the data is are not judged.** A count is given where a source gives one.

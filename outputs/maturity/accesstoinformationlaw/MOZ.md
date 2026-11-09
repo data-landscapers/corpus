@@ -8,4 +8,4 @@
 
 ***Also on file***. [Lei n.º 3/2026 Press and Media Law](<https://clubofmozambique.com/news/mozambiques-press-and-media-law-caps-foreign-ownership-at-35/>); [Lei n.º 3/2026, de 26 de Maio (Lei da Comunicação Social)](<https://cibercidadaos.org.mz/wp-content/uploads/2026/06/BR_98_I_SERIE_2.o-SUPLEMENTO_2026.pdf>); [Decreto n.º 48/2025, de 16 de Dezembro (Regulamento de Controlo de Tráfego de Telecomunicações)](<https://www.incm.gov.mz/wp-content/uploads/2026/05/Regulamento-de-Controle-de-Trafego-de-Telecomunicacoes-Revisto-2025-Decreto-48_2025.pdf>).
 
-***Not found***. Nothing on the four questions.
+***Not found***. No source found says rules have been made under Law 34/2014 or names the body that oversees it.

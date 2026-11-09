@@ -1,17 +1,18 @@
 {
- "iso3": "NAM",
- "cells": [
-  {
-   "sub_indicator": "retail",
-   "stage": "4",
-   "service": "inservice",
-   "interop": "interop",
-   "switch": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NAM-001",
-   "gaps": "No source found since October 2023 says a national switch connects wallets and bank accounts.",
-   "note": "First pass: counted from the four questions by study-ladder-retailpayments.py."
-  }
- ]
+  "iso3": "NAM",
+  "cells": [
+    {
+      "sub_indicator": "retail",
+      "stage": "2",
+      "service": "underway",
+      "interop": "",
+      "switch": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NAM-002",
+      "gaps": "No source found since October 2023 says: are people paying by mobile money or e-money.",
+      "note": "First pass: counted from the four questions by study-ladder-retailpayments.py.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }

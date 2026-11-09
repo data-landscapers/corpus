@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Operating | Yes to 1, 2 and 3: rules made under it, or its oversight body set up |
 | 5 Leading | Yes to all four: the law applied in the last three years |
 
-- **A yes to a later question answers the earlier ones**: a commission ruling on a request shows the law is in force and the commission set up.
+- **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a commission ruling on a request no longer shows the law is in force or the commission set up.
 - **Questions 1 to 3 have no time limit**; a law stands, with its year, until a dated source says it is repealed, replaced, suspended or struck down.
 - **A statement that there is no law counts for three years**, and gives way to a dated source naming a draft or a law in force.
 - **A right of access in the constitution is not a law.** With a source saying no law gives it effect, the country is at stage 1.

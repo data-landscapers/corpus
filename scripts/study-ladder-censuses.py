@@ -17,8 +17,9 @@ does it. The ladder is `maturity-study-censuses.md` §2 and §3:
 4. **Survey**: a `survey` of `published` dated inside three years. **It counts only above
    published results** (study §3): on its own it is noted and sets nothing.
 
-**A later yes answers the earlier ones** (method §3.3): final results show a census was
-counted. Stage 1 is a `census` of `none` dated inside three years with no other yes. A fact
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a later
+yes no longer answers the earlier ones, and a cell takes the last rung its evidence reaches
+without a gap. A census counted still answers question 1. Stage 1 is a `census` of `none` dated inside three years with no other yes. A fact
 dated after the as-at sets nothing. A year or a month stands for its last day.
 
 `corrections.csv`, where the parent's reading removed or revalued a row, is applied to
@@ -101,10 +102,10 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         return {"stage": "no evidence", "sources": [],
                 "gaps": "Nothing found names a population census or a household survey, or says there is none."}
     first = final[::-1]   # the first release of final results dates them, not a later regional one
-    if final and surveyed:
-        s, src = "5", surveyed[:1] + first[:1]
-    elif final:
-        s, src = "4", first[:2]
+    if taken and final and surveyed:
+        s, src = "5", surveyed[:1] + first[:1] + taken[:1]
+    elif taken and final:
+        s, src = "4", first[:2] + taken[:1]
     elif taken:
         s, src = "3", taken[:2]
     elif preparing:

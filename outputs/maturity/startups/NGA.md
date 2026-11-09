@@ -10,4 +10,4 @@
 
 ***Also on file***. [Boost Africa](<https://von.gov.ng/eu-eib-highlight-boost-africas-impact-on-entrepreneurs/>); [Startup Investment Seed Fund](<https://nitda.gov.ng/wp-content/uploads/2024/03/NIGERIA-STARTUP-ACT-2022-Final-Publication.pdf>).
 
-***Not found***. No source found since October 2023 says a public fund under the startup law or strategy has financed startups.
+***Not found***. Nothing found since October 2023 says whether a startup law or strategy is prepared or adopted.

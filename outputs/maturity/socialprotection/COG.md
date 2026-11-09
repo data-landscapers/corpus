@@ -10,4 +10,4 @@
 
 ***Also on file***. [social registry (registre social unique)](<https://documents1.worldbank.org/curated/en/099122225174011681/pdf/P174178-d3f57ca8-c3c8-481f-b065-df5bd1e79798.pdf>); [Registre Social Unique](<https://affaires-sociales.gouv.cg/2024/08/16/lancement-du-programme-national-de-filets-sociaux/>); [Registre Social Unique (RSU)](<https://affaires-sociales.gouv.cg/2026/04/14/le-registre-social-unique-du-congo-dispose-dun-siege-approprie/>).
 
-***Not found***. No source found since October 2023 says one information system serves several social programmes.
+***Not found***. Nothing found since October 2023 says whether a social programme runs on an information system.

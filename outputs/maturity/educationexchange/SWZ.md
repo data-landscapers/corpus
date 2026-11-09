@@ -10,4 +10,4 @@
 
 ***Also on file***. [DHIS2-based national EMIS](<https://education.dhis2.org/eswatini-disability-indicators-emis/>); [EMIS](<https://www.iicba.unesco.org/sites/default/files/medias/fichiers/2026/05/Request%20for%20Proposals_Technical%20Assistance%20for%20strengthening%20Education%20Data%20Management%20ES%20LS%20_May.%202026.pdf>); [Education Management Information Systems (EMIS)](<https://eswatinipositivenews.online/eswatini-secures-e16-3-million-gpe-grant-to-strengthen-education-system/>); [DHIS2 for Education (EMIS)](<https://education.dhis2.org/data-the-power-is-in-the-use/>); [SEMIS](<https://education.dhis2.org/eswatini-launches-semis/>); [National Dynamic Social Registry](<https://www.gov.sz/images/CabinetMinisters/Comprehensive%20report%20of%20Government%20performance%202024.pdf>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 names a link between education systems at any stage. None says there is none.

@@ -13,8 +13,9 @@ r"""study-ladder-regionalpolicy.py — the regional policy study's four question
 3. **Put into effect**: an `effect` of `in-effect` or `in-use`, of any age.
 4. **In use**: an `effect` of `in-use` dated inside three years of the as-at.
 
-**A yes to a later question answers the earlier ones** (method §3.3): a thing agreed and
-put into effect shows an agreement and a membership. An `active` older than three years
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a later
+yes no longer answers the earlier ones, and a cell takes the last rung its evidence reaches
+without a gap. An `in-use` still answers `in-effect`. An `active` older than three years
 still shows the country belongs, and no more. Stage 1 is a `part` of `none` dated inside
 three years with no `part` or `effect` fact dated after it: a suspension from one body
 gives way to a membership or an agreement reported since. A fact dated after the as-at
@@ -91,9 +92,9 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
                         "digital policy, or an agreement, or says it stands outside."}
     if none:
         s, src = "1", none
-    elif in_use:
+    elif active and in_use:
         s, src = "5", in_use + [r for r in effect if r not in in_use][:1] + active[:1]
-    elif effect:
+    elif active and effect:
         s, src = "4", effect + active[:1]
     elif active:
         s, src = "3", active
@@ -101,8 +102,8 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         s, src = "2", member
     else:
         return {"stage": "unplaced", "part": "", "effect": "", "sources": [],
-                "gaps": "No membership or agreement is on record, and no source dated in the last "
-                        "three years says the country stands outside."}
+                "gaps": "No membership is on record, and no source dated in the last three years "
+                        "says the country stands outside."}
     return {"stage": s, "sources": list(dict.fromkeys(src)), "gaps": GAPS[s],
             "part": "active" if s in "345" else "member" if s == "2" else "none",
             "effect": "in-use" if s == "5" else "in-effect" if s == "4" else ""}

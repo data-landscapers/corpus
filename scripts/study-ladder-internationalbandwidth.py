@@ -15,10 +15,12 @@ does it. The ladder is `maturity-study-internationalbandwidth.md` §2 and §3:
    as-at *(Bill, 2026-10-30)*. Stages 4 and 5 need it; independent routes without it stay at 3.
 4. **Capacity sold**: an `access` of `open`, of any age, where questions 3 and 3a are a yes.
 
-**A yes to a later question answers the earlier ones** (method §3.3); question 4 needs
-question 3. **A later dated `none` reverses** (method §3.5): a `routes` of `none` dated after
-every positive `routes` row, and inside three years, sets stage 1; an `access` of `none`
-after every `open` row withdraws question 4. A fact dated after the as-at sets nothing. A
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a
+later yes no longer answers the earlier ones, and a cell takes the last rung its evidence
+reaches without a gap. A higher `routes` value still answers a lower one: two independent
+routes are two routes. **A later dated `none` reverses** (method §3.5): a `routes` of `none`
+dated after every positive `routes` row, and inside three years, sets stage 1; an `access` of
+`none` after every `open` row withdraws question 4. A fact dated after the as-at sets nothing. A
 year or a month stands for its last day, and the as-at's own year for the as-at.
 
 `corrections.csv` is applied to `evidence.csv` first, once. Writes each `stage.json` and

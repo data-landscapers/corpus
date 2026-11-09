@@ -10,4 +10,4 @@
 
 ***Also on file***. [National digital ID registration](<https://www.biometricupdate.com/202606/rwandas-digital-id-rollout-expands-access-for-refugees>); [Electronic identity card registration for non-Rwandans](<https://www.newtimes.co.rw/article/33209/news/technology/where-can-refugees-foreigners-register-for-digital-id>); [digital ID](<https://www.newtimes.co.rw/article/33156/news/technology/digital-id-nearly-15m-enrolled-registration-reaches-kigali>).
 
-***Not found***. No source found since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID.
+***Not found***. No source found since October 2023 says: are they registered and documented.

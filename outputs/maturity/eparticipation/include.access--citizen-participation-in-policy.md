@@ -21,26 +21,14 @@ The African Charter on Democracy, Elections and Governance asks for citizen part
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 2 |
+| 4 Operating | 0 |
 | 3 Established | 5 |
-| 2 Nascent | 24 |
+| 2 Nascent | 25 |
 | 1 Absent | 0 |
-| Unplaced | 7 |
+| Unplaced | 8 |
 | No evidence | 16 |
 
 ## Countries
-
-### Cote d'Ivoire: 4 Operating
-
-The telecoms regulator consulted online on draft net-neutrality guidelines in 2026 and published the replies; a rule requiring online consultation is not known.
-
-- ARTCI published operators' responses to the net-neutrality consultation, including Moov Africa CI's contribution, on its website in September 2026 ([source, 2026-09](https://artci.ci/wp-content/uploads/2026/09/Consultation-publique_NEUTRALITE-DU-NET-Contribution_-MOOV-AFRICA-CI.pdf)).
-
-### Liberia: 4 Operating
-
-The telecoms regulator published the comments on its draft service quality rules and its answers in 2024; a rule requiring online consultation is not known.
-
-- The Liberia Telecommunications Authority issued a final report of 4 March 2024 setting out the inputs received on its draft QoS Regulations and its decision on each ([source, 2024-03-04](https://lta.gov.lr/wp-content/uploads/2024/03/Final-Report-on-QoS-Regulation-Consultation-December-4-2023-Version.pdf)).
 
 ### Angola: 3 Established
 
@@ -111,6 +99,12 @@ Cape Verde's regulator and government held public consultations on named proposa
 The prime minister asked the public online for priorities for the government programme in 2024; a standing channel for comments is not known.
 
 - RFI reported that Prime Minister Masra asked the public on social media platforms for their expectations and three priority sectors for the government programme to be presented on 18 January 2024 ([source, 2024-01](https://www.rfi.fr/fr/afrique/20240116-tchad-le-premier-ministre-succ%C3%A8s-masra-consulte-les-tchadiens-sur-les-r%C3%A9seaux-sociaux)).
+
+### Cote d'Ivoire: 2 Nascent
+
+Côte d'Ivoire's telecoms regulator consulted on draft net-neutrality guidelines in 2026, taking replies by email; a standing online channel is not known.
+
+- ARTCI ran a public consultation from 6 July to 6 August 2026 on draft net-neutrality guidelines, with the consultation document available on its website and responses taken by email ([source, 2026-07](https://artci.ci/wp-content/uploads/2026/09/Consultation-publique_NEUTRALITE-DU-NET-Contribution_-MOOV-AFRICA-CI.pdf)).
 
 ### DR Congo: 2 Nascent
 
@@ -235,6 +229,12 @@ Not established: The Ministry of Justice launched an e-consultation portal for d
 Nothing found since 2023 names online participation in making policy, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether the government has asked the public for views online.
+
+### Liberia: Unplaced
+
+Liberia's telecoms regulator published comments on its draft rules in 2024; a draft put online since 2023 is not known, so no stage is set.
+
+Not established: No source found since October 2023 says a ministry, parliament or regulator posted a named draft online for public comment.
 
 ### Libya: Unplaced
 

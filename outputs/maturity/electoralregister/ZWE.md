@@ -10,4 +10,4 @@
 
 ***Also on file***. [national population database](<https://www.zbcnews.co.zw/registrar-general-to-take-over-voters-roll-under-constitutional-reforms/>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 says the roll was open to voters to check. Online, text-message and centre checks were looked for.

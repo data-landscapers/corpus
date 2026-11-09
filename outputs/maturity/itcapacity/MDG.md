@@ -12,4 +12,4 @@
 
 ***Also on file***. [e-GP Madagascar](<https://digital.gov.mg/2025/08/14/avis-demande-propositions-egp/>).
 
-***Not found***. No source found says a system built by government staff went live since October 2023.
+***Not found***. No source found from 2023 or later says government staff run or maintain any of its systems.

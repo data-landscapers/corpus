@@ -10,4 +10,4 @@
 
 ***Also on file***. [GCF FP161 regional early warning project](<https://www.greenclimate.fund/portfolio/projects/fp161>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found says the Seychelles Meteorological Authority issues early warnings or impact-based forecasts that draw on satellite data.

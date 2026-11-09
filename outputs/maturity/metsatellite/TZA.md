@@ -10,4 +10,4 @@
 
 ***Also on file***. [Data Processing and Forecasting System (DPFS)](<https://www.nao.go.tz/uploads/Performance_Audit_Report_on_the_Management_of_Meteorological_Services.pdf>); [Weather radars](<http://alliancehydromet.org/wp-content/uploads/2025/03/CHD-Tanzania-official-version.pdf>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 says the weather service issues warnings drawing on satellite data.

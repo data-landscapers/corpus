@@ -13,8 +13,9 @@ r"""study-ladder-regionallaw.py — the regional law study's four questions, cou
 3. **In national law**: an `effect` of `in-law` or `in-use`, of any age.
 4. **Applied across a border**: an `effect` of `in-use` dated inside three years of the as-at.
 
-**A yes to a later question answers the earlier ones** (method §3.3): a national law passed
-to carry out a community directive needs no ratification. Stage 1 is an `accepted` of `none`
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a later
+yes no longer answers the earlier ones, and a cell takes the last rung its evidence reaches
+without a gap. A `ratified` still answers `signed`, and an `in-use` `in-law`. Stage 1 is an `accepted` of `none`
 dated inside three years where no signature, ratification or law of any date is on record:
 not signing one text gives way to another the country has signed or is bound by. A fact
 dated after the as-at sets nothing. A year or a month stands for its last day, and the as-at's own year for the
@@ -91,9 +92,9 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         return {"stage": "no evidence", "accepted": "", "effect": "", "sources": [],
                 "gaps": "Nothing found names an African legal text on a digital matter that the "
                         "country has signed or is bound by, or says it has signed none."}
-    if in_use:
+    if ratified and in_use:
         s, src = "5", in_use + [r for r in effect if r not in in_use][:1] + ratified[:1]
-    elif effect:
+    elif ratified and effect:
         s, src = "4", effect + ratified[:1]
     elif ratified:
         s, src = "3", ratified
@@ -103,8 +104,8 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         s, src = "1", none
     else:
         return {"stage": "unplaced", "accepted": "", "effect": "", "sources": [],
-                "gaps": "No signature, ratification or national law is on record, and no source "
-                        "dated in the last three years says the country has not signed."}
+                "gaps": "No signature or ratification is on record, and no source dated in the "
+                        "last three years says the country has not signed."}
     return {"stage": s, "sources": list(dict.fromkeys(src)), "gaps": GAPS[s],
             "accepted": "ratified" if ratified else "signed" if signed else "none" if s == "1" else "",
             "effect": "in-use" if s == "5" else "in-law" if s == "4" else ""}

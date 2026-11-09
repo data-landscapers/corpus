@@ -42,7 +42,7 @@ Output: `systems.csv`, one row per named thing per country.
 
 1. **Stage 1 needs a cited, dated statement that the thing is absent.**
 2. **Each yes, in order, is one stage**: one yes is stage 2, four is stage 5. A study with fewer questions says which stages it cannot reach.
-3. **A yes to a later question answers the earlier ones.** **Except a question of nationwide coverage** *(Bill, 2026-10-23)*: it is shown by its own evidence, listed in `study.json` → `"must_show"`; `"later_yes": false` switches the rule off for every question.
+3. **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: every question is shown by its own evidence, and a later yes does not answer an earlier one. A higher value of the same thing still answers a lower one: a system in service answers one under way, a law in force answers a law. A study whose higher yes truly shows a lower one sets `"later_yes": true` in `study.json` and says why.
 4. **A yes carries its year and a window**, three years unless the study says otherwise. Outside the window it is not a yes.
 5. **Answers are as at the as-at date**: a later dated source that reverses a yes, reverses it.
 6. **An unanswered question stops the count**; the short summary names it. A country with no answer at all is *No evidence*.

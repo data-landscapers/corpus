@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 gives the Bank of Sierra Leone a payments mandate. None says it licenses payment providers.

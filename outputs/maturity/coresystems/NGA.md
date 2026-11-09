@@ -14,4 +14,4 @@
 
 ***Also on file***. [Remita](<https://www.thisdaylive.com/2026/08/29/fake-agencies-tinubu-orders-forensic-sweep-of-ippis-ministries-fg-institutions/>); [Tax Ombud Case Management System](<https://taxombud.gov.ng/tax-ombud-launches-website-call-centre-and-case-management-portal-to-enhance-taxpayer-services/>); [Electronic Tax System (e-Tax)](<https://www.ictd.ac/blog/digital-tax-infrastructure-in-nigeria-current-state-and-outlook/>); [Central Billing Systems](<https://www.ictd.ac/blog/digital-tax-infrastructure-in-nigeria-current-state-and-outlook/>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found from 2023 or later says both the tax system and the payroll are in use.

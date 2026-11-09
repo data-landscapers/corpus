@@ -24,3 +24,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-02,LSO,gov.legislate--e-commerce-legislation,review,2,2,LSO-001;LSO-003,Rebuild: short summary rewritten to the September 2026 validation of the revised bill; stage 2 unchanged.
 2026-11-02,ZAF,gov.legislate--e-commerce-legislation,review,5,3,ZAF-001;ZAF-003,"Rebuild, under Bill's ruling of 2026-10-23: three providers named as accredited with no accreditation date do not show the law applied in three years, and no rule under the Act is held; stage 5 -> 3."
 2026-11-03,NER,gov.legislate--e-commerce-legislation,fact,3,4,NER-001;NER-002;NER-003,"Le Sahel, March 2025: the minister names implementing decree 2024-715 of 15 November 2024 under Law 2019-03; rules made, stage 3 to 4"
+2026-11-09,GHA,gov.legislate--e-commerce-legislation,ladder,5,3,GHA-004;GHA-005,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-09,ZMB,gov.legislate--e-commerce-legislation,ladder,5,3,ZMB-004;ZMB-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."

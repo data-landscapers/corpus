@@ -10,4 +10,4 @@
 
 ***Also on file***. [National Payment Systems Advisory Committee (NPSAC)](<https://www.gamswitch.com/press-release/the-gambia-launches-national-payment-systems-advisory-committee-npsac-to-strengthen-payment-system-governance>); [PAPSS](<https://papss.com/wp-content/uploads/2026/03/PAPSS-LIST-OF-LIVE-COMMERCIAL-BANKS_APRIL2026.pdf>); [BANTABA 2.0](<https://thepoint.gm/africa/gambia/headlines/gambia-launches-bantaba-2-0-first-real-time-interoperable-payment-system>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 says the Central Bank of The Gambia licenses payment providers. Mobile money and e-money were looked for.

@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Operating | Yes to 1, 2 and 3: rules made under it |
 | 5 Leading | Yes to all four: the law applied in the last three years |
 
-- **A yes to a later question answers the earlier ones**: a council appointed under the law shows the law is in force.
+- **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a council appointed under the law no longer shows the law is in force.
 - **Questions 1 to 3 have no time limit**; a law stands, with its year, until a dated source says it is repealed or replaced.
 - **A statement that there is no law counts for three years**, and gives way to a dated source naming a draft or a law in force.
 - **An old law still in force is a yes to question 2 and no more**, until a source names rules made under it. The summary gives its year. A bill to replace it is named in the summary and does not lower the stage.

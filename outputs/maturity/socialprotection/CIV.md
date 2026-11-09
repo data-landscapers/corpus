@@ -10,4 +10,4 @@
 
 ***Also on file***. [Registre Social Unique (RSU)](<https://filetsociaux-ci.org/registre-social-unique-des-menages-pauvres-et-vulnerables-rsu-signature-dune-convention-entre-le-bureau-de-coordination-du-programme-filets-sociaux-bcpfs-et-loffice-nation/>); [SIG-RSU](<https://filetsociaux-ci.org/atelier-sur-linteroperabilite-des-systemes-dinformation-pour-renforcer-la-protection-sociale-en-cote-divoire/>).
 
-***Not found***. No source found since October 2023 says one information system serves several social programmes.
+***Not found***. Nothing found since October 2023 says whether a social programme runs on an information system.

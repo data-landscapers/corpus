@@ -59,3 +59,8 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-03,SEN,dpi.exchange--interoperability-of-education-systems,ladder,4,unplaced,,"Bill, 2026-11-03, messages-for-bill 68: question 3 needs a source naming two systems that use the identifier"
 2026-11-04,MAR,dpi.exchange--interoperability-of-education-systems,fact,no evidence,5,MAR-002,"Hibapress, ministry circular (2024): Massar enrolment services use digital identity and download civil status register data; learner records linked to civil registration, no evidence to stage 5"
 2026-11-04,TZA,dpi.exchange--interoperability-of-education-systems,fact,2,3,TZA-002,"TSC, August 2024: TSCMIS connected to the School Information System, e-Watumishi and Treasury pensions to exchange teacher data; exchange in use, stage 2 to 3"
+2026-11-09,GIN,dpi.exchange--interoperability-of-education-systems,ladder,4,2,GIN-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
+2026-11-09,MAR,dpi.exchange--interoperability-of-education-systems,ladder,5,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to unplaced."
+2026-11-09,MRT,dpi.exchange--interoperability-of-education-systems,ladder,5,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to unplaced."
+2026-11-09,SOM,dpi.exchange--interoperability-of-education-systems,ladder,5,3,SOM-003,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-09,SWZ,dpi.exchange--interoperability-of-education-systems,ladder,5,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to unplaced."

@@ -10,4 +10,4 @@
 
 ***Also on file***. [Virecom](<https://www.gov.za/news/media-statements/deputy-minister-nomalungelo-gina-innovations-assist-people-disabilities-south>), a video sign-language interpreting service funded through the agency.
 
-***Not found***. No rule in force requiring accessible public websites has been found. No published audit of them has been found.
+***Not found***. No rule in force requiring accessible public information or digital services is found. No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.

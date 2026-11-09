@@ -1,6 +1,6 @@
 # Data protection authority: supervisory authority
 
-*As at 2026-10-17.*
+*As at 2026-10-31.*
 
 ## The norm
 
@@ -20,22 +20,15 @@ The African Union's Malabo Convention, Articles 11 and 12, commits each party to
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
+| 5 Leading | 4 |
 | 4 Operating | 9 |
-| 3 Established | 21 |
+| 3 Established | 23 |
 | 2 Nascent | 9 |
 | 1 Absent | 7 |
 | Unplaced | 2 |
 | No evidence | 0 |
 
 ## Countries
-
-### Benin: 5 Leading
-
-Benin has an authority with a sitting president in 2026, and it published figures for its work in 2025.
-
-- The APDP's published 2025 report, as relayed by La Nation, gives 907 files examined and 793 validated (606 authorisations, 187 declarations), 782 cases handled by its control and litigation service, 64 inspection missions, 20 complaints treated and 75 compliance certificates issued ([source, 2025](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-en-2025-au-benin-lapdp-dresse-un-bilan-sous-le-signe-de-la-conformite)).
-- La Nation reports the APDP held open days at Kandi on 6-7 October 2026, presided by the prefect of Alibori, presenting its missions ([source, 2026-10-06](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-les-populations-de-kandi-sensibilisees-aux-bonnes-pratiques)).
 
 ### Kenya: 5 Leading
 
@@ -51,13 +44,6 @@ Mali has an authority, the APDP, which fined a clinic and published figures for 
 - Sahel Tribune, summarising the APDP 2025 annual report, says the authority issued about 1,000 formal notices (989 controllers), fines totalling 22 million FCFA (up to 7 million each), and received 51 complaints of which 28 were handled and four referred to the cybercrime prosecutor, for January-December 2025 ([source, 2025](https://saheltribune.com/donnees-personnelles-lalerte-du-regulateur-malien/)).
 - APA News reports that in 2025 the APDP issued formal notices to more than 100 companies for non-compliance ([source, 2025](https://fr.apanews.net/community/mali-lapdp-examine-2-000-dossiers-et-un-projet-darrete/)).
 - TechGriot reports Mali's data protection authority (APDP) received the First Rapporteur of Benin's authority on 2026-09-04 and runs regional offices in Kayes, Sikasso, Segou and Mopti handling awareness, advice and complaint intake ([source, 2026-09-04](https://techgriot.co/english/africa/2026/09/mali-and-benin-deepen-cooperation-on-data-protection/)).
-
-### Mauritius: 5 Leading
-
-Mauritius has a data protection authority and published 2024 figures on complaints and breaches; no ruling against an organisation is known.
-
-- The Data Protection Office reports for January to December 2024: 179 new complaints (158 on CCTV), 39 complaints closed, 105 personal data breaches notified, 112 cross-border transfers authorised and 12 rejected under section 36, 10 impact assessments received, and four compliance inspections ([source, 2024](https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf)).
-- The regulations were made after consultation with the Data Protection Commissioner, and give the Office (Data Protection Office) roles in receiving DPO notifications within 14 days, certifying DPOs and approving training institutions ([source, 2026-06-17](https://mitci.govmu.org/mitci/wp-content/uploads/2026/06/117_The-Data-Protection_Designation-Tasks-and-Position-of-Data-Protection-Officers_Reg.pdf)).
 
 ### Senegal: 5 Leading
 
@@ -150,6 +136,13 @@ Algeria has a working authority with a named president in 2026; it has issued de
 - The article names Samir Bourehil as president of the ANPDP, present at the study day with the Justice and Interior ministers ([source, 2026-07](https://www.elmoudjahid.dz/fr/actualite/securisation-de-l-espace-numerique-l-engagement-sans-faille-de-la-dgsn-255551)).
 - The article states that the ANPDP adopted a deliberation on Wednesday 15 July 2026, acting as the national data protection authority ([source, 2026-07-15](https://www.wearetech.africa/fr/fils/actualites/tech/lalgerie-durcit-les-regles-de-publication-des-images-sur-les-plateformes-numeriques)).
 
+### Benin: 3 Established
+
+Benin's data protection authority was sitting in 2026, with officers sworn in; a ruling against a named organisation is not known.
+
+- La Nation reports the APDP held open days at Kandi on 6-7 October 2026, presided by the prefect of Alibori, presenting its missions ([source, 2026-10-06](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-les-populations-de-kandi-sensibilisees-aux-bonnes-pratiques)).
+- Seventeen officers of Benin's data protection authority (APDP) were sworn in before the Court of First Instance of Cotonou on 14 September 2026 under Article 468(2) of the Digital Code, on the instruction of the APDP president ([source, 2026-09-14](https://techreviewafrica.com/news/7230/17-apdp-benin-officers-sworn-in-to-strengthen-commitment-to-personal-data-protection)).
+
 ### Burkina Faso: 3 Established
 
 Burkina Faso has an authority, active in 2026; no ruling against an organisation is known, and no figures it publishes are known.
@@ -223,6 +216,13 @@ Mauritania has a data protection authority, in session in 2026; no ruling agains
 
 - The APD held its ordinary monthly session on 30 June 2026 under its president, with its members and the Government Commissioner present ([source, 2026-06-30](https://www.apd.mr/fr/reunion-mensuelle-ordinaire-de-lautorite-de-protection-des-donnees-a-caractere-personnel-18/)).
 - The APD's institutional site lists its ordinary monthly meetings of 25 March, 29 April and 6 May 2026 ([source, 2026-05-06](https://www.apd.mr/fr/)).
+
+### Mauritius: 3 Established
+
+Mauritius's Data Protection Office was issuing guidance in 2026; a ruling against a named organisation in the last three years is not known.
+
+- Acclime reports that the Data Protection Office of Mauritius issued updated guidance in September 2026 requiring registration with the Data Protection Commissioner ([source, 2026-09](https://global.acclime.com/news/managed-entities-need-own-data-protection-registration/)).
+- The Data Protection Office of Mauritius issued guidance in September 2026 to Management Companies on registering as controllers and processors with the Commissioner under the Data Protection Act 2017 ([source, 2026-09](https://dataprotection.govmu.org/Documents/Advice%20to%20%20MCs%20on%20Registration.pdf)).
 
 ### Morocco: 3 Established
 

@@ -10,4 +10,4 @@
 
 ***Also on file***. [Unified Social Registry (RESUC) Management Information System](<https://spdci.org/resource/across-21-countries-a-shared-journey-toward-inclusive-and-digital-social-protection/>); [Unified Social Registry of Cameroon (RESUC)](<https://documents1.worldbank.org/curated/en/099082625105536477/pdf/BOSIB-c1db46ff-563d-4cc3-b382-1eb9e5eb6876.pdf>).
 
-***Not found***. No source found since October 2023 says one information system serves several social programmes.
+***Not found***. Nothing found since October 2023 says whether a social programme runs on an information system.

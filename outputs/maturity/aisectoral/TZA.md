@@ -10,4 +10,4 @@
 
 ***Also on file***. [e-IDSR](<https://dhis2.org/ai-driven-alert-triage-tanzania/>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 says AI is in service in two or more sectors. Each source names one.

@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Interoperable | Yes to 3 |
 | 5 National switch | Yes to 4 |
 
-A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `service` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `interop` (`interop`) for 3 and `switch` (`national`) for 4.
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114; method §3.3)*. `study.json` holds this as three aspects: `service` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `interop` (`interop`) for 3 and `switch` (`national`) for 4.
 
 - **Stage 5 needs a switch that serves every service** *(Bill, 2026-11-09, message 110)*: two switches can answer it only if each covers wallets and banks across all of P2P, P2G and P2B. No source shows both Kenswitch and Pesalink covering all of them, and Kenya stays at 4.
 

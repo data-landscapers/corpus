@@ -1,6 +1,8 @@
 {
  "id": "revenuecollection",
  "study_file": "maturity-study-revenuecollection.md",
+ "later_yes": true,
+ "must_show": [1, 2],
  "pass": "first",
  "window_from": "2023-10-01",
  "story_cap": 20,

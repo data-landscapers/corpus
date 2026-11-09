@@ -72,3 +72,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-03,RWA,dpi.mis--education,fact,2,4,RWA-003;RWA-004,A 2025 report says annual statistics are compiled through the SDMS and every student holds a unique ID: 2 to 4
 2026-11-04,MAR,dpi.mis--education,fact,3,5,MAR-004;MAR-005;MAR-001,"2024 Massar circular: each pupil given a digital identifier nationally, and enrolment draws on the civil status register via digital identity: questions 3 and 4"
 2026-11-04,SEN,dpi.mis--education,fact,unplaced,2,SEN-003,"SIMEN coordinator, August 2026: 41 platforms being deployed nationwide, pupils hold a unique education identifier: under way"
+2026-11-09,GIN,dpi.mis--education,ladder,4,2,GIN-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
+2026-11-09,MWI,dpi.mis--education,ladder,4,2,MWI-002,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
+2026-11-09,TZA,dpi.mis--education,ladder,4,2,TZA-003,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."

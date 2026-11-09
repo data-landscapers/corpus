@@ -10,4 +10,4 @@
 
 ***Also on file***. [NAMQR Code](<https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/17/178089f9-403e-4796-907a-a97c20f39e9c.pdf>); [Open Banking Standards](<https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/17/178089f9-403e-4796-907a-a97c20f39e9c.pdf>).
 
-***Not found***. No source found since October 2023 says a national switch connects wallets and bank accounts.
+***Not found***. No source found since October 2023 says: are people paying by mobile money or e-money.

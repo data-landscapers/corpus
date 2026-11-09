@@ -10,4 +10,4 @@
 
 ***Also on file***. [FISP e-Voucher](<https://www.pdu.gov.zm/blog/how-fisp-e-voucher-is-delivering-support-where-it-matters-most>).
 
-***Not found***. No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.
+***Not found***. No rule in force found since October 2023 makes public information or digital services accessible. A law, regulation, policy or standard was looked for.

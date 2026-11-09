@@ -14,4 +14,4 @@
 
 ***Also on file***. [Irembo](<https://www.wearetech.africa/fr/fils/actualites/tech/le-gabon-s-inspire-du-modele-rwandais-pour-accelerer-sa-transformation-numerique>); [Integrated Personnel and Payroll Information System (IPPIS)](<https://www.rsb.gov.rw/updates/news-detail/rsb-signed-mutual-recognition-arrangements-with-aconoq-and-saz-to-promote-trade-as-arso-joined-to-the-certification-of-local-industries-under-the-acap-programme>); [IPPIS](<https://www.api.ippis.rw/>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found from 2023 or later says both the tax system and the payroll are in use.

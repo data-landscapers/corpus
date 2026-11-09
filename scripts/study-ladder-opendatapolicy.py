@@ -12,14 +12,15 @@ r"""study-ladder-opendatapolicy.py — the open data policy study's four questio
 2. **Adopted and not run out**: the newest of the `adopted` and `ended` facts is
    `adopted`, however old; an `ended` of the same date wins. A later `draft` does not undo
    it: a draft beside a policy still running is its successor being written.
-3. **A government portal running under it**: a `use` of `portal`, or of `published`, of
-   any age.
+3. **A government portal running under it**: a `use` of `portal`, of any age. A `published`
+   does not answer it (message 114): data published under the policy does not show a portal.
 4. **Public bodies have published data under it in the last three years**: a `use` of
    `published` dated inside them.
 
 **A `use` fact lifts only a policy adopted and still running.** A portal with no policy
 behind it places nothing (study file §3), so with no `standing` fact, or with only a draft
-or an ended policy, it is passed over; a country holding nothing else is `unplaced`. Stage 1
+or an ended policy, it is passed over; a country holding nothing else is `unplaced`. **Each step of the ladder
+must be met to progress** *(Bill, 2026-11-09, message 114)*. Stage 1
 is a `standing` of `none` dated inside three years with no policy or draft on record. A
 fact dated after the as-at sets nothing. A year or a month stands for its last day.
 
@@ -85,15 +86,15 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     policy = pick("standing", ("adopted",)) if running else []
     ended = [] if running else [r["row_id"] for r in settled][:2]
     draft = pick("standing", ("draft",))
-    named = pick("use", ("portal", "published"))
+    named = pick("use", ("portal",))
     moved = pick("use", ("published",), three)
     none = pick("standing", ("none",), three)
     lifts = running
     if not rows:
         return {"stage": "no evidence", "standing": "", "use": "", "sources": [],
                 "gaps": "Nothing found names an open data policy, or says there is none."}
-    if moved and lifts:
-        s, src = "5", moved + policy[:1]
+    if moved and named and lifts:
+        s, src = "5", moved + named[:1] + policy[:1]
     elif named and lifts:
         s, src = "4", named + policy[:1]
     elif running:

@@ -10,4 +10,4 @@
 
 ***Also on file***. [PAPSS](<https://www.africanenda.org/uploads/files/siips-2024-mainreport-EN.pdf>); [Système de Règlement Automatisé de Djibouti (SYRAD)](<https://www.africanenda.org/uploads/files/siips-2024-mainreport-EN.pdf>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 gives the Banque Centrale de Djibouti a payments mandate. None says it licenses providers or oversees a switch.

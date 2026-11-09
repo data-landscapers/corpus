@@ -1,18 +1,18 @@
 {
- "iso3": "DJI",
- "cells": [
-  {
-   "sub_indicator": "centralbank",
-   "stage": "5",
-   "mandate": "licensing",
-   "switch": "overseen",
-   "regional": "live",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DJI-002",
-   "gaps": "",
-   "note": "PAPSS lists Djibouti with live send-and-receive participants in June 2026, so the country takes part in a continental system in service. A later yes answers the earlier questions.",
-   "as_at": "2026-10-24"
-  }
- ]
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "centralbank",
+      "stage": "unplaced",
+      "mandate": "licensing",
+      "switch": "overseen",
+      "regional": "live",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No source found since October 2023 says the Banque Centrale de Djibouti has a payments mandate, licenses payment providers or oversees a national switch.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: no source says the central bank has a payments mandate, licenses providers or oversees a national switch; PAPSS listing two Djiboutian banks as live was the only fact held.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }

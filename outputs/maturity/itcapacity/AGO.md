@@ -12,4 +12,4 @@
 
 ***Also on file***. [SIGFE](<https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/>); [CAPI/CATI census platform](<https://c2a.portais.gov.ao/uploads/Relatorio_Sintese_CENSO_2024_INE_Nov_2025_c5fba11d70.pdf>).
 
-***Not found***. No sources found since October 2023 name three systems run wholly by government staff.
+***Not found***. No source from 2023 or later names a body that builds systems for government.

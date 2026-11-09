@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "csskills",
-      "stage": "4",
+      "stage": "2",
       "training": "underway",
       "reach": "wide",
       "share": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TUN-003;TUN-002",
-      "gaps": "No source found since October 2023 gives the share of the civil service trained in digital skills. No number of civil servants trained on either platform has been found.",
-      "note": "Stage 4c 2026-10-26: the Digital Learning Academy was launched in December 2023 for all 680,000 civil servants, a yes to question 3 that answers the earlier ones (method 3.3). No number trained or share has been found.",
-      "as_at": "2026-10-26"
+      "stage_sources": "TUN-002;TUN-004",
+      "gaps": "No source found since October 2023 gives a number of civil servants trained by a standing digital-skills programme, academy or platform.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: no source gives a number trained by a standing programme, so question 2 is unanswered; the Digital Learning Academy being open to all 680,000 civil servants was the higher fact.",
+      "as_at": "2026-11-09"
     }
   ]
 }

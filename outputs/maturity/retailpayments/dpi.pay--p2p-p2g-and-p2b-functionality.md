@@ -21,9 +21,9 @@ The African Union's Digital Transformation Strategy asks for interoperable e-mon
 | Stage | Countries |
 |---|---|
 | 5 Leading | 27 |
-| 4 Operating | 17 |
+| 4 Operating | 16 |
 | 3 Established | 9 |
-| 2 Nascent | 1 |
+| 2 Nascent | 2 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 0 |
@@ -286,12 +286,6 @@ Payments between mobile money providers or with banks were in service in 2026; n
 - Platform Africa reports Mauritius has made progress on payments and interoperability, and customers can move funds between their bank accounts through fintech platforms ([source, 2026-09-10](https://platformafrica.com/2026/09/17/pulse-of-fintech-2026-why-collaboration-is-the-key-to-unlocking-mauritius-financial-future/)).
 - AfricaNenda's SIIPS 2024 case study profiles MauCAS as Mauritius's national instant-payment switch for interoperable, real-time retail payments ([source, 2024](https://www.africanenda.org/uploads/files/siips_2024_MauCas_CaseStudy_en.pdf)).
 
-### Namibia: 4 Operating
-
-Payments between mobile money providers or with banks were in service in 2026; no source found reports a national switch.
-
-- The Bank of Namibia's instant payments solution went live in June 2026 with Bank Windhoek, Nampost and Letshego Bank Namibia as first participants, ahead of a phased national rollout, per Deputy Governor Leonie Dunn ([source, 2026-06](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/)).
-
 ### Niger: 4 Operating
 
 Payments between mobile money providers or with banks were in service in 2026; no source found reports a national switch.
@@ -386,6 +380,12 @@ Mobile money or e-money was in service in 2026; no source found reports payments
 
 - MTN Uganda launched Mobile Money toll payments on the Kampala-Entebbe Expressway, where motorists approve a PIN prompt on their phone, Tech Africa News reported ([source, 2026-09-25](https://techafricanews.com/2026/09/25/mtn-uganda-mobile-money-toll-payments-kampala-entebbe-expressway/)).
 - Ericsson and MTN Group Fintech say they completed the migration of the MTN MoMo mobile money platform to a cloud-native architecture in Uganda, among four markets ([source, 2026-08-21](https://techafricanews.com/2026/08/21/ericsson-mtn-complete-momo-cloud-migration-across-four-african-markets/)).
+
+### Namibia: 2 Nascent
+
+An interoperable instant payment system for banks and e-money issuers was in phased rollout in 2026; no mobile money service in use is known.
+
+- Banks, authorised fintechs and e-money issuers are to serve the public through the interoperable Instant Payment Solution, which has finished piloting and is in phased rollout ([source, 2026-06-15](https://www.marketwatch.com.na/market-watch/fact-sheet-namibias-instant-payment-solution-ips-nmh012158-3015-14760)).
 
 ### Seychelles: 2 Nascent
 

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "publicskills",
-      "stage": "5",
+      "stage": "2",
       "training": "inservice",
       "measured": "measured",
       "half": "half",
       "cap": "",
       "flags": "",
-      "stage_sources": "MUS-001;MUS-002",
-      "gaps": "Nothing on the four questions.",
-      "note": "Reassessed under Bill's ruling of 2026-10-31 (messages-for-bill 62: a measured share of the population counts, borderline): the digital promotion agency's 2024 household indicators give 62.2 per cent of persons aged 5 and over able to use a computer (MUS-001, MUS-002), half or more, so stage 5.",
-      "as_at": "2026-10-31"
+      "stage_sources": "MUS-003;MUS-004",
+      "gaps": "No source found says a government digital-skills programme for the public, in more than one location, has trained a stated number of people.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: no programme states a number trained; the 2024 digital literacy rate of 62.2 per cent answers the measurement questions and no longer stands in for a counted programme.",
+      "as_at": "2026-11-09"
     }
   ]
 }

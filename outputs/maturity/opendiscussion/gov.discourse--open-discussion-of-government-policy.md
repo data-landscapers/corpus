@@ -1,6 +1,6 @@
 # Open discussion of government policy: freedom to discuss policy online and in the press
 
-*As at 2026-10-17.*
+*As at 2026-09-30.*
 
 ## The norm
 
@@ -21,26 +21,14 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 2 |
+| 4 Operating | 0 |
 | 3 Established | 0 |
-| 2 Nascent | 26 |
+| 2 Nascent | 27 |
 | 1 Absent | 14 |
-| Unplaced | 6 |
+| Unplaced | 7 |
 | No evidence | 6 |
 
 ## Countries
-
-### Gambia: 4 Operating
-
-In May 2026 the Gambia Press Union criticised new laws, and courts struck down criminal defamation; no source found reports cuts and punishments.
-
-- The Gambia Press Union said criminal defamation and false publication online had previously been struck down by the Supreme Court, giving no date ([source, 2026-05-14](https://gambiaj.com/society/human-rights/gpu-warns-press-freedom-gains-mask-growing-threats-against-journalists-in-the-gambia/)).
-
-### Lesotho: 4 Operating
-
-Courts struck down criminal defamation, reported in October 2026 without a date; no source found reports public criticism of policy and any internet cut.
-
-- The Southern Africa Litigation Centre says courts in Lesotho struck down criminal defamation, giving no date ([source, 2026-10-15](https://www.southernafricalitigationcentre.org/oral-statement-under-item-3-the-human-rights-situation-in-africa/)).
 
 ### Angola: 2 Nascent
 
@@ -107,6 +95,13 @@ A rights group criticised government policy in public in 2026, but a journalist 
 In April 2026 an outlet published an investigation holding the ICT ministry to account; a 2009 speech charge still stands untried.
 
 - An opinion piece in Independent News Eswatini says the Swazi Bridge outlet published an investigation on 12 April 2026 holding the ICT ministry to account for how its Google Cloud EMEA memorandum of understanding was communicated, which it calls a failure of communication ([source, 2026-04-12](https://independentnews.co.sz/42365/opinion/the-real-google-problem-in-eswatini-is-not-the-mou/)).
+
+### Gambia: 2 Nascent
+
+The Gambia Press Union criticised new media laws in 2025 and 2026; no source shows twelve months without anyone punished for speech.
+
+- The Gambia Press Union, in a statement to the African Commission's 87th session in Banjul, criticised the Cybercrime Bill 2023, the Communications Bill 2025 and the Criminal Offences Act 2025 as threats to media freedom ([source, 2026-05-14](https://gambiaj.com/society/human-rights/gpu-warns-press-freedom-gains-mask-growing-threats-against-journalists-in-the-gambia/)).
+- The Gambia Press Union and the Edward Francis Small Center for Rights and Justice criticised the Criminal Offence and Procedure Bill 2025, passed 24 March 2025, over its Section 49 power to ban publications and the reintroduced offence of false publication and broadcasting ([source, 2025-03-24](https://monitor.civicus.org/explore/new-criminal-law-and-draft-cybercrime-bill-in-the-gambia-threatens-press-freedom-freedom-of-expression-and-digital-rights/)).
 
 ### Ghana: 2 Nascent
 
@@ -323,6 +318,12 @@ Not established: No source dated in the last three years says a newspaper, broad
 Journalists were abducted or suspended in 2025 and 2026; nothing found shows policy criticism or an internet cut, so no stage is set.
 
 Not established: No source dated in the last three years says a newspaper, broadcaster, party or group inside the country criticised a government policy in public; Access Now reports new shutdowns in Tigray in October 2026 but does not say who ordered them.
+
+### Lesotho: Unplaced
+
+Courts struck down criminal defamation, reported in 2026 without a date, but no recent public criticism of policy is known, so no stage is set.
+
+Not established: No source dated in the last three years says a newspaper, broadcaster, party or group inside the country criticised a government policy in public, and none says the internet was cut in the last twelve months.
 
 ### Mauritania: Unplaced
 

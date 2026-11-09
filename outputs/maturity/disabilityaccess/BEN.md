@@ -10,4 +10,4 @@
 
 ***Also on file***. [Carte d'égalité des chances](<https://lanation.bj/actualites/politique-didentification-et-dinclusion-1-422-cartes-degalite-des-chances-aux-personnes-handicapees>).
 
-***Not found***. No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.
+***Not found***. No rule in force found since October 2023 makes public information or digital services accessible. A law, regulation, policy or standard was looked for.

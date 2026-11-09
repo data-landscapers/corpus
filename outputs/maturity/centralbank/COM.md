@@ -10,4 +10,4 @@
 
 ***Also on file***. [KomorPay (ATS)](<https://banque-comores.km/uploads/BCC-livret(3).pdf>); [Komor Switch](<https://banque-comores.km/uploads/BCC-livret(3).pdf>); [Mali Ya Wakazi](<https://banque-comores.km/uploads/BCC-livret(3).pdf>); [ATS+ (Automated Transfer System Plus)](<https://documents1.worldbank.org/curated/en/099032326091520607/pdf/BOSIB-cd362a8b-2323-4f0d-8e18-4073ca0c5ea8.pdf>).
 
-***Not found***. No source found since October 2023 says the country takes part in PAPSS or a regional payment system.
+***Not found***. No source found since October 2023 gives the Banque Centrale des Comores a payments mandate. None says it licenses payment providers.

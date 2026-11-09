@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Operating | Yes to 1, 2 and 3: it requires public bodies to share |
 | 5 Leading | Yes to all four: it has been applied in the last three years |
 
-- **A yes to a later question answers the earlier ones**: a regulation made under a law shows the law is in force.
+- **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a regulation made under a law no longer shows the law is in force.
 - **Questions 1 to 3 have no time limit**; a law stands, with its year, until a dated source says it is repealed, replaced or struck down.
 - **A statement that there is no law counts for three years.**
 - **A decree or regulation counts as well as an act of parliament.**

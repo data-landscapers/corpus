@@ -21,10 +21,10 @@ The Continental AI Strategy asks for risk-based regulation, an independent overs
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 8 |
+| 4 Operating | 4 |
 | 3 Established | 12 |
-| 2 Nascent | 10 |
-| 1 Absent | 10 |
+| 2 Nascent | 12 |
+| 1 Absent | 12 |
 | Unplaced | 0 |
 | No evidence | 14 |
 
@@ -35,19 +35,6 @@ The Continental AI Strategy asks for risk-based regulation, an independent overs
 A body was designated with a mandate over AI in 2026; enforcement is not on record.
 
 - CAZOS says the Agência de Protecção de Dados (APD), created by Presidential Decree 214/16, supervises, has sanctioning powers, and is the first regulator to reach automated decisions in Angola ([source, 2026-06](https://revista.cazosadvogados.com/pt/governacao-digital-ia)).
-
-### Chad: 4 Operating
-
-A body was designated with a mandate over AI in 2025; enforcement is not on record.
-
-- Presidential decree 2690/PR/PM/MTENDA/2025 creates a Direction generale de l'Intelligence Artificielle within the digital ministry ([source, 2025-10-21](https://tchadinfos.com/2025/10/21/tchad-creation-dune-direction-generale-de-lintelligence-artificielle-au-ministere-du-numerique/)).
-
-### Egypt: 4 Operating
-
-A body was designated with a mandate over AI in 2026; enforcement is not on record.
-
-- Prime Ministerial Decree No. 207 of 2026, published in the Official Gazette on 18 January 2026, establishes the National Council for Artificial Intelligence, Quantum Computing and Emerging Technologies under the Prime Minister, chaired by the ICT minister ([source, 2026-01-18](https://www.elwatannews.com/news/details/8210438)).
-- Minister Raafat Hindi told the Senate that the Egyptian Responsible AI Center was established in the communications ministry at the end of 2025 to support safe AI use in government bodies and develop regulatory models ([source, 2025-12](https://gate.ahram.org.eg/News/5670246.aspx)).
 
 ### Gabon: 4 Operating
 
@@ -62,23 +49,11 @@ A body was designated with a mandate over AI in 2026; enforcement is not on reco
 - EuroMedAI says HACA, the audiovisual authority, adopted Decision No. 50-26 on AI-generated electoral content on radio and television, and the CNDP issued guidance in late August 2026 asking that AI-produced content be identified ([source, 2026-06-16](https://euromedai.org/en/ai-morocco-2026-elections-legal-framework/)).
 - The CNDP stated that one of its missions is to ensure that AI processing of personal data complies with Law 09-08 ([source, 2025-03-18](https://www.cndp.ma/wp-content/uploads/2025/03/CNDP-Communique-IA-et-protection-des-donnees-a-caractere-personnel-FR.pdf)).
 
-### Mozambique: 4 Operating
-
-A body was designated with a mandate over AI in 2026; enforcement is not on record.
-
-- A Council of Ministers decree that came into force in April 2026 created the National Commission for Artificial Intelligence (CNIA), subordinate to the Council of Ministers, to advise the Government on ethical, legal, security and social issues of AI, as reported by Lusa via Club of Mozambique ([source, 2026-04](https://clubofmozambique.com/news/commission-begins-advising-government-on-the-use-of-artificial-intelligence-in-mozambique/)).
-
 ### Nigeria: 4 Operating
 
 A body was designated with a mandate over AI in 2025; enforcement is not on record.
 
 - The article states the Nigeria Data Protection Commission issued the GAID and applies the NDPA and GAID provisions on automated decisions and AI ([source, 2025](https://theliberalist.org/nigeria-needs-no-ai-law-it-already-has-one/)).
-
-### Sudan: 4 Operating
-
-A body was designated with a mandate over AI in 2025; enforcement is not on record.
-
-- A November 2025 decree established the Sudanese Data and Artificial Intelligence Authority and the Sudanese Cybersecurity Authority, though neither had issued binding rules as of mid-2026, per the SCPS article citing the AI Regulation Tracker ([source, 2025-11](https://sudancps.com/en/2026/07/19/sudans-privacy-gap-balancing-digital-transformation-and-data-laws-intro/)).
 
 ### Benin: 3 Established
 
@@ -163,6 +138,13 @@ A rule or authority on harms from AI was being drafted in 2025; none in force is
 
 - Higher Education Minister Kamal Badari, in an answer dated 23 October 2025, said the government is preparing a comprehensive legal text governing ethical use of AI across all sectors and strengthening the regulatory authority ([source, 2025-10-23](https://www.echoroukonline.com/%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%B6%D8%A8%D8%B7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D9%84%D8%A7%D9%82)).
 
+### Egypt: 2 Nascent
+
+Egypt has a 2024 draft AI law in consultation and a 2026 deepfake bill; no rule on AI harms is known to be in force.
+
+- People of Internet says the Draft Artificial Intelligence Law (2024) is in stakeholder consultation ahead of parliament and would set up the Egyptian Center for Responsible AI with audit and compliance-certification powers ([source, 2026-06-23](https://peopleofinternet.com/articles/egypt-reaches-for-misinformation-laws-to-fill-its-deepfake-g.html)).
+- MP Amira El-Adly submitted a bill amending Law 175 of 2018 on information technology crimes whose explanatory memorandum addresses AI-generated deepfake content used in extortion and grooming of children, per Al-Watan ([source, 2026-04-22](https://www.elwatannews.com/news/details/8270615)).
+
 ### Equatorial Guinea: 2 Nascent
 
 A rule or authority on harms from AI was being drafted in 2025; none in force is on record.
@@ -207,6 +189,12 @@ A rule or authority on harms from AI was being drafted in 2025; none in force is
 
 - Digital Rights Frontlines says South Sudan's Cybercrimes and Computer Misuse Bill 2024 aims to address emerging threats from artificial intelligence and carries proposed AI provisions that need clarity on bias prevention and misuse of automated systems ([source, 2025-10-22](https://www.digitalrights.ngo/post/striking-the-right-balance-south-sudan-s-cybercrimes-and-computer-misuse-bill)).
 
+### Sudan: 2 Nascent
+
+Sudan's justice ministry is preparing a 2026 law on data and AI; no rule on AI harms is known to be in force.
+
+- The Justice Ministry's legal undersecretary says it is preparing, with the digital transformation ministry, a draft 2026 law regulating data and artificial intelligence ([source, 2026-08-11](https://www.sudanindependent.com/news/politics/2026/08/11/%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D8%AA%D8%A7%D8%A8-%D9%85%D8%B1)).
+
 ### Tanzania: 2 Nascent
 
 A rule or authority on harms from AI was being drafted in 2024; none in force is on record.
@@ -232,6 +220,12 @@ A 2025 source says nothing addresses harms from AI.
 
 - Cabo Verde's data protection commission CNPD recognised the need to give the country a law to regulate artificial intelligence, after setting out the data protection rules that bear on AI ([source, 2025-10-03](https://www.cnpd.cv/cnpd-participa-na-workshop-e-na-reuniao-de-stakeholders-da-inteligencia-artificial-ia-na-africa-sobre-governanca-inovadora-e-capacitacao/)).
 - Cabo Verde's Prime Minister told the National Assembly that social media and artificial intelligence are used to manipulate and violate constitutional limits on free expression in the absence of any mechanism of regulation and accountability, and that AI needs regulating ([source, 2025-01-22](https://www.governo.cv/discurso-do-primeiro-ministro-na-sessao-ordinaria-protecao-e-aprimoramento-da-democracia-e-da-boa-governanca/)).
+
+### Chad: 1 Absent
+
+UNESCO said in 2026 that Chad has no redress for harms from AI; whether a rule or authority is being drafted is not known.
+
+- UNESCO's Readiness Assessment Methodology profile states that at this stage Chad has no accountability and redress regime for harms induced by AI systems, and urges a specific liability regime ([source, 2026-06-05](https://www.unesco.org/ethics-ai/fr/chad)).
 
 ### Djibouti: 1 Absent
 
@@ -263,6 +257,12 @@ A 2026 source says nothing addresses harms from AI.
 A 2025 source says nothing addresses harms from AI.
 
 - La Voix de Mopti reports that Mali's 2024 Penal Code includes cybercrime provisions but does not specifically recognise deepfakes or digital sextortion, leaving a legal vacuum that makes convictions difficult ([source, 2025-10-16](https://voixdemopti.com/deepfakes-et-chantage-sexuel-le-nouveau-visage-des-violences-numeriques/)).
+
+### Mozambique: 1 Absent
+
+A 2026 law article says Mozambique has no legal provisions on AI harms; whether any rule or authority is being drafted is not known.
+
+- A law journal article by Bitone Viage says Mozambique has no specific legal provisions on AI-enabled digital crime such as deepfakes, algorithmic manipulation of data and automated attacks, a significant normative void ([source, 2026-01-27](https://www.revistas.editoraenterprising.net/index.php/rpcj/article/view/913)).
 
 ### Namibia: 1 Absent
 

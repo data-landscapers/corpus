@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found names the consumer-protection rules for digital finance in force, or reports a fine, a sanction or complaint figures.
+***Not found***. No source found since October 2023 says digital-finance consumer rules are drafted or in force. None reports a fine, sanction or complaint figures.

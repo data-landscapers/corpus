@@ -10,4 +10,4 @@
 
 ***Also on file***. [base de dados de identidade civil](<https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/>); [Bilhete de Identidade](<https://angop.ao/noticias/politica/cerca-de-16-milhoes-de-cidadaos-constam-da-base-do-bilhete-de-identidade/>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 says the roll was open to voters to check. Online, text-message and centre checks were looked for.

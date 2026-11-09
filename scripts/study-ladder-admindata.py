@@ -18,7 +18,10 @@ named two ways or carried by two rows counts once. A `series` row, a dated state
 product is published regularly, counts as two for each source it names. A `use` of `published`
 names no source; its product, `system` without its years, counts towards question 3 only.
 
-**A later yes answers the earlier ones** (method §3.3). Stage 1 is a `use` of `none` with no
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a later
+yes no longer answers the earlier ones, and a cell takes the last rung its evidence reaches
+without a gap. A publication still answers question 1, and a source published twice question 2:
+each is a higher value of the same thing. Stage 1 is a `use` of `none` with no
 other yes. A fact dated after the as-at sets nothing. A year or a month stands for its last day.
 
 `corrections.csv`, where the parent's reading removed or revalued a row, is applied to

@@ -1,16 +1,17 @@
 {
- "iso3": "ZMB",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "4",
-   "access": "licensed",
-   "breadth": "several",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZMB-002",
-   "gaps": "No source found since October 2024 names or counts four or more public bodies publishing data.",
-   "note": "Counted from the four questions by study-ladder-opendatause.py."
-  }
- ]
+  "iso3": "ZMB",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "2",
+      "access": "published",
+      "breadth": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZMB-001",
+      "gaps": "No source found since October 2023 states an open licence for the data.",
+      "note": "Counted from the four questions by study-ladder-opendatause.py.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }

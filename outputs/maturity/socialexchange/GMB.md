@@ -10,4 +10,4 @@
 
 ***Also on file***. [GamSR](<https://documents.worldbank.org/curated/en/099071525165029379>); [Nafa Cash Transfer Program](<https://documents1.worldbank.org/curated/en/099112925154035950/pdf/P179233-79b99711-b6ff-4c20-b5cb-2d5ef7838226.pdf>); [District Health Information Software (DHIS)](<https://documents1.worldbank.org/curated/en/730471557474095639/txt/Building-The-Gambias-Social-Registry-Final-Draft-Framework-for-the-Design-and-Road-Map-Leading-to-Implementation.txt>); [Social registry case management system](<https://documents1.worldbank.org/curated/en/730471557474095639/txt/Building-The-Gambias-Social-Registry-Final-Draft-Framework-for-the-Design-and-Road-Map-Leading-to-Implementation.txt>).
 
-***Not found***. No source found since October 2023 says the registry is linked to the national ID and to another sector.
+***Not found***. No source found since October 2023 says a registry or programme exchanges data in use.

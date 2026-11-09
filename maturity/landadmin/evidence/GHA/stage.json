@@ -1,17 +1,18 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "landmis",
-   "stage": "5",
-   "system": "inservice",
-   "joined": "joined",
-   "tax": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-002",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-landadmin.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "landmis",
+      "stage": "3",
+      "system": "inservice",
+      "joined": "",
+      "tax": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-004;GHA-001",
+      "gaps": "No source found since October 2023 says the land system joins records to survey maps or valuation.",
+      "note": "First pass: counted from the four questions by study-ladder-landadmin.py.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }

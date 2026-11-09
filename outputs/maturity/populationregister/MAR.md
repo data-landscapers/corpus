@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 says births or deaths are entered in the population register.

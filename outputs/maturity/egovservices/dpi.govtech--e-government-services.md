@@ -20,10 +20,10 @@ The Digital Transformation Strategy asks for a single digital gateway carrying g
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 8 |
-| 4 Operating | 7 |
-| 3 Established | 6 |
-| 2 Nascent | 29 |
+| 5 Leading | 3 |
+| 4 Operating | 4 |
+| 3 Established | 11 |
+| 2 Nascent | 32 |
 | 1 Absent | 0 |
 | Unplaced | 4 |
 | No evidence | 0 |
@@ -37,14 +37,6 @@ Use of the national government services portal was published in 2026.
 - The Minister of Vocational Training says 82,383 candidates had registered through the national digital government services portal by 23 August 2026 ([source, 2026-08-23](https://www.echoroukonline.com/%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-%D8%A5%D8%AF%D8%B1%D8%A7%D8%AC-%D8%AE%D8%AF%D9%85%D8%A9-%D8%AA%D9%83%D9%88%D9%8A%D9%86-%D8%B6%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%88%D8%A7%D8%A8%D8%A9)).
 - The one national portal carries services of the interior, transport, labour and social security and solidarity sectors, and users sign up for a temporary digital identity with their national ID number and personal details, per Louail ([source, 2026-07-14](https://elmassar-elarabi.dz/152310)).
 - The article says the national portal currently carries 21 digital services, to rise to 62 by end-2027 and 350 by 2028 ([source, 2026-07-29](https://elhiwar.dz/event/335541/)).
-
-### Benin: 5 Leading
-
-Use of the national government services portal was published in 2026.
-
-- Digital minister Aurelie Adam Soule Zoumarou said on 21 November 2024 that service-public.bj had handled over 1 million water bill payments, nearly 900,000 electricity bill payments, over 500,000 criminal record requests, over 80,000 e-visas and over 200,000 passport requests ([source, 2024-11-21](https://www.banouto.bj/societe/article/20241123-e-services-publics-au-benin-ces-chiffres-qui-temoignent-d-une-vision-salutaire-et-juste)).
-- Nasuba reports that service-public.bj shows more than 2.5 million requests, per the portal's own home-page figures ([source, 2026-11-02](https://www.nasuba.info/politique-societe/benin-comment-fonctionne-le-portail-numerique-des-services-publics/)).
-- Nasuba reports that service-public.bj lists 1,208 services, of which 131 are available online, per the portal's own display ([source, 2026-11-02](https://www.nasuba.info/politique-societe/benin-comment-fonctionne-le-portail-numerique-des-services-publics/)).
 
 ### Egypt: 5 Leading
 
@@ -62,42 +54,6 @@ One national portal carried over 22,000 services with over 15 million active acc
 - The Principal Secretary says e-Citizen, connected to the IPRS database that links the National Registration Bureau, civil registration and immigration, has more than 13 million registered users ([source, 2024-05-09](https://www.kenyanews.go.ke/digital-identity-id-roll-out-on-course-ps/)).
 - KBC reports ICT Cabinet Secretary William Kabogo saying over 33,000 government services are already digitised on the eCitizen platform ([source, 2025-06-03](https://www.kbc.co.ke/govt-pledges-full-digital-access-for-persons-with-disabilities/)).
 
-### Rwanda: 5 Leading
-
-Use of the national government services portal was published in 2024.
-
-- MINICT says citizens submitted over 5 million applications through Irembo between 2023 and 2024, and more than 400,000 Rwandans had opened personal accounts as of March 2025 ([source, 2024](https://rwandadispatch.com/irembo-platform-transforms-access-to-public-services/)).
-- Minister Paula Ingabire told the Chamber of Deputies that the Irembo platform offers 240 government services, including civil registration, driving permits and business licences, which citizens can apply for online ([source, 2025-11-04](https://rwandadispatch.com/irembo-platform-transforms-access-to-public-services/)).
-
-### South Africa: 5 Leading
-
-Use of the national government services portal was published in 2024.
-
-- The minister says the portal's services drew over 899,394 logins in the past year, with over 1.4 million registered users ([source, 2024-04-05](https://www.sanews.gov.za/index.php/south-africa/government-accelerates-programme-connect-citizens-internet)).
-- SITA's chairperson gave 313,866 users registered on the e-Gov portal, 13,751 registering in December 2023, and 1.3 million users as at October 2023 ([source, 2024-02](https://www.itweb.co.za/article/sita-to-ramp-up-access-to-digitised-govt-services/j5alr7QAN157pYQk)).
-- DCDT says the National e-Government Portal currently allows access to 134 e-Services, including licensing, e-recruitment and exam queries, out of 255 services identified for digitisation ([source, 2024-10-11](https://www.dcdt.gov.za/media-statements-releases/532-south-africa-s-significant-improvement-in-the-united-nations-e-government-index-2024.html)).
-
-### Sudan: 5 Leading
-
-Use of the national government services portal was published in 2026.
-
-- The Baldna listing shows request counts per service, including 79,126 for company and business-name import registration and 11,174 for electronic export contracts ([source, 2026-09-19](https://baldna.gov.sd/services/2/list/1)).
-- The Baldna government-institutions and trade category lists 24 services, such as import registration, electronic export contracts and exporter-importer register renewals ([source, 2026-09-19](https://baldna.gov.sd/services/2/list/1)).
-
-### Zambia: 5 Leading
-
-Use of the national government services portal was published in 2024.
-
-- Sibulowa confirms ZamPortal has recorded over 3.7 million transactions and generated 5 billion Kwacha since its inception ([source, 2024-09-11](https://zamportal.gov.zm/director-sibulowa-introduces-the-gsb/)).
-- ZamPortal, the government platform on the GSB, hosts 322 services that citizens can access and apply for online, per its director Beaton Sibulowa ([source, 2024-09-11](https://zamportal.gov.zm/director-sibulowa-introduces-the-gsb/)).
-
-### Congo: 4 Operating
-
-A single government gateway with shared sign-in was in service in 2026; its use is not published.
-
-- The Ministry's page describes the e-Citizen Portal as a single entry point to all digital public services, with each citizen's unique biometric-authenticated digital identifier as the gateway to all online public services ([source, 2026-09-02](https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi)).
-- The Ministry's page says citizens can use the e-Citizen Portal, from computer or mobile, to file administrative procedures, pay taxes and fees, and track their files in real time ([source, 2026-09-02](https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi)).
-
 ### Eswatini: 4 Operating
 
 A single government gateway with shared sign-in was in service in 2025; its use is not published.
@@ -113,20 +69,6 @@ A one-stop digital platform for government services with national ID sign-in ran
 - National ID Ethiopia's deck describes Mesob as a Fayda-based digital one-stop shop for e-government services, listed with agriculture and health services ([source, 2026-05](https://id4africa.com/2026/files/T1-2-1-Ethiopia-FINAL.pdf)).
 - The US Commerce guide says the government has digitised more than 130 services across 25 service providers through portals including e-service ([source, 2024](https://www.trade.gov/country-commercial-guides/ethiopia-digital-economy)).
 
-### Seychelles: 4 Operating
-
-A single government gateway with shared sign-in was in service in 2024; its use is not published.
-
-- The monServis portal carries eServices from multiple providers, with individuals signing in with SeyID and organisations onboarding through Biz Auth, per the Government of Seychelles ([source, 2024](https://monservis.gov.sc)).
-- The Government of Seychelles' monServis portal lets users access, communicate and transact with government services online through listed eServices ([source, 2024](https://monservis.gov.sc)).
-
-### South Sudan: 4 Operating
-
-A single government gateway with shared sign-in was in service in 2025; its use is not published.
-
-- The page says one eServices.gov.ss account, created with an ID for citizens and residents or a passport number for foreigners, gives access to all government services online including BRS, with fees payable by mobile money, cards and online banking ([source, 2025](https://brs.eservices.gov.ss)).
-- The portal describes a single username and password giving access to services of several agencies (revenue authorities, Bureau of Standards, business registration), as a single account for all government to citizen services ([source, 2024](https://www.eservices.gov.ss/)).
-
 ### Togo: 4 Operating
 
 A national portal for public services with national ID sign-in ran in 2026; no source found says how many use it.
@@ -141,6 +83,14 @@ A single government gateway with shared sign-in was in service in 2026; its use 
 
 - The playbook presents the citizen portal e-bawaba.tn as the access point to services and to the national citizen register, with sign-in through E-Houwiya used by services of many ministries and bodies ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 - The playbook lists online services across citizen, business, transport, education, university, social, civil servant, justice and finance categories, and citizen portal functions including birth acts, driving licence and vehicle data, electronic signature, notifications and complaints ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
+
+### Benin: 3 Established
+
+Benin's national portal offered over 200 services online in 2024 and 2026; sign-in by national ID or one shared account is not known.
+
+- Digital minister Aurelie Adam Soule Zoumarou said on 21 November 2024 that people can use more than 200 e-services on service-public.bj ([source, 2024-11-21](https://www.banouto.bj/societe/article/20241123-e-services-publics-au-benin-ces-chiffres-qui-temoignent-d-une-vision-salutaire-et-juste)).
+- Over 50 government institutions use the national public services portal and gateway to offer around 270 services, per Cybernetica ([source, 2025-02-19](https://cyber.ee/resources/news/cybernetica-and-benin-continue-enhancing-the-country-s-digitalisation/)).
+- A Benin official says the national platform, launched in March 2020 with five services, now has over 210 services digitalised end to end ([source, 2026-10-28](https://transcontinents.africa/fr/article/e-gouvernance-le-benin-et-la-mauritanie-a-lecole-estonienne)).
 
 ### Botswana: 3 Established
 
@@ -183,6 +133,35 @@ Ten or more government services could be completed online in 2025; a single gate
 
 - New Era says that only 13 public institutions currently offer online services, and NDP6 targets 100% digitalisation of government services by 2029/30 ([source, 2025-08](https://neweralive.na/namibia-targets-full-digital-transformation/)).
 
+### Rwanda: 3 Established
+
+Rwanda's national portal offered 240 services online in 2025; sign-in by national ID or one shared account is not known.
+
+- Minister Paula Ingabire told the Chamber of Deputies that the Irembo platform offers 240 government services, including civil registration, driving permits and business licences, which citizens can apply for online ([source, 2025-11-04](https://rwandadispatch.com/irembo-platform-transforms-access-to-public-services/)).
+- DIAL reports IremboGov is a one-stop portal for over 240 public services that citizens can access digitally and remotely ([source, 2025-05](https://dial.global/modern-governments-run-on-data-exemplars/)).
+- The deck says 247+ government services are available on Irembo, which is also the channel for Single Digital Identity pre-enrollment ([source, 2026-05](https://id4africa.com/2026/files/T1-3-1-Rwanda-FINAL.pdf)).
+
+### South Africa: 3 Established
+
+South Africa's national portal carried 134 services in 2024; sign-in by national ID or one shared account is not known.
+
+- DCDT says the National e-Government Portal currently allows access to 134 e-Services, including licensing, e-recruitment and exam queries, out of 255 services identified for digitisation ([source, 2024-10-11](https://www.dcdt.gov.za/media-statements-releases/532-south-africa-s-significant-improvement-in-the-united-nations-e-government-index-2024.html)).
+- The minister says the National e-Government Portal developed through SITA carries 92 digitised government services ([source, 2024-04-05](https://www.sanews.gov.za/index.php/south-africa/government-accelerates-programme-connect-citizens-internet)).
+
+### Sudan: 3 Established
+
+Sudan's national platform carried over 130 services from 46 bodies in 2026; sign-in by national ID or one shared account is not known.
+
+- Columnist Hassan al-Sir reports browsing the Baladna platform and finding 79 digital services from 42 government bodies ([source, 2026-08-18](https://totelnews.com/archives/18347)).
+- SUNA reports the Director General of Sudan's Digital Transformation Authority told the UN Governance Innovation Summit in Baku that the Baladna platform brings together more than 46 government institutions and 134 digital services ([source, 2026-11-06](https://www.suna.sd/posts/alsodan-yokd-mn-km-alamm-almthd-llabtkar-fy-alhokm-an-althol-alrkmy-mhrk-asasy-laaaad-alaaamar)).
+- The Baldna government-institutions and trade category lists 24 services, such as import registration, electronic export contracts and exporter-importer register renewals ([source, 2026-09-19](https://baldna.gov.sd/services/2/list/1)).
+
+### Zambia: 3 Established
+
+Zambia's national portal hosted 322 services in 2024; sign-in by national ID or one shared account is not known.
+
+- ZamPortal, the government platform on the GSB, hosts 322 services that citizens can access and apply for online, per its director Beaton Sibulowa ([source, 2024-09-11](https://zamportal.gov.zm/director-sibulowa-introduces-the-gsb/)).
+
 ### Angola: 2 Nascent
 
 Government services were going online in 2026; ten or more online are not on record.
@@ -221,6 +200,13 @@ Government services were going online in 2024; ten or more online are not on rec
 Government services were going online in 2024; ten or more online are not on record.
 
 - ANADEN lists a June 2024 technical meeting presenting the national online scholarship application portal (e-Bourse), marked as in progress ([source, 2024-06](https://anaden.org/realisations)).
+
+### Congo: 2 Nascent
+
+Congo's e-Citizen Portal let people file procedures and pay online in 2026; a count of ten or more services online is not known.
+
+- The Ministry's page says citizens can use the e-Citizen Portal, from computer or mobile, to file administrative procedures, pay taxes and fees, and track their files in real time ([source, 2026-09-02](https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi)).
+- Addinn's director general said at a 19 December 2024 meeting with the minister that the e-gouv platform, started in September 2024 on a 24-month timeline, will be put online for some priority public services, with nationality certificates and birth extracts soon to follow ([source, 2024-12-19](https://www.adiac-congo.com/content/numerique-les-partenaires-appeles-accelerer-le-projet-e-gouv-161844)).
 
 ### Cote d'Ivoire: 2 Nascent
 
@@ -350,6 +336,14 @@ Government services were going online in 2026; ten or more online are not on rec
 
 - The presidency says the e-Senegal one-stop portal, launched on 24 March 2026 by Prime Minister Ousmane Sonko, is operational and lets citizens complete passport applications, business creation, police clearance certificates and certificates of nationality online ([source, 2026-03-24](https://www.biometricupdate.com/202603/senegal-launches-digital-government-portal-to-ease-access-to-public-services)).
 
+### Seychelles: 2 Nascent
+
+Seychelles ran an online government services portal from 2024; a count of ten or more services online is not known.
+
+- Seychelles modernised government services through the monServis portal in 2024, and the Import and Export permit online service migrates to it from the E-Services Gateway on 1 May 2026, per the Trade Division and DICT ([source, 2026-05-01](https://www.nation.sc/articles/30391/import-and-export-services-to-transition-to-monservis-portal-on-may-1-2026)).
+- The Government of Seychelles' monServis portal lets users access, communicate and transact with government services online through listed eServices ([source, 2024](https://monservis.gov.sc)).
+- Seychelles Nation reports the government launched a revamped gov.sc, the official Government Portal, designed to give access to services and information ([source, 2026-06-23](https://nation.sc/articles/31239/seychelles-launches-revamped-govsc-portal-to-strengthen-digital-access)).
+
 ### Sierra Leone: 2 Nascent
 
 People could apply and pay for some government services by app in 2025; no source found says whether ten or more can be completed online.
@@ -363,6 +357,14 @@ Government services were going online in 2024; ten or more online are not on rec
 
 - Somalia introduced its Electronic Travel Authorization System (eVisa) in September 2025, requiring foreign travellers to obtain authorization online before travelling, which the federal Immigration and Citizenship Agency describes as a unified national entry system ([source, 2025-09](https://www.hiiraan.com/politics4/2026/Oct/206580/somali_federal_government_says_evisa_dispute_with_somaliland_resolved_but_hargeisa_denies_agreement.aspx)).
 - GovStack says a government-wide content management system serving as a service catalogue and a high school certificate service are being built, with official launch foreseen for Q4 2024 ([source, 2024-09-29](https://govstack.global/showcase/digital-leaders-spotlight-rwanda/)).
+
+### South Sudan: 2 Nascent
+
+South Sudan's portals took permits, licences and payments online in 2024 and 2026; a count of ten or more services online is not known.
+
+- The National Communication Authority's e-Services Platform was officially launched in Juba, for licensing, payments and other regulatory services online ([source, 2026-02-11](https://radioyei.org/news/technology/nca-e-services-go-live-across-south-sudan/)).
+- One Citizen Daily reports the launch of the National Communication Authority e-Services Platform, on which licensing and payments that once required office visits can now be completed online ([source, 2026-02-13](https://www.onecitizendaily.com/index.php/2026/02/13/south-sudan-digitizes-regulation-to-strengthen-revenue-collection/)).
+- The eServices portal offers online applications for permits and clearances from the revenue authorities, the Bureau of Standards accreditation permit, TIN registration on eTax and business registration, with payment online and permit delivered as PDF ([source, 2024](https://www.eservices.gov.ss/)).
 
 ### Tanzania: 2 Nascent
 

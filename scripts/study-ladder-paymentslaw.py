@@ -14,9 +14,9 @@ r"""study-ladder-paymentslaw.py — the payments law study's four questions, cou
 3. **Non-banks licensed under it**: a `reach` of `non-bank`, of any age.
 4. **Providers required to connect**: a `reach` of `connect`, of any age.
 
-**A yes to a later question answers the earlier ones** (method §3.3): a non-bank licensed
-under the rules shows the rules are in force, and a rule that mobile money providers must
-connect shows they are licensed. Stage 1 is a `standing` of `none` dated inside three years
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a later
+yes no longer answers the earlier ones, and a cell takes the last rung its evidence reaches
+without a gap. A law in force still answers question 1. Stage 1 is a `standing` of `none` dated inside three years
 with no draft or law on record. A fact dated after the as-at sets nothing. A year or a
 month stands for its last day.
 
@@ -85,9 +85,9 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         return {"stage": "no evidence", "standing": "", "reach": "", "sources": [],
                 "gaps": "Nothing found names a payments law, e-money rules or a draft of either, "
                         "or says there is none."}
-    if connect:
+    if law and nonbank and connect:
         s, src = "5", connect + nonbank[:1] + law[:1]
-    elif nonbank:
+    elif law and nonbank:
         s, src = "4", nonbank + law[:1]
     elif law:
         s, src = "3", law

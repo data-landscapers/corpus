@@ -10,4 +10,4 @@
 
 ***Also on file***. [ONECI civil status system](<https://digitalmag.ci/id-day-2025-lidentite-est-le-parapluie-de-tout-individu-dg-oneci/>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 says births or deaths are entered in the population register.

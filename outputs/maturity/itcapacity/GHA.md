@@ -12,4 +12,4 @@
 
 ***Also on file***. [Ghana Electronic Document Wallet (GEDW)](<https://nita.gov.gh/gedw-stakeholder-engagement/>); [G-Cloud](<https://imaniafrica.org/2026/10/the-missing-plumbing-of-the-state-why-ghanas-next-digital-leap-depends-on-a-whole-of-government-data-exchange/>).
 
-***Not found***. No source found says a system built by government staff went live since October 2023.
+***Not found***. Nothing further is asked of this indicator.

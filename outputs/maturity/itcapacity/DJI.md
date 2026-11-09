@@ -12,4 +12,4 @@
 
 ***Also on file***. [ANSIE (Agence Nationale des Systèmes d'Information de l'État)](<https://www.journalofficiel.dj/texte-juridique/loi-n210-an-25-9eme-l-portant-approbation-des-comptes-financiers-2024-de-lagence-nationale-des-systemes-dinformation-de-letat/>); [national data exchange layer](<https://ega.ee/project/djibouti-digital-interoperability-platform/>); [X-Road secure data exchange](<https://ega.ee/project/public-administration-modernisation-djibouti/>).
 
-***Not found***. No source found says a system built by government staff went live since October 2023.
+***Not found***. No source found from 2023 or later says government staff run or maintain any of its systems.

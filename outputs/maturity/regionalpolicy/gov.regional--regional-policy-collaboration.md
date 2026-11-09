@@ -21,9 +21,9 @@ The African Union's Digital Transformation Strategy for Africa (2020 to 2030) as
 | Stage | Countries |
 |---|---|
 | 5 Leading | 6 |
-| 4 Operating | 14 |
+| 4 Operating | 13 |
 | 3 Established | 23 |
-| 2 Nascent | 10 |
+| 2 Nascent | 11 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 1 |
@@ -133,12 +133,6 @@ Liberia's free roaming with Sierra Leone began in August 2025; no source found r
 
 - Liberia and Sierra Leone launched a free roaming arrangement in August 2025, letting subscribers travelling between them communicate at local rates; it has since extended to other West African countries with technical implementation progressing ([source, 2025-08](https://allafrica.com/stories/202609040182.html)).
 - The Liberia Revenue Authority and the Gambia Revenue Authority signed a memorandum of engagement under which LRA gives technical assistance to build a revenue collection dashboard prototype in The Gambia; the document gives no signing date, so its publication date is used ([source, 2026-09-21](https://thepoint.gm/africa/gambia/headlines/gra-and-liberia-revenue-authority-sign-deal-to-deepen-digital-cooperation)).
-
-### Mauritius: 4 Operating
-
-Mauritius hosted southern Africa's first regional cyber drill in 2018 and settles COMESA payments as at July 2026; no source reports use and joint decisions.
-
-- Bank of Mauritius Governor says the Bank acts as settlement bank for COMESA's REPSS, which facilitates cross-border payments among member states ([source, 2026-07-15](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)).
 
 ### Namibia: 4 Operating
 
@@ -368,6 +362,13 @@ Madagascar took part in African Union and southern African training and meetings
 
 - Madagascar sent a delegation led by the Minister of Labour, Employment and the Public Service to the SADC annual public service general assembly in Eswatini, 28-31 August 2026, where member states discussed digital transformation and digitalisation of public services among other topics; attendance only, no agreement signed ([source, 2026-08](https://moov.mg/article/120425-fonction-publique-madagascar-defend-une-administration-tournee-vers-les-citoyens-a-la-sadc)).
 - A data-policy training session held on 24 September 2025 in Antananarivo, part of a multi-day workshop run by Team Europe's Data Governance in Africa Action, brought together over 50 delegates from SADC, SATA, SAPOA and CRASA to discuss joint approaches to regional cooperation, data-sharing agreements and harmonised cross-border regulation ([source, 2025-09-24](https://www.bmz-digital.global/en/event/data-policy-workshop-regional-cooperation/)).
+
+### Mauritius: 2 Nascent
+
+Mauritius belongs to SADC, Smart Africa and COMESA's payment system as at 2026; no agreement, hosting or seat in the last three years is dated.
+
+- The Mauritius Cabinet record of 14 August 2026 states that Mauritius has been a member of SADC since 1995 and that the Prime Minister will attend the 46th SADC Summit in South Africa on 17 August 2026; the document does not mention digital policy ([source, 2026-08-14](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20Friday%2014%20August%202026.pdf)).
+- Bank of Mauritius Governor says the Bank serves as settlement bank for COMESA's Regional Payment and Settlement System (REPSS) ([source, 2026-07-15](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)).
 
 ### Sao Tome and Principe: 2 Nascent
 

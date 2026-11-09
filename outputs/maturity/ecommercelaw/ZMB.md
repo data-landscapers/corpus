@@ -8,4 +8,4 @@
 
 ***Also on file***. [National Public Key Infrastructure (NPKI)](<https://efficacynews.africa/2026/09/30/govt-reviews-electronic-communications-and-transactions-act/>).
 
-***Not found***. No regulation made under the Act has been found, the date of the regulator's designation is not held, and the text of the amendments is not held.
+***Not found***. No source found names a decree, regulation or order made under the law.

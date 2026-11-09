@@ -8,4 +8,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found dates a decision, order or penalty on a request, published figures of requests, or a rule made under the law, in the last three years.
+***Not found***. No law or draft is on record. No source from the last three years says the country has none.

@@ -21,11 +21,11 @@ The African Union's Protocol on Social Protection asks for a social protection i
 | Stage | Countries |
 |---|---|
 | 5 Leading | 3 |
-| 4 Operating | 14 |
+| 4 Operating | 10 |
 | 3 Established | 12 |
-| 2 Nascent | 15 |
+| 2 Nascent | 17 |
 | 1 Absent | 0 |
-| Unplaced | 1 |
+| Unplaced | 3 |
 | No evidence | 9 |
 
 ## Countries
@@ -51,30 +51,11 @@ The social registry was linked to the national ID and another sector in 2026.
 - The paper says the Imibereho platform is anchored in the national ID system and interoperates with more than 10 government databases, and that Smart Start targeting draws on both health MIS data and the social registry ([source, 2026-03](https://documents1.worldbank.org/curated/en/099031926174531406/pdf/BOSIB-8f413a7a-fae6-43b1-bf08-93edd39faf53.pdf)).
 - BMZ's Healthy DEvelopments says Imibereho is cross-checked with the National ID Agency and the health information system and is integrated with civil registration, so a registered birth updates the registry ([source, 2024-02-29](https://health.bmz.de/stories/rwandan-government-launches-imibereho-dynamic-social-registry/)).
 
-### Botswana: 4 Operating
-
-Two or more programmes shared one social registry in 2025; no source found reports links to another sector.
-
-- The World Bank's completion report says 98 percent of beneficiaries of the five main poverty-targeted social programmes were updated in the Single Social Registry by March 2025, against a 75.8 percent target ([source, 2025-03](https://documents1.worldbank.org/curated/en/099121825122532143/txt/BOSIB-35f31917-1454-433b-a021-4d7246073f71.txt)).
-
-### Burkina Faso: 4 Operating
-
-Two or more programmes shared one social registry in 2026; no source found reports links to another sector.
-
-- The document says the social registry is a gateway for various social programs to select their beneficiaries, and that PAMPV economic inclusion beneficiaries will be selected from the RSU database; it states the RSU covers about one-quarter of poor and vulnerable households and is rolled out in 10 regions ([source, 2026-05-22](https://documents1.worldbank.org/curated/en/099052726095539002/pdf/BOSIB-9b77474f-0575-4c43-a165-babff2ee4d7b.pdf)).
-
 ### Burundi: 4 Operating
 
 Two or more programmes shared one social registry in 2026; no source found reports links to another sector.
 
 - The World Bank says the Merankabandi social registry is also used by the World Bank-financed Soleil-Nyakiriza solar energy project to reach vulnerable households for subsidised solar kits ([source, 2026-05-01](https://www.worldbank.org/en/results/2026/05/01/building-burundi-s-national-social-protection-systems-to-deliver-jobs-and-respond-to-crises)).
-
-### Cape Verde: 4 Operating
-
-Two or more programmes shared one social registry in 2026; no source found reports links to another sector.
-
-- The Government of Cabo Verde states that the Cadastro Social Único is the base of the country's social support system, and that a registered eligible household can access targeted support including cash transfers, food security support and resilience programmes ([source, 2026-06-17](https://www.governo.cv/apelo-ao-registo-no-cadastro-social-unico-csu-para-agregados-familiares-em-zonas-climaticamente-vulneraveis/)).
-- The Cabo Verde minister says about 16 social programmes draw beneficiaries from the single social registry (CSU) ([source, 2024-02-20](https://www.governo.cv/governo-lanca-mecanismo-de-gestao-das-informacoes-e-reclamacoes-do-cadastro-social-unico/)).
 
 ### Egypt: 4 Operating
 
@@ -82,12 +63,6 @@ Several programmes shared one social registry in 2026, exchanging data through t
 
 - The World Bank says cash-plus interventions (FORSA, family planning with UNFPA, Waii with UNDP, the 1,000 days programme with WFP) are built on and target beneficiaries from the TKP social registry, which holds about 11.3 million registered households (40.5 million individuals); undated, so the published date is used ([source, 2024-05-28](https://www.worldbank.org/en/results/2024/05/28/promoting-inclusive-human-capital-development-and-building-resilience-in-egypt-through-cash-transfer-programs)).
 - The national social registry exchanges data with 27 government databases through the national ID number to verify data and sharpen targeting, per the Ministry of Social Solidarity's Raafat Shafik ([source, 2026-11-06](https://almessa.gomhuriaonline.com/764443/)).
-
-### Gambia: 4 Operating
-
-Two or more programmes shared one social registry in 2024; no source found reports links to another sector.
-
-- The World Bank blog says the Gambia Social Registry (GamSR), covering 203,022 households in 40 of 43 districts, underpinned the Nafa Quick COVID-19 response (78,422 households) and the Nafa cash-transfer programme (16,966 households), and is also used by the National Disaster Management Agency, the ROOTS project and the World Food Programme; no event date is given, so the publication date is used ([source, 2024-04-23](https://blogs.worldbank.org/en/nasikiliza/the-gambia-social-registry-a-success-story-in-systems-building)).
 
 ### Guinea: 4 Operating
 
@@ -233,6 +208,13 @@ A link between social protection systems was under way in 2026; none in service 
 - The ministry (MASFAMU) says the modernisation and expansion phase of the Cadastro Social Único, launched 20 July 2026, promotes interoperability between public institutions and integration of databases ([source, 2026-07-20](https://masfamu.gov.ao/home)).
 - MASFAMU launched the Cadastro Social Único on 20 July 2026 and says it will allow articulation between social programmes, local administration, civil registries, public institutions and sectoral databases ([source, 2026-07-20](https://angop.ao/noticias/sociedade/angola-lanca-cadastro-social-unico-para-gestao-de-accoes-sociais/)).
 
+### Burkina Faso: 2 Nascent
+
+A 2026 World Bank project funds linking the social registry to displaced-persons and health-insurance databases; no data exchange in use is known.
+
+- The World Bank approved on 15 June 2026 a US$120 million project (US$100m IDA credit, US$20m grant) that will promote integration of the social registry with other databases, including those for internally displaced persons and health insurance ([source, 2026-06-15](https://www.worldbank.org/en/news/press-release/2026/07/15/burkina-faso-new-world-bank-financing-to-expand-economic-opportunities-and-strengthen-social-protection-systems)).
+- The World Bank Board approved US$120 million on 15 June 2026 for a project that finances integration of the Registre Social Unique with the IDP, health-insurance and other key beneficiary databases ([source, 2026-06-15](https://www.worldbank.org/en/news/press-release/2026/07/15/burkina-faso-new-world-bank-financing-to-expand-economic-opportunities-and-strengthen-social-protection-systems)).
+
 ### Central African Republic: 2 Nascent
 
 A link between social protection systems was under way in 2026; none in service is on record.
@@ -279,6 +261,12 @@ A link between social protection systems was under way in 2026; none in service 
 
 - Gabonreview reports that on 28 April 2026 the DGI, CNSS and CNAMGS launched work on a single monthly wage declaration on one form accessible simultaneously by all three, with operation targeted for July 2026 ([source, 2026-04-28](https://www.gabonreview.com/dus-un-tournant-numerique-pour-la-transparence-salariale-au-gabon/)).
 
+### Gambia: 2 Nascent
+
+The social registry fed two cash-transfer programmes in 2024 and linking work was under way in 2025; no data exchange in use is known.
+
+- The World Bank's November 2025 status report on the RISE project says complementary systems strengthening, including social registry enhancements and interoperability efforts, progressed, without naming the systems linked ([source, 2025-11](https://documents1.worldbank.org/curated/en/099112925154035950/pdf/P179233-79b99711-b6ff-4c20-b5cb-2d5ef7838226.pdf)).
+
 ### Libya: 2 Nascent
 
 A link between social protection systems was under way in 2025; none in service is on record.
@@ -315,6 +303,18 @@ A link between social protection systems was under way in 2025; none in service 
 A link between social protection systems was under way in 2026; none in service is on record.
 
 - The Minister of Public Service, Labour and Social Welfare said ZISO, the social registry now being developed, will be used as part of the mechanism to identify beneficiaries of the BEAM education assistance programme, to be rolled out across 65 districts ([source, 2026-07-20](https://www.zbcnews.co.zw/government-develops-social-registry-to-strengthen-safety-nets/)).
+
+### Botswana: Unplaced
+
+The single social registry served five programmes by 2025, but nothing since October 2023 names systems exchanging data, so no stage is set.
+
+Not established: Nothing found since October 2023 names social protection systems exchanging data.
+
+### Cape Verde: Unplaced
+
+About 16 social programmes drew on the social registry in 2024, but nothing since October 2023 names systems exchanging data, so no stage is set.
+
+Not established: Nothing found since October 2023 names social protection systems exchanging data.
 
 ### Niger: Unplaced
 

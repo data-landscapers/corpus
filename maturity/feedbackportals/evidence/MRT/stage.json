@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "feedback",
-      "stage": "5",
+      "stage": "3",
       "channel": "inservice",
       "reach": "wide",
       "results": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "MRT-002",
-      "gaps": "",
-      "note": "The minister said in May 2025 that 96% of the 9,000 requests and complaints on the Ain app were processed, a yes to question 4, which answers the earlier questions. No source states its reach across government.",
-      "as_at": "2026-11-04"
+      "stage_sources": "MRT-001",
+      "gaps": "No source found says a national channel takes complaints about most ministries' or local governments' services or routes them across government.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: no source says the Ain app reaches across government; the 96% of complaints processed (MRT-002) does not answer question 3.",
+      "as_at": "2026-11-09"
     }
   ]
 }

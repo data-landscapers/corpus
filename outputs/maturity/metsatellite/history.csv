@@ -31,3 +31,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-06,MUS,data.geospatial--meteorological-use-of-satellite-data,fact,unplaced,unplaced,,"GCF FP161 row: regional early-warning project, no satellite data named; stays unplaced"
 2026-11-06,SYC,data.geospatial--meteorological-use-of-satellite-data,fact,5,5,SYC-002,GCF FP161 row: no satellite data named; stays 5 on certification; short no longer claims satellite-based warnings
 2026-11-09,BWA,data.geospatial--meteorological-use-of-satellite-data,ladder,no evidence,2,BWA-001,"Bill, message 93: Daily News (12 Dec 2023) reports China's donated satellite ground station; nothing says it operates"
+2026-11-09,TZA,data.geospatial--meteorological-use-of-satellite-data,ladder,5,3,TZA-001;TZA-002,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-09,SYC,data.geospatial--meteorological-use-of-satellite-data,ladder,5,3,SYC-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."

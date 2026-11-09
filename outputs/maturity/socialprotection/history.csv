@@ -28,3 +28,10 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-06,SOM,dpi.mis--social-protection,fact,no evidence,4,SOM-001;SOM-002,Baxnaano page 2025: all unconditional cash transfer payments by mobile money; no evidence to 4
 2026-11-06,ZWE,dpi.mis--social-protection,fact,unplaced,4,ZWE-002,"Gemnation 2024: HSCT pays by EcoCash, per the Auditor-General; unplaced to 4"
 2026-11-06,MAR,dpi.mis--social-protection,fact,no evidence,3,MAR-001,"Le Brief on the ANSS 2025 report: Direct Social Aid MIS (CNSS/CNRA, migrating to ANSS) manages 3.9m households at end-2025; no evidence to 3"
+2026-11-09,CIV,dpi.mis--social-protection,ladder,4,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to unplaced."
+2026-11-09,CMR,dpi.mis--social-protection,ladder,4,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to unplaced."
+2026-11-09,COG,dpi.mis--social-protection,ladder,4,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to unplaced."
+2026-11-09,UGA,dpi.mis--social-protection,ladder,5,3,UGA-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-09,SOM,dpi.mis--social-protection,ladder,4,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to unplaced."
+2026-11-09,ZWE,dpi.mis--social-protection,ladder,4,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to unplaced."
+2026-11-09,EGY,dpi.mis--social-protection,ladder,4,4,EGY-001;EGY-003,"Recounted under message 114 (each step met on its own evidence): later rows answer every step, so the stage holds."

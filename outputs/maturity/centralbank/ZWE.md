@@ -10,4 +10,4 @@
 
 ***Also on file***. [RTGS](<https://www.newsday.co.zw/local-news/article/200052094/rbz-cuts-limits-bank-charges-expands-mobile-and-zipit-limits>); [ZIPIT](<https://www.newsday.co.zw/local-news/article/200052094/rbz-cuts-limits-bank-charges-expands-mobile-and-zipit-limits>); [ZETSS (RTGS)](<https://www.rbz.co.zw/documents/nps/quarterly/2025/NPSD_FOURTH_QUARTER_REPORT_ACTIVITY_DECEMBER_2025.pdf>); [Zimswitch](<https://www.rbz.co.zw/documents/nps/quarterly/2025/NPSD_FOURTH_QUARTER_REPORT_ACTIVITY_DECEMBER_2025.pdf>); [UPI-based real-time payments system](<https://www.moneycontrol.com/news/business/zimbabwe-eyes-india-s-upi-tech-for-national-payments-network-npci-talks-may-wrap-by-october-31-14045247.html>); [PAPSS](<https://bullszimbabwe.com/digital-payments-surge-but-adoption-lags-survey/>).
 
-***Not found***. No source found since October 2023 says the Reserve Bank licenses payment providers or oversees a national switch.
+***Not found***. No source found since October 2023 says the Reserve Bank licenses payment providers or oversees a national switch. Only its mobile money directive is held.

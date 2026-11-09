@@ -1,18 +1,19 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "system",
-   "stage": "5",
-   "law": "in-force",
-   "treaty": "ratified",
-   "authority": "appointed",
-   "practice": "ruling",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MUS-010;MUS-014",
-   "gaps": "Nothing on the four questions.",
-   "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "system",
+      "stage": "4",
+      "law": "in-force",
+      "treaty": "ratified",
+      "authority": "appointed",
+      "practice": "implementing",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-015;MUS-018;MUS-014",
+      "gaps": "No ruling of the authority against a named organisation in the last three years has been found.",
+      "note": "Counted from the four questions by study-ladder-dataprotectionreadiness.py.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }

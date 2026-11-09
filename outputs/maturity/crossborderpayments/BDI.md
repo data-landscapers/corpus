@@ -10,4 +10,4 @@
 
 ***Also on file***. [BurundiPay](<https://www.channelafrica.co.za/channelafrica/news/burundi-integrates-comesa-payment-systems-to-boost-cross-border-trade/>); [EARDIP](<https://www.rtnb.bi/?mypost?id=529>); [PAPSS](<https://www.brb.bi/node/3303>).
 
-***Not found***. No source found since October 2023 gives a figure for cross-border digital payments.
+***Not found***. No source found since October 2023 says: is a corridor in service.

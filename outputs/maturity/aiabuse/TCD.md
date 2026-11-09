@@ -10,4 +10,4 @@
 
 ***Also on file***. [MCENDA](<https://www.unesco.org/ethics-ai/fr/chad>); [ADETIC](<https://www.unesco.org/ethics-ai/fr/chad>); [ANSICE](<https://www.unesco.org/ethics-ai/fr/chad>).
 
-***Not found***. No source found since October 2023 gives an enforcement or redress decision about a harm from AI.
+***Not found***. No source found since October 2023 says: is a rule or authority on ai harms being drafted.

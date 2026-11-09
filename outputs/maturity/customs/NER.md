@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found says customs declarations are processed in an automated system. The main port, airport and border posts were looked for.

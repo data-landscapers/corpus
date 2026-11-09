@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Overseeing a switch | Yes to 3 |
 | 5 Live on PAPSS | Yes to 4 |
 
-A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `mandate` (`licensing`, `drafting`, `none`) for stage 1 and questions 1 and 2, `switch` (`overseen`) for 3 and `regional` (`live`, `joined`, `regional`) for 4, where only `live` is a yes.
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114; method §3.3)*. `study.json` holds this as three aspects: `mandate` (`licensing`, `drafting`, `none`) for stage 1 and questions 1 and 2, `switch` (`overseen`) for 3 and `regional` (`live`, `joined`, `regional`) for 4, where only `live` is a yes.
 
 **Rung 5 rewritten** *(Bill, 2026-10-25)*: PAPSS fully operational only; a regional payment system (PI-SPI, GIMACPAY, SADC-RTGS, REPSS, EAPS) no longer answers it, and joining PAPSS does not. The 94 `linked` facts were revalued (`corrections.csv`). Nineteen cells fell from 5 to 4, and Uganda, whose only fact was the East African Payment System, to unplaced. Djibouti, the Gambia, Ghana, Liberia, Nigeria, Sierra Leone and Zimbabwe hold 5 on live PAPSS participation.
 

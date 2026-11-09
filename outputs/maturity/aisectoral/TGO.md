@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source says AI is in service in a public sector other than revenue.
+***Not found***. No single source found says AI is in service in the public systems of two or more sectors.

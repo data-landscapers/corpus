@@ -492,14 +492,16 @@ try:
     r = lambda i, a, v: {"row_id": f"KEN-{i}", "aspect": a, "value": v, "as_of": "2026-01"}  # noqa: E731
     city = [r(1, "reg", "inservice"), r(2, "web", "online")]
     on = dt.date(2026, 9, 30)
-    check("a later yes answers the earlier ones", first.stage(st, city, on, g, "", "")["stage"], "5")
-    check("but not a rung in must_show", first.stage(dict(st, must_show=[3]), city, on, g, "", "")["stage"], "3")
-    check("which its own evidence answers", first.stage(dict(st, must_show=[3]), city + [r(3, "wide", "nationwide")],
-                                                        on, g, "", "")["stage"], "5")
+    check("each rung needs its own evidence (message 114)", first.stage(st, city, on, g, "", "")["stage"], "3")
+    check("which, given, lets the count climb", first.stage(st, city + [r(3, "wide", "nationwide")],
+                                                            on, g, "", "")["stage"], "5")
+    check("a later yes alone places nothing", first.stage(st, [r(2, "web", "online")], on, g, "", "u")["stage"],
+          "unplaced")
+    yes = dict(st, later_yes=True)
+    check("later_yes true: a later yes answers the earlier ones", first.stage(yes, city, on, g, "", "")["stage"], "5")
+    check("but not a rung in must_show", first.stage(dict(yes, must_show=[3]), city, on, g, "", "")["stage"], "3")
     check("and a rung it skips is still answered from above",
-          first.stage(dict(st, must_show=[2]), [r(2, "web", "online")], on, g, "", "")["stage"], "2")
-    check("later_yes false asks every rung", first.stage(dict(st, later_yes=False), [r(2, "web", "online")],
-                                                          on, g, "", "u")["stage"], "unplaced")
+          first.stage(dict(yes, must_show=[2]), [r(2, "web", "online")], on, g, "", "")["stage"], "2")
 
     print("\nevidence that cannot be profiled")
     bad = dict(ev("KEN-1", "tiers", "T9", "last year"), date_precision="week", url="")

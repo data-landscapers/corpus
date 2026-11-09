@@ -1,17 +1,18 @@
 {
- "iso3": "COG",
- "cells": [
-  {
-   "sub_indicator": "socialmis",
-   "stage": "4",
-   "system": "inservice",
-   "payments": "electronic",
-   "integrated": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COG-001",
-   "gaps": "No source found since October 2023 says one information system serves several social programmes.",
-   "note": "First pass: counted from the four questions by study-ladder-socialprotection.py."
-  }
- ]
+  "iso3": "COG",
+  "cells": [
+    {
+      "sub_indicator": "socialmis",
+      "stage": "unplaced",
+      "system": "",
+      "payments": "",
+      "integrated": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found since October 2023 says whether a social programme runs on an information system.",
+      "note": "First pass: counted from the four questions by study-ladder-socialprotection.py.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }

@@ -1,18 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "centralbank",
-   "stage": "5",
-   "mandate": "licensing",
-   "switch": "overseen",
-   "regional": "live",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-003;NGA-002",
-   "gaps": "",
-   "note": "Remita's app sends money from Nigerian bank accounts to other African countries over PAPSS (September 2026), and PAPSS reaches mobile wallets on the Ghana-Nigeria corridor. That is live participation in a continental system.",
-   "as_at": "2026-10-24"
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "centralbank",
+      "stage": "3",
+      "mandate": "licensing",
+      "switch": "overseen",
+      "regional": "live",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-008;NGA-001;NGA-006",
+      "gaps": "No source found since October 2023 says the Central Bank of Nigeria runs or oversees a national payment switch or interoperability arrangement in service.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: no source says the Central Bank of Nigeria runs or oversees a national switch; licensing one switching company is not that, and Nigerian banks live on PAPSS was the higher fact.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }

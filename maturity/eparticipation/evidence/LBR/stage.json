@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "eparticipation",
-      "stage": "4",
+      "stage": "unplaced",
       "online": "standing",
       "published": "published",
       "required": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBR-002",
-      "gaps": "No source found since October 2023 says a rule requires drafts to be put online for public comment.",
-      "note": "Reassessed 2026-11-03: the telecoms regulator's March 2024 final report sets out the inputs received on its draft QoS Regulations and its decision on each. The draft went online in 2021, before the window, but the later answer carries the earlier one; nothing says a rule requires drafts online.",
-      "as_at": "2026-11-03"
+      "stage_sources": "",
+      "gaps": "No source found since October 2023 says a ministry, parliament or regulator posted a named draft online for public comment.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: no source since October 2023 shows a draft put online for comment; the QoS draft went online in 2021, and the 2024 report of inputs (LBR-002) does not answer question 1.",
+      "as_at": "2026-11-09"
     }
   ]
 }

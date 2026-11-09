@@ -10,4 +10,4 @@
 
 ***Also on file***. [LITAS](<https://mfdp.gov.lr/index.php/media-center/press-release/joint-press-conference-by-the-ministry-of-finance-and-development-planning-liberia-revenue-authority-and-central-bank-of-liberia-on-gac-s-compliance-audit-report-on-the-government-of-liberia-revenue-collection-and-reconciliation-processes-for-the-period-july-1-2018-to-december-31-2024>); [Enhanced Collateral Registry System](<https://liberianinvestigator.com/liberia-digital-collateral-registry-business-credit/>).
 
-***Not found***. No source found since October 2023 says a trade single window is in service; the national one is still being procured.
+***Not found***. No source found since October 2023 says a trade single window is in service.

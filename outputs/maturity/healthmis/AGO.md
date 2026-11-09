@@ -10,4 +10,4 @@
 
 ***Also on file***. [eLMIS](<https://dhis2.org/pt-pt/angola-to-partner-with-hisp-uio-and-who/>).
 
-***Not found***. Nothing found names a link between the system and surveillance, the supply chain or a register.
+***Not found***. No source found since October 2023 links the national system to another. Surveillance, the medicines supply chain and patient or immunisation registers were looked for.

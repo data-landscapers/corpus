@@ -1,6 +1,6 @@
 # Tax: tax
 
-*As at 2026-09-30.*
+*As at 2026-08-31.*
 
 ## The norm
 
@@ -21,9 +21,9 @@ TADAT asks for electronic filing and payment of all core taxes, filing mandatory
 | Stage | Countries |
 |---|---|
 | 5 Leading | 5 |
-| 4 Operating | 20 |
+| 4 Operating | 19 |
 | 3 Established | 10 |
-| 2 Nascent | 10 |
+| 2 Nascent | 11 |
 | 1 Absent | 0 |
 | Unplaced | 6 |
 | No evidence | 3 |
@@ -188,12 +188,6 @@ Taxes could be filed online and paid electronically in 2025; no source found rep
 
 - NRA Commissioner General Jeneba Bangura said that through ITAS taxpayers can pay electronically, and that wallet money and mobile money now allow payments to be made electronically ([source, 2025-12](https://sierraloaded.sl/news/nra-digital-tax-mobile-payments-modernise/)).
 
-### South Sudan: 4 Operating
-
-Taxes could be filed online and paid electronically in 2026; no source found reports mandatory or majority online filing.
-
-- The SSRA Commissioner General directed that all government revenues, including taxes, be paid exclusively through the National e-Tax System, with electronic receipts as proof of payment, per Sudans Post ([source, 2026-03-13](https://www.sudanspost.com/south-sudan-bans-manual-revenue-collection-orders-mandatory-e-tax-system-usage/)).
-
 ### Botswana: 3 Established
 
 Tax returns could be filed online in 2025; no source found reports electronic payment.
@@ -311,6 +305,13 @@ An electronic tax system was under way in 2024; online filing is not on record.
 An electronic tax system was under way in 2025; online filing is not on record.
 
 - The World Bank ISR (archived 26 Nov 2025) says the contract for the Integrated Tax Administration System was signed after the September 2025 mid-term review, with online filing by large taxpayers still at 0% awaiting ITAS implementation ([source, 2025-10](https://documents1.worldbank.org/curated/en/099112625052026899/pdf/P177298-a188364c-8fe9-4a23-a8d1-afb09ca7c17a.pdf)).
+
+### South Sudan: 2 Nascent
+
+An e-tax system for filing and payment was being rolled out in 2026, with taxes paid through it; online filing of returns is not known.
+
+- The SSRA is rolling out its e-tax system, described as a platform to automate tax filings and payments, with seven of its state head offices digitized so far and others to follow, per One Citizen Daily quoting the Commissioner of Domestic Taxes ([source, 2026-03-10](https://www.onecitizendaily.com/index.php/2026/03/10/south-sudan-tax-digital-first-strategy-to-combat-revenue-leakages/)).
+- One Citizen Daily reports the SSRA review of its E-Tax reform, a platform designed for tax registration, filing and payment, noting strides in automating tax filing alongside limited infrastructure and low taxpayer awareness ([source, 2025-09-25](https://www.onecitizendaily.com/index.php/2025/09/26/ssra-pushes-digital-reforms-to-boost-transparency-efficiency/)).
 
 ### Tanzania: 2 Nascent
 

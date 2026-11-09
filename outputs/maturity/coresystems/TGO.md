@@ -14,4 +14,4 @@
 
 ***Also on file***. [SOLAF](<https://finances.gouv.tg/formation-des-agents-ordonnateurs-regionaux-en-execution-du-budget-de-letat-dans-solaf/>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found from 2023 or later says both the tax system and the payroll are in use.

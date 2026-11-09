@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Across the system | Yes to 3 |
 | 5 Patients matched | Yes to 4 |
 
-A later yes answers the earlier ones (method §3.3). **A national exchange in service is taken to link three or more systems, unless a source shows it links fewer** *(Bill, 2026-11-09, message 81)*: Cameroon's platform links only insurance enrolment and billing, and stays at 3. `study.json` holds this as three aspects: `exchange` (`inservice`, `underway`, `none`) for questions 1 and 2, `breadth` (`wide`) for 3 and `identifier` (`linked`) for 4. **For the drafter**: the system's name goes in `system`, the bodies or systems it links in the fact.
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114; method §3.3)*. **A national exchange in service is taken to link three or more systems, unless a source shows it links fewer** *(Bill, 2026-11-09, message 81)*: Cameroon's platform links only insurance enrolment and billing, and stays at 3. `study.json` holds this as three aspects: `exchange` (`inservice`, `underway`, `none`) for questions 1 and 2, `breadth` (`wide`) for 3 and `identifier` (`linked`) for 4. **For the drafter**: the system's name goes in `system`, the bodies or systems it links in the fact.
 
 - **Stage 4 needs one exchange joining three or more systems** *(Bill, 2026-11-09, message 96)*: separate links into one hub, such as two systems each feeding DHIS2, do not count. Somalia stays at 3.
 

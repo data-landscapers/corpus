@@ -1,6 +1,6 @@
 # Technology hubs: technology hubs
 
-*As at 2026-10-18.*
+*As at 2026-08-31.*
 
 ## The norm
 
@@ -20,21 +20,15 @@ The Digital Transformation Strategy asks for a technology park and incubation hu
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
+| 5 Leading | 0 |
 | 4 Operating | 4 |
-| 3 Established | 33 |
+| 3 Established | 34 |
 | 2 Nascent | 16 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 0 |
 
 ## Countries
-
-### Cape Verde: 5 Leading
-
-A technology park was open with tenants in 2025.
-
-- TechPark CV currently hosts 23 companies, with capacity for up to 1,500 workers, per TechAfrica News ([source, 2025-05-05](https://techafricanews.com/2025/05/05/cape-verde-unveils-e45m-tech-hub-to-drive-digital-growth/)).
 
 ### Burundi: 4 Operating
 
@@ -74,6 +68,12 @@ A hub ran a programme for startups in 2026; hubs in more than one city are not o
 
 - We Are Tech Africa reports the Botswana Innovation Fund and Scalar International launched a 12-month accelerator supporting ten climate and digital startups ([source, 2026-03-18](https://www.wearetech.africa/en/fils-uk/brief/brief-simple/botswana-rolls-out-innovation-accelerator-for-climate-digital-startups)).
 - TechCabal reports the Botswana Innovation Fund and Scalar International launched on 10 March 2026 in Gaborone a 12-month programme supporting 10 climate and digital startups ([source, 2026-03-10](https://techcabal.com/2026/03/17/botswana-to-support-clean-energy-startups/)).
+
+### Cape Verde: 3 Established
+
+Hubs ran incubation programmes in 2025 and a technology park hosted 23 companies; hubs with programmes in two or more cities are not known.
+
+- AfriLabs lists Maio Business Center as offering programs for incubating and accelerating businesses, and KMindz as operating a Women in Technology Incubator with Proempresa, in Cabo Verde ([source, 2025](https://www.afrilabs.com/hub_country/cabo-verde-cape-verde/)).
 
 ### Central African Republic: 3 Established
 

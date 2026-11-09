@@ -8,4 +8,4 @@
 
 ***Also on file***. [Data Protection Act](<https://mitci.govmu.org/mitci/wp-content/uploads/2026/06/117_The-Data-Protection_Designation-Tasks-and-Position-of-Data-Protection-Officers_Reg.pdf>); [Data Protection Act 2017](<https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf>); [Data Protection (Fees) Regulations 2020](<https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf>); [Guidelines for the insurance sector](<https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf>); [Code of Practice for CCTV Systems operated by the Mauritius Police Force (March 2010)](<https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf>); [Draft Data Protection Bill](<https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf>).
 
-***Not found***. Nothing on the four questions.
+***Not found***. No ruling of the authority against a named organisation in the last three years has been found.

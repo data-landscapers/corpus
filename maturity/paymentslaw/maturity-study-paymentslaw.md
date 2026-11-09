@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Operating | Yes to 1, 2 and 3: companies that are not banks can be licensed under it |
 | 5 Leading | Yes to all four: a rule requires providers to connect to each other |
 
-- **A yes to a later question answers the earlier ones**: a non-bank licensed under the rules shows the rules are in force.
+- **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*.
 - **No question has a time limit**; a law or rule stands, with its year, until a dated source says it is repealed, replaced or struck down.
 - **A statement that there is no law counts for three years.**
 - **A regional central bank's regulation counts for each member country it binds**: the BCEAO's for the eight WAEMU states, the CEMAC and BEAC regulations for the six CEMAC states. A licence is a yes to question 3 only for the country it is issued in.

@@ -20,8 +20,8 @@ The African Union's Data Policy Framework, endorsed by the Executive Council in 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 14 |
-| 4 Operating | 16 |
+| 5 Leading | 12 |
+| 4 Operating | 18 |
 | 3 Established | 8 |
 | 2 Nascent | 4 |
 | 1 Absent | 12 |
@@ -37,13 +37,6 @@ Law in force since 2011; the authority is appointed and working, and fined a hot
 - Angola's Agência de Protecção de Dados fined Lizíria, Lda. (owner of Hotel Diamante) the kwanza equivalent of USD 115,000 under Deliberação n.º 006/2026 of 10 August 2026 for breaching articles 30 and 31 of the Lei de Protecção de Dados Pessoais ([source, 2026-08-10](https://sapo.pt/artigo/agencia-de-proteccao-de-dados-de-angola-multa-hotel-diamante-em-115-mil-dolares-6a857707bf642b2fcc16d93b)).
 - Valor Económico reported on 26 June 2026 that the APD fined Crescer Tech about USD 505,000 (c. 549 million kwanzas) for no notification or prior authorisation and an unauthorised international transfer to foreign cloud servers, and Fast Digital Center USD 112,000 (c. 110 million kwanzas) for inadequate security measures and no notification; deliberation dates are not given, so the publication date is used ([source, 2026-06-26](https://valoreconomico.co.ao/artigo/apd-aplica-multas-milionarias-a-empresas-por-armazenarem-informacoes-pessoais-sem-autorizacao)).
 - The APD's own FAQ page tells citizens to lodge complaints about breaches of the data protection law with the APD and says it assesses transfer adequacy case by case under art. 33 of Lei 22/11; the page is undated, so the published date is used ([source, 2026-08-27](https://apd.ao/ao/perguntas-frequentes/questoes-sobre-proteccao-de-dados/)).
-
-### Benin: 5 Leading
-
-Law in force since 2018; the authority is appointed and working, and published figures for its decisions in 2025.
-
-- The APDP's published 2025 report, as relayed by La Nation, gives 907 files examined and 793 validated (606 authorisations, 187 declarations), 782 cases handled by its control and litigation service, 64 inspection missions, 20 complaints treated and 75 compliance certificates issued ([source, 2025](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-en-2025-au-benin-lapdp-dresse-un-bilan-sous-le-signe-de-la-conformite)).
-- Seventeen officers of Benin's data protection authority (APDP) were sworn in before the Court of First Instance of Cotonou on 14 September 2026 under Article 468(2) of the Digital Code, on the instruction of the APDP president ([source, 2026-09-14](https://techreviewafrica.com/news/7230/17-apdp-benin-officers-sworn-in-to-strengthen-commitment-to-personal-data-protection)).
 
 ### Botswana: 5 Leading
 
@@ -92,13 +85,6 @@ Law 2013-015 is in force and its authority works; it fined a Bamako clinic and a
 - APA News reports that in 2025 the APDP fined a Bamako clinic 5 million FCFA for obstructing a verification mission linked to an undeclared video-surveillance system ([source, 2025](https://fr.apanews.net/community/mali-lapdp-examine-2-000-dossiers-et-un-projet-darrete/)).
 - TechGriot reports Mali's data protection authority (APDP) received the First Rapporteur of Benin's authority on 2026-09-04 and runs regional offices in Kayes, Sikasso, Segou and Mopti handling awareness, advice and complaint intake ([source, 2026-09-04](https://techgriot.co/english/africa/2026/09/mali-and-benin-deepen-cooperation-on-data-protection/)).
 
-### Mauritius: 5 Leading
-
-A law is in force and the authority is working; in 2024 it reported rejecting 12 cross-border transfers and closing 39 complaints.
-
-- The Data Protection Office reports for January to December 2024: 179 new complaints (158 on CCTV), 39 complaints closed, 105 personal data breaches notified, 112 cross-border transfers authorised and 12 rejected under section 36, 10 impact assessments received, and four compliance inspections ([source, 2024](https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf)).
-- The Data Protection Office, with a Commissioner who takes registrations, issued the guidance itself in September 2026 ([source, 2026-09](https://dataprotection.govmu.org/Documents/Advice%20to%20%20MCs%20on%20Registration.pdf)).
-
 ### Nigeria: 5 Leading
 
 A data protection law is in force and the authority is working; it fined Multichoice Nigeria in 2025.
@@ -146,6 +132,13 @@ The law is in force and the authority is working in 2026; no ruling against an o
 - The article reports a study day at the national police college on the law's requirements for security work, and announces a unified guidance guide for administrative, security and judicial procedures; it reports no decision ([source, 2026-07](https://www.elmoudjahid.dz/fr/actualite/securisation-de-l-espace-numerique-l-engagement-sans-faille-de-la-dgsn-255551)).
 - The article states that the ANPDP's deliberation sets consent, information and transfer rules for images and that individuals may complain to the ANPDP; it reports no sanction or count of decisions ([source, 2026-07-15](https://www.wearetech.africa/fr/fils/actualites/tech/lalgerie-durcit-les-regles-de-publication-des-images-sur-les-plateformes-numeriques)).
 - The article names Samir Bourehil as president of the ANPDP, present at the study day with the Justice and Interior ministers ([source, 2026-07](https://www.elmoudjahid.dz/fr/actualite/securisation-de-l-espace-numerique-l-engagement-sans-faille-de-la-dgsn-255551)).
+
+### Benin: 4 Operating
+
+Law in force since 2018; the authority published figures for its decisions in 2025. A ruling against a named organisation is not known.
+
+- The APDP's published 2025 report, as relayed by La Nation, gives 907 files examined and 793 validated (606 authorisations, 187 declarations), 782 cases handled by its control and litigation service, 64 inspection missions, 20 complaints treated and 75 compliance certificates issued ([source, 2025](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-en-2025-au-benin-lapdp-dresse-un-bilan-sous-le-signe-de-la-conformite)).
+- Seventeen officers of Benin's data protection authority (APDP) were sworn in before the Court of First Instance of Cotonou on 14 September 2026 under Article 468(2) of the Digital Code, on the instruction of the APDP president ([source, 2026-09-14](https://techreviewafrica.com/news/7230/17-apdp-benin-officers-sworn-in-to-strengthen-commitment-to-personal-data-protection)).
 
 ### Burkina Faso: 4 Operating
 
@@ -207,6 +200,14 @@ A 2017 law is in force and its authority met monthly and took decisions in 2026;
 - At the 30 June 2026 session the APD took decisions on its agenda, which included authorisation requests (AOUN data access for TAAZOUR, SAMU caller geolocation, SEHATY insured data), the data-hosting coordination with AN-ETAT and IMT, and ministries' compliance answers under its BEYANAT-HIMAYE programme; the page does not state the outcomes ([source, 2026-06-30](https://www.apd.mr/fr/reunion-mensuelle-ordinaire-de-lautorite-de-protection-des-donnees-a-caractere-personnel-18/)).
 - The site advertises awareness days for ministries' data protection correspondents, electronic communications firms and financial institutions, and compliance support for controllers; the days are undated, so the site's published date of 2026-05-06 is used ([source, 2026-05](https://www.apd.mr/fr/)).
 - The president of Mauritania's personal data protection authority, Mohamed Lemine Sidi, was sworn in for a second term before the Supreme Court in Nouakchott on Wednesday 2026-10-07, with the authority's secretary general present (AMI, republished by RIM Web 2026-10-08) ([source, 2026-10-07](https://rimweb.net/2026/10/08/le-president-de-lautorite-de-protection-des-donnees-a-caractere-personnel-prete-serment-pour-un-second-mandat/)).
+
+### Mauritius: 4 Operating
+
+A law is in force and the authority reported figures for 2024; a ruling against a named organisation is not known.
+
+- The Data Protection Office issued guidance on registration of controllers and processors and on Data Protection Officers, and says it may carry out site visits ([source, 2026-09](https://dataprotection.govmu.org/Documents/Advice%20to%20%20MCs%20on%20Registration.pdf)).
+- Acclime reports the Office issued registration and Data Protection Officer guidance and may make site visits ([source, 2026-09](https://global.acclime.com/news/managed-entities-need-own-data-protection-registration/)).
+- The Data Protection Office, with a Commissioner who takes registrations, issued the guidance itself in September 2026 ([source, 2026-09](https://dataprotection.govmu.org/Documents/Advice%20to%20%20MCs%20on%20Registration.pdf)).
 
 ### Morocco: 4 Operating
 

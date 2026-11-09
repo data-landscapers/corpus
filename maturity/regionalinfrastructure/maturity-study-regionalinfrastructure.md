@@ -53,7 +53,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Operating | Yes to 1 to 3: one kind in service |
 | 5 Leading | Yes to all four: two kinds in service |
 
-- **A yes to a later question answers the earlier ones**: a link in service was agreed and built.
+- **Each step must be met** *(message 114)*, but a link in service answers 1 and 2.
 - **Questions 3 and 4 have no time limit**; a facility in service stands until a dated source says it is cut or closed. Questions 1 and 2 count for three years.
 - **A company counts only as a party to an arrangement with the other country's operator or body.** One company's or one group's network across borders, with its own subsidiaries or wholesale customers, is `other`.
 - **Foreign networks joining an exchange as members is commercial use, not collaboration** *(settles message 78)*: a yes needs an agreement between the exchange or its national body and a body of the other country, or a regional programme naming both. Neither South Africa (NAPAfrica) nor the Democratic Republic of the Congo (KINIX) takes a yes on peering alone.

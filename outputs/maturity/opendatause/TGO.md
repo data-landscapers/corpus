@@ -8,4 +8,4 @@
 
 ***Also on file***. [Open Data](<https://www.togofirst.com/fr/tic/1811-17583-transformation-digitale-le-togo-lance-son-observatoire-national-du-numerique>); [Géoportail Open Data](<https://www.togofirst.com/fr/tic/1811-17583-transformation-digitale-le-togo-lance-son-observatoire-national-du-numerique>); [Observatoire national du numérique (ONN)](<https://www.togofirst.com/fr/tic/1811-17583-transformation-digitale-le-togo-lance-son-observatoire-national-du-numerique>); [Géoportail](<https://lavoixdelanation.tg/index.php/2025/01/08/democratisation-de-lacces-aux-donnees-publiques-au-togo/>); [Open Data platform (opendata.gouv.tg)](<https://opendata.gouv.tg/fr/posts/lancement-des-plateformes-open-data-et-geoportail-open-data-du-togo/>); [Geoportail Open Data](<https://opendata.gouv.tg/fr/posts/lancement-des-plateformes-open-data-et-geoportail-open-data-du-togo/>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 states an open licence. None gives terms that let anyone reuse public data.

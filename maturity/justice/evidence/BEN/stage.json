@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "justice",
-      "stage": "4",
-      "cases": "inservice",
-      "filing": "online",
+      "stage": "2",
+      "cases": "underway",
+      "filing": "",
       "public": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BEN-004",
-      "gaps": "No source found since October 2023 says judgments are published or case status can be looked up online.",
+      "stage_sources": "BEN-001",
+      "gaps": "No source found since October 2023 says: do courts manage cases electronically.",
       "note": "First pass: counted from the four questions by study-ladder-justice.py.",
-      "as_at": "2026-10-18"
+      "as_at": "2026-11-09"
     }
   ]
 }

@@ -10,4 +10,4 @@
 
 ***Also on file***. [The MSL E-Dictionary](<https://www.lemauricien.com/actualites/societe/ecole-des-sourds-lancement-dun-dictionnaire-electronique-de-langue-des-signes/683699/>), and the [Protection and Promotion of the Rights of Persons with Disabilities Act 2024](<https://disability.govmu.org/disabilities/wp-content/uploads/2025/01/Concluding-Observations-Final-2024.pdf>).
 
-***Not found***. No rule in force requiring accessible public websites has been found. No published audit results for public websites have been found.
+***Not found***. No rule in force is found. In 2024 the UN disability committee said the new Act does not cover accessible formats. No source since October 2023 names a rule requiring accessible services.

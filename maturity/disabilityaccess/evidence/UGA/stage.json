@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "accessibility",
-      "stage": "4",
+      "stage": "2",
       "rule": "inforce",
       "delivered": "delivered",
       "audit": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-001;UGA-002",
-      "gaps": "No source found since October 2023 gives the results of an accessibility audit of public websites or digital services.",
-      "note": "Reassessed 2026-11-01: the National Council for Persons with Disabilities opened an ICT hub with accessible facilities in Kasese in 2026. No audit result is held, so not 5.",
-      "as_at": "2026-11-01"
+      "stage_sources": "UGA-004;UGA-005",
+      "gaps": "No source found since October 2023 says a law, regulation, policy or standard in force requires public information, websites or digital services to be accessible to persons with disabilities.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: no source says a rule in force requires accessible public information or services; the ICT4PWD programme and Kasese ICT hub show delivery, not the rule.",
+      "as_at": "2026-11-09"
     }
   ]
 }

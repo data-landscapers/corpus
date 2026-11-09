@@ -20,9 +20,9 @@ The African Charter on Statistics (2009) obliges its parties to bring national l
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
+| 5 Leading | 5 |
 | 4 Operating | 8 |
-| 3 Established | 38 |
+| 3 Established | 40 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -36,13 +36,6 @@ Angola's 2011 statistics law is in force; a March 2026 decree under it reset the
 
 - Decreto Presidencial n.º 43/26 of 10 March 2026 is the organic statute of INE, setting it up as central executive body of the national statistical system under the Lei do Sistema de Estatística Nacional and revoking the 2017 statute ([source, 2026-03-10](https://lex.ao/docs/presidente-da-republica/2026/decreto-presidencial-n-o-43-26-de-10-de-marco/)).
 - The document is the text of Angola's Lei n.º 3/11 of 14 January 2011, the Lei do Sistema Estatístico Nacional, passed by the Assembleia Nacional and published in the Diário da República I Série n.º 9 on that date; it replaces the 1996 statistics law (Lei n.º 15/96) and sets up the national statistical system ([source, 2011-01-14](https://lex.ao/docs/assembleia-nacional/2011/lei-n-o-3-11-de-14-de-janeiro/)).
-
-### Botswana: 5 Leading
-
-Botswana's Statistics Act has been in force since 2010 and its board sat as required in 2023/24; no source found reports regulations under it.
-
-- The annual report says the Statistics Botswana Board is constituted in conformity with section 6 of the Statistics Act, with nine members appointed by the Minister and the Statistician General ex-officio, in the year to 31 March 2024 ([source, 2024-03-31](https://statsbots.org.bw/sites/default/files/documents/Statistics%20Botswana%20Annual%20Report%202023-24.pdf)).
-- The document is the text of Botswana's Statistics Act (Cap. 17:01, Act No. 15 of 2009), which establishes Statistics Botswana and the National Statistical System and states a commencement date of 1 December 2010 ([source, 2010-12-01](https://statsbots.org.bw/sites/default/files/documents/Statistics%20Act%202009.pdf)).
 
 ### Burkina Faso: 5 Leading
 
@@ -73,13 +66,6 @@ Togo's 2011 statistics law is in force with decrees of 2012 and 2015, and its st
 - INSEED reports that the National Statistics Council, the body the 2011 law sets up, held its 13th ordinary session on 30 June 2026 under its president and adopted the 2023 and 2024 national statistical activity reports ([source, 2026-06-30](https://inseed.tg/conseil-national-de-la-statistique-13e-session-ordinaire-le-togo-adopte-des-orientations-strategiques/)).
 - The strategy cites Decree No. 2015-020/PR of 24 February 2015 setting the functions, organisation and operating rules of INSEED as an implementing text of the statistics law ([source, 2015-02-24](https://afristat.org/wp-content/uploads/2022/04/22_Togo-SNDS-II_Adopte-CNS-le-27aout20_avant-propos-signe-MPDC.pdf)).
 - INSEED's own page states that law no. 2011-014 sets the fundamental principles and institutional framework of the national statistical system, and that the bill was voted by the National Assembly and promulgated on 3 June 2011 ([source, 2011-06-03](https://inseed.tg/a-propos-de-linseed/)).
-
-### Zambia: 5 Leading
-
-Zambia's 2018 Statistics Act is in force and the statistics agency issued the release calendar it requires in December 2025; no source found reports regulations.
-
-- The Zambia Statistics Agency issued the National Statistical Release Calendar for 2026 on 2025-12-01, which the document says Section 27(1) of the Act requires it to prepare ([source, 2025-12-01](https://www.zamstats.gov.zm/wp-content/uploads/2026/03/2026-NSRC-1.12.2025.pdf)).
-- The 2026 release calendar cites Statistics Act No 13 of 2018 as the law under which the Zambia Statistics Agency acts ([source, 2018](https://www.zamstats.gov.zm/wp-content/uploads/2026/03/2026-NSRC-1.12.2025.pdf)).
 
 ### Algeria: 4 Operating
 
@@ -145,6 +131,13 @@ Benin's June 2022 statistics law is in force and was cited by a 2026 decree; no 
 
 - The document is the text of Loi n° 2022-07 of 27 June 2022 on the organisation and regulation of statistical activities in Benin, adopted by the National Assembly on 2 June 2022 and promulgated by the President ([source, 2022-06-27](https://instad.bj/images/docs/lois_decrets/LOI%20N%C2%B0%202022-07%20DU%2027%20JUIN%202022%20STATISTIQUE.pdf)).
 - Decree 2026-002 of 21 January 2026 cites, among its legal bases, law no. 2022-07 of 27 June 2022 on the organisation and regulation of statistical activities in Benin ([source, 2022-06-27](https://sgg.gouv.bj/doc/decret-2026-002/download)).
+
+### Botswana: 3 Established
+
+The Statistics Act has been in force since 2010 and its board sat in 2023/24; no regulation or order made under it is known.
+
+- The document is the text of Botswana's Statistics Act (Cap. 17:01, Act No. 15 of 2009), which establishes Statistics Botswana and the National Statistical System and states a commencement date of 1 December 2010 ([source, 2010-12-01](https://statsbots.org.bw/sites/default/files/documents/Statistics%20Act%202009.pdf)).
+- Statistics Botswana's annual report says the body is established under the Statistics Act of 2009 and is guided by it in carrying out its mandate ([source, 2009](https://statsbots.org.bw/sites/default/files/documents/Statistics%20Botswana%20Annual%20Report%202023-24.pdf)).
 
 ### Burundi: 3 Established
 
@@ -383,6 +376,13 @@ Uganda's 1998 statistics act is in force and its board chairman invoked it in Au
 
 - The chairman of the UBOS Board, speaking to the Finance Minister, said UBOS was established under the Uganda Bureau of Statistics Act, 1998 and continues to coordinate the National Statistical System under it (Ministry of Finance report of 7 August 2026) ([source, 1998](https://www.finance.go.ug/media-center/news-and-updates/finance-minister-calls-stronger-evidence-based-statistics-support)).
 - The document is the text of the Uganda Bureau of Statistics Act (Chapter 310), which establishes the Bureau and the national statistical system and commenced on 11 June 1998 ([source, 1998-06-11](https://ulii.org/akn/ug/act/1998/12/eng@2000-12-31/source)).
+
+### Zambia: 3 Established
+
+The 2018 Statistics Act is in force and its release calendar was issued in December 2025; no regulation or order made under it is known.
+
+- The 2026 release calendar cites Statistics Act No 13 of 2018 as the law under which the Zambia Statistics Agency acts ([source, 2018](https://www.zamstats.gov.zm/wp-content/uploads/2026/03/2026-NSRC-1.12.2025.pdf)).
+- At the 2025-09-15 hub launch the Minister of Finance and National Planning cited Statistics Act No. 13 of 2018 as a policy framework the hub aligns with ([source, 2018](https://www.zambiamonitor.com/zamstats-launches-national-data-science-hub-to-boost-evidence-based-decision-making/)).
 
 ### Zimbabwe: 3 Established
 

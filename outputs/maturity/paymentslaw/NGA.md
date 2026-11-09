@@ -8,4 +8,4 @@
 
 ***Also on file***. [NIBSS Instant Payment](<https://iafrikan.com/tomorrow-west-africas-central-bank-finds-out-who-really-runs-its-payments-market>).
 
-***Not found***. No rule held requires mobile money providers and banks to connect to each other or to a national or regional switch.
+***Not found***. No source found says a payments law or e-money rules are in force.

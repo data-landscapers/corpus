@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Operating | Yes to 1, 2 and 3: a law on AI itself in force |
 | 5 Leading | Yes to all four: that law has been applied in the last three years |
 
-- **A yes to a later question answers the earlier ones.**
+- **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*; an AI law in force answers question 2.
 - **Questions 1 to 3 have no time limit**; a law stands, with its year, until a dated source says it is repealed, replaced or struck down.
 - **A statement that there is no law counts for three years**, and gives way to a dated source naming a draft or a rule in force.
 - **A source saying there is no AI-specific law, in a country with a sector rule in force, does not undo the sector rule.**

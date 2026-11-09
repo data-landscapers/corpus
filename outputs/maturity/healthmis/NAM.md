@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 links the national system to another. Surveillance, the medicines supply chain and patient or immunisation registers were looked for.

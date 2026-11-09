@@ -14,4 +14,4 @@
 
 ***Also on file***. [e-Government Interoperability Framework (e-GIF)](<https://ega.ee/uganda-renewal-government-enterprise-architecture-interoperability-framework/>); [E-GP](<https://demo.nita.go.ug/sites/default/files/2024-09/National%20IT%20Survey%20Report%202022%20-%20Final.pdf>); [UMCS](<https://demo.nita.go.ug/sites/default/files/2024-09/National%20IT%20Survey%20Report%202022%20-%20Final.pdf>); [Human Capital Management (HCM)](<https://reap.finance.go.ug/accountability-systems/>).
 
-***Not found***. No source found from 2023 or later says the financial management or tax systems are in use, or that a core system was renewed since October 2023.
+***Not found***. No source from 2023 or later says the financial management system is in use across central government. None says the finances are run without one.

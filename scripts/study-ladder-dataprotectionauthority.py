@@ -16,11 +16,13 @@ The questions, as `maturity-study-dataprotectionauthority.md` §2 and §3 set th
    bill is not a yes, and whether the law is enacted is the law study's `standing`.
 2. **Appointed**: a `standing` of `constituted`, however old; its year is printed. A later
    `none` reverses it. A later `provided` does not: it is one more source describing the law.
-3. **Ruled in the last three years**: a `rulings` of `ruled` or `reported` dated inside them.
+3. **Ruled in the last three years**: a `rulings` of `ruled` dated inside them. Yearly figures
+   do not answer it: they count rulings and name no organisation ruled against.
 4. **Publishes yearly figures**: a `rulings` of `reported` for a period ending inside two
    years of the as-at and not after it.
 
-Stage 1 is a `standing` of `none` dated inside three years, with no body named in an enacted
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a later
+yes no longer answers the earlier ones. Stage 1 is a `standing` of `none` dated inside three years, with no body named in an enacted
 law. A fact dated after the as-at sets nothing. A year or a month stands for its last day.
 
 Writes `maturity/dataprotectionauthority/ladder-test.csv` beside the stage files.
@@ -110,10 +112,11 @@ def stage(rows: list[dict], as_at: dt.date, law_enacted: bool) -> dict:
     if not rows:
         return {"stage": "no evidence", "standing": "", "rulings": "", "sources": [],
                 "gaps": "Nothing found names a data protection authority or says there is none."}
-    if appointed and rep:
-        s, src = "5", ids(rep) + ids(con, 1)
-    elif appointed and ru:
-        s, src = "4", ids(ru) + ids(con, 1)
+    ruled = [(d, r) for d, r in ru if r["value"] == "ruled"]
+    if appointed and rep and ruled:
+        s, src = "5", ids(rep) + ids(ruled, 1) + ids(con, 1)
+    elif appointed and ruled:
+        s, src = "4", ids(ruled) + ids(con, 1)
     elif appointed:
         s, src = "3", ids(con)
     elif named:

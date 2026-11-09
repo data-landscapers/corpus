@@ -47,7 +47,7 @@ Asked in order. Each is answered with a date and a link.
 
 **Applied, settled as worded** *(Bill, 2026-10-23)*: the authority the law creates issuing certificates itself is not a provider accredited under it, and licensed providers named with no licence date do not show the law applied within three years.
 
-- **A yes to a later question answers the earlier ones**: a signature provider accredited under the law shows the law is in force.
+- **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a signature provider accredited under the law no longer shows the law is in force, or rules made under it.
 - **Questions 1 to 3 have no time limit**; a law stands, with its year, until a dated source says it is repealed, replaced or struck down.
 - **A statement that there is no law counts for three years**, and gives way to a dated source naming a draft or a law in force.
 - **A law on electronic signatures alone is a yes to question 2**: it gives electronic dealings legal effect. The summary says the law covers signatures only.

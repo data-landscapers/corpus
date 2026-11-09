@@ -10,4 +10,4 @@
 
 ***Also on file***. [Lwazi](<https://www.sars.gov.za/wp-content/uploads/Docs/StratAnnualPerfplans/SARS-AR-31-%E2%80%93-Annual-Report-%E2%80%93-2025-2026.pdf>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 says AI is in service in two or more sectors. Each source names one.

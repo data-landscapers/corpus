@@ -10,4 +10,4 @@
 
 ***Also on file***. [Cadastro Social Único (CSU)](<https://www.governo.cv/governo-lanca-mecanismo-de-gestao-das-informacoes-e-reclamacoes-do-cadastro-social-unico/>).
 
-***Not found***. No source found since October 2023 says the registry is linked to the national ID and to another sector.
+***Not found***. Nothing found since October 2023 names social protection systems exchanging data.

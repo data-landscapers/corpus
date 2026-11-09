@@ -8,4 +8,4 @@
 
 ***Also on file***. [National Statistical Release Calendar (NSRC) 2026](<https://www.zamstats.gov.zm/wp-content/uploads/2026/03/2026-NSRC-1.12.2025.pdf>); [National Data Science Training Hub](<https://www.zambiamonitor.com/zamstats-launches-national-data-science-hub-to-boost-evidence-based-decision-making/>); [Second National Strategy for the Development of Statistics (NSDS2) 2023-2027](<https://www.zamstats.gov.zm/wp-content/uploads/2023/12/SECOND-NATIONAL-STRATEGY-FOR-THE-DEVELOPMENT-OF-STATISTICS-2023-2027.pdf>); [National Statistical System](<https://www.parliament.gov.zm/sites/default/files/documents/acts/The%20Statistics%20Act%202018.pdf>).
 
-***Not found***. No source found names a regulation made under the Act.
+***Not found***. No source found names a decree, regulation or order made under the law.

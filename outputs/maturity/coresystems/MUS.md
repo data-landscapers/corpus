@@ -14,4 +14,4 @@
 
 ***Also on file***. [Government Online Centre scale-out storage](<https://mitci.govmu.org/mitci/wp-content/uploads/2026/03/Executive-Summary-of-Bid-Evaluation-Report-Scale-Out-Storage-Solution-for-the-GOC-.pdf>); [Government Online Centre servers, SAN and backup](<https://mitci.govmu.org/mitci/wp-content/uploads/2026/01/Executive-Summary-High-Performance-Servers-Storage-Area-Network-SAN-and-Backup-solution-for-the-Government-Online-Centre-Main-Site-and-Disaster-Recovery-Site-DR-site.pdf>); [Sovereign cloud for the Government of Mauritius](<https://mitci.govmu.org/mitci/wp-content/uploads/2025/10/Clarification-No.-2.pdf>); [Crime Occurrence Tracking System (COTS)](<https://newsmoris.com/mauritius-police-to-modernize-systems-with-rs-43-million-budget/>); [Criminal Attribute Database (CADB)](<https://newsmoris.com/mauritius-police-to-modernize-systems-with-rs-43-million-budget/>); [Tax Payer Portal (MRA)](<https://cib.govmu.org/Documents/Reports/Progress_Update_DGTS_Mauritius.pdf>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found from 2023 or later says the government's financial management system is in use.

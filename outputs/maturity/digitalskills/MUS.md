@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. The 2024 figure covers everyone aged five and over. A share for adults has not been found.
+***Not found***. No source found gives a number trained by a public digital-skills programme. Only programmes in more than one location count.

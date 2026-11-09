@@ -12,4 +12,4 @@
 
 ***Also on file***. [Code du numérique (law no. 2017-20, as amended by law no. 2020-35)](<https://fraternite.bj/protection-des-donnees-a-caractere-personnel-au-benin-ce-que-dit-la-loi-du-06-janvier-2021/>); [Loi no. 2009-09 of 22 May 2009 on personal data protection](<https://archive.apdp.bj/wp-content/uploads/2020/12/Rapport-Bilan_2015-2020_Version-finale.pdf>); [Autorité de Protection des Données à caractère Personnel (APDP)](<https://fraternite.bj/protection-des-donnees-a-caractere-personnel-au-benin-ce-que-dit-la-loi-du-06-janvier-2021/>); [Commission Nationale de l'Informatique et des Libertés (CNIL)](<https://archive.apdp.bj/wp-content/uploads/2020/12/Rapport-Bilan_2015-2020_Version-finale.pdf>).
 
-***Not found***. No gap is recorded against the four questions.
+***Not found***. No ruling of the authority against a named organisation is found from the last three years.

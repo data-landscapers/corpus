@@ -8,4 +8,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No payments-law source found names a non-bank provider licensed under the law.
+***Not found***. No source found says the law licenses non-bank payment providers or e-money issuers. None names one licensed under it.

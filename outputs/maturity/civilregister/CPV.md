@@ -10,4 +10,4 @@
 
 ***Also on file***. [Autentika](<https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration>); [DHIS-2](<https://www.afro.who.int/pt/countries/cabo-verde/news/parceria-oms-e-ministerio-da-saude-impulsiona-modernizacao-do-sistema-de-registo-de-obitos>); [Portal da Justiça](<https://justica.gov.cv/w/plataforma-oficial-de-presta%C3%A7%C3%A3o-de-informa%C3%A7%C3%A3o-de-servi%C3%A7os-digitais-da-justi%C3%A7a>); [Sistema de Informação de Justiça (SIJ)](<https://justica.gov.cv/w/plataforma-oficial-de-presta%C3%A7%C3%A3o-de-informa%C3%A7%C3%A3o-de-servi%C3%A7os-digitais-da-justi%C3%A7a>); [Plataforma Empresa Online (PEO)](<https://boe.incv.cv/Bulletins/DownloadAct?id=100739>).
 
-***Not found***. No source found since October 2023 says: are births registered digitally across the country.
+***Not found***. No source found since October 2023 says a digital civil registration system is procured, piloted or rolled out.

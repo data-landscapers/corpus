@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No single source says AI is in service in two or more sectors.
+***Not found***. No single source found says AI is in service in the public systems of two or more sectors.

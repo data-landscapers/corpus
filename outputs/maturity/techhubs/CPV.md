@@ -10,4 +10,4 @@
 
 ***Also on file***. [NOSi Akademia](<https://expressodasilhas.cv/eitec/2025/01/15/digital-awards-cabo-verde-anuncia-finalistas-da-sua-primeira-edicao/95141>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 says hubs with programmes are in service in two or more cities.

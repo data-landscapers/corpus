@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Deaths digital | Yes to 3 |
 | 5 Births at 90% | Yes to 4 |
 
-A later yes answers the earlier ones (method §3.3). `study.json` holds this as three aspects: `births` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `deaths` (`digital`) for 3 and `coverage` (`target`, `general`) for 4, where `general` is a national rate not tied to the digital system and is not a yes.
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114; method §3.3)*. `study.json` holds this as three aspects: `births` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `deaths` (`digital`) for 3 and `coverage` (`target`, `general`) for 4, where `general` is a national rate not tied to the digital system and is not a yes.
 
 **Question 2, births registered digitally across the country, is shown by its own evidence** *(Bill, 2026-10-23; `study.json` → `"must_show": [2]`)*: a later yes no longer answers it, and answers the other questions still. Seven cells fell to stage 2: Burkina Faso, Ethiopia, Guinea-Bissau, Somalia and Zambia from 4, Botswana and Cabo Verde from 5.
 

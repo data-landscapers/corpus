@@ -7,14 +7,16 @@ r"""study-ladder-opendatause.py — the opendatause study's four questions, coun
 `maturity/documentation/maturity-study-method.md` §7, as `study-ladder-admindata.py` does it.
 The ladder is `maturity-study-opendatause.md` §2 and §3, every window three years but stage 5's:
 
-1. **Published**: an `access` of `published`, or a yes to any later question.
+1. **Published**: an `access` of `published` or `licensed`.
 2. **Licensed**: an `access` of `licensed`.
 3. **Several bodies**: a `breadth` of `several`.
 4. **Four or more bodies**: a `breadth` of `many`, in a two-year window *(Bill, 2026-10-25: reuse
    is no longer asked, and a download or view count is not evidence of use)*.
 
-**A later yes answers the earlier ones** (method §3.3). Stage 1 is an `access` of `none` with no
-other yes. A fact dated after the as-at sets nothing. A year or a month stands for its last day.
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a later yes
+no longer answers the earlier ones, and a cell takes the last rung its evidence reaches without a
+gap. A `licensed` still answers `published`, and `many` `several`: they are one aspect. Stage 1 is
+an `access` of `none` with no `published` or `licensed`. A fact dated after the as-at sets nothing. A year or a month stands for its last day.
 
 `corrections.csv`, where the parent's reading removed or revalued a row (`revalued: aspect:value`
 moves it to another aspect), is applied to
@@ -79,15 +81,15 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     many = [r["row_id"] for d, r in live if r["aspect"] == "breadth" and r["value"] == "many" and d >= two]
     several = pick("breadth", ("several", "many"))
     licensed = pick("access", ("licensed",))
-    published = pick("access", ("published",))
+    published = pick("access", ("published", "licensed"))
     none = pick("access", ("none",))
     if not rows:
         return {"stage": "no evidence", "sources": [],
                 "gaps": "Nothing found names government data published for download, or says there is none."}
-    if many:
-        s, src = "5", many[:2]
-    elif several:
-        s, src = "4", several[:2]
+    if many and licensed:
+        s, src = "5", many[:2] + licensed[:1]
+    elif several and licensed:
+        s, src = "4", several[:2] + licensed[:1]
     elif licensed:
         s, src = "3", licensed[:2]
     elif published:

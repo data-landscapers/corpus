@@ -12,4 +12,4 @@
 
 ***Also on file***. [Système Intégré de Gestion des Finances Publiques (SIGFP)](<https://finances.gov.bi/index.php/2026/04/08/le-burundi-prepare-la-mise-en-place-du-systeme-integre-de-gestion-des-finances-publiques/>).
 
-***Not found***. No source found says a system built by government staff went live since October 2023.
+***Not found***. No source found from 2023 or later says government staff run or maintain any of its systems.

@@ -12,14 +12,15 @@ r"""study-ladder-interoperability.py — the interoperability framework study's 
 2. **Adopted and published**: the newest of the `adopted` and `ended` facts is
    `adopted`, however old; an `ended` of the same date wins. A later `draft` does not undo
    it: a draft beside a framework in force is its successor being written.
-3. **Public bodies are required to follow it**: a `use` of `required`, or of `followed`,
-   of any age.
+3. **Public bodies are required to follow it**: a `use` of `required`, of any age. A
+   `followed` does not answer it (message 114): bodies following a framework do not show a duty to.
 4. **Public bodies are following it, in the last three years**: a `use` of `followed`
    dated inside them.
 
 A `use` fact lifts nothing where the framework on record has ended or is only a draft: the
-ladder puts both at stage 2. With no `standing` fact at all it answers the earlier
-questions. Stage 1 is a `standing` of `none` dated inside three years with no framework or
+ladder puts both at stage 2. **Each step of the ladder must be met to progress** *(Bill,
+2026-11-09, message 114)*: a later yes no longer answers the earlier ones, and a cell takes
+the last rung its evidence reaches without a gap. Stage 1 is a `standing` of `none` dated inside three years with no framework or
 draft on record. A fact dated after the as-at sets nothing. A year or a month stands for
 its last day.
 
@@ -87,17 +88,16 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     policy = pick("standing", ("adopted",)) if running else []
     ended = [] if running else [r["row_id"] for r in settled][:2]
     draft = pick("standing", ("draft",))
-    named = pick("use", ("required", "followed"))
+    named = pick("use", ("required",))
     moved = pick("use", ("followed",), three)
     none = pick("standing", ("none",), three)
-    lifts = running or not (settled or draft)
     if not rows:
         return {"stage": "no evidence", "standing": "", "use": "", "sources": [],
                 "gaps": "Nothing found names a government interoperability framework, or says "
                         "there is none."}
-    if moved and lifts:
-        s, src = "5", moved + policy[:1]
-    elif named and lifts:
+    if running and named and moved:
+        s, src = "5", moved + named[:1] + policy[:1]
+    elif running and named:
         s, src = "4", named + policy[:1]
     elif running:
         s, src = "3", policy

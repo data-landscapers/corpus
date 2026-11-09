@@ -76,8 +76,9 @@ LAUNCHED = True
 # A redesign cuts no edition: the reports are rewritten under the editions they already serve.
 REDESIGN = "--redesign" in sys.argv
 # The changes box counts only moves recorded from this day: everything before it was the baseline
-# backfill, not change (Bill, 2026-10-19).
-CHANGES_FROM = "2026-10-20"
+# backfill, not change (Bill, 2026-10-19), and the box was emptied again when every ladder was made
+# to need each step met (Bill, 2026-11-09, message 114).
+CHANGES_FROM = "2026-11-10"
 # Indexed ahead of launch (Bill, 2026-10-17): it takes days to take effect.
 INDEXED = True
 # Before launch the reports and the methodology page carry the Under construction band; the map carries

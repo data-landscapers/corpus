@@ -1,6 +1,6 @@
 # Meteorological use of satellite data: satellite data in weather services
 
-*As at 2026-11-06.*
+*As at 2026-08-31.*
 
 ## The norm
 
@@ -20,27 +20,15 @@ The Integrated African Strategy on Meteorology asks for sustained access to geos
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
+| 5 Leading | 0 |
 | 4 Operating | 6 |
-| 3 Established | 13 |
+| 3 Established | 15 |
 | 2 Nascent | 12 |
 | 1 Absent | 0 |
 | Unplaced | 13 |
 | No evidence | 8 |
 
 ## Countries
-
-### Seychelles: 5 Leading
-
-The national weather service was ISO 9001-certified in 2025 and uses satellite data in nowcasting.
-
-- The South African Weather Service peer review says the Seychelles Meteorological Authority has implemented a QMS with ISO 9001/2015 certification for international air navigation in full, also covering climate services ([source, 2025-06-12](https://alliancehydromet.org/wp-content/uploads/2025/06/CHD-Report-Seychelles-final-draft_12June2025.pdf)).
-
-### Tanzania: 5 Leading
-
-The national weather service was ISO 9001-certified in 2024, with satellite-based warnings.
-
-- The DMI peer review says the Tanzania Meteorological Authority holds ISO 9001:2015 certification for its aeronautical meteorological services only, successfully re-audited in January 2024 ([source, 2024-01](http://alliancehydromet.org/wp-content/uploads/2025/03/CHD-Tanzania-official-version.pdf)).
 
 ### Burkina Faso: 4 Operating
 
@@ -128,6 +116,12 @@ The national weather service used satellite data in its forecasts in 2026; warni
 - The UNDP/Neuralio feasibility study says METEO RWANDA receives satellite data from EUMETSAT's Meteosat Second and Third Generation via EUMETCast, with imagery as often as every 15 minutes, used mainly as static images (JPEG cloud maps) by forecasters ([source, 2026-07-13](https://www.undp.org/sites/g/files/zskgke326/files/2026-09/sh-tracked-d4_final_report_ai_and_ml_integration.pdf)).
 - The FMI peer review says Rwanda accesses EUMETSAT satellite products through a ground-based satellite receiver, and that Meteo Rwanda's forecasting draws on EUMETSAT satellite imagery alongside a C-band radar ([source, 2023-10](https://alliancehydromet.org/wp-content/uploads/2025/03/Rwanda_CHD-Report_20231021_signed.pdf)).
 
+### Seychelles: 3 Established
+
+The weather service used satellite data in nowcasting in 2025 and is ISO 9001-certified; warnings drawn from satellite data are not known.
+
+- The South African Weather Service peer review says the Seychelles Meteorological Authority's forecasting section has access to EUMETSAT satellite products through the internet and that access to satellite data assists its nowcasting services ([source, 2025-06-12](https://alliancehydromet.org/wp-content/uploads/2025/06/CHD-Report-Seychelles-final-draft_12June2025.pdf)).
+
 ### Somalia: 3 Established
 
 The national weather service used satellite data in its forecasts in 2025; warnings drawing on it are not on record.
@@ -145,6 +139,13 @@ The national weather service used satellite data in its forecasts in 2024; warni
 The national weather service used satellite data in its forecasts in 2025; warnings drawing on it are not on record.
 
 - WMO reports South Sudan Meteorological Services forecasters were trained in Juba to analyze satellite data and began a pilot of daily forecasts verified each day against EUMETSAT satellite information ([source, 2025-06](https://wmo.int/media/project-update/crews-east-africa-supports-south-sudan-through-regional-twinning-partnership)).
+
+### Tanzania: 3 Established
+
+The weather service used satellite imagery in its forecasts in 2024 and 2025; warnings drawn from satellite data since October 2023 are not known.
+
+- Tanzania's National Audit Office reports that the Tanzania Meteorological Authority faced challenges in processing data from satellites and global observation centres because these sources lacked adequate localization ([source, 2025-03](https://www.nao.go.tz/uploads/Performance_Audit_Report_on_the_Management_of_Meteorological_Services.pdf)).
+- The DMI peer review for SOFF says the Tanzania Meteorological Authority relies on EUMETSAT satellite imagery and radars, which are particularly beneficial for nowcasting, to deliver its forecasts ([source, 2024-02](http://alliancehydromet.org/wp-content/uploads/2025/03/CHD-Tanzania-official-version.pdf)).
 
 ### Zambia: 3 Established
 

@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "cooperation",
-      "stage": "4",
-      "part": "active",
-      "effect": "in-effect",
+      "stage": "2",
+      "part": "member",
+      "effect": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MUS-004",
-      "gaps": "No source found gives figures of use, a decision of a joint body, or a review of what an agreement has delivered, in the last three years.",
+      "stage_sources": "MUS-002;MUS-003",
+      "gaps": "No source found dates an agreement signed, a meeting hosted or chaired, or a seat won, in the last three years.",
       "note": "Counted from the four questions by study-ladder-regionalpolicy.py.",
-      "as_at": "2026-10-17"
+      "as_at": "2026-11-09"
     }
   ]
 }

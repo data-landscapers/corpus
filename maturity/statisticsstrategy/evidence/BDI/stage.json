@@ -1,17 +1,18 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "5",
-   "standing": "adopted",
-   "review": "reviewed",
-   "evaluation": "evaluated",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BDI-002;BDI-001",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-statisticsstrategy.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "3",
+      "standing": "adopted",
+      "review": "",
+      "evaluation": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BDI-001;BDI-003",
+      "gaps": "No source found dates a review of progress on the strategy in the last three years.",
+      "note": "Counted from the four questions by study-ladder-statisticsstrategy.py.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }

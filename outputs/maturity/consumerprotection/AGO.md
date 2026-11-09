@@ -10,4 +10,4 @@
 
 ***Also on file***. [SPTR](<https://angop.ao/noticias/economia/bna-conclui-migracao-para-padrao-internacional-iso-20022/>).
 
-***Not found***. No consumer-protection rule for digital finance adopted since October 2023 has been found; the rules held date from 2016 and 2017.
+***Not found***. No source found since October 2023 says digital-finance consumer rules are drafted or in force. The BNA notices held are cited by sources of 2017 and 2020.

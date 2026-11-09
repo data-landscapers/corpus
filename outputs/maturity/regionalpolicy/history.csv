@@ -32,3 +32,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-06,SSD,gov.regional--regional-policy-collaboration,fact,3,4,SSD-003;SSD-007,An EAC official told the regional assembly in November 2026 that South Sudan has put the One Network Area roaming framework into effect (SSD-007); stage 3 -> 4.
 2026-11-06,SOM,gov.regional--regional-policy-collaboration,fact,2,2,SOM-001;SOM-003,An EAC official said in November 2026 Somalia had yet to put the One Network Area framework into effect (SOM-003); stage 2 holds.
 2026-11-09,SSD,gov.regional--regional-policy-collaboration,fact,4,5,SSD-008;SSD-007;SSD-003,"Northern Corridor ICT ministers' communique, 9 November 2023: One Network Area operational, traffic up over 900 times among the partner states; in use, stage 5"
+2026-11-09,MUS,gov.regional--regional-policy-collaboration,ladder,4,2,MUS-002;MUS-003,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."

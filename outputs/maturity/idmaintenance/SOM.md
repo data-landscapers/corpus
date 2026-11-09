@@ -10,4 +10,4 @@
 
 ***Also on file***. [OpenCRVS Unified Digital Civil Registration System](<https://www.opencrvs.org/about-us/country-stories/somalia>); [HUBIYE Verification Platform](<https://wardheernews.com/somalias-digital-id-a-milestone-on-the-roadmap-towards-effective-governance-and-service-delivery>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 says national staff or a national company maintain the system. None says the foreign contract has ended.

@@ -10,4 +10,4 @@
 
 ***Also on file***. [Proposed Social Registry (NUSAF 4)](<https://socialprotection.go.ug/wp-content/uploads/2025/02/Feasibility-Report-for-Ugandas-Social-Registry.pdf>); [Karamoja Social Registry](<https://www.developmentpathways.co.uk/wp-content/uploads/2022/04/Ugandas-National-Single-Registry_v3-compressed.pdf>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 says the programme's system pays beneficiaries electronically.

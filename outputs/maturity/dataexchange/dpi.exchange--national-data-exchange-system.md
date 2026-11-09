@@ -20,9 +20,9 @@ The African Union's Digital Transformation Strategy and its interoperability fra
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
+| 5 Leading | 5 |
 | 4 Operating | 2 |
-| 3 Established | 7 |
+| 3 Established | 8 |
 | 2 Nascent | 23 |
 | 1 Absent | 3 |
 | Unplaced | 3 |
@@ -51,13 +51,6 @@ Use of the government data exchange platform was reported in 2024.
 
 - The ADD says GISRE processed more than 95 million transactions in 2024, affecting 18 million citizens ([source, 2024](https://www.lavieeco.com/tech/add-silence-on-digitalise/)).
 - The ADD says more than 76 organisations are connected to GISRE ([source, 2025-04](https://www.lavieeco.com/tech/add-silence-on-digitalise/)).
-
-### Tunisia: 5 Leading
-
-Use of the government data exchange platform was reported in 2025.
-
-- A chart in the playbook shows exchanges of citizen register data with state structures rising from 476,052 to 900,125,547, the last of seven yearly values plotted for 2019-2025 ([source, 2025](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
-- The playbook names the Plateforme Nationale d'Interoperabilite, operated by the Centre National Informatique, carrying exchanges of citizen register data with state structures including civil status, schools, universities, vocational training and health, under decree-law 2020-31 and decree 2020-777 ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
 
 ### Uganda: 5 Leading
 
@@ -135,6 +128,14 @@ A government data exchange platform was in service in 2026; no source found says
 
 - The Ministry of Digital Transformation and Communications and the National Investment Authority announced the needs-disclosure service live on the Baladna platform, linking the industry, transport and agriculture bodies and passing approved items to the Customs Authority, with data moving between them electronically ([source, 2026-09-03](https://atheernews.net/222149/)).
 - The Ministry of Digital Transformation and Telecommunications is said to offer the UNIVERSAL SECURE (CONSOLEX) unified API gateway, which integrates government systems and enables secure data exchange among institutions; no connected-body count or volume is given ([source, 2026](https://www.sudanembassyberlin.com/index.php/de/news-tt/706-ministry-of-digital-transformation-launches-phase-two-of-the-3-3-digital-transformation-plan)).
+
+### Tunisia: 3 Established
+
+Tunisia's government data exchange platform linked five ministries in 2025; a count of ten or more connected bodies is not known.
+
+- The playbook names the Plateforme Nationale d'Interoperabilite, operated by the Centre National Informatique, carrying exchanges of citizen register data with state structures including civil status, schools, universities, vocational training and health, under decree-law 2020-31 and decree 2020-777 ([source, 2026-05](https://id4africa.com/2026/files/T1-3-2-Tunisia-FINAL.pdf)).
+- Le Quotidien reports the first phase of the national interoperability platform, UXP, was completed in 2025 in five ministries, with first applications deployed in 2024 ([source, 2025](https://www.lequotidien.com.tn/fr/nationale/10496-digitalisation-des-services-publics-en-tunisie-debut-du-deploiement-a-grande-echelle-de-l-interoperabilite)).
+- Cybernetica states phase 1 introduced UXP to five key ministries and institutions ([source, 2026-05](https://cyber.ee/resources/news/phase-2-tunisia-interoperability/)).
 
 ### Angola: 2 Nascent
 

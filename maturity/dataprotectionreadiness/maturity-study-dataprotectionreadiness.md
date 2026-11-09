@@ -43,7 +43,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Operating | The law is being implemented: the authority registers organisations, takes breach reports, issues guidance or inspects |
 | 5 Leading | The authority is acting: it has ruled against a named organisation, or publishes a count of its rulings |
 
-- **A yes to a later question answers the earlier ones**: an authority at work shows a law in force and a body appointed.
+- **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: an authority at work no longer shows a law in force or a body appointed.
 - **Ratification alone, with no law in force, is stage 1**, and the summary says the country has ratified.
 - **Questions 1 and 2 have no time limit**; a yes stands, with its year, until a dated source reverses it.
 - **Questions 1, 2 and 4 take the answers the law study and the authority study reached**, so the three rows cannot disagree.

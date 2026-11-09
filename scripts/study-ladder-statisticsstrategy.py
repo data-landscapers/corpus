@@ -18,11 +18,12 @@ does it. The ladder is `maturity-study-statisticsstrategy.md` §2 and §3:
 3. **Reviewed**: a `review` of `reviewed` dated inside three years.
 4. **Evaluated**: an `evaluation` of `evaluated` dated inside three years.
 
-**A later yes answers the earlier ones** (method §3.3): a review shows a strategy was
-adopted. An evaluation counts where a current strategy is held, or where none is held at
-all; the final evaluation of a strategy that has ended, beside no current successor, is
-noted and sets nothing. Stage 1 is a `standing` of `none` dated inside three years with no
-other yes. A fact dated after the as-at sets nothing. A year or a month stands for its last
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a later
+yes no longer answers the earlier ones, and a cell takes the last rung its evidence reaches
+without a gap. A current strategy still answers question 1: it is one aspect. An evaluation
+counts only where a current strategy is held; the final evaluation of a strategy that has
+ended, beside no current successor, is noted and sets nothing. Stage 1 is a `standing` of
+`none` dated inside three years with no strategy current or in preparation. A fact dated after the as-at sets nothing. A year or a month stands for its last
 day.
 
 `corrections.csv`, where the parent's reading removed or revalued a row, is applied to
@@ -119,9 +120,9 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
     if not rows:
         return {"stage": "no evidence", "standing": "", "sources": [],
                 "gaps": "Nothing found names a national statistics strategy, or says there is none."}
-    if evaluated:
-        s, src = "5", evaluated[:2] + current[:1]
-    elif reviewed:
+    if current and reviewed and evaluated:
+        s, src = "5", evaluated[:2] + reviewed[:1] + current[:1]
+    elif current and reviewed:
         s, src = "4", reviewed[:2] + current[:1]
     elif current:
         s, src = "3", current[:2]

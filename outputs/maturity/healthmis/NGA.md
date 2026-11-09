@@ -10,4 +10,4 @@
 
 ***Also on file***. [MSDAT national platform](<https://fmohconnect.gov.ng/wp-content/uploads/2025/09/NHMIS-June-2025-Bulletin-1.pdf>); [Health Facility Registry](<https://fmohconnect.gov.ng/wp-content/uploads/2025/09/NHMIS-June-2025-Bulletin-1.pdf>); [DNEMIS](<https://www.linkedin.com/posts/dhis-2_dhis2-dnemis-emis-ugcPost-7478150988491632641-yEtA/>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 links the national system to another. Surveillance, the medicines supply chain and patient or immunisation registers were looked for.

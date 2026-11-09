@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 counts refugees or displaced people with a SIM, an account or a digital ID.
+***Not found***. No source found since October 2023 says: are they registered and documented.

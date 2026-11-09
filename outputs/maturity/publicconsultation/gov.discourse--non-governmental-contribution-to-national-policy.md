@@ -1,6 +1,6 @@
 # Non-governmental contribution to national policy: consultation on digital law and policy
 
-*As at 2026-10-18.*
+*As at 2026-09-30.*
 
 ## The norm
 
@@ -21,21 +21,14 @@ The African Charter on Democracy, Elections and Governance, Articles 12, 27 and 
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 3 |
+| 4 Operating | 2 |
 | 3 Established | 5 |
-| 2 Nascent | 34 |
+| 2 Nascent | 35 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 11 |
 
 ## Countries
-
-### Chad: 4 Operating
-
-In 2024 the media regulator held a public hearing on web radio and television rules that its law requires; no standing body's view is known.
-
-- HAMA's legal head says the hearing was required: article 43 of the audiovisual communication law has HAMA set specifications after a public hearing where civil society and interested parties give views ([source, 2024-11-22](https://lendjampost.com/media-le-projet-portant-cahier-de-charge-des-web-radios-et-televisions-presente-par-la-hama/)).
-- HAMA held a day of public consultation at the Cefod on its draft specifications for web radio and web television, with private media managers present ([source, 2024-11-22](https://lendjampost.com/media-le-projet-portant-cahier-de-charge-des-web-radios-et-televisions-presente-par-la-hama/)).
 
 ### Kenya: 4 Operating
 
@@ -129,6 +122,14 @@ The telecommunications ministry put a draft decree on the data protection author
 In August 2026 the regulator opened a public consultation on satellite communications rules; no source found says who answered and whether the answers were published.
 
 - The regulator ARME opened a public consultation on a proposed regulatory framework for satellite communication networks and services, with submissions open until 31 August 2026; the date is the document's publication date, the opening date being unstated ([source, 2026-08-05](https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/)).
+
+### Chad: 2 Nascent
+
+The media regulator held a required hearing in 2024, and a data strategy was consulted on in 2026; no published report of comments is known.
+
+- HAMA held a day of public consultation at the Cefod on its draft specifications for web radio and web television, with private media managers present ([source, 2024-11-22](https://lendjampost.com/media-le-projet-portant-cahier-de-charge-des-web-radios-et-televisions-presente-par-la-hama/)).
+- On 2026-10-07 (the article's date; the speech says 'ce jour') the Minister of Telecommunications, Digital Economy and Digitalisation opened a national validation workshop in N'Djamena on the draft National Data Governance Strategy, addressing academic and civil society representatives among those present, asking them to read the draft and say frankly what they think, and stating that the actors concerned had been consulted in drafting ([source, 2026-10-07](https://camerpressagency.com/transformation-numerique-le-tchad-batit-sa-souverainete-de-la-donnee/)).
+- The Ministry of Telecommunications, Digital Economy and Digitalization of Administration of Chad, with ECA and GIZ, held stakeholder consultations on 13-15 May 2026 in N'Djamena for the National Data Governance Strategy, followed by a 21 May workshop to validate the findings; the page lists private sector, academia, civil society organisations, telecom operators and fintech companies among the participants (announced attendance) ([source, 2026-05-13](https://www.uneca.org/eca-events/eca-supporting-chad-developing-national-data-governance-strategy-advance-au-data-policy-framework)).
 
 ### Congo: 2 Nascent
 

@@ -9,15 +9,16 @@ does it. The ladder is `maturity-study-domesticfinancing.md` §2 and §3, every 
 three years:
 
 1. **The state budget gives money to digital transformation**: a `budget` of `allocated`,
-   or anything that shows money given: `rose`, `fell`, `spent`, or a `commitment` of `acted`.
+   or anything that shows money given: `rose`, `fell` or `spent`.
 2. **The money is higher in the latest budget than the one before**: the deciding `budget`
    row is `rose`. `fell` is a no and stops the count.
 3. **The government committed to paying at home and acted**: a `commitment` of `acted` with
    no `abolished` after it.
 4. **What was spent is published**: a `budget` of `spent`.
 
-**Each of questions 2 and 3 is answered on its own evidence**: no later yes answers them, so
-the count stops at the first of them nothing found answers. **Question 2 is set by a source
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a
+later yes no longer answers the earlier ones, and a cell takes the last rung its evidence
+reaches without a gap. **Question 2 is set by a source
 that gives the digital ministry's budget for both years, where one is held for the latest
 budget; otherwise by the budget tables' lines**: a drafted `rose` or `fell` stands over the
 tables' own (a fact that opens *Budget tables:*) unless it is more than `SAME_BUDGET` days
@@ -124,13 +125,13 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
               else "allocated" if given else "none" if none else "",
               "commitment": "acted" if acted else "abolished" if abolished
               else "stated" if of("commitment", "stated") else ""}
-    if none and not (given and given[0][0] >= none[0][0]) and not acted:
+    if none and not (given and given[0][0] >= none[0][0]):
         return {"stage": "1", **values, "sources": ids(none, 1), "gaps": ""}
-    if not (given or acted):
+    if not given:
         return {"stage": "unplaced", **values, "sources": [],
                 "gaps": "No source dated in the last three years names money in the state budget "
                         "for a digital ministry, agency or programme."}
-    first = ids(of("budget", "allocated"), 1) or ids(given, 1) or ids(acted, 1)
+    first = ids(of("budget", "allocated"), 1) or ids(given, 1)
     if not deciding:
         s, src, gap = "2", first, GAPS["2"]
     elif deciding[1]["value"] == "fell":

@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. How users sign in to Irembo.
+***Not found***. No source found says how users sign in to Irembo. The national ID and a shared account were looked for.

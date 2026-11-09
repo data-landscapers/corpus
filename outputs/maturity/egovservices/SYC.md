@@ -10,4 +10,4 @@
 
 ***Also on file***. [SeyID](<https://monservis.gov.sc>); [Biz Auth](<https://monservis.gov.sc>).
 
-***Not found***. How many use monServis. How many services it carries.
+***Not found***. No source found says ten or more government services can be completed online. No portal count reaches ten.

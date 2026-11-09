@@ -16,7 +16,9 @@ r"""study-ladder-cybersecurity.py — the national cyber response study's four q
 4. **Figures**: a `figures` row of `published` whose period ends inside a year. A count that shows
    recording, not action, is `recorded` and stages nothing *(Bill, 2026-10-30)*.
 
-A yes to a later question answers the earlier ones (§3.3). A `foundation` row of `none`
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a later
+yes no longer answers the earlier ones, and a cell takes the last rung its evidence reaches
+without a gap. A `foundation` row of `none`
 inside three years places a country at stage 1, and only where nothing answers yes.
 
 A fact dated after the as-at sets nothing; a year or a month stands for its last day, and the
@@ -95,12 +97,12 @@ def stage(rows: list[dict], as_at: dt.date) -> dict:
         hit[k] = next((r for d, r in live if r["aspect"] == k and r["value"] in vals
                        and d >= floor and not spent(r, as_at)), None)
     values = {k: (hit[k]["value"] if hit[k] else "") for k, _, _ in QS}
-    top = max((i + 1 for i, (k, _, _) in enumerate(QS) if hit[k]), default=0)
+    top = next((i for i, (k, _, _) in enumerate(QS) if not hit[k]), len(QS))   # Bill, 2026-11-09, message 114
     if top == 0:
         three = study_lib.months_back(as_at, 36)
         none = next((r for d, r in live if r["aspect"] == "foundation" and r["value"] == "none"
                      and d >= three), None)
-        if none:
+        if none and not any(hit.values()):
             values["foundation"] = "none"
             return {"stage": "1", "sources": [none["row_id"]], "values": values, "gaps": ""}
         return {"stage": "unplaced", "sources": [], "values": values,

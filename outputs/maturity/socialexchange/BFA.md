@@ -10,4 +10,4 @@
 
 ***Also on file***. [Unique Identifier System (WURI project)](<https://www.worldbank.org/en/programs/sahel-adaptive-social-protection-program-trust-fund/country-work/burkina-faso>); [Identifiant unique (WURI project)](<https://gouvernement.gov.bf/actualites/identification-unique-les-acteurs-regionaux-du-yaadga-outilles/>); [PAMPV (Programme d'Appui a l'Autonomisation des Menages Pauvres et Vulnerables)](<https://documents1.worldbank.org/curated/en/099052726095539002/pdf/BOSIB-9b77474f-0575-4c43-a165-babff2ee4d7b.pdf>); [WURI unique ID](<https://documents1.worldbank.org/curated/en/099052726095539002/pdf/BOSIB-9b77474f-0575-4c43-a165-babff2ee4d7b.pdf>); [CONASUR IDP databases](<https://documents1.worldbank.org/curated/en/099052726095539002/pdf/BOSIB-9b77474f-0575-4c43-a165-babff2ee4d7b.pdf>).
 
-***Not found***. No source found since October 2023 says the registry is linked to the national ID and to another sector.
+***Not found***. No source found since October 2023 says a registry or programme exchanges data in use.

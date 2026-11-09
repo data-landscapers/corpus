@@ -10,4 +10,4 @@
 
 ***Also on file***. [Tej](<https://www.tunisienumerique.com/direction-generale-des-impots-de-nouvelles-fonctionnalites-ajoutees-a-la-plateforme-dechange-fiscal-tej/>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 counts ten or more bodies connected to the platform. Phase 2 extends UXP to six more by 2027.

@@ -41,3 +41,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-26,ZWE,capacity.literacy--digital-literacy-civil-service,ladder,2,4,ZWE-001,Bill's ruling on message 33 applied alike: a commitment to make the training mandatory for all civil servants reaches across government.
 2026-10-26,TUN,capacity.literacy--digital-literacy-civil-service,ladder,4,4,TUN-003;TUN-002,"Bill, 2026-10-26, message 32: an academy open to all civil servants reaches across government; Tunisia stays at 4."
 2026-11-06,BFA,capacity.literacy--digital-literacy-civil-service,fact,2,2,BFA-002;BFA-001,"DISMEFIP launched digital-tools training for over 400 tax agents on 4 November 2026; a course held under a 2026-2028 project, not a standing programme, so stage 2 stands"
+2026-11-09,TUN,capacity.literacy--digital-literacy-civil-service,ladder,4,2,TUN-002;TUN-004,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
+2026-11-09,ZWE,capacity.literacy--digital-literacy-civil-service,ladder,4,2,ZWE-005;ZWE-004;ZWE-008,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."

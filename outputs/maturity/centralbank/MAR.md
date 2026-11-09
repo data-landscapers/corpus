@@ -10,4 +10,4 @@
 
 ***Also on file***. [Centre Monétique Interbancaire (CMI)](<https://conseil-concurrence.ma/communique-conjoint-du-conseil-de-la-concurrence-et-de-bank-al-maghrib/>); [PAPSS](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>); [Switch Al Maghrib interoperable mobile payment](<https://lematin.ma/economie/paiement-instantane-les-rails-sont-la-les-usages-restent-a-construire/367355>).
 
-***Not found***. No source found since October 2023 says the country takes part in PAPSS or a regional payment system.
+***Not found***. No source found since October 2023 says Bank Al-Maghrib licenses or authorises mobile money, e-money or payment service providers.

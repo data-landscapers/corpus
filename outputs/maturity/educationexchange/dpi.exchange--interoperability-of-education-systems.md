@@ -20,34 +20,15 @@ The African Union's Digital Education Strategy asks for an individual, identifie
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
-| 4 Operating | 1 |
-| 3 Established | 6 |
-| 2 Nascent | 13 |
+| 5 Leading | 1 |
+| 4 Operating | 0 |
+| 3 Established | 7 |
+| 2 Nascent | 14 |
 | 1 Absent | 2 |
-| Unplaced | 5 |
+| Unplaced | 8 |
 | No evidence | 22 |
 
 ## Countries
-
-### Eswatini: 5 Leading
-
-Since 2024 learner records in every school are keyed to the national personal ID, though the check against Home Affairs records is still manual.
-
-- The DHIS2 for Education profile for Eswatini is subtitled 'Aggregate and individual EMIS data connected to national identity', and describes the EMIS (aggregate) and SEMIS App (individual learner and staff data, PIN-based) as national in scale since a 2020 pilot ([source, 2024](https://education.dhis2.org/implementation/eswatini/)).
-- The document says Eswatini's EMIS is driven by the Personal Identity Number, with individual-level learner and staff records, since national launch in March 2024 across all 976 primary and secondary schools; schools still submit PINs manually on claim forms for validation against Home Affairs records at regional offices, to be automated with SEMIS ([source, 2024-03](https://www.gpekix.org/blog/south-south-collaboration-stronger-education-systems-lessons-learned-cross-country-learning)).
-
-### Mauritania: 5 Leading
-
-Since 2025 the education ministry's certificate service runs on the national ID platform, checking certificates linked to holders' national numbers.
-
-- The education ministry launched a service on the Houwiyati platform to extract and confirm national certificates, available for certificates issued after 2013 or already linked to the holder's national number (NNI) by the ministry; the AMI report gives no figures. Dated by its published date ([source, 2025-07-24](https://ami.mr/fr/archives/276019)).
-
-### Morocco: 5 Leading
-
-The national school system's enrolment services drew pupils' data from the civil status register in 2024; no learner identifier shared across education systems is known.
-
-- The education ministry's circular says Massar enrolment services for parents can download learner data from the civil status register, using digital identity ([source, 2024-04-23](https://ar.hibapress.com/details-517593.html)).
 
 ### Nigeria: 5 Leading
 
@@ -55,18 +36,6 @@ In 2026 the ministry said learner identification numbers were integrated with na
 
 - Biometric Update reports that the Ministry of Education and NIMC integrated the Learner's Identification Number of 80 million students with the NIN registry via the digital NEMIS, citing an announcement on X; 1.9 million LINs had been issued since April ([source, 2026-08-05](https://www.biometricupdate.com/202608/nigeria-integrates-national-student-ids-digital-identity-system)).
 - Education Minister Alausa said the Ministry has integrated the National Learners' Identification Number (LIN) with the National Identification Number (NIN) through the Nigeria Education Management Information System (NEMIS) ([source, 2026-07-10](https://fmino.gov.ng/fg-to-extend-trusted-digital-identity-to-80-million-learners-as-education-ministry-nimc-deepen-partnership/)).
-
-### Somalia: 5 Leading
-
-In 2026 the secondary certificate system took examination results and checked students against the national ID.
-
-- The HSC verifies students' identity through the eAqoonsi/NIRA national ID as one of its integrated building blocks, per GovStack; as_of is the publication date, the document gives none ([source, 2026-05-29](https://govstack.global/showcase/somalia-hsc/)).
-
-### Guinea: 4 Operating
-
-Since 2025 each new university entrant carries one identifier used for enrolment, bursaries and housing; no link to the national ID has been found.
-
-- The Minister said each 2025 bachelier receives a unique identifier kept through the whole university career, and the CENOU director general said the single file with CENOU matricule numbers serves enrolment, bursaries, housing, social aid, SAMA Money allowance payment and tracking on CENOU KIBARU ([source, 2025-09-09](https://guineejet.info/lancement-de-latelier-national-dimmatriculation-des-bacheliers-de-2025/)).
 
 ### Central African Republic: 3 Established
 
@@ -79,6 +48,12 @@ In 2026 the teacher records system was linked to the payroll, covering 98 percen
 Since 2026 learner records are checked against the examination databases; no learner identifier shared across systems has been found.
 
 - A Ministry of Education circular says the KEMIS Learner Validation Engine is operational and automatically compares learner records against official examination and assessment databases, marking learners Valid or Invalid ([source, 2026-08-17](https://arena.co.ke/ministry-circular-guidance-on-learner-validation-in-kemis/)).
+
+### Somalia: 3 Established
+
+Somalia's certificate system drew examination results from the exam registry in 2026; one learner identifier across education systems is not known.
+
+- The High School Certificate System connects the MOECHE Examination System registry so exam results are retrieved automatically and verified digital certificates are issued online, per GovStack's showcase page; as_of is the publication date, the document gives none ([source, 2026-05-29](https://govstack.global/showcase/somalia-hsc/)).
 
 ### South Africa: 3 Established
 
@@ -148,6 +123,12 @@ A 2024 ministry dashboard interface takes data from agencies; no source found sa
 
 - The Ministry of Education's PMDV Dashboard API documentation lists endpoints serving EMIS school statistics, enrolment rates, schools and NST test scores, and a POST endpoint that takes data from agencies by agency code into MongoDB, with development and production base URLs; it does not say which systems feed it or that it is in service ([source, 2024](https://pmdv.moedatadashboard.com/api_documentation)).
 
+### Guinea: 2 Nascent
+
+Guinea announced a university management system linked to other education platforms in 2025; two education systems exchanging data in service is not known.
+
+- The Minister of Higher Education announced the Système Intégré de Gestion des Universités (SIGU) as a centralised digital tool interconnected with other national platforms, named as ANSAE, the National Education Ministry's Porte Educ platform and SIGOU ([source, 2025-09-09](https://guineejet.info/lancement-de-latelier-national-dimmatriculation-des-bacheliers-de-2025/)).
+
 ### Malawi: 2 Nascent
 
 An education data portal joining ministry and partner datasets was being built in 2026; no link in service has been found.
@@ -206,6 +187,12 @@ In 2021 the education ministry's platforms could not link; nothing found since 2
 
 Not established: Nothing found since October 2023 names education systems exchanging data.
 
+### Eswatini: Unplaced
+
+Eswatini's school records were keyed to the national ID in 2024; a link between education systems is not known, so no stage is set.
+
+Not established: No source found since October 2023 says a link between education systems is contracted, being built, piloted or in service, or that one is absent.
+
 ### Gabon: Unplaced
 
 A 2012 law gives each learner a unique number; nothing found since 2023 shows it in use, so no stage is set.
@@ -217,6 +204,18 @@ Not established: Nothing found since October 2023 names education systems exchan
 A 2026 platform shows parents which private schools are licensed; nothing found names two education systems exchanging data, so no stage is set.
 
 Not established: Nothing found since October 2023 names two education systems exchanging data, or says none do.
+
+### Mauritania: Unplaced
+
+Mauritania's certificate service ran on the national ID platform in 2025; a link between education systems is not known, so no stage is set.
+
+Not established: No source found since October 2023 says a link between education systems is contracted, being built, piloted or in service, or that one is absent.
+
+### Morocco: Unplaced
+
+Morocco's school enrolment drew learner data from the civil register in 2024; a link between education systems is not known, so no stage is set.
+
+Not established: No source found since October 2023 says a link between education systems is contracted, being built, piloted or in service, or that one is absent.
 
 ### Sao Tome and Principe: Unplaced
 

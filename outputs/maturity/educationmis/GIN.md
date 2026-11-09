@@ -10,4 +10,4 @@
 
 ***Also on file***. [DGECS platform](<https://educationactu.com/11224-2/>).
 
-***Not found***. No link between learner records and the national ID or birth registration has been found.
+***Not found***. No source found since October 2023 says the education information system produced an annual school census. None says it published education statistics.

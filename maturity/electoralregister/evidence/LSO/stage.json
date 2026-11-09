@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "electoral",
-      "stage": "5",
+      "stage": "3",
       "roll": "inservice",
       "checked": "open",
       "linked": "linked",
       "cap": "",
       "flags": "",
-      "stage_sources": "LSO-012;LSO-011;LSO-007",
-      "gaps": "",
-      "note": "Reassessed 2026-11-04, 3 to 5: the IEC told an AU mission in July 2026 that its registration system is integrated with the National Identity and Civil Registry through unique identification numbers. A later yes answers the earlier questions.",
-      "as_at": "2026-11-04"
+      "stage_sources": "LSO-011;LSO-006;LSO-007",
+      "gaps": "No source found since October 2023 says the roll was published or open to voters to check, online, by text message or at centres.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: no source says the roll was published or open to voters to check; the roll integrated with the National Identity and Civil Registry (LSO-012) does not answer question 3.",
+      "as_at": "2026-11-09"
     }
   ]
 }

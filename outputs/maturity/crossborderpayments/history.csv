@@ -35,3 +35,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-27,ZMB,dpi.pay--cross-border-functionality,fact,3,4,ZMB-007;ZMB-006,"SA-Zambia corridor live on SADC TCIB since March 2024; regional, 3 to 4"
 2026-11-05,RWA,dpi.pay--cross-border-functionality,fact,3,4,RWA-011;RWA-003,"Uganda's EAC minister told Parliament on 3 November 2026 that the East African Payment System links the RTGS systems of Uganda, Kenya, Tanzania and Rwanda; question 3 met, 3 to 4."
 2026-11-05,TZA,dpi.pay--cross-border-functionality,fact,3,4,TZA-007;TZA-004;TZA-003,"Uganda's EAC minister told Parliament on 3 November 2026 that the East African Payment System links the RTGS systems of Uganda, Kenya, Tanzania and Rwanda; question 3 met, 3 to 4."
+2026-11-09,BDI,dpi.pay--cross-border-functionality,ladder,4,2,BDI-002;BDI-003,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
+2026-11-09,GNB,dpi.pay--cross-border-functionality,ladder,4,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to unplaced."
+2026-11-09,SYC,dpi.pay--cross-border-functionality,ladder,4,2,SYC-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
+2026-11-09,SEN,dpi.pay--cross-border-functionality,ladder,4,4,SEN-002;SEN-003,"Recounted under message 114 (each step met on its own evidence): later rows answer every step, so the stage holds."

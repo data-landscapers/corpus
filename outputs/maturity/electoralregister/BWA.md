@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source since October 2023 says the roll is drawn from or checked against the ID register.
+***Not found***. No source found since October 2023 says a digital voter register is in service. The 2024 inspection gave out hard copies only.

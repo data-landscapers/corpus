@@ -3,7 +3,7 @@
   "cells": [
     {
       "sub_indicator": "core",
-      "stage": "5",
+      "stage": "2",
       "finance": "inuse",
       "revenue": "",
       "payroll": "",
@@ -11,10 +11,10 @@
       "architecture": "published",
       "cap": "",
       "flags": "",
-      "stage_sources": "TGO-002;TGO-003",
-      "gaps": "",
+      "stage_sources": "TGO-004",
+      "gaps": "No source found from 2023 or later says both the tax system and the payroll are in use.",
       "note": "Counted from the four questions by study-ladder-coresystems.py.",
-      "as_at": "2026-10-17"
+      "as_at": "2026-11-09"
     }
   ]
 }

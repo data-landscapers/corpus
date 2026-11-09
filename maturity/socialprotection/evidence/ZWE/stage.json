@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "socialmis",
-      "stage": "4",
+      "stage": "unplaced",
       "system": "",
       "payments": "electronic",
       "integrated": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZWE-002",
-      "gaps": "No source since October 2023 names the information system that runs the HSCT, or says one serves several programmes.",
-      "note": "Reassessed 2026-11-06, unplaced to 4: the Harmonised Social Cash Transfer pays by EcoCash, and a later yes answers the earlier questions. Nothing says one system serves several programmes.",
-      "as_at": "2026-11-06"
+      "stage_sources": "",
+      "gaps": "No source found since October 2023 says a management information system for a social programme is procured, piloted, built or in service.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: the only system row, the August 2023 ISP-MIS launch (ZWE-001), falls outside the window; HSCT payment by EcoCash (ZWE-002) does not answer questions 1 or 2.",
+      "as_at": "2026-11-09"
     }
   ]
 }

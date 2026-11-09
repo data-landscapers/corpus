@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 gives an enforcement or redress decision about a harm from AI.
+***Not found***. No source found since October 2023 says: is a rule on ai harms in force.

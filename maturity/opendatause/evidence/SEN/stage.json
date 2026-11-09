@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "use",
-      "stage": "4",
+      "stage": "2",
       "access": "licensed",
       "breadth": "several",
       "cap": "",
       "flags": "",
-      "stage_sources": "SEN-004",
-      "gaps": "No source found since October 2024 names or counts four or more public bodies publishing data.",
-      "note": "Restaged on the rewritten rung 5 (Bill, 2026-10-25): four or more public bodies publishing, named or counted within two years; reuse is no longer asked.",
-      "as_at": "2026-10-25"
+      "stage_sources": "SEN-003;SEN-005;SEN-002",
+      "gaps": "No source found since October 2023 states an open licence or terms that let anyone reuse a public body's data.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: no source states an open licence for any body's data; two bodies publishing on the Géoportail (SEN-004) does not answer question 2.",
+      "as_at": "2026-11-09"
     }
   ]
 }

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "metsat",
-      "stage": "5",
+      "stage": "3",
       "stream": "inservice",
-      "warnings": "issued",
-      "certified": "certified",
+      "warnings": "",
+      "certified": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "TZA-003",
-      "gaps": "",
+      "stage_sources": "TZA-001;TZA-002",
+      "gaps": "No source found since October 2023 says the weather service issues warnings drawing on satellite data.",
       "note": "First pass: counted from the four questions by study-ladder-metsatellite.py.",
-      "as_at": "2026-10-18"
+      "as_at": "2026-11-09"
     }
   ]
 }

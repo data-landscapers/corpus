@@ -10,4 +10,4 @@
 
 ***Also on file***. [MNBC](<https://trustmag.net/article/FIKzFdXn>); [Stratégie Nationale de Paiement Numérique](<https://fintech.bcm.mr/fr/ressources/SNPN/>); [Systeme National de Paiement](<https://fr.tawassoul.net/reunion-du-conseil-des-systemes-de-paiement-de-compensation-et-de-reglement-des-titres/>); [Stratégie Nationale de Paiement Numérique 2023-2028](<https://dashboard-fintech.bcm.mr/uploads/Strategie_Nationale_du_Paiement_Numerique_SNPN_VF_12092024_1_94c05464f5.pdf>).
 
-***Not found***. No source found since October 2023 says the country takes part in PAPSS or a regional payment system.
+***Not found***. No source found since October 2023 says the Central Bank of Mauritania licenses payment providers. Mobile money and e-money were looked for.

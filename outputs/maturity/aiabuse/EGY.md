@@ -10,4 +10,4 @@
 
 ***Also on file***. [Egyptian Center for Responsible AI (ECRAI)](<https://peopleofinternet.com/articles/egypt-reaches-for-misinformation-laws-to-fill-its-deepfake-g.html>).
 
-***Not found***. No source found since October 2023 gives an enforcement or redress decision about a harm from AI.
+***Not found***. No source found since October 2023 says: is a rule on ai harms in force.

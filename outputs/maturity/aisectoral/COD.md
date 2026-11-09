@@ -10,4 +10,4 @@
 
 ***Also on file***. [Voyage Santé](<https://afro.who.int/countries/democratic-republic-of-congo/news/who-deploys-pdx-preparedness-intelligence-platform-democratic-republic-congo>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No source found since October 2023 says AI is in service in two or more sectors. Each source names one.

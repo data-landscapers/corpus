@@ -10,4 +10,4 @@
 
 ***Also on file***. [LeSwitch](<https://publiceyenews.com/2025/05/20/leswitch-expands-to-pos-transactions>); [M-Pesa](<https://www.connectingafrica.com/fintech/vodacom-lesotho-launches-m-pesa-investment-solution>); [Tsetela](<https://www.connectingafrica.com/fintech/vodacom-lesotho-launches-m-pesa-investment-solution>); [mobile money](<https://lca.org.ls/wp-content/uploads/filr/4005/COMPARATIVE-HOUSEHOLD-RESULTS-2016_2023.pdf>); [CIPS](<https://techafricanews.com/2026/07/27/standard-bank-surpasses-cny-8-billion-in-china-cross-border-payment-transactions/>).
 
-***Not found***. No source found since October 2023 says the country takes part in PAPSS or a regional payment system.
+***Not found***. No source found since October 2023 says the Central Bank of Lesotho licenses payment providers. The bill that would allow it is before parliament.

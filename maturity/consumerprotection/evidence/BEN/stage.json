@@ -1,17 +1,18 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "protection",
-   "stage": "4",
-   "rules": "inforce",
-   "redress": "redress",
-   "enforced": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BEN-001",
-   "gaps": "No source found since October 2023 reports a fine, sanction or complaint figures.",
-   "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "protection",
+      "stage": "unplaced",
+      "rules": "",
+      "redress": "",
+      "enforced": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found since October 2023 says whether consumer-protection rules apply to digital finance.",
+      "note": "First pass: counted from the four questions by study-ladder-consumerprotection.py.",
+      "as_at": "2026-11-09"
+    }
+  ]
 }

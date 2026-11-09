@@ -13,8 +13,10 @@ r"""study-ladder-fibrebackbone.py — the national fibre backbone study's four q
 3. **Every region**: a `reach` of `every-region`, of any age.
 4. **Capacity sold**: an `access` of `open`, of any age, where question 3 is a yes.
 
-**A yes to a later question answers the earlier ones** (method §3.3), except that question 4
-needs question 3: open access on a backbone that reaches some regions only leaves stage 3.
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a
+later yes no longer answers the earlier ones, and a cell takes the last rung its evidence
+reaches without a gap. A higher `reach` still answers a lower one: a backbone in service
+was built. Open access on a backbone that reaches some regions only leaves stage 3.
 **A later dated `none` reverses** (method §3.5): a `reach` of `none` dated after every
 positive `reach` row, and inside three years, sets stage 1; an `access` of `none` after
 every `open` row withdraws question 4. A fact dated after the as-at sets nothing. A year or

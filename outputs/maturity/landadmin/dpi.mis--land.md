@@ -1,6 +1,6 @@
 # Land: land
 
-*As at 2026-09-30.*
+*As at 2026-08-31.*
 
 ## The norm
 
@@ -20,9 +20,9 @@ The AU Framework and Guidelines on Land Policy asks for a computerised land info
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
+| 5 Leading | 4 |
 | 4 Operating | 1 |
-| 3 Established | 11 |
+| 3 Established | 12 |
 | 2 Nascent | 16 |
 | 1 Absent | 0 |
 | Unplaced | 12 |
@@ -35,12 +35,6 @@ The AU Framework and Guidelines on Land Policy asks for a computerised land info
 The land system was linked to land or property tax in 2025.
 
 - The eLand platform's own site says it has tax calculation and an integrated payment system for land taxes, fees and charges, with receipts and revenue reports ([source, 2025](https://land.et)).
-
-### Ghana: 5 Leading
-
-The land system was linked to land or property tax in 2024.
-
-- Then-Lands Minister Jinapor said in 2024 that ELIS had enabled stamp duty assessment to be completed online ([source, 2024](https://labarijournal.com/ghana-has-spent-years-trying-to-digitise-its-land-registry-system-progress-is-still-underwhelming/)).
 
 ### Kenya: 5 Leading
 
@@ -103,6 +97,13 @@ Land transactions were processed electronically in 2025; no source found reports
 Land transactions were processed electronically in 2026; no source found reports a link to survey maps or valuation.
 
 - The Ministry of Natural Resources and Energy says the Deeds Registry has computerised its land, debts and miscellaneous contract registers since 1995, updated daily as ownership changes hands, with scanned records on-line on a local network ([source, 2026-08-29](https://gov.sz/index.php/departments-sp-623334762/deeds)).
+
+### Ghana: 3 Established
+
+The land system handled some services online in 2024 and 2026; its link to survey maps or valuation is not known.
+
+- A digital Client Service Access Unit inaugurated in Ho on 3 June 2026 enabled deployment of the Enterprise Land Information System in the Volta Region, where clients can submit land applications and track progress ([source, 2026-06-03](https://www.graphic.com.gh/news/general-news/digital-client-service-access-unit-inaugurated-at-volta-regional-office-of-lands-commission.html)).
+- Then-Lands Minister Jinapor said in 2024 that ELIS had enabled selected services, including consolidated searches and plan approvals, to be completed online, with full migration from manual operations still in progress ([source, 2024](https://labarijournal.com/ghana-has-spent-years-trying-to-digitise-its-land-registry-system-progress-is-still-underwhelming/)).
 
 ### Malawi: 3 Established
 

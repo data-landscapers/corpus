@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "5",
+      "stage": "3",
       "use": "inservice",
       "sectors": "several",
       "results": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-006;UGA-003;UGA-005",
-      "gaps": "No single source found says AI is in service in the public systems of two or more sectors; a later yes answers that question.",
-      "note": "The Revenue Authority's Commissioner General said AI uncovered leakages that recovered 200 billion shillings, and a review reports CAD4TB's accuracy in TB screening. Both are measured results of systems in service, in separate sources.",
-      "as_at": "2026-10-22"
+      "stage_sources": "UGA-005;UGA-002",
+      "gaps": "No single source found says AI is in service in the public systems of two or more sectors.",
+      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: no single source says AI is in service in two or more sectors; the Revenue Authority's 200 billion shillings recovered was the higher fact.",
+      "as_at": "2026-11-09"
     }
   ]
 }

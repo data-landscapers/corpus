@@ -49,7 +49,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Operating | Yes to 1, 2 and 3: the law has been used |
 | 5 Leading | Yes to all four: the law is in regular use |
 
-- **A yes to a later question answers the earlier ones**: a conviction under the law shows it is in force.
+- **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114)*: a conviction under the law no longer shows it is in force.
 - **Questions 1 and 2 have no time limit**; a law stands, with its year, until a dated source says it is repealed or struck down.
 - **A statement that there is no law counts for three years.**
 - **Who the law is used against is not judged.** A prosecution of a journalist or a critic under it is a use of the law, and the summary says who was prosecuted.

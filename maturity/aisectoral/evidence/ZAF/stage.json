@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sectorai",
-      "stage": "5",
+      "stage": "3",
       "use": "inservice",
-      "sectors": "several",
-      "results": "reported",
+      "sectors": "",
+      "results": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZAF-005;ZAF-003",
-      "gaps": "",
+      "stage_sources": "ZAF-001;ZAF-004",
+      "gaps": "No source found since October 2023 says AI is in service in the public systems of two or more sectors.",
       "note": "First pass: counted from the four questions by study-ladder-aisectoral.py.",
-      "as_at": "2026-10-18"
+      "as_at": "2026-11-09"
     }
   ]
 }
