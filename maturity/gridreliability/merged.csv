@@ -17,6 +17,7 @@ BFA,2026-02-20-bfa-burkina-faso-zoom-sur-les-12-chantiers-strategiques-du-minist
 BFA,2026-08-07-aib-bobo2-centrale-thermique-264mw,,2026-10-19
 BFA,ref:enterprise-surveys-outages@2026-09-24,,2026-10-19
 BWA,ref:enterprise-surveys-outages@2026-09-24,,2026-10-19
+CAF,2024-08-07-caf-hisp-wca-revitalisation-snis-dhis2,,2026-11-09
 CAF,2024-12-18-worldbank-icr-puracel-electricity-project,,2026-10-19
 CAF,ref:enterprise-surveys-outages@2026-09-24,,2026-10-19
 CIV,2025-12-23-xaf-inside-the-race-to-fire-up-africa-s-power-hungry-data-centres,,2026-11-06
@@ -24,11 +25,13 @@ CIV,2026-05-21-cote-divoire-coupures-electricite-politique-maillage-reseau-natio
 CIV,2026-08-11-cote-divoire-drible-tour-youth-data-protection,,2026-10-19
 CIV,2026-09-22-civ-sikafinance-datacenter-yamoussoukro-parae,,2026-10-19
 CIV,ref:enterprise-surveys-outages@2026-09-24,,2026-10-19
+CMR,2024-10-25-tcd-chad-looks-to-western-neighbors-for-internet-access-after-protracted-b,,2026-11-09
 CMR,2024-10-30-cameroon-to-standardize-electricity-rates-for-all-customers,,2026-11-06
 CMR,2025-05-26-cenadi-digital-independence-data-centres-itweb,,2026-11-06
 CMR,2025-07-08-snia-2040-ai-roadmap-seven-pillars-techafricanews,,2026-11-06
 CMR,2025-07-24-cmr-dematerialising-public-contracts-procedures-merits-of-e-procurement-sy,,2026-11-06
 CMR,2025-12-03-rei-cameroon-secures-first-ever-solar-mini-grid-authorization,,2026-11-06
+CMR,2026-08-12-cmr-arsel-socadel-indicateurs-performance-2025,,2026-11-09
 CMR,2026-10-22-cmr-gilbert-ngono-onguene-la-numerisation-ne-peut-fonctionner-sans-une-ene,,2026-11-06
 CMR,2026-10-29-cmr-cameroun-coupures-d-electricite-126-heures-par-client-en-2025-selon-l,,2026-11-06
 CMR,ref:enterprise-surveys-outages@2026-09-24,,2026-10-19
@@ -121,11 +124,13 @@ MUS,ref:enterprise-surveys-outages@2026-09-24,,2026-10-19
 MWI,2025-01-01-loadshedding-programme-escom,,2026-10-19
 MWI,2025-01-20-mwi-techafrica-airtel-international-fibre-links,,2026-10-19
 MWI,2026-07-24-malawi-first-battery-storage-project,,2026-10-19
+MWI,2026-11-06-tza-m-mama-emergency-referral-costs-mobile-money,,2026-11-09
 MWI,ref:enterprise-surveys-outages@2026-09-24,,2026-10-19
 NAM,2026-03-18-nampower-integrated-annual-report-2025-grid-reliability,,2026-10-19
 NAM,2026-03-26-namibia-omburu-battery-project-commissioned,,2026-10-19
 NAM,ref:enterprise-surveys-outages@2026-09-24,,2026-10-19
 NER,2019-10-24-worldbank-doing-business-2020-niger-electricity-reliability,,2026-10-19
+NER,2024-10-25-tcd-chad-looks-to-western-neighbors-for-internet-access-after-protracted-b,,2026-11-09
 NER,2026-07-25-anp-diffa-delestages-groupes-electrogenes,,2026-10-19
 NER,ref:enterprise-surveys-outages@2026-09-24,,2026-10-19
 NGA,2019-11-12-power-outages-nigerian-tech-entrepreneurs,,2026-10-19
@@ -168,8 +173,10 @@ SWZ,2023-10-03-uasf-connectivity-programmes,,2026-10-19
 SWZ,ref:enterprise-surveys-outages@2026-09-24,,2026-10-19
 SYC,2024-01-01-puc-2023-annual-report,,2026-10-19
 SYC,ref:enterprise-surveys-outages@2026-09-24,,2026-10-19
+TCD,2024-10-25-tcd-chad-looks-to-western-neighbors-for-internet-access-after-protracted-b,,2026-11-09
 TCD,2024-12-01-pacte-national-de-lenergie-republique-du-tchad,,2026-10-19
 TCD,2025-07-09-presidence-suivi-sectoriel-eau-energie-aderm-12-centrales,,2026-10-19
+TCD,2025-12-29-tcd-suivi-du-secteur-des-telecommunications-et-de-l-economie-numerique,,2026-11-09
 TCD,2026-08-20-rfi-delestages-recurrents-ndjamena-incendie-centrale-farcha,,2026-10-19
 TCD,ref:enterprise-surveys-outages@2026-09-24,,2026-10-19
 TGO,2026-02-13-arse-togo-rapport-activites-2024-complet,,2026-10-19
@@ -186,6 +193,7 @@ TUN,ref:enterprise-surveys-outages@2026-09-24,,2026-10-19
 TZA,2025-12-23-xaf-inside-the-race-to-fire-up-africa-s-power-hungry-data-centres,,2026-11-06
 TZA,2026-05-08-ewura-electricity-performance-updates-march-2026,,2026-10-19
 TZA,2026-06-29-nationwide-blackout-investigation,,2026-10-19
+TZA,2026-11-06-tza-m-mama-emergency-referral-costs-mobile-money,,2026-11-09
 TZA,ref:enterprise-surveys-outages@2026-09-24,,2026-10-19
 UGA,2025-12-23-xaf-inside-the-race-to-fire-up-africa-s-power-hungry-data-centres,,2026-11-06
 UGA,ref:enterprise-surveys-outages@2026-09-24,,2026-10-19
@@ -209,6 +217,7 @@ ZMB,2025-04-01-zambia-digital-health-case-study,,2026-10-19
 ZMB,2025-07-01-data-centre-market-brief-zambia,,2026-10-19
 ZMB,2026-07-17-zambie-lance-reseau-4g-prive-govlink,,2026-10-19
 ZMB,2026-08-31-infratel-5m-power-resilience-efficacynews,,2026-10-19
+ZMB,2026-11-05-zmb-zambia-wants-german-investment-to-expand-telecom-networks-but-power-cu,,2026-11-09
 ZMB,ref:enterprise-surveys-outages@2026-09-24,,2026-10-19
 ZWE,2024-04-15-zwe-herald-debate-over-new-data-prices,,2026-10-19
 ZWE,2024-10-23-zwe-techpoint-telcos-adjust-tariffs,,2026-10-19
