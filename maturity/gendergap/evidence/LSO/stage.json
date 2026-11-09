@@ -4,13 +4,13 @@
     {
       "sub_indicator": "gender",
       "stage": "4",
-      "gap": "official:8.5",
+      "gap": "official:2.1739",
       "cap": "",
       "flags": "",
-      "stage_sources": "LSO-001",
-      "gaps": "The latest figure, 8.5 per cent for 2023, is above 2.",
-      "note": "The latest figure, 8.5 per cent for 2023 from the national household ICT survey, is 10 or less but above 2, so 4 and not 5. ITU's 2019 figure of -17.2 is older and does not set the rung.",
-      "as_at": "2026-11-05"
+      "stage_sources": "LSO-003",
+      "gaps": "The latest figure, 2.2 per cent for 2024, is above 2.",
+      "note": "Reassessed 2026-11-09 under Bill's ruling (message 86, housekeeping 55): Afrobarometer's March 2024 survey, later than the 2023 household ICT survey's 8.5 per cent, puts 46 per cent of men and 45 of women online, a gap of 2.2 per cent, above 2, so 4.",
+      "as_at": "2026-11-09"
     }
   ]
 }

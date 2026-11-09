@@ -60,3 +60,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-05,ZMB,include.access--gender-equity,review,unplaced,unplaced,,"Rebuild: latest figure 14.8 per cent for 2018, before 2023; no 2023-or-later figure in the listed news; unplaced holds"
 2026-11-05,ZWE,include.access--gender-equity,review,unplaced,unplaced,,"Rebuild: latest figure -2.8 per cent for 2020, before 2023; no 2023-or-later figure in the listed news; unplaced holds"
 2026-11-09,MWI,include.access--gender-equity,ladder,3,1,MWI-002,"Bill, message 86: Afrobarometer counts with DHS and MICS, above ITU; 2024 gap 45.5 per cent"
+2026-11-09,CPV,include.access--gender-equity,ladder,unplaced,4,CPV-002,"Bill, message 86: Afrobarometer 2024 gap 3.6 per cent"
+2026-11-09,LSO,include.access--gender-equity,ladder,4,4,LSO-003,"Bill, message 86: Afrobarometer March 2024 gap 2.2 per cent, later than the 2023 ICT survey"

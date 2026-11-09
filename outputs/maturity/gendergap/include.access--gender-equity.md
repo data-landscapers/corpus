@@ -21,11 +21,11 @@ The Maputo Protocol asks for women's access to and control of information techno
 | Stage | Countries |
 |---|---|
 | 5 Leading | 2 |
-| 4 Operating | 2 |
+| 4 Operating | 3 |
 | 3 Established | 3 |
 | 2 Nascent | 1 |
 | 1 Absent | 1 |
-| Unplaced | 22 |
+| Unplaced | 21 |
 | No evidence | 23 |
 
 ## Countries
@@ -42,11 +42,17 @@ In 2024, the gender gap in internet use was -17.5 per cent, women's use the high
 
 - ARTP's ENTICS survey reports 59.7% of women and 50.8% of men used the internet in the last thirty days, a gap of -17.5 per cent of men's rate (women higher) ([source, 2024-09](https://www.rewmi.com/enquete-nationale-sur-les-tic-au-senegal-entics-les-femmes-plus-connectees-que-les-hommes/)).
 
+### Cape Verde: 4 Operating
+
+In 2024, the gender gap in internet use was 3.6 per cent, by Afrobarometer's survey.
+
+- Afrobarometer's survey of August-September 2024 found 84.4% of men and 81.4% of women in Cape Verde use the internet at least a few times a month, a gender gap of 3.6 per cent ([source, 2024-09](https://www.afrobarometer.org/wp-content/uploads/2025/03/Summary-of-results-Cabo-Verde-Afrobarometer-R10-Eng-19march25.pdf)).
+
 ### Lesotho: 4 Operating
 
-In 2023, the gender gap in internet use was 8.5 per cent.
+In 2024, the gender gap in internet use was 2.2 per cent, by Afrobarometer's survey.
 
-- The Lesotho Communications Authority's 2023 national household ICT access and use survey (with the Bureau of Statistics) gives internet use of 59.9% for men and 54.8% for women, a 5.1 percentage point difference (the report's text describes this as in favour of women, but its figures show the men's rate higher) ([source, 2023](https://lca.org.ls/wp-content/uploads/filr/4005/COMPARATIVE-HOUSEHOLD-RESULTS-2016_2023.pdf)).
+- Afrobarometer's survey of March 2024 found 46% of men and 45% of women in Lesotho use the internet at least a few times a month, a gender gap of 2.2 per cent ([source, 2024-03](https://www.afrobarometer.org/wp-content/uploads/2024/08/Les_R10-Summary-of-results-6aug24-rev-1nov25.pdf)).
 
 ### Mauritius: 4 Operating
 
@@ -109,12 +115,6 @@ No figure for the gender gap in internet use has been found for 2023 or later, s
 Not established: No figure for 2023 or later has been found for the gender gap in internet use.
 
 ### Cameroon: Unplaced
-
-No figure for the gender gap in internet use has been found for 2023 or later, so no stage is set.
-
-Not established: No figure for 2023 or later has been found for the gender gap in internet use.
-
-### Cape Verde: Unplaced
 
 No figure for the gender gap in internet use has been found for 2023 or later, so no stage is set.
 

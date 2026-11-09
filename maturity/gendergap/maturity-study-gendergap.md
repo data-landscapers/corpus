@@ -47,7 +47,7 @@ Asked in order. Each is answered with a date and a link.
 
 - **The lines are the frame's own provisional cuts** (`lookups/maturity-measures.csv`, direction lower), fixed and not redrawn as quintiles.
 - **A rise is a rise**: the latest figure sets the stage. No figure for 2023 or later is *unplaced*; none at all is *No evidence*. A figure below zero, women's use the higher, counts as parity.
-- **Afrobarometer counts as a national household survey**, on equal terms with DHS and MICS and ahead of ITU's series *(Bill, 2026-11-09, message 86)*. **A figure for part of the population does not count**: Tunisia's census figure for literate people aged 10 and over is unplaced *(Bill, message 87)*.
+- **Afrobarometer counts as a national household survey**, on equal terms with DHS and MICS and ahead of ITU's series *(Bill, 2026-11-09, message 86)*. **A figure for part of the population does not count**: Tunisia's census figure for literate people aged 10 and over is unplaced *(Bill, message 87)*. **Afrobarometer's held surveys were read on 2026-11-09** (housekeeping 55): three countries staged on them, Malawi 3 to 1, Cape Verde unplaced to 4 and Lesotho at 4 on its later figure. Sudan's is for 2022 and Togo's cited figure for a 2022 round, so neither sets a rung; the rule is men's less women's share using the internet at least a few times a month, as a share of men's.
 
 `study.json` holds this as one aspect, `gap`, whose value is the figure (`official:…`).
 
