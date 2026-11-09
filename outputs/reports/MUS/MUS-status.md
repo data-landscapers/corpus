@@ -1,12 +1,12 @@
 ---
 title: Mauritius: status report
-compiled: 2026-11-08
+compiled: 2026-11-09
 place: MUS
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 7
-sources_cited: 189
+sources_cited: 190
 sections_written: 39
 not_established: 1
 acquire_lines: 29
@@ -362,7 +362,7 @@ No Gulf state, operator or investor was found holding a position in Mauritius's 
 
 [The UPI-RuPay arrangement agreed in February 2024 is Mauritius's first bilateral cross-border payments agreement](https://lexpress.mu/node/554033). Mauritians can pay directly on India's payment rails. [MauCAS, the domestic rail, is joined to the Unified Payments Interface network-to-network](https://www.africanenda.org/uploads/files/siips_2024_MauCas_CaseStudy_en.pdf). [QR payments settle in Indian rupees through a designated settlement bank](https://www.africanenda.org/uploads/files/siips_2024_MauCas_CaseStudy_en.pdf).
 
-[Prime Minister Ramgoolam and Prime Minister Modi held discussions at the AI Impact Summit in New Delhi in February 2026](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/). [Mauritius's move to join the America-India Connect subsea cable programme followed them](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/). [It was announced on 16 July 2026](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/). [State Informatics Limited, the state IT company, signed a memorandum with Tata Consultancy Services on 15 October 2026](https://www.topfm.mu/actualites/partenariat-sil-tcs-maurice-accelere-sa-transformation-numerique). [It covers developing digital solutions, transferring skills and modernising public- and private-sector services](https://www.topfm.mu/actualites/partenariat-sil-tcs-maurice-accelere-sa-transformation-numerique). No sum or timetable is stated. [The Prime Minister told the National Assembly on 28 April 2026 that India would help build a command-and-control centre and forensic capacity for the police cybercrime unit](https://primeminister.govmu.org/pm/?p=4467).
+[Prime Minister Ramgoolam and Prime Minister Modi held discussions at the AI Impact Summit in New Delhi in February 2026](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/). [Mauritius's move to join the America-India Connect subsea cable programme followed them](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/). [It was announced on 16 July 2026](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/). [State Informatics Limited, the state IT company, signed a memorandum with Tata Consultancy Services on 15 October 2026](https://www.topfm.mu/actualites/partenariat-sil-tcs-maurice-accelere-sa-transformation-numerique). [It covers developing digital solutions, transferring skills and modernising public- and private-sector services](https://www.topfm.mu/actualites/partenariat-sil-tcs-maurice-accelere-sa-transformation-numerique). No sum or timetable is stated. [The Prime Minister told the National Assembly on 28 April 2026 that India would help build a command-and-control centre and forensic capacity for the police cybercrime unit](https://primeminister.govmu.org/pm/?p=4467). [On 6 November 2026 Cabinet agreed a cybercrime memorandum with India's home affairs ministry and approved an Indian-funded cell-broadcast early warning system](https://pmo.govmu.org/CabinetDecision/2026/Highlights%20of%20Cabinet%20Meeting%20Friday%2006%20November%202026.pdf).
 
 ### Digital sovereignty
 <!-- geopol.sovereignty -->
