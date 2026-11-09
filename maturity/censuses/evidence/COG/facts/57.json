@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-14-cog-numerique-les-tuyaux-ont-gagne-du-terrain-l-usage-cherche-encore-le-si",
+ "facts": [
+  {
+   "sub_indicator": "census",
+   "aspect": "census",
+   "value": "taken",
+   "fact": "ADIAC says the fifth general population census was conducted in December 2023.",
+   "as_of": "2023-12",
+   "date_precision": "month",
+   "system": "RGPH-5 2023",
+   "class": "census"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RGPH-5 2023",
+   "country_label": "RGPH-5 2023",
+   "class": "census",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

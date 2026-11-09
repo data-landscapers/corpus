@@ -205,8 +205,9 @@ The RGPH 2017 was counted in 2017; no results of it are known to be out.
 
 ### Congo: 3 Established
 
-The RGPH-5 had been counted by 2025; no results of it are known to be out.
+Congo counted its fifth census in December 2023; no published results of it are known.
 
+- ADIAC says the fifth general population census was conducted in December 2023 ([source, 2023-12](https://www.adiac-congo.com/content/numerique-les-tuyaux-ont-gagne-du-terrain-lusage-cherche-encore-le-sien-171228)).
 - The INS opened a workshop on 27 November 2025 to validate indicators and tables drawn from the fifth national population and housing census (RGPH-5), whose data were already collected and whose preliminary results were on display; the article gives no enumeration date, so the document's publication date is used ([source, 2025-11-29](https://www.adiac-congo.com/content/statistiques-lins-ouvre-latelier-national-de-validation-des-indicateurs-du-rgph-5-168128)).
 
 ### Cote d'Ivoire: 3 Established
