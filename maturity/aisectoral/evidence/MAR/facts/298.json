@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-06-mar-morocco-korea-advance-customs-cooperation-on-ai-digitalization",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The customs administration (ADII) and the Korea Customs Service, with Korean firm Okestro, entered the final phase of a project begun May 2026 applying big data and AI to revenue management systems, per an ADII statement.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "ADII-KCS big data and AI project",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
