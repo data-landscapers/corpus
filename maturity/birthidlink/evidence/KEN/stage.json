@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "KEN-001",
-      "gaps": "No source found since October 2023 says births enrol people in the ID system and deaths retire their numbers.",
-      "note": "Rebuild: Civil Registration Services say birth records and ID registration carry each other's numbers and birth records verify identity at ID registration (2026). Nothing found says deaths retire ID numbers.",
-      "as_at": "2026-10-22"
+      "gaps": "No source found since October 2023 says births enrol people in the ID system and deaths retire their numbers in service; in November 2026 both were still stated as plans.",
+      "note": "Civil Registration Services say birth records and ID registration carry each other's numbers and birth records verify identity at ID registration (2026), stage 3. In November 2026 the PS told MPs the birth number would become the ID number and a registered death would retire the record, as plans, so not 4.",
+      "as_at": "2026-11-10"
     }
   ]
 }
