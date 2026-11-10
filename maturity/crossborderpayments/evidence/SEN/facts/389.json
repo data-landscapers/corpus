@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-09-sen-wave-precise-l-acces-a-pi-spi-au-senegal-et-en-cote-d-ivoire",
+ "facts": [
+  {
+   "sub_indicator": "crossborder",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "BiFinances reports Wave announced on 6 November 2026 that its customers in Senegal can send and receive through the BCEAO's regional PI-SPI platform.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "crossborder"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
