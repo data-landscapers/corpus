@@ -8,10 +8,10 @@
       "service": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BDI-001",
-      "gaps": "No source found says building has started in the last three years.",
-      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
-      "as_at": "2026-11-08"
+      "stage_sources": "BDI-001;BDI-002",
+      "gaps": "An unnamed private firm is said to be contracted for the Zambia cable, but no contract, contractor or start of works is named; nothing is in service.",
+      "note": "Burundi has agreed fibre links with the Democratic Republic of the Congo (2024) and Zambia (October 2024). A contractor reported without a name or a date is not a contract awarded, so not 3.",
+      "as_at": "2026-11-10"
     }
   ]
 }

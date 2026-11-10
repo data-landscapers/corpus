@@ -1,0 +1,17 @@
+{
+ "slug": "2025-10-17-zaf-wacren-lagos-cape-town-ren-interconnection-zaoxi",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "link",
+   "fact": "WACREN reports that its network is directly interconnected with the ZAOXI exchange point in Cape Town through South Africa's SANReN and TENET over a new 10 Gbps Lagos-Cape Town link, announced on 17 October 2025.",
+   "as_of": "2025-10-17",
+   "date_precision": "day",
+   "system": "WACREN Lagos GXP to ZAOXI link",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

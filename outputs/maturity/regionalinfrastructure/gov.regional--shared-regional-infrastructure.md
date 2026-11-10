@@ -21,9 +21,9 @@ The African Union's Programme for Infrastructure Development in Africa and its D
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 27 |
+| 4 Operating | 28 |
 | 3 Established | 5 |
-| 2 Nascent | 10 |
+| 2 Nascent | 9 |
 | 1 Absent | 1 |
 | Unplaced | 2 |
 | No evidence | 9 |
@@ -37,6 +37,12 @@ Algeria and Niger opened their trans-Saharan fibre link in October 2026; no shar
 - APS reports that on 2026-10-06 Algeria's and Niger's ministers launched operation at Assamaka of the fibre-optic trans-Saharan backbone linking In-Guezzam (Algeria) to the Arlit-Agadez region (Niger), with 100 Gbps capacity from the start, to carry data traffic between the two countries ([source, 2026-10-06](https://algerie-eco.com/2026/10/06/lalgerie-et-le-niger-lancent-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/)).
 - ANP reports that on 2026-10-06 the ministers of Niger and Algeria presided at Assamaka over the official launch of operation of the trans-Saharan fibre-optic backbone linking Niger to Algeria ([source, 2026-10-06](https://anp.ne/niger-algerie-lancement-a-assamaka-de-lexploitation-de-la-dorsale-transsaharienne-a-fibre-optique/)).
 - Niger's communications ministry reports that on 2026-10-05 its minister, with Algeria's ambassador and an Algerian technical delegation, arrived in Agadez to launch the works of the Niger-Algeria fibre-optic interconnection ([source, 2026-10-05](https://mcnti.gouv.ne/cooperation-niger-algerie-arrivee-du-ministre-hamani-kargne-a-agadez-pour-le-lancement-des-travaux-dinterconnexion-par-fibre-optique/)).
+
+### Angola: 4 Operating
+
+Angola's state operator carried services over a fibre link with Namibia's in 2026; no shared exchange or data centre is known.
+
+- Angola Telecom's executive director said a terrestrial fibre link between Angola (Santa Clara) and Namibia (Ondjiva) already exists and the two operators already provide telecom services in both directions ([source, 2026-07-01](https://pti.ao/angola-telecom-preve-operacao-do-cabo-submarino-sarssy-ate-2027/)).
 
 ### Cameroon: 4 Operating
 
@@ -244,13 +250,6 @@ Uganda completed shared fibre links with Rwanda and Kenya in 2026; neither is kn
 - Uganda's Northern Corridor projects head says Uganda and Rwanda made the final fibre connection at Mirama Hills earlier in 2026, built under the Northern Corridor Integration Projects; operators must still agree capacity before it is switched on ([source, 2026](https://pmldaily.com/news/2026/08/uganda-rwanda-complete-fiber-link-at-mirama-hills-border.html)).
 - PML Daily reports Uganda and Kenya have completed a fibre connection at Busia, with an agreement between NITA-U and Kenya's ICT Authority still to be finalised before commercial service ([source, 2026-08-24](https://pmldaily.com/news/2026/08/uganda-rwanda-complete-fiber-link-at-mirama-hills-border.html)).
 
-### Angola: 2 Nascent
-
-Angola agreed in 2026 to let Mozambique and Namibia use its satellite; no source found says shared infrastructure is in service.
-
-- ITWeb Africa reports that Angola's National Space Programme Management Office signed a commercial pilot agreement with Telecom Namibia to validate satellite-driven backhaul; the article gives no signing date, so the document's published date is used ([source, 2026-08-25](https://www.itweb.africa/article/tmcel-begins-angosat-2-satellite-trials/JN1gPvOAwolMjL6m)).
-- ITWeb Africa reports, citing Angola's telecommunications ministry (MINTTICS), that Angola and Mozambique signed a bilateral memorandum in June 2026 under which Mozambique's Tmcel and TVM would use Angola's ANGOSAT-2 satellite for telecom and broadcast signals, with a commercial agreement still to be formalised ([source, 2026-06](https://www.itweb.africa/article/tmcel-begins-angosat-2-satellite-trials/JN1gPvOAwolMjL6m)).
-
 ### Benin: 2 Nascent
 
 Benin's SBIN agreed a Lagos to Accra fibre route with Nigerian and Ghanaian partners in 2025; no source found says it is in service.
@@ -259,9 +258,10 @@ Benin's SBIN agreed a Lagos to Accra fibre route with Nigerian and Ghanaian part
 
 ### Burundi: 2 Nascent
 
-Burundi adopted a fibre memorandum with the Democratic Republic of the Congo in 2024; no source found says building has started.
+Burundi agreed fibre links with the Democratic Republic of the Congo and Zambia in 2024; no source says building has started.
 
 - Burundi's Council of Ministers of 8 May 2024 analysed and adopted the memorandum of understanding on the DRC-Burundi fibre-optic interconnection project, described as a joint initiative, per the government communique reported by ABP ([source, 2024-05-08](https://abpinfo.bi/2024/05/15/un-memorandum-dentente-du-projet-dinterconnexion-par-fibre-optique-entre-la-republique-democratique-du-congo-et-le-burundi-a-ete-adopte-au-conseil-des-ministres/)).
+- ITWeb Africa reports that Burundi and Zambia signed an MoU at the Digital Government Africa Summit in Lusaka for a fibre cable under Lake Tanganyika linking Zambia's Northern province to Burundi's Makamba province, with a private firm, not yet named, contracted ([source, 2024-10](https://itweb.africa/article/burundi-zambia-agree-underwater-fibre-connection/kLgB17ezr59M59N4)).
 
 ### DR Congo: 2 Nascent
 

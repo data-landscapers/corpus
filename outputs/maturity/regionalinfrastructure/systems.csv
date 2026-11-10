@@ -7,8 +7,11 @@ AGO,ANGOSAT-2,ANGOSAT-2,shared,satellite,Angola (National Space Programme Manage
 AGO,angonix and Angola IXP,Angola,other,,,,2026-06-01-isoc-pulse-ixp-tracker-angola
 AGO,MONET and SACS,Angola,other,submarine cable,Angola Cables,,2026-09-29-ago-ciena-angola-cables-monet-sacs-800g
 AGO,Angola cross-border fibre links to DRC and Namibia,Angola,other,fibre,,,2024-02-20-ago-angola-and-zambia-sign-ict-cooperation-agreement
+AGO,SARSSy,Angola,shared,submarine cable,Angola Telecom; Telecom Namibia,,2026-07-01-ago-angola-telecom-preve-operacao-do-cabo-submarino-sarssy-ate-2027
+AGO,Nacala-Lobito cable,Angola,shared,submarine cable,,,2026-06-23-moz-mocambique-e-angola-avancam-com-cabo-nacala-lobito-para-reforcar-corre
 BDI,DRC-Burundi fibre-optic interconnection project,Burundi,shared,fibre optic,,,2024-05-15-bdi-abp-memorandum-fibre-rdc-burundi
 BDI,BDIXP,Burundi Internet Exchange Point,other,,,,2026-08-01-burundi-ixp-tracker-bdixp-isoc-pulse
+BDI,Lake Tanganyika Burundi-Zambia fibre cable,Makamba (Burundi) to Northern province (Zambia) cable,shared,submarine fibre,,,2024-10-07-zmb-burundi-zambia-agree-underwater-fibre-connection
 BEN,Customs Declaration Exchange System (CDES),CDES,other,,Benin and Nigeria customs administrations,customs,2026-09-15-wearetech-benin-nigeria-douanes-interconnexion
 BEN,Customs Webb,Customs Webb,other,,Benin customs,customs,2026-09-15-wearetech-benin-nigeria-douanes-interconnexion
 BEN,Système d'information policière d'Afrique de l'Ouest (SIPAO),SIPAO,other,,"ECOWAS, with Interpol support and EU funding",police,2025-10-02-afis-empreintes-digitales-sipao-cedeao
@@ -54,6 +57,7 @@ CMR,Dorsale à fibre optique d'Afrique centrale (Central African Backbone - CAB)
 CMR,CAB-CORRIDOR,CAB-CORRIDOR,shared,terrestrial fibre interconnection over the Central African Backbone,SPIN (Gabon) and CAMTEL (Cameroon),,2026-10-03-cab-corridor-la-spin-et-camtel-renforcent-la-connectivite-numerique-en
 CMR,Nana-Mbere fiber optic section,Nana-Mbere fiber optic section,shared,fibre optic,CAMTEL (Cameroon) and Sotel Tchad,,2025-05-16-cameroon-chad-digital-cooperation-agreement-techreviewafrica
 CMR,CAMIX Douala,Cameroon Internet Exchange Point,other,,,,2026-08-01-isoc-pulse-camix-douala-tracker
+CMR,Central African Backbone,Cameroon,shared,fibre,"CEEAC states with World Bank, AfDB, EU",,2026-10-01-cmr-comment-internet-arrive-au-cameroun
 COD,CAR-DRC fibre-optic interconnection,interconnexion par fibre optique RCA-RDC,shared,terrestrial fibre,,national ministries,2026-10-12-agenceecofin-centrafrique-rdc-fibre-link
 COD,West Africa Cable System (WACS),WACS,shared,"submarine cable, 14,530 km, landing at Moanda",,,2026-10-12-agenceecofin-centrafrique-rdc-fibre-link
 COD,2Africa,2Africa,other,"submarine cable, landing at Moanda; Airtel activated 200 Gbps in the DRC on 2025-12-18",Meta and consortium,,2026-10-12-agenceecofin-centrafrique-rdc-fibre-link
@@ -67,6 +71,7 @@ COD,Kigoma-Kalemie fibre-optic cable across Lake Tanganyika,national fibre-optic
 COD,G2M (Goma-to-Mombasa) fibre route,G2M,other,protected terrestrial fibre,Paratus Group,"carriers, ISPs and enterprise clients",2026-02-09-paratus-goma-mombasa-fibre-highway-itweb
 COD,DRC-Burundi fibre-optic interconnection project,Democratic Republic of the Congo,shared,fibre optic,,,2024-05-15-bdi-abp-memorandum-fibre-rdc-burundi
 COD,"KINIX, LUBIX, GOMIX",DR Congo,other,,ISPA-DRC,,2024-02-08-cod-how-ixps-helped-reshape-the-internet-in-the-drc
+COD,Tanzania-DRC national backbone link via Lake Tanganyika,DR Congo,shared,lake fibre cable,,,2026-08-18-tza-naibu-waziri-mkama-akagua-mradi-wa-mkongo-wa-taifa-kuunganisha-tanzani
 COG,Project East2West,East2West,other,terrestrial fibre optic network (dark and active fibre),"Bayobab (MTN GlobalConnect Solutions), majority sponsor; Africa50 co-developer; Smart Africa Alliance technical partner",,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
 COG,Central African Backbone (CAB),Central African Backbone project,shared,terrestrial fibre,,,2026-01-01-xalam-congo-republic-data-center-market-briefing
 COG,"Congo river cables, Brazzaville-Kinshasa",Submarine cables across the Congo river,other,fibre cable,,,2026-01-01-xalam-congo-republic-data-center-market-briefing
@@ -153,6 +158,7 @@ GHA,Accra-IX,Ghana,other,internet exchange,,,2026-08-16-ghana-accra-ix-200gbps-t
 GIN,Guinea-Sierra Leone national backbone interconnection,interconnection of national internet backbone networks,shared,,Governments of Guinea and Sierra Leone,,2025-11-17-natca-guinea-free-roaming
 GIN,SOGEB-Leoncom Pamelap fibre interconnection,Guinea-Sierra Leone Digital Pact 2024 interconnection,shared,"fibre optic, IP/MPLS",SOGEB (Guinea); Leoncom (Sierra Leone),"telecom operators (Orange, MTN), enterprises, public institutions, border communities",2025-06-23-sogeb-leonecom-fibre-interconnection
 GIN,redundant terrestrial fibre route,Guinea,other,terrestrial fibre,,,2024-09-05-lbr-sierraloaded-natca-terrestrial-fibre-mou
+GIN,TRANSCO CLSG fibre capacity,Guinea,other,,TRANSCO CLSG,,2026-06-16-transco-clsg-fibre-expansion-techafricanews
 GMB,Cross Gambia (CG2) backup link with Free Senegal,Cross Gambia (CG2),shared,terrestrial link,Gamtel; Free (Senegal),,2026-09-21-gamtel-company-profile-ace-25-gbps
 GNB,Amilcar Cabral submarine cable,Amilcar Cabral submarine cable,shared,submarine cable,ECOWAS project,,2024-06-14-gnb-ang-amilcar-cabral-cabo-submarino
 GNQ,Equatorial Guinea Internet Exchange Point (IXP),Equatorial Guinea Intenet EXchange Point (IXP),other,,"Regulador de las Telecomunicaciones (lead national agency), under AU PIDA programme 51 with ECCAS as regional coordinator",,2017-01-01-pida-pap-equatorial-guinea-internet-exchange-point
@@ -177,6 +183,9 @@ KEN,LINX Nairobi,LINX Nairobi,other,,LINX,,2024-09-11-dcnn-linx-nairobi-expands-
 KEN,KIXP,Kenya,other,,TESPOK,,2024-05-24-ken-kixp-presentaion-kenog-may-2024
 KEN,KIXP,Kenya,other,,TESPOK,,2024-04-08-ken-session-3-internet-exchange-points-and-best-practices-for-internationa
 KEN,Dar-es-Salaam to Mombasa Terrestrial Fibre Link,Kenya,shared,,ICT Authority (Kenya) and TTCL (Tanzania),,2025-07-21-ken-kenya-and-tanzania-launch-cross-border-fibre-link-to-boost-east-africa
+KEN,Juba-Nairobi Fiber Optic Link,Kenya,shared,fibre link,Governments of Kenya and South Sudan,,2025-08-01-ssd-juba-nairobi-fiber-optic-link
+KEN,EARTTDFP Eldoret-Nadapal fibre,Kenya,shared,fibre,Government of Kenya with World Bank,,2025-05-16-ken-kenya-world-bank-deepen-cross-border-connectivity
+KEN,Horn of Africa Gateway Development Project,Kenya,shared,fibre,Government of Kenya with World Bank,,2025-05-16-ken-kenya-world-bank-deepen-cross-border-connectivity
 LBR,TRANSCO CLSG fibre optic network,TRANSCO CLSG,shared,fibre on the TRANSCO CLSG transmission line,TRANSCO CLSG,"national telecom operators and ICT ministries of Liberia, Sierra Leone, Guinea, Cote d'Ivoire",2026-06-16-transco-clsg-fibre-expansion-techafricanews
 LBR,Africa Coast to Europe (ACE) submarine cable,ACE,other,"submarine cable, single landing in Monrovia",,,2026-06-16-transco-clsg-fibre-expansion-techafricanews
 LBR,redundant terrestrial fibre route,Liberia,other,terrestrial fibre,,,2024-09-05-lbr-sierraloaded-natca-terrestrial-fibre-mou
@@ -212,6 +221,7 @@ MOZ,MOZIX,Mozambique,other,,,,2026-07-01-isoc-pulse-ixp-tracker-mozix
 MOZ,Raxio MZ1,Mozambique,other,,Raxio Group,,2026-08-08-raxio-mozambique-mz1-data-centre-specification
 MOZ,MoRENet Cape Town border PoP,MoRENet international link,shared,"AmLight-SACS, SANReN, TENET, WIOCC",MoRENet,,2025-10-30-morenet-international-bandwidth-5-to-60-gbps-amlight-sacs
 MOZ,Mozambique-Zambia Interconnectivity Project (Cassacatiza),Mozambique,shared,fibre,Vodacom Moçambique and Bayobab Zambia,,2026-02-23-moz-mocambique-e-zambia-avancam-com-interligacao-digital-transfronteirica
+MOZ,Nacala-Lobito cable,Mozambique,shared,submarine cable,,,2026-06-23-moz-mocambique-e-angola-avancam-com-cabo-nacala-lobito-para-reforcar-corre
 MRT,Transafrican terrestrial fibre cable,Maroc Telecom transafrican terrestrial cable (Morocco-Mauritania-Mali-Burkina Faso-Niger),other,terrestrial fibre,Maroc Telecom / Moov Africa,,2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable
 MUS,AFRINIC,African Network Information Centre (AFRINIC),other,,"AFRINIC Ltd, a Mauritius company under court-appointed Official Receiver",,2026-08-13-btw-media-afrinic-appeal-receiver-permission-statutory-leave
 MUS,AFRINIC,African Network Information Centre (AFRINIC),other,,"AFRINIC Ltd, a Mauritius company under court-appointed Official Receiver",,2026-08-10-btw-media-afrinic-eight-seat-board-election-evidence-gap
@@ -302,6 +312,7 @@ SEN,Ikasira,Ikasira,other,,Sonatel,,2025-05-09-techafricanews-phase3-sonatel-fib
 SEN,interconnexion des backbones du Senegal et du Mali (Kidira-Diboli),Interconnexion des reseaux dorsaux en fibre optique,shared,fibre optic,Senegal Numerique SA (SENUM SA) and Societe malienne de transmission et de diffusion (SMTD-SA),national backbone operators of Senegal and Mali,2026-10-06-sen-aps-senum-smtd-backbone-interconnection-kidira
 SEN,Cross Gambia (CG2) backup link with Free Senegal,Cross Gambia (CG2),shared,terrestrial link,Free (Senegal); Gamtel (Gambia),Gamtel holds 28 Gbps,2026-09-21-gamtel-company-profile-ace-25-gbps
 SEN,SENIX,SENIX,other,,,,2026-06-30-isoc-senegal-snpif-2026-peering-interconnection-forum
+SEN,ROA-BN,Senegal,other,network of national backbone operators,nine West African countries,,2026-04-10-sen-roa-bn-atelier-strategique-2026-2030-dakar
 SLE,TRANSCO CLSG fibre network,TRANSCO CLSG transmission network fibre,shared,,TRANSCO CLSG,,2026-06-16-transco-clsg-fibre-expansion-techafricanews
 SLE,Sierra Leone-Guinea national backbone interconnection,Sierra Leone-Guinea backbone interconnection,shared,,,,2025-11-17-natca-guinea-free-roaming
 SLE,SOGEB-Leoncom fibre interconnection at Pamelap,Guinea-Sierra Leone fibre interconnection,shared,"fibre optic, IP/MPLS",SOGEB (Guinea); Leoncom (Sierra Leone),,2025-06-23-sogeb-leonecom-fibre-interconnection
@@ -319,6 +330,7 @@ SSD,Kenya-South Sudan cross-border digital connectivity MoU,Cross-border digital
 SSD,"Bayobab East to West Connectivity Project, Northern Route 1",South Sudan,other,terrestrial fibre,Bayobab (MTN Group),,2026-11-03-bayobab-east-west-fibre-south-sudan
 SSD,Eastern Africa Regional Digital Integration Project,EARDIP,shared,,MICT&PS,,2025-08-29-south-sudan-eardip-implementation-support-mission
 SSD,East2West Connectivity Project,South Sudan,other,terrestrial fibre,Africa50 and Bayobab,,2026-02-23-ssd-major-milestone-for-africa-s-digital-connectivity
+SSD,Juba-Nairobi Fiber Optic Link,South Sudan,shared,fibre link,Governments of Kenya and South Sudan,,2025-08-01-ssd-juba-nairobi-fiber-optic-link
 STP,Africa Coast to Europe (ACE) optical fibre submarine cable,ACE,other,submarine fibre cable,ACE consortium; STP holds a stake via STP-Cabo SARL (government and CST),,2011-01-20-wb-stp-002-central-african-backbone-ace-cable
 STP,submarine cable to Príncipe,cabo submarino para Príncipe,other,,,,2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025
 STP,government data centre,data centre do Governo,other,,INIC,,2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025
@@ -346,6 +358,7 @@ TCD,BRIDGE,projet BRIDGE,shared,"fibre optique, accès ouvert, 90 000 km",Nigeri
 TCD,Libya-Chad fibre-optic link,Libya-Chad,other,fibre,,,2026-10-20-tcd-tlcommunications-la-libye-prvoit-dachever-le-raccordement-de-la-fibre
 TCD,N'Djamena-Cameroon link,Chad,shared,fibre,Government of Chad,,2026-03-19-tcd-project-to-modernize-ict-electronic-communication-infrastructure-to-ac
 TCD,"Trans-Saharan Backbone Project, Chad-Niger link",Chad,shared,fibre,Government of Chad,,2026-03-19-tcd-project-to-modernize-ict-electronic-communication-infrastructure-to-ac
+TCD,Sudat Chad,Chad,other,sole international transit network,,,2024-08-22-tcd-another-outage-shows-challenges-facing-chad-s-internet-infrastructure
 TGO,Lagos-to-Accra terrestrial fibre route,"Lagos-Accra via Ghana, Togo, Benin",shared,terrestrial fibre,"CSquared, Phase3, SBIN",,2025-05-06-gha-csquared-lagos-accra-terrestrial-fibre
 TGO,TGIX,Togo,other,,,,2026-07-01-isoc-pulse-ixp-tracker-tgix-togo
 TGO,Lome Data Centre,Togo,other,,SIN (state-owned),Tier 3,2026-05-28-st-digital-sin-partenariat-lome-data-centre-cloud-prive
@@ -365,6 +378,7 @@ TZA,Kigoma-Kalemie fibre-optic cable across Lake Tanganyika,national fibre-optic
 TZA,Yas Fibre Zanzibar broadband network,Yas Fibre,other,,Yas Fibre (Axian Telecom) with ZICTIA,national,2026-06-25-yas-zictia-expand-broadband-zanzibar
 TZA,Raxio TZ1 data centre,Tanzania,other,,Raxio Group,Tier III,2026-01-01-raxio-tanzania-data-centre
 TZA,Dar-es-Salaam to Mombasa Terrestrial Fibre Link,Tanzania,shared,,ICT Authority (Kenya) and TTCL (Tanzania),,2025-07-21-ken-kenya-and-tanzania-launch-cross-border-fibre-link-to-boost-east-africa
+TZA,Tanzania-DRC national backbone link via Lake Tanganyika,Tanzania,shared,lake fibre cable,TTCL,,2026-08-18-tza-naibu-waziri-mkama-akagua-mradi-wa-mkongo-wa-taifa-kuunganisha-tanzani
 UGA,Northern Corridor regional communications and broadcasting satellite,NCRCBSI / NCIP regional satellite,shared,,"Governments of Uganda, Kenya, Rwanda and South Sudan (proposed joint ownership)",national governments,2026-08-24-chimpreports-ncip-partner-state-communications-satellite-study
 UGA,Northern Corridor regional communications and broadcasting satellite,NCRCBSI / NCIP regional satellite,shared,,"Governments of Uganda, Kenya, Rwanda and South Sudan (proposed joint ownership)",national governments,2026-05-04-east-africa-regional-satellite-ncrcbsi
 UGA,Bayobab Mombasa-Kampala fibre network,,other,fibre optic,Bayobab,,2026-05-04-east-africa-regional-satellite-ncrcbsi
@@ -388,6 +402,8 @@ ZAF,"Umoja cable landing, Eastern Cape",South Africa,other,Google,Google,,2026-0
 ZAF,NAPAfrica,South Africa,other,,Teraco,,2025-03-04-zaf-napafrica-achieves-5tbps-traffic-milestone-driving-africas-digital-tra
 ZMB,Project East2West,Project East2West,other,terrestrial fibre optic cable (dark and active fibre),"Bayobab (MTN Group), majority sponsor, with Africa50",,2023-01-01-africa50-reg-east2west-fibre-2023-project-east2west-pan-african-terrestrial-fibre-optic
 ZMB,LuIX,Lusaka IXP,other,,,,2024-09-19-zmb-how-does-zambia-accelerate-its-internet-resilience
+ZMB,Lake Tanganyika Burundi-Zambia fibre cable,Northern province (Zambia) to Makamba (Burundi) cable,shared,submarine fibre,,,2024-10-07-zmb-burundi-zambia-agree-underwater-fibre-connection
+ZMB,Bayobab Zambia cross-border fibre,Zambia,other,fibre,Bayobab (MTN),,2024-04-17-zmb-bayobab-zambia-achieves-milestone-completion-of-structural-separation
 ZWE,Powertel-Paratus Zimbabwe DWDM fibre backhaul,Powertel / Paratus Zimbabwe PPP,other,DWDM fibre,Powertel and Paratus Zimbabwe,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
 ZWE,Liquid Intelligent Technologies fibre backbone,Liquid fibre backbone,other,"terrestrial fibre, 26,000 km in Zimbabwe, linked to Liquid's regional cross-border network",Liquid Intelligent Technologies,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration
 ZWE,TelOne backbone,TelOne cross-border transit links,other,100G+ wavelengths,TelOne,,2026-09-12-zwe-cleantechnica-starlink-leo-terrestrial-fibre-integration

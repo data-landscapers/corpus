@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-18-caf-vandalism-threatens-central-african-republic-s-fragile-fiber-network",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "link",
+   "fact": "Ecofin Agency reports that CAR's backbone, commissioned in 2023 under the Central African Backbone project meant to connect ECCAS countries, links CAR with the Republic of Congo and Cameroon, with Camtel providing international connectivity.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Central African Backbone (CAB)",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

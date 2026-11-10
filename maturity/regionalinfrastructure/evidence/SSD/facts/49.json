@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-01-ssd-juba-nairobi-fiber-optic-link",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "The PIDA prospectus page records that South Sudan and Kenya signed an agreement at the 30th EACO Assembly for a 2,420 km fibre link into South Sudan, with the Ministry of ICT announcing on 8 August 2025 that construction would begin in early 2026.",
+   "as_of": "2025-06-11",
+   "date_precision": "day",
+   "system": "Juba-Nairobi Fiber Optic Link",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Juba-Nairobi Fiber Optic Link",
+   "country_label": "South Sudan",
+   "class": "shared",
+   "platform": "fibre link",
+   "owner": "Governments of Kenya and South Sudan",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

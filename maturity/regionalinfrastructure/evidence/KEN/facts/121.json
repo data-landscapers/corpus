@@ -1,0 +1,34 @@
+{
+ "slug": "2025-05-16-ken-kenya-world-bank-deepen-cross-border-connectivity",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "building",
+   "fact": "ITWeb Africa says Kenya and the World Bank finished the first phase of 730 km of fibre from Eldoret to Nadapal-Nakodok on the South Sudan border under EARTTDFP, and the 740 km Horn of Africa Gateway link to Ethiopia and Somalia is now being implemented.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "EARTTDFP; Horn of Africa Gateway Development Project",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EARTTDFP Eldoret-Nadapal fibre",
+   "country_label": "Kenya",
+   "class": "shared",
+   "platform": "fibre",
+   "owner": "Government of Kenya with World Bank",
+   "tiers": ""
+  },
+  {
+   "system": "Horn of Africa Gateway Development Project",
+   "country_label": "Kenya",
+   "class": "shared",
+   "platform": "fibre",
+   "owner": "Government of Kenya with World Bank",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

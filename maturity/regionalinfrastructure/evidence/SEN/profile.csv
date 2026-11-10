@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-SEN,shared,built,coverage,,,,,nothing found
-SEN,shared,service,coverage,link,2026-10-05,SEN-001;SEN-002;SEN-003;SEN-004;SEN-005,,
+SEN,shared,built,coverage,agreed,2025-11,SEN-006,,
+SEN,shared,service,coverage,link,2026-10-05,SEN-001;SEN-002;SEN-003;SEN-004;SEN-005;SEN-007;SEN-008,,

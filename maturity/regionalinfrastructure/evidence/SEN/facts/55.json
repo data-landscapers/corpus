@@ -1,0 +1,15 @@
+{
+ "slug": "2026-04-10-sen-roa-bn-atelier-strategique-2026-2030-dakar",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ROA-BN",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "network of national backbone operators",
+   "owner": "nine West African countries",
+   "tiers": ""
+  }
+ ],
+ "note": "A workshop setting 2026-2030 objectives to pool backbones is a consensus, not an agreement naming a facility."
+}

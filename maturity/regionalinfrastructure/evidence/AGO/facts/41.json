@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-01-ago-angola-telecom-preve-operacao-do-cabo-submarino-sarssy-ate-2027",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "Angola Telecom's executive director said Angola Telecom and Telecom Namibia signed a memorandum of understanding in Swakopmund in March 2026 for the SARSSy submarine cable, with five Angolan landing points and a link to Equiano, due in service in June 2027.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "SARSSy",
+   "class": "shared"
+  },
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "link",
+   "fact": "Angola Telecom's executive director said a terrestrial fibre link between Angola (Santa Clara) and Namibia (Ondjiva) already exists and the two operators already provide telecom services in both directions.",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "Santa Clara-Ondjiva terrestrial link",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SARSSy",
+   "country_label": "Angola",
+   "class": "shared",
+   "platform": "submarine cable",
+   "owner": "Angola Telecom; Telecom Namibia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

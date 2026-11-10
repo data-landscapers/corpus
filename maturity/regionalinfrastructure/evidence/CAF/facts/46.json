@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-12-caf-central-african-republic-revives-talks-on-third-internet-route-via-drc",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "service",
+   "value": "link",
+   "fact": "Ecofin Agency reports that CAR's network built under the Central African Backbone project connects it to Cameroon and the Republic of Congo; the project is named, but no party in either country is.",
+   "as_of": "2026-10-12",
+   "date_precision": "day",
+   "system": "Central African Backbone (CAB)",
+   "class": "shared"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

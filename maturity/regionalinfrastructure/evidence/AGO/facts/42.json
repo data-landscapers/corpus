@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-23-moz-mocambique-e-angola-avancam-com-cabo-nacala-lobito-para-reforcar-corre",
+ "facts": [
+  {
+   "sub_indicator": "shared",
+   "aspect": "built",
+   "value": "agreed",
+   "fact": "O Economico reports that Angola's telecommunications minister Mario Oliveira and Mozambique's minister Americo Muchanga signed a memorandum of understanding at the V National Communications Conference for a Nacala-Lobito submarine cable, still in the concession phase.",
+   "as_of": "2026-06-22",
+   "date_precision": "day",
+   "system": "Nacala-Lobito cable",
+   "class": "shared"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Nacala-Lobito cable",
+   "country_label": "Angola",
+   "class": "shared",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

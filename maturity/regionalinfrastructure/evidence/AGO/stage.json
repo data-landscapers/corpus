@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "shared",
-      "stage": "2",
+      "stage": "4",
       "built": "agreed",
-      "service": "",
+      "service": "link",
       "cap": "",
       "flags": "",
-      "stage_sources": "AGO-004;AGO-003",
-      "gaps": "No source found says building has started in the last three years.",
-      "note": "Counted from the four questions by study-ladder-regionalinfrastructure.py.",
-      "as_at": "2026-11-08"
+      "stage_sources": "AGO-006",
+      "gaps": "Only one kind of shared infrastructure is on record in service: no shared traffic exchange or data storage. No works have begun on the sea cables agreed in 2026.",
+      "note": "Angola Telecom's executive director says the terrestrial fibre link with Namibia already carries both operators' services in both directions, a link in service under an arrangement both state operators are party to. No second kind is in service, so not 5.",
+      "as_at": "2026-11-10"
     }
   ]
 }
