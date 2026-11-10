@@ -1,11 +1,11 @@
 ---
 title: Eswatini — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: SWZ
-ledger_rows: 31
+ledger_rows: 32
 not_held: 3
-record: a1617ae72832
+record: c8c398ca6e7a
 ---
 
 # News, Oct – Nov 2026
@@ -95,6 +95,20 @@ The Eswatini Communications Commission and the Lesotho Communications Authority 
 **[Africa seeks control of AI safety as Eswatini launches standards centre](https://www.standardmedia.co.ke/business/article/2001561221/africa-seeks-control-of-ai-safety-as-eswatini-launches-standards-centre)** — The Standard, 30 October 2026
 
 The Eswatini Standards Authority and AICE Africa launched an AI Safety and Standards Centre of Excellence on 27 October 2026. It will train standards officers, auditors and regulators, and work towards an AI testing laboratory and an African AI standards baseline report. An AI safety summit is planned for Mbabane in July 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ISO membership of the national standards authority</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ISO - ESWASA - Eswatini Standards Authority](https://www.iso.org/member/304927.html)** — International Organization for Standardization, 9 November 2026
+
+The ISO membership page, on file under 9 November 2026, lists the Eswatini Standards Authority as a correspondent member of ISO. It describes a body that opened on 2 April 2007, has sixteen staff and is governed by a ten-member Council. Its technical department holds an information centre, a standards development unit and a testing unit.
 
 </div>
 
