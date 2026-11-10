@@ -8,4 +8,4 @@
 
 ***Also on file***. [Mbabane's street addressing programme](<https://www.linkedin.com/posts/municipal-council-of-mbabane_mbabanemycity-mbabanesmartcity-activity-7485998259241594880-9ytq>). [Ezulwini's addressing pilot](<https://www.linkedin.com/posts/ezulwini-municipality-discover-happiness-0812b9250_smartezulwini-nationaladdressingstandards-activity-7484859620780466176-AWHI>).
 
-***Not found***. No source found names a law, decree, regulation, directive or circular requiring public bodies to meet a named international standard on information technology or data.
+***Not found***. No rule has been found that requires public bodies to meet a named international standard on information technology or data. A law, decree, regulation, directive or circular was looked for.

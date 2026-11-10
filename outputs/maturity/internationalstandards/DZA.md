@@ -8,4 +8,4 @@
 
 ***Also on file***. [The national digital services centre at Mohammadia](<https://elwatan.dz/tebboune-inaugure-a-mohammadia-le-premier-centre-national-algerien-des-services-numeriques/>), said at its opening to be built to international standards.
 
-***Not found***. No source found names a law, decree, regulation, directive or circular requiring public bodies to meet a named international standard on information technology or data.
+***Not found***. No rule has been found that requires public bodies to meet a named international standard on information technology or data. A law, decree, regulation, directive or circular was looked for.

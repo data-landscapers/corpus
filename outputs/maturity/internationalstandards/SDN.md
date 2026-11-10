@@ -8,4 +8,4 @@
 
 ***Also on file***. [The central bank's cybersecurity framework for banks](<https://cbos.gov.sd/sites/default/files/document.pdf>). [The passport signing certificate lodged in the civil aviation directory in February 2026](<https://sca.gov.sd/en/news>).
 
-***Not found***. No source found names a law, decree, regulation, directive or circular requiring public bodies to meet a named international standard on information technology or data.
+***Not found***. No rule has been found that requires public bodies to meet a named international standard on information technology or data. A law, decree, regulation, directive or circular was looked for.

@@ -8,4 +8,4 @@
 
 ***Also on file***. [The standards bureau's register of information security certificates](<https://msb.intnet.mu/Documents/Attachment%202%20-%20List%20of%20registered%20firms%20ISMS%2031-12-2025.pdf>), as at 31 December 2025. [An industry certification framework for artificial intelligence models](<https://www.telecomtv.com/content/ai/mauritius-telecom-and-tm-forum-pioneer-trusted-model-as-a-service-for-the-ai-native-telco-55907/>), co-chaired by Mauritius Telecom.
 
-***Not found***. No source found names a law, decree, regulation, directive or circular requiring public bodies to meet a named international standard on information technology or data.
+***Not found***. No rule has been found that requires public bodies to meet a named international standard on information technology or data. A law, decree, regulation, directive or circular was looked for.

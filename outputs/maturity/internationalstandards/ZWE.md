@@ -8,4 +8,4 @@
 
 ***Also on file***. [FBC Holdings' ISO/IEC 27001:2022 certificate](<https://fbc.co.zw/media/latest-news/fbc-holdings-attains-isoiec-270012022-certification-milestone>). [Standards adopted from the African Organisation for Standardisation](<https://www.saz.org.zw/wp-content/uploads/2025/05/Final-Catalogue-Updating-to-March-2025.pdf>).
 
-***Not found***. No source found names a law, decree, regulation, directive or circular requiring public bodies to meet a named international standard on information technology or data.
+***Not found***. No rule has been found that requires public bodies to meet a named international standard on information technology or data. A law, decree, regulation, directive or circular was looked for.
