@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-09-dza-iso-member-ianor",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "ISO's member page describes IANOR as Algeria's National Standards Body, tasked with developing national standards and managing the mark of conformity to Algerian standards.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "IANOR",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

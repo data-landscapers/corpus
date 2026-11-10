@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-09-mus-iso-member-msb",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "ISO's member page says the Mauritius Standards Bureau is mandated to develop standards and provide conformity assessment including certification of management systems.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "Mauritius Standards Bureau",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

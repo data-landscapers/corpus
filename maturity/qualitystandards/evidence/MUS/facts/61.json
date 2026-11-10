@@ -1,0 +1,27 @@
+{
+ "slug": "2026-06-30-mus-list-of-msb-registered-firms-as-at-30-june-2026",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "published",
+   "fact": "The Mauritius Standards Bureau runs a National Information Security Management System Certification Scheme against MS ISO/IEC 27001:2022, an information security standard it treats as a national standard.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "MS ISO/IEC 27001:2022 under the MSB National ISMS Certification Scheme",
+   "class": "body"
+  },
+  {
+   "sub_indicator": "standards",
+   "aspect": "certification",
+   "value": "public-body",
+   "fact": "The register lists 11 certified organisations as at 30 June 2026, including the Passport and Immigration Office (certificate issued 30 October 2025), CERT-Mu, the Mauritius Revenue Authority, the Police IT Unit and the National Sanctions Secretariat, with accredited certificates.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "MS ISO/IEC 27001:2022 under the MSB National ISMS Certification Scheme",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

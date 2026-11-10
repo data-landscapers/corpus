@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-09-sdn-iso-member-ssmo",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "ISO's member page says SSMO is a governmental organization set up in 1993, whose powers the Standards Act of 2008 extended.",
+   "as_of": "1993",
+   "date_precision": "year",
+   "system": "SSMO",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

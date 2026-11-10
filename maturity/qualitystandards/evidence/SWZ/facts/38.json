@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-09-swz-iso-member-eswasa",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "ISO's member page says the Eswatini national standards body opened on 2 April 2007 and has a standards development unit and information centre in operation.",
+   "as_of": "2007-04-02",
+   "date_precision": "day",
+   "system": "Eswatini Standards Authority",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

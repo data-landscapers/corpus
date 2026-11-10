@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-22-som-somalia-trade-standards",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "body",
+   "fact": "The US International Trade Administration says the Somali Bureau of Standards is the national standards body, responsible for developing and implementing standards, and has adopted 145 standards in various fields over three years.",
+   "as_of": "2023-05",
+   "date_precision": "month",
+   "system": "Somali Bureau of Standards",
+   "class": "body"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
