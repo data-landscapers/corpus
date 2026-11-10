@@ -369,7 +369,120 @@ def adapt_itu(d, edition, release) -> list[dict]:
     return out
 
 
-FETCHERS = {"odin": fetch_odin, "itu": fetch_itu}
+WDI_API = "https://api.worldbank.org/v2"
+WDI_SINCE = 2010  # as maturity-reference.py: older figures date nothing a study reads
+WDI_FROM = 2024  # claims keep values from here on; the fetch keeps 2010 on, for baselines
+
+
+def wdi_items() -> tuple[list[str], list[str]]:
+    """The selection is the wdi rows of external-items.csv: a dotted item is a series code, any
+    other is a field of WDI's country metadata (`Latestpopulationcensus`)."""
+    items = list(dict.fromkeys(r["item"] for r in rows(ITEMS) if r["source"] == "wdi"))
+    return [i for i in items if "." in i], [i for i in items if "." not in i]
+
+
+def fetch_wdi(sid: str) -> list[tuple[str, bytes]]:
+    """The World Bank's own API, not the datasets/ GitHub scrape of it (stale, 2011 PPP): one
+    call per selected series for the 54 since WDI_SINCE, and one per country for its metadata
+    (`sources/2/country/{ISO3}/metadata`, which carries the census and survey years). Kept as
+    the API returned it, `lastupdated` included, in one gzip, mtime 0."""
+    import gzip  # noqa: PLC0415
+    import json  # noqa: PLC0415
+    h = {"User-Agent": ss.UA}
+    ours = [r["iso-3"] for r in rows(COUNTRIES) if not r["iso-3"].startswith("X")]
+    series, _ = wdi_items()
+
+    def get(url):
+        for i in range(3):
+            try:
+                r = requests.get(url, headers=h, timeout=120)
+                r.raise_for_status()
+                return r.json()
+            except (requests.RequestException, ValueError):
+                if i == 2:
+                    raise
+        raise AssertionError
+
+    def one_series(code):
+        meta, data = get(f"{WDI_API}/country/{';'.join(ours)}/indicator/{code}"
+                         f"?format=json&per_page=20000&date={WDI_SINCE}:2030")
+        if meta.get("pages", 1) > 1:
+            sys.exit(f"wdi {code}: more than one page; raise per_page")
+        return code, {"lastupdated": meta.get("lastupdated", ""),
+                      "data": [r for r in data or [] if r["value"] is not None]}
+
+    def one_country(iso):
+        j = get(f"{WDI_API}/sources/2/country/{iso}/metadata?format=json")
+        return iso, {m["id"]: m["value"] for m in j["source"][0]["concept"][0]["variable"][0]["metatype"]}
+
+    with ThreadPoolExecutor(4) as pool:
+        out = {"series": dict(pool.map(one_series, series)),
+               "country": dict(pool.map(one_country, ours))}
+    body = json.dumps(out, ensure_ascii=False, sort_keys=True).encode("utf-8")
+    return [("original.json.gz", gzip.compress(body, mtime=0))]
+
+
+WDI_FIELDS = {
+    "Latestpopulationcensus": "Latest population census",
+    "Latestagriculturalcensus": "Latest agricultural census",
+    "Latesthouseholdsurvey": "Latest demographic, education or health household survey",
+    "SourceofmostrecentIncomeandexpendituredata": "Source of the most recent income and expenditure data",
+    "IMFdatadisseminationstandard": "IMF data dissemination standard subscribed to",
+    "SystemofNationalAccounts": "System of National Accounts in use",
+    "BalanceofPaymentsManualinuse": "Balance of Payments Manual in use",
+    "Nationalaccountsbaseyear": "National accounts base year",
+    "Latesttradedata": "Latest trade data",
+    "Latestindustrialdata": "Latest industrial data",
+    "ExternaldebtReportingstatus": "External debt reporting status",
+    "GovernmentAccountingconcept": "Government accounting concept",
+}
+
+
+def adapt_wdi(d, edition, release) -> list[dict]:
+    """One claim per country, year and series with a value, and one per country and metadata
+    field. A value is an observed figure; series that are a measure's figure go through
+    reference/measures.csv instead and are not selected (Bill, 2026-11-10)."""
+    import gzip  # noqa: PLC0415
+    import json  # noqa: PLC0415
+    data = json.loads(gzip.decompress((d / "original.json.gz").read_bytes()))
+    m, out = mapping("wdi"), []
+    series, fields = wdi_items()
+    for code in series:
+        by = collections.defaultdict(list)
+        for r in data["series"].get(code, {}).get("data", []):
+            by[r["countryiso3code"]].append(r)
+        keep = []
+        for iso in sorted(by):
+            got = sorted(by[iso], key=lambda r: r["date"])
+            # 2024 onwards only, unless that leaves nothing: then the latest earlier value is
+            # the country's baseline and stays (Bill, 2026-11-10).
+            keep += [r for r in got if int(r["date"]) >= WDI_FROM] or got[-1:]
+        for r in keep:
+            v = r["value"]
+            st, fit = studies_for(m, [code])
+            out.append({
+                "source": "wdi", "edition": edition, "survey_year": r["date"],
+                "iso3": r["countryiso3code"], "item": code, "question": r["indicator"]["value"],
+                "status": f"{round(v, 4):g}" if isinstance(v, float) else str(v),
+                "name": "", "year": "", "url": "", "documents": "",
+                "basis": "publisher-compiled", "studies": st, "fit": fit})
+    for iso in sorted(data["country"]):
+        meta = data["country"][iso]
+        for f in fields:
+            v = (meta.get(f) or "").strip()
+            if not v:
+                continue
+            years = re.findall(r"\b(?:19|20)\d{2}\b", v)
+            st, fit = studies_for(m, [f])
+            out.append({
+                "source": "wdi", "edition": edition, "survey_year": "", "iso3": iso,
+                "item": f, "question": WDI_FIELDS.get(f, f), "status": v, "name": "",
+                "year": max(years) if years else "", "url": "", "documents": "",
+                "basis": "publisher-compiled", "studies": st, "fit": fit})
+    return out
+
+
+FETCHERS = {"odin": fetch_odin, "itu": fetch_itu, "wdi": fetch_wdi}
 
 
 # SPI's metadata labels 17 of its 53 codes; these are the unlabelled ones a study reads.
@@ -462,7 +575,7 @@ def adapt_odin(d, edition, release) -> list[dict]:
 
 
 ADAPTERS = {"aftech": adapt_aftech, "gtmi": adapt_gtmi, "unctad": adapt_unctad, "odin": adapt_odin,
-            "itu": adapt_itu, "spi": adapt_spi}
+            "itu": adapt_itu, "spi": adapt_spi, "wdi": adapt_wdi}
 
 
 # --- fetch and claims ------------------------------------------------------------------------
@@ -524,7 +637,7 @@ def registers() -> set[str]:
 def candidates(claims: list[dict]) -> dict[str, dict]:
     """url -> {title, year, places, publisher}; one per URL, places merged."""
     out, named = {}, registers()
-    data_only = {r["id"] for r in rows(SOURCES) if r["shape"] == "index"}
+    data_only = {r["id"] for r in rows(SOURCES) if r["shape"] in ("index", "series")}
     for c in claims:
         if c["source"] in data_only:
             continue
@@ -679,6 +792,15 @@ def database_record(sid: str, e: pathlib.Path, claims: list[dict]) -> tuple[str,
         latest = max(c["survey_year"] for c in claims)
         claims = [c for c in claims if c["survey_year"] == latest]
         note = f" The {latest} round only."
+    elif s["shape"] == "series":
+        # A series source has no rounds: each country's latest value of each item.
+        last = {}
+        for c in claims:
+            k = (c["iso3"], c["item"])
+            if k not in last or c["survey_year"] > last[k]["survey_year"]:
+                last[k] = c
+        claims = list(last.values())
+        note = " Each country's latest value of each item."
     lines = [f"{s['title']} — {s['publisher']}", "",
              f"Rendered from {s['download_url']}, fetched {e.name}. African countries only.{note}", ""]
     by = collections.defaultdict(list)

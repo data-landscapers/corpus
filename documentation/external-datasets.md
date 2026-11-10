@@ -3,7 +3,7 @@ type: design-note
 reader: cc
 title: external-datasets.md — global databases as claims, not scores
 last_reviewed: 2026-11-10
-status: built for aftech and gtmi; maturity pass not yet built
+status: built for aftech, gtmi, unctad, odin, itu, spi and wdi; maturity pass not yet built
 ---
 
 # External datasets
@@ -73,6 +73,9 @@ The first reading, on 2026-11-10, found three patterns:
   - ODIN (Open Data Watch's Open Data Inventory, the same day): no file, so `fetch_odin` reads the site's own API, one profile per country and round (2016-2024, 324 calls, about 15 minutes), and keeps the parts a claim is made from as one gzip. 6,393 claims, one per country, round and data category. Each carries the ten element scores (`-1` is ODIN's "not scored"), the series found, the latest year of data and where the assessor found it. Its `shape` is `index`: the links are statistics offices' data tables, so none is staged, only the latest round's record. It maps every category to `opendatapolicy` as `theirs-broader`, since ODIN tests what is published openly and ours asks for a policy.
   - ITU's ICT Regulatory Tracker (the same day): its site, `app.gen5.digital`, reads ITU's metrics API, which `fetch_itu` calls once per country and year, 2007-2024 (864 calls). That gives 42,017 claims: the 50 answers in words, in four pillars (regulator, mandates, regime, competition). Only a few map: the broadband plan, the consultation duty, the telecom consumer mandate, international-gateway competition and foreign-ownership limits (to `digitalsovereignty`). The rest is the telecom-regulation layer we have no indicator for, the same gap as Carnegie's unmapped rows. Licence CC BY-NC-SA 4.0, as the tracker states.
   - World Bank SPI (the same day), from its GitHub repository: 11,206 claims, the factual indicator values for 2004-2024. SPI mostly compiles other databases (the UN SDG statistics indicators, ODIN, the IMF). Its own work, the census years (Kenya "1999, 2009, 2019"), rides on the census claims. Mapped: censuses and surveys, CRVS completeness, the statistics law's UN compliance, the statistics plan's funding (`theirs-broader`: ours stops at the plan) and the microdata catalogue.
+  - World Bank WDI (the same day), from the World Bank API rather than the `datasets/` GitHub scrape of it, which is stale. 1,548 claims from 21 series and 12 country facts, listed in `lookups/external-items.csv`, from which the fetch reads its selection. The facts include the latest census and survey and the IMF dissemination standard. Infrastructure: mobile, fixed broadband and fixed-line subscriptions, secure servers, urban and total electricity access, grid losses, consumption, renewable share and firms' outages. WDI carries no network coverage, and its bandwidth series ended in 2011.
+    - **Values from 2024 on, unless one is a baseline** *(Bill, 2026-11-10)*. Where a country has none from 2024 on, its latest earlier value stays, and the fetch keeps 2010 on so the cut-off can move. Its `shape` is `series`: the record is each country's latest value of each item.
+    - Not selected: the series a measure already reads (internet use and its sex split, rural electricity, account ownership, ICT service exports, GDP, population, GNI), which go through `reference/measures.csv`. Also left out: indices such as CPIA, SPI and liner connectivity, and Doing Business, discontinued in 2021.
   - A register's year is the instrument's own and dates it first; an upload path or a PDF's metadata dated Ghana's 2008 Act 2026. Carnegie's batches went out before this rule, so 91 of them carry their path date, marked `proxy`.
   - A GTMI year answer dates the system, never a page: a treasury's founding year once dated its 2025 newsletter 1990. A GTMI document is dated by its path or its own metadata; a Carnegie row's year is the instrument's own.
   - Most unfetchable links are 404s with no Wayback capture. They stay as claims. `stage --retry` fetches the transient failures again.
@@ -83,4 +86,4 @@ The first reading, on 2026-11-10, found three patterns:
 
 **The maturity pass.** Claims reach a study as evidence through a drafter reading them beside the held primary, under the citing rule above. It waits on the primaries landing, and on `study-update.py` → `HELD`. Registered as a CORPUS housekeeping job.
 
-**More sources.** Next is a selection of the World Bank's World Development Indicators (Bill, 2026-11-10). Each source needs one adapter, one register row and a block of mappings.
+**More sources.** Each source needs one adapter, one register row and a block of mappings.

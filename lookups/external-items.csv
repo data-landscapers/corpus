@@ -170,3 +170,36 @@ spi,SPI.D4.2.3.CRVS,,civilregister,partial,Birth and death registration complete
 spi,SPI.D5.1.DILG,,statisticslaw,theirs-narrower,Statistics law compliant with the UN Fundamental Principles (PARIS21 via SDG 17.18.2).
 spi,SPI.D5.5.DIFI,,statisticsstrategy,theirs-broader,Statistical plan fully funded and under implementation (SDG 17.18.3). Theirs tests funding; ours stops at the plan.
 spi,SPI.D2.4.NADA,,opendatause,partial,Microdata catalogue (NADA) published.
+wdi,Latestpopulationcensus,,censuses,same,The year of the latest population census as WDI records it.
+wdi,Latestagriculturalcensus,,censuses,partial,Agricultural census year.
+wdi,Latesthouseholdsurvey,,censuses,partial,"Latest DHS, MICS or similar household survey, named and dated."
+wdi,SourceofmostrecentIncomeandexpendituredata,,censuses,partial,"Latest income or expenditure survey, named and dated."
+wdi,IMFdatadisseminationstandard,,internationalstandards,theirs-narrower,"e-GDDS, SDDS or SDDS Plus: a dissemination standard for macroeconomic data only."
+wdi,SystemofNationalAccounts,,internationalstandards,theirs-narrower,The SNA vintage in use; a statistical standard rather than an IT or data one.
+wdi,BalanceofPaymentsManualinuse,,internationalstandards,theirs-narrower,BPM5 or BPM6; a statistical standard rather than an IT or data one.
+wdi,Nationalaccountsbaseyear,,,none,How current the national accounts are; no indicator of ours.
+wdi,Latesttradedata,,,none,No indicator of ours.
+wdi,Latestindustrialdata,,,none,No indicator of ours.
+wdi,ExternaldebtReportingstatus,,,none,No indicator of ours.
+wdi,GovernmentAccountingconcept,,,none,No indicator of ours.
+wdi,SP.REG.BRTH.ZS,,civilregister,partial,Birth registration completeness; an outcome rather than the digital system ours asks about.
+wdi,SP.REG.DTHS.ZS,,civilregister,partial,"Death registration with cause of death; outcome, and few African figures."
+wdi,IT.CEL.SETS.P2,,mobilepenetration,partial,SIM subscriptions per 100; the measure takes ITU's ownership series and puts this in the qualifier only.
+wdi,IT.NET.BBND.P2,,internetusage,theirs-narrower,Fixed broadband subscriptions per 100; subscriptions are not users and fixed is a small part of use.
+wdi,IT.MLT.MAIN.P2,,,none,Fixed telephone subscriptions; no indicator of ours.
+wdi,IT.NET.SECR.P6,,,none,Secure internet servers (TLS certificates) per million; counts certificates rather than hosting capacity.
+wdi,EG.ELC.ACCS.ZS,,ruralelectrification,theirs-broader,Electricity access for the whole population; ours is rural.
+wdi,EG.ELC.ACCS.UR.ZS,,ruralelectrification,partial,Urban access; read beside the rural figure it shows the gap.
+wdi,EG.ELC.LOSS.ZS,,gridreliability,partial,Transmission and distribution losses; grid condition rather than interruptions.
+wdi,IC.ELC.OUTG.ZS,,gridreliability,partial,Share of firms with outages (Enterprise Surveys); ours is outages a month.
+wdi,IC.FRM.OUTG.ZS,,gridreliability,partial,Sales lost to outages by affected firms (Enterprise Surveys).
+wdi,EG.USE.ELEC.KH.PC,,,none,Electric power consumption per head; no indicator of ours.
+wdi,EG.ELC.RNEW.ZS,,datacentrepower,theirs-broader,Renewable share of the grid's output; ours is data centres' own supply.
+wdi,TX.VAL.ICTG.ZS.UN,,ictproduction,partial,ICT goods exports as a share of goods exports; bears on the home-made ICT equipment condition.
+wdi,TX.VAL.TECH.MF.ZS,,ictproduction,theirs-broader,High-technology exports beyond ICT.
+wdi,IC.BUS.NREG,,businessregister,partial,New firms registered a year; volume rather than whether registration is online.
+wdi,IC.BUS.NDNS.ZS,,businessregister,partial,New registrations per 1000 people aged 15-64.
+wdi,SE.TER.ENRR,,stemgraduates,theirs-broader,Tertiary enrolment of every discipline.
+wdi,GB.XPD.RSDV.GD.ZS,,,none,R&D spending as a share of GDP; no indicator of ours.
+wdi,SP.POP.SCIE.RD.P6,,,none,Researchers in R&D per million; no indicator of ours.
+wdi,SE.ADT.LITR.ZS,,,none,Adult literacy; digitalskills measures digital skills rather than literacy.
