@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-05-mrt-mauritania-begins-deployment-of-second-undersea-cable",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:45.8",
+   "fact": "Ecofin Agency, citing the International Telecommunication Union, says only 45.8% of Mauritanians used the internet in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ITU internet use",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

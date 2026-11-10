@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-03-cod-la-rdc-veut-renforcer-ses-moyens-de-connectivite-internet-internationa",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:19.7",
+   "fact": "Agence Ecofin reports the ITU estimated internet penetration in DR Congo at 19.7% in 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ITU",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

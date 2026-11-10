@@ -146,9 +146,9 @@ In 2024, 78.4 per cent of the population used the internet, by an international 
 
 ### Tunisia: 3 Established
 
-In 2024, 70 per cent of the population used the internet, by an international estimate.
+In 2026 an official put internet use at 77.7 per cent of people aged 10 and over; the survey behind it is not known.
 
-- 70 per cent of the population of Tunisia used the internet in 2024, an estimate by the International Telecommunication Union ([source, 2024](https://unstats.un.org/sdgs/dataportal)).
+- The Inspector General of Youth and Childhood said at a national forum on digital harassment that 77.7 percent of internet users are aged 10 and over, as stated in the article; survey and year not named, and the base is people aged 10 and over ([source, 2026-11-05](https://www.nessma.tv/fr/nationale/actu/ministere-de-la-famille-777-dutilisateurs-dinternet-des-10-ans/597664)).
 
 ### Benin: 2 Nascent
 

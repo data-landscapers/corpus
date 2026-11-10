@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-28-cpv-utilizacao-da-internet-em-cabo-verde-sobe-ligeiramente-para-77-3-em-20",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "survey:77.3",
+   "fact": "Balai reports Cabo Verde's national statistics institute INE found in its 2025 continuous multi-purpose survey that 77.3% of people aged 10 and over used the internet in the previous three months, up from 74% in 2024.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "INE Cabo Verde IMC 2025",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

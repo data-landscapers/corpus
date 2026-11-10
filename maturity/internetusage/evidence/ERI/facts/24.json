@@ -1,0 +1,17 @@
+{
+ "slug": "2023-12-01-itu-digital-development-dashboard-eritrea",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:27",
+   "fact": "ITU's Digital Development Dashboard gives an ITU estimate of 27% of Eritrea's population using the internet in 2022.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "ITU Digital Development Dashboard",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

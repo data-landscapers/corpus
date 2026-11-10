@@ -3,3 +3,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,CPV,infra.connect--internet-usage,fact,3,3,CPV-005,"INE IMC 2025 household survey: 77.3 per cent, replacing the ITU estimate of 74.7 for 2024; stage 3 holds"
 2026-10-18,NAM,infra.connect--internet-usage,fact,3,3,NAM-005,"NDP6 implementation plan (2025) gives current internet use as 53 per cent, a government figure replacing the ITU estimate of 64.9; stage 3 holds"
 2026-11-09,SWZ,infra.connect--internet-usage,review,3,3,SWZ-004,"Rebuild: the World Bank's about 58 per cent for 2025, quoted in a 2026-11-03 news story, is neither the Union's estimate nor a national survey and was removed, as Nigeria's UNICEF and Rwanda's off-series figures were; stage 3 holds on the Union's 63.4 for 2024"
+2026-11-10,TUN,infra.connect--internet-usage,fact,3,3,TUN-009,"Nessma, Nov 2026: official puts internet use at 77.7% of people 10+ (survey and year not named), replacing the ITU 2024 estimate of 70%; stays 3"

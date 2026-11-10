@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-21-gab-uit-le-gabon-2e-pays-africain-le-plus-connecte-a-internet-en-2025",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:62",
+   "fact": "Gabonmediatime reports that the International Telecommunication Union's 2025 ranking gives Gabon 62% of the population as internet users, second in Africa behind Tunisia.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ITU internet penetration ranking",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

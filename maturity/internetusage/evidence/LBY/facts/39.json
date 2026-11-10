@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-15-lby-lana-itu-idi-2025-libya-first-in-africa",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:80",
+   "fact": "Libya's news agency LANA, relaying the communications authority's reading of the ITU's ICT Development Index 2025, says internet use among individuals exceeds 80 per cent against a world average of 74.6 per cent; no exact figure is given.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ITU IDI 2025 via GACI",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

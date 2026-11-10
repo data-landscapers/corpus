@@ -1,15 +1,16 @@
 {
- "iso3": "TUN",
- "cells": [
-  {
-   "sub_indicator": "use",
-   "stage": "3",
-   "users": "estimate:70",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TUN-008",
-   "gaps": "The latest figure, 70 per cent for 2024, is below 80 per cent.",
-   "note": "Counted from the four questions by study-ladder-internetusage.py."
-  }
- ]
+  "iso3": "TUN",
+  "cells": [
+    {
+      "sub_indicator": "use",
+      "stage": "3",
+      "users": "survey:77.7",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TUN-009",
+      "gaps": "The latest figure, 77.7 per cent of people aged 10 and over, stated in November 2026 with no survey or year named, is below 80 per cent.",
+      "note": "An official's figure of 77.7 per cent of people aged 10 and over, stated at a national forum in November 2026, replaces the ITU's 2024 estimate of 70 per cent. It is past half and below 80 per cent.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

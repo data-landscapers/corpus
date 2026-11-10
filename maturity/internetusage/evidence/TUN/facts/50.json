@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-05-tun-ministere-de-la-famille-77-7-d-utilisateurs-d-internet-des-10-ans",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "survey:77.7",
+   "fact": "The Inspector General of Youth and Childhood said at a national forum on digital harassment that 77.7 percent of internet users are aged 10 and over, as stated in the article; survey and year not named, and the base is people aged 10 and over.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

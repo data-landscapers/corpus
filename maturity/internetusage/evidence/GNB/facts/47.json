@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-14-gnb-internet-users-for-guinea-bissau-itnetuserp2gnb",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "users",
+   "value": "estimate:29.78",
+   "fact": "FRED, republishing the ITU and World Bank series, gives 29.78 internet users per 100 people in Guinea-Bissau for 2024, up from 28.71 in 2023.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "ITU / World Bank individuals using the internet",
+   "class": "use"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
