@@ -1,11 +1,11 @@
 ---
 title: Mali — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: MLI
-ledger_rows: 10
+ledger_rows: 11
 not_held: 1
-record: 57e66a8c75a2
+record: 539bd003a666
 ---
 
 # News, Oct – Nov 2026
@@ -59,6 +59,20 @@ Customs directors of Burkina Faso, Mali, Niger and Togo, meeting in Ouagadougou 
 **[Numérique dans l’espace AES: la feuille de route de l’An II adoptée](https://www.sidwaya.info/2026/11/05/numerique-dans-lespace-aes-la-feuille-de-route-de-lan-ii-adoptee/)** — Sidwaya, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NER/NER-monthly.html" title="NER">Niger</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 The Alliance of Sahel States adopted the digital deliverables of its Confederation's Year II roadmap in Ouagadougou on 5 November 2026. Sixteen of 18 deliverables were finalised. A confederal network operations centre is due by 31 December 2028. Interconnection legal and tariff frameworks are to be harmonised by 30 June 2027. National cybersecurity response teams are to be funded from universal-service funds and regulatory fees.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sahel confederation frequency coordination agreement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AES-fréquences militaires : Des experts de la Confédération en conclave à Bamako](https://www.maliweb.net/economie/developpement/aes-frequences-militaires-des-experts-de-la-confederation-en-conclave-3121278.html)** — Maliweb, 8 November 2026
+
+Bamako, 2-4 Nov 2026; AMRTP hosts Burkina and Niger delegations; common border military-frequency database planned.
 
 </div>
 
