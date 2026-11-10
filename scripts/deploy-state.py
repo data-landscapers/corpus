@@ -28,7 +28,12 @@ under a run still in flight is history.
 unfinished run is cancelled (force-cancelled if it will not go) and re-run; a finished one
 is re-run; where no run exists the workflow is dispatched on `main`. It stops re-running
 at `MAX_ATTEMPTS`, because a poll that re-runs a deploy failing for a reason of its own is
-a job looping on the fault that stopped it. It never pushes: an unpushed commit is the
+a job looping on the fault that stopped it. **Re-runs back off** (`BACKOFF_MIN`): a Pages
+deploy that hangs does so because GitHub's Pages backend has stalled, not because of the
+tree, and the stall lasts an hour or two — on 6 and 10 November three re-runs thirteen
+minutes apart all fell inside one, and the same artefact deployed in eight seconds later.
+While a re-run is waiting out its gap the verdict is `pending`, so the poll alerts only once
+the attempts are spent. It never pushes: an unpushed commit is the
 runbook's to push. The token needs **Actions: read and write** on this repository and
 nothing more; without one the reads still work, unauthenticated, at 60 requests an hour.
 
@@ -63,7 +68,10 @@ PATHS = ["site", f".github/workflows/{WORKFLOW}"]
 STUCK_AFTER_MIN = 30
 # A push this fresh may simply not have its run yet.
 NO_RUN_GRACE_MIN = 3
-MAX_ATTEMPTS = 3
+MAX_ATTEMPTS = 5
+# Minutes to wait after attempt N fails before re-running it (index N-1): attempts land at
+# about +15, +45, +105 and +225 minutes, which outlasts the stalls seen so far.
+BACKOFF_MIN = [15, 30, 60, 120]
 POLL_SECONDS = 30
 
 DEPLOYED, PENDING, STUCK, UNKNOWN = "deployed", "pending", "stuck", "unknown"
@@ -200,6 +208,17 @@ def fix(run: dict | None, reason: str, token: str) -> tuple[bool, str]:
     return True, f"run {run['id']} {did}"
 
 
+def retry_at(run: dict | None) -> dt.datetime | None:
+    """When a failed, finished run may next be re-run; None where backoff does not apply."""
+    if run is None or run["status"] != "completed":
+        return None
+    attempt = run.get("run_attempt", 1)
+    if attempt >= MAX_ATTEMPTS:
+        return None
+    ended = dt.datetime.fromisoformat(run["updated_at"])
+    return ended + dt.timedelta(minutes=BACKOFF_MIN[min(attempt, len(BACKOFF_MIN)) - 1])
+
+
 def cancelled(run_id: int, token: str, tries: int = 12, pause: float = 5) -> bool:
     """A re-run is refused while the run is still live, so wait for the cancel to land."""
     for _ in range(tries):
@@ -226,7 +245,12 @@ def main() -> int:
     try:
         while True:
             verdict, reason, run, sha = state(token)
-            if verdict == STUCK and args.fix and not fixed:
+            due = retry_at(run) if verdict == STUCK and args.fix and token else None
+            if due and dt.datetime.now(dt.timezone.utc) < due and not fixed:
+                verdict = PENDING
+                reason += (f"; attempt {run.get('run_attempt', 1) + 1} of {MAX_ATTEMPTS} "
+                           f"at {due.astimezone():%H:%M}")
+            elif verdict == STUCK and args.fix and not fixed:
                 acted, fixed = fix(run, reason, token)
                 attempt = run.get("run_attempt") if run else None
                 if acted:

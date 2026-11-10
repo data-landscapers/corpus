@@ -45,11 +45,13 @@ jobs:
           path: "site"
           name: github-pages-${{ github.run_attempt }}
 
-      # 20 minutes, not the default 10: on 2026-09-10 the step timed out waiting on
-      # GitHub and the next push deployed the same tree without complaint.
+      # 10 minutes is deploy-pages' ceiling: a larger value is clamped to it (every
+      # timed-out attempt on 2026-11-06 and 11-10 stopped at 10m04s). A deploy that
+      # works takes seconds; one that hangs is a GitHub-side stall that a re-run an
+      # hour later clears, which is scripts/deploy-state.py's backoff, not this step's.
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
         with:
           artifact_name: github-pages-${{ github.run_attempt }}
-          timeout: 1200000
+          timeout: 600000
