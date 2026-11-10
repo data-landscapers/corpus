@@ -112,3 +112,8 @@ aftech,e-waste,,,none,
 aftech,smart cities,,,none,
 aftech,competition,,,none,Digital-market competition regulation.
 aftech,digital market regulation,,,none,
+unctad,electronic transactions,,ecommercelaw,same,
+unctad,consumer protection,,consumerprotection,partial,"Theirs is consumer protection across e-commerce, ours consumer protection in digital payments."
+unctad,privacy and data protection,,dataprotectionlaw,same,
+unctad,cybercrime,,cybersecuritylaw,theirs-narrower,"Cybercrime law only; ours also takes cybersecurity and critical-infrastructure law."
+unctad,indirect taxation,,,none,VAT or GST on digital trade. No indicator of ours; nearest is revenuecollection.

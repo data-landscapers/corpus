@@ -106,7 +106,7 @@ def countries() -> dict[str, str]:
     out.update({"drc": "COD", "democratic republic of the congo": "COD", "congo dem rep": "COD",
                 "cote d ivoire": "CIV", "c te d ivoire": "CIV", "the gambia": "GMB",
                 "sao tome": "STP", "swaziland": "SWZ", "african union au": "XAF",
-                "african union": "XAF", "cabo verde": "CPV", "republic of the congo": "COG"})
+                "african union": "XAF", "cabo verde": "CPV", "united republic of tanzania": "TZA", "republic of the congo": "COG"})
     return out
 
 
@@ -149,9 +149,9 @@ def tag(t: str) -> str:
     return {"start-ups": "startups", "foundational skill": "foundational skills"}.get(t, t)
 
 
-def adapt_aftech(xlsx, edition, release) -> list[dict]:
+def adapt_aftech(d, edition, release) -> list[dict]:
     import openpyxl  # noqa: PLC0415
-    ws = openpyxl.load_workbook(xlsx, read_only=True).worksheets[0]
+    ws = openpyxl.load_workbook(d / "original.xlsx", read_only=True).worksheets[0]
     data = list(ws.iter_rows(values_only=True))
     head = [str(h or "").strip() for h in data[0]]
     col = {h: i for i, h in enumerate(head) if h}
@@ -200,9 +200,9 @@ def decode(fmt: str, v: str) -> str:
     return v
 
 
-def adapt_gtmi(xlsx, edition, release) -> list[dict]:
+def adapt_gtmi(d, edition, release) -> list[dict]:
     import openpyxl  # noqa: PLC0415
-    wb = openpyxl.load_workbook(xlsx, read_only=True)
+    wb = openpyxl.load_workbook(d / "original.xlsx", read_only=True)
     meta = gtmi_meta(wb)
     data = list(wb["GTMI_Data"].iter_rows(values_only=True))
     head = [str(h or "").strip() for h in data[0]]
@@ -248,16 +248,51 @@ def adapt_gtmi(xlsx, edition, release) -> list[dict]:
     return out
 
 
-ADAPTERS = {"aftech": adapt_aftech, "gtmi": adapt_gtmi}
+UNCTAD_AREAS = ["Electronic Transactions", "Consumer Protection", "Privacy and Data Protection",
+                "Cybercrime", "Indirect Taxation"]
+
+
+def adapt_unctad(d, edition, release) -> list[dict]:
+    """`data.csv` gives each country's status in five areas; `document_links.json` the laws
+    behind it, each a (url, name) pair. One claim per law, or one per area where none is linked."""
+    import json  # noqa: PLC0415
+    status = {r["code"]: r for r in rows(d / "data.csv") if r.get("Africa") == "1"}
+    links = json.loads((d / "document_links.json").read_text(encoding="utf-8-sig"))
+    names, m, out = countries(), mapping("unctad"), []
+    for code, r in status.items():
+        iso = names.get(fold(r["country"]))
+        if not iso:
+            print(f"unctad: no iso3 for {r['country']!r}; row kept with iso3 blank", file=sys.stderr)
+        for area in UNCTAD_AREAS:
+            st, fit = studies_for(m, [area.lower()])
+            laws = (links.get(code) or {}).get(area) or [[ "", "" ]]
+            for url, name in laws:
+                years = re.findall(r"\b((?:19|20)\d{2})\b", name or "")
+                out.append({
+                    "source": "unctad", "edition": edition, "survey_year": "", "iso3": iso or "",
+                    "item": area.lower(), "question": f"{area} legislation", "status": r[area],
+                    "name": re.sub(r"\s*<br\s*/?>\s*", " ", name or "").strip(),
+                    "year": years[-1] if years else "", "url": "",
+                    "documents": (url or "").strip().replace(" ", "%20"),
+                    "basis": "publisher-compiled", "studies": st, "fit": fit})
+    return out
+
+
+ADAPTERS = {"aftech": adapt_aftech, "gtmi": adapt_gtmi, "unctad": adapt_unctad}
 
 
 # --- fetch and claims ------------------------------------------------------------------------
 
 def cmd_fetch(sid: str) -> int:
     s = source(sid)
-    r = requests.get(s["download_url"], headers={"User-Agent": ss.UA}, timeout=120)
-    r.raise_for_status()
-    digest = hashlib.sha256(r.content).hexdigest()
+    urls = s["download_url"].split()
+    got = []
+    for u in urls:
+        r = requests.get(u, headers={"User-Agent": ss.UA}, timeout=120)
+        r.raise_for_status()
+        name = "original.xlsx" if len(urls) == 1 else up.urlsplit(u).path.rsplit("/", 1)[-1]
+        got.append((name, r.content))
+    digest = hashlib.sha256(b"".join(c for _, c in got)).hexdigest()
     for e in reversed(editions(sid)):
         if (e / "sha256").exists() and (e / "sha256").read_text().strip() == digest:
             print(f"{sid}: unchanged since {e.name}; nothing written")
@@ -266,21 +301,22 @@ def cmd_fetch(sid: str) -> int:
     today = dt.date.today().isoformat()
     d = BASE / sid / today
     d.mkdir(parents=True, exist_ok=True)
-    (d / "original.xlsx").write_bytes(r.content)
+    for name, content in got:
+        (d / name).write_bytes(content)
     (d / "sha256").write_text(digest + "\n")
     # The register's `release` is the publisher's date; a server's Last-Modified is when the file
     # was copied (GTMI's Dec 2025 file read 2026-10-19), so it is never used. Without a release,
     # the fetch date: late, never early.
     release = s["release"] or today
     (d / "release").write_text(release + "\n")
-    print(f"{sid}: edition {today}, release {release}, {len(r.content):,} bytes")
+    print(f"{sid}: edition {today}, release {release}, {sum(len(c) for _, c in got):,} bytes")
     return 0
 
 
 def cmd_claims(sid: str) -> int:
     e = editions(sid)[-1]
     release = (e / "release").read_text().strip()
-    out = ADAPTERS[sid](e / "original.xlsx", e.name, release)
+    out = ADAPTERS[sid](e, e.name, release)
     write_csv(e / "claims.csv", COLUMNS, out)
     print(f"{sid} {e.name}: {len(out)} claims, {sum(1 for c in out if c['studies'])} mapped to a study")
     every = []
@@ -297,9 +333,13 @@ def cmd_claims(sid: str) -> int:
 DATED_PATH = re.compile(r"/((?:19|20)\d{2})[/-](0[1-9]|1[0-2])(?:[/-]|$)")
 
 
+def registers() -> set[str]:
+    return {r["id"] for r in rows(SOURCES) if r["shape"] == "register"}
+
+
 def candidates(claims: list[dict]) -> dict[str, dict]:
     """url -> {title, year, places, publisher}; one per URL, places merged."""
-    out = {}
+    out, named = {}, registers()
     for c in claims:
         for u in c["documents"].split():
             if not u.lower().startswith("http"):
@@ -307,7 +347,7 @@ def candidates(claims: list[dict]) -> dict[str, dict]:
             u = u.split("#")[0]  # a text fragment is a reader's highlight, not the document
             if up.urlsplit(u).path.strip("/") == "":
                 continue  # a bare host is a home page, not a document
-            k = out.setdefault(u, {"title": c["name"] if c["source"] == "aftech" else "",
+            k = out.setdefault(u, {"title": c["name"] if c["source"] in named else "",
                                    "year": c["year"], "places": [], "item": c["item"], "name": c["name"]})
             if c["iso3"] and c["iso3"] not in k["places"]:
                 k["places"].append(c["iso3"])
@@ -354,15 +394,16 @@ def own_date(resp) -> str:
 
 def published_for(u: str, own: str, year: str, sid: str) -> tuple[str, str]:
     """(YYYY[-MM], how it was read), or ("", "") when nothing dates the document. A register's
-    year is the instrument's own (Carnegie); a survey's is the system's, never a page's (GTMI,
-    2026-11-10: a treasury's founding year dated its 2025 newsletter 1990)."""
+    year is the instrument's own, so it comes first: an upload path or a PDF's metadata dated
+    Ghana's Electronic Transactions Act 2008 to 2026 (UNCTAD, 2026-11-10). A survey's year is
+    the system's, never a page's (GTMI: a treasury's founding year dated its 2025 newsletter 1990)."""
+    if sid in registers() and re.fullmatch(r"(19|20)\d{2}", year or ""):
+        return year, "source"
     m = DATED_PATH.search(up.unquote(u))
     if m:
         return f"{m[1]}-{m[2]}", "path"
     if own and 1990 <= int(own[:4]) <= dt.date.today().year:
         return own, "metadata"
-    if sid == "aftech" and re.fullmatch(r"(19|20)\d{2}", year or ""):
-        return year, "source"
     return "", ""
 
 
@@ -471,6 +512,14 @@ def cmd_stage(sid: str, limit: int, retry: bool = False) -> int:
     held = ss.lookup("raw-url-index.csv")
     rejected = ss.lookup("rejected-urls.csv")
     titles = held_by_title()
+    # A link another source has staged is not in OSINT's index until it is ingested.
+    elsewhere = {}
+    for other in rows(SOURCES):
+        eds = editions(other["id"])
+        if other["id"] != sid and eds and (eds[-1] / "staging.csv").exists():
+            for r in rows(eds[-1] / "staging.csv"):
+                if r["outcome"] == "staged":
+                    elsewhere[ss.norm(r["url"])] = f"staged by {other['id']}, batch {r['batch']}"
     today = dt.date.today().isoformat()
     todo = []
     for u, c in candidates(claims).items():
@@ -480,6 +529,8 @@ def cmd_stage(sid: str, limit: int, retry: bool = False) -> int:
         hit = ss.screen(u, held, rejected)
         if not hit and c["title"] and any((fold(c["title"]), p) in titles for p in c["places"]):
             hit = ("held", "title and country in the catalogue")
+        if not hit and ss.norm(u) in elsewhere:
+            hit = ("staged-elsewhere", elsewhere[ss.norm(u)])
         if hit:
             log[u] = {"url": u, "places": " ".join(c["places"]), "outcome": hit[0], "note": hit[1], "batch": ""}
         else:

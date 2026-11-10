@@ -1,0 +1,187 @@
+url,places,outcome,note,batch
+http://admin.theiguides.org/Media/Documents/mr007fr.pdf,MRT,staged,source,1
+http://cipstp.st/wp-content/uploads/2018/03/Lei_15_2017-Lei-sobre-Cibercrime.pdf,STP,staged,source,2
+http://extwprlegs1.fao.org/docs/pdf/zam102117.pdf,ZMB,staged,source,3
+http://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/2019/TheDataProtectionAct__No24of2019.pdf,KEN,unfetchable,HTTP 403; Wayback ConnectionError,
+http://kenyalaw.org/kl/fileadmin/pdfdownloads/AmendmentActs/2013/KenyaInformationandCommunications_Amendment_Act2013.pdf,KEN,unfetchable,HTTP 403; Wayback ConnectionError,
+http://kenyalaw.org/kl/fileadmin/pdfdownloads/AmendmentActs/2020/BusinessLawsAmendmentAct2020.PDF,KEN,unfetchable,HTTP 403; Wayback ConnectionError,
+http://kenyalaw.org/kl/fileadmin/pdfdownloads/LegalNotices/2023/LN29_2023.pdf,KEN,unfetchable,HTTP 403; Wayback ConnectionError,
+http://lexprafaso.justice.gov.bf/Public/Index,BFA,staged,source,1
+http://media.mofo.com/files/PrivacyLibrary/3979/Cote-d-voire-loi_2013_450.pdf,CIV,unfetchable,HTTP 404; Wayback ConnectionError,
+http://media.mofo.com/files/PrivacyLibrary/3981/GHANAbill.pdf,GHA,unfetchable,HTTP 404; Wayback ConnectionError,
+http://tic.gov.mr/IMG/pdf/imp1fr-2.pdf,MRT,staged,source,1
+http://www.afapdp.org/wp-content/uploads/2012/01/Burkina-Faso-Loi-portant-protection-des-donn%C3%A9es-%C3%A0-caract%C3%A8re-personnel-20042.pdf,BFA,unfetchable,empty extraction; no usable Wayback capture,
+http://www.afapdp.org/wp-content/uploads/2012/01/Gabon-Loi-relative-%C3%A0-la-protection-des-donn%C3%A9es-personnelles-du-4-mai-20112.pdf,GAB,staged-elsewhere,"staged by gtmi, batch 4",
+http://www.afapdp.org/wp-content/uploads/2012/01/Mali-Loi-sur-la-protection-des-donn%C3%A9es-personnelles-du-21-mai-2013.pdf,MLI,unfetchable,empty extraction; Wayback ConnectionError,
+http://www.afapdp.org/wp-content/uploads/2015/01/Loi-n%C2%B02014-006_fr.pdf,MDG,staged,source,1
+http://www.afapdp.org/wp-content/uploads/2015/01/Madagascar-L-2014-038-du-09-01-15-sur-la-protection-des-donn%C3%A9es-%C3%A0-caract%C3%A8re-personnel.pdf,MDG,staged-elsewhere,"staged by gtmi, batch 5",
+http://www.art.cm/sites/default/files/documents/loi_2010-012_cybersecurite_cybercriminalite.pdf,CMR,held,held as raw/2010/2010-12-21-cmr-loi-2010-012-cybersecurite-cybercriminalite.md,
+http://www.cbos.gov.sd/sites/default/files/Electronic_Transactions_act_2007.pdf,SDN,held,held as raw/2007/2007-01-01-sudan-electronic-transactions-act-2007.md,
+http://www.centif.sn/Loi_2008_12.pdf,SEN,staged,source,2
+http://www.cnpd.cv/leis/Lei%20de%20Cibercrime.pdf,CPV,staged,source,1
+http://www.commerce.gov.tn/Fr/image.php?id=130,TUN,unfetchable,SSLError; Wayback ConnectionError,
+http://www.cpa.gov.eg/Portals/0/Law/English%20version%20CPA%20LAW.pdf,EGY,unfetchable,ConnectTimeout; Wayback ConnectionError,
+http://www.droit-afrique.com/upload/doc/cote-divoire/RCI-Loi-2013-546-transactions-electroniques.pdf,CIV,unfetchable,HTTP 403; Wayback ConnectionError,
+http://www.droit-afrique.com/upload/doc/togo/Togo-Loi-2012-18-communications-electroniques.pdf,TGO,unfetchable,HTTP 403; Wayback ConnectionError,
+http://www.droit-afrique.com/uploads/Gabon-Ordonnance-2018-15-cybersecurite-cybercriminalite.pdf,GAB,unfetchable,HTTP 403; Wayback ConnectionError,
+http://www.industrie.gouv.ci/fichier/loi-n-2016-412-du-15-juin-2016-relative-a-la-consommation.pdf,CIV,unfetchable,SSLError; Wayback ConnectionError,
+http://www.ins.tn/sites/default/files/Loi%2063-2004%20Fr.pdf,TUN,staged,source,2
+http://www.justice.gov.bf/wp-content/uploads/2021/06/Loi-n%C2%B0001-2021AN-portant-protection-des-personnes-a-l-egard-du-traitement-des-donnees-a-caractere-personnel.pdf,BFA,staged,source,1
+http://www.justice.mg/wp-content/uploads/2019/02/L2016-031.pdf,MDG,unfetchable,ConnectionError; Wayback ConnectionError,
+http://www.nic.ls/lsnic/community/policies/Data_Protection_Act_2011_Lesotho.pdf,LSO,staged-elsewhere,"staged by gtmi, batch 5",
+http://www.osiris.sn/Decret-no-2008-718-du-30-juin-2008.html,SEN,held,held as raw/2008/2008-06-30-sen-osiris-decret-2008-718-commerce-electronique.md,
+http://www.parliament.go.ke/node/2568,KEN,staged,source,1
+http://www.pura.gm/wp-content/uploads/2018/01/IC-Info-Comms-Act-2009.pdf,GMB,unfetchable,HTTP 404; Wayback ConnectionError,
+http://www.pura.gm/wp-content/uploads/2019/08/Data-Protection-and-Privacy-Draft-Policy-and-Strategy-August-2019.pdf,GMB,unfetchable,HTTP 404; Wayback ConnectionError,
+http://www.saflii.org/za/legis/consol_act/ecata2002427.pdf,ZAF,unfetchable,HTTP 403; Wayback ConnectionError,
+http://www.saflii.org/za/legis/num_act/cpa2008246.pdf,ZAF,unfetchable,HTTP 403; Wayback ConnectionError,
+http://www.sierra-leone.org/Laws/2006-9s.pdf,SLE,staged,source,2
+http://www.techzim.co.zw/wp-content/uploads/2016/08/ZImbabwes-draft-Electronic-Transactions-Electronic-Commerce-Bill.pdf,ZWE,staged,source,2
+"http://www.uaipit.com/uploads/legislacion/files/1374220608_13._Decree-Law_No._33.2007_of_September_24,_2007,_regulating_the_Use_of_Digital_Signatures_PT.pdf",CPV,staged,source,1
+http://www.wipo.int/edocs/lexdocs/laws/fr/sn/sn012fr.pdf,SEN,staged,source,2
+https://action-namibia.org/wp-content/uploads/2022/10/Data-Protection-Draft-Bill-March-2022....pdf,NAM,held,held as raw/2022/2022-03-01-namibia-draft-data-protection-bill-revised-version-mict.md,
+https://apd.ao/fotos/frontend_1/editor2/110620_lei_23-11_de_20_junho-das_comunicacoes_electronicas_e_dos_servicos.pdf,AGO,thin,85 chars,
+https://apdp.bj/wp-content/uploads/2016/08/Loi-No-2009-du-22Mai-2009-Version-Anglaise.pdf,BEN,thin,46 chars,
+https://arcep.td/lois.html,TCD,held,held as raw/2026/2026-09-02-arcep-tchad-registre-des-lois.md,
+https://arcep.td/sites/default/files/Loi-N%C2%B007-PR-2015.pdf,TCD,unfetchable,empty extraction; Wayback ConnectionError,
+https://arct.gov.bi/wp-content/uploads/2023/01/decret.pdf,BDI,unfetchable,ConnectionError; Wayback ConnectionError,
+https://arn.gw/activeapp/wp-content/uploads/2015/03/3.-%C2%A6SUP.-B.-O.-N.-%C2%A6-21-2010.pdf,GNB,held,held as raw/2010/2010-05-27-bo-guine-bissau-21-sup3-lei-5-2010-base-tic.md,
+https://csdsafrica.org/wp-content/uploads/2021/08/Cybersecurity-Act-2020-Act-1038.pdf,GHA,staged,source,1
+https://cybercrimactu.files.wordpress.com/2014/01/loi_2013_451.pdf,CIV,unfetchable,empty extraction; Wayback ConnectionError,
+https://cyrilla.org/fr/entity/1wwmph3f444,GIN,staged,source,1
+https://cyrilla.org/pt/entity/ev6gjrliya/text-search?searchTerm=access%20to%20info&amp;file=15991654684586qaon7fahe.pdf&amp;page=3,GHA,staged,source,1
+https://dr.211check.org/wp-content/uploads/2022/05/Cyber-crimes-and-Computer-Misuse-Provisional-Order.pdf,SSD,unfetchable,ConnectionError; Wayback ConnectionError,
+https://droitnumerique.cd/code-du-numerique-congolais-rdc-pdf/,COD,staged,source,1
+https://edbm.mg/wp-content/uploads/2017/12/Loi-2014_024_transactions_electroniques.pdf,MDG,unfetchable,HTTP 404; Wayback ConnectionError,
+https://edbm.mg/wp-content/uploads/2017/12/Loi-2014_025_signature_electronique.pdf,MDG,unfetchable,HTTP 404; Wayback ConnectionError,
+https://edbmauritius.org/wp-content/uploads/2022/07/e-Commerce-Scheme-Guideline-2021.pdf,MUS,staged,path,1
+https://eta.gov.eg/sites/default/files/2023-03/digital-service-guide-english.pdf,EGY,staged,path,1
+https://faolex.fao.org/docs/pdf/eth216473.pdf,ETH,staged,source,1
+https://gazettes.africa/archive/rw/2012/rw-government-gazette-dated-2012-11-12-no-46.pdf,RWA,staged,source,2
+https://gazettes.africa/archive/sl/2023/sl-government-gazette-supplement-dated-2023-03-28-no-15.pdf,SLE,staged,source,2
+https://gra.gov.gh/wp-content/uploads/2022/10/Value-Added-Tax-Amendment-Act-2022-Act-1082.pdf,GHA,staged,source,1
+https://ict.go.ug/wp-content/uploads/2019/03/Data-Protection-and-Privacy-Act-2019.pdf,UGA,unfetchable,HTTP 404; Wayback ConnectionError,
+https://ict.go.ug/wp-content/uploads/2019/12/UGANDA-Electronic-Transactions-Act-No.-8-of-2011.pdf,UGA,staged-elsewhere,"staged by aftech, batch 6",
+https://ictpolicyafrica.org/en/document/ggel4vdlal?page=1,NAM,staged,source,2
+https://ictpolicyafrica.org/fr/document/94x41x6wcz6?page=1,TUN,staged,source,2
+https://ictpolicyafrica.org/fr/document/f74jabga6q9,MLI,staged,source,1
+https://ictpolicyafrica.org/fr/document/s8yr3njtjo7,MAR,staged,source,2
+https://infotradekenya.go.ke/media/Kenya%20Information%20Communications%20ACT.pdf,KEN,unfetchable,ConnectionError; no usable Wayback capture,
+https://ir.parliament.gh/bitstream/handle/123456789/1813/ELECTRONIC%20TRANSACTIONS%20ACT%2C%202008%20%28ACT%20772%29.pdf?sequence=1&amp;isAllowed=y,GHA,staged,source,1
+https://istitlaa.ncc.gov.sa/en/Trade/mci/Consumer/Pages/default.aspx,STP,staged,metadata,2
+https://jo.gouv.tg/sites/default/files/JO/JOS_28_04_2018-63E%20ANNEE%20N%C2%B0%206%20BIS.pdf,TGO,unfetchable,HTTP 404; Wayback ConnectionError,
+https://jo.gouv.tg/sites/default/files/JO/JOS_29_10_2019-64E%20ANNEE-N%C2%B026%20TER.pdf,TGO,held,held as raw/2019/2019-10-29-togo-loi-2019-014-protection-donnees-caractere-personnel.md,
+https://journal-officiel.ga/17567-018-2021/,GAB,staged,source,1
+https://journal-officiel.ga/18190-025-2021-/,GAB,held,held as raw/2021/2021-12-28-jo-ga-loi-025-2021-transactions-electroniques.md,
+https://kra.go.ke/images/publications/Finance--Act-2022.pdf,KEN,unfetchable,ConnectionError; Wayback ConnectionError,
+https://laws.boe.gov.sa/Files/Download/?attId=be4eef55-50be-44e3-b94d-adbb011b5736,STP,unfetchable,ConnectTimeout; Wayback ConnectionError,
+https://lawsociety.ly/en/legislation/law-no-5-of-2022-regarding-combating-cybercrimes/,LBY,staged,source,1
+https://lawsociety.ly/en/legislation/law-no-6-of-2022-concerning-electronic-transactions/,LBY,held,held as raw/2022/2022-10-04-lby-law-6-2022-electronic-transactions.md,
+https://lawstrust.com/sites/default/files/docs/juris_laws/Electronic_Transactions_Act_2001.pdf,SYC,staged,source,2
+https://malawilii.org/akn/mw/act/2016/33/eng@2017-12-31,MWI,held,held as raw/2016/2016-11-04-malawi-electronic-transactions-and-cyber-security-act.md,
+https://mcit.gov.eg/Upcont/Documents/Reports%20and%20Documents_1232021000_Law_No_151_2020_Personal_Data_Protection.pdf,EGY,unfetchable,empty extraction; Wayback ConnectionError,
+https://media.malawilii.org/files/legislation/akn-mw-act-2016-33-eng-2017-12-31.pdf,MWI,staged,source,1
+https://media2.mofo.com/documents/Law_22_11_Data_Privacy_Law.pdf,AGO,unfetchable,empty extraction; no usable Wayback capture,
+https://media2.mofo.com/documents/The+Organic+Act+2004-63.pdf,TUN,unfetchable,HTTP 403; Wayback ConnectionError,
+https://mopt.gov.lr/wp-content/uploads/2022/06/Final-Version-Cyber-Crime-Act-MOPT.pdf,LBR,held,held as raw/2021/2021-01-01-liberia-cybercrime-act-2021-bill-text-mopt.md,
+https://mpten.gov.gn/wp-content/uploads/2019/06/loi_l2016037an_relative_a_la_cybersecurite_et_protection_des_do.pdf,GIN,unfetchable,ConnectionError; Wayback ConnectionError,
+https://nass.gov.ng/documents/bill/11142,NGA,staged,source,2
+https://natlex.ilo.org/dyn/natlex2/r/natlex/fe/details?p3_isn=103967&amp;cs=1EgE1Uxl7xGCnn8gYewkJnr4Xxxj72WiFYEHqEsEPqjeQRxHLcNOv3NxpErncb5QJdUzSw51dcQ8hsfUCAm8MDA,ETH,unfetchable,HTTP 403; no usable Wayback capture,
+https://nc4.go.ke/the-computer-misuse-and-cybercrimes-act/,KEN,staged-elsewhere,"staged by aftech, batch 2",
+https://nita.gov.gh/theevooc/2017/12/Electronic-Communications-Act-775.pdf,GHA,staged-elsewhere,"staged by aftech, batch 2",
+https://numerique.gouv.tg/wp-content/uploads/2019/12/Loi-n-2018-026-du-07-decembre-2018-cybersecurite-et-cybercriminalite.pdf,TGO,thin,263 chars,
+https://oagmis.agctz.go.tz/portal/acts/237,TZA,unfetchable,ConnectionError; Wayback ConnectionError,
+https://passageiro.aac.cv/doc/l-88-v-1988-31-dez.pdf,CPV,staged,source,1
+https://placng.org/i/wp-content/uploads/2023/06/Nigeria-Data-Protection-Act-2023.pdf,NGA,unfetchable,empty extraction; no usable Wayback capture,
+https://platform.dataguidance.com/notes/equatorial-guinea-data-protection-overview,GNQ,unfetchable,empty extraction; no usable Wayback capture,
+https://postetelecom.gouv.cg/loi-26-2019-5-juin-2020-relative-a-cybersecurite/,COG,unfetchable,empty extraction; Wayback ConnectionError,
+https://postetelecom.gouv.cg/loi-27-2020-du-5-juin-20-portant-lutte-contre-cybercriminalite/,COG,unfetchable,empty extraction; Wayback ConnectionError,
+https://pura.gm/wp-content/uploads/2021/02/IC-Info-Comms-Act-2009.pdf,GMB,staged-elsewhere,"staged by aftech, batch 1",
+https://reformar.co.mz/documentos-diversos/lei-24-2019-lei-de-revisao-do-codigo-penal.pdf,MOZ,staged,source,2
+https://rsf.org/sites/default/files/the_cyber_crime_act_2015.pdf,TZA,staged,source,2
+https://rura.rw/fileadmin/Documents/ICT/Laws/Law_governing_Information_and_Communication_Technologies_in_Rwanda.pdf,RWA,unfetchable,HTTP 404; Wayback ConnectionError,
+https://rura.rw/index.php?id=104&amp;tx_news_pi1%5Bnews%5D=603&amp;tx_news_pi1%5Bday%5D=27&amp;tx_news_pi1%5Bmonth%5D=9&amp;tx_news_pi1%5Byear%5D=2018&amp;cHash=cf6a0de5282574dd3c3a8081a6348b83,RWA,unfetchable,HTTP 404; no usable Wayback capture,
+https://seylii.org/akn/sc/act/2024/12/eng@2024-08-30,SYC,staged,source,2
+https://sherloc.unodc.org/cld/uploads/res/document/computer_misuse_and_cybercrime_act_2003_html/Computer_Misuse_and_Cybercrime_Act_2003.pdf,MUS,staged,source,1
+https://sherloc.unodc.org/cld/v3/sherloc/legdb/search.html?lng=en,BDI CMR SYC UGA,staged,source,1
+https://tradecca.thecommonwealth.org/document/lesotho-electronic-transactions-and-electronic-commerce-bill,LSO,unfetchable,HTTP 404; Wayback ConnectionError,
+https://unctad.org/topic/ecommerce-and-digital-economy/ecommerce-law-reform/summary-adoption-e-commerce-legislation-worldwide,,staged,the database record,1
+https://www.acs.org.eg/wp-content/uploads/2023/03/Minister-of-Finance-Decree-24-2023-free-translation_2.pdf,EGY,staged,source,1
+https://www.adie.sn/sites/default/files/lois/4-cybercrime.pdf,SEN,staged,source,2
+https://www.afapdp.org/wp-content/uploads/2017/02/Loi-n%c2%b02017-28-du-03-mai-2017.pdf,NER,unfetchable,empty extraction; no usable Wayback capture,
+https://www.afapdp.org/wp-content/uploads/2018/05/Guinee-loi_2016037an_relative_a_la_cybersecurite_et_protection_des_donees.pdf,GIN,unfetchable,empty extraction; Wayback ConnectionError,
+https://www.afapdp.org/wp-content/uploads/2018/06/Benin-Loi-2017-20-Portant-code-du-numerique-en-Republique-du-Benin.pdf,BEN,staged,source,1
+https://www.africa-laws.org/Morocco/Comercial%20law/Law%20n%C2%B043.20%20on%20trust%20services%20for%20electronic%20transactions%20(in%20Arabic).pdf,MAR,unfetchable,ConnectionError; Wayback ConnectionError,
+"https://www.africa-laws.org/Niger/Comercial%20law/Loi%20n%C2%B0%202019-03%20du%2030%20avril%202019,%20portant%20sur%20les%20transactions%20%C3%A9lectroniques%20au%20Niger.pdf",NER,unfetchable,ConnectionError; Wayback ConnectionError,
+https://www.africa-laws.org/Niger/criminal%20law/Loi%20no%202019-33%20portant%20r%C3%A9pression%20de%20la%20cyber%20criminalit%C3%A9%20au%20Niger.pdf,NER,unfetchable,ConnectionError; Wayback ConnectionError,
+https://www.africa-laws.org/Zimbabwe/Consumer%20Law/Consumer%20Contracts%20Act%20(Ch%20803).pdf,ZWE,unfetchable,ConnectionError; no usable Wayback capture,
+https://www.arcep.bf/download/loi-10-11-2009-n045-2009/,BFA,thin,345 chars,
+https://www.arcep.td/lois.html,TCD,held,held as raw/2026/2026-09-02-arcep-tchad-registre-des-lois.md,
+https://www.arpt.gov.gn/loi-2016-035-an-relative-aux-transactions-electroniques/,GIN,thin,200 chars,
+https://www.bocra.org.bw/sites/default/files/documents/05%20Act%2020%EF%80%A204%EF%80%A22018%20CONSUMER%20PROTECTION.pdf,BWA,staged,source,1
+https://www.bocra.org.bw/sites/default/files/documents/18%20Act%2029-06-2018%20Cybercrime%20and%20Computer%20Related%20Crimes.pdf,BWA,staged,source,1
+https://www.bocra.org.bw/sites/default/files/documents/Electronic-Communications-and-Transactions-Act-2014.pdf,BWA,held,held as raw/2014/2014-05-14-bwa-electronic-communications-transactions-act.md,
+https://www.budgetoffice.gov.ng/index.php/finance-act-2023,NGA,unfetchable,ConnectTimeout; Wayback ConnectionError,
+https://www.centralbank.org.ls/images/Legislation/Supervision/Acts/Financial_Sector_All/Financial_Consumer_Protection_Act_7_of_2022.pdf,LSO,held,title and country in the catalogue,
+https://www.dataguidance.com/sites/default/files/data_protection_bill_2024.pdf,BWA,held,title and country in the catalogue,
+https://www.dataguidance.com/sites/default/files/electronic_transactions_law.pdf,MOZ,staged,source,2
+https://www.dataguidance.com/sites/default/files/rw-government-gazette-dated-2021-10-15-no-special.pdf,RWA,staged,source,2
+https://www.dataguidance.com/sites/default/files/somalia_data_protection_act-2.pdf,SOM,held,title and country in the catalogue,
+https://www.dgssi.gov.ma/index.php/fr/decret-ndeg-2-13-881-du-28-rabii-i-1436-20-janvier-2015-modifiant-et-completant-le,MAR,staged,metadata,2
+https://www.dgssi.gov.ma/sites/default/files/attached_files/l31-08_protection_consommateur.pdf,MAR,unfetchable,ConnectTimeout; no usable Wayback capture,
+https://www.dgssi.gov.ma/sites/default/files/attached_files/loi_09-08protection_donnees_personnelles.pdf,MAR,staged,source,3
+https://www.dlapiperdataprotection.com/system/modules/za.co.heliosdesign.dla.lotw.data_protection/functions/handbook.pdf?country-1=TD,TCD,unfetchable,HTTP 404; Wayback ConnectionError,
+https://www.droit-afrique.com/uploads/Algerie-Decret-2019-89-transaction-commerciales-electroniques.pdf,DZA,unfetchable,HTTP 403; no usable Wayback capture,
+https://www.droit-afrique.com/uploads/Algerie-Loi-2018-05-commerce-electronique.pdf,DZA,staged,source,1
+https://www.droit-afrique.com/uploads/Mauritanie-Loi-2021-14-services-moyens-paiement-electronique.pdf,MRT,held,held as raw/2021/2021-07-30-mauritanie-loi-2021-014-texte-integral-droit-afrique.md,
+https://www.droit-afrique.com/uploads/Togo-Loi-2017-07-transactions-electroniques.pdf,TGO,unfetchable,HTTP 403; Wayback ConnectionError,
+https://www.ecolex.org/.../loi-n-2015-014-sur-les-garanties-et-la-protection-des-conso,MDG,unfetchable,"HTTP 404; Wayback HTTP 400, not checked",
+https://www.escc.gov.eg/cyber_crime_law.pdf,EGY,unfetchable,SSLError; Wayback ConnectionError,
+https://www.esccom.org.sz/consumers/Consumer_Protection_Regulations.pdf,SWZ,unfetchable,HTTP 404; Wayback ConnectionError,
+https://www.esccom.org.sz/legislation/DATA%20PROTECTION%20ACT.pdf,SWZ,held,held as raw/2022/2022-03-04 Eswatini Data Protection Act 2022 (Act No. 5 of 2022).md,
+https://www.esccom.org.sz/legislation/ELECTRONIC%20COMMUNICATIONS%20TRANSACTIONS%20ACT.pdf,SWZ,unfetchable,HTTP 404; Wayback ConnectionError,
+https://www.fcc.go.tz/pdf/Standard_%20Form_%20CONSUMER%20CONTRACTS_%20Regulations_2014.pdf,TZA,unfetchable,empty extraction; no usable Wayback capture,
+https://www.fratel.org/documents/2011/12/201105-Cameroun-Loi_cadre_protection_consommateur.pdf,CMR,staged,source,1
+https://www.gov.za/documents/electronic-communications-and-transactions-act,ZAF,staged-elsewhere,"staged by aftech, batch 5",
+https://www.gov.za/sites/default/files/gcis_document/201409/3706726-11act4of2013protectionofpersonalinforcorrect.pdf,ZAF,staged,source,2
+https://www.gov.za/sites/default/files/gcis_document/201505/act-89-1991s.pdf,ZAF,staged,source,2
+https://www.gov.za/sites/default/files/gcis_document/202106/44651gon324.pdf,ZAF,held,held as raw/2021/2021-06-01-cybercrimes-act-19-of-2020.md,
+https://www.ict.gov.sc/Documents/2023/BILL_DATA%20PROTECTION%20BILL%202023-16-03-2023.pdf,SYC,staged,source,2
+https://www.igf.finances.gouv.ci/document/loi-de-finances-n-2021-899-du-21-decembre-2021-portant-budget-de-letat-pour-lannee-2022/,CIV,unfetchable,empty extraction; Wayback ConnectionError,
+https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/108724/134563/F686980207/MUS108724.pdf,MUS,unfetchable,HTTP 403; Wayback ConnectionError,
+https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/92316/107449/F-1995265301/DJI-92316.pdf,DJI,unfetchable,HTTP 403; Wayback ConnectionError,
+https://www.impots.cm/en/actualites/general-tax-code-edited-1st-january-2023,CMR,staged,metadata,1
+https://www.joradp.dz/FTP/jo-francais/2018/F2018028.pdf,DZA,staged,metadata,1
+https://www.joradp.dz/Jo2000/2018/034/FP10.pdf,DZA,unfetchable,HTTP 404; Wayback ConnectionError,
+https://www.lac.org.na/laws/annoSTAT/Electronic%20Transactions%20Act%204%20of%202019.pdf,NAM,staged-elsewhere,"staged by aftech, batch 3",
+https://www.lexlink.eu/codigo/angola/14579/codigos/por-tema,AGO,staged,metadata,1
+https://www.malibuzz.tv/loi-n2019-056-du-05-decembre-2019-portant-repression-de-la-cybercriminalite-au-mali/,MLI,unfetchable,HTTP 404; no usable Wayback capture,
+https://www.mcci.org/media/36445/electronic-transaction-act-2000.pdf,MUS,staged,source,1
+https://www.metaappz.com/References/ethiopian_laws/federal/pr_1205_2020/en/pdf,ETH,held,title and country in the catalogue,
+https://www.mincommerce.gov.cm/sites/default/files/documents/loi-n-2010-021-du-21-decembre-2010-regissant-le-commerce-electronique-au-cameroun.pdf,CMR,held,held as raw/2010/2010-12-21-loi-2010-021-commerce-electronique-cameroun.md,
+https://www.minpostel.gov.cm/images/Les_textes/Lois/Loi_2013-013_communications_electroniques.pdf,CMR,staged,source,1
+"https://www.mof.go.tz/uploads/documents/en-1676545044-THE%20ELECTRONIC%20TRANSACTIONS%20ACT,%20CAP%20442%20R.E.%202022.pdf",TZA,held,held as raw/2022/2022-06-24-tza-the-electronic-transactions-act-cap-442-r-e-2022.md,
+https://www.moj.gov.sd/files/download/205,SDN,staged,source,2
+https://www.mra.mu/download/FA2020.pdf,MUS,staged,source,1
+https://www.msgg.gov.mr/sites/default/files/2020-11/J.O.%201417F%20DU%2030.07.2018.pdf,MRT,unfetchable,HTTP 404; Wayback ConnectionError,
+https://www.nfiu.gov.ng/images/Downloads/downloads/cybercrime.pdf,NGA,staged-elsewhere,"staged by aftech, batch 4",
+https://www.parliament.go.tz/polis/uploads/bills/acts/1662105178-CHAPTER%20442-THE%20ELECTRONIC%20TRANSACTIONS%20ACT%20.pdf,TZA,staged,source,2
+https://www.parliament.go.ug/sites/default/files/Value%20Added%20Tax%20%28Amendment%29%20Bill%2C%202023%20EDITED.pdf,UGA,unfetchable,SSLError; Wayback ConnectionError,
+"https://www.parliament.gov.sl/uploads/acts/THE%20CYBERSECURITY%20AND%20CRIME%20ACT,%202021%20-%20%2025TH%20NOVEMBER,%202021.pdf",SLE,unfetchable,SSLError; Wayback ConnectionError,
+https://www.parliament.gov.sl/uploads/bill_files/THE%20ELECTRONIC%20TRANSACTION%20BILL%202019.pdf,SLE,staged,source,2
+"https://www.parliament.gov.sl/uploads/bill_files/The%20Consumer%20Protection%20Act,%202020.pdf",SLE,staged,source,2
+https://www.parliament.gov.zm/node/8272,ZMB,unfetchable,SSLError; Wayback ConnectionError,
+https://www.parliament.gov.zm/node/8832,ZMB,unfetchable,SSLError; Wayback ConnectionError,
+https://www.parliament.gov.zm/node/8842,ZMB,unfetchable,SSLError; Wayback ConnectionError,
+https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%203%20The%20Data%20Protection%20Act%202021_0.pdf,ZMB,held,held as raw/2021/2021-03-24-zambia-data-protection-act-2021.md,
+https://www.sgg.cg/JO/2019/congo-jo-2019-45.pdf,COG,held,held as raw/2019/2019-11-07-jo-2019-45-loi-29-2019-protection-donnees-caractere-personnel.md,
+https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/voec/norwegian-vat-act-112020.pdf,BEN,staged,source,1
+https://www.tra.go.tz/IMAGES/ACT_NO_7_THE_FINANCE_ACT_2023_230701_083832.pdf,TZA,staged,source,3
+https://www.ucm.minfin.gov.ao/cs/groups/public/documents/document/aw4x/mjm3/~edisp/minfin1237860.pdf,AGO,unfetchable,empty extraction; no usable Wayback capture,
+https://www.veritaszim.net/sites/veritas_d/files/Cyber%20%26%20Data%20Protection%20Act%20Cap1207%20No%205%20of%202021%20gaz%202022-03-11.pdf,ZWE,held,held as raw/2022/2022-03-11-zimbabwe-cyber-and-data-protection-act-chapter-12-07.md,
+https://www.veritaszim.net/sites/veritas_d/files/Data%20Protection%20Act%205%20of%202021.pdf,ZWE,staged,metadata,2
+https://www.wipo.int/edocs/lexdocs/laws/pt/ao/ao026pt.pdf,AGO,staged,source,1
+https://www.wipo.int/wipolex/en/legislation/details/13546,EGY,staged,source,1
+https://www.wto.org/english/thewto_e/acc_e/lbr_e/WTACCLBR15_LEG_18.pdf,LBR,held,held as raw/2002/2002-06-19-liberia-electronic-transactions-law-chapter-13-title-14.md,
+https://www.zimra.co.zw/downloads/category/17-acts?download=187:value-added-tax-act-chapter-23-12-updated&amp;start=20,ZWE,unfetchable,HTTP 404; Wayback ConnectionError,
+https://www2.camara.leg.br/saotomeeprincipe/diarios-da-an/x-legislatura/ii-serie/3.a-sessao-legislativa/DAN01-IIS.pdf/view,STP,thin,299 chars,

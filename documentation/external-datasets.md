@@ -63,6 +63,8 @@ The first reading, on 2026-11-10, found three patterns:
 - **First run, 2026-11-10.**
   - Carnegie: 238 staged, 41 held, 41 too thin, 247 unfetchable.
   - GTMI: 499 staged, 75 held, 12 undated, 77 thin, 369 unfetchable, plus 23 listings or error pages.
+  - UNCTAD's Global Cyberlaw Tracker (added the same day): 303 claims, one per law or per area with none. 72 staged, 26 held, 10 already staged by another source, 72 unfetchable, 6 thin. Its status is in `data.csv` and its laws in `document_links.json`, both on `storage.unctad.org`; unctad.org itself refuses scripted fetches.
+  - A register's year is the instrument's own and dates it first; an upload path or a PDF's metadata dated Ghana's 2008 Act 2026. Carnegie's batches went out before this rule, so 91 of them carry their path date, marked `proxy`.
   - A GTMI year answer dates the system, never a page: a treasury's founding year once dated its 2025 newsletter 1990. A GTMI document is dated by its path or its own metadata; a Carnegie row's year is the instrument's own.
   - Most unfetchable links are 404s with no Wayback capture. They stay as claims. `stage --retry` fetches the transient failures again.
   - Titles: GTMI gives no document titles, so `best_title` builds one from the page title, the file name, the body's first line or the claim's name, skipping letterheads.
@@ -72,4 +74,4 @@ The first reading, on 2026-11-10, found three patterns:
 
 **The maturity pass.** Claims reach a study as evidence through a drafter reading them beside the held primary, under the citing rule above. It waits on the primaries landing, and on `study-update.py` → `HELD`. Registered as a CORPUS housekeeping job.
 
-**More sources.** These include UNCTAD's cyberlaw tracker, the ITU ICT regulatory tracker, the UN e-government survey's country data and the IIAG's indicator data. Each needs one adapter, one register row and a block of mappings.
+**More sources.** These include the ITU ICT regulatory tracker, the UN e-government survey's country data and the IIAG's indicator data. Each needs one adapter, one register row and a block of mappings.
