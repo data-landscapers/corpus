@@ -1,12 +1,12 @@
 ---
 title: Namibia: status report
-compiled: 2026-11-09
+compiled: 2026-11-10
 place: NAM
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 6
-sources_cited: 187
+sources_cited: 191
 sections_written: 39
 not_established: 2
 acquire_lines: 45
@@ -124,6 +124,8 @@ Namibia's digital-sector financing from 2016 to 2026 runs to 38 commitments, wor
 [In a decision gazetted on 23 March 2026, the Communications Regulatory Authority of Namibia refused Starlink a Class Comprehensive telecommunications licence and the spectrum it needed](https://www.namibian.com.na/cran-rejects-starlink-licence/). [It found the company met only three of six statutory criteria](https://www.connectingafrica.com/regulation/starlink-blocked-from-operating-in-namibia). [The applicant is wholly foreign-owned against a rule requiring 51 percent Namibian ownership, and no ministerial exemption was granted](https://www.connectingafrica.com/regulation/starlink-blocked-from-operating-in-namibia) (2026). [Compliance history and national defence and public security made up the rest](https://www.connectingafrica.com/regulation/starlink-blocked-from-operating-in-namibia). Starlink [said it would appeal](https://www.namibian.com.na/starlink-to-appeal-namibias-licence-rejection/). [In June 2026 CRAN upheld the refusal; a fresh application had been filed on 8 June](https://www.connectingafrica.com/regulation/namibian-regulator-rejects-starlink-again).
 
 [On 2 September 2025 Paratus launched Namibia's first privately owned mobile network, a data-only LTE and 5G service](https://www.connectingafrica.com/investment/paratus-launches-namibia-s-first-private-mobile-network). [The majority state-owned MTC then held more than two million subscribers and over 90 percent of the market, against TN Mobile's roughly 336,000 (September 2025)](https://www.connectingafrica.com/investment/paratus-launches-namibia-s-first-private-mobile-network). [MTC switched on 5G in Windhoek, Swakopmund and Walvis Bay in August 2025](https://itweb.africa/article/namibia-expedites-data-centre-smart-city-development/KWEBb7yLVARvmRjO). [By September 2026 it had reached Grootfontein, Mariental, Okahandja, Otjiwarongo and Tsumeb, with a second phase of 19 sites across nine regions under construction](https://namibiadailynews.info/namibia-accelerates-network-modernization-to-meet-growing-connectivity-needs/).
+
+[Telecom Namibia brought the country's first submarine cable, WACS, ashore at Swakopmund in 2011](https://www.submarinenetworks.com/en/systems/euro-africa/equiano/paratus-lights-up-equiano-cable-system-in-namibia). [Paratus activated the second, Equiano, at Swakopmund on 12 June 2023](https://paratus.africa/blog/equiano-cable-activated-in-namibia/). [A faulty WACS branching unit off Swakopmund caused severe service delays in early June 2025](https://neweralive.na/telecom-namibia-works-on-network-optimisation/). [A study for Equiano's owner put used international bandwidth at 131 Gbps in 2020, 114 Kbps per internet user](https://africapractice.com/wp-content/uploads/2022/06/EIA-Namibia-22June2022.pdf).
 
 [4G covered about 88 percent of the population in 2024, against a government target of full coverage by 2030](https://www.ecofinagency.com/news-digital/0406-47149-namibia-targets-100-telecom-coverage-nationwide-by-2030). [At 3.76 people per square kilometre, 5G is phased and city-first while rural areas stay on 2G and 3G (February 2026)](https://www.telecomreviewafrica.com/articles/features/28266-towards-a-5g-enabled-digitalized-namibia-in-2026/). [In February 2026 the regulator proposed tax breaks on 4G-capable handsets, after an operator reported low use of its 4G towers in Kunene](https://itweb.africa/article/namibian-regulator-proposes-tax-breaks-on-4g-devices/). [Internet and computer access is Namibia's most improved of all 96 IIAG indicators, up 38.1 points over 2014-2023 to 49.6 out of 100](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf). [It ranks 13th of 54, while mobile communications ranks 21st](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf) (2023). [In October 2026 Paratus launched the OneWeb low earth orbit service countrywide, with residential and commercial packages](https://www.itweb.africa/article/paratus-namibia-launches-eutelsats-oneweb-leo-connectivity/dgp45qaBnYVvX9l8).
 
