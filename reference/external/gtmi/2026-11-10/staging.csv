@@ -1,173 +1,173 @@
 url,places,outcome,note,batch
 http://41.79.226.26/asycudaworld/,BDI,thin,270 chars,
-http://afritacouest.org/images/23coEng.pdf,BEN,staged,source,1
+http://afritacouest.org/images/23coEng.pdf,BEN,listing,Bienvenue à AFRITAC de l'Ouest,
 http://blog-pfm.imf.org/pfmblog/2013/06/kenyas-bold-course-in-pfm-reform.html,KEN,unfetchable,HTTP 403; Wayback ConnectionError,
 http://ca.gouv.bj/CRLs/,BEN,listing,Index of /CRLs,
-http://cagd.gov.gh/gifmis/index.php/milestones/treasury-single-account-tsa,GHA,unfetchable,empty extraction; Wayback ConnectionError,
+http://cagd.gov.gh/gifmis/index.php/milestones/treasury-single-account-tsa,GHA,staged,metadata,4
 http://cib.govmu.org/English/Documents/DGTS/Digital%20Government%20Transformation%20Strategy%202018%20-%202022.pdf,MUS,unfetchable,HTTP 404; Wayback ConnectionError,
-http://cib.govmu.org/English/Pages/digitalgovernment.aspx,MUS,staged,source,5
+http://cib.govmu.org/English/Pages/digitalgovernment.aspx,MUS,unfetchable,HTTP 404; Wayback ConnectionError,
 http://cim.gov.ly/page95.html,LBY,unfetchable,empty extraction; Wayback ConnectionError,
-http://documents.worldbank.org/curated/en/979011555375605802/pdf/Project-Information-Document-Integrated-Safeguards-Data-Sheet-Liberia-Integrated-Public-Financial-Management-Reform-Project-Phase-II-P165000.pdf,LBR,staged,source,4
+http://documents.worldbank.org/curated/en/979011555375605802/pdf/Project-Information-Document-Integrated-Safeguards-Data-Sheet-Liberia-Integrated-Public-Financial-Management-Reform-Project-Phase-II-P165000.pdf,LBR,staged,metadata,5
 http://douanes.ci/index.php,CIV,unfetchable,ConnectionError; Wayback ConnectionError,
-http://egov.ma/sites/default/files/cgi_2012_v1.pdf,MAR,staged,source,12
-http://eservice.incometax.gov.eg/Etax,EGY,undated,,
+http://egov.ma/sites/default/files/cgi_2012_v1.pdf,MAR,staged,metadata,7
+http://eservice.incometax.gov.eg/Etax,EGY,staged,metadata,3
 http://gfmis.mof.gov.eg/TSA,EGY,unfetchable,HTTP 500; Wayback ConnectionError,
-http://greybook.seylii.org/se/2003-9,SYC,unfetchable,ConnectionError; no usable Wayback capture,
+http://greybook.seylii.org/se/2003-9,SYC,thin,91 chars,
 http://icta.go.ke/powerassets/uploads/2020/03/Systems-and-Applications-Standard.pdf,KEN,unfetchable,SSLError; no usable Wayback capture,
-http://icta.go.ke/standards/general-guiding-principles-standard/,KEN,staged,source,12
+http://icta.go.ke/standards/general-guiding-principles-standard/,KEN,unfetchable,SSLError; Wayback ConnectionError,
 http://inic.gov.st/docs/EstrGovDigital-STP-Jan2020.pdf,STP,held,held as raw/2020/2020-06-01-inic-sao-tome-estrategia-nacional-governacao-digital.md,
-http://mauritiusassembly.govmu.org/English/Pages/Finance-and.aspx,MUS,staged,source,5
+http://mauritiusassembly.govmu.org/English/Pages/Finance-and.aspx,MUS,staged,metadata,5
 http://mcit.gov.eg/Training,EGY,thin,121 chars,
-http://mitci.govmu.org/English/Documents/2018/Launching%20Digital%20Transformation%20Strategy%20191218/Mauritius%20AI%20Strategy%20(7).pdf,MUS,staged,source,5
-http://moc.gov.gh/projects/,GHA,staged,source,4
-http://nra.gov.sl/news/full-digital-transformation-nra-takes-concrete-steps-boost-operations,SLE,unfetchable,HTTP 400; no usable Wayback capture,
-http://oagf.gov.ng/treasury-single-account/,NGA,staged,source,6
-http://ortb.bj/archives/index.php/info/item/4447-cotonou-accueille-les-4emes-rencontres-nationales-du-logiciel-libre,BEN,unfetchable,ConnectionError; Wayback ConnectionError,
+http://mitci.govmu.org/English/Documents/2018/Launching%20Digital%20Transformation%20Strategy%20191218/Mauritius%20AI%20Strategy%20(7).pdf,MUS,staged,metadata,6
+http://moc.gov.gh/projects/,GHA,staged,metadata,4
+http://nra.gov.sl/news/full-digital-transformation-nra-takes-concrete-steps-boost-operations,SLE,unfetchable,HTTP 400; Wayback ConnectionError,
+http://oagf.gov.ng/treasury-single-account/,NGA,staged,metadata,7
+http://ortb.bj/archives/index.php/info/item/4447-cotonou-accueille-les-4emes-rencontres-nationales-du-logiciel-libre,BEN,staged,metadata,1
 http://pdpouganda.blogspot.com/2024/09/the-state-of-data-protection-in-uganda.html?utm_source=chatgpt.com,UGA,held,held as raw/2024/2024-09-12-uga-the-state-of-data-protection-in-uganda.md,
 http://ressan-gb.gw/index.php/documentos/28-terra-ranka/file,GNB,unfetchable,ConnectionError; no usable Wayback capture,
-http://teledeclaration-dgi.cm/modules/Common/Account/Login.aspx,CMR,undated,,
+http://teledeclaration-dgi.cm/modules/Common/Account/Login.aspx,CMR,staged,metadata,2
 http://vision2030.go.ke/project/e-government-systems/,KEN,thin,367 chars,
-http://webtestcms.nra.gov.sl/uploads/Tax_education_Final_b4a2c156be.pdf,SLE,staged,source,8
-http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/10/01/000350881_20121001113803/Rendered/PDF/723340CAS0P1280Official0Use0Only090.pdf,BDI,staged,path,1
-http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/10/30/000104615_20131104113932/Rendered/PDF/Somalia0PFM0Ca000600PID0250Oct02013.pdf,SOM,staged,path,8
-http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/01/13/000461832_20140113152214/Rendered/PDF/839410WP0P14490Box0382124B00PUBLIC0.pdf,ETH,staged,path,3
-http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/01/24/000333037_20140124145156/Rendered/INDEX/PAD7380REPLACE00900IDA0R20140000901.txt,LSO,staged,path,4
+http://webtestcms.nra.gov.sl/uploads/Tax_education_Final_b4a2c156be.pdf,SLE,staged,metadata,9
+http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/10/01/000350881_20121001113803/Rendered/PDF/723340CAS0P1280Official0Use0Only090.pdf,BDI,staged,path,2
+http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/10/30/000104615_20131104113932/Rendered/PDF/Somalia0PFM0Ca000600PID0250Oct02013.pdf,SOM,staged,path,9
+http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/01/13/000461832_20140113152214/Rendered/PDF/839410WP0P14490Box0382124B00PUBLIC0.pdf,ETH,staged,path,4
+http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/01/24/000333037_20140124145156/Rendered/INDEX/PAD7380REPLACE00900IDA0R20140000901.txt,LSO,staged,path,5
 http://www.afapdp.org/wp-content/uploads/2012/01/B%C3%A9nin-LOI-SUR-PROTECTION-DES-DONNEES-A-CARACTERE-PERSONNEL-20092.pdf,BEN,staged,path,1
-http://www.afapdp.org/wp-content/uploads/2012/01/Cap-vert-Lei-n%C2%B0133-V-2001-do-22-janeiro-20011.pdf,CPV,staged,path,1
-http://www.afapdp.org/wp-content/uploads/2012/01/Gabon-Loi-relative-%C3%A0-la-protection-des-donn%C3%A9es-personnelles-du-4-mai-20112.pdf,GAB,staged,path,3
-http://www.afapdp.org/wp-content/uploads/2015/01/Madagascar-L-2014-038-du-09-01-15-sur-la-protection-des-donn%C3%A9es-%C3%A0-caract%C3%A8re-personnel.pdf,MDG,staged,path,4
-http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Guinea%20Bissau_PAURB_EN.pdf,GNB,staged,source,4
-http://www.anpr.tn/national-ai-strategy-unlocking-tunisias-capabilities-potential/,TUN,staged,source,9
-http://www.artci.ci/images/stories/pdf/lois/loi_2013_450.pdf,CIV,unfetchable,HTTP 404; no usable Wayback capture,
-http://www.cgea-dz.org/sites/default/files/documents/e-algerie2013-2.pdf,DZA,unfetchable,HTTP 521; no usable Wayback capture,
-http://www.cil.bf/index.php/legislation/legislation-nationale,BFA,unfetchable,HTTP 404; no usable Wayback capture,
+http://www.afapdp.org/wp-content/uploads/2012/01/Cap-vert-Lei-n%C2%B0133-V-2001-do-22-janeiro-20011.pdf,CPV,staged,path,2
+http://www.afapdp.org/wp-content/uploads/2012/01/Gabon-Loi-relative-%C3%A0-la-protection-des-donn%C3%A9es-personnelles-du-4-mai-20112.pdf,GAB,staged,path,4
+http://www.afapdp.org/wp-content/uploads/2015/01/Madagascar-L-2014-038-du-09-01-15-sur-la-protection-des-donn%C3%A9es-%C3%A0-caract%C3%A8re-personnel.pdf,MDG,staged,path,5
+http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Guinea%20Bissau_PAURB_EN.pdf,GNB,staged,metadata,5
+http://www.anpr.tn/national-ai-strategy-unlocking-tunisias-capabilities-potential/,TUN,staged,metadata,11
+http://www.artci.ci/images/stories/pdf/lois/loi_2013_450.pdf,CIV,unfetchable,HTTP 404; Wayback ConnectionError,
+http://www.cgea-dz.org/sites/default/files/documents/e-algerie2013-2.pdf,DZA,staged,metadata,1
+http://www.cil.bf/index.php/legislation/legislation-nationale,BFA,unfetchable,HTTP 404; Wayback ConnectionError,
 http://www.cil.bf/index.php/utilitaires/rapports-publics,BFA,unfetchable,HTTP 404; Wayback ConnectionError,
 http://www.cimf.tn/index.php/systeme-de-rationalisation-de-l-action-fiscale-et-comptable,TUN,unfetchable,HTTP 503; Wayback ConnectionError,
 http://www.cni.tn/index.php/fr/component/k2/item/146-insaf,TUN,unfetchable,HTTP 503; Wayback ConnectionError,
 http://www.cni.tn/index.php/fr/pages-3/maitrises-d-ouvrage/item/146-insaf,TUN,unfetchable,HTTP 503; Wayback ConnectionError,
-http://www.cni.tn/index.php/fr/socle-applicatif-2,TUN,unfetchable,HTTP 503; no usable Wayback capture,
+http://www.cni.tn/index.php/fr/socle-applicatif-2,TUN,unfetchable,HTTP 503; Wayback ConnectionError,
 http://www.communications.gov.ls/document/MCST%20STATEGIC%20PLAN%20FOR%20THE%20YEAR%202020%20-%2021%20%20-%202022%20-23.PDF,LSO,unfetchable,SSLError; Wayback ConnectionError,
-http://www.dgtcfm.cm/index.php/fr/mutuelle-des-personnels-du-tresor-cameroun/2-uncategorised/394-conference-annuelle-2012-sous-theme-le-compte-unique-du-tresor-enjeux-et-perspectives.html,CMR,staged,source,2
+http://www.dgtcfm.cm/index.php/fr/mutuelle-des-personnels-du-tresor-cameroun/2-uncategorised/394-conference-annuelle-2012-sous-theme-le-compte-unique-du-tresor-enjeux-et-perspectives.html,CMR,unfetchable,HTTP 404; Wayback ConnectionError,
 http://www.dgtic.gov.bf/wp-content/uploads/2020/03/Strat%C3%A9gie_Nationale_de_D%C3%A9veloppment_de_Economie_Num%C3%A9rique_2018-2020.pdf,BFA,unfetchable,ConnectionError; no usable Wayback capture,
 http://www.eastafritac.org/images/uploads/documents_storage/2013-10_Cash_Management_Workshop_-_Day_1_Presentations.pdf,ERI,unfetchable,HTTP 404; Wayback ConnectionError,
 http://www.ecsu.edu.et/notice/announcement-digital-skills-training,ETH,unfetchable,HTTP 404; Wayback ConnectionError,
-http://www.egov.ma/sites/default/files/Programme%20eGov%20Morocco.pdf,MAR,staged,source,12
-http://www.egypt.gov.eg/english/documents/default.aspx,EGY,staged,source,2
-http://www.egypt.gov.eg/services/LoadxtrServices.aspx?PgURL=63853&section=subjects,EGY,undated,,
-http://www.elaws.gov.bw/default.php?UID=602,BWA,unfetchable,ConnectTimeout; Wayback ConnectionError,
+http://www.egov.ma/sites/default/files/Programme%20eGov%20Morocco.pdf,MAR,staged,metadata,7
+http://www.egypt.gov.eg/english/documents/default.aspx,EGY,unfetchable,SSLError; Wayback ConnectionError,
+http://www.egypt.gov.eg/services/LoadxtrServices.aspx?PgURL=63853&section=subjects,EGY,unfetchable,SSLError; Wayback ConnectionError,
+http://www.elaws.gov.bw/default.php?UID=602,BWA,thin,142 chars,
 http://www.ena.bi/ena/public/home/index/index.html,BDI,unfetchable,empty extraction; Wayback ConnectionError,
-http://www.epay.gov.gh/epay/the-portal.html,GHA,unfetchable,HTTP 404; Wayback ConnectionError,
-http://www.ethiopia.gov.et/documents/20181/23610/Draft+Open+Data+Policy+and+Guideline/5060aba1-2ce4-4a51-9265-3945c1f5df88,ETH,unfetchable,ConnectionError; no usable Wayback capture,
+http://www.epay.gov.gh/epay/the-portal.html,GHA,staged,metadata,4
+http://www.ethiopia.gov.et/documents/20181/23610/Draft+Open+Data+Policy+and+Guideline/5060aba1-2ce4-4a51-9265-3945c1f5df88,ETH,staged,metadata,4
 http://www.finance.go.ug/index.php?option=com_content&view=article&id=50&Itemid=86,UGA,thin,390 chars,
-http://www.finances-budget.cf/le-ministere/les-directions-generales/direction-generale-du-tresor-et-de-la-comptabilite-publique-dgtcp,CAF,thin,284 chars,
-http://www.finances.gouv.ne/index.php/une/451-seminaire-sur-la-comptabilite-unique-du-tresor-la-gestion-de-la-tresorerie-et-de-la-gestion-de-la-dette,NER,staged,source,6
-http://www.finances.gouv.sn/dgcpt/,SEN,unfetchable,ConnectTimeout; Wayback ConnectionError,
+http://www.finances-budget.cf/le-ministere/les-directions-generales/direction-generale-du-tresor-et-de-la-comptabilite-publique-dgtcp,CAF,unfetchable,ConnectionError; no usable Wayback capture,
+http://www.finances.gouv.ne/index.php/une/451-seminaire-sur-la-comptabilite-unique-du-tresor-la-gestion-de-la-tresorerie-et-de-la-gestion-de-la-dette,NER,staged,metadata,7
+http://www.finances.gouv.sn/dgcpt/,SEN,unfetchable,ConnectTimeout; no usable Wayback capture,
 http://www.finances.gov.gn/index.php/lois-et-textes-reglementaires/les-textes-organiques/func-startdown/212/,GIN,unfetchable,ConnectTimeout; no usable Wayback capture,
-http://www.freedominfo.org/regions/africa/guinea/,GIN,staged,source,4
-http://www.gbo.tn/sites/default/files/2022-01/PAP%20Mission%20TC%20%20%2028%20Janvier%202022%20%281%29.pdf,TUN,staged,path,9
+http://www.freedominfo.org/regions/africa/guinea/,GIN,staged,metadata,4
+http://www.gbo.tn/sites/default/files/2022-01/PAP%20Mission%20TC%20%20%2028%20Janvier%202022%20%281%29.pdf,TUN,staged,path,11
 http://www.gov.na/documents/10181/18040/e-Gov+Strategic+Plan+for+the+Public+Service+2014+to+2018/cce8facc-309d-43cd-ab3d-e5ce714eaf69,NAM,unfetchable,ConnectTimeout; Wayback ConnectionError,
-http://www.gov.sz/images/e-government%20strategy%20final%20document%20that%20was%20adopted.pdf,SWZ,staged,source,12
-http://www.gov.sz/images/edoc.pdf,SWZ,unfetchable,ConnectionError; Wayback ConnectionError,
-http://www.gov.sz/images/stories/Constitution%20of%20%20SD-2005A001.pdf,SWZ,staged,source,3
+http://www.gov.sz/images/e-government%20strategy%20final%20document%20that%20was%20adopted.pdf,SWZ,unfetchable,ConnectTimeout; Wayback ConnectionError,
+http://www.gov.sz/images/edoc.pdf,SWZ,undated,,
+http://www.gov.sz/images/stories/Constitution%20of%20%20SD-2005A001.pdf,SWZ,staged,metadata,13
 http://www.grss-mof.org/wp-content/uploads/2014/03/APPROPRIATION_SUPPLEMENTARY-BILL.pdf,SSD,unfetchable,HTTP 404; no usable Wayback capture,
 http://www.humanrightsinitiative.org/programs/ai/rti/international/laws_&_papers.htm,BWA CMR,unfetchable,HTTP 404; Wayback ConnectionError,
 http://www.humanrightsinitiative.org/programs/ai/rti/international/laws_papers/lesotho/ari_bill_2000.pdf,LSO,undated,,
-http://www.ict.gov.sc/resources/policy.pdf,SYC,unfetchable,ConnectionError; Wayback ConnectionError,
+http://www.ict.gov.sc/resources/policy.pdf,SYC,staged,metadata,9
 http://www.imf.org/External/NP/LOI/2013/MLI/120213.pdf,MLI,unfetchable,HTTP 403; Wayback ConnectionError,
 http://www.imf.org/external/pubs/ft/scr/2014/cr14203.pdf,SDN,unfetchable,HTTP 403; Wayback ConnectionError,
-http://www.impots.finances.gov.tn/index.php/fr/services-en-ligne/tele-declaration-fiscale,TUN,undated,,
-http://www.impots.finances.gov.tn/teledeclar_fr.html,TUN,thin,88 chars,
-http://www.impotsetdomaines.gouv.sn/fr/teleprocedures,SEN,thin,26 chars,
-http://www.inai.tn/wp-content/uploads/2020/09/Livre_DRI_Fran%C3%A7ais_WEB.pdf,TUN,staged,path,9
-http://www.inpdp.nat.tn/Presentation.html,TUN,unfetchable,ConnectionError; Wayback ConnectionError,
-http://www.inpdp.nat.tn/ressources/loi_2004.pdf,TUN,staged,source,9
-http://www.isat-tunis.tn/wp-content/uploads/2021/01/chapitre-3-formalit%C3%A9s-douani%C3%A8res-2%C3%A8me-ann%C3%A9e-SINDA-et-TTN.pdf,TUN,staged,path,9
-http://www.justice.gouv.ml/documentation/Code_des_Personnes_et_de_la_Famille.pdf,MLI,staged,source,5
+http://www.impots.finances.gov.tn/index.php/fr/services-en-ligne/tele-declaration-fiscale,TUN,unfetchable,HTTP 400; Wayback ConnectionError,
+http://www.impots.finances.gov.tn/teledeclar_fr.html,TUN,unfetchable,HTTP 400; Wayback ConnectionError,
+http://www.impotsetdomaines.gouv.sn/fr/teleprocedures,SEN,unfetchable,HTTP 404; no usable Wayback capture,
+http://www.inai.tn/wp-content/uploads/2020/09/Livre_DRI_Fran%C3%A7ais_WEB.pdf,TUN,staged,path,11
+http://www.inpdp.nat.tn/Presentation.html,TUN,thin,58 chars,
+http://www.inpdp.nat.tn/ressources/loi_2004.pdf,TUN,staged,metadata,11
+http://www.isat-tunis.tn/wp-content/uploads/2021/01/chapitre-3-formalit%C3%A9s-douani%C3%A8res-2%C3%A8me-ann%C3%A9e-SINDA-et-TTN.pdf,TUN,staged,path,11
+http://www.justice.gouv.ml/documentation/Code_des_Personnes_et_de_la_Famille.pdf,MLI,unfetchable,HTTP 404; Wayback ConnectionError,
 http://www.justice.mg/wp-content/uploads/2019/02/L2016-029.pdf,MDG,unfetchable,ConnectionError; Wayback ConnectionError,
-http://www.mcit.gov.eg/Upcont/Documents/FOSS_Strategy_EN_2014.pdf,EGY,staged,source,2
+http://www.mcit.gov.eg/Upcont/Documents/FOSS_Strategy_EN_2014.pdf,EGY,staged,metadata,3
 http://www.mcit.gov.eg/Upcont/Documents/ICT%20Strategy%202012-2017.pdf,EGY,held,held as raw/2013/2013-02-18-egy-mcit-national-ict-strategy-2012-2017.md,
-http://www.mcit.gov.eg/Upcont/MediaCenter/MCIT%20in%20Press_ar_816201800AR_Cabinet_Approves_Personal_Data_Protection_Draft_Bill.pdf,EGY,staged,source,2
-http://www.mef.gov.mz/index.php/destaques/177-ministro-da-planificacao-e-desenvolvimento-considera-urgente-a-adopcao-de-novas-tecnologias-na-producao-agraria,MOZ,unfetchable,HTTP 404; Wayback ConnectionError,
-http://www.mf.gov.dz/article/301/R%C3%A9alisations/281/La-modernisation-des-syst%C3%A8mes-de-paiement-:-une-r%C3%A9forme-exemplaire-port%C3%A9e-par-un-projet-structurant--.html,DZA,unfetchable,ConnectTimeout; Wayback ConnectionError,
-http://www.minecofin.gov.rw/index.php?id=143,RWA,unfetchable,HTTP 404; Wayback ConnectionError,
-http://www.mint.gov.et/policy-and-strategy/-/document_library/CNlICzpide2L/view/126252?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L_redirect=http%3A%2F%2Fwww.mint.gov.et%2Fpolicy-and-strategy%3Fp_p_id%3Dcom_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview,ETH,undated,,
-http://www.mint.gov.et/policy-and-strategy/-/document_library/CNlICzpide2L/view/257247?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L_redirect=http%3A%2F%2Fwww.mint.gov.et%2Fpolicy-and-strategy%3Fp_p_id%3Dcom_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview,ETH,staged,source,12
+http://www.mcit.gov.eg/Upcont/MediaCenter/MCIT%20in%20Press_ar_816201800AR_Cabinet_Approves_Personal_Data_Protection_Draft_Bill.pdf,EGY,staged,metadata,3
+http://www.mef.gov.mz/index.php/destaques/177-ministro-da-planificacao-e-desenvolvimento-considera-urgente-a-adopcao-de-novas-tecnologias-na-producao-agraria,MOZ,unfetchable,HTTP 404; no usable Wayback capture,
+http://www.mf.gov.dz/article/301/R%C3%A9alisations/281/La-modernisation-des-syst%C3%A8mes-de-paiement-:-une-r%C3%A9forme-exemplaire-port%C3%A9e-par-un-projet-structurant--.html,DZA,staged,metadata,1
+http://www.minecofin.gov.rw/index.php?id=143,RWA,staged,metadata,8
+http://www.mint.gov.et/policy-and-strategy/-/document_library/CNlICzpide2L/view/126252?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L_redirect=http%3A%2F%2Fwww.mint.gov.et%2Fpolicy-and-strategy%3Fp_p_id%3Dcom_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview,ETH,staged,metadata,4
+http://www.mint.gov.et/policy-and-strategy/-/document_library/CNlICzpide2L/view/257247?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L_redirect=http%3A%2F%2Fwww.mint.gov.et%2Fpolicy-and-strategy%3Fp_p_id%3Dcom_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview,ETH,unfetchable,ConnectionError; no usable Wayback capture,
 http://www.mint.gov.et/policy-and-strategy/-/document_library/CNlICzpide2L/view_file/266105?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L_redirect=http%3A%2F%2Fwww.mint.gov.et%2Fpolicy-and-strategy%2F-%2Fdocument_library%2FCNlICzpide2L%2Fview%2F266103%3F_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L_redirect%3Dhttp%253A%252F%252Fwww.mint.gov.et%252Fpolicy-and-strategy%253Fp_p_id%253Dcom_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L%2526p_p_lifecycle%253D0%2526p_p_state%253Dnormal%2526p_p_mode%253Dview,ETH,unfetchable,ConnectionError; no usable Wayback capture,
 http://www.mint.gov.et/policy-and-strategy/-/document_library/CNlICzpide2L/view_file/266324?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L_redirect=http%3A%2F%2Fwww.mint.gov.et%2Fpolicy-and-strategy%2F-%2Fdocument_library%2FCNlICzpide2L%2Fview%2F257357%3F_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L_redirect%3Dhttp%253A%252F%252Fwww.mint.gov.et%252Fpolicy-and-strategy%253Fp_p_id%253Dcom_liferay_document_library_web_portlet_DLPortlet_INSTANCE_CNlICzpide2L%2526p_p_lifecycle%253D0%2526p_p_state%253Dnormal%2526p_p_mode%253Dview,ETH,unfetchable,ConnectionError; no usable Wayback capture,
-http://www.modernisation.gouv.ci/planification/les-projets,CIV,unfetchable,empty extraction; no usable Wayback capture,
+http://www.modernisation.gouv.ci/planification/les-projets,CIV,unfetchable,empty extraction; Wayback ConnectionError,
 http://www.mof.go.tz/mofdocs/msemaji/PFMRP%20IV%20Strategy.pdf,TZA,unfetchable,HTTP 404; Wayback ConnectionError,
-http://www.mof.gov.eg/English/MOFNews/Media/Pages/release8-8-2017.aspx,EGY,staged,source,2
-http://www.moici.gov.gm/e-services,GMB,unfetchable,ConnectionError; no usable Wayback capture,
+http://www.mof.gov.eg/English/MOFNews/Media/Pages/release8-8-2017.aspx,EGY,unfetchable,HTTP 404; Wayback ConnectionError,
+http://www.moici.gov.gm/e-services,GMB,staged,metadata,4
 http://www.motpwh.gov.mw/Publications/Malawi_2013_Malawi_ICT_Policy.pdf,MWI,unfetchable,ConnectionError; no usable Wayback capture,
-http://www.mwe.com/info/pubs/Law_22_11_Data_Privacy_Law.pdf,AGO,staged,source,1
-http://www.nic.ls/lsnic/community/policies/Data_Protection_Act_2011_Lesotho.pdf,LSO,staged,source,4
-http://www.numerique.gouv.sn/mediatheque/documentation/strat%C3%A9gie-nationale-de-cybers%C3%A9curit%C3%A9-snc2022,SEN,thin,51 chars,
-http://www.oag.gov.na/report/reports/866_Government_2008-09.pdf,NAM,unfetchable,ConnectionError; Wayback ConnectionError,
+http://www.mwe.com/info/pubs/Law_22_11_Data_Privacy_Law.pdf,AGO,staged,metadata,1
+http://www.nic.ls/lsnic/community/policies/Data_Protection_Act_2011_Lesotho.pdf,LSO,staged,metadata,5
+http://www.numerique.gouv.sn/mediatheque/documentation/strat%C3%A9gie-nationale-de-cybers%C3%A9curit%C3%A9-snc2022,SEN,unfetchable,ConnectionError; no usable Wayback capture,
+http://www.oag.gov.na/report/reports/866_Government_2008-09.pdf,NAM,staged,metadata,7
 http://www.oecd.org/derec/afdb/malawi.pdf,MWI,unfetchable,HTTP 403; Wayback ConnectionError,
 http://www.parliament.go.ke/sites/default/files/2019-07/The%20Data%20Protection%20Bill%2C%202019.pdf,KEN,unfetchable,empty extraction; Wayback ConnectionError,
 http://www.pppc.mw/assets/upload/downloads/DIGITAL_GOVERNMENT_STRATEGY_PRESENTATION.pdf,MWI,unfetchable,HTTP 404; Wayback ConnectionError,
 http://www.pppc.mw/assets/upload/downloads/Digital_Malawi_Program_GRANT_MANUAL_FINALL_(002)_May_2020_Final.pdf,MWI,unfetchable,HTTP 404; Wayback ConnectionError,
 http://www.rti-rating.org/files/pdf/Zimbabwe.pdf,ZWE,unfetchable,HTTP 404; no usable Wayback capture,
-http://www.sante.gov.ml/index.php/2014-11-10-17-29-36/documents-politiques22/item/2525-loi-n-2013-015-du-21-mai-2013-portant-protection-des-donnees-a-caractere-personnel-en-republique-du-mali,MLI,staged,path,5
-http://www.sgg.gov.ma/BO/bo_fr/2018/BO_6670_Fr.pdf,MAR,unfetchable,empty extraction; Wayback ConnectionError,
-http://www.sierra-leone.org/Laws/2013-02.pdf,SLE,staged,source,8
+http://www.sante.gov.ml/index.php/2014-11-10-17-29-36/documents-politiques22/item/2525-loi-n-2013-015-du-21-mai-2013-portant-protection-des-donnees-a-caractere-personnel-en-republique-du-mali,MLI,unfetchable,HTTP 404; Wayback ConnectionError,
+http://www.sgg.gov.ma/BO/bo_fr/2018/BO_6670_Fr.pdf,MAR,unfetchable,empty extraction; no usable Wayback capture,
+http://www.sierra-leone.org/Laws/2013-02.pdf,SLE,staged,metadata,9
 http://www.sita.co.za/content/govtech-0,ZAF,unfetchable,SSLError; Wayback ConnectionError,
 http://www.sita.co.za/sites/default/files/Strategic%20Plan%202020-2025.pdf,ZAF,unfetchable,SSLError; Wayback ConnectionError,
-http://www.sra.org.sz/payments/payments.php,SWZ,unfetchable,ConnectTimeout; Wayback ConnectionError,
-http://www.statewatch.org/news/2013/mar/ecowas-dp-act.pdf,SLE,staged,source,8
-http://www.tax.gov.ma/wps/portal/SimplIR,MAR,undated,,
+http://www.sra.org.sz/payments/payments.php,SWZ,staged,metadata,4
+http://www.statewatch.org/news/2013/mar/ecowas-dp-act.pdf,SLE,staged,metadata,9
+http://www.tax.gov.ma/wps/portal/SimplIR,MAR,staged,metadata,7
 http://www.theopc.gov.zw/index.php/news/ict-newsletter-blog/258-current-e-government-landscape-in-zimbabwe-online-platforms-and-e-services,ZWE,thin,363 chars,
-http://www.treasury.gov.za/legislation/PFMA/act.pdf,ZAF,staged,source,8
-http://www.tresor-togo.org/index.php?m=ps0b0t0d&c=ps1b1t1d,TGO,unfetchable,ConnectionError; Wayback ConnectionError,
-http://www.tresor.bf/spip.php?page=articleS&id_article=75,BFA,unfetchable,ConnectionError; Wayback ConnectionError,
+http://www.treasury.gov.za/legislation/PFMA/act.pdf,ZAF,staged,metadata,10
+http://www.tresor-togo.org/index.php?m=ps0b0t0d&c=ps1b1t1d,TGO,unfetchable,ConnectionError; no usable Wayback capture,
+http://www.tresor.bf/spip.php?page=articleS&id_article=75,BFA,staged,metadata,13
 http://www.tresor.ga/r/attributions/loi585.htm,GAB,unfetchable,ConnectionError; no usable Wayback capture,
 http://www.tresor.gov.ci/documentation/actualites/revue-de-presse/item/828-tracabilite-des-operations-financieres-de-l%E2%80%99etat-la-cr%C3%A9ation-d%E2%80%99un-compte-unique-du-tr%C3%A9sor-adopt%C3%A9-en-conseil-de-ministre.html,CIV,unfetchable,ConnectionError; no usable Wayback capture,
-http://www.tresor.mr/fr/news.php?id=ZGM=,MRT,staged,source,5
-http://www.tunisieindustrie.gov.tn/si2035.html,TUN,staged,source,10
-http://www.utm.ac.mu/index.php/en/utm-about-us/about-utm,MUS,staged,source,5
-http://www.wipo.int/edocs/lexdocs/laws/fr/sn/sn009fr.pdf,SEN,staged,source,8
-http://www.wipo.int/wipolex/en/details.jsp?id=10873,RWA,staged,source,7
-http://www.wipo.int/wipolex/en/text.jsp?file_id=189310,MUS,staged,source,5
-http://www.wipo.int/wipolex/en/text.jsp?file_id=238413,GMB,staged,source,3
+http://www.tresor.mr/fr/news.php?id=ZGM=,MRT,unfetchable,HTTP 404; Wayback ConnectionError,
+http://www.tunisieindustrie.gov.tn/si2035.html,TUN,staged,metadata,11
+http://www.utm.ac.mu/index.php/en/utm-about-us/about-utm,MUS,unfetchable,HTTP 403; Wayback ConnectionError,
+http://www.wipo.int/edocs/lexdocs/laws/fr/sn/sn009fr.pdf,SEN,staged,metadata,9
+http://www.wipo.int/wipolex/en/details.jsp?id=10873,RWA,staged,metadata,8
+http://www.wipo.int/wipolex/en/text.jsp?file_id=189310,MUS,staged,metadata,6
+http://www.wipo.int/wipolex/en/text.jsp?file_id=238413,GMB,staged,metadata,4
 https://Manual/Financial,MUS,unfetchable,ConnectionError; no usable Wayback capture,
-https://accounts.ecitizen.go.ke/en,KEN,unfetchable,HTTP 403; Wayback ConnectionError,
-https://adn.bj/wp-content/uploads/2020/04/SELECTION-DUN-CABINET-POUR-LA-DEFINITION-DE-LA-STRATEGIE-NATIONALE-DINTELLIGENCE-ARTIFICIELLE.pdf,BEN,unfetchable,SSLError; Wayback ConnectionError,
-https://africandchub.org/sites/default/files/2025-06/Botswana%20Long%20Term%20Vision_2024.pdf,BWA,staged,path,1
-https://agt.minfin.gov.ao/PortalAGT/,AGO,unfetchable,empty extraction; Wayback ConnectionError,
+https://accounts.ecitizen.go.ke/en,KEN,unfetchable,HTTP 403; no usable Wayback capture,
+https://adn.bj/wp-content/uploads/2020/04/SELECTION-DUN-CABINET-POUR-LA-DEFINITION-DE-LA-STRATEGIE-NATIONALE-DINTELLIGENCE-ARTIFICIELLE.pdf,BEN,unfetchable,SSLError; no usable Wayback capture,
+https://africandchub.org/sites/default/files/2025-06/Botswana%20Long%20Term%20Vision_2024.pdf,BWA,staged,path,2
+https://agt.minfin.gov.ao/PortalAGT/,AGO,unfetchable,empty extraction; no usable Wayback capture,
 https://akademia.nosi.cv/en/highlights/,CPV,unfetchable,HTTP 404; Wayback ConnectionError,
-https://alces.douane.gov.dz/main,DZA,unfetchable,SSLError; no usable Wayback capture,
-https://amm-report-2021.azurewebsites.net/our-members.php,UGA,staged,source,10
+https://alces.douane.gov.dz/main,DZA,unfetchable,SSLError; Wayback ConnectionError,
+https://amm-report-2021.azurewebsites.net/our-members.php,UGA,staged,metadata,12
 https://ande.gov.gn/file/2025/01/Strategie-Numerique_Guinee-2027_v1.2.pdf,GIN,held,held as raw/2024/2024-06-11-strategie-nationale-digitalisation-guinee-digitale-2023-2027.md,
 https://anid.gouv.tg/en/e-id-togo-2/,TGO,held,held as raw/2025/2025-01-01-anid-togo-e-id-enrolment-steps-benefits.md,
-https://anip.bj/carte-didentite-biometrique/,BEN,unfetchable,empty extraction; Wayback ConnectionError,
-https://anpdp.dz/wp-content/uploads/2023/01/2.1-Loi-N°18-07-2.pdf,DZA,unfetchable,ConnectTimeout; Wayback ConnectionError,
+https://anip.bj/carte-didentite-biometrique/,BEN,staged,metadata,1
+https://anpdp.dz/wp-content/uploads/2023/01/2.1-Loi-N°18-07-2.pdf,DZA,staged,path,1
 https://anpetogo.org/wp-content/uploads/2025/08/STAT_T2_08-08-2025_Bon_.pdf,TGO,unfetchable,HTTP 404; no usable Wayback capture,
-https://anrpts.gov.mr/fr/houwiyeti/get-app,MRT,unfetchable,empty extraction; no usable Wayback capture,
+https://anrpts.gov.mr/fr/houwiyeti/get-app,MRT,unfetchable,empty extraction; Wayback ConnectionError,
 https://ansice2.darkaa.com/category/publications/,TCD,unfetchable,ConnectionError; no usable Wayback capture,
 https://apd.ao/ao/comunicacao-institucional/,AGO,thin,85 chars,
 https://apd.ao/ao/noticias/capacitacao-em-proteccao-de-dados-chega-ao-ministerio-das-financas-atraves-do-prodip/,AGO,thin,85 chars,
 https://apdp.bj/rapports-annuels/,BEN,thin,46 chars,
-https://api.impots.bj/media/67b854b4ef98c_B%C3%A9nin-Loi%20de%20finances%202025.pdf,BEN,unfetchable,ConnectionError; Wayback ConnectionError,
-https://apif.finances.gouv.ci/index.php?option=com_content&view=article&id=214&catid=5&Itemid=230,CIV,undated,,
+https://api.impots.bj/media/67b854b4ef98c_B%C3%A9nin-Loi%20de%20finances%202025.pdf,BEN,unfetchable,ConnectionError; no usable Wayback capture,
+https://apif.finances.gouv.ci/index.php?option=com_content&view=article&id=214&catid=5&Itemid=230,CIV,staged,metadata,2
 https://appli.tresorpublic.gouv.tg/z-pay/login,TGO,thin,46 chars,
-https://apps.apple.com/us/app/djibouti-mobile-id/id6484163491,DJI,undated,,
-https://arcep.cf/fr/images/documents/reglementation/decrets/decret_19_041_Interco.pdf,CAF,unfetchable,HTTP 404; no usable Wayback capture,
-https://arcep.td/sites/default/files/Loi-N%C2%B007-PR-2015.pdf,TCD,unfetchable,empty extraction; no usable Wayback capture,
+https://apps.apple.com/us/app/djibouti-mobile-id/id6484163491,DJI,staged,metadata,3
+https://arcep.cf/fr/images/documents/reglementation/decrets/decret_19_041_Interco.pdf,CAF,unfetchable,HTTP 404; Wayback ConnectionError,
+https://arcep.td/sites/default/files/Loi-N%C2%B007-PR-2015.pdf,TCD,unfetchable,empty extraction; Wayback ConnectionError,
 https://arcep.tg/wp-content/uploads/2020/11/Decision_n016-ARTP-DG-19_Portant_publication_de_la_liste_des_psce_reconnus_en_RT.pdf,TGO,unfetchable,empty extraction; Wayback ConnectionError,
-https://arcep.tg/wp-content/uploads/2021/03/Re%CC%81fe%CC%81rentiel-Recommande%CC%81-Electronique-ARTP-V2.0.pdf,TGO,staged,path,9
-https://archive.finance.go.ug/sites/default/files/IFMS%20-%20The%20Journey%20V6%20%28Final%29-1.pdf,UGA,staged,source,10
-https://archive.finance.go.ug/sites/default/files/Publications/Public%20Finance%20Management%20Regulations%2C%202016.pdf,UGA,staged,source,10
-https://archive.gazettes.africa/archive/mz/2018/mz-government-gazette-series-i-dated-2018-02-02-no-24.pdf,MOZ,staged,source,6
-https://asin.bj/articles/,BEN,staged,source,1
-https://asin.bj/documents/,BEN,staged,source,1
+https://arcep.tg/wp-content/uploads/2021/03/Re%CC%81fe%CC%81rentiel-Recommande%CC%81-Electronique-ARTP-V2.0.pdf,TGO,staged,path,11
+https://archive.finance.go.ug/sites/default/files/IFMS%20-%20The%20Journey%20V6%20%28Final%29-1.pdf,UGA,staged,metadata,12
+https://archive.finance.go.ug/sites/default/files/Publications/Public%20Finance%20Management%20Regulations%2C%202016.pdf,UGA,staged,metadata,12
+https://archive.gazettes.africa/archive/mz/2018/mz-government-gazette-series-i-dated-2018-02-02-no-24.pdf,MOZ,staged,metadata,7
+https://asin.bj/articles/,BEN,staged,metadata,1
+https://asin.bj/documents/,BEN,staged,metadata,1
 https://asin.bj/projets/,BEN,thin,386 chars,
 https://asycuda.org/en/,SYC,thin,179 chars,
-https://asycuda.org/en/software/,SWZ,staged,source,3
+https://asycuda.org/en/software/,SWZ,listing,About ASYCUDA,
 https://asycuda.org/wp-content/uploads/2020/ASYCUDA%20Compendium%202020%20-%20Sierra%20Leone.pdf,SLE,held,held as raw/2020/2020-01-01-sle-asycuda-compendium-2020-progressive-implementation.md,
-"https://attorneygeneral.govmu.org/Documents/Laws%20of%20Mauritius/A-Z%20Acts/C/Co/Constitution,%20GN%2054%20of%201968.pdf",MUS,staged,source,6
-https://au.int/en/documents/20240809/continental-artificial-intelligence-strategy,BDI,undated,,
-https://beninrevele.bj/article/81/l-etat-beninois-pres-digitalisation-complete-services/,BEN,undated,,
-https://beninrevele.bj/projet/168/appui-recherche-scientifique-innovation-benin-pari-/,BEN,staged,source,1
+"https://attorneygeneral.govmu.org/Documents/Laws%20of%20Mauritius/A-Z%20Acts/C/Co/Constitution,%20GN%2054%20of%201968.pdf",MUS,staged,metadata,7
+https://au.int/en/documents/20240809/continental-artificial-intelligence-strategy,BDI,staged,metadata,2
+https://beninrevele.bj/article/81/l-etat-beninois-pres-digitalisation-complete-services/,BEN,staged,metadata,1
+https://beninrevele.bj/projet/168/appui-recherche-scientifique-innovation-benin-pari-/,BEN,staged,metadata,1
 https://bibliotheque.tresor.ci/bndgtcp/opac_css/,CIV,unfetchable,SSLError; Wayback ConnectionError,
 https://bitc.co.bw/sites/default/files/ndp_11_mtr_draft_final_july_ndp_11_draft_mfed_31_july_2020.pdf,BWA,unfetchable,HTTP 404; no usable Wayback capture,
 https://blog-pfm.imf.org/pfmblog/2013/06/kenyas-bold-course-in-pfm-reform.html,KEN,unfetchable,HTTP 403; Wayback ConnectionError,
@@ -175,254 +175,254 @@ https://bondoo.gov.bf/index.php/s/AayFEjPwjjzn4FM,BFA,unfetchable,HTTP 404; no u
 https://bondoo.gov.bf/index.php/s/W5wGC8d4ZwjCzbt,BFA,unfetchable,HTTP 404; Wayback ConnectionError,
 https://bondoo.gov.bf/index.php/s/XnQ65QDLEebQtPS,BFA,unfetchable,HTTP 404; no usable Wayback capture,
 https://bondoo.gov.bf/index.php/s/xFK2zZRzCi4wBpN,BFA,thin,138 chars,
-https://books.google.com/books?id=0A4ZEAAAQBAJ&pg=PA15&lpg=PA15&dq=treasury+single+account+%2B+mozambique&source=bl&ots=C4puWi62pQ&sig=ACfU3U0G4zGq41JCbCK6NUmuo3GAO47l9w&hl=es-419&sa=X&ved=2ahUKEwjS7Jm3iZL4AhWKZTABHfqhDH0Q6AF6BAg4EAM,MOZ,staged,source,6
-https://budgetbenin.bj/sigfip/,BEN,staged,source,1
-https://c4ir.rw/projects,RWA,staged,source,7
+https://books.google.com/books?id=0A4ZEAAAQBAJ&pg=PA15&lpg=PA15&dq=treasury+single+account+%2B+mozambique&source=bl&ots=C4puWi62pQ&sig=ACfU3U0G4zGq41JCbCK6NUmuo3GAO47l9w&hl=es-419&sa=X&ved=2ahUKEwjS7Jm3iZL4AhWKZTABHfqhDH0Q6AF6BAg4EAM,MOZ,staged,metadata,7
+https://budgetbenin.bj/sigfip/,BEN,staged,metadata,1
+https://c4ir.rw/projects,RWA,staged,metadata,8
 https://cashmanagement.bnpparibas.com/tunisia,TUN,unfetchable,HTTP 404; no usable Wayback capture,
-https://cert-mu.govmu.org/cert-mu/wp-content/uploads/2024/04/Guideline-on-cybersecurity-ethics-and-AI.pdf,MUS,staged,path,6
-https://certification.gouv.ml/loi-n2016-012-du-06-mai-2016-relatives-aux-transactions-echanges-et-services-electroniques/,MLI,staged,source,5
-https://cfetogo.tg/etude/RAPPORT_CFE.pdf,TGO,staged,source,9
+https://cert-mu.govmu.org/cert-mu/wp-content/uploads/2024/04/Guideline-on-cybersecurity-ethics-and-AI.pdf,MUS,staged,path,7
+https://certification.gouv.ml/loi-n2016-012-du-06-mai-2016-relatives-aux-transactions-echanges-et-services-electroniques/,MLI,unfetchable,ConnectionError; Wayback ConnectionError,
+https://cfetogo.tg/etude/RAPPORT_CFE.pdf,TGO,staged,metadata,11
 https://chemonics.com/wp-content/uploads/2020/10/Digital-Liberia-Final-Report_Revised.pdf,LBR,unfetchable,HTTP 404; Wayback ConnectionError,
 https://cib.govmu.org/Documents/Maintenance%20Agreement/egiframework.pdf,MUS,held,held as raw/2002/2002-11-01 Mauritius e-Government Interoperability Framework v1.0.md,
-https://cib.govmu.org/Documents/Reports/CSF%20and%20Challenges%20in%20the%20Commonwealth.pdf,MUS,staged,source,6
-https://cib.govmu.org/Documents/Reports/Digital%20Government%20Dashboard.pdf,MUS,staged,source,6
+https://cib.govmu.org/Documents/Reports/CSF%20and%20Challenges%20in%20the%20Commonwealth.pdf,MUS,staged,metadata,6
+https://cib.govmu.org/Documents/Reports/Digital%20Government%20Dashboard.pdf,MUS,staged,metadata,6
 https://cib.govmu.org/Documents/Reports/EnterpriseArchitectureMauritius.pdf,MUS,held,held as raw/2025/2025-04-01-mus-enterprise-architecture.md,
-https://cib.govmu.org/Documents/Reports/List%20of%20Operational%20Systems.pdf,MUS,staged,source,6
-https://cib.govmu.org/Pages/DGTS.aspx,MUS,staged,source,5
-https://cib.govmu.org/SitePages/Index.aspx,MUS,undated,,
-https://cio-mag.com/togo-digital-2025-pour-une-transformation-digitale-perenne/,TGO,staged,source,9
-https://circulareconomy.govmu.org/circulareconomy/wp-content/uploads/2024/02/Action-and-implementation-plan-Final.pdf,MUS,staged,path,6
-https://cisd.govmu.org/Documents/Newsletter/Enewsletter%20issue%20No.6.pdf,MUS,staged,source,6
-https://citizens.wan.gov.sl/services,SLE,undated,,
-https://civilservice.govmu.org/Documents/reports%20and%20publication/FINAL%20Annual%20Report%202023-2024.pdf,MUS,staged,source,6
-https://civilservice.govmu.org/Pages/Services/Human-Resource-Management-Division.aspx,MUS,staged,source,5
-https://cms.icta.go.ke//sites/default/files/2024-07/GEA%20-%20GIF%202nd%20Edition.pdf,KEN,unfetchable,ConnectionError; no usable Wayback capture,
+https://cib.govmu.org/Documents/Reports/List%20of%20Operational%20Systems.pdf,MUS,staged,metadata,6
+https://cib.govmu.org/Pages/DGTS.aspx,MUS,staged,metadata,6
+https://cib.govmu.org/SitePages/Index.aspx,MUS,staged,metadata,6
+https://cio-mag.com/togo-digital-2025-pour-une-transformation-digitale-perenne/,TGO,staged,metadata,11
+https://circulareconomy.govmu.org/circulareconomy/wp-content/uploads/2024/02/Action-and-implementation-plan-Final.pdf,MUS,staged,path,7
+https://cisd.govmu.org/Documents/Newsletter/Enewsletter%20issue%20No.6.pdf,MUS,staged,metadata,6
+https://citizens.wan.gov.sl/services,SLE,staged,metadata,9
+https://civilservice.govmu.org/Documents/reports%20and%20publication/FINAL%20Annual%20Report%202023-2024.pdf,MUS,undated,,
+https://civilservice.govmu.org/Pages/Services/Human-Resource-Management-Division.aspx,MUS,staged,metadata,6
+https://cms.icta.go.ke//sites/default/files/2024-07/GEA%20-%20GIF%202nd%20Edition.pdf,KEN,unfetchable,ConnectionError; Wayback ConnectionError,
 https://cms.icta.go.ke/sites/default/files/2022-04/Kenya%20Digital%20Masterplan%202022-2032%20Online%20Version.pdf,KEN,held,held as raw/2022/2022-01-01-ken-national-digital-master-plan-2022-2032.md,
-https://communication.gouv.ml/mali-numerique-2020/,MLI,staged,source,5
+https://communication.gouv.ml/mali-numerique-2020/,MLI,staged,metadata,5
 https://communication.gouv.tg/wp-content/uploads/2020/11/loi-n%C2%B0-2016-006.pdf,TGO,thin,308 chars,
-https://conac.cm/fr/telechargements/rapports-annuels/,CMR,undated,,
+https://conac.cm/fr/telechargements/rapports-annuels/,CMR,staged,metadata,13
 https://costech.or.tz/Files/Documents/1684598716.pdf,TZA,thin,46 chars,
-https://coursupreme.org.gn/wp-content/uploads/2024/06/LOI-L-2016-037-AN-Relative-a-la-Cybersecurite-et-la-Protection-des-donnees-a-caractere-personnel.pdf,GIN,unfetchable,empty extraction; Wayback ConnectionError,
-https://cpsi.co.za/Home/Journal,ZAF,staged,source,8
-https://cpsi.co.za/Home/Knowledge,ZAF,staged,source,8
-https://cutt.ly/krgzIbDg,BFA,staged,source,1
-https://cyrilla.org/entity/plvgmylt69g?page=2&file=1721649762781ctjegvl2qnb.pdf,TCD,staged,source,2
-https://dailynews.co.tz/why-tanzanias-new-investment-dashboard-is-key-to-transforming-public-entities/,TZA,staged,source,9
-https://dailynews.gov.bw/news-detail/86364,BWA,undated,,
-https://dashboard.digital.gov.mg/services,MDG,unfetchable,ReadTimeout; Wayback ConnectionError,
+https://coursupreme.org.gn/wp-content/uploads/2024/06/LOI-L-2016-037-AN-Relative-a-la-Cybersecurite-et-la-Protection-des-donnees-a-caractere-personnel.pdf,GIN,unfetchable,empty extraction; no usable Wayback capture,
+https://cpsi.co.za/Home/Journal,ZAF,staged,metadata,10
+https://cpsi.co.za/Home/Knowledge,ZAF,listing,Knowledge Repository,
+https://cutt.ly/krgzIbDg,BFA,staged,metadata,2
+https://cyrilla.org/entity/plvgmylt69g?page=2&file=1721649762781ctjegvl2qnb.pdf,TCD,staged,metadata,2
+https://dailynews.co.tz/why-tanzanias-new-investment-dashboard-is-key-to-transforming-public-entities/,TZA,staged,metadata,10
+https://dailynews.gov.bw/news-detail/86364,BWA,staged,metadata,2
+https://dashboard.digital.gov.mg/services,MDG,unfetchable,ReadTimeout; no usable Wayback capture,
 https://data.gov.gh/search/type/dataset,GHA,unfetchable,ConnectionError; Wayback ConnectionError,
 https://data.gov.tn/fr/,TUN,held,held as raw/2026/2026-10-16-tun-datagovtn-portail-national-donnees-ouvertes.md,
-https://data.govmu.org/dataset/,MUS,undated,,
+https://data.govmu.org/dataset/,MUS,staged,metadata,6
 https://datacatalog.worldbank.org/search/dataset/0037889/govtech-dataset,,staged,the database record,1
 https://dataprotection.africa/equatorial-guinea/,GNQ,held,held as raw/2022/2022-05-23-data-protection-factsheet-equatorial-guinea.md,
-https://dataprotection.africa/wp-content/uploads/2022/09/Lesotho_DPA.pdf,LSO,staged,path,4
-"https://dataprotection.govmu.org/Documents/Interview%20of%20the%20Data%20Protection%20Commissioner,%20Mrs.%20Drudeisha%20Madhub.pdf",MUS,staged,source,6
-https://dataprotection.govmu.org/Pages/Data%20Subjects/Rights-of-Accesss.aspx,MUS,staged,source,6
+https://dataprotection.africa/wp-content/uploads/2022/09/Lesotho_DPA.pdf,LSO,staged,path,5
+"https://dataprotection.govmu.org/Documents/Interview%20of%20the%20Data%20Protection%20Commissioner,%20Mrs.%20Drudeisha%20Madhub.pdf",MUS,staged,metadata,7
+https://dataprotection.govmu.org/Pages/Data%20Subjects/Rights-of-Accesss.aspx,MUS,staged,metadata,7
 https://dataprotection.govmu.org/Pages/Decisions/Decisions-on-Complaints.aspx,MUS,held,held as raw/2025/2025-11-01-mus-decisions-on-complaints-by-year.md,
-https://dataprotection.govmu.org/Pages/Downloads/Annual-Reports.aspx,MUS,staged,source,5
-https://dataprotection.govmu.org/Pages/Downloads/Publications%20and%20Guidelines/Guidelines%20DPA%20Act%202004%20doc9.pdf,MUS,staged,source,6
-https://dataprotection.govmu.org/Pages/The%20Law/Data-Protection-Act-2017.aspx,MUS,staged,source,5
-https://dco.org/council/djibouti/,DJI,staged,source,2
-https://demo.nita.go.ug/systemssolutions-portfolio/electronic-government-procurement-egp,UGA,unfetchable,HTTP 503; no usable Wayback capture,
-https://dergipark.org.tr/en/download/article-file/3288652,TZA,undated,,
+https://dataprotection.govmu.org/Pages/Downloads/Annual-Reports.aspx,MUS,staged,metadata,6
+https://dataprotection.govmu.org/Pages/Downloads/Publications%20and%20Guidelines/Guidelines%20DPA%20Act%202004%20doc9.pdf,MUS,staged,metadata,7
+https://dataprotection.govmu.org/Pages/The%20Law/Data-Protection-Act-2017.aspx,MUS,staged,metadata,6
+https://dco.org/council/djibouti/,DJI,staged,metadata,3
+https://demo.nita.go.ug/systemssolutions-portfolio/electronic-government-procurement-egp,UGA,unfetchable,HTTP 503; Wayback ConnectionError,
+https://dergipark.org.tr/en/download/article-file/3288652,TZA,staged,metadata,10
 https://dgd.gov.gn/media/,GIN,thin,350 chars,
-https://dgtic.mdenp.gov.bf/rgi,BFA,unfetchable,ConnectTimeout; Wayback ConnectionError,
-https://dgtic.mdenp.gov.bf/snden/,BFA,unfetchable,ConnectTimeout; Wayback ConnectionError,
+https://dgtic.mdenp.gov.bf/rgi,BFA,staged,metadata,13
+https://dgtic.mdenp.gov.bf/snden/,BFA,staged,metadata,13
 https://dgtic.mdenp.gov.bf/snpll-os/,BFA,unfetchable,ConnectTimeout; Wayback ConnectionError,
 https://dial.global/work/strengthening-ethiopias-national-data-governance-ecosystem/,ETH,held,held as raw/2024/2024-02-12-strengthening-ethiopias-national-data-governance-ecosystem.md,
 https://digital.gov.mg/2019/12/20/notre-vision-numerique-des-services-publics/,MDG,unfetchable,HTTP 404; Wayback ConnectionError,
 https://digital.gov.mg/2022/01/07/manuel-des-standards-de-services/,MDG,unfetchable,HTTP 404; Wayback ConnectionError,
 https://digital.gov.mg/2022/05/05/cadre-dinteroperabilite/,MDG,held,held as raw/2022/2022-11-14-ugd-cadre-interoperabilite.md,
-https://digitalopportunity.itida.gov.eg/Arabic/Pages/default.aspx,EGY,staged,source,3
+https://digitalopportunity.itida.gov.eg/Arabic/Pages/default.aspx,EGY,staged,metadata,3
 https://digitalpolicyalert.org/digest/dpa-digital-digest-algeria,DZA,held,held as raw/2025/2025-04-16-dza-dpa-digital-digest-algeria-2025.md,
-https://digitalprinciples.org/enterprise-architecture-and-digital-principles/,SLE,unfetchable,HTTP 404; no usable Wayback capture,
+https://digitalprinciples.org/enterprise-architecture-and-digital-principles/,SLE,staged,metadata,9
 https://dimana.otr.tg/ETaxe/faces/authentification?_adf.ctrl-state=1avuudiuu9_3https://www.otr.tg/index.php/fr/,TGO,unfetchable,ConnectTimeout; no usable Wayback capture,
 https://directiongeneraleemploi.ci/documentations/statistiques,CIV,unfetchable,empty extraction; no usable Wayback capture,
 https://dl.acm.org/doi/10.1145/3712706,BWA,unfetchable,HTTP 403; Wayback ConnectionError,
 https://docs.google.com/document/d/17UkUG3kpO5wbIDWhER52ZNb8lnNObtMv/edit?usp=sharing&ouid=103007655865892233329&rtpof=true&sd=true,SWZ,thin,316 chars,
-https://documents.worldbank.org/curated/en/979011555375605802/pdf/Project-Information-Document-Integrated-Safeguards-Data-Sheet-Liberia-Integrated-Public-Financial-Management-Reform-Project-Phase-II-P165000.pdf,LBR,staged,source,4
+https://documents.worldbank.org/curated/en/979011555375605802/pdf/Project-Information-Document-Integrated-Safeguards-Data-Sheet-Liberia-Integrated-Public-Financial-Management-Reform-Project-Phase-II-P165000.pdf,LBR,staged,metadata,5
 https://documents.worldbank.org/en/publication/documents-reports/documentdetail/283361648600399938/central-african-republic-public-sector-digital-governance-project,CAF,thin,231 chars,
 https://documents.worldbank.org/en/publication/documents-reports/documentdetail/523711498096989898/central-african-republic-public-expenditure-and-investment-management-reform-project,CAF,thin,231 chars,
-https://documents1.worldbank.org/curated/en/099112323101025381/pdf/P176975023a29404f0850b02f95174298e8.pdf,MUS,staged,source,6
-https://documents1.worldbank.org/curated/en/308971641932185582/pdf/Morocco-Public-Sector-Performance-ENNAJAA-Program-for-Results.pdf,MAR,staged,source,6
-https://documents1.worldbank.org/curated/en/531191496723783398/pdf/ACS20919-REVISED-Mauritania-PER-FINAL-KH-3-0.pdf,MRT,staged,source,5
-https://douanes.gouv.bj/statistiques-de-la-douane/,BEN,undated,,
+https://documents1.worldbank.org/curated/en/099112323101025381/pdf/P176975023a29404f0850b02f95174298e8.pdf,MUS,staged,metadata,6
+https://documents1.worldbank.org/curated/en/308971641932185582/pdf/Morocco-Public-Sector-Performance-ENNAJAA-Program-for-Results.pdf,MAR,staged,metadata,7
+https://documents1.worldbank.org/curated/en/531191496723783398/pdf/ACS20919-REVISED-Mauritania-PER-FINAL-KH-3-0.pdf,MRT,staged,metadata,5
+https://douanes.gouv.bj/statistiques-de-la-douane/,BEN,staged,metadata,1
 https://douanes.gouv.cg/epayment/login/auth,COG,unfetchable,ConnectionError; no usable Wayback capture,
-https://drive.google.com/drive/folders/1anoSfWm0oYO81DU3xo8vimN5Cicw3oOb,SWZ,staged,source,3
-https://drive.google.com/file/d/1BBOCB6r6qERMt0lzpzGC-fl2yS0aaMTd/view,GHA,staged,source,4
-https://drive.google.com/file/d/1RAMquPzUfBt2Jz0EJn7oB2viNFr17vE8/view?usp=drive_link,SWZ,staged,source,3
-https://drive.google.com/file/d/1_EhF_cP62Ev517zFkHQaGJyW12Co8ZKQ/view?usp=drive_link,CIV,staged,source,2
-https://drive.google.com/file/d/1hoOkjWkWoZAVRqHoC8XX_Ted8xGal2EJ/view?usp=sharing,SWZ,staged,source,3
-https://drive.google.com/file/d/1yXzEIHopise30kXSMWH6qodyjVs1NCov/view?usp=sharing,SWZ,staged,source,3
+https://drive.google.com/drive/folders/1anoSfWm0oYO81DU3xo8vimN5Cicw3oOb,SWZ,staged,metadata,4
+https://drive.google.com/file/d/1BBOCB6r6qERMt0lzpzGC-fl2yS0aaMTd/view,GHA,undated,,
+https://drive.google.com/file/d/1RAMquPzUfBt2Jz0EJn7oB2viNFr17vE8/view?usp=drive_link,SWZ,staged,metadata,4
+https://drive.google.com/file/d/1_EhF_cP62Ev517zFkHQaGJyW12Co8ZKQ/view?usp=drive_link,CIV,staged,metadata,3
+https://drive.google.com/file/d/1hoOkjWkWoZAVRqHoC8XX_Ted8xGal2EJ/view?usp=sharing,SWZ,undated,,
+https://drive.google.com/file/d/1yXzEIHopise30kXSMWH6qodyjVs1NCov/view?usp=sharing,SWZ,staged,metadata,4
 https://drive.google.com/file/d/1ytcVVXlhE6shR3AOSWObPBcGtkm0srva/view?usp=sharing,SWZ,thin,125 chars,
 https://droitnumerique.cd/wp-content/uploads/2024/08/Code-du-numerique-I-RD-Congo.pdf,COD,staged,path,2
-https://e-services.impots.bj/login-facile,BEN,unfetchable,empty extraction; Wayback ConnectionError,
+https://e-services.impots.bj/login-facile,BEN,unfetchable,empty extraction; no usable Wayback capture,
 https://eapp1.gov.na/GovCommsUser/,NAM,unfetchable,ConnectTimeout; Wayback ConnectionError,
-https://eca.et/wp-content/uploads/2024/10/personal_data_protection_proclamation_No_1321_2024.pdf,ETH,unfetchable,HTTP 404; no usable Wayback capture,
+https://eca.et/wp-content/uploads/2024/10/personal_data_protection_proclamation_No_1321_2024.pdf,ETH,staged,path,4
 https://ega.ee/project/enterprise-architecture-zimbabwe/,ZWE,held,held as raw/2024/2024-01-01-enterprise-architecture-modelling-zimbabwe.md,
-https://egp.praz.org.zw/egp-QWdlbmN5R3JhcGhpY3MvcmVnaXN0ZXJlZF9hZ2VuY2llc19ncmlk,ZWE,unfetchable,ConnectionError; no usable Wayback capture,
+https://egp.praz.org.zw/egp-QWdlbmN5R3JhcGhpY3MvcmVnaXN0ZXJlZF9hZ2VuY2llc19ncmlk,ZWE,staged,metadata,13
 https://elmoudjahid.com/fr/economie/l-algerie-accelere-sa-transformation-numerique-la-gouvernance-des-donnees-au-coeur-des-reformes-231119,DZA,unfetchable,HTTP 403; no usable Wayback capture,
-https://emansion.gov.lr/index.php/opportunities/opportunities/vacancies,LBR,undated,,
-https://embaixadadotogo.com.br/IMG/pdf/pnd_feuille_de_route_togo_2025-1-feuille_de_route_du_gouvernement_2020-2025.pdf,TGO,unfetchable,ConnectionError; Wayback ConnectionError,
-https://empment-labour.govmu.org/Documents/NSDS-2022-2026.pdf,MUS,staged,source,6
-https://empowerconsult.co.ug/wp-content/uploads/2023/06/UICT_ICT-Skills-and-Training-Needs-Asssessment-Report.pdf,UGA,staged,path,10
-https://emprego.inep.gov.mz/public/home,MOZ,undated,,
-https://en.amwalalghad.com/egypts-pm-reviews-progress-on-digital-linkage-of-social-insurance-traffic-systems/,EGY,staged,source,3
+https://emansion.gov.lr/index.php/opportunities/opportunities/vacancies,LBR,staged,metadata,5
+https://embaixadadotogo.com.br/IMG/pdf/pnd_feuille_de_route_togo_2025-1-feuille_de_route_du_gouvernement_2020-2025.pdf,TGO,unfetchable,ConnectionError; no usable Wayback capture,
+https://empment-labour.govmu.org/Documents/NSDS-2022-2026.pdf,MUS,staged,metadata,7
+https://empowerconsult.co.ug/wp-content/uploads/2023/06/UICT_ICT-Skills-and-Training-Needs-Asssessment-Report.pdf,UGA,staged,path,12
+https://emprego.inep.gov.mz/public/home,MOZ,unfetchable,SSLError; Wayback ConnectionError,
+https://en.amwalalghad.com/egypts-pm-reviews-progress-on-digital-linkage-of-social-insurance-traffic-systems/,EGY,staged,metadata,3
 https://en.teles-relay.com/2019/12/12/gabon-laninf-passe-au-peigne-fin-les-projets-prioritaires-du-plan-gabon-digital-2025-digital-business-africa/,GAB,unfetchable,HTTP 402; no usable Wayback capture,
 https://enapor.cv/page/estatisticas,CPV,unfetchable,SSLError; Wayback ConnectionError,
-https://english.ahram.org.eg/News/410605.aspx,EGY,staged,source,3
+https://english.ahram.org.eg/News/410605.aspx,EGY,unfetchable,HTTP 403; Wayback ConnectionError,
 https://english.ahram.org.eg/News/552414.aspx,EGY,unfetchable,HTTP 403; Wayback ConnectionError,
-https://enterprise.news/egypt/en/news/story/e2aba6f3-3259-4090-a12e-cd73c7e591ef/egypt%E2%80%99s-tax-authority-is-rolling-2.5k-companies-into-its-e-filing-system-in-1q2021,EGY,undated,,
+https://enterprise.news/egypt/en/news/story/e2aba6f3-3259-4090-a12e-cd73c7e591ef/egypt%E2%80%99s-tax-authority-is-rolling-2.5k-companies-into-its-e-filing-system-in-1q2021,EGY,staged,metadata,3
 https://eparticipa.gov.cv/sobre/,CPV,held,held as raw/2026/2026-01-01-cabo-verde-eparticipa-plataforma-participacao-cidada.md,
-https://eproc.publicprocurement.govmu.org/files/masterfiles/Project%20Overview.pdf,MUS,staged,source,5
-https://eservice.egov.sc/SRCEService/login.aspx,SYC,undated,,
-https://eservice.egov.sc/eGateway/homepage.aspx,SYC,undated,,
-https://eservice.egov.sc/eGateway/homepage.aspx?ReturnUrl=%2feGateway,SYC,undated,,
-https://eservice.egov.sc/egateway/homepage.aspx,SYC,undated,,
-https://estrategiadigital.gov.cv/index.php/pt/,CPV,unfetchable,SSLError; no usable Wayback capture,
+https://eproc.publicprocurement.govmu.org/files/masterfiles/Project%20Overview.pdf,MUS,unfetchable,SSLError; Wayback ConnectionError,
+https://eservice.egov.sc/SRCEService/login.aspx,SYC,staged,metadata,9
+https://eservice.egov.sc/eGateway/homepage.aspx,SYC,staged,metadata,9
+https://eservice.egov.sc/eGateway/homepage.aspx?ReturnUrl=%2feGateway,SYC,staged,metadata,9
+https://eservice.egov.sc/egateway/homepage.aspx,SYC,staged,metadata,9
+https://estrategiadigital.gov.cv/index.php/pt/,CPV,staged,metadata,13
 https://eswatini.un.org/en/284410-un-eswatini-joins-ministry-ict-explore-artificial-intelligence-sustainable-development,SWZ,held,held as raw/2024/2024-11-25-un-eswatini-ai-indaba.md,
-https://etax.gov.gn/_espaces/ETAX/domain/engine/application/guides/guide-utilisateur-adhesion-et-connexion.pdf,GIN,staged,source,4
+https://etax.gov.gn/_espaces/ETAX/domain/engine/application/guides/guide-utilisateur-adhesion-et-connexion.pdf,GIN,staged,metadata,4
 https://etax.mor.gov.et/remote/login?lang=en,ETH,unfetchable,ConnectTimeout; Wayback ConnectionError,
 https://etax.revenue.gov.et/remote/login?lang=en,ETH,unfetchable,ConnectionError; no usable Wayback capture,
 https://finalertemanage.com/portail,COD,unfetchable,ConnectionError; Wayback ConnectionError,
-https://financas.gov.st/index.php/direccoes/direccao-de-tesouro,STP,staged,source,7
-https://finances.bj/tresor-public-une-formation-pour-lunification-des-comptes-lancee/,BEN,staged,source,1
+https://financas.gov.st/index.php/direccoes/direccao-de-tesouro,STP,unfetchable,HTTP 404; Wayback ConnectionError,
+https://finances.bj/tresor-public-une-formation-pour-lunification-des-comptes-lancee/,BEN,staged,metadata,1
 https://finances.gouv.cd/services,COD,thin,190 chars,
-https://finances.gouv.tg/togo-seul-pays-de-luemoa-a-respecter-tous-les-criteres-de-convergence/?,TGO,staged,source,9
+https://finances.gouv.tg/togo-seul-pays-de-luemoa-a-respecter-tous-les-criteres-de-convergence/?,TGO,staged,metadata,11
 https://finances.gov.bi/index.php/2023/12/15/vision-burundi-pays-emergent-en-2040-et-pays-developpe-en-2060/,BDI,unfetchable,ConnectionError; Wayback ConnectionError,
-https://fintech-egypt.com/FinTechEgypt2023/Landscape-Report-2023-En-digital.pdf,EGY,undated,,
-https://fintechgate.net/2023/07/01/%D9%85%D8%A7%D8%B0%D8%A7-%D8%AD%D9%82%D9%82-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%88%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84/,EGY,staged,path,3
-https://fmcide.gov.ng/wp-content/uploads/2023/11/blueprint.pdf,NGA,staged,path,7
-https://fwblaw.co.za/wp-content/uploads/2024/10/South-Africa-National-AI-Policy-Framework-1.pdf,ZAF,staged,path,8
-https://gateway.tra.go.tz/Efiling/login.aspx,TZA,unfetchable,HTTP 503; Wayback ConnectionError,
-https://gfmis-eg.azurewebsites.net/TSA,EGY,staged,source,3
-https://gfmis.mof.gov.eg/Epayment,EGY,staged,source,12
-https://gggi.org/the-government-of-cote-divoire-gggi-and-koica-launch-8-25m-genie-initiative-to-train-over-45000-youth-in-digital-skills-and-green-entrepreneurship-through-35-centers-across-the-country/,CIV,undated,,
-https://gouvernement.gov.gn/%f0%9d%90%85%f0%9d%90%94%f0%9d%90%86%f0%9d%90%80%f0%9d%90%92-objectif-%f0%9d%9f%8f-%f0%9d%90%9a%f0%9d%90%a0%f0%9d%90%9e%f0%9d%90%a7%f0%9d%90%ad-%f0%9d%9f%8f-%f0%9d%90%a6/,GIN,staged,source,4
+https://fintech-egypt.com/FinTechEgypt2023/Landscape-Report-2023-En-digital.pdf,EGY,staged,metadata,3
+https://fintechgate.net/2023/07/01/%D9%85%D8%A7%D8%B0%D8%A7-%D8%AD%D9%82%D9%82-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%88%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84/,EGY,staged,path,4
+https://fmcide.gov.ng/wp-content/uploads/2023/11/blueprint.pdf,NGA,staged,path,8
+https://fwblaw.co.za/wp-content/uploads/2024/10/South-Africa-National-AI-Policy-Framework-1.pdf,ZAF,staged,path,10
+https://gateway.tra.go.tz/Efiling/login.aspx,TZA,thin,227 chars,
+https://gfmis-eg.azurewebsites.net/TSA,EGY,listing,اتصل بنا,
+https://gfmis.mof.gov.eg/Epayment,EGY,listing,اتصل بنا,
+https://gggi.org/the-government-of-cote-divoire-gggi-and-koica-launch-8-25m-genie-initiative-to-train-over-45000-youth-in-digital-skills-and-green-entrepreneurship-through-35-centers-across-the-country/,CIV,staged,metadata,3
+https://gouvernement.gov.gn/%f0%9d%90%85%f0%9d%90%94%f0%9d%90%86%f0%9d%90%80%f0%9d%90%92-objectif-%f0%9d%9f%8f-%f0%9d%90%9a%f0%9d%90%a0%f0%9d%90%9e%f0%9d%90%a7%f0%9d%90%ad-%f0%9d%9f%8f-%f0%9d%90%a6/,GIN,staged,metadata,5
 https://gov.ao/s/pKJDcXNp4sLccfW,AGO,thin,328 chars,
-https://governo.gov.ao/ao/,AGO,unfetchable,HTTP 404; Wayback ConnectionError,
-https://governo.gov.ao/noticias/1128/governo/de-2022-a-2023/inss-regista-crescimento-de-89-por-cento-de-contribuintes?utm_source=chatgpt.com,AGO,staged,source,1
-https://governo.gov.ao/noticias/1347/tecnologia/projecto-de-aceleracao-digital/iniciativa-perspectiva-uma-angola-totalmente-digitalizada,AGO,staged,source,1
-https://governo.gov.ao/noticias/2319/tecnologia/desenvolvimento-tecnologico/angola-aposta-na-inteligencia-artificial-para-modernizar-servicos-publicos?utm_source=chatgpt.com,AGO,staged,source,1
-https://govinfohub.go.ug/index.php/2024/10/08/digital-payments-transforming-local-revenue-collection/?utm_source=chatgpt.com,UGA,staged,path,10
-https://govmu.org/EN/Pages/epayment.aspx,MUS,undated,,
+https://governo.gov.ao/ao/,AGO,undated,,
+https://governo.gov.ao/noticias/1128/governo/de-2022-a-2023/inss-regista-crescimento-de-89-por-cento-de-contribuintes?utm_source=chatgpt.com,AGO,staged,metadata,1
+https://governo.gov.ao/noticias/1347/tecnologia/projecto-de-aceleracao-digital/iniciativa-perspectiva-uma-angola-totalmente-digitalizada,AGO,staged,metadata,1
+https://governo.gov.ao/noticias/2319/tecnologia/desenvolvimento-tecnologico/angola-aposta-na-inteligencia-artificial-para-modernizar-servicos-publicos?utm_source=chatgpt.com,AGO,staged,metadata,1
+https://govinfohub.go.ug/index.php/2024/10/08/digital-payments-transforming-local-revenue-collection/?utm_source=chatgpt.com,UGA,staged,path,12
+https://govmu.org/EN/Pages/epayment.aspx,MUS,staged,metadata,6
 https://gra.gov.gh/wp-content/uploads/2020/10/ICUMS-Manual-1.pdf-1.pdf-1.pdf,GHA,staged,path,4
 https://gra.gov.gh/wp-content/uploads/2023/08/GeoPoll-Report_MC-Saatchi_Ghana-Taxation-Survey.pdf,GHA,staged,path,4
 https://gra.gov.gh/wp-content/uploads/2024/02/Ghana-Customs-Time-Release-2023.pdf,GHA,unfetchable,empty extraction; Wayback ConnectionError,
 https://guceg.gov.gn/fr/,GIN,thin,174 chars,
-https://hcn.dz/SNTN-En.pdf,DZA,undated,,
+https://hcn.dz/SNTN-En.pdf,DZA,staged,metadata,1
 https://heyzine.com/flip-book/4f75e538cd.html,MUS,thin,272 chars,
-https://housingfinanceafrica.org/wp-content/uploads/2025/01/Seychelles-Public-Finance-Management-Act.pdf,SYC,staged,path,8
+https://housingfinanceafrica.org/wp-content/uploads/2025/01/Seychelles-Public-Finance-Management-Act.pdf,SYC,staged,path,9
 https://huduma.serikali.go.tz/home,TZA,unfetchable,empty extraction; Wayback ConnectionError,
-https://ict.go.ke/policy-documents,KEN,staged,source,12
+https://ict.go.ke/policy-documents,KEN,unfetchable,SSLError; Wayback ConnectionError,
 https://ict.go.ke/sites/default/files/2024-12/Kenya%20Cloud%20Policy%20-%202024.pdf,KEN,held,held as raw/2024/2024-01-01-ken-kenya-cloud-policy-2024.md,
 https://ict.go.ke/sites/default/files/2025-01/Kenya%20National%20AI%20Strategy%20%28Draft%29%20for%20Public%20Validation%20%20%5B14-01-2025%5D.pdf,KEN,held,held as raw/2025/2025-01-01-kenya-national-ai-strategy-2025-2030-draft-for-public-validation.md,
 https://ict.go.ke/sites/default/files/2025-06/National-AI-Strategy%20Implementation%2019th%20May%2025.pdf,KEN,unfetchable,SSLError; no usable Wayback capture,
-https://ict.go.ug/initiatives/digital-uganda-vision/,UGA,staged,source,10
-https://ict.go.ug/initiatives/ict-innovation,UGA,staged,source,10
+https://ict.go.ug/initiatives/digital-uganda-vision/,UGA,unfetchable,HTTP 404; Wayback ConnectionError,
+https://ict.go.ug/initiatives/ict-innovation,UGA,staged,metadata,12
 https://ict.go.ug/media/news/paving-the-way-for-a-data-driven-future-through-a-national-data-strategy,UGA,held,held as raw/2024/2024-06-19-uga-moict-national-data-strategy-consultations.md,
 https://ict.go.ug/site/documents/Data-Protection-and-Privacy-Act-2019.pdf,UGA,unfetchable,empty extraction; no usable Wayback capture,
 https://ict.go.ug/site/documents/Digital%20Transformation%20Roadmap.pdf,UGA,held,held as raw/2023/2023-01-01-uga-digital-transformation-roadmap-2023-2024-2027-2028.md,
-https://ict.go.ug/site/documents/Executive-Summary-Ugandas-National-4IR-Strategy.pdf,UGA,staged,source,10
-https://ict.go.ug/site/documents/MoICT_eMag_Issue001_2024.pdf,UGA,staged,source,10
-https://ict.go.ug/wp-content/uploads/2019/03/Data-Protection-and-Privacy-Act-2019.pdf,UGA,unfetchable,HTTP 404; Wayback ConnectionError,
+https://ict.go.ug/site/documents/Executive-Summary-Ugandas-National-4IR-Strategy.pdf,UGA,staged,metadata,12
+https://ict.go.ug/site/documents/MoICT_eMag_Issue001_2024.pdf,UGA,staged,metadata,12
+https://ict.go.ug/wp-content/uploads/2019/03/Data-Protection-and-Privacy-Act-2019.pdf,UGA,unfetchable,HTTP 404; no usable Wayback capture,
 https://ict.go.ug/wp-content/uploads/2020/10/Executive-Summary-Ugandas-National-4IR-Strategy.pdf,UGA,unfetchable,HTTP 404; Wayback ConnectionError,
 https://ict.gov.mw/index.php/blog/downloads/policies-and-laws?download=25:national-digitalization-policy-final-11-01-2024,MWI,unfetchable,HTTP 404; Wayback ConnectionError,
-https://ict.gov.mw/index.php/projects/digital-malawi,MWI,staged,source,5
+https://ict.gov.mw/index.php/projects/digital-malawi,MWI,staged,metadata,5
 https://icta.go.ke/ict-standards,KEN,unfetchable,SSLError; Wayback ConnectionError,
 https://icta.go.ke/ict-standards/,KEN,unfetchable,SSLError; Wayback ConnectionError,
-https://icta.go.ke/page?q=104&type=projects,KEN,undated,,
+https://icta.go.ke/page?q=104&type=projects,KEN,unfetchable,SSLError; Wayback ConnectionError,
 https://icta.go.ke/page?q=111&type=ict_standards,KEN,unfetchable,SSLError; Wayback ConnectionError,
-https://ictc.go.tz/our-services/tz-digital-skills,TZA,staged,source,9
+https://ictc.go.tz/our-services/tz-digital-skills,TZA,staged,metadata,11
 https://ictc.go.tz/publications/category/1?page=2,TZA,thin,212 chars,
 https://ictc.go.tz/publications/category/7,TZA,thin,212 chars,
-https://igrp.cv/en,CPV,staged,source,2
+https://igrp.cv/en,CPV,staged,metadata,2
 https://igrp.cv/index.php/desenvolva/documentos,CPV,unfetchable,HTTP 404; Wayback ConnectionError,
-https://ih.govmu.org/assets/docs/InfoHighway_Overview_February_2019.pdf,MUS,staged,source,5
+https://ih.govmu.org/assets/docs/InfoHighway_Overview_February_2019.pdf,MUS,staged,metadata,6
 https://ima.gov.ao/fotos/frontend_4/editor2/PEIMA27_final.pdf,AGO,error-page,"404 | Conteúdo temporariamente indisponível. Por favor, tente novamente dentro d",
 https://ima.gov.ao/fotos/frontend_4/editor2/agenda_governoao27.pdf,AGO,error-page,"404 | Conteúdo temporariamente indisponível. Por favor, tente novamente dentro d",
-https://impostos.financas.gov.st/index.php/transparencia/estatisticas,STP,undated,,
-https://inai.tn/fr/,TUN,staged,source,10
-https://inic.gov.st/viewdoc.php?id=14,STP,unfetchable,HTTP 500; Wayback ConnectionError,
-https://inic.gov.st/viewdoc.php?id=18,STP,staged,source,7
-https://inic.gov.st/viewdoc.php?id=8,STP,unfetchable,HTTP 500; Wayback ConnectionError,
-https://inps.cv/estatiticas/,CPV,staged,source,2
-https://inps.cv/termos-legais/,CPV,staged,source,1
-https://inseed.tg/programme-et-rapport-dactivite/,TGO,unfetchable,ConnectionError; no usable Wayback capture,
+https://impostos.financas.gov.st/index.php/transparencia/estatisticas,STP,staged,metadata,9
+https://inai.tn/fr/,TUN,staged,metadata,11
+https://inic.gov.st/viewdoc.php?id=14,STP,staged,metadata,13
+https://inic.gov.st/viewdoc.php?id=18,STP,staged,metadata,13
+https://inic.gov.st/viewdoc.php?id=8,STP,staged,metadata,9
+https://inps.cv/estatiticas/,CPV,staged,metadata,2
+https://inps.cv/termos-legais/,CPV,listing,Termos e Condições de Uso,
+https://inseed.tg/programme-et-rapport-dactivite/,TGO,unfetchable,ConnectionError; Wayback ConnectionError,
 https://interop.tunisia.gov.tn/accueil,TUN,unfetchable,empty extraction; no usable Wayback capture,
 https://intic.gov.mz/livros/,MOZ,thin,232 chars,
 https://intic.gov.mz/plano-estrategico-para-a-sociedade-da-informacao2019-2028/,MOZ,thin,111 chars,
 https://intic.gov.mz/wp-content/uploads/2025/04/Draft-Mozambique-Data-Diagnostic-April-2025-for-Government-2.pdf,MOZ,held,"held as raw/2025/2025-04-01 Data Governance in Mozambique - Rapid Diagnostic (World Bank, draft).md",
-https://investburundi.bi/technologie/,BDI,staged,source,12
-https://investmentpolicy.unctad.org/investment-policy-monitor/measures/4861/mauritania-adopts-dedicated-framework-to-attract-investment-in-green-hydrogen,MRT,undated,,
-https://ipdcp.tg/actualites/,TGO,staged,source,9
-https://ipdcp.tg/document/cadre-juridique-ipdcp/,TGO,staged,source,9
-https://issuu.com/nssfuganda/docs/nssf-ir-2024-final?fr=sOThkYTYzODI0MTQ,UGA,unfetchable,empty extraction; Wayback ConnectionError,
+https://investburundi.bi/technologie/,BDI,staged,metadata,2
+https://investmentpolicy.unctad.org/investment-policy-monitor/measures/4861/mauritania-adopts-dedicated-framework-to-attract-investment-in-green-hydrogen,MRT,unfetchable,HTTP 403; Wayback ConnectionError,
+https://ipdcp.tg/actualites/,TGO,staged,metadata,11
+https://ipdcp.tg/document/cadre-juridique-ipdcp/,TGO,staged,metadata,11
+https://issuu.com/nssfuganda/docs/nssf-ir-2024-final?fr=sOThkYTYzODI0MTQ,UGA,unfetchable,empty extraction; no usable Wayback capture,
 https://itas.namra.org.na/e-Portal/,NAM,unfetchable,SSLError; no usable Wayback capture,
 https://itax.kra.go.ke/KRA-Portal/,KEN,unfetchable,ConnectionError; Wayback ConnectionError,
-https://jibaya.tn/blog/la-tele-declaration-fiscale/,TUN,unfetchable,ConnectTimeout; Wayback ConnectionError,
-https://journals.eanso.org/index.php/eajbe/article/view/3095,TZA,staged,source,9
-https://journals.ijramt.com/index.php/ijramt/article/download/3018/3050/4143,SLE,staged,source,8
+https://jibaya.tn/blog/la-tele-declaration-fiscale/,TUN,staged,metadata,13
+https://journals.eanso.org/index.php/eajbe/article/view/3095,TZA,staged,metadata,10
+https://journals.ijramt.com/index.php/ijramt/article/download/3018/3050/4143,SLE,staged,metadata,9
 https://judiciary.go.ug/files/downloads/access%20to%20informatioinformation%20Act2005.pdf,UGA,held,held as raw/2005/2005-07-07-access-to-information-act.md,
 https://keycloak.stt.e-tax.impots.gov.mr/auth/realms/stt/protocol/openid-connect/auth?client_id=angular-client&redirect_uri=https%3A%2F%2Fstt.e-tax.impots.gov.mr%2F&state=e9586898-6c59-48c3-9411-daba91720250&response_mode=fragment&response_type=code&scope=openid&nonce=fb0abe56-f373-4b13-84f7-ce7c62ca7f98,MRT,thin,223 chars,
-https://khalfelhadth.com/41922,EGY,staged,source,3
-https://kippra.or.ke/leveraging-on-digitalization-to-promote-public-service-delivery-in-kenya/,KEN,staged,source,4
-https://knowledge-hub.circle-economy.com/footprintsafrica/article/17800?n=Government-of-Tunisia---National-Strategy-for-the-Green-Economy-2016-2036,TUN,unfetchable,SSLError; Wayback ConnectionError,
-https://lagazettedescomores.com/soci%C3%A9t%C3%A9/le-nouveau-code-de-l%E2%80%99information-est-enfin-promulgu%C3%A9-.html,COM,staged,source,2
+https://khalfelhadth.com/41922,EGY,staged,metadata,4
+https://kippra.or.ke/leveraging-on-digitalization-to-promote-public-service-delivery-in-kenya/,KEN,staged,metadata,5
+https://knowledge-hub.circle-economy.com/footprintsafrica/article/17800?n=Government-of-Tunisia---National-Strategy-for-the-Green-Economy-2016-2036,TUN,staged,metadata,11
+https://lagazettedescomores.com/soci%C3%A9t%C3%A9/le-nouveau-code-de-l%E2%80%99information-est-enfin-promulgu%C3%A9-.html,COM,staged,metadata,2
 https://lalgerieaujourdhui.dz/inauguration-dun-cloud-national-dedie-au-stockage-local-des-donnees-un-grand-pas-vers-la-souverainete-numerique/,DZA,thin,92 chars,
 https://lanation.bj/actualites/architecture-gouvernementale-pour-les-projets-numeriques-au-benin-des-cadres-formes-pour-une-gestion-coherente,BEN,held,held as raw/2025/2025-02-21-ben-architecture-gouvernementale-pour-les-projets-numeriques-au-benin-des.md,
 https://lapresse.tn/130679/strategie-industrielle-et-de-linnovation-a-lhorizon-2035-obeir-a-une-demarche-dagilite-et-de-pragmatisme-prospectif/,TUN,unfetchable,HTTP 404; Wayback ConnectionError,
 https://lawsociety.ly/en/legislation/law-no-6-of-2022-concerning-electronic-transactions/,LBY,held,held as raw/2022/2022-10-04-lby-law-6-2022-electronic-transactions.md,
-https://lawsociety.ly/legislation/%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%b1%d9%82%d9%85-1-%d9%84%d8%b3%d9%86%d8%a9-2008-%d9%85-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a-%d9%84%d9%84%d8%af%d9%88%d9%84%d8%a9/,LBY,staged,source,4
+https://lawsociety.ly/legislation/%d9%82%d8%a7%d9%86%d9%88%d9%86-%d8%b1%d9%82%d9%85-1-%d9%84%d8%b3%d9%86%d8%a9-2008-%d9%85-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a-%d9%84%d9%84%d8%af%d9%88%d9%84%d8%a9/,LBY,staged,metadata,5
 https://lechotunisien.com/lancement-du-projet-architecture-dentreprise-gouvernementale-aeg/,TUN,held,held as raw/2022/2022-10-18-tun-lancement-du-projet-architecture-d-entreprise-gouvernementale-aeg.md,
-https://legislation-securite.tn/fr/law/45656,TUN,staged,source,9
-https://legislation-securite.tn/latest-laws/loi-organique-n-2016-22-du-24-mars-2016-relative-au-droit-dacces-a-linformation/,TUN,staged,source,10
-https://lespepitestech.com/french-tech-hub/french-tech-abidjan,CIV,staged,source,2
-https://lex.ao/docs/assembleia-nacional/2002/lei-n-o-11-02-de-16-de-agosto/,AGO,staged,source,1
+https://legislation-securite.tn/fr/law/45656,TUN,staged,metadata,11
+https://legislation-securite.tn/latest-laws/loi-organique-n-2016-22-du-24-mars-2016-relative-au-droit-dacces-a-linformation/,TUN,staged,metadata,11
+https://lespepitestech.com/french-tech-hub/french-tech-abidjan,CIV,staged,metadata,3
+https://lex.ao/docs/assembleia-nacional/2002/lei-n-o-11-02-de-16-de-agosto/,AGO,staged,metadata,1
 https://lex.ao/docs/assembleia-nacional/2011/lei-n-o-22-11-de-17-de-junho/,AGO,held,held as raw/2011/2011-06-17-angola-lei-22-11-proteccao-de-dados-pessoais.md,
-https://lex.ao/docs/presidente-da-republica/2022/decreto-presidencial-n-o-195-22-de-22-de-julho/,AGO,undated,,
-https://library.health.go.ug/sites/default/files/resources/digital-health-enterprise-architecture-standards-and-knowledge-products_62.pdf,UGA,staged,source,10
+https://lex.ao/docs/presidente-da-republica/2022/decreto-presidencial-n-o-195-22-de-22-de-julho/,AGO,staged,metadata,1
+https://library.health.go.ug/sites/default/files/resources/digital-health-enterprise-architecture-standards-and-knowledge-products_62.pdf,UGA,staged,metadata,11
 https://link.springer.com/chapter/10.1007/978-3-642-03516-6_28,MOZ,thin,323 chars,
 https://login.di.gov.eg/realms/digitalegypt/protocol/openid-connect/auth?response_type=code&redirect_uri=https://digital.gov.eg/Callback&client_id=de,EGY,thin,218 chars,
 https://lsgov-my.sharepoint.com/:b:/g/personal/thapeli_tjabane_gov_ls/EdwBoGEE_ktAhxceIZJov_oB9F9hfrspiSNBEuD2zgMgtg?e=by1OfA,LSO,unfetchable,empty extraction; no usable Wayback capture,
-https://macra.mw/wpfd_file/data-protection-act-2024/,MWI,staged,source,5
-https://maketaxfair.net/assets/2024/01/FTM-STUDY-FOR-SIERRA-LEONE-FINAL-.pdf,SLE,staged,path,8
-https://makir.mak.ac.ug/handle/10570/14127?utm_source=chatgpt.com,UGA,staged,source,10
-https://manshurat.org/node/66932,EGY,staged,source,3
+https://macra.mw/wpfd_file/data-protection-act-2024/,MWI,unfetchable,HTTP 404; Wayback ConnectionError,
+https://maketaxfair.net/assets/2024/01/FTM-STUDY-FOR-SIERRA-LEONE-FINAL-.pdf,SLE,staged,path,9
+https://makir.mak.ac.ug/handle/10570/14127?utm_source=chatgpt.com,UGA,staged,metadata,12
+https://manshurat.org/node/66932,EGY,staged,metadata,3
 https://mapato1.kra.go.ke/itms/,KEN,unfetchable,ConnectionError; Wayback ConnectionError,
-https://maupass.govmu.org/LandingPage,MUS,undated,,
+https://maupass.govmu.org/LandingPage,MUS,listing,Welcome to MAUPASS,
 https://mauritiusjobs.govmu.org/documents/statistics/1747982728_04%20Apr%202024.pdf,MUS,unfetchable,HTTP 404; no usable Wayback capture,
-https://mbudget.gov.gn/lois-de-finances/,GIN,staged,source,4
+https://mbudget.gov.gn/lois-de-finances/,GIN,staged,metadata,4
 https://mcipme.gov.gn/atelier-dexamen-et-de-pre-validation-de-la-loi-portant-sur-les-start-up/,GIN,unfetchable,SSLError; no usable Wayback capture,
-https://mcit.gov.eg/Upcont/Documents/FOSS_Strategy_EN_2014.pdf,EGY,staged,source,3
+https://mcit.gov.eg/Upcont/Documents/FOSS_Strategy_EN_2014.pdf,EGY,staged,metadata,3
 https://mcit.gov.eg/Upcont/Documents/Publications_2282024000_Cloud_First_Policy_Egypt_2024.pdf,EGY,held,held as raw/2024/2024-01-01-egypt-cloud-first-policy-2024-mcit.md,
-https://mcit.gov.eg/Upcont/Documents/Publications_2732025000_MCITYearbook2024.pdf,EGY,undated,,
-https://mcit.gov.eg/Upcont/Documents/Reports%20and%20Documents_1652023000_Towards_Laying_Foundations_for_Building_Digital_Egypt_16052023.pdf,EGY,staged,source,3
-https://mcit.gov.eg/Upcont/MediaCenter/MCIT%20in%20Press430202400President_Sisi_Witnesses_Inauguration_of_Government_Data_Cloud_Computing_Center_29042024.pdf,EGY,staged,source,3
-https://mcit.gov.eg/en/Applied_innovation_Center,EGY,staged,source,3
-https://mcit.gov.eg/en/Media_Center/Latest_News/News/67085,EGY,staged,source,3
-https://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/66732,EGY,staged,source,3
-https://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/67460,EGY,undated,,
+https://mcit.gov.eg/Upcont/Documents/Publications_2732025000_MCITYearbook2024.pdf,EGY,staged,metadata,3
+https://mcit.gov.eg/Upcont/Documents/Reports%20and%20Documents_1652023000_Towards_Laying_Foundations_for_Building_Digital_Egypt_16052023.pdf,EGY,staged,metadata,3
+https://mcit.gov.eg/Upcont/MediaCenter/MCIT%20in%20Press430202400President_Sisi_Witnesses_Inauguration_of_Government_Data_Cloud_Computing_Center_29042024.pdf,EGY,staged,metadata,3
+https://mcit.gov.eg/en/Applied_innovation_Center,EGY,staged,metadata,3
+https://mcit.gov.eg/en/Media_Center/Latest_News/News/67085,EGY,staged,metadata,4
+https://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/66732,EGY,staged,metadata,3
+https://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/67460,EGY,staged,metadata,3
 https://med.gov.cv/web/med/eedcv,CPV,unfetchable,HTTP 404; no usable Wayback capture,
-https://media2.mofo.com/documents/170911-privacy-africa.pdf,GNQ,staged,source,3
-https://mf.gov.cv/dnp,CPV,staged,source,2
-https://mf.gov.cv/web/dnocp/finan%C3%A7as-p%C3%Bablicas,CPV,staged,source,1
-https://mf.gov.cv/web/dnre/legislacao/-/document_library/kawUcttkhMXD/view/63598?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_kawUcttkhMXD_redirect=https%3A%2F%2Fmf.gov.cv%2Fweb%2Fdnre%2Flegislacao%3Fp_p_id%3Dcom_liferay_document_library_web_portlet_DLPortlet_INSTANCE_kawUcttkhMXD%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview,CPV,staged,source,1
-https://microdata.nbs.go.tz/index.php/home,TZA,undated,,
+https://media2.mofo.com/documents/170911-privacy-africa.pdf,GNQ,staged,metadata,4
+https://mf.gov.cv/dnp,CPV,listing,Navigation Menu,
+https://mf.gov.cv/web/dnocp/finan%C3%A7as-p%C3%Bablicas,CPV,listing,Navigation Menu,
+https://mf.gov.cv/web/dnre/legislacao/-/document_library/kawUcttkhMXD/view/63598?_com_liferay_document_library_web_portlet_DLPortlet_INSTANCE_kawUcttkhMXD_redirect=https%3A%2F%2Fmf.gov.cv%2Fweb%2Fdnre%2Flegislacao%3Fp_p_id%3Dcom_liferay_document_library_web_portlet_DLPortlet_INSTANCE_kawUcttkhMXD%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview,CPV,listing,Navigation Menu,
+https://microdata.nbs.go.tz/index.php/home,TZA,staged,metadata,10
 https://mict.gov.na/archive,NAM,unfetchable,ConnectionError; Wayback ConnectionError,
 https://mict.gov.na/documents/869282/1009181/STRATEGIC+PLAN+2017-22+FINAL+as+of+14+July+2017.pdf/0991f811-6cd5-d494-c26d-284954bc012e?t=1656591592084,NAM,unfetchable,ConnectionError; Wayback ConnectionError,
-https://minepded.gov.cm/2025/06/12/national-climate-plan/,CMR,staged,path,2
+https://minepded.gov.cm/2025/06/12/national-climate-plan/,CMR,staged,path,13
 https://minfi.gov.cm/wp-content/uploads/2023/06/ESSENTIAL_THE_NEW_STATE_Accounting_ULTIMATE.pdf,CMR,staged,path,2
 https://minict.gov.rw/fileadmin/Documents/Mitec2018/Policies___Publication/Strategy/ICT_HUB_STRATEGY_FINAL.pdf,RWA,unfetchable,HTTP 404; no usable Wayback capture,
 https://minict.gov.rw/fileadmin/user_upload/Data_Protection_and_Privacy_Law__30-JAN-2020_Thursday__Final_Draft.pdf,RWA,unfetchable,HTTP 404; no usable Wayback capture,
 https://minict.gov.rw/fileadmin/user_upload/Smart_City_Rwanda_Masterplan.pdf,RWA,unfetchable,HTTP 404; no usable Wayback capture,
-https://minict.gov.rw/news-notice/press-releases/,RWA,unfetchable,HTTP 404; Wayback ConnectionError,
-https://minict.gov.rw/policies-publications/strategy/,RWA,staged,source,7
+https://minict.gov.rw/news-notice/press-releases/,RWA,staged,metadata,8
+https://minict.gov.rw/policies-publications/strategy/,RWA,staged,metadata,8
 https://minijust.gov.rw/fileadmin/Tenders/1._IECMS_Business_Architecture_Definition_Document_v1.0.pdf,RWA,unfetchable,HTTP 404; no usable Wayback capture,
-https://mint.gov.et/docs-category/data/?lang=en,ETH,unfetchable,ConnectionError; Wayback ConnectionError,
-https://mint.gov.et/docs/digital-ethiopia-2025-strategy-english-version/?lang=en,ETH,unfetchable,ConnectionError; Wayback ConnectionError,
-https://mint.gov.et/docs/draft-open-data-policy-and-guideline/?lang=en,ETH,unfetchable,ConnectionError; Wayback ConnectionError,
-https://mint.gov.et/resources/,ETH,unfetchable,ConnectionError; Wayback ConnectionError,
+https://mint.gov.et/docs-category/data/?lang=en,ETH,thin,106 chars,
+https://mint.gov.et/docs/digital-ethiopia-2025-strategy-english-version/?lang=en,ETH,thin,270 chars,
+https://mint.gov.et/docs/draft-open-data-policy-and-guideline/?lang=en,ETH,thin,324 chars,
+https://mint.gov.et/resources/,ETH,staged,metadata,4
 https://mint.gov.et/wp-content/uploads/2021/05/Digital-Ethiopia-2025-Strategy-english.-.pdf,ETH,unfetchable,ConnectionError; no usable Wayback capture,
 https://mint.gov.et/wp-content/uploads/2022/07/I-17-2-DRAFT-2-National-AI-Policy-Ethiopia-DRAFT-031220.pdf,ETH,unfetchable,ConnectionError; no usable Wayback capture,
 https://mint.gov.et/wp-content/uploads/2022/07/I-2.2-I3.2-NEAF-and-EaGIF-Implementation-RoadMap.pdf,ETH,unfetchable,ConnectionError; no usable Wayback capture,
@@ -430,68 +430,68 @@ https://mint.gov.et/wp-content/uploads/2022/07/I-2.8.1-NEAF-Governance-and-Compl
 https://mint.gov.et/wp-content/uploads/2022/07/I-3.9.1-EeGIF-Governance-and-Compliance.pdf,ETH,unfetchable,ConnectionError; no usable Wayback capture,
 https://mint.gov.et/wp-content/uploads/2022/07/I_19_7_1_online_service_delivery_performanceuser_experienceMinT.pdf,ETH,unfetchable,ConnectionError; no usable Wayback capture,
 https://mintic.gov.bi/wp-content/uploads/2019/02/PNDTIC-BURUNDI_2010-14Mars_20111-1-A-1.pdf,BDI,unfetchable,ConnectionError; no usable Wayback capture,
-https://minttics.gov.ao/ao/,AGO,undated,,
-https://mitci.govmu.org/Documents/Strategies/Mauritius%20AI%20Strategy.pdf,MUS,staged,source,5
-https://mitci.govmu.org/Documents/Strategies/Mauritius%20OSS%20Action%20Plan%202014%20final.pdf,MUS,staged,source,5
-https://mitci.govmu.org/Documents/Strategies/Mauritius%20OSS%20Strategy%202014%20final.pdf,MUS,staged,source,5
-"https://mitci.govmu.org/Lists/DocumentsLinks/Attachments/51/Annual%20Report%202019-2020%20-%20Ministry%20of%20Information%20Technology,%20Communication%20and%20Innovation.pdf",MUS,staged,source,5
-https://mitci.govmu.org/mitci/blueprint/,MUS,staged,source,6
-https://mitci.govmu.org/mitci/launch-of-the-first-edition-of-the-mitci-newsletter-july-2025/,MUS,staged,source,6
+https://minttics.gov.ao/ao/,AGO,unfetchable,ConnectionError; Wayback ConnectionError,
+https://mitci.govmu.org/Documents/Strategies/Mauritius%20AI%20Strategy.pdf,MUS,staged,metadata,6
+https://mitci.govmu.org/Documents/Strategies/Mauritius%20OSS%20Action%20Plan%202014%20final.pdf,MUS,staged,metadata,6
+https://mitci.govmu.org/Documents/Strategies/Mauritius%20OSS%20Strategy%202014%20final.pdf,MUS,staged,metadata,6
+"https://mitci.govmu.org/Lists/DocumentsLinks/Attachments/51/Annual%20Report%202019-2020%20-%20Ministry%20of%20Information%20Technology,%20Communication%20and%20Innovation.pdf",MUS,staged,metadata,6
+https://mitci.govmu.org/mitci/blueprint/,MUS,staged,metadata,7
+https://mitci.govmu.org/mitci/launch-of-the-first-edition-of-the-mitci-newsletter-july-2025/,MUS,staged,metadata,7
 https://mitci.govmu.org/mitci/thinkai/,MUS,thin,319 chars,
 https://mitci.govmu.org/mitci/wp-content/uploads/2025/05/Blueprint-for-Mauritius-2025.pdf,MUS,held,held as raw/2025/2025-05-27-blueprint-for-mauritius-digital-transformation-2025-2029.md,
 https://mitci.govmu.org/mitci/wp-content/uploads/2025/05/Open-Source-Policy-for-Mauritius.pdf,MUS,staged,path,6
-https://mlhud.go.ug/wp-content/uploads/2021/03/DIGITAL-TRANSFORMATION-PIAP.pdf,UGA,staged,path,10
+https://mlhud.go.ug/wp-content/uploads/2021/03/DIGITAL-TRANSFORMATION-PIAP.pdf,UGA,staged,path,12
 https://mmsp.gov.ma/sites/default/files/2024-09/PlaquetteInstitutionnel_18092024_Ang.pdf,MAR,held,held as raw/2024/2024-09-18-maroc-digital-2030-plaquette-institutionnelle-en.md,
-https://mocde.gov.gm/wp-content/uploads/2023/10/ACCESS-TO-INFORMATION-ACT2021-1.pdf,GMB,unfetchable,SSLError; Wayback ConnectionError,
-https://mocde.gov.gm/wp-content/uploads/2023/10/E-GOVERNMENT-STRATEGY.pdf,GMB,staged,path,12
-https://mocde.gov.gm/wp-content/uploads/2023/10/PRIVATE-SECTOR-DEVELOPMENT-AND-EMPOWERMENT-STRATEGY-2024-Through-ICTs.pdf,GMB,unfetchable,SSLError; Wayback ConnectionError,
+https://mocde.gov.gm/wp-content/uploads/2023/10/ACCESS-TO-INFORMATION-ACT2021-1.pdf,GMB,unfetchable,SSLError; no usable Wayback capture,
+https://mocde.gov.gm/wp-content/uploads/2023/10/E-GOVERNMENT-STRATEGY.pdf,GMB,unfetchable,SSLError; Wayback ConnectionError,
+https://mocde.gov.gm/wp-content/uploads/2023/10/PRIVATE-SECTOR-DEVELOPMENT-AND-EMPOWERMENT-STRATEGY-2024-Through-ICTs.pdf,GMB,staged,path,4
 https://mocde.gov.gm/wp-content/uploads/2024/04/ICT4D-Policy-Statement.pdf,GMB,unfetchable,SSLError; Wayback ConnectionError,
-https://moct.gov.so/en/,SOM,staged,source,8
-https://moct.gov.so/en/strategies/,SOM,staged,source,8
+https://moct.gov.so/en/,SOM,staged,metadata,9
+https://moct.gov.so/en/strategies/,SOM,staged,metadata,10
 https://moct.gov.so/project/siyaasadda-ict/,SOM,unfetchable,HTTP 404; Wayback ConnectionError,
-https://mocti.gov.sl/document/,SLE,staged,source,8
-https://mocti.gov.sl/recruitment-of-a-consultant-to-provide-training-on-enterprise-architecture-framework-to-ministries-departments-and-agencies/,SLE,staged,source,8
+https://mocti.gov.sl/document/,SLE,staged,metadata,9
+https://mocti.gov.sl/recruitment-of-a-consultant-to-provide-training-on-enterprise-architecture-framework-to-ministries-departments-and-agencies/,SLE,staged,metadata,9
 https://mocti.gov.sl/sierra-leone-digital-development-policy/,SLE,thin,237 chars,
 https://mocti.gov.sl/sierra-leone-digital-transformation-project/,SLE,thin,367 chars,
-https://mocti.gov.sl/sierra-leone-national-digital-development-strategy-tre-v22-2023/,SLE,staged,source,8
+https://mocti.gov.sl/sierra-leone-national-digital-development-strategy-tre-v22-2023/,SLE,staged,metadata,9
 https://mocti.gov.sl/wp-content/uploads/2024/10/S_L_Digital-Development-Policy.pdf,SLE,held,held as raw/2021/2021-01-01-sierra-leone-national-digital-development-policy-2021.md,
-https://moe.gov.et/resources/policies-and-strategies/1,ETH,unfetchable,ConnectionError; Wayback ConnectionError,
+https://moe.gov.et/resources/policies-and-strategies/1,ETH,staged,metadata,13
 https://mof.gov.eg/ar/archive/publicDept/general/%D8%A7%D9%84%D8%AF%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D8%A7%D9%85,EGY,unfetchable,HTTP 404; Wayback ConnectionError,
 https://mof.gov.eg/ar/posts/projects/5fedf52484dadb000752c799/%D9%86%D8%B8%D8%A7%D9%85%20%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9%20%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9%20GFMIS,EGY,unfetchable,HTTP 404; no usable Wayback capture,
 https://mof.gov.na/state-accounts,NAM,unfetchable,ConnectionError; Wayback ConnectionError,
 https://mof.gov.sl/2019/03/25/minister-of-finance-signed-usforty-million-budget-support-grants-with-world-bank/,SLE,unfetchable,HTTP 404; Wayback ConnectionError,
-https://mof.gov.sl/public-debt-management/,SLE,staged,source,8
-https://mof.gov.sl/wp-content/uploads/2020/03/TSA-Operations-Manual-final-1.pdf,SLE,staged,path,8
-https://mof.gov.sl/wp-content/uploads/2021/04/Annual-Accunts-2020-Unaudited.pdf,SLE,staged,path,8
-https://mof.gov.sl/wp-content/uploads/2022/05/Stakeholder-Engagement-Plan-for-SLDTP.pdf,SLE,staged,path,8
-https://mof.gov.sl/wp-content/uploads/2022/09/PFM-Semi-Annual-Progress-Report-2021.pdf,SLE,staged,path,8
+https://mof.gov.sl/public-debt-management/,SLE,staged,metadata,9
+https://mof.gov.sl/wp-content/uploads/2020/03/TSA-Operations-Manual-final-1.pdf,SLE,staged,path,9
+https://mof.gov.sl/wp-content/uploads/2021/04/Annual-Accunts-2020-Unaudited.pdf,SLE,staged,path,9
+https://mof.gov.sl/wp-content/uploads/2022/05/Stakeholder-Engagement-Plan-for-SLDTP.pdf,SLE,staged,path,9
+https://mof.gov.sl/wp-content/uploads/2022/09/PFM-Semi-Annual-Progress-Report-2021.pdf,SLE,staged,path,9
 https://mof.govmu.org/Documents/Financial,MUS,unfetchable,HTTP 404; no usable Wayback capture,
-https://mof.govmu.org/Pages/Debt-Data.aspx,MUS,staged,source,6
-https://mof.govmu.org/Pages/Financial-Management-Kit-(FM-Kit).aspx,MUS,staged,source,5
-https://moici.gov.gm/sites/default/files/2021-05/E-GOVERNMENT%20STRATEGY.pdf,GMB,unfetchable,ConnectionError; Wayback ConnectionError,
-https://moici.gov.gm/sites/default/files/2021-05/PRIVATE%20SECTOR%20DEVELOPMENT%20AND%20EMPOWERMENT%20STRATEGY%20-%202024%20%20Through%20ICTs.pdf,GMB,unfetchable,ConnectionError; Wayback ConnectionError,
+https://mof.govmu.org/Pages/Debt-Data.aspx,MUS,staged,metadata,6
+https://mof.govmu.org/Pages/Financial-Management-Kit-(FM-Kit).aspx,MUS,staged,metadata,6
+https://moici.gov.gm/sites/default/files/2021-05/E-GOVERNMENT%20STRATEGY.pdf,GMB,staged,path,4
+https://moici.gov.gm/sites/default/files/2021-05/PRIVATE%20SECTOR%20DEVELOPMENT%20AND%20EMPOWERMENT%20STRATEGY%20-%202024%20%20Through%20ICTs.pdf,GMB,unfetchable,ConnectionError; no usable Wayback capture,
 https://moin.gov.gm/wp-content/uploads/2023/10/Data-Protection-and-Privacy-Policy-and-Strategy-August-2019.pdf,GMB,unfetchable,SSLError; Wayback ConnectionError,
 https://moov-africa.tg/flooz/,TGO,thin,382 chars,
 https://mopt.gov.lr/documents/national-digitalstrategy2025-2029/,LBR,unfetchable,HTTP 404; Wayback ConnectionError,
-https://mosaiqueguinee.com/2025/04/enseignement-technique-latelier-delaboration-de-la-strategie-nationale-de-transformation-digitale-lance/,GIN,staged,path,4
+https://mosaiqueguinee.com/2025/04/enseignement-technique-latelier-delaboration-de-la-strategie-nationale-de-transformation-digitale-lance/,GIN,staged,path,5
 https://mptt.gov.so/en/wp-content/uploads/2019/11/National-ICT-Policy-Strategy-2019-2024.pdf,SOM,unfetchable,ConnectionError; Wayback ConnectionError,
-https://mtnima.gov.mr/fr/strategies-et-politiques/,MRT,staged,source,5
-https://mtnima.gov.mr/sites/default/files/Agenda%20Num%C3%A9rique%202022-25%20MTNIMA.pdf,MRT,staged,source,5
+https://mtnima.gov.mr/fr/strategies-et-politiques/,MRT,staged,metadata,5
+https://mtnima.gov.mr/sites/default/files/Agenda%20Num%C3%A9rique%202022-25%20MTNIMA.pdf,MRT,staged,metadata,5
 https://mtnima.gov.mr/sites/default/files/Mauritani%20AI%20Strategy%20Draft%20April-2024.pdf,MRT,held,held as raw/2024/2024-04-01-mauritania-national-artificial-intelligence-strategy-2024-2029-draft.md,
-https://mtnima.gov.mr/sites/default/files/imp1fr-2.pdf,MRT,staged,source,5
-https://mtnima.gov.mr/sites/default/files/piecesjointes/Strat%C3%A9gie%20Nationale%20des%20TIC%201-%20Programme%20initial_2.pdf,MRT,staged,source,5
+https://mtnima.gov.mr/sites/default/files/imp1fr-2.pdf,MRT,staged,metadata,5
+https://mtnima.gov.mr/sites/default/files/piecesjointes/Strat%C3%A9gie%20Nationale%20des%20TIC%201-%20Programme%20initial_2.pdf,MRT,staged,metadata,5
 https://nao.govmu.org/nao/wp-content/uploads/AnnualAuditReport/2023-24/AuditReportMauritius,MUS,unfetchable,HTTP 404; no usable Wayback capture,
-https://nationalbudget2025.govmu.org/documents/2025_26_annexBudget.pdf,MUS,undated,,
-https://nbcnews.na/node/111583,NAM,undated,,
-https://ncair.nitda.gov.ng/wp-content/uploads/2024/08/National-AI-Strategy_01082024-copy.pdf,NGA,staged,path,7
-https://ncb.govmu.org/ncb/govtcloud.html,MUS,staged,source,5
-https://ncra.gov.sl/ncra-holds-national-validation-meeting-of-the-draft-data-protection-policy-bill-and-regulation-2/,SLE,staged,source,8
-https://ndpc.gov.ng/resources/,NGA,staged,source,7
-https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf,NGA,unfetchable,ConnectTimeout; Wayback ConnectionError,
-https://news.abidjan.net/photos/814603-cote-divoire-paiement-des-bourses-par-tresor-pay-tresor-money-le-tresor-public-rassure-les-etudiants,CIV,undated,,
+https://nationalbudget2025.govmu.org/documents/2025_26_annexBudget.pdf,MUS,staged,metadata,7
+https://nbcnews.na/node/111583,NAM,staged,metadata,7
+https://ncair.nitda.gov.ng/wp-content/uploads/2024/08/National-AI-Strategy_01082024-copy.pdf,NGA,staged,path,8
+https://ncb.govmu.org/ncb/govtcloud.html,MUS,unfetchable,HTTP 404; Wayback ConnectionError,
+https://ncra.gov.sl/ncra-holds-national-validation-meeting-of-the-draft-data-protection-policy-bill-and-regulation-2/,SLE,staged,metadata,9
+https://ndpc.gov.ng/resources/,NGA,staged,metadata,8
+https://ndpr.nitda.gov.ng/Content/Doc/NigeriaDataProtectionRegulation.pdf,NGA,unfetchable,ConnectTimeout; no usable Wayback capture,
+https://news.abidjan.net/photos/814603-cote-divoire-paiement-des-bourses-par-tresor-pay-tresor-money-le-tresor-public-rassure-les-etudiants,CIV,staged,metadata,2
 https://nia.gov.gh/government-launches-integrated-database-for-payroll-validation-and-verification/,GHA,held,held as raw/2024/2024-01-15-gha-government-launches-integrated-database-for-payroll-validation-and-ver.md,
 https://nic.gov.sd/pdf/planone.pdf,SDN,held,held as raw/2016/2016-01-01-sudan-nic-egovernment-smart-transition-plan.md,
-https://niisp.ict.go.ug/2020-award,UGA,staged,source,10
+https://niisp.ict.go.ug/2020-award,UGA,staged,metadata,13
 https://nita.gov.gh/nita-resource-center/,GHA,unfetchable,HTTP 404; Wayback ConnectionError,
 https://nita.gov.gh/policy.html,GHA,unfetchable,HTTP 404; no usable Wayback capture,
 https://nita.gov.gh/shipsegi/2017/12/Ghana-ICT4AD-Policy.pdf,GHA,unfetchable,HTTP 404; Wayback ConnectionError,
@@ -501,93 +501,93 @@ https://nita.gov.gh/theevooc/2017/12/e-GIF-Monitoring-and-Evaluation-Report.pdf,
 https://nita.gov.gh/theevooc/2024/12/Ghana-Digital-Economy-Policy-Strategy-Document.pdf,GHA,unfetchable,HTTP 404; Wayback ConnectionError,
 https://nita.gov.gh/wp-content/uploads/2017/12/Data-Protection-Act-2012-Act-843.pdf,GHA,unfetchable,HTTP 404; Wayback ConnectionError,
 https://nita.gov.gh/wp-content/uploads/2017/12/Ghana-Government-Enterprise-Archtecture.pdf,GHA,unfetchable,HTTP 404; no usable Wayback capture,
-https://nitda.gov.ng/capacity-building/,NGA,staged,source,6
-https://nitda.gov.ng/digital-economy-nitda-launches-policy-to-leverage-digital-innovation-entrepreneurship/,NGA,staged,source,7
-https://nitda.gov.ng/project/nigerian-government-enterprise-architecture-ngea/,NGA,unfetchable,HTTP 404; no usable Wayback capture,
+https://nitda.gov.ng/capacity-building/,NGA,staged,metadata,13
+https://nitda.gov.ng/digital-economy-nitda-launches-policy-to-leverage-digital-innovation-entrepreneurship/,NGA,staged,metadata,8
+https://nitda.gov.ng/project/nigerian-government-enterprise-architecture-ngea/,NGA,unfetchable,ReadTimeout; no usable Wayback capture,
 https://nitda.gov.ng/wp-content/uploads/2019/01/Nigeria%20Data%20Protection%20Regulation.pdf,NGA,unfetchable,HTTP 404; Wayback ConnectionError,
 https://nitda.gov.ng/wp-content/uploads/2020/11/GNCFinale2211.pdf,NGA,held,held as raw/2019/2019-08-01-nga-guidelines-for-nigerian-content-development-in-information-and-communi.md,
 https://nitda.gov.ng/wp-content/uploads/2020/11/Ne-GIFFinal1.pdf,NGA,held,held as raw/2019/2019-08-01-nga-nitda-ne-gif-interoperability-framework.md,
-https://nitda.gov.ng/wp-content/uploads/2021/04/Nigerian-Government-Enterprise-Architecture.pdf,NGA,staged,path,6
+https://nitda.gov.ng/wp-content/uploads/2021/04/Nigerian-Government-Enterprise-Architecture.pdf,NGA,staged,path,7
 https://nitda.gov.ng/wp-content/uploads/2022/11/Final-Draft-National-Data-Strategy.pdf,NGA,held,held as raw/2022/2022-11-01-nga-nitda-draft-national-data-strategy.md,
-https://nitda.gov.ng/wp-content/uploads/2023/07/Digital-Literacy-Framework.pdf,NGA,staged,path,7
-https://nosi.cv/documents/20121/3048318/Estrat%C3%A9gia%20para%20a%20Governa%C3%A7%C3%A3o%20Digital%20Cabo%20Verde%20(2023).pdf/863c7f3d-1725-73ce-39f1-8e22a18c57b7,CPV,undated,,
-https://nosi.cv/en/e-gov,CPV,staged,source,2
-https://nosi.cv/en/web/guest/w/interoperability-government-cloud?redirect=%2Fen%2Fe-gov,CPV,staged,source,2
-https://nosi.cv/web/guest/publica%C3%A7%C3%B5es-corporativas,CPV,staged,source,2
-https://npc.mw/ati/,MWI,staged,source,5
+https://nitda.gov.ng/wp-content/uploads/2023/07/Digital-Literacy-Framework.pdf,NGA,staged,path,8
+https://nosi.cv/documents/20121/3048318/Estrat%C3%A9gia%20para%20a%20Governa%C3%A7%C3%A3o%20Digital%20Cabo%20Verde%20(2023).pdf/863c7f3d-1725-73ce-39f1-8e22a18c57b7,CPV,staged,metadata,2
+https://nosi.cv/en/e-gov,CPV,staged,metadata,2
+https://nosi.cv/en/web/guest/w/interoperability-government-cloud?redirect=%2Fen%2Fe-gov,CPV,undated,,
+https://nosi.cv/web/guest/publica%C3%A7%C3%B5es-corporativas,CPV,staged,metadata,2
+https://npc.mw/ati/,MWI,staged,metadata,5
 https://npc.mw/wp-content/uploads/2020/07/Malawi-Public-Sector-Reforms-Policy.pdf,MWI,staged,path,5
-https://nssfintegratedreport.com/growing-our-customer-base/,UGA,undated,,
-https://numerique.gouv.bj/assets/documents/national-artificial-intelligence-and-big-data-strategy-1682673348.pdf,BEN,unfetchable,HTTP 404; Wayback ConnectionError,
-https://numerique.gouv.bj/assets/documents/strategie-nationale-d'intelligence-artificielle-et-des-megadonnees-2023-2027.pdf,BEN,unfetchable,HTTP 404; Wayback ConnectionError,
-https://numerique.gouv.bj/images/DPS.pdf,BEN,unfetchable,HTTP 404; Wayback ConnectionError,
-https://numerique.gouv.bj/projets/la-mise-en-oeuvre-de-l-administration-intelligente-ou-smart-gouv-phase-2,BEN,unfetchable,HTTP 404; Wayback ConnectionError,
-https://numerique.gouv.bj/publications/documents,BEN,unfetchable,HTTP 404; Wayback ConnectionError,
+https://nssfintegratedreport.com/growing-our-customer-base/,UGA,staged,metadata,12
+https://numerique.gouv.bj/assets/documents/national-artificial-intelligence-and-big-data-strategy-1682673348.pdf,BEN,unfetchable,HTTP 404; no usable Wayback capture,
+https://numerique.gouv.bj/assets/documents/strategie-nationale-d'intelligence-artificielle-et-des-megadonnees-2023-2027.pdf,BEN,staged,metadata,1
+https://numerique.gouv.bj/images/DPS.pdf,BEN,unfetchable,HTTP 404; no usable Wayback capture,
+https://numerique.gouv.bj/projets/la-mise-en-oeuvre-de-l-administration-intelligente-ou-smart-gouv-phase-2,BEN,staged,metadata,1
+https://numerique.gouv.bj/publications/documents,BEN,staged,metadata,1
 https://numerique.gouv.cd/organisation,COD,unfetchable,HTTP 404; Wayback ConnectionError,
-https://numerique.gouv.dj/Articles/detailArticle/14,DJI,unfetchable,SSLError; Wayback ConnectionError,
-https://numerique.gouv.dj/Articles/detailArticle/17,DJI,staged,source,2
-https://numerique.gouv.dj/uploads/images_evenement/3f32c33290d1ddaca19e28a5516e1a45.pdf,DJI,staged,source,2
-https://numerique.gouv.tg/appel-a-manifestation-dinteret-pour-la-selection-dune-firme-pour-un-programme-dincubation-de-30-60-startups-dans-3-4-secteurs-et-renforcement-dune-structure-locale/,TGO,staged,source,9
-https://numerique.gouv.tg/politique-sectorielle-2/,TGO,staged,source,9
+https://numerique.gouv.dj/Articles/detailArticle/14,DJI,unfetchable,ConnectionError; Wayback ConnectionError,
+https://numerique.gouv.dj/Articles/detailArticle/17,DJI,unfetchable,ConnectionError; Wayback ConnectionError,
+https://numerique.gouv.dj/uploads/images_evenement/3f32c33290d1ddaca19e28a5516e1a45.pdf,DJI,unfetchable,ConnectionError; Wayback ConnectionError,
+https://numerique.gouv.tg/appel-a-manifestation-dinteret-pour-la-selection-dune-firme-pour-un-programme-dincubation-de-30-60-startups-dans-3-4-secteurs-et-renforcement-dune-structure-locale/,TGO,staged,metadata,11
+https://numerique.gouv.tg/politique-sectorielle-2/,TGO,staged,metadata,11
 https://numerique.gouv.tg/projet/declaration-de-politique-sectorielle-2018-2022/,TGO,thin,336 chars,
 https://numerique.gouv.tg/stimuler-lecosysteme-numerique-cina-lawson-soutient-les-jeunes-entrepreneurs-lors-de-la-woezon-tech-week,TGO,thin,300 chars,
 https://numerique.gouv.tg/wp-content/uploads/2020/01/Loi-n-2019-014-du-29-octobre-2019-relative-a-la-protection-des-donnees-a-caractere-personnel-in-JO29102019.pdf,TGO,thin,339 chars,
 https://numerique.gouv.tg/wp-content/uploads/2024/05/FR-Strategie-Togo-Digital-2025.pdf,TGO,thin,338 chars,
-https://oags.gov.so/treasury/,SOM,staged,source,8
-https://ohcs.gov.gh/wp-content/uploads/2024/06/Right-to-Information-Act-2019-Act-989-2.pdf,GHA,unfetchable,empty extraction; Wayback ConnectionError,
+https://oags.gov.so/treasury/,SOM,staged,metadata,9
+https://ohcs.gov.gh/wp-content/uploads/2024/06/Right-to-Information-Act-2019-Act-989-2.pdf,GHA,unfetchable,empty extraction; no usable Wayback capture,
 https://opendocs.ids.ac.uk/articles/report/ICT_and_Tax_Administration_in_Sub-Saharan_Africa_Adopting_ITAS_in_Uganda_and_Sierra_Leone/26436361?file=48185098,SLE,unfetchable,empty extraction; no usable Wayback capture,
-https://openedx.org/blog/27-public-universities-in-egypt-adopt-the-open-edx-lms/,EGY,staged,source,3
-https://opm.gov.na/documents/97540/476394/2020++NATIONAL+PUBLIC+SECTOR+INNOVATION.pdf/e23050fd-b697-50d0-e013-c88c45d44ebf,NAM,unfetchable,ConnectionError; Wayback ConnectionError,
-https://otr.tg/index.php/fr/,TGO,undated,,
+https://openedx.org/blog/27-public-universities-in-egypt-adopt-the-open-edx-lms/,EGY,staged,metadata,3
+https://opm.gov.na/documents/97540/476394/2020++NATIONAL+PUBLIC+SECTOR+INNOVATION.pdf/e23050fd-b697-50d0-e013-c88c45d44ebf,NAM,unfetchable,ConnectionError; no usable Wayback capture,
+https://otr.tg/index.php/fr/,TGO,staged,metadata,11
 https://outilsdigitauxtpme.gouv.tg/home,TGO,unfetchable,empty extraction; Wayback ConnectionError,
-https://parliament.go.ke/sites/default/files/2023-02/The%20Startup%20Bill%2C%202022.pdf,KEN,staged,path,4
-https://parlzim.gov.zw/freedom-of-information-bill/,ZWE,staged,source,12
-https://pay.tresor.gouv.ci/r/,CIV,undated,,
+https://parliament.go.ke/sites/default/files/2023-02/The%20Startup%20Bill%2C%202022.pdf,KEN,staged,path,5
+https://parlzim.gov.zw/freedom-of-information-bill/,ZWE,staged,metadata,12
+https://pay.tresor.gouv.ci/r/,CIV,staged,metadata,2
 https://payments.digital.gov.eg/digegy/CardPaymentRequestIntiation,EGY,unfetchable,ConnectionError; no usable Wayback capture,
 https://payroll.org/news-resources/news/news-detail/2025/07/23/egypt-s-unified-payroll-tax-system-big-win-for-payroll-transparency,EGY,staged,path,3
-https://pdex.gov.cv/index.php/desenvolver,CPV,staged,source,1
-https://pensionfund.sc/annual-reports-financial-statements/,SYC,staged,source,8
+https://pdex.gov.cv/index.php/desenvolver,CPV,staged,metadata,2
+https://pensionfund.sc/annual-reports-financial-statements/,SYC,staged,metadata,9
 https://pfmr.go.ke/wp-content/uploads/2020/11/Circular-No.-16-2019-on-PIM-Guidelines-for-National-Government-Entities_compressed.pdf,KEN,thin,375 chars,
-https://play.google.com/store/apps/details?id=gn.gov.tresorpay,GIN,undated,,
-https://police.gov.rw/services/e-policing/citizen-complaint/,RWA,undated,,
-https://portal-autentika.gov.cv/-/chave-movel-de-cabo-verde,CPV,undated,,
+https://play.google.com/store/apps/details?id=gn.gov.tresorpay,GIN,staged,metadata,5
+https://police.gov.rw/services/e-policing/citizen-complaint/,RWA,staged,metadata,8
+https://portal-autentika.gov.cv/-/chave-movel-de-cabo-verde,CPV,staged,metadata,2
 https://portoncv.gov.cv/portonprd/portoncv?p=AACEC7BDB7C4BCBAADABA0BCBEACBEB2C4C4,CPV,unfetchable,ConnectTimeout; no usable Wayback capture,
 https://portoncv.gov.cv/portonprd/portoncv?p=C8A8A6B0A5C4BDB9C7AEABC4C4,CPV,unfetchable,ConnectTimeout; no usable Wayback capture,
 https://portondinosilhas.gov.cv/portonprd/porton.portoncv_v3?p=ACBEABACBEC4B3C6ABB4B9C4C4,CPV,undated,,
-https://portondinosilhas.gov.cv/portonprd/porton.portoncv_v3?p=B4B7B8B4B4C4B7CAAFBDB6C4C4CE,CPV,undated,,
+https://portondinosilhas.gov.cv/portonprd/porton.portoncv_v3?p=B4B7B8B4B4C4B7CAAFBDB6C4C4CE,CPV,staged,metadata,2
 https://ppa.gov.gh/wp-content/uploads/2025/06/2024-Annual-Report-Final.pdf,GHA,staged,path,4
-https://ppo.govmu.org/Documents/Directives/Directives%202020/Directive%2053.pdf,MUS,staged,source,6
-https://ppo.govmu.org/Documents/Directives/Directives%202020/Directives%2049.pdf,MUS,staged,source,6
-https://ppo.govmu.org/Documents/Publications/Maps/MAPS_Assessment_Mauritius_e-proc_vol1.pdf,MUS,staged,source,6
+https://ppo.govmu.org/Documents/Directives/Directives%202020/Directive%2053.pdf,MUS,staged,metadata,6
+https://ppo.govmu.org/Documents/Directives/Directives%202020/Directives%2049.pdf,MUS,staged,metadata,6
+https://ppo.govmu.org/Documents/Publications/Maps/MAPS_Assessment_Mauritius_e-proc_vol1.pdf,MUS,staged,metadata,6
 https://prc.cm/en/multimedia/documents/10271-law-n-2024-017-of-23-12-2024-web,CMR,held,held as raw/2024/2024-12-23-cameroon-law-2024-017-personal-data-protection.md,
-https://presidence.cd/services/1/plan_national_du_numerique_horizon_2025,COD,staged,source,2
+https://presidence.cd/services/1/plan_national_du_numerique_horizon_2025,COD,staged,metadata,2
 https://presidence.cd/uploads/files/Presentation%20PNN_03_final.pdf,COD,held,held as raw/2019/2019-09-01-rdc-plan-national-numerique-horizon-2025.md,
-https://projets.agenceemploijeunes.ci/startup,CIV,staged,source,2
-https://publicnotice.govmu.org/publicnotice/?p=25618,MUS,undated,,
-https://radio.unglobalpulse.net/uganda/,UGA,unfetchable,SSLError; no usable Wayback capture,
-https://raic.gov.sl/index.php/en/,SLE,unfetchable,SSLError; no usable Wayback capture,
-https://ressources.digital.gouv.tg/shares/documentations/Architecture_entreprise_gouvernemental_togo/html/introduction.html,TGO,staged,source,9
+https://projets.agenceemploijeunes.ci/startup,CIV,unfetchable,empty extraction; Wayback ConnectionError,
+https://publicnotice.govmu.org/publicnotice/?p=25618,MUS,staged,metadata,6
+https://radio.unglobalpulse.net/uganda/,UGA,undated,,
+https://raic.gov.sl/index.php/en/,SLE,unfetchable,SSLError; Wayback ConnectionError,
+https://ressources.digital.gouv.tg/shares/documentations/Architecture_entreprise_gouvernemental_togo/html/introduction.html,TGO,staged,metadata,11
 https://revenue.lra.gov.lr/eservices/,LBR,rejected,rejected 2026-09-15: not-a-document,
-https://revenue.lra.gov.lr/med,LBR,undated,,
-https://revenue.lra.gov.lr/media-center/reports/,LBR,undated,,
-https://revenue.lra.gov.lr/wp-content/uploads/2021/11/Public-Finance-Management-Act.pdf,LBR,staged,path,4
-https://rppa.gov.rw/index.php?id=188,RWA,staged,source,7
+https://revenue.lra.gov.lr/med,LBR,staged,metadata,5
+https://revenue.lra.gov.lr/media-center/reports/,LBR,staged,metadata,5
+https://revenue.lra.gov.lr/wp-content/uploads/2021/11/Public-Finance-Management-Act.pdf,LBR,staged,path,5
+https://rppa.gov.rw/index.php?id=188,RWA,listing,About RPPA,
 https://rtgguinee.info/simandou-2040-modernisation-de-ladministration-tous-les-departements-ministeriels-mobilises-pour-la-reforme/,GIN,unfetchable,HTTP 404; Wayback ConnectionError,
-https://rwandatrade.rw/menu/422,RWA,undated,,
-https://scm.gov.ao/web/noticias/pagamentos-electronicos-registam-operacoes-de-74-bilhoes-de-kwanzas-em-2024?utm_source=chatgpt.com,AGO,undated,,
-https://sdgs.un.org/sites/default/files/2021-05/Natascha%20Cheikhyoussef_Ppt%20Presentation.pdf,NAM,staged,path,6
+https://rwandatrade.rw/menu/422,RWA,staged,metadata,8
+https://scm.gov.ao/web/noticias/pagamentos-electronicos-registam-operacoes-de-74-bilhoes-de-kwanzas-em-2024?utm_source=chatgpt.com,AGO,staged,metadata,1
+https://sdgs.un.org/sites/default/files/2021-05/Natascha%20Cheikhyoussef_Ppt%20Presentation.pdf,NAM,staged,path,7
 https://setic.gov.bi/decret-n100-012-du-27-janvier-2025-portant-creationcomposition-missions-organisation-et-fonctionnement-du-comite-national-de-pilotage-de-la-digitalisation-des-services-publics-cnpdsp/,BDI,unfetchable,HTTP 404; Wayback ConnectionError,
 https://setic.gov.bi/plan-directeur-de-digitalisation/,BDI,unfetchable,HTTP 404; no usable Wayback capture,
-https://seylii.org/sc/ACT%204%20OF%202018.PDF,SYC,unfetchable,HTTP 404; Wayback ConnectionError,
+https://seylii.org/sc/ACT%204%20OF%202018.PDF,SYC,staged,metadata,9
 https://sgg.gouv.bj/doc/decret-2023-095/,BEN,held,held as raw/2023/2023-03-22-sgg-decret-2023-095-label-startup.md,
-https://share.google/5avDcWwPXWEP9THRz,CIV,undated,,
+https://share.google/5avDcWwPXWEP9THRz,CIV,staged,metadata,2
 https://sil.mu/wp-content/uploads/2024/04/SIL-IFMIS-Whitepaper_EN-3.pdf,MUS,staged,path,6
 https://smartafrica.org/2019/IMG/pdf/srategie_tic_finale_v.6_28_juillet_2016.pdf,GIN,unfetchable,HTTP 404; no usable Wayback capture,
 https://smartafrica.org/ghana-develops-its-national-data-strategy-in-collaboration-with-smart-africa-and-team-europe/,GHA,held,held as raw/2024/2024-07-02 Ghana develops its National Data Strategy with Smart Africa and Team Europe.md,
-https://smartbots.gov.bw/home,BWA,unfetchable,SSLError; Wayback ConnectionError,
+https://smartbots.gov.bw/home,BWA,unfetchable,SSLError; no usable Wayback capture,
 https://smartifmis.minecofin.gov.rw/ifmis-home-ui/login.do,RWA,thin,94 chars,
-https://socialsecurity.govmu.org/Pages/Services/Benefits-section.aspx,MUS,staged,source,5
+https://socialsecurity.govmu.org/Pages/Services/Benefits-section.aspx,MUS,staged,metadata,6
 https://sp.gepg.go.tz/login,TZA,unfetchable,ConnectionError; Wayback ConnectionError,
-https://startup.gov.tn/fr/home,TUN,staged,source,10
+https://startup.gov.tn/fr/home,TUN,staged,metadata,11
 "https://static.wixstatic.com/media/f94712_390592283ce348938d3d07aa0bae544a~mv2.jpg/v1/fill/w_1461,h_809,al_c,q_85,enc_auto/NSIS%20photo.jpg",MUS,unfetchable,empty extraction; no usable Wayback capture,
 https://swpgh-my.sharepoint.com/:b:/g/personal/agyeman_ofosu_nita_gov_gh/ET9-TPPflC1JrXPEeI6E3HcBLJIRMWr9pV-y1Z1b7_Mikg?e=30Ujc4,GHA,unfetchable,empty extraction; no usable Wayback capture,
 https://swpgh-my.sharepoint.com/:b:/g/personal/agyeman_ofosu_nita_gov_gh/EUAFOmZwXSNFvBcvN0JREa8BNyOdQt-9pPAdu6k4yyHrbw?e=zrZpXr,GHA,unfetchable,empty extraction; no usable Wayback capture,
@@ -595,101 +595,101 @@ https://swpgh-my.sharepoint.com/:b:/g/personal/agyeman_ofosu_nita_gov_gh/EbGoLog
 https://swpgh-my.sharepoint.com/:p:/g/personal/agyeman_ofosu_nita_gov_gh/EUYhHfNF1xJFkEZMS6T4_-IBCCUaErezk49ZTSfrcDSwiA?e=ylfgQx,GHA,unfetchable,empty extraction; no usable Wayback capture,
 https://swpgh-my.sharepoint.com/:p:/g/personal/agyeman_ofosu_nita_gov_gh/Ebg-LPH_xHhKqtQOwU6IqVMBtMN7o6W3-zIRwfbGGZsNcQ?e=bHvJyQ,GHA,unfetchable,empty extraction; no usable Wayback capture,
 https://techafricanews.com/2025/07/08/cameroon-unveils-2040-ai-roadmap-anchored-on-seven-strategic-pillars/,CMR,held,held as raw/2025/2025-07-08-snia-2040-ai-roadmap-seven-pillars-techafricanews.md,
-https://telecom.gouv.ci/new/index.php/accueil,CIV,unfetchable,HTTP 404; no usable Wayback capture,
-https://telecom.gouv.ci/new/index.php/publications/sous-categorie/1,CIV,staged,source,2
+https://telecom.gouv.ci/new/index.php/accueil,CIV,unfetchable,HTTP 404; Wayback ConnectionError,
+https://telecom.gouv.ci/new/index.php/publications/sous-categorie/1,CIV,unfetchable,HTTP 404; Wayback ConnectionError,
 https://telecom.gouv.ci/new/uploads/publications/172242499628.pdf,CIV,unfetchable,HTTP 404; Wayback ConnectionError,
 https://telecom.gouv.ci/new/uploads/publications/174196670372.pdf,CIV,unfetchable,HTTP 404; Wayback ConnectionError,
 https://telecom.gouv.ci/new/uploads/publications/174558607847.pdf,CIV,held,held as raw/2021/2021-06-14-civ-ansut-politique-hebergement-cloud.md,
-https://telecom.gouv.ci/new/uploads/publications/175821477415.pdf,CIV,unfetchable,HTTP 404; no usable Wayback capture,
-https://telecom.gouv.ci/new/uploads/publications/175829869673.xlsx,CIV,unfetchable,HTTP 404; no usable Wayback capture,
-https://telecom.gouv.ci/wp-content/uploads/2022/02/Strategie-Nationale-Developpement-du-Numerique-2021-2025.pdf,CIV,unfetchable,HTTP 404; no usable Wayback capture,
+https://telecom.gouv.ci/new/uploads/publications/175821477415.pdf,CIV,unfetchable,HTTP 404; Wayback ConnectionError,
+https://telecom.gouv.ci/new/uploads/publications/175829869673.xlsx,CIV,unfetchable,HTTP 404; Wayback ConnectionError,
+https://telecom.gouv.ci/wp-content/uploads/2022/02/Strategie-Nationale-Developpement-du-Numerique-2021-2025.pdf,CIV,unfetchable,HTTP 404; Wayback ConnectionError,
 https://thebftonline.com/2023/08/14/enforcement-of-data-protection-act-comes-into-full-force/,GHA,staged,path,4
-https://thecommonwealth.org/news/blog-transforming-eswatinis-debt-management-commonwealth-meridian,SWZ,staged,source,3
+https://thecommonwealth.org/news/blog-transforming-eswatinis-debt-management-commonwealth-meridian,SWZ,staged,metadata,4
 https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/P177016084979202b08dd501a5690c82506.pdf,GNB,held,held as raw/2022/2022-01-01-worldbank-guinea-bissau-digital-economy-diagnostic.md,
-https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Togo-Digital-Economy-Diagnostic-Report.pdf,TGO,staged,source,9
-https://thedocs.worldbank.org/en/doc/7d09ddf2619513d85e489e2620252793-0010012025/original/M300-AES-Compact-Tanzania.pdf,TZA,undated,,
-https://thetaxman.ura.go.ug/wp-content/uploads/2023/09/URA-newsletter-September-2023-3.pdf,UGA,staged,path,10
-https://tiec.gov.eg/English/SuccessStories/Pages/default.aspx,EGY,unfetchable,SSLError; Wayback ConnectionError,
-https://tra.go.tz/news/all,TZA,staged,source,9
-https://treasury.govmu.org/Pages/About%20Us/Functions.aspx,MUS,staged,source,5
-https://treasury.govmu.org/SitePages/Index.aspx,MUS,staged,source,5
-https://ulii.org/akn/ug/act/2005/6/eng@2005-07-19,UGA,unfetchable,HTTP 403; Wayback ConnectionError,
+https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Togo-Digital-Economy-Diagnostic-Report.pdf,TGO,staged,metadata,11
+https://thedocs.worldbank.org/en/doc/7d09ddf2619513d85e489e2620252793-0010012025/original/M300-AES-Compact-Tanzania.pdf,TZA,staged,metadata,11
+https://thetaxman.ura.go.ug/wp-content/uploads/2023/09/URA-newsletter-September-2023-3.pdf,UGA,staged,path,12
+https://tiec.gov.eg/English/SuccessStories/Pages/default.aspx,EGY,staged,metadata,13
+https://tra.go.tz/news/all,TZA,staged,metadata,10
+https://treasury.govmu.org/Pages/About%20Us/Functions.aspx,MUS,staged,metadata,6
+https://treasury.govmu.org/SitePages/Index.aspx,MUS,staged,metadata,6
+https://ulii.org/akn/ug/act/2005/6/eng@2005-07-19,UGA,staged,metadata,11
 https://umutangakori.obr.gov.bi/login-econtribuableobr,BDI,unfetchable,SSLError; Wayback ConnectionError,
 https://unctad.org/dmfas/system/files/client-area/UNCTAD_GDS_DMFAS_MISC_2011_1_eng.pdf,GHA,unfetchable,HTTP 403; Wayback ConnectionError,
-https://unctad.org/dmfas/system/files/client-area/ann-rep2023_en.pdf,UGA,staged,source,10
-https://unctad.org/meetings/en/Presentation/ecn162019s17_Uganda_en.pdf,UGA,staged,source,10
+https://unctad.org/dmfas/system/files/client-area/ann-rep2023_en.pdf,UGA,unfetchable,HTTP 403; no usable Wayback capture,
+https://unctad.org/meetings/en/Presentation/ecn162019s17_Uganda_en.pdf,UGA,unfetchable,HTTP 403; Wayback ConnectionError,
 https://universciences.com/dounia-2025-vers-une-strategie-nationale-des-donnees-numeriques-et-de-lintelligence-artificielle-en-guinee/,GIN,unfetchable,HTTP 404; Wayback ConnectionError,
 https://unu.edu/egov/news/digital-transformation-project-guinea-bissau-egov-undp,GNB,held,held as raw/2025/2025-02-04 Digital Transformation Project in Guinea-Bissau with UNU-EGOV & UNDP.md,
-https://ura.go.ug/en/domestic-taxes/make-a-payment/,UGA,undated,,
-https://ura.go.ug/en/domestic-taxes/returns/,UGA,undated,,
-https://ura.go.ug/en/download/annual-revenue-report-fy2022-23/?wpdmdl=10067&refresh=68cb3dcd66d521758150093,UGA,undated,,
+https://ura.go.ug/en/domestic-taxes/make-a-payment/,UGA,staged,metadata,12
+https://ura.go.ug/en/domestic-taxes/returns/,UGA,staged,metadata,12
+https://ura.go.ug/en/download/annual-revenue-report-fy2022-23/?wpdmdl=10067&refresh=68cb3dcd66d521758150093,UGA,staged,metadata,12
 https://vitalwave.com/wp-content/uploads/2023/10/Final-Tanzania_EAC-Regional-Digital-Strategy-National-Consultation-Brief.pdf,TZA,unfetchable,HTTP 403; Wayback ConnectionError,
-https://volunteerafrica.fi/tanzania-pension-schemes-and-their-benefits/,TZA,staged,source,9
-https://wso2.com/about/customers/nosi/,CPV,staged,source,2
-https://www.adaptation-undp.org/resources/burundis-vision-burundi-2025-june-2011,BDI,undated,,
-https://www.add.gov.ma/note-dorientations-generales-pour-le-developpement-du-digital-a-horizon-2025,MAR,staged,source,12
-https://www.add.gov.ma/plan-national-de-formation-dans-le-domaine-du-digital-generation-digitale,MAR,staged,source,12
+https://volunteerafrica.fi/tanzania-pension-schemes-and-their-benefits/,TZA,staged,metadata,10
+https://wso2.com/about/customers/nosi/,CPV,staged,metadata,2
+https://www.adaptation-undp.org/resources/burundis-vision-burundi-2025-june-2011,BDI,staged,metadata,2
+https://www.add.gov.ma/note-dorientations-generales-pour-le-developpement-du-digital-a-horizon-2025,MAR,staged,metadata,7
+https://www.add.gov.ma/plan-national-de-formation-dans-le-domaine-du-digital-generation-digitale,MAR,staged,metadata,7
 https://www.afapdp.org/wp-content/uploads/2012/01/Burkina-Faso-Loi-portant-protection-des-donn%c3%a9es-%c3%a0-caract%c3%a8re-personnel-20042.pdf,BFA,unfetchable,empty extraction; Wayback ConnectionError,
 https://www.afapdp.org/wp-content/uploads/2017/02/Loi-n%C2%B02017-28-du-03-mai-2017.pdf,NER,unfetchable,empty extraction; Wayback ConnectionError,
-https://www.africa-legal.com/news/ethiopia-shifts-towards-innovation-driven-economy-with-passage-of-startup-proclamation/122380,ETH,staged,source,3
-https://www.africafoicentre.org/access-to-information-in-uganda-prospects-and-hurdles/,UGA,staged,source,10
-https://www.almasryalyoum.com/news/details/3560044,EGY,undated,,
+https://www.africa-legal.com/news/ethiopia-shifts-towards-innovation-driven-economy-with-passage-of-startup-proclamation/122380,ETH,staged,metadata,4
+https://www.africafoicentre.org/access-to-information-in-uganda-prospects-and-hurdles/,UGA,staged,metadata,12
+https://www.almasryalyoum.com/news/details/3560044,EGY,staged,metadata,3
 https://www.anpdp.st/docs_comprimidos/legislacao_nacional/law3_2016.pdf,STP,unfetchable,HTTP 404; no usable Wayback capture,
 https://www.ansie.dj/Pages/detailRubriquePages/58,DJI,unfetchable,SSLError; Wayback ConnectionError,
-https://www.ansie.dj/actualites/e-gouvernement-lansie-lance-le-processus-delaboration-de-la-strategie-nationale-2019-2022/,DJI,staged,source,2
-https://www.apd.ao/fotos/frontend_1/editor2/110617_lei_22-11_de_17_junho-proteccao_dados_pessoais.pdf,AGO,unfetchable,ConnectionError; Wayback ConnectionError,
-https://www.apdp.ml/documents/repertoires_traitements/Repertoire_des_TDP_actualise_fev_2022.pdf,MLI,staged,source,5
+https://www.ansie.dj/actualites/e-gouvernement-lansie-lance-le-processus-delaboration-de-la-strategie-nationale-2019-2022/,DJI,unfetchable,SSLError; Wayback ConnectionError,
+https://www.apd.ao/fotos/frontend_1/editor2/110617_lei_22-11_de_17_junho-proteccao_dados_pessoais.pdf,AGO,unfetchable,ConnectionError; no usable Wayback capture,
+https://www.apdp.ml/documents/repertoires_traitements/Repertoire_des_TDP_actualise_fev_2022.pdf,MLI,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.apdpvp.ga/wp-content/uploads/2025/01/Gabon-Loi-025-2023-du-12-juillet-2023-portant-modification-de-la-loi-001-2011-du-25-septembre-relative-a-la-protection-des-donnees-a-caractere-personnel.pdf,GAB,held,held as raw/2023/2023-07-15-gabon-loi-025-2023-protection-donnees-personnelles.md,
-https://www.aps.dz/algerie/135541-la-nouvelle-loi-sur-l-information-sera-exhaustive,DZA,unfetchable,HTTP 404; Wayback ConnectionError,
-https://www.armp-niger.org/index.php?id=132,NER,staged,source,6
-https://www.arpce.dz/fr/file/c3e9y7,DZA,staged,source,1
+https://www.aps.dz/algerie/135541-la-nouvelle-loi-sur-l-information-sera-exhaustive,DZA,staged,metadata,1
+https://www.armp-niger.org/index.php?id=132,NER,staged,metadata,7
+https://www.arpce.dz/fr/file/c3e9y7,DZA,undated,,
 https://www.artci.ci/images/stories/pdf/normalisation/forum_normalisation_innovation_2015/session3/s3_c9_ansut.pdf,CIV,unfetchable,HTTP 404; no usable Wayback capture,
-https://www.artci.ci/images/stories/pdf/rapport_activite/rapport_activites_artci_2022.pdf,CIV,staged,source,2
-https://www.assemblee-nationale.mg/wp-content/uploads/2020/11/Loi-n%C2%B0-2016-029-code-de-communication.pdf,MDG,staged,path,4
-https://www.assembleenationale.bf/loip/46,BFA,staged,source,1
+https://www.artci.ci/images/stories/pdf/rapport_activite/rapport_activites_artci_2022.pdf,CIV,unfetchable,HTTP 404; Wayback ConnectionError,
+https://www.assemblee-nationale.mg/wp-content/uploads/2020/11/Loi-n%C2%B0-2016-029-code-de-communication.pdf,MDG,unfetchable,HTTP 403; Wayback ConnectionError,
+https://www.assembleenationale.bf/loip/46,BFA,staged,metadata,2
 https://www.autoritedeprotection.ci/docs/decret_2021_911_cadre_commun_architecture_donnees.pdf,CIV,unfetchable,empty extraction; Wayback ConnectionError,
-https://www.autoritedeprotection.ci/docs/loi_2013_450_journal.pdf,CIV,unfetchable,empty extraction; Wayback ChunkedEncodingError,
-https://www.axoninfosystems.com/gitmis_portfolio.html,GHA,unfetchable,HTTP 404; Wayback ConnectionError,
-https://www.bankily.mr/telechargement-de-l-application/,MRT,undated,,
-https://www.bct.gov.tn/bct/siteprod/index.jsp?la=AN,TUN,staged,source,9
+https://www.autoritedeprotection.ci/docs/loi_2013_450_journal.pdf,CIV,unfetchable,empty extraction; Wayback ConnectionError,
+https://www.axoninfosystems.com/gitmis_portfolio.html,GHA,unfetchable,HTTP 404; no usable Wayback capture,
+https://www.bankily.mr/telechargement-de-l-application/,MRT,staged,metadata,5
+https://www.bct.gov.tn/bct/siteprod/index.jsp?la=AN,TUN,staged,metadata,11
 https://www.bct.gov.tn/bct/siteprod/page.jsp?id=96,TUN,held,held as raw/2026/2026-09-03-bct-systemes-de-paiement.md,
 https://www.bih.co.bw/annual-reports/,BWA,thin,184 chars,
 https://www.bih.co.bw/hackathon/,BWA,thin,136 chars,
 https://www.biometricupdate.com/202506/benin-shares-its-x-road-inspired-dpi-interoperability-experience-in-peer-learning-webinar?utm_source=chatgpt.com,BEN,held,held as raw/2025/2025-06-23 Benin shares its X-Road-inspired DPI interoperability experience in peer learning webinar.md,
 https://www.bocra.org.bw/sites/default/files/documents/DataProtectionAct.pdf,BWA,unfetchable,empty extraction; Wayback ConnectionError,
 https://www.bog.gov.gh/wp-content/uploads/2024/09/Payment-Systems-Oversight-Annual-Report-2023.pdf,GHA,staged,path,4
-https://www.bom.mu/sites/default/files/pdf/Research_and_Publications/Monthly_Statistical_Bulletin/msb_july_24.pdf,MUS,undated,,
+https://www.bom.mu/sites/default/files/pdf/Research_and_Publications/Monthly_Statistical_Bulletin/msb_july_24.pdf,MUS,staged,metadata,6
 https://www.bou.or.ug/bou/bouwebsite/PaymentSystems/systems.html,UGA,thin,20 chars,
 https://www.brb.bi/fr,BDI,unfetchable,HTTP 404; Wayback ConnectionError,
-https://www.bwtechzone.com/2024/04/botswana-goverment-ditches-microsoft.html,BWA,staged,path,1
+https://www.bwtechzone.com/2024/04/botswana-goverment-ditches-microsoft.html,BWA,staged,path,2
 https://www.cabinet.gov.zm/newsite/wp-content/uploads/2024/04/2NATIONAL-GREEN-GROWTH-STRATEGY-2024-2030-6.pdf,ZMB,unfetchable,SSLError; Wayback ConnectionError,
-https://www.cabri-sbo.org/uploads/files/Documents/Cash-Management_Lesotho-D6.pdf,LSO,staged,source,4
-https://www.cagd.bj/category/dette-publique/bulletin-statistique-de-la-dette/,BEN,unfetchable,HTTP 404; Wayback ConnectionError,
+https://www.cabri-sbo.org/uploads/files/Documents/Cash-Management_Lesotho-D6.pdf,LSO,staged,metadata,5
+https://www.cagd.bj/category/dette-publique/bulletin-statistique-de-la-dette/,BEN,staged,metadata,1
 https://www.cagd.gov.gh/accountants-urged-to-help-with-economic-transformation/,GHA,unfetchable,empty extraction; Wayback ConnectionError,
-https://www.caidp.ci/citoyen,CIV,staged,source,2
-https://www.caidp.ci/om_caidp/static/src/img/LOI_2013-867%20%20AAI.pdf,CIV,unfetchable,empty extraction; no usable Wayback capture,
-https://www.cbn.gov.ng/out/2016/bpsd/guidelines%20for%20the%20operations%20of%20tsa%20by%20state%20governments%20in%20nigeria.pdf,NGA,staged,source,7
-https://www.cdp.sn/publications/public,SEN,thin,58 chars,
-https://www.cedsif.gov.mz/cedsifportal/?page_id=81,MOZ,undated,,
+https://www.caidp.ci/citoyen,CIV,staged,metadata,3
+https://www.caidp.ci/om_caidp/static/src/img/LOI_2013-867%20%20AAI.pdf,CIV,unfetchable,empty extraction; Wayback ConnectionError,
+https://www.cbn.gov.ng/out/2016/bpsd/guidelines%20for%20the%20operations%20of%20tsa%20by%20state%20governments%20in%20nigeria.pdf,NGA,staged,metadata,8
+https://www.cdp.sn/publications/public,SEN,unfetchable,empty extraction; no usable Wayback capture,
+https://www.cedsif.gov.mz/cedsifportal/?page_id=81,MOZ,staged,metadata,7
 https://www.cim.gov.ly/electronic-government,LBY,unfetchable,empty extraction; Wayback ConnectionError,
-https://www.cleiss.fr/docs/regimes/regime_cotedivoire.html,CIV,undated,,
-https://www.cndp.ma/fr/avis-et-decisions/m-deliberations.html,MAR,staged,source,12
+https://www.cleiss.fr/docs/regimes/regime_cotedivoire.html,CIV,staged,metadata,2
+https://www.cndp.ma/fr/avis-et-decisions/m-deliberations.html,MAR,staged,metadata,7
 https://www.cndp.ma/fr/cndp/publications.html,MAR,thin,51 chars,
 https://www.cndp.ma/fr/espace-juridique/textes-et-lois.html,MAR,thin,51 chars,
 https://www.cnpd.cv/comunicados.php?page=1,CPV,unfetchable,HTTP 404; no usable Wayback capture,
-https://www.cnpd.cv/leis/Lei%20n%2041_VIII_2013%20regime%20jur%C3%ADdico%20geral%20de%20protec%C3%A7%C3%A3o%20de%20dados%20pessoais%20das%20pessoas%20singulares.pdf,CPV,staged,source,2
-https://www.cnps.gov.gn/guinee-la-cnps-lance-officiellement-linitiative-de-prise-en-charge-medicale-des-agents-de-letat-et-retraites/,GIN,staged,source,12
-https://www.cnss.tn/en/web/employeur/employeurs,TUN,thin,162 chars,
-https://www.commtech.gov.ng/resources/download-centre.html,NGA,staged,source,6
-https://www.communications.gov.ls/ict.php,LSO,unfetchable,SSLError; no usable Wayback capture,
+https://www.cnpd.cv/leis/Lei%20n%2041_VIII_2013%20regime%20jur%C3%ADdico%20geral%20de%20protec%C3%A7%C3%A3o%20de%20dados%20pessoais%20das%20pessoas%20singulares.pdf,CPV,unfetchable,HTTP 404; Wayback ConnectionError,
+https://www.cnps.gov.gn/guinee-la-cnps-lance-officiellement-linitiative-de-prise-en-charge-medicale-des-agents-de-letat-et-retraites/,GIN,unfetchable,HTTP 404; Wayback ConnectionError,
+https://www.cnss.tn/en/web/employeur/employeurs,TUN,unfetchable,SSLError; Wayback ConnectionError,
+https://www.commtech.gov.ng/resources/download-centre.html,NGA,staged,metadata,7
+https://www.communications.gov.ls/ict.php,LSO,unfetchable,SSLError; Wayback ConnectionError,
 https://www.cscm.mu/images/statistics/October_statistics_2024.pdf,MUS,unfetchable,ConnectionError; no usable Wayback capture,
 https://www.csu.mu//statistics/,MUS,thin,103 chars,
 https://www.csu.mu/statistics/,MUS,thin,103 chars,
 https://www.dailynewsegypt.com/2025/08/04/electronic-public-procurement-platform-nears-completion-kouchouk/,EGY,staged,path,3
 https://www.data.gouv.bj/statistics,BEN,unfetchable,ConnectionError; no usable Wayback capture,
-https://www.datacardshop.com/cases-en/ivoorkust-en.html,CIV,unfetchable,HTTP 403; no usable Wayback capture,
+https://www.datacardshop.com/cases-en/ivoorkust-en.html,CIV,unfetchable,HTTP 403; Wayback ConnectionError,
 https://www.dataguidance.com/jurisdiction/eswatini,SWZ,unfetchable,empty extraction; Wayback ConnectionError,
-https://www.dataguidance.com/notes/seychelles-data-protection-overview,SYC,unfetchable,empty extraction; Wayback ConnectionError,
+https://www.dataguidance.com/notes/seychelles-data-protection-overview,SYC,unfetchable,empty extraction; no usable Wayback capture,
 https://www.dataprotection.gov.zm/services/,ZMB,unfetchable,SSLError; Wayback ConnectionError,
 https://www.dataprotection.org.gh/index.php/resources/downloads/data-protection-act/38-data-protection-act-2012-act-843,GHA,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.dcdt.gov.za/media-room/speeches/minister-s-speech/minister-s-archive/298-extension-of-submission-of-public-comments-on-the-draft-data-and-cloud-policy-to-01-june-2021.html?highlight=WyJjbG91ZCJd,ZAF,unfetchable,SSLError; no usable Wayback capture,
@@ -697,8 +697,8 @@ https://www.dgcmef.gov.bf/fr/,BFA,thin,293 chars,
 https://www.dgf.gouv.ci/images/app/contenu/181/public-debt-statistica-eng.pdf,CIV,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.dgi.gouv.ml/e-impot-dgi-2/,MLI,thin,259 chars,
 https://www.dgi.gouv.ml/wp-content/uploads/2024/04/manuel-dutilisation-etat-financier.pdf,MLI,staged,path,5
-https://www.dgid.sn/2024/07/24/application-of-digital-vat-starting-from-july-1-2024/,SEN,staged,path,8
-https://www.dgssi.gov.ma/sites/default/files/attached_files/loi_43.20_fr.pdf,MAR,unfetchable,ConnectTimeout; Wayback ConnectionError,
+https://www.dgid.sn/2024/07/24/application-of-digital-vat-starting-from-july-1-2024/,SEN,staged,path,9
+https://www.dgssi.gov.ma/sites/default/files/attached_files/loi_43.20_fr.pdf,MAR,unfetchable,ConnectTimeout; no usable Wayback capture,
 https://www.digital.cv/index.php/pt/,CPV,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.douane.gov.tn/sinda-2/,TUN,unfetchable,ConnectionError; no usable Wayback capture,
 https://www.dpsa.gov.za/documents,ZAF,unfetchable,HTTP 403; no usable Wayback capture,
@@ -706,352 +706,352 @@ https://www.dropbox.com/scl/fi/1rwf8bdy1hqqkgl5fcpjh/AEG-Comores-L8_Rapport-fina
 https://www.dsti.gov.sl/flagship-projects/,SLE,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.dsti.gov.sl/wp-content/uploads/2019/11/Sierra-Leone-National-Innovation-and-Digital-Strategy.pdf,SLE,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.dtps.gov.za/index.php?option=com_phocadownload&view=category&id=5&Itemid=134,ZAF,unfetchable,ConnectionError; Wayback ConnectionError,
-https://www.eajournals.org/wp-content/uploads/Assessing-the-Impacts-of-One-Stop-Government-Portal-on-Improvement-of-Public-Service-Delivery-in-Tanzania.pdf,TZA,undated,,
+https://www.eajournals.org/wp-content/uploads/Assessing-the-Impacts-of-One-Stop-Government-Portal-on-Improvement-of-Public-Service-Delivery-in-Tanzania.pdf,TZA,staged,metadata,10
 https://www.eburkina.gov.bf/index.php/actualites/129-rencontre-de-suivi-pour-la-mise-a-jour-du-volet-informationnel-du-guichet-virtuel-de-l-administration-publique-du-burkina-faso,BFA,unfetchable,ConnectTimeout; Wayback ConnectionError,
-https://www.eco24hr.com/%D8%AA%D9%86%D9%81%D9%8A%D8%B0-95-%D9%85%D9%86-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-hits-%D9%84%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9-%D9%8896-%D8%A3%D9%84/,EGY,staged,source,3
-https://www.ega.go.tz/documents/announcements,TZA,staged,source,9
-https://www.ega.go.tz/documents/ega-newsletter,TZA,staged,source,9
+https://www.eco24hr.com/%D8%AA%D9%86%D9%81%D9%8A%D8%B0-95-%D9%85%D9%86-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-hits-%D9%84%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9-%D9%8896-%D8%A3%D9%84/,EGY,staged,metadata,3
+https://www.ega.go.tz/documents/announcements,TZA,staged,metadata,11
+https://www.ega.go.tz/documents/ega-newsletter,TZA,staged,metadata,10
 https://www.ega.go.tz/documents/strategic-plan,TZA,thin,330 chars,
-https://www.ega.go.tz/news/waziri-mkuu-azindua-mfumo-wa-govesb,TZA,unfetchable,HTTP 500; Wayback ConnectionError,
-https://www.ega.go.tz/products/systems,TZA,staged,source,9
+https://www.ega.go.tz/news/waziri-mkuu-azindua-mfumo-wa-govesb,TZA,staged,metadata,13
+https://www.ega.go.tz/products/systems,TZA,staged,metadata,10
 https://www.ega.go.tz/publications,TZA,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.ega.go.tz/standard/1,TZA,thin,323 chars,
-https://www.ega.go.tz/standard/2,TZA,staged,source,9
-https://www.ega.go.tz/standards,TZA,unfetchable,HTTP 404; Wayback ConnectionError,
-https://www.ega.go.tz/uploads/publications/sw-1574848612-SERA%202016.pdf,TZA,staged,source,9
-https://www.ega.go.tz/uploads/standards/en-1574945623-inter.pdf,TZA,staged,source,9
-https://www.ega.go.tz/uploads/standards/sw-1574918368-level1%20big.pdf,TZA,staged,source,8
-https://www.ega.go.tz/uploads/standards/sw-1574946258-AV%20DOC.pdf,TZA,staged,source,9
-https://www.elibrary.imf.org/view/journals/002/2020/214/article-A001-en.xml,GNB,staged,source,4
+https://www.ega.go.tz/standard/2,TZA,staged,metadata,10
+https://www.ega.go.tz/standards,TZA,unfetchable,HTTP 404; no usable Wayback capture,
+https://www.ega.go.tz/uploads/publications/sw-1574848612-SERA%202016.pdf,TZA,staged,metadata,10
+https://www.ega.go.tz/uploads/standards/en-1574945623-inter.pdf,TZA,staged,metadata,10
+https://www.ega.go.tz/uploads/standards/sw-1574918368-level1%20big.pdf,TZA,staged,metadata,10
+https://www.ega.go.tz/uploads/standards/sw-1574946258-AV%20DOC.pdf,TZA,staged,metadata,10
+https://www.elibrary.imf.org/view/journals/002/2020/214/article-A001-en.xml,GNB,staged,metadata,5
 https://www.ellipsis.co.za/wp-content/uploads/2016/07/Botswana.pdf,BWA,staged,path,1
-https://www.elwatannews.com/news/details/8118786,EGY,undated,,
-https://www.emploi.nat.tn/fo/Fr/global.php?menu1=145,TUN,unfetchable,SSLError; Wayback ConnectionError,
+https://www.elwatannews.com/news/details/8118786,EGY,staged,metadata,3
+https://www.emploi.nat.tn/fo/Fr/global.php?menu1=145,TUN,thin,161 chars,
 https://www.energymin.gov.gh/ghana-launches-scaling-renewable-energy-programme-srep-electrify-grid-communities,GHA,unfetchable,HTTP 404; Wayback ConnectionError,
-https://www.epa.gov.et/images/Polices/CRGE_Strategy_Final.pdf,ETH,unfetchable,ConnectionError; Wayback ConnectionError,
-https://www.eparticipation.ma/espace/liste_petitions,MAR,undated,,
+https://www.epa.gov.et/images/Polices/CRGE_Strategy_Final.pdf,ETH,staged,metadata,13
+https://www.eparticipation.ma/espace/liste_petitions,MAR,staged,metadata,7
 https://www.esccom.org.sz/legislation/DATA%20PROTECTION%20ACT.pdf,SWZ,held,held as raw/2022/2022-03-04 Eswatini Data Protection Act 2022 (Act No. 5 of 2022).md,
-https://www.eservices.gov.et/en,ETH,undated,,
-https://www.esop.pt/destaque/premio-abertura-2021-distingue-colaboracao-internacional-portugal-cabo-verde-em-open,CPV,staged,source,2
+https://www.eservices.gov.et/en,ETH,staged,metadata,13
+https://www.esop.pt/destaque/premio-abertura-2021-distingue-colaboracao-internacional-portugal-cabo-verde-em-open,CPV,unfetchable,ConnectionError; Wayback ConnectionError,
 https://www.etax.com.eg/case-studies/?lang=en,EGY,thin,256 chars,
 https://www.facebook.com/nosicv/posts/5273519206054533,CPV,unfetchable,HTTP 400; no usable Wayback capture,
 https://www.finance.go.ug/index.php?option=com_content&view=article&id=50&Itemid=86,UGA,thin,390 chars,
-https://www.finance.go.ug/press/ag-permanent-secretarysecreatary-treasury-launches-integrated-bank-projects,UGA,unfetchable,HTTP 404; Wayback ConnectionError,
-https://www.finance.go.ug/publication/uganda-public-investment-management-assessment-report,UGA,unfetchable,HTTP 404; Wayback ConnectionError,
-https://www.finance.go.ug/publications,UGA,staged,source,10
-https://www.finance.go.ug/sites/default/files/2024-06/NPSPP.pdf,UGA,staged,path,10
-https://www.finance.go.ug/sites/default/files/reports/Public%20Sector%20Transformation%20Programme%20Semi-Annual%20Report%20FY%202023-24.pdf,UGA,staged,source,10
-https://www.finance.gov.bw/images/LawRegulations/Public%20Finance%20Management.pdf,BWA,unfetchable,HTTP 503; Wayback ConnectionError,
-https://www.finances.gouv.cf/projet/15/patapaye,CAF,undated,,
+https://www.finance.go.ug/press/ag-permanent-secretarysecreatary-treasury-launches-integrated-bank-projects,UGA,staged,metadata,11
+https://www.finance.go.ug/publication/uganda-public-investment-management-assessment-report,UGA,staged,metadata,12
+https://www.finance.go.ug/publications,UGA,staged,metadata,11
+https://www.finance.go.ug/sites/default/files/2024-06/NPSPP.pdf,UGA,staged,path,12
+https://www.finance.go.ug/sites/default/files/reports/Public%20Sector%20Transformation%20Programme%20Semi-Annual%20Report%20FY%202023-24.pdf,UGA,staged,metadata,12
+https://www.finance.gov.bw/images/LawRegulations/Public%20Finance%20Management.pdf,BWA,unfetchable,HTTP 503; no usable Wayback capture,
+https://www.finances.gouv.cf/projet/15/patapaye,CAF,staged,metadata,2
 https://www.finances.gouv.sn/publication/strategie-senegal-numerique-2016-2025/,SEN,unfetchable,HTTP 404; no usable Wayback capture,
 https://www.finances.gov.ma/Publication/db/2022/DB_SyntheserapportCST2022_EN.pdf,MAR,unfetchable,ConnectTimeout; Wayback ConnectionError,
-https://www.finances.gov.tn/sites/default/files/LOB_2019.pdf,TUN,staged,source,10
+https://www.finances.gov.tn/sites/default/files/LOB_2019.pdf,TUN,staged,metadata,11
 https://www.firs.gov.ng/e-filing/,NGA,unfetchable,ConnectTimeout; Wayback ConnectionError,
 https://www.firs.gov.ng/e-tax-payment/,NGA,unfetchable,ConnectTimeout; no usable Wayback capture,
-https://www.firs.gov.ng/login,NGA,thin,256 chars,
-https://www.fonction-publique.gov.bf/accueil,BFA,unfetchable,ConnectionError; Wayback ConnectionError,
+https://www.firs.gov.ng/login,NGA,unfetchable,ConnectTimeout; Wayback ConnectionError,
+https://www.fonction-publique.gov.bf/accueil,BFA,unfetchable,ConnectionError; no usable Wayback capture,
 https://www.fonction-publique.gov.bf/fileadmin/user_upload/storage/21_juillet_2021-03-Document_SNMAP_Version_finale.pdf,BFA,unfetchable,ConnectionError; Wayback ConnectionError,
-https://www.fsdt.or.tz/2023/11/23/universal-id-for-financial-inclusion-and-economic-empowerment/,TZA,staged,path,9
+https://www.fsdt.or.tz/2023/11/23/universal-id-for-financial-inclusion-and-economic-empowerment/,TZA,staged,path,10
 https://www.gabondigital.ga/decouverte/accueil,GAB,thin,164 chars,
 https://www.gazette.sc/sites/default/files/2023-12/Act%2024%20-%202023%20-%20Data%20Protection%20Act%202023.pdf,SYC,held,held as raw/2023/2023-12-22-seychelles-data-protection-act-2023-act-24.md,
-https://www.gia.gov.ly/en/interoperability-2/,LBY,staged,source,4
-https://www.gia.gov.ly/en/projects/digital-lab/,LBY,staged,source,4
+https://www.gia.gov.ly/en/interoperability-2/,LBY,staged,metadata,5
+https://www.gia.gov.ly/en/projects/digital-lab/,LBY,staged,metadata,5
 https://www.gia.gov.ly/wp-content/uploads/2023/03/Libya-Digital-Transformation-Strategy-2023.pdf,LBY,held,held as raw/2022/2022-12-01-lby-gia-proposed-government-digital-transformation-strategy.md,
 https://www.gia.gov.ly/wp-content/uploads/2023/03/National-policy-for-government-data-governance-1.1-2022.pdf,LBY,held,held as raw/2022/2022-12-01-lby-gia-national-policy-government-data-governance.md,
 https://www.glmis.gov.gh/Statistics/Labour,GHA,thin,295 chars,
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi0kYbQjJyPAxV4WkEAHQ3nF3sQFnoECBYQAQ&url=https%3A%2F%2Fwww.potraz.gov.zw%2Fwp-content%2Fuploads%2F2023%2F11%2FData-Privacy-Opinions-Experiences-Infographic.pdf&usg=AOvVaw2T8DwEm4QCzsFEW-VnDGCw&opi=89978449,ZWE,unfetchable,empty extraction; no usable Wayback capture,
-https://www.gouv.bj/actualite/1628/presentation-2021-2026-cadres-structures-gouvernement-benin/,BEN,staged,source,1
-https://www.gov.bw/sites/default/files/2020-03/ETSSP%20Final%20Document_3.pdf,BWA,staged,path,1
-https://www.gov.ls/documents/important-documents/,LSO,staged,source,4
+https://www.gouv.bj/actualite/1628/presentation-2021-2026-cadres-structures-gouvernement-benin/,BEN,staged,metadata,1
+https://www.gov.bw/sites/default/files/2020-03/ETSSP%20Final%20Document_3.pdf,BWA,unfetchable,SSLError; Wayback ConnectionError,
+https://www.gov.ls/documents/important-documents/,LSO,staged,metadata,5
 https://www.gov.ls/documents/lesotho-ict-policy/,LSO,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.gov.ls/download/draft-artificial-intelligence-policy_1-0/,LSO,held,held as raw/2025/2025-01-21-lesotho-draft-ai-policy-implementation-plan.md,
 https://www.gov.ls/download/lesotho-national-digital-transformation-strategy-2024-2030/,LSO,held,held as raw/2024/2024-01-01 Lesotho National Digital Transformation Strategy - Agenda 2030.md,
 https://www.gov.ls/download/research-and-innovation-policy/,LSO,thin,366 chars,
 https://www.gov.na/documents/10181/18040/e-Gov+Strategic+Plan+for+the+Public+Service+2014+to+2018/cce8facc-309d-43cd-ab3d-e5ce714eaf69,NAM,unfetchable,ConnectTimeout; Wayback ConnectionError,
-https://www.gov.sz/images/Commerce-Service.pdf,SWZ,unfetchable,ConnectionError; Wayback ConnectionError,
-https://www.gov.sz/index.php/component/content/article/417-treasury-and-stores-department?Itemid=422,SWZ,unfetchable,ConnectionError; Wayback ConnectionError,
-https://www.gov.sz/index.php/component/content/article/480-renewable-energy?Itemid=361,SWZ,unfetchable,ConnectionError; Wayback ConnectionError,
-https://www.gov.sz/index.php/ministries-departments/ministry-of-finance/treasury-a-stores,SWZ,unfetchable,ConnectionError; Wayback ConnectionError,
-https://www.gov.za/sites/default/files/gcis_document/201409/dstnanotech180120060.pdf,ZAF,staged,source,8
-https://www.gov.za/sites/default/files/gcis_document/201409/fosspolicy0.pdf,ZAF,staged,source,8
-https://www.gov.za/sites/default/files/gcis_document/201711/41241gen886.pdf,ZAF,staged,source,8
-https://www.gov.za/sites/default/files/gcis_document/202505/south-africas-roadmap-digital-transformation-government.pdf,ZAF,staged,source,8
+https://www.gov.sz/images/Commerce-Service.pdf,SWZ,unfetchable,ConnectTimeout; Wayback ConnectionError,
+https://www.gov.sz/index.php/component/content/article/417-treasury-and-stores-department?Itemid=422,SWZ,staged,metadata,4
+https://www.gov.sz/index.php/component/content/article/480-renewable-energy?Itemid=361,SWZ,staged,metadata,4
+https://www.gov.sz/index.php/ministries-departments/ministry-of-finance/treasury-a-stores,SWZ,staged,metadata,13
+https://www.gov.za/sites/default/files/gcis_document/201409/dstnanotech180120060.pdf,ZAF,staged,metadata,10
+https://www.gov.za/sites/default/files/gcis_document/201409/fosspolicy0.pdf,ZAF,staged,metadata,10
+https://www.gov.za/sites/default/files/gcis_document/201711/41241gen886.pdf,ZAF,staged,metadata,10
+https://www.gov.za/sites/default/files/gcis_document/202505/south-africas-roadmap-digital-transformation-government.pdf,ZAF,staged,metadata,10
 https://www.govca.rw/download/PKI_GUIDELINES.pdf,RWA,unfetchable,empty extraction; no usable Wayback capture,
 https://www.governo.cv/documentos/estrategia-para-governacao-digital-de-cabo-verde/,CPV,held,held as raw/2021/2021-01-01-cpv-estrategia-para-a-governacao-digital-de-cabo-verde.md,
-https://www.govstack.global/news/realizing-govstack-the-egyptian-journey/,EGY,staged,source,3
-https://www.govstack.global/showcase/digital-leaders-spotlight-egypt/,EGY,staged,source,3
-https://www.graphic.com.gh/business/business-news/treasury-single-account-legalised-under-new-pfm-act.html,GHA,staged,source,4
+https://www.govstack.global/news/realizing-govstack-the-egyptian-journey/,EGY,staged,metadata,3
+https://www.govstack.global/showcase/digital-leaders-spotlight-egypt/,EGY,staged,metadata,3
+https://www.graphic.com.gh/business/business-news/treasury-single-account-legalised-under-new-pfm-act.html,GHA,staged,metadata,4
 https://www.greenpolicyplatform.org/sites/default/files/downloads/policy-database/KENYA)%20Improving%20Efficiency%20in%20Forestry%20Operations%20and%20Forest%20Product%20Processing%20in%20Keyna_0.pdf,KEN,unfetchable,HTTP 403; Wayback ConnectionError,
-https://www.guineaecuatorialpress.com/noticias/el_senado_aprueba_la_creacion_de_la_cuenta_unica_del_tesoro,GNQ,staged,source,3
+https://www.guineaecuatorialpress.com/noticias/el_senado_aprueba_la_creacion_de_la_cuenta_unica_del_tesoro,GNQ,staged,metadata,4
 https://www.ict.go.ke/wp-content/uploads/2019/07/blockchain.pdf,KEN,unfetchable,ConnectionError; Wayback ConnectionError,
 https://www.ict.go.ke/wp-content/uploads/2019/12/NATIONAL-ICT-POLICY-2019.pdf,KEN,unfetchable,ConnectionError; Wayback ConnectionError,
 https://www.ict.go.ug/wp-content/uploads/2018/06/Open-Data-Policy-First-Draft-vX.pdf,UGA,unfetchable,HTTP 404; Wayback ConnectionError,
-https://www.ictministry.gov.zw/assets/documents/National%20ICT%20Policy%202022-2027.pdf,ZWE,unfetchable,HTTP 404; Wayback ConnectionError,
+https://www.ictministry.gov.zw/assets/documents/National%20ICT%20Policy%202022-2027.pdf,ZWE,staged,metadata,12
 https://www.ictministry.gov.zw/assets/documents/Smart%20Zimbabwe%202030%20Master%20Plan.pdf,ZWE,held,held as raw/2019/2019-01-01-smart-zimbabwe-2030-master-plan.md,
-https://www.iiardjournals.org/abstract.php?j=IJSSMR&pn=The%20Effect%20of%20Automated%20Customs%20Clearance%20Systems%20on%20Enhancing%20%20Trade%20Efficiency%20in%20Tanzania&id=55441,TZA,undated,,
+https://www.iiardjournals.org/abstract.php?j=IJSSMR&pn=The%20Effect%20of%20Automated%20Customs%20Clearance%20Systems%20on%20Enhancing%20%20Trade%20Efficiency%20in%20Tanzania&id=55441,TZA,staged,metadata,10
 https://www.imf.org/external/pubs/ft/scr/2014/cr14203.pdf,SDN,unfetchable,HTTP 403; Wayback ConnectionError,
 https://www.impots.bj/documentations/68577ed6-d669-4f27-8c91-aa2dd1572504/statistiques,BEN,unfetchable,empty extraction; no usable Wayback capture,
-https://www.inage.gov.mz/wp-content/uploads/2018/07/Politica_para_Sociedade_da_Informacao.pdf,MOZ,staged,path,12
-https://www.inderscience.com/info/inarticle.php?artid=140788,UGA,staged,source,10
-https://www.ine.gov.ao/publicacoes/detalhes/MzgzMzM%3D?utm_source=chatgpt.com,AGO,undated,,
-https://www.infocom.sc/wp-content/uploads/2021/12/Statistical-Report-July-2018-Dec-2020.pdf,SYC,staged,path,8
+https://www.inage.gov.mz/wp-content/uploads/2018/07/Politica_para_Sociedade_da_Informacao.pdf,MOZ,staged,path,7
+https://www.inderscience.com/info/inarticle.php?artid=140788,UGA,staged,metadata,12
+https://www.ine.gov.ao/publicacoes/detalhes/MzgzMzM%3D?utm_source=chatgpt.com,AGO,staged,metadata,1
+https://www.infocom.sc/wp-content/uploads/2021/12/Statistical-Report-July-2018-Dec-2020.pdf,SYC,staged,path,9
 https://www.infocom.sc/wp-content/uploads/2022/10/ACT-4-Access-to-Information-2018.pdf,SYC,unfetchable,empty extraction; Wayback ConnectionError,
 https://www.inpdp.tn/ressources/loi_2004.pdf,TUN,unfetchable,ConnectionError; Wayback ConnectionError,
 https://www.intic.gov.mz/wp-content/uploads/2021/04/BR_188_I_SERIE_2017.pdf,MOZ,held,held as raw/2017/2017-12-01-regulamento-quadro-interoperabilidade-governo-electronico-decreto-67-2017.md,
 https://www.intic.gov.mz/wp-content/uploads/2021/04/BR_199_I_SERIE_2019.pdf,MOZ,held,held as raw/2019/2019-10-16-plano-estrategico-sociedade-informacao-2019-2028.md,
-https://www.intic.gov.mz/wp-content/uploads/2024/05/Draft-001_Lei-Lei-Protecao-de-Dados-V-26-de-Abril-Publicacao.docx,MOZ,staged,path,6
-https://www.joradp.dz/FTP/JO-FRANCAIS/2018/F2018039.pdf?znjo=39,DZA,staged,source,1
-https://www.joradp.dz/FTP/JO-FRANCAIS/2019/F2019063.pdf,DZA,staged,source,1
-https://www.joradp.dz/FTP/JO-FRANCAIS/2023/F2023056.pdf,DZA,staged,source,1
+https://www.intic.gov.mz/wp-content/uploads/2024/05/Draft-001_Lei-Lei-Protecao-de-Dados-V-26-de-Abril-Publicacao.docx,MOZ,staged,path,7
+https://www.joradp.dz/FTP/JO-FRANCAIS/2018/F2018039.pdf?znjo=39,DZA,staged,metadata,1
+https://www.joradp.dz/FTP/JO-FRANCAIS/2019/F2019063.pdf,DZA,staged,metadata,1
+https://www.joradp.dz/FTP/JO-FRANCAIS/2023/F2023056.pdf,DZA,staged,metadata,1
 https://www.joradp.dz/FTP/jo-francais/2021/F2021100.pdf,DZA,held,held as raw/2021/2021-12-30-dz-joradp-loi-21-16-lf2022-jibayatic.md,
-https://www.justice.gov.za/legislation/acts/1982-084.pdf,ZAF,staged,source,8
-https://www.klrc.go.ke/index.php/constitution-of-kenya/146-chapter-twelve-public-finance/148-part-2-other-public-funds/375-206-consolidated-fund-and-other-public-funds,KEN,staged,source,4
+https://www.justice.gov.za/legislation/acts/1982-084.pdf,ZAF,staged,metadata,10
+https://www.klrc.go.ke/index.php/constitution-of-kenya/146-chapter-twelve-public-finance/148-part-2-other-public-funds/375-206-consolidated-fund-and-other-public-funds,KEN,staged,metadata,5
 https://www.kra.go.ke/business/etims-electronic-tax-invoice-management-system/learn-about-etims/what-is-etims,KEN,unfetchable,ConnectionError; Wayback ConnectionError,
 https://www.lac.org.na/laws/2022/7986.pdf,NAM,held,held as raw/2022/2022-12-28-namibia-access-to-information-act-8-of-2022.md,
 https://www.leaders.com.tn/article/36651-ia-une-strategie-nationale-tunisienne-sera-soumise-a-une-large-consultation-fin-fevrier,TUN,held,held as raw/2025/2025-02-06-tun-ia-une-strategie-nationale-tunisienne-sera-soumise-a-une-large-consult.md,
 https://www.leganet.cd/Legislation/Droit%20economique/Societes/OL.22.30.08.09.2022.html,COD,unfetchable,SSLError; Wayback ConnectionError,
-https://www.lesothotenders.com/tender/consultancy-services-development-government-lesotho-enterprise-architecture-glea-and-e-government-6374b1c.php,LSO,staged,source,4
-https://www.linkedin.com/pulse/ai-regulation-tanzania-time-action-now-sunday-ndamugoba-esq-rc6pf/,TZA,undated,,
-https://www.livrobranco.gov.ao/lb_version/Proposta%20LB%2019-22.pdf,AGO,unfetchable,HTTP 404; Wayback ConnectionError,
-https://www.malawi.gov.mw/index.php/proud/thuwala/candis,MWI,unfetchable,HTTP 404; no usable Wayback capture,
+https://www.lesothotenders.com/tender/consultancy-services-development-government-lesotho-enterprise-architecture-glea-and-e-government-6374b1c.php,LSO,staged,metadata,5
+https://www.linkedin.com/pulse/ai-regulation-tanzania-time-action-now-sunday-ndamugoba-esq-rc6pf/,TZA,staged,metadata,11
+https://www.livrobranco.gov.ao/lb_version/Proposta%20LB%2019-22.pdf,AGO,staged,metadata,1
+https://www.malawi.gov.mw/index.php/proud/thuwala/candis,MWI,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.mapsinitiative.org//content/dam/maps-initiative/en/assessments/tanzania/maps-assessment-tanzania-main-report-en.pdf,TZA,unfetchable,HTTP 403; no usable Wayback capture,
 https://www.maptss.gov.ao/2025/02/19/centros-de-emprego-intermediaram-mais-de-100-mil-ofertas-de-trabalho-no-ano-passado/?utm_source=chatgpt.com,AGO,staged,path,1
-https://www.mawasiliano.go.tz/pages/completed-project,TZA,staged,source,9
-https://www.mcit.gov.eg/en/Artificial_Intelligence,EGY,staged,source,2
+https://www.mawasiliano.go.tz/pages/completed-project,TZA,staged,metadata,10
+https://www.mcit.gov.eg/en/Artificial_Intelligence,EGY,staged,metadata,3
 https://www.mcit.gov.eg/en/Digital_Government,EGY,held,held as raw/2026/2026-01-01-mcit-digital-government-digital-transformation.md,
-https://www.mcit.gov.eg/en/Human_Capacity/MCIT,EGY,staged,source,3
-https://www.mcit.gov.eg/en/ICT_Industry_Development/Business_Setup,EGY,staged,source,3
+https://www.mcit.gov.eg/en/Human_Capacity/MCIT,EGY,staged,metadata,3
+https://www.mcit.gov.eg/en/ICT_Industry_Development/Business_Setup,EGY,staged,metadata,3
 https://www.mcit.gov.eg/en/ICT_Strategy,EGY,held,held as raw/2026/2026-01-01-egy-mcit-ict-strategy-page-publications-en.md,
-https://www.mcit.gov.eg/en/Innovation//Build_Your_Talent,EGY,staged,source,3
-https://www.mcit.gov.eg/en/Publication/Publication_Summary/857,EGY,staged,source,2
+https://www.mcit.gov.eg/en/Innovation//Build_Your_Talent,EGY,staged,metadata,3
+https://www.mcit.gov.eg/en/Publication/Publication_Summary/857,EGY,staged,metadata,3
 https://www.mdenp.gov.bf/fileadmin/user_upload/storages/documents/Strategie_Nationale_de_Developpment_de_l_Economie_Numerique_2018-2020.pdf,BFA,unfetchable,ConnectionError; Wayback ConnectionError,
 https://www.mdenp.gov.bf/fileadmin/user_upload/storages/documents/UNCDF_-_Plan_de_Renforcement_de_Lexpertise_Numerique_-_V2.pdf,BFA,unfetchable,ConnectionError; Wayback ConnectionError,
-https://www.mef.gov.gn/index.php/directions/dn/direction-nationale-du-tresor-et-de-la-comptabilite-publique,GIN,unfetchable,HTTP 404; no usable Wayback capture,
-https://www.mef.gov.gn/wp-content/uploads/2022/08/SDMT-2022-2026-revue-2507221.pdf,GIN,staged,path,4
+https://www.mef.gov.gn/index.php/directions/dn/direction-nationale-du-tresor-et-de-la-comptabilite-publique,GIN,unfetchable,HTTP 404; Wayback ConnectionError,
+https://www.mef.gov.gn/wp-content/uploads/2022/08/SDMT-2022-2026-revue-2507221.pdf,GIN,staged,path,5
 https://www.mesrs.dz/index.php/fr/2023/06/installation-du-conseil-scientifique-de-lintelligence-artificielle/,DZA,staged,path,1
-https://www.mf.gov.cv/documents/89129/1436520/Proposta+de+Lei+que+aprova+o+Regime+de+Acesso+e+Reutiliza%C3%A7%C3%A3o+de+Documentos+e+Informa%C3%A7%C3%B5es+Administrativas.pdf/04c6a890-87b2-1654-0fc3-4e1f0494785e?t=1646922461279,CPV,staged,source,2
+https://www.mf.gov.cv/documents/89129/1436520/Proposta+de+Lei+que+aprova+o+Regime+de+Acesso+e+Reutiliza%C3%A7%C3%A3o+de+Documentos+e+Informa%C3%A7%C3%B5es+Administrativas.pdf/04c6a890-87b2-1654-0fc3-4e1f0494785e?t=1646922461279,CPV,staged,metadata,2
 https://www.mf.gov.cv/documents/89129/2603159/Decreto-Regulamentar+n%C2%BA+5_2004+de+27+de+Setembro.pdf,CPV,unfetchable,HTTP 404; no usable Wayback capture,
-https://www.mf.gov.cv/documents/92878/122657/7.BO+n%C2%BA+20+Novo+Regime+Juridico+da+Tesouraria+do+Estado.pdf/92cf3cc7-7f64-1d25-dab1-12e3ded39ce5?t=1552995995858,CPV,staged,source,1
-https://www.mf.gov.cv/web/dgt/documentac%C3%A3o,CPV,staged,source,1
+https://www.mf.gov.cv/documents/92878/122657/7.BO+n%C2%BA+20+Novo+Regime+Juridico+da+Tesouraria+do+Estado.pdf/92cf3cc7-7f64-1d25-dab1-12e3ded39ce5?t=1552995995858,CPV,staged,metadata,2
+https://www.mf.gov.cv/web/dgt/documentac%C3%A3o,CPV,listing,Navigation Menu,
 https://www.mf.gov.cv/web/dnocp,CPV,thin,290 chars,
-https://www.mf.gov.cv/web/ecompras/legisla%C3%A7%C3%B5es,CPV,staged,source,1
-https://www.mf.gov.dz/index.php/fr/services-2/tresor,DZA,unfetchable,ConnectTimeout; Wayback ConnectionError,
-https://www.mifotra.gov.rw/1/mifotra-spiu,RWA,staged,source,7
-https://www.mifotra.gov.rw/integrated-payroll-and-personnel-information-system-ippis,RWA,staged,source,7
+https://www.mf.gov.cv/web/ecompras/legisla%C3%A7%C3%B5es,CPV,listing,Navigation Menu,
+https://www.mf.gov.dz/index.php/fr/services-2/tresor,DZA,staged,metadata,1
+https://www.mifotra.gov.rw/1/mifotra-spiu,RWA,staged,metadata,8
+https://www.mifotra.gov.rw/integrated-payroll-and-personnel-information-system-ippis,RWA,staged,metadata,8
 https://www.milie.ci/index.php?page=reclamation.Accueil,CIV,thin,154 chars,
-https://www.milie.ci/index.php?page=reclamation.Statistic,CIV,undated,,
-https://www.minecofin.gov.rw/1/accountant-general,RWA,staged,source,7
-https://www.minecofin.gov.rw/index.php?eID=dumpFile&t=f&f=127322&token=ed83d66baadd6c1b65814259112c9608393c4b46,RWA,undated,,
-https://www.minecofin.gov.rw/index.php?eID=dumpFile&t=f&f=15863&token=03ba2d1e5f4b2386c32f79ef882299dc26d0ffcc,RWA,staged,source,7
+https://www.milie.ci/index.php?page=reclamation.Statistic,CIV,staged,metadata,2
+https://www.minecofin.gov.rw/1/accountant-general,RWA,staged,metadata,8
+https://www.minecofin.gov.rw/index.php?eID=dumpFile&t=f&f=127322&token=ed83d66baadd6c1b65814259112c9608393c4b46,RWA,staged,metadata,8
+https://www.minecofin.gov.rw/index.php?eID=dumpFile&t=f&f=15863&token=03ba2d1e5f4b2386c32f79ef882299dc26d0ffcc,RWA,staged,metadata,9
 https://www.minfin.gov.ao/legislacoes/legislacao/2ec8eb59-7795-40ea-9584-9e32a91a459b,AGO,unfetchable,empty extraction; no usable Wayback capture,
-https://www.minict.gov.rw/index.php?eID=dumpFile&t=f&f=107417&token=6fe9f09b32c074900f09dd3f1095a8eed2551075,RWA,undated,,
-https://www.minict.gov.rw/index.php?eID=dumpFile&t=f&f=1113&token=6bd5df141510ec9655c37705edb3482d5b576058,RWA,staged,source,7
+https://www.minict.gov.rw/index.php?eID=dumpFile&t=f&f=107417&token=6fe9f09b32c074900f09dd3f1095a8eed2551075,RWA,staged,metadata,8
+https://www.minict.gov.rw/index.php?eID=dumpFile&t=f&f=1113&token=6bd5df141510ec9655c37705edb3482d5b576058,RWA,staged,metadata,8
 https://www.minict.gov.rw/index.php?eID=dumpFile&t=f&f=38794&token=74b679f3035bb39771564ee83aac03538b7d3d6d,RWA,unfetchable,HTTP 404; no usable Wayback capture,
-https://www.minict.gov.rw/index.php?eID=dumpFile&t=f&f=67550&token=6195a53203e197efa47592f40ff4aaf24579640e,RWA,staged,source,7
-https://www.minict.gov.rw/programs/innovation-emerging-technologies-directorate-general,RWA,staged,source,7
-https://www.minict.gov.rw/projects/digital-ambassadors-programme,RWA,staged,source,7
-https://www.mininfra.gov.rw/fileadmin/user_upload/Mininfra/Publications/Policies/Transport/NATIONAL_TRANSPORT_POLICY_AND_STRATEGY_APRIL_2021.pdf,RWA,undated,,
-https://www.minpostel.gov.cm/index.php/en/les-grands-chantiers/138-cameroon-digital-strategic-plan-2020,CMR,staged,source,2
-https://www.minpostel.gov.cm/index.php/fr/les-grands-chantiers/138-plan-strategique-cameroun-numerique-2020,CMR,staged,source,2
+https://www.minict.gov.rw/index.php?eID=dumpFile&t=f&f=67550&token=6195a53203e197efa47592f40ff4aaf24579640e,RWA,staged,metadata,8
+https://www.minict.gov.rw/programs/innovation-emerging-technologies-directorate-general,RWA,staged,metadata,8
+https://www.minict.gov.rw/projects/digital-ambassadors-programme,RWA,staged,metadata,8
+https://www.mininfra.gov.rw/fileadmin/user_upload/Mininfra/Publications/Policies/Transport/NATIONAL_TRANSPORT_POLICY_AND_STRATEGY_APRIL_2021.pdf,RWA,staged,metadata,8
+https://www.minpostel.gov.cm/index.php/en/les-grands-chantiers/138-cameroon-digital-strategic-plan-2020,CMR,staged,metadata,2
+https://www.minpostel.gov.cm/index.php/fr/les-grands-chantiers/138-plan-strategique-cameroun-numerique-2020,CMR,staged,metadata,2
 https://www.mit.go.tz/pages/blueprint-for-regulatory-reforms-to-improve-the-business-environment,TZA,unfetchable,HTTP 404; Wayback ConnectionError,
-https://www.mmegi.bw/business/govt-adopts-portal-to-speed-up-service-delivery/news,BWA,staged,source,1
-https://www.mmsp.gov.ma/ar,MAR,staged,source,6
+https://www.mmegi.bw/business/govt-adopts-portal-to-speed-up-service-delivery/news,BWA,staged,metadata,1
+https://www.mmsp.gov.ma/ar,MAR,staged,metadata,7
 https://www.mmsp.gov.ma/sites/default/files/2024-09/PlaquetteInstitutionnel_18092024_Ang.pdf,MAR,held,held as raw/2024/2024-09-18-maroc-digital-2030-plaquette-institutionnelle-en.md,
-https://www.mof.go.tz/announcements,TZA,undated,,
+https://www.mof.go.tz/announcements,TZA,staged,metadata,10
 https://www.mof.go.tz/mofdocs/msemaji/PFMRP%20IV%20Strategy.pdf,TZA,unfetchable,HTTP 404; Wayback ConnectionError,
-https://www.mof.go.tz/news/tanzania-yang-ara-uunganishaji-mfumo-wa-muse-na-cs-meridian,TZA,staged,source,9
-https://www.mofed.gov.et/media/filer_public/64/f9/64f9ce7b-b35b-4ead-a5c2-1dc98d07ec48/directive_no_1073_2025_federal_government_public_procurement_directive.pdf,ETH,unfetchable,SSLError; Wayback ConnectionError,
-https://www.mofed.gov.et/media/filer_public/74/fe/74fee140-1e7a-49ec-a091-b402b2ba8647/265_yafeedeeraale_manegeszete_ganezabe_kefeyaa_mamariyaa_quthere_203-2013_maashaashaayaa_mamariyaa_quthere_265-2013.pdf,ETH,staged,source,12
-https://www.mofep.gov.gh/sites/default/files/acts/PUBLIC-FINANCIAL-MANAGEMENT-ACT-2016.pdf,GHA,staged,source,4
-https://www.mor.gov.et/how-to-efiling,ETH,unfetchable,ConnectionError; no usable Wayback capture,
+https://www.mof.go.tz/news/tanzania-yang-ara-uunganishaji-mfumo-wa-muse-na-cs-meridian,TZA,staged,metadata,10
+https://www.mofed.gov.et/media/filer_public/64/f9/64f9ce7b-b35b-4ead-a5c2-1dc98d07ec48/directive_no_1073_2025_federal_government_public_procurement_directive.pdf,ETH,staged,metadata,4
+https://www.mofed.gov.et/media/filer_public/74/fe/74fee140-1e7a-49ec-a091-b402b2ba8647/265_yafeedeeraale_manegeszete_ganezabe_kefeyaa_mamariyaa_quthere_203-2013_maashaashaayaa_mamariyaa_quthere_265-2013.pdf,ETH,unfetchable,SSLError; no usable Wayback capture,
+https://www.mofep.gov.gh/sites/default/files/acts/PUBLIC-FINANCIAL-MANAGEMENT-ACT-2016.pdf,GHA,staged,metadata,4
+https://www.mor.gov.et/how-to-efiling,ETH,unfetchable,SSLError; no usable Wayback capture,
 https://www.mots.gov.zm/wp-content/uploads/2023/10/National-Digital-Transformation-Strategy.pdf,ZMB,held,held as raw/2023/2023-10-12-national-digital-transformation-strategy-zambia.md,
-https://www.mots.gov.zm/wp-content/uploads/2025/02/Zambia-Ai-Strategy-Book-option-2.pdf,ZMB,unfetchable,SSLError; Wayback ConnectionError,
-https://www.mra.mu/download/AnnualReport22-23.pdf,MUS,undated,,
-https://www.mra.mu/download/MauritiusTRS.pdf,MUS,undated,,
-https://www.mra.mu/download/eNewsOct2024.pdf,MUS,staged,source,6
-https://www.mra.mu/index.php/customs1/more-topics/customs,MUS,staged,source,6
-https://www.mra.mu/index.php/e-services,MUS,staged,source,5
-https://www.mra.mu/index.php/eservices1/customs,MUS,staged,source,5
-https://www.mric.mu/innovation-and-commercialisation-schemes,MUS,staged,source,5
+https://www.mots.gov.zm/wp-content/uploads/2025/02/Zambia-Ai-Strategy-Book-option-2.pdf,ZMB,staged,path,12
+https://www.mra.mu/download/AnnualReport22-23.pdf,MUS,staged,metadata,6
+https://www.mra.mu/download/MauritiusTRS.pdf,MUS,staged,metadata,6
+https://www.mra.mu/download/eNewsOct2024.pdf,MUS,staged,metadata,6
+https://www.mra.mu/index.php/customs1/more-topics/customs,MUS,staged,metadata,6
+https://www.mra.mu/index.php/e-services,MUS,staged,metadata,6
+https://www.mra.mu/index.php/eservices1/customs,MUS,staged,metadata,6
+https://www.mric.mu/innovation-and-commercialisation-schemes,MUS,staged,metadata,6
 https://www.mric.mu/national-sme-inubator-scheme,MUS,held,held as raw/2024/2024-10-01-mus-mric-national-sme-incubator-scheme.md,
 https://www.mtc.gov.tn/fileadmin//user_upload/Decret2020_777.pdf,TUN,unfetchable,ConnectionError; no usable Wayback capture,
-https://www.mtc.gov.tn/fileadmin/user_upload/Avis_appel_offres/2021/CADRE_DE_GESTION_ENVIRONNEMENTALE_ET_SOCIALE.pdf,TUN,staged,source,10
-https://www.mtc.gov.tn/fileadmin/user_upload/PAP_Mission_TC__2022_-_Edition_Fr.pdf,TUN,unfetchable,ConnectionError; Wayback ConnectionError,
-https://www.mtc.gov.tn/index.php?id=131,TUN,unfetchable,ConnectionError; Wayback ConnectionError,
+https://www.mtc.gov.tn/fileadmin/user_upload/Avis_appel_offres/2021/CADRE_DE_GESTION_ENVIRONNEMENTALE_ET_SOCIALE.pdf,TUN,unfetchable,ConnectionError; no usable Wayback capture,
+https://www.mtc.gov.tn/fileadmin/user_upload/PAP_Mission_TC__2022_-_Edition_Fr.pdf,TUN,staged,metadata,13
+https://www.mtc.gov.tn/index.php?id=131,TUN,unfetchable,ConnectionError; no usable Wayback capture,
 https://www.mtc.gov.tn/index.php?id=14&L=0,TUN,unfetchable,ConnectionError; Wayback ConnectionError,
 https://www.mtc.gov.tn/index.php?id=14&L=0%5C%5C%5C%5C%5C%5C%5C,TUN,unfetchable,ConnectionError; no usable Wayback capture,
-https://www.mtc.gov.tn/index.php?id=522,TUN,staged,source,10
+https://www.mtc.gov.tn/index.php?id=522,TUN,listing,ACCUEIL/Tunisie Digitale 2020/GOVTech,
 https://www.mtcen.gov.tn/index.php?id=14&L=1,TUN,unfetchable,ConnectTimeout; no usable Wayback capture,
 https://www.mtcen.gov.tn/index.php?id=291&L=3&tx_ttnews[tt_news]=999,TUN,unfetchable,ConnectTimeout; no usable Wayback capture,
 https://www.mtic.go.ug/download/buy-uganda-build-uganda-policy/,UGA,thin,270 chars,
-https://www.mtic.go.ug/wp-content/uploads/2019/09/MSME-Policy-Booklet.pdf,UGA,staged,path,10
-https://www.mubasher.info/news/4210671/%D9%85%D8%B5%D8%B1-%D9%85%D9%8A%D9%83%D9%86%D8%A9-%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B1%D9%83-%D8%B3%D8%A7%D9%87%D9%85-%D9%81%D9%8A-%D8%AA%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D9%84%D9%84%D8%A8%D8%B6%D8%A7%D8%A6%D8%B9/,EGY,staged,source,3
+https://www.mtic.go.ug/wp-content/uploads/2019/09/MSME-Policy-Booklet.pdf,UGA,staged,path,12
+https://www.mubasher.info/news/4210671/%D9%85%D8%B5%D8%B1-%D9%85%D9%8A%D9%83%D9%86%D8%A9-%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B1%D9%83-%D8%B3%D8%A7%D9%87%D9%85-%D9%81%D9%8A-%D8%AA%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D9%84%D9%84%D8%A8%D8%B6%D8%A7%D8%A6%D8%B9/,EGY,staged,metadata,3
 https://www.nadpa-rapdp.org/sites/default/files/2020-11/Law_3_2016_protection_of_personal_data.pdf,STP,unfetchable,SSLError; Wayback ConnectionError,
-https://www.nation.sc/archive/255827/launch-of-first-science-technology-and-innovation-sti-policy-and-strategy-document,SYC,staged,source,8
-https://www.ncst.gov.rw/index.php?eID=dumpFile&t=f&f=25653&token=d6f1aeb0bb872e3c6792c0e26ac9318b77b72b0e,RWA,staged,source,7
+https://www.nation.sc/archive/255827/launch-of-first-science-technology-and-innovation-sti-policy-and-strategy-document,SYC,staged,metadata,9
+https://www.ncst.gov.rw/index.php?eID=dumpFile&t=f&f=25653&token=d6f1aeb0bb872e3c6792c0e26ac9318b77b72b0e,RWA,staged,metadata,9
 https://www.nita.go.ug/UgHub,UGA,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.nita.go.ug/nita/nita-u-strategic-plan-fy-2018-23,UGA,unfetchable,HTTP 404; Wayback ConnectionError,
-https://www.nita.go.ug/node/237,UGA,staged,source,10
-https://www.nita.go.ug/node/257,UGA,undated,,
+https://www.nita.go.ug/node/237,UGA,staged,metadata,13
+https://www.nita.go.ug/node/257,UGA,staged,metadata,11
 https://www.nita.go.ug/projects-service-portfolio/uganda-e-government-interoperability-framework-e-gif,UGA,unfetchable,HTTP 404; Wayback ConnectionError,
-https://www.nita.go.ug/projects-service-portfolio/uganda-enterprise-architecture-and-interoperability-framework,UGA,unfetchable,HTTP 404; Wayback ConnectionError,
+https://www.nita.go.ug/projects-service-portfolio/uganda-enterprise-architecture-and-interoperability-framework,UGA,unfetchable,HTTP 404; no usable Wayback capture,
 https://www.nita.go.ug/service/capacity-development-and-skilling,UGA,unfetchable,HTTP 404; Wayback ConnectionError,
-https://www.nita.go.ug/sites/default/files/2022-01/The%20Cloud%20Computing%20Guidelines%20for%20GoU.pdf,UGA,staged,path,10
+https://www.nita.go.ug/sites/default/files/2022-01/The%20Cloud%20Computing%20Guidelines%20for%20GoU.pdf,UGA,unfetchable,HTTP 404; no usable Wayback capture,
 https://www.nita.go.ug/sites/default/files/2022-02/Digital%20Government%20Strategy%20-%20Draft.pdf,UGA,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.nita.go.ug/sites/default/files/2023-03/e-GIF.pdf,UGA,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.nita.go.ug/sites/default/files/2024-04/2023%20NITA-U%20STATISTICAL%20ABSTRACT-FINAL.pdf,UGA,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.nita.go.ug/sites/default/files/FINAL%20NITA-U%20STRATEGIC%20PLAN%20FY%202018-23.pdf,UGA,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.nita.go.ug/sites/default/files/procurement/ToRs%20for%20Enterprise%20Architect.pdf,UGA,unfetchable,HTTP 404; no usable Wayback capture,
-https://www.nita.go.ug/ughub,UGA,staged,source,10
-https://www.nita.go.ug/ugpass,UGA,undated,,
-https://www.nosi.cv/en/-/webhosting,CPV,staged,source,2
-https://www.nra.gov.sl/asycudaworld,SLE,unfetchable,SSLError; Wayback ConnectionError,
-https://www.nssa.org.zw/wp-content/uploads/2023/12/NSSA-2021-ANNUAL-STATISTICAL-REPORT.pdf,ZWE,staged,path,11
-https://www.numerique.cd/pnn/pnn/Plan_National_du_Nume%CC%81rique_HORIZON_2025.pdf,COD,unfetchable,HTTP 404; no usable Wayback capture,
+https://www.nita.go.ug/ughub,UGA,staged,metadata,12
+https://www.nita.go.ug/ugpass,UGA,staged,metadata,12
+https://www.nosi.cv/en/-/webhosting,CPV,staged,metadata,2
+https://www.nra.gov.sl/asycudaworld,SLE,staged,metadata,9
+https://www.nssa.org.zw/wp-content/uploads/2023/12/NSSA-2021-ANNUAL-STATISTICAL-REPORT.pdf,ZWE,staged,path,12
+https://www.numerique.cd/pnn/pnn/Plan_National_du_Nume%CC%81rique_HORIZON_2025.pdf,COD,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.obr.bi/index.php/rapports,BDI,thin,301 chars,
 https://www.odpc.go.ke/Data,KEN,error-page,We apologize for the inconvenience...,
 https://www.odpc.go.ke/data-protection-compliance/,KEN,error-page,We apologize for the inconvenience...,
 https://www.odpc.go.ke/data-protection-laws-kenya/,KEN,error-page,We apologize for the inconvenience...,
 https://www.odpc.go.ke/dpa-act/,KEN,error-page,We apologize for the inconvenience...,
-https://www.oecd.ai/dashboards/policy-initiatives/2019-data-policyInitiatives-26476,EGY,staged,source,2
+https://www.oecd.ai/dashboards/policy-initiatives/2019-data-policyInitiatives-26476,EGY,staged,metadata,3
 https://www.oecd.org/content/dam/oecd/fr/publications/reports/2018/07/digital-government-review-of-morocco_g1g8d20f/9789264299917-fr.pdf,MAR,held,held as raw/2018/2018-07-01-oecd-revue-gouvernement-numerique-maroc.md,
 https://www.oecd.org/derec/afdb/malawi.pdf,MWI,unfetchable,HTTP 403; Wayback ConnectionError,
-https://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=DCD/DAC/RD%282015%2915/RD2&docLanguage=En,GNB,unfetchable,HTTP 403; Wayback ConnectionError,
-https://www.opengovpartnership.org/members/ghana/,GHA,undated,,
-https://www.opengovpartnership.org/members/kenya/,KEN,undated,,
-https://www.oracle.com/applications/ebusiness/,NAM,staged,source,6
+https://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=DCD/DAC/RD%282015%2915/RD2&docLanguage=En,GNB,unfetchable,HTTP 403; no usable Wayback capture,
+https://www.opengovpartnership.org/members/ghana/,GHA,staged,metadata,4
+https://www.opengovpartnership.org/members/kenya/,KEN,staged,metadata,5
+https://www.oracle.com/applications/ebusiness/,NAM,staged,metadata,7
 https://www.osim.gov.mz/publicacoes/PCTI-2024-2033-BR_142_I_SERIE_2024.pdf,MOZ,unfetchable,ConnectionError; no usable Wayback capture,
 https://www.otr.tg/index.php/fr/documentation/rapports-de-performance-otr.html,TGO,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.parliament.gov.bw/images/constitution.pdf,BWA,unfetchable,HTTP 503; Wayback ConnectionError,
 https://www.parliament.gov.zm/node/11547,ZMB,unfetchable,SSLError; Wayback ConnectionError,
-https://www.parliament.gov.zm/sites/default/files/documents/acts/The%20Public%20Finance%20Management%20ACT%202018.pdf,ZMB,staged,source,10
-https://www.parlzim.gov.zw/acts-list/download/556_a8b3fae7eb70a0ea6b924e759894986a,ZWE,unfetchable,HTTP 403; Wayback ConnectionError,
-https://www.pdpc.go.tz/en/media-centre/news-updates/,TZA,staged,source,9
-https://www.pdpc.go.tz/en/policies-legislations/acts/,TZA,unfetchable,SSLError; Wayback ConnectionError,
+https://www.parliament.gov.zm/sites/default/files/documents/acts/The%20Public%20Finance%20Management%20ACT%202018.pdf,ZMB,staged,metadata,12
+https://www.parlzim.gov.zw/acts-list/download/556_a8b3fae7eb70a0ea6b924e759894986a,ZWE,staged,metadata,12
+https://www.pdpc.go.tz/en/media-centre/news-updates/,TZA,unfetchable,SSLError; Wayback ConnectionError,
+https://www.pdpc.go.tz/en/policies-legislations/acts/,TZA,staged,metadata,13
 https://www.pdpc.go.tz/en/reports/,TZA,unfetchable,SSLError; Wayback ConnectionError,
 https://www.pdpo.go.ug/home,UGA,unfetchable,empty extraction; Wayback ConnectionError,
-https://www.pdpo.go.ug/information-center/resources,UGA,unfetchable,empty extraction; Wayback ConnectionError,
-https://www.pefa.org/node/596,MAR,unfetchable,HTTP 403; Wayback ConnectionError,
-https://www.portaldogoverno.gov.mz/por/content/download/2415/20819/version/1/file/eGIF4M+v1+1web.pdf,MOZ,staged,source,12
+https://www.pdpo.go.ug/information-center/resources,UGA,unfetchable,empty extraction; no usable Wayback capture,
+https://www.pefa.org/node/596,MAR,staged,metadata,7
+https://www.portaldogoverno.gov.mz/por/content/download/2415/20819/version/1/file/eGIF4M+v1+1web.pdf,MOZ,staged,metadata,7
 https://www.potraz.gov.zw/wp-content/uploads/2022/02/Data-Protection-Act-5-of-2021.pdf,ZWE,staged,path,12
-https://www.ppra.go.tz/publications/revised-guideline-for-special-groups-oct-2025,TZA,staged,source,9
+https://www.ppra.go.tz/publications/revised-guideline-for-special-groups-oct-2025,TZA,staged,metadata,11
 https://www.presidence.sn/en/actualites/new-deal-technologique-a-national-ambition-to-make-senegal-a-leader-in-the-digital-economy-in-africa-1,SEN,held,held as raw/2025/2025-02-24-sen-new-deal-technologique-a-national-ambition-to-make-senegal-a-leader-in.md,
 https://www.pwc.co.tz/press-room/electronic-filing-the-future-is-here.html,TZA,unfetchable,HTTP 403; Wayback ConnectionError,
-https://www.rbz.co.zw/index.php/public-awareness/1063-payment-systems-infrastructure-in-zimbabwe,ZWE,unfetchable,ConnectionError; Wayback ConnectionError,
-https://www.refworld.org/docid/4ba7a6bf2.html,ETH,unfetchable,HTTP 403; Wayback ConnectionError,
-https://www.repoa.or.tz/wp-content/uploads/2020/07/10-5%20%20WEB.pdf,TZA,staged,path,9
+https://www.rbz.co.zw/index.php/public-awareness/1063-payment-systems-infrastructure-in-zimbabwe,ZWE,error-page,We apologize for the inconvenience...,
+https://www.refworld.org/docid/4ba7a6bf2.html,ETH,staged,metadata,4
+https://www.repoa.or.tz/wp-content/uploads/2020/07/10-5%20%20WEB.pdf,TZA,staged,path,10
 https://www.repository.mu/mrc/,MUS,unfetchable,empty extraction; no usable Wayback capture,
-https://www.rgb.rw/fileadmin/user_upload/RGB/Publications/LAWS_AND_REGULATIONS/LAW_ACCESS_TO_INFORMATION-08-02-2013.pdf,RWA,staged,source,7
-https://www.rgb.rw/fileadmin/user_upload/RGB/Publications/RWANDA_GOVERNANCE_SCORECARD-RGS/RGS_11th_Edition.pdf,RWA,staged,source,7
-https://www.rgb.rw/index.php?eID=dumpFile&t=f&f=111819&token=7e1f2aee0c950090a60476c22930056c8aa65dd6,RWA,undated,,
-https://www.rgb.rw/publications,RWA,undated,,
-https://www.rgb.rw/publications/citizen-report-card,RWA,undated,,
+https://www.rgb.rw/fileadmin/user_upload/RGB/Publications/LAWS_AND_REGULATIONS/LAW_ACCESS_TO_INFORMATION-08-02-2013.pdf,RWA,staged,metadata,8
+https://www.rgb.rw/fileadmin/user_upload/RGB/Publications/RWANDA_GOVERNANCE_SCORECARD-RGS/RGS_11th_Edition.pdf,RWA,staged,metadata,8
+https://www.rgb.rw/index.php?eID=dumpFile&t=f&f=111819&token=7e1f2aee0c950090a60476c22930056c8aa65dd6,RWA,staged,metadata,8
+https://www.rgb.rw/publications,RWA,staged,metadata,8
+https://www.rgb.rw/publications/citizen-report-card,RWA,staged,metadata,8
 https://www.right2info.org/resources/publications/laws-1/guinea-ati-law-2010,GIN,unfetchable,ConnectTimeout; Wayback ConnectionError,
-https://www.risa.gov.rw/index.php?eID=dumpFile&t=f&f=144622&token=9708c8b8799787d3adc90a5055b9ce44e993c66f,RWA,staged,source,7
-https://www.risa.gov.rw/index.php?eID=dumpFile&t=f&f=65363&token=5adceb3b3e4c1e51069d1ab3335e3a6fbe2f4845,RWA,staged,source,7
-https://www.risa.gov.rw/index.php?eID=dumpFile&t=f&f=65364&token=d85912e21f403ed355112c53115e937921553fc8,RWA,staged,source,7
-https://www.risa.gov.rw/index.php?eID=dumpFile&t=f&f=65369&token=15e7fad700949646dd7c1faae89f9663048f4f92,RWA,staged,source,7
-https://www.risa.gov.rw/index.php?eID=dumpFile&t=f&f=65380&token=cdd7851201e38b7bf1ec611549b84c1174e735b8,RWA,staged,source,7
-https://www.risa.gov.rw/index.php?eID=dumpFile&t=f&f=68212&token=06963c574a010422cb925dd98781999d254d54fc,RWA,staged,source,7
-https://www.risa.gov.rw/projects,RWA,staged,source,7
-https://www.risa.gov.rw/projects/digital-ambassadors-program,RWA,staged,source,7
-https://www.risa.gov.rw/projects/hanga-hubs,RWA,staged,source,7
-https://www.risa.gov.rw/projects/rdap,RWA,staged,source,7
-https://www.risa.gov.rw/publications/strategies-and-guidelines,RWA,staged,source,7
+https://www.risa.gov.rw/index.php?eID=dumpFile&t=f&f=144622&token=9708c8b8799787d3adc90a5055b9ce44e993c66f,RWA,staged,metadata,8
+https://www.risa.gov.rw/index.php?eID=dumpFile&t=f&f=65363&token=5adceb3b3e4c1e51069d1ab3335e3a6fbe2f4845,RWA,staged,metadata,8
+https://www.risa.gov.rw/index.php?eID=dumpFile&t=f&f=65364&token=d85912e21f403ed355112c53115e937921553fc8,RWA,staged,metadata,8
+https://www.risa.gov.rw/index.php?eID=dumpFile&t=f&f=65369&token=15e7fad700949646dd7c1faae89f9663048f4f92,RWA,staged,metadata,8
+https://www.risa.gov.rw/index.php?eID=dumpFile&t=f&f=65380&token=cdd7851201e38b7bf1ec611549b84c1174e735b8,RWA,undated,,
+https://www.risa.gov.rw/index.php?eID=dumpFile&t=f&f=68212&token=06963c574a010422cb925dd98781999d254d54fc,RWA,staged,metadata,9
+https://www.risa.gov.rw/projects,RWA,staged,metadata,8
+https://www.risa.gov.rw/projects/digital-ambassadors-program,RWA,staged,metadata,8
+https://www.risa.gov.rw/projects/hanga-hubs,RWA,staged,metadata,9
+https://www.risa.gov.rw/projects/rdap,RWA,staged,metadata,9
+https://www.risa.gov.rw/publications/strategies-and-guidelines,RWA,staged,metadata,8
 https://www.risa.rw/fileadmin/user_upload/Enterprise_Architecture/GOR's%20EA%20Standards.pdf,RWA,unfetchable,ConnectTimeout; no usable Wayback capture,
-https://www.risa.rw/fileadmin/user_upload/Others%20documents/ICT4_GOV_CLUSTER_STRATEGY_2020-2024.pdf,RWA,staged,source,7
-https://www.risa.rw/home/,RWA,staged,source,7
-https://www.risa.rw/index.php?eID=dumpFile&t=f&f=177&token=42e90a02528bde48698e21dbeb40f48865502acb,RWA,staged,source,7
-https://www.risa.rw/index.php?eID=dumpFile&t=f&f=295&token=55fe50daa4a687792f68a260a11cde46c14bd163,RWA,staged,source,7
+https://www.risa.rw/fileadmin/user_upload/Others%20documents/ICT4_GOV_CLUSTER_STRATEGY_2020-2024.pdf,RWA,staged,metadata,8
+https://www.risa.rw/home/,RWA,staged,metadata,8
+https://www.risa.rw/index.php?eID=dumpFile&t=f&f=177&token=42e90a02528bde48698e21dbeb40f48865502acb,RWA,unfetchable,ConnectTimeout; Wayback ConnectionError,
+https://www.risa.rw/index.php?eID=dumpFile&t=f&f=295&token=55fe50daa4a687792f68a260a11cde46c14bd163,RWA,staged,metadata,8
 https://www.rppa.gov.rw/publications,RWA,thin,348 chars,
 https://www.rra.gov.rw/en/publications?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=793&cHash=7b7ad43895168d50a761e48888902c1d,RWA,thin,148 chars,
-https://www.rra.gov.rw/fileadmin/user_upload/RRA_Tax_Statistics_2023-2024.pdf,RWA,staged,source,7
-https://www.rra.gov.rw/index.php?id=6,RWA,unfetchable,HTTP 404; Wayback ConnectionError,
+https://www.rra.gov.rw/fileadmin/user_upload/RRA_Tax_Statistics_2023-2024.pdf,RWA,staged,metadata,8
+https://www.rra.gov.rw/index.php?id=6,RWA,undated,,
 https://www.rti-rating.org/wp-content/uploads/2018/09/Benin.Code-on-Info.Jan2015.pdf,BEN,staged,path,1
 https://www.rti-rating.org/wp-content/uploads/2018/09/Malawi-Access-to-Information-Act.Feb17.pdf,MWI,unfetchable,empty extraction; Wayback ConnectionError,
-https://www.rti-rating.org/wp-content/uploads/2018/09/Morocco.RTI_.Feb2018.French.Gazette.pdf,MAR,unfetchable,empty extraction; Wayback ConnectionError,
-https://www.rti-rating.org/wp-content/uploads/2018/09/Mozambique.RTI_.Dec2014.English.pdf,MOZ,staged,path,6
+https://www.rti-rating.org/wp-content/uploads/2018/09/Morocco.RTI_.Feb2018.French.Gazette.pdf,MAR,unfetchable,empty extraction; no usable Wayback capture,
+https://www.rti-rating.org/wp-content/uploads/2018/09/Mozambique.RTI_.Dec2014.English.pdf,MOZ,staged,path,7
 https://www.rti-rating.org/wp-content/uploads/2018/09/Seychelles.RTI_.July2018.pdf,SYC,unfetchable,empty extraction; no usable Wayback capture,
-https://www.rti-rating.org/wp-content/uploads/2018/09/South-Africa.foi_.2000.pdf,ZAF,staged,path,8
+https://www.rti-rating.org/wp-content/uploads/2018/09/South-Africa.foi_.2000.pdf,ZAF,staged,path,10
 https://www.rti-rating.org/wp-content/uploads/2018/09/South-Sudan.RTI_.2013.pdf,SSD,unfetchable,empty extraction; Wayback ConnectionError,
-https://www.rti-rating.org/wp-content/uploads/2018/09/Tanzania.RTI_.2016.pdf,TZA,staged,path,8
-https://www.rti-rating.org/wp-content/uploads/2019/05/Sudan.FOI-2015.Eng_.pdf,SDN,staged,path,8
+https://www.rti-rating.org/wp-content/uploads/2018/09/Tanzania.RTI_.2016.pdf,TZA,staged,path,10
+https://www.rti-rating.org/wp-content/uploads/2019/05/Sudan.FOI-2015.Eng_.pdf,SDN,staged,path,10
 https://www.rti-rating.org/wp-content/uploads/2019/09/Ghana.RTI-2019-2.pdf,GHA,unfetchable,empty extraction; Wayback ConnectionError,
-https://www.rti-rating.org/wp-content/uploads/2020/09/Zimbabwe-Freedom-of-Information-Act-No.-1-of-2020.pdf,ZWE,staged,path,10
-https://www.rti-rating.org/wp-content/uploads/Angola.pdf,AGO,staged,source,1
+https://www.rti-rating.org/wp-content/uploads/2020/09/Zimbabwe-Freedom-of-Information-Act-No.-1-of-2020.pdf,ZWE,staged,path,12
+https://www.rti-rating.org/wp-content/uploads/Angola.pdf,AGO,staged,metadata,1
 https://www.rti-rating.org/wp-content/uploads/Burkina-Faso.pdf,BFA,held,held as raw/2015/2015-08-30-burkina-loi-051-2015-acces-information-publique.md,
-https://www.rti-rating.org/wp-content/uploads/Ethiopia.pdf,ETH,staged,source,3
-https://www.rti-rating.org/wp-content/uploads/Ivory-Coast.pdf,CIV,staged,source,2
-https://www.rti-rating.org/wp-content/uploads/Kenya.pdf,KEN,staged,source,4
-https://www.rti-rating.org/wp-content/uploads/Liberia.pdf,LBR,staged,source,4
-https://www.rti-rating.org/wp-content/uploads/Niger.pdf,NER,staged,source,6
-https://www.rti-rating.org/wp-content/uploads/Nigeria.pdf,NGA,staged,source,6
-https://www.rti-rating.org/wp-content/uploads/Rwanda.pdf,RWA,staged,source,7
-https://www.rti-rating.org/wp-content/uploads/Sierra-Leone.pdf,SLE,staged,source,8
+https://www.rti-rating.org/wp-content/uploads/Ethiopia.pdf,ETH,staged,metadata,4
+https://www.rti-rating.org/wp-content/uploads/Ivory-Coast.pdf,CIV,staged,metadata,2
+https://www.rti-rating.org/wp-content/uploads/Kenya.pdf,KEN,staged,metadata,5
+https://www.rti-rating.org/wp-content/uploads/Liberia.pdf,LBR,staged,metadata,5
+https://www.rti-rating.org/wp-content/uploads/Niger.pdf,NER,staged,metadata,7
+https://www.rti-rating.org/wp-content/uploads/Nigeria.pdf,NGA,staged,metadata,7
+https://www.rti-rating.org/wp-content/uploads/Rwanda.pdf,RWA,staged,metadata,8
+https://www.rti-rating.org/wp-content/uploads/Sierra-Leone.pdf,SLE,staged,metadata,9
 https://www.rti-rating.org/wp-content/uploads/Togo.pdf,TGO,held,held as raw/2016/2016-03-30-togo-loi-2016-006-liberte-acces-information-documentation-publiques.md,
-https://www.rti-rating.org/wp-content/uploads/Tunisia.pdf,TUN,staged,source,9
-https://www.rti-rating.org/wp-content/uploads/Uganda.pdf,UGA,staged,source,10
-https://www.sars.gov.za/ClientSegments/Individuals/How-Pay/Pages/Payment.aspx,ZAF,undated,,
-https://www.scirp.org/pdf/ojbm2025132_301534360.pdf,ZMB,staged,source,10
-https://www.se4all-africa.org/fileadmin/uploads/se4all/Documents/Country_PANEE/Niger_Plan_d%E2%80%99Actions_National_d%E2%80%99Efficacite%CC%81_Energe%CC%81tique.pdf,NER,undated,,
-https://www.sec.gouv.sn/actions-et-realisations/telecommunications-et-economie-numerique/la-strategie-senegal-numerique,SEN,staged,source,8
+https://www.rti-rating.org/wp-content/uploads/Tunisia.pdf,TUN,staged,metadata,11
+https://www.rti-rating.org/wp-content/uploads/Uganda.pdf,UGA,staged,metadata,11
+https://www.sars.gov.za/ClientSegments/Individuals/How-Pay/Pages/Payment.aspx,ZAF,staged,metadata,10
+https://www.scirp.org/pdf/ojbm2025132_301534360.pdf,ZMB,staged,metadata,12
+https://www.se4all-africa.org/fileadmin/uploads/se4all/Documents/Country_PANEE/Niger_Plan_d%E2%80%99Actions_National_d%E2%80%99Efficacite%CC%81_Energe%CC%81tique.pdf,NER,staged,metadata,7
+https://www.sec.gouv.sn/actions-et-realisations/telecommunications-et-economie-numerique/la-strategie-senegal-numerique,SEN,unfetchable,HTTP 404; no usable Wayback capture,
 https://www.sec.gouv.sn/sites/default/files/Strat%C3%A9gie%20S%C3%A9n%C3%A9gal%20Num%C3%A9rique%202016-2025.pdf,SEN,unfetchable,HTTP 404; no usable Wayback capture,
-https://www.semecity.bj/en/,BEN,thin,12 chars,
+https://www.semecity.bj/en/,BEN,thin,76 chars,
 https://www.sepe.gov.ao/ao/consulta-publica-do-concurso-de-admissao/,AGO,unfetchable,HTTP 404; no usable Wayback capture,
 https://www.sgg.cg/JO/2019/congo-jo-2019-27.pdf,COG,held,held as raw/2019/2019-07-04-jo-2019-27-decret-2019-150-strategie-nationale-economie-numerique.md,
-https://www.sita.co.za/content/architecture-standards-and-specifications,ZAF,unfetchable,SSLError; no usable Wayback capture,
+https://www.sita.co.za/content/architecture-standards-and-specifications,ZAF,unfetchable,SSLError; Wayback ConnectionError,
 https://www.sita.co.za/content/govtech-0,ZAF,unfetchable,SSLError; Wayback ConnectionError,
-https://www.sita.co.za/sites/default/files/Strategic%20Plan%202020-2025.pdf,ZAF,unfetchable,SSLError; no usable Wayback capture,
-https://www.skuad.io/global-payroll/tanzania,TZA,staged,source,9
-https://www.sndi.ci/index.php/nos-references.html,CIV,staged,source,2
-https://www.src.gov.sc/resources/StrategicPlans/StrategicPlan2022.pdf,SYC,unfetchable,HTTP 404; no usable Wayback capture,
+https://www.sita.co.za/sites/default/files/Strategic%20Plan%202020-2025.pdf,ZAF,staged,metadata,10
+https://www.skuad.io/global-payroll/tanzania,TZA,staged,metadata,10
+https://www.sndi.ci/index.php/nos-references.html,CIV,staged,metadata,2
+https://www.src.gov.sc/resources/StrategicPlans/StrategicPlan2022.pdf,SYC,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.ssbfnet.com/ojs/index.php/ijrbs/article/view/1639/1196,TZA,thin,146 chars,
 https://www.ssnit.org.gh/wp-content/uploads/2022/03/Annual-Report-2019.pdf,GHA,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.sua.ac.tz/news/staff-receives-training-government-payment-system-muse,TZA,thin,302 chars,
 https://www.szi.gov.zm/wp-content/uploads/2022/01/eGOVERNMENT_Masterplan_v3.0.pdf,ZMB,unfetchable,SSLError; Wayback ConnectionError,
-https://www.szi.gov.zm/wp-content/uploads/2022/01/eGovernment-interoperability-Standard.pdf,ZMB,staged,path,10
+https://www.szi.gov.zm/wp-content/uploads/2022/01/eGovernment-interoperability-Standard.pdf,ZMB,staged,path,12
 https://www.tanzania.go.tz/egov_uploads/documents/Level_2-7-1_eGovt_Infrastructure_Architecture_-_stds_tech_guides_final_2018_sw.pdf,TZA,unfetchable,HTTP 404; Wayback ConnectionError,
-https://www.tcra.go.tz/documents/legislation-1,TZA,staged,source,9
-https://www.tcra.go.tz/documents/regulations,TZA,staged,source,9
+https://www.tcra.go.tz/documents/legislation-1,TZA,listing,Legislation & Acts,
+https://www.tcra.go.tz/documents/regulations,TZA,staged,metadata,10
 https://www.tcra.go.tz/feedback,TZA,thin,152 chars,
-https://www.tcra.go.tz/pages/reports,TZA,unfetchable,HTTP 404; Wayback ConnectionError,
+https://www.tcra.go.tz/pages/reports,TZA,unfetchable,HTTP 404; no usable Wayback capture,
 https://www.tcra.go.tz/services/statistics,TZA,thin,226 chars,
 https://www.techhiveadvisory.africa/insights/review-of-the-comoros-data-protection-law,COM,held,held as raw/2025/2025-07-23 Review of the Comoros Data Protection Law.md,
 https://www.telecom.gouv.ci/new/uploads/publications/171137227746.pdf,CIV,held,held as raw/2022/2022-01-26-civ-strategie-nationale-de-developpement-du-numerique-en-cote-d-ivoire-a-l.md,
-https://www.tgr.gov.ma/wps/portal/erecouvrement,MAR,undated,,
-https://www.thecitizen.co.tz/oped/-Reforming-Tanzania-data-privacy-and-protection-regime/1840568-5080180-qymoksz/index.html,TZA,undated,,
+https://www.tgr.gov.ma/wps/portal/erecouvrement,MAR,staged,metadata,7
+https://www.thecitizen.co.tz/oped/-Reforming-Tanzania-data-privacy-and-protection-regime/1840568-5080180-qymoksz/index.html,TZA,staged,metadata,10
 https://www.treasury.go.ke/wp-content/uploads/2024/01/Annual-Public-Debt-Report-2022-2023-Sept-2023.pdf,KEN,unfetchable,HTTP 404; Wayback ConnectionError,
-https://www.treasury.gov.za/publications/other/default.aspx,ZAF,staged,source,8
+https://www.treasury.gov.za/publications/other/default.aspx,ZAF,staged,metadata,10
 https://www.tresor.gouv.ci/tres/operationnalisation-du-compte-unique-du-tresor-les-encouragements-du-fmi-au-tresor-public/,CIV,unfetchable,SSLError; no usable Wayback capture,
-https://www.tresor.mr/fr/news.php?id=ZGM=,MRT,staged,source,5
-https://www.tro.go.tz/publications/acts-regulations,TZA,staged,source,9
+https://www.tresor.mr/fr/news.php?id=ZGM=,MRT,unfetchable,HTTP 404; Wayback ConnectionError,
+https://www.tro.go.tz/publications/acts-regulations,TZA,staged,metadata,10
 https://www.tuneps.tn/index.do,TUN,unfetchable,SSLError; Wayback ConnectionError,
 https://www.tuneps.tn/portail/s/i/u,TUN,unfetchable,SSLError; no usable Wayback capture,
-https://www.tuntrust.tn/fr/content/nos-produits,TUN,staged,source,10
-https://www.ugandainvest.go.ug/wp-content/uploads/2016/02/Final-MSME-Policy-July-2015.pdf,UGA,staged,path,12
-https://www.un-page.org/countries/south-africa/,ZAF,undated,,
-https://www.undp.org/fr/benin/histoires/pnud-benin-le-solaire-et-des-technologies-intelligentes-pour-un-bureau-ecologique,BEN,unfetchable,HTTP 403; Wayback ConnectionError,
-https://www.undp.org/policy-centre/singapore/blog/how-open-source-made-difference-mauritius-pandemic-response,MUS,staged,source,6
-https://www.uneca.org/sites/default/files/TCND/WURI_GUINEE_BANJUL.pdf,GIN,unfetchable,HTTP 404; no usable Wayback capture,
-https://www.upf.go.ug/homicide-task-team-makes-major-breakthrough-in-murder-of-nrm-district-registrar/,UGA,undated,,
+https://www.tuntrust.tn/fr/content/nos-produits,TUN,staged,metadata,11
+https://www.ugandainvest.go.ug/wp-content/uploads/2016/02/Final-MSME-Policy-July-2015.pdf,UGA,staged,path,11
+https://www.un-page.org/countries/south-africa/,ZAF,staged,metadata,10
+https://www.undp.org/fr/benin/histoires/pnud-benin-le-solaire-et-des-technologies-intelligentes-pour-un-bureau-ecologique,BEN,unfetchable,HTTP 403; no usable Wayback capture,
+https://www.undp.org/policy-centre/singapore/blog/how-open-source-made-difference-mauritius-pandemic-response,MUS,staged,metadata,6
+https://www.uneca.org/sites/default/files/TCND/WURI_GUINEE_BANJUL.pdf,GIN,unfetchable,HTTP 404; Wayback ConnectionError,
+https://www.upf.go.ug/homicide-task-team-makes-major-breakthrough-in-murder-of-nrm-district-registrar/,UGA,staged,metadata,11
 https://www.ura.go.ug/beforeLoginRedirectionController/eService,UGA,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.ura.go.ug/paymentController/showHistory,UGA,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.utumishi.go.tz/index.php/sw/,TZA,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.utumishi.go.tz/uploads/Level_2-2-1_eGovt_Architecture_Vision_-_stds__tech_guides_final_2018.pdf,TZA,unfetchable,HTTP 404; Wayback ConnectionError,
-https://www.utumishi.go.tz/uploads/Level_2-2-1_eGovt_Interoperability_Framework_-_stds__tech_guides_final_2018.pdf,TZA,unfetchable,HTTP 404; no usable Wayback capture,
+https://www.utumishi.go.tz/uploads/Level_2-2-1_eGovt_Interoperability_Framework_-_stds__tech_guides_final_2018.pdf,TZA,unfetchable,HTTP 404; Wayback ConnectionError,
 https://www.utumishi.go.tz/uploads/books/Descriptive_Summary_for_Safeguard_documents_for_Digital_Tanzania_Programme.pdf,TZA,unfetchable,HTTP 404; Wayback ConnectionError,
-https://www.utumishi.go.tz/uploads/documents/e_strategy2022.pdf,TZA,undated,,
-https://www.wearetech.africa/en/fils-uk/news/tech/zambia-launches-2025-science-technology-innovation-policy-to-drive-economic-transformation,ZMB,staged,source,10
-https://www.wearetech.africa/en/fils-uk/tech-stars/comoros-moves-closer-to-afdb-funding-for-digital-economy-project,COM,staged,source,2
+https://www.utumishi.go.tz/uploads/documents/e_strategy2022.pdf,TZA,staged,metadata,11
+https://www.wearetech.africa/en/fils-uk/news/tech/zambia-launches-2025-science-technology-innovation-policy-to-drive-economic-transformation,ZMB,staged,metadata,12
+https://www.wearetech.africa/en/fils-uk/tech-stars/comoros-moves-closer-to-afdb-funding-for-digital-economy-project,COM,staged,metadata,2
 https://www.xroad.bj/publications/documents,BEN,thin,10 chars,
-https://www.youm7.com/story/2019/2/21/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1%D9%8B%D8%A7-%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF-%D9%88%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9/4148283,EGY,staged,source,3
-https://www.youm7.com/story/2024/2/12/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%83%D8%B4%D9%81-%D9%84%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D8%A5%D8%AA%D8%A7%D8%AD%D8%A9-%D9%88%D8%AA%D8%A8%D8%A7%D8%AF%D9%84/6477784,EGY,staged,source,3
-https://www.youm7.com/story/2025/6/15/%D8%A7%D9%84%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B5%D8%AD%D9%89-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84-%D9%85%D9%8A%D9%83%D9%86%D8%A9-70-%D9%85%D9%86-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D9%85%D9%89-%D9%81%D8%B1%D9%8A%D8%AF-%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA/7020717,EGY,undated,,
-https://www.youm7.com/story/2025/7/17/%D8%A5%D9%86%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%AA%D8%AD%D9%88%D9%84-%D8%B1%D9%82%D9%85%D9%89-%D9%88%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%B4%D8%A7%D9%85%D9%84%D8%A9/7058430,EGY,staged,source,3
+https://www.youm7.com/story/2019/2/21/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1%D9%8B%D8%A7-%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF-%D9%88%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9/4148283,EGY,staged,metadata,3
+https://www.youm7.com/story/2024/2/12/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%83%D8%B4%D9%81-%D9%84%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D8%A5%D8%AA%D8%A7%D8%AD%D8%A9-%D9%88%D8%AA%D8%A8%D8%A7%D8%AF%D9%84/6477784,EGY,staged,metadata,3
+https://www.youm7.com/story/2025/6/15/%D8%A7%D9%84%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B5%D8%AD%D9%89-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84-%D9%85%D9%8A%D9%83%D9%86%D8%A9-70-%D9%85%D9%86-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D9%85%D9%89-%D9%81%D8%B1%D9%8A%D8%AF-%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA/7020717,EGY,staged,metadata,3
+https://www.youm7.com/story/2025/7/17/%D8%A5%D9%86%D8%AC%D8%A7%D8%B2%D8%A7%D8%AA-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%AA%D8%AD%D9%88%D9%84-%D8%B1%D9%82%D9%85%D9%89-%D9%88%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%B4%D8%A7%D9%85%D9%84%D8%A9/7058430,EGY,staged,metadata,3
 https://www.zicta.zm/Downloads/The%20Acts%20and%20SIs/ICT%20Acts/ect_act_2009.pdf,ZMB,unfetchable,SSLError; Wayback ConnectionError,
-"https://www.zim.gov.zw/index.php/en/news-room/latest-news/228-sectors/367-ict,-e-government-innovations",ZWE,staged,source,12
-https://www.zimra.co.zw/client-satisfaction-surveys,ZWE,undated,,
-https://www.zimra.co.zw/client-satisfaction-surveys/,ZWE,undated,,
+"https://www.zim.gov.zw/index.php/en/news-room/latest-news/228-sectors/367-ict,-e-government-innovations",ZWE,unfetchable,ConnectionError; Wayback ConnectionError,
+https://www.zimra.co.zw/client-satisfaction-surveys,ZWE,staged,metadata,12
+https://www.zimra.co.zw/client-satisfaction-surveys/,ZWE,staged,metadata,12
 https://www.zra.org.zm/statistics/,ZMB,unfetchable,SSLError; Wayback ConnectionError,
-https://www2.govmu.org/EN/Pages/epayment.aspx,MUS,undated,,
-https://zamportal.gov.zm/news/,ZMB,staged,source,10
+https://www2.govmu.org/EN/Pages/epayment.aspx,MUS,staged,metadata,6
+https://zamportal.gov.zm/news/,ZMB,staged,metadata,12
 https://zimtreasury.co.zw/wp-content/uploads/2025/01/webPublic-Finance-Management-Reform-Strategy-2021-2025-9-March-2023with-notes.pdf,ZWE,held,held as raw/2023/2023-03-01-zwe-public-finance-management-reform-strategy-2021-2025.md,

@@ -35,6 +35,7 @@ import collections
 import csv
 import datetime as dt
 import hashlib
+import threading
 import html
 import importlib.util
 import io
@@ -322,12 +323,45 @@ def held_by_title() -> set[tuple[str, str]]:
     return out
 
 
-def published_for(u: str, year: str, body: str, kind: str) -> tuple[str, str]:
-    """(YYYY[-MM], how it was read), or ("", "") when nothing dates the document."""
+# `status-stage.fetch` returns no date, so its extractor is wrapped to read the document's own:
+# a PDF's creation date, an HTML page's published date. Per thread, as the fetches run in a pool.
+_dates = threading.local()
+_extract = ss.extract
+
+
+def _extract_dated(resp, url):
+    out = _extract(resp, url)
+    _dates.value = own_date(resp)
+    return out
+
+
+ss.extract = _extract_dated
+
+
+def own_date(resp) -> str:
+    try:
+        if resp.content[:5] == b"%PDF-":
+            import pymupdf  # noqa: PLC0415
+            d = (pymupdf.open(stream=resp.content, filetype="pdf").metadata or {}).get("creationDate", "")
+            m = re.match(r"D:((?:19|20)\d{2})(\d{2})?", d or "")
+            return (f"{m[1]}-{m[2]}" if m[2] else m[1]) if m else ""
+        import trafilatura  # noqa: PLC0415
+        meta = trafilatura.extract_metadata(resp.text)
+        return (meta.date or "")[:7] if meta else ""
+    except Exception:  # noqa: BLE001
+        return ""
+
+
+def published_for(u: str, own: str, year: str, sid: str) -> tuple[str, str]:
+    """(YYYY[-MM], how it was read), or ("", "") when nothing dates the document. A register's
+    year is the instrument's own (Carnegie); a survey's is the system's, never a page's (GTMI,
+    2026-11-10: a treasury's founding year dated its 2025 newsletter 1990)."""
     m = DATED_PATH.search(up.unquote(u))
     if m:
         return f"{m[1]}-{m[2]}", "path"
-    if re.fullmatch(r"(19|20)\d{2}", year or ""):
+    if own and 1990 <= int(own[:4]) <= dt.date.today().year:
+        return own, "metadata"
+    if sid == "aftech" and re.fullmatch(r"(19|20)\d{2}", year or ""):
         return year, "source"
     return "", ""
 
@@ -337,7 +371,10 @@ mojibake = importlib.util.module_from_spec(_mj)
 _mj.loader.exec_module(mojibake)
 
 # A directory index or a list of publications is where a document was, not a document.
-LISTING = re.compile(r"(?i)^(index of\b|publications?$|documents?$|downloads?$|resources$|view$)")
+LISTING = re.compile(r"(?i)^(index of\b|publications?$|documents?$|downloads?$|resources$|view$|"
+                     r"navigation menu|about\b|contact|terms|termos|conditions|mentions l|"
+                     r"accueil|home$|welcome|bienvenue|knowledge repository|policy documents$|"
+                     r"legislation (&|and) acts$|اتصل بنا)")
 # What a PDF's metadata or a server says when nobody titled the file (GTMI, 2026-11-10: a
 # third of the first run's titles were file names, "Microsoft Word - …" or "view").
 JUNK = re.compile(r"(?i)^(microsoft (word|powerpoint) - |powerpoint presentation$|untitled|"
@@ -387,7 +424,7 @@ def write_staged(folder, url, fetched, body, title, published, how, places, batc
     date, precision = ss.dated(published)
     # Wayback keeps the port it crawled (`host:80/`), which the URL line's check reads as
     # another address.
-    fetched = re.sub(r"(?<=[a-z]):80/", "/", fetched)
+    fetched = re.sub(r"(?<=[a-z]):(80|443)/", "/", fetched)
     path = folder / f"{date}-{ss.slugify(title) or 'document'}.md"
     n = 2
     while path.exists():
@@ -456,13 +493,14 @@ def cmd_stage(sid: str, limit: int, retry: bool = False) -> int:
         # A Drive viewer page is a JavaScript shell; its download form is the file itself. The
         # body is filed under the link the source gave, which is the one a reader can open.
         m = re.search(r"drive\.google\.com/file/d/([\w-]+)", u)
+        _dates.value = ""
         try:
             got = ss.fetch(f"https://drive.google.com/uc?export=download&id={m[1]}" if m else u)
         except Exception as e:  # noqa: BLE001
-            return item, (None, f"extraction failed: {type(e).__name__}", "", "")
+            return item, (None, f"extraction failed: {type(e).__name__}", "", "", "")
         if m and got[0] is not None:
             got = (got[0], u, got[2], got[3])
-        return item, got
+        return item, got + (_dates.value,)
 
     def save():
         write_csv(log_path, ["url", "places", "outcome", "note", "batch"],
@@ -488,7 +526,7 @@ def cmd_stage(sid: str, limit: int, retry: bool = False) -> int:
         in_batch, staged = 1, 1
 
     with ThreadPoolExecutor(8) as pool:
-        for (u, c), (body, fetched, kind, page_title) in pool.map(get, todo):
+        for (u, c), (body, fetched, kind, page_title, own) in pool.map(get, todo):
             places = " ".join(c["places"])
             if body is None:
                 log[u] = {"url": u, "places": places, "outcome": "unfetchable", "note": fetched, "batch": ""}
@@ -496,7 +534,7 @@ def cmd_stage(sid: str, limit: int, retry: bool = False) -> int:
             if len(body) < ss.THIN:
                 log[u] = {"url": u, "places": places, "outcome": "thin", "note": f"{len(body)} chars", "batch": ""}
                 continue
-            published, how = published_for(u, c["year"], body, kind)
+            published, how = published_for(u, own, c["year"], sid)
             if not published:
                 log[u] = {"url": u, "places": places, "outcome": "undated", "note": "", "batch": ""}
                 continue
