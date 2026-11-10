@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: GNQ
-ledger_rows: 17
+ledger_rows: 18
 not_held: 6
-record: 2ae9c0aa633a
+record: 70d64fc59468
 ---
 
 # News, Oct – Nov 2026
@@ -71,6 +71,14 @@ An Equatorial Guinea Senate committee approved by consensus its report on a new 
 **[El proyecto de ley de comunicación prohibirá contenidos que inciten a la violencia y vulneren los derechos de menores - Diario Bata](https://diariobata.com/el-proyecto-de-ley-de-comunicacion-prohibira-contenidos-que-inciten-a-la-violencia-y-vulneren-los-derechos-de-menores/)** — Diario Bata, 22 October 2026
 
 Equatorial Guinea's draft communication law would ban content inciting violence, hatred or crime, or harming minors, across print, broadcast and digital media, and require streaming, podcast and platform providers to register and answer for what they carry. Broadcast licensees would have to give the regulator free monitoring of their output; the bill's legislative stage is not stated.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Aprobación del Proyecto de Ley Reguladora de los Servicios de Imprenta, Comunicación Audiovisual y Digital](https://www.guineaecuatorialpress.com/noticias/aprobacion_del_proyecto_de_ley_reguladora_de_los_servicios_de_imprenta_comunicacion_audiovisual_y_digital)** — Oficina de Información y Prensa de Guinea Ecuatorial, 9 November 2026
+
+Unanimous lower-house vote, 9 Nov 2026; platform obligations, minors' protection; copyright covers software, databases.
 
 </div>
 
@@ -277,6 +285,20 @@ Equatorial Guinea's vice-presidency reviewed the VFS Global e-visa contract befo
 **[El Gobierno avanza en las negociaciones con Securiport para la modernización del sistema de control fronterizo](https://www.guineaecuatorialpress.com/noticias/el_gobierno_avanza_en_las_negociaciones_con_securiport_para_la_modernizacion_del_sistema_de_control_fronterizo)** — Government of Equatorial Guinea, 5 November 2026
 
 Equatorial Guinea's Vice-President chaired a government review on 3 November 2026 of the fees US firm Securiport proposed to modernise border control. He asked for its earlier contracts to compare terms. He recommended a pilot at the Malabo and Bata airports before any wider extension.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SIGF civil-service management system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinea Ecuatorial prepara un registro único y biométrico para los funcionarios del Estado](https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_prepara_un_registro_unico_y_biometrico_para_los_funcionarios_del_estado)** — Oficina de Información y Prensa de Guinea Ecuatorial, 9 November 2026
+
+Biometric register and multiservice card with optional payroll payment; Moroccan contractor M2M; live software demo.
 
 </div>
 
