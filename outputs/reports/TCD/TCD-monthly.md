@@ -1,11 +1,11 @@
 ---
 title: Chad — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: TCD
-ledger_rows: 16
+ledger_rows: 17
 not_held: 22
-record: febf22e3c62c
+record: 44eca8ad49e8
 ---
 
 # News, Oct – Nov 2026
@@ -257,6 +257,20 @@ Chad's education ministry and the World Bank-funded PARAEB project began distrib
 **[Éducation nationale : le numérique pour mieux gérer les agents de l’État](https://lendjampost.com/education-nationale-le-numerique-pour-mieux-gerer-les-agents-de-letat/)** — Le N'Djam Post, 30 October 2026
 
 Chad's education ministry gave biometric staff cards to academy rectors on 30 October 2026. It ordered its HR directorate to have the Mirador staff-management platform running by the end of November 2026. Personnel acts are to require the card, and deceased, retired and absent staff are to be removed from the active list.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Technical committee for monitoring digital health development</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Santé Numérique au Tchad : Un comité technique mobilisé pour accélérer la transformation du système sanitaire - MEDD TV INFO](https://meddtvinfo.com/sante-numerique-au-tchad-un-comite-technique-mobilise-pour-accelerer-la-transformation-du-systeme-sanitaire/)** — MEDD TV INFO, 9 November 2026
+
+Arrêté widens committee's remit; e-patient records and telemedicine oversight; meets every two months.
 
 </div>
 
