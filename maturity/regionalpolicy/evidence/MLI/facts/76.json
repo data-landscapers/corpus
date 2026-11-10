@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-08-mli-aes-frequences-militaires-des-experts-de-la-confederation-en-conclave-a-bamako",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Maliweb reports that Mali's regulator AMRTP hosted the Alliance of Sahel States' second coordination meeting on military frequencies in border areas in Bamako, 2-4 November 2026, with Burkina Faso and Niger delegations.",
+   "as_of": "2026-11-02",
+   "date_precision": "day",
+   "system": "AES military frequencies coordination",
+   "class": "cooperation"
+  },
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "active",
+   "fact": "Maliweb says a convention of 25 September 2026 between the regulators of Mali, Burkina Faso and Niger created the Council of Sahel Regulators, after a coordination agreement signed in Ouagadougou on 21 November 2025 covering cybersecurity and roaming.",
+   "as_of": "2026-09-25",
+   "date_precision": "day",
+   "system": "Council of Sahel Regulators",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

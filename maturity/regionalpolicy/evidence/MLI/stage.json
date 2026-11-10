@@ -1,16 +1,17 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "cooperation",
-   "stage": "3",
-   "part": "active",
-   "effect": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MLI-001;MLI-003",
-   "gaps": "No source found says a thing the country agreed has been put into effect.",
-   "note": "Counted from the four questions by study-ladder-regionalpolicy.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "cooperation",
+      "stage": "3",
+      "part": "active",
+      "effect": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-001;MLI-003;MLI-012",
+      "gaps": "No source found says a thing the country agreed has been put into effect; the Council of Sahel Regulators is not reported meeting.",
+      "note": "Mali signed the convention creating the Council of Sahel Regulators, was re-elected to the ATU council and hosted the Sahel States' frequency coordination meeting in November 2026. Nothing agreed is reported in effect, so it is not stage 4.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

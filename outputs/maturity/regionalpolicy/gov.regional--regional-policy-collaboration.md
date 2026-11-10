@@ -269,6 +269,7 @@ Mali signed a convention with Burkina Faso and Niger in 2026 creating a council 
 
 - The telecoms regulators of Burkina Faso, Mali (AMRTP) and Niger signed a cooperation convention creating the Conseil des regulateurs du Sahel, covering harmonised rules, free roaming, border spectrum coordination and joint positions in the ITU; the article gives no signing date, so its published date 2026-09-26 is used ([source, 2026-09-26](https://lefaso.net/spip.php?article149528)).
 - At the ATU Plenipotentiary Conference in Abuja (23 to 24 July 2026) Mali was re-elected a member of the ATU Administrative Council for the 2027-2031 term; the communique gives no more exact election date ([source, 2026-07](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-30-sgg/)).
+- Maliweb reports that Mali's regulator AMRTP hosted the Alliance of Sahel States' second coordination meeting on military frequencies in border areas in Bamako, 2-4 November 2026, with Burkina Faso and Niger delegations ([source, 2026-11-02](https://www.maliweb.net/economie/developpement/aes-frequences-militaires-des-experts-de-la-confederation-en-conclave-3121278.html)).
 
 ### Mauritania: 3 Established
 
