@@ -1,11 +1,11 @@
 ---
 title: Botswana — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: BWA
-ledger_rows: 14
+ledger_rows: 15
 not_held: 5
-record: 65ec464a4b7b
+record: 576d23259017
 ---
 
 # News, Oct – Nov 2026
@@ -239,6 +239,20 @@ Botswana scored 1.11 out of 4 on the Africa AI Governance Index 2026, in the Eme
 **[Southern Africa’s AI ambitions face reality check](https://itweb.africa/article/southern-africas-ai-ambitions-face-reality-check/KWEBbvyLd4mqmRjO)** — ITWeb Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
 A 2026 skills survey by South Africa's IITPSA attributes 24% of the reported skills gap to missing workplace experience and 20% to education and training. ICT body presidents from five countries discussed it in Johannesburg. In Botswana, 60% of unemployed graduates are reported to hold ICT degrees.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Ayre Index of AI readiness</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Botswana’s AI Paradox: Rich in Connectivity, Poor in Opportunity - Weekend Post](https://weekendpost.co.bw/botswanas-ai-paradox-rich-in-connectivity-poor-in-opportunity/)** — Weekend Post, 10 November 2026
+
+The Ayre Index of youth AI readiness was launched at the November 2026 Commonwealth Heads of Government Meeting. It ranks Botswana 45th of 56 Commonwealth states, scoring 38.9 out of 100 against a benchmark of 53. Botswana scores 7.2 of 10 for access to technology and 2.9 for decent work and enterprise. Weekend Post reported the study's moderate estimate of AI's possible GDP gain after ten years: USD 289 million.
 
 </div>
 

@@ -40,7 +40,9 @@ The [readiness assessment behind it was completed and published](2025-01-01-bwa-
 
 2025-10 — [an analysts' index scored the country 3 of 24 on AI policy design and delivery, the lowest assessed, with no strategy, budget or institutional framework](2025-10-01-xaf-state-of-ai-policy-in-africa-2025).
 
-2026-10-30 - [the national IT society's president told a regional panel the policy had been submitted to Parliament](2026-11-03-bwa-southern-africa-s-ai-ambitions-face-reality-check); no parliamentary record of it has been found.",BWA-tech.ai-ai-policy-or-strategy|BWA-tech.ai-ai-readiness-assessment|BWA-tech.ai-africa-ai-governance-index-placing|BWA-tech.ai-state-of-ai-policy-score,2,BWA-tech.ai-ai-policy-or-strategy,,,,,,,2026-08-31,0,national AI policy in final drafting; not adopted
+2026-10-30 - [the national IT society's president told a regional panel the policy had been submitted to Parliament](2026-11-03-bwa-southern-africa-s-ai-ambitions-face-reality-check); no parliamentary record of it has been found.
+
+2026-11 - [the Ayre Index scored the country 38.9 of 100, below its readiness threshold of 53, and placed it 45th of 56 Commonwealth states](2026-11-10-bwa-botswanas-ai-paradox-rich-in-connectivity-poor-in-opportunit).",BWA-tech.ai-ai-policy-or-strategy|BWA-tech.ai-ai-readiness-assessment|BWA-tech.ai-africa-ai-governance-index-placing|BWA-tech.ai-state-of-ai-policy-score|BWA-tech.ai-ayre-index-placing,2,BWA-tech.ai-ai-policy-or-strategy,,,,,,,2026-08-31,0,national AI policy in final drafting; not adopted
 gov.policy--data-localisation-policies,Movement,"The minister [stated an intention to compel businesses to store data in Botswana](2025-11-25-govt-moves-to-in-house-local-data); no bill, draft or date is on file.","2025-11-25 — [at the launch of the national data centre the minister announced an intention to amend the Data Protection Act to compel businesses to store data in Botswana](2025-11-25-govt-moves-to-in-house-local-data). No bill, draft or date has followed in the nine months since, and nothing of the kind was proposed before.
 
 The Act as in force already permits transfer subject to approved-country limits and an in-country copy, so the announced amendment would replace a conditional regime with a compulsory one.
@@ -147,7 +149,9 @@ gov.standards--national-interoperability-standards,"Movement, under external ass
 
 2026-02-17 — [a programme running since August 2024 through Expertise France, ESTDEV and HAUS is improving and aligning the framework, its standards, guidelines and tools](2026-02-17-eu-support-digital-transformation-botswana).
 
-No standard, framework document or conformance regime is published, and no list of the systems the framework covers.",BWA-gov.standards-national-interoperability-framework|BWA-gov.legislate-digital-services-act,2,BWA-gov.standards-national-interoperability-framework,,,,,,,2026-08-31,0,framework and standards under alignment; nothing published
+No standard, framework document or conformance regime is published, and no list of the systems the framework covers.
+
+2017-02 - [a government enterprise architecture with ICT standards was being built from January 2016](2017-02-02-bwa-mmegi-government-enterprise-architecture-portal); no completion has been found.",BWA-gov.standards-national-interoperability-framework|BWA-gov.legislate-digital-services-act|BWA-gov.standards-government-enterprise-architecture,2,BWA-gov.standards-national-interoperability-framework,,,,,,,2026-08-31,0,framework and standards under alignment; nothing published
 gov.standards--national-quality-standards,Movement,"The [standards bureau publishes an annual standards-development programme](2026-04-16-bobs-standards-annual-work-programme-2026-27), under a statute in force since 1995.","1995 — [the Standards Act establishes the Botswana Bureau of Standards and the Standards Council](1995-01-01-botswana-standards-act).
 
 2026-04-16 — [issue 341 of the annual standardisation work programme was published, setting the pipeline of standards-development projects](2026-04-16-bobs-standards-annual-work-programme-2026-27).
@@ -295,7 +299,9 @@ A further upgrade sits inside the finance ministry's development-plan allocation
 
 2026-03-17 - the communications minister [told the committee of supply that 194 public-facing e-services developed the previous year were withheld because of technical problems with the system, and that a redesigned payment platform is under procurement](2026-03-17-bwa-mci-committee-of-supply-speech).
 
-The network layer is being rebuilt: [a software-defined wide-area network is being deployed to 600 priority government sites in 2026/27](2026-03-17-bwa-mci-committee-of-supply-speech).",BWA-dpi.mis-government-accounting-budgeting-system|BWA-infra.capacity-government-sd-wan,2,BWA-dpi.mis-government-accounting-budgeting-system,,,,,,,2026-08-31,0,only the finance system on record as upgraded; other core systems and custodian not shown
+The network layer is being rebuilt: [a software-defined wide-area network is being deployed to 600 priority government sites in 2026/27](2026-03-17-bwa-mci-committee-of-supply-speech).
+
+2024-04 - [the civil service dropped Microsoft Office for open-source software to save cost](2024-04-01-bwa-government-drops-microsoft-office-for-open-source), on a technology site's account.",BWA-dpi.mis-government-accounting-budgeting-system|BWA-infra.capacity-government-sd-wan|BWA-dpi.govtech-civil-service-office-software,2,BWA-dpi.mis-government-accounting-budgeting-system,,,,,,,2026-08-31,0,only the finance system on record as upgraded; other core systems and custodian not shown
 infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,"Movement, against acknowledged capacity gaps","The [government e-services platform was built on an open-source approach led by a local developer](2025-10-27-digital-platform-key-driver-innovation), against acknowledged downtime and IT-capacity gaps.","2025-10-27 — [the communications minister confirmed the platform was developed through an open-source approach led by a local developer, while acknowledging perennial system downtime and IT capacity gaps](2025-10-27-digital-platform-key-driver-innovation).
 
 2025-11-25 — [the launch of the national Tier III data centre brought core government systems onto state-hosted infrastructure](2025-11-25-bwa-digital-delta-data-centre-launch).
