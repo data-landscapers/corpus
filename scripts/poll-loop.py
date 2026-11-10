@@ -2,7 +2,7 @@
 r"""poll-loop.py — the poll: watch for a closed sweep cycle and open a Claude session to build it.
 
 *(Bill, 2026-10-29.)* Replaces arming `/poll` by hand. It runs in the `CORPUS-POLL` terminal
-tab, which starts it, and ticks every half hour from 21:00 to 06:00 *(Bill, 2026-11-10)*. **A tick costs no model
+tab, which starts it, and ticks every 10 minutes from 21:00 to 06:00 *(Bill, 2026-11-10)*. **A tick costs no model
 turn**: the checks are scripts, and a tick that finds nothing prints one line. Claude is
 opened only for work, in a new tab:
 
@@ -162,7 +162,7 @@ def next_slot(now: dt.datetime, minutes: int) -> dt.datetime:
 
 def main() -> int:
     ap = argparse.ArgumentParser(description="The poll: build each closed sweep cycle.")
-    ap.add_argument("--interval", type=int, default=30, help="minutes between ticks")
+    ap.add_argument("--interval", type=int, default=10, help="minutes between ticks")
     ap.add_argument("--once", action="store_true", help="one tick, then stop")
     args = ap.parse_args()
     a, b = night(dt.date.today())
