@@ -3,9 +3,9 @@ title: Kenya — News, Oct – Nov 2026
 compiled: 2026-11-10
 period: 2026-10-01 to 2026-11-10
 place: KEN
-ledger_rows: 87
+ledger_rows: 89
 not_held: 5
-record: ddf87aba4c3d
+record: c51986eef361
 ---
 
 # News, Oct – Nov 2026
@@ -231,6 +231,20 @@ Kenya's communications regulator said it will set up a central database of recyc
 **[How Absa Bank's employee data leak brought down multi-billion business](https://www.standardmedia.co.ke/article/2001559970/how-absa-bank-s-employee-data-leak-brought-down-multi-billion-business)** — The Standard, 12 October 2026
 
 A former senior manager at a Kenyan bank testified, in a Sh1.5 billion data breach suit against it, that a credit manager disclosed a borrower's loan distress to a third party. He said the bank's legal department recommended no action because it saw no material risk of abuse.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data Protection Commissioner succession</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya Nominates Lydia Sitienei as Second Data Commissioner](https://techafricanews.com/2026/11/10/kenya-nominates-lydia-sitienei-second-data-commissioner/)** — Tech Africa News, 10 November 2026
+
+CA legal director to succeed Immaculate Kassait; nomination sent to National Assembly under the Data Protection Act.
 
 </div>
 
@@ -482,6 +496,20 @@ Kenya's National Cybersecurity Agency Board, chaired by Martin Koyabe, was inaug
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SecureKE/Konza Sovereign Security Operations Centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Launch of the SecureKE/Konza Sovereign Security Operations Centre (SOC)](https://ict.go.ke/launch-securekekonza-sovereign-security-operations-centre-soc)** — Ministry of Information, Communications and the Digital Economy (Kenya), 10 November 2026
+
+Konza Technopolis–SecureKE partnership; monitoring, threat detection, incident response for public and private sectors.
+
+</div>
+
+</div>
+
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
@@ -719,6 +747,14 @@ Kenswitch, Kenya's domestic payment switch, announced on 2 November 2026 a partn
 **[Postbank opens 600 agent points to other banks via Pesalink](https://techtrendske.co.ke/2026/11/04/postbank-opens-600-agent-points-to-other-banks-via-pesalink/)** — TechTrends Kenya, 4 November 2026
 
 Kenya's Postbank joined the Pesalink network, reported on 4 November 2026, so customers of other participating banks can deposit cash at its more than 600 agent and branch points. Withdrawals are not yet available.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Why lower transfer fees cannot easily break M-PESA’s mobile money dominance](https://techcabal.com/2026/11/10/pricing-gaps-m-pesa-pesalink-kenya/)** — TechCabal, 10 November 2026
+
+PesaLink at 80 institutions, KES 4bn a day; 19 banks on KES 20 flat fee while Equity and Co-op set their own.
 
 </div>
 
