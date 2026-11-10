@@ -1,11 +1,11 @@
 ---
 title: Morocco — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: MAR
-ledger_rows: 24
+ledger_rows: 25
 not_held: 14
-record: 99dd9b3834d5
+record: 10aee5d6ac95
 ---
 
 # News, Oct – Nov 2026
@@ -421,6 +421,20 @@ Morocco's justice minister criticised the banks on 4 November 2026 for not respo
 **[Office des changes: E-Déclarations platform](https://www.lesmre.com/en/actualites/foreign-assets-currency-office-digitizes-compliance-checks)** — LesMRE, 24 October 2026
 
 The Office des changes opened an international tender for an e-declarations platform. It would digitise declarations of property, assets and funds held abroad by resident Moroccans, and the statistical surveys owed by resident companies. The work runs in five phases under a steering committee, within the Office's 2025-2029 digital strategy.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Epolice criminal-record certificates for Moroccans abroad</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Moroccans abroad can now apply online for criminal record certificates](https://en.hespress.com/148811-moroccans-abroad-can-now-apply-online-for-criminal-record-certificates.html)** — Hespress, 9 November 2026
+
+Morocco's General Directorate of National Security opened its Epolice portal on 9 November 2026 to Moroccans abroad applying online for criminal-record certificates. Each request can be tracked online and the certificate is collected at the chosen diplomatic mission. The Ministry of Foreign Affairs, African Cooperation and Moroccan Expatriates built the service with the directorate.
 
 </div>
 
