@@ -9,10 +9,10 @@
       "remote": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "SWZ-002",
-      "gaps": "No source found since October 2023 says authentication is used across services or channels.",
-      "note": "Rebuild: banks can check the civil registry to verify identity (SWZ-002). The national e-KYC was still to roll out (SWZ-001).",
-      "as_at": "2026-10-22"
+      "stage_sources": "SWZ-005;SWZ-003;SWZ-002",
+      "gaps": "No source found since October 2023 says authentication is used across services or channels; no public body is named using the e-KYC registry.",
+      "note": "The central bank launched an e-KYC registry in October 2025 for banks, financial institutions and certain public bodies (SWZ-005), after banks began checking the civil registry (SWZ-002, SWZ-003). Banks checking IDs are one service, and no public body is shown using it, so not across services.",
+      "as_at": "2026-11-10"
     }
   ]
 }

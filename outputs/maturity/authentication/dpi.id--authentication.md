@@ -250,8 +250,10 @@ An authentication service was in use in 2026; no source found reports use across
 
 ### Eswatini: 3 Established
 
-An authentication service was in use in 2024; no source found reports use across services.
+Banks have checked IDs against the civil registry since 2024, through an e-KYC registry from 2025; use beyond banks is not known.
 
+- Ecofin Agency reports that the Central Bank of eSwatini has launched an e-KYC registry, a centralised platform that lets commercial banks, financial institutions and certain public administrations electronically verify client identities ([source, 2025-10-01](https://www.ecofinagency.com/news-digital/0110-49197-eswatini-central-bank-launches-e-kyc-platform-to-support-financial-inclusion)).
+- Financial institutions are integrated with the national database centre, the Eswatini Royal Science Technology Park, and verify customers' identification information against the national civil registry, a new development still to be improved, says the Central Bank Deputy Governor ([source, 2025-03-11](https://www.bis.org/review/r250311k.htm)).
 - APC states that recent developments allow service providers such as commercial banks to access the civil registry for identity verification, while saying the National ID card does not yet meet the criteria for digital identification ([source, 2024-07-22](https://www.apc.org/en/news/risk-human-rights-infringement-eswatini-rushes-regulate-ict-sector)).
 
 ### Gambia: 3 Established

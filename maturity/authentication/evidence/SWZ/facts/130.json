@@ -1,0 +1,26 @@
+{
+ "slug": "2025-10-01-swz-eswatini-central-bank-launches-e-kyc-platform-to-support-financial-inc",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Ecofin Agency reports that the Central Bank of eSwatini has launched an e-KYC registry, a centralised platform that lets commercial banks, financial institutions and certain public administrations electronically verify client identities.",
+   "as_of": "2025-10-01",
+   "date_precision": "day",
+   "system": "e-KYC registry",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-KYC registry",
+   "country_label": "Central Bank of eSwatini e-KYC system",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Central Bank of Eswatini",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

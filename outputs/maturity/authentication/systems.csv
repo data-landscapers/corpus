@@ -569,6 +569,7 @@ MWI,NRB identity verification service,Malawi,authentication,"national ID card QR
 MWI,National Registration Information System,NRIS,authentication,"NRB middleware, signed QR code",National Registration Bureau,,2025-01-01-mwi-national-registration-bureau-evolution-of-the-national-registration-bu
 MWI,Malawi Business Registration System,Malawi,other,,"Companies, Registrations and Intellectual Property Centre",,2026-05-29-mwi-minister-of-justice-urges-professionalism
 MWI,digital signatures,Malawi,other,,,,2026-06-08-mwi-malawi-digital-economy
+MWI,Nzika Digital ID Wallet,Malawi,authentication,,National Registration Bureau,,2026-11-09-mwi-malawi-s-nzika-digital-id-bounced-at-the-bank
 NAM,Electronic identity (E-ID) card,Namibia,other,,"Ministry of Home Affairs, Immigration, Safety and Security; Office of the Prime Minister",,2026-07-25-namibia-electronic-id-rollout-september-2026
 NAM,Social grants identity verification,Namibia,other,,,,2026-07-25-namibia-electronic-id-rollout-september-2026
 NAM,NPRS-social protection integration,Namibia,other,National Population Registration System,"Ministry of Home Affairs, Immigration, Safety and Security; Ministry of Gender Equality, Poverty Eradication and Social Welfare",,2026-07-18-namibia-crvs-social-protection-integration-san-outreach
@@ -758,6 +759,7 @@ SWZ,national e-KYC system,Eswatini,other,national identity verification platform
 SWZ,civil registry access for commercial banks,Eswatini,other,,Ministry of Home Affairs,commercial banks,2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector
 SWZ,SIM card registration,Eswatini,other,,Minister of ICT (Legal Notice No. 26 of 2016),"mobile operators collect names, addresses, identity numbers and facial images; no check against the ID is stated",2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector
 SWZ,digital verification of identification via the national database centre,Eswatini,authentication,national civil registry check,Eswatini Royal Science Technology Park,,2025-03-11-swz-felicia-dlamini-kunene-the-nexus-between-aml-cft-and-financial-inclusi
+SWZ,e-KYC registry,Central Bank of eSwatini e-KYC system,authentication,,Central Bank of Eswatini,,2025-10-01-swz-eswatini-central-bank-launches-e-kyc-platform-to-support-financial-inc
 SYC,SeyID,Seychelles,other,SeyID portal and app with ID-Wallet,Government of Seychelles (DICT),,2026-01-01-seyid-idwallet
 SYC,Virtual ID Card,Seychelles,other,SeyID ID-Wallet,Department of Immigration and Civil Status,,2026-01-01-seyid-idwallet
 SYC,Digital Driving License,Seychelles,other,SeyID ID-Wallet; SLA System,Seychelles Licensing Authority,,2026-01-01-seyid-idwallet
