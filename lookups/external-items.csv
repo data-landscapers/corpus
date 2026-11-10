@@ -147,3 +147,14 @@ odin,resource use,,opendatapolicy,theirs-broader,
 odin,energy,,opendatapolicy,theirs-broader,
 odin,pollution,,opendatapolicy,theirs-broader,
 odin,built environment,,opendatapolicy,theirs-broader,
+itu,r1,,,none,"ITU's 50 indicators of telecom regulation (regulator independence, mandates, licensing, interconnection, competition) have no counterpart of ours; the same gap as Carnegie's unmapped rows."
+itu,r5,,publicconsultation,partial,The regulator must consult publicly before decisions.
+itu,r21,,consumerprotection,partial,A telecom consumer-protection mandate.
+itu,r36,,broadbandstrategy,same,
+itu,r41,,internationalbandwidth,partial,Competition in international gateways.
+itu,r45,,digitalsovereignty,partial,Limits on foreign ownership of telecom operators.
+itu,r46,,digitalsovereignty,partial,
+itu,r47,,digitalsovereignty,partial,
+itu,r48,,digitalsovereignty,partial,
+itu,r49,,digitalsovereignty,partial,
+itu,r50,,digitalsovereignty,partial,

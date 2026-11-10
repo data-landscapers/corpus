@@ -312,7 +312,65 @@ def fetch_odin(sid: str) -> list[tuple[str, bytes]]:
     return [("original.json.gz", gzip.compress(body, mtime=0))]
 
 
-FETCHERS = {"odin": fetch_odin}
+ITU_API = "https://www.itu.int/net4/itu-d/metrics/api/v1.1/tracker"
+ITU_PILLARS = {"regulatoryAuthority": "Regulatory authority", "regulatoryMandate": "Regulatory mandate",
+               "regulatoryRegime": "Regulatory regime", "competitionFramework": "Competition framework"}
+
+
+def fetch_itu(sid: str) -> list[tuple[str, bytes]]:
+    """The tracker's site (app.gen5.digital) reads ITU's metrics API: `tracker/years`, and
+    `tracker/entries?country={ITU's name}&year={y}&brief=false` for the 50 answers (found from
+    the site's requests, 2026-11-10). ITU names countries its own way, so its `tracker/countries`
+    list maps our ISO3 to the name it wants. Gathered into one gzip, mtime 0."""
+    import gzip  # noqa: PLC0415
+    import json  # noqa: PLC0415
+    h = {"User-Agent": ss.UA}
+    years = requests.get(f"{ITU_API}/years", headers=h, timeout=60).json()
+    names = {c["isoCode"]: c["country"]
+             for c in requests.get(f"{ITU_API}/countries", headers=h, timeout=60).json()}
+    ours = [r["iso-3"] for r in rows(COUNTRIES) if not r["iso-3"].startswith("X")]
+
+    def one(job):
+        iso, year = job
+        r = requests.get(f"{ITU_API}/entries", params={"country": names[iso], "year": year, "brief": "false"},
+                         headers=h, timeout=60)
+        r.raise_for_status()
+        return iso, year, r.json()
+
+    out = collections.defaultdict(dict)
+    with ThreadPoolExecutor(4) as pool:
+        for iso, year, j in pool.map(one, [(i, y) for i in ours if i in names for y in years]):
+            if j:
+                out[iso][str(year)] = j[0]
+    body = json.dumps(out, ensure_ascii=False, sort_keys=True).encode("utf-8")
+    return [("original.json.gz", gzip.compress(body, mtime=0))]
+
+
+def adapt_itu(d, edition, release) -> list[dict]:
+    """One claim per country, year and indicator: ITU's answer in words, with its score."""
+    import gzip  # noqa: PLC0415
+    import json  # noqa: PLC0415
+    data = json.loads(gzip.decompress((d / "original.json.gz").read_bytes()))
+    m, out = mapping("itu"), []
+    for iso in sorted(data):
+        for year in sorted(data[iso]):
+            e = data[iso][year]
+            for key, pillar in ITU_PILLARS.items():
+                for a in e.get(key) or []:
+                    item = f"r{a['id']}"
+                    st, fit = studies_for(m, [item])
+                    v = a.get("value")
+                    out.append({
+                        "source": "itu", "edition": edition, "survey_year": year, "iso3": iso,
+                        "item": item, "question": f"{pillar}: {(a.get('area') or '').strip()}",
+                        "status": f"{(a.get('description') or '').strip()} ({v:g})" if v is not None
+                                  else (a.get("description") or "").strip(),
+                        "name": "", "year": "", "url": "", "documents": "",
+                        "basis": "self-reported", "studies": st, "fit": fit})
+    return out
+
+
+FETCHERS = {"odin": fetch_odin, "itu": fetch_itu}
 
 ODIN_CRITERIA = ["indicators", "last 5 years", "last 10 years", "first admin level",
                  "second admin level", "machine-readable", "non-proprietary", "download options",
@@ -357,7 +415,8 @@ def adapt_odin(d, edition, release) -> list[dict]:
     return out
 
 
-ADAPTERS = {"aftech": adapt_aftech, "gtmi": adapt_gtmi, "unctad": adapt_unctad, "odin": adapt_odin}
+ADAPTERS = {"aftech": adapt_aftech, "gtmi": adapt_gtmi, "unctad": adapt_unctad, "odin": adapt_odin,
+            "itu": adapt_itu}
 
 
 # --- fetch and claims ------------------------------------------------------------------------
