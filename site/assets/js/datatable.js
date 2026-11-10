@@ -594,10 +594,30 @@
             var f = { ci: ci, sel: sel, values: values };
             dropdowns.push(f);
             fill(f);
-            sel.addEventListener('change', function () {
+            function apply() {
               filterState[ci] = sel.value;
               dropdowns.forEach(function (o) { if (o !== f) fill(o); });
               render();
+            }
+            sel.addEventListener('change', apply);
+            /* Type-ahead on the closed dropdown: letters typed within a second of each
+               other build one word, so "wor" finds World Bank (Bill, 2026-11-10). The
+               browser's own type-ahead re-starts after each letter once a redraw of a
+               long table outlasts its timer. A prefix match wins, else any match. */
+            var typed = '', typedAt = 0, applyLater = null;
+            sel.addEventListener('keydown', function (e) {
+              if (e.key.length !== 1 || e.ctrlKey || e.metaKey || e.altKey) return;
+              if (e.key === ' ' && !typed) return;          // space alone opens the list
+              e.preventDefault();
+              typed = (e.timeStamp - typedAt > 1000 ? '' : typed) + e.key.toLowerCase();
+              typedAt = e.timeStamp;
+              var opts = Array.prototype.slice.call(sel.options, 1), hit = null;
+              opts.some(function (o) { return o.text.toLowerCase().indexOf(typed) === 0 && (hit = o); })
+                || opts.some(function (o) { return o.text.toLowerCase().indexOf(typed) > -1 && (hit = o); });
+              if (!hit || hit.value === sel.value) return;
+              sel.value = hit.value;
+              clearTimeout(applyLater);
+              applyLater = setTimeout(apply, 350);          // one redraw once typing pauses
             });
             controls.insertBefore(sel, countEl);
           });

@@ -163,9 +163,11 @@ def load_finance(sdir: Path) -> dict:
                 by_place[r["recipient"]] += 1
             if r.get("primary_topic"):
                 by_sector[r["primary_topic"]] += 1
-            for y in (r.get("start_year"), r.get("end_year")):
-                if y and y.isdigit():
-                    years.append(int(y))
+            # The deal's own year only: an end year can run to 2046 (a 20-year licence) or,
+            # in CRS rows, fall before the commitment year, and neither is a year of the table.
+            y = r.get("start_year") or ""
+            if y.isdigit():
+                years.append(int(y))
     return {
         "deals": deals,
         "total_usd_m": total_usd_m,
@@ -239,8 +241,8 @@ PAGE = """<!DOCTYPE html>
 
     <div class="dl-datatable"
       data-src="{table_csv}"
-      data-cols="recipient, start_year, financier, primary_topic, subtopic, sector, instrument, commitment_usd_m, title, description, url"
-      data-filters="recipient, african, primary_topic, subtopic, sector, instrument, aid, scope, status, beneficiary_type"
+      data-cols="recipient, start_year, published_date, financier, primary_topic, subtopic, sector, instrument, commitment_usd_m, title, description, url"
+      data-filters="recipient, financier, african, primary_topic, subtopic, sector, instrument, aid, status, beneficiary_type"
       data-numeric="start_year, end_year, commitment_usd_m"
       data-links="url"
       data-labels="{labels}"

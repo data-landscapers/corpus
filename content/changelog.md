@@ -1,3 +1,7 @@
+## 10 November 2026
+
+- The finance table shows each row's published date and can be filtered by financier; the scope filter is gone, and typing several letters in any filter jumps to the match. The year range above the table now counts start years only, 2015 to 2026.
+
 ## 9 November 2026
 
 - Every maturity ladder now needs each step met on its own evidence, so a later yes no longer answers an earlier question: 185 cells across 45 indicators move down, 47 of them to unplaced. AI in sector systems falls from 5 to 3 in sixteen countries, and seven central banks are unplaced for want of a payments mandate on record.
