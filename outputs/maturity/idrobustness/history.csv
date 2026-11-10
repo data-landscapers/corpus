@@ -99,3 +99,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,LBY,dpi.id--robustness-of-system,ladder,5,3,LBY-010;LBY-012;LBY-006,Rung 5 needs the ID issued to the whole population (message 108): the digital ID's Level 3 assurance is for a layer in bank trials; 5 to 3
 2026-11-09,SDN,dpi.id--robustness-of-system,ladder,5,3,SDN-012;SDN-015;SDN-006,"Rung 5 needs the ID issued to the whole population (message 108): SudaPass, launched May 2026, has no coverage figure; 5 to 3"
 2026-11-09,NGA,dpi.id--robustness-of-system,ladder,5,4,NGA-023;NGA-037;NGA-022,"Rung 5 needs the ID issued to the whole population (message 108): 121 million NINs, no share stated; 5 to 4"
+2026-11-10,KEN,dpi.id--robustness-of-system,fact,4,4,KEN-019;KEN-017;KEN-005,"KBC, Aug 2026: High Court halted the Maisha Card's introduction pending a petition; ID cards still issued, AFIS deduplication held, stays 4"

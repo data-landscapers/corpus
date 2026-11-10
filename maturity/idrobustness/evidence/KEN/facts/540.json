@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-25-ken-mahakama-kuu-yapiga-breki-matumizi-ya-maisha-card",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "underway",
+   "fact": "KBC Swahili reported on 2026-08-25 that the High Court (Justice Lawrence Mumbi) halted introduction of Maisha Card, new digital IDs due to replace the old national IDs, until a petition against it is decided.",
+   "as_of": "2026-08-25",
+   "date_precision": "day",
+   "system": "Maisha Card",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Maisha Card",
+   "country_label": "Maisha Card",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
