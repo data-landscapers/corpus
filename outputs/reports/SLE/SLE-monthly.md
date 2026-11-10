@@ -3,9 +3,9 @@ title: Sierra Leone — News, Oct – Nov 2026
 compiled: 2026-11-10
 period: 2026-10-01 to 2026-11-10
 place: SLE
-ledger_rows: 22
+ledger_rows: 24
 not_held: 4
-record: 6dfc84946740
+record: 85d9274c0c2a
 ---
 
 # News, Oct – Nov 2026
@@ -187,6 +187,8 @@ Sierra Leone's security forces and communications regulator raided a suspected i
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
@@ -274,6 +276,22 @@ Sierra Leone's National Investment Board showed its new Online Business Registra
 
 </div>
 
+### Sectoral management information systems
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">School feeding programme monitoring data system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EU and WFP Support Strengthened Data Systems for Sierra Leone’s School Feeding Programme | World Food Programme](https://www.wfp.org/news/eu-and-wfp-support-strengthened-data-systems-sierra-leones-school-feeding-programme)** — World Food Programme, 9 November 2026
+
+EUR 2 million EU contribution over two years; 80-plus staff trained; ODK and School Connect for school-feeding data.
+
+</div>
+
+</div>
+
 ### Other GovTech and e-Gov
 
 <div class="monthly-story" markdown="1">
@@ -308,6 +326,8 @@ Sierra Leone's Ministry of Communication, Technology and Innovation began traini
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
 <a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#innovation-ecosystem">Innovation ecosystem</a>
 </nav>
 
 ### AI
@@ -335,6 +355,22 @@ Sierra Leone's judiciary and the attorney-general's office are to draft a nation
 **[Country Profile on AI Governance: Sierra Leone](https://www.aipolicy.africa/country-profiles/sierra-leone)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Sierra Leone scored 0.72 out of 4 on the Africa AI Governance Index 2026, in the Nascent tier and ranked 43 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Regional Integration (1.30) and its weakest is Implementation and Impact (0.00).
+
+</div>
+
+</div>
+
+### Innovation ecosystem
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">FinTech Innovation Lab at UniPod</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sierra Leone Advances FinTech Innovation as UniPod Becomes Startup Acceleration Hub](https://spearnewssl.com/sierra-leone-advances-fintech-innovation-as-unipod-becomes-startup-acceleration-hub/)** — The Spear News SL, 10 November 2026
+
+UNCDF, EU and Bank of Sierra Leone partnership; startup acceleration with access to the central bank sandbox.
 
 </div>
 
