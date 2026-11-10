@@ -1,11 +1,11 @@
 ---
 title: Africa — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: XAF
-ledger_rows: 65
+ledger_rows: 71
 not_held: 3
-record: 120764a3492f
+record: 1be9a165bb10
 ---
 
 # News, Oct – Nov 2026
@@ -260,6 +260,8 @@ African judges held their first judicial dialogue on internet governance at the 
 <a href="#standards">Standards</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ai">AI</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#open-data">Open data</a>
 </nav>
 
 ### Legislation and regulation
@@ -530,6 +532,22 @@ At a UNDP-backed event in Rome on 3 November 2026, the AI Hub and Moroccan firm 
 
 </div>
 
+### Open data
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Vision for Open Research in Africa</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Call for Stakeholder Inputs to the Vision for Open Research in Africa](https://www.nepad.org/publication/call-stakeholder-inputs-vision-open-research-africa)** — AUDA-NEPAD, 9 November 2026
+
+AUDA-NEPAD and the Science for Africa Foundation invited stakeholders, in a notice on file under 9 November 2026, to comment on a draft Vision for Open Research in Africa. The draft sets an ambition for an African-led open research ecosystem by 2034, aligned with STISA-2034. The consultation asks for views on relevance, challenges and priorities.
+
+</div>
+
+</div>
+
 ## Shared systems and infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Shared systems and infrastructure">
@@ -542,6 +560,8 @@ At a UNDP-backed event in Rome on 3 November 2026, the AI Hub and Moroccan firm 
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#national-statistics">National statistics</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geospatial-data">Geospatial data</a>
 </nav>
@@ -599,6 +619,34 @@ Airtel Africa reported results for the half year to 30 September 2026. Its custo
 **[Helios Towers Raises 2026 Guidance After Record Tenancy Additions Across Africa and Middle East](https://techafricanews.com/2026/11/05/helios-towers-raises-2026-guidance-after-record-tenancy-additions/)** — Tech Africa News, 5 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a>
 
 Helios Towers added 3,435 tenancies in the nine months to 30 September 2026, its highest year-to-date total, bringing the portfolio to 35,379 tenancies. Revenue rose 13% to US$718.8 million. The company raised its full-year guidance to about 4,000 additions.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data customers and usage on the continent's largest operator</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MTN Group Earnings Outpace Revenue by 22.9% as Nigeria and Ghana Drive Q3 Growth](https://techafricanews.com/2026/11/09/mtn-group-earnings-outpace-revenue-by-22-9-as-nigeria-and-ghana-drive-q3-growth/)** — Tech Africa News, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+MTN Group's update for the nine months to 30 September 2026 put service revenue at R176.2 billion, up 17.2% in constant currency, and EBITDA at R86.0 billion, up 22.9%. Nigeria and Ghana led the growth. The group counted 323.0 million customers and 70.3 million active Mobile Money users, with fintech transaction value up 36.9% to US$512.5 billion.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet exchange points listed by the African IXP Association</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IXPs list — The African IXP Association](https://af-ix.org/ixps-list)** — African IXP Association (AF-IX), 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BWA/BWA-monthly.html" title="BWA">Botswana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a>
+
+The African IXP Association's page, on file under 9 November 2026, lists Internet exchange points by country and city with the year each opened. Entries include Angola-IXP in Luanda (2006), Benin IX in Cotonou (2013) and the Kinshasa exchange KINIX in the DRC (2012). The page carries no date of its own.
 
 </div>
 
@@ -920,6 +968,20 @@ Russian President Vladimir Putin urged African countries to join the A7 cross-bo
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fintech volume carried by the continent's largest operator</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[MTN Group Earnings Outpace Revenue by 22.9% as Nigeria and Ghana Drive Q3 Growth](https://techafricanews.com/2026/11/09/mtn-group-earnings-outpace-revenue-by-22-9-as-nigeria-and-ghana-drive-q3-growth/)** — Tech Africa News, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a>
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -931,6 +993,22 @@ Russian President Vladimir Putin urged African countries to join the A7 cross-bo
 **[Budget Practices and Procedures (03) - From budget transparency to accountability: Where the chain breaks down in Africa](https://www.cabri-sbo.org/en/publications/budget-practices-and-procedures-03-from-budget-transparency-to-accountability-where-the-chain-breaks-down-in-africa)** — CABRI (Collaborative Africa Budget Reform Initiative), 12 October 2026
 
 CABRI published a policy brief on its 2025 budget practices survey of 18 African countries. It reports a functional integrated financial management information system in 15 countries, e-audit tools in 7 and open fiscal data portals in 9.
+
+</div>
+
+</div>
+
+### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Continental education data portal for the CESA indicators</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[African Union Concludes 6th Ordinary Session of the Specialized Technical Committee on Education, Science and Technology](https://au.int/en/pressreleases/20261109/african-union-concludes-6th-ordinary-session-specialized-technical-committee)** — African Union Commission, 9 November 2026
+
+African Union ministers of education, science and technology met in Addis Ababa on 6 November 2026. They cleared five sectoral AI publications for national adaptation. They asked AUDA-NEPAD and an advisory group for a continental semiconductor strategy to 2034. They also asked the AU Commission for a reporting portal on 60 CESA indicators.
 
 </div>
 
@@ -955,10 +1033,28 @@ Space in Africa released its African Satellite Manufacturing and Launch Market R
 ## Coordination and collaboration
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Coordination and collaboration">
+<a href="#ict-industry">ICT Industry</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#innovation-ecosystem">Innovation ecosystem</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eu-activities">EU activities</a>
 </nav>
+
+### ICT Industry
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Continental semiconductor strategy and roadmap to 2034</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[African Union Concludes 6th Ordinary Session of the Specialized Technical Committee on Education, Science and Technology](https://au.int/en/pressreleases/20261109/african-union-concludes-6th-ordinary-session-specialized-technical-committee)** — African Union Commission, 9 November 2026
+
+Summarised under [National statistics](#national-statistics).
+
+</div>
+
+</div>
 
 ### Innovation ecosystem
 
