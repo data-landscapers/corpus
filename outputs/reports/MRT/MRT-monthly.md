@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-10
 place: MRT
 ledger_rows: 17
 not_held: 3
-record: a5cafdaeb375
+record: edd074c66741
 ---
 
 # News, Oct – Nov 2026
@@ -172,7 +172,7 @@ Mauritania's WARDIP project unit at the digital transformation ministry issued a
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Cybersecurity memorandum with Cybashon (United States)</p>
+<p class="monthly-story__name">Cybersecurity memorandum with a US firm</p>
 
 <div class="bulletin-item" markdown="1">
 
