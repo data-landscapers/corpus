@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-07-egy-youm7-cairo-ict-ministers-1gw-power-data-centres",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "ICT Minister Raafat Hindy says Egypt has completed the first phase of the national AI strategy and has set out its second phase under President Sisi's patronage.",
+   "as_of": "2026-11-07",
+   "date_precision": "day",
+   "system": "National Artificial Intelligence Strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
