@@ -1,11 +1,11 @@
 ---
 title: East Africa — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: XEA
-ledger_rows: 17
+ledger_rows: 18
 not_held: 0
-record: 57e11faadefc
+record: 878fbf7fd4d1
 ---
 
 # News, Oct – Nov 2026
@@ -169,6 +169,8 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#rural-digital-data-capture">Rural digital data capture</a>
 </nav>
 
@@ -275,6 +277,22 @@ Afreximbank made the East African Business Council a trade corridor partner of i
 **[East African Community (EAC) Health Ministers Step Up Regional Action to Strengthen Health Security](https://www.africa-newsroom.com/press/east-african-community-eac-health-ministers-step-up-regional-action-to-strengthen-health-security?lang=en)** — Africa Newsroom (APO Group), 8 October 2026
 
 East African Community health ministers, ending their 26th meeting in Arusha on 6 October 2026, advanced a regional platform for sharing pandemic and epidemic intelligence. They noted that all eight Partner States are onboarded and trained on the digital platform of the EAC pooled procurement mechanism, and called for a dashboard to track regional health decisions.
+
+</div>
+
+</div>
+
+### Other GovTech and e-Gov
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">HUSIKA early-warning communication platform (ICPAC)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Built to Evolve: What HUSIKA Shows About Modular Digital Infrastructure](https://govstack.global/news/built-to-evolve-what-husika-shows-about-modular-digital-infrastructure/)** — GovStack, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SSD/SSD-monthly.html" title="SSD">South Sudan</a>
+
+GovStack published an account on 9 November 2026 of HUSIKA, a platform that passes climate and early-warning information from producing institutions to media, authorities and communities. It lists active deployments in 11 countries, across web, SMS and Telegram. South Sudan's Meteorological Service used it in a journalist training and an official said it replaced door-to-door printed posters.
 
 </div>
 
