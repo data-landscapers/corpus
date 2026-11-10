@@ -278,15 +278,94 @@ def adapt_unctad(d, edition, release) -> list[dict]:
     return out
 
 
-ADAPTERS = {"aftech": adapt_aftech, "gtmi": adapt_gtmi, "unctad": adapt_unctad}
+ODIN_API = "https://odin-aim.akroninc.net/api/api/client"
+ODIN_YEARS = [2016, 2017, 2018, 2020, 2022, 2024]
+# What the profile carries that a claim is made from; the rest is chart data and weights.
+ODIN_KEEP = ("country", "dataReports", "input", "categoryInputSource", "categories", "criteria",
+             "odinScores", "selectedYear", "participatedInReview")
+
+
+def fetch_odin(sid: str) -> list[tuple[str, bytes]]:
+    """ODIN publishes no file; its site reads `GetCountryProfile/{year}/{ISO3}` (found from the
+    site's own script, 2026-11-10). One profile per country and round, trimmed to ODIN_KEEP and
+    gathered into one gzip, written with mtime 0 so an unchanged edition hashes the same."""
+    import gzip  # noqa: PLC0415
+    import json  # noqa: PLC0415
+    ours = [r["iso-3"] for r in rows(COUNTRIES) if not r["iso-3"].startswith("X")]
+
+    def one(job):
+        iso, year = job
+        r = requests.post(f"{ODIN_API}/GetCountryProfile/{year}/{iso}", json={},
+                          headers={"User-Agent": ss.UA}, timeout=120)
+        r.raise_for_status()
+        j = r.json()
+        keep = {k: j.get(k) for k in ODIN_KEEP}
+        for i in keep.get("input") or []:
+            i.pop("assessmentDetail", None)
+        return iso, year, keep
+
+    out = collections.defaultdict(dict)
+    with ThreadPoolExecutor(4) as pool:
+        for iso, year, keep in pool.map(one, [(i, y) for i in ours for y in ODIN_YEARS]):
+            out[iso][str(year)] = keep
+    body = json.dumps(out, ensure_ascii=False, sort_keys=True).encode("utf-8")
+    return [("original.json.gz", gzip.compress(body, mtime=0))]
+
+
+FETCHERS = {"odin": fetch_odin}
+
+ODIN_CRITERIA = ["indicators", "last 5 years", "last 10 years", "first admin level",
+                 "second admin level", "machine-readable", "non-proprietary", "download options",
+                 "metadata", "terms of use"]
+
+
+def adapt_odin(d, edition, release) -> list[dict]:
+    """One claim per country, round and data category: the ten element scores as ODIN gave
+    them (0, 0.5 or 1), the series found, the latest year of data, and where it was found."""
+    import gzip  # noqa: PLC0415
+    import json  # noqa: PLC0415
+    data = json.loads(gzip.decompress((d / "original.json.gz").read_bytes()))
+    m, out = mapping("odin"), []
+    for iso in sorted(data):
+        for year in sorted(data[iso]):
+            p = data[iso][year]
+            cats = {c["categoryId"]: c["category1"] for c in p.get("categories") or []}
+            src = collections.defaultdict(list)
+            for c in p.get("categoryInputSource") or []:
+                if c.get("cisurl"):
+                    src[c["inputId"]].append(c["cisurl"].strip())
+            inputs = collections.defaultdict(list)
+            for i in p.get("input") or []:
+                inputs[i["categoryId"]].append(i)
+            for rep in p.get("dataReports") or []:
+                name = cats.get(rep["categoryId"], "")
+                vals = [rep.get(f"criteria{n}Val") for n in range(1, 11)]
+                # -1 is ODIN's "not scored" (connectivity coverage in 2024), not a score.
+                status = "; ".join(f"{k} {'not scored' if v < 0 else f'{v:g}'}"
+                                   for k, v in zip(ODIN_CRITERIA, vals) if v is not None)
+                found = [i for i in inputs[rep["categoryId"]] if not i.get("dataNotAvailable")]
+                years = [int(y) for i in found for y in re.findall(r"\b(?:19|20)\d{2}\b", i.get("yearsAvailable") or "")]
+                docs = list(dict.fromkeys(u for i in found for u in src[i["inputId"]] if u.startswith("http")))
+                st, fit = studies_for(m, [name.lower()])
+                out.append({
+                    "source": "odin", "edition": edition, "survey_year": year, "iso3": iso,
+                    "item": name.lower(), "question": f"{name}: what the statistics office publishes, and how openly",
+                    "status": status,
+                    "name": "; ".join(dict.fromkeys((i.get("indicatorName") or "").strip() for i in found)),
+                    "year": str(max(years)) if years else "", "url": "", "documents": " ".join(docs),
+                    "basis": "publisher-assessed", "studies": st, "fit": fit})
+    return out
+
+
+ADAPTERS = {"aftech": adapt_aftech, "gtmi": adapt_gtmi, "unctad": adapt_unctad, "odin": adapt_odin}
 
 
 # --- fetch and claims ------------------------------------------------------------------------
 
 def cmd_fetch(sid: str) -> int:
     s = source(sid)
-    urls = s["download_url"].split()
-    got = []
+    urls = [] if sid in FETCHERS else s["download_url"].split()
+    got = FETCHERS[sid](sid) if sid in FETCHERS else []
     for u in urls:
         r = requests.get(u, headers={"User-Agent": ss.UA}, timeout=120)
         r.raise_for_status()
@@ -340,7 +419,10 @@ def registers() -> set[str]:
 def candidates(claims: list[dict]) -> dict[str, dict]:
     """url -> {title, year, places, publisher}; one per URL, places merged."""
     out, named = {}, registers()
+    data_only = {r["id"] for r in rows(SOURCES) if r["shape"] == "index"}
     for c in claims:
+        if c["source"] in data_only:
+            continue
         for u in c["documents"].split():
             if not u.lower().startswith("http"):
                 u = "https://" + u
@@ -485,9 +567,15 @@ def write_staged(folder, url, fetched, body, title, published, how, places, batc
 def database_record(sid: str, e: pathlib.Path, claims: list[dict]) -> tuple[str, str]:
     """The edition as one readable body: what a claim with no primary cites."""
     s = source(sid)
+    note = ""
+    if s["shape"] == "index":
+        # An index's rounds are each a full assessment; the record is the latest, which is
+        # what a claim without a primary cites. Earlier rounds stay in claims.csv.
+        latest = max(c["survey_year"] for c in claims)
+        claims = [c for c in claims if c["survey_year"] == latest]
+        note = f" The {latest} round only."
     lines = [f"{s['title']} — {s['publisher']}", "",
-             f"Rendered from the published file {s['download_url']}, fetched {e.name}. "
-             "African countries only.", ""]
+             f"Rendered from {s['download_url']}, fetched {e.name}. African countries only.{note}", ""]
     by = collections.defaultdict(list)
     for c in claims:
         by[c["iso3"] or "unplaced"].append(c)

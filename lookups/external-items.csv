@@ -117,3 +117,33 @@ unctad,consumer protection,,consumerprotection,partial,"Theirs is consumer prote
 unctad,privacy and data protection,,dataprotectionlaw,same,
 unctad,cybercrime,,cybersecuritylaw,theirs-narrower,"Cybercrime law only; ours also takes cybersecurity and critical-infrastructure law."
 unctad,indirect taxation,,,none,VAT or GST on digital trade. No indicator of ours; nearest is revenuecollection.
+odin,population and vital statistics,,opendatapolicy,theirs-broader,"Theirs tests what the statistics office actually publishes openly: formats, licence, downloads, metadata, admin-level detail. Ours asks for a policy. Theirs tests delivery."
+odin,population and vital statistics,,censuses,partial,
+odin,population and vital statistics,,civilregister,partial,"Vital statistics published, not registration itself."
+odin,education facilities,,opendatapolicy,theirs-broader,
+odin,education facilities,,admindata,partial,"Statistics drawn from administrative records."
+odin,education outcomes,,opendatapolicy,theirs-broader,
+odin,health facilities,,opendatapolicy,theirs-broader,
+odin,health facilities,,admindata,partial,
+odin,health outcomes,,opendatapolicy,theirs-broader,
+odin,reproductive health,,opendatapolicy,theirs-broader,
+odin,food security and nutrition,,opendatapolicy,theirs-broader,
+odin,gender statistics,,opendatapolicy,theirs-broader,
+odin,crime and justice,,opendatapolicy,theirs-broader,
+odin,crime and justice,,admindata,partial,
+odin,poverty and income,,opendatapolicy,theirs-broader,
+odin,national accounts,,opendatapolicy,theirs-broader,
+odin,labor,,opendatapolicy,theirs-broader,
+odin,price indexes,,opendatapolicy,theirs-broader,
+odin,government finance,,opendatapolicy,theirs-broader,
+odin,government finance,,admindata,partial,
+odin,money and banking,,opendatapolicy,theirs-broader,
+odin,international trade,,opendatapolicy,theirs-broader,
+odin,balance of payments,,opendatapolicy,theirs-broader,
+odin,digital connectivity,,opendatapolicy,theirs-broader,
+odin,digital connectivity,,internetusage,partial,"Whether the statistics office publishes connectivity data, not the level of use."
+odin,agriculture and land use,,opendatapolicy,theirs-broader,
+odin,resource use,,opendatapolicy,theirs-broader,
+odin,energy,,opendatapolicy,theirs-broader,
+odin,pollution,,opendatapolicy,theirs-broader,
+odin,built environment,,opendatapolicy,theirs-broader,
