@@ -60,6 +60,11 @@ The first reading, on 2026-11-10, found three patterns:
 **Cite the primary wherever one exists; the database only for what nothing else states, and say whose statement it is** *(Bill, 2026-11-10)*. `lint-study.py` holds every evidence row to a record held in raw/. So:
 
 - **Primaries are acquired.** `stage` sends a claim's document links that are not already held to `new-queue/dataset-external-{source}-NN/`, 40 to a batch, in `status-stage.py`'s file format. Portal and home-page links are not sent: they show a system exists and stay as claims. A link is held when OSINT's URL index or the catalogue (same title, same country) has it. A document is staged only when a date can be read from its path or the source's year. `staging.csv` records each link's outcome, so a rerun fetches only what is new.
+- **First run, 2026-11-10.**
+  - Carnegie: 238 staged, 41 held, 41 too thin, 247 unfetchable.
+  - GTMI: 415 staged, 75 held, 99 undated, 76 thin, 383 unfetchable, plus 7 listings or error pages.
+  - Most unfetchable links are 404s with no Wayback capture. They stay as claims. `stage --retry` fetches the transient failures again.
+  - Titles: GTMI gives no document titles, so `best_title` builds one from the page title, the file name, the body's first line or the claim's name, skipping letterheads.
 - **The database itself is one raw record per edition**, its African rows rendered by country. This is the fallback a claim cites when it has no primary. The prose names the basis: "the government told the World Bank's GovTech survey…", or "Carnegie's tracker lists…".
 
 ## 5. Not yet built

@@ -35,6 +35,7 @@ import collections
 import csv
 import datetime as dt
 import hashlib
+import html
 import importlib.util
 import io
 import os
@@ -306,7 +307,7 @@ def candidates(claims: list[dict]) -> dict[str, dict]:
             if up.urlsplit(u).path.strip("/") == "":
                 continue  # a bare host is a home page, not a document
             k = out.setdefault(u, {"title": c["name"] if c["source"] == "aftech" else "",
-                                   "year": c["year"], "places": [], "item": c["item"]})
+                                   "year": c["year"], "places": [], "item": c["item"], "name": c["name"]})
             if c["iso3"] and c["iso3"] not in k["places"]:
                 k["places"].append(c["iso3"])
     return out
@@ -331,12 +332,62 @@ def published_for(u: str, year: str, body: str, kind: str) -> tuple[str, str]:
     return "", ""
 
 
+_mj = importlib.util.spec_from_file_location("mojibake", HERE / "lint-mojibake.py")
+mojibake = importlib.util.module_from_spec(_mj)
+_mj.loader.exec_module(mojibake)
+
+# A directory index or a list of publications is where a document was, not a document.
+LISTING = re.compile(r"(?i)^(index of\b|publications?$|documents?$|downloads?$|resources$|view$)")
+# What a PDF's metadata or a server says when nobody titled the file (GTMI, 2026-11-10: a
+# third of the first run's titles were file names, "Microsoft Word - …" or "view").
+JUNK = re.compile(r"(?i)^(microsoft (word|powerpoint) - |powerpoint presentation$|untitled|"
+                  r"view$|document$)|\.(pdf|docx?|pptx?)$|^[\w.\[\]-]+$")
+
+
+# The first lines of a government PDF are its letterhead, not its title.
+LETTERHEAD = re.compile(r"(?i)^(the )?(republic|r[ée]publique|rep[úu]blica|kingdom|royaume|"
+                        r"federal|state of|government|gouvernement|minist\w*|office|depart\w*|"
+                        r"united republic|people's)\b")
+# A server's error page answered 200 (six on the GTMI run of 2026-11-10).
+ERROR_PAGE = re.compile(r"(?i)apologi[sz]e for the inconvenience|page not found|^404\b|"
+                        r"access denied|^forbidden|just a moment|attention required")
+GENERIC = re.compile(r"(?i)^(powerpoint presentation|untitled\w*|view|document|slide \d+)$")
+
+
+def readable(t: str) -> str:
+    return re.sub(r"\s+", " ", html.unescape(mojibake.repair(t or "")[0])).strip()
+
+
+def best_title(page_title: str, body: str, url: str, name: str) -> str:
+    """The page's own title where it is one; else the file name made words, the body's first
+    heading-like line, or the name the database gave, in that order."""
+    t = readable(page_title)
+    if t and not JUNK.search(t) and len(t.split()) >= 2:
+        return t
+    t = "" if GENERIC.match(t) else t
+    stem = re.sub(r"(?i)^microsoft (word|powerpoint) - |\.(pdf|docx?|pptx?)$", "", t or
+                  up.unquote(up.urlsplit(url).path.rsplit("/", 1)[-1]))
+    stem = re.sub(r"[_\-+]+", " ", re.sub(r"\[\d+\]|\b\d{6,}\b", "", stem)).strip()
+    stem = re.sub(r"(?<=[a-z])(?=[A-Z])", " ", stem)  # NigeriaDataProtection -> words
+    if len(re.findall(r"[A-Za-z]{3,}", stem)) >= 3:
+        return stem
+    for line in body[:3000].splitlines():
+        line = readable(line.strip("#*> "))
+        if 3 <= len(line.split()) <= 25 and re.search(r"[A-Za-z]{4,}", line) \
+                and not LETTERHEAD.match(line):
+            return line
+    return readable(name) or stem or "Untitled document"
+
+
 def yq(s: str) -> str:
     return '"' + s.replace("\\", "\\\\").replace('"', '\\"') + '"'
 
 
 def write_staged(folder, url, fetched, body, title, published, how, places, batch_tag, publisher=""):
     date, precision = ss.dated(published)
+    # Wayback keeps the port it crawled (`host:80/`), which the URL line's check reads as
+    # another address.
+    fetched = re.sub(r"(?<=[a-z]):80/", "/", fetched)
     path = folder / f"{date}-{ss.slugify(title) or 'document'}.md"
     n = 2
     while path.exists():
@@ -449,7 +500,13 @@ def cmd_stage(sid: str, limit: int, retry: bool = False) -> int:
             if not published:
                 log[u] = {"url": u, "places": places, "outcome": "undated", "note": "", "batch": ""}
                 continue
-            title = c["title"] or page_title or up.unquote(up.urlsplit(u).path.rsplit("/", 1)[-1])
+            title = c["title"] or best_title(page_title, body, u, c["name"])
+            if LISTING.match(title):
+                log[u] = {"url": u, "places": places, "outcome": "listing", "note": title, "batch": ""}
+                continue
+            if ERROR_PAGE.search(readable(page_title)):
+                log[u] = {"url": u, "places": places, "outcome": "error-page", "note": readable(page_title)[:80], "batch": ""}
+                continue
             if folder is None or in_batch >= BATCH:
                 if folder is not None:
                     batch_no += 1
