@@ -79,7 +79,7 @@ Every deadline in that programme had passed by August 2026.
 
 [The 2026 Public Procurement and Concessions Act requires public entities to use the e-GP system](https://www.liberianobserver.com/news/ppcc-rolls-out-ict-equipment-for-phase-two-of-e-gp-system/article_d2a4d198-790e-4364-bc97-e335eaaaa7c5.html). [In August 2026 the Telecommunications Authority launched an automated licensing and renewal platform, keeping the in-person route open](https://www.connectingafrica.com/connectivity/liberia-launches-automated-telecom-licensing-renewal-system).
 
-[The Liberia Standards Authority became a correspondent member of ISO in October 2025, its dues paid through an EU-funded project](https://frontpageafricaonline.com/liberia-standards-authority-joins-iso-afsec-as-director-general-departs-for-global-leaders-gathering-in-rwanda/). [In November 2025 its director general announced that Liberia is now a full ISO member](https://www.liberianobserver.com/news/liberia-attains-full-iso-membership/article_31c242b3-2a0f-4118-b019-581fea289693.html).
+[The Liberia Standards Authority became a correspondent member of ISO in October 2025, its dues paid through an EU-funded project](https://frontpageafricaonline.com/liberia-standards-authority-joins-iso-afsec-as-director-general-departs-for-global-leaders-gathering-in-rwanda/). [In November 2026 ISO still listed it as a correspondent member, with no technical-committee participation](https://www.iso.org/member/11464839.html).
 
 [In March 2026 WURI committed ECOWAS member states, Liberia among them, to common specifications for foundational digital identity](https://von.gov.ng/ecowas-world-bank-advance-west-africa-digital-identity/). No published standard under it has been found.
 
