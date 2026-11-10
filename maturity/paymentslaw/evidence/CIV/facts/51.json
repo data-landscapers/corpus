@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-09-sen-wave-precise-l-acces-a-pi-spi-au-senegal-et-en-cote-d-ivoire",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "connect",
+   "fact": "BiFinances says the BCEAO set 30 June 2026 as the deadline for institutions to finish connecting to PI-SPI and provide effective service to customers, and asked those in testing to speed up.",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "BCEAO PI-SPI connection deadline",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
