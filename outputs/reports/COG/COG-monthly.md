@@ -3,9 +3,9 @@ title: Congo — News, Oct – Nov 2026
 compiled: 2026-11-10
 period: 2026-10-01 to 2026-11-10
 place: COG
-ledger_rows: 14
+ledger_rows: 15
 not_held: 5
-record: b09cee38e297
+record: ad1bed99f4ef
 ---
 
 # News, Oct – Nov 2026
@@ -295,6 +295,20 @@ The Republic of the Congo scored 1.75 out of 4 on the Africa AI Governance Index
 **[Commerce transfrontalier : l'INS cible l'informel](https://brazzavillois.com/2026/10/06/du-fleuve-au-marche-lins-veut-compter-linformel)** — Brazzavillois, 6 October 2026
 
 Congo's statistics institute held a workshop in Brazzaville on 2 October to set up a permanent statistical system for informal cross-border trade. A mapping of border crossings is under way, a baseline survey is planned for 2027 and quarterly collection is to feed the balance of payments, with World Bank support.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics institute and MTN digitalisation working group</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[L’Ins et Mtn Télécom s’unissent pour digitaliser les statistiques nationales](https://labreveonline.com/lins-et-mtn-tlcom-sunissent-pour-digitaliser-les-statistiques-nationales/)** — La Brève Online, 8 November 2026
+
+Joint working group to draft roadmap toward framework MoU; SIM data collection, data-centre hosting, SDMX required.
 
 </div>
 
