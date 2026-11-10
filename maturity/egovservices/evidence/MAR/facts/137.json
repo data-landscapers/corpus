@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-09-mar-moroccans-abroad-can-now-apply-online-for-criminal-record-certificates",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Hespress reports that DGSN opened its Epolice portal to Moroccans abroad from 9 November 2026 to apply online for criminal record certificates, with tracking online and collection at a chosen diplomatic mission.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "Epolice",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Epolice",
+   "country_label": "Morocco",
+   "class": "eservices",
+   "platform": "DGSN online police services portal",
+   "owner": "General Directorate of National Security (DGSN)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

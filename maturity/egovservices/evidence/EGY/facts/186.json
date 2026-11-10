@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-07-egy-youm7-cairo-ict-ministers-1gw-power-data-centres",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Minister Mohamed Farid says new digital services are being made available to exporters with the ICT ministry and e-Finance.",
+   "as_of": "2026-11-07",
+   "date_precision": "day",
+   "system": "Digital services for exporters",
+   "class": "eservices"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
