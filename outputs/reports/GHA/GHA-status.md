@@ -1,12 +1,12 @@
 ---
 title: Ghana: status report
-compiled: 2026-11-08
+compiled: 2026-11-10
 place: GHA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 15
-sources_cited: 316
+sources_cited: 318
 sections_written: 39
 not_established: 0
 acquire_lines: 60
@@ -70,7 +70,7 @@ The [e-Government Interoperability Framework launched in 2009 stalled on funding
 
 The World Bank found in 2025 that public procurement runs on an [electronic system for tendering and contract management, used to enforce procurement standards](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). The financial management system [applies one budget and accounting classification at central and sub-national level](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). Ghana has [no open source policy for government software](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
-[Act 771 of 2008 gives the National Information Technology Agency functions over digital signatures](https://nita.gov.gh/theevooc/2017/12/National-Information-Technology-Agency-Act-771.pdf). The Cyber Security Authority [accredits practitioners and certifies products](https://csa.gov.gh/resources/cybersecurity_Act_2020%28Act_1038%29.pdf). [No one may provide a cybersecurity service without its two-year licence](https://csa.gov.gh/resources/cybersecurity_Act_2020%28Act_1038%29.pdf).
+[Act 771 of 2008 gives the National Information Technology Agency functions over digital signatures](https://nita.gov.gh/theevooc/2017/12/National-Information-Technology-Agency-Act-771.pdf). [A 2025 bill to replace it would add a National Digital Architecture and a duty of interoperability on public ICT systems](https://nita.gov.gh/wp-content/uploads/2025/NITA-2008-act-2025-1.pdf), and [it was still before government in May 2026](https://labarijournal.com/ghana-is-considering-passing-a-host-of-new-ict-related-laws-an-analyst-says-they-would-hamper-africa-digital-trade/). The Cyber Security Authority [accredits practitioners and certifies products](https://csa.gov.gh/resources/cybersecurity_Act_2020%28Act_1038%29.pdf). [No one may provide a cybersecurity service without its two-year licence](https://csa.gov.gh/resources/cybersecurity_Act_2020%28Act_1038%29.pdf).
 
 The [5G licence terms of July 2026 set cell-edge download speeds, verified by drive testing and site audits](https://nca.org.gh/wp-content/uploads/2026/07/RFA_5G_Spectrum_16072026.pdf). In April 2026 the [West African telecommunications regulators' association finalised technical reports on 5G, subsea-cable resilience, cybersecurity and consumer protection](https://guardian.ng/news/watra-rallies-africa-for-regions-216b-digital-economy/). In October 2026 the central bank governor said [the bank will review how banks have implemented its revised Cyber and Information Security Directive](https://www.myjoyonline.com/bog-develops-ai-rules-for-financial-sector/). The bank has also [directed banks to give their fraud functions direct access to the chief executive](https://www.myjoyonline.com/bog-orders-banks-to-give-fraud-units-direct-access-to-ceos/) (2026).
 
