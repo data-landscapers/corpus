@@ -1,11 +1,11 @@
 ---
 title: Burundi — News, Oct – Nov 2026
-compiled: 2026-11-04
-period: 2026-10-01 to 2026-11-04
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: BDI
-ledger_rows: 17
+ledger_rows: 18
 not_held: 10
-record: e2219b0bdeb1
+record: 8c4ea3de47a9
 ---
 
 # News, Oct – Nov 2026
@@ -143,6 +143,20 @@ Burundi's finance and digital economy minister met South Korea's science and ICT
 **[Communiqué de presse n°13/2026 de la réunion du Conseil des Ministres du mercredi 14 octobre 2026](https://primature.gov.bi/wp-content/uploads/2026/10/CMQ_CM_14.10.26.pdf)** — Présidence de la République du Burundi, Secrétariat Général de l'Etat, 15 October 2026
 
 Summarised under [Strategies, plans and policies](#strategies-plans-and-policies).
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Powering of mobile base stations</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Econet Burundi Invests $6.5 Million in Solar-Powered Telecom Network](https://techafricanews.com/2026/11/09/econet-burundi-invests-6-5-million-in-solar-powered-telecom-network/)** — Tech Africa News, 9 November 2026
+
+Econet Wireless Burundi broke ground in Bujumbura on 5 November 2026 on solar power for its network. The USD 2.5 million first phase of a USD 6.5 million programme covers about a third of its sites by July 2027. GEFI Solutions SEZ arranged the financing under a CRDB Bank guarantee. The company targets renewable power across the network by December 2028.
 
 </div>
 
