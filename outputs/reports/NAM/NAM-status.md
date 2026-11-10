@@ -6,7 +6,7 @@ region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 6
-sources_cited: 191
+sources_cited: 192
 sections_written: 39
 not_established: 2
 acquire_lines: 45
@@ -51,7 +51,7 @@ Namibia has [no comprehensive data protection legislation and no data protection
 
 [Since 2023 the national ID has been accepted as a travel document for crossing into Botswana under a bilateral agreement](https://www.veridos.com/en/about/press-media/simplified-border-controls-namibia-and-botswana-lead-the-way/). [Citizens move between the two countries without a passport](https://www.veridos.com/en/about/press-media/simplified-border-controls-namibia-and-botswana-lead-the-way/).
 
-[In March 2026 Namclear, the national clearing house, signed an agreement with PayInc to connect Namibia to TCIB, the SADC regional instant cross-border payment scheme](https://technews.com.na/2026/03/31/namibia-plugged-into-sadc-digital-payments-system-through-namclear-payinc-deal/). [Low-value push payments to Common Monetary Area countries are being introduced in phases](https://technews.com.na/2026/03/31/namibia-plugged-into-sadc-digital-payments-system-through-namclear-payinc-deal/). [A central bank directive of 31 March 2025 makes the scheme mandatory for low-value transfers within the Common Monetary Area from 1 April 2027](https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/1b/1b0b2668-5468-400b-8285-c2e3fc386a03.pdf). [Customs data has passed to South Africa's revenue service since customs-to-customs connectivity went live in February 2021](https://www.thesouthafrican.com/lifestyle/customs-connectivity-namibia-south-africa/).
+[In March 2026 Namclear, the national clearing house, signed an agreement with PayInc to connect Namibia to TCIB, the SADC regional instant cross-border payment scheme](https://technews.com.na/2026/03/31/namibia-plugged-into-sadc-digital-payments-system-through-namclear-payinc-deal/). [Low-value push payments to Common Monetary Area countries are being introduced in phases](https://technews.com.na/2026/03/31/namibia-plugged-into-sadc-digital-payments-system-through-namclear-payinc-deal/). [A central bank directive of 31 March 2025 makes the scheme mandatory for low-value transfers within the Common Monetary Area from 1 April 2027](https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/1b/1b0b2668-5468-400b-8285-c2e3fc386a03.pdf). [Customs data has passed to South Africa's revenue service since customs-to-customs connectivity went live in February 2021](https://www.thesouthafrican.com/lifestyle/customs-connectivity-namibia-south-africa/). [In November 2026 the revenue agency signed an agreement with Russia to exchange customs data on the value, classification and origin of goods, not yet in force](https://neweralive.na/namibia-russia-to-share-customs-data-to-improve-trade/).
 
 [Regional integration is one of Namibia's ten most improved governance measures in the 2024 IIAG, up 14.8 points over 2014-2023 to 64.7 out of 100 and 4th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf). [Namibia ranks 6th of 54 for overall governance, on 63.9 against an African average of 49.3](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf) (2023). [Its own score has fallen 3.3 points since 2014 while that average rose](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-na.pdf).
 
