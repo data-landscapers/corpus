@@ -3,9 +3,9 @@ title: Mali — News, Oct – Nov 2026
 compiled: 2026-11-10
 period: 2026-10-01 to 2026-11-10
 place: MLI
-ledger_rows: 11
+ledger_rows: 13
 not_held: 1
-record: 0125de43c424
+record: 683f9ab892fb
 ---
 
 # News, Oct – Nov 2026
@@ -14,6 +14,8 @@ record: 0125de43c424
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -78,6 +80,36 @@ Maliweb reported on 8 November 2026 that Bamako hosted the second coordination m
 
 </div>
 
+## Finance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#new-investments">New investments</a>
+</nav>
+
+### New investments
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Netherlands-funded UNDP equipment grant to the justice ministry (PROSMED)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Modernisation de la justice, renforcement de l’État de droit : Le PNUD offre des équipements et des codes au département de la Justice](https://www.maliweb.net/economie/developpement/modernisation-de-la-justice-renforcement-de-letat-de-droit-le-pnud-3121305.html)** — Le Challenger via Maliweb, 9 November 2026
+
+USD 493,193 UNDP-Netherlands kit handed over 5 Nov 2026; e-justice to issue criminal records, nationality certificates.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Netherlands (DGIS) via UNDP — Mali Ministry of Justice, e-justice IT equipment and penal codes (PROSMED), 2026](https://www.maliweb.net/economie/developpement/modernisation-de-la-justice-renforcement-de-letat-de-droit-le-pnud-3121305.html)** — Le Challenger via Maliweb, 9 November 2026
+
+USD 493,193 in-kind grant through UNDP's PROSMED to Mali's justice ministry, handed over 5 Nov 2026.
+
+</div>
+
+</div>
+
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
@@ -136,6 +168,8 @@ Mali's computer incident response centre ML-CERT launched a web platform for rep
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
 <a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
 ### Registries
@@ -149,6 +183,22 @@ Mali's computer incident response centre ML-CERT launched a web platform for rep
 **[Fichier électoral : l'heure du grand nettoyage](https://bamada.net/fichier-electoral-lheure-du-grand-nettoyage)** — Bamada.net, 6 October 2026
 
 Mali's annual revision of the electoral lists runs from 1 October to 31 December 2026, Le Pays reported. Voters apply at town halls, or at embassies and consulates abroad. The territorial administration ministry runs it, with the election management body AIGE supervising. By law the lists are drawn from the biometric civil-status database, with the national identification number (NINA) as each voter's key.
+
+</div>
+
+</div>
+
+### Other GovTech and e-Gov
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Online criminal record and nationality certificate</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Modernisation de la justice, renforcement de l’État de droit : Le PNUD offre des équipements et des codes au département de la Justice](https://www.maliweb.net/economie/developpement/modernisation-de-la-justice-renforcement-de-letat-de-droit-le-pnud-3121305.html)** — Le Challenger via Maliweb, 9 November 2026
+
+Summarised under [New investments](#new-investments).
 
 </div>
 
