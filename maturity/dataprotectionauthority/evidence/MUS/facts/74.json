@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-mus-data-protection-commissioner-interview-bdo-newsletter-2024",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The Data Protection Commissioner, Drudeisha Madhub, heads the Data Protection Office, which says it carries out compliance and enforcement under the Data Protection Act 2017.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Data Protection Office",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Office",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "e-DPO",
+   "owner": "Data Protection Office",
+   "tiers": ""
+  }
+ ],
+ "note": "No dated ruling against a named organisation, and the findings count has no stated period."
+}

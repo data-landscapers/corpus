@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-ben-decret-2026-422-nomination-membres-apdp",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "Decree no. 2026-422 of 1 July 2026, signed by President Wadagni, names eight members of the Autorite de Protection des Donnees a caractere personnel (one for the President, five for the National Assembly, one for the bar, one for the magistrates) and repeals the 2021 appointment decree 2021-092.",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "Autorite de Protection des Donnees a caractere personnel (APDP)",
+   "class": "authority"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorite de Protection des Donnees a caractere personnel (APDP)",
+   "country_label": "Benin",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

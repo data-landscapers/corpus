@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-05-tgo-ipdcp-communique-009-donnees-reseaux-sociaux",
+ "facts": [
+  {
+   "sub_indicator": "body",
+   "aspect": "standing",
+   "value": "constituted",
+   "fact": "The IPDCP, headed by its President Colonel Belei Bedian, issued communique No. 0009/IPDCP/P/2026 on 5 November 2026 as Togo's personal data protection authority under Law No. 2019-014.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "IPDCP",
+   "class": "authority"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
