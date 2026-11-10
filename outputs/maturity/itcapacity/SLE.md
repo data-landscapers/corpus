@@ -2,13 +2,13 @@
 
 ## In-house capacity
 
-**Government staff.** [The Ministry of Finance's DFMST, established in 2022, lists providing technical support to mission critical systems such as IFMIS and CSDRMS among its core functions](<https://mof.gov.sl/dfmst/>).
+**Government staff.** [The finance ministry's DFMST, set up in 2022, supports mission-critical systems such as IFMIS](<https://mof.gov.sl/dfmst/>). In November 2026 [ICT officers in ministries and agencies began training to run their own websites on gov.sl](<https://techafricanews.com/2026/11/09/sierra-leone-begins-training-government-ict-officers-on-website-management-and-security/>).
 
-**A technology body for government.** [The MoCTI Directorate of Technology, with a Software Development and Application Services Unit and a Data Science Unit, is stated to be mandated to support MDAs in planning, deploying and maintaining software, to build and maintain government-wide data infrastructure, and to direct delivery of e-Cabinet, e-Parliament and citizen portals](<https://mocti.gov.sl/directorate-of-technology/>).
+**A technology body for government.** [The communications ministry's Directorate of Technology is mandated to help ministries plan, deploy and maintain software](<https://mocti.gov.sl/directorate-of-technology/>). [It also builds government-wide data infrastructure and directs e-Cabinet, e-Parliament and citizen portals](<https://mocti.gov.sl/directorate-of-technology/>). Tech Africa News reported in November 2026 that [the ministry builds and hosts official websites for ministries and agencies on shared gov.sl infrastructure](<https://techafricanews.com/2026/11/09/sierra-leone-begins-training-government-ict-officers-on-website-management-and-security/>).
 
-**Built in-house.** No source found says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on [the source that sets it](<https://mocti.gov.sl/directorate-of-technology/>).
+**Built in-house.** No source found says a system built by government staff went live since October 2023. [The communications ministry builds government websites](<https://techafricanews.com/2026/11/09/sierra-leone-begins-training-government-ict-officers-on-website-management-and-security/>), but no launch date is given.
 
-**Systems run wholly in-house.** No source found since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on [the source that sets it](<https://mocti.gov.sl/directorate-of-technology/>).
+**Systems run wholly in-house.** No source found since October 2023 says government staff run three or more systems with no contractor doing the work. The nearest found fact: [the finance ministry's DFMST supports IFMIS and CSDRMS](<https://mof.gov.sl/dfmst/>).
 
 ***Also on file***. [e-Cabinet](<https://mocti.gov.sl/directorate-of-technology/>); [e-Parliament](<https://mocti.gov.sl/directorate-of-technology/>); [IFMIS](<https://mof.gov.sl/dfmst/>).
 
