@@ -3,7 +3,7 @@ description: Say whether the automatic poll is running; it is never armed by han
 ---
 
 **The poll is automatic** *(Bill, 2026-10-29)*: `scripts/poll-loop.py` runs in the
-`CORPUS-POLL` terminal tab, which starts it, every 30 minutes from 22:00 to 06:00, or a night's hours from
+`CORPUS-POLL` terminal tab, which starts it, every 30 minutes from 21:00 to 06:00, or a night's hours from
 `lookups/poll-window.csv`. It opens
 `/cycle` or `/poll-alert` in a new tab when there is work. Never arm a `/loop` or a cron for it.
 
