@@ -1,11 +1,11 @@
 ---
 title: Sao Tome and Principe — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: STP
-ledger_rows: 4
+ledger_rows: 6
 not_held: 5
-record: 2efef30b7d0e
+record: 4787af4ffae7
 ---
 
 # News, Oct – Nov 2026
@@ -23,8 +23,40 @@ record: 2efef30b7d0e
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 </nav>
+
+### Legislation and regulation
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic commerce bill</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[São Tomé e Príncipe defende mecanismos mais rápidos para obter provas digitais entre países da CPLP](https://rafa.tl/pt/sao-tome-e-principe-defende-mecanismos-mais-rapidos-para-obter-provas-digitais-entre-paises-da-cplp/)** — Ritmo, Voz e Coração de Timor (RAFA), 27 October 2026
+
+Justice minister urges faster CPLP sharing of digital evidence, citing the 2024 interoperability law.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Law 8/2024 on videoconference in the judicial system</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[São Tomé e Príncipe defende mecanismos mais rápidos para obter provas digitais entre países da CPLP](https://rafa.tl/pt/sao-tome-e-principe-defende-mecanismos-mais-rapidos-para-obter-provas-digitais-entre-paises-da-cplp/)** — Ritmo, Voz e Coração de Timor (RAFA), 27 October 2026
+
+Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
 
 ### Regional collaboration
 
