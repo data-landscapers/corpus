@@ -1,12 +1,12 @@
 ---
 title: Mauritania: status report
-compiled: 2026-11-09
+compiled: 2026-11-10
 place: MRT
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-20
 intersections_read: 7
-sources_cited: 187
+sources_cited: 188
 sections_written: 39
 not_established: 2
 acquire_lines: 39
@@ -70,7 +70,7 @@ On 5 September 2025 [fifteen states adopted a Model Policy Framework for Informa
 
 [Every licensed telecommunications operator in Mauritania had activated IPv6 by July 2026](https://www.alakhbar.info/6a62c5feac143500012ee215/). [The national transition strategy](https://mtnima.gov.mr/wp-content/uploads/2024/05/strategie-nationale-IPV6.pdf) sets 25% migration by 2026, in three phases: preparation, dual-stack operation and continuous monitoring.
 
-[In March 2025 the government held a national workshop with German cooperation to set unified standards for digital public services](https://www.ecofinagency.com/news-digital/2703-54171-mauritania-introduces-national-standards-for-digital-public-services). [On 28 September 2026 the digital ministry began training its officials and 120 new staff to apply them to every new digital service](https://www.elilam.net/index.php/ar/node/16321). [A 2024 scoping study for the digital ministry](https://mtnima.gov.mr/wp-content/uploads/2024/06/Rapport-Final-de-le%CC%81tude-de-cadrage-de-sofrecom.pdf) sets out a general interoperability framework and an interoperability hub. [Electronic exchange between administrations rests on the 2022 decree, with the general interoperability framework proposed and not yet in place](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf) (June 2023).
+[In March 2025 the government held a national workshop with German cooperation to set unified standards for digital public services](https://www.ecofinagency.com/news-digital/2703-54171-mauritania-introduces-national-standards-for-digital-public-services). [On 28 September 2026 the digital ministry began training its officials and 120 new staff to apply them to every new digital service](https://www.elilam.net/index.php/ar/node/16321). [Its government design system, Ijitil, is published openly under a Creative Commons licence](https://govstack.global/news/build-once-use-across-government-mauritanias-govstack-journey/) (November 2026). [A 2024 scoping study for the digital ministry](https://mtnima.gov.mr/wp-content/uploads/2024/06/Rapport-Final-de-le%CC%81tude-de-cadrage-de-sofrecom.pdf) sets out a general interoperability framework and an interoperability hub. [Electronic exchange between administrations rests on the 2022 decree, with the general interoperability framework proposed and not yet in place](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf) (June 2023).
 
 [The national standards office is Mauritania's ISO correspondent member, participating in five technical committees and observing ten](https://www.iso.org/member/576513.html) (October 2026). On 12 August 2026 [it opened 45 draft Mauritanian standards to a 60-day public enquiry, under decree 2024-172 of 9 December 2024](https://onanor.mr/2026/08/12/avis-denquete-publique-sur-des-projets-de-normes-mauritaniennes/).
 
