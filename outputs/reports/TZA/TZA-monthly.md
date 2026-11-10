@@ -1,11 +1,11 @@
 ---
 title: Tanzania — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: TZA
-ledger_rows: 44
-not_held: 5
-record: f6e7b643a950
+ledger_rows: 45
+not_held: 4
+record: fb528ad4dc65
 ---
 
 # News, Oct – Nov 2026
@@ -53,6 +53,20 @@ record: f6e7b643a950
 **[Digital Payments Now a Business Licensing Requirement](https://fbattorneys.co.tz/digital-payments-now-a-business-licensing-requirement/)** — FB Attorneys, 9 October 2026
 
 Law firm FB Attorneys notes that Tanzania's Business Licensing (Amendment) Regulations, 2026, published as Government Notice 158N on 30 June and in force from 1 July 2026, require applicants for new or renewed business licences to show they can take digital payments, such as Lipa Namba or TANQR. Businesses in minerals, livestock, agricultural produce, timber and fisheries must also show a bank account.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Payment Systems Act and its consumer rules</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[From Abu Dhabi to Dar es Salaam: Lessons on payments, open finance and supervision — UNCDF Policy Accelerator](https://policyaccelerator.uncdf.org/whats-new/from-abu-dhabi-to-dar-es-salaam-lessons-on-payments-open-finance-supervision)** — UNCDF Policy Accelerator, 9 November 2026
+
+Ten-member BoT delegation to CBUAE, October 2026; NPS framework review, open finance, risk-based conduct supervision.
 
 </div>
 
