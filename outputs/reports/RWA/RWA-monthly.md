@@ -1,11 +1,11 @@
 ---
 title: Rwanda — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: RWA
-ledger_rows: 30
+ledger_rows: 32
 not_held: 7
-record: 1f4381b90134
+record: 28fb0976864f
 ---
 
 # News, Oct – Nov 2026
@@ -129,6 +129,20 @@ The Rwanda Standards Board lists the regional and international technical commit
 **[Rwanda Secures $19 Million to Extend Government Digitalization Drive](https://www.wearetech.africa/en/fils-uk/news/public-management/rwanda-secures-19-million-to-extend-government-digitalization-drive)** — wearetech.africa, 9 October 2026
 
 Rwanda's parliament ratified EUR 17 million of World Bank financing for digital identity, public data management and cybersecurity, restoring part of US$20 million cut from the project in 2024. Delays to the government data hub have pushed the project's deadline to June 2028.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital monitoring of urban and fruit tree value chain (FAO grant)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digitalization of Rwanda`s urban and fruit trees value chain](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-766203)** — Food and Agriculture Organization (FAO), 31 October 2026
+
+USD 100,000 grant from FAO to Rwanda, digital fruit tree monitoring system, committed 2026-10-31.
 
 </div>
 
@@ -435,6 +449,28 @@ The October 2026 report rates more than 75 economies on 33 indicators of exposur
 **[Award-winner Ngirinshuti on an AI model that serves Rwanda’s statistical analysis](https://cenfri.org/articles/award-winner-ngirinshuti-on-an-ai-model-that-serves-rwandas-statistical-analysis/)** — Cenfri, 1 October 2026
 
 The National Institute of Statistics of Rwanda built a model that assigns industry, occupation and education codes to Labour Force Survey answers in Kinyarwanda, English or French, auto-coding 96% of records in one test. Work that took about four analysts a week now needs one person. The project, which grew from an AIMS and Cenfri training course, won an ITU Innovate for Impact award; a field app awaits further testing.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Agentic AI proofs of concept on government platforms</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Request for Expressions of Interest: Proof of Concept for AI-Enabled Agentic Workflows for Existing Government Services and User Journeys (Structured into Three Lots), RW-RAIA-577862-CS-QCBS, with Terms of Reference (Annex I)](https://raia.rw/wp-content/uploads/2026/10/RAIA-ToR-Agentic-Workflows.pdf)** — Rwanda Artificial Intelligence Agency (RAIA), 26 October 2026
+
+World Bank-funded REOI and ToR: three agentic-AI pilots on Mbaza, IremboAI and Kubaka under RAIA's autonomy framework.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[RAIA seeks firms for agentic AI proofs of concept on Mbaza, IremboAI and Kubaka](https://www.updatesrw.tech/posts/5e8fc595-42bb-43e2-92c8-1cdae355fe51)** — Updaterw, 8 November 2026
+
+Three lots on Mbaza, IremboAI and Kubaka; EOIs due 12 November; 7.5-month pilots from late March 2027.
 
 </div>
 
