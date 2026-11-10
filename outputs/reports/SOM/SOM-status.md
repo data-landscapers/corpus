@@ -1,12 +1,12 @@
 ---
 title: Somalia: status report
-compiled: 2026-11-09
+compiled: 2026-11-10
 place: SOM
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 210
+sources_cited: 211
 sections_written: 39
 not_established: 2
 acquire_lines: 38
@@ -105,7 +105,7 @@ Somalia's mobile network is one of its few genuinely improving national systems 
 
 [About 27.9 per cent of the population used the internet in 2024 on ITU data](https://datahub.itu.int/data/?e=1&i=11624), and [unique mobile subscriber penetration sits below 40 per cent](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-economy/wp-content/uploads/2024/05/ME-MENA-2023.pdf), well under the raw subscription count that multi-SIM ownership inflates. The gap is no longer mainly one of network reach. [Hormuud, the dominant operator, said in June 2026 that 4G covers more than 70 per cent of the population while nearly half its own device base still uses feature phones](https://itweb.africa/article/hormuud-anchors-somalias-digital-economy/Olx4zMkaZozv56km), which makes the handset, not the mast, the thing standing between a Somali and the internet.
 
-Satellite has filled part of the rural gap since [Starlink was licensed in April 2025](https://www.hiiraan.com/news4/2025/Apr/201121/starlink_launches_in_somalia_expanding_satellite_internet_to_underserved_regions.aspx), and [AstaanConnect became the first official Somali reseller in September 2025, selling and installing locally on plans from $36.90 a month](https://www.hiiraan.com/news4/2025/Sept/203052/astaanconnect_becomes_somalia_s_first_official_starlink_reseller.aspx). Fixed capacity lands at [Mogadishu, Berbera and Bosaso, but outside the cities last-mile electricity supply constrains what any of it can serve](https://www.hiiraan.com/news4/2025/Oct/203323/somalia_s_internet_users_soar_to_10_7_million_as_starlink_and_digital_strategy_fuel_expansion.aspx). Traffic exchange inside the country runs through [an exchange point in Mogadishu, established on 20 November 2018 and listed as active](https://www.pch.net/ixp/details/2072) (October 2026).
+Satellite has filled part of the rural gap since [Starlink was licensed in April 2025](https://www.hiiraan.com/news4/2025/Apr/201121/starlink_launches_in_somalia_expanding_satellite_internet_to_underserved_regions.aspx), and [AstaanConnect became the first official Somali reseller in September 2025, selling and installing locally on plans from $36.90 a month](https://www.hiiraan.com/news4/2025/Sept/203052/astaanconnect_becomes_somalia_s_first_official_starlink_reseller.aspx). [In February 2024 the regulator listed four submarine cables serving Somalia: Gulf2Africa, DARE, PEACE and EASSy](https://www.bbc.com/somali/articles/c2v43l1432po). Fixed capacity lands at [Mogadishu, Berbera and Bosaso, but outside the cities last-mile electricity supply constrains what any of it can serve](https://www.hiiraan.com/news4/2025/Oct/203323/somalia_s_internet_users_soar_to_10_7_million_as_starlink_and_digital_strategy_fuel_expansion.aspx). Traffic exchange inside the country runs through [an exchange point in Mogadishu, established on 20 November 2018 and listed as active](https://www.pch.net/ixp/details/2072) (October 2026).
 
 Two pieces of technical governance moved in 2026. The [National Communications Authority is accelerating national migration to IPv6 under a strategy adopted in February 2025, ahead of IPv4 exhaustion](https://www.wearetech.africa/en/fils-uk/news/public-management/somalia-upgrades-digital-infrastructure-to-bypass-global-ipv4-address-depletion), and in June 2026 it opened, with the IFC, [Somalia's first Submarine Cable Landing Technical Working Group, meeting in Nairobi under the IFC Broadband Infrastructure Project](https://www.hiiraan.com/news4/2026/Jun/205487/somalia_ifc_opens_first_technical_working_group_on_submarine_cable_infrastructure.aspx). [Voice calls interconnect across six licensed operators under a 2023 agreement, while mobile-money wallets remain closed to one another](https://www.itweb.africa/article/somalias-mobile-money-remains-locked-in-silos/mYZRXM9gbKXvOgA8) (October 2026), and [Berbera is being positioned as an alternative regional gateway](https://www.businessdailyafrica.com/bd/corporate/technology/somaliland-fibre-route-tests-kenya-s-regional-digital-edge-5596496) (September 2026), with capacity and landing arrangements not held.
 
