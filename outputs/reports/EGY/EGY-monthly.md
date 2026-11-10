@@ -1,11 +1,11 @@
 ---
 title: Egypt — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: EGY
-ledger_rows: 51
+ledger_rows: 52
 not_held: 36
-record: 56dbcd13d762
+record: d37c733f8633
 ---
 
 # News, Oct – Nov 2026
@@ -63,6 +63,28 @@ Egypt's communications minister, Raafat Hendy, met the regulator NTRA's reconsti
 **[Egypt Forum 2026 outlines sweeping development agenda to raise living standards, boost growth](https://www.egypttoday.com/Article/1/150233/Egypt-Forum-2026-outlines-sweeping-development-agenda-to-raise-living)** — EgyptToday, 24 October 2026
 
 Prime Minister Mostafa Madbouly announced the closing recommendations of Egypt Forum 2026, issued as presidential directives with targets running to 2030, covering wages, housing, health, education and industry. On digital government they aim to digitise all public services within three years and to double the Digital Egypt platform's 250 services to 500 by the close of 2026, and basic fixed-internet packages are to go from 50 GB to 100 GB.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National data-centre strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزراء الاتصالات والاستثمار والمالية والري يعرضون خططًا حكومية للتحول الرقمي والذكاء الاصطناعي](https://www.youm7.com/story/2026/11/7/وزراء-الاتصالات-والاستثمار-والمالية-والري-يعرضون-خططًا-حكومية-للتحول-الرقمي/7609762)** — Youm7, 7 November 2026
+
+Up to 1 GW of power at designated data-centre sites; 43% of digital exports from 50 firms; Cairo ICT opening, 7 Nov 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزير الاتصالات: نمو القطاع 24.5% و12 مليار دولار مستهدف الصادرات الرقمية.. رأفت هندى: نستهدف رفع مساهمة القطاع لـ 8% من الناتج المحلى بحلول 2030.. وإنتاج 12 مليون هاتف محمول خلال 2026.. 400 خدمة حكومية مستهدفة](https://www.youm7.com/story/2026/11/7/وزير-الاتصالات-نمو-القطاع-24-5-و12-مليار-دولار-مستهدف/7608559)** — Youm7, 7 November 2026
+
+Data-centre strategy due 2026; 5-7 hyperscale sites; 300 e-services by June 2027; USD 5.2bn outsourcing exports 2025.
 
 </div>
 

@@ -1,12 +1,12 @@
 ---
 title: Egypt: status report
-compiled: 2026-11-09
+compiled: 2026-11-10
 place: EGY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 10
-sources_cited: 232
+sources_cited: 233
 sections_written: 39
 not_established: 0
 acquire_lines: 60
@@ -130,7 +130,7 @@ Egypt concluded a [$3.5bn spectrum award to its four mobile operators in Februar
 ### Data Storage
 <!-- infra.store -->
 
-Telecom Egypt's board [withdrew on 17 July 2026 from the agreed sale of 75–80 percent of the unit owning its Regional Data Center Hub to Helios Investment Partners](https://www.connectingafrica.com/data-centers/telecom-egypt-cancels-helios-data-center-stake-sale). It said the conditions had not been met and [will instead carve the hub out as a wholly-owned subsidiary](https://www.connectingafrica.com/data-centers/telecom-egypt-cancels-helios-data-center-stake-sale). In October its chief executive said [a dedicated entity had been established to develop the data-centre business](https://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/telecom-egypt-expands-subsea-terrestrial-infrastructure-for-global-traffic/134930280). The ICT ministry is preparing [an integrated national data-centre strategy, ordered by presidential directive](https://gate.ahram.org.eg/News/5722522.aspx). [The strategy is framed on digital sovereignty and the localisation of data inside the country](https://gate.ahram.org.eg/News/5722522.aspx). On 22 September 2026 the minister said it [will be launched by the end of 2026](https://egyptian-gazette.com/egypt/ict-minister-unveils-data-centre-strategy-plans-at-fdc-summit/).
+Telecom Egypt's board [withdrew on 17 July 2026 from the agreed sale of 75–80 percent of the unit owning its Regional Data Center Hub to Helios Investment Partners](https://www.connectingafrica.com/data-centers/telecom-egypt-cancels-helios-data-center-stake-sale). It said the conditions had not been met and [will instead carve the hub out as a wholly-owned subsidiary](https://www.connectingafrica.com/data-centers/telecom-egypt-cancels-helios-data-center-stake-sale). In October its chief executive said [a dedicated entity had been established to develop the data-centre business](https://datacenters.economictimes.indiatimes.com/news/cloud-colocation-connectivity/telecom-egypt-expands-subsea-terrestrial-infrastructure-for-global-traffic/134930280). The ICT ministry is preparing [an integrated national data-centre strategy, ordered by presidential directive](https://gate.ahram.org.eg/News/5722522.aspx). [The strategy is framed on digital sovereignty and the localisation of data inside the country](https://gate.ahram.org.eg/News/5722522.aspx). On 22 September 2026 the minister said it [will be launched by the end of 2026](https://egyptian-gazette.com/egypt/ict-minister-unveils-data-centre-strategy-plans-at-fdc-summit/). [On 7 November 2026 the minister said the ministry is working with the electricity ministry to provide up to 1 GW of power at designated data-centre sites](https://www.youm7.com/story/2026/11/7/وزراء-الاتصالات-والاستثمار-والمالية-والري-يعرضون-خططًا-حكومية-للتحول-الرقمي/7609762).
 
 [The Cloud First Policy adopted in 2024 governs government cloud adoption](https://mcit.gov.eg/Upcont/Documents/Publications_2282024000_Cloud_First_Policy_Egypt_2024.pdf). [Localisation under it applies only to government data classified secret or top secret](https://digitalpolicyalert.org/change/12346-data-localisation-requirement-in-cloud-first-policy-2024), so no general localisation rule applies. Personal data falls under [the authorisation requirement on cross-border transfers](https://www.accessnow.org/egypts-new-data-protection-law-data-protection-or-data-control/). [Licensed fintech companies have had to keep their client database inside Egypt since July 2023](https://regalert.today/document/decision-of-the-board-of-directors-no-139-of-2023-regarding-technology-infrastru-80ca0920-daf1-4b0b-995e-54c267d1575a).
 
