@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "inhouse",
-      "stage": "unplaced",
-      "inhouse": "",
+      "stage": "4",
+      "inhouse": "yes",
       "agency": "operating",
-      "built": "",
+      "built": "live",
       "own": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "No source found from 2023 or later says government staff run or maintain any of its systems.",
+      "stage_sources": "BWA-003;BWA-001;BWA-002",
+      "gaps": "No sources found since October 2023 name three systems run wholly by government staff.",
       "note": "Counted from the four questions by study-ladder-itcapacity.py.",
-      "as_at": "2026-11-09"
+      "as_at": "2026-11-10"
     }
   ]
 }

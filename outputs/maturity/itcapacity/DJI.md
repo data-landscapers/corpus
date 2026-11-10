@@ -2,14 +2,14 @@
 
 ## In-house capacity
 
-**Government staff.** [EGA experts supported ANSIE, the government ICT coordination unit, in setting up a national data exchange layer and drafted the national interoperability framework for it, in a Government of Djibouti-funded project (EUR 52,800) running May 2022 to April 2023 (2023, before the three-year window)](<https://ega.ee/project/djibouti-digital-interoperability-platform/>).
+**Government staff.** [ANSIE, the state information systems agency, is itself building a third version of the E-JO platform](<https://www.presidence.dj/conseil-des-ministres/2025-01-14>). Its 2025 budget also covers support for the PKI and X-Road systems. [Estonia's eGA helped ANSIE set up a data exchange layer in 2022 and 2023](<https://ega.ee/project/djibouti-digital-interoperability-platform/>).
 
-**A technology body for government.** [The Council of Ministers examined a draft decree pricing the services ANSIE provides under agreement to public and parapublic institutions, including hosting, dedicated applications, technical assistance and network security support, and says ANSIE has offered such services since its creation](<https://www.presidence.dj/conseil-des-ministres/2023-11-14>).
+**A technology body for government.** [The Council of Ministers approved ANSIE's 2025 budget of 556.7 million FDJ on 14 January 2025](<https://www.presidence.dj/conseil-des-ministres/2025-01-14>). It pays for work for administrations: the E-JO and E-BALO platforms, archive digitisation, a human-resources system and the social registry.
 
-**Built in-house.** No source found says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on [the source that sets it](<https://www.presidence.dj/conseil-des-ministres/2023-11-14>).
+**Built in-house.** No source found since October 2023 says a system built by government staff went live. [The E-BALO platform was due to launch in 2025](<https://www.presidence.dj/conseil-des-ministres/2025-01-14>).
 
-**Systems run wholly in-house.** No source found since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on [the source that sets it](<https://www.presidence.dj/conseil-des-ministres/2023-11-14>).
+**Systems run wholly in-house.** No source found since October 2023 names three systems run wholly by government staff. [The E-JO work is the one named](<https://www.presidence.dj/conseil-des-ministres/2025-01-14>).
 
 ***Also on file***. [ANSIE (Agence Nationale des Systèmes d'Information de l'État)](<https://www.journalofficiel.dj/texte-juridique/loi-n210-an-25-9eme-l-portant-approbation-des-comptes-financiers-2024-de-lagence-nationale-des-systemes-dinformation-de-letat/>); [national data exchange layer](<https://ega.ee/project/djibouti-digital-interoperability-platform/>); [X-Road secure data exchange](<https://ega.ee/project/public-administration-modernisation-djibouti/>).
 
-***Not found***. No source found from 2023 or later says government staff run or maintain any of its systems.
+***Not found***. No source found says a system built by government staff went live since October 2023.

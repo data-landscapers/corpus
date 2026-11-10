@@ -1,6 +1,6 @@
 # Local capacity to maintain, manage and develop government systems: in-house capacity
 
-*As at 2026-10-26.*
+*As at 2026-11-10.*
 
 ## The norm
 
@@ -20,15 +20,26 @@ The African Charter on the Values and Principles of Public Service and Administr
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
-| 4 Operating | 4 |
-| 3 Established | 12 |
-| 2 Nascent | 9 |
-| 1 Absent | 2 |
-| Unplaced | 9 |
+| 5 Leading | 8 |
+| 4 Operating | 8 |
+| 3 Established | 15 |
+| 2 Nascent | 7 |
+| 1 Absent | 1 |
+| Unplaced | 4 |
 | No evidence | 11 |
 
 ## Countries
+
+### Algeria: 5 Leading
+
+Government staff run, maintain or built three or more of its systems by 2026, no contractor named.
+
+- The Haut Commissariat a la Numerisation's own services designed and developed the electronic document verification mechanism and trained sector staff to deploy and operate it ([source, 2026-09-17](https://www.elmoudjahid.dz/fr/info-en-continu/portail-national-des-services-numeriques-le-hcn-va-assurer-des-formations-33381)).
+- The electronic medical record was entirely designed and developed by the health ministry's information systems directorate ([source, 2026-07-25](https://interlignes.dz/sante-lancement-du-deploiement-du-dossier-medical-electronique-a-travers-les-69-wilayas/)).
+- The Ministry of the Interior's own engineers administer the platforms for identity and travel documents and civil status ([source, 2026-05](https://id4africa.com/2026/files/T2-3-S3-4-Algeria-FINAL.pdf)).
+- The health minister launched the national rollout of the electronic medical record on 25 July 2026 and said the system was entirely designed and developed by engineers and staff of the ministry's information systems directorate ([source, 2026-07-26](https://interlignes.dz/sante-lancement-du-deploiement-du-dossier-medical-electronique-a-travers-les-69-wilayas/)).
+- Dzair Digital Services, the national portal launched on 5 July 2026 that groups the digital services of several ministries and public bodies, is developed by the Haut-commissariat a la numerisation ([source, 2026-10-18](https://www.algerie360.com/dzair-digital-services-documents-en-ligne/)).
+- The Haut Commissariat a la Numerisation states its own services designed and developed the mechanism for verifying electronic documents issued through the Dzair Digital Services portal, which it trained sector information-system managers to deploy and operate ([source, 2026-09-17](https://www.elmoudjahid.dz/fr/info-en-continu/portail-national-des-services-numeriques-le-hcn-va-assurer-des-formations-33381)).
 
 ### Burkina Faso: 5 Leading
 
@@ -86,6 +97,14 @@ Government staff run, maintain or built three or more of its systems by 2026, no
 - SmartCare Pro was developed by the Ministry of Health and the Smart Zambia Institute ([source, 2026-07-16](https://itweb.africa/article/zambia-launches-govlink-private-4g-network/G98YdMLGBZw7X2PD)).
 - SMART Zambia's e-Government Division developed the SMART Office Management System in-house ([source, 2025-06-23](https://techafricanews.com/2025/06/23/zambia-advances-public-sector-digitisation-with-smart-office-system-rollout/)).
 
+### Angola: 4 Operating
+
+Government staff built a system that went live in 2026; fewer than three systems are known to be run wholly by government staff.
+
+- INE launched the Census 2024 Portal and the 'INE Angola' app on 2 July 2026 in Uíge; its head said they were developed by INE's own technical staff ([source, 2026-07-02](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/)).
+- PTI reports that INFOSI manages the government's Data Center and Cloud, opened in April 2026, which offers more than 80 technology services on the state's data centres and network linking every ministerial department ([source, 2026-04-28](https://pti.ao/mario-oliveira-inauguracao-do-data-center-e-cloud-do-governo-constitui-um-passo-gigante-rumo-a-soberania-digital/)).
+- Angop reports INE's head said the Census 2024 Portal and the 'INE Angola' mobile app were developed by INE's own technical staff ([source, 2026-07-02](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/)).
+
 ### Benin: 4 Operating
 
 The Justice Ministry's own IT directorate built an online criminal-record service that went live in 2026; no three systems run wholly in-house are known.
@@ -93,6 +112,14 @@ The Justice Ministry's own IT directorate built an online criminal-record servic
 - The instant criminal-record certificate service, led by the Justice Ministry's own information systems directorate, went live on service-public.bj on 1 November 2026, per the ministry's press release of 2 November ([source, 2026-11-01](https://www.linfodrome.com/international/127167-benin-wadagni-concretise-sa-promesse-le-casier-judiciaire-instantane-a-1-900-fcfa)).
 - The article says ASIN, the national information systems agency, made its own developed signature, encryption and secure messaging solutions available to the Republican Police as national tools for securing digital exchanges ([source, 2026-07-08](https://www.dgpr.bj/techniques-de-protection-des-informations-sensibles-de-letat-lagence-des-systemes-dinformation-et-du-numerique-asin-et-direction-des-systemes-dinformation-et-de/)).
 - Linfodrome reports that the instant criminal-record service was led by the Justice Ministry's Direction des systèmes d'information with the national criminal-record centre (CNCJ), with no contractor named ([source, 2026-11-01](https://www.linfodrome.com/international/127167-benin-wadagni-concretise-sa-promesse-le-casier-judiciaire-instantane-a-1-900-fcfa)).
+
+### Botswana: 4 Operating
+
+Government staff built a system that went live in 2025; fewer than three systems are known to be run wholly by government staff.
+
+- The Botswana Examinations Council says DataSmart, an in-house innovation, was successfully developed and deployed in 2024/25 for mark capture at all three examination levels ([source, 2025-03](https://www.bec.co.bw/images/2025/annual-report/bec-annual-report-2025-final-09-12-25_.pdf)).
+- The Minister of Communications and Innovation said government services are currently housed at the Department of Shared Digital Services, which government intends to migrate to the new Bofinet data centre (document published 2025-11-25, no other date given) ([source, 2025-11-25](https://www.mmegi.bw/business/govt-moves-to-in-house-local-data/news)).
+- The Botswana Examinations Council's 2024/25 annual report says its in-house DataSmart application was developed and deployed to capture marks for the PSLE, JCE and BGCSE ([source, 2025-03](https://www.bec.co.bw/images/2025/annual-report/bec-annual-report-2025-final-09-12-25_.pdf)).
 
 ### Cote d'Ivoire: 4 Operating
 
@@ -102,12 +129,28 @@ A state company's own teams built a trade app that went live in 2024; fewer than
 - GUCE CI, a state company, manages and maintains the GUCE single-window system, with technical support from the trade ministry ([source, 2024-07-25](https://www.gucecotedivoire.ci/innovation-et-dematerialisation-dans-lecosysteme-du-commerce-exterieur-guce-ci-lance-sa-nouvelle-application-guce-mobile-tant-attendue-par-les-operateurs-economiques-les-acteurs-majeurs-e/)).
 - An SNDI representative said at the 25 September 2026 plenary that SNDI has operated its own satellite network since 2006 connecting administrations, universities and health centres, and had provided internet to the University of Korhogo ([source, 2026-09-25](https://afriksoir.net/aspex-2026-le-satellite-au-coeur-des-enjeux-de-connectivite-et-de-resilience-numerique-en-cote-divoire/)).
 
+### Ghana: 4 Operating
+
+Government staff built a system that went live in 2024; fewer than three systems are known to be run wholly by government staff.
+
+- The Vice President launched the CitizenApp Data Interoperability System on 7 October 2024; it was developed by the Ghana Revenue Authority and NITA, and no contractor is named ([source, 2024-10-07](https://gna.org.gh/2024/10/bawumia-unveils-new-citizenapp-to-promote-efficiency-in-public-service-delivery/)).
+- The analyst says NITA, mandated under Act 771 to provide core government IT infrastructure, runs the Government Cloud (G-Cloud) and the NITA Data Centre that ministries, departments and agencies can host on or bypass ([source, 2026-10-19](https://imaniafrica.org/2026/10/the-missing-plumbing-of-the-state-why-ghanas-next-digital-leap-depends-on-a-whole-of-government-data-exchange/)).
+- The Ghana News Agency reports that the CitizenApp Data Interoperability System, an upgrade of Ghana.gov, was developed by the Ghana Revenue Authority and NITA with other state agencies ([source, 2024-10-07](https://gna.org.gh/2024/10/bawumia-unveils-new-citizenapp-to-promote-efficiency-in-public-service-delivery/)).
+
 ### Mali: 4 Operating
 
 Portals built by the government's IT agency went live in 2026; no three systems run wholly in-house are known.
 
 - Portals developed by AGETIC and the digital ministry with no contractor named were launched on 10 February 2026 ([source, 2026-02-10](https://www.wearetech.africa/en/fils-uk/news/public-management/mali-launches-online-criminal-record-and-nationality-certificate-services)).
 - The article says the criminal record and nationality portals were developed by the digital ministry and AGETIC, the government's information technology agency, with the Ministry of Justice ([source, 2026-02-10](https://www.wearetech.africa/en/fils-uk/news/public-management/mali-launches-online-criminal-record-and-nationality-certificate-services)).
+
+### Mauritania: 4 Operating
+
+Government staff built a system that went live in 2025; fewer than three systems are known to be run wholly by government staff.
+
+- The AI road-safety solution developed by the Agence numerique de l'Etat went into service on 26 December 2025 and is operational across the national road network ([source, 2025-12-26](https://www.agenceecofin.com/actualites-numerique/2612-134553-la-mauritanie-met-en-service-une-solution-d-ia-dediee-a-la-securite-routiere)).
+- Agence Ecofin reports that the Agence numerique de l'Etat, under the digital transformation ministry, developed the AI road-safety solution put into service across the national road network on 26 December 2025 ([source, 2025-12-26](https://www.agenceecofin.com/actualites-numerique/2612-134553-la-mauritanie-met-en-service-une-solution-d-ia-dediee-a-la-securite-routiere)).
+- The Interior Ministry says the Houwiyeti application, which won the Africa T-Awards 2026 government category, was developed by a team of ANRPTS engineers ([source, 2026-04-09](https://ami.mr/fr/archives/292885)).
 
 ### Nigeria: 4 Operating
 
@@ -124,6 +167,13 @@ A government technology body runs systems for the rest of government by 2024, an
 - Congo's Agence de développement de l'économie numérique (Aden) is stated to ensure the technical management of the government's official web portal gouvernement.cg, per Les Dépêches de Brazzaville ([source, 2024-12-27](https://www.adiac-congo.com/content/numerique-laden-examine-ses-documents-cadres-161959)).
 - The Treasury sheet says the tax system E-TAX was built in-house by the ministry's information systems directorate ([source, 2024-08-30](https://www.tresor.economie.gouv.fr/Pays/CG/le-secteur-du-numerique)).
 
+### Djibouti: 3 Established
+
+A government technology body runs systems for the rest of government by 2025; no in-house build is known since 2023.
+
+- The Council of Ministers communique of 14 January 2025 approves ANSIE's 2025 budget of 556.7 million FDJ, covering its work for administrations on the E-JO and E-BALO platforms, archive digitisation, a human-resources solution and support to the social registry ([source, 2025-01-14](https://www.presidence.dj/conseil-des-ministres/2025-01-14)).
+- The Council of Ministers says ANSIE itself carries out the development of a third version of the E-JO platform and supports the PKI and X-Road systems under its 2025 budget ([source, 2025-01-14](https://www.presidence.dj/conseil-des-ministres/2025-01-14)).
+
 ### Equatorial Guinea: 3 Established
 
 A government technology body runs systems for the rest of government by 2025; no in-house build is known since 2023.
@@ -137,6 +187,13 @@ A government technology body runs systems for the rest of government by 2026; no
 
 - ICT Authority Kenya, a state corporation, says it runs a Network Operation Centre and Cloud Data Centre and designs integrated e-services systems for government ([source, 2026](https://icta.go.ke/faqs)).
 - Murang'a Governor Irungu Kang'ata says AfyaKE, adopted from a national government system, was enhanced by the county's in-house software developers and its staff were trained to use it; the Ministry of Health says it is a private arrangement between the county and its developers ([source, 2026-10-16](https://nation.africa/kenya/counties/muranga/afyake-system-shutdown-65-000-patient-records-at-centre-of-kang-ata-duale-showdown-5634726)).
+
+### Madagascar: 3 Established
+
+A government technology body runs systems for the rest of government by 2024; no in-house build is known since 2023.
+
+- Public Digital says Madagascar's Digital Governance Unit, within the Ministry of Digital Development, is responsible for managing digital projects across the government's ministries and digitising public services, with a multidisciplinary team ([source, 2024-02](https://public.digital/pd-insights/blog/2024/02/show-the-thing-9-madagascar-public-services-one-stop-counter)).
+- UNDP's 2025 terms of reference say the Gendarmerie nationale's Fichier central, the secure register of judicial-police results, was designed and developed by gendarmerie technicians and is in place ([source, 2025-06-11](https://www.ungm.org/Public/Notice/269304)).
 
 ### Mauritius: 3 Established
 
@@ -152,6 +209,13 @@ A government technology body runs systems for the rest of government by 2026; no
 - INAGE's service catalogue, retrieved 2026-08-08, lists server rental, application hosting, application development and government network connection (GovNET, MoRENet) as services for public bodies; the date is the retrieval date ([source, 2026-08-08](https://www.inage.gov.mz/?p=2697)).
 - INTIC says the SCDM digital signature system is implemented and managed by Mozambican professionals, cutting dependence on external consultants ([source, 2025-01-14](https://intic.gov.mz/sistema-de-certificacao-digital-mocambique-registou-crescimento-na-adesao-de-assinaturas-electronicas-em-2024/)).
 - INTIC offers the SCDM signature service free to government, and more than 10 public institutions use it ([source, 2025-01-14](https://intic.gov.mz/sistema-de-certificacao-digital-mocambique-registou-crescimento-na-adesao-de-assinaturas-electronicas-em-2024/)).
+
+### Rwanda: 3 Established
+
+A government technology body runs systems for the rest of government by 2024; no in-house build is known since 2023.
+
+- The TYPO3 Association's FOSDEM 2024 slides state that a national functional and technical support center for the over 300 Rwandan government websites on the shared TYPO3 platform is operated by RISA ([source, 2024-02](https://archive.fosdem.org/2024/events/attachments/fosdem-2024-3730-collaborative-government-websites-standardization-for-digital-sovereignty-using-open-source-the-model-of-rwanda-and-the-govstack-global-initiative/slides/22785/Collaborative_Gov_Websites_-_FOSDEM_2024_1_EY4bKnz.pdf)).
+- The TYPO3 Association's FOSDEM 2024 slides say RISA operates the national functional and technical support centre for the more than 300 government websites on the shared TYPO3 platform ([source, 2024-02](https://archive.fosdem.org/2024/events/attachments/fosdem-2024-3730-collaborative-government-websites-standardization-for-digital-sovereignty-using-open-source-the-model-of-rwanda-and-the-govstack-global-initiative/slides/22785/Collaborative_Gov_Websites_-_FOSDEM_2024_1_EY4bKnz.pdf)).
 
 ### Seychelles: 3 Established
 
@@ -200,18 +264,6 @@ A government technology body runs systems for the rest of government by 2026; no
 
 - The Government Internet Service Provider, a government body formed in 1998, is stated to provide internet connectivity, email and web services to all government ministries, departments and parastatals, and to administer the .gov.zw domain; the page carries no revision date, so 2026 is its published proxy year ([source, 2026](http://www.gisp.gov.zw/about/)).
 - The Zimbabwe Republic Police ICT Directorate, headed by a Director ICT, is stated to be responsible for all ICT matters in the force, managing its ICT infrastructure and personnel through provincial ICT officers and systems administration, with a Professional Software Development Team under it; the page is dated 2024-03-14 and gives no other date ([source, 2024-03-14](https://zrp.gov.zw/?p=7187)).
-
-### Algeria: 2 Nascent
-
-Government staff built or run several systems in 2026, including document verification; no body building systems for the rest of government is known.
-
-- The Haut Commissariat a la Numerisation states its own services designed and developed the mechanism for verifying electronic documents issued through the Dzair Digital Services portal, which it trained sector information-system managers to deploy and operate ([source, 2026-09-17](https://www.elmoudjahid.dz/fr/info-en-continu/portail-national-des-services-numeriques-le-hcn-va-assurer-des-formations-33381)).
-
-### Angola: 2 Nascent
-
-Statistics office staff built a census portal and app launched in 2026; no government body running systems for the rest of government is known.
-
-- Angop reports INE's head said the Census 2024 Portal and the 'INE Angola' mobile app were developed by INE's own technical staff ([source, 2026-07-02](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/)).
 
 ### Chad: 2 Nascent
 
@@ -262,27 +314,9 @@ A 2026 source says a government body relies on outside suppliers to run its syst
 
 - Independent News reports the Digital Landscape Assessment Report found 15 ministries have no in-house ICT officers and depend entirely or substantially on RSTP for technical functions, with only 18 dedicated ICT professionals supporting the whole government digital estate assessed ([source, 2026-05-21](https://independentnews.co.sz/43652/news/critical-state-information-at-risk-in-9-govt-ministries/)).
 
-### Ghana: 1 Absent
-
-The health ministry's records system was built and run by a foreign contractor, said in 2025; no system run by government staff is known.
-
-- Health Minister Kwabena Mintah Akandoh says the Ministry of Health's LHIMS, under a 2019 $100 million contract, was built and run by India's Lightwave with Ghana's health data hosted on servers in India, outside state control ([source, 2025-10-29](https://techfocus24.com/data-protection-commission-probes-indian-owned-data-management-system-in-ghanas-hospitals/)).
-
-### Botswana: Unplaced
-
-Government services were housed at a shared services department in 2025, but no source shows government staff running a system, so no stage is set.
-
-Not established: No source found from 2023 or later says government staff run or maintain any of its systems.
-
 ### Burundi: Unplaced
 
 The government ICT secretariat runs systems for public institutions in 2026, but no source shows government staff running a system, so no stage is set.
-
-Not established: No source found from 2023 or later says government staff run or maintain any of its systems.
-
-### Djibouti: Unplaced
-
-A government ICT agency hosted applications for public bodies in 2025, but no source shows government staff running a system, so no stage is set.
 
 Not established: No source found from 2023 or later says government staff run or maintain any of its systems.
 
@@ -295,24 +329,6 @@ Not established: No source found from 2023 or later says government staff run or
 ### Guinea-Bissau: Unplaced
 
 No source found from 2023 or later says government staff run its systems, so no stage is set.
-
-Not established: No source found from 2023 or later says government staff run or maintain any of its systems.
-
-### Madagascar: Unplaced
-
-A digital governance unit managed digital projects across ministries in 2024, but no source shows government staff running a system, so no stage is set.
-
-Not established: No source found from 2023 or later says government staff run or maintain any of its systems.
-
-### Mauritania: Unplaced
-
-National engineers built the ID and passport app launched in 2023, but no source shows government staff running a system, so no stage is set.
-
-Not established: No source found from 2023 or later says government staff run or maintain any of its systems.
-
-### Rwanda: Unplaced
-
-A government agency supported over 300 government websites in 2024, but no source shows government staff running a system, so no stage is set.
 
 Not established: No source found from 2023 or later says government staff run or maintain any of its systems.
 

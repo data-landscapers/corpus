@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "inhouse",
-      "stage": "unplaced",
-      "inhouse": "",
+      "stage": "3",
+      "inhouse": "yes",
       "agency": "operating",
       "built": "",
       "own": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "No source found from 2023 or later says government staff run or maintain any of its systems.",
+      "stage_sources": "MDG-001;MDG-002",
+      "gaps": "No source found says a system built by government staff went live since October 2023.",
       "note": "Counted from the four questions by study-ladder-itcapacity.py.",
-      "as_at": "2026-11-09"
+      "as_at": "2026-11-10"
     }
   ]
 }

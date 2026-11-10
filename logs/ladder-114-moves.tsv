@@ -124,18 +124,18 @@ idmaintenance	GIN	maintenance	5	2
 idmaintenance	SLE	maintenance	5	3		
 idmaintenance	SOM	maintenance	5	3		
 idmaintenance	TGO	maintenance	5	3		
-itcapacity	AGO	inhouse	4	2		
-itcapacity	BDI	inhouse	3	unplaced		
-itcapacity	BWA	inhouse	3	unplaced		
-itcapacity	DJI	inhouse	3	unplaced		
-itcapacity	DZA	inhouse	5	2		
-itcapacity	GHA	inhouse	3	1		
-itcapacity	LBR	inhouse	4	2		
-itcapacity	MDG	inhouse	3	unplaced		
-itcapacity	MRT	inhouse	4	unplaced		
-itcapacity	RWA	inhouse	3	unplaced		
-itcapacity	SOM	inhouse	5	2		
-itcapacity	UGA	inhouse	5	3		
+itcapacity	AGO	inhouse	4	2	restaged 4 on AGO-004	2026-11-10
+itcapacity	BDI	inhouse	3	unplaced	gap confirmed; asked notes-for-osint 309	2026-11-10
+itcapacity	BWA	inhouse	3	unplaced	restaged 4 on BWA-002, BWA-003	2026-11-10
+itcapacity	DJI	inhouse	3	unplaced	restaged 3 on DJI-004	2026-11-10
+itcapacity	DZA	inhouse	5	2	restaged 5 on DZA-007, DZA-008	2026-11-10
+itcapacity	GHA	inhouse	3	1	restaged 4 on GHA-004, GHA-005	2026-11-10
+itcapacity	LBR	inhouse	4	2	gap confirmed; asked notes-for-osint 309	2026-11-10
+itcapacity	MDG	inhouse	3	unplaced	restaged 3 on MDG-002	2026-11-10
+itcapacity	MRT	inhouse	4	unplaced	restaged 4 on MRT-002 to MRT-004	2026-11-10
+itcapacity	RWA	inhouse	3	unplaced	restaged 3 on RWA-002	2026-11-10
+itcapacity	SOM	inhouse	5	2	gap confirmed; asked notes-for-osint 309	2026-11-10
+itcapacity	UGA	inhouse	5	3	gap confirmed; asked notes-for-osint 309	2026-11-10
 justice	BEN	justice	4	2		
 justice	SYC	justice	4	unplaced		
 landadmin	GHA	landmis	5	3		

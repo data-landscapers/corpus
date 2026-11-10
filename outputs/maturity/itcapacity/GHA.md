@@ -2,14 +2,14 @@
 
 ## In-house capacity
 
-**Government staff.** [The NIA's Acting Executive Secretary said on 21 September 2025 that the National Identification System relies on its PPP partner Margins ID Group for technical expertise, system maintenance and card production, and that NIA alone could not repair equipment quickly under government procurement rules](<https://myrepubliconline.com/nia-threatens-service-cut-over-gra-nhia-and-passport-office-457m-debt/>).
+**Government staff.** [The Ghana Revenue Authority and NITA built the CitizenApp, an upgrade of Ghana.gov, with other state agencies](<https://gna.org.gh/2024/10/bawumia-unveils-new-citizenapp-to-promote-efficiency-in-public-service-delivery/>). Not every system is in-house. [India's Lightwave built and runs the health ministry's LHIMS under a 2019 contract](<https://techfocus24.com/data-protection-commission-probes-indian-owned-data-management-system-in-ghanas-hospitals/>).
 
-**A technology body for government.** [The analyst says NITA, mandated under Act 771 to provide core government IT infrastructure, runs the Government Cloud (G-Cloud) and the NITA Data Centre that ministries, departments and agencies can host on or bypass](<https://imaniafrica.org/2026/10/the-missing-plumbing-of-the-state-why-ghanas-next-digital-leap-depends-on-a-whole-of-government-data-exchange/>).
+**A technology body for government.** [NITA runs the Government Cloud and the NITA Data Centre](<https://imaniafrica.org/2026/10/the-missing-plumbing-of-the-state-why-ghanas-next-digital-leap-depends-on-a-whole-of-government-data-exchange/>). Ministries and agencies can host on them, though some bypass them.
 
-**Built in-house.** No source found says a system built by government staff, rather than by a contractor or vendor, went live since October 2023; the stage rests on [the source that sets it](<https://imaniafrica.org/2026/10/the-missing-plumbing-of-the-state-why-ghanas-next-digital-leap-depends-on-a-whole-of-government-data-exchange/>).
+**Built in-house.** [The Vice President launched the CitizenApp on 7 October 2024](<https://gna.org.gh/2024/10/bawumia-unveils-new-citizenapp-to-promote-efficiency-in-public-service-delivery/>). No contractor is named. It gathers public services, from water bills to passports, in one app.
 
-**Systems run wholly in-house.** No source found since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on [the source that sets it](<https://imaniafrica.org/2026/10/the-missing-plumbing-of-the-state-why-ghanas-next-digital-leap-depends-on-a-whole-of-government-data-exchange/>).
+**Systems run wholly in-house.** No source found since October 2023 names three systems run wholly by government staff. [The CitizenApp is the one named](<https://gna.org.gh/2024/10/bawumia-unveils-new-citizenapp-to-promote-efficiency-in-public-service-delivery/>), and a private partner runs the national identity system.
 
 ***Also on file***. [Ghana Electronic Document Wallet (GEDW)](<https://nita.gov.gh/gedw-stakeholder-engagement/>); [G-Cloud](<https://imaniafrica.org/2026/10/the-missing-plumbing-of-the-state-why-ghanas-next-digital-leap-depends-on-a-whole-of-government-data-exchange/>).
 
-***Not found***. Nothing further is asked of this indicator.
+***Not found***. No sources found since October 2023 name three systems run wholly by government staff.

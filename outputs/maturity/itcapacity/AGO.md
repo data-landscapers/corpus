@@ -2,14 +2,14 @@
 
 ## In-house capacity
 
-**Government staff.** [Angop reports INE's head said the Census 2024 Portal and the 'INE Angola' mobile app were developed by INE's own technical staff](<https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/>). [AGT's board chairman said on 11 February 2026 that the tax authority is developing its own AI risk-analysis system, tested since 2024 and fed with internal data; it is not stated to be live](<https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/>).
+**Government staff.** [INE's head said its own technical staff built the Census 2024 Portal and the INE Angola app](<https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/>). [The tax authority AGT is building its own AI risk-analysis system](<https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/>). It has been tested since 2024 and is not stated to be live.
 
-**A technology body for government.** No source found from 2023 or later says a government agency or state company builds, hosts or runs systems for ministries and the rest of government; the stage rests on [the source that sets it](<https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/>).
+**A technology body for government.** [INFOSI manages the government's Data Center and Cloud, opened in April 2026](<https://pti.ao/mario-oliveira-inauguracao-do-data-center-e-cloud-do-governo-constitui-um-passo-gigante-rumo-a-soberania-digital/>). It offers more than 80 technology services. The state network it completes links every ministerial department.
 
-**Built in-house.** [INE launched the Census 2024 Portal and the 'INE Angola' app on 2 July 2026 in Uíge; its head said they were developed by INE's own technical staff](<https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/>).
+**Built in-house.** [INE launched the census portal and app on 2 July 2026 in Uíge](<https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/>). Its head said INE's own staff built them.
 
-**Systems run wholly in-house.** No source found since October 2023 says government staff run, maintain or built a named system with no contractor doing the work; the stage rests on [the source that sets it](<https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/>).
+**Systems run wholly in-house.** No source found since October 2023 names three systems run wholly by government staff. [Two are on file, INE's census portal and its app](<https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/>), and AGT's system is not yet live.
 
 ***Also on file***. [SIGFE](<https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/>); [CAPI/CATI census platform](<https://c2a.portais.gov.ao/uploads/Relatorio_Sintese_CENSO_2024_INE_Nov_2025_c5fba11d70.pdf>).
 
-***Not found***. No source from 2023 or later names a body that builds systems for government.
+***Not found***. No sources found since October 2023 name three systems run wholly by government staff.

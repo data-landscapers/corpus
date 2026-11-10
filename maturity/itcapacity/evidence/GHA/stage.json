@@ -3,17 +3,17 @@
   "cells": [
     {
       "sub_indicator": "inhouse",
-      "stage": "1",
-      "inhouse": "outsourced",
+      "stage": "4",
+      "inhouse": "yes",
       "agency": "operating",
-      "built": "",
+      "built": "live",
       "own": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GHA-003",
-      "gaps": "",
+      "stage_sources": "GHA-005;GHA-002;GHA-004",
+      "gaps": "No sources found since October 2023 name three systems run wholly by government staff.",
       "note": "Counted from the four questions by study-ladder-itcapacity.py.",
-      "as_at": "2026-11-09"
+      "as_at": "2026-11-10"
     }
   ]
 }
