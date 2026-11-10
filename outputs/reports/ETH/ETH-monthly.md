@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: ETH
-ledger_rows: 27
+ledger_rows: 29
 not_held: 5
-record: 9254b2c02c2b
+record: f1632345f408
 ---
 
 # News, Oct – Nov 2026
@@ -26,6 +26,8 @@ record: 9254b2c02c2b
 <a href="#technology">Technology</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
 </nav>
 
 ## Governance
@@ -518,6 +520,20 @@ The Ethiopian Institution of the Ombudsman's website says it has resolved more t
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile connections and internet penetration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital 2027: Ethiopia](https://datareportal.com/reports/digital-2027-ethiopia)** — DataReportal (Simon Kemp), 5 November 2026
+
+End-2026 data: 31.1m internet users (22.3%), 105m mobile connections (75.3%), 10.2m social media identities.
+
+</div>
+
+</div>
+
 ### Digital divides
 
 <div class="monthly-story" markdown="1">
@@ -529,6 +545,28 @@ The Ethiopian Institution of the Ombudsman's website says it has resolved more t
 **[Strengthening Digital Rights for Persons with Disabilities and Older Persons](https://cipesa.org/2026/10/strengthening-digital-rights-for-persons-with-disabilities-and-older-persons/)** — Collaboration on International ICT Policy for East and Southern Africa (CIPESA), 23 October 2026
 
 The Ethiopian Human Rights Commission is adding the digital rights of persons with disabilities and older persons to its monitoring mandate. It presented a draft digital-inclusion monitoring toolkit at a CIPESA-facilitated staff workshop on 21-22 September 2026.
+
+</div>
+
+</div>
+
+## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#national-statistics">National statistics</a>
+</nav>
+
+### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National accounts rebased to 2024/25</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopia’s GDP Rebase Captures Growth in Digital Financial Services](https://techafricanews.com/2026/11/09/ethiopia-gdp-rebase-captures-growth-in-digital-financial-services/)** — Tech Africa News, 9 November 2026
+
+Ethiopia's rebased national accounts put 2024/25 GDP at 24.03 trillion birr, against 15.09 trillion under the previous series, Tech Africa News reported on 9 November 2026. The reference year moved from 2015/16 to 2024/25 with IMF technical assistance, and digital financial services and ride-hailing platforms entered the count. Preliminary 2025/26 GDP is 31.86 trillion birr.
 
 </div>
 
