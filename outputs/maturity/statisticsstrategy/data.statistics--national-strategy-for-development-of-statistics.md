@@ -1,6 +1,6 @@
 # National strategy for development of statistics: statistics strategy
 
-*As at 2026-08-31.*
+*As at 2026-11-10.*
 
 ## The norm
 
@@ -20,15 +20,23 @@ The African Charter on Statistics (2009) and the Strategy for the Harmonisation 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
+| 5 Leading | 1 |
 | 4 Operating | 3 |
-| 3 Established | 32 |
+| 3 Established | 31 |
 | 2 Nascent | 11 |
 | 1 Absent | 0 |
 | Unplaced | 6 |
 | No evidence | 2 |
 
 ## Countries
+
+### Burundi: 5 Leading
+
+The 2022-2026 statistics strategy is current, its steering group reviewed it in July 2026 and its mid-term evaluation had reported.
+
+- PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2022-2026 ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
+- INSBU reports that the statutory Groupe Sectoriel Statistique held its second-quarter 2026 meeting on 28 July 2026 and discussed the recommendations of the SNDS-III mid-term evaluation, a meeting of the statistical system's coordinating body on how the strategy is being carried out ([source, 2026-07-28](https://www.insbu.bi/actualitesEtEvenements)).
+- The statutory Groupe Sectoriel Statistique meeting of 28 July 2026 discussed the recommendations of the mid-term evaluation of the SNDS-III, which shows that evaluation had reported; the completion date is not given, so the meeting date is used ([source, 2026-07-28](https://www.insbu.bi/actualitesEtEvenements)).
 
 ### Equatorial Guinea: 4 Operating
 
@@ -72,13 +80,6 @@ The Schema directeur de la statistique 2026-2030 is current; no review of its pr
 
 - At the 11 September 2026 session of the Conseil national de la statistique, the INSD director general described the 2026-2030 schema directeur de la statistique as the new framework governing statistical activities, and the 2027 national statistical programme as aligned with it ([source, 2026-09-11](https://lefaso.net/spip.php?article149178)).
 - PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): SDS 2026-2030 ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
-
-### Burundi: 3 Established
-
-The 2022-2026 statistics strategy is current and its mid-term evaluation had reported by 2026; no dated progress review in the last three years is known.
-
-- INSBU's account of the Groupe Sectoriel Statistique meeting of 28 July 2026 refers to the SNDS-III as the national statistical development strategy in force; no period is given, and the date is that of the meeting ([source, 2026-07-28](https://www.insbu.bi/actualitesEtEvenements)).
-- PARIS21's January 2026 NSDS status table lists the strategy as implementing (adopted): NSDS 2022-2026 ([source, 2026-01](https://www.paris21.org/sites/default/files/media/document/2026-02/nsds_summary_table_2026.pdf)).
 
 ### Cameroon: 3 Established
 

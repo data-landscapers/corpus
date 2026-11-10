@@ -5,3 +5,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-17,TGO,data.statistics--national-strategy-for-development-of-statistics,fact,unplaced,unplaced,,Arrivals added TGO-003; TGO-004; stage unchanged.
 2026-10-20,SSD,data.statistics--national-strategy-for-development-of-statistics,fact,3,2,SSD-004;SSD-003,NBS said Sep 2025 that NSDS II was being developed; FAO's alignment with NSDS II does not show adoption and the 2021-2025 plan has run out; stage 3 to 2
 2026-11-09,BDI,data.statistics--national-strategy-for-development-of-statistics,ladder,5,3,BDI-001;BDI-003,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-10,BDI,data.statistics--national-strategy-for-development-of-statistics,ladder,3,5,BDI-003;BDI-004;BDI-002,Restaged under message 114 (housekeeping 57): the Groupe Sectoriel Statistique meeting of 28 July 2026 reviewed the SNDS-III; 3 to 5.

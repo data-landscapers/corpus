@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "strategy",
-      "stage": "3",
+      "stage": "5",
       "standing": "adopted",
-      "review": "",
-      "evaluation": "",
+      "review": "reviewed",
+      "evaluation": "evaluated",
       "cap": "",
       "flags": "",
-      "stage_sources": "BDI-001;BDI-003",
-      "gaps": "No source found dates a review of progress on the strategy in the last three years.",
+      "stage_sources": "BDI-003;BDI-004;BDI-002",
+      "gaps": "",
       "note": "Counted from the four questions by study-ladder-statisticsstrategy.py.",
-      "as_at": "2026-11-09"
+      "as_at": "2026-11-10"
     }
   ]
 }
