@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "3",
-      "standing": "in-force",
+      "stage": "unplaced",
+      "standing": "",
       "duty": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GIN-002",
-      "gaps": "No source found says the law in force requires public bodies to share data, to connect to the government's exchange platform, or not to ask a person for what another public body already holds.",
-      "note": "Counted from the four questions by study-ladder-interoperabilitylaw.py.",
-      "as_at": "2026-10-13"
+      "stage_sources": "",
+      "gaps": "The only text held is a 2019 arrêté between the health and territorial administration ministries on vaccination and birth certificates, a text for one sector; nothing names a law, decree or draft on public bodies sharing data in general.",
+      "note": "Hand-staged on the rebuild of 2026-11-10: the 2019 arrêté covers one exchange between two ministries for vaccination and birth registration, and a law for one sector places nothing, as Kenya's Digital Health Act does not.",
+      "as_at": "2026-11-10"
     }
   ]
 }

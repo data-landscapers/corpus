@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "4",
-      "standing": "in-force",
-      "duty": "required",
+      "stage": "2",
+      "standing": "draft",
+      "duty": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CPV-002;CPV-001",
-      "gaps": "No regulation, decree or order made under it, and no public body named as exchanging data because it requires them to, dated in the last three years, is held.",
-      "note": "Counted from the four questions by study-ladder-interoperabilitylaw.py.",
-      "as_at": "2026-10-13"
+      "stage_sources": "CPV-001",
+      "gaps": "No source found says a law, decree or regulation on public bodies sharing data is in force; the legal diploma the 2020 resolution orders is not reported as passed.",
+      "note": "Hand-staged on the rebuild of 2026-11-10: Resolution 54/2020 orders a legal diploma on interoperability to be drafted, so it is an executive instrument that legislation is to replace and stops at stage 2, as Liberia's order does. Its sharing duty lifts only a law in force.",
+      "as_at": "2026-11-10"
     }
   ]
 }
