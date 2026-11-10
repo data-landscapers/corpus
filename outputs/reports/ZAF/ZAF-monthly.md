@@ -1,11 +1,11 @@
 ---
 title: South Africa — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: ZAF
-ledger_rows: 91
+ledger_rows: 94
 not_held: 19
-record: b03e9f6d8c03
+record: b2cf484e1b49
 ---
 
 # News, Oct – Nov 2026
@@ -40,6 +40,8 @@ record: b03e9f6d8c03
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
 </nav>
@@ -261,6 +263,22 @@ South Africa's National Consumer Commission published draft guidelines on compli
 **[National Consumer Commission launches National Opt-Out Registry](https://www.gov.za/news/media-statements/national-consumer-commission-launches-national-opt-out-registry-07-oct-2026)** — South African Government, 7 October 2026
 
 South Africa's National Consumer Commission launched the National Opt-Out Registry on 7 October 2026, letting consumers block unwanted direct-marketing calls, SMSes and other messages free of charge. Direct marketers must register by December 2026 and may cleanse their lists free until April 2027; consumers can register blocks from May 2027.
+
+</div>
+
+</div>
+
+### Regional collaboration
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ITU Council seat</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa participates in the 2026 International Telecommunication Union Plenipotentiary Conference in Doha, Qatar](https://www.gov.za/news/media-statements/communications-and-digital-technologies-hosts-2026-international)** — South African Government, 9 November 2026
+
+DCDT-led bid for ITU Council re-election, Region D; 2027-2030 priorities: DPI, subsea cable resilience, AI.
 
 </div>
 
@@ -497,6 +515,34 @@ Vodacom said on 20 October 2026 that it is investing more than R600 million in M
 **[Vodacom — Mpumalanga network capital expenditure, 2026](https://techafricanews.com/2026/10/20/vodacom-south-africa-invests-r600-million-to-expand-connectivity-in-mpumalanga/)** — Vodacom, 20 October 2026
 
 Vodacom announced on 20 October 2026 that it will spend more than R600 million of its own funds on network infrastructure in Mpumalanga in the current financial year. It invested R620 million there in 2025/26, and the spending covers all 17 local municipalities.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Durban internet exchange (DINX)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[IXPs list — The African IXP Association](https://af-ix.org/ixps-list)** — African IXP Association (AF-IX), 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BWA/BWA-monthly.html" title="BWA">Botswana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+60 IXPs in 36 African states with city and launch year, from JINX 1996 to HubSIX Dakar 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Johannesburg internet exchange (JINX)</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[IXPs list — The African IXP Association](https://af-ix.org/ixps-list)** — African IXP Association (AF-IX), 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BWA/BWA-monthly.html" title="BWA">Botswana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
+
+Summarised under [Connectivity](#connectivity).
 
 </div>
 
