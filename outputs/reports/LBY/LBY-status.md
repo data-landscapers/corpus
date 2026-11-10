@@ -1,12 +1,12 @@
 ---
 title: Libya: status report
-compiled: 2026-11-09
+compiled: 2026-11-10
 place: LBY
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 210
+sources_cited: 211
 sections_written: 39
 not_established: 0
 acquire_lines: 50
@@ -116,7 +116,7 @@ In June 2026 the Central Bank [used EPAIX 2026 to launch international Visa acce
 ### Connectivity
 <!-- infra.connect -->
 
-[In 2023 Libya ranked first of 54 African states for mobile communications, at 91.9 out of 100 after a 60.7-point rise over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ly.pdf). [In 2026 it had no operating internet exchange point: LYB-IX is registered but has no connected peers](https://www.pch.net/ixp/summary). In May 2025 [the Medusa submarine cable was inaugurated at Misrata](https://libyaherald.com/2025/05/medusa-submarine-cable-project-linking-libya-with-europe-inaugurated), with landings at Tripoli and Benghazi then planned. [In October 2026 the cable's shore end was installed at Benghazi, with no ready-for-service date given](https://techafricanews.com/2026/10/20/medusa-submarine-cable-system-completes-shore-end-installation-in-libya/). [A 2021 memorandum with Telecom Egypt set out to upgrade the border cable and carry Libyan traffic over Egyptian cables](https://libyaherald.com/2021/04/libya-and-egypt-sign-telecommunication-technology-and-technical-training-agreements).
+[In 2023 Libya ranked first of 54 African states for mobile communications, at 91.9 out of 100 after a 60.7-point rise over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ly.pdf). [In 2026 it had no operating internet exchange point: LYB-IX is registered but has no connected peers](https://www.pch.net/ixp/summary). In May 2025 [the Medusa submarine cable was inaugurated at Misrata](https://libyaherald.com/2025/05/medusa-submarine-cable-project-linking-libya-with-europe-inaugurated), with landings at Tripoli and Benghazi then planned. [In October 2026 the cable's shore end was installed at Benghazi, with no ready-for-service date given](https://techafricanews.com/2026/10/20/medusa-submarine-cable-system-completes-shore-end-installation-in-libya/). [In October 2021 the state international operator announced completion of the Silphium cable linking eastern Libya with Greece](https://lana.gov.ly/post.php?id=216951&lang=en). [A 2021 memorandum with Telecom Egypt set out to upgrade the border cable and carry Libyan traffic over Egyptian cables](https://libyaherald.com/2021/04/libya-and-egypt-sign-telecommunication-technology-and-technical-training-agreements).
 
 [In December 2016 the state backbone had 14,000 km of fibre complete and 23% of a 9,000 km second phase built](https://libyaninvestment.com/next-generation-network-project-ngn/). [In December 2020 the fixed operator completed two backbone routes from Mizda, of 56 km to Nesma and 122 km to Abu al-Ghurab](https://lana.gov.ly/post.php?id=185890&lang=ar). [In July 2021 the fixed operator contracted Infinera for an optical transport network across 60 sites](https://itweb.africa/article/libya-telco-hatif-pens-deal-with-us-network-firm-to-expand-service/o1Jr5qx9ARWvKdWL). No account of that network's delivery has been found. [Root name servers came online in Tripoli and Benghazi in October 2025](https://libyaherald.com/2025/10/general-authority-for-communications-and-informatics-libya-enters-digital-sovereignty-era-with-official-launch-of-root-servers-in-tripoli-and-benghazi/). [In January 2026 Almadar Aljadid opened Libya's first 5G network, in central Tripoli](https://libyaherald.com/2026/01/almadar-mobile-launches-libyas-first-5g-service-in-tripoli-countrywide-roll-out-to-follow-soon/). [In April 2026 the regulator convened operators to move from IPv4 to IPv6](https://libyaherald.com/2026/04/chairman-of-general-authority-for-communications-and-informatics-urges-swift-transition-from-internet-protocol-version-4-to-ipv6/).
 
