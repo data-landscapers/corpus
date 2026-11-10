@@ -1,16 +1,17 @@
 {
- "iso3": "CIV",
- "cells": [
-  {
-   "sub_indicator": "consultation",
-   "stage": "2",
-   "hearing": "held",
-   "standing": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CIV-001;CIV-002",
-   "gaps": "No published report of a consultation on a digital law or policy, comments received or written answer to them from the last three years is held.",
-   "note": "Counted from the four questions by study-ladder-publicconsultation.py."
-  }
- ]
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "consultation",
+      "stage": "3",
+      "hearing": "answered",
+      "standing": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CIV-006;CIV-005;CIV-001;CIV-002",
+      "gaps": "No source found from the last three years says a consultation on a digital law or policy was held because a rule required it, or that a standing body with outside members gave a view.",
+      "note": "ARTCI asked operators and consumer associations for views on its draft complaints decision in August 2026 and on internet access pricing in November 2024, and its website carries Orange CI's response to the pricing consultation: stage 3. No consultation is shown held because a rule required it, so not 4.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

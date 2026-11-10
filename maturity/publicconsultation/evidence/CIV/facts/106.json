@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-04-civ-reponse-consultation-publique-tarification-des-services-d-acces-a-inte",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The regulator ARTCI launched a public consultation in November 2024 to collect stakeholders' views on a study of internet access pricing, and Orange Cote d'Ivoire sent its response on 4 December 2024.",
+   "as_of": "2024-12-04",
+   "date_precision": "day",
+   "system": "ARTCI public consultation on internet access pricing",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -22,8 +22,8 @@ The African Charter on Democracy, Elections and Governance, Articles 12, 27 and 
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 2 |
-| 3 Established | 5 |
-| 2 Nascent | 35 |
+| 3 Established | 6 |
+| 2 Nascent | 34 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 11 |
@@ -45,6 +45,15 @@ In 2026 the telecoms regulator consulted on satellite guidelines under its 2009 
 - The LTA states it ran the consultation on the draft Satellite Communications Guidelines in accordance with its published Guidelines for Consultation Process of 2009 ([source, 2026-02-23](https://lta.gov.lr/wp-content/uploads/2026/03/CONSULTATION-DOCUMENT-SATELLITE-COMMUNICATIONS-GUIDELINES-FINAL-COPY.pdf)).
 - The LTA says the consultation on the Satellite Communications Guidelines was conducted under Part III, Section 11(4) of the Telecommunications Act of 2007 and the Consultation Process Guidelines for LTA Rules, Orders and Regulations, 2009 ([source, 2026-02-23](https://www.liberianobserver.com/news/lta-signs-new-satellite-framework-targets-digital-access-across-liberia/article_e178022e-dcdf-47e5-a31b-9abefbb594c2.html)).
 - The LTA published a Consultation Report on 2026-04-03 detailing its responses to written stakeholder submissions, and says the final Satellite Communications Guidelines incorporate comments received, for example keeping the five-year NGSO landing-rights term while dropping a seven-day ESIM notice requirement ([source, 2026-04-03](https://www.liberianobserver.com/news/lta-signs-new-satellite-framework-targets-digital-access-across-liberia/article_e178022e-dcdf-47e5-a31b-9abefbb594c2.html)).
+
+### Cote d'Ivoire: 3 Established
+
+The regulator consulted operators in 2024 and 2026 and posted a response it received; no consultation required by a rule is known.
+
+- ARTCI's website carries Orange Cote d'Ivoire's written response of 4 December 2024 to the regulator's November 2024 public consultation on internet access pricing, posted in its March 2025 upload folder ([source, 2025-03](https://www.artci.ci/wp-content/uploads/2025/03/Tarification_des_Services_dAcces_a_Internet_-_Novembre_2024_Reponse_OCI.pdf)).
+- The regulator ARTCI launched a public consultation in November 2024 to collect stakeholders' views on a study of internet access pricing, and Orange Cote d'Ivoire sent its response on 4 December 2024 ([source, 2024-12-04](https://www.artci.ci/wp-content/uploads/2025/03/Tarification_des_Services_dAcces_a_Internet_-_Novembre_2024_Reponse_OCI.pdf)).
+- ARTCI, the telecoms regulator, held a two-day workshop at Assinie on 13-14 August 2026 with telecom operators, internet service providers and consumer associations, who examined and amended its draft decision on a harmonised procedure for consumer complaints about electronic communications services under law no. 2024-352 ([source, 2026-08-13](https://www.afriksoir.net/protection-des-consommateurs-lartci-veut-rendre-le-traitement-des-plaintes-plus-efficace/)).
+- ARTCI held a two-day workshop at Assinie on 13-14 August 2026 where operators, internet service providers and consumer associations reviewed and amended its draft decision on a harmonised consumer complaints procedure for electronic communications services ([source, 2026-08-13](https://www.fratmat.info/article/2643946/economie/protection-des-consommateurs-lartci-harmonise-la-procedure-de-traitement-des-plaintes)).
 
 ### Eswatini: 3 Established
 
@@ -137,13 +146,6 @@ In June 2026 a workshop with business, universities and civil society helped dra
 
 - The Ministry of Posts, Telecommunications and Digital Economy, with the UN Economic Commission for Africa and GIZ, held a stakeholder workshop in Brazzaville on 8-9 June 2026 with 60 participants to help draft the National Data Governance Strategy, after an assessment mission of 2-6 June consulting 21 institutions from government, regulators, academia, the private sector, civil society and development partners ([source, 2026-06-09](https://www.uneca.org/fr/stories/la-r%C3%A9publique-du-congo-veut-%C3%A9tablir-les-fondements-d%E2%80%99un-%C3%A9cosyst%C3%A8me-de-donn%C3%A9es-fiable)).
 - The UN Economic Commission for Africa, working in close collaboration with the Ministry of Posts, Telecommunications and Digital Economy, announced stakeholder consultations (2-6 June 2026, Brazzaville and Pointe-Noire) with telecom operators, financial institutions, universities and digital economy actors, and a multi-stakeholder workshop on 8 June 2026 including civil society and the private sector, to inform Congo's National Data Governance Strategy; the page is an event announcement dated by the event start ([source, 2026-06-02](https://www.uneca.org/eca-events/eca-supporting-republic-congo-shaping-national-data-governance-strategy-digital-sovereignty-and)).
-
-### Cote d'Ivoire: 2 Nascent
-
-In August 2026 the regulator put a draft complaints decision to operators and consumer associations; no source found says whether what they said was published.
-
-- ARTCI, the telecoms regulator, held a two-day workshop at Assinie on 13-14 August 2026 with telecom operators, internet service providers and consumer associations, who examined and amended its draft decision on a harmonised procedure for consumer complaints about electronic communications services under law no. 2024-352 ([source, 2026-08-13](https://www.afriksoir.net/protection-des-consommateurs-lartci-veut-rendre-le-traitement-des-plaintes-plus-efficace/)).
-- ARTCI held a two-day workshop at Assinie on 13-14 August 2026 where operators, internet service providers and consumer associations reviewed and amended its draft decision on a harmonised consumer complaints procedure for electronic communications services ([source, 2026-08-13](https://www.fratmat.info/article/2643946/economie/protection-des-consommateurs-lartci-harmonise-la-procedure-de-traitement-des-plaintes)).
 
 ### DR Congo: 2 Nascent
 
