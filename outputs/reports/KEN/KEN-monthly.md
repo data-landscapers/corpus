@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-10
 place: KEN
 ledger_rows: 87
 not_held: 5
-record: 31b0e9754b5a
+record: ddf87aba4c3d
 ---
 
 # News, Oct – Nov 2026
@@ -148,7 +148,7 @@ Kenya's National Assembly adopted MP Peter Kaluma's amendments to the Elections 
 
 **[The Online Safety Bill, 2026 (Kenya Gazette Supplement No. 249, National Assembly Bills No. 69)](https://www.parliament.go.ke/sites/default/files/2026-11/THE%20ONLINE%20SAFETY%20BILL%2C%202026.pdf)** — Parliament of Kenya, National Assembly (Kenya Gazette Supplement, Government Printer), 29 October 2026
 
-Bill text: duties of care, age assurance and parental consent for under-18s; fines KES 500m or 10% of global turnover.
+The Kenya Gazette published the Online Safety Bill, 2026 on 29 October 2026 as National Assembly Bill No. 69. It sets duties of care on illegal and harmful content, and requires age verification and parental consent for children. Penalties reach KES 500 million or 10 per cent of global turnover.
 
 </div>
 
@@ -164,7 +164,7 @@ ITWeb reported on 6 November 2026 that Kenya's Information and Communications (A
 
 **[Sh500m fines, parental consent: MPs' tough new rules for children, social media giants](https://nation.africa/kenya/news/sh500m-fines-parental-consent-mps-tough-new-rules-for-children-social-media-giants-5662440)** — Daily Nation, 8 November 2026
 
-Online Safety Bill 2026 tabled by MP Mark Mwenje: parental consent under 18, age checks, KES500m or 10% turnover fines.
+The Daily Nation reported on 8 November 2026 that Embakasi West MP Mark Mwenje tabled the Online Safety Bill, 2026 in the National Assembly. The bill requires parental consent for under-18s and age verification on regulated services. Fines reach KES 500 million or 10 per cent of turnover.
 
 </div>
 
@@ -762,7 +762,7 @@ Redtech, a Nigerian payments company, plans a payments link between Nigeria and 
 
 **[How Kenya's digital birth registration system will work](https://nation.africa/kenya/news/how-kenya-s-digital-birth-registration-system-will-work--5663174)** — Daily Nation, 9 November 2026
 
-Fee waiver by Gazette notice; UPI at birth via hospital e-notification in 30 days, 7,500+ public hospitals.
+Immigration PS Belio Kipsang told Kenyan MPs that birth and death certificate fees will be waived by Gazette notice, the Daily Nation reported on 9 November 2026. Within 30 days, civil registration is to link to the hospital system. Every newborn would then get a Unique Personal Identifier. Electronic birth notification is piloted in Nairobi and Bomet and is due to reach over 7,500 public hospitals.
 
 </div>
 

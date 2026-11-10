@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-10
 place: DJI
 ledger_rows: 10
 not_held: 11
-record: 371d989dc28c
+record: 6a20c9ac1712
 ---
 
 # News, Oct – Nov 2026
@@ -80,7 +80,7 @@ Djibouti's minister Mohamed Abdoulkader Moussa reviewed two IDA-funded digital p
 
 **[Digital 2027: Djibouti](https://datareportal.com/reports/digital-2027-djibouti)** — DataReportal (Simon Kemp), 5 November 2026
 
-End-2026 data: 786,000 internet users (65.3%), 649,000 mobile connections (53.9%), 266,000 social media identities.
+DataReportal published its Digital 2027 report for Djibouti on 5 November 2026. It counts 786,000 internet users at the end of 2026, a penetration of 65.3 per cent. It also counts 649,000 mobile connections, equal to 53.9 per cent of the population, and 266,000 social media identities.
 
 </div>
 

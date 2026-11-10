@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-10
 place: COG
 ledger_rows: 14
 not_held: 5
-record: e84e9603bc13
+record: b09cee38e297
 ---
 
 # News, Oct – Nov 2026
@@ -140,7 +140,7 @@ Internet Society Pulse lists one active internet exchange point in Congo in Nove
 
 **[WACS cable repairs enter critical phase](https://itweb.africa/article/wacs-cable-repairs-enter-critical-phase/lLn14MmQ9DnMJ6Aa)** — ITWeb Africa, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
 
-29 Oct 2026 fault on DRC-Congo segment; repair ship due 11 Nov; Congo Telecom failover kept service up.
+Congo Telecom said a repair vessel was due on 11 November 2026 at the WACS fault between the two Congos. A disruption on 29 October cut its primary circuits. The operator said failover to backup links kept customers connected. It listed earlier WACS outages in 2020, August 2023 and January 2026.
 
 </div>
 

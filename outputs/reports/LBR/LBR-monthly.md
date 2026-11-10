@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-10
 place: LBR
 ledger_rows: 23
 not_held: 6
-record: 6e11f6224f3e
+record: 15a129fc271b
 ---
 
 # News, Oct – Nov 2026
@@ -452,7 +452,7 @@ Summarised under [Connectivity](#connectivity).
 
 **[Digital 2027: Liberia](https://datareportal.com/reports/digital-2027-liberia)** — DataReportal (Simon Kemp), 5 November 2026
 
-End-2026 data: 1.90m internet users (32.2%), 5.88m mobile connections (99.9%), 1.20m social media identities.
+DataReportal published its Digital 2027 report for Liberia on 5 November 2026. It counts 1.90 million internet users at the end of 2026, a penetration of 32.2 per cent. It also counts 5.88 million mobile connections, equal to 99.9 per cent of the population, and 1.20 million social media identities.
 
 </div>
 

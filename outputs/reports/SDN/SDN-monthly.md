@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-10
 place: SDN
 ledger_rows: 25
 not_held: 5
-record: d125e5a1beea
+record: 0f46b11dde0f
 ---
 
 # News, Oct – Nov 2026
@@ -116,7 +116,7 @@ Summarised under [Legislation and regulation](#legislation-and-regulation).
 
 **[تعزيزاً لحضوره الدولي.. السودان يشارك في الاجتماع السنوي لمنظمة الايزو بالعاصمة الفرنسية باريس](https://www.suna.sd/posts/taazyza-lhdorh-aldoly-alsodan-yshark-fy-alagtmaaa-alsnoy-lmnthm-alayzo-balaaasm-alfrnsy-barys)** — وكالة السودان للأنباء (سونا), 2 October 2026
 
-Sudan's SSMO attends 48th ISO General Assembly, Paris, Sept-Oct 2026; talks with ISO Secretary-General on wider role.
+Sudan News Agency reported on 2 October 2026 that the Sudanese Standards and Metrology Organisation attended the 48th ISO General Assembly in Paris. The meeting ran from 28 September to 2 October 2026. The organisation's director general led a delegation that included its head of international relations.
 
 </div>
 

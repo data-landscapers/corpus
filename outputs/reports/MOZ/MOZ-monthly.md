@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-10
 place: MOZ
 ledger_rows: 32
 not_held: 18
-record: 3df44df3eb96
+record: 5c22177d735b
 ---
 
 # News, Oct – Nov 2026
@@ -234,7 +234,7 @@ Mozambique's Communications and Digital Transformation Minister, Américo Muchan
 
 **[Digital 2027: Mozambique](https://datareportal.com/reports/digital-2027-mozambique)** — DataReportal, 5 November 2026
 
-7.57 million internet users, 20.5% penetration, end-2026; 18.4 million mobile connections, 49.9% of population.
+DataReportal published its Digital 2027 report for Mozambique on 5 November 2026. It counts 7.57 million internet users at the end of 2026, a penetration of 20.5 per cent. It also counts 18.4 million mobile connections, equal to 49.9 per cent of the population, and 4.39 million social media identities.
 
 </div>
 

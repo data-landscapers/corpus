@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-10
 place: TUN
 ledger_rows: 37
 not_held: 5
-record: 40a4f6d1c0e0
+record: 9745a787a3df
 ---
 
 # News, Oct – Nov 2026
@@ -136,7 +136,7 @@ Tunisia's communications ministry announced child-protection measures resting on
 
 **[Ministère de la Famille : 77,7 % d'utilisateurs d'Internet dès 10 ans](https://www.nessma.tv/fr/nationale/actu/ministere-de-la-famille-777-dutilisateurs-dinternet-des-10-ans/597664)** — Nessma / TAP, 5 November 2026
 
-Family ministry starts drafting a child online-protection bill; officials cite 77.7% internet use from age 10.
+Nessma and the TAP news agency reported on 5 November 2026 that Tunisia's family ministry has started drafting a bill to protect children online. The minister announced it at a national forum. Officials cited internet use of 77.7 per cent among people aged 10 and over. The ministry launched a national pact on children's online safety in November 2025.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-10
 place: MLI
 ledger_rows: 11
 not_held: 1
-record: 539bd003a666
+record: 0125de43c424
 ---
 
 # News, Oct – Nov 2026
@@ -72,7 +72,7 @@ The Alliance of Sahel States adopted the digital deliverables of its Confederati
 
 **[AES-fréquences militaires : Des experts de la Confédération en conclave à Bamako](https://www.maliweb.net/economie/developpement/aes-frequences-militaires-des-experts-de-la-confederation-en-conclave-3121278.html)** — Maliweb, 8 November 2026
 
-Bamako, 2-4 Nov 2026; AMRTP hosts Burkina and Niger delegations; common border military-frequency database planned.
+Maliweb reported on 8 November 2026 that Bamako hosted the second coordination meeting on military frequencies at the borders of the Alliance of Sahel States, to 4 November. Mali's telecoms regulator AMRTP organised it, with delegations from Burkina Faso and Niger. Mali's deputy defence minister, General Oumar Diarra, chaired the opening.
 
 </div>
 

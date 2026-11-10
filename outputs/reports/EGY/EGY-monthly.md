@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-10
 place: EGY
 ledger_rows: 52
 not_held: 36
-record: d37c733f8633
+record: 2edbd97e3e3c
 ---
 
 # News, Oct – Nov 2026
@@ -76,7 +76,7 @@ Prime Minister Mostafa Madbouly announced the closing recommendations of Egypt F
 
 **[وزراء الاتصالات والاستثمار والمالية والري يعرضون خططًا حكومية للتحول الرقمي والذكاء الاصطناعي](https://www.youm7.com/story/2026/11/7/وزراء-الاتصالات-والاستثمار-والمالية-والري-يعرضون-خططًا-حكومية-للتحول-الرقمي/7609762)** — Youm7, 7 November 2026
 
-Up to 1 GW of power at designated data-centre sites; 43% of digital exports from 50 firms; Cairo ICT opening, 7 Nov 2026.
+Youm7 reported on 7 November 2026 from the opening session of Cairo ICT 2026. The ICT minister, Raafat Hindy, said the ministry is working with the electricity ministry to supply up to 1 GW of power at designated data-centre sites. Several ministers set out their digital transformation and artificial intelligence plans at the session.
 
 </div>
 
@@ -84,7 +84,7 @@ Up to 1 GW of power at designated data-centre sites; 43% of digital exports from
 
 **[وزير الاتصالات: نمو القطاع 24.5% و12 مليار دولار مستهدف الصادرات الرقمية.. رأفت هندى: نستهدف رفع مساهمة القطاع لـ 8% من الناتج المحلى بحلول 2030.. وإنتاج 12 مليون هاتف محمول خلال 2026.. 400 خدمة حكومية مستهدفة](https://www.youm7.com/story/2026/11/7/وزير-الاتصالات-نمو-القطاع-24-5-و12-مليار-دولار-مستهدف/7608559)** — Youm7, 7 November 2026
 
-Data-centre strategy due 2026; 5-7 hyperscale sites; 300 e-services by June 2027; USD 5.2bn outsourcing exports 2025.
+Youm7 published an interview on 7 November 2026 with Egypt's ICT minister, Raafat Hindy. The minister said the sector grew 24.5 per cent and aims for 8 per cent of GDP by 2030. The minister also described a plan for seven hyperscale data centres and a target of 400 national e-services.
 
 </div>
 

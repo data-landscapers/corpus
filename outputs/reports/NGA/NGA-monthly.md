@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-10
 place: NGA
 ledger_rows: 89
 not_held: 9
-record: 5689cabfe767
+record: 1c8b737a4216
 ---
 
 # News, Oct – Nov 2026
@@ -654,7 +654,7 @@ Lagos State's infrastructure regulator LASIMRA ordered internet service provider
 
 **[Nigeria’s telecom operators sue federal lawmakers over service-quality probe](https://techcabal.com/2026/11/09/nigerian-telecom-operators-sue-reps/)** — TechCabal, 9 November 2026
 
-Originating summons filed 4 Nov 2026 by ALTON, MTN, Airtel, Glo, T2; Sections 88-89 and 2024 QoS rules cited.
+ALTON and four Nigerian operators filed a summons at the Federal High Court in Abuja on 4 November 2026, TechCabal reported. They ask whether the Constitution lets the House of Representatives investigate their network quality and summon their chiefs. The House says each operator holds its own licence and must account for its performance.
 
 </div>
 

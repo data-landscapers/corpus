@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-10
 place: CMR
 ledger_rows: 27
 not_held: 3
-record: e7b89bad3331
+record: 3a78b2fc0e0d
 ---
 
 # News, Oct – Nov 2026
@@ -158,7 +158,7 @@ ISO lists Cameroon's Agence des Normes et de la Qualité (ANOR) as a member body
 
 **[Comment Internet arrive au Cameroun](https://obs-cc.org/infrastructures-reseaux/)** — OBS-CC, 1 October 2026
 
-Five cables, three landing towns; ACE never built after 2015 convention; Chad cut off for debt May 2025.
+The Cameroonian civil-society group OBS-CC published an explainer on 1 October 2026 on how Cameroon connects to the global internet. It lists five submarine cables landing in three coastal towns, Limbe, Douala and Kribi, and a national fibre backbone run by Camtel. OBS-CC puts the backbone at 12,000 to nearly 16,000 km, citing published estimates.
 
 </div>
 

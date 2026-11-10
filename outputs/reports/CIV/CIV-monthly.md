@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-10
 place: CIV
 ledger_rows: 39
 not_held: 9
-record: 975168326f03
+record: 56a12884770d
 ---
 
 # News, Oct – Nov 2026
@@ -360,7 +360,7 @@ From 2 November 2026 the BCEAO required interoperable e-money transfers across W
 
 **[Wave précise l'accès à PI-SPI au Sénégal et en Côte d'Ivoire](https://bifinances.com/actualites/wave-precise-lacces-a-pi-spi-au-senegal-et-en-cote-divoire)** — BiFinances, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
-Open to all Wave users from week of 6 Nov 2026; free to 8,000 FCFA/day, then 0.8%; 1% agent cash-out.
+Wave announced on 6 November 2026 that its customers in Senegal and Côte d'Ivoire can use the PI-SPI instant-payment system from its app. Sending is free up to 8,000 FCFA a day and costs 0.8% plus taxes above that. Receiving is free. Withdrawing PI-SPI funds at an agent costs 1%.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-10
 place: COD
 ledger_rows: 44
 not_held: 6
-record: 374d0c067f34
+record: aa5683dbb50d
 ---
 
 # News, Oct – Nov 2026
@@ -270,7 +270,7 @@ DR Congo had 77 million active mobile subscriptions in the second quarter of 202
 
 **[WACS cable repairs enter critical phase](https://itweb.africa/article/wacs-cable-repairs-enter-critical-phase/lLn14MmQ9DnMJ6Aa)** — ITWeb Africa, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a>
 
-29 Oct 2026 fault on DRC-Congo segment; repair ship due 11 Nov; Congo Telecom failover kept service up.
+Congo Telecom said a repair vessel was due on 11 November 2026 at the WACS fault between the two Congos. A disruption on 29 October cut its primary circuits. The operator said failover to backup links kept customers connected. It listed earlier WACS outages in 2020, August 2023 and January 2026.
 
 </div>
 
@@ -498,7 +498,7 @@ DR Congo's Ministry of Justice launched digital collection of court fees on 5 No
 
 **[RDC : un système connecté pour mieux organiser les interventions médicales](https://www.wearetech.africa/fr/fils/actualites/tech/rdc-un-systeme-connecte-pour-mieux-organiser-les-interventions-medicales)** — wearetech.africa, 9 November 2026
 
-Etoile Bleue: free 199 line, app, regulation centre; 130 ambulances, 300 motorbikes; Kinshasa and Matadi first.
+The DR Congo Ministry of Health announced on 8 November 2026 that the Etoile Bleue emergency medical response system will be inaugurated by the President, after a postponement in June 2026. It starts in Kinshasa and Matadi with a free 199 number, a mobile app, a regulation centre, 130 ambulances and 300 medical motorbikes. No launch date was given.
 
 </div>
 

@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-10
 place: ETH
 ledger_rows: 29
 not_held: 5
-record: f1632345f408
+record: c117208753ee
 ---
 
 # News, Oct – Nov 2026
@@ -528,7 +528,7 @@ The Ethiopian Institution of the Ombudsman's website says it has resolved more t
 
 **[Digital 2027: Ethiopia](https://datareportal.com/reports/digital-2027-ethiopia)** — DataReportal (Simon Kemp), 5 November 2026
 
-End-2026 data: 31.1m internet users (22.3%), 105m mobile connections (75.3%), 10.2m social media identities.
+DataReportal published its Digital 2027 report for Ethiopia on 5 November 2026. It counts 31.1 million internet users at the end of 2026, a penetration of 22.3 per cent. It also counts 105 million mobile connections, equal to 75.3 per cent of the population, and 10.2 million social media identities.
 
 </div>
 
