@@ -1,0 +1,34 @@
+{
+ "slug": "2025-11-24-ago-conectividade-especialista-defende-descentralizacao-da-internet-em-ang",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Analyst Darwin Costa, interviewed by Portal de T.I., says Angola's active internet exchange points, Angonix and Angola-IXP, are both in Luanda.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Angonix; Angola-IXP",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Angonix",
+   "country_label": "Angonix (Luanda)",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "Angola-IXP",
+   "country_label": "Angola-IXP (Luanda)",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Regional exchanges are only proposed; no content network or traffic figure is stated."
+}

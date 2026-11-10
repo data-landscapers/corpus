@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-09-xaf-af-ix-african-ixp-list",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "The African IXP Association's undated list of exchange points, retrieved 2026-11-09, names for Cameroon: CAMIX, Douala and Yaounde.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "CAMIX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wider",
+   "fact": "The African IXP Association's undated list, retrieved 2026-11-09, places Cameroon's exchange points in more than one city: Douala and Yaounde.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "CAMIX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

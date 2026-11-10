@@ -7,6 +7,8 @@ AGO,Rede de banda larga de fibra optica (DWDM backbone),Rede Nacional de Banda L
 AGO,Rede Nacional de Banda Larga (RNBL),Rede Nacional de Banda Larga,other,,Government of Angola / MINTTICS,,2023-01-01-eximbank-cn-ago-003-national-broadband-infrastructure-upgrading-project-rnbl
 AGO,Angonix,Angola,exchange,,,,2025-08-01-ago-trafego-de-internet-em-angola-atinge-maximos-historicos
 AGO,Angola IXP,Angola,exchange,,,,2025-08-01-ago-trafego-de-internet-em-angola-atinge-maximos-historicos
+AGO,Angonix,Angonix (Luanda),exchange,,,,2025-11-24-ago-conectividade-especialista-defende-descentralizacao-da-internet-em-ang
+AGO,Angola-IXP,Angola-IXP (Luanda),exchange,,,,2025-11-24-ago-conectividade-especialista-defende-descentralizacao-da-internet-em-ang
 BDI,BDIXP,Burundi Internet Exchange Point,exchange,,,,2026-08-01-burundi-ixp-tracker-bdixp-isoc-pulse
 BDI,BDIXP,Burundi Internet Exchange Point,other,,Republic of Burundi; managed by an ISP association authorised by ARCT,,2014-05-13-decret-100-122-cadre-reglementaire-point-echange-internet-national-burundi
 BEN,BENIN-IX,BENIN-IX,exchange,,,"ISOCEL SA, SBIN, PCH (two ASNs)",2026-01-01-pulse-internetsociety-org-ixp-tracker-benin-ix
@@ -114,6 +116,7 @@ KEN,KIXP,Kenya Internet Exchange Point,exchange,,,,2017-05-16-east-africa-data-c
 KEN,KIXP,KIXP,exchange,,,,2026-06-29-starlink-africa-availability-costs-performance
 KEN,LINX Nairobi,LINX Nairobi,exchange,,,,2026-06-29-starlink-africa-availability-costs-performance
 KEN,KIXP,Kenya Internet Exchange Point,exchange,IXP Manager,TESPOK,,2024-05-24-ken-kixp-presentaion-kenog-may-2024
+KEN,KIXP,KIXP,exchange,,,,2024-07-23-moz-2024-east-africa-submarine-cable-outage-report
 LBR,Liberia Internet Exchange Point (LIXP),Liberia IXP,exchange,,Cable Consortium of Liberia (host); Liberia Internet Exchange Point Association (LIXPA),,2025-12-05-liberia-lta-strengthen-internet-exchange-point-national-peering-forum
 LBR,Liberian Internet Exchange Point (LIXP),LIXP,exchange,,Ministry of Posts and Telecommunications; African Union Commission (AXIS project),,2015-08-02-au-setting-up-and-launching-internet-exchange-point-liberia
 LBR,Liberia IXP,Liberia,exchange,internet exchange point,Cable Consortium of Liberia,national,2025-02-06-lbr-ccl-acquires-ict-equipment-to-boost-liberia-s-internet-exchange-point
@@ -193,6 +196,7 @@ RWA,RINEX,RINEX (Rwanda Internet Exchange Point),exchange,,RICTA,,2014-02-01-rin
 RWA,RINEX,Rwanda Internet Exchange,exchange,,,,2026-07-13-isoc-local-peering-africa
 RWA,Rwanda Internet Exchange - RINEX,Rwanda,exchange,,,,2026-11-01-rwa-ixp-tracker-rwanda-internet-exchange-rinex
 RWA,RINEX,Rwanda,exchange,,RICTA,,2024-01-08-ben-promouvoir-une-afrique-numerique-renforcer-les-points-d-echange-intern
+RWA,RINEX,RINEX,exchange,,,,2024-07-23-moz-2024-east-africa-submarine-cable-outage-report
 SDN,SIXP Sudan,Sudan Internet Exchange Point,exchange,,,,2026-08-01-ixp-tracker-sixp
 SDN,SIXP Sudan,Sudan Internet Exchange Point,exchange,,National Information Center of Sudan,,2020-01-22-sixp-sudan-peeringdb
 SDN,National Internet Exchange Point,National Internet Exchange Point,exchange,,National Information Center,,2016-05-02-sudan-nic-wsis-forum-2016-egov-presentation
@@ -217,6 +221,8 @@ SYC,Seychelles Internet Exchange Point Association (SEY-IX),SEY-IX,other,,"Seych
 TCD,CENIX,"Central African Internet Exchange (Central African Republic, not TCD)",other,,,,2026-07-22-maroc-telecom-rapport-financier-semestriel-2026
 TCD,TCHADIX,TCHADIX,exchange,,"GIE of members, promoted by ADETIC","internet access providers, mobile operators",2026-05-21-digitalbusiness-tchadix-ixp-un-an
 TCD,N'Djamena IX,Chad,exchange,internet exchange point,,national,2026-11-01-tcd-ixp-tracker-tchad
+TCD,Chad IXP,Chad,exchange,,,,2024-08-22-tcd-another-outage-shows-challenges-facing-chad-s-internet-infrastructure
+TCD,Chad IXP,Chad,exchange,internet exchange point,ADETIC,,2024-03-12-tcd-chad-s-recent-outages-highlight-resiliency-gaps
 TGO,TGIX,Togo Internet Exchange Point,exchange,,"TGIX Management (AS328152, non-profit)",,2026-07-01-isoc-pulse-ixp-tracker-tgix-togo
 TGO,Lomé Data Centre,Lomé Data Center,other,,Lomé Data Centre,,2025-09-24-lome-data-centre-home-page-en
 TGO,IXP (WARCIP Togo),point d'échange internet,other,,Ministry of Posts and Digital Economy / WARCIP,,2017-08-30-tgo-mpen-discours-atelier-politique-sectorielle-2018-2022
@@ -233,12 +239,14 @@ TZA,TIX,Tanzania Internet eXchange,exchange,,TISPA,,2025-09-24-stellarix-joins-t
 TZA,Raxio Tanzania data centre (planned),,other,,Raxio Group,,2026-07-13-raxio-380-million-capital-tanzania-expansion
 TZA,Internet Exchange Points,Tanzania,exchange,,,,2025-06-01-tza-wsis-20-country-report-tanzania
 TZA,TIX Tanzania,Tanzania,exchange,internet exchange points,,national,2026-11-01-tza-ixp-tracker-tanzania
+TZA,TIX,TIX,exchange,,,,2024-07-23-moz-2024-east-africa-submarine-cable-outage-report
 UGA,NIPX (National IP Peering Exchange),National IP Peering Exchange,other,,NITA-U with Ministry of ICT; described as neutrally owned,,2026-04-14-nipx-launch
 UGA,NIPX (National IP Peering Exchange),National IP Peering Exchange,other,,NITA-U,,2025-10-17-nipx-establishment-peering-policy
 UGA,UIXP,Uganda Internet eXchange Point,exchange,route servers,UIXP (own executive director),,2025-01-13-uixp-2024-status-report
 UGA,UIXP,Uganda Internet Exchange Point,exchange,,,,2026-08-09-isoc-pulse-uganda-january-2026-shutdown-record
 UGA,Raxio UG1,Raxio Uganda,other,,Raxio Group,,2026-01-01-raxio-ug1-uganda-data-centre
 UGA,Raxio Data Centre,Raxio Data Centre,other,,First Brick Holdings (Roha Group),,2020-12-14-ventureburn-raxio-uganda-uptime-tier-iii-certification
+UGA,UIXP,UIXP,exchange,,,,2024-07-23-moz-2024-east-africa-submarine-cable-outage-report
 ZAF,CINX,Cape Town Internet Exchange,exchange,,INX-ZA,,2026-08-11-cinx-oadc-cape-town-expansion
 ZAF,JINX,Johannesburg Internet Exchange,exchange,,INX-ZA,,2026-08-11-cinx-oadc-cape-town-expansion
 ZAF,SADC regional internet exchange,SADC Internet regional exchange,other,,"SADC Secretariat (host sought: BoFiNet, Botswana)",,2025-11-27-botswana-bids-to-host-sadc-internet-exchange-itweb

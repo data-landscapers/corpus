@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-09-xaf-af-ix-african-ixp-list",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "The African IXP Association's undated list of exchange points, retrieved 2026-11-09, names for Malawi: MIX, Blantyre, and LIONEX, Lilongwe.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "MIX",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wider",
+   "fact": "The African IXP Association's undated list, retrieved 2026-11-09, places Malawi's exchange points in more than one city: Blantyre and Lilongwe.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "MIX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

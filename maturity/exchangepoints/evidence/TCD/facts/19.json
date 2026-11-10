@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-22-tcd-another-outage-shows-challenges-facing-chad-s-internet-infrastructure",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "ISOC Pulse says Chad has one active IXP that connects a third of the country's networks, and that no content delivery network operates caches there.",
+   "as_of": "2024-08-22",
+   "date_precision": "day",
+   "system": "Chad IXP",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Chad IXP",
+   "country_label": "Chad",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-23-moz-2024-east-africa-submarine-cable-outage-report",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Internet Society's report counts one IXP in Rwanda, RINEX, with 17.86% of local networks connected and a mild traffic drop during the May 2024 cable cuts.",
+   "as_of": "2024-07-23",
+   "date_precision": "day",
+   "system": "RINEX",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "RINEX",
+   "country_label": "RINEX",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

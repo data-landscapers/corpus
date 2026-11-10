@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-23-moz-2024-east-africa-submarine-cable-outage-report",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Internet Society's report counts one IXP in Burundi, with 55.56% of local networks connected to it.",
+   "as_of": "2024-07-23",
+   "date_precision": "day",
+   "system": "IXP",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

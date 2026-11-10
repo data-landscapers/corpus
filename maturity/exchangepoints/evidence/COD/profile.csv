@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COD,exchange,exchange,coverage,content,2026-08-21,COD-004;COD-011,COD-003=service;COD-001=service;COD-005=traffic;COD-002=service;COD-009=service;COD-010=service;COD-007=service,
-COD,exchange,reach,coverage,wider,2026-08-21,COD-006;COD-008,,
+COD,exchange,exchange,coverage,content,2026-08-21,COD-004;COD-011,COD-012=service;COD-003=service;COD-001=service;COD-005=traffic;COD-002=service;COD-009=service;COD-010=service;COD-007=service,
+COD,exchange,reach,coverage,wider,2026-11-09,COD-006;COD-008;COD-013,,

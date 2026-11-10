@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-12-tcd-chad-s-recent-outages-highlight-resiliency-gaps",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Internet Society Pulse says Chad has one IXP managed by ADETIC, with at least nine networks peering there per PeeringDB, almost all visible networks in Chad.",
+   "as_of": "2024-03-12",
+   "date_precision": "day",
+   "system": "Chad IXP (ADETIC)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Chad IXP",
+   "country_label": "Chad",
+   "class": "exchange",
+   "platform": "internet exchange point",
+   "owner": "ADETIC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

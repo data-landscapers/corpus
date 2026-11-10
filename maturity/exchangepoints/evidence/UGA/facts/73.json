@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-23-moz-2024-east-africa-submarine-cable-outage-report",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Internet Society's report counts one IXP in Uganda, UIXP, with 14.29% of local networks connected.",
+   "as_of": "2024-07-23",
+   "date_precision": "day",
+   "system": "UIXP",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UIXP",
+   "country_label": "UIXP",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

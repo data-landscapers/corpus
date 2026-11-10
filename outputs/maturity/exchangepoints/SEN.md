@@ -2,7 +2,7 @@
 
 ## Exchange points keeping traffic local
 
-**In service, with a content network, and growing.** [The Internet Society Pulse IXP Tracker lists HubSIX, an exchange point in Dakar, with 6 member ASNs in PeeringDB, 5 of 6 peering at the route server, and 260 Gbps cumulative member port capacity (PeeringDB self-declared data, September 2026)](<https://pulse.internetsociety.org/en/ixp-tracker/ixp/1594/>). These place an exchange point in service, which answers the first of the study's four questions. A global content network serving from it is not stated. Member counts and traffic are given where a source states them; only traffic shown growing sets a stage.
+**In service, with a content network, and growing.** [In September 2026 the Internet Society's IXP Tracker listed HubSIX, an exchange point in Dakar, with six member networks](<https://pulse.internetsociety.org/en/ixp-tracker/ixp/1594/>). [Five of the six peered at the route server, with 260 Gbps of port capacity between them](<https://pulse.internetsociety.org/en/ixp-tracker/ixp/1594/>). [The African IXP Association lists two exchanges in Dakar: SENIX, opened in 2017, and HubSIX, opened in 2026](<https://af-ix.org/ixps-list>). No source found says a global content network serves from either.
 
 **A second city or networks from abroad.** Nothing found names a second city or networks from other countries at [the exchange](<https://pulse.internetsociety.org/en/ixp-tracker/ixp/1594/>). An exchange reaches beyond one city where a second exchange or point of presence is in service in another city, or where networks from other countries peer there; the anycast DNS operators found at almost every exchange do not count.
 

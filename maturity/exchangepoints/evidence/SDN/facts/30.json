@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-12-tcd-chad-s-recent-outages-highlight-resiliency-gaps",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "exchange",
+   "value": "service",
+   "fact": "Internet Society Pulse says Sudan has one internet exchange point.",
+   "as_of": "2024-03-12",
+   "date_precision": "day",
+   "system": "Sudan IXP",
+   "class": "exchange"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
