@@ -1,11 +1,11 @@
 ---
 title: Nigeria — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: NGA
-ledger_rows: 88
+ledger_rows: 89
 not_held: 9
-record: 66bb5d5e8af9
+record: 5689cabfe767
 ---
 
 # News, Oct – Nov 2026
@@ -641,6 +641,20 @@ The Lagos State Infrastructure Maintenance and Regulatory Agency told internet s
 **[Lagos orders ISPs to secure cables](https://www.itweb.africa/article/lagos-orders-isps-to-secure-cables/nWJad7bNRRE7bjO1)** — ITWeb Africa, 6 November 2026
 
 Lagos State's infrastructure regulator LASIMRA ordered internet service providers to rearrange dangling fibre cables, secure loose installations and clear obstructions in Ilasan/Ikate, Allen Avenue and the Customs Office area of Ikeja. The notice is dated 2 November 2026, and enforcement with sanctions begins on 9 November 2026. The Nigerian Communications Commission regulates the sector federally.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Operators' suit against the House of Representatives' network-quality probe</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria’s telecom operators sue federal lawmakers over service-quality probe](https://techcabal.com/2026/11/09/nigerian-telecom-operators-sue-reps/)** — TechCabal, 9 November 2026
+
+Originating summons filed 4 Nov 2026 by ALTON, MTN, Airtel, Glo, T2; Sections 88-89 and 2024 QoS rules cited.
 
 </div>
 
