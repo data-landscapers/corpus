@@ -3,9 +3,9 @@ title: Cameroon — News, Oct – Nov 2026
 compiled: 2026-11-10
 period: 2026-10-01 to 2026-11-10
 place: CMR
-ledger_rows: 27
+ledger_rows: 28
 not_held: 3
-record: 3a78b2fc0e0d
+record: 73e34ac8ff3b
 ---
 
 # News, Oct – Nov 2026
@@ -131,6 +131,20 @@ Central African telecoms regulators chose Cameroon as the seat of their associat
 **[ISO - ANOR - Agence des Normes et de la Qualité](https://www.iso.org/member/1623.html)** — International Organization for Standardization, 16 October 2026
 
 ISO lists Cameroon's Agence des Normes et de la Qualité (ANOR) as a member body. As read in October 2026, it participates in 4 technical committees and observes 41.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regulator quality-of-service monitoring platforms</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Agence de Régulation des Télécommunications, Communiqué n° 0000166/ART/DG du 10 novembre 2026 (contrôle pluridisciplinaire des opérateurs CAMTEL, MTN Cameroon et Orange Cameroun)](https://art.cm/sites/default/files/documents/COMMUNIQUE%20ART%2010%20NOV%202026.pdf)** — Agence de Régulation des Télécommunications (ART), Cameroun, 10 November 2026
+
+Cameroon's regulator ART reported on 10 November 2026 on its quality-of-service control of 13 July to 10 August 2026. It found 93 breaches of licence obligations: 41 for CAMTEL, valued at FCFA 8.2 billion, 29 for Orange Cameroun at FCFA 5.8 billion and 23 for MTN Cameroon at FCFA 4.6 billion. Each operator received a 15-day formal notice. An audit of CAMTEL's national fibre network found significant degradation.
 
 </div>
 
