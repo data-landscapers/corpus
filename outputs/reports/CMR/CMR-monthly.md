@@ -1,11 +1,11 @@
 ---
 title: Cameroon — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: CMR
-ledger_rows: 26
+ledger_rows: 27
 not_held: 3
-record: 41b12fd89a56
+record: e7b89bad3331
 ---
 
 # News, Oct – Nov 2026
@@ -149,6 +149,20 @@ ISO lists Cameroon's Agence des Normes et de la Qualité (ANOR) as a member body
 </nav>
 
 ### Connectivity
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Submarine cable landings</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Comment Internet arrive au Cameroun](https://obs-cc.org/infrastructures-reseaux/)** — OBS-CC, 1 October 2026
+
+Five cables, three landing towns; ACE never built after 2015 convention; Chad cut off for debt May 2025.
+
+</div>
+
+</div>
 
 <div class="monthly-story" markdown="1">
 
