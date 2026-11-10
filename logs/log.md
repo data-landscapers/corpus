@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-10 02:03 · **BUILD** · 1h02m · catalogue 38,863; 368 sources, 57 units, 23 moved, 100 minted, 38 status; data centres 6 changed; maturity 95 calls, 14 moved; 3 deals judged; bulletin 33; prose gate 17 fixed; messages 115-117 - ok
 2026-11-10 01:58 · **REBUILD** · 31m · interoperabilitystandards standards: 19 cells reassessed, 0 moved; 54 searched, 15 staged; ~101M tokens (three shared 303M) - ok
 2026-11-10 01:58 · **REBUILD** · 31m · interoperabilitylaw law: 3 cells reassessed, 3 moved; 54 searched, 50 staged; ~101M tokens (three shared 303M) - ok
 2026-11-10 01:58 · **REBUILD** · 32m · interoperability framework: 1 cell reassessed, 1 moved; 54 searched, 57 staged; ~101M tokens (three shared 303M) - ok
