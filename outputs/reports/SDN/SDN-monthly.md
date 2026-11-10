@@ -1,11 +1,11 @@
 ---
 title: Sudan — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: SDN
-ledger_rows: 24
+ledger_rows: 25
 not_held: 5
-record: 1ab0694ae57e
+record: d125e5a1beea
 ---
 
 # News, Oct – Nov 2026
@@ -32,6 +32,8 @@ record: 1ab0694ae57e
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
 </nav>
 
 ### Legislation and regulation
@@ -99,6 +101,30 @@ Sudan's Council of Ministers approved three draft laws from the Ministry of Digi
 **[مجلس الوزراء يدين الاعتداءات المتكررة على المنشآت الخدمية عبر المسيرات التي تنطلق دولة إثيوبيا](https://suna.sd/posts/mgls-alozraaa-ydyn-alaaatdaaaat-almtkrr-aal-almnshat-alkhdmy-aabr-almsyrat-alty-tntlk-mn-dakhl-dol-athyobya)** — Sudan News Agency (SUNA), 1 November 2026
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+</div>
+
+### Standards
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sudanese Standards and Metrology Organization (SSMO)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[تعزيزاً لحضوره الدولي.. السودان يشارك في الاجتماع السنوي لمنظمة الايزو بالعاصمة الفرنسية باريس](https://www.suna.sd/posts/taazyza-lhdorh-aldoly-alsodan-yshark-fy-alagtmaaa-alsnoy-lmnthm-alayzo-balaaasm-alfrnsy-barys)** — وكالة السودان للأنباء (سونا), 2 October 2026
+
+Sudan's SSMO attends 48th ISO General Assembly, Paris, Sept-Oct 2026; talks with ISO Secretary-General on wider role.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[ISO - SSMO - Sudanese Standards and Metrology Organization](https://www.iso.org/member/2078.html)** — International Organization for Standardization, 9 November 2026
+
+The ISO membership page, on file under 9 November 2026, lists the Sudanese Standards and Metrology Organization as a member body. It describes a government body set up in 1993, with headquarters in Khartoum, state offices and 15 laboratories, and lists its memberships of regional and international standards bodies. The page carries no date of its own.
 
 </div>
 
