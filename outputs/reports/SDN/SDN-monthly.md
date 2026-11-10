@@ -3,9 +3,9 @@ title: Sudan — News, Oct – Nov 2026
 compiled: 2026-11-10
 period: 2026-10-01 to 2026-11-10
 place: SDN
-ledger_rows: 25
+ledger_rows: 29
 not_held: 5
-record: 0f46b11dde0f
+record: db1122dcc404
 ---
 
 # News, Oct – Nov 2026
@@ -29,12 +29,30 @@ record: 0f46b11dde0f
 ## Governance
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Governance">
+<a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#standards">Standards</a>
 </nav>
+
+### Strategies, plans and policies
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Federal and state digital transformation councils</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[هيئة التحول الرقمي تعقد الاجتماعين الأولين لمجلسَي التحول الرقمي الاتحادي والولائي](https://www.linkedin.com/feed/update/urn:li:activity:7516127823003197440)** — هيئة التحول الرقمي, 14 October 2026
+
+First federal and state digital transformation councils; eight principles incl. once-only and Baladna data exchange.
+
+</div>
+
+</div>
 
 ### Legislation and regulation
 
@@ -134,6 +152,8 @@ The ISO membership page, on file under 9 November 2026, lists the Sudanese Stand
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
 <a href="#mous-and-other-agreements">MoUs and other agreements</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#new-investments">New investments</a>
 </nav>
 
 ### MoUs and other agreements
@@ -147,6 +167,22 @@ The ISO membership page, on file under 9 November 2026, lists the Sudanese Stand
 **[وزير المالية يبحث مع المدير العام لصندوق النقد العربي تعزيز الدعم الفني وتوسيع برامج بناء القدرات والتحول الرقمي للسودان](https://www.suna.sd/posts/ozyr-284)** — Sudan News Agency (SUNA), 17 October 2026
 
 The Arab Monetary Fund agreed to include Sudan in its technical assistance on digital transformation in 2027. It will also support Sudan on securities and sukuk and offer more training places.
+
+</div>
+
+</div>
+
+### New investments
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Proparco investment in Cashi</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Proparco partners with Cashi to expand access to essential financial services in Sudan](https://www.proparco.fr/en/news/proparco-partners-cashi-expand-access-essential-financial-services-sudan)** — Proparco, 9 November 2026
+
+EUR 600,000 into Sudanese fintech Cashi; Proparco's first Sudan operation; MyCashi wallet at 2.2m users.
 
 </div>
 
@@ -351,6 +387,34 @@ Saudi payments firm EdfaPay and Sudanese IT company GoPravo launched SDPay, an e
 **[المدير العام لشركة الخدمات المصرفية الإلكترونية EBS في حوار خاص مع "حواس"](https://hawasmagazine.com/?p=23253)** — Hawas Magazine, 25 October 2026
 
 The general manager of the national payments operator said the account-to-account transfer service has passed 376 million transactions, at about 10 million a month and up 12% in 2026. Operations moved to secured sites outside Khartoum during the war. The next project is an instant payment system with a single national QR code.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Interbank electronic clearing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sudan Central Bank Resumes Full-Week Clearing, Lifts Check Limits](https://sudantribune.com/article/321071)** — Sudan Tribune, 9 November 2026
+
+Circular of 9 Nov 2026 lifts cheque-value caps; January and March limits cancelled; penalties for underfunded banks.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Siraj real-time gross settlement system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sudanese CBS Director General of Policies: Restoring Banking Systems was the Biggest Challenge](https://sudanhorizon.com/sudanese-cbs-director-general-of-policies-restoring-banking-systems-was-the-biggest-challenge/)** — Sudan Horizon, 9 November 2026
+
+Siraj RTGS reactivated, IBAN adopted, switch partly back; inflation 28.3% end-Sept 2026 against 68% end-2025.
 
 </div>
 
