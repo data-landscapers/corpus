@@ -137,6 +137,8 @@ A nationally owned data centre for hire at Tier III or above by 2024; no second 
 A nationally owned data centre for hire at Tier III or above by 2024; no second one held.
 
 - ARPCE describes its Pointe-Noire data centre, in service since 28 February 2024, as Tier 3+ (operator's own statement, no certification named) ([source, 2024-02-28](https://www.digitalbusiness.africa/congo-s-e-denis-sassou-nguesso-connecte-le-pays-au-cable-2-africa-le-datacenter-tier-3-de-larpce-inaugure/)).
+- The government portal reports ARPCE's Tier 3+ data centre at Pointe-Noire, built for the State, was commissioned on 28 February 2024 ([source, 2024-02-28](https://gouvernement.cg/economie-numerique-denis-sassou-nguesso-connecte-le-congo-au-cable-2africa/)).
+- The data centre was built by the regulator ARPCE on behalf of the State, which the document calls its second after the Brazzaville one built in 2021 ([source, 2024-02-28](https://gouvernement.cg/economie-numerique-denis-sassou-nguesso-connecte-le-congo-au-cable-2africa/)).
 
 ### Djibouti: 3 Established
 

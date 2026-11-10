@@ -9,10 +9,10 @@
       "state": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "COG-005",
-      "gaps": "No source found names a second nationally owned data centre for hire at Tier III or above.",
-      "note": "Counted from the four questions by study-ladder-nationaldatacentres.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "COG-005;COG-011;COG-012",
+      "gaps": "No source found names a second nationally owned data centre for hire at Tier III or above: the Brazzaville centre built in 2021 is named with no Tier.",
+      "note": "ARPCE's Pointe-Noire centre, in service since February 2024, is state-owned and Tier 3+ on the operator's word (COG-005, COG-011). The State's earlier Brazzaville centre (COG-012) has no Tier stated, so not two.",
+      "as_at": "2026-11-10"
     }
   ]
 }
