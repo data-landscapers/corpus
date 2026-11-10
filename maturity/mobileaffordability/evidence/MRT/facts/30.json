@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-05-mrt-mauritania-begins-deployment-of-second-undersea-cable",
+ "facts": [
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "share:2.94",
+   "fact": "Ecofin Agency, citing the International Telecommunication Union, says 5 GB of mobile data cost 2.94% of gross national income per capita in Mauritania in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ITU mobile data basket",
+   "class": "price"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-16-cog-congo-expands-international-bandwidth-with-2africa-landing",
+ "facts": [
+  {
+   "sub_indicator": "price",
+   "aspect": "cost",
+   "value": "share:5.32",
+   "fact": "Ecofin cites ITU data that 5 GB of mobile broadband cost 5.32% of GNI per capita in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ITU ICT Price Basket",
+   "class": "price"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
