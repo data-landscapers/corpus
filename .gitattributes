@@ -1,0 +1,3 @@
+# Downloaded editions are kept byte for byte (documentation/external-datasets.md); a checkout
+# that rewrote their line endings would break the sha256 beside them.
+reference/external/** -text
