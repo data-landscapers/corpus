@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-09-ken-how-kenya-s-digital-birth-registration-system-will-work",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Immigration PS Belio Kipsang told MPs the new system would strengthen management of the national population register by updating records of deceased persons after a death is registered (Daily Nation).",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "National population register",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National population register",
+   "country_label": "Kenya",
+   "class": "population",
+   "platform": "",
+   "owner": "State Department for Immigration and Citizen Services",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
