@@ -3,9 +3,9 @@ title: Cote d'Ivoire — News, Oct – Nov 2026
 compiled: 2026-11-10
 period: 2026-10-01 to 2026-11-10
 place: CIV
-ledger_rows: 39
+ledger_rows: 41
 not_held: 9
-record: 56a12884770d
+record: 85ed11f464ac
 ---
 
 # News, Oct – Nov 2026
@@ -25,6 +25,8 @@ record: 56a12884770d
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#inclusion">Inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
 </nav>
 
@@ -34,6 +36,8 @@ record: 56a12884770d
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
@@ -93,6 +97,22 @@ The National Assembly's economic and finance committee unanimously adopted a ban
 **[UEMOA/Télécommunications : le Burkina Faso signe trois accords de roaming avec le Bénin, la Côte d’Ivoire et le Sénégal](https://www.cfinance.news/article/uemoatelecommunications-le-burkina-faso-signe-trois-accords-de-roaming-avec-le-benin-la-cote-divoire-et-le-senegal/)** — C'Finance, 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
 
 Burkina Faso's telecoms regulator signed bilateral roaming agreements with its counterparts in Benin, Côte d'Ivoire and Senegal in Ouagadougou on 23 October 2026, under the WAEMU framework. The WAEMU Commission and the regulators called for the commitments to be put into effect so users get cheaper, clearer roaming terms.
+
+</div>
+
+</div>
+
+### Standards
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fibre deployment standards and fixed-network quality-of-service protocol</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d'Ivoire : un cadre en préparation pour encadrer les réseaux de fibre optique](https://www.wearetech.africa/fr/fils/actualites/tech/cote-divoire-un-cadre-en-preparation-pour-encadrer-les-reseaux-de-fibre-optique)** — wearetech.africa, 10 November 2026
+
+Côte d'Ivoire's regulator ARTCI drafted fibre-optic deployment standards and a quality-of-service measurement protocol for fixed networks at a seminar in Assinie on 4–6 November 2026. A third draft sets conditions for activating VoLTE and VoWiFi. The three drafts go to the ARTCI regulatory council for adoption, WeAreTech reported.
 
 </div>
 
@@ -695,6 +715,28 @@ MTN Côte d'Ivoire opened its first QG Digital centre at Université Félix Houp
 **[Digitalisation de l'Agriculture : Bruno Koné appelle à former des techniciens](https://www.fratmat.info/article/2645581/economie/digitalisation-de-lagriculture-bruno-kone-appelle-a-former-des-techniciens)** — Fraternite Matin, 1 November 2026
 
 Côte d'Ivoire opened a Digital Farmer School at the INP-HB technopole in Yamoussoukro on 31 October 2026. Agriculture Minister Bruno Nabagné Koné said the country has too few technicians trained in both farming and digital tools. He called for data on rainfall, vegetation, production, infrastructure and yields to be linked to guide decisions.
+
+</div>
+
+</div>
+
+## Inclusion
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
+<a href="#access-to-services">Access to services</a>
+</nav>
+
+### Access to services
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Smartphone affordability memorandum with the GSMA</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MWC Doha 26: Côte d’Ivoire and GSMA sign MoU to improve smartphone affordability](https://techreviewafrica.com/news/8242/x)** — Tech Review Africa, 10 November 2026
+
+Côte d'Ivoire and the GSMA signed a memorandum of understanding on smartphone affordability at MWC Doha 2026, Tech Review Africa reported on 10 November 2026. The universal-service agency ANSUT will lead implementation under the GSMA Handset Affordability Coalition. The report gives no targets, prices or funding, and no signing date.
 
 </div>
 
