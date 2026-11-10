@@ -1,6 +1,6 @@
 # Inclusion of persons with disabilities: digital accessibility
 
-*As at 2026-11-01.*
+*As at 2026-11-10.*
 
 ## The norm
 
@@ -20,15 +20,21 @@ The AU Disability Protocol asks for public information in accessible formats and
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 1 |
-| 4 Operating | 7 |
+| 5 Leading | 2 |
+| 4 Operating | 10 |
 | 3 Established | 5 |
-| 2 Nascent | 20 |
+| 2 Nascent | 16 |
 | 1 Absent | 4 |
 | Unplaced | 6 |
 | No evidence | 11 |
 
 ## Countries
+
+### Morocco: 5 Leading
+
+Morocco's regulator required accessible election broadcasts in 2026, the Idarati portal was redesigned for accessibility, and a 2026 diagnostic audited public institutions.
+
+- A joint study by the Mediator institution, the ONDH and the Secretariat of State for Social Inclusion, presented in March 2026, found only 47.5% of public institutions offer inclusive digital solutions and 25% of administrations are inclusive overall ([source, 2026-03-31](https://fr.le360.ma/societe/personnes-en-situation-de-handicap-seules-25-des-administrations-marocaines-sont-inclusives-le_IH7JZFEDLJHUTK5V2MM3YSNIFY/)).
 
 ### Nigeria: 5 Leading
 
@@ -62,6 +68,13 @@ Accessible digital services or assistive technology were delivered to persons wi
 
 - Ghana says the National Communication Authority, in its move to digital terrestrial television, has taken measures to make GTV news broadcasts accessible to the deaf ([source, 2024-06-18](https://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=u%2F7HeWsLeAGf4bOeOKu3awum%2BSewPd75x9YtJIsnfd7wWVeIkx7T8atLYZizIHJzk1touKDXHXm66ALasS%2BmMw%3D%3D)).
 
+### Mauritius: 4 Operating
+
+Mauritius's 2026 Digital Service Framework requires digital services to meet WCAG 2.1 AA, and a ministry website offers accessibility tools; no audit results are known.
+
+- The AI Unit's government website offers built-in accessibility tools including read-aloud, text scaling from 80% to 200%, high contrast, a dyslexia-friendly font, keyboard navigation and a simple language mode ([source, 2026-05](https://aim.govmu.org/aim/accessibility)).
+- The ICT ministry's Digital Service Framework, first released in August 2026, says ministries must adhere to it and that all digital services must comply with WCAG 2.1 Level AA ([source, 2026-08](https://mitci.govmu.org/mitci/wp-content/uploads/2026/08/Digital-Service-Framework.pdf)).
+
 ### Rwanda: 4 Operating
 
 The education board broadcast lessons with sign language and audio for deaf and blind children in 2024; no audit of public websites has been found.
@@ -69,12 +82,26 @@ The education board broadcast lessons with sign language and audio for deaf and 
 - GPE reports the Rwanda Basic Education Board's edutainment episodes (96 recorded by September 2024) carry sign language for deaf children and audio for blind children, broadcast on radio and TV and online ([source, 2024-09](https://www.globalpartnership.org/results/country-journeys/rwanda-education-goes-digital)).
 - The Rwanda Information Society Authority's Government of Rwanda Websites Guideline states that all government websites must meet or exceed WCAG 2.2, with semantic HTML and ARIA roles supporting assistive technologies, keyboard access and captions ([source, 2025](https://guidelines.risa.gov.rw/books/government-of-rwanda-websites-guideline/page/accessibility)).
 
+### South Africa: 4 Operating
+
+South African law requires accessible electronic communications services, and assistive devices reached 406 special schools in 2025; no audit of public websites is known.
+
+- The Department of Basic Education told Parliament's select committee that, under ICASA obligations, 406 of 461 (88%) public special schools had received ICT equipment, connectivity and assistive devices, with 12,180 learner devices and 1,624 teacher devices distributed ([source, 2025-07-29](https://www.education.gov.za/ArchivedDocuments/ArchivedArticles/ProgressinInclusiveEducation.aspx)).
+- CIPESA's 2025 legal analysis says South Africa's Electronic Communications Act 2005 requires electronic communications network and service providers to provide services that are accessible to persons with disabilities ([source, 2025-06](https://cipesa.org/wp-content/files/Legal_Analysis_of_Technology_and_DisabilityinAfrica.pdf)).
+
 ### Tanzania: 4 Operating
 
 The communications regulator's website and digital skills training are made accessible; no non-academic audit is found.
 
 - TCRA has integrated assistive technologies into its website to improve accessibility, and its FURSA SANA and FUTA DELETE KABISA campaigns used sign language interpretation and braille in digital skills training for persons with disabilities in Dar es Salaam, Mtwara and Dodoma ([source, 2026-10-09](https://dailynews.co.tz/tcra-advances-digital-inclusion-for-pwds-through-assistive-technologies/)).
 - The strategy states that the Government supports ICT-based assistive technology for learning at the Open University of Tanzania in Dar es Salaam, where visually impaired and deaf people are trained to use assistive products and sign language ([source, 2024-11](https://www.kazi.go.tz/uploads/documents/en-1734703693-NATIONAL%20ASSISTIVE%20TECHNOLOGY%20STRATEGY-2024-2027%20SIGNED%2021-11-2024.pdf)).
+
+### Zambia: 4 Operating
+
+Zambian law requires sign language or subtitles in television newscasts, and ZICTA gave screen-reader computers to a special school in 2024; no audit is known.
+
+- ZICTA donated to Chinsali Special School in 2024 15 desktop computers, five with JAWS screen-reading software, plus a braille printer and internet connectivity, for a school of 768 learners including 213 with disabilities ([source, 2024](https://techafricanews.com/2026/06/17/zicta-assesses-uasf-ict-projects-to-expand-digital-inclusion-across-rural-zambia/)).
+- CIPESA's 2025 legal analysis says section 49 of Zambia's Persons with Disabilities Act 2012 requires television stations to provide a sign language inset or subtitles in all newscasts and educational programmes ([source, 2025-06](https://cipesa.org/wp-content/files/Legal_Analysis_of_Technology_and_DisabilityinAfrica.pdf)).
 
 ### Zimbabwe: 4 Operating
 
@@ -183,19 +210,6 @@ Work to make information and digital services accessible to persons with disabil
 
 - Decree 2025-1526 of the Prime Minister, 3 December 2025, presents to Parliament draft law 017/2025 on access to public information, whose principle 9 says public information must be adapted for persons with disabilities through specialised media, adapted technologies or human assistance ([source, 2025-12-03](https://pub-7e0d3a35c1b949698a7ced344fa56252.r2.dev/textes/017-2025/PROJET_LAICP___PR_SENT_E_AU.PDF)).
 
-### Mauritius: 2 Nascent
-
-A Mauritian ministry unit was working towards web accessibility standards in 2026; a rule in force requiring accessible public information is not known.
-
-- The AI Unit of the Ministry of ICT and Innovation says its website is working to meet WCAG 2.2 Level AA and is not yet fully there ([source, 2026-05](https://aim.govmu.org/aim/accessibility)).
-
-### Morocco: 2 Nascent
-
-Morocco held workshops on a national digital accessibility plan in 2024 and 2026; a rule in force or government delivery is not known.
-
-- Digital transition minister Amal El Fallah Seghrouchni chaired a civil-society consultation with a workshop on access of persons with disabilities to digital public services, whose proposals are to feed the update of the third Open Government action plan 2024-2028, per LeNew ([source, 2026-09-07](https://lenew.ma/inclusion-numerique-le-gouvernement-mise-sur-les-jeunes-les-femmes-et-les-personnes-en-situation-de-handicap/)).
-- UN ESCWA and Morocco's Agency of Digital Development held a national workshop in Rabat on 18 July 2024 to develop a national plan for digital accessibility, discussing the development phases of the e-Accessibility plan ([source, 2024-07-18](https://www.unescwa.org/news/concepts-and-policies-digital-accessibility-morocco)).
-
 ### Sierra Leone: 2 Nascent
 
 Sierra Leone's ICT ministry gave assistive devices to disability institutions in 2025; a rule in force requiring accessible public services is not known.
@@ -208,14 +222,6 @@ Sierra Leone's ICT ministry gave assistive devices to disability institutions in
 Work to make information and digital services accessible to persons with disabilities was under way in 2026; a rule in force is not on record.
 
 - The Ministry of Communication and Technology project unit's January 2026 EA-RDIP Grievance Redress Mechanism manual states the mechanism (with SMS, online and telephone channels) will be accessible irrespective of disability status and will use disability-inclusive reporting mechanisms ([source, 2026-01](https://moct.gov.so/en/wp-content/uploads/2026/01/GRM-Manual-Final-clean-copy.pdf)).
-
-### South Africa: 2 Nascent
-
-South Africa pledged accessible formats and reviewed access rules in 2026; a rule in force requiring accessible public information or services is not known.
-
-- The Minister in the Presidency for Women, Youth and Persons with Disabilities proposed an approach with South Africa and China that includes accessible websites and mobile applications, captioning, Braille, Easy Read and South African Sign Language services, within a seven-point action plan on accessibility and assistive technology ([source, 2026-08-11](https://www.sanews.gov.za/south-africa/sa-china-deepen-cooperation-disability-inclusion)).
-- Parliament says GCIS, with its 2026/27 allocation of R803.2 million, is committed to providing information in all official languages, South African Sign Language, Braille and other accessible formats ([source, 2026-05-05](https://www.parliament.gov.za/news/communications-committee-adopts-budget-votes-drive-digital-transformation-and-strengthen-government-communication)).
-- USAASA opened a public consultation on updating the 2010 ministerial determination on universal access and service, with a review of accessibility for people with disabilities among its issues ([source, 2026-10-10](https://www.sundaytimes.timeslive.co.za/business/2026-10-10-public-consultation-to-update-universal-access-policy/)).
 
 ### South Sudan: 2 Nascent
 
@@ -235,12 +241,6 @@ Uganda's communications regulator gave assistive technologies to schools and hub
 
 - UCC says UCUSAF runs an ICT for Persons with Disabilities programme among its programmes ([source, 2024-02-06](https://www.ucc.co.ug/wp-content/uploads/2024/03/UCC-UCUSAF-TELECOM-INFRASTRUCTURE-LAUNCHED-IN-AGAGO-06.FEB_.2024.pdf)).
 - The UCC says the UCUSAF ICT4PWD programme provided assistive technologies to secondary schools and regional hubs, with the assessment covering 73 of 135 districts ([source, 2026-02-11](https://www.ucc.co.ug/ucc-study-highlights-strong-impact-of-ict4pwd-programme/)).
-
-### Zambia: 2 Nascent
-
-Zambia had draft national accessibility standards covering digital environments in 2025; a rule in force requiring accessible public services is not known.
-
-- ZAPD says Cabinet Memo Number 30 on Accessibility has been issued and that Draft National Accessibility Standards covering built and digital environments have been developed ([source, 2025-05-15](https://zapd.org.zm/zapd-observes-14th-global-accesibility-awareness-day/)).
 
 ### Comoros: 1 Absent
 

@@ -76,17 +76,17 @@ dataprotectionreadiness	BEN	system	5	4
 dataprotectionreadiness	MUS	system	5	4		
 digitalskills	BWA	publicskills	5	2		
 digitalskills	MUS	publicskills	5	2		
-disabilityaccess	BEN	accessibility	4	2		
-disabilityaccess	KEN	accessibility	4	2		
-disabilityaccess	LSO	accessibility	4	2		
-disabilityaccess	MAR	accessibility	5	2		
-disabilityaccess	MUS	accessibility	4	2		
-disabilityaccess	SLE	accessibility	4	2		
-disabilityaccess	SWZ	accessibility	4	2		
-disabilityaccess	TUN	accessibility	4	2		
-disabilityaccess	UGA	accessibility	4	2		
-disabilityaccess	ZAF	accessibility	4	2		
-disabilityaccess	ZMB	accessibility	4	2		
+disabilityaccess	BEN	accessibility	4	2	gap confirmed; asked notes-for-osint 311	2026-11-10
+disabilityaccess	KEN	accessibility	4	2	gap confirmed; asked notes-for-osint 311	2026-11-10
+disabilityaccess	LSO	accessibility	4	2	gap confirmed; asked notes-for-osint 311	2026-11-10
+disabilityaccess	MAR	accessibility	5	2	restaged 5 on MAR-006, MAR-007 (by hand)	2026-11-10
+disabilityaccess	MUS	accessibility	4	2	restaged 4 on MUS-008 (by hand)	2026-11-10
+disabilityaccess	SLE	accessibility	4	2	gap confirmed; asked notes-for-osint 311	2026-11-10
+disabilityaccess	SWZ	accessibility	4	2	gap confirmed; asked notes-for-osint 311	2026-11-10
+disabilityaccess	TUN	accessibility	4	2	gap confirmed; asked notes-for-osint 311	2026-11-10
+disabilityaccess	UGA	accessibility	4	2	gap confirmed; asked notes-for-osint 311	2026-11-10
+disabilityaccess	ZAF	accessibility	4	2	restaged 4 on ZAF-006 (by hand)	2026-11-10
+disabilityaccess	ZMB	accessibility	4	2	restaged 4 on ZMB-005 (by hand)	2026-11-10
 ecommercelaw	GHA	law	5	3		
 ecommercelaw	ZMB	law	5	3		
 educationexchange	GIN	exchange	4	2		
