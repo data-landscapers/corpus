@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-23-moz-2024-east-africa-submarine-cable-outage-report",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "Internet Society quotes Liquid Intelligent Technologies' CTIO saying several hyperscale cloud services are located in South Africa and hyperscale cloud instances have already been launched there; no provider is named.",
+   "as_of": "2024-07-23",
+   "date_precision": "day",
+   "system": "hyperscale cloud",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "hyperscale cloud services",
+   "country_label": "hyperscale cloud",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

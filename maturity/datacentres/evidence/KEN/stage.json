@@ -1,16 +1,17 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "datacentre",
-   "stage": "5",
-   "centre": "two",
-   "cloud": "region",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-011;KEN-033;KEN-028",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-datacentres.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "datacentre",
+      "stage": "5",
+      "centre": "two",
+      "cloud": "region",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-011;KEN-033;KEN-028",
+      "gaps": "A July 2024 statement that Kenya had no hyperscale cloud (KEN-072) predates the Oracle region reported in September 2026.",
+      "note": "Two Tier III data centres for hire (KEN-011, KEN-033) and Oracle's public cloud region at iXAfrica's Nairobi campus (KEN-028). The newer report stands over the 2024 statement that no hyperscale cloud had arrived.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

@@ -56,6 +56,7 @@ AGO,"Paratus Angola data centres, Patriota, Luanda",Angola,other,,Paratus,two de
 AGO,Raxio AG1,Angola,other,,Raxio Angola,Uptime design certificate,2026-05-31-ago-data-centers-em-angola-quais-tem-certificacao-internacional
 AGO,Centro Informatico Seguro #2 (CIS II),Angola,other,,EMIS,Tier III Constructed Facility (Uptime Institute),2025-11-19-ago-certificacao-tier-iii-de-instalacao-construida
 AGO,BPC data centre,Angola,other,,"Bravantic (in whose name it is held), hosted by ITA",,2024-09-01-ago-bpc-desafia-bna
+AGO,national data center and government cloud,national data center and government cloud,other,,"Ministry of Telecommunications, Information Technologies and Social Communication",,2026-04-29-ago-angola-launches-national-data-center-to-support-digital-strategy
 BDI,ADB data center (server room),data center de l'ADB,other,,Agence de Développement du Burundi,,2026-02-18-adb-appel-offres-racks-data-center-stabilisateurs-projecteurs
 BDI,BBS national data center,national data center,datacentre,,Burundi Backbone System (BBS),level-3 (not stated as Uptime or TIA-942),2020-01-01-world-bank-burundi-digital-economy-assessment
 BDI,Burundi IXP,Burundi Internet Exchange Point,other,,BBS,,2020-01-01-world-bank-burundi-digital-economy-assessment
@@ -252,6 +253,7 @@ CIV,national sovereign data centre,Cote d'Ivoire,other,,state,,2025-05-21-civ-la
 CIV,"RAXIO datacentre, Grand-Bassam",Côte d'Ivoire,other,,RAXIO,,2026-06-15-civ-peering-day-2026-la-rci-vise-des-ports-internet-de-100-gbps
 CIV,ANSUT central datacenter,Côte d'Ivoire,other,,ANSUT,,2024-09-19-civ-services-telecoms-les-acquis-du-desenclavement-numerique-de-la-cote-d
 CIV,Datacenter de santé,Cote d'Ivoire,other,,Ministry of Health (DISD),,2025-11-27-civ-himss-eurasia-2025-franck-simon-blehiri-expose-le-succes-du-modele-ivo
+CIV,Orange CI colocation rooms,Cote d'Ivoire,datacentre,,Orange Cote d'Ivoire,,2024-12-04-civ-reponse-consultation-publique-tarification-des-services-d-acces-a-inte
 CMR,CAMTEL Zamengoe data center,CMR,datacentre,,CAMTEL,Tier III,2026-09-07-cmr-businessincameroon-cybastion-75m
 CMR,ST Digital Douala data center,CMR,datacentre,,ST Digital,,2026-09-07-cmr-businessincameroon-cybastion-75m
 CMR,Cybastion Douala AI data center (planned),CMR,other,,Cybastion,,2026-09-07-cmr-businessincameroon-cybastion-75m
@@ -312,6 +314,7 @@ CMR,Camtel NBN II data centre,Cameroon,datacentre,,Camtel,Tier III Design (Uptim
 CMR,ST Digital data centre,Cameroon,datacentre,,ST Digital,Tier III standard,2025-06-18-cmr-datacenters-certifies-ecosysteme-delaisse-au-cameroun
 CMR,Orange data centre,Cameroon,datacentre,,Orange,Tier III standard,2025-06-18-cmr-datacenters-certifies-ecosysteme-delaisse-au-cameroun
 CMR,MTN data centre,Cameroon,datacentre,,MTN,Tier III standard,2025-06-18-cmr-datacenters-certifies-ecosysteme-delaisse-au-cameroun
+CMR,CAMTEL Data Center,Cameroon,datacentre,,CAMTEL,Tier III,2026-01-01-cmr-transport-connectivity-services-fiche-produit-bu-transport-edition-202
 COD,"Lofoyi HPC data centre (Universite Nouveaux Horizons, Lubumbashi)",HPC Lofoyi,other,,Universite Nouveaux Horizons,,2026-06-28-laguardia-unh-lubumbashi-datacenter-supercalculateur-lofoyi
 COD,Raxio DRC1,"Raxio DRC1, Limete, Kinshasa",datacentre,,Raxio Group,Tier III,2026-06-27-decrypteco-lubumbashi-data-center-lofoy-unh
 COD,"OADC Silikin Village, Kinshasa",OADC Kinshasa,datacentre,,Open Access Data Centres,,2026-06-27-decrypteco-lubumbashi-data-center-lofoy-unh
@@ -420,6 +423,7 @@ COG,ARPCE Brazzaville Datacenter,Congo,datacentre,,ARPCE,Tier 2,2024-03-02-cog-l
 COG,Brazzaville data center,Congo,other,,Congolese state,,2025-11-20-cog-le-congo-brazzaville-s-equipe-d-un-data-center-pour-repondre-au-defi-d
 COG,"Congo national data centre (Brazzaville, Bacongo)",Congo,datacentre,,State of Congo; contractor Sumec,"Tier III-equivalent design target, not in service",2026-09-24-cog-congo-le-nouveau-datacenter-national-livre-d-ici-la-fin-de-l-annee-202
 COG,National data centre of Brazzaville,Brazzaville national data centre,datacentre,,state,Tier III,2026-08-04-cog-congo-numerique-le-pays-determine-a-renforcer-sa-souverainete-informat
+COG,ARPCE Pointe-Noire Tier 3+ data centre,Congo,datacentre,,"ARPCE, for the State",Tier 3+,2024-02-29-cog-economie-numerique-denis-sassou-n-guesso-connecte-le-congo-au-cable-2a
 COM,Centre de données de l'administration publique,Data Center de l'Administration Publique,other,,ANADEN and Comores Câble (co-managed),Tier 3 (as stated by the article),2025-05-14-agenceecofin-comores-centre-donnees-administration-publique
 COM,Comores Câbles data centre,Centre de données,datacentre,,Comores Câbles,,2026-01-01-comores-cables-technologies
 COM,Neutral data centre (under construction),data center neutre,other,,Comores Câbles,,2026-01-01-comores-cables-technologies
@@ -1267,6 +1271,8 @@ MUS,Africa50-backed 30 MW build,,other,,,,2025-01-01-mauritius-data-centre-marke
 MUS,Rogers Capital Technology Services data centre,,other,,Rogers Capital,,2025-01-01-mauritius-data-centre-market-report
 MUS,Emtel data centre,,other,,Emtel,,2025-01-01-mauritius-data-centre-market-report
 MUS,"GOC Tier IV data centre, Rose-Belle",Mauritius,other,,Government Online Centre,Tier IV,2025-07-01-mus-mitci-goc-tier-iv-rose-belle-dr
+MUS,Emtel Data Centre,Emtel Data Centre,other,,Emtel Ltd,,2026-06-30-mus-list-of-msb-registered-firms-as-at-30-june-2026
+MUS,"Mauritius Telecom data centres (Rose Belle, Rose Hill)",Mauritius Telecom data centres,other,,Mauritius Telecom Ltd,,2026-06-30-mus-list-of-msb-registered-firms-as-at-30-june-2026
 MWI,"OCL Tier 3 data centre, Kanengo",MWI,datacentre,,TNM (acquired from OpenConnect Limited),,2026-09-11-tnm-malawi-ocl-data-centre-cloud-infrastructure
 MWI,"TNM data centre, Limbe",MWI,other,,TNM,,2026-09-11-tnm-malawi-ocl-data-centre-cloud-infrastructure
 MWI,"CTN AI-enabled edge data centre, Lilongwe",MWI,other,,Converged Technology Networks,,2026-09-09-mwi-linkedin-longwe-ctn-ai-edge-data-centres
@@ -1595,6 +1601,9 @@ NGA,Digital Realty LOS1,Lagos,datacentre,,Digital Realty (invested in Medallion)
 NGA,Rack Centre,Lagos,datacentre,,,,2026-07-06-nga-nigeria-s-internet-exchange-goes-400g-as-traffic-tops-two-terabits
 NGA,Galaxy Backbone data centres,Nigeria,datacentre,,Galaxy Backbone (state-owned),Tier III and Tier IV (Uptime Institute),2025-07-30-nga-nairametrics-galaxy-backbone-nictib-5000km-28-states
 NGA,Medallion Data Centre,Nigeria,datacentre,,Digital Realty,,2026-11-08-nga-nigeria-s-internet-capacity-expands-as-data-centre-links-hit-1tbps
+NGA,MainOne Data Centre,Nigeria,datacentre,,,Tier III,2024-03-19-nga-nigeria-s-8-subsea-cables-spur-new-investment-in-hyperscale-data-centr
+NGA,Rack Centre,Nigeria,datacentre,,,Tier III,2024-03-19-nga-nigeria-s-8-subsea-cables-spur-new-investment-in-hyperscale-data-centr
+NGA,OADC,Nigeria,datacentre,,,,2024-11-26-nga-lagos-subsea-cable-update
 RWA,"AOS data centre, Kigali","AOS data centre, Kigali",other,,AOS,,2026-03-19-water-policy-data-centres-newtimes
 RWA,"Africa Data Centres Kigali (2MW, planned)","Africa Data Centres Kigali (2MW, planned)",other,,Africa Data Centres (Cassava Technologies),,2022-11-28-africa-data-centres-kigali-2mw-data-centre
 RWA,Strettch Cloud,Strettch Cloud,other,,Strettch,,2026-08-26-four-african-cloud-startups-to-watch-2026
@@ -2248,6 +2257,7 @@ ZAF,Teraco,South Africa,datacentre,,Digital Realty (majority),,2024-02-27-zaf-te
 ZAF,OADC Isando,South Africa,datacentre,,Open Access Data Centres,Tier III design certification (Uptime Institute),2024-05-23-zaf-open-access-data-centres-isando-achieves-tier-iii-design-certification
 ZAF,Teraco data centres,Teraco,datacentre,colocation,Digital Realty with private equity investors,,2025-11-11-zaf-napafrica-and-teraco-acx-growing-africas-digital-community-as-napafric
 ZAF,Teraco data centres,South Africa,datacentre,,Teraco (majority-owned by Digital Realty),,2025-03-04-zaf-napafrica-achieves-5tbps-traffic-milestone-driving-africas-digital-tra
+ZAF,hyperscale cloud services,hyperscale cloud,datacentre,,,,2024-07-23-moz-2024-east-africa-submarine-cable-outage-report
 ZMB,Planned national data center (Huawei co-investment),national data center,other,,Government of Zambia / Huawei,,2026-06-08-zambia-huawei-ai-sovereignty-partnership
 ZMB,National Data Centre,National Data Centre,other,,Infratel,,2025-07-01-data-centre-market-brief-zambia
 ZMB,Liquid/ADC facility,Liquid/ADC facility,other,,Liquid Intelligent Technologies,,2025-07-01-data-centre-market-brief-zambia

@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-26-nga-lagos-subsea-cable-update",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Subsea analyst Roderick Beck says Equiano has an on-net carrier-neutral point of presence at OADC in Lagos, and Medallion's LOS20 and LOS21 data centres are the two 2Africa hand-off points.",
+   "as_of": "2024-11-26",
+   "date_precision": "day",
+   "system": "OADC; Medallion LOS20 and LOS21",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "OADC",
+   "country_label": "Nigeria",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

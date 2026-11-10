@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-23-moz-2024-east-africa-submarine-cable-outage-report",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "none",
+   "fact": "Internet Society quotes Liquid Intelligent Technologies' CTIO saying Kenya is yet to see hyperscale cloud, though it has a number of edge pops and announced edge zones.",
+   "as_of": "2024-07-23",
+   "date_precision": "day",
+   "system": "hyperscale cloud",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

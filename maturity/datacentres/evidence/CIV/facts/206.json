@@ -1,0 +1,26 @@
+{
+ "slug": "2024-12-04-civ-reponse-consultation-publique-tarification-des-services-d-acces-a-inte",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Orange Cote d'Ivoire, answering the regulator's November 2024 consultation, discusses pricing of its colocation rooms and rack-slot rental to third-party operators, saying volume-based pricing is not adequate and quality factors such as access security and backup power should count.",
+   "as_of": "2024-12-04",
+   "date_precision": "day",
+   "system": "Orange CI colocation rooms",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Orange CI colocation rooms",
+   "country_label": "Cote d'Ivoire",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Orange Cote d'Ivoire",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

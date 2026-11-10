@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-cmr-transport-connectivity-services-fiche-produit-bu-transport-edition-202",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "CAMTEL's 2026 product sheet says its network includes one Tier III data centre with 20,000 TB of storage, and that it offers colocation and cross-connection to operators and ISPs within its data centre and technical sites.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "CAMTEL Data Center",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CAMTEL Data Center",
+   "country_label": "Cameroon",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "CAMTEL",
+   "tiers": "Tier III"
+  }
+ ],
+ "note": ""
+}

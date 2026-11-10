@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-29-cog-economie-numerique-denis-sassou-n-guesso-connecte-le-congo-au-cable-2a",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "tier3",
+   "fact": "The government portal reports that President Sassou N'Guesso commissioned ARPCE's Tier 3+ data centre at Pointe-Noire on 28 February 2024, which will host data of the public administration, the private sector and foreign firms.",
+   "as_of": "2024-02-28",
+   "date_precision": "day",
+   "system": "ARPCE Pointe-Noire Tier 3+ data centre",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ARPCE Pointe-Noire Tier 3+ data centre",
+   "country_label": "Congo",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "ARPCE, for the State",
+   "tiers": "Tier 3+"
+  }
+ ],
+ "note": ""
+}
