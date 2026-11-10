@@ -1,11 +1,11 @@
 ---
 title: Congo — News, Oct – Nov 2026
-compiled: 2026-11-05
-period: 2026-10-01 to 2026-11-05
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: COG
-ledger_rows: 13
+ledger_rows: 14
 not_held: 5
-record: 3abffd8884d8
+record: e84e9603bc13
 ---
 
 # News, Oct – Nov 2026
@@ -127,6 +127,20 @@ ISO lists ACONOQ, created by a 2015 law, as the Republic of Congo's national sta
 **[IXP Tracker - Congo](https://pulse.internetsociety.org/en/ixp-tracker/country/CG/)** — Internet Society Pulse, 1 November 2026
 
 Internet Society Pulse lists one active internet exchange point in Congo in November 2026, with nine members. It gives the country a resilience score of 49 out of 100.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Alternative submarine cable connection</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[WACS cable repairs enter critical phase](https://itweb.africa/article/wacs-cable-repairs-enter-critical-phase/lLn14MmQ9DnMJ6Aa)** — ITWeb Africa, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
+
+29 Oct 2026 fault on DRC-Congo segment; repair ship due 11 Nov; Congo Telecom failover kept service up.
 
 </div>
 
