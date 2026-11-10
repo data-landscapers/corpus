@@ -3,9 +3,9 @@ title: Ethiopia — News, Oct – Nov 2026
 compiled: 2026-11-10
 period: 2026-10-01 to 2026-11-10
 place: ETH
-ledger_rows: 29
+ledger_rows: 33
 not_held: 5
-record: c117208753ee
+record: bbd354a365d8
 ---
 
 # News, Oct – Nov 2026
@@ -24,6 +24,8 @@ record: c117208753ee
 <a href="#digitalisation">Digitalisation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -133,6 +135,8 @@ Kifiya Financial Technology announced on 4 November 2026, at the Africa Financia
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#connectivity">Connectivity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
@@ -174,6 +178,22 @@ Safaricom's net income rose 35.9% to KES 58.2 billion in the six months to 30 Se
 
 </div>
 
+### Data Storage
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Cloud Data Center at the ICT Park (innovation ministry)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopia presses public institutions to consolidate infrastructure under national cloud strategy](https://techreviewafrica.com/news/8212/x)** — Tech Review Africa, 10 November 2026
+
+Ethiopia's Innovation and Technology Minister, Frehiwot Tamru, ordered faster completion of the National Cloud Data Center at the Addis Ababa ICT Park, Tech Review Africa reported on 10 November 2026. She repeated federal directives that public institutions move from their own server rooms onto shared national infrastructure. The centre is still under construction.
+
+</div>
+
+</div>
+
 ### Cybersecurity
 
 <div class="monthly-story" markdown="1">
@@ -200,6 +220,8 @@ CIPESA marks Global Encryption Day with a commentary on Global Partners Digital'
 <a href="#registries">Registries</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
 
 ### Digital Identity and CRVS
@@ -438,10 +460,28 @@ The Oromia Supreme Court and the Ethiopian Artificial Intelligence Institute rev
 
 </div>
 
+### Other GovTech and e-Gov
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ethiopian e-Services portal (eservices.gov.et)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopian Government Electronic Services](https://www.eservices.gov.et/en)** — Government of Ethiopia, eServices portal, 1 November 2026
+
+Single eServices portal for Ethiopia: one account, national ID login, online payment and downloadable certificates.
+
+</div>
+
+</div>
+
 ## Digitalisation
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Digitalisation">
 <a href="#digitalisation-of-sub-national-government">Digitalisation of sub-national government</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#rural-digital-data-capture">Rural digital data capture</a>
 </nav>
 
 ### Digitalisation of sub-national government
@@ -455,6 +495,22 @@ The Oromia Supreme Court and the Ethiopian Artificial Intelligence Institute rev
 **[Mekelle City Set to Join Ethiopia’s MESOB One-Stop Service Network as Preparations Advance](https://www.fanamc.com/english/mekelle-city-set-to-join-ethiopias-mesob-one-stop-service-network-as-preparations-advance/)** — Fana Media Corporation, 2 November 2026
 
 Ethiopia's MESOB chief executive said preparations have begun to open a one-stop service centre in Mekelle. There are 114 such centres nationally, which have served more than 2.7 million citizens. A head for the Mekelle centre has been appointed from 27 October 2026.
+
+</div>
+
+</div>
+
+### Rural digital data capture
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Farmer Profile Initiative</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopia targets four million farmers for digital registration by 2028](https://capitalethiopia.com/2026/11/08/ethiopia-targets-four-million-farmers-for-digital-registration-by-2028/)** — Capital Newspaper (Ethiopia), 8 November 2026
+
+Nearly 1m of 20m farmers enrolled via Fayda in 385 districts; consent-based data release to lenders.
 
 </div>
 
@@ -491,6 +547,28 @@ The October 2026 report rates more than 75 economies on 33 indicators of exposur
 **[Country Profile on AI Governance: Ethiopia](https://www.aipolicy.africa/country-profiles/ethiopia)** — AI Policy Lab (LawyersHub), Africa AI Governance Index 2026, 7 October 2026
 
 Ethiopia scored 2.12 out of 4 on the Africa AI Governance Index 2026, in the Developing tier and ranked 11 of 54 states, in a country profile version 1.2 dated 7 October 2026. Its strongest pillar is Strategy and Vision (3.70) and its weakest is Innovation and Ecosystem (1.00).
+
+</div>
+
+</div>
+
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#research-institutions">Research institutions</a>
+</nav>
+
+### Research institutions
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Medemer University of Artificial Intelligence</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopia Targets to Become Africa’s Leading AI Innovation Hub by 2030: EAII Director General](https://www.ena.et/web/eng/w/eng_9899270)** — Ethiopian News Agency (ENA), 9 November 2026
+
+AI Ventures Residency opens: 51 founders, 12 countries; Medemer AI University established; Japan c.US$1m a year.
 
 </div>
 
