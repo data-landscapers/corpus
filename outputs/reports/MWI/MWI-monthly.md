@@ -3,9 +3,9 @@ title: Malawi — News, Oct – Nov 2026
 compiled: 2026-11-10
 period: 2026-10-01 to 2026-11-10
 place: MWI
-ledger_rows: 24
+ledger_rows: 25
 not_held: 30
-record: 7ae9f535d4ee
+record: c2f6a1ed5139
 ---
 
 # News, Oct – Nov 2026
@@ -20,6 +20,8 @@ record: 7ae9f535d4ee
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
 </nav>
@@ -419,6 +421,28 @@ Malawi scored 1.14 out of 4 on the Africa AI Governance Index 2026, in the Emerg
 **[Payment hurdles ease for businesses](https://malawi24.com/2026/10/17/payment-hurdles-ease-for-businesses/)** — Malawi24, 17 October 2026
 
 The Reserve Bank of Malawi issued fintech PayChangu payment service provider licence PSP-003/26 on 30 September 2026 under the Payment Systems Act 2016. It allows the firm to aggregate mobile money, card and bank-transfer payments on one platform.
+
+</div>
+
+</div>
+
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#research-institutions">Research institutions</a>
+</nav>
+
+### Research institutions
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Research and education network memorandum with Uganda</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ubuntu in Action: MAREN and RENU Sign MoU to Advance Research and Education in Africa!](https://maren.ac.mw/ubuntu-in-action-maren-and-renu-sign-mou-to-advance-research-and-education-in-africa/)** — MAREN, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
+
+Malawi and Uganda research and education networks sign MoU at UbuntuNet-Connect 2026 in Lilongwe.
 
 </div>
 
