@@ -1,11 +1,11 @@
 ---
 title: Zambia — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: ZMB
-ledger_rows: 20
+ledger_rows: 23
 not_held: 32
-record: d6c87f0dfc6f
+record: 6e716612662b
 ---
 
 # News, Oct – Nov 2026
@@ -232,6 +232,20 @@ Zambia's finance minister said the national services portal has collected about 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic Farmer Input Support Programme (e-FISP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital Tools Transform Zambia’s Farm Inputs, But Gaps Remain](https://agritechinsights.com/index.php/2026/11/08/digital-tools-transform-zambias-farm-inputs-but-gaps-remain/)** — AgriTech Insights, 8 November 2026
+
+Chongwe District study: 81% timely fertiliser access, 78% saw better transparency; activation, ID and payment gaps.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -295,6 +309,20 @@ Summarised under [Digital Payments and Fintech](#digital-payments-and-fintech).
 **[How Zambia is building a digital climate advisory service its farmers can act on - TomorrowNow](https://tomorrownow.org/how-zambia-is-building-a-digital-climate-advisory-service-its-farmers-can-act-on/)** — TomorrowNow, 6 October 2026
 
 Zambia's meteorological department and Ministry of Agriculture began building a Digital Climate Advisory Service in late 2025 with TomorrowNow, sending farmers SMS advice tuned to four-by-four-kilometre squares. The department's director said it reached about 35,000 farmers last season in seven local languages and aims for one million next season, adding three crops and livestock.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Awareness of the national e-services portal (ZamPortal)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ZAMBIA STRIVES TO BRIDGE DIGITAL GAP - Zambia 24](https://zambia24.com/2026/11/09/zambia-strives-to-bridge-digital-gap/)** — Zambia 24, 9 November 2026
+
+Internet access 29.7% (2025) vs 25.2% (2022); 7.7% know ZamPortal; fifth survey since 2013, launched 9 Nov 2026.
 
 </div>
 
@@ -376,6 +404,8 @@ Zambia's Technology and Science Minister Felix Mutati set a target of 10 million
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
 <a href="#us-hyperscaler-activities">US / hyperscaler activities</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#china-activities">China activities</a>
 </nav>
 
 ### US / hyperscaler activities
@@ -427,6 +457,22 @@ Zambia and the United States signed a five-year health memorandum and a data sha
 **[Zambia and US Sign Five-Year Health MOU and Data Sharing Agreement — Open Zambia](https://www.openzambia.com/politics/2026/10/8/zambia-and-united-states-sign-usd-249-billion-health-partnership)** — Open Zambia, 8 October 2026
 
 Summarised under [US / hyperscaler activities](#us-hyperscaler-activities).
+
+</div>
+
+</div>
+
+### China activities
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Zambia-China digital cooperation talks</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ZAMBIA AND CHINA DEEPEN COOPERATION IN ARTIFICIAL INTELLIGENCE AND DIGITAL TECHNOLOGY](https://www.mots.gov.zm/?p=8085)** — Zambia Ministry of Technology and Science, 9 November 2026
+
+Lusaka seeks Huawei-backed AI data centre; Chinese-built centres storage-only; AI strategy near end of term.
 
 </div>
 
