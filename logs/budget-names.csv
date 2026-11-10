@@ -151,6 +151,7 @@ BWA,hosting,E-government agency,ict-ministry-egov,Government of Botswana portal,
 BWA,hosting,National data centre / Government cloud operator,,Botswana Fibre Networks (BoFiNet),no line,
 BWA,hosting,Cybersecurity agency / National CERT,cybersecurity,BW-CIRT,no line,
 BWA,hosting,Communications regulator,communications-regulator,Botswana Communications Regulatory Authority,line,bwa-2024-bocra
+BWA,deal-recipient,Public Sector,,"Ministry of Health, Botswana",line,bwa-2024-0500-0510-11116
 BWA,deal-recipient,Private Sector,,"Sub-Saharan Africa (XSS); recipient organisation not named, recipient unspecified",no line,
 BWA,deal-recipient,Private Sector,,"Botswana (BWA); recipient organisation not named, recipient unspecified",no line,
 CAF,hosting,Presidency,,Présidence de la République centrafricaine,no line,
@@ -957,6 +958,7 @@ MLI,hosting,E-government agency,ict-ministry-egov,Agence des technologies de l'i
 MLI,hosting,E-government agency,ict-ministry-egov,Portail gouvernemental du Mali,no line,
 MLI,hosting,Communications regulator,communications-regulator,Autorité malienne de régulation des télécommunications/TIC et des postes (AMRTP),line,mli-2024-amrtp
 MLI,hosting,Anti-corruption commission,,Office central de lutte contre l'enrichissement illicite (OCLEI),line,mli-2026-223-2.094-a01-1.3.1
+MLI,deal-recipient,Public Sector,,Ministère de la Justice et des Droits de l'Homme,line,mli-2024-220-1.009-12-1-2022-0058-001-000000
 MLI,deal-recipient,Private Sector,,Orange Mali S.A.,no line,
 MLI,deal-recipient,Private Sector,,Weather Impact,no line,
 MLI,deal-recipient,Public Sector,,"MLI; International Development Research Centre, named as transaction receiver",no line,
@@ -1244,6 +1246,7 @@ RWA,hosting,Cybersecurity agency / National CERT,cybersecurity,National Cyber Se
 RWA,hosting,Communications regulator,communications-regulator,Rwanda Utilities Regulatory Authority,no line,
 RWA,hosting,Audit office,,Office of the Auditor General of State Finances,no line,
 RWA,hosting,Anti-corruption commission,,Office of the Ombudsman,no line,
+RWA,deal-recipient,Unknown,,RWA; no transaction receiver named,no line,
 RWA,deal-recipient,Private Sector,,"RWA; CHARIS UNMANNED AERIAL SOLUTIONS LTD, named as transaction receiver",no line,
 RWA,deal-recipient,Unknown,,"RWA; Centre for the Fourth Industrial Revolution, named as transaction receiver",no line,
 RWA,deal-recipient,Multilateral,,"Rwanda (RWA); recipient organisation not named, recipient unspecified",no line,
@@ -1623,6 +1626,7 @@ UGA,hosting,Communications regulator,communications-regulator,Uganda Communicati
 UGA,hosting,Audit office,,Office of the Auditor General,no line,
 UGA,hosting,Anti-corruption commission,,Inspectorate of Government,line,uga-2026-103-16-02-001-000019
 UGA,deal-recipient,Multilateral,,"UGA; United Nations Development Programme, named as transaction receiver",no line,
+UGA,deal-recipient,Unknown,,UGA; no transaction receiver named,no line,
 UGA,deal-recipient,Public Sector,,Government of Uganda / Ministry of Health,line,uga-2024-014-12-02-002-320064
 UGA,deal-recipient,NGO,,Misean Cara,no line,
 UGA,deal-recipient,Multi-stakeholder,,"UGA; International Development Research Centre; Makerere University, named as transaction receiver",no line,
