@@ -1,11 +1,11 @@
 ---
 title: Mauritania — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: MRT
-ledger_rows: 12
+ledger_rows: 13
 not_held: 3
-record: 1370594603d9
+record: 1ebeb6a58fc2
 ---
 
 # News, Oct – Nov 2026
@@ -41,6 +41,20 @@ record: 1370594603d9
 **[ISO - ONANOR - Office National de la Normalisation et det la Métrologie](https://www.iso.org/member/576513.html)** — International Organization for Standardization, 16 October 2026
 
 ISO lists Mauritania's ONANOR as a correspondent member, participating in 5 technical committees and observing 10 as of October 2026. The page's description still names an older directorate under the mines and industry ministry.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National framework for public digital service standards</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[“Build Once, Use Across Government”: Mauritania’s GovStack Journey](https://govstack.global/news/build-once-use-across-government-mauritanias-govstack-journey/)** — GovStack, 9 November 2026
+
+GovStack reported on 9 November 2026 on two years of work with Mauritania, ITU, GIZ and the digital transformation ministry. In 2025 more than 30 officials from four ministries prototyped a company-registration service for the social security fund. In March 2026, 118 officials from 34 departments agreed a reference framework for shared architecture and service design.
 
 </div>
 
