@@ -1,11 +1,11 @@
 ---
 title: Madagascar — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: MDG
-ledger_rows: 24
+ledger_rows: 25
 not_held: 5
-record: f1e54fb05cf0
+record: ccf9bad553ec
 ---
 
 # News, Oct – Nov 2026
@@ -26,6 +26,8 @@ record: f1e54fb05cf0
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#data">Data</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#geopolitics">Geopolitics</a>
 </nav>
 
 ## Governance
@@ -463,6 +465,28 @@ Madagascar's economy and finance ministry plans to publish more budget informati
 **[Justice: 595 arrêts sélectionnés pour enrichir la jurisprudence](https://newsmada.com/2026/10/31/justice-595-arrets-selectionnes-pour-enrichir-la-jurisprudence/)** — Newsmada, 31 October 2026
 
 Madagascar's Court of Cassation selected 595 of its 3,104 rulings from 2019 to 2022 for its online case-law platform, on 29 October 2026. The work was supported by UNDP. The platform, jurisprudence.justice.gov.mg, has held 1,003 rulings since its launch on 30 May 2025.
+
+</div>
+
+</div>
+
+## Geopolitics
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Geopolitics">
+<a href="#us-hyperscaler-activities">US / hyperscaler activities</a>
+</nav>
+
+### US / hyperscaler activities
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Judicial cooperation agreement with the United States against cybercrime</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CYBERCRIMINALITÉ - Les États-Unis renforcent la coopération judiciaire](https://www.lexpress.mg/2026/11/cybercriminalite-les-etats-unis.html)** — L'Express de Madagascar, 9 November 2026
+
+Madagascar and the United States signed a judicial cooperation agreement against cybercrime on 6 November 2026 in Washington. Madagascar's justice minister signed with Jeanine Pirro, US prosecutor for the District of Columbia. Pirro heads the Scam Center Strike Force. A US Justice Department report credited FBI cooperation with dismantling 13 scam centres in Madagascar.
 
 </div>
 
