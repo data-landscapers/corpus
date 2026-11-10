@@ -173,11 +173,11 @@ Guinea launched a civil-status register in October 2026 to give each citizen a n
 
 ### Kenya: 2 Nascent
 
-A unique number at birth was provided for in 2026, through e-notification due by December; whether any child has received it is unknown.
+A unique number at birth was piloted in two counties by November 2026; whether children elsewhere receive it is not known.
 
+- Immigration PS Belio Kipsang told MPs the unique personal identifier from birth has been piloted via electronic birth notification in Nairobi City County and Bomet County and is due to be issued nationally through more than 7,500 public hospitals (Daily Nation) ([source, 2026-11-09](https://nation.africa/kenya/news/how-kenya-s-digital-birth-registration-system-will-work--5663174)).
 - PS Belio Kipsang said on 6 October 2026 that rolling out e-notification to SHA-contracted hospitals by December 2026 would enable children to receive a Unique Personal Identifier (UPI), intended as a common identifier across government systems ([source, 2026-10-06](https://www.kenyans.co.ke/news/127644-state-expand-digital-birth-registration-sha-hospitals-within-3-months)).
 - PS Belio Kipsang said all children will be issued a Unique Personal Identifier (Maisha Number) at birth, kept for life and becoming the national ID card number at 18, through an e-notification system that is built and to be rolled out soon ([source, 2026-05-18](https://nation.africa/kenya/news/inside-new-reforms-to-curb-birth-certificate-fraud-5463104)).
-- Kenya's Civil Registration Services list as next step the adoption of a Unique Personal Identifier, a lifelong identifier assigned at birth ([source, 2026-07-18](https://apai-crvs.uneca.org/sites/default/files/resourceuploads/day-2-interoperability-kenya.pdf)).
 
 ### Liberia: 2 Nascent
 
