@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-21-wb-tcd-pfsap-usr-ews-2024",
+ "facts": [
+  {
+   "sub_indicator": "social",
+   "aspect": "registry",
+   "value": "underway",
+   "fact": "The World Bank's June 2024 appraisal for Chad's P502142 project funds US$19.5 million to strengthen the Unified Social Registry, whose deployment and extension continue by selected provinces.",
+   "as_of": "2024-06-21",
+   "date_precision": "day",
+   "system": "Unified Social Registry (USR)",
+   "class": "social"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified Social Registry (USR)",
+   "country_label": "Chad",
+   "class": "social",
+   "platform": "",
+   "owner": "Ministere de l'Action Sociale, de la Solidarite Nationale et des Affaires Humanitaires",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
