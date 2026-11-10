@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-22-som-somalia-information-communication-and-technology-ict",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The U.S. International Trade Administration guide says mobile money is widespread in Somalia, at an estimated 73 percent market penetration, with three licensed mobile payment providers linked to the biggest mobile operators.",
+   "as_of": "2024-01-22",
+   "date_precision": "day",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

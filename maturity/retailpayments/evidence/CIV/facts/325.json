@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-09-sen-wave-precise-l-acces-a-pi-spi-au-senegal-et-en-cote-d-ivoire",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "BiFinances reports Wave announced on 6 November 2026 that all its customers in Cote d'Ivoire can send and receive through PI-SPI, the BCEAO platform for exchanges between financial institutions, with sends free to 8,000 FCFA a day and 0.8% above.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

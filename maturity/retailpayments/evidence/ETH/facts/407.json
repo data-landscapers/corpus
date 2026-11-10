@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-09-eth-techafricanews-gdp-rebase-digital-financial-services",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "Tech Africa News, citing Ethio Telecom's performance report, says Telebirr, launched in 2021, had 60.6 million registered users and processed 2.61 billion transactions worth 4.19 trillion birr in 2025/26.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "Telebirr",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Telebirr",
+   "country_label": "Telebirr",
+   "class": "retail",
+   "platform": "mobile money",
+   "owner": "Ethio Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
