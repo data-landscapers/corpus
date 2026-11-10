@@ -3,9 +3,9 @@ title: Algeria — News, Oct – Nov 2026
 compiled: 2026-11-10
 period: 2026-10-01 to 2026-11-10
 place: DZA
-ledger_rows: 32
+ledger_rows: 34
 not_held: 5
-record: 3b244b901fdd
+record: d9b28328eb3d
 ---
 
 # News, Oct – Nov 2026
@@ -20,6 +20,8 @@ record: 3b244b901fdd
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
 </nav>
 
 ## Governance
@@ -219,6 +221,20 @@ Algeria's health ministry said on 28 October 2026 that more than 2,355 health fa
 **[Akbou Inaugurates Nation’s First 100% Sovereign Data Center](https://dzwatch.dz/akbou-inaugurates-nations-first-100-sovereign-data-center/)** — DZWatch, 4 October 2026
 
 Algeria inaugurated I-Cloud, described as its first wholly sovereign data centre, in the Akbou industrial zone in Bejaia. The knowledge economy minister presided, and agreements were signed with local industrialists and Algeria Venture on small firms' access to it; the inauguration date and capacity are not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI data centre project at the national AI school with a Chinese delegation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Minister of Higher Education and Scientific Research discusses with Chinese delegation the project to establish an artificial intelligence data centre at the National Higher School of Artificial Intelligence](https://www.mesrs.dz/en/2026/11/minister-of-higher-education-and-scientific-research-discusses-with-chinese-delegation-the-project-to-establish-an-artificial-intelligence-data-centre-at-the-national-higher-school-of-artificial-intel/)** — Ministry of Higher Education and Scientific Research (Algeria), 9 November 2026
+
+Chinese delegation at ENSIA, Sidi Abdellah; equipment, timeline, regulatory talks; no firm, cost or date named.
 
 </div>
 
@@ -577,6 +593,28 @@ At the sixth follow-up meeting on Algeria's national AI strategy, the higher edu
 **[Algeria reaches preliminary partnership agreement with Roblox to train video game developers](https://techreviewafrica.com/news/7752/algeria-reaches-preliminary-partnership-agreement-with-roblox-to-train-video-game-developers)** — Tech Review Africa, 16 October 2026
 
 Algeria has reached a preliminary agreement with Roblox on a programme to train Algerian video game developers, announced by Sid Ali Zerrouki. It comes with child-protection conditions: wider parental controls, fast-track reporting channels, and the platform's chat feature kept switched off in Algeria until safeguards are judged sufficient.
+
+</div>
+
+</div>
+
+## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#national-statistics">National statistics</a>
+</nav>
+
+### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ministries' statistics on the High Commission for Digitalisation platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Full Text of the Council of Ministers Meeting Statement](http://news.radioalgerie.dz/en/node/98524)** — Algerian Radio, 8 November 2026
+
+Ministries' statistics into the High Commission for Digitization platform; agriculture statistics department ordered.
 
 </div>
 
