@@ -1,0 +1,46 @@
+{
+ "slug": "2026-05-18-cpv-cabo-verde-em-destaque-na-id4africa-2026-sniac-apresentado-como-motor",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "IMIJ says SNIAC links more than 50 public and private services, with banking foremost.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "SNIAC",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "IMIJ says SNIAC supports the Justice, Consular and National portals and connects public and private services, banks especially.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "SNIAC",
+   "class": "relying"
+  },
+  {
+   "sub_indicator": "use",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "IMIJ reports more than 30 million data requests recorded on SNIAC and over 50 connected services.",
+   "as_of": "2026-05-18",
+   "date_precision": "day",
+   "system": "SNIAC",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SNIAC (Sistema Nacional de Identificação e Autenticação Civil)",
+   "country_label": "Cabo Verde",
+   "class": "relying",
+   "platform": "",
+   "owner": "IMIJ",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

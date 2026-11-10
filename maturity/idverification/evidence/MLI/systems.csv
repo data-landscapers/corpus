@@ -17,3 +17,5 @@ MLI,NINA,Mali,other,,,,2025-07-29-mli-identification-des-abonnes-telephoniques-l
 MLI,NINA-based SIM identification,Mali,relying,,Telecom operators; regulator AMRTP,,2025-08-04-mli-usurpation-des-donnees-nina-sur-les-cartes-sim-le-ministere-des-tics-l
 MLI,NINA,Mali,other,,,,2024-11-07-mli-identification-des-puces-de-telephones-jusqu-au-15-decembre-un-dilemme
 MLI,SIM identification by NINA,Mali,relying,mobile operators,AMRTP,,2024-08-02-mli-mali-l-amrtp-edifie-les-consommateurs-sur-l-importance-de-l-identifica
+MLI,SIM identification by NINA number,Mali,relying,operator SIM registration,AMRTP / Orange Mali,,2025-08-02-mli-identification-des-puces-orange-mali-stupefaction-et-coleres
+MLI,Mali Kura Biometrie,Mali,other,,Government of Mali,,2024-02-14-mali-kura-biometrie-systeme-souverain-ravec

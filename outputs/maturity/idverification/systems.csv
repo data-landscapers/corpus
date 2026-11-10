@@ -136,6 +136,8 @@ CPV,Citizen and company data validation APIs,Cabo Verde,relying,PDEX,,,2026-01-0
 CPV,Portal de Justiça,Cabo Verde,relying,"justice and registry services portal, linked to SIJ",Ministry of Justice,,2024-12-19-cpv-lancamento-oficial-do-portal-de-justica
 CPV,Autentika,Cabo Verde,other,state single sign-on,State of Cabo Verde,,2024-12-19-cpv-lancamento-oficial-do-portal-de-justica
 CPV,Portal de Serviços Públicos Digitais Integrados do Estado,Cabo Verde,other,"single national services portal, in advanced development",State of Cabo Verde,,2024-12-19-cpv-lancamento-oficial-do-portal-de-justica
+CPV,SNIAC (Sistema Nacional de Identificação e Autenticação Civil),Cabo Verde,relying,,IMIJ,,2026-05-18-cpv-cabo-verde-em-destaque-na-id4africa-2026-sniac-apresentado-como-motor
+CPV,SNIAC middleware (CNI),Cabo Verde,relying,,SNIAC,,2026-03-17-cabo-verde-sniac-middleware-cni-versao-1-9-9
 DJI,carte nationale d'identité biométrique,Djibouti,other,,Direction générale de la Population et de la Famille,,2026-07-23-lanation-dgpf-administration-modernisee-interconnectee
 DJI,ID Mobile,Djibouti,other,,Direction générale de la Population et de la Famille,,2026-07-23-lanation-dgpf-administration-modernisee-interconnectee
 DJI,système d'interopérabilité (DGPF),Djibouti,relying,,Direction générale de la Population et de la Famille,"public administrations, banks, social protection bodies",2026-07-23-lanation-dgpf-administration-modernisee-interconnectee
@@ -312,6 +314,7 @@ LBR,SIM registration (LTA regulations),Liberia,relying,NIR platform,Liberia Tele
 LBR,National Biometric Identification System (NBIS),Liberia,other,,National Identification Registry (NIR),,2025-04-30-no-national-id-no-transaction-eo147-observer
 LBR,Liberia Integrated Tax Administration (LITAS),Liberia,other,,Liberia Revenue Authority,,2024-06-30-lra-2023-annual-report
 LBR,NIDCRVS,Liberia,other,,National Identification Registry,,2026-10-19-lbr-biometricupdate-mps-scrutinize-nidcrvs-concession
+LBR,NIR e-verification portal,Liberia,relying,e-verification portal,National Identification Registry,,2025-06-24-lbr-liberian-banks-no-longer-require-national-id-card-says-cbl-and-nir
 LBY,Banking eKYC integration with the Digital Identity Management System for Citizens,Libya,relying,,Central Bank of Libya and participating banks,Level 3 biometric,2026-04-19-gia-cbl-level-3-biometric-digital-identity-ekyc
 LBY,National Digital Identity System (LY-DNID),Libya,other,LY-NDEX,General Information Authority,Level 1 G2G; Level 2 pilot,2025-11-20-gia-ly-dnid-second-level-trial-phases
 LBY,Libyan Digital National Identity (LY-DNID),Libya,other,,General Information Authority,,2026-07-09-gia-ly-ndex-ly-dnid-aml-information-exchange-workshop
@@ -368,6 +371,8 @@ MLI,NINA,Mali,other,,,,2025-07-29-mli-identification-des-abonnes-telephoniques-l
 MLI,NINA-based SIM identification,Mali,relying,,Telecom operators; regulator AMRTP,,2025-08-04-mli-usurpation-des-donnees-nina-sur-les-cartes-sim-le-ministere-des-tics-l
 MLI,NINA,Mali,other,,,,2024-11-07-mli-identification-des-puces-de-telephones-jusqu-au-15-decembre-un-dilemme
 MLI,SIM identification by NINA,Mali,relying,mobile operators,AMRTP,,2024-08-02-mli-mali-l-amrtp-edifie-les-consommateurs-sur-l-importance-de-l-identifica
+MLI,SIM identification by NINA number,Mali,relying,operator SIM registration,AMRTP / Orange Mali,,2025-08-02-mli-identification-des-puces-orange-mali-stupefaction-et-coleres
+MLI,Mali Kura Biometrie,Mali,other,,Government of Mali,,2024-02-14-mali-kura-biometrie-systeme-souverain-ravec
 MOZ,PortalGuard / PIN:You biometric IAM at SIMO (SIMOrede),Mozambique,other,"BIO-key PortalGuard, PIN:You, SSO",Sociedade Interbancaria de Mocambique (SIMO),,2026-02-24 BIO-key and RunLevel Deploy Biometric IAM Across Mozambique's National Payments Network
 MRT,Houwiyeti,Mauritania,other,mobile app,ANRPTS,,2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty
 MRT,Khadamati,Mauritania,relying,app,,,2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty
@@ -467,6 +472,7 @@ MWI,National Registry (National IDs),Malawi,other,,National Registration Bureau,
 MWI,Unified Beneficiary Registry,Malawi,other,,,,2025-02-01-mwi-cuci-impact-evaluation-report
 MWI,National Registration Bureau verification service,Malawi,relying,,National Registration Bureau,banks,2024-07-20-mwi-making-national-id-work-beyond-voter-registration
 MWI,National biometric SIM card registration,Malawi,relying,,MACRA,,2026-01-19-mwi-malawi-moves-to-curb-mobile-fraud
+MWI,Nzika digital ID wallet,Malawi,other,digital wallet,National Registration Bureau,,2026-09-18-malawi-drops-id-card-expiry-date-policy-as-digital-wallet-launches
 NAM,Electronic identity (E-ID) card,Namibia,other,,"Ministry of Home Affairs, Immigration, Safety and Security; Office of the Prime Minister",,2026-07-25-namibia-electronic-id-rollout-september-2026
 NAM,Social grants identity verification,Namibia,relying,,,,2026-07-25-namibia-electronic-id-rollout-september-2026
 NAM,Electronic signature and certification service regime,Namibia,other,,Ministry of Information and Communication Technology,,2025-12-19-namibia-electronic-signature-regulations-gazette-8814
@@ -661,6 +667,8 @@ SWZ,Ministry of Home Affairs civil-registration system,Eswatini,other,,Ministry 
 SWZ,National ID card production system (Ministry of Home Affairs),Eswatini,other,,Ministry of Home Affairs,,2026-02-23-id-card-services-resume
 SWZ,digital verification of identification via the national database centre,Eswatini,relying,national civil registry check,Eswatini Royal Science Technology Park,,2025-03-11-swz-felicia-dlamini-kunene-the-nexus-between-aml-cft-and-financial-inclusi
 SWZ,National database centre ID verification,Eswatini,relying,,Eswatini Royal Science Technology Park,,2025-02-26-swz-deputy-governor-s-speech-the-nexus-between-aml-cft-and-financial-inclu
+SWZ,Government In Your Hand app,Eswatini,relying,,Ministry of ICT,,2025-05-21-eswatini-launches-new-apps-giyh-taxpal
+SWZ,Elderly Grants,Eswatini,relying,,Social Welfare Department,,2025-01-01-social-welfare-department
 SYC,SeyID,Seychelles,other,,Department of ICT with the Department of Immigration and Civil Status and the Seychelles Licensing Authority,,2024-01-01-seyid-seychelles-digital-identity-platform
 SYC,SeyID-gated government e-services,Seychelles,relying,,,,2024-01-01-seyid-seychelles-digital-identity-platform
 SYC,Digital Driving License,Seychelles,relying,SeyID ID-Wallet,Seychelles Licensing Authority,,2024-01-01-seyid-seychelles-digital-identity-platform

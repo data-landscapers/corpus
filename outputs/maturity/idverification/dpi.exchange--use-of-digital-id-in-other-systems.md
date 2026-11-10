@@ -20,9 +20,9 @@ The African Union's interoperability framework and the AfCFTA Digital Trade Prot
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 11 |
+| 5 Leading | 12 |
 | 4 Operating | 8 |
-| 3 Established | 13 |
+| 3 Established | 12 |
 | 2 Nascent | 10 |
 | 1 Absent | 0 |
 | Unplaced | 4 |
@@ -37,6 +37,15 @@ Use of the national ID by other services was reported with figures in 2025.
 - ANIP Bénin's presentation reports 27 million identity verification requests in 2025 ([source, 2025](https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf)).
 - ANIP Bénin's presentation lists health, education, social protection, telecoms, banks and tax among the user systems on the RNPP interoperability platform, and says SIM cards, health insurance and social benefits need a legal identity ([source, 2026-05](https://id4africa.com/2026/files/T4-1-S2-3-Benin-FINAL.pdf)).
 - ANIP reports 25 million digital eKYC verifications completed in 2025 and 3.8 million authentications by telecom operators ([source, 2025](https://www.biometricupdate.com/202602/benin-reports-75-of-identification-services-accessed-through-digital-platforms)).
+
+### Cape Verde: 5 Leading
+
+Over 50 public and private services, banks foremost, checked people against the national ID by 2026, with over 30 million data requests logged.
+
+- The Government of Cabo Verde says the Portal de Justiça, launched on 18 December 2024, is integrated with the state's Autentika platform and supports several user authentication methods for services including certificates and online renewal of the CNI ([source, 2024-12-18](https://www.governo.cv/primeiro-ministro-preside-acto-de-lancamento-oficial-do-portal-de-justica/)).
+- IMIJ says SNIAC links more than 50 public and private services, with banking foremost ([source, 2026-05-18](https://imij.gov.cv/noticias/cms-noticia-44)).
+- IMIJ says SNIAC supports the Justice, Consular and National portals and connects public and private services, banks especially ([source, 2026-05-18](https://imij.gov.cv/noticias/cms-noticia-44)).
+- IMIJ reports more than 30 million data requests recorded on SNIAC and over 50 connected services ([source, 2026-05-18](https://imij.gov.cv/noticias/cms-noticia-44)).
 
 ### Ethiopia: 5 Leading
 
@@ -190,13 +199,6 @@ A service checked people against the national ID in 2026; no source found report
 
 - Business Tech Africa reports that the Bankers' Association of Botswana has launched a national eKYC project that lets banks verify customer identities against the national citizen database; the article gives no launch date ([source, 2026-09](https://www.businesstechafrica.co.za/article/botswana-launches-national-ekyc-project-to-make-bank-verification-easier)).
 - Bank Gaborone's Self-Onboarding platform verifies new customers' identity against their Omang and a biometric selfie as part of automated KYC, per Weekend Post ([source, 2026-07-30](https://weekendpost.co.bw/bank-gaborone-launches-digital-self-onboarding-platform-making-banking-simpler-and-more-accessible/)).
-
-### Cape Verde: 3 Established
-
-A service checked people against the national ID in 2024; no source found reports use in a second sector.
-
-- The Government of Cabo Verde says the Portal de Justiça, launched on 18 December 2024, is integrated with the state's Autentika platform and supports several user authentication methods for services including certificates and online renewal of the CNI ([source, 2024-12-18](https://www.governo.cv/primeiro-ministro-preside-acto-de-lancamento-oficial-do-portal-de-justica/)).
-- The Autentika page says a citizen may authenticate with the CNI at any Cabo Verdean public administration portal that has joined Autentika, and that any duly authorised application may integrate by OpenID Connect; no date is given, so as_of is the published year (proxy) ([source, 2026](https://portal-autentika.gov.cv/)).
 
 ### Cote d'Ivoire: 3 Established
 

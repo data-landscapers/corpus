@@ -6,3 +6,5 @@ GHA,005,usage,reported,removed,"First pass: SIMs linked to the card with biometr
 ZAF,015,usage,reported,removed,"First pass: bank branches offering Home Affairs services are not a figure for verifications"
 EGY,015,use,inservice,revalued: underway,"the managing director says the first phase with 5 banks will start, so the service is under way, not in use"
 EGY,016,usage,reported,removed,"five banks named for a first phase not yet begun are a target, not a count of services relying on the ID"
+SWZ,005,use,inservice,removed,"users register in the Government In Your Hand app with their national ID; a check against the register is not stated"
+SWZ,006,use,inservice,removed,"the elderly grant requires the ID card to be shown; a check against the register is not stated"

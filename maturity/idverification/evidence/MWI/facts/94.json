@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-18-malawi-drops-id-card-expiry-date-policy-as-digital-wallet-launches",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Nzika digital ID wallet",
+   "country_label": "Malawi",
+   "class": "other",
+   "platform": "digital wallet",
+   "owner": "National Registration Bureau",
+   "tiers": ""
+  }
+ ],
+ "note": "The Nzika wallet is the ID system's own credential, not another system checking people against the ID."
+}

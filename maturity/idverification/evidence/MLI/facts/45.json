@@ -1,0 +1,26 @@
+{
+ "slug": "2025-08-02-mli-identification-des-puces-orange-mali-stupefaction-et-coleres",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Mali Tribune reports that in November 2024 the telecoms regulator AMRTP launched a national campaign to identify all mobile subscribers through their NINA number, and that Orange Mali SIMs were being registered using biometric data from the NINA card, with a 29 July 2025 APDP communique confirming complaints.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "SIM identification by NINA number",
+   "class": "relying"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SIM identification by NINA number",
+   "country_label": "Mali",
+   "class": "relying",
+   "platform": "operator SIM registration",
+   "owner": "AMRTP / Orange Mali",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

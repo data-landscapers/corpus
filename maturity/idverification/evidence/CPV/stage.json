@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "use",
-      "stage": "3",
+      "stage": "5",
       "use": "inservice",
-      "sectors": "",
-      "usage": "",
+      "sectors": "several",
+      "usage": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "CPV-004;CPV-001",
-      "gaps": "No source found since October 2023 shows services in two or more sectors checking against the ID.",
-      "note": "Public administration portals, the Portal de Justiça of December 2024 among them, authenticate citizens with the CNI through Autentika. Only public administration is shown, so not 4.",
-      "as_at": "2026-11-08"
+      "stage_sources": "CPV-004;CPV-005;CPV-006;CPV-007",
+      "gaps": "",
+      "note": "IMIJ said in May 2026 that SNIAC links more than 50 public and private services, banks foremost, beside the Justice, Consular and National portals, and has logged over 30 million data requests (CPV-005 to CPV-007). Two sectors and a count of use, so 5.",
+      "as_at": "2026-11-10"
     }
   ]
 }

@@ -70,3 +70,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,ZMB,dpi.exchange--use-of-digital-id-in-other-systems,fact,3,4,ZMB-008;ZMB-001,"Bank of Zambia said May 2026 that banks pay Home Affairs per API check, a second sector beside the farm e-voucher"
 2026-11-09,EGY,dpi.exchange--use-of-digital-id-in-other-systems,fact,4,4,EGY-005;EGY-008;EGY-013,"Haweya's bank verification starts with five banks in a first phase not yet begun; no count of checks, stage holds"
 2026-11-09,TCD,dpi.exchange--use-of-digital-id-in-other-systems,fact,2,2,TCD-001,"ARCEP's May 2025 audit counts subscribers registered with an NNI, a number recorded, not a check; stage holds"
+2026-11-10,CPV,dpi.exchange--use-of-digital-id-in-other-systems,fact,3,5,CPV-004;CPV-005;CPV-006;CPV-007,"IMIJ, May 2026: SNIAC links 50+ public and private services, banks foremost, 30m+ data requests; two sectors and a count, 3 to 5"
