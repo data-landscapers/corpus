@@ -1,12 +1,12 @@
 ---
 title: Gabon: status report
-compiled: 2026-11-09
+compiled: 2026-11-10
 place: GAB
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 231
+sources_cited: 232
 sections_written: 39
 not_established: 0
 acquire_lines: 35
@@ -380,7 +380,7 @@ The World Bank is by some distance Gabon's principal digital financier of record
 ### China activities
 <!-- geopol.china -->
 
-[On 4 November 2026 at Shanghai the government signed three memoranda and a donation agreement with Huawei, on public-security technology, university teaching platforms and AI teaching equipment](https://agpgabon.ga/gabon-technologie-trois-protocoles-daccord-signes-avec-huawei-a-shanghai/). [ST DIGITAL Gabon and Huawei agreed there to set up a national talent training centre](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-taps-huawei-st-digital-to-build-digital-skills-training-centre). [On 14 July 2026 Gabon signed a skills accord with Huawei](https://www.wearetech.africa/fr/fils/actualites/tech/le-gabon-mobilise-la-garantie-publique-et-huawei-pour-soutenir-les-start-up-numeriques). [It follows a broader digital-transformation memorandum with the company, signed in December 2025](https://techafricanews.com/2026/01/05/gabon-and-huawei-forge-partnership-to-boost-national-digital-transformation/). [On a ministerial mission to Huawei's sites in June 2025, Gabon had opened an exploration of a strengthened technology partnership](https://www.gabonreview.com/numerique-le-gabon-explore-un-partenariat-technologique-renforce-avec-huawei/). [A 2024 memorandum with the company covered a smart-cities project and other digital services, with a large headline spending pledge](https://www.biometricupdate.com/202409/gabon-puts-digital-id-at-forefront-of-its-digital-transformation-journey). [In October 2026 the civil service minister asked China's ambassador for expertise in digitalising the public service and training its staff](https://fonction-publique.gouv.ga/2-actualites/3438-cooperation-gabonchine-modernisation-de-la-fonction-publique-et-le-renforcement-des-capacites/). [The ambassador offered to examine support](https://fonction-publique.gouv.ga/2-actualites/3438-cooperation-gabonchine-modernisation-de-la-fonction-publique-et-le-renforcement-des-capacites/).
+[On 4 November 2026 at Shanghai the government signed three memoranda and a donation agreement with Huawei, on public-security technology, university teaching platforms and AI teaching equipment](https://agpgabon.ga/gabon-technologie-trois-protocoles-daccord-signes-avec-huawei-a-shanghai/). [The security accord covers smart surveillance in the main towns, border-zone protection systems and the interconnection of security infrastructure](https://gaboninfos.com/gabon-huawei-etat-concluent-trois-accords-accelerer-transformation-numerique-pays/). [ST DIGITAL Gabon and Huawei agreed there to set up a national talent training centre](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-taps-huawei-st-digital-to-build-digital-skills-training-centre). [On 14 July 2026 Gabon signed a skills accord with Huawei](https://www.wearetech.africa/fr/fils/actualites/tech/le-gabon-mobilise-la-garantie-publique-et-huawei-pour-soutenir-les-start-up-numeriques). [It follows a broader digital-transformation memorandum with the company, signed in December 2025](https://techafricanews.com/2026/01/05/gabon-and-huawei-forge-partnership-to-boost-national-digital-transformation/). [On a ministerial mission to Huawei's sites in June 2025, Gabon had opened an exploration of a strengthened technology partnership](https://www.gabonreview.com/numerique-le-gabon-explore-un-partenariat-technologique-renforce-avec-huawei/). [A 2024 memorandum with the company covered a smart-cities project and other digital services, with a large headline spending pledge](https://www.biometricupdate.com/202409/gabon-puts-digital-id-at-forefront-of-its-digital-transformation-journey). [In October 2026 the civil service minister asked China's ambassador for expertise in digitalising the public service and training its staff](https://fonction-publique.gouv.ga/2-actualites/3438-cooperation-gabonchine-modernisation-de-la-fonction-publique-et-le-renforcement-des-capacites/). [The ambassador offered to examine support](https://fonction-publique.gouv.ga/2-actualites/3438-cooperation-gabonchine-modernisation-de-la-fonction-publique-et-le-renforcement-des-capacites/).
 
 <!-- derived -->
 Everything Chinese on Gabon's record is a memorandum rather than a financing agreement, including the largest single figure in the whole picture, which is a pledge (August 2026).
