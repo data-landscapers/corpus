@@ -1,14 +1,14 @@
 ---
 title: Madagascar: status report
-compiled: 2026-11-09
+compiled: 2026-11-10
 place: MDG
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-09-02
 intersections_read: 25
-sources_cited: 266
+sources_cited: 267
 sections_written: 39
-not_established: 2
+not_established: 1
 acquire_lines: 25
 ---
 ## Governance
@@ -438,7 +438,7 @@ Across the 23 categories the 2024 open data inventory scores, Madagascar average
 ### US / hyperscaler activities
 <!-- geopol.usa -->
 
-No United States government digital programme or agreement with Madagascar had been found as at September 2026. No hyperscaler investment had been found either.
+[On 6 November 2026 Madagascar's justice minister and a US federal prosecutor signed a judicial cooperation agreement against cybercrime in Washington](https://www.lexpress.mg/2026/11/cybercriminalite-les-etats-unis.html). [A US Justice Department report credited cooperation with the FBI for dismantling 13 scam centres in Madagascar](https://www.lexpress.mg/2026/11/cybercriminalite-les-etats-unis.html). No hyperscaler investment in Madagascar had been found as at November 2026.
 
 ### China activities
 <!-- geopol.china -->
