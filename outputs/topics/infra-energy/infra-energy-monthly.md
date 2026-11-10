@@ -1,21 +1,39 @@
 ---
 title: Energy — News, October – November 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 subject: infra.energy
-places: CMR; COG; TZA
-record: d9a09b3d1c2a
+places: BDI; CMR; COG; TZA
+record: 116255a61c6c
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#burundi">Burundi</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cameroon">Cameroon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#congo">Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
 </nav>
+
+## Burundi
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Powering of mobile base stations</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Econet Burundi Invests $6.5 Million in Solar-Powered Telecom Network](https://techafricanews.com/2026/11/09/econet-burundi-invests-6-5-million-in-solar-powered-telecom-network/)** — Tech Africa News, 9 November 2026
+
+Econet Wireless Burundi broke ground in Bujumbura on 5 November 2026 on solar power for its network. The USD 2.5 million first phase of a USD 6.5 million programme covers about a third of its sites by July 2027. GEFI Solutions SEZ arranged the financing under a CRDB Bank guarantee. The company targets renewable power across the network by December 2028.
+
+</div>
+
+</div>
 
 ## Cameroon
 

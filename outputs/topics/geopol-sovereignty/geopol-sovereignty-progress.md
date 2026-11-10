@@ -1,10 +1,10 @@
 ---
 title: Digital sovereignty — progress report, November 2025 – November 2026
-compiled: 2026-11-09
-period: 2025-11-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2025-11-01 to 2026-11-10
 subject: geopol.sovereignty
 places: DZA; ERI; MUS; NAM; NGA; SLE; ZWE
-record: 5e16e71a906f
+record: 8f3c21b4fa86
 ---
 
 # Digital sovereignty: progress report, November 2025 – November 2026

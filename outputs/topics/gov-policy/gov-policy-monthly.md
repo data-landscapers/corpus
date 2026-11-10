@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 subject: gov.policy
 places: AGO; BEN; CMR; CAF; TCD; COM; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LBY; MDG; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; TGO; TUN; UGA; ZMB; ZWE
-record: 590029926a36
+record: 052b0a08cc2c
 ---
 
 # News, Oct – Nov 2026
@@ -276,6 +276,28 @@ Egypt's communications minister, Raafat Hendy, met the regulator NTRA's reconsti
 **[Egypt Forum 2026 outlines sweeping development agenda to raise living standards, boost growth](https://www.egypttoday.com/Article/1/150233/Egypt-Forum-2026-outlines-sweeping-development-agenda-to-raise-living)** — EgyptToday, 24 October 2026
 
 Prime Minister Mostafa Madbouly announced the closing recommendations of Egypt Forum 2026, issued as presidential directives with targets running to 2030, covering wages, housing, health, education and industry. On digital government they aim to digitise all public services within three years and to double the Digital Egypt platform's 250 services to 500 by the close of 2026, and basic fixed-internet packages are to go from 50 GB to 100 GB.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National data-centre strategy</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزراء الاتصالات والاستثمار والمالية والري يعرضون خططًا حكومية للتحول الرقمي والذكاء الاصطناعي](https://www.youm7.com/story/2026/11/7/وزراء-الاتصالات-والاستثمار-والمالية-والري-يعرضون-خططًا-حكومية-للتحول-الرقمي/7609762)** — Youm7, 7 November 2026
+
+Youm7 reported on 7 November 2026 from the opening session of Cairo ICT 2026. The ICT minister, Raafat Hindy, said the ministry is working with the electricity ministry to supply up to 1 GW of power at designated data-centre sites. Several ministers set out their digital transformation and artificial intelligence plans at the session.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[وزير الاتصالات: نمو القطاع 24.5% و12 مليار دولار مستهدف الصادرات الرقمية.. رأفت هندى: نستهدف رفع مساهمة القطاع لـ 8% من الناتج المحلى بحلول 2030.. وإنتاج 12 مليون هاتف محمول خلال 2026.. 400 خدمة حكومية مستهدفة](https://www.youm7.com/story/2026/11/7/وزير-الاتصالات-نمو-القطاع-24-5-و12-مليار-دولار-مستهدف/7608559)** — Youm7, 7 November 2026
+
+Youm7 published an interview on 7 November 2026 with Egypt's ICT minister, Raafat Hindy. The minister said the sector grew 24.5 per cent and aims for 8 per cent of GDP by 2030. The minister also described a plan for seven hyperscale data centres and a target of 400 national e-services.
 
 </div>
 
@@ -723,7 +745,7 @@ Senegal's telecoms and digital ministry aims to restructure the postal sector by
 
 <div class="monthly-story" markdown="1">
 
-<p class="monthly-story__name">Digital governance committee (GouvNum)</p>
+<p class="monthly-story__name">Digital governance steering committee (GouvNum)</p>
 
 <div class="bulletin-item" markdown="1">
 
@@ -732,12 +754,6 @@ Senegal's telecoms and digital ministry aims to restructure the postal sector by
 In an open note to Senegal's prime minister, economist Seydou Bocoum argues that the new digital governance committee (GouvNum) cannot deliver digital identity and e-government until five prerequisites are met: practical access to information under law 2025-15, reliable networks, a working national addressing system, a social data tariff and visible sanctions by the regulator ARTP. He cites ARTP tests in Popenguine in June 2025 where call and data success rates fell well below regulatory thresholds, and proposes a 30-day stocktake followed by an interministerial action plan within 60 to 90 days.
 
 </div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Digital governance steering committee</p>
 
 <div class="bulletin-item" markdown="1">
 

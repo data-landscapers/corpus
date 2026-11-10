@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, October – November 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 subject: gov.regional
-places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; EGY; GNQ; SWZ; GAB; GHA; LSO; LBR; MLI; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; TZA; TGO; UGA; ZMB; ZWE
-record: 98428720166a
+places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; EGY; GNQ; SWZ; GAB; GHA; LSO; LBR; MLI; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; ZAF; TZA; TGO; UGA; ZMB; ZWE
+record: 0af9a771a5e5
 ---
 
 # News, Oct – Nov 2026
@@ -57,6 +57,8 @@ record: 98428720166a
 <a href="#sao-tome-and-principe">Sao Tome and Principe</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#senegal">Senegal</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -643,6 +645,20 @@ The Alliance of Sahel States adopted the digital deliverables of its Confederati
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sahel confederation frequency coordination agreement</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[AES-fréquences militaires : Des experts de la Confédération en conclave à Bamako](https://www.maliweb.net/economie/developpement/aes-frequences-militaires-des-experts-de-la-confederation-en-conclave-3121278.html)** — Maliweb, 8 November 2026
+
+Maliweb reported on 8 November 2026 that Bamako hosted the second coordination meeting on military frequencies at the borders of the Alliance of Sahel States, to 4 November. Mali's telecoms regulator AMRTP organised it, with delegations from Burkina Faso and Niger. Mali's deputy defence minister, General Oumar Diarra, chaired the opening.
+
+</div>
+
+</div>
+
 ## Mauritius
 
 <div class="monthly-story" markdown="1">
@@ -846,6 +862,22 @@ A second account of the ARTAC closing session, adding that São Tomé and Prínc
 **[UEMOA/Télécommunications : le Burkina Faso signe trois accords de roaming avec le Bénin, la Côte d’Ivoire et le Sénégal](https://www.cfinance.news/article/uemoatelecommunications-le-burkina-faso-signe-trois-accords-de-roaming-avec-le-benin-la-cote-divoire-et-le-senegal/)** — C'Finance, 23 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a>
 
 Burkina Faso's telecoms regulator signed bilateral roaming agreements with its counterparts in Benin, Côte d'Ivoire and Senegal in Ouagadougou on 23 October 2026, under the WAEMU framework. The WAEMU Commission and the regulators called for the commitments to be put into effect so users get cheaper, clearer roaming terms.
+
+</div>
+
+</div>
+
+## South Africa
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ITU Council seat</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa participates in the 2026 International Telecommunication Union Plenipotentiary Conference in Doha, Qatar](https://www.gov.za/news/media-statements/communications-and-digital-technologies-hosts-2026-international)** — South African Government, 9 November 2026
+
+South Africa is seeking re-election to the ITU Council at the Plenipotentiary Conference in Doha, which runs from 9 to 27 November 2026. Its delegation is led by the Department of Communications and Digital Technologies. For the 2027-2030 term it pledges to support digital public infrastructure, submarine-cable resilience and the safe use of AI.
 
 </div>
 

@@ -1,16 +1,18 @@
 ---
 title: US / hyperscaler activities — News, October – November 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 subject: geopol.usa
-places: LBY; MUS; ZMB
-record: 0ecb5ce575af
+places: LBY; MDG; MUS; ZMB
+record: 5ba6ef207abb
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#libya">Libya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#madagascar">Madagascar</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritius">Mauritius</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -28,6 +30,22 @@ record: 0ecb5ce575af
 **[Libya and the US Sign Strategic Cooperation Framework](https://lana.gov.ly/post.php?id=367155&lang=en)** — Libyan News Agency, 8 October 2026
 
 Libya's communications authority and the US State Department signed a cooperation framework in Washington covering digital infrastructure, AI, data centres, cybersecurity and satellite communications. No programme or amount was published.
+
+</div>
+
+</div>
+
+## Madagascar
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Judicial cooperation agreement with the United States against cybercrime</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[CYBERCRIMINALITÉ - Les États-Unis renforcent la coopération judiciaire](https://www.lexpress.mg/2026/11/cybercriminalite-les-etats-unis.html)** — L'Express de Madagascar, 9 November 2026
+
+Madagascar and the United States signed a judicial cooperation agreement against cybercrime on 6 November 2026 in Washington. Madagascar's justice minister signed with Jeanine Pirro, US prosecutor for the District of Columbia. Pirro heads the Scam Center Strike Force. A US Justice Department report credited FBI cooperation with dismantling 13 scam centres in Madagascar.
 
 </div>
 

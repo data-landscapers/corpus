@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, October – November 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5668e4bad031
+record: bc35d460a04f
 ---
 
 # News, Oct – Nov 2026
@@ -548,6 +548,20 @@ Djibouti's second regional public-procurement colloquium, in Dikhil, heard plans
 **[AMI - Djibouti - Assistance technique a la transformation et a la modernisation des systemes de gouvernance, de controle et de management de la cour des comptes - PAIC-GEP](https://www.afdb.org/en/documents/ami-djibouti-assistance-technique-transformation-98145)** — African Development Bank Group, 2 November 2026
 
 The African Development Bank issued a call for expressions of interest on 2 November 2026 from firms to advise Djibouti's Cour des Comptes. The work covers internal control and risk management, and the digitisation and modernisation of its control processes and information systems. It falls under the PAIC-GEP project.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Memorandum with ASAN Service on public-service digitisation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Administration numérique : Djibouti mise sur l’expérience de l’Azerbaïdjan](https://www.wearetech.africa/fr/fils/actualites/tech/administration-numerique-djibouti-mise-sur-l-experience-de-l-azerbaidjan)** — wearetech.africa, 9 November 2026
+
+Djibouti's Ministry of Labour signed an MoU with Azerbaijan's ASAN Service in Baku on 5 November 2026 on sharing expertise in digitalising public services on ASAN's one-stop-centre model. It follows a September 2025 study visit and an October 2025 inventory in which Djibouti listed 503 administrative procedures. Of these, 83 were prioritised for first-phase digitalisation.
 
 </div>
 
@@ -1537,6 +1551,20 @@ The Office des changes opened an international tender for an e-declarations plat
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Epolice criminal-record certificates for Moroccans abroad</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Moroccans abroad can now apply online for criminal record certificates](https://en.hespress.com/148811-moroccans-abroad-can-now-apply-online-for-criminal-record-certificates.html)** — Hespress, 9 November 2026
+
+Morocco's General Directorate of National Security opened its Epolice portal on 9 November 2026 to Moroccans abroad applying online for criminal-record certificates. Each request can be tracked online and the certificate is collected at the chosen diplomatic mission. The Ministry of Foreign Affairs, African Cooperation and Moroccan Expatriates built the service with the directorate.
+
+</div>
+
+</div>
+
 ## Mozambique
 
 <div class="monthly-story" markdown="1">
@@ -1861,6 +1889,20 @@ Seychelles soft-launched the SeyAlert emergency app on 30 October 2026, after we
 **[Chief Minister digitises Ministerial performance to strengthen accountability](https://sierraleoneconcordtimes.com/chief-minister-digitises-ministerial-performance-to-strengthen-accountability/)** — Concord Times, 12 October 2026
 
 Sierra Leone's Chief Minister, David Moinina Sengeh, opened a workshop at which ministries and agencies were shown VISION-SL, a digital platform to hold ministerial performance contracts, targets, indicators and quarterly progress reports in one system, reported on 12 October 2026. It is meant to track the national development plan and still awaits validation and testing. No cost or launch date is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government Website Standardisation Framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sierra Leone Begins Training Government ICT Officers on Website Management and Security](https://techafricanews.com/2026/11/09/sierra-leone-begins-training-government-ict-officers-on-website-management-and-security/)** — Tech Africa News, 9 November 2026
+
+Sierra Leone's Ministry of Communication, Technology and Innovation began training ICT officers from ministries, departments and agencies on website management and security, reported on 9 November 2026. Under its Website Standardisation Framework the ministry builds and hosts official sites on shared gov.sl infrastructure, and the officers maintain content. The first phase ran two days, and further phases are planned.
 
 </div>
 

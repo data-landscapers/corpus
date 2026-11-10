@@ -1,10 +1,10 @@
 ---
 title: National statistics — News, October – November 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 subject: data.statistics
-places: BDI; CAF; COG; COD; EGY; GNQ; GAB; GHA; KEN; MWI; MLI; MOZ; RWA; SEN; SLE; ZAF; TZA; TUN; UGA
-record: 3cfd7a29c087
+places: BDI; CAF; COG; COD; EGY; GNQ; ETH; GAB; GHA; KEN; MWI; MLI; MOZ; RWA; SEN; SLE; ZAF; TZA; TUN; UGA
+record: ce01590e9134
 ---
 
 # News, Oct – Nov 2026
@@ -21,6 +21,8 @@ record: 3cfd7a29c087
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#equatorial-guinea">Equatorial Guinea</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ethiopia">Ethiopia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gabon">Gabon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -184,6 +186,22 @@ Egypt's planning minister Ahmed Rostom met the head of CAPMAS on 4 October 2026 
 **[INEGE avanza en la validación técnica de los documentos del Quinto Censo de Población y del Primer Censo Agropecuario](https://www.guineaecuatorialpress.com/noticias/inege_avanza_en_la_validacion_tecnica_de_los_documentos_del_quinto_censo_de_poblacion_y_del_primer_censo_agropecuario)** — Página Oficial del Gobierno de la República de Guinea Ecuatorial, 26 October 2026
 
 Equatorial Guinea's statistics institute opened a technical validation workshop on 26 October 2026 with UNDP and FAO. Participants review the methods and data-collection tools for the fifth population census and the first agricultural census. It follows a strategy workshop held on 27-29 July 2026.
+
+</div>
+
+</div>
+
+## Ethiopia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National accounts rebased to 2024/25</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopia’s GDP Rebase Captures Growth in Digital Financial Services](https://techafricanews.com/2026/11/09/ethiopia-gdp-rebase-captures-growth-in-digital-financial-services/)** — Tech Africa News, 9 November 2026
+
+Ethiopia's rebased national accounts put 2024/25 GDP at 24.03 trillion birr, against 15.09 trillion under the previous series, Tech Africa News reported on 9 November 2026. The reference year moved from 2015/16 to 2024/25 with IMF technical assistance, and digital financial services and ride-hailing platforms entered the count. Preliminary 2025/26 GDP is 31.86 trillion birr.
 
 </div>
 

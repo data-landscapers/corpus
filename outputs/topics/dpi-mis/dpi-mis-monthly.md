@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems — News, October – November 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 subject: dpi.mis
 places: AGO; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b9429da2c323
+record: d41377f0b15e
 ---
 
 # News, Oct – Nov 2026
@@ -334,6 +334,20 @@ WHO's Africa office has deployed its AI-based Preparedness Data Exchange in the 
 **[RDC: l’UE et le PNUD accompagnent la digitalisation de la justice pour renforcer la transparence et améliorer les services aux justiciables](https://actualite.cd/2026/11/05/rdc-lue-et-le-pnud-accompagnent-la-digitalisation-de-la-justice-pour-renforcer-la)** — ACTUALITE.CD, 5 November 2026
 
 DR Congo's Ministry of Justice launched digital collection of court fees on 5 November 2026, with the courts, prosecutors' offices and prisons to be interconnected. UNDP provides technical support and the EU funds it. The first digital nationality certificate was issued at the launch, and a second phase is planned for early 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Etoile Bleue emergency medical response system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : un système connecté pour mieux organiser les interventions médicales](https://www.wearetech.africa/fr/fils/actualites/tech/rdc-un-systeme-connecte-pour-mieux-organiser-les-interventions-medicales)** — wearetech.africa, 9 November 2026
+
+The DR Congo Ministry of Health announced on 8 November 2026 that the Etoile Bleue emergency medical response system will be inaugurated by the President, after a postponement in June 2026. It starts in Kinshasa and Matadi with a free 199 number, a mobile app, a regulation centre, 130 ambulances and 300 medical motorbikes. No launch date was given.
 
 </div>
 

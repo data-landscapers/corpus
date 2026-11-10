@@ -1,10 +1,10 @@
 ---
 title: Digital divides — News, October – November 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 subject: include.divides
-places: AGO; BFA; COD; SWZ; ETH; GMB; GHA; ZAF; TZA
-record: 40531e3a549a
+places: AGO; BFA; COD; SWZ; ETH; GMB; GHA; LBR; ZAF; TZA
+record: dcbfbc45f5c4
 ---
 
 # News, Oct – Nov 2026
@@ -23,6 +23,8 @@ record: 40531e3a549a
 <a href="#gambia">Gambia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ghana">Ghana</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#liberia">Liberia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -200,6 +202,22 @@ Ghana's communications minister Samuel Nartey George said the government will co
 **[Sam George gives contractors 30 days to finish rural telephony sites or face penalties](https://www.adomonline.com/sam-george-gives-contractors-30-days-to-finish-rural-telephony-sites-or-face-penalties/)** — Adom Online, 17 October 2026
 
 Ghana's communications minister Sam George gave Rural Telephony Project contractors 30 days to finish outstanding sites or face penalties, saying they have been paid in full, after touring sites in the Volta Region. He also said Ghana recorded more than 4,000 fibre cuts by June 2026 and operators spent over $20 million on fibre repairs in 2025.
+
+</div>
+
+</div>
+
+## Liberia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet penetration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital 2027: Liberia](https://datareportal.com/reports/digital-2027-liberia)** — DataReportal (Simon Kemp), 5 November 2026
+
+DataReportal published its Digital 2027 report for Liberia on 5 November 2026. It counts 1.90 million internet users at the end of 2026, a penetration of 32.2 per cent. It also counts 5.88 million mobile connections, equal to 99.9 per cent of the population, and 1.20 million social media identities.
 
 </div>
 

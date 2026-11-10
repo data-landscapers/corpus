@@ -1,10 +1,10 @@
 ---
 title: Registries — News, October – November 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 subject: dpi.registry
-places: DZA; AGO; BEN; BFA; CMR; COM; CIV; COD; ETH; GAB; GMB; GHA; GIN; LSO; LBR; MDG; MLI; MRT; MUS; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZWE
-record: c1d448b69549
+places: DZA; AGO; BEN; BFA; CMR; COM; CIV; COD; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MLI; MRT; MUS; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZWE
+record: 3b60245c2d26
 ---
 
 # News, Oct – Nov 2026
@@ -35,6 +35,8 @@ record: c1d448b69549
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#guinea">Guinea</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#kenya">Kenya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#lesotho">Lesotho</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -437,6 +439,22 @@ About 61% of Ghanaian children hold a birth certificate, UNICEF's representative
 **[Guinée : le MATD lance, via l’ONECI, le projet RENEC pour moderniser et sécuriser l’état civil](https://guistat.com/guinee-le-matd-lance-via-loneci-le-projet-renec-pour-moderniser-et-securiser-letat-civil/)** — GUISTAT, 28 October 2026
 
 Guinea's territorial administration ministry launched RENEC, a national civil-status register, through its agency ONECI on 28 October 2026. The firm Digitech will build it to 2028, with national budget funding. It will give each citizen a unique identifier from birth, with first centres opening in 2026.
+
+</div>
+
+</div>
+
+## Kenya
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Waiver of birth and death certificate fees</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[How Kenya's digital birth registration system will work](https://nation.africa/kenya/news/how-kenya-s-digital-birth-registration-system-will-work--5663174)** — Daily Nation, 9 November 2026
+
+Immigration PS Belio Kipsang told Kenyan MPs that birth and death certificate fees will be waived by Gazette notice, the Daily Nation reported on 9 November 2026. Within 30 days, civil registration is to link to the hospital system. Every newborn would then get a Unique Personal Identifier. Electronic birth notification is piloted in Nairobi and Bomet and is due to reach over 7,500 public hospitals.
 
 </div>
 

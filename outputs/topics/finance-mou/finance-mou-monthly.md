@@ -1,10 +1,10 @@
 ---
 title: MoUs and other agreements — News, October – November 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 subject: finance.mou
 places: BWA; BDI; EGY; ETH; NGA; SEN; SDN; TZA; UGA
-record: aa35146da86c
+record: 906da3ebc642
 ---
 
 # News, Oct – Nov 2026

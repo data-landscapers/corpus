@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, October – November 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: 44ba18b0ecdc
+record: cb5930692790
 ---
 
 # News, Oct – Nov 2026
@@ -285,6 +285,20 @@ Burkina Faso's Council of Ministers adopted two decrees on 5 November 2026. One 
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Submarine cable landings</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Comment Internet arrive au Cameroun](https://obs-cc.org/infrastructures-reseaux/)** — OBS-CC, 1 October 2026
+
+The Cameroonian civil-society group OBS-CC published an explainer on 1 October 2026 on how Cameroon connects to the global internet. It lists five submarine cables landing in three coastal towns, Limbe, Douala and Kribi, and a national fibre backbone run by Camtel. OBS-CC puts the backbone at 12,000 to nearly 16,000 km, citing published estimates.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">CAB-CORRIDOR terrestrial interconnection (Cameroon, Gabon, Congo)</p>
 
 <div class="bulletin-item" markdown="1">
@@ -462,6 +476,20 @@ Internet Society Pulse lists one active internet exchange point in Congo in Nove
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Alternative submarine cable connection</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[WACS cable repairs enter critical phase](https://itweb.africa/article/wacs-cable-repairs-enter-critical-phase/lLn14MmQ9DnMJ6Aa)** — ITWeb Africa, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a>
+
+Congo Telecom said a repair vessel was due on 11 November 2026 at the WACS fault between the two Congos. A disruption on 29 October cut its primary circuits. The operator said failover to backup links kept customers connected. It listed earlier WACS outages in 2020, August 2023 and January 2026.
+
+</div>
+
+</div>
+
 ## Cote d'Ivoire
 
 <div class="monthly-story" markdown="1">
@@ -503,6 +531,20 @@ The regulator ARTCI published Côte d'Ivoire's telecoms market statistics for th
 **[Deux projets numériques de 30 millions de dollars passés en revue, avec un appel à accélérer](https://www.adi.dj/public/article/139032)** — ADI Djibouti, 25 October 2026
 
 Djibouti's minister Mohamed Abdoulkader Moussa reviewed two IDA-funded digital projects with the regulator ARMD and the state information systems agency ANSIE and called for faster implementation. The US$10 million DFN project has completed 26 of 35 activities, with nearly 80% of funds committed and 56% disbursed, before it closes on 30 June 2027; the US$20 million EARDIP's cross-border links, twelve 4G sites and fibre loops to Dikhil, Tadjourah and Obock still await approval of commercial, environmental and social studies.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet users (DataReportal)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital 2027: Djibouti](https://datareportal.com/reports/digital-2027-djibouti)** — DataReportal (Simon Kemp), 5 November 2026
+
+DataReportal published its Digital 2027 report for Djibouti on 5 November 2026. It counts 786,000 internet users at the end of 2026, a penetration of 65.3 per cent. It also counts 649,000 mobile connections, equal to 53.9 per cent of the population, and 266,000 social media identities.
 
 </div>
 
@@ -569,6 +611,20 @@ Civil society in Fizi territory and Baraka, South Kivu, published a memorandum t
 **[Télécoms : Kinshasa concentre plus de 19 millions d’abonnements mobiles actifs - ACP](https://acp.cd/economie/telecoms-kinshasa-concentre-plus-de-19-millions-dabonnements-mobiles-actifs/)** — Agence Congolaise de Presse (ACP), 4 November 2026
 
 DR Congo had 77 million active mobile subscriptions in the second quarter of 2026, the regulator ARPTC's observatory reported, as carried by ACP on 4 November. Penetration rose from 66.8% to 68.6% and sector revenue rose 5.3% to USD 665.6m. Kinshasa held 19.59m subscriptions and about a third of revenue.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">WACS submarine cable (Muanda landing)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[WACS cable repairs enter critical phase](https://itweb.africa/article/wacs-cable-repairs-enter-critical-phase/lLn14MmQ9DnMJ6Aa)** — ITWeb Africa, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a>
+
+Congo Telecom said a repair vessel was due on 11 November 2026 at the WACS fault between the two Congos. A disruption on 29 October cut its primary circuits. The operator said failover to backup links kept customers connected. It listed earlier WACS outages in 2020, August 2023 and January 2026.
 
 </div>
 
@@ -1094,6 +1150,20 @@ Orange Liberia launched 5G and presented itself as the country's first 5G provid
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Starlink School Connect programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liberia Regains ATU Voting Rights After U.S.$400k Debt Waiver](https://allafrica.com/stories/202611090734.html)** — The Liberian Investigator via allAfrica, 9 November 2026
+
+Liberia has regained its voting rights in the African Telecommunications Union, the telecoms regulator's chair Clarence K. Massaquoi said on 9 November 2026. A waiver of more than US$400,000 and a government payment of the balance ended its observer status. He gave neither the amount paid nor the date the rights were restored.
+
+</div>
+
+</div>
+
 ## Libya
 
 <div class="monthly-story" markdown="1">
@@ -1372,6 +1442,20 @@ Mozambique's Communications and Digital Transformation Minister, Américo Muchan
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet users as a share of population</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital 2027: Mozambique](https://datareportal.com/reports/digital-2027-mozambique)** — DataReportal, 5 November 2026
+
+DataReportal published its Digital 2027 report for Mozambique on 5 November 2026. It counts 7.57 million internet users at the end of 2026, a penetration of 20.5 per cent. It also counts 18.4 million mobile connections, equal to 49.9 per cent of the population, and 4.39 million social media identities.
+
+</div>
+
+</div>
+
 ## Namibia
 
 <div class="monthly-story" markdown="1">
@@ -1595,6 +1679,20 @@ The Lagos State Infrastructure Maintenance and Regulatory Agency told internet s
 **[Lagos orders ISPs to secure cables](https://www.itweb.africa/article/lagos-orders-isps-to-secure-cables/nWJad7bNRRE7bjO1)** — ITWeb Africa, 6 November 2026
 
 Lagos State's infrastructure regulator LASIMRA ordered internet service providers to rearrange dangling fibre cables, secure loose installations and clear obstructions in Ilasan/Ikate, Allen Avenue and the Customs Office area of Ikeja. The notice is dated 2 November 2026, and enforcement with sanctions begins on 9 November 2026. The Nigerian Communications Commission regulates the sector federally.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Operators' suit against the House of Representatives' network-quality probe</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigeria’s telecom operators sue federal lawmakers over service-quality probe](https://techcabal.com/2026/11/09/nigerian-telecom-operators-sue-reps/)** — TechCabal, 9 November 2026
+
+ALTON and four Nigerian operators filed a summons at the Federal High Court in Abuja on 4 November 2026, TechCabal reported. They ask whether the Constitution lets the House of Representatives investigate their network quality and summon their chiefs. The House says each operator holds its own licence and must account for its performance.
 
 </div>
 

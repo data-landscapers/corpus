@@ -1,15 +1,17 @@
 ---
 title: Standards — News, October – November 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 subject: gov.standards
-places: BEN; BFA; BDI; CMR; COG; EGY; SWZ; ETH; GHA; KEN; MRT; NAM; NGA; RWA; ZAF
-record: 7041cdd27cac
+places: DZA; BEN; BFA; BDI; CMR; COG; EGY; SWZ; ETH; GHA; KEN; MRT; NAM; NGA; RWA; ZAF; SDN
+record: f251d226c7cd
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#algeria">Algeria</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#benin">Benin</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burkina-faso">Burkina Faso</a>
@@ -39,7 +41,25 @@ record: 7041cdd27cac
 <a href="#rwanda">Rwanda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sudan">Sudan</a>
 </nav>
+
+## Algeria
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ISO membership of the national standards institute</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ISO - IANOR - Institut Algérien de Normalisation](https://www.iso.org/member/1499.html)** — International Organization for Standardization, 9 November 2026
+
+The ISO membership page, on file under 9 November 2026, lists the Institut Algérien de Normalisation as a member body. It sets out the institute's tasks, including national standards development, the WTO TBT information point and the Algerian conformity mark. It shows participation in 27 technical committees and observer status in 50.
+
+</div>
+
+</div>
 
 ## Benin
 
@@ -153,6 +173,20 @@ The Eswatini Standards Authority and AICE Africa launched an AI Safety and Stand
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ISO membership of the national standards authority</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ISO - ESWASA - Eswatini Standards Authority](https://www.iso.org/member/304927.html)** — International Organization for Standardization, 9 November 2026
+
+The ISO membership page, on file under 9 November 2026, lists the Eswatini Standards Authority as a correspondent member of ISO. It describes a body that opened on 2 April 2007, has sixteen staff and is governed by a ten-member Council. Its technical department holds an information centre, a standards development unit and a testing unit.
+
+</div>
+
+</div>
+
 ## Ethiopia
 
 <div class="monthly-story" markdown="1">
@@ -261,6 +295,20 @@ ISO lists Mauritania's ONANOR as a correspondent member, participating in 5 tech
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National framework for public digital service standards</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[“Build Once, Use Across Government”: Mauritania’s GovStack Journey](https://govstack.global/news/build-once-use-across-government-mauritanias-govstack-journey/)** — GovStack, 9 November 2026
+
+GovStack reported on 9 November 2026 on two years of work with Mauritania, ITU, GIZ and the digital transformation ministry. In 2025 more than 30 officials from four ministries prototyped a company-registration service for the social security fund. In March 2026, 118 officials from 34 departments agreed a reference framework for shared architecture and service design.
+
+</div>
+
+</div>
+
 ## Namibia
 
 <div class="monthly-story" markdown="1">
@@ -364,6 +412,30 @@ The Rwanda Standards Board lists the regional and international technical commit
 **[SABS publishes draft AI standards for public comment](https://www.polity.org.za/article/sabs-publishes-draft-ai-standards-for-public-comment-2026-10-21)** — Polity, 21 October 2026
 
 The South African Bureau of Standards published draft AI standards for comment, each an unmodified adoption of an ISO/IEC text, covering transparency, data quality, human oversight, and AI's benefits and environmental impact. The standards are voluntary unless a law refers to them, and comments close on 10 November 2026.
+
+</div>
+
+</div>
+
+## Sudan
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sudanese Standards and Metrology Organization (SSMO)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[تعزيزاً لحضوره الدولي.. السودان يشارك في الاجتماع السنوي لمنظمة الايزو بالعاصمة الفرنسية باريس](https://www.suna.sd/posts/taazyza-lhdorh-aldoly-alsodan-yshark-fy-alagtmaaa-alsnoy-lmnthm-alayzo-balaaasm-alfrnsy-barys)** — وكالة السودان للأنباء (سونا), 2 October 2026
+
+Sudan News Agency reported on 2 October 2026 that the Sudanese Standards and Metrology Organisation attended the 48th ISO General Assembly in Paris. The meeting ran from 28 September to 2 October 2026. The organisation's director general led a delegation that included its head of international relations.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[ISO - SSMO - Sudanese Standards and Metrology Organization](https://www.iso.org/member/2078.html)** — International Organization for Standardization, 9 November 2026
+
+The ISO membership page, on file under 9 November 2026, lists the Sudanese Standards and Metrology Organization as a member body. It describes a government body set up in 1993, with headquarters in Khartoum, state offices and 15 laboratories, and lists its memberships of regional and international standards bodies. The page carries no date of its own.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: 2f6a426f07ea
+record: 9d9fb95cf655
 ---
 
 # News, Oct – Nov 2026
@@ -698,6 +698,36 @@ Kenya's National Assembly adopted MP Peter Kaluma's amendments to the Elections 
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Online Safety Bill 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The Online Safety Bill, 2026 (Kenya Gazette Supplement No. 249, National Assembly Bills No. 69)](https://www.parliament.go.ke/sites/default/files/2026-11/THE%20ONLINE%20SAFETY%20BILL%2C%202026.pdf)** — Parliament of Kenya, National Assembly (Kenya Gazette Supplement, Government Printer), 29 October 2026
+
+The Kenya Gazette published the Online Safety Bill, 2026 on 29 October 2026 as National Assembly Bill No. 69. It sets duties of care on illegal and harmful content, and requires age verification and parental consent for children. Penalties reach KES 500 million or 10 per cent of global turnover.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya proposes tougher social media rules](https://www.itweb.africa/article/kenya-proposes-tougher-social-media-rules/O2rQGqAEWWzqd1ea)** — ITWeb Africa, 6 November 2026
+
+ITWeb reported on 6 November 2026 that Kenya's Information and Communications (Amendment) Bill 2026 would add a Section 85C. It would require online platforms serving Kenyan users, foreign ones included, to register with the Communications Authority and report unlawful activity. A separate draft Online Safety Bill 2026 proposes a duty of care, parental consent for children and age verification. Its fines run up to KES 500 million or 10% of global turnover.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sh500m fines, parental consent: MPs' tough new rules for children, social media giants](https://nation.africa/kenya/news/sh500m-fines-parental-consent-mps-tough-new-rules-for-children-social-media-giants-5662440)** — Daily Nation, 8 November 2026
+
+The Daily Nation reported on 8 November 2026 that Embakasi West MP Mark Mwenje tabled the Online Safety Bill, 2026 in the National Assembly. The bill requires parental consent for under-18s and age verification on regulated services. Fines reach KES 500 million or 10 per cent of turnover.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Kenya Information and Communications (Amendment) Bill 2026, ministry draft</p>
 
 <div class="bulletin-item" markdown="1">
@@ -719,20 +749,6 @@ Kenya's information and communications ministry has published a revised draft of
 **[Regulators need to talk to one another about data](https://nation.africa/kenya/blogs-opinion/blogs/regulators-need-to-talk-to-one-another-about-data-5657210)** — Daily Nation, 4 November 2026
 
 An opinion piece argues that Kenya's competition and data protection regulators should coordinate on mergers where data is the main asset. It cites the Competition Authority of Kenya's approach to data segregation, which would keep an acquirer from reading rivals' information on a shared payments platform. It refers to the Competition (Amendment) Bill 2026.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Online Safety Bill 2026</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Kenya proposes tougher social media rules](https://www.itweb.africa/article/kenya-proposes-tougher-social-media-rules/O2rQGqAEWWzqd1ea)** — ITWeb Africa, 6 November 2026
-
-ITWeb reported on 6 November 2026 that Kenya's Information and Communications (Amendment) Bill 2026 would add a Section 85C. It would require online platforms serving Kenyan users, foreign ones included, to register with the Communications Authority and report unlawful activity. A separate draft Online Safety Bill 2026 proposes a duty of care, parental consent for children and age verification. Its fines run up to KES 500 million or 10% of global turnover.
 
 </div>
 

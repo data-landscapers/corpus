@@ -1,10 +1,10 @@
 ---
 title: Access to services — News, October – November 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 subject: include.access
 places: BFA; CPV; COD; ETH; GAB; GHA; KEN; LBR; MDG; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; UGA; ZMB
-record: 5440e3980257
+record: 246f15e7bcc5
 ---
 
 # News, Oct – Nov 2026
@@ -122,6 +122,20 @@ DR Congo's telecom regulator ARPTC put the short code 1515 into service nationwi
 **[Ethiopian Institution of the Ombudsman](http://ethombudsman.gov.et/)** — Ethiopian Institution of the Ombudsman, 17 October 2026
 
 The Ethiopian Institution of the Ombudsman's website says it has resolved more than 48,500 complaints of maladministration through 14 regional offices. It also reports 1.5 million public enquiries and a 96.4% compliance rate by institutions; the figures carry no date.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mobile connections and internet penetration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital 2027: Ethiopia](https://datareportal.com/reports/digital-2027-ethiopia)** — DataReportal (Simon Kemp), 5 November 2026
+
+DataReportal published its Digital 2027 report for Ethiopia on 5 November 2026. It counts 31.1 million internet users at the end of 2026, a penetration of 22.3 per cent. It also counts 105 million mobile connections, equal to 75.3 per cent of the population, and 10.2 million social media identities.
 
 </div>
 
