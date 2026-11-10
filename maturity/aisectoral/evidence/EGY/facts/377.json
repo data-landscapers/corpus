@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-07-egy-youm7-cairo-ict-ministers-1gw-power-data-centres",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Irrigation Minister Hani Sewilam says AI techniques identify areas needing water distribution within farmland and land needing development, and these digital services are currently applied in Ismailia and Suez governorates.",
+   "as_of": "2026-11-07",
+   "date_precision": "day",
+   "system": "Irrigation ministry AI and drone digital services",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Irrigation ministry AI and drone digital services",
+   "country_label": "Egypt",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Ministry of Water Resources and Irrigation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

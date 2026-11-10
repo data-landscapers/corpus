@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-09-rdc-un-systeme-connecte-pour-mieux-organiser-les-interventions-medical",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "DR Congo's Ministry of Health announced on 8 November 2026 that Etoile Bleue, a national emergency medical response system whose platform integrates geolocation and artificial intelligence to handle alerts, will be inaugurated by the President, starting in Kinshasa and Matadi, with no launch date given.",
+   "as_of": "2026-11-08",
+   "date_precision": "day",
+   "system": "Etoile Bleue",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Etoile Bleue",
+   "country_label": "DR Congo",
+   "class": "sectorai",
+   "platform": "digital platform with geolocation and AI-assisted alert handling, 199 line, mobile app",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
