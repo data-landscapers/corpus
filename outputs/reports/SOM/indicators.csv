@@ -327,7 +327,9 @@ gov.standards--national-interoperability-standards,Movement,The [e-government st
 
 The high school certificate system connects registration, identity verification and consent, payments and a digital registry so exam results are retrieved automatically and certificates issued digitally ([system](2026-05-29-somalia-govstack-high-school-certificate-system)).
 
-One service built to a pattern is not a published national standard, and nothing states that the next service must follow it.",SOM-gov.policy-egovernment-strategy|SOM-dpi.exchange-hsc-govstack,,,,,,,,,2026-08-31,0,no standards catalogue drafted or published on record; e-government roadmap notes the framework gap
+One service built to a pattern is not a published national standard, and nothing states that the next service must follow it.
+
+2025-12-17 - [a zero draft of a national interoperability and integration framework was put to ministries at a consultative meeting](2025-12-17-som-dpa-consultative-meeting-national-digital-interoperability-framework); no adopted text has been found.",SOM-gov.policy-egovernment-strategy|SOM-dpi.exchange-hsc-govstack|SOM-gov.standards-national-digital-interoperability-framework,,,,,,,,,2026-08-31,0,no standards catalogue drafted or published on record; e-government roadmap notes the framework gap
 gov.standards--national-quality-standards,No change,"The operative quality instrument is [type approval for terminal equipment](2020-07-01-nca-type-approval-guidelines-rtte), mandatory since July 2020 and tested against European and international standards.","Issued under Article 59 of the Communications Act 2017, the guidelines require regulator approval before radio and telecommunications terminal equipment — handsets, network equipment, radio and satellite gear — is marketed or used ([guidelines](2020-07-01-nca-type-approval-guidelines-rtte)).
 
 The filename and hosting path indicate a later republication, but the captured text carries no separate revision, so the 2020 issue is what the repository can state.
