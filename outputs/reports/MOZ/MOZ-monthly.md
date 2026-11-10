@@ -3,9 +3,9 @@ title: Mozambique — News, Oct – Nov 2026
 compiled: 2026-11-10
 period: 2026-10-01 to 2026-11-10
 place: MOZ
-ledger_rows: 32
+ledger_rows: 34
 not_held: 18
-record: 5c22177d735b
+record: bec37c1da346
 ---
 
 # News, Oct – Nov 2026
@@ -14,6 +14,8 @@ record: 5c22177d735b
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -112,6 +114,20 @@ Mozambique's education and culture minister Edson Macuácua said on 22 October 2
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic government interoperability framework regulation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Revisão do Quadro de Interoperabilidade reforça a transformação digital dos serviços públicos](https://pt.linkedin.com/posts/intic-instituto-nacional-de-tecnologias-de-informa%C3%A7%C3%A3o-e-comunica%C3%A7%C3%A3o_revis%C3%A3o-do-quadro-de-interoperabilidade-refor%C3%A7a-activity-7520792996766699521-sTTA)** — INTIC, IP, 27 October 2026
+
+INTIC proposes revising Decree 67/2017 e-government interoperability framework; principles from 10 to 15.
+
+</div>
+
+</div>
+
 ### Data protection
 
 <div class="monthly-story" markdown="1">
@@ -175,6 +191,28 @@ Mozambique's digital agency is leading a 14-member technical mission to Ethiopia
 **[Mozambique joins SADC Regional Working Group on Data Protection](https://techreviewafrica.com/news/7857/mozambique-joins-sadc-regional-working-group-on-data-protection)** — Tech Review Africa, 22 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
 Mozambique joined the SADC Regional Working Group on Data Protection through INTIC, naming board chair Lourino Chemane as member and data protection head Rosa Dique as alternate, after SADC ICT ministers meeting in Bulawayo on 26 June 2026 asked states to appoint representatives. The country's personal data protection bill is before the Assembly of the Republic.
+
+</div>
+
+</div>
+
+## Finance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#mous-and-other-agreements">MoUs and other agreements</a>
+</nav>
+
+### MoUs and other agreements
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Parliamentary cooperation memorandum with Portugal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Moçambique e Portugal reforçam cooperação parlamentar](https://aimnews.org/2026/11/09/mocambique-e-portugal-reforcam-cooperacao-parlamentar/)** — AIM, 9 November 2026
+
+Parliamentary MoU signed in Maputo 9 Nov 2026; adds AI, archive management and digital-systems resilience.
 
 </div>
 
