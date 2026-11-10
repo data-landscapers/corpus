@@ -1,0 +1,9 @@
+[
+{"url":"https://mitci.govmu.org/mitci/wp-content/uploads/2026/08/Digital-Service-Framework.pdf","title":"Digital Service Framework","publisher":"Ministry of Information Technology, Communication and Innovation","published":"2026-08","sub_indicator":"standards","why":"Mandatory API and interoperability standards, compliance checklist and audits"},
+{"url":"https://cib.govmu.org/Documents/Reports/EnterpriseArchitectureMauritius.pdf","title":"Enterprise Architecture","publisher":"Central Informatics Bureau","published":"2025","sub_indicator":"standards","why":"Standards enforced through e-GIF technical specifications"},
+{"url":"https://dataprotection.govmu.org/Documents/NDS_final.pdf","title":"Mauritius National Data Strategy","publisher":"Data Protection Office","published":"2026","sub_indicator":"standards","why":"Technical specifications for data quality and interoperability to be set"},
+{"url":"https://mitci.govmu.org/mitci/wp-content/uploads/2025/05/Open-Source-Policy-for-Mauritius.pdf","title":"Open Source Policy for Mauritius","publisher":"MITCI","published":"","sub_indicator":"standards","why":"Open standards for government ICT"},
+{"url":"https://mitci.govmu.org/mitci/wp-content/uploads/2025/05/Open-Source-Strategy-for-Mauritius.pdf","title":"Open Source Strategy for Mauritius","publisher":"MITCI","published":"","sub_indicator":"standards","why":"Open standards requirement criteria"},
+{"url":"https://cib.govmu.org/Documents/Reports/Progress_Update_DGTS_Mauritius.pdf","title":"Digital Government Transformation Strategy: Progress Update","publisher":"Central Informatics Bureau","published":"","sub_indicator":"standards","why":"Progress on standards recommendations"},
+{"url":"https://cib.govmu.org/Documents/Maintenance%20Agreement/egiframework.pdf","title":"e-Government Interoperability Framework","publisher":"CIB","published":"2002","sub_indicator":"standards","why":"Published technical specifications, mandatory"}
+]

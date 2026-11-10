@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://techafricanews.com/2026/01/23/zambia-moves-to-amend-electronic-government-act-to-strengthen-digital-services/",
+  "title": "Zambia Moves to Amend Electronic Government Act to Strengthen Digital Services",
+  "publisher": "TechAfrica News",
+  "published": "2026-01-23",
+  "sub_indicator": "law",
+  "why": "Q1: Electronic Government (Amendment) Bill in consultation"
+ },
+ {
+  "url": "https://zamportal.gov.zm/director-sibulowa-introduces-the-gsb/",
+  "title": "Director Sibulowa Introduces the GSB",
+  "publisher": "ZamPortal",
+  "published": "2024-09-11",
+  "sub_indicator": "law",
+  "why": "Q4: GSB integrates government institutions"
+ },
+ {
+  "url": "https://www.mohais.gov.zm/?p=2796",
+  "title": "Statutory Instrument (SI) No 43 of 2023 (E-Government)",
+  "publisher": "Ministry of Home Affairs and Internal Security",
+  "published": "2023-10-19",
+  "sub_indicator": "law",
+  "why": "Q2: SI 43 of 2023 signed"
+ },
+ {
+  "url": "https://media.zambialii.org/media/legislation/40749/source_file/a0f9a9fca1dadc67/zm-act-si-2023-43-publication-document.pdf",
+  "title": "The Electronic Government (General) Regulations, 2023 (SI 43 of 2023)",
+  "publisher": "Government of Zambia",
+  "published": "2023",
+  "sub_indicator": "law",
+  "why": "Q2/Q3: regs 9-11 oblige public bodies to integrate with GSB, share and be interoperable"
+ },
+ {
+  "url": "https://zambialii.org/akn/zm/act/si/2022/1/eng@2022-01-07",
+  "title": "Electronic Government Act (Commencement) Order, 2022",
+  "publisher": "ZambiaLII / Government of Zambia",
+  "published": "2022-01-07",
+  "sub_indicator": "law",
+  "why": "Q2: Act commenced 5 January 2022"
+ },
+ {
+  "url": "https://www.parliament.gov.zm/sites/default/files/documents/acts/Act%20No.%2041%20OF%202021%2C%20THE%20ELECTRONIC%20GOVERNMENT%20ACT%2C%202021_0.pdf",
+  "title": "The Electronic Government Act, 2021 (Act No. 41 of 2021)",
+  "publisher": "National Assembly of Zambia",
+  "published": "2021",
+  "sub_indicator": "law",
+  "why": "Q1/Q2: sharing of administrative information principle; retrieval from other public bodies with consent"
+ },
+ {
+  "url": "https://www.parliament.gov.zm/sites/default/files/documents/bills/The%20%20Electronic%20Government%20Bill%20for%20Parliament%2C%202021.pdf",
+  "title": "The Electronic Government Bill, 2021 (N.A.B. 39)",
+  "publisher": "National Assembly of Zambia",
+  "published": "2021-04-19",
+  "sub_indicator": "law",
+  "why": "Q1: bill text, superseded by the Act"
+ }
+]

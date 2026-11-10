@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://itweb.africa/article/malawi-devises-operational-rules-for-national-data-exchange-platform/xnklOvz1R2bq4Ymz",
+  "title": "Malawi devises operational rules for national data exchange platform",
+  "publisher": "ITWeb Africa",
+  "published": "2026-06-11",
+  "sub_indicator": "framework",
+  "why": "Q1: ministry proposes Government Data Sharing Regulation with common digital standard"
+ },
+ {
+  "url": "https://www.telecompaper.com/news/malawian-government-plans-regulations-for-secure-national-data-sharing--1574011",
+  "title": "Malawian government plans regulations for secure national data sharing",
+  "publisher": "Telecompaper",
+  "published": "2026-06-15",
+  "sub_indicator": "framework",
+  "why": "Q1: same proposal"
+ },
+ {
+  "url": "https://leymanck.com/ministry-validates-digital-transformation-and-ai-strategies/",
+  "title": "Ministry validates digital transformation and AI strategies",
+  "publisher": "Leyman Publications",
+  "published": "2026-02-19",
+  "sub_indicator": "framework",
+  "why": "Q1/Q2: draft digital transformation strategy validated Feb 2026, systems to be interoperable"
+ },
+ {
+  "url": "https://api.pppc.mw/storage/161/DIGITAL-GOVERNMENT-STRATEGY-BOOK.pdf",
+  "title": "Digital Government Strategy",
+  "publisher": "Department of E-Government, Ministry of Information",
+  "published": "2019-09",
+  "sub_indicator": "framework",
+  "why": "Q1: strategy says E-Government must develop and publish enterprise architecture"
+ },
+ {
+  "url": "https://digital-ai.idt4m.org/Malawi%20National%20Digital%20Transformation%20Strategy%20and%20Roadmap-draft-v0.pdf",
+  "title": "Malawi National Digital Transformation Strategy and Roadmap (draft v0)",
+  "publisher": "",
+  "published": "",
+  "sub_indicator": "framework",
+  "why": "Q1: draft strategy section 6.8 interoperability framework"
+ },
+ {
+  "url": "https://times.mw/the-year-ict-sector-grappled-with-implementation-woes/",
+  "title": "The year ICT sector grappled with implementation woes",
+  "publisher": "The Times Group",
+  "published": "2026-01-13",
+  "sub_indicator": "framework",
+  "why": "Q4: ESB onboarding of ministries"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099061924122013705/txt/P160533-fa04dc42-9e3e-48d9-bf1d-a3485fc6d61d.txt",
+  "title": "Digital Malawi Project implementation support mission aide-memoire (Bomalathu)",
+  "publisher": "World Bank",
+  "published": "2024",
+  "sub_indicator": "framework",
+  "why": "Q4: seven agencies onboarded to Bomalathu"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202609/malawi-advances-data-harmonization-interoperability-agenda",
+  "title": "Malawi advances data harmonization, interoperability agenda",
+  "publisher": "Biometric Update",
+  "published": "2026-09-23",
+  "sub_indicator": "framework",
+  "why": "Q4: interoperability push"
+ }
+]

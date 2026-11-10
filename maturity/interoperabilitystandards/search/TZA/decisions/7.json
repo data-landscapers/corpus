@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "standards",
+ "aspect": "standing",
+ "fact": "The e-Government Authority issued the Electronic Data Sharing and Exchange Guidelines (eGA/EXT/ITA/002), version 1.1 of July 2022, under section 49 of the e-Government Act for use by all public institutions sharing and exchanging data.",
+ "title": "Electronic Data Sharing and Exchange Guidelines",
+ "publisher": "e-Government Authority",
+ "published": "2022-07",
+ "date_source": "source",
+ "why_not": ""
+}

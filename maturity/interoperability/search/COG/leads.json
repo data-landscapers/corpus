@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://bidanga.com/tender/preliminary-studies-and-specifications-e-government-and-inte--043162ea-ece8-4daa-abd9-e637284a5b8f",
+  "title": "Preliminary studies and specifications: e-Government and interoperability (TED 751467-2026)",
+  "publisher": "PATN via Tenders Electronic Daily",
+  "published": "2026-10-29",
+  "sub_indicator": "framework",
+  "why": "Q1: tender for sub-project S.6, setting up an interoperability framework"
+ },
+ {
+  "url": "https://afrikactus.com/au-congo-les-administrations-devront-harmoniser-leurs-donnees-pour-que-la-numerisation-ameliore-reellement-les-services-publics-28223/",
+  "title": "Données publiques Congo : le défi de l'interconnexion",
+  "publisher": "Afrikactus",
+  "published": "2026-10-19",
+  "sub_indicator": "framework",
+  "why": "Q1-Q2: data governance strategy being drafted; common rules not in place"
+ },
+ {
+  "url": "https://www.agenceecofin.com/actualites-numerique/1910-142552-congo-la-numerisation-de-l-administration-face-au-defi-de-l-interoperabilite",
+  "title": "Congo : la numérisation de l'administration face au défi de l'interopérabilité",
+  "publisher": "Agence Ecofin",
+  "published": "2026-10-19",
+  "sub_indicator": "framework",
+  "why": "Q1-Q2: gaps in interoperability frameworks found by ECA, June 2026"
+ },
+ {
+  "url": "https://hdl.handle.net/10855/60340",
+  "title": "Building the foundations of a trusted data ecosystem in the Republic of the Congo",
+  "publisher": "UN Economic Commission for Africa",
+  "published": "2026-06-09",
+  "sub_indicator": "framework",
+  "why": "Q1: ECA data governance assessment covering interoperability"
+ },
+ {
+  "url": "https://lanouvellerepublique.cg/2025/06/23/le-projet-patn-senrichit-des-financements-de-lunion-europenne-dinvestissement-et-de-lunion-europeenne/",
+  "title": "Le projet PATN s'enrichit des financements de l'Union européenne",
+  "publisher": "La Nouvelle République",
+  "published": "2025-06-23",
+  "sub_indicator": "framework",
+  "why": "Q1: EIB-EU component launched 17 June 2025"
+ },
+ {
+  "url": "https://e-governancehub.ru/wp-content/uploads/2025/07/E-Gouvernance-en-Republique-du-Congo-1.pdf",
+  "title": "E-gouvernance en République du Congo 2025",
+  "publisher": "e-Governance Hub",
+  "published": "2025",
+  "sub_indicator": "framework",
+  "why": "Q1: interoperability framework in development phase"
+ },
+ {
+  "url": "https://www.ietd.net/references/appui-au-ministere-des-postes-telecommunications-et-de-leconomie-numerique-de-ia-republique-du-congo-pour-ia-mise-en-oeuvre-du-projet-congo-digital-transformation/",
+  "title": "Appui au MPTEN pour la mise en oeuvre du projet Congo Digital Transformation",
+  "publisher": "I&D",
+  "published": "2024",
+  "sub_indicator": "framework",
+  "why": "Q1: project to develop national interoperability framework"
+ },
+ {
+  "url": "https://numerique.gouv.cg/actualites/architecture-et-digital-public-infrastructure-dpi",
+  "title": "Architecture et Digital Public Infrastructure (DPI)",
+  "publisher": "MPTEN - République du Congo",
+  "published": "",
+  "sub_indicator": "framework",
+  "why": "Q1: national digital architecture and X-Road exchange layer described"
+ }
+]

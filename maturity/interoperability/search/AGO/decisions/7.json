@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "framework",
+ "aspect": "standing;use",
+ "fact": "The World Bank's 2023 assessment states the PNAGIA, the national interoperability architecture plan, was approved by presidential decree in 2018 and that progress deploying it has been slow.",
+ "title": "Angola Digital Government Assessment (Avaliação do Governo Digital)",
+ "publisher": "World Bank Group",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

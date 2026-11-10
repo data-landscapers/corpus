@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://nita.gov.gh/wp-content/uploads/2022/02/Ghana-eGovernment-Interoperability-Framework-eGIF-Version-2.0_v.Draft-for-Stakeholder-Review-1.pdf",
+  "title": "Ghana eGovernment Interoperability Framework (eGIF) Version 2.0",
+  "publisher": "NITA",
+  "published": "2022",
+  "sub_indicator": "framework",
+  "why": "Q1-2: v1 adopted 2008, v2.0 draft for review"
+ },
+ {
+  "url": "https://nita.gov.gh/wp-content/uploads/2022/02/Ghana-Government-Enterprise-Archtecture-Framework-GGEA-Version-2.0_v.Draft-for-Stakeholder-Review-1.pdf",
+  "title": "Ghana Government Enterprise Architecture Framework v2.0",
+  "publisher": "NITA",
+  "published": "2022",
+  "sub_indicator": "framework",
+  "why": "Q1-2 companion draft"
+ },
+ {
+  "url": "https://mofep.gov.gh/sites/default/files/pbb-estimates/2024/2024-PBB-MOCD_.pdf",
+  "title": "Ministry of Communication and Digitalisation 2024 programme based budget",
+  "publisher": "Ministry of Finance",
+  "published": "2024",
+  "sub_indicator": "framework",
+  "why": "Q1: draft GGEA/eGIF developed 2023"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/938111649959522167/txt/Ghana-Digital-Acceleration-Project.txt",
+  "title": "Ghana Digital Acceleration Project",
+  "publisher": "World Bank",
+  "published": "2022",
+  "sub_indicator": "framework",
+  "why": "Q2: eGIF outdated, not adopted across MDAs"
+ },
+ {
+  "url": "https://www.opengovpartnership.org/members/ghana/commitments/GH0055/",
+  "title": "Data Sharing and Intermediation of Public Service Delivery Platforms (GH0055)",
+  "publisher": "Open Government Partnership",
+  "published": "2024",
+  "sub_indicator": "framework",
+  "why": "Q1: framework commitments"
+ },
+ {
+  "url": "https://regulatory.nita.gov.gh/portal/structure",
+  "title": "NITA Regulatory - Our Structure",
+  "publisher": "NITA",
+  "published": "",
+  "sub_indicator": "framework",
+  "why": "Q3: compliance to interoperability framework"
+ },
+ {
+  "url": "https://dial.global/wp-content/uploads/2024/08/Ghana-final.pdf",
+  "title": "Ghana country study (DIAL)",
+  "publisher": "DIAL",
+  "published": "2024",
+  "sub_indicator": "framework",
+  "why": "Q2-3: eGIF stalled, no compelling law"
+ },
+ {
+  "url": "https://techfocus24.com/nita-to-stop-wastage-on-ict-by-government-institutions/",
+  "title": "NITA to stop wastage on ICT by government institutions",
+  "publisher": "TechFocus24",
+  "published": "2024-08-27",
+  "sub_indicator": "framework",
+  "why": "Q4: CNDA, interoperability committee"
+ }
+]

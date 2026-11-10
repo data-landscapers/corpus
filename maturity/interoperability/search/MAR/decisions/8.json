@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "framework",
+ "aspect": "standing",
+ "fact": "A Moroccan e-government interoperability framework was created in 2012 and the Agency for Digital Development presented version 3.0, which adds a section on semantic interoperability.",
+ "title": "A common vocabulary for semantic interoperability of Moroccan e-government services",
+ "publisher": "Bulletin of Electrical Engineering and Informatics",
+ "published": "2025-02",
+ "date_source": "source",
+ "why_not": ""
+}

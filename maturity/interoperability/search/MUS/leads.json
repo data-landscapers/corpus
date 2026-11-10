@@ -1,0 +1,9 @@
+[
+{"url":"https://cib.govmu.org/Documents/Reports/EnterpriseArchitectureMauritius.pdf","title":"Enterprise Architecture","publisher":"Central Informatics Bureau","published":"2025","sub_indicator":"framework","why":"InfoHighway governed by the e-GIF is the data exchange mechanism; adoption and use"},
+{"url":"https://mitci.govmu.org/mitci/wp-content/uploads/2026/08/Digital-Service-Framework.pdf","title":"Digital Service Framework","publisher":"Ministry of Information Technology, Communication and Innovation","published":"2026-08","sub_indicator":"framework","why":"Mandates interoperability standards and InfoHighway connection for all government digital services"},
+{"url":"https://dataprotection.govmu.org/Documents/NDS_final.pdf","title":"Mauritius National Data Strategy","publisher":"Ministry of Information Technology, Communication and Innovation","published":"2026","sub_indicator":"framework","why":"Roadmap for data sharing and a data governance framework"},
+{"url":"https://mdpa.govmu.org/mdpa/wp-content/uploads/2025/08/Blueprint-for-Mauritius-2025.pdf","title":"Blueprint for Mauritius","publisher":"Ministry of Public Service","published":"2025","sub_indicator":"framework","why":"Interoperability and data sharing layer commitments, roadmap"},
+{"url":"https://ih.govmu.org/","title":"InfoHighway - Data Sharing Platform","publisher":"MITCI","published":"","sub_indicator":"framework","why":"Platform in use by agencies"},
+{"url":"https://cib.govmu.org/Documents/Reports/Digital%20Government%20Enablers.pdf","title":"Digital Government Enablers and Toolkits","publisher":"Central Informatics Bureau","published":"","sub_indicator":"framework","why":"Platforms connecting government agencies"},
+{"url":"https://cib.govmu.org/Documents/Maintenance%20Agreement/egiframework.pdf","title":"e-Government Interoperability Framework","publisher":"CIB","published":"2002","sub_indicator":"framework","why":"Framework text: adherence mandatory, compliance rules"}
+]

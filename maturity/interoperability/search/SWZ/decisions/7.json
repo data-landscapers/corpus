@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "framework",
+ "aspect": "standing",
+ "fact": "The World Bank's Digital Economy Diagnostic states Eswatini lacks an interoperability framework, though its development is underway but hindered by poor government IT infrastructure and unclear mandates.",
+ "title": "Digital Economy Diagnostic: Eswatini",
+ "publisher": "World Bank Group",
+ "published": "2022",
+ "date_source": "source",
+ "why_not": ""
+}

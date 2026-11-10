@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://afrikactus.com/au-congo-les-administrations-devront-harmoniser-leurs-donnees-pour-que-la-numerisation-ameliore-reellement-les-services-publics-28223/",
+  "title": "Données publiques Congo : le défi de l'interconnexion",
+  "publisher": "Afrikactus",
+  "published": "2026-10-19",
+  "sub_indicator": "standards",
+  "why": "Q1: choice of technical standards is a next step"
+ },
+ {
+  "url": "https://www.agenceecofin.com/actualites-numerique/1910-142552-congo-la-numerisation-de-l-administration-face-au-defi-de-l-interoperabilite",
+  "title": "Congo : la numérisation de l'administration face au défi de l'interopérabilité",
+  "publisher": "Agence Ecofin",
+  "published": "2026-10-19",
+  "sub_indicator": "standards",
+  "why": "Q1: ECA assessment found gaps in technical standards"
+ },
+ {
+  "url": "https://bidanga.com/tender/preliminary-studies-and-specifications-e-government-and-inte--043162ea-ece8-4daa-abd9-e637284a5b8f",
+  "title": "Preliminary studies and specifications: e-Government and interoperability (TED 751467-2026)",
+  "publisher": "PATN via Tenders Electronic Daily",
+  "published": "2026-10-29",
+  "sub_indicator": "standards",
+  "why": "Q1: interoperability framework and exchange platform studies tendered"
+ },
+ {
+  "url": "https://hdl.handle.net/10855/60340",
+  "title": "Building the foundations of a trusted data ecosystem in the Republic of the Congo",
+  "publisher": "UN Economic Commission for Africa",
+  "published": "2026-06-09",
+  "sub_indicator": "standards",
+  "why": "Q1: ECA assessment of technical data governance landscape"
+ },
+ {
+  "url": "https://anssi.cg/publications/articles/atelier-de-restitution-des-travaux-relatifs-a-ladoption-du-referentiel-general-de-securite-des-systemes-dinformation-rgssi",
+  "title": "Atelier de restitution des travaux relatifs à l'adoption du RGSSI",
+  "publisher": "ANSSI",
+  "published": "2026-04-23",
+  "sub_indicator": "standards",
+  "why": "Q1/Q3: security standards (function-specific, noted)"
+ },
+ {
+  "url": "https://www.finances.gouv.cg/fr/arr%C3%AAt%C3%A9-n-1518mfbppmptenmdizespsp-cab-fixant-les-modalit%C3%A9s-dhomologation-des-terminaux-des-versions",
+  "title": "Arrêté n° 1518 fixant les modalités d'homologation des terminaux, versions de logiciels et ERP de facturation électronique SFEC",
+  "publisher": "Ministère des finances, du budget et du portefeuille public",
+  "published": "2026-07-09",
+  "sub_indicator": "standards",
+  "why": "Q4: homologation regime (invoicing only)"
+ },
+ {
+  "url": "https://e-governancehub.ru/wp-content/uploads/2025/07/E-Gouvernance-en-Republique-du-Congo-1.pdf",
+  "title": "E-gouvernance en République du Congo 2025",
+  "publisher": "e-Governance Hub",
+  "published": "2025",
+  "sub_indicator": "standards",
+  "why": "Q1: interoperability framework under development"
+ },
+ {
+  "url": "https://www.ietd.net/references/appui-au-ministere-des-postes-telecommunications-et-de-leconomie-numerique-de-ia-republique-du-congo-pour-ia-mise-en-oeuvre-du-projet-congo-digital-transformation/",
+  "title": "Appui au MPTEN pour la mise en oeuvre du projet Congo Digital Transformation",
+  "publisher": "I&D",
+  "published": "2024",
+  "sub_indicator": "standards",
+  "why": "Q1: national interoperability framework to be developed"
+ }
+]

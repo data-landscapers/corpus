@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "framework",
+ "aspect": "standing",
+ "fact": "The e-Government Technology Roadmap, version 1.0 of February 2024, issued by the e-Government Authority, sets interoperability and integration initiatives and states that the e-Government Act 2019 requires all government systems to exchange data through the data sharing and exchange platform.",
+ "title": "e-Government Technology Roadmap",
+ "publisher": "e-Government Authority",
+ "published": "2024-02",
+ "date_source": "source",
+ "why_not": ""
+}

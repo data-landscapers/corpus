@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://digitalmag.ci/cote-divoire-cinq-administrations-publiques-integrent-la-plateforme-dinteroperabilite/",
+  "title": "Côte d'Ivoire : Cinq administrations publiques intègrent la plateforme d'interopérabilité",
+  "publisher": "Digital Mag Côte d'Ivoire",
+  "published": "2026-07-22",
+  "sub_indicator": "standards",
+  "why": "Q4 systems connected"
+ },
+ {
+  "url": "https://disd.ci/wp-content/uploads/2026/02/STRATEIE-NATIONALE-DE-GOUVERNANCE-DES-DONNEES-EN-CI-2030.pdf",
+  "title": "Stratégie Nationale de Gouvernance des Données en CI 2030",
+  "publisher": "DISD",
+  "published": "2026",
+  "sub_indicator": "standards",
+  "why": "Q1 national data standards framework 2026 planned"
+ },
+ {
+  "url": "https://anssi.gouv.ci/reglementations/textes-nationaux/decrets-nationaux/",
+  "title": "Décret 2021-913 portant adoption du Référentiel Général d'Interopérabilité",
+  "publisher": "ANSSI Côte d'Ivoire",
+  "published": "",
+  "sub_indicator": "standards",
+  "why": "Q2-Q3 standards mandatory"
+ },
+ {
+  "url": "https://artci.ci/wp-content/uploads/2024/05/ordonnance_2017_500_1.pdf",
+  "title": "Ordonnance n° 2017-500 du 02 août 2017",
+  "publisher": "Présidence de la République",
+  "published": "2017",
+  "sub_indicator": "standards",
+  "why": "Q3 duty to follow RGI"
+ },
+ {
+  "url": "https://telecom.gouv.ci/new/uploads/publications/177385013966.pdf",
+  "title": "Rapport Final (e-services)",
+  "publisher": "Ministère de la Transition Numérique",
+  "published": "",
+  "sub_indicator": "standards",
+  "why": "Q4 interoperability testing of e-services"
+ },
+ {
+  "url": "https://www.anssi.gouv.ci/documents/86/SNGD___2030___Digital_reading_compressed.pdf",
+  "title": "Stratégie Nationale de la Gouvernance des Données SNGD 2030",
+  "publisher": "ANSSI Côte d'Ivoire",
+  "published": "",
+  "sub_indicator": "standards",
+  "why": "Q2 decree 2021-913"
+ }
+]

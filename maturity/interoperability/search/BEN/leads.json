@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://asin.bj/article/73/billet-juridique-cadre-interoperabilite-benin/",
+  "title": "Billet juridique sur le cadre d'interopérabilité du Bénin",
+  "publisher": "ASIN",
+  "published": "2026-07-28",
+  "sub_indicator": "framework",
+  "why": "Q2-3: framework and decree, ASIN enforces rules"
+ },
+ {
+  "url": "https://www.lanation.bj/numerique/interoperabilite-au-benin-les-regles-dacces-a-xroad-bj",
+  "title": "Interopérabilité au Bénin : les règles d'accès à Xroad-BJ",
+  "publisher": "La Nation",
+  "published": "2026-07-28",
+  "sub_indicator": "framework",
+  "why": "Q4: access rules for bodies"
+ },
+ {
+  "url": "https://lanation.bj/actualites/transformation-numerique-de-letat-un-cadre-commun-pour-ses-systemes-dinformation-en-preparation",
+  "title": "Transformation numérique de l'État : un cadre commun pour ses systèmes d'information en préparation",
+  "publisher": "La Nation",
+  "published": "2026-07-01",
+  "sub_indicator": "framework",
+  "why": "Q1: PASI draft under consultation"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202506/benin-shares-its-x-road-inspired-dpi-interoperability-experience-in-peer-learning-webinar",
+  "title": "Benin shares its X-Road-inspired DPI interoperability experience",
+  "publisher": "Biometric Update",
+  "published": "2025-06-23",
+  "sub_indicator": "framework",
+  "why": "Q4: 55 institutions connected"
+ },
+ {
+  "url": "https://cyber.ee/resources/news/cybernetica-and-benin-continue-enhancing-the-country-s-digitalisation/",
+  "title": "Cybernetica and Benin continue enhancing the country's digitalisation",
+  "publisher": "Cybernetica",
+  "published": "2025-02-19",
+  "sub_indicator": "framework",
+  "why": "Q4: over 50 institutions use platform"
+ },
+ {
+  "url": "https://api.xroad.bj/media/60a4e9fd99ec6_v7_XROADBJ_Cadre-interope%CC%81rabilite%CC%81_A5.pdf",
+  "title": "Cadre d'interopérabilité institué par le décret n° 2020-209 du 18 mars 2020",
+  "publisher": "XROAD BJ / ASIN",
+  "published": "2021-05-19",
+  "sub_indicator": "framework",
+  "why": "Q2-3: the framework text"
+ },
+ {
+  "url": "https://lanation.bj/actualites/plateforme-nationale-dinteroperabilite-lultime-etape-vers-une-administration-intelligente",
+  "title": "Plateforme nationale d'interopérabilité : l'ultime étape vers une administration intelligente",
+  "publisher": "La Nation",
+  "published": "2020-03-19",
+  "sub_indicator": "framework",
+  "why": "Q2-3: decree adopted in council"
+ },
+ {
+  "url": "https://www.id4africa.com/2025/files/T1-P2-S1-1_BENIN-final.pdf",
+  "title": "The Beninese experience with data sharing platforms",
+  "publisher": "ID4Africa / ASIN",
+  "published": "2025",
+  "sub_indicator": "framework",
+  "why": "Q4: more than 120 systems integrated"
+ }
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://nita.gov.gh/wp-content/uploads/2022/02/Ghana-eGovernment-Interoperability-Framework-eGIF-Version-2.0_v.Draft-for-Stakeholder-Review-1.pdf",
+  "title": "Ghana eGovernment Interoperability Framework (eGIF) Version 2.0",
+  "publisher": "NITA",
+  "published": "2022",
+  "sub_indicator": "standards",
+  "why": "Q1-2: technical standards annexes, draft"
+ },
+ {
+  "url": "https://regulatory.nita.gov.gh/portal/regulation/standards-and-guidelines",
+  "title": "Standards & Guidelines | NITA Regulatory",
+  "publisher": "NITA",
+  "published": "",
+  "sub_indicator": "standards",
+  "why": "Q2-3: ICT standards for government"
+ },
+ {
+  "url": "https://nita.gov.gh/regulatory-2/",
+  "title": "Regulations - National Information Technology Agency",
+  "publisher": "NITA",
+  "published": "",
+  "sub_indicator": "standards",
+  "why": "Q1: draft ICT standards for comment"
+ },
+ {
+  "url": "https://nita.gov.gh/wp-content/uploads/2025/NITA-2008-act-2025-1.pdf",
+  "title": "National Information Technology Authority Bill, 2025",
+  "publisher": "NITA",
+  "published": "2025",
+  "sub_indicator": "standards",
+  "why": "Q1,Q3: national digital architecture standards, clearance, audits"
+ },
+ {
+  "url": "https://nita.gov.gh/wp-content/uploads/2023/07/LI-FOR-ACT-772_NITA-.pdf",
+  "title": "Draft Regulations under Electronic Transactions Act 2008 (Act 772)",
+  "publisher": "NITA",
+  "published": "2023",
+  "sub_indicator": "standards",
+  "why": "Q3: compliance with NITA standards"
+ },
+ {
+  "url": "https://goldbod.gov.gh/news/sam-george-commends-goldbod-as-gold-standard-for-digital-compliance",
+  "title": "Sam George Commends GoldBod as Gold Standard for Digital Compliance",
+  "publisher": "GoldBod",
+  "published": "2026-10-21",
+  "sub_indicator": "standards",
+  "why": "Q3-4: technical clearance, presidential directive"
+ },
+ {
+  "url": "https://mofep.gov.gh/sites/default/files/pbb-estimates/2024/2024-PBB-MOCD_.pdf",
+  "title": "Ministry of Communication and Digitalisation 2024 programme based budget",
+  "publisher": "Ministry of Finance",
+  "published": "2024",
+  "sub_indicator": "standards",
+  "why": "Q1: IT standards publication, compliance monitoring"
+ },
+ {
+  "url": "https://gna.org.gh/2026/03/gss-25-mdas-sign-data-sharing-agreements/",
+  "title": "GSS, 25 MDAs sign data-sharing agreements",
+  "publisher": "Ghana News Agency",
+  "published": "2026-03-12",
+  "sub_indicator": "standards",
+  "why": "Q1: technical standards for data interoperability"
+ }
+]

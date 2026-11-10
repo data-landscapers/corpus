@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://telecom.gouv.ci/new/actualite/130,unfetchable,HTTP 404; no usable Wayback capture,,0,,
+2,https://www.assnat.ci/IMG/pdf/loi_ordonnance_echanges_electroniques.pdf,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+3,https://artci.ci/wp-content/uploads/2024/05/ordonnance_2017_500_1.pdf,fetched,,scripts/.workroot/study/interoperabilitylaw/cache/CIV/3.txt,3402,pdf,
+4,https://anssi.gouv.ci/documents/21/Ordonnace_N2024-950_du_30_octobre_portant_modification_de_lordonnance_sur_les_e-services_et_abrogation.pdf,unfetchable,SSLError; no usable Wayback capture,,0,,
+5,https://telecom.gouv.ci/new/uploads/publications/177385013966.pdf,held,held as raw/2025/2025-11-18-cote-divoire-padci-revue-services-numeriques-cartographie-e-services-rapport-final.md,,0,,
+6,https://www.anssi.gouv.ci/documents/86/SNGD___2030___Digital_reading_compressed.pdf,unfetchable,SSLError; no usable Wayback capture,,0,,
+7,https://digitalmag.ci/cote-divoire-cinq-administrations-publiques-integrent-la-plateforme-dinteroperabilite/,held,held as raw/2026/2026-07-22-cote-divoire-cinq-administrations-integrent-plateforme-interoperabilite.md,,0,,

@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.digitalnation.eu/news-end/2025",
+  "title": "Delivering Digital Transformation in 2025",
+  "publisher": "Digital Nation",
+  "published": "2026-01-07",
+  "sub_indicator": "framework",
+  "why": "Q1/Q2: interoperability framework developed for Angola"
+ },
+ {
+  "url": "https://sys.portais.gov.ao/uploads/Td_R_Consultoria_para_Implementacao_da_Interoperabilidade_da_Administracao_Publica_1_13f0252ef0.pdf",
+  "title": "Termos de Referência: Consultoria para Implementação da Interoperabilidade da Administração Pública",
+  "publisher": "Projecto de Aceleração Digital de Angola (PADA)",
+  "published": "2026",
+  "sub_indicator": "framework",
+  "why": "Q1-Q4: framework and roadmap defined; 27% of systems interlinked"
+ },
+ {
+  "url": "https://ima.gov.ao/web/noticias/angola-define-o-quadro-e-o-roteiro-de-interoperabilidade-da-administracao-publica",
+  "title": "Angola define o Quadro e o Roteiro de Interoperabilidade da Administração Pública",
+  "publisher": "Instituto de Modernização Administrativa",
+  "published": "2025",
+  "sub_indicator": "framework",
+  "why": "Q1: July 2025 workshop on the framework and roadmap"
+ },
+ {
+  "url": "https://minjud.gov.ao/web/noticias/angola-da-passos-firmes-rumo-a-uma-administracao-publica-mais-inteligente-e-interligada",
+  "title": "Angola Dá Passos Firmes Rumo a uma Administração Pública Mais Inteligente e Interligada",
+  "publisher": "Ministério da Justiça e Direitos Humanos",
+  "published": "2025-07-11",
+  "sub_indicator": "framework",
+  "why": "Q1: proposed national interoperability framework presented"
+ },
+ {
+  "url": "https://lidermagazine.ao/governo-angolano-deu-inicio-dos-trabalhos-para-a-definicao-do-quadro-nacional-de-interoperabilidade/",
+  "title": "Governo angolano deu início dos trabalhos para a definição do Quadro Nacional de Interoperabilidade",
+  "publisher": "Líder Magazine",
+  "published": "2025-03-13",
+  "sub_indicator": "framework",
+  "why": "Q1: drafting of national framework began"
+ },
+ {
+  "url": "https://lex.ao/docs/presidente-da-republica/2024/decreto-presidencial-n-o-178-24-de-31-de-julho/",
+  "title": "Decreto Presidencial n.º 178/24 - Agenda de Transição Digital da Administração Pública",
+  "publisher": "Presidente da República / Diário da República",
+  "published": "2024-07-31",
+  "sub_indicator": "framework",
+  "why": "Q1/Q2: reference architecture AR-eGov and interoperability platform"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099035306262338506/pdf/IDU038ba2ba80901c045390ab73083d0b51ad04a.pdf",
+  "title": "Angola digital government assessment (World Bank)",
+  "publisher": "World Bank Group",
+  "published": "2023",
+  "sub_indicator": "framework",
+  "why": "Q2/Q4: PNAGIA approved by decree 2018; slow deployment"
+ }
+]

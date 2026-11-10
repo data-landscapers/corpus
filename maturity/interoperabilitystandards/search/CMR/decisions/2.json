@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "standards",
+ "aspect": "use",
+ "fact": "Finance minister's circular letter of 19 August 2026 requires the ministry's applications to use documented open-standard interfaces and makes common business referentials mandatory, with new applications to prove integration capability before production.",
+ "title": "Lettre-Circulaire N°00010308/LC/MINFI du 19 août 2026 relative à la Gouvernance, la Performance, la Sécurité, la Stabilité, et l'Interopérabilité des Systèmes Informatiques du Ministère des Finances",
+ "publisher": "Ministère des Finances",
+ "published": "2026-08-19",
+ "date_source": "source",
+ "why_not": ""
+}

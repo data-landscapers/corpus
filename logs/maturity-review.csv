@@ -69,9 +69,9 @@ idverification,use,dpi.exchange--use-of-digital-id-in-other-systems,2026-11-08,1
 internationalbandwidth,routes,infra.connect--international-internet-bandwidth,2026-11-09,16,68,168
 internationalstandards,international,gov.standards--adoption-of-international-standards,2026-11-09,16,68,52
 internetusage,use,infra.connect--internet-usage,2026-11-09,16,67,34
-interoperability,framework,gov.policy--data-interoperability-framework-roadmap,,,,
-interoperabilitylaw,law,gov.legislate--legislation-enabling-data-interoperability,,,,
-interoperabilitystandards,standards,gov.standards--national-interoperability-standards,,,,
+interoperability,framework,gov.policy--data-interoperability-framework-roadmap,2026-11-10,31,101,57
+interoperabilitylaw,law,gov.legislate--legislation-enabling-data-interoperability,2026-11-10,31,101,50
+interoperabilitystandards,standards,gov.standards--national-interoperability-standards,2026-11-10,31,101,15
 itcapacity,inhouse,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,,,,
 justice,justice,dpi.mis--justice,,,,
 landadmin,landmis,dpi.mis--land,,,,

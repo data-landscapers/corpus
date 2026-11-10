@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://acdd.gouv.cf/",
+  "title": "Accélérer la transformation numérique de la Centrafrique (ACDD)",
+  "publisher": "ACDD",
+  "published": "",
+  "sub_indicator": "standards",
+  "why": "Q1-3: ACDD normalisation, common standards"
+ },
+ {
+  "url": "https://bidsfactory.com/en/tenders/assistance-technique-pour-la-realisation-darchitec-OP00444543",
+  "title": "Technical Assistance ... Architecture and interoperability",
+  "publisher": "World Bank / BidsFactory",
+  "published": "2026-05-12",
+  "sub_indicator": "standards",
+  "why": "Q1: interoperability framework (technical aspects) being defined"
+ },
+ {
+  "url": "https://www.menpt.cf/pgnsp.html",
+  "title": "PGNSP",
+  "publisher": "MENPT",
+  "published": "",
+  "sub_indicator": "standards",
+  "why": "Q1: standards compliance and data governance"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/283361648600399938/pdf/Central-African-Republic-Public-Sector-Digital-Governance-Project.pdf",
+  "title": "CAR Public Sector Digital Governance Project appraisal",
+  "publisher": "World Bank",
+  "published": "2022",
+  "sub_indicator": "standards",
+  "why": "Q1: shared norms and standards for government digital services planned"
+ },
+ {
+  "url": "https://digitaldevelopmentcompass.undp.org/country/CAF",
+  "title": "Central African Republic - Digital Development Compass",
+  "publisher": "UNDP",
+  "published": "",
+  "sub_indicator": "standards",
+  "why": "Q1: no interoperability framework"
+ },
+ {
+  "url": "https://icasees.org/actualites/328-icasees-atelier-de-validation-interne-du-projet-de-politique-de-diffusion-des-donnees",
+  "title": "ICASEES : Atelier de validation interne du projet de politique de diffusion des données",
+  "publisher": "ICASEES",
+  "published": "2026-03-24",
+  "sub_indicator": "standards",
+  "why": "Q1: statistics data policy draft (sector only)"
+ },
+ {
+  "url": "https://acdd.gouv.cf/documents/loi-22-002-transactions-electroniques.pdf",
+  "title": "Loi 22.002 régissant les transactions électroniques",
+  "publisher": "République Centrafricaine",
+  "published": "2022-01-11",
+  "sub_indicator": "standards",
+  "why": "Q3: EDI standard"
+ },
+ {
+  "url": "https://centrafriqueinfos.com/rca-gouvernement-accelere-strategie-batir-administration-numerique/",
+  "title": "RCA : le gouvernement accélère sa stratégie pour bâtir une administration numérique",
+  "publisher": "Centrafrique Infos",
+  "published": "2026-08-30",
+  "sub_indicator": "standards",
+  "why": "Q1: roadmap validated"
+ }
+]

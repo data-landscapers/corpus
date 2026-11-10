@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://bidsfactory.com/en/tenders/assistance-technique-pour-la-realisation-darchitec-OP00444543",
+  "title": "Technical Assistance for the implementation of a target global architecture for all public finance related systems: Architecture and interoperability",
+  "publisher": "World Bank / BidsFactory",
+  "published": "2026-05-12",
+  "sub_indicator": "framework",
+  "why": "Q1-2: framework being written, contract awarded 2026-04-22"
+ },
+ {
+  "url": "https://expertise-france.gestmax.fr/international/16150/1/safe-rca-expert-e-local-e-en-informatique-h-f",
+  "title": "SAFE RCA - Expert(e) Local(e) en Informatique",
+  "publisher": "Expertise France",
+  "published": "2026-09-04",
+  "sub_indicator": "framework",
+  "why": "Q1/Q4: target interoperability architecture being defined at finance ministry"
+ },
+ {
+  "url": "https://www.developmentaid.org/tenders/view/1572854/car-public-sector-digital-governance-project-assistance-technique-pour-la-realisation-darchitecture",
+  "title": "CAR- Public Sector Digital Governance Project: architecture et interopérabilité (avis)",
+  "publisher": "Ministère des Finances et du Budget / DevelopmentAid",
+  "published": "2025-11-19",
+  "sub_indicator": "framework",
+  "why": "Q1: call to define an interoperability framework"
+ },
+ {
+  "url": "https://centrafriqueinfos.com/rca-gouvernement-accelere-strategie-batir-administration-numerique/",
+  "title": "RCA : le gouvernement accélère sa stratégie pour bâtir une administration numérique",
+  "publisher": "Centrafrique Infos",
+  "published": "2026-08-30",
+  "sub_indicator": "framework",
+  "why": "Q1: digital roadmap validated"
+ },
+ {
+  "url": "https://finances.gouv.cf/sites/default/files/2025-03/Plan%20e-Finances%20publiques-Note%20de%20cadrage-Pr%C3%A9sentation%2026%20mars%202025%20%281%29.pdf",
+  "title": "Plan e-Finances publiques - Note de cadrage",
+  "publisher": "Ministère des Finances et du Budget",
+  "published": "2025-03-26",
+  "sub_indicator": "framework",
+  "why": "Q1: roadmap action to strengthen interoperability of databases"
+ },
+ {
+  "url": "https://digitaldevelopmentcompass.undp.org/country/CAF",
+  "title": "Central African Republic - Digital Development Compass",
+  "publisher": "UNDP",
+  "published": "",
+  "sub_indicator": "framework",
+  "why": "Q1: no government interoperability framework"
+ },
+ {
+  "url": "https://www.menpt.cf/pgnsp.html",
+  "title": "PGNSP",
+  "publisher": "MENPT",
+  "published": "",
+  "sub_indicator": "framework",
+  "why": "Q1: interoperability between administrations as project aim"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/283361648600399938/pdf/Central-African-Republic-Public-Sector-Digital-Governance-Project.pdf",
+  "title": "CAR Public Sector Digital Governance Project appraisal",
+  "publisher": "World Bank",
+  "published": "2022",
+  "sub_indicator": "framework",
+  "why": "Q1: lacks shared architecture and interoperability layers"
+ }
+]

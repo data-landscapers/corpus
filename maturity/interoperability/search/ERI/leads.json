@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://digitalidentityindex.com/countries/eritrea/govtech/",
+  "title": "Eritrea - The Global Digital Identity Index (GovTech)",
+  "publisher": "Global Digital Identity Index",
+  "published": "",
+  "sub_indicator": "framework",
+  "why": "Q1: records no government interoperability framework (I-3: No)"
+ },
+ {
+  "url": "https://www.undp.org/eritrea/news/eritrea-launches-landmark-digital-customs-system-modernizing-trade",
+  "title": "Eritrea Launches Landmark Digital Customs System, Modernizing Trade",
+  "publisher": "UNDP Eritrea",
+  "published": "2026-01-08",
+  "sub_indicator": "framework",
+  "why": "Q4 context: customs stations interconnected on ASYCUDA World intranet; no framework named"
+ },
+ {
+  "url": "https://pfmsmartsys.com/en/news/pfm_smart_completes_final_ifmis_testing_and_rollout_planning_in_eritrea",
+  "title": "PFM Smart Completes Final IFMIS Testing and Rollout Planning in Eritrea",
+  "publisher": "PFM Smart Systems",
+  "published": "2025-12-12",
+  "sub_indicator": "framework",
+  "why": "Q1/Q4 context: IFMIS phased rollout across government institutions; any framework named"
+ },
+ {
+  "url": "https://dtri.uneca.org/v1/uploads/country-profile/eri-country-profile-en.pdf",
+  "title": "Eritrea country profile, Digital Trade Regulatory Index",
+  "publisher": "UNECA DTRI",
+  "published": "2022",
+  "sub_indicator": "framework",
+  "why": "Q1: whether any regulatory framework for government data exchange is recorded"
+ }
+]

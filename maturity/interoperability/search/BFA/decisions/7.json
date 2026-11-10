@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "framework",
+ "aspect": "standing",
+ "fact": "On 21 January 2021 the DGTIC presented the référentiel général d'interopérabilité (interoperability process schema, framework and guide, exchange formats) to students at ESI Bobo-Dioulasso.",
+ "title": "Grande mobilisation des étudiants de l'ESI à la conférence sur les référentiels et stratégies nationales sur le numérique",
+ "publisher": "Ministère de la Transition Digitale, des Postes et des Communications Électroniques",
+ "published": "2021-01-22",
+ "date_source": "source",
+ "why_not": "misfiled: the fetched body is a Wayback copy whose URL differs from the lead (lint-staged-queue, 2026-11-10)"
+}

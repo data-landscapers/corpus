@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "standards",
+ "aspect": "standing",
+ "fact": "Equatorial Guinea has no national interoperability framework, the enterprise architecture to underpin greater interoperability is inadequate and incomplete, and there is no interoperability platform or data exchange layer (World Bank, 2024).",
+ "title": "Equatorial Guinea Digital Economy Diagnostic",
+ "publisher": "World Bank Group",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

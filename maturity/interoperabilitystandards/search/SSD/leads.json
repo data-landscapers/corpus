@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://media.eusl.eu/wp-content/uploads/sites/82/2025/07/03.-SUDESA-Project-Plan.pdf",
+  "title": "SUDESA Project Plan",
+  "publisher": "EUSL / SUDESA",
+  "published": "2025-07",
+  "sub_indicator": "standards",
+  "why": "Q1: planned interoperability standards"
+ },
+ {
+  "url": "https://media.eusl.eu/wp-content/uploads/sites/82/2025/07/01.-Strategic-Framework-for-the-Digital-Transformation-of-South-Sudan.pdf",
+  "title": "SUDESA: A strategic Framework",
+  "publisher": "EUSL / SUDESA",
+  "published": "2025-07",
+  "sub_indicator": "standards",
+  "why": "Q1: open interoperability standards mandated"
+ },
+ {
+  "url": "https://www.sudanspost.com/rigid-government-institutions-given-ultimatum-to-digitize-by-january-2026/",
+  "title": "Rigid government institutions given ultimatum to digitize by January 2026",
+  "publisher": "Sudans Post",
+  "published": "2025-12-19",
+  "sub_indicator": "standards",
+  "why": "Q3: enforcing technical standards"
+ },
+ {
+  "url": "https://www.nca.gov.ss/news/categories/circulars",
+  "title": "Circulars",
+  "publisher": "National Communication Authority",
+  "published": "",
+  "sub_indicator": "standards",
+  "why": "Q3: mandated integration with e-Service platform"
+ },
+ {
+  "url": "https://www.sudanspost.com/what-is-actually-functioning-as-dpi-in-south-sudan/",
+  "title": "What is actually functioning as DPI in South Sudan",
+  "publisher": "Sudans Post",
+  "published": "2026-01-20",
+  "sub_indicator": "standards",
+  "why": "Q1: standards inconsistently applied"
+ },
+ {
+  "url": "https://sshia.org/press-releases/sshia-welcomes-adoption-of-national-data-standards-framework",
+  "title": "SSHIA Welcomes Adoption of National Data Standards Framework",
+  "publisher": "SSHIA",
+  "published": "2026-08-09",
+  "sub_indicator": "standards",
+  "why": "health-only standards"
+ },
+ {
+  "url": "https://sudesa.gsca.world/about/",
+  "title": "About - South Sudan Development and Social Equity Agency",
+  "publisher": "SUDESA",
+  "published": "2025-08-17",
+  "sub_indicator": "standards",
+  "why": "Q1: oversee interoperability standards"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099041923165042300/pdf/P1761810d762fd0c0a0f6073ddaa76d2e6.pdf",
+  "title": "Stakeholder Engagement Plan (Draft) EA-RDIP",
+  "publisher": "World Bank",
+  "published": "2023",
+  "sub_indicator": "standards",
+  "why": "Q1: backend interoperability"
+ }
+]

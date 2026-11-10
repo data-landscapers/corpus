@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://techreviewafrica.com/news/5564/the-gambia-validates-national-enterprise-architecture-framework-under-govstack-initiative",
+  "title": "The Gambia validates National Enterprise Architecture framework under GovStack initiative",
+  "publisher": "TechReviewAfrica",
+  "published": "2026-05-22",
+  "sub_indicator": "framework",
+  "why": "Q1-2: national enterprise architecture validated May 2026"
+ },
+ {
+  "url": "https://www.voicegambia.com/gambia-validates-digital-blueprint-to-drive-e-government-reforms/",
+  "title": "Gambia Validates Digital Blueprint to Drive E-Government Reforms",
+  "publisher": "The Voice Gambia",
+  "published": "2026-05-21",
+  "sub_indicator": "framework",
+  "why": "Q1-2: EA validation, common standards/interoperability"
+ },
+ {
+  "url": "https://unctad.org/system/files/non-official-document/ecn162026_s08_ai_gambia_en.pdf",
+  "title": "Science, Technology and Innovation in the Age of AI",
+  "publisher": "The Gambia (UNCTAD CSTD submission)",
+  "published": "2026",
+  "sub_indicator": "framework",
+  "why": "Q2/Q4: EA framework led by GICTA ensuring interoperability"
+ },
+ {
+  "url": "https://www.worldbank.org/en/results/2024/03/28/afw-transformative-journey-of-mass-birth-registration-and-health-insurance-in-the-gambia",
+  "title": "A Transformative Journey of Mass Birth Registration and Health Insurance in The Gambia",
+  "publisher": "World Bank",
+  "published": "2024-03-28",
+  "sub_indicator": "framework",
+  "why": "Q4: interoperability document, MoU between ministries"
+ },
+ {
+  "url": "https://ovp.gov.gm/wp-content/uploads/2023/10/E-GOVERNMENT-STRATEGY.pdf",
+  "title": "E-Government Strategy 2021-2024",
+  "publisher": "Government of The Gambia",
+  "published": "2020",
+  "sub_indicator": "framework",
+  "why": "Q1: calls for an e-GIF"
+ },
+ {
+  "url": "https://www.iidia.org/the-gambia-launches-bantaba-2-0-its-first-real-time-interoperable-payment-system/",
+  "title": "The Gambia Launches BANTABA 2.0",
+  "publisher": "Institute for Inclusive Digital Africa",
+  "published": "2025-12-15",
+  "sub_indicator": "framework",
+  "why": "Platform only; noted"
+ },
+ {
+  "url": "https://mocde.gov.gm/wp-content/uploads/2023/10/Final-The-Gambia-Digital-Economy-Master-Plan-2023-20233.pdf",
+  "title": "National Digital Economy Master Plan 2023-2033",
+  "publisher": "Ministry of Communications and Digital Economy",
+  "published": "2023",
+  "sub_indicator": "framework",
+  "why": "Q1: interoperability platform ambition"
+ },
+ {
+  "url": "https://thedocs.worldbank.org/en/doc/1f7221545bf1b7c89b850dd85cb409b0-0400072021/related/The-Gambia-Digital-Economy-Diagnostic-Report-Final.pdf",
+  "title": "The Gambia Digital Economy Diagnostic",
+  "publisher": "World Bank",
+  "published": "2021",
+  "sub_indicator": "framework",
+  "why": "Q1: absence of NEA and interoperability framework"
+ }
+]

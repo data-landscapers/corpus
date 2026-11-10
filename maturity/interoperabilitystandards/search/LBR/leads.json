@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://odti-lr.net/executive-order-163",
+  "title": "Executive Order No. 163",
+  "publisher": "Republic of Liberia, OTDI",
+  "published": "2026-04",
+  "sub_indicator": "standards",
+  "why": "Q1-3: OTDI interoperability standards authority, technical clearance"
+ },
+ {
+  "url": "https://www.emansion.gov.lr/sites/default/files/documents/26-7-17-%20OFFICE%20OF%20TECHNOLOGY%20,%20DIGITALIZATION%20AND%20INNOVATION%20%20TERMS%20OF%20REFERENCE%20(OTDI).pdf",
+  "title": "Office of Technology, Digitalization and Innovation Terms of Reference",
+  "publisher": "Ministry of State for Presidential Affairs",
+  "published": "2026",
+  "sub_indicator": "standards",
+  "why": "Q1,3: standards and clearance duties; adoption indicators"
+ },
+ {
+  "url": "https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf",
+  "title": "Draft National Data Governance Policy",
+  "publisher": "Ministry of Posts and Telecommunications",
+  "published": "2026",
+  "sub_indicator": "standards",
+  "why": "Q1: national standards to be developed"
+ },
+ {
+  "url": "https://odti-lr.net/Liberia-National-Digital-Strategy.pdf",
+  "title": "Whole of Government National Digital Strategy 2025-2029",
+  "publisher": "Ministry of Posts and Telecommunications",
+  "published": "2025",
+  "sub_indicator": "standards",
+  "why": "Q1: APIs not standardized"
+ },
+ {
+  "url": "https://mopt.gov.lr/wp-content/uploads/2022/06/NATIONAL-ICT-POLICY2025-2030Draft-1-Jan-7-2025.docx.pdf",
+  "title": "National ICT Policy 2025-2030 (Draft)",
+  "publisher": "Ministry of Posts and Telecommunications",
+  "published": "2025-01",
+  "sub_indicator": "standards",
+  "why": "Q1,3: CIO to set common standards year 1"
+ },
+ {
+  "url": "https://lisa.gov.lr/national-standards/",
+  "title": "National Standards",
+  "publisher": "Liberia Standards Authority",
+  "published": "2025-12-17",
+  "sub_indicator": "standards",
+  "why": "Q2: national standards body listing"
+ },
+ {
+  "url": "https://www.liberianobserver.com/news/boakai-s-executive-order-163-signals-digital-government-shift/article_7a31a87b-4fe2-4578-9ff7-b0224f3bf36a.html",
+  "title": "Boakai's Executive Order 163 Signals Digital Government Shift",
+  "publisher": "Liberian Observer",
+  "published": "2026-04-29",
+  "sub_indicator": "standards",
+  "why": "Q3: technical clearance requirement"
+ },
+ {
+  "url": "https://www.emansion.gov.lr/media/press-release/president-boakai-issues-landmark-executive-order-no-163-launch-national",
+  "title": "President Boakai Issues Landmark Executive Order No: 163",
+  "publisher": "The Executive Mansion",
+  "published": "2026-04-28",
+  "sub_indicator": "standards",
+  "why": "Q1: government-wide technical standards"
+ }
+]

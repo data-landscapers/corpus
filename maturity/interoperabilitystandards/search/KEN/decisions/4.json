@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "standards",
+ "aspect": "standing",
+ "fact": "The ICT Authority's Government Systems and Applications Standard (third edition, ICTA.6.003:2023), approved by its Board on 3 May 2023 and effective 1 July 2023, covers interoperability, systems integration and an interoperability framework for MCDAs, with ICTA auditing compliance and issuing compliance certificates.",
+ "title": "Government ICT Standards: Systems & Applications Standard",
+ "publisher": "ICT Authority",
+ "published": "2023-05-03",
+ "date_source": "source",
+ "why_not": ""
+}

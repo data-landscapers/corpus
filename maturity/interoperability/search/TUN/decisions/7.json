@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "framework",
+ "aspect": "standing;use",
+ "fact": "Decree-law 2020-31 of 10 June 2020 provides that interoperability between public bodies is exclusively ensured through the interoperability platform, names the Centre national de l'informatique as operator, and bars bodies from asking users for data they hold or reach through the platform.",
+ "title": "Décret-loi du Chef du Gouvernement n° 2020-31 du 10 juin 2020, relatif à l'échange électronique des données entre les structures et leurs usagers et entre les structures",
+ "publisher": "Journal Officiel de la République Tunisienne n° 54",
+ "published": "2020-06-10",
+ "date_source": "source",
+ "why_not": ""
+}

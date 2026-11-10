@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.linkedin.com/posts/north-node-consulting-limited_digitalzambia-zambiadpi-zegea-activity-7443309741658755072-2GB8",
+  "title": "ZEGEA Blueprint & DPI Roadmap drafts finalised",
+  "publisher": "North Node Consulting Limited",
+  "published": "2026-03-27",
+  "sub_indicator": "framework",
+  "why": "Q1: whole-of-government enterprise architecture and DPI roadmap drafted"
+ },
+ {
+  "url": "https://www.zambiamonitor.com/arusha-egovernment-forum-sharpens-rules-on-digital-projects-and-zambia-should-pay-attention/",
+  "title": "Arusha eGovernment forum sharpens rules on digital projects and Zambia should pay attention",
+  "publisher": "Zambia Monitor",
+  "published": "2026-03-12",
+  "sub_indicator": "framework",
+  "why": "Q2/Q3: SMART Zambia issued interoperability standard with compliance requirements"
+ },
+ {
+  "url": "https://theeditorzambia.com/2024/11/06/government-happy-with-enterprise-systems/",
+  "title": "Government happy with enterprise systems",
+  "publisher": "The Editor Zambia",
+  "published": "2024-11-06",
+  "sub_indicator": "framework",
+  "why": "Q4: project integrating government systems"
+ },
+ {
+  "url": "https://www.csis.org/analysis/approaches-digital-public-infrastructure-global-south",
+  "title": "Approaches to Digital Public Infrastructure in the Global South",
+  "publisher": "CSIS",
+  "published": "2024-08-26",
+  "sub_indicator": "framework",
+  "why": "Q3: 2023 regulations require interoperable systems"
+ },
+ {
+  "url": "https://media.zambialii.org/media/legislation/40749/source_file/a0f9a9fca1dadc67/zm-act-si-2023-43-publication-document.pdf",
+  "title": "The Electronic Government (General) Regulations, 2023 (SI 43 of 2023)",
+  "publisher": "Government of Zambia",
+  "published": "2023",
+  "sub_indicator": "framework",
+  "why": "Q3: binding duty on public bodies to maintain interoperable systems and use GSB"
+ },
+ {
+  "url": "https://api.oecd.ai/storage/policy-initiatives/Jul2025/fu_c5qdvrhsmxejmep.pdf",
+  "title": "National Electronic Government Plan 2023-2026",
+  "publisher": "Government of Zambia",
+  "published": "2023",
+  "sub_indicator": "framework",
+  "why": "Q2/Q4: eGov interoperability standards developed; compliance partial"
+ },
+ {
+  "url": "https://spdci.org/wp-content/uploads/2022/12/Dialogue-series-Zambian-Story.pdf",
+  "title": "Talking Interoperability: the Zambian story",
+  "publisher": "SPDCI",
+  "published": "2022",
+  "sub_indicator": "framework",
+  "why": "Q3/Q4: compliance enforced through systems verification and approval"
+ },
+ {
+  "url": "https://policyvault.africa/wp-content/uploads/policy/ZMB588.pdf",
+  "title": "E-Government Interoperability Standard",
+  "publisher": "e-Government Division, Office of the President",
+  "published": "2019",
+  "sub_indicator": "framework",
+  "why": "Q1/Q2: first edition interoperability standard issued Feb 2019"
+ }
+]

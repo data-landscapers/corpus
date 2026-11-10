@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://asin.bj/article/73/billet-juridique-cadre-interoperabilite-benin/",
+  "title": "Billet juridique sur le cadre d'interopérabilité du Bénin",
+  "publisher": "ASIN",
+  "published": "2026-07-28",
+  "sub_indicator": "law",
+  "why": "Q2: decree 2020-209 in force"
+ },
+ {
+  "url": "https://lanation.bj/actualites/plateforme-nationale-dinteroperabilite-lultime-etape-vers-une-administration-intelligente",
+  "title": "Plateforme nationale d'interopérabilité : l'ultime étape vers une administration intelligente",
+  "publisher": "La Nation",
+  "published": "2020-03-19",
+  "sub_indicator": "law",
+  "why": "Q1-2: decree adopted"
+ },
+ {
+  "url": "https://cio-mag.com/le-benin-installe-les-membres-de-son-comite-national-dinteroperabilite/",
+  "title": "Le Bénin installe les membres de son Comité national d'interopérabilité",
+  "publisher": "CIO Mag",
+  "published": "2020-09-23",
+  "sub_indicator": "law",
+  "why": "Q2: committee under decree"
+ },
+ {
+  "url": "https://archive.apdp.bj/wp-content/uploads/2022/06/PRESENTATION_DPO_INTEROPERABILITE-AU-BENIN.pdf",
+  "title": "Interopérabilité au Bénin (présentation DPO)",
+  "publisher": "APDP",
+  "published": "2022",
+  "sub_indicator": "law",
+  "why": "Q2: Digital Code arts 278 and 282 and decree"
+ },
+ {
+  "url": "https://www.xroad.bj/gouvernance/structure-de-coordination/",
+  "title": "XROAD BJ - Structure de coordination",
+  "publisher": "XROAD BJ",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q3: decree duties"
+ },
+ {
+  "url": "https://xroad.bj/presentation/devenir-membre/",
+  "title": "XROAD BJ - Devenir membre",
+  "publisher": "XROAD BJ",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q3: participants must comply with decree"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202506/benin-shares-its-x-road-inspired-dpi-interoperability-experience-in-peer-learning-webinar",
+  "title": "Benin shares its X-Road-inspired DPI interoperability experience",
+  "publisher": "Biometric Update",
+  "published": "2025-06-23",
+  "sub_indicator": "law",
+  "why": "Q4: legal frameworks enforce interoperability"
+ },
+ {
+  "url": "https://www.ecofinagency.com/news-digital/2007-57550-benin-launches-national-digital-public-infrastructure-roadmap",
+  "title": "Benin Launches National Digital Public Infrastructure Roadmap",
+  "publisher": "Ecofin Agency",
+  "published": "2026-07-20",
+  "sub_indicator": "law",
+  "why": "Q1: Once Only roadmap, no law"
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.agenceecofin.com/actualites-numerique/1910-142552-congo-la-numerisation-de-l-administration-face-au-defi-de-l-interoperabilite",
+  "title": "Congo : la numérisation de l'administration face au défi de l'interopérabilité",
+  "publisher": "Agence Ecofin",
+  "published": "2026-10-19",
+  "sub_indicator": "framework",
+  "why": "Q1/Q2: gaps in interoperability frameworks found 2026"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202605/drc-seeks-consultant-for-ambitious-digital-transformation-dpi-project",
+  "title": "DRC seeks consultant for ambitious digital transformation, DPI project",
+  "publisher": "Biometric Update",
+  "published": "2026-05-06",
+  "sub_indicator": "framework",
+  "why": "Q1: interoperability framework to be developed by consultant"
+ },
+ {
+  "url": "https://www.ugptn.cd/en/components/c2",
+  "title": "Component 2 — Digital foundations",
+  "publisher": "UGPTN",
+  "published": "",
+  "sub_indicator": "framework",
+  "why": "Q1: interoperability standards and master plan under project"
+ },
+ {
+  "url": "https://doi.org/10.5281/zenodo.8344761",
+  "title": "eGIF4DRC: E-Government Interoperability Framework for DRC",
+  "publisher": "Zenodo",
+  "published": "2023-09-14",
+  "sub_indicator": "framework",
+  "why": "Q1: proposed eGIF (academic)"
+ },
+ {
+  "url": "https://kt.cd/2022/04/16/adoption-du-projet-des-normes-et-standards-du-numerique-applicable-au-secteur-public/",
+  "title": "Adoption du Projet des normes et standards du numérique applicable au secteur public",
+  "publisher": "Kinshasa Times",
+  "published": "2022-04-16",
+  "sub_indicator": "framework",
+  "why": "Q2/Q3: government adopted the draft incl. general interoperability reference"
+ },
+ {
+  "url": "https://medd.gouv.cd/atelier-sur-lelaboration-et-adoption-des-referentiels-numeriques-du-secteur-public-en-rdc/",
+  "title": "Atelier sur l'élaboration et adoption des référentiels numériques du secteur public en RDC",
+  "publisher": "MEDD-NEC",
+  "published": "2022-02-04",
+  "sub_indicator": "framework",
+  "why": "Q1/Q2: five books incl. référentiel général d'interopérabilité validated"
+ }
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://ande.gov.gn/normesetstandards/",
+  "title": "Normes et Standards",
+  "publisher": "ANDE",
+  "published": "",
+  "sub_indicator": "standards",
+  "why": "Q1/Q2: ANDE page of technological standards"
+ },
+ {
+  "url": "https://ande.gov.gn/cadre-et-referentiels/",
+  "title": "Cadre et Référentiels",
+  "publisher": "ANDE",
+  "published": "",
+  "sub_indicator": "standards",
+  "why": "Q1/Q2: interoperability norms procedures rules listed"
+ },
+ {
+  "url": "https://droitguineen.com/lois/decret-d-2026-160-prg-sgg-portant-adoption-du-referentiel-de-certification-des-reseaux-et",
+  "title": "Décret D/2026/160/PRG/SGG référentiel de certification des réseaux et SI",
+  "publisher": "Droitguinéen",
+  "published": "2026-05-21",
+  "sub_indicator": "standards",
+  "why": "Q3: public bodies required to comply with security reference (sector-limited)"
+ },
+ {
+  "url": "https://guineelex.com/decrets-arretes/decret-d-2026-0159-prg-sgg",
+  "title": "Décret D/2026/0159 audit, contrôle et certification des SI",
+  "publisher": "GuinéeLex",
+  "published": "2026-05-21",
+  "sub_indicator": "standards",
+  "why": "Q4: audit and certification against ARPT reference"
+ },
+ {
+  "url": "https://guineelex.com/decrets-arretes/decret-d-2023-232-prg-cnrd-sgg",
+  "title": "Décret D/2023/232 ANDE",
+  "publisher": "GuinéeLex",
+  "published": "2023-11-01",
+  "sub_indicator": "standards",
+  "why": "Q3: ministry to define technical specs and norms binding on public bodies; ANDE conformity opinion"
+ },
+ {
+  "url": "https://ande.gov.gn/file/2025/01/Strategie-Numerique_Guinee-2027_v1.2.pdf",
+  "title": "Stratégie Nationale de Digitalisation de l'Etat",
+  "publisher": "ANDE",
+  "published": "",
+  "sub_indicator": "standards",
+  "why": "Q1: initiative 4.3.6 to define standards and rules for interoperability"
+ },
+ {
+  "url": "https://www.ungm.org/Public/Notice/293128",
+  "title": "Country Engagement consultancy Guinea Information Mediation Building Block",
+  "publisher": "UNGM",
+  "published": "",
+  "sub_indicator": "standards",
+  "why": "Q1: national interoperability platform RFP preparation"
+ },
+ {
+  "url": "https://guineematin.com/2023/01/08/decret-les-attributions-lorganisation-et-le-fonctionnement-de-linstitut-guineen-de-normalisation-et-de-la-metrologie-ignm/",
+  "title": "Décret : attributions de l'Institut guinéen de normalisation et de la métrologie",
+  "publisher": "Guineematin",
+  "published": "2023-01-08",
+  "sub_indicator": "standards",
+  "why": "Q2: national standards body to draft and publish standards"
+ }
+]

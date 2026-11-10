@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://sys.portais.gov.ao/uploads/Td_R_Consultoria_para_Implementacao_da_Interoperabilidade_da_Administracao_Publica_1_13f0252ef0.pdf",
+  "title": "Termos de Referência: Consultoria para Implementação da Interoperabilidade da Administração Pública",
+  "publisher": "Projecto de Aceleração Digital de Angola (PADA)",
+  "published": "2026",
+  "sub_indicator": "standards",
+  "why": "Q1/Q2/Q4: technical guidelines set; common integration standards; absence of common norms"
+ },
+ {
+  "url": "https://www.digitalnation.eu/news-end/2025",
+  "title": "Delivering Digital Transformation in 2025",
+  "publisher": "Digital Nation",
+  "published": "2026-01-07",
+  "sub_indicator": "standards",
+  "why": "Q1/Q2: framework developed"
+ },
+ {
+  "url": "https://lex.ao/docs/presidente-da-republica/2024/decreto-presidencial-n-o-178-24-de-31-de-julho/",
+  "title": "Decreto Presidencial n.º 178/24 - Agenda de Transição Digital da Administração Pública",
+  "publisher": "Presidente da República / Diário da República",
+  "published": "2024-07-31",
+  "sub_indicator": "standards",
+  "why": "Q1/Q2: AR-eGov reference architecture sets standards"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099035306262338506/pdf/IDU038ba2ba80901c045390ab73083d0b51ad04a.pdf",
+  "title": "Angola digital government assessment (World Bank)",
+  "publisher": "World Bank Group",
+  "published": "2023",
+  "sub_indicator": "standards",
+  "why": "Q2/Q3: PNAGIA standards, slow deployment"
+ },
+ {
+  "url": "https://lex.ao/docs/presidente-da-republica/2021/decreto-presidencial-n-o-80-21-de-07-de-abril/",
+  "title": "Decreto Presidencial n.º 80/21 - Estatuto do IMA",
+  "publisher": "Presidente da República / Diário da República",
+  "published": "2021-04-07",
+  "sub_indicator": "standards",
+  "why": "Q3: IMA homologates technologies, checks conformity"
+ },
+ {
+  "url": "https://lex.ao/docs/presidente-da-republica/2019/decreto-presidencial-n-o-37-19-de-31-de-janeiro/",
+  "title": "Decreto Presidencial n.º 37/19",
+  "publisher": "Presidente da República / Diário da República",
+  "published": "2019-01-31",
+  "sub_indicator": "standards",
+  "why": "Q3/Q4: ministry certifies technical conformity of public ICT projects"
+ },
+ {
+  "url": "https://c2a.portais.gov.ao/uploads/Td_R_Quadro_para_Governanca_do_Governo_Digital_e_IA_para_o_sector_publico_0f77a4dd9f.pdf",
+  "title": "Termos de Referência: Quadro de Governança Digital e IA para o Sector Público",
+  "publisher": "Instituto de Modernização Administrativa",
+  "published": "2026",
+  "sub_indicator": "standards",
+  "why": "Q1: fragmentation, limited standardisation"
+ }
+]

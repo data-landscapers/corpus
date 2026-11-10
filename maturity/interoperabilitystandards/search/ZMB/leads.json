@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.zambiamonitor.com/arusha-egovernment-forum-sharpens-rules-on-digital-projects-and-zambia-should-pay-attention/",
+  "title": "Arusha eGovernment forum sharpens rules on digital projects and Zambia should pay attention",
+  "publisher": "Zambia Monitor",
+  "published": "2026-03-12",
+  "sub_indicator": "standards",
+  "why": "Q2/Q3: SMART Zambia issued interoperability standards"
+ },
+ {
+  "url": "https://www.linkedin.com/posts/north-node-consulting-limited_digitalzambia-zambiadpi-zegea-activity-7443309741658755072-2GB8",
+  "title": "ZEGEA Blueprint & DPI Roadmap drafts finalised",
+  "publisher": "North Node Consulting Limited",
+  "published": "2026-03-27",
+  "sub_indicator": "standards",
+  "why": "Q1: enterprise architecture blueprint drafted"
+ },
+ {
+  "url": "https://media.zambialii.org/media/legislation/40749/source_file/a0f9a9fca1dadc67/zm-act-si-2023-43-publication-document.pdf",
+  "title": "The Electronic Government (General) Regulations, 2023 (SI 43 of 2023)",
+  "publisher": "Government of Zambia",
+  "published": "2023",
+  "sub_indicator": "standards",
+  "why": "Q3: reg 12 ICT infrastructure must meet Division's standards; reg 14 audits"
+ },
+ {
+  "url": "https://api.oecd.ai/storage/policy-initiatives/Jul2025/fu_c5qdvrhsmxejmep.pdf",
+  "title": "National Electronic Government Plan 2023-2026",
+  "publisher": "Government of Zambia",
+  "published": "2023",
+  "sub_indicator": "standards",
+  "why": "Q2/Q4: standards developed, public bodies not complying"
+ },
+ {
+  "url": "https://www.parliament.gov.zm/sites/default/files/documents/committee_reports/Report%20of%20the%20Committee%20on%20Cabinet%20Affairs%20on%20the%20Review%20of%20the%20Operations%20and%20Managementof%20%20SMART%20Zambia%20for%20the%20Third%20Session%20of%20the%20Thirteenth%20National%20Assembly.pdf",
+  "title": "Report of the Committee on Cabinet Affairs on the Review of SMART Zambia",
+  "publisher": "National Assembly of Zambia",
+  "published": "",
+  "sub_indicator": "standards",
+  "why": "Q3: Regulation 12 mandates standards"
+ },
+ {
+  "url": "https://tradecca.thecommonwealth.org/policy-repository/eight-8-public-service-ict-standards/",
+  "title": "Public Service ICT Standards",
+  "publisher": "Commonwealth Trade CCA",
+  "published": "",
+  "sub_indicator": "standards",
+  "why": "Q2: Cabinet approved standards Feb 2019"
+ },
+ {
+  "url": "https://policyvault.africa/wp-content/uploads/policy/ZMB588.pdf",
+  "title": "E-Government Interoperability Standard",
+  "publisher": "e-Government Division, Office of the President",
+  "published": "2019",
+  "sub_indicator": "standards",
+  "why": "Q1/Q2: standard issued Feb 2019 with annual audit"
+ },
+ {
+  "url": "https://www.szi.gov.zm/?p=324",
+  "title": "SZI Clearance of ZISPIS system for Ministry of Community Development and Social Services",
+  "publisher": "SMART Zambia Institute",
+  "published": "",
+  "sub_indicator": "standards",
+  "why": "Q4: system validated before use"
+ }
+]

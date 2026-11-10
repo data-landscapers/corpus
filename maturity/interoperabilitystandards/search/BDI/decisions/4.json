@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "off-topic: health-sector standards only (HL7 FHIR workshop), a one-sector standard noted not staged"
+}

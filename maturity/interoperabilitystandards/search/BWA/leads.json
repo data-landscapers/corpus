@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/digital_services_ACT.pdf",
+  "title": "Digital Services Act, 2025 (Act No. 22 of 2025)",
+  "publisher": "Government of Botswana / Parliament",
+  "published": "2025",
+  "sub_indicator": "standards",
+  "why": "Q1-Q3: s.8(1)(t), 31(4) Authority issues open technical and data standards"
+ },
+ {
+  "url": "https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/2026%20MCI%20COMMITTEE%20OF%20SUPPLY%20-%20%2016%2003%202026%20REVISED%20FINAL%20(%20Hon%20Minister)%201.pdf",
+  "title": "Presented to the Committee of Supply (Ministry of Communications and Innovation)",
+  "publisher": "Ministry of Communications and Innovation",
+  "published": "2026-03-16",
+  "sub_indicator": "standards",
+  "why": "Q2-Q3: Act sets standards for system interoperability"
+ },
+ {
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13184611/",
+  "title": "Developing a National eHealth Enterprise Architecture in Botswana",
+  "publisher": "PMC",
+  "published": "2026-04-28",
+  "sub_indicator": "standards",
+  "why": "Q1-Q3: mandates HL7 FHIR"
+ },
+ {
+  "url": "https://build.fhir.org/ig/jembi/botswana-hie-fhir-ig/branches/__default/Requirements-InteroperabilityLayerRequirements.html",
+  "title": "Interoperability Layer Requirements - Botswana FHIR Implementation Guide v1.0.0",
+  "publisher": "HL7 / Jembi",
+  "published": "2026-10-13",
+  "sub_indicator": "standards",
+  "why": "Q1-Q2: FHIR IG"
+ },
+ {
+  "url": "https://www.jembi.org/post/botswana-fhir-training",
+  "title": "Botswana FHIR Training",
+  "publisher": "Jembi Health Systems",
+  "published": "2023-10-31",
+  "sub_indicator": "standards",
+  "why": "Q1: FHIR IG drafted at workshop"
+ }
+]

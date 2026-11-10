@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://doseco.cd/2026/06/01/rdc-le-gouvernement-adopte-le-decret-portant-creation-du-guichet-numerique/",
+  "title": "RDC : le gouvernement adopte le décret portant création du Guichet Numérique",
+  "publisher": "DosEco",
+  "published": "2026-06-01",
+  "sub_indicator": "law",
+  "why": "Q1: decree for interoperable access to public services"
+ },
+ {
+  "url": "https://actualite.cd/2026/06/12/assemblee-nationale-venance-eyanga-et-patrick-namazihana-deposent-une-proposition-de-loi",
+  "title": "Proposition de loi sur l'identification des personnes physiques",
+  "publisher": "Actualite.cd",
+  "published": "2026-06-12",
+  "sub_indicator": "law",
+  "why": "Q1: bill mandating interoperability of public systems"
+ },
+ {
+  "url": "https://droitnumerique.cd/code-du-numerique-congolais-rdc-pdf/livre-iii-titre-i/",
+  "title": "Code du numérique, Livre III Titres I et II",
+  "publisher": "Droit-Numérique.cd",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q1/Q2: art 173 interoperability framework by decree"
+ },
+ {
+  "url": "https://adn.cd/fr/public/uploads/documents/04042023-ordonnance-loi-23-010-du-13-mars-portant-code-du-numerique_-20260428165554-17bd996a.pdf",
+  "title": "Ordonnance-loi n° 23/010 du 13 mars 2023 portant Code du numérique",
+  "publisher": "ADN / Journal officiel",
+  "published": "2023",
+  "sub_indicator": "law",
+  "why": "Q2/Q3: arts 38-41 administrations exchange data electronically"
+ },
+ {
+  "url": "https://actualite.cd/index.php/2022/07/17/rdc-le-gouvernement-adopte-le-projet-de-decret-portant-gestion-des-centres-des-donnees",
+  "title": "Le Gouvernement adopte le projet de décret portant gestion des centres des données nationaux",
+  "publisher": "Actualite.cd",
+  "published": "2022-07-17",
+  "sub_indicator": "law",
+  "why": "Q1: draft decree on interconnection norms"
+ },
+ {
+  "url": "https://avocats.cd/blog/analyse-du-code-du-numerique-10-le-regime-dhomologation",
+  "title": "Analyse du Code du Numérique #10 : Le régime d'homologation",
+  "publisher": "Avocats.cd",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q4: implementing orders status 2026"
+ }
+]

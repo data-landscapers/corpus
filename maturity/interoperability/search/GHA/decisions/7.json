@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "framework",
+ "aspect": "standing;use",
+ "fact": "The eGIF project launched in 2009 to build a national data exchange hub stalled for lack of funding and unclear implementation mandates, and the roadmap's legislation to compel ministries, departments and agencies to use it has been very slow, with the Ministry's 2019 and 2022 bids for a National Data Exchange Hub of unclear status.",
+ "title": "Ghana_01 (Ghana data exchange country study)",
+ "publisher": "DIAL",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

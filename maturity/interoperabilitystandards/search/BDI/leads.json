@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://www.setic.gov.bi/actualites/sgltygwbq35sstj8hn7xxsqw",
+  "title": "Retraite technique de concertations nationales sur les normes applicables dans le secteur des TIC",
+  "publisher": "SETIC",
+  "published": "2026-10-07",
+  "sub_indicator": "standards",
+  "why": "Q1: national consultation on ICT standards"
+ },
+ {
+  "url": "https://www.setic.gov.bi/actualites/e6jumc74pp2ysp5flt7wveer",
+  "title": "Retraite d'identification et de classification des normes applicables dans le secteur du numérique",
+  "publisher": "SETIC",
+  "published": "2026-09-21",
+  "sub_indicator": "standards",
+  "why": "Q1: standards identification and classification"
+ },
+ {
+  "url": "https://www.setic.gov.bi/documents?category=roi76axhz0aqs7vsd753ghkk",
+  "title": "Concept type des systèmes d'information des institutions publiques",
+  "publisher": "SETIC",
+  "published": "2026-09-23",
+  "sub_indicator": "standards",
+  "why": "Q1-2: CTSIIP posted"
+ },
+ {
+  "url": "https://www.ecofinagency.com/news-digital/1304-54616-burundi-moves-to-make-fragmented-health-data-systems-interoperable",
+  "title": "Burundi Moves to Make Fragmented Health Data Systems Interoperable",
+  "publisher": "Ecofin Agency",
+  "published": "2026-04-13",
+  "sub_indicator": "standards",
+  "why": "Q1: common technical standards incl. HL7 FHIR (health only)"
+ },
+ {
+  "url": "https://www.burunditimes.com/burundi-upgrades-payment-system-to-international-iso-20022-standard/",
+  "title": "Burundi upgrades Payment System to international ISO 20022 Standard",
+  "publisher": "Burundi Times",
+  "published": "2026-02-05",
+  "sub_indicator": "standards",
+  "why": "Q2: ISO 20022 migration (payments only)"
+ }
+]

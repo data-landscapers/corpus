@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.imedias.net/guinee-letat-mise-sur-linterconnexion-pour-reformer-son-administration/",
+  "title": "Guinée : l'État mise sur l'interconnexion pour réformer son administration",
+  "publisher": "iMédias",
+  "published": "2026-08-20",
+  "sub_indicator": "framework",
+  "why": "Q1/Q4: X-Road national interoperability platform shown to PM; interministerial committee announced"
+ },
+ {
+  "url": "https://www.guineequotidien.com/2026/08/20/guinee-modernisation-de-ladministration-le-ministre-faya-francois-bourouno-presente-deux-plateformes-au-premier-ministre/",
+  "title": "Modernisation de l'Administration : le Ministre présente deux plateformes au premier Ministre",
+  "publisher": "Guinée Quotidien",
+  "published": "2026-08-20",
+  "sub_indicator": "framework",
+  "why": "Q1/Q4: state of X-Road operationalisation presented"
+ },
+ {
+  "url": "https://lecourrierdeconakry.com/2026/04/10/conakry-fin-de-latelier-sur-e-services-et-interoperabilite-des-systemes-publics/",
+  "title": "Conakry : fin de l'atelier sur e-services et interopérabilité des systèmes publics",
+  "publisher": "Le Courrier de Conakry",
+  "published": "2026-04-10",
+  "sub_indicator": "framework",
+  "why": "Q1: workshop closing, interoperability roadmap work"
+ },
+ {
+  "url": "https://www.wardip-guinee.org.gn/cloture-atelier-de-digitalisation-des-services-publics-en-guinee",
+  "title": "Clôture Atelier de Digitalisation des services publics en Guinée",
+  "publisher": "WARDIP Guinée",
+  "published": "2026-04",
+  "sub_indicator": "framework",
+  "why": "Q1: roadmap for interoperability of public systems and reference architecture defined at April 2026 workshop"
+ },
+ {
+  "url": "https://ande.gov.gn/file/2025/01/Strategie-Numerique_Guinee-2027_v1.2.pdf",
+  "title": "Stratégie Nationale de Digitalisation de l'Etat et de Développement de l'Economie Numérique",
+  "publisher": "ANDE",
+  "published": "",
+  "sub_indicator": "framework",
+  "why": "Q1: initiative 4.3.2 to draw up an interoperability reference and guide; 4.9.1 government enterprise architecture"
+ },
+ {
+  "url": "https://ande.gov.gn/cadre-et-referentiels/",
+  "title": "Cadre et Référentiels",
+  "publisher": "ANDE",
+  "published": "",
+  "sub_indicator": "framework",
+  "why": "Q1/Q2: ANDE page listing Normes Procédures Règles d'Interopérabilité des SI"
+ },
+ {
+  "url": "https://guineelex.com/decrets-arretes/decret-d-2023-232-prg-cnrd-sgg",
+  "title": "Décret D/2023/232 portant amendement du décret créant l'ANDE",
+  "publisher": "GuinéeLex",
+  "published": "2023-11-01",
+  "sub_indicator": "framework",
+  "why": "Q3: ANDE tasked with coherence of state systems; ministry to set norms for public bodies"
+ },
+ {
+  "url": "https://www.sgg.gov.gn/document/conseil-ministre-detail/45",
+  "title": "Compte Rendu du Conseil des Ministres du 11 mai 2023",
+  "publisher": "Secrétariat Général du Gouvernement",
+  "published": "2023-05-11",
+  "sub_indicator": "framework",
+  "why": "Q1: Head of State orders interoperability of government information systems"
+ }
+]

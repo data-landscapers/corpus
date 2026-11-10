@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://lanation.bj/actualites/transformation-numerique-de-letat-un-cadre-commun-pour-ses-systemes-dinformation-en-preparation",
+  "title": "Transformation numérique de l'État : un cadre commun pour ses systèmes d'information en préparation",
+  "publisher": "La Nation",
+  "published": "2026-07-01",
+  "sub_indicator": "standards",
+  "why": "Q1: PASI draft sets standards"
+ },
+ {
+  "url": "https://firstafriquetv.bj/numerique-le-benin-harmonise-ses-systemes-dinformation/",
+  "title": "Numérique : le Bénin harmonise ses systèmes d'information",
+  "publisher": "First Afrique",
+  "published": "2026-07-01",
+  "sub_indicator": "standards",
+  "why": "Q1: PASI and PDAIE consultation"
+ },
+ {
+  "url": "https://lamarina.bj/2026/07/28/benin-lasin-rappelle-les-regles-dacces-a-la-plateforme-nationale-dinteroperabilite/",
+  "title": "Bénin : l'ASIN rappelle les règles d'accès à la plateforme nationale d'interopérabilité",
+  "publisher": "La Marina",
+  "published": "2026-07-28",
+  "sub_indicator": "standards",
+  "why": "Q2-3: API standards required to connect"
+ },
+ {
+  "url": "https://www.lanation.bj/numerique/interoperabilite-au-benin-les-regles-dacces-a-xroad-bj",
+  "title": "Interopérabilité au Bénin : les règles d'accès à Xroad-BJ",
+  "publisher": "La Nation",
+  "published": "2026-07-28",
+  "sub_indicator": "standards",
+  "why": "Q3: services must respect API standards"
+ },
+ {
+  "url": "https://asin.bj/doc/142/download",
+  "title": "Bulletin trimestriel - juillet 2026",
+  "publisher": "ASIN",
+  "published": "2026-07",
+  "sub_indicator": "standards",
+  "why": "Q3: standards defined for APIs"
+ },
+ {
+  "url": "https://api.xroad.bj/documents/10/download",
+  "title": "Cadre d'interopérabilité (liste de normes ouvertes)",
+  "publisher": "XROAD BJ / ASIN",
+  "published": "2021",
+  "sub_indicator": "standards",
+  "why": "Q2-3: open standards list compulsory for public sector"
+ },
+ {
+  "url": "https://xroad.bj/presentation/devenir-membre/",
+  "title": "XROAD BJ - Devenir membre",
+  "publisher": "XROAD BJ",
+  "published": "",
+  "sub_indicator": "standards",
+  "why": "Q3-4: participants audited every two years"
+ },
+ {
+  "url": "https://smartafrica.org/wp-content/uploads/2025/11/ToR-Benin-National-Data-Stratetegy_EN-1.pdf",
+  "title": "ToR Benin National Data Strategy",
+  "publisher": "Smart Africa",
+  "published": "2025-11",
+  "sub_indicator": "standards",
+  "why": "Q1: shared standards proposed"
+ }
+]

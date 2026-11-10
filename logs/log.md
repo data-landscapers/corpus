@@ -12,6 +12,9 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-10 01:58 · **REBUILD** · 31m · interoperabilitystandards standards: 19 cells reassessed, 0 moved; 54 searched, 15 staged; ~101M tokens (three shared 303M) - ok
+2026-11-10 01:58 · **REBUILD** · 31m · interoperabilitylaw law: 3 cells reassessed, 3 moved; 54 searched, 50 staged; ~101M tokens (three shared 303M) - ok
+2026-11-10 01:58 · **REBUILD** · 32m · interoperability framework: 1 cell reassessed, 1 moved; 54 searched, 57 staged; ~101M tokens (three shared 303M) - ok
 2026-11-09 03:28 · **INDEX** · unclocked · research index: stopped by the low-memory reaper at 400 of 6,407, about 6,000 behind; message 102 updated - errored
 2026-11-09 03:15 · **BUDGET-EXTRACT** · 15m · TGO FY2027 from the budget programme 2027-2029 (projet): 6 lines (section 870 P2 and P3 on internal resources, 3 whole, 3 partial), PMADS and Information geographique booked domestic; 19.0bn grants and loans left out; archetype Q/TGO added; housekeeping 45
 2026-11-09 02:54 · **RENDER** · 30m · 301 documents, home, countries, catalogue 38,631, finance, datasets, maturity rendered; 73 editions pruned; R2 4,981 objects up; deployed f59cfaa - ok
@@ -471,12 +474,6 @@ title: Corpus process log
 2026-10-10 00:51 · **REVIEW** · 4m · STP: status 4 sections revised, progress 2 cells (2 rows mapped), monthly 0 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
 2026-10-10 00:47 · **BUILD** · 45m · catalogue 27,216, finance 62 places, scan 56 units, 38 ledger rows moved or minted, 45 status sentences; data centres 2 rows; maturity 94 arrivals, 23 facts, no stage moved; bulletin 40; budgets: poll run, 3 staged, none waiting — ok
 2026-10-10 00:02 · **ANALYTICS** · unclocked · 2026-10-08..2026-10-09 written; 9 Oct: dl.io 22 views / - clicks, corpus 60 views / - clicks
-2026-10-09 04:48 · **HOUSEKEEPING** · 5m · job 10 finished: SYC and XNA each had one window row written in; every remaining under-band monthly narrates all its rows, thin months left as they are
-2026-10-09 04:43 · **RENDER** · 17m · reports+home+countries+catalogue rendered, 251 documents, deployed — ok
-2026-10-09 04:26 · **REVIEW** · <1m · SSD: status 18 sections revised, progress 12 cells (11 rows mapped), monthly 1 block, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
-2026-10-09 04:26 · **REVIEW** · 4m · SOM: status 15 sections revised, progress 3 cells (3 rows mapped), monthly 0 blocks, finance 0 rows; 0 deals queued, 0 notes for OSINT — ok
-2026-10-09 04:21 · **BUILD** · 42m · catalogue 27,027, finance 62 places, scan 49 units, 67 ledger rows moved or minted, 68 status sections revised; data centres 1 row; bulletin 58; budgets: poll run, 3 deals judged, none waiting — ok
-2026-10-09 03:39 · **ANALYTICS** · unclocked · 2026-10-06..2026-10-08 written; 8 Oct: dl.io 36 views / 0 clicks, corpus 42 views / 1 clicks
 2026-10-02 17:08 · **BUDGET-REVIEW** · unclocked · DR Congo's votes recorded for 2024 to 2026; check D stands at 33 countries, 83 country-years. Run ended early at 12:10 against a five-hour window; the remaining sittings are in budget-followups.
 2026-10-02 09:29 · **FIX** · 15m · housekeeping register moved to the share as corpus-housekeeping.md; notes-for-osint 196 asks OSINT to rename its register and archive to osint-housekeeping; lints read either name meanwhile
 2026-09-29 16:02 · **HYPERSCALER** · unclocked · 04 GNQ: institutions 18 · US 30% · shield 8% · rank 4/54 · dangling 0

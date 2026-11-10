@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://digitalmag.ci/cote-divoire-cinq-administrations-publiques-integrent-la-plateforme-dinteroperabilite/",
+  "title": "Côte d'Ivoire : Cinq administrations publiques intègrent la plateforme d'interopérabilité",
+  "publisher": "Digital Mag Côte d'Ivoire",
+  "published": "2026-07-22",
+  "sub_indicator": "framework",
+  "why": "Q4 bodies connected"
+ },
+ {
+  "url": "https://telecom.gouv.ci/new/actualite/143",
+  "title": "Lancement officiel de la Plateforme d'Interopérabilité de l'Administration",
+  "publisher": "Ministère de la Transition Numérique",
+  "published": "2025-09-25",
+  "sub_indicator": "framework",
+  "why": "Q4 platform launch 12 pilots"
+ },
+ {
+  "url": "https://www.sndi.ci/index.php/actualite/115-clarification-interoperabilite.html",
+  "title": "Clarifications du sujet de mise place de la plateforme d'interopérabilité",
+  "publisher": "SNDI",
+  "published": "2025-10-01",
+  "sub_indicator": "framework",
+  "why": "Q4 platform and 2022 roadmap"
+ },
+ {
+  "url": "https://anssi.gouv.ci/reglementations/textes-nationaux/decrets-nationaux/",
+  "title": "Décret 2021-913 du 22 décembre 2021 portant adoption du Référentiel Général d'Interopérabilité",
+  "publisher": "ANSSI Côte d'Ivoire",
+  "published": "",
+  "sub_indicator": "framework",
+  "why": "Q1-Q2 framework adopted by decree"
+ },
+ {
+  "url": "https://www.anssi.gouv.ci/documents/86/SNGD___2030___Digital_reading_compressed.pdf",
+  "title": "Stratégie Nationale de la Gouvernance des Données SNGD 2030",
+  "publisher": "ANSSI Côte d'Ivoire",
+  "published": "",
+  "sub_indicator": "framework",
+  "why": "Q2 lists decree 2021-913"
+ },
+ {
+  "url": "https://artci.ci/wp-content/uploads/2024/05/ordonnance_2017_500_1.pdf",
+  "title": "Ordonnance n° 2017-500 du 02 août 2017 relative aux échanges électroniques",
+  "publisher": "Présidence de la République",
+  "published": "2017",
+  "sub_indicator": "framework",
+  "why": "Q3 compulsory for authorities"
+ },
+ {
+  "url": "https://telecom.gouv.ci/new/uploads/publications/177385013966.pdf",
+  "title": "Rapport Final (e-services)",
+  "publisher": "Ministère de la Transition Numérique",
+  "published": "",
+  "sub_indicator": "framework",
+  "why": "Q2-Q3 decrees under ordonnance"
+ }
+]

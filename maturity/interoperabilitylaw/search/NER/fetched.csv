@@ -1,0 +1,8 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://tile.loc.gov/storage-services/service/ll/llflg/sn/89/02/86/05/_2/01/90/43/0_/01/sn89028605_20190430_01/sn89028605_20190430_01.pdf,fetched,,scripts/.workroot/study/interoperabilitylaw/cache/NER/1.txt,22124,pdf,2019043001
+2,https://www.gouv.ne/index.php/les-communiques-du-gouvernement/1143-conclusions-du-conseil-des-ministres-du-mercredi-22-avril-2026,held,held as raw/2026/2026-04-22-gouv-conseil-ministres-etat-civil-anei.md,,0,,
+3,https://www.gouv.ne/index.php/les-communiques-du-gouvernement/1171-conclusions-du-conseil-des-ministres-du-lundi-18-mai-2026,held,held as raw/2026/2026-05-18-niger-conseil-ministres-decret-rnec-rnp-interoperabilite.md,,0,,
+4,https://www.actuniger.com/politique/21999-communique-du-conseil-des-ministres-du-lundi-18-mai-2026.html,fetched,,scripts/.workroot/study/interoperabilitylaw/cache/NER/4.txt,3852,html,COMMUNIQUÉ DU CONSEIL DES MINISTRES DU LUNDI 18 MAI 2026
+5,https://mcnti.gouv.ne/ova_doc/loi-2019-03-du-30-avril-2019-portant-sur-les-transactions-electroniques-au-niger/,held,held as raw/2019/2019-04-30-mcnti-loi-2019-03-transactions-electroniques.md,,0,,
+6,https://www.lesahel.org/guichet-unique-du-commerce-exterieur-au-niger-les-procedures-dimport-export-dematerialisees/,fetched,,scripts/.workroot/study/interoperabilitylaw/cache/NER/6.txt,1162,html,Guichet Unique du Commerce Extérieur au Niger : Les procédures d’import-export dématérialisées
+7,https://actuniger.com/politique/21923-communique-du-conseil-des-ministres-du-mercredi-22-avril-2026.html,fetched,,scripts/.workroot/study/interoperabilitylaw/cache/NER/7.txt,4101,html,COMMUNIQUÉ DU CONSEIL DES MINISTRES DU MERCREDI 22 AVRIL 2026

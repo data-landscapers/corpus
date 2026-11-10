@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://odti-lr.net/executive-order-163",
+  "title": "Executive Order No. 163",
+  "publisher": "Republic of Liberia, OTDI",
+  "published": "2026-04",
+  "sub_indicator": "law",
+  "why": "Q1-3: instrument in force; data-sharing under written agreements; draft Act within 12 months"
+ },
+ {
+  "url": "https://www.emansion.gov.lr/media/press-release/president-boakai-issues-landmark-executive-order-no-163-launch-national",
+  "title": "President Boakai Issues Landmark Executive Order No: 163",
+  "publisher": "The Executive Mansion",
+  "published": "2026-04-28",
+  "sub_indicator": "law",
+  "why": "Q1-2: order effective immediately for one year"
+ },
+ {
+  "url": "https://www.emansion.gov.lr/sites/default/files/documents/An%20Act%20For%20The%20Collection%20Processing%20Transmission%20Storage%20Protection%20%20And%20Use%20Of%20Personal%20Information%20in%20Liberia.pdf",
+  "title": "An Act for the Collection, Processing, Transmission, Storage, Protection, and Use of Personal Information in Liberia",
+  "publisher": "Ministry of Foreign Affairs (Published by Authority)",
+  "published": "2026-03-23",
+  "sub_indicator": "law",
+  "why": "Q2: data protection Act approved 9 March 2026"
+ },
+ {
+  "url": "https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf",
+  "title": "Draft National Data Governance Policy",
+  "publisher": "Ministry of Posts and Telecommunications",
+  "published": "2026",
+  "sub_indicator": "law",
+  "why": "Q1: calls for data-sharing regulations for MACs"
+ },
+ {
+  "url": "https://www.liberianobserver.com/politics/house-reviews-privacy-data-protection-bill/article_6675211a-e8bc-43c6-8e04-e73cbf26278a.html",
+  "title": "House Reviews Privacy, Data Protection Bill",
+  "publisher": "Liberian Observer",
+  "published": "2025-06-11",
+  "sub_indicator": "law",
+  "why": "Q1: bill before Legislature"
+ },
+ {
+  "url": "https://www.wearetech.africa/en/fils-uk/news/public-management/liberia-enacts-cybercrime-and-data-protection-laws",
+  "title": "Liberia Enacts Cybercrime and Data Protection Laws",
+  "publisher": "We are Tech",
+  "published": "2026-08-20",
+  "sub_indicator": "law",
+  "why": "Q2: laws signed 19 August 2026"
+ },
+ {
+  "url": "https://www.liberianobserver.com/opinion/commentaries/liberia-has-a-data-protection-law-now-comes-the-hard-part/article_b702af82-5f92-4ed4-a311-44dc3570f7e0.html",
+  "title": "Liberia Has a Data Protection Law. Now Comes the Hard Part",
+  "publisher": "Liberian Observer",
+  "published": "2026-09-14",
+  "sub_indicator": "law",
+  "why": "Q3: secure data-sharing rules still needed"
+ },
+ {
+  "url": "https://csa.gov.lr/csa-and-nir-partner-in-data-sharing-for-an-improved-public-sector/",
+  "title": "CSA and NIR Partner in Data Sharing for an Improved Public Sector",
+  "publisher": "Civil Service Agency",
+  "published": "2024-05-27",
+  "sub_indicator": "law",
+  "why": "Q4: agreement-based sharing"
+ }
+]

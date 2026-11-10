@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://nita.gov.gh/publicconsultation-3-2-2/",
+  "title": "Invitation for Comments - NITA Data Harmonisation Bill, 2025",
+  "publisher": "NITA",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q1: draft bill consultation 19-27 Nov 2025"
+ },
+ {
+  "url": "https://apdigh.org/bills/12-data-harmonisation-bill/",
+  "title": "Data Harmonisation Bill | Impact Analysis & Key Concerns",
+  "publisher": "APDI Ghana",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q1,Q3: bill text, mandatory sharing"
+ },
+ {
+  "url": "https://www.dataguidance.com/news/ghana-mocdti-closes-consultation-data-harmonization",
+  "title": "Ghana: MoCDTI closes consultation on the Data Harmonization Bill",
+  "publisher": "DataGuidance",
+  "published": "2025-11-11",
+  "sub_indicator": "law",
+  "why": "Q1: bill status"
+ },
+ {
+  "url": "https://www.graphic.com.gh/news/general-news/ghanas-data-harmonisation-bill-2025-to-be-opened-for-public-consultation-from-nov-19-to-27-2025.html",
+  "title": "Ghana's Data Harmonisation Bill 2025 to be opened for public consultation",
+  "publisher": "Graphic Online",
+  "published": "2025-10-23",
+  "sub_indicator": "law",
+  "why": "Q1: bill not yet law"
+ },
+ {
+  "url": "https://labarijournal.com/ghana-is-considering-passing-a-host-of-new-ict-related-laws-an-analyst-says-they-would-hamper-africa-digital-trade/",
+  "title": "Ghana Is Considering Passing a Host of New ICT-Related Laws",
+  "publisher": "The Labari Journal",
+  "published": "2026-05-21",
+  "sub_indicator": "law",
+  "why": "Q1,Q3: still a bill"
+ },
+ {
+  "url": "https://www.myjoyonline.com/sam-george-announces-national-data-exchange-hub-to-connect-48-public-registries/",
+  "title": "Sam George announces national data exchange hub to connect 48 public registries",
+  "publisher": "MyJoyOnline",
+  "published": "2026-10-21",
+  "sub_indicator": "law",
+  "why": "Q1-2: platform plans"
+ },
+ {
+  "url": "https://gna.org.gh/2026/03/gss-25-mdas-sign-data-sharing-agreements/",
+  "title": "GSS, 25 MDAs sign data-sharing agreements",
+  "publisher": "Ghana News Agency",
+  "published": "2026-03-12",
+  "sub_indicator": "law",
+  "why": "Q2-3: Statistical Service Act 2019 sharing"
+ },
+ {
+  "url": "https://nita.gov.gh/wp-content/uploads/2023/07/LI-FOR-ACT-772_NITA-.pdf",
+  "title": "Draft Regulations under Electronic Transactions Act 2008 (Act 772)",
+  "publisher": "NITA",
+  "published": "2023",
+  "sub_indicator": "law",
+  "why": "Q1: draft LI interoperability duties"
+ }
+]

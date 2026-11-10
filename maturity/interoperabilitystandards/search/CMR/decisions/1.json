@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "standards",
+ "aspect": "standing;use",
+ "fact": "At a workshop in Kribi on 27-31 October 2026, Cameroon's health digital actors trained on HL7 FHIR standards and finalised a scheme to accredit health software for technical conformity to the retained standards before integration into the national ecosystem.",
+ "title": "Santé numérique le Cameroun accélère l’interconnexion de ses systèmes d’information sanitaires",
+ "publisher": "MINSANTE",
+ "published": "2026-11-03",
+ "date_source": "source",
+ "why_not": ""
+}

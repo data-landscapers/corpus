@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "standards",
+ "aspect": "standing",
+ "fact": "The e-Government Authority's Criteria for Data Sharing and Exchange through GovESB, version 1.0 of July 2022, states that all public institutions must comply with the e-Government Integration Architecture Standards and Technical Guidelines (eGA/EXT/ITA/001).",
+ "title": "Criteria for Data Sharing and Exchange through Government Enterprise Service Bus (GovESB)",
+ "publisher": "e-Government Authority",
+ "published": "2022-07",
+ "date_source": "source",
+ "why_not": ""
+}

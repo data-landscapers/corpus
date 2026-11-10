@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://itweb.africa/article/malawi-devises-operational-rules-for-national-data-exchange-platform/xnklOvz1R2bq4Ymz",
+  "title": "Malawi devises operational rules for national data exchange platform",
+  "publisher": "ITWeb Africa",
+  "published": "2026-06-11",
+  "sub_indicator": "law",
+  "why": "Q1: proposed Government Data Sharing Regulation"
+ },
+ {
+  "url": "https://mwnation.com/malawi-eyes-k311bn-ict-investment/",
+  "title": "Malawi eyes K311 billion ICT investment",
+  "publisher": "Nation Online",
+  "published": "2026-06-16",
+  "sub_indicator": "law",
+  "why": "Q1/Q3: regulation to be tabled, requires MDAs route requests via National Data Centre"
+ },
+ {
+  "url": "https://www.telecompaper.com/news/malawian-government-plans-regulations-for-secure-national-data-sharing--1574011",
+  "title": "Malawian government plans regulations for secure national data sharing",
+  "publisher": "Telecompaper",
+  "published": "2026-06-15",
+  "sub_indicator": "law",
+  "why": "Q1: proposed regulation"
+ },
+ {
+  "url": "https://digmap.pppc.mw/digmap-progress-impresses-world-bank-minister/",
+  "title": "DIGMAP progress impresses World Bank, Minister",
+  "publisher": "Digital Malawi Project",
+  "published": "2024-03-05",
+  "sub_indicator": "law",
+  "why": "Q1: DIGMAP developing data-sharing regulations for NRB"
+ },
+ {
+  "url": "https://digmap.pppc.mw/wp-content/uploads/2022/01/INFORMATION-TECHNOLOGY-BILL-Final.pdf",
+  "title": "Information Technology Bill, 2021",
+  "publisher": "Digital Malawi Project",
+  "published": "2021",
+  "sub_indicator": "law",
+  "why": "Q1: draft IT Bill 2021 Part IV e-government infrastructure"
+ },
+ {
+  "url": "https://digmap.pppc.mw/wp-content/uploads/2022/01/THE-INFORMATION-TECHNOLOGY-REGULATIONS-Final.pdf",
+  "title": "The Information Technology Regulations, 2021 (draft)",
+  "publisher": "Digital Malawi Project",
+  "published": "2021",
+  "sub_indicator": "law",
+  "why": "Q1/Q2: draft IT Regulations 2021 s38 sharing"
+ },
+ {
+  "url": "https://api.pppc.mw/storage/161/DIGITAL-GOVERNMENT-STRATEGY-BOOK.pdf",
+  "title": "Digital Government Strategy",
+  "publisher": "Department of E-Government, Ministry of Information",
+  "published": "2019-09",
+  "sub_indicator": "law",
+  "why": "Q1: strategy recommends enabling legislation on data sharing among agencies"
+ },
+ {
+  "url": "https://www.biometricupdate.com/202609/malawi-advances-data-harmonization-interoperability-agenda",
+  "title": "Malawi advances data harmonization, interoperability agenda",
+  "publisher": "Biometric Update",
+  "published": "2026-09-23",
+  "sub_indicator": "law",
+  "why": "Q4: harmonisation push"
+ }
+]

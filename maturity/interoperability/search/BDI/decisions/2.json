@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "framework",
+ "aspect": "standing",
+ "fact": "A PAFEN request for proposals issued on 20 October 2026 requires the e-Gouv portal to deliver interoperability with government platforms and registers in accordance with the Cadre national d'interopérabilité.",
+ "title": "Conception, Développement, Intégration, Déploiement et Mise en service du Portail National d'accès aux services publics de l'administration en ligne (Portail e-Gouv), Demande de Propositions BI-PAFEN-PIU-2.3.1.4-NC-RFP",
+ "publisher": "Unité de Gestion du Projet PAFEN (Burundi)",
+ "published": "2026-10-20",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "framework",
+ "aspect": "standing",
+ "fact": "A 2025 data governance diagnostic summary states that INTIC is developing an interoperability framework, to be implemented by INAGE.",
+ "title": "Data Governance in Mozambique",
+ "publisher": "INTIC / World Bank",
+ "published": "2025-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

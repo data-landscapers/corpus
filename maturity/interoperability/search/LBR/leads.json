@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://odti-lr.net/executive-order-163",
+  "title": "Executive Order No. 163",
+  "publisher": "Republic of Liberia, OTDI",
+  "published": "2026-04",
+  "sub_indicator": "framework",
+  "why": "Q1-3: mandates a Government Interoperability Framework, 180-day first release"
+ },
+ {
+  "url": "https://www.emansion.gov.lr/media/press-release/president-boakai-issues-landmark-executive-order-no-163-launch-national",
+  "title": "President Boakai Issues Landmark Executive Order No: 163",
+  "publisher": "The Executive Mansion",
+  "published": "2026-04-28",
+  "sub_indicator": "framework",
+  "why": "Q1-2: framework due within 180 days"
+ },
+ {
+  "url": "https://odti-lr.net/Liberia-National-Digital-Strategy.pdf",
+  "title": "Whole of Government National Digital Strategy 2025-2029",
+  "publisher": "Ministry of Posts and Telecommunications",
+  "published": "2025",
+  "sub_indicator": "framework",
+  "why": "Q2: e-GIF last updated 2014; interoperability platform project"
+ },
+ {
+  "url": "https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf",
+  "title": "Draft National Data Governance Policy",
+  "publisher": "Ministry of Posts and Telecommunications",
+  "published": "2026",
+  "sub_indicator": "framework",
+  "why": "Q1: interoperability framework to be defined"
+ },
+ {
+  "url": "https://www.emansion.gov.lr/sites/default/files/documents/26-7-17-%20OFFICE%20OF%20TECHNOLOGY%20,%20DIGITALIZATION%20AND%20INNOVATION%20%20TERMS%20OF%20REFERENCE%20(OTDI).pdf",
+  "title": "Office of Technology, Digitalization and Innovation Terms of Reference",
+  "publisher": "Ministry of State for Presidential Affairs",
+  "published": "2026",
+  "sub_indicator": "framework",
+  "why": "Q1,3: CIO to develop GIF"
+ },
+ {
+  "url": "https://www.liberianobserver.com/news/boakai-s-executive-order-163-signals-digital-government-shift/article_7a31a87b-4fe2-4578-9ff7-b0224f3bf36a.html",
+  "title": "Boakai's Executive Order 163 Signals Digital Government Shift",
+  "publisher": "Liberian Observer",
+  "published": "2026-04-29",
+  "sub_indicator": "framework",
+  "why": "Q1,3: GIF and technical clearance"
+ },
+ {
+  "url": "https://csa.gov.lr/csa-and-nir-partner-in-data-sharing-for-an-improved-public-sector/",
+  "title": "CSA and NIR Partner in Data Sharing for an Improved Public Sector",
+  "publisher": "Civil Service Agency",
+  "published": "2024-05-27",
+  "sub_indicator": "framework",
+  "why": "Q4: bilateral interoperability MoU"
+ },
+ {
+  "url": "https://www.developmentaid.org/tenders/view/1445139/governance-reform-and-accountability-transformation-great-project-consultancy-to-develop-requirement",
+  "title": "GREAT Project: Shared Digital Infrastructure at the National Data Center",
+  "publisher": "DevelopmentAid",
+  "published": "2025-02-27",
+  "sub_indicator": "framework",
+  "why": "Q1,4: GSB and interoperability frameworks tender"
+ }
+]

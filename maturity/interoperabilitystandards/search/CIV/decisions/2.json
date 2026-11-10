@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "standards",
+ "aspect": "standing",
+ "fact": "The national data governance strategy (SNGD 2030) states that the Référentiel Général d'Interopérabilité defines a list of standards and norms for interoperability and plans a national data norms framework, with a study of data formats and communication protocols, to be adopted in 2026.",
+ "title": "Stratégie Nationale de la Gouvernance des Données en Côte d'Ivoire SNGD 2030",
+ "publisher": "Ministère de la Transition Numérique et de la Digitalisation",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://sgg.cg/JO/2024/congo-jo-2024-42.pdf",
+  "title": "Journal officiel n° 42-2024 (Décret n° 2024-2078 instituant l'échange des renseignements entre entités publiques, entités privées et administrations fiscale et douanière)",
+  "publisher": "Journal officiel de la République du Congo",
+  "published": "2024",
+  "sub_indicator": "law",
+  "why": "Q1-Q3: decree on information exchange with tax and customs"
+ },
+ {
+  "url": "https://www.adiac-congo.com/content/compte-rendu-du-conseil-des-ministres-du-vendredi-11-octobre-2024-160462",
+  "title": "Compte rendu du Conseil des ministres du vendredi 11 octobre 2024",
+  "publisher": "Adiac",
+  "published": "2024-10-12",
+  "sub_indicator": "law",
+  "why": "Q1-Q3: council adopts draft decree on mandatory exchange of information"
+ },
+ {
+  "url": "https://www.sgg.cg/JO/2026/congo-jo-2026-32.pdf",
+  "title": "Journal officiel n° 32-2026 (Décret n° 2026-261, Task-force sur la digitalisation de l'administration publique)",
+  "publisher": "Journal officiel de la République du Congo",
+  "published": "2026",
+  "sub_indicator": "law",
+  "why": "Q1: decree tasks promotion of interoperability; no sharing duty"
+ },
+ {
+  "url": "https://liziba.cg/wp-content/uploads/2024/09/Arrete-n-18503-du-20-aout-2024-fixant-les-regles-de-collecte-de-traitement-dechange-et-dactualisation-des-donnees-du-registre-social-unique.pdf",
+  "title": "Arrêté n° 18503 du 20 août 2024 fixant les règles de collecte, de traitement, d'échange et d'actualisation des données du registre social unique",
+  "publisher": "Journal officiel de la République du Congo",
+  "published": "2024",
+  "sub_indicator": "law",
+  "why": "Q3: social registry sharing duty (sector only)"
+ },
+ {
+  "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/110224/COG-110224.pdf",
+  "title": "Loi n° 29-2019 du 10 octobre 2019 portant protection des données à caractère personnel",
+  "publisher": "Journal officiel de la République du Congo",
+  "published": "2019",
+  "sub_indicator": "law",
+  "why": "Q2: interconnection of public service files subject to authorisation"
+ },
+ {
+  "url": "https://afrikactus.com/au-congo-les-administrations-devront-harmoniser-leurs-donnees-pour-que-la-numerisation-ameliore-reellement-les-services-publics-28223/",
+  "title": "Données publiques Congo : le défi de l'interconnexion",
+  "publisher": "Afrikactus",
+  "published": "2026-10-19",
+  "sub_indicator": "law",
+  "why": "Q1/Q4: committee prepares data sharing between revenue agencies and land services"
+ },
+ {
+  "url": "https://thecongomail.com/congo-rewires-its-state-four-digital-priorities/",
+  "title": "Bouya Sets Congo's E-Government Priorities",
+  "publisher": "The Congo Mail",
+  "published": "2026-10-18",
+  "sub_indicator": "law",
+  "why": "Q1/Q4: data-sharing workstream prepared, no law named"
+ },
+ {
+  "url": "https://e-governancehub.ru/wp-content/uploads/2025/07/E-Gouvernance-en-Republique-du-Congo-1.pdf",
+  "title": "E-gouvernance en République du Congo 2025",
+  "publisher": "e-Governance Hub",
+  "published": "2025",
+  "sub_indicator": "law",
+  "why": "Q1: legal framework survey"
+ }
+]

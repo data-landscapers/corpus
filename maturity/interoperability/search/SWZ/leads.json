@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://parliament.gov.sz/publications/parliament_reports/docs/ANNUAL%20REPORT%20ICT%202025.pdf",
+  "title": "Annual Report ICT 2025",
+  "publisher": "Parliament of Eswatini",
+  "published": "2025",
+  "sub_indicator": "framework",
+  "why": "Q2: MICT reviewed the e-Government Interoperability Framework"
+ },
+ {
+  "url": "https://eswatinipositivenews.online/mchumanisi-system-to-give-emaswati-one-stop-access-to-government-services/",
+  "title": "Mchumanisi system to give emaSwati one-stop access",
+  "publisher": "Eswatini Positive News",
+  "published": "2026-07-22",
+  "sub_indicator": "framework",
+  "why": "Q1: national data exchange platform proposed in draft policy"
+ },
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2024-12/dra_report_eswatini.pdf",
+  "title": "Digital Readiness Assessment",
+  "publisher": "UNDP Eswatini",
+  "published": "2024-12",
+  "sub_indicator": "framework",
+  "why": "Q1: no national interoperability framework; recommended"
+ },
+ {
+  "url": "https://www.separc.co.sz/2024/12/05/eswatini-advances-toward-digital-transformation-key-findings-from-the-digital-readiness-assessment/",
+  "title": "Eswatini Advances Toward Digital Transformation: Digital Readiness Assessment",
+  "publisher": "ESEPARC",
+  "published": "2024-12-05",
+  "sub_indicator": "framework",
+  "why": "Q1: absence of interoperability framework"
+ },
+ {
+  "url": "https://publications.iom.int/system/files/pdf/pub2023-114-r-iom-mmdma-report-eswatini.pdf",
+  "title": "Migration Management Digital Maturity Assessment Report Eswatini",
+  "publisher": "IOM",
+  "published": "2023",
+  "sub_indicator": "framework",
+  "why": "Q1/Q2: GIF proposal submitted awaiting cabinet; mandate steps 2022"
+ },
+ {
+  "url": "https://www.gov.sz/images/ICT/Digital%20Government%20Implementation%20Roadmap%20Development.pdf",
+  "title": "Digital Government Implementation Roadmap Development ToR",
+  "publisher": "Ministry of ICT",
+  "published": "",
+  "sub_indicator": "framework",
+  "why": "Q1: DPI interoperability under Digital Eswatini"
+ },
+ {
+  "url": "https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Digital-Economy-Diagnostic-Eswatini.pdf",
+  "title": "Digital Economy Diagnostic Eswatini",
+  "publisher": "World Bank",
+  "published": "2021",
+  "sub_indicator": "framework",
+  "why": "Q1: lack of interoperability; develop framework"
+ }
+]

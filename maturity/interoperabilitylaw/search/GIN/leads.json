@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/118841/GIN-118841.pdf",
+  "title": "Loi portant identification des personnes physiques (L/2023/019/CNT)",
+  "publisher": "ILO NATLEX",
+  "published": "2023",
+  "sub_indicator": "law",
+  "why": "Q2/Q3: art 112 obliges bodies using identification data to set up interoperability; art 113 decree to fix exchange"
+ },
+ {
+  "url": "https://www.guinee360.com/26/10/2023/cnt-les-conseillers-adoptent-deux-projets-de-lois/",
+  "title": "CNT: les conseillers adoptent deux projets de lois",
+  "publisher": "Guinee360",
+  "published": "2023-10-26",
+  "sub_indicator": "law",
+  "why": "Q1: CNT adopted identification and civil registration laws on 25 Oct 2023"
+ },
+ {
+  "url": "https://guineejet.info/pn-ravec-concertations-sur-lidentification-et-letat-civil/",
+  "title": "PN-RAVEC : Concertations sur l'identification et l'état civil",
+  "publisher": "Guinéejet",
+  "published": "2026-01-08",
+  "sub_indicator": "law",
+  "why": "Q1/Q4: draft implementing decrees on electronic exchange of civil-status data"
+ },
+ {
+  "url": "https://guineelex.com/decrets-arretes/decret-d-2023-232-prg-cnrd-sgg",
+  "title": "Décret D/2023/232 amendant le décret créant l'ANDE",
+  "publisher": "GuinéeLex",
+  "published": "2023-11-01",
+  "sub_indicator": "law",
+  "why": "Q2: decree in force placing state IT officers under ANDE, inter-administration tools"
+ },
+ {
+  "url": "https://guineelex.com/decrets-arretes/arrete-conjoint-ac-2021-2508-matd-mj-cab-sgg",
+  "title": "Arrêté conjoint AC/2021/2508 interopérabilité état civil et justice",
+  "publisher": "GuinéeLex",
+  "published": "2021-09-03",
+  "sub_indicator": "law",
+  "why": "Q2/Q3: joint order in force obliging civil registry and justice data transfers"
+ },
+ {
+  "url": "https://guineelex.com/decrets-arretes/decret-d-2025-053-prg-cnrd-sgg",
+  "title": "Décret D/2025/053 conditions de sécurité des données d'état civil",
+  "publisher": "GuinéeLex",
+  "published": "2025-04-14",
+  "sub_indicator": "law",
+  "why": "Q2/Q4: decree in force on data interconnection via NPI"
+ },
+ {
+  "url": "https://cseaafrica.org/images/posts/47281988.pdf",
+  "title": "Building a Data-Driven Public Sector in Guinea: A Roadmap for Interoperability and Efficiency",
+  "publisher": "CSEA Africa",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q1: states Guinea has yet to adopt a data-sharing law"
+ },
+ {
+  "url": "https://open.enabel.be/en/evaluation/39/download/163",
+  "title": "PARECIGUI Phase 2 final evaluation executive summary",
+  "publisher": "Enabel",
+  "published": "2026-06",
+  "sub_indicator": "law",
+  "why": "Q4: interoperability not activated pending implementing texts"
+ }
+]

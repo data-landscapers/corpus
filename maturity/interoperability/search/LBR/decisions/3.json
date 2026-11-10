@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "framework",
+ "aspect": "standing",
+ "fact": "The strategy states the e-Government Interoperability Framework standards and policies were last updated in 2014, that existing MAC integrations use institution-specific peer-to-peer APIs with no standardized APIs, and lists development of an interoperability platform by MoPT (2025-2026) as ongoing.",
+ "title": "Government of Liberia 'Whole of Government' National Digital Strategy",
+ "publisher": "Ministry of Posts and Telecommunications (Government of Liberia)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

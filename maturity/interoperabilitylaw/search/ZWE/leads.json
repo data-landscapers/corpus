@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://spikedmedia.co.zw/minister-mavetera-issues-five-landmark-directives-at-inaugural-ict-directors-workshop/",
+  "title": "Minister Mavetera Issues Five Landmark Directives at Inaugural ICT Directors Workshop",
+  "publisher": "Best African News Online",
+  "published": "2026-05-07",
+  "sub_indicator": "law",
+  "why": "Q1-3: proposed Digital Government and Data Act would mandate Service Bus and once-only principle"
+ },
+ {
+  "url": "https://www.heraldonline.co.zw/government-orders-ministries-to-integrate-ict-systems/",
+  "title": "Government orders ministries to integrate ICT systems",
+  "publisher": "The Herald",
+  "published": "2026-05-11",
+  "sub_indicator": "law",
+  "why": "Q1-3: Government Service Bus, proposed Digital Government and Data Act making interoperability mandatory"
+ },
+ {
+  "url": "https://www.zim.gov.zw/index.php/government-documents/category/8-gvt-enteprise-architecture-model-2026?download=13%3Agoverment-of-zimbabwe-enterprise-architecture",
+  "title": "An Enterprise Architecture Modelling Exercise for the Government of Zimbabwe",
+  "publisher": "Office of the President and Cabinet, e-Government Technology Unit",
+  "published": "",
+  "sub_indicator": "law",
+  "why": "Q1-4: whole-of-government EA with reference models, standards, principles; legal review of data exchange"
+ },
+ {
+  "url": "https://www.techreviewafrica.com/news/5347/zimbabwe-pushes-smart-government-agenda-with-new-digital-blueprint",
+  "title": "Zimbabwe pushes smart government agenda with new digital blueprint",
+  "publisher": "TechReviewAfrica",
+  "published": "2026-05-08",
+  "sub_indicator": "law",
+  "why": "Q1-2: EA Model blueprint handed over, service bus planned"
+ },
+ {
+  "url": "https://zim.gov.zw/index.php/government-documents/category/7-goz-ict-specifications-standards?download=11%3Agoz-ict-specification-standards-version-2",
+  "title": "GOVERNMENT ICT SPECIFICATIONS STANDARDS (Version 2)",
+  "publisher": "Office of the President and Cabinet, E-Government Technology Unit",
+  "published": "2025-05",
+  "sub_indicator": "law",
+  "why": "Q1-4: v2 standards binding on all MDAs, Cabinet Circular 22 of 2022, certificate of compliance"
+ },
+ {
+  "url": "https://e-governancehub.ru/wp-content/uploads/2024/12/E-Government-in-Zimbabwe.pdf",
+  "title": "E-GOVERNANCE IN ZIMBABWE 2024",
+  "publisher": "e-Governance Hub",
+  "published": "2024",
+  "sub_indicator": "law",
+  "why": "Q4: G2G systems unlinked; some linkages"
+ }
+]
