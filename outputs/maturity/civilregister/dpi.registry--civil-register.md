@@ -243,6 +243,7 @@ Digital civil registration was under way in 2026; national digital birth registr
 
 A digital birth e-service recorded nearly 300,000 births by October 2026 while expanding; national digital birth registration is not on record.
 
+- Immigration PS Belio Kipsang told MPs that electronic birth notification feeding the new digital registration system has been piloted in Nairobi City County and Bomet County, with nationwide rollout to follow (Daily Nation) ([source, 2026-11-09](https://nation.africa/kenya/news/how-kenya-s-digital-birth-registration-system-will-work--5663174)).
 - Immigration PS Belio Kipsang said on 2026-10-06 that the digital birth e-notification system will be extended to all Social Health Authority hospitals within three months, by December 2026, with the civil registration system being integrated with hospital management systems ([source, 2026-10-06](https://www.kenyans.co.ke/news/127644-state-expand-digital-birth-registration-sha-hospitals-within-3-months)).
 - Interior CS Kipchumba Murkomen said on 2026-06-22 that Kenyans can now download and print birth certificates online, with applications already available through the eCitizen portal ([source, 2026-06-22](https://www.kenyans.co.ke/news/124508-kenyans-download-and-print-birth-certificates-online)).
 

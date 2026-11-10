@@ -102,3 +102,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-08,SDN,dpi.registry--civil-register,fact,2,2,SDN-001;SDN-002,"Police (Aug 2024): pre-war civil registry system recovered and running; 2026 sources show e-certificates restarting locally, newest stand, so stays 2"
 2026-11-08,SLE,dpi.registry--civil-register,fact,2,2,SLE-001;SLE-003;SLE-004,"ACSA (Mar 2025): fully electronic birth registration launched 2022, before the window; newer sources show district use and a new eCRVS developed, so stays 2"
 2026-11-09,CPV,dpi.registry--civil-register,ladder,2,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 2 to unplaced."
+2026-11-10,KEN,dpi.registry--civil-register,fact,2,2,KEN-007;KEN-002;KEN-001,"Daily Nation, Nov 2026: electronic birth notification piloted in Nairobi and Bomet, nationwide rollout to follow; stays 2"
