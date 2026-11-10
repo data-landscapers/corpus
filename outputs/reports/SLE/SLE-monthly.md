@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: SLE
-ledger_rows: 21
+ledger_rows: 22
 not_held: 4
-record: 4cfd08c582e1
+record: 6dfc84946740
 ---
 
 # News, Oct – Nov 2026
@@ -285,6 +285,20 @@ Sierra Leone's National Investment Board showed its new Online Business Registra
 **[Chief Minister digitises Ministerial performance to strengthen accountability](https://sierraleoneconcordtimes.com/chief-minister-digitises-ministerial-performance-to-strengthen-accountability/)** — Concord Times, 12 October 2026
 
 Sierra Leone's Chief Minister, David Moinina Sengeh, opened a workshop at which ministries and agencies were shown VISION-SL, a digital platform to hold ministerial performance contracts, targets, indicators and quarterly progress reports in one system, reported on 12 October 2026. It is meant to track the national development plan and still awaits validation and testing. No cost or launch date is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Government Website Standardisation Framework</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sierra Leone Begins Training Government ICT Officers on Website Management and Security](https://techafricanews.com/2026/11/09/sierra-leone-begins-training-government-ict-officers-on-website-management-and-security/)** — Tech Africa News, 9 November 2026
+
+Sierra Leone's Ministry of Communication, Technology and Innovation began training ICT officers from ministries, departments and agencies on website management and security, reported on 9 November 2026. Under its Website Standardisation Framework the ministry builds and hosts official sites on shared gov.sl infrastructure, and the officers maintain content. The first phase ran two days, and further phases are planned.
 
 </div>
 
