@@ -3,9 +3,9 @@ title: Tunisia — News, Oct – Nov 2026
 compiled: 2026-11-10
 period: 2026-10-01 to 2026-11-10
 place: TUN
-ledger_rows: 37
+ledger_rows: 40
 not_held: 5
-record: 9745a787a3df
+record: 241cbd84390e
 ---
 
 # News, Oct – Nov 2026
@@ -14,6 +14,8 @@ record: 9745a787a3df
 
 <nav class="article-toc monthly-toc" aria-label="Sections in this report">
 <a href="#governance">Governance</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#finance">Finance</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ict-infrastructure">ICT Infrastructure</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -153,6 +155,28 @@ Nessma and the TAP news agency reported on 5 November 2026 that Tunisia's family
 **[#NoExamShutdown: One step forward, another step back](https://www.accessnow.org/noexamshutdown-one-step-forward-another-step-back/)** — Access Now, 27 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DZA/DZA-monthly.html" title="DZA">Algeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a>
 
 Access Now reviewed exam-related internet shutdowns in the Middle East and North Africa in 2026. Algeria confined restrictions to exam centres, and Syria held exams with no recorded shutdown. Tunisia restricted mobile messaging apps during both baccalaureate sessions in June and July, a first in the campaign's tracking. Sudan ordered 10 shutdowns between 13 and 23 April.
+
+</div>
+
+</div>
+
+## Finance
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
+<a href="#domestic-budget-appropriations-and-expenditure">Domestic budget appropriations and expenditure</a>
+</nav>
+
+### Domestic budget appropriations and expenditure
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Budget allocation for the digital transition</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tunisie : 356,8 millions $ pour la transformation numérique en 2027 face à des défis persistants](https://www.agenceecofin.com/actualites-numerique/0911-143235-tunisie-356-8-millions-pour-la-transformation-numerique-en-2027-face-a-des-defis-persistants)** — Agence Ecofin, 9 November 2026
+
+TND 1.07bn, up 9.3%; 1.5m digital IDs, 150 Khadamet services, data protection law revision planned.
 
 </div>
 
@@ -426,6 +450,20 @@ Tunisia's ICT minister told parliament on 6 November 2026 that his ministry plan
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Khadamet mobile portal for administrative services</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Tunisie : 356,8 millions $ pour la transformation numérique en 2027 face à des défis persistants](https://www.agenceecofin.com/actualites-numerique/0911-143235-tunisie-356-8-millions-pour-la-transformation-numerique-en-2027-face-a-des-defis-persistants)** — Agence Ecofin, 9 November 2026
+
+Summarised under [Domestic budget appropriations and expenditure](#domestic-budget-appropriations-and-expenditure).
+
+</div>
+
+</div>
+
 ## Technology
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Technology">
@@ -559,6 +597,20 @@ Summarised under [Other GovTech and e-Gov](#other-govtech-and-e-gov).
 **[Le hub numérique « The Dot » : 500 startups accompagnées en cinq ans](https://www.lapresse.tn/2026/10/25/le-hub-numerique-the-dot-500-startups-accompagnees-en-cinq-ans/)** — La Presse de Tunisie, 25 October 2026
 
 The EU-funded hub marked its fifth anniversary on 23 October 2026. It reported support for more than 500 startups since 2021, 37 of them founded by diaspora Tunisians. It has incubated 140 startups from ten governorates. It has hosted over 3,000 events.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Startup Act and Startup Tunisia</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Tunisie : 356,8 millions $ pour la transformation numérique en 2027 face à des défis persistants](https://www.agenceecofin.com/actualites-numerique/0911-143235-tunisie-356-8-millions-pour-la-transformation-numerique-en-2027-face-a-des-defis-persistants)** — Agence Ecofin, 9 November 2026
+
+Summarised under [Domestic budget appropriations and expenditure](#domestic-budget-appropriations-and-expenditure).
 
 </div>
 
