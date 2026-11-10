@@ -23,9 +23,9 @@ The African Union's Digital Transformation Strategy asks for a framework, with i
 | 5 Leading | 1 |
 | 4 Operating | 2 |
 | 3 Established | 17 |
-| 2 Nascent | 18 |
+| 2 Nascent | 17 |
 | 1 Absent | 1 |
-| Unplaced | 4 |
+| Unplaced | 5 |
 | No evidence | 11 |
 
 ## Countries
@@ -171,12 +171,6 @@ Botswana's 2025 Digital Services Act requires an information exchange framework,
 
 - Expertise France's project page, published 2026-02-17, says its EU-funded project (running August 2024 to August 2027) works with ESTDEV to improve and align Botswana's National Interoperability framework, standards, guidelines and tools, and lists a 'harmonised and operational national interoperability framework for e-government services' as an expected result; the page does not say the framework has been adopted or issued, and its date is the page's published date ([source, 2026-02-17](https://www.expertisefrance.fr/en/projects/digital-transformation-botswana)).
 
-### Burundi: 2 Nascent
-
-A May 2024 notice sought a consultant to develop Burundi's government interoperability framework, with no drafting begun; nothing dated since is known.
-
-- A World Bank-financed PAFEN notice of 3 May 2024 seeks a consultancy to develop a Government Interoperability Framework (Cadre d'Interopérabilité du Gouvernement) and an interoperability strategy setting standards and protocols, in phase 2 after phase 1 deliverables are validated; the notice states no drafting had begun ([source, 2024-05-03](https://www.developmentaid.org/tenders/view/1299284/burundi-digital-foundations-project-e-gouv-assistance-technique-pour-i-diagnostic-de-lexistant-ii-st)).
-
 ### Cameroon: 2 Nascent
 
 Cameroon's draft e-government law, validated by officials in November 2025, would set interoperability rules for public bodies; it is not adopted.
@@ -273,6 +267,12 @@ A 2024 World Bank diagnostic says Equatorial Guinea has no national interoperabi
 
 - The World Bank diagnostic states that the government has no national interoperability framework and no government enterprise architecture framework, and that the enterprise architecture is inadequate and incomplete; the document gives only a 2024 publication year, so 2024 is used ([source, 2024](https://documents1.worldbank.org/curated/en/099051724134540301/txt/P179339-f4a4c89e-b212-4802-9f00-4c68aefed3c8.txt)).
 - Biometric Update reports that the World Bank diagnostic recommends a national interoperability framework for Equatorial Guinea, describing it as currently absent; the date is the article's published date, 2024-07-15 ([source, 2024-07-15](https://www.biometricupdate.com/202407/world-bank-identifies-priority-actions-for-dpi-in-equatorial-guinea)).
+
+### Burundi: Unplaced
+
+A May 2024 notice sought a consultant to write Burundi's government interoperability framework; whether drafting has begun is not known, so no stage is set.
+
+Not established: No framework is on record as being written: the May 2024 notice only sought a consultant, with no drafting begun, and no later source is held.
 
 ### Chad: Unplaced
 

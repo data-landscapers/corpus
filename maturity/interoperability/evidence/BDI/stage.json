@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "framework",
-      "stage": "2",
-      "standing": "draft",
+      "stage": "unplaced",
+      "standing": "",
       "use": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "BDI-001",
-      "gaps": "No source found says a government interoperability framework is adopted and published.",
-      "note": "Counted from the four questions by study-ladder-interoperability.py.",
-      "as_at": "2026-10-13"
+      "stage_sources": "",
+      "gaps": "No framework is on record as being written: the May 2024 notice only sought a consultant, with no drafting begun, and no later source is held.",
+      "note": "The notice seeks a consultant to write the framework and says no drafting had begun, which the study does not count as a framework being written (as with Liberia and Cape Verde). It is not a dated statement that none exists either, so no rung is set.",
+      "as_at": "2026-11-10"
     }
   ]
 }
