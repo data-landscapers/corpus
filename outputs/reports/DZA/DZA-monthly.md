@@ -1,11 +1,11 @@
 ---
 title: Algeria — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: DZA
-ledger_rows: 31
+ledger_rows: 32
 not_held: 5
-record: 90a8bf070bdd
+record: 3b244b901fdd
 ---
 
 # News, Oct – Nov 2026
@@ -28,6 +28,8 @@ record: 90a8bf070bdd
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#public-debate-and-participation-in-policymaking">Public debate and participation in policymaking</a>
 </nav>
@@ -103,6 +105,22 @@ Niger and Algeria launched operation of the fibre link between In Guezzam and th
 **[General Secretariat holds fourth meeting of joint committee to consider the Draft Arab Agreement on Personal Data Protection](http://www.leagueofarabstates.net/en/news/Pages/NewsDetails.aspx?RID=4160)** — League of Arab States, 25 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XNA/XNA-monthly.html" title="XNA">North Africa</a>
 
 The League of Arab States held the fourth meeting of a joint expert committee on a Draft Arab Agreement on Personal Data Protection on 25 and 26 October 2026. The draft stems from an Algerian proposal approved by the Council of Arab Ministers of Justice. The results go to that council's session in Algeria in November 2026.
+
+</div>
+
+</div>
+
+### Standards
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ISO membership of the national standards institute</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ISO - IANOR - Institut Algérien de Normalisation](https://www.iso.org/member/1499.html)** — International Organization for Standardization, 9 November 2026
+
+The ISO membership page, on file under 9 November 2026, lists the Institut Algérien de Normalisation as a member body. It sets out the institute's tasks, including national standards development, the WTO TBT information point and the Algerian conformity mark. It shows participation in 27 technical committees and observer status in 50.
 
 </div>
 
