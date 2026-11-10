@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-09-bfa-burkina-faso-semaine-du-numrique-2026-des-comptitions-formations-gratu",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "The organising committee chair, who is the digital ministry's secretary general, announced on 2026-11-09 a free ICT training campaign of about five weeks covering office software, AI, cybersecurity, networks, web and mobile development, with attention to youth, women, displaced people and people with disabilities.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "Semaine du numérique free ICT training campaign",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Semaine du numérique free ICT training campaign",
+   "country_label": "Burkina Faso",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Ministry in charge of digital transition (organising committee)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
