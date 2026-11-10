@@ -1,11 +1,11 @@
 ---
 title: Mozambique — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: MOZ
-ledger_rows: 31
+ledger_rows: 32
 not_held: 18
-record: 622266803f99
+record: 3df44df3eb96
 ---
 
 # News, Oct – Nov 2026
@@ -221,6 +221,20 @@ Mozambique's regulator validated its Internet for All strategy, which targets 95
 **[Le Mozambique veut porter à 1000 le nombre d’écoles connectées à Internet d’ici 2029](https://www.wearetech.africa/fr/fils/actualites/tech/le-mozambique-veut-porter-a-1000-le-nombre-d-ecoles-connectees-a-internet-d-ici-2029)** — wearetech.africa, 27 October 2026
 
 Mozambique's Communications and Digital Transformation Minister, Américo Muchanga, gave a radio interview broadcast on 26 October 2026. He said the government aims to connect 1,000 schools to the internet by 2029, up from 418. He added that 19,454 computers have been distributed to higher-education students. He added that 20 digital spaces have been created.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet users as a share of population</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital 2027: Mozambique](https://datareportal.com/reports/digital-2027-mozambique)** — DataReportal, 5 November 2026
+
+7.57 million internet users, 20.5% penetration, end-2026; 18.4 million mobile connections, 49.9% of population.
 
 </div>
 
