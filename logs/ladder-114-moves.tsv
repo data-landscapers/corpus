@@ -151,12 +151,12 @@ opendiscussion	GMB	discussion	4	2
 opendiscussion	LSO	discussion	4	unplaced		
 paymentslaw	COD	law	5	3		
 paymentslaw	NGA	law	4	2		
-populationregister	CIV	population	5	3		
-populationregister	DZA	population	5	3		
-populationregister	MAR	population	5	3		
-populationregister	NAM	population	5	3		
-populationregister	TCD	population	5	3		
-populationregister	ZWE	population	5	3		
+populationregister	CIV	population	5	3	restaged 5 on CIV-015	2026-11-10
+populationregister	DZA	population	5	3	restaged 5 on DZA-007	2026-11-10
+populationregister	MAR	population	5	3	gap confirmed; asked notes-for-osint 308	2026-11-10
+populationregister	NAM	population	5	3	restaged 5 on NAM-011	2026-11-10
+populationregister	TCD	population	5	3	restaged 5 on TCD-004	2026-11-10
+populationregister	ZWE	population	5	3	gap confirmed; asked notes-for-osint 308	2026-11-10
 publicconsultation	TCD	consultation	4	2		
 refugees	GHA	displaced	4	2		
 refugees	KEN	displaced	4	2		
