@@ -1,6 +1,6 @@
 ## 10 November 2026
 
-- The finance table shows each row's published date and can be filtered by financier; the scope filter is gone, and typing several letters in any filter jumps to the match. The year range above the table now counts start years only, 2015 to 2026.
+- The finance table shows each row's published date and can be filtered by financier; the scope filter is gone, and typing several letters in any filter jumps to the match. The table now opens newest-published first, and the year range above it counts start years only, 2015 to 2026.
 
 ## 9 November 2026
 
