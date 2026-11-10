@@ -3,9 +3,9 @@ title: DR Congo — News, Oct – Nov 2026
 compiled: 2026-11-10
 period: 2026-10-01 to 2026-11-10
 place: COD
-ledger_rows: 44
+ledger_rows: 45
 not_held: 6
-record: aa5683dbb50d
+record: 5d8c32ee7555
 ---
 
 # News, Oct – Nov 2026
@@ -601,6 +601,20 @@ Kongo Central's provincial digital development agency (ADN-KC) met on 21 October
 **[Nord-Kivu : le recensement numérique de la population reprend à Beni après une interruption liée à Ebola](https://actualite.cd/2026/10/31/nord-kivu-le-recensement-numerique-de-la-population-reprend-beni-apres-une-interruption)** — ACTUALITE.CD, 31 October 2026
 
 North Kivu's Provincial Digital Development and Archives Unit (CPDA) restarted its digitised population census in Beni in the fourth quarter of 2026, ACTUALITE.CD reported. Ebola had halted it. Agents visit households in the city's 30 neighbourhoods. They record births, deaths, moves and address changes in a population file on a provincial server. Butembo and other areas are to follow.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Maniema digitalised property and taxpayer census, Kindu</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lancement du recensement fiscal digitalisé des propriétés immobilières à Kindu](https://www.radiookapi.net/2026/11/09/actualite/societe/lancement-du-recensement-fiscal-digitalise-des-proprietes-immobilieres)** — Radio Okapi, 9 November 2026
+
+Maniema taxpayer file for land, rental and vehicle taxes; census with THE WIN from 9 Nov 2026; payment from Jan 2027.
 
 </div>
 
