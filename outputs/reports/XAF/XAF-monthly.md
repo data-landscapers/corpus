@@ -5,7 +5,7 @@ period: 2026-10-01 to 2026-11-10
 place: XAF
 ledger_rows: 71
 not_held: 3
-record: 1be9a165bb10
+record: 4a2a0325ce40
 ---
 
 # News, Oct – Nov 2026
@@ -1133,6 +1133,14 @@ The African Union Commission's Media and Information Literacy Framework was repo
 **[African telecom regulators convene in Nairobi to strengthen cooperation on emerging digital challenges](https://ipris.digital/african-telecom-regulators-convene-in-nairobi-to-strengthen-cooperation-on-emerging-digital-challenges/)** — iPRIS, 5 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
 
 A European-funded regulatory capacity programme is holding its eighth cohort in Nairobi from 5 to 9 October. Regulators from Liberia, Mauritius, Namibia, Sierra Leone, Tanzania and Zimbabwe are taking part with three regional regulators' associations.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[The iPRIS project marks three years and launches its tenth cohort](https://ipris.digital/the-ipris-project-marks-three-years-and-launches-its-tenth-cohort/)** — iPRIS / SPIDER Center, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XSS" title="XSS">Sub-Saharan Africa</a>
+
+34 countries and 56 change initiatives in three years; five lusophone states join February 2027.
 
 </div>
 
