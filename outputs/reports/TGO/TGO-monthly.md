@@ -1,11 +1,11 @@
 ---
 title: Togo — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: TGO
-ledger_rows: 25
+ledger_rows: 26
 not_held: 16
-record: 4ac460e25f8a
+record: ccacdd5f433a
 ---
 
 # News, Oct – Nov 2026
@@ -65,6 +65,20 @@ Togo scored 1.24 out of 4 on the Africa AI Governance Index 2026, in the Emergin
 **[Conseil des ministres du 06 novembre 2026](https://www.republiquetogolaise.tg/gestion-publique/0711-12467-conseil-des-ministres-du-06-novembre-2026)** — Togo Officiel, République Togolaise, 7 November 2026
 
 Togo's Council of Ministers met on 6 November 2026 and authorised submission for adoption of a national postal-sector policy for 2026-2029. Its five orientations include digital transformation, digital financial services and e-commerce. The council also took a first reading of a bill amending the 2018 land and property code to digitalise land management and create a national land observatory.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Media regulator's register of content creators</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Réseaux sociaux : la HARC recense les créateurs de contenus](https://www.republiquetogolaise.tg/tic/1011-12481-reseaux-sociaux-la-harc-recense-les-createurs-de-contenus)** — République togolaise (site officiel), 10 November 2026
+
+Togo's communication regulator, HARC, called on content creators, bloggers and influencers to register in its database, in a communiqué of 9 November 2026. A QR-code form collects identity, residence, field of activity, and electronic and telephone contacts. The regulator says it wants an up-to-date directory of people active on digital platforms, the government portal reported on 10 November 2026.
 
 </div>
 
