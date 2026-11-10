@@ -1,11 +1,11 @@
 ---
 title: Tunisia — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: TUN
-ledger_rows: 36
+ledger_rows: 37
 not_held: 5
-record: 961d59f393ee
+record: 40a4f6d1c0e0
 ---
 
 # News, Oct – Nov 2026
@@ -123,6 +123,20 @@ Tunisia's Forum Chawki Gaddes for digital rights condemned the spread on social 
 **[وزارة تكنولوجيات الاتصال: إجراءات جديدة لتوفير حماية أكبر للأطفال على شبكة الإنترنت](https://www.alchourouk.com/article/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%AA%D9%88%D9%81%D9%8A%D8%B1-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A3%D9%83%D8%A8%D8%B1-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%B9%D9%84%D9%89-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA)** — Al Chourouk, 5 October 2026
 
 Tunisia's communications ministry announced child-protection measures resting on a telecommunications regulator's decision of 10 June 2026. Internet providers must offer parental controls covering site blacklists, device management and access-time limits, tell subscribers about them and write a child-protection clause into contracts.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Bill on protecting children in the digital environment</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ministère de la Famille : 77,7 % d'utilisateurs d'Internet dès 10 ans](https://www.nessma.tv/fr/nationale/actu/ministere-de-la-famille-777-dutilisateurs-dinternet-des-10-ans/597664)** — Nessma / TAP, 5 November 2026
+
+Family ministry starts drafting a child online-protection bill; officials cite 77.7% internet use from age 10.
 
 </div>
 
