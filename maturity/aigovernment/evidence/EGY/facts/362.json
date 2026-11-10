@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-07-egy-youm7-cairo-ict-ministers-1gw-power-data-centres",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "Investment and Foreign Trade Minister Mohamed Farid says the ministry is developing its trade regulatory lab using AI and working to use AI in analysing data and trade operations.",
+   "as_of": "2026-11-07",
+   "date_precision": "day",
+   "system": "Trade regulatory lab",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Trade regulatory lab",
+   "country_label": "Egypt",
+   "class": "govai",
+   "platform": "",
+   "owner": "Ministry of Investment and Foreign Trade",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

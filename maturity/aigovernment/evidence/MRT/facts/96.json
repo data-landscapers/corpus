@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-09-mrt-build-once-use-across-government-mauritania-s-govstack-journey",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Liquio low-code platform (Kitsoft)",
+   "country_label": "Mauritania",
+   "class": "other",
+   "platform": "Liquio",
+   "owner": "Kitsoft",
+   "tiers": ""
+  }
+ ],
+ "note": "AI-assisted Liquio was used only in a training-workshop prototype, not a government body's AI system."
+}

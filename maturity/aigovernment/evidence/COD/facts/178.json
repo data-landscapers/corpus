@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-09-rdc-un-systeme-connecte-pour-mieux-organiser-les-interventions-medical",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Etoile Bleue",
+   "country_label": "DR Congo",
+   "class": "other",
+   "platform": "digital platform with geolocation and AI-assisted alert handling, 199 line, mobile app",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "Etoile Bleue is a health-sector emergency system, not general administration AI."
+}
