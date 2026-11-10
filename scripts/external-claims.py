@@ -359,12 +359,11 @@ def adapt_itu(d, edition, release) -> list[dict]:
                 for a in e.get(key) or []:
                     item = f"r{a['id']}"
                     st, fit = studies_for(m, [item])
-                    v = a.get("value")
+                    # The answer in words; ITU's points for it are a score, so they are dropped.
                     out.append({
                         "source": "itu", "edition": edition, "survey_year": year, "iso3": iso,
                         "item": item, "question": f"{pillar}: {(a.get('area') or '').strip()}",
-                        "status": f"{(a.get('description') or '').strip()} ({v:g})" if v is not None
-                                  else (a.get("description") or "").strip(),
+                        "status": (a.get("description") or "").strip(),
                         "name": "", "year": "", "url": "", "documents": "",
                         "basis": "self-reported", "studies": st, "fit": fit})
     return out
@@ -405,7 +404,9 @@ def adapt_spi(d, edition, release) -> list[dict]:
         if iso not in ours:
             continue
         for code, v in r.items():
-            if not code.startswith("SPI.") or v in ("", "NA"):
+            # Only the codes the lookup maps: they are facts (a census held, a law compliant, a
+            # plan funded). The rest are SPI's own composites, which are scores (Bill, 2026-11-10).
+            if not code.startswith("SPI.") or v in ("", "NA") or code.lower() not in m:
                 continue
             st, fit = studies_for(m, [code])
             label = meta.get(code, (SPI_LABELS.get(code, code), ""))[0]

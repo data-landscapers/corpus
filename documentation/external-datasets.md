@@ -26,7 +26,13 @@ Both come down to the same thing, a **claim**: one statement about one country, 
 | `basis` | `self-reported` (a government answered GTMI's survey), `publisher-assessed` (the World Bank filled it in remotely) or `publisher-compiled` (Carnegie) |
 | `studies`, `fit` | The maturity studies the question maps to, and how well |
 
-**Scores are not converted.** GTMI's composite scores and the five indices it carries from the UN and ITU are formulas in the workbook. A score we want goes through `reference/measures.csv` like any other.
+**Index values are skipped, unless real data sits behind them** *(Bill, 2026-11-10)*. Kept: an answer in words, a named system or law, a year, a link, an observed yes or no, and ODIN's element scores, each of which records one observed fact about a data category. Dropped:
+- GTMI's composites, and the five UN and ITU indices it carries;
+- the points ITU gives each answer;
+- SPI's own composites (only the codes the lookup maps are kept);
+- the UN e-government indices. With those gone, the UN E-Government Survey left only portal URLs and a few questionnaires, so it was dropped the same day.
+
+A figure we want goes through `reference/measures.csv` like any other.
 
 ## 2. Files
 
@@ -65,8 +71,8 @@ The first reading, on 2026-11-10, found three patterns:
   - GTMI: 499 staged, 75 held, 12 undated, 77 thin, 369 unfetchable, plus 23 listings or error pages.
   - UNCTAD's Global Cyberlaw Tracker (added the same day): 303 claims, one per law or per area with none. 72 staged, 26 held, 10 already staged by another source, 72 unfetchable, 6 thin. Its status is in `data.csv` and its laws in `document_links.json`, both on `storage.unctad.org`; unctad.org itself refuses scripted fetches.
   - ODIN (Open Data Watch's Open Data Inventory, the same day): no file, so `fetch_odin` reads the site's own API, one profile per country and round (2016-2024, 324 calls, about 15 minutes), and keeps the parts a claim is made from as one gzip. 6,393 claims, one per country, round and data category. Each carries the ten element scores (`-1` is ODIN's "not scored"), the series found, the latest year of data and where the assessor found it. Its `shape` is `index`: the links are statistics offices' data tables, so none is staged, only the latest round's record. It maps every category to `opendatapolicy` as `theirs-broader`, since ODIN tests what is published openly and ours asks for a policy.
-  - ITU's ICT Regulatory Tracker (the same day): its site, `app.gen5.digital`, reads ITU's metrics API, which `fetch_itu` calls once per country and year, 2007-2024 (864 calls). That gives 42,017 claims: the 50 answers in words with their scores, in four pillars (regulator, mandates, regime, competition). Only a few map: the broadband plan, the consultation duty, the telecom consumer mandate, international-gateway competition and foreign-ownership limits (to `digitalsovereignty`). The rest is the telecom-regulation layer we have no indicator for, the same gap as Carnegie's unmapped rows. Licence CC BY-NC-SA 4.0, as the tracker states.
-  - World Bank SPI (the same day), from its GitHub repository: 44,557 claims, the indicator values for 2004-2024. SPI mostly compiles other databases (the UN SDG statistics indicators, ODIN, the IMF). Its own work, the census years (Kenya "1999, 2009, 2019"), rides on the census claims. Mapped: censuses and surveys, CRVS completeness, the statistics law's UN compliance, the statistics plan's funding (`theirs-broader`: ours stops at the plan) and the microdata catalogue.
+  - ITU's ICT Regulatory Tracker (the same day): its site, `app.gen5.digital`, reads ITU's metrics API, which `fetch_itu` calls once per country and year, 2007-2024 (864 calls). That gives 42,017 claims: the 50 answers in words, in four pillars (regulator, mandates, regime, competition). Only a few map: the broadband plan, the consultation duty, the telecom consumer mandate, international-gateway competition and foreign-ownership limits (to `digitalsovereignty`). The rest is the telecom-regulation layer we have no indicator for, the same gap as Carnegie's unmapped rows. Licence CC BY-NC-SA 4.0, as the tracker states.
+  - World Bank SPI (the same day), from its GitHub repository: 11,206 claims, the factual indicator values for 2004-2024. SPI mostly compiles other databases (the UN SDG statistics indicators, ODIN, the IMF). Its own work, the census years (Kenya "1999, 2009, 2019"), rides on the census claims. Mapped: censuses and surveys, CRVS completeness, the statistics law's UN compliance, the statistics plan's funding (`theirs-broader`: ours stops at the plan) and the microdata catalogue.
   - A register's year is the instrument's own and dates it first; an upload path or a PDF's metadata dated Ghana's 2008 Act 2026. Carnegie's batches went out before this rule, so 91 of them carry their path date, marked `proxy`.
   - A GTMI year answer dates the system, never a page: a treasury's founding year once dated its 2025 newsletter 1990. A GTMI document is dated by its path or its own metadata; a Carnegie row's year is the instrument's own.
   - Most unfetchable links are 404s with no Wayback capture. They stay as claims. `stage --retry` fetches the transient failures again.
@@ -77,4 +83,4 @@ The first reading, on 2026-11-10, found three patterns:
 
 **The maturity pass.** Claims reach a study as evidence through a drafter reading them beside the held primary, under the citing rule above. It waits on the primaries landing, and on `study-update.py` → `HELD`. Registered as a CORPUS housekeeping job.
 
-**More sources.** These include the ITU ICT regulatory tracker, the UN e-government survey's country data and the IIAG's indicator data. Each needs one adapter, one register row and a block of mappings.
+**More sources.** Next is a selection of the World Bank's World Development Indicators (Bill, 2026-11-10). Each source needs one adapter, one register row and a block of mappings.
