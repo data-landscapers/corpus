@@ -598,7 +598,11 @@ infra.connect--international-internet-bandwidth,Movement,The earlier regional co
 
 2026-03-10 — [a second operation under the same regional programme was approved, at US$137m across Benin, Liberia and Sierra Leone](2026-03-10-worldbank-wardip2-press-release).
 
-What neither record carries is a capacity figure: no international bandwidth in gigabits per second, and no price per megabit, appears anywhere on this ledger.",BEN-infra.connect-international-bandwidth,,,,,,,,,,,
+2020-12-23 - the Council of Ministers [approved the contract for a branching unit to land the 2Africa cable in Benin](2020-12-24-ben-cable-sous-marin-2africa-le-conseil-des-ministres-approuve-l-integrati); no landing or service date for it has been found.
+
+2022-11 - the regulator [counted three submarine cables landing in the country, SAT-3, ACE and West Africa](2022-11-10-ben-partage-d-experiences-de-l-arcep-benin-sur-la-resilience-et-la-securit).
+
+What neither record carries is a capacity figure: no international bandwidth in gigabits per second, and no price per megabit, appears anywhere on this ledger.",BEN-infra.connect-international-bandwidth|BEN-infra.connect-sat3-cable|BEN-infra.connect-ace-cable|BEN-infra.connect-2africa-branching-unit,,,,,,,,,,,
 infra.store--local-data-centre-capacity-all-providers,Movement,"The national data centre [is in service](2021-06-01-numerique-gouv-bj-datacenter-national-tests) and a privately financed carrier-neutral facility [signed definitive agreements](2025-08-07-greenline-tech-grand-parakou-agreements). [About 2 MW was on site in all in April 2026, under-used](2026-04-14-ben-ciomag-datacenters-et-energie).","[The national data centre at Abomey-Calavi was under commissioning with tier certification in progress, secured power and dual fibre](2021-06-01-numerique-gouv-bj-datacenter-national-tests).
 
 2025-08-07 — [definitive agreements were signed for a Tier III-ready, carrier-neutral data facility in Parakou paired with a 10 MW solar plant](2025-08-07-greenline-tech-grand-parakou-agreements), commissioning still ahead.
