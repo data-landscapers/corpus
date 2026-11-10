@@ -372,6 +372,51 @@ def adapt_itu(d, edition, release) -> list[dict]:
 
 FETCHERS = {"odin": fetch_odin, "itu": fetch_itu}
 
+
+# SPI's metadata labels 17 of its 53 codes; these are the unlabelled ones a study reads.
+SPI_LABELS = {
+    "SPI.D4.1.1.POPU": "Population census (SPI scoring window)",
+    "SPI.D4.1.2.AGRI": "Agricultural census (SPI scoring window)",
+    "SPI.D4.1.3.BIZZ": "Business or establishment census (SPI scoring window)",
+    "SPI.D4.1.4.HOUS": "Household consumption or income survey (SPI scoring window)",
+    "SPI.D4.1.5.AGSVY": "Agricultural survey (SPI scoring window)",
+    "SPI.D4.1.6.LABR": "Labour force survey (SPI scoring window)",
+    "SPI.D4.1.7.HLTH": "Health or demographic survey (SPI scoring window)",
+    "SPI.D4.1.8.BZSVY": "Business or establishment survey (SPI scoring window)",
+    "SPI.D4.2.3.CRVS": "Birth and death registration at least 90% and 75% complete (SDG 17.19.2)",
+}
+
+
+def adapt_spi(d, edition, release) -> list[dict]:
+    """The World Bank's Statistical Performance Indicators, from its GitHub repository: one claim
+    per country, year and indicator that has a value. Most of SPI is drawn from other databases
+    (the UN SDG database, ODIN, IMF); its own work is the census years, carried as the name on
+    the census claims. Labels come from SPI's metadata where it has one (17 of 53 codes)."""
+    meta = {}
+    for r in csv.DictReader(io.StringIO((d / "SPI_full_metadata.csv").read_bytes().decode("cp1252"))):
+        if r["indicator_id"]:
+            meta[r["indicator_id"]] = (r["indicator name"].strip(), r["indicator_scoring"].strip())
+    census = {r["iso3c"]: r["POP.CENSUS"] for r in rows(d / "D4.1.1.CEN.POPU_manual.csv")
+              if r["POP.CENSUS"] not in ("", "NA")}
+    ours = {r["iso-3"] for r in rows(COUNTRIES)}
+    m, out = mapping("spi"), []
+    for r in rows(d / "SPI_data.csv"):
+        iso = r["iso3c"]
+        if iso not in ours:
+            continue
+        for code, v in r.items():
+            if not code.startswith("SPI.") or v in ("", "NA"):
+                continue
+            st, fit = studies_for(m, [code])
+            label = meta.get(code, (SPI_LABELS.get(code, code), ""))[0]
+            out.append({
+                "source": "spi", "edition": edition, "survey_year": r["date"], "iso3": iso,
+                "item": code, "question": label, "status": v,
+                "name": f"Censuses: {census[iso]}" if code == "SPI.D4.1.1.POPU" and iso in census else "",
+                "year": "", "url": "", "documents": "", "basis": "publisher-compiled",
+                "studies": st, "fit": fit})
+    return out
+
 ODIN_CRITERIA = ["indicators", "last 5 years", "last 10 years", "first admin level",
                  "second admin level", "machine-readable", "non-proprietary", "download options",
                  "metadata", "terms of use"]
@@ -416,7 +461,7 @@ def adapt_odin(d, edition, release) -> list[dict]:
 
 
 ADAPTERS = {"aftech": adapt_aftech, "gtmi": adapt_gtmi, "unctad": adapt_unctad, "odin": adapt_odin,
-            "itu": adapt_itu}
+            "itu": adapt_itu, "spi": adapt_spi}
 
 
 # --- fetch and claims ------------------------------------------------------------------------

@@ -158,3 +158,15 @@ itu,r47,,digitalsovereignty,partial,
 itu,r48,,digitalsovereignty,partial,
 itu,r49,,digitalsovereignty,partial,
 itu,r50,,digitalsovereignty,partial,
+spi,SPI.D4.1.1.POPU,,censuses,same,"Population census held within SPI's window; the census years themselves come with it."
+spi,SPI.D4.1.2.AGRI,,censuses,partial,Agricultural census.
+spi,SPI.D4.1.3.BIZZ,,censuses,partial,Business or establishment census.
+spi,SPI.D4.1.4.HOUS,,censuses,partial,Household survey.
+spi,SPI.D4.1.5.AGSVY,,censuses,partial,Agricultural survey.
+spi,SPI.D4.1.6.LABR,,censuses,partial,Labour force survey.
+spi,SPI.D4.1.7.HLTH,,censuses,partial,Health survey.
+spi,SPI.D4.1.8.BZSVY,,censuses,partial,Business or establishment survey.
+spi,SPI.D4.2.3.CRVS,,civilregister,partial,Birth and death registration complete (UN SDG 17.19.2); outcome rather than system.
+spi,SPI.D5.1.DILG,,statisticslaw,theirs-narrower,Statistics law compliant with the UN Fundamental Principles (PARIS21 via SDG 17.18.2).
+spi,SPI.D5.5.DIFI,,statisticsstrategy,theirs-broader,Statistical plan fully funded and under implementation (SDG 17.18.3). Theirs tests funding; ours stops at the plan.
+spi,SPI.D2.4.NADA,,opendatause,partial,Microdata catalogue (NADA) published.
