@@ -1,6 +1,6 @@
 # Use of AI in sectoral management information systems: AI in sector systems
 
-*As at 2026-10-22.*
+*As at 2026-11-10.*
 
 ## The norm
 
@@ -20,15 +20,24 @@ The Continental AI Strategy asks for AI adopted in the core sectors, with nation
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
+| 5 Leading | 3 |
 | 4 Operating | 0 |
-| 3 Established | 39 |
+| 3 Established | 38 |
 | 2 Nascent | 5 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 8 |
 
 ## Countries
+
+### Ethiopia: 5 Leading
+
+Ethiopia's AI institute said in 2026 that AI is deployed in justice, public administration and health, and the fertiliser advisory's yield gains are reported.
+
+- ENA reports Ethiopian AI Institute director general Worku Gachena saying AI technologies are being widely deployed in the justice sector, government service delivery, public administration and healthcare ([source, 2026-07-25](https://www.ena.et/web/eng/w/eng_9274852)).
+- CGIAR reports that the HaFAS fertilizer advisory system, run by Ethiopia's Ministry of Agriculture and EIAR and using AI and machine learning analytics, gave farm-specific recommendations to 49,000 farmers in 2025 and is being adopted in the national extension system ([source, 2025](https://www.cgiar.org/news-events/news/how-ethiopia-built-national-digital-fertilizer-advisory-system)).
+- IDinsight says HEP Assist, built by Last Mile Health with Ethiopia's Ministry of Health, is launched in five regions and operating, with call agents using an LLM assistant to answer health extension workers' clinical queries ([source, 2025](https://www.idinsight.org/project/building-an-ai-powered-clinical-advisor-to-strengthen-frontline-healthcare-in-ethiopia/)).
+- Addis Fortune reports that the Ministry of Revenues and the Ethiopian Customs Commission unveiled an AI-powered Passenger Risk Management System among eight digital systems on 12 October 2025 ([source, 2025-10-12](https://addisfortune.news/revenue-customs-launch-eight-new-tech-systems)).
 
 ### Kenya: 5 Leading
 
@@ -136,14 +145,6 @@ The health ministry's AI chest X-ray units were deployed for TB screening in 202
 Eswatini's public hospitals have screened for diabetic eye disease with AI since 2025; no source found reports AI in other sectors and its results.
 
 - Swazi24 reports that an AI-powered diabetic retinopathy diagnostic system, from the Taiwan Technical Mission's NCD Project, was launched and is operational at six public hospitals and health centres (Mbabane Government, Piggs Peak, Mankayane, RFM, Dvokolwako, Emkhuzweni), officiated by the Minister of Health ([source, 2025-08-07](https://swazi24.com/20702/news/health/six-hospitals-in-eswatini-roll-out-ai-eye-screening-tech/)).
-
-### Ethiopia: 3 Established
-
-Ethiopia has AI in service for fertiliser advice, health workers' queries and customs passenger risk in 2025, each in separate sources; none names several sectors.
-
-- CGIAR reports that the HaFAS fertilizer advisory system, run by Ethiopia's Ministry of Agriculture and EIAR and using AI and machine learning analytics, gave farm-specific recommendations to 49,000 farmers in 2025 and is being adopted in the national extension system ([source, 2025](https://www.cgiar.org/news-events/news/how-ethiopia-built-national-digital-fertilizer-advisory-system)).
-- IDinsight says HEP Assist, built by Last Mile Health with Ethiopia's Ministry of Health, is launched in five regions and operating, with call agents using an LLM assistant to answer health extension workers' clinical queries ([source, 2025](https://www.idinsight.org/project/building-an-ai-powered-clinical-advisor-to-strengthen-frontline-healthcare-in-ethiopia/)).
-- Addis Fortune reports that the Ministry of Revenues and the Ethiopian Customs Commission unveiled an AI-powered Passenger Risk Management System among eight digital systems on 12 October 2025 ([source, 2025-10-12](https://addisfortune.news/revenue-customs-launch-eight-new-tech-systems)).
 
 ### Gambia: 3 Established
 

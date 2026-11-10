@@ -7,22 +7,22 @@ aiabuse	EGY	aiharm	4	2
 aiabuse	MOZ	aiharm	4	1		
 aiabuse	SDN	aiharm	4	2		
 aiabuse	TCD	aiharm	4	1		
-aisectoral	AGO	sectorai	5	3		
-aisectoral	BFA	sectorai	5	3		
-aisectoral	CAF	sectorai	5	3		
-aisectoral	COD	sectorai	5	3		
-aisectoral	DJI	sectorai	5	3		
-aisectoral	DZA	sectorai	5	3		
-aisectoral	ETH	sectorai	5	3		
-aisectoral	GHA	sectorai	5	3		
-aisectoral	LSO	sectorai	5	3		
-aisectoral	MAR	sectorai	5	3		
-aisectoral	MWI	sectorai	5	3		
-aisectoral	TGO	sectorai	5	3		
-aisectoral	TZA	sectorai	5	3		
-aisectoral	UGA	sectorai	5	3		
-aisectoral	ZAF	sectorai	5	3		
-aisectoral	ZMB	sectorai	5	3		
+aisectoral	AGO	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10
+aisectoral	BFA	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10
+aisectoral	CAF	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10
+aisectoral	COD	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10
+aisectoral	DJI	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10
+aisectoral	DZA	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10
+aisectoral	ETH	sectorai	5	3	restaged 5 on ETH-017 (by hand)	2026-11-10
+aisectoral	GHA	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10
+aisectoral	LSO	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10
+aisectoral	MAR	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10
+aisectoral	MWI	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10
+aisectoral	TGO	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10
+aisectoral	TZA	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10
+aisectoral	UGA	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10
+aisectoral	ZAF	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10
+aisectoral	ZMB	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10
 centralbank	AGO	centralbank	4	unplaced		
 centralbank	BDI	centralbank	4	unplaced		
 centralbank	COM	centralbank	4	unplaced		

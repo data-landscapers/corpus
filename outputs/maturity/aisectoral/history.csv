@@ -72,3 +72,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,MWI,tech.ai--use-of-ai-in-sectoral-management-information-systems,ladder,5,3,MWI-006;MWI-004;MWI-003,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
 2026-11-09,TGO,tech.ai--use-of-ai-in-sectoral-management-information-systems,ladder,5,3,TGO-004;TGO-002,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
 2026-11-09,UGA,tech.ai--use-of-ai-in-sectoral-management-information-systems,ladder,5,3,UGA-005;UGA-002,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-10,ETH,tech.ai--use-of-ai-in-sectoral-management-information-systems,ladder,3,5,ETH-017;ETH-012;ETH-007;ETH-006,"Restaged under message 114 (housekeeping 57): ETH-017 names AI in service in justice, public administration and health; 3 to 5."
