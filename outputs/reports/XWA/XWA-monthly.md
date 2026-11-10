@@ -1,11 +1,11 @@
 ---
 title: West Africa — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: XWA
 ledger_rows: 24
 not_held: 1
-record: a3363eac7bb6
+record: 8451667c6a06
 ---
 
 # News, Oct – Nov 2026
@@ -247,6 +247,14 @@ Summarised under [Regional collaboration](#regional-collaboration).
 **[ECOWAS pushes biometric ID toward region-wide border acceptance by December](https://www.biometricupdate.com/202610/ecowas-pushes-biometric-id-toward-region-wide-border-acceptance-by-december)** — Biometric Update, 5 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a>
 
 ECOWAS is running public campaigns in Ghana and Nigeria ahead of its December 2026 target for all member states to accept its biometric identity card at air, land and sea borders. Seven member states have issued the card so far.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[ECOWAS Heads of Immigration sign Freetown Declaration to mandate ENBIC acceptance by January 1, 2027](https://www.ecowas.int/ecowas-heads-of-immigration-sign-freetown-declaration-to-mandate-enbic-acceptance-by-january-1-2027/)** — ECOWAS Commission, 9 November 2026
+
+ECOWAS Heads of Immigration adopted the Freetown Declaration on 4 November 2026. Member states commit to accept any valid ECOWAS National Biometric Identity Card at official border crossings from 1 January 2027, whether or not the issuing state has started its own rollout. National rollout plans are due to the Commission by December 2030.
 
 </div>
 
