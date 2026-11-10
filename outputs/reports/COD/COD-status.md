@@ -1,12 +1,12 @@
 ---
 title: DR Congo: status report
-compiled: 2026-11-09
+compiled: 2026-11-10
 place: COD
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 6
-sources_cited: 280
+sources_cited: 282
 sections_written: 39
 not_established: 1
 acquire_lines: 50
@@ -122,6 +122,8 @@ Civil society in Fizi territory and Baraka in South Kivu [demanded in October 20
 
 <!-- derived -->
 At least four network failures or restrictions were recorded between February 2025 and February 2026, from a 24-hour outage to a blackout of nearly a month, mobile money failing first in each of the eastern cases.
+
+[The country connected to the WACS submarine cable in 2013, and 2Africa reached the coast at Muanda in September 2023](https://www.agenceecofin.com/actualites-numerique/0305-138080-la-rdc-veut-renforcer-ses-moyens-de-connectivite-internet-internationale). [One operator brought 2Africa into service in December 2025 with an initial 200 Gb/s](https://www.agenceecofin.com/actualites-numerique/0305-138080-la-rdc-veut-renforcer-ses-moyens-de-connectivite-internet-internationale). [A WACS fault between the two Congos on 29 October 2026 awaited a repair vessel due on 11 November](https://itweb.africa/article/wacs-cable-repairs-enter-critical-phase/lLn14MmQ9DnMJ6Aa).
 
 [Paratus lit its Goma-to-Mombasa fibre in February 2026](https://itweb.africa/article/paratus-lights-up-new-east-africa-fibre-highway-linking-goma-to-mombasa/wbrpOqg2aJQMDLZn), giving the east a land route to the sea. It joins an older transit path. [Liquid's terrestrial route from Mombasa to Johannesburg, launched in May 2023, crosses the country by a Goma-Kananga link](https://liquid.tech/about-us/news/liquid-dataport-launches-the-first-terrestrial-data-superhighway-connecting-mombasa-to-johannesburg/). [Google routes its Umoja link to Australia over it](https://cloud.google.com/blog/products/infrastructure/investing-in-connectivity-and-growth-for-africa) (2024). The network reaches far more people than use it. [3G covers 68% of the population and 4G 57% (2026)](https://www.connectingafrica.com/connectivity/drc-connectivity-improves-but-some-usage-power-supply-gaps-linger). [The regulator's observatory counted 77 million active mobile subscriptions, a penetration of 68.6%, in the second quarter of 2026](https://acp.cd/economie/telecoms-kinshasa-concentre-plus-de-19-millions-dabonnements-mobiles-actifs/). Against that stand [about 19.7% of individuals using the internet in 2024](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=CD) and [fixed broadband access under 0.02% in 2023 on the regulator's own figures](https://actualite.cd/2025/06/22/rdc-le-gouvernement-appele-redoubler-defforts-pour-reduire-la-fracture-numerique-en). [Internet and Computers fell 9.6 points over 2014-2023 to 10.1 out of 100, 47th of 54 African states (2023)](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-cd.pdf).
 

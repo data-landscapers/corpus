@@ -1,11 +1,11 @@
 ---
 title: DR Congo — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: COD
-ledger_rows: 42
+ledger_rows: 44
 not_held: 6
-record: f2fb9811bae5
+record: 374d0c067f34
 ---
 
 # News, Oct – Nov 2026
@@ -262,6 +262,20 @@ DR Congo had 77 million active mobile subscriptions in the second quarter of 202
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">WACS submarine cable (Muanda landing)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[WACS cable repairs enter critical phase](https://itweb.africa/article/wacs-cable-repairs-enter-critical-phase/lLn14MmQ9DnMJ6Aa)** — ITWeb Africa, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a>
+
+29 Oct 2026 fault on DRC-Congo segment; repair ship due 11 Nov; Congo Telecom failover kept service up.
+
+</div>
+
+</div>
+
 ### Technical Capacity
 
 <div class="monthly-story" markdown="1">
@@ -471,6 +485,20 @@ WHO's Africa office has deployed its AI-based Preparedness Data Exchange in the 
 **[RDC: l’UE et le PNUD accompagnent la digitalisation de la justice pour renforcer la transparence et améliorer les services aux justiciables](https://actualite.cd/2026/11/05/rdc-lue-et-le-pnud-accompagnent-la-digitalisation-de-la-justice-pour-renforcer-la)** — ACTUALITE.CD, 5 November 2026
 
 DR Congo's Ministry of Justice launched digital collection of court fees on 5 November 2026, with the courts, prosecutors' offices and prisons to be interconnected. UNDP provides technical support and the EU funds it. The first digital nationality certificate was issued at the launch, and a second phase is planned for early 2027.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Etoile Bleue emergency medical response system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[RDC : un système connecté pour mieux organiser les interventions médicales](https://www.wearetech.africa/fr/fils/actualites/tech/rdc-un-systeme-connecte-pour-mieux-organiser-les-interventions-medicales)** — wearetech.africa, 9 November 2026
+
+Etoile Bleue: free 199 line, app, regulation centre; 130 ambulances, 300 motorbikes; Kinshasa and Matadi first.
 
 </div>
 
