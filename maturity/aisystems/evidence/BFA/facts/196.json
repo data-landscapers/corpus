@@ -1,0 +1,34 @@
+{
+ "slug": "2026-11-09-bfa-intelligence-artificielle-et-langues-nationales-le-burkina-faso-face-a",
+ "facts": [
+  {
+   "sub_indicator": "localai",
+   "aspect": "build",
+   "value": "underway",
+   "fact": "A researchers' panel at Le Faso Digital said AI language tools for Burkina Faso's national languages are being developed, citing experiments with Citadel and GoIA Corporation and the Watige and LangueAfrique projects, with imperfect results.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "Watige; LangueAfrique",
+   "class": "localai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Watige",
+   "country_label": "Burkina Faso",
+   "class": "localai",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "LangueAfrique",
+   "country_label": "Burkina Faso",
+   "class": "localai",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
