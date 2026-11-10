@@ -1,12 +1,12 @@
 ---
 title: Liberia: status report
-compiled: 2026-11-09
+compiled: 2026-11-10
 place: LBR
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 8
-sources_cited: 209
+sources_cited: 213
 sections_written: 39
 not_established: 3
 acquire_lines: 60
@@ -79,7 +79,7 @@ Every deadline in that programme had passed by August 2026.
 
 [The 2026 Public Procurement and Concessions Act requires public entities to use the e-GP system](https://www.liberianobserver.com/news/ppcc-rolls-out-ict-equipment-for-phase-two-of-e-gp-system/article_d2a4d198-790e-4364-bc97-e335eaaaa7c5.html). [In August 2026 the Telecommunications Authority launched an automated licensing and renewal platform, keeping the in-person route open](https://www.connectingafrica.com/connectivity/liberia-launches-automated-telecom-licensing-renewal-system).
 
-[The Liberia Standards Authority became a correspondent member of ISO in October 2025, its dues paid through an EU-funded project](https://frontpageafricaonline.com/liberia-standards-authority-joins-iso-afsec-as-director-general-departs-for-global-leaders-gathering-in-rwanda/).
+[The Liberia Standards Authority became a correspondent member of ISO in October 2025, its dues paid through an EU-funded project](https://frontpageafricaonline.com/liberia-standards-authority-joins-iso-afsec-as-director-general-departs-for-global-leaders-gathering-in-rwanda/). [In November 2025 its director general announced that Liberia is now a full ISO member](https://www.liberianobserver.com/news/liberia-attains-full-iso-membership/article_31c242b3-2a0f-4118-b019-581fea289693.html).
 
 [In March 2026 WURI committed ECOWAS member states, Liberia among them, to common specifications for foundational digital identity](https://von.gov.ng/ecowas-world-bank-advance-west-africa-digital-identity/). No published standard under it has been found.
 
@@ -250,7 +250,7 @@ The Ministry of Education [has moved from paper to a digital EMIS 2.0 and valida
 
 [An eLiberia one-stop portal was launched in July 2018](https://frontpageafricaonline.com/liberia-posts-telecommunications-calls-for-use-of-internet-to-access-govt-information/). [On 17 and 18 October 2026 ministries validated 16 priority services for digitalisation, towards a new e-Liberia portal and a Government Service Bus](https://frontpageafricaonline.com/liberia-to-digitalize-16-key-government-services-with-world-bank-support/). Online services run agency by agency: [tax registration, filing and payment](https://revenue.lra.gov.lr/eservices/) at the Revenue Authority, [company registration](https://moci.gov.lr/index.php/media/press-releases/effective-business-climate-lbr-launches-modern-online-platform) at the Business Registry, [address registration](https://www.ndpasliberia.com) and, since August 2026, [telecom licensing](https://www.connectingafrica.com/connectivity/liberia-launches-automated-telecom-licensing-renewal-system). [IFMIS was last rebuilt under a World Bank project that closed in 2024](https://projects.worldbank.org/en/projects-operations/project-detail/P165000).
 
-[Executive Order 163 of April 2026 created a digital-government framework around an Office for Technology and Digital Innovation](https://www.liberianobserver.com/news/boakai-s-executive-order-163-signals-digital-government-shift/article_7a31a87b-4fe2-4578-9ff7-b0224f3bf36a.html). [It gives twelve months for a law on the framework to be drafted](https://www.liberianobserver.com/news/boakai-s-executive-order-163-signals-digital-government-shift/article_7a31a87b-4fe2-4578-9ff7-b0224f3bf36a.html). [The World Bank's GREAT project is building digital-government systems across nine institutions to November 2030](https://www.biometricupdate.com/202503/liberia-launches-digital-public-infrastructure-project-with-30m-world-bank-funding). [Liberia scores 0.2905 on the UN E-Government Development Index](https://desapublications.un.org/publications/un-e-government-survey-2024) (2024). [In October 2026 the deputy information minister said the online police clearance platform had earned more than US$200,000 since May 2026](https://www.thenewdawnliberia.com/police-online-clearance-generates-us200k/).
+[Executive Order 163 of April 2026 created a digital-government framework around an Office for Technology and Digital Innovation](https://www.liberianobserver.com/news/boakai-s-executive-order-163-signals-digital-government-shift/article_7a31a87b-4fe2-4578-9ff7-b0224f3bf36a.html). [It gives twelve months for a law on the framework to be drafted](https://www.liberianobserver.com/news/boakai-s-executive-order-163-signals-digital-government-shift/article_7a31a87b-4fe2-4578-9ff7-b0224f3bf36a.html). [The World Bank's GREAT project is building digital-government systems across nine institutions to November 2030](https://www.biometricupdate.com/202503/liberia-launches-digital-public-infrastructure-project-with-30m-world-bank-funding). [Liberia scores 0.2905 on the UN E-Government Development Index](https://desapublications.un.org/publications/un-e-government-survey-2024) (2024). [In October 2026 the deputy information minister said the online police clearance platform had earned more than US$200,000 since May 2026](https://www.thenewdawnliberia.com/police-online-clearance-generates-us200k/). [In November 2026 the Revenue Authority showed a public dashboard of monthly revenue collections by tax type](https://knewsonline.com/lra-commissionergeneral-highlights-revenue-growth-accountability-and-digital-reforms-at-ataf-meetings).
 
 ## Digitalisation
 
@@ -339,14 +339,14 @@ The Public Procurement and Concessions Commission [runs an e-GP Clinic twice a w
 
 [Social protection beneficiaries were being enrolled biometrically in 2025](https://frontpageafricaonline.com/news/liberia-national-identification-registry-drives-digital-transformation-with-strategic-partnerships-and-enrollment-growth/). [Civil servants in three counties are being moved to mobile money salaries](https://truerateliberia.com/news/6) (2026). [Transfers between the two mobile money wallets became interoperable in December 2025](https://frontpageafricaonline.com/business/economy/liberia-cbl-launches-inclusive-instant-payment-system-ends-era-of-mobile-money-silos/). [An entry-level mobile broadband bundle sat within the moderate affordability band](https://www.digitaldevelopment.org/countries/liberia/) (2022).
 
-[The civil registry works through county centres and registration points at health facilities](https://apai-crvs.uneca.org/sites/default/files/resourcefiles/CRVS_LiberiaSnapshot_e.pdf) (2019). [On 4 September 2026 the telecoms regulator opened its first service centre outside Monrovia, at Buchanan](https://newspublictrust.com/lta-begins-decentralizing-its-regulatory-and-consumer-protection-services). [In August 2026 the identity registry named Salayea in Lofa County as its first new enrolment office](https://www.thenewdawnliberia.com/liberia-picks-austrian-firm-for-new-biometric-id-system/).
+[The civil registry works through county centres and registration points at health facilities](https://apai-crvs.uneca.org/sites/default/files/resourcefiles/CRVS_LiberiaSnapshot_e.pdf) (2019). [On 4 September 2026 the telecoms regulator opened its first service centre outside Monrovia, at Buchanan](https://newspublictrust.com/lta-begins-decentralizing-its-regulatory-and-consumer-protection-services). [By November 2026 a second was open at Gbarnga, in Bong County](https://allafrica.com/stories/202611090734.html). [In August 2026 the identity registry named Salayea in Lofa County as its first new enrolment office](https://www.thenewdawnliberia.com/liberia-picks-austrian-firm-for-new-biometric-id-system/).
 
 ### Digital divides
 <!-- include.divides -->
 
 [Equal Socioeconomic Opportunity fell 23.0 points over 2014-2023 to 33.5 out of 100, 40th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-lr.pdf). [It is the second most deteriorated of the 96 indicators in Liberia's 2024 Ibrahim Index profile](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-lr.pdf). [Over the same decade, legal protection against discrimination and rural voice in national policy were among its most improved](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-lr.pdf).
 
-[About 70 per cent of Liberians did not use the internet in 2024, on ITU figures](https://www.wearetech.africa/fr/fils/actualites/telecom/telecoms-le-liberia-identifie-les-zones-mal-desservies-pour-etendre-son-reseau). [Rural electricity access was a fraction of urban access in 2023](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=LR). [Liberia's internet and computers score remains near the foot of the African ranking](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-lr.pdf) (2023).
+[About 70 per cent of Liberians did not use the internet in 2024, on ITU figures](https://www.wearetech.africa/fr/fils/actualites/telecom/telecoms-le-liberia-identifie-les-zones-mal-desservies-pour-etendre-son-reseau). [DataReportal counted 1.90 million internet users in October 2026, 32.2% of the population](https://datareportal.com/reports/digital-2027-liberia). [Rural electricity access was a fraction of urban access in 2023](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?locations=LR). [Liberia's internet and computers score remains near the foot of the African ranking](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-lr.pdf) (2023).
 
 [A 2022 report on women's online rights in Liberia](https://www.mfwa.org/wp-content/uploads/2023/04/WOMENS-ONLINE-RIGHTS-IN-LIBERIA-2022.pdf) gives no national measure of the gap between women's and men's internet use. Liberia is not surveyed individually in the GSMA's mobile gender gap reporting. [Completion of schooling and equality in education both rose steeply over 2014-2023 from a low base](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-lr.pdf).
 

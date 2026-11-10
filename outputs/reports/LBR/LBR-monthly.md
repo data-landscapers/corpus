@@ -1,11 +1,11 @@
 ---
 title: Liberia — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: LBR
-ledger_rows: 20
+ledger_rows: 23
 not_held: 6
-record: 8c5370667ce3
+record: 6e11f6224f3e
 ---
 
 # News, Oct – Nov 2026
@@ -151,6 +151,20 @@ The Liberia Telecommunications Authority said on 26 October 2026 that it had cho
 **[Orange Liberia Launches 5G as Liberia’s First Provider](https://techafricanews.com/2026/10/23/orange-liberia-launches-5g-as-liberias-first-provider/)** — Tech Africa News, 23 October 2026
 
 Orange Liberia launched 5G and presented itself as the country's first 5G provider. It gave no coverage areas, service packages or rollout scale.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Starlink School Connect programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Liberia Regains ATU Voting Rights After U.S.$400k Debt Waiver](https://allafrica.com/stories/202611090734.html)** — The Liberian Investigator via allAfrica, 9 November 2026
+
+Liberia has regained its voting rights in the African Telecommunications Union, the telecoms regulator's chair Clarence K. Massaquoi said on 9 November 2026. A waiver of more than US$400,000 and a government payment of the balance ended its observer status. He gave neither the amount paid nor the date the rights were restored.
 
 </div>
 
@@ -366,6 +380,8 @@ The Liberia Revenue Authority showed a public revenue dashboard and an AI virtua
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
 <a href="#access-to-services">Access to services</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#digital-divides">Digital divides</a>
 </nav>
 
 ### Access to services
@@ -407,6 +423,36 @@ The Press Union of Liberia's president, Julius Kanubah, asked the government on 
 **[IIC Proposes Regional Hub -Grand Gedeh survey backs decentralized access - Analyst Liberia](https://analystliberiaonline.com/iic-proposes-regional-hub-grand-gedeh-survey-backs-decentralized-access/)** — The Analyst News, 27 October 2026
 
 A survey of 1,875 people in Grand Gedeh County on 14-17 October 2026 found that 87.6% had never heard of the Freedom of Information Act of 2010. Some 85.3% did not know how to file a request. Some 77.6% said they use the internet regularly. The Independent Information Commission recommended a feasibility assessment for a regional freedom of information hub in the county.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Decentralised regulator service centres</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Liberia Regains ATU Voting Rights After U.S.$400k Debt Waiver](https://allafrica.com/stories/202611090734.html)** — The Liberian Investigator via allAfrica, 9 November 2026
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
+</div>
+
+### Digital divides
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet penetration</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital 2027: Liberia](https://datareportal.com/reports/digital-2027-liberia)** — DataReportal (Simon Kemp), 5 November 2026
+
+End-2026 data: 1.90m internet users (32.2%), 5.88m mobile connections (99.9%), 1.20m social media identities.
 
 </div>
 
