@@ -3,9 +3,9 @@ title: Madagascar — News, Oct – Nov 2026
 compiled: 2026-11-10
 period: 2026-10-01 to 2026-11-10
 place: MDG
-ledger_rows: 25
+ledger_rows: 26
 not_held: 5
-record: ccf9bad553ec
+record: 08f3d9c0e6af
 ---
 
 # News, Oct – Nov 2026
@@ -349,6 +349,20 @@ Madagascar's digital ministry said its online passport application portal is bei
 **[Lutte contre la corruption: le Bianco lance i-Fanagna, une plateforme numérique de déclaration de patrimoine](https://www.2424.mg/news/lutte-contre-la-corruption-le-bianco-lance-i-fanagna-une-plateforme-numerique-de-declaration-de-patrimoine)** — 2424.mg, 31 October 2026
 
 Madagascar's anti-corruption bureau BIANCO launched i-Fanagna, a platform for filing asset and economic-interest declarations remotely (reported October 2026). BIANCO will also use it to track illicit financial flows. The African Development Bank financed it through the PREGODI governance-by-digitalisation project.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Maritime Single Window</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MADAGASCAR : L’APMF LANCE UNE NOUVELLE PHASE DU PROGRAMME "INTEGRATE – MADAGASCAR" POUR LA MISE EN PLACE DU GUICHET UNIQUE MARITIME - Ports Africa](https://portsafrica.com/fr/madagascar-lapmf-lance-une-nouvelle-phase-du-programme-integrate-madagascar-pour-la-mise-en-place-du-guichet-unique-maritime/)** — Ports Africa, 9 November 2026
+
+Indonesia-assisted phase two from 9 Nov 2026; FAL-compliant maritime single window, procedure mapping and data roadmap.
 
 </div>
 
