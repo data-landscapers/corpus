@@ -3,9 +3,9 @@ title: South Africa — News, Oct – Nov 2026
 compiled: 2026-11-10
 period: 2026-10-01 to 2026-11-10
 place: ZAF
-ledger_rows: 94
+ledger_rows: 96
 not_held: 19
-record: 39d7b6f65cbc
+record: f3d0c6c03da9
 ---
 
 # News, Oct – Nov 2026
@@ -336,6 +336,20 @@ The UK Foreign, Commonwealth and Development Office committed GBP 70,000 on 7 Oc
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Yoco Capital merchant-financing credit facility</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa’s Yoco Secures $100 Million Credit Facility to Expand SME Financing](https://techafricanews.com/2026/11/10/south-africa-yoco-secures-100-million-credit-facility-sme-financing/)** — Tech Africa News, 10 November 2026
+
+Lender Victory Park Capital; pre-approved offers from merchants' sales data, repaid from daily takings.
+
+</div>
+
+</div>
+
 ## ICT Infrastructure
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
@@ -529,6 +543,28 @@ Vodacom announced on 20 October 2026 that it will spend more than R600 million o
 **[IXPs list — The African IXP Association](https://af-ix.org/ixps-list)** — African IXP Association (AF-IX), 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/AGO/AGO-monthly.html" title="AGO">Angola</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BEN/BEN-monthly.html" title="BEN">Benin</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BWA/BWA-monthly.html" title="BWA">Botswana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BFA/BFA-monthly.html" title="BFA">Burkina Faso</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/BDI/BDI-monthly.html" title="BDI">Burundi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CMR/CMR-monthly.html" title="CMR">Cameroon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/CIV/CIV-monthly.html" title="CIV">Côte d'Ivoire</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COD/COD-monthly.html" title="COD">DRC</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/DJI/DJI-monthly.html" title="DJI">Djibouti</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/EGY/EGY-monthly.html" title="EGY">Egypt</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GAB/GAB-monthly.html" title="GAB">Gabon</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GMB/GMB-monthly.html" title="GMB">Gambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GHA/GHA-monthly.html" title="GHA">Ghana</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/GIN/GIN-monthly.html" title="GIN">Guinea</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LSO/LSO-monthly.html" title="LSO">Lesotho</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/LBR/LBR-monthly.html" title="LBR">Liberia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MDG/MDG-monthly.html" title="MDG">Madagascar</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MLI/MLI-monthly.html" title="MLI">Mali</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MUS/MUS-monthly.html" title="MUS">Mauritius</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MOZ/MOZ-monthly.html" title="MOZ">Mozambique</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NAM/NAM-monthly.html" title="NAM">Namibia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/COG/COG-monthly.html" title="COG">Congo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/RWA/RWA-monthly.html" title="RWA">Rwanda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SOM/SOM-monthly.html" title="SOM">Somalia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SDN/SDN-monthly.html" title="SDN">Sudan</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TZA/TZA-monthly.html" title="TZA">Tanzania</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TGO/TGO-monthly.html" title="TGO">Togo</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/TUN/TUN-monthly.html" title="TUN">Tunisia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZWE/ZWE-monthly.html" title="ZWE">Zimbabwe</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 The African IXP Association's page, on file under 9 November 2026, lists Internet exchange points by country and city with the year each opened. Entries include Angola-IXP in Luanda (2006), Benin IX in Cotonou (2013) and the Kinshasa exchange KINIX in the DRC (2012). The page carries no date of its own.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">High-demand spectrum auction</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICASA Notice 4249 of 2026: Questionnaire on the Assignment of High-Demand Radio Frequency Spectrum, Government Gazette No. 55706](https://www.gazettefinder.co.za/gazettes/government-gazette/2026/55706/government-gazette-55706-2026-11-09.pdf)** — Independent Communications Authority of South Africa (ICASA), Government Gazette No. 55706, 9 November 2026
+
+Gazetted questions: 2022 auction review, ex-WOAN 80 MHz, SDIC set-aside, band-by-band use of 2022 spectrum; due 30 Nov.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICASA invites stakeholder input on the planned licensing of high-demand spectrum](https://www.icasa.org.za/news/2026/icasa-invites-stakeholder-input-on-the-planned-licensing-of-high-demand-spectrum)** — ICASA, 10 November 2026
+
+Questionnaire on six IMT bands plus 80MHz once reserved for WOAN; responses due 30 November 2026.
 
 </div>
 
@@ -1223,6 +1259,14 @@ South Africa's government will ask the courts for a supervisory order on impleme
 **[Home Affairs to digitise asylum applications to speed up processing](https://www.sanews.gov.za/south-africa/home-affairs-digitise-asylum-applications-speed-processing)** — SAnews (South African Government News Agency), 11 October 2026
 
 South Africa's home affairs minister said a biometric online platform for asylum applications is to be operating by 10 November 2026, checking applicants' biometrics against earlier rejected claims and verifying their travel documents. He put the backlog of asylum appeals at about 120,000, a figure he said would be confirmed.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Home Affairs launches first phase of Digital Asylum System to cut delays, clear backlogs, and combat abuse](https://www.gov.za/news/media-statements/home-affairs-launches-first-phase-digital-asylum-system-cut-delays-clear)** — South African Government (Department of Home Affairs), 10 November 2026
+
+Intention-to-apply portal live 10 Nov 2026 with facial biometrics; AI tools promised for the appeals backlog.
 
 </div>
 
