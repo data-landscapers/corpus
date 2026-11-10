@@ -1,11 +1,11 @@
 ---
 title: Malawi — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: MWI
-ledger_rows: 23
+ledger_rows: 24
 not_held: 30
-record: 93833c54905b
+record: 7ae9f535d4ee
 ---
 
 # News, Oct – Nov 2026
@@ -245,6 +245,20 @@ UNDP handed Malawi 152 printers to bring birth, marriage and death registration 
 **[UNDP hands over 152 printers to National Registration Bureau to expand civil registration](https://www.undp.org/malawi/news/undp-hands-over-152-printers-national-registration-bureau-expand-civil-registration)** — United Nations Development Programme, 10 October 2026
 
 UNDP's own account of the 152 printers handed to Malawi's registration bureau: 100 for registration at Traditional Authority offices and 52 for health facilities. It puts the Nzika registration application in pilot at 87 locations in five districts, with 250 planned by 2028.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Nzika Wallet mobile digital ID</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Malawi’s Nzika digital ID bounced at the bank](https://malawi24.com/2026/11/09/malawis-nzika-digital-id-bounced-at-the-bank/)** — Malawi24, 9 November 2026
+
+Some Malawian banks are refusing the Nzika digital ID wallet, Zodiak Online reported on 9 November 2026. The wallet launched on 16 September 2026. The Bankers Association of Malawi says it is still a pilot with one bank. The National Registration Bureau promised it the card's validity but set no compliance deadline.
 
 </div>
 
