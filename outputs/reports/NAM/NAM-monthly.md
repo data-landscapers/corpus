@@ -1,11 +1,11 @@
 ---
 title: Namibia — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: NAM
-ledger_rows: 16
+ledger_rows: 17
 not_held: 9
-record: a43a79be1332
+record: cde5071c239c
 ---
 
 # News, Oct – Nov 2026
@@ -153,6 +153,8 @@ Namibia's NAM-CSIRT, housed at the regulator CRAN, recorded 506,143 vulnerabilit
 ## DPI
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under DPI">
+<a href="#data-exchange">Data Exchange</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-identity-and-crvs">Digital Identity and CRVS</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#registries">Registries</a>
@@ -161,6 +163,22 @@ Namibia's NAM-CSIRT, housed at the regulator CRAN, recorded 506,143 vulnerabilit
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
 </nav>
+
+### Data Exchange
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Customs cooperation and mutual assistance agreement with Russia</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Namibia, Russia to share customs data to improve trade](https://neweralive.na/namibia-russia-to-share-customs-data-to-improve-trade/)** — New Era, 9 November 2026
+
+NamRA-Russia pact at third Russia-Africa summit; value, classification and origin data exchanged in confidence.
+
+</div>
+
+</div>
 
 ### Digital Identity and CRVS
 
