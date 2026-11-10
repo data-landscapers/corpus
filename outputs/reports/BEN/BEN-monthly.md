@@ -1,11 +1,11 @@
 ---
 title: Benin — News, Oct – Nov 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: BEN
-ledger_rows: 29
+ledger_rows: 31
 not_held: 4
-record: 7883e40fd963
+record: 1205a4ee8ea8
 ---
 
 # News, Oct – Nov 2026
@@ -34,6 +34,8 @@ record: 7883e40fd963
 <a href="#strategies-plans-and-policies">Strategies, plans and policies</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#legislation-and-regulation">Legislation and regulation</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-protection">Data protection</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -89,6 +91,30 @@ Benin's Council of Ministers approved the government action programme (PAG) for 
 **[Régulation des médias en ligne: 89 organes autorisés par la Haac](https://www.lanation.bj/actualites/regulation-des-medias-en-ligne-89-organes-autorises-par-la-haac)** — La Nation, 2 October 2026
 
 Benin's media regulator HAAC signed conventions with 89 online media outlets in Cotonou on 1 October 2026, completing its authorisation process for websites offering online audiovisual and written-press services. The outlets now operate under the information and communication code and the digital code.
+
+</div>
+
+</div>
+
+### Data protection
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data protection authority</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Les nouveaux membres de l’APDP prêtent serment](https://www.24haubenin.info/?Les-nouveaux-membres-de-l-APDP-pretent-serment=)** — 24 Heures au Bénin, 9 November 2026
+
+Eight APDP councillors under decree 2026-422 sworn in at Porto-Novo on 6 Nov 2026; fourth term begins.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Dr Luciano Hounkponou re-elected President of Benin’s Data Protection Authority](https://techreviewafrica.com/news/8202/x)** — Tech Review Africa, 10 November 2026
+
+The councillors of Benin's Personal Data Protection Authority (APDP) unanimously re-elected Luciano Hounkponou as its president at their first elective plenary of the authority's fourth term. The vote followed the eight councillors' swearing-in before the Supreme Court, Tech Review Africa reported on 10 November 2026.
 
 </div>
 
@@ -533,6 +559,20 @@ Benin's Ministry of Justice and Legislation is the first ministry to apply the g
 **[Bénin : comment fonctionne le portail numérique des services publics ?](https://www.nasuba.info/politique-societe/benin-comment-fonctionne-le-portail-numerique-des-services-publics/)** — Nasuba, 2 November 2026
 
 Nasuba described Benin's national services portal, service-public.bj, as it stood on 2 November 2026. Its home page showed 1,208 listed services, 131 of them online, and over 2.5 million requests. Services are grouped by life event, theme and administration. Online ones include criminal-record extracts, tax certificates and first vehicle registration. The portal shows a new business mode and an AI assistant, Yèmi; a mobile app is to follow.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Artificial Intelligence Institute for Higher Education</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Benin Targets 2027 Launch of Higher Education Artificial Intelligence Institute](https://www.wearetech.africa/en/fils-uk/news/tech/benin-targets-2027-launch-of-higher-education-artificial-intelligence-institute)** — wearetech.africa, 9 November 2026
+
+Minister Medegan Fagla's plan at rectors' conference, 5-6 Nov 2026; dual degrees with universities; SNIAM-linked.
 
 </div>
 
