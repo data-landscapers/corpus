@@ -3,9 +3,9 @@ title: Mauritania — News, Oct – Nov 2026
 compiled: 2026-11-10
 period: 2026-10-01 to 2026-11-10
 place: MRT
-ledger_rows: 13
+ledger_rows: 17
 not_held: 3
-record: 1ebeb6a58fc2
+record: a5cafdaeb375
 ---
 
 # News, Oct – Nov 2026
@@ -87,6 +87,8 @@ Mauritania's Council of Ministers on 14 October 2026 adopted bills to ratify Wor
 <nav class="article-toc monthly-subnav" aria-label="Topics under ICT Infrastructure">
 <a href="#connectivity">Connectivity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data-storage">Data Storage</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cybersecurity">Cybersecurity</a>
 </nav>
 
@@ -122,6 +124,36 @@ Mauritania's regulator ARE fined Mauritel, Mattel and Chinguitel a combined MRU 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">5G licences</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MATTEL lance commercialement la 5G et dévoile sa filiale de paiement mobile MATTEL MONEY - Le Quotidien](https://lequotidien.mr/?p=42746)** — Le Quotidien, 9 November 2026
+
+5G live in Nouakchott and Nouadhibou from 9 Nov 2026; Tier III redundancy centre opened; Mattel Money presented.
+
+</div>
+
+</div>
+
+### Data Storage
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Mattel Tier III redundancy and network-supervision centre</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[MATTEL lance commercialement la 5G et dévoile sa filiale de paiement mobile MATTEL MONEY - Le Quotidien](https://lequotidien.mr/?p=42746)** — Le Quotidien, 9 November 2026
+
+Summarised under [Connectivity](#connectivity).
+
+</div>
+
+</div>
+
 ### Cybersecurity
 
 <div class="monthly-story" markdown="1">
@@ -133,6 +165,20 @@ Mauritania's regulator ARE fined Mauritel, Mattel and Chinguitel a combined MRU 
 **[Avis d'Appel d'Offres National : mise en place du CSIRT national et du SOC RIAD](https://marchespublics.gov.mr/api/files/6a353f77-787d-478c-ad5d-6a3c2d652ad7_Avis_d'appel_d'offres_CSIRT_SOC_RIAD_V2026-09.pdf)** — Ministere de la Transformation Numerique et de la Modernisation de l'Administration (WARDIP PMU), 9 October 2026
 
 Mauritania's WARDIP project unit at the digital transformation ministry issued a national tender on 9 October 2026 to set up a national CSIRT and a security operations centre for RIAD, the government's high-speed intranet, paid from World Bank credit IDA-7445-MR. Bids are due on 17 November 2026 with a 950,000 MRU bid guarantee. No contract value is stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cybersecurity memorandum with Cybashon (United States)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[موريتانيا توقع مذكرة تفاهم مع شركة أمريكية لتعزيز الأمن السيبراني - صحيفة تقدمي الألكترونية](https://ar.taqadoumy.mr/archives/89284)** — Taqadoumy, 10 November 2026
+
+Mauritania's Ministry of Digital Transformation signed a memorandum of understanding with the US company Cybashon in Nouakchott on 10 November 2026. It covers protection of state systems and networks, digitisation of administrative procedures, and public services in remote areas. It also covers skills training through the Africa Digi Empower programme, with Cisco Networking Academy certification, Taqadoumy reports.
 
 </div>
 
@@ -223,6 +269,20 @@ Summarised under [Data Exchange](#data-exchange).
 **[وزيرا الصحة والتحول الرقمي يترأسان اجتماعا لبحث الاجراءات الكفيلة برقمنة المراكز الصحية الجديدة](https://www.ami.mr/archives/271266)** — Agence Mauritanienne d'Information (AMI), 24 October 2026
 
 Mauritania's health minister and minister of digital transformation met in Nouakchott on 24 October 2026 on making the new health centres built under the capital's emergency development programme digitally ready before they open in the coming days. They agreed to form a joint technical team to visit the centres, set out each one's requirements and close the gaps found.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">University of Nouakchott blockchain diploma verification platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[L’Université de Nouakchott lance une plateforme numérique de certification et d’authentification des diplômes et attestations basée sur la technologie blockchain](https://ami.mr/fr/archives/305997)** — AMI, 10 November 2026
+
+Université de Nouakchott launched a blockchain-based platform on 10 November 2026 to issue and verify its diplomas and certificates electronically. It was built with UNDP support and the Tunisian firm Kalis. AMI reports that it is meant to curb forgery and let employers and institutions in Mauritania and abroad check qualifications.
 
 </div>
 
