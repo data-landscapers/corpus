@@ -1,11 +1,11 @@
 ---
 title: Gabon — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: GAB
 ledger_rows: 36
 not_held: 12
-record: bffee30ab2fe
+record: 98f05983aea5
 ---
 
 # News, Oct – Nov 2026
@@ -721,6 +721,14 @@ Gabon's census counts 3,518,621 residents, 2,318,365 of them Gabonese, figures c
 **[Gabon/Technologie : trois protocoles d’accord signés avec Huawei à Shanghai - AGP - Agence Gabonaise de Presse](https://agpgabon.ga/gabon-technologie-trois-protocoles-daccord-signes-avec-huawei-a-shanghai/)** — Agence Gabonaise de Presse, 5 November 2026
 
 Gabon's government and Huawei signed three memoranda of understanding and a donation agreement in Shanghai on 4 November 2026, with President Oligui Nguema present, AGP reported. The memoranda cover public security, digital infrastructure and teaching platforms in public universities. The donation is AI teaching equipment for the university named after the president.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon : Huawei et l’État concluent trois accords pour accélérer la transformation numérique du pays](https://gaboninfos.com/gabon-huawei-etat-concluent-trois-accords-accelerer-transformation-numerique-pays/)** — Gabon Infos, 9 November 2026
+
+Security accord's content: smart urban surveillance, border systems; fibre, Wi-Fi 6 and 5G for universities.
 
 </div>
 
