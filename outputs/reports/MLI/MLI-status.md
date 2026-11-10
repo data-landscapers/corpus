@@ -1,12 +1,12 @@
 ---
 title: Mali: status report
-compiled: 2026-11-09
+compiled: 2026-11-10
 place: MLI
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 7
-sources_cited: 194
+sources_cited: 195
 sections_written: 39
 not_established: 4
 acquire_lines: 46
@@ -233,7 +233,7 @@ In 2017 [the education management information system had no formal data-sharing 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->
 
-In February 2026 [the justice ministry extended its judicial records system with online platforms for criminal record extracts and nationality certificates](https://www.digitalbusiness.africa/mali-digitalisation-du-casier-judiciaire-et-du-certificat-de-nationalite/). [Their documents carry the same legal validity as those issued in person](https://www.digitalbusiness.africa/mali-digitalisation-du-casier-judiciaire-et-du-certificat-de-nationalite/). [The underlying case file system was launched with the ICT agency AGETIC in January 2025](https://www.digitalbusiness.africa/mali-digitalisation-du-casier-judiciaire-et-du-certificat-de-nationalite/).
+In February 2026 [the justice ministry extended its judicial records system with online platforms for criminal record extracts and nationality certificates](https://www.digitalbusiness.africa/mali-digitalisation-du-casier-judiciaire-et-du-certificat-de-nationalite/). [Their documents carry the same legal validity as those issued in person](https://www.digitalbusiness.africa/mali-digitalisation-du-casier-judiciaire-et-du-certificat-de-nationalite/). [The underlying case file system was launched with the ICT agency AGETIC in January 2025](https://www.digitalbusiness.africa/mali-digitalisation-du-casier-judiciaire-et-du-certificat-de-nationalite/). [On 5 November 2026 the justice minister said an e-Justice platform built with national expertise was being put into operation, its first services being those two documents](https://www.maliweb.net/economie/developpement/modernisation-de-la-justice-renforcement-de-letat-de-droit-le-pnud-3121305.html).
 
 [Sigui-Dolo, launched in September 2025, issues biometric driving licences and vehicle cards and connects to TrésorPay and the SYDONIA customs system](https://www.ecofinagency.com/news-digital/1709-48777-mali-rolls-out-new-digital-tools-to-modernize-public-administration). [The tax authority's e-Impôt platform has carried online filing and payment for large and mid-sized taxpayers since December 2021](https://www.dgi.gouv.ml/16562-2/). [BAARA-ANPE, launched in June 2025, registers jobseekers and matches them with employers](https://menefp.gouv.ml/lancement-officiel-de-la-plateforme-digitale-baara-anpe-par-madame-le-ministre-oumou-sall-seck/). [By October 2021 the SIGMAP procurement system ran in five regions and Bamako, with online bidding still in preparation](https://bamada.net/kayes-les-autorites-contractantes-formees-sur-lapplication-sigmap). In 2025 [the procurement directorate's head named its low use among the system's weaknesses](https://dgmp.gouv.ml/?q=node%2F10). [In May 2025 the Prime Minister presented N'GNA SÔRÔ, a microfinance refinancing platform credited with more than 642,000 beneficiaries, and a tanker-truck gauging system](https://fr.apanews.net/technologies/mali-quatre-nouvelles-plateformes-accelerent-la-digitalisation-de-ladministration/). [A platform opened in February 2025 lets the diaspora request documents through consular missions](https://www.wearetech.africa/en/fils-uk/news/tech/mali-launches-digital-platform-to-streamline-services-for-its-diaspora). In 2025 [the identity register offered no authentication through a government portal](https://dpimap.org/mali/), so none of these services could check a user against it.
 
