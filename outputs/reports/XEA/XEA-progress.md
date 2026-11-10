@@ -5,16 +5,16 @@ period: 2025-11-01 to 2026-11-10
 place: XEA
 ledger_rows: 79
 not_held: 0
-record: 24499fb8732d
+record: b59123658353
 ---
 
 # East Africa: progress report, November 2025 – November 2026
 
 *Compiled 2026-11-10 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each row sets the position at the start of the period against the position at the end, and the Progress column says how it moved. The period runs to the date of issue rather than to the last month's close.*
 
-*Of 79 bodies, instruments and systems on this place's ledger, 42 changed position between 2025-11-01 and 2026-11-10, 10 did not, 27 carry no stated baseline, and 0 are ***Not held*** at both ends.*
+*Of 79 bodies, instruments and systems on this place's ledger, 43 changed position between 2025-11-01 and 2026-11-10, 10 did not, 26 carry no stated baseline, and 0 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 139 sources for this place in the window — 26 in the earlier half (2025-11 to 2026-04), 113 in the later (2026-05 to 2026-11). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 140 sources for this place in the window — 26 in the earlier half (2025-11 to 2026-04), 114 in the later (2026-05 to 2026-11). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Progress values.** *Movement* — some form of progress, however minor, has been recorded. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Closed* — the programme ended. *No change* — the repository holds a standing position and nothing in the period touched it. ***Baseline not held*** — there is evidence of movement but no baseline to compare it against. A value may carry a qualifying clause after a comma, as in *Movement, slipped*.
 
@@ -220,8 +220,8 @@ The EAC Customs Bond [went from a Ugandan pilot in August 2025 to a Community-wi
 
 | Body, instrument or system | At 2025-11-01 | At 2026-11-10 | Progress |
 |---|---|---|---|
+| COMESA Regional Digital Inclusion Strategy | Did not exist | [Drafted by a consultant under the World Bank-funded IDEA programme in two phases, a regional situational analysis and then the strategy and an action plan; the draft analysis, strategy and action plan were validated by fifteen member states at a workshop in Lusaka on 3-5 November 2026, hosted by Zambia; finalisation and adoption are to follow](https://www.comesa.int/regional-digital-inclusion-strategy-and-action-plan-validated/) | Movement |
 | Regional digital access gap | Significant infrastructure gaps, rural areas underserved and landlocked states paying most, with 2 GB of data costing USD4.64 in Kenya and USD21.06 in South Sudan on 2021 figures (2024-09) | [Both regional bodies state that gaps in internet access, digital awareness and technological inclusion continue to threaten a connected regional market (2026-05)](https://www.burunditimes.com/digital-divide-persists-as-east-africa-expands-regional-tech-integration/) | No change |
-| COMESA Regional Digital Inclusion Strategy | ***Baseline not held*** | [Drafted by a consultant under the World Bank-funded IDEA programme in two phases, a regional situational analysis and then the strategy and an action plan; the draft analysis, strategy and action plan were put to a first regional validation meeting of member states and partners at Chongwe, Zambia, on 3-5 November 2026](https://idea.comesa.int/pre-event-press-statement/) | ***Baseline not held*** |
 
 <!-- narrative: capacity -->
 The AI-in-education workstream is the ledger's clearest case of an East African instrument advancing on schedule, and it is routed around the Secretariat rather than through it — a donor-convened alliance and a university council carrying curriculum harmonisation and an accountability framework to 2028, with the EAC's own organs holding only the monitoring role.
