@@ -6,7 +6,7 @@ region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 236
+sources_cited: 239
 sections_written: 39
 not_established: 0
 acquire_lines: 67
@@ -143,7 +143,7 @@ KOICA is the most frequent financier by count, with 39 commitments, ahead of the
 
 [Raxio opened a Tier III-certified facility at the Addis Ababa ICT Park in November 2023, with room for 800 racks and 3MW of IT power](https://www.datacenterdynamics.com/en/news/raxio-launches-data-center-in-addis-ababa-ethiopia/). [RedFox's first modular data centre went live at the same park in September 2022](https://www.datacenterdynamics.com/en/news/safaricom-to-build-data-center-in-addis-ababa-ethiopia/). [By May 2022 the state operator's Huawei-built data centre at Gola Sefer had close to 90 colocation customers](https://furtherafrica.com/2022/05/24/ethio-telecom-to-lease-data-center-to-5-private-institutions/). [Wingu Africa's WCX platform provides local cloud that interoperates with Azure and AWS](https://developingtelecoms.com/telecom-technology/telecom-cloud-virtualization/20054-wingu-africa-brings-wcx-cloud-platform-to-ethiopia.html) (2025). [Wingu raised commercial finance in 2025 for its rollout across Ethiopia, Djibouti and Tanzania](https://www.biometricupdate.com/202506/60m-to-speed-up-digital-connectivity-infrastructure-in-ethiopia-djibouti-tanzania). [Data centre and hosting services sit among the class licences of Directive 792/2021, with ISP, VSAT and satellite categories](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf).
 
-[In December 2025 government security and AI bodies ran on cloud infrastructure the state built itself](https://www.ena.et/web/eng/w/eng_7971189). [The national identity system runs across data-centre sites of its own](https://www.youtube.com/watch?v=B_iGkxWXNbg) (July 2026). [The hosting arrangements behind the government cloud are not published](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
+[In December 2025 government security and AI bodies ran on cloud infrastructure the state built itself](https://www.ena.et/web/eng/w/eng_7971189). [The national identity system runs across data-centre sites of its own](https://www.youtube.com/watch?v=B_iGkxWXNbg) (July 2026). [In November 2026 the innovation minister ordered faster completion of the National Cloud Data Center at the ICT Park, still under construction](https://techreviewafrica.com/news/8212/x). [The hosting arrangements behind the government cloud are not published](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
 ### Energy
 <!-- infra.energy -->
@@ -266,7 +266,7 @@ On declared arrangements the country scores well, in [Tier 2, Advancing, of the 
 
 [In 2025 civil registration at kebele level was recorded on paper vital-events forms, passed up to woreda, regional and federal offices](https://www.child-identity.org/wp-content/uploads/2025/06/Taju-Mohammed-Presentation.pdf).
 
-[In 2026 FAO began a project to 2028 to turn a digital agricultural extension start-up into a long-term programme](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-763888). [Farmer registration is being joined to the digital ID and rural land systems in a woreda-level pilot](https://ati.gov.et/farmer-profile-initiative/). [Identity enrolment now reaches into the woredas](https://www.ena.et/web/eng/w/eng_9268046). [Safety-net cash transfers have moved from physical to electronic payment](https://blogs.worldbank.org/ethiopia-e-payments-financial-inclusion).
+[In 2026 FAO began a project to 2028 to turn a digital agricultural extension start-up into a long-term programme](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-763888). [By November 2026 nearly one million farmers had been registered through the national ID in 385 districts across seven regions, with four million targeted by 2028](https://capitalethiopia.com/2026/11/08/ethiopia-targets-four-million-farmers-for-digital-registration-by-2028/). [Identity enrolment now reaches into the woredas](https://www.ena.et/web/eng/w/eng_9268046). [Safety-net cash transfers have moved from physical to electronic payment](https://blogs.worldbank.org/ethiopia-e-payments-financial-inclusion).
 
 [In 2023 rural economy was Ethiopia's strongest governance sub-category in the Ibrahim Index, at 66.6 out of 100 and 20th of 54](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf). [Rural market access scored 85.0, third on the continent](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf). [Rural land and water access fell 9.1 points over the decade to 44.4](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf). [Rural representation and participation fell 2.8 points to 63.1](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-et.pdf).
 
@@ -330,7 +330,7 @@ On declared arrangements the country scores well, in [Tier 2, Advancing, of the 
 ### Research institutions
 <!-- capacity.research -->
 
-[In 2020 KOICA granted US$10 million over 2020–2026, delivered with UNDP, for innovation clusters linking universities and industry](https://www.oda.go.kr/opo/bsin/bsnsSumryDocDetail.do?P_BSNS_NO=2020-00053). [The grant also covers legal frameworks for commercialising research and an innovation fund](https://www.oda.go.kr/opo/bsin/bsnsSumryDocDetail.do?P_BSNS_NO=2020-00053). [In 2025 Ethiopia ranked near the bottom of the Global Innovation Index](https://www.wipo.int/edocs/gii-ranking/2025/et.pdf).
+[In 2020 KOICA granted US$10 million over 2020–2026, delivered with UNDP, for innovation clusters linking universities and industry](https://www.oda.go.kr/opo/bsin/bsnsSumryDocDetail.do?P_BSNS_NO=2020-00053). [The grant also covers legal frameworks for commercialising research and an innovation fund](https://www.oda.go.kr/opo/bsin/bsnsSumryDocDetail.do?P_BSNS_NO=2020-00053). [In 2025 Ethiopia ranked near the bottom of the Global Innovation Index](https://www.wipo.int/edocs/gii-ranking/2025/et.pdf). [A Council of Ministers regulation established the Medemer University of Artificial Intelligence in March 2026, accountable to the Artificial Intelligence Institute](https://justice.gov.et/wp-content/uploads/2026/08/%E1%8B%B0%E1%8A%95%E1%89%A5-%E1%89%81%E1%8C%A5%E1%88%AD-588-2018.pdf).
 
 [Across 305 health facilities, an index of local use of HMIS data rose from 7.2 to 7.9 between 2019 and 2020](https://www.joghr.org/article/75141-). [In August 2026 a systematic review of Ethiopian digital-payment studies since 2015 ranked trust first among the factors in user satisfaction](http://biarjournal.com/index.php/economit/article/view/1562).
 
