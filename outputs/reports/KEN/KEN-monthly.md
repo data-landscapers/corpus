@@ -1,11 +1,11 @@
 ---
 title: Kenya — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: KEN
-ledger_rows: 86
+ledger_rows: 87
 not_held: 5
-record: f907b06c3e90
+record: 31b0e9754b5a
 ---
 
 # News, Oct – Nov 2026
@@ -142,6 +142,36 @@ Kenya's National Assembly adopted MP Peter Kaluma's amendments to the Elections 
 
 <div class="monthly-story" markdown="1">
 
+<p class="monthly-story__name">Online Safety Bill 2026</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[The Online Safety Bill, 2026 (Kenya Gazette Supplement No. 249, National Assembly Bills No. 69)](https://www.parliament.go.ke/sites/default/files/2026-11/THE%20ONLINE%20SAFETY%20BILL%2C%202026.pdf)** — Parliament of Kenya, National Assembly (Kenya Gazette Supplement, Government Printer), 29 October 2026
+
+Bill text: duties of care, age assurance and parental consent for under-18s; fines KES 500m or 10% of global turnover.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya proposes tougher social media rules](https://www.itweb.africa/article/kenya-proposes-tougher-social-media-rules/O2rQGqAEWWzqd1ea)** — ITWeb Africa, 6 November 2026
+
+ITWeb reported on 6 November 2026 that Kenya's Information and Communications (Amendment) Bill 2026 would add a Section 85C. It would require online platforms serving Kenyan users, foreign ones included, to register with the Communications Authority and report unlawful activity. A separate draft Online Safety Bill 2026 proposes a duty of care, parental consent for children and age verification. Its fines run up to KES 500 million or 10% of global turnover.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sh500m fines, parental consent: MPs' tough new rules for children, social media giants](https://nation.africa/kenya/news/sh500m-fines-parental-consent-mps-tough-new-rules-for-children-social-media-giants-5662440)** — Daily Nation, 8 November 2026
+
+Online Safety Bill 2026 tabled by MP Mark Mwenje: parental consent under 18, age checks, KES500m or 10% turnover fines.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
 <p class="monthly-story__name">Kenya Information and Communications (Amendment) Bill 2026, ministry draft</p>
 
 <div class="bulletin-item" markdown="1">
@@ -163,20 +193,6 @@ Kenya's information and communications ministry has published a revised draft of
 **[Regulators need to talk to one another about data](https://nation.africa/kenya/blogs-opinion/blogs/regulators-need-to-talk-to-one-another-about-data-5657210)** — Daily Nation, 4 November 2026
 
 An opinion piece argues that Kenya's competition and data protection regulators should coordinate on mergers where data is the main asset. It cites the Competition Authority of Kenya's approach to data segregation, which would keep an acquirer from reading rivals' information on a shared payments platform. It refers to the Competition (Amendment) Bill 2026.
-
-</div>
-
-</div>
-
-<div class="monthly-story" markdown="1">
-
-<p class="monthly-story__name">Online Safety Bill 2026</p>
-
-<div class="bulletin-item" markdown="1">
-
-**[Kenya proposes tougher social media rules](https://www.itweb.africa/article/kenya-proposes-tougher-social-media-rules/O2rQGqAEWWzqd1ea)** — ITWeb Africa, 6 November 2026
-
-ITWeb reported on 6 November 2026 that Kenya's Information and Communications (Amendment) Bill 2026 would add a Section 85C. It would require online platforms serving Kenyan users, foreign ones included, to register with the Communications Authority and report unlawful activity. A separate draft Online Safety Bill 2026 proposes a duty of care, parental consent for children and age verification. Its fines run up to KES 500 million or 10% of global turnover.
 
 </div>
 
@@ -475,6 +491,8 @@ Kenya's National Cybersecurity Agency Board, chaired by Martin Koyabe, was inaug
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#digital-payments-and-fintech">Digital Payments and Fintech</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#registries">Registries</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sectoral-management-information-systems">Sectoral management information systems</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#other-govtech-and-e-gov">Other GovTech and e-Gov</a>
@@ -729,6 +747,22 @@ Safaricom's net income rose 35.9% to KES 58.2 billion in the six months to 30 Se
 **[Redtech Plans a Kenya-Nigeria Payments Corridor With Kenyan Launch in 2027](https://techweez.com/2026/11/07/redtech-plans-a-kenya-nigeria-payments-corridor-with-kenyan-launch-in-2027/)** — Techweez, 7 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/NGA/NGA-monthly.html" title="NGA">Nigeria</a>
 
 Redtech, a Nigerian payments company, plans a payments link between Nigeria and Kenya, its chief executive Emmanuel Ojo told Techweez in a report of 7 November 2026. A Kenyan launch is planned by the first quarter of 2027, through partners. Ojo says some African markets settle within 24 hours while others take three or four days.
+
+</div>
+
+</div>
+
+### Registries
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Waiver of birth and death certificate fees</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[How Kenya's digital birth registration system will work](https://nation.africa/kenya/news/how-kenya-s-digital-birth-registration-system-will-work--5663174)** — Daily Nation, 9 November 2026
+
+Fee waiver by Gazette notice; UPI at birth via hospital e-notification in 30 days, 7,500+ public hospitals.
 
 </div>
 
