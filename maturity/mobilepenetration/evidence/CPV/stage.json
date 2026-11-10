@@ -4,13 +4,13 @@
     {
       "sub_indicator": "ownership",
       "stage": "3",
-      "owners": "survey:76.3",
+      "owners": "survey:78.2",
       "cap": "",
       "flags": "",
-      "stage_sources": "CPV-005",
-      "gaps": "The latest figure, 76.3 per cent for 2024 by INE's national survey, is below 80 per cent.",
-      "note": "INE's 2024 continuous multi-purpose survey puts mobile phone ownership at 76.3 per cent of people aged 10 and over (CPV-005); a national survey for 2024 is used in place of the ITU estimate of 81.4 per cent, so 3. It is below the 80 per cent line.",
-      "as_at": "2026-11-06"
+      "stage_sources": "CPV-006",
+      "gaps": "The latest figure, 78.2 per cent for 2025 by INE's national survey, is below 80 per cent.",
+      "note": "INE's 2025 survey puts mobile phone ownership at 78.2 per cent of people aged 10 and over (CPV-006), up from 76.3 per cent in 2024. It is past two in three and below the 80 per cent line.",
+      "as_at": "2026-11-10"
     }
   ]
 }

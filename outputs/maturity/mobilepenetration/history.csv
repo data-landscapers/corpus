@@ -1,3 +1,4 @@
 date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-22,SSD,infra.connect--mobile-penetration,fact,no evidence,unplaced,,"A 2023 estimate of 23.95 per cent of people owning a mobile phone arrived; it is older than 2024, so the cell is unplaced rather than without evidence."
 2026-11-06,CPV,infra.connect--mobile-penetration,fact,4,3,CPV-005,"INE's 2024 national survey gives 76.3 per cent of people aged 10 and over owning a mobile phone (CPV-005), used in place of the ITU estimate of 81.4; stage 4 -> 3."
+2026-11-10,CPV,infra.connect--mobile-penetration,fact,3,3,CPV-006,"Balai, May 2026: INE's 2025 survey puts mobile phone ownership at 78.2% of people 10+, up from 76.3%; below 80, stays 3"

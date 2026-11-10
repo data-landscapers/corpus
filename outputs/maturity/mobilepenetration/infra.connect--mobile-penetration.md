@@ -134,9 +134,9 @@ In 2024, 67.4 per cent of people aged 10 and over owned a mobile phone, by an in
 
 ### Cape Verde: 3 Established
 
-In 2024, 76.3 per cent of people aged 10 and over owned a mobile phone, by a national survey.
+In 2025, 78.2 per cent of people aged 10 and over owned a mobile phone, by a national survey.
 
-- Cabo Verde's national statistics institute INE, presenting its continuous multi-purpose survey IMC 2024, gives 76.3% of the population aged 10 and over as owning a mobile phone ([source, 2024](https://www.itu.int/itu-d/sites/projectumc/wp-content/uploads/sites/42/2025/11/Day-3-Cabo-Verde.pdf)).
+- Balai reports INE's 2025 ICT statistics report says 78.2% of people aged 10 and over in Cabo Verde own a mobile phone ([source, 2025](https://www.balai.cv/noticias/utilizacao-da-internet-em-cabo-verde-sobe-ligeiramente-para-773-em-2025-revelam-dados-do-ine/)).
 
 ### Congo: 3 Established
 

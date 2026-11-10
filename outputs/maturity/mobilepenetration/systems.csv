@@ -1,17 +1,25 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
+AGO,mobile penetration,"about 75% mobile penetration (April 2026, basis not stated)",other,,,,2026-04-29-ago-angola-launches-national-data-center-to-support-digital-strategy
+BEN,Mobile penetration rate as stated by ACPB chair,"Above 80% (hedged, unsourced, 2026)",other,,,,2026-05-06-ben-benin-dr-josias-sohinto-expose-les-enjeux-de-la-digitalisation-des-cli
 BWA,FinScope Consumer Survey Botswana 2024 mobile phone ownership,"94% (adults, 2024)",other,,FinMark Trust (as cited by TechCabal),,2026-09-16-techcabal-botswana-mukuru-companion-card-financial-inclusion
 CIV,INS household and enterprise ICT survey (Datafid),households owning a mobile phone 89% (2023),other,,INS,,2024-05-17-civ-institut-national-de-la-statistique-une-enquete-demontre-une-forte-ame
+CIV,"Mobile telephony penetration rate, ARTCI",172.2%,other,,ARTCI,,2024-10-14-civ-la-guinee-et-la-cote-d-ivoire-signent-un-accord-d-interconnexion-par-f
 COD,Mobile-cellular subscriptions per 100 inhabitants,"50 per 100 inhabitants, 2022 (ITU)",other,,ITU,,2023-12-01-itu-drc-digital-development-dashboard
 COD,Active mobile-broadband subscriptions per 100 inhabitants,"26 per 100 inhabitants, 2022 (ITU)",other,,ITU,,2023-12-01-itu-drc-digital-development-dashboard
 COD,Population covered by a mobile-cellular network,"75%, 2022 (ITU)",other,,ITU,,2023-12-01-itu-drc-digital-development-dashboard
+COD,ARPTC mobile-market observatory,"68.6% mobile penetration, Q2 2026 (77 million active subscriptions)",other,,ARPTC,,2026-11-04-cod-telecoms-kinshasa-concentre-plus-de-19-millions-dabonnements-mobiles-a
 COG,Arpce mobile telephony penetration rate,94%,other,,Arpce,,2026-10-17-cog-aci-arpce-livre-blanc-indicateurs-marche
 COG,Mobile subscriptions,"103% of population in subscriptions, October 2023 (5.8 million)",other,,ARPCE,,2024-08-30-cog-le-secteur-du-numerique-au-congo-brazzaville
 CPV,ARME mobile SIM penetration,"SIM penetration 114% (589,431 active SIM cards, June 2026, ARME)",other,,ARME,,2026-10-22-cpv-assinaturas-de-internet-fixa-aumentam-14-7-num-ano
 ERI,Mobile-cellular network population coverage (ITU 2023 country profile),85% of population covered by a mobile-cellular network (ITU 2023),other,,,,2025-01-01-eritrea-digital-watch-country-profile
+ERI,Mobile-cellular subscriptions per 100 inhabitants,50 per 100 (2021),other,,ITU,,2023-12-01-itu-digital-development-dashboard-eritrea
 ETH,"Unique mobile subscribers, 33 percent of the population in 2024 (26 percent in 2020)","unique mobile subscribers 33% of population, 2024",other,,World Bank (project results),,2025-06-30-wb-empowering-ethiopians-digital-foundations
+ETH,Safaricom Ethiopia,15.4 million three-month active customers,other,,Safaricom,,2026-11-05-safaricom-h1-profit-jumps-36-to-448m
 GHA,Adult mobile ownership (context statistic),"mobile ownership >90% of adults (adults only; year not given, 2026-07-27 brief)",other,,Research ICT Africa,,2026-07-27-bridging-gender-digital-divide-ghana-research-ict-africa
 GHA,"Smartphone ownership by sex, After Access 2022 survey","63% of men and 46% of women owned a smartphone, 2022; overall phone-ownership gender gap 13 points (2018) to 7 points (2022)",other,,Research ICT Africa,,2026-07-27-bridging-gender-digital-divide-ghana-research-ict-africa
 GHA,Mobile penetration (subscriptions),over 135% mobile penetration (2024-09-20 guide; year of figure not given),other,,US Commercial Service (trade.gov),,2024-09-20 Ghana Digital Economy (US Country Commercial Guide)
+GIN,"Mobile subscribers, ARPT Q4 2023",14.1 million,other,,ARPT,,2024-10-14-civ-la-guinee-et-la-cote-d-ivoire-signent-un-accord-d-interconnexion-par-f
+GIN,ITU mobile penetration rate 2024,"82.2% (ITU, 2024; ARPT subscriptions 89.1%, June 2025)",other,,,,2026-07-09-gin-guinee-orange-appele-a-ameliorer-la-qualite-de-service-et-la-couvertur
 GMB,Mobile penetration (Ministry figure),"over 112% mobile penetration, stated 4 November 2025 by the Ministry of Communications and Digital Economy's director of Post and Telecommunications; 15.7% annual growth since 2019; population base and age range not given",other,,Ministry of Communications and Digital Economy,,2025-11-05-thepoint-pura-ex-ante-telecom-regulation-validation-workshop
 GMB,Global Findex 2025 mobile phone ownership series (adults 15+),"Gambia 2024 fieldwork (World Bank Development Research Group, survey GMB_2024_FINDEX_v02_M); catalogue record only, adults 15 or older, no ownership figure stated",other,,World Bank Development Research Group,,2025-10-01-world-bank-gambia-global-findex-2025-connectivity-microdata
 KEN,Kenya Housing Survey 2023/24: mobile phone usage by individuals,"64.9% national, 2023/24",other,,Kenya National Bureau of Statistics,,2025-08-01-fact-sheet-on-ict-analytical-report-based-on-kenya-housing-survey-2023-2024
@@ -29,6 +37,7 @@ MLI,ITU mobile-cellular subscriptions,"114 mobile-cellular subscriptions per 100
 MLI,ITU mobile network coverage,"100% population covered by mobile-cellular network, 70% 3G, 53% 4G, 2022",other,,ITU,,2023-12-01-itu-digital-development-dashboard-mali
 MOZ,Mobile telephony penetration (ITU),78.2% in 2023,other,,ITU,,2025-10-21-moz-mozambique-expands-rural-telecom-network-to-bridge-digital-divide
 MRT,Mobile-cellular subscriptions per 100 inhabitants,"113 per 100 inhabitants (2022), ITU Digital Development Dashboard",other,,ITU,,2023-12-01-itu-digital-development-dashboard-mauritania-infrastructure-access
+MWI,Airtel Malawi population coverage,"87% population coverage (company, Nov 2026)",other,,Airtel Malawi,,2026-11-06-mwi-airtel-malawi-invests-mwk81-billion-in-network-expansion
 NAM,"Global Findex Database 2025 (Namibia, 2024 fieldwork)","Adult (15+) mobile phone ownership series, no figure given in this catalogue page; survey of adults aged 15 or older, 2024",other,,World Bank Development Research Group (fieldwork by Gallup),,2026-01-05-namibia-global-findex-2025-connectivity-financial-inclusion
 NAM,Budget estimates mobile subscribers,71.35 subscribers per 100 people (2023),other,,Ministry of Finance,,2026-03-17-nam-cybercrime-bill-heads-to-parliament
 NER,ARCEP mobile penetration rate,59.73% at end-March 2025,other,,ARCEP,,2025-10-14-ner-le-niger-intensifie-ses-efforts-pour-generaliser-l-acces-aux-services
@@ -44,7 +53,10 @@ SSD,Households with a mobile phone,"44% of households, MICS 2025",other,,Nationa
 SSD,mobile phone penetration 22 percent (2.3 million people),"22 percent, 2.3 million people",other,,,,2024-09-19-ssd-nation-cashless-pay-civil-servants
 STP,mobile phone penetration,71%,other,,,,2026-01-01-stp-digitising-a-nation-s-public-service-delivery
 TCD,Mobile telephony penetration rate (ARCEP Observatoire du marche des telecommunications 2020),"taux de penetration de la telephonie mobile 53.5% in 2020; sector customers 8.7 million in 2020 (+13.3% on 2019); derived from subscriber counts, not a survey of people owning a phone",other,,ARCEP Tchad,,2021-12-06-arcep-rend-public-observatoire-marche-telecommunications-tchad
+TZA,Ayre Index youth phone ownership,58.4% of people aged 15 to 29,other,,Ayre Think Tank,,2026-11-05-tza-tanzania-ranks-25th-of-56-in-commonwealth-youth-ai-readiness-new-index
 UGA,FinScope 2023 mobile phone ownership,72% overall mobile phone ownership (2023),other,,,,2024-08-05-uga-navigating-the-pitfalls-3-consumer-challenges-in-uganda-s-financial-co
 UGA,Mobile broadband subscriptions,"18.5 million, December 2025",other,,,,2026-04-24-uga-kampala-hosts-itu-workshop-to-strengthen-national-broadband-mapping
 UGA,Internet penetration,67% in FY 2023/24,other,,Ministry of ICT and National Guidance,,2024-11-01-uga-manifesto-week-ict-ministry-reveals-key-achievements-as-internet-penet
+UGA,UCC Q3 market report devices,"39.1 million devices on the network, March 2023",other,,UCC,,2024-01-15-uga-uganda-phonemaker-mione-hits-500-000-feature-phones-in-sales
 ZWE,mobile penetration reported to Parliament,"97.5% (2024, Portfolio Committee on ICT; a penetration rate, not a share of people owning a phone)",other,,,,2025-01-01-zwe-zimbabwe-s-data-protection-regime
+ZWE,mobile penetration 103 per cent (subscriptions),103%,other,,,,2026-01-20-zwe-ict-ministry-readies-national-ai-strategy-launch-as-investment-grows-o
