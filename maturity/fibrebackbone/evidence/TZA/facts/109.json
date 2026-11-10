@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-26-bdi-la-tanzanie-signe-un-nouvel-accord-de-cinq-ans-avec-le-burundi-pour-lu",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Agence Ecofin reports that Tanzania earns revenue from its national ICT backbone (NICTBB), having signed separate agreements in 2023 with Malawi and Uganda to connect them to it, and resells capacity to Burundi.",
+   "as_of": "2024-02-26",
+   "date_precision": "day",
+   "system": "NICTBB",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NICTBB",
+   "country_label": "National ICT Broadband Backbone",
+   "class": "backbone",
+   "platform": "",
+   "owner": "TTCL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

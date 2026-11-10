@@ -1,3 +1,13 @@
 iso3,n,aspect,value,action,why
 NGA,011,access,open,removed,open access is the design of a planned build with no contract for works; nothing is sold on it yet
 NER,009,access,open,removed,the minister states open access as an aim; no lease or wholesale arrangement is described
+BFA,010,reach,in-service,removed,a company's claim that its cross-border network reaches inland markets across five countries states no national fibre in service between this country's capital and another region
+BFA,011,access,open,removed,open access on a company's cross-border network is not capacity sold on a national backbone that reaches every region
+GIN,006,reach,in-service,removed,a company's claim that its cross-border network reaches inland markets across five countries states no national fibre in service between this country's capital and another region
+GIN,007,access,open,removed,open access on a company's cross-border network is not capacity sold on a national backbone that reaches every region
+LBR,005,reach,in-service,removed,a company's claim that its cross-border network reaches inland markets across five countries states no national fibre in service between this country's capital and another region
+LBR,006,access,open,removed,open access on a company's cross-border network is not capacity sold on a national backbone that reaches every region
+MLI,001,reach,in-service,removed,a company's claim that its cross-border network reaches inland markets across five countries states no national fibre in service between this country's capital and another region
+MLI,002,access,open,removed,open access on a company's cross-border network is not capacity sold on a national backbone that reaches every region
+SLE,006,reach,in-service,removed,a company's claim that its cross-border network reaches inland markets across five countries states no national fibre in service between this country's capital and another region
+SLE,007,access,open,removed,open access on a company's cross-border network is not capacity sold on a national backbone that reaches every region

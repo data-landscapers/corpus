@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-18-caf-vandalism-threatens-central-african-republic-s-fragile-fiber-network",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Ecofin Agency reports that CAR's national fibre backbone was commissioned in 2023 under the Central African Backbone project, with about 935 km deployed, including the Bangui-Boali and Carnot-Berberati routes, and serves as a national backbone.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Central African Backbone (CAB)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Central African Backbone (CAB)",
+   "country_label": "CAB",
+   "class": "backbone",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2025-05-08-sen-phase3-and-sonatel-launch-lagos-dakar-terrestrial-fibre-route",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Lagos-Dakar terrestrial route",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "cross-border fibre",
+   "owner": "Phase3 Telecom with Sonatel",
+   "tiers": ""
+  }
+ ],
+ "note": "A cross-border route, not a national backbone."
+}

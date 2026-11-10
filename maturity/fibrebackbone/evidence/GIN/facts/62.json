@@ -1,0 +1,15 @@
+{
+ "slug": "2024-07-03-gin-guinea-and-mali-agree-to-interconnect-fibre-networks",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National backbone managed by SOGEB",
+   "country_label": "Guinea",
+   "class": "backbone",
+   "platform": "",
+   "owner": "SOGEB (state company)",
+   "tiers": ""
+  }
+ ],
+ "note": "SOGEB is named as manager of the national backbone, but no reach, works or open access are stated."
+}

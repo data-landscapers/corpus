@@ -1,0 +1,27 @@
+{
+ "slug": "2026-01-01-cmr-transport-connectivity-services-fiche-produit-bu-transport-edition-202",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "every-region",
+   "fact": "CAMTEL's 2026 product sheet says its national fibre-optic network of nearly 10,000 km covers the whole territory and carries its inter-city leased lines on the national backbone.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "CAMTEL national fibre backbone",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "CAMTEL's 2026 product sheet offers operators and ISPs inter-city leased lines (LLI) on its national backbone, IP transit and cross-connection, as wholesale products.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "CAMTEL national fibre backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

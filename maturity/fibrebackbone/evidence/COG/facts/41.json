@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-16-cog-congo-expands-international-bandwidth-with-2africa-landing",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "Ecofin reports Congo launched construction of a second national fibre backbone in September 2023, to link Pointe-Noire and Brazzaville, with no recent progress update.",
+   "as_of": "2023-09",
+   "date_precision": "month",
+   "system": "second national fibre backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "second national fibre backbone",
+   "country_label": "Congo",
+   "class": "backbone",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

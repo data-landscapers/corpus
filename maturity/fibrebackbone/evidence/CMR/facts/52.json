@@ -1,0 +1,36 @@
+{
+ "slug": "2026-10-01-cmr-comment-internet-arrive-au-cameroun",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "OBS-CC says over 12,000 km of fibre form the national backbone run by Camtel, linking the regions to each other and to the coast, with published estimates up to nearly 16,000 km.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "Camtel national fibre backbone",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "OBS-CC says Camtel carries Chad's traffic to the sea cables over its fibre, and that a 15 May 2025 deal settling Sotel Tchad's debt raised that capacity to over 100 Gbit/s.",
+   "as_of": "2025-05-15",
+   "date_precision": "day",
+   "system": "Camtel national fibre backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Camtel national fibre backbone",
+   "country_label": "Cameroon",
+   "class": "backbone",
+   "platform": "fibre",
+   "owner": "Camtel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

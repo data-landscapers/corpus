@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-13-ben-csquared-adds-2africa-west-capacity-to-strengthen-regional-internet-re",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "CSquared says its fibre backbone connects international cable landing points to inland markets across Burkina Faso, Mali, Guinea, Sierra Leone and Liberia.",
+   "as_of": "2026-07-13",
+   "date_precision": "day",
+   "system": "CSquared fibre backbone",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "CSquared describes itself as a neutral open-access wholesale infrastructure company whose backbone gives operators access to international routes.",
+   "as_of": "2026-07-13",
+   "date_precision": "day",
+   "system": "CSquared fibre backbone",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "CSquared fibre backbone",
+   "country_label": "CSquared backbone",
+   "class": "backbone",
+   "platform": "",
+   "owner": "CSquared",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-12-tza-tanzania-imejipanga-kuwa-kitovu-cha-teknolojia-na-mawasiliano-afrika-m",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "every-region",
+   "fact": "TTCL's director general said the National ICT Broadband Backbone (NICTBB) has built over 14,000 km of fibre connecting all regions and districts and neighbouring countries in the EAC and SADC.",
+   "as_of": "2025-11-10",
+   "date_precision": "day",
+   "system": "NICTBB",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NICTBB",
+   "country_label": "Tanzania",
+   "class": "backbone",
+   "platform": "optic fibre",
+   "owner": "TTCL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
