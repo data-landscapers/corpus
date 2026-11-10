@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — News, Oct – Nov 2026
-compiled: 2026-11-07
-period: 2026-10-01 to 2026-11-07
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: CIV
 ledger_rows: 39
 not_held: 9
-record: d098a103258a
+record: 975168326f03
 ---
 
 # News, Oct – Nov 2026
@@ -353,6 +353,14 @@ Ivorian fintech PUSH announced in Abidjan on 15 October 2026 a plan to digitalis
 **[West Africa’s Unified Payments Network Is Off to a Rocky Start](https://launchbaseafrica.com/2026/11/03/failed-transfers-hidden-fees-and-phantom-aliases-inside-the-messy-birth-of-west-africas-unified-payments-network/)** — Launch Base Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XWA/XWA-monthly.html" title="XWA">West Africa</a>
 
 From 2 November 2026 the BCEAO required interoperable e-money transfers across WAEMU to route through its PI-SPI platform. In the first days, users in Senegal and Côte d'Ivoire reported Orange Money-to-Wave transfers debited but not credited, and alias conflicts. Wave added a 1% cash-withdrawal fee, outside the BCEAO's transfer-fee cap; the BCEAO had not commented.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Wave précise l'accès à PI-SPI au Sénégal et en Côte d'Ivoire](https://bifinances.com/actualites/wave-precise-lacces-a-pi-spi-au-senegal-et-en-cote-divoire)** — BiFinances, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/SEN/SEN-monthly.html" title="SEN">Senegal</a>
+
+Open to all Wave users from week of 6 Nov 2026; free to 8,000 FCFA/day, then 0.8%; 1% agent cash-out.
 
 </div>
 
