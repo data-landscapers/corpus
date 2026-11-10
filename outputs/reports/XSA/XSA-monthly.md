@@ -1,11 +1,11 @@
 ---
 title: Southern Africa — News, Oct – Nov 2026
-compiled: 2026-11-02
-period: 2026-10-01 to 2026-11-02
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: XSA
 ledger_rows: 8
 not_held: 2
-record: 149fed038e39
+record: bd74b9327e04
 ---
 
 # News, Oct – Nov 2026
@@ -181,6 +181,14 @@ Summarised under [Regional collaboration](#regional-collaboration).
 **[PRE - EVENT PRESS STATEMENT - Digitalization in Eastern and Southern Africa (IDEA)](https://idea.comesa.int/pre-event-press-statement/)** — COMESA IDEA Programme, 30 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a>
 
 COMESA announced on 30 October 2026 a regional meeting in Chongwe, Zambia, from 3 to 5 November. Member states will review a draft regional digital inclusion strategy, action plan and situational analysis. The work is funded by the World Bank under the IDEA programme.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Regional Digital Inclusion Strategy and Action Plan Validated](https://www.comesa.int/regional-digital-inclusion-strategy-and-action-plan-validated/)** — COMESA, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZMB/ZMB-monthly.html" title="ZMB">Zambia</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XEA/XEA-monthly.html" title="XEA">East Africa</a>
+
+Fifteen COMESA member states validated a Regional Digital Inclusion Strategy and Action Plan, with a Situational Analysis Report, at a workshop in Lusaka on 3–5 November 2026. Zambia hosted the workshop, with World Bank support under the IDEA programme. COMESA said on 10 November 2026 that the outcomes will guide the documents' finalisation, adoption and implementation.
 
 </div>
 
