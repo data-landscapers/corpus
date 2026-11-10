@@ -23,19 +23,19 @@ aisectoral	TZA	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10
 aisectoral	UGA	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10
 aisectoral	ZAF	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10
 aisectoral	ZMB	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10
-centralbank	AGO	centralbank	4	unplaced		
-centralbank	BDI	centralbank	4	unplaced		
-centralbank	COM	centralbank	4	unplaced		
-centralbank	DJI	centralbank	5	unplaced		
-centralbank	GMB	centralbank	5	2		
-centralbank	LSO	centralbank	4	2		
-centralbank	MAR	centralbank	4	2		
-centralbank	MRT	centralbank	4	2		
-centralbank	MUS	centralbank	4	unplaced		
-centralbank	NGA	centralbank	5	3		
-centralbank	SLE	centralbank	5	unplaced		
-centralbank	UGA	centralbank	4	unplaced		
-centralbank	ZWE	centralbank	5	2		
+centralbank	AGO	centralbank	4	unplaced	restaged 4 on AGO-004, AGO-005	2026-11-10
+centralbank	BDI	centralbank	4	unplaced	restaged 4 on BDI-011	2026-11-10
+centralbank	COM	centralbank	4	unplaced	restaged 4 on COM-004	2026-11-10
+centralbank	DJI	centralbank	5	unplaced	restaged 5 on DJI-003, DJI-004	2026-11-10
+centralbank	GMB	centralbank	5	2	restaged 5 on GMB-007	2026-11-10
+centralbank	LSO	centralbank	4	2	gap confirmed; asked notes-for-osint 311	2026-11-10
+centralbank	MAR	centralbank	4	2	restaged 4 on MAR-006	2026-11-10
+centralbank	MRT	centralbank	4	2	restaged 4 on MRT-004	2026-11-10
+centralbank	MUS	centralbank	4	unplaced	restaged 4 on MUS-003	2026-11-10
+centralbank	NGA	centralbank	5	3	restaged 5 on NGA-009, NGA-010	2026-11-10
+centralbank	SLE	centralbank	5	unplaced	restaged 5 on SLE-005	2026-11-10
+centralbank	UGA	centralbank	4	unplaced	restaged 4 on UGA-003, UGA-004	2026-11-10
+centralbank	ZWE	centralbank	5	2	restaged 5 on ZWE-005, ZWE-006	2026-11-10
 civilregister	CPV	civil	2	unplaced		
 civilserviceskills	TUN	csskills	4	2		
 civilserviceskills	ZWE	csskills	4	2		

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "centralbank",
-      "stage": "unplaced",
+      "stage": "5",
       "mandate": "licensing",
       "switch": "overseen",
       "regional": "live",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "No source found since October 2023 says the Bank of Sierra Leone has a payments mandate being set up or licenses payment providers.",
-      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: no source says the Bank of Sierra Leone's payments mandate is being set up or that it licenses providers; its switch and eight banks live on PAPSS were the higher facts.",
-      "as_at": "2026-11-09"
+      "stage_sources": "SLE-002",
+      "gaps": "",
+      "note": "Restaged by hand 2026-11-10 (housekeeping 57): a BSL supervisor's 2025 deck says eight fintechs operate under a full BSL licence (SLE-005); the national switch and eight banks live on PAPSS answer questions 3 and 4.",
+      "as_at": "2026-11-10"
     }
   ]
 }

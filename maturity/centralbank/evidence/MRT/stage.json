@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "centralbank",
-      "stage": "2",
+      "stage": "4",
       "mandate": "licensing",
       "switch": "overseen",
       "regional": "",
       "cap": "",
       "flags": "",
       "stage_sources": "MRT-003",
-      "gaps": "No source found since October 2023 says the Central Bank of Mauritania licenses or authorises mobile money, e-money or payment service providers.",
-      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: MRT-003 shows the central bank's oversight of payment systems activated, but no source says it licenses payment providers; GIMTEL's interconnection of bank apps and e-wallets was the higher fact.",
-      "as_at": "2026-11-09"
+      "gaps": "No source found since October 2023 says the country is live on PAPSS.",
+      "note": "Restaged by hand 2026-11-10 (housekeeping 57): Agence Ecofin reports Mattel Money is licensed by the BCM as an e-money institution (MRT-004); GIMTEL's interconnection answers the switch question.",
+      "as_at": "2026-11-10"
     }
   ]
 }

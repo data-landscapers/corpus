@@ -1,6 +1,6 @@
 # Governance role of central bank: governance role of central bank
 
-*As at 2026-10-24.*
+*As at 2026-11-10.*
 
 ## The norm
 
@@ -20,15 +20,28 @@ The AfCFTA Digital Trade Protocol's annex on digital payments asks central banks
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 2 |
-| 4 Operating | 32 |
-| 3 Established | 8 |
-| 2 Nascent | 5 |
+| 5 Leading | 7 |
+| 4 Operating | 39 |
+| 3 Established | 7 |
+| 2 Nascent | 1 |
 | 1 Absent | 0 |
-| Unplaced | 7 |
+| Unplaced | 0 |
 | No evidence | 0 |
 
 ## Countries
+
+### Djibouti: 5 Leading
+
+Djibouti's central bank licensed two e-money issuers and ran an automated clearing house in 2024; two Djiboutian banks were live on PAPSS in 2026.
+
+- PAPSS lists Djibouti as a country with live send-and-receive participants: East African Bank and Salaam African Bank ([source, 2026-06](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf)).
+
+### Gambia: 5 Leading
+
+The Gambia's central bank authorises mobile money providers, led the BANTABA 2.0 switch in 2025, and seven Gambian banks were live on PAPSS in 2026.
+
+- PAPSS lists Gambia as a country with live send-and-receive participants: seven banks (Access, AGIB, Bloom, Ecobank, First Bank, Trust Bank, Vista) ([source, 2026-06](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf)).
+- The PAPSS April 2026 coverage list shows Gambia as a country where PAPSS transfers are available, with live commercial banks AGIB Bank, Bloom Bank, Ecobank, First Bank, Trust Bank and Vista Bank ([source, 2026-04](https://papss.com/wp-content/uploads/2026/03/PAPSS-LIST-OF-LIVE-COMMERCIAL-BANKS_APRIL2026.pdf)).
 
 ### Ghana: 5 Leading
 
@@ -44,6 +57,33 @@ The central bank took part in a regional or continental payment system in 2025.
 
 - The Central Bank of Liberia's Executive Governor said PAPSS was officially launched in Liberia on 27 March 2025, with the central bank as settlement agent ([source, 2025-03-27](https://www.cbl.org.lr/media/features-articles/eg-saamoi-speaks-joint-launch-fined-papss-monrovia)).
 
+### Nigeria: 5 Leading
+
+Nigeria's central bank licenses payment providers, part-owns the NIBSS switch and backed its National Payment Stack in 2026; Nigerian banks are live on PAPSS.
+
+- Bank of Ghana Governor Asiama said PAPSS has been extended to mobile wallets along the Ghana-Nigeria corridor ([source, 2026-10-13](https://www.graphic.com.gh/news/general-news/ghana-news-ghana-rwanda-nigeria-test-new-cross-border-digital-payment-systems.html)).
+- PAPSS CEO Mike Ogbalu said Nigeria was the first chair of the PAPSS Governing Council, made up of central bank governors, and continues to lead its rollout ([source, 2026-09](https://nigeriaworks.substack.com/p/papss-notes-from-a-briefing-with)).
+
+### Sierra Leone: 5 Leading
+
+Sierra Leone's central bank licensed eight fintechs by 2025, runs the national switch, and eight Sierra Leonean banks were live on PAPSS in 2025.
+
+- PAPSS lists eight Sierra Leonean banks (UBA, SLCB, Access, Bloom, Rokel, GTBank, Vista, FBNBank) as live, update May 2025 ([source, 2025-05](https://papss.com/wp-content/uploads/2025/05/PAPSS-LIST-OF-LIVE-COMMERCIAL-BANKS_19052025.pdf)).
+
+### Zimbabwe: 5 Leading
+
+Zimbabwe's Reserve Bank licenses payment providers and regulates the ZIPIT switch (2024); Zimbabwe was processing payments through PAPSS in 2026.
+
+- Afreximbank says Zimbabwe is processing $5.8 million a month through PAPSS, and that most banks in Southern Africa have joined it ([source, 2026-10](https://www.heraldonline.co.zw/ceo-africa-roundtable-zimbabwe-processes-5-8-million-a-month-through-papss-as-local-currency-settlement-takes-hold/)).
+- The Financial Gazette reported on 9 October 2026 that CBZ Bank has gone live on the Pan-African Payment and Settlement System (PAPSS) ([source, 2026-10-09](https://fingaz.co.zw/2026/10/09/cbz-links-new-trade-venture-to-system/)).
+
+### Angola: 4 Operating
+
+Angola's central bank authorised payment service providers in 2026 and runs the Kwik instant-payment platform; no source found says Angola is live on PAPSS.
+
+- Angop reports the BNA announced it completed, in coordination with EMIS, BODIVA and banks, the migration of domestic payments in the real-time payment system (SPTR) to ISO 20022 ([source, 2026-07-10](https://angop.ao/noticias/economia/bna-conclui-migracao-para-padrao-internacional-iso-20022/)).
+- Expansão reports the Banco Nacional de Angola launched the Kwik instant-payment platform in June 2023, which carried Kz 557.4bn in the first half of 2026 per EMIS ([source, 2026-06](https://www.expansao.co.ao/angola/detalhe/movimentos-entre-carteiras-digitais-valem-apenas-06-no-kwik-74789.html)).
+
 ### Benin: 4 Operating
 
 The central bank oversaw a national payment switch in 2026; live participation in PAPSS is not on record.
@@ -57,6 +97,13 @@ The central bank oversaw a national payment switch in 2026; live participation i
 
 - leFaso.net reports that the BCEAO, which sets the connection deadlines for banks, e-money and payment institutions and microfinance, launched the PI-SPI interoperable instant payment platform on 30 September 2025, with 80 institutions connected by 24 June 2026 ([source, 2026-06-24](https://lefaso.net/spip.php?article147670)).
 - The BCEAO governor launched the interoperable instant payment platform PI-SPI on 30 September 2025, linking banks, e-money issuers, microfinance institutions and payment institutions across the UEMOA ([source, 2025-09-30](https://www.sidwaya.info/espace-uemoa-le-systeme-de-paiement-instantane-pi-spi-de-la-bceao-operationnel/)).
+
+### Burundi: 4 Operating
+
+Burundi's central bank licensed three e-money issuers by 2024 and launched BurundiPay in 2026; it is not yet shown live on PAPSS.
+
+- The Bank of the Republic of Burundi pilots BurundiPay, the national instant payment system, with 17 institutions live on 4 August 2026 (BRB payment systems director Nduwimana Libere) ([source, 2026-08-04](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/)).
+- The BRB launched BurundiPay, the national instant payment system, on 23 April 2026 and is its promoter ([source, 2026-04-23](https://www.brb.bi/node/3303)).
 
 ### Cameroon: 4 Operating
 
@@ -83,6 +130,13 @@ The central bank oversaw a national payment switch in 2023; live participation i
 The central bank oversaw a national payment switch in 2023; live participation in PAPSS is not on record.
 
 - AfricaNenda says BEAC owns 99.2% of GIMACPAY, is its overseer and settlement agent, and the switch serves payment providers in Chad ([source, 2023-11](https://www.africanenda.org/uploads/files/SIIPS2023_CaseStudy_CEMAC.pdf)).
+
+### Comoros: 4 Operating
+
+The Comoros central bank sets licensing for e-money issuers and launched Komor Switch in 2026; no source found says the Comoros is live on PAPSS.
+
+- Al-Watwan reports the Banque Centrale des Comores introduced and launched Komor Switch, a national platform connecting all banks and mobile money services for interoperability, and KomorPay, an automated interbank transfer system ([source, 2026-05-04](https://alwatwan.net/economie/secteur-bancaire-i-les-comores-inaugurent-de-nouveaux-modes-et-syst%C3%A8mes-de-paiement.html)).
+- The Banque Centrale des Comores says it is operator, supervisor and participant of KomorPay (ATS), the national interbank payment system operational since 23 April 2026 ([source, 2026-04-23](https://banque-comores.km/uploads/BCC-livret(3).pdf)).
 
 ### Congo: 4 Operating
 
@@ -174,6 +228,24 @@ The central bank oversaw a national payment switch in 2026; live participation i
 - BCEAO runs PI-SPI, the instant payment platform for UEMOA members including Mali, launched 30 September 2025 with 175 connected participants a year later ([source, 2026-09](https://www.forbesafrica.com/current-affairs/2026/10/07/interoperability-not-truly-free-fintech-experts-on-west-africas-instant-payments-rollout)).
 - The BCEAO list says the BCEAO builds and runs PI-SPI, an instant payment switch serving Mali ([source, 2026-09-30](https://www.bceao.int/sites/default/files/inline-files/Liste%20des%20participants_PI-SPI_30_sept_2026_0.pdf)).
 
+### Mauritania: 4 Operating
+
+Mauritania's central bank licensed Mattel Money as an e-money institution and oversaw GIMTEL's 2024 app interconnection; no source found says Mauritania is live on PAPSS.
+
+- GIMTEL launched interconnection of bank apps and e-wallets under the Central Bank of Mauritania's strategy, and its governor said oversight of payment systems had been activated ([source, 2024-10-14](https://fr.saharamedias.net/gimtel-annonce-le-debut-des-transactions-interbancaires-des-differentes-applications/)).
+
+### Mauritius: 4 Operating
+
+The Bank of Mauritius licenses payment service providers and runs the MauCAS switch in 2026; no source found says Mauritius is live on PAPSS.
+
+- Bank of Mauritius Governor Thakoor says the bank's infrastructure includes the Mauritius Central Automated Switch (MauCAS), whose QR payments are now usable in Mauritius and India ([source, 2026-07-15](https://www.bis.org/speeches/20261013-cross-border-payments-necessity-africas-resilience-and-economic-transformation)).
+
+### Morocco: 4 Operating
+
+Bank Al-Maghrib licensed new payment institutions in 2025 and oversees the SIMT retail clearing system; no source found says Morocco is live on PAPSS.
+
+- Bank Al-Maghrib's payments department says the central bank has organised interoperability and framed access to payment infrastructures, per Le Matin's report of the 11th MFC Talks ([source, 2026-09-27](https://lematin.ma/economie/paiement-instantane-les-rails-sont-la-les-usages-restent-a-construire/367355)).
+
 ### Mozambique: 4 Operating
 
 The central bank ran or oversaw a national payment switch in 2026; no source found reports a regional link.
@@ -254,6 +326,12 @@ The central bank oversaw the national interbank clearing system in 2026; no sour
 
 - The BCT states it manages and supervises the SGMT RTGS (in service since November 2006) and performs surveillance of the SIBTEL clearing system ([source, 2026-09-03](https://www.bct.gov.tn/bct/siteprod/page.jsp?id=96)).
 
+### Uganda: 4 Operating
+
+The Bank of Uganda licensed payment providers in 2025 and runs the RTGS and clearing house; no source found says Uganda is live on PAPSS.
+
+- The Bank of Uganda notice says its RTGS and ACH services, part of the national payments infrastructure, are in service until a scheduled closure from 5 to 9 November 2026 for an upgrade ([source, 2026-11-03](https://www.bou.or.ug/uploads/Public_Notice_on_RTGS_Temporary_Closure_f3e46d259e.pdf)).
+
 ### Zambia: 4 Operating
 
 The central bank oversaw a national payment switch in 2024; live participation in PAPSS is not on record.
@@ -293,14 +371,6 @@ The central bank licensed payment providers in 2026; no source found reports a n
 
 - The CSBF, attached to the Banky foiben'i Madagasikara, holds the legal power under the e-money institutions law to grant or withdraw licences, issue regulatory instructions and audit e-money institutions, per 2424.mg ([source, 2026-06-11](https://2424.mg/mobile-money-les-autorites-annoncent-des-audits-du-systeme-des-etablissements-de-monnaie-electronique/)).
 
-### Nigeria: 3 Established
-
-Nigeria's central bank licenses mobile money and payment firms in 2026; no source found says it runs or oversees a national switch.
-
-- Under new regulations released 5 November 2026, the Central Bank of Nigeria oversees stablecoins used for payments, transfers, FX conversion and settlement, and firms must apply to it for authorisation (with NGN 1 billion extra capital) to offer these services, per TechCabal ([source, 2026-11-05](https://techcabal.com/2026/11/06/cbn-sec-divide-crypto-oversight/)).
-- TechCabal reports that under Central Bank of Nigeria licensing requirements, mobile money and payment service bank licences must be held by an entity with the relevant telco licence, and that a CBN directive required Airtel Money to transfer its 25% SmartCash stake back to Airtel Networks ([source, 2026-10](https://techcabal.com/2026/10/06/airtel-money-ipo-nigeria-smartcash/)).
-- BusinessDay says TeamApt is a Central Bank of Nigeria-licensed switching and processing company ([source, 2026-08-13](https://businessday.ng/technology/article/teamapt-gains-direct-mastercard-network-access-in-strategic-payments-expansion/)).
-
 ### Sao Tome and Principe: 3 Established
 
 The central bank licensed payment providers in 2025; no source found reports a national switch it oversees.
@@ -314,76 +384,9 @@ The central bank licensed payment providers in 2026; no source found reports a n
 - The Bank of South Sudan requires non-bank electronic money issuers to obtain its regulatory approval under the amended Electronic Money Regulation, and must assess applications within 60 days ([source, 2026-09-01](https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/)).
 - The Bank of South Sudan issued a regulatory notice putting digital financial service providers, including mobile money operators, under the same licensing-linked requirements as banks, with licence suspension or cancellation as the sanction ([source, 2025-09-29](https://jakony.com/digital-money-operators-face-new-security-and-reporting-rules/)).
 
-### Gambia: 2 Nascent
-
-The Central Bank of The Gambia is lead regulator of the national payment system in 2026; no source found says it licenses payment providers.
-
-- The release says the Central Bank of The Gambia, as lead regulator of the national payment system, launched the NPSAC after the launch of BANTABA 2.0, described as the country's first real-time, fully interoperable payment system ([source, 2026-02-23](https://www.gamswitch.com/press-release/the-gambia-launches-national-payment-systems-advisory-committee-npsac-to-strengthen-payment-system-governance)).
-
 ### Lesotho: 2 Nascent
 
 A 2025 bill before Lesotho's parliament would let the central bank license payment providers; no source found says it does so yet.
 
 - The finance minister moved the Payment System Bill, 2025 to second reading in the National Assembly; it would repeal the Payment Systems Act 2014, license all payment service providers under one law and give the Central Bank of Lesotho powers to oversee the national payment system ([source, 2026-05-05](https://www.lena.gov.ls/finance-minister-presents-payment-system-bill/)).
 - The Ministry of Finance told Lesotho's parliamentary committee that the Payment Systems Bill, presented 2 May 2025, would give the Central Bank of Lesotho powers to supervise national payment systems and license non-bank payment entities ([source, 2025-05-02](https://nationalassembly.parliament.ls/wp-content/uploads/2025/08/Report-Payment-Systems-Bill-2025.pdf)).
-
-### Mauritania: 2 Nascent
-
-Mauritania's central bank activated payment-system oversight in 2024; no source found says it licenses mobile money, e-money or payment service providers.
-
-- GIMTEL launched interconnection of bank apps and e-wallets under the Central Bank of Mauritania's strategy, and its governor said oversight of payment systems had been activated ([source, 2024-10-14](https://fr.saharamedias.net/gimtel-annonce-le-debut-des-transactions-interbancaires-des-differentes-applications/)).
-
-### Morocco: 2 Nascent
-
-Bank Al-Maghrib oversees Morocco's payment systems and a reform would widen its powers; no source found says it licenses payment providers.
-
-- A proposed reform of the rules on payment systems and means of payment would broaden the Bank's prerogatives and require its prior approval of any payment, clearing or settlement system ([source, 2026](https://www.bkam.ma/en/Systems-and-means-of-payment/Financial-markets-infrastructure-and-monitoring/Overview)).
-- Bank Al-Maghrib oversees Morocco's payment systems, including the SIMT retail clearing system, under article 10 of law 76-03 and a multilateral oversight convention signed by all infrastructure managers ([source, 2026](https://www.bkam.ma/en/Systems-and-means-of-payment/Financial-markets-infrastructure-and-monitoring/Overview)).
-
-### Zimbabwe: 2 Nascent
-
-Zimbabwe's Reserve Bank oversees mobile money by directive, ordering customer checks by June 2026; no source found says it licenses payment providers.
-
-- The Herald reports the Reserve Bank of Zimbabwe oversees mobile money by directive: a 2021 directive enforced one line, one wallet, and the February 2026 Monetary Policy Statement directed operators to verify customers by 30 June 2026 ([source, 2026-06-30](https://www.heraldonline.co.zw/rbz-closes-loopholes-on-mobile-money-illicit-financial-flows-fraud/)).
-
-### Angola: Unplaced
-
-Angola's central bank launched an instant-payment platform in 2023; no source found says it licenses payment providers, so no stage is set.
-
-Not established: No source found since October 2023 says the Banco Nacional de Angola has a payments mandate being set up or licenses payment providers.
-
-### Burundi: Unplaced
-
-Burundi's central bank launched a national instant payment system in April 2026; no source found says it licenses payment providers, so no stage is set.
-
-Not established: No source found since October 2023 says the BRB has a payments mandate being set up or licenses payment providers; authorising four banks for PAPSS is not licensing them.
-
-### Comoros: Unplaced
-
-The Comoros central bank launched a national payment switch in 2026; no source found says it licenses payment providers, so no stage is set.
-
-Not established: No source found since October 2023 says the Banque Centrale des Comores has a payments mandate being set up or licenses payment providers.
-
-### Djibouti: Unplaced
-
-Two Djiboutian banks were live on PAPSS in 2026; no source says the central bank has a payments mandate, so no stage is set.
-
-Not established: No source found since October 2023 says the Banque Centrale de Djibouti has a payments mandate, licenses payment providers or oversees a national switch.
-
-### Mauritius: Unplaced
-
-In 2026 the Bank of Mauritius ran a national payment switch, but no source found says it licenses payment providers, so no stage is set.
-
-Not established: No source found since October 2023 says the Bank of Mauritius has a payments mandate being set up or licenses payment providers.
-
-### Sierra Leone: Unplaced
-
-The Bank of Sierra Leone runs a national payment switch, but no source found says it licenses payment providers, so no stage is set.
-
-Not established: No source found since October 2023 says the Bank of Sierra Leone has a payments mandate being set up or licenses payment providers.
-
-### Uganda: Unplaced
-
-The Bank of Uganda runs interbank settlement and clearing in 2026, but no source found says it licenses payment providers, so no stage is set.
-
-Not established: Nothing found since October 2023 says the Bank of Uganda has a payments mandate being set up or licenses payment providers; the country is not shown live on PAPSS.
