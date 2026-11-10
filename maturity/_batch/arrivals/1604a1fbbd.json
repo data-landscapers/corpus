@@ -1,0 +1,34 @@
+{
+ "slug": "2024-10-15-uga-uganda-seeking-alternative-internet-route-via-tanzania",
+ "studies": {
+  "internationalbandwidth": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "Uganda's NCIP coordinator said in October 2024 that 100 percent of Uganda's internet traffic to the world passes through Kenya, with an alternative route via Tanzania only under negotiation.",
+       "as_of": "2024-10",
+       "date_precision": "month",
+       "system": "Uganda traffic via Kenya",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "No data price stated."
+    }
+   }
+  }
+ }
+}

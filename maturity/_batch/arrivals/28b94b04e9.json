@@ -1,0 +1,9 @@
+{"slug": "2026-01-05-cog-fibre-optique-solidarite-historique-entre-operateurs-du-congo-pour-pal", "studies": {
+"aiabuse": {"countries": {"COG": {"facts": [], "systems": [], "note": "Article is about a submarine cable fault; nothing on AI."}}},
+"aigovernment": {"countries": {"COG": {"facts": [], "systems": [], "note": "Article is about a submarine cable fault; nothing on AI."}}},
+"aisectoral": {"countries": {"COG": {"facts": [], "systems": [], "note": "Article is about a submarine cable fault; nothing on AI."}}},
+"aisystems": {"countries": {"COG": {"facts": [], "systems": [], "note": "Article is about a submarine cable fault; nothing on AI."}}},
+"internationalbandwidth": {"countries": {"COG": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Digital Business Africa states that the WACS submarine cable, hit by an incident on 2 January 2026, is one of the main links connecting Congo to the international internet, and Congo Telecom says it switched to backup capacity.", "as_of": "2026-01-02", "date_precision": "day", "system": "WACS", "class": "route"}], "systems": [{"system": "WACS", "country_label": "West Africa Cable System", "class": "route", "platform": "submarine cable", "owner": "", "tiers": ""}], "note": "Operators' bandwidth pooling under ARPCE-encouraged sharing is not capacity sold at the landing station or on the cable, so no access fact."}}},
+"publicconsultation": {"countries": {"COG": {"facts": [], "systems": [], "note": "No consultation on a digital law or policy is stated."}}},
+"regionalpolicy": {"countries": {"COG": {"facts": [], "systems": [], "note": "No African digital-policy body or agreement is named."}}}
+}}

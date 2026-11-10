@@ -1,77 +1,21 @@
 {
  "slug": "2026-11-01-sdn-sudan-council-of-ministers-approves-draft-cybersecurity-data-ai-digital-transformation-laws",
  "studies": {
-  "aistrategy": {
+  "cybersecurity": {
    "countries": {
     "SDN": {
      "facts": [],
      "systems": [],
-     "note": "The document names an AI-related bill, not an AI strategy."
+     "note": "Cabinet approved a draft cybersecurity bill, which is a law matter; no body, strategy, response or designation is stated."
     }
    }
   },
-  "datagovernance": {
+  "dataprotectionreadiness": {
    "countries": {
     "SDN": {
      "facts": [],
      "systems": [],
-     "note": "The document names a bill, not a data policy; its content is not stated."
-    }
-   }
-  },
-  "dataprotectionauthority": {
-   "countries": {
-    "SDN": {
-     "facts": [],
-     "systems": [],
-     "note": "No authority is mentioned."
-    }
-   }
-  },
-  "dataprotectionlaw": {
-   "countries": {
-    "SDN": {
-     "facts": [],
-     "systems": [],
-     "note": "The Data and AI Regulation Bill's content is not stated, so it is not shown to set personal data protection rules."
-    }
-   }
-  },
-  "ecommercelaw": {
-   "countries": {
-    "SDN": {
-     "facts": [],
-     "systems": [],
-     "note": "No electronic transactions or e-commerce law is mentioned."
-    }
-   }
-  },
-  "interoperabilitylaw": {
-   "countries": {
-    "SDN": {
-     "facts": [],
-     "systems": [],
-     "note": "The Digital Transformation Regulation Bill's content is not stated, so public body data sharing is not shown."
-    }
-   }
-  },
-  "cybersecuritylaw": {
-   "countries": {
-    "SDN": {
-     "facts": [
-      {
-       "sub_indicator": "law",
-       "aspect": "standing",
-       "value": "bill",
-       "fact": "Sudan's Council of Ministers, in its meeting of 1 November 2026 reported by the Sudan News Agency, approved the Ministry of Digital Transformation and Communications' draft Cybersecurity Regulation Bill 2026.",
-       "as_of": "2026-11-01",
-       "date_precision": "day",
-       "system": "Cybersecurity Regulation Bill 2026",
-       "class": "law"
-      }
-     ],
-     "systems": [],
-     "note": ""
+     "note": "The approved draft is a Data and AI Regulation bill; the source does not say it is a data protection law, and states no treaty, authority or practice."
     }
    }
   }

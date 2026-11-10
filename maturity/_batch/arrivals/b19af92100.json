@@ -1,1 +1,14 @@
-{"slug": "2025-11-09-armd-itu-spectrum-management-workshop", "studies": {"internationalstandards": {"countries": {"DJI": {"facts": [], "systems": [], "note": "ITU spectrum workshop; no standards body membership, adopted standard or mandate is stated."}}}}}
+{
+ "slug": "2025-11-09-armd-itu-spectrum-management-workshop",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Spectrum workshop; nothing on fibre."
+    }
+   }
+  }
+ }
+}

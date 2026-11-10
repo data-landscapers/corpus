@@ -1,0 +1,10 @@
+{"slug": "2026-11-09-mar-moroccans-abroad-can-now-apply-online-for-criminal-record-certificates", "studies": {
+"authentication": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The document describes no authentication, e-signature or digital ID service."}}},
+"birthidlink": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The document says nothing on the civil register and ID system exchanging records."}}},
+"egovservices": {"countries": {"MAR": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "Hespress reports that DGSN opened its Epolice portal to Moroccans abroad from 9 November 2026 to apply online for criminal record certificates, with tracking online and collection at a chosen diplomatic mission.", "as_of": "2026-11-09", "date_precision": "day", "system": "Epolice", "class": "eservices"}], "systems": [{"system": "Epolice", "country_label": "Morocco", "class": "eservices", "platform": "DGSN online police services portal", "owner": "General Directorate of National Security (DGSN)", "tiers": ""}], "note": ""}}},
+"idcoverage": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The document gives no count or share of the population holding a national ID."}}},
+"idfrombirth": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The document says nothing on an ID number given at birth."}}},
+"idmaintenance": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The document does not say who operates, maintains or owns the ID system."}}},
+"idregisters": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The document names no register keyed on the national ID number."}}},
+"idrobustness": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The document only mentions staff for electronic national identity card services, with nothing on issuance, biometrics or certification."}}}
+}}

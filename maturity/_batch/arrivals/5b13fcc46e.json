@@ -1,0 +1,14 @@
+{
+ "slug": "2025-06-06-wingu-60m-east-africa-expansion-connectingafrica",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Data centre and cable landing station only; no national backbone stated."
+    }
+   }
+  }
+ }
+}

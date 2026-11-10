@@ -1,0 +1,45 @@
+{
+ "slug": "2025-04-01-uga-iso-unbs-uganda-national-bureau-of-standards",
+ "studies": {
+  "internationalstandards": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "international",
+       "aspect": "standing",
+       "value": "member",
+       "fact": "ISO's member page lists the Uganda National Bureau of Standards as Uganda's ISO member.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "Uganda National Bureau of Standards",
+       "class": "adoption"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "standards",
+       "aspect": "standing",
+       "value": "body",
+       "fact": "ISO's member page says the Uganda National Bureau of Standards is a parastatal established by Act of Parliament, operating since February 1989, to formulate and promote standards.",
+       "as_of": "2025-04",
+       "date_precision": "month",
+       "system": "Uganda National Bureau of Standards",
+       "class": "body"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

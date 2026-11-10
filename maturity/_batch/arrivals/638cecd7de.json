@@ -1,0 +1,257 @@
+{
+ "slug": "2026-11-09-mtn-group-earnings-outpace-revenue-by-22-9-as-nigeria-and-ghana-drive",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "service",
+       "value": "inservice",
+       "fact": "Tech Africa News reports that MTN Ghana's Q3 2026 service revenue grew 35.7%, with data, voice, digital services and Mobile Money all contributing.",
+       "as_of": "2026-09",
+       "date_precision": "month",
+       "system": "MTN Mobile Money",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "MTN Mobile Money",
+       "country_label": "MTN Ghana Mobile Money",
+       "class": "retail",
+       "platform": "",
+       "owner": "MTN Ghana",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "MTN Group results article; states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

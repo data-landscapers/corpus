@@ -1,0 +1,22 @@
+{"slug": "2026-11-07-egy-youm7-madbouly-opens-cairo-ict-2026-minister-2030-targets", "studies": {
+"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on a rule or authority against AI harms."}}},
+"aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Mentions AI-supported services on the Digital Egypt platform only as an exhibit, with no body or in-service use stated."}}},
+"aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No sector's public system is stated to use AI."}}},
+"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Large and small language models shown at an exhibition; no release or hosting stated. Target of 5 to 7 AI data centres is a plan."}}},
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Central bank only named as patron of the PAFIX expo."}}},
+"civilserviceskills": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on civil servants' digital skills training."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on consumer protection in digital finance."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only a 2030 target of 5 to 7 AI data centres and an exhibition hall; no facility in service stated."}}},
+"digitalskills": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Skills development named as a priority only; no programme or count."}}},
+"digitalsovereignty": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Digital sovereignty named as a ministry priority in general terms; no strategy, rule or hosting stated."}}},
+"egovservices": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Digital Egypt platform services shown, with a 2030 target of 500+; no current count or sign-in stated."}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"health": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on health information systems."}}},
+"ictproduction": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only a 2030 target of 30 million phones made and USD 12bn digital exports; no plant in production or ICT export share of GDP stated."}}},
+"nationaldatacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire stated."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No account-ownership survey share stated."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments in service."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on electronic payment of taxes or fees."}}}
+}}

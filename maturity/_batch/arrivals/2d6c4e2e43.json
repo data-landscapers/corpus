@@ -1,0 +1,14 @@
+{"slug": "2024-08-22-tcd-another-outage-shows-challenges-facing-chad-s-internet-infrastructure", "studies": {
+"datacentres": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Names no data centre."}, "SDN": {"facts": [], "systems": [], "note": "Names no data centre."}, "TCD": {"facts": [], "systems": [], "note": "Says no top-1,000 site is hosted locally; states no data centre for hire or its absence."}}},
+"datalocalisation": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on a localisation rule."}, "SDN": {"facts": [], "systems": [], "note": "Nothing on a localisation rule."}, "TCD": {"facts": [], "systems": [], "note": "Nothing on a localisation rule."}}},
+"exchangepoints": {"countries": {
+"CMR": {"facts": [], "systems": [], "note": "Names no exchange point."},
+"SDN": {"facts": [], "systems": [], "note": "Names no exchange point."},
+"TCD": {"facts": [{"sub_indicator": "exchange", "aspect": "exchange", "value": "service", "fact": "ISOC Pulse says Chad has one active IXP that connects a third of the country's networks, and that no content delivery network operates caches there.", "as_of": "2024-08-22", "date_precision": "day", "system": "Chad IXP", "class": "exchange"}], "systems": [{"system": "Chad IXP", "country_label": "Chad", "class": "exchange", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"internetusage": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No share of people online given."}, "SDN": {"facts": [], "systems": [], "note": "No share of people online given."}, "TCD": {"facts": [], "systems": [], "note": "No share of people online given."}}},
+"nationaldatacentres": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Names no data centre."}, "SDN": {"facts": [], "systems": [], "note": "Names no data centre."}, "TCD": {"facts": [], "systems": [], "note": "Names no data centre."}}},
+"regionalinfrastructure": {"countries": {
+"CMR": {"facts": [], "systems": [], "note": "Chad's transit via Camtel is stated with no arrangement or party in both countries named."},
+"SDN": {"facts": [], "systems": [], "note": "The Chad-Sudan link is stated down since 27 May 2024, with no arrangement named."},
+"TCD": {"facts": [], "systems": [{"system": "Sudat Chad", "country_label": "Chad", "class": "other", "platform": "sole international transit network", "owner": "", "tiers": ""}], "note": "Links to Cameroon and Sudan are stated with no arrangement or party in each country named; a trans-Saharan link is only a source's forecast."}}}
+}}

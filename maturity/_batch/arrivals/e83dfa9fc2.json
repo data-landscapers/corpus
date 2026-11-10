@@ -1,20 +1,14 @@
-{"slug": "2026-11-02-uga-questions-swirl-over-internet-deal-between-uganda-tanzania", "studies": {
-"datacentres": {"countries": {
- "TZA": {"facts": [], "systems": [], "note": "Nothing on data centres in Tanzania."},
- "UGA": {"facts": [], "systems": [], "note": "A data centre at Statistics House is mentioned as built in phase two, with no statement that it rents capacity to others."}}},
-"fibrebackbone": {"countries": {
- "TZA": {"facts": [], "systems": [], "note": "Tanzania's fibre network is named only as the other end of a proposed route; nothing on its backbone's reach."},
- "UGA": {"facts": [{"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "NITA-U's executive director Hatwib Mugasa said Uganda's National Backbone Infrastructure already runs to Mutukula on the Tanzania border and to the Busia and Malaba border points with Kenya, per the Monitor.", "as_of": "2026-11-02", "date_precision": "day", "system": "National Backbone Infrastructure (NBI)", "class": "backbone"}, {"sub_indicator": "backbone", "aspect": "access", "value": "open", "fact": "The Monitor reports that the Uganda Electricity Transmission Company's DWDM fibre along its power line, over 1,775.2 km, was leased to four telecom companies, with fibre cores paid three months ahead and co-location space twelve months ahead.", "as_of": "2026-11-02", "date_precision": "day", "system": "UETCL DWDM fibre", "class": "backbone"}], "systems": [{"system": "National Backbone Infrastructure (NBI)", "country_label": "Uganda", "class": "backbone", "platform": "optical fibre, EXIM Bank-financed phases 2008 to 2022", "owner": "NITA-U", "tiers": ""}, {"system": "UETCL DWDM fibre", "country_label": "Uganda", "class": "backbone", "platform": "fibre on the high-voltage power line", "owner": "Uganda Electricity Transmission Company Ltd", "tiers": ""}], "note": ""}}},
-"itcapacity": {"countries": {
- "TZA": {"facts": [], "systems": [], "note": "Nothing on Tanzanian government IT staff."},
- "UGA": {"facts": [{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "NITA-U's executive director said NITA-U is in charge of Uganda's National Backbone Infrastructure and its operations, per the Monitor.", "as_of": "2026-11-02", "date_precision": "day", "system": "National Backbone Infrastructure (NBI)", "class": "staff"}], "systems": [], "note": ""}}},
-"localgov": {"countries": {
- "TZA": {"facts": [], "systems": [], "note": "Nothing on local government offices."},
- "UGA": {"facts": [], "systems": [], "note": "Nothing on local government offices; the fibre links named serve central bodies."}}},
-"nationaldatacentres": {"countries": {
- "TZA": {"facts": [], "systems": [], "note": "Nothing on data centres in Tanzania."},
- "UGA": {"facts": [], "systems": [], "note": "A data centre at Statistics House is mentioned, with no statement that it is for hire."}}},
-"regionalinfrastructure": {"countries": {
- "TZA": {"facts": [{"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "The Monitor reports that Tanzania Telecommunications Corporation (TTCL) and Uganda's NITA-U signed a memorandum of understanding on 29 September 2023, under which Tanzania would connect Uganda's national fibre infrastructure to its regional fibre loop.", "as_of": "2023-09-29", "date_precision": "day", "system": "NITA-U and TTCL fibre interconnection MoU", "class": "shared"}], "systems": [], "note": ""},
- "UGA": {"facts": [{"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "The Monitor reports that NITA-U and Tanzania Telecommunications Corporation (TTCL) signed a memorandum of understanding on 29 September 2023, under which Tanzania would connect Uganda's National ICT Broadband Backbone to its regional fibre loop.", "as_of": "2023-09-29", "date_precision": "day", "system": "NITA-U and TTCL fibre interconnection MoU", "class": "shared"}], "systems": [], "note": ""}}}
-}}
+{
+ "slug": "2026-11-02-uga-questions-swirl-over-internet-deal-between-uganda-tanzania",
+ "studies": {
+  "internationalbandwidth": {
+   "countries": {
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Proposed route through Tanzania; the only claim it carries traffic is a company chief executive's, and no in-service route is stated."
+    }
+   }
+  }
+ }
+}

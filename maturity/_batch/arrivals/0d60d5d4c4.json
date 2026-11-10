@@ -1,0 +1,23 @@
+{
+ "slug": "2025-11-07-tza-tz-internet-users-utilises-only-15-pc-of-available-capacity",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on rural programmes or rural-urban use."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "The 82.6% is TCRA's penetration of internet subscriptions, not a share of people."
+    }
+   }
+  }
+ }
+}

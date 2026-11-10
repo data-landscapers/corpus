@@ -1,0 +1,43 @@
+{
+ "slug": "2026-01-05-cmr-cameroon-plans-to-participate-in-medusa-africa-submarine-cable",
+ "studies": {
+  "internationalbandwidth": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "two",
+       "fact": "Submarine Networks, relaying Business in Cameroon, says Cameroon is connected with five submarine cable systems (SAIL, WACS, SAT-3/WASC, NCSCS, Ceiba-2), all owned and operated by Camtel.",
+       "as_of": "2026-01-05",
+       "date_precision": "day",
+       "system": "SAIL, WACS, SAT-3/WASC, NCSCS, Ceiba-2",
+       "class": "route"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Medusa Africa",
+       "country_label": "Medusa Africa",
+       "class": "other",
+       "platform": "submarine cable",
+       "owner": "AFR-IX Telecom",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "No share of people using the internet stated."
+    }
+   }
+  }
+ }
+}

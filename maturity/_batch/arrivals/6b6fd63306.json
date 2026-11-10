@@ -1,0 +1,30 @@
+{"slug": "2026-10-12-caf-central-african-republic-revives-talks-on-third-internet-route-via-drc", "studies": {
+"digitalsovereignty": {"countries": {
+"CAF": {"facts": [], "systems": [], "note": "Digital sovereignty is named only as the theme of the Moscow roundtable where ministers met; no policy on state data is stated."},
+"COD": {"facts": [], "systems": [], "note": "Digital sovereignty is named only as the theme of the Moscow roundtable; no policy on state data is stated."}
+}},
+"digitalstrategy": {"countries": {
+"CAF": {"facts": [], "systems": [], "note": "No national digital strategy is named."},
+"COD": {"facts": [], "systems": [], "note": "A national digital strategy is mentioned only for its fibre links; its standing, text and period are not stated."}
+}},
+"fibrebackbone": {"countries": {
+"CAF": {"facts": [], "systems": [], "note": "The 935 km Central African Backbone is described only as linking CAR to Cameroon and the Republic of Congo; no link between the capital and other regions is stated."},
+"COD": {"facts": [], "systems": [], "note": "No national backbone is stated."}
+}},
+"internationalbandwidth": {"countries": {
+"CAF": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "independent", "fact": "Ecofin Agency reports that landlocked CAR has existing terrestrial fibre links through Cameroon and the Republic of Congo, built under the 935 km Central African Backbone project, to reach submarine cables, and that vandalism damaged sections in March 2026.", "as_of": "2026-10-12", "date_precision": "day", "system": "Central African Backbone (CAB)", "class": "route"}], "systems": [{"system": "Central African Backbone (CAB)", "country_label": "CAB", "class": "route", "platform": "", "owner": "", "tiers": ""}], "note": ""},
+"COD": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "two", "fact": "Ecofin Agency reports that 2Africa (design capacity up to 180 Tb/s, commercial service in the DRC from December 2025 per Airtel) and WACS (in service since 2012) both land at Muanda on the DRC's Atlantic coast.", "as_of": "2025-12-18", "date_precision": "day", "system": "2Africa; WACS", "class": "route"}], "systems": [{"system": "2Africa", "country_label": "2Africa", "class": "route", "platform": "", "owner": "Meta and a consortium of operators", "tiers": ""}, {"system": "WACS", "country_label": "West Africa Cable System", "class": "route", "platform": "", "owner": "", "tiers": ""}], "note": ""}
+}},
+"internetusage": {"countries": {
+"CAF": {"facts": [], "systems": [], "note": "The 30% figure is the authorities' reported penetration rate, not a stated share of people using the internet."},
+"COD": {"facts": [], "systems": [], "note": "No share of the population using the internet is given."}
+}},
+"opendiscussion": {"countries": {
+"CAF": {"facts": [], "systems": [], "note": "The March 2026 disruption is attributed to vandalism, not a government order; no criticism, punishment or cut by order is stated."},
+"COD": {"facts": [], "systems": [], "note": "Nothing on public debate, cuts or punishment is stated."}
+}},
+"regionalinfrastructure": {"countries": {
+"CAF": {"facts": [{"sub_indicator": "shared", "aspect": "service", "value": "link", "fact": "Ecofin Agency reports that CAR's network built under the Central African Backbone project connects it to Cameroon and the Republic of Congo; the project is named, but no party in either country is.", "as_of": "2026-10-12", "date_precision": "day", "system": "Central African Backbone (CAB)", "class": "shared"}], "systems": [], "note": ""},
+"COD": {"facts": [], "systems": [], "note": "The CAR-DRC interconnection is a revived project: ministers agreed on 2026-10-08 to advance it, with no timeline, financing or signed agreement."}
+}}
+}}

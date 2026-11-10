@@ -1,0 +1,32 @@
+{
+ "slug": "2025-12-18-mar-connectivite-medusa-le-cable-qui-redessine-la-carte-numerique-du-maroc",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on rural access."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "MAR": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Medusa",
+       "country_label": "Medusa",
+       "class": "other",
+       "platform": "submarine cable",
+       "owner": "AFR-IX Telecom",
+       "tiers": ""
+      }
+     ],
+     "note": "Medusa landed at Nador but service was only expected late January or early February 2026, so not in service at the article's date."
+    }
+   }
+  }
+ }
+}

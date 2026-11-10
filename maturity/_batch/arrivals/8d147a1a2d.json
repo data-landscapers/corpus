@@ -1,0 +1,117 @@
+{
+ "slug": "2026-06-30-mus-list-of-msb-registered-firms-as-at-30-june-2026",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Computer Emergency Response Team of Mauritius (CERT-Mu)",
+       "country_label": "CERT-Mu",
+       "class": "response",
+       "platform": "",
+       "owner": "Ministry of Information Technology, Communication and Innovation",
+       "tiers": ""
+      }
+     ],
+     "note": "The register names CERT-Mu as ISO 27001 certified but does not say it was created by law, decree or order, nor any incident handled."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Emtel Data Centre",
+       "country_label": "Emtel Data Centre",
+       "class": "other",
+       "platform": "",
+       "owner": "Emtel Ltd",
+       "tiers": ""
+      },
+      {
+       "system": "Mauritius Telecom data centres (Rose Belle, Rose Hill)",
+       "country_label": "Mauritius Telecom data centres",
+       "class": "other",
+       "platform": "",
+       "owner": "Mauritius Telecom Ltd",
+       "tiers": ""
+      }
+     ],
+     "note": "Emtel and Mauritius Telecom data centres are named as ISO 27001 certified; the register does not say they rent to others or give a Tier."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "international",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The Mauritius Standards Bureau's register as at 30 June 2026 lists 11 organisations certified to MS ISO/IEC 27001:2022, an information security standard held as a Mauritian national standard.",
+       "as_of": "2026-06-30",
+       "date_precision": "day",
+       "system": "MS ISO/IEC 27001:2022 under the MSB National ISMS Certification Scheme",
+       "class": "adoption"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Ownership, hire and hosting of government data are not stated for the listed data centres."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "standards",
+       "aspect": "standing",
+       "value": "published",
+       "fact": "The Mauritius Standards Bureau runs a National Information Security Management System Certification Scheme against MS ISO/IEC 27001:2022, an information security standard it treats as a national standard.",
+       "as_of": "2026-06-30",
+       "date_precision": "day",
+       "system": "MS ISO/IEC 27001:2022 under the MSB National ISMS Certification Scheme",
+       "class": "body"
+      },
+      {
+       "sub_indicator": "standards",
+       "aspect": "certification",
+       "value": "public-body",
+       "fact": "The register lists 11 certified organisations as at 30 June 2026, including the Passport and Immigration Office (certificate issued 30 October 2025), CERT-Mu, the Mauritius Revenue Authority, the Police IT Unit and the National Sanctions Secretariat, with accredited certificates.",
+       "as_of": "2026-06-30",
+       "date_precision": "day",
+       "system": "MS ISO/IEC 27001:2022 under the MSB National ISMS Certification Scheme",
+       "class": "body"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on technology hubs."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,839 @@
+{
+ "slug": "2026-11-09-xaf-af-ix-african-ixp-list",
+ "studies": {
+  "exchangepoints": {
+   "countries": {
+    "AGO": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in AGO: Angola-IXP (ANG-IXP), Luanda, and Angonix, Luanda.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "Angola-IXP (ANG-IXP)",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "BDI": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in BDI: BDIXP, Bujumbura.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "BDIXP",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "BEN": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in BEN: Benin IX, Cotonou.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "Benin IX",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "BFA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in BFA: BFIX, Ouagadougou.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "BFIX",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "BWA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in BWA: BIXP, Gaborone.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "BIXP",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "CIV": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in CIV: CIVIX, Abidjan.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "CIVIX",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in CMR: CAMIX, Douala and Yaounde.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "CAMIX",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "reach",
+       "value": "wider",
+       "fact": "The AF-IX list shows exchange points in more than one city of CMR: Douala and Yaounde.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "CAMIX",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COD": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in COD: KINIX, Kinshasa, GOMIX, Goma, and LUBIX, Lubumbashi.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "KINIX",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "reach",
+       "value": "wider",
+       "fact": "The AF-IX list shows exchange points in more than one city of COD: Kinshasa, Goma and Lubumbashi.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "KINIX",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in COG: CGIX, Brazzaville.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "CGIX",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in DJI: AMS-IX Djibouti.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "AMS-IX Djibouti",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in EGY: Cairo IX (CAIX) and Egypt-IX, both in Cairo.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "Cairo IX (CAIX) and Egypt-IX",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GAB": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in GAB: GAB-IX, Libreville.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "GAB-IX",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GHA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in GHA: GIX and Accra-IX, both in Accra.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "GIX and Accra-IX",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in GIN: IXP-GUINEE, Conakry.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "IXP-GUINEE",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "GMB": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in GMB: SIXP, Serekunda.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "SIXP",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in KEN: KIXP in Nairobi and Mombasa, and LINX in Nairobi and Mombasa.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "KIXP in Nairobi and Mombasa",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "reach",
+       "value": "wider",
+       "fact": "The AF-IX list shows exchange points in more than one city of KEN: Nairobi and Mombasa.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "KIXP in Nairobi and Mombasa",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "LBR": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in LBR: LIXP, Monrovia.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "LIXP",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "LSO": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in LSO: LIXP, Maseru.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "LIXP",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "MDG": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in MDG: MGIX, Antananarivo.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "MGIX",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "MLI": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in MLI: MLIX, Bamako.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "MLIX",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in MOZ: MOZIX, Maputo.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "MOZIX",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "MUS": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in MUS: MIXP, Ebene.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "MIXP",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "MWI": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in MWI: MIX, Blantyre, and LIONEX, Lilongwe.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "MIX",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "reach",
+       "value": "wider",
+       "fact": "The AF-IX list shows exchange points in more than one city of MWI: Blantyre and Lilongwe.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "MIX",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in NAM: IXWHK, Windhoek.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "IXWHK",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in NGA: IXPN in Lagos, Abuja and Port Harcourt, and AMS-IX Lagos and AF-CIX, Lagos.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "IXPN in Lagos",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "reach",
+       "value": "wider",
+       "fact": "The AF-IX list shows exchange points in more than one city of NGA: Lagos, Abuja and Port Harcourt.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "IXPN in Lagos",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in RWA: RINEX, Kigali.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "RINEX",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SDN": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in SDN: SIXP, Khartoum.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "SIXP",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in SEN: SENIX and HubSIX, both in Dakar.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "SENIX and HubSIX",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "SOM": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in SOM: SoIXP, Mogadishu.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "SoIXP",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TGO": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in TGO: TGIX, Lome.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "TGIX",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TUN": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in TUN: TunIXP, Tunis.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "TunIXP",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in TZA: TIX in Dar es Salaam, with exchanges in Arusha, Mwanza and Zanzibar.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "TIX in Dar es Salaam",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "reach",
+       "value": "wider",
+       "fact": "The AF-IX list shows exchange points in more than one city of TZA: Dar es Salaam, Arusha, Mwanza and Zanzibar.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "TIX in Dar es Salaam",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in UGA: UIXP, Kampala.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "UIXP",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "ZAF": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in ZAF: JINX, NAPAfrica and others in Johannesburg, Cape Town and Durban.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "JINX",
+       "class": "exchange"
+      },
+      {
+       "sub_indicator": "exchange",
+       "aspect": "reach",
+       "value": "wider",
+       "fact": "The AF-IX list shows exchange points in more than one city of ZAF: Johannesburg, Cape Town and Durban.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "JINX",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in ZMB: ZIXP and Lusaka IXP, Lusaka.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "ZIXP and Lusaka IXP",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "ZWE": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "exchange",
+       "value": "service",
+       "fact": "The African IXP Association's list names an exchange point in ZWE: HIXP, Harare.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "HIXP",
+       "class": "exchange"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "BDI": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "BEN": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "BFA": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "BWA": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "COD": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "GAB": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "LBR": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "MDG": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "MLI": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "MWI": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "SEN": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "TGO": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "TUN": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "ZAF": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "An exchange-point list; states no agreement between national bodies or a regional programme."
+    }
+   }
+  }
+ }
+}

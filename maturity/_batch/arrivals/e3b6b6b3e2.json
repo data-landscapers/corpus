@@ -1,0 +1,12 @@
+{"slug": "2026-11-09-bfa-burkina-faso-semaine-du-numrique-2026-des-comptitions-formations-gratu", "studies": {
+"aiabuse": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on AI harms rules or authority."}}},
+"aigovernment": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on AI used by a government body."}}},
+"aisectoral": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on AI in a sector's public system."}}},
+"aisystems": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Only robotics demonstrations and an AI-themed event; no model, dataset or compute built."}}},
+"civilserviceskills": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Training announced is for the public, not civil servants."}}},
+"digitalskills": {"countries": {"BFA": {"facts": [{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "The organising committee chair, who is the digital ministry's secretary general, announced on 2026-11-09 a free ICT training campaign of about five weeks covering office software, AI, cybersecurity, networks, web and mobile development, with attention to youth, women, displaced people and people with disabilities.", "as_of": "2026-11-09", "date_precision": "day", "system": "Semaine du numérique free ICT training campaign", "class": "publicskills"}], "systems": [{"system": "Semaine du numérique free ICT training campaign", "country_label": "Burkina Faso", "class": "publicskills", "platform": "", "owner": "Ministry in charge of digital transition (organising committee)", "tiers": ""}], "note": ""}}},
+"refugees": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Displaced people named only as a priority group for training; no registration or digital service stated."}}},
+"schoolinternet": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Nothing on school internet or curriculum."}}},
+"startups": {"countries": {"BFA": {"facts": [], "systems": [], "note": "Only a startup village at an event; no startup law, strategy or fund."}}},
+"techhubs": {"countries": {"BFA": {"facts": [], "systems": [], "note": "No hub, incubator or park named."}}}
+}}

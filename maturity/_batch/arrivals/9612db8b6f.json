@@ -1,0 +1,5 @@
+{"slug": "2025-04-07-lbr-liberia-to-reroute-ace-cable-to-address-internet-outages", "studies": {
+"internationalbandwidth": {"countries": {"LBR": {"facts": [
+{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Connecting Africa says the ACE cable has been Liberia's sole provider of internet bandwidth since 2011, landing at PHP Beach in Monrovia, and the Cable Consortium of Liberia and LTA have begun work to reroute the landing.", "as_of": "2025-04", "date_precision": "month", "system": "Africa Coast to Europe (ACE)", "class": "route"}
+], "systems": [{"system": "Africa Coast to Europe (ACE)", "country_label": "Liberia", "class": "route", "platform": "submarine cable", "owner": "Cable Consortium of Liberia", "tiers": ""}], "note": ""}}}
+}}

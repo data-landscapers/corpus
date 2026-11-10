@@ -1,0 +1,194 @@
+{
+ "slug": "2026-10-01-cmr-comment-internet-arrive-au-cameroun",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "offsitebackup": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated on this."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "backbone",
+       "aspect": "reach",
+       "value": "in-service",
+       "fact": "OBS-CC says over 12,000 km of fibre form the national backbone run by Camtel, linking the regions to each other and to the coast, with published estimates up to nearly 16,000 km.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "Camtel national fibre backbone",
+       "class": "backbone"
+      },
+      {
+       "sub_indicator": "backbone",
+       "aspect": "access",
+       "value": "open",
+       "fact": "OBS-CC says Camtel carries Chad's traffic to the sea cables over its fibre, and that a 15 May 2025 deal settling Sotel Tchad's debt raised that capacity to over 100 Gbit/s.",
+       "as_of": "2025-05-15",
+       "date_precision": "day",
+       "system": "Camtel national fibre backbone",
+       "class": "backbone"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Camtel national fibre backbone",
+       "country_label": "Cameroon",
+       "class": "backbone",
+       "platform": "fibre",
+       "owner": "Camtel",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "two",
+       "fact": "OBS-CC says five submarine cables (SAT-3/WASC, WACS, NCSCS, SAIL, Ceiba-2) connect Cameroon to the world, landing at three towns: Limbe, Douala and Kribi.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "SAT-3/WASC, WACS, NCSCS, SAIL, Ceiba-2",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "CMR": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "built",
+       "value": "agreed",
+       "fact": "OBS-CC says a 15 May 2025 agreement between Camtel and Sotel Tchad settled the debt and provided for activating the Nana-Mbere section and the Yagoua-Bongor link to give Chad a second exit.",
+       "as_of": "2025-05-15",
+       "date_precision": "day",
+       "system": "Camtel-Sotel Tchad transit agreement",
+       "class": "shared"
+      },
+      {
+       "sub_indicator": "shared",
+       "aspect": "service",
+       "value": "link",
+       "fact": "OBS-CC says Chad has reached the submarine cables through Camtel's fibre in Cameroon since 2015, under a commercial arrangement between Camtel and Sotel Tchad.",
+       "as_of": "2015",
+       "date_precision": "year",
+       "system": "Camtel fibre transit for Chad",
+       "class": "shared"
+      },
+      {
+       "sub_indicator": "shared",
+       "aspect": "service",
+       "value": "link",
+       "fact": "OBS-CC says the Central African Backbone programme joined seven CEEAC states including Cameroon with the World Bank, AfDB and EU; the Cameroon component, 916 km of fibre in five priority links, closed with the Cameroon-Central African Republic-Chad phase in March 2016.",
+       "as_of": "2016-03",
+       "date_precision": "month",
+       "system": "Central African Backbone",
+       "class": "shared"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Central African Backbone",
+       "country_label": "Cameroon",
+       "class": "shared",
+       "platform": "fibre",
+       "owner": "CEEAC states with World Bank, AfDB, EU",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-09-govstack-built-to-evolve-what-husika-shows-about-modular-digital-infrastructure",
+ "facts": [],
+ "systems": [
+  {
+   "system": "HUSIKA",
+   "country_label": "HUSIKA early-warning dissemination platform (South Sudan Meteorological Service access)",
+   "class": "other",
+   "platform": "",
+   "owner": "ICPAC",
+   "tiers": ""
+  }
+ ],
+ "note": "HUSIKA only disseminates official forecasts and warnings; no satellite data reception or use is stated."
+}

@@ -1,14 +1,34 @@
 {
  "slug": "2026-02-25-tza-nida-kubadili-muundo-vitambulisho-vya-taifa",
  "studies": {
-  "authentication": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Only a way for people or institutions to check cards, once NIDA enables it; no online authentication service stated."}}},
-  "birthidlink": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on a civil register to ID link."}}},
-  "idcoverage": {"countries": {"TZA": {"facts": [], "systems": [], "note": "No enrolment count or share is given."}}},
-  "idfrombirth": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on an ID number at birth."}}},
-  "idmaintenance": {"countries": {"TZA": {"facts": [], "systems": [], "note": "NIDA producing cards is stated, but not who operates or maintains the system or platform."}}},
-  "idregisters": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
-  "idrobustness": {"countries": {"TZA": {"facts": [
-   {"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Mwananchi reports NIDA, per its production director and director general, registers people at district offices and issues national IDs, whose number is each person's identity, with a new-generation card announced for new registrants.", "as_of": "2026-02-23", "date_precision": "day", "system": "NIDA national ID", "class": "idsystem"}
-  ], "systems": [{"system": "NIDA national ID", "country_label": "Tanzania", "class": "idsystem", "platform": "", "owner": "NIDA", "tiers": ""}], "note": ""}}}
+  "digitalidlaw": {
+   "countries": {
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "NIDA's production director Edson Guyai says printing fake national IDs is an offence under the Registration and Identification Act, Cap 36 of 2012, and its 2014 regulations.",
+       "as_of": "2026-02-23",
+       "date_precision": "day",
+       "system": "Registration and Identification Act, Cap 36 of 2012",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "States only a new card with health data and travel use planned; no other system checking against the ID."
+    }
+   }
+  }
  }
 }

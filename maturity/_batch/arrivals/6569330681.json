@@ -1,0 +1,74 @@
+{"slug": "2025-07-21-lbr-liberia-ecowas-plan-second-subsea-cable-for-five-west-african-countrie", "studies": {
+"businesspayments": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."},
+"GMB": {"facts": [], "systems": [], "note": "Nothing on e-procurement."},
+"GNB": {"facts": [], "systems": [], "note": "Nothing on e-procurement."},
+"LBR": {"facts": [], "systems": [], "note": "Nothing on e-procurement."},
+"SLE": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "Nothing on central bank payments role."},
+"GMB": {"facts": [], "systems": [], "note": "Nothing on central bank payments role."},
+"GNB": {"facts": [], "systems": [], "note": "Nothing on central bank payments role."},
+"LBR": {"facts": [], "systems": [], "note": "Nothing on central bank payments role."},
+"SLE": {"facts": [], "systems": [], "note": "Nothing on central bank payments role."}}},
+"consumerprotection": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer protection."},
+"GMB": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer protection."},
+"GNB": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer protection."},
+"LBR": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer protection."},
+"SLE": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer protection."}}},
+"crossborderpayments": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."},
+"GMB": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."},
+"GNB": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."},
+"LBR": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."},
+"SLE": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"digitalstrategy": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "Nothing on a national digital strategy."},
+"GMB": {"facts": [], "systems": [], "note": "Nothing on a national digital strategy."},
+"GNB": {"facts": [], "systems": [], "note": "Nothing on a national digital strategy."},
+"LBR": {"facts": [], "systems": [], "note": "Nothing on a national digital strategy."},
+"SLE": {"facts": [], "systems": [], "note": "Nothing on a national digital strategy."}}},
+"g2ppayments": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "Nothing on government payments to people."},
+"GMB": {"facts": [], "systems": [], "note": "Nothing on government payments to people."},
+"GNB": {"facts": [], "systems": [], "note": "Nothing on government payments to people."},
+"LBR": {"facts": [], "systems": [], "note": "Nothing on government payments to people."},
+"SLE": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"internationalbandwidth": {"countries": {
+"GIN": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Developing Telecoms, citing a Liberian ministry press release, says Guinea currently has only one international subsea connection, via the ACE cable.", "as_of": "2025-07", "date_precision": "month", "system": "Africa Coast to Europe (ACE)", "class": "route"}], "systems": [{"system": "Africa Coast to Europe (ACE)", "country_label": "Guinea", "class": "route", "platform": "submarine cable", "owner": "", "tiers": ""}], "note": "A planned second cable is not in service and is not recorded."},
+"GMB": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Developing Telecoms, citing a Liberian ministry press release, says the Gambia currently has only one international subsea connection, via the ACE cable.", "as_of": "2025-07", "date_precision": "month", "system": "Africa Coast to Europe (ACE)", "class": "route"}], "systems": [{"system": "Africa Coast to Europe (ACE)", "country_label": "Gambia", "class": "route", "platform": "submarine cable", "owner": "", "tiers": ""}], "note": "A planned second cable is not in service and is not recorded."},
+"GNB": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Developing Telecoms, citing a Liberian ministry press release, says Guinea-Bissau currently has only one international subsea connection, via the ACE cable.", "as_of": "2025-07", "date_precision": "month", "system": "Africa Coast to Europe (ACE)", "class": "route"}], "systems": [{"system": "Africa Coast to Europe (ACE)", "country_label": "Guinea-Bissau", "class": "route", "platform": "submarine cable", "owner": "", "tiers": ""}], "note": "A planned second cable is not in service and is not recorded."},
+"LBR": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Developing Telecoms, citing a Liberian ministry press release, says Liberia currently has only one international subsea connection, via the ACE cable.", "as_of": "2025-07", "date_precision": "month", "system": "Africa Coast to Europe (ACE)", "class": "route"}], "systems": [{"system": "Africa Coast to Europe (ACE)", "country_label": "Liberia", "class": "route", "platform": "submarine cable", "owner": "", "tiers": ""}], "note": "A planned second cable is not in service and is not recorded."},
+"SLE": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Developing Telecoms, citing a Liberian ministry press release, says Sierra Leone currently has only one international subsea connection, via the ACE cable.", "as_of": "2025-07", "date_precision": "month", "system": "Africa Coast to Europe (ACE)", "class": "route"}], "systems": [{"system": "Africa Coast to Europe (ACE)", "country_label": "Sierra Leone", "class": "route", "platform": "submarine cable", "owner": "", "tiers": ""}], "note": "A planned second cable is not in service and is not recorded."}}},
+"opendiscussion": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "Nothing on public debate, cuts or punishment."},
+"GMB": {"facts": [], "systems": [], "note": "Nothing on public debate, cuts or punishment."},
+"GNB": {"facts": [], "systems": [], "note": "Nothing on public debate, cuts or punishment."},
+"LBR": {"facts": [], "systems": [], "note": "Nothing on public debate, cuts or punishment."},
+"SLE": {"facts": [], "systems": [], "note": "Nothing on public debate, cuts or punishment."}}},
+"paymentsuptake": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "Nothing on account ownership."},
+"GMB": {"facts": [], "systems": [], "note": "Nothing on account ownership."},
+"GNB": {"facts": [], "systems": [], "note": "Nothing on account ownership."},
+"LBR": {"facts": [], "systems": [], "note": "Nothing on account ownership."},
+"SLE": {"facts": [], "systems": [], "note": "Nothing on account ownership."}}},
+"retailpayments": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "Nothing on retail digital payments."},
+"GMB": {"facts": [], "systems": [], "note": "Nothing on retail digital payments."},
+"GNB": {"facts": [], "systems": [], "note": "Nothing on retail digital payments."},
+"LBR": {"facts": [], "systems": [], "note": "Nothing on retail digital payments."},
+"SLE": {"facts": [], "systems": [], "note": "Nothing on retail digital payments."}}},
+"revenuecollection": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "Nothing on electronic revenue payment."},
+"GMB": {"facts": [], "systems": [], "note": "Nothing on electronic revenue payment."},
+"GNB": {"facts": [], "systems": [], "note": "Nothing on electronic revenue payment."},
+"LBR": {"facts": [], "systems": [], "note": "Nothing on electronic revenue payment."},
+"SLE": {"facts": [], "systems": [], "note": "Nothing on electronic revenue payment."}}},
+"satellitebroadband": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "Nothing on satellite broadband."},
+"GMB": {"facts": [], "systems": [], "note": "Nothing on satellite broadband."},
+"GNB": {"facts": [], "systems": [], "note": "Nothing on satellite broadband."},
+"LBR": {"facts": [], "systems": [], "note": "Nothing on satellite broadband."},
+"SLE": {"facts": [], "systems": [], "note": "Nothing on satellite broadband."}}}
+}}

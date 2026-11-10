@@ -1,0 +1,8 @@
+{"slug": "2026-02-06-tcd-chad-reopens-talks-with-telecom-operators-over-strategic-fiber-link", "studies": {
+"digitalsovereignty": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing on state data."}, "TCD": {"facts": [], "systems": [], "note": "A suspended operator MoU over sovereignty concerns is not a rule or plan on state data."}}},
+"fibrebackbone": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Cameroon's commitment on the Nana-Mbere segment is not a contract or works begun."}, "TCD": {"facts": [], "systems": [{"system": "N'Djamena-Mbere fibre route", "country_label": "Chad", "class": "other", "platform": "fibre", "owner": "SOTEL and Airtel (MoU suspended)", "tiers": ""}], "note": "Work on the N'Djamena-Mbere route has not begun."}}},
+"internationalbandwidth": {"countries": {
+"CMR": {"facts": [], "systems": [], "note": "States nothing on Cameroon's own landings or routes."},
+"TCD": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Ecofin Agency says the N'Djamena-Mbere corridor to the Cameroonian border is currently Chad's sole access point to international internet capacity via undersea cables.", "as_of": "2026-02-06", "date_precision": "day", "system": "N'Djamena-Mbere corridor", "class": "route"}], "systems": [], "note": ""}}},
+"regionalinfrastructure": {"countries": {"CMR": {"facts": [], "systems": [], "note": "A May 2025 Cameroon commitment on the Nana-Mbere segment is named with no partner body or agreement parties."}, "TCD": {"facts": [], "systems": [], "note": "The link to Cameroon is stated with no party in each country named; the operator MoU is suspended and the trans-Saharan backbone is only explored."}}}
+}}

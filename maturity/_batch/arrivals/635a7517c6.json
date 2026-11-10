@@ -1,0 +1,5 @@
+{"slug": "2026-02-15-swz-eswatini-targets-120-000-homes-in-national-fibre-rollout", "studies": {
+"digitalstrategy": {"countries": {"SWZ": {"facts": [], "systems": [{"system": "Programme of Action", "country_label": "Government Programme of Action (digital transformation roadmap)", "class": "other", "platform": "", "owner": "Government of Eswatini", "tiers": ""}], "note": "Scope of the roadmap is not described and no strategy adoption is stated."}}},
+"egovservices": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No online government service is stated; only fibre rollout and Smart City pilots."}}},
+"internationalbandwidth": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Gives cross-border capacity rising from 40 to 111 Gbps, which sets nothing; no fibre route is named."}}}
+}}

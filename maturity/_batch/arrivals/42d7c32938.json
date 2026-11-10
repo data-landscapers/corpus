@@ -1,0 +1,12 @@
+{"slug": "2026-08-25-ken-mahakama-kuu-yapiga-breki-matumizi-ya-maisha-card", "studies": {
+"authentication": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
+"birthidlink": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No link to civil register stated."}}},
+"digitalidlaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No law or bill named."}}},
+"idcoverage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
+"idmaintenance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No operator or owner of the system stated."}}},
+"idregisters": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"KEN": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "underway", "fact": "KBC Swahili reported on 2026-08-25 that the High Court (Justice Lawrence Mumbi) halted introduction of Maisha Card, new digital IDs due to replace the old national IDs, until a petition against it is decided.", "as_of": "2026-08-25", "date_precision": "day", "system": "Maisha Card", "class": "idsystem"}], "systems": [{"system": "Maisha Card", "country_label": "Maisha Card", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"idverification": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No other system checking against the ID stated."}}},
+"registry": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on civil registration offices."}}}
+}}

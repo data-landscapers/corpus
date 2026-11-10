@@ -1,0 +1,8 @@
+{"slug": "2025-11-19-gab-meta-completes-2africa-subsea-cable-system-connecting-3-billion-people", "studies": {
+"datacentres": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on data centres in Gabon."}}},
+"internationalbandwidth": {"countries": {"GAB": {"facts": [
+{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Ecofin Agency, reporting Meta, says the 2Africa West segment lands in Gabon among other countries, with up to 180 Tbps of trunk capacity.", "as_of": "2025-11-17", "date_precision": "day", "system": "2Africa", "class": "route"},
+{"sub_indicator": "routes", "aspect": "access", "value": "open", "fact": "Ecofin Agency, reporting Meta, calls 2Africa an open-access system whose model lets multiple service providers use the infrastructure, with ISPs and mobile operators securing wholesale capacity; Gabon is among its West-segment landings.", "as_of": "2025-11-17", "date_precision": "day", "system": "2Africa", "class": "route"}
+], "systems": [{"system": "2Africa", "country_label": "Gabon", "class": "route", "platform": "submarine cable", "owner": "Meta-led consortium", "tiers": ""}], "note": ""}}},
+"nationaldatacentres": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on data centres in Gabon."}}}
+}}

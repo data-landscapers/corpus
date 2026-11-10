@@ -1,0 +1,5 @@
+{"slug": "2026-02-18-cog-arpce-apres-la-panne-du-wacs-operateurs-congolais-cable-2africa", "studies": {
+"digitalsovereignty": {"countries": {"COG": {"facts": [], "systems": [], "note": "Mentions sovereignty only in general; nothing on state data."}}},
+"gridreliability": {"countries": {"COG": {"facts": [], "systems": [], "note": "Nothing on power outages."}}},
+"internationalbandwidth": {"countries": {"COG": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "independent", "fact": "ARPCE says Congo's WACS cable (landing at Matombi, repaired 12 February 2026) now has 2Africa capacity activated by operators since 2 February 2026 (Congo Telecom 200, MTN 100, Airtel 20 Gbps) and land corridors through the DRC and Angola.", "as_of": "2026-02-12", "date_precision": "day", "system": "WACS, 2Africa, land corridors via DRC and Angola", "class": "route"}], "systems": [{"system": "WACS", "country_label": "Congo", "class": "route", "platform": "submarine cable", "owner": "", "tiers": ""}, {"system": "2Africa", "country_label": "Congo", "class": "route", "platform": "submarine cable", "owner": "", "tiers": ""}], "note": ""}}}
+}}

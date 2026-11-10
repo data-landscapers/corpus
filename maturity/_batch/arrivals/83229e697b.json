@@ -1,0 +1,32 @@
+{
+ "slug": "2026-11-06-mrt-telecommunications-l-autorite-de-regulation-inflige-plus-de-421-millio",
+ "studies": {
+  "exchangepoints": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A regulator fine for quality of service; no exchange point, internet-use share or data price stated."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A regulator fine for quality of service; no exchange point, internet-use share or data price stated."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A regulator fine for quality of service; no exchange point, internet-use share or data price stated."
+    }
+   }
+  }
+ }
+}

@@ -1,14 +1,14 @@
-{"slug": "2024-10-14-civ-la-guinee-et-la-cote-d-ivoire-signent-un-accord-d-interconnexion-par-f", "studies": {
-"internationalbandwidth": {"countries": {
-"CIV": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "two", "fact": "Agence Ecofin says, citing the Submarine Cable Map, that Cote d'Ivoire is linked to six international submarine cables.", "as_of": "2024-10-14", "date_precision": "day", "system": "International submarine cables", "class": "route"}], "systems": [], "note": ""},
-"GIN": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Agence Ecofin says Guinea has only one fibre connection, mainly the ACE submarine cable to which it has been linked since 2014.", "as_of": "2024-10-14", "date_precision": "day", "system": "ACE", "class": "route"}], "systems": [], "note": ""}}},
-"internetusage": {"countries": {
-"CIV": {"facts": [], "systems": [{"system": "Mobile internet penetration, ARTCI", "country_label": "93.7%", "class": "other", "platform": "", "owner": "ARTCI", "tiers": ""}], "note": "A regulator's mobile internet rate, not a share of people using the internet."},
-"GIN": {"facts": [], "systems": [{"system": "Mobile internet users, ARPT Q4 2023", "country_label": "7.7 million", "class": "other", "platform": "", "owner": "ARPT", "tiers": ""}], "note": "A regulator's count of mobile internet users, not a share of people."}}},
-"mobilepenetration": {"countries": {
-"CIV": {"facts": [], "systems": [{"system": "Mobile telephony penetration rate, ARTCI", "country_label": "172.2%", "class": "other", "platform": "", "owner": "ARTCI", "tiers": ""}], "note": "A subscription rate, not people owning a phone."},
-"GIN": {"facts": [], "systems": [{"system": "Mobile subscribers, ARPT Q4 2023", "country_label": "14.1 million", "class": "other", "platform": "", "owner": "ARPT", "tiers": ""}], "note": "A regulator's subscriber count, not people owning a phone."}}},
-"regionalinfrastructure": {"countries": {
-"CIV": {"facts": [{"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Agence Ecofin reports that the Ivorian and Guinean ministers signed on 11 October 2024 a partnership agreement to interconnect the two countries' fibre optic networks.", "as_of": "2024-10-11", "date_precision": "day", "system": "Guinea-Cote d'Ivoire fibre interconnection", "class": "shared"}], "systems": [], "note": ""},
-"GIN": {"facts": [{"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Agence Ecofin reports that the Ivorian and Guinean ministers signed on 11 October 2024 a partnership agreement to interconnect the two countries' fibre optic networks.", "as_of": "2024-10-11", "date_precision": "day", "system": "Guinea-Cote d'Ivoire fibre interconnection", "class": "shared"}], "systems": [], "note": ""}}}
-}}
+{
+ "slug": "2024-10-14-civ-la-guinee-et-la-cote-d-ivoire-signent-un-accord-d-interconnexion-par-f",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "CIV": {
+     "facts": [],
+     "systems": [],
+     "note": "Cross-border fibre interconnection protocol with Guinea; no national backbone contract, works or reach stated."
+    }
+   }
+  }
+ }
+}

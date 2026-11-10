@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-30-mus-list-of-msb-registered-firms-as-at-30-june-2026",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Computer Emergency Response Team of Mauritius (CERT-Mu)",
+   "country_label": "CERT-Mu",
+   "class": "response",
+   "platform": "",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": "The register names CERT-Mu as ISO 27001 certified but does not say it was created by law, decree or order, nor any incident handled."
+}

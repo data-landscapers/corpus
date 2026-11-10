@@ -1,0 +1,18 @@
+{"slug": "2025-07-14-bwa-three-years-on-paratus-has-used-equiano-to-shape-sadc-connectivity-lan", "studies": {
+"fibrebackbone": {"countries": {
+"BWA": {"facts": [], "systems": [], "note": "The 840 km Kalahari Fiber is a link to the Namibian landing station, not a backbone between the capital and other regions."},
+"NAM": {"facts": [], "systems": [], "note": "No national backbone is stated."}
+}},
+"internationalbandwidth": {"countries": {
+"BWA": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Paratus says its 840 km Botswana Kalahari Fiber, completed in 2022, links Gaborone to the Equiano landing station in Namibia, giving Botswana its first express fibre route to Europe.", "as_of": "2022", "date_precision": "year", "system": "Botswana Kalahari Fiber; Equiano", "class": "route"}], "systems": [], "note": ""},
+"NAM": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Paratus says the Equiano cable landed at Swakopmund, Namibia, in June 2022 and that it is the landing partner.", "as_of": "2022-06", "date_precision": "month", "system": "Equiano", "class": "route"}], "systems": [{"system": "Equiano", "country_label": "Equiano", "class": "route", "platform": "", "owner": "Google", "tiers": ""}], "note": ""}
+}},
+"internetusage": {"countries": {
+"BWA": {"facts": [], "systems": [], "note": "The penetration figures are Kepios/DataReportal as quoted, which are never used."},
+"NAM": {"facts": [], "systems": [], "note": "The penetration figures are Kepios/DataReportal as quoted, which are never used."}
+}},
+"regionalinfrastructure": {"countries": {
+"BWA": {"facts": [], "systems": [], "note": "The Namibia-Botswana fibre is one company's network; no arrangement between national bodies is stated."},
+"NAM": {"facts": [], "systems": [], "note": "Paratus's cross-border fibre is one company's network; no arrangement between national bodies is stated."}
+}}
+}}

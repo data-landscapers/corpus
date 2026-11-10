@@ -1,0 +1,13 @@
+{"slug": "2024-06-21-wb-tcd-pfsap-usr-ews-2024", "studies": {
+"businessregister": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document says nothing on a business register."}}},
+"civilregister": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document says nothing on civil registration."}}},
+"electoralregister": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document says nothing on a voters' roll."}}},
+"landregister": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document says nothing on a land register."}}},
+"populationregister": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document names no population register."}}},
+"refugees": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document mentions a host-community window of funding only, with no registration or digital service for refugees."}}},
+"registry": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document says nothing on local civil registration offices."}}},
+"socialexchange": {"countries": {"TCD": {"facts": [], "systems": [], "note": "A payment module is financed, but no link or exchange with the registry, ID or a payment provider is stated as built or in service."}}},
+"socialprotection": {"countries": {"TCD": {"facts": [], "systems": [], "note": "A payment module is financed, but no programme management system or its payments are stated."}}},
+"socialregistry": {"countries": {"TCD": {"facts": [{"sub_indicator": "social", "aspect": "registry", "value": "underway", "fact": "The World Bank's June 2024 appraisal for Chad's P502142 project funds US$19.5 million to strengthen the Unified Social Registry, whose deployment and extension continue by selected provinces.", "as_of": "2024-06-21", "date_precision": "day", "system": "Unified Social Registry (USR)", "class": "social"}], "systems": [{"system": "Unified Social Registry (USR)", "country_label": "Chad", "class": "social", "platform": "", "owner": "Ministere de l'Action Sociale, de la Solidarite Nationale et des Affaires Humanitaires", "tiers": ""}], "note": ""}}},
+"taxregister": {"countries": {"TCD": {"facts": [], "systems": [], "note": "The document says nothing on a taxpayer register."}}}
+}}

@@ -1,11 +1,14 @@
-{"slug": "2026-11-07-sdn-pakistan-sudan-to-strengthen-security-digital-registration-efforts", "studies": {
-"authentication": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
-"birthidlink": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No link between civil register and ID stated."}}},
-"civilregister": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Certificates issued are stated, but no digital register is named."}}},
-"idcoverage": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Card counts, not people enrolled, and no population share."}}},
-"idfrombirth": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
-"idmaintenance": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Pakistan's NADRA support is stated, but who operates or owns the system is not."}}},
-"idregisters": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No register keyed on the ID stated."}}},
-"idrobustness": {"countries": {"SDN": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "Pakistan's interior minister Mohsin Naqvi said that with NADRA's support Sudan has issued nine million national identity cards (and 36 million citizenship cards) to date.", "as_of": "2026-11-07", "date_precision": "day", "system": "National identity cards", "class": "idsystem"}], "systems": [{"system": "National identity cards", "country_label": "Sudan", "class": "idsystem", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
-"registry": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Birth and death certificates issued, but nothing on how local offices make the record."}}}
-}}
+{
+ "slug": "2026-11-07-sdn-pakistan-sudan-to-strengthen-security-digital-registration-efforts",
+ "studies": {
+  "cybersecurity": {
+   "countries": {
+    "SDN": {
+     "facts": [],
+     "systems": [],
+     "note": "Only a cybercrime MoU agreed in principle; no national cyber body, strategy, incident or CII stated."
+    }
+   }
+  }
+ }
+}

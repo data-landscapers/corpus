@@ -1,14 +1,3 @@
-{
- "slug": "2025-09-30-bceao-liste-participants-pi-spi",
- "studies": {
-  "localrecords": {
-   "countries": {
-    "BEN": {
-     "facts": [],
-     "systems": [],
-     "note": "Regional instant-payment participants list; no local government revenue record."
-    }
-   }
-  }
- }
-}
+{"slug": "2025-09-30-bceao-liste-participants-pi-spi", "studies": {
+"regionalinfrastructure": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The document does not name Mauritania and is about a payment platform, which is not shared digital infrastructure here."}}}
+}}

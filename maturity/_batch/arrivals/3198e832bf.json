@@ -1,0 +1,7 @@
+{"slug": "2026-05-06-gin-guinee-le-mceni-a-travers-la-guilab-signe-laccord-pour-la-construction", "studies": {
+"aiabuse": {"countries": {"GIN": {"facts": [], "systems": [], "note": "Article is about a submarine cable; no AI rule stated."}}},
+"aigovernment": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No AI use in administration stated."}}},
+"aisectoral": {"countries": {"GIN": {"facts": [], "systems": [], "note": "No sectoral AI stated."}}},
+"aisystems": {"countries": {"GIN": {"facts": [], "systems": [], "note": "AI mentioned only as a user of fibre; no AI capacity stated."}}},
+"internationalbandwidth": {"countries": {"GIN": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Communication and digital economy minister Mourana Soumah said on 6 May 2026 that Guinea has only one submarine cable, currently 98% saturated, and GUILAB's director general named it as Africa Coast to Europe (ACE), landed nearly 13 years earlier.", "as_of": "2026-05-06", "date_precision": "day", "system": "ACE", "class": "route"}], "systems": [{"system": "ACE", "country_label": "Africa Coast to Europe (ACE)", "class": "route", "platform": "submarine cable", "owner": "", "tiers": ""}, {"system": "MEDUSA Africa", "country_label": "MEDUSA Africa", "class": "other", "platform": "submarine cable, construction agreement signed 2026-05-06, not in service", "owner": "", "tiers": ""}], "note": ""}}}
+}}

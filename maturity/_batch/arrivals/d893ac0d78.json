@@ -1,0 +1,44 @@
+{
+ "slug": "2026-02-20-sen-sonatel-annonce-la-mise-en-service-du-cable-sous-marin-2africa-le-plus",
+ "studies": {
+  "internationalbandwidth": {
+   "countries": {
+    "SEN": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "Sonatel's own press release says the 2Africa cable, in service since December 2025 with 180 Tbit/s nominal capacity, lands in Senegal at a station Sonatel built.",
+       "as_of": "2025-12",
+       "date_precision": "month",
+       "system": "2Africa",
+       "class": "route"
+      },
+      {
+       "sub_indicator": "routes",
+       "aspect": "access",
+       "value": "open",
+       "fact": "Sonatel says 2Africa runs on an open-access model giving non-discriminatory access to capacity, with carrier-neutral landing stations open to all operators.",
+       "as_of": "2026-02-20",
+       "date_precision": "day",
+       "system": "2Africa",
+       "class": "route"
+      }
+     ],
+     "systems": [
+      {
+       "system": "2Africa",
+       "country_label": "Senegal",
+       "class": "route",
+       "platform": "",
+       "owner": "Sonatel (landing station)",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "2026-07-09-gin-guinee-orange-appele-a-ameliorer-la-qualite-de-service-et-la-couvertur",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "The minister names rural connectivity and white zones as priorities; no programme launched, funded or counted, and no rural and urban use split."
+    }
+   }
+  },
+  "mobilepenetration": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "ITU mobile penetration rate 2024",
+       "country_label": "82.2% (ITU, 2024; ARPT subscriptions 89.1%, June 2025)",
+       "class": "other",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": "The ITU 82.2% is called a mobile penetration rate, not stated as share of people who own a phone; held as other."
+    }
+   }
+  }
+ }
+}

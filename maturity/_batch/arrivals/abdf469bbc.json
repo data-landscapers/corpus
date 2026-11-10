@@ -1,0 +1,14 @@
+{"slug": "2024-12-04-bwa-paratus-botswana-announces-new-botswana-to-zambia-fiber-route", "studies": {
+"datacentres": {"countries": {
+"BWA": {"facts": [], "systems": [], "note": "Paratus hosting named in passing; no data centre for hire described."},
+"ZMB": {"facts": [], "systems": [], "note": "Nothing on data centres."},
+"ZWE": {"facts": [], "systems": [], "note": "Nothing on data centres."}}},
+"internationalbandwidth": {"countries": {
+"BWA": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "independent", "fact": "Paratus Botswana says it has fibre routes out of Botswana, two into South Africa and one into Namibia, which links to the Equiano subsea cable at Swakopmund, with a fourth route to Zimbabwe and Zambia still being lit.", "as_of": "2024-12-04", "date_precision": "day", "system": "Paratus BKF; Paratus routes to South Africa and Namibia", "class": "route"}], "systems": [{"system": "SADC Highway", "country_label": "Botswana", "class": "other", "platform": "fibre", "owner": "Paratus Botswana", "tiers": ""}], "note": ""},
+"ZMB": {"facts": [], "systems": [], "note": "The Paratus route to Livingstone is not in service."},
+"ZWE": {"facts": [], "systems": [], "note": "The Paratus route through Zimbabwe is not in service."}}},
+"nationaldatacentres": {"countries": {
+"BWA": {"facts": [], "systems": [], "note": "Nothing on data centres."},
+"ZMB": {"facts": [], "systems": [], "note": "Nothing on data centres."},
+"ZWE": {"facts": [], "systems": [], "note": "Nothing on data centres."}}}
+}}

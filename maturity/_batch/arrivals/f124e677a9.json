@@ -1,10 +1,14 @@
-{"slug":"2025-01-01-mrt-systeme-d-identification-biometrique-des-assures-lors-de-leurs-acces-a","studies":{
-"authentication":{"countries":{"MRT":{"facts":[{"sub_indicator":"authentication","aspect":"service","value":"inservice","fact":"Mauritania's national health insurance fund CNAM verifies insured persons by fingerprint or face, matched against the national ID card or by real-time query of the national agency ANRPTS through secure APIs, in all partner facilities since January 2025, per ISSA.","as_of":"2025-01","date_precision":"month","system":"CNAM biometric identification of insured persons","class":"authentication"}],"systems":[{"system":"CNAM biometric identification of insured persons","country_label":"Mauritania","class":"authentication","platform":"ANRPTS APIs","owner":"CNAM","tiers":""}],"note":""}}},
-"birthidlink":{"countries":{"MRT":{"facts":[],"systems":[],"note":"Nothing on civil register and ID links."}}},
-"idcoverage":{"countries":{"MRT":{"facts":[],"systems":[],"note":"No enrolment count or share stated."}}},
-"idfrombirth":{"countries":{"MRT":{"facts":[],"systems":[],"note":"Nothing on numbers from birth."}}},
-"idmaintenance":{"countries":{"MRT":{"facts":[],"systems":[],"note":"Nothing on who operates or owns the ID system."}}},
-"idregisters":{"countries":{"MRT":{"facts":[],"systems":[],"note":"No register matching figures stated."}}},
-"idrobustness":{"countries":{"MRT":{"facts":[],"systems":[],"note":"Biometric matching at insurance use, not enrolment deduplication; the ID system itself is not described."}}},
-"schoolinternet":{"countries":{"MRT":{"facts":[],"systems":[],"note":"Nothing on schools."}}}
-}}
+{
+ "slug": "2025-01-01-mrt-systeme-d-identification-biometrique-des-assures-lors-de-leurs-acces-a",
+ "studies": {
+  "digitalidlaw": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "Describes a health insurance biometric check only; names no identity law."
+    }
+   }
+  }
+ }
+}

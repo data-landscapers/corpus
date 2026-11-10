@@ -1,12 +1,1 @@
-{"slug": "2025-07-29-mli-identification-des-abonnes-telephoniques-l-amrtp-renforce-les-mesures", "studies": {
-"authentication": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No electronic authentication service stated."}}},
-"birthidlink": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
-"digitalidlaw": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No identity law or bill stated; only a regulator communique on SIM identification."}}},
-"idcoverage": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
-"idfrombirth": {"countries": {"MLI": {"facts": [], "systems": [], "note": "No number at birth stated."}}},
-"idmaintenance": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Who operates or owns the NINA system is not stated."}}},
-"idregisters": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Only SIM registration around the NINA, which this study treats as other."}}},
-"idrobustness": {"countries": {"MLI": {"facts": [], "systems": [], "note": "NINA named as an identifier; issuance, biometrics and certification of the system not stated."}}},
-"idverification": {"countries": {"MLI": {"facts": [{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The telecoms regulator AMRTP, in a communique of 29 July 2025, required mobile operators to sell no SIM card without a valid identity document carrying the NINA and to give subscribers a way to check the numbers registered against their NINA.", "as_of": "2025-07-29", "date_precision": "day", "system": "NINA (Numero d'Identification Nationale) SIM identification", "class": "relying"}], "systems": [{"system": "NINA", "country_label": "Mali", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
-"satellitebroadband": {"countries": {"MLI": {"facts": [], "systems": [], "note": "Starlink kits are only named as a related headline; no licence or sale status stated."}}}
-}}
+{"slug": "2025-07-29-mli-identification-des-abonnes-telephoniques-l-amrtp-renforce-les-mesures", "studies": {"registry": {"countries": {"MLI": {"facts": [], "systems": [], "note": "SIM subscriber identification only; nothing on civil registration."}}}}}

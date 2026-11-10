@@ -1,0 +1,79 @@
+{
+ "slug": "2026-11-07-egy-youm7-hendy-300-digital-services-digital-exports-2030",
+ "studies": {
+  "datacentres": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "health": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "startups": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "techhubs": {
+   "countries": {
+    "EGY": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "EGY": {
+     "facts": [
+      {
+       "sub_indicator": "strategy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "The Youm7 report says Egypt's ICT ministry will review the National AI Strategy's axes and the progress made since its launch, at Cairo ICT 2026.",
+       "as_of": "2026-11-07",
+       "date_precision": "day",
+       "system": "National Artificial Intelligence Strategy",
+       "class": "strategy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Artificial Intelligence Strategy",
+       "country_label": "Egypt",
+       "class": "strategy",
+       "platform": "",
+       "owner": "Ministry of Communications and Information Technology",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  }
+ }
+}

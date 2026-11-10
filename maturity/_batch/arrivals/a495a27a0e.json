@@ -1,17 +1,4 @@
-{
-  "slug": "2024-11-23-sle-sierra-leone-and-guinea-sign-framework-agreement-to-strengthen-coopera",
-  "studies": {
-    "internationalstandards": {"countries": {
-      "GIN": {"facts": [], "systems": [], "note": "The agreement only emphasises compliance with international standards in general; no standards body membership, adopted standard or rule."},
-      "SLE": {"facts": [], "systems": [], "note": "The agreement only emphasises compliance with international standards in general; no standards body membership, adopted standard or rule."}}},
-    "regionalpolicy": {"countries": {
-      "GIN": {
-        "facts": [
-          {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Guinea's Minister of Posts, Telecommunications and Digital Economy Rose Pola Pricemou signed with Sierra Leone's minister on 22 November 2024 a framework agreement covering infrastructure sharing, cybercrime and free roaming.", "as_of": "2024-11-22", "date_precision": "day", "system": "Sierra Leone-Guinea framework agreement on telecommunications and digital economy", "class": "cooperation"}
-        ], "systems": [], "note": "Joint commission is planned to monitor, not stated as set up; nothing yet put into effect."},
-      "SLE": {
-        "facts": [
-          {"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Sierra Leone's Minister of Communication, Technology and Innovation Salima Monorma Bah signed with Guinea's minister on 22 November 2024 a framework agreement covering infrastructure sharing, cybercrime and free roaming.", "as_of": "2024-11-22", "date_precision": "day", "system": "Sierra Leone-Guinea framework agreement on telecommunications and digital economy", "class": "cooperation"}
-        ], "systems": [], "note": "Joint commission is planned to monitor, not stated as set up; nothing yet put into effect."}}}
-  }
-}
+{"slug": "2024-11-23-sle-sierra-leone-and-guinea-sign-framework-agreement-to-strengthen-coopera", "studies": {"regionalinfrastructure": {"countries": {
+"GIN": {"facts": [{"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Sierra Leone's communications ministry reports that Guinea and Sierra Leone signed a framework agreement on 22 November 2024 covering infrastructure sharing and the linking of fibre networks, to be overseen by regulators ARPT and NaTCA and a joint commission.", "as_of": "2024-11-22", "date_precision": "day", "system": "Sierra Leone-Guinea framework agreement", "class": "shared"}], "systems": [], "note": ""},
+"SLE": {"facts": [{"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Sierra Leone's communications ministry reports that it and Guinea signed a framework agreement on 22 November 2024 covering infrastructure sharing and the linking of fibre networks, to be overseen by regulators NaTCA and ARPT and a joint commission.", "as_of": "2024-11-22", "date_precision": "day", "system": "Sierra Leone-Guinea framework agreement", "class": "shared"}], "systems": [], "note": ""}
+}}}}

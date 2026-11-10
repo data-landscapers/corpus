@@ -1,0 +1,66 @@
+{
+ "slug": "2026-02-21-zmb-bayobab-zambia-and-vodacom-mocambique-launch-strategic-fibre-interconn",
+ "studies": {
+  "internationalbandwidth": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "No cable landing in Mozambique is stated in service."
+    },
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "Bayobab Zambia and Vodacom Mo\u00e7ambique launched on 2026-02-21 a fibre interconnection at the Zambia-Mozambique border that gives Zambia a route to subsea cables, including direct connectivity to 2Africa.",
+       "as_of": "2026-02-21",
+       "date_precision": "day",
+       "system": "Bayobab Zambia-Vodacom Mo\u00e7ambique border interconnection",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "service",
+       "value": "link",
+       "fact": "Bayobab Zambia and Vodacom Mo\u00e7ambique, with officials of both countries present, launched a fibre interconnection at the Zambia-Mozambique border on 2026-02-21, with infrastructure sharing.",
+       "as_of": "2026-02-21",
+       "date_precision": "day",
+       "system": "Zambia-Mozambique border fibre interconnection",
+       "class": "shared"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "ZMB": {
+     "facts": [
+      {
+       "sub_indicator": "shared",
+       "aspect": "service",
+       "value": "link",
+       "fact": "Bayobab Zambia and Vodacom Mo\u00e7ambique, with officials of both countries present, launched a fibre interconnection at the Zambia-Mozambique border on 2026-02-21, with infrastructure sharing.",
+       "as_of": "2026-02-21",
+       "date_precision": "day",
+       "system": "Zambia-Mozambique border fibre interconnection",
+       "class": "shared"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

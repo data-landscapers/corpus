@@ -1,10 +1,14 @@
-{"slug": "2026-11-06-swz-eswatini-risks-missing-e1-2bn-ai-economic-opportunity-study", "studies": {
-"aiabuse": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Nothing on AI rules or authority."}}},
-"aigovernment": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
-"aisectoral": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
-"aisystems": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "No local AI model, dataset or computing stated."}}},
-"ictjobs": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Gives youth unemployment of 52.6 per cent from a Commonwealth index, not a low figure or ICT employment share."}}},
-"internetusage": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Only a youth internet usage figure (66.3 per cent); not the whole population."}}},
-"mobileaffordability": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "Cost figure (17.37 per cent) is for the poorest 40 per cent, not average income."}}},
-"policyresearch": {"countries": {"SWZ": {"facts": [], "systems": [], "note": "The Ayre Think Tank is a Commonwealth body, not stated as based in Eswatini; no local institution named."}}}
-}}
+{
+ "slug": "2026-11-06-swz-eswatini-risks-missing-e1-2bn-ai-economic-opportunity-study",
+ "studies": {
+  "aistrategy": {
+   "countries": {
+    "SWZ": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on a national AI strategy for this country."
+    }
+   }
+  }
+ }
+}

@@ -1,19 +1,72 @@
-{"slug": "2026-05-18-cpv-cabo-verde-em-destaque-na-id4africa-2026-sniac-apresentado-como-motor", "studies": {
-"aiabuse": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
-"aigovernment": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on AI in administration."}}},
-"aisectoral": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on sectoral AI."}}},
-"aisystems": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on AI built in the country."}}},
-"authentication": {"countries": {"CPV": {"facts": [
-{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "IMIJ says the SNIAC (national civil identification and authentication system) is in service and has logged over 30 million data requests.", "as_of": "2026-05", "date_precision": "month", "system": "SNIAC", "class": "authentication"},
-{"sub_indicator": "authentication", "aspect": "reach", "value": "several", "fact": "IMIJ says SNIAC is linked to more than 50 public and private services, banks foremost, and supports the Justice, Consular and National portals.", "as_of": "2026-05", "date_precision": "month", "system": "SNIAC", "class": "authentication"}],
-"systems": [{"system": "SNIAC", "country_label": "Cabo Verde", "class": "authentication", "platform": "", "owner": "IMIJ", "tiers": ""}], "note": ""}}},
-"birthidlink": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
-"idcoverage": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No enrolment count or share stated."}}},
-"idfrombirth": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
-"idmaintenance": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the system."}}},
-"idregisters": {"countries": {"CPV": {"facts": [], "systems": [], "note": "No register keyed on the ID number named."}}},
-"idrobustness": {"countries": {"CPV": {"facts": [
-{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "IMIJ says the SNIAC is the country's main digital integration engine and that the National Identification Card (CNI) has been implemented.", "as_of": "2026-05", "date_precision": "month", "system": "SNIAC", "class": "idsystem"}],
-"systems": [{"system": "SNIAC", "country_label": "Cabo Verde", "class": "idsystem", "platform": "", "owner": "IMIJ", "tiers": ""}], "note": ""}}},
-"regionalpolicy": {"countries": {"CPV": {"facts": [], "systems": [], "note": "Attending the ID4Africa meeting is not a body membership or agreement."}}}
-}}
+{
+ "slug": "2026-05-18-cpv-cabo-verde-em-destaque-na-id4africa-2026-sniac-apresentado-como-motor",
+ "studies": {
+  "digitalidlaw": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Describes the SNIAC system and its use; names no identity law."
+    }
+   }
+  },
+  "idverification": {
+   "countries": {
+    "CPV": {
+     "facts": [
+      {
+       "sub_indicator": "use",
+       "aspect": "use",
+       "value": "inservice",
+       "fact": "IMIJ says SNIAC links more than 50 public and private services, with banking foremost.",
+       "as_of": "2026-05-18",
+       "date_precision": "day",
+       "system": "SNIAC",
+       "class": "relying"
+      },
+      {
+       "sub_indicator": "use",
+       "aspect": "sectors",
+       "value": "several",
+       "fact": "IMIJ says SNIAC supports the Justice, Consular and National portals and connects public and private services, banks especially.",
+       "as_of": "2026-05-18",
+       "date_precision": "day",
+       "system": "SNIAC",
+       "class": "relying"
+      },
+      {
+       "sub_indicator": "use",
+       "aspect": "usage",
+       "value": "reported",
+       "fact": "IMIJ reports more than 30 million data requests recorded on SNIAC and over 50 connected services.",
+       "as_of": "2026-05-18",
+       "date_precision": "day",
+       "system": "SNIAC",
+       "class": "relying"
+      }
+     ],
+     "systems": [
+      {
+       "system": "SNIAC (Sistema Nacional de Identifica\u00e7\u00e3o e Autentica\u00e7\u00e3o Civil)",
+       "country_label": "Cabo Verde",
+       "class": "relying",
+       "platform": "",
+       "owner": "IMIJ",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "populationregister": {
+   "countries": {
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "SNIAC is described as an identification and authentication system; the source does not call it a population register."
+    }
+   }
+  }
+ }
+}

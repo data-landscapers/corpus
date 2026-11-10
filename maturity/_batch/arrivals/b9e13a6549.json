@@ -1,0 +1,8 @@
+{"slug": "2026-11-09-gha-techafricanews-ghana-us-data-centres-cloud-investment-talks", "studies": {
+"aiabuse": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Meeting report; states nothing on AI harms rules or authority."}}},
+"aigovernment": {"countries": {"GHA": {"facts": [], "systems": [], "note": "States no government use of AI."}}},
+"aisectoral": {"countries": {"GHA": {"facts": [], "systems": [], "note": "States no sectoral AI tool."}}},
+"aisystems": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Mentions AI only as an expertise area; no model, dataset or AI computing stated."}}},
+"datacentres": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Discussion of possible data centre investment and AWS cloud expansion only; no facility or region stated in service."}}},
+"nationaldatacentres": {"countries": {"GHA": {"facts": [], "systems": [], "note": "No data centre or its ownership stated."}}}
+}}

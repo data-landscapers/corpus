@@ -1,3 +1,50 @@
-{"slug": "2026-11-08-lby-lana-369567-labour-ministry-unified-platform-data", "studies": {
-"dataprotectionlaw": {"countries": {"LBY": {"facts": [], "systems": [], "note": "A ministry platform's data security measures are mentioned; no data protection law."}}}
-}}
+{
+ "slug": "2026-11-08-lby-lana-369567-labour-ministry-unified-platform-data",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes a ministry digital platform and says nothing about AI."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes a ministry digital platform and says nothing about AI."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes a ministry digital platform and says nothing about AI."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes a ministry digital platform and says nothing about AI."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "LBY": {
+     "facts": [],
+     "systems": [],
+     "note": "The document describes a ministry digital platform and says nothing about AI."
+    }
+   }
+  }
+ }
+}

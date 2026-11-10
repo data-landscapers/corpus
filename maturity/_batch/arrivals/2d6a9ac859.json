@@ -1,20 +1,6 @@
 {"slug": "2026-05-01-cod-uganda-and-drc-deepen-digital-and-regional-cooperation", "studies": {
-"civilserviceskills": {"countries": {
- "COD": {"facts": [], "systems": [], "note": "Digital skills is only a cooperation topic; no civil service programme stated."},
- "UGA": {"facts": [], "systems": [], "note": "Digital skills is only a cooperation topic; no civil service programme stated."}}},
-"digitalskills": {"countries": {
- "COD": {"facts": [], "systems": [], "note": "Digital literacy is only a cooperation topic; no training stated."},
- "UGA": {"facts": [], "systems": [], "note": "Digital literacy is only a cooperation topic; no training stated."}}},
-"fibrebackbone": {"countries": {
- "COD": {"facts": [], "systems": [], "note": "Only a planned cross-border link under an MoU; no contract or domestic backbone stated."},
- "UGA": {"facts": [], "systems": [], "note": "Only a planned cross-border link under an MoU; no backbone build or service stated."}}},
-"localgov": {"countries": {
- "COD": {"facts": [], "systems": [], "note": "Nothing on local government connection."},
- "UGA": {"facts": [], "systems": [], "note": "Nothing on local government connection."}}},
-"regionalpolicy": {"countries": {
- "COD": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "The DRC Ministry of Posts, Telecommunications and Digital Economy signed an MoU with Uganda's Ministry of ICT and National Guidance on 11 May 2026 on digital transformation, connectivity, cybersecurity and digital skills, per Uganda's ministry.", "as_of": "2026-05-11", "date_precision": "day", "system": "Uganda-DRC ICT MoU", "class": "cooperation"}], "systems": [], "note": ""},
- "UGA": {"facts": [{"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Uganda's Ministry of ICT and National Guidance signed an MoU with the DRC Ministry of Posts, Telecommunications and Digital Economy on 11 May 2026 on digital transformation, connectivity, cybersecurity and digital skills.", "as_of": "2026-05-11", "date_precision": "day", "system": "Uganda-DRC ICT MoU", "class": "cooperation"}], "systems": [], "note": ""}}},
-"schoolinternet": {"countries": {
- "COD": {"facts": [], "systems": [], "note": "Nothing on schools."},
- "UGA": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+"regionalinfrastructure": {"countries": {
+"COD": {"facts": [{"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Uganda's Ministry of ICT says it signed a memorandum of understanding on 11 May 2026 with the DRC Ministry of Posts, Telecommunications and Digital Economy, including a project to connect Uganda's National Backbone Infrastructure to the DRC's fibre-optic network.", "as_of": "2026-05-11", "date_precision": "day", "system": "Uganda National Backbone to DRC fibre interconnection", "class": "shared"}], "systems": [], "note": ""},
+"UGA": {"facts": [{"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Uganda's Ministry of ICT says it signed a memorandum of understanding on 11 May 2026 with the DRC Ministry of Posts, Telecommunications and Digital Economy, including a project to connect Uganda's National Backbone Infrastructure to the DRC's fibre-optic network.", "as_of": "2026-05-11", "date_precision": "day", "system": "Uganda National Backbone to DRC fibre interconnection", "class": "shared"}], "systems": [], "note": ""}}},
+"regionallaw": {"countries": {"COD": {"facts": [], "systems": [], "note": "A bilateral MoU on connectivity and cybersecurity cooperation; no African legal text named."}}}
 }}

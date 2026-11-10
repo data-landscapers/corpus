@@ -1,0 +1,10 @@
+{"slug": "2024-03-27-rwa-rwanda-open-for-business-the-it-investor-guidebook", "studies": {
+"admindata": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Investor guidebook; no administrative-record statistics stated."}}},
+"educationmis": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Cites 2017 education statistics only; no education information system stated."}}},
+"gendergap": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No internet-use gender gap figure stated."}}},
+"internationalbandwidth": {"countries": {"RWA": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "independent", "fact": "The AIPI investor guidebook states Rwanda has 3 international fibre optic routes giving connectivity to the SEACOM undersea cable, connected via Tanzania and Kenya.", "as_of": "2024-03-27", "date_precision": "day", "system": "SEACOM", "class": "route"}], "systems": [{"system": "SEACOM", "country_label": "SEACOM via Tanzania and Kenya", "class": "route", "platform": "submarine cable", "owner": "", "tiers": ""}], "note": ""}}},
+"itcapacity": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No government technical staff or system stated."}}},
+"nonstatefinance": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Tax incentives and a fund described as available; no dated amount stated."}}},
+"startups": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Angel tax incentives and Seed Innovation Fund eligibility described; no startup act, labelling or fund investments stated."}}},
+"techhubs": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Kigali Innovation City named only as a mixed-use innovation hub; no programme or tenants stated."}}}
+}}

@@ -1,9 +1,1 @@
-{"slug": "2024-07-11-caf-centre-de-la-rca-a-bambari-les-populations-soulagees-de-pouvoir-enfin", "studies": {
-"authentication": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No authentication service stated."}}},
-"birthidlink": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
-"idcoverage": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No enrolment count or share."}}},
-"idfrombirth": {"countries": {"CAF": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
-"idmaintenance": {"countries": {"CAF": {"facts": [], "systems": [{"system": "Carte nationale d'identite (CNI)", "country_label": "Central African Republic", "class": "idsystem", "platform": "", "owner": "al-Madina (card-making company)", "tiers": ""}], "note": "Names al-Madina as making the card but not who operates, maintains or owns the system."}}},
-"idregisters": {"countries": {"CAF": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
-"idrobustness": {"countries": {"CAF": {"facts": [{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "RFI reports the national identity card is issued at Bambari from July 2024 as well as Bangui, with photo and fingerprint capture mandatory at the office of al-Madina, the body that makes the card.", "as_of": "2024-07", "date_precision": "month", "system": "Carte nationale d'identite (CNI)", "class": "idsystem"}], "systems": [], "note": ""}}}
-}}
+{"slug": "2024-07-11-caf-centre-de-la-rca-a-bambari-les-populations-soulagees-de-pouvoir-enfin", "studies": {"registry": {"countries": {"CAF": {"facts": [], "systems": [], "note": "National ID card issuance only; nothing on civil registration of births or deaths."}}}}}

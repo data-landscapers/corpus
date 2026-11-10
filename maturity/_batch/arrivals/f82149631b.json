@@ -1,0 +1,7 @@
+{"slug": "2026-11-05-tun-ministere-de-la-famille-77-7-d-utilisateurs-d-internet-des-10-ans", "studies": {
+"civilserviceskills": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on civil servants' digital skills training."}}},
+"digitalskills": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Only children's digital-safety awareness work in children's computer centres; no programme teaching the public digital skills with a count."}}},
+"internetusage": {"countries": {"TUN": {"facts": [{"sub_indicator": "use", "aspect": "users", "value": "survey:77.7", "fact": "The Inspector General of Youth and Childhood said at a national forum on digital harassment that 77.7 percent of internet users are aged 10 and over, as stated in the article; survey and year not named, and the base is people aged 10 and over.", "as_of": "2026-11-05", "date_precision": "day", "system": "", "class": "use"}], "systems": [], "note": ""}}},
+"itcapacity": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on government technical staff running systems."}}},
+"schoolinternet": {"countries": {"TUN": {"facts": [], "systems": [], "note": "Nothing on school internet or a compulsory digital curriculum."}}}
+}}

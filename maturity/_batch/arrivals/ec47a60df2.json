@@ -1,0 +1,79 @@
+{
+ "slug": "2025-12-26-moz-mozambique-validates-national-data-governance-policy-with-eca-support",
+ "studies": {
+  "datagovernance": {
+   "countries": {
+    "MOZ": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "TechReviewAfrica reports Mozambique's government validated the bill for its National Data Governance Policy and Implementation Strategy, with UNECA support; no adoption or launch is stated.",
+       "as_of": "2025-12-26",
+       "date_precision": "day",
+       "system": "National Data Governance Policy",
+       "class": "policy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Data Governance Policy",
+       "country_label": "Mozambique",
+       "class": "policy",
+       "platform": "",
+       "owner": "Government of Mozambique",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Policy bill stresses data sovereignty in general; no rule on where or how state data is held is stated."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "internationalstandards": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "slug": "2025-04-17-dji-navigating-change-djibouti-telecoms-path-forward-in-a-transforming-dig",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "DJI": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "independent",
+       "fact": "Djibouti Telecom says Djibouti is home to three cable landing stations and 10 operational submarine cable systems, naming 2Africa, SEA-ME-WE 6, AAE-1 and PEACE.",
+       "as_of": "2025-04-17",
+       "date_precision": "day",
+       "system": "Djibouti submarine cable landings",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "regionalinfrastructure": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Horizon Fiber Initiative with Ethio Telecom and Sudatel is named with no agreement date, build or service stated."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Djibouti."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Document states nothing this study asks for Djibouti."
+    }
+   }
+  }
+ }
+}

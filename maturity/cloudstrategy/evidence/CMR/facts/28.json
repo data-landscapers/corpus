@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-07-cmr-missole-les-etats-unis-sengagent-aux-cotes-du-port-autonome-de-douala",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Dibamba port zone AI-ready data centre",
+   "country_label": "Cameroon",
+   "class": "other",
+   "platform": "modular data centre",
+   "owner": "Port Autonome de Douala",
+   "tiers": ""
+  }
+ ],
+ "note": "A planned data centre only; no government hosting or cloud policy stated."
+}

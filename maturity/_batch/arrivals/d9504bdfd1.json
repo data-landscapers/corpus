@@ -1,0 +1,53 @@
+{
+ "slug": "2024-08-27-ken-bayobab-kenya-to-boost-connectivity-with-mombasa-to-malaba-fibre-proje",
+ "studies": {
+  "digitaldivides": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Bayobab's commercial fibre, no government programme or rural figures."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing on rural access programmes or figures."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "KEN": {
+     "facts": [],
+     "systems": [
+      {
+       "system": "Bayobab Kenya Mombasa-Malaba fibre",
+       "country_label": "Bayobab Kenya",
+       "class": "other",
+       "platform": "fibre",
+       "owner": "Bayobab Kenya (MTN Group)",
+       "tiers": ""
+      }
+     ],
+     "note": "An inland open-access fibre; no cable landing in service is stated."
+    },
+    "UGA": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "one",
+       "fact": "Bayobab says its open-access fibre from Mombasa runs to the Kenya-Uganda border and interconnects into Uganda for onward connectivity, linking landlocked countries to the subsea cables at Mombasa; the release is dated 2024-08-27.",
+       "as_of": "2024-08-27",
+       "date_precision": "day",
+       "system": "Bayobab Kenya Mombasa-Malaba-Busia fibre",
+       "class": "route"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  }
+ }
+}

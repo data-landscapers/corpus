@@ -1,0 +1,9 @@
+{"slug": "2026-01-01-zwe-published-standards-q1-2026", "studies": {
+"aiabuse": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "A standards list only; no rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "A standards list only; no government AI use stated."}}},
+"aisectoral": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "A standards list only; no sector AI tool stated."}}},
+"aisystems": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Adopted AI standards are not AI built or hosted in the country."}}},
+"internationalstandards": {"countries": {"ZWE": {"facts": [{"sub_indicator": "international", "aspect": "standing", "value": "adopted", "fact": "The Standards Association of Zimbabwe lists as published in Q1 2026 national standards that are ISO/IEC identicals on information technology, including ZWS ISO/IEC 23894:2023 (AI risk management), 22989:2022 (AI concepts), 27017:2015 (cloud security controls) and 27037:2012 (digital evidence).", "as_of": "2026", "date_precision": "year", "system": "ZWS ISO/IEC 23894:2023", "class": "adoption"}], "systems": [], "note": ""}}},
+"offsitebackup": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "A standards list only; no backup site stated."}}},
+"qualitystandards": {"countries": {"ZWE": {"facts": [{"sub_indicator": "standards", "aspect": "standing", "value": "published", "fact": "The Standards Association of Zimbabwe lists as published in Q1 2026 national standards on information technology, including ZWS ISO/IEC 23894:2023, 22989:2022, 27017:2015 and 27037:2012, available at its Information Centre.", "as_of": "2026", "date_precision": "year", "system": "ZWS ISO/IEC 27017:2015", "class": "body"}], "systems": [], "note": ""}}}
+}}

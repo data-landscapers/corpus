@@ -1,0 +1,14 @@
+{
+ "slug": "2026-04-14-fred-internet-users-djibouti",
+ "studies": {
+  "fibrebackbone": {
+   "countries": {
+    "DJI": {
+     "facts": [],
+     "systems": [],
+     "note": "Internet user statistics only; nothing on fibre backbone."
+    }
+   }
+  }
+ }
+}

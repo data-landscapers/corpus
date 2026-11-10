@@ -1,0 +1,181 @@
+{
+ "slug": "2026-02-16-cog-congo-expands-international-bandwidth-with-2africa-landing",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "fibrebackbone": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "backbone",
+       "aspect": "reach",
+       "value": "building",
+       "fact": "Ecofin reports Congo launched construction of a second national fibre backbone in September 2023, to link Pointe-Noire and Brazzaville, with no recent progress update.",
+       "as_of": "2023-09",
+       "date_precision": "month",
+       "system": "second national fibre backbone",
+       "class": "backbone"
+      }
+     ],
+     "systems": [
+      {
+       "system": "second national fibre backbone",
+       "country_label": "Congo",
+       "class": "backbone",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "routes",
+       "aspect": "routes",
+       "value": "two",
+       "fact": "Ecofin reports MTN Congo activated the 2Africa cable at Pointe-Noire on 13 February 2026 as a second international route beside WACS, which Congo has relied on since 2012; 2Africa is given 180 Tbps nominal capacity.",
+       "as_of": "2026-02-13",
+       "date_precision": "day",
+       "system": "2Africa",
+       "class": "route"
+      }
+     ],
+     "systems": [
+      {
+       "system": "2Africa",
+       "country_label": "Congo",
+       "class": "route",
+       "platform": "",
+       "owner": "MTN Congo",
+       "tiers": ""
+      },
+      {
+       "system": "WACS",
+       "country_label": "Congo",
+       "class": "route",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Gives only daily users (3.5m of nearly 6m) and a \"penetration rate\"; no dated survey or ITU share of people."
+    }
+   }
+  },
+  "mobileaffordability": {
+   "countries": {
+    "COG": {
+     "facts": [
+      {
+       "sub_indicator": "price",
+       "aspect": "cost",
+       "value": "share:5.32",
+       "fact": "Ecofin cites ITU data that 5 GB of mobile broadband cost 5.32% of GNI per capita in 2025.",
+       "as_of": "2025",
+       "date_precision": "year",
+       "system": "ITU ICT Price Basket",
+       "class": "price"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    }
+   }
+  },
+  "opendiscussion": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "COG": {
+     "facts": [],
+     "systems": [],
+     "note": "Nothing stated that answers this study."
+    }
+   }
+  }
+ }
+}

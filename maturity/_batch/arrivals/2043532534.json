@@ -1,0 +1,3 @@
+{"slug": "2024-05-05-mus-internet-et-telecommunications-un-nouveau-cable-sous-marin-de-fibre-op", "studies": {
+"internationalbandwidth": {"countries": {"MUS": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "two", "fact": "Defimedia says Mauritius has five submarine fibre cables, SAFE, LION, EASSY, METISS and MARS, with a sixth, T3, put into operation days earlier by Mauritius Telecom; landing stations are not stated.", "as_of": "2024-05-05", "date_precision": "day", "system": "SAFE; LION; EASSY; METISS; MARS; T3", "class": "route"}], "systems": [{"system": "T4", "country_label": "Mauritius", "class": "other", "platform": "submarine cable", "owner": "Mauritius Telecom", "tiers": ""}], "note": ""}}}
+}}

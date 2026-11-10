@@ -1,0 +1,11 @@
+{"slug": "2024-08-12-gha-build-robust-resilient-internet-connectivity-to-prevent-march-2024-ser", "studies": {
+"fibrebackbone": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "The article is about submarine cables and operator routing; no national backbone is stated."}
+}},
+"internationalbandwidth": {"countries": {
+"GHA": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "independent", "fact": "Ghanaian Times, in a consultant's opinion piece, says MTN Ghana used the SAT3/WASC, Main One and WACS cables in Accra and that Ghana reaches Equiano by land-based fibre from Lome, Togo.", "as_of": "2024-08-12", "date_precision": "day", "system": "SAT3/WASC; Main One; WACS; Equiano via Togo", "class": "route"}], "systems": [], "note": ""}
+}},
+"internetusage": {"countries": {
+"GHA": {"facts": [], "systems": [], "note": "No share of the population using the internet is given."}
+}}
+}}

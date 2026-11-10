@@ -1,0 +1,23 @@
+{"slug": "2024-07-03-gin-guinea-and-mali-agree-to-interconnect-fibre-networks", "studies": {
+"datacentres": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "No data centre stated."},
+"MLI": {"facts": [], "systems": [], "note": "No data centre stated."}}},
+"digitalsovereignty": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "Nothing on control of state data."},
+"MLI": {"facts": [], "systems": [], "note": "Nothing on control of state data."}}},
+"fibrebackbone": {"countries": {
+"GIN": {"facts": [], "systems": [{"system": "National backbone managed by SOGEB", "country_label": "Guinea", "class": "backbone", "platform": "", "owner": "SOGEB (state company)", "tiers": ""}], "note": "SOGEB is named as manager of the national backbone, but no reach, works or open access are stated."},
+"MLI": {"facts": [], "systems": [], "note": "Only the cross-border interconnection agreement; no domestic backbone stated."}}},
+"internationalbandwidth": {"countries": {
+"GIN": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Developing Telecoms reports that Guinea has only a single international subsea link, the ACE system, while its ministry says it signed an agreement with Mali's SMTD in late June 2024 to interconnect the two countries' fibre networks for resilience.", "as_of": "2024-07-03", "date_precision": "day", "system": "ACE submarine cable", "class": "route"}], "systems": [], "note": ""},
+"MLI": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Developing Telecoms reports that landlocked Mali relies on coastal partners like Guinea for access to international bandwidth.", "as_of": "2024-07-03", "date_precision": "day", "system": "Fibre links to coastal neighbours", "class": "route"}], "systems": [], "note": ""}}},
+"nationaldatacentres": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "No data centre stated."},
+"MLI": {"facts": [], "systems": [], "note": "No data centre stated."}}},
+"retailpayments": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "Nothing on payments."},
+"MLI": {"facts": [], "systems": [], "note": "Nothing on payments."}}},
+"satellitebroadband": {"countries": {
+"GIN": {"facts": [], "systems": [], "note": "Nothing on satellite broadband."},
+"MLI": {"facts": [], "systems": [], "note": "Nothing on satellite broadband."}}}
+}}
