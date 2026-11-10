@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-13-cmr-agence-de-regulation-des-marches-publics-projet-d-acceleration-de-la-t",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Cameroon's PATNUC, under MINPOSTEL, issued an expression-of-interest notice on 12 November 2025 for a consultant to train 100 IT staff of government agencies in cybersecurity and to build an online digital-hygiene awareness platform for their non-IT staff, over 12 months.",
+   "as_of": "2025-11-12",
+   "date_precision": "day",
+   "system": "PATNUC cybersecurity training for government agencies",
+   "class": "csskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PATNUC cybersecurity training for government agencies",
+   "country_label": "Cameroon",
+   "class": "csskills",
+   "platform": "online awareness platform plus in-person workshops",
+   "owner": "PATNUC / MINPOSTEL",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

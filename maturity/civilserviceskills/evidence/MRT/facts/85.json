@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-09-mrt-build-once-use-across-government-mauritania-s-govstack-journey",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "GovStack says a five-day workshop in Nouakchott from 28 September to 2 October 2026, with MTNIMA, covered architecture, user experience, interface design and change management for senior and middle management and 120 recently recruited public servants.",
+   "as_of": "2026-10-02",
+   "date_precision": "day",
+   "system": "GovStack standards workshop, Nouakchott",
+   "class": "csskills"
+  },
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "GovStack says more than 30 representatives of the Ministries of Justice, Transport, Finance and Digital Transformation took part in a five-day ITU and Kitsoft low-code service-development workshop in 2025.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "ITU-Kitsoft low-code workshop",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
