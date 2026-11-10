@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-11-civ-telecom-rupture-de-cables-internet-mtn-ci-annonce-l-arrivee-du-cable-s",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Meta's infrastructure director said 2Africa complements the cables already serving Cote d'Ivoire, WACS, ACE, MainOne, Maroc Telecom and SAT-3; landing stations are not stated and 2Africa had landed but was not yet in service.",
+   "as_of": "2024-10-10",
+   "date_precision": "day",
+   "system": "WACS; ACE; MainOne; SAT-3",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "Cote d'Ivoire",
+   "class": "other",
+   "platform": "submarine cable",
+   "owner": "Bayobab (MTN)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

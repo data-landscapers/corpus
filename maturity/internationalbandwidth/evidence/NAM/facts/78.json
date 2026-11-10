@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-14-bwa-three-years-on-paratus-has-used-equiano-to-shape-sadc-connectivity-lan",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Paratus says the Equiano cable landed at Swakopmund, Namibia, in June 2022 and that it is the landing partner.",
+   "as_of": "2022-06",
+   "date_precision": "month",
+   "system": "Equiano",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "route",
+   "platform": "",
+   "owner": "Google",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

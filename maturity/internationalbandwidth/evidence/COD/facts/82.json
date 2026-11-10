@@ -1,0 +1,34 @@
+{
+ "slug": "2026-01-16-cod-wacs-submarine-cable-outage-disrupts-drc-internet-access",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Connecting Africa says WACS is one of two international submarine cables connecting the DRC to the global internet, the second, 2Africa, having landed in September 2023 and gone live in December 2025.",
+   "as_of": "2026-01-16",
+   "date_precision": "day",
+   "system": "WACS and 2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WACS",
+   "country_label": "DRC",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "DRC",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Landing stations are not stated."
+}

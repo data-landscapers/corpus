@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-12-tcd-chad-s-recent-outages-highlight-resiliency-gaps",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "Internet Society Pulse says landlocked Chad reaches international fibre mainly through three cross-border terrestrial fibre links to Sudan and Cameroon.",
+   "as_of": "2024-03-12",
+   "date_precision": "day",
+   "system": "Chad cross-border fibre links to Sudan and Cameroon",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

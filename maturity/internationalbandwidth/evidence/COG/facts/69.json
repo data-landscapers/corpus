@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-09-cod-wacs-cable-repairs-enter-critical-phase",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "ITWeb Africa reports WACS lands in the Republic of Congo and carried Congo Telecom's primary circuits until a 29 October 2026 fault, with traffic failing over to unspecified backup links.",
+   "as_of": "2026-10-29",
+   "date_precision": "day",
+   "system": "WACS",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

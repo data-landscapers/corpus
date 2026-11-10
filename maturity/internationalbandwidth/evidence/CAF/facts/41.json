@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-25-caf-central-african-republic-tries-to-broaden-internet-access-through-sout",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "Ecofin Agency says landlocked Central African Republic is now connected to Cameroon and Congo through the Central African Backbone project, and that access to submarine cables through neighbours has improved speeds; a South Sudan link is only planned.",
+   "as_of": "2026-05-25",
+   "date_precision": "day",
+   "system": "Central African Backbone (CAB)",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

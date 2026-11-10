@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-14-bwa-three-years-on-paratus-has-used-equiano-to-shape-sadc-connectivity-lan",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Paratus says its 840 km Botswana Kalahari Fiber, completed in 2022, links Gaborone to the Equiano landing station in Namibia, giving Botswana its first express fibre route to Europe.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Botswana Kalahari Fiber; Equiano",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

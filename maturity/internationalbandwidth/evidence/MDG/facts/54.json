@@ -1,0 +1,17 @@
+{
+ "slug": "2024-12-07-mdg-cables-sous-marins-en-attendant-le-t4",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "Madagascar Newsroom says Madagascar is linked by four submarine cables, Lion 1 and 2, EASSy (second international exit, at Toliara), METISS (24 Tbps, in service since March 2021, third exit at Fort Dauphin) and 2Africa (landed at Mahajanga in February 2023, 180 Tbps nominal).",
+   "as_of": "2024-12-07",
+   "date_precision": "day",
+   "system": "Lion 1; Lion 2; EASSy; METISS; 2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

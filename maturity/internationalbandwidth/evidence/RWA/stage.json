@@ -1,16 +1,17 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "routes",
-   "stage": "2",
-   "routes": "one",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "RWA-001",
-   "gaps": "No source found names a second international fibre route in service.",
-   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "routes",
+      "stage": "3",
+      "routes": "independent",
+      "access": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-004;RWA-001",
+      "gaps": "No source found says a cable of more than 100 Tbps design capacity carries the country's traffic.",
+      "note": "Reassessed 2026-11-10: the investment board's guidebook (March 2024) gives Rwanda three international fibre routes to SEACOM through Tanzania and Kenya, so routes through two neighbours (RWA-004), beside Paratus's Mombasa to Goma fibre (RWA-001). No source says a cable of more than 100 Tbps carries Rwanda's traffic, so stage 3.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

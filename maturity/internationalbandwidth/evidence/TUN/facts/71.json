@@ -1,0 +1,26 @@
+{
+ "slug": "2024-02-05-tun-peace-subsea-cable-lands-in-bizerte-tunisia",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "DCD says Tunisia has two cable landing points, Bizerte (SeaMeWe-4) and Kelibia (Didon, Hannibal and Trapani-Kelibia), and that the Peace cable (Ooredoo's Ifriqya) landed at Bizerte with go-live expected March 2024.",
+   "as_of": "2024-02-05",
+   "date_precision": "day",
+   "system": "SeaMeWe-4; Didon; Hannibal; Trapani-Kelibia",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Peace (Ifriqya)",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "submarine cable",
+   "owner": "PCCW Global; Ooredoo Tunisie",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

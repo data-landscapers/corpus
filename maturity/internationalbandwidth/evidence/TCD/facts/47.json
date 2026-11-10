@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-06-tcd-chad-reopens-talks-with-telecom-operators-over-strategic-fiber-link",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Ecofin Agency says the N'Djamena-Mbere corridor to the Cameroonian border is currently Chad's sole access point to international internet capacity via undersea cables.",
+   "as_of": "2026-02-06",
+   "date_precision": "day",
+   "system": "N'Djamena-Mbere corridor",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

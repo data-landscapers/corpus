@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-03-gin-guinea-and-mali-agree-to-interconnect-fibre-networks",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Developing Telecoms reports that Guinea has only a single international subsea link, the ACE system, while its ministry says it signed an agreement with Mali's SMTD in late June 2024 to interconnect the two countries' fibre networks for resilience.",
+   "as_of": "2024-07-03",
+   "date_precision": "day",
+   "system": "ACE submarine cable",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,60 @@
+{
+ "slug": "2026-01-01-cmr-transport-connectivity-services-fiche-produit-bu-transport-edition-202",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "CAMTEL's 2026 product sheet says four submarine cable systems (SAT-3, WACS, SAIL, NCSCS) link Cameroon to Europe, Africa, Asia and the Americas through landing points at Douala, Limbe and Kribi.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "SAT-3, WACS, SAIL, NCSCS",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "CAMTEL's 2026 product sheet sells IPLC and IP transit to operators, ISPs and multinationals, with access to all landing points of SAT-3, WACS, SAIL and NCSCS.",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "CAMTEL IPLC",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SAIL",
+   "country_label": "Cameroon",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "Cameroon",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SAT-3",
+   "country_label": "Cameroon",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "NCSCS",
+   "country_label": "Cameroon",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

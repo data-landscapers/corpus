@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-27-rwa-rwanda-open-for-business-the-it-investor-guidebook",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "The AIPI investor guidebook states Rwanda has 3 international fibre optic routes giving connectivity to the SEACOM undersea cable, connected via Tanzania and Kenya.",
+   "as_of": "2024-03-27",
+   "date_precision": "day",
+   "system": "SEACOM",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SEACOM",
+   "country_label": "SEACOM via Tanzania and Kenya",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

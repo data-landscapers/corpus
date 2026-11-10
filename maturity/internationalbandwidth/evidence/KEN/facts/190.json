@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-23-moz-2024-east-africa-submarine-cable-outage-report",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Internet Society's report lists eight submarine cables for Kenya (2Africa, Africa-1, DARE-1, EASSy, LION2, PEACE, SEACOM, TEAMS) and says the regulator reported on 13 May 2024 that TEAMS was used for redundancy.",
+   "as_of": "2024-07-23",
+   "date_precision": "day",
+   "system": "Kenya submarine cables",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

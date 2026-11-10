@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-17-ken-airtel-activates-2africa-cable-linking-kenya-tanzania-and-south-africa",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Submarine Networks reports Airtel Telesonic activated the initial phase of the 2Africa cable, designed for up to 180 Tbps, linking Kenya, Tanzania and South Africa, with Airtel landing it in Kenya.",
+   "as_of": "2024-06-17",
+   "date_precision": "day",
+   "system": "2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

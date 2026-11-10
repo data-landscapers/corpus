@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-23-moz-2024-east-africa-submarine-cable-outage-report",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Internet Society's report lists three submarine cables for Tanzania (EASSy, SEACOM, SEAS) and says Tanzania saw the greatest reduction in internet performance when SEACOM and EASSy were cut on 12 May 2024.",
+   "as_of": "2024-07-23",
+   "date_precision": "day",
+   "system": "Tanzania submarine cables",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

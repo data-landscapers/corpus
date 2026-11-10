@@ -1,16 +1,17 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "routes",
-   "stage": "3",
-   "routes": "two",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SDN-004;SDN-001",
-   "gaps": "No source found says two of the routes land at different stations, or run through two different neighbours.",
-   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "routes",
+      "stage": "3",
+      "routes": "independent",
+      "access": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SDN-006;SDN-004;SDN-001",
+      "gaps": "No source found says a cable of more than 100 Tbps design capacity carries the country's traffic.",
+      "note": "Reassessed 2026-11-10: Internet Society Pulse (March 2024) gives Sudan terrestrial fibre links to four neighbours beside the cables landing at Port Sudan, so a cable and a land route share no landing station (SDN-006). No source says a cable of more than 100 Tbps carries Sudan's traffic, so stage 3.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

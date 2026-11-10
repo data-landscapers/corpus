@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-21-lbr-liberia-ecowas-plan-second-subsea-cable-for-five-west-african-countrie",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Developing Telecoms, citing a Liberian ministry press release, says Liberia currently has only one international subsea connection, via the ACE cable.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Africa Coast to Europe (ACE)",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Africa Coast to Europe (ACE)",
+   "country_label": "Liberia",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "A planned second cable is not in service and is not recorded."
+}

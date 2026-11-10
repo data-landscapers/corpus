@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-19-nga-nigeria-s-8-subsea-cables-spur-new-investment-in-hyperscale-data-centr",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "TechCabal says eight subsea cables have landed in Nigeria: MainOne, SAT-3, GLO-2, ACE, WACS, Equiano, NCSCS and 2Africa, with 2Africa at 180 Tbps and Equiano at 144 Tbps.",
+   "as_of": "2024-03-19",
+   "date_precision": "day",
+   "system": "MainOne, SAT-3, GLO-2, ACE, WACS, Equiano, NCSCS, 2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

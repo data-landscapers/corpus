@@ -1,0 +1,27 @@
+{
+ "slug": "2025-05-16-tcd-technologie-le-ministre-boukar-michel-renegocie-les-accords-avec-camte",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Tchadinfos reports Camtel supplies capacity from its Kribi landing station, from which Chad's operators draw their international capacity.",
+   "as_of": "2025-05-16",
+   "date_precision": "day",
+   "system": "Camtel Kribi landing station",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Tchadinfos reports Camtel committed to supply Safitel capacity gradually, up to 200 G within six months, and to give Safitel and Sotel access to its monitoring platform for capacity supplied from Kribi.",
+   "as_of": "2025-05-16",
+   "date_precision": "day",
+   "system": "Camtel Kribi landing station",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

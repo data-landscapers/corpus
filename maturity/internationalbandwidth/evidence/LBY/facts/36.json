@@ -1,0 +1,36 @@
+{
+ "slug": "2025-05-12-lby-medusa-subsea-cable-inaugurated-in-libya-to-boost-post-war-connectivit",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Capacity reports the Medusa cable's Misrata landing in Libya was inaugurated under a construction and maintenance agreement with LITC, linking Misrata to Marseille and Mazara del Vallo.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Medusa Submarine Cable System",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Capacity calls the Medusa system, landing in Misrata, Libya, an open-access subsea cable.",
+   "as_of": "2025-05",
+   "date_precision": "month",
+   "system": "Medusa Submarine Cable System",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Medusa Submarine Cable System",
+   "country_label": "Libya",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "Medusa; LITC for the landing",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

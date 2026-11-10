@@ -1,0 +1,42 @@
+{
+ "slug": "2024-01-22-som-somalia-information-communication-and-technology-ict",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "The U.S. International Trade Administration guide says Somalia has two existing fibre systems linking it to the global internet, the EASSy cable (10 Tb/s) and the DARE1 cable (100G); a third, 2Africa, is under development.",
+   "as_of": "2024-01-22",
+   "date_precision": "day",
+   "system": "EASSy; DARE1",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "EASSy",
+   "country_label": "Somalia",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "WIOCC",
+   "tiers": ""
+  },
+  {
+   "system": "DARE1",
+   "country_label": "Somalia",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "Somalia",
+   "class": "other",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-13-ben-csquared-adds-2africa-west-capacity-to-strengthen-regional-internet-re",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "CSquared says its fibre backbone connects multiple international cable landing points to inland markets including Mali.",
+   "as_of": "2026-07-13",
+   "date_precision": "day",
+   "system": "CSquared fibre backbone",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

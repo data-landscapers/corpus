@@ -66,6 +66,16 @@ AGO,Angola Cables South Atlantic ring,Angola Cables South Atlantic ring,other,,A
 AGO,SARSSy,AGO,other,"subsea cable, in service planned June 2027",Angola Telecom and Telecom Namibia,,2026-07-01-ago-angola-telecom-preve-operacao-do-cabo-submarino-sarssy-ate-2027
 AGO,Nacala-Lobito subsea cable,Angola,other,submarine cable,,,2026-06-23-moz-mocambique-e-angola-avancam-com-cabo-nacala-lobito-para-reforcar-corre
 AGO,SARSSy,AGO,other,subsea cable,Angola Telecom,,2026-04-23-ago-telecom-namibia-and-angola-telecom-sign-strategic-mou-and-commercial-t
+AGO,2Africa,Angola,route,submarine cable,UNITEL (Angolan participant),,2025-12-22-ago-unitel-e-o-cabo-submarino-2africa
+AGO,2Africa,2Africa,route,submarine cable,,,2026-04-29-ago-angola-launches-national-data-center-to-support-digital-strategy
+AGO,WACS,WACS,route,submarine cable,,,2026-04-29-ago-angola-launches-national-data-center-to-support-digital-strategy
+AGO,UNSC,UNSC,route,submarine cable,,,2026-04-29-ago-angola-launches-national-data-center-to-support-digital-strategy
+AGO,SACS,SACS,route,submarine cable,,,2026-04-29-ago-angola-launches-national-data-center-to-support-digital-strategy
+AGO,SAT-3/WASC,SAT-3/WASC,route,submarine cable,,,2026-04-29-ago-angola-launches-national-data-center-to-support-digital-strategy
+AGO,SAT-3/WACS,SAT-3/WACS,route,submarine cable,,,2025-11-24-ago-conectividade-especialista-defende-descentralizacao-da-internet-em-ang
+AGO,WACS,WACS,route,submarine cable,,,2025-11-24-ago-conectividade-especialista-defende-descentralizacao-da-internet-em-ang
+AGO,SACS,SACS,route,submarine cable,,,2025-11-24-ago-conectividade-especialista-defende-descentralizacao-da-internet-em-ang
+AGO,2Africa,2Africa (future landing),other,submarine cable,,,2025-11-24-ago-conectividade-especialista-defende-descentralizacao-da-internet-em-ang
 BDI,Seacom Nairobi-Kisumu-Kampala route,,other,,Seacom,,2026-09-03-itweb-africa-east-africa-inland-digital-future
 BDI,2Africa,,other,,,,2026-09-03-itweb-africa-east-africa-inland-digital-future
 BDI,Umoja,,other,,,,2026-09-03-itweb-africa-east-africa-inland-digital-future
@@ -91,12 +101,14 @@ BEN,ACE,,other,,,,2024-03-28-nca-update-6-undersea-cable-disruptions
 BEN,WACS,,other,,,,2024-03-28-nca-update-6-undersea-cable-disruptions
 BEN,MainOne,,other,,,,2024-03-28-nca-update-6-undersea-cable-disruptions
 BEN,Maroc Telecom West Africa Submarine Cable,,route,,Maroc Telecom / Moov Africa,,2021-01-01-eand-reg-west-africa-cable-2021-maroc-telecom-west-africa-submarine-fibre
+BEN,Equiano,Equiano,route,,,,2026-07-13-ben-csquared-adds-2africa-west-capacity-to-strengthen-regional-internet-re
 BFA,Equiano,Equiano,route,"submarine cable (lands Nigeria, Togo)",,,2026-07-15 CSquared boosts internet by integrating with 2Africa West cable
 BFA,2Africa West,2Africa West,other,"submarine cable; capacity added to CSquared network, no landing in BFA stated",,,2026-07-15 CSquared boosts internet by integrating with 2Africa West cable
 BFA,CSquared terrestrial backbone,CSquared backbone,other,"inland fibre across Burkina Faso, Mali, Guinea, Sierra Leone, Liberia",CSquared,,2026-07-15 CSquared boosts internet by integrating with 2Africa West cable
 BFA,Nigeria connectivity link via Niger and Benin,,other,"planned terrestrial interconnection, not in service",,,2026-08-17-burkina-faso-nigeria-connectivite-internationale
 BFA,Maroc Telecom transafrican terrestrial fibre cable,,route,,Maroc Telecom / Moov Africa,,2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable
 BFA,"Project Pont (Nigeria 90,000 km open-access national fibre network)",Pont,other,,"Federal Ministry of Communications, Innovation and Digital Economy (Nigeria)",,2026-08-12-burkina24-nigeria-cooperation-numerique
+BFA,Equiano,Equiano,route,,,,2026-07-13-ben-csquared-adds-2africa-west-capacity-to-strengthen-regional-internet-re
 BWA,EASSy,EASSy,route,,BoFiNet is a shareholder/manager of access,,2026-08-13-bofinet-integrated-report-2025
 BWA,WACS,WACS,route,,BoFiNet manages access,,2026-08-13-bofinet-integrated-report-2025
 BWA,Equiano,Equiano,route,,,,2026-08-13-bofinet-integrated-report-2025
@@ -119,6 +131,8 @@ BWA,Buitepos-Ngoma corridor,Buitepos-Ngoma corridor,other,,,,2026-02-18-mtc-nami
 BWA,London IXP (BoFiNet international gateway),IXP in London,other,,BoFiNet,,2025-04-16-bofinet-invests-p100m-internet-gateway
 BWA,Johannesburg IXP (BoFiNet international gateway),IXP in Johannesburg,other,,BoFiNet,,2025-04-16-bofinet-invests-p100m-internet-gateway
 BWA,Gaborone IXP,Gaborone IXP,other,,BoFiNet,,2025-04-16-bofinet-invests-p100m-internet-gateway
+BWA,SADC Highway,Botswana,other,fibre,Paratus Botswana,,2024-12-04-bwa-paratus-botswana-announces-new-botswana-to-zambia-fiber-route
+BWA,Botswana Kalahari Fibre,Botswana,route,,Paratus Botswana,,2024-05-30-bwa-botswana-kalahari-fibre-route-complete
 CAF,Central African Backbone (CAB),Central African Backbone,route,,,,2026-10-12-agenceecofin-centrafrique-rdc-fibre-link
 CAF,"CAR-DRC fibre interconnection to Moanda landing (2Africa, WACS)",,other,,,,2026-10-12-agenceecofin-centrafrique-rdc-fibre-link
 CAF,CAR-South Sudan interconnection,,other,,,,2026-10-12-agenceecofin-centrafrique-rdc-fibre-link
@@ -129,6 +143,7 @@ CAF,Central African Backbone (CAB),Central African Backbone,route,,,,2026-05-25-
 CAF,CAR-South Sudan interconnection (planned),,other,,Central African Digital Development Agency with MTN Group,,2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight
 CAF,Central African Backbone (CAB),Central African Backbone,route,,,,2026-08-27-techafricanews-connecting-landlocked-africa-beyond-national-fibre
 CAF,Central African Backbone,Central African Republic,route,fibre,,,2026-10-26-caf-vers-une-diversification-de-la-connectivite-en-centrafrique
+CAF,Central African Backbone (CAB),CAB,route,,,,2026-10-12-caf-central-african-republic-revives-talks-on-third-internet-route-via-drc
 CIV,2Africa,2Africa,route,,,,2026-08-02-2africa-ivory-coast-branch-live-again-and-wacs-under-repair
 CIV,WACS,WACS,route,,,,2026-08-02-2africa-ivory-coast-branch-live-again-and-wacs-under-repair
 CIV,Via Africa,Via Africa,other,,consortium incl. Orange Cote d'Ivoire,,2026-05-15-via-africa-cable-sous-marin-europe-afrique-fratmat
@@ -157,6 +172,12 @@ CIV,Equiano,,other,,Google,,2025-11-01-heirs-technologies-africas-digital-leap-c
 CIV,2Africa,,other,,Meta,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
 CIV,MainOne,,other,,,,2025-11-01-heirs-technologies-africas-digital-leap-cloud-connectivity-ai-report
 CIV,Equiano,,other,,Google,,2022-03-01 Liquid Intelligent acquires Google's fiber pair to improve offers
+CIV,SAT-3,Cote d'Ivoire,route,submarine cable,,,2025-08-19-civ-cote-d-ivoire-cote-d-ivoire-s-international-bandwidth-surpasses-1-tbps
+CIV,ACE,Cote d'Ivoire,route,submarine cable,,,2025-08-19-civ-cote-d-ivoire-cote-d-ivoire-s-international-bandwidth-surpasses-1-tbps
+CIV,WACS,Cote d'Ivoire,route,submarine cable,,,2025-08-19-civ-cote-d-ivoire-cote-d-ivoire-s-international-bandwidth-surpasses-1-tbps
+CIV,MainOne,Cote d'Ivoire,route,submarine cable,MainOne,,2025-08-19-civ-cote-d-ivoire-cote-d-ivoire-s-international-bandwidth-surpasses-1-tbps
+CIV,Maroc Telecom West Africa cable,Cote d'Ivoire,route,submarine cable,Maroc Telecom,,2025-08-19-civ-cote-d-ivoire-cote-d-ivoire-s-international-bandwidth-surpasses-1-tbps
+CIV,2Africa,Cote d'Ivoire,other,submarine cable,Bayobab (MTN),,2024-10-11-civ-telecom-rupture-de-cables-internet-mtn-ci-annonce-l-arrivee-du-cable-s
 CMR,SAIL,SAIL,route,,Camtel,,2025-12-10-ecofinagency-cameroon-medusa-africa-submarine-cable-mou
 CMR,WACS,WACS,route,,Camtel,,2025-12-10-ecofinagency-cameroon-medusa-africa-submarine-cable-mou
 CMR,SAT-3,SAT-3,route,,Camtel,,2025-12-10-ecofinagency-cameroon-medusa-africa-submarine-cable-mou
@@ -176,6 +197,11 @@ CMR,ACE,ACE cable,other,,,,2018-06-06 Equatorial Guinea and Cameroon are now mor
 CMR,Central African Backbone fibre link Cameroon-CAF,Central African Backbone,other,,,,2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight
 CMR,Planned CAF-South Sudan interconnection,,other,,Central African Digital Development Agency with MTN Group,,2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight
 CMR,SAIL (South Atlantic Inter Link),SAIL,other,,"South Atlantic Inter Link Consortium (China Unicom, CAMTEL)",,2016-01-01-eximbank-cn-cmr-003-china-eximbank-provides-rmb-306-billion
+CMR,Medusa Africa,Medusa Africa,other,submarine cable,AFR-IX Telecom,,2026-01-05-cmr-cameroon-plans-to-participate-in-medusa-africa-submarine-cable
+CMR,SAIL,Cameroon,route,submarine cable,,,2026-01-01-cmr-transport-connectivity-services-fiche-produit-bu-transport-edition-202
+CMR,WACS,Cameroon,route,submarine cable,,,2026-01-01-cmr-transport-connectivity-services-fiche-produit-bu-transport-edition-202
+CMR,SAT-3,Cameroon,route,submarine cable,,,2026-01-01-cmr-transport-connectivity-services-fiche-produit-bu-transport-edition-202
+CMR,NCSCS,Cameroon,route,submarine cable,,,2026-01-01-cmr-transport-connectivity-services-fiche-produit-bu-transport-edition-202
 COD,G2M (Goma-to-Mombasa),G2M,route,"terrestrial fibre via Rwanda, Uganda, Kenya","Paratus Group (with ROKE TELKOM in Uganda, MoveOn Telecoms in Kenya)",,2026-02-09-paratus-goma-mombasa-fibre-highway-itweb
 COD,2Africa,câble sous-marin 2Africa,route,submarine cable,,,2025-12-19-airtel-drc-2africa-cable-activation
 COD,2Africa,2Africa,route,"submarine cable, lands at Moanda",Meta-led consortium,,2026-10-12-agenceecofin-centrafrique-rdc-fibre-link
@@ -196,6 +222,12 @@ COD,Airtel Telesonic East and Central African backbone,,other,,Airtel Telesonic,
 COD,Medusa Africa,Medusa Africa,other,,AFR-IX Telecom,,2025-10-25-submarinenetworks-afr-ix-medusa-africa-ustda-eu-cef-funding
 COD,Goma-Mombasa (G2M),G2M,route,,Paratus,,2026-09-09-techtrendske-paratus-east-africa-connectivity-itw
 COD,2Africa submarine cable,RDC,other,,,,2023-12-17-cod-rdc-voici-le-tout-premier-rapport-d-avancement-mi-parcours-du-plan-nat
+COD,WACS,DRC,route,submarine cable,,,2026-01-16-cod-wacs-submarine-cable-outage-disrupts-drc-internet-access
+COD,2Africa,DRC,route,submarine cable,,,2026-01-16-cod-wacs-submarine-cable-outage-disrupts-drc-internet-access
+COD,2Africa,2Africa,route,,Meta and a consortium of operators,,2026-10-12-caf-central-african-republic-revives-talks-on-third-internet-route-via-drc
+COD,WACS,West Africa Cable System,route,,,,2026-10-12-caf-central-african-republic-revives-talks-on-third-internet-route-via-drc
+COD,WACS,DR Congo,route,submarine cable,,,2026-05-03-cod-la-rdc-veut-renforcer-ses-moyens-de-connectivite-internet-internationa
+COD,2Africa,DR Congo,route,submarine cable,Airtel RDC,,2026-05-03-cod-la-rdc-veut-renforcer-ses-moyens-de-connectivite-internet-internationa
 COG,WACS,WACS,route,,consortium,,2026-01-20-congo-seeks-new-subsea-cable-wacs-failures-connectingafrica
 COG,new unnamed cable,new unnamed cable,other,,ARPCE (planned connection),,2026-01-20-congo-seeks-new-subsea-cable-wacs-failures-connectingafrica
 COG,Dow Africa,Dow Africa,other,,,,2026-01-20-congo-seeks-new-subsea-cable-wacs-failures-connectingafrica
@@ -216,6 +248,14 @@ COG,2Africa,câble sous-marin 2Africa,other,,,,2026-07-14-nguema-nze-arpce-fer-d
 COG,2Africa,Congo,route,,Meta,,2024-03-02-cog-linkedin-arpce-datacenter-pointe-noire-pca
 COG,WACS,Congo,route,Matombi landing station,Congo Telecom (station),,2026-08-14-cog-numerique-les-tuyaux-ont-gagne-du-terrain-l-usage-cherche-encore-le-si
 COG,2Africa,Congo,route,,,,2026-08-14-cog-numerique-les-tuyaux-ont-gagne-du-terrain-l-usage-cherche-encore-le-si
+COG,WACS,Republic of Congo,route,submarine cable,,,2026-02-19-cog-apres-la-panne-du-wacs-les-operateurs-congolais-renforcent-leur-connec
+COG,WACS,Congo,route,submarine cable,,,2026-02-18-cog-arpce-apres-la-panne-du-wacs-operateurs-congolais-cable-2africa
+COG,2Africa,Congo,route,submarine cable,,,2026-02-18-cog-arpce-apres-la-panne-du-wacs-operateurs-congolais-cable-2africa
+COG,2Africa,Congo,route,,MTN Congo,,2026-02-16-cog-congo-expands-international-bandwidth-with-2africa-landing
+COG,WACS,Congo,route,,,,2026-02-16-cog-congo-expands-international-bandwidth-with-2africa-landing
+COG,WACS,West Africa Cable System,route,submarine cable,,,2026-01-05-cog-fibre-optique-solidarite-historique-entre-operateurs-du-congo-pour-pal
+COG,2Africa,Congo,route,submarine cable,Meta,,2024-02-29-cog-economie-numerique-denis-sassou-n-guesso-connecte-le-congo-au-cable-2a
+COG,WACS,Congo,route,submarine cable,,,2024-02-29-cog-economie-numerique-denis-sassou-n-guesso-connecte-le-congo-au-cable-2a
 COM,2Africa,2Africa,route,,,,2026-01-01-comores-cables-technologies
 COM,EASSy,EASSy,other,,,,2026-01-01-comores-cables-technologies
 COM,FLY-LION3,FLY-LION3,other,,,,2026-01-01-comores-cables-technologies
@@ -327,6 +367,8 @@ DZA,MainOne regional network,MainOne,other,,MainOne,,2025-11-01-heirs-technologi
 DZA,Orval-Alval,Algeria,route,submarine cable to Spain,,,2026-06-08-tun-ecofin-algeria-tunisia-submarine-cable
 DZA,Medex,Algeria,route,submarine cable to France,,,2026-06-08-tun-ecofin-algeria-tunisia-submarine-cable
 DZA,Algerie Telecom Europe submarine cables,Algeria,route,submarine cable,Algerie Telecom,,2026-01-01-dza-hichem-andaloussi-p-dg-du-groupe-algerie-telecom-a-alger-16-lalgerie-f
+DZA,SMW4,Algeria,route,,Algerie Telecom,,2024-11-20-dza-evolution-de-linfrastructure-de-transport-ip-dalgerie-telecom
+DZA,El Kala-Tabarka land cable,Algeria,route,,Algerie Telecom,,2024-11-20-dza-evolution-de-linfrastructure-de-transport-ip-dalgerie-telecom
 EGY,Red Sea Subsea Festoon Cable System,Red Sea Subsea Festoon Cable System,other,,Telecom Egypt,,2026-09-07-capacity-telecom-egypt-red-sea-festoon-bypass
 EGY,"Sharm El Sheikh-Taba cable (planned, service expected Q4 2027)","Sharm El Sheikh-Taba cable (planned, service expected Q4 2027)",other,,Telecom Egypt / Power Sub Link,,2026-09-07-capacity-telecom-egypt-red-sea-festoon-bypass
 EGY,Sharm El Sheikh-Taba cable (planned Q4 2027),Sharm El Sheikh-Taba cable (planned Q4 2027),other,,Telecom Egypt / Power Sub Link,,2026-09-04-ecofin-egypte-cable-sous-marin-taba
@@ -423,6 +465,7 @@ GAB,ACE,Africa Coast to Europe,route,,,,2026-08-27-techafricanews-connecting-lan
 GAB,Backbone National Gabonais (BNG),Backbone National Gabonais,other,,SPIN (Société de Patrimoine des Infrastructures Numériques),,2025-11-14-spin-gabon-guinee-equatoriale-interconnexion-dorsales
 GAB,BNG-Equatorial Guinea backbone interconnection (Meyo-Kyé–Ebebeyin),interconnexion Meyo-Kyé – Ebebeyin,route,,SPIN / Equatorial Guinea national network,,2025-11-14-spin-gabon-guinee-equatoriale-interconnexion-dorsales
 GAB,ACE (Africa Coast to Europe),Gabon,route,submarine cable,SPIN subsidiary (landing),,2026-10-27-gab-gabon-numerique-interview-bertrand-mahoukou-bitchinda-expose-la-strate
+GAB,2Africa,Gabon,route,submarine cable,Meta-led consortium,,2025-11-19-gab-meta-completes-2africa-subsea-cable-system-connecting-3-billion-people
 GHA,SAT-3,,route,,,,2026-08-05-nca-ghana-submarine-cable-landing
 GHA,MainOne,,route,,,,2026-08-05-nca-ghana-submarine-cable-landing
 GHA,WACS,,route,,,,2026-08-05-nca-ghana-submarine-cable-landing
@@ -492,6 +535,9 @@ GIN,second submarine cable (unnamed),second submarine cable,other,,,,2025-11-19-
 GIN,"terrestrial interconnections with Mali, Cote d'Ivoire, Sierra Leone",,other,,,,2025-11-19-transform-africa-summit-2025-guinea-interconnection
 GIN,ACE (Africa Coast to Europe),ACE,route,submarine cable,consortium of 20 members; Guinea capacity managed by GUILAB,,2017-05-11-guilab-1st-iso-9001-2015-certified-operator-in-guinea
 GIN,submarine cable (unnamed),Guinea,route,,,,2026-10-28-guinee-lfr-medias-publics-risques-coupure-internet
+GIN,ACE,Africa Coast to Europe (ACE),route,submarine cable,,,2026-05-06-gin-guinee-le-mceni-a-travers-la-guilab-signe-laccord-pour-la-construction
+GIN,MEDUSA Africa,MEDUSA Africa,other,"submarine cable, construction agreement signed 2026-05-06, not in service",,,2026-05-06-gin-guinee-le-mceni-a-travers-la-guilab-signe-laccord-pour-la-construction
+GIN,Africa Coast to Europe (ACE),Guinea,route,submarine cable,,,2025-07-21-lbr-liberia-ecowas-plan-second-subsea-cable-for-five-west-african-countrie
 GMB,Second submarine cable (WARDIP procurement),second submarine cable,other,,ECOWAS Commission / WARDIP,,2026-07-06-ecowas-wardip-submarine-cable-capacity-evaluation-committee
 GMB,GAMTEL national backbone upgrade (40 to 800 Gbps),national internet backbone,other,,GAMTEL / SYSROAD,,2026-01-08-gamtel-sysroad-50m-ppp-broadband-backbone-standard
 GMB,ACE,Africa Coast to Europe,other,,ACE consortium; Gamtel 49% of Gambia segment,,2025-03-25-gambia-gov-gamtel-company-profile-ace-capacity
@@ -512,11 +558,13 @@ GMB,Free (Senegal) CG2 backup link,Cross Gambia (CG2),route,,Free Company (Seneg
 GMB,ECOWAN,ECOWAS Wide Area Network,other,,GAMTEL,,2026-09-21-gamtel-company-profile-ace-25-gbps
 GMB,NBN,National Broadband Network,other,,GAMTEL,,2026-09-21-gamtel-company-profile-ace-25-gbps
 GMB,ACE submarine cable,The Gambia,route,,,,2024-01-26-gmb-fatunetwork-mocde-2023-achievements
+GMB,Africa Coast to Europe (ACE),Gambia,route,submarine cable,,,2025-07-21-lbr-liberia-ecowas-plan-second-subsea-cable-for-five-west-african-countrie
 GNB,"ECOWAS second submarine cable (Cabo Verde, Liberia, Sierra Leone, Guinea-Bissau)",second submarine cable,other,,ECOWAS PPDU (project promoter),,2025-10-22-ecowas-segundo-cabo-submarino-validacao-estudo-cabo-verde
 GNB,ACE (Africa Coast to Europe),ACE,route,,,,2025-08-29 Fibre-optic deployment - Guinea-Bissau wants to learn from Chad
 GNB,Transport link to Sonatel network (Senegal),,other,,Sonatel,,2025-08-29 Fibre-optic deployment - Guinea-Bissau wants to learn from Chad
 GNB,Starlink,Starlink,other,satellite,,,2025-08-29 Fibre-optic deployment - Guinea-Bissau wants to learn from Chad
 GNB,"WARDIP second submarine cable (Gambia, Guinea, Guinea-Bissau, Liberia, Sierra Leone)",second submarine cable,other,,ECOWAS / WARDIP,,2026-07-06-ecowas-wardip-submarine-cable-capacity-evaluation-committee
+GNB,Africa Coast to Europe (ACE),Guinea-Bissau,route,submarine cable,,,2025-07-21-lbr-liberia-ecowas-plan-second-subsea-cable-for-five-west-african-countrie
 GNQ,ACE,ACE,route,,,,2026-06-05-cables-submarinos-africa-medusa-via-africa-larazon
 GNQ,Medusa,Medusa,other,,AFR-IX Telecom,,2026-06-05-cables-submarinos-africa-medusa-via-africa-larazon
 GNQ,Via Africa,Via Africa,other,,,,2026-06-05-cables-submarinos-africa-medusa-via-africa-larazon
@@ -628,6 +676,7 @@ KEN,Seacom subsea cable,,other,,Seacom Ltd,,2022-04-30-ifc-disclosure-46239-seac
 KEN,2Africa Cable,,other,,,,2022-04-30-ifc-disclosure-46239-seacom-debt-sii
 KEN,Equiano Cable,,other,,,,2022-04-30-ifc-disclosure-46239-seacom-debt-sii
 KEN,Seacom Africa-Asia cable,Kenya,other,subsea cable,Seacom,,2026-11-06-ken-kenyas-ai-ambitions-face-infrastructure-test-as-subsea-cable-takes-shape
+KEN,Bayobab Kenya Mombasa-Malaba fibre,Bayobab Kenya,other,fibre,Bayobab Kenya (MTN Group),,2024-08-27-ken-bayobab-kenya-to-boost-connectivity-with-mombasa-to-malaba-fibre-proje
 LBR,second subsea cable (planned),second subsea cable,other,,Government of Liberia (Ministry of Posts and Telecommunications),,2026-07-23-liberia-lta-commissioner-honnah-expanding-digital-access
 LBR,submarine cable at Monrovia (unnamed),one submarine cable already in Monrovia,route,,,,2026-01-29-liberia-verge-5g-revolution-observer
 LBR,second cable landing at Buchanan (planned),another cable landing in Buchanan,other,,,,2026-01-29-liberia-verge-5g-revolution-observer
@@ -640,10 +689,13 @@ LBR,TRANSCO CLSG terrestrial fibre (via Cote d'Ivoire and Guinea),TRANSCO CLSG,o
 LBR,ACE (Africa Coast to Europe),ACE,route,"submarine cable, 17,000 km, landing station Monrovia",ACE Consortium,,2021-09-09-ace-consortium-submarine-cable-overview
 LBR,International Gateway Monitoring System,International Gateway Monitoring System,other,"traffic monitoring system, not a fibre route",LTA (temporary management after suspension of Telecom International Alliance contract),,2026-08-31-smartnewsliberia-lta-revenue-disclosure-pressure
 LBR,Orange Liberia Monrovia-Lugato fibre link,Liberia,route,fibre,Orange Liberia,,2025-05-05-lbr-liberianobserver-orange-ace-rerouting-civ
+LBR,Africa Coast to Europe (ACE),Liberia,route,submarine cable,,,2025-07-21-lbr-liberia-ecowas-plan-second-subsea-cable-for-five-west-african-countrie
+LBR,Africa Coast to Europe (ACE),Liberia,route,submarine cable,Cable Consortium of Liberia,,2025-04-07-lbr-liberia-to-reroute-ace-cable-to-address-internet-outages
 LBY,Medusa,Medusa submarine cable,route,submarine cable,LPTIC (inauguration); LUIC signed connection contract,,2025-05-12-medusa-submarine-cable-inaugurated-misrata-libyaherald
 LBY,Medusa submarine cable,Libya,route,submarine cable,,,2026-10-18-lby-opening-of-ozone-telecom-group-in-benghazi-and-arrival-of-medusa-cable
 LBY,Medusa submarine cable,"Medusa, Benghazi landing",route,,Medusa Submarine Cable System,,2026-10-19-lby-techafricanews-o3-group-fact-sheet-medusa-landing
 LBY,Medusa,Libya,other,submarine cable,,,2026-10-20-medusa-submarine-cable-system-completes-shore-end-installation-in-liby
+LBY,Medusa Submarine Cable System,Libya,route,submarine cable,Medusa; LITC for the landing,,2025-05-12-lby-medusa-subsea-cable-inaugurated-in-libya-to-boost-post-war-connectivit
 LSO,WACS,WACS,route,,Vodacom group (part-owner),,2018-02-13-lca-state-of-ict-lesotho-2016
 LSO,EASSy,EASSy,route,,Vodacom group (part-owner); capacity also used by Econet Telecom Lesotho,,2018-02-13-lca-state-of-ict-lesotho-2016
 LSO,SEACOM,SEACOM,route,,,used by Econet Telecom Lesotho,2018-02-13-lca-state-of-ict-lesotho-2016
@@ -655,6 +707,9 @@ MAR,Equiano,Equiano,other,,Google,,2025-09-22 Google plans to build four subsea 
 MAR,Umoja,Umoja,other,,Google,,2025-09-22 Google plans to build four subsea cable connectivity hubs for Africa
 MAR,2Africa,2Africa,route,,Meta,,2026-08-09-maroc-data-centers-leader-ia
 MAR,Africa-1,Africa-1,route,,,,2026-08-09-maroc-data-centers-leader-ia
+MAR,Medusa,Morocco,route,"submarine cable, Nador landing station",Orange Maroc (station),,2025-12-16-mar-orange-maroc-accueille-le-cable-sous-marin-medusa-dans-sa-station-d-at
+MAR,Medusa,Medusa,other,submarine cable,AFR-IX Telecom,,2025-12-18-mar-connectivite-medusa-le-cable-qui-redessine-la-carte-numerique-du-maroc
+MAR,Medusa,"Medusa Submarine Cable System, landed at Nador 2025-12 (remaining landings in 2026, not stated in service)",other,submarine cable,,,2025-12-17-mar-medusa-lands-in-nador-advancing-morocco-s-role-in-mediterranean-connec
 MDG,DARE1 extension,DARE1,other,,Djibouti Telecom,,2025-09-10-dare1-cable-extension-madagascar-2424
 MDG,DARE1 extension,DARE1,other,,Djibouti Telecom,,2025-09-01-dare1-extension-kenya-south-africa-connectingafrica
 MDG,2Africa,2Africa,other,,Meta-led consortium,,2026-03-02 I traced who owns the undersea cables that carry 95% of global internet traffic — the map is a colonial one
@@ -714,6 +769,8 @@ MRT,West Africa submarine cable (Maroc Telecom),,route,,Maroc Telecom,,2021-01-0
 MRT,Maroc Telecom transafrican terrestrial fibre cable,,route,terrestrial fibre,Maroc Telecom,,2022-01-01-eand-reg-transafrican-cable-2022-maroc-telecom-transafrican-terrestrial-fibre-cable
 MRT,ACE,Câble ACE,route,,,,2024-11-11-mrt-vers-une-connectivite-universelle-et-significative-pour-la-mauritanie
 MRT,"Alalinck cable, Nouadhibou landing station",Alalinck,other,,,,2025-11-25-mrt-mauritanie-ue-reunion-pour-evaluer-le-niveau-de-cooperation-numerique
+MRT,"West Africa submarine cable landing station, Nouadhibou",Mauritania,route,submarine cable landing station,Moov Mauritel,,2025-11-01-mrt-maroc-telecom-key-facts-9m-2025-wac-nouadhibou-landing
+MRT,"West Africa Cable (WAC), Nouadhibou",Mauritania,route,submarine cable landing station,Moov Mauritel (Mauritel SA),,2025-01-01-mrt-catalogue-d-interconnexion-2025-2026-bu-wac
 MUS,America-India Connect,America-India Connect,other,,Google,,2026-08-02-google-amazon-et-maurice-les-coulisses-dun-tournant-numerique-majeur
 MUS,Baie-du-Jacotet ground station,Baie-du-Jacotet ground station,other,,Google,,2026-08-02-google-amazon-et-maurice-les-coulisses-dun-tournant-numerique-majeur
 MUS,America-India Connect,America-India Connect,other,,Google,,2026-07-16-mauritius-america-india-connect-subsea-cable-allmyt-summit-mitci
@@ -723,6 +780,7 @@ MUS,SEACOM 2.0,SEACOM 2.0,other,,SEACOM,,2026-03-22-build-ai-ecosystem-before-in
 MUS,T4,T4,other,,Mauritius Telecom,,2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica
 MUS,America-India Connect,,other,,Google,,2026-02-22-lexpress-mauritius-seeks-b300-gpus
 MUS,fifth submarine cable (unnamed),,other,,,,2025-07-01-xalam-mauritius-data-center-market-briefing
+MUS,T4,Mauritius,other,submarine cable,Mauritius Telecom,,2024-05-05-mus-internet-et-telecommunications-un-nouveau-cable-sous-marin-de-fibre-op
 MWI,Umoja,Umoja,other,,,,2026-09-03-itweb-africa-east-africa-inland-digital-future
 MWI,2Africa,2Africa,other,,,,2026-09-03-itweb-africa-east-africa-inland-digital-future
 MWI,Airtel Malawi Tanzania protection link,"Additional protection capacity on its fibre link from Tanzania, to be completed by end January 2025",other,,Airtel Malawi,,2025-01-20-mwi-techafrica-airtel-international-fibre-links
@@ -763,6 +821,8 @@ NAM,Trans-Kalahari fibre route,Namibia,route,terrestrial fibre,Paratus,,2026-10-
 NAM,SARSSy,NAM,other,subsea cable,,,2026-07-01-ago-angola-telecom-preve-operacao-do-cabo-submarino-sarssy-ate-2027
 NAM,Equiano,NAM,route,subsea cable,,,2026-04-24-nam-namibia-angola-sign-connectivity-deal-to-boost-west-coast-bandwidth
 NAM,Equiano,NAM,route,subsea cable,Google,,2026-04-23-ago-telecom-namibia-and-angola-telecom-sign-strategic-mou-and-commercial-t
+NAM,Equiano,Equiano,route,,Google,,2025-07-14-bwa-three-years-on-paratus-has-used-equiano-to-shape-sadc-connectivity-lan
+NAM,West Africa Cable System (WACS),Namibia,route,submarine cable,,,2025-06-30-nam-telecom-namibia-works-on-network-optimisation
 NER,ACE,Africa Coast to Europe,other,,,,2026-04-01-watra-submarine-cable-resilience-recommendations
 NER,SAT-3/WASC,,other,,,,2026-04-01-watra-submarine-cable-resilience-recommendations
 NER,WACS,,other,,,,2026-04-01-watra-submarine-cable-resilience-recommendations
@@ -914,6 +974,7 @@ NGA,Equiano,Equiano,other,,Google,"Landing in Nigeria stated (with Namibia, Togo
 NGA,ACE,"ACE cable, Lagos landing station",route,,,,2026-10-13-nga-idcnova-dolphin-telecoms-grid-crux-solar-ace-landing-station
 NGA,2Africa,Nigeria (landed Lagos),route,submarine cable,2Africa consortium; Bayobab landing party,,2024-02-08-gha-bayobab-2africa-lands-ghana-nigeria
 NGA,Equiano,Equiano landing at OADC Lagos,other,,Google,,2025-03-21-nga-wuzup-oadc-lagos-dedicated-transmission-line
+NGA,Equiano,Equiano,route,,,,2026-07-13-ben-csquared-adds-2africa-west-capacity-to-strengthen-regional-internet-re
 RWA,Seacom 2.0,Seacom 2.0,other,,Seacom,,"2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa"
 RWA,Umoja,Umoja,other,,Google,,2025-09-22 Google plans to build four subsea cable connectivity hubs for Africa
 RWA,Umoja,Umoja,other,Liquid Intelligent Technologies overland route,Google,,2024-05-28 Google invests in terrestrial-subsea cable linking Kenya to Australia
@@ -933,6 +994,7 @@ RWA,Seacom,,other,,Seacom,Listed as operating in Rwanda among seven countries; n
 RWA,Seacom,Seacom,other,,"Seacom Limited (Remgro 30%, IPS Cable System 40%, Convergence Partners 15%, Sanlam 15%)",,2022-04-30-ifc-disclosure-46239-seacom-debt-sii
 RWA,2Africa Cable,2Africa Cable,other,,,,2022-04-30-ifc-disclosure-46239-seacom-debt-sii
 RWA,Equiano Cable,Equiano Cable,other,,,,2022-04-30-ifc-disclosure-46239-seacom-debt-sii
+RWA,SEACOM,SEACOM via Tanzania and Kenya,route,submarine cable,,,2024-03-27-rwa-rwanda-open-for-business-the-it-investor-guidebook
 SDN,Horizon Fiber,Horizon Fiber Initiative,other,,Ethio Telecom; Djibouti Telecom; Sudatel Group,,2026-02-06-horizon-fiber-corridor-deal-itweb
 SDN,Horizon Fiber,Horizon Fiber Initiative,other,,Ethio Telecom; Djibouti Telecom; Sudatel Group,,2026-02-05-horizon-fiber-djibouti-ethio-sudatel-lanation
 SDN,Port Sudan-Jeddah submarine cables,,route,,,,2026-02-05-horizon-fiber-djibouti-ethio-sudatel-lanation
@@ -987,6 +1049,7 @@ SEN,Smart Senegal submarine cable sub-project,Submarine Cable,other,,,,2018-02-0
 SEN,Smart Senegal submarine cable sub-project,Submarine Cable,other,,,,2018-01-01-eximbank-cn-sen-002-china-eximbank-provides-rmb-105-billion
 SEN,2Africa,"2Africa landing, Dakar",other,,,,2026-06-11 Can Africa supply it's own digital infrastructure
 SEN,SENUM and Sonatel submarine cables,,other,,SENUM SA; Sonatel,,2025-03-26-senum-sonatel-partnership
+SEN,2Africa,Senegal,route,,Sonatel (landing station),,2026-02-20-sen-sonatel-annonce-la-mise-en-service-du-cable-sous-marin-2africa-le-plus
 SLE,2Africa West,2Africa West,other,,,,2026-07-15 CSquared boosts internet by integrating with 2Africa West cable
 SLE,Equiano,Equiano,other,,,,2026-07-15 CSquared boosts internet by integrating with 2Africa West cable
 SLE,WARDIP second submarine cable,,other,,ECOWAS/WARDIP,,2026-07-06-ecowas-wardip-submarine-cable-capacity-evaluation-committee
@@ -994,6 +1057,7 @@ SLE,"ECOWAS second submarine cable (CPV, LBR, SLE, GNB)",,other,,ECOWAS PPDU,,20
 SLE,Second submarine cable landing (planned),,other,,MoCTI,,2025-07-11-sierra-leone-second-submarine-cable
 SLE,TRANSCO CLSG fibre,,other,,TRANSCO CLSG,,2026-06-16-transco-clsg-fibre-expansion-techafricanews
 SLE,ACE,ACE (Africa Coast to Europe),route,,ACE Consortium,,2021-09-09-ace-consortium-submarine-cable-overview
+SLE,Africa Coast to Europe (ACE),Sierra Leone,route,submarine cable,,,2025-07-21-lbr-liberia-ecowas-plan-second-subsea-cable-for-five-west-african-countrie
 SOM,DARE1,DARE1,route,,Djibouti Telecom,,2025-09-04 DARE1 subsea cable expansion to boost internet capacity
 SOM,DARE1 extension (Mombasa to Mtunzini),,other,,Djibouti Telecom,,2025-09-04 DARE1 subsea cable expansion to boost internet capacity
 SOM,DARE1,DARE1,route,,Djibouti Telecom,,2025-09-01-dare1-extension-kenya-south-africa-connectingafrica
@@ -1013,6 +1077,9 @@ SOM,Starlink,,other,satellite,,,"2026-01-07 Why Ethiopia, Somalia and Djibouti a
 SOM,"Sixth submarine cable (unnamed, on the way)",,other,,,,2024-11-20-som-devtelecoms-fibre-deployment-policy
 SOM,OADC Mogadishu data centre,,other,,Open Access Data Centres (WIOCC),,2021-11-25-verdant-capital-wiocc-usd-124m-equity-raise
 SOM,Berbera fibre route,Somaliland,other,,,,2026-09-15-ken-businessdaily-somaliland-berbera-fibre-route
+SOM,EASSy,Somalia,route,submarine cable,WIOCC,,2024-01-22-som-somalia-information-communication-and-technology-ict
+SOM,DARE1,Somalia,route,submarine cable,,,2024-01-22-som-somalia-information-communication-and-technology-ict
+SOM,2Africa,Somalia,other,submarine cable,,,2024-01-22-som-somalia-information-communication-and-technology-ict
 SSD,CAR-South Sudan interconnection,digital interconnection with South Sudan,other,,Central African Digital Development Agency; MTN Group,,2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight
 SSD,"South Sudan links via Kenya, Sudan, DRC, Ethiopia, Djibouti",,other,,,,2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight
 SSD,Liquid East African fibre network,,other,,Liquid Intelligent Technologies,,2026-09-10-itweb-africa-liquid-targets-data-centre-gap
@@ -1054,6 +1121,7 @@ TGO,Umoja,Umoja,other,submarine cable,Google,,2026-05-20 Google in Africa
 TGO,Equiano,Equiano,other,submarine cable,Google,,2021-10-06-google-reg-1b-google-1-billion-africa-digital-transformation
 TGO,Equiano,Togo,route,submarine cable landing station at Lome,Google; landing station run by CSquared,,2024-03-18-tgo-capacity-equiano-togo-cls-traffic
 TGO,Equiano,Togo,route,submarine cable,,,2025-08-11-tgo-csquared-west-africa-cross-border-backbone
+TGO,Equiano,Equiano,route,,,,2026-07-13-ben-csquared-adds-2africa-west-capacity-to-strengthen-regional-internet-re
 TUN,MEDUSA,MEDUSA,route,,Orange Tunisia (Tunisian section and Bizerte landing station),,2026-06-26-techafricanews-orange-medusa-cable-operational
 TUN,MEDUSA,MEDUSA,route,,Orange Tunisie (Tunisian section and Bizerte landing station),,2026-06-24-tunisie-cable-medusa-operationnel
 TUN,DIDON,DIDON,route,,Orange Tunisie,,2026-06-24-tunisie-cable-medusa-operationnel
@@ -1078,6 +1146,8 @@ TUN,Keltra,Tunisia,route,submarine cable to Italy,,,2026-06-08-tun-ecofin-algeri
 TUN,Hannibal,Tunisia,route,submarine cable,Tunisie Telecom,,2025-02-11-tun-tunisie-telecom-pour-reussir-la-5g-il-faut-d-abord-la-fibre-optique
 TUN,SEA-ME-WE-4,Tunisia,route,submarine cable,Tunisie Telecom,,2025-02-11-tun-tunisie-telecom-pour-reussir-la-5g-il-faut-d-abord-la-fibre-optique
 TUN,Medusa,Tunisia,other,submarine cable,AFR-IX Telecom,,2025-02-11-tun-tunisie-telecom-pour-reussir-la-5g-il-faut-d-abord-la-fibre-optique
+TUN,MEDUSA,MEDUSA,route,,Orange Tunisie (Tunisian section and Bizerte landing station),,2026-06-25-tun-orange-tunisie-met-en-service-le-cable-sous-marin-medusa
+TUN,Peace (Ifriqya),Tunisia,other,submarine cable,PCCW Global; Ooredoo Tunisie,,2024-02-05-tun-peace-subsea-cable-lands-in-bizerte-tunisia
 TZA,Kilimanjaro One (KO-SCS),"Kilimanjaro One Submarine Cable System; planned, 1,900 km Dar es Salaam to Mauritius with branches to Unguja and Mafia, construction 2026, completion late 2027",other,,TTCL,,2025-11-12-tanzania-kilimanjaro-one-submarine-cable
 TZA,NICTBB,"14,000 km national backbone, also links EAC and SADC neighbours",other,,Government of Tanzania,,2025-11-12-tanzania-kilimanjaro-one-submarine-cable
 TZA,2Africa,"landing station at Mbezi, Dar es Salaam; 45,000 km",other,,Airtel Tanzania (Tanzanian landing party),,2024-09-24-airtel-subsea-cable-to-boost-digital-sector-growth-daily-news
@@ -1116,6 +1186,7 @@ TZA,Paratus Tanzania Dar es Salaam PoP,Tanzania,route,Wingu Data Centre,Paratus,
 TZA,Paratus Tanzania PoP at Wingu Data Center,Tanzania,other,,Paratus Tanzania,,2026-10-26-tza-paratus-new-dar-es-salaam-pop
 TZA,"SEACOM, EASSy and 2Africa cables",Tanzania,route,,,,2025-06-01-tza-wsis-20-country-report-tanzania
 TZA,National ICT Broadband Backbone (NICTBB),Tanzania,other,fibre,TTCL,,2024-02-23-tza-ttcl-yazidi-kujikita-kimataifa-kibiashara
+TZA,Kilimanjaro One Submarine Cable System,Tanzania,other,submarine cable,,,2025-11-12-tza-tanzania-imejipanga-kuwa-kitovu-cha-teknolojia-na-mawasiliano-afrika-m
 UGA,Seacom Nairobi-Kampala route,Nairobi-Kampala route,route,"DWDM, ASON",Seacom,,2026-06-17 Seacom deploys a new high-capacity Nairobi–Kampala route to strengthen East Africa's digital backbone
 UGA,G2M (Goma-to-Mombasa),G2M,route,,Paratus Group (with Roke Telkom in Uganda),,2026-02-09-paratus-goma-mombasa-fibre-highway-itweb
 UGA,Equiano,Equiano,other,,,,2026-02-09-paratus-goma-mombasa-fibre-highway-itweb
@@ -1146,6 +1217,7 @@ UGA,Paratus G2M (Goma-Mombasa),,route,,Paratus Group,,2026-09-09-techtrendske-pa
 UGA,Starlink,,other,LEO satellite,,,2026-09-09-techtrendske-paratus-east-africa-connectivity-itw
 UGA,Kenya route,,route,,,,2026-09-04-nilepost-uetcl-uganda-tanzania-fibre-bidding
 UGA,Uganda-Tanzania fibre connection (UETCL/Samanga),,other,,UETCL; Samanga Utilities,,2026-09-04-nilepost-uetcl-uganda-tanzania-fibre-bidding
+UGA,Uganda cross-border fibre via Kenya and Tanzania,Uganda,route,terrestrial fibre to SEACOM and EASSy landings,,,2025-01-01-uga-ucc-s-role-in-strengthening-affordable-and-resilient-international-con
 ZAF,ReuNION,ReuNION,other,,"consortium led by La Reunion Connectee (Orange, Telco OI, Reunicable)",,2026-09-09-dcmag-free-cable-sous-marin-reunion-afrique-du-sud
 ZAF,SAFE,SAFE,other,,,,2026-09-09-dcmag-free-cable-sous-marin-reunion-afrique-du-sud
 ZAF,ReuNION,ReuNION,other,,"consortium led by La Reunion Connectee (Orange, Telco OI, Reunicable)",,2026-09-02-lequotidien-reunion-nouveau-cable-sous-marin-2028

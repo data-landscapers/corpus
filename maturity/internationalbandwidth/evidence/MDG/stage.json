@@ -1,16 +1,17 @@
 {
- "iso3": "MDG",
- "cells": [
-  {
-   "sub_indicator": "routes",
-   "stage": "3",
-   "routes": "two",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MDG-001",
-   "gaps": "No source found says two of the routes land at different stations, or run through two different neighbours.",
-   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
-  }
- ]
+  "iso3": "MDG",
+  "cells": [
+    {
+      "sub_indicator": "routes",
+      "stage": "4",
+      "routes": "independent",
+      "access": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MDG-002;MDG-001",
+      "gaps": "No source found says other operators buy capacity at the landing station or on the cable, or that it runs on open-access or wholesale terms.",
+      "note": "Reassessed 2026-11-10: Madagascar Newsroom (December 2024) places EASSy at Toliara, METISS at Fort Dauphin and 2Africa at Mahajanga, so two routes share no landing station, and counts 2Africa, landed in February 2023, among the cables linking the country (MDG-002). No sale of capacity to other operators is stated, so not 5.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-01-mrt-maroc-telecom-key-facts-9m-2025-wac-nouadhibou-landing",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Maroc Telecom's nine-month 2025 fact sheet lists, among Moov Mauritel's highlights for January-September 2025, the commissioning of the West Africa submarine cable landing station in Nouadhibou.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "West Africa submarine cable landing station, Nouadhibou",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "West Africa submarine cable landing station, Nouadhibou",
+   "country_label": "Mauritania",
+   "class": "route",
+   "platform": "submarine cable landing station",
+   "owner": "Moov Mauritel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

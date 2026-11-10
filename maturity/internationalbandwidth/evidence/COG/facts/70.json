@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-19-cog-apres-la-panne-du-wacs-les-operateurs-congolais-renforcent-leur-connec",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "ARPCE Congo says WACS, landing at Matombi, was the Republic of Congo's main international link until its cut on 2 January 2026, and backup capacity was activated through the DRC and Angola, though too thin for peak traffic.",
+   "as_of": "2026-01-02",
+   "date_precision": "day",
+   "system": "WACS; backup routes via DRC and Angola",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WACS",
+   "country_label": "Republic of Congo",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

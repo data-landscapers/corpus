@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-12-tza-tanzania-imejipanga-kuwa-kitovu-cha-teknolojia-na-mawasiliano-afrika-m",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "TTCL's director general said the national backbone is connected to 11 international submarine cable systems, including SEACOM, EASSy and 2Africa, via Dar es Salaam and Mombasa.",
+   "as_of": "2025-11-10",
+   "date_precision": "day",
+   "system": "SEACOM; EASSy; 2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Kilimanjaro One Submarine Cable System",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

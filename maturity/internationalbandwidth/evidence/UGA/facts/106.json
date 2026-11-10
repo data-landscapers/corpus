@@ -1,0 +1,26 @@
+{
+ "slug": "2025-01-01-uga-ucc-s-role-in-strengthening-affordable-and-resilient-international-con",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "A Uganda Communications Commission presentation says landlocked Uganda connects to submarine cables through Mombasa in Kenya and Dar es Salaam in Tanzania, with SEACOM and EASSy the primary cables, and lists operating cross-border interconnections at Busia and Malaba with Kenya and Mutukula with Tanzania.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Uganda cross-border fibre via Kenya and Tanzania",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Uganda cross-border fibre via Kenya and Tanzania",
+   "country_label": "Uganda",
+   "class": "route",
+   "platform": "terrestrial fibre to SEACOM and EASSy landings",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

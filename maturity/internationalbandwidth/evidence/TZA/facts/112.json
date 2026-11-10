@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-26-bdi-la-tanzanie-signe-un-nouvel-accord-de-cinq-ans-avec-le-burundi-pour-lu",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Agence Ecofin reports that Tanzania has three international submarine cables, 2Africa, EASSy and SEACOM.",
+   "as_of": "2024-02-26",
+   "date_precision": "day",
+   "system": "2Africa; EASSy; SEACOM",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

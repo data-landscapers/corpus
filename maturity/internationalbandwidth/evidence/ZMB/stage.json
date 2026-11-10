@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "routes",
-      "stage": "3",
+      "stage": "4",
       "routes": "independent",
       "access": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZMB-002",
-      "gaps": "No source found says a cable of more than 100 Tbps design capacity carries the country's traffic.",
-      "note": "Cable rule (Bill, 2026-10-30): two independent routes, but no source says a cable of more than 100 Tbps design capacity carries the country's traffic.",
-      "as_at": "2026-10-30"
+      "stage_sources": "ZMB-002;ZMB-003",
+      "gaps": "No source found says other operators buy capacity at the landing station or on the cable, or that it runs on open-access or wholesale terms.",
+      "note": "Reassessed 2026-11-10: the minister says Zambia has fibre links to eight neighbours (ZMB-002), and the Bayobab and Vodacom border interconnection opened in February 2026 gives Zambia direct connectivity to 2Africa through Mozambique (ZMB-003). No sale of capacity to other operators is stated, so not 5.",
+      "as_at": "2026-11-10"
     }
   ]
 }

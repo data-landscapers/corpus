@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-12-tcd-chad-s-recent-outages-highlight-resiliency-gaps",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "Internet Society Pulse says Sudan has terrestrial fibre links to Ethiopia, Egypt, South Sudan and Chad and submarine cable links via Port Sudan.",
+   "as_of": "2024-03-12",
+   "date_precision": "day",
+   "system": "Sudan terrestrial links and Port Sudan cable landing",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

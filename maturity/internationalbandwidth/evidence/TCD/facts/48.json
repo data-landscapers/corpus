@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-16-tcd-technologie-le-ministre-boukar-michel-renegocie-les-accords-avec-camte",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Tchadinfos reports Chad's international capacity is supplied from Kribi in Cameroon over Camtel's fibre, with second routes Nana-Mberé and Yagoua-Bongor still to be completed.",
+   "as_of": "2025-05-16",
+   "date_precision": "day",
+   "system": "Camtel fibre Kribi to Chad",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

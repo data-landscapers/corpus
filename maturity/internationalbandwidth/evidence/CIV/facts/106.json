@@ -1,0 +1,27 @@
+{
+ "slug": "2024-12-04-civ-reponse-consultation-publique-tarification-des-services-d-acces-a-inte",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Orange Cote d'Ivoire says the authorisation of two new submarine cables brought to five the number of submarine cables landing in Cote d'Ivoire.",
+   "as_of": "2024-12-04",
+   "date_precision": "day",
+   "system": "Submarine cables landing in Cote d'Ivoire",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Orange Cote d'Ivoire lists open access at the submarine cable landing point among the regulator's actions, with wholesale prices for international capacity capped since 2016 and 2020, and says infrastructure competition on submarine cables is real with no barriers.",
+   "as_of": "2024-12-04",
+   "date_precision": "day",
+   "system": "Submarine cable landing point open access",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

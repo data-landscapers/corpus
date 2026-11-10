@@ -1,0 +1,17 @@
+{
+ "slug": "2024-09-04-sdn-undersea-cable-delivers-critical-connectivity-in-sudan",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "The Emergency Telecommunications Cluster says it activated a 1 Gbps dedicated undersea fibre connection in Port Sudan on 21 August 2024, built with Sudatel, for UN agencies and NGOs.",
+   "as_of": "2024-08-21",
+   "date_precision": "day",
+   "system": "ETC undersea fibre connection, Port Sudan",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

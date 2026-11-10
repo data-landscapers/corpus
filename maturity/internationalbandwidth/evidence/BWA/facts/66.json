@@ -1,0 +1,26 @@
+{
+ "slug": "2024-05-30-bwa-botswana-kalahari-fibre-route-complete",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Botswana Daily News reports that on 29 May 2024 Paratus Botswana launched the 840 km Botswana Kalahari Fibre from Mamuno to Lobatse, completing the Trans Kalahari route that connects Botswana to the 144 Tbps Equiano cable at Swakopmund in Namibia.",
+   "as_of": "2024-05-29",
+   "date_precision": "day",
+   "system": "Botswana Kalahari Fibre",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Botswana Kalahari Fibre",
+   "country_label": "Botswana",
+   "class": "route",
+   "platform": "",
+   "owner": "Paratus Botswana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

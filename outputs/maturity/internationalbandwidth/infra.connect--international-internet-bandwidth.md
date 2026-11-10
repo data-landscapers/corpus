@@ -21,9 +21,9 @@ The African Union's Digital Transformation Strategy 2020–2030 asks every membe
 | Stage | Countries |
 |---|---|
 | 5 Leading | 9 |
-| 4 Operating | 8 |
-| 3 Established | 24 |
-| 2 Nascent | 11 |
+| 4 Operating | 11 |
+| 3 Established | 22 |
+| 2 Nascent | 10 |
 | 1 Absent | 1 |
 | Unplaced | 0 |
 | No evidence | 1 |
@@ -145,6 +145,21 @@ Gabon has four submarine cables and fibre links to three neighbours (2026); whet
 - TM Africa states Gabon already lands four subsea cable systems (2Africa, ACE, Maroc Telecom's West Africa cable and SAT-3/WASC); landing stations are not named for them ([source, 2026-09-25](https://tmafrica.co.ug/news/gabon-builds-digital-state-shrinking-oil-base)).
 - Minister Doumba told WTDC-25 that Gabon has four international submarine cables providing its digital opening to the world; landing stations are not named ([source, 2025-11-17](https://www.itu.int/itu-d/meetings/wp-content/uploads/IPS/documents/22/31_WTDC-25-HLS-Statement-Doumba-Gabon.pdf)).
 
+### Ghana: 4 Operating
+
+Ghana's cables land at Accra and a land link reaches a high-capacity cable in Togo (2026); whether other operators buy capacity is not known.
+
+- CSquared names Accra as a cable landing station and says its architecture reaches Ghana with Equiano, which lands in Nigeria and Togo, over its terrestrial backbone ([source, 2026-07-13](https://csquared.com/csquared-adds-2africa-west-capacity-to-strengthen-regional-internet-resilience/)).
+- Ghanaian Times, in a consultant's opinion piece, says MTN Ghana used the SAT3/WASC, Main One and WACS cables in Accra and that Ghana reaches Equiano by land-based fibre from Lome, Togo ([source, 2024-08-12](https://ghanaiantimes.com.gh/build-robust-resilient-internet-connectivity-to-prevent-march-2024-service-disruption-repetition-2/)).
+- TechAfrica News reports the 2Africa subsea cable was declared complete and activated in late 2025, with MTN GlobalConnect (Bayobab) leading the landing in Ghana ([source, 2025](https://techafricanews.com/2026/02/12/2africa-is-here-how-africa-can-capture-the-full-potential-of-the-subsea-cable/)).
+
+### Madagascar: 4 Operating
+
+Madagascar's cables land at three stations, one a high-capacity cable (2024); whether other operators buy capacity is not known.
+
+- Madagascar Newsroom says Madagascar is linked by four submarine cables, Lion 1 and 2, EASSy (second international exit, at Toliara), METISS (24 Tbps, in service since March 2021, third exit at Fort Dauphin) and 2Africa (landed at Mahajanga in February 2023, 180 Tbps nominal) ([source, 2024-12-07](https://www.madagascarnewsroom.com/2024/12/madagascar-cables-sous-marins--t4.html)).
+- Telma (AXIAN Telecom press release, 10 February 2023) states Madagascar has three existing international subsea cables, EASSy, LION and METISS, all reaching the country through Telma's national backbone; landing stations are not named for these three ([source, 2023-02-10](https://www.axian-telecom.com/ac-content/uploads/2023/02/AXIAN-Telecom-Press-release-2Africa-landing-in-Madagascar-VA.pdf)).
+
 ### Mali: 4 Operating
 
 Two independent fibre routes abroad by 2021; no source found says whether other operators buy capacity on them.
@@ -158,6 +173,13 @@ Two independent fibre routes abroad by 2025; no source found says whether other 
 
 - The Horohoro redundancy route launched with Kenya gives Tanzania a land path to eight undersea cables via Kenya, alongside its three marine cable connections in Dar es Salaam, per Minister Silaa ([source, 2025-07-20](https://dailynews.co.tz/new-fibre-link-to-boost-east-africas-digital-resilience/)).
 - Airtel Tanzania activated the 2Africa subsea cable landing station at Mbezi, Dar es Salaam, reported 24 September 2024 (officials spoke 23 September; activation date between June and September 2024 per source note) ([source, 2024-09](https://dailynews.co.tz/airtel-subsea-cable-to-boost-digital-sector-growth/)).
+
+### Zambia: 4 Operating
+
+Fibre links to eight neighbours and a high-capacity cable through Mozambique (2026); whether other operators buy capacity is not known.
+
+- Zambia's Minister of Technology and Science, Felix Mutati, said at the Chanida-Cassacatiza commissioning that Zambia now has fibre links to eight neighbouring countries (added by the parent from the same document) ([source, 2026-02-23](https://clubofmozambique.com/news/zambia-and-mozambique-launch-fibre-optic-interconnector/)).
+- Bayobab Zambia and Vodacom Moçambique launched on 2026-02-21 a fibre interconnection at the Zambia-Mozambique border that gives Zambia a route to subsea cables, including direct connectivity to 2Africa ([source, 2026-02-21](https://bayobab.africa/bayobab-zambia-and-vodacom-mocambique-launch-strategic-fibre-interconnection-at-zambia-mozambique-border/)).
 
 ### Algeria: 3 Established
 
@@ -225,13 +247,6 @@ Two independent fibre routes abroad by 2026; no cable of more than 100 Tbps is k
 
 - GAMTEL states two international routes in service: the ACE cable, and a 28 Gbps backup link with Free (Senegal) on Cross Gambia (CG2) to which traffic is automatically rerouted if ACE fails; no landing station or border point is named. The page is undated, so the date is its capture date ([source, 2026-09-21](https://gamtel.gm/about-us/)).
 
-### Ghana: 3 Established
-
-Two or more fibre routes abroad by 2026; no source found says whether two are independent of each other.
-
-- The NCA states Ghana currently has five submarine cable providers: SAT-3, MainOne, WASC, Glo and ACE (page undated, so as_of is the 2026-08-05 capture date; no landing stations named) ([source, 2026-08](https://nca.org.gh/submarine-cable-landing/)).
-- Computer Weekly states that Meta's 2Africa cable made landfall near Accra in 2025 as the sixth fibre cable to connect Ghana, operated by MTN subsidiary Bayobab; the six cables are not named and the landing stations are not given ([source, 2025](https://www.computerweekly.com/feature/Public-and-private-sector-key-to-Digital-Realty-in-West-Africa)).
-
 ### Kenya: 3 Established
 
 Two or more fibre routes abroad by 2026; no source found says whether two are independent of each other.
@@ -250,12 +265,6 @@ Two or more fibre routes abroad by 2016; no source found says whether two are in
 Two independent fibre routes abroad by 2025; no cable of more than 100 Tbps is known to carry its traffic.
 
 - Orange Liberia's chairman, who is also CEO of the Cable Consortium of Liberia, said its fibre link to Cote d'Ivoire let Liberia keep 100% of its international internet traffic during a four-day ACE cable outage, the link connecting to six other undersea cables via Cote d'Ivoire ([source, 2025-05](https://www.liberianobserver.com/news/orange-liberia-celebrates-completion-of-ace-fiber-rerouting/article_7e13b2a8-da30-46a6-8b9b-68f96d819ff1.html)).
-
-### Madagascar: 3 Established
-
-Two or more fibre routes abroad by 2023; no source found says whether two are independent of each other.
-
-- Telma (AXIAN Telecom press release, 10 February 2023) states Madagascar has three existing international subsea cables, EASSy, LION and METISS, all reaching the country through Telma's national backbone; landing stations are not named for these three ([source, 2023-02-10](https://www.axian-telecom.com/ac-content/uploads/2023/02/AXIAN-Telecom-Press-release-2Africa-landing-in-Madagascar-VA.pdf)).
 
 ### Malawi: 3 Established
 
@@ -277,6 +286,13 @@ Two or more fibre routes abroad by 2026; no source found says whether two are in
 
 - The Conversation (analysis) states Morocco, the only African country with both Atlantic and Mediterranean coasts, is connected to about ten submarine cables including Africa-1 and 2Africa; landing stations are not named. Dated to the article's publication date as it gives none ([source, 2026-08-09](https://theconversation.com/le-maroc-futur-leader-continental-africain-des-data-centers-et-de-lia-288658)).
 
+### Rwanda: 3 Established
+
+Three fibre routes abroad through Tanzania and Kenya by 2024; no cable of more than 100 Tbps is known to carry its traffic.
+
+- The AIPI investor guidebook states Rwanda has 3 international fibre optic routes giving connectivity to the SEACOM undersea cable, connected via Tanzania and Kenya ([source, 2024-03-27](https://aipi.rw/wp-content/uploads/2024/03/IT-INVESTOR-GUIDEBOOK.pdf)).
+- Paratus Group says its 2,000km G2M terrestrial fibre route from Mombasa (Kenya) to Goma (DRC) via Nairobi, Kampala (Uganda) and Kigali (Rwanda) was switched on and is carrying traffic for its first wholesale customers, linking inland markets including Rwanda to coastal subsea cable capacity (vendor press release, republished by ITWeb Africa; as_of is the publication date, which the document gives as the switch-on date) ([source, 2026-02-09](https://itweb.africa/article/paratus-lights-up-new-east-africa-fibre-highway-linking-goma-to-mombasa/wbrpOqg2aJQMDLZn)).
+
 ### Senegal: 3 Established
 
 Two or more fibre routes abroad by 2025; no source found says whether two are independent of each other.
@@ -293,8 +309,9 @@ Two or more fibre routes abroad by 2026; no source found says whether two are in
 
 ### Sudan: 3 Established
 
-Two or more fibre routes abroad by 2026; no source found says whether two are independent of each other.
+Cables at Port Sudan and land links to four neighbours by 2024; no cable of more than 100 Tbps is known to carry its traffic.
 
+- Internet Society Pulse says Sudan has terrestrial fibre links to Ethiopia, Egypt, South Sudan and Chad and submarine cable links via Port Sudan ([source, 2024-03-12](https://pulse.internetsociety.org/en/blog/2024/03/chads-recent-outages-highlight-resiliency-gaps/)).
 - DCD states Port Sudan connects several cables to the Middle East and Europe (no names given) ([source, 2026-02-11](https://www.datacenterdynamics.com/en/news/ethio-telecom-djibouti-telecom-and-sudatel-group-sign-strategic-fiber-agreement/)).
 - Djibouti Telecom's CEO said at the 4 Feb 2026 signing that existing submarine cables run between Port Sudan and Jeddah (Saudi Arabia); plural cables, Port Sudan the only station named ([source, 2026-02-04](https://www.lanation.dj/djibouti-telecom-ethio-telecomet-sudatel-telecom-group-signent-un-accord-strategique-pour-linitiative-horizon-fiber/)).
 
@@ -309,12 +326,6 @@ Two or more fibre routes abroad by 2025; no source found says whether two are in
 Two independent fibre routes abroad by 2025, through Kenya and Tanzania; no high-capacity cable is known to carry its traffic.
 
 - Xalam Analytics states Uganda's landlocked wholesale connectivity runs through a small number of routes, primarily Seacom and EASSY cables via Tanzania and Kenya ([source, 2025-07](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Uganda.pdf)).
-
-### Zambia: 3 Established
-
-Two independent fibre routes abroad by 2026; no cable of more than 100 Tbps is known to carry its traffic.
-
-- Zambia's Minister of Technology and Science, Felix Mutati, said at the Chanida-Cassacatiza commissioning that Zambia now has fibre links to eight neighbouring countries (added by the parent from the same document) ([source, 2026-02-23](https://clubofmozambique.com/news/zambia-and-mozambique-launch-fibre-optic-interconnector/)).
 
 ### Chad: 2 Nascent
 
@@ -356,6 +367,7 @@ One fibre route abroad in service by 2025; no second route is known.
 One fibre route abroad in service by 2026; no second route is known.
 
 - Agence Ecofin says Mauritania has been connected to the ACE cable since 2011 and still depends heavily on it, with no fully operational alternative, so ACE outages disrupt internet nationwide; ACE is the single route in service ([source, 2026-05](https://www.agenceecofin.com/actualites-numerique/0505-138141-internet-la-mauritanie-amorce-le-deploiement-de-son-deuxieme-cable-sous-marin)).
+- Ecofin Agency says the ACE submarine cable has connected Mauritania since 2011 and the country still depends heavily on this single system for international connectivity; a second cable began coastal installation on 4 May 2026 with service expected in January 2027 ([source, 2026-05-05](https://www.ecofinagency.com/news-digital/0505-55269-mauritania-expands-internet-capacity-with-new-undersea-cable-project)).
 - DatacenterDynamics reports that only one subsea cable currently lands in Mauritania, the ACE system at Nouakchott, in which International Mauritania Telecom is the Mauritanian participant ([source, 2025-07-30](https://www.datacenterdynamics.com/en/news/ellalink-to-expand-subsea-cable-to-mauritania/)).
 
 ### Niger: 2 Nascent
@@ -363,12 +375,6 @@ One fibre route abroad in service by 2026; no second route is known.
 One fibre route abroad in service by 2022; no second route is known.
 
 - Maroc Telecom's 5,700 km transafrican terrestrial cable from Morocco to Niger via Mauritania, Mali and Burkina Faso, recorded as completed in 2022, lets Moov Africa Niger connect to international bandwidth via the Maroc Telecom network (deal record for the e& financing; the record's own 'Connects to submarine cable at CIV and TGO' note is not a Niger landing) ([source, 2022](https://leseco.ma/business/maroc-telecom-plus-de-454-mmdh-investis-en-afrique.html)).
-
-### Rwanda: 2 Nascent
-
-One fibre route abroad in service by 2026; no second route is known.
-
-- Paratus Group says its 2,000km G2M terrestrial fibre route from Mombasa (Kenya) to Goma (DRC) via Nairobi, Kampala (Uganda) and Kigali (Rwanda) was switched on and is carrying traffic for its first wholesale customers, linking inland markets including Rwanda to coastal subsea cable capacity (vendor press release, republished by ITWeb Africa; as_of is the publication date, which the document gives as the switch-on date) ([source, 2026-02-09](https://itweb.africa/article/paratus-lights-up-new-east-africa-fibre-highway-linking-goma-to-mombasa/wbrpOqg2aJQMDLZn)).
 
 ### Sao Tome and Principe: 2 Nascent
 

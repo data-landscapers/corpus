@@ -1,0 +1,34 @@
+{
+ "slug": "2026-05-03-cod-la-rdc-veut-renforcer-ses-moyens-de-connectivite-internet-internationa",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Agence Ecofin reports that DR Congo depends on two submarine cables, WACS connected in 2013 and 2Africa, which landed in September 2023 and was put in service in December 2025 by Airtel RDC at 200 Gb/s.",
+   "as_of": "2025-12",
+   "date_precision": "month",
+   "system": "WACS and 2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "WACS",
+   "country_label": "DR Congo",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "DR Congo",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "Airtel RDC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

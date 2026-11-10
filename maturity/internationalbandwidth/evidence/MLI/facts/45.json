@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-03-gin-guinea-and-mali-agree-to-interconnect-fibre-networks",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Developing Telecoms reports that landlocked Mali relies on coastal partners like Guinea for access to international bandwidth.",
+   "as_of": "2024-07-03",
+   "date_precision": "day",
+   "system": "Fibre links to coastal neighbours",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

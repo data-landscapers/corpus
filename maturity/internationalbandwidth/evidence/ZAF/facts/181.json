@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-23-moz-2024-east-africa-submarine-cable-outage-report",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Internet Society's report lists nine submarine cables for South Africa (ACE, EASSy, Equiano, METISS, SEACOM, SAFE, SAT-3, T3, WACS) and terrestrial links to five neighbours.",
+   "as_of": "2024-07-23",
+   "date_precision": "day",
+   "system": "South Africa submarine cables",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

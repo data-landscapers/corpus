@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-13-ben-csquared-adds-2africa-west-capacity-to-strengthen-regional-internet-re",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "CSquared names Accra as a cable landing station and says its architecture reaches Ghana with Equiano, which lands in Nigeria and Togo, over its terrestrial backbone.",
+   "as_of": "2026-07-13",
+   "date_precision": "day",
+   "system": "Accra landing station; Equiano",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

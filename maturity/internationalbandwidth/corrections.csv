@@ -45,3 +45,5 @@ TZA,013,access,open,removed,"the same Paratus PoP offer as TZA-012: IP transit a
 SSD,002,routes,one,removed,"a general line on terrestrial links to neighbours, naming no route beyond the Uganda link SSD-001 holds; counted as a second route it would stage two routes on one"
 AGO,017,routes,one,revalued: independent,"Stage 4c: the same interview sets the Santa Clara-Ondjiva land link to Namibia beside the cables landing in Luanda, so a cable and a land route share no landing station, as NAM-015"
 COG,010,routes,two,revalued: independent,"Stage 4c: the minister names fibre links to five neighbours beside the 2Africa landing at Pointe-Noire, so a cable and a land route share no landing station, as NAM-015"
+GAB,008,access,open,removed,"open access stated of the 2Africa cable as a whole, not of a landing station or sale in this country (stage 4c 2026-11-10, as SEN-002)"
+LBY,003,access,open,removed,"open access stated of the Medusa cable as a whole, not of a landing station or sale in this country (stage 4c 2026-11-10, as SEN-002)"

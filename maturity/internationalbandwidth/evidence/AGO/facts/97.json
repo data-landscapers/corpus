@@ -1,0 +1,50 @@
+{
+ "slug": "2025-11-24-ago-conectividade-especialista-defende-descentralizacao-da-internet-em-ang",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Analyst Darwin Costa says most of Angola's international submarine cables, SAT-3/WACS, WACS and SACS, land in the Luanda region at Cacuaco or Sangano, with 2Africa still to come.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "SAT-3/WACS; WACS; SACS",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SAT-3/WACS",
+   "country_label": "SAT-3/WACS",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SACS",
+   "country_label": "SACS",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "2Africa",
+   "country_label": "2Africa (future landing)",
+   "class": "other",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Open access at landing stations is only suggested; no sale of capacity is stated."
+}

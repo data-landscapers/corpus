@@ -1,16 +1,17 @@
 {
- "iso3": "MRT",
- "cells": [
-  {
-   "sub_indicator": "routes",
-   "stage": "2",
-   "routes": "one",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MRT-001;MRT-004",
-   "gaps": "No source found names a second international fibre route in service.",
-   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
-  }
- ]
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "routes",
+      "stage": "2",
+      "routes": "one",
+      "access": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-001;MRT-009;MRT-004",
+      "gaps": "No source found names a second international fibre route in service. Maroc Telecom and Moov Mauritel's catalogue say a West Africa Cable station at Nouadhibou was commissioned in 2025 (MRT-010, MRT-011), but Ecofin in May 2026 says ACE is still the single system (MRT-001, MRT-009); the newer stands.",
+      "note": "Reassessed 2026-11-10: ACE is the one route in service on the May 2026 sources, which outdate the 2025 statements of a West Africa Cable landing, so stage 2.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-COG,routes,routes,coverage,two,2026-05-25,COG-004;COG-005;COG-006;COG-008;COG-009;COG-010,COG-002=one;COG-003=one;COG-007=one;COG-001=one,
+COG,routes,routes,coverage,independent,2026-02-12,COG-010;COG-012;COG-013,COG-011=one;COG-006=two;COG-002=one;COG-014=two;COG-015=one;COG-016=two;COG-003=one;COG-004=two;COG-005=two;COG-007=one;COG-017=two;COG-008=two;COG-009=two;COG-001=one,
 COG,routes,access,coverage,,,,,nothing found

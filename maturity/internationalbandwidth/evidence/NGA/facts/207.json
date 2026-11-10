@@ -1,0 +1,36 @@
+{
+ "slug": "2026-07-13-ben-csquared-adds-2africa-west-capacity-to-strengthen-regional-internet-re",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "CSquared says the Equiano system lands in Nigeria and names Lagos as a cable landing station; the 2Africa West capacity it launched is commercially available on selected priority routes.",
+   "as_of": "2026-07-13",
+   "date_precision": "day",
+   "system": "Equiano",
+   "class": "route"
+  },
+  {
+   "sub_indicator": "routes",
+   "aspect": "access",
+   "value": "open",
+   "fact": "CSquared, a neutral open-access wholesale infrastructure company, says operators gain access to its Equiano and 2Africa West capacity.",
+   "as_of": "2026-07-13",
+   "date_precision": "day",
+   "system": "Equiano; 2Africa West",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Equiano",
+   "country_label": "Equiano",
+   "class": "route",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

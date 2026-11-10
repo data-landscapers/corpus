@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-27-ken-bayobab-kenya-to-boost-connectivity-with-mombasa-to-malaba-fibre-proje",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Bayobab says its open-access fibre from Mombasa runs to the Kenya-Uganda border and interconnects into Uganda for onward connectivity, linking landlocked countries to the subsea cables at Mombasa; the release is dated 2024-08-27.",
+   "as_of": "2024-08-27",
+   "date_precision": "day",
+   "system": "Bayobab Kenya Mombasa-Malaba-Busia fibre",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

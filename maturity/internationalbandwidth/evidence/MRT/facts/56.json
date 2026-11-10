@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-05-mrt-mauritania-begins-deployment-of-second-undersea-cable",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Ecofin Agency says the ACE submarine cable has connected Mauritania since 2011 and the country still depends heavily on this single system for international connectivity; a second cable began coastal installation on 4 May 2026 with service expected in January 2027.",
+   "as_of": "2026-05-05",
+   "date_precision": "day",
+   "system": "ACE submarine cable",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

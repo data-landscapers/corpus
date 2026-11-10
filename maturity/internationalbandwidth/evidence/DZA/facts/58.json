@@ -1,0 +1,34 @@
+{
+ "slug": "2024-11-20-dza-evolution-de-linfrastructure-de-transport-ip-dalgerie-telecom",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "Algerie Telecom's deck lists submarine routes from Oran (Oran-Valence), Algiers (Alger-Valence, Alger-Palma) and Annaba (SMW4 to Marseille and Palermo), plus MEDEX and an underground land cable from El Kala to Tabarka in Tunisia, with international gateway POPs at Algiers (since 2001), Annaba (2010) and Oran (2012).",
+   "as_of": "2024-11-20",
+   "date_precision": "day",
+   "system": "SMW4; MEDEX; Oran-Valence; Alger-Valence; Alger-Palma; El Kala-Tabarka",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "SMW4",
+   "country_label": "Algeria",
+   "class": "route",
+   "platform": "",
+   "owner": "Algerie Telecom",
+   "tiers": ""
+  },
+  {
+   "system": "El Kala-Tabarka land cable",
+   "country_label": "Algeria",
+   "class": "route",
+   "platform": "",
+   "owner": "Algerie Telecom",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

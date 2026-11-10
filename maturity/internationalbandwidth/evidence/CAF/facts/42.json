@@ -1,0 +1,17 @@
+{
+ "slug": "2026-03-18-caf-vandalism-threatens-central-african-republic-s-fragile-fiber-network",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "independent",
+   "fact": "Ecofin Agency reports that CAR's roughly 935 km fibre links it with the Republic of Congo and Cameroon as its gateway to international connectivity, with Camtel providing international connectivity and the ministry reporting damage on 13 March 2026.",
+   "as_of": "2026-03-13",
+   "date_precision": "day",
+   "system": "Central African Backbone (CAB)",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-13-ben-csquared-adds-2africa-west-capacity-to-strengthen-regional-internet-re",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "CSquared names Abidjan as one of the coastal cable landing stations concentrating West Africa's international connectivity and reports subsea cuts near Cote d'Ivoire in March 2024 and June 2026.",
+   "as_of": "2026-06",
+   "date_precision": "month",
+   "system": "Abidjan landing station",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

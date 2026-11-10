@@ -1,0 +1,58 @@
+{
+ "slug": "2026-04-29-ago-angola-launches-national-data-center-to-support-digital-strategy",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "Ecofin Agency says Angola's 2Africa cable is activated and the country is already connected to four other cables, WACS, UNSC, SACS and SAT-3/WASC; it does not say whether their landing stations differ.",
+   "as_of": "2026-04-29",
+   "date_precision": "day",
+   "system": "2Africa; WACS; UNSC; SACS; SAT-3/WASC",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "2Africa",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "WACS",
+   "country_label": "WACS",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "UNSC",
+   "country_label": "UNSC",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SACS",
+   "country_label": "SACS",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  },
+  {
+   "system": "SAT-3/WASC",
+   "country_label": "SAT-3/WASC",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

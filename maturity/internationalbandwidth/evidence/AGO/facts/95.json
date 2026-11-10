@@ -1,0 +1,26 @@
+{
+ "slug": "2025-12-22-ago-unitel-e-o-cabo-submarino-2africa",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "AAI says the 2Africa cable, designed for up to 180 Tbps, has operated since July 2025 and lands at Cacuaco, Luanda, where UNITEL built the landing station CLS1; the cable was inaugurated on 12 December 2025.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "2Africa",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "2Africa",
+   "country_label": "Angola",
+   "class": "route",
+   "platform": "submarine cable",
+   "owner": "UNITEL (Angolan participant)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

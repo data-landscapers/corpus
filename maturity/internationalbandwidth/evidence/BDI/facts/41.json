@@ -1,0 +1,17 @@
+{
+ "slug": "2024-07-23-moz-2024-east-africa-submarine-cable-outage-report",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Internet Society's report lists no submarine cable for Burundi, terrestrial cross-border links to the Democratic Republic of Congo, Rwanda and Tanzania, and says Burundi relies mainly on SEACOM and EASSy for cloud access in South Africa.",
+   "as_of": "2024-07-23",
+   "date_precision": "day",
+   "system": "cross-border terrestrial links",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
