@@ -3,9 +3,9 @@ title: Liberia — News, Oct – Nov 2026
 compiled: 2026-11-10
 period: 2026-10-01 to 2026-11-10
 place: LBR
-ledger_rows: 23
+ledger_rows: 24
 not_held: 6
-record: 15a129fc271b
+record: 6f39fdb1d6df
 ---
 
 # News, Oct – Nov 2026
@@ -32,6 +32,8 @@ record: 15a129fc271b
 <a href="#legislation-and-regulation">Legislation and regulation</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#regional-collaboration">Regional collaboration</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#standards">Standards</a>
 </nav>
 
 ### Legislation and regulation
@@ -105,6 +107,22 @@ Summarised under [Regional collaboration](#regional-collaboration).
 **[LIBERIA JOINS SMART AFRICA ALLIANCE AS 43RD MEMBER, ADVANCING PRESIDENT BOAKAI’S DIGITAL TRANSFORMATION AGENDA](https://emansion.gov.lr/index.php/media/press-release/liberia-joins-smart-africa-alliance-43rd-member-advancing-president-boakais)** — The Executive Mansion, Liberia, 22 October 2026
 
 Liberia became the 43rd member of the Smart Africa Alliance, the admission completed by a delegation led by Minister of State for Presidential Affairs Samuel Stevquoah on the margins of the Global AI and Digital Summit in Seoul. The Executive Mansion presented it as part of President Boakai's digital agenda, pointing to training through the Smart Africa Digital Academy.
+
+</div>
+
+</div>
+
+### Standards
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Liberia Standards Authority</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ISO - LiSA - Liberia Standards Authority](https://www.iso.org/member/11464839.html)** — International Organization for Standardization, 10 November 2026
+
+The International Organization for Standardization lists the Liberia Standards Authority (LiSA) as a correspondent member, as read on 10 November 2026. ISO's page says LiSA was established by law in 2022 and began operating in 2024.
 
 </div>
 
