@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "international",
-      "stage": "unplaced",
-      "standing": "",
+      "stage": "2",
+      "standing": "member",
       "use": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "No source names the standards body as a member of ISO or IEC, so question 1 is unanswered and no rung is set. NITA-U's 2026 policy requiring ISO/IEC 27001:2022 of public bodies (UGA-001) would answer question 3, and no row names a national adoption.",
-      "note": "Restaged 2026-11-09 on Bill's ruling (message 112): each question must be answered on its own evidence. The 2026 policy no longer answers questions 1 and 2, and with no membership on record no rung is set.",
-      "as_at": "2026-11-09"
+      "stage_sources": "UGA-002",
+      "gaps": "No source found names an international standard on information technology or data adopted as a national standard, so question 2 is unanswered. NITA-U's 2026 policy requiring ISO/IEC 27001:2022 of public bodies (UGA-001) would answer question 3.",
+      "note": "ISO's member page lists the Uganda National Bureau of Standards as Uganda's member, which answers question 1. No row names an adopted national standard, so question 2 is unanswered and the 2026 policy cannot lift it past 2.",
+      "as_at": "2026-11-10"
     }
   ]
 }

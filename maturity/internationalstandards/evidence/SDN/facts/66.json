@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-09-sdn-iso-member-ssmo",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "ISO's member page lists the Sudanese Standards and Metrology Organization as Sudan's ISO member body and an affiliate member of IEC, with 37 participating and 10 observing technical-committee memberships.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "SSMO",
+   "class": "adoption"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Sudanese Standards and Metrology Organization (SSMO)",
+   "country_label": "SSMO",
+   "class": "adoption",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

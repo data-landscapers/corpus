@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-09-mus-iso-member-msb",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "ISO's member page lists the Mauritius Standards Bureau as Mauritius's member body, with 34 participating and 28 observing technical-committee memberships.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "Mauritius Standards Bureau",
+   "class": "adoption"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mauritius Standards Bureau",
+   "country_label": "MSB",
+   "class": "adoption",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

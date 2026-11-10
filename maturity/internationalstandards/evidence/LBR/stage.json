@@ -8,10 +8,10 @@
       "use": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LBR-001",
+      "stage_sources": "LBR-002;LBR-001",
       "gaps": "No source found names an international standard on information technology or data adopted as a national standard.",
-      "note": "The Liberia Standards Authority gained correspondent membership of ISO in October 2025, which answers question 1. No row names an international standard on information technology or data adopted as a national one, so question 2 is unanswered.",
-      "as_at": "2026-11-09"
+      "note": "The Liberia Standards Authority gained correspondent membership of ISO in October 2025 and full membership was announced in November 2025, which answers question 1. No row names an international standard on information technology or data adopted as a national one, so question 2 is unanswered.",
+      "as_at": "2026-11-10"
     }
   ]
 }

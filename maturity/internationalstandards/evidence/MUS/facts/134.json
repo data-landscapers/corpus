@@ -1,0 +1,17 @@
+{
+ "slug": "2026-07-29-mus-ict-minister-calls-for-stronger-cybersecurity-for-postal-sector",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Minister Avinash Ramtohul recalls that Mauritius has adopted the ISO/IEC 27001 information security standard and urges Mauritius Post Ltd to implement it.",
+   "as_of": "2026-07-29",
+   "date_precision": "day",
+   "system": "ISO/IEC 27001",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": "The adopting standards body is not named."
+}

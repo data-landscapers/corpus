@@ -1,2 +1,3 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
 CIV-001,CIV,international,standing,member,ISO's member page lists CODINORM as a Member body for Cote d'Ivoire.,2026,year,CODINORM,adoption,2026-01-01-civ-iso-member-codinorm,https://www.iso.org/member/1674.html
+CIV-002,CIV,international,use,writes,"The ISO/IEC JTC 1 participation page, captured May 2026, lists CODINORM of Cote d'Ivoire as a participating member of JTC 1, Information technology.",2026-05,month,ISO/IEC JTC 1,adoption,2026-05-01-zmb-iso-iec-jtc-1-information-technology-participation,http://iso.org/committee/45020.html?view=participation

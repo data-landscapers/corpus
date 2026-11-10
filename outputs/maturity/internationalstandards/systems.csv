@@ -31,6 +31,7 @@ COM,Data Center de l'Administration publique,"Public administration data centre,
 DJI,ADN,Agence Djiboutienne des Normes et de la Qualité,adoption,,ADN,,2026-01-01-dji-iso-member-adn
 DZA,Institut Algérien de Normalisation (IANOR),Institut Algérien de Normalisation (IANOR),adoption,,Institut Algérien de Normalisation (IANOR),,2026-02-01-dza-ianor-projet-programme-national-normalisation-2026
 DZA,Centre national algérien des services numériques (Mohammadia),"national digital services centre, data centre said to be designed to unnamed international standards",other,Huawei-led consortium; active-active architecture,High Commission for Digitalisation,national,2026-07-05-dza-elwatan-centre-national-services-numeriques
+DZA,Institut Algerien de Normalisation (IANOR),IANOR,adoption,,,,2026-11-09-dza-iso-member-ianor
 EGY,"Agricultural Bank of Egypt data centre, Dokki",Tier 3 data centre with Uptime Institute design certification (a certificate; not an adopted standard or a rule),other,,Agricultural Bank of Egypt,,2022-06-28-safqa-agricultural-bank-of-egypt-tier-iii-data-centre-raya-it
 EGY,EOS,Egyptian Organization for Standardization and Quality,adoption,,EOS,,2026-01-01-egy-iso-member-eos
 ERI,Eritel,Eritrea Telecommunication Services Corporation Share Company; document says it sets standards and ensures compliance with international standards (no standard named),other,,,,2022-01-01-uneca-dtri-eritrea-digital-trade-regulatory-country-profile
@@ -71,6 +72,7 @@ MRT,Stratégie nationale de transition IPv6,Stratégie nationale de transition v
 MUS,Mauritius Standards Bureau (MSB),Mauritius Standards Bureau (MSB),adoption,,Mauritius Standards Bureau (MSB),,2025-12-31-msb-isms-registered-firms-list
 MUS,TM Forum MODaaS certification framework (GB1087),"industry certification framework for AI model operations, co-chaired by Mauritius Telecom; not an ISO, IEC or ITU standard",other,,TM Forum,,2026-07-20-mauritius-telecom-tm-forum-modaas-telecomtv
 MUS,Mauritius AI Registry,"discovery layer for sovereign AI resources (models, agents, skills), part of Mauritius Telecom's sovereign AI programme",other,,Mauritius Telecom,,2026-07-20-mauritius-telecom-tm-forum-modaas-telecomtv
+MUS,Mauritius Standards Bureau,MSB,adoption,,,,2026-11-09-mus-iso-member-msb
 MWI,NRIS,National Registration and Identification System; biometric ID system listing ISO/IEC 19794 and 19785 data formats it supports,other,,National Registration Bureau,,2025-09-01-mwi-nrb-strategic-plan-2025-2030
 NAM,Electronic Signature Regulations (Government Notice No. 335 of 2025),"regulations under the Electronic Transactions Act, 2019, defining international standards ITU-T X.509 (2019) and ISO/IEC 9594-8:2020/Cor 2:2024 for electronic signatures; the captured text states no requirement on public bodies to comply",other,,Ministry of Information and Communication Technology,,2025-12-19-namibia-electronic-signature-regulations-gazette-8814
 NAM,DigiNam / National Public Key Infrastructure (NPKI),"DigiNam, national PKI and Root Certification Authority run by CRAN",other,,Communications Regulatory Authority of Namibia (CRAN),"citizens, businesses, government institutions",2026-10-04-nam-marketwatch-namibia-strengthens-digital-trust
@@ -92,6 +94,7 @@ RWA,Smart Africa Data Exchange (SADX),"SADX, a regional cross-border data exchan
 SDN,Sudanese Standards and Metrology Organization (SSMO),Sudanese Standards and Metrology Organization (SSMO),adoption,,Sudanese Standards and Metrology Organization (SSMO),,2026-08-29-ssmo-national-standards-catalogue
 SDN,Cybersecurity Framework for Banks and Financial Institutions,"Central Bank of Sudan regulatory framework (January 2026) for banks and financial institutions, a sector rule",other,,Central Bank of Sudan,banks and financial institutions,2026-01-01-cbos-cybersecurity-framework-banks
 SDN,ICAO Public Key Directory country signing certificate,Sudan's sovereign e-passport signing certificate deposited in the ICAO PKD,other,,Sudanese Cybersecurity Authority,,2026-02-15-sca-icao-pkd-certificate-deposit
+SDN,Sudanese Standards and Metrology Organization (SSMO),SSMO,adoption,,,,2026-11-09-sdn-iso-member-ssmo
 SEN,ISO 27001 certification (Sonatel),Sonatel information security management certificate,other,,Sonatel,,2022-08-23-sonatel-label-et-certifications-datacenter-uptime-iso-27001
 SEN,Uptime Institute Tier Certification TCCD/TCCF,Sonatel data centre tier certificate,other,,Sonatel,,2022-08-23-sonatel-label-et-certifications-datacenter-uptime-iso-27001
 SEN,ASN mirror committee ISO/IEC JTC1 Technologies de l'information,Comité miroir ISO/IEC JTC1,other,,ASN,,2025-01-01-asn-catalogue-normes-senegalaises-2025
@@ -108,6 +111,7 @@ SSD,Type approval and type acceptance,"National Communications Standards, Specif
 STP,Service National de la Propriété Intellectuelle et de la Qualité (SENAPIQ-STP),Service National de la Propriété Intellectuelle et de la Qualité (SENAPIQ-STP),adoption,,Service National de la Propriété Intellectuelle et de la Qualité (SENAPIQ-STP),,2026-01-01-iso-senapiq-stp-correspondent-member-sao-tome
 SWZ,National Addressing Standards pilot (Mbabane),National Street Addressing and House Numbering Programme,other,,Municipal Council of Mbabane,municipal,2026-07-23-mbabane-national-addressing-pilot
 SWZ,National Addressing Standards pilot (Ezulwini),National Addressing Standards,other,,Ezulwini Municipality,municipal,2026-07-20-ezulwini-national-addressing-pilot
+SWZ,Eswatini Standards Authority (ESWASA),ESWASA,adoption,,,,2026-11-09-swz-iso-member-eswasa
 SYC,ISO 20022 payment messaging,"Payments moved from SWIFT MT to the ISO 20022 message format from 22 November 2025, per a joint Central Bank of Seychelles and Seychelles Bankers Association notice",other,SWIFT network,Central Bank of Seychelles; commercial banks,central bank and commercial banks,2025-04-14-cbs-sba-iso-20022-transition-notice
 TCD,ATNOR-AFNOR cooperation protocol,protocole d accord de cooperation ATNOR-AFNOR signed 25 March 2026 to align Chad standardisation on international standards,other,,ATNOR,,2026-03-27-manara-atnor-afnor-protocole-accord-cooperation-normalisation
 TUN,"HIMSS EMRAM, CCMM, INFRAM, DIAM, AMAM",HIMSS maturity models proposed as benchmarks for the hospital information system assessment,other,,HIMSS,three public hospitals,2024-04-15-tun-assessing-the-maturity-level-of-the-hospital-information-system-in-sel
@@ -135,3 +139,4 @@ ZMB,EITI Standard 2023 (Zambia EITI validation),"Extractive Industries Transpare
 ZWE,Standards Association of Zimbabwe (SAZ),Standards Association of Zimbabwe (SAZ),adoption,,Standards Association of Zimbabwe (SAZ),,2026-02-01-zwe-saz-accreditations-iso27001
 ZWE,Standards Association of Zimbabwe (SAZ),Standards Association of Zimbabwe (SAZ),other,,Standards Association of Zimbabwe (SAZ),,2025-03-01-zwe-saz-standards-catalogue
 ZWE,ARSO adoptions,ARSO adoptions (regional standards body section of the catalogue),other,,African Organisation for Standardisation,,2025-03-01-zwe-saz-standards-catalogue
+ZWE,Standards Association of Zimbabwe (SAZ),SAZ,adoption,,,,2026-11-09-zwe-iso-member-saz

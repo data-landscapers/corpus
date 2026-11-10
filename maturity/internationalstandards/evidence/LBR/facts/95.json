@@ -1,0 +1,17 @@
+{
+ "slug": "2025-11-14-lbr-liberianobserver-lsa-full-iso-membership",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "Liberian Observer reports Liberia Standards Authority Director General Stephen Y. Mambu announced that Liberia is now a full member of ISO.",
+   "as_of": "2025-11",
+   "date_precision": "month",
+   "system": "Liberia Standards Authority",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2025-04-01-uga-iso-unbs-uganda-national-bureau-of-standards",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "ISO's member page lists the Uganda National Bureau of Standards as Uganda's ISO member.",
+   "as_of": "2025-04",
+   "date_precision": "month",
+   "system": "Uganda National Bureau of Standards",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

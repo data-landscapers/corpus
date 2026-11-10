@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+ZMB-001,ZMB,international,use,writes,"The ISO/IEC JTC 1 participation page, captured May 2026, lists ZABS of Zambia as a participating member of JTC 1, Information technology.",2026-05,month,ISO/IEC JTC 1,adoption,2026-05-01-zmb-iso-iec-jtc-1-information-technology-participation,http://iso.org/committee/45020.html?view=participation

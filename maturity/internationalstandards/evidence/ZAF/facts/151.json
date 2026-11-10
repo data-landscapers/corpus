@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-01-zmb-iso-iec-jtc-1-information-technology-participation",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "use",
+   "value": "writes",
+   "fact": "The ISO/IEC JTC 1 participation page, captured May 2026, lists SABS of South Africa as a participating member of JTC 1, Information technology.",
+   "as_of": "2026-05",
+   "date_precision": "month",
+   "system": "ISO/IEC JTC 1",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

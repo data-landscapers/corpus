@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-22-som-somalia-trade-standards",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "The US International Trade Administration says the Somali Bureau of Standards is a member of ISO and an IEC affiliate.",
+   "as_of": "2023-05",
+   "date_precision": "month",
+   "system": "Somali Bureau of Standards",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

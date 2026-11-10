@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "international",
-      "stage": "unplaced",
-      "standing": "",
+      "stage": "3",
+      "standing": "adopted",
       "use": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "No source names the standards body as a member of ISO or IEC, so question 1 is unanswered and no rung is set. The national adoption of the SZNS ISO standards on metadata, records and addressing (SWZ-001, SWZ-002) would answer question 2.",
-      "note": "Restaged 2026-11-09 on Bill's ruling (message 112): each question must be answered on its own evidence. The authority's SZNS ISO standards answer question 2 but no longer answer question 1, and with no membership on record no rung is set.",
-      "as_at": "2026-11-09"
+      "stage_sources": "SWZ-003;SWZ-002;SWZ-001",
+      "gaps": "No source found names a law, decree, regulation, directive or circular requiring public bodies to meet a named international standard on information technology or data.",
+      "note": "ISO's member page lists the Eswatini Standards Authority as a correspondent member, which answers question 1, and the SZNS ISO standards on addressing, metadata and records answer question 2. No row names a rule requiring public bodies to meet one, so question 3 is unanswered.",
+      "as_at": "2026-11-10"
     }
   ]
 }

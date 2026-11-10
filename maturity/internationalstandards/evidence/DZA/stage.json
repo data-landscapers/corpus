@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "international",
-      "stage": "unplaced",
-      "standing": "",
+      "stage": "3",
+      "standing": "adopted",
       "use": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "No source names the standards body as a member of ISO or IEC, so question 1 is unanswered and no rung is set. The national adoption of NA ISO/IEC 14651 (DZA-001) would answer question 2.",
-      "note": "Restaged 2026-11-09 on Bill's ruling (message 112): each question must be answered on its own evidence. IANOR's listing of NA ISO/IEC 14651 answers question 2 but no longer answers question 1, and with no membership on record no rung is set.",
-      "as_at": "2026-11-09"
+      "stage_sources": "DZA-002;DZA-001",
+      "gaps": "No source found names a law, decree, regulation, directive or circular requiring public bodies to meet a named international standard on information technology or data.",
+      "note": "ISO's member page lists IANOR as Algeria's member body, which answers question 1, and the national standard NA ISO/IEC 14651 answers question 2. No row names a rule requiring public bodies to meet such a standard, so question 3 is unanswered.",
+      "as_at": "2026-11-10"
     }
   ]
 }

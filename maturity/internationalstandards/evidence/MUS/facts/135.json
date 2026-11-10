@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-30-mus-list-of-msb-registered-firms-as-at-30-june-2026",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Mauritius Standards Bureau's register as at 30 June 2026 lists 11 organisations certified to MS ISO/IEC 27001:2022, an information security standard held as a Mauritian national standard.",
+   "as_of": "2026-06-30",
+   "date_precision": "day",
+   "system": "MS ISO/IEC 27001:2022 under the MSB National ISMS Certification Scheme",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

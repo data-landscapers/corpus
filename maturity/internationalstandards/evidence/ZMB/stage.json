@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "international",
-      "stage": "no evidence",
+      "stage": "unplaced",
       "standing": "",
       "use": "",
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found names the country's standards body as a member of ISO or IEC, or says it belongs to neither.",
-      "note": "No row names the standards body as a member of ISO or IEC, or says it belongs to neither. Question 1 is unanswered, so no rung is set.",
-      "as_at": "2026-11-09"
+      "gaps": "No source names the standards body as a member of ISO or IEC, or says it belongs to neither, so question 1 is unanswered and no rung is set. ZABS's participating seat on ISO/IEC JTC 1 (ZMB-001) would answer question 4.",
+      "note": "The only row is ZABS's participating seat on ISO/IEC JTC 1 in May 2026, which answers question 4 alone. With no membership on record no rung is set.",
+      "as_at": "2026-11-10"
     }
   ]
 }

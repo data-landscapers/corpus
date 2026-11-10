@@ -1,2 +1,3 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
 BFA-001,BFA,international,standing,member,ISO lists ABNORM as Burkina Faso's member body.,2026-10-16,day,ABNORM,adoption,2026-10-16-bfa-iso-member-abnorm,https://www.iso.org/member/269997.html
+BFA-002,BFA,international,use,writes,"The ISO/IEC JTC 1 participation page, captured May 2026, lists ABNORM of Burkina Faso as a participating member of JTC 1, Information technology.",2026-05,month,ISO/IEC JTC 1,adoption,2026-05-01-zmb-iso-iec-jtc-1-information-technology-participation,http://iso.org/committee/45020.html?view=participation

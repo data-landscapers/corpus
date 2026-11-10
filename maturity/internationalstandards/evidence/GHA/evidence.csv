@@ -1,2 +1,3 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
 GHA-001,GHA,international,standing,member,The IEC National Committee of Ghana says Ghana holds Associate Member status in the IEC.,2026,year,IEC National Committee of Ghana,adoption,2026-01-01-gha-iecncgh-iec-membership-status,https://iecncgh.org/international-affiliations/
+GHA-002,GHA,international,use,writes,"The ISO/IEC JTC 1 participation page, captured May 2026, lists GSA of Ghana as a participating member of JTC 1, Information technology.",2026-05,month,ISO/IEC JTC 1,adoption,2026-05-01-zmb-iso-iec-jtc-1-information-technology-participation,http://iso.org/committee/45020.html?view=participation

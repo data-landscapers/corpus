@@ -1,6 +1,6 @@
 # Adoption of international standards: international standards for information technology and data
 
-*As at 2026-11-09.*
+*As at 2026-11-10.*
 
 ## The norm
 
@@ -22,13 +22,28 @@ The African Continental Free Trade Area's annex on technical barriers to trade, 
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 0 |
-| 3 Established | 1 |
-| 2 Nascent | 37 |
+| 3 Established | 6 |
+| 2 Nascent | 38 |
 | 1 Absent | 0 |
-| Unplaced | 7 |
-| No evidence | 9 |
+| Unplaced | 2 |
+| No evidence | 8 |
 
 ## Countries
+
+### Algeria: 3 Established
+
+Algeria's standards institute is an ISO member body and holds a national standard taken from an ISO/IEC one; no rule binding public bodies is known.
+
+- ISO's member page lists IANOR, the Institut Algerien de Normalisation, as Algeria's member body, with 27 participating and 50 observing technical-committee memberships ([source, 2026-11-09](https://www.iso.org/member/1499.html)).
+- IANOR's draft national standardisation programme for 2026 lists, under revisions, the national standard NA ISO/IEC 14651 (NA 13037), on information technology string comparison and collation, to be brought up to ISO/IEC 14651:2025; the programme's publication date, February 2026, is its only date ([source, 2026-02](https://www.ianor.dz/wp-content/uploads/2026/02/PROJET-DE-PROGRAMME-NATIONAL-DE-NORMALISATION-2026.pdf)).
+
+### Eswatini: 3 Established
+
+Eswatini's standards authority is a correspondent member of ISO and adopted international addressing standards in 2026; no rule binding public bodies is known.
+
+- ISO's member page lists the Eswatini Standards Authority as Eswatini's ISO member body, saying the country is a correspondent member of ISO and an affiliate member of IEC ([source, 2026-11-09](https://www.iso.org/member/304927.html)).
+- The standards body launched SZNS ISO 19160-1:2015 and ISO 19160-2:2022 (addressing) as the Eswatini National Addressing Standards ([source, 2026-07-20](https://www.linkedin.com/posts/eswatini-standards-authority_improvingtheworldwelivein-eswasa-nationaladdressing-activity-7484866707195322368-8UQ2)).
+- The standards body's information-technology catalogue lists ISO 15836:2009 (Dublin Core metadata element set), ISO 15489-1:2001 and ISO 16175-1:2010 (records management) as SZNS national standards; the catalogue is undated, so the retrieval-date proxy 2026-08-29 is used ([source, 2026-08-29](https://estore.swasa.co.sz/product-category/information-technology/)).
 
 ### Gambia: 3 Established
 
@@ -36,6 +51,29 @@ The Gambia, a correspondent member of ISO, listed the international information 
 
 - The bureau's 2022 catalogue of national standards lists GAMS ISO/IEC 27001:2005, on information security management systems, as a Gambian Standard adopted from ISO; the catalogue is dated 2022 on its cover ([source, 2022](https://tgsb.gm/wp-content/uploads/2023/03/TGSB-STANDARDS-CATALOGUE-2022.pdf)).
 - ISO's member register lists The Gambia Standards Bureau as a correspondent member of ISO, with participating and observing seats on technical committees the page does not name; the page carries no date, so its published date 2026-09-03 is used ([source, 2026-09-03](https://www.iso.org/member/576505.html)).
+
+### Mauritius: 3 Established
+
+Mauritius's standards bureau is an ISO member body and made five ISO/IEC technology standards national ones in 2025; no rule binding public bodies is known.
+
+- ISO's member page lists the Mauritius Standards Bureau as Mauritius's member body, with 34 participating and 28 observing technical-committee memberships ([source, 2026-11-09](https://www.iso.org/member/1944.html)).
+- The Mauritius Standards Bureau lists ISO/IEC 22989:2022, 23894:2023, 42001:2023, 38507:2022 and 27403:2024 as Mauritian Standards published under Government Notice 119 of 25 January 2025 ([source, 2025-01-25](https://msb.intnet.mu/Documents/Standards/Published%20Mauritian%20Standards/Published%20Mauritian%20Standards%20in%202025.pdf)).
+- The Mauritius Standards Bureau's register as at 30 June 2026 lists 11 organisations certified to MS ISO/IEC 27001:2022, an information security standard held as a Mauritian national standard ([source, 2026-06-30](https://msb.intnet.mu/Documents/Certification-Schemes/General/Registered%20firms/Attachment%202%20-%20List%20of%20registered%20firms%20ISMS%2030-06-2026.pdf)).
+
+### Sudan: 3 Established
+
+Sudan's standards organisation is an ISO member body, with technology and records standards taken from ISO ones; no rule binding public bodies is known.
+
+- ISO's member page lists the Sudanese Standards and Metrology Organization as Sudan's ISO member body and an affiliate member of IEC, with 37 participating and 10 observing technical-committee memberships ([source, 2026-11-09](https://www.iso.org/member/2078.html)).
+- SSMO's catalogue of Sudanese Standards lists Sudanese Standard 4469:2018, an information technology standard on the yield of printer toner cartridges, as equivalent to ISO 19752:2017, and Sudanese Standard 1633-1:2015, on metadata for records, as equivalent to ISO 23081-1:2006 ([source, 2018](https://www.ssmo.gov.sd/Content/SectorDetails/783020af-a1ce-46f5-aaa1-525dd82ca005)).
+
+### Zimbabwe: 3 Established
+
+Zimbabwe's standards association is an ISO member body and made ISO/IEC security and AI standards national in 2026; no rule binding public bodies is known.
+
+- ISO's member page lists the Standards Association of Zimbabwe as Zimbabwe's ISO member body, with 39 participating and 35 observing technical-committee memberships ([source, 2026-11-09](https://www.iso.org/member/308829.html)).
+- The Standards Association of Zimbabwe lists as published in Q1 2026 national standards that are ISO/IEC identicals on information technology, including ZWS ISO/IEC 23894:2023 (AI risk management), 22989:2022 (AI concepts), 27017:2015 (cloud security controls) and 27037:2012 (digital evidence) ([source, 2026](https://www.saz.org.zw/wp-content/uploads/2026/10/Q1-published-standards-2026_-002.pdf)).
+- The Standards Association of Zimbabwe's accreditations page lists ZWS ISO/IEC 27001:2022, on information security management systems, as a Zimbabwe Standard; the page's content is updated to February 2026, which is used as the date ([source, 2026-02](https://www.saz.org.zw/accreditations-2/)).
 
 ### Angola: 2 Nascent
 
@@ -138,8 +176,9 @@ Kenya's standards bureau was a member body of ISO in 2026; no international stan
 
 ### Liberia: 2 Nascent
 
-Liberia's standards authority gained correspondent membership of ISO in October 2025; no international standard on information technology or data adopted nationally is known.
+Liberia's standards authority announced full ISO membership in November 2025; no international standard on information technology or data adopted nationally is known.
 
+- Liberian Observer reports Liberia Standards Authority Director General Stephen Y. Mambu announced that Liberia is now a full member of ISO ([source, 2025-11](https://www.liberianobserver.com/news/liberia-attains-full-iso-membership/article_31c242b3-2a0f-4118-b019-581fea289693.html)).
 - The Liberia Standards Authority gained Correspondent Membership of ISO, per its statement of 7 October 2025 ([source, 2025-10-07](https://frontpageafricaonline.com/liberia-standards-authority-joins-iso-afsec-as-director-general-departs-for-global-leaders-gathering-in-rwanda/)).
 
 ### Libya: 2 Nascent
@@ -263,17 +302,11 @@ Tunisia's standards body, INNORPI, was an ISO member body in 2026; no internatio
 
 - ISO's registry entry lists INNORPI as Tunisia's ISO member body ([source, 2026-10-16](https://www.iso.org/member/2158.html)).
 
-### Algeria: Unplaced
+### Uganda: 2 Nascent
 
-Algeria's national standard on ordering text follows an ISO/IEC one, under revision in 2026; membership of ISO is not known, so no stage is set.
+Uganda's standards bureau was an ISO member in 2025, and a 2026 policy binds public bodies; no international standard adopted nationally is known.
 
-Not established: No source names the standards body as a member of ISO or IEC, so question 1 is unanswered and no rung is set. The national adoption of NA ISO/IEC 14651 (DZA-001) would answer question 2.
-
-### Eswatini: Unplaced
-
-Eswatini adopted international addressing standards in 2026 and lists others on records and metadata; membership of ISO is not known, so no stage is set.
-
-Not established: No source names the standards body as a member of ISO or IEC, so question 1 is unanswered and no rung is set. The national adoption of the SZNS ISO standards on metadata, records and addressing (SWZ-001, SWZ-002) would answer question 2.
+- ISO's member page lists the Uganda National Bureau of Standards as Uganda's ISO member ([source, 2025-04](https://www.iso.org/member/308866.html)).
 
 ### Guinea: Unplaced
 
@@ -281,29 +314,11 @@ A 2026 aviation order requires one passenger-data system to meet an internationa
 
 Not established: No source names the standards body as a member of ISO or IEC, or says it belongs to neither. The one row is a transport ministry order binding one government system, which places nothing.
 
-### Mauritius: Unplaced
+### Zambia: Unplaced
 
-Mauritius certified organisations in 2025 against its national form of an international security standard; membership of ISO is not known, so no stage is set.
+Zambia's standards bureau sat on the international information technology committee in 2026; membership of ISO is not known, so no stage is set.
 
-Not established: No source names the standards body as a member of ISO or IEC, so question 1 is unanswered and no rung is set. The national adoption of MS ISO/IEC 27001:2022 (MUS-001) would answer question 2.
-
-### Sudan: Unplaced
-
-Sudan's catalogue lists technology and records standards taken from ISO ones, from 2015 and 2018; ISO membership is not known, so no stage is set.
-
-Not established: No source names the standards body as a member of ISO or IEC, so question 1 is unanswered and no rung is set. The national adoption of the Sudanese standards equivalent to ISO 19752 and ISO 23081-1 (SDN-001) would answer question 2.
-
-### Uganda: Unplaced
-
-Uganda's 2026 security policy requires public bodies to meet an international standard; membership of ISO is not known, so no stage is set.
-
-Not established: No source names the standards body as a member of ISO or IEC, so question 1 is unanswered and no rung is set. NITA-U's 2026 policy requiring ISO/IEC 27001:2022 of public bodies (UGA-001) would answer question 3, and no row names a national adoption.
-
-### Zimbabwe: Unplaced
-
-Zimbabwe listed the international information security standard as a national one in 2026; membership of ISO is not known, so no stage is set.
-
-Not established: No source names the standards body as a member of ISO or IEC, so question 1 is unanswered and no rung is set. The national adoption of ZWS ISO/IEC 27001:2022 (ZWE-001) would answer question 2.
+Not established: No source names the standards body as a member of ISO or IEC, or says it belongs to neither, so question 1 is unanswered and no rung is set. ZABS's participating seat on ISO/IEC JTC 1 (ZMB-001) would answer question 4.
 
 ### Botswana: No evidence
 
@@ -348,12 +363,6 @@ Nothing found names the standards body as a member of ISO or IEC, or says it bel
 Not established: Nothing found names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
 
 ### South Sudan: No evidence
-
-Nothing found names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
-
-Not established: Nothing found names the country's standards body as a member of ISO or IEC, or says it belongs to neither.
-
-### Zambia: No evidence
 
 Nothing found names the standards body as a member of ISO or IEC, or says it belongs to neither, so no stage is set.
 

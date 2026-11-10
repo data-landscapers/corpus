@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-zwe-published-standards-q1-2026",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Standards Association of Zimbabwe lists as published in Q1 2026 national standards that are ISO/IEC identicals on information technology, including ZWS ISO/IEC 23894:2023 (AI risk management), 22989:2022 (AI concepts), 27017:2015 (cloud security controls) and 27037:2012 (digital evidence).",
+   "as_of": "2026",
+   "date_precision": "year",
+   "system": "ZWS ISO/IEC 23894:2023",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
