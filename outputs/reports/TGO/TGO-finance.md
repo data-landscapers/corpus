@@ -1,6 +1,6 @@
 ---
 title: Togo: finance
-compiled: 2026-11-07
+compiled: 2026-11-10
 place: TGO
 ---
 
@@ -9,8 +9,8 @@ place: TGO
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num">2027</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Connectivity</th><td class="num">20</td><td class="num zero"></td><td class="num zero"></td><td class="num">162</td><td class="num">7</td><td class="num">7</td><td class="num zero"></td><td class="num total">197</td></tr>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">28</td><td class="num">22</td><td class="num">61</td><td class="num">5</td><td class="num total">117</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num">20</td><td class="num zero"></td><td class="num zero"></td><td class="num">162</td><td class="num">7</td><td class="num">7</td><td class="num">3</td><td class="num total">200</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">28</td><td class="num">22</td><td class="num">61</td><td class="num">13</td><td class="num total">125</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num">&lt;1</td><td class="num">39</td><td class="num zero"></td><td class="num">1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num zero"></td><td class="num total">41</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">29</td><td class="num zero"></td><td class="num total">30</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">2</td><td class="num">22</td><td class="num zero"></td><td class="num total">26</td></tr>
@@ -26,10 +26,10 @@ place: TGO
 <tr><th scope="row">ICT Industry</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">28</td><td class="num">39</td><td class="num">&lt;1</td><td class="num">210</td><td class="num">44</td><td class="num">133</td><td class="num">5</td><td class="num total">459</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">28</td><td class="num">39</td><td class="num">&lt;1</td><td class="num">210</td><td class="num">44</td><td class="num">133</td><td class="num">17</td><td class="num total">471</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/TGO/all-finance.html">Full table &mdash; 167 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/TGO/all-finance.html">Full table &mdash; 173 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/TGO/TGO-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -38,8 +38,8 @@ place: TGO
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num">2027</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">4</td><td class="num">6</td><td class="num">16</td><td class="num">5</td><td class="num total">31</td></tr>
-<tr><th scope="row">Connectivity</th><td class="num">8</td><td class="num">7</td><td class="num">7</td><td class="num zero"></td><td class="num total">23</td></tr>
+<tr><th scope="row">Other GovTech and e-Gov</th><td class="num">4</td><td class="num">6</td><td class="num">16</td><td class="num">13</td><td class="num total">39</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num">8</td><td class="num">7</td><td class="num">7</td><td class="num">3</td><td class="num total">26</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">4</td><td class="num">5</td><td class="num">4</td><td class="num zero"></td><td class="num total">13</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">1</td><td class="num">2</td><td class="num">3</td><td class="num zero"></td><td class="num total">6</td></tr>
 <tr><th scope="row">Registries</th><td class="num">1</td><td class="num">1</td><td class="num">4</td><td class="num">&lt;1</td><td class="num total">6</td></tr>
@@ -52,11 +52,11 @@ place: TGO
 <tr><th scope="row">Data Exchange</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">23</td><td class="num">26</td><td class="num">40</td><td class="num">5</td><td class="num total">94</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">23</td><td class="num">26</td><td class="num">40</td><td class="num">17</td><td class="num total">105</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/TGO/budgets.html">Full table &mdash; 128 budget lines, all 55 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/TGO/budgets.html">Full table &mdash; 134 budget lines, all 55 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/TGO/TGO-budgets.csv" download>&darr; Download CSV</a>
 </div>
 

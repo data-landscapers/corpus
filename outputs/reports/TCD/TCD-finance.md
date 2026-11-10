@@ -1,6 +1,6 @@
 ---
 title: Chad: finance
-compiled: 2026-11-06
+compiled: 2026-11-10
 place: TCD
 ---
 
@@ -13,6 +13,7 @@ place: TCD
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">93</td><td class="num zero"></td><td class="num">1</td><td class="num total">93</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">35</td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">3</td><td class="num">8</td><td class="num total">48</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">13</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">13</td></tr>
+<tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">10</td><td class="num zero"></td><td class="num zero"></td><td class="num total">10</td></tr>
 <tr><th scope="row">Geospatial data</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>
 <tr><th scope="row">Cybersecurity</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">1</td><td class="num">1</td><td class="num">1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num total">2</td></tr>
@@ -22,10 +23,10 @@ place: TCD
 <tr><th scope="row">Data Storage</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Digital divides</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">330</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">95</td><td class="num">4</td><td class="num">11</td><td class="num total">440</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">330</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">105</td><td class="num">4</td><td class="num">11</td><td class="num total">450</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/TCD/all-finance.html">Full table &mdash; 49 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/TCD/all-finance.html">Full table &mdash; 50 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/TCD/TCD-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -57,6 +58,7 @@ place: TCD
 <tr><th scope="row">Strategies, plans and policies</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">92</td><td class="num zero"></td><td class="num total">92</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">35</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">6</td><td class="num total">42</td></tr>
 <tr><th scope="row">National statistics</th><td class="num">13</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">13</td></tr>
+<tr><th scope="row">Registries</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">10</td><td class="num zero"></td><td class="num total">10</td></tr>
 <tr><th scope="row">Geospatial data</th><td class="num">3</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">3</td></tr>
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">Sectoral management information systems</th><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
@@ -65,10 +67,10 @@ place: TCD
 <tr><th scope="row">Digital divides</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Training and skills</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">330</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">92</td><td class="num">6</td><td class="num total">428</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">330</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">102</td><td class="num">6</td><td class="num total">438</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/TCD/finance.html">Full table &mdash; 25 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/TCD/finance.html">Full table &mdash; 26 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/TCD/TCD-nonstate.csv" download>&darr; Download CSV</a>
 </div>

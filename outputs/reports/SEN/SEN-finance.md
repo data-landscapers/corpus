@@ -1,6 +1,6 @@
 ---
 title: Senegal: finance
-compiled: 2026-11-06
+compiled: 2026-11-10
 place: SEN
 ---
 
@@ -9,7 +9,7 @@ place: SEN
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num">2027</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Connectivity</th><td class="num">293</td><td class="num">&lt;1</td><td class="num">150</td><td class="num">67</td><td class="num zero"></td><td class="num">7</td><td class="num">6</td><td class="num total">523</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num">293</td><td class="num">&lt;1</td><td class="num">150</td><td class="num">99</td><td class="num zero"></td><td class="num">7</td><td class="num">6</td><td class="num total">555</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">139</td><td class="num">31</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">58</td><td class="num">71</td><td class="num">10</td><td class="num total">308</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">148</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">148</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">0</td><td class="num">137</td><td class="num zero"></td><td class="num zero"></td><td class="num total">138</td></tr>
@@ -31,10 +31,10 @@ place: SEN
 <tr><th scope="row">Public debate and participation in policymaking</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Literacy</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">809</td><td class="num">51</td><td class="num">159</td><td class="num">120</td><td class="num">220</td><td class="num">120</td><td class="num">16</td><td class="num total">1,494</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">809</td><td class="num">51</td><td class="num">159</td><td class="num">152</td><td class="num">220</td><td class="num">120</td><td class="num">16</td><td class="num total">1,526</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/SEN/all-finance.html">Full table &mdash; 202 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/SEN/all-finance.html">Full table &mdash; 203 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/SEN/SEN-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -66,7 +66,7 @@ place: SEN
 <div class="table-scroll"><table class="pivot">
 <thead><tr><th scope="col">Topic (USDm)</th><th class="num">-2022</th><th class="num">2022</th><th class="num">2023</th><th class="num">2024</th><th class="num">2025</th><th class="num">2026</th><th class="num total">Total</th></tr></thead>
 <tbody>
-<tr><th scope="row">Connectivity</th><td class="num">293</td><td class="num">&lt;1</td><td class="num">150</td><td class="num">67</td><td class="num zero"></td><td class="num zero"></td><td class="num total">510</td></tr>
+<tr><th scope="row">Connectivity</th><td class="num">293</td><td class="num">&lt;1</td><td class="num">150</td><td class="num">99</td><td class="num zero"></td><td class="num zero"></td><td class="num total">542</td></tr>
 <tr><th scope="row">Other GovTech and e-Gov</th><td class="num">139</td><td class="num">31</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num">58</td><td class="num">54</td><td class="num total">282</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num">148</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">148</td></tr>
 <tr><th scope="row">Digital Payments and Fintech</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">0</td><td class="num">137</td><td class="num zero"></td><td class="num total">138</td></tr>
@@ -88,10 +88,10 @@ place: SEN
 <tr><th scope="row">Public debate and participation in policymaking</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Literacy</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">809</td><td class="num">51</td><td class="num">159</td><td class="num">99</td><td class="num">206</td><td class="num">74</td><td class="num total">1,398</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">809</td><td class="num">51</td><td class="num">159</td><td class="num">131</td><td class="num">206</td><td class="num">74</td><td class="num total">1,430</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/SEN/finance.html">Full table &mdash; 172 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/SEN/finance.html">Full table &mdash; 173 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/SEN/SEN-nonstate.csv" download>&darr; Download CSV</a>
 </div>
