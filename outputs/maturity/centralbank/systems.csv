@@ -46,6 +46,7 @@ CIV,PI-SPI,UEMOA,oversight,instant payment platform,BCEAO,"banks, microfinance, 
 CIV,Peya Pay,CIV,other,,Djogana Pay,,2025-09-26-monnaie-electronique-4e-etablissement-djogana-pay-fratmat
 CIV,PI-SPI,WAEMU,other,interoperable instant payment platform,BCEAO,,2026-10-08-xwa-bceao-communique-connexion-tresors-publics-pi-spi
 CIV,PI-SPI,Cote d'Ivoire,oversight,instant payment platform,BCEAO,,2026-11-03-xwa-launchbaseafrica-pi-spi-rocky-start
+CIV,PI-SPI,Cote d'Ivoire,oversight,BCEAO instant payment platform,BCEAO,,2026-11-09-sen-wave-precise-l-acces-a-pi-spi-au-senegal-et-en-cote-d-ivoire
 CMR,GIMACPAY,Cameroon,oversight,,GIMAC,,2026-07-30-cemac-gimacpay-transactions-2025
 CMR,COBAC,Cameroun,oversight,,COBAC,,2026-09-17-cmr-agenceecofin-konoom-agrement-paiement-mobile
 CMR,GIMACPAY,Cameroon,oversight,,GIMAC,,2026-07-30-cemac-gimac-norme-qr-code-interoperable
@@ -332,6 +333,7 @@ SEN,Free Money,Senegal,other,mobile,Mobile Cash S.A.,,2024-09-30-bceao-liste-eme
 SEN,Wave,Senegal,other,mobile,Wave Digital Finance,,2024-09-30-bceao-liste-emetteurs-monnaie-electronique-umoa
 SEN,PI-SPI,Senegal,oversight,instant payment platform,BCEAO,,2026-11-03-xwa-launchbaseafrica-pi-spi-rocky-start
 SEN,PI-SPI,Sénégal,other,,BCEAO,,2026-11-02-sen-lesoleil-bank-to-wallet-suspended-pi-spi
+SEN,PI-SPI,Senegal,oversight,BCEAO instant payment platform,BCEAO,,2026-11-09-sen-wave-precise-l-acces-a-pi-spi-au-senegal-et-en-cote-d-ivoire
 SLE,National Payments Strategy,Sierra Leone,oversight,,Bank of Sierra Leone,,2026-07-23-rebuilding-financial-services-fintech-sierra-leone
 SLE,National Instant Payment Switch,Sierra Leone,oversight,,Bank of Sierra Leone,,2025-02-14 Sierra Leone Launches National Instant Payment System
 SLE,Salon Payment Switch,Sierra Leone,oversight,,Bank of Sierra Leone,,2026-01-21-sle-sierra-leone-pushes-cash-lite-economy-as-digital-payments-surge

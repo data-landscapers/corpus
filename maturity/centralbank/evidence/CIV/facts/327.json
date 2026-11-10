@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-09-sen-wave-precise-l-acces-a-pi-spi-au-senegal-et-en-cote-d-ivoire",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "BiFinances says the BCEAO's PI-SPI platform, launched 30 September 2025, runs 24 hours a day, seven days a week, and that on 2 April 2026 the BCEAO counted 80 connected participants including nine e-money institutions.",
+   "as_of": "2026-04-02",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  },
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "regional",
+   "value": "regional",
+   "fact": "BiFinances reports Wave announced on 6 November 2026 that its customers in Cote d'Ivoire can use the BCEAO's regional PI-SPI platform from its app; this is a regional system, not PAPSS.",
+   "as_of": "2026-11-06",
+   "date_precision": "day",
+   "system": "PI-SPI",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "Cote d'Ivoire",
+   "class": "oversight",
+   "platform": "BCEAO instant payment platform",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
