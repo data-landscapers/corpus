@@ -1,11 +1,11 @@
 ---
 title: Uganda — News, Oct – Nov 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: UGA
-ledger_rows: 37
+ledger_rows: 40
 not_held: 12
-record: c87d12534dd4
+record: 6f179e91ed54
 ---
 
 # News, Oct – Nov 2026
@@ -22,6 +22,8 @@ record: c87d12534dd4
 <a href="#dpi">DPI</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#technology">Technology</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -252,6 +254,8 @@ Uganda's parliamentary Committee on Foreign Affairs said only Uganda and Rwanda 
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Finance">
 <a href="#mous-and-other-agreements">MoUs and other agreements</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#new-investments">New investments</a>
 </nav>
 
 ### MoUs and other agreements
@@ -265,6 +269,22 @@ Uganda's parliamentary Committee on Foreign Affairs said only Uganda and Rwanda 
 **[Uganda, Denmark sign deal to strengthen national statistical production](https://www.independent.co.ug/uganda-denmark-sign-deal-to-strengthen-national-statistical-production/)** — The Independent (Uganda), 22 October 2026
 
 The Uganda Bureau of Statistics signed a memorandum with Statistics Denmark and the Danish Embassy to modernise Uganda's national statistical system, including green-transition statistics and work with the finance ministry on statistics for macroeconomic modelling. Denmark's foreign ministry funds the cooperation through its Strategic Sector Cooperation programme; no amount is stated.
+
+</div>
+
+</div>
+
+### New investments
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digitised national risk and vulnerability atlas (FAO grant)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Strengthening Disaster Risk Knowledge and Governance for Water Related Climate Resilience in Uganda](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-766180)** — Food and Agriculture Organization (FAO), 31 October 2026
+
+USD 250,000 FAO grant to update and digitalise Uganda's 2019 National Risk and Vulnerability Atlas, to June 2027.
 
 </div>
 
@@ -646,6 +666,28 @@ The Uganda Civil Aviation Authority has upgraded the car parks at Entebbe Intern
 
 </div>
 
+## Capacity
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Capacity">
+<a href="#research-institutions">Research institutions</a>
+</nav>
+
+### Research institutions
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Research and education network memorandum with Malawi</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ubuntu in Action: MAREN and RENU Sign MoU to Advance Research and Education in Africa!](https://maren.ac.mw/ubuntu-in-action-maren-and-renu-sign-mou-to-advance-research-and-education-in-africa/)** — MAREN, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a>
+
+Malawi and Uganda research and education networks sign MoU at UbuntuNet-Connect 2026 in Lilongwe.
+
+</div>
+
+</div>
+
 ## Inclusion
 
 <nav class="article-toc monthly-subnav" aria-label="Topics under Inclusion">
@@ -665,6 +707,20 @@ The Uganda Civil Aviation Authority has upgraded the car parks at Entebbe Intern
 **[43,000 Elderly Ugandans Locked Out of SAGE Benefits Over National ID Errors](https://nilepost.co.ug/news/379844/43000-elderly-ugandans-locked-out-of-sage-benefits-over-national-id-errors)** — Nile Post, 19 October 2026
 
 Uganda's gender ministry said, as reported on 19 October 2026, that about 43,000 eligible older people cannot draw SAGE cash grants because the birth dates on their national ID cards make them appear too young. SAGE reaches about 318,000 of more than 2.4 million potential beneficiaries, and mobile-money payment is being piloted.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Telecentre connectivity in refugee-hosting regions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Request for Bids | Small Works (One-Envelope Bidding Process) · National Information Technology Authority- Uganda (NITA-U) · TenderPilot](https://tenderpilotug.com/t/gu-110198)** — TenderPilot (NITA-U notice), 9 November 2026
+
+NITA-U tender under World Bank-financed UDAP: telecentre connectivity in three refugee-host regions; closes 3 Dec 2026.
 
 </div>
 
