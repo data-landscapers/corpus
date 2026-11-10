@@ -3,9 +3,9 @@ title: Senegal — News, Oct – Nov 2026
 compiled: 2026-11-10
 period: 2026-10-01 to 2026-11-10
 place: SEN
-ledger_rows: 35
+ledger_rows: 37
 not_held: 2
-record: a82eefa5b455
+record: 88be22b69956
 ---
 
 # News, Oct – Nov 2026
@@ -388,6 +388,20 @@ Senegal's civil-service minister said the physical and biometric audit of state 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">APIX one-stop business creation office</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sénégal : la Justice accélère la digitalisation des entreprises](https://fr.apanews.net/technologies/senegal-la-justice-accelere-la-digitalisation-des-entreprises/)** — APAnews, 10 November 2026
+
+Justice Minister backs court rollout of APIX one-stop company creation, 10 Nov 2026; RCCM registries interconnected.
+
+</div>
+
+</div>
+
 ### Sectoral management information systems
 
 <div class="monthly-story" markdown="1">
@@ -471,6 +485,20 @@ Senegal's procurement regulator ARCOP told contracting authorities to load their
 **[Validation de la Snao : L'interopérabilité des services publics lancée pour supprimer les navettes administratives](https://www.seneweb.com/fr/news/Societe/validation-de-la-snao-linteroperabilite-des-services-publics-lancee-pour-supprimer-les-navettes-administratives_n_999002104.html)** — Seneweb, 29 October 2026
 
 Senegal began technical validation of its national strategy for receiving and directing users of public services in October 2026. The strategy simplifies procedures before digitising them and has administrations exchange civil status, court and police records directly. Health and security are the pilot sectors.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integrated mining-sector data platform (PIDSM)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sénégal : une plateforme numérique pour dématérialiser les procédures minières](https://lemarche.finance/senegal-une-plateforme-numerique-pour-dematerialiser-les-procedures-minieres/)** — Le Marché Finance, 10 November 2026
+
+Mining data one-stop shop validated; online title applications, public geological data, API links to tax and treasury.
 
 </div>
 
