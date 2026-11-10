@@ -1,11 +1,11 @@
 ---
 title: Ghana — News, Oct – Nov 2026
-compiled: 2026-11-08
-period: 2026-10-01 to 2026-11-08
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: GHA
-ledger_rows: 63
+ledger_rows: 65
 not_held: 9
-record: a85704908aff
+record: f9f06dbcc0aa
 ---
 
 # News, Oct – Nov 2026
@@ -254,6 +254,20 @@ Ghana's communications minister, Samuel Nartey George, was confirmed as chair of
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ITU Council seat (Region D)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana - PP-26: Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/ghana/)** — International Telecommunication Union (statement by Ghana), 10 November 2026
+
+Minister's Doha statement: 5G to 70%+ of Ghanaians by March 2027; 2,016 rural sites; ITU Council and RRB candidacies.
+
+</div>
+
+</div>
+
 ### Standards
 
 <div class="monthly-story" markdown="1">
@@ -421,6 +435,20 @@ Communications Minister Samuel Nartey George said Ghana will build 800 new cell 
 **[Northern Ghana Fiber Backbone and Access Networks Feasibility Study](https://ustda.gov/business_opp_oversea/northern-ghana-fiber-backbone-and-access-networks-feasibility-study/)** — U.S. Trade and Development Agency (USTDA), 28 October 2026
 
 CSquared Ghana invited US firms to bid for a feasibility study on fibre strung along NEDCo's electricity network in northern Ghana. A US$660,000 USTDA grant pays for the study. Proposals are due on 1 December 2026.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">5G population coverage target</p>
+
+<div class="bulletin-item bulletin-item--xref" markdown="1">
+
+**[Ghana - PP-26: Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/ghana/)** — International Telecommunication Union (statement by Ghana), 10 November 2026
+
+Summarised under [Regional collaboration](#regional-collaboration).
 
 </div>
 
