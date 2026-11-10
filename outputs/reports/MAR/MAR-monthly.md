@@ -3,9 +3,9 @@ title: Morocco — News, Oct – Nov 2026
 compiled: 2026-11-10
 period: 2026-10-01 to 2026-11-10
 place: MAR
-ledger_rows: 25
+ledger_rows: 26
 not_held: 14
-record: 10aee5d6ac95
+record: 78b6a8997f48
 ---
 
 # News, Oct – Nov 2026
@@ -471,6 +471,36 @@ The October 2026 report rates more than 75 economies on 33 indicators of exposur
 **[Morocco, Korea Advance Customs Cooperation on AI, Digitalization](https://www.moroccoworldnews.com/2026/11/345265/morocco-korea-advance-customs-cooperation-on-ai-digitalization/)** — Morocco World News, 6 November 2026
 
 Morocco World News reported on 6 November 2026 that Moroccan customs (ADII) and the Korea Customs Service have entered the final phase of a joint project. It began in May 2026 and is run by the Korean firm Okestro. It covers big data and AI for revenue management and digital governance, according to an ADII statement.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sovereign AI data and public-services programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ahmed Rahhou annonce une IA en darija en commission parlementaire](https://telquel.ma/instant-t/2026/11/10/ahmed-rahou-annonce-une-ia-en-darija-en-commission-parlementaire_2017563/)** — TelQuel, 10 November 2026
+
+Darija voice services, open-source national model and Mistral speech model; programme due 2027, per Al3omk and Alyaoum24.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Morocco develops national AI roadmap as government seeks to regulate technology use](https://en.hespress.com/148882-morocco-develops-national-ai-roadmap-as-government-seeks-to-regulate-technology-use.html)** — Hespress English, 10 November 2026
+
+2027 budget hearing, 10 Nov 2026: four Jazari institutes active; 2,800 procedures, 85,000-document AI corpus structured.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[بـ”الدارجة” ولجميع المغاربة.. الحكومة توظف الذكاء الاصطناعي لتبسيط 2800 مسطرة إدارية](https://al3omk.com/1208688.html)** — Al3omk, 10 November 2026
+
+Minister Rahhou to MPs, 10 Nov 2026: AI to speed law drafting, open Official Gazette archive 1918-2026 to AI tools.
 
 </div>
 
