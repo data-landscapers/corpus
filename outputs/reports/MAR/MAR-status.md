@@ -1,12 +1,12 @@
 ---
 title: Morocco: status report
-compiled: 2026-11-09
+compiled: 2026-11-10
 place: MAR
 region: XNA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 13
-sources_cited: 251
+sources_cited: 252
 sections_written: 39
 not_established: 1
 acquire_lines: 61
@@ -118,7 +118,7 @@ Seven months before switch-on, Maroc Telecom and Inwi had [folded their long-run
 
 The underlying take-up is already unusual for the region. [Some 91% of individuals used the internet in 2023](https://www.trade.gov/country-commercial-guides/morocco-telecommunications), [a gigabyte of mobile data cost USD 0.63 in 2024, below the UN affordability target of 1% of monthly gross national income per capita](https://researchictafrica.net/2026/02/28/ramp-index-insights-quarter-4-2025/), and Morocco's [IIAG score for Internet & Computers reached 91.6 out of 100 in 2023, first of 54 African states and up 46.1 points over the decade — the largest ten-year gain of any of the index's 96 indicators for the country](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ma.pdf). Public opinion moved with it, the index's [perception-of-infrastructure measure reaching 78.4 out of 100 in 2023, third in Africa](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ma.pdf).
 
-What has moved less is everything behind the last mile. [International bandwidth stood at 134 kbit/s per internet user in 2022](https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_MAR.pdf). Inland, the second operator Inwi [offers wholesale a backbone of more than 9,000 km of its own and leased fibre, with 40 metropolitan rings and more than 2,000 buildings connected (October 2026)](https://inwi.ma/en/wholesale/our-network), and domestic traffic exchange rests on [two internet exchange points, CAS-IX in Casablanca and FEZIX in Fez, both with moderate participation (2025)](https://www.pch.net/ixp/details/1917). Added capacity is going seaward: [Nokia was selected in July 2025 to supply the optical transmission equipment for the Medusa subsea system linking North Africa to southern Europe](https://itweb.africa/article/nokia-powers-subsea-cable-linking-europe-north-africa/LPwQ5MlbjBjvNgkj). Rural reach runs on a [separate national coverage plan, now in its second phase](https://en.expresstv.ma/2025/12/morocco-covers-over-10000-rural-areas-with-communication-services-and-launches-the-second-phase-of-the-national-plan/), under [the 2007 post and telecommunications law that carries the universal-access obligation](https://ictpolicyafrica.org/en/document/dnpcjxsh98?page=1). New buildings and subdivisions must now carry [telecommunications infrastructure to minimum technical specifications for connection to public networks, under a joint ministerial order published in November 2025](https://www.auks.ma/wp-content/uploads/2025/11/arrete-conjoint-MAHTUPV-et-transition-numerique.pdf).
+What has moved less is everything behind the last mile. [International bandwidth stood at 134 kbit/s per internet user in 2022](https://www.itu.int/en/ITU-D/Statistics/Documents/DDD/ddd_MAR.pdf). Inland, the second operator Inwi [offers wholesale a backbone of more than 9,000 km of its own and leased fibre, with 40 metropolitan rings and more than 2,000 buildings connected (October 2026)](https://inwi.ma/en/wholesale/our-network), and domestic traffic exchange rests on [two internet exchange points, CAS-IX in Casablanca and FEZIX in Fez, both with moderate participation (2025)](https://www.pch.net/ixp/details/1917). Added capacity is going seaward: [the Medusa subsea cable came ashore at Nador in December 2025, at the country's first open-access landing station, with service stated for early 2026](https://leseco.ma/business/connectivite-medusa-le-cable-qui-redessine-la-carte-numerique-du-maroc.html). Rural reach runs on a [separate national coverage plan, now in its second phase](https://en.expresstv.ma/2025/12/morocco-covers-over-10000-rural-areas-with-communication-services-and-launches-the-second-phase-of-the-national-plan/), under [the 2007 post and telecommunications law that carries the universal-access obligation](https://ictpolicyafrica.org/en/document/dnpcjxsh98?page=1). New buildings and subdivisions must now carry [telecommunications infrastructure to minimum technical specifications for connection to public networks, under a joint ministerial order published in November 2025](https://www.auks.ma/wp-content/uploads/2025/11/arrete-conjoint-MAHTUPV-et-transition-numerique.pdf).
 
 ### Data Storage
 <!-- infra.store -->
