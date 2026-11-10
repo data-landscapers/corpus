@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-09-lbr-liberia-regains-atu-voting-rights-after-us400k-debt-waiver",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "LTA commissioner Patrick Honnah says its Universal Access Program is deploying teams to expand connectivity in underserved communities, with 15 remote towers being upgraded from 2G to 4G.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "LTA Universal Access Program",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
