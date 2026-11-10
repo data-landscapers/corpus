@@ -1,11 +1,11 @@
 ---
 title: Djibouti — News, Oct – Nov 2026
-compiled: 2026-11-06
-period: 2026-10-01 to 2026-11-06
+compiled: 2026-11-10
+period: 2026-10-01 to 2026-11-10
 place: DJI
-ledger_rows: 8
+ledger_rows: 10
 not_held: 11
-record: 3cf55b97f508
+record: 371d989dc28c
 ---
 
 # News, Oct – Nov 2026
@@ -72,6 +72,20 @@ Djibouti's minister Mohamed Abdoulkader Moussa reviewed two IDA-funded digital p
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Internet users (DataReportal)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital 2027: Djibouti](https://datareportal.com/reports/digital-2027-djibouti)** — DataReportal (Simon Kemp), 5 November 2026
+
+End-2026 data: 786,000 internet users (65.3%), 649,000 mobile connections (53.9%), 266,000 social media identities.
+
+</div>
+
+</div>
+
 ### Cybersecurity
 
 <div class="monthly-story" markdown="1">
@@ -127,6 +141,20 @@ Djibouti's second regional public-procurement colloquium, in Dikhil, heard plans
 **[AMI - Djibouti - Assistance technique a la transformation et a la modernisation des systemes de gouvernance, de controle et de management de la cour des comptes - PAIC-GEP](https://www.afdb.org/en/documents/ami-djibouti-assistance-technique-transformation-98145)** — African Development Bank Group, 2 November 2026
 
 The African Development Bank issued a call for expressions of interest on 2 November 2026 from firms to advise Djibouti's Cour des Comptes. The work covers internal control and risk management, and the digitisation and modernisation of its control processes and information systems. It falls under the PAIC-GEP project.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Memorandum with ASAN Service on public-service digitisation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Administration numérique : Djibouti mise sur l’expérience de l’Azerbaïdjan](https://www.wearetech.africa/fr/fils/actualites/tech/administration-numerique-djibouti-mise-sur-l-experience-de-l-azerbaidjan)** — wearetech.africa, 9 November 2026
+
+Djibouti's Ministry of Labour signed an MoU with Azerbaijan's ASAN Service in Baku on 5 November 2026 on sharing expertise in digitalising public services on ASAN's one-stop-centre model. It follows a September 2025 study visit and an October 2025 inventory in which Djibouti listed 503 administrative procedures. Of these, 83 were prioritised for first-phase digitalisation.
 
 </div>
 
