@@ -1,0 +1,114 @@
+source,item,class,study,fit,note
+gtmi,I-1,,cloudstrategy,partial,Theirs asks whether a shared government cloud is operating; ours stops at the strategy. Theirs tests delivery.
+gtmi,I-2,,interoperability,partial,Enterprise architecture is a separate artefact from an interoperability framework; we do not track it.
+gtmi,I-3,,interoperability,same,
+gtmi,I-4,,dataexchange,same,Government service bus.
+gtmi,I-5,,,none,Financial management information system. Core public-finance systems have no indicator of ours.
+gtmi,I-6,,,none,Treasury single account linked to FMIS.
+gtmi,I-7,,taxadmin,same,
+gtmi,I-8,,customs,same,
+gtmi,I-9,,,none,Public-sector HR management system. No indicator of ours.
+gtmi,I-10,,,none,Payroll linked to HRMIS. No indicator of ours.
+gtmi,I-11,,socialprotection,partial,"Theirs is social insurance and pensions, ours social assistance."
+gtmi,I-12,,businesspayments,partial,E-procurement portal; ours covers B2G payment only.
+gtmi,I-13,,,none,Debt management system.
+gtmi,I-14,,,none,Public investment management system.
+gtmi,I-15,,,none,Open-source software policy.
+gtmi,I-16,,,none,UN Telecommunication Infrastructure Index; a score carried from the UN. Not converted.
+gtmi,I-17,,aistrategy,theirs-broader,"Disruptive-technology strategy: AI, blockchain, IoT together."
+gtmi,I-18,,,none,UN Online Service Index; a score carried from the UN. Not converted.
+gtmi,I-19,,egovservices,same,One-stop public service portal.
+gtmi,I-20,,taxadmin,partial,Tax online service portal.
+gtmi,I-21,,taxadmin,partial,E-filing of tax and customs declarations.
+gtmi,I-22,,revenuecollection,same,
+gtmi,I-23,,customs,partial,Customs single window.
+gtmi,I-24,,,none,Social insurance and pension online portal.
+gtmi,I-25,,,none,Government job portal.
+gtmi,I-26,,idverification,same,Digital ID used for online services.
+gtmi,I-27,,,none,UN E-Participation Index; a score carried from the UN. Not converted.
+gtmi,I-28,,eparticipation,partial,Open government portal.
+gtmi,I-29,,opendatapolicy,partial,"Theirs is an operating portal, ours a policy; opendatause is nearer in spirit."
+gtmi,I-30,,eparticipation,same,
+gtmi,I-31,,feedbackportals,same,
+gtmi,I-32,,feedbackportals,theirs-broader,Publishing engagement statistics is an accountability test our ladder lacks.
+gtmi,I-33,,,none,A lead GovTech institution. We have no institutional indicator.
+gtmi,I-34,,datagovernance,partial,"Theirs is a data-governance institution, ours a policy."
+gtmi,I-35,,digitalstrategy,same,
+gtmi,I-36,,digitalstrategy,partial,Whole-of-government coordination.
+gtmi,I-37,,accesstoinformationlaw,same,Theirs also asks whether the law is enforced (I-37.4).
+gtmi,I-38,,dataprotectionlaw,same,Theirs also rates enforcement from limited to extensive (I-38.5.1).
+gtmi,I-39,,dataprotectionauthority,same,
+gtmi,I-40,,,none,Green technology in GovTech.
+gtmi,I-41,,aiabuse,partial,Ethical guidelines for AI adoption.
+gtmi,I-42,,authentication,partial,Digital signature regulation and PKI.
+gtmi,I-43,,,none,ITU Global Cybersecurity Index; a score carried from the ITU. Not converted.
+gtmi,I-44,,,none,UN Human Capital Index; a score carried from the UN. Not converted.
+gtmi,I-45,,civilserviceskills,same,
+gtmi,I-46,,,none,Public-sector innovation strategy.
+gtmi,I-47,,,none,Public-sector innovation agency.
+gtmi,I-48,,startups,partial,Support for GovTech start-ups specifically.
+aftech,cybersecurity,Law,cybersecuritylaw,same,
+aftech,cybersecurity,Regulation,cybersecuritylaw,same,
+aftech,cybersecurity,Policy,cybersecurity,partial,
+aftech,cybercrime,,cybersecuritylaw,same,
+aftech,data protection,Law,dataprotectionlaw,same,
+aftech,data protection,Regulation,dataprotectionlaw,same,
+aftech,data protection,Policy,dataprotectionreadiness,partial,
+aftech,personal data,,dataprotectionlaw,same,
+aftech,data privacy,,dataprotectionlaw,same,
+aftech,digital identification,,digitalidlaw,partial,
+aftech,e-commerce,,ecommercelaw,same,
+aftech,electronic transactions,,ecommercelaw,same,
+aftech,digital transactions,,ecommercelaw,same,
+aftech,digital signatures,,authentication,partial,
+aftech,electronic signatures,,authentication,partial,
+aftech,digital payments,,paymentslaw,same,
+aftech,payments,,paymentslaw,same,
+aftech,mobile wallets,,paymentslaw,partial,
+aftech,fintech,,paymentslaw,partial,
+aftech,consumer protection,,consumerprotection,partial,
+aftech,customer protection,,consumerprotection,partial,
+aftech,broadband internet,Policy,broadbandstrategy,same,
+aftech,universal access,Policy,broadbandstrategy,partial,
+aftech,universal service,Policy,broadbandstrategy,partial,
+aftech,first mile (undersea/submarine cables),,internationalbandwidth,partial,
+aftech,middle mile,,fibrebackbone,partial,
+aftech,fiber,,fibrebackbone,partial,
+aftech,data centers and cloud services,Policy,cloudstrategy,same,
+aftech,data centers and cloud services,Regulation,datalocalisation,partial,
+aftech,cloud policy,,cloudstrategy,same,
+aftech,cloud computing,,cloudstrategy,same,
+aftech,cloud services,,cloudstrategy,same,
+aftech,data centers,,datacentres,partial,
+aftech,satellite,,satellitebroadband,same,
+aftech,vsat licensing,,satellitebroadband,same,
+aftech,artificial intelligence,Policy,aistrategy,same,
+aftech,artificial intelligence,Law,ailaw,same,
+aftech,artificial intelligence,Regulation,ailaw,same,
+aftech,machine learning,,aistrategy,partial,
+aftech,e-government services,,egovservices,same,
+aftech,e-government,,egovservices,same,
+aftech,digital government,,egovservices,partial,
+aftech,interoperability,,interoperability,same,
+aftech,data governance,,datagovernance,same,
+aftech,data economy,,datagovernance,partial,
+aftech,digital transformation,,digitalstrategy,same,
+aftech,digital economy,,digitalstrategy,partial,
+aftech,digital governance,,digitalstrategy,partial,
+aftech,foundational skills,,digitalskills,same,
+aftech,intermediate skills,,digitalskills,same,
+aftech,highly specialized skills,,digitalskills,same,
+aftech,advanced skills,,digitalskills,same,
+aftech,tvet,,digitalskills,partial,
+aftech,tech hubs,,techhubs,same,
+aftech,incubators,,techhubs,same,
+aftech,startups,,startups,same,
+aftech,sandboxes,,startups,partial,Regulatory sandboxes.
+aftech,e-health,,healthmis,partial,
+aftech,e-education,,educationmis,partial,
+aftech,e-learning,,educationmis,partial,
+aftech,quality of service,,,none,"Telecom service regulation: quality of service, spectrum, licensing, numbering, type approval, broadcasting, postal. A whole regulatory layer we do not track."
+aftech,e-waste,,,none,
+aftech,smart cities,,,none,
+aftech,competition,,,none,Digital-market competition regulation.
+aftech,digital market regulation,,,none,

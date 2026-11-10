@@ -1,0 +1,495 @@
+#!/usr/bin/env python3
+r"""external-claims.py — global databases taken apart into claims, and their documents staged.
+
+    python scripts/external-claims.py fetch SOURCE     download today's edition, unless unchanged
+    python scripts/external-claims.py claims SOURCE    the latest edition -> claims.csv
+    python scripts/external-claims.py stage SOURCE     documents not held -> new-queue/, no READY
+    python scripts/external-claims.py ready SOURCE     after lint-staged-queue passes: READY
+
+`documentation/external-datasets.md` is the design. Sources are rows of
+`lookups/external-sources.csv`. Each has an adapter here, and every adapter writes the same table.
+
+**What is kept is the evidence, not the score.** A claim is one thing the database says about one
+country: a status, a name, a year, a link. `reference/external/{source}/{edition}/` holds the
+download as fetched, never rewritten, and `claims.csv` beside it. `reference/external/claims.csv`
+is every source's latest edition together, which is what a study reads.
+
+**`lookups/external-items.csv` maps a source's question to a study, and says how well it fits**:
+`same`, `partial`, `theirs-broader`, `theirs-narrower` or `none`. A question with no study is
+still converted. Where theirs is better conceived than ours, the `note` says so, and those rows
+are the case for changing an indicator (Bill, 2026-11-10).
+
+**Staging takes documents only.** A link to a law, strategy or framework is staged; a portal,
+home page or login is evidence that a system exists, and stays a claim. A document is staged when
+neither its URL (`status-stage.norm` against OSINT's indexes) nor its title and country (against
+the catalogue) is held. It goes to `new-queue/dataset-external-{source}-NN/`, 40 to a batch, in
+`status-stage.py`'s file format. The database itself is staged once per edition as one record,
+which is what a claim cites when it has no primary (Bill, 2026-11-10: cite the primary wherever
+one exists). `staging.csv` beside the claims records every link's outcome, so a rerun only
+fetches what is new.
+"""
+from __future__ import annotations
+
+import argparse
+import collections
+import csv
+import datetime as dt
+import hashlib
+import importlib.util
+import io
+import os
+import pathlib
+import re
+import sys
+import unicodedata
+import urllib.parse as up
+from concurrent.futures import ThreadPoolExecutor
+
+import requests
+
+HERE = pathlib.Path(__file__).resolve().parent
+ROOT = HERE.parent
+sys.path.insert(0, str(HERE))
+import status_lib  # noqa: E402
+
+spec = importlib.util.spec_from_file_location("status_stage", HERE / "status-stage.py")
+ss = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(ss)
+
+SOURCES = ROOT / "lookups" / "external-sources.csv"
+ITEMS = ROOT / "lookups" / "external-items.csv"
+COUNTRIES = ROOT / "lookups" / "countries.csv"
+CATALOGUE = ROOT / "outputs" / "catalogue" / "catalogue-internal.csv"
+BASE = ROOT / "reference" / "external"
+QUEUE = pathlib.Path(status_lib.EXCHANGE) / "new-queue"
+BATCH = 40
+
+COLUMNS = ["source", "edition", "survey_year", "iso3", "item", "question", "status", "name",
+           "year", "url", "documents", "basis", "studies", "fit"]
+
+
+def rows(path) -> list[dict]:
+    with open(path, encoding="utf-8-sig", newline="") as fh:
+        return list(csv.DictReader(fh))
+
+
+def write_csv(path, header, data):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, "w", encoding="utf-8", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=header, lineterminator="\n")
+        w.writeheader()
+        w.writerows(data)
+
+
+def source(sid: str) -> dict:
+    for r in rows(SOURCES):
+        if r["id"] == sid:
+            return r
+    sys.exit(f"{sid} is not a row of {SOURCES.name}")
+
+
+def editions(sid: str) -> list[pathlib.Path]:
+    d = BASE / sid
+    return sorted(p for p in d.iterdir() if p.is_dir()) if d.exists() else []
+
+
+def fold(t: str) -> str:
+    t = unicodedata.normalize("NFKD", str(t)).encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z0-9]+", " ", t).strip()
+
+
+def countries() -> dict[str, str]:
+    """folded name -> iso3, with the spellings the sources use."""
+    out = {fold(r["country-name"]): r["iso-3"] for r in rows(COUNTRIES)}
+    out.update({"drc": "COD", "democratic republic of the congo": "COD", "congo dem rep": "COD",
+                "cote d ivoire": "CIV", "c te d ivoire": "CIV", "the gambia": "GMB",
+                "sao tome": "STP", "swaziland": "SWZ", "african union au": "XAF",
+                "african union": "XAF", "cabo verde": "CPV", "republic of the congo": "COG"})
+    return out
+
+
+def clean_value(v) -> str:
+    if v is None:
+        return ""
+    if isinstance(v, float) and v.is_integer():
+        v = int(v)
+    s = str(v).strip()
+    return "" if s in ("-", "New", "n/a", "N/A") or s.startswith("=") else s
+
+
+# --- mapping ---------------------------------------------------------------------------------
+
+def mapping(sid: str) -> dict:
+    """item -> [(class, study, fit)]."""
+    m = collections.defaultdict(list)
+    for r in rows(ITEMS):
+        if r["source"] == sid:
+            m[r["item"].strip().lower()].append((r["class"], r["study"], r["fit"]))
+    return m
+
+
+def studies_for(m: dict, items: list[str], klass: str = "") -> tuple[str, str]:
+    st, fits = [], []
+    for it in items:
+        for c, study, fit in m.get(it.lower(), []):
+            if study and (not c or c == klass) and study not in st:
+                st.append(study)
+                fits.append(fit)
+    return ";".join(st), ";".join(fits)
+
+
+# --- adapters --------------------------------------------------------------------------------
+
+def tag(t: str) -> str:
+    t = re.sub(r"\s+", " ", t.strip().lower())
+    t = t.replace("centerss", "centers").replace("specialised", "specialized")
+    t = t.replace(" and tv white spaces and tv white spaces", " and tv white spaces")
+    return {"start-ups": "startups", "foundational skill": "foundational skills"}.get(t, t)
+
+
+def adapt_aftech(xlsx, edition, release) -> list[dict]:
+    import openpyxl  # noqa: PLC0415
+    ws = openpyxl.load_workbook(xlsx, read_only=True).worksheets[0]
+    data = list(ws.iter_rows(values_only=True))
+    head = [str(h or "").strip() for h in data[0]]
+    col = {h: i for i, h in enumerate(head) if h}
+    names, m, out = countries(), mapping("aftech"), []
+    for r in data[1:]:
+        name = clean_value(r[col["Law, Policy or Regulation name"]])
+        if not name:
+            continue
+        place = clean_value(r[col["Country"]])
+        iso = names.get(fold(place)) or names.get(fold(place).replace("the ", ""))
+        if not iso:
+            print(f"aftech: no iso3 for {place!r}; row kept with iso3 blank", file=sys.stderr)
+        klass = clean_value(r[col["Classification"]])
+        tags = [tag(t) for t in clean_value(r[col["Key Data Points"]]).split(",") if t.strip()]
+        st, fit = studies_for(m, tags, klass)
+        year = clean_value(r[col["Date"]])
+        out.append({
+            "source": "aftech", "edition": edition, "survey_year": "", "iso3": iso or "",
+            "item": "; ".join(tags),
+            "question": f"{clean_value(r[col['Digital Economy Pillar']])} / {clean_value(r[col['Sub Pillars']])}",
+            "status": klass, "name": name, "year": year,
+            "url": "", "documents": clean_value(r[col["Document Link"]]),
+            "basis": "publisher-compiled", "studies": st, "fit": fit})
+    return out
+
+
+DOC_WORDS = re.compile(r"(?i)strateg|polic|law|regulation|framework|report|plan|guideline|"
+                       r"document|roadmap|act\b")
+
+
+def gtmi_meta(wb) -> dict:
+    """sub-question id -> (question, format), first occurrence wins."""
+    meta = {}
+    for r in wb["Metadata"].iter_rows(values_only=True):
+        k = str(r[0] or "").strip()
+        if re.fullmatch(r"I-\d+(\.\d+)*", k) and k not in meta:
+            meta[k] = (str(r[1] or "").strip(), str(r[2] or "").strip())
+    return meta
+
+
+def decode(fmt: str, v: str) -> str:
+    """`2` under `0= No, 1= Draft, 2= Yes (Effective)` -> `2 Yes (Effective)`."""
+    for code, label in re.findall(r"(\d+)\s*=\s*(.+?)(?=,?\s*\d+\s*=|$)", fmt):
+        if code == v:
+            return f"{v} {label.strip(' ,')}"
+    return v
+
+
+def adapt_gtmi(xlsx, edition, release) -> list[dict]:
+    import openpyxl  # noqa: PLC0415
+    wb = openpyxl.load_workbook(xlsx, read_only=True)
+    meta = gtmi_meta(wb)
+    data = list(wb["GTMI_Data"].iter_rows(values_only=True))
+    head = [str(h or "").strip() for h in data[0]]
+    ours = {r["iso-3"] for r in rows(COUNTRIES)}
+    m, out = mapping("gtmi"), []
+    isrc = head.index("Src")
+    for r in data[1:]:
+        iso = str(r[1] or "").strip()
+        if iso not in ours:
+            continue
+        basis = {"S": "self-reported", "R": "publisher-assessed"}.get(str(r[isrc]).strip(), "")
+        groups = collections.defaultdict(dict)
+        for h, v in zip(head, r):
+            if re.fullmatch(r"I-\d+(\.\d+)*", h):
+                v = clean_value(v)
+                if v:
+                    groups[h.split(".")[0]][h] = v
+        for root in sorted(groups, key=lambda k: int(k[2:])):
+            g = groups[root]
+            q, fmt = meta.get(root, ("", ""))
+            names, years, docs, urls = [], [], [], []
+            for k, v in g.items():
+                if k == root:
+                    continue
+                sq, sf = meta.get(k, ("", ""))
+                if v.lower().startswith(("http://", "https://", "www.")):
+                    is_doc = "document" in sf.lower() or "report" in sf.lower() or \
+                        bool(DOC_WORDS.search(sq.split(">")[-1]))
+                    (docs if is_doc and not re.search(r"(?i)home page|portal|platform", sq)
+                     else urls).append(v)
+                elif sf.upper() == "YYYY":
+                    years.append(v)
+                elif sf.lower() == "text":
+                    names.append(v)
+            st, fit = studies_for(m, [root])
+            out.append({
+                "source": "gtmi", "edition": edition, "survey_year": clean_value(r[0]),
+                "iso3": iso, "item": root, "question": q,
+                "status": decode(fmt, g.get(root, "")), "name": "; ".join(names),
+                "year": years[0] if years else "", "url": urls[0] if urls else "",
+                "documents": " ".join(dict.fromkeys(docs)), "basis": basis,
+                "studies": st, "fit": fit})
+    return out
+
+
+ADAPTERS = {"aftech": adapt_aftech, "gtmi": adapt_gtmi}
+
+
+# --- fetch and claims ------------------------------------------------------------------------
+
+def cmd_fetch(sid: str) -> int:
+    s = source(sid)
+    r = requests.get(s["download_url"], headers={"User-Agent": ss.UA}, timeout=120)
+    r.raise_for_status()
+    digest = hashlib.sha256(r.content).hexdigest()
+    for e in reversed(editions(sid)):
+        if (e / "sha256").exists() and (e / "sha256").read_text().strip() == digest:
+            print(f"{sid}: unchanged since {e.name}; nothing written")
+            return 0
+        break
+    today = dt.date.today().isoformat()
+    d = BASE / sid / today
+    d.mkdir(parents=True, exist_ok=True)
+    (d / "original.xlsx").write_bytes(r.content)
+    (d / "sha256").write_text(digest + "\n")
+    # The register's `release` is the publisher's date; a server's Last-Modified is when the file
+    # was copied (GTMI's Dec 2025 file read 2026-10-19), so it is never used. Without a release,
+    # the fetch date: late, never early.
+    release = s["release"] or today
+    (d / "release").write_text(release + "\n")
+    print(f"{sid}: edition {today}, release {release}, {len(r.content):,} bytes")
+    return 0
+
+
+def cmd_claims(sid: str) -> int:
+    e = editions(sid)[-1]
+    release = (e / "release").read_text().strip()
+    out = ADAPTERS[sid](e / "original.xlsx", e.name, release)
+    write_csv(e / "claims.csv", COLUMNS, out)
+    print(f"{sid} {e.name}: {len(out)} claims, {sum(1 for c in out if c['studies'])} mapped to a study")
+    every = []
+    for s in rows(SOURCES):
+        eds = editions(s["id"])
+        if eds and (eds[-1] / "claims.csv").exists():
+            every += rows(eds[-1] / "claims.csv")
+    write_csv(BASE / "claims.csv", COLUMNS, every)
+    return 0
+
+
+# --- staging ---------------------------------------------------------------------------------
+
+DATED_PATH = re.compile(r"/((?:19|20)\d{2})[/-](0[1-9]|1[0-2])(?:[/-]|$)")
+
+
+def candidates(claims: list[dict]) -> dict[str, dict]:
+    """url -> {title, year, places, publisher}; one per URL, places merged."""
+    out = {}
+    for c in claims:
+        for u in c["documents"].split():
+            if not u.lower().startswith("http"):
+                u = "https://" + u
+            u = u.split("#")[0]  # a text fragment is a reader's highlight, not the document
+            if up.urlsplit(u).path.strip("/") == "":
+                continue  # a bare host is a home page, not a document
+            k = out.setdefault(u, {"title": c["name"] if c["source"] == "aftech" else "",
+                                   "year": c["year"], "places": [], "item": c["item"]})
+            if c["iso3"] and c["iso3"] not in k["places"]:
+                k["places"].append(c["iso3"])
+    return out
+
+
+def held_by_title() -> set[tuple[str, str]]:
+    out = set()
+    for r in rows(CATALOGUE):
+        t = fold(r["title"])
+        for p in r["places"].replace(";", " ").split():
+            out.add((t, p))
+    return out
+
+
+def published_for(u: str, year: str, body: str, kind: str) -> tuple[str, str]:
+    """(YYYY[-MM], how it was read), or ("", "") when nothing dates the document."""
+    m = DATED_PATH.search(up.unquote(u))
+    if m:
+        return f"{m[1]}-{m[2]}", "path"
+    if re.fullmatch(r"(19|20)\d{2}", year or ""):
+        return year, "source"
+    return "", ""
+
+
+def yq(s: str) -> str:
+    return '"' + s.replace("\\", "\\\\").replace('"', '\\"') + '"'
+
+
+def write_staged(folder, url, fetched, body, title, published, how, places, batch_tag, publisher=""):
+    date, precision = ss.dated(published)
+    path = folder / f"{date}-{ss.slugify(title) or 'document'}.md"
+    n = 2
+    while path.exists():
+        path = folder / f"{date}-{ss.slugify(title) or 'document'}-{n}.md"
+        n += 1
+    fm = ["---", "type: source", f"title: {yq(title)}", f"url: {url}",
+          f"publisher: {yq(publisher)}", f"published: {date}", f"date_precision: {precision}",
+          f"date_source: {'source' if how == 'source' and precision == 'day' else 'proxy'}",
+          f"places: [{', '.join(places)}]", "topics: []", "entities: []",
+          "body_completeness: full", f"sweep_batch: {batch_tag}", "---", "",
+          f"# {title}", f"URL: {fetched}", "", body, ""]
+    with io.open(path, "w", encoding="utf-8", newline="\n") as fh:
+        fh.write("\n".join(fm))
+    return path
+
+
+def database_record(sid: str, e: pathlib.Path, claims: list[dict]) -> tuple[str, str]:
+    """The edition as one readable body: what a claim with no primary cites."""
+    s = source(sid)
+    lines = [f"{s['title']} — {s['publisher']}", "",
+             f"Rendered from the published file {s['download_url']}, fetched {e.name}. "
+             "African countries only.", ""]
+    by = collections.defaultdict(list)
+    for c in claims:
+        by[c["iso3"] or "unplaced"].append(c)
+    for iso in sorted(by):
+        lines += [f"## {iso}", ""]
+        for c in by[iso]:
+            bits = [c["survey_year"], c["item"], c["question"], c["status"], c["name"], c["year"],
+                    c["url"], c["documents"], c["basis"]]
+            lines.append("- " + " | ".join(b for b in bits if b))
+        lines.append("")
+    return s["title"], "\n".join(lines)
+
+
+TRANSIENT = re.compile(r"^(ConnectionError|ConnectTimeout|ReadTimeout|SSLError|HTTP 5\d\d|HTTP 429)")
+
+
+def cmd_stage(sid: str, limit: int, retry: bool = False) -> int:
+    s, e = source(sid), editions(sid)[-1]
+    claims = rows(e / "claims.csv")
+    log_path = e / "staging.csv"
+    log = {r["url"]: r for r in rows(log_path)} if log_path.exists() else {}
+    held = ss.lookup("raw-url-index.csv")
+    rejected = ss.lookup("rejected-urls.csv")
+    titles = held_by_title()
+    today = dt.date.today().isoformat()
+    todo = []
+    for u, c in candidates(claims).items():
+        if u in log and not (retry and log[u]["outcome"] == "unfetchable"
+                             and (TRANSIENT.search(log[u]["note"]) or "drive.google" in u)):
+            continue
+        hit = ss.screen(u, held, rejected)
+        if not hit and c["title"] and any((fold(c["title"]), p) in titles for p in c["places"]):
+            hit = ("held", "title and country in the catalogue")
+        if hit:
+            log[u] = {"url": u, "places": " ".join(c["places"]), "outcome": hit[0], "note": hit[1], "batch": ""}
+        else:
+            todo.append((u, c))
+    todo = todo[:limit] if limit else todo
+
+    def get(item):
+        # A malformed PDF raises from inside the extractor, not as a request error; on the
+        # first run (2026-11-10) one such file ended the whole run with nothing logged.
+        u, c = item
+        # A Drive viewer page is a JavaScript shell; its download form is the file itself. The
+        # body is filed under the link the source gave, which is the one a reader can open.
+        m = re.search(r"drive\.google\.com/file/d/([\w-]+)", u)
+        try:
+            got = ss.fetch(f"https://drive.google.com/uc?export=download&id={m[1]}" if m else u)
+        except Exception as e:  # noqa: BLE001
+            return item, (None, f"extraction failed: {type(e).__name__}", "", "")
+        if m and got[0] is not None:
+            got = (got[0], u, got[2], got[3])
+        return item, got
+
+    def save():
+        write_csv(log_path, ["url", "places", "outcome", "note", "batch"],
+                  sorted(log.values(), key=lambda r: r["url"]))
+
+    nums = [int(m[1]) for p in QUEUE.glob(f"dataset-external-{sid}-*")
+            if (m := re.search(r"-(\d+)$", p.name))]
+    done = [int(r["batch"]) for r in log.values() if r["batch"].isdigit()]
+    batch_no = max(nums + done + [0]) + 1
+    folder, in_batch, staged = None, 0, 0
+
+    # The database itself goes first, once per edition.
+    db_url = s["page_url"]
+    if db_url not in log and not ss.screen(db_url, held, rejected):
+        title, body = database_record(sid, e, claims)
+        folder = QUEUE / f"dataset-external-{sid}-{batch_no:02d}"
+        folder.mkdir(parents=True, exist_ok=False)
+        places = sorted({c["iso3"] for c in claims if c["iso3"]})
+        write_staged(folder, db_url, db_url, body, f"{title} ({e.name})", (e / "release").read_text().strip(),
+                     "source", places, f"dataset-external-{sid}-{today}", s["publisher"])
+        log[db_url] = {"url": db_url, "places": "", "outcome": "staged", "note": "the database record",
+                       "batch": str(batch_no)}
+        in_batch, staged = 1, 1
+
+    with ThreadPoolExecutor(8) as pool:
+        for (u, c), (body, fetched, kind, page_title) in pool.map(get, todo):
+            places = " ".join(c["places"])
+            if body is None:
+                log[u] = {"url": u, "places": places, "outcome": "unfetchable", "note": fetched, "batch": ""}
+                continue
+            if len(body) < ss.THIN:
+                log[u] = {"url": u, "places": places, "outcome": "thin", "note": f"{len(body)} chars", "batch": ""}
+                continue
+            published, how = published_for(u, c["year"], body, kind)
+            if not published:
+                log[u] = {"url": u, "places": places, "outcome": "undated", "note": "", "batch": ""}
+                continue
+            title = c["title"] or page_title or up.unquote(up.urlsplit(u).path.rsplit("/", 1)[-1])
+            if folder is None or in_batch >= BATCH:
+                if folder is not None:
+                    batch_no += 1
+                folder = QUEUE / f"dataset-external-{sid}-{batch_no:02d}"
+                folder.mkdir(parents=True, exist_ok=False)
+                in_batch = 0
+            write_staged(folder, u, fetched, body, title, published, how, c["places"],
+                         f"dataset-external-{sid}-{today}")
+            log[u] = {"url": u, "places": places, "outcome": "staged", "note": how, "batch": str(batch_no)}
+            in_batch += 1
+            staged += 1
+            save()
+    save()
+    tally = collections.Counter(r["outcome"] for r in log.values())
+    print(f"{sid}: staged {staged} this run; log {dict(tally)}")
+    return 0
+
+
+def cmd_ready(sid: str) -> int:
+    for f in sorted(QUEUE.glob(f"dataset-external-{sid}-*")):
+        if f.is_dir() and any(f.glob("*.md")) and not (f / "READY").exists():
+            (f / "READY").touch()
+            print(f"READY {f.name}")
+    return 0
+
+
+def main() -> int:
+    sys.stdout.reconfigure(encoding="utf-8")
+    ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
+    ap.add_argument("command", choices=["fetch", "claims", "stage", "ready"])
+    ap.add_argument("source")
+    ap.add_argument("--limit", type=int, default=0, help="stage: fetch at most this many links")
+    ap.add_argument("--retry", action="store_true",
+                    help="stage: fetch again the links a transient failure left unfetchable")
+    a = ap.parse_args()
+    if a.source not in ADAPTERS:
+        sys.exit(f"no adapter for {a.source}")
+    return {"fetch": lambda: cmd_fetch(a.source), "claims": lambda: cmd_claims(a.source),
+            "stage": lambda: cmd_stage(a.source, a.limit, a.retry), "ready": lambda: cmd_ready(a.source)}[a.command]()
+
+
+if __name__ == "__main__":
+    sys.exit(main())
