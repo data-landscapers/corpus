@@ -3,9 +3,9 @@ title: Nigeria — News, Oct – Nov 2026
 compiled: 2026-11-10
 period: 2026-10-01 to 2026-11-10
 place: NGA
-ledger_rows: 89
+ledger_rows: 93
 not_held: 9
-record: 1c8b737a4216
+record: fe0826259704
 ---
 
 # News, Oct – Nov 2026
@@ -28,6 +28,8 @@ record: 1c8b737a4216
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geopolitics">Geopolitics</a>
 </nav>
@@ -95,6 +97,20 @@ A Nigerian delegation led by communications minister Bosun Tijani attended a KOI
 **[상명대, 나이지리아 디지털정부 고위급 공무원 초청연수 성료](https://edu.donga.com/news/articleView.html?idxno=113353)** — E동아 (Donga), 30 October 2026
 
 A Sangmyung University consortium ran a study visit to Korea for Nigerian senior officials from 19 to 26 October 2026. It was part of a KOICA-funded digital governance project. About 20 people took part, among them the communications minister, the data protection commissioner and the head of Galaxy Backbone. The aim was to help put Nigeria's e-Government Master Plan 2.0 into practice.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SRAP 2.0 Digital Transformation Dashboard</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NITDA Unveils Digital Dashboard To Track Nigeria’s Transformation Progress - Matrix News](https://matrixngr.com/2026/11/09/nitda-unveils-digital-dashboard-to-track-nigerias-transformation-progress/)** — Matrix News, 9 November 2026
+
+Public tracker at dtd.nitda.gov.ng; built with GIZ Digital Transformation Center, EU and Denmark co-funding.
 
 </div>
 
@@ -760,6 +776,20 @@ Nigeria's Border Control and Immigration Management System now holds more than 1
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Single Window</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Export processing on National Single Window begins December 14 - Businessday NG](https://businessday.ng/news/article/export-processing-on-national-single-window-begins-december-14/)** — BusinessDay NG, 10 November 2026
+
+Export permits go live 14 December in two batches; CBN, Customs, NEPZA follow Q1 2027; HS-code list by 1 December.
+
+</div>
+
+</div>
+
 ### Digital Identity and CRVS
 
 <div class="monthly-story" markdown="1">
@@ -1184,6 +1214,14 @@ An analysis of Nigeria's preliminary voter register, which lists more than 103 m
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Suspected AI-generated photos, duplicates trigger Nigeria biometric election cleanup](https://www.biometricupdate.com/202611/suspected-ai-generated-photos-duplicate-records-trigger-nigeria-biometric-election-cleanup)** — Biometric Update, 10 November 2026
+
+1.6m+ records removed; 217,722 of 268,000 adjudicated confirmed invalid; 54 staff in 10 states implicated.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1321,6 +1359,20 @@ The permanent secretary of Nigeria's Sokoto State Ministry of Innovation and Dig
 **[Adamawa Launches Civil Service Digitisation, ERP Reform](https://dailytrust.com/adamawa-launches-civil-service-digitisation-erp-reform/)** — Daily Trust, 12 October 2026
 
 Nigeria's Adamawa State began its Civil Service Digitisation and Capacity Building Project at a kick-off meeting on 9 October 2026. The enterprise resource planning system will hold one set of personnel and payroll records for the Civil Service Commission, the Head of Service and the Accountant-General, hosted on state infrastructure. No supplier or cost is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SPRIRET state digital reform programme in Osun</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Osun State Enters Partnership with UK on Digital Transformation Drive](https://www.osunstate.gov.ng/2026/11/osun-state-enters-partnership-with-uk-on-digital-transformation-drive/)** — osunstate.gov.ng, 10 November 2026
+
+SPRIRET: policy, connectivity, DPI and civic-tech reforms, implemented by iDi; no amount or signing date stated.
 
 </div>
 
@@ -1631,6 +1683,28 @@ The 2026 Access to Financial Services survey by EFInA and Nigeria's statistics b
 **[The jargon problem keeping public participation out of DPI design](https://govinsider.asia/intl-en/article/the-jargon-problem-keeping-public-participation-out-of-dpi-design-1)** — GovInsider, 19 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/catalogue/#places=XGL" title="XGL">Global</a>
 
 Speakers at an Open Government Partnership webinar on 15 October 2026 said the label 'digital public infrastructure' keeps the public out of designing digital ID, payment and data systems, and urged governments to make clear where people can take part. Nigeria's open-government plan carries a DPI commitment led by NITDA, including a pilot of accessibility standards in 10 federal agencies.
+
+</div>
+
+</div>
+
+## Data
+
+<nav class="article-toc monthly-subnav" aria-label="Topics under Data">
+<a href="#national-statistics">National statistics</a>
+</nav>
+
+### National statistics
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital platform for the Sub-National Fiscal Survey</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigerian Central Bank Digitalises Fiscal Data Collection - Voice of Nigeria](https://von.gov.ng/nigerian-central-bank-digitalises-fiscal-data-collection/)** — Voice of Nigeria, 10 November 2026
+
+Paper twice-yearly survey of 36 states, FCT and 774 LGAs goes digital and quarterly; 16 states trained by 6 November.
 
 </div>
 
