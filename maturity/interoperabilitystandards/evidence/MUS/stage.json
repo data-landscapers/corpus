@@ -1,16 +1,17 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "standards",
-   "stage": "3",
-   "standing": "published",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MUS-001",
-   "gaps": "No source found says a law, decree, regulation or circular requires public bodies to use the standards.",
-   "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "standards",
+      "stage": "3",
+      "standing": "published",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-001",
+      "gaps": "No source found says a law, decree, regulation or circular requires public bodies to use the standards.",
+      "note": "The 2002 e-GIF version 1.0 sets technical standards and specifications for data exchange between agencies (MUS-001), and published standards stand until a source says they were withdrawn, which none does. Stage 4 needs an instrument making them compulsory, and none is held.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

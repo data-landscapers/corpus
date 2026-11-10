@@ -1,16 +1,17 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "standards",
-   "stage": "2",
-   "standing": "draft",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-001;COD-002",
-   "gaps": "No source found says the standards have been published.",
-   "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "standards",
+      "stage": "2",
+      "standing": "draft",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-001;COD-002",
+      "gaps": "No source found says the standards have been published.",
+      "note": "The government adopted the draft norms and standards, the general interoperability framework among them, in April 2022 with legal force still to come by ministerial order (COD-001; COD-002), so they stand as a draft. Stage 3 needs them issued, and no order or publication is held.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

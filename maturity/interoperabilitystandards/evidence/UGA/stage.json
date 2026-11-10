@@ -10,8 +10,8 @@
       "flags": "",
       "stage_sources": "UGA-001",
       "gaps": "No source found says a law, decree, regulation or circular requires public bodies to use the standards.",
-      "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py.",
-      "as_at": "2026-10-18"
+      "note": "NITA-U's e-GIF-2026 sets data-sharing standards such as DCAT and ODRL for all ministries, agencies and local governments (UGA-001). It calls itself mandatory, which the ladder does not count, so stage 4 waits on an instrument making it so.",
+      "as_at": "2026-11-10"
     }
   ]
 }

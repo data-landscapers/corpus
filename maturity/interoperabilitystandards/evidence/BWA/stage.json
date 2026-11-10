@@ -1,16 +1,17 @@
 {
- "iso3": "BWA",
- "cells": [
-  {
-   "sub_indicator": "standards",
-   "stage": "2",
-   "standing": "draft",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BWA-001",
-   "gaps": "No source found says the standards have been published.",
-   "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py."
-  }
- ]
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "standards",
+      "stage": "2",
+      "standing": "draft",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BWA-001",
+      "gaps": "No source found says the standards have been published.",
+      "note": "An EU-funded project running to 2027 is improving and aligning Botswana's interoperability framework and standards (BWA-001), work under way on a named set. Stage 3 needs the standards issued, and no source says they have been.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

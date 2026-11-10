@@ -1,16 +1,17 @@
 {
- "iso3": "LBY",
- "cells": [
-  {
-   "sub_indicator": "standards",
-   "stage": "1",
-   "standing": "none",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBY-001",
-   "gaps": "",
-   "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py."
-  }
- ]
+  "iso3": "LBY",
+  "cells": [
+    {
+      "sub_indicator": "standards",
+      "stage": "1",
+      "standing": "none",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBY-001",
+      "gaps": "No source says whether standards are being written; the paper says only that the institutions have no unified ones.",
+      "note": "A 2026 paper's abstract says Libya's government institutions lack unified interoperability standards (LBY-001), the dated statement of absence stage 1 rests on. No draft is held that would set stage 2; the paper is silent on whether standards are being written.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

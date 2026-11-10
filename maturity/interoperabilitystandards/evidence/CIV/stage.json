@@ -1,16 +1,17 @@
 {
- "iso3": "CIV",
- "cells": [
-  {
-   "sub_indicator": "standards",
-   "stage": "4",
-   "standing": "published",
-   "use": "required",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CIV-002;CIV-001",
-   "gaps": "No source from the last three years naming a public body, system or product tested, audited or certified against the standards is held.",
-   "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py."
-  }
- ]
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "standards",
+      "stage": "4",
+      "standing": "published",
+      "use": "required",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CIV-002;CIV-001",
+      "gaps": "No source from the last three years naming a public body, system or product tested, audited or certified against the standards is held.",
+      "note": "Decree 2021-913 adopts the RGI's list of technical standards (CIV-001) and its article 3 binds public bodies to conform to it (CIV-002). Stage 5 needs a system checked against the RGI in the last three years, and none is held.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

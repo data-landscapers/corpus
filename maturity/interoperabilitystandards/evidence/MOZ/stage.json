@@ -1,16 +1,17 @@
 {
- "iso3": "MOZ",
- "cells": [
-  {
-   "sub_indicator": "standards",
-   "stage": "3",
-   "standing": "published",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MOZ-001",
-   "gaps": "No source found says a law, decree, regulation or circular requires public bodies to use the standards.",
-   "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py."
-  }
- ]
+  "iso3": "MOZ",
+  "cells": [
+    {
+      "sub_indicator": "standards",
+      "stage": "3",
+      "standing": "published",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MOZ-001",
+      "gaps": "No source found says a law, decree, regulation or circular requires public bodies to use the standards.",
+      "note": "INTIC's chairman says the interoperability regulation sets standards for public information systems (MOZ-001); the 2026 revision (MOZ-002) is of a published text and does not undo it. Stage 4 needs an instrument making the standards compulsory, and none is held.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

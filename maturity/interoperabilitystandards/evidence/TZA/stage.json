@@ -1,16 +1,17 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "standards",
-   "stage": "3",
-   "standing": "published",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TZA-001",
-   "gaps": "No source found says a law, decree, regulation or circular requires public bodies to use the standards.",
-   "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "standards",
+      "stage": "3",
+      "standing": "published",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-001",
+      "gaps": "No source found says a law, decree, regulation or circular requires public bodies to use the standards.",
+      "note": "The e-Government Agency's 2016 standards and technical guidelines set nine areas of technical standards for government systems to exchange data (TZA-001), and no source says they were withdrawn. Stage 4 needs an instrument making them compulsory, and none is held.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

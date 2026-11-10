@@ -1,16 +1,17 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "standards",
-   "stage": "3",
-   "standing": "published",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BEN-003;BEN-001",
-   "gaps": "No source found says a law, decree, regulation or circular requires public bodies to use the standards.",
-   "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "standards",
+      "stage": "3",
+      "standing": "published",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-003;BEN-001",
+      "gaps": "No source found says a law, decree, regulation or circular requires public bodies to use the standards.",
+      "note": "The 2020 framework names the technical standards government systems are to use (BEN-001), and ASIN treated it as in place in July 2026 (BEN-003); the 2026 architecture-policy draft (BEN-004) is a further text and lowers nothing. Stage 4 needs an instrument making the standards compulsory: the framework's own wording does not count and the decree's text is not held.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

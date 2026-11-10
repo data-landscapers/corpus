@@ -1,16 +1,17 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "standards",
-   "stage": "2",
-   "standing": "draft",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SEN-001",
-   "gaps": "No source found says the standards have been published.",
-   "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "standards",
+      "stage": "2",
+      "standing": "draft",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-001",
+      "gaps": "No source found says the standards have been published.",
+      "note": "In May 2026 the ministry presented the national interoperability framework with its technical standards beside a draft decree, neither adopted (SEN-001), which supersedes the 2024 statement that none exist (SEN-002). Stage 3 needs the standards issued, and none is held.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

@@ -10,8 +10,8 @@
       "flags": "",
       "stage_sources": "STP-002;STP-001",
       "gaps": "No source from the last three years naming a public body, system or product tested, audited or certified against the standards is held.",
-      "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py.",
-      "as_at": "2026-10-18"
+      "note": "Lei 1/2024 institutes the QNI's technical specifications (STP-001) and, as a law, makes the mandatory ones compulsory in new IT projects of public institutions (STP-002). Stage 5 needs a system checked against the specifications in the last three years, and none is held.",
+      "as_at": "2026-11-10"
     }
   ]
 }

@@ -1,16 +1,17 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "standards",
-   "stage": "2",
-   "standing": "draft",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-001;KEN-002",
-   "gaps": "No source found says the standards have been published.",
-   "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "standards",
+      "stage": "2",
+      "standing": "draft",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-001;KEN-002",
+      "gaps": "No source found says the standards have been published.",
+      "note": "The 2023 GEA-GIF second edition sets data, technical and metadata standards with its approval left blank (KEN-002), and in November 2025 the ICT Authority said it would finalise them (KEN-001), so they are a draft. Stage 3 needs an issued edition, and none is held.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

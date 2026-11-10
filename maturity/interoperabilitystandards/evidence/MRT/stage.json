@@ -1,16 +1,17 @@
 {
- "iso3": "MRT",
- "cells": [
-  {
-   "sub_indicator": "standards",
-   "stage": "2",
-   "standing": "draft",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MRT-001",
-   "gaps": "No source found says the standards have been published.",
-   "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py."
-  }
- ]
+  "iso3": "MRT",
+  "cells": [
+    {
+      "sub_indicator": "standards",
+      "stage": "2",
+      "standing": "draft",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MRT-001",
+      "gaps": "No source found says the standards have been published.",
+      "note": "The ministry held a workshop to develop a framework of public digital-service standards for interoperability and put a technical study to stakeholders before adoption (MRT-001), a set out for consultation. Stage 3 needs the standards issued, and none is held.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

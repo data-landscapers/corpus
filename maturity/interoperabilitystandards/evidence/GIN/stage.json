@@ -1,16 +1,17 @@
 {
- "iso3": "GIN",
- "cells": [
-  {
-   "sub_indicator": "standards",
-   "stage": "unplaced",
-   "standing": "",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No standards or draft are on record, and no source dated in the last three years says the country has neither.",
-   "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py."
-  }
- ]
+  "iso3": "GIN",
+  "cells": [
+    {
+      "sub_indicator": "standards",
+      "stage": "unplaced",
+      "standing": "",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No standards or draft are on record, and no source dated in the last three years says the country has neither.",
+      "note": "The one row lists interoperability rules at version 0.2.2, which would be a draft, on a page dated only 2026 (GIN-001); a year stands for its last day, after the as-at. With no row dated inside the as-at, no rung is set.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

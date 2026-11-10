@@ -1,6 +1,6 @@
 # National interoperability standards: technical standards for government systems
 
-*As at 2026-09-30.*
+*As at 2026-11-10.*
 
 ## The norm
 

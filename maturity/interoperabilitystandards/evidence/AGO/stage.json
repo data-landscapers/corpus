@@ -1,16 +1,17 @@
 {
- "iso3": "AGO",
- "cells": [
-  {
-   "sub_indicator": "standards",
-   "stage": "2",
-   "standing": "draft",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "AGO-001",
-   "gaps": "No source found says the standards have been published.",
-   "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py."
-  }
- ]
+  "iso3": "AGO",
+  "cells": [
+    {
+      "sub_indicator": "standards",
+      "stage": "2",
+      "standing": "draft",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "AGO-001",
+      "gaps": "No source found says the standards have been published.",
+      "note": "A framework with technical guidelines was produced by a study with 25 institutions and has no adoption instrument (AGO-001), so standards are being written; the same document's finding of no common standards (AGO-002) cannot set stage 1 while that draft exists. Stage 3 needs the standards issued, and no source says they are.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

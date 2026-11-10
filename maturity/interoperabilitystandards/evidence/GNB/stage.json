@@ -1,16 +1,17 @@
 {
- "iso3": "GNB",
- "cells": [
-  {
-   "sub_indicator": "standards",
-   "stage": "3",
-   "standing": "published",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GNB-001",
-   "gaps": "No source found says a law, decree, regulation or circular requires public bodies to use the standards.",
-   "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py."
-  }
- ]
+  "iso3": "GNB",
+  "cells": [
+    {
+      "sub_indicator": "standards",
+      "stage": "3",
+      "standing": "published",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNB-001",
+      "gaps": "No source found says a law, decree, regulation or circular requires public bodies to use the standards.",
+      "note": "Decree 27/2025, published in the Boletim Oficial, is reported as the regulation establishing technical standards for interoperable digital solutions (GNB-001), a yes to question 2 under the study's rule for a regulation said to set standards. Stage 4 needs a source saying public bodies must use them, and the page gives no such duty.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

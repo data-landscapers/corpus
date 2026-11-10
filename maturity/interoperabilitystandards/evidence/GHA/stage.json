@@ -1,16 +1,17 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "standards",
-   "stage": "2",
-   "standing": "draft",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-001",
-   "gaps": "No source found says the standards have been published.",
-   "note": "Counted from the four questions by study-ladder-interoperabilitystandards.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "standards",
+      "stage": "2",
+      "standing": "draft",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-001",
+      "gaps": "No source found says the standards have been published.",
+      "note": "NITA's eGIF version 2.0, with technical annexes on data, network and services, is labelled a draft for stakeholder review (GHA-001). Stage 3 needs an issued edition, and none is held.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }
