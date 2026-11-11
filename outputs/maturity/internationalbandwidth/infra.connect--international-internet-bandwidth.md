@@ -20,9 +20,9 @@ The African Union's Digital Transformation Strategy 2020–2030 asks every membe
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 9 |
+| 5 Leading | 10 |
 | 4 Operating | 11 |
-| 3 Established | 22 |
+| 3 Established | 21 |
 | 2 Nascent | 10 |
 | 1 Absent | 1 |
 | Unplaced | 0 |
@@ -78,6 +78,14 @@ Two independent fibre routes abroad by 2025, and other operators buy capacity on
 - Nigeria's international cables land at two stations: most at Lagos, and 2Africa at Qua Iboe, Akwa Ibom, the first landing outside Lagos, with PR1 Port Harcourt providing an alternate route when Lagos is disrupted (TechCabal) ([source, 2025-12](https://techcabal.com/2026/02/09/equinix-opens-first-south-south-data-centre/)).
 - TechAfrica News says the 2Africa cable was declared complete and activated in late 2025, with MTN GlobalConnect (Bayobab) leading the landing in Nigeria ([source, 2025](https://techafricanews.com/2026/02/12/2africa-is-here-how-africa-can-capture-the-full-potential-of-the-subsea-cable/)).
 - Equinix/MainOne provides the 2Africa landing facilities, middle-mile fibre and carrier-neutral data centre PR1 so network operators, cloud providers and enterprises can plug into the capacity; the cable itself belongs to a consortium (TechCabal) ([source, 2026-02](https://techcabal.com/2026/02/09/equinix-opens-first-south-south-data-centre/)).
+
+### Senegal: 5 Leading
+
+A land route and several cables, among them 2Africa, carried traffic abroad by 2025, and other operators reach the cables at a neutral facility.
+
+- Phase 3 Telecom says it and Sonatel have activated a 3,500 km terrestrial fibre route from Lagos to Dakar via Benin, Togo and Ghana, as a land alternative to subsea cables ([source, 2025-05-06](https://www.phase3telecom.com/phase-3-and-sonatel-unveils-3500km-terrestrial-fibre-route/)).
+- Sonatel's own press release says the 2Africa cable, in service since December 2025 with 180 Tbit/s nominal capacity, lands in Senegal at a station Sonatel built ([source, 2025-12](https://sonatel.sn/sonatel-annonce-la-mise-en-service-du-cable-sous-marin-2africa-le-plus-performant-jamais-deploye-en-afrique/)).
+- Onix, quoted by DCD, says its neutral colocation facility at the 2Africa landing station in Dakar lets customers connect to all submarine cables in Senegal in a wholesale environment ([source, 2023-02-16](https://www.datacenterdynamics.com/en/news/onix-data-centers-expands-into-dakar-senegal/)).
 
 ### Somalia: 5 Leading
 
@@ -292,13 +300,6 @@ Three fibre routes abroad through Tanzania and Kenya by 2024; no cable of more t
 
 - The AIPI investor guidebook states Rwanda has 3 international fibre optic routes giving connectivity to the SEACOM undersea cable, connected via Tanzania and Kenya ([source, 2024-03-27](https://aipi.rw/wp-content/uploads/2024/03/IT-INVESTOR-GUIDEBOOK.pdf)).
 - Paratus Group says its 2,000km G2M terrestrial fibre route from Mombasa (Kenya) to Goma (DRC) via Nairobi, Kampala (Uganda) and Kigali (Rwanda) was switched on and is carrying traffic for its first wholesale customers, linking inland markets including Rwanda to coastal subsea cable capacity (vendor press release, republished by ITWeb Africa; as_of is the publication date, which the document gives as the switch-on date) ([source, 2026-02-09](https://itweb.africa/article/paratus-lights-up-new-east-africa-fibre-highway-linking-goma-to-mombasa/wbrpOqg2aJQMDLZn)).
-
-### Senegal: 3 Established
-
-Two or more fibre routes abroad by 2025; no source found says whether two are independent of each other.
-
-- Connecting Africa (27 Jan 2025) states several submarine cables are already connected to Dakar, including ACE, MainOne, Sat-3, SHARE and 2Africa (five named); no landing stations given ([source, 2025-01-27](https://www.connectingafrica.com/data-centers/paix-to-build-data-center-in-senegal)).
-- DCD (23 Jan 2025) reports PAIX's CEO citing Dakar's aggregation of submarine-cable landings, ACE, MainOne, SAT-3 and SHARE (four named), with 2Africa to join; no landing stations given ([source, 2025-01-23](https://www.datacenterdynamics.com/en/news/paix-data-centres-breaks-ground-on-facility-in-dakar-senegal)).
 
 ### Seychelles: 3 Established
 

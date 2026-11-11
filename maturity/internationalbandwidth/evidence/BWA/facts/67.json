@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-24-bwa-paratus-botswana-completes-botswana-kalahari-fiber-route",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Paratus Botswana says its 840 km Botswana Kalahari Fiber route from the Namibian border to Lobatse was activated at the end of March 2024, connecting Botswana to the Equiano subsea cable landed in Namibia.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "Botswana Kalahari Fiber (BKF) route",
+   "class": "route"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Botswana Kalahari Fiber (BKF) route",
+   "country_label": "Botswana",
+   "class": "route",
+   "platform": "",
+   "owner": "Paratus Botswana",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

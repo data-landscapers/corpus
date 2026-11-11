@@ -1,0 +1,17 @@
+{
+ "slug": "2025-05-06-sen-phase-3-and-sonatel-unveils-3-500km-terrestrial-fibre-route",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "one",
+   "fact": "Phase 3 Telecom says it and Sonatel have activated a 3,500 km terrestrial fibre route from Lagos to Dakar via Benin, Togo and Ghana, as a land alternative to subsea cables.",
+   "as_of": "2025-05-06",
+   "date_precision": "day",
+   "system": "Phase 3 and Sonatel Lagos-Dakar terrestrial route",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

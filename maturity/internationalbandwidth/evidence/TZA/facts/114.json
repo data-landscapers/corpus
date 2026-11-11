@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-01-tza-mawasiliano-completed-projects-nictbb-rcip",
+ "facts": [
+  {
+   "sub_indicator": "routes",
+   "aspect": "routes",
+   "value": "two",
+   "fact": "The Ministry says that in phase I (2009-2010) the national backbone was also connected to the SEACOM and EASSy submarine cables.",
+   "as_of": "2010",
+   "date_precision": "year",
+   "system": "SEACOM and EASSy",
+   "class": "route"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,16 +1,17 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "routes",
-   "stage": "3",
-   "routes": "two",
-   "access": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SEN-004;SEN-005",
-   "gaps": "No source found says two of the routes land at different stations, or run through two different neighbours.",
-   "note": "Counted from the four questions by study-ladder-internationalbandwidth.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "routes",
+      "stage": "5",
+      "routes": "independent",
+      "access": "open",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-010;SEN-009;SEN-008",
+      "gaps": "",
+      "note": "Fact 2026-11-10: Phase 3 and Sonatel run a land route from Dakar to Lagos beside the cables landing in Dakar, so two routes share no landing station (SEN-010), and 2Africa at 180 Tbit/s lands at Sonatel's station (SEN-009). Onix's neutral facility at that station gives other operators wholesale access to the cables (SEN-008), so stage 5, as Angola and Namibia.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }
