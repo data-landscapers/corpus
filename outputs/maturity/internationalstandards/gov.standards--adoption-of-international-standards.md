@@ -176,7 +176,7 @@ Kenya's standards bureau was a member body of ISO in 2026; no international stan
 
 ### Liberia: 2 Nascent
 
-Liberia's standards authority announced full ISO membership in November 2025; no international standard on information technology or data adopted nationally is known.
+Liberia's standards authority is an ISO member, listed by ISO as a correspondent member in 2026; no information technology standard adopted nationally is known.
 
 - Liberian Observer reports Liberia Standards Authority Director General Stephen Y. Mambu announced that Liberia is now a full member of ISO ([source, 2025-11](https://www.liberianobserver.com/news/liberia-attains-full-iso-membership/article_31c242b3-2a0f-4118-b019-581fea289693.html)).
 - The Liberia Standards Authority gained Correspondent Membership of ISO, per its statement of 7 October 2025 ([source, 2025-10-07](https://frontpageafricaonline.com/liberia-standards-authority-joins-iso-afsec-as-director-general-departs-for-global-leaders-gathering-in-rwanda/)).

@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-lbr-iso-member-lisa",
+ "facts": [
+  {
+   "sub_indicator": "international",
+   "aspect": "standing",
+   "value": "member",
+   "fact": "ISO's member page lists the Liberia Standards Authority (LiSA) as a Correspondent member of ISO.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Liberia Standards Authority (LiSA)",
+   "class": "adoption"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
