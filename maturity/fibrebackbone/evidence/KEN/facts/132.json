@@ -1,0 +1,36 @@
+{
+ "slug": "2024-08-27-ken-bayobab-kenya-to-boost-connectivity-with-mombasa-to-malaba-fibre-proje",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Bayobab Kenya says it has completed a long-distance fibre network from Mombasa to Malaba and Busia, over 1,000 km along the Kenya Railways metre-gauge line, a second route after its 2022 Mombasa-Malaba route.",
+   "as_of": "2024-08-27",
+   "date_precision": "day",
+   "system": "Bayobab Kenya long-distance fibre (Mombasa-Malaba-Busia)",
+   "class": "backbone"
+  },
+  {
+   "sub_indicator": "backbone",
+   "aspect": "access",
+   "value": "open",
+   "fact": "Bayobab Kenya says internet service providers can use its open access long-distance fibre on the Mombasa-Malaba-Busia route as a high-capacity backbone.",
+   "as_of": "2024-08-27",
+   "date_precision": "day",
+   "system": "Bayobab Kenya long-distance fibre (Mombasa-Malaba-Busia)",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bayobab Kenya long-distance fibre (Mombasa-Malaba-Busia)",
+   "country_label": "Kenya",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Bayobab Kenya (MTN Group)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

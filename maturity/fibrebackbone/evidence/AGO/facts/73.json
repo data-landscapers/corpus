@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-ago-angola-apresenta-a-uit-projectos-de-fibra-optica-satelite-e",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "building",
+   "fact": "The minister said the National Broadband Network, based on optical fibre, is being consolidated by expanding active and passive infrastructure across the national territory.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Rede Nacional de Banda Larga",
+   "class": "backbone"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

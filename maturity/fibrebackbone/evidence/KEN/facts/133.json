@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-01-ken-kippra-leveraging-digitalization-public-service-delivery",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "KIPPRA says the government had built about 9,000km of terrestrial fibre by March 2022 under NOFBI, reaching sub-county level.",
+   "as_of": "2022-03",
+   "date_precision": "month",
+   "system": "National Optic Fibre Backbone Infrastructure Project",
+   "class": "backbone"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

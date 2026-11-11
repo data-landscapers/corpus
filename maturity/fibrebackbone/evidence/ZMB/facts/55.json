@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-21-zmb-bayobab-zambia-and-vodacom-mocambique-launch-strategic-fibre-interconn",
+ "facts": [
+  {
+   "sub_indicator": "backbone",
+   "aspect": "reach",
+   "value": "in-service",
+   "fact": "Bayobab's release of 21 February 2026 says Bayobab Zambia operates over 7,100 km of fibre nationwide.",
+   "as_of": "2026-02-21",
+   "date_precision": "day",
+   "system": "Bayobab Zambia fibre network",
+   "class": "backbone"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Bayobab Zambia fibre network",
+   "country_label": "Zambia",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Bayobab Zambia (MTN)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
