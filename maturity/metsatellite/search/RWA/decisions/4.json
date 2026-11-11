@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;warnings",
+ "fact": "Rwanda's October 2023 hydromet diagnostic states Meteo Rwanda accesses EUMETSAT satellite products through a ground-based satellite receiver and issues impact-based early warning messages when an extreme event is expected.",
+ "title": "Country Hydromet Diagnostics - Rwanda, 2023",
+ "publisher": "Systematic Observations Financing Facility (SOFF) / WMO",
+ "published": "2023-10",
+ "date_source": "source",
+ "why_not": ""
+}

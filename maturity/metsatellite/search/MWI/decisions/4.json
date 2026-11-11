@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "In the September 2025 edition DCCMS, with DoDMA, reports adopting Impact-Based Forecasting under Early Warning for All, with an impact matrix and warnings to be issued in English and Chichewa.",
+ "title": "Zanyengo E-Newsletter Edition III",
+ "publisher": "Department of Climate Change and Meteorological Services (DCCMS)",
+ "published": "2025-09",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "ANM's 2021-2025 strategic plan lists, as technical means needed for its forecasting centre, one RETIM Africa receiver with antenna, two TV-MET workstations and access to satellite data.",
+ "title": "Plan stratégique 2021-2025",
+ "publisher": "Agence Nationale de la Météorologie",
+ "published": "2020-11",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;warnings",
+ "fact": "In a presentation dated 15 February 2022 the MMS described using Meteosat-8 and other satellite products to monitor Intense Tropical Cyclone Batsirai and to issue and maintain cyclone warnings.",
+ "title": "Contribution of Satellite Products in monitoring Intense Tropical Cyclone BATSIRAI in the Indian Ocean",
+ "publisher": "Mauritius Meteorological Services",
+ "published": "2022-02-15",
+ "date_source": "source",
+ "why_not": ""
+}

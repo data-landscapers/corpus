@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "metsat",
+ "aspect": "",
+ "fact": "",
+ "title": "Impact Based Forecasting (IBF)",
+ "publisher": "Meteorological Services Department",
+ "published": "2025-06-17",
+ "date_source": "source",
+ "why_not": "off-topic: impact tables for IBF training, no satellite fact and no warning stated as issued by MSD"
+}

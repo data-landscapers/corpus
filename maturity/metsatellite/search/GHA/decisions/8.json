@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "certified",
+ "fact": "GMet was certified to ISO 9001:2015 by the Certification Group in the UK, reported July 2019.",
+ "title": "Ghana Meteorological Agency meets ISO international standards",
+ "publisher": "Daily Graphic",
+ "published": "2019-07-20",
+ "date_source": "proxy",
+ "why_not": ""
+}

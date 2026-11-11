@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;warnings",
+ "fact": "On 23 September 2026 the MMS Strategic Plan 2027-2031 was validated, providing for upgrading radar and satellite systems and for impact-based warnings through the national multi-hazard early warning system.",
+ "title": "Mauritius Meteorological Service validates five-year Strategic Plan to strengthen weather, climate and early warning services",
+ "publisher": "WMO",
+ "published": "2026-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

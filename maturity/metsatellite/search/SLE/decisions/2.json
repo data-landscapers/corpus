@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "SLMet issued its first Common Alerting Protocol warning on 4 March 2026, a light-dust visibility warning for Freetown produced with the CAP Composer tool on its new website.",
+ "title": "Sierra Leone Publishes First CAP Warning, Advancing Early Warning Systems",
+ "publisher": "Sierra Leone Meteorological Agency",
+ "published": "2026-03-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

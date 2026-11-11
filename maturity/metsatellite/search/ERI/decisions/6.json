@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "metsat",
+ "aspect": "",
+ "fact": "",
+ "title": "Evaluation of satellite-based (CHIRPS and GPM) and reanalysis (ERA5-Land) precipitation estimates over Eritrea",
+ "publisher": "Meteorologische Zeitschrift",
+ "published": "2022-08-02",
+ "date_source": "source",
+ "why_not": "off-topic: academic product evaluation, nothing on the national weather service's satellite reception, forecasts or warnings"
+}

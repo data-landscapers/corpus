@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "The ONM director general said the vigilance map early-warning system, published on meteo.dz and a mobile app and updated at 17:00, has operated since 23 March 2017 and gradually replaces special weather bulletins.",
+ "title": "Météorologie Carte de vigilance : le nouveau système d'alerte",
+ "publisher": "Le Jeune Indépendant",
+ "published": "2019-09-15",
+ "date_source": "proxy",
+ "why_not": ""
+}

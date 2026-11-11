@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "Zimbabwe has had Eumetsat geostationary access and since a 2016 deal with China receives and processes data from Fengyun-3 polar-orbiting satellites.",
+ "title": "Has access to Chinese satellites helped Zimbabwe's agric revival?",
+ "publisher": "Techzim",
+ "published": "2024-01-29",
+ "date_source": "source",
+ "why_not": ""
+}

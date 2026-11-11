@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "The CREWS Togo final report states ANAMET's capabilities on the use of nowcasting satellite products were reinforced through tailored training, and that 7 CAP-format alerts were issued in 2023 (3 in January-June, 4 in July-December).",
+ "title": "CREWS Project Final Report: Togo",
+ "publisher": "CREWS (Climate Risk and Early Warning Systems)",
+ "published": "2025-12",
+ "date_source": "source",
+ "why_not": ""
+}

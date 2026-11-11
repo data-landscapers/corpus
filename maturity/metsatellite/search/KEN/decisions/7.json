@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "On 31 January 2022 the FASTA nowcasting app was launched with the Kenya Meteorological Department, using EUMETSAT NWC-SAF satellite products to give real-time thunderstorm maps and storm alerts.",
+ "title": "The FASTA weather Nowcasting App is now live for Kenya",
+ "publisher": "FASTA",
+ "published": "2022-01-31",
+ "date_source": "proxy",
+ "why_not": ""
+}

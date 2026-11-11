@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;certified",
+ "fact": "The December 2023 peer review finds DCCMS operates a PUMA satellite receiving station for Meteosat imagery, and that its QMS for air navigation remains at ISO 9001:2008 and is not certified.",
+ "title": "Country Hydromet Diagnostics: Malawi DCCMS Peer Review Report",
+ "publisher": "Alliance for Hydromet Development",
+ "published": "2023-12",
+ "date_source": "source",
+ "why_not": ""
+}

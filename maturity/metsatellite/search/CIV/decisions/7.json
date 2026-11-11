@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "SODEXAM's flood forecasting draws on fine-mesh satellite data and satellite-based tools, with impact-based forecasts stated to exist nationally and for Abidjan, and a vigilance and alert bulletin chain with ONPC.",
+ "title": "Processus actuel(s) de prévision et d'alerte précoce de bout en bout aux inondations - Cas de la Côte d'Ivoire",
+ "publisher": "SODEXAM / ONPC (atelier régional VFDM)",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

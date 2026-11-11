@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "On 24-28 June 2019 ICPAC trained Eritrean Ministry of Land, Water and Environment staff to administer and apply a MESA station, a satellite data receiving and processing system provided to Eritrea between 2011 and 2017 (receiver sits in the environment ministry, not named as the weather service).",
+ "title": "ICPAC Trains Eritrean Experts on Earth Observation Receiving Stations",
+ "publisher": "IGAD",
+ "published": "2019-07-08",
+ "date_source": "source",
+ "why_not": ""
+}

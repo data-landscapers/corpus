@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://dirmet.cg/imagerie-satellite/,fetched,,scripts/.workroot/study/metsatellite/cache/COG/1.txt,378,html,Imagerie satellite
+2,https://dirmet.cg/nos-services/meteo/,fetched,,scripts/.workroot/study/metsatellite/cache/COG/2.txt,127,html,Météo
+3,https://alertingauthority.wmo.int/authorities.php?recId=33,fetched,,scripts/.workroot/study/metsatellite/cache/COG/3.txt,102,html,WMO Register of Alerting Authorities
+4,https://www.adiac-congo.com/content/journee-meteorologique-mondiale-le-congo-engage-dans-le-systeme-dalerte-precoce-pour-tous,fetched,,scripts/.workroot/study/metsatellite/cache/COG/4.txt,361,html,Journée météorologique mondiale : le Congo engagé dans le système d’alerte précoce pour tous
+5,https://dirmet.cg/lagence/projets/renforcement-de-la-resilience-des-populations-et-des-institutions-locales-face-aux-risques-de-catastrophes-en-republique-du-congo/,fetched,,scripts/.workroot/study/metsatellite/cache/COG/5.txt,371,html,Renforcement de la résilience des populations et des institutions locales face aux risques de catastrophes en république du congo
+6,https://nora.nerc.ac.uk/id/eprint/535862/1/N535862JA.pdf,fetched,,scripts/.workroot/study/metsatellite/cache/COG/6.txt,11668,pdf,Strengthening weather forecast and dissemination capabilities in Central Africa: Case assessment of intense flooding in January 2020
+7,https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/severe-weather-forecasting-programme-swfp/swfp-central-africa,fetched,,scripts/.workroot/study/metsatellite/cache/COG/7.txt,552,html,SWFP-Central Africa
+8,https://anaccongo.cg/fr/2015/03/13/demarche-qualite/,fetched,,scripts/.workroot/study/metsatellite/cache/COG/8.txt,356,html,Démarche qualité

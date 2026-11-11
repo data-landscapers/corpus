@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "The JJAS 2024 seasonal rainfall forecast issued on 3 June 2024 used satellite-derived rainfall estimates enhanced with rain gauge data.",
+ "title": "SUNCOF1 Statement 2024",
+ "publisher": "Sudan Meteorological Authority",
+ "published": "2024-06-03",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;warnings;certified",
+ "fact": "The Meteo Rwanda presentation at EUMETSAT lists PUMA-2025 reception stations and MTG data among its observing infrastructure, states ISO 9001:2015 certification, and gives severe thunderstorm warning lead time rising from 15 minutes in 2021 to a projected 60 minutes in 2026.",
+ "title": "Weather from Space A Game Changer for Africa: The use of MTG and radar at Meteo Rwanda",
+ "publisher": "Rwanda Meteorology Agency (Meteo Rwanda), presented at EUMETSAT",
+ "published": "2026-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

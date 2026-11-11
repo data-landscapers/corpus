@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "metsat",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "off-topic: no dated fact on satellite stream, satellite-based warnings or ISO 9001; undated submission"
+}

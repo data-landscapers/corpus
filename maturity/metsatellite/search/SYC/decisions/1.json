@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "certified",
+ "fact": "The Seychelles Meteorological Authority passed its BSI annual surveillance audit on 3 and 4 November 2026, maintaining ISO 9001:2015 certification for aeronautical meteorological services, with non-aviation services to be brought into scope later.",
+ "title": "SMA Successfully Passes Surveillance Audit, Setting the Stage for Broader ISO Certification",
+ "publisher": "Seychelles Meteorological Authority",
+ "published": "2026-11-04",
+ "date_source": "source",
+ "why_not": ""
+}

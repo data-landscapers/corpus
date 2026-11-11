@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "metsat",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: reports DMN bulletins but nothing on satellite data and no document date; warnings fact already covered by the 2025 diagnostics report"
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;warnings",
+ "fact": "The African Union Commission under ClimSA installed and upgraded PUMA 2025 and ClimSA satellite data stations at the Kenya Meteorological Department in August 2024, to support tailored weather updates and warnings.",
+ "title": "PUMA and ClimSA stations TOT workshop",
+ "publisher": "Kenya Meteorological Department",
+ "published": "2024-11-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

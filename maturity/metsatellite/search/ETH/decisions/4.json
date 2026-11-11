@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "CMA and EMI signed an MOU on 31 May 2023 to jointly establish a CMA meteorological satellite data broadcasting system at EMI.",
+ "title": "CMA and EMI signed a memorandum of understanding on cooperation in the field of meteorological science and technology",
+ "publisher": "China Meteorological Administration",
+ "published": "2023-06-02",
+ "date_source": "source",
+ "why_not": ""
+}

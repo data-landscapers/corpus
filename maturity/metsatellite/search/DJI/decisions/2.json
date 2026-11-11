@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "metsat",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "Al Qarn",
+ "published": "2026-07-27",
+ "date_source": "source",
+ "why_not": "unfetchable: ConnectionError, no Wayback capture; the same MAZU 2.0 story is already held from WMO."
+}

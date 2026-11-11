@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "MSD forecasters trained on Meteosat-12 imagery and PUMA 2025 for MTG on 12 to 16 May 2025, with live forecasting observed at the Central Forecasting Office.",
+ "title": "Empowering African Forecasters with Meteosat Third Generation for Enhanced Weather Prediction",
+ "publisher": "Meteorological Services Department of Zimbabwe",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;warnings",
+ "fact": "The April 2024 KNMI peer review states ANACIM forecasters access EUMETSAT satellite products through a ground-based PUMA satellite receiver, use satellite products for nowcasting and short- and medium-range forecasts, and base early warnings partly on real-time satellite images, while no quality control process or QMS yet exists at ANACIM.",
+ "title": "Country Hydromet Diagnostics: Senegal Peer Review Report",
+ "publisher": "KNMI for SOFF / Alliance Hydromet",
+ "published": "2024-04",
+ "date_source": "source",
+ "why_not": ""
+}

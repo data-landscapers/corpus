@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "The director of EMA's remote sensing centre says a geostationary satellite sends the Authority an image every 5 minutes, which is studied to locate humidity.",
+ "title": "مدير \"الاستشعار عن بعد\" تكشف كيفية تحديد درجات الحرارة",
+ "publisher": "الوطن",
+ "published": "2019-07-12",
+ "date_source": "source",
+ "why_not": ""
+}

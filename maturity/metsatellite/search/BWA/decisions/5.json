@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "certified",
+ "fact": "The BOBS certification register lists the Department of Meteorological Services (DMS-AMS) as active under BOS ISO 9001:2015, certificate QMS/16-03/R003, valid 2025-12-10 to 2028-06-04, covering all processes in providing meteorological products and services.",
+ "title": "System Certification Register",
+ "publisher": "Botswana Bureau of Standards (BOBS)",
+ "published": "2025-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

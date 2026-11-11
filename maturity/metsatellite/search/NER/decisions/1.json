@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;warnings",
+ "fact": "The January 2025 Country Hydromet Diagnostics peer review states Niger's DNM operates two satellite receiving stations (PUMA 2015 and MESA 2015), combines their data with in situ observations for forecasts and nowcasting, and issues warnings for windstorms, floods, dust storms and other hazards, though it cannot yet provide fully impact-based forecasts.",
+ "title": "Country Hydromet Diagnostics: Niger Republic Peer Review Report",
+ "publisher": "Alliance for Hydromet Development / Nigerian Meteorological Agency (NiMet)",
+ "published": "2025-01",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "GMet has received the PUMA-2025 and ClimSA stations through the EU-funded ClimSA project, giving access to Meteosat Third Generation data every 10 minutes.",
+ "title": "Ghana Meteorological Agency enhances forecasting capabilities with new EU-funded ClimSA systems",
+ "publisher": "TechReviewAfrica",
+ "published": "2025-11-21",
+ "date_source": "proxy",
+ "why_not": ""
+}

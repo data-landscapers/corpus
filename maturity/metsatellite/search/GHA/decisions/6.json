@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;warnings",
+ "fact": "GMet presented that it uses NWP and satellite imagery for forecasts and, with NWCSAF installed via African-SWIFT, issues impact-based nowcasts and weather warnings using NWCSAF rapidly developing thunderstorm and convective rainfall products.",
+ "title": "Delivering Nowcasting to Users in Ghana",
+ "publisher": "EUMETSAT / Ghana Meteorological Agency (M. A. Ahiataku)",
+ "published": "2022-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

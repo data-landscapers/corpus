@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "The African Union Commission's committee inspected in Q3 2025 the new ClimSA/PUMA infrastructure, which receives Meteosat Second and Third Generation satellite data, deployed and installed in Nouakchott, Mauritania.",
+ "title": "AUC Invests in National Meteorological and Hydrological Services (NMHS) with New ClimSA and PUMA infrastructure",
+ "publisher": "African Union Commission",
+ "published": "2025-09-23",
+ "date_source": "source",
+ "why_not": ""
+}

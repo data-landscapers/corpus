@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "certified",
+ "fact": "The MSB register as at 30 June 2026 lists the Mauritius Meteorological Services with an ISO 9001:2015 certificate issued 29 December 2023, expiring 28 December 2026, first certified 29 December 2008, status valid.",
+ "title": "List of MSB registered firms as at 30 June 2026",
+ "publisher": "Mauritius Standards Bureau",
+ "published": "2026-06",
+ "date_source": "source",
+ "why_not": ""
+}

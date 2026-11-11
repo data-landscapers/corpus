@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;warnings",
+ "fact": "EMI operates 13 satellite receiving ground stations at its headquarters and regional centres, and supplies early warnings and impact-based forecasts for droughts, floods and extreme weather.",
+ "title": "Weather and climate services in Ethiopia: progress, challenges, and opportunities",
+ "publisher": "Frontiers in Climate",
+ "published": "2025-04-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

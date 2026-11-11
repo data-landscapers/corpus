@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "metsat",
+ "aspect": "",
+ "fact": "",
+ "title": "Quality Management Policy",
+ "publisher": "South African Weather Service",
+ "published": "2026",
+ "date_source": "source",
+ "why_not": "no-development: a policy committing to a QMS aligned to ISO 9001; it does not state a dated certification fact"
+}

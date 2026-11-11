@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "The Liberia Meteorological Service publishes routine Impact-Based Forecasts for Liberia's counties, with product updates dated 7, 11, 23 and 26 October 2026.",
+ "title": "IMPACT BASE FORECAST",
+ "publisher": "Liberia Meteorological Service",
+ "published": "2026-10-26",
+ "date_source": "proxy",
+ "why_not": ""
+}

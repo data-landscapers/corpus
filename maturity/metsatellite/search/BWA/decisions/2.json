@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "The Department of Meteorological Services' national observational platform includes a remote sensing unit, alongside 28 automatic weather stations and 106 automatic rain gauges (statement to Ntlo Ya Dikgosi, reported 1 July 2024).",
+ "title": "Weather monitoring key in policymaking",
+ "publisher": "Daily News (BOPA)",
+ "published": "2024-07-01",
+ "date_source": "source",
+ "why_not": ""
+}

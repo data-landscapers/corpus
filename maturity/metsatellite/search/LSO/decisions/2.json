@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "The Lesotho Meteorological Services has adopted and implemented the MetApp mobile application, which the Environment and Forestry Minister said will provide hourly weather updates and early warnings on anticipated weather conditions, as announced at the National Climate Outlook Forum in Maseru.",
+ "title": "NUL-developed weather app adopted by LMS",
+ "publisher": "Lesotho Times",
+ "published": "2026-09-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "certified",
+ "fact": "SODEXAM announced on 25 May 2026 that it obtained ISO 9001 Version 2015 certification for all its activities.",
+ "title": "L'obtention du certificat ISO 9001 Version 2015 pour l'ensemble de ses activités.",
+ "publisher": "SODEXAM",
+ "published": "2026-05-25",
+ "date_source": "source",
+ "why_not": ""
+}

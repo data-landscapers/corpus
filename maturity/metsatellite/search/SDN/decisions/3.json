@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "The Authority's early warning unit analysed 42 years of satellite data for its analysis of the August 2025 Jebel Marra disaster, which it published on 5 September 2025.",
+ "title": "مسؤوليتنا أمام البيانات: تحليل علمي لفاجعة جبل مرة",
+ "publisher": "الهيئة العامة للأرصاد الجوية السودانية",
+ "published": "2025-09-05",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "metsat",
+ "aspect": "",
+ "fact": "",
+ "title": "Prévisions Météorologiques",
+ "publisher": "Office National de la Météorologie",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "headline-only-stub: undated service page, no date for the early-warning statement"
+}

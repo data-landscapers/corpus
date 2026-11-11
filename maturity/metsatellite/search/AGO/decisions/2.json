@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "The INAMET director-general says INAMET has, for almost three years, issued alerts with about 24 hours' lead time at defined alert levels, in coordination with Civil Protection, and runs a supercomputer for high-resolution weather and marine models.",
+ "title": "Angola moderniza estações meteorológicas",
+ "publisher": "Angop",
+ "published": "2025-03-23",
+ "date_source": "source",
+ "why_not": ""
+}

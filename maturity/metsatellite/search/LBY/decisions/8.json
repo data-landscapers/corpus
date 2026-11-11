@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "The National Meteorological Centre's website, updated 6 October 2026, lists a satellite images service showing dust storms and clouds, with the last four days animated.",
+ "title": "المركز الوطني للأرصاد الجوية-الصفحة الرئيسية",
+ "publisher": "المركز الوطني للأرصاد الجوية",
+ "published": "2026-10-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

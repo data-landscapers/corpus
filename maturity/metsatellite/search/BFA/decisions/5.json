@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;warnings;certified",
+ "fact": "The April 2025 SOFF Country Hydromet Diagnostic says ANAM has a satellite receiving system (PUMA and MESA) but its PUMA workstation is dedicated to ASECNA, ANAM issues warnings with limited capacity, and ISO 9001 certification covers only aeronautical services.",
+ "title": "Country Hydromet Diagnostics - Burkina Faso, 2025",
+ "publisher": "Alliance Hydromet / SOFF",
+ "published": "2025-04",
+ "date_source": "source",
+ "why_not": ""
+}

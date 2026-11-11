@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "The SOFF Madagascar project document states that the DGM receives satellite imagery directly from EUMETCast and accesses it through the EUMETView web portal.",
+ "title": "Fund management platform (SOFF Madagascar project document package)",
+ "publisher": "UNDP Multi-Partner Trust Fund Office / SOFF",
+ "published": "2026-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

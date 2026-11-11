@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "INM updates its colour-coded vigilance (warning) map twice a day on its website, and says early-warning effectiveness depends on rapid, accurate data.",
+ "title": "INM : acquisition de trois radars avancés pour anticiper les pluies avant leur chute",
+ "publisher": "La Presse de Tunisie",
+ "published": "2026-03-23",
+ "date_source": "source",
+ "why_not": ""
+}

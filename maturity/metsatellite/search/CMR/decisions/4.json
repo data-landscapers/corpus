@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "In Cameroon, the Department of National Meteorology at the Ministry of Transport creates a national weekly multi-hazard meteorological bulletin, which includes warnings for sand and dust storms, with a map of expected impact.",
+ "title": "Global Status of Multi-Hazard Early Warning Systems (MHEWS) 2025",
+ "publisher": "UNDRR",
+ "published": "2025-11-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

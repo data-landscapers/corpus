@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "certified",
+ "fact": "The Seychelles Meteorological Authority achieved ISO 9001:2015 recertification for aeronautical meteorological services in February 2025, after its previous certification in 2022.",
+ "title": "SMA Achieves ISO 9001:2015 Recertification for Aeronautical Meteorological Services",
+ "publisher": "Seychelles Meteorological Authority",
+ "published": "2025-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "As of March 2019 TMA produces the five-day multi-hazard impact-based early warning forecast on a regular basis.",
+ "title": "MHEWS: Multi-hazard Early Warning System for Coastal Tanzania",
+ "publisher": "Future Climate for Africa / Met Office / TMA",
+ "published": "2019",
+ "date_source": "proxy",
+ "why_not": ""
+}

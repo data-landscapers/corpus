@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "Mali Actu (22 August 2019) reports the national meteorological agency has satellite reception stations installed by the EU, France and the AU for forecasting and environmental monitoring.",
+ "title": "Mali : Agence nationale de météorologie : Un outil fondamental du developpement",
+ "publisher": "Mali Actu",
+ "published": "2019-08-22",
+ "date_source": "source",
+ "why_not": ""
+}

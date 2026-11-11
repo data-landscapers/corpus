@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "During Aug-Dec 2021 forecasters in The Gambia imported satellite rainfall products (IMERG, TAMSAT) into the pilot FEWS-Gambia flood forecasting system and said the country has access to a PUMA system.",
+ "title": "Development of a Flood Early Warning System for The Gambia (FEWS-Gambia), draft v0.1",
+ "publisher": "Deltares",
+ "published": "2021-12-13",
+ "date_source": "source",
+ "why_not": ""
+}

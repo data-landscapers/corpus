@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "China's Ministry of Ecology and Environment completed the design of the Botswana Meteorological Satellite Transportable Ground System, able to track FY-2H and polar-orbiting satellites and receive data for drought, fire and vegetation monitoring, with delivery expected by end of 2022 (September 2021).",
+ "title": "The Detailed Design of Botswana Meteorological Satellite Transportable Ground System",
+ "publisher": "Space in Africa",
+ "published": "2021-09-10",
+ "date_source": "source",
+ "why_not": ""
+}

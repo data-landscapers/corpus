@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "Operational trials over the 2020 and 2021 rainy seasons of the NFLICS prototype early warning system, built with ANACIM on Meteosat satellite cloud-top data to nowcast convective storms and flood impacts in Senegal, showed its utility for impact-based forecasting.",
+ "title": "Nowcasting Flood Impacts of Convective storms in the Sahel",
+ "publisher": "EGU General Assembly (UKCEH, ANACIM, GeoRisk Afric)",
+ "published": "2022",
+ "date_source": "source",
+ "why_not": ""
+}

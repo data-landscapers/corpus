@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;warnings",
+ "fact": "The terminal evaluation found the Meteorological Services Department has moderate engagement in using satellite information, that its satellite data display system needs improvement, and that its Operations Unit issued 24 warnings in 2024.",
+ "title": "Project: Strengthening Early Warning Systems and Climate Change Services in Eswatini, Terminal Evaluation (draft report)",
+ "publisher": "UNDP Evaluation Resource Centre",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

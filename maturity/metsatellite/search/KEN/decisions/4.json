@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;warnings",
+ "fact": "KMD accesses EUMETSAT NWC-SAF nowcasting products via the NCAS-SWIFT online catalogue and uses them to track developing storms and generate high-impact short-range forecasts.",
+ "title": "Advancing operational flood forecasting, early warning and risk management with new emerging science: Gaps, opportunities and barriers in Kenya",
+ "publisher": "Journal of Flood Risk Management (Wiley)",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

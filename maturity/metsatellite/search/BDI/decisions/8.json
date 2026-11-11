@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "IGEBU launched the WISER Action First impact-based forecasting project with the WMO on 26 May 2026 in Bujumbura.",
+ "title": "Le Burundi mise sur le projet WISER pour renforcer les alertes climatiques et protéger les populations",
+ "publisher": "DIGIP NEWS",
+ "published": "2026-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings;certified",
+ "fact": "EMA set up a direct line between its early warning centre and the cabinet for sending warnings, and renewed ISO 9001:2015 certificates for the Regional Training Centre in Cairo.",
+ "title": "Direct line between early warning centre, cabinet to speed up warnings and reports",
+ "publisher": "Egyptian Gazette",
+ "published": "2024-01-20",
+ "date_source": "source",
+ "why_not": ""
+}

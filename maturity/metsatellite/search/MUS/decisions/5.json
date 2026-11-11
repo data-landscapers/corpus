@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "metsat",
+ "aspect": "",
+ "fact": "",
+ "title": "Real Time Observations",
+ "publisher": "Ministry of Environment, Solid Waste Management and Climate Change (ODE)",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: an undated portal page describing Meteosat-9 imagery generically, no dated fact on the MMS"
+}

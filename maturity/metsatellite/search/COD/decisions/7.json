@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "metsat",
+ "aspect": "",
+ "fact": "",
+ "title": "Navigation aérienne [ANS]",
+ "publisher": "Autorité de l'Aviation Civile RDC",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "off-topic: undated page; certification is as an air navigation service provider, not ISO 9001"
+}

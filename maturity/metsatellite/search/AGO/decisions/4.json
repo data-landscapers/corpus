@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "metsat",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "Angop",
+ "published": "2025-05-10",
+ "date_source": "source",
+ "why_not": "unfetchable: HTTP 503, no text read"
+}

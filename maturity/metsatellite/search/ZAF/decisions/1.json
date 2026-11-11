@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "SAWS states it maintains weather satellite equipment at multiple sites to receive Meteosat Second Generation data, has struggled with reception since 5G arrived in 2020, and is procuring C-band 5G LNBs and bandpass filters for its MSG receivers.",
+ "title": "RFQ 3551/24 Supply and delivery of C-Band 5G LNB's with compatible Bandpass filters for Weather Satellite MSG receivers",
+ "publisher": "South African Weather Service",
+ "published": "2024-11-12",
+ "date_source": "source",
+ "why_not": ""
+}

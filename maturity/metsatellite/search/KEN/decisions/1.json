@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "EUMETSAT installed on 19 August 2024 in Nairobi the first PUMA-2025 receiving station to capture data from the Meteosat Third Generation satellites for Kenyan meteorologists.",
+ "title": "EUMETSAT installs receiving stations for Kenya's Meteosat Third Generation geostationary satellites",
+ "publisher": "Meteorological Technology International",
+ "published": "2024-08-28",
+ "date_source": "proxy",
+ "why_not": ""
+}

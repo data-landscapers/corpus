@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;warnings;certified",
+ "fact": "As of July 2024 METTELSAT had a functional PUMA reception system giving access to EUMETCast and forecasters used Meteosat images, but it had no warning and alert service and no established quality management processes.",
+ "title": "Country Hydromet Diagnostics: Democratic Republic of Congo",
+ "publisher": "SOFF / MeteoSwiss",
+ "published": "2024-07",
+ "date_source": "source",
+ "why_not": ""
+}

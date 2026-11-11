@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;warnings",
+ "fact": "On 3 January 2020 INAM began using a new Chinese-provided satellite system with near-global coverage to monitor tropical cyclones, to support early warnings.",
+ "title": "Mozambique starts using Chinese satellite system for predicting cyclones, natural disasters",
+ "publisher": "Xinhua",
+ "published": "2020-01-04",
+ "date_source": "source",
+ "why_not": ""
+}

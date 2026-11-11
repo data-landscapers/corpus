@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;certified",
+ "fact": "SLMet formerly operated a satellite receiving station (PUMA) at Lungi International Airport that is currently offline due to space constraints, so it relies on the EUMETView web portal for satellite imagery, which its forecasters use for rainfall intensity, wind and thunderstorm detection, and it is working with WMO towards full QMS implementation and certification in 2026.",
+ "title": "Country Hydromet Diagnostics - Sierra Leone: Peer Review Report",
+ "publisher": "Deutscher Wetterdienst and GeoSphere Austria for the Alliance for Hydromet Development / SOFF",
+ "published": "2026-06",
+ "date_source": "source",
+ "why_not": ""
+}

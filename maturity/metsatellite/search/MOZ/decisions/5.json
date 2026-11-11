@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;warnings",
+ "fact": "UNDRR's 2024 global status report says Mozambique's multi-hazard early warning capacity exceeds the region's in its use of remotely sensed data, while impact-based forecasting capacity is especially weak.",
+ "title": "Multi-hazard early warning systems in Mozambique",
+ "publisher": "UNDRR",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

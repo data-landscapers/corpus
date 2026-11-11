@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "Météo Comores lists wind alerts it issued for named districts, the latest on 27 October 2026 for 28 October, with none active at the time.",
+ "title": "Alertes",
+ "publisher": "Météo Comores (ANACM)",
+ "published": "2026-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

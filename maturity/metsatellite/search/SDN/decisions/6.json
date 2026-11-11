@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "A project begun in 2022 to set up an EUMETCast-based satellite data reception station in Sudan was suspended in April 2023 because of the conflict.",
+ "title": "Brazil took part in Sudan data project",
+ "publisher": "ANBA News Agency",
+ "published": "2024-12-10",
+ "date_source": "source",
+ "why_not": ""
+}

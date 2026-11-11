@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "The minister said Morocco has extended its weather alert bulletins to all 1,503 municipalities and lengthened the advance warning period from 24 to 36 hours.",
+ "title": "Morocco extends weather alerts to all municipalities, sends daily forecasts by SMS",
+ "publisher": "Le360",
+ "published": "2026-07-14",
+ "date_source": "proxy",
+ "why_not": ""
+}

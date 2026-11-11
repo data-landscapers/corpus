@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;warnings",
+ "fact": "INM receives satellite data via EUMETCast and has a Meteosat Second Generation receiving station (12 channels, every 15 minutes) that needs upgrading to third generation; NWC SAF nowcasting products are used in forecasting.",
+ "title": "Strengthening Hydromet and Early Warning Systems and Services in Tunisia: A Roadmap",
+ "publisher": "World Bank Group",
+ "published": "2022",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "ANM issued an orange heat-wave alert published on 4 November 2026, valid until 19 November, covering the whole country.",
+ "title": "L'Agence nationale de la météo alerte sur une vague de chaleur avec des températures élevées en Guinée",
+ "publisher": "Vision Guinée",
+ "published": "2026-11-05",
+ "date_source": "source",
+ "why_not": ""
+}

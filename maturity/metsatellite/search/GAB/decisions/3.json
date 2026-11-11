@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "metsat",
+ "aspect": "",
+ "fact": "",
+ "title": "Gabon - Severe weather (IFRC, Direction Generale de la Meteorologie, NOAA Central Africa) (ECHO Daily Flash of 11 March 2026)",
+ "publisher": "ECHO Daily Flash / ReliefWeb",
+ "published": "2026-03-11",
+ "date_source": "source",
+ "why_not": "off-topic: reports a storm and a rainfall forecast; no satellite use and no warning issued by the DGM is stated"
+}

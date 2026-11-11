@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "The Comoros National Meteorological Service issued a cyclone warning alert, code orange, for Tropical Cyclone Chido from 13 December 2024 at 10.00 p.m.",
+ "title": "Southern Africa: Tropical Cyclone Chido - Flash Update No. 2, As of 14 December 2024",
+ "publisher": "OCHA",
+ "published": "2024-12-14",
+ "date_source": "source",
+ "why_not": ""
+}

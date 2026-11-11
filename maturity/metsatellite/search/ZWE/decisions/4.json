@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "The January 2026 newsletter reports Zimbabwe meteorologists took part in MTG Satellite Application Training in Pretoria on integrating MSG and MTG satellite data and nowcasting tools into operational forecasting.",
+ "title": "Meteorological Services Department of Zimbabwe Newsletter, January 2026",
+ "publisher": "Meteorological Services Department of Zimbabwe",
+ "published": "2026-01",
+ "date_source": "source",
+ "why_not": ""
+}

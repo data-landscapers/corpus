@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "metsat",
+ "aspect": "",
+ "fact": "",
+ "title": "Imagerie satellitaire",
+ "publisher": "Agence Nationale de la Météorologie",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "already-held: held as raw/2026/2026-01-01-gin-anm-imagerie-satellitaire.md"
+}

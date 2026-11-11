@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "The DGM published tender 01/2024/DGM on 15 January 2024 for supply, installation and commissioning of an integrated system to receive and visualise Meteosat Third Generation satellite data, closing 26 February 2024.",
+ "title": "Supply, Installation and Commissioning of an integrated remote sensing system for the reception and visualization of Meteosat Third Generation (MTG) satellite data - 01/2024/DGM",
+ "publisher": "Direction Générale de la Météorologie (via Bidding Source)",
+ "published": "2024-01-15",
+ "date_source": "source",
+ "why_not": ""
+}

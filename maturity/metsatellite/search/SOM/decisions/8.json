@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "The roadmap, dated December 2024, states that Somalia requires an installed capability to acquire satellite-based near-real-time atmospheric data and plans installation of PUMA 2025 links to EUMETCast and Meteosat at the national early warning centre.",
+ "title": "Roadmap for Implementation of Early Warning for All (EW4ALL) Initiative 2024-2027/2030",
+ "publisher": "Somalia EW4All / UNDRR",
+ "published": "2024-12",
+ "date_source": "source",
+ "why_not": ""
+}

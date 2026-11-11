@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "certified",
+ "fact": "The Egyptian Meteorological Authority renewed its ISO 9001:2015 quality management certificate during 2025.",
+ "title": "حصاد الهيئة العامة للأرصاد الجوية لعام 2025",
+ "publisher": "وزارة الطيران المدني",
+ "published": "2026-01-14",
+ "date_source": "source",
+ "why_not": ""
+}

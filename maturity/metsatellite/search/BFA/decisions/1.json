@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "A WMO update of April 2026 says Burkina Faso's HYDROMET project (2020-2025) delivered a national flood early warning system (SAPCI) integrating real-time data, forecasting models and alert procedures.",
+ "title": "From Policy to Practice: Burkina Faso Strengthens Early Warning Systems and Climate Resilience",
+ "publisher": "WMO",
+ "published": "2026-04-22",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "The Sudan Meteorological Authority runs an operational daily WRF forecast (72 hours, 3 km) and, with CIMA, issues impact-based warning bulletins.",
+ "title": "Sudan - CIMA Research Foundation",
+ "publisher": "CIMA Research Foundation",
+ "published": "2025-05-05",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "The AUC's 12 May 2026 status report lists Burundi among 8 member states where deployment of the new PUMA/ClimSA satellite reception stations is still outstanding, with deployment ongoing under the November 2023 Tecnavia contract.",
+ "title": "Infrastructure and Capacity Building (Status of Deployment of PUMA and ClimSA infrastructure)",
+ "publisher": "African Union Commission, ClimSA programme",
+ "published": "2026-05-12",
+ "date_source": "source",
+ "why_not": ""
+}

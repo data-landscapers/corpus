@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;certified",
+ "fact": "An MMS presentation lists MSG/MTG satellite imagery among its forecasting tools and states the MMS has been ISO certified since 29 December 2008.",
+ "title": "Mauritius Meteorological Services",
+ "publisher": "Mauritius Meteorological Services",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

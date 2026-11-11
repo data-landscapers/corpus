@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;warnings",
+ "fact": "On 23 March 2026 an ONM official said Algeria exchanges data including from new-generation satellites that track cloud formation and storm zones, improving models and early alerts.",
+ "title": "Algérie : l'ONM muscle ses moyens pour des prévisions météo plus précises",
+ "publisher": "Algérie Zoom",
+ "published": "2026-03-23",
+ "date_source": "proxy",
+ "why_not": ""
+}

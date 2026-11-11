@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "Seychelles Nation reports that the Seychelles Meteorological Authority is relying on satellite images, among other attributes, to predict the country's weather forecast.",
+ "title": "State-of-the-art radar set to improve weather forecasts",
+ "publisher": "Seychelles Nation",
+ "published": "2022-12-13",
+ "date_source": "source",
+ "why_not": ""
+}

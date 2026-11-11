@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "certified",
+ "fact": "An ANAM presentation lists, under 2025, certification to ISO 9001 version 2015.",
+ "title": "PRESENATION DE L'ANAM DU BURKINA FASO",
+ "publisher": "ANAM (SLAPIS meeting)",
+ "published": "2025-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

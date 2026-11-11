@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "certified",
+ "fact": "The World Bank ICR dated 23 December 2025 states Mali Météo implemented a quality management system aligned with ISO 9001 standards (no certificate is stated).",
+ "title": "Implementation Completion and Results Report (ICR) ICR00509",
+ "publisher": "World Bank",
+ "published": "2025-12-23",
+ "date_source": "source",
+ "why_not": ""
+}

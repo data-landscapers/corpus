@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "The January 2016 national climate services implementation plan states the DMN has no satellite reception and preprocessing infrastructure of its own and relies on images supplied by the regional centre or FEWS NET, using real-time MSG images for short-range forecasts via the ASECNA reception station.",
+ "title": "Plan de mise en oeuvre du Cadre national pour les services climatologiques du Niger",
+ "publisher": "Direction de la Météorologie Nationale / Organisation Météorologique Mondiale",
+ "published": "2016-01",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "The Seychelles Meteorological Authority held an Impact-Based Forecasting and Early Warning Services workshop on 19 March 2026, where the Technical Advisor said SMA has already been applying impact-based forecasting and is strengthening it.",
+ "title": "Seychelles Meteorological Authority Strengthens Impact-Based Forecasting and Early Warning Services",
+ "publisher": "Seychelles Meteorological Authority",
+ "published": "2026-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

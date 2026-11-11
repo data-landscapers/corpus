@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "The DGM announced it is now equipped with Meteosat Third Generation satellite data, replacing MSG, with images every 10 minutes at 1 km and 16 channels.",
+ "title": "Maroc Météo s'équipe du système Meteosat de troisième génération",
+ "publisher": "Le360",
+ "published": "2025-01-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

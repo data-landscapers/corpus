@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;warnings",
+ "fact": "Uganda's Ministry of Water and Environment, with the Commissioner for Meteorology, rolled out a flood early-warning app piloted in Kampala that uses Meteosat Third Generation rainfall estimates and satellite-based nowcasting with NWP.",
+ "title": "Govt rolls out flood detection App",
+ "publisher": "Daily Monitor",
+ "published": "2026-04-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

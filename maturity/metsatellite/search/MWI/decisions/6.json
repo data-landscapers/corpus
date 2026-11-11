@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "DCCMS uses the Flash Flood Guidance System, which integrates satellite rainfall estimates with ground observations and hydrological models, to support flash flood warnings.",
+ "title": "Flash Flood Warnings: What You Need to Know Before It's Too Late",
+ "publisher": "Department of Climate Change and Meteorological Services (DCCMS)",
+ "published": "2025-04-17",
+ "date_source": "source",
+ "why_not": ""
+}

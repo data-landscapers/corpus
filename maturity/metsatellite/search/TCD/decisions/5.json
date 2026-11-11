@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "metsat",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "off-topic: GBON surface/upper-air programme; EUMETSAT DCP only recommended, no dated satellite-reception fact"
+}

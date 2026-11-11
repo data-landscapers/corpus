@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "After a SEWA project technical consultation at ANACIM on 14-16 September, the Dakar regional specialised meteorological centre will host a West African nowcasting centre from January 2027, starting with installation of nowcasting software.",
+ "title": "Centre de prévision immédiate pour l'Afrique de l'Ouest abrité par l'ANACIM : L'implémentation est prévue dès janvier 2027",
+ "publisher": "ANACIM",
+ "published": "2026-09-17",
+ "date_source": "proxy",
+ "why_not": ""
+}

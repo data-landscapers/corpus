@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings;certified",
+ "fact": "Tunisia has implemented the Common Alerting Protocol so INM can issue weather alerts, and the programme funds impact-based multi-hazard early warning and upgrading INM quality management and ISO certification.",
+ "title": "Tunisia Integrated Disaster Resilience Program-for-Results Project",
+ "publisher": "World Bank Group",
+ "published": "2021-02-18",
+ "date_source": "source",
+ "why_not": ""
+}

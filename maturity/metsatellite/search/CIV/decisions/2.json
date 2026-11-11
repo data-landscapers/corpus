@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "metsat",
+ "aspect": "",
+ "fact": "",
+ "title": "Effets climatiques : la plateforme Ivoire-Risque",
+ "publisher": "ONPC",
+ "published": "2026-04-10",
+ "date_source": "source",
+ "why_not": "no-development: describes a platform for vigilance and alerts that will manage warnings; no satellite fact and no warnings stated as issued."
+}

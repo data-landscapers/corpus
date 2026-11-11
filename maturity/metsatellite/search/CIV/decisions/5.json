@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings;stream",
+ "fact": "Côte d'Ivoire's national meteorological service director says Meteosat data enables forecasters to deliver nowcasts that underpin its early warning platforms, in the context of the June 2024 Abidjan storms.",
+ "title": "Towards early warnings for all in Africa",
+ "publisher": "PreventionWeb (EUMETSAT)",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

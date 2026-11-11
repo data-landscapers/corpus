@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "The Liberia Meteorological Service operationalised the Common Alerting Protocol (CAP), so Liberia can now issue standardized, timely, multi-channel weather alerts.",
+ "title": "Liberia Meteorological Service Operationalises the Common Alerting Protocol (CAP)",
+ "publisher": "Liberia Meteorological Service",
+ "published": "2025-11-19",
+ "date_source": "source",
+ "why_not": ""
+}

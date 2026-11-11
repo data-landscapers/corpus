@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "The IFRC case study (interview conducted February 2025) states the DGM disseminates colour-coded cyclone alerts based on forecast wind speed, direction and landfall time, in use since 2013, and that from 2025 CERVO projections include estimates of probable sectoral impacts.",
+ "title": "Strengthening National Disaster Risk Management Systems through integration of anticipatory action: The case of Madagascar",
+ "publisher": "IFRC",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

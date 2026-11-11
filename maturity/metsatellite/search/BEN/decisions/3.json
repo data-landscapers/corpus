@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "Météo-Bénin, with DGEau and IRHOB, issues alert bulletins (drought, rainfall floods, strong winds, excessive heat) transmitted to the ANPC for dissemination, as stated in the CREWS final report signed 11 November 2024.",
+ "title": "CREWS Action Final Report - Benin ASW",
+ "publisher": "CREWS / World Bank (GFDRR)",
+ "published": "2024-11-11",
+ "date_source": "source",
+ "why_not": ""
+}

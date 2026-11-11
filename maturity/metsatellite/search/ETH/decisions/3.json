@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;warnings;certified",
+ "fact": "EMI accesses satellite data through EUMETCast (PUMA) and GEONETCast receiving stations and holds ISO 9001:2015 certification for its aviation services only, with no QMS for warning services; CAP has been active since 2022 for drought and flash floods.",
+ "title": "Country Hydromet Diagnostics: Ethiopia Peer Review Report",
+ "publisher": "Norwegian Meteorological Institute and Finnish Meteorological Institute",
+ "published": "2024-01",
+ "date_source": "source",
+ "why_not": ""
+}

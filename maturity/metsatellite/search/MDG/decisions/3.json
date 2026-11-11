@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "metsat",
+ "aspect": "",
+ "fact": "",
+ "title": "Des prévisions à l'action : Madagascar renforce son système d'alerte précoce à travers les alertes basées sur les impacts",
+ "publisher": "Météo Madagascar (DGM)",
+ "published": "2026-06",
+ "date_source": "proxy",
+ "why_not": "no-development: workshop announcement on impact-based warnings; no satellite fact and no warning issued"
+}

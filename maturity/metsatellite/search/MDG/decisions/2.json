@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "From 14 to 18 September 2026 RSMC La Réunion and Madagascar's national meteorological service held a tropical cyclone training in Antananarivo for over 30 national forecasters, using tools like satellite imagery and the Dvorak technique.",
+ "title": "RA I In-Country Tropical Cyclone Training by RSMC La Reunion",
+ "publisher": "WMO",
+ "published": "2026-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

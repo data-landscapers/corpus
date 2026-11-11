@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings;certified",
+ "fact": "SAWS implemented Impact-Based Forecasting in 2017 and has been ISO 9001 certified since October 2011, maintaining that status.",
+ "title": "Early Warning for All (EW4ALL) Initiative: Roadmap for South Africa 2025 - 2029",
+ "publisher": "South African Weather Service",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

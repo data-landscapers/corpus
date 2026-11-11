@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "WMO and SAWS gave INAM technical assistance on nowcasting tools for short-term warnings and co-production of impact-based forecasting products, and a national cyclone SOP manual was agreed.",
+ "title": "Strengthening Mozambique’s Early Warning Systems through Meteorological and Hydrological Capacity Building",
+ "publisher": "WMO",
+ "published": "2026-01",
+ "date_source": "proxy",
+ "why_not": ""
+}

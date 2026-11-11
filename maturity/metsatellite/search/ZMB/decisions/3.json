@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;warnings",
+ "fact": "The April 2024 peer review states ZMD receives near-real-time satellite images and products through EUMETCast to its PUMA system, that its Synergy PUMA 4.7 display station is not currently functional, and that ZMD issues extreme weather warnings (flash flood warnings, CAP implemented early 2023) with Impact Based Warnings not yet implemented.",
+ "title": "Country Hydromet Diagnostics - Zambia 2024: Zambia NMHS Peer Review Report",
+ "publisher": "Met Office",
+ "published": "2024-04",
+ "date_source": "source",
+ "why_not": ""
+}

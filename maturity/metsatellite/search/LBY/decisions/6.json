@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;certified",
+ "fact": "The World Bank atlas states the Libya National Meteorological Center uses SADIS, the ICAO satellite distribution system, and is ISO certified for aeronautical meteorological services.",
+ "title": "Weather, Climate and Water Services in the Middle East and North Africa",
+ "publisher": "World Bank Group",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

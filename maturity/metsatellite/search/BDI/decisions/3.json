@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "The November 2020 inventory states that Burundi uses PUMA 2015 meteorological satellite data reception stations.",
+ "title": "Etat des lieux des services hydrologiques et météorologiques du Burundi",
+ "publisher": "Deltares for IGEBU / CHM Burundi",
+ "published": "2020-11-11",
+ "date_source": "source",
+ "why_not": ""
+}

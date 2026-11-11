@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "SODEXAM's early warning process uses national synoptic and meteorological observation networks together with satellite data, and SODEXAM issues maritime weather alert, weather vigilance and flood vigilance bulletins.",
+ "title": "Projet VFDM : Atelier National sur les Prévisions de la Saison de la Mousson, 03-04 Juin 2024, Rapport",
+ "publisher": "Projet VFDM",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

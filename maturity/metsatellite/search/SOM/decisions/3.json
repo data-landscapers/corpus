@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "The newly established Somalia National Meteorological Agency, whose founding law the House of the People recently approved, lacks the technical and human capacity to issue early warnings or deliver regular forecasts, and a CREWS action (March 2026 to February 2027) is to restore its minimal ICT and train at least 8 core staff in forecasting and alerting.",
+ "title": "Early Warning Systems for Climate Adaptation and Resilience in Somalia (CREWS Action Presentation Note)",
+ "publisher": "CREWS Initiative",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

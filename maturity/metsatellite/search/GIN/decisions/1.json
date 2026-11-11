@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings;certified",
+ "fact": "The CREWS ASW project, concluded in October 2025, had ANM Guinea publish 113 warning bulletins in CAP format on rain, storms and lightning (first African service onboarded by Google Public Alert) and trained staff in the documentation required for QMS certification as a blueprint towards ISO 9001 compliance.",
+ "title": "Successful CREWS Project Improves Meteorological Service Delivery in Guinea",
+ "publisher": "World Meteorological Organization",
+ "published": "2026-02-05",
+ "date_source": "source",
+ "why_not": ""
+}

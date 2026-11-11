@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "certified",
+ "fact": "IGEBU trained all its staff on ISO 9001:2015 quality management for aeronautical meteorological services from 13 to 30 October 2025, building internal auditors; no certification is stated.",
+ "title": "Formation du personnel de l'IGEBU sur le Système de Management de la Qualité (QMS)",
+ "publisher": "Institut Géographique du Burundi (IGEBU)",
+ "published": "2025-10-30",
+ "date_source": "source",
+ "why_not": ""
+}

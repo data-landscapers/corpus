@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "certified",
+ "fact": "METEO-BENIN's strategic plan of 2 June 2022 lists staff awareness and training for ISO 9001-2015 as done and obtaining ISO 9001-2015 certification as a 2022-2026 objective, so the agency was not yet certified.",
+ "title": "Plan stratégique 2022-2026",
+ "publisher": "Agence Nationale de la Météorologie du Bénin (METEO-BENIN)",
+ "published": "2022-06-02",
+ "date_source": "source",
+ "why_not": ""
+}

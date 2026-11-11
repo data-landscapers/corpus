@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "SAWS's 2024/25 Annual Performance Plan says its early warning efforts continue to be underpinned by the Impact-Based Severe Weather Warning System.",
+ "title": "South African Weather Service Annual Performance Plan 2024/2025",
+ "publisher": "South African Weather Service",
+ "published": "2024-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

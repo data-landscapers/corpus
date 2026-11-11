@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;warnings",
+ "fact": "The DGM says Morocco benefits from third-generation meteorological satellites, with satellite data integrated with ground stations and models, and that alert bulletins supported the authorities during the winter's exceptional rainfall.",
+ "title": "Stations, radars, satellites: le Maroc renforce son réseau national d'observation météorologique",
+ "publisher": "Le360",
+ "published": "2026-03-21",
+ "date_source": "proxy",
+ "why_not": ""
+}

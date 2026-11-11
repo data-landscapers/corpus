@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "IGEBU's alerts page lists weather alerts it issued for heavy rain, the latest on 4 November 2026.",
+ "title": "Alertes",
+ "publisher": "Institut Géographique du Burundi (IGEBU)",
+ "published": "2026-11-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

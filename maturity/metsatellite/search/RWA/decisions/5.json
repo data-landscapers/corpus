@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "certified",
+ "fact": "The Rwanda Standards Board register lists the Rwanda Meteorology Agency QMS certificate 02/RSB/DG/NCD/SCO/QMS/25-25 dated 12/9/2025, status Valid, covering data observation, quality control, archiving and weather forecasting.",
+ "title": "QMS Certified Companies",
+ "publisher": "Rwanda Standards Board",
+ "published": "2025-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

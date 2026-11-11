@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "On 14 May 2026 INAM formally launched the ActionFirst platform to strengthen impact-based early warning systems under Early Warnings for All.",
+ "title": "Lançamento da inciativa “ActionFirst\"",
+ "publisher": "INAM",
+ "published": "2026-05-14",
+ "date_source": "source",
+ "why_not": ""
+}

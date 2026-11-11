@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "The APIS project operationalised impact-based forecasting and a 3 km, 72-hour WRF chain at the Sudan Meteorological Authority, with 2024 and 2025 flood events cases of daily monitoring and warning.",
+ "title": "Advancing Multi-Risk Early Warning in Fragile Contexts: Methodological Insights from Sudan",
+ "publisher": "EGU General Assembly (EGUsphere)",
+ "published": "2026-03-13",
+ "date_source": "source",
+ "why_not": ""
+}

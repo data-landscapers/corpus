@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "metsat",
+ "aspect": "",
+ "fact": "",
+ "title": "SLCAA HOSTS ICAO WACAF CODEVMET MISSION IN FREETOWN, SIERRA LEONE",
+ "publisher": "Sierra Leone Civil Aviation Authority",
+ "published": "",
+ "date_source": "source",
+ "why_not": "off-topic: a 7-11 July 2025 ICAO mission on QMS under Annex 3; no ISO 9001 certification of SLMet and no satellite fact"
+}

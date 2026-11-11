@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream",
+ "fact": "During the January-February 2025 intensive testbed, ZMD nowcasting teams used satellite-derived products (CRR, RDT, RoA and lightning data) and issued nowcasts every two hours.",
+ "title": "Intensive testbed: Daily updates 2025",
+ "publisher": "Met Office",
+ "published": "2025-01-30",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "metsat",
+ "aspect": "",
+ "fact": "",
+ "title": "Satellite Imagery",
+ "publisher": "Liberia Meteorological Service",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: an undated product description page with no dated fact"
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "warnings",
+ "fact": "The Sudan Meteorological Authority now produces operational impact-based forecasting bulletins, with its WRF 72-hour 3 km forecast chain fully operational and the NCCD Situation Room inaugurated in Port Sudan in February 2025.",
+ "title": "Early Warning Systems in fragile contexts: the Sudan experience, where human capital becomes the first infrastructure",
+ "publisher": "CIMA Research Foundation",
+ "published": "2026-07-06",
+ "date_source": "source",
+ "why_not": ""
+}

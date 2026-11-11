@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "metsat",
+ "aspect": "stream;certified",
+ "fact": "INM director general Ahmed Hmam announced a tender, to launch before May 2025, for a station to receive and exploit third-generation satellite images, and the extension of ISO 9001 to all INM activities and services.",
+ "title": "Cinq radars, des satellites et des systèmes connectés : la Tunisie muscle sa météo",
+ "publisher": "La Presse de Tunisie",
+ "published": "2025-03-09",
+ "date_source": "source",
+ "why_not": ""
+}
