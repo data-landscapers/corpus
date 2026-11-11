@@ -1,0 +1,846 @@
+claim,source,survey_year,iso3,item,question,status,name,year,fit,outcome,slug,row_ids,note
+itu-117ef7213e,itu,2019,AGO,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-377697cd42,itu,2013,AGO,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-41ecb0b8db,itu,2009,AGO,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-5320a6c77d,itu,2016,AGO,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-5d790c47dc,itu,2012,AGO,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-61ec2bdf14,itu,2015,AGO,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-69af5433fb,itu,2017,AGO,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-730aa27f8e,itu,2010,AGO,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-76a4284425,itu,2008,AGO,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-85fc5616d3,itu,2011,AGO,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-a1e7c291ac,itu,2020,AGO,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-b9de2aef8d,itu,2022,AGO,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-c8bfde78ce,itu,2014,AGO,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-d5524f5df1,itu,2018,AGO,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-eb001d9871,itu,2007,AGO,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-fc8d6a9282,itu,2024,AGO,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-07bfddf66b,itu,2022,BDI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-1c72e04bdf,itu,2018,BDI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-2e852c47f0,itu,2011,BDI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-46db078f42,itu,2024,BDI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-55288d03f1,itu,2020,BDI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-607e44d825,itu,2013,BDI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-6edf49c638,itu,2009,BDI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-74b1c92b26,itu,2017,BDI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-7ed8a8f007,itu,2016,BDI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-80449c5aff,itu,2010,BDI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-a10fdcf66d,itu,2019,BDI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-cb4a79a396,itu,2012,BDI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-cba06b714d,itu,2007,BDI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-d4417e3b66,itu,2008,BDI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-d56de6f831,itu,2015,BDI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-e0a24b50c1,itu,2014,BDI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-130897687b,itu,2024,BEN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-13d3cf3618,itu,2015,BEN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-1cd9e1f116,itu,2010,BEN,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-2106a38704,itu,2022,BEN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-2b8310ae42,itu,2017,BEN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-3086e29987,itu,2019,BEN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-3480d5c5e3,itu,2013,BEN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-46856d27dd,itu,2018,BEN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-50f4c31684,itu,2007,BEN,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-6361e1cf02,itu,2020,BEN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-a4b1d767a8,itu,2009,BEN,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-a97c8bcb79,itu,2016,BEN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-b97b31f826,itu,2014,BEN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-c8aa725a42,itu,2011,BEN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-dc84977522,itu,2012,BEN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-f55b570832,itu,2008,BEN,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-07859815f0,itu,2017,BFA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-0f0f1e1648,itu,2012,BFA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-12188373e3,itu,2008,BFA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-132fa7daea,itu,2022,BFA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-224309367f,itu,2019,BFA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-389a5af848,itu,2020,BFA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-5441b3910f,itu,2010,BFA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-5d489e26c1,itu,2009,BFA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-7229c9cc90,itu,2015,BFA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-7c54f4f051,itu,2018,BFA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-98037ffff7,itu,2024,BFA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-9e3a85cbbf,itu,2014,BFA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-b9011b9ddf,itu,2007,BFA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-beb66422b1,itu,2013,BFA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-e802a89b0c,itu,2011,BFA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-ee836b82c3,itu,2016,BFA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-1532969594,itu,2007,BWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-254a78386c,itu,2009,BWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-28375295dc,itu,2020,BWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-3afae658e0,itu,2024,BWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-415fc27acc,itu,2014,BWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-79bce71f1e,itu,2008,BWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-7ee25fc5dd,itu,2019,BWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-8a770b6ad8,itu,2017,BWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-9355f0abe2,itu,2012,BWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-95cd0ef98b,itu,2018,BWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-99e33b72c8,itu,2016,BWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-a9597c4161,itu,2010,BWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-b40d749702,itu,2011,BWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-b88e7d6851,itu,2013,BWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-e4c7661589,itu,2015,BWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-f3efad1bee,itu,2022,BWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-03e2617cf3,itu,2009,CAF,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-0cd452ac1d,itu,2024,CAF,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-0e818befe6,itu,2010,CAF,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-1361b552dc,itu,2017,CAF,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-26bafa3d9b,itu,2022,CAF,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-29f0569ae9,itu,2013,CAF,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-2cd31592a4,itu,2018,CAF,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-2da5436fec,itu,2012,CAF,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-48314835d3,itu,2008,CAF,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-6ed1ad58e6,itu,2020,CAF,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-7261d73782,itu,2007,CAF,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-7a19c5bbef,itu,2016,CAF,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-7ddfba6db1,itu,2015,CAF,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-b6218e5b22,itu,2019,CAF,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-b92b4bb886,itu,2011,CAF,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-da5bc70f89,itu,2014,CAF,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-05693d90bf,itu,2015,CIV,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-147073c436,itu,2017,CIV,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-3b86b74d46,itu,2007,CIV,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-40e9f4266b,itu,2013,CIV,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-4a2b9e1ce0,itu,2009,CIV,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-5681533c96,itu,2024,CIV,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-609118c96a,itu,2014,CIV,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-660b3281f9,itu,2016,CIV,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-75c79b4103,itu,2008,CIV,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-789e06382d,itu,2020,CIV,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-91aa18c612,itu,2018,CIV,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-92e5619958,itu,2022,CIV,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-95e84e7c56,itu,2012,CIV,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-bbd3a6e626,itu,2010,CIV,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-bd091f79fe,itu,2019,CIV,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-c23b8fc9f2,itu,2011,CIV,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-07951f77d0,itu,2016,CMR,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-145209d5f5,itu,2019,CMR,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-1a99c9ec67,itu,2010,CMR,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-2e59f3d094,itu,2011,CMR,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-301c2a85db,itu,2020,CMR,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-3f3b2d8f01,itu,2015,CMR,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-6c89916452,itu,2008,CMR,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-6dc474ff27,itu,2022,CMR,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-79ad85e251,itu,2012,CMR,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-7d77a219d3,itu,2013,CMR,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-834576a501,itu,2007,CMR,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-9f10ef6577,itu,2014,CMR,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-a39a5ce0d0,itu,2018,CMR,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-b20667ac5f,itu,2017,CMR,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-cfd947768d,itu,2024,CMR,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-e0cf4bdad2,itu,2009,CMR,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-32f93e193a,itu,2016,COD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-4b4d102f5c,itu,2013,COD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-5e40b5ac11,itu,2011,COD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-5e5f15169c,itu,2024,COD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-65b30187c8,itu,2015,COD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-739428a2c4,itu,2010,COD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-7cb8d92c33,itu,2018,COD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-93586e9d78,itu,2012,COD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-ac27e9f8fd,itu,2009,COD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-b50153008a,itu,2007,COD,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-c92adf5f38,itu,2020,COD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-e684cd77a7,itu,2014,COD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-e7e5701d4c,itu,2019,COD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-eb93a47ea9,itu,2022,COD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-f9df37b246,itu,2017,COD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-fc457d6d72,itu,2008,COD,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-1491986b14,itu,2014,COG,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-1eaf91f418,itu,2012,COG,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-2fcd046f54,itu,2007,COG,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-34d9650c2f,itu,2013,COG,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-42c3aabe88,itu,2015,COG,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-4e88b74f47,itu,2010,COG,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-5b5db8639d,itu,2020,COG,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-99606e38f0,itu,2011,COG,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-99888b26b5,itu,2008,COG,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-9b9c6ebc52,itu,2017,COG,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-bd7af23cb5,itu,2019,COG,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-d2144d83eb,itu,2022,COG,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-e41bf8946d,itu,2016,COG,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-e5bf2903e1,itu,2018,COG,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-efc9c122de,itu,2009,COG,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-f2d66f64f3,itu,2024,COG,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-00a70cfd1a,itu,2015,COM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-0b44d07bcc,itu,2010,COM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-1b08d7b4e1,itu,2014,COM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-2991003c86,itu,2018,COM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-49a4e2cac0,itu,2013,COM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-4a2b7e7ea3,itu,2011,COM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-57b6aca0eb,itu,2020,COM,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-62a6cb28fe,itu,2008,COM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-73ce7fd81e,itu,2016,COM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-7a9383d573,itu,2019,COM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-7f63b31a1a,itu,2024,COM,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-a281c7baac,itu,2017,COM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-a563e36517,itu,2022,COM,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-b60a603b33,itu,2009,COM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-ba783f1d2f,itu,2012,COM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-dd3274d6e7,itu,2007,COM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-01f77a355e,itu,2016,CPV,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-0613160e89,itu,2008,CPV,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-0f509edc2b,itu,2022,CPV,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-15f241b3d9,itu,2017,CPV,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-4079124e29,itu,2009,CPV,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-485e0d84a4,itu,2018,CPV,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-775862625b,itu,2020,CPV,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-7b5dd7571a,itu,2011,CPV,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-84a276fdcd,itu,2013,CPV,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-88acc73fcf,itu,2010,CPV,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-a0ca6b33fb,itu,2014,CPV,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-caee92443f,itu,2012,CPV,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-cd8ad91d16,itu,2024,CPV,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-ce22d98ffe,itu,2019,CPV,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-dd0108d50e,itu,2015,CPV,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-f58a8d532f,itu,2007,CPV,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-4a1cfa1995,itu,2013,DJI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-667c289511,itu,2017,DJI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-679707a82e,itu,2020,DJI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-6a2ea86fe6,itu,2007,DJI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-8e6319d847,itu,2012,DJI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-9c351169b3,itu,2014,DJI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-a3833ae827,itu,2018,DJI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-b08ae5216e,itu,2016,DJI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-b1446c570f,itu,2008,DJI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-c70be181a8,itu,2015,DJI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-cd963be26f,itu,2019,DJI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-cdf817071c,itu,2010,DJI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-d53b487600,itu,2011,DJI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-e182754637,itu,2024,DJI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-e199852250,itu,2022,DJI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-e44258e098,itu,2009,DJI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-0207d511d8,itu,2022,DZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-1312c6346f,itu,2019,DZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-206ca58ca6,itu,2020,DZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-2fe6d96d74,itu,2012,DZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-4623a1241e,itu,2024,DZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-468c8b9cd6,itu,2015,DZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-55eddffabe,itu,2013,DZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-7fc3967ff4,itu,2014,DZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-8b90433b5e,itu,2017,DZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-b1192a1026,itu,2011,DZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-bde44cbe91,itu,2009,DZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-c0b4ca6dd3,itu,2007,DZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-c2662207a7,itu,2018,DZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-da65cd09b8,itu,2008,DZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-ede4044057,itu,2016,DZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-fed55dbf61,itu,2010,DZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-07ecd588b8,itu,2015,EGY,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-0f183895b7,itu,2012,EGY,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-14a1785aef,itu,2024,EGY,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-36d907c698,itu,2010,EGY,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-3a07f3210a,itu,2016,EGY,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-3e3ed29473,itu,2008,EGY,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-4951be76d0,itu,2019,EGY,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-7e452bab38,itu,2009,EGY,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-865c28e6c1,itu,2014,EGY,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-8aed7746e1,itu,2020,EGY,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-afcccf64ce,itu,2011,EGY,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-ba438c5db5,itu,2018,EGY,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-d9446778d9,itu,2013,EGY,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-eeafc2c211,itu,2022,EGY,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-f12544ce55,itu,2017,EGY,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-fb34d49d7a,itu,2007,EGY,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-06db41a427,itu,2020,ERI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-1161043023,itu,2013,ERI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-2357047f10,itu,2016,ERI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-3273a25cf4,itu,2015,ERI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-4f31872997,itu,2019,ERI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-53f1633728,itu,2009,ERI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-6eba0f820e,itu,2024,ERI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-8f10ac915c,itu,2010,ERI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-ae18f1bf17,itu,2018,ERI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-b4bd765846,itu,2022,ERI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-bf50eaca65,itu,2012,ERI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-c4b75af7f3,itu,2007,ERI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-c85c2f83da,itu,2017,ERI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-db13936034,itu,2014,ERI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-fab5dfaf82,itu,2011,ERI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-fd3fde37fa,itu,2008,ERI,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-0744cfa3bb,itu,2014,ETH,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-153cb41e4d,itu,2011,ETH,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-39a1eb064c,itu,2013,ETH,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-5d1f6d033b,itu,2009,ETH,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-8407db864d,itu,2024,ETH,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-8ec37f2c8e,itu,2022,ETH,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-8ff48a01e8,itu,2018,ETH,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-90567d654b,itu,2019,ETH,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-9593751066,itu,2008,ETH,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-9694f2e522,itu,2012,ETH,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-adb03a8407,itu,2020,ETH,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-c36bc93dc3,itu,2016,ETH,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-c392ce94eb,itu,2017,ETH,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-c692547934,itu,2015,ETH,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-eee34ae094,itu,2010,ETH,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-f6173ff31c,itu,2007,ETH,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-22e1f753d5,itu,2018,GAB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-3d761e8126,itu,2020,GAB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-3e32e85bca,itu,2013,GAB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-5514bf9769,itu,2019,GAB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-6ab093e1b2,itu,2012,GAB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-82968678fb,itu,2024,GAB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-8e21d60ab1,itu,2022,GAB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-8f84a3e7f6,itu,2015,GAB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-a775994e6e,itu,2014,GAB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-bfbb40df1a,itu,2016,GAB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-db68f6e841,itu,2017,GAB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-064d059ba6,itu,2016,GHA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-0bf56ec1e6,itu,2020,GHA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-1583b0edb4,itu,2010,GHA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-2bbec6c9b2,itu,2024,GHA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-3eb3d8e28d,itu,2008,GHA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-50c543b878,itu,2015,GHA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-52fa5932ef,itu,2013,GHA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-7b3557a1d8,itu,2007,GHA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-8175020b91,itu,2022,GHA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-8ca95866bf,itu,2009,GHA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-91e0c06c68,itu,2019,GHA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-bc8971e71e,itu,2012,GHA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-cf7332c633,itu,2018,GHA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-e0b0df034f,itu,2011,GHA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-edc905eb29,itu,2017,GHA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-f153fc0502,itu,2014,GHA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-0ff3cf8a3c,itu,2013,GIN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-18a6517dd3,itu,2012,GIN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-1cca2852c5,itu,2007,GIN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-2ee7c40a4a,itu,2015,GIN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-306b910e84,itu,2024,GIN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-5283c80df3,itu,2017,GIN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-6b58d5c91b,itu,2019,GIN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-758bd4a80e,itu,2016,GIN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-9eb881933c,itu,2008,GIN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-afda15f1b6,itu,2011,GIN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-ca3c0ffd84,itu,2014,GIN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-e1e5b2b1fb,itu,2022,GIN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-e3edc0c685,itu,2020,GIN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-ee7f20451a,itu,2018,GIN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-f4db03f43b,itu,2010,GIN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-fe828b5e92,itu,2009,GIN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-0fdc328475,itu,2010,GMB,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-1b252dd60a,itu,2008,GMB,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-3160d25ae0,itu,2013,GMB,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-3d8fda0002,itu,2022,GMB,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-4111f1e6ef,itu,2017,GMB,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-439fbbb7c7,itu,2024,GMB,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-6c3622776a,itu,2020,GMB,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-6d48502dee,itu,2009,GMB,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-89b4953ffb,itu,2012,GMB,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-9330179a29,itu,2015,GMB,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-9f92789b26,itu,2007,GMB,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-ab3a2851db,itu,2011,GMB,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-b8682d6fc4,itu,2014,GMB,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-be6cbc1961,itu,2018,GMB,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-c88f2564ea,itu,2016,GMB,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-f3235c0b85,itu,2019,GMB,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-13539d786c,itu,2024,GNB,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-22521ea28c,itu,2007,GNB,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-26d782e25d,itu,2014,GNB,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-354b04b617,itu,2020,GNB,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-46798556fb,itu,2015,GNB,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-4c7b7430e7,itu,2008,GNB,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-60b7a7b73c,itu,2009,GNB,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-75784a0034,itu,2016,GNB,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-82854bece9,itu,2017,GNB,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-8a7551a298,itu,2011,GNB,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-9b12124b7d,itu,2013,GNB,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-a9a862d4be,itu,2012,GNB,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-be4c38cf0e,itu,2010,GNB,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-bf6416f9f1,itu,2018,GNB,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-f53ca158af,itu,2022,GNB,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-fdaf39968d,itu,2019,GNB,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-0338c3efbc,itu,2013,GNQ,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-08d1aae054,itu,2011,GNQ,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-181dc5485c,itu,2017,GNQ,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-3b4f6ca198,itu,2022,GNQ,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-4f2602bc92,itu,2024,GNQ,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-62a1deef2a,itu,2015,GNQ,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-7f99b94aac,itu,2009,GNQ,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-889d842d2f,itu,2014,GNQ,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-940085b764,itu,2008,GNQ,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-99cf126ea1,itu,2010,GNQ,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-9ba5a30977,itu,2007,GNQ,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-bddce0935c,itu,2018,GNQ,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-c98795e492,itu,2019,GNQ,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-e10fd6b627,itu,2020,GNQ,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-eaabee21af,itu,2016,GNQ,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-f3e694591a,itu,2012,GNQ,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-14827f77b7,itu,2019,KEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-1c67c6d05e,itu,2014,KEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-274d16f0f8,itu,2009,KEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-48709d2aba,itu,2018,KEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-4bc2212b9f,itu,2017,KEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-55b60a6422,itu,2015,KEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-59960312cd,itu,2008,KEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-5f7f1d257e,itu,2013,KEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-60f9ba0628,itu,2012,KEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-8dc15c8cc2,itu,2011,KEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-a7ce7a943a,itu,2024,KEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-ccc6fe3db2,itu,2020,KEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-e850188cf0,itu,2007,KEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-f215a39ccd,itu,2010,KEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-f80621e1b0,itu,2016,KEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-fd1bab7ecb,itu,2022,KEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-04afe33fb3,itu,2018,LBR,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-0dd5e749a9,itu,2014,LBR,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-15dd032343,itu,2024,LBR,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-3af2bb0bb1,itu,2019,LBR,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-5077f2a2ec,itu,2011,LBR,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-6a4e9b3145,itu,2009,LBR,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-83f17ef7c6,itu,2010,LBR,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-851aa1707d,itu,2022,LBR,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-88621ed160,itu,2015,LBR,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-9667bdfc7b,itu,2017,LBR,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-a3c922993f,itu,2012,LBR,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-dbe73e568e,itu,2020,LBR,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-e3727a0a68,itu,2016,LBR,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-e70e525def,itu,2013,LBR,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-efa44fddff,itu,2007,LBR,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-fc48a8ede3,itu,2008,LBR,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-00f00579c9,itu,2017,LBY,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-3223d33a96,itu,2024,LBY,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-36f563e51d,itu,2015,LBY,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-51795c97cb,itu,2013,LBY,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-51f52d0f91,itu,2012,LBY,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-5b2c2a91af,itu,2020,LBY,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-71dc637e8c,itu,2016,LBY,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-7a1f35b661,itu,2018,LBY,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-85b9f7fac3,itu,2009,LBY,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-956b3de796,itu,2011,LBY,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-b286346041,itu,2019,LBY,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-c21654311f,itu,2008,LBY,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-cfd7b33c19,itu,2010,LBY,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-e4a2a4b1ed,itu,2022,LBY,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-e87c1f9d67,itu,2014,LBY,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-eb166a23cb,itu,2007,LBY,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-03c33af933,itu,2007,LSO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-0917dc43cc,itu,2014,LSO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-2d6aea5e61,itu,2019,LSO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-31f2a38572,itu,2012,LSO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-3f50f4415f,itu,2016,LSO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-4e4cf7fad5,itu,2020,LSO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-63246262a9,itu,2013,LSO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-64bf80f92b,itu,2015,LSO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-64e4fa06db,itu,2009,LSO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-6a4d3cca70,itu,2011,LSO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-85eddf9dbc,itu,2010,LSO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-a1d6386443,itu,2018,LSO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-b5b6654fc0,itu,2022,LSO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-c6ed001ac9,itu,2024,LSO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway licensing level, not routes or capacity sold"
+itu-d4099375db,itu,2008,LSO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-e29cc43c55,itu,2017,LSO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-00329af2b9,itu,2008,MAR,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-0541baef85,itu,2015,MAR,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-0d33d14a96,itu,2016,MAR,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-1c21dc203b,itu,2014,MAR,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-27a447e375,itu,2007,MAR,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-40da972d50,itu,2022,MAR,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-626721070f,itu,2019,MAR,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-86f9e45f22,itu,2010,MAR,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-8e06b5703a,itu,2009,MAR,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-9ee25ef281,itu,2011,MAR,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-a9feab4e87,itu,2018,MAR,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-bfe65e6bb9,itu,2013,MAR,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-d860b62101,itu,2012,MAR,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-ebac7bceb3,itu,2020,MAR,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-f5bb37875c,itu,2024,MAR,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-fa3933a9c0,itu,2017,MAR,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-1a15709b4b,itu,2010,MDG,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-3a7b98d1bb,itu,2008,MDG,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-3a8a2e7045,itu,2018,MDG,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-3baec79a1f,itu,2015,MDG,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-3e65217a5f,itu,2009,MDG,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-5edd6c2314,itu,2007,MDG,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-5ff017941c,itu,2014,MDG,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-8b530a52c4,itu,2011,MDG,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-a3e5699219,itu,2020,MDG,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-b0450433e9,itu,2012,MDG,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-c9ce9066fd,itu,2017,MDG,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-d1c7cf814b,itu,2024,MDG,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-e5207879d5,itu,2022,MDG,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-f14017fc13,itu,2016,MDG,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-f5bcc8a373,itu,2019,MDG,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-fb44fed926,itu,2013,MDG,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-02dd0c4166,itu,2024,MLI,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-12c9940e57,itu,2012,MLI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-1e14882441,itu,2011,MLI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-2d9b649e93,itu,2020,MLI,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-4c6dc9f3f9,itu,2009,MLI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-555f550791,itu,2015,MLI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-5816981378,itu,2008,MLI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-63ced5dd62,itu,2016,MLI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-6af51dd02c,itu,2010,MLI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-8998342312,itu,2007,MLI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-89ce08ca84,itu,2019,MLI,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-91e35a4e22,itu,2018,MLI,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-9efaa9f971,itu,2014,MLI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-af4eb12f12,itu,2013,MLI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-b67f52c0ae,itu,2017,MLI,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-f94ef157c5,itu,2022,MLI,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-41dc5715d5,itu,2016,MOZ,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-44fbdc252e,itu,2008,MOZ,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-4e728acc98,itu,2012,MOZ,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-53ac9a46fd,itu,2024,MOZ,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-7000127178,itu,2013,MOZ,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-82db542c9c,itu,2007,MOZ,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-9185e79279,itu,2018,MOZ,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-927120baf4,itu,2019,MOZ,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-9e5fd64b0f,itu,2017,MOZ,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-a55f76575d,itu,2010,MOZ,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-a5fd1f48b5,itu,2014,MOZ,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-a77954134d,itu,2011,MOZ,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-b4360897fb,itu,2022,MOZ,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-caed27370d,itu,2020,MOZ,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-da8cda5606,itu,2015,MOZ,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-de9e3b5e58,itu,2009,MOZ,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-05ffaefd7f,itu,2008,MRT,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-0934f7085d,itu,2020,MRT,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-1e0ad061a9,itu,2011,MRT,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-29d70edf91,itu,2014,MRT,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-42ee5f629d,itu,2022,MRT,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-55a7d12872,itu,2018,MRT,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-5fdaa2552c,itu,2017,MRT,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-6cc6ecfa7a,itu,2019,MRT,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-75b45ef089,itu,2013,MRT,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-9ca7e45b3a,itu,2015,MRT,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-aa9f70dc18,itu,2016,MRT,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-c291bec264,itu,2010,MRT,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-cc43a063db,itu,2009,MRT,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-dd8db1b011,itu,2024,MRT,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-e0d63a98a0,itu,2007,MRT,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-fc0a24dd2e,itu,2012,MRT,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-028e987e80,itu,2012,MUS,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-2f60341550,itu,2024,MUS,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-5dd1bfe0c2,itu,2016,MUS,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-5fea73bd93,itu,2015,MUS,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-73c0cb9062,itu,2018,MUS,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-7fbae12dc5,itu,2022,MUS,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-887d789920,itu,2009,MUS,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-a9fbeaf25f,itu,2008,MUS,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-b99051b762,itu,2013,MUS,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-bb228a5790,itu,2014,MUS,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-bf758bae3c,itu,2007,MUS,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-c78febc6f5,itu,2017,MUS,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-d0b9d20f4e,itu,2020,MUS,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-e4bf0f760d,itu,2019,MUS,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-e95d31b509,itu,2010,MUS,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-ee772d7c35,itu,2011,MUS,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-056caa6e1e,itu,2009,MWI,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-17d323a620,itu,2020,MWI,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-2fa5a695de,itu,2015,MWI,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-33c2ad7e01,itu,2024,MWI,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-5718cacd12,itu,2007,MWI,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-61b18d06e5,itu,2012,MWI,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-727f48329c,itu,2014,MWI,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-83035a556c,itu,2018,MWI,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-945e7b02c6,itu,2010,MWI,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-a7b9446b52,itu,2019,MWI,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-aa9207cc8a,itu,2008,MWI,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-bae824515c,itu,2011,MWI,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-bdf51db5a2,itu,2013,MWI,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-d0c653e70f,itu,2017,MWI,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-f85bc557c1,itu,2016,MWI,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-f941612cb7,itu,2022,MWI,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-05dedf6ff2,itu,2009,NAM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-145fc67c6d,itu,2008,NAM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-27d5d55203,itu,2016,NAM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-3a18f6beb3,itu,2019,NAM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-445c64adcb,itu,2010,NAM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-4a6abce926,itu,2012,NAM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-4cfa14a13f,itu,2024,NAM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-787fa1f9ff,itu,2007,NAM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-8f39e1832c,itu,2013,NAM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-960f710666,itu,2017,NAM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-a6638b2dbd,itu,2011,NAM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-c38bd3b659,itu,2014,NAM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-d8e9ce9ed7,itu,2015,NAM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-dc71c16698,itu,2018,NAM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-de07bc415b,itu,2020,NAM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-faf99699a8,itu,2022,NAM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-030d591acd,itu,2022,NER,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-0b748411e0,itu,2019,NER,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-4e0fbd9903,itu,2020,NER,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-5b3630f615,itu,2024,NER,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-9ca0677b8d,itu,2018,NER,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-08b8c2d7a8,itu,2017,NGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-0987ae3ed8,itu,2024,NGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-1481c1a575,itu,2008,NGA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-3b12cdcb38,itu,2016,NGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-3e2e62df10,itu,2013,NGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-6b80e84ceb,itu,2022,NGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-7024f35869,itu,2020,NGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-8c4026aeaa,itu,2012,NGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-9b0cea51ef,itu,2015,NGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-b667f0ffcf,itu,2007,NGA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-b9db8156e8,itu,2014,NGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-c6a7a97d84,itu,2019,NGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-d166552a2c,itu,2018,NGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-d488ba93b0,itu,2009,NGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-efebb893ab,itu,2010,NGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-f40e327509,itu,2011,NGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-08d6016b6f,itu,2020,RWA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-11997f15de,itu,2010,RWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-23a98b430b,itu,2007,RWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-337343e9eb,itu,2014,RWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-4fbdea3c74,itu,2013,RWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-54dca490f1,itu,2018,RWA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-62ea3b5bc4,itu,2012,RWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-67bf94f631,itu,2011,RWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-683168ff91,itu,2017,RWA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-69a8d88b18,itu,2019,RWA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-a352c3346e,itu,2008,RWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-a85c3d4399,itu,2016,RWA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-c35056850a,itu,2015,RWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-c726fc2dc5,itu,2022,RWA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-c815ddb1fd,itu,2024,RWA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-dbad70d172,itu,2009,RWA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-0898f4cda7,itu,2018,SDN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-0c6203a362,itu,2008,SDN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-0ef800f2dc,itu,2014,SDN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-10dacc7ae2,itu,2024,SDN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-28426918d6,itu,2016,SDN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-3481e0fabb,itu,2013,SDN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-4060a85f9e,itu,2017,SDN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-4d4a2f53ef,itu,2022,SDN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-5a6928ea56,itu,2010,SDN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-5c75695822,itu,2011,SDN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-635c1e27b6,itu,2012,SDN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-7dc8a7c4b3,itu,2020,SDN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-852c965001,itu,2007,SDN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-86cc8349df,itu,2019,SDN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-ba9c8c69a3,itu,2009,SDN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-ed7fbce010,itu,2015,SDN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-38086a2b29,itu,2015,SEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-47326c21d9,itu,2009,SEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-51989380b8,itu,2010,SEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-5ec4e8b338,itu,2014,SEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-668bf2ef01,itu,2017,SEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-770a336fc8,itu,2012,SEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-77b751d034,itu,2007,SEN,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-77d3175f27,itu,2019,SEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-844243d51e,itu,2008,SEN,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-88f5ef2d9b,itu,2011,SEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-a3c1f88cec,itu,2013,SEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-c3aab4893e,itu,2022,SEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-c9ea1e52af,itu,2016,SEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-de2edec18a,itu,2024,SEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-ed180763f7,itu,2020,SEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-fcf859c2c8,itu,2018,SEN,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-043e3f8ee3,itu,2018,SLE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-216ce293e3,itu,2017,SLE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-344793fcca,itu,2019,SLE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-555d9e6110,itu,2014,SLE,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-5c887174ca,itu,2010,SLE,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-5e9117772c,itu,2015,SLE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-7b10112e28,itu,2024,SLE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-8ba08819e6,itu,2008,SLE,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-9b1e12ebad,itu,2020,SLE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-9bc9be96a5,itu,2016,SLE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-aca6267fdc,itu,2013,SLE,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-c1b6028ffb,itu,2011,SLE,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-cbf86a1369,itu,2007,SLE,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-d3b668f6c4,itu,2009,SLE,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-f1f7e8d0b0,itu,2012,SLE,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-fd509050f1,itu,2022,SLE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-394fbbf4e2,itu,2012,SOM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-4695362f30,itu,2017,SOM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-4f557c1b64,itu,2008,SOM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-57f4bee2bf,itu,2024,SOM,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-6e6faf006a,itu,2022,SOM,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-773c182575,itu,2010,SOM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-8fb8e4c30f,itu,2013,SOM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-921f2a2cf6,itu,2020,SOM,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-b40fb41325,itu,2015,SOM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-bfd785ecbe,itu,2007,SOM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-c3f48a25de,itu,2011,SOM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-c42fcf9c16,itu,2009,SOM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-c63b3e8dcf,itu,2016,SOM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-e8238f5b64,itu,2019,SOM,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-e96bc66e2e,itu,2018,SOM,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-ecffb53fed,itu,2014,SOM,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-0c64791464,itu,2024,SSD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-23012de021,itu,2012,SSD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-29b3529d11,itu,2011,SSD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-3c6320743c,itu,2022,SSD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-5c9f603580,itu,2015,SSD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-710a062d34,itu,2018,SSD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-8bb98463ec,itu,2013,SSD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-8dda5a2035,itu,2020,SSD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-9d47d8903c,itu,2017,SSD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-ad77817979,itu,2016,SSD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-ebace429b7,itu,2019,SSD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-edfe1171fb,itu,2014,SSD,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-13cd0b51f6,itu,2024,STP,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-1d9c8875da,itu,2007,STP,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-1e44ae2f25,itu,2011,STP,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-28395dee42,itu,2014,STP,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-29647de3e8,itu,2022,STP,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-3011e795f3,itu,2009,STP,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-3ba04a7fa3,itu,2008,STP,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-5ddbcf5960,itu,2013,STP,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-6665b90474,itu,2017,STP,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-7de0365a81,itu,2016,STP,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-a38bab7588,itu,2015,STP,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-cc3d410338,itu,2010,STP,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-db07b68867,itu,2020,STP,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-ea303d11cc,itu,2019,STP,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-ecb8487cff,itu,2012,STP,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-fdbd4b1d99,itu,2018,STP,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-01aee190e7,itu,2016,SWZ,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-025416f25d,itu,2020,SWZ,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-1a87b632f4,itu,2014,SWZ,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-1d44b6d9af,itu,2008,SWZ,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-254e62aac9,itu,2007,SWZ,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-51e1d3e152,itu,2018,SWZ,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-70c6fa7c56,itu,2009,SWZ,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-714e5dd61c,itu,2019,SWZ,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-73c7b2207c,itu,2012,SWZ,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-76049903cc,itu,2024,SWZ,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-9335437440,itu,2013,SWZ,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-9cae256d95,itu,2010,SWZ,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-b1c2410f01,itu,2022,SWZ,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-b8ef11951a,itu,2011,SWZ,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-b9c2896f35,itu,2015,SWZ,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-ffe2cb3773,itu,2017,SWZ,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-029e7cefdc,itu,2010,SYC,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-1214af0b32,itu,2008,SYC,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-2dd51ad558,itu,2019,SYC,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-40cde98757,itu,2022,SYC,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-5a0753e9f2,itu,2007,SYC,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-5c83432345,itu,2011,SYC,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-6533e04ddf,itu,2012,SYC,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-6a90c5a555,itu,2014,SYC,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-80bbb82a81,itu,2018,SYC,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-959167632d,itu,2009,SYC,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-c4b582b56a,itu,2024,SYC,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-c85803ccc3,itu,2013,SYC,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-cb62309982,itu,2015,SYC,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-d1b1a43c02,itu,2016,SYC,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-d6b75f7ccd,itu,2020,SYC,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-d89ff45bba,itu,2017,SYC,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-29e262244f,itu,2008,TCD,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-2b02b037f7,itu,2011,TCD,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-3335e44b21,itu,2017,TCD,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-3413378530,itu,2022,TCD,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-34e42353c8,itu,2015,TCD,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-515dfc1424,itu,2013,TCD,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-5c9bc98a6f,itu,2020,TCD,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-6718cb6de8,itu,2024,TCD,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-844a157f9d,itu,2016,TCD,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-8cbedb45bd,itu,2007,TCD,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-8cc490e51e,itu,2010,TCD,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-97c2b85274,itu,2012,TCD,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-c73b84c65a,itu,2014,TCD,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-ef80dc0ade,itu,2009,TCD,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-f14b4f933a,itu,2019,TCD,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-fc57bb41b0,itu,2018,TCD,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-1af6a69760,itu,2022,TGO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-2880b4ad72,itu,2020,TGO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-2d1f874f64,itu,2016,TGO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-4aa156d381,itu,2012,TGO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-6338803db4,itu,2008,TGO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-6c7c147a73,itu,2010,TGO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-771560fc00,itu,2017,TGO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-7bfca0df53,itu,2007,TGO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-8b01bb43ac,itu,2013,TGO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-a822c4c38e,itu,2019,TGO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-a99a8f7737,itu,2024,TGO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-bacef02485,itu,2018,TGO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-bd0b4cf14f,itu,2015,TGO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-ccb892e1f4,itu,2009,TGO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-d103e34608,itu,2014,TGO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-f91e59a9e6,itu,2011,TGO,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-00970916cc,itu,2008,TUN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-0a9762416d,itu,2019,TUN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-3efc1f6d47,itu,2024,TUN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-6a25a832da,itu,2022,TUN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-6ec7008765,itu,2014,TUN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-839046b806,itu,2017,TUN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-95561b418e,itu,2016,TUN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-9f6d07a13d,itu,2007,TUN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-a3069c37b2,itu,2012,TUN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-b0dd6cb312,itu,2015,TUN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-b1af8a1a19,itu,2010,TUN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-b799419e65,itu,2013,TUN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-c17ffd33e9,itu,2020,TUN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-e6d87b5518,itu,2011,TUN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-f07badc8a4,itu,2018,TUN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-fdda90f779,itu,2009,TUN,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-115bb4acca,itu,2010,TZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-2afb9535b5,itu,2007,TZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-4aec638e65,itu,2022,TZA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-4da2ad56e1,itu,2017,TZA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-50717fb581,itu,2009,TZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-519910a824,itu,2014,TZA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-5b0f194eef,itu,2016,TZA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-6531047e9d,itu,2012,TZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-715ca5c51c,itu,2020,TZA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-78478bdddb,itu,2008,TZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-957665df69,itu,2011,TZA,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-a6c307cb76,itu,2013,TZA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-a9f27326c2,itu,2015,TZA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-c770311d01,itu,2019,TZA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-e3f360323a,itu,2024,TZA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-fd272d0591,itu,2018,TZA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-0355a5ecda,itu,2010,UGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-1a65c34218,itu,2014,UGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-368950c7a5,itu,2015,UGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-409146f79d,itu,2020,UGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-450e23d83b,itu,2024,UGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-5edceadfb0,itu,2016,UGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-70c407a5bd,itu,2013,UGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-88e870637c,itu,2019,UGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-b453d9b1b8,itu,2011,UGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-b7078b3cda,itu,2018,UGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-bf163d42c8,itu,2012,UGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-cfa1989c24,itu,2009,UGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-d845288c03,itu,2022,UGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-edef6cc668,itu,2008,UGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-eef1d86567,itu,2007,UGA,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-f3ca8e39c5,itu,2017,UGA,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-000d5686f6,itu,2017,ZAF,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-0713cebef6,itu,2015,ZAF,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-36c1b17296,itu,2022,ZAF,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-3fad4d3ab9,itu,2007,ZAF,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-6b6427711e,itu,2019,ZAF,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-7e8078f4c4,itu,2016,ZAF,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-85e8326bc4,itu,2012,ZAF,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-93ff9f5fcd,itu,2018,ZAF,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-a7ad64d789,itu,2008,ZAF,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-bbc3be9a85,itu,2010,ZAF,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-bfeb21bdc2,itu,2013,ZAF,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-d4c5118edf,itu,2011,ZAF,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-d5bbd3d387,itu,2024,ZAF,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-f2163f00e3,itu,2020,ZAF,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-f6d154328a,itu,2014,ZAF,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-faf87e815d,itu,2009,ZAF,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+aftech-9b570b0d6e,aftech,,ZMB,broadband internet; broadcasting and multimedia services; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce; first mile (undersea/submarine cables),"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Law,The Information Communication Technology Association of Zambia Act,2018,same;same;partial;same;partial;same;partial,nothing,2018-07-31-zmb-ictaz-act-7-of-2018,,"law on an ICT professionals' association, not about international routes"
+itu-2d6711daa6,itu,2007,ZMB,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-34fdd5fcf9,itu,2008,ZMB,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-4ce431fbc4,itu,2017,ZMB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-59c4e0d980,itu,2020,ZMB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-71f56afb33,itu,2018,ZMB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-798dd58fb3,itu,2012,ZMB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-7be56eb831,itu,2015,ZMB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-88f5d1ac89,itu,2013,ZMB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-8a475488c6,itu,2009,ZMB,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-b09dbee163,itu,2019,ZMB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-b14cb0821d,itu,2010,ZMB,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-c51969528d,itu,2016,ZMB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-cc28ca6e3d,itu,2022,ZMB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-e05704fbc4,itu,2014,ZMB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,superseded,,,the 2024 round answers it
+itu-e82e3c6f07,itu,2024,ZMB,r41,Competition framework: Level of competition in International Gateways,Full competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-eedddb8d4b,itu,2011,ZMB,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-0a849ca584,itu,2009,ZWE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-12cae3570f,itu,2010,ZWE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-1c98b78499,itu,2019,ZWE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-4189e9c7bf,itu,2007,ZWE,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-46fe494f2a,itu,2008,ZWE,r41,Competition framework: Level of competition in International Gateways,Monopoly,,,partial,superseded,,,the 2024 round answers it
+itu-4d5e036e74,itu,2024,ZWE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"gateway competition level, not routes or capacity sold"
+itu-59eabc2dcc,itu,2014,ZWE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-61bee838e9,itu,2012,ZWE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-6a2b1cde3c,itu,2011,ZWE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-7ab4730f5a,itu,2020,ZWE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-98df2d398f,itu,2013,ZWE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-a15bc72daa,itu,2018,ZWE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-ad3e82d08f,itu,2016,ZWE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-bda0912e36,itu,2017,ZWE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-c756b7dfe0,itu,2022,ZWE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
+itu-f4c8d56d40,itu,2015,ZWE,r41,Competition framework: Level of competition in International Gateways,Partial competition,,,partial,superseded,,,the 2024 round answers it
