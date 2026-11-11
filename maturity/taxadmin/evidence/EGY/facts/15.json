@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-23-egy-payrollorg-unified-payroll-tax-system",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Unified payroll tax system",
+   "country_label": "Egypt",
+   "class": "taxsystem",
+   "platform": "ETA website",
+   "owner": "Egyptian Tax Authority (ETax)",
+   "tiers": ""
+  }
+ ],
+ "note": "The system calculates payroll tax and shows employees their breakdowns; online filing or payment is not stated."
+}
