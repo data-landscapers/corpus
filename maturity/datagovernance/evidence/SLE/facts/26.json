@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-01-sle-africa-regional-forum-on-data-governance-and-digital-government",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "A Government of Sierra Leone presentation says a National Data Strategy is in ongoing development, with March 2025 given as its date.",
+   "as_of": "2024-10-01",
+   "date_precision": "day",
+   "system": "National Data Strategy",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

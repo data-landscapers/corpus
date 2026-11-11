@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-13-nga-thisdaylive-katsina-dpi-ngf-readiness-ikatsina",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "ThisDay reports that Katsina State adopted the National Data Strategy 2022, which the Nigeria Governors' Forum's July 2025 readiness report credits as a policy framework.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "National Data Strategy 2022",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
