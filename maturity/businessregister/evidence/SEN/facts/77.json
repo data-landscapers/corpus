@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-10-sen-justice-apix-business-registry",
+ "facts": [
+  {
+   "sub_indicator": "business",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "APAnews reports Justice Minister Moussa Sarr agreed on 10 November 2026 to deploy APIX's digital company-creation platform in the courts, interconnecting the court registries that keep the RCCM, which APIX says allows a company to be created in hours.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "APIX company-creation platform / RCCM",
+   "class": "business"
+  }
+ ],
+ "systems": [
+  {
+   "system": "APIX company-creation platform",
+   "country_label": "APIX platform",
+   "class": "business",
+   "platform": "",
+   "owner": "APIX",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

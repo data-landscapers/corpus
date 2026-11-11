@@ -1,0 +1,15 @@
+{
+ "slug": "2024-11-01-mus-cib-list-of-operational-systems",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Companies and Businesses Registration Integrated System - CBRIS",
+   "country_label": "Mauritius",
+   "class": "business",
+   "platform": "",
+   "owner": "Corporate and Business Registration Department",
+   "tiers": ""
+  }
+ ],
+ "note": "CBRIS is named only; the list does not say what it does, whether registration is online or the number shared."
+}
