@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-afdb-backs-local-tech-assembly",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "plant",
+   "value": "production",
+   "fact": "ITWeb reports Kenya's East Africa Device Assembly facility has scaled production, with capacity to build 1.2 million to 3 million low-cost 4G smartphones a year.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "East Africa Device Assembly",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

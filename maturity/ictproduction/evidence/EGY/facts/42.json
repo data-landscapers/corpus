@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-17-egy-youm7-mcit-achievements-digital-transformation",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "plant",
+   "value": "production",
+   "fact": "Youm7 says the ministry attracted nine global mobile phone makers with local manufacturing above 40%, and three fibre optic cable factories are operating.",
+   "as_of": "2025-07-17",
+   "date_precision": "day",
+   "system": "Mobile phone manufacturing",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

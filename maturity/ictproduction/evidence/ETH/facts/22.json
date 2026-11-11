@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-afdb-backs-local-tech-assembly",
+ "facts": [
+  {
+   "sub_indicator": "production",
+   "aspect": "plant",
+   "value": "production",
+   "fact": "AfDB ICT operations manager Nicholas Williams said Ethiopia has a growing domestic device manufacturing and assembly base.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Ethiopian device manufacturing and assembly",
+   "class": "ictproduction"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
