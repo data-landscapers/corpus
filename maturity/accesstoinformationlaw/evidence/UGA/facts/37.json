@@ -1,0 +1,36 @@
+{
+ "slug": "2024-05-17-uga-afic-access-to-information-prospects-and-hurdles",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "AFIC's May 2024 presentation says Uganda's Access to Information Act (2005) elaborates how the constitutional right of access to information held by public bodies is exercised.",
+   "as_of": "2005",
+   "date_precision": "year",
+   "system": "Access to Information Act (2005)",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "reach",
+   "value": "rules",
+   "fact": "AFIC's May 2024 presentation says the Access to Information Act (2005) has Regulations (2011) that specify the information citizens can request and the exemptions.",
+   "as_of": "2011",
+   "date_precision": "year",
+   "system": "Access to Information Regulations (2011)",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Access to Information Act (2005)",
+   "country_label": "Uganda",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "The 2019 AFIC request figures are a civil-society count, not an oversight body or court, so no applied fact."
+}

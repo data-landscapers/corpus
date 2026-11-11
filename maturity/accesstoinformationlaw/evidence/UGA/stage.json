@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "3",
+      "stage": "5",
       "standing": "in-force",
-      "reach": "",
+      "reach": "applied",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-001;UGA-003",
-      "gaps": "No source found names rules made under the law or says its oversight body is set up.",
-      "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py.",
-      "as_at": "2026-11-09"
+      "stage_sources": "UGA-004;UGA-007;UGA-002",
+      "gaps": "No information commission: the Act names none, and no source gives published request figures.",
+      "note": "Stage 4c 2026-11-11: AFIC says Access to Information Regulations were made under the 2005 Act in 2011 (UGA-007), and the High Court ruled on a request under the Act on 7 August 2026 (UGA-002), so stage 5.",
+      "as_at": "2026-11-11"
     }
   ]
 }

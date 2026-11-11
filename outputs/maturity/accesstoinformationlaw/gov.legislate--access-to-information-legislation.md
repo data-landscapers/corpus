@@ -20,9 +20,9 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 11 |
+| 5 Leading | 12 |
 | 4 Operating | 5 |
-| 3 Established | 15 |
+| 3 Established | 14 |
 | 2 Nascent | 13 |
 | 1 Absent | 5 |
 | Unplaced | 2 |
@@ -98,6 +98,14 @@ Tunisia's 2016 access law is in force; its oversight body received 7,347 appeals
 
 - Tunisia's return to UNESCO's 2024 SDG 16.10.2 survey says a national information commission oversees the law, and reports 7,347 appeals received in January-December 2023 and 6,375 requests received in 2021 ([source, 2023](https://www.unesco.org/sites/default/files/medias/fichiers/2024/11/Tunisia_SDG16102_2024.pdf)).
 - The document is the text of Tunisia's organic law no. 22 of 2016 on the right of access to information, promulgated 24 March 2016, which gives every person a right to ask public bodies for information and takes effect one year after publication ([source, 2016-03-24](https://inai.tn/wp-content/uploads/2016/03/loi-22-inai.pdf)).
+
+### Uganda: 5 Leading
+
+Uganda's Access to Information Act has had regulations since 2011 and the High Court applied it in 2026; no information commission oversees it.
+
+- This document is the text of the Access to Information Act, 2005, assented to on 7 July 2005 and commencing on a day the Minister appoints by statutory instrument; it gives every citizen a right of access to records of public bodies ([source, 2005-07-07](https://www.judiciary.go.ug/files/downloads/access%20to%20informatioinformation%20Act2005.pdf)).
+- AFIC's May 2024 presentation says the Access to Information Act (2005) has Regulations (2011) that specify the information citizens can request and the exemptions ([source, 2011](https://www.africafoicentre.org/access-to-information-in-uganda-prospects-and-hurdles/)).
+- The High Court of Uganda (Civil Division) on 7 August 2026 allowed UNEB's appeal against a Chief Magistrates Court order, made on a complaint against an information officer's decision under the ATIA, that had compelled release of a candidate's examination scripts, and set aside UGX 12,000,000 damages ([source, 2026-08-07](https://www.mmaks.co.ug/articles/2026/08/21/examination-scripts-are-personal-data-high-court-sets-aside-order-compelling)).
 
 ### Zambia: 5 Leading
 
@@ -241,13 +249,6 @@ Sudan's Right to Access Information Law of 2015 is on the books; nothing since 2
 Tanzania's 2016 Access to Information Act has been in force since July 2017; no source found reports rules made under it.
 
 - The document is the text of Tanzania's Access to Information Act, 2016 (Chapter 149), assented to on 23 September 2016, gazetted on 30 September 2016 and commenced on 1 July 2017 by the Access to Information (Date of Commencement) Notice, 2017; it gives every citizen a right to request information from public bodies and applies to Mainland Tanzania only ([source, 2016](https://tanzlii.org/akn/tz/act/2016/6/eng@2016-09-30)).
-
-### Uganda: 3 Established
-
-Uganda's Access to Information Act is in force and courts applied it in 2025-26; no rules made under it or oversight body is known.
-
-- The article reports the Access to Information Act, Cap 95 (ATIA), as the law giving a right of access under its section 4, applied by the High Court in a judgment of 7 August 2026; the article gives no year of enactment, so the judgment date is used ([source, 2026-08-07](https://www.mmaks.co.ug/articles/2026/08/21/examination-scripts-are-personal-data-high-court-sets-aside-order-compelling)).
-- The Constitutional Court on 4 December 2025 (Petition No. 13 of 2020) held section 1(2)(b) of the ATIA, the exemption for court records before a case concludes, unconstitutional, treating the Act as law in force ([source, 2025-12-04](https://ulii.org/en/judgments/UGCC/2025/12/)).
 
 ### Burundi: 2 Nascent
 

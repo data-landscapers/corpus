@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-10-sle-data-protection-records-bills",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Sierra Leone Monitor says the right to request information from government is currently governed by the 2013 Right to Access Information Act.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Right to Access Information Act, 2013",
+   "class": "law"
+  },
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Information Minister tabled the Data Protection and Right to Access Information Bill, 2026 in Parliament, which completed its First Reading on 5 November 2026 and is not yet law.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "Data Protection and Right to Access Information Bill, 2026",
+   "class": "law"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Right to Access Information Act, 2013",
+   "country_label": "Sierra Leone",
+   "class": "law",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
