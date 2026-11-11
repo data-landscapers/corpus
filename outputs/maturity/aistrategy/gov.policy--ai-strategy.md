@@ -22,8 +22,8 @@ The African Union's Continental AI Strategy, adopted in 2024, says member states
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 8 |
-| 3 Established | 11 |
-| 2 Nascent | 23 |
+| 3 Established | 12 |
+| 2 Nascent | 22 |
 | 1 Absent | 3 |
 | Unplaced | 3 |
 | No evidence | 5 |
@@ -159,6 +159,13 @@ Mauritania's digital ministry has published a national AI strategy for 2025 to 2
 - Ecofin Agency states Mauritania has a national artificial intelligence strategy for 2025-2029 providing for applications in healthcare, education, agriculture and transportation ([source, 2026-10-09](https://www.ecofinagency.com/news-digital/0910-59612-mauritanias-digital-economy-plans-face-persistent-telecom-network-quality-problems)).
 - The US Country Commercial Guide says MTNIMA, the Mauritanian digital ministry, has published the National AI Strategy (2025-2029); the guide gives no date for the publication, so the document's published date of 2026-02-10 is used ([source, 2026-02-10](https://www.trade.gov/country-commercial-guides/mauritania-digital-economy)).
 
+### Morocco: 3 Established
+
+Morocco's minister launched a national AI roadmap to 2030 in November 2026; no source found names a body to carry it out.
+
+- The digital transition and administrative reform minister told parliament's interior committee on 10 November 2026 that he was launching the 'Morocco AI 2030' roadmap, with three pillars and 10 structural programmes ([source, 2026-11-10](https://en.hespress.com/148882-morocco-develops-national-ai-roadmap-as-government-seeks-to-regulate-technology-use.html)).
+- Decree 2-26-831 of 26 October 2026 charges minister Ahmed Rahhou with drawing up the government's AI policy and overseeing its implementation, per Médias24 ([source, 2026-10-26](https://medias24.com/2026/10/28/ahmed-rahhou-charge-delaborer-la-politique-publique-en-matiere-dia-1785031/)).
+
 ### Nigeria: 3 Established
 
 Nigeria's communications minister launched a national AI strategy in 2025; no body is known to carry it out.
@@ -249,12 +256,6 @@ The Gambia said in April 2026 that it was developing a national AI policy and st
 Malawi validated a draft national AI strategy in February 2026 and was finalising it in August; no source found reports its adoption.
 
 - ICT minister Namalomba said on 2026-08-06 that the government is finalising a National AI Strategy, to be supported by an AI Bill ([source, 2026-08-06](https://itweb.africa/article/malawi-drafts-ai-bill-to-govern-public-sector-tech/PmxVE7KEOnpqQY85)).
-
-### Morocco: 2 Nascent
-
-Morocco announced plans early in 2026 to unveil a national AI roadmap to 2030; no source found says whether it has been adopted.
-
-- The update reports that Morocco announced plans to officially unveil its National AI Roadmap, "Morocco AI 2030"; no adoption is stated. The event falls in January-February 2026; the document is published 2026-06-23 ([source, 2026-02](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026)).
 
 ### Mozambique: 2 Nascent
 

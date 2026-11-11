@@ -25,3 +25,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-28,GNB,gov.policy--ai-strategy,fact,no evidence,unplaced,,"Digital Watch: no confirmed standalone AI strategy; it does not say none is being written, so stage 1 is not met; no evidence -> unplaced"
 2026-10-30,SYC,gov.policy--ai-strategy,fact,2,4,SYC-002;SYC-003,"Cabinet approved the Digital & AI Strategy 2026-2031 and an inter-ministerial coordination committee on 28 October 2026: adopted, body named"
 2026-11-05,GHA,gov.policy--ai-strategy,fact,3,3,GHA-023;GHA-024;GHA-036,"The Vice President spoke on 4 November 2026 of developing a national AI strategy; Cabinet approval in February 2026 and the April 2026 launch stand, so the stage holds."
+2026-11-11,MAR,gov.policy--ai-strategy,fact,2,3,MAR-004;MAR-003,Minister launched Morocco AI 2030 on 10 November 2026: adopted and running; no body tied to it

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-09-zmb-zambia-china-ai-data-centre-cooperation",
+ "facts": [
+  {
+   "sub_indicator": "strategy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Permanent Secretary Brilliant Habeenzu of the Ministry of Technology and Science said Zambia's existing AI strategy is approaching the end of its term.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "Zambia's existing AI strategy",
+   "class": "strategy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Zambia's existing AI strategy",
+   "country_label": "Zambia",
+   "class": "strategy",
+   "platform": "",
+   "owner": "Ministry of Technology and Science",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

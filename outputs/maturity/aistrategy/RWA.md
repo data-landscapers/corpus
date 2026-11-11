@@ -8,4 +8,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source from the last three years naming public money allocated to the strategy, or an action in it started with funding named, is held.
+***Not found***. No source from the last three years names public money allocated to the strategy. None names an action in it started with its funding stated.

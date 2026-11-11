@@ -1,16 +1,17 @@
 {
- "iso3": "MAR",
- "cells": [
-  {
-   "sub_indicator": "strategy",
-   "stage": "2",
-   "standing": "draft",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MAR-001",
-   "gaps": "No source found says a national AI strategy is adopted and still running.",
-   "note": "Counted from the four questions by study-ladder-aistrategy.py."
-  }
- ]
+  "iso3": "MAR",
+  "cells": [
+    {
+      "sub_indicator": "strategy",
+      "stage": "3",
+      "standing": "adopted",
+      "use": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MAR-004;MAR-003",
+      "gaps": "No source found names a body set up or named to carry out the roadmap, or public money allocated to it.",
+      "note": "The minister launched Morocco AI 2030 on 10 November 2026, so a strategy is adopted and running. No source ties a council, office or unit to it, so not stage 4.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }
