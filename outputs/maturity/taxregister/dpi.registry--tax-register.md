@@ -21,11 +21,11 @@ The TADAT framework asks for every taxpayer to hold one unique identifier in one
 | Stage | Countries |
 |---|---|
 | 5 Leading | 2 |
-| 4 Operating | 11 |
-| 3 Established | 19 |
+| 4 Operating | 12 |
+| 3 Established | 20 |
 | 2 Nascent | 1 |
 | 1 Absent | 0 |
-| Unplaced | 14 |
+| Unplaced | 12 |
 | No evidence | 7 |
 
 ## Countries
@@ -98,6 +98,13 @@ The taxpayer number was shared with business registration or customs in 2025; no
 The taxpayer number was shared with business registration or customs in 2025; no source found reports a tie to the national ID.
 
 - The portal gives commerce register, tax registration and social security affiliation in one procedure at company creation ([source, 2025-04-04](https://ami.mr/fr/archives/268316)).
+
+### Mozambique: 4 Operating
+
+Taxpayer numbers came from a computerised register and served customs in 2026; whether they are tied to the national ID is not known.
+
+- CEDSIF's portal page lists e-Tributação as including a taxpayer registration module (Registo de NUIT) ([source, 2026-09](https://www.cedsif.gov.mz/cedsifportal/?page_id=81)).
+- The Autoridade Tributária's FAQ says the NUIT must be used for all taxes, including customs duties, and is required for imports and exports and for economic-activity licensing ([source, 2026-08-28](http://www.at.gov.mz/por/Perguntas-Frequentes2/NUIT)).
 
 ### Namibia: 4 Operating
 
@@ -197,6 +204,13 @@ Since 2026 a tax platform registers foreign digital-service providers and issues
 
 - The Direction generale des impots launched in May 2026 the electronic platform 'Taxation on Digital Services' for non-resident foreign providers to register, declare their Moroccan turnover and pay VAT, under decree 2.25.862 of 27 November 2025 ([source, 2026-05](https://fr.hespress.com/489385-publicite-meta-applique-la-tva-au-maroc-des-octobre.html)).
 - Decree 2.25.862 of 27 November 2025 requires non-resident remote service suppliers to register on an electronic platform set up by the tax administration, which then issues them a tax identification number electronically; it enters into force six months after publication ([source, 2025-11-27](https://ecoactu.ma/wp-content/uploads/2025/12/decret-pour-la-TVA-sur-les-services-a-distance-au-Maroc-fournis-par-des-prestataires-non-residents-Art-115-Bis-du-CGI.pdf)).
+
+### Senegal: 3 Established
+
+Taxpayers registered online and received a tax number in 2024 and 2026; whether customs or business registration use the same number is not known.
+
+- The DGID says taxpayers can register online (immatriculation en ligne) through SENTAX, with membership requests validated by DGID services ([source, 2026](https://www.dgid.sn/sentax)).
+- Senegal's Ministry of Finance order says foreign suppliers register remotely online with the tax authority and receive the NINEA tax identification number and an Etax login, effective 1 April 2024 ([source, 2024-04](https://www.dgid.sn/storage/uploads/2024/07/Order-GTC-355-Digital-VAT-DEFINITIVE-VERSION.pdf)).
 
 ### Seychelles: 3 Established
 
@@ -298,12 +312,6 @@ Nothing found since 2023 names a computerised taxpayer register, so no stage is 
 
 Not established: Nothing found since October 2023 says whether taxpayers are registered on computer.
 
-### Mozambique: Unplaced
-
-The taxpayer number was required for customs in 2026, but nothing found says the register is computerised, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether taxpayers are registered on computer.
-
 ### Niger: Unplaced
 
 Nothing found since 2023 names a computerised taxpayer register, so no stage is set.
@@ -311,12 +319,6 @@ Nothing found since 2023 names a computerised taxpayer register, so no stage is 
 Not established: Nothing found since October 2023 says whether taxpayers are registered on computer.
 
 ### Rwanda: Unplaced
-
-Nothing found since 2023 names a computerised taxpayer register, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether taxpayers are registered on computer.
-
-### Senegal: Unplaced
 
 Nothing found since 2023 names a computerised taxpayer register, so no stage is set.
 

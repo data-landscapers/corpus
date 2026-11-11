@@ -1,0 +1,26 @@
+{
+ "slug": "2024-07-01-sen-dgid-order-article-355-bis-digital-vat",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "Senegal's Ministry of Finance order says foreign suppliers register remotely online with the tax authority and receive the NINEA tax identification number and an Etax login, effective 1 April 2024.",
+   "as_of": "2024-04",
+   "date_precision": "month",
+   "system": "NINEA",
+   "class": "tax"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Etax",
+   "country_label": "Senegal (eservices.dgid.sn)",
+   "class": "tax",
+   "platform": "",
+   "owner": "Direction Generale des Impots et des Domaines",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

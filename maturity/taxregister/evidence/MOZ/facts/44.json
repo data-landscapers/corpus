@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-01-moz-cedsif-modulos-e-sistafe",
+ "facts": [
+  {
+   "sub_indicator": "taxpayers",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "CEDSIF's portal page lists e-Tributação as including a taxpayer registration module (Registo de NUIT).",
+   "as_of": "2026-09",
+   "date_precision": "month",
+   "system": "e-Tributação Registo de NUIT",
+   "class": "tax"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "taxpayers",
-      "stage": "unplaced",
-      "register": "",
+      "stage": "4",
+      "register": "inservice",
       "shared": "shared",
       "nationalid": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether taxpayers are registered on computer.",
-      "note": "The NUIT is required for customs and licensing (2026), but nothing found says the register is computerised, and a later yes no longer answers the earlier ones (Bill, 2026-10-23).",
-      "as_at": "2026-10-23"
+      "stage_sources": "MOZ-003;MOZ-002",
+      "gaps": "No source found since October 2023 says the taxpayer number is tied to the national ID.",
+      "note": "CEDSIF lists a NUIT registration module in the e-Tributação tax system in September 2026, so numbers come from a computerised register, and the NUIT is the number used for customs duties and licensing. Nothing ties it to the national ID, so not 5.",
+      "as_at": "2026-11-11"
     }
   ]
 }
