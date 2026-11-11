@@ -26,3 +26,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-03,NER,gov.legislate--e-commerce-legislation,fact,3,4,NER-001;NER-002;NER-003,"Le Sahel, March 2025: the minister names implementing decree 2024-715 of 15 November 2024 under Law 2019-03; rules made, stage 3 to 4"
 2026-11-09,GHA,gov.legislate--e-commerce-legislation,ladder,5,3,GHA-004;GHA-005,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
 2026-11-09,ZMB,gov.legislate--e-commerce-legislation,ladder,5,3,ZMB-004;ZMB-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-11,DZA,gov.legislate--e-commerce-legislation,fact,3,4,DZA-010;DZA-004,"External claims (housekeeping 58): UNCTAD lists Executive Decree 19-89 (March 2019), made under e-commerce law 18-05; rules made, 4"
+2026-11-11,GMB,gov.legislate--e-commerce-legislation,fact,2,3,GMB-002,"External claims (housekeeping 58): UNCTAD lists the Information and Communications Act 2009 as the electronic transactions law; in force, 3"
+2026-11-11,ZWE,gov.legislate--e-commerce-legislation,fact,1,2,ZWE-006,"External claims (housekeeping 58): a government draft Electronic Transactions and E-commerce Bill of June 2013 exists; a draft, 2"

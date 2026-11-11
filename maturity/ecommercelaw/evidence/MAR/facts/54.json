@@ -1,0 +1,11 @@
+{
+  "slug": "2020-12-31-mar-bdj-loi-43-20-services-confiance-texte-arabe",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Arabic text of Law No. 43-20 on trust services for electronic transactions sets simple, advanced and qualified electronic signatures, denies simple and advanced signatures rejection in court for being electronic, and provides for approved trust service providers; the text carries no enactment date, so the published date 2020-12-31 (a proxy, the promulgating dahir's date) is used.", "as_of": "2020-12-31", "date_precision": "day", "system": "Law No. 43-20 on trust services for electronic transactions", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Law No. 43-20 on trust services for electronic transactions", "country_label": "MAR", "class": "law", "platform": "", "owner": "Government of Morocco", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {"aftech-2d14ef3022": "fact"}
+}

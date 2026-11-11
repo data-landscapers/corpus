@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-10-global-cyberlaw-tracker-2026-11-10",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "UNCTAD's Cyberlaw Tracker lists Law N°24/2016 of 18 June 2016 governing information and communication technologies, linked to the regulator RURA's copy of the law, as Rwanda's electronic transactions legislation.", "as_of": "2016-06-18", "date_precision": "day", "system": "Law governing Information and Communication Technologies (N°24/2016)", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Law governing Information and Communication Technologies (N°24/2016)", "country_label": "RWA", "class": "law", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {"unctad-4e03a00852": "fact"}
+}

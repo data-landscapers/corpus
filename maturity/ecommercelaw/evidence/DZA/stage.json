@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "3",
+      "stage": "4",
       "standing": "in-force",
-      "reach": "",
+      "reach": "rules",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-005;DZA-004",
-      "gaps": "No source found names a decree, regulation or order made under the e-commerce law or under law 26-02 on trust services.",
-      "note": "Law 18-05 on e-commerce and law 26-02 of 17 February 2026 on trust services are in force. The procurement portal order of 4 February 2026 was made under the procurement law, not under either, so nothing found answers question 4.",
-      "as_at": "2026-10-18"
+      "stage_sources": "DZA-010;DZA-004",
+      "gaps": "No source found dates an accreditation, licence, registration or penalty under the law in the last three years.",
+      "note": "Counted from the four questions by study-ladder-ecommercelaw.py.",
+      "as_at": "2026-11-11"
     }
   ]
 }

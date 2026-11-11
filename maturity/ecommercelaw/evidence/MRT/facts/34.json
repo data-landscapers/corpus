@@ -1,0 +1,9 @@
+{
+  "slug": "2021-07-30-mauritanie-loi-2021-014-texte-integral-droit-afrique",
+  "facts": [],
+  "systems": [
+    {"system": "Loi n°2021-014 relative aux services et moyens de paiement électronique", "country_label": "MRT", "class": "other", "platform": "", "owner": "Banque Centrale de Mauritanie", "tiers": ""}
+  ],
+  "note": "A payments law (it sets accreditation of certification providers for banking operations only); payments laws are not assessed.",
+  "claims": {"unctad-dc1ecc7268": "nothing: a payments law, not assessed"}
+}

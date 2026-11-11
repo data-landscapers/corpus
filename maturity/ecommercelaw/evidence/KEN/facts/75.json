@@ -1,0 +1,9 @@
+{
+  "slug": "2005-08-10-ken-cck-guidelines-implementation-provision-voip-services",
+  "facts": [],
+  "systems": [
+    {"system": "Guidelines on the Implementation and Provision of VOIP Services", "country_label": "KEN", "class": "other", "platform": "", "owner": "Communications Commission of Kenya", "tiers": ""}
+  ],
+  "note": "A 2005 telecom licensing guideline for voice over IP; it says nothing on electronic transactions or online selling.",
+  "claims": {"aftech-b88ce09e17": "nothing: a VoIP telecom guideline, not an e-commerce law"}
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2007-01-01-sudan-electronic-transactions-act-2007",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Electronic Transactions Act, 2007, passed by the National Assembly and signed by the President, covers electronic contracts and digital signatures, creates the Electronic Licensing National Committee to license signature authentication bodies, and by its commencement clause came into force on the date of signature; the text gives the year only.", "as_of": "2007", "date_precision": "year", "system": "The Electronic Transactions Act, 2007", "class": "law"}
+  ],
+  "systems": [
+    {"system": "The Electronic Transactions Act, 2007", "country_label": "SDN", "class": "law", "platform": "", "owner": "National Assembly of the Sudan", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {"unctad-c5eecb5e19": "fact"}
+}

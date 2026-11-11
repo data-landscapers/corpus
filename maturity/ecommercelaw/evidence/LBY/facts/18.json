@@ -1,0 +1,11 @@
+{
+  "slug": "2022-10-04-lby-law-6-2022-electronic-transactions",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "Law No. 6 of 2022 on Electronic Transactions, an 87-article law issued by the House of Representatives at Tobruk on 4 October 2022, regulates electronic signatures, certification service providers and electronic messages, and by Article 87 takes effect from its date of issuance.", "as_of": "2022-10-04", "date_precision": "day", "system": "Law No. 6 of 2022 concerning Electronic Transactions", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Law No. 6 of 2022 concerning Electronic Transactions", "country_label": "LBY", "class": "law", "platform": "", "owner": "House of Representatives", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {"unctad-015f5de34a": "fact"}
+}

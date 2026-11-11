@@ -1,0 +1,11 @@
+{
+  "slug": "2011-01-01-rwa-nici-iii-national-ict-strategy-and-plan-2015",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The NICI-III plan (published 2011) records among Rwanda's achievements the enactment of Law Nº 18/2010 of 12 May 2010 governing electronic messages, electronic signatures and electronic transactions, along with data protection, cyber security and ICT use in government procedures.", "as_of": "2010-05-12", "date_precision": "day", "system": "Law Nº 18/2010 governing electronic messages, electronic signatures and electronic transactions", "class": "law"}
+  ],
+  "systems": [
+    {"system": "Law Nº 18/2010 governing electronic messages, electronic signatures and electronic transactions", "country_label": "RWA", "class": "law", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The plan also lists, as a future action, developing regulations enforcing the electronic transaction law; a plan, not a rule made.",
+  "claims": {"aftech-aa2df6cff7": "nothing: an ICT plan, not assessed"}
+}

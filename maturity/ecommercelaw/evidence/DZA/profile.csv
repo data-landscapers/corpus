@@ -1,3 +1,3 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-DZA,law,standing,coverage,in-force,2026-08-04,DZA-001;DZA-004;DZA-005;DZA-006;DZA-007;DZA-008,DZA-002=draft;DZA-003=draft,
-DZA,law,reach,coverage,,,,,nothing held
+DZA,law,standing,coverage,in-force,2026-08-04,DZA-001;DZA-004;DZA-005;DZA-006;DZA-007;DZA-008;DZA-009,DZA-002=draft;DZA-003=draft,
+DZA,law,reach,coverage,rules,2019-03-05,DZA-010,,nothing dated since 2023-11-11

@@ -21,10 +21,10 @@ Chapter I of the Malabo Convention sets rules for electronic commerce, contracts
 | Stage | Countries |
 |---|---|
 | 5 Leading | 4 |
-| 4 Operating | 15 |
+| 4 Operating | 16 |
 | 3 Established | 26 |
 | 2 Nascent | 6 |
-| 1 Absent | 1 |
+| 1 Absent | 0 |
 | Unplaced | 1 |
 | No evidence | 1 |
 
@@ -63,6 +63,13 @@ Namibia's 2019 e-transactions law was applied in 2026, with a first certificatio
 - The Economist (Namibia) reports DigiNam was launched on 31 August 2026 under the Act, with CRAN serving as Root Certification Authority tasked with accrediting certification service providers; no accreditation is yet reported ([source, 2026-08-31](https://economist.com.na/government-launches-diginam-to-revolutionise-digital-security-and-streamline-public-services/)).
 - The report states CRAN is operationalising regulations under the Act on secured electronic signature accreditation; the report carries no date of issue, so its published date is used ([source, 2026-04-11](https://nam-csirt.na/download/namibia-cybersecurity-landscape-report-2025/)).
 - New Era reports that the Electronic Transactions Act of 2019 and its accreditation regulations were the basis on which CRAN accredited the Ministry of Home Affairs as a certification service provider (announced on an unnamed Tuesday of the week of the 3 September 2026 article) ([source, 2026-09](https://neweralive.na/home-affairs-becomes-namibias-first-certification-service-provider/)).
+
+### Algeria: 4 Operating
+
+Algeria's Law 18-05 on e-commerce is in force, and UNCTAD lists a 2019 decree on its registers; no later application is dated.
+
+- UNCTAD's tracker lists Décret exécutif n° 19-89 of 5 March 2019 as Algeria's electronic transactions legislation, fixing how registers of electronic commercial transactions are kept and sent to the national commerce register centre ([source, 2019-03-05](https://unctad.org/topic/ecommerce-and-digital-economy/ecommerce-law-reform/summary-adoption-e-commerce-legislation-worldwide)).
+- Echorouk quotes the head of the national consumer-guidance organisation for e-commerce as saying most online sellers in Algeria operate without the obligations that Law No. 18-05 on e-commerce lays down, which treats the law as existing and binding; the document gives no event date, so the 2026-08-04 publication date is used ([source, 2026-08-04](https://www.echoroukonline.com/%d8%a7%d8%b2%d8%af%d9%87%d8%a7%d8%b1-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6)).
 
 ### Benin: 4 Operating
 
@@ -175,13 +182,6 @@ Uganda's 2011 Electronic Transactions Act and its 2013 regulations are in force;
 - The Minister responsible for ICT made the Electronic Transactions Regulations, 2013 (S.I. 2013 No. 42) on 10 September 2013 under section 35 of the Electronic Transactions Act, 2011, gazetted 30 September 2013, covering authenticity of data messages, seller and service provider disclosures, commercial communications and provider liability ([source, 2013-09-10](https://ict.go.ug/public/site/documents/Electronic-Transction-Regulations-SI-42-of-2013.pdf)).
 - The Daily Monitor says Uganda currently relies on a piecemeal framework including the Electronic Transactions Act ([source, 2026-10-16](https://www.monitor.co.ug/uganda/news/national/uganda-champions-au-single-digital-market-plan-to-boost-cross-border-trade-5634362)).
 
-### Algeria: 3 Established
-
-Algeria's e-commerce Law 18-05 and a 2026 trust-services law are in force; no source found reports rules made under either.
-
-- TSA cites law 26-02 of 17 February 2026 setting general rules on trust services for electronic transactions and identification, under which the procurement portal's electronic signature operates ([source, 2026-02-17](https://www.tsa-algerie.com/lalgerie-lance-un-portail-electronique-dedie-au-marches-publics/)).
-- Echorouk quotes the head of the national consumer-guidance organisation for e-commerce as saying most online sellers in Algeria operate without the obligations that Law No. 18-05 on e-commerce lays down, which treats the law as existing and binding; the document gives no event date, so the 2026-08-04 publication date is used ([source, 2026-08-04](https://www.echoroukonline.com/%d8%a7%d8%b2%d8%af%d9%87%d8%a7%d8%b1-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6)).
-
 ### Angola: 3 Established
 
 Angola's 2011 presidential decree on information society services covers e-signatures and contracts; no rules made under it are known, and a 2026 regime awaits enactment.
@@ -239,6 +239,12 @@ Eswatini has had an Electronic Transactions Act since 2022, named by ministers i
 
 - Minister Savannah Maziya listed the Electronic Transactions Act of 2022 among Eswatini's existing legal groundwork ([source, 2026-04-29](https://swazi24.com/44934/news/maziya-opens-push-for-national-data-policy/)).
 - The Prime Minister said the Electronic Transactions Act was passed in 2022, and the article's highlights say three major cyber laws are now in force ([source, 2025-10-06](https://eswatinipositivenews.online/cybersecurity-key-to-national-security-and-growth-pm/)).
+
+### Gambia: 3 Established
+
+UNCTAD lists The Gambia's 2009 Information and Communications Act as its electronic transactions law; no rules made under it have been found.
+
+- UNCTAD's tracker lists the Information and Communications Act No. 2 of 2009 as The Gambia's electronic transactions legislation (the line gives year 2009 and no more) ([source, 2009](https://unctad.org/topic/ecommerce-and-digital-economy/ecommerce-law-reform/summary-adoption-e-commerce-legislation-worldwide)).
 
 ### Ghana: 3 Established
 
@@ -353,12 +359,6 @@ Djibouti's National Assembly passed a Digital Code covering e-commerce in June 2
 - La Nation reports that the National Assembly adopted unanimously, on 30 June 2025, the Digital Code of nearly 800 articles, which covers regulating online commerce among other areas; the article does not say it has been promulgated or is in force ([source, 2025-06-30](https://www.lanation.dj/le-code-du-numerique-un-pas-decisif-pour-la-transformation-digitale/)).
 - TechAfrica News reports that Djibouti's first Digital Code, eight books and nearly 800 articles including Book IV E-Commerce and Book V Consumer Rights, was passed by the National Assembly and announced by the Ministry of Digital Economy and Innovation; the headline says enacted but the text gives no promulgation or entry-into-force date ([source, 2025-06-30](https://techafricanews.com/2025/07/02/a-first-for-east-africa-djibouti-enacts-comprehensive-digital-code/)).
 
-### Gambia: 2 Nascent
-
-The Gambia's Communications Bill 2025 covering electronic transactions passed second reading in March 2026; no law in force is known.
-
-- The Standard reports that the National Assembly approved the Communications Bill 2025 at second reading (the day before the 2026-03-03 publication), after a first reading on 19 November 2025, and sent it to the ABC Committee; the Minister said it will create a legal framework for electronic transactions, recognising electronic signatures and contracts, and covers electronic commerce services ([source, 2026-03-02](https://standard.gm/lawmakers-back-bill-to-protect-personal-data-in-digital-age/)).
-
 ### Guinea-Bissau: 2 Nascent
 
 Guinea-Bissau put a draft Electronic Transactions Law to consultation until 28 May 2026; no law in force is known.
@@ -385,11 +385,11 @@ Somalia's E-Transactions Law was described in August 2026 as moving through the 
 
 - A Ministry of Information adviser, writing in a personal capacity, says Somalia has an E-Transactions Law moving through the legislative process, alongside a Data Protection Act and a Cybersecurity Bill; no date is given for the stage reached, so as_of is the document's published date ([source, 2026-08-19](https://sonna.so/en/article/Somalia%E2%80%99s-Most-Valuable-Chinese-Tech-Import-Is-Not-a-Model-It-Is-a-Megawatt)).
 
-### Zimbabwe: 1 Absent
+### Zimbabwe: 2 Nascent
 
-Zimbabwe had no electronic transactions law in June 2026 and relies on other laws; no published draft of one is known.
+Zimbabwe has a 2013 government draft electronic transactions bill, not presented in Parliament by February 2026, and no law in force.
 
-- FinMark Trust says Zimbabwe, with the DRC and Lesotho, does not have comprehensive legislation of the Electronic Transactions Act kind, and that existing financial services, data protection and cybersecurity laws are adapted instead; the document gives no event date, so as_of is its published date 2026-06-18 ([source, 2026-06-18](https://finmark.org.za/knowledge-hub/blog/building-a-cross-border-dpi-for-financial-inclusion-in-sadc)).
+- A first draft, dated 11 June 2013, of the Electronic Transactions and Electronic Commerce Bill exists as an ITU-assisted government draft covering legal recognition of electronic communications and signatures, electronic contracts, online consumer protection and service provider liability ([source, 2013-06-11](http://www.techzim.co.zw/wp-content/uploads/2016/08/ZImbabwes-draft-Electronic-Transactions-Electronic-Commerce-Bill.pdf)).
 
 ### Eritrea: Unplaced
 

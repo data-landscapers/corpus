@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-10-global-cyberlaw-tracker-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "All three tracker lines name laws whose standing is already held in evidence.csv.",
+  "claims": {
+    "unctad-3d1b0d98a5": "nothing: held as KEN-004",
+    "unctad-2ded45b9c7": "nothing: held as KEN-003",
+    "unctad-d53a67fbb6": "nothing: law in force already held as KEN-003"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-11-10-africa-technology-policy-tracker-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "The tracker lines are telecom and ISP policy, the 2001 ICT Act, and digital government strategies; none is an electronic transactions law.",
+  "claims": {
+    "aftech-aaad8776cb": "nothing: a telecom policy, not assessed",
+    "aftech-2e79a158d7": "nothing: an ISP policy, not assessed",
+    "aftech-436c71a960": "nothing: a telecom and ICT sector law, not electronic transactions",
+    "aftech-30cca441c0": "nothing: an e-government strategy, not assessed",
+    "aftech-e12e31451a": "nothing: an e-government strategy, not assessed",
+    "aftech-39bf78b2fa": "nothing: a digital strategy, not assessed",
+    "aftech-8440e7bab4": "nothing: a digital strategy, not assessed"
+  }
+}
