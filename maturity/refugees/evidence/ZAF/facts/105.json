@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-gov-za-home-affairs-launches-first-phase-digital-asylum-system",
+ "facts": [
+  {
+   "sub_indicator": "displaced",
+   "aspect": "registration",
+   "value": "underway",
+   "fact": "Home Affairs says its portal to record asylum seekers' intention to apply, with facial biometrics and documents, is live for test cases; it confers no status and is not a formal application.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Digital Asylum System, first phase",
+   "class": "displaced"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -9,10 +9,10 @@
       "counted": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZAF-002;ZAF-001;ZAF-004",
+      "stage_sources": "ZAF-005;ZAF-002;ZAF-001",
       "gaps": "No source found says refugees or asylum seekers are registered and documented with a number stated, or may use SIM cards, accounts or the digital ID.",
-      "note": "Home Affairs plans a biometric online registration and appointment system for asylum applicants by 10 November 2026 (ZAF-002, ZAF-001, ZAF-004). It is not yet in service and no documented number is held, so the cell stops at 2.",
-      "as_at": "2026-10-29"
+      "note": "Home Affairs launched the first phase of its Digital Asylum System in November 2026, a portal recording intention to apply that is live for test cases and confers no status. No documented number is held, so the cell stays at 2.",
+      "as_at": "2026-11-11"
     }
   ]
 }

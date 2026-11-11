@@ -255,11 +255,11 @@ Registration or a digital service for refugees or displaced people was under way
 
 ### South Africa: 2 Nascent
 
-Home Affairs planned a biometric online registration system for asylum seekers in 2026; whether any are documented is not known.
+Home Affairs began testing an online asylum intention portal in 2026; how many refugees hold documents is not known.
 
+- Home Affairs says its portal to record asylum seekers' intention to apply, with facial biometrics and documents, is live for test cases; it confers no status and is not a formal application ([source, 2026-11-10](https://www.gov.za/news/media-statements/home-affairs-launches-first-phase-digital-asylum-system-cut-delays-clear)).
 - Minister Leon Schreiber said Home Affairs is developing a biometric online platform for asylum applications, expected to be operational by 10 November 2026, requiring applicants to submit biometrics to verify identity and detect earlier rejected claims ([source, 2026-10-11](https://www.sanews.gov.za/south-africa/home-affairs-digitise-asylum-applications-speed-processing)).
 - The Inter-Ministerial Committee on Migration said Home Affairs is expected to introduce a phased online intention-registration and appointment system for asylum applicants by 10 November 2026, issuing a receipt recording personal particulars, biometrics, a reference number and an appointment ([source, 2026-10-11](https://www.sanews.gov.za/south-africa/government-seek-court-guidance-asylum-ruling-introduce-registration-system)).
-- The Department of Home Affairs plans an online intention-registration and appointment system for asylum applicants by 10 November 2026, with biometric and identity information collected to verify applicants and prevent duplicate registrations ([source, 2026-10-28](https://www.biometricupdate.com/202610/south-africa-plans-biometric-asylum-registration-tighter-digital-border-controls)).
 
 ### Zambia: 2 Nascent
 
