@@ -1,9 +1,11 @@
 iso3,source_slug,read,merged_on
+AGO,2024-02-10-ago-governo-pada-consulta-publica-ima,,2026-11-11
 AGO,2025-03-17-ago-projecto-de-revisao-da-lei-n-o-22-11-de-17-de-junho-lei-de-proteccao-d,,2026-11-03
 AGO,2025-04-15-ago-sessao-tematica-aborda-programa-de-desenvolvimento-e-expansao-das-tele,,2026-10-24
 AGO,2025-12-05-bna-estrategia-nacional-de-inclusao-financeira-2025-2027-consulta-publica,,2026-10-19
 AGO,2025-12-08-ago-apd-apela-a-supervisao-humana-e-boas-praticas-no-uso-da-ia-pelas-empre,,2026-10-22
 AGO,2026-04-14-ago-portal-de-consulta-publica-do-inacom,,2026-11-03
+AGO,2026-05-06-ago-ima-consulta-publica-anteprojecto-lei-governo-digital,,2026-11-11
 AGO,2026-06-01-ago-regulacao-da-ia-em-angola-quem-regula-e-o-que-ja-vincula-hoje,,2026-10-22
 AGO,2026-07-15-ago-governo-reforca-estrategias-para-o-uso-das-tecnologias,,2026-10-22
 AGO,2026-08-27-consulta-publica-do-minttics-proposta-de-lei-sobre-a-inteligencia-artificial,,2026-10-19
@@ -22,15 +24,19 @@ BWA,2025-06-01-bwa-bocra-cybersecurity-bill-consultation,,2026-10-19
 BWA,2025-12-17-bpc-2026-27-tariff-application-public-notice,,2026-10-19
 CAF,2026-10-17-caf-icasees-lancement-deuxieme-vague-ehcvm2,,2026-10-26
 CIV,2023-11-02-civ-finances-fiscalite-interieure-reformes,,2026-10-19
+CIV,2024-12-04-civ-reponse-consultation-publique-tarification-des-services-d-acces-a-inte,,2026-11-11
 CIV,2025-05-23-civ-commerce-10-ans-apres-sa-mise-en-service-le-guichet-unique-du-commerce,,2026-10-29
 CIV,2026-05-14-cote-divoire-semaine-ogp-2026-consultations-publiques,,2026-10-19
 CIV,2026-09-01-civ-artci-neutralite-du-net-contribution-moov,,2026-10-19
+CMR,2024-09-24-cmr-enregistrement-des-naissances-seules-135-communes-sur-les-374-dans-le,,2026-11-11
 CMR,2026-09-15-cmr-gouvernance-des-donnees-en-afrique-centrale-le-cameroun-sans-apdp-oper,,2026-10-30
 COD,2025-03-03-cod-arptc-questionnaire-consultation-publique-5g,,2026-10-19
 COD,2025-03-18-arptc-consultation-publique-5g-actualite,,2026-10-19
 COD,2025-09-12-cod-grace-emie-kutino-launches-national-youth-consultations,,2026-11-03
 COD,2026-07-07-cod-rdc-l-operationnalisation-des-autorites-competentes-recommandee-pour-l,,2026-11-03
+COD,2026-10-06-cod-electricite-presentation-d-une-plateforme-numerique-de-gestion-des-pla,,2026-11-11
 COD,2026-10-14-afd-campus-connexions-citoyennes-2026,,2026-10-19
+COD,2026-10-31-cod-rdc-lancement-dun-numero-d-acces-aux-services-clients-des-operateurs-d,,2026-11-11
 COM,2026-10-22-com-alwatwan-conseil-ministres-strategie-gouvernance-donnees-data-center,,2026-10-26
 CPV,2024-01-01-cabo-verde-commitment-cv0004,,2026-10-19
 CPV,2024-05-29-cpv-governo-cabo-verdiano-lamenta-participacao-muito-reduzida-nas-consulta,,2026-11-03
@@ -53,10 +59,13 @@ ETH,2026-06-30-eth-unesco-ai-ram-country-profile,,2026-10-19
 GAB,2023-10-16-gab-infosgabon-mbova-plateforme-dialogue-national,,2026-10-19
 GAB,2024-04-24-gab-un-nouveau-chapitre-pour-le-gabon-linclusivite-au-cur-de-la-preparatio,,2026-11-03
 GAB,2025-07-17-gab-wearetech-missamou-chatbot-gouvernemental,,2026-10-19
+GHA,2024-01-01-gha-data-sharing-and-intermediation-of-public-service-delivery-platforms-g,,2026-11-11
 GHA,2024-03-26-gha-transforming-governance-in-ghana-a-new-regulatory-service-model-for-af,,2026-11-03
+GHA,2025-06-04-gha-chraj-appeals-for-government-support-to-complete-case-management-syste,,2026-11-11
 GHA,2025-09-16-gha-ghana-brings-in-trust-stamp-to-build-tokenized-digital-id-infrastructu,,2026-10-23
 GHA,2025-10-23-data-harmonisation-bill-2025-consultation-graphic,,2026-10-19
 GHA,2025-10-23-gha-nita-data-harmonisation-bill-consultation,,2026-10-19
+GHA,2025-10-27-gha-the-hidden-tax-on-ghana-s-digital-future-a-path-to-faster-cheaper-inte,,2026-11-11
 GIN,2025-06-03-gin-digitalbusiness-telemo-consultation-appels-offres,,2026-10-24
 GIN,2025-08-09-gin-guinee-le-secretariat-general-du-gouvernement-lance-maconstitution-inf,,2026-11-03
 GIN,2025-08-21-gin-wearetech-maconstitution-plateforme,,2026-10-19
@@ -72,6 +81,7 @@ GNB,2025-01-01-gnb-guinea-bissau-digital-watch-observatory,,2026-10-29
 GNB,2025-11-02-gnb-relatorio-final-sobre-o-projeto-wardip-revisao-do-quadro-legal-para-o,,2026-11-03
 GNB,2026-05-08-aviso-01-ca-arn-2026-consulta-publica-projeto-lei-transacoes-eletronicas,,2026-10-19
 GNB,2026-10-20-gnb-26-tecnicos-capacitados-para-reforcar-o-acompanhamento-dos-projetos-de-desenvolv,,2026-10-22
+KEN,2024-01-09-iati-gb-gov-1-300956-407-ogp-support-open-and-accountable-use-of-emerging-digital-tec,,2026-11-11
 KEN,2024-11-21-ken-moh-releases-venues-for-public-forums-on-digital-health-laws,,2026-11-03
 KEN,2025-08-19-ken-major-usf-transparency-update-kenya-s-communications-authority-respond,,2026-11-03
 KEN,2026-02-11 Digital Public Infrastructure Through an Open Government Lens,,2026-10-19
@@ -89,6 +99,7 @@ LBR,2026-10-26-lbr-pul-accuses-boakai-gol-says-csa-pact-upends-foi-demands-nda-r
 LBY,2022-09-27-lby-alwasat-information-system-draft-law-consultation,,2026-10-19
 LSO,2024-10-01-lso-lca-licensing-fees-amendment-consultation,,2026-10-19
 LSO,2025-02-20-lso-public-consultation-notice-starlink-licence-application,,2026-11-03
+MAR,2024-01-01-mar-ogp-mo0028-digitalization-administrative-acts-procedures,,2026-11-11
 MAR,2024-01-17-mar-medias24-consultation-en-ligne-documents-fonciers,,2026-10-19
 MAR,2025-02-20-mar-droit-de-petition-en-ligne-e-participation-un-dispositif-numerique-ine,,2026-11-03
 MAR,2026-09-16-mar-aujourdhui-avant-projet-loi-marche-carbone-registre,,2026-10-19
@@ -125,6 +136,7 @@ MWI,2026-10-14-mwi-ogp-action-plan-review-2026-2029,,2026-10-19
 NAM,2024-12-20-nam-gazette-8541-cran-e-signature-regulations-notice,,2026-10-19
 NAM,2026-04-24-nam-gazette-8894-cran-licence-fees-levies-notice,,2026-10-19
 NAM,2026-08-11-nam-namibia-seeks-public-input-to-unlock-n-4-1bn-green-fund,,2026-11-03
+NAM,2026-11-04-nam-cabinet-briefs,,2026-11-11
 NER,2025-02-14-ner-assises-nationales-refondation-online-contributions,,2026-10-19
 NER,2025-07-17-ner-nigerdiaspora-portail-public-services-en-ligne,,2026-10-19
 NER,2026-07-21-ner-developingtelecoms-arcep-5g-spectrum-consultation,,2026-10-19
@@ -134,6 +146,7 @@ NGA,2026-08-04-nga-state-police-bill-fg-unveils-timelines-opens-link-for-public-
 NGA,2026-08-31-nga-finance-bill-2027-fg-seeks-inputs-from-public,,2026-11-03
 NGA,2026-10-01-nga-gdb-accountability-gap-nigeria-colombia-brazil,,2026-10-29
 NGA,2026-10-19-xgl-govinsider-jargon-problem-public-participation-dpi,,2026-10-22
+NGA,2026-11-01-nga-ogp-nigeria-action-plan-review-2026-2029-for-public-comment,,2026-11-11
 RWA,2025-03-11-rwa-rwanda-invites-public-comments-on-draft-law-regulating-the-virtual-ass,,2026-11-03
 RWA,2025-11-05-rwa-yesterday-our-team-at-the-rwanda-ministry-of-infrastructure-mininfra-a,,2026-10-22
 RWA,2026-02-12-rwa-cma-intermediary-platform-regulation-comments,,2026-10-19
@@ -144,12 +157,15 @@ SEN,2026-08-10-artp-synthese-consultation-publique-fibre-optique-fttx,,2026-10-1
 SEN,2026-10-14-afd-campus-connexions-citoyennes-2026,,2026-10-19
 SLE,2025-02-01-sle-ogp-irm-action-plan-review-2024-2028,,2026-10-19
 SLE,2025-09-24-sle-ministries-of-information-and-civic-education-and-communication-techno,,2026-11-03
+SLE,2026-11-04-sle-sierra-leone-s-data-protection-bill-reaches-parliament-after-chrdi-led-advocacy,,2026-11-11
+SLE,2026-11-06-sle-information-minister-tables-two-major-bills-in-parliament,,2026-11-11
 SOM,2017-07-10-som-moct-national-communications-law,,2026-10-19
 SOM,2023-06-28-som-nca-draft-strategic-plan-public-comments,,2026-10-19
 SOM,2024-03-18-som-speaker-madobe-launches-digital-platform-for-public-consultations-on-c,,2026-11-03
 SOM,2025-04-15-som-nca-submarine-cable-regulation-consultation,,2026-10-19
 SSD,2016-01-01-ssd-nca-tariffs-regulation-public-comment,,2026-10-19
 SSD,2026-01-01-ssd-south-sudan-digital-watch-observatory,,2026-10-22
+SSD,2026-02-23-ssd-major-milestone-for-africa-s-digital-connectivity,,2026-11-11
 SSD,2026-08-19-south-sudan-ncrc-permanent-constitution-consultations,,2026-10-19
 STP,2025-07-01-stp-consulta-publica-sobre-o-regulamento-do-plano-nacional-de-numeracao-pn,,2026-11-03
 STP,2025-09-01-ager-sao-tome-consulta-publica-estrategia-nacional-ciberseguranca,,2026-10-19
@@ -178,9 +194,11 @@ ZAF,2025-05-21-zaf-dha-identity-regulatory-framework-id4africa-2025,,2026-11-03
 ZAF,2025-07-25-zaf-joint-communication-2-of-2025-cloud-computing-and-data-offshoring,,2026-11-03
 ZAF,2025-12-12-zaf-minister-leon-schreiber-invites-public-comment-on-the-draft-revised-wh,,2026-10-23
 ZAF,2026-03-17-zaf-petitions-to-parliament-a-tool-for-public-participation,,2026-11-03
+ZAF,2026-03-24-zaf-home-affairs-allays-fears-over-digital-id-security,,2026-11-11
 ZAF,2026-04-26-zaf-sanews-minister-announces-withdrawal-of-draft-ai-policy,,2026-10-22
 ZAF,2026-05-09-zaf-have-your-say-on-digital-identity-draft-regulations,,2026-10-23
 ZAF,2026-05-26-zaf-south-africa-targets-january-2027-for-revised-ai-policy-after-earlier,,2026-10-22
+ZAF,2026-05-27-zaf-question-no481-to-the-minister-of-home-affairs,,2026-11-11
 ZAF,2026-06-23-zaf-regulatory-approach-to-cross-border-payment-facilitators,,2026-10-29
 ZAF,2026-07-30-zaf-question-to-the-minister-of-communications-and-digital-technologies-nw,,2026-10-22
 ZAF,2026-08-06-zaf-ai-in-the-workplace-the-current-regulatory-landscape,,2026-10-22
