@@ -1,17 +1,18 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "private",
-   "stage": "unplaced",
-   "money": "",
-   "home": "",
-   "state": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "No source dated from 2024 names an amount of private money put into a digital business in the country.",
-   "note": "Counted from the four questions by study-ladder-nonstatefinance.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "private",
+      "stage": "2",
+      "money": "committed",
+      "home": "",
+      "state": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-003",
+      "gaps": "Only one year from 2024 on has a named amount; no second year is on record.",
+      "note": "Econet InfraCo, a privately run Zimbabwean digital infrastructure company, reported US$10.9 million of capital spending contracted at 31 August 2026, which sets stage 2. Stage 3 needs amounts in a second year from 2024.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

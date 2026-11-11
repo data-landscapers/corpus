@@ -23,9 +23,9 @@ Agenda 2063, Goal 20, asks that Africa pay for its own development and that its 
 | 5 Leading | 0 |
 | 4 Operating | 4 |
 | 3 Established | 12 |
-| 2 Nascent | 23 |
+| 2 Nascent | 24 |
 | 1 Absent | 0 |
-| Unplaced | 2 |
+| Unplaced | 1 |
 | No evidence | 13 |
 
 ## Countries
@@ -287,15 +287,15 @@ Acumen put US$5M into Sun King Zambia and Lupiya pledged K500 million, both in 2
 
 - Acumen's Hardest-to-Reach Catalyze initiative closed a US$5M equity investment in Sun King's Zambia subsidiary, a pay-as-you-go solar company whose customers repay by mobile money; the document gives no signing date, so its publication date of 2026-09-25 is used ([source, 2026-09-25](https://www.techtrends.co.zm/acumen-invests-5-million-in-sun-king-to-scale-pay-as-you-go-solar-energy-access-in-zambia/)).
 
+### Zimbabwe: 2 Nascent
+
+A Zimbabwean digital company put a named amount into its own network in 2026; no second year of investment is on record.
+
+- Econet Infrastructure Company (InfraCo), the privately run, VFEX-listed Econet tower, power and property arm in Zimbabwe, reported US$10.944 million of capital expenditure authorised and contracted for at 31 August 2026, to be financed from its own cash flow and further funding to be arranged ([source, 2026](https://econetinfracoinvestor.com/wp-content/uploads/2026/10/Econet-InfraCo-Unaudited-Abridged-Interim-Financial-Statements-For-The-Half-Year-Ended-31-August-2026.pdf)).
+
 ### Sao Tome and Principe: Unplaced
 
 Private partners put US$11.9 million into the 2011 submarine cable company; nothing dated 2024 or later is known, so no stage is set.
-
-Not established: No source dated from 2024 names an amount of private money put into a digital business in the country.
-
-### Zimbabwe: Unplaced
-
-No amount of private money put into a digital business in Zimbabwe has been found from 2024 onward, so no stage is set.
 
 Not established: No source dated from 2024 names an amount of private money put into a digital business in the country.
 
