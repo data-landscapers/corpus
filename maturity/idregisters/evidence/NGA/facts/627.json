@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-13-nga-thisdaylive-katsina-dpi-ngf-readiness-ikatsina",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Identity Number (NIN) database",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "Federal government",
+   "tiers": ""
+  }
+ ],
+ "note": "The NIN database is named only as the base for Katsina's iKatsina layer."
+}
