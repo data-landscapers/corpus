@@ -1,0 +1,17 @@
+{
+ "slug": "2026-01-01-nga-nitda-capacity-building",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "NITDA says it organised and hosted e-Government capacity building for CEOs and Heads of MDAs in two phases, with 76% of participants having had no prior e-government training.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "e-Government capacity building for CEOs and Heads of MDAs",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

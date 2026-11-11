@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-01-ken-kippra-leveraging-digitalization-public-service-delivery",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "KIPPRA says the Ministry of ICT trained cohorts that graduated 15,000 public officials in 2022/2023.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "Ministry of ICT training cohorts",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

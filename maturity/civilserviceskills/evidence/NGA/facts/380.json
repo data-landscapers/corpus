@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-20-nga-data-driven-system-nitda-abia-partner-on-enterprise-architecture-refor",
+ "facts": [
+  {
+   "sub_indicator": "csskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "NITDA's Director General, through a representative, said civil servants across the federal public service are undergoing digital capacity development programmes, with no number trained given.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "federal civil service digital capacity programmes",
+   "class": "csskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
