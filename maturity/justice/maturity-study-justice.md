@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-justice.md — courts run on a case management system, in four questions
-last_reviewed: 2026-10-16
+last_reviewed: 2026-11-11
 status: first pass run 2026-10-16; staged, written and on the soft-launch map; waits for Bill's acceptance
 ---
 
@@ -46,6 +46,8 @@ Asked in order. Each is answered with a date and a link.
 | 5 Open online | Yes to 4 |
 
 **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114; method §3.3)*. `study.json` holds this as three aspects: `cases` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `filing` (`online`) for 3 and `public` (`open`) for 4.
+
+**For a service still running, the window counts from the source's date** *(Bill, 2026-11-11, message 123)*: Mauritius's 2021 e-filing rule on a 2025 judiciary page answers question 3, MUS 3→4; Morocco's Mahakim file tracking, dated 2026, answers question 4, MAR 4→5. Sierra Leone's Justice App in a 2024 UNDP report does not, and it stays unplaced.
 
 ## 4. The norm
 

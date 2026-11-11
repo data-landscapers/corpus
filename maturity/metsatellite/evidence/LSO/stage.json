@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "metsat",
-      "stage": "3",
-      "stream": "inservice",
+      "stage": "unplaced",
+      "stream": "",
       "warnings": "",
       "certified": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "LSO-001",
-      "gaps": "No source found since October 2023 says the weather service issues warnings drawing on satellite data.",
-      "note": "A nowcasting system integrating satellite data was deployed for the service's staff in 2023. Nothing says warnings draw on it.",
+      "stage_sources": "",
+      "gaps": "Nothing found since October 2023 says whether the national weather service receives or uses satellite data. The nowcasting system (LSO-001) was a 2023 consultancy deployment, and no later source says it still works.",
+      "note": "Restaged 2026-11-11 on Bill's ruling (message 125): a consultancy project in 2023 with no later reference does not show a system still working, so unplaced.",
       "as_at": "2026-11-11"
     }
   ]

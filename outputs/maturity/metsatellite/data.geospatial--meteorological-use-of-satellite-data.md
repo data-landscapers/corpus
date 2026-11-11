@@ -22,10 +22,10 @@ The Integrated African Strategy on Meteorology asks for sustained access to geos
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 6 |
-| 3 Established | 12 |
+| 3 Established | 11 |
 | 2 Nascent | 15 |
 | 1 Absent | 0 |
-| Unplaced | 13 |
+| Unplaced | 14 |
 | No evidence | 8 |
 
 ## Countries
@@ -84,12 +84,6 @@ The national weather service used satellite data in its nowcasting in 2026; warn
 
 - Guinea's national meteorological agency publishes on its site Meteosat Second Generation products, including dust RGB, a thunderstorm nowcasting product and precipitation maps, from Meteosat SEVIRI image data ([source, 2026](https://anmeteo.gov.gn/imagerie-satellitaire/)).
 
-### Lesotho: 3 Established
-
-The national weather service used satellite data in its forecasts in 2023; warnings drawing on it are not on record.
-
-- A 2023 project by the provider deployed a Lesotho nowcasting system integrating meteorological observations, satellite data and model outputs, with an internal portal for meteorological service staff ([source, 2023](https://wisconsultancy.com/projects/)).
-
 ### Mali: 3 Established
 
 The national weather service used satellite data in its forecasts in 2026; warnings drawing on it are not on record.
@@ -101,6 +95,12 @@ The national weather service used satellite data in its forecasts in 2026; warni
 The national weather service used satellite data in its forecasts in 2025; warnings drawing on it are not on record.
 
 - Morocco's Direction generale de la meteorologie (DGM) says its observation draws on satellite images refreshed every ten minutes to track weather systems ([source, 2025-12-21](https://fr.le360.ma/societe/de-lobservation-aux-alertes-comment-la-dgm-prepare-ses-bulletins-meteo_74T4ZDGOOZEBTD4RQVUTJNIYPE/)).
+
+### Niger: 3 Established
+
+The national weather service displayed live Meteosat imagery in 2026; warnings drawing on satellite data are not on record.
+
+- Niger's national meteorological directorate (DMN) runs a live satellite imagery page serving EUMETView/Meteosat products (Natural Colour Enhanced RGB, GEO/LEO-blended precipitation rate, Dust RGB for dust-storm monitoring) ([source, 2026-03](https://www.niger-meteo.ne/image-satelitaire/)).
 
 ### Rwanda: 3 Established
 
@@ -126,12 +126,6 @@ The national weather service used satellite data in its forecasts in 2025; warni
 The national weather service used satellite data in its forecasts in 2024; warnings drawing on it are not on record.
 
 - The South African Weather Service's observation footprint lists EUMETSAT's Meteosat Second Generation satellite, with 12 channels, 15-minute resolution and coverage of the whole African continent ([source, 2024-11-06](https://knowledgehub.health.gov.za/system/files/2024-11/SAWS_Early%20Warning%20Systems_Nov%202024-FV%20%28wecompress.com%29.pdf)).
-
-### South Sudan: 3 Established
-
-The national weather service used satellite data in its forecasts in 2025; warnings drawing on it are not on record.
-
-- WMO reports South Sudan Meteorological Services forecasters were trained in Juba to analyze satellite data and began a pilot of daily forecasts verified each day against EUMETSAT satellite information ([source, 2025-06](https://wmo.int/media/project-update/crews-east-africa-supports-south-sudan-through-regional-twinning-partnership)).
 
 ### Tanzania: 3 Established
 
@@ -201,17 +195,17 @@ The national weather service was receiving or installing a satellite data stream
 
 - The African Union Commission says its ad hoc committee inspected ClimSA and PUMA infrastructure deployed and installed in Nouakchott, Mauritania, the reception and processing chain for Meteosat Second and Third Generation data from EUMETSAT ([source, 2025-09-23](https://au.int/sites/default/files/pressreleases/45397-pr-Press_Release_Deployment_Final.pdf)).
 
-### Niger: 2 Nascent
-
-The national weather service was receiving or installing a satellite data stream in 2026; its use in forecasts is not on record.
-
-- Niger's national meteorological directorate (DMN) runs a live satellite imagery page serving EUMETView/Meteosat products (Natural Colour Enhanced RGB, GEO/LEO-blended precipitation rate, Dust RGB for dust-storm monitoring) ([source, 2026-03](https://www.niger-meteo.ne/image-satelitaire/)).
-
 ### Nigeria: 2 Nascent
 
 The national weather service was receiving or installing a satellite data stream in 2025; its use in forecasts is not on record.
 
 - NiMet says it completed installation of the PUMA 2025 / ClimSA Meteosat Third Generation satellite receiving station at its headquarters on 9 May 2025, replacing the earlier MSG 2015 station ([source, 2025-05-09](https://nimet.gov.ng/news?id=123)).
+
+### South Sudan: 2 Nascent
+
+Forecasters began a pilot using satellite data in 2025; established use in forecasts is not on record.
+
+- WMO reports South Sudan Meteorological Services forecasters were trained in Juba to analyze satellite data and began a pilot of daily forecasts verified each day against EUMETSAT satellite information ([source, 2025-06](https://wmo.int/media/project-update/crews-east-africa-supports-south-sudan-through-regional-twinning-partnership)).
 
 ### Uganda: 2 Nascent
 
@@ -290,6 +284,12 @@ Not established: Nothing found since October 2023 says whether the national weat
 Nothing found since 2023 names satellite data in the national weather service itself, so no stage is set.
 
 Not established: No source found since November 2023 says the national weather service receives satellite data.
+
+### Lesotho: Unplaced
+
+A satellite nowcasting system was deployed by a consultancy in 2023; nothing since says it still works.
+
+Not established: Nothing found since October 2023 says whether the national weather service receives or uses satellite data. The nowcasting system (LSO-001) was a 2023 consultancy deployment, and no later source says it still works.
 
 ### Madagascar: Unplaced
 

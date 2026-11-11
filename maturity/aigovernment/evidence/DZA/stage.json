@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "govai",
-      "stage": "3",
+      "stage": "4",
       "use": "inservice",
-      "bodies": "",
+      "bodies": "several",
       "rules": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-001",
-      "gaps": "No source found since October 2023 says AI is in service in two or more government bodies.",
-      "note": "First pass: counted from the four questions by study-ladder-aigovernment.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "DZA-001;DZA-002",
+      "gaps": "No source found since October 2023 shows rules or a register for the government's own use of AI.",
+      "note": "Restaged 2026-11-11 on Bill's ruling (message 121): a parliament counts as a government body. The higher-education ministry's LLM adviser (DZA-001) and the National People's Assembly's AI transcription and translation (DZA-002) are in service in two bodies, so stage 4.",
+      "as_at": "2026-11-11"
     }
   ]
 }

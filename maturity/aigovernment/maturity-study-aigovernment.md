@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-aigovernment.md — AI in use in public administration, in four questions
-last_reviewed: 2026-10-16
+last_reviewed: 2026-11-11
 status: first pass run 2026-10-16; staged, written and on the soft-launch map; waits for Bill's acceptance
 ---
 
@@ -50,6 +50,8 @@ Asked in order. Each is answered with a date and a link.
 **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114; method §3.3)*. `study.json` holds this as three aspects: `use` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `bodies` (`several`) for 3 and `rules` (`rules`) for 4.
 
 - **Several bodies means several in service, across more than one sector** *(Bill, 2026-11-09, message 83)*: two bodies in one sector, one still piloting, do not answer question 3. Sierra Leone stays at 3.
+
+- **A parliament is a government body** *(Bill, 2026-11-11, message 121)*: Angola's National Assembly beside the telecoms regulator, and Algeria's National People's Assembly beside the higher-education ministry, answer question 3. AGO and DZA 3→4.
 
 ## 4. The norm
 

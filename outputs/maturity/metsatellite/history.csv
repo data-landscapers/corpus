@@ -85,3 +85,6 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-11,ZWE,data.geospatial--meteorological-use-of-satellite-data,review,3,2,ZWE-001,ZWE 3->2: station operational and receiving; use in forecasts not stated
 2026-11-11,CAF,data.geospatial--meteorological-use-of-satellite-data,review,2,unplaced,,"CAF 2->unplaced: the station is ASECNA's airport centre's, not the national service's (second drafter)"
 2026-11-11,KEN,data.geospatial--meteorological-use-of-satellite-data,review,2,unplaced,,KEN 2->unplaced: regional RARS upgrade names no national service (second drafter)
+2026-11-11,NER,data.geospatial--meteorological-use-of-satellite-data,ladder,2,3,NER-001,"Bill's ruling, message 125"
+2026-11-11,SSD,data.geospatial--meteorological-use-of-satellite-data,ladder,3,2,SSD-001,"Bill's ruling, message 125"
+2026-11-11,LSO,data.geospatial--meteorological-use-of-satellite-data,ladder,3,unplaced,,"Bill's ruling, message 125"

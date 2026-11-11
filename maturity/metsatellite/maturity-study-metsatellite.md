@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-metsatellite.md — satellite data in the national weather service, in four questions
-last_reviewed: 2026-10-16
+last_reviewed: 2026-11-11
 status: first pass run 2026-10-16; staged, written and on the soft-launch map; waits for Bill's acceptance
 ---
 
@@ -46,6 +46,8 @@ Asked in order. Each is answered with a date and a link.
 | 5 Certified | Yes to 4 |
 
 **Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114; method §3.3)*. `study.json` holds this as three aspects: `stream` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `warnings` (`issued`) for 3 and `certified` (`certified`) for 4.
+
+**Displaying satellite products is using them; a pilot is not established use; a 2023 project with nothing since is not in service** *(Bill, 2026-11-11, message 125)*. Niger's live Meteosat imagery page answers question 2, NER 2→3; South Sudan's forecasting pilot is under way, SSD 3→2; Lesotho's 2023 consultancy nowcasting system has no later source, LSO 3→unplaced. Djibouti and Somalia stay at 3.
 
 ## 4. The norm
 

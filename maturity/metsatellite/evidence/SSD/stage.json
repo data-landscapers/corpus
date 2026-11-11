@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "metsat",
-      "stage": "3",
-      "stream": "inservice",
+      "stage": "2",
+      "stream": "underway",
       "warnings": "",
       "certified": "",
       "cap": "",
       "flags": "",
       "stage_sources": "SSD-001",
-      "gaps": "No source found since October 2023 says the weather service issues warnings drawing on satellite data.",
-      "note": "Forecasters trained in 2025 began a pilot of daily forecasts verified against EUMETSAT data. Nothing says warnings draw on it.",
+      "gaps": "No source found since October 2023 says the weather service uses satellite data in its forecasts as established practice.",
+      "note": "Restaged 2026-11-11 on Bill's ruling (message 125): a pilot and training do not make established use. Forecasters trained in 2025 began a pilot of daily forecasts verified against EUMETSAT data (SSD-001), so stage 2.",
       "as_at": "2026-11-11"
     }
   ]

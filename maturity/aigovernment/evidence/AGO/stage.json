@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "govai",
-      "stage": "3",
+      "stage": "4",
       "use": "inservice",
-      "bodies": "",
+      "bodies": "several",
       "rules": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "AGO-004",
-      "gaps": "No source found shows AI in service in a second government body of the administration, or rules or a register for the government's own use of AI.",
-      "note": "Fact 2025-11-19: the National Assembly transcribes plenaries with AI, but a legislature is not a body of the administration, as DZA's assembly is not counted. INACOM's chatbot remains the one administration body in service, so not stage 4.",
+      "stage_sources": "AGO-004;AGO-006",
+      "gaps": "No source found shows rules or a register for the government's own use of AI.",
+      "note": "Restaged 2026-11-11 on Bill's ruling (message 121): a parliament counts as a government body. INACOM's portal chatbot (AGO-004) and the National Assembly's AI transcription of plenaries (AGO-006) are in service in two bodies, so stage 4.",
       "as_at": "2026-11-11"
     }
   ]

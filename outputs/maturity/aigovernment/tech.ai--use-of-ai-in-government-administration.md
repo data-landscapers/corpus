@@ -1,6 +1,6 @@
 # Use of AI in government administration: AI in administration
 
-*As at 2026-10-21.*
+*As at 2026-11-11.*
 
 ## The norm
 
@@ -21,14 +21,28 @@ The Continental AI Strategy asks for AI adopted in the public sector under a gov
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 11 |
-| 3 Established | 23 |
+| 4 Operating | 13 |
+| 3 Established | 21 |
 | 2 Nascent | 5 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 13 |
 
 ## Countries
+
+### Algeria: 4 Operating
+
+The higher-education ministry and the National People's Assembly used AI systems in 2024 and 2025; rules for government AI use are not on record.
+
+- Algeria's Ministry of Higher Education and Scientific Research launched on 29 April 2025 the Private Digital Adviser, an LLM-based conversational system answering queries on all the ministry's regulatory documents ([source, 2025-04-29](https://www.univ-khenchela.dz/en/launching-new-digital-platforms-ministry-of-higher-education-and-scientific-research/)).
+- The National People's Assembly's secretary general says the Assembly has adopted AI-based cybersecurity solutions and AI tools for automatic transcription and translation of debates, which gave a considerable efficiency gain ([source, 2024-10](https://asgp.co/wp-content/uploads/2024/10/Wed-16-Oct-PM-Algerie-FR.pdf)).
+
+### Angola: 4 Operating
+
+The telecoms regulator and the National Assembly ran AI systems in 2025; rules for government AI use are not on record.
+
+- INACOM says its relaunched portal now has a 24-hour chatbot with artificial intelligence that answers questions and tracks the status of processes ([source, 2025-06-12](https://inacom.gov.ao/2025/06/12/novo-portal-do-inacom-destaca-inovacao-ao-servico-do-cidadao/)).
+- Expansão reports that VoiceInteraction's AI speech-recognition software Audimus is installed at Angola's Assembleia Nacional and automatically transcribes plenary sessions into text to speed production of minutes ([source, 2025-11-19](https://expansao.co.ao/angola/detalhe/banca-assembleia-nacional-sector-electrico-e-comercio-ja-dominam-uso-de-ia-68283.html)).
 
 ### Benin: 4 Operating
 
@@ -105,18 +119,6 @@ The aviation authority and NITA-U used AI in services in 2026; no source found r
 
 - The Daily Monitor reported on 9 October 2026 that the Uganda Civil Aviation Authority runs Entebbe airport car parks on entervo V3 with AI and machine-learning number-plate recognition, installed by Samanga Utilities Limited, per UCAA's Vianney Luggya ([source, 2026-10-09](https://www.monitor.co.ug/uganda/news/national/smarter-parking-at-entebbe-ucaa-rolls-out-ai-camera-system-digital-payments-5625876)).
 - NITA-U's Julian Rweju said government is using AI on its core platforms to generate predictive reports from National ID logins on the portal and e-services, to customise services ([source, 2026-10-01](https://www.newvision.co.ug/category/news/govt-to-launch-national-ai-strategy-this-year-NV_241670_102026)).
-
-### Algeria: 3 Established
-
-A government body used an AI system in service in 2025; AI in several bodies is not on record.
-
-- Algeria's Ministry of Higher Education and Scientific Research launched on 29 April 2025 the Private Digital Adviser, an LLM-based conversational system answering queries on all the ministry's regulatory documents ([source, 2025-04-29](https://www.univ-khenchela.dz/en/launching-new-digital-platforms-ministry-of-higher-education-and-scientific-research/)).
-
-### Angola: 3 Established
-
-Angola's telecoms regulator has run an AI chatbot on its portal since 2025; no source found says whether other bodies use AI.
-
-- INACOM says its relaunched portal now has a 24-hour chatbot with artificial intelligence that answers questions and tracks the status of processes ([source, 2025-06-12](https://inacom.gov.ao/2025/06/12/novo-portal-do-inacom-destaca-inovacao-ao-servico-do-cidadao/)).
 
 ### Cape Verde: 3 Established
 

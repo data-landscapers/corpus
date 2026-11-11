@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-fibrebackbone.md — the forty-first maturity study: long-distance fibre across the country, in four questions
-last_reviewed: 2026-10-23
+last_reviewed: 2026-11-11
 status: run 2026-10-14 on Bill's word; staged as at 2026-09-30, written, rendered and on the soft-launch map; waits for Bill to accept
 ---
 
@@ -52,6 +52,8 @@ Asked in order. Each is answered with a date and a link.
 - **Stage 5 no longer asks for a master plan implemented, redundancy, and rules on sharing and rights of way.** Each is a judgement, or a law's text, and none is a fact a story states.
 
 `study.json` holds this as two aspects: `reach` (`every-region`, `in-service`, `building`, `none`) for questions 1 to 3, and `access` (`open`, `none`) for question 4.
+
+**The open-access network must itself be national** *(Bill, 2026-11-11, message 122)*: an open route on one corridor, beside a backbone that reaches every region on other terms, does not answer stage 5. Kenya stays at 4.
 
 ## 4. The norm
 

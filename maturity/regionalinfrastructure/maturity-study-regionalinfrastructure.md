@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-regionalinfrastructure.md — the twenty-ninth maturity study: digital links and facilities shared with other African countries, in four questions
-last_reviewed: 2026-11-09
+last_reviewed: 2026-11-11
 status: run 2026-10-13; redesigned on Bill's word 2026-11-07 and adopted 2026-11-08 (§8)
 ---
 
@@ -57,6 +57,7 @@ Asked in order. Each is answered with a date and a link.
 - **Questions 3 and 4 have no time limit**; a facility in service stands until a dated source says it is cut or closed. Questions 1 and 2 count for three years.
 - **A company counts only as a party to an arrangement with the other country's operator or body.** One company's or one group's network across borders, with its own subsidiaries or wholesale customers, is `other`.
 - **Foreign networks joining an exchange as members is commercial use, not collaboration** *(settles message 78)*: a yes needs an agreement between the exchange or its national body and a body of the other country, or a regional programme naming both. Neither South Africa (NAPAfrica) nor the Democratic Republic of the Congo (KINIX) takes a yes on peering alone.
+- **A link between research-network exchanges is a link, not traffic exchange** *(Bill, 2026-11-11, message 116)*: Nigeria and South Africa stay at 4; Bill would have both offer storage agreements to smaller countries.
 - **The arrangement is taken from what a source says** *(Bill, message 109)*: a source names a party in each country, or the consortium or regional programme that holds the facility. A state operator's link to a neighbour with no party there named is not yet a yes *(adopted at the rebuild, 2026-11-08)*.
 - **A statement that the country shares no digital infrastructure counts for three years**, and gives way to a dated source naming some.
 - **A link counts for each country a source names at its ends.** A country only named as on the route does not take the stage.
@@ -72,7 +73,6 @@ Asked in order. Each is answered with a date and a link.
 - **Withdrawn at the redesign**: a company's link counting as a government's, and a company's cable carrying a landlocked country's traffic to its parent network.
 
 `study.json` holds this as two aspects: `built` (`building`, `agreed`, `none`) for questions 1 and 2, and `service` (`link`, `exchange`, `storage`, `none`) for 3 and 4.
-
 
 ## 4. The norm
 
@@ -94,8 +94,6 @@ The African Union's Programme for Infrastructure Development in Africa and its D
 - [x] **D2. Read**: 116 calls in two fan-outs, 185 facts.
 - [x] **D3. Staged** as at 2026-09-30; corrections in `corrections.csv`; agreement 19 of 20 after the second reading.
 - [x] **D4. Written, rendered and linted**; on the soft-launch map. **D5. Reported to Bill**, 2026-10-13.
-
-**Decided in the run**, superseded by the restaging of §8: no country reached stage 5, seven rows were added for the other end of a link a source names, and the run came to about 41 million tokens against 40 million.
 
 ## 8. The redesign
 

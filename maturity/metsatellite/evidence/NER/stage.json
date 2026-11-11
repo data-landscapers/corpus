@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "metsat",
-      "stage": "2",
-      "stream": "underway",
+      "stage": "3",
+      "stream": "inservice",
       "warnings": "",
       "certified": "",
       "cap": "",
       "flags": "",
       "stage_sources": "NER-001",
-      "gaps": "No source found since October 2023 says: does it use it in forecasts.",
-      "note": "Reassessed 2026-11-06 against the CREWS rows: the bulletins and planned early-warning reports name no satellite data, so the stage holds at 2.",
-      "as_at": "2026-11-06"
+      "gaps": "No source found since October 2023 says the weather service issues warnings drawing on satellite data.",
+      "note": "Restaged 2026-11-11 on Bill's ruling (message 125): a weather service displaying satellite products is using them. The DMN's live Meteosat imagery page (NER-001) answers question 2, so stage 3.",
+      "as_at": "2026-11-11"
     }
   ]
 }

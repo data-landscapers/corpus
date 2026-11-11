@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found since November 2023 says judgments or case status are open to the public online. The Mahakim file-tracking page is dated only to 2026 and counts from the end of that year.
+***Not found***. None.

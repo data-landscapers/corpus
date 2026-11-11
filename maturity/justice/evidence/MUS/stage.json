@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "justice",
-      "stage": "3",
+      "stage": "4",
       "cases": "inservice",
-      "filing": "",
+      "filing": "online",
       "public": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MUS-005",
-      "gaps": "No source found since November 2023 says lawyers or litigants can file with the courts online. The rule that attorneys file online at the Commercial Division dates from 2021, and the only e-filing notice since November 2023 concerns maintenance.",
-      "note": "A November 2024 government list names a case management system in service for the Children's Court (MUS-005), so stage 3. The online-filing rule (MUS-001) dates from January 2021, outside the window, and no row since November 2023 says lawyers file online, so not stage 4.",
+      "stage_sources": "MUS-005;MUS-001",
+      "gaps": "No source found since November 2023 says judgments or case status are open to the public online.",
+      "note": "Restaged 2026-11-11 on Bill's ruling (message 123): for a service still running, the window counts from the source's date. The judiciary's October 2025 notices page (MUS-001) carries the rule that attorneys file online at the Commercial Division, so stage 4; the Children's Court case system (MUS-005) is in service.",
       "as_at": "2026-11-11"
     }
   ]

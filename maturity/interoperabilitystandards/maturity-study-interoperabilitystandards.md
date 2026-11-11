@@ -2,7 +2,7 @@
 type: task
 reader: cc
 title: maturity-study-interoperabilitystandards.md — the thirty-first maturity study: the technical standards government systems are built to, in four questions
-last_reviewed: 2026-10-13
+last_reviewed: 2026-11-11
 status: run 2026-10-13 on Bill's word; staged as at 2026-09-30, written, rendered and on the soft-launch map; waits for Bill to accept
 ---
 
@@ -93,7 +93,7 @@ The African Union's Digital Transformation Strategy asks for technical standards
 - **Stage 4**: Burkina Faso and Côte d'Ivoire. **None reaches 5**: no source held names a system checked against a country's standards.
 - **Benin is stage 3**: its framework says of itself that administrations must observe it, and the decree behind it is not held.
 - **Mozambique is stage 3**, where the framework row has it at 4: the 2017 decree binds public bodies to the platform and leaves the standards to INTIC.
-- **Libya is stage 1** on a 2026 paper's abstract.
+- **Libya is stage 1** on a 2026 paper's abstract; a source saying there are no standards is enough *(Bill, 2026-11-11, message 117)*.
 - **Guinea is unplaced**: its one source is dated 2026 by year only, after the as-at.
 - **Thirty-six countries are without evidence**, Uganda, Ethiopia, Djibouti, Madagascar, Nigeria and Rwanda among them: each has a framework or an enterprise architecture on record, and no source held says it sets technical standards. Kenya's health guides, and every other one-sector standard, are noted.
 - **The second read was one call a country**, for the 31 countries still short, and found two facts. **The summaries were written by the parent.**

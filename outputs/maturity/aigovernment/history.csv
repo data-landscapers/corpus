@@ -61,3 +61,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-05,SLE,tech.ai--use-of-ai-in-government-administration,fact,3,3,SLE-002,"The EDSA WhatsApp fault-reporting chatbot launched in April 2026 is not described as AI, so no second body; the stage holds."
 2026-11-08,TUN,tech.ai--use-of-ai-in-government-administration,fact,2,3,TUN-003,Business registry launched Nawarni and a trade-name bot on 5 November 2026: first AI in service in a government body; restaged 2 to 3.
 2026-11-11,AGO,tech.ai--use-of-ai-in-government-administration,fact,3,3,AGO-004,"National Assembly's AI transcription read: a legislature is not an administration body; INACOM still the one body, stays 3"
+2026-11-11,AGO,tech.ai--use-of-ai-in-government-administration,ladder,3,4,AGO-004;AGO-006,"Bill's ruling, message 121"
+2026-11-11,DZA,tech.ai--use-of-ai-in-government-administration,ladder,3,4,DZA-001;DZA-002,"Bill's ruling, message 121"

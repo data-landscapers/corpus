@@ -75,3 +75,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-11,ZAF,dpi.mis--justice,review,4,4,ZAF-005;ZAF-003,"Rebuild: Court Online is in service in 19 High Court seats (ZAF-001), and practitioners and litigants upload process for issue on it (ZAF-003, ZAF-005). Nothing says the public can look up a case or that judgments are published online."
 2026-11-11,ZMB,dpi.mis--justice,review,2,2,ZMB-001,"Rebuild: Treasury funds an electronic case management system being developed for all court levels, the Judiciary still working by hand in January 2025 (ZMB-001), so stage 2. The 2022 report of a stalled system and decisions online (ZMB-002, ZMB-003) is outside the window."
 2026-11-11,ZWE,dpi.mis--justice,review,5,5,ZWE-004;ZWE-003,"Rebuild: The IECMS runs in the Constitutional, Supreme, Labour and High Courts (ZWE-001), litigants and practitioners file on it (ZWE-003), and court users can track their cases (ZWE-004). Every step is met, so stage 5."
+2026-11-11,MUS,dpi.mis--justice,ladder,3,4,MUS-005;MUS-001,"Bill's ruling, message 123"
+2026-11-11,MAR,dpi.mis--justice,ladder,4,5,MAR-003;MAR-007;MAR-005,"Bill's ruling, message 123"

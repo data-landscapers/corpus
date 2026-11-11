@@ -20,9 +20,9 @@ The African Commission's Fair Trial Principles ask for systems recording proceed
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 5 |
+| 5 Leading | 6 |
 | 4 Operating | 4 |
-| 3 Established | 9 |
+| 3 Established | 8 |
 | 2 Nascent | 22 |
 | 1 Absent | 0 |
 | Unplaced | 4 |
@@ -36,6 +36,14 @@ All courts took filings online from 2024, and anyone can look up when a case is 
 
 - The Judiciary launched a Causelist Portal on 11 March 2024 on which anyone, in Kenya or abroad, can find when and where a case is scheduled to be heard ([source, 2024-03-11](https://judiciary.go.ke/judiciary-launches-e-filing-in-all-courts-data-tracking-dashboard-and-causelist-portal-portal/)).
 - The Judiciary of Kenya's SOJAR 2023-24 says the e-filing system, piloted in Nairobi courts in July 2020, was rolled out to all courts nationwide in March 2024, letting court users file documents from their computers, with user accounts rising from 7,152 to 51,729 ([source, 2024-03](https://www.judiciary.go.ke/wp-content/uploads/2024/11/POPULAR-VERSION-SOJAR-REPORT-FY-2023_24.pdf)).
+
+### Morocco: 5 Leading
+
+Lawyers filed online and the public could track court files on Mahakim in 2026.
+
+- Morocco's justice minister says lawyers can now file requests, briefs and appeal acts through a dedicated platform ([source, 2025-01](https://telquel.ma/instant-t/2025/01/30/justice-voici-les-grandes-lignes-du-projet-du-dossier-judiciaire-electronique_1915535/)).
+- Justice Minister Abdellatif Ouahbi told a parliamentary committee that a national enforcement platform, letting enforcement files be processed nationally and not only in Casablanca, has entered implementation and is being extended to all courts ([source, 2026-11-04](https://www.hespress.com/%d9%88%d9%87%d8%a8%d9%8a-%d9%8a%d9%87%d8%a7%d8%ac%d9%85-%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83-%d8%a8%d8%b3%d8%a8%d8%a8-%d8%b1%d9%81%d8%b6-%d8%a7%d8%b9%d8%aa%d9%85%d8%a7%d8%af-%d8%a7%d9%84%d8%a3%d8%af-1834575.html)).
+- The Mahakim file-tracking service lets the public follow civil and criminal files, notifications, enforcement and recovery files, and hearing dates by entering the file number at the court ([source, 2026](https://mahakim.ma/)).
 
 ### Tanzania: 5 Leading
 
@@ -65,12 +73,12 @@ The higher courts ran an electronic case system in 2026, with online filing and 
 - The Minister says IECMS incorporates case tracking for litigants, and the JSC says court users can monitor cases electronically ([source, 2026-09-26](https://www.heraldonline.co.zw/electronic-case-management-system-iecms-brings-justice-closer-to-gweru-residents/)).
 - The Minister of State for Midlands and the JSC say IECMS includes electronic filing so litigants and legal practitioners can file documents electronically, with e-filing offices and internet hubs set up to help users ([source, 2026-09-26](https://www.heraldonline.co.zw/electronic-case-management-system-iecms-brings-justice-closer-to-gweru-residents/)).
 
-### Morocco: 4 Operating
+### Mauritius: 4 Operating
 
-Lawyers filed online and an enforcement platform ran in 2026; a dated public case lookup is not on record.
+Attorneys filed online at the Commercial Division and the Children's Court had a case system in 2025; public online access is not on record.
 
-- Morocco's justice minister says lawyers can now file requests, briefs and appeal acts through a dedicated platform ([source, 2025-01](https://telquel.ma/instant-t/2025/01/30/justice-voici-les-grandes-lignes-du-projet-du-dossier-judiciaire-electronique_1915535/)).
-- Justice Minister Abdellatif Ouahbi told a parliamentary committee that a national enforcement platform, letting enforcement files be processed nationally and not only in Casablanca, has entered implementation and is being extended to all courts ([source, 2026-11-04](https://www.hespress.com/%d9%88%d9%87%d8%a8%d9%8a-%d9%8a%d9%87%d8%a7%d8%ac%d9%85-%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83-%d8%a8%d8%b3%d8%a8%d8%a8-%d8%b1%d9%81%d8%b6-%d8%a7%d8%b9%d8%aa%d9%85%d8%a7%d8%af-%d8%a7%d9%84%d8%a3%d8%af-1834575.html)).
+- The list of operational systems names a 'Case Management System for Children's Court' and a Supreme Court registry system under the Judiciary ([source, 2024-11](https://cib.govmu.org/Documents/Reports/List%20of%20Operational%20Systems.pdf)).
+- The Mauritius Judiciary's notices say attorneys at the Commercial Division must file written submissions online through the e-filing system and apply online for subpoenas, new features introduced from 11 January 2021 ([source, 2021-01-11](https://ejudiciary.govmu.org/)).
 
 ### Nigeria: 4 Operating
 
@@ -130,12 +138,6 @@ Courts had case management platforms in 2024; online filing outside a pilot is n
 
 - The Judiciary of Malawi's concept note says digital case management platforms "have already been introduced" as part of the e-court's digitisation of court proceedings ([source, 2024-04](https://judiciary.mw/sites/default/files/2024-04/E-COURT%20LAUNCH.pdf)).
 - The Judiciary of Malawi's concept note says the e-court, which incorporates digitisation of court proceedings and documentation with electronic filing and online portals, is in a pilot phase linking ten courts, six prisons and four police stations ([source, 2024-04](https://judiciary.mw/sites/default/files/2024-04/E-COURT%20LAUNCH.pdf)).
-
-### Mauritius: 3 Established
-
-The Children's Court had a case system in 2024; online filing since 2023 is not on record.
-
-- The list of operational systems names a 'Case Management System for Children's Court' and a Supreme Court registry system under the Judiciary ([source, 2024-11](https://cib.govmu.org/Documents/Reports/List%20of%20Operational%20Systems.pdf)).
 
 ### Senegal: 3 Established
 

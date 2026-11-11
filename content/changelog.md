@@ -1,3 +1,7 @@
+## 11 November 2026
+
+- Seven maturity cells move on rulings about what counts: Angola and Algeria rise to 4 for AI in administration, a parliament now counting as a government body, and Morocco reaches 5 and Mauritius 4 on court systems, a running service dated by its source. Niger rises to 3 for satellite data in weather services, South Sudan's forecasting pilot falls to 2, and Lesotho's 2023 system, with nothing since, is unplaced.
+
 ## 10 November 2026
 
 - The finance table shows each row's published date and can be filtered by financier; the scope filter is gone, and typing several letters in any filter jumps to the match. The table now opens newest-published first, and the year range above it counts start years only, 2015 to 2026.

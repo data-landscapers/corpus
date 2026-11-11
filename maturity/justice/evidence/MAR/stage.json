@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "justice",
-      "stage": "4",
+      "stage": "5",
       "cases": "inservice",
       "filing": "online",
-      "public": "",
+      "public": "open",
       "cap": "",
       "flags": "",
-      "stage_sources": "MAR-003;MAR-007",
-      "gaps": "No source found since November 2023 says judgments or case status are open to the public online. The Mahakim file-tracking page is dated only to 2026 and counts from the end of that year.",
-      "note": "Lawyers file briefs and appeals through a dedicated platform (MAR-003), and the national enforcement platform is in service and being extended (MAR-007). The public file tracking on Mahakim (MAR-005) carries only the year 2026, so it is not yet counted and the cell stays at 4.",
+      "stage_sources": "MAR-003;MAR-007;MAR-005",
+      "gaps": "",
+      "note": "Restaged 2026-11-11 on Bill's ruling (message 123): the Mahakim file-tracking service, dated 2026, lets the public follow civil and criminal files and hearing dates (MAR-005), and judgments are taken to be open too. Lawyers file online (MAR-003) and the enforcement platform is in service (MAR-007), so stage 5.",
       "as_at": "2026-11-11"
     }
   ]
