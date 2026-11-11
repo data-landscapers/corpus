@@ -45,7 +45,7 @@ Asked in order. Each is answered with a date and a link.
 | 4 Maps or valuation | Yes to 3 |
 | 5 Linked to tax | Yes to 4 |
 
-**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114; method §3.3)*. `study.json` holds this as three aspects: `system` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `joined` (`joined`) for 3 and `tax` (`linked`) for 4.
+**Each step of the ladder must be met to progress** *(Bill, 2026-11-09, message 114; method §3.3)*. **Dated by the source**, as customs reads the same wording *(Bill, 2026-10-26, message 39; rebuild 2026-11-11)*: a standing state answers when a source from the last three years states it (`source_dated`), and a year-only fact of the as-at's year counts from its source's date. `study.json` holds this as three aspects: `system` (`inservice`, `underway`, `none`) for stage 1 and questions 1 and 2, `joined` (`joined`) for 3 and `tax` (`linked`) for 4.
 
 ## 4. The norm
 

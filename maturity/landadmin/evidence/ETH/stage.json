@@ -1,17 +1,18 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "landmis",
-   "stage": "5",
-   "system": "inservice",
-   "joined": "joined",
-   "tax": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ETH-003",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-landadmin.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "landmis",
+      "stage": "5",
+      "system": "inservice",
+      "joined": "joined",
+      "tax": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-003;ETH-001",
+      "gaps": "Only Bishoftu, Adama and Shagar in Oromia are named as using eLand, and the platform's own site is the only source.",
+      "note": "The eLand platform's site says transfers, leases and mortgages are lodged on it in three Oromia cities, with map integration, valuation tools and land-tax payment, so stage 5.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

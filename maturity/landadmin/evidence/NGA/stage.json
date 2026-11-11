@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "landmis",
-   "stage": "5",
-   "system": "inservice",
-   "joined": "joined",
-   "tax": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-003",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-landadmin.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "landmis",
+      "stage": "5",
+      "system": "inservice",
+      "joined": "joined",
+      "tax": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-003;NGA-001",
+      "gaps": "Only Kwara State's system is held; nothing on a federal or another state's system.",
+      "note": "Kwara State's KW-GIS system, launched in October 2025, registers land, maps parcels and takes land payments through the state revenue service's integrated platform, so stage 5 on one state.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

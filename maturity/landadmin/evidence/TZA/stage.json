@@ -1,17 +1,18 @@
 {
- "iso3": "TZA",
- "cells": [
-  {
-   "sub_indicator": "landmis",
-   "stage": "2",
-   "system": "underway",
-   "joined": "",
-   "tax": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TZA-001",
-   "gaps": "No source found since October 2023 says: are land transactions processed electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-landadmin.py."
-  }
- ]
+  "iso3": "TZA",
+  "cells": [
+    {
+      "sub_indicator": "landmis",
+      "stage": "2",
+      "system": "underway",
+      "joined": "",
+      "tax": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TZA-002;TZA-001",
+      "gaps": "No source in the last three years says land transactions are processed in a system in service. Nothing is held on mainland Tanzania's land system.",
+      "note": "Zanzibar's LARIS was launched in July 2026 and is being built to May 2028, so stage 2 on Zanzibar alone.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

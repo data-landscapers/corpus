@@ -15,6 +15,11 @@
   "dpi.mis--land"
  ],
  "carry_studies": [],
+ "source_dated": [
+  "system",
+  "joined",
+  "tax"
+ ],
  "token_ceiling": 8000000,
  "terms": [
   "land information system",

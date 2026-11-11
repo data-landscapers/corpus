@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "landmis",
-      "stage": "unplaced",
-      "system": "",
+      "stage": "3",
+      "system": "inservice",
       "joined": "",
       "tax": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether land transactions are processed electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-landadmin.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MUS-003",
+      "gaps": "LAVIMS's link of deeds to cadastre parcels and valuation is described only in 2012 and 2018, before the three years, so registration duty paid through MeRS cannot count.",
+      "note": "Deeds of sale, mortgages and leases are submitted and registered online through the Registrar-General's MeRS, per its 2026 guidance, so stage 3, dated by the source.",
+      "as_at": "2026-11-11"
     }
   ]
 }

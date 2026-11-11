@@ -1,17 +1,18 @@
 {
- "iso3": "SDN",
- "cells": [
-  {
-   "sub_indicator": "landmis",
-   "stage": "no evidence",
-   "system": "",
-   "joined": "",
-   "tax": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says how land transactions are processed.",
-   "note": "First pass: counted from the four questions by study-ladder-landadmin.py."
-  }
- ]
+  "iso3": "SDN",
+  "cells": [
+    {
+      "sub_indicator": "landmis",
+      "stage": "no evidence",
+      "system": "",
+      "joined": "",
+      "tax": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found says how land transactions are processed.",
+      "note": "No row on a land information system is held for this country, so no stage is set.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

@@ -9,10 +9,10 @@
       "tax": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "CIV-001",
-      "gaps": "No source found since October 2023 says the land system joins records to survey maps or valuation.",
-      "note": "First pass: counted from the four questions by study-ladder-landadmin.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "CIV-001;CIV-003",
+      "gaps": "SIFOR was not yet the single rural land register in early 2025, and no urban title system in service is held. No source in the last three years says the land system joins records with survey maps or valuation.",
+      "note": "Rural land certificates are examined on digital maps and signed electronically in the dematerialised procedure, so stage 3. The maps are used in the procedure; no source says the system joins records with them.",
+      "as_at": "2026-11-11"
     }
   ]
 }

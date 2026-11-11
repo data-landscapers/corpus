@@ -9,10 +9,10 @@
       "tax": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NAM-002",
-      "gaps": "No source found since October 2023 says land or property tax is assessed or paid through the land system.",
-      "note": "First pass: counted from the four questions by study-ladder-landadmin.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "NAM-002;NAM-001",
+      "gaps": "No source in the last three years says land tax or rates are assessed or paid through a land system; the freehold deeds system is held only from 2022.",
+      "note": "NCLAS registers communal rights and links communal deeds to parcel geometries by a unique parcel identifier, per a 2024 presentation, so stage 4. Nothing links it to tax.",
+      "as_at": "2026-11-11"
     }
   ]
 }

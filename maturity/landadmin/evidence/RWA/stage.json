@@ -1,17 +1,18 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "landmis",
-   "stage": "5",
-   "system": "inservice",
-   "joined": "joined",
-   "tax": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "RWA-002",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-landadmin.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "landmis",
+      "stage": "5",
+      "system": "inservice",
+      "joined": "joined",
+      "tax": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-002;RWA-001",
+      "gaps": "",
+      "note": "LAIS handles registration and transfers, over 800,000 files a year, keeps a spatial database and is connected to the tax payment system, so stage 5.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 # Land: land
 
-*As at 2026-08-31.*
+*As at 2026-11-11.*
 
 ## The norm
 
@@ -21,11 +21,11 @@ The AU Framework and Guidelines on Land Policy asks for a computerised land info
 | Stage | Countries |
 |---|---|
 | 5 Leading | 4 |
-| 4 Operating | 1 |
-| 3 Established | 12 |
+| 4 Operating | 2 |
+| 3 Established | 14 |
 | 2 Nascent | 16 |
 | 1 Absent | 0 |
-| Unplaced | 12 |
+| Unplaced | 9 |
 | No evidence | 9 |
 
 ## Countries
@@ -35,37 +35,49 @@ The AU Framework and Guidelines on Land Policy asks for a computerised land info
 The land system was linked to land or property tax in 2025.
 
 - The eLand platform's own site says it has tax calculation and an integrated payment system for land taxes, fees and charges, with receipts and revenue reports ([source, 2025](https://land.et)).
+- The eLand platform's own site says citizens submit applications for ownership transfer, lease registration, and mortgage and court injunction registration online, and lists Bishoftu, Adama and Shagar in Oromia Region as cities currently using it ([source, 2025](https://land.et)).
 
 ### Kenya: 5 Leading
 
 The land system was linked to land or property tax in 2026.
 
-- Kenyans.co.ke lists stamp duty payments and land-rent payments among the services offered through ArdhiSasa ([source, 2026-09-21](https://www.kenyans.co.ke/news/127225-ardhisasa-goes-down-again-users-warned-disrupted-land-services)).
 - The State Department for Lands says stamp duty is assessed and paid digitally through the NSDM within ArdhiSasa via Ardhipay, with KES1.946 billion collected in two months ([source, 2026-02-16](https://lands.go.ke/state-department-lands-rolls-out-nsdm-countrywide-making-land-transactions-faster-and-transparent)).
+- The State Department for Lands and Physical Planning says that from 20 July 2026 all land transactions in the newly onboarded Mombasa registration sections are processed exclusively on the live Ardhisasa platform and manual processing ceases there, after earlier rollouts in Nairobi (2021), Murang'a, Isiolo, Mombasa Island and Mombasa Blocks XVI and XVII (21 July 2025) ([source, 2026-07-20](https://lands.go.ke/state-department-lands-expands-digitization-mombasa-bringing-more-land-transactions-ardhisasa)).
 
 ### Nigeria: 5 Leading
 
 The land system was linked to land or property tax in 2025.
 
 - The KW-IRS chairman says the KW-IRS online payment platform is integrated with the new land system, so land and related payments are made online ([source, 2025-10-20](https://von.gov.ng/kwara-government-launches-digital-land-administration-process/)).
+- Kwara State launched its KW-GIS-based digital land information system, and the KW-IRS chairman says investors and titleholders can now register land, process CofO and obtain building approvals online ([source, 2025-10-20](https://von.gov.ng/kwara-government-launches-digital-land-administration-process/)).
 
 ### Rwanda: 5 Leading
 
 The land system was linked to land or property tax in 2026.
 
 - Minister Arakwiye said LAIS has been connected to other national systems including Irembo and the tax payment system ([source, 2026-02](https://ickjournalism.com/impamvu-u-rwanda-rukeneye-abakozi-3000-bo-gutanga-serivisi-zubutaka/)).
+- Minister of Environment Bernadette Arakwiye said Rwanda's LAIS electronic system holds all land and owner data and handles land registration, boundary correction and transfers, with over 800,000 files a year processed and 864,000 files received in 2025 ([source, 2026-02](https://ickjournalism.com/impamvu-u-rwanda-rukeneye-abakozi-3000-bo-gutanga-serivisi-zubutaka/)).
 
 ### Namibia: 4 Operating
 
 The land system joined records to survey maps or valuation in 2024; no source found reports a link to tax.
 
 - The presentation says NCLAS has two components, communal deeds and communal cadastre (parcel geometries), linked via a Unique Parcel Identifier ([source, 2024-05-20](https://www.fig.net/resources/proceedings/fig_proceedings/fig2024/ppt/ts02g/TS02G_mazambani_12660_ppt.pdf)).
+- The presentation says NCLAS 1 was rolled out to all Communal Land Boards in 2008 and web-based, server-based NCLAS 2 was introduced in 2014 by the ministry, to register customary and leasehold rights in communal areas ([source, 2024-05-20](https://www.fig.net/resources/proceedings/fig_proceedings/fig2024/ppt/ts02g/TS02G_mazambani_12660_ppt.pdf)).
+
+### Uganda: 4 Operating
+
+Land transfers ran through a national system joined to mapping and valuation in 2024; a link to land tax is not known.
+
+- The Ministry of Lands says the DeSINLISI national roll-out fully integrated land registration, land administration, surveying and mapping, physical planning and property valuation in the UgNLIS ([source, 2020-02](https://mlhud.go.ug/ugnlis/)).
+- The Ministry of Lands says the UgNLIS, rolled out nationally between February 2015 and February 2020, is a computerized system through 22 Ministry Zonal Offices that reduces the time to check, update and transfer land ([source, 2020-02](https://mlhud.go.ug/ugnlis/)).
 
 ### Algeria: 3 Established
 
 Land transactions were processed electronically in 2024; no source found reports a link to survey maps or valuation.
 
 - Algeria's finance minister told the National People's Assembly on 12 December 2024 that digitising the land file, archives and documents in the land conservation offices has given automated, secured management of all land transactions ([source, 2024-12-12](https://elwatan.dz/conservations-foncieres-instructions-pour-la-creation-dun-guichet-unique/)).
+- The Direction generale du Domaine national announced the generalisation of the Amlak information system to all cadastre, land conservation and State Domains directorates, ahead of issuing the digital land booklet (Eco Times, 25 February 2026) ([source, 2026-02-25](https://ecotimesdz.com/numerisation-prestations-cadastrales-livret-foncier-electronique/)).
 
 ### Benin: 3 Established
 
@@ -73,6 +85,7 @@ Land transactions were processed electronically in 2026; no source found reports
 
 - Fraternité states that with the cadastre registration certificate a parcel can be sold legally at the mairie and that all operations are done directly in e-Foncier Bénin ([source, 2026-03-26](https://fraternite.bj/modernisation-de-landf-e-foncier-au-service-de-la-securite-des-investissements/)).
 - La Nation reports that the e-Foncier platform has been operational since 1 January 2025 with mairies, notaries and surveyors, and that nine e-Services on service-public.bj included 163 property transfer requests and mortgage registration, with 11,418 online requests from May 2022 to December 2024 (ANDF) ([source, 2025-01-01](https://lanation.bj/actualites/reforme-du-e-foncier-au-benin-plus-de-491-000-parcelles-enregistrees-dans-12-communes)).
+- ANDF's PPMEC II project chief said the e-Foncier Bénin platform has functions to register parcels, issue cadastral registration certificates and update records, with 643,993 parcels registered in 12 communes ([source, 2026-11-06](https://fraternite.bj/terra-benin-et-ppmec-ii-pour-accelerer-la-securisation-fonciere/)).
 
 ### Burundi: 3 Established
 
@@ -85,6 +98,7 @@ Land transactions were processed electronically in 2025; no source found reports
 Land transactions were processed electronically in 2026; no source found reports a link to survey maps or valuation.
 
 - AFOR reports that the Bongouanou sub-prefectural land committee examined and validated five rural land certificate files on 12 March 2026 using digital maps and geospatial data, and the certificates were signed electronically ([source, 2026-03-12](https://afor.ci/news/nos-actualites/105)).
+- The World Bank aide-memoire of the 21-31 January 2025 mission says AFOR's DIGIFOR and SCCARTO applications are functional and that an ordinance to make SIFOR the single digital rural land register was still to be re-presented in mid-February 2025, with cadastre title data still awaited ([source, 2025-01](https://documents1.worldbank.org/curated/en/099021325040027199/pdf/P179338-ea58f66e-1b11-40a4-a9ed-c2be7b9f4434.pdf)).
 
 ### Egypt: 3 Established
 
@@ -110,12 +124,25 @@ The land system handled some services online in 2024 and 2026; its link to surve
 Land transactions were processed electronically in 2024; no source found reports a link to survey maps or valuation.
 
 - ITWeb Africa reports Malawi launched its web-based Land Information Management System in February 2024, where registered users submit documents, receive notifications and pay ground rent and application fees, while some transactions remain manual ([source, 2024-02](https://itweb.africa/article/malawi-reviews-digital-land-workflows/rW1xLv5ngAp7Rk6m)).
+- The Ministry of Lands is reviewing LIMS workflows and developing digital procedures to move the remaining manual land transactions onto the platform, per a ministry deputy director of LIMS ([source, 2026-08-04](https://itweb.africa/article/malawi-reviews-digital-land-workflows/rW1xLv5ngAp7Rk6m)).
 
 ### Mauritania: 3 Established
 
 Land transactions were processed electronically in 2024; no source found reports a link to survey maps or valuation.
 
 - The Administration Générale des Domaines announced it has begun registering all contracts and putting final copies online after fee payment by mobile payment apps, via the Lagoud platform ([source, 2024-04-25](https://fr.madar.mr/actualites/mauritanie-procedures-pour-faciliter-lenregistrement-des-contrats-a-travers-une-plateforme-numerique/)).
+
+### Mauritius: 3 Established
+
+Deeds and mortgages were registered online in 2026; a current link between the registry and survey maps or valuation is not known.
+
+- The Registrar-General's Department says deeds of sale, mortgages and discharges and leases are submitted, tracked and registered online through the Mauritius eRegistry System (MeRS), or at the counter ([source, 2026](http://registrar.govmu.org/rgd/index.php/faqs/)).
+
+### Morocco: 3 Established
+
+Most notarial deed filings with the land agency were made online in 2026; a current link to survey maps or valuation is not known.
+
+- ANCFCC states 76% of notarial deed filings with the land agency are made online ([source, 2026](https://www.ancfcc.gov.ma/chiffrecles/)).
 
 ### Togo: 3 Established
 
@@ -139,8 +166,8 @@ Land transactions were processed electronically in 2025; no source found reports
 
 A land information system was under way in 2026; none in service is on record.
 
-- Acting Minister Dikoloti told Parliament that under NDP 12 the Ministry of Lands and Agriculture will upgrade the Land Information System and the Integrated Geographic Information System (IGIS), and announced a planned Electronic Deeds Registration Systems Act to give a legal framework for digital registration ([source, 2026-03-02](https://dailynews.gov.bw/news-detail/90382)).
 - Vice President and Finance Minister Gaolathe said in the 2026/27 Budget Speech that Government will begin, through the Geospatial Information Centre, the first phase of a four-year programme to upgrade the Land Information System and strengthen the Integrated Geographic Information System ([source, 2026-02-09](https://dailynews.gov.bw/news-detail/89882)).
+- Acting Minister Dikoloti told Parliament that under NDP 12 the Ministry of Lands and Agriculture will upgrade the Land Information System and the Integrated Geographic Information System (IGIS), and announced a planned Electronic Deeds Registration Systems Act to give a legal framework for digital registration ([source, 2026-03-02](https://dailynews.gov.bw/news-detail/90382)).
 
 ### Cameroon: 2 Nascent
 
@@ -191,6 +218,12 @@ A land information system was under way in 2025; none in service is on record.
 - Newsmada reports the GIZ ProPFR project piloted an interconnected land information system linking topographic circumscriptions and land offices (guichets fonciers) ([source, 2025-12](https://newsmada.com/2026/01/05/propfr-giz-dix-ans-pour-instaurer-une-politique-fonciere-responsable/)).
 - The land services director general (DGSF) says a land information system, aimed at digitising and centralising land documents and data nationwide under PNF II, will be operational soon ([source, 2025-09-12](https://newsmada.com/2025/09/13/reformes-foncieres-vers-un-systeme-transparent-et-inclusif/)).
 
+### Mali: 2 Nascent
+
+A national cadastral numbering of parcels was under way in 2026; whether land transactions are processed in a system is not known.
+
+- The SPRDF announced it would digitise all parcels in Mali under the NINACAD national cadastral identifier, deployed first around Bamako, and in January 2023 claimed 648,057 parcels online ([source, 2023-01](https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2026-04/010096542.pdf)).
+
 ### Niger: 2 Nascent
 
 A land information system was under way in 2026; none in service is on record.
@@ -226,85 +259,62 @@ A land information system was under way in 2025; none in service is on record.
 
 A land information system was under way in 2026; none in service is on record.
 
+- LARIS, an integrated land information system being built by IGN FI for Zanzibar over June 2026 to May 2028, will bring together land ownership, surveying, urban planning, registration and land-use information, per its coordinator ([source, 2026-10-29](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-to-link-identity-card-with-land-ownership-records-to-curb-disputes-5650378)).
 - IGN FI reports the official launch on 27 July 2026 of the Land Administration and Registration Information System (LARIS) project in Zanzibar, with aerial mapping starting to provide the foundation for Zanzibar's Digital Land Information System, funded by BPI and CRDB Bank ([source, 2026-07-27](https://ignfi.fr/en/official-launch-ceremony-for-the-land-administration-modernization-project-in-zanzibar-laris/)).
-
-### Uganda: 2 Nascent
-
-A land information system was under way in 2023; none in service is on record.
-
-- The Ministry of Lands says the UgNLIS is being enhanced under the NaLISEP project run from October 2023 to May 2024 by IGN FI with World Bank support ([source, 2023-10](https://mlhud.go.ug/ugnlis/)).
 
 ### Burkina Faso: Unplaced
 
 Nothing found since 2023 names a land information system, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
+Not established: Only a 2022 working paper on eCADASTRE is held, before the three years.
 
 ### Cape Verde: Unplaced
 
 Nothing found since 2023 names a land information system, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
+Not established: Only 2022 terms of reference describing LMITS are held, before the three years.
 
 ### Congo: Unplaced
 
 Nothing found since 2023 names a land information system, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
+Not established: Only a 2014 report on the cadastre project is held, before the three years.
 
 ### Eritrea: Unplaced
 
 Nothing found since 2023 names a land information system, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
+Not established: Only 2018 and 2019 statements on the cadastral database are held, before the three years.
 
 ### Lesotho: Unplaced
 
 Nothing found since 2023 names a land information system, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
-
-### Mali: Unplaced
-
-Nothing found since 2023 names a land information system, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
-
-### Mauritius: Unplaced
-
-Nothing found since 2023 names a land information system, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
-
-### Morocco: Unplaced
-
-Nothing found since 2023 names a land information system, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
+Not established: Only a 2020 vendor statement on the Landfolio registry is held, before the three years.
 
 ### Mozambique: Unplaced
 
 Nothing found since 2023 names a land information system, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
+Not established: Only 2020 and 2021 accounts of SiGIT are held, before the three years.
 
 ### Sao Tome and Principe: Unplaced
 
 Nothing found since 2023 names a land information system, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
+Not established: Only a 2020 registry digitisation project and a 2022 account of the paper registry are held, before the three years.
 
 ### South Sudan: Unplaced
 
 Nothing found since 2023 names a land information system, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
+Not established: Only the August 2023 launch of Juba's Digital Land Registry is held, before the three years.
 
 ### Zambia: Unplaced
 
 Nothing found since 2023 names a land information system, so no stage is set.
 
-Not established: Nothing found since October 2023 says whether land transactions are processed electronically.
+Not established: Only a June 2023 account of ZILAS is held, before the three years.
 
 ### Angola: No evidence
 

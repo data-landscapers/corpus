@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "landmis",
-      "stage": "unplaced",
-      "system": "",
+      "stage": "2",
+      "system": "underway",
       "joined": "",
       "tax": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether land transactions are processed electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-landadmin.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MLI-001",
+      "gaps": "No source in the last three years says land transactions are processed in a system in service.",
+      "note": "A 2026 peer-reviewed article describes SPRDF's NINACAD programme digitising Mali's parcels, with an online portal and survey campaigns, so stage 2, dated by the source.",
+      "as_at": "2026-11-11"
     }
   ]
 }

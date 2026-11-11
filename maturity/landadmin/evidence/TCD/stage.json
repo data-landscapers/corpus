@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TCD-001",
-      "gaps": "No source found since October 2023 says: are land transactions processed electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-landadmin.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source in the last three years says land transactions are processed in a system in service. GIRAF's online processing is described only in 2022.",
+      "note": "A 2026 pilot in two zones feeds survey data to the GIRAF land one-stop shop, so stage 2.",
+      "as_at": "2026-11-11"
     }
   ]
 }

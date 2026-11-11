@@ -1,17 +1,18 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "landmis",
-   "stage": "3",
-   "system": "inservice",
-   "joined": "",
-   "tax": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-001",
-   "gaps": "No source found since October 2023 says the land system joins records to survey maps or valuation.",
-   "note": "First pass: counted from the four questions by study-ladder-landadmin.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "landmis",
+      "stage": "3",
+      "system": "inservice",
+      "joined": "",
+      "tax": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-001",
+      "gaps": "Sources disagree: the ministry says the deeds registers are computerised and updated daily, while the Registrar of Deeds spoke in 2025 of upgrading manual registration to a fully electronic system. No source in the last three years says the land system joins records with survey maps or valuation.",
+      "note": "The Deeds Registry's land registers are computerised and updated as ownership changes hands, per the ministry in 2026, so stage 3, though deeds are still lodged by hand.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

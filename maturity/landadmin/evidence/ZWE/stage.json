@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ZWE-001",
-      "gaps": "No source found since October 2023 says the land system joins records to survey maps or valuation.",
-      "note": "First pass: counted from the four questions by study-ladder-landadmin.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source in the last three years says the land system joins records with survey maps or valuation. DLAP runs beside the manual route.",
+      "note": "A Government Gazette notice of May 2025 launched DLAP for online title-deed applications and fee payment, so stage 3.",
+      "as_at": "2026-11-11"
     }
   ]
 }

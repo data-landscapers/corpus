@@ -1,17 +1,18 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "landmis",
-   "stage": "2",
-   "system": "underway",
-   "joined": "",
-   "tax": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-001",
-   "gaps": "No source found since October 2023 says: are land transactions processed electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-landadmin.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "landmis",
+      "stage": "2",
+      "system": "underway",
+      "joined": "",
+      "tax": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-001",
+      "gaps": "No source in the last three years says land transactions are processed in a system in service.",
+      "note": "The e-Foncier cadastre digitisation project was relaunched in February 2025 with a new contractor after the 2022 contract failed, so stage 2.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

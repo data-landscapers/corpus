@@ -9,10 +9,10 @@
       "tax": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MWI-001",
-      "gaps": "No source found since October 2023 says the land system joins records to survey maps or valuation.",
-      "note": "First pass: counted from the four questions by study-ladder-landadmin.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MWI-001;MWI-002",
+      "gaps": "No source in the last three years says the land system joins records with survey maps or valuation. Some transactions are still manual.",
+      "note": "Users submit documents and pay ground rent and fees on LIMS, in service since February 2024, while the ministry moves the remaining manual transactions on to it, so stage 3.",
+      "as_at": "2026-11-11"
     }
   ]
 }

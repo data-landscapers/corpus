@@ -1,17 +1,18 @@
 {
- "iso3": "UGA",
- "cells": [
-  {
-   "sub_indicator": "landmis",
-   "stage": "2",
-   "system": "underway",
-   "joined": "",
-   "tax": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "UGA-002",
-   "gaps": "No source found since October 2023 says: are land transactions processed electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-landadmin.py."
-  }
- ]
+  "iso3": "UGA",
+  "cells": [
+    {
+      "sub_indicator": "landmis",
+      "stage": "4",
+      "system": "inservice",
+      "joined": "joined",
+      "tax": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "UGA-003;UGA-001",
+      "gaps": "No source says land tax or stamp duty is paid through UgNLIS; online payment of fees and stamp duty was only an objective of the 2023-24 enhancement.",
+      "note": "The Ministry of Lands' 2024 page says UgNLIS runs registration and transfers through 22 zonal offices and integrates surveying, mapping and valuation, so stage 4, dated by the source as the ladder reads. Stamp-duty payment online is an objective, not a fact.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TUN-001",
-      "gaps": "No source found since October 2023 says the land system joins records to survey maps or valuation.",
-      "note": "First pass: counted from the four questions by study-ladder-landadmin.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source in the last three years says the land system joins records with survey maps or valuation.",
+      "note": "The national land office finished installing its IT system and rolling it out to all its regional offices in May 2025, so stage 3.",
+      "as_at": "2026-11-11"
     }
   ]
 }

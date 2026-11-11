@@ -1,17 +1,18 @@
 {
- "iso3": "SLE",
- "cells": [
-  {
-   "sub_indicator": "landmis",
-   "stage": "2",
-   "system": "underway",
-   "joined": "",
-   "tax": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SLE-001",
-   "gaps": "No source found since October 2023 says: are land transactions processed electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-landadmin.py."
-  }
- ]
+  "iso3": "SLE",
+  "cells": [
+    {
+      "sub_indicator": "landmis",
+      "stage": "2",
+      "system": "underway",
+      "joined": "",
+      "tax": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SLE-001",
+      "gaps": "No source in the last three years says land transactions are processed in a system in service.",
+      "note": "The land administration project was procuring a digital land information system in April 2024, so stage 2.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "landmis",
-   "stage": "5",
-   "system": "inservice",
-   "joined": "joined",
-   "tax": "linked",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-003;KEN-007",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-landadmin.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "landmis",
+      "stage": "5",
+      "system": "inservice",
+      "joined": "joined",
+      "tax": "linked",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-007;KEN-010",
+      "gaps": "Ardhisasa is still being rolled out registration section by section, so not every county's transactions are on it.",
+      "note": "Stamp duty is assessed on standardised valuation data and paid through Ardhisasa's National Stamp Duty Module, rolled out countrywide in February 2026, so stage 5. Onboarded sections process transactions only on Ardhisasa.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

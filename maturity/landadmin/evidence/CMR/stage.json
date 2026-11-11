@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "CMR-001",
-      "gaps": "No source found since October 2023 says: are land transactions processed electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-landadmin.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source in the last three years says land transactions are processed in a system in service.",
+      "note": "The housing ministry was selecting firms in June 2026 to supply a land information system for Yaoundé and Douala, so stage 2.",
+      "as_at": "2026-11-11"
     }
   ]
 }

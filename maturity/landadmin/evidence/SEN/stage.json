@@ -1,17 +1,18 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "landmis",
-   "stage": "2",
-   "system": "underway",
-   "joined": "",
-   "tax": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SEN-001",
-   "gaps": "No source found since October 2023 says: are land transactions processed electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-landadmin.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "landmis",
+      "stage": "2",
+      "system": "underway",
+      "joined": "",
+      "tax": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-001",
+      "gaps": "No source in the last three years says land transactions are processed in a system in service.",
+      "note": "PROCASEF has fitted 128 communal land offices with a communal land information system, SIFCOM, but no source says transactions are processed in it, so stage 2.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

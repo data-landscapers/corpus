@@ -29,3 +29,57 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-18,ZMB,dpi.mis--land,review,no evidence,unplaced,,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-10-18,ZWE,dpi.mis--land,review,no evidence,3,ZWE-001,Stage 4c: 1 document(s) searched for this cell (maturity-gaps-3) read; restaged from every row held.
 2026-11-09,GHA,dpi.mis--land,ladder,5,3,GHA-004;GHA-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-11,AGO,dpi.mis--land,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,BDI,dpi.mis--land,review,3,3,BDI-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,BEN,dpi.mis--land,review,3,3,BEN-002;BEN-003;BEN-004,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,BFA,dpi.mis--land,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,BWA,dpi.mis--land,review,2,2,BWA-002;BWA-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,CAF,dpi.mis--land,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,CIV,dpi.mis--land,review,3,3,CIV-001;CIV-003,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,CMR,dpi.mis--land,review,2,2,CMR-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,COD,dpi.mis--land,review,2,2,COD-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,COG,dpi.mis--land,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,COM,dpi.mis--land,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,CPV,dpi.mis--land,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,DJI,dpi.mis--land,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,DZA,dpi.mis--land,review,3,3,DZA-001;DZA-003,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,EGY,dpi.mis--land,review,3,3,EGY-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,ERI,dpi.mis--land,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,ETH,dpi.mis--land,review,5,5,ETH-003;ETH-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,GAB,dpi.mis--land,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,GHA,dpi.mis--land,review,3,3,GHA-004;GHA-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,GIN,dpi.mis--land,review,2,2,GIN-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,GMB,dpi.mis--land,review,2,2,GMB-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,GNB,dpi.mis--land,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,GNQ,dpi.mis--land,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,KEN,dpi.mis--land,review,5,5,KEN-007;KEN-010,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,LBR,dpi.mis--land,review,2,2,LBR-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,LBY,dpi.mis--land,review,2,2,LBY-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,LSO,dpi.mis--land,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,MAR,dpi.mis--land,review,unplaced,3,MAR-002,"Rebuild: ANCFCC's 2026 key figures, a year-only fact from a source published by the as-at, say 76% of notarial deed filings are made online, so 3."
+2026-11-11,MDG,dpi.mis--land,review,2,2,MDG-001;MDG-002,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,MLI,dpi.mis--land,review,unplaced,2,MLI-001,"Rebuild: dated by the source, a 2026 peer-reviewed article describes SPRDF's NINACAD parcel digitisation under way, so 2."
+2026-11-11,MOZ,dpi.mis--land,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,MRT,dpi.mis--land,review,3,3,MRT-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,MUS,dpi.mis--land,review,unplaced,3,MUS-003,"Rebuild: the Registrar-General's 2026 guidance, a year-only fact from a source published by the as-at, says deeds and mortgages are registered online through MeRS, so 3; the LAVIMS link to cadastre and valuation predates the window."
+2026-11-11,MWI,dpi.mis--land,review,3,3,MWI-001;MWI-002,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,NAM,dpi.mis--land,review,4,4,NAM-002;NAM-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,NER,dpi.mis--land,review,2,2,NER-002;NER-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,NGA,dpi.mis--land,review,5,5,NGA-003;NGA-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,RWA,dpi.mis--land,review,5,5,RWA-002;RWA-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,SDN,dpi.mis--land,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,SEN,dpi.mis--land,review,2,2,SEN-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,SLE,dpi.mis--land,review,2,2,SLE-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,SOM,dpi.mis--land,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,SSD,dpi.mis--land,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,STP,dpi.mis--land,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,SWZ,dpi.mis--land,review,3,3,SWZ-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,SYC,dpi.mis--land,review,2,2,SYC-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,TCD,dpi.mis--land,review,2,2,TCD-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,TGO,dpi.mis--land,review,3,3,TGO-002,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,TUN,dpi.mis--land,review,3,3,TUN-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,TZA,dpi.mis--land,review,2,2,TZA-002;TZA-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,UGA,dpi.mis--land,review,2,4,UGA-003;UGA-001,"Rebuild: dated by the source, as the ladder reads (customs precedent, Bill message 39); the Ministry of Lands' 2024 page says UgNLIS runs transfers through 22 zonal offices and integrates mapping and valuation, so 4."
+2026-11-11,ZAF,dpi.mis--land,review,2,2,ZAF-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,ZMB,dpi.mis--land,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.
+2026-11-11,ZWE,dpi.mis--land,review,3,3,ZWE-001,Rebuild: first-pass cell read afresh against the ladder beside its neighbours; stage holds.

@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether land transactions are processed electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-landadmin.py.",
-      "as_at": "2026-10-18"
+      "gaps": "Only a 2022 working paper on eCADASTRE is held, before the three years.",
+      "note": "Nothing in the last three years says how land transactions are processed, so no stage is set.",
+      "as_at": "2026-11-11"
     }
   ]
 }
