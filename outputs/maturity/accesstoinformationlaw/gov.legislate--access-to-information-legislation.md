@@ -20,12 +20,12 @@ The African Commission's Declaration of Principles on Freedom of Expression and 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 12 |
-| 4 Operating | 5 |
-| 3 Established | 14 |
+| 5 Leading | 13 |
+| 4 Operating | 6 |
+| 3 Established | 13 |
 | 2 Nascent | 13 |
 | 1 Absent | 5 |
-| Unplaced | 2 |
+| Unplaced | 1 |
 | No evidence | 3 |
 
 ## Countries
@@ -67,6 +67,14 @@ Namibia's 2022 Access to Information Act has regulations of December 2024 for ch
 
 - Government Notice 380 of 9 December 2024 gazettes regulations made by the Minister of Information and Communication Technology under section 6(9) of the Access to Information Act, 2022, on the terms of the Selection Committee and the process for appointing the Information Commissioner and Deputy ([source, 2024-12-09](https://www.lac.org.na/laws/2024/8530.pdf)).
 - The document is the text of the Access to Information Act, 2022 (Act No. 8 of 2022), promulgated in Government Gazette 7986 on 28 December 2022; it gives a right of access to information held by public and private entities, and commences on a date the Minister sets by Gazette notice (section 86), with no commencement date stated as of the page's 2026-08-09 check ([source, 2022-12-28](http://www.lac.org.na/laws/2022/7986.pdf)).
+
+### Nigeria: 5 Leading
+
+Nigeria's 2011 Freedom of Information Act is in force, the Justice Ministry tracks compliance reports, and courts enforced it in 2025 and 2026.
+
+- This document is the text of the Freedom of Information Act, 2011, passed by both Houses on 24 May 2011 and assented to by President Jonathan on 28 May 2011; it establishes a right of any person to request information held by public institutions ([source, 2011-05-28](https://nimasa.gov.ng/wp-content/uploads/2026/05/freedom-of-information-act.pdf)).
+- The OGP review of Nigeria's 2026-2029 action plan cites Ministry of Justice figures from the annual FOI reports filed with it: 180 ministries, departments and agencies did not file in 2025, up from 26 in 2024, and those processing requests fell from 102 to 61 ([source, 2025](https://www.opengovpartnership.org/wp-content/uploads/2026/11/Nigeria_Action-Plan-Review_2026-2029_For-Public-Comment.pdf)).
+- A Federal High Court in Lagos (Justice Aneke) ruled on 24 February 2026, in a suit on a journalist's October 2020 request, that the Nigeria Shippers Council breached the Freedom of Information Act and ordered it to disclose the information or give reasons for withholding it ([source, 2026-02-24](https://mediarightsagenda.org/federal-high-court-rules-that-foi-act-overrides-other-laws-in-journalists-suit-against-nigeria-shippers-council/)).
 
 ### Seychelles: 5 Leading
 
@@ -153,6 +161,13 @@ Morocco's 2018 law on the right of access to information is in force and its com
 - The Ministry of Justice reports that the Right to Access Information Commission, led by its president, signed a partnership agreement with the minister on 31 March 2026, showing the commission is set up and running the national portal ([source, 2026-03-31](https://justice.gov.ma/2026/03/31/%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%86%D8%B6%D9%85%D8%A7%D9%85-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A5%D9%84%D9%89-%D8%A7/)).
 - The Ministry of Justice says requests and complaints are filed and processed under Law No. 31.13 on the right of access to information, which names the bodies covered in its article 2; the document gives no year for the law, so it is dated to its publication ([source, 2026-03-31](https://justice.gov.ma/2026/03/31/%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%86%D8%B6%D9%85%D8%A7%D9%85-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D8%A5%D9%84%D9%89-%D8%A7/)).
 
+### South Sudan: 4 Operating
+
+South Sudan's 2013 access to information law is in force and its Information Commission is funded; no decision or request figures are known.
+
+- This document is the text of the Right of Access to Information Act, 2013 (Act No. 65), which came into force on the President's assent; it gives a right of access to information held by public bodies and sets up an Information Commissioner ([source, 2013](https://faolex.fao.org/docs/pdf/ssd182371.pdf)).
+- The Ministry of Information, Communication Technology and Postal Services reported on 4 September 2025 that its leadership estimated a budget for the operations of the Access to Information Commission, which it calls a parastatal facing operating challenges; the amount was not given and the budget is estimated, not voted ([source, 2025-09-04](https://mictps.gov.ss/moictps-settles-usaf-information-commission-operation-challenges/)).
+
 ### Togo: 4 Operating
 
 Togo's 2016 law on access to public information is in force with an implementing decree of 2017; nothing done under it since is known.
@@ -216,13 +231,6 @@ Niger's 2011 ordinance on access to public information is in force and was cited
 
 - This document is the text of Ordonnance No. 2011-22 of 23 February 2011 on the Charter of access to public information and administrative documents, an ordinance executed as a law of the State that gives any person a right to ask public bodies for information, entering into force six months after its publication ([source, 2011](https://cyrilla.org/api/files/1566209433658g62junbhzjn.pdf)).
 - Niger's Minister of Communication, speaking on 22 October 2025, cited ordinance no. 2011-22 of 23 February 2011 on the charter of access to public information and administrative documents as an existing initiative to give journalists, researchers, students and citizens reliable information; the date given is the ordinance's, 2011 ([source, 2011](https://anp.ne/le-niger-veut-se-doter-dune-politique-de-communication-et-dune-strategie-nationale-de-lutte-contre-la-desinformation/)).
-
-### Nigeria: 3 Established
-
-Nigeria's 2011 Freedom of Information Act is in force; no source found names rules made under it or says its oversight body is set up.
-
-- Media Rights Agenda reports that the Freedom of Information Act, 2011 is in force and gives a right of access to information held by public bodies, as shown by a Federal High Court judgment enforcing it in 2026; the year 2011 is the Act's year as named in the report ([source, 2011](https://mediarightsagenda.org/federal-high-court-rules-that-foi-act-overrides-other-laws-in-journalists-suit-against-nigeria-shippers-council/)).
-- The Federal High Court, Abuja, applies the Freedom of Information Act, 2011 as the specific, operative access to information legislation, taking precedence over the Petroleum Industry Act where they conflict ([source, 2011](http://saharareporters.com/sites/default/files/2026-01/12.%20Judgment%20%28HEDA%20v.%20NNPCL%29-min.pdf)).
 
 ### Rwanda: 3 Established
 
@@ -368,12 +376,6 @@ Mauritius had no access to information law as of February 2026, only promises of
 ### Chad: Unplaced
 
 Chad had no freedom of information law in January 2023; nothing newer is held, so no stage is set.
-
-Not established: No law or draft is on record, and no source dated in the last three years says the country has none.
-
-### South Sudan: Unplaced
-
-South Sudan's Access to Information Commission has a budget line, but no law or draft is on record, so no stage is set.
 
 Not established: No law or draft is on record, and no source dated in the last three years says the country has none.
 

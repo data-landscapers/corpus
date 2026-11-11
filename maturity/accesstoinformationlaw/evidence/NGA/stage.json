@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "3",
+      "stage": "5",
       "standing": "in-force",
-      "reach": "",
+      "reach": "applied",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-001;NGA-003",
-      "gaps": "No source found names rules made under the law or says its oversight body is set up.",
-      "note": "Counted from the four questions by study-ladder-accesstoinformationlaw.py.",
-      "as_at": "2026-11-09"
+      "stage_sources": "NGA-005;NGA-007;NGA-002",
+      "gaps": "",
+      "note": "Restaged by hand 2026-11-11 (housekeeping 57): the Ministry of Justice collects the annual FOI reports the Act requires and published 2024 and 2025 figures (NGA-007), so a body takes up oversight; with the 2026 court rulings applying the Act, every step is met.",
+      "as_at": "2026-11-11"
     }
   ]
 }

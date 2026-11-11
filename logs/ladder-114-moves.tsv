@@ -1,8 +1,8 @@
 study	iso3	sub_indicator	from	to	outcome	date
-accesstoinformationlaw	MOZ	law	5	3		
-accesstoinformationlaw	NGA	law	5	3		
-accesstoinformationlaw	SSD	law	4	unplaced		
-accesstoinformationlaw	UGA	law	5	3		
+accesstoinformationlaw	MOZ	law	5	3	gap confirmed; asked notes-for-osint 330	2026-11-11
+accesstoinformationlaw	NGA	law	5	3	restaged 5 on NGA-007 (by hand)	2026-11-11
+accesstoinformationlaw	SSD	law	4	unplaced	restaged 4 on SSD-004 (by hand)	2026-11-11
+accesstoinformationlaw	UGA	law	5	3	restaged 5 on UGA-007 by maturity 4c the same day	2026-11-11
 aiabuse	EGY	aiharm	4	2	restaged 4 on EGY-011 (by hand)	2026-11-11
 aiabuse	MOZ	aiharm	4	1	gap confirmed; asked notes-for-osint 329	2026-11-11
 aiabuse	SDN	aiharm	4	2	gap confirmed; asked notes-for-osint 329	2026-11-11
