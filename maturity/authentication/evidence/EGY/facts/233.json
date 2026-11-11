@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-23-egy-payrollorg-unified-payroll-tax-system",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "PayrollOrg says that since the 2 June launch of the Egyptian Tax Authority's unified payroll tax portal, employees register with their national ID numbers to view salary and tax breakdowns.",
+   "as_of": "2025-06-02",
+   "date_precision": "day",
+   "system": "Unified payroll tax system (ETA portal)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Unified payroll tax system (ETA portal)",
+   "country_label": "Egypt",
+   "class": "authentication",
+   "platform": "ETA website",
+   "owner": "Egyptian Tax Authority (ETax)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-01-eth-eservices-portal-landing",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The government eServices portal says it offers integrated national ID authentication to verify users' identity for access to services.",
+   "as_of": "2026-11",
+   "date_precision": "month",
+   "system": "Ethiopian Government Electronic Services Portal",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Ethiopian Government Electronic Services Portal",
+   "country_label": "eservices.gov.et",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Ethiopia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

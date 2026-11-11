@@ -1,0 +1,62 @@
+{
+ "slug": "2024-11-01-mus-cib-list-of-operational-systems",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "The Central Informatics Bureau's list of operational systems names a National Authentication Framework (MauPass) and a Certificate Authority (Mausign) under the Ministry of Information Technology, Communication and Innovation.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "National Authentication Framework (MauPass); Certificate Authority (Mausign)",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "reach",
+   "value": "several",
+   "fact": "The list names three operational authentication services of the state: MauPass, the Mausign certificate authority and the Civil Status Division's Mobile ID with its verifier app.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "MauPass; Mausign; Mobile ID - MWA",
+   "class": "authentication"
+  },
+  {
+   "sub_indicator": "authentication",
+   "aspect": "remote",
+   "value": "wallet",
+   "fact": "The list names a Civil Status Division 'Mobile ID - MWA' and a 'Mobile ID Verifier App - MWA Verifier' among operational systems.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Mobile ID - MWA",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "MauPass",
+   "country_label": "Mauritius",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  },
+  {
+   "system": "Mausign",
+   "country_label": "Mauritius",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  },
+  {
+   "system": "Mobile ID - MWA",
+   "country_label": "Mauritius",
+   "class": "authentication",
+   "platform": "",
+   "owner": "Civil Status Division",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

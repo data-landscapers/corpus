@@ -137,6 +137,7 @@ COD,National electronic certification authority (ARPTC),Democratic Republic of t
 COD,RDC-Pass,COD,other,,Ministere de l'Economie numerique,,2026-10-30-cod-rdc-pass-les-agents-denregistrement-bientot-deployes-dans-les-quartier
 COD,Fichier general de la population (FGP) / national ID card,DRC,other,Afritech/IDEMIA,ONIP,,2024-03-27-cod-rdc-l-onip-presente-le-plan-de-mise-en-uvre-du-programme-de-fichier-ge
 COD,RDC-PASS,COD,authentication,,Ministry of Digital Economy / Presidency,,2026-08-13-cod-rdc-pass-equity-bcdc-prepare-son-integration-dans-les-services-bancair
+COD,Autorite nationale de certification electronique,RDC,authentication,,Ministere de l'Economie numerique,,2026-11-10-cod-augustin-kibassa-maliba-appelle-les-dsi-a-devenir-les-archit
 COG,NIU (numero d'identification unique),Congo,other,,,,2025-09-09-campagne-distribution-cni-niu-pointe-noire-ldb
 COG,CNI (carte nationale d'identite),Congo,other,,,,2025-09-09-campagne-distribution-cni-niu-pointe-noire-ldb
 COG,NIU (Numero d'identification unique),Congo,other,,"Ministere des finances, du budget et du portefeuille public",,2025-10-23-cog-relance-des-operations-de-production-de-la-carte-niu
@@ -223,6 +224,7 @@ EGY,Digital Identity app,Egypt,authentication,mobile app,Government of Egypt,,20
 EGY,Biometric verification and e-signature system,Egypt,authentication,CyShield,NTRA / MCIT,,2026-08-26-egy-mcit-biometric-verification-e-signature-system-launch
 EGY,Haweya,Egypt,authentication,,Haweya (under Central Bank of Egypt sponsorship),,2026-09-22-egy-fintechgate-haweya-digital-id-five-banks-18-months
 EGY,e-KYC,Egypt,authentication,,Financial Regulatory Authority (regulator),,2026-11-07-egy-cairo-ict-2026-fra-chairman-highlights-digital-transformation-in-non-b
+EGY,Unified payroll tax system (ETA portal),Egypt,authentication,ETA website,Egyptian Tax Authority (ETax),,2025-07-23-egy-payrollorg-unified-payroll-tax-system
 ETH,VeriFayda eKYC,Ethiopia,other,Fayda (eSignet),Faydaverse,,2026-10-09-eth-biometricupdate-fayda-developer-sandbox
 ETH,Fayda eKYC,Ethiopia,other,Fayda,Ethiopia National ID Program (now Faydaverse),,2026-08-24-fayda-digital-id-49-1m-enrolments-ethiopia-biometricupdate
 ETH,VeriFayda eKYC,Ethiopia,other,Fayda,FaydaVerse,,2026-10-03-banks-baulk-at-a-bill-from-public-id-that-turns-commercial
@@ -270,6 +272,7 @@ ETH,MOSIP-based national ID,Ethiopia national ID,other,MOSIP,,,2025-12-01-mosip-
 ETH,Fayda,Fayda,other,MOSIP,National ID Program,,2024-01-01-eth-fayda-digital-id-ethiopia-status-update
 ETH,VeriFayda KYC,Ethiopia,authentication,,NIDP,,2026-05-21-tgo-direction-for-open-source-dpi-sustainability-local-ownership-establish
 ETH,Fayda,Fayda digital ID,authentication,,National ID Programme,,2025-03-24-eth-bbc-amharic-eight-things-to-know-about-fayda-id
+ETH,Ethiopian Government Electronic Services Portal,eservices.gov.et,other,,Government of Ethiopia,,2026-11-01-eth-eservices-portal-landing
 GAB,Declaration unique des salaires (DUS),Gabon,other,Gabon Connect (built with Ika Technology),"DGI, CNSS, CNAMGS",,2026-04-29-gabon-dus-tournant-numerique-transparence-salariale
 GAB,Registre biometrique des personnes physiques (RBPP),Gabon,other,,Government of Gabon (Ministry of Interior),,2025-06-23-gabon-legal-digital-id-three-projects
 GAB,Systeme national d'identite digitale (SNID),Gabon,other,,ANINF / Government of Gabon,,2025-06-23-gabon-legal-digital-id-three-projects
@@ -356,6 +359,7 @@ GMB,National Identity Management System,The Gambia,other,,Ministry of Interior,,
 GNB,ECOWAS biometric Identity Card (ENBIC),Guinea-Bissau,other,,ECOWAS,,"2026-03-16 Women traders receive ECOWAS biometric ID in Sao Domingos, Guinea-Bissau"
 GNB,national biometric ID card (ENBIC),Guinea-Bissau,other,,,,"2025-06-10 Guinea-Bissau deploys efforts to digitize birth registration, national ID systems"
 GNB,SIREC (Integrated System of Citizen Registers and Statistics),Guinea-Bissau,other,,"Civil Registration Office, Ministry of Justice",,"2025-06-10 Guinea-Bissau deploys efforts to digitize birth registration, national ID systems"
+GNQ,SIGEF,Equatorial Guinea,other,,Treasury and State Property department,,2026-11-09-equatorial-guinea-sigef-biometric-civil-servant-register
 KEN,Kenya CRVS-National ID integration,Kenya,other,,Civil Registration Services,,2026-07-18-kenya-crvs-national-id-integration-egmrg
 KEN,IPRS,Kenya,other,,,,2026-07-18-kenya-crvs-national-id-integration-egmrg
 KEN,Social Health Authority (SHA) system,Kenya,other,,Social Health Authority,,2026-06-15-expands-digital-id-minors-health-biometricupdate
@@ -459,6 +463,7 @@ MOZ,Centro Pronto,Mozambique,other,VFS Global partnership,ATDI,,2026-10-26-moz-c
 MOZ,Mozambique Digital Certification System,Mozambique,authentication,,,,2025-05-27-moz-ict-legal-and-regulatory-framework-for-the-development-of-digital-iden
 MOZ,Advanced Digital Signer,MOZ,authentication,INTIC portal,INTIC,,2025-04-24-moz-e-m-magazine-the-role-of-government-institutions-in-the-digital-world
 MOZ,Digital signature platform,Mozambique,authentication,,Government,,2026-02-12-moz-mozambique-govt-wants-private-sector-active-in-nation-s-digital-transf
+MOZ,e-BAU,Mozambique,other,,Government of Mozambique,,2026-08-03-moz-atividades-economicas-de-baixo-risco-em-mocambique-com-certidao-em-dua
 MRT,Houwiyeti,Mauritania,other,mobile app,ANRPTS,,2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty
 MRT,Khadamati,Mauritania,other,app,,,2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty
 MRT,Private financial applications (unnamed),Mauritania,other,,,,2026-08-11-mauritania-houwiyeti-outage-digital-sovereignty
@@ -494,6 +499,9 @@ MUS,MauPass,MauPass,authentication,,Government of Mauritius,,2025-08-21-mus-mitc
 MUS,KOREK! (Mobile ID),Mauritius,authentication,mobile app,Ministry of ICT,,2026-06-01-mus-ministere-des-technologies-de-l-information-et-de-la-communication-une
 MUS,Mobile ID (Mobile Wallet Application),Mauritius,authentication,Thales with Harel Mallac Technologies,"Ministry of Information Technology, Communication and Innovation",,2024-08-30-mus-carte-d-identite-la-mobile-id-est-une-realite
 MUS,MauPass / MauSign (Digital ID Wallet),Mauritius,authentication,Thales,Prime Minister's Office,,2024-05-22-mus-mauritius-pioneering-next-generation-id-system
+MUS,MauPass,Mauritius,authentication,,"Ministry of Information Technology, Communication and Innovation",,2024-11-01-mus-cib-list-of-operational-systems
+MUS,Mausign,Mauritius,authentication,,"Ministry of Information Technology, Communication and Innovation",,2024-11-01-mus-cib-list-of-operational-systems
+MUS,Mobile ID - MWA,Mauritius,authentication,,Civil Status Division,,2024-11-01-mus-cib-list-of-operational-systems
 MWI,Biometric SIM registration,Malawi,other,NRB systems integration,Airtel; TNM,,2026-02-01-mwi-undp-idt4m-annual-report-2025
 MWI,Malawi Social Registry (MSR),Malawi,other,NRB integration module,,,2026-02-01-mwi-undp-idt4m-annual-report-2025
 MWI,Biometric KYC pilots,Malawi,other,NRB verification gateway,Standard Bank; First Capital Bank; National Bank; Centenary Bank; Old Mutual,,2026-02-01-mwi-undp-idt4m-annual-report-2025

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-08-03-moz-atividades-economicas-de-baixo-risco-em-mocambique-com-certidao-em-dua",
+ "facts": [
+  {
+   "sub_indicator": "authentication",
+   "aspect": "service",
+   "value": "underway",
+   "fact": "Lusa reports that Decree 40/2026 of Mozambique's Council of Ministers introduces secure digital identification mechanisms and lets acts in the low-risk business procedure be validated by electronic signature, with the regime due to take effect within 90 days.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "Decreto n.º 40/2026 (Mera Comunicação Prévia)",
+   "class": "authentication"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-BAU",
+   "country_label": "Mozambique",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Mozambique",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
