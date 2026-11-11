@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-10-gov-za-home-affairs-launches-first-phase-digital-asylum-system",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "Home Affairs says its new portal on Myhomeaffairsonline for recording an intention to apply for asylum is live for a first batch of test cases, with public intake after the next weekend release.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Digital Asylum System, first phase",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Asylum System",
+   "country_label": "Digital Asylum System",
+   "class": "eservices",
+   "platform": "Myhomeaffairsonline",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

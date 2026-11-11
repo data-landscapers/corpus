@@ -1,0 +1,26 @@
+{
+ "slug": "2024-10-01-sle-africa-regional-forum-on-data-governance-and-digital-government",
+ "facts": [
+  {
+   "sub_indicator": "eservices",
+   "aspect": "services",
+   "value": "underway",
+   "fact": "A Government of Sierra Leone presentation lists a unified website and central government service portal, and MDA-specific online services, among its e-government successes and ongoing efforts, with no count of services.",
+   "as_of": "2024-10-01",
+   "date_precision": "day",
+   "system": "Central Government Service Portal",
+   "class": "eservices"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Central Government Service Portal",
+   "country_label": "Unified website and Central Government Service Portal",
+   "class": "eservices",
+   "platform": "",
+   "owner": "Government of Sierra Leone",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-04-ago-agt-pretende-integrar-dois-milhoes-de-contribuintes-no-sistema-de-facturacao",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sistema de facturação electrónica",
+   "country_label": "AGT e-invoicing",
+   "class": "other",
+   "platform": "",
+   "owner": "AGT",
+   "tiers": ""
+  }
+ ],
+ "note": "Tax agency e-invoicing system used by that agency only; no portal of several services stated."
+}

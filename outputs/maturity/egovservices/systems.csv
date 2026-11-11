@@ -3,6 +3,7 @@ AGO,SEPE (Sistema Electrónico de Serviços Públicos),Angola,eservices,web port
 AGO,Simplifica 1.0 and 2.0,Angola,eservices,www.sepe.gov.ao,State Reform Program,,2025-05-21-ago-sjasc-new-technologies-public-management-barrier
 AGO,Portal dos Serviços Públicos Electrónicos (SEPE),Angola,eservices,portal,,,2026-10-29-ago-pti-homologacao-diplomas-codigo-qr-inaarees
 AGO,Portal SIMPLIFICA,Angola,eservices,,IMA,,2026-10-29-ago-pti-ima-concurso-internacional-portal-simplifica
+AGO,Sistema de facturação electrónica,AGT e-invoicing,other,,AGT,,2026-11-04-ago-agt-pretende-integrar-dois-milhoes-de-contribuintes-no-sistema-de-facturacao
 BDI,Chatbot WhatsApp OBR,Chatbot WhatsApp OBR,other,WhatsApp,OBR,,2026-09-01-bdi-l-obr-lance-officiellement-son-chatbot-whatsapp-l-assistance-fiscale-e
 BDI,Portail e-Gouv,Burundi,other,national e-government portal (tender),PAFEN / World Bank-financed,,2026-10-29-bdi-consulting-digitale-verwaltungsdienstleistungen-e-gov
 BDI,Portail e-Gouv,Burundi,eservices,,"PAFEN / SETIC, Ministry of Finance, Budget and the Digital Economy",,2026-10-20-bdi-wb-op00476457-pafen-portail-e-gouv-rfp
@@ -31,6 +32,7 @@ BEN,service-public.bj,Benin,eservices,national portal,Ministry of Digital Affair
 BEN,service-public.bj,Bénin,eservices,,,,2026-11-02-ben-benin-comment-fonctionne-le-portail-numerique-des-services-publics
 BEN,service-public.bj,Benin,eservices,web portal,Government of Benin,national,2026-11-03-benin-casier-judiciaire-instantane
 BEN,eservices.anip.bj / ANIP BJ,Benin,eservices,web platform and mobile app,ANIP,,2026-11-03-ben-modernisation-des-services-d-identification-au-b-nin-l-anip-acc-l-re-s
+BEN,eservices.anip.bj,Benin,eservices,web and ANIP BJ mobile app,ANIP,,2025-03-01-ben-anip-carte-identite-biometrique-prestations
 BFA,Service Public BF,Burkina Faso,eservices,service-public.gov.bf,Government of Burkina Faso,national,2026-05-07-burkina-faso-central-portal-e-services
 BFA,Lanaya and e-BDT,Burkina Faso,other,,Public treasury,national,2026-05-07-burkina-faso-central-portal-e-services
 BFA,Service Public BF,Burkina Faso,eservices,service-public.gov.bf,Government of Burkina Faso,national,2026-02-20-service-public-bf-lancement-portail-v2
@@ -189,12 +191,15 @@ KEN,eCitizen,eCitizen,eservices,,Government of Kenya,,2025-06-03-ken-govt-pledge
 KEN,eCitizen,Kenya,eservices,,State Department for Immigration and Citizen Services,,2024-12-27-ken-state-collects-sh900m-per-day-on-ecitizen-as-users-hit-13-5-million
 KEN,eCitizen,Kenya,eservices,,Government of Kenya,,2024-10-02-ken-ecitizen-revenue-increased-by-ksh-74b-in-one-year-mbadi
 KEN,eCitizen,Kenya,eservices,,Government of Kenya,,2026-05-01-ken-the-kenya-digital-identity-playbook-identity-as-foundation-of-digital
+KEN,eCitizen,eCitizen,other,,,,2026-04-29-ken-techweez-icta-interoperability-framework-connected-africa
+KEN,e-Citizen,e-Citizen,eservices,,Government of Kenya,,2024-06-01-ken-kippra-leveraging-digitalization-public-service-delivery
 LBR,LRA eServices,Liberia,other,,Liberia Revenue Authority,,2026-04-07-liberia-lra-adjustment-goods-and-services-tax-rates
 LBR,LITAS,Liberia,other,,,,2025-11-06-liberia-great-project-implementation-status-results-report-seq3
 LBR,e-GP,Liberia,other,,PPCC,,2025-11-06-liberia-great-project-implementation-status-results-report-seq3
 LBR,eLiberia National ePortal,Liberia,eservices,,Ministry of Posts and Telecommunications,,2018-08-17-lbr-frontpageafrica-eliberia-national-eportal
 LBR,e-Liberia Platform,e-Liberia Platform,other,,Office of the Chief Information Officer,,2026-10-20-lbr-liberia-to-digitalize-16-key-government-services-with-world-bank-s
 LBR,Online Duty-Free Application Platform,Online Duty-Free Application Platform,eservices,,Liberia Revenue Authority,,2025-07-06-lbr-lra-digitizes-rural-customs-offices-rolls-out-online-duty-free-platfor
+LBR,Fatu virtual taxpayer contact center,LRA virtual taxpayer contact center,other,,Liberia Revenue Authority,,2026-11-08-lbr-lra-commissioner-general-highlights-revenue-growth-accountability-and
 LBY,e-government portal,Libya,eservices,,"Ministry of Interior, GNU",,2024-03-03-lby-alwasat-e-services-package-launch
 LBY,Electronic visa unit,Libya,eservices,,"Passports, Nationality and Foreigners Affairs Authority",,2026-10-29-lby-lana-passports-authority-773-evisa-applications-week
 LBY,Dawlati platform,Libya,eservices,,Government Communication Centre,,2024-12-26-lby-cabinet-decision-705-2024-dawlati-platform
@@ -325,6 +330,7 @@ SLE,One Government Platform,Sierra Leone,eservices,,Ministry of Communications a
 SLE,WanGov,Sierra Leone,eservices,mobile app,"Ministry of Communication, Technology and Innovation",,2025-02-04-sle-sierraloaded-wangov-app-launch
 SLE,WanGov,Sierra Leone,eservices,government portal,Government of Sierra Leone,,2026-07-30-sle-government-launches-online-portal-for-police-clearance-applications
 SLE,Online Business Registration System,Sierra Leone,eservices,,National Investment Board,,2026-11-06-sle-communication-minister-explores-nib-s-new-online-business-re
+SLE,Central Government Service Portal,Unified website and Central Government Service Portal,eservices,,Government of Sierra Leone,,2024-10-01-sle-africa-regional-forum-on-data-governance-and-digital-government
 SOM,Content Management System (CMS),Somalia,eservices,Typo3,Ministry of Communication and Technology,,2024-09-29-som-govstack-digital-leaders-spotlight-somalia
 SOM,High School Records (HSR),Somalia,eservices,Joget,Ministry of Education,,2024-09-29-som-govstack-digital-leaders-spotlight-somalia
 SOM,Halmeel unified digital government services platform,Halmeel,other,,Unified Public Service Delivery Center (Halmeel),,2026-10-19-som-biometricupdate-halmeel-unified-platform-national-id
@@ -434,6 +440,7 @@ ZAF,MyMzansi,South Africa,eservices,,government,,2026-10-30-zaf-operation-vulind
 ZAF,Gov.za shared website platform,South Africa,other,,government,,2026-10-30-zaf-operation-vulindlela-implementation-continues-to-make-strides
 ZAF,National e-Government Portal,South Africa,eservices,www.eservices.gov.za,SITA,,2024-04-05-zaf-government-accelerates-programme-to-connect-citizens-to-internet
 ZAF,e-Gov portal,South Africa,eservices,,SITA,,2024-02-16-zaf-sita-to-ramp-up-access-to-digitised-govt-services
+ZAF,Digital Asylum System,Digital Asylum System,eservices,Myhomeaffairsonline,Department of Home Affairs,,2026-11-10-gov-za-home-affairs-launches-first-phase-digital-asylum-system
 ZMB,National Public Key Infrastructure (NPKI),Zambia,other,,ZICTA,,2026-09-15-zmb-techafricanews-national-digital-trust-infrastructure-public-key
 ZMB,ZamPass,Zambia,other,"open-source SSO, OpenID Connect",Smart Zambia Institute,,2026-08-29-zambia-zampass-about
 ZMB,Citizen Support Services Portal,Zambia,other,,,,2026-08-24-govt-pushes-digitalisation-to-expand-services
@@ -444,7 +451,9 @@ ZMB,Citizen Support Services Portal,Zambia,other,,Ministry of Labour and Social 
 ZMB,Zambia Employment and Labour Market Information System (ZELMIS),Zambia,other,Government Services Bus,Ministry of Labour and Social Security,,2026-08-23-efficacynews-zambia-labour-ministry-digital-services
 ZMB,ZamPortal,ZamPortal,eservices,GSB,"Electronic Government Division, SMART Zambia Institute",,2024-09-11-zmb-zamportal-director-sibulowa-introduces-gsb
 ZMB,ZamPay,Zambia,other,,Smart Zambia Institute,,2024-12-11-zmb-smart-zambia-dzap-general-procurement-notice
+ZMB,ZamPortal,ZamPortal,other,,,,2026-11-09-zmb-zambia-national-ict-survey-digital-gap
 ZWE,Government Service Bus and online portal,Zimbabwe,other,,e-Government Unit / Ministry of ICT,,2026-05-08-zwe-mavetera-enterprise-architecture-linkedin
 ZWE,e-government procurement system,Zimbabwe,other,,Ministry of Finance,,2026-08-08-zimbabwe-budget-transparency-e-procurement
 ZWE,ZimConnect,Zimbabwe,eservices,,Ministry of ICT,,2016-03-04-zwe-techzim-zimconnect-online-company-registration
 ZWE,e-passport system,Zimbabwe,other,,Civil Registry Department,,2026-03-02-zwe-zimbabwe-to-fully-automate-passport-applications-before-year-end
+ZWE,Smart Traffic Management System,Smart Traffic Management System,other,ANPR cameras,Zimbabwe Republic Police,,2026-11-10-zwe-zimbabwe-smart-traffic-database

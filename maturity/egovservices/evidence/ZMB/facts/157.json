@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-09-zmb-zambia-national-ict-survey-digital-gap",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ZamPortal",
+   "country_label": "ZamPortal",
+   "class": "other",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Only 7.7% awareness of ZamPortal is given, not users or services."
+}
