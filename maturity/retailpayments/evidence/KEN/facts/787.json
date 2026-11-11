@@ -1,0 +1,44 @@
+{
+ "slug": "2026-11-10-m-pesa-pesalink-pricing-gaps",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "TechCabal reports M-PESA, with more than 260,000 agents, and Airtel Money are in service for transfers, cash withdrawals and bill payments in Kenya.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "M-PESA",
+   "class": "retail"
+  },
+  {
+   "sub_indicator": "retail",
+   "aspect": "interop",
+   "value": "interop",
+   "fact": "TechCabal reports banks have charged fees for transfers between bank accounts and mobile wallets in Kenya, so such transfers are in service.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "M-PESA",
+   "class": "retail"
+  }
+ ],
+ "systems": [
+  {
+   "system": "M-PESA",
+   "country_label": "Kenya",
+   "class": "retail",
+   "platform": "",
+   "owner": "Safaricom",
+   "tiers": ""
+  },
+  {
+   "system": "PesaLink",
+   "country_label": "Kenya",
+   "class": "other",
+   "platform": "",
+   "owner": "Integrated Payment Services Limited",
+   "tiers": "80 institutions, all 38 licensed commercial banks"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-01-ken-kippra-leveraging-digitalization-public-service-delivery",
+ "facts": [
+  {
+   "sub_indicator": "retail",
+   "aspect": "service",
+   "value": "inservice",
+   "fact": "KIPPRA says mobile money transactions rose from Ksh 364.5 billion to Ksh 708.06 billion between March 2020 and December 2022.",
+   "as_of": "2022-12",
+   "date_precision": "month",
+   "system": "mobile money",
+   "class": "retail"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
