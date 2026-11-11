@@ -57,13 +57,13 @@ coresystems	UGA	core	5	unplaced	restaged 5 on UGA-005 to UGA-008 (by hand)	2026-
 crossborderpayments	BDI	crossborder	4	2		
 crossborderpayments	GNB	crossborder	4	unplaced		
 crossborderpayments	SYC	crossborder	4	2		
-customs	BDI	customs	5	2		
-customs	GHA	customs	5	3		
-customs	LBR	customs	5	3		
-customs	MLI	customs	5	3		
-customs	NER	customs	5	2		
-customs	RWA	customs	5	3		
-customs	TGO	customs	5	3		
+customs	BDI	customs	5	2	restaged 5 on BDI-004 (by hand)	2026-11-11
+customs	GHA	customs	5	3	gap confirmed; asked notes-for-osint 318	2026-11-11
+customs	LBR	customs	5	3	gap confirmed; asked notes-for-osint 318	2026-11-11
+customs	MLI	customs	5	3	gap confirmed; asked notes-for-osint 318	2026-11-11
+customs	NER	customs	5	2	restaged 5 on NER-007 (by hand)	2026-11-11
+customs	RWA	customs	5	3	restaged 5 on RWA-005 (by hand)	2026-11-11
+customs	TGO	customs	5	3	restaged 5 on TGO-006 (by hand)	2026-11-11
 cybersecurity	AGO	readiness	4	2		
 cybersecurity	COD	readiness	4	2		
 cybersecurity	MAR	readiness	5	3		

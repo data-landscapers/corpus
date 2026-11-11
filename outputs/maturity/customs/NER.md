@@ -2,7 +2,7 @@
 
 ## Customs
 
-**Automated customs.** [Customs directors general of the Sahel Confederation (AES) states and Togo reviewed in Lome the interconnection of their customs IT systems, under instruments signed at Niamey on 23 July 2024 that set the legal framework for it](<https://douanes.gouv.ml/node/418>).
+**Automated customs.** [The statistics institute's 2024 trade bulletin says customs enters declarations and receipts in SYDONIA](<https://www.stat-niger.org/wp-content/uploads/annuaire_bulletin/bulletin/Bulletin_des_Statistiques_annuelles_definitives_2024_VF.pdf>). It is the customs directorate's automated system. [In Lomé the customs heads of the Sahel states and Togo reviewed linking their customs systems](<https://douanes.gouv.ml/node/418>). Instruments signed at Niamey in July 2024 set the legal frame.
 
 **Single window.** [Webb Fontaine says the GUCE-Niger single window, launched in 2022, connects Customs, the finance, trade, agriculture, livestock and health ministries and the chamber of commerce on one platform with banks and trade operators](<https://webbfontaine.com/fr/success-stories-niger-is-transforming-foreign-trade-procedures-with-webb-single-window>). [The Minister of Economy and Finance said the Dossier virtuel de transaction is implemented through GUCE-Niger, the foreign trade single window, to ease exchanges between operators and the administrations concerned, with DVT control integrated into processing of operations from 1 July 2026](<https://www.lesahel.org/reformes-du-systeme-de-gestion-du-commerce-exterieur-lancement-officiel-de-la-campagne-de-sensibilisation-sur-le-dossier-virtuel-de-transaction-dvt/>).
 
@@ -10,4 +10,4 @@
 
 ***Also on file***. None found.
 
-***Not found***. No source found says customs declarations are processed in an automated system. The main port, airport and border posts were looked for.
+***Not found***. Nothing further is asked of this indicator.

@@ -123,3 +123,7 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,NER,dpi.mis--customs,ladder,5,2,NER-005,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 2."
 2026-11-09,RWA,dpi.mis--customs,ladder,5,3,RWA-002,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
 2026-11-09,TGO,dpi.mis--customs,ladder,5,3,TGO-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-11,BDI,dpi.mis--customs,ladder,2,5,BDI-004;BDI-001;BDI-003,"Restaged under message 114 (housekeeping 57): the 2024 statistical yearbook builds trade figures from Sydonia World; with the single window and the EAC platform, 2 to 5."
+2026-11-11,NER,dpi.mis--customs,ladder,2,5,NER-007;NER-004;NER-006,"Restaged under message 114 (housekeeping 57): the 2024 trade bulletin says customs enters declarations in SYDONIA; with GUCE-Niger and SIGMAT, 2 to 5."
+2026-11-11,RWA,dpi.mis--customs,ladder,3,5,RWA-002;RWA-005;RWA-004,"Restaged under message 114 (housekeeping 57): the 2025 Tax Handbook names the Rwanda electronic Single Window; with the EAC platform, 3 to 5."
+2026-11-11,TGO,dpi.mis--customs,ladder,3,5,TGO-001;TGO-006;TGO-004,"Restaged under message 114 (housekeeping 57): free-zone manifests pass through the foreign-trade single window from December 2025; with SIGMAT, 3 to 5."
