@@ -20,9 +20,9 @@ The Africa CDC Digital Transformation Strategy asks for national digital health 
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 10 |
+| 5 Leading | 11 |
 | 4 Operating | 5 |
-| 3 Established | 25 |
+| 3 Established | 24 |
 | 2 Nascent | 8 |
 | 1 Absent | 0 |
 | Unplaced | 1 |
@@ -54,6 +54,14 @@ Madagascar published its national health reporting rate, 98% of facility reports
 
 - mTOMADY says DHIS2 is the national health data system used by the Ministry of Public Health in Madagascar ([source, 2025-10-07](https://www.linkedin.com/posts/mtomady_digitalhealth-interoperability-dhis2-activity-7381257757754150912-s2DE)).
 - Monthly facility reporting completeness held at 98% in 2024 and 2025, and districts with complete reporting rose from 92% to 94%, per the Countdown 2030 synthesis ([source, 2025](https://www.countdown2030.org/wp-content/uploads/2026/09/Madagascar.pdf)).
+
+### Namibia: 5 Leading
+
+Namibia's national DHIS2 takes data automatically from a patient tracker and received 96% of expected facility reports in 2024.
+
+- Countdown to 2030 reports national health facility data from DHIS2 for 2019-2024, with 96% of expected monthly facility reports received nationally in 2024 and 93% of districts at 90% completeness or better ([source, 2024](https://www.countdown2030.org/wp-content/uploads/2025/09/Namibia-Synthesis-Report.pdf)).
+- UCSF's Namibia technical assistance page says PTracker, the patient-level PMTCT tracking system, automatically submits aggregated data to DHIS2 and the National Data Warehouse ([source, 2025](https://informaticshub.ucsf.edu/node/116)).
+- Countdown to 2030 gives national DHIS2 completeness of monthly facility reporting as 86% in 2019 rising to 96% of expected monthly reports in 2024 ([source, 2024](https://www.countdown2030.org/wp-content/uploads/2025/09/Namibia-Synthesis-Report.pdf)).
 
 ### Rwanda: 5 Leading
 
@@ -236,13 +244,6 @@ A national health information system was in service in 2025; links to other heal
 
 - The Countdown 2030 chartbook report assesses national DHIS2 health-facility data for 2019-2024 by district and region, covering national trends, and reports that district report completeness is low against target ([source, 2025](https://www.countdown2030.org/wp-content/uploads/2025/09/MAURITANIE-Chartbook-Report-CAM-2025.pdf.pdf)).
 - Countdown to 2030 and APHRC held a national workshop on 3-7 November 2025 training district-level focal points to analyse and use data from Mauritania's National Health Information System (SNIS), with practical sessions in DHIS2 ([source, 2025-11](https://www.countdown2030.org/countdown-news/strengthening-the-use-of-srmnia-nutrition-data-for-action-in-mauritania)).
-
-### Namibia: 3 Established
-
-Namibia's national health information system received 96% of expected facility reports in 2024; links to other health systems are not known.
-
-- Countdown to 2030 reports national health facility data from DHIS2 for 2019-2024, with 96% of expected monthly facility reports received nationally in 2024 and 93% of districts at 90% completeness or better ([source, 2024](https://www.countdown2030.org/wp-content/uploads/2025/09/Namibia-Synthesis-Report.pdf)).
-- The US CDC says it supports the health ministry with the national health information management system (DHIS2), which collects aggregated data and produces summary reports, giving staff from health facilities up to national programmes access to information ([source, 2024-10-04](https://dev2.restoredcdc.org/www.cdc.gov/global-health/media/pdfs/2024/11/Namibia-2024-Fact-Sheet.pdf)).
 
 ### Nigeria: 3 Established
 

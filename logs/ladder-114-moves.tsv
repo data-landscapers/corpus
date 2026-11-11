@@ -115,11 +115,11 @@ eparticipation	CIV	eparticipation	4	2
 eparticipation	LBR	eparticipation	4	unplaced		
 feedbackportals	MRT	feedback	5	3		
 healthexchange	TUN	exchange	5	3		
-healthmis	AGO	hmis	5	3		
-healthmis	NAM	hmis	5	3		
-healthmis	NGA	hmis	5	3		
-healthmis	SDN	hmis	5	3		
-healthmis	UGA	hmis	5	3		
+healthmis	AGO	hmis	5	3	gap confirmed; asked notes-for-osint 324	2026-11-11
+healthmis	NAM	hmis	5	3	restaged 5 on NAM-004 (by hand)	2026-11-11
+healthmis	NGA	hmis	5	3	gap confirmed; asked notes-for-osint 324	2026-11-11
+healthmis	SDN	hmis	5	3	gap confirmed; asked notes-for-osint 324	2026-11-11
+healthmis	UGA	hmis	5	3	gap confirmed; asked notes-for-osint 324	2026-11-11
 idmaintenance	GIN	maintenance	5	2		
 idmaintenance	SLE	maintenance	5	3		
 idmaintenance	SOM	maintenance	5	3		
