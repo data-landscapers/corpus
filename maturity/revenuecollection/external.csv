@@ -1,0 +1,163 @@
+claim,source,survey_year,iso3,item,question,status,name,year,fit,outcome,slug,row_ids,note
+gtmi-0166a33570,gtmi,2020,AGO,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-823628159d,gtmi,2022,AGO,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-e0214ce260,gtmi,2025,AGO,I-22,Are e-Payment services available?,2 Yes (in use),,,same,read-before,2025-07-01-ago-bna-electronic-payments-2024-74-trillion-kwanzas,,"reading list 169, already read for this study"
+gtmi-187fbbab24,gtmi,2022,BDI,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-eaa78c19dc,gtmi,2020,BDI,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-fac38fee71,gtmi,2025,BDI,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BDI-002
+gtmi-2ba2969b46,gtmi,2020,BEN,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-586ea6f30b,gtmi,2025,BEN,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BEN-001
+gtmi-e807facb39,gtmi,2022,BEN,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-5d57800f66,gtmi,2020,BFA,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-9c429a7e3d,gtmi,2025,BFA,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BFA-001
+gtmi-cb04c058df,gtmi,2022,BFA,I-22,Are e-Payment services available?,1 Implementation in progress,,,same,superseded,,,the 2025 round answers it
+gtmi-b21cc5481a,gtmi,2025,BWA,I-22,Are e-Payment services available?,1 Implementation in progress,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BWA-001
+gtmi-ce0ab6382b,gtmi,2020,BWA,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-f0d9da73ef,gtmi,2022,BWA,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-10769aadcb,gtmi,2022,CAF,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-86aa846ac9,gtmi,2020,CAF,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-aa0b9a3f81,gtmi,2025,CAF,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CAF-001
+gtmi-487e71b9bd,gtmi,2020,CIV,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-4d614df129,gtmi,2025,CIV,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CIV-001
+gtmi-e655cd7262,gtmi,2022,CIV,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-636bb9411d,gtmi,2020,CMR,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-9c3f981a0e,gtmi,2022,CMR,I-22,Are e-Payment services available?,1 Implementation in progress,,,same,superseded,,,the 2025 round answers it
+gtmi-a17c754b95,gtmi,2025,CMR,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CMR-001
+gtmi-9b5f0fd8a9,gtmi,2022,COD,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-a6d3bc2522,gtmi,2020,COD,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-b973e118d3,gtmi,2025,COD,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as COD-003
+gtmi-7aec00054b,gtmi,2020,COG,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-ab7e40b4fa,gtmi,2025,COG,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as COG-001
+gtmi-d1105e344b,gtmi,2022,COG,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-0154b8b5f5,gtmi,2020,COM,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-b3427ea812,gtmi,2022,COM,I-22,Are e-Payment services available?,1 Implementation in progress,,,same,superseded,,,the 2025 round answers it
+gtmi-cfcdae6597,gtmi,2025,COM,I-22,Are e-Payment services available?,1 Implementation in progress,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as COM-001
+gtmi-35a2361a1f,gtmi,2025,CPV,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CPV-001
+gtmi-c33dcb5857,gtmi,2020,CPV,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-e31397548c,gtmi,2022,CPV,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-b6c283ba78,gtmi,2025,DJI,I-22,Are e-Payment services available?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-ddcb4ef954,gtmi,2020,DJI,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-e9eaec2577,gtmi,2022,DJI,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-32a447ae3c,gtmi,2025,DZA,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as DZA-001
+gtmi-5cbb10c291,gtmi,2022,DZA,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-7d6ded1849,gtmi,2020,DZA,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-16bb09e448,gtmi,2020,EGY,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-ce8692ae8c,gtmi,2022,EGY,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-d9e3bf6a55,gtmi,2025,EGY,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2023-07-01-egy-fintech-egypt-landscape-report-2023,,held as EGY-009
+gtmi-01124dbb4a,gtmi,2022,ERI,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-7e89fed7da,gtmi,2020,ERI,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-c56597a51c,gtmi,2025,ERI,I-22,Are e-Payment services available?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-3e7be33621,gtmi,2022,ETH,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-8a5ebfbc0a,gtmi,2020,ETH,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-d1e4fc2f7a,gtmi,2025,ETH,I-22,Are e-Payment services available?,2 Yes (in use),,,same,read-before,2026-11-01-eth-eservices-portal-landing,,"reading list 420, already read for this study"
+gtmi-1ad40d87d6,gtmi,2020,GAB,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-51ee5052b0,gtmi,2025,GAB,I-22,Are e-Payment services available?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-91206c5ff5,gtmi,2022,GAB,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-11be31264c,gtmi,2020,GHA,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-156c5c6ef0,gtmi,2022,GHA,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-c7699cbda5,gtmi,2025,GHA,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as GHA-001
+gtmi-23f63a4a65,gtmi,2022,GIN,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-d7f59e2413,gtmi,2025,GIN,I-22,Are e-Payment services available?,1 Implementation in progress,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as GIN-001
+gtmi-f5178ec60b,gtmi,2020,GIN,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-1b5f190322,gtmi,2020,GMB,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-9944c363e0,gtmi,2022,GMB,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-a3d0a70b55,gtmi,2025,GMB,I-22,Are e-Payment services available?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-1bd147d4f1,gtmi,2020,GNB,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-8563083288,gtmi,2022,GNB,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-e5a8fb0316,gtmi,2025,GNB,I-22,Are e-Payment services available?,2 Yes (in use),,,same,fact,2026-01-12-kontaktu-mef-gw-portal,GNB-002,
+gtmi-05e3a59cec,gtmi,2022,GNQ,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-57a4cf2dd7,gtmi,2025,GNQ,I-22,Are e-Payment services available?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-83bbe294ba,gtmi,2020,GNQ,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-08cb11139d,gtmi,2022,KEN,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-c0b942773b,gtmi,2025,KEN,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as KEN-001
+gtmi-ccffdd0eb6,gtmi,2020,KEN,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-4b6c9250cf,gtmi,2025,LBR,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as LBR-002
+gtmi-4e99ec751b,gtmi,2020,LBR,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-a2584ddb95,gtmi,2022,LBR,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-5e31363bd7,gtmi,2022,LBY,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-7a11e5bb36,gtmi,2020,LBY,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-ff8eb64adc,gtmi,2025,LBY,I-22,Are e-Payment services available?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-302d24e728,gtmi,2022,LSO,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-7ef7545a5f,gtmi,2025,LSO,I-22,Are e-Payment services available?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-b37e390e5d,gtmi,2020,LSO,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-30bf0632c4,gtmi,2025,MAR,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MAR-002
+gtmi-492a3757ad,gtmi,2022,MAR,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-e02eea7bed,gtmi,2020,MAR,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-5303ffa52a,gtmi,2025,MDG,I-22,Are e-Payment services available?,1 Implementation in progress,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MDG-001
+gtmi-77344985c7,gtmi,2020,MDG,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-f552666ebd,gtmi,2022,MDG,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-92241f85d2,gtmi,2025,MLI,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MLI-003
+gtmi-9542b4bfbc,gtmi,2020,MLI,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-f5aabbb970,gtmi,2022,MLI,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-2abb2bfc4b,gtmi,2020,MOZ,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-335962832d,gtmi,2022,MOZ,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-5d3e8f4010,gtmi,2025,MOZ,I-22,Are e-Payment services available?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-9095d76bb3,gtmi,2025,MRT,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,link is a bank app download page
+gtmi-9359cc6997,gtmi,2020,MRT,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-f14534bc62,gtmi,2022,MRT,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-026ec932b0,gtmi,2025,MUS,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2024-07-01-mus-bom-monthly-statistical-bulletin-july-2024,,held as MUS-001
+gtmi-40284a30cd,gtmi,2022,MUS,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-a2861305d8,gtmi,2020,MUS,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-443b3b6f1e,gtmi,2025,MWI,I-22,Are e-Payment services available?,1 Implementation in progress,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,link is the central bank home page
+gtmi-9f29f1d3b9,gtmi,2020,MWI,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-d35f4ebab3,gtmi,2022,MWI,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-713e55f7cb,gtmi,2022,NAM,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-9fb6cd6614,gtmi,2020,NAM,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-de1d959182,gtmi,2025,NAM,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-01-01-integrated-tax-administration-system-e-portal,,held as NAM-002
+gtmi-07ba26ce85,gtmi,2022,NER,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-9e6b556b30,gtmi,2020,NER,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-b60f2133ea,gtmi,2025,NER,I-22,Are e-Payment services available?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-6cad83953a,gtmi,2020,NGA,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-8e9798a5f5,gtmi,2025,NGA,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as NGA-002
+gtmi-cf375aaba0,gtmi,2022,NGA,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-5e8f4d0b8f,gtmi,2020,RWA,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-6c3ff2857e,gtmi,2025,RWA,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is a payment switch, not a revenue payment"
+gtmi-bcd4da74f4,gtmi,2022,RWA,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-6e714748f0,gtmi,2020,SDN,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-9da0319bdc,gtmi,2025,SDN,I-22,Are e-Payment services available?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-c6d19a4d3b,gtmi,2022,SDN,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-61df513ae2,gtmi,2022,SEN,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-aba03be330,gtmi,2020,SEN,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-ffc67563d4,gtmi,2025,SEN,I-22,Are e-Payment services available?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-9bc2ea7dfc,gtmi,2025,SLE,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SLE-001
+gtmi-e40509a12e,gtmi,2020,SLE,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-eac0a3c5a1,gtmi,2022,SLE,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-332b057a54,gtmi,2022,SOM,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-b4ada042f1,gtmi,2025,SOM,I-22,Are e-Payment services available?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-d8c9232a8e,gtmi,2020,SOM,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-2e67cf1d8e,gtmi,2020,SSD,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-e522447d2f,gtmi,2022,SSD,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-f067af05d7,gtmi,2025,SSD,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2024-01-01-eservices-account-government-services-south-sudan,,held as SSD-002
+gtmi-18c0ffb53f,gtmi,2025,STP,I-22,Are e-Payment services available?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-2617681e7a,gtmi,2022,STP,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-4688b0a7ba,gtmi,2020,STP,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-0c55fc934b,gtmi,2020,SWZ,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-1e5d8de798,gtmi,2025,SWZ,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SWZ-001
+gtmi-90952fa54c,gtmi,2022,SWZ,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-4a9e137827,gtmi,2020,SYC,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-b681125b3b,gtmi,2022,SYC,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-e35acfafbd,gtmi,2025,SYC,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SYC-001
+gtmi-7bd7fb94b9,gtmi,2022,TCD,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-9576254497,gtmi,2020,TCD,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-dd68322e0b,gtmi,2025,TCD,I-22,Are e-Payment services available?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-8fd13e44a7,gtmi,2020,TGO,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-cd35a87cc4,gtmi,2022,TGO,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-e4c4f6e4b5,gtmi,2025,TGO,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TGO-001
+gtmi-19f7e29798,gtmi,2025,TUN,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TUN-001
+gtmi-25cbca3a4f,gtmi,2022,TUN,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-b0b7516a61,gtmi,2020,TUN,I-22,Are e-Payment services available?,1 Implementation in progress,,,same,superseded,,,the 2025 round answers it
+gtmi-1a944c4782,gtmi,2022,TZA,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-43230b73af,gtmi,2025,TZA,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TZA-005
+gtmi-612d4013e5,gtmi,2020,TZA,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-49000389e3,gtmi,2020,UGA,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-578243991c,gtmi,2025,UGA,I-22,Are e-Payment services available?,2 Yes (in use),,,same,read-before,2024-10-08-uga-uppc-digital-payments-local-revenue-collection,,"reading list 524, already read for this study"
+gtmi-b17ae072e3,gtmi,2022,UGA,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-21e77fad29,gtmi,2025,ZAF,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ZAF-001
+gtmi-484bed7828,gtmi,2020,ZAF,I-22,Are e-Payment services available?,1 Implementation in progress,,,same,superseded,,,the 2025 round answers it
+gtmi-4995ea18f7,gtmi,2022,ZAF,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-1b5102fc07,gtmi,2025,ZMB,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ZMB-003
+gtmi-8c7cce89ce,gtmi,2020,ZMB,I-22,Are e-Payment services available?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-ee21574163,gtmi,2022,ZMB,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-405da1d777,gtmi,2022,ZWE,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it
+gtmi-a29764c038,gtmi,2025,ZWE,I-22,Are e-Payment services available?,2 Yes (in use),,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ZWE-004
+gtmi-e88382b6c5,gtmi,2020,ZWE,I-22,Are e-Payment services available?,2 Yes (in use),,,same,superseded,,,the 2025 round answers it

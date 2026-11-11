@@ -1,17 +1,18 @@
 {
- "iso3": "GNB",
- "cells": [
-  {
-   "sub_indicator": "revenue",
-   "stage": "2",
-   "payment": "underway",
-   "main": "",
-   "reported": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GNB-001",
-   "gaps": "No source found since October 2023 says: can some taxes or fees be paid electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py."
-  }
- ]
+  "iso3": "GNB",
+  "cells": [
+    {
+      "sub_indicator": "revenue",
+      "stage": "3",
+      "payment": "inservice",
+      "main": "",
+      "reported": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GNB-002",
+      "gaps": "No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.",
+      "note": "First pass: counted from the four questions by study-ladder-revenuecollection.py.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

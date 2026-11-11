@@ -22,8 +22,8 @@ The AfCFTA Digital Trade Protocol asks states to accept electronic payment and e
 |---|---|
 | 5 Leading | 8 |
 | 4 Operating | 3 |
-| 3 Established | 38 |
-| 2 Nascent | 3 |
+| 3 Established | 39 |
+| 2 Nascent | 2 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 2 |
@@ -214,6 +214,12 @@ Some taxes or fees could be paid electronically in 2026; no source found reports
 - The CORIS MONEY distributor network of 150 agents in Conakry is stated to handle payments of taxes, per the French outlet mediaguinee cited in the article ([source, 2026-02-18](https://techafricanews.com/2026/02/19/guinea-launches-coris-money-to-boost-financial-inclusion-and-digitalization/)).
 - Guinea launched Tresor Pay on 22 December 2025 so users can pay administrative fees and charges owed to the state by mobile phone ([source, 2025-12-22](https://www.wearetech.africa/en/fils-uk/news/finance/guinea-rolls-out-tresor-pay-as-digital-gateway-for-public-payments)).
 
+### Guinea-Bissau: 3 Established
+
+Import VAT has been payable only through the Kontaktu platform since December 2025; whether the main taxes follow is not known.
+
+- The Guinea-Bissau tax directorate (DGCI) circular of 10 December 2025 makes declaration and payment of import-related VAT compulsory exclusively through the Kontaktu platform, and the portal's simplified payment area lets some taxes be paid without a declaration file ([source, 2025-12-10](https://kontaktu.mef.gw/)).
+
 ### Kenya: 3 Established
 
 Some taxes or fees could be paid electronically in 2025; no source found reports the main taxes and duties.
@@ -368,12 +374,6 @@ Electronic payment of taxes or fees was under way in 2026; none in service is on
 Electronic payment of taxes or fees was under way in 2025; none in service is on record.
 
 - The World Bank committed US$20m in 2025 to the Djibouti Economic and Financial Governance Project, which includes tax administration system modernization and sets a PDO target of 70% tax e-filing adoption by December 2029 (ITAS indicator at 0% as of the January 2026 review) ([source, 2025](https://projects.worldbank.org/en/projects-operations/project-detail/P180696)).
-
-### Guinea-Bissau: 2 Nascent
-
-Electronic payment of taxes or fees was under way in 2026; none in service is on record.
-
-- A four-year African Development Bank grant to WATAF, launched 18 August 2026, covers Guinea-Bissau among six countries and is said to support digital tax tools and VAT and e-invoicing reforms ([source, 2026-08-18](https://www.liberianobserver.com/business/liberia-five-others-benefit-from-us-5-3m-afdb-tax-administration-project/article_09a09868-8c9e-49c2-ad5e-1dcf6a739fe8.html)).
 
 ### Equatorial Guinea: No evidence
 

@@ -2,12 +2,12 @@
 
 ## Revenue collection
 
-**Paid electronically.** [A four-year African Development Bank grant to WATAF, launched 18 August 2026, covers Guinea-Bissau among six countries and is said to support digital tax tools and VAT and e-invoicing reforms](<https://www.liberianobserver.com/business/liberia-five-others-benefit-from-us-5-3m-afdb-tax-administration-project/article_09a09868-8c9e-49c2-ad5e-1dcf6a739fe8.html>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Paid electronically.** [A tax directorate circular of 10 December 2025 makes import VAT payable only through the Kontaktu platform](<https://kontaktu.mef.gw/>). [The portal's simplified payment area also lets some taxes be paid without a declaration file](<https://kontaktu.mef.gw/>). [An African Development Bank grant to WATAF, launched in August 2026, is to support digital tax tools and e-invoicing in six countries, Guinea-Bissau among them](<https://www.liberianobserver.com/business/liberia-five-others-benefit-from-us-5-3m-afdb-tax-administration-project/article_09a09868-8c9e-49c2-ad5e-1dcf6a739fe8.html>).
 
-**Main taxes and duties.** No source found since October 2023 says the main taxes and customs duties are filed and paid electronically. The nearest held fact: [the one given above](<https://www.liberianobserver.com/business/liberia-five-others-benefit-from-us-5-3m-afdb-tax-administration-project/article_09a09868-8c9e-49c2-ad5e-1dcf6a739fe8.html>).
+**Main taxes and duties.** The nearest fact on file is [the Kontaktu circular](<https://kontaktu.mef.gw/>), which covers import VAT. No source has been found since October 2023 saying the main taxes and customs duties are filed and paid electronically.
 
-**Share reported.** No source found since October 2023 gives a figure for revenue paid electronically. The nearest held fact: [the one given above](<https://www.liberianobserver.com/business/liberia-five-others-benefit-from-us-5-3m-afdb-tax-administration-project/article_09a09868-8c9e-49c2-ad5e-1dcf6a739fe8.html>).
+**Share reported.** The nearest fact on file is again [the Kontaktu circular](<https://kontaktu.mef.gw/>). It gives no figure. No source has been found since October 2023 putting a share on revenue paid electronically.
 
 ***Also on file***. [PAPSS](<https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf>).
 
-***Not found***. No source found since October 2023 says: can some taxes or fees be paid electronically.
+***Not found***. No source found since October 2023 says the main taxes and customs duties are filed and paid electronically.

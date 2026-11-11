@@ -89,6 +89,8 @@ EGY,Meeza Digital,Egypt,other,mobile wallets,,,2025-11-17-cbe-meeza-instapay-wal
 EGY,Electronic Payment and Collection Centre,Government Electronic Payment and Collection Centre,revenue,,Ministry of Finance,,2024-06-23-egy-ahram-epayment-collection-fy23-24
 EGY,Nafeza,Egypt,other,,Egyptian Customs Authority,,2025-05-18-egy-ahram-customs-system-development-plan-nafeza
 EGY,eTax case-management platform,EGY,other,,Egyptian Tax Authority,,2026-10-24-egy-egypts-tax-authority-taps-etax-to-operate-digital-platform-for-electro
+EGY,Government E-commerce platform,Egypt,revenue,,Ministry of Planning and Economic Development,,2023-07-01-egy-fintech-egypt-landscape-report-2023
+EGY,Government Electronic Point of Sales (GPoS),Egypt,revenue,,Ministry of Finance,,2023-07-01-egy-fintech-egypt-landscape-report-2023
 ETH,Unified Government Payment Platform (UGPP),Ethiopia,revenue,EthSwitch,EthSwitch,,2026-10-01-ethswitch-unveils-unified-government-payment-platform
 ETH,Unified Government Payment Platform,Ethiopia,revenue,EthioPay CBP,"Ministry of Finance, National Bank of Ethiopia, EthSwitch",,2026-08-22-addisfortune-ethiopia-unified-government-payment-platform-health-pilot
 ETH,M-PESA Tax Payment Mini App,Ethiopia,revenue,M-PESA Super App,M-PESA Ethiopia,,2026-07-28-m-pesa-ethiopia-launches-digital-tax-payment-service-for-amhara-region
@@ -119,6 +121,7 @@ GMB,InTouch revenue monitoring and payments platform,Gambia,revenue,InTouch,Gamb
 GMB,Centralized payment monitoring platform (InTouch Solutions Gambia),Gambia,other,InTouch,Ministry of Finance and Economic Affairs / Gambia Revenue Authority,,2026-11-02-gmb-gambia-to-enforce-tighter-monitoring-on-betting-industry-as-government
 GNB,PAPSS,Guinea-Bissau,other,Pan-African Payment and Settlement System,PAPSS,"Extended Network, inbound only",2026-06-01-papss-payments-network-coverage-june-2026
 GNB,Strengthening Tax Administration Capacity Project in West Africa (STACP-WA),Guinea-Bissau,revenue,,West African Tax Administration Forum (WATAF),,2026-08-18-african-development-bank-wataf-2026-stacp-wa
+GNB,Kontaktu,Guinea-Bissau,revenue,,Direção-Geral das Contribuições e Impostos (DGCI),,2026-01-12-kontaktu-mef-gw-portal
 KEN,Electronic invoicing (eTIMS) mandate / Incomes and Expenses Validation,Kenya,other,,Kenya Revenue Authority,,2026-08-19-horn-uganda-kenya-electronic-invoicing-divergence
 KEN,eTIMS,Kenya,other,electronic tax invoice management system,Kenya Revenue Authority,,2026-10-28-ken-kra-eyes-m-pesa-invoices-for-small-and-micro-traders
 KEN,eCitizen,Kenya,revenue,,National Treasury,,2026-10-28-ken-national-treasury-pushes-new-regulations-plan-to-run-e-citizen
@@ -194,6 +197,7 @@ MWI,Social cash transfer programmes,MWI,other,,,,2026-09-04-mwi-macra-digital-sc
 MWI,Non-tax revenue e-payment pilot,Malawi,revenue,,Ministry of Information and Digitalisation,,2024-09-20-mwi-govt-advocates-for-improved-digital-service-delivery
 NAM,Integrated Tax Administration System (ITAS),Namibia,revenue,,"Ministry of Finance, Inland Revenue",,2019-10-31-nam-mof-media-statement-itas-incentive
 NAM,ITAS,Namibia,revenue,,NamRA,,2025-05-12-nam-namra-communique-wagon-vol18
+NAM,Integrated Tax Administration System (ITAS) e-portal,NAM,revenue,ITAS,Namibia Revenue Agency,,2025-01-01-integrated-tax-administration-system-e-portal
 NER,Guichet Unique Automobile du Niger,Niger,revenue,one-stop shop,SONILOGA,,2026-10-02-ner-actuniger-soniloga-airtel-money
 NER,e-sisic,Niger,revenue,e-sisic portal (Système Informatisé de Suivi des Impôts et des Contribuables),Direction Générale des Impôts,,2026-08-05-niger-dgi-e-sisic-declaration-paiement-electronique
 NER,Terminaux de paiement electronique (TPE),Niger,revenue,,Ville de Niamey / Programme Village Intelligent,,2025-08-21-ner-100-terminaux-de-paiement-electronique-pour-niamey
@@ -233,6 +237,7 @@ SOM,PAPSS,Somalia,other,Pan-African Payment and Settlement System,PAPSS,Live soo
 SSD,Capital Pay,South Sudan,revenue,,,,2026-07-25-south-sudan-revenue-authority-changes-tax-payment
 SSD,bank-linked digital payment system for passports and national ID,South Sudan,revenue,commercial bank in the immigration compound,National Revenue Authority,,2026-01-19 South Sudan introduces digital payment system for passports after supply crisis
 SSD,Juba City Council digital payment system,South Sudan,other,,Juba City Council,city council,2026-10-31-ssd-juba-city-council-launches-digital-payment-system-to-improve-transpare
+SSD,eServices Account,SSD,revenue,,"Ministry of Information, Communication Technology and Postal Services",,2024-01-01-eservices-account-government-services-south-sudan
 STP,e-fatura,Sao Tome and Principe,other,,Direccao dos Impostos,,2026-02-10-sao-tome-direccao-dos-impostos-memorando-turismo-e-factura
 SWZ,TaxCore,Eswatini,other,TaxCore,Eswatini Revenue Service,,2026-09-24-swz-independentnews-ers-e-invoicing-taxcore
 SWZ,TaxCore,Eswatini,other,TaxCore,Eswatini Revenue Service,,2026-09-09-times-eswatini-ers-e-invoicing-pilot
