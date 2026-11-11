@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-01-mus-cib-list-of-operational-systems",
+ "facts": [
+  {
+   "sub_indicator": "land",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "The list names the Land Administration and Valuation Information Management System (LAVIMS) of the Ministry of Housing and Land Use Planning among operational systems.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Land Administration and Valuation Information Management System - LAVIMS",
+   "class": "land"
+  }
+ ],
+ "systems": [
+  {
+   "system": "LAVIMS",
+   "country_label": "Mauritius",
+   "class": "land",
+   "platform": "",
+   "owner": "Ministry of Housing and Land Use Planning",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

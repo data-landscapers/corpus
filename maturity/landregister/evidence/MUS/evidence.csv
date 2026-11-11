@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MUS-001,MUS,land,register,inservice,The list names the Land Administration and Valuation Information Management System (LAVIMS) of the Ministry of Housing and Land Use Planning among operational systems.,2024-11,month,Land Administration and Valuation Information Management System - LAVIMS,land,2024-11-01-mus-cib-list-of-operational-systems,https://cib.govmu.org/Documents/Reports/List%20of%20Operational%20Systems.pdf

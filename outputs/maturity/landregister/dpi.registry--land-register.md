@@ -22,11 +22,11 @@ The AU Framework and Guidelines on Land Policy asks for land rights, customary t
 |---|---|
 | 5 Leading | 4 |
 | 4 Operating | 1 |
-| 3 Established | 22 |
+| 3 Established | 23 |
 | 2 Nascent | 14 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
-| No evidence | 10 |
+| No evidence | 9 |
 
 ## Countries
 
@@ -139,6 +139,12 @@ A digital land register was in service for part of the country in 2026; no sourc
 
 - The land directorate said citizens can now access their secured land documents, starting in Nouakchott and then regional capitals ([source, 2026-01-23](https://www.ami.mr/archives/250018)).
 - The Administration Générale des Domaines says it registers all contracts digitally on the Lagoud platform for real estate documents, with final copies delivered by e-mail or WhatsApp ([source, 2024-04-25](https://fr.madar.mr/actualites/mauritanie-procedures-pour-faciliter-lenregistrement-des-contrats-a-travers-une-plateforme-numerique/)).
+
+### Mauritius: 3 Established
+
+A digital land information system was in service in 2024; no source found reports national coverage.
+
+- The list names the Land Administration and Valuation Information Management System (LAVIMS) of the Ministry of Housing and Land Use Planning among operational systems ([source, 2024-11](https://cib.govmu.org/Documents/Reports/List%20of%20Operational%20Systems.pdf)).
 
 ### Mozambique: 3 Established
 
@@ -343,12 +349,6 @@ Nothing found names a digital land register or says there is none, so no stage i
 Not established: Nothing found says how land rights are recorded.
 
 ### Mali: No evidence
-
-Nothing found names a digital land register or says there is none, so no stage is set.
-
-Not established: Nothing found says how land rights are recorded.
-
-### Mauritius: No evidence
 
 Nothing found names a digital land register or says there is none, so no stage is set.
 

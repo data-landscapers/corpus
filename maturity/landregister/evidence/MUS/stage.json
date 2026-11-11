@@ -1,17 +1,18 @@
 {
- "iso3": "MUS",
- "cells": [
-  {
-   "sub_indicator": "land",
-   "stage": "no evidence",
-   "register": "",
-   "national": "",
-   "online": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says how land rights are recorded.",
-   "note": "First pass: counted from the four questions by study-ladder-landregister.py."
-  }
- ]
+  "iso3": "MUS",
+  "cells": [
+    {
+      "sub_indicator": "land",
+      "stage": "3",
+      "register": "inservice",
+      "national": "",
+      "online": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MUS-001",
+      "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
+      "note": "The government list of operational systems names the housing and land ministry's Land Administration and Valuation Information Management System (LAVIMS) in November 2024. Its extent and any online services are not stated.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-10-sen-pidsm-mining-platform",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Plateforme integree des donnees du secteur minier (PIDSM)",
+   "country_label": "Senegal",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Mines and Geology",
+   "tiers": ""
+  }
+ ],
+ "note": "The platform covers mining titles and cadastre, not land titles."
+}
