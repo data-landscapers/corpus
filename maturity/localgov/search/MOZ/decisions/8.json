@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;use",
+ "fact": "A 13 May 2021 presentation by the e-SISTAFE team states 571 local government entities are connected to e-SISTAFE (scope: central government, local governments, municipalities, districts) and lists connectivity in rural locations as a general issue.",
+ "title": "Mozambique The Case of e-SISTAFE",
+ "publisher": "World Bank, IFMIS Capacity Building Program workshop",
+ "published": "2021-05-13",
+ "date_source": "source",
+ "why_not": ""
+}

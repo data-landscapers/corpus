@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;use",
+ "fact": "Four local government entities were connected to the national IFMIS, against 50 central government entities, as presented in May 2021.",
+ "title": "Liberia Integrated Financial Management Information System: Advantages and Challenges",
+ "publisher": "World Bank, 2021 IFMIS Capacity Building Program",
+ "published": "2021",
+ "date_source": "proxy",
+ "why_not": ""
+}

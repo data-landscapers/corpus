@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "governance;connected",
+ "fact": "The Communications Minister announced that GovNet and Last Mile Connectivity would first connect 69 assemblies in four regions, with the remaining MMDAs to follow once funding is secured.",
+ "title": "Government to deploy new network at public offices for efficient services",
+ "publisher": "Ghana Business News",
+ "published": "2019-04-17",
+ "date_source": "proxy",
+ "why_not": ""
+}

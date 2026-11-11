@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;connected",
+ "fact": "The Ministry of Internal Affairs' January-March 2025 report lists lack of internet connectivity among the challenges of the County Service Centers, which reported from only five of fifteen counties.",
+ "title": "Quarterly Report, January 1-March 31, 2025",
+ "publisher": "Ministry of Internal Affairs, Republic of Liberia",
+ "published": "2025-04-15",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "use;connected",
+ "fact": "The eTransform project extended backbone connectivity to 254 district centres, covering systems including GIFMIS and TRIPS, and gave 951 government institutions 1Gig government network connectivity on 10-year IRU, all planned sites connected and accepted by NITA.",
+ "title": "951 govt institutions connected with high speed network under eTransform project",
+ "publisher": "Ministry of Communications and Digitalisation",
+ "published": "2024-06-27",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected;authorities",
+ "fact": "The minister of communication technologies told the parliamentary committee on 20 November 2020 that about 600 administrative sites had been connected to the national integrated network of local authorities.",
+ "title": "Audition du ministre de la technologie autour de la mission du ministère dans le cadre du budget de l'état pour l'année 2021",
+ "publisher": "Assemblée des représentants du peuple (Marsad)",
+ "published": "2020-11-20",
+ "date_source": "proxy",
+ "why_not": ""
+}

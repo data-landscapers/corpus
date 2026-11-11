@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;connected;governance",
+ "fact": "On 6 June 2023 Ethio telecom and the Addis Ababa City Administration signed a memorandum to deploy an SD-WAN network connecting 11 sub-city offices, 120 woredas and 44 bureaus of the city.",
+ "title": "Ethio telecom and Addis Ababa City Administration Sign Memorandum of Understanding to deploy Smart City Project",
+ "publisher": "Ethio telecom",
+ "published": "2023-06-06",
+ "date_source": "source",
+ "why_not": ""
+}

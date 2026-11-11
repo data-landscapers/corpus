@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected",
+ "fact": "Many municipalities and local government offices have weak access to connectivity, the COMGOV network serving central MDAs, and many MDAs, particularly local government, still lack adequate broadband access.",
+ "title": "Burundi Digital Economy Assessment",
+ "publisher": "World Bank Group",
+ "published": "2020",
+ "date_source": "source",
+ "why_not": ""
+}

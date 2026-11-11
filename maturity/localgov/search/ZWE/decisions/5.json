@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;governance",
+ "fact": "On 20 January 2025 the ICT Ministry and Potraz, through the Universal Service Fund, handed 415 computers to 39 of Zimbabwe's 60 rural district councils, with the remaining 21 to follow in the next batch.",
+ "title": "Government hands over 415 computers to 39 RDCs",
+ "publisher": "The Herald",
+ "published": "2025-01-20",
+ "date_source": "source",
+ "why_not": ""
+}

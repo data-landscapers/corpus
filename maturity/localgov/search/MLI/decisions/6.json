@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected",
+ "fact": "The World Bank diagnostic states AGETIC's Administration Intranet Network has interconnected more than 500 state agencies with a base station in Bamako and each regional capital but Ségou, that lack of connectivity at provincial level remains a foundational obstacle, and that 245 of 704 communes have no base transceiver station.",
+ "title": "Digital Economy Diagnostic Mali",
+ "publisher": "World Bank Group",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

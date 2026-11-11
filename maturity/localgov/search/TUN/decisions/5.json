@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected;authorities",
+ "fact": "The national computing centre put the RNIA3 fibre network into operation for all municipalities (seats, arrondissements, municipal revenue offices), more than 600 sites at close to 100 per cent completion.",
+ "title": "Mise en service d'un nouveau réseau national à haut débit pour les collectivités locales",
+ "publisher": "THD - Tunisie Haut Debit",
+ "published": "2020-03-16",
+ "date_source": "source",
+ "why_not": ""
+}

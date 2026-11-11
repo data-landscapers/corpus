@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected",
+ "fact": "The Boumahni commune annex in Tizi-Ouzou wilaya had no fibre connection and the commune planned to fund one itself, and three annexes of neighbouring Aït Yahia Moussa were also without fibre.",
+ "title": "BOUMAHNI - Antenne administrative - Bientôt raccordée à la fibre optique",
+ "publisher": "La Dépêche de Kabylie",
+ "published": "2020-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

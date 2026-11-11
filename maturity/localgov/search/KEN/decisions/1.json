@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;connected",
+ "fact": "The Council of Governors CEO writes that NOFBI has connected key public institutions and offices usable at national and county level, last mile connectivity is being implemented, but some counties are yet to be connected.",
+ "title": "ICT critical to better governance in counties",
+ "publisher": "Daily Nation",
+ "published": "2026-04-26",
+ "date_source": "source",
+ "why_not": ""
+}

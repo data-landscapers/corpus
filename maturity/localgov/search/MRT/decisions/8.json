@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "connection",
+ "aspect": "",
+ "fact": "",
+ "title": "Atelier sur les capacités institutionnelles des communes",
+ "publisher": "Agence mauritanienne d'information",
+ "published": "2019-10-03",
+ "date_source": "source",
+ "why_not": "off-topic: describes a data system on the 219 communes; states nothing on office connection."
+}

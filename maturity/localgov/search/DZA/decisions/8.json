@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected",
+ "fact": "A survey of 22 mayors in Bejaia wilaya (2017-2021) found unequal connectivity between communes and named the absence of fibre optic in some municipalities as a main infrastructure obstacle.",
+ "title": "Le Numérique au Service du Territoire : Perceptions et Pratiques Communales dans la Wilaya de Bejaïa (2017-2021)",
+ "publisher": "Science, Education and Innovations in the Context of Modern Problems (SEI)",
+ "published": "2025-06-17",
+ "date_source": "source",
+ "why_not": ""
+}

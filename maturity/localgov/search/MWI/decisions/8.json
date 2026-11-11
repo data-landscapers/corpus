@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected;authorities",
+ "fact": "The PPPC's plan of November 2020 targets 500 institutions in 27 districts, connecting from the national fibre's termination at District Commissioners' offices, and records that offices consulted had no internet or relied on staff buying their own data.",
+ "title": "Environmental and Social Management Plan for Provision of National Last Mile Connectivity to Various Institutions through the Public Private Partnership Commission (PPPC)",
+ "publisher": "Public Private Partnership Commission",
+ "published": "2020-11",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;governance",
+ "fact": "The World Bank's implementation status report of 28 August 2025 on the Smart Villages project (closing 23 October 2026) prioritises completing connectivity for health centres, schools and municipalities, financed by the World Bank/IDA.",
+ "title": "Niger: Smart Villages for Rural Growth and Digital Inclusion, Implementation Status & Results Report",
+ "publisher": "World Bank",
+ "published": "2025-08-28",
+ "date_source": "source",
+ "why_not": ""
+}

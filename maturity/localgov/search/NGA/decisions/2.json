@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;governance",
+ "fact": "NIGCOMSAT's managing director says that under Project 774 it connected 45 local government secretariats across eight states within two months.",
+ "title": "Nigeria: NIGCOMSAT targets $5mln revenue through broadband expansion",
+ "publisher": "Nigerian Tribune (via Zawya)",
+ "published": "2025-08-27",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;connected",
+ "fact": "In an assessment of five County Service Centers conducted 15-25 April 2024, none of the five had an active website or internet connectivity.",
+ "title": "Institutional and Operational Capacity Assessment of Five County Service Centers and Citizens' Feedback on the Quality of Services Accessed",
+ "publisher": "Naymote, Partners for Democratic Development",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected;use",
+ "fact": "The strategy states that the RTPE, managed by NOSi, supports management applications of central government and municipal administration, covering in 2015 more than 14,000 users and 500 institutions in education, health, central and local administration, and that it aims for RTPE in 100% of bodies serving citizens.",
+ "title": "Estratégia para a Governação Digital de Cabo Verde",
+ "publisher": "Governo de Cabo Verde",
+ "published": "2021",
+ "date_source": "proxy",
+ "why_not": ""
+}

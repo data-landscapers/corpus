@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected",
+ "fact": "The July 2023 national enrolment campaign was framed as bringing service closer to rural municipalities that are not connected to the network, with 106 communes lacking civil-status centres served first.",
+ "title": "Déploiement des missions pour l’enregistrement des citoyens non-inscrits sur le registre de la population",
+ "publisher": "Agence mauritanienne d'information",
+ "published": "2023-07-11",
+ "date_source": "source",
+ "why_not": ""
+}

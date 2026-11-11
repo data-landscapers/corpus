@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "connection",
+ "aspect": "",
+ "fact": "",
+ "title": "Somalia Financial Management Information System",
+ "publisher": "World Bank IFMIS Capacity Building Program",
+ "published": "2021-05-20",
+ "date_source": "source",
+ "why_not": "off-topic: central-government PFM system slide; local gov entities connected listed N/A, no office connection fact"
+}

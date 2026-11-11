@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities",
+ "fact": "The Sierra Leone Digital Transformation Project status report archived 27 June 2024 measures last-mile broadband connection of public institutions including local government offices, with a target of 50 by June 2027 and a reported current value of 0.",
+ "title": "Sierra Leone Digital Transformation Project (P177077) Implementation Status & Results Report",
+ "publisher": "World Bank",
+ "published": "2024-06-27",
+ "date_source": "source",
+ "why_not": ""
+}

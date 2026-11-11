@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected;authorities;governance",
+ "fact": "Algérie Télécom said 89 of the 100 commune annexes in the 30 communes of El-Oued wilaya were connected to the interior ministry's broadband fibre network, under the ministry's programme begun in 2016.",
+ "title": "El-Oued: 89 antennes communales raccordées au réseau de fibre optique",
+ "publisher": "Radio Algérienne",
+ "published": "2020-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "governance;connected",
+ "fact": "On 2 August 2023 the Prime Minister launched at Kati an AGEFAU-financed (about 10 billion FCFA) project giving collectivités territoriales their own private telecommunications network, initially 20 governorates and the Ministry of Territorial Administration, extendable to prefectures and sub-prefectures.",
+ "title": "Mali : Un réseau de télécommunications privé pour les collectivités territoriales",
+ "publisher": "Mali Actu",
+ "published": "2023-12-19",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected",
+ "fact": "ACODE survey of ICT staff in six districts (December 2020) found half had fibre and half wireless internet, about 70% were served by NITA-U, and only 50% of respondents were connected to the NBI.",
+ "title": "Access and Use of ICT in Budget Transparency and Accountability in Local Governments",
+ "publisher": "ACODE (Policy Research Paper Series No.103)",
+ "published": "2021",
+ "date_source": "source",
+ "why_not": ""
+}

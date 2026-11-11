@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;connected",
+ "fact": "The Minister of Local Development said high-speed internet service had been installed in 216 of the 322 government service complexes (housing local administration services) built in first-phase Decent Life villages in 2023.",
+ "title": "وزير التنمية المحلية: انتهاء أعمال مرافق المجمعات الخدمية بالمحافظات بنسبة 96%",
+ "publisher": "الدستور",
+ "published": "2024-01-01",
+ "date_source": "source",
+ "why_not": ""
+}

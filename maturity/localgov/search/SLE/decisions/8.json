@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "use",
+ "fact": "The 2020 World Bank diagnostic states that all 22 local councils use the PETRA accounting software, a recording and reporting system that is not real-time, and sets a target for all MDAs including local councils to have an online presence by 2023.",
+ "title": "Sierra Leone Digital Economy Diagnostic",
+ "publisher": "World Bank Group",
+ "published": "2020",
+ "date_source": "source",
+ "why_not": ""
+}

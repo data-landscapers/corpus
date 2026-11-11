@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;governance",
+ "fact": "At the ministry's CIO conference of 23 March 2023, ASIN's director general noted the launch of PRSCG phase 2, which focuses on decentralised structures, in particular the 77 town halls and the prefectures.",
+ "title": "First CIO conference of 2023: secure digital services for citizens",
+ "publisher": "Ministère de la Transformation Digitale, Bénin",
+ "published": "2023-03-29",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "use",
+ "fact": "The Council Project Management System of the I-Council project had been deployed at seven of the twelve local authorities (five municipal councils, Flacq and Savanne district councils), with all local authorities expected to complete the I-Council project by October 2023.",
+ "title": "Annual Report on Performance for the Financial Year 2022 – 2023",
+ "publisher": "Ministry of Local Government and Disaster Risk Management",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

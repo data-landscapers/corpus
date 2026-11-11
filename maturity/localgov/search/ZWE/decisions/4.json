@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;governance",
+ "fact": "On 23 July 2025 the ICT Ministry handed 250 Starlink kits to the Ministry of Local Government and Public Works for local authorities, following over 400 computers donated earlier in 2025, with deployment left to the Local Government ministry; the 250 kits are handed over, not stated as in use.",
+ "title": "ICT Ministry donates 250 Starlink kits to local authorities",
+ "publisher": "The Herald",
+ "published": "2025-07-24",
+ "date_source": "source",
+ "why_not": ""
+}

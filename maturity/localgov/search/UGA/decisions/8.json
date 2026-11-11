@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;governance",
+ "fact": "NITA-U data in the BMAU brief show 29 district headquarters and 397 sites connected to the NBI at December 2018, with local governments lacking operation budgets for ICTs.",
+ "title": "BMAU Briefing Paper (7/19): The National Backbone Infrastructure: Is the country reaping investment dividends?",
+ "publisher": "Ministry of Finance, Planning and Economic Development, BMAU",
+ "published": "2019-05",
+ "date_source": "source",
+ "why_not": ""
+}

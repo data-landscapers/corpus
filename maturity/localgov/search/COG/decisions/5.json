@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "last12",
+ "fact": "On 23 April 2024 Adiac reported that, under the PATN, the government would connect the various mairies of Congo by mid-May.",
+ "title": "Inclusion numérique : plus de 180 antennes de télécommunications vont migrer vers la 3 G",
+ "publisher": "adiac-congo.com",
+ "published": "2024-04-23",
+ "date_source": "source",
+ "why_not": ""
+}

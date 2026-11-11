@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "connection",
+ "aspect": "connected",
+ "fact": "",
+ "title": "2024 Public Finance Management Annual Progress Report",
+ "publisher": "Ministry of Finance and Economic Affairs",
+ "published": "2025-04",
+ "date_source": "source",
+ "why_not": "already-held: raw/2025/2025-04-01-gmb-2024-public-finance-management-annual-progress-report.md."
+}

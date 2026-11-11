@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "use",
+ "fact": "On 23 October 2026 the ONECI director general said the national civil registration software is deployed in all civil registration centres, including mairies, but connectivity difficulties remain in some centres.",
+ "title": "Côte d'Ivoire : Le logiciel national d'état civil déployé, la connectivité reste un défi",
+ "publisher": "Sika Finance",
+ "published": "2026-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

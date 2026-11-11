@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;connected",
+ "fact": "The government spokesperson stated that phases 1-3 of the Last Mile County Connectivity project are complete and the Network Operating Centre has interconnected over 650 government buildings, with phase 4 (455 sites at county headquarters) under way and phase 5 (660 sites in 110 sub-counties) planned.",
+ "title": "Government commits to nationwide internet access in Last Mile Connectivity project",
+ "publisher": "Citizen Digital",
+ "published": "2024-03-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

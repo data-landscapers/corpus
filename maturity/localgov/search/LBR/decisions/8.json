@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "connection",
+ "aspect": "",
+ "fact": "",
+ "title": "Liberia Information and Communications Technology (ICT) Policy (2019-2024)",
+ "publisher": "Liberia Telecommunications Authority",
+ "published": "2019",
+ "date_source": "proxy",
+ "why_not": "no-development: a 2019 policy whose targets (all CSCs and superintendent offices online) are already reported as Not Met in the held National Digital Strategy; no dated connection fact of its own."
+}

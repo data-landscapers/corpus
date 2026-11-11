@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "use;connected",
+ "fact": "The Auditor-General reports that Ejisu, Kumasi and Manhyia South assemblies made 100 payments outside GIFMIS in 2022 citing network challenges and poor internet connectivity.",
+ "title": "Report of the Auditor-General on the Accounts of District Assemblies for the Year Ended 31 December 2022",
+ "publisher": "Ghana Audit Service",
+ "published": "2023-06-14",
+ "date_source": "source",
+ "why_not": ""
+}

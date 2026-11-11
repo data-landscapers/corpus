@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected",
+ "fact": "The Huambo provincial finance delegate said (reported 21 February 2022) that some municipal administrations in the province lack the internet and electricity needed to collect revenue through the Portal do Munícipe.",
+ "title": "Huambo: falta de internet condiciona arrecadação de receitas para o Estado",
+ "publisher": "Portal de TI",
+ "published": "2022-02-22",
+ "date_source": "proxy",
+ "why_not": ""
+}

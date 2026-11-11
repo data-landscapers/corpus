@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "use",
+ "fact": "The terms of reference state that SIM 2.0 is in operation in every municipality in the country, and that SIM Land was implemented in 2017 in the town halls of Sal, Sao Vicente, Maio and Boa Vista.",
+ "title": "TdR SIMple Administrative and Financial Modules",
+ "publisher": "NOSi / Ministry of Finance UGPE",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

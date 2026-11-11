@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected",
+ "fact": "A feasibility study validated on 30 September 2021 for civil registry computerisation found a lack of IT equipment and of internet network in some localities, and some offices without electricity.",
+ "title": "Vers la modernisation et l'informatisation des services d'état-civil",
+ "publisher": "MININTER (Ministère de l'Intérieur, du Développement communautaire et de la Sécurité publique)",
+ "published": "2021-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

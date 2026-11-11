@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities",
+ "fact": "The ministry claimed in 2024 it would connect Nigeria's 774 local governments to the broadband backbone; as of February 2025 it had reached only 51.",
+ "title": "In Nigeria, Why Isn't Broadband Everywhere?",
+ "publisher": "IEEE Spectrum",
+ "published": "2025-08-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

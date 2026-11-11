@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "use;authorities",
+ "fact": "The World Bank's February 2020 diagnostic states that IFMIS only connects central-level MDAs and supports their district operations through sub-accountancies, and that further roll-out to District Councils depends on connectivity.",
+ "title": "Lesotho Digital Economy Diagnostic",
+ "publisher": "World Bank Group",
+ "published": "2020-02",
+ "date_source": "source",
+ "why_not": ""
+}

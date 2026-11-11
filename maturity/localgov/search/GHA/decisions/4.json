@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "use;connected",
+ "fact": "The Auditor-General reports that assemblies including Juaben Municipal, Gomoa East, Gomoa West and Awutu Senya East paid outside GIFMIS in 2023 and attributed it to network challenges and system breakdown, showing assemblies work in GIFMIS over a connection that fails.",
+ "title": "Report of the Auditor-General on the Accounts of District Assemblies for the Financial Year Ended 31 December 2023",
+ "publisher": "Ghana Audit Service",
+ "published": "2024-06-12",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "connection",
+ "aspect": "",
+ "fact": "",
+ "title": "Guichet numérique de la commune de Ouadane",
+ "publisher": "GIZ Mauritanie",
+ "published": "2025-12-24",
+ "date_source": "proxy",
+ "why_not": "no-development: an implementer's social-media PR post on equipment in Ouadane; states no connection fact and the Ecofin piece already carries the story."
+}

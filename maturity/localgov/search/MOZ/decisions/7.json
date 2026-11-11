@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;governance",
+ "fact": "The joint programme, running May 2024 to February 2025 with UN Joint SDG Fund and UNDP/UNICEF funding, plans a pilot in one Nampula district to increase connectivity and access to digital services at district level.",
+ "title": "Connecting Communities: Mozambique's Digital Public Service Transformation",
+ "publisher": "UN Joint SDG Fund / UNDP (MPTF Office)",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

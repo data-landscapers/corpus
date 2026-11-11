@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected;governance",
+ "fact": "In August 2019 ADIE's PASSANT project (CFA 50 billion, two years) was announced to extend fibre to communal level and connect administrative buildings in all regional and communal capitals, with over 300 buildings by fibre and 400 by radio planned.",
+ "title": "L'ADIE met en oeuvre le Projet d'appui structurel à la stratégie d'aménagement numérique du territoire",
+ "publisher": "OSIRIS (reprinting Enquête)",
+ "published": "2019-08-10",
+ "date_source": "source",
+ "why_not": ""
+}

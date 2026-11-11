@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;governance",
+ "fact": "On 25 March 2021 UVICOCI signed a convention with CE-NET Technologie to give all mairies satellite broadband, in an experimental phase with 12 communes.",
+ "title": "Réduction de la fracture numérique : Les mairies connectées au haut débit",
+ "publisher": "Linfodrome",
+ "published": "2021-03-25",
+ "date_source": "source",
+ "why_not": ""
+}

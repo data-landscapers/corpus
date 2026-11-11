@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "governance",
+ "fact": "The Minister launched Project 774 LG Connectivity to connect all 774 local government secretariats using NigComSat and Galaxy Backbone infrastructure.",
+ "title": "Ministry Launches Project 774 LG Connectivity to Provide Local Governments with Reliable Internet Access",
+ "publisher": "Federal Ministry of Communications, Innovation and Digital Economy",
+ "published": "2024-02-19",
+ "date_source": "proxy",
+ "why_not": ""
+}

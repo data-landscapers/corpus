@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected;authorities",
+ "fact": "The World Bank appraisal (7 March 2022) states that government departments acquire connectivity through ad hoc small monthly contracts and plans a pilot bulk purchase of internet connectivity for several unconnected MDAs in Bangui and selected regional capitals, after an assessment of connectivity needs at central and local levels.",
+ "title": "Project Appraisal Document: Central African Republic Public Sector Digital Governance Project (PAD4661)",
+ "publisher": "World Bank",
+ "published": "2022-03-07",
+ "date_source": "source",
+ "why_not": ""
+}

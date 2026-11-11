@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected",
+ "fact": "The Tunisian Internet Agency announced in February 2019 that the RNIA project would interconnect over 1,200 administration sites including municipalities and their arrondissements, with an offer being developed for RNIA3 clients (governorates, municipalities, arrondissements).",
+ "title": "ATI : Lancement du projet Réseau National Intégré de l'administration (RNIA)",
+ "publisher": "THD - Tunisie Haut Debit",
+ "published": "2019-02-15",
+ "date_source": "source",
+ "why_not": ""
+}

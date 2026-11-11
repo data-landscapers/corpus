@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities",
+ "fact": "In a House of Representatives oral-questions session in December 2024, an MP raised the absence of internet coverage in several local authorities, which prevents issuing digitised administrative documents, and said rural and mountain areas have no or low bandwidth.",
+ "title": "A parliamentarian pleads the difficulty of issuing digitized administrative documents due to the lack of Internet coverage",
+ "publisher": "Hibapress",
+ "published": "2024-12-24",
+ "date_source": "proxy",
+ "why_not": ""
+}

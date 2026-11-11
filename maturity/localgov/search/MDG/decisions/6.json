@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities",
+ "fact": "The PRODIGY project, launched in 2019, selected 7 regions and 170 communes as pilots, and aims to strengthen technical and technological equipment including connectivity between entities for communes, fokontany and health centres.",
+ "title": "Prodigy - Madagascar au cœur d'une réforme numérique",
+ "publisher": "L'Express de Madagascar",
+ "published": "2022-08-24",
+ "date_source": "source",
+ "why_not": ""
+}

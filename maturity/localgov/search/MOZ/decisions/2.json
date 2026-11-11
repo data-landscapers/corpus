@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;governance",
+ "fact": "At the March 2024 closing of the Italy-funded GOVNET Plus project, INAGE reported 88 institutions connected to GOVNET in 32 districts, and the minister said GOVNET is present in 963 public institutions covering 141 districts.",
+ "title": "AICS and Mozambique: District-level extension of the Government's digital network GovNet (GovNet Plus)",
+ "publisher": "Agenzia Italiana per la Cooperazione allo Sviluppo (AICS), Maputo",
+ "published": "2024-03-04",
+ "date_source": "source",
+ "why_not": ""
+}

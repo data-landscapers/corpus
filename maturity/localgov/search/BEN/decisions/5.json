@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;connected;governance",
+ "fact": "KfW states that 187 authorities (ministries, presidency, prefectures) are connected in the national administrative network, and that the next step is to connect all municipalities to it; staff had worked around missing access with personal mobile phones.",
+ "title": "Digitalisation makes authorities in West Africa more efficient",
+ "publisher": "KfW Development Bank",
+ "published": "2023-05-31",
+ "date_source": "source",
+ "why_not": ""
+}

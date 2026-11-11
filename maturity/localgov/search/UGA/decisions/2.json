@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities",
+ "fact": "NITA-U states that under the Last Mile Connectivity Project 575 of 700 sites, including local government sites, had been connected to the National Backbone Infrastructure, with 603 MDAs, local government sites and service centres connected to the government network.",
+ "title": "National Backbone Infrastructure Project (NBI/EGI)",
+ "publisher": "National Information Technology Authority - Uganda (NITA-U)",
+ "published": "2025-07",
+ "date_source": "proxy",
+ "why_not": ""
+}

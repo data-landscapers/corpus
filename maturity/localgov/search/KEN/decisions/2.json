@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;connected",
+ "fact": "West Pokot's county ICT executive said around 50 county government institutions are connected to the national fibre network under the digital superhighway, while some offices in Pokot North, Kacheliba and parts of Pokot South remain unconnected.",
+ "title": "Digital superhighway goes full throttle in West Pokot",
+ "publisher": "Kenya News Agency",
+ "published": "2024-08-30",
+ "date_source": "proxy",
+ "why_not": ""
+}

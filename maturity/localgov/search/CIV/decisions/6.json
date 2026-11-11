@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;use",
+ "fact": "On 10 August 2024 the Interior Minister said 346 of 690 civil registration centres were connected to the national Cityweb software, including 108 of 201 mairies and 238 of 490 sous-préfectures.",
+ "title": "Digitalisation : l'enregistrement des naissances désormais possible depuis les maternités en Côte d'Ivoire",
+ "publisher": "Digital Mag Côte d'Ivoire",
+ "published": "2024-08-11",
+ "date_source": "source",
+ "why_not": ""
+}

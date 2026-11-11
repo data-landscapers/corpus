@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;connected",
+ "fact": "A year into the DGCT digitalisation strategy, the Interior Ministry was still identifying solutions to improve internet access for collectivities in poorly served areas, with satellite connection already used in some, and faced equipping 1,590 collectivities with performant IT hardware.",
+ "title": "Collectivités territoriales : voici le premier bilan de la stratégie de digitalisation",
+ "publisher": "Le Matin",
+ "published": "2022-02-15",
+ "date_source": "proxy",
+ "why_not": ""
+}

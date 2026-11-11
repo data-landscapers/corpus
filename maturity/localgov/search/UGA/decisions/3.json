@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities",
+ "fact": "The Ministry of ICT and National Guidance review of the National Broadband Policy 2018 states that NITA-U has connected 120 ministries, departments and agencies and 53 district local governments to the NBI, with coverage still limited in parts of the country.",
+ "title": "Review of the implementation of Uganda's National Broadband Policy 2018 and proposed interventions",
+ "publisher": "International Telecommunication Union / Ministry of ICT and National Guidance",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

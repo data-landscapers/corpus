@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;governance",
+ "fact": "On 24 October 2025 the African Development Bank approved EUR 117 million for PADECT (2026-2031), which plans telecommunications infrastructure in 89 public facilities including town halls, schools, universities and hospitals, in Benin's 77 municipalities.",
+ "title": "African Development Bank Group approves EUR 117 million financing to strengthen economic attractiveness of Benin's 77 municipalities",
+ "publisher": "African Development Bank",
+ "published": "2025-10-27",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "connection",
+ "aspect": "",
+ "fact": "",
+ "title": "PGNSP — MENPT | République Centrafricaine",
+ "publisher": "MENPT",
+ "published": "2026-07",
+ "date_source": "source",
+ "why_not": "already-held: raw/2026/2026-07-01-caf-menpt-pgnsp-composante-2.md"
+}

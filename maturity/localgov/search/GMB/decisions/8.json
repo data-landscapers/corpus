@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "use",
+ "fact": "The Gambia's IFMIS overview in the 2021 IFMIS Capacity Building Program slides states that 8 local government entities are connected to the system, alongside 85 central government entities, and lists rollout to local councils as a result achieved.",
+ "title": "The Gambia IFMIS Implementation Experience",
+ "publisher": "World Bank, 2021 IFMIS Capacity Building Program (Gambia Accountant General's Department presentation)",
+ "published": "2021",
+ "date_source": "source",
+ "why_not": ""
+}

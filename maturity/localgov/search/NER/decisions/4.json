@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities",
+ "fact": "On 25 June 2025 the Projet Villages Intelligents and the Association des Municipalités du Niger signed a convention to equip the communes of Niger with Starlink internet modules.",
+ "title": "Le Projet Villages Intelligents (PVI) et l’Association des Municipalités du Niger (AMN) s’engagent pour la connectivité des communes du Niger",
+ "publisher": "Le Sahel (ONEP Niger)",
+ "published": "2025-07-11",
+ "date_source": "source",
+ "why_not": ""
+}

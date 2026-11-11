@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected;governance",
+ "fact": "The ministry (MPTEN), from state budget funds, tendered in 2023 for fibre internet for central, deconcentrated and decentralised administration in three lots covering 2023-2026, bids due 6 June 2023.",
+ "title": "Avis d'appel d'offre International : AAO N° 02/MPTEN/CAB/PRMP/2023",
+ "publisher": "Ministère des Postes, des Télécommunications et de l'Economie Numérique (MPTEN)",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

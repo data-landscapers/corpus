@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;connected",
+ "fact": "As of stakeholder engagements in August 2024, not all county service centers have reliable internet access and not all superintendent offices are guaranteed internet access, so the targets are marked Not Met.",
+ "title": "Whole of Government National Digital Strategy",
+ "publisher": "Government of Liberia, Ministry of Posts and Telecommunications",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

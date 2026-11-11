@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;connected;governance",
+ "fact": "A DGCT presentation of 15 July 2021 states that 15% of communes remain without internet access, that unconnected collectivities are a major brake on digitalisation, and sets an objective to connect 100% of collectivities (satellite in white zones) by Q4 2022.",
+ "title": "Site web type des collectivités territoriales",
+ "publisher": "Direction Générale des Collectivités Territoriales, Ministère de l'Intérieur",
+ "published": "2021-07-15",
+ "date_source": "source",
+ "why_not": ""
+}

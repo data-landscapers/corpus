@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;governance",
+ "fact": "The October 2022 provisional stakeholder engagement plan for the World Bank-backed Senegal digital transformation project (P172524) states that 134 communes will be interconnected to the national fibre backbone and 152 communes covered by broadband access infrastructure.",
+ "title": "Projet d'investissement « Accélération de la transformation numérique du Sénégal » (P172524), Plan de mobilisation des parties prenantes, rapport provisoire",
+ "publisher": "Ministère des Finances et du Budget, PCRBF (World Bank disclosure)",
+ "published": "2022-10",
+ "date_source": "source",
+ "why_not": ""
+}

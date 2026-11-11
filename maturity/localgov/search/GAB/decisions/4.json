@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected;last12",
+ "fact": "In June 2025 the communes of Akanda and Owendo were reported to be getting connected to the Réseau de l'administration gabonaise (RAG) by fibre optic, alongside an ANINF convention to digitalise municipal services.",
+ "title": "Digitalisation des services municipaux : Hermann Immongault échange avec les délégués spéciaux d'Akanda et d'Owendo",
+ "publisher": "Gabonclic.info",
+ "published": "2025-06-11",
+ "date_source": "source",
+ "why_not": ""
+}

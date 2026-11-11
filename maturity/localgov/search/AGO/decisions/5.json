@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected",
+ "fact": "On 13 June 2024 the communal administration of Mulondo (Matala, Huila) got internet for the first time, installed through a satellite operator at the investment of the Matala municipal administration, and Mulondo still needs Angosat-2 via Conecta Angola.",
+ "title": "Internet chega pela primeira vez à comuna do Mulondo",
+ "publisher": "ANGOP",
+ "published": "2024-06-13",
+ "date_source": "source",
+ "why_not": ""
+}

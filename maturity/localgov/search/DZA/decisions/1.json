@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected;authorities",
+ "fact": "The interior minister stated that all wilaya, daira and commune seats and more than 1500 administrative annexes are linked by fibre optic to the ministry's headquarters (reported May 2023).",
+ "title": "La numérisation de l'administration publique, un objectif stratégique, ambitieux et réalisable",
+ "publisher": "L'Express Algérie",
+ "published": "2023-05-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

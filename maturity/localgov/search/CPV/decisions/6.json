@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected",
+ "fact": "The terms of reference describe the RTPE as a communication platform interconnecting and integrating all central and local government institutions, with over 700 interconnected institutions and 17,000 users.",
+ "title": "Terms of Reference, Security Operations Center (SOC) and SIEM implementation in the Private and Technological Network of the State of Cabo Verde (RTPE)",
+ "publisher": "NOSi / Ministry of Finance",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

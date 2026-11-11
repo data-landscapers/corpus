@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;connected",
+ "fact": "The Department of Communications and Digital Technologies understood that the Western Cape provincial broadband programme had extended broadband to 29 local municipality sites in the Eden, Cape Winelands, Overberg, West Coast and Central Karoo districts, while SA Connect phase 1 excluded the Western Cape and Gauteng.",
+ "title": "Western Cape municipalities with free Wi-Fi hotspots (NCOP written reply to question 425)",
+ "publisher": "Parliament of the Republic of South Africa, National Council of Provinces",
+ "published": "2021-08-27",
+ "date_source": "source",
+ "why_not": ""
+}

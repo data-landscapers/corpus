@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "governance",
+ "fact": "The 2024-2029 plan lists uneven ICT access and ICT infrastructure gaps as a risk and commits to a structured, fully funded ICT investment plan so that lower levels of local government have access to the internet and ICT equipment to reach national systems.",
+ "title": "MINALOC Strategic Plan 2024-2029",
+ "publisher": "Ministry of Local Government (MINALOC)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

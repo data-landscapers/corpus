@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "governance",
+ "fact": "The December 2021 National Digital Development Strategy plans to prioritise connections to local councils and, within five years, extend broadband access to all government institutions nationwide including local councils.",
+ "title": "National Digital Development Strategy: Sierra Leone Empowered by a Digital Economy",
+ "publisher": "Ministry of Information and Communications",
+ "published": "2021-12",
+ "date_source": "source",
+ "why_not": ""
+}

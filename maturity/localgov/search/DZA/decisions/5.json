@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected;authorities;governance",
+ "fact": "Algérie Télécom Tlemcen said 45 of 120 commune annexes in the wilaya were connected by fibre in 2018, financed from the wilaya budget under the interior ministry's national programme, with 30 more due in the first quarter of 2019.",
+ "title": "45 annexes communales raccordées à la fibre optique",
+ "publisher": "Algerie360",
+ "published": "2019-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

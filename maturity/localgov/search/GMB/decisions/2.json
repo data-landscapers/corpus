@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "connection",
+ "aspect": "connected",
+ "fact": "",
+ "title": "Performance Review Assessment Report (3rd quarter 2024 summary)",
+ "publisher": "Ministry of Finance and Economic Affairs",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": "unfetchable: SSL error and no Wayback capture, so text not read."
+}

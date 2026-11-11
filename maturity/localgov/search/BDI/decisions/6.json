@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "connection",
+ "aspect": "",
+ "fact": "",
+ "title": "Burundi Digital Foundations Project",
+ "publisher": "World Bank Group",
+ "published": "2022-05",
+ "date_source": "source",
+ "why_not": "off-topic: the text states no fact on commune office connection; it covers COMGOV for central MDAs and rural coverage for households"
+}

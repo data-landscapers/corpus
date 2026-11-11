@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;connected;use",
+ "fact": "A preliminary analysis note dated 26 September 2021 states RESINA covers 89 communes of 351, with 2,332 sites connected, and lists weak territorial coverage (89/351 communes) among its difficulties.",
+ "title": "Note d'Analyse Préliminaire",
+ "publisher": "Assises du RESINA / ANPTIC",
+ "published": "2021-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

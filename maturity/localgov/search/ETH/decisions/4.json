@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;connected;governance",
+ "fact": "On 23 January 2019 the Ministry of Innovation and Technology said WoredaNet, the current government network, connects the 9 regions, 2 city administrations, 950 woredas and other sites, and that it plans to replace it with a National Back Bone.",
+ "title": "Ministry to Replace WoredaNet with New ICT Infrastructure",
+ "publisher": "Ethiopian News Agency",
+ "published": "2019-01-23",
+ "date_source": "source",
+ "why_not": ""
+}

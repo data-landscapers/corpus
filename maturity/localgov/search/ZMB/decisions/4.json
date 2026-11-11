@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;connected",
+ "fact": "So far 93 local authorities, 79 district administration offices and 29 schools have been connected to the Government Wide Area Network, 438 sites in total, and solar energy is installed in all 116 councils.",
+ "title": "Zambia - LONDA 2025",
+ "publisher": "Paradigm Initiative",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

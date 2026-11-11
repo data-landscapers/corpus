@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "connection",
+ "aspect": "",
+ "fact": "",
+ "title": "Intranet Administratif",
+ "publisher": "Sénégal Numérique SA",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "headline-only-stub: fetch returned a bot-check page (9 words); the page was not read."
+}

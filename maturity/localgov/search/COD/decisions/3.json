@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "governance;connected;authorities",
+ "fact": "The Digital Transformation Project unit (UG PTN) launched an international tender to connect governorate and territory administrative buildings, with a pilot covering seven governorates and 44 of 145 territories via LEO satellite internet and a VPN to the GovNet hub in Kinshasa, financed by the World Bank and AFD.",
+ "title": "Connectivité des bâtiments administratifs de Gouvernorats et de 145 territoires : Phase pilote sept (7) Gouvernorats et 44 territoires",
+ "publisher": "Congo Quotidien",
+ "published": "2026-06-02",
+ "date_source": "source",
+ "why_not": ""
+}

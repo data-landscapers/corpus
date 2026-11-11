@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.alwihdainfo.com/tchad-la-commune-dabeche-et-les-telecommunications-unissent-leurs-forces-pour-accelerer-la-digitalisation/",
+  "title": "Tchad : la commune d'Abéché et les Télécommunications unissent leurs forces pour accélérer la digitalisation",
+  "publisher": "Alwihda Info",
+  "published": "2026-09-15",
+  "sub_indicator": "connection",
+  "why": "Abéché town hall digitisation partnership with ADETIC; local office connection status."
+ },
+ {
+  "url": "https://mten.gouv.td/le-ministre-presente-le-secteur-des-telecommunications-et-du-numerique-au-cesce/",
+  "title": "Le ministre présente le secteur des télécommunications et du numérique au CESCE",
+  "publisher": "Ministère des Télécommunications du Tchad",
+  "published": "2026-08-07",
+  "sub_indicator": "connection",
+  "why": "48 public institutions on fibre; interconnection of provincial institutions still to come."
+ },
+ {
+  "url": "https://cesce.td/ladetic-face-aux-conseillers-de-la-republique-pour-echanger-sur-la-transition-numerique-dans-ladministration-publique/",
+  "title": "L'ADETIC face aux conseillers de la République pour échanger sur la transition numérique dans l'Administration publique",
+  "publisher": "CESCE",
+  "published": "2026-08-05",
+  "sub_indicator": "connection",
+  "why": "ADETIC fibre interconnects 49 ministries and institutions in N'Djamena; government network reach."
+ },
+ {
+  "url": "https://tchadinfos.com/2026/05/20/le-gouvernement-dote-les-23-communes-chefs-lieux-des-provinces-dequipements-informatiques/",
+  "title": "Le gouvernement dote les 23 communes chefs-lieux des provinces d'équipements informatiques",
+  "publisher": "Tchadinfos",
+  "published": "2026-05-20",
+  "sub_indicator": "connection",
+  "why": "Equipment handed to 23 provincial-capital communes (PATN)."
+ },
+ {
+  "url": "https://traceinfos.com/tchad-les-23-communes-provinciales-dotees-dequipements-numeriques-pour-moderniser-les-services-publics/",
+  "title": "Tchad : les 23 communes provinciales dotées d'équipements numériques pour moderniser les services publics",
+  "publisher": "TraceInfos",
+  "published": "2026-05-19",
+  "sub_indicator": "connection",
+  "why": "Starlink Business kits for 23 communes."
+ },
+ {
+  "url": "https://www.developmentaid.org/tenders/view/1635818/chad-digital-transformation-project-mise-en-reseau-et-connectivite-des-10-communes-darrondissement-d",
+  "title": "Mise en réseau et connectivité des 10 communes d'arrondissement de la province de N'Djamena via la connexion satellite",
+  "publisher": "PATN / DevelopmentAid",
+  "published": "2026-04-14",
+  "sub_indicator": "connection",
+  "why": "Tender to connect 10 N'Djamena arrondissement communes by satellite."
+ },
+ {
+  "url": "https://tchadinfos.com/2026/01/07/le-ministere-des-finances-appuie-les-conseils-provinciaux-en-materiels-bureautiques/",
+  "title": "Le ministère des Finances appuie les Conseils provinciaux en matériels bureautiques",
+  "publisher": "Tchadinfos",
+  "published": "2026-01-07",
+  "sub_indicator": "connection",
+  "why": "Starlink kit to each of 23 provincial councils."
+ }
+]

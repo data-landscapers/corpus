@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "use;authorities",
+ "fact": "A HIT researcher said the Local Authorities Digital System had been deployed to 53 councils, linking them to the national public financial management system.",
+ "title": "HIT researcher develops app to automate local authorities",
+ "publisher": "The Herald",
+ "published": "2024-05-16",
+ "date_source": "source",
+ "why_not": ""
+}

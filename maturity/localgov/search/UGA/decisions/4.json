@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "authorities;connected",
+ "fact": "The NITA-U National IT Survey 2022 (fieldwork January to April 2022, 95 districts with full data) found 60.6% of local governments had internet access, 39.4% did not, and only 39% of those with access had a fibre connection to their ISP.",
+ "title": "National Information Technology Survey Final Report 2022",
+ "publisher": "National Information Technology Authority - Uganda (NITA-U)",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

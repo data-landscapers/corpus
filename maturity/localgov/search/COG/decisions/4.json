@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "last12",
+ "fact": "The works launched on 14 June 2024 under PATN sub-component 2.2 to connect public administrations are said to be meant to connect the mairies, courts, hospitals and ministries.",
+ "title": "NUMERIQUE : Lancement des travaux de connectivité dans les administrations publiques",
+ "publisher": "La Semaine Africaine",
+ "published": "2024-07-14",
+ "date_source": "source",
+ "why_not": ""
+}

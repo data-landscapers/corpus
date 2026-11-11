@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "connection",
+ "aspect": "connected",
+ "fact": "The World Bank's Project Appraisal Document of 8 June 2026 states that gaps in middle-mile infrastructure have left public institutions, schools, health centers and Tinkhundla Centers with limited or no connectivity.",
+ "title": "Project Appraisal Document (PAD): Digital Eswatini Project",
+ "publisher": "World Bank",
+ "published": "2026-06-08",
+ "date_source": "source",
+ "why_not": ""
+}
