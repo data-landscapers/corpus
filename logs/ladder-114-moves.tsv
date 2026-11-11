@@ -173,12 +173,12 @@ socialprotection	COG	socialmis	4	unplaced
 socialprotection	SOM	socialmis	4	unplaced		
 socialprotection	UGA	socialmis	5	3		
 socialprotection	ZWE	socialmis	4	unplaced		
-startups	BEN	startuppolicy	4	unplaced		
-startups	BWA	startuppolicy	5	unplaced		
-startups	CPV	startuppolicy	5	3		
-startups	NGA	startuppolicy	4	unplaced		
-startups	RWA	startuppolicy	5	unplaced		
-startups	ZAF	startuppolicy	5	unplaced		
+startups	BEN	startuppolicy	4	unplaced	gap confirmed; asked notes-for-osint 319	2026-11-11
+startups	BWA	startuppolicy	5	unplaced	gap confirmed; asked notes-for-osint 319	2026-11-11
+startups	CPV	startuppolicy	5	3	gap confirmed; asked notes-for-osint 319	2026-11-11
+startups	NGA	startuppolicy	4	unplaced	restaged 4 on NGA-005 (by hand)	2026-11-11
+startups	RWA	startuppolicy	5	unplaced	gap confirmed; asked notes-for-osint 319	2026-11-11
+startups	ZAF	startuppolicy	5	unplaced	gap confirmed; asked notes-for-osint 319	2026-11-11
 statisticslaw	BWA	law	5	3		
 statisticslaw	ZMB	law	5	3		
 statisticsstrategy	BDI	strategy	5	3	restaged 5 on BDI-004	2026-11-10

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "startuppolicy",
-      "stage": "unplaced",
-      "law": "",
-      "labelled": "",
+      "stage": "4",
+      "law": "adopted",
+      "labelled": "labelled",
       "funded": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether a startup law or strategy is prepared or adopted.",
-      "note": "First pass: counted from the four questions by study-ladder-startups.py.",
-      "as_at": "2026-11-09"
+      "stage_sources": "NGA-005;NGA-002",
+      "gaps": "No source found since October 2023 says a public fund under the startup law or strategy has financed startups.",
+      "note": "Restaged by hand 2026-11-11 (housekeeping 57): NITDA's July 2024 labelling committee shows the 2022 Startup Act in force inside the window (NGA-005), and labelled startups are reported in 2025 (NGA-002); no investment by the Act's seed fund is held.",
+      "as_at": "2026-11-11"
     }
   ]
 }

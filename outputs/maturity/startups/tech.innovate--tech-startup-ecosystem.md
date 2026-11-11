@@ -1,6 +1,6 @@
 # Tech startup ecosystem: startup law and funding
 
-*As at 2026-08-31.*
+*As at 2026-09-30.*
 
 ## The norm
 
@@ -21,11 +21,11 @@ The Digital Transformation Strategy and the AU Startup Model Law Framework ask f
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 6 |
+| 4 Operating | 7 |
 | 3 Established | 9 |
 | 2 Nascent | 16 |
 | 1 Absent | 2 |
-| Unplaced | 5 |
+| Unplaced | 4 |
 | No evidence | 16 |
 
 ## Countries
@@ -62,6 +62,13 @@ Over 540 startups held the state's innovative-startup label by 2025; investments
 - The ADD says the Label JEI, created in 2019, has benefited more than 540 startups out of 1,303 applications, with an international payment card allowance of up to 1 million dirhams a year ([source, 2025-04](https://www.lavieeco.com/tech/add-silence-on-digitalise/)).
 - Decree No. 2.26.576 of 3 August 2026 strengthened the regulatory framework of the Startup Catalytic Fund, set up by the Ministry of Digital Transition and Administration Reform and managed by Tamwilcom, with $36 million public money over three years into venture capital funds, per The Morocco Post ([source, 2026-08-03](https://themoroccopost.com/morocco-targets-258-million-in-startup-financing-through-new-venture-capital-mechanism/)).
 - Decree 2.26.576 of 3 August 2026 authorises Tamwilcom to take stakes for the Fonds Catalytique Startups in funds investing in startups, capped at 347 million dirhams over three years, under the Digital Morocco 2030 strategy ([source, 2026-08-03](https://librentreprise.ma/2026/09/10/feu-vert-a-tamwilcom-pour-investir-347-mdh-dans-les-startups/)).
+
+### Nigeria: 4 Operating
+
+Nigeria's 2022 Startup Act is in force and labels startups; no investment by its seed fund is reported.
+
+- NITDA inaugurated a Startup Labelling Committee in July 2024 to implement the Nigeria Startup Act, which it says is in force and grants labelled startups its benefits ([source, 2024-07-05](https://nitda.gov.ng/nitda-dg-inaugurates-startup-labelling-committee-for-implementation-of-nigeria-startup-act/8254/)).
+- NAN reports the Startup Consultative Forum's membership includes labelled startups, and that certified startups get access to incentives under the Act ([source, 2025-04-29](https://nannews.ng/nitda-inaugurates-startup-consultative-forum-assures-implementation-of-nsa/)).
 
 ### Tunisia: 4 Operating
 
@@ -247,12 +254,6 @@ Not established: Nothing found since October 2023 says whether a startup law or 
 ### Botswana: Unplaced
 
 A public innovation fund financed a startup in 2025, but no startup law or strategy since October 2023 is known, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether a startup law or strategy is prepared or adopted.
-
-### Nigeria: Unplaced
-
-The 2022 Startup Act labels startups, reported in 2025, but no source since October 2023 reports its adoption, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether a startup law or strategy is prepared or adopted.
 
