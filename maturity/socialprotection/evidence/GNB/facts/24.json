@@ -1,0 +1,18 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Seguros e Segurança Social",
+      "country_label": "Guinea-Bissau",
+      "class": "socialmis",
+      "platform": "",
+      "owner": "INSS",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-17cd70a049": "nothing: a pension or social insurance system; the study assesses social assistance programmes"
+  }
+}

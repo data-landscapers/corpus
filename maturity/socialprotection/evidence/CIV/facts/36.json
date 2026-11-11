@@ -1,0 +1,18 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "IPS CGRAE",
+      "country_label": "Côte d'Ivoire",
+      "class": "socialmis",
+      "platform": "",
+      "owner": "CGRAE",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-b7c46386bd": "nothing: a pension or social insurance system; the study assesses social assistance programmes"
+  }
+}

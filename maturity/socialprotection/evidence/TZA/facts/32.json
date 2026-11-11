@@ -1,0 +1,18 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Members Portal",
+      "country_label": "Tanzania",
+      "class": "socialmis",
+      "platform": "",
+      "owner": "Public Service Social Security Fund (PSSSF)",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-a1a251c68d": "nothing: a pension or social insurance system; the study assesses social assistance programmes"
+  }
+}

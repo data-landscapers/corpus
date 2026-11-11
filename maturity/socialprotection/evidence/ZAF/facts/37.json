@@ -1,0 +1,18 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Government Employees Pension Fund (GEPF)",
+      "country_label": "South Africa",
+      "class": "socialmis",
+      "platform": "",
+      "owner": "South African Social Security Agency",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-6d1847ec80": "nothing: a pension or social insurance system; the study assesses social assistance programmes"
+  }
+}

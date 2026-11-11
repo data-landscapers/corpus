@@ -1,0 +1,18 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "CNSS - Caisse Nationale de Sécurité Sociale",
+      "country_label": "Djibouti",
+      "class": "socialmis",
+      "platform": "",
+      "owner": "CNSS",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-0d1f93f6ad": "nothing: a pension or social insurance system; the study assesses social assistance programmes"
+  }
+}

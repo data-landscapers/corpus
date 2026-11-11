@@ -1,0 +1,18 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "NAPOS-II",
+      "country_label": "Sierra Leone",
+      "class": "socialmis",
+      "platform": "",
+      "owner": "National Social Security and Insurance Trust",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-7afcad4f49": "nothing: a pension or social insurance system; the study assesses social assistance programmes"
+  }
+}

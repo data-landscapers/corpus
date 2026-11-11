@@ -1,0 +1,18 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "INIVAE",
+      "country_label": "Gabon",
+      "class": "socialmis",
+      "platform": "",
+      "owner": "CPPF",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-b832e1fdb4": "nothing: a pension or social insurance system; the study assesses social assistance programmes"
+  }
+}

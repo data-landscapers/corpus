@@ -1,0 +1,18 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Pension system",
+      "country_label": "Mauritania",
+      "class": "socialmis",
+      "platform": "",
+      "owner": "CNSS / Ministry of Public Service and Labour",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-19d67fe20c": "nothing: a pension or social insurance system; the study assesses social assistance programmes"
+  }
+}

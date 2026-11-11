@@ -1,0 +1,18 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Sistema Integrado da Providência Social",
+      "country_label": "Cabo Verde",
+      "class": "socialmis",
+      "platform": "",
+      "owner": "Instituto Nacional de Previdência Social",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-1c98249cc8": "nothing: a pension or social insurance system; the study assesses social assistance programmes"
+  }
+}

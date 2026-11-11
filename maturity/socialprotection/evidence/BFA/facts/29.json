@@ -1,0 +1,26 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "SGRAMU",
+      "country_label": "Burkina Faso",
+      "class": "socialmis",
+      "platform": "",
+      "owner": "CNSS and CARFO",
+      "tiers": ""
+    },
+    {
+      "system": "SIGA",
+      "country_label": "Burkina Faso",
+      "class": "socialmis",
+      "platform": "",
+      "owner": "CNSS and CARFO",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-b79b782f77": "nothing: a pension or social insurance system; the study assesses social assistance programmes"
+  }
+}

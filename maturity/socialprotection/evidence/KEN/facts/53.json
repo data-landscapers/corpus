@@ -1,0 +1,18 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "NSSF / Retirement Benefits Authority",
+      "country_label": "Kenya",
+      "class": "socialmis",
+      "platform": "",
+      "owner": "National Social Security Fund",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-dbf01273f5": "nothing: a pension or social insurance system; the study assesses social assistance programmes"
+  }
+}

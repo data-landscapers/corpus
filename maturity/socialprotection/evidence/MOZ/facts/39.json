@@ -1,0 +1,18 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Sistema de Informação da segurança social de Moçambique",
+      "country_label": "Mozambique",
+      "class": "socialmis",
+      "platform": "",
+      "owner": "Public Social Security Institute (INPS)",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-62bca879aa": "nothing: a pension or social insurance system; the study assesses social assistance programmes"
+  }
+}

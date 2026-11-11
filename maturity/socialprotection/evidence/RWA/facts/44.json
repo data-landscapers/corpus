@@ -1,0 +1,18 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Pension Scheme",
+      "country_label": "Rwanda",
+      "class": "socialmis",
+      "platform": "",
+      "owner": "Rwanda Social Security Board (RSSB)",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-ef687e40aa": "nothing: a pension or social insurance system; the study assesses social assistance programmes"
+  }
+}
