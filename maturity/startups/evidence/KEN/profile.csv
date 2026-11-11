@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-KEN,startuppolicy,law,coverage,draft,2024,KEN-001;KEN-002,,
-KEN,startuppolicy,labelled,coverage,,,,,nothing held
-KEN,startuppolicy,funded,coverage,,,,,nothing held
+KEN,startuppolicy,law,coverage,draft,2024,KEN-001;KEN-002;KEN-003,KEN-004=none,
+KEN,startuppolicy,labelled,coverage,,,,,nothing found
+KEN,startuppolicy,funded,coverage,,,,,nothing found
