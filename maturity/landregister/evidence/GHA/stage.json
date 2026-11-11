@@ -6,13 +6,13 @@
       "stage": "3",
       "register": "inservice",
       "national": "",
-      "online": "",
+      "online": "online",
       "cap": "",
       "flags": "",
       "stage_sources": "GHA-002;GHA-004",
       "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-23"
+      "note": "ELIS is the backbone of the Lands Commission's online services and reached the Volta Region in June 2026, though manual processes coexist and progress centres on Accra. It is not national.",
+      "as_at": "2026-11-11"
     }
   ]
 }

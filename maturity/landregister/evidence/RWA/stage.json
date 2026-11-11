@@ -1,17 +1,18 @@
 {
- "iso3": "RWA",
- "cells": [
-  {
-   "sub_indicator": "land",
-   "stage": "3",
-   "register": "inservice",
-   "national": "",
-   "online": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "RWA-001",
-   "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
-   "note": "First pass: counted from the four questions by study-ladder-landregister.py."
-  }
- ]
+  "iso3": "RWA",
+  "cells": [
+    {
+      "sub_indicator": "land",
+      "stage": "5",
+      "register": "inservice",
+      "national": "nationwide",
+      "online": "online",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "RWA-002;RWA-003;RWA-004",
+      "gaps": "",
+      "note": "The Ministry of Environment says every land record has been kept in a digital registry since nationwide regularisation, and transactions that need no notary run fully online through Irembo. National coverage is stated by its own source.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

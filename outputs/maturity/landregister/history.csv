@@ -40,3 +40,54 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-23,MAR,dpi.registry--land-register,ladder,5,5,MAR-002;MAR-008,"Nationwide must be shown by its own evidence (Bill, 2026-10-23): ANCFCC says its digital cadastral maps cover the whole national territory; held at 5."
 2026-11-01,EGY,dpi.registry--land-register,fact,3,3,EGY-002,"Arrival added EGY-004 and EGY-005, a registry network and online registration; national coverage not shown, stage unchanged."
 2026-11-11,MUS,dpi.registry--land-register,fact,no evidence,3,MUS-001,The November 2024 list of operational government systems names the housing and land ministry's LAVIMS
+2026-11-11,AGO,dpi.registry--land-register,review,4,4,AGO-002;AGO-003,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,BDI,dpi.registry--land-register,review,3,3,BDI-002;BDI-006,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,BEN,dpi.registry--land-register,review,3,3,BEN-007;BEN-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,BFA,dpi.registry--land-register,review,3,3,BFA-001;BFA-009,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,BWA,dpi.registry--land-register,review,2,2,BWA-002;BWA-003,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,CAF,dpi.registry--land-register,review,2,2,CAF-001;CAF-002,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,CIV,dpi.registry--land-register,review,3,3,CIV-002;CIV-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,CMR,dpi.registry--land-register,review,2,2,CMR-004;CMR-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,COD,dpi.registry--land-register,review,2,2,COD-002;COD-003,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,COG,dpi.registry--land-register,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,COM,dpi.registry--land-register,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,CPV,dpi.registry--land-register,review,2,2,CPV-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,DJI,dpi.registry--land-register,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,DZA,dpi.registry--land-register,review,5,5,DZA-003;DZA-004;DZA-005,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,ERI,dpi.registry--land-register,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,ETH,dpi.registry--land-register,review,5,3,ETH-003;ETH-001,ETH 5->3: NRLAIS covers rural land only; urban eLand in three cities
+2026-11-11,GAB,dpi.registry--land-register,review,2,2,GAB-003;GAB-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,GHA,dpi.registry--land-register,review,3,3,GHA-002;GHA-004,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,GIN,dpi.registry--land-register,review,2,2,GIN-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,GMB,dpi.registry--land-register,review,2,2,GMB-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,GNB,dpi.registry--land-register,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,GNQ,dpi.registry--land-register,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,KEN,dpi.registry--land-register,review,3,3,KEN-001;KEN-004,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,LBR,dpi.registry--land-register,review,2,2,LBR-002;LBR-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,LBY,dpi.registry--land-register,review,2,2,LBY-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,LSO,dpi.registry--land-register,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,MDG,dpi.registry--land-register,review,3,3,MDG-003,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,MLI,dpi.registry--land-register,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,MOZ,dpi.registry--land-register,review,3,3,MOZ-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,MRT,dpi.registry--land-register,review,3,3,MRT-005;MRT-006,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,MWI,dpi.registry--land-register,review,3,3,MWI-002;MWI-005,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,NAM,dpi.registry--land-register,review,3,3,NAM-001;NAM-002,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,NER,dpi.registry--land-register,review,2,2,NER-004;NER-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,NGA,dpi.registry--land-register,review,2,2,NGA-002,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,RWA,dpi.registry--land-register,review,3,5,RWA-002;RWA-003;RWA-004,RWA 3->5: national coverage and online services stated by the ministry
+2026-11-11,SDN,dpi.registry--land-register,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,SEN,dpi.registry--land-register,review,3,2,SEN-001;SEN-005,"SEN 3->2: SIFCOM in preproduction, no land office working on it"
+2026-11-11,SLE,dpi.registry--land-register,review,2,2,SLE-002;SLE-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,SOM,dpi.registry--land-register,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,SSD,dpi.registry--land-register,review,2,2,SSD-002;SSD-004,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,STP,dpi.registry--land-register,review,unplaced,unplaced,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,SWZ,dpi.registry--land-register,review,3,3,SWZ-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,SYC,dpi.registry--land-register,review,no evidence,no evidence,,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,TCD,dpi.registry--land-register,review,3,3,TCD-003,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,TGO,dpi.registry--land-register,review,3,3,TGO-003,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,TUN,dpi.registry--land-register,review,5,5,TUN-007;TUN-008;TUN-009,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,TZA,dpi.registry--land-register,review,3,3,TZA-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,UGA,dpi.registry--land-register,review,3,3,UGA-004;UGA-002,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,ZAF,dpi.registry--land-register,review,3,3,ZAF-001,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,ZMB,dpi.registry--land-register,review,3,3,ZMB-001;ZMB-003,Rebuild: first-pass cell read afresh against the ladder; stage held
+2026-11-11,ZWE,dpi.registry--land-register,review,3,3,ZWE-008;ZWE-006,Rebuild: first-pass cell read afresh against the ladder; stage held

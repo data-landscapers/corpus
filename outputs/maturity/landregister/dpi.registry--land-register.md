@@ -1,6 +1,6 @@
 # Land register: land register
 
-*As at 2026-10-18.*
+*As at 2026-11-11.*
 
 ## The norm
 
@@ -22,8 +22,8 @@ The AU Framework and Guidelines on Land Policy asks for land rights, customary t
 |---|---|
 | 5 Leading | 4 |
 | 4 Operating | 1 |
-| 3 Established | 23 |
-| 2 Nascent | 14 |
+| 3 Established | 22 |
+| 2 Nascent | 15 |
 | 1 Absent | 0 |
 | Unplaced | 3 |
 | No evidence | 9 |
@@ -34,13 +34,9 @@ The AU Framework and Guidelines on Land Policy asks for land rights, customary t
 
 Land searches or registrations could be made online in 2025.
 
+- The director general says all national cadastral plans and the land conservation archives are digitised, with over 27 million documents in a database and over 14 million properties digitised ([source, 2025-03-11](https://www.lnr-dz.com/2025/03/11/un-livret-foncier-electronique-sous-forme-de-carte-electronique-en-2025/)).
+- The director general says the database covers 217 land conservations across the country ([source, 2025-03-11](https://www.lnr-dz.com/2025/03/11/un-livret-foncier-electronique-sous-forme-de-carte-electronique-en-2025/)).
 - The director general says the Fada El Djazair portal, launched May 2024, gives access to cadastral and land information and offers over 6,500 electronic services, plus electronic payment of land service fees ([source, 2025-03-11](https://www.lnr-dz.com/2025/03/11/un-livret-foncier-electronique-sous-forme-de-carte-electronique-en-2025/)).
-
-### Ethiopia: 5 Leading
-
-Land searches or registrations could be made online in 2025.
-
-- The eLand platform states citizens can submit online applications for ownership transfer, lease, mortgage and parcel subdivision, search property with map integration, pay fees online and download title certificates ([source, 2025](https://land.et)).
 
 ### Morocco: 5 Leading
 
@@ -49,32 +45,42 @@ Land searches or registrations could be made online in 2024.
 - ANCFCC states its digital cadastral maps cover the entire national territory ([source, 2026](https://www.ancfcc.gov.ma/pr%C3%A9sentation/chiffres-cl%C3%A9s)).
 - Notaries consult land documents online through a dedicated space on the ANCFCC electronic platform, for a fee ([source, 2024-01-15](https://medias24.com/2024/01/17/documents-fonciers-la-consultation-en-ligne-desormais-ouverte-aux-notaires/)).
 
+### Rwanda: 5 Leading
+
+Land searches or registrations could be made online in 2026.
+
+- The Ministry of Environment says that today every land record is kept in a digital registry, and that the e-Title system issues digital land titles ([source, 2026](https://www.environment.gov.rw/news-detail/rwanda-launched-electronic-land-registration-certificate-system)).
+- The Ministry of Environment says the nationwide land tenure regularisation of 2009-2013 digitised parcels and that today every land record is kept in a digital registry ([source, 2026](https://www.environment.gov.rw/news-detail/rwanda-launched-electronic-land-registration-certificate-system)).
+- The Ministry of Environment says land transactions that need no notary are now fully online via Irembo and e-Titles can be downloaded at landinformation.lands.rw ([source, 2026](https://www.environment.gov.rw/news-detail/rwanda-launched-electronic-land-registration-certificate-system)).
+
 ### Tunisia: 5 Leading
 
 Land searches or registrations could be made online in 2025.
 
-- Land conservator Wadii Rhouma said the operational digital land register lets users consult land titles remotely ([source, 2025-05-23](https://www.webdo.tn/fr/actualite/national/tunisie-vers-l-adoption-de-la-signature-et-du-contrat-electroniques-dans-le-registre-foncier/222152/)).
+- The Minister of State Domains says the ONPF has finished installing its comprehensive IT system and extended it to all its regional offices ([source, 2025-05-23](http://www.domainetat.tn/?p=14628)).
+- The Minister says the ONPF's IT system has been generalised to all its regional administrations ([source, 2025-05-23](http://www.domainetat.tn/?p=14628)).
 - The Minister says ONPF publicity services are now delivered online, including certificates of ownership, co-ownership, non-ownership and registration, via the updated cpf.gov.tn site ([source, 2025-05-23](http://www.domainetat.tn/?p=14628)).
 
 ### Angola: 4 Operating
 
 A digital land register covered the whole country in 2024; no source found reports online services.
 
+- Esri says GEODATA built a distributed cadastre system holding 450,000 urban parcel boundaries, distributed to all 18 IGCA province offices and linked to the registry offices' registration system ([source, 2024](https://www.esri.com/en-us/lg/industry/government/stories/angola-modernizes-land-administration-gis-cadastre-management)).
 - Esri says GEODATA implemented the property registration system in all 22 registry offices in all 18 provinces of Angola ([source, 2024](https://www.esri.com/en-us/lg/industry/government/stories/angola-modernizes-land-administration-gis-cadastre-management)).
 
 ### Benin: 3 Established
 
 A digital land register was in service for part of the country in 2026; no source found reports national coverage.
 
+- ANDF's PPMEC II project chief reported 643,993 parcels registered in the cadastral database across 12 communes, 3 fully covered and 9 partly, with e-Foncier Bénin in use ([source, 2026-11-06](https://fraternite.bj/terra-benin-et-ppmec-ii-pour-accelerer-la-securisation-fonciere/)).
 - Matin Libre reports Parakou has full cadastral coverage with 196,474 parcels registered in the national cadastre on the e-Foncier Bénin platform, with over 11,500 registration certificates (CEC) distributed by 1 September 2026 ([source, 2026-09-01](https://matinlibre.com/2026/09/04/cadastre-a-parakou-196-474-parcelles-enregistrees-les-pays-bas-saluent-les-avancees/)).
-- La Nation reports over 53,000 parcels registered across Porto-Novo in the e-Foncier Bénin digital cadastral database, with Cadastre registration certificates being distributed and 8,777 updates integrated ([source, 2026-04-20](https://lanation.bj/actualites/mise-en-place-du-cadastre-national-plus-de-53-000-parcelles-deja-enregistrees-a-porto-novo-les-pays-bas-satisfaits-des-resultats-obtenus)).
 
 ### Burkina Faso: 3 Established
 
 A digital land register was in service for part of the country in 2026; no source found reports national coverage.
 
-- ANSSI's director general says FasoSign is operational on SYC@D, the system managing the cadastre, state domain and land, for issuing signed provisional cession orders ([source, 2026-09-15](https://cfinance.news/article/burkina-fasomodernisation-de-ladministration-publique-le-premier-ministre-lance-la-plateforme-fasosign-pour-boucler-la-boucle-de-la-dematerialisation/)).
 - Sidwaya reports the Direction générale des impôts officially launched SYC@D, a cloud platform integrating cadastre, domain and land processes, on 21 March 2025 in Ouagadougou, accessible at sif.bf ([source, 2025-03-21](https://www.sidwaya.info/foncier-au-burkina-sycd-pour-une-meilleure-gestion-des-terres/)).
+- ANSSI's director general says FasoSign is operational on SYC@D, the system managing the cadastre, state domain and land, for issuing signed provisional cession orders ([source, 2026-09-15](https://cfinance.news/article/burkina-fasomodernisation-de-ladministration-publique-le-premier-ministre-lance-la-plateforme-fasosign-pour-boucler-la-boucle-de-la-dematerialisation/)).
 
 ### Burundi: 3 Established
 
@@ -94,6 +100,7 @@ A digital land register was in service for part of the country in 2023; no sourc
 A digital land register was in service for part of the country in 2023; no source found reports national coverage.
 
 - The finance ministry says the Livre Foncier Electronique (LIFE) is an application letting notaries consult land titles online ([source, 2023-11-02](https://finances.gouv.ci/gouvernance-et-reformes/fiscalite-interieure)).
+- The director of the Cadastre said at the Journees foncieres (5-7 October 2026) that the tax administration's e-Cadastre platform is contributing to the progressive dematerialisation of cadastre procedures ([source, 2026-10](https://www.koaci.com/article/2026/10/09/cote-divoire/societe/cote-divoire-journees-foncieres-le-cadastre-numerique-au-coeur-de-la-reforme-fiscale_201459.html)).
 
 ### Egypt: 3 Established
 
@@ -106,6 +113,13 @@ A digital land register was in service for part of the country in 2025; no sourc
 A digital land register was in service for part of the country in 2026; no source found reports national coverage.
 
 - The Ministry's Deeds Registry page says that since 1995 the Registry has done away with manual land, debts and miscellaneous contract registers because the information is computerised and retrievable within seconds, with registers updated daily ([source, 2026-08-29](https://gov.sz/index.php/departments-sp-623334762/deeds)).
+
+### Ethiopia: 3 Established
+
+A digital land register was in service for part of the country in 2025; no source found reports national coverage.
+
+- The Ministry of Agriculture describes NRLAIS as a computer-based central repository of rural land transactions, land use and ownership records ([source, 2024-05-30](https://www.moa.gov.et/e-services/)).
+- The eLand platform, built on CRPRS, is stated to be in use in the Ethiopian cities of Bishoftu, Adama and Shagar for digital land registration, transfers and title records ([source, 2025](https://land.et)).
 
 ### Ghana: 3 Established
 
@@ -132,6 +146,7 @@ A digital land register was in service for part of the country in 2025; no sourc
 A digital land register was in service for part of the country in 2024; no source found reports national coverage.
 
 - Malawi launched LIMS in February 2024, a web-based system linking Lands, Surveys and Physical Planning where registered users can view land parcels and assets ([source, 2024-02](https://itweb.africa/article/malawi-reviews-digital-land-workflows/rW1xLv5ngAp7Rk6m)).
+- Lands Minister Chimwemwe Chipungu said the ministry's Land Information Management System, holding title deeds and other land data, was hacked about two weeks before 2026-10-27 ([source, 2026-10-27](https://www.nyasatimes.com/minister-chipungu-reveals-hackers-targeted-malawis-land-database/)).
 
 ### Mauritania: 3 Established
 
@@ -157,18 +172,7 @@ A digital land register was in service for part of the country in 2024; no sourc
 A digital land register was in service for part of the country in 2024; no source found reports national coverage.
 
 - The presentation says NCLAS 1 was rolled out to all Communal Land Boards in 2008 and web-based, server-based NCLAS 2 was introduced in 2014 by the ministry, to register customary and leasehold rights in communal areas ([source, 2024-05-20](https://www.fig.net/resources/proceedings/fig_proceedings/fig2024/ppt/ts02g/TS02G_mazambani_12660_ppt.pdf)).
-
-### Rwanda: 3 Established
-
-A digital land register was in service for part of the country in 2026; no source found reports national coverage.
-
-- The National Land Authority presentation lists the establishment of a National Registry system (LAIS) with a spatial database, with more than 14 systems connected to LAIS ([source, 2026-01-28](https://www.un.org/globalgeospatial/sites/default/files/2026-04/rwanda_land_administration_case_study_unggkic.pdf)).
-
-### Senegal: 3 Established
-
-A digital land register was in service for part of the country in 2025; no source found reports national coverage.
-
-- The World Bank reports 351,899 occupancy titles with NICAD recorded in the Land Information System at 21 November 2025, and zero municipal land bureaux yet equipped and operational with LIS access ([source, 2025-11-21](https://documents1.worldbank.org/curated/en/099122125122530674/pdf/P172422-ab8683a5-9e88-4886-8cab-aa59ce4e604d.pdf)).
+- The FIG paper by NUST authors says the Namibia Communal Land Administration System has registered over 193,000 communal land rights, all mapped and digitised, about 79% of the estimated total ([source, 2023-05](https://www.fig.net/resources/proceedings/fig_proceedings/fig2023/papers/ts08i/TS08I_MABAKENG.pdf)).
 
 ### South Africa: 3 Established
 
@@ -193,6 +197,7 @@ A digital land register was in service for part of the country in 2024; no sourc
 A digital land register was in service for part of the country in 2025; no source found reports national coverage.
 
 - The Minister of Lands, Housing and Urban Development, Judith Nabakooba, described the Uganda National Land Information System (UGNLIS) as a public portal where citizens can check land status, confirm ownership and track transactions ([source, 2025-08-29](https://media.gcic.go.ug/landowners-to-receive-freehold-titles-in-government-initiative/)).
+- Minister Ntabazi said that with the new digitalisation system applicants enter their data in the computer at district level and have their title printed ([source, 2026-10-11](https://nilepost.co.ug/news/377216/government-moves-to-reduce-cost-of-obtaining-land-titles)).
 
 ### Zambia: 3 Established
 
@@ -206,13 +211,14 @@ A digital land register was in service for part of the country in 2024; no sourc
 A digital land register was in service for part of the country in 2025; no source found reports national coverage.
 
 - Zimbabwe launched the Digital Land Administration Platform for electronic processing of title deeds, per a Government Gazette notice announced by Justice Minister Ziyambi Ziyambi ([source, 2025-05-30](https://newziana.co.zw/zimbabwe-launches-digital-platform-to-modernize-title-deed-processing/)).
+- The Department of the Surveyor General's eCadastre portal is live, described as a public record platform with land parcel boundaries, ownership and usage information, and lets users search property by district, owner name, property ID or deed number ([source, 2026](http://www.zimcadastre.co.zw/)).
 
 ### Botswana: 2 Nascent
 
 Digital land registration was under way in 2026; none in service is on record.
 
-- The acting Minister of Lands and Agriculture told Parliament the ministry will upgrade the Land Information System and the Integrated Geographic Information System under the Twelfth National Development Plan, and plans an Electronic Deeds Registration Systems Act to give digital registration a legal framework ([source, 2026-03-02](https://dailynews.gov.bw/news-detail/90382)).
 - The Vice President and Finance Minister's 2026/27 Budget Speech commits to a four-year programme, starting in 2026/27, to upgrade the Land Information System and strengthen the Integrated Geographic Information System through the Geospatial Information Centre ([source, 2026-02-09](https://dailynews.gov.bw/news-detail/89882)).
+- The acting Minister of Lands and Agriculture told Parliament the ministry will upgrade the Land Information System and the Integrated Geographic Information System under the Twelfth National Development Plan, and plans an Electronic Deeds Registration Systems Act to give digital registration a legal framework ([source, 2026-03-02](https://dailynews.gov.bw/news-detail/90382)).
 
 ### Cameroon: 2 Nascent
 
@@ -285,6 +291,13 @@ Digital land registration was under way in 2026; none in service is on record.
 Digital land registration was under way in 2025; none in service is on record.
 
 - The federal government plans to develop and launch a national digital land information system to centralise and digitise land records, and the minister said several state governments are establishing geographic information systems in their land administration ([source, 2025-03-20](https://www.thisdaylive.com/2025/03/20/with-300-billion-in-dead-capital-fg-plans-digitisation-of-land-information-system-nationwide)).
+
+### Senegal: 2 Nascent
+
+Digital land registration was under way in 2026; none in service is on record.
+
+- PROCASEF's steering committee records that SIFCOM development is complete and the system is in its deployment phase, with 55 communes integrated in preproduction at 30 June 2026 ([source, 2026-06-30](https://procasef.com/comite-de-pilotage-du-procasef-des-resultats-historiques-salues-et-un-ptba-2026-revise-adopte/)).
+- The World Bank reports 351,899 occupancy titles with NICAD recorded in the Land Information System at 21 November 2025, and zero municipal land bureaux yet equipped and operational with LIS access ([source, 2025-11-21](https://documents1.worldbank.org/curated/en/099122125122530674/pdf/P172422-ab8683a5-9e88-4886-8cab-aa59ce4e604d.pdf)).
 
 ### Sierra Leone: 2 Nascent
 

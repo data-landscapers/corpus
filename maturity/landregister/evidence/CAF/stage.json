@@ -1,17 +1,18 @@
 {
- "iso3": "CAF",
- "cells": [
-  {
-   "sub_indicator": "land",
-   "stage": "2",
-   "register": "underway",
-   "national": "",
-   "online": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CAF-001;CAF-002",
-   "gaps": "No source found since October 2023 says: is a digital land register in service.",
-   "note": "First pass: counted from the four questions by study-ladder-landregister.py."
-  }
- ]
+  "iso3": "CAF",
+  "cells": [
+    {
+      "sub_indicator": "land",
+      "stage": "2",
+      "register": "underway",
+      "national": "",
+      "online": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CAF-001;CAF-002",
+      "gaps": "No source found since October 2023 says: is a digital land register in service.",
+      "note": "UNDP and the finance ministry funded a pilot e-cadastre in April 2024 to digitise a cadastre kept on paper. Nothing since says the pilot is in service.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "BEN",
- "cells": [
-  {
-   "sub_indicator": "land",
-   "stage": "3",
-   "register": "inservice",
-   "national": "",
-   "online": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BEN-001;BEN-005",
-   "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
-   "note": "First pass: counted from the four questions by study-ladder-landregister.py."
-  }
- ]
+  "iso3": "BEN",
+  "cells": [
+    {
+      "sub_indicator": "land",
+      "stage": "3",
+      "register": "inservice",
+      "national": "",
+      "online": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BEN-007;BEN-001",
+      "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
+      "note": "e-Foncier Bénin holds 643,993 parcels across 12 communes, three of them fully covered. National coverage is the aim of PPMEC II and TERRA BENIN, not yet a fact.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "land",
-      "stage": "5",
+      "stage": "3",
       "register": "inservice",
-      "national": "nationwide",
+      "national": "",
       "online": "online",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-002",
-      "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-17"
+      "stage_sources": "ETH-003;ETH-001",
+      "gaps": "No source says one digital register covers rural and urban land across the country.",
+      "note": "NRLAIS is a central register of rural land, said to serve rural areas across the country, and eLand runs urban registration and online services in three cities. Neither covers all land, as Namibia's communal system does not, so the register is in service for part of the country.",
+      "as_at": "2026-11-11"
     }
   ]
 }

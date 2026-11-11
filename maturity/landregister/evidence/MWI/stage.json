@@ -6,13 +6,13 @@
       "stage": "3",
       "register": "inservice",
       "national": "",
-      "online": "",
+      "online": "online",
       "cap": "",
       "flags": "",
-      "stage_sources": "MWI-002",
+      "stage_sources": "MWI-002;MWI-005",
       "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-23"
+      "note": "LIMS has been in service since February 2024, taking documents and payments online, and was hacked in October 2026. Manual transactions remain, so it is not national.",
+      "as_at": "2026-11-11"
     }
   ]
 }

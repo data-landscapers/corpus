@@ -9,10 +9,10 @@
       "online": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "AGO-003",
+      "stage_sources": "AGO-002;AGO-003",
       "gaps": "No source found since October 2023 says land can be searched or registered online.",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-18"
+      "note": "GEODATA's property registration system runs in all 22 registry offices across the 18 provinces, so the register is national (2024). No source says land can be searched or registered online.",
+      "as_at": "2026-11-11"
     }
   ]
 }

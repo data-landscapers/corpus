@@ -1,17 +1,18 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "land",
-   "stage": "2",
-   "register": "underway",
-   "national": "",
-   "online": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBR-002;LBR-001",
-   "gaps": "No source found since October 2023 says: is a digital land register in service.",
-   "note": "First pass: counted from the four questions by study-ladder-landregister.py."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "land",
+      "stage": "2",
+      "register": "underway",
+      "national": "",
+      "online": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-002;LBR-001",
+      "gaps": "No source found since October 2023 says: is a digital land register in service.",
+      "note": "The Land Authority signed for a Liberia Land Information System in October 2025 and is mapping properties in Nimba. Nothing says a register is in service.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

@@ -6,13 +6,13 @@
       "stage": "3",
       "register": "inservice",
       "national": "",
-      "online": "",
+      "online": "online",
       "cap": "",
       "flags": "",
       "stage_sources": "KEN-001;KEN-004",
       "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-23"
+      "note": "Ardhisasa is the central platform for land services, and searches, transfers and registrations run on it online. No source says every registry is on it.",
+      "as_at": "2026-11-11"
     }
   ]
 }

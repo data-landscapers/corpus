@@ -6,13 +6,13 @@
       "stage": "3",
       "register": "inservice",
       "national": "",
-      "online": "",
+      "online": "online",
       "cap": "",
       "flags": "",
       "stage_sources": "ZMB-001;ZMB-003",
       "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-23"
+      "note": "ZILAS is deployed and fully digital, title deeds are processed through it and applications can be made online (2024). No source says every land office uses it.",
+      "as_at": "2026-11-11"
     }
   ]
 }

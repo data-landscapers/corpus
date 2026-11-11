@@ -1,17 +1,18 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "land",
-   "stage": "no evidence",
-   "register": "",
-   "national": "",
-   "online": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says how land rights are recorded.",
-   "note": "First pass: counted from the four questions by study-ladder-landregister.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "land",
+      "stage": "no evidence",
+      "register": "",
+      "national": "",
+      "online": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "Nothing found says how land rights are recorded.",
+      "note": "Nothing held states how land rights are recorded or whether a digital register exists.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

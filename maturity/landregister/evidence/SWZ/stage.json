@@ -1,17 +1,18 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "land",
-   "stage": "3",
-   "register": "inservice",
-   "national": "",
-   "online": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-001",
-   "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
-   "note": "First pass: counted from the four questions by study-ladder-landregister.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "land",
+      "stage": "3",
+      "register": "inservice",
+      "national": "",
+      "online": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-001",
+      "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
+      "note": "The Deeds Registry says its registers have been computerised since 1995 and are updated daily. In August 2025 the registrar said lodging is still manual, and no source states national coverage or online services.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

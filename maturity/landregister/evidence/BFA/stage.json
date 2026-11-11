@@ -6,13 +6,13 @@
       "stage": "3",
       "register": "inservice",
       "national": "",
-      "online": "",
+      "online": "online",
       "cap": "",
       "flags": "",
-      "stage_sources": "BFA-009;BFA-001",
+      "stage_sources": "BFA-001;BFA-009",
       "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-23"
+      "note": "SYC@D, launched in March 2025, runs the cadastre and land titles and issues cadastral extracts and transfer orders online. No source says it covers every land office, and each rung must be met.",
+      "as_at": "2026-11-11"
     }
   ]
 }

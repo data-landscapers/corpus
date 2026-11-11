@@ -6,13 +6,13 @@
       "stage": "3",
       "register": "inservice",
       "national": "",
-      "online": "",
+      "online": "online",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-004",
+      "stage_sources": "UGA-004;UGA-002",
       "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-23"
+      "note": "UgNLIS is a public portal for checking land status and ownership, and districts enter applications into the new system. No source says it covers every district.",
+      "as_at": "2026-11-11"
     }
   ]
 }

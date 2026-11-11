@@ -6,13 +6,13 @@
       "stage": "3",
       "register": "inservice",
       "national": "",
-      "online": "",
+      "online": "online",
       "cap": "",
       "flags": "",
-      "stage_sources": "CIV-002",
+      "stage_sources": "CIV-002;CIV-001",
       "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-23"
+      "note": "The Livre Foncier Électronique lets notaries consult land titles online (November 2023), and in October 2026 the cadastre director said the e-Cadastre platform is dematerialising procedures. Neither source says the register covers the country.",
+      "as_at": "2026-11-11"
     }
   ]
 }

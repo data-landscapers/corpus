@@ -6,13 +6,13 @@
       "stage": "3",
       "register": "inservice",
       "national": "",
-      "online": "",
+      "online": "online",
       "cap": "",
       "flags": "",
       "stage_sources": "TGO-003",
       "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-23"
+      "note": "Land title procedures are fully dematerialised and cadastre procedures run through an online portal (2024). No source says the register covers the whole country.",
+      "as_at": "2026-11-11"
     }
   ]
 }

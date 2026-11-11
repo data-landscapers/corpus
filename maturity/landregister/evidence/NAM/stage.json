@@ -9,10 +9,10 @@
       "online": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "NAM-001",
+      "stage_sources": "NAM-001;NAM-002",
       "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-18"
+      "note": "NCLAS registers customary and leasehold rights for all Communal Land Boards, about 79% of the estimated total. It covers communal land only, so not the whole country.",
+      "as_at": "2026-11-11"
     }
   ]
 }

@@ -9,10 +9,10 @@
       "online": "online",
       "cap": "",
       "flags": "",
-      "stage_sources": "DZA-005",
+      "stage_sources": "DZA-003;DZA-004;DZA-005",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-18"
+      "note": "All cadastral plans and the archives of 217 land conservations across the country are digitised, over 14 million properties among them, and Fada El Djazair offers land services online (March 2025). National coverage is stated by the director general's own source.",
+      "as_at": "2026-11-11"
     }
   ]
 }

@@ -6,13 +6,13 @@
       "stage": "3",
       "register": "inservice",
       "national": "",
-      "online": "",
+      "online": "online",
       "cap": "",
       "flags": "",
       "stage_sources": "MOZ-001",
       "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-23"
+      "note": "SIGIT was operational at the project's close in 2024 with 1.28 million DUATs, and a web portal opened cadastre data to the public. No source says every land office works on it.",
+      "as_at": "2026-11-11"
     }
   ]
 }

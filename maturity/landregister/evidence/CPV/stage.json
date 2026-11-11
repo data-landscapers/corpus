@@ -6,13 +6,13 @@
       "stage": "2",
       "register": "underway",
       "national": "",
-      "online": "",
+      "online": "online",
       "cap": "",
       "flags": "",
       "stage_sources": "CPV-001",
       "gaps": "No source found since October 2023 says: is a digital land register in service.",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-18"
+      "note": "The finance ministry is procuring cadastral modules for municipalities, so digitisation is under way. The PEO portal takes property transfers online with the land registry, but no source says a digital register is in service, and each rung must be met.",
+      "as_at": "2026-11-11"
     }
   ]
 }

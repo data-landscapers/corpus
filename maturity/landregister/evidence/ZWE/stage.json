@@ -6,13 +6,13 @@
       "stage": "3",
       "register": "inservice",
       "national": "",
-      "online": "",
+      "online": "online",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZWE-008",
+      "stage_sources": "ZWE-008;ZWE-006",
       "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-23"
+      "note": "The Digital Land Administration Platform has processed title deeds electronically since May 2025 and the Surveyor General's eCadastre portal is searchable online. All titles must be digitised by July 2027, so the register is not yet national.",
+      "as_at": "2026-11-11"
     }
   ]
 }

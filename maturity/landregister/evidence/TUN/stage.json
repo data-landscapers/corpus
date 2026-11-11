@@ -9,10 +9,10 @@
       "online": "online",
       "cap": "",
       "flags": "",
-      "stage_sources": "TUN-006;TUN-009",
+      "stage_sources": "TUN-007;TUN-008;TUN-009",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-18"
+      "note": "The minister says ONPF's IT system has been extended to all its regional offices, and ownership certificates are issued online through cpf.gov.tn (May 2025). National coverage is stated by its own source.",
+      "as_at": "2026-11-11"
     }
   ]
 }

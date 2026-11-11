@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "BDI-002;BDI-006",
       "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-18"
+      "note": "The land directorate runs digital systems for first titles and for transfers, joined by an EDRMS in June 2025. The secured electronic title reaches four centres, and nothing says the register covers the country.",
+      "as_at": "2026-11-11"
     }
   ]
 }

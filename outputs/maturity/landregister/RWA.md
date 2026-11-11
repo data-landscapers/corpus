@@ -10,4 +10,4 @@
 
 ***Also on file***. [Irembo](<https://allafrica.com/stories/202602180018.html>). [Land dashboard](<https://www.un.org/globalgeospatial/sites/default/files/2026-04/rwanda_land_administration_case_study_unggkic.pdf>). [LDMS](<https://www.un.org/globalgeospatial/sites/default/files/2026-04/rwanda_land_administration_case_study_unggkic.pdf>). [Smart Nkunganire](<https://humanglemedia.com/nigerias-disharmonised-digital-system-leaving-low-income-farmers-behind/>).
 
-***Not found***. No source found since October 2023 says the digital land register covers the whole country.
+***Not found***. Nothing further is asked of this indicator.

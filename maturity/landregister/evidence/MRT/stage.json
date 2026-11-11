@@ -11,8 +11,8 @@
       "flags": "",
       "stage_sources": "MRT-005;MRT-006",
       "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-18"
+      "note": "The domains administration registers contracts digitally on Lagoud, and secured land documents are open to citizens in Nouakchott first. The minister said in August 2026 there is no integrated cadastral system yet.",
+      "as_at": "2026-11-11"
     }
   ]
 }

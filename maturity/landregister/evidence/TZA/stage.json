@@ -6,13 +6,13 @@
       "stage": "3",
       "register": "inservice",
       "national": "",
-      "online": "",
+      "online": "online",
       "cap": "",
       "flags": "",
       "stage_sources": "TZA-001",
       "gaps": "No source found since October 2023 says the digital land register covers the whole country.",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-23"
+      "note": "e-Ardhi handles registration in five regions and several councils, and title deeds can be signed through it from any region. The national land database is still being built.",
+      "as_at": "2026-11-11"
     }
   ]
 }

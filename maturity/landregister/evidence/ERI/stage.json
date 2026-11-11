@@ -4,15 +4,15 @@
     {
       "sub_indicator": "land",
       "stage": "unplaced",
-      "register": "",
+      "register": "underway",
       "national": "",
       "online": "",
       "cap": "",
       "flags": "",
       "stage_sources": "",
       "gaps": "Nothing found since October 2023 says whether land rights are registered digitally.",
-      "note": "First pass: counted from the four questions by study-ladder-landregister.py.",
-      "as_at": "2026-10-18"
+      "note": "The only fact, a May 2023 statement that the cadastral office has begun digitising, is older than three years. Nothing newer is held.",
+      "as_at": "2026-11-11"
     }
   ]
 }
