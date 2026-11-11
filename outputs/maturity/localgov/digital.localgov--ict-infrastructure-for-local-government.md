@@ -23,25 +23,14 @@ The norm is the African Union's decentralisation charter of 2014, Article 16(2):
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 4 |
-| 3 Established | 25 |
+| 4 Operating | 3 |
+| 3 Established | 26 |
 | 2 Nascent | 17 |
 | 1 Absent | 1 |
 | Unplaced | 3 |
 | No evidence | 4 |
 
 ## Countries
-
-### Algeria: 4 Operating
-
-All 1,541 communes worked in national systems over the interior ministry's network in 2019; no source found reports a later count and the rural share.
-
-*On the government network; Advancing.*
-
-- El Moudjahid reports that from 5 April 2026 the municipal services work in the national vehicle-registration information system, a centralised platform that is the only channel for all transactions, the old local applications being switched off; it gives no count of communes ([source, 2026-04-05](https://www.elmoudjahid.dz/fr/actualite/immatriculation-des-vehicules-passage-au-tout-numerique-des-aujourd-hui-250065)).
-- The interior ministry's deck states that communes and their annexes issue birth, marriage and death acts in under a minute from any commune or annex in the country, and its architecture slide shows entry, checking and updating at commune level in 1,541 commune databases linked to a national database at the ministry; no date is given, so the presentation's date is used ([source, 2019-06-19](https://www.id4africa.com/2019_event/presentations/InF3/4-Abderrazak-Henni-MOI-Algeria.pdf)).
-- The interior ministry's architecture slide shows the commune, wilaya and ministry levels of the civil-status register linked over the ministry's own network, labelled 'Réseau MICL'; no date is given, so the presentation's date is used ([source, 2019-06-19](https://www.id4africa.com/2019_event/presentations/InF3/4-Abderrazak-Henni-MOI-Algeria.pdf)).
-- The interior ministry's architecture slide numbers the communes on the civil-status network C1 to C1541 with 1,541 commune databases, and the deck speaks of 'the 1541 communes' and of issue from any commune in the national territory: 1,541 of 1,541 communes on the ministry's own account, with no rural figure; no date is given, so the presentation's date is used ([source, 2019-06-19](https://www.id4africa.com/2019_event/presentations/InF3/4-Abderrazak-Henni-MOI-Algeria.pdf)).
 
 ### Sierra Leone: 4 Operating
 
@@ -77,6 +66,17 @@ Government counted 93 of 116 councils on its network in 2025 and all 116 in Marc
 - The Smart Zambia Institute says it has connected all 116 local authorities to the government network; the briefing is undated, so the published date is used ([source, 2026-03-25](https://www.zanis.gov.zm/?p=3243)).
 - The finance minister told the National Assembly that 93 local authorities had so far been connected to the Government Wide Area Network, in a paragraph that counts 116 councils (93 of 116), alongside 79 district administration offices and 29 schools, 438 sites cumulatively ([source, 2025-09-26](https://www.parliament.gov.zm/sites/default/files/images/publication_docs/2026%20Budget%20Speech.pdf)).
 - The budget address says Government continued to roll out the Government Wide Area Network to public institutions and had connected 93 local authorities to it ([source, 2025-09-26](https://www.parliament.gov.zm/sites/default/files/images/publication_docs/2026%20Budget%20Speech.pdf)).
+
+### Algeria: 3 Established
+
+All 1,541 communes worked in national systems over the interior ministry's network in 2019; capped because no current plan or budget line is known.
+
+*Externally run; On the government network; Advancing.*
+
+- El Moudjahid reports that from 5 April 2026 the municipal services work in the national vehicle-registration information system, a centralised platform that is the only channel for all transactions, the old local applications being switched off; it gives no count of communes ([source, 2026-04-05](https://www.elmoudjahid.dz/fr/actualite/immatriculation-des-vehicules-passage-au-tout-numerique-des-aujourd-hui-250065)).
+- The interior ministry's deck states that communes and their annexes issue birth, marriage and death acts in under a minute from any commune or annex in the country, and its architecture slide shows entry, checking and updating at commune level in 1,541 commune databases linked to a national database at the ministry; no date is given, so the presentation's date is used ([source, 2019-06-19](https://www.id4africa.com/2019_event/presentations/InF3/4-Abderrazak-Henni-MOI-Algeria.pdf)).
+- The interior ministry's architecture slide shows the commune, wilaya and ministry levels of the civil-status register linked over the ministry's own network, labelled 'Réseau MICL'; no date is given, so the presentation's date is used ([source, 2019-06-19](https://www.id4africa.com/2019_event/presentations/InF3/4-Abderrazak-Henni-MOI-Algeria.pdf)).
+- The interior ministry's architecture slide numbers the communes on the civil-status network C1 to C1541 with 1,541 commune databases, and the deck speaks of 'the 1541 communes' and of issue from any commune in the national territory: 1,541 of 1,541 communes on the ministry's own account, with no rural figure; no date is given, so the presentation's date is used ([source, 2019-06-19](https://www.id4africa.com/2019_event/presentations/InF3/4-Abderrazak-Henni-MOI-Algeria.pdf)).
 
 ### Angola: 3 Established
 
@@ -133,7 +133,7 @@ Two commune offices in the East Region had an internet connection in August 2026
 
 Municipal councils worked in national systems in 2025, 21 of 22 supplied with state digital services; no source found says how many offices are connected.
 
-*On the government network; Regressing.*
+*On the government network.*
 
 - The Ministry of Finance's terms of reference say municipal councils use the shared land platform SIGTP, supported by NOSI, through the Municipal Information System, on the four registered islands (Sal, Boa Vista, Maio and rural São Vicente); it gives no count of councils and does not say how their offices are connected (no date given; document published March 2022) ([source, 2022-03](https://www.mf.gov.cv/documents/20126/0/TDR+TA+LMITS_ingfinal.pdf/03dfd947-4990-a9f8-5927-71919b6352bd)).
 - NOSi's strategic plan lists the local area networks of municipal councils, beside those of ministries, schools and hospitals, among the networks served by basic access to the state's private network (RTPE), whose access and maintenance services it proposes to open to private providers; it gives no count of councils (no date given; plan dated March 2020) ([source, 2020-03](https://nosi.cv/documents/20121/1141867/nosi-pa-global-estrategico-2019-2022.pdf/c3749473-6a40-8f4f-7b9d-ca2d353b0e8a)).
@@ -166,7 +166,7 @@ One commune's town hall, at Oyem, was on the state administration network in 202
 
 All councils had the government's finance system by late 2024 and most used it; capped because no current plan or budget line is known.
 
-*Externally run; Advancing.*
+*Externally run.*
 
 - Most councils were actively using the government's Integrated Financial Management Information System (IFMIS) in 2024, on the Ministry of Finance's annual progress report: Brikama Area Council was the only one fully using it to print its financial statements and enter its 2024 budget, Banjul City Council had migrated all its data and cleared its backlogs, Kuntaur kept its 2024 records up to date, and Basse and Kerewan had migrated revenue data only ([source, 2024-12](https://mofea.gov.gm/wp-content/uploads/2025/04/2024-PFM-Annual-Progress-Report.pdf)).
 - By the fourth quarter of 2024 Janjanbureh and Kuntaur area councils had working internet connections giving access to most of their offices, Banjul City Council had a 100 Mbps connection and Kuntaur had upgraded to 10 Mbps, while Janjanbureh and Kerewan still had unreliable internet and too little backup power, on the Ministry of Finance's report; the report does not say who pays for the connections ([source, 2024-12](https://mofea.gov.gm/wp-content/uploads/2025/04/2024-PFM-Annual-Progress-Report.pdf)).
@@ -200,8 +200,6 @@ All 47 counties were on the government network by 2017 and work in national syst
 ### Libya: 3 Established
 
 The mayors of 21 municipalities were given access to the ministry's online systems in October 2025; nothing found says how many municipal offices are connected.
-
-*Advancing.*
 
 - Wynn, Bakeer and Forti's case studies of the Misurata, Sabratha and Rujban local authorities find internet access at the authorities' offices that is slow, often disconnected or not always available: in Sabratha's finance department, with fifteen networked computers, the internet was often disconnected and unreliable, and in Rujban it was normally unavailable in community services and unreliable in human resources; the paper does not say who provides or pays for it, and gives no fieldwork date, so its published year is used ([source, 2021](https://eprints.glos.ac.uk/9355/3/9355-Wynn-%282021%29-E-government-and-digital-transformation.pdf)).
 - The paper studies three local authorities, Misurata, Sabratha and Rujban, by questionnaire and interviews with eighteen officials, and concludes for the three that access to the internet was not always available; it gives no figure for Libya's local authorities as a whole and no fieldwork date, so its published year is used ([source, 2021](https://eprints.glos.ac.uk/9355/3/9355-Wynn-%282021%29-E-government-and-digital-transformation.pdf)).

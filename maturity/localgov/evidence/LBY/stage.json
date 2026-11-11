@@ -7,14 +7,14 @@
       "governance": "owner:ministry;plan:current",
       "use": "systems",
       "connected": "institutional",
-      "last12": "advancing",
+      "last12": "",
       "authorities": "count:21",
       "cap": "",
-      "flags": "advancing",
+      "flags": "",
       "stage_sources": "LBY-003;LBY-004;LBY-005;LBY-007;LBY-008",
       "gaps": "The newest coverage fact is the October 2025 access given to the mayors of 21 municipalities to the ministry's electronic systems, a count with no total, and it says access was given, not that the offices work in the systems over their own connection; the only account of the offices' connections is a 2021 case study of three authorities. Who provides or pays for the offices' internet is not stated, the ministry's strategy gives no period, and finance is not stated.",
       "note": "Municipalities outside the capital have been given access to the ministry's systems, 21 of them in October 2025, and internet access was live though unreliable at three offices in 2021: stage 3. Stage 4 needs more than half on a share or a count with a denominator, and neither count has a total.",
-      "as_at": "2026-10-10"
+      "as_at": "2026-11-11"
     }
   ]
 }
