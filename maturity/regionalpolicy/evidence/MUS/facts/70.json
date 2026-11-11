@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-mus-data-protection-commissioner-interview-bdo-newsletter-2024",
+ "facts": [
+  {
+   "sub_indicator": "cooperation",
+   "aspect": "part",
+   "value": "member",
+   "fact": "The Data Protection Office says it takes part in the Réseau Africain des Autorités de Protection des Données Personnelles (RAPDP).",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "RAPDP",
+   "class": "cooperation"
+  }
+ ],
+ "systems": [],
+ "note": "AFAPDP is a Francophonie body and is other; hosting the Privacy Symposium of Africa is not stated as a body's meeting."
+}
