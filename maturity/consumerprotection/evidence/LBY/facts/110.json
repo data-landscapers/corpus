@@ -1,0 +1,9 @@
+{
+  "slug": "2022-10-04-lby-law-6-2022-electronic-transactions",
+  "facts": [
+    {"sub_indicator": "protection", "aspect": "rules", "value": "inforce", "fact": "Libya's Law No. 6 of 2022 on Electronic Transactions, issued 4 October 2022 and effective from issuance, requires a clear agreement between customers and banks or financial institutions before electronic payment or transfer orders and 15 days' notice of contract changes, and makes the institution liable for unexecuted or unauthorised card and transfer transactions.", "as_of": "2022-10-04", "date_precision": "day", "system": "Law No. 6 of 2022 concerning Electronic Transactions", "class": "protection"}
+  ],
+  "systems": [],
+  "claims": {"unctad-66b850fb87": "fact"},
+  "note": ""
+}

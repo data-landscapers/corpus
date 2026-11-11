@@ -1,0 +1,11 @@
+{
+  "slug": "2024-08-30-syc-virtual-asset-service-providers-act-2024-act-12",
+  "facts": [
+    {"sub_indicator": "protection", "aspect": "rules", "value": "inforce", "fact": "The Virtual Asset Service Providers Act 2024 (Act 12, commenced 1 September 2024) amends the Schedule of the Financial Consumer Protection Act 2022 to add licensees under the VASP Act, bringing virtual asset service providers under that Act's consumer protection rules.", "as_of": "2024-09-01", "date_precision": "day", "system": "Financial Consumer Protection Act 2022", "class": "protection"}
+  ],
+  "systems": [],
+  "claims": {
+    "unctad-a06fb1654b": "fact"
+  },
+  "note": ""
+}
