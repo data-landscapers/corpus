@@ -18,13 +18,13 @@ A study id `{id}` under `C:\CORPUS`, and either a country `{ISO3}` with the `n` 
 
 ## Reading
 
-**Read your documents and no others. Open them all in one turn.** Where `read` is `whole`, the file is `C:\OSINT\` followed by `path`. Where it is `passages`, the file is `C:\CORPUS\` followed by `path`. Read every file to its end, in several reads if need be.
+**Read your documents and no others. Open them all in one turn.** Where `read` is `whole`, the file is `C:\OSINT\` followed by `path`. Where it is `passages`, the file is `C:\CORPUS\` followed by `path`. Read every file to its end.
 
 **`C:\OSINT` is read-only. Never write, move or delete anything there.**
 
 ## What a fact is
 
-**A fact is one thing the document states about one aspect of one sub-indicator, in this country.** Record only what this document itself states: nothing from another document, the status report or what you know.
+**A fact is one thing the document states about one aspect of one sub-indicator, in this country.** Record only what this document itself states.
 
 - `sub_indicator` and `aspect`: keys from `study.json`.
 - `value`: from that aspect's closed list, exactly as spelt. A facet aspect takes one `facet:value`; a `multi` aspect takes its values joined by `;`.
@@ -60,7 +60,7 @@ A study id `{id}` under `C:\CORPUS`, and either a country `{ISO3}` with the `n` 
 
 `systems` takes every system in the study's field the document names for this country, of any class. A document that states nothing usable still gets its file, with empty lists and the `note`.
 
-**Write with the Write tool. Create no other file, edit none, delete none, and start no agent of your own.** The Write tool writes UTF-8; a facts file written by a script or a shell may not be, and the merge refuses it.
+**Write with the Write tool. Create no other file, edit none, delete none, and start no agent of your own.** The Write tool writes UTF-8; a script or shell may not, and the merge refuses that.
 
 ## A regional call
 
