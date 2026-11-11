@@ -36,9 +36,9 @@ centralbank	NGA	centralbank	5	3	restaged 5 on NGA-009, NGA-010	2026-11-10
 centralbank	SLE	centralbank	5	unplaced	restaged 5 on SLE-005	2026-11-10
 centralbank	UGA	centralbank	4	unplaced	restaged 4 on UGA-003, UGA-004	2026-11-10
 centralbank	ZWE	centralbank	5	2	restaged 5 on ZWE-005, ZWE-006	2026-11-10
-civilregister	CPV	civil	2	unplaced		
-civilserviceskills	TUN	csskills	4	2		
-civilserviceskills	ZWE	csskills	4	2		
+civilregister	CPV	civil	2	unplaced	restaged 5 on CPV-003, CPV-004 (by hand)	2026-11-11
+civilserviceskills	TUN	csskills	4	2	gap confirmed; asked notes-for-osint 332	2026-11-11
+civilserviceskills	ZWE	csskills	4	2	gap confirmed; asked notes-for-osint 332	2026-11-11
 consumerprotection	AGO	protection	5	unplaced	gap confirmed; asked notes-for-osint 323	2026-11-11
 consumerprotection	BEN	protection	4	unplaced	gap confirmed; asked notes-for-osint 323	2026-11-11
 consumerprotection	CPV	protection	4	unplaced	restaged 5 on CPV-002, CPV-003 (by hand)	2026-11-11
@@ -69,13 +69,13 @@ cybersecurity	COD	readiness	4	2	gap confirmed; asked notes-for-osint 326	2026-11
 cybersecurity	MAR	readiness	5	3	restaged 5 on MAR-020 (by hand)	2026-11-11
 cybersecurity	TUN	readiness	5	3	gap confirmed; asked notes-for-osint 326	2026-11-11
 cybersecurity	TZA	readiness	4	2	gap confirmed; asked notes-for-osint 326	2026-11-11
-dataexchange	TUN	exchange	5	3		
-dataprotectionauthority	BEN	body	5	3		
-dataprotectionauthority	MUS	body	5	3		
-dataprotectionreadiness	BEN	system	5	4		
-dataprotectionreadiness	MUS	system	5	4		
-digitalskills	BWA	publicskills	5	2		
-digitalskills	MUS	publicskills	5	2		
+dataexchange	TUN	exchange	5	3	gap confirmed; asked notes-for-osint 332	2026-11-11
+dataprotectionauthority	BEN	body	5	3	gap confirmed; asked notes-for-osint 332	2026-11-11
+dataprotectionauthority	MUS	body	5	3	gap confirmed; asked notes-for-osint 332	2026-11-11
+dataprotectionreadiness	BEN	system	5	4	gap confirmed; asked notes-for-osint 332	2026-11-11
+dataprotectionreadiness	MUS	system	5	4	gap confirmed; asked notes-for-osint 332	2026-11-11
+digitalskills	BWA	publicskills	5	2	gap confirmed; asked notes-for-osint 332	2026-11-11
+digitalskills	MUS	publicskills	5	2	gap confirmed; asked notes-for-osint 332	2026-11-11
 disabilityaccess	BEN	accessibility	4	2	gap confirmed; asked notes-for-osint 311	2026-11-10
 disabilityaccess	KEN	accessibility	4	2	gap confirmed; asked notes-for-osint 311	2026-11-10
 disabilityaccess	LSO	accessibility	4	2	gap confirmed; asked notes-for-osint 311	2026-11-10
@@ -87,8 +87,8 @@ disabilityaccess	TUN	accessibility	4	2	gap confirmed; asked notes-for-osint 311	
 disabilityaccess	UGA	accessibility	4	2	gap confirmed; asked notes-for-osint 311	2026-11-10
 disabilityaccess	ZAF	accessibility	4	2	restaged 4 on ZAF-006 (by hand)	2026-11-10
 disabilityaccess	ZMB	accessibility	4	2	restaged 4 on ZMB-005 (by hand)	2026-11-10
-ecommercelaw	GHA	law	5	3		
-ecommercelaw	ZMB	law	5	3		
+ecommercelaw	GHA	law	5	3	gap confirmed; asked notes-for-osint 332	2026-11-11
+ecommercelaw	ZMB	law	5	3	gap confirmed; asked notes-for-osint 332	2026-11-11
 educationexchange	GIN	exchange	4	2	gap confirmed; asked notes-for-osint 325	2026-11-11
 educationexchange	MAR	exchange	5	unplaced	gap confirmed; asked notes-for-osint 325	2026-11-11
 educationexchange	MRT	exchange	5	unplaced	gap confirmed; asked notes-for-osint 325	2026-11-11
@@ -111,10 +111,10 @@ electoralregister	COM	electoral	4	unplaced	gap confirmed; asked notes-for-osint 
 electoralregister	LSO	electoral	5	3	gap confirmed; asked notes-for-osint 322	2026-11-11
 electoralregister	MUS	electoral	4	unplaced	gap confirmed; asked notes-for-osint 322	2026-11-11
 electoralregister	ZWE	electoral	5	3	gap confirmed; asked notes-for-osint 322	2026-11-11
-eparticipation	CIV	eparticipation	4	2		
-eparticipation	LBR	eparticipation	4	unplaced		
-feedbackportals	MRT	feedback	5	3		
-healthexchange	TUN	exchange	5	3		
+eparticipation	CIV	eparticipation	4	2	gap confirmed; asked notes-for-osint 332	2026-11-11
+eparticipation	LBR	eparticipation	4	unplaced	gap confirmed; asked notes-for-osint 332	2026-11-11
+feedbackportals	MRT	feedback	5	3	gap confirmed; asked notes-for-osint 332	2026-11-11
+healthexchange	TUN	exchange	5	3	gap confirmed; asked notes-for-osint 332	2026-11-11
 healthmis	AGO	hmis	5	3	gap confirmed; asked notes-for-osint 324	2026-11-11
 healthmis	NAM	hmis	5	3	restaged 5 on NAM-004 (by hand)	2026-11-11
 healthmis	NGA	hmis	5	3	gap confirmed; asked notes-for-osint 324	2026-11-11
@@ -139,16 +139,16 @@ itcapacity	UGA	inhouse	5	3	gap confirmed; asked notes-for-osint 309	2026-11-10
 justice	BEN	justice	4	2	gap confirmed by the justice rebuild of 2026-11-11	2026-11-11
 justice	SYC	justice	4	unplaced	restaged 2 by the justice rebuild of 2026-11-11	2026-11-11
 landadmin	GHA	landmis	5	3	gap confirmed by the landadmin rebuild of 2026-11-11	2026-11-11
-metsatellite	SYC	metsat	5	3		
-metsatellite	TZA	metsat	5	3		
+metsatellite	SYC	metsat	5	3	gap confirmed; asked notes-for-osint 332	2026-11-11
+metsatellite	TZA	metsat	5	3	gap confirmed; asked notes-for-osint 332	2026-11-11
 opendatause	GNB	use	4	2	gap confirmed; asked notes-for-osint 321	2026-11-11
 opendatause	LBR	use	4	2	gap confirmed; asked notes-for-osint 321	2026-11-11
 opendatause	LBY	use	5	2	gap confirmed; asked notes-for-osint 321	2026-11-11
 opendatause	SEN	use	4	2	gap confirmed; asked notes-for-osint 321	2026-11-11
 opendatause	TGO	use	5	2	gap confirmed; asked notes-for-osint 321	2026-11-11
 opendatause	ZMB	use	4	2	gap confirmed; asked notes-for-osint 321	2026-11-11
-opendiscussion	GMB	discussion	4	2		
-opendiscussion	LSO	discussion	4	unplaced		
+opendiscussion	GMB	discussion	4	2	gap confirmed; asked notes-for-osint 332	2026-11-11
+opendiscussion	LSO	discussion	4	unplaced	gap confirmed; asked notes-for-osint 332	2026-11-11
 paymentslaw	COD	law	5	3	restaged 5 on COD-003 (by hand)	2026-11-11
 paymentslaw	NGA	law	4	2	restaged 4 on NGA-003 (by hand)	2026-11-11
 populationregister	CIV	population	5	3	restaged 5 on CIV-015	2026-11-10
@@ -157,12 +157,12 @@ populationregister	MAR	population	5	3	gap confirmed; asked notes-for-osint 308	2
 populationregister	NAM	population	5	3	restaged 5 on NAM-011	2026-11-10
 populationregister	TCD	population	5	3	restaged 5 on TCD-004	2026-11-10
 populationregister	ZWE	population	5	3	gap confirmed; asked notes-for-osint 308	2026-11-10
-publicconsultation	TCD	consultation	4	2		
+publicconsultation	TCD	consultation	4	2	gap confirmed; asked notes-for-osint 332	2026-11-11
 refugees	GHA	displaced	4	2	gap confirmed; asked notes-for-osint 331	2026-11-11
 refugees	KEN	displaced	4	2	gap confirmed; asked notes-for-osint 331	2026-11-11
 refugees	RWA	displaced	4	2	gap confirmed; asked notes-for-osint 331	2026-11-11
-regionalpolicy	MUS	cooperation	4	2		
-retailpayments	NAM	retail	4	2		
+regionalpolicy	MUS	cooperation	4	2	gap confirmed; asked notes-for-osint 332	2026-11-11
+retailpayments	NAM	retail	4	2	restaged 4 on NAM-003 (by hand)	2026-11-11
 socialexchange	BFA	exchange	4	2	gap confirmed; asked notes-for-osint 327	2026-11-11
 socialexchange	BWA	exchange	4	unplaced	gap confirmed; asked notes-for-osint 327	2026-11-11
 socialexchange	CPV	exchange	4	unplaced	gap confirmed; asked notes-for-osint 327	2026-11-11
@@ -179,8 +179,8 @@ startups	CPV	startuppolicy	5	3	gap confirmed; asked notes-for-osint 319	2026-11-
 startups	NGA	startuppolicy	4	unplaced	restaged 4 on NGA-005 (by hand)	2026-11-11
 startups	RWA	startuppolicy	5	unplaced	gap confirmed; asked notes-for-osint 319	2026-11-11
 startups	ZAF	startuppolicy	5	unplaced	gap confirmed; asked notes-for-osint 319	2026-11-11
-statisticslaw	BWA	law	5	3		
-statisticslaw	ZMB	law	5	3		
+statisticslaw	BWA	law	5	3	gap confirmed; asked notes-for-osint 332	2026-11-11
+statisticslaw	ZMB	law	5	3	gap confirmed; asked notes-for-osint 332	2026-11-11
 statisticsstrategy	BDI	strategy	5	3	restaged 5 on BDI-004	2026-11-10
-taxadmin	SSD	taxsystem	4	2		
-techhubs	CPV	hub	5	3		
+taxadmin	SSD	taxsystem	4	2	gap confirmed; asked notes-for-osint 332	2026-11-11
+techhubs	CPV	hub	5	3	gap confirmed; asked notes-for-osint 332	2026-11-11

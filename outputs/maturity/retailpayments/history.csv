@@ -30,3 +30,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,SDN,dpi.pay--p2p-p2g-and-p2b-functionality,fact,3,4,SDN-013;SDN-005,"Sudani Fintech Sah launch, April 2026: users transfer to and from all Sudanese banks by BBAN; wallet-to-bank payments in service, 3 to 4"
 2026-11-09,KEN,dpi.pay--p2p-p2g-and-p2b-functionality,fact,4,4,KEN-010;KEN-013;KEN-028,"Kenswitch release, Nov 2026: domestic switch joining banks and mobile money providers; Pesalink does the same and transfers run over several platforms, so no single national switch and 4 holds"
 2026-11-09,NAM,dpi.pay--p2p-p2g-and-p2b-functionality,ladder,4,2,NAM-002,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
+2026-11-11,NAM,dpi.pay--p2p-p2g-and-p2b-functionality,ladder,2,4,NAM-003;NAM-001,"Restaged under message 114 (housekeeping 57): MTC mobile money delivered UNHCR cash to about 6,000 refugees in 2025; with the June 2026 instant payments system, 2 to 4."
