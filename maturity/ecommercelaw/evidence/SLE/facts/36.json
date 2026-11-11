@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-01-sle-africa-regional-forum-on-data-governance-and-digital-government",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "A Government of Sierra Leone presentation lists an Electronic Transaction Act among the country's existing laws and regulations.",
+   "as_of": "2024-10-01",
+   "date_precision": "day",
+   "system": "Electronic Transaction Act",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-01-tza-mawasiliano-completed-projects-nictbb-rcip",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Ministry says the government enacted the Electronic Transaction Act, 2015 under the RCIP project.",
+   "as_of": "2015",
+   "date_precision": "year",
+   "system": "Electronic Transaction Act, 2015",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

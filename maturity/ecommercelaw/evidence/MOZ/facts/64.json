@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-16-moz-intic-promove-reflexao-sobre-interoperabilidade-dos-sistemas-do-govern",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "INTIC states that its 16 November 2023 interoperability meeting results from applying the Electronic Transactions Law, Lei 3/2017 of 9 January.",
+   "as_of": "2017-01-09",
+   "date_precision": "day",
+   "system": "Lei das Transacoes Electronicas, Lei 3/2017",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": "Decreto 67/2017 is named but its subject and link to the law are not stated, so no rules made under it are recorded."
+}
