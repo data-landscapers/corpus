@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-06-ago-ima-consulta-publica-anteprojecto-lei-governo-digital",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "IMA held a public consultation session on 6 May at ENAPP on the draft Digital Government Law, with public institutions, experts, jurists, academics and digital ecosystem partners.",
+   "as_of": "2026-05-06",
+   "date_precision": "day",
+   "system": "Anteprojecto de Lei do Governo Digital",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

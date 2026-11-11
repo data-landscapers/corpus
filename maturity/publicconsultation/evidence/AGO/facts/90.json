@@ -1,0 +1,17 @@
+{
+ "slug": "2024-02-10-ago-governo-pada-consulta-publica-ima",
+ "facts": [
+  {
+   "sub_indicator": "consultation",
+   "aspect": "hearing",
+   "value": "held",
+   "fact": "The government portal reports that the Institute of Administrative Modernisation held a public consultation on the Angola Digital Acceleration Project (PADA) on 9 February 2024, with public and private institutions, NGOs and digital transformation experts taking part.",
+   "as_of": "2024-02-09",
+   "date_precision": "day",
+   "system": "Projecto de Aceleração Digital de Angola (PADA)",
+   "class": "consultation"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
