@@ -1,16 +1,17 @@
 {
- "iso3": "KEN",
- "cells": [
-  {
-   "sub_indicator": "framework",
-   "stage": "2",
-   "standing": "draft",
-   "use": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "KEN-003",
-   "gaps": "No source found says a government interoperability framework is adopted and published.",
-   "note": "Counted from the four questions by study-ladder-interoperability.py."
-  }
- ]
+  "iso3": "KEN",
+  "cells": [
+    {
+      "sub_indicator": "framework",
+      "stage": "4",
+      "standing": "adopted",
+      "use": "required",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "KEN-005;KEN-006;KEN-007",
+      "gaps": "No source from the last three years names or counts public bodies that exchange data under the framework or are certified as meeting it. The published second edition leaves its approval date blank.",
+      "note": "The framework was launched in April 2026, and the FY2026/27 performance contract guidelines require every ministry, county, department and agency to institutionalise it, with the State Department for ICT approving and tracking compliance. Stage 5 needs a dated count of bodies following it.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

@@ -21,9 +21,9 @@ The African Union's Digital Transformation Strategy asks for a framework, with i
 | Stage | Countries |
 |---|---|
 | 5 Leading | 1 |
-| 4 Operating | 2 |
+| 4 Operating | 3 |
 | 3 Established | 17 |
-| 2 Nascent | 17 |
+| 2 Nascent | 16 |
 | 1 Absent | 1 |
 | Unplaced | 5 |
 | No evidence | 11 |
@@ -44,6 +44,14 @@ Algeria's decree of December 2025 makes a national interoperability system the o
 
 - The decree makes the national interoperability system the exclusive framework for data exchange between public institutions and administrations (art. 10), requires each body to classify and catalogue its data under the references to access it (art. 12), and puts the system's setup and administration under the Haut commissariat à la numérisation (art. 17), with the national information systems security council ruling on its operation (art. 14); national defence, security and judicial exchanges are excluded (art. 18) ([source, 2025-12-30](https://www.joradp.dz/FTP/JO-FRANCAIS/2025/F2025087.pdf)).
 - El Moudjahid reports that presidential decree 25-320, published in the Journal officiel of 30 December 2025, sets up a national data governance scheme with rules for data classification, cataloguing of sources and secure interoperability between administrations (article dated early January 2026, month precision) ([source, 2025-12-30](https://www.elmoudjahid.dz/fr/actualite/decret-sur-la-gouvernance-des-donnees-un-socle-technique-prometteur-245982)).
+
+### Kenya: 4 Operating
+
+Kenya launched its interoperability framework in 2026, and every ministry, county and agency must now adopt it; how many have is not known.
+
+- The State Department for ICT and the Digital Economy's FY2026/27 guidelines treat the Government Enterprise Architecture and Government Interoperability Framework as existing whole-of-government frameworks that all MCDAs must institutionalise ([source, 2026-09-03](https://digitalization.ict.go.ke/download.php?id=2)).
+- The guidelines require all ministries, counties, departments and agencies to institutionalise the GEA and GIF, submitting their enterprise architecture and systems and API inventory to the State Department for ICT and the Digital Economy and scored 40% each in the performance contract indicator ([source, 2026-09-03](https://digitalization.ict.go.ke/download.php?id=2)).
+- Techweez reports Kenya launched the ICT Authority Interoperability Framework, announced at the Connected Africa Summit in Nairobi, setting standards for government platforms to share data ([source, 2026-04-29](https://techweez.com/2026/04/29/kenya-ict-interoperability-framework-africa/)).
 
 ### Mozambique: 4 Operating
 
@@ -200,12 +208,6 @@ Gabon's digital agency was drawing up a national interoperability framework in D
 The Gambia said in April 2026 that a national enterprise architecture framework governs interoperability; it was still being validated a month later.
 
 - The Ministry of Communications and Digital Economy told the UN CSTD that a national enterprise architecture framework led by GICTA is ensuring interoperability across government systems through open standards, shared services and national governance; the statement gives no adoption date, so the date is the document's published date (2026-04) ([source, 2026-04](https://unctad.org/system/files/non-official-document/ecn162026_s08_ai_gambia_en.pdf)).
-
-### Kenya: 2 Nascent
-
-Kenya's ICT Authority has published a government interoperability framework whose approval is blank, and said in 2025 it was still to be finalised.
-
-- The report says Cabinet Secretary William Kabogo Gitau, speaking in New York around 21 September 2026 (the report says 'Monday' against its 24 September publication), drew on Kenya's Government Interoperability Framework as an existing basis for a cross-border service pilot; it gives no adoption date, instrument or content ([source, 2026-09-21](https://techreviewafrica.com/news/7426/)).
 
 ### Lesotho: 2 Nascent
 

@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-16-moz-intic-promove-reflexao-sobre-interoperabilidade-dos-sistemas-do-govern",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "INTIC states that the e-government interoperability work applies the Regulamento do Quadro de Interoperabilidade dos Sistemas do Governo Electronico, Decreto 90/2020 of 9 October.",
+   "as_of": "2020-10-09",
+   "date_precision": "day",
+   "system": "Quadro de Interoperabilidade dos Sistemas do Governo Electronico",
+   "class": "framework"
+  }
+ ],
+ "systems": [],
+ "note": "No requirement on public bodies or enforcing body is stated, and the meeting on 16 November 2023 was to discuss technical specifications, not to show bodies following the framework."
+}

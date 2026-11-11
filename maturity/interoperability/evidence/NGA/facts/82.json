@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-13-nga-thisdaylive-katsina-dpi-ngf-readiness-ikatsina",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "ThisDay reports that the Nigeria Governors' Forum's July 2025 report rated Katsina's policy alignment with the Nigeria e-Government Interoperability Framework (Ne-GIF) at high maturity.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Nigeria e-Government Interoperability Framework (Ne-GIF)",
+   "class": "framework"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

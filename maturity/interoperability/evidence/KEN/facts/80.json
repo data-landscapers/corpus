@@ -1,0 +1,17 @@
+{
+ "slug": "2026-04-29-ken-techweez-icta-interoperability-framework-connected-africa",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "Techweez reports Kenya launched the ICT Authority Interoperability Framework, announced at the Connected Africa Summit in Nairobi, setting standards for government platforms to share data.",
+   "as_of": "2026-04-29",
+   "date_precision": "day",
+   "system": "ICT Authority Interoperability Framework",
+   "class": "framework"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

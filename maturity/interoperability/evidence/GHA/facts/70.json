@@ -1,0 +1,17 @@
+{
+ "slug": "2024-08-27-gha-nita-to-stop-wastage-on-ict-by-government-institutions",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "NITA's Director-General says NITA is coming up with the Common National Digital Architecture, which any entity providing digital services to government must fit.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "Common National Digital Architecture (CNDA)",
+   "class": "framework"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

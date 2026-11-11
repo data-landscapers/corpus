@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-09-mrt-build-once-use-across-government-mauritania-s-govstack-journey",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "GovStack says Mauritania's digital ministry (MTNIMA) worked on a government architecture standard to improve interoperability, and a March 2026 national consultation of 118 representatives from 34 departments produced a reference framework drawing on GovStack and TOGAF; no adoption is stated.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Government architecture reference framework",
+   "class": "framework"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

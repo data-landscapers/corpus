@@ -191,6 +191,7 @@ KEN,Kenya data marketplace,national data exchange / marketplace,other,,Governmen
 KEN,Government Enterprise Architecture (GEA) and Government Interoperability Framework (GIF),GEA and GIF,framework,,ICT Authority (ICTA),"ministries, counties, departments and agencies (MCDAs), as the intended scope",2023-01-01-kenya-gea-gif-interoperability-framework
 KEN,Enterprise Service Bus / enterprise-wide Service Delivery Gateway,ESB,other,Enterprise Service Bus,,described as a principle for enterprise-wide service delivery; no deployment stated,2023-01-01-kenya-gea-gif-interoperability-framework
 KEN,NPKI,NPKI,other,public key infrastructure,,named for secure login across government systems,2023-01-01-kenya-gea-gif-interoperability-framework
+KEN,Government Interoperability Framework (GIF),Kenya,framework,,State Department for ICT and the Digital Economy,,2026-09-03-ken-digitalization-government-services-pc-indicator-guidelines-fy2026-27
 LBR,Government Interoperability Framework,Government Interoperability Framework,framework,,"Office of Technology, Digitalization and Innovation (OTDI), Office of the President","all ministries, agencies and commissions of the Executive Branch",2026-07-17-liberia-otdi-terms-of-reference-executive-order-163
 LBR,Government Enterprise Architecture Framework,Government Enterprise Architecture Framework,other,,"Office of Technology, Digitalization and Innovation (OTDI)","all ministries, agencies and commissions of the Executive Branch",2026-07-17-liberia-otdi-terms-of-reference-executive-order-163
 LBR,Government Digital Systems Inventory,Government Digital Systems Inventory,other,,"Office of Technology, Digitalization and Innovation (OTDI)","all ministries, agencies and commissions of the Executive Branch",2026-07-17-liberia-otdi-terms-of-reference-executive-order-163
@@ -260,6 +261,7 @@ MOZ,ATDI interoperability platform,,other,,ATDI,systems across government instit
 MOZ,Plataforma de Interoperabilidade do Governo,Plataforma de Interoperabilidade do Governo,other,,ATDI,"cross-sector, including health and civil registration",2026-04-16-atdi-misau-mou-digital-health
 MOZ,Plataforma Nacional de Interoperabilidade,Mozambique,other,,"ATDI, IP",,2026-06-26-moz-atdi-e-bau-alinham-visao-de-servicos-publicos-digitais-integrados-e-ce
 MOZ,Interoperability Framework for Electronic Government Systems (Decree 67/2017),Mozambique,framework,,,,2025-05-27-moz-ict-legal-and-regulatory-framework-for-the-development-of-digital-iden
+MOZ,Quadro de Interoperabilidade do Governo Electronico (Decreto 67/2017),Mozambique,framework,,INTIC,,2025-10-14-moz-interoperabilidade-dos-sistemas-do-governo-electronico-e-fundamental-p
 MRT,National government cloud (السحابة الحكومية الوطنية),السحابة الحكومية الوطنية,other,,Ministry of Digital Transformation,national,2026-09-28-mrt-elilam-digital-infrastructure-standards-training
 MRT,National design system (النظام الوطني للتصميم),النظام الوطني للتصميم,other,,Ministry of Digital Transformation,"ministry, to be extended to other sectors",2026-09-28-mrt-elilam-digital-infrastructure-standards-training
 MRT,Digital-Y,Digital-Y,other,,"MTNIMA with GIZ (Germany), EUR 4m, launched January 2025",national,2026-03-27-public-digital-services-standards-framework-techafricanews
@@ -348,6 +350,7 @@ SEN,Guichet unique du citoyen,Guichet unique du citoyen,other,,Government of Sen
 SEN,e-Consulat,e-Consulat,other,,Government of Senegal,diaspora services,2026-03-24-lesoleil-sonko-projets-structurants
 SEN,e-Jokko,e-Jokko,other,national interoperability platform,"Ministry of Communication, Telecommunications and Digital Affairs",ministries and institutions; first uses DGID-Customs and social protection bodies,2026-03-16-new-deal-technologique-un-an
 SEN,e-Sénégal,e-Sénégal,other,,"Ministry of Communication, Telecommunications and Digital Affairs",citizens and businesses,2026-03-16-new-deal-technologique-un-an
+SEN,National Interoperability Framework,Senegal,framework,,,,2026-06-05-sen-techreviewafrica-public-sector-data-governance-workshop-dial-ansd
 SLE,Government Service Bus (GSB) prototype,Government Service Bus,other,"open-source, e.g. X-Road",Ministry of Finance (hosted in MoF Data Center),"central government PFM systems (IFMIS, ITAS, ASYCUDA, MPTS, PFM Smart, e-GP, AMIS, LoMEMIS, CRVS)",2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
 SLE,PFM interoperability framework / Interoperability Roadmap for Public Financial Management Systems,PFM interoperability framework,other,,MoF PFM interoperability working group,PFM systems only,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)
 SLE,Government Enterprise Architecture Framework,Government Enterprise Architecture Framework,framework,,"Ministry of Communication, Technology and Innovation (MoCTI)",MDAs,2025-10-31-sierra-leone-mocti-enterprise-architecture-training
@@ -383,6 +386,7 @@ STP,Kenon,Sistema Kenon - Sistema Nacional de Informacao da Protecao Social,othe
 STP,Plataforma de Interoperabilidade,Plataforma de Interoperabilidade,other,,,,2023-12-15-ager-sao-tome-estrategia-nacional-ciberseguranca-2024-2028
 STP,Plataforma de Interoperabilidade,Plataforma de Interoperabilidade,other,,,,2023-12-15-stp-estrategia-nacional-ciberseguranca-texto-integral
 STP,Quadro Nacional de Interoperabilidade,Sao Tome and Principe,framework,,INIC,,2024-01-01-stp-inic-regulamentacoes-lei-1-2024-qni
+STP,Lei-Quadro Nacional de Interoperabilidade (Lei n.o 1/2024),Sao Tome and Principe,framework,,,,2026-10-27-stp-sao-tome-e-principe-defende-mecanismos-mais-rapidos-para-obter-provas
 SWZ,National Data Governance Policy (2027-2031),National Data Governance Policy,other,,Ministry of ICT,,2026-07-27-eswatini-validates-national-data-governance-policy
 SWZ,Mchumanisi,National Data Exchange Platform (Mchumanisi),other,,Ministry of ICT,government institutions,2026-07-22-mchumanisi-data-exchange-platform
 SWZ,National Data Governance Policy (2027-2031),National Data Governance Policy,other,,Ministry of ICT,,2026-07-22-mchumanisi-data-exchange-platform

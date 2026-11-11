@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-20-nga-data-driven-system-nitda-abia-partner-on-enterprise-architecture-refor",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "NITDA's Director General, through a representative, said NITDA is developing a national interoperability framework and advancing Enterprise Architecture initiatives across government institutions.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "national interoperability framework",
+   "class": "framework"
+  }
+ ],
+ "systems": [],
+ "note": "The workshop is undated ('recently'); the publication month is used."
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2026-10-27-moz-revisao-do-quadro-de-interoperabilidade-reforca-a-transformacao-digita",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "INTIC's post says Decree No. 67/2017 of 1 December approves the Regulation of the E-Government Interoperability Framework.",
+   "as_of": "2017-12-01",
+   "date_precision": "day",
+   "system": "Decreto n.o 67/2017 - Regulamento do Quadro de Interoperabilidade de Governo Electronico",
+   "class": "framework"
+  },
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "INTIC presented on 23 October 2026 in Maputo a proposal to revise Decree 67/2017, raising the guiding principles from 10 to 15; the revision is proposed, not adopted.",
+   "as_of": "2026-10-23",
+   "date_precision": "day",
+   "system": "Proposed revision of Decreto n.o 67/2017",
+   "class": "framework"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

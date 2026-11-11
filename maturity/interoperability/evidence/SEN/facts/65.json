@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-05-sen-techreviewafrica-public-sector-data-governance-workshop-dial-ansd",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "TechReviewAfrica reports that a 2 June 2026 Dakar workshop named the National Interoperability Framework among Senegal's existing foundations for digital transformation.",
+   "as_of": "2026-06-02",
+   "date_precision": "day",
+   "system": "National Interoperability Framework",
+   "class": "framework"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Interoperability Framework",
+   "country_label": "Senegal",
+   "class": "framework",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Adoption date, text and any duty to follow it not stated."
+}

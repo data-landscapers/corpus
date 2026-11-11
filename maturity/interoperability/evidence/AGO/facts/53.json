@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-11-ago-angola-da-passos-firmes-rumo-a-uma-administracao-publica-mais-intelige",
+ "facts": [
+  {
+   "sub_indicator": "framework",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Ministry of Youth and Sports reports that a workshop led by the Instituto de Modernizacao Administrativa (IMA) with Estonia's Digital Nation discussed a proposed national interoperability framework for public administration.",
+   "as_of": "2025-07-11",
+   "date_precision": "day",
+   "system": "Public Administration Interoperability Framework and Roadmap",
+   "class": "framework"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
