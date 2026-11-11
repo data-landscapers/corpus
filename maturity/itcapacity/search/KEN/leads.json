@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.kbc.co.ke/reformis-kenyas-homegrown-nerve-centre-driving-pfm-reform/",
+  "title": "REFORMIS: Kenya's Homegrown Nerve Centre Driving PFM Reform",
+  "publisher": "KBC Digital",
+  "published": "2026-03-19",
+  "sub_indicator": "inhouse",
+  "why": "Q3/Q4: in-house built system"
+ },
+ {
+  "url": "https://gaa.go.ke/government-affirms-full-ownership-e-citizen-platform",
+  "title": "Government affirms full ownership of e-Citizen platform",
+  "publisher": "Government Advertising Agency",
+  "published": "2025-08-26",
+  "sub_indicator": "inhouse",
+  "why": "Q1/Q4: state ownership, maintenance procured"
+ },
+ {
+  "url": "https://umanyi.makueni.go.ke/storage/success_stories/68b949613618a_Success_Story.pdf",
+  "title": "PMTS success story",
+  "publisher": "Makueni County Government",
+  "published": "2025",
+  "sub_indicator": "inhouse",
+  "why": "Q3: system built by county ICT team without vendors, launched March 2024"
+ },
+ {
+  "url": "https://cms.icta.go.ke/sites/default/files/2024-09/SP_2024_-_2027_0912.pdf",
+  "title": "ICTA Strategic Plan 2024-2027",
+  "publisher": "ICT Authority",
+  "published": "2024-09",
+  "sub_indicator": "inhouse",
+  "why": "Q2: agency builds and runs systems for MDAs"
+ },
+ {
+  "url": "https://www.icta.go.ke/",
+  "title": "ICT Authority home: systems built by ICTA",
+  "publisher": "ICT Authority",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "Q2: systems built by ICTA"
+ },
+ {
+  "url": "https://icta.go.ke/enterprise",
+  "title": "ICTA Enterprise Commercial Services",
+  "publisher": "ICT Authority",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "Q2: hosts and develops systems for MDAs"
+ },
+ {
+  "url": "https://cms.icta.go.ke/node/602",
+  "title": "ICTA Enterprise Services",
+  "publisher": "ICT Authority",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "Q2: managed ICT, systems development for government"
+ },
+ {
+  "url": "https://www.kenyanews.go.ke/government-assures-kenyans-of-the-safety-of-the-e-citizen-portal/",
+  "title": "Government assures Kenyans of the safety of the E-Citizen portal",
+  "publisher": "Kenya News Agency",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "Q1: government took over running of eCitizen"
+ }
+]

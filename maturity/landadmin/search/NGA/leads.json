@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://guardian.ng/technology/tech-firm-to-tackle-delays-in-c-of-o-processing/",
+  "title": "Tech firm to tackle delays in C of O processing",
+  "publisher": "The Guardian Nigeria",
+  "published": "2026-06-20",
+  "why": "Q3-Q5 Cross River digital registry, GIS, ground rents",
+  "sub_indicator": "landmis"
+ },
+ {
+  "url": "https://championnews.com.ng/2025/11/27/uzodimma-commissions-imo-land-information-service-centre/",
+  "title": "Uzodimma commissions Imo Land Information Service Centre",
+  "publisher": "Champion Newspapers",
+  "published": "2025-11-27",
+  "why": "Q3 Imo land information system live",
+  "sub_indicator": "landmis"
+ },
+ {
+  "url": "https://www.seahipublications.org/wp-content/uploads/2025/07/IJISSHR-S-20-2025.pdf",
+  "title": "Processes In Rivers State (A Case Study Of Port Harcourt Lands Registry)",
+  "publisher": "IJISSHR",
+  "published": "2025",
+  "why": "Q1 paper-based registry",
+  "sub_indicator": "landmis"
+ },
+ {
+  "url": "https://www.mol.anambrastate.gov.ng/governor-soludo-commissions-anamgis/",
+  "title": "Governor Soludo commissions ANAMGIS",
+  "publisher": "Ministry of Lands, Anambra State",
+  "published": "2025-02",
+  "why": "Q3 Anambra GIS land deed automation",
+  "sub_indicator": "landmis"
+ },
+ {
+  "url": "https://fmino.gov.ng/fg-partners-world-bank-to-develop-national-land-digital-system/",
+  "title": "FG Partners World Bank To Develop National Land Digital System",
+  "publisher": "Federal Ministry of Information and National Orientation",
+  "published": "2024-11-14",
+  "why": "Q2 national system being developed",
+  "sub_indicator": "landmis"
+ },
+ {
+  "url": "https://businessday.ng/life/article/lagos-revolutionises-land-acquisition-as-sanwo-olu-launches-automated-application-portal/",
+  "title": "Lagos revolutionises land acquisition, as Sanwo-Olu launches automated application portal",
+  "publisher": "BusinessDay",
+  "published": "2024-01-28",
+  "why": "Q3/Q4 Lagos e-GIS records merged with titles",
+  "sub_indicator": "landmis"
+ }
+]

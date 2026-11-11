@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "inhouse",
+ "aspect": "inhouse;built",
+ "fact": "The Health Minister announced in October 2025 that GHIMS, a national health information system built entirely by government, replaces the contractor-run LHIMS after the contractor withheld administrative access.",
+ "title": "Health Minister introduces GHIMS to replace LHIMS and protect national health data",
+ "publisher": "Ghanaian Times",
+ "published": "2025-10-29",
+ "date_source": "source",
+ "why_not": ""
+}

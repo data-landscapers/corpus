@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "justice",
+ "aspect": "",
+ "fact": "",
+ "title": "Actes Juridictionnels",
+ "publisher": "Ministère de la Justice, de la Promotion des Droits Humains et de la Bonne Gouvernance, Garde des Sceaux",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: general description of categories of court decisions, no dated fact on case management, filing or online access"
+}

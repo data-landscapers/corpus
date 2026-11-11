@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "justice",
+ "aspect": "public",
+ "fact": "The Supreme Court's website lists its decisions online, the latest being Decision N°25-023/CS of 6 February 2025.",
+ "title": "Décisions - Cour Suprême des Comores",
+ "publisher": "Cour Suprême des Comores",
+ "published": "2025-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

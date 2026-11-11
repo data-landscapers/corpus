@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://statehouse.gov.sc/news/7053/president-herminie-officially-launches-electronic-case-management-system-new-digital-platform-marks-significant-step-forward-for-seychelles-legal-affairs-sector",
+  "title": "President Herminie Officially Launches Electronic Case Management System",
+  "publisher": "State House Seychelles",
+  "published": "2026-06-23",
+  "sub_indicator": "justice",
+  "why": "ECMS live at AGO"
+ },
+ {
+  "url": "https://www.unodc.org/unodc/en/news/2026/June/seychelles-launches-electronic-case-management-system-to-strengthen-access-to-justice.html",
+  "title": "Seychelles launches electronic case management system to strengthen access to justice",
+  "publisher": "UNODC",
+  "published": "2026-06",
+  "sub_indicator": "justice",
+  "why": "eCMS launch, prior manual processes"
+ },
+ {
+  "url": "https://statehouse.gov.sc/news/6974/cabinet-business-wednesday-13th-may-2026",
+  "title": "Cabinet Business - Wednesday 13th May, 2026",
+  "publisher": "State House Seychelles",
+  "published": "2026-05-13",
+  "sub_indicator": "justice",
+  "why": "Judiciary digitalisation programme, ECMS, LexVue"
+ },
+ {
+  "url": "https://www.judiciary.sc/news/judiciary-launches-new-e-service-platform-to-streamline-access-to-justice/",
+  "title": "Judiciary Launches New e-Service Platform to Streamline Access to Justice",
+  "publisher": "Judiciary of Seychelles",
+  "published": "2025-11-26",
+  "sub_indicator": "justice",
+  "why": "Online filing by lawyers"
+ },
+ {
+  "url": "https://www.gazette.sc/sites/default/files/2025-09/SI%2072%202025%20-%20Electronic%20Filing%20of%20Written%20Submissions%20%28Civil%20Matters%29%20Regulations%202025.pdf",
+  "title": "Electronic Filing of Written Submissions (Civil Matters) Rules, 2025",
+  "publisher": "Official Gazette of Seychelles",
+  "published": "2025-09-15",
+  "sub_indicator": "justice",
+  "why": "E-filing rules"
+ },
+ {
+  "url": "https://www.judiciary.sc/resources/court-decisions/",
+  "title": "Decisions from the Courts",
+  "publisher": "Judiciary of Seychelles",
+  "published": "",
+  "sub_indicator": "justice",
+  "why": "Decisions online"
+ },
+ {
+  "url": "https://www.unpredictableblog.com/blog/litigationinseychelles",
+  "title": "Litigation in Seychelles",
+  "publisher": "Unpredictable",
+  "published": "2026-04-05",
+  "sub_indicator": "justice",
+  "why": "Practitioner says filing is on paper"
+ },
+ {
+  "url": "https://www.judiciary.sc/wp-content/uploads/2022/01/judiciary-strategic-plan-2021.pdf",
+  "title": "Strategic Plan",
+  "publisher": "Judiciary of Seychelles",
+  "published": "2021",
+  "sub_indicator": "justice",
+  "why": "CCASS in service, e-filing and public access planned"
+ }
+]

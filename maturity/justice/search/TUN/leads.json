@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.lapresse.tn/2026/11/04/justice-le-tribunal-administratif-passe-a-laudience-electronique-avec-le-systeme-selim/",
+  "title": "Justice : le Tribunal administratif passe à l'audience électronique avec le système « Sélim »",
+  "publisher": "La Presse de Tunisie",
+  "published": "2026-11-04",
+  "sub_indicator": "justice",
+  "why": "Q3 e-justice system in service across administrative court chambers"
+ },
+ {
+  "url": "https://news-tunisia.tunisienumerique.com/justice-budget-digitalisation-court-delays-and-enforcement-of-rulings-at-the-centre-of-debate/",
+  "title": "Justice budget: Digitalisation, court delays and enforcement of rulings at the centre of debate",
+  "publisher": "News Tunisia",
+  "published": "2026-10-30",
+  "sub_indicator": "justice",
+  "why": "Q2/Q3 state of justice digitisation"
+ },
+ {
+  "url": "https://www.lapresse.tn/2026/04/04/reunion-sur-les-projets-de-transformation-numerique-de-la-justice/",
+  "title": "Réunion sur les projets de transformation numérique de la justice",
+  "publisher": "La Presse de Tunisie",
+  "published": "2026-04-04",
+  "sub_indicator": "justice",
+  "why": "Q2 integrated penal and civil justice system still in development"
+ },
+ {
+  "url": "https://www.tunisienumerique.com/gabes-la-plateforme-numerique-du-tribunal-administratif-franchit-un-cap-avec-une-seance-100-digitale/",
+  "title": "Gabès : la plateforme numérique du Tribunal administratif franchit un cap avec une séance 100% digitale",
+  "publisher": "Tunisie Numerique",
+  "published": "2026-02-16",
+  "sub_indicator": "justice",
+  "why": "Q3/Q4 administrative court platform live in Gabes, online filing planned"
+ },
+ {
+  "url": "https://www.afdb.org/en/documents/aoi-tunisie-mise-en-place-dun-portail-de-services-e-justice-et-dune-application-metier-du-ministere-de-la-justice-tunisie-digitale-2020",
+  "title": "AOI - Tunisie - Mise en place d'un Portail de Services E-Justice et d'une Application Métier du Ministère de la Justice",
+  "publisher": "African Development Bank",
+  "published": "2025-09-18",
+  "sub_indicator": "justice",
+  "why": "Q2 case management application procured"
+ },
+ {
+  "url": "https://www.lapresse.tn/2024/11/21/tunisie-lancement-officiel-du-systeme-dechange-electronique-des-documents-judiciaires/",
+  "title": "Tunisie : Lancement officiel du système d'échange électronique des documents judiciaires",
+  "publisher": "La Presse de Tunisie",
+  "published": "2024-11-21",
+  "sub_indicator": "justice",
+  "why": "Q4 civil e-exchange of documents piloted"
+ },
+ {
+  "url": "https://www.justice.gov.tn/index.php?cHash=de623ee651cccdad0620bb3c7a92b7ee&id=575&tx_ttnews=3908",
+  "title": "الانطلاق في اعتماد منظومة التبادل الالكتروني للوثائق القضائية في المادة المدنية والجلسات التفاعلية عن بعد",
+  "publisher": "Ministère de la Justice",
+  "published": "2024-11-18",
+  "sub_indicator": "justice",
+  "why": "Q4 lawyer accounts for e-exchange (Arabic)"
+ },
+ {
+  "url": "https://news.gnet.tn/tunisie-le-ministere-de-la-justice-lance-la-plateforme-jshare-pour-lechange-electronique-des-donnees-judiciaires-en-matiere-civile/",
+  "title": "Tunisie : Le ministère de la Justice lance la plateforme Jshare",
+  "publisher": "Gnet news",
+  "published": "2023-05-26",
+  "sub_indicator": "justice",
+  "why": "Q2 Jshare pilot in model courts"
+ }
+]

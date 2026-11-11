@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system",
+ "fact": "The 2023 Africa Housing Finance Yearbook states that Libya lacks an updated land registry and a digitised land tenure and title system, and that most land records exist in paper form in different offices.",
+ "title": "Africa Housing Finance Yearbook 2023: Libya",
+ "publisher": "Centre for Affordable Housing Finance in Africa",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

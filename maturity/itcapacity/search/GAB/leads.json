@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.gabonreview.com/communique-mise-au-point-sur-le-traitement-de-la-solde-de-letat/",
+  "title": "Mise au point de l'ANINF sur le traitement de la Solde de l'Etat",
+  "publisher": "Gabonreview",
+  "published": "2026-01-23",
+  "sub_indicator": "inhouse",
+  "why": "Q2: FUR payroll file run by ANINF teams"
+ },
+ {
+  "url": "https://gabon-info.com/2026/01/15/le-gabon-reprend-la-main-sur-sa-souverainete-financiere-et-numerique/",
+  "title": "Le Gabon reprend la main sur sa souverainete financiere et numerique",
+  "publisher": "Gabon Info",
+  "published": "2026-01-15",
+  "sub_indicator": "inhouse",
+  "why": "Q4: SIGFIP developed in-house, source code owned"
+ },
+ {
+  "url": "https://depeches241.com/?p=29457",
+  "title": "Le logiciel qui pilote le budget de l'Etat est donc marocain depuis 2012",
+  "publisher": "Depeches241",
+  "published": "2026-07-14",
+  "sub_indicator": "inhouse",
+  "why": "Q1: reliance on Involys for Vectis budget system"
+ },
+ {
+  "url": "https://www.ecofinagency.com/news-digital/0405-55229-gabon-s-national-assembly-launches-digital-platform-to-modernise-legislative-process",
+  "title": "Gabon's National Assembly launches digital platform",
+  "publisher": "Ecofin Agency",
+  "published": "2026-05-04",
+  "sub_indicator": "inhouse",
+  "why": "Q3/Q4: ANINF developed GTLAN for Assembly"
+ },
+ {
+  "url": "https://www.dgb-gabon.net/actualite-detail/84/details",
+  "title": "Actualites DGB - OLIA",
+  "publisher": "Direction Generale du Budget",
+  "published": "2026-09-24",
+  "sub_indicator": "inhouse",
+  "why": "Q2/Q4: DGB IT directorate designed OLIA"
+ },
+ {
+  "url": "https://fr.linkedin.com/posts/agence-nationale-des-infrastructures-num%C3%A9riques-et-des-fr%C3%A9quences-aninf-ga_egabon-sis-une-r%C3%A9ussite-collective-port%C3%A9e-activity-7475638304818933760-KwfV",
+  "title": "eGabon-SIS: une reussite collective portee par l'expertise technique nationale",
+  "publisher": "ANINF",
+  "published": "2026-06-24",
+  "sub_indicator": "inhouse",
+  "why": "Q3: ANINF technical teams designed and deployed health systems"
+ },
+ {
+  "url": "https://www.gabonreview.com/gabon-des-dcsi-en-poste-pour-batir-la-souverainete-numerique-du-pays/",
+  "title": "Des DCSI en poste pour batir la souverainete numerique du pays",
+  "publisher": "Gabonreview",
+  "published": "2024-10-03",
+  "sub_indicator": "inhouse",
+  "why": "Q3: ANINF develops and maintains strategic apps for ministries"
+ },
+ {
+  "url": "https://lejmp.com/marches_approuves/marche-15006/",
+  "title": "Assistance Technique VECTIS",
+  "publisher": "DGMP Gabon",
+  "published": "2024-02",
+  "sub_indicator": "inhouse",
+  "why": "Q1: sole-source technical assistance contract to Involys"
+ }
+]

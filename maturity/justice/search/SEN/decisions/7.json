@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "justice",
+ "date_source": "proxy",
+ "why_not": "",
+ "aspect": "cases;filing",
+ "fact": "The Joint SDG Fund final report, covering a programme that closed in August 2025, states an e-justice platform was launched in one courthouse enabling online case requests, complaints and electronic payments.",
+ "title": "Final Narrative Report_SFT Senegal DIG 140774",
+ "publisher": "UNDP MPTF Office / Joint SDG Fund",
+ "published": "2026"
+}

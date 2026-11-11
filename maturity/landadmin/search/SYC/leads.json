@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.pou.gov.sc/tenders/consultancies/1275-design-and-development-of-the-land-management-administration-information-system-lmais",
+  "title": "Design and Development of the Land Management Administration Information System (LMAIS)",
+  "publisher": "Procurement Oversight Unit Seychelles",
+  "published": "2024-11-27",
+  "sub_indicator": "landmis",
+  "why": "LMAIS tendered"
+ },
+ {
+  "url": "https://www.ntb.sc/2-stage-tender/consultancy-2-stage/dict-development-of-the-land-valuation-system-lvs",
+  "title": "DICT - Development of the Land Valuation System (LVS)",
+  "publisher": "National Tender Board",
+  "published": "2025-03",
+  "sub_indicator": "landmis",
+  "why": "Valuation system tendered"
+ },
+ {
+  "url": "https://theseychellestimes.com/2025/02/08/president-ramkalawan-visits-registrar-generals-office-to-review-service-delivery/",
+  "title": "President Ramkalawan Visits Registrar General's Office",
+  "publisher": "The Seychelles Times",
+  "published": "2025-02-08",
+  "sub_indicator": "landmis",
+  "why": "Land documents scanned"
+ },
+ {
+  "url": "https://registrationdivision.gov.sc/faq/",
+  "title": "FAQ",
+  "publisher": "Seychelles Registration Division",
+  "published": "",
+  "sub_indicator": "landmis",
+  "why": "Land transfer processing"
+ },
+ {
+  "url": "https://registrationdivision.gov.sc/exciting-update-new-land-searchsystem-coming-soon-to-seychelles/",
+  "title": "Exciting Update: New Land Search System Coming Soon to Seychelles",
+  "publisher": "Seychelles Registration Division",
+  "published": "",
+  "sub_indicator": "landmis",
+  "why": "New land search system"
+ },
+ {
+  "url": "https://registrationdivision.gov.sc/our-services/mortgage/",
+  "title": "Mortgage",
+  "publisher": "Seychelles Registration Division",
+  "published": "",
+  "sub_indicator": "landmis",
+  "why": "Collateral pledges online search"
+ },
+ {
+  "url": "https://housingfinanceafrica.org/wp-content/uploads/2025/01/SEYCHELLES.pdf",
+  "title": "Housing Finance Yearbook 2023: Seychelles",
+  "publisher": "Centre for Affordable Housing Finance in Africa",
+  "published": "2025-01",
+  "sub_indicator": "landmis",
+  "why": "Digital deeds registry, cadastral info"
+ },
+ {
+  "url": "https://www.expanship.com/sc/blog/seychelles-stamp-duty",
+  "title": "Stamp Duty in Seychelles",
+  "publisher": "Expanship",
+  "published": "2026-08-12",
+  "sub_indicator": "landmis",
+  "why": "Stamp duty at Land Registry"
+ }
+]

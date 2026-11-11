@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "joined",
+ "fact": "The November 2024 standard requires the municipal valuation roll to match one-to-one with a GIS cadastral layer keyed on the Surveyor-General code and to record the latest deeds office transfers.",
+ "title": "South African Standard: Municipal Valuations for Property Rating (sMVPR) 2021_2024.11b",
+ "publisher": "SACPVP-IAAO",
+ "published": "2024-11",
+ "date_source": "source",
+ "why_not": ""
+}

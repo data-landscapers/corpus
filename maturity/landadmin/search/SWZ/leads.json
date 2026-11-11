@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.lands.go.ke/eswatini-delegation-returns-kenya-benchmarking-lands-digitization",
+  "title": "Eswatini Delegation Returns to Kenya for Benchmarking on Lands Digitization",
+  "publisher": "State Department for Lands (Kenya)",
+  "published": "2025-08-25",
+  "why": "Registrar says Eswatini upgrading manual deeds registration to electronic system",
+  "sub_indicator": "landmis"
+ },
+ {
+  "url": "https://cdn.climatepolicyradar.org/navigator/SWZ/2025/strategic-plan-for-the-ministry-of-housing-and-urban-development-2025-2030_25ecaa6cba7d5119b2a89cff55b8ba31.pdf",
+  "title": "Strategic Plan for the Ministry of Housing and Urban Development 2025-2030",
+  "publisher": "Ministry of Housing and Urban Development",
+  "published": "2025",
+  "why": "planned digital land registry and GIS",
+  "sub_indicator": "landmis"
+ },
+ {
+  "url": "https://manzinicity.co.sz/wp-content/uploads/2024/09/Approved_Tender_No_MCMz112_of_2024-2025_-_General_Valuation_Roll_for_the_Municipal_Council_of_Manzini.pdf",
+  "title": "General Valuation Roll tender",
+  "publisher": "Municipal Council of Manzini",
+  "published": "2024",
+  "why": "valuation roll matching cadastre and rates",
+  "sub_indicator": "landmis"
+ },
+ {
+  "url": "https://eswatini.un.org/sites/default/files/2023-10/NDP%20DRAFT%20FINAL%2016%20June%202022.pdf",
+  "title": "National Development Plan 2023/24-2027/28",
+  "publisher": "Government of Eswatini",
+  "published": "2022",
+  "why": "GIS in land admin, lack of digitalisation",
+  "sub_indicator": "landmis"
+ },
+ {
+  "url": "https://gov.sz/index.php/deeds-home",
+  "title": "Deeds",
+  "publisher": "Deeds Registry, Government of Eswatini",
+  "published": "",
+  "why": "computerised registers, no LIS yet",
+  "sub_indicator": "landmis"
+ },
+ {
+  "url": "https://www.doingbusiness.org/content/dam/doingBusiness/country/e/eswatini/SWZ.pdf",
+  "title": "Doing Business Eswatini",
+  "publisher": "World Bank",
+  "published": "2020",
+  "why": "computerised land records, electronic encumbrance database; transfer duty paid to Treasury",
+  "sub_indicator": "landmis"
+ },
+ {
+  "url": "https://www.fig.net/resources/proceedings/fig_proceedings/fig2020/papers/ts04h/TS04H_johnson_van_bennekom-minnema_et_al_10611.pdf",
+  "title": "Creating a Neo-Customary Land Administration System",
+  "publisher": "FIG",
+  "published": "2020",
+  "why": "pilot LIS for Swazi Nation Land",
+  "sub_indicator": "landmis"
+ },
+ {
+  "url": "http://landsymposium.nust.na/sites/default/files/2019-08/Land%20Governance%20in%20eSwatini%203-4%20September%202019.pdf",
+  "title": "Land Governance in eSwatini",
+  "publisher": "Land Symposium NUST",
+  "published": "2019",
+  "why": "no national land information system",
+  "sub_indicator": "landmis"
+ }
+]

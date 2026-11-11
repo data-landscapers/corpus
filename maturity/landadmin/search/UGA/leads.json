@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.monitor.co.ug/uganda/news/national/parliament-gives-jinja-land-office-three-months-to-clear-backlog-5573992",
+  "title": "Parliament gives Jinja land office three months to clear backlog",
+  "publisher": "Monitor",
+  "published": "2026-08-28",
+  "sub_indicator": "landmis",
+  "why": "Q3/Q5: UgNLIS integrated with NIRA and URA, residual manual steps"
+ },
+ {
+  "url": "https://www.monitor.co.ug/uganda/news/national/jinja-land-office-backlog-exposes-staffing-infrastructure-gaps-despite-digital-gains-5577014",
+  "title": "Jinja land office backlog exposes staffing, infrastructure gaps despite digital gains",
+  "publisher": "Monitor",
+  "published": "2026-08-31",
+  "sub_indicator": "landmis",
+  "why": "Q3/Q5: digital registration, URA integration"
+ },
+ {
+  "url": "https://development.finance.go.ug/knowledge-centre-reports/uganda-national-land-information-system-nlis-portal",
+  "title": "The Uganda National Land Information System (NlIS) Portal",
+  "publisher": "Development Policy and Performance Portal, MoFPED",
+  "published": "2025-04-28",
+  "sub_indicator": "landmis",
+  "why": "Q3: portal over NLIS"
+ },
+ {
+  "url": "https://ignfi.fr/en/launch-of-ugandas-land-information-system-portal-ugnlis/",
+  "title": "Launch of Uganda's Land Information System Portal - UgNLIS",
+  "publisher": "IGN FI",
+  "published": "2024-10-21",
+  "sub_indicator": "landmis",
+  "why": "Q3/Q5: transactions in 22 MZOs, online stamp duty payment"
+ },
+ {
+  "url": "https://www.monitor.co.ug/uganda/news/national/govt-launches-digital-portal-to-access-lands-services-4784412",
+  "title": "Govt launches digital portal to access lands services",
+  "publisher": "Monitor",
+  "published": "2024-10-03",
+  "sub_indicator": "landmis",
+  "why": "Q3/Q5: URA, NBRB, URSB integration, stamp duty validation"
+ },
+ {
+  "url": "https://www.ntv.co.ug/ug/news/national/lands-ministry-starts-piloting-registration-system-across-the-country-4729976",
+  "title": "Lands ministry starts piloting registration system across the country",
+  "publisher": "NTV Uganda",
+  "published": "2024-08-18",
+  "sub_indicator": "landmis",
+  "why": "Q2/Q3: piloting public NLIS access"
+ },
+ {
+  "url": "https://igad.int/igad-land-governance-twinning-exercise-between-uganda-and-ethiopia/",
+  "title": "IGAD Land Governance Twinning Exercise between Uganda and Ethiopia",
+  "publisher": "IGAD",
+  "published": "2024-02-20",
+  "sub_indicator": "landmis",
+  "why": "Q3/Q5: land records linked to National ID and URA"
+ },
+ {
+  "url": "https://www.monitor.co.ug/uganda/magazines/homes-and-property/status-of-uganda-s-digital-land-registry-system-ten-years-later-4269504",
+  "title": "Status of Uganda's digital land registry system ten years later",
+  "publisher": "Monitor",
+  "published": "2023-06-14",
+  "sub_indicator": "landmis",
+  "why": "Q1/Q3: largely manual steps remain"
+ }
+]

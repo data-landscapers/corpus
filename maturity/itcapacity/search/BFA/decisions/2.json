@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "inhouse",
+ "aspect": "agency;inhouse",
+ "fact": "In January 2026 the government inaugurated two micro data centres in Ouagadougou for public-sector workloads, managed by national competencies.",
+ "title": "Gov't of Burkina Faso launches two \"mini data centers\" to support data sovereignty",
+ "publisher": "DCD (DatacenterDynamics)",
+ "published": "2026-01-27",
+ "date_source": "proxy",
+ "why_not": ""
+}

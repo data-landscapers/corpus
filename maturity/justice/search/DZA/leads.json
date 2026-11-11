@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.aps.dz/fr/algerie/actualite-nationale/mlnurtx3-lancement-d-une-plateforme-numerique-permettant-aux-avocats-de-demander-et-de-retirer-en-ligne-la-grosse-des-decisions-de-justice",
+  "title": "Lancement d'une plateforme numérique permettant aux avocats de demander et de retirer en ligne la grosse des décisions de justice",
+  "publisher": "Algérie Presse Service",
+  "published": "2026-02-15",
+  "sub_indicator": "justice",
+  "why": "Q4/Q5: lawyers request and collect judgments online"
+ },
+ {
+  "url": "https://fildalgerie.dz/justice-numerique-lechange-electronique-des-documents-et-le-paiement-en-ligne-obligatoires-des-janvier-2026/",
+  "title": "Justice numérique : échange électronique et paiement en ligne obligatoires dès janvier 2026",
+  "publisher": "fildalgerie",
+  "published": "2025-12-18",
+  "sub_indicator": "justice",
+  "why": "Q4: e-filing of civil pleadings mandatory from 18 Jan 2026"
+ },
+ {
+  "url": "https://elwatan.dz/processus-de-transition-numerique-le-secteur-de-la-justice-a-realise-des-acquis-tangibles/",
+  "title": "Le secteur de la Justice a réalisé des acquis tangibles",
+  "publisher": "El Watan",
+  "published": "2025-12-02",
+  "sub_indicator": "justice",
+  "why": "Q3: ministry digitisation achievements"
+ },
+ {
+  "url": "https://lechodalgerie.dz/reforme-judiciaire-la-numerisation-au-coeur-de-la-modernisation-de-la-justice/",
+  "title": "Réforme judiciaire : la numérisation au cœur de la modernisation de la justice",
+  "publisher": "L'Echo d'Algérie",
+  "published": "2025-11-10",
+  "sub_indicator": "justice",
+  "why": "Q3/Q4: Algiers Court e-exchange of requests"
+ },
+ {
+  "url": "https://iacajournal.org/articles/10.36745/ijca.730",
+  "title": "Digital Transformation in the Algerian Administrative Justice System",
+  "publisher": "International Journal for Court Administration",
+  "published": "2025-07-18",
+  "sub_indicator": "justice",
+  "why": "Q1: administrative courts paper-based, no electronic case management"
+ },
+ {
+  "url": "https://lapatrienews.dz/justice-modernisation-et-numerisation-du-secteur-1ere-partie/",
+  "title": "Justice : modernisation et numérisation du secteur (1ère partie)",
+  "publisher": "La Patrie News",
+  "published": "2023-03-06",
+  "sub_indicator": "justice",
+  "why": "Q3: SGDJ case management system in service"
+ },
+ {
+  "url": "https://asjp.cerist.dz/en/downArticle/153/12/2/231508",
+  "title": "Le rôle de l'application de la gestion des dossiers judiciaires (S.G.D.J)",
+  "publisher": "Revue Droit, Société et Pouvoir",
+  "published": "2023-09-11",
+  "sub_indicator": "justice",
+  "why": "Q3: SGDJ across courts"
+ },
+ {
+  "url": "https://www.algerie62.dz/administration-judiciaire-un-guichet-electronique-national-pour-le-suivi-des-des-affaires-et-les-jugements/",
+  "title": "Un Guichet électronique national pour le suivi des affaires et les jugements",
+  "publisher": "Algérie 62",
+  "published": "2022-11-28",
+  "sub_indicator": "justice",
+  "why": "Q5: national e-counter for case status and judgment copies"
+ }
+]

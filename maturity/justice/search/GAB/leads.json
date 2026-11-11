@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.gabonreview.com/justice-plus-rapide-et-securisee-le-gabon-explore-avec-indra-la-dematerialisation-des-procedures/",
+  "title": "Le Gabon explore avec Indra la dematerialisation des procedures",
+  "publisher": "Gabonreview",
+  "published": "2026-10-07",
+  "sub_indicator": "justice",
+  "why": "Q2: justice ministry exploring CMS with Indra"
+ },
+ {
+  "url": "https://www.gabonreview.com/modernisation-de-la-justice-le-gabon-et-le-pnud-accelerent-le-chantier-de-lenm/",
+  "title": "Modernisation de la justice: le Gabon et le PNUD accelerent le chantier de l'ENM",
+  "publisher": "Gabonreview",
+  "published": "2026-07-14",
+  "sub_indicator": "justice",
+  "why": "Q2: digitalisation of penal chain and integrated system planned"
+ },
+ {
+  "url": "https://agpgabon.ga/gabon-justice-le-ministre-augustin-emane-visite-le-tribunal-de-premiere-instance-de-libreville/",
+  "title": "Le ministre Augustin Emane visite le Tribunal de premiere instance de Libreville",
+  "publisher": "AGP",
+  "published": "2026-03-11",
+  "sub_indicator": "justice",
+  "why": "Q1: delay in digitisation of judicial records"
+ },
+ {
+  "url": "https://gabonactu.com/blog/2026/01/13/bema-une-solution-numerique-pour-mettre-fin-a-la-lenteur-judiciaire-gabonaise/",
+  "title": "BEMA: une solution numerique pour mettre fin a la lenteur judiciaire",
+  "publisher": "Gabonactu",
+  "published": "2026-01-13",
+  "sub_indicator": "justice",
+  "why": "Q2/Q5: BEMA CMS presented, case follow-up"
+ },
+ {
+  "url": "https://gabonclic.info/digitalisation-de-la-justice-le-gabon-veut-tourner-la-page-du-papier/",
+  "title": "Digitalisation de la justice: le Gabon veut tourner la page du papier",
+  "publisher": "Gabonclic",
+  "published": "2025-12-10",
+  "sub_indicator": "justice",
+  "why": "Q1/Q2: paper-dependent courts, archiving system planned"
+ },
+ {
+  "url": "https://gabonmediatime.com/lambarene-les-tribunaux-judiciaire-et-administratif-en-etat-de-degradation-avancee/",
+  "title": "Lambarene: les tribunaux en etat de degradation avancee",
+  "publisher": "Gabonmediatime",
+  "published": "2025-08-04",
+  "sub_indicator": "justice",
+  "why": "Q1: no IT system in Lambarene courts"
+ },
+ {
+  "url": "https://www.union.sonapresse.com/fr/casier-judiciaire-les-tribunaux-travaillent-sans-internet",
+  "title": "Casier judiciaire: les tribunaux travaillent sans internet",
+  "publisher": "L'Union",
+  "published": "2024-07-09",
+  "sub_indicator": "justice",
+  "why": "Q1/Q4: no online services in inland courts"
+ },
+ {
+  "url": "https://www.wearetech.africa/en/fils-uk/news/public-management/gabon-secures-2-2-million-from-japan-for-digital-justice-overhaul",
+  "title": "Gabon Secures $2.2 Million from Japan for Digital Justice Overhaul",
+  "publisher": "We Are Tech",
+  "published": "2024-07-31",
+  "sub_indicator": "justice",
+  "why": "Q2: e-justice funding"
+ }
+]

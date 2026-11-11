@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.lands.go.ke/state-department-lands-accelerates-digital-transformation-land-services",
+  "title": "State Department for Lands Accelerates Digital Transformation of Land Services",
+  "publisher": "State Department for Lands",
+  "published": "2026-09-03",
+  "sub_indicator": "landmis",
+  "why": "Q2/Q4: Ardhisasa live in four counties, NSDM"
+ },
+ {
+  "url": "https://citizen.digital/article/govt-expands-ardhisasa-rollout-in-mombasa-moves-more-land-transactions-online-n386696",
+  "title": "Gov't expands Ardhisasa rollout in Mombasa",
+  "publisher": "Citizen Digital",
+  "published": "2026-07-18",
+  "sub_indicator": "landmis",
+  "why": "Q2: transactions exclusively online in Mombasa blocks"
+ },
+ {
+  "url": "https://www.lands.go.ke/state-department-lands-rolls-out-nsdm-countrywide-making-land-transactions-faster-and-transparent",
+  "title": "State Department for Lands Rolls out NSDM Countrywide",
+  "publisher": "State Department for Lands",
+  "published": "2026-02-16",
+  "sub_indicator": "landmis",
+  "why": "Q4: stamp duty through Ardhisasa"
+ },
+ {
+  "url": "https://capitalfm.africa/govt-to-spend-sh35bn-to-expand-land-record-digitization-to-15-more-counties/",
+  "title": "Govt to spend Sh35bn to expand land record digitization",
+  "publisher": "Capital FM",
+  "published": "2025-08-23",
+  "sub_indicator": "landmis",
+  "why": "Q1: expansion to 15 counties"
+ },
+ {
+  "url": "https://www.lands.go.ke/isiolo-county-onboarded-ardhisasa-more-counties-embrace-platform",
+  "title": "Isiolo County Onboarded onto Ardhisasa",
+  "publisher": "State Department for Lands",
+  "published": "2025-07-31",
+  "sub_indicator": "landmis",
+  "why": "Q2: Isiolo live"
+ },
+ {
+  "url": "https://www.gim-international.com/article/the-long-road-to-digitization-in-kenya",
+  "title": "The long road to digitization in Kenya",
+  "publisher": "GIM International",
+  "published": "2025-01-23",
+  "sub_indicator": "landmis",
+  "why": "Q3: digital cadastre, NLIMS"
+ },
+ {
+  "url": "https://anoadvocates.com/insights/stamp-duty-payments-simplified-by-ardhipay",
+  "title": "Stamp duty payments simplified by ArdhiPay",
+  "publisher": "ANO Advocates LLP",
+  "published": "2024-07-30",
+  "sub_indicator": "landmis",
+  "why": "Q4: stamp duty via Ardhipay"
+ },
+ {
+  "url": "https://www.standardmedia.co.ke/national/article/2001554596/mps-decry-slow-digitisation-of-lands-system-claim-cartels-behind-delay",
+  "title": "MPs decry slow digitisation of Lands system",
+  "publisher": "The Standard",
+  "published": "",
+  "sub_indicator": "landmis",
+  "why": "Q1/Q2: only two registries fully digitised"
+ }
+]

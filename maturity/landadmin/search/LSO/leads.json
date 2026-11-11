@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://portal.laa.landfolio.com/Portal/CustomHtml.aspx?PageID=d7f3f61d-4689-4280-a59a-b865f002dd60",
+  "title": "LAA Land Administration Online System",
+  "publisher": "Land Administration Authority",
+  "published": "",
+  "sub_indicator": "landmis",
+  "why": "Q3/Q5: online accounts, ground rent payments"
+ },
+ {
+  "url": "https://laa.org.ls/faqs/",
+  "title": "FAQS - LAA",
+  "publisher": "Land Administration Authority",
+  "published": "2024-10-28",
+  "sub_indicator": "landmis",
+  "why": "Q5: ground rent, transfer requirements"
+ },
+ {
+  "url": "https://lndc.org.ls/knowledge-base/land-administration-authority-laa/",
+  "title": "Land Administration Authority (LAA)",
+  "publisher": "Lesotho National Development Corporation",
+  "published": "2025-10-11",
+  "sub_indicator": "landmis",
+  "why": "Q3: transfers and mortgages registered"
+ },
+ {
+  "url": "https://lndc.org.ls/knowledge-base/access-to-land-in-lesotho/",
+  "title": "Access to Land in Lesotho",
+  "publisher": "Lesotho National Development Corporation",
+  "published": "2025-10-11",
+  "sub_indicator": "landmis",
+  "why": "Q5: ground rent billing, LAA portals"
+ },
+ {
+  "url": "https://www.landequity.com.au/news/land_registration_lesotho_ntsebo/",
+  "title": "Working on Improving Land Registration with Lesotho's Community Councils",
+  "publisher": "Land Equity International",
+  "published": "2025-03-19",
+  "sub_indicator": "landmis",
+  "why": "Q1: council records manual"
+ },
+ {
+  "url": "https://nelga.uneca.org/wp-content/uploads/2022/11/Land-Governance-Lesotho.pdf",
+  "title": "Land Governance in Lesotho",
+  "publisher": "UNECA NELGA",
+  "published": "2022",
+  "sub_indicator": "landmis",
+  "why": "Q3/Q4: LAA systems, valuation"
+ },
+ {
+  "url": "https://www.spatialdimension.com/projects/lesotho-land-administration-authority",
+  "title": "Lesotho Land Administration Authority",
+  "publisher": "Spatial Dimension",
+  "published": "",
+  "sub_indicator": "landmis",
+  "why": "Q2/Q4: Integrated Land Information System"
+ },
+ {
+  "url": "https://www.mcc.gov/resources/doc/evalbrief-042222-lso-land-reform/",
+  "title": "Land governance reform for equity and growth in Lesotho",
+  "publisher": "Millennium Challenge Corporation",
+  "published": "2022-04",
+  "sub_indicator": "landmis",
+  "why": "Q3: transfer and mortgage processing times"
+ }
+]

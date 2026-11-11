@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "justice",
+ "aspect": "public",
+ "fact": "The Judiciary's website lists Court of Appeal, Constitutional Court and Supreme Court decisions for 2025 and 2026 with links to view them online, the latest dated 16 October 2026.",
+ "title": "Decisions from the Courts",
+ "publisher": "The Judiciary of Seychelles",
+ "published": "2026-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "justice",
+ "aspect": "public",
+ "fact": "The Judiciary's website publishes Supreme Court decisions online, the latest listed being dated 28 August 2026.",
+ "title": "Recent Decisions",
+ "publisher": "Judiciary of Liberia",
+ "published": "2026-08-28",
+ "date_source": "proxy",
+ "why_not": ""
+}

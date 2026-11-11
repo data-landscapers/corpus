@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system;joined",
+ "fact": "The land information system at the Land Administration Authority records plot position, boundaries, owner, use and transactions, using ArcGIS, SOLA and Landfolio, but cannot provide an electronic database on encumbrances.",
+ "title": "Land Governance in Lesotho",
+ "publisher": "R. C. Leduka, M. Ntaote, S. N. Takalimane, National University of Lesotho (NELGA)",
+ "published": "2019",
+ "date_source": "proxy",
+ "why_not": ""
+}

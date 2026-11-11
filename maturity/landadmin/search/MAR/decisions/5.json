@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system;tax",
+ "fact": "The ANCFCC's online services include a Référentiel Commun des Prix giving reference prices by zone and property type for computing profit tax (IR/PF) and land conservation duties, alongside online certificates, cadastral plans and tracking of formalities on titles.",
+ "title": "Services en ligne",
+ "publisher": "Canal212",
+ "published": "2024-04-07",
+ "date_source": "source",
+ "why_not": ""
+}

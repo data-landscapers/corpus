@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system;joined",
+ "fact": "The SIGFU project, 06/2021-07/2025, deployed across Greater Abidjan and Assinie, integrates converted land records and geographic data (aerial and LiDAR imagery, orthophotography) into a land information system covering 49 land procedures, with a public web portal and mobile app.",
+ "title": "Integrated Urban Land Management System - SIGFU",
+ "publisher": "IGN FI",
+ "published": "2025-12-17",
+ "date_source": "source",
+ "why_not": ""
+}

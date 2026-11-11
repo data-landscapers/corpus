@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://reveildalgerie.com/fr/sante-lalgerie-lance-le-deploiement-national-du-dossier-medical-electronique/",
+  "title": "Santé : l'Algérie lance le déploiement national du dossier médical électronique",
+  "publisher": "Réveil d'Algérie",
+  "published": "2026-07-26",
+  "sub_indicator": "inhouse",
+  "why": "Q4: health records system built by ministry's own engineers, rolling out"
+ },
+ {
+  "url": "https://www.ecofinagency.com/news-digital/0707-57143-algeria-expands-digital-capacity-with-national-services-center",
+  "title": "Algeria Expands Digital Capacity With National Services Center",
+  "publisher": "Ecofin Agency",
+  "published": "2026-07-07",
+  "sub_indicator": "inhouse",
+  "why": "Q1/Q3: state centre hosts all public administration data; built by Huawei"
+ },
+ {
+  "url": "https://elwatan.dz/fait-du-jour-cloud-souverain-data-centers-et-protection-des-donnees-la-longue-marche-vers-le-numerique/",
+  "title": "Cloud souverain, data centers et protection des données : la longue marche vers le numérique",
+  "publisher": "El Watan",
+  "published": "2026-04-30",
+  "sub_indicator": "inhouse",
+  "why": "Q1/Q3: sovereign cloud serves ministries; skills gap noted"
+ },
+ {
+  "url": "https://algeriezoom.com/algerie-vers-le-livret-foncier-electronique-avec-amlak/",
+  "title": "Algérie : vers le livret foncier électronique avec Amlak",
+  "publisher": "Algérie Zoom",
+  "published": "2026-01-11",
+  "sub_indicator": "inhouse",
+  "why": "Q2/Q4: Amlak built by DGDN IT staff in one year"
+ },
+ {
+  "url": "https://www.lactualgerie.com/divers/lancement-dune-plateforme-numerique-pour-les-services-de-police/",
+  "title": "Lancement d'une plateforme numérique pour moderniser les services de police",
+  "publisher": "L'Actualgérie",
+  "published": "2025-03-22",
+  "sub_indicator": "inhouse",
+  "why": "Q4: police platform developed by DGSN engineers"
+ },
+ {
+  "url": "https://www.jeune-independant.net/inauguration-dun-cloud-computing-au-cerist-vers-la-souverainete-numerique/",
+  "title": "Inauguration d'un cloud computing au Cerist",
+  "publisher": "Le Jeune Indépendant",
+  "published": "2025-03-26",
+  "sub_indicator": "inhouse",
+  "why": "Q3: CERIST national cloud hosts public institutions, software built in Algeria"
+ },
+ {
+  "url": "https://expertise-france.gestmax.fr/_expertise_france/public_files/daj-m003-v02-cahier-des-charges-eltsi-vf.pdf",
+  "title": "Termes de Références Missions (SIGB)",
+  "publisher": "Expertise France",
+  "published": "2023",
+  "sub_indicator": "inhouse",
+  "why": "Q1: finance ministry teams cannot yet run SIGB alone (July 2023)"
+ },
+ {
+  "url": "https://www.mpt.gov.dz/sectors-companies-and-institutions/",
+  "title": "Sector's companies and institutions - EADN",
+  "publisher": "Ministry of Post and Telecommunications",
+  "published": "2023-12-05",
+  "sub_indicator": "inhouse",
+  "why": "Q3: EADN state company pools IT for public administrations"
+ }
+]

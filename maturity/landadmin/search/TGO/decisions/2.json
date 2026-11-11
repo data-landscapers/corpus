@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system",
+ "fact": "From 17 August 2026 parcel plan files must be transmitted in digital form to the Guichet Foncier Unique through the OTR web portal.",
+ "title": "Foncier : l'OTR digitalise le dépôt des plans parcellaires",
+ "publisher": "République Togolaise",
+ "published": "2026-08-17",
+ "date_source": "source",
+ "why_not": ""
+}

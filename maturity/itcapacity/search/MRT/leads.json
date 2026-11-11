@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://ami.mr/fr/archives/298113",
+  "title": "Le ministre de la Transformation numérique : le lancement du cloud national met la Mauritanie à l'abri du recours à l'hébergement international de ses services numériques",
+  "publisher": "Agence mauritanienne d'information",
+  "published": "2026-07-02",
+  "sub_indicator": "inhouse",
+  "why": "Ministry hosts all administration servers in national data centre; ends reliance on foreign hosting (Q1/Q3)"
+ },
+ {
+  "url": "https://www.agenceecofin.com/actualites-numerique/2612-134553-la-mauritanie-met-en-service-une-solution-d-ia-dediee-a-la-securite-routiere",
+  "title": "La Mauritanie met en service une solution d'IA dédiée à la sécurité routière",
+  "publisher": "Agence Ecofin",
+  "published": "2025-12-26",
+  "sub_indicator": "inhouse",
+  "why": "System developed by the state digital agency AN-État went live (Q4)"
+ },
+ {
+  "url": "https://mtnima.gov.mr/wp-content/uploads/2025/04/Cahier-des-charges-Mise-en-place-du-CSIRT-national-et-du-SOC-RIAD.pdf",
+  "title": "Cahier des charges - Mise en place du CSIRT national et du SOC RIAD",
+  "publisher": "MTNIMA / WARDIP",
+  "published": "2025-04",
+  "sub_indicator": "inhouse",
+  "why": "Outside consultant to run SOC with internal team upskilled to autonomy in 3 years (Q1/Q2)"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099062725084035551/pdf/P502279-04508ee8-cc50-4689-a658-d9aa34c3dd1a.pdf",
+  "title": "World Bank project document P502279 (Mauritania digital)",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "inhouse",
+  "why": "IT departments outsource maintenance; AN-ETAT staff; MTNMA hosts other ministries' apps (Q1/Q3)"
+ },
+ {
+  "url": "https://cnc.gov.mr/VisAvis.aspx?ID=229AV0",
+  "title": "Concours externe pour le recrutement de 120 ingénieurs et techniciens supérieurs en informatique",
+  "publisher": "Commission Nationale des Concours",
+  "published": "2026-03",
+  "sub_indicator": "inhouse",
+  "why": "Recruitment of 120 government IT engineers (Q2)"
+ },
+ {
+  "url": "https://www.undp.org/blog/mauritania-pilots-digital-id-app",
+  "title": "Mauritania pilots digital ID app",
+  "publisher": "UNDP",
+  "published": "2024-08-01",
+  "sub_indicator": "inhouse",
+  "why": "ANRPTS developed and manages the biometric system; capacity building still needed for open-source governance (Q1/Q2)"
+ },
+ {
+  "url": "https://www.sondagemr.net/node/15864",
+  "title": "Houwiyeti launch speech, Interior Minister",
+  "publisher": "Mauritanian Centre for Opinion Polls",
+  "published": "2023-12-26",
+  "sub_indicator": "inhouse",
+  "why": "Minister says Houwiyeti created by purely national engineers of ANRPTS (Q4)"
+ },
+ {
+  "url": "http://anrpts.gov.mr/fr/houwiyeti",
+  "title": "Houwiyeti | Accueil",
+  "publisher": "ANRPTS",
+  "published": "2023-12",
+  "sub_indicator": "inhouse",
+  "why": "Houwiyeti described as locally developed, launched 26 Dec 2023 (Q4)"
+ }
+]

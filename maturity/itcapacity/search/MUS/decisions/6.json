@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "inhouse",
+ "aspect": "agency",
+ "fact": "The Government Online Centre, a department of the Ministry, runs the central government data centre and g-Cloud (IaaS/PaaS) hosting the portal, email, and back-office and e-services applications of ministries and departments.",
+ "title": "Government Online Centre",
+ "publisher": "Ministry of Information Technology, Communication and Innovation",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: undated page, no dated fact"
+}

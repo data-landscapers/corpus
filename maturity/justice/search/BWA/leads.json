@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://dailynews.gov.bw/news-detail/91905",
+  "title": "DailyNews: Administration of Justice budget, e-Filing computerisation",
+  "publisher": "Daily News (BOPA)",
+  "published": "2026-06-18",
+  "sub_indicator": "justice",
+  "why": "Q2/Q4: e-filing computerisation"
+ },
+ {
+  "url": "https://www.thegazette.news/news/paper-shortage-crisis-hits-courts/",
+  "title": "Paper Shortage Crisis Hits Courts",
+  "publisher": "Botswana Gazette",
+  "published": "2026-05-13",
+  "sub_indicator": "justice",
+  "why": "Q1/Q3: CMS not operational March 2026"
+ },
+ {
+  "url": "https://allafrica.com/stories/202603170027.html",
+  "title": "Botswana: Industrial Court Deploys New Strategy to Eradicate Case Backlog",
+  "publisher": "allAfrica",
+  "published": "2026-03-17",
+  "sub_indicator": "justice",
+  "why": "Q2: Industrial Court CMS soft launch planned"
+ },
+ {
+  "url": "https://www.mmegi.bw/news/judges-courts-must-embrace-ai-driven-cases-cj/news",
+  "title": "Judges, Courts must embrace AI-driven cases- CJ",
+  "publisher": "Mmegi",
+  "published": "2026-01-22",
+  "sub_indicator": "justice",
+  "why": "Q4: e-filing not yet available"
+ },
+ {
+  "url": "https://dailynews.gov.bw/news-detail/86398",
+  "title": "DailyNews: Chief Registrar on court records system",
+  "publisher": "Daily News (BOPA)",
+  "published": "2025-05-18",
+  "sub_indicator": "justice",
+  "why": "Q1-Q4: CRMS only in Gaborone, e-filing not operational"
+ },
+ {
+  "url": "https://www.botswanayouth.com/his-excellency-president-masisi-attends-official-opening-of-the-legal-year/",
+  "title": "Official Opening of the Legal Year",
+  "publisher": "Botswana Youth Magazine",
+  "published": "2023-02-08",
+  "sub_indicator": "justice",
+  "why": "Q4: e-filing pilot intended"
+ },
+ {
+  "url": "https://www.justice.gov.bw/",
+  "title": "Administration of Justice",
+  "publisher": "Administration of Justice",
+  "published": "",
+  "sub_indicator": "justice",
+  "why": "Q5: searchable court rolls online"
+ },
+ {
+  "url": "https://www.gov.bw/legal/distribution-judgements",
+  "title": "Distribution of judgements",
+  "publisher": "Government of Botswana",
+  "published": "",
+  "sub_indicator": "justice",
+  "why": "Q5: judgments by subscription, SAFLII"
+ }
+]

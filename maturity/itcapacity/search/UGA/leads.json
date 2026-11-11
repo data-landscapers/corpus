@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://pmldaily.com/news/world/2026/11/what-dr-aminah-zawedde-leaves-behind-at-the-ict-ministry.html",
+  "title": "What Dr Aminah Zawedde leaves behind at the ICT ministry",
+  "publisher": "PML Daily",
+  "published": "2026-11-10",
+  "sub_indicator": "inhouse",
+  "why": "Q2/Q3/Q4: ministry systems, records system state maintains with own officers; built by Ugandan firms"
+ },
+ {
+  "url": "https://mulengeranews.com/nwsc-to-replace-imported-financial-management-system-with-in-house-platform-in-move-to-control-cyber-attacks/",
+  "title": "NWSC to Replace Imported Financial Management System with In-House Platform",
+  "publisher": "mulengeranews.com",
+  "published": "2026-08-15",
+  "sub_indicator": "inhouse",
+  "why": "Q2/Q4: state utility staff built and run own systems"
+ },
+ {
+  "url": "https://www.independent.co.ug/u-s-backed-health-systems-transition-to-ugandan-control-in-major-digital-shift/",
+  "title": "U.S-backed health systems transition to Ugandan control",
+  "publisher": "The Independent",
+  "published": "2026-04-07",
+  "sub_indicator": "inhouse",
+  "why": "Q1/Q2: MoH takes over running of health systems from donor"
+ },
+ {
+  "url": "https://nita.go.ug/services/technical-services/nita-u-national-data-centre",
+  "title": "NITA-U National Data Centre",
+  "publisher": "NITA-U",
+  "published": "2025-06-19",
+  "sub_indicator": "inhouse",
+  "why": "Q3: NITA-U hosts and runs systems for government"
+ },
+ {
+  "url": "https://www.monitor.co.ug/uganda/news/national/police-probe-nita-over-shs700b-internet-project-4811136",
+  "title": "Police probe NITA over Shs700b internet project",
+  "publisher": "Monitor",
+  "published": "2024-11-04",
+  "sub_indicator": "inhouse",
+  "why": "Q1: reliance on vendors, agencies using private hosting"
+ },
+ {
+  "url": "https://www.monitor.co.ug/uganda/news/national/dubai-firm-takes-digital-deal-from-nita-u-s-jaws-4803822",
+  "title": "Dubai firm takes digital deal from Nita-U's jaws",
+  "publisher": "Monitor",
+  "published": "2024-10-28",
+  "sub_indicator": "inhouse",
+  "why": "Q1/Q3: government infrastructure operations handed to outside company"
+ },
+ {
+  "url": "https://odi.org/en/insights/towards-interoperability-ugandas-digital-tool-for-managing-intergovernmental-fiscal-transfers/",
+  "title": "Towards interoperability: Uganda's digital tool for managing intergovernmental fiscal transfers",
+  "publisher": "ODI",
+  "published": "2024-11-05",
+  "sub_indicator": "inhouse",
+  "why": "Q1/Q2: Budget Directorate manages OTIMS, contracts local developers"
+ },
+ {
+  "url": "https://dhis2.org/hisp-uganda-interview-2024/",
+  "title": "HISP Uganda: 10+ years of implementing sustainable information systems",
+  "publisher": "DHIS2",
+  "published": "2024-01-26",
+  "sub_indicator": "inhouse",
+  "why": "Q2: MoH teams handle routine HMIS maintenance"
+ }
+]

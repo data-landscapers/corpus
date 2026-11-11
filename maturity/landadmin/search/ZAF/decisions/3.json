@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system",
+ "fact": "Directive 6 of 2025 dated 22 October 2025 sets the first eDRS release to cover deeds of transfer and mortgage bonds, targeted for 2025/26, under a dual manual-electronic system.",
+ "title": "eDRS Operation Directive V1.0",
+ "publisher": "Deeds Registration Trading Entity, Chief Registrar of Deeds",
+ "published": "2025-10-22",
+ "date_source": "source",
+ "why_not": ""
+}

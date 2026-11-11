@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system",
+ "fact": "SIGFU, created by decree 2021-862 of 15 December 2021, manages seven land operations (reservation, pre-attribution, attribution, association, subdivision/merger, revocation, information exchange), and blocks concurrent registrations on the same IDUFCI.",
+ "title": "ADU, SIGFU, PRESFOR: the reforms transforming Ivorian land management",
+ "publisher": "Capital Foncier",
+ "published": "2026-04-10",
+ "date_source": "source",
+ "why_not": ""
+}

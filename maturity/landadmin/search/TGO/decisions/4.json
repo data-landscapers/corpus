@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "joined",
+ "fact": "In May 2025 the OTR launched a national campaign to georeference land titles issued before 2007 into a digital cadastre, at 35,000 FCFA per title, alongside the Numéro Unique Parcellaire in force since 1 August 2024.",
+ "title": "Togo : opération de mise à jour des anciens titres fonciers non géoréférencés",
+ "publisher": "Togo First",
+ "published": "2025-05-26",
+ "date_source": "source",
+ "why_not": ""
+}

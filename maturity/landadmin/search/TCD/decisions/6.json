@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system;joined",
+ "fact": "An assessment of 2024 states that land records and cadastral data exist in mixed digital and analogue form, that the e-conservation land registration system was developed in 2023, and that system maintenance and database management rely on external providers.",
+ "title": "Spatial Framework in Chad: An Assessment using parts of COFLAS and the MCC Land Records and Transaction Systems Technology Toolkit",
+ "publisher": "FIG (International Federation of Surveyors)",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

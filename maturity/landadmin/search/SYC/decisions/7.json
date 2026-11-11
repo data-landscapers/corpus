@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system;joined",
+ "fact": "Seychelles' dual land registry for titles and deeds is based on an electronic database that records boundaries, checks plans and provides cadastral information; deeds registry type is computer/fully digital (2020).",
+ "title": "Housing Finance Yearbook 2023: Seychelles",
+ "publisher": "Centre for Affordable Housing Finance in Africa",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

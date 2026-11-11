@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "justice",
+ "aspect": "public",
+ "fact": "The Cotonou Commercial Court portal lets anyone enter a case number to see the status and timeline of a case online.",
+ "title": "Tribunal de Commerce de Cotonou - Portail Officiel",
+ "publisher": "Tribunal de Commerce de Cotonou",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-date: the page states no date of its own"
+}

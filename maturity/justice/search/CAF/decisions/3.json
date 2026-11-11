@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "justice",
+ "aspect": "public",
+ "fact": "The Special Criminal Court publishes its judgments online, the latest listed being the appeals chamber judgment on victim reparations of 23 October 2023.",
+ "title": "Les décisions",
+ "publisher": "Cour Pénale Spéciale de la République Centrafricaine",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

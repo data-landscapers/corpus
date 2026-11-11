@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "inhouse",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "off-topic: no usable date in the text (only in the URL), so no dated fact can be given"
+}

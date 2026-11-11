@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://dailynews.gov.bw/news-detail/90463",
+  "title": "DailyNews: ministry migrating core ICT systems to national data centre",
+  "publisher": "Daily News (BOPA)",
+  "published": "2026-03-09",
+  "sub_indicator": "inhouse",
+  "why": "Q3: government hosting/migrating systems for ministries"
+ },
+ {
+  "url": "https://www.adm.ee/blog/case-study-botswana-1gov-platform-assessment/",
+  "title": "Case Study: Botswana 1Gov Platform Assessment",
+  "publisher": "ADM Interactive",
+  "published": "2025-12-02",
+  "sub_indicator": "inhouse",
+  "why": "Q1/Q2: local IT partners, limited skills, local capacity"
+ },
+ {
+  "url": "https://dailynews.gov.bw/news-detail/89235",
+  "title": "Centre To Accelerate Data-Driven Economy",
+  "publisher": "Daily News (BOPA)",
+  "published": "2025-11-25",
+  "sub_indicator": "inhouse",
+  "why": "Q3: state-owned data centre for government systems"
+ },
+ {
+  "url": "https://dailynews.gov.bw/news-detail/88786",
+  "title": "DailyNews: NDP 12 digitalisation chapter",
+  "publisher": "Daily News (BOPA)",
+  "published": "2025-10-27",
+  "sub_indicator": "inhouse",
+  "why": "Q1/Q4: 1Gov platform built by local developer, IT staff capacity"
+ },
+ {
+  "url": "https://dailynews.gov.bw/news-detail/83199",
+  "title": "DailyNews: President on reducing reliance on external IT providers",
+  "publisher": "Daily News (BOPA)",
+  "published": "2024-11-19",
+  "sub_indicator": "inhouse",
+  "why": "Q1: reliance on expensive external providers"
+ },
+ {
+  "url": "https://guardiansun.co.bw/news/p100m-baits-intellectual-property-infringement-lawsuit-hits-govt/news",
+  "title": "P100m BAITS intellectual property infringement lawsuit hits govt",
+  "publisher": "Guardian Sun",
+  "published": "2023-10-06",
+  "sub_indicator": "inhouse",
+  "why": "Q1: contractor ran/maintained BAITS until 2023"
+ },
+ {
+  "url": "https://www.finance.gov.bw/index.php?Itemid=321&catid=17&id=210&option=com_content&view=article",
+  "title": "System Support - Ministry of Finance",
+  "publisher": "Ministry of Finance",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "Q2: OAG staff support GABS, GPPPS, SWIMS, IFAR"
+ },
+ {
+  "url": "https://www.gov.bw/ministries/shared-digital-services",
+  "title": "Shared Digital Services",
+  "publisher": "Government of Botswana",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "Q3: department hosts and runs systems for ministries"
+ }
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://times.co.zm/judiciary-rolls-out-nationwide-electronic-case-management-system/",
+  "title": "Judiciary rolls out nationwide Electronic Case Management System",
+  "publisher": "Times of Zambia",
+  "published": "2026-10-31",
+  "sub_indicator": "justice",
+  "why": "ECMS pilot in four registries; e-filing (Q2,Q4)"
+ },
+ {
+  "url": "https://diggers.news/local/2026/11/03/judiciary-goes-digital/",
+  "title": "Judiciary goes digital",
+  "publisher": "News Diggers",
+  "published": "2026-11-03",
+  "sub_indicator": "justice",
+  "why": "eCMS training and user acceptance testing (Q2)"
+ },
+ {
+  "url": "https://diamondtvzambia.com/chief-justice-opens-training-ahead-of-digital-court-system-rollout/",
+  "title": "Chief Justice opens training ahead of digital court system rollout",
+  "publisher": "Diamond Media",
+  "published": "2026-11-02",
+  "sub_indicator": "justice",
+  "why": "ECMS rollout, e-filing and case tracking (Q2,Q4,Q5)"
+ },
+ {
+  "url": "https://www.synisys.com/news/zambia-electronic-case-management-system/",
+  "title": "Transforming Justice in Zambia with Electronic Case Management System",
+  "publisher": "Synergy International Systems",
+  "published": "2025-01-20",
+  "sub_indicator": "justice",
+  "why": "ECMS under development (Q2)"
+ },
+ {
+  "url": "https://judiciaryzambia.com/wp-content/uploads/2025/02/The-Judiciary-of-Zambia-Annual-Report2022.pdf",
+  "title": "The Judiciary of Zambia Annual Report 2022",
+  "publisher": "Judiciary of Zambia",
+  "published": "",
+  "sub_indicator": "justice",
+  "why": "CMS unfunded, paper registries; decisions uploaded to website (Q1,Q5)"
+ },
+ {
+  "url": "https://thedocs.worldbank.org/en/doc/9d642689d0920e2619208f162145222c-0350012022/original/Zambia-Judicial-Sector-PEIR-Final-Report-June-22-2022.pdf",
+  "title": "Zambia Judicial Sector Public Expenditure and Institutional Review",
+  "publisher": "World Bank",
+  "published": "2022-06",
+  "sub_indicator": "justice",
+  "why": "No case management system, manual files (Q1)"
+ },
+ {
+  "url": "https://zambialii.org/judgments/",
+  "title": "Judgments",
+  "publisher": "ZambiaLII",
+  "published": "",
+  "sub_indicator": "justice",
+  "why": "Judgments published online (Q5)"
+ },
+ {
+  "url": "https://www.biddingsource.com/tenders/7121346",
+  "title": "RFP for design and development of an ECMS for Judiciary of Zambia",
+  "publisher": "Bidding Source",
+  "published": "2024-05-30",
+  "sub_indicator": "justice",
+  "why": "ECMS procured (Q2)"
+ }
+]

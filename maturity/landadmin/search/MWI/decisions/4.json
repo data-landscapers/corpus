@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system;tax",
+ "fact": "The 12 August 2026 Land Ownership Audit briefing says the Ministry is digitising land processes via LIMS, finds records untraceable across departments, cadastral layouts dating from 2016, and no centralised database for ground rent payments.",
+ "title": "Speech by Minister of Lands Chimwemwe Chipungu on the Land Ownership Audit",
+ "publisher": "Ministry of Lands, Housing and Urban Development",
+ "published": "2026-08-12",
+ "date_source": "source",
+ "why_not": ""
+}

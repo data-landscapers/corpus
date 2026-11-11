@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "inhouse",
+ "aspect": "agency",
+ "fact": "The ASIN is the government agency that operates and secures the State's shared information systems, hosts them in public data centres and runs the national services portal and the X-Road BJ exchange platform.",
+ "title": "Departments and agencies",
+ "publisher": "Ministère de la Transformation Digitale",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-date: the page states no date of its own"
+}

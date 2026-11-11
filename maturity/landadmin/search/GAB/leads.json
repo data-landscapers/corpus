@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://techies.ga/article/cadastre-numerique-le-gabon-prepare-un-fichier-unique-des-parcelles-en-commencant-par-lestuaire",
+  "title": "Cadastre numerique: le Gabon prepare un fichier unique des parcelles",
+  "publisher": "Techies",
+  "published": "2026-11-04",
+  "sub_indicator": "landmis",
+  "why": "Q2: digital cadastre pilot planned"
+ },
+ {
+  "url": "https://www.mays-mouissi.com/2026/10/12/igitalisation-foncier-gabon-gabon-digital/",
+  "title": "Digitalisation du foncier: le Ministre du Logement echange avec Gabon Digital",
+  "publisher": "mays-mouissi.com",
+  "published": "2026-10-12",
+  "sub_indicator": "landmis",
+  "why": "Q2: SNEDAI land system under preparation"
+ },
+ {
+  "url": "https://www.wearetech.africa/en/fils-uk/news/tech/gabon-steps-up-land-registry-overhaul-with-greater-libreville-pilot",
+  "title": "Gabon Steps Up Land Registry Overhaul With Greater Libreville Pilot",
+  "publisher": "We Are Tech",
+  "published": "2026-09-18",
+  "sub_indicator": "landmis",
+  "why": "Q2/Q5: pilot planned, land taxation"
+ },
+ {
+  "url": "https://agpgabon.ga/gabon-foncier-acceleration-de-la-digitalisation-du-cadastre/",
+  "title": "Acceleration de la digitalisation du cadastre",
+  "publisher": "AGP",
+  "published": "2026-05-06",
+  "sub_indicator": "landmis",
+  "why": "Q3: Ogooue application deployed"
+ },
+ {
+  "url": "https://www.gabonreview.com/gabon-un-guichet-unique-pour-revolutionner-lacces-a-la-propriete-fonciere/",
+  "title": "Un guichet unique pour revolutionner l'acces a la propriete fonciere",
+  "publisher": "Gabonreview",
+  "published": "2026-02-27",
+  "sub_indicator": "landmis",
+  "why": "Q1/Q5: land one-stop shop, fees collected centrally"
+ },
+ {
+  "url": "https://presidence.ga/2026/02/09/le-chef-de-letat-imprime-une-acceleration-decisive-dans-la-delivrance-des-titres-fonciers/",
+  "title": "Acceleration decisive dans la delivrance des titres fonciers",
+  "publisher": "Presidence de la Republique Gabonaise",
+  "published": "2026-02-09",
+  "sub_indicator": "landmis",
+  "why": "Q3: land titles processed"
+ },
+ {
+  "url": "https://www.gabonreview.com/modernisation-fonciere-la-digitalisation-au-service-dun-titre-foncier-pour-chaque-gabonais/",
+  "title": "Modernisation fonciere: la digitalisation au service d'un titre foncier",
+  "publisher": "Gabonreview",
+  "published": "2025-12-02",
+  "sub_indicator": "landmis",
+  "why": "Q2/Q4/Q5: digital cadastre and land tax"
+ },
+ {
+  "url": "https://www.union.sonapresse.com/fr/anuttc-lancement-de-la-numerisation-de-tous-les-dossiers-fonciers",
+  "title": "ANUTTC: Lancement de la numerisation de tous les dossiers fonciers",
+  "publisher": "L'Union",
+  "published": "2024-07-09",
+  "sub_indicator": "landmis",
+  "why": "Q1/Q3: manually kept land files being digitised"
+ }
+]

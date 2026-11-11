@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "inhouse",
+ "aspect": "built;agency",
+ "fact": "The geoportal.gouv.tg platform was launched in May 2025 after Agence Togo Digital teams, including its datalab data scientists, designed and deployed it, feeding on data from some twenty ministries.",
+ "title": "Au Togo, le ministère de l'Economie numérique lance une plateforme géoportail",
+ "publisher": "CIOMAG",
+ "published": "2025-05-07",
+ "date_source": "source",
+ "why_not": ""
+}

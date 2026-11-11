@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "inhouse",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "2023-10-04",
+ "date_source": "source",
+ "why_not": "no-development: launch report that does not say who built or runs SIGFIP"
+}

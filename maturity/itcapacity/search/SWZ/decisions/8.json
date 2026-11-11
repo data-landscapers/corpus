@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "inhouse",
+ "aspect": "inhouse;agency;built",
+ "fact": "Several digital public sector platforms were designed, implemented, operated and maintained by internal IT staff of the ministry or agency, and Government Computer Services was transferred to RSTP.",
+ "title": "Digital Economy Diagnostic: Eswatini",
+ "publisher": "World Bank Group",
+ "published": "2022",
+ "date_source": "source",
+ "why_not": ""
+}

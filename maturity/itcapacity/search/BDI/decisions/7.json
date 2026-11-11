@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "inhouse",
+ "aspect": "inhouse",
+ "fact": "Three IT engineers maintain IFMIS, and government still relies heavily on the foreign provider that developed it for medium to complex changes.",
+ "title": "DE4A Burundi",
+ "publisher": "World Bank",
+ "published": "2021-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "landmis",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: restates the Doing Business 2020 indices; deeds-registry format not legible in the extract"
+}

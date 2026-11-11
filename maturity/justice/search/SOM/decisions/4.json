@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "justice",
+ "aspect": "cases;filing",
+ "fact": "IDLO's RFP of 31 August 2023 says federal courts use only a basic web-based case management system, in use only in the Benadir Regional Court, Benadir Appeal Court and the Supreme Court, and seeks a vendor to build an integrated e-case management system with e-filing and lawyer access.",
+ "title": "Request For Proposal RFP N_211_2023_SOM: Development and Delivery of Integrated Electronic Case Management System for Somalia's Justice Chain Institutions",
+ "publisher": "International Development Law Organization",
+ "published": "2023-08-31",
+ "date_source": "source",
+ "why_not": ""
+}

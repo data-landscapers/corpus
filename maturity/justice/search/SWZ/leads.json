@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.undp.org/eswatini/blog/virtual-remand-hearings-transforming-access-justice-eswatini",
+  "title": "Virtual Remand Hearings: Transforming Access to Justice in Eswatini",
+  "publisher": "UNDP Eswatini",
+  "published": "2024-09-16",
+  "why": "manual court processes; pilot e-case management",
+  "sub_indicator": "justice"
+ },
+ {
+  "url": "https://www.judiciary.org.sz/news-article?id=12",
+  "title": "Judiciary Successfully Hosts IECMS Change Management Session",
+  "publisher": "Judiciary of Eswatini",
+  "published": "2026-03-09",
+  "why": "IECMS preparation in courts",
+  "sub_indicator": "justice"
+ },
+ {
+  "url": "https://swazi24.com/46158/news/digital-eswatini-team-presents-e-justice-system-to-mps/",
+  "title": "Digital Eswatini team presents e-justice system to MPs",
+  "publisher": "Swazi24",
+  "published": "2026-05-23",
+  "why": "IECMS and eCase demonstrated; filing workflows",
+  "sub_indicator": "justice"
+ },
+ {
+  "url": "https://eswatinipositivenews.online/new-digital-court-system-to-end-case-delays-prince-simelane/",
+  "title": "New digital court system to end case delays",
+  "publisher": "Eswatini Positive News",
+  "published": "2026-05-21",
+  "why": "IECMS launched 2025, e-filing designed",
+  "sub_indicator": "justice"
+ },
+ {
+  "url": "https://www.gov.sz/index.php?catid=92&id=2519&view=article",
+  "title": "Integrated Electronic Case Management System",
+  "publisher": "Ministry of Justice and Constitutional Affairs",
+  "published": "",
+  "why": "IECMS contract and build",
+  "sub_indicator": "justice"
+ },
+ {
+  "url": "https://www.judiciary.org.sz/services",
+  "title": "Court Services",
+  "publisher": "Judiciary of Eswatini",
+  "published": "",
+  "why": "IECMS implementing; judgments on EswatiniLII; registries",
+  "sub_indicator": "justice"
+ },
+ {
+  "url": "https://eswatinilii.org/judgments/",
+  "title": "Judgments",
+  "publisher": "EswatiniLII (Judiciary of Eswatini)",
+  "published": "",
+  "why": "decisions published online",
+  "sub_indicator": "justice"
+ },
+ {
+  "url": "https://swazi24.com/22407/news/reps-attend-iecms-training/",
+  "title": "REPS attend IECMS training",
+  "publisher": "Swazi24",
+  "published": "2025-08-20",
+  "why": "IECMS in training, entering new cases",
+  "sub_indicator": "justice"
+ }
+]

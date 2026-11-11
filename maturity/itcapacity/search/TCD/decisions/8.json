@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "inhouse",
+ "aspect": "inhouse",
+ "fact": "The World Bank's 2023 diagnostic says the government does not own its systems' source code, which limits its ability to maintain or upgrade them, and that IT engineers depend on technical solution operators, leaving public services in vendor lock-in.",
+ "title": "Chad DE4A Country Diagnostic (P177120)",
+ "publisher": "The World Bank Group",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

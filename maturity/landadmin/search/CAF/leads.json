@@ -1,0 +1,50 @@
+[
+ {
+  "url": "https://www.developmentaid.org/tenders/view/1442959/car-public-sector-digital-governance-project-service-dune-firme-charge-dassistance-technique-pour-le",
+  "title": "Service d'une firme chargé d'Assistance Technique pour l'étude de faisabilité de la numérisation du livre foncier",
+  "publisher": "Ministry of Finance and Budget / World Bank PGNSP (via DevelopmentAid)",
+  "published": "2025-02-24",
+  "sub_indicator": "landmis",
+  "why": "Q2/Q5: feasibility study to digitise all land titles, link to e-Tax and cadastral valuation"
+ },
+ {
+  "url": "https://www.menpt.cf/decouvrir-le-ministere.html",
+  "title": "Découvrir le Ministère",
+  "publisher": "Ministère de l'Économie Numérique, des Postes et Télécommunications",
+  "published": "",
+  "sub_indicator": "landmis",
+  "why": "Q2: e-Foncier programme listed under sectoral dematerialisation"
+ },
+ {
+  "url": "https://www.radiondekeluka.org/66614-centrafrique-le-pnud-accorde-plus-dun-milliard-fcfa-au-gouvernement-pour-la-phase-2-de-digitalisation-de-ladministration-publique",
+  "title": "Le PNUD accorde plus d'un milliard FCFA au gouvernement pour la phase 2 de digitalisation",
+  "publisher": "Radio Ndeke Luka",
+  "published": "2024-04-08",
+  "sub_indicator": "landmis",
+  "why": "Q2/Q5: E-cadastre to collect land taxes"
+ },
+ {
+  "url": "https://oubanguimedias.com/2023/01/06/centrafrique-le-probleme-foncier-une-nouvelle-forme-de-conflit-en-gestation/",
+  "title": "Le problème foncier, une nouvelle forme de conflit en gestation ?",
+  "publisher": "Oubangui Médias",
+  "published": "2023-01-06",
+  "sub_indicator": "landmis",
+  "why": "Q1: most Bangui plots lack cadastral papers"
+ },
+ {
+  "url": "https://housingfinanceafrica.org/wp-content/uploads/2025/01/CAR.pdf",
+  "title": "CAHF Yearbook 2021, Central African Republic",
+  "publisher": "Centre for Affordable Housing Finance in Africa",
+  "published": "2021",
+  "sub_indicator": "landmis",
+  "why": "Q1: deeds registry type recorded as paper (2020)"
+ },
+ {
+  "url": "https://datel.eu/en/solutions/software-development/item/232",
+  "title": "Cadaster/ Land Register",
+  "publisher": "Datel",
+  "published": "",
+  "sub_indicator": "landmis",
+  "why": "Q2: lists a Central African Republic cadaster pilot project"
+ }
+]

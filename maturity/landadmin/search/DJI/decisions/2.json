@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system",
+ "fact": "The yearbook records Djibouti's deeds registry as 'Computer - Scanner' type (World Bank data for 2020), with the land title process lasting more than a year.",
+ "title": "Djibouti - Housing Finance Yearbook 2023",
+ "publisher": "Centre for Affordable Housing Finance in Africa (CAHF)",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

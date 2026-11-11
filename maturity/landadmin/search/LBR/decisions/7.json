@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system;joined;tax",
+ "fact": "The LLA Strategic Plan 2025-2029, submitted July 2025, sets actions to establish a functional National Land Administration System integrating the national cadastre and joint land valuation projects with the Liberia Revenue Authority for property taxation.",
+ "title": "Strategic Plan 2025 - 2029",
+ "publisher": "Liberia Land Authority",
+ "published": "2025-07",
+ "date_source": "source",
+ "why_not": ""
+}

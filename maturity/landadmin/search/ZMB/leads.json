@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.parliament.gov.zm/sites/default/files/images/publication_docs/MINISTERIAL%20STATEMENT%20-%20Ministry%20of%20Lands.pdf",
+  "title": "Ministerial statement on deployment of ZILAS",
+  "publisher": "National Assembly of Zambia",
+  "published": "2023-06-16",
+  "sub_indicator": "landmis",
+  "why": "ZILAS live 17 May 2023 with 60 services, e-filing, payments, GSB links (Q3,Q5)"
+ },
+ {
+  "url": "https://mmlp.co.zm/wp-content/uploads/2023/06/202305.pdf",
+  "title": "Memorandum to Clients - Lands and Deeds Registry 2023",
+  "publisher": "Musa Mwenye / MMLP",
+  "published": "2023-06",
+  "sub_indicator": "landmis",
+  "why": "Transfers and mortgages paused during migration to ZILAS (Q3)"
+ },
+ {
+  "url": "https://corpus.co.zm/unlocking-efficiency-the-digital-clearance-process/",
+  "title": "Unlocking Efficiency - The Digital Clearance Process",
+  "publisher": "Corpus Legal Practitioners",
+  "published": "2023-09-19",
+  "sub_indicator": "landmis",
+  "why": "Digital clearance precondition to land transactions in ZILAS (Q3)"
+ },
+ {
+  "url": "https://www.lusakatimes.com/2023/07/07/minister-of-lands-updates-on-zambia-integrated-land-administration-system/",
+  "title": "Minister Of Lands Updates On ZILAS",
+  "publisher": "Lusaka Times",
+  "published": "2023-07-07",
+  "sub_indicator": "landmis",
+  "why": "Backlog cases processed in ZILAS (Q3)"
+ },
+ {
+  "url": "https://www.szi.gov.zm/?p=3769",
+  "title": "Ministry of Lands and Natural Resources goes digital",
+  "publisher": "SMART Zambia Institute",
+  "published": "",
+  "sub_indicator": "landmis",
+  "why": "Title deeds digitally processed, ground rent via Zamportal (Q3,Q5)"
+ },
+ {
+  "url": "https://www.szi.gov.zm/?p=1271",
+  "title": "Introducing ZILAS: from paper trails to digital marvel",
+  "publisher": "SMART Zambia Institute",
+  "published": "",
+  "sub_indicator": "landmis",
+  "why": "ZILAS 59 online services (Q3)"
+ },
+ {
+  "url": "http://eprints.lse.ac.uk/126095/1/Kaputula_and_Oliveira-Cunha_Policy_brief_May_2024_1.pdf",
+  "title": "Boosting tax revenue of Zambian cities with technology",
+  "publisher": "LSE / IGC",
+  "published": "2024-08-08",
+  "sub_indicator": "landmis",
+  "why": "Councils use manual systems and hard copy maps for property tax (Q1,Q4,Q5)"
+ },
+ {
+  "url": "https://www.zra.org.zm/tax-information/",
+  "title": "Tax Information - Property Transfer Tax",
+  "publisher": "Zambia Revenue Authority",
+  "published": "",
+  "sub_indicator": "landmis",
+  "why": "PTT return online, clearance certificate required for transfer (Q5)"
+ }
+]

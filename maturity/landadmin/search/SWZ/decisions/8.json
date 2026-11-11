@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system",
+ "fact": "The Deeds Office records have been computerised since 1995 but the office does not yet have a National Land Information System.",
+ "title": "Land Governance in eSwatini",
+ "publisher": "University of Eswatini, Land Symposium (NUST)",
+ "published": "2019",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.undp.org/eritrea/news/eritrea-launches-landmark-digital-customs-system-modernizing-trade",
+  "title": "Eritrea Launches Landmark Digital Customs System, Modernizing Trade",
+  "publisher": "UNDP Eritrea",
+  "published": "2026-01-08",
+  "sub_indicator": "inhouse",
+  "why": "Customs system source code transferred; national IT staff customize and maintain it"
+ },
+ {
+  "url": "https://shabait.com/2026/11/04/integrating-skills-for-digitalized-future-to-improve-healthcare-service/",
+  "title": "Integrating Skills for Digitalized Future to improve Healthcare Service",
+  "publisher": "Eritrea Ministry of Information",
+  "published": "2026-11-04",
+  "sub_indicator": "inhouse",
+  "why": "Local developers built national medicines app"
+ },
+ {
+  "url": "https://shabait.com/2025/11/01/eri-chat-offline-ai-app/",
+  "title": "Eri-Chat: Offline AI App",
+  "publisher": "Eritrea Ministry of Information",
+  "published": "2025-11-01",
+  "sub_indicator": "inhouse",
+  "why": "Ministry of Information software developer built an app"
+ },
+ {
+  "url": "https://www.csaride.org/eritreas-new-national-animal-identification-system/",
+  "title": "Eritrea's New National Animal Identification System",
+  "publisher": "DeSIRA-CSARIDE",
+  "published": "2024-10-18",
+  "sub_indicator": "inhouse",
+  "why": "System developed by foreign partners with Ministry of Agriculture"
+ },
+ {
+  "url": "https://pfmsmartsys.com/en/news/eritrea-ifmis-project-launch",
+  "title": "Eritrea Launches Integrated Financial Management Information System Project",
+  "publisher": "PFM Smart Systems",
+  "published": "2023-11-30",
+  "sub_indicator": "inhouse",
+  "why": "IFMIS built by outside supplier, AfDB funded"
+ },
+ {
+  "url": "https://shabait.com/2021/01/16/an-agricultural-strategic-information-system-sis-in-eritrea/",
+  "title": "An Agricultural Strategic Information System (SIS) in Eritrea",
+  "publisher": "Eritrea Ministry of Information",
+  "published": "2021-01-16",
+  "sub_indicator": "inhouse",
+  "why": "MoA IT unit has own maintenance, software development, network sections"
+ },
+ {
+  "url": "https://shabait.com/2020/02/26/you-cant-be-lazy-with-it-yohannes-haile/",
+  "title": "You can't be lazy with IT - Yohannes Haile",
+  "publisher": "Eritrea Ministry of Information",
+  "published": "2020-02-26",
+  "sub_indicator": "inhouse",
+  "why": "Ministry's own sysadmin office runs datacenter and network"
+ }
+]

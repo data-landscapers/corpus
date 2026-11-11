@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system;joined",
+ "fact": "Lagos State launched an electronic GIS portal that merges archived land records with land titles and stores transaction history for each parcel in the state cadastre.",
+ "title": "Lagos revolutionises land acquisition, as Sanwo-Olu launches automated application portal",
+ "publisher": "BusinessDay",
+ "published": "2024-01-28",
+ "date_source": "source",
+ "why_not": ""
+}

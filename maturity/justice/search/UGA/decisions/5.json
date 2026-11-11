@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "justice",
+ "aspect": "filing;public",
+ "fact": "The Judicature (Electronic Filing, Service and Virtual Proceedings) Rules, 2025 require electronic filing in every court where the system is deployed and make electronic court records accessible to the public.",
+ "title": "Judicature (Electronic Filing, Service and Virtual Proceedings) Rules, 2025",
+ "publisher": "ULII",
+ "published": "2025-03-07",
+ "date_source": "source",
+ "why_not": ""
+}

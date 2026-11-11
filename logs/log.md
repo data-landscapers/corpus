@@ -12,6 +12,10 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-11 00:40 · **REBUILD** · 15m · landadmin landmis: 54 cells reassessed, 4 moved; 54 searched, 211 staged; ~75M tokens (three shared 224M) - ok
+2026-11-11 00:40 · **REBUILD** · 15m · justice justice: 44 cells reassessed, 8 moved; 54 searched, 210 staged; ~75M tokens (three shared 224M) - ok
+2026-11-11 00:40 · **REBUILD** · 15m · itcapacity inhouse: 4 cells reassessed, 1 moved; 54 searched, 198 staged; ~75M tokens (three shared 224M) - ok
+2026-11-11 00:40 · **REVIEW** · 16m · SSD: status 10 sections revised, 24 trimmed, progress 1 cells, finance 0 rows; 0 deals queued, 0 notes for OSINT - ok
 2026-11-11 00:24 · **BUILD** · 1h03m · catalogue 39,470; 976 sources, 57 units, 44 moved, 208 minted, 57 status; data centres 7 changed; maturity 177 calls, 25 moved; budgets none waiting; 3 deals judged; bulletin 60; prose gate 17 fixed; messages 121-122 - ok
 2026-11-10 03:29 · **INDEX** · 2m · research index: stopped by the low-memory reaper at 200 of 6,250; message 119 - errored
 2026-11-10 02:54 · **RENDER** · 35m · 301 documents, home, countries, catalogue 38,863, finance, datasets, maturity rendered; 181 editions pruned; R2 6,107 objects up; pushed 4758a17, deploy pending - ok

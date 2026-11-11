@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system;joined",
+ "fact": "The National Audit Office report of January 2023 says land registration and documentation is dominantly paper-based, with no national GIS and only parts of the country cadastrally mapped, while KMC runs a Rates Matrix database and GIS.",
+ "title": "Management of Land Registration and Documentation by The Ministry of Lands and Regional Government",
+ "publisher": "National Audit Office of The Gambia",
+ "published": "2023-01",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://ppda.mw/storage/documents/opentenders/Expression%20of%20Interest%20EoI%20Court%20Case%20Management%20System%202025-26.pdf",
+  "title": "Provision of Consultancy Services for the Development of a Court Case Management System for the Zomba High Court",
+  "publisher": "MACRA / Malawi Judiciary",
+  "published": "2025-08-01",
+  "sub_indicator": "justice",
+  "why": "All court records managed manually; new CMS being procured (Q1,Q2)"
+ },
+ {
+  "url": "http://judiciary.mw/sites/default/files/2024-05/2023%20Annual%20Report%20Final.pdf",
+  "title": "Malawi Judiciary 2023 Annual Report",
+  "publisher": "Malawi Judiciary",
+  "published": "2024-05",
+  "sub_indicator": "justice",
+  "why": "District CMS piloted in magistrate courts (Q2,Q3)"
+ },
+ {
+  "url": "https://www.techandjustice.bsg.ox.ac.uk/research/malawi",
+  "title": "Malawi: e-court for virtual hearings and prison-court coordination",
+  "publisher": "Oxford Institute of Technology and Justice",
+  "published": "2025-07",
+  "sub_indicator": "justice",
+  "why": "e-court linked to eight courts; Court Recording System (Q3)"
+ },
+ {
+  "url": "https://www.judiciary.mw/node/868",
+  "title": "Malawi Judiciary Unveils 2025-2030 Strategic Plan and Digitalisation Strategy",
+  "publisher": "Malawi Judiciary",
+  "published": "",
+  "sub_indicator": "justice",
+  "why": "Strategy to implement digital case management and e-filing (Q2,Q4)"
+ },
+ {
+  "url": "https://www.undp.org/malawi/press-releases/malawi-launches-groundbreaking-e-court-initiative-revolutionize-access-justice",
+  "title": "Malawi Launches Groundbreaking e-Court Initiative",
+  "publisher": "UNDP",
+  "published": "2024-04-29",
+  "sub_indicator": "justice",
+  "why": "e-Court pilot with ten courts (Q2,Q3)"
+ },
+ {
+  "url": "https://www.judiciary.mw/sites/default/files/2024-02/ICT%20AND%20DIGITILIZATION%20ACTIVITIES%20IN%20THE%20YEAR%202023.pdf",
+  "title": "ICT and Digitalization Activities in the Year 2023",
+  "publisher": "Malawi Judiciary",
+  "published": "2024-02",
+  "sub_indicator": "justice",
+  "why": "CMS pilot in ten magistrate courts (Q2,Q3)"
+ },
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2025-06/e-justice_national_conference_malawi_report_pub.pdf",
+  "title": "E-Justice national conference report",
+  "publisher": "UNDP",
+  "published": "2025-06",
+  "sub_indicator": "justice",
+  "why": "E-filing and CMS planned, not yet in place (Q2,Q4)"
+ },
+ {
+  "url": "https://malawilii.org/judgments/",
+  "title": "Judgments",
+  "publisher": "MalawiLII",
+  "published": "",
+  "sub_indicator": "justice",
+  "why": "Court judgments published online (Q5)"
+ }
+]

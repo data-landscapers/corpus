@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "joined;tax",
+ "fact": "The 2025 GIZ study states that LAIS and the RRA's local government tax system RLGTMS are fully interoperable so a land parcel links to its property TIN, and that LAIS records about 3,000 new entries daily.",
+ "title": "Land Value Capture and Affordable Housing: The Case of Rwanda",
+ "publisher": "Deutsche Gesellschaft fuer Internationale Zusammenarbeit (GIZ) GmbH",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

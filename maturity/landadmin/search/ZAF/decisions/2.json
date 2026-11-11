@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system",
+ "fact": "As at 2026 e-DRS is in progressive deployment: some Deeds Offices and functions are electronic while others remain on paper and many residential transfers run a hybrid process.",
+ "title": "Electronic Deeds Registration (e-DRS)",
+ "publisher": "MJ Kotze Inc",
+ "published": "2026-04-22",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "justice",
+ "aspect": "cases;filing",
+ "fact": "A 2025 journal article states that Algeria's administrative courts have not adopted electronic case management, that electronic filing is permitted by the 2022 procedure amendment but no portal was designated to operate it, and that remote hearings were not used there.",
+ "title": "Digital Transformation in the Algerian Administrative Justice System",
+ "publisher": "International Journal for Court Administration",
+ "published": "2025-07-18",
+ "date_source": "source",
+ "why_not": ""
+}

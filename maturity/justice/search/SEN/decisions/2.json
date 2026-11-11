@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "justice",
+ "date_source": "proxy",
+ "why_not": "",
+ "aspect": "cases;public",
+ "fact": "The Ministry of Justice officially launched the e-Justice platform on 10 September 2026 as the core system for digitising the penal, civil, commercial and social judicial chains, with traceability of cases.",
+ "title": "Deux plateformes numériques lancées pour moderniser les procédures judiciaires",
+ "publisher": "APS",
+ "published": "2026-09-10"
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "justice",
+ "aspect": "cases;filing;public",
+ "fact": "Courts in South Sudan lack a standardized case management system, record cases manually in physical docket books, do not permit electronic filing, and publish no court decisions (2025 JUPITER assessment).",
+ "title": "Supporting Access to Justice in South Sudan: A 2025 JUPITER Assessment",
+ "publisher": "World Bank",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

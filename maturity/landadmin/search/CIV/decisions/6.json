@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system;tax",
+ "fact": "Property identification and registration at the tax directorate's cadastre were done manually with maps and census data on paper before recent reforms; SIGFU digitises paper maps and its data is to be shared automatically with the tax directorate (DGI).",
+ "title": "Expanding the Property Tax Base: Innovations in Property Identification and Challenges in Côte d'Ivoire",
+ "publisher": "The Local Government Revenue Initiative",
+ "published": "2025-02-13",
+ "date_source": "source",
+ "why_not": ""
+}

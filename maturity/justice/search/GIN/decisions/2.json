@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "justice",
+ "aspect": "cases",
+ "fact": "An OGDH report reported in May 2026 says several court registries (greffes) are not digitalised, which slows the handling of cases.",
+ "title": "Justice : l'OGDH alerte sur les failles persistantes de la chaîne pénale",
+ "publisher": "Ledjely",
+ "published": "2026-05-14",
+ "date_source": "proxy",
+ "why_not": ""
+}

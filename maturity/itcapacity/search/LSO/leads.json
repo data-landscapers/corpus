@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.policyvault.africa/wp-content/uploads/2025/09/LSO60.pdf",
+  "title": "Lesotho's National Digital Transformation Strategy: Agenda 2030",
+  "publisher": "Government of Lesotho (MICSTI)",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "Q1/Q2: overreliance on external capacity, ICT capacity gaps"
+ },
+ {
+  "url": "https://www.policyvault.africa/wp-content/uploads/2025/09/LSO61.pdf",
+  "title": "National Digital Policy 2024",
+  "publisher": "Government of Lesotho (MICSTI)",
+  "published": "2024",
+  "sub_indicator": "inhouse",
+  "why": "Q3: National Digital Agency to host platforms and absorb ICT Cadre"
+ },
+ {
+  "url": "https://joget.com/lesotho-launches-national-farmers-portal-giving-every-farmer-a-place-in-a-single-digital-registry/",
+  "title": "Lesotho Launches National Farmers Portal",
+  "publisher": "Joget, Inc.",
+  "published": "2026-09-04",
+  "sub_indicator": "inhouse",
+  "why": "Q4: ministry to run and maintain portal itself"
+ },
+ {
+  "url": "https://education.dhis2.org/building-a-smarter-education-data-system-in-lesotho-with-dhis2/",
+  "title": "Building a Smarter Education Data System in Lesotho with DHIS2",
+  "publisher": "DHIS2",
+  "published": "2026-05-11",
+  "sub_indicator": "inhouse",
+  "why": "Q2: MoET IT staff trained to run LEMIS"
+ },
+ {
+  "url": "https://www.undp.org/lesotho/blog/lehokela-seven-years-making-one-national-platform",
+  "title": "Lehokela: Seven Years in the Making",
+  "publisher": "UNDP Lesotho",
+  "published": "2026-04-20",
+  "sub_indicator": "inhouse",
+  "why": "Q1/Q4: NUL builds and supports police platform"
+ },
+ {
+  "url": "https://www.gov.ls/ict/lesotho-eservices-to-undergo-evolution-as-part-of-digital-transformation-agenda/",
+  "title": "Lesotho eServices to undergo evolution",
+  "publisher": "Government of Lesotho",
+  "published": "2026-05-20",
+  "sub_indicator": "inhouse",
+  "why": "Q1: ICT DG says vendor CBS engaged for e-services"
+ },
+ {
+  "url": "https://www.lesothotenders.com/blogs/mapota-technologies-wins-lsl-356-million-contract-to-modernize-lesothos-government-data-132/",
+  "title": "Mapota Technologies Wins LSL 35.6 Million Contract",
+  "publisher": "LesothoTenders",
+  "published": "2025-11-12",
+  "sub_indicator": "inhouse",
+  "why": "Q1: contractor supplies government data hosting"
+ },
+ {
+  "url": "https://www.finance.gov.ls/PDFDocuments/TOR%20IFMIS%20UPGRADE%20PROJECT%20MANAGER-639130560784133389.pdf",
+  "title": "TOR Project Manager IFMIS upgrade Epicor Kinetic",
+  "publisher": "Ministry of Finance and Development Planning",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "Q1: vendor-led IFMIS upgrade"
+ }
+]

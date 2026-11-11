@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system;joined",
+ "fact": "At the Bissau land registry past and new land records were kept on paper with no electronic database for encumbrances, cadastral plans were on paper with no GIS, and the registry and cadastre used separate databases and different property numbers (data collected to May 2019).",
+ "title": "Doing Business 2020: Guinea-Bissau",
+ "publisher": "World Bank Group",
+ "published": "2020",
+ "date_source": "proxy",
+ "why_not": ""
+}

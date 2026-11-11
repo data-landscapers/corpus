@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.zim.gov.zw/index.php/government-documents/category/8-gvt-enteprise-architecture-model-2026?download=13%3Agoverment-of-zimbabwe-enterprise-architecture",
+  "title": "An Enterprise Architecture Modelling Exercise for the Government of Zimbabwe",
+  "publisher": "Government of Zimbabwe",
+  "published": "2024",
+  "sub_indicator": "inhouse",
+  "why": "In-house vs contracted IT work in MDAs (Q1,Q2)"
+ },
+ {
+  "url": "https://www.techzim.co.zw/2025/08/zimra-commissions-tarms-digital-tax-system/",
+  "title": "ZIMRA Commissions TaRMS: Zimbabwe's New Digital Tax System",
+  "publisher": "Techzim",
+  "published": "2025-08-19",
+  "sub_indicator": "inhouse",
+  "why": "Outside vendors replaced; agency owns system (Q1)"
+ },
+ {
+  "url": "https://www.herald.co.zw/nssa-loses-bid-to-cancel-us10-million-software-deal/",
+  "title": "NSSA loses bid to cancel US$10 million software deal",
+  "publisher": "The Herald",
+  "published": "2026-01-10",
+  "sub_indicator": "inhouse",
+  "why": "Reliance on contractor TTCS (Q1)"
+ },
+ {
+  "url": "https://www.zimra.co.zw/news/20-story/2294-tarms-innovation-heralding-modernity-tax-agent-module-is-live",
+  "title": "TaRMS innovation heralding modernity: tax agent module is live",
+  "publisher": "ZIMRA",
+  "published": "2024",
+  "sub_indicator": "inhouse",
+  "why": "System go-live by agency project team (Q4)"
+ },
+ {
+  "url": "https://communitypodiumnews.org.zw/parenting-app-launched-to-boost-child-health-and-early-development/",
+  "title": "Parenting app launched to boost child health and early development",
+  "publisher": "Community Podium News",
+  "published": "2026-03-02",
+  "sub_indicator": "inhouse",
+  "why": "App developed by Ministry of Health (Q4)"
+ },
+ {
+  "url": "https://www.zimskills.gov.zw/?p=5112",
+  "title": "Zimbabwe Launches National Skills Databases",
+  "publisher": "Ministry of Skills Audit and Development",
+  "published": "2025",
+  "sub_indicator": "inhouse",
+  "why": "Ministry technical teams built and host systems (Q4)"
+ },
+ {
+  "url": "https://www.hit.ac.zw/2026/06/19/president-mnangagwa-launches-citizen-engagement-and-scoring-platform-built-by-hits-lads-africa/",
+  "title": "President Mnangagwa Launches Citizen Engagement and Scoring Platform Built by HIT's LADS Africa",
+  "publisher": "Harare Institute of Technology",
+  "published": "2026-06-19",
+  "sub_indicator": "inhouse",
+  "why": "State-linked developer builds for government (Q3)"
+ },
+ {
+  "url": "https://www.psc.gov.zw/?page_id=3365",
+  "title": "Infrastructure Development and Management Department",
+  "publisher": "Public Service Commission",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "PSC staff run servers and network (Q2)"
+ }
+]

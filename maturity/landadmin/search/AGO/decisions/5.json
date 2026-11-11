@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "tax",
+ "fact": "The Módulo de Gestão do Imposto Predial, implemented in the Portal do Contribuinte in November 2023, lets owners register property, assess and pay property tax and tax on transfers online, with the property matrix tied to payment.",
+ "title": "Folha Tributária, Edição n.º 68",
+ "publisher": "Ministério das Finanças / AGT",
+ "published": "2024-02",
+ "date_source": "source",
+ "why_not": ""
+}

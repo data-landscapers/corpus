@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "joined",
+ "fact": "The OTR created a Numéro Unique Parcellaire from 1 August 2024, to appear in every document on a property and identify parcels nationwide.",
+ "title": "Communiqué N°021/2024/OTR/CG/CI/DCCF relatif au Numéro Unique Parcellaire (NUP)",
+ "publisher": "Office Togolais des Recettes",
+ "published": "2024-07-26",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "inhouse",
+ "aspect": "agency;inhouse",
+ "fact": "The World Bank found CNIAPGE, with 84 employees, hosts the government servers of 14 ministries but faces capacity constraints, and ministries increasingly build their own platforms in silos.",
+ "title": "Equatorial Guinea digital government assessment",
+ "publisher": "World Bank Group",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

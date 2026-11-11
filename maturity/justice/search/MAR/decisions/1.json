@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "justice",
+ "aspect": "cases;filing",
+ "fact": "For reference year 2022 Morocco reported its case management system (SGA) deployed and used at 95-100% in civil, administrative and criminal cases, with electronic filing open to lawyers and data transferred electronically into the system.",
+ "title": "Evaluation des systèmes judiciaires 2024 (données 2022) - Maroc",
+ "publisher": "CEPEJ, Conseil de l'Europe",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

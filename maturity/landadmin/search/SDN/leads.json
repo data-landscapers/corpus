@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://sudantransparency.org/wp-content/uploads/2026/10/LandandRealEstateFINAL.pdf",
+  "title": "The Impact of the War in Sudan on the Land and Real Estate Sector",
+  "publisher": "Sudan Transparency and Policy Tracker",
+  "published": "",
+  "sub_indicator": "landmis",
+  "why": "Electronic land registry piloted, suspended, paper reverted"
+ },
+ {
+  "url": "https://3ayin.com/real-estate-ownership-dispute-/",
+  "title": "كيف يستعيد السودانيون ملكية عقاراتهم بعد الحرب؟",
+  "publisher": "شبكة عاين",
+  "published": "2026-10-12",
+  "sub_indicator": "landmis",
+  "why": "Land office staff: electronic records searched by name; paper archive damaged"
+ },
+ {
+  "url": "https://www.sudanakhbar.com/1770191",
+  "title": "تدشين افتتاح مكتب تسجيلات الأراضي بجبل أولياء",
+  "publisher": "اخبار السودان (SUNA)",
+  "published": "2026-04-02",
+  "sub_indicator": "landmis",
+  "why": "Registrar General: office reopened, computers and documents lost, records revived"
+ },
+ {
+  "url": "https://www.sudanakhbar.com/1680543",
+  "title": "والي الشمالية يلتقي مسجل عام الاراضي",
+  "publisher": "اخبار السودان",
+  "published": "2025-08-11",
+  "sub_indicator": "landmis",
+  "why": "Electronic system out of order, paper manual system restored, new digital system arrangements"
+ },
+ {
+  "url": "https://www.sudanakhbar.com/1673321",
+  "title": "مسجل عام الأراضي: جهود حثيثة لإستعادة النظام العقاري في السودان",
+  "publisher": "اخبار السودان (SUNA)",
+  "published": "2025-07-24",
+  "sub_indicator": "landmis",
+  "why": "Return to paper; judiciary restoring electronic system via new digital transformation"
+ },
+ {
+  "url": "https://nabdsudan.net/?p=200390",
+  "title": "قرارات جديدة تعيد ضبط مشهد تسجيل الأراضي",
+  "publisher": "نبض السودان",
+  "published": "2025-08-30",
+  "sub_indicator": "landmis",
+  "why": "Registrar orders matching paper records with current records"
+ },
+ {
+  "url": "https://www.researchgate.net/publication/385695192_On_the_Analysis_and_Conceptual_Design_of_the_Sudan_Cadastral_System",
+  "title": "On the Analysis and Conceptual Design of the Sudan Cadastral System",
+  "publisher": "ResearchGate",
+  "published": "2024-11-10",
+  "sub_indicator": "landmis",
+  "why": "Cadastre and registry separate; land system recommended"
+ },
+ {
+  "url": "https://alsudaninews.com/?p=36465",
+  "title": "مقترح لسجل إلكتروني موحد للملكية العقارية",
+  "publisher": "صحيفة السوداني",
+  "published": "2019-07-27",
+  "sub_indicator": "landmis",
+  "why": "No unified registry; electronic registry proposed"
+ }
+]

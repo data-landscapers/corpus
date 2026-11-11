@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://dailynews.gov.bw/news-detail/89882",
+  "title": "DailyNews: Budget Speech, land administration modernisation",
+  "publisher": "Daily News (BOPA)",
+  "published": "2026-02-10",
+  "sub_indicator": "landmis",
+  "why": "Q2: four-year LIS upgrade programme"
+ },
+ {
+  "url": "https://dailynews.gov.bw/news-detail/89144",
+  "title": "DailyNews: minister on LIS process gaps",
+  "publisher": "Daily News (BOPA)",
+  "published": "2025-11-18",
+  "sub_indicator": "landmis",
+  "why": "Q1/Q3: some processes manual outside LIS"
+ },
+ {
+  "url": "https://www.mmegi.bw/business/botswana-registry-faces-backlog/news",
+  "title": "Botswana registry faces backlog",
+  "publisher": "Mmegi",
+  "published": "2025-10-15",
+  "sub_indicator": "landmis",
+  "why": "Q1/Q3: Deeds Registry substantially manual"
+ },
+ {
+  "url": "https://dailynews.gov.bw/news-detail/71338",
+  "title": "DailyNews: Secure Land Title Charleshill launch",
+  "publisher": "Daily News (BOPA)",
+  "published": "2023-02-08",
+  "sub_indicator": "landmis",
+  "why": "Q3: computerised workflows, LAPCAS"
+ },
+ {
+  "url": "https://www.grantthornton.co.bw/contentassets/fdde0febfaac4aa3bd1ac82b0ef1af66/2023-05-09-transfer-duty-amendment-act-20232.pdf",
+  "title": "Transfer Duty (Amendment) Act, 2023",
+  "publisher": "Grant Thornton Botswana",
+  "published": "2023-05-09",
+  "sub_indicator": "landmis",
+  "why": "Q5: BURS approval before Deeds registration"
+ },
+ {
+  "url": "https://dailynews.gov.bw/news-detail/67667",
+  "title": "DailyNews: Secure Land Title launch, Land Information System",
+  "publisher": "Daily News (BOPA)",
+  "published": "2022-06-20",
+  "sub_indicator": "landmis",
+  "why": "Q3: LIS multi-platform system to title printing"
+ },
+ {
+  "url": "https://dailynews.gov.bw/news-detail/49879",
+  "title": "DailyNews: Land Information System pilot",
+  "publisher": "Daily News (BOPA)",
+  "published": "2019-06-19",
+  "sub_indicator": "landmis",
+  "why": "Q2: LIS piloting"
+ },
+ {
+  "url": "https://www.gov.bw/taxonomy/term/129?page=5",
+  "title": "Land management",
+  "publisher": "Government of Botswana",
+  "published": "",
+  "sub_indicator": "landmis",
+  "why": "Q3: deeds registry services"
+ }
+]

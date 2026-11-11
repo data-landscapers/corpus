@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "tax;joined",
+ "fact": "The draft National Land Policy of February 2025 says the existing Deed Registration System is cloud-hosted and linked to the tax payment system but lacks boundary measurements, cadastral maps and valuation records.",
+ "title": "National Land Policy (draft version)",
+ "publisher": "Ministry of Lands, Regional Government and Religious Affairs",
+ "published": "2025-02",
+ "date_source": "source",
+ "why_not": ""
+}

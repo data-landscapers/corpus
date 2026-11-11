@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system;joined",
+ "fact": "In March 2023 the LLA, with Lantmateriet, was scanning Monrovia's hand-drawn atlas for a digital cadastre and re-establishing links between the Open Title deed database records and scanned deed images at the LLA.",
+ "title": "Lantmateriet digitizes Monrovia's hand-drawn maps for the future",
+ "publisher": "GIM International",
+ "published": "2023-03-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

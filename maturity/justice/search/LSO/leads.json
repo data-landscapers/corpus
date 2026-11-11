@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://sundayexpress.co.ls/?p=36196",
+  "title": "Judiciary, DCEO plagued by corruption",
+  "publisher": "Sunday Express",
+  "published": "2026-07-05",
+  "sub_indicator": "justice",
+  "why": "Q1: files go missing, no electronic records"
+ },
+ {
+  "url": "https://www.lena.gov.ls/national-dialogue-marks-a-new-chapter-for-lesotho-sakoane/",
+  "title": "National dialogue marks a new chapter for Lesotho - Sakoane",
+  "publisher": "Lesotho News Agency",
+  "published": "2026-07-03",
+  "sub_indicator": "justice",
+  "why": "Q4: judiciary implementing e-filing"
+ },
+ {
+  "url": "https://unevaluation.org/member_publications/end-project-evaluation-support-implementation-justice-sector-reforms-project",
+  "title": "End of project evaluation, Justice Sector Reforms Phase II",
+  "publisher": "UNDP",
+  "published": "2023",
+  "sub_indicator": "justice",
+  "why": "Q2: recommends procuring a CMS"
+ },
+ {
+  "url": "https://publiceyenews.com/2025/08/19/case-management-a-conditio-sine-qua-non-for-the-effective-and-timely-delivery-of-justice-in-lesotho/",
+  "title": "Case management: a conditio sine qua non",
+  "publisher": "Public Eye",
+  "published": "2025-08-19",
+  "sub_indicator": "justice",
+  "why": "Q3/Q5: case management status"
+ },
+ {
+  "url": "https://turflawjournal.org/index.php/tlj/article/download/69/47",
+  "title": "The Systematic Failure Surrounding Records of Proceedings in the Lesotho Court of Appeal",
+  "publisher": "Turf Law Journal",
+  "published": "2025",
+  "sub_indicator": "justice",
+  "why": "Q1: manual records, outdated technology"
+ },
+ {
+  "url": "https://lesotholii.org/judgments/",
+  "title": "Judgments - LesLII",
+  "publisher": "LesLII",
+  "published": "",
+  "sub_indicator": "justice",
+  "why": "Q5: judgments published online"
+ },
+ {
+  "url": "https://lestimes.com/?p=83534",
+  "title": "Mosito urges technology use in Lesotho's courts",
+  "publisher": "Lesotho Times",
+  "published": "2024-04-10",
+  "sub_indicator": "justice",
+  "why": "Q4: remote hearing, digital infrastructure"
+ },
+ {
+  "url": "https://www.undp.org/lesotho/news/support-implementation-justice-sector-reforms-project-continues-project-board-and-project-implementation-committee-meeting",
+  "title": "Justice Sector Reforms Project continues",
+  "publisher": "UNDP Lesotho",
+  "published": "2022-02-04",
+  "sub_indicator": "justice",
+  "why": "Q2: CMS development under way"
+ }
+]

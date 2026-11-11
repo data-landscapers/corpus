@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://rcv.co.zm/mining-cadastre-licensing-system-restored/",
+  "title": "Mining Cadastre Licensing System Restored",
+  "publisher": "Radio Christian Voice",
+  "published": "2025-06-10",
+  "sub_indicator": "inhouse",
+  "why": "Ministry relies on outside South African developer; system shut down when contract expired (Q1)"
+ },
+ {
+  "url": "https://www.parliament.gov.zm/sites/default/files/documents/committee_reports/Report%20of%20the%20Committee%20on%20Cabinet%20Affairs%20on%20the%20Review%20of%20the%20Operations%20and%20Managementof%20%20SMART%20Zambia%20for%20the%20Third%20Session%20of%20the%20Thirteenth%20National%20Assembly.pdf",
+  "title": "Review of the Operations and Management of SMART Zambia",
+  "publisher": "National Assembly of Zambia",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "Procured off-the-shelf systems; SZI manages platforms for government (Q1,Q3)"
+ },
+ {
+  "url": "https://techafricanews.com/2025/06/23/zambia-advances-public-sector-digitisation-with-smart-office-system-rollout/",
+  "title": "Zambia Advances Public Sector Digitisation with SMART Office System Rollout",
+  "publisher": "TechAfrica News",
+  "published": "2025-06-23",
+  "sub_indicator": "inhouse",
+  "why": "SMART Zambia developed SMART Office system in-house (Q4)"
+ },
+ {
+  "url": "https://www.parliament.gov.zm/sites/default/files/images/publication_docs/MINISTERIAL%20STATEMENT%20-%20Ministry%20of%20Lands.pdf",
+  "title": "Ministerial statement on deployment of ZILAS",
+  "publisher": "National Assembly of Zambia",
+  "published": "2023-06-16",
+  "sub_indicator": "inhouse",
+  "why": "Ministry relied on vendor dotGov, maintenance contract lapsed (Q1)"
+ },
+ {
+  "url": "https://diggers.news/local/2024/02/21/current-law-doesnt-support-digitisation-smart-zambia-tells-pac/",
+  "title": "Current law doesn't support digitisation, Smart Zambia tells PAC",
+  "publisher": "News Diggers",
+  "published": "2024-02-21",
+  "sub_indicator": "inhouse",
+  "why": "Government contracted DotGov US for GSB and payment gateway (Q1)"
+ },
+ {
+  "url": "https://www.ihmafrica.org/?p=3407",
+  "title": "When the Funding Stops, Will the Health Systems Survive?",
+  "publisher": "IHM Southern Africa",
+  "published": "2026-04-14",
+  "sub_indicator": "inhouse",
+  "why": "MoH staff being trained to run systems built by external partner (Q1,Q2)"
+ },
+ {
+  "url": "https://doi.org/10.53974/unza.zajlis.7.2.121",
+  "title": "An Assessment of Government Efforts Towards the Implementation of an Integrated Electronic Records Management System in the Zambian Public Service",
+  "publisher": "Zambia Journal of Library and Information Science",
+  "published": "2023-12-27",
+  "sub_indicator": "inhouse",
+  "why": "SZI developing in-house IERMS; data centres run by Infratel (Q3,Q4)"
+ },
+ {
+  "url": "https://johnsnowhealth.com/zambias-ministry-of-health-taking-charge-of-technical-support-and-oversight-of-ehealth-systems-the-sustainability-of-the-electronic-logistics-management-information-system-elmis/",
+  "title": "Zambia's Ministry of Health taking charge of technical support of eLMIS",
+  "publisher": "John Snow Health Zambia",
+  "published": "2023-08-01",
+  "sub_indicator": "inhouse",
+  "why": "MOH staff provide technical support for eLMIS (Q2)"
+ }
+]

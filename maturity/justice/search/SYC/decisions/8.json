@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "justice",
+ "aspect": "cases;filing;public",
+ "fact": "The Judiciary records all cases in its CCASS case management system, which is in service across courts and tribunals, and plans public access and e-filing under Vision 2025.",
+ "title": "STRATEGIC PLAN",
+ "publisher": "The Judiciary of Seychelles",
+ "published": "2021",
+ "date_source": "proxy",
+ "why_not": ""
+}

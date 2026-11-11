@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "joined",
+ "fact": "Executive decree 26-15 of 7 January 2026, published in Journal officiel no. 6, creates an electronic land book carrying all the property file's annotations plus the property's graphic data.",
+ "title": "Algérie : publication d'un décret officialisant la mise en place du livret foncier électronique",
+ "publisher": "Algérie Eco",
+ "published": "2026-01-27",
+ "date_source": "source",
+ "why_not": ""
+}

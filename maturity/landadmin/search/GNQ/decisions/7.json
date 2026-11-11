@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system",
+ "fact": "The 2024 Africa Housing Finance Yearbook states that Equatorial Guinea's electronic databases for recording land plot maps are not up to date and poorly stocked, only interested parties and intermediaries can view them, and not all properties are registered or mapped.",
+ "title": "Equatorial Guinea (Africa Housing Finance Yearbook 2024)",
+ "publisher": "Centre for Affordable Housing Finance in Africa",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

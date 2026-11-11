@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "inhouse",
+ "fact": "The CAG's March 2025 audit found 146 outsourced systems cost on average TZS 1.3 billion against TZS 459.4 million for in-house systems, and that Gov-Net at e-GA was outsourced.",
+ "title": "Performance Audit Report on Cost-Effectiveness of Internally Developed Government ICT Systems",
+ "publisher": "National Audit Office of Tanzania",
+ "published": "2025-03",
+ "sub_indicator": "inhouse",
+ "date_source": "source",
+ "why_not": ""
+}

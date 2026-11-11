@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://itweb.africa/article/malawi-reviews-digital-land-workflows/rW1xLv5ngAp7Rk6m",
+  "title": "Malawi reviews digital land workflows",
+  "publisher": "ITWeb Africa",
+  "published": "2026-08-04",
+  "sub_indicator": "landmis",
+  "why": "LIMS launched Feb 2024; payments of ground rent online; some transactions still manual (Q3,Q5)"
+ },
+ {
+  "url": "https://mbc.mw/all-set-for-launch-of-lims-mbrs/",
+  "title": "All set for launch of LIMS, MBRS",
+  "publisher": "Malawi Broadcasting Corporation",
+  "published": "2024-02-29",
+  "sub_indicator": "landmis",
+  "why": "LIMS launch (Q3)"
+ },
+ {
+  "url": "https://www.247malawi.com/malawi-takes-a-leap-forward-in-land-management-with-digital-platform/",
+  "title": "Malawi takes a leap forward in land management with digital platform",
+  "publisher": "247Malawi",
+  "published": "2025-06-16",
+  "sub_indicator": "landmis",
+  "why": "LIMS rollout to Blantyre (Q2,Q3)"
+ },
+ {
+  "url": "https://malawicables.com/speech-by-minister-of-lands-chimwemwe-chipungu-on-the-land-ownership-audit/",
+  "title": "Speech by Minister of Lands on the Land Ownership Audit",
+  "publisher": "Malawi Cables Online",
+  "published": "2026-08-12",
+  "sub_indicator": "landmis",
+  "why": "Audit: paper files, outdated cadastral layouts, no ground rent database (Q1,Q4,Q5)"
+ },
+ {
+  "url": "https://lims.lands.gov.mw/site/CustomHtml.aspx?PageID=91eaeb81-0f99-4ff7-8590-f845e2d65404",
+  "title": "Malawi LIMS Help & FAQ: Payments",
+  "publisher": "Ministry of Lands",
+  "published": "",
+  "sub_indicator": "landmis",
+  "why": "Payments of leases and ground rent via LIMS (Q5)"
+ },
+ {
+  "url": "https://lims.lands.gov.mw/site/CustomHtml.aspx?PageID=04b710dc-606b-4bdf-aa09-e7a5e94a0c09",
+  "title": "Malawi LIMS Help & FAQ: Secondary Transactions",
+  "publisher": "Ministry of Lands",
+  "published": "",
+  "sub_indicator": "landmis",
+  "why": "Lease transfers etc. handled in LIMS (Q3)"
+ },
+ {
+  "url": "http://lcc.mw/wp-content/uploads/2024/10/Lilongwe__City_Council_Policy_Statement_-_Sept_2024.pdf",
+  "title": "Policy Statement",
+  "publisher": "Lilongwe City Council",
+  "published": "2024-10",
+  "sub_indicator": "landmis",
+  "why": "Rates system not integrated with land systems (Q4,Q5)"
+ },
+ {
+  "url": "https://www.un.org/globalgeospatial/sites/default/files/2026-04/malawi.pdf",
+  "title": "Malawi (UN-IGIF workshop)",
+  "publisher": "Ministry of Lands, Department of Surveys",
+  "published": "2026-04",
+  "sub_indicator": "landmis",
+  "why": "Survey data disseminated via LIMS portal, hardcopy backups (Q3,Q4)"
+ }
+]

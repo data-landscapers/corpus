@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system",
+ "fact": "Doing Business 2020 reports that land records of the Eswatini Deeds Registry are kept in computerised or scanned form and that a functional electronic database for checking encumbrances exists; transfer duty is paid to the Treasury separately.",
+ "title": "Economy Profile Eswatini, Doing Business 2020",
+ "publisher": "World Bank Group",
+ "published": "2020",
+ "date_source": "source",
+ "why_not": ""
+}

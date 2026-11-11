@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system",
+ "fact": "The Ministry's Lands Management department states that most land data is stored on Excel spreadsheets and manual files, with A2 beneficiary data mostly on an Access database, under its LIMS section.",
+ "title": "LANDS MANAGEMENT",
+ "publisher": "Ministry of Lands, Agriculture, Fisheries, Water and Rural Development",
+ "published": "2023-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

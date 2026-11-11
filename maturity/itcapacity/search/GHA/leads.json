@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://ghanaiantimes.com.gh/health-minister-introduces-ghims-to-replace-lhims-and-protect-national-health-data/",
+  "title": "Health Minister introduces GHIMS to replace LHIMS and protect national health data",
+  "publisher": "Ghanaian Times",
+  "published": "2025-10-29",
+  "sub_indicator": "inhouse",
+  "why": "System built by government after contractor dispute (Q3-5)"
+ },
+ {
+  "url": "https://gra.gov.gh/news/portfolio/gra-launches-itas-to-usher-in-a-fully-digital-tax-era/",
+  "title": "GRA Launches ITAS to Usher in a Fully Digital Tax Era",
+  "publisher": "Ghana Revenue Authority",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "Pilot launch of tax system (Q4)"
+ },
+ {
+  "url": "https://www.graphic.com.gh/news/general-news/ghana-news-communication-ministry-saddled-with-debt-strangulating-contracts-minister.html",
+  "title": "Communication Ministry saddled with debt, strangulating contracts- Minister",
+  "publisher": "Graphic Online",
+  "published": "2025-04-10",
+  "sub_indicator": "inhouse",
+  "why": "Reliance on external contractors (Q1)"
+ },
+ {
+  "url": "https://audit.gov.gh/files/audit_reports/Information_System_Audit_for_the_Auditor-General_on_Computerised_Financial_and_Electronic_Systems_for_the_period_ended_31_December_2023.pdf",
+  "title": "Information System Audit of the Auditor-General on computerised financial and electronic systems, period ended 31 December 2023",
+  "publisher": "Ghana Audit Service",
+  "published": "2024",
+  "sub_indicator": "inhouse",
+  "why": "Entities depend on vendors to run systems (Q1)"
+ },
+ {
+  "url": "https://www.newsghana.com.gh/nitas-misplaced-priorities-is-being-handled/",
+  "title": "NITA's misplaced priorities is being handled",
+  "publisher": "NewsGhana",
+  "published": "2023-07-06",
+  "sub_indicator": "inhouse",
+  "why": "NITA operations outsourced to private partner (Q1,Q3)"
+ },
+ {
+  "url": "https://nita.gov.gh/dpii/",
+  "title": "Digital Public Infrastructure Initiatives",
+  "publisher": "National Information Technology Agency",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "NITA hosts shared systems for government (Q3)"
+ },
+ {
+  "url": "https://nita.gov.gh/projects/government-smartworkplace/",
+  "title": "Government Smartworkplace",
+  "publisher": "National Information Technology Agency",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "Centrally hosted and managed platform for MDAs (Q3)"
+ },
+ {
+  "url": "https://mofep.gov.gh/divisions/pfms/overview",
+  "title": "Public Finance Management Systems",
+  "publisher": "Ministry of Finance",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "In-house PFM systems expertise (Q2,Q5)"
+ }
+]

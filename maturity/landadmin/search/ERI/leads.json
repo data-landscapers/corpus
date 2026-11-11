@@ -1,0 +1,34 @@
+[
+ {
+  "url": "https://fig.net/resources/proceedings/fig_proceedings/fig2023/papers/ts09g/TS09G_weldegiorgis_11953.pdf",
+  "title": "Recent Developments of Cadastral Activities in Eritrea",
+  "publisher": "FIG Working Week 2023",
+  "published": "2023",
+  "sub_indicator": "landmis",
+  "why": "Manual registration moving to digital except spatial; lacks integration"
+ },
+ {
+  "url": "https://www.fig.net/resources/proceedings/fig_proceedings/fig2023/ppt/ts09g/TS09G_weldegiorgis_11953_ppt.pdf",
+  "title": "Recent Developments of Cadastral Activities in Eritrea (slides)",
+  "publisher": "FIG Working Week 2023",
+  "published": "2023",
+  "sub_indicator": "landmis",
+  "why": "Digitising old cadastral records study"
+ },
+ {
+  "url": "https://www.fig.net/resources/proceedings/fig_proceedings/fig2019/papers/ts07g/TS07G_weldegiorgis_9753.pdf",
+  "title": "Enforcement of Mandatory Cadastral Registration in Eritrea",
+  "publisher": "FIG Working Week 2019",
+  "published": "2019",
+  "sub_indicator": "landmis",
+  "why": "Textual and spatial data not integrated"
+ },
+ {
+  "url": "https://static.geoconnexion.com/downloads/import-int_v17i08-020-021-FIG.pdf",
+  "title": "Habtemicael Weldegeorgis ... Eritrea's Cadastral Office",
+  "publisher": "GeoConnexion",
+  "published": "2018",
+  "sub_indicator": "landmis",
+  "why": "Computerised database, spatial not integrated"
+ }
+]

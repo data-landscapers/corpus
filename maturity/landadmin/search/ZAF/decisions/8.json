@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "tax",
+ "fact": "Transfer duty declarations are submitted and paid through SARS eFiling, and the electronic receipt is accepted by the Registrar of Deeds before registration (revision 21, effective 20 February 2026).",
+ "title": "TD-AE-02-G02 Guide for Transfer Duty via eFiling",
+ "publisher": "South African Revenue Service",
+ "published": "2026-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,42 @@
+[
+ {
+  "url": "https://theabcjourney.org/caam",
+  "title": "Case Access And Management (CAAM)",
+  "publisher": "The ABC Journey",
+  "published": "",
+  "sub_indicator": "justice",
+  "why": "Platform described as Supreme Court of Eritrea electronic filing and public case search"
+ },
+ {
+  "url": "https://theabcjourney.org/judiciary",
+  "title": "Judiciary",
+  "publisher": "The ABC Journey",
+  "published": "",
+  "sub_indicator": "justice",
+  "why": "Describes CAAM e-filing and public access"
+ },
+ {
+  "url": "https://theabcjourney.org/pdf81",
+  "title": "Secure CAAM standards ... Court Rules",
+  "publisher": "The ABC Journey",
+  "published": "",
+  "sub_indicator": "justice",
+  "why": "Rules on electronic filing, publication of judgments"
+ },
+ {
+  "url": "https://www.nyulawglobal.org/globalex/eritrea1.html",
+  "title": "Introduction to Eritrean Legal System and Research",
+  "publisher": "GlobaLex (NYU)",
+  "published": "2023-07",
+  "sub_indicator": "justice",
+  "why": "No case reporter; judgments need official permission"
+ },
+ {
+  "url": "https://mojeritrea.net/",
+  "title": "Eritrea - Ministry of Justice",
+  "publisher": "Ministry of Justice Eritrea",
+  "published": "",
+  "sub_indicator": "justice",
+  "why": "Forms downloaded and submitted; no online filing stated"
+ }
+]

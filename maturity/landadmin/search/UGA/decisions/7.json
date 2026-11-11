@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system;joined",
+ "fact": "IGAD reported a January-February 2024 study tour noting that Uganda’s land system streamlines access to land records with the National ID and URA taxation.",
+ "title": "IGAD Land Governance Twinning Exercise between Uganda and Ethiopia",
+ "publisher": "IGAD",
+ "published": "2024-02-15",
+ "date_source": "source",
+ "why_not": ""
+}

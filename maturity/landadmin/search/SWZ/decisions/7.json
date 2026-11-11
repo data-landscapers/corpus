@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system",
+ "fact": "The EU-funded SLAM project piloted a computer-based land records registration system for customary landholdings in four pilot areas, with a geodatabase held centrally by the Surveyor General.",
+ "title": "Creating a Neo-Customary Land Administration System for Sustainable Land Management",
+ "publisher": "FIG Working Week 2020",
+ "published": "2020",
+ "date_source": "source",
+ "why_not": ""
+}

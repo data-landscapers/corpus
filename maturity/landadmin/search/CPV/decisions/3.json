@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system;joined",
+ "fact": "The law published on 6 June 2025 creating the IPI and ITI codes states that the property tax matrices are profoundly outdated and that no property valuation system existed, and provides for cadastre-based valuation of rustic properties, from 1 January 2026.",
+ "title": "Boletim Oficial n.º 46, I Série de 06-06-2025",
+ "publisher": "Boletim Oficial da República de Cabo Verde",
+ "published": "2025-06-06",
+ "date_source": "source",
+ "why_not": ""
+}

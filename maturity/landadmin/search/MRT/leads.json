@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.infoplus.mr/fr/node/4223",
+  "title": "Foncier : le gouvernement crée un référentiel numérique national des données cadastrales",
+  "publisher": "Info Plus",
+  "published": "2026-08-28",
+  "sub_indicator": "landmis",
+  "why": "ReCAD decree: national digital cadastral data reference and unique parcel number (Q4)"
+ },
+ {
+  "url": "https://fr.saharamedias.net/ce-quil-faut-savoir-a-propos-du-recensement-foncier-lance-par-le-ministere-concerne/",
+  "title": "Ce qu'il faut savoir à propos du recensement foncier lancé par le ministère concerné",
+  "publisher": "Saharamedias FR",
+  "published": "2026-05-13",
+  "sub_indicator": "landmis",
+  "why": "Unified database linking parcels, plans, owners, history; census of Nouakchott (Q2/Q4)"
+ },
+ {
+  "url": "https://ami.mr/fr/archives/294506",
+  "title": "Organisation d'un atelier d'échange d'expériences sur les questions foncières",
+  "publisher": "Agence mauritanienne d'information",
+  "published": "2026-05-04",
+  "sub_indicator": "landmis",
+  "why": "Aakar central land data warehouse linking registry, documentation, registration systems (Q2/Q4)"
+ },
+ {
+  "url": "https://www.ami.mr/archives/250018",
+  "title": "وزارة العقارات تدشن رقمنة القطاع العقاري لتعزيز الشفافية وتحسين الخدمات",
+  "publisher": "الوكالة الموريتانية للأنباء",
+  "published": "2026-01-23",
+  "sub_indicator": "landmis",
+  "why": "LEEGOU system rolled out to 54 moughataas by 2027; AQAAR national land database (Q2/Q3)"
+ },
+ {
+  "url": "https://mauritanie-demain.org/index.php/2025/09/05/mauritanie-vers-la-digitalisation-complete-des-transactions-foncieres-dici-2028/",
+  "title": "Mauritanie : vers la digitalisation complète des transactions foncières d'ici 2028",
+  "publisher": "Mauritanie Demain",
+  "published": "2025-09-05",
+  "sub_indicator": "landmis",
+  "why": "Decree requiring electronic filing and processing of all land transactions by 2027/2028 (Q2/Q3)"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099110824061522855/pdf/P500687-27dfa6ec-9081-4e5a-ac8b-5f3fec38494e.pdf",
+  "title": "Etude sur les outils de renforcement des recettes de la DGDPE en Mauritanie",
+  "publisher": "World Bank Group",
+  "published": "2024-05",
+  "sub_indicator": "landmis",
+  "why": "Land fees and registration duty collected at DGDPE; Leegoud platform; digital cadastre unfinished (Q3/Q5)"
+ },
+ {
+  "url": "https://fr.madar.mr/actualites/mauritanie-procedures-pour-faciliter-lenregistrement-des-contrats-a-travers-une-plateforme-numerique",
+  "title": "Mauritanie : Procédures pour faciliter l'enregistrement des contrats à travers une plateforme numérique",
+  "publisher": "Madar",
+  "published": "2024-04-26",
+  "sub_indicator": "landmis",
+  "why": "Domaines registers contracts and issues copies online after electronic payment of fees via Lagoud (Q3/Q5)"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099062923144010873/pdf/BOSIB0ee7c3fec0380bb210f4263f33cda9.pdf",
+  "title": "Implementation Completion and Results Report (Mauritania Public Sector Governance Project)",
+  "publisher": "World Bank Group",
+  "published": "2023",
+  "sub_indicator": "landmis",
+  "why": "207,763 parcels in land management information systems of Domaines, ADU and ISKAN; TEHLIL system (Q2/Q3)"
+ }
+]

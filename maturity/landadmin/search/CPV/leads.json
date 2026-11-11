@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.gov.cv/compra-e-venda-imovel",
+  "title": "Compra e Venda de Imóvel - Portal Único",
+  "publisher": "Governo de Cabo Verde (gov.cv)",
+  "published": "",
+  "sub_indicator": "landmis",
+  "why": "Property sale, mortgage fully digital with DUC payment and conservator confirmation"
+ },
+ {
+  "url": "https://ojs.unifor.br/tec/article/view/15370",
+  "title": "Sistema de gestão do cadastro predial em Cabo Verde",
+  "publisher": "Revista Tecnologia (Unifor)",
+  "published": "2025-11-24",
+  "sub_indicator": "landmis",
+  "why": "LMITS in four islands; paper-based registry elsewhere"
+ },
+ {
+  "url": "https://boe.incv.cv/Bulletins/Download/23602",
+  "title": "Boletim Oficial n.º 46, I Série de 06-06-2025 (Códigos do IPI e ITI)",
+  "publisher": "Boletim Oficial",
+  "published": "2025-06-06",
+  "sub_indicator": "landmis",
+  "why": "New property tax codes; matrices outdated; cadastre-based valuation"
+ },
+ {
+  "url": "https://www.mcc.gov/resources/doc/evalbrief-111022-cvp-ii-land-investment/",
+  "title": "Investing in Land Management Systems in Cabo Verde",
+  "publisher": "Millennium Challenge Corporation",
+  "published": "",
+  "sub_indicator": "landmis",
+  "why": "LMITS used to process most land transactions"
+ },
+ {
+  "url": "https://www.mf.gov.cv/documents/20126/0/TDR+TA+LMITS_ingfinal.pdf/03dfd947-4990-a9f8-5927-71919b6352bd",
+  "title": "Terms of Reference TA LMITS (SIGTP)",
+  "publisher": "INGT / Ministério das Finanças",
+  "published": "",
+  "sub_indicator": "landmis",
+  "why": "SIGTP used on four islands; limitations"
+ },
+ {
+  "url": "https://peo.gov.cv/sobre-nos",
+  "title": "Sobre Nos - Plataforma Empresa Online",
+  "publisher": "PEO",
+  "published": "",
+  "sub_indicator": "landmis",
+  "why": "Property transfer via PEO integrated with registry, municipality and cadastre"
+ },
+ {
+  "url": "https://imij.gov.cv/projetos/cms-projecto-4",
+  "title": "Sistema de Informação do Registo Predial (SIRP)",
+  "publisher": "IMIJ",
+  "published": "",
+  "sub_indicator": "landmis",
+  "why": "SIRP operational national"
+ },
+ {
+  "url": "https://www.mf.gov.cv/documents/20126/0/TdR_Cadastro+-+Condutor_f+%281%29.pdf/da89a3d4-1551-8e20-29b5-d28fccfc492d?t=1709647266173",
+  "title": "TdR Cadastro - Condutor",
+  "publisher": "INGT / Ministério das Finanças",
+  "published": "2024",
+  "sub_indicator": "landmis",
+  "why": "Hybrid system: cadastred areas on CIP, others on paper certificates"
+ }
+]

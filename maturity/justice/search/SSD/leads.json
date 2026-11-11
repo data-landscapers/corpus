@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.radiotamazuj.org/en/news/article/unmiss-donates-laptops-court-materials-to-boost-south-sudan-judiciary",
+  "title": "UNMISS donates laptops, court materials to boost South Sudan judiciary",
+  "publisher": "Radio Tamazuj",
+  "published": "2026-06-19",
+  "sub_indicator": "justice",
+  "why": "Q1/Q2: paper registry books; 10 laptops as first step to digitalise"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/099050725104510012/pdf/P500649-976616be-8b4b-4a3b-9ca4-c1722c212e13.pdf",
+  "title": "South Sudan JUPITER assessment (judiciary)",
+  "publisher": "World Bank",
+  "published": "2025",
+  "sub_indicator": "justice",
+  "why": "Q1-Q5: no CMIS, no e-filing, no public decisions"
+ },
+ {
+  "url": "https://eyeradio.org/chief-justice-outlines-reform-agenda-to-strengthen-judiciary/",
+  "title": "Chief Justice outlines reform agenda to strengthen Judiciary",
+  "publisher": "Eye Radio",
+  "published": "2025-06-04",
+  "sub_indicator": "justice",
+  "why": "Q2: plans for digitisation and automation"
+ },
+ {
+  "url": "https://unmiss.unmissions.org/en/news/first-ever-full-virtual-court-takes-place-south-sudan-support-unmiss",
+  "title": "First ever full virtual court takes place in South Sudan with support from UNMISS",
+  "publisher": "UNMISS",
+  "published": "",
+  "sub_indicator": "justice",
+  "why": "Q3/Q4: virtual trial in Malakal"
+ },
+ {
+  "url": "https://eyeradio.org/legal-officer-advocates-for-digital-case-management-of-gbv-files/",
+  "title": "Legal officer advocates for digital case management of GBV files",
+  "publisher": "Eye Radio",
+  "published": "2023-12-12",
+  "sub_indicator": "justice",
+  "why": "Q1: files lost, no digital case management"
+ },
+ {
+  "url": "https://www.suddinstitute.org/assets/Publications/68dccc90d2eb2_TakingStockOfJudicialIndependenceChallengesInSouth_Full.pdf",
+  "title": "Taking Stock of Judicial Independence Challenges in South Sudan",
+  "publisher": "Sudd Institute",
+  "published": "2025-09-30",
+  "sub_indicator": "justice",
+  "why": "Q1: judiciary lacks computers and equipment"
+ },
+ {
+  "url": "https://rolhr.undp.org/annualreport/2021/africa/south-sudan.html",
+  "title": "South Sudan (UNDP Rule of Law annual report 2021)",
+  "publisher": "UNDP",
+  "published": "2021",
+  "sub_indicator": "justice",
+  "why": "Q3: unified case monitoring system in Juba"
+ }
+]

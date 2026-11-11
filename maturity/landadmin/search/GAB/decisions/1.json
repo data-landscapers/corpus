@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system;joined",
+ "fact": "Gabon's housing ministry is preparing a single digital parcel file with a pilot phase planned in Estuaire; the specification is unfinished, the Ogooué application is deployed and online file tracking is being prepared.",
+ "title": "Cadastre numérique : le Gabon prépare un fichier unique des parcelles, en commençant par l'Estuaire",
+ "publisher": "Techies",
+ "published": "2026-11-04",
+ "date_source": "source",
+ "why_not": ""
+}

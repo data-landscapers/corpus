@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.cpsrca.cf/actualites/590/la-cour-penale-speciale-accelere-la-modernisation-de-sa-gestion-documentaire",
+  "title": "La Cour pénale spéciale accélère la modernisation de sa gestion documentaire",
+  "publisher": "Cour Pénale Spéciale",
+  "published": "2026-09-30",
+  "sub_indicator": "justice",
+  "why": "Q2/Q3: electronic document management chain handed to the SCC"
+ },
+ {
+  "url": "https://www.amnesty.org/en/wp-content/uploads/2026/10/AFR1915332026ENGLISH.pdf",
+  "title": "Amnesty International report on accountability for crimes in CAR",
+  "publisher": "Amnesty International",
+  "published": "2026-10",
+  "sub_indicator": "justice",
+  "why": "Q5: judicial decisions rarely published"
+ },
+ {
+  "url": "https://www.cpsrca.cf/documentations/les-decisions",
+  "title": "Les décisions",
+  "publisher": "Cour Pénale Spéciale de la République Centrafricaine",
+  "published": "",
+  "sub_indicator": "justice",
+  "why": "Q5: SCC publishes its judgments online, latest dated 23 Oct 2023"
+ },
+ {
+  "url": "https://www.undp.org/careers/blog/women-tech-advancing-technology-special-criminal-court-bucella-gwladys",
+  "title": "Women in Tech: Advancing Technology at the Special Criminal Court",
+  "publisher": "UNDP",
+  "published": "2025-03-03",
+  "sub_indicator": "justice",
+  "why": "Q1: court cases processed manually"
+ },
+ {
+  "url": "https://www.justice.gouv.cf/services/11/actes-juridictionnels",
+  "title": "Actes Juridictionnels",
+  "publisher": "Ministère de la Justice",
+  "published": "",
+  "sub_indicator": "justice",
+  "why": "Q5: ministry site describes decisions, no online lookup"
+ },
+ {
+  "url": "https://www.undp.org/fr/central-african-republic/actualites/le-pnud-appuie-la-digitalisation-du-secteur-judiciaire-en-rca",
+  "title": "Le PNUD appuie la digitalisation du secteur judiciaire en RCA",
+  "publisher": "UNDP",
+  "published": "2022-07-28",
+  "sub_indicator": "justice",
+  "why": "Q2: IT equipment to courts under digitalisation initiative"
+ },
+ {
+  "url": "https://oubanguimedias.com/2022/03/04/centrafrique-evaluation-des-projets-finances-par-lunion-europeenne-au-profit-du-ministere-de-la-justice/",
+  "title": "Evaluation des projets financés par l'Union Européenne au profit du ministère de la justice",
+  "publisher": "Oubangui Médias",
+  "published": "2022-03-04",
+  "sub_indicator": "justice",
+  "why": "Q1/Q2: informatisation of justice not previously taken into account"
+ },
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2022-12/Politique%20sectorielle%20justice%20pour%20impression_Version%2017%2011%202020.pdf",
+  "title": "Politique sectorielle de la justice",
+  "publisher": "Ministère de la Justice",
+  "published": "2020",
+  "sub_indicator": "justice",
+  "why": "Q1/Q2: informatisation planned, prison and statistics software being acquired"
+ }
+]

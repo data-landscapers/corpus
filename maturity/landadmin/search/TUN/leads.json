@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.tuniscope.com/article/367118/business/services/reduction-des-delais-d-examen-des-demandes-d-enregsitrement-des-operations-foncieres-345013",
+  "title": "Réduction des délais d'examen des demandes d'enregistrement des opérations foncières",
+  "publisher": "Tuniscope (TAP interview)",
+  "published": "2026-02-16",
+  "sub_indicator": "landmis",
+  "why": "Q3 land register IT system generalised on 22 regional directions"
+ },
+ {
+  "url": "https://www.webmanagercenter.com/2025/05/24/546645/tunisie-vers-un-registre-foncier-100-numerique-avec-enregistrement-et-signature-electroniques/",
+  "title": "Tunisie : vers un registre foncier 100 % numérique",
+  "publisher": "WMC",
+  "published": "2025-05-24",
+  "sub_indicator": "landmis",
+  "why": "Q3/Q5 land register e-services, national real-estate portal"
+ },
+ {
+  "url": "https://www.webmanagercenter.com/2025/05/26/546769/tunisie-lancement-du-projet-de-systeme-dinformations-foncieres-avec-un-consortium-sud-coreen-mene-par-samsung-ct/",
+  "title": "Tunisie : lancement du projet de Système d'Informations Foncières avec un consortium sud-coréen mené par Samsung C&T",
+  "publisher": "WMC",
+  "published": "2025-05-26",
+  "sub_indicator": "landmis",
+  "why": "Q2/Q4 land information system contract incl. cadastral system"
+ },
+ {
+  "url": "https://news.gnet.tn/vers-une-administration-sans-papier-la-propriete-fonciere-tunisienne-passe-a-la-vitesse-numerique/",
+  "title": "Vers une administration sans papier : La propriété foncière tunisienne passe à la vitesse numérique",
+  "publisher": "Gnet news",
+  "published": "2025-05-08",
+  "sub_indicator": "landmis",
+  "why": "Q3 remote land services available"
+ },
+ {
+  "url": "https://realites.com.tn/fr/la-digitalisation-de-lonpf-pour-mieux-repondre-aux-besoins-des-usagers-et-des-acteurs-economiques/",
+  "title": "Digitalisation de l'ONPF : mieux répondre aux besoins des usagers",
+  "publisher": "Réalités Magazine",
+  "published": "2023-08-24",
+  "sub_indicator": "landmis",
+  "why": "Q3 ONPF online services since March 2022"
+ },
+ {
+  "url": "https://managers.tn/2023/11/14/la-tunisie-va-enfin-se-doter-dun-systeme-foncier-digitalise/",
+  "title": "La Tunisie va enfin se doter d'un système foncier digitalisé",
+  "publisher": "Managers",
+  "published": "2023-11-14",
+  "sub_indicator": "landmis",
+  "why": "Q2 TLIS project consulting launched"
+ },
+ {
+  "url": "https://hal.science/hal-04194485",
+  "title": "L'archivage des données foncières en Tunisie",
+  "publisher": "HAL (Ben Amor, Mkadmi)",
+  "published": "2023-06-07",
+  "sub_indicator": "landmis",
+  "why": "Q3 SIF in use at ONPF with manual archive"
+ },
+ {
+  "url": "http://theses.fr/2024PA080059/document",
+  "title": "Archives in the era of big data: digital archiving of land data in Tunisia",
+  "publisher": "theses.fr (Ben Amor)",
+  "published": "2024-12-18",
+  "sub_indicator": "landmis",
+  "why": "Q1/Q2 land records largely manual; OTC project"
+ }
+]

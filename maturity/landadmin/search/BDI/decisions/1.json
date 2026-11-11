@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "tax",
+ "fact": "The Burundi Revenue Authority announced that, under the 2026/2027 budget law, property tax moves to the OBR and must be declared online through the Umutangakori II platform by 30 September 2026.",
+ "title": "Communiqué: déclaration et paiement en ligne de l'impôt foncier",
+ "publisher": "Office Burundais des Recettes",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

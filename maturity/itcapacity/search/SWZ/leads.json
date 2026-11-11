@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://publications.iom.int/system/files/pdf/pub2023-114-r-iom-mmdma-report-eswatini.pdf",
+  "title": "Migration Management Digital Maturity Assessment Report Eswatini",
+  "publisher": "IOM",
+  "published": "2023",
+  "sub_indicator": "inhouse",
+  "why": "Government overreliant on external consultants; larger ministries have in-house ICT; RSTP serves all ministries"
+ },
+ {
+  "url": "https://parliament.gov.sz/publications/parliament_reports/docs/ANNUAL%20REPORT%20ICT%202025.pdf",
+  "title": "Annual Report ICT 2025",
+  "publisher": "Ministry of ICT / Parliament of Eswatini",
+  "published": "2025",
+  "sub_indicator": "inhouse",
+  "why": "Ministry relies on consultants, foreign suppliers; RSTP data centre"
+ },
+ {
+  "url": "https://www.undp.org/sites/g/files/zskgke326/files/2024-12/dra_report_eswatini.pdf",
+  "title": "Digital Readiness Assessment Eswatini",
+  "publisher": "UNDP",
+  "published": "2024-12",
+  "sub_indicator": "inhouse",
+  "why": "60% say government lacks skilled staff; dependence on external consultants"
+ },
+ {
+  "url": "https://www.eswatiniobserver.com/dubai-based-company-sues-govt-for-e31-4m/",
+  "title": "Dubai-based company sues govt for E31.4m",
+  "publisher": "Eswatini Observer",
+  "published": "2025-07-22",
+  "sub_indicator": "inhouse",
+  "why": "Foreign contractor provides core and maintenance services for RSTP data centre"
+ },
+ {
+  "url": "https://www.swazibridge.com/article/index.php?iywtrre=eFeo",
+  "title": "The Bridge: election technology",
+  "publisher": "Swazi Bridge",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "RSTP engineers took over election system after supplier failed"
+ },
+ {
+  "url": "https://www.africa-press.net/eswatini/all-news/ers-launches-tax-portal",
+  "title": "ERS launches tax portal",
+  "publisher": "Africa-Press",
+  "published": "2024-03-01",
+  "sub_indicator": "inhouse",
+  "why": "ERS Tax Ease portal developed by staff member"
+ },
+ {
+  "url": "https://parliament.gov.sz/media/speeches/budget/2026_27%20FY%20Budget_Speech_2026%20FINAL.pdf",
+  "title": "Budget Speech 2026",
+  "publisher": "Parliament of Eswatini",
+  "published": "2026",
+  "sub_indicator": "inhouse",
+  "why": "Mainframe upgrade budget"
+ },
+ {
+  "url": "https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Digital-Economy-Diagnostic-Eswatini.pdf",
+  "title": "Digital Economy Diagnostic Eswatini",
+  "publisher": "World Bank",
+  "published": "2021",
+  "sub_indicator": "inhouse",
+  "why": "Platforms built and run by internal IT staff; GCS moved to RSTP"
+ }
+]

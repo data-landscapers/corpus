@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "justice",
+ "aspect": "cases;public",
+ "fact": "The Judiciary says it is implementing the IECMS and publishes notable recent judgments with links to full text on the Eswatini Legal Information Institute; virtual remand hearings heard about 1,500 cases from January to June 2025.",
+ "title": "Court Services",
+ "publisher": "Judiciary of Eswatini",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

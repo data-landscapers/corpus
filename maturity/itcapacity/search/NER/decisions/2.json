@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "inhouse",
+ "aspect": "inhouse;agency;built",
+ "fact": "ANSI, the national information society agency, designed the integrated personnel, postings and pensions system for the National Guard, presented on 23 April 2025 after an August 2024 memorandum.",
+ "title": "L'ANSI lance le Système Intégré de Gestion des ressources humaines de la GNN",
+ "publisher": "Agence Nigérienne de Presse",
+ "published": "2025-04-23",
+ "date_source": "source",
+ "why_not": ""
+}

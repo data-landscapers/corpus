@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system",
+ "fact": "An MCC evaluation with endline data from 2019-2023 found that in many land offices the land information management system is not functioning or is only a back-up database, so paper records are still relied on.",
+ "title": "Promoting Land Tenure Security in Mozambique",
+ "publisher": "Millennium Challenge Corporation",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

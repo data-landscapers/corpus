@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://mitgovlab.org/wp-content/uploads/2023/11/Gangamreddypalli_FinalReport.pdf",
+  "title": "NOSi's Reform of Cape Verde",
+  "publisher": "MIT Governance Lab",
+  "published": "2023-11",
+  "sub_indicator": "inhouse",
+  "why": "NOSi built homegrown systems; government earlier relied on foreign consultants"
+ },
+ {
+  "url": "https://boe.incv.cv/Bulletins/Download/4570",
+  "title": "Resolução nº 121/2022",
+  "publisher": "Boletim Oficial / Conselho de Ministros",
+  "published": "2022-12-29",
+  "sub_indicator": "inhouse",
+  "why": "Oracle contract for e-procurement; NOSi manages the data center"
+ },
+ {
+  "url": "https://www.governo.cv/nota-de-esclarecimento-publico-plataforma-eletronica-de-contratacao-publica/",
+  "title": "Nota de Esclarecimento Público: Plataforma Eletrónica de Contratação Pública",
+  "publisher": "Governo de Cabo Verde",
+  "published": "2026-03-19",
+  "sub_indicator": "inhouse",
+  "why": "State's past in-house e-procurement attempts discontinued; now contracted to ACIN-iCloud"
+ },
+ {
+  "url": "https://blog-pfm.imf.org/en/pfmblog/2023/10/digital-transformation-in-the-oversight-of-state-owned-enterprise-in-cabo-verde",
+  "title": "Digital Transformation in the Oversight of State-Owned Enterprise in Cabo Verde",
+  "publisher": "IMF PFM Blog",
+  "published": "2023-10-30",
+  "sub_indicator": "inhouse",
+  "why": "SOE Manager developed in house with MoF UTIC, launched Oct 2023"
+ },
+ {
+  "url": "https://www.mcc.gov/our-impact/lesson-learned/lesson-cv-c-2-where-demonstrated-public-sector-information-techn/",
+  "title": "Lesson: in-house land information system development",
+  "publisher": "Millennium Challenge Corporation",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "NOSi staff support government IT systems and built the land system"
+ },
+ {
+  "url": "https://www.nosi.cv/documents/20121/3100977/Relat%C3%B3rio%20e%20Contas%20NOSi%20-%202024.pdf/2fe4a66a-1826-4951-4da3-9cce82aef26e",
+  "title": "Relatório e Contas NOSi 2024",
+  "publisher": "NOSi, E.P.E.",
+  "published": "2025",
+  "sub_indicator": "inhouse",
+  "why": "NOSi builds and runs cloud, iGRP, SOC for state network"
+ },
+ {
+  "url": "https://nosi.cv/w/nosi-apresenta-vkonekta-a-nova-plataforma-de-comunica%C3%A7%C3%A3o-voip-para-rtpe",
+  "title": "NOSi apresenta VKonekta",
+  "publisher": "NOSi",
+  "published": "2024-08-14",
+  "sub_indicator": "inhouse",
+  "why": "VKonekta VoIP platform designed and developed by NOSi for state network"
+ },
+ {
+  "url": "https://pt.linkedin.com/posts/adilson-f-monteiro_inova%C3%A7%C3%A3o-transforma%C3%A7%C3%A3odigital-seguran%C3%A7ap%C3%BAblica-activity-7305588088708251648-MuXM",
+  "title": "Sistema Integrado de Gestão Operativa e Investigação Criminal (SIGOIC)",
+  "publisher": "Adilson Fernandes Monteiro (LinkedIn)",
+  "published": "2025-03-12",
+  "sub_indicator": "inhouse",
+  "why": "SIGOIC developed internally by national police, live Jan 2025"
+ }
+]

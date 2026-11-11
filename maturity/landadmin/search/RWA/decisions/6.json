@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system",
+ "fact": "The National Land Authority's October 2023 client charter states that transfers by sale, donation and exchange are processed through LAIS, with applications sent online via Irembo where sector infrastructure allows.",
+ "title": "Client Charter for Land Related Services",
+ "publisher": "National Land Authority (Rwanda)",
+ "published": "2023-10",
+ "date_source": "source",
+ "why_not": ""
+}

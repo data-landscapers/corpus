@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "inhouse",
+ "aspect": "inhouse;agency",
+ "fact": "The eJO platform was designed and developed by a Djiboutian private consortium (DCG and OTIX), with ANSIE acting as project-owner assistant and quality-checking the deliverables for the Secretariat General of the Government.",
+ "title": "Mot du SGG - eJO",
+ "publisher": "Secrétariat Général du Gouvernement - Journal Officiel électronique",
+ "published": "2023-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "justice",
+ "aspect": "cases;filing",
+ "fact": "The JSC states that the second and third phases of the Integrated Electronic Case Management System went live on 1 February 2023 and 1 September 2023, moving the Labour Court, Administrative Court, General Division of the High Court and Sheriff's Office from paper to the electronic platform.",
+ "title": "JSC 2023 Annual Report",
+ "publisher": "Judicial Service Commission",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

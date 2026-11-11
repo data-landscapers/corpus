@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "justice",
+ "aspect": "public",
+ "fact": "EswatiniLII, operated by the Judiciary, publishes court judgments from all courts online, 8,242 of them in a copy of February 2026.",
+ "title": "Judgments",
+ "publisher": "EswatiniLII (Judiciary of Eswatini)",
+ "published": "2026-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

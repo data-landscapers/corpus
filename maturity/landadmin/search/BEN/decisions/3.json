@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system",
+ "fact": "The ANDF baseline study (30 December 2025) says transactions formalised on the ANDF platform covered 226,028 parcels, that e-Notaire connected 771 notaries for mutation requests, and that only authorised providers, not the public, can use the platforms apart from cadastre.bj.",
+ "title": "Étude baseline TERRA, rapport définitif",
+ "publisher": "Agence Nationale du Domaine et du Foncier (ANDF)",
+ "published": "2025-12",
+ "date_source": "source",
+ "why_not": ""
+}

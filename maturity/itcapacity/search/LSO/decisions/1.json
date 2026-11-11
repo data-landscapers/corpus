@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "inhouse",
+ "aspect": "inhouse",
+ "fact": "The 2024 strategy states that overreliance on external capacities causes vendor lock-in, citing the National ID system managed by a company outside the country with almost no local capacity built, and that insufficient capacity is scattered across line ministries.",
+ "title": "Lesotho's National Digital Transformation Strategy: Agenda 2030",
+ "publisher": "Government of Lesotho (MICSTI)",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

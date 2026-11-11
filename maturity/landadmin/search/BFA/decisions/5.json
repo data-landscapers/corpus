@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "joined",
+ "fact": "In March 2023 the tax directorate was vectorising and georeferencing cadastral plans of seven Ouagadougou districts, reporting 434,274 parcels digitised in eCadastre at 31 December 2022 and a 2023 target of 500,000 parcels digitised and cadastral values assessed.",
+ "title": "Informatisation du cadastre national : Les plans cadastraux de 07 arrondissements de Ouagadougou en cours de numérisation",
+ "publisher": "Direction Générale des Impôts",
+ "published": "2023-03-04",
+ "date_source": "source",
+ "why_not": ""
+}

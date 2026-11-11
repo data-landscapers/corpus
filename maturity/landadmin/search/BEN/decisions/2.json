@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system;joined",
+ "fact": "Between 2021 and 2025 e-Foncier Bénin, a system that maps plot boundaries and links them to legal records, recorded 491,293 parcels, and a five-year extension was signed in June 2026.",
+ "title": "Modernising land administration in Benin",
+ "publisher": "MDF",
+ "published": "2026",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "inhouse",
+ "aspect": "inhouse;agency",
+ "fact": "In March 2026 RISA invited proposals under the World Bank-funded RDAP to hire a firm to design, develop and implement the Shared Government Data Hub and upgrade the interoperability platform, while the Government Enterprise Service Bus is operated by RISA for other government systems.",
+ "title": "Information Systems (Design, Supply and Installation): Hiring a firm to implement the Shared Government Data Hub and the Data Interoperability Platform",
+ "publisher": "Rwanda Information Society Authority (RISA)",
+ "published": "2026-03",
+ "date_source": "source",
+ "why_not": ""
+}

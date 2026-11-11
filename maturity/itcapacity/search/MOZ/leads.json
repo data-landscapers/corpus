@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.oeconomico.com/governo-mobiliza-o-pais-para-definir-estrategia-nacional-de-transformacao-digital-e-aposta-na-interoperabilidade-como-eixo-estruturante/",
+  "title": "Governo mobiliza o país para definir Estratégia Nacional de Transformação Digital e aposta na interoperabilidade como eixo estruturante",
+  "publisher": "O.Económico",
+  "published": "2026-02-12",
+  "sub_indicator": "inhouse",
+  "why": "Government contracted companies to build interoperability system, citizen portal and digital signature; private-sector execution under state supervision."
+ },
+ {
+  "url": "https://www.inage.gov.mz/wp-content/uploads/2025/02/Terms-of-reference-for-hiring-a-firm-to-draw-up-Mozambiques-digital-government-and-data-strategy-and-service-standard.pdf/",
+  "title": "INAGE, IP terms of reference / services",
+  "publisher": "INAGE, IP",
+  "published": "2025-02",
+  "sub_indicator": "inhouse",
+  "why": "INAGE hosts servers, e-mail and document system for government (agency runs systems for rest of government)."
+ },
+ {
+  "url": "https://www.jornalnoticias.co.mz/destaque/e-sistafe-passa-a-ser-ferramenta-de-auditoria/",
+  "title": "e-SISTAFE passa a ser ferramenta de auditoria",
+  "publisher": "Jornal Notícias",
+  "published": "2024-12-09",
+  "sub_indicator": "inhouse",
+  "why": "CEDSIF runs e-SISTAFE for the public administration; internal audit module in development."
+ },
+ {
+  "url": "https://www.ciuem.mz/ciuem-concebe-sina-e-capacita-membros-do-governo-na-gestao-da-plataforma/",
+  "title": "CIUEM concebe SINA e capacita membros do Governo na gestão da plataforma",
+  "publisher": "CIUEM",
+  "published": "2024-03-19",
+  "sub_indicator": "inhouse",
+  "why": "University computing centre built Nampula provincial system and trained provincial staff."
+ },
+ {
+  "url": "https://mznews.co.mz/en/assinado-contrato-de-adjudicacao-do-projecto-sigesp-mint/",
+  "title": "Assinado contrato de adjudicação do projecto SIGESP-MINT",
+  "publisher": "mznews",
+  "published": "2023-10-10",
+  "sub_indicator": "inhouse",
+  "why": "Interior ministry contracts Hyundai-Samsung consortium for public security information system."
+ },
+ {
+  "url": "https://www.inss.gov.mz/2023/06/19/harmonizar-os-tor-para-garantir-o-aprimoramento-do-sissmo/",
+  "title": "Harmonizar os Termos de Referência para garantir o aprimoramento do SISSMO",
+  "publisher": "INSS",
+  "published": "2023-06-19",
+  "sub_indicator": "inhouse",
+  "why": "INSS re-hires Brazilian firm Integral Sistemas to improve SISSMO, with knowledge transfer."
+ },
+ {
+  "url": "https://www.cedsif.gov.mz/cedsifportal/productos/",
+  "title": "Produtos - CEDSIF",
+  "publisher": "CEDSIF",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "CEDSIF lists 18 systems it runs for state bodies."
+ },
+ {
+  "url": "https://www.fnds.gov.mz/edocman/sigit-review-and-audit-final-report.pdf",
+  "title": "SiGIT Review and Audit Final Report",
+  "publisher": "FCG for GoM",
+  "published": "2019",
+  "sub_indicator": "inhouse",
+  "why": "DINAT depends on vendor EXI for SiGIT support and changes."
+ }
+]

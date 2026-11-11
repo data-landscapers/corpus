@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system;joined;tax",
+ "fact": "In 2023 the OTR deployed a system for digital production of land titles, held 86,042 buildings in the cadastral matrix, handled total transfers in 3h10 on average, and valued 15,597 buildings for estimated property tax of 713.4 million FCFA.",
+ "title": "Rapport de performance 2023",
+ "publisher": "Office Togolais des Recettes",
+ "published": "2024-02",
+ "date_source": "source",
+ "why_not": ""
+}

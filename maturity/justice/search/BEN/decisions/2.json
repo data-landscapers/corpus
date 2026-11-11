@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "justice",
+ "aspect": "public",
+ "fact": "The Constitutional Court publishes its decisions online in a searchable list, the latest dated 10 September 2026.",
+ "title": "Cour Constitutionnelle du Bénin - The Decisions",
+ "publisher": "Cour Constitutionnelle du Bénin",
+ "published": "2026-09",
+ "date_source": "proxy",
+ "why_not": ""
+}

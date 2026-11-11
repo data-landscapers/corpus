@@ -72,9 +72,9 @@ internetusage,use,infra.connect--internet-usage,2026-11-09,16,67,34
 interoperability,framework,gov.policy--data-interoperability-framework-roadmap,2026-11-10,31,101,57
 interoperabilitylaw,law,gov.legislate--legislation-enabling-data-interoperability,2026-11-10,31,101,50
 interoperabilitystandards,standards,gov.standards--national-interoperability-standards,2026-11-10,31,101,15
-itcapacity,inhouse,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,,,,
-justice,justice,dpi.mis--justice,,,,
-landadmin,landmis,dpi.mis--land,,,,
+itcapacity,inhouse,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,2026-11-11,16,75,198
+justice,justice,dpi.mis--justice,2026-11-11,16,75,210
+landadmin,landmis,dpi.mis--land,2026-11-11,16,75,211
 landregister,land,dpi.registry--land-register,,,,
 localgov,connection,digital.localgov--ict-infrastructure-for-local-government,,,,
 localrecords,revenue,digital.localgov--digitalisation-of-local-government-records,,,,

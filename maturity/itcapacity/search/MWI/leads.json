@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://times.mw/government-on-rescue-operation/",
+  "title": "Government on rescue operation",
+  "publisher": "The Times Group",
+  "published": "2026-05",
+  "sub_indicator": "inhouse",
+  "why": "Government retook MalTIS from foreign consultants; reliance on outside help (Q1,Q2)"
+ },
+ {
+  "url": "https://www.undp.org/malawi/news/malawi-unveils-digital-system-strengthen-and-track-public-sector-reforms",
+  "title": "Malawi Unveils a Digital System to Strengthen and Track Public Sector Reforms",
+  "publisher": "UNDP",
+  "published": "2025-12",
+  "sub_indicator": "inhouse",
+  "why": "PSRIMS developed in-house by government departments (Q4)"
+ },
+ {
+  "url": "https://www.judiciary.mw/sites/default/files/2024-02/ICT%20AND%20DIGITILIZATION%20ACTIVITIES%20IN%20THE%20YEAR%202023.pdf",
+  "title": "ICT and Digitalization Activities in the Year 2023",
+  "publisher": "Malawi Judiciary",
+  "published": "2024-02",
+  "sub_indicator": "inhouse",
+  "why": "Case management statistics system developed in-house by Judiciary ICT Department (Q2,Q4)"
+ },
+ {
+  "url": "https://digmap.pppc.mw/ministry-pppc-take-stock-of-digital-malawi-project/",
+  "title": "Ministry, PPPC take stock of Digital Malawi Project",
+  "publisher": "Digital Malawi Project",
+  "published": "2025-10",
+  "sub_indicator": "inhouse",
+  "why": "National Data Centre hosts government systems (Q3)"
+ },
+ {
+  "url": "https://mwnation.com/govt-threatens-to-cancel-ifmis-contract/",
+  "title": "Govt threatens to cancel Ifmis contract",
+  "publisher": "Nation Online",
+  "published": "2023-06",
+  "sub_indicator": "inhouse",
+  "why": "IFMIS run by outside contractor whose consultants withdrew (Q1)"
+ },
+ {
+  "url": "https://api.pppc.mw/storage/161/DIGITAL-GOVERNMENT-STRATEGY-BOOK.pdf",
+  "title": "Digital Government Strategy",
+  "publisher": "Government of Malawi",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "Dependency on outside experts; thin in-house ICT staff (Q1,Q2)"
+ },
+ {
+  "url": "https://www.projecthope.org/news-stories/press-release/malawi-launches-upgraded-national-child-protection-system/",
+  "title": "Malawi Launches Upgraded National Child Protection System",
+  "publisher": "Project HOPE",
+  "published": "2026-06",
+  "sub_indicator": "inhouse",
+  "why": "CPMIS ministry IT dept trained to run backend (Q1,Q2)"
+ },
+ {
+  "url": "https://satcp.mw/2026/05/22/malawi-unveils-digital-spsis-to-transform-agricultural-trade/",
+  "title": "Malawi Unveils Digital SPSIS to Transform Agricultural Trade",
+  "publisher": "SATCP",
+  "published": "2026-05",
+  "sub_indicator": "inhouse",
+  "why": "SPSIS delivered by consultants, maintenance plan needed (Q1)"
+ }
+]

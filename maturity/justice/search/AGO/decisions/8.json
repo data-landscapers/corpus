@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "justice",
+ "aspect": "",
+ "fact": "",
+ "title": "Portal do Tribunal Constitucional | Acórdãos",
+ "publisher": "Tribunal Constitucional",
+ "published": "2026",
+ "date_source": "source",
+ "why_not": "off-topic: fetched text is one ruling on an NGO law and states nothing on case systems or publication"
+}

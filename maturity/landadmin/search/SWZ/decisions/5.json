@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "landmis",
+ "aspect": "system",
+ "fact": "The Deeds Registry has computerised its land registers since 1995 and scanned its records, but a Land Information System linking the Deeds Registry and the Surveyor General is still described as an intention.",
+ "title": "Deeds",
+ "publisher": "Deeds Registry, Government of Eswatini",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-date: the page states no date of its own"
+}

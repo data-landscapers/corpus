@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://defimedia.info/dossiers-detruits-preuves-menacees-la-justice-face-ses-failles",
+  "title": "Dossiers détruits, preuves menacées : la justice face à ses failles",
+  "publisher": "Defimedia",
+  "published": "2026-10-24",
+  "sub_indicator": "justice",
+  "why": "only Commercial Division has e-filing; no central database; national digitisation programme pending"
+ },
+ {
+  "url": "https://newsmoris.com/judicial-system-stuck-in-slow-lane-modernization-efforts-fall-short/",
+  "title": "Judicial System Stuck in Slow Lane, Modernization Efforts Fall Short",
+  "publisher": "News Moris",
+  "published": "2024-06-15",
+  "sub_indicator": "justice",
+  "why": "e-judiciary still pilot, commercial court e-filing only"
+ },
+ {
+  "url": "https://bizweek.mu/une-strategie-nationale-pour-la-digitalisation-du-judiciaire/cover-story/",
+  "title": "Une stratégie nationale pour la digitalisation du judiciaire",
+  "publisher": "Bizweek",
+  "published": "2024-07-13",
+  "sub_indicator": "justice",
+  "why": "e-filing in Commercial Division since 2010; extension announced"
+ },
+ {
+  "url": "https://defimedia.info/judiciaire-un-systeme-de-climatisation-dernier-cri-pour-la-new-court-house",
+  "title": "Judiciaire : un système de climatisation dernier cri pour la New Court House",
+  "publisher": "Defimedia",
+  "published": "2024-06-08",
+  "sub_indicator": "justice",
+  "why": "budget measures: CMS for Children's Court, digitisation accelerated"
+ },
+ {
+  "url": "https://defimedia.info/justice-en-ligne-quand-maurice-se-tournera-t-il-vers-ce-systeme",
+  "title": "Justice en ligne : quand Maurice se tournera-t-il vers ce système ?",
+  "publisher": "Defimedia",
+  "published": "2024-02-26",
+  "sub_indicator": "justice",
+  "why": "e-filing operational in Commercial Division only; remote hearings"
+ },
+ {
+  "url": "http://cloudbeta.lexpress.mu/s/article/425103/judiciary-dix-ans-apres-toujours-pas-reseau",
+  "title": "L'e-judiciary: dix ans après, toujours pas de réseau",
+  "publisher": "L'express",
+  "published": "2023-07-24",
+  "sub_indicator": "justice",
+  "why": "manual management in many courts; Family Division computerised since 2021"
+ },
+ {
+  "url": "https://defimedia.info/judiciaire-zoom-sur-les-projets-realises-en-2021-2022",
+  "title": "Judiciaire : zoom sur les projets réalisés en 2021 / 2022",
+  "publisher": "Defimedia",
+  "published": "2023-07-22",
+  "sub_indicator": "justice",
+  "why": "Family Division case management operational Feb 2021; Children's Court CMS"
+ },
+ {
+  "url": "https://supremecourt.govmu.org/judgment-search",
+  "title": "Judgment Search",
+  "publisher": "The Supreme Court of Mauritius",
+  "published": "",
+  "sub_indicator": "justice",
+  "why": "judgments searchable online"
+ }
+]

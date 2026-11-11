@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system;tax",
+ "fact": "In March 2025 the National Land Authority announced integrating the Financial Management Information System into LAIS version 4.0 to automate tax assessments, payments and revenue collection for leases, sales, transfers and mortgages, with LAIS then handling over 800,000 transactions a year.",
+ "title": "National land system to integrate financial management information",
+ "publisher": "Africa-Press (The New Times)",
+ "published": "2025-03-26",
+ "date_source": "proxy",
+ "why_not": ""
+}

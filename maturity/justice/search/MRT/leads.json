@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://rapideinfo.mr/communique-conseil-des-ministres-27-aout-2026/",
+  "title": "Communiqué du Conseil des Ministres du 27 Août 2026",
+  "publisher": "Gouvernement de la République Islamique de Mauritanie (via Rapide Info)",
+  "published": "2026-08-27",
+  "sub_indicator": "justice",
+  "why": "Draft decree on national digital criminal-record system interconnecting courts and prosecutors (Q2)"
+ },
+ {
+  "url": "https://www.ecofinagency.com/news-digital/2210-49751-mauritania-signs-2-year-deal-to-strengthen-courts-with-moroccan-digital-expertise",
+  "title": "Mauritania Signs 2-Year Deal to Strengthen Courts with Moroccan Digital Expertise",
+  "publisher": "Ecofin Agency",
+  "published": "2025-10-22",
+  "sub_indicator": "justice",
+  "why": "Court digitisation deal; case tracking and online services listed (Q2/Q5)"
+ },
+ {
+  "url": "https://ami.mr/fr/archives/285387",
+  "title": "Signature de la deuxième phase du programme de modernisation de la justice",
+  "publisher": "Agence mauritanienne d'information",
+  "published": "2025-12-12",
+  "sub_indicator": "justice",
+  "why": "UNDP phase 2 includes digitisation of court procedures (Q2)"
+ },
+ {
+  "url": "https://www.ami.mr/archives/219925",
+  "title": "اجتماع وزاري لبحث مستوى تقدم مشاريع الرقمنة في قطاع العدالة",
+  "publisher": "الوكالة الموريتانية للأنباء",
+  "published": "2025-02-04",
+  "sub_indicator": "justice",
+  "why": "Digitisation of criminal and commercial chains from case registration to appeals under way (Q2)"
+ },
+ {
+  "url": "https://mtnima.gov.mr/fr/mauritanie-digitalisation-du-casier-judiciaire-et-lancement-de-son-acces-en-ligne/",
+  "title": "Mauritanie : Digitalisation du casier judiciaire et lancement de son accès en ligne",
+  "publisher": "Ministère de la Transformation numérique",
+  "published": "2025-03-28",
+  "sub_indicator": "justice",
+  "why": "Online criminal record launched; plan to digitise case chain (Q2/Q4)"
+ },
+ {
+  "url": "https://unevaluation.org/member_publications/evaluation-project-appui-modernisation-secteur-justice",
+  "title": "Evaluation of the Project Appui Modernisation secteur justice",
+  "publisher": "UNDP",
+  "published": "2024",
+  "sub_indicator": "justice",
+  "why": "Digital platform for criminal chain set up but to be operationalised (Q2/Q3)"
+ },
+ {
+  "url": "https://ami.mr/fr/archives/233233",
+  "title": "Lancement d'une formation sur le système informatique Miroir de la Justice",
+  "publisher": "Agence mauritanienne d'information",
+  "published": "2023-11-07",
+  "sub_indicator": "justice",
+  "why": "Case management at moughataa courts piloted in Tevragh-Zeina and Sebkha (Q3)"
+ },
+ {
+  "url": "https://documents1.worldbank.org/curated/en/650001590995710219/pdf/Amelioration-de-la-Justice-Commerciale-Developpement-des-Modes-Alternatifs-de-Reglement-des-Litiges-et-Modernisation-du-Registre-du-Commerce-en-Mauritanie.pdf",
+  "title": "Amélioration de la Justice Commerciale, Développement des MARL et Modernisation du Registre du Commerce en Mauritanie",
+  "publisher": "World Bank Group",
+  "published": "2020",
+  "sub_indicator": "justice",
+  "why": "Supreme Court software intranet only; Nouakchott commercial court site publishes decisions since 2017 (Q1/Q5)"
+ }
+]

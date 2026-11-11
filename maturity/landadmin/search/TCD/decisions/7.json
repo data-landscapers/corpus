@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system;joined",
+ "fact": "A June 2026 journal article, from interviews in April 2025 to February 2026, says each land administration has its own information system with no integrated database, the e-Conservation platform set up in 2023 is cloisonné from the cadastre platforms, and many communes keep paper archives.",
+ "title": "Gouvernance foncière face à l'urgence de la réforme à N'Djamena, cité-capitale du Tchad",
+ "publisher": "Annales de l'Université de Moundou, Série A - AFLASH",
+ "published": "2026-06",
+ "date_source": "source",
+ "why_not": ""
+}

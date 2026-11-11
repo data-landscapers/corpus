@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.algerie360.com/fadaeldjazair-livret-foncier-cadastre-en-ligne/",
+  "title": "Fadaeldjazair : livret foncier et cadastre en ligne",
+  "publisher": "Algérie360",
+  "published": "2026-11-02",
+  "sub_indicator": "landmis",
+  "why": "Q3/Q4: portal over unified database, cadastral extracts, online payment"
+ },
+ {
+  "url": "https://lasentinelle.dz/index.php/2026/11/04/guelma-cadastre-et-conservation-fonciere-accelerent-leur-mue-numerique/",
+  "title": "Guelma : cadastre et conservation foncière accélèrent leur mue numérique",
+  "publisher": "La Sentinelle",
+  "published": "2026-11-04",
+  "sub_indicator": "landmis",
+  "why": "Q2/Q4: digitisation and concordance of land book with database"
+ },
+ {
+  "url": "https://www.elkhabar.com/fr/economie/recettes-record-et-services-numeriques-l-etat-modernise-la-gestion-fonciere-263223",
+  "title": "Recettes record et services numériques : l'État modernise la gestion foncière",
+  "publisher": "El Khabar",
+  "published": "2026-04-18",
+  "sub_indicator": "landmis",
+  "why": "Q3: Amlak used for state property, cadastre, land conservation"
+ },
+ {
+  "url": "https://algerie-eco.com/2026/01/27/algerie-publication-dun-decret-officialisant-la-mise-en-place-du-livret-foncier-electronique/",
+  "title": "Publication d'un décret officialisant le livret foncier électronique",
+  "publisher": "Algérie Eco",
+  "published": "2026-01-27",
+  "sub_indicator": "landmis",
+  "why": "Q3/Q4: decree 26-15, electronic land book with graphic data"
+ },
+ {
+  "url": "https://www.ecofinagency.com/news-digital/1301-51891-algeria-launches-nationwide-rollout-of-amlak-electronic-land-system",
+  "title": "Algeria Launches Nationwide Rollout Of AMLAK Electronic Land System",
+  "publisher": "Ecofin Agency",
+  "published": "2026-01-13",
+  "sub_indicator": "landmis",
+  "why": "Q3: AMLAK rollout, transaction traceability"
+ },
+ {
+  "url": "https://www.algerie360.com/taxe-fonciere-algerie-calcul-paiement/",
+  "title": "Taxe foncière en Algérie : calcul, taux et paiement",
+  "publisher": "Algérie360",
+  "published": "2026-11-02",
+  "sub_indicator": "landmis",
+  "why": "Q5: property tax payable online since July 2026 via Jibayatic"
+ },
+ {
+  "url": "https://www.lnr-dz.com/2024/12/16/la-mise-en-service-du-projet-permettra-de-fournir-des-services-de-qualite-aux-citoyens-et-aux-professionnels/",
+  "title": "Mise en service du réseau intranet de la DGDN",
+  "publisher": "La Nouvelle République",
+  "published": "2024-12-16",
+  "sub_indicator": "landmis",
+  "why": "Q3: national cadastral and land data centre, 19 million records"
+ },
+ {
+  "url": "https://www.mf.gov.dz/index.php/en/documentation2020-2/major-issues/2328-digitization-of-the-services-of-the-general-directorate-of-the-national-assets",
+  "title": "Digitization of the services of the General Directorate of the National Assets",
+  "publisher": "Ministry of Finance",
+  "published": "",
+  "sub_indicator": "landmis",
+  "why": "Q4/Q5: Fadaeldjazair and CADFISC property tax application"
+ }
+]

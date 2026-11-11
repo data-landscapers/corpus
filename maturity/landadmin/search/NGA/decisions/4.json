@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "system",
+ "fact": "Anambra State's Governor commissioned the Anambra State Geographic Information System (ANAMGIS) on 27 February 2025, to automate land deed registration.",
+ "title": "Governor Soludo commissions ANAMGIS",
+ "publisher": "Ministry of Lands, Anambra State",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "aspect": "tax",
+ "fact": "Since the 2025 Finance Law the Direction Générale des Impôts has taken over collection of the land and built-property taxes (IFT, IFPB) from the communes, which keep only the census of taxable property.",
+ "title": "Administration – Le paiement des impôts fonciers transféré aux centres fiscaux",
+ "publisher": "TANIKO Madagascar",
+ "published": "2025-06",
+ "date_source": "proxy",
+ "why_not": "",
+ "sub_indicator": "landmis"
+}

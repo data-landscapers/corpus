@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.risa.gov.rw/fileadmin/user_upload/RISA/Publications/Tenders/Final-2026-03-20_Revised-SPD-RFP-Information-Systems-SHARED_GOVERNMENT_DATA_HUB-_V2__1_-SR__2_-Final_Approved.pdf",
+  "title": "RFP: hiring a firm to implement the Shared Government Data Hub",
+  "publisher": "RISA",
+  "published": "2026-03",
+  "sub_indicator": "inhouse",
+  "why": "Q1/Q3: outside firm hired; GESB operated by RISA"
+ },
+ {
+  "url": "https://www.gtai.de/en/trade/rwanda/tenders/implementation-consulting-services-ict-facility-1008164",
+  "title": "Implementation Consulting Services, ICT Facility",
+  "publisher": "GTAI",
+  "published": "2025-01",
+  "sub_indicator": "inhouse",
+  "why": "Q1: external consultant team supports RISA"
+ },
+ {
+  "url": "https://www.ktpress.rw/2025/05/built-in-rwanda-built-for-you-ishema-platform-frees-up-time-for-work-that-matters/",
+  "title": "Built in Rwanda: Ishema platform",
+  "publisher": "KT Press",
+  "published": "2025-05-22",
+  "sub_indicator": "inhouse",
+  "why": "Q4: RSSB platform built in-country, no vendor costs"
+ },
+ {
+  "url": "https://www.risa.gov.rw/news-detail/low-code-no-code-launched-programming-made-easier",
+  "title": "Low Code/No code launched",
+  "publisher": "RISA",
+  "published": "2025-01",
+  "sub_indicator": "inhouse",
+  "why": "Q2/Q4: platform to build apps without external vendors"
+ },
+ {
+  "url": "https://www.risa.gov.rw/index.php?eID=dumpFile&f=100740&t=f&token=9b1b7526a2732c2ccd5179572428aac335e85c08",
+  "title": "RISA Service Charter 2024 Edition",
+  "publisher": "RISA",
+  "published": "2024",
+  "sub_indicator": "inhouse",
+  "why": "Q2/Q3: RISA developers maintain central systems and host for institutions"
+ },
+ {
+  "url": "https://www.risa.gov.rw/divisions-and-units/software-solutions-division",
+  "title": "Software Solutions Division",
+  "publisher": "RISA",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "Q3: RISA develops/maintains systems for agencies"
+ },
+ {
+  "url": "https://www.ktpress.rw/2023/09/irembo-platform-commits-to-increase-access-to-government-services/",
+  "title": "Irembo Platform Commits to Increase Access to Government Services",
+  "publisher": "KT Press",
+  "published": "2023-09-12",
+  "sub_indicator": "inhouse",
+  "why": "Q1: reliance on CrimsonLogic"
+ },
+ {
+  "url": "https://www.cabri-sbo.org/uploads/files/Documents/Rwanda-Country-Case-Study.pdf",
+  "title": "Rwanda Country Case Study (digital systems in PFM)",
+  "publisher": "CABRI",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "Q5: iFMIS in-house team, nothing outsourced"
+ }
+]

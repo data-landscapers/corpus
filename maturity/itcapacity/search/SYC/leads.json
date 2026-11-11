@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.nation.sc/articles/26529/national-assemblys-myscc-visits-dict",
+  "title": "National Assembly's MYSCC visits DICT",
+  "publisher": "Seychelles Nation",
+  "published": "2025-06-23",
+  "sub_indicator": "inhouse",
+  "why": "DICT software development section and staff"
+ },
+ {
+  "url": "https://www.statehouse.gov.sc/cabinet-decisions/7318/cabinet-business-wednesday-28-october-2026",
+  "title": "Cabinet Business - Wednesday 28 October, 2026",
+  "publisher": "State House Seychelles",
+  "published": "2026-10-28",
+  "sub_indicator": "inhouse",
+  "why": "Government cloud and datacentre, shared infrastructure"
+ },
+ {
+  "url": "https://www.opengovpartnership.org/members/seychelles/commitments/SYC0007/",
+  "title": "Digital Transformation and Connecting People (SYC0007)",
+  "publisher": "Open Government Partnership",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "Reliance on overseas firms, local IT staff shortage"
+ },
+ {
+  "url": "https://www.ntb.sc/2-stage-tender/consultancy-2-stage/dict-development-of-the-land-valuation-system-lvs",
+  "title": "DICT - Development of the Land Valuation System (LVS)",
+  "publisher": "National Tender Board",
+  "published": "2025-03",
+  "sub_indicator": "inhouse",
+  "why": "Outside supplier built system, DICT staff trained for support"
+ },
+ {
+  "url": "https://theseychellestimes.com/2025/01/07/seychelles-signs-ifmis-contract-to-modernise-public-finance/",
+  "title": "Seychelles Signs IFMIS Contract to Modernise Public Finance",
+  "publisher": "The Seychelles Times",
+  "published": "2025-01-07",
+  "sub_indicator": "inhouse",
+  "why": "Outside contractor delivers IFMIS"
+ },
+ {
+  "url": "https://www.travizory.com/travizory-in-seychelles",
+  "title": "Travizory in Seychelles",
+  "publisher": "Travizory",
+  "published": "2025-09-09",
+  "sub_indicator": "inhouse",
+  "why": "Vendor runs border system support"
+ },
+ {
+  "url": "https://thedocs.worldbank.org/en/doc/290341604360934635-0090022020/original/seychellesdesigndecv4.pdf",
+  "title": "Digital Government in Seychelles",
+  "publisher": "World Bank",
+  "published": "",
+  "sub_indicator": "inhouse",
+  "why": "DICT in-house build capacity"
+ },
+ {
+  "url": "https://regtechafrica.com/healthcare/seychelles-digitisation-of-seychelles-public-health-system-nearly-complete/",
+  "title": "Digitisation of Seychelles' Public Health System Nearly Complete",
+  "publisher": "Regtech Africa",
+  "published": "2023-06-23",
+  "sub_indicator": "inhouse",
+  "why": "Health system by Indian vendor hosted by DICT"
+ }
+]

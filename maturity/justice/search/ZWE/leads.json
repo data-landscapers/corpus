@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.veritaszim.net/sites/veritas_d/files/Address%20by%20CJ%20on%20Opening%20of%202026%20Judicial%20Year.pdf",
+  "title": "Address by the Chief Justice on the Opening of the 2026 Judicial Year",
+  "publisher": "Judicial Service Commission",
+  "published": "2026",
+  "sub_indicator": "justice",
+  "why": "IECMS phases 4.1/4.2 in magistrates courts (Q3,Q4,Q5)"
+ },
+ {
+  "url": "https://www.veritaszim.net/sites/veritas_d/files/JSC%202023%20ANNUAL%20REPORT%20FINAL%20APPROVED%20.pdf",
+  "title": "JSC 2023 Annual Report",
+  "publisher": "Judicial Service Commission",
+  "published": "2023",
+  "sub_indicator": "justice",
+  "why": "IECMS phases 2 and 3 (Q3,Q4)"
+ },
+ {
+  "url": "https://www.masvingomirror.com/justice-gwaunza-launches-phase-4-3-iecms/",
+  "title": "Justice Gwaunza launches Phase 4.3 IECMS",
+  "publisher": "Masvingo Mirror",
+  "published": "2026-06-10",
+  "sub_indicator": "justice",
+  "why": "e-filing and case tracking in magistrates courts (Q4,Q5)"
+ },
+ {
+  "url": "https://www.heraldonline.co.zw/jsc-rolls-out-electronic-case-management-system-in-midlands-mashonaland-west/",
+  "title": "JSC rolls out electronic case management system in Midlands, Mashonaland West",
+  "publisher": "The Herald",
+  "published": "2026-10-06",
+  "sub_indicator": "justice",
+  "why": "IECMS live Oct 1 in two provinces (Q3)"
+ },
+ {
+  "url": "https://cite.org.zw/courts-will-not-return-to-ineffective-manual-system/",
+  "title": "Courts will not return to ineffective manual system",
+  "publisher": "CITE",
+  "published": "2024-01-09",
+  "sub_indicator": "justice",
+  "why": "IECMS phases and e-filing (Q3,Q4)"
+ },
+ {
+  "url": "https://www.lawjournal.digital/jour/article/view/625",
+  "title": "Digitalization of Justice in Zimbabwe: Institutional Challenges and Practical Solutions",
+  "publisher": "Journal of Digital Technologies and Law",
+  "published": "2026-04-10",
+  "sub_indicator": "justice",
+  "why": "Online filing, case tracking, access to judgments (Q4,Q5)"
+ },
+ {
+  "url": "https://www.veritaszim.net/sites/veritas_d/files/SI%202024-081%20High%20Court%20%28Amendment%29%20Rules%20%2C%202024.pdf",
+  "title": "Statutory Instrument 81 of 2024: High Court (Amendment) Rules, 2024 (No. 2)",
+  "publisher": "Government of Zimbabwe",
+  "published": "2024",
+  "sub_indicator": "justice",
+  "why": "Electronic filing on IECMS in rules (Q4)"
+ },
+ {
+  "url": "https://www.synisys.com/case-studies/zimbabwe-integrated-electronic-case-management-system-iecms/",
+  "title": "Zimbabwe IECMS",
+  "publisher": "Synergy International Systems",
+  "published": "2023-10-26",
+  "sub_indicator": "justice",
+  "why": "Prior paper-based system and build (Q1,Q2)"
+ }
+]

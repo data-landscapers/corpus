@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://ami.mr/fr/archives/298113,held,held as raw/2026/2026-07-02-ami-ministre-lancement-cloud-national-assemblee-nationale.md,,0,,
+2,https://www.agenceecofin.com/actualites-numerique/2612-134553-la-mauritanie-met-en-service-une-solution-d-ia-dediee-a-la-securite-routiere,held,held as raw/2025/2025-12-26-mrt-la-mauritanie-met-en-service-une-solution-dia-dediee-a-la-securite-rou.md,,0,,
+3,https://mtnima.gov.mr/wp-content/uploads/2025/04/Cahier-des-charges-Mise-en-place-du-CSIRT-national-et-du-SOC-RIAD.pdf,fetched,,scripts/.workroot/study/itcapacity/cache/MRT/3.txt,14532,pdf,
+4,https://documents1.worldbank.org/curated/en/099062725084035551/pdf/P502279-04508ee8-cc50-4689-a658-d9aa34c3dd1a.pdf,fetched,,scripts/.workroot/study/itcapacity/cache/MRT/4.txt,48361,pdf,World Bank Document
+5,https://cnc.gov.mr/VisAvis.aspx?ID=229AV0,fetched,,scripts/.workroot/study/itcapacity/cache/MRT/5.txt,1582,html,Commission Nationale des Concours
+6,https://www.undp.org/blog/mauritania-pilots-digital-id-app,held,held as raw/2024/2024-08-01 Mauritania pilots digital ID app (e-ID Mauritania).md,,0,,
+7,https://www.sondagemr.net/node/15864,fetched,,scripts/.workroot/study/itcapacity/cache/MRT/7.txt,653,html,"وزير الداخلية: تطبيق ""هويتي"" يتيح للمواطن أن يخدم نفسه بنفسه دون وسيط"
+8,http://anrpts.gov.mr/fr/houwiyeti,unfetchable,empty extraction; Wayback ConnectionError,,0,,

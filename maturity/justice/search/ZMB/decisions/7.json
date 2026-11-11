@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "justice",
+ "aspect": "",
+ "fact": "",
+ "title": "Judgments",
+ "publisher": "ZambiaLII",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: third-party index page of an aggregator (an archived snapshot) with no document date of its own"
+}

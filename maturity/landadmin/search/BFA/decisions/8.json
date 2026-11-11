@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "landmis",
+ "aspect": "joined;tax",
+ "fact": "A June 2025 article reports the DGI's eCadastre had 206,354 parcels assessed with 206,354 property-tax (contribution foncière) notices available for download, and that SYC@D calculates the tax base and supports land tax recovery.",
+ "title": "La contribution des données cadastrales dans la gouvernance foncière en Afrique : quelle conduite au changement pour la mise en place du SIF au Burkina Faso ?",
+ "publisher": "Revue Internationale de la Recherche Scientifique (Revue-IRS)",
+ "published": "2025-06",
+ "date_source": "source",
+ "why_not": ""
+}
