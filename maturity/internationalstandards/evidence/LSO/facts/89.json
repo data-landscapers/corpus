@@ -1,0 +1,11 @@
+{
+ "slug": "2026-10-08-world-development-indicators-selection-2026-11-10",
+ "facts": [],
+ "systems": [],
+ "note": "WDI lines state IMF statistical standards and accounting manuals, which no aspect of this study holds.",
+ "claims": {
+  "wdi-19215add90": "nothing: IMF statistical dissemination standard, not an ISO/IEC/ITU IT or data standard",
+  "wdi-547abd9258": "nothing: national accounts methodology, not assessed by the study",
+  "wdi-49bd09cf0b": "nothing: IMF balance of payments manual, not assessed by the study"
+ }
+}
