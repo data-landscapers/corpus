@@ -20,9 +20,9 @@ The African Charter on the Values and Principles of Public Service and Administr
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 8 |
+| 5 Leading | 10 |
 | 4 Operating | 8 |
-| 3 Established | 15 |
+| 3 Established | 13 |
 | 2 Nascent | 7 |
 | 1 Absent | 1 |
 | Unplaced | 4 |
@@ -73,6 +73,17 @@ Government staff run, maintain or built three or more of its systems by 2026, no
 - The KEWA platform, which published the 2026 primary-school certificate results, is run by the state agency ANINF, its engineers credited for it ([source, 2026-06-27](https://gabonactu.com/blog/2026/06/27/cep-2026-kewa-revolutionne-la-publication-des-resultats-laninf-confirme-son-leadership-dans-la-transformation-numerique-du-gabon/)).
 - ANINF's own directorates manage its SecBOM digital-asset mapping system; no outside vendor is named ([source, 2025-06-01](https://www.gabonreview.com/laninf-renforce-la-cybersecurite-nationale-avec-secbom/)).
 
+### Mauritius: 5 Leading
+
+Government staff built the payroll system, live in 2024, and run two more systems themselves; no contractor is named.
+
+- CISD says its Application Development Unit fully rolled out the Bad Weather Allowance System for the Ministry of Agro-Industry, with no contractor named ([source, 2024](https://cisd.govmu.org/Documents/Newsletter/Enewsletter%20issue%20No.6.pdf)).
+- CISD lists the Flight Clearance system among its 2024 releases, phases 1 to 3 live, with no contractor named ([source, 2024](https://cisd.govmu.org/Documents/Newsletter/Enewsletter%20issue%20No.6.pdf)).
+- CISD says the new Government payroll system was developed entirely in-house, with no supplier named ([source, 2024-07](https://cisd.govmu.org/Documents/Newsletter/Enewsletter%20issue%20No.6.pdf)).
+- CISD says its new Government payroll system was developed entirely in-house and went live in July 2024 ([source, 2024-07](https://cisd.govmu.org/Documents/Newsletter/Enewsletter%20issue%20No.6.pdf)).
+- The Central Information Systems Division's Application Development Unit says it designs, develops, deploys and maintains applications for various ministries and government departments on the GOC Cloud ([source, 2024](https://cisd.govmu.org/Pages/Application-Development.aspx)).
+- The Application Development Unit of the ministry's CISD says it fixes bugs and upgrades the applications it develops for ministries ([source, 2024](https://cisd.govmu.org/Pages/Application-Development.aspx)).
+
 ### Senegal: 5 Leading
 
 Government staff run, maintain or built three or more of its systems by 2026, no contractor named.
@@ -88,6 +99,17 @@ Government staff run, maintain or built three or more of its systems by 2026, no
 - The e-Government Authority designed Msaada AI at its own research centre and keeps improving it from users' feedback ([source, 2026-07](https://www.ega.go.tz/news/e-ga-yaendeleza-ubunifu-wa-mifumo-inayotumia-akili-unde-2)).
 - NeST is developed and maintained by the Public Procurement Regulatory Authority's own technical team ([source, 2026-09-25](https://thebusinesswiz.co.tz/2026/09/25/tanzanias-digital-procurement-system-cuts-processing-time-and-costs/)).
 - The e-Government Authority developed the M-Kilimo system with the Ministry of Agriculture ([source, 2026-08-04](https://dailynews.co.tz/ega-drives-digital-farming/)).
+
+### Uganda: 5 Leading
+
+The national IT authority built its own service desk, live in 2026, and staff run identity, court and key systems themselves.
+
+- NITA-U's own staff run UGPass and are developing a digital signature service on it ([source, 2026-09-16](https://www.newvision.co.ug/category/news/nita-u-moves-to-replace-paper-based-land-veri-NV_240761_092026)).
+- NITA-U operates the National Public Key Infrastructure at the National Data Centre ([source, 2026-08](https://nita.go.ug/sites/default/files/2026-08/PKI%20Audit%20TORs-%20Final%20-%2019-08-26.pdf)).
+- ECCMIS, the courts' case management system, was developed locally by Judiciary staff, who support it ([source, 2026-04-23](https://nilepost.co.ug/news/337016/justice-ssekaana-leads-judiciary-digital-push-as-eccmis-training-rolls-out-for-judicial-officers)).
+- The Ministry of ICT says NITA-U developed the UG Support service-desk platform over nearly a year and launched it on 5 March 2026, naming no contractor ([source, 2026-03-05](https://ict.go.ug/media/news/nita-u-launches-ug-support-platform-to-enhance-it-service-desk-operations)).
+- An opinion writer says the National Data Centre hosts government cloud, backup and disaster recovery services and that NITA-U records more than 300 applications for 100 entities; the figures are the writer's, dated by the 2026-10-10 publication ([source, 2026-10](https://www.newvision.co.ug/category/blogs/plan-now-for-infrastructure-to-power-ai-NV_242203_102026)).
+- NITA-U's executive director said NITA-U is in charge of Uganda's National Backbone Infrastructure and its operations, per the Monitor ([source, 2026-11-02](https://www.monitor.co.ug/uganda/news/national/questions-swirl-over-internet-deal-between-uganda-tanzania-5654914)).
 
 ### Zambia: 5 Leading
 
@@ -195,13 +217,6 @@ A government technology body runs systems for the rest of government by 2024; no
 - Public Digital says Madagascar's Digital Governance Unit, within the Ministry of Digital Development, is responsible for managing digital projects across the government's ministries and digitising public services, with a multidisciplinary team ([source, 2024-02](https://public.digital/pd-insights/blog/2024/02/show-the-thing-9-madagascar-public-services-one-stop-counter)).
 - UNDP's 2025 terms of reference say the Gendarmerie nationale's Fichier central, the secure register of judicial-police results, was designed and developed by gendarmerie technicians and is in place ([source, 2025-06-11](https://www.ungm.org/Public/Notice/269304)).
 
-### Mauritius: 3 Established
-
-A government technology body runs systems for the rest of government by 2024; no in-house build is known since 2023.
-
-- The Central Information Systems Division's Application Development Unit says it designs, develops, deploys and maintains applications for various ministries and government departments on the GOC Cloud ([source, 2024](https://cisd.govmu.org/Pages/Application-Development.aspx)).
-- The Application Development Unit of the ministry's CISD says it fixes bugs and upgrades the applications it develops for ministries ([source, 2024](https://cisd.govmu.org/Pages/Application-Development.aspx)).
-
 ### Mozambique: 3 Established
 
 A government technology body runs systems for the rest of government by 2026; no in-house build is known since 2023.
@@ -250,13 +265,6 @@ A government technology body runs systems for the rest of government by 2026; no
 
 - The Centre National de l'Informatique, a public establishment, states its missions under decree 2007-1359 include infogerance of national systems and rollout of e-Administration for the Administration; no event date is given, so the document's published date is used ([source, 2026-06-18](http://www.cni.tn/index.php/fr/layout-3/historique-2)).
 - The Centre National de l'Informatique states it manages the RNIA network and the government Intranet and is responsible for continuity of national applications through its backup centre; no event date is given, so the document's published date is used ([source, 2026-06-18](http://www.cni.tn/index.php/fr/layout-3/historique-2)).
-
-### Uganda: 3 Established
-
-The national IT authority ran a data exchange serving over 150 public bodies in 2026; no staff-built system live since October 2023 is known.
-
-- NITA-U manages UGHub, which connects the NIRA registry to more than 150 ministries, departments and agencies, per a NITA-U IT professional ([source, 2026-10-01](https://www.newvision.co.ug/category/news/nira-to-register-learners-correct-identity-er-NV_241639_102026)).
-- A NITA-U IT professional said UGHub is a national data integration platform managed by NITA-U, using infrastructure developed by NITA-U ([source, 2026-10-01](https://www.newvision.co.ug/category/news/nira-to-register-learners-correct-identity-er-NV_241639_102026)).
 
 ### Zimbabwe: 3 Established
 

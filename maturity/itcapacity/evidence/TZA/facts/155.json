@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-23-tza-ega-waziri-mkuu-azindua-govesb",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "Prime Minister Majaliwa praised e-GA's use of local experts to build government ICT systems and awarded 15 e-GA ICT officers who took part in building GovESB, on 23 June 2025.",
+   "as_of": "2025-06-23",
+   "date_precision": "day",
+   "system": "GovESB",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "e-GA is reported as having built GovESB, which more than 180 public institutions have joined to exchange data across government.",
+   "as_of": "2025-06-23",
+   "date_precision": "day",
+   "system": "GovESB",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GovESB",
+   "country_label": "Tanzania",
+   "class": "staff",
+   "platform": "government service bus",
+   "owner": "e-Government Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "Go-live date of GovESB not stated, so no built-and-live fact."
+}

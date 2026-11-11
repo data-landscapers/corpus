@@ -1,0 +1,46 @@
+{
+ "slug": "2026-03-09-uga-nita-u-ug-support-platform",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "The Ministry of ICT says NITA-U's IT Service Desk receives, tracks and resolves IT incidents for institutions using government digital platforms, now through its UG Support platform.",
+   "as_of": "2026-03-05",
+   "date_precision": "day",
+   "system": "UG Support",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "The Ministry of ICT describes NITA-U as its implementing agency that coordinates and provides technical support for government IT services and infrastructure.",
+   "as_of": "2026-03-09",
+   "date_precision": "day",
+   "system": "NITA-U",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "The Ministry of ICT says NITA-U developed the UG Support service-desk platform over nearly a year and launched it on 5 March 2026, naming no contractor.",
+   "as_of": "2026-03-05",
+   "date_precision": "day",
+   "system": "UG Support",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "UG Support",
+   "country_label": "Uganda",
+   "class": "staff",
+   "platform": "",
+   "owner": "NITA-U",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,76 @@
+{
+ "slug": "2025-04-04-mus-cisd-enewsletter-issue-6",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "inhouse",
+   "value": "yes",
+   "fact": "CISD says it maintains 32 application systems and runs email administration, network administration and database administration for the Civil Service.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "CISD application systems",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "CISD, a division of the Ministry of Information Technology, Communication and Innovation, says it develops and runs application systems and services for Ministries and Departments.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Central Information Systems Division",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "built",
+   "value": "live",
+   "fact": "CISD says its new Government payroll system was developed entirely in-house and went live in July 2024.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "New Government payroll system",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "own",
+   "value": "entire",
+   "fact": "CISD says the new Government payroll system was developed entirely in-house, with no supplier named.",
+   "as_of": "2024-07",
+   "date_precision": "month",
+   "system": "New Government payroll system",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "own",
+   "value": "entire",
+   "fact": "CISD says its Application Development Unit fully rolled out the Bad Weather Allowance System for the Ministry of Agro-Industry, with no contractor named.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Bad Weather Allowance system",
+   "class": "staff"
+  },
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "own",
+   "value": "entire",
+   "fact": "CISD lists the Flight Clearance system among its 2024 releases, phases 1 to 3 live, with no contractor named.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Flight Clearance system",
+   "class": "staff"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government email (Twake Mail)",
+   "country_label": "Government Email Solution",
+   "class": "other",
+   "platform": "Twake Mail",
+   "owner": "CISD",
+   "tiers": ""
+  }
+ ],
+ "note": "Email was awarded to Mauritius Telecom with Lingora, so not in-house."
+}

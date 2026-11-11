@@ -3,17 +3,17 @@
  "cells": [
   {
    "sub_indicator": "inhouse",
-   "stage": "3",
+   "stage": "5",
    "inhouse": "yes",
    "agency": "operating",
-   "built": "",
-   "own": "",
+   "built": "live",
+   "own": "entire",
    "cap": "",
    "flags": "",
-   "stage_sources": "MUS-001;MUS-002",
-   "gaps": "No source found says a system built by government staff went live since October 2023.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py.",
-   "as_at": "2026-10-17"
+   "stage_sources": "MUS-009;MUS-010;MUS-008;MUS-007;MUS-001;MUS-002",
+   "gaps": "",
+   "note": "Counted from the four questions by study-ladder-itcapacity.py. CISD built a new payroll system wholly in-house, live from July 2024, and its own unit released the Bad Weather Allowance and Flight Clearance systems with no contractor named.",
+   "as_at": "2026-11-11"
   }
  ]
 }

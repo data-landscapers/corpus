@@ -1,5 +1,5 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-UGA,inhouse,inhouse,coverage,yes,2026-11-02,UGA-001;UGA-003;UGA-005;UGA-008;UGA-010;UGA-012;UGA-017;UGA-018;UGA-022;UGA-023;UGA-032,UGA-029=outsourced;UGA-031=outsourced,
-UGA,inhouse,agency,coverage,operating,2026-10,UGA-002;UGA-004;UGA-006;UGA-007;UGA-009;UGA-011;UGA-013;UGA-014;UGA-015;UGA-016;UGA-019;UGA-020;UGA-021;UGA-024;UGA-030,,
-UGA,inhouse,built,coverage,,,,,nothing found
+UGA,inhouse,inhouse,coverage,yes,2026-11-02,UGA-001;UGA-003;UGA-005;UGA-008;UGA-010;UGA-012;UGA-017;UGA-018;UGA-022;UGA-023;UGA-032;UGA-033,UGA-029=outsourced;UGA-031=outsourced,
+UGA,inhouse,agency,coverage,operating,2026-10,UGA-002;UGA-004;UGA-006;UGA-007;UGA-009;UGA-011;UGA-013;UGA-014;UGA-015;UGA-016;UGA-019;UGA-020;UGA-021;UGA-024;UGA-030;UGA-034,,
+UGA,inhouse,built,coverage,live,2026-03-05,UGA-035,,
 UGA,inhouse,own,coverage,entire,2026-09-16,UGA-025;UGA-026;UGA-027;UGA-028,,

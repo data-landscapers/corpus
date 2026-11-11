@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-nigeria-hybrid-cloud-postcode-database",
+ "facts": [
+  {
+   "sub_indicator": "inhouse",
+   "aspect": "agency",
+   "value": "operating",
+   "fact": "NIPOST says government-owned Galaxy Backbone hosts and manages the core NDAPS postcode database for it.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Galaxy Backbone",
+   "class": "staff"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

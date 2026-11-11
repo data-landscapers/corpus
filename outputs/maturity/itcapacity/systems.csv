@@ -266,6 +266,7 @@ MUS,centralised online CSA content filtering service,MUS,other,,ICTA,,2025-03-24
 MUS,CHiLi eKYC portal,MUS,other,,Mahanagar Telephone Mauritius Ltd,,2024-01-01 eKYC Steps for Mauritian Citizen (SIM Re-Registration)
 MUS,Price Monitoring and Control Application,Price Monitoring and Control Application,other,,Mauritius Research and Innovation Council; Ministry of Commerce and Consumer Protection,,2025-04-25-digital-government-transformation-strategy-progress-update
 MUS,KaliteNet,KaliteNet,other,web and mobile app,ICTA,,2026-10-17-mus-a-crowdsourced-speed-test-can-map-mauritius-it-cannot-yet-speak-for-ev
+MUS,Government email (Twake Mail),Government Email Solution,other,Twake Mail,CISD,,2025-04-04-mus-cisd-enewsletter-issue-6
 MWI,ITAS II,Integrated Tax Administration System II,staff,,Malawi Revenue Authority,,2026-10-12-mwi-mra-ataf-tax-administration-data-improvements
 MWI,Government Wide Area Network (GWAN),GWAN,other,,"Department of eGovernment, Ministry of ICT",,2026-03-06-dmap-accelerates-digital-transformation-ai-public-service
 MWI,Bomalathu eServices Portal,Bomalathu eServices Portal,other,,"Government of Malawi, via DMAP",,2026-03-06-dmap-accelerates-digital-transformation-ai-public-service
@@ -416,6 +417,8 @@ TZA,NeST,Tanzania,staff,e-procurement,Public Procurement Regulatory Authority,,2
 TZA,GoVESB,GoVESB,staff,government service bus,e-GA,national,2024-07-12-tza-e-ga-yajipanga-kuongeza-ubunifu-katika-mifumo-ya-tehama-ya-taasisi-za
 TZA,GovESB,GovESB,staff,,e-GA,,2023-12-22-tza-mifumo-ya-tehama-ya-taasisi-za-umma-kubadilishana-taarifa-kidijitali
 TZA,GovESB,Tanzania,staff,,e-GA,,2026-10-28-tza-tanzanias-push-toward-paperless-public-services-hits-heights-in-six-do
+TZA,GovESB,Tanzania,staff,government service bus,e-Government Authority,,2025-06-23-tza-ega-waziri-mkuu-azindua-govesb
+TZA,e-Office,e-Office,staff,,e-Government Agency (eGA),,2024-03-01-tza-mawasiliano-completed-projects-nictbb-rcip
 UGA,UGHub,UGHub,staff,,NITA-U,,2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature
 UGA,UGPass,UGPass,staff,,NITA-U,,2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature
 UGA,National Land Information System,National Land Information System,other,,"Ministry of Lands, Housing and Urban Development",,2026-09-17-uga-newvision-nitau-ughub-ugpass-land-digital-signature
@@ -463,6 +466,7 @@ UGA,Electronic Government Procurement,E-GP,other,,,,2024-03-01-moict-digital-tra
 UGA,ECCMIS,Electronic Court Case Management Information System,other,,Judiciary of Uganda,42 court stations in and around Kampala,2026-04-23-uga-nilepost-eccmis-training-42-courts
 UGA,eGP 2.0,eGP 2.0,other,online procurement platform,Ministry of Finance and PPDA,,2026-08-05-uga-monitor-firms-lose-out-egp-online
 UGA,National Backbone Infrastructure (NBI),Uganda,other,fibre,NITA-U (managed by Soliton Telmec),,2025-04-03-uga-utel-to-take-on-operationalisation-of-national-backbone-infrastructure
+UGA,UG Support,Uganda,staff,,NITA-U,,2026-03-09-uga-nita-u-ug-support-platform
 ZAF,Microsoft Sentinel TDR solution,Road Accident Fund,staff,Microsoft Sentinel,Road Accident Fund,,2026-09-14-top-ict-tenders-sita-activity-surge-itweb
 ZAF,SAPS incident management solution,SAPS,staff,,SAPS,,2026-09-14-top-ict-tenders-sita-activity-surge-itweb
 ZAF,Votaquotes e-procurement,Electoral Commission,other,,Electoral Commission,,2026-09-14-top-ict-tenders-sita-activity-surge-itweb
