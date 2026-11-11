@@ -1,0 +1,14 @@
+{
+  "slug": "2018-06-01-rwanda-digital-government-strategy-and-governance",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "announced", "fact": "RISA's June 2018 document says the Government of Rwanda 'issued' the Smart Rwanda Master Plan (SRMP) in October 2015, with the vision of a knowledge-based society; it names no adopting act or body, so the source's verb is 'issued' only.", "as_of": "2015-10", "date_precision": "month", "system": "Smart Rwanda Master Plan (SRMP)", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Smart Rwanda Master Plan (SRMP)", "country_label": "Rwanda", "class": "national", "platform": "", "owner": "Government of Rwanda", "tiers": ""},
+    {"system": "Rwanda Digital Government Strategy and Governance (Digital Government Platform)", "country_label": "Rwanda", "class": "government", "platform": "Digital Government Platform", "owner": "RISA", "tiers": ""}
+  ],
+  "note": "The document is RISA's digital government platform strategy (class government, 2018); it carries no fact on its own account. The only national-class statement is the SRMP's issue in October 2015.",
+  "claims": {
+    "gtmi-f213b88e2b": "nothing: the 2018 document is a digital government strategy (class government), not assessed"
+  }
+}

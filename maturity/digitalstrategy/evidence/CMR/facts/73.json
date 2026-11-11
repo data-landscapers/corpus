@@ -1,0 +1,12 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [
+    {"system": "Cameroon Digital Strategic Plan 2020", "country_label": "Cameroon digital strategic plan 2020", "class": "national", "platform": "", "owner": "MINPOSTEL", "tiers": "national"}
+  ],
+  "note": "The strategy line (in draft) is held already; the whole-of-government line is not assessed.",
+  "claims": {
+    "gtmi-6d4f264398": "nothing: held as CMR-047",
+    "gtmi-819d9f1f82": "nothing: whole-of-government approach to the state's own digitalisation, not assessed"
+  }
+}

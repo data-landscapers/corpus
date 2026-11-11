@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "The World Bank's GovTech record lists no strategy for Sudan, but SDN-001 holds a primary stating a digital transformation strategy was announced in 2025.",
+  "claims": {
+    "gtmi-212a898d29": "nothing: contradicted by SDN-001",
+    "gtmi-a92a95f29f": "nothing: asks about a whole-of-government approach, not the strategy"
+  }
+}

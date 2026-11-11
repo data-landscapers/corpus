@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "Database lines only; the strategy line links an e-government strategy and the other line names no strategy.",
+  "claims": {
+    "gtmi-54d7f6633f": "nothing: link is the e-government strategy (government class, not assessed)",
+    "gtmi-eeb8ef0b28": "nothing: public-sector whole-of-government approach, unnamed; not the national strategy"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The government told the World Bank's GovTech survey (2025 round) that Burundi has a GovTech / digital transformation strategy, old and to be updated, dated 2023 and linked to the digital secretariat's page on its plan directeur de digitalisation; 2023 is the year the line gives.", "as_of": "2023", "date_precision": "year", "system": "Plan directeur de digitalisation", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Plan directeur de digitalisation", "country_label": "Plan directeur de digitalisation", "class": "national", "platform": "", "owner": "SETIC", "tiers": "national"}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-709a8e1552": "fact",
+    "gtmi-4446d58c32": "nothing: whole-of-government approach to the state's own digitalisation, not assessed; link is a ministry home page"
+  }
+}

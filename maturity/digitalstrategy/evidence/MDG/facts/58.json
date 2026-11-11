@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "Database lines only; the strategy line links a public-services vision page and the other line names no strategy.",
+  "claims": {
+    "gtmi-bad6d23503": "nothing: link is a public-services vision page (government class, not assessed)",
+    "gtmi-bd4f344a6d": "nothing: public-sector whole-of-government approach, unnamed, home-page link; not the national strategy"
+  }
+}

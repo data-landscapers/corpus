@@ -1,0 +1,14 @@
+{
+  "slug": "2024-10-11-rwa-minecofin-pfm-digital-transformation-strategy",
+  "facts": [],
+  "systems": [
+    {"system": "PFM Digital Transformation Strategy 2024-2029", "country_label": "Rwanda", "class": "ministry-plan", "platform": "", "owner": "MINECOFIN", "tiers": ""},
+    {"system": "National Strategy for Transformation 2 (NST2)", "country_label": "Rwanda", "class": "development-plan", "platform": "", "owner": "Government of Rwanda", "tiers": ""},
+    {"system": "PFM Sector Strategic Plan 2024-2029", "country_label": "Rwanda", "class": "ministry-plan", "platform": "", "owner": "MINECOFIN", "tiers": ""},
+    {"system": "Fiscal Data and AI Strategy", "country_label": "Rwanda", "class": "thematic", "platform": "", "owner": "MINECOFIN", "tiers": ""}
+  ],
+  "note": "A MINECOFIN strategy for public financial management only (ministry-plan); it names NST2 as holding digital transformation as a priority area but states nothing on a national digital strategy.",
+  "claims": {
+    "gtmi-82f8a4f3d3": "nothing: asks about a whole-of-government approach; the primary is a ministry-plan"
+  }
+}

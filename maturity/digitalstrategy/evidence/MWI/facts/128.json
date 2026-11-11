@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "Database lines only; the strategy claim is already held and the whole-of-government line names no strategy.",
+  "claims": {
+    "gtmi-99d4b825a9": "nothing: held as MWI-027",
+    "gtmi-7e01bdc1f4": "nothing: public-sector whole-of-government approach, unnamed; not the national strategy"
+  }
+}

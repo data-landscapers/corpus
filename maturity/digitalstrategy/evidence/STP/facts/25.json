@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The World Bank's GovTech dataset (2025 round) lists a GovTech or digital transformation strategy for Sao Tome and Principe, marked old and to be updated and dated 2020, linking a document on the national innovation institute's site (publisher-assessed); no adopting act is named.", "as_of": "2020", "date_precision": "year", "system": "Digital transformation strategy (2020)", "class": "national"},
+    {"sub_indicator": "national", "aspect": "text", "value": "public", "fact": "The World Bank's GovTech dataset (2025 round) links the 2020 strategy to a document at inic.gov.st, an official site; the as-of is the 2020 year given.", "as_of": "2020", "date_precision": "year", "system": "Digital transformation strategy (2020)", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Digital transformation strategy (2020)", "country_label": "Sao Tome and Principe", "class": "national", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-562dc409ea": "fact",
+    "gtmi-d34b928dd2": "nothing: asks about a whole-of-government approach, not the strategy"
+  }
+}

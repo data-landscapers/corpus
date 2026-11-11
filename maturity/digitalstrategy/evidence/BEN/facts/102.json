@@ -1,0 +1,11 @@
+{
+  "slug": "2022-01-01-ben-numerique-smart-gouv-phase-2",
+  "facts": [],
+  "systems": [
+    {"system": "SMART GOUV (Phase 2)", "country_label": "Administration Intelligente ou SMART GOUV (Phase 2)", "class": "programme", "platform": "", "owner": "Ministry of Digital", "tiers": "national; a project of the PAG 2021-2026"}
+  ],
+  "note": "The page lists the components of a state-administration project and states no national digital strategy.",
+  "claims": {
+    "gtmi-f7bd18a19a": "nothing: whole-of-government approach to the state's own digitalisation, not assessed; the page is a project page"
+  }
+}

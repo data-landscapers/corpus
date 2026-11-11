@@ -1,0 +1,19 @@
+{
+  "slug": "2022-06-01-mrt-mtnima-agenda-numerique-2022-2025",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "text", "value": "public", "fact": "The ministry's own document of June 2022, hosted on the ministry's site, sets out the Agenda National de Transformation Numérique 2022-2025 in full, with vision, objectives, roadmap and project sheets.", "as_of": "2022-06", "date_precision": "month", "system": "Agenda National de Transformation Numérique 2022-2025", "class": "national"},
+    {"sub_indicator": "national", "aspect": "period", "value": "to:2025", "fact": "The document names the agenda 2022-2025, with global objectives to 2025 (internet use and the digital sector's size doubled, mobile payment tripled).", "as_of": "2022-06", "date_precision": "month", "system": "Agenda National de Transformation Numérique 2022-2025", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "costed", "fact": "The agenda is a plan of 25 initiatives and 77 projects with a quarterly calendar for 2022-2026 and a stated global investment of 400M USD (353M EUR in its funding table), with a cost and funding mode on each project sheet.", "as_of": "2022-06", "date_precision": "month", "system": "Agenda National de Transformation Numérique 2022-2025", "class": "national"},
+    {"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "The document states that the State has set up a Haut Conseil du Numérique to follow the execution of the agenda, with its technical support committee as the monitoring and evaluation body.", "as_of": "2022-06", "date_precision": "month", "system": "Agenda National de Transformation Numérique 2022-2025", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Agenda National de Transformation Numérique 2022-2025", "country_label": "Mauritania", "class": "national", "platform": "", "owner": "Ministère de la Transformation numérique, de l'Innovation et de la Modernisation de l'Administration", "tiers": ""},
+    {"system": "Stratégie Nationale de Modernisation de l'Administration et des TICs 2012-2016", "country_label": "Mauritania", "class": "", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Stratégie nationale de promotion du haut débit et de l'accès universel", "country_label": "Mauritania", "class": "thematic", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Stratégie eSanté 2017-2022", "country_label": "Mauritania", "class": "thematic", "platform": "", "owner": "Ministère de la Santé", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-72a58bfc87": "fact"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-10-africa-technology-policy-tracker-2026-11-10",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "Carnegie's Africa Technology Policy Tracker lists the Kenya Digital Economy Blueprint as a policy of 2019 covering infrastructure, platforms, innovation and skills; it uses no word of approval, and the listed year 2019 is used.", "as_of": "2019", "date_precision": "year", "system": "Kenya Digital Economy Blueprint", "class": "national"},
+    {"sub_indicator": "national", "aspect": "text", "value": "public", "fact": "Carnegie's tracker links the Kenya Digital Economy Blueprint to a PDF on the ICT ministry's site, ict.go.ke, dated 2019 in the link.", "as_of": "2019", "date_precision": "year", "system": "Kenya Digital Economy Blueprint", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Kenya Digital Economy Blueprint", "country_label": "Kenya", "class": "national", "platform": "", "owner": "ICT ministry", "tiers": ""}
+  ],
+  "note": ""
+}

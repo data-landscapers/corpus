@@ -1,0 +1,15 @@
+{
+  "slug": "2024-09-18-maroc-digital-2030-plaquette-institutionnelle-en",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "period", "value": "to:2030", "fact": "The ministry's brochure presents the National Strategy Digital Morocco 2030 with objectives and targets to 2030, including 240,000 direct jobs and 100 billion MAD of GDP contribution by 2030; it states no adoption date, so the brochure's published date of 2024-09-18 is used.", "as_of": "2024-09-18", "date_precision": "day", "system": "Digital Morocco 2030", "class": "national"},
+    {"sub_indicator": "national", "aspect": "plan", "value": "actions", "fact": "The brochure sets key measures with dated targets for 2026 and 2030 on its axes and accelerators (for example 1,800 localities covered by the National Broadband Plan by 2026 and 6,300 administrative sites on fibre by 2026) and states no cost; its published date of 2024-09-18 is used.", "as_of": "2024-09-18", "date_precision": "day", "system": "Digital Morocco 2030", "class": "national"}
+  ],
+  "systems": [
+    {"system": "Digital Morocco 2030", "country_label": "Morocco", "class": "national", "platform": "", "owner": "Ministry of Digital Transition and Administration Reform", "tiers": ""},
+    {"system": "Plan National du Haut Debit 2", "country_label": "Morocco", "class": "thematic", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-2cac6c2506": "fact"
+  }
+}

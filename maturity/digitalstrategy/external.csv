@@ -1,0 +1,327 @@
+claim,source,survey_year,iso3,item,question,status,name,year,fit,outcome,slug,row_ids,note
+gtmi-5333b73e90,gtmi,2022,AGO,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2019,same,superseded,,,the 2025 round answers it
+gtmi-86e3f8083b,gtmi,2025,AGO,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2024,same,nothing,2024-02-10-ago-governo-pada-consulta-publica-ima,,"the link is a news item on a digital acceleration project's public consultation, not a strategy"
+gtmi-be4d0098a9,gtmi,2020,AGO,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2011,same,superseded,,,the 2025 round answers it
+gtmi-6479cec476,gtmi,2025,AGO,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"whole-of-government approach to the state's own digitalisation, not assessed; link is an agency home page"
+gtmi-6542c484f6,gtmi,2022,AGO,I-36,Is there a whole-of-government approach to public sector digital transformation?,2 Yes (Institutionalized),,,partial,superseded,,,the 2025 round answers it
+gtmi-8e840cb1fb,gtmi,2020,AGO,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,superseded,,,the 2025 round answers it
+gtmi-709a8e1552,gtmi,2025,BDI,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2023,same,fact,2025-12-18-worldbank-govtech-dataset-dec2025,BDI-004,
+gtmi-d7bf0d1646,gtmi,2022,BDI,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2010,same,superseded,,,the 2025 round answers it
+gtmi-f7d05d9e14,gtmi,2020,BDI,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2010,same,superseded,,,the 2025 round answers it
+gtmi-4446d58c32,gtmi,2025,BDI,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"whole-of-government approach to the state's own digitalisation, not assessed; link is a ministry home page"
+gtmi-4595bd9497,gtmi,2022,BDI,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-758a58039d,gtmi,2020,BDI,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-02f44067a1,gtmi,2022,BEN,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2016,same,superseded,,,the 2025 round answers it
+gtmi-93829e3a16,gtmi,2025,BEN,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2016,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"the link is the digital ministry's publications listing page, not the strategy"
+gtmi-ba4ce1ea94,gtmi,2020,BEN,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2016,same,superseded,,,the 2025 round answers it
+gtmi-25fef2502f,gtmi,2020,BEN,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-b3dcc168d4,gtmi,2022,BEN,I-36,Is there a whole-of-government approach to public sector digital transformation?,2 Yes (Institutionalized),,,partial,superseded,,,the 2025 round answers it
+gtmi-f7bd18a19a,gtmi,2025,BEN,I-36,Is there a whole-of-government approach to public sector digital transformation?,2 Yes (Institutionalized),,,partial,nothing,2022-01-01-ben-numerique-smart-gouv-phase-2,,"whole-of-government approach to the state's own digitalisation, not assessed; the page is a project page"
+gtmi-9be0053638,gtmi,2020,BFA,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2018,same,superseded,,,the 2025 round answers it
+gtmi-ba1c03aebe,gtmi,2025,BFA,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2018,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BFA-013
+gtmi-c00b1da4d6,gtmi,2022,BFA,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2018,same,superseded,,,the 2025 round answers it
+gtmi-ad4573aaea,gtmi,2020,BFA,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-c9748dd38e,gtmi,2022,BFA,I-36,Is there a whole-of-government approach to public sector digital transformation?,2 Yes (Institutionalized),,,partial,superseded,,,the 2025 round answers it
+gtmi-f9dba183cd,gtmi,2025,BFA,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"whole-of-government approach to the state's own digitalisation, not assessed"
+gtmi-658deb1edd,gtmi,2020,BWA,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2015,same,superseded,,,the 2025 round answers it
+gtmi-bc122f570b,gtmi,2022,BWA,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2020,same,superseded,,,the 2025 round answers it
+gtmi-ff15ddbf6b,gtmi,2025,BWA,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2020,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BWA-004
+gtmi-1a610e418e,gtmi,2020,BWA,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-63fdb26c9c,gtmi,2022,BWA,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ffffa6d745,gtmi,2025,BWA,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"whole-of-government approach to the state's own digitalisation, not assessed"
+gtmi-073864ba17,gtmi,2025,CAF,I-35,Is there a GovTech / Digital Transformation strategy?,1 Planned / In draft,,2026,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CAF-004
+gtmi-2ad90aeb31,gtmi,2022,CAF,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-8aa6821fa2,gtmi,2020,CAF,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-353086b8a8,gtmi,2025,CAF,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"whole-of-government approach to the state's own digitalisation, not assessed"
+gtmi-69dccf3491,gtmi,2020,CAF,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-d4c4276dcf,gtmi,2022,CAF,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-18fc2776dd,gtmi,2020,CIV,I-35,Is there a GovTech / Digital Transformation strategy?,1 Planned / In draft,,2013,same,superseded,,,the 2025 round answers it
+gtmi-ddf74725e5,gtmi,2022,CIV,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2021,same,superseded,,,the 2025 round answers it
+gtmi-f7a9365e1a,gtmi,2025,CIV,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2021,same,read-before,2022-01-26-civ-strategie-nationale-de-developpement-du-numerique-en-cote-d-ivoire-a-l,,"reading list 102, already read for this study"
+gtmi-810bf09cd8,gtmi,2020,CIV,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-c96fa14899,gtmi,2022,CIV,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-c9cbf790ea,gtmi,2025,CIV,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"whole-of-government approach to the state's own digitalisation, not assessed; link is a ministry home page"
+gtmi-6d4f264398,gtmi,2025,CMR,I-35,Is there a GovTech / Digital Transformation strategy?,1 Planned / In draft,,2026,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CMR-047
+gtmi-ad0428ba53,gtmi,2022,CMR,I-35,Is there a GovTech / Digital Transformation strategy?,1 Planned / In draft,,2020,same,superseded,,,the 2025 round answers it
+gtmi-e474b8b21b,gtmi,2020,CMR,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2016,same,superseded,,,the 2025 round answers it
+gtmi-714f1ebd8a,gtmi,2022,CMR,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-819d9f1f82,gtmi,2025,CMR,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"whole-of-government approach to the state's own digitalisation, not assessed"
+gtmi-b323a3639b,gtmi,2020,CMR,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-032cf05a23,gtmi,2020,COD,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2019,same,superseded,,,the 2025 round answers it
+gtmi-2fc48aefd5,gtmi,2025,COD,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2019,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as COD-062
+gtmi-bf0c24c0c1,gtmi,2022,COD,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2019,same,superseded,,,the 2025 round answers it
+gtmi-5e263eff22,gtmi,2025,COD,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"whole-of-government approach to the state's own digitalisation, not assessed"
+gtmi-8e7ee2bce1,gtmi,2022,COD,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-e7a3a84e86,gtmi,2020,COD,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-18ad68e591,gtmi,2020,COG,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2019,same,superseded,,,the 2025 round answers it
+gtmi-4ff4e7c437,gtmi,2025,COG,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2019,same,read-before,2019-07-04-jo-2019-27-decret-2019-150-strategie-nationale-economie-numerique,,"reading list 49, already read for this study"
+gtmi-b0c997d668,gtmi,2022,COG,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2019,same,superseded,,,the 2025 round answers it
+gtmi-0b862496d5,gtmi,2025,COG,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"whole-of-government approach to the state's own digitalisation, not assessed"
+gtmi-7a35911181,gtmi,2020,COG,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-a9dbfe880e,gtmi,2022,COG,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-211715f170,gtmi,2022,COM,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-520c9599f6,gtmi,2025,COM,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2018,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as COM-006
+gtmi-778999996b,gtmi,2020,COM,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-03b57ec7d1,gtmi,2025,COM,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"whole-of-government approach to the state's own digitalisation, not assessed"
+gtmi-202db74f2e,gtmi,2020,COM,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-bdbd4131b0,gtmi,2022,COM,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,superseded,,,the 2025 round answers it
+gtmi-5f4ddfc33c,gtmi,2025,CPV,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2023,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"the link is a state IT agency's e-government page citing a sustainable development plan, not a digital strategy"
+gtmi-7328ffd14b,gtmi,2022,CPV,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2021,same,superseded,,,the 2025 round answers it
+gtmi-a2f7765017,gtmi,2020,CPV,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2019,same,superseded,,,the 2025 round answers it
+gtmi-6049b4f71b,gtmi,2025,CPV,I-36,Is there a whole-of-government approach to public sector digital transformation?,2 Yes (Institutionalized),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"whole-of-government approach to the state's own digitalisation, not assessed"
+gtmi-d1fc50fa6c,gtmi,2020,CPV,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-fcd55342ae,gtmi,2022,CPV,I-36,Is there a whole-of-government approach to public sector digital transformation?,2 Yes (Institutionalized),,,partial,superseded,,,the 2025 round answers it
+gtmi-3a2b818e4e,gtmi,2022,DJI,I-35,Is there a GovTech / Digital Transformation strategy?,1 Planned / In draft,,2022,same,superseded,,,the 2025 round answers it
+gtmi-ab4acce3cc,gtmi,2025,DJI,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as DJI-001
+gtmi-c54cf042b0,gtmi,2020,DJI,I-35,Is there a GovTech / Digital Transformation strategy?,1 Planned / In draft,,2019,same,superseded,,,the 2025 round answers it
+gtmi-9f8979564d,gtmi,2020,DJI,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ca3ccf7593,gtmi,2025,DJI,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"whole-of-government approach to the state's own digitalisation, not assessed"
+gtmi-cb81540aa3,gtmi,2022,DJI,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,superseded,,,the 2025 round answers it
+gtmi-4d01d7295b,gtmi,2022,DZA,I-35,Is there a GovTech / Digital Transformation strategy?,1 Planned / In draft,,2021,same,superseded,,,the 2025 round answers it
+gtmi-9dcf65bab3,gtmi,2020,DZA,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2008,same,superseded,,,the 2025 round answers it
+gtmi-c6b49f235d,gtmi,2025,DZA,I-35,Is there a GovTech / Digital Transformation strategy?,1 Planned / In draft,,2026,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by DZA-052
+gtmi-2ad7e926eb,gtmi,2020,DZA,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-8a65910e6c,gtmi,2022,DZA,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,superseded,,,the 2025 round answers it
+gtmi-d27ad77fcf,gtmi,2025,DZA,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"whole-of-government approach to the state's own digitalisation, not assessed"
+gtmi-0820242cf9,gtmi,2022,EGY,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2018,same,superseded,,,the 2025 round answers it
+gtmi-4c8bfd6287,gtmi,2025,EGY,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2022,same,nothing,2026-01-01-egy-mcit-ict-strategy-page-publications-en,,held as EGY-002; the page itself gives Digital Egypt no adoption date
+gtmi-5382a23853,gtmi,2020,EGY,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2012,same,superseded,,,the 2025 round answers it
+gtmi-1d4369bd9f,gtmi,2022,EGY,I-36,Is there a whole-of-government approach to public sector digital transformation?,2 Yes (Institutionalized),,,partial,superseded,,,the 2025 round answers it
+gtmi-508b4e3dbe,gtmi,2025,EGY,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,nothing,2026-01-01-egy-mcit-ict-strategy-page-publications-en,,"whole-of-government approach to the state's own digitalisation, not assessed"
+gtmi-5c110f66d3,gtmi,2020,EGY,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-58e7182363,gtmi,2022,ERI,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-896978882b,gtmi,2020,ERI,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-8dc38839c8,gtmi,2025,ERI,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ERI-001
+gtmi-16d2ef84cc,gtmi,2020,ERI,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ba36a782c8,gtmi,2022,ERI,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-d670a4c993,gtmi,2025,ERI,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"whole-of-government approach to the state's own digitalisation, not assessed"
+gtmi-55cfdb2b0b,gtmi,2020,ETH,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2021,same,superseded,,,the 2025 round answers it
+gtmi-b713bbb916,gtmi,2022,ETH,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2021,same,superseded,,,the 2025 round answers it
+gtmi-c1c2789fc3,gtmi,2025,ETH,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2025,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ETH-010
+gtmi-b5a7f6f8d9,gtmi,2025,ETH,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"whole-of-government approach to the state's own digitalisation, not assessed"
+gtmi-b8f9b336ad,gtmi,2022,ETH,I-36,Is there a whole-of-government approach to public sector digital transformation?,2 Yes (Institutionalized),,,partial,superseded,,,the 2025 round answers it
+gtmi-c65c8a46b8,gtmi,2020,ETH,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-1ff0546f3b,gtmi,2025,GAB,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2025,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as GAB-001
+gtmi-9f0dc4e7fb,gtmi,2020,GAB,I-35,Is there a GovTech / Digital Transformation strategy?,1 Planned / In draft,,2019,same,superseded,,,the 2025 round answers it
+gtmi-f95f41aa72,gtmi,2022,GAB,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-1747ae816c,gtmi,2020,GAB,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-672b1fe79f,gtmi,2025,GAB,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"whole-of-government approach to the state's own digitalisation, not assessed"
+gtmi-8f21c4744a,gtmi,2022,GAB,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-48fb8d5511,gtmi,2022,GHA,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2003,same,superseded,,,the 2025 round answers it
+gtmi-6046bfedf7,gtmi,2020,GHA,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2003,same,superseded,,,the 2025 round answers it
+gtmi-ab19a07fec,gtmi,2025,GHA,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2024,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as GHA-002
+gtmi-dc09a1f625,gtmi,2025,GHA,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"public-sector whole-of-government approach, unnamed, home-page link; not the national strategy"
+gtmi-fc3e30f72f,gtmi,2020,GHA,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ff37f0b2ad,gtmi,2022,GHA,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-91067a6d34,gtmi,2025,GIN,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2023,same,read-before,2024-06-11-strategie-nationale-digitalisation-guinee-digitale-2023-2027,,"reading list 28, already read for this study"
+gtmi-998b76ad48,gtmi,2020,GIN,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2016,same,superseded,,,the 2025 round answers it
+gtmi-be91fe7f0c,gtmi,2022,GIN,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-0274481e7d,gtmi,2020,GIN,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-0ca2016be6,gtmi,2025,GIN,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,read-before,2024-06-11-strategie-nationale-digitalisation-guinee-digitale-2023-2027,,"reading list 28, already read for this study"
+gtmi-7ae00f63b6,gtmi,2022,GIN,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-05fcfd6297,gtmi,2020,GMB,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2018,same,superseded,,,the 2025 round answers it
+gtmi-54d7f6633f,gtmi,2025,GMB,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2020,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the e-government strategy (government class, not assessed)"
+gtmi-66c11720cd,gtmi,2022,GMB,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2020,same,superseded,,,the 2025 round answers it
+gtmi-6cd3489a1d,gtmi,2020,GMB,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ecbd3fde00,gtmi,2022,GMB,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-eeb8ef0b28,gtmi,2025,GMB,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"public-sector whole-of-government approach, unnamed; not the national strategy"
+gtmi-591d3722d1,gtmi,2020,GNB,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2015,same,superseded,,,the 2025 round answers it
+gtmi-c2211961d0,gtmi,2025,GNB,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2025,same,read-before,2025-02-04 Digital Transformation Project in Guinea-Bissau with UNU-EGOV & UNDP,,"reading list 14, already read for this study"
+gtmi-fbef205476,gtmi,2022,GNB,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2015,same,superseded,,,the 2025 round answers it
+gtmi-0857c4a3d4,gtmi,2022,GNB,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-4e170184cc,gtmi,2020,GNB,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-cc8d4cb0d9,gtmi,2025,GNB,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"public-sector whole-of-government approach, unnamed; not the national strategy"
+gtmi-08279d2e4f,gtmi,2025,GNQ,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-5d59096bc7,gtmi,2022,GNQ,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-9ccdf7b9fe,gtmi,2020,GNQ,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-4598f7f37d,gtmi,2025,GNQ,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"public-sector whole-of-government approach, unnamed; not the national strategy"
+gtmi-bd4584b079,gtmi,2020,GNQ,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-e77311d23c,gtmi,2022,GNQ,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+aftech-27eadc01dd,aftech,,KEN,digital economy; cybersecurity; e-commerce; payments; innovation; startups; tech hubs; personal data; emerging technologies; artificial intelligence,"Digital Infrastructure, Digital Platforms, Digital Innovation, Digital Skills / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Financial Services, Basic Skills, Advanced Skills, Digital Entrepreneurship, Innovation Hubs",Policy,Kenya Digital Economy Blueprint,2019,partial;partial;same;same;same;same;same;same,fact,2026-11-10-africa-technology-policy-tracker-2026-11-10,KEN-173;KEN-174,
+gtmi-3420ef5d58,gtmi,2022,KEN,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2008,same,superseded,,,the 2025 round answers it
+gtmi-85589a3c93,gtmi,2020,KEN,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2020,same,superseded,,,the 2025 round answers it
+gtmi-f68d37753d,gtmi,2025,KEN,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2022,same,read-before,2022-01-01-ken-national-digital-master-plan-2022-2032,,"reading list 172, already read for this study"
+gtmi-50e068a5dc,gtmi,2025,KEN,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,read-before,2022-01-01-ken-national-digital-master-plan-2022-2032,,"reading list 172, already read for this study"
+gtmi-51cbe6e5cb,gtmi,2022,KEN,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,superseded,,,the 2025 round answers it
+gtmi-ecd3070d3a,gtmi,2020,KEN,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,superseded,,,the 2025 round answers it
+gtmi-07b6eb1eea,gtmi,2025,LBR,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2025,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as LBR-001
+gtmi-3a54d56cf5,gtmi,2020,LBR,I-35,Is there a GovTech / Digital Transformation strategy?,1 Planned / In draft,,2020,same,superseded,,,the 2025 round answers it
+gtmi-416a9aa287,gtmi,2022,LBR,I-35,Is there a GovTech / Digital Transformation strategy?,1 Planned / In draft,,2020,same,superseded,,,the 2025 round answers it
+gtmi-362de9d00b,gtmi,2025,LBR,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"public-sector whole-of-government approach, unnamed, home-page link; not the national strategy"
+gtmi-a87ce471de,gtmi,2020,LBR,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-af6f1c879a,gtmi,2022,LBR,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-09d68173ea,gtmi,2020,LBY,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2012,same,superseded,,,the 2025 round answers it
+gtmi-1d109c3660,gtmi,2022,LBY,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2014,same,superseded,,,the 2025 round answers it
+gtmi-b041574752,gtmi,2025,LBY,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2023,same,read-before,2022-12-01-lby-gia-proposed-government-digital-transformation-strategy,,"reading list 30, already read for this study"
+gtmi-3b9c74e223,gtmi,2025,LBY,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"public-sector whole-of-government approach, unnamed; not the national strategy"
+gtmi-51fa6c3830,gtmi,2022,LBY,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-7762a3dc6a,gtmi,2020,LBY,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-216dbed952,gtmi,2022,LSO,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2020,same,superseded,,,the 2025 round answers it
+gtmi-62912c81f3,gtmi,2025,LSO,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2024,same,read-before,2024-01-01 Lesotho National Digital Transformation Strategy - Agenda 2030,,"reading list 54, already read for this study"
+gtmi-c9512a9725,gtmi,2020,LSO,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2013,same,superseded,,,the 2025 round answers it
+gtmi-2206bfa431,gtmi,2020,LSO,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-2684055d54,gtmi,2025,LSO,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"public-sector whole-of-government approach, unnamed; not the national strategy"
+gtmi-c2fac6feb8,gtmi,2022,LSO,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-1e79c30b66,gtmi,2022,MAR,I-35,Is there a GovTech / Digital Transformation strategy?,1 Planned / In draft,,2022,same,superseded,,,the 2025 round answers it
+gtmi-2cac6c2506,gtmi,2025,MAR,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2024,same,fact,2024-09-18-maroc-digital-2030-plaquette-institutionnelle-en,MAR-064;MAR-065,
+gtmi-91dfc14529,gtmi,2020,MAR,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2011,same,superseded,,,the 2025 round answers it
+gtmi-58b3fe10b3,gtmi,2025,MAR,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"public-sector whole-of-government approach, unnamed; not the national strategy"
+gtmi-7059732ce0,gtmi,2022,MAR,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,superseded,,,the 2025 round answers it
+gtmi-b7036d891c,gtmi,2020,MAR,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-5afb02ba2c,gtmi,2022,MDG,I-35,Is there a GovTech / Digital Transformation strategy?,1 Planned / In draft,,2019,same,superseded,,,the 2025 round answers it
+gtmi-bad6d23503,gtmi,2025,MDG,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2019,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is a public-services vision page (government class, not assessed)"
+gtmi-f53853ff5d,gtmi,2020,MDG,I-35,Is there a GovTech / Digital Transformation strategy?,1 Planned / In draft,,2019,same,superseded,,,the 2025 round answers it
+gtmi-3a57e8d9a7,gtmi,2022,MDG,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-bd4f344a6d,gtmi,2025,MDG,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"public-sector whole-of-government approach, unnamed, home-page link; not the national strategy"
+gtmi-f42a2933cc,gtmi,2020,MDG,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-53f38567e2,gtmi,2025,MLI,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2020,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MLI-002
+gtmi-b248b5bc90,gtmi,2022,MLI,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2015,same,superseded,,,the 2025 round answers it
+gtmi-b7fa0b99a1,gtmi,2020,MLI,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-11c5326697,gtmi,2020,MLI,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-7223eeb526,gtmi,2022,MLI,I-36,Is there a whole-of-government approach to public sector digital transformation?,2 Yes (Institutionalized),,,partial,superseded,,,the 2025 round answers it
+gtmi-a464bd83c1,gtmi,2025,MLI,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"public-sector whole-of-government approach, unnamed; not the national strategy"
+gtmi-215e1e2ebc,gtmi,2025,MOZ,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by MOZ-021
+gtmi-3e83b7f9b7,gtmi,2020,MOZ,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2018,same,superseded,,,the 2025 round answers it
+gtmi-6c146a7b88,gtmi,2022,MOZ,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2018,same,superseded,,,the 2025 round answers it
+gtmi-0ea44221c8,gtmi,2022,MOZ,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-263dec92c6,gtmi,2020,MOZ,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-dcebb46b67,gtmi,2025,MOZ,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"public-sector whole-of-government approach, unnamed; not the national strategy"
+gtmi-72a58bfc87,gtmi,2025,MRT,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2022,same,fact,2022-06-01-mrt-mtnima-agenda-numerique-2022-2025,MRT-053;MRT-054;MRT-055;MRT-056,
+gtmi-7a7ed06bf3,gtmi,2022,MRT,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2022,same,superseded,,,the 2025 round answers it
+gtmi-bb5c765947,gtmi,2020,MRT,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2012,same,superseded,,,the 2025 round answers it
+gtmi-a348c7ac7a,gtmi,2020,MRT,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-de23e3025d,gtmi,2025,MRT,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"public-sector whole-of-government approach, unnamed, home-page link; not the national strategy"
+gtmi-f5f8cbb5f3,gtmi,2022,MRT,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,superseded,,,the 2025 round answers it
+gtmi-05a054eb91,gtmi,2022,MUS,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2018,same,superseded,,,the 2025 round answers it
+gtmi-59b8300596,gtmi,2025,MUS,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2025,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MUS-019
+gtmi-d26a3a1f10,gtmi,2020,MUS,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2018,same,superseded,,,the 2025 round answers it
+gtmi-5bffbb6657,gtmi,2020,MUS,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,superseded,,,the 2025 round answers it
+gtmi-9c49b3893c,gtmi,2025,MUS,I-36,Is there a whole-of-government approach to public sector digital transformation?,2 Yes (Institutionalized),,,partial,read-before,2025-05-27-blueprint-for-mauritius-digital-transformation-2025-2029,,"reading list 35, already read for this study"
+gtmi-f431735c0d,gtmi,2022,MUS,I-36,Is there a whole-of-government approach to public sector digital transformation?,2 Yes (Institutionalized),,,partial,superseded,,,the 2025 round answers it
+gtmi-2ada67af29,gtmi,2022,MWI,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2013,same,superseded,,,the 2025 round answers it
+gtmi-99d4b825a9,gtmi,2025,MWI,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2023,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MWI-027
+gtmi-9c9d929308,gtmi,2020,MWI,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2013,same,superseded,,,the 2025 round answers it
+gtmi-7e01bdc1f4,gtmi,2025,MWI,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"public-sector whole-of-government approach, unnamed; not the national strategy"
+gtmi-9268820ade,gtmi,2020,MWI,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-f8cc8e71af,gtmi,2022,MWI,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-16c5a26965,gtmi,2020,NAM,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2014,same,superseded,,,the 2025 round answers it
+gtmi-6c79ae828e,gtmi,2025,NAM,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by NAM-011
+gtmi-f8d9d3c95d,gtmi,2022,NAM,I-35,Is there a GovTech / Digital Transformation strategy?,1 Planned / In draft,,2022,same,superseded,,,the 2025 round answers it
+gtmi-4fc8fd1300,gtmi,2020,NAM,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,superseded,,,the 2025 round answers it
+gtmi-789b628915,gtmi,2025,NAM,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"public-sector whole-of-government approach, unnamed, home-page link; not the national strategy"
+gtmi-abba7787da,gtmi,2022,NAM,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,superseded,,,the 2025 round answers it
+gtmi-16b01ea0b7,gtmi,2025,NER,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as NER-014
+gtmi-4545556a5d,gtmi,2020,NER,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-aa89a6131c,gtmi,2022,NER,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-047cecfaf2,gtmi,2020,NER,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-1f8501185e,gtmi,2022,NER,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-6a2786b121,gtmi,2025,NER,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"public-sector whole-of-government approach, unnamed; not the national strategy"
+gtmi-9eca3ddae7,gtmi,2022,NGA,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2017,same,superseded,,,the 2025 round answers it
+gtmi-d23fb770a0,gtmi,2025,NGA,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2023,same,nothing,2023-10-01-nga-fmcide-strategic-blueprint-2023-2027,,"document is the ministry's own strategic plan, not the national strategy"
+gtmi-e6a8c855d3,gtmi,2020,NGA,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2017,same,superseded,,,the 2025 round answers it
+gtmi-685c7dc80b,gtmi,2020,NGA,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ad705bff68,gtmi,2022,NGA,I-36,Is there a whole-of-government approach to public sector digital transformation?,2 Yes (Institutionalized),,,partial,superseded,,,the 2025 round answers it
+gtmi-f1d3ca06c3,gtmi,2025,NGA,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"public-sector whole-of-government approach, unnamed, home-page link; not the national strategy"
+gtmi-21b744e33a,gtmi,2020,RWA,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2018,same,superseded,,,the 2025 round answers it
+gtmi-c8905d7618,gtmi,2022,RWA,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2015,same,superseded,,,the 2025 round answers it
+gtmi-f213b88e2b,gtmi,2025,RWA,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2018,same,nothing,2018-06-01-rwanda-digital-government-strategy-and-governance,,"the 2018 document is a digital government strategy (class government), not assessed"
+gtmi-548b21ddfe,gtmi,2022,RWA,I-36,Is there a whole-of-government approach to public sector digital transformation?,2 Yes (Institutionalized),,,partial,superseded,,,the 2025 round answers it
+gtmi-82f8a4f3d3,gtmi,2025,RWA,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,nothing,2024-10-11-rwa-minecofin-pfm-digital-transformation-strategy,,asks about a whole-of-government approach; the primary is a ministry-plan
+gtmi-a7269b9c3c,gtmi,2020,RWA,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-212a898d29,gtmi,2025,SDN,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by SDN-001
+gtmi-b3704108cf,gtmi,2020,SDN,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2016,same,superseded,,,the 2025 round answers it
+gtmi-ba7dfed491,gtmi,2022,SDN,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2016,same,superseded,,,the 2025 round answers it
+gtmi-09f0c25b92,gtmi,2020,SDN,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-6ac793f895,gtmi,2022,SDN,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-a92a95f29f,gtmi,2025,SDN,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"asks about a whole-of-government approach, not the strategy"
+gtmi-3b772f78c6,gtmi,2020,SEN,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2016,same,superseded,,,the 2025 round answers it
+gtmi-4430972696,gtmi,2025,SEN,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2025,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SEN-113
+gtmi-abf00421cf,gtmi,2022,SEN,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2016,same,superseded,,,the 2025 round answers it
+gtmi-50a48a3b9b,gtmi,2025,SEN,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"asks about a whole-of-government approach, not the strategy"
+gtmi-61351892b7,gtmi,2020,SEN,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-9ec8aedce8,gtmi,2022,SEN,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-164d6dc425,gtmi,2025,SLE,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2023,same,fact,2025-12-18-worldbank-govtech-dataset-dec2025,SLE-072;SLE-073,
+gtmi-72b12fe78e,gtmi,2020,SLE,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2019,same,superseded,,,the 2025 round answers it
+gtmi-cff11bc304,gtmi,2022,SLE,I-35,Is there a GovTech / Digital Transformation strategy?,1 Planned / In draft,,2022,same,superseded,,,the 2025 round answers it
+gtmi-26014c97e1,gtmi,2020,SLE,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-4dc53991ea,gtmi,2022,SLE,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-9b70a1f76b,gtmi,2025,SLE,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,asks about a whole-of-government approach; link is the ministry home page
+gtmi-426503f0a3,gtmi,2022,SOM,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2019,same,superseded,,,the 2025 round answers it
+gtmi-870b3df7aa,gtmi,2025,SOM,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2025,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the ministry's strategies index page, not the strategy"
+gtmi-e491b7188a,gtmi,2020,SOM,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2019,same,superseded,,,the 2025 round answers it
+gtmi-1e7fa13a49,gtmi,2022,SOM,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-6e26ff770b,gtmi,2020,SOM,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-766522d1c1,gtmi,2025,SOM,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"asks about a whole-of-government approach, not the strategy"
+gtmi-0cff9f7ea8,gtmi,2020,SSD,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-1e6539167b,gtmi,2025,SSD,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-8d34d227b1,gtmi,2022,SSD,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-73104e02c5,gtmi,2025,SSD,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"asks about a whole-of-government approach, not the strategy"
+gtmi-af8025ab43,gtmi,2020,SSD,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ec46a76760,gtmi,2022,SSD,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-562dc409ea,gtmi,2025,STP,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2020,same,fact,2025-12-18-worldbank-govtech-dataset-dec2025,STP-020;STP-021,
+gtmi-57a8808740,gtmi,2020,STP,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2020,same,superseded,,,the 2025 round answers it
+gtmi-9cb36a588c,gtmi,2022,STP,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2020,same,superseded,,,the 2025 round answers it
+gtmi-87abbd07a2,gtmi,2020,STP,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-c69466de29,gtmi,2022,STP,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-d34b928dd2,gtmi,2025,STP,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"asks about a whole-of-government approach, not the strategy"
+gtmi-059c020d55,gtmi,2020,SWZ,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2013,same,superseded,,,the 2025 round answers it
+gtmi-21218f645d,gtmi,2022,SWZ,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2013,same,superseded,,,the 2025 round answers it
+gtmi-e30d201a44,gtmi,2025,SWZ,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2024,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is a Google Drive file, a third-party platform"
+gtmi-55f0a86243,gtmi,2025,SWZ,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,asks about a whole-of-government approach; link is an e-government explainer page
+gtmi-578337c6bb,gtmi,2022,SWZ,I-36,Is there a whole-of-government approach to public sector digital transformation?,2 Yes (Institutionalized),,,partial,superseded,,,the 2025 round answers it
+gtmi-c2ed26379c,gtmi,2020,SWZ,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-2ffecc7756,gtmi,2022,SYC,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2010,same,superseded,,,the 2025 round answers it
+gtmi-a9da0b1feb,gtmi,2025,SYC,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-c3f410cad0,gtmi,2020,SYC,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2010,same,superseded,,,the 2025 round answers it
+gtmi-216114567b,gtmi,2025,SYC,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"asks about a whole-of-government approach, not the strategy"
+gtmi-575e502647,gtmi,2020,SYC,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-f987e0a292,gtmi,2022,SYC,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,superseded,,,the 2025 round answers it
+gtmi-10e29d8c53,gtmi,2022,TCD,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-19f5e62e49,gtmi,2025,TCD,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no is not the absence the ladder asks for
+gtmi-cbf58de982,gtmi,2020,TCD,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-afb60a9b63,gtmi,2025,TCD,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"asks about a whole-of-government approach, not the strategy"
+gtmi-b03e30c5e7,gtmi,2022,TCD,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-c3a08b3a72,gtmi,2020,TCD,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-0ce03a89f5,gtmi,2022,TGO,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2021,same,superseded,,,the 2025 round answers it
+gtmi-69b252bfc3,gtmi,2025,TGO,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2021,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TGO-015
+gtmi-84c69f0e4e,gtmi,2020,TGO,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2018,same,superseded,,,the 2025 round answers it
+gtmi-0803f15b92,gtmi,2020,TGO,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-5df486e177,gtmi,2025,TGO,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"asks about a whole-of-government approach, not the strategy"
+gtmi-a3a826461d,gtmi,2022,TGO,I-36,Is there a whole-of-government approach to public sector digital transformation?,2 Yes (Institutionalized),,,partial,superseded,,,the 2025 round answers it
+gtmi-37507978f9,gtmi,2025,TUN,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2022,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TUN-003
+gtmi-9553d2365d,gtmi,2022,TUN,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2022,same,superseded,,,the 2025 round answers it
+gtmi-b406cf0c57,gtmi,2020,TUN,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2015,same,superseded,,,the 2025 round answers it
+gtmi-5b66c77362,gtmi,2022,TUN,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,superseded,,,the 2025 round answers it
+gtmi-9201d702cb,gtmi,2020,TUN,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-c3448b4d79,gtmi,2025,TUN,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,asks about a whole-of-government approach; link is the ministry home page
+gtmi-80b5af2643,gtmi,2020,TZA,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2019,same,superseded,,,the 2025 round answers it
+gtmi-893e4c2cb8,gtmi,2022,TZA,I-35,Is there a GovTech / Digital Transformation strategy?,1 Planned / In draft,,2022,same,superseded,,,the 2025 round answers it
+gtmi-a37153cc60,gtmi,2025,TZA,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2022,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,link is the e-Government Authority's own strategic plan (ministry-plan)
+gtmi-52cb74a5ed,gtmi,2022,TZA,I-36,Is there a whole-of-government approach to public sector digital transformation?,2 Yes (Institutionalized),,,partial,superseded,,,the 2025 round answers it
+gtmi-547d1c2dd7,gtmi,2020,TZA,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-5ac66c4850,gtmi,2025,TZA,I-36,Is there a whole-of-government approach to public sector digital transformation?,2 Yes (Institutionalized),,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,asks about a whole-of-government approach; link is the ministry home page
+gtmi-2a26a10277,gtmi,2025,UGA,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2023,same,fact,2023-01-01-uga-digital-transformation-roadmap-2023-2024-2027-2028,UGA-098;UGA-099;UGA-100;UGA-101;UGA-102,
+gtmi-7c2b38eabd,gtmi,2022,UGA,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2018,same,superseded,,,the 2025 round answers it
+gtmi-96c1e2c68d,gtmi,2020,UGA,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2018,same,superseded,,,the 2025 round answers it
+gtmi-0b7507b4d5,gtmi,2025,UGA,I-36,Is there a whole-of-government approach to public sector digital transformation?,2 Yes (Institutionalized),,,partial,nothing,2023-01-01-uga-digital-transformation-roadmap-2023-2024-2027-2028,,"asks about a whole-of-government approach, not the strategy"
+gtmi-56a481923b,gtmi,2022,UGA,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,superseded,,,the 2025 round answers it
+gtmi-ccf4d98e31,gtmi,2020,UGA,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,superseded,,,the 2025 round answers it
+aftech-2cf65bff3f,aftech,,XAF,cybersecurity; digital transformation; digital governance,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,African Digital compact,2024,partial;same,continental,,,names no one of the 54
+gtmi-071b7512e6,gtmi,2025,ZAF,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2025,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the roadmap for digital transformation of government (class government), not assessed"
+gtmi-5c5cbf32ff,gtmi,2020,ZAF,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2015,same,superseded,,,the 2025 round answers it
+gtmi-8222310604,gtmi,2022,ZAF,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2017,same,superseded,,,the 2025 round answers it
+gtmi-56f9f47cc9,gtmi,2025,ZAF,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"asks about a whole-of-government approach, not the strategy"
+gtmi-7d44065083,gtmi,2022,ZAF,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,superseded,,,the 2025 round answers it
+gtmi-a974a3cf5b,gtmi,2020,ZAF,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,superseded,,,the 2025 round answers it
+gtmi-2ee00621fc,gtmi,2020,ZMB,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2018,same,superseded,,,the 2025 round answers it
+gtmi-9e053b5eef,gtmi,2025,ZMB,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2023,same,read-before,2023-10-12-national-digital-transformation-strategy-zambia,,"reading list 70, already read for this study"
+gtmi-f7229be7e4,gtmi,2022,ZMB,I-35,Is there a GovTech / Digital Transformation strategy?,3 Yes (new/current),,2018,same,superseded,,,the 2025 round answers it
+gtmi-9c234f71b3,gtmi,2022,ZMB,I-36,Is there a whole-of-government approach to public sector digital transformation?,2 Yes (Institutionalized),,,partial,superseded,,,the 2025 round answers it
+gtmi-9ea3ee8c1c,gtmi,2020,ZMB,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ca24e9df9d,gtmi,2025,ZMB,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,asks about a whole-of-government approach; link is an institute home page
+gtmi-49a9099fd8,gtmi,2022,ZWE,I-35,Is there a GovTech / Digital Transformation strategy?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-ca5471b42e,gtmi,2020,ZWE,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2011,same,superseded,,,the 2025 round answers it
+gtmi-f0bb5535a5,gtmi,2025,ZWE,I-35,Is there a GovTech / Digital Transformation strategy?,2 Yes (old/to be updated),,2022,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the National ICT Policy 2022-2027 (class sector-ict), not assessed"
+gtmi-b62c12d9e4,gtmi,2025,ZWE,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"asks about a whole-of-government approach, not the strategy"
+gtmi-baa214f188,gtmi,2020,ZWE,I-36,Is there a whole-of-government approach to public sector digital transformation?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-c98d64f3d5,gtmi,2022,ZWE,I-36,Is there a whole-of-government approach to public sector digital transformation?,1 Planned / In draft,,,partial,superseded,,,the 2025 round answers it

@@ -1,0 +1,11 @@
+{
+  "slug": "2024-02-10-ago-governo-pada-consulta-publica-ima",
+  "facts": [],
+  "systems": [
+    {"system": "Projecto de Aceleração Digital de Angola (PADA)", "country_label": "Projecto de Aceleração Digital de Angola", "class": "programme", "platform": "", "owner": "Instituto de Modernização Administrativa (IMA)", "tiers": "national; public consultation held 9 February 2024"}
+  ],
+  "note": "The page reports a public consultation on PADA, a project, and states no national digital strategy, its adoption, period, plan or reporting.",
+  "claims": {
+    "gtmi-86e3f8083b": "nothing: the link is a news item on a digital acceleration project's public consultation, not a strategy"
+  }
+}

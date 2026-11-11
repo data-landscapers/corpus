@@ -1,0 +1,15 @@
+{
+  "slug": "2023-10-01-nga-fmcide-strategic-blueprint-2023-2027",
+  "facts": [],
+  "systems": [
+    {"system": "Strategic Blueprint 2023-2027 of the Federal Ministry of Communications, Innovation and Digital Economy", "country_label": "Nigeria", "class": "ministry-plan", "platform": "", "owner": "Federal Ministry of Communications, Innovation and Digital Economy", "tiers": ""},
+    {"system": "National Digital Economy Policy and Strategy (NDEPS)", "country_label": "Nigeria", "class": "national", "platform": "", "owner": "", "tiers": ""},
+    {"system": "Nigeria National Broadband Plan", "country_label": "Nigeria", "class": "thematic", "platform": "", "owner": "", "tiers": ""},
+    {"system": "National Artificial Intelligence Strategy", "country_label": "Nigeria", "class": "thematic", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The document is a ministry's own strategic plan (ministry-plan, not assessed); it names the NDEPS only as the policy the broadband plan follows and states nothing on its standing, period, plan or reporting."
+  ,
+  "claims": {
+    "gtmi-d23fb770a0": "nothing: document is the ministry's own strategic plan, not the national strategy"
+  }
+}

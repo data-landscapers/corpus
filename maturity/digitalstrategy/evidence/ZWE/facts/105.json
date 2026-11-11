@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "The strategy claim links the National ICT Policy 2022-2027, a sector ICT policy.",
+  "claims": {
+    "gtmi-f0bb5535a5": "nothing: link is the National ICT Policy 2022-2027 (class sector-ict), not assessed",
+    "gtmi-b62c12d9e4": "nothing: asks about a whole-of-government approach, not the strategy"
+  }
+}

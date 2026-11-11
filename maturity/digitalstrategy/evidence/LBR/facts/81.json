@@ -1,0 +1,10 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "Database lines only; the strategy claim is already held and the whole-of-government line links a ministry home page.",
+  "claims": {
+    "gtmi-07b6eb1eea": "nothing: held as LBR-001",
+    "gtmi-362de9d00b": "nothing: public-sector whole-of-government approach, unnamed, home-page link; not the national strategy"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [
+    {"sub_indicator": "national", "aspect": "standing", "value": "adopted", "fact": "The government told the World Bank's GovTech survey (2025 round) that Sierra Leone has a current GovTech or digital transformation strategy dated 2023, linking the strategy's text on the Ministry of Communication, Technology and Innovation's site; the line names no adopting act, and the as-of is the 2023 year it gives.", "as_of": "2023", "date_precision": "year", "system": "National Digital Development Strategy", "class": "national"},
+    {"sub_indicator": "national", "aspect": "text", "value": "public", "fact": "The government told the World Bank's GovTech survey (2025 round) that the strategy's text is at a mocti.gov.sl address for the 2023 national digital development strategy; the as-of is the 2023 year given.", "as_of": "2023", "date_precision": "year", "system": "National Digital Development Strategy", "class": "national"}
+  ],
+  "systems": [
+    {"system": "National Digital Development Strategy", "country_label": "Sierra Leone", "class": "national", "platform": "", "owner": "Ministry of Communication, Technology and Innovation", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-164d6dc425": "fact",
+    "gtmi-9b70a1f76b": "nothing: asks about a whole-of-government approach; link is the ministry home page"
+  }
+}

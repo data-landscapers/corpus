@@ -1,0 +1,15 @@
+{
+  "slug": "2026-01-01-egy-mcit-ict-strategy-page-publications-en",
+  "facts": [],
+  "systems": [
+    {"system": "Digital Egypt", "country_label": "Digital Egypt", "class": "national", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": "national; three pillars (digital transformation, digital skills and jobs, technological innovation)"},
+    {"system": "Egypt's ICT Strategy 2014-2017", "country_label": "Egypt's ICT Strategy 2014 -2017", "class": "sector-ict", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": "national; dated February 2013"},
+    {"system": "Egypt's ICT Strategy 2007-2010", "country_label": "Egypt's ICT Strategy 2007 - 2010", "class": "sector-ict", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": "national; dated June 2007"},
+    {"system": "National Cybersecurity Strategy 2023-2027", "country_label": "National Cybersecurity Strategy 2023-2027", "class": "thematic", "platform": "", "owner": "Ministry of Communications and Information Technology", "tiers": "national; dated January 2024"}
+  ],
+  "note": "The page names Digital Egypt as a vision and lists older ICT strategies, but gives Digital Egypt no adoption, period, plan or reporting.",
+  "claims": {
+    "gtmi-4c8bfd6287": "nothing: held as EGY-002; the page itself gives Digital Egypt no adoption date",
+    "gtmi-508b4e3dbe": "nothing: whole-of-government approach to the state's own digitalisation, not assessed"
+  }
+}
