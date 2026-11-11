@@ -1,0 +1,18 @@
+{
+  "slug": "2025-06-01-gha-ppa-2024-annual-report",
+  "facts": [
+    {"sub_indicator": "business", "aspect": "system", "value": "inservice",
+     "fact": "Ghana's Public Procurement Authority says in its 2024 annual report that 828 procuring entities are enrolled on GHANEPS, introduced in 2019, and use it to publish tenders and award contracts.",
+     "as_of": "2024", "date_precision": "year", "system": "GHANEPS", "class": "procurement"},
+    {"sub_indicator": "business", "aspect": "reported", "value": "reported",
+     "fact": "The Public Procurement Authority reports that in 2024 365 tenders were published on GHANEPS and 2,680 suppliers were registered on it, with 276 trained users.",
+     "as_of": "2024", "date_precision": "year", "system": "GHANEPS", "class": "procurement"}
+  ],
+  "systems": [
+    {"system": "GHANEPS", "country_label": "Ghana", "class": "procurement", "platform": "Ghana Electronic Procurement System", "owner": "Public Procurement Authority", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-473585d865": "fact"
+  }
+}

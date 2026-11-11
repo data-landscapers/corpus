@@ -1,0 +1,13 @@
+{
+  "slug": "2025-11-01-mus-decisions-on-complaints-by-year",
+  "facts": [
+    {"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "Mauritius's Data Protection Office publishes a numbered list of its decisions on complaints, reaching Decision No 208 with 2025 dates, so the body is in operation (the page's own date is not given; no organisation is named in the entries).", "as_of": "2025", "date_precision": "year", "system": "Data Protection Office", "class": "authority"}
+  ],
+  "systems": [
+    {"system": "Data Protection Office", "country_label": "Mauritius", "class": "authority", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "gtmi-a82117b9b5": "nothing: held as MUS-005"
+  }
+}

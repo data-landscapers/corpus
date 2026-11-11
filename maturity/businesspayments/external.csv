@@ -1,0 +1,163 @@
+claim,source,survey_year,iso3,item,question,status,name,year,fit,outcome,slug,row_ids,note
+gtmi-0f365a3569,gtmi,2020,AGO,I-12,Is there an e-Procurement portal?,2 Yes (in use),Procurement Portal,2014,partial,superseded,,,the 2025 round answers it
+gtmi-6ad697ab91,gtmi,2022,AGO,I-12,Is there an e-Procurement portal?,2 Yes (in use),Contratacaopublica,2019,partial,superseded,,,the 2025 round answers it
+gtmi-c014e2e112,gtmi,2025,AGO,I-12,Is there an e-Procurement portal?,2 Yes (in use),Sistema de Contratação Pública Eletrónica,2019,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as AGO-002
+gtmi-adc6083eee,gtmi,2020,BDI,I-12,Is there an e-Procurement portal?,2 Yes (in use),PMIS,2016,partial,superseded,,,the 2025 round answers it
+gtmi-ef1f6710fb,gtmi,2025,BDI,I-12,Is there an e-Procurement portal?,2 Yes (in use),ARMP,2008,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the procurement regulator's home page, not a system"
+gtmi-f101e5f09a,gtmi,2022,BDI,I-12,Is there an e-Procurement portal?,2 Yes (in use),ARMP,2008,partial,superseded,,,the 2025 round answers it
+gtmi-22e23a211a,gtmi,2025,BEN,I-12,Is there an e-Procurement portal?,2 Yes (in use),Public Procurement Portal / SIGMAP; Complete digitization,2020,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BEN-002
+gtmi-2aee2cd4ab,gtmi,2020,BEN,I-12,Is there an e-Procurement portal?,1 Implementation in progress,SIGMAP,,partial,superseded,,,the 2025 round answers it
+gtmi-ca14ec46de,gtmi,2022,BEN,I-12,Is there an e-Procurement portal?,2 Yes (in use),Public Procurement Portal / SIGMAP; Complete digitization,2020,partial,superseded,,,the 2025 round answers it
+gtmi-3c73a9cabf,gtmi,2025,BFA,I-12,Is there an e-Procurement portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-51e0446ed9,gtmi,2020,BFA,I-12,Is there an e-Procurement portal?,2 Yes (in use),SIMP,2008,partial,superseded,,,the 2025 round answers it
+gtmi-ae0631023f,gtmi,2022,BFA,I-12,Is there an e-Procurement portal?,2 Yes (in use),SIMP; Incitation pour les solutions logicielles open source,2008,partial,superseded,,,the 2025 round answers it
+gtmi-42a09d7401,gtmi,2022,BWA,I-12,Is there an e-Procurement portal?,2 Yes (in use),IPMS - Intergrated Procurement Management System,2016,partial,superseded,,,the 2025 round answers it
+gtmi-73dfad7801,gtmi,2020,BWA,I-12,Is there an e-Procurement portal?,2 Yes (in use),Public Procurement and Asset Disposal Board (PPADB),2013,partial,superseded,,,the 2025 round answers it
+gtmi-e70775030d,gtmi,2025,BWA,I-12,Is there an e-Procurement portal?,2 Yes (in use),IPMS - Intergrated Procurement Management System; AI-Powered Analytics,2016,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BWA-002
+gtmi-315831cc7c,gtmi,2025,CAF,I-12,Is there an e-Procurement portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-92e664234e,gtmi,2020,CAF,I-12,Is there an e-Procurement portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-ca1ff4ae81,gtmi,2022,CAF,I-12,Is there an e-Procurement portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-224d65c29a,gtmi,2025,CIV,I-12,Is there an e-Procurement portal?,2 Yes (in use),Système Intégré de Gestion des Opérations des Marchés Publics (SIGOMAP),2023,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CIV-001
+gtmi-ad705865f3,gtmi,2022,CIV,I-12,Is there an e-Procurement portal?,2 Yes (in use),SIGMAP,2022,partial,superseded,,,the 2025 round answers it
+gtmi-f63170c40a,gtmi,2020,CIV,I-12,Is there an e-Procurement portal?,2 Yes (in use),SIGMAP,2006,partial,superseded,,,the 2025 round answers it
+gtmi-210c2a0467,gtmi,2020,CMR,I-12,Is there an e-Procurement portal?,2 Yes (in use),ARMP Website,2014,partial,superseded,,,the 2025 round answers it
+gtmi-226c17e2cc,gtmi,2025,CMR,I-12,Is there an e-Procurement portal?,2 Yes (in use),Cameroon On-line E-Procurement System (COLEPS); Online Tendering,2022,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CMR-001
+gtmi-f626114d90,gtmi,2022,CMR,I-12,Is there an e-Procurement portal?,2 Yes (in use),ARMP Website,2022,partial,superseded,,,the 2025 round answers it
+gtmi-0e71207452,gtmi,2025,COD,I-12,Is there an e-Procurement portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-3b15a14b22,gtmi,2020,COD,I-12,Is there an e-Procurement portal?,2 Yes (in use),Public Procurement Website,2013,partial,superseded,,,the 2025 round answers it
+gtmi-55c572eb04,gtmi,2022,COD,I-12,Is there an e-Procurement portal?,2 Yes (in use),Public Procurement Website,2013,partial,superseded,,,the 2025 round answers it
+gtmi-06479772fc,gtmi,2020,COG,I-12,Is there an e-Procurement portal?,2 Yes (in use),ARMP Website,2012,partial,superseded,,,the 2025 round answers it
+gtmi-9a9f940802,gtmi,2022,COG,I-12,Is there an e-Procurement portal?,2 Yes (in use),ARMP Website,2012,partial,superseded,,,the 2025 round answers it
+gtmi-b29dddc703,gtmi,2025,COG,I-12,Is there an e-Procurement portal?,1 Implementation in progress,SIGMAP,2026,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as COG-003
+gtmi-17c8a2339d,gtmi,2020,COM,I-12,Is there an e-Procurement portal?,2 Yes (in use),CREF Website,2012,partial,superseded,,,the 2025 round answers it
+gtmi-b0d67985f9,gtmi,2022,COM,I-12,Is there an e-Procurement portal?,2 Yes (in use),Comores Marchés Publics,2003,partial,superseded,,,the 2025 round answers it
+gtmi-cd477f0aeb,gtmi,2025,COM,I-12,Is there an e-Procurement portal?,1 Implementation in progress,Comores Marchés Publics,2026,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as COM-001
+gtmi-02446b01c0,gtmi,2025,CPV,I-12,Is there an e-Procurement portal?,2 Yes (in use),eCOMPRAS.cv ou sistema eletrónico de compras públicas,2014,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CPV-001
+gtmi-c78e68be59,gtmi,2022,CPV,I-12,Is there an e-Procurement portal?,2 Yes (in use),eCOMPRAS.cv ou sistema eletrónico de compras públicas; Incentives for Open Source software solution with IGRPWeb,2014,partial,superseded,,,the 2025 round answers it
+gtmi-f7e728c892,gtmi,2020,CPV,I-12,Is there an e-Procurement portal?,2 Yes (in use),National Procurement Portal,2009,partial,superseded,,,the 2025 round answers it
+gtmi-1a9b063ffb,gtmi,2020,DJI,I-12,Is there an e-Procurement portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-de4a936cb9,gtmi,2025,DJI,I-12,Is there an e-Procurement portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-f47ff131b2,gtmi,2022,DJI,I-12,Is there an e-Procurement portal?,1 Implementation in progress,Marches Publics,2022,partial,superseded,,,the 2025 round answers it
+gtmi-4f8ec356f0,gtmi,2025,DZA,I-12,Is there an e-Procurement portal?,2 Yes (in use),Electronic Public Procurements Portal,2011,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as DZA-001
+gtmi-6b2bf6aaf4,gtmi,2020,DZA,I-12,Is there an e-Procurement portal?,2 Yes (in use),Algeria Tenders,2015,partial,superseded,,,the 2025 round answers it
+gtmi-d7b405cba4,gtmi,2022,DZA,I-12,Is there an e-Procurement portal?,2 Yes (in use),Electronic Public Procurements Portal,2011,partial,superseded,,,the 2025 round answers it
+gtmi-2fad6b8b4f,gtmi,2025,EGY,I-12,Is there an e-Procurement portal?,2 Yes (in use),eProcurement,2017,partial,read-before,2025-08-04-egy-dne-e-procurement-platform-nears-completion,,"reading list 319, already read for this study"
+gtmi-47073caff1,gtmi,2020,EGY,I-12,Is there an e-Procurement portal?,2 Yes (in use),Government Procurement Portal,2007,partial,superseded,,,the 2025 round answers it
+gtmi-b267492e78,gtmi,2022,EGY,I-12,Is there an e-Procurement portal?,2 Yes (in use),eProcurement; SMEs participation percentage,2017,partial,superseded,,,the 2025 round answers it
+gtmi-17ebf4ec6f,gtmi,2025,ERI,I-12,Is there an e-Procurement portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-8408253a10,gtmi,2022,ERI,I-12,Is there an e-Procurement portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-d4d30e2c7c,gtmi,2020,ERI,I-12,Is there an e-Procurement portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-85d0922656,gtmi,2022,ETH,I-12,Is there an e-Procurement portal?,2 Yes (in use),E-GP Electronic Government Procurement (eGP); Open Source Software solutions ubuntu + .Net core + Agular + postgresql,2021,partial,superseded,,,the 2025 round answers it
+gtmi-a2377fe916,gtmi,2020,ETH,I-12,Is there an e-Procurement portal?,2 Yes (in use),FPPA Website,2010,partial,superseded,,,the 2025 round answers it
+gtmi-a322ff234f,gtmi,2025,ETH,I-12,Is there an e-Procurement portal?,2 Yes (in use),E-GP Electronic Government Procurement (eGP); Open Source Software solutions ubuntu + .Net core + Agular + postgresql,2021,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ETH-001
+gtmi-1c0f4a8d7e,gtmi,2020,GAB,I-12,Is there an e-Procurement portal?,2 Yes (in use),DGMP Website,2014,partial,superseded,,,the 2025 round answers it
+gtmi-ac90ed107f,gtmi,2022,GAB,I-12,Is there an e-Procurement portal?,2 Yes (in use),DGMP Website,2014,partial,superseded,,,the 2025 round answers it
+gtmi-c2125ad1ec,gtmi,2025,GAB,I-12,Is there an e-Procurement portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-016d0530d3,gtmi,2020,GHA,I-12,Is there an e-Procurement portal?,2 Yes (in use),PPA Website,2012,partial,superseded,,,the 2025 round answers it
+gtmi-0432304c32,gtmi,2022,GHA,I-12,Is there an e-Procurement portal?,2 Yes (in use),Ghana Electronic Procurement system (GHANEPS),2012,partial,superseded,,,the 2025 round answers it
+gtmi-473585d865,gtmi,2025,GHA,I-12,Is there an e-Procurement portal?,2 Yes (in use),Ghana e-Procurement System (GHANEPS); Supplier Training Videos,2019,partial,fact,2025-06-01-gha-ppa-2024-annual-report,GHA-007;GHA-008,
+gtmi-534f3b8556,gtmi,2025,GIN,I-12,Is there an e-Procurement portal?,2 Yes (in use),TELEMO; 1. Digital inclusion and rural access; 2. Réduction drastique des délais; 3. Traçabilité complète des processus; 4. Approche collaborative et panafricaine; 5. Interopérabilité avec d’autres systèmes.,2024,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as GIN-002
+gtmi-c9d5e9b7c9,gtmi,2022,GIN,I-12,Is there an e-Procurement portal?,1 Implementation in progress,MoEF Website,,partial,superseded,,,the 2025 round answers it
+gtmi-fc07e25733,gtmi,2020,GIN,I-12,Is there an e-Procurement portal?,1 Implementation in progress,MoEF Website,,partial,superseded,,,the 2025 round answers it
+gtmi-1376cff6c0,gtmi,2025,GMB,I-12,Is there an e-Procurement portal?,2 Yes (in use),GPPA Website,2022,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the regulator's website, not a system"
+gtmi-757897e02a,gtmi,2020,GMB,I-12,Is there an e-Procurement portal?,1 Implementation in progress,GPPA Website,,partial,superseded,,,the 2025 round answers it
+gtmi-8e0a002db2,gtmi,2022,GMB,I-12,Is there an e-Procurement portal?,2 Yes (in use),GPPA Website,2022,partial,superseded,,,the 2025 round answers it
+gtmi-215623d283,gtmi,2022,GNB,I-12,Is there an e-Procurement portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-a458125e23,gtmi,2020,GNB,I-12,Is there an e-Procurement portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-fa889bd402,gtmi,2025,GNB,I-12,Is there an e-Procurement portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-03ad73cc34,gtmi,2022,GNQ,I-12,Is there an e-Procurement portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-9b83d1f786,gtmi,2020,GNQ,I-12,Is there an e-Procurement portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-fcc5760e85,gtmi,2025,GNQ,I-12,Is there an e-Procurement portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-1b87bbe26f,gtmi,2020,KEN,I-12,Is there an e-Procurement portal?,2 Yes (in use),PPOA Website,2014,partial,superseded,,,the 2025 round answers it
+gtmi-7fe9bb5b9f,gtmi,2022,KEN,I-12,Is there an e-Procurement portal?,2 Yes (in use),PPOA Website,2014,partial,superseded,,,the 2025 round answers it
+gtmi-83fdd66fb8,gtmi,2025,KEN,I-12,Is there an e-Procurement portal?,2 Yes (in use),EGP KENYA,2025,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as KEN-006
+gtmi-1f50c06af5,gtmi,2025,LBR,I-12,Is there an e-Procurement portal?,2 Yes (in use),Electronic Government Procurement (e‑GP) System,2024,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as LBR-007
+gtmi-4c9aeee38c,gtmi,2022,LBR,I-12,Is there an e-Procurement portal?,2 Yes (in use),PPCC,2010,partial,superseded,,,the 2025 round answers it
+gtmi-5ca443204c,gtmi,2020,LBR,I-12,Is there an e-Procurement portal?,2 Yes (in use),PPCC,2010,partial,superseded,,,the 2025 round answers it
+gtmi-3a6d0330a1,gtmi,2025,LBY,I-12,Is there an e-Procurement portal?,1 Implementation in progress,Attaat - LDIL - Government Bidding and Procurement Platform,2026,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by LBY-001
+gtmi-8349cb4e0d,gtmi,2022,LBY,I-12,Is there an e-Procurement portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-fc943fd732,gtmi,2020,LBY,I-12,Is there an e-Procurement portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-59a32764d9,gtmi,2025,LSO,I-12,Is there an e-Procurement portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-9f0664e74e,gtmi,2022,LSO,I-12,Is there an e-Procurement portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-fcbc3c30d6,gtmi,2020,LSO,I-12,Is there an e-Procurement portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-32e99184fa,gtmi,2022,MAR,I-12,Is there an e-Procurement portal?,2 Yes (in use),Public Procurement Portal; La participation des PME et les acheteurs publics dans le processus d’achat publics.,2007,partial,superseded,,,the 2025 round answers it
+gtmi-b517cba63e,gtmi,2020,MAR,I-12,Is there an e-Procurement portal?,2 Yes (in use),Public Procurement Portal,2007,partial,superseded,,,the 2025 round answers it
+gtmi-d352c4f0be,gtmi,2025,MAR,I-12,Is there an e-Procurement portal?,2 Yes (in use),Public Procurement Portal,2007,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MAR-001
+gtmi-11595cd509,gtmi,2020,MDG,I-12,Is there an e-Procurement portal?,2 Yes (in use),SIGMP,2010,partial,superseded,,,the 2025 round answers it
+gtmi-8e196d4431,gtmi,2022,MDG,I-12,Is there an e-Procurement portal?,2 Yes (in use),SIGMP; Agile and UX/UI approach,2010,partial,superseded,,,the 2025 round answers it
+gtmi-d5661ca348,gtmi,2025,MDG,I-12,Is there an e-Procurement portal?,2 Yes (in use),e-GP; Agile and UX/UI approach + Business Process Review,2021,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MDG-003
+gtmi-40381f8795,gtmi,2020,MLI,I-12,Is there an e-Procurement portal?,2 Yes (in use),Portail Malien,2010,partial,superseded,,,the 2025 round answers it
+gtmi-a4f8242912,gtmi,2025,MLI,I-12,Is there an e-Procurement portal?,2 Yes (in use),Portail Malien des Marchés Publics,2010,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is a regulator site page, not the portal"
+gtmi-e8d5589ff1,gtmi,2022,MLI,I-12,Is there an e-Procurement portal?,2 Yes (in use),Portail Malien; Implementation in progress,2010,partial,superseded,,,the 2025 round answers it
+gtmi-369b97e475,gtmi,2025,MOZ,I-12,Is there an e-Procurement portal?,2 Yes (in use),Electronic Procurement System (e-GP),2025,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MOZ-002
+gtmi-3e5e5adc0b,gtmi,2022,MOZ,I-12,Is there an e-Procurement portal?,2 Yes (in use),UFSA Public Tenders Portal,2016,partial,superseded,,,the 2025 round answers it
+gtmi-a81f34e170,gtmi,2020,MOZ,I-12,Is there an e-Procurement portal?,2 Yes (in use),Public Tenders Portal,,partial,superseded,,,the 2025 round answers it
+gtmi-3c8395a63a,gtmi,2025,MRT,I-12,Is there an e-Procurement portal?,2 Yes (in use),ARMP Website; The whole process is handled online including the virtual tender room,2023,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MRT-004
+gtmi-4943fd0cfb,gtmi,2022,MRT,I-12,Is there an e-Procurement portal?,2 Yes (in use),ARMP Website; The whole process is handled online including the virtual tender room,2023,partial,superseded,,,the 2025 round answers it
+gtmi-6f7f6630f8,gtmi,2020,MRT,I-12,Is there an e-Procurement portal?,2 Yes (in use),ARMP Website,2012,partial,superseded,,,the 2025 round answers it
+gtmi-8306439ead,gtmi,2025,MUS,I-12,Is there an e-Procurement portal?,2 Yes (in use),"e-Procurement System (e-PS); As from 23 April 2025, all technical assistance requests related to the e-Procurement System are handled through the PPO New E-Ticketing Platform. This platform ensures centralized support, real-time query tracking, quicker responses, and enhanced transparency. This initiative is part of Government’s commitment to leveraging technology to deliver better services to stakeholders.",2015,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MUS-003
+gtmi-d870c2dd3a,gtmi,2022,MUS,I-12,Is there an e-Procurement portal?,2 Yes (in use),e-Procurement System (e-PS); Promote government sectoral policy for increased access and share of SMEs in public procurement.   Also the use of digital certificates for secured bid process.,2015,partial,superseded,,,the 2025 round answers it
+gtmi-edd18c5fae,gtmi,2020,MUS,I-12,Is there an e-Procurement portal?,2 Yes (in use),Public Procurement Portal,2010,partial,superseded,,,the 2025 round answers it
+gtmi-3459ae2494,gtmi,2020,MWI,I-12,Is there an e-Procurement portal?,2 Yes (in use),PPDA,1996,partial,superseded,,,the 2025 round answers it
+gtmi-a77aeec134,gtmi,2025,MWI,I-12,Is there an e-Procurement portal?,2 Yes (in use),Malawi National Electronic Procurement System,2024,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MWI-010
+gtmi-eba80e0372,gtmi,2022,MWI,I-12,Is there an e-Procurement portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-65584290e5,gtmi,2020,NAM,I-12,Is there an e-Procurement portal?,2 Yes (in use),Ministry of Finance,2010,partial,superseded,,,the 2025 round answers it
+gtmi-6ada2faa5b,gtmi,2022,NAM,I-12,Is there an e-Procurement portal?,2 Yes (in use),EProcurement,2021,partial,superseded,,,the 2025 round answers it
+gtmi-dc2cbef5e7,gtmi,2025,NAM,I-12,Is there an e-Procurement portal?,2 Yes (in use),EProcurement,2021,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as NAM-005
+gtmi-1580c8c9db,gtmi,2025,NER,I-12,Is there an e-Procurement portal?,2 Yes (in use),ARMP Website,2011,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the regulator's website, not a system"
+gtmi-422cef6896,gtmi,2022,NER,I-12,Is there an e-Procurement portal?,2 Yes (in use),ARMP Website,2011,partial,superseded,,,the 2025 round answers it
+gtmi-f99b675ae2,gtmi,2020,NER,I-12,Is there an e-Procurement portal?,2 Yes (in use),ARMP Website,2011,partial,superseded,,,the 2025 round answers it
+gtmi-2f8a13f058,gtmi,2022,NGA,I-12,Is there an e-Procurement portal?,2 Yes (in use),BPP Website,2007,partial,superseded,,,the 2025 round answers it
+gtmi-792130bafa,gtmi,2020,NGA,I-12,Is there an e-Procurement portal?,2 Yes (in use),BPP Website,2007,partial,superseded,,,the 2025 round answers it
+gtmi-d5016d4990,gtmi,2025,NGA,I-12,Is there an e-Procurement portal?,2 Yes (in use),,2007,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"no system named, link is the regulator's home page"
+gtmi-01ffb53748,gtmi,2022,RWA,I-12,Is there an e-Procurement portal?,2 Yes (in use),On-Line E-Procurement System,2018,partial,superseded,,,the 2025 round answers it
+gtmi-a585b39c31,gtmi,2025,RWA,I-12,Is there an e-Procurement portal?,2 Yes (in use),UMUCYO,2017,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as RWA-002
+gtmi-ba4de2735a,gtmi,2020,RWA,I-12,Is there an e-Procurement portal?,2 Yes (in use),RPPA Website > KONEPS,2008,partial,superseded,,,the 2025 round answers it
+gtmi-468e874d84,gtmi,2022,SDN,I-12,Is there an e-Procurement portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-4917321f0d,gtmi,2020,SDN,I-12,Is there an e-Procurement portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-b44a85fcf3,gtmi,2025,SDN,I-12,Is there an e-Procurement portal?,2 Yes (in use),Tender SD,2021,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is a third-party tender platform, not the government system"
+gtmi-5734e0a104,gtmi,2020,SEN,I-12,Is there an e-Procurement portal?,2 Yes (in use),SIGMAP,2008,partial,superseded,,,the 2025 round answers it
+gtmi-7e74ee70e4,gtmi,2025,SEN,I-12,Is there an e-Procurement portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by SEN-003
+gtmi-8fec568bc7,gtmi,2022,SEN,I-12,Is there an e-Procurement portal?,2 Yes (in use),SIGMAP,2008,partial,superseded,,,the 2025 round answers it
+gtmi-14387d6646,gtmi,2025,SLE,I-12,Is there an e-Procurement portal?,1 Implementation in progress,E-Government Procurement Portal,2026,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SLE-001
+gtmi-9d9cf53a09,gtmi,2022,SLE,I-12,Is there an e-Procurement portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-e37f2dcc37,gtmi,2020,SLE,I-12,Is there an e-Procurement portal?,2 Yes (in use),National Public Procurement Authority,2014,partial,superseded,,,the 2025 round answers it
+gtmi-50d34bc9ad,gtmi,2025,SOM,I-12,Is there an e-Procurement portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-53c6e4fbc1,gtmi,2022,SOM,I-12,Is there an e-Procurement portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-5ccc6eae49,gtmi,2020,SOM,I-12,Is there an e-Procurement portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-1ee6e8c81a,gtmi,2022,SSD,I-12,Is there an e-Procurement portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-482f5abfe5,gtmi,2020,SSD,I-12,Is there an e-Procurement portal?,0 No,,,partial,superseded,,,the 2025 round answers it
+gtmi-78ee4e77f5,gtmi,2025,SSD,I-12,Is there an e-Procurement portal?,2 Yes (in use),PPDA - Public Procurement and Disposal of Assets Authority,2023,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is a demo site, not the system"
+gtmi-2e9345da36,gtmi,2025,STP,I-12,Is there an e-Procurement portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by STP-001
+gtmi-8a8dd53f2c,gtmi,2022,STP,I-12,Is there an e-Procurement portal?,2 Yes (in use),MoF Website,2011,partial,superseded,,,the 2025 round answers it
+gtmi-f21d1b680a,gtmi,2020,STP,I-12,Is there an e-Procurement portal?,2 Yes (in use),MoF Website,2011,partial,superseded,,,the 2025 round answers it
+gtmi-00bc6613b9,gtmi,2020,SWZ,I-12,Is there an e-Procurement portal?,2 Yes (in use),SPPRA,2016,partial,superseded,,,the 2025 round answers it
+gtmi-5a9d25d7c1,gtmi,2025,SWZ,I-12,Is there an e-Procurement portal?,1 Implementation in progress,e-GP System; Artificial Intelligence embedded or enabled to assist in analytic purposes + API integration with regional and global eGP systems,2026,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SWZ-001
+gtmi-ff821782b3,gtmi,2022,SWZ,I-12,Is there an e-Procurement portal?,2 Yes (in use),SPPRA,2022,partial,superseded,,,the 2025 round answers it
+gtmi-0fe1adf9a6,gtmi,2025,SYC,I-12,Is there an e-Procurement portal?,2 Yes (in use),Procurement Oversight unit (POU),2011,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"names an oversight unit, link is its home page"
+gtmi-8afa4a8114,gtmi,2022,SYC,I-12,Is there an e-Procurement portal?,2 Yes (in use),Procurement Oversight unit (POU),2011,partial,superseded,,,the 2025 round answers it
+gtmi-d6cc82f1db,gtmi,2020,SYC,I-12,Is there an e-Procurement portal?,2 Yes (in use),National Tender Board,2011,partial,superseded,,,the 2025 round answers it
+gtmi-33f72e369b,gtmi,2025,TCD,I-12,Is there an e-Procurement portal?,0 No,,,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-4b2aa7f01f,gtmi,2020,TCD,I-12,Is there an e-Procurement portal?,2 Yes (in use),SIGMP,2014,partial,superseded,,,the 2025 round answers it
+gtmi-f73ef9424d,gtmi,2022,TCD,I-12,Is there an e-Procurement portal?,2 Yes (in use),SIGMP,2014,partial,superseded,,,the 2025 round answers it
+gtmi-218e25d594,gtmi,2025,TGO,I-12,Is there an e-Procurement portal?,2 Yes (in use),Direction Nationale de Contrôle des Marchés Publics (DNCMP); Participation of SMEs / startups; + Services procured from SMEs / startups,2010,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"names the regulator, not a system"
+gtmi-7da2c70142,gtmi,2020,TGO,I-12,Is there an e-Procurement portal?,2 Yes (in use),ARMP,2010,partial,superseded,,,the 2025 round answers it
+gtmi-d0319c714b,gtmi,2022,TGO,I-12,Is there an e-Procurement portal?,2 Yes (in use),Direction Nationale de Contrôle des Marchés Publics (DNCMP); Participation of SMEs / startups; + Services procured from SMEs / startups,2010,partial,superseded,,,the 2025 round answers it
+gtmi-2abc531f47,gtmi,2022,TUN,I-12,Is there an e-Procurement portal?,2 Yes (in use),Tunisia on line e-procurement system TUNEPS; e-payment,2013,partial,superseded,,,the 2025 round answers it
+gtmi-46cc66477a,gtmi,2020,TUN,I-12,Is there an e-Procurement portal?,2 Yes (in use),TUNEPS,2013,partial,superseded,,,the 2025 round answers it
+gtmi-b2f1e20ffb,gtmi,2025,TUN,I-12,Is there an e-Procurement portal?,2 Yes (in use),Tunisia on line e-procurement system TUNEPS,2013,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TUN-001
+gtmi-67db511736,gtmi,2020,TZA,I-12,Is there an e-Procurement portal?,2 Yes (in use),TendersPortal,2010,partial,superseded,,,the 2025 round answers it
+gtmi-6ce7290dc0,gtmi,2025,TZA,I-12,Is there an e-Procurement portal?,2 Yes (in use),"National e-Procurement System of Tanzania (NeST); An electronic system that facilitates e-registration, e-tendering, e-contract management, e-payment, e-catalogue and e-auction.",2023,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TZA-001
+gtmi-6ebe9c1675,gtmi,2022,TZA,I-12,Is there an e-Procurement portal?,2 Yes (in use),"Tanzania e-procurement system (TANePS); Tender notification, tender preparation and submission, online tender evaluation, contract awarding, creation and management of catalogue, creation and management of framework agreements and auctions and payments",2018,partial,superseded,,,the 2025 round answers it
+gtmi-3b76c090d4,gtmi,2025,UGA,I-12,Is there an e-Procurement portal?,2 Yes (in use),e-GP Portal; Integrating digital signatures which is currently at testing stage,2019,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as UGA-001
+gtmi-a2967b4886,gtmi,2020,UGA,I-12,Is there an e-Procurement portal?,2 Yes (in use),Tender Portal,2011,partial,superseded,,,the 2025 round answers it
+gtmi-e329041043,gtmi,2022,UGA,I-12,Is there an e-Procurement portal?,2 Yes (in use),e-GP  Portal; Services procured from startups( require local content for all procurements),2019,partial,superseded,,,the 2025 round answers it
+gtmi-3a5cba7329,gtmi,2025,ZAF,I-12,Is there an e-Procurement portal?,2 Yes (in use),National Treasury Website,2002,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the Treasury's website, not a system"
+gtmi-d336d118f8,gtmi,2020,ZAF,I-12,Is there an e-Procurement portal?,2 Yes (in use),National Treasury Website,2002,partial,superseded,,,the 2025 round answers it
+gtmi-da8aa219c4,gtmi,2022,ZAF,I-12,Is there an e-Procurement portal?,2 Yes (in use),National Treasury Website,2002,partial,superseded,,,the 2025 round answers it
+gtmi-ab1ebc87e1,gtmi,2020,ZMB,I-12,Is there an e-Procurement portal?,2 Yes (in use),Electronic – Government Procurement (E-GP) System,2008,partial,superseded,,,the 2025 round answers it
+gtmi-ca4791ed44,gtmi,2022,ZMB,I-12,Is there an e-Procurement portal?,2 Yes (in use),Electronic Government Procurement System; e-auctoning & planned interface to IFMIS and GSB,2015,partial,superseded,,,the 2025 round answers it
+gtmi-ef5c087533,gtmi,2025,ZMB,I-12,Is there an e-Procurement portal?,2 Yes (in use),Electronic Government Procurement System; End to End Procurement Systems,2015,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ZMB-001
+gtmi-abc09fc498,gtmi,2025,ZWE,I-12,Is there an e-Procurement portal?,2 Yes (in use),eGP; Participation of SMEs/Startups/Services Procured from SMEs/Startups,2023,partial,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ZWE-001
+gtmi-f9c03610e3,gtmi,2020,ZWE,I-12,Is there an e-Procurement portal?,2 Yes (in use),Procurement Portal,2017,partial,superseded,,,the 2025 round answers it
+gtmi-fd62652fba,gtmi,2022,ZWE,I-12,Is there an e-Procurement portal?,2 Yes (in use),Procurement Portal,2022,partial,superseded,,,the 2025 round answers it

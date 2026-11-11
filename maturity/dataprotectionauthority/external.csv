@@ -1,0 +1,164 @@
+claim,source,survey_year,iso3,item,question,status,name,year,fit,outcome,slug,row_ids,note
+gtmi-1bc64753e9,gtmi,2020,AGO,I-39,Is there a Data Protection Authority?,2 Yes,Data Protection Agency,2019,same,superseded,,,the 2025 round answers it
+gtmi-65f72c53f2,gtmi,2022,AGO,I-39,Is there a Data Protection Authority?,2 Yes,Agência de Protecção de Dados / Data Protection Agency,2019,same,superseded,,,the 2025 round answers it
+gtmi-c27ca79c4e,gtmi,2025,AGO,I-39,Is there a Data Protection Authority?,2 Yes,Agência de Protecção de Dados / Data Protection Agency,2019,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as AGO-002
+gtmi-18b58e82d1,gtmi,2025,BDI,I-39,Is there a Data Protection Authority?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-75084a5e19,gtmi,2020,BDI,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-b17bc3b283,gtmi,2022,BDI,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-390a6b8e0f,gtmi,2020,BEN,I-39,Is there a Data Protection Authority?,2 Yes,Commission Nationale de l’informatique et des libertés,2009,same,superseded,,,the 2025 round answers it
+gtmi-4f7751ac6f,gtmi,2022,BEN,I-39,Is there a Data Protection Authority?,2 Yes,Autorités de Protection de Données à caractère Personnel,2009,same,superseded,,,the 2025 round answers it
+gtmi-b99fededb1,gtmi,2025,BEN,I-39,Is there a Data Protection Authority?,2 Yes,Personal Data Protection Authority,2009,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BEN-001
+gtmi-a7a18cb856,gtmi,2025,BFA,I-39,Is there a Data Protection Authority?,2 Yes,Commission de l’Informatique et des Libertés,2004,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BFA-005
+gtmi-b249093b28,gtmi,2020,BFA,I-39,Is there a Data Protection Authority?,2 Yes,Commission for Informatics and Liberties,2004,same,superseded,,,the 2025 round answers it
+gtmi-cd9a139ed1,gtmi,2022,BFA,I-39,Is there a Data Protection Authority?,2 Yes,Commission de l'informatique et des libertés,2004,same,superseded,,,the 2025 round answers it
+gtmi-419f5053c2,gtmi,2020,BWA,I-39,Is there a Data Protection Authority?,1 Not established yet (visible in law),The Office of Commissioner for Data Protection,,same,superseded,,,the 2025 round answers it
+gtmi-a1656b8c4f,gtmi,2022,BWA,I-39,Is there a Data Protection Authority?,1 Not established yet (visible in law),The Office of Commissioner for Data Protection,,same,superseded,,,the 2025 round answers it
+gtmi-acafd52c4b,gtmi,2025,BWA,I-39,Is there a Data Protection Authority?,2 Yes,Information and Data Protection Commission,2023,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BWA-002
+gtmi-58b2260b27,gtmi,2022,CAF,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-59389966b8,gtmi,2020,CAF,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-d9349b25d6,gtmi,2025,CAF,I-39,Is there a Data Protection Authority?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-0addbab40e,gtmi,2022,CIV,I-39,Is there a Data Protection Authority?,2 Yes,ARTCI ICT Regulatory Authority of Côte d'Ivoire,2012,same,superseded,,,the 2025 round answers it
+gtmi-331a9003ca,gtmi,2020,CIV,I-39,Is there a Data Protection Authority?,2 Yes,ARTCI ICT Regulatory Authority of Côte d'Ivoire,2012,same,superseded,,,the 2025 round answers it
+gtmi-fdcfa97897,gtmi,2025,CIV,I-39,Is there a Data Protection Authority?,2 Yes,ARTCI ICT Regulatory Authority of Côte d'Ivoire,2013,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CIV-002
+gtmi-323b33dd83,gtmi,2022,CMR,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-793d3654d7,gtmi,2020,CMR,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-f13ef02dae,gtmi,2025,CMR,I-39,Is there a Data Protection Authority?,1 Not established yet (visible in law),Personal Data Protection Authority,2026,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CMR-001
+gtmi-839a7d30e5,gtmi,2022,COD,I-39,Is there a Data Protection Authority?,1 Not established yet (visible in law),Autorité Congolaise de Protection de Données,2022,same,superseded,,,the 2025 round answers it
+gtmi-b555492d4a,gtmi,2020,COD,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-f91f04a0a4,gtmi,2025,COD,I-39,Is there a Data Protection Authority?,2 Yes,Autorité  de Protection de Données,2024,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by COD-008 (authority not installed)
+gtmi-5dd2b7042b,gtmi,2022,COG,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-8555317a44,gtmi,2025,COG,I-39,Is there a Data Protection Authority?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by COG-001
+gtmi-fc927139f0,gtmi,2020,COG,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-cde72afb7c,gtmi,2020,COM,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-d1507c2287,gtmi,2025,COM,I-39,Is there a Data Protection Authority?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-fddfddffd6,gtmi,2022,COM,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-7219dcc9a6,gtmi,2022,CPV,I-39,Is there a Data Protection Authority?,2 Yes,"CNPD (Comissão Nacional de Proteção de Dados Pessoais, Commission for National Data Protectionauthority.)",2013,same,superseded,,,the 2025 round answers it
+gtmi-e16b8d4f42,gtmi,2020,CPV,I-39,Is there a Data Protection Authority?,2 Yes,"Comissão Nacional de Proteção de Dados Pessoais, Commission for National Data Protection
+authority.",2001,same,superseded,,,the 2025 round answers it
+gtmi-ede958cd0f,gtmi,2025,CPV,I-39,Is there a Data Protection Authority?,2 Yes,"CNPD (Comissão Nacional de Proteção de Dados Pessoais, Commission for National Data Protectionauthority.)",2013,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CPV-001
+gtmi-519c76e07c,gtmi,2022,DJI,I-39,Is there a Data Protection Authority?,1 Not established yet (visible in law),Commission Nationale de la Protection des Données,2022,same,superseded,,,the 2025 round answers it
+gtmi-cc0dddc3ed,gtmi,2025,DJI,I-39,Is there a Data Protection Authority?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-f74e8f360b,gtmi,2020,DJI,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-14dd3d9b16,gtmi,2025,DZA,I-39,Is there a Data Protection Authority?,2 Yes,national authority for the protection of personal data,2018,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as DZA-001
+gtmi-d05027e727,gtmi,2022,DZA,I-39,Is there a Data Protection Authority?,2 Yes,Autorité nationale de protection des données à caractère personnel,2018,same,superseded,,,the 2025 round answers it
+gtmi-dac2c78bda,gtmi,2020,DZA,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-4654ecfc9e,gtmi,2025,EGY,I-39,Is there a Data Protection Authority?,2 Yes,Data Proctection Center,2025,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as EGY-001
+gtmi-8848079a8b,gtmi,2022,EGY,I-39,Is there a Data Protection Authority?,1 Not established yet (visible in law),Data Protection Authority,2023,same,superseded,,,the 2025 round answers it
+gtmi-a534720404,gtmi,2020,EGY,I-39,Is there a Data Protection Authority?,1 Not established yet (visible in law),Data Protection Authority,,same,superseded,,,the 2025 round answers it
+gtmi-0348bf60f0,gtmi,2025,ERI,I-39,Is there a Data Protection Authority?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-e8799cc4fd,gtmi,2022,ERI,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-e9db501c27,gtmi,2020,ERI,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-3755213ac2,gtmi,2025,ETH,I-39,Is there a Data Protection Authority?,2 Yes,Ethiopian Communication Authority,2023,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ETH-001
+gtmi-3fe8dfd0eb,gtmi,2020,ETH,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-6e80d1e51d,gtmi,2022,ETH,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-46c6b1f489,gtmi,2025,GAB,I-39,Is there a Data Protection Authority?,2 Yes,Autorité de Protection des Données Personnelles et de la Vie privée (APDPVP),2023,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as GAB-001
+gtmi-6b94cf7091,gtmi,2020,GAB,I-39,Is there a Data Protection Authority?,2 Yes,Association francophone des autorités de protection des données personnelles (afapdp),2011,same,superseded,,,the 2025 round answers it
+gtmi-d140f142e2,gtmi,2022,GAB,I-39,Is there a Data Protection Authority?,2 Yes,Association francophone des autorités de protection des données personnelles (afapdp),2011,same,superseded,,,the 2025 round answers it
+gtmi-25bb7994b1,gtmi,2025,GHA,I-39,Is there a Data Protection Authority?,2 Yes,Data Protection Commissioner,2012,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as GHA-001
+gtmi-d245b0c821,gtmi,2020,GHA,I-39,Is there a Data Protection Authority?,2 Yes,Data Protection Commissioner,2012,same,superseded,,,the 2025 round answers it
+gtmi-eb630342a2,gtmi,2022,GHA,I-39,Is there a Data Protection Authority?,2 Yes,Data Protection Commissioner,2012,same,superseded,,,the 2025 round answers it
+gtmi-b9fc41b4f2,gtmi,2022,GIN,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-d5126d0e53,gtmi,2025,GIN,I-39,Is there a Data Protection Authority?,1 Not established yet (visible in law),AN-PDP,2026,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as GIN-002
+gtmi-e48c9eff1a,gtmi,2020,GIN,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-9954a3a498,gtmi,2025,GMB,I-39,Is there a Data Protection Authority?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-9a703deb6c,gtmi,2022,GMB,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-f029dc5c92,gtmi,2020,GMB,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-4176858ecd,gtmi,2022,GNB,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-67bc535517,gtmi,2020,GNB,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-918fd5f19b,gtmi,2025,GNB,I-39,Is there a Data Protection Authority?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-107ecf678e,gtmi,2020,GNQ,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-4ec1e786d7,gtmi,2022,GNQ,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-d65e832145,gtmi,2025,GNQ,I-39,Is there a Data Protection Authority?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-4148238ecf,gtmi,2020,KEN,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-bfcc73676f,gtmi,2025,KEN,I-39,Is there a Data Protection Authority?,2 Yes,Office of the Data Protection Commissioner,2019,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as KEN-001
+gtmi-c576bab097,gtmi,2022,KEN,I-39,Is there a Data Protection Authority?,2 Yes,Office of the Data Protection Commissioner,2019,same,superseded,,,the 2025 round answers it
+gtmi-0968c03620,gtmi,2025,LBR,I-39,Is there a Data Protection Authority?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-35ff2ccf7d,gtmi,2020,LBR,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-ad484a6e31,gtmi,2022,LBR,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-7da85959d5,gtmi,2022,LBY,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-c2493f7f20,gtmi,2025,LBY,I-39,Is there a Data Protection Authority?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-dbd9372437,gtmi,2020,LBY,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-33cc468a3b,gtmi,2025,LSO,I-39,Is there a Data Protection Authority?,1 Not established yet (visible in law),Data Protection Commission,2026,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as LSO-002
+gtmi-45687c64e2,gtmi,2022,LSO,I-39,Is there a Data Protection Authority?,1 Not established yet (visible in law),Data Protection Commission,,same,superseded,,,the 2025 round answers it
+gtmi-d7b4fb5766,gtmi,2020,LSO,I-39,Is there a Data Protection Authority?,1 Not established yet (visible in law),Data Protection Commission,,same,superseded,,,the 2025 round answers it
+gtmi-093b376f95,gtmi,2020,MAR,I-39,Is there a Data Protection Authority?,2 Yes,National Commission for the Control and the Protection of Personal Data,2010,same,superseded,,,the 2025 round answers it
+gtmi-da68ac3526,gtmi,2025,MAR,I-39,Is there a Data Protection Authority?,2 Yes,National Commission for the Control and the Protection of Personal Data,2010,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MAR-005
+gtmi-ea00e39bb8,gtmi,2022,MAR,I-39,Is there a Data Protection Authority?,2 Yes,National Commission for the Control and the Protection of Personal Data,2010,same,superseded,,,the 2025 round answers it
+gtmi-2e24fe4bf0,gtmi,2020,MDG,I-39,Is there a Data Protection Authority?,1 Not established yet (visible in law),Commission Malagasy sur l'Informatique et des Libertés (CMIL),,same,superseded,,,the 2025 round answers it
+gtmi-354e1f1c52,gtmi,2022,MDG,I-39,Is there a Data Protection Authority?,1 Not established yet (visible in law),Commission Malagasy sur l'Informatique et des Libertés (CMIL),,same,superseded,,,the 2025 round answers it
+gtmi-84f98d7fd3,gtmi,2025,MDG,I-39,Is there a Data Protection Authority?,2 Yes,Commission Malagasy sur l'Informatique et des Libertés (CMIL),2025,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MDG-002
+gtmi-1cb93bda82,gtmi,2022,MLI,I-39,Is there a Data Protection Authority?,2 Yes,Autorité de protection des données à caractère personnel (APDP),2016,same,superseded,,,the 2025 round answers it
+gtmi-cd95773390,gtmi,2025,MLI,I-39,Is there a Data Protection Authority?,2 Yes,Autorité de protection des données à caractère personnel (APDP),2016,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MLI-002
+gtmi-f1ec2b5013,gtmi,2020,MLI,I-39,Is there a Data Protection Authority?,2 Yes,Autorité de protection des données à caractère personnel (APDP),2016,same,superseded,,,the 2025 round answers it
+gtmi-6e0049805d,gtmi,2020,MOZ,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-9cc6fa2a5d,gtmi,2022,MOZ,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-ce689daf96,gtmi,2025,MOZ,I-39,Is there a Data Protection Authority?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-0b2ff5a03f,gtmi,2025,MRT,I-39,Is there a Data Protection Authority?,2 Yes,Autorité de Protection des Données à caractère personnel (APD),2023,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MRT-001
+gtmi-7c08f28e0c,gtmi,2022,MRT,I-39,Is there a Data Protection Authority?,1 Not established yet (visible in law),Autorité de Protection des Données à caractère personnel (APD),,same,superseded,,,the 2025 round answers it
+gtmi-bbcedc8d28,gtmi,2020,MRT,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-8fecf2ff1a,gtmi,2022,MUS,I-39,Is there a Data Protection Authority?,2 Yes,The Data Protection Office,2009,same,superseded,,,the 2025 round answers it
+gtmi-a82117b9b5,gtmi,2025,MUS,I-39,Is there a Data Protection Authority?,2 Yes,The Data Protection Office,2009,same,nothing,2025-11-01-mus-decisions-on-complaints-by-year,,held as MUS-005
+gtmi-b096d7be48,gtmi,2020,MUS,I-39,Is there a Data Protection Authority?,2 Yes,The Data Protection Office,2009,same,superseded,,,the 2025 round answers it
+gtmi-62e8e1e54e,gtmi,2022,MWI,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-a924d1caff,gtmi,2020,MWI,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-b8465c568b,gtmi,2025,MWI,I-39,Is there a Data Protection Authority?,2 Yes,Malawi Data Protection Authority,2024,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MWI-010
+gtmi-5b27aa15f6,gtmi,2020,NAM,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-9bd19473a2,gtmi,2025,NAM,I-39,Is there a Data Protection Authority?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-f196232b55,gtmi,2022,NAM,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-4e13a987ae,gtmi,2020,NER,I-39,Is there a Data Protection Authority?,2 Yes,Haute autorité de protection des données à caractère personnel (HAPD),2017,same,superseded,,,the 2025 round answers it
+gtmi-d249f930a5,gtmi,2025,NER,I-39,Is there a Data Protection Authority?,2 Yes,Haute autorité de protection des données à caractère personnel (HAPD),2017,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as NER-002
+gtmi-e3ed047264,gtmi,2022,NER,I-39,Is there a Data Protection Authority?,2 Yes,Haute autorité de protection des données à caractère personnel (HAPD),2017,same,superseded,,,the 2025 round answers it
+gtmi-67ff8008cb,gtmi,2022,NGA,I-39,Is there a Data Protection Authority?,2 Yes,The National Information Technology Development Agency (NITDA),2019,same,superseded,,,the 2025 round answers it
+gtmi-eccb732d6c,gtmi,2025,NGA,I-39,Is there a Data Protection Authority?,2 Yes,Nigeria Data Protection Commission,2023,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as NGA-003
+gtmi-f9cdba05ca,gtmi,2020,NGA,I-39,Is there a Data Protection Authority?,2 Yes,The National Information Technology Development Agency (NITDA),2019,same,superseded,,,the 2025 round answers it
+gtmi-17d089da70,gtmi,2025,RWA,I-39,Is there a Data Protection Authority?,2 Yes,Data Protection and Privacy Office,2020,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as RWA-001
+gtmi-5f8beb0647,gtmi,2020,RWA,I-39,Is there a Data Protection Authority?,2 Yes,Data Protection Authority,2020,same,superseded,,,the 2025 round answers it
+gtmi-c1e4153bbb,gtmi,2022,RWA,I-39,Is there a Data Protection Authority?,2 Yes,Law relating to the protection of personal data and privacy,2020,same,superseded,,,the 2025 round answers it
+gtmi-0eb7c5d174,gtmi,2022,SDN,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-63b989a8cc,gtmi,2020,SDN,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-76294a58c3,gtmi,2025,SDN,I-39,Is there a Data Protection Authority?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-0a4929421d,gtmi,2022,SEN,I-39,Is there a Data Protection Authority?,2 Yes,"Commission de protection des données personnelles, Commission for the protection of personal data",2008,same,superseded,,,the 2025 round answers it
+gtmi-58741c36ce,gtmi,2020,SEN,I-39,Is there a Data Protection Authority?,2 Yes,"Commission de protection des données personnelles, Commission for the protection of personal data",2008,same,superseded,,,the 2025 round answers it
+gtmi-d08ab2659d,gtmi,2025,SEN,I-39,Is there a Data Protection Authority?,2 Yes,Commission de protection des données personnelles / Commission for the protection of personal data,2008,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SEN-002
+gtmi-883ee613ba,gtmi,2022,SLE,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-ec3940b4dc,gtmi,2025,SLE,I-39,Is there a Data Protection Authority?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-f2c1403fd8,gtmi,2020,SLE,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-13d64bcea8,gtmi,2022,SOM,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-93461ef8a9,gtmi,2025,SOM,I-39,Is there a Data Protection Authority?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-a47c235f06,gtmi,2020,SOM,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-0d0a30d3f1,gtmi,2022,SSD,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-3b23239d33,gtmi,2020,SSD,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-495978d9d1,gtmi,2025,SSD,I-39,Is there a Data Protection Authority?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-23ee4f0596,gtmi,2022,STP,I-39,Is there a Data Protection Authority?,2 Yes,National Data Protection Agency (ANPDP),2018,same,superseded,,,the 2025 round answers it
+gtmi-b120e9eee6,gtmi,2020,STP,I-39,Is there a Data Protection Authority?,2 Yes,National Data Protection Agency (ANPDP),2018,same,superseded,,,the 2025 round answers it
+gtmi-f7282e6cad,gtmi,2025,STP,I-39,Is there a Data Protection Authority?,2 Yes,National Data Protection Agency (ANPDP),2018,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as STP-001
+gtmi-3f4f3fe2c5,gtmi,2022,SWZ,I-39,Is there a Data Protection Authority?,1 Not established yet (visible in law),Eswatini Communications Commission,2022,same,superseded,,,the 2025 round answers it
+gtmi-65054dc484,gtmi,2020,SWZ,I-39,Is there a Data Protection Authority?,1 Not established yet (visible in law),Swaziland Communications Commission,,same,superseded,,,the 2025 round answers it
+gtmi-9ce09a3f89,gtmi,2025,SWZ,I-39,Is there a Data Protection Authority?,2 Yes,Eswatini Data Protection Authority,2023,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SWZ-001
+gtmi-0b8f548cd4,gtmi,2022,SYC,I-39,Is there a Data Protection Authority?,1 Not established yet (visible in law),Data Protection Commissioner,,same,superseded,,,the 2025 round answers it
+gtmi-cae57bc807,gtmi,2025,SYC,I-39,Is there a Data Protection Authority?,2 Yes,Information Commission,2023,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SYC-001
+gtmi-d0c2bc5c8a,gtmi,2020,SYC,I-39,Is there a Data Protection Authority?,1 Not established yet (visible in law),Data Protection Commissioner,,same,superseded,,,the 2025 round answers it
+gtmi-27c82111ff,gtmi,2025,TCD,I-39,Is there a Data Protection Authority?,2 Yes,Agence Nationale de Sécurité Informatique et de Certification Électronique (ANSICE),2016,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TCD-001
+gtmi-98922d53ed,gtmi,2022,TCD,I-39,Is there a Data Protection Authority?,2 Yes,Agence Nationale de Sécurité Informatique et de Certification Électronique (ANSICE),2016,same,superseded,,,the 2025 round answers it
+gtmi-fa613714a7,gtmi,2020,TCD,I-39,Is there a Data Protection Authority?,2 Yes,Agence Nationale de Sécurité Informatique et de Certification Électronique (ANSICE),2016,same,superseded,,,the 2025 round answers it
+gtmi-07a114b6e0,gtmi,2022,TGO,I-39,Is there a Data Protection Authority?,2 Yes,Instance de protection des données à caractère personnel (IPDCP),2019,same,superseded,,,the 2025 round answers it
+gtmi-61e6465f6f,gtmi,2025,TGO,I-39,Is there a Data Protection Authority?,2 Yes,Instance de Protection de Données à Caractère Personnel (IPDCP),2024,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TGO-002
+gtmi-e78de54e6e,gtmi,2020,TGO,I-39,Is there a Data Protection Authority?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-8effef5247,gtmi,2020,TUN,I-39,Is there a Data Protection Authority?,2 Yes,National Authority for the Protection of Personal Data - Instance nationale de protection des données à caractère personnel (INPDP),2004,same,superseded,,,the 2025 round answers it
+gtmi-b2c1a2b54f,gtmi,2022,TUN,I-39,Is there a Data Protection Authority?,2 Yes,l'Instance Nationale de Protection des Données à Caractère Personnel,2004,same,superseded,,,the 2025 round answers it
+gtmi-fb74a93c6f,gtmi,2025,TUN,I-39,Is there a Data Protection Authority?,2 Yes,l'Instance Nationale de Protection des Données à Caractère Personnel,2004,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TUN-008
+gtmi-0b5c1fea5b,gtmi,2022,TZA,I-39,Is there a Data Protection Authority?,2 Yes,The Tanzania Communications and Regulatory Authority (TCRA),2003,same,superseded,,,the 2025 round answers it
+gtmi-40d965718d,gtmi,2025,TZA,I-39,Is there a Data Protection Authority?,2 Yes,The Personal Data Protection Commission,2023,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TZA-001
+gtmi-89af2a9053,gtmi,2020,TZA,I-39,Is there a Data Protection Authority?,1 Not established yet (visible in law),The Tanzania Communications and Regulatory Authority (TCRA),,same,superseded,,,the 2025 round answers it
+gtmi-9ad63f1945,gtmi,2022,UGA,I-39,Is there a Data Protection Authority?,2 Yes,Personal Data Protection Office,2021,same,superseded,,,the 2025 round answers it
+gtmi-b018d741fd,gtmi,2025,UGA,I-39,Is there a Data Protection Authority?,2 Yes,Personal Data Protection Office,2021,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as UGA-001
+gtmi-d2a79b2299,gtmi,2020,UGA,I-39,Is there a Data Protection Authority?,2 Yes,Personal Data Protection Office under NITA,2019,same,superseded,,,the 2025 round answers it
+gtmi-84cc4eb1a1,gtmi,2020,ZAF,I-39,Is there a Data Protection Authority?,2 Yes,Information Regulator,2013,same,superseded,,,the 2025 round answers it
+gtmi-90884fbc4d,gtmi,2025,ZAF,I-39,Is there a Data Protection Authority?,2 Yes,Information Regulator,2014,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ZAF-001
+gtmi-bc1f721d4c,gtmi,2022,ZAF,I-39,Is there a Data Protection Authority?,2 Yes,Information Regulator,2013,same,superseded,,,the 2025 round answers it
+gtmi-9954b3b921,gtmi,2020,ZMB,I-39,Is there a Data Protection Authority?,2 Yes,Zambia Information and Communications Technology Authority (ZICTA),2009,same,superseded,,,the 2025 round answers it
+gtmi-d58d73d051,gtmi,2025,ZMB,I-39,Is there a Data Protection Authority?,2 Yes,Data Protection Commission (DPC),2022,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ZMB-002
+gtmi-efa75601a7,gtmi,2022,ZMB,I-39,Is there a Data Protection Authority?,1 Not established yet (visible in law),Data Protection department under Ministry of Technology and Science,2009,same,superseded,,,the 2025 round answers it
+gtmi-91d3ce540f,gtmi,2022,ZWE,I-39,Is there a Data Protection Authority?,2 Yes,POTRAZ,2021,same,superseded,,,the 2025 round answers it
+gtmi-95b2f3d410,gtmi,2025,ZWE,I-39,Is there a Data Protection Authority?,2 Yes,POTRAZ,2024,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ZWE-001
+gtmi-dc26bde3dd,gtmi,2020,ZWE,I-39,Is there a Data Protection Authority?,1 Not established yet (visible in law),Data Protection Authority,,same,superseded,,,the 2025 round answers it

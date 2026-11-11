@@ -1,0 +1,18 @@
+{
+ "slug": "2024-04-01-mauritania-national-artificial-intelligence-strategy-2024-2029-draft",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Artificial Intelligence Strategy of Mauritania 2024-2029 (Draft)",
+   "country_label": "Mauritania",
+   "class": "other",
+   "platform": "",
+   "owner": "MTNIMA",
+   "tiers": ""
+  }
+ ],
+ "note": "Draft strategy only; it states no rule, draft regulation or authority on AI harms (only data-protection compliance and cooperation on AI regulation).",
+ "claims": {
+  "gtmi-7e86826cdf": "nothing: the draft strategy is a strategy with no rule or authority on AI harms; GTMI's planned ethics guidelines is not assessed"
+ }
+}

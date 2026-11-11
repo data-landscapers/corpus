@@ -1,0 +1,18 @@
+{
+ "slug": "2024-10-01-zaf-dcdt-national-ai-policy-framework",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National AI Policy Framework",
+   "country_label": "South Africa",
+   "class": "other",
+   "platform": "",
+   "owner": "DCDT",
+   "tiers": ""
+  }
+ ],
+ "note": "Undated policy framework, first step to a national AI policy; says the policy will be the basis for AI regulations and possibly an AI Act, but states no bill, rule in force or authority on AI harms.",
+ "claims": {
+  "gtmi-e2033afc4f": "nothing: policy framework with no draft rule or authority on AI harms; ethics guidelines not assessed"
+ }
+}

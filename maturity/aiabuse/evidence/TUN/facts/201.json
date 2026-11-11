@@ -1,0 +1,18 @@
+{
+ "slug": "2025-02-06-tun-ia-une-strategie-nationale-tunisienne-sera-soumise-a-une-large-consult",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Tunisia national AI strategy (draft)",
+   "country_label": "Tunisia",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Communication Technologies",
+   "tiers": ""
+  }
+ ],
+ "note": "Minister says the draft strategy envisages a legal framework protecting users; no bill, regulation or authority is stated.",
+ "claims": {
+  "gtmi-9771f76f76": "nothing: ethics guidelines not assessed; the interview names no guidelines, rule or authority on AI harms"
+ }
+}
