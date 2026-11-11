@@ -9,9 +9,11 @@ BEN,2023-11-22-ben-masm-rsu-lancement-mise-en-place,,2026-10-19
 BEN,2025-04-09-ben-afco-assurance-maladie-arch-rsu,,2026-10-19
 BEN,2025-09-22-gbessoke-transferts-monetaires-demarrage,,2026-10-19
 BEN,2026-01-21-registre-social-unique-protection-vulnerables,,2026-10-19
+BEN,2026-03-25-tgo-wb-wuri-phase-2-restructuring-paper-res01578,,2026-11-11
 BFA,2023-12-12-bfa-findev-paiements-sociaux-mobile-money,,2026-10-19
 BFA,2024-12-30-bfa-faso7-jsena-statistiques-education-sige,,2026-10-19
 BFA,2025-07-28-saspp-burkina-faso,,2026-10-19
+BFA,2026-03-25-tgo-wb-wuri-phase-2-restructuring-paper-res01578,,2026-11-11
 BFA,2026-07-24-bfa-worldbank-ppsas-burkina-rsu-sig,,2026-10-19
 BWA,2024-09-10-bwa-imf-reforming-social-security-system,,2026-10-19
 CAF,2021-10-01-caf-worldbank-paiements-numeriques-filets-sociaux,,2026-10-19
@@ -51,6 +53,7 @@ EGY,2024-05-28-egypt-takaful-karama-cash-transfer,,2026-10-19
 EGY,2024-08-01-egy-50-000-new-families-added-to-takaful-karama-cash-support-programme,,2026-11-06
 EGY,2025-02-20 WB Policy Note - Automatic Health Insurance Enrollment for Vulnerable Individuals (Egypt UHI),,2026-10-19
 EGY,2025-06-01 Takaful and Karama - Egypt's social-protection platform (World Bank interview),,2026-10-19
+EGY,2025-06-15-egy-youm7-uhia-70-percent-services-digitised,,2026-11-11
 EGY,2026-05-01-egy-takaful-karama-pension-payment-via-mobile-wallets,,2026-11-06
 EGY,2026-06-01-egy-social-solidarity-launches-june-takaful-and-karama-disbursement,,2026-11-06
 EGY,2026-06-14-egypt-unified-government-services-card-ahram,,2026-10-19
@@ -121,6 +124,8 @@ MOZ,2025-07-18-mozambique-government-failed-social-security-targets-cip-aim,,202
 MOZ,2026-05-19-worldbank-pid-social-registry-af1,,2026-10-19
 MOZ,2026-08-08-ingd-registo-digital-donativos,,2026-10-19
 MOZ,2026-08-10-ingd-sgbah-digital-registration,,2026-10-19
+MOZ,2026-09-01-moz-cedsif-modulos-e-sistafe,,2026-11-11
+MRT,2024-01-01-mrt-avis-general-de-passation-des-marches-du-projet-regional-d-integration,,2026-11-11
 MRT,2024-03-01-unhcr-mauritania-factsheet-march-2024,,2026-10-19
 MRT,2024-05-15-mrt-decret-2024-073-creation-programme-tekavoul-registre-social,,2026-10-19
 MRT,2024-09-05-mauritania-adaptive-social-protection,,2026-10-19
@@ -133,11 +138,13 @@ MRT,2026-07-01-mrt-worldbank-saspp-tekavoul-entree-sortie,,2026-10-19
 MRT,2026-10-13-mrt-bluesquare-health-system-interoperability-lessons,,2026-11-08
 MRT,2026-10-14-mrt-futureafrique-conseil-ministres-composantes-numerique,,2026-10-19
 MRT,2026-10-24-mrt-ami-health-and-digital-transformation-ministers-digitise-new-health-centres,,2026-11-06
+MRT,2026-11-10-mrt-luniversite-de-nouakchott-lance-une-plateforme-numerique-de,,2026-11-11
 MWI,2023-12-04-mwi-social-cash-transfers-spur-financial-inclusion,,2026-11-06
 MWI,2024-07-01-malawi-economic-monitor-reforming-with-urgency,,2026-10-19
 MWI,2024-07-01-scaling-digital-delivery-malawi-sctp-epayment,,2026-10-19
 MWI,2024-07-17-mwi-nation-nrb-under-scrutiny,,2026-10-19
 MWI,2025-03-21-ssrlp-inspire-o-aide-memoire,,2026-10-19
+MWI,2026-01-19-mwi-malawi-moves-to-curb-mobile-fraud,,2026-11-11
 MWI,2026-05-01-mwi-tnm-mpamba-sct-disbursement-mangochi,,2026-10-19
 MWI,2026-06-08-mwi-malawi-digital-economy,,2026-11-08
 MWI,2026-09-04-mwi-macra-digital-scams-alert,,2026-10-19
@@ -149,6 +156,7 @@ NAM,2026-01-01-consolidation-of-social-grants-and-the-food-bank,,2026-10-19
 NAM,2026-01-07-nam-tandf-gronbach-sct-mobile-payments,,2026-10-19
 NER,2024-09-17-ner-lesahel-interview-coordonnateur-wuri-niger,,2026-10-19
 NER,2025-07-28-ner-banquemondiale-ppsas-niger,,2026-10-19
+NER,2026-03-25-tgo-wb-wuri-phase-2-restructuring-paper-res01578,,2026-11-11
 NER,2026-10-17-ner-rsu-presentation,,2026-10-19
 NGA,2023-10-21-nga-punch-cash-transfer-nin-bvn-cbn-payment,,2026-10-19
 NGA,2024-10-20-nga-nairametrics-cash-transfer-4-million-households,,2026-10-19
@@ -196,6 +204,7 @@ STP,2025-09-12-wb-stp-003-social-protection-additional-financing,,2026-10-19
 SWZ,2023-12-18-crs-301-20230103130005-2023-empowering-districts-and-schools-with-data-a-digit,,2026-11-06
 SWZ,2026-01-15-swz-eswatinipositivenews-dpmo-social-grants-system,,2026-10-19
 SYC,2026-09-09-syc-nation-repair-cash-transfer-beneficiary-registry-payments,,2026-10-19
+TCD,2024-06-21-wb-tcd-pfsap-usr-ews-2024,,2026-11-11
 TCD,2025-01-29-tcd-le-transfert-monetaire-aux-menages-vulnerables,,2026-11-06
 TCD,2025-09-01-worldbank-vision-nationale-protection-sociale-adaptive-tchad,,2026-10-19
 TCD,2026-04-03-wb-tcd-pfsap-adaptive-social-safety-nets,,2026-10-19
@@ -206,6 +215,7 @@ TGO,2023-12-18-crs-301-20230103130003-2023-empowering-districts-and-schools-with
 TGO,2024-09-23-tgo-togo-leverages-new-data-science-lab-to-drive-public-sector-innovation,,2026-10-23
 TGO,2025-07-25-tgo-togo-and-uc-berkeley-a-data-science-alliance-to-build-a-dynamic-west-a,,2026-10-23
 TGO,2025-12-19-togo-planification-lancement-operationnalisation-transferts-monetaires,,2026-10-19
+TGO,2026-03-25-tgo-wb-wuri-phase-2-restructuring-paper-res01578,,2026-11-11
 TGO,2026-05-01-tgo-a-gateway-to-social-and-economic-inclusion-and-public-sector-moderniza,,2026-10-23
 TGO,2026-09-14-tgo-sahellibertynews-social-protection-mobile-money-transfers,,2026-10-19
 TGO,2026-10-22-xaf-african-governments-customers-for-local-ai,,2026-11-06
