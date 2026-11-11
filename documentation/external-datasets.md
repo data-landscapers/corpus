@@ -3,7 +3,7 @@ type: design-note
 reader: cc
 title: external-datasets.md — global databases as claims, not scores
 last_reviewed: 2026-11-10
-status: built for aftech, gtmi, unctad, odin, itu, spi and wdi; maturity pass built 2026-11-11
+status: built for aftech, gtmi, unctad, odin, itu, spi and wdi; maturity pass run 2026-11-11
 ---
 
 # External datasets
@@ -89,5 +89,13 @@ The first reading, on 2026-11-10, found three patterns:
 - **An older round closes as `superseded`.** The database record in `raw/` carries the latest round only, so it has nothing to cite.
 - **The rest go to Sonnet drafters**, eight countries a call. A claim is read beside its held primary, or else beside the country's lines of the record. The drafter answers each claim `fact` or `nothing` in its facts file. `close` reads those answers back.
 - **A database year is not a count.** WDI and SPI list a census in the year it was due. For Benin that was 2023, while INStaD was still mapping in March 2024. Where a held primary contradicts a claim, the row goes to `corrections.csv`.
+
+**The first pass closed on 2026-11-11.** All 58 studies were read, 32,316 claim-study pairs in all: 25,308 superseded, 6,483 nothing, 396 facts, 78 already read and 51 continental. About 50 cells moved, nearly all on GovTech's named systems and on primaries Carnegie and UNCTAD pointed to.
+
+**Four rules the pass settled**, each now in the drafter prompt or `screen`:
+- **A database's "no" is never a fact.** Rung 1 needs a dated absence of the thing and of work towards it.
+- **A primary outranks a database.** A round's year stands for its last day, so a survey's answer would otherwise outrank an earlier dated launch.
+- **A "yes" must link the thing asked about.** A statistics office, a third-party platform or a home page does not count.
+- **A mapping marked `partial` is read against the ladder.** ITU's regulator duty to consult is not a consultation held. GovTech's pensions system is not social assistance.
 
 **More sources.** Each source needs one adapter, one register row and a block of mappings.
