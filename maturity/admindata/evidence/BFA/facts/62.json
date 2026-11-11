@@ -1,0 +1,12 @@
+{
+  "slug": "2025-07-21-open-data-inventory-odin-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "ODIN lines score openness of listed indicators and name no record source the figures are drawn from; health is already held.",
+  "claims": {
+    "odin-f3852beab8": "nothing: school counts with no record source named; link is a third-party platform",
+    "odin-37423fe8a7": "nothing: held as BFA-001",
+    "odin-f4077e510d": "nothing: line names no record-holder; link is a third-party platform",
+    "odin-b2ee8bc5a9": "nothing: link is a third-party platform, no record source named"
+  }
+}

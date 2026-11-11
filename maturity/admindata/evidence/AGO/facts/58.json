@@ -1,0 +1,14 @@
+{
+  "slug": "2025-07-21-open-data-inventory-odin-2026-11-10",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "police", "fact": "Open Data Watch's ODIN (2024 round) lists Angola's statistics office as publishing crimes reported by police authorities by province, with 2016 as the latest year of data.", "as_of": "2016", "date_precision": "year", "system": "INE Angola publication of crimes reported by Police Authorities", "class": "admin"}
+  ],
+  "systems": [],
+  "note": "",
+  "claims": {
+    "odin-1c53aa3eb1": "nothing: held as AGO-008",
+    "odin-c07df3bc5f": "nothing: held as AGO-003",
+    "odin-8487c54bcc": "fact",
+    "odin-ed308b2ee7": "nothing: revenue and expenditure lines name no record source"
+  }
+}

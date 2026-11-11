@@ -21,12 +21,12 @@ The African Charter on Statistics (2009, Art. 3) and SHaSA 2 (strategic objectiv
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 24 |
-| 3 Established | 11 |
+| 4 Operating | 25 |
+| 3 Established | 10 |
 | 2 Nascent | 7 |
 | 1 Absent | 0 |
-| Unplaced | 3 |
-| No evidence | 9 |
+| Unplaced | 5 |
+| No evidence | 7 |
 
 ## Countries
 
@@ -49,6 +49,13 @@ Statistics from education records were published twice in three years, the lates
 Statistics from civil registration records were published twice in three years, the latest in 2025; no source found reports three sources published twice.
 
 - INStaD states it schedules a yearbook of civil-status statistics in its work plan every year, and that since 2023 its data come from the ANIP database; this 2024 edition is dated November 2025 ([source, 2025-11](https://www.instad.bj/images/docs/insae-statistiques/Etat-civil/ANNUAIRE_DES_STAT_DE_L'ETAT_CIVIL_2024.pdf)).
+
+### Botswana: 4 Operating
+
+Civil registration statistics were published in 2023 and 2026; no other administrative source is known to be published twice since 2023.
+
+- Statistics Botswana released its Vital Statistics Report 2024 in August 2026, compiled from the Births and Deaths Registration System and Department of Civil and National Registration records, covering births, deaths and marriages registered in 2024 (49,180 births, 14,070 deaths) ([source, 2026-08](https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf)).
+- Statistics Botswana's Statistical Year Book 2020/21, with a preface dated November 2023 (as_of is that publication date), says its vital statistics are compiled from birth, death and marriage data obtained from the Department of Civil and National Registration, and presents them for 2020 ([source, 2023-11](https://statsbots.org.bw/sites/default/files/publications/The%20Statistical%20Year%20Book%202020-21.pdf)).
 
 ### Burkina Faso: 4 Operating
 
@@ -186,12 +193,6 @@ Statistics from transport records were published twice in three years, the lates
 
 - ZIMSTAT's Transport and Infrastructure page says its quarterly statistics are compiled from administrative data obtained from relevant institutions; Transport Statistics Reports are listed for 2023 Q3, 2023 Q4, 2024 Q4, 2025 Q1, 2025 Q2 and 2025 Q4; the page is undated, so it is dated to its retrieval on 19 October 2026 ([source, 2026-10-19](https://zimstat.co.zw/transport-and-infrastructure/)).
 
-### Botswana: 3 Established
-
-Statistics from civil registration records were published in 2026; no administrative source is known to have been published twice since 2023.
-
-- Statistics Botswana released its Vital Statistics Report 2024 in August 2026, compiled from the Births and Deaths Registration System and Department of Civil and National Registration records, covering births, deaths and marriages registered in 2024 (49,180 births, 14,070 deaths) ([source, 2026-08](https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf)).
-
 ### Cape Verde: 3 Established
 
 Statistics from civil registration records were published in 2025; no administrative source is known to have been published twice since 2023.
@@ -302,6 +303,18 @@ No statistics from administrative records published since 2023, or work towards 
 
 Not established: No statistics from administrative records published, and no work towards them, is on record since October 2023.
 
+### Congo: Unplaced
+
+Yearbooks carried figures from ministry records up to 2018 to 2020; nothing published since 2023 is known, so no stage is set.
+
+Not established: No statistics from administrative records published, and no work towards them, is on record since October 2023.
+
+### Djibouti: Unplaced
+
+Yearbooks carried figures from ministry records up to 2022; nothing published since 2023 is known, so no stage is set.
+
+Not established: No statistics from administrative records published, and no work towards them, is on record since October 2023.
+
 ### Libya: Unplaced
 
 No statistics from administrative records published since 2023, or work towards them, are on record, so no stage is set.
@@ -313,18 +326,6 @@ Not established: No statistics from administrative records published, and no wor
 No statistics from administrative records published since 2023, or work towards them, are on record, so no stage is set.
 
 Not established: No statistics from administrative records published, and no work towards them, is on record since October 2023.
-
-### Congo: No evidence
-
-Nothing found says whether the country draws statistics from administrative records, so no stage is set.
-
-Not established: Nothing found names statistics drawn from administrative records, or says there are none.
-
-### Djibouti: No evidence
-
-Nothing found says whether the country draws statistics from administrative records, so no stage is set.
-
-Not established: Nothing found names statistics drawn from administrative records, or says there are none.
 
 ### Equatorial Guinea: No evidence
 

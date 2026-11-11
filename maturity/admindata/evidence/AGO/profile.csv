@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 AGO,admin,use,coverage,published,2025,AGO-006;AGO-007,AGO-001=preparing;AGO-004=preparing,
-AGO,admin,source,coverage,education;health,2026-04-06,AGO-002;AGO-003;AGO-008,,
+AGO,admin,source,coverage,education;health,2026-04-06,AGO-002;AGO-003;AGO-008,AGO-009=police,
 AGO,admin,series,coverage,,,,,nothing found

@@ -1,0 +1,15 @@
+{
+  "slug": "2025-07-21-open-data-inventory-odin-2026-11-10",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "education", "fact": "Open Data Watch's ODIN (2024 round) lists the national statistics office's national education publication 2018-2019 as publishing establishments, infrastructure by school stage and teachers by sex and wilaya, latest data year 2019.", "as_of": "2019", "date_precision": "year", "system": "Education nationale 2018-2019 (ONS)", "class": "admin"},
+    {"sub_indicator": "admin", "aspect": "source", "value": "health", "fact": "Open Data Watch's ODIN (2024 round) lists a statistics office publication (the 2016 edition issued 2017) as publishing numbers of beds and medical personnel, latest data year 2018.", "as_of": "2018", "date_precision": "year", "system": "ONS health statistics publication (AQC R 2016, ed. 2017)", "class": "admin"}
+  ],
+  "systems": [],
+  "claims": {
+    "odin-ad35ca6e77": "fact",
+    "odin-901ba268eb": "fact",
+    "odin-0ec79d964c": "nothing: all scores zero, states nothing",
+    "odin-242b7df444": "nothing: government finance, not a study source"
+  },
+  "note": ""
+}

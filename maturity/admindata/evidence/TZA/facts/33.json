@@ -1,0 +1,49 @@
+{
+ "slug": "2021-01-01-tpf-nbs-crime-report-2020",
+ "facts": [
+  {
+   "sub_indicator": "admin",
+   "aspect": "use",
+   "value": "published",
+   "fact": "The Tanzania Police Force and NBS issued the crime statistics report for January-December 2020 in January 2021, compiled by the Police statistics unit from crime reports received at police stations; as_of is the report's January 2021 date.",
+   "as_of": "2021-01",
+   "date_precision": "month",
+   "system": "Takwimu za Hali ya Uhalifu na Matukio ya Usalama Barabarani, Januari - Desemba 2020",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "source",
+   "value": "police",
+   "fact": "The Police statistics unit states it receives all crimes reported at police stations nationwide, analyses and stores them, and prepares the crime situation reports; the 2020 report is dated January 2021.",
+   "as_of": "2021-01",
+   "date_precision": "month",
+   "system": "Takwimu za Hali ya Uhalifu na Matukio ya Usalama Barabarani, Januari - Desemba 2020",
+   "class": "admin"
+  },
+  {
+   "sub_indicator": "admin",
+   "aspect": "series",
+   "value": "police",
+   "fact": "The Police statistics unit states it prepares the crime situation report every quarter, half-year and year; the January-December 2020 edition is dated January 2021.",
+   "as_of": "2021-01",
+   "date_precision": "month",
+   "system": "Takwimu za Hali ya Uhalifu na Matukio ya Usalama Barabarani, Januari - Desemba 2020",
+   "class": "admin"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Crime Statistics Management Information System (CSMIS)",
+   "country_label": "Tanzania",
+   "class": "admin",
+   "platform": "",
+   "owner": "Tanzania Police Force statistics unit",
+   "tiers": ""
+  }
+ ],
+ "note": "",
+ "claims": {
+  "odin-5f19083e7c": "fact"
+ }
+}

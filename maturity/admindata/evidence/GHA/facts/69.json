@@ -1,0 +1,15 @@
+{
+  "slug": "2025-07-21-open-data-inventory-odin-2026-11-10",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "education", "fact": "Open Data Watch's ODIN (2024 round) lists a Ghana Statistical Service basic education publication as giving numbers of schools by district and teachers, latest data year 2016.", "as_of": "2016", "date_precision": "year", "system": "Education publication, Basic Level (GSS)", "class": "admin"},
+    {"sub_indicator": "admin", "aspect": "source", "value": "health", "fact": "Open Data Watch's ODIN (2024 round) lists the Ghana Statistical Service statistical yearbook (2015 edition, linked) as giving beds by region and provider and health professionals; the line gives data year 2023.", "as_of": "2023", "date_precision": "year", "system": "Statistical Yearbook 2015 (GSS)", "class": "admin"}
+  ],
+  "systems": [],
+  "claims": {
+    "odin-82b0cc9a4f": "fact",
+    "odin-42336b45bb": "fact",
+    "odin-a80ec7f538": "nothing: all scores zero, states nothing",
+    "odin-49bb0c1253": "nothing: government finance on a third-party data platform, not a study source"
+  },
+  "note": ""
+}

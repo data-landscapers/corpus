@@ -1,0 +1,12 @@
+{
+  "slug": "2025-07-21-open-data-inventory-odin-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "ODIN lines score openness of listed indicators and name no record source that education, health, crime or finance figures are drawn from; education and health are already held.",
+  "claims": {
+    "odin-c8339e4acd": "nothing: held as BDI-002",
+    "odin-bef474ffb7": "nothing: held as BDI-004",
+    "odin-4275cf76ec": "nothing: line names no record-holder for crime counts",
+    "odin-2d0a40550d": "nothing: revenue and expenditure lines name no record source; link is a third-party platform"
+  }
+}

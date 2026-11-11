@@ -1,0 +1,13 @@
+{
+  "slug": "2025-07-21-open-data-inventory-odin-2026-11-10",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "education", "fact": "Open Data Watch's ODIN (2024 round) lists the national statistics office's statistical yearbook as publishing numbers of schools and teaching staff, latest data year 2021.", "as_of": "2021", "date_precision": "year", "system": "Anuario estatistico 2020 (INE)", "class": "admin"}
+  ],
+  "systems": [],
+  "claims": {
+    "odin-8fd4631652": "fact",
+    "odin-56145277a8": "nothing: link is an SDG indicators compilation, not a crime or justice record",
+    "odin-7ad3768cf7": "nothing: government finance from the central bank, not a study source"
+  },
+  "note": ""
+}

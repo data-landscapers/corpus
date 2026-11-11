@@ -1,0 +1,12 @@
+{
+  "slug": "2025-07-21-open-data-inventory-odin-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "ODIN lines name no record source; the health link is a ministry activity report, the finance link a central bank report, and crime has no data.",
+  "claims": {
+    "odin-e0541e9346": "nothing: school counts with no record source named",
+    "odin-b426dd5edc": "nothing: link is a ministry's report on its own activity",
+    "odin-657d107d19": "nothing: no crime data published",
+    "odin-af02c88a4d": "nothing: link is a central bank annual report"
+  }
+}

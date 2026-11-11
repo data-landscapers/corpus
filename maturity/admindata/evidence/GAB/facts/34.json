@@ -1,0 +1,15 @@
+{
+  "slug": "2025-07-21-open-data-inventory-odin-2026-11-10",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "education", "fact": "Open Data Watch's ODIN (2024 round) lists the statistics office's health, education and human development publication as giving numbers of public schools, technical schools, institutions and teachers, latest data year 2021.", "as_of": "2021", "date_precision": "year", "system": "Sante, education et developpement humain (statgabon)", "class": "admin"},
+    {"sub_indicator": "admin", "aspect": "source", "value": "justice", "fact": "Open Data Watch's ODIN (2024 round) lists a statistics office publication as giving detainees by type of infraction and prisoners by sex, latest data year 2017.", "as_of": "2017", "date_precision": "year", "system": "Environnement (statgabon publication, justice tables)", "class": "admin"}
+  ],
+  "systems": [],
+  "claims": {
+    "odin-0a98d75f1d": "fact",
+    "odin-991b4dcec8": "nothing: link is a draft prospective study, not a statistical publication",
+    "odin-ae3d32fb1f": "fact",
+    "odin-6760cf7063": "nothing: government finance from the regional central bank, not a study source"
+  },
+  "note": ""
+}

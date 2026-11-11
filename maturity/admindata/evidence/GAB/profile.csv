@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 GAB,admin,use,coverage,preparing,2024-07-08,GAB-002,,
-GAB,admin,source,coverage,,,,,nothing held
-GAB,admin,series,coverage,,,,,nothing held
+GAB,admin,source,coverage,education,2021,GAB-003,GAB-004=justice,nothing dated since 2023-11-11
+GAB,admin,series,coverage,,,,,nothing found

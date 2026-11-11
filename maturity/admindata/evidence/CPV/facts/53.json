@@ -1,0 +1,13 @@
+{
+  "slug": "2024-07-01-cpv-minsaude-relatorio-estatistico-2022",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "health", "fact": "The Ministry of Health of Cabo Verde issued its Relatorio Estatistico 2022 (Praia, July 2024), a statistical report for 2022; the passages give its title and date only, so as_of is the report's July 2024 imprint.", "as_of": "2024-07", "date_precision": "month", "system": "Relatorio Estatistico 2022", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Relatorio Estatistico 2022", "country_label": "Cabo Verde", "class": "admin", "platform": "", "owner": "Ministerio da Saude", "tiers": ""}
+  ],
+  "claims": {
+    "odin-dfe17ecc10": "fact"
+  },
+  "note": ""
+}

@@ -1,0 +1,11 @@
+{
+  "slug": "2025-07-21-open-data-inventory-odin-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "ODIN lines score openness of listed indicators and name no record source the figures are drawn from.",
+  "claims": {
+    "odin-05b80b0b4d": "nothing: school counts with no record source named",
+    "odin-1705df0a84": "nothing: link is a third-party platform, no record source named",
+    "odin-5270fdf1ac": "nothing: line names no record-holder for crime counts"
+  }
+}

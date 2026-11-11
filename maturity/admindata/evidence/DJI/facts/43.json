@@ -1,0 +1,15 @@
+{
+  "slug": "2025-07-21-open-data-inventory-odin-2026-11-10",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "education", "fact": "Open Data Watch's ODIN (2024 round) lists the statistics office's Annuaire Statistique 2023 as publishing numbers of schools and teachers, latest data year 2022.", "as_of": "2022", "date_precision": "year", "system": "Annuaire Statistique 2023 (INSTAD)", "class": "admin"},
+    {"sub_indicator": "admin", "aspect": "source", "value": "health", "fact": "Open Data Watch's ODIN (2024 round) lists the statistics office's Annuaire Statistique 2023 as publishing hospital bed capacity and public hospital staff distribution, latest data year 2022.", "as_of": "2022", "date_precision": "year", "system": "Annuaire Statistique 2023 (INSTAD)", "class": "admin"}
+  ],
+  "systems": [],
+  "claims": {
+    "odin-cd21d49ea3": "fact",
+    "odin-026c522fd5": "fact",
+    "odin-6ec1bea759": "nothing: link is a third-party data platform, not the prison record",
+    "odin-78a8a9df36": "nothing: government finance, not a study source"
+  },
+  "note": ""
+}

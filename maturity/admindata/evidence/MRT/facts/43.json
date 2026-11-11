@@ -1,0 +1,12 @@
+{
+  "slug": "2025-07-21-open-data-inventory-odin-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "ODIN scores openness of what the statistics office publishes; it does not say the figures are drawn from administrative records.",
+  "claims": {
+    "odin-db4c57b40a": "nothing: ODIN openness score, does not say figures come from administrative records",
+    "odin-010973dda5": "nothing: ODIN openness score, does not say figures come from administrative records",
+    "odin-4f9a14f502": "nothing: ODIN openness score, does not say figures come from administrative records",
+    "odin-a926ded246": "nothing: government finance, not an administrative source the study assesses"
+  }
+}

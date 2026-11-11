@@ -1,0 +1,16 @@
+{
+  "slug": "2025-07-21-open-data-inventory-odin-2026-11-10",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "education", "fact": "Open Data Watch's ODIN (2024 round) lists the statistics office's yearbook chapter on education as publishing numbers of schools (primary, secondary, tertiary) and teachers, latest data year 2018.", "as_of": "2018", "date_precision": "year", "system": "Statistiques de l'education (INS annuaire chapter 8)", "class": "admin"},
+    {"sub_indicator": "admin", "aspect": "source", "value": "health", "fact": "Open Data Watch's ODIN (2024 round) lists the health ministry's statistical yearbook 2017-2018 as publishing numbers of beds and healthcare staff, latest data year 2020.", "as_of": "2020", "date_precision": "year", "system": "Annuaire statistique 2017-2018 (Ministere de la Sante)", "class": "admin"},
+    {"sub_indicator": "admin", "aspect": "source", "value": "justice;police", "fact": "Open Data Watch's ODIN (2024 round) lists the statistics office's yearbook chapter on justice and public security as publishing verified cases by type of offence and convicted persons, latest data year 2018.", "as_of": "2018", "date_precision": "year", "system": "Statistiques de la justice et de la securite publique (INS annuaire chapter 12)", "class": "admin"}
+  ],
+  "systems": [],
+  "claims": {
+    "odin-40b966b576": "fact",
+    "odin-90b8b25e49": "fact",
+    "odin-d833f822d7": "fact",
+    "odin-e2a1c33422": "nothing: government finance, not a study source"
+  },
+  "note": ""
+}

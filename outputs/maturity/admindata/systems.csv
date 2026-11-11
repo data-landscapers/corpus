@@ -17,6 +17,7 @@ BDI,Annuaire des statistiques sanitaires 2024,Annuaire des statistiques sanitair
 BEN,Demographic dividend monitoring platform (pilot),Plateforme de suivi du dividende démographique,other,,"African Union commitments, eight West African pilot states",,2026-09-08-fraternite-dividende-demographique-harmonisation-donnees
 BEN,Annuaire des statistiques sanitaires 2022,Benin,admin,SNIGS (national health information and management system),"Ministry of Health, DPAF",national,2023-07-01-ben-annuaire-des-statistiques-sanitaires-2022
 BEN,Annuaire des statistiques des faits d'état civil au Bénin (2024),Benin,vital,ANIP digital civil-status platform,INStaD,national,2025-11-01-ben-instad-annuaire-statistiques-etat-civil-2024
+BEN,Annuaire des statistiques sanitaires 2019,Annuaire des statistiques sanitaires 2019,admin,DHIS2,Ministere de la Sante (SNIGS-MS),,2020-03-01-instad-annuaire-statistiques-sanitaires-2019
 BFA,Systeme d'information des localites (SIL) geospatial analysis report,SIL 2024 geospatial analysis report,other,,INSD,,2025-09-23-systeme-information-localites-analyse-geospatiale
 BFA,Annuaire statistique 2024 (Ministere de la Sante),Burkina Faso,admin,Endos-BF,"Ministere de la Sante, DGESS","facility, district, region, national",2025-04-01-bfa-annuaire-statistique-2024
 BFA,Annuaire statistique national 2024 (edition 2025),Burkina Faso,admin,Open Data for Africa platform (Excel version),INSD,national,2025-12-01-bfa-insd-annuaire-statistique-national-2024
@@ -24,6 +25,7 @@ BWA,Vital Statistics Report 2024,Vital Statistics Report 2024,vital,,Statistics 
 BWA,Births and Deaths Registration System (BDRS),Births and Deaths Registration System,other,"partially automated, integrated with the National Identification System",Department of Civil and National Registration,"35 district offices, 17 on-site health facility points",2026-08-01-statistics-botswana-vital-statistics-report-2024
 BWA,DHIS2,DHIS2,other,DHIS2,Ministry of Health,all public facilities,2019-08-01-bwa-botswana-his-indicators
 BWA,Integrated Patient Management System (IPMS),IPMS,other,,Ministry of Health,hospitals,2019-08-01-bwa-botswana-his-indicators
+BWA,The Statistical Year Book 2020/21,The Statistical Year Book 2020/21,admin,,Statistics Botswana,,2023-11-01-bwa-the-statistical-year-book-2020-21
 CAF,"Civil registration (births, marriages, deaths), paper-based, central registry DGMEC/MATDSI",Civil registration system,other,paper forms,Ministry of the Interior and Territorial Administration,,2017-12-05-crvs-profile-central-african-republic
 CAF,"Education statistics system (school data collection, annuaires statistiques)",Education statistics (Ministry of National Education / ICASEES),admin,,Ministry of National Education; ICASEES,,2026-02-19-icasees-hiswaca-motos-chefs-secteur-scolaire
 CAF,"Annuaire statistique, Fondamental 1, Alphabétisation et Éducation de base non formelle 2021-2022",Annuaire statistique 2021-2022 (education),admin,,ICASEES; Ministry of National Education,,2024-11-15-caf-icasees-annuaire-statistique-fondamental1-2021-22
@@ -51,6 +53,7 @@ CPV,Death certification and cause-of-death notification process,Death certificat
 CPV,INE vital statistics service,INE vital statistics from civil registration,vital,,Instituto Nacional de Estatistica,,2017-11-01-cpv-crvs-birth-marriage-and-death-registration-in-cabo-verde
 CPV,Civil registration computer applications,Civil registration system,other,,"Directorate of Registries, Notaries and Identification",,2017-11-01-cpv-crvs-birth-marriage-and-death-registration-in-cabo-verde
 CPV,ADA/Master Data project,Cabo Verde,admin,,INE Cabo Verde,,2024-12-01-cpv-coopstat-26-master-data-visita-ine-portugal
+CPV,Relatorio Estatistico 2022,Cabo Verde,admin,,Ministerio da Saude,,2024-07-01-cpv-minsaude-relatorio-estatistico-2022
 DJI,Observatoire de l'Emploi et des Qualifications (ONEQ) employment database,ONEQ labour-market database,other,,ANEFIP / ministry in charge of employment,,2015-09-21-journalofficiel-decret-2015-263-oneq
 DJI,"Civil registration (paper registers, decentralized civil registrars)",Djibouti civil registration,other,paper,civil registrars,,2017-12-05-unicef-crvs-djibouti-country-profile
 DJI,Annuaire statistique 2024,Djibouti,admin,,INSTAD,,2024-01-01-dji-instad-annuaire-statistique-edition-2024
@@ -198,6 +201,7 @@ MWI,National Payment Systems report (Reserve Bank of Malawi),National Payment Sy
 MWI,Vital Statistics Report (2015-2022),Vital Statistics Report 2015-2022,admin,,Ministry of Homeland Security / NRB with NSO,,2025-04-23-mwi-nyasatimes-vital-statistics-report-launch
 MWI,Electronic birth registration system (eBRS),Malawi,vital,,National Registration Bureau,health facility; district registration office; headquarters,2025-04-01-mwi-nso-vital-statistics-report-civil-registration
 MWI,CRVS project through the National Registration Bureau (PEPFAR),Malawi,other,,National Registration Bureau,,2024-01-01-crs-302-2024001640-2024-global-aids-scaling-up-and-improving-quality-of-ci
+MWI,Statistical Yearbook 2023,Statistical Yearbook 2023 (40th edition),other,,National Statistical Office,,2023-01-01-mwi-statistical-yearbook-2023
 NAM,DHIS2,DHIS2 routine health facility data,other,DHIS2,Ministry of Health,,2025-06-01-nam-namibia-analysis-report-2025-analysis-of-reproductive-maternal-newborn
 NAM,2023 vital statistics report,2023 vital statistics report,vital,,,,2025-06-01-nam-namibia-analysis-report-2025-analysis-of-reproductive-maternal-newborn
 NAM,National Labour Market Information System (NaLMIS),NaLMIS,other,,Namibia Statistics Agency with Ministry of Justice and Labour Relations,,2026-09-25-nam-nampa-labour-market-info-system
@@ -304,6 +308,7 @@ TZA,Crime Statistics Management Information System (CSMIS),CSMIS,other,,Police F
 TZA,Manual for Strengthening and Integrating Administrative Data into National Official Statistics of Tanzania (2024),Tanzania,admin,,NBS; OCGS Zanzibar,national,2024-01-01-nbs-manual-administrative-data-statistics
 TZA,Annual Health Statistical Tables and Figures 2024,Tanzania Mainland,admin,DHIS2,"Ministry of Health, Monitoring and Evaluation Unit",national,2025-09-01-tza-annual-health-statistical-tables-and-figures-2024
 TZA,DHIS2 / HMIS,Tanzania Mainland,,DHIS2,Ministry of Health,facility;council;region;national,2025-09-01-tza-annual-health-statistical-tables-and-figures-2024
+TZA,Crime Statistics Management Information System (CSMIS),Tanzania,admin,,Tanzania Police Force statistics unit,,2021-01-01-tpf-nbs-crime-report-2020
 UGA,"Labour, Employment, Productivity and Reporting Programme","Labour, Employment, Productivity and Reporting Programme (draft)",other,,"Ministry of Gender, Labour and Social Development",,2026-06-15-gender-ministry-labour-market-data-programme
 UGA,Vital Statistics Report 2025,Vital Statistics Report 2025 (in development),vital,,UBOS; NIRA,,2026-04-30-uniph-crvs-technical-working-group
 UGA,National Security Information System (NSIS),NSIS,other,,NIRA,,2026-04-30-uniph-crvs-technical-working-group

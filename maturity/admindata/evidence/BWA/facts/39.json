@@ -1,0 +1,13 @@
+{
+  "slug": "2023-11-01-bwa-the-statistical-year-book-2020-21",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "civil-registration", "fact": "Statistics Botswana's Statistical Year Book 2020/21, with a preface dated November 2023 (as_of is that publication date), says its vital statistics are compiled from birth, death and marriage data obtained from the Department of Civil and National Registration, and presents them for 2020.", "as_of": "2023-11", "date_precision": "month", "system": "The Statistical Year Book 2020/21", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "The Statistical Year Book 2020/21", "country_label": "The Statistical Year Book 2020/21", "class": "admin", "platform": "", "owner": "Statistics Botswana", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "odin-768432f717": "nothing: the yearbook's government finance tables name no record source"
+  }
+}

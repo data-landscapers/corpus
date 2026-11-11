@@ -1,0 +1,14 @@
+{
+  "slug": "2020-03-01-instad-annuaire-statistiques-sanitaires-2019",
+  "facts": [
+    {"sub_indicator": "admin", "aspect": "source", "value": "health;civil-registration", "fact": "The Ministry of Health's SNIGS published its Annuaire des statistiques sanitaires 2019 in March 2020 (figures for 2019), saying health statistics come from the routine health information subsystem, with monthly paper reports from health facilities entered in DHIS2 by health zone, complemented by subsystems including civil registration (etat civil).", "as_of": "2020-03", "date_precision": "month", "system": "Annuaire des statistiques sanitaires 2019", "class": "admin"},
+    {"sub_indicator": "admin", "aspect": "series", "value": "health", "fact": "The yearbook for 2019, dated March 2020, calls itself the second edition after the framework document for the health statistics yearbooks was drawn up.", "as_of": "2020-03", "date_precision": "month", "system": "Annuaire des statistiques sanitaires 2019", "class": "admin"}
+  ],
+  "systems": [
+    {"system": "Annuaire des statistiques sanitaires 2019", "country_label": "Annuaire des statistiques sanitaires 2019", "class": "admin", "platform": "DHIS2", "owner": "Ministere de la Sante (SNIGS-MS)", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "odin-a5b184d40f": "nothing: held as BEN-001"
+  }
+}

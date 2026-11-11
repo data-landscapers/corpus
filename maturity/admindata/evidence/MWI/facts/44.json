@@ -1,0 +1,12 @@
+{
+  "slug": "2023-01-01-mwi-statistical-yearbook-2023",
+  "facts": [],
+  "systems": [
+    {"system": "Statistical Yearbook 2023", "country_label": "Statistical Yearbook 2023 (40th edition)", "class": "other", "platform": "", "owner": "National Statistical Office", "tiers": ""}
+  ],
+  "note": "The passages show a compendium drawing on official sources by footnote; they do not say the figures are drawn from administrative records.",
+  "claims": {
+    "odin-8de0008c74": "nothing: ODIN openness score; the yearbook passages do not say education figures come from administrative records",
+    "odin-e2a992ee3a": "nothing: government finance, not an administrative source the study assesses"
+  }
+}
