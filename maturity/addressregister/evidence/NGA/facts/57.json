@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-10-nigeria-hybrid-cloud-postcode-database",
+ "facts": [
+  {
+   "sub_indicator": "address",
+   "aspect": "addressing",
+   "value": "inservice",
+   "fact": "TechCabal reports Nigeria's National Digital Addressing System (NDAPS), led by NIPOST, launched on October 1 with 11-character alphanumeric digital postcodes.",
+   "as_of": "2026-10-01",
+   "date_precision": "day",
+   "system": "National Digital Addressing System (NDAPS)",
+   "class": "address"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Digital Addressing System (NDAPS)",
+   "country_label": "NDAPS",
+   "class": "address",
+   "platform": "Galaxy Backbone (core database)",
+   "owner": "NIPOST",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

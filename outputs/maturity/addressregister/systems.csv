@@ -35,6 +35,7 @@ EGY,National Real Estate ID,National Real Estate ID,address,,MCIT,,2025-06-01-mc
 ETH,National Digital Address System,Ethiopia,address,,Space Science and Geospatial Institute (SSGI),national,2026-01-01-digital-ethiopia-2030-anchors-nationwide-digital-addressing
 ETH,eDAS,Ethiopia,address,,Space Science and Geospatial Institute (SSGI),"national, city",2025-12-15-edas-for-three-cities
 ETH,digital addressing system,Ethiopia,address,,Space Science and Geospatial Institute,,2026-10-27-eth-ethiopia-prioritises-national-geospatial-data-infrastructure-in-new-st
+GAB,e.CNSS,Gabon,other,e.cnss.ga,CNSS,,2026-09-17-gab-gabonclic-cnss-revolution-numerique-service-public
 GHA,GhanaPostGPS,Ghana,address,app and web map,Ghana Post Company Limited,national,2026-08-29-ghanapostgps-official-site
 GHA,GhanaPostGPS,Ghana,address,app and web map,Ghana Post Company Limited,national,2025-10-15-ghanapostgps-mijo-ride-delivery-integration
 GHA,GhanaPostGPS,Ghana,address,app and web map,Ghana Post Company Limited,national,2024-02-19-ghanapostgps-digital-addressing-evaluation
@@ -50,6 +51,7 @@ GMB,Digital Addressing,The Gambia,address,,Ministry of Communications and Digita
 GMB,digital address system,emerging digital address system,address,,,,2026-05-01-gmb-dial-rental-tax-compliance-ml-case-study
 GNB,Bissau street-name and house-number project,Guinea-Bissau,address,,Câmara Municipal de Bissau,,2019-03-15-gnb-odemocrata-bissau-placas-nomes-ruas
 KEN,National Addressing System (NAS),Kenya,address,,Communications Authority of Kenya,,2026-09-02-techafricanews-kenya-lesotho-addressing-system
+KEN,Birth registration e-service,Kenya,other,e-birth register,State Department for Immigration and Citizen Services,,2026-11-02-ken-birth-registration-e-service-reduces-admin-from-months-to-days
 LBR,national digital postal address system,Liberia,address,,Ministry of Posts and Telecommunications,national,2026-07-23-liberia-lta-commissioner-honnah-expanding-digital-access
 LBR,national digital addressing system,Liberia,address,,Ministry of Posts and Telecommunications,national,2026-02-03 Liberia Unveils 5-Year 'Digital Liberia' Strategy to Boost Sovereignty and Innovation
 LBY,Digital Addressing Platform,Libya,address,,,,2026-08-26-libyaherald-libyan-experts-forum-recommendations
@@ -60,6 +62,7 @@ MLI,NINACAD-ADRESSE,Mali,address,geolocation application and database,Secrétari
 MOZ,endereçamento postal (Decreto n.º 74/2024),Moçambique,address,geographic database,municipalities; Ministério da Administração Estatal e Função Pública,municipal,2025-10-04-marracuene-enderecamento-postal
 MRT,national digital addressing system,Mauritania,address,"mapping portal, address management portal and mobile applications (planned)",Ministry of Digital Transformation and Administrative Modernization,national,2026-10-01-mrt-ecofin-mauritania-digital-addressing
 MRT,Registre biométrique national (ANRPTS),MRT,other,,Agence Nationale du Registre des Populations et des Titres Sécurisés,,2023-11-21-mrt-procedures-enrolement-enfant-rnp
+MRT,référentiel national numérique des données cadastrales,Mauritanie,other,,Ministère des Domaines,,2026-08-27-mauritanie-conseil-ministres-referentiel-cadastral-identifiant-parcellaire-casier-judiciaire
 MUS,Mauritius Post postcode pilot,Mauritius,address,,Mauritius Post Ltd,,2012-01-10-mus-lemauricien-mauritius-post-introduit-code-postal
 MWI,National Addressing System (NAS) Project,Malawi,address,national address database with integrated GIS,MACRA,national,2024-02-12 National Addressing Project - MACRA Website
 NAM,NamPost postal codes (Phase 1),Namibia,other,website code list,Namibia Post Limited,"postal region, postal area, delivery post office",2026-01-01-nampost-postal-codes
@@ -70,6 +73,7 @@ NGA,National Digital Alphanumeric Postcode System,Nigeria,address,website and ap
 NGA,National Digital Alphanumeric Postcode System,Nigeria,address,application,NIPOST,"state, LGA, district, area, building",2026-10-02-nga-thecable-nipost-postcode-app-exposes-homeowner-names
 NGA,National Digital Alphanumeric Postcode System (NDAPS),Nigeria,address,Milsat Technologies satellite basemaps and GIS; public lookups resolve to AWS,NIPOST,national,2026-10-29-from-informal-landmarks-to-sovereign-data-the-governance-challenge-facing-d
 NGA,National Digital Alphanumeric Postcode System,Nigeria,address,,"Federal Ministry of Communications, Innovation & Digital Economy with NIPOST",,2026-10-28-nga-federal-ministry-hosts-first-built-on-nigeria-s-postcode-pitch-session
+NGA,National Digital Addressing System (NDAPS),NDAPS,address,Galaxy Backbone (core database),NIPOST,,2026-11-10-nigeria-hybrid-cloud-postcode-database
 RWA,Iposita grid code addressing,Rwanda,address,Akutari smartphone app,Iposita,,2021-02-17-rwa-abc-iposita-codified-addressing-system
 SDN,Postal addressing and postcode project,Sudan,address,,Ministry of Information and Communications,national,2015-10-29-sdn-alnilin-postal-addressing-project-meeting
 SEN,National Digital Addressing (ANN),Senegal,address,,Ministry of Telecommunications and Digital Affairs,national,2026-08-07-senegal-relaunches-national-digital-addressing-project
