@@ -1,6 +1,6 @@
 ---
 title: Uganda: finance
-compiled: 2026-11-07
+compiled: 2026-11-11
 place: UGA
 ---
 
@@ -24,7 +24,7 @@ place: UGA
 <tr><th scope="row">Cybersecurity</th><td class="num">10</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">1</td><td class="num">1</td><td class="num total">11</td></tr>
 <tr><th scope="row">Data Storage</th><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">2</td><td class="num">1</td><td class="num">&lt;1</td><td class="num total">3</td></tr>
 <tr><th scope="row">Digitalisation of sub-national government</th><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">2</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">3</td></tr>
-<tr><th scope="row">Geospatial data</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Open data</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">AI</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
@@ -38,7 +38,7 @@ place: UGA
 <tfoot><tr><th scope="row">All topics</th><td class="num">419</td><td class="num">87</td><td class="num">190</td><td class="num">268</td><td class="num">400</td><td class="num">249</td><td class="num total">1,614</td></tr></tfoot>
 </table></div>
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/UGA/all-finance.html">Full table &mdash; 678 rows, all 12 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/UGA/all-finance.html">Full table &mdash; 679 rows, all 12 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/UGA/UGA-all-finance.csv" download>&darr; Download CSV</a>
 </div>
 
@@ -86,7 +86,7 @@ place: UGA
 <tr><th scope="row">Digital Identity and CRVS</th><td class="num">8</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">8</td></tr>
 <tr><th scope="row">Strategies, plans and policies</th><td class="num">2</td><td class="num">1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num">4</td><td class="num total">8</td></tr>
 <tr><th scope="row">Innovation ecosystem</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num">&lt;1</td><td class="num">7</td><td class="num zero"></td><td class="num zero"></td><td class="num total">7</td></tr>
-<tr><th scope="row">Geospatial data</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
+<tr><th scope="row">Geospatial data</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num">&lt;1</td><td class="num total">2</td></tr>
 <tr><th scope="row">Open data</th><td class="num">2</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">2</td></tr>
 <tr><th scope="row">AI</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num">&lt;1</td><td class="num">1</td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
 <tr><th scope="row">ICT Industry</th><td class="num">1</td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">1</td></tr>
@@ -99,10 +99,10 @@ place: UGA
 <tr><th scope="row">Data protection</th><td class="num zero"></td><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 <tr><th scope="row">Rural digital data capture</th><td class="num">&lt;1</td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num zero"></td><td class="num total">&lt;1</td></tr>
 </tbody>
-<tfoot><tr><th scope="row">All topics</th><td class="num">419</td><td class="num">87</td><td class="num">190</td><td class="num">23</td><td class="num">125</td><td class="num">4</td><td class="num total">849</td></tr></tfoot>
+<tfoot><tr><th scope="row">All topics</th><td class="num">419</td><td class="num">87</td><td class="num">190</td><td class="num">23</td><td class="num">125</td><td class="num">4</td><td class="num total">850</td></tr></tfoot>
 </table></div>
 
 <div class="table-acts">
-<a class="btn" href="https://corpus.data-landscapers.io/countries/UGA/finance.html">Full table &mdash; 240 commitments, all 26 fields &rarr;</a>
+<a class="btn" href="https://corpus.data-landscapers.io/countries/UGA/finance.html">Full table &mdash; 241 commitments, all 26 fields &rarr;</a>
 <a class="btn btn--accent" href="https://corpus.data-landscapers.io/countries/UGA/UGA-nonstate.csv" download>&darr; Download CSV</a>
 </div>
