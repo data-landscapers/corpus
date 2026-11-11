@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "backup",
+ "aspect": "",
+ "fact": "",
+ "title": "You can't be lazy with IT",
+ "publisher": "Eritrea Ministry of Information (Shabait)",
+ "published": "2020-02-26",
+ "date_source": "source",
+ "why_not": "off-topic: describes the Ministry datacentre and network but states no backup or DR site or plan"
+}

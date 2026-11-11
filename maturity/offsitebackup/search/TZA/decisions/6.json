@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;tier",
+ "fact": "The July 2022 eGA guidelines require shared e-Government systems to have primary and DR sites meeting Critical (Tier III) data centre requirements, in different locations (preferably different regions), one DR site in a government data centre.",
+ "title": "Guidelines and Criteria for Cloud and Stand-alone Deployment of e-Government Shared Systems",
+ "publisher": "e-Government Authority",
+ "published": "2022-07",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "In June 2026 the PAMFP tendered equipment for the Finance Ministry's main data centre in Malabo and its backup data centre in Bata, in two lots of four months each.",
+ "title": "Guinea Ecuatorial licita equipos para modernizar centros de datos de Hacienda en Malabo y Bata",
+ "publisher": "Revista Ecofin EG",
+ "published": "2026-06-04",
+ "date_source": "source",
+ "why_not": ""
+}

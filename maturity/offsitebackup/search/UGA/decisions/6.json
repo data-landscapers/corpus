@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "tier",
+ "fact": "The National Data Centre and Disaster Recovery site have been upgraded to Tier 3 classification, hosting 60 MDAs and over 94 critical applications.",
+ "title": "Ministry of ICT and National Guidance Presentation on progress of implementation of manifesto pledges and presidential directives",
+ "publisher": "Ministry of ICT and National Guidance",
+ "published": "2020",
+ "date_source": "proxy",
+ "why_not": ""
+}

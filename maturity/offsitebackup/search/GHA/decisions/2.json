@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "plan;tier",
+ "fact": "In August 2024 NITA was presented with ISO 22301:2019 business continuity certification and its data centre was described as a certified Tier 3 facility.",
+ "title": "NITA gets three ISO certifications at a go",
+ "publisher": "TechFocus24",
+ "published": "2024-08-31",
+ "date_source": "source",
+ "why_not": ""
+}

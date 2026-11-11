@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "The Department of Mineral Resources and Energy's November 2024 terms of reference say its data is replicated from regional sites to SITA and kept off-site on LTO tape, and that its backup hardware is out of warranty and needs replacing under a 36-month backup and disaster recovery service.",
+ "title": "Terms of reference for the appointment of a service provider to provide DMRE with backup and disaster recovery services",
+ "publisher": "Department of Mineral Resources and Energy",
+ "published": "2024-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

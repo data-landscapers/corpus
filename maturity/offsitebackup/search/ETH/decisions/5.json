@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;tier",
+ "fact": "Ethio Telecom, state-owned, said on 20 May 2022 its Gola Sefer modular data centre is Tier 3 and that five sites outside Addis Ababa are available for geographic redundancy with their own emergency backup, a Green Data Center with geographical redundancy being in requirement preparation.",
+ "title": "Ethio Telecom Agrees to Lease Data Center to Five Private Institutions",
+ "publisher": "Ethiopian Monitor",
+ "published": "2022-05-20",
+ "date_source": "source",
+ "why_not": ""
+}

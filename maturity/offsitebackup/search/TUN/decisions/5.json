@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "plan",
+ "fact": "The cybersecurity decree-law of 11 March 2023, in force 11 September 2023, requires critical organisations to guarantee continuity of service and to back up infrastructure with G-cloud or N-cloud certified providers.",
+ "title": "Tunisia expands scope of national cybersecurity agency",
+ "publisher": "INCYBER NEWS",
+ "published": "2023-09-13",
+ "date_source": "source",
+ "why_not": ""
+}

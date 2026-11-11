@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "backup",
+ "aspect": "",
+ "fact": "",
+ "title": "Uptime Institute Awards in Ethiopia",
+ "publisher": "Uptime Institute",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: undated list of design-document Tier III awards to telecom and bank data centres, no award dates, no government main/backup pair"
+}

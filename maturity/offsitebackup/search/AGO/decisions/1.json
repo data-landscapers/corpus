@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "plan",
+ "fact": "Despacho Presidencial n.º 228/26, published in the Diário da República on 10 June 2026, authorises simplified procurement to modernise the State's main data centre and create a disaster-recovery reserve data centre for continuity of public digital services.",
+ "title": "Executivo quer garantir continuidade dos serviços digitais do Estado",
+ "publisher": "Radar Digital",
+ "published": "2026-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

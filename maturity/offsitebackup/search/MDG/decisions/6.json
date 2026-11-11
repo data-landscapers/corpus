@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "plan",
+ "fact": "The World Bank approved a PRODIGY credit on 29 September 2020 whose design features business continuity protocols and cloud use to protect critical government data and service channels against natural disasters.",
+ "title": "World Bank Supports Madagascar's Digital Transformation and Identity Management System Upgrades",
+ "publisher": "World Bank",
+ "published": "2020-09-30",
+ "date_source": "source",
+ "why_not": ""
+}

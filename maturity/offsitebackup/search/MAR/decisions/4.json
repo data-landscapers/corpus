@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "On 13 October 2022 the Education ministry inaugurated a backup datacentre at Marrakech, about 320 km from its main Rabat datacentre, to keep its information system running after a major disaster.",
+ "title": "Éducation nationale : extension du datacenter de Rabat, un nouveau centre de backup à Marrakech",
+ "publisher": "Médias24",
+ "published": "2022-10-14",
+ "date_source": "source",
+ "why_not": ""
+}

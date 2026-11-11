@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "tier",
+ "fact": "The Digital Delta Data Centre, the Government-owned national data centre run by BoFiNet in Gaborone, was awarded Uptime Institute Tier III Certification of Constructed Facility, confirmed on 23 October 2025; the text names no backup site.",
+ "title": "BoFiNet's Digital Delta Data Centre Achieves Tier III Certification from Uptime Institute",
+ "publisher": "Botswana Fibre Networks (BoFiNet)",
+ "published": "2025-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

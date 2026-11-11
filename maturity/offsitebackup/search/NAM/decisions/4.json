@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "tier",
+ "fact": "CRAN's Executive for ICT said Namibia has only one Tier 3 data centre, and that the Office of the Prime Minister is leading plans for a dedicated government data centre.",
+ "title": "Namibia moves closer to secure digital identity and online verification system",
+ "publisher": "The Brief",
+ "published": "2025-11-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

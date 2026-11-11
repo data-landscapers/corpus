@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "plan;site",
+ "fact": "The Haut-Commissariat à la Numérisation issued tender 01/HCN/2026 on 9 April 2026 for study, construction and commissioning of a national disaster-recovery (DR) data centre for the Algiers and Blida data centres.",
+ "title": "Appel d'Offre National et International Ouvert N° 01 / HCN / 2026 : Etude, réalisation, équipement et mise en service d'un centre de données national de reprise d'activité après sinistre (DR)",
+ "publisher": "Haut-Commissariat à la Numérisation",
+ "published": "2026-04-09",
+ "date_source": "source",
+ "why_not": ""
+}

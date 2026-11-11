@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "tier",
+ "fact": "INFRATEL's production data centre in Lusaka has been Tier 3 design certified by the Uptime Institute; the text names no Tier rating for the backup sites.",
+ "title": "INFRATEL: Innovation and Communication",
+ "publisher": "Africa Outlook Magazine",
+ "published": "2023-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

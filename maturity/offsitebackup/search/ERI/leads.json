@@ -1,0 +1,6 @@
+[
+{"url":"https://www.afdb.org/en/documents/spn-eritrea-design-supply-installation-configuration-and-training-eritrea-integrated-tax-administration-system-eritas-software-hardware-and-related-it-equipment-esta","title":"SPN - Eritrea - ErITAS Software, Hardware and related IT Equipment","publisher":"African Development Bank","published":"2023","sub_indicator":"backup","why":"plan: tender requires data replication and business continuity in a disaster, main production site and other sites"},
+{"url":"https://ultrates.com/architect-and-implementor-of-eritreas-largest-it-infrastructure/","title":"Architect and Implementor of Eritrea's Largest IT Infrastructure","publisher":"UltraTeS","published":"2024","sub_indicator":"backup","why":"site: three interconnected datacentres with replication for disaster recovery at Inland Revenue Department"},
+{"url":"https://shabait.com/2020/02/26/you-cant-be-lazy-with-it-yohannes-haile/","title":"You can't be lazy with IT - Yohannes Haile","publisher":"Eritrea Ministry of Information (Shabait)","published":"2020-02-26","sub_indicator":"backup","why":"site: Ministry datacentre description, any backup site"},
+{"url":"https://eritel.com.er/contents.php?id=1046","title":"Private Cloud Services","publisher":"Eritel","published":"2026-08-31","sub_indicator":"backup","why":"plan: RTO of 6 days (held)"}
+]

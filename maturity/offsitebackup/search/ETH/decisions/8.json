@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;plan",
+ "fact": "A paper published 25 January 2023, done with INSA, finds most critical infrastructures lack disaster recovery plans and, except for some financial firms, DR sites, with no national plan and the national security agency building one national DR site near Debre Birhan.",
+ "title": "Investigating Potential Vulnerability of Critical Infrastructure and Way Forward – Recommendations to Enhance Security and Resilience",
+ "publisher": "Biomedical Science and Clinical Research (Henock Mulugeta Melaku)",
+ "published": "2023-01-25",
+ "date_source": "source",
+ "why_not": ""
+}

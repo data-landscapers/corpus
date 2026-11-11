@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;plan",
+ "fact": "ARCEP, the telecoms regulator, replicates its most critical servers to a backup site at Lomé Datacenter less than 2 km from its head office, and completed a business continuity and recovery plan project in 2024.",
+ "title": "Demande de Renseignement de Prix ouverte n° 001/ARCEP/PRMP/2026 : liaison de secours point-à-point entre le siège de l'ARCEP et Lomé Datacenter (LDC)",
+ "publisher": "Autorité de Régulation des Communications électroniques et des Postes (ARCEP)",
+ "published": "2026-06-12",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "TANESCO's tender of 16/05/2024 (TR212/2023/2024/G/1308) invited bids to supply, install and commission ICT infrastructure for a disaster recovery site at EGA Iringa.",
+ "title": "Request for Tender: Supply, Installation and Commissioning of ICT Infrastructures for Disaster Recovery Site at EGA Iringa",
+ "publisher": "Tanzania Electric Supply Company Limited",
+ "published": "2024-05-16",
+ "date_source": "source",
+ "why_not": ""
+}

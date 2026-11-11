@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;plan",
+ "fact": "Statistics Botswana's ICT strategy records a lack of a business continuity plan and of a disaster recovery plan and site, and schedules a DR site to be implemented between January and June 2020.",
+ "title": "Statistics Botswana ICT Strategy",
+ "publisher": "Statistics Botswana",
+ "published": "2020-03",
+ "date_source": "source",
+ "why_not": ""
+}

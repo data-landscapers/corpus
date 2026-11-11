@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "The PADEC general procurement notice provides for a firm to supervise construction and operationalisation of the Datacenter (principal et secondaire), with first tender documents due from July 2025.",
+ "title": "Avis général de passation de marchés, Projet d'appui à la digitalisation de l'économie comorienne (PADEC)",
+ "publisher": "Union des Comores, ANADEN / Banque africaine de développement",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

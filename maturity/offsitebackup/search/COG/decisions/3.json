@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "tier",
+ "fact": "In October 2025 the Brazzaville national datacenter at Bacongo was 95% built and its Tier certification was still to be settled, with work suspended over unpaid government funding.",
+ "title": "Sécurité numérique : accélérer le Datacenter",
+ "publisher": "Congo Defense",
+ "published": "2025-10-20",
+ "date_source": "source",
+ "why_not": ""
+}

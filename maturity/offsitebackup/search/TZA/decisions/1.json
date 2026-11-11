@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "tier",
+ "fact": "A TTCL data-centre specialist said the TTCL Data Centre (National Internet Data Centre) has reached the international Tier III standard.",
+ "title": "TTCL: UHIFADHI WA TAARIFA NDANI YA NCHI UIMARISHA USALAMA KIDIGITALI",
+ "publisher": "Taifa Tanzania",
+ "published": "2026-08-03",
+ "date_source": "source",
+ "why_not": ""
+}

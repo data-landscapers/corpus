@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "backup",
+ "aspect": "",
+ "fact": "",
+ "title": "Business Continuity and Disaster Recovery Planning Guidelines for the ICT (Electronic Communications) Industry",
+ "publisher": "ESCCOM",
+ "published": "2022",
+ "date_source": "source",
+ "why_not": "off-topic: guideline binding telecom licensees (effective 2022-06-20), not a recovery plan or backup site for government systems; conservative option taken"
+}

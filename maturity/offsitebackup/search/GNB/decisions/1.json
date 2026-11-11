@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "The World Bank states that Guinea-Bissau's services and data infrastructure are not shared and there is no government data center or disaster recovery center.",
+ "title": "Guinea Bissau: Digital Policy Dialogue",
+ "publisher": "World Bank Group",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

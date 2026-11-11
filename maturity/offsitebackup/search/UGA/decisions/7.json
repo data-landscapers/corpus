@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "backup",
+ "aspect": "",
+ "fact": "",
+ "title": "Tier 3 National Data Centre unveiled in Jinja",
+ "publisher": "Techjaja",
+ "published": "2019-07-11",
+ "date_source": "source",
+ "why_not": "already-held: Tier 3 design upgrade of the national data centre is covered by the held 2019-2020 sources; text says nothing on a backup site or on certification of both sites"
+}

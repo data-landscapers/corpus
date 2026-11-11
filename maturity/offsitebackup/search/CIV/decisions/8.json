@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "The shared backup data centre of the Budget and State Portfolio ministry's directorates-general, in the Yamoussoukro regional tax directorate and outside Abidjan, was inaugurated and operational on 26 July 2021, replicating data from the ministry's data centres.",
+ "title": "Côte d'Ivoire : Le data Center mutualisé de secours du ministère du Budget et du portefeuille de l'état logé à Yamoussoukro opérationnel depuis lundi",
+ "publisher": "KOACI",
+ "published": "2021-07-27",
+ "date_source": "source",
+ "why_not": ""
+}

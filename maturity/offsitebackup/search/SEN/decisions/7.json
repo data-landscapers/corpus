@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;plan",
+ "fact": "The 2021 electoral file audit mission found the national ID file's data centre had no disaster recovery site, with backups only on a server at the DAF Cité Police, and called a disaster recovery centre or recovery plan 'an absolute necessity and urgency'.",
+ "title": "Audit : Sauvegarde des données nationales - Fichier à risque : Absence d'un système de détection de menaces",
+ "publisher": "Le Quotidien",
+ "published": "2021-05-15",
+ "date_source": "proxy",
+ "why_not": ""
+}

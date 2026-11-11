@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "AOS, operator of the National Data Center, operates multiple sites including a Disaster Recovery Center.",
+ "title": "How AOS is championing secure, scalable datacenter services",
+ "publisher": "Africa Press",
+ "published": "2025-10-31",
+ "date_source": "proxy",
+ "why_not": ""
+}

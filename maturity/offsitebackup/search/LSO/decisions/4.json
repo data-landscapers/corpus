@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;tier",
+ "fact": "The strategy states there is a centralised Tier 2 data centre in Maseru and a new Tier 3 data centre 130km from Maseru for disaster recovery, dedicated to public-sector ministries, departments and agencies.",
+ "title": "Lesotho's National Digital Transformation Strategy: Agenda 2030",
+ "publisher": "Government of Lesotho",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

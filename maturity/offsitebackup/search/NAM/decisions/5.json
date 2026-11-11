@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;plan",
+ "fact": "NamibRe ran a Disaster Recovery test with Deloitte in March 2023 and its DR site sits within 1 km of the production data centre, so it intends to establish a new DR site at a safe distance.",
+ "title": "Terms of Reference: Disaster Recovery Centre Site",
+ "publisher": "NamibRe",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

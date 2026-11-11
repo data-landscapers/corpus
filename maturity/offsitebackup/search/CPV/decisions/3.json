@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "NOSi's 2023 activity plan lists operationalising the disaster recovery infrastructure at the data centre on São Vicente island, and starting Uptime Institute Tier III certification of the main Praia data centre.",
+ "title": "Plano de Atividades e Orçamento 2023",
+ "publisher": "NOSi E.P.E.",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

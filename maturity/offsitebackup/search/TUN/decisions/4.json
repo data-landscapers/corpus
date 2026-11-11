@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "plan",
+ "fact": "In October 2023 the Office de Developpement du Sud issued terms of reference to commission a business continuity and recovery plan (PCA) to ISO 22301, with a test and simulation phase, under Prime Minister circular no. 24 of 5 November 2020.",
+ "title": "Cahier des charges pour un plan de continuité et de reprise des activités (PCA) à l'ODS",
+ "publisher": "Office de Développement du Sud",
+ "published": "2023-10",
+ "date_source": "source",
+ "why_not": ""
+}

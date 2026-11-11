@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "tier",
+ "fact": "Uptime Institute told Africa Check it had not certified the Diamniadio state data centre as Tier III, contradicting the ADIE director's claim; the centre aligns with ANSI/TIA-942-A with a view to certification.",
+ "title": "Le datacenter national du Sénégal n'est ni le plus grand d'Afrique de l'Ouest, ni certifié Tier III",
+ "publisher": "OSIRIS (from Africa Check)",
+ "published": "2021-08-10",
+ "date_source": "source",
+ "why_not": ""
+}

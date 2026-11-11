@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "plan;site",
+ "fact": "The DPSA's April 2025 monitoring plan for the ICT Service Continuity directive (published November 2022) assesses every department on an approved ICT continuity plan, an alternative DR site and tested recovery, citing Auditor-General findings in 2019/20 and 2020/21 that continuity controls were inadequate.",
+ "title": "Determination and Directive on ICT Service Continuity in the Public Service: Monitoring Plan",
+ "publisher": "Department of Public Service and Administration",
+ "published": "2025-04",
+ "date_source": "source",
+ "why_not": ""
+}

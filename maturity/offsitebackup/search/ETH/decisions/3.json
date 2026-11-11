@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "EthSwitch, Ethiopia's national payment switch, reports completing its data centre relocation on 31 December 2024, with data first moved from the National Bank to EthSwitch's Disaster Recovery site; distance not stated.",
+ "title": "EthSwitch Sets a Benchmark with the First-of-Its-Kind Data Center Relocation",
+ "publisher": "EthSwitch S.C",
+ "published": "2025-01-03",
+ "date_source": "source",
+ "why_not": ""
+}

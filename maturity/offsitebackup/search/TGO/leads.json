@@ -1,0 +1,6 @@
+[
+{"url": "https://arcep.tg/wp-content/uploads/2026/06/DRPO_LDC.pdf", "title": "ADRPO n° 001/ARCEP/PRMP/2026 liaison de secours ARCEP - Lomé Datacenter", "publisher": "ARCEP Togo", "published": "2026-06", "sub_indicator": "backup", "why": "ARCEP replicates critical servers to a backup site at LDC under 2 km away; DR plan done 2024 (site, plan)"},
+{"url": "https://www.emploitogo.info/appel-a-manifestation-dinteret-cabinet-consultant-datacenter-otr/", "title": "AMI cabinet consultant site backup du datacenter de l'OTR", "publisher": "MRSPTDS / PMADS", "published": "2025-07-21", "sub_indicator": "backup", "why": "OTR datacenter backup site not yet built; Tier 3 minimum specified (site, tier)"},
+{"url": "https://numerique.gouv.tg/actualites/inauguration-lome-data-centre", "title": "Inauguration Lomé Data Centre", "publisher": "Ministère de l'Efficacité du Service Public et de la Transformation Numérique", "published": "2021-06-04", "sub_indicator": "backup", "why": "Lomé Data Centre certified Tier III (tier)"},
+{"url": "http://news.alome.com/h/118197.html", "title": "Avis d'appel d'offres international datacenter de l'OTR", "publisher": "OTR / PAGFI via aLome.com", "published": "2019-04-15", "sub_indicator": "backup", "why": "OTR SIGFIP datacenter main and backup technical rooms, Lomé (site)"}
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "Bids were opened on 11 February 2022 for a main national datacenter at Brazzaville (lot 1) and a secondary datacenter at Oyo (lot 2), i.e. a planned backup site, not yet in service.",
+ "title": "Congo/Numérique : vers la construction du datacenter national (principal et secondaire)",
+ "publisher": "Congo Profond",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

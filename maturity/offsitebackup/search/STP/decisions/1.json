@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "plan;tier",
+ "fact": "A World Bank mission of 8-12 September 2025 records that consultants assessed the government data centre and offered a new Tier III build (EUR 4.6 million) among the options, recommended migrating government systems to a new data centre or cloud because of high risks at the present site, and the mission discussed a Disaster Recovery Plan.",
+ "title": "Projecto São Tomé e Príncipe Digital (P177158) - Missão de Apoio a Implementação - Ajuda Memória",
+ "publisher": "World Bank Group",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

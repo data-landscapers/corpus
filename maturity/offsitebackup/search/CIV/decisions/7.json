@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "The November 2022 environmental impact report on the Grand-Bassam datacentre lists among the weaknesses of the administration's existing datacentres that incident recovery sites are not defined.",
+ "title": "Projet d'appui au renforcement de l'administration électronique (PARAE) - Datacenter de Grand-Bassam (VITIB), Constat d'impact environnemental et social, rapport final",
+ "publisher": "ANSUT / Banque africaine de développement",
+ "published": "2022-11",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "tier",
+ "fact": "The Diamniadio national data centre, inaugurated on 22 June 2021, was built with a view to Tier 3 certification, and the Ministry of Finance keeps its own separate data centre (DTAI).",
+ "title": "Souveraineté numérique du Sénégal : le vrai, le faux, le flou du Datacenter de Diamniadio (Enquête)",
+ "publisher": "PressAfrik",
+ "published": "2023-10-21",
+ "date_source": "proxy",
+ "why_not": ""
+}

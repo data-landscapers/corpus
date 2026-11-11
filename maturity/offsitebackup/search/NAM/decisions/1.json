@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "plan",
+ "fact": "The Auditor-General found that the Department of Transport has no approved IT disaster recovery plan, in its audit of the year ended 31 March 2025.",
+ "title": "Transport department lacks IT disaster recovery plan",
+ "publisher": "Windhoek Observer",
+ "published": "2026-09-29",
+ "date_source": "proxy",
+ "why_not": ""
+}

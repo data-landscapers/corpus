@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;plan",
+ "fact": "The Human Capital Management System is hosted at the National Data Centre and backed by the National Disaster Recovery Site managed by NITA-U, while the e-Passport system audited in September 2023 had no IT continuity or disaster recovery plan.",
+ "title": "Report of the Auditor General to Parliament for the Financial Year ended 30th June 2023",
+ "publisher": "Office of the Auditor General Uganda",
+ "published": "2023-12",
+ "date_source": "source",
+ "why_not": ""
+}

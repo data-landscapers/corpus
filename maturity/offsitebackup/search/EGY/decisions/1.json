@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "plan",
+ "fact": "The Central Bank of Egypt held its annual business continuity drill on 5 December 2024, operating from alternative sites and remotely connected to its Disaster Recovery site.",
+ "title": "Central Bank of Egypt Completes the Annual Drill for Business Continuity Plans and Business Continuity System (BCMS) Operating from Alternative Sites/Remote Work",
+ "publisher": "Central Bank of Egypt",
+ "published": "2024-12-15",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "backup",
+ "aspect": "tier",
+ "fact": "",
+ "title": "Comoros To Launch National Data Centre",
+ "publisher": "Data Centres Africa",
+ "published": "2025-05-15",
+ "date_source": "source",
+ "why_not": "already-held: same Tier 3 data centre story as the held Telecompaper item; no backup site or certification stated."
+}

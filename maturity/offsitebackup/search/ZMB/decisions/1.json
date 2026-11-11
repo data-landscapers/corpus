@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;plan",
+ "fact": "The Auditor General found the Ministry of Finance and National Planning's IFMIS and PMEC backups had no off-site copy as at 31 August 2025, and the Government Service Bus BCDRP approved in 2024 had not been tested.",
+ "title": "Report of the Auditor General on the Accounts of the Republic for the Financial Year Ended 31st December 2024",
+ "publisher": "Office of the Auditor General, Republic of Zambia",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

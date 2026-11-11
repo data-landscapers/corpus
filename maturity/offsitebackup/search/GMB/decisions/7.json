@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "backup",
+ "aspect": "",
+ "fact": "",
+ "title": "Cybersecurity Guidelines for Financial Institutions",
+ "publisher": "Central Bank of The Gambia",
+ "published": "2022-01",
+ "date_source": "source",
+ "why_not": "off-topic: a regulator's DR-site requirement on financial institutions, not government systems or a public body's own backup site"
+}

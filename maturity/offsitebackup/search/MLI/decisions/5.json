@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "plan",
+ "fact": "On 21 May 2025 the AMRTP called for a consultant to audit the ISO 22301 business continuity and recovery plans of Orange, Atel and Malitel, including full failover tests.",
+ "title": "Audit de la conformité des plans de continuité et de reprise d'activités et de service des opérateurs titulaires de licence de Télécommunications",
+ "publisher": "AMRTP (via Malipages)",
+ "published": "2025-05-21",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "THEWILL reports President Buhari recently commissioned the Kano Data Centre, a Tier 4 facility that will provide full backup services for the primary Abuja data centre of the National Information and Communications Infrastructure Backbone.",
+ "title": "With Kano Centre, Nigeria Pushes For Data Sovereignty, Better Security",
+ "publisher": "THEWILL",
+ "published": "2023-02-14",
+ "date_source": "source",
+ "why_not": ""
+}

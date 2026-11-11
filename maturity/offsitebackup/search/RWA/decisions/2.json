@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "AOS Ltd, operator of the National Data Centre, offers Backup as a service and a disaster recovery facility to public and private sector.",
+ "title": "Web, email and cloud hosting costs drop significantly in Rwanda",
+ "publisher": "Africanian (from The New Times)",
+ "published": "2020-10-28",
+ "date_source": "proxy",
+ "why_not": ""
+}

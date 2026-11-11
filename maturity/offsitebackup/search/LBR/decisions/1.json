@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;plan",
+ "fact": "The strategy states there is no National Disaster Recovery Center for MAC ICT systems and no up-to-date national DR plan, that the NIR has no dedicated DR site, that only the Central Bank of Liberia runs a DR center (used mainly by financial institutions), and sets a target of an approved national DR plan by Q3 2026 and a DR data center by Q4 2027.",
+ "title": "\"Whole of Government\" National Digital Strategy",
+ "publisher": "Government of Liberia, Ministry of Posts and Telecommunications",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

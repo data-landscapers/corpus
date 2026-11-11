@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "The new IFMIS platform, operational since July 2020, is hosted in a main data centre and a disaster recovery centre, with the converged infrastructure at the Malawi Revenue Authority designated as the DR site.",
+ "title": "Malawi Integrated Financial Management Information System",
+ "publisher": "World Bank (IFMIS community of practice workshop)",
+ "published": "2021",
+ "date_source": "proxy",
+ "why_not": ""
+}

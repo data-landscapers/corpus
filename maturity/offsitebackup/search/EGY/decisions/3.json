@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "The Government Data and Cloud Computing Center P1 was designed as a disaster recovery centre that replicates data synchronously with the main government centre in the New Administrative Capital and took over as the active alternative.",
+ "title": "مركز البيانات والحوسبة السحابية.. الخطة \"ب\" جاهزة فى \"عقل مصر الإلكترونى\"",
+ "publisher": "الدستور",
+ "published": "2025-07-09",
+ "date_source": "source",
+ "why_not": ""
+}

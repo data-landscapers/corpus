@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;tier",
+ "fact": "The Konza Technopolis Development Authority, in a call for expressions of interest valid from 8 July 2025, describes its national data centre as Tier III certified and seeks partners to invest in a secondary data centre.",
+ "title": "Konza Cloud Partners",
+ "publisher": "Konza Technopolis Development Authority",
+ "published": "2025-07-08",
+ "date_source": "source",
+ "why_not": ""
+}

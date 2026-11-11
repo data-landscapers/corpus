@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "backup",
+ "aspect": "plan",
+ "fact": "",
+ "title": "Information Security Policy",
+ "publisher": "Central Bank of Libya",
+ "published": "2022-07-27",
+ "date_source": "source",
+ "why_not": "no-development: a list of policy headings (backup, continuity of workflow) with no backup site, plan or test stated"
+}

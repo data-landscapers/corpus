@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "In May 2025 the state-owned Empresa Nacional de Hidrocarbonetos tendered (Concurso Público 10/GAPO/ENH/071.2/2025) for a disaster-recovery site and a secondary data centre, with VMware Site Recovery Manager linking its main and secondary data centres; the location and distance are not stated.",
+ "title": "Caderno de Encargos, Concurso Público Nº10/GAPO/ENH/071.2/2025 - Site de Recuperação de Desastres (Site Recovery)",
+ "publisher": "Empresa Nacional de Hidrocarbonetos, E.P.",
+ "published": "2025-05",
+ "date_source": "source",
+ "why_not": ""
+}

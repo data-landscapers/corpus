@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;plan",
+ "fact": "A 2025 UNFPA consultancy for the National Institute of Statistics (INS) data centre in Niamey tasks the expert with setting up a data replication site 140 km from Niamey and a business continuity plan for the census (RGPH5) data, work scheduled April to December 2025; the site is planned, not shown in service, and is under 200 km.",
+ "title": "Consultant International en Infrastructure et Sécurité Informatique",
+ "publisher": "United Nations Population Fund (UNFPA)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

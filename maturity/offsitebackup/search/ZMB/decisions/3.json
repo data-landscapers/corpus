@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;plan",
+ "fact": "The Committee on Parastatal Bodies recorded that Mulungushi University replicated its three major systems to another campus storage site in Kabwe, moved off-site backup to ZAMREN in Lusaka, and commissioned a disaster recovery and backup appliance after successful acceptance testing.",
+ "title": "Report of the Committee on Parastatal Bodies on the Report of the Auditor General on the Accounts of Parastatal Bodies and Other Statutory Institutions for the Financial Year Ended 31st December, 2023",
+ "publisher": "National Assembly of Zambia",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;tier",
+ "fact": "NITA-U manages two data centres, one serving as a backup for the other, designed to meet Tier III requirements but not yet certified.",
+ "title": "Uganda national green data centre strategy and guidelines",
+ "publisher": "ITU / Ministry of ICT and National Guidance",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

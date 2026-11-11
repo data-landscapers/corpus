@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "In March 2022 the World Bank recorded two government data centres under construction (Ministry of Finance and Ministry of Digital Economy, Posts and Telecommunications) and that the Government lacks a strategic approach to data backup, the ministry facility being specified as Tier II with a later Tier III extension.",
+ "title": "Central African Republic Public Sector Digital Governance Project (Project Appraisal Document)",
+ "publisher": "World Bank",
+ "published": "2022-03-07",
+ "date_source": "source",
+ "why_not": ""
+}

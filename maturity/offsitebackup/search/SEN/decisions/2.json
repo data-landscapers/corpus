@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "plan",
+ "fact": "The Public Treasury reported an incident on 10 May 2026 that affected part of its IT systems and prompted business continuity measures, and a bill before the National Assembly on 13 August 2026 would require backup systems and regular resilience testing for critical infrastructure.",
+ "title": "Senegal Plans Cybersecurity Law to Protect Critical Infrastructure",
+ "publisher": "We are Tech",
+ "published": "2026-08-14",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "plan",
+ "fact": "The National Cybersecurity Policy 2022-2026 (revised September 2022) says government shall ensure development of a standard business continuity and recovery management framework (BCP), and a National Cybersecurity Contingency Plan for recovery after major incidents.",
+ "title": "The National Cybersecurity Policy of The Gambia 2022-2026 (Revised Version)",
+ "publisher": "Ministry of Communications and Digital Economy (The Gambia)",
+ "published": "2022-09",
+ "date_source": "source",
+ "why_not": ""
+}

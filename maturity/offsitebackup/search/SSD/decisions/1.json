@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "backup",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "unfetchable: empty extraction (snippet only: IFMIS redundant site not shown functional at Dec 2025 audit, a Dec 2025 audit stated in an Exa snippet, not read in full)"
+}

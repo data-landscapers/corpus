@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "tier",
+ "fact": "SITA's 2023-24 performance plan says phase 3 of its data centre modernisation programme upgrades the existing Centurion and Beta data centres to a minimum of Tier III standard, as instructed by the minister in 2020.",
+ "title": "South Africa's Home Affairs taken offline by mainframe failure",
+ "publisher": "DatacenterDynamics",
+ "published": "2024-01-04",
+ "date_source": "source",
+ "why_not": ""
+}

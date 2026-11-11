@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;tier",
+ "fact": "In February 2023 IDOM described the first Tier III national data centre at Brazzaville with a back-up data centre planned at Oyo, 300 km from the main one, to hold the main site's data back-up.",
+ "title": "Boosting innovation and artificial intelligence in the Republic of Congo",
+ "publisher": "IDOM",
+ "published": "2023-02-03",
+ "date_source": "source",
+ "why_not": ""
+}

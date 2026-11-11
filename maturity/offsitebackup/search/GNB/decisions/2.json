@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "The World Bank diagnostic states the country has no government data centre, and that a Tier 3 or 4 centre would need high capacity for the redundant Disaster Recovery centre, which Guinea-Bissau's constraints make challenging.",
+ "title": "Guiné-Bissau Diagnóstico da Economia Digital",
+ "publisher": "World Bank Group",
+ "published": "2022",
+ "date_source": "proxy",
+ "why_not": ""
+}

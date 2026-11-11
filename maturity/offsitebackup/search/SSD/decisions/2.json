@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;plan",
+ "fact": "As of February 2022 the finance ministry's payroll and FMIS server had no disaster recovery system in place, and its backup server, in the same room as the main server, was no longer working.",
+ "title": "South Sudan Public Financial Management and Institutional Strengthening Project: Project Appraisal Document (Report No. PAD4655)",
+ "publisher": "World Bank Group (International Development Association)",
+ "published": "2022-02-10",
+ "date_source": "source",
+ "why_not": ""
+}

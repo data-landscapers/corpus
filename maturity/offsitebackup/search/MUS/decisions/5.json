@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;plan",
+ "fact": "The Registrar General's Department states the Government has invested in Disaster Recovery infrastructure for the MeRS land registry platform, scheduled for installation in September 2025, with a secondary DR site, real-time data replication and periodic DR drills.",
+ "title": "Upcoming Projects",
+ "publisher": "Registrar General's Department",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

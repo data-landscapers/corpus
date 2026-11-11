@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "",
+ "title": "Libya's Central Bank denies moving data centres to Misurata",
+ "publisher": "Libyan Express",
+ "published": "2019-06-22",
+ "date_source": "source",
+ "why_not": "off-topic: denies a data centre move; states no backup site, plan or test"
+}

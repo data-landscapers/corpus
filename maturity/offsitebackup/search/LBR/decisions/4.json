@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;plan",
+ "fact": "The July 2024 terms of reference for the Liberia Business Registry's online registration system specify a primary site, a secondary site at the registry, and a DR site at a separate, geographically distant location proposed at Liberia Telecommunications Corporation (LIBTELCO), with backup replication and failover to the DR site required of the bidder.",
+ "title": "Terms of Reference for the Development of an Online Business Registration System for the Liberia Business Registry",
+ "publisher": "Ministry of Commerce & Industry, Liberia Investment, Finance & Trade Project (LIFT-P)",
+ "published": "2024-07",
+ "date_source": "source",
+ "why_not": ""
+}

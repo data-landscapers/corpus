@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "Seychelles Cabinet approved on 28 October 2026 a sovereign government cloud with a primary data centre in phase 1 and a separate secondary data centre in a different geographical area in phase 2, for service continuity.",
+ "title": "Seychelles Approves Sovereign Government Cloud and Two Data Centres",
+ "publisher": "DGA Community",
+ "published": "2026-11-06",
+ "date_source": "source",
+ "why_not": ""
+}

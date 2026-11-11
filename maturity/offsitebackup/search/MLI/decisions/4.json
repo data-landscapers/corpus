@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "plan",
+ "fact": "The AMRTP, Mali's telecoms regulator, sought a consultant to draw up and test an IT business recovery plan (PRA) for switching its activities to a withdrawal site after a disaster at the main site.",
+ "title": "Implementation of an AMRTP Business Resumption Plan (PRA)",
+ "publisher": "Autorite malienne de regulation des telecommunications/TIC et des postes (AMRTP)",
+ "published": "2022-10-07",
+ "date_source": "proxy",
+ "why_not": ""
+}

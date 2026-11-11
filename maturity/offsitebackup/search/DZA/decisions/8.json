@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "Banque Nationale de l'Habitat, a state bank, plans a backup (de secours) data centre at Biskra for full redundancy of its banking services, and describes backup and disaster-recovery solutions at its main data centre.",
+ "title": "Le Data Center de la BNH : une infrastructure clé pour la digitalisation",
+ "publisher": "La voie d'Algérie",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

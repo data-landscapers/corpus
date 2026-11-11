@@ -83,7 +83,7 @@ mobileaffordability,price,infra.connect--mobile-affordability,2026-11-11,14,86,4
 mobilepenetration,ownership,infra.connect--mobile-penetration,2026-11-11,15,62,11
 nationaldatacentres,national,infra.store--local-data-centre-capacity-national-providers,2026-11-11,15,92,105
 nonstatefinance,private,finance.new--mobilisation-of-non-state-finance,2026-11-11,,,
-offsitebackup,backup,infra.store--off-site-backup-capacity,,,,
+offsitebackup,backup,infra.store--off-site-backup-capacity,2026-11-11,,,
 opendatapolicy,policy,gov.policy--open-data-policy,,,,
 opendatause,use,data.open--use-of-open-data,,,,
 opendiscussion,discussion,gov.discourse--open-discussion-of-government-policy,,,,

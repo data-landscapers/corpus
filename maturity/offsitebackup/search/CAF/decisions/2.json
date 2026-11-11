@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "On 5 May 2021 the Ministry of Posts and Telecommunications issued an international tender for a main data centre at Bangui Sica and a backup data centre (rehabilitated rooms) at the Ministry's own site, under the CAB project.",
+ "title": "Avis d'appel d'offres: fourniture, formation, installation d'equipements informatiques, reseaux, etc. et construction et operationnalisation d'un Datacenter principal et de secours",
+ "publisher": "Ministere des Postes et Telecommunications, Unite de coordination du projet CAB",
+ "published": "2021-05-05",
+ "date_source": "source",
+ "why_not": ""
+}

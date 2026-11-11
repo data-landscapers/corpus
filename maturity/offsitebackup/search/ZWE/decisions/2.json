@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "plan",
+ "fact": "The Treasury report on implementation of prior-year audit recommendations, as at 30 September 2025, records Ministries and Commissions still without a Disaster Recovery Plan (one only awaiting signatures) and one commission with no off-site retention of backups and no data-recovery plan.",
+ "title": "Report on Implementation of Prior Year Audit Recommendations",
+ "publisher": "Ministry of Finance, Economic Development and Investment Promotion, Zimbabwe",
+ "published": "2025-11",
+ "date_source": "proxy",
+ "why_not": ""
+}

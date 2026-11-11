@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "In September 2026 the ministry said the national public data centre at VITIB Grand-Bassam is under construction (over 20% complete), with government applications until now hosted in private data centres or SNDI servers and no dedicated public data centre.",
+ "title": "Kalil Konaté launches a national public data center to anchor Côte d'Ivoire's digital sovereignty",
+ "publisher": "Capmad",
+ "published": "2026-09-11",
+ "date_source": "source",
+ "why_not": ""
+}

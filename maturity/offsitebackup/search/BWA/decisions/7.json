@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "plan;site",
+ "fact": "The Auditor General found the Civil Aviation Authority of Botswana had no back-up policy and no evidence of restore tests for the year to 31 March 2020, and management said its replication site had technical issues and off-site replication would be normalised by end of October.",
+ "title": "Report of the Auditor General on the Accounts of the Botswana Government for the Financial Year Ended 31 March 2020",
+ "publisher": "Office of the Auditor General, Republic of Botswana",
+ "published": "2021-10-20",
+ "date_source": "source",
+ "why_not": ""
+}

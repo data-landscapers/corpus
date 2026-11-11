@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "plan",
+ "fact": "NIRA had no approved IT continuity and disaster recovery plan and no tested emergency procedures per the Auditor General, with a 16 billion shilling DR phase 1 unfunded and data backed up on tapes kept offsite.",
+ "title": "NIRA lacking data recovery plan",
+ "publisher": "The Independent",
+ "published": "2019-05-22",
+ "date_source": "source",
+ "why_not": ""
+}

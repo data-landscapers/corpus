@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "The Caisse Nationale des Retraites tendered on 24 August 2026 for a backup (hyperconverged) datacentre at its Biskra local agency.",
+ "title": "Acquisition et mise en place d'un Datacenter de secours (hyperconvergé) au niveau de l'Agence locale CNR de la wilaya de Biskra",
+ "publisher": "Caisse Nationale des Retraites",
+ "published": "2026-08-24",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "The Bank of Sierra Leone bid invitation of 16 December 2022 includes a new replication link between the BSL main site and the BSL DR site.",
+ "title": "Supply, Delivery and Upgrading (Installation & Configuration) of Bank of Sierra Leone Data Centre",
+ "publisher": "Project Fiduciary Management Unit, Ministry of Finance (Sierra Leone Financial Inclusion Project)",
+ "published": "2022-12-16",
+ "date_source": "source",
+ "why_not": ""
+}

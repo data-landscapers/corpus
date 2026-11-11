@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "plan",
+ "fact": "An Auditor-General IT audit of GIFMIS and IPPIS, as at November 2020, found no business continuity and disaster recovery policy for the GIFMIS data centre; the Accountant-General's office said a contracted continuity plan was yet to be activated.",
+ "title": "Audit uncovers how flawed IPPIS, GIFMIS are costing govt. multi-billion Naira losses",
+ "publisher": "Mediatracnet",
+ "published": "2022-01-06",
+ "date_source": "source",
+ "why_not": ""
+}

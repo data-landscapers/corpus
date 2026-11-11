@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "tier",
+ "fact": "On 1 June 2021 the national data centre at Abomey-Calavi began technical tests, with certification under way at level 3 of the ANSI/TIA 942 standard.",
+ "title": "Datacenter national : démarrage des premiers tests techniques sous le regard de la Ministre du Numérique et de la Digitalisation",
+ "publisher": "Portail du Numérique - Bénin (Ministère du Numérique et de la Digitalisation)",
+ "published": "2021-06-01",
+ "date_source": "proxy",
+ "why_not": ""
+}

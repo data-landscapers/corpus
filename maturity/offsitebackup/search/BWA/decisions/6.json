@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "In its 1 November 2024 addendum to a business continuity tender, the University of Botswana states its Gaborone data centre has a DR site that is offsite, distance not given.",
+ "title": "Invitation to tender: consultancy services to develop business continuity policy and framework for the University of Botswana (UBT 2024/2025-06), Addendum",
+ "publisher": "University of Botswana",
+ "published": "2024-11-01",
+ "date_source": "source",
+ "why_not": ""
+}

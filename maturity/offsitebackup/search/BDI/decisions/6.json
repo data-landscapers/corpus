@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "plan",
+ "fact": "The World Bank appraisal of 31 May 2022 states Burundi government data hosting lacks adequate backup and that the Government will be supported to adopt hosting arrangements embedding automated backup and disaster recovery, with a data centre or cloud operating model to be advised.",
+ "title": "Burundi Digital Foundations Project, Project Appraisal Document",
+ "publisher": "World Bank Group",
+ "published": "2022-05-31",
+ "date_source": "source",
+ "why_not": ""
+}

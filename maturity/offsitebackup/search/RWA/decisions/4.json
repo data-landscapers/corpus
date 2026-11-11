@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "plan",
+ "fact": "RISA Business Continuity Management Guidelines for GoR set guidance that a DR recovery site should be outside Kigali, over 45 km from the primary, active-active.",
+ "title": "Business Continuity Management Guidelines for GoR",
+ "publisher": "Rwanda Information Society Authority",
+ "published": "2019",
+ "date_source": "source",
+ "why_not": ""
+}

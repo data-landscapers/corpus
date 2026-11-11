@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "In June 2023 Côte d'Ivoire and the United States signed a memorandum of understanding for the construction of a national backup data centre to secure the administration's data.",
+ "title": "Côte d'Ivoire : Création d'une cité du numérique et d'un data center national de secours",
+ "publisher": "Digital Mag Côte d'Ivoire",
+ "published": "2023-06-29",
+ "date_source": "source",
+ "why_not": ""
+}

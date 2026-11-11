@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;tier",
+ "fact": "The government of Togo sought a consultancy firm in July 2025 to draft the specification for a backup site for the OTR (revenue authority) datacenter, to international standards of Tier 3 at minimum, so no backup site is yet in service.",
+ "title": "Appel à Manifestation d'Intérêt : recrutement d'un cabinet en vue de l'analyse de l'infrastructure existante et de la rédaction d'un cahier de charges de mise en place du site backup du datacenter de l'OTR (AMI N° 010/2025/MRSPTDS/PRMP/PMADS)",
+ "publisher": "Ministère de la Réforme du Service Public, du Travail et du Dialogue Social (PMADS)",
+ "published": "2025-07-21",
+ "date_source": "source",
+ "why_not": ""
+}

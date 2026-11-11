@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;plan",
+ "fact": "A January 2026 piece states the Central Bank of Sudan had years earlier set up an integrated Disaster Recovery Centre in one of the states, but it was not fully ready when the April 2023 war came, and that it requires banks to run an ISO 22301 business continuity system with periodic plan testing.",
+ "title": "Business Continuity and Disaster Recovery Protocol for Sudanese Banks",
+ "publisher": "Sudan Horizon",
+ "published": "2026-01-25",
+ "date_source": "source",
+ "why_not": ""
+}

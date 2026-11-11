@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "A contract was awarded in April 2025 for a consultant to assess the Bank of Sierra Leone's production and disaster recovery sites under the Sierra Leone Financial Inclusion Project.",
+ "title": "Awarded - Hire a Data Center consultant to carry out the assessment of Bank of Sierra Leone's production and Disaster recovery sites for the Sierra Leone Financial Inclusion Project.",
+ "publisher": "Bidding Source",
+ "published": "2025-04-25",
+ "date_source": "source",
+ "why_not": ""
+}

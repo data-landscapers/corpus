@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "backup",
+ "aspect": "plan",
+ "fact": "",
+ "title": "Nota de prensa sobre las dificultades que atraviesa el CNEDOGE",
+ "publisher": "Guinea Ecuatorial Press",
+ "published": "2024-02-15",
+ "date_source": "source",
+ "why_not": "off-topic: a post-fire recovery of an ID-document office, not a backup or DR site for government systems"
+}

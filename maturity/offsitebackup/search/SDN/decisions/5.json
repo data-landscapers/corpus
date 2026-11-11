@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "On 15 November 2023 Sudan's Minister of Communications and Digital Transformation said his ministry was establishing a national data center in Port Sudan to help quickly restore electronic services.",
+ "title": "The Ministry of Communications intends to establish a national data center in Port Sudan",
+ "publisher": "Official spokesman platform",
+ "published": "2023-11-15",
+ "date_source": "source",
+ "why_not": ""
+}

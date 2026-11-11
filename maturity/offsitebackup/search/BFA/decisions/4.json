@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;tier",
+ "fact": "On 23 January 2026 the two government data centres were inaugurated, housed on sites about 100 km apart to keep service running after a climate or power incident, and a Tier III national data centre is planned for 2028.",
+ "title": "Souveraineté numérique : le Burkina Faso inaugure deux data center de 3 000 Téraoctets d'un coût de16 milliards F CFA",
+ "publisher": "C'Finance",
+ "published": "2026-01-23",
+ "date_source": "source",
+ "why_not": ""
+}

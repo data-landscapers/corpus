@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site",
+ "fact": "The Ministry of Finance's tender for the Directorate General of Taxes (DGI) covers equipment to reinforce its two data centres, a primary data centre and a backup (secours) data centre, for the SIGIT system.",
+ "title": "Avis d'Appel d'Offres International Ouvert N°00020/AOIO/MINFI/DGI/CCCM-AG/CIPM-MINFI/2025 : renforcement des centres de données de la DGI",
+ "publisher": "Ministère des Finances (via Agence de Régulation des Marchés Publics)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

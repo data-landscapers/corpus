@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "backup",
+ "aspect": "site;tier",
+ "fact": "The August 2025 updated ESMP says the Lilongwe National Data Centre is the primary site and the Mandala data centre in Blantyre is the disaster recovery site with identical equipment for data replication, that DMAP will link them by dark fibre (round-trip under 5 ms) and that the building is designed to Tier III.",
+ "title": "Updated Environmental and Social Management Plan for the Construction and Operation of a Government Data Centre in Malawi at the Department of E-Government in Lilongwe",
+ "publisher": "Public Private Partnership Commission",
+ "published": "2025-08",
+ "date_source": "source",
+ "why_not": ""
+}
