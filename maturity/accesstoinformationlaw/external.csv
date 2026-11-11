@@ -1,0 +1,163 @@
+claim,source,survey_year,iso3,item,question,status,name,year,fit,outcome,slug,row_ids,note
+gtmi-33e8e2da33,gtmi,2020,AGO,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2002,same,superseded,,,the 2025 round answers it
+gtmi-40f45b4ec0,gtmi,2022,AGO,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2002,same,superseded,,,the 2025 round answers it
+gtmi-902cfb6bfa,gtmi,2025,AGO,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2002,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as AGO-001
+gtmi-a8afa7bb45,gtmi,2025,BDI,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-c74a984ffe,gtmi,2022,BDI,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-c90aa80c9d,gtmi,2020,BDI,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-0ee959c2a6,gtmi,2022,BEN,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2015,same,superseded,,,the 2025 round answers it
+gtmi-6c952bb605,gtmi,2025,BEN,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2015,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BEN-004
+gtmi-8a78f56c4e,gtmi,2020,BEN,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2015,same,superseded,,,the 2025 round answers it
+gtmi-09a71ce394,gtmi,2025,BFA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2015,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as BFA-002
+gtmi-38bbb109c2,gtmi,2022,BFA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2015,same,superseded,,,the 2025 round answers it
+gtmi-42fc41ce8d,gtmi,2020,BFA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2015,same,superseded,,,the 2025 round answers it
+gtmi-a42fd48b84,gtmi,2025,BWA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by BWA-002
+gtmi-b131d319ce,gtmi,2020,BWA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,1 Draft / Consultations in progress,,,same,superseded,,,the 2025 round answers it
+gtmi-e8287d21f4,gtmi,2022,BWA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-81f9139877,gtmi,2025,CAF,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-892e4bf358,gtmi,2022,CAF,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-f57c0e00eb,gtmi,2020,CAF,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-2a0c7584f1,gtmi,2022,CIV,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2013,same,superseded,,,the 2025 round answers it
+gtmi-9b28ab688e,gtmi,2020,CIV,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2013,same,superseded,,,the 2025 round answers it
+gtmi-dd6e522baf,gtmi,2025,CIV,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2013,same,fact,2013-12-01-civ-caidp-citoyen-droit-acces-information,CIV-008;CIV-009,
+gtmi-20431789ca,gtmi,2022,CMR,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,1 Draft / Consultations in progress,,,same,superseded,,,the 2025 round answers it
+gtmi-43717d438a,gtmi,2020,CMR,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,1 Draft / Consultations in progress,,,same,superseded,,,the 2025 round answers it
+gtmi-4cc2710556,gtmi,2025,CMR,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,1 Draft / Consultations in progress,,2026,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CMR-001
+gtmi-a0d75f5217,gtmi,2025,COD,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2023,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"the link is a digital code, not an access to information law"
+gtmi-ca63de130b,gtmi,2020,COD,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-f4bf9ab8e7,gtmi,2022,COD,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-469d497487,gtmi,2020,COG,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-a2d469d31e,gtmi,2022,COG,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-efc2ddf2ae,gtmi,2025,COG,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-3875b89e1a,gtmi,2025,COM,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2021,same,nothing,2022-01-01-com-gazette-comores-code-information-promulgue,,"the document is a press and communication code, with no right to ask public bodies for information"
+gtmi-388c6228e8,gtmi,2020,COM,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-c7c2d68641,gtmi,2022,COM,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,1 Draft / Consultations in progress,,2021,same,superseded,,,the 2025 round answers it
+gtmi-0808bffd77,gtmi,2020,CPV,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-648421ea46,gtmi,2022,CPV,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,1 Draft / Consultations in progress,,2022,same,superseded,,,the 2025 round answers it
+gtmi-866ba7c564,gtmi,2025,CPV,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2022,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as CPV-001
+gtmi-0e6ae8fa8e,gtmi,2022,DJI,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-1af3bf9df1,gtmi,2025,DJI,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-4d2aeb790e,gtmi,2020,DJI,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-7cc5bef214,gtmi,2025,DZA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2023,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"the link is an official gazette issue, not a named access to information law"
+gtmi-9edf1b8ab5,gtmi,2022,DZA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,1 Draft / Consultations in progress,,2022,same,superseded,,,the 2025 round answers it
+gtmi-c3040d5ff5,gtmi,2020,DZA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-07b2e5cb40,gtmi,2025,EGY,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,1 Draft / Consultations in progress,,2026,same,nothing,2024-02-12-egy-youm7-mcit-data-availability-exchange-bill-sent-to-justice-ministry,,"the document is a data exchange bill between government bodies, not an access to information bill; draft held as EGY-001"
+gtmi-467491a53c,gtmi,2022,EGY,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,1 Draft / Consultations in progress,,2023,same,superseded,,,the 2025 round answers it
+gtmi-bfe2e79a9a,gtmi,2020,EGY,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-88447d72ea,gtmi,2020,ERI,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-e4b67bb19f,gtmi,2025,ERI,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-e78de3786e,gtmi,2022,ERI,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-280907a50d,gtmi,2025,ETH,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2008,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ETH-001
+gtmi-2b79da4fa8,gtmi,2020,ETH,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2008,same,superseded,,,the 2025 round answers it
+gtmi-49bd94f2e6,gtmi,2022,ETH,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2008,same,superseded,,,the 2025 round answers it
+gtmi-206a7875e7,gtmi,2022,GAB,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-23e692549b,gtmi,2020,GAB,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-4fa150bc4b,gtmi,2025,GAB,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-12dac3ac50,gtmi,2022,GHA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2019,same,superseded,,,the 2025 round answers it
+gtmi-bbf89be315,gtmi,2020,GHA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2019,same,superseded,,,the 2025 round answers it
+gtmi-c09ae1f03a,gtmi,2025,GHA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2019,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as GHA-001
+gtmi-2fdd62c210,gtmi,2020,GIN,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2010,same,superseded,,,the 2025 round answers it
+gtmi-6bf4566f7d,gtmi,2025,GIN,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2010,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,the link is a third-party platform page; law held as GIN-001
+gtmi-bbd5eab577,gtmi,2022,GIN,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,1 Draft / Consultations in progress,,2010,same,superseded,,,the 2025 round answers it
+gtmi-06f9440d16,gtmi,2022,GMB,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-1463146d25,gtmi,2025,GMB,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,1 Draft / Consultations in progress,,2026,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by GMB-007
+gtmi-58a0a3a980,gtmi,2020,GMB,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,1 Draft / Consultations in progress,,,same,superseded,,,the 2025 round answers it
+gtmi-32e14b74fb,gtmi,2025,GNB,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-3f7df53505,gtmi,2020,GNB,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-990e064cca,gtmi,2022,GNB,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-461da481b3,gtmi,2020,GNQ,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-e8f1be3ca4,gtmi,2025,GNQ,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-ea21c26022,gtmi,2022,GNQ,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-37a2cc1196,gtmi,2020,KEN,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2016,same,superseded,,,the 2025 round answers it
+gtmi-37bd3828bf,gtmi,2022,KEN,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2016,same,superseded,,,the 2025 round answers it
+gtmi-e9e60395cb,gtmi,2025,KEN,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2016,same,fact,2016-09-01-ken-access-to-information-act-2016,KEN-006,
+gtmi-1b9990a3dd,gtmi,2020,LBR,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2010,same,superseded,,,the 2025 round answers it
+gtmi-7a81a6e0a5,gtmi,2025,LBR,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2010,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as LBR-001
+gtmi-d3b8cc21df,gtmi,2022,LBR,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2010,same,superseded,,,the 2025 round answers it
+gtmi-317aa4e416,gtmi,2020,LBY,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-4edcf1b124,gtmi,2022,LBY,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-df2693f124,gtmi,2025,LBY,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-488c82d93d,gtmi,2022,LSO,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-616b47f886,gtmi,2020,LSO,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,1 Draft / Consultations in progress,,,same,superseded,,,the 2025 round answers it
+gtmi-6b1f312107,gtmi,2025,LSO,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-5acc547f97,gtmi,2025,MAR,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2018,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MAR-001
+gtmi-6ede1e19b0,gtmi,2020,MAR,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2018,same,superseded,,,the 2025 round answers it
+gtmi-fc020040cf,gtmi,2022,MAR,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2018,same,superseded,,,the 2025 round answers it
+gtmi-2164edde36,gtmi,2022,MDG,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2016,same,superseded,,,the 2025 round answers it
+gtmi-548ae91629,gtmi,2025,MDG,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2016,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is the 2016 communication code, not an access to information law"
+gtmi-71cd898ec3,gtmi,2020,MDG,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2016,same,superseded,,,the 2025 round answers it
+gtmi-1ce4f58a17,gtmi,2025,MLI,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-a22aa7fee0,gtmi,2022,MLI,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-bc2ea401c1,gtmi,2020,MLI,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-5247c33f7e,gtmi,2022,MOZ,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2014,same,superseded,,,the 2025 round answers it
+gtmi-9d93496a85,gtmi,2025,MOZ,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2024,same,nothing,2014-12-31-moz-law-34-2014-right-to-information-english,,the law itself is recorded as a fact (2014); the 2024 year is not stated by the document
+gtmi-f0545cb729,gtmi,2020,MOZ,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2014,same,superseded,,,the 2025 round answers it
+gtmi-0d549a5925,gtmi,2020,MRT,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-2d7869128a,gtmi,2025,MRT,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-ceaa0f2da7,gtmi,2022,MRT,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-8f7f8b2aa9,gtmi,2020,MUS,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-c220087ebe,gtmi,2022,MUS,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-c62f1fe006,gtmi,2025,MUS,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2017,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,link is the data protection office's page on data subject access
+gtmi-2820265e3a,gtmi,2022,MWI,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2017,same,superseded,,,the 2025 round answers it
+gtmi-c338860cec,gtmi,2025,MWI,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2017,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as MWI-001
+gtmi-e7a0db659c,gtmi,2020,MWI,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2017,same,superseded,,,the 2025 round answers it
+gtmi-30d49e7bd8,gtmi,2025,NAM,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2022,same,read-before,2022-12-28-namibia-access-to-information-act-8-of-2022,,"reading list 3, already read for this study"
+gtmi-a7aae1bfa8,gtmi,2022,NAM,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,1 Draft / Consultations in progress,,,same,superseded,,,the 2025 round answers it
+gtmi-b8bcb4ba95,gtmi,2020,NAM,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-0465766096,gtmi,2020,NER,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2011,same,superseded,,,the 2025 round answers it
+gtmi-3eb66b282b,gtmi,2022,NER,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2011,same,superseded,,,the 2025 round answers it
+gtmi-876902091f,gtmi,2025,NER,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2011,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as NER-001
+gtmi-8077b1efbe,gtmi,2022,NGA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2011,same,superseded,,,the 2025 round answers it
+gtmi-8826221c43,gtmi,2020,NGA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2011,same,superseded,,,the 2025 round answers it
+gtmi-bd6cd84d3e,gtmi,2025,NGA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2011,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as NGA-005
+gtmi-6935431304,gtmi,2025,RWA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2013,same,nothing,2024-01-01-rwanda-governance-scorecard-11th-edition,,held as RWA-001
+gtmi-ad83494c7e,gtmi,2022,RWA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2013,same,superseded,,,the 2025 round answers it
+gtmi-cf7c48f32a,gtmi,2020,RWA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2013,same,superseded,,,the 2025 round answers it
+gtmi-5efe9d7ad6,gtmi,2025,SDN,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2015,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SDN-001
+gtmi-97c78be14a,gtmi,2020,SDN,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2015,same,superseded,,,the 2025 round answers it
+gtmi-e3d5950436,gtmi,2022,SDN,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2015,same,superseded,,,the 2025 round answers it
+gtmi-0ddb48c145,gtmi,2025,SEN,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by SEN-004
+gtmi-3ffbbb7ff1,gtmi,2022,SEN,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-41e93ea64e,gtmi,2020,SEN,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-9a49078d7e,gtmi,2025,SLE,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2013,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SLE-011
+gtmi-c3a87db5c1,gtmi,2022,SLE,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2013,same,superseded,,,the 2025 round answers it
+gtmi-ca530820fd,gtmi,2020,SLE,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2013,same,superseded,,,the 2025 round answers it
+gtmi-601c6ae1c9,gtmi,2020,SOM,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-6ffb753399,gtmi,2022,SOM,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-d233d406e6,gtmi,2025,SOM,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-1d1724a164,gtmi,2020,SSD,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2013,same,superseded,,,the 2025 round answers it
+gtmi-3378e64ae9,gtmi,2022,SSD,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2013,same,superseded,,,the 2025 round answers it
+gtmi-a16f55b8e7,gtmi,2025,SSD,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2013,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SSD-004
+gtmi-0dc435a195,gtmi,2025,STP,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-a2917f3086,gtmi,2022,STP,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-f601ed9ca5,gtmi,2020,STP,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-450c3d75ea,gtmi,2025,SWZ,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,1 Draft / Consultations in progress,,2026,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,"link is a Google Drive folder, a third-party platform"
+gtmi-722ec713a2,gtmi,2020,SWZ,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-e75f26bd69,gtmi,2022,SWZ,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-7222fe2786,gtmi,2020,SYC,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2018,same,superseded,,,the 2025 round answers it
+gtmi-949429a92a,gtmi,2025,SYC,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2018,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as SYC-001
+gtmi-f29a0f67e0,gtmi,2022,SYC,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2018,same,superseded,,,the 2025 round answers it
+gtmi-18518e4676,gtmi,2025,TCD,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,a database's no
+gtmi-35beba31a6,gtmi,2022,TCD,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-70c5948b15,gtmi,2020,TCD,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-1b0242bd56,gtmi,2025,TGO,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2016,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TGO-002
+gtmi-3be7074cd4,gtmi,2020,TGO,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2016,same,superseded,,,the 2025 round answers it
+gtmi-cdc2045914,gtmi,2022,TGO,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2016,same,superseded,,,the 2025 round answers it
+gtmi-135d853312,gtmi,2022,TUN,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2016,same,superseded,,,the 2025 round answers it
+gtmi-8b9595f657,gtmi,2025,TUN,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2016,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TUN-001
+gtmi-a153bb220a,gtmi,2020,TUN,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2011,same,superseded,,,the 2025 round answers it
+gtmi-901a466b48,gtmi,2020,TZA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2016,same,superseded,,,the 2025 round answers it
+gtmi-a44b1ea162,gtmi,2025,TZA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2023,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as TZA-001
+gtmi-b35396246d,gtmi,2022,TZA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2015,same,superseded,,,the 2025 round answers it
+gtmi-31be5073e9,gtmi,2022,UGA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2005,same,superseded,,,the 2025 round answers it
+gtmi-7bd02b8874,gtmi,2020,UGA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2005,same,superseded,,,the 2025 round answers it
+gtmi-fd6bfd7532,gtmi,2025,UGA,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2005,same,read-before,2005-07-07-access-to-information-act,,"reading list 3, already read for this study"
+gtmi-215bc1ccfe,gtmi,2022,ZAF,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2000,same,superseded,,,the 2025 round answers it
+gtmi-b11c4e053a,gtmi,2020,ZAF,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2000,same,superseded,,,the 2025 round answers it
+gtmi-cb554f863e,gtmi,2025,ZAF,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2000,same,fact,2000-02-03-zaf-promotion-of-access-to-information-act-2-of-2000,ZAF-019;ZAF-020,
+gtmi-3566436300,gtmi,2020,ZMB,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-3697889c1c,gtmi,2025,ZMB,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2023,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,held as ZMB-008
+gtmi-9852de7c3f,gtmi,2022,ZMB,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,superseded,,,the 2025 round answers it
+gtmi-44567bca7c,gtmi,2025,ZWE,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,0 No,,,same,nothing,2025-12-18-worldbank-govtech-dataset-dec2025,,contradicted by ZWE-001
+gtmi-95a421cfba,gtmi,2022,ZWE,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2020,same,superseded,,,the 2025 round answers it
+gtmi-bcc465e01a,gtmi,2020,ZWE,I-37,Are there RTI Laws to make data/info available to the public online or digitally?,2 Yes (Effective),,2002,same,superseded,,,the 2025 round answers it

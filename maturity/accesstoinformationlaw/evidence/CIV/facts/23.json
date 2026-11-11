@@ -1,0 +1,12 @@
+{
+  "slug": "2013-12-01-civ-caidp-citoyen-droit-acces-information",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The CAIDP's citizen guide says the right to request and obtain information held by public institutions is guaranteed by loi n°2013-867 of 23 December 2013; the page is undated, so the date is the law's.", "as_of": "2013-12-23", "date_precision": "day", "system": "Loi n°2013-867 du 23 décembre 2013", "class": "law"},
+    {"sub_indicator": "law", "aspect": "reach", "value": "rules", "fact": "The CAIDP's citizen guide describes the commission as taking referrals through its ACCESS WEB platform, mail or post when a public body refuses or does not answer, publishing its decisions on the access portal and in the official journal, and fining non-execution under article 20; the page is undated, so the published date is used.", "as_of": "2013-12", "date_precision": "month", "system": "Commission d'Accès à l'Information d'intérêt public et aux Documents Publics (CAIDP)", "class": "law"}
+  ],
+  "systems": [],
+  "note": "",
+  "claims": {
+    "gtmi-dd6e522baf": "fact"
+  }
+}

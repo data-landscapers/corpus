@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-AGO,exchange,platform,coverage,underway,2026-08-27,AGO-001;AGO-002;AGO-003;AGO-004;AGO-005;AGO-006,,
-AGO,exchange,reach,coverage,,,,,nothing held
-AGO,exchange,usage,coverage,,,,,nothing held
+AGO,exchange,platform,coverage,inservice,2021,AGO-007,AGO-001=underway;AGO-006=underway;AGO-003=underway;AGO-004=underway;AGO-005=underway;AGO-002=underway,
+AGO,exchange,reach,coverage,,,,,nothing found
+AGO,exchange,usage,coverage,,,,,nothing found
