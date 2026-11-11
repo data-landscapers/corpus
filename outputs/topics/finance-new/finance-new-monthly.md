@@ -1,10 +1,10 @@
 ---
 title: New investments — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: finance.new
-places: AGO; BEN; CIV; COD; SWZ; ETH; GMB; GHA; MRT; MAR; NGA; RWA; SYC; ZAF; TZA; ZMB
-record: 1aa638d33295
+places: AGO; BEN; CIV; COD; SWZ; ETH; GMB; GHA; MLI; MRT; MAR; NGA; RWA; SYC; ZAF; SDN; TZA; UGA; ZMB
+record: 560a4d2af226
 ---
 
 # News, Oct – Nov 2026
@@ -26,6 +26,8 @@ record: 1aa638d33295
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mali">Mali</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritania">Mauritania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#morocco">Morocco</a>
@@ -38,7 +40,11 @@ record: 1aa638d33295
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sudan">Sudan</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#tanzania">Tanzania</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#uganda">Uganda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#zambia">Zambia</a>
 </nav>
@@ -223,6 +229,30 @@ Italy's development agency AICS committed EUR 20 million through UNDP on 29 Octo
 
 </div>
 
+## Mali
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Netherlands-funded UNDP equipment grant to the justice ministry (PROSMED)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Modernisation de la justice, renforcement de l’État de droit : Le PNUD offre des équipements et des codes au département de la Justice](https://www.maliweb.net/economie/developpement/modernisation-de-la-justice-renforcement-de-letat-de-droit-le-pnud-3121305.html)** — Le Challenger via Maliweb, 9 November 2026
+
+Mali's Justice Minister, Mamoudou Kassogué, said on 5 November 2026 that an e-justice platform is going into operation. Its first services are digital criminal-record extracts and nationality certificates. UNDP handed over equipment and penal codes worth USD 493,193 under its Netherlands-supported PROSMED programme.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Netherlands (DGIS) via UNDP — Mali Ministry of Justice, e-justice IT equipment and penal codes (PROSMED), 2026](https://www.maliweb.net/economie/developpement/modernisation-de-la-justice-renforcement-de-letat-de-droit-le-pnud-3121305.html)** — Le Challenger via Maliweb, 9 November 2026
+
+UNDP handed Mali's Ministry of Justice IT equipment and new penal codes worth USD 493,193 on 5 November 2026. The Netherlands supports the PROSMED programme behind the gift. Laptops, tablets and internet modems are to equip the ministry's e-justice platform.
+
+</div>
+
+</div>
+
 ## Mauritania
 
 <div class="monthly-story" markdown="1">
@@ -309,6 +339,20 @@ Rwanda's parliament ratified EUR 17 million of World Bank financing for digital 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital monitoring of urban and fruit tree value chain (FAO grant)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digitalization of Rwanda`s urban and fruit trees value chain](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-766203)** — Food and Agriculture Organization (FAO), 31 October 2026
+
+FAO reported a USD 100,000 grant to Rwanda in its IATI file, committed on 31 October 2026. It funds a digital monitoring system for the fruit tree value chain. The system serves planning, extension services and market links, from October 2026 to October 2028.
+
+</div>
+
+</div>
+
 ## Seychelles
 
 <div class="monthly-story" markdown="1">
@@ -355,6 +399,36 @@ The UK Foreign, Commonwealth and Development Office committed GBP 70,000 on 7 Oc
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Yoco Capital merchant-financing credit facility</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[South Africa’s Yoco Secures $100 Million Credit Facility to Expand SME Financing](https://techafricanews.com/2026/11/10/south-africa-yoco-secures-100-million-credit-facility-sme-financing/)** — Tech Africa News, 10 November 2026
+
+South African fintech Yoco secured a US$100 million credit facility from Victory Park Capital Advisors to expand its Yoco Capital merchant financing, Tech Africa News reported on 10 November 2026. Offers are pre-approved on merchants' sales data and repaid from daily takings. Yoco says it has provided more than R6.5 billion to over 40,000 merchants since 2018.
+
+</div>
+
+</div>
+
+## Sudan
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Proparco investment in Cashi</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Proparco partners with Cashi to expand access to essential financial services in Sudan](https://www.proparco.fr/en/news/proparco-partners-cashi-expand-access-essential-financial-services-sudan)** — Proparco, 9 November 2026
+
+Proparco announced on 9 November 2026 a EUR 600,000 investment in Cashi, a fintech serving Sudan. It is Proparco's first financing in Sudan. Proparco says Cashi's MyCashi wallet has 2.2 million registered users.
+
+</div>
+
+</div>
+
 ## Tanzania
 
 <div class="monthly-story" markdown="1">
@@ -366,6 +440,22 @@ The UK Foreign, Commonwealth and Development Office committed GBP 70,000 on 7 Oc
 **[Tanzania secures 441/-bn Korean loan for advanced ICT and AI University](https://businessinsider.co.tz/tanzania-secures-441-bn-korean-loan-for-advanced-ict-and-ai-university/)** — Business Insider Tanzania, 4 November 2026
 
 Tanzania's Ministry of Finance and Korea Eximbank signed a concessional loan of US$167.4 million (TSh441.12 billion) on 3 November 2026, from Korea's Economic Development Cooperation Fund. It finances a technology institute in Dodoma offering advanced training, including in AI. Korea Eximbank said it was the first EDCF project approved in 2026 and the first with support for AI.
+
+</div>
+
+</div>
+
+## Uganda
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digitised national risk and vulnerability atlas (FAO grant)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Strengthening Disaster Risk Knowledge and Governance for Water Related Climate Resilience in Uganda](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-766180)** — Food and Agriculture Organization (FAO), 31 October 2026
+
+FAO reported a USD 250,000 grant to Uganda in its IATI file, committed on 31 October 2026. It is to update and digitalise the 2019 National Risk and Vulnerability Atlas by June 2027. USD 39,622 had been disbursed.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: gov.policy
-places: AGO; BEN; CMR; CAF; TCD; COM; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LBY; MDG; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; TGO; TUN; UGA; ZMB; ZWE
-record: 052b0a08cc2c
+places: AGO; BEN; CMR; CAF; TCD; COM; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LBY; MDG; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; SDN; TGO; TUN; UGA; ZMB; ZWE
+record: cbd90f7d04c5
 ---
 
 # News, Oct – Nov 2026
@@ -59,6 +59,8 @@ record: 052b0a08cc2c
 <a href="#somalia">Somalia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sudan">Sudan</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#togo">Togo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -697,6 +699,20 @@ A Sangmyung University consortium ran a study visit to Korea for Nigerian senior
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SRAP 2.0 Digital Transformation Dashboard</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[NITDA Unveils Digital Dashboard To Track Nigeria’s Transformation Progress - Matrix News](https://matrixngr.com/2026/11/09/nitda-unveils-digital-dashboard-to-track-nigerias-transformation-progress/)** — Matrix News, 9 November 2026
+
+Nigeria's NITDA launched a public dashboard tracking its Strategic Roadmap and Action Plan 2.0, as reported on 9 November 2026. It shows implementation updates and digital-economy indicators. GIZ's Digital Transformation Center Nigeria built it, with co-funding from the EU and Denmark.
+
+</div>
+
+</div>
+
 ## Rwanda
 
 <div class="monthly-story" markdown="1">
@@ -883,6 +899,22 @@ South Africa's regulator ICASA published a Discussion Document on 30 October 202
 
 </div>
 
+## Sudan
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Federal and state digital transformation councils</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[هيئة التحول الرقمي تعقد الاجتماعين الأولين لمجلسَي التحول الرقمي الاتحادي والولائي](https://www.linkedin.com/feed/update/urn:li:activity:7516127823003197440)** — هيئة التحول الرقمي, 14 October 2026
+
+Sudan's Digital Transformation Authority held its first federal council meeting on 13 October 2026 and its first state council on 14 October. Both reviewed eight principles for digital government, including digital first and once-only data. Agencies are to exchange data over the Baladna national platform.
+
+</div>
+
+</div>
+
 ## Togo
 
 <div class="monthly-story" markdown="1">
@@ -908,6 +940,20 @@ Togo scored 1.24 out of 4 on the Africa AI Governance Index 2026, in the Emergin
 **[Conseil des ministres du 06 novembre 2026](https://www.republiquetogolaise.tg/gestion-publique/0711-12467-conseil-des-ministres-du-06-novembre-2026)** — Togo Officiel, République Togolaise, 7 November 2026
 
 Togo's Council of Ministers met on 6 November 2026 and authorised submission for adoption of a national postal-sector policy for 2026-2029. Its five orientations include digital transformation, digital financial services and e-commerce. The council also took a first reading of a bill amending the 2018 land and property code to digitalise land management and create a national land observatory.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Media regulator's register of content creators</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Réseaux sociaux : la HARC recense les créateurs de contenus](https://www.republiquetogolaise.tg/tic/1011-12481-reseaux-sociaux-la-harc-recense-les-createurs-de-contenus)** — République togolaise (site officiel), 10 November 2026
+
+Togo's communication regulator, HARC, called on content creators, bloggers and influencers to register in its database, in a communiqué of 9 November 2026. A QR-code form collects identity, residence, field of activity, and electronic and telephone contacts. The regulator says it wants an up-to-date directory of people active on digital platforms, the government portal reported on 10 November 2026.
 
 </div>
 

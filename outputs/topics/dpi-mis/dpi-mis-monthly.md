@@ -1,10 +1,10 @@
 ---
 title: Sectoral management information systems — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: dpi.mis
-places: AGO; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d41377f0b15e
+places: AGO; BWA; BFA; BDI; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: f52bc4786bcc
 ---
 
 # News, Oct – Nov 2026
@@ -69,6 +69,8 @@ record: d41377f0b15e
 <a href="#rwanda">Rwanda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#senegal">Senegal</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sierra-leone">Sierra Leone</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#somalia">Somalia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -222,6 +224,20 @@ Chad's education ministry and the World Bank-funded PARAEB project began distrib
 **[Éducation nationale : le numérique pour mieux gérer les agents de l’État](https://lendjampost.com/education-nationale-le-numerique-pour-mieux-gerer-les-agents-de-letat/)** — Le N'Djam Post, 30 October 2026
 
 Chad's education ministry gave biometric staff cards to academy rectors on 30 October 2026. It ordered its HR directorate to have the Mirador staff-management platform running by the end of November 2026. Personnel acts are to require the card, and deceased, retired and absent staff are to be removed from the active list.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Technical committee for monitoring digital health development</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Santé Numérique au Tchad : Un comité technique mobilisé pour accélérer la transformation du système sanitaire - MEDD TV INFO](https://meddtvinfo.com/sante-numerique-au-tchad-un-comite-technique-mobilise-pour-accelerer-la-transformation-du-systeme-sanitaire/)** — MEDD TV INFO, 9 November 2026
+
+Chad's technical committee on digital health met in N'Djamena on 9 November 2026, MEDD TV INFO reported. A recent ministerial order widened its members and missions, including patient records and telemedicine. It works under the 2025-2030 digital health plan and is to meet every two months.
 
 </div>
 
@@ -829,6 +845,20 @@ Mauritania's health minister and minister of digital transformation met in Nouak
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">University of Nouakchott blockchain diploma verification platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[L’Université de Nouakchott lance une plateforme numérique de certification et d’authentification des diplômes et attestations basée sur la technologie blockchain](https://ami.mr/fr/archives/305997)** — AMI, 10 November 2026
+
+Université de Nouakchott launched a blockchain-based platform on 10 November 2026 to issue and verify its diplomas and certificates electronically. It was built with UNDP support and the Tunisian firm Kalis. AMI reports that it is meant to curb forgery and let employers and institutions in Mauritania and abroad check qualifications.
+
+</div>
+
+</div>
+
 ## Mauritius
 
 <div class="monthly-story" markdown="1">
@@ -1024,6 +1054,22 @@ Senegal's land programme PROCASEF and the Seen Suuf project held a workshop in F
 **[Homologation des médicaments : l’ARP fait le pari de la dématérialisation des procédures](https://aps.sn/homologation-des-medicaments-larp-fait-le-pari-de-la-dematerialisation-des-procedures/)** — APS, 23 October 2026
 
 Senegal's pharmaceutical regulator, the Agence sénégalaise de réglementation pharmaceutique (ARP), launched an online platform for medicines marketing authorisation on 23 October 2026, on which applicants file CTD-format dossiers and follow their progress on a single portal with each step traced. The module is the first part of an integrated regulatory information system meant to connect imports, clinical trials, licensing, batch release and pharmacovigilance.
+
+</div>
+
+</div>
+
+## Sierra Leone
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">School feeding programme monitoring data system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[EU and WFP Support Strengthened Data Systems for Sierra Leone’s School Feeding Programme | World Food Programme](https://www.wfp.org/news/eu-and-wfp-support-strengthened-data-systems-sierra-leones-school-feeding-programme)** — World Food Programme, 9 November 2026
+
+The EU is giving EUR 2 million over two years through WFP for Sierra Leone's school feeding data, WFP said on 9 November 2026. More than 80 government staff are to be trained in monitoring and evaluation. Open Data Kit and School Connect are being introduced for school-feeding data.
 
 </div>
 

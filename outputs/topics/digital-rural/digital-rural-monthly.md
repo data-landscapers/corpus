@@ -1,16 +1,18 @@
 ---
 title: Rural digital data capture — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: digital.rural
-places: CMR; NGA; RWA; TGO; ZWE
-record: 0602bd2c7a48
+places: CMR; ETH; NGA; RWA; TGO; ZWE
+record: 6e71ecb1a03d
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#cameroon">Cameroon</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ethiopia">Ethiopia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -32,6 +34,22 @@ record: 0602bd2c7a48
 **[Minette Libom Li Likeng : « La transformation numérique s’impose aujourd’hui comme un levier de modernisation de l’action publique »](https://leconomie.info/article/minette-libom-li-likeng-la-transformation-numerique-simpose-aujourdhui-comme-un-levier-de-modernisation-de-laction-publique)** — Le quotidien L'Economie, 5 October 2026
 
 Cameroon's posts and telecommunications minister handed four platforms built under the World Bank-financed digital transformation project to the agriculture ministry on 1 October. They cover e-learning for training schools, a soil-fertility map and agro-pastoral statistics, and soil sampling was launched the same day.
+
+</div>
+
+</div>
+
+## Ethiopia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Farmer Profile Initiative</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopia targets four million farmers for digital registration by 2028](https://capitalethiopia.com/2026/11/08/ethiopia-targets-four-million-farmers-for-digital-registration-by-2028/)** — Capital Newspaper (Ethiopia), 8 November 2026
+
+Ethiopia's Agricultural Transformation Institute has enrolled nearly one million farmers in its Fayda-linked profile register, Capital reported on 8 November 2026. It targets four million by 2028, out of about 20 million farmers. Data is shared with lenders only with the farmer's consent.
 
 </div>
 

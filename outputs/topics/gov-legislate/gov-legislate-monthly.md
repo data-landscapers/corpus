@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: gov.legislate
 places: DZA; AGO; BEN; BFA; BDI; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; MDG; MWI; MUS; MAR; MOZ; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TUN; UGA
-record: 9d9fb95cf655
+record: 86e578bc5d85
 ---
 
 # News, Oct – Nov 2026
@@ -534,6 +534,14 @@ Equatorial Guinea's draft communication law would ban content inciting violence,
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Aprobación del Proyecto de Ley Reguladora de los Servicios de Imprenta, Comunicación Audiovisual y Digital](https://www.guineaecuatorialpress.com/noticias/aprobacion_del_proyecto_de_ley_reguladora_de_los_servicios_de_imprenta_comunicacion_audiovisual_y_digital)** — Oficina de Información y Prensa de Guinea Ecuatorial, 9 November 2026
+
+Equatorial Guinea's Chamber of Deputies unanimously passed a digital communication bill and a copyright bill on 9 November 2026. The government says the first sets obligations for digital platforms and protects minors online. The second covers computer programs and databases and creates a collective-management body.
+
+</div>
+
 </div>
 
 ## Eswatini
@@ -965,6 +973,20 @@ Mozambique's education and culture minister Edson Macuácua said on 22 October 2
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic government interoperability framework regulation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Revisão do Quadro de Interoperabilidade reforça a transformação digital dos serviços públicos](https://pt.linkedin.com/posts/intic-instituto-nacional-de-tecnologias-de-informa%C3%A7%C3%A3o-e-comunica%C3%A7%C3%A3o_revis%C3%A3o-do-quadro-de-interoperabilidade-refor%C3%A7a-activity-7520792996766699521-sTTA)** — INTIC, IP, 27 October 2026
+
+Mozambique's INTIC presented a proposed revision of Decree 67/2017, its e-government interoperability framework, in Maputo on 23 October 2026. The proposal raises the guiding principles from 10 to 15. New ones include technical neutrality, reuse, security by design and digital by default.
+
+</div>
+
+</div>
+
 ## Nigeria
 
 <div class="monthly-story" markdown="1">
@@ -1348,6 +1370,20 @@ Sudan's Council of Ministers approved three draft laws from the Ministry of Digi
 **[Digital Payments Now a Business Licensing Requirement](https://fbattorneys.co.tz/digital-payments-now-a-business-licensing-requirement/)** — FB Attorneys, 9 October 2026
 
 Law firm FB Attorneys notes that Tanzania's Business Licensing (Amendment) Regulations, 2026, published as Government Notice 158N on 30 June and in force from 1 July 2026, require applicants for new or renewed business licences to show they can take digital payments, such as Lipa Namba or TANQR. Businesses in minerals, livestock, agricultural produce, timber and fisheries must also show a bank account.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Payment Systems Act and its consumer rules</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[From Abu Dhabi to Dar es Salaam: Lessons on payments, open finance and supervision — UNCDF Policy Accelerator](https://policyaccelerator.uncdf.org/whats-new/from-abu-dhabi-to-dar-es-salaam-lessons-on-payments-open-finance-supervision)** — UNCDF Policy Accelerator, 9 November 2026
+
+The Bank of Tanzania is reviewing its National Payment System regulatory framework, UNCDF reported in November 2026. In October 2026 it sent a ten-member delegation to the Central Bank of the UAE for a peer exchange. Further sessions, including on tiered licensing for payment providers, are planned.
 
 </div>
 

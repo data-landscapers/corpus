@@ -1,15 +1,17 @@
 ---
 title: National statistics — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: data.statistics
-places: BDI; CAF; COG; COD; EGY; GNQ; ETH; GAB; GHA; KEN; MWI; MLI; MOZ; RWA; SEN; SLE; ZAF; TZA; TUN; UGA
-record: ce01590e9134
+places: DZA; BDI; CAF; COG; COD; EGY; GNQ; ETH; GAB; GHA; KEN; MWI; MLI; MOZ; NGA; RWA; SEN; SLE; ZAF; TZA; TUN; UGA
+record: 470f1367436c
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
+<a href="#algeria">Algeria</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burundi">Burundi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#central-african-republic">Central African Republic</a>
@@ -36,6 +38,8 @@ record: ce01590e9134
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#nigeria">Nigeria</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#rwanda">Rwanda</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#senegal">Senegal</a>
@@ -50,6 +54,22 @@ record: ce01590e9134
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#uganda">Uganda</a>
 </nav>
+
+## Algeria
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ministries' statistics on the High Commission for Digitalisation platform</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Full Text of the Council of Ministers Meeting Statement](http://news.radioalgerie.dz/en/node/98524)** — Algerian Radio, 8 November 2026
+
+At the Council of Ministers on 8 November 2026, President Abdelmadjid Tebboune told ministers to load their statistics onto a national digital platform. The platform belongs to the High Commission for Digitization. The meeting also ordered a statistics department for agriculture.
+
+</div>
+
+</div>
 
 ## Burundi
 
@@ -124,6 +144,20 @@ ICASEES launched the second collection wave of the Central African Republic's se
 **[Commerce transfrontalier : l'INS cible l'informel](https://brazzavillois.com/2026/10/06/du-fleuve-au-marche-lins-veut-compter-linformel)** — Brazzavillois, 6 October 2026
 
 Congo's statistics institute held a workshop in Brazzaville on 2 October to set up a permanent statistical system for informal cross-border trade. A mapping of border crossings is under way, a baseline survey is planned for 2027 and quarterly collection is to feed the balance of payments, with World Bank support.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Statistics institute and MTN digitalisation working group</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[L’Ins et Mtn Télécom s’unissent pour digitaliser les statistiques nationales](https://labreveonline.com/lins-et-mtn-tlcom-sunissent-pour-digitaliser-les-statistiques-nationales/)** — La Brève Online, 8 November 2026
+
+Congo's statistics institute and MTN Congo agreed to form a joint working group, La Breve Online reported on 8 November 2026. The group is to diagnose the institute's digitalisation needs and draft a roadmap for a memorandum. Its scope includes SIM-based field collection, data-centre hosting and SMS dissemination, under SDMX standards.
 
 </div>
 
@@ -312,6 +346,22 @@ Mali's Council of Ministers on 9 October 2026 took note of the country's fourth 
 **[INE enfrenta défice de 45 milhões de dólares para financiar o Recenseamento Geral](https://www.rm.co.mz/ine-enfrenta-defice-de-45-milhoes-de-dolares-para-financiar-o-recenseamento-geral/)** — Rádio Moçambique, 13 October 2026
 
 Mozambique's national statistics institute, INE, has about US$60m of the US$110m the next general census needs, US$45m of it from the government and the rest from partners, leaving a gap of about US$45m, its spokesman Pedro Duce said on releasing the results of the pilot census in Magude district. INE is still raising funds for a census next year.
+
+</div>
+
+</div>
+
+## Nigeria
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Digital platform for the Sub-National Fiscal Survey</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Nigerian Central Bank Digitalises Fiscal Data Collection - Voice of Nigeria](https://von.gov.ng/nigerian-central-bank-digitalises-fiscal-data-collection/)** — Voice of Nigeria, 10 November 2026
+
+The Central Bank of Nigeria is moving its Sub-National Fiscal Survey of the 36 states, the FCT and 774 local governments from paper to a digital platform. Its Statistics Department said returns will be quarterly instead of twice a year. Training had reached 16 states by 6 November 2026. The remaining states are due by 4 December, and the FCT on 9 and 10 December 2026.
 
 </div>
 

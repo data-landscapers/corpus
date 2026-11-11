@@ -1,10 +1,10 @@
 ---
 title: Digital divides — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: include.divides
 places: AGO; BFA; COD; SWZ; ETH; GMB; GHA; LBR; ZAF; TZA
-record: dcbfbc45f5c4
+record: 76297612cb3e
 ---
 
 # News, Oct – Nov 2026
@@ -50,6 +50,20 @@ Angola's President authorised USD 50 million for the Programa Conectividade by P
 **[PR autoriza 50 milhões USD para levar banda larga a zonas sem cobertura, mas OGE prevê 67 milhões](https://poligrafoafrica.com/fact-check/pr-autoriza-50-milhoes-usd-para-levar-banda-larga-a-zonas-sem-cobertura-mas-oge-preve-67-milhoes/)** — Polígrafo África, 23 October 2026
 
 A presidential despacho signed on 14 October 2026 authorises USD 50 million to extend broadband to unserved areas of Angola, schools and care homes first, through a public tender run under the director-general of the Instituto de Modernização Administrativa. Polígrafo África sets this against a 2026 state budget line of Kz 62.7 billion, about USD 67 million, for the national broadband network.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Commercial satellite access programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Angola seeks stronger technology, investment ties with Qatar: Minister](https://thepeninsulaqatar.com/article/10/11/2026/angola-seeks-stronger-technology-investment-ties-with-qatar-minister)** — The Peninsula Qatar, 10 November 2026
+
+Angola's minister Mário Oliveira invited Qatari investors into Angola's technology sector in November 2026. He spoke in an interview at the ITU Plenipotentiary Conference in Doha, The Peninsula reported. He said the Conecta Angola programme involves 71 small internet service providers, and ANGOSAT-2 serves Mozambique, Namibia, Zambia and South Africa. He added that the SADC Shared Satellite Programme, led by Angola, has secured eight ITU orbital positions.
 
 </div>
 

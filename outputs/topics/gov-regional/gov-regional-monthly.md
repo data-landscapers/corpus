@@ -1,10 +1,10 @@
 ---
 title: Regional collaboration — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: gov.regional
 places: DZA; AGO; BEN; BFA; CMR; TCD; COM; CIV; EGY; GNQ; SWZ; GAB; GHA; LSO; LBR; MLI; MUS; MOZ; NAM; NER; NGA; RWA; STP; SEN; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: 0af9a771a5e5
+record: 596c8c3d22b7
 ---
 
 # News, Oct – Nov 2026
@@ -554,6 +554,20 @@ Ghana's communications minister, Samuel Nartey George, spoke in Libreville on ta
 **[Ghana’s Communications Minister confirmed as Chair of AU Committee on Communication and ICT](https://techreviewafrica.com/news/8032/ghanas-communications-minister-confirmed-as-chair-of-au-committee-on-c)** — Tech Review Africa, 29 October 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XAF/XAF-monthly.html" title="XAF">Africa</a>
 
 Ghana's communications minister, Samuel Nartey George, was confirmed as chair of the AU Specialised Technical Committee on Communication and ICT at its session in Libreville (reported 29 October 2026). George named connectivity, data governance, cybersecurity and AI as priorities for his two-year term. He called on member states to implement the continental frameworks already adopted.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">ITU Council seat (Region D)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ghana - PP-26: Policy statement](https://pp.itu.int/2026/en/itu_policy_statements/ghana/)** — International Telecommunication Union (statement by Ghana), 10 November 2026
+
+Ghana's communications minister, Samuel Nartey George, addressed the ITU Plenipotentiary Conference in Doha in November 2026. He said 5G will reach more than 70% of Ghanaians by March 2027. He cited 2,016 rural telephony sites being completed, 5G spectrum licensing and a National AI Compute Centre under construction. Ghana is standing for re-election to the ITU Council and has nominated NCA Director-General Edmund Yirenkyi Fianko for the Radio Regulations Board.
 
 </div>
 

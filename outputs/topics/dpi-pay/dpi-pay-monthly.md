@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: dpi.pay
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MUS; MAR; MOZ; NER; NGA; RWA; SEN; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b0cc01acac7c
+record: 1e6885f1f5ea
 ---
 
 # News, Oct – Nov 2026
@@ -866,6 +866,14 @@ Kenya's Postbank joined the Pesalink network, reported on 4 November 2026, so cu
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Why lower transfer fees cannot easily break M-PESA’s mobile money dominance](https://techcabal.com/2026/11/10/pricing-gaps-m-pesa-pesalink-kenya/)** — TechCabal, 10 November 2026
+
+Postbank's entry to PesaLink brings Kenya's interbank payments network to 80 institutions, including all 38 licensed commercial banks. PesaLink says it processes an average of KES 4 billion a day, up 24% on a year earlier. TechCabal compares bank tariffs, with 19 banks on a flat KES 20 fee, and asks whether lower fees can draw users from M-PESA.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -1699,6 +1707,34 @@ The general manager of the national payments operator said the account-to-accoun
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Interbank electronic clearing</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sudan Central Bank Resumes Full-Week Clearing, Lifts Check Limits](https://sudantribune.com/article/321071)** — Sudan Tribune, 9 November 2026
+
+The Central Bank of Sudan resumed interbank electronic clearing every day of the week from 8 November 2026. It also lifted the ceiling on cheque values, Sudan Tribune reported. A circular of 9 November cancelled the earlier caps set in January and March.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Siraj real-time gross settlement system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sudanese CBS Director General of Policies: Restoring Banking Systems was the Biggest Challenge](https://sudanhorizon.com/sudanese-cbs-director-general-of-policies-restoring-banking-systems-was-the-biggest-challenge/)** — Sudan Horizon, 9 November 2026
+
+The Central Bank of Sudan's director general of policies spoke to Sudan Horizon on 9 November 2026. He said payments were restored by reactivating the Siraj RTGS and partly reinstating the national switch. He put inflation at 28.3% in September 2026, against 68% in December 2025.
+
+</div>
+
+</div>
+
 ## Tanzania
 
 <div class="monthly-story" markdown="1">
@@ -1845,6 +1881,20 @@ Housing Finance Bank joined Interswitch's Quickteller agency banking network in 
 **[Zamportal revenue crosses $500m mark](https://itweb.africa/article/zamportal-revenue-crosses-500m-mark/Pero3MZ361bqQb6m)** — ITWeb Africa, 1 October 2026
 
 Zambia's finance minister said the national services portal has collected about K9.8 billion across 572 services and 52 providers since 2019. The 2027-2029 budget call circular names the Government Service Bus and payment gateway as the state's centralised revenue-collection system.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Electronic Farmer Input Support Programme (e-FISP)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Digital Tools Transform Zambia’s Farm Inputs, But Gaps Remain](https://agritechinsights.com/index.php/2026/11/08/digital-tools-transform-zambias-farm-inputs-but-gaps-remain/)** — AgriTech Insights, 8 November 2026
+
+A University of Zambia study, reported on 8 November 2026, examined the electronic Farmer Input Support Programme in Chongwe District. In the study, 81% of farmers reported timely fertiliser access and 78% saw more transparent allocation. It also found late activation, identity mismatches and slow payments to agro-dealers.
 
 </div>
 

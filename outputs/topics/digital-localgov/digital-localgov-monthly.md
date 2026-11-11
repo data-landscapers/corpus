@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: digital.localgov
 places: BDI; CMR; CPV; COD; EGY; ETH; GAB; KEN; MLI; NGA; ZAF; SSD; SDN; TZA
-record: f86b14a5c2d7
+record: 46915ba8c41c
 ---
 
 # News, Oct – Nov 2026
@@ -112,6 +112,20 @@ Kongo Central's provincial digital development agency (ADN-KC) met on 21 October
 **[Nord-Kivu : le recensement numérique de la population reprend à Beni après une interruption liée à Ebola](https://actualite.cd/2026/10/31/nord-kivu-le-recensement-numerique-de-la-population-reprend-beni-apres-une-interruption)** — ACTUALITE.CD, 31 October 2026
 
 North Kivu's Provincial Digital Development and Archives Unit (CPDA) restarted its digitised population census in Beni in the fourth quarter of 2026, ACTUALITE.CD reported. Ebola had halted it. Agents visit households in the city's 30 neighbourhoods. They record births, deaths, moves and address changes in a population file on a provincial server. Butembo and other areas are to follow.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Maniema digitalised property and taxpayer census, Kindu</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Lancement du recensement fiscal digitalisé des propriétés immobilières à Kindu](https://www.radiookapi.net/2026/11/09/actualite/societe/lancement-du-recensement-fiscal-digitalise-des-proprietes-immobilieres)** — Radio Okapi, 9 November 2026
+
+Maniema province in the DRC began a digitalised census of plots in Kindu on 9 November 2026, Radio Okapi reported. The firm THE WIN is building a provincial taxpayer file for land, rental-income and vehicle taxes. Payments are due to start in January 2027.
 
 </div>
 
@@ -273,6 +287,20 @@ The permanent secretary of Nigeria's Sokoto State Ministry of Innovation and Dig
 **[Adamawa Launches Civil Service Digitisation, ERP Reform](https://dailytrust.com/adamawa-launches-civil-service-digitisation-erp-reform/)** — Daily Trust, 12 October 2026
 
 Nigeria's Adamawa State began its Civil Service Digitisation and Capacity Building Project at a kick-off meeting on 9 October 2026. The enterprise resource planning system will hold one set of personnel and payroll records for the Civil Service Commission, the Head of Service and the Accountant-General, hosted on state infrastructure. No supplier or cost is given.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SPRIRET state digital reform programme in Osun</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Osun State Enters Partnership with UK on Digital Transformation Drive](https://www.osunstate.gov.ng/2026/11/osun-state-enters-partnership-with-uk-on-digital-transformation-drive/)** — osunstate.gov.ng, 10 November 2026
+
+The Osun State governor's office announced on 10 November 2026 an agreement on SPRIRET, a project of the UK-funded Digital Access Programme. It covers digital-economy policy, connectivity, digital public infrastructure and civic technology, and will be implemented by the Initiative for Digital Inclusion. No amount was stated.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Standards — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: gov.standards
-places: DZA; BEN; BFA; BDI; CMR; COG; EGY; SWZ; ETH; GHA; KEN; MRT; NAM; NGA; RWA; ZAF; SDN
-record: f251d226c7cd
+places: DZA; BEN; BFA; BDI; CMR; COG; CIV; EGY; SWZ; ETH; GHA; KEN; LBR; MRT; NAM; NGA; RWA; ZAF; SDN
+record: 93c9ec6920a9
 ---
 
 # News, Oct – Nov 2026
@@ -22,6 +22,8 @@ record: f251d226c7cd
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#congo">Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cote-divoire">Cote d'Ivoire</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eswatini">Eswatini</a>
@@ -31,6 +33,8 @@ record: f251d226c7cd
 <a href="#ghana">Ghana</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#kenya">Kenya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#liberia">Liberia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mauritania">Mauritania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -125,6 +129,20 @@ ISO lists Cameroon's Agence des Normes et de la Qualité (ANOR) as a member body
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Regulator quality-of-service monitoring platforms</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Agence de Régulation des Télécommunications, Communiqué n° 0000166/ART/DG du 10 novembre 2026 (contrôle pluridisciplinaire des opérateurs CAMTEL, MTN Cameroon et Orange Cameroun)](https://art.cm/sites/default/files/documents/COMMUNIQUE%20ART%2010%20NOV%202026.pdf)** — Agence de Régulation des Télécommunications (ART), Cameroun, 10 November 2026
+
+Cameroon's regulator ART reported on 10 November 2026 on its quality-of-service control of 13 July to 10 August 2026. It found 93 breaches of licence obligations: 41 for CAMTEL, valued at FCFA 8.2 billion, 29 for Orange Cameroun at FCFA 5.8 billion and 23 for MTN Cameroon at FCFA 4.6 billion. Each operator received a 15-day formal notice. An audit of CAMTEL's national fibre network found significant degradation.
+
+</div>
+
+</div>
+
 ## Congo
 
 <div class="monthly-story" markdown="1">
@@ -136,6 +154,22 @@ ISO lists Cameroon's Agence des Normes et de la Qualité (ANOR) as a member body
 **[ISO - ACONOQ - Agence Congolaise de Normalisation et de la Qualité](https://www.iso.org/member/11493926.html)** — International Organization for Standardization, 16 October 2026
 
 ISO lists ACONOQ, created by a 2015 law, as the Republic of Congo's national standards body and ISO member. It is a member of ARSO and an Affiliate Plus of the IEC, and participates in 2 ISO technical committees.
+
+</div>
+
+</div>
+
+## Cote d'Ivoire
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Fibre deployment standards and fixed-network quality-of-service protocol</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Côte d'Ivoire : un cadre en préparation pour encadrer les réseaux de fibre optique](https://www.wearetech.africa/fr/fils/actualites/tech/cote-divoire-un-cadre-en-preparation-pour-encadrer-les-reseaux-de-fibre-optique)** — wearetech.africa, 10 November 2026
+
+Côte d'Ivoire's regulator ARTCI drafted fibre-optic deployment standards and a quality-of-service measurement protocol for fixed networks at a seminar in Assinie on 4–6 November 2026. A third draft sets conditions for activating VoLTE and VoWiFi. The three drafts go to the ARTCI regulatory council for adoption, WeAreTech reported.
 
 </div>
 
@@ -274,6 +308,22 @@ Ghana's communications minister Samuel Nartey George announced a national data e
 **[ISO - KEBS - Kenya Bureau of Standards](https://www.iso.org/member/1854.html)** — International Organization for Standardization, 16 October 2026
 
 ISO lists the Kenya Bureau of Standards (KEBS), set up under the Standards Act in 1974, as Kenya's member body. It holds one technical committee secretariat, participates in 129 committees and observes 177.
+
+</div>
+
+</div>
+
+## Liberia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Liberia Standards Authority</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ISO - LiSA - Liberia Standards Authority](https://www.iso.org/member/11464839.html)** — International Organization for Standardization, 10 November 2026
+
+The International Organization for Standardization lists the Liberia Standards Authority (LiSA) as a correspondent member, as read on 10 November 2026. ISO's page says LiSA was established by law in 2022 and began operating in 2024.
 
 </div>
 

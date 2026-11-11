@@ -1,10 +1,10 @@
 ---
 title: Data Storage — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: infra.store
-places: DZA; BWA; BFA; CMR; EGY; SWZ; GMB; GHA; KEN; LBY; MAR; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
-record: 21b968923c58
+places: DZA; BWA; BFA; CMR; EGY; SWZ; ETH; GMB; GHA; KEN; LBY; MAR; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA
+record: 68e642c69797
 ---
 
 # News, Oct – Nov 2026
@@ -21,6 +21,8 @@ record: 21b968923c58
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eswatini">Eswatini</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ethiopia">Ethiopia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gambia">Gambia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -68,6 +70,20 @@ record: 21b968923c58
 **[Akbou Inaugurates Nation’s First 100% Sovereign Data Center](https://dzwatch.dz/akbou-inaugurates-nations-first-100-sovereign-data-center/)** — DZWatch, 4 October 2026
 
 Algeria inaugurated I-Cloud, described as its first wholly sovereign data centre, in the Akbou industrial zone in Bejaia. The knowledge economy minister presided, and agreements were signed with local industrialists and Algeria Venture on small firms' access to it; the inauguration date and capacity are not stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">AI data centre project at the national AI school with a Chinese delegation</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Minister of Higher Education and Scientific Research discusses with Chinese delegation the project to establish an artificial intelligence data centre at the National Higher School of Artificial Intelligence](https://www.mesrs.dz/en/2026/11/minister-of-higher-education-and-scientific-research-discusses-with-chinese-delegation-the-project-to-establish-an-artificial-intelligence-data-centre-at-the-national-higher-school-of-artificial-intel/)** — Ministry of Higher Education and Scientific Research (Algeria), 9 November 2026
+
+Algeria's higher-education minister, Kamel Baddari, met a Chinese delegation on 9 November 2026 about an AI data centre. The centre would sit at the National Higher School of Artificial Intelligence in Sidi Abdellah. The statement names no Chinese firm, cost or completion date.
 
 </div>
 
@@ -241,6 +257,22 @@ Eswatini's finance ministry says the E182 million India Exim Bank loan for a dis
 **[GOVT RESTORES 13 ONLINE SERVICES, WEBSITE STILL DOWN](https://eswatinipositivenews.online/govt-restores-13-online-services-website-still-down/)** — Eswatini Positive News, 24 October 2026
 
 Eswatini's ICT ministry said on 23 October 2026 that 13 government online services hit by disruptions had been restored with the Royal Science and Technology Park, among them the Government in Your Hand platform, e-Visa, the Social Registry, the elderly and disability grants system and IFMIS. The government website and other platforms were still being restored, and the statement gave no cause for the outage.
+
+</div>
+
+</div>
+
+## Ethiopia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Cloud Data Center at the ICT Park (innovation ministry)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopia presses public institutions to consolidate infrastructure under national cloud strategy](https://techreviewafrica.com/news/8212/x)** — Tech Review Africa, 10 November 2026
+
+Ethiopia's Innovation and Technology Minister, Frehiwot Tamru, ordered faster completion of the National Cloud Data Center at the Addis Ababa ICT Park, Tech Review Africa reported on 10 November 2026. She repeated federal directives that public institutions move from their own server rooms onto shared national infrastructure. The centre is still under construction.
 
 </div>
 

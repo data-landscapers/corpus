@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: dpi.exchange
-places: DZA; AGO; BEN; BFA; CMR; COD; EGY; GAB; GIN; GNB; KEN; LSO; MRT; MOZ; NGA; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB
-record: e0eea2e15ebc
+places: DZA; AGO; BEN; BFA; CMR; COD; EGY; GAB; GIN; GNB; KEN; LSO; MRT; MOZ; NAM; NGA; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB
+record: a0753b2803b2
 ---
 
 # News, Oct – Nov 2026
@@ -37,6 +37,8 @@ record: e0eea2e15ebc
 <a href="#mauritania">Mauritania</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#mozambique">Mozambique</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#namibia">Namibia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -387,6 +389,22 @@ TradeMark Africa awarded India's CSM Tech a US$174,000 contract to build a Trans
 
 </div>
 
+## Namibia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Customs cooperation and mutual assistance agreement with Russia</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Namibia, Russia to share customs data to improve trade](https://neweralive.na/namibia-russia-to-share-customs-data-to-improve-trade/)** — New Era, 9 November 2026
+
+The Namibia Revenue Agency signed a customs data agreement with Russia in Moscow, as reported on 9 November 2026. The two sides are to exchange customs information and trade statistics, treated as confidential. Implementation awaits the completion of both countries' procedures.
+
+</div>
+
+</div>
+
 ## Nigeria
 
 <div class="monthly-story" markdown="1">
@@ -412,6 +430,20 @@ Nigeria's identity agency NIMC said the national identity database is hosted who
 **[Nigerian Government Integrates Over 15 Million Migration Records - Voice of Nigeria](https://von.gov.ng/nigerian-government-integrates-over-15-million-migration-records/)** — Voice of Nigeria, 17 October 2026
 
 Nigeria's Border Control and Immigration Management System now holds more than 15 million migration records after integrating the earlier MIDAS system, Interior Minister Olubunmi Tunji-Ojo and Immigration Comptroller-General Kemi Nandap said in Abuja. They also described a system linking data across interior agencies and a data centre of more than eight petabytes.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">National Single Window</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Export processing on National Single Window begins December 14 - Businessday NG](https://businessday.ng/news/article/export-processing-on-national-single-window-begins-december-14/)** — BusinessDay NG, 10 November 2026
+
+Nigeria's National Single Window will open export processing on 14 December 2026, its secretariat said on 10 November 2026. A first group of permit-issuing agencies goes live then: NAQS, SON, NAFDAC, NACCIMA, FPIS and REX. CBN, Customs, NEPZA and four ministries follow in the first quarter of 2027. Customs' regulatory HS-code list is due by 1 December 2026 and will be enforced from 1 January 2027.
 
 </div>
 

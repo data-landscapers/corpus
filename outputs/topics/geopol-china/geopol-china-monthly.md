@@ -1,10 +1,10 @@
 ---
 title: China activities — News, October – November 2026
-compiled: 2026-11-09
-period: 2026-10-01 to 2026-11-09
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: geopol.china
-places: BWA; GAB; LBY; TGO; UGA
-record: da75874ea28b
+places: BWA; GAB; LBY; TGO; UGA; ZMB
+record: 3c9a15bf9f3b
 ---
 
 # News, Oct – Nov 2026
@@ -19,6 +19,8 @@ record: da75874ea28b
 <a href="#togo">Togo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#uganda">Uganda</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#zambia">Zambia</a>
 </nav>
 
 ## Botswana
@@ -62,6 +64,14 @@ Botswana signed a cooperation agreement on digital transformation with Huawei at
 **[Gabon/Technologie : trois protocoles d’accord signés avec Huawei à Shanghai - AGP - Agence Gabonaise de Presse](https://agpgabon.ga/gabon-technologie-trois-protocoles-daccord-signes-avec-huawei-a-shanghai/)** — Agence Gabonaise de Presse, 5 November 2026
 
 Gabon's government and Huawei signed three memoranda of understanding and a donation agreement in Shanghai on 4 November 2026, with President Oligui Nguema present, AGP reported. The memoranda cover public security, digital infrastructure and teaching platforms in public universities. The donation is AI teaching equipment for the university named after the president.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Gabon : Huawei et l’État concluent trois accords pour accélérer la transformation numérique du pays](https://gaboninfos.com/gabon-huawei-etat-concluent-trois-accords-accelerer-transformation-numerique-pays/)** — Gabon Infos, 9 November 2026
+
+Gabon Infos reported on 9 November 2026 three memoranda between the Gabonese state and Huawei, signed in Shanghai. They cover fibre, Wi-Fi 6 and 5G for public universities, and AI training centres. The security accord covers smart urban surveillance, border-zone systems and linked security infrastructure.
 
 </div>
 
@@ -132,6 +142,22 @@ Ecobank signed an agreement with China's CIPS payment system in Beijing on 10 Oc
 **[When Smart cities turn menacing](https://www.independent.co.ug/when-smart-cities-turn-menacing/)** — The Independent (Uganda), 25 October 2026
 
 A researcher at a digital-rights organisation traces Uganda's EPSAuto traffic-fine system. It was switched on in June 2025 and suspended within days after complaints of wrong fines. On 6 October 2026 the Attorney General declared the 2021 contract for the intelligent transport monitoring system void. The author cites a report finding more than US$2 billion of surveillance spending in 11 countries. The author asks for open procurement.
+
+</div>
+
+</div>
+
+## Zambia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Zambia-China digital cooperation talks</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ZAMBIA AND CHINA DEEPEN COOPERATION IN ARTIFICIAL INTELLIGENCE AND DIGITAL TECHNOLOGY](https://www.mots.gov.zm/?p=8085)** — Zambia Ministry of Technology and Science, 9 November 2026
+
+Zambia's Ministry of Technology and Science asked China, including Huawei, to help build an AI-enabled data centre on 9 November 2026. It said existing Chinese-built data centres were designed for storage. The two sides agreed to meet again within weeks on a roadmap.
 
 </div>
 

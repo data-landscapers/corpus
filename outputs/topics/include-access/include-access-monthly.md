@@ -1,10 +1,10 @@
 ---
 title: Access to services — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: include.access
-places: BFA; CPV; COD; ETH; GAB; GHA; KEN; LBR; MDG; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; UGA; ZMB
-record: 246f15e7bcc5
+places: BFA; CPV; CIV; COD; ETH; GAB; GHA; KEN; LBR; MDG; MUS; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; UGA; ZMB
+record: 0076cf7db7c5
 ---
 
 # News, Oct – Nov 2026
@@ -13,6 +13,8 @@ record: 246f15e7bcc5
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#cape-verde">Cape Verde</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#cote-divoire">Cote d'Ivoire</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#dr-congo">DR Congo</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -76,6 +78,22 @@ Burkina Faso's Ministry of Health has launched Lafiako, a digital platform for c
 **[Nova plataforma digital da IGT permite apresentar queixas laborais e solicitar serviços on-line – ministra](https://www.inforpress.cv/en/nova-plataforma-digital-da-igt-permite-apresentar-queixas-laborais-e-solicitar-servicos-on-line-ministra)** — Inforpress, 3 November 2026
 
 Cabo Verde launched an online portal for its labour inspectorate on 3 November 2026. Workers and employers can file complaints, request interventions and submit declarations on it. The minister said the portal includes AI features and accessibility tools.
+
+</div>
+
+</div>
+
+## Cote d'Ivoire
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Smartphone affordability memorandum with the GSMA</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MWC Doha 26: Côte d’Ivoire and GSMA sign MoU to improve smartphone affordability](https://techreviewafrica.com/news/8242/x)** — Tech Review Africa, 10 November 2026
+
+Côte d'Ivoire and the GSMA signed a memorandum of understanding on smartphone affordability at MWC Doha 2026, Tech Review Africa reported on 10 November 2026. The universal-service agency ANSUT will lead implementation under the GSMA Handset Affordability Coalition. The report gives no targets, prices or funding, and no signing date.
 
 </div>
 
@@ -510,6 +528,20 @@ Tanzania's UCSAF said on 3 November 2026 that it is preparing a project to fix m
 **[43,000 Elderly Ugandans Locked Out of SAGE Benefits Over National ID Errors](https://nilepost.co.ug/news/379844/43000-elderly-ugandans-locked-out-of-sage-benefits-over-national-id-errors)** — Nile Post, 19 October 2026
 
 Uganda's gender ministry said, as reported on 19 October 2026, that about 43,000 eligible older people cannot draw SAGE cash grants because the birth dates on their national ID cards make them appear too young. SAGE reaches about 318,000 of more than 2.4 million potential beneficiaries, and mobile-money payment is being piloted.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Telecentre connectivity in refugee-hosting regions</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Request for Bids | Small Works (One-Envelope Bidding Process) · National Information Technology Authority- Uganda (NITA-U) · TenderPilot](https://tenderpilotug.com/t/gu-110198)** — TenderPilot (NITA-U notice), 9 November 2026
+
+Uganda's NITA-U invited bids on 9 November 2026 for telecentre infrastructure and connectivity in refugee-host communities. The contract, under the World Bank-financed Uganda Digital Acceleration Project, has three regional lots. Bids close on 3 December 2026.
 
 </div>
 

@@ -1,16 +1,18 @@
 ---
 title: Data protection — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: gov.protect
-places: AGO; BFA; CMR; COG; COD; EGY; GHA; KEN; LBY; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0ac8e2d4b910
+places: AGO; BEN; BFA; CMR; COG; COD; EGY; GHA; KEN; LBY; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 1a8fd6591c4a
 ---
 
 # News, Oct – Nov 2026
 
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#angola">Angola</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#benin">Benin</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -66,6 +68,30 @@ record: 0ac8e2d4b910
 **[Deliberação sobre processos contravencionais](https://apd.ao/ao/gca/index.php?id=218&preview=1)** — Agência de Protecção de Dados, 11 October 2026
 
 Angola's data protection agency publishes its register of fines: 15 sanctions between 2022 and 2026, from US$75,000 to US$525,000, with banks, telecoms operators, the national airline and the Luanda water utility among those penalised. The largest 2026 fine was for storing personal data in a cloud abroad without authorisation.
+
+</div>
+
+</div>
+
+## Benin
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data protection authority</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Les nouveaux membres de l’APDP prêtent serment](https://www.24haubenin.info/?Les-nouveaux-membres-de-l-APDP-pretent-serment=)** — 24 Heures au Bénin, 9 November 2026
+
+The eight members of Benin's data protection authority (APDP) took their oath before the Supreme Court on 6 November 2026. The swearing-in opens the authority's fourth term. The members then re-elected Luciano Hounkponou as president unanimously.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Dr Luciano Hounkponou re-elected President of Benin’s Data Protection Authority](https://techreviewafrica.com/news/8202/x)** — Tech Review Africa, 10 November 2026
+
+The eight councillors of Benin's Personal Data Protection Authority (APDP) were sworn in before the Supreme Court. At their first elective plenary of the authority's fourth term, they unanimously re-elected Luciano Hounkponou as president. Tech Review Africa reported this on 10 November 2026.
 
 </div>
 
@@ -253,6 +279,20 @@ Kenya's communications regulator said it will set up a central database of recyc
 **[How Absa Bank's employee data leak brought down multi-billion business](https://www.standardmedia.co.ke/article/2001559970/how-absa-bank-s-employee-data-leak-brought-down-multi-billion-business)** — The Standard, 12 October 2026
 
 A former senior manager at a Kenyan bank testified, in a Sh1.5 billion data breach suit against it, that a credit manager disclosed a borrower's loan distress to a third party. He said the bank's legal department recommended no action because it saw no material risk of abuse.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Data Protection Commissioner succession</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Kenya Nominates Lydia Sitienei as Second Data Commissioner](https://techafricanews.com/2026/11/10/kenya-nominates-lydia-sitienei-second-data-commissioner/)** — Tech Africa News, 10 November 2026
+
+President Ruto nominated Lydia Sitienei, director of legal services at the Communications Authority of Kenya, as the country's second Data Commissioner, Tech Africa News reported on 10 November 2026. The nomination has gone to the National Assembly for approval. She would succeed Immaculate Kassait, the first commissioner, at the end of her six-year term.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: AI — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1bbe15ba15e4
+record: f4d614ed9e9f
 ---
 
 # News, Oct – Nov 2026
@@ -185,6 +185,20 @@ Nasuba described Benin's national services portal, service-public.bj, as it stoo
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Artificial Intelligence Institute for Higher Education</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Benin Targets 2027 Launch of Higher Education Artificial Intelligence Institute](https://www.wearetech.africa/en/fils-uk/news/tech/benin-targets-2027-launch-of-higher-education-artificial-intelligence-institute)** — wearetech.africa, 9 November 2026
+
+Benin's higher education minister, Sèdami Medegan Fagla, said Benin plans an AI Institute for Higher Education by 2027. She spoke at the rectors' conference in Cotonou on 5-6 November 2026. The institute is to offer dual degrees with partner universities.
+
+</div>
+
+</div>
+
 ## Botswana
 
 <div class="monthly-story" markdown="1">
@@ -210,6 +224,20 @@ Botswana scored 1.11 out of 4 on the Africa AI Governance Index 2026, in the Eme
 **[Southern Africa’s AI ambitions face reality check](https://itweb.africa/article/southern-africas-ai-ambitions-face-reality-check/KWEBbvyLd4mqmRjO)** — ITWeb Africa, 3 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/XSA/XSA-monthly.html" title="XSA">Southern Africa</a>
 
 A 2026 skills survey by South Africa's IITPSA attributes 24% of the reported skills gap to missing workplace experience and 20% to education and training. ICT body presidents from five countries discussed it in Johannesburg. In Botswana, 60% of unemployed graduates are reported to hold ICT degrees.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Placing on the Ayre Index of AI readiness</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Botswana’s AI Paradox: Rich in Connectivity, Poor in Opportunity - Weekend Post](https://weekendpost.co.bw/botswanas-ai-paradox-rich-in-connectivity-poor-in-opportunity/)** — Weekend Post, 10 November 2026
+
+The Ayre Index of youth AI readiness was launched at the November 2026 Commonwealth Heads of Government Meeting. It ranks Botswana 45th of 56 Commonwealth states, scoring 38.9 out of 100 against a benchmark of 53. Botswana scores 7.2 of 10 for access to technology and 2.9 for decent work and enterprise. Weekend Post reported the study's moderate estimate of AI's possible GDP gain after ten years: USD 289 million.
 
 </div>
 
@@ -562,6 +590,20 @@ The head of Egypt's Consumer Protection Agency, Ibrahim El-Segini, told Egypt Fo
 **[مصر تعتزم إصدار قانون خاص بالذكاء الاصطناعى لتنظيم استخداماته وحوكمته](https://www.youm7.com/story/2026/11/3/%D9%85%D8%B5%D8%B1-%D8%AA%D8%B9%D8%AA%D8%B2%D9%85-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AE%D8%A7%D8%B5-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%89-%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7%D8%AA%D9%87-%D9%88%D8%AD%D9%88%D9%83%D9%85%D8%AA%D9%87/7604583)** — Youm7, 3 November 2026
 
 Youm7 reported that Egypt is in the final drafting stage of a dedicated law to regulate AI applications and their governance. The report names no official as its source. AI is governed at present under existing laws, including the Personal Data Protection Law 151 of 2020, cybercrime law 175 of 2018 and a 2022 fintech law.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sovereign AI data centre and GPU-as-a-Service</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Vodacom eyes SA and Kenya for AI data centre hubs after Egypt](https://techcentral.co.za/vodacom-ai-data-centre-hubs-south-africa-kenya-egypt/288232/)** — TechCentral, 10 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/ZAF/ZAF-monthly.html" title="ZAF">South Africa</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/KEN/KEN-monthly.html" title="KEN">Kenya</a>
+
+Vodacom Group CEO Shameel Joosub spoke to TechCentral on 10 November 2026 about a sovereign AI data centre in Egypt. Vodafone Egypt plans it with Elsewedy Electric and Cassava Technologies, at a total cost of about US$1 billion. It will be built in modules, and Vodafone Egypt will own about 30%. He named South Africa and Kenya as further AI data centre hubs, with planning there at a very early stage.
 
 </div>
 
@@ -1056,6 +1098,36 @@ Morocco World News reported on 6 November 2026 that Moroccan customs (ADII) and 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Sovereign AI data and public-services programme</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ahmed Rahhou annonce une IA en darija en commission parlementaire](https://telquel.ma/instant-t/2026/11/10/ahmed-rahou-annonce-une-ia-en-darija-en-commission-parlementaire_2017563/)** — TelQuel, 10 November 2026
+
+Morocco's minister for AI, digital transition and administrative reform, Ahmed Rahhou, presented his department's AI projects to a parliamentary committee on 10 November 2026. Reports by Al3omk and Alyaoum24, relayed by TelQuel, list voice services in Darija, a first open-source national language model and a speech-recognition model built with Mistral. The ministry expects to launch the programme in 2027.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Morocco develops national AI roadmap as government seeks to regulate technology use](https://en.hespress.com/148882-morocco-develops-national-ai-roadmap-as-government-seeks-to-regulate-technology-use.html)** — Hespress English, 10 November 2026
+
+Morocco's AI, Digital Transition and Administrative Reform Ministry presented its 2027 budget to the House of Representatives' Interior Committee on 10 November 2026. For sovereign AI services, it is structuring about 2,800 administrative procedures, nearly 10,000 legal texts and a first national corpus of 85,000 documents. Its data programme covers 10,000 hours of transcribed Darija audio and the roughly 90,000-text Adala legal base. It has opened four Jazari institutes.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[بـ”الدارجة” ولجميع المغاربة.. الحكومة توظف الذكاء الاصطناعي لتبسيط 2800 مسطرة إدارية](https://al3omk.com/1208688.html)** — Al3omk, 10 November 2026
+
+Ahmed Rahhou is Morocco's Minister of AI, Digital Transition and Administrative Reform. On 10 November 2026 he presented his ministry's 2027 sub-budget to the House of Representatives' Interior Committee. He said the ministry is using AI to find which of about 2,800 administrative procedures can be simplified. Al3omk reports he also said the 1918–2026 Official Gazette archive will be opened to AI tools to speed legal drafting and research.
+
+</div>
+
+</div>
+
 ## Mozambique
 
 <div class="monthly-story" markdown="1">
@@ -1211,6 +1283,28 @@ The October 2026 report rates more than 75 economies on 33 indicators of exposur
 **[Award-winner Ngirinshuti on an AI model that serves Rwanda’s statistical analysis](https://cenfri.org/articles/award-winner-ngirinshuti-on-an-ai-model-that-serves-rwandas-statistical-analysis/)** — Cenfri, 1 October 2026
 
 The National Institute of Statistics of Rwanda built a model that assigns industry, occupation and education codes to Labour Force Survey answers in Kinyarwanda, English or French, auto-coding 96% of records in one test. Work that took about four analysts a week now needs one person. The project, which grew from an AIMS and Cenfri training course, won an ITU Innovate for Impact award; a field app awaits further testing.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Agentic AI proofs of concept on government platforms</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Request for Expressions of Interest: Proof of Concept for AI-Enabled Agentic Workflows for Existing Government Services and User Journeys (Structured into Three Lots), RW-RAIA-577862-CS-QCBS, with Terms of Reference (Annex I)](https://raia.rw/wp-content/uploads/2026/10/RAIA-ToR-Agentic-Workflows.pdf)** — Rwanda Artificial Intelligence Agency (RAIA), 26 October 2026
+
+In October 2026 the Rwanda AI Agency sought firms for agentic-AI proofs of concept on three government platforms. The lots cover Mbaza complaints, IremboAI licensing and Kubaka building permits. The World Bank-financed work is to run from late March to 8 November 2027.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[RAIA seeks firms for agentic AI proofs of concept on Mbaza, IremboAI and Kubaka](https://www.updatesrw.tech/posts/5e8fc595-42bb-43e2-92c8-1cdae355fe51)** — Updaterw, 8 November 2026
+
+The Rwanda AI Agency invited bids for agentic-AI proofs of concept on three government platforms, as reported on 8 November 2026. They are Mbaza for complaints, IremboAI for licensing and Kubaka for building permits. The World Bank finances the work, due to start in late March 2027.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Research institutions — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: capacity.research
-places: BFA; LBY; SLE; ZAF
-record: c2accd4cf3f4
+places: BFA; ETH; LBY; MWI; SLE; ZAF; UGA
+record: 61d74185e6f9
 ---
 
 # News, Oct – Nov 2026
@@ -12,11 +12,17 @@ record: c2accd4cf3f4
 <nav class="article-toc monthly-subnav topic-places" aria-label="Places in this report">
 <a href="#burkina-faso">Burkina Faso</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ethiopia">Ethiopia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#libya">Libya</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#malawi">Malawi</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#sierra-leone">Sierra Leone</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#uganda">Uganda</a>
 </nav>
 
 ## Burkina Faso
@@ -35,6 +41,22 @@ A four-year research project on the digital transition of university work in Bur
 
 </div>
 
+## Ethiopia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Medemer University of Artificial Intelligence</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopia Targets to Become Africa’s Leading AI Innovation Hub by 2030: EAII Director General](https://www.ena.et/web/eng/w/eng_9899270)** — Ethiopian News Agency (ENA), 9 November 2026
+
+Ethiopia's AI Institute opened a residency for 51 AI start-up founders from 12 African countries on 9 November 2026, ENA reported. Its director general set a goal of a leading African AI hub by 2030. Japan's ambassador put Japanese support for the Addis Ababa AI UniPod at about US$1m a year.
+
+</div>
+
+</div>
+
 ## Libya
 
 <div class="monthly-story" markdown="1">
@@ -46,6 +68,22 @@ A four-year research project on the digital transition of university work in Bur
 **[#اتفاقية_وتعاون](https://www.aonsrt.ly/2026/10/21/%d8%a7%d8%aa%d9%81%d8%a7%d9%82%d9%8a%d8%a9_%d9%88%d8%aa%d8%b9%d8%a7%d9%88%d9%86/)** — Libyan Authority for Scientific Research and Technology, 21 October 2026
 
 Libya's Authority for Scientific Research signed a memorandum with the office of the Minister of State for Digital Economy and AI, launching a national programme of Libyan experts and researchers in the digital economy and AI. It also covers a national database of experts, links with the diaspora, an annual forum to review digital transformation plans and a joint implementation team; the signing date is not stated.
+
+</div>
+
+</div>
+
+## Malawi
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Research and education network memorandum with Uganda</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ubuntu in Action: MAREN and RENU Sign MoU to Advance Research and Education in Africa!](https://maren.ac.mw/ubuntu-in-action-maren-and-renu-sign-mou-to-advance-research-and-education-in-africa/)** — MAREN, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/UGA/UGA-monthly.html" title="UGA">Uganda</a>
+
+The research and education networks of Malawi (MAREN) and Uganda (RENU) signed a memorandum of understanding at UbuntuNet-Connect 2026 in Lilongwe. The chief executives, Solomon Dindi and Nicholas Mbonimpa, signed it. It covers institutional collaboration and the sharing of knowledge and experience.
 
 </div>
 
@@ -78,6 +116,22 @@ The Center for Information Privacy, Human-Centered Technology and Ethics Researc
 **[SA’s ICT sector records largest increase in R&D spend](https://www.itweb.co.za/article/sas-ict-sector-records-largest-increase-in-rd-spend/G98YdqLGAAGMX2PD)** — ITWeb South Africa, 5 November 2026
 
 The National R&D Survey for 2024/25 puts South Africa's ICT research spending at R5.7 billion, up R853 million, the largest rise of any field. Total R&D spending was R44.2 billion, and intensity fell from 0.62% to 0.60% of GDP. Business R&D fell by R742 million.
+
+</div>
+
+</div>
+
+## Uganda
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Research and education network memorandum with Malawi</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ubuntu in Action: MAREN and RENU Sign MoU to Advance Research and Education in Africa!](https://maren.ac.mw/ubuntu-in-action-maren-and-renu-sign-mou-to-advance-research-and-education-in-africa/)** — MAREN, 9 November 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/reports/MWI/MWI-monthly.html" title="MWI">Malawi</a>
+
+The research and education networks of Malawi (MAREN) and Uganda (RENU) signed a memorandum of understanding at UbuntuNet-Connect 2026 in Lilongwe. The chief executives, Solomon Dindi and Nicholas Mbonimpa, signed it. It covers institutional collaboration and the sharing of knowledge and experience.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: infra.cybersec
 places: BEN; BWA; BFA; CMR; CIV; DJI; COD; GNQ; SWZ; ETH; GAB; GHA; KEN; LBR; LBY; MDG; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; ZMB; ZWE
-record: db232bab07cd
+record: 08579146a68f
 ---
 
 # News, Oct – Nov 2026
@@ -479,6 +479,20 @@ Kenya's National Cybersecurity Agency Board, chaired by Martin Koyabe, was inaug
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SecureKE/Konza Sovereign Security Operations Centre</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Launch of the SecureKE/Konza Sovereign Security Operations Centre (SOC)](https://ict.go.ke/launch-securekekonza-sovereign-security-operations-centre-soc)** — Ministry of Information, Communications and the Digital Economy (Kenya), 10 November 2026
+
+Kenya's ICT Principal Secretary, John Tanui, launched the SecureKE/Konza Sovereign Security Operations Centre, reported on 10 November 2026. The centre is a partnership between the Konza Technopolis Development Authority and SecureKE. It offers public and private institutions continuous monitoring, threat detection, incident investigation and coordinated response, according to the ICT ministry.
+
+</div>
+
+</div>
+
 ## Liberia
 
 <div class="monthly-story" markdown="1">
@@ -568,6 +582,20 @@ Mali's computer incident response centre ML-CERT launched a web platform for rep
 **[Avis d'Appel d'Offres National : mise en place du CSIRT national et du SOC RIAD](https://marchespublics.gov.mr/api/files/6a353f77-787d-478c-ad5d-6a3c2d652ad7_Avis_d'appel_d'offres_CSIRT_SOC_RIAD_V2026-09.pdf)** — Ministere de la Transformation Numerique et de la Modernisation de l'Administration (WARDIP PMU), 9 October 2026
 
 Mauritania's WARDIP project unit at the digital transformation ministry issued a national tender on 9 October 2026 to set up a national CSIRT and a security operations centre for RIAD, the government's high-speed intranet, paid from World Bank credit IDA-7445-MR. Bids are due on 17 November 2026 with a 950,000 MRU bid guarantee. No contract value is stated.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Cybersecurity memorandum with a US firm</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[موريتانيا توقع مذكرة تفاهم مع شركة أمريكية لتعزيز الأمن السيبراني - صحيفة تقدمي الألكترونية](https://ar.taqadoumy.mr/archives/89284)** — Taqadoumy, 10 November 2026
+
+Mauritania's Ministry of Digital Transformation signed a memorandum of understanding with the US company Cybashon in Nouakchott on 10 November 2026. It covers protection of state systems and networks, digitisation of administrative procedures, and public services in remote areas. It also covers skills training through the Africa Digi Empower programme, with Cisco Networking Academy certification, Taqadoumy reports.
 
 </div>
 

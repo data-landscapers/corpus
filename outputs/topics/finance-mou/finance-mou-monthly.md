@@ -1,10 +1,10 @@
 ---
 title: MoUs and other agreements — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: finance.mou
-places: BWA; BDI; EGY; ETH; NGA; SEN; SDN; TZA; UGA
-record: 906da3ebc642
+places: BWA; BDI; EGY; ETH; MOZ; NGA; SEN; SDN; TZA; UGA
+record: 827950c3d2f6
 ---
 
 # News, Oct – Nov 2026
@@ -17,6 +17,8 @@ record: 906da3ebc642
 <a href="#egypt">Egypt</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#ethiopia">Ethiopia</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#mozambique">Mozambique</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -88,6 +90,22 @@ Telecom Egypt and e-finance signed a memorandum at Cairo ICT 2026, held from 7 t
 **[DSRV Signs MOU with Ethiopian State-Owned Enterprise: "Blockchain-Based Financial and Public Services Cooperation"](https://www.asiae.co.kr/en/article/2026102909031800756)** — The Asia Business Daily, 29 October 2026
 
 Faydaverse, the state enterprise created from Ethiopia's national digital ID programme, signed a memorandum with South Korean blockchain firm DSRV on 26 October 2026. A joint working group will study turning its digital wallet into a verifiable-credentials wallet with a blockchain layer. The two also plan to explore public assistance based on digital ID, such as e-vouchers.
+
+</div>
+
+</div>
+
+## Mozambique
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Parliamentary cooperation memorandum with Portugal</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Moçambique e Portugal reforçam cooperação parlamentar](https://aimnews.org/2026/11/09/mocambique-e-portugal-reforcam-cooperacao-parlamentar/)** — AIM, 9 November 2026
+
+Mozambique's parliament and Portugal's parliament signed a cooperation memorandum in Maputo on 9 November 2026. It adds artificial intelligence, archive management and digital system resilience to their exchanges. Delegation visits, committee exchanges and staff training are also covered.
 
 </div>
 

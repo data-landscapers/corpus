@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: tech.innovate
-places: DZA; BFA; CIV; COD; SWZ; MWI; NAM; NGA; ZAF; TZA; TUN; ZWE
-record: f990b1b78723
+places: DZA; BFA; CIV; COD; SWZ; MWI; NAM; NGA; SLE; ZAF; TZA; TUN; ZWE
+record: c7e6ac75dab3
 ---
 
 # News, Oct – Nov 2026
@@ -25,6 +25,8 @@ record: f990b1b78723
 <a href="#namibia">Namibia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#nigeria">Nigeria</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#sierra-leone">Sierra Leone</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#south-africa">South Africa</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -214,6 +216,22 @@ Cascador and Sterling Bank announced the SME Credit Backstop, a planned USD 200 
 **[Nigeria's First Lady Lays Foundation for Abuja Innovation Hub](https://von.gov.ng/nigerias-first-lady-lays-foundation-for-abuja-innovation-hub/)** — Voice of Nigeria, 23 October 2026
 
 Nigeria's First Lady, Oluremi Tinubu, laid the foundation stone of the Renewed Hope Startup Hub in Wuye, Abuja, funded by a USD 10.4 million grant from Japan through JICA and intended for incubation, hardware prototyping and research. NITDA's director-general said the agency's programmes had supported more than 995 startups and created about 7,596 jobs over three years.
+
+</div>
+
+</div>
+
+## Sierra Leone
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">FinTech Innovation Lab at UniPod</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sierra Leone Advances FinTech Innovation as UniPod Becomes Startup Acceleration Hub](https://spearnewssl.com/sierra-leone-advances-fintech-innovation-as-unipod-becomes-startup-acceleration-hub/)** — The Spear News SL, 10 November 2026
+
+A FinTech Innovation Lab has been set up at Sierra Leone's University Innovation Pod (UniPod) by UNCDF, the EU and the Bank of Sierra Leone, The Spear News SL reported on 10 November 2026. It gives early-stage fintech startups acceleration support and access to the central bank's regulatory sandbox. The date it was set up is not stated.
 
 </div>
 

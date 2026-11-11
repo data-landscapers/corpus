@@ -1,10 +1,10 @@
 ---
 title: Connectivity — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: infra.connect
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: cb5930692790
+record: 01282bb80a14
 ---
 
 # News, Oct – Nov 2026
@@ -1388,6 +1388,20 @@ Mauritania's regulator ARE fined Mauritel, Mattel and Chinguitel a combined MRU 
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">5G licences</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MATTEL lance commercialement la 5G et dévoile sa filiale de paiement mobile MATTEL MONEY - Le Quotidien](https://lequotidien.mr/?p=42746)** — Le Quotidien, 9 November 2026
+
+Mattel launched commercial 5G in Mauritania on 9 November 2026, starting in Nouakchott and Nouadhibou. It also opened a Tier III redundancy and network-supervision centre. The operator presented its e-money subsidiary Mattel Money and the Mechili wallet.
+
+</div>
+
+</div>
+
 ## Mauritius
 
 <div class="monthly-story" markdown="1">
@@ -1967,6 +1981,29 @@ Vodacom said on 20 October 2026 that it is investing more than R600 million in M
 **[Vodacom — Mpumalanga network capital expenditure, 2026](https://techafricanews.com/2026/10/20/vodacom-south-africa-invests-r600-million-to-expand-connectivity-in-mpumalanga/)** — Vodacom, 20 October 2026
 
 Vodacom announced on 20 October 2026 that it will spend more than R600 million of its own funds on network infrastructure in Mpumalanga in the current financial year. It invested R620 million there in 2025/26, and the spending covers all 17 local municipalities.
+
+</div>
+
+</div>
+
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">High-demand spectrum auction</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICASA Notice 4249 of 2026: Questionnaire on the Assignment of High-Demand Radio Frequency Spectrum, Government Gazette No. 55706](https://www.gazettefinder.co.za/gazettes/government-gazette/2026/55706/government-gazette-55706-2026-11-09.pdf)** — Independent Communications Authority of South Africa (ICASA), Government Gazette No. 55706, 9 November 2026
+
+ICASA published a questionnaire on assigning high-demand spectrum in the Government Gazette on 9 November 2026. It asks whether 80 MHz no longer reserved for a wholesale open access network should be included. Responses are due by 30 November 2026.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[ICASA invites stakeholder input on the planned licensing of high-demand spectrum](https://www.icasa.org.za/news/2026/icasa-invites-stakeholder-input-on-the-planned-licensing-of-high-demand-spectrum)** — ICASA, 10 November 2026
+
+ICASA opened a stakeholder questionnaire on 10 November 2026 on the second phase of licensing high-demand IMT spectrum. It covers the IMT750, IMT800, IMT1500, IMT2300, IMT3300 and IMT3500 bands. It may also cover the 80 MHz once reserved for the Wireless Open Access Network. Responses are due by 16h00 on 30 November 2026, before an Information Memorandum and an Invitation to Apply.
 
 </div>
 

@@ -1,10 +1,10 @@
 ---
 title: Registries — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: dpi.registry
 places: DZA; AGO; BEN; BFA; CMR; COM; CIV; COD; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MLI; MRT; MUS; NAM; NER; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZWE
-record: 3b60245c2d26
+record: 81436e5b1094
 ---
 
 # News, Oct – Nov 2026
@@ -736,6 +736,14 @@ An analysis of Nigeria's preliminary voter register, which lists more than 103 m
 
 </div>
 
+<div class="bulletin-item" markdown="1">
+
+**[Suspected AI-generated photos, duplicates trigger Nigeria biometric election cleanup](https://www.biometricupdate.com/202611/suspected-ai-generated-photos-duplicate-records-trigger-nigeria-biometric-election-cleanup)** — Biometric Update, 10 November 2026
+
+Nigeria's electoral commission, INEC, said it had removed more than 1.6 million invalid voter records after screening with its automated biometric identification system. Biometric Update reported this on 10 November 2026. Of 268,000 records adjudicated, 217,722 were confirmed invalid. INEC also identified 54 staff in 10 states implicated in registration irregularities, including AI-generated photographs, ahead of certifying the final register on 15 December 2026.
+
+</div>
+
 </div>
 
 <div class="monthly-story" markdown="1">
@@ -777,6 +785,20 @@ Senegal's Interior Ministry asked all NGOs and associations working in the count
 **[« Nous voulons un service public moderne, performant et centré sur l’usager »](https://lesoleil.sn/societe/nous-voulons-un-service-public-moderne-performant-et-centre-sur-lusager/)** — Le Soleil, 18 October 2026
 
 Senegal's civil-service minister said the physical and biometric audit of state employees, launched in June 2026, is still under way and has not yet confirmed any anomalies. He named e-Sénégal as the single access point for online procedures under the 2025–2029 public-service reform agenda.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">APIX one-stop business creation office</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sénégal : la Justice accélère la digitalisation des entreprises](https://fr.apanews.net/technologies/senegal-la-justice-accelere-la-digitalisation-des-entreprises/)** — APAnews, 10 November 2026
+
+Senegal's Justice Minister, Moussa Sarr, agreed on 10 November 2026 to deploy APIX's online company-creation platform in the courts, APAnews reports. The court registries that keep the RCCM trade and movable-credit register would be interconnected with other agencies, so that a company can be created in hours. He asked for a governance framework that brings together the institutions involved.
 
 </div>
 

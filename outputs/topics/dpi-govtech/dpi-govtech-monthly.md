@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: dpi.govtech
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: bc35d460a04f
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: d454df564b0e
 ---
 
 # News, Oct – Nov 2026
@@ -41,6 +41,8 @@ record: bc35d460a04f
 <a href="#equatorial-guinea">Equatorial Guinea</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#eswatini">Eswatini</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#ethiopia">Ethiopia</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#gabon">Gabon</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
@@ -779,6 +781,20 @@ Equatorial Guinea's Vice-President chaired a government review on 3 November 202
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">SIGF civil-service management system</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Guinea Ecuatorial prepara un registro único y biométrico para los funcionarios del Estado](https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_prepara_un_registro_unico_y_biometrico_para_los_funcionarios_del_estado)** — Oficina de Información y Prensa de Guinea Ecuatorial, 9 November 2026
+
+Equatorial Guinea's Treasury presented the SIGEF civil-servant management system on 9 November 2026. Built with Morocco's M2M, it rests on a single biometric register of state employees. A multiservice identity card can also carry payroll payment, to help control the wage bill.
+
+</div>
+
+</div>
+
 ## Eswatini
 
 <div class="monthly-story" markdown="1">
@@ -820,6 +836,22 @@ Eswatini's commerce ministry reports 632 online company registrations in the sec
 **[HOME AFFAIRS GOES DIGITAL TO CUT COSTS](https://eswatinipositivenews.online/home-affairs-goes-digital-to-cut-costs/)** — Eswatini Positive News, 6 November 2026
 
 Eswatini's Home Affairs Minister Pholile Shakantu told the portfolio committee that passport applications are moving online. She said eVisa issuance and scanning at points of entry are ready (Eswatini Positive News, 6 November 2026). She cited lower costs and shorter queues under budget constraints.
+
+</div>
+
+</div>
+
+## Ethiopia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Ethiopian e-Services portal (eservices.gov.et)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Ethiopian Government Electronic Services](https://www.eservices.gov.et/en)** — Government of Ethiopia, eServices portal, 1 November 2026
+
+Ethiopia's government eServices portal, captured in November 2026, offers public services through a single account. Users sign in with national ID authentication. They can pay online and download certificates.
 
 </div>
 
@@ -1387,6 +1419,20 @@ Madagascar's anti-corruption bureau BIANCO launched i-Fanagna, a platform for fi
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Maritime Single Window</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[MADAGASCAR : L’APMF LANCE UNE NOUVELLE PHASE DU PROGRAMME "INTEGRATE – MADAGASCAR" POUR LA MISE EN PLACE DU GUICHET UNIQUE MARITIME - Ports Africa](https://portsafrica.com/fr/madagascar-lapmf-lance-une-nouvelle-phase-du-programme-integrate-madagascar-pour-la-mise-en-place-du-guichet-unique-maritime/)** — Ports Africa, 9 November 2026
+
+Madagascar's port and maritime agency, APMF, launched the second phase of INTEGRATE-Madagascar on 9 November 2026. Indonesia is giving technical assistance to set up a Maritime Single Window under the IMO FAL Convention. Experts from both countries are to draft a roadmap by 17 November.
+
+</div>
+
+</div>
+
 ## Malawi
 
 <div class="monthly-story" markdown="1">
@@ -1847,6 +1893,20 @@ Senegal began technical validation of its national strategy for receiving and di
 
 </div>
 
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Integrated mining-sector data platform (PIDSM)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Sénégal : une plateforme numérique pour dématérialiser les procédures minières](https://lemarche.finance/senegal-une-plateforme-numerique-pour-dematerialiser-les-procedures-minieres/)** — Le Marché Finance, 10 November 2026
+
+Senegal's Ministry of Mines and Geology validated its integrated mining-sector data platform, PIDSM, Le Marché Finance reported on 10 November 2026; the workshop date is not given. The one-stop portal shows mining perimeters in real time, publishes geological data and takes title applications online. It links LandFolio, SIGEOS, E-Gouv, SenTax and SenTrésor through APIs.
+
+</div>
+
+</div>
+
 ## Seychelles
 
 <div class="monthly-story" markdown="1">
@@ -2061,6 +2121,14 @@ South Africa's government will ask the courts for a supervisory order on impleme
 **[Home Affairs to digitise asylum applications to speed up processing](https://www.sanews.gov.za/south-africa/home-affairs-digitise-asylum-applications-speed-processing)** — SAnews (South African Government News Agency), 11 October 2026
 
 South Africa's home affairs minister said a biometric online platform for asylum applications is to be operating by 10 November 2026, checking applicants' biometrics against earlier rejected claims and verifying their travel documents. He put the backlog of asylum appeals at about 120,000, a figure he said would be confirmed.
+
+</div>
+
+<div class="bulletin-item" markdown="1">
+
+**[Home Affairs launches first phase of Digital Asylum System to cut delays, clear backlogs, and combat abuse](https://www.gov.za/news/media-statements/home-affairs-launches-first-phase-digital-asylum-system-cut-delays-clear)** — South African Government (Department of Home Affairs), 10 November 2026
+
+South Africa's Department of Home Affairs opened the first phase of its Digital Asylum System to test cases on 10 November 2026. The portal on Myhomeaffairsonline records intentions to apply for asylum, with facial biometrics, personal details and documents. Public intake follows the next weekend software release. The department says later phases will add biometric checks and AI tools for the appeals backlog.
 
 </div>
 
@@ -2395,6 +2463,20 @@ Uganda's National Bureau for NGOs plans to move registration, document submissio
 **[How Zambia is building a digital climate advisory service its farmers can act on - TomorrowNow](https://tomorrownow.org/how-zambia-is-building-a-digital-climate-advisory-service-its-farmers-can-act-on/)** — TomorrowNow, 6 October 2026
 
 Zambia's meteorological department and Ministry of Agriculture began building a Digital Climate Advisory Service in late 2025 with TomorrowNow, sending farmers SMS advice tuned to four-by-four-kilometre squares. The department's director said it reached about 35,000 farmers last season in seven local languages and aims for one million next season, adding three crops and livestock.
+
+</div>
+
+</div>
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Awareness of the national e-services portal (ZamPortal)</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[ZAMBIA STRIVES TO BRIDGE DIGITAL GAP - Zambia 24](https://zambia24.com/2026/11/09/zambia-strives-to-bridge-digital-gap/)** — Zambia 24, 9 November 2026
+
+Zambia released its 2025 national survey on access and use of ICTs on 9 November 2026. Individual internet access was 29.7% in 2025, up from 25.2% in 2022. Only 7.7% of respondents knew of ZamPortal.
 
 </div>
 

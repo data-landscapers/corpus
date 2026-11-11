@@ -1,10 +1,10 @@
 ---
 title: Domestic budget appropriations and expenditure — News, October – November 2026
-compiled: 2026-11-10
-period: 2026-10-01 to 2026-11-10
+compiled: 2026-11-11
+period: 2026-10-01 to 2026-11-11
 subject: finance.budget
-places: GAB; LBR; LBY; SYC
-record: 898436fe6baf
+places: GAB; LBR; LBY; SYC; TUN
+record: 92d8eeb19650
 ---
 
 # News, Oct – Nov 2026
@@ -17,6 +17,8 @@ record: 898436fe6baf
 <a href="#libya">Libya</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#seychelles">Seychelles</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#tunisia">Tunisia</a>
 </nav>
 
 ## Gabon
@@ -78,6 +80,22 @@ The Central Bank of Libya's statement of state revenue and spending for January 
 **[Seychelles targets 2027 start for digital system to modernise public service](https://www.seychellesnewsagency.com/public/articles/22565/seychelles-targets-2027-start-for-digital-system-to-modernise-public-service)** — Seychelles News Agency, 19 October 2026
 
 Seychelles plans to begin implementing a digital human resource management system in 2027, Vice-President Sebastien Pillay announced after meeting Canadian vendor FreeBalance at State House on 14 October 2026. The system would cover employee records, payroll, performance management and workforce analytics. Pillay said technology alone would not improve efficiency unless administrative procedures are also reviewed.
+
+</div>
+
+</div>
+
+## Tunisia
+
+<div class="monthly-story" markdown="1">
+
+<p class="monthly-story__name">Budget allocation for the digital transition</p>
+
+<div class="bulletin-item" markdown="1">
+
+**[Tunisie : 356,8 millions $ pour la transformation numérique en 2027 face à des défis persistants](https://www.agenceecofin.com/actualites-numerique/0911-143235-tunisie-356-8-millions-pour-la-transformation-numerique-en-2027-face-a-des-defis-persistants)** — Agence Ecofin, 9 November 2026
+
+Tunisia's communication technologies minister presented a 2027 budget of TND 1.07 billion on 6 November 2026, up 9.3%, Agence Ecofin reported. The ministry aims for 150 services on the Khadamet app, from over 40 now. It also plans 1.5 million active digital identities and 200 interoperability services.
 
 </div>
 
