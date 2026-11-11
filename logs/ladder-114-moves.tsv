@@ -3,10 +3,10 @@ accesstoinformationlaw	MOZ	law	5	3
 accesstoinformationlaw	NGA	law	5	3		
 accesstoinformationlaw	SSD	law	4	unplaced		
 accesstoinformationlaw	UGA	law	5	3		
-aiabuse	EGY	aiharm	4	2		
-aiabuse	MOZ	aiharm	4	1		
-aiabuse	SDN	aiharm	4	2		
-aiabuse	TCD	aiharm	4	1		
+aiabuse	EGY	aiharm	4	2	restaged 4 on EGY-011 (by hand)	2026-11-11
+aiabuse	MOZ	aiharm	4	1	gap confirmed; asked notes-for-osint 329	2026-11-11
+aiabuse	SDN	aiharm	4	2	gap confirmed; asked notes-for-osint 329	2026-11-11
+aiabuse	TCD	aiharm	4	1	gap confirmed; asked notes-for-osint 329	2026-11-11
 aisectoral	AGO	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10
 aisectoral	BFA	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10
 aisectoral	CAF	sectorai	5	3	gap confirmed; asked notes-for-osint 310	2026-11-10

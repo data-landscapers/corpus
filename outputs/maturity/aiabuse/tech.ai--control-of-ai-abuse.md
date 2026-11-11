@@ -21,9 +21,9 @@ The Continental AI Strategy asks for risk-based regulation, an independent overs
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 4 |
+| 4 Operating | 5 |
 | 3 Established | 12 |
-| 2 Nascent | 12 |
+| 2 Nascent | 11 |
 | 1 Absent | 12 |
 | Unplaced | 0 |
 | No evidence | 14 |
@@ -35,6 +35,13 @@ The Continental AI Strategy asks for risk-based regulation, an independent overs
 A body was designated with a mandate over AI in 2026; enforcement is not on record.
 
 - CAZOS says the Agência de Protecção de Dados (APD), created by Presidential Decree 214/16, supervises, has sanctioning powers, and is the first regulator to reach automated decisions in Angola ([source, 2026-06](https://revista.cazosadvogados.com/pt/governacao-digital-ia)).
+
+### Egypt: 4 Operating
+
+Egypt's data protection rules bind AI training not to harm people, and a 2026 decree set up an AI council; no enforcement is known.
+
+- Masaar and EIPR's commentary says the data protection law's executive regulations, issued by MCIT Decree 816 of 2025 on 1 November 2025, require processors using personal data to train AI to follow recognised principles so that no harm results to the data subject (Article 4(7)) ([source, 2025-11-01](https://masaar.net/ar/testing-the-executive-regulations-data-protection-law/)).
+- Prime Ministerial Decree No. 207 of 2026, published in the Official Gazette on 18 January 2026, establishes the National Council for Artificial Intelligence, Quantum Computing and Emerging Technologies under the Prime Minister, chaired by the ICT minister ([source, 2026-01-18](https://www.elwatannews.com/news/details/8210438)).
 
 ### Gabon: 4 Operating
 
@@ -137,13 +144,6 @@ A rule addressing a harm from AI was in force in 2025; a designated authority is
 A rule or authority on harms from AI was being drafted in 2025; none in force is on record.
 
 - Higher Education Minister Kamal Badari, in an answer dated 23 October 2025, said the government is preparing a comprehensive legal text governing ethical use of AI across all sectors and strengthening the regulatory authority ([source, 2025-10-23](https://www.echoroukonline.com/%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%B6%D8%A8%D8%B7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D9%84%D8%A7%D9%82)).
-
-### Egypt: 2 Nascent
-
-Egypt has a 2024 draft AI law in consultation and a 2026 deepfake bill; no rule on AI harms is known to be in force.
-
-- People of Internet says the Draft Artificial Intelligence Law (2024) is in stakeholder consultation ahead of parliament and would set up the Egyptian Center for Responsible AI with audit and compliance-certification powers ([source, 2026-06-23](https://peopleofinternet.com/articles/egypt-reaches-for-misinformation-laws-to-fill-its-deepfake-g.html)).
-- MP Amira El-Adly submitted a bill amending Law 175 of 2018 on information technology crimes whose explanatory memorandum addresses AI-generated deepfake content used in extortion and grooming of children, per Al-Watan ([source, 2026-04-22](https://www.elwatannews.com/news/details/8270615)).
 
 ### Equatorial Guinea: 2 Nascent
 
