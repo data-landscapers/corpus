@@ -112,6 +112,13 @@ async function suite(pageRel, opts) {
   check('no header carries a BOM', ![...head].some(th => th.textContent.charCodeAt(0) === 0xFEFF));
 
   const filters = doc.querySelectorAll('.dt-filter');
+  /* A dropdown of more than 50 values holds only its "All" option until it is first
+   * reached for, then fills (housekeeping 59). */
+  for (const f of filters) {
+    const before = f.options.length;
+    f.dispatchEvent(new doc.defaultView.FocusEvent('focus'));
+    if (before === 1) check('a long filter fills on first focus', f.options.length > 50, `${f.options.length} options`);
+  }
   const asked = (box.dataset.filters || '').split(',').filter(Boolean).length;
   check(`every requested filter got a dropdown (${asked})`, filters.length === asked,
     `built ${filters.length}`);
@@ -198,6 +205,7 @@ async function paging(doc, total) {
 
   click();
   const sel = doc.querySelector('.dt-filter');
+  sel.dispatchEvent(new win.FocusEvent('focus'));
   sel.value = sel.options[1].value; sel.dispatchEvent(new win.Event('change'));
   check('a filter returns to the first draw',
     drawn() <= PAGE && count().endsWith(`, filtered from ${n(total)}`), `${drawn()} drawn, ${count()}`);
@@ -337,6 +345,7 @@ async function interactions(doc, want, opts) {
   const cells = i => [...doc.querySelectorAll('.dt-body tbody tr')].map(r => r.cells[i].textContent);
 
   const sel = doc.querySelector('.dt-filter');
+  sel.dispatchEvent(new win.FocusEvent('focus'));
   const pick = sel.options[1].value;
   sel.value = pick; sel.dispatchEvent(new win.Event('change'));
   await settle(30);

@@ -49,6 +49,7 @@ LOG = CORPUS / "logs" / "page-weight.csv"
 SITE_BASE = "https://corpus.data-landscapers.io"
 
 PAGE = 100                       # rows datatable.js draws at first — its `PAGE`
+LAZY_OPTIONS = 50                # datatable.js's `LAZY_OPTIONS`: a longer dropdown fills on first use
 MAX_ELEMENTS = 3_000
 MAX_GZ = 2 * 1024 * 1024
 SERVICE_ROWS = 100_000
@@ -130,14 +131,15 @@ def table_elements(table: dict[str, str], has_controls: bool,
     if not has_controls:
         total += 2 + sum(1 for k in ("data-title", "data-src", "data-full-src",
                                      "data-metadata-src") if table.get(k))
-    # A filter is drawn only where its column holds two values or more.
+    # A filter is drawn only where its column holds two values or more, and one holding
+    # more than LAZY_OPTIONS draws only its "All" option until the reader opens it.
     for c in _names(table.get("data-filters")):
         if _norm(c) not in index:
             continue
         ci = index[_norm(c)]
         values = {r[ci] for r in rows if ci < len(r) and r[ci]}
         if len(values) >= 2:
-            total += 2 + len(values)
+            total += 2 + (len(values) if len(values) <= LAZY_OPTIONS else 0)
     total += 1                                                  # the search box
 
     if not rows:

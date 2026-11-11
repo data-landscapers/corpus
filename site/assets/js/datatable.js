@@ -565,7 +565,20 @@
            A value already chosen stays listed even where the others now exclude it,
            so the reader can see why the table is empty. */
         var dropdowns = [];
+        /* A long dropdown is filled when the reader first reaches for it, not at first
+           draw: until then it holds its "All" option and any value chosen. The finance
+           table's financier filter alone drew 302 options, which put the page over the
+           3,000-element ceiling (housekeeping 59). `lint-page-weight.py` counts the same. */
+        var LAZY_OPTIONS = 50;
         function fill(f) {
+          if (f.lazy) {
+            var c = filterState[f.ci];
+            f.sel.innerHTML = '<option value="">'
+              + esc(filterAll[headers[f.ci]] || ('All ' + headers[f.ci].replace(/_/g, ' '))) + '</option>'
+              + (c ? '<option value="' + esc(c) + '">' + esc(display(f.ci, c)) + '</option>' : '');
+            f.sel.value = c;
+            return;
+          }
           var present = {};
           rows.forEach(function (r) {
             for (var ci in filterState) {
@@ -591,9 +604,19 @@
             var sel = document.createElement('select');
             sel.className = 'dt-filter';
             sel.setAttribute('aria-label', 'Filter by ' + headers[ci]);
-            var f = { ci: ci, sel: sel, values: values };
+            var f = { ci: ci, sel: sel, values: values, lazy: values.length > LAZY_OPTIONS };
             dropdowns.push(f);
             fill(f);
+            if (f.lazy) {
+              var wake = function () {
+                if (!f.lazy) return;
+                f.lazy = false;
+                fill(f);
+              };
+              ['mousedown', 'touchstart', 'focus', 'keydown'].forEach(function (ev) {
+                sel.addEventListener(ev, wake, { passive: true });
+              });
+            }
             function apply() {
               filterState[ci] = sel.value;
               dropdowns.forEach(function (o) { if (o !== f) fill(o); });
