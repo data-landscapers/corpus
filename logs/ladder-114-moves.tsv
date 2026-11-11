@@ -105,12 +105,12 @@ egovservices	SSD	eservices	4	2	gap confirmed; asked notes-for-osint 317	2026-11-
 egovservices	SYC	eservices	4	2	gap confirmed; asked notes-for-osint 317	2026-11-11
 egovservices	ZAF	eservices	5	3	gap confirmed; asked notes-for-osint 317	2026-11-11
 egovservices	ZMB	eservices	5	3	restaged 5 on ZMB-003 (by hand)	2026-11-11
-electoralregister	AGO	electoral	5	3		
-electoralregister	BWA	electoral	4	2		
-electoralregister	COM	electoral	4	unplaced		
-electoralregister	LSO	electoral	5	3		
-electoralregister	MUS	electoral	4	unplaced		
-electoralregister	ZWE	electoral	5	3		
+electoralregister	AGO	electoral	5	3	gap confirmed; asked notes-for-osint 322	2026-11-11
+electoralregister	BWA	electoral	4	2	gap confirmed; asked notes-for-osint 322	2026-11-11
+electoralregister	COM	electoral	4	unplaced	gap confirmed; asked notes-for-osint 322	2026-11-11
+electoralregister	LSO	electoral	5	3	gap confirmed; asked notes-for-osint 322	2026-11-11
+electoralregister	MUS	electoral	4	unplaced	gap confirmed; asked notes-for-osint 322	2026-11-11
+electoralregister	ZWE	electoral	5	3	gap confirmed; asked notes-for-osint 322	2026-11-11
 eparticipation	CIV	eparticipation	4	2		
 eparticipation	LBR	eparticipation	4	unplaced		
 feedbackportals	MRT	feedback	5	3		
