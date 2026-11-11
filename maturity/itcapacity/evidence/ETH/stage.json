@@ -12,8 +12,8 @@
       "flags": "",
       "stage_sources": "ETH-010;ETH-011;ETH-012",
       "gaps": "",
-      "note": "Stage 4c 2026-11-08: state-owned FaydaVerse, not a supplier, has managed the national identity system since 4 August 2026; with the election board's registration applications and INSA's cyber drill platform, both built entirely in-house, three systems are run wholly by government staff. A later yes answers the earlier ones.",
-      "as_at": "2026-11-08"
+      "note": "FaydaVerse, a state company and not a supplier, has managed the national identity system since 4 August 2026; with the election board's registration applications and INSA's cyber drill platform, both built entirely in-house, three systems are run wholly by government staff. Rebuild 2026-11-11: each lower question has its own yes (ETH-007, ETH-008, ETH-006), so 5 stands under message 114.",
+      "as_at": "2026-11-11"
     }
   ]
 }

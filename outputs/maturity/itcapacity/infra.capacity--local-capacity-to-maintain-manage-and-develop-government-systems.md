@@ -22,10 +22,10 @@ The African Charter on the Values and Principles of Public Service and Administr
 |---|---|
 | 5 Leading | 10 |
 | 4 Operating | 8 |
-| 3 Established | 13 |
+| 3 Established | 12 |
 | 2 Nascent | 7 |
 | 1 Absent | 1 |
-| Unplaced | 4 |
+| Unplaced | 5 |
 | No evidence | 11 |
 
 ## Countries
@@ -165,6 +165,7 @@ Portals built by the government's IT agency went live in 2026; no three systems 
 
 - Portals developed by AGETIC and the digital ministry with no contractor named were launched on 10 February 2026 ([source, 2026-02-10](https://www.wearetech.africa/en/fils-uk/news/public-management/mali-launches-online-criminal-record-and-nationality-certificate-services)).
 - The article says the criminal record and nationality portals were developed by the digital ministry and AGETIC, the government's information technology agency, with the Ministry of Justice ([source, 2026-02-10](https://www.wearetech.africa/en/fils-uk/news/public-management/mali-launches-online-criminal-record-and-nationality-certificate-services)).
+- L'Essor reports AGETIC, the state ICT agency, managed 13,441 .ml domain names and supported 30 registrars, so its own staff run the .ml country-code domain registry; the document gives no event date, so its published date is used ([source, 2025-12-30](https://lessor.ml/posts/cyber-espace-le-mali-renforce-sa-viabilite-avec-le-point-ml-69538f175e535)).
 
 ### Mauritania: 4 Operating
 
@@ -253,12 +254,6 @@ A government technology body runs systems for the rest of government by 2026; no
 - The communications minister's written reply to Parliament states the State IT Agency (SITA) delivered 117 e-services through 35 digital products to more than 30 government departments and public entities in 2025/26; the reply gives no date, published 2026-10-05 ([source, 2026](https://pmg.org.za/committee-question/41100/)).
 - The Electoral Commission's ICT department is stated to run its ICT environment, on VMware as the core virtualisation platform, for which it seeks licence renewal ([source, 2026-07-20](https://www.itweb.co.za/article/top-ict-tenders-iec-targets-tech-upgrades-renewals/Pero3MZ31YYqQb6m)).
 
-### Togo: 3 Established
-
-A government technology body runs systems for the rest of government by 2026; no in-house build is known since 2023.
-
-- The digitalisation framework's governance model gives Agence Togo Digital the role of deploying digital solutions for public services, setting standards, and providing the low-code/no-code integration platforms that public institutions' integrators use; the page carries no date, so the published date is used ([source, 2026-09-04](https://ressources.digital.gouv.tg/shares/documentations/Cadre_de_digitalisation_des_services_publics/html/gouvernance.html)).
-
 ### Tunisia: 3 Established
 
 A government technology body runs systems for the rest of government by 2026; no in-house build is known since 2023.
@@ -343,6 +338,12 @@ Not established: No source found from 2023 or later says government staff run or
 ### South Sudan: Unplaced
 
 No source found from 2023 or later says government staff run its systems, so no stage is set.
+
+Not established: No source found from 2023 or later says government staff run or maintain any of its systems.
+
+### Togo: Unplaced
+
+A 2026 framework makes the state digital agency a platform provider, but no source shows government staff running a system, so no stage is set.
 
 Not established: No source found from 2023 or later says government staff run or maintain any of its systems.
 

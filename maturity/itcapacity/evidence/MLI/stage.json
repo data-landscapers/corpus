@@ -4,16 +4,16 @@
     {
       "sub_indicator": "inhouse",
       "stage": "4",
-      "inhouse": "",
+      "inhouse": "yes",
       "agency": "operating",
       "built": "live",
       "own": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MLI-007;MLI-006",
+      "stage_sources": "MLI-007;MLI-006;MLI-008",
       "gaps": "No source found since October 2023 names three systems run wholly by government staff; SIGRH is the only system held as built wholly in-house.",
-      "note": "The criminal-record and nationality portals, developed by AGETIC and the digital ministry with no contractor named, were launched in February 2026, so a system built by government staff went live. No three systems are named as run wholly in-house, so not 5.",
-      "as_at": "2026-11-04"
+      "note": "Rebuild 2026-11-11, each step met on its own evidence (message 114): AGETIC runs the .ml domain registry (December 2025) and services for the administration, and its portals built with the digital ministry, no contractor named, launched in February 2026. No three systems are named as run wholly in-house, so not 5.",
+      "as_at": "2026-11-11"
     }
   ]
 }

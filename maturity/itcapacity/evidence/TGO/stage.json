@@ -1,18 +1,19 @@
 {
- "iso3": "TGO",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "3",
-   "inhouse": "",
-   "agency": "operating",
-   "built": "",
-   "own": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TGO-001",
-   "gaps": "No source found says a system built by government staff went live since October 2023.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py."
-  }
- ]
+  "iso3": "TGO",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "unplaced",
+      "inhouse": "",
+      "agency": "operating",
+      "built": "",
+      "own": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "",
+      "gaps": "No source found from 2023 or later says government staff run or maintain any of its systems.",
+      "note": "Rebuild 2026-11-11, each step met on its own evidence (message 114): the framework gives Agence Togo Digital a role in providing platforms to integrators, but no source says government staff run or maintain a named system, so no stage is set.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

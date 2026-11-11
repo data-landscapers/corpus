@@ -1,19 +1,19 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "inhouse",
-   "stage": "4",
-   "inhouse": "yes",
-   "agency": "operating",
-   "built": "live",
-   "own": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-004;NGA-001;NGA-013",
-   "gaps": "No source found says the government has adopted a cadre or scheme of service for its IT staff.",
-   "note": "Counted from the four questions by study-ladder-itcapacity.py.",
-   "as_at": "2026-10-17"
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "inhouse",
+      "stage": "4",
+      "inhouse": "yes",
+      "agency": "operating",
+      "built": "live",
+      "own": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-004;NGA-001;NGA-013",
+      "gaps": "No source found since October 2023 names three systems run wholly by government staff; the 1Gov cloud ECMS and the Government Service Portal are not shown free of an outside partner.",
+      "note": "Rebuild 2026-11-11: Galaxy Backbone built the Government Service Portal, soft-launched July 2026, and runs shared platforms for ministries; Anambra's state ICT agency runs SolutionLens. No three systems are shown run wholly in-house with no supplier, so not 5.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }
