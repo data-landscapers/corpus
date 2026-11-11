@@ -1,0 +1,14 @@
+{
+  "slug": "2021-06-01-bwa-vital-statistics-report-2019",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "births", "value": "inservice", "fact": "Statistics Botswana's Vital Statistics Report 2019 describes the Births and Deaths Registration System as computerized, networked, decentralized and real-time with a centralized database, operated by the Department of Civil and National Registration through 36 district offices and 14 onsite health-facility sites and registering 67,430 births in 2019; the system's date is given only as the 2019 reference year.", "as_of": "2019", "date_precision": "year", "system": "Births and Deaths Registration System (BDRS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "deaths", "value": "digital", "fact": "Statistics Botswana's Vital Statistics Report 2019 describes the computerized, real-time Births and Deaths Registration System as the system through which births and deaths are registered, with 13,185 current deaths registered in 2019 (80.1% completeness); the system's date is given only as the 2019 reference year.", "as_of": "2019", "date_precision": "year", "system": "Births and Deaths Registration System (BDRS)", "class": "civil"},
+    {"sub_indicator": "civil", "aspect": "coverage", "value": "general", "fact": "Statistics Botswana's Vital Statistics Report 2019 estimates birth registration completeness at 100% in 2019, from registered births against census-based projected births, without tying the rate to the digital system.", "as_of": "2019", "date_precision": "year", "system": "", "class": "civil"}
+  ],
+  "systems": [
+    {"system": "Births and Deaths Registration System (BDRS)", "country_label": "Botswana", "class": "civil", "platform": "", "owner": "Department of Civil and National Registration", "tiers": ""},
+    {"system": "National Identification System (NIS)", "country_label": "Botswana", "class": "other", "platform": "", "owner": "Department of Civil and National Registration", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {"odin-582b721954": "nothing: data openness score, not assessed by the study"}
+}

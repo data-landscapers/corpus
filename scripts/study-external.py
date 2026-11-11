@@ -345,7 +345,7 @@ def close(sid: str) -> int:
     led = read_ledger(sid)
     missing = collections.Counter()
     for r in led.values():
-        if r["outcome"] not in ("open", "fact", "nothing"):
+        if r["outcome"] != "open":   # a closed claim, hand-corrected or not, stays as it is
             continue
         edir = os.path.join(study_lib.study_dir(sid), "evidence", r["iso3"])
         rl = {x["slug"]: x for x in study_lib.read_csv(os.path.join(edir, "readlist.csv")) if x.get("n")}

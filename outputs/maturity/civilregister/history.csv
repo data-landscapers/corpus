@@ -104,3 +104,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,CPV,dpi.registry--civil-register,ladder,2,unplaced,,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 2 to unplaced."
 2026-11-10,KEN,dpi.registry--civil-register,fact,2,2,KEN-007;KEN-002;KEN-001,"Daily Nation, Nov 2026: electronic birth notification piloted in Nairobi and Bomet, nationwide rollout to follow; stays 2"
 2026-11-11,CPV,dpi.registry--civil-register,ladder,unplaced,5,CPV-003;CPV-004;CPV-001,"Restaged under message 114 (housekeeping 57): INE's 2023 vital statistics draw births and deaths from the RNI's computerised register; with 99% birth registration, unplaced to 5."
+2026-11-11,SSD,dpi.registry--civil-register,fact,no evidence,unplaced,,"External claims (housekeeping 58): WDI birth-registration completeness 35.4% (2010) held; no digital register on record, so unplaced"

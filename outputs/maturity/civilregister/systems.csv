@@ -27,6 +27,8 @@ BFA,digital birth registration platform,Burkina Faso,civil,,AMADE Mondiale with 
 BFA,VENEEM,Burkina Faso,civil,"web and smartphone, works offline",Ministry of Territorial Administration and Mobility (MATS),health facilities and civil-status centres,2024-11-12-bfa-burkina24-veneem-identifiant-unique-etat-civil
 BWA,Births and Deaths Registration System (BDRS),Botswana,civil,,"Department of Civil and National Registration, Ministry of Labour and Home Affairs",35 district offices; 17 on-site registration points at health facilities,2026-08-01-statistics-botswana-vital-statistics-report-2024
 BWA,National Identification System (NIS),Botswana,other,,Department of Civil and National Registration,,2026-08-01-statistics-botswana-vital-statistics-report-2024
+BWA,Births and Deaths Registration System (BDRS),Botswana,civil,,Department of Civil and National Registration,,2021-06-01-bwa-vital-statistics-report-2019
+BWA,National Identification System (NIS),Botswana,other,,Department of Civil and National Registration,,2021-06-01-bwa-vital-statistics-report-2019
 CAF,MODERO civil registry modernisation project,Central African Republic,civil,,"MATDDL with CIVIPOL, EU-funded",,2026-02-23-modero-etat-civil-eu-civipol-oubanguimedias
 CAF,Projet d'appui a la modernisation de l'etat civil en RCA,Central African Republic,civil,,"CIVIPOL, EU grant, with MATD and DEC",,2026-01-01-projet-appui-modernisation-etat-civil-rca
 CAF,Registre National de l'État Civil (RNEC),Central African Republic,civil,,DGDEC / MATDDL,,2026-07-20-matddl-numerisation-etat-civil-training-oubangui
@@ -228,6 +230,8 @@ NAM,"national Civil Register (Birth, Marriage, Death and Identity Registers)",Na
 NAM,mobile identity prototype (m-ID),Namibia,civil,"mobile app, offline capable","Ministry of Home Affairs, Immigration, Safety and Security with UNDP",national,2025-10-01-namibia-mobile-id-prototype-birth-registration
 NAM,e-birth notification system,Namibia,civil,,"Ministry of Home Affairs, Immigration, Safety and Security",hospitals and health centres,2023-11-23-namibia-mhaiss-annual-report-2019-2020-ebirth-nprs
 NAM,e-death notification system,Namibia,civil,,"Ministry of Home Affairs, Immigration, Safety and Security",hospitals and mortuaries,2023-11-23-namibia-mhaiss-annual-report-2019-2020-ebirth-nprs
+NAM,National Population Register System,Namibia,civil,,"Ministry of Home Affairs, Immigration, Safety and Security",,2024-04-01-namibia-vital-statistics-report-births-marriages-deaths-2018-2021
+NAM,e-Notification system,Namibia,civil,,"Ministry of Home Affairs, Immigration, Safety and Security",,2024-04-01-namibia-vital-statistics-report-births-marriages-deaths-2018-2021
 NER,Registre National de la Population (RNP),Niger,other,,ANEI / Ministry of the Interior,national,2026-08-29-niger-agadez-reformes-etat-civil-identification
 NER,Registre National de la Population (RNP),Niger,other,,ANIEP,national,2026-08-28-airinfoagadez-reformes-etat-civil-identification-agadez
 NER,Registre National d'Etat Civil (RNEC),NER,civil,,"Direction Generale de l'etat civil, des Migrations et des Refugies",,2026-08-11-niger-population-registry-legal-texts-tour
@@ -352,6 +356,8 @@ ZAF,Home Affairs birth registration at health facilities,ZAF,civil,,Department o
 ZMB,Integrated National Registration Information System (INRIS),Zambia,civil,,"Department of National Registration, Passport and Citizenship",26 district national registration offices,2026-09-03-zmb-lavushimanda-digital-civil-registration
 ZMB,Sample Based Registration System with Vital Statistics (SRS-VS),Zambia,other,,Ministry of Health / ZNPHI,sample of the population,2026-05-07-zambia-launches-srs-vs-silent-deaths
 ZMB,INRIS,Zambia,civil,,"Department of National Registration, Passports and Citizenship",,2023-10-28-zmb-dailynation-govt-digitises-nrcs
+ZMB,electronic civil register,Zambia,civil,,civil registration authority,,2020-03-01-zmb-2017-vital-statistics-report
+ZMB,Integrated National Registration System (INRIS),Zambia,,,,,2020-03-01-zmb-2017-vital-statistics-report
 ZWE,Civil Registry Department civil registry offices,Zimbabwe,civil,,Civil Registry Department,,2026-08-21-chinadaily-zimbabwe-gdssc-fund-civil-registry-digitisation
 ZWE,Civil Registry Department civil registry offices,Zimbabwe,civil,,Civil Registry Department,10 decentralised sub-offices,2026-08-13-unicef-zimbabwe-civil-registry-eight-districts
 ZWE,Civil Registry Department civil registry offices,Zimbabwe,civil,,Civil Registry Department,10 decentralised sub-offices,2026-08-08-zimbabwe-unicef-china-birth-registration-digitisation

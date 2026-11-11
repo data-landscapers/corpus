@@ -1,0 +1,9 @@
+{
+  "slug": "2026-10-08-world-development-indicators-selection-2026-11-10",
+  "facts": [
+    {"sub_indicator": "civil", "aspect": "coverage", "value": "general", "fact": "The World Bank's World Development Indicators list completeness of birth registration in Burkina Faso at 76.9%, a national rate not tied to a digital system; the line gives no year of its own, so as_of is the 2010 survey round.", "as_of": "2010", "date_precision": "year", "system": "", "class": "civil"}
+  ],
+  "systems": [],
+  "note": "",
+  "claims": {"wdi-da2323dc21": "fact"}
+}

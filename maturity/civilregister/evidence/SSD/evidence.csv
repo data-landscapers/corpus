@@ -1,0 +1,2 @@
+row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SSD-001,SSD,civil,coverage,general,"The World Bank's WDI lists completeness of birth registration in South Sudan at 35.4% for 2010, a national rate not tied to a digital system.",2010,year,,civil,2026-10-08-world-development-indicators-selection-2026-11-10,https://datacatalog.worldbank.org/search/dataset/0037712/world-development-indicators

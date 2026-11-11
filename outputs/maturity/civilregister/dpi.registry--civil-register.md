@@ -25,8 +25,8 @@ The African Union's Digital Transformation Strategy and the Africa Programme on 
 | 3 Established | 5 |
 | 2 Nascent | 31 |
 | 1 Absent | 1 |
-| Unplaced | 2 |
-| No evidence | 3 |
+| Unplaced | 3 |
+| No evidence | 2 |
 
 ## Countries
 
@@ -385,6 +385,12 @@ Nothing found since 2023 names digital civil registration, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether births are registered digitally.
 
+### South Sudan: Unplaced
+
+About a third of births were registered in 2010; whether registration is digital is not known, so no stage is set.
+
+Not established: Nothing found since October 2023 says whether births are registered digitally.
+
 ### Eritrea: No evidence
 
 Nothing found names digital civil registration or says there is none, so no stage is set.
@@ -392,12 +398,6 @@ Nothing found names digital civil registration or says there is none, so no stag
 Not established: Nothing found says how births and deaths are registered.
 
 ### Eswatini: No evidence
-
-Nothing found names digital civil registration or says there is none, so no stage is set.
-
-Not established: Nothing found says how births and deaths are registered.
-
-### South Sudan: No evidence
 
 Nothing found names digital civil registration or says there is none, so no stage is set.
 
