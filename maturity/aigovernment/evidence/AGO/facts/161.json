@@ -1,0 +1,26 @@
+{
+ "slug": "2025-11-19-ago-expansao-ia-banca-assembleia-nacional-ende",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Expansão reports that VoiceInteraction's AI speech-recognition software Audimus is installed at Angola's Assembleia Nacional and automatically transcribes plenary sessions into text to speed production of minutes.",
+   "as_of": "2025-11-19",
+   "date_precision": "day",
+   "system": "Audimus",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Audimus",
+   "country_label": "Assembleia Nacional",
+   "class": "govai",
+   "platform": "VoiceInteraction speech recognition",
+   "owner": "Assembleia Nacional",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

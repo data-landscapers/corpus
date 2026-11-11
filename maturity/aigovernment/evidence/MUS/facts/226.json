@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-01-mus-cib-list-of-operational-systems",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Mauritius's Central Informatics Bureau lists among its operational systems a 'Chatbot for Government + Mobile App MAIA', run under the Ministry of Information Technology, Communication and Innovation.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Chatbot for Government + Mobile App MAIA",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Chatbot for Government + Mobile App MAIA",
+   "country_label": "Mauritius",
+   "class": "govai",
+   "platform": "",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

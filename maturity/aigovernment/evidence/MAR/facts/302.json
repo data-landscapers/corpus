@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-10-mar-morocco-develops-national-ai-roadmap-as-government-seeks-to",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "underway",
+   "fact": "The digital transition minister told the House of Representatives' Interior Committee on 10 November 2026 that the ministry is developing AI services in a sovereign digital environment, including the Idarati citizen procedure guide, a document-processing suite and a multilingual meeting assistant.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Idarati and document-processing suite",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Idarati",
+   "country_label": "Morocco",
+   "class": "govai",
+   "platform": "sovereign digital environment",
+   "owner": "Ministry of AI, Digital Transition and Administrative Reform",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

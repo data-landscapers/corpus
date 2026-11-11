@@ -1,0 +1,34 @@
+{
+ "slug": "2024-09-02-mar-hespress-lekjaa-finance-ministry-ai-customs-tax",
+ "facts": [
+  {
+   "sub_indicator": "govai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Budget Minister Faouzi Lekjaa said the Ministry of Economy and Finance's 2022-2026 digital transformation plan includes AI tools within the Digital Workplace DB system for creating, summarising, rephrasing and translating texts, and an eBudget chatbot.",
+   "as_of": "2024-09-02",
+   "date_precision": "day",
+   "system": "Digital Workplace DB",
+   "class": "govai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Workplace DB",
+   "country_label": "Morocco",
+   "class": "govai",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance",
+   "tiers": ""
+  },
+  {
+   "system": "eBudget chatbot",
+   "country_label": "Morocco",
+   "class": "govai",
+   "platform": "",
+   "owner": "Ministry of Economy and Finance",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

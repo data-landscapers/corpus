@@ -3,6 +3,7 @@ AGO,Public-sector AI platform (PADA),Angola,govai,,Angolan state,,2026-09-08-pti
 AGO,SEP360,Angola,govai,AI and Robotic Process Automation,IGAPE,,2026-01-06-ago-igape-considera-em-fase-final-plataforma-de-ia-para-o-sector-publico
 AGO,INACOM portal AI chatbot,Angola,govai,INACOM portal and WhatsApp,INACOM,,2025-06-12-ago-novo-portal-do-inacom-destaca-inovacao-ao-servico-do-cidadao
 AGO,Portal SIMPLIFICA,Angola,govai,single window portal for public services,Instituto de Modernização Administrativa (IMA),,2026-10-29-ago-pti-ima-concurso-internacional-portal-simplifica
+AGO,Audimus,Assembleia Nacional,govai,VoiceInteraction speech recognition,Assembleia Nacional,,2025-11-19-ago-expansao-ia-banca-assembleia-nacional-ende
 BDI,Chatbot WhatsApp de l'OBR,Burundi,govai,WhatsApp,Office Burundais des Recettes,,2026-09-01-bdi-l-obr-lance-officiellement-son-chatbot-whatsapp-l-assistance-fiscale-e
 BEN,"Billet juridique (ASIN, advisory)",Benin,other,,ASIN,,2026-06-01-asin-benin-billet-juridique-ia-generative-agents-publics
 BEN,Seyna,Benin,govai,ANIP BJ app,ANIP,,2025-02-17-ben-anip-de-nouvelles-solutions-numeriques-pour-des-prestations-ameliorees
@@ -88,6 +89,10 @@ MAR,Chatbot CNSS,Morocco,govai,,Caisse Nationale de Sécurité Sociale (CNSS),"i
 MAR,DGI chatbot,Morocco,govai,,Direction generale des impots,,2025-09-17-mar-lia-encore-embryonnaire-dans-les-services-publics-selon-lexpert-maroua
 MAR,Idaraty,Maroc,other,,,,2025-12-30-mar-industries-ma-35000-entreprises-creees-en-ligne
 MAR,Idarati AI,Morocco,govai,,,,2026-11-06-mar-morocco-korea-advance-customs-cooperation-on-ai-digitalization
+MAR,"AI analysis of the 2,800-procedure archive",Morocco,govai,,"Ministry of AI, Digital Transition and Administration Reform",,2026-11-10-mar-al3omk-ai-simplify-2800-administrative-procedures
+MAR,Idarati,Morocco,govai,sovereign digital environment,"Ministry of AI, Digital Transition and Administrative Reform",,2026-11-10-mar-morocco-develops-national-ai-roadmap-as-government-seeks-to
+MAR,Digital Workplace DB,Morocco,govai,,Ministry of Economy and Finance,,2024-09-02-mar-hespress-lekjaa-finance-ministry-ai-customs-tax
+MAR,eBudget chatbot,Morocco,govai,,Ministry of Economy and Finance,,2024-09-02-mar-hespress-lekjaa-finance-ministry-ai-customs-tax
 MDG,Logipenal,Madagascar,other,,Judicial authorities,,2026-06-08-wearetech-madagascar-digital-criminal-records-platform
 MDG,Customs AI for data analysis and risk,Madagascar,govai,,Madagascar Customs,,2025-08-22-mdg-newsmada-douane-univ-antananarivo-data-ai
 MDG,chatbot douanier,Madagascar,govai,,Direction générale des douanes,,2025-05-23-mdg-la-douane-malagasy-a-la-foire-internationale-de-madagascar-cap-sur-la
@@ -116,6 +121,7 @@ MUS,DIVA,Mauritius,govai,,Ministry of ICT and Innovation,,2025-12-08-mus-technol
 MUS,Mauritius AI Registry,Mauritius,other,,Mauritius Telecom,,2026-07-20-mauritius-telecom-tm-forum-modaas-telecomtv
 MUS,DIVA,DIVA,govai,aim.govmu.org,"AI Unit, Ministry of ICT and Innovation",,2026-05-01-mus-accessibility-statement
 MUS,DIVA,Mauritius,govai,virtual assistant,Ministry of ICT,,2026-06-01-mus-ministere-des-technologies-de-l-information-et-de-la-communication-une
+MUS,Chatbot for Government + Mobile App MAIA,Mauritius,govai,,"Ministry of Information Technology, Communication and Innovation",,2024-11-01-mus-cib-list-of-operational-systems
 MWI,iCHIS,Malawi,other,DHIS2 with chatbot interface for community health workers,Ministry of Health,,2026-01-01-mwi-malawi-dhis2
 NAM,Pocketbot,Namibia,govai,e-Pocket Guide 2.0,Office of the Prime Minister,,2025-01-31-nam-nust-pocket-bot-chatbot-efficacy-thesis
 NAM,Pocketbot,Namibia,govai,e-Pocket Guide 2.0,Office of the Prime Minister,,2023-11-24-nam-nbc-digital-pocket-guide-ai-chatbot
@@ -188,6 +194,7 @@ ZAF,Smart Safety Technology Suite,South Africa,govai,CCTV analytics,City of Cape
 ZAF,SANRAL AI pothole and crack detection,South Africa,govai,,SANRAL,pilot,2025-09-03-zaf-update-to-our-catalogue-of-ai-public-sector-use-cases
 ZAF,Electronic Travel Authorisation (ETA),South Africa,govai,machine-learning visa processing,Department of Home Affairs,,2025-09-18-zaf-minister-leon-schreiber-presents-new-electronic-travel-authorisation-t
 ZAF,CIPC AI chatbot,CIPC customer chatbot,govai,,Companies and Intellectual Property Commission,,2026-10-26-government-ai-adoption-financial-reality
+ZAF,Electronic Travel Authorisation (ETA),South Africa,govai,,Department of Home Affairs,,2026-02-23-zaf-home-affairs-eta-machine-learning-reforms
 ZMB,Ask Viamo Anything (AVA),Zambia,other,"voice service on any phone, AI-generated voice responses",Viamo,,2026-01-15 Leveraging AI to Bypass the Smartphone Barrier and Advance Digital Inclusion in Africa
 ZMB,AI-enabled Endpoint Detection and Response (EDR),Zambia,govai,,National Pension Scheme Authority,,2025-07-03-zmb-tender-for-the-provision-of-an-artificial-intelligence-enabled-ai-endp
 ZMB,ZRA AI-powered chatbot,Zambia,govai,,Zambia Revenue Authority,,2026-07-16-zmb-techbytes-zra-turns-to-ai-research-to-strengthen-tax-administration

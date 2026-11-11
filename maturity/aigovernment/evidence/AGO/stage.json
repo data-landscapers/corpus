@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "AGO-004",
-      "gaps": "No source found shows AI in service in a second government body, or rules or a register for the government's own use of AI.",
-      "note": "Fact 2026-10-21: INACOM's portal chatbot is an AI system in service in one government body; IGAPE's SEP360 and the PADA platform are still in development, so no second body has been found.",
-      "as_at": "2026-10-21"
+      "gaps": "No source found shows AI in service in a second government body of the administration, or rules or a register for the government's own use of AI.",
+      "note": "Fact 2025-11-19: the National Assembly transcribes plenaries with AI, but a legislature is not a body of the administration, as DZA's assembly is not counted. INACOM's chatbot remains the one administration body in service, so not stage 4.",
+      "as_at": "2026-11-11"
     }
   ]
 }
