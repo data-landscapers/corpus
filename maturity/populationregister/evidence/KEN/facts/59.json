@@ -1,0 +1,26 @@
+{
+ "slug": "2024-06-01-ken-kippra-leveraging-digitalization-public-service-delivery",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "inservice",
+   "fact": "KIPPRA says the government has established Personal Data Hubs for the National Population Register, and that the National Population Registration System (IPRS) facilitates access to e-services.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "National Population Registration System (IPRS)",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Population Registration System (IPRS)",
+   "country_label": "IPRS",
+   "class": "population",
+   "platform": "",
+   "owner": "Government of Kenya",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

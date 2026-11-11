@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-23-zaf-home-affairs-eta-machine-learning-reforms",
+ "facts": [
+  {
+   "sub_indicator": "population",
+   "aspect": "register",
+   "value": "underway",
+   "fact": "Minister Schreiber said Home Affairs is working to build an Intelligent Population Register to anchor a new Digital ID system.",
+   "as_of": "2026-02-23",
+   "date_precision": "day",
+   "system": "Intelligent Population Register",
+   "class": "population"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Intelligent Population Register",
+   "country_label": "South Africa",
+   "class": "population",
+   "platform": "",
+   "owner": "Department of Home Affairs",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
