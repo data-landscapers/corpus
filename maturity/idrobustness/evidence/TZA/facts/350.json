@@ -1,0 +1,26 @@
+{
+ "slug": "2023-11-23-tza-fsdt-universal-id-financial-inclusion",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "FSDT says it has long worked with the National Identification Authority (NIDA) to issue millions of national identification numbers, and cites FinScope Tanzania 2023 that 57% of adults hold one.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "National Identification Number (NIDA)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Identification Number",
+   "country_label": "NIN / NIDA",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "National Identification Authority (NIDA)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

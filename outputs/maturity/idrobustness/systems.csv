@@ -43,6 +43,7 @@ BEN,NPI / ANIP,Benin,idsystem,,ANIP,,2026-11-06-ben-benin-8-millions-de-dollars-
 BEN,RNPP,Registre National des Personnes Physiques,idsystem,,ANIP,,2026-08-10-ben-benin-journee-de-l-etat-civil-et-des-statistiques-de-l-etat-civil-2026
 BEN,"ANIP records, ANIP BJ app and portal",Benin,other,,ANIP,,2026-10-23-ben-benin-lanip-deploie-des-tablettes-pour-actualiser-les-donnees-dans-les
 BEN,RNPP,ANIP,idsystem,,ANIP,,2025-01-01-ben-foundational-identity-4
+BEN,Carte Nationale d'Identite Biometrique (CNIB),Benin,idsystem,,ANIP,,2025-03-01-ben-anip-carte-identite-biometrique-prestations
 BFA,CIB-AES,Burkina Faso,idsystem,,Alliance des Etats du Sahel; ONI technical support,,2026-08-27-bfa-aib-cib-aes-arbinda
 BFA,CNIB,Burkina Faso,idsystem,,Office Nationale d'Identification (ONI),,2026-08-25-cnib-carte-nationale-identite-burkinabe
 BFA,Carte d'identité biométrique AES (CIB-AES),Burkina Faso,idsystem,,Office national d'identification (ONI),card,2025-12-02-cib-aes-lancement-traore-enrolement
@@ -206,6 +207,7 @@ ETH,Fayda,Fayda,idsystem,MOSIP,National ID Program,,2024-01-01-eth-fayda-digital
 ETH,Fayda,Ethiopia,idsystem,,government,,2026-11-08-eth-digital-sovereignty-priority-for-africa-s-future-innovation-technology-state-m
 ETH,Fayda,Ethiopia,idsystem,,National ID Program,,2025-08-09-eth-fayda-id-required-for-addis-ababa-school-registration
 ETH,Fayda,Ethiopia,idsystem,,National ID Program,,2024-12-02-eth-bbc-amharic-nbe-fayda-mandatory-bank-account-opening
+ETH,Fayda,Fayda,idsystem,,,,2026-11-08-ethiopia-farmers-profile-registration-four-million
 GAB,Carte nationale d'identité électronique (CNIE),Gabon,idsystem,,Ministry of Interior,,2026-06-03-gabon-cnie-enrolment-figures-assembly
 GAB,Gabon national digital ID system,Gabon,idsystem,,Government of Gabon,,2026-09-11-gabon-digital-id-interoperability-implementation
 GAB,National Digital Identity System,Gabon,idsystem,,ANINF,,2026-09-09-techafricanews-gabon-four-digital-projects
@@ -403,6 +405,7 @@ MUS,Mauritius National Identity Card (MNIC) / Mobile ID,Mauritius,idsystem,,,mID
 MUS,MauPass,Mauritius,idsystem,maupass.govmu.org portal; KOREK! app,Ministry of ICT (government of Mauritius),"online registration with national ID card number, then face-to-face KYC at a post office",2026-10-03-permis-de-conduire-numerique-compte-a-rebours
 MUS,MNIC 3.0,Mauritius,idsystem,Thales with Harel Mallac Technologies,"Ministry of Information Technology, Communication and Innovation",,2024-08-30-mus-carte-d-identite-la-mobile-id-est-une-realite
 MUS,Mauritius eID card (IDMS),Mauritius,idsystem,Thales,Prime Minister's Office,,2024-05-22-mus-mauritius-pioneering-next-generation-id-system
+MUS,Mauritius National Identity Card System 3.0,Mauritius,idsystem,,Civil Status Division,,2024-11-01-mus-cib-list-of-operational-systems
 MWI,National Registration and Identification System (NRIS),Malawi,idsystem,,National Registration Bureau,,2026-07-13-mwi-undp-digital-innovation-egovernment-recognition
 MWI,National Registration and Identification System,Malawi,idsystem,,National Registration Bureau,,2025-09-04-nrb-strategic-plan-2025-2030-launch
 MWI,NRIS,Malawi,idsystem,,National Registration Bureau,,2026-09-26-mwi-nzika-wallet-laxton-biometric-contract
@@ -660,6 +663,7 @@ TZA,NIDA National Identification Number,NIDA National Identification Number,idsy
 TZA,NIDA national ID,Tanzania,idsystem,,National Identification Authority (NIDA),,2025-04-15-tza-nida-gets-tough-on-unclaimed-ids
 TZA,NIDA national ID (Jamii Namba),Tanzania,idsystem,,NIDA,,2025-04-14-tza-habarileo-wasiofuata-vitambulisho-nida-kusitishiwa-namba
 TZA,NIDA national ID,Tanzania,idsystem,,NIDA,,2026-02-25-tza-nida-kubadili-muundo-vitambulisho-vya-taifa
+TZA,National Identification Number,NIN / NIDA,idsystem,,National Identification Authority (NIDA),,2023-11-23-tza-fsdt-universal-id-financial-inclusion
 UGA,Uganda new national ID card,Uganda,idsystem,,NIRA,,2026-09-11-business-focus-nira-new-national-ids-fail-services
 UGA,National Identification Register / national ID card,UGA,idsystem,,NIRA,,2026-08-22-independent-new-id-rollout-qr-code-verification-hurdle
 UGA,NIRA national identity platform on MOSIP,Uganda,idsystem,MOSIP,NIRA,,2026-02-19-mosip-brownfield-sierra-leone-migration
@@ -716,6 +720,7 @@ ZAF,Smart ID card,South Africa,idsystem,,Department of Home Affairs,,2026-03-09-
 ZAF,National Population Register,South Africa,idsystem,,Department of Home Affairs,,2025-12-01-zaf-home-affairs-tackles-duplicate-ids-with-new-digital-verification
 ZAF,HANIS,South Africa,idsystem,,Department of Home Affairs,,2025-11-05-zaf-question-nw4978-to-the-minister-of-home-affairs
 ZAF,ABIS,South Africa,idsystem,,Department of Home Affairs,,2025-11-05-zaf-question-nw4978-to-the-minister-of-home-affairs
+ZAF,Digital ID system,South Africa,idsystem,,Department of Home Affairs,,2026-02-23-zaf-home-affairs-eta-machine-learning-reforms
 ZMB,Integrated National Registration Information System (INRIS),Zambia,idsystem,,,,2026-07-27-zambia-from-rails-to-routine-national-financial-switch
 ZMB,MOSIP-based digital ID,Zambia,idsystem,MOSIP,Smart Zambia Institute,,2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project
 ZMB,INRIS,Zambia,idsystem,,"Department of National Registration, Passport and Citizenship",,2025-12-28 Over 1.3 Million Citizens Enrolled on INRIS

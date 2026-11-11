@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-01-ben-anip-carte-identite-biometrique-prestations",
+ "facts": [
+  {
+   "sub_indicator": "robustness",
+   "aspect": "system",
+   "value": "inservice",
+   "fact": "ANIP's service page says it issues the biometric national identity card on the basis of each holder's personal identification number, which Benin's adults must hold from age 18.",
+   "as_of": "2025-03",
+   "date_precision": "month",
+   "system": "Carte Nationale d'Identite Biometrique (CNIB)",
+   "class": "idsystem"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Carte Nationale d'Identite Biometrique (CNIB)",
+   "country_label": "Benin",
+   "class": "idsystem",
+   "platform": "",
+   "owner": "ANIP",
+   "tiers": ""
+  }
+ ],
+ "note": "Page is undated; as_of is the staging proxy month. No biometric de-duplication or certification stated."
+}
