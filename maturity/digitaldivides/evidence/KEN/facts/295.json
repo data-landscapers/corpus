@@ -1,0 +1,27 @@
+{
+ "slug": "2024-06-01-ken-kippra-leveraging-digitalization-public-service-delivery",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "delivering",
+   "fact": "KIPPRA says the government had installed 61 of 25,000 planned hotspots in rural business centres and public spaces by February 2023.",
+   "as_of": "2023-02",
+   "date_precision": "month",
+   "system": "Government hotspots programme",
+   "class": "ruralaccess"
+  },
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "measured",
+   "value": "measured",
+   "fact": "KIPPRA says that by 2021, 44 per cent of the urban population had Internet access against 17 per cent in rural areas.",
+   "as_of": "2021",
+   "date_precision": "year",
+   "system": "",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

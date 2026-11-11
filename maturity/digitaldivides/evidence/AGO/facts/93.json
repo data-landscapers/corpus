@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-10-ago-angola-seeks-stronger-technology-investment-ties-with-qatar",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Minister Mario Oliveira says ANGOSAT-2 has expanded connectivity to underserved communities including schools and hospitals, and the Conecta Angola Programme involves 71 small ISPs.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Conecta Angola",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Conecta Angola",
+   "country_label": "Conecta Angola",
+   "class": "ruralaccess",
+   "platform": "ANGOSAT-2",
+   "owner": "Government of Angola",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

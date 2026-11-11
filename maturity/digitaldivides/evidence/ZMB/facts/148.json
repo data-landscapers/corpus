@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-09-zmb-zambia-national-ict-survey-digital-gap",
+ "facts": [
+  {
+   "sub_indicator": "ruralaccess",
+   "aspect": "programme",
+   "value": "underway",
+   "fact": "Smart Zambia Institute's coordinator says the World Bank-supported Digital Zambia Acceleration Project plans 300 communication towers, and Minister Mutati calls for more towers, particularly in underserved areas.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "Digital Zambia Acceleration Project",
+   "class": "ruralaccess"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
