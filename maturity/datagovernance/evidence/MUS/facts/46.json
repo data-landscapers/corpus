@@ -1,0 +1,18 @@
+{
+  "slug": "2019-02-01-mus-infohighway-overview-february-2019",
+  "facts": [],
+  "systems": [
+    {
+      "system": "InfoHighway",
+      "country_label": "Mauritius",
+      "class": "other",
+      "platform": "publisher/subscriber data exchange over GINS",
+      "owner": "Government of Mauritius, MTCI",
+      "tiers": ""
+    }
+  ],
+  "note": "Document describes a data exchange platform, not a data governance policy or body.",
+  "claims": {
+    "gtmi-453491d732": "nothing: InfoHighway is an exchange platform, not a body for a data policy"
+  }
+}

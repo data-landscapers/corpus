@@ -1,0 +1,9 @@
+{
+  "slug": "2025-12-18-worldbank-govtech-dataset-dec2025",
+  "facts": [],
+  "systems": [],
+  "note": "Database record states only a no on a dedicated entity; a database's no is not a fact.",
+  "claims": {
+    "gtmi-a55d7c9235": "nothing: a database's no"
+  }
+}
