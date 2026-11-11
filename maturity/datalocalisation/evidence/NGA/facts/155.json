@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-10-nigeria-hybrid-cloud-postcode-database",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "NIPOST says the August 2026 National Digital Cloud Policy's Highly Sensitive (Level 3) tier requires government records to stay within Nigeria with domestic disaster recovery; its Open tier has no residency restriction.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "National Digital Cloud Policy",
+   "class": "rule"
+  },
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "TechCabal says a CBN directive requires banks, fintechs and payment companies to move transactional data from foreign cloud servers to Nigeria by 1 January 2027.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "CBN data-location directive",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

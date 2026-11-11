@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-21-gha-labari-imani-nita-bill-data-harmonisation-bill-afcfta",
+ "facts": [
+  {
+   "sub_indicator": "rule",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Labari Journal reports critics at IMANI Africa saying Section 31 of the NITA Bill, before Parliament and not passed, 'appears to' enable a requirement to store operational data on government-managed local servers.",
+   "as_of": "2026-05-21",
+   "date_precision": "day",
+   "system": "NITA Bill, Section 31",
+   "class": "rule"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
