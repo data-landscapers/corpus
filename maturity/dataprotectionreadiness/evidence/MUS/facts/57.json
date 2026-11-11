@@ -1,0 +1,46 @@
+{
+ "slug": "2024-01-01-mus-data-protection-commissioner-interview-bdo-newsletter-2024",
+ "facts": [
+  {
+   "sub_indicator": "system",
+   "aspect": "law",
+   "value": "in-force",
+   "fact": "The Data Protection Act 2017 is the law the Data Protection Office enforces, per the Commissioner.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Data Protection Office",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "authority",
+   "value": "appointed",
+   "fact": "Drudeisha Madhub is Data Protection Commissioner at the Data Protection Office.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Data Protection Office",
+   "class": "system"
+  },
+  {
+   "sub_indicator": "system",
+   "aspect": "practice",
+   "value": "implementing",
+   "fact": "The office reports 19,071 controllers and 1,013 processors registered, 345 breach notifications, 19 published guides and about 250 data protection officers trained, undated.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Data Protection Office",
+   "class": "system"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Data Protection Office",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "e-DPO",
+   "owner": "Data Protection Office",
+   "tiers": ""
+  }
+ ],
+ "note": "No dated ruling against a named organisation."
+}
