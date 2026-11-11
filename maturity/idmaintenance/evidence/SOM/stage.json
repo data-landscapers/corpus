@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "maintenance",
-      "stage": "3",
+      "stage": "5",
       "operation": "national",
       "maintenance": "national",
       "ownership": "owned",
       "cap": "",
       "flags": "",
-      "stage_sources": "SOM-003;SOM-011;SOM-002",
-      "gaps": "No source found since October 2023 says the authority's own staff or a national company maintain and upgrade the system, or that the foreign contract has ended.",
-      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: no source says NIRA staff maintain and upgrade the system; that Somali engineers built it (SOM-005, SOM-008) answers question 4, not question 3.",
-      "as_at": "2026-11-09"
+      "stage_sources": "SOM-003;SOM-012;SOM-008",
+      "gaps": "",
+      "note": "Restaged by hand 2026-11-11 (housekeeping 57): NIRA's own engineers built the verifier, digital ID app and certificate system it added to the ID system in May 2025 (SOM-012), so its own staff upgrade the system; with NIRA running registration and the in-house code, every step is met.",
+      "as_at": "2026-11-11"
     }
   ]
 }

@@ -120,10 +120,10 @@ healthmis	NAM	hmis	5	3	restaged 5 on NAM-004 (by hand)	2026-11-11
 healthmis	NGA	hmis	5	3	gap confirmed; asked notes-for-osint 324	2026-11-11
 healthmis	SDN	hmis	5	3	gap confirmed; asked notes-for-osint 324	2026-11-11
 healthmis	UGA	hmis	5	3	gap confirmed; asked notes-for-osint 324	2026-11-11
-idmaintenance	GIN	maintenance	5	2		
-idmaintenance	SLE	maintenance	5	3		
-idmaintenance	SOM	maintenance	5	3		
-idmaintenance	TGO	maintenance	5	3		
+idmaintenance	GIN	maintenance	5	2	gap confirmed; asked notes-for-osint 328	2026-11-11
+idmaintenance	SLE	maintenance	5	3	gap confirmed; asked notes-for-osint 328	2026-11-11
+idmaintenance	SOM	maintenance	5	3	restaged 5 on SOM-012 (by hand)	2026-11-11
+idmaintenance	TGO	maintenance	5	3	gap confirmed; asked notes-for-osint 328	2026-11-11
 itcapacity	AGO	inhouse	4	2	restaged 4 on AGO-004	2026-11-10
 itcapacity	BDI	inhouse	3	unplaced	gap confirmed; asked notes-for-osint 309	2026-11-10
 itcapacity	BWA	inhouse	3	unplaced	restaged 4 on BWA-002, BWA-003	2026-11-10

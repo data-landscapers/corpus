@@ -20,9 +20,9 @@ The African Union's interoperability framework asks that countries own and opera
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 6 |
+| 5 Leading | 7 |
 | 4 Operating | 3 |
-| 3 Established | 31 |
+| 3 Established | 30 |
 | 2 Nascent | 6 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
@@ -60,6 +60,14 @@ The population register runs on open-source code in all provinces, maintained by
 - The deck says UM6P's MOSIP Centre of Excellence, a Moroccan university unit with 17 staff, holds a contract with the Ministry of Interior for L3 support, evolution of the MOSIP and RNP code and migration to the LTS version ([source, 2026](https://connect.mosip.io/resources_pdf_2026/Collaborations_between_Governments_and_Academic_Institutions.pdf)).
 - The deck says the RNP runs on MOSIP (version 1.1.5.x, being migrated to LTS), generalised to all 83 provinces in October 2022 ([source, 2022-10](https://connect.mosip.io/resources_pdf_2026/Collaborations_between_Governments_and_Academic_Institutions.pdf)).
 - The DGSN, Morocco's national security directorate, issued nearly 4.7 million electronic national ID cards in 2024 at its Rabat and Marrakech centres and ran the second phase of the electronic identity system, per its annual report ([source, 2024](https://www.moroccoworldnews.com/2024/12/166797/dgsn-issued-record-4-6-million-digital-ids-slashed-crime-rates-in-2024)).
+
+### Somalia: 5 Leading
+
+Somalia's registration authority runs the ID system and its own engineers built the components added in 2025.
+
+- NIRA, the national authority, runs registration: 59 centres, 17 mobile teams and 31 embassy centres, per its director general ([source, 2026-09](https://sonna.so/en/article/National-Identification-Week-2026-Concludes-in-Mogadishu)).
+- NIRA says the components it added to the national ID system in May 2025, the HUBIYE verifier, the e-Aqoonsi digital ID app and the certificate delivery system, were entirely developed by its own Somali engineers ([source, 2025-05](https://nira.gov.so/news/nira-launches-key-digital-public-infrastructure-for-national-id-system)).
+- NIRA's Director General says the three launched systems (HUBIYE, e-Aqoonsi, CDS) were entirely developed by Somali engineers at NIRA, reflecting national ownership ([source, 2025-05](https://nira.gov.so/news/nira-launches-key-digital-public-infrastructure-for-national-id-system)).
 
 ### Tanzania: 5 Leading
 
@@ -265,14 +273,6 @@ Sierra Leone's registration authority ran the ID system in 2026; national staff 
 - NCRA's Director-General says the integrated registration and identity management system is managed in its entirety by the NCRA under the 2016 Act ([source, 2026-08-17](https://sierraleoneconcordtimes.com/93-of-sierra-leone-registered-with-unique-nins-2/)).
 - Biometric Update reports that Sierra Leone's identity system is managed by the National Civil Registration Authority, which is responsible for civil registration and ID services ([source, 2024-04-11](https://www.biometricupdate.com/202404/sierra-leone-putting-digital-id-at-the-center-of-its-digital-transformation-agenda)).
 - The NCRA has developed the National Biometric Identity Management System and a Tier III data centre and operates an eKYC platform, per its Director-General ([source, 2026-08-05](https://sierraloaded.sl/news/ncra-urges-identity-approach-sierra-leones/)).
-
-### Somalia: 3 Established
-
-Somalia's registration authority ran ID registration with its own staff in 2025 and 2026; national staff maintaining the system is not known.
-
-- NIRA, the national authority, runs registration: 59 centres, 17 mobile teams and 31 embassy centres, per its director general ([source, 2026-09](https://sonna.so/en/article/National-Identification-Week-2026-Concludes-in-Mogadishu)).
-- UNDP Somalia says NIRA deployed its own trained staff, equipment and biometric technology to run the Baidoa registrations and is processing 12,000 to 15,000 registrations a day ([source, 2025-11](https://undpsomalia.exposure.co/from-exclusion-to-identity)).
-- Somalia's National Identification and Registration Authority (NIRA) runs the registration and issuance of the national ID, which it launched as eAqoonsi in September 2023, says the Hiiraan report ([source, 2026-09-19](https://www.hiiraan.com/news4/2026/Sep/206316/somalia_registers_15_million_citizens_under_national_id_system.aspx)).
 
 ### South Africa: 3 Established
 

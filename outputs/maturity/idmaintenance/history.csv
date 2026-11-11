@@ -80,3 +80,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,SLE,dpi.id--national-maintenance-of-id-and-credentials-systems,ladder,5,3,SLE-006;SLE-005;SLE-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
 2026-11-09,SOM,dpi.id--national-maintenance-of-id-and-credentials-systems,ladder,5,3,SOM-003;SOM-011;SOM-002,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
 2026-11-09,TGO,dpi.id--national-maintenance-of-id-and-credentials-systems,ladder,5,3,TGO-008;TGO-004;TGO-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-11,SOM,dpi.id--national-maintenance-of-id-and-credentials-systems,ladder,3,5,SOM-003;SOM-012;SOM-008,"Restaged under message 114 (housekeeping 57): NIRA's own engineers built the components added to the ID system in May 2025; with in-house code, 3 to 5."
