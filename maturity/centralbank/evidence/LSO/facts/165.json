@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-07-lso-cbl-mobile-money-issuers-register",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "The Central Bank of Lesotho's list of licensed financial institutions names five mobile money issuers: Chaperone, Lesotho Postbank, Smartel Money, VCL Financial Services and Sasai Econet Financial Services.",
+   "as_of": "2025-07-07",
+   "date_precision": "day",
+   "system": "Central Bank of Lesotho register of mobile money issuers",
+   "class": "oversight"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

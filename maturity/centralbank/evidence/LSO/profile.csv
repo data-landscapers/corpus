@@ -1,4 +1,4 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
-LSO,centralbank,mandate,coverage,drafting,2026-05-05,LSO-004;LSO-005,,
+LSO,centralbank,mandate,coverage,licensing,2025-07-07,LSO-006,LSO-004=drafting;LSO-005=drafting,
 LSO,centralbank,switch,coverage,overseen,2025-05-11,LSO-001;LSO-002;LSO-003,,
-LSO,centralbank,regional,coverage,,,,,nothing held
+LSO,centralbank,regional,coverage,,,,,nothing found

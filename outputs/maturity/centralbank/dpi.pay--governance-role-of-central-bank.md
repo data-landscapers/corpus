@@ -21,9 +21,9 @@ The AfCFTA Digital Trade Protocol's annex on digital payments asks central banks
 | Stage | Countries |
 |---|---|
 | 5 Leading | 7 |
-| 4 Operating | 39 |
+| 4 Operating | 40 |
 | 3 Established | 7 |
-| 2 Nascent | 1 |
+| 2 Nascent | 0 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 0 |
@@ -207,6 +207,14 @@ The central bank licenses payment providers and regulates a domestic switch in 2
 - In a speech published 13 March 2026, the National Bank of Rwanda says the passporting MoU applies to payment service providers licensed by their home supervisory authority, the central bank ([source, 2026-03-13](https://www.bis.org/speeches/20260313-signing-mou-between-central-bank-kenya-and-national-bank-rwanda)).
 - The Kenswitch release describes Kenswitch as a domestic payment switch regulated by the Central Bank of Kenya, connecting banks, SACCOs, microfinance institutions and mobile money providers ([source, 2026-11-02](https://www.business-standard.com/content/press-releases-ani/kenswitch-partners-with-payu-s-wibmo-to-strengthen-online-card-security-in-kenya-126110200460_1.html)).
 
+### Lesotho: 4 Operating
+
+Lesotho's central bank licenses five mobile money issuers and leads the national switch, LeSwitch; live payments through PAPSS are not known.
+
+- The Central Bank of Lesotho's list of licensed financial institutions names five mobile money issuers: Chaperone, Lesotho Postbank, Smartel Money, VCL Financial Services and Sasai Econet Financial Services ([source, 2025-07-07](https://centralbank.org.ls/other-financial-institutions-2/wpbdp_category/mobile-money-issuers-in-lesotho/)).
+- The finance minister moved the Payment System Bill, 2025 to second reading in the National Assembly; it would repeal the Payment Systems Act 2014, license all payment service providers under one law and give the Central Bank of Lesotho powers to oversee the national payment system ([source, 2026-05-05](https://www.lena.gov.ls/finance-minister-presents-payment-system-bill/)).
+- The Ministry of Finance told Lesotho's parliamentary committee that the Payment Systems Bill, presented 2 May 2025, would give the Central Bank of Lesotho powers to supervise national payment systems and license non-bank payment entities ([source, 2025-05-02](https://nationalassembly.parliament.ls/wp-content/uploads/2025/08/Report-Payment-Systems-Bill-2025.pdf)).
+
 ### Libya: 4 Operating
 
 The central bank ran or oversaw a national payment switch in 2026; no source found reports a regional link.
@@ -383,10 +391,3 @@ The central bank licensed payment providers in 2026; no source found reports a n
 
 - The Bank of South Sudan requires non-bank electronic money issuers to obtain its regulatory approval under the amended Electronic Money Regulation, and must assess applications within 60 days ([source, 2026-09-01](https://radioyei.org/news/technology/boss-sets-strict-usd-caps-on-mobile-money/)).
 - The Bank of South Sudan issued a regulatory notice putting digital financial service providers, including mobile money operators, under the same licensing-linked requirements as banks, with licence suspension or cancellation as the sanction ([source, 2025-09-29](https://jakony.com/digital-money-operators-face-new-security-and-reporting-rules/)).
-
-### Lesotho: 2 Nascent
-
-A 2025 bill before Lesotho's parliament would let the central bank license payment providers; no source found says it does so yet.
-
-- The finance minister moved the Payment System Bill, 2025 to second reading in the National Assembly; it would repeal the Payment Systems Act 2014, license all payment service providers under one law and give the Central Bank of Lesotho powers to oversee the national payment system ([source, 2026-05-05](https://www.lena.gov.ls/finance-minister-presents-payment-system-bill/)).
-- The Ministry of Finance told Lesotho's parliamentary committee that the Payment Systems Bill, presented 2 May 2025, would give the Central Bank of Lesotho powers to supervise national payment systems and license non-bank payment entities ([source, 2025-05-02](https://nationalassembly.parliament.ls/wp-content/uploads/2025/08/Report-Payment-Systems-Bill-2025.pdf)).

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-09-mrt-mattel-lance-commercialement-la-5g-et-devoile-sa-filiale-de",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "mandate",
+   "value": "licensing",
+   "fact": "Le Quotidien reports that Mattel's new subsidiary Mattel Money, unveiled on 9 November 2026, is licensed as an e-money institution by the Banque Centrale de Mauritanie.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "Mattel Money",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Mattel Money (Mechili wallet)",
+   "country_label": "Mauritania",
+   "class": "oversight",
+   "platform": "Mechili",
+   "owner": "Mattel",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

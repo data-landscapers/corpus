@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-09-sen-ndiaye-pi-spi-competition",
+ "facts": [],
+ "systems": [
+  {
+   "system": "PI-SPI",
+   "country_label": "PI-SPI (BCEAO)",
+   "class": "oversight",
+   "platform": "BCEAO instant payment platform",
+   "owner": "BCEAO",
+   "tiers": ""
+  }
+ ],
+ "note": "BCEAO inaugurated the regional PI-SPI in September 2026, but the body never names Senegal or a national switch."
+}

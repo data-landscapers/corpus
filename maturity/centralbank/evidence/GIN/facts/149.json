@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-10-gin-mojaloop-nimbapay-launch-transaction-figures",
+ "facts": [
+  {
+   "sub_indicator": "centralbank",
+   "aspect": "switch",
+   "value": "overseen",
+   "fact": "NimbaPay went live on 22 July 2026 under the leadership of Guinea's central bank BCRG and the national payment switch operator GuiM, whose board BCRG's First Vice-Governor chairs, per the Mojaloop Foundation.",
+   "as_of": "2026-07-22",
+   "date_precision": "day",
+   "system": "NimbaPay",
+   "class": "oversight"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NimbaPay",
+   "country_label": "Guinea",
+   "class": "oversight",
+   "platform": "Mojaloop",
+   "owner": "BCRG; GuiM",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
