@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "authorities;held",
+ "fact": "The World Bank status report modified 13 December 2023 states the integrated revenue management system was verified as implemented in 70% of participating municipalities and that the Interior Ministry's directorate confirmed the platform operational in all of them.",
+ "title": "Municipal Performance Program (P168147) Implementation Status Report (ISR58085)",
+ "publisher": "World Bank",
+ "published": "2023-12",
+ "date_source": "source",
+ "why_not": ""
+}

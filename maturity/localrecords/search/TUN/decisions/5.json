@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "governance;last12",
+ "fact": "The IRM review of Tunisia's 2021-2023 action plan found the national local-revenue digital platform designed and developed, but its trial, launch and data population not evidenced, so the commitment was rated limited.",
+ "title": "Supporting financial transparency at the local level (TN0060)",
+ "publisher": "Open Government Partnership (Independent Reporting Mechanism)",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

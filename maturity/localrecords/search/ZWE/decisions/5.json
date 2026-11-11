@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded",
+ "fact": "The Auditor-General reports that most local authorities' revenue collection processes were not automated and that councils lack complete, updated databases for their revenue streams.",
+ "title": "Report of the Auditor-General for the financial year ended December 31, 2023 on Local Authorities",
+ "publisher": "Office of the Auditor-General of Zimbabwe",
+ "published": "2024-06",
+ "date_source": "source",
+ "why_not": ""
+}

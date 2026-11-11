@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held;authorities",
+ "fact": "The urban commune of Mahajanga has set up the SIGRL local-resources management system and a taxpayer registration software, holding each taxpayer's revenues, registration and payment order, and trained its technicians.",
+ "title": "COMMUNE URBAINE DE MAHAJANGA - Logiciel SIGRL pour améliorer les recettes fiscales",
+ "publisher": "L'Express de Madagascar",
+ "published": "2024-02-02",
+ "date_source": "proxy",
+ "why_not": ""
+}

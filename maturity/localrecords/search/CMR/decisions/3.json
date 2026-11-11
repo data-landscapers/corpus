@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held",
+ "fact": "Local taxes, previously handled manually with communes never having digitalised their financial services, have since January 2025 been merged into a single tax (IGS) collected online by the tax administration, while communal fees such as market and parking remain collected directly and undigitised.",
+ "title": "Recouvrement des impôts locaux : le coup de pouce salutaire de l'administration fiscale",
+ "publisher": "Actu Cameroun (editorial by Eric Boniface Thouakeu)",
+ "published": "2026-06-01",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "held;authorities",
+ "fact": "The Portal do Munícipe was implemented in 124 municipalities with 40 still to do, working only as a web platform for in-person collection by administration staff; eight Luanda municipalities collected 825 million kwanzas through it from January to May 2019.",
+ "title": "Portal do Munícipe ainda não emite documentos ‘online’",
+ "publisher": "Valor Económico",
+ "published": "2019-06-21",
+ "date_source": "source",
+ "why_not": ""
+}

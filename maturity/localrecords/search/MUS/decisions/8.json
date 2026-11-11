@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held",
+ "fact": "Since 3 January 2020 the Corporate and Business Registration Department is the only agent collecting trade fees for Local Authorities, online or at the counter, issuing the receipt on its platform.",
+ "title": "Guidelines for the payment of trade fees",
+ "publisher": "Corporate and Business Registration Department",
+ "published": "2020-12-17",
+ "date_source": "source",
+ "why_not": ""
+}

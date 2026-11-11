@@ -1,0 +1,58 @@
+[
+ {
+  "url": "https://www.nao.go.tz/uploads/Annual_General_Report_for_Audit_of_PO-RALG__Regional_Administrations_and_Local_Government_Authorities_FY_2024-25.pdf",
+  "title": "Annual General Report of the CAG on the audit of PMO-RALG, Regional Secretariats and LGAs FY 2024/25",
+  "publisher": "National Audit Office of Tanzania",
+  "published": "2026-03",
+  "sub_indicator": "revenue",
+  "why": "TAUSI use across LGAs; own-source revenue collected through systems; Section 17A requires electronic collection."
+ },
+ {
+  "url": "https://thechanzo.com/2025/10/07/wataalamu-waeleza-changamoto-zitokanazo-na-halmashauri-kutotumia-mfumo-wa-tausi-kikamilifu-huweza-kusababisha-mapato-kupotea/",
+  "title": "Wataalamu Waeleza Changamoto Zitokanazo na Halmashauri Kutotumia Mfumo wa TAUSI Kikamilifu",
+  "publisher": "The Chanzo",
+  "published": "2025-10-07",
+  "sub_indicator": "revenue",
+  "why": "16 councils still collected via old LGRCIS in 2023/24 rather than TAUSI."
+ },
+ {
+  "url": "https://www.nao.go.tz/uploads/Ripoti_Kuu_ya_Ukaguzi_wa_Serikali_za_Mitaa_kwa_Mwaka_wa_Fedha_2022-23.pdf",
+  "title": "Ripoti Kuu ya Ukaguzi wa Serikali za Mitaa kwa Mwaka wa Fedha 2022/23",
+  "publisher": "Mdhibiti na Mkaguzi Mkuu wa Hesabu za Serikali",
+  "published": "",
+  "sub_indicator": "revenue",
+  "why": "Directive to move all councils from LGRCIS to TAUSI by 31 March 2023; transition problems."
+ },
+ {
+  "url": "https://dailynews.co.tz/how-usaid-ps3-project-increased-efficiency-in-govt-systems/",
+  "title": "How USAID PS3+ project increased efficiency in govt systems",
+  "publisher": "Daily News",
+  "published": "2023-06-05",
+  "sub_indicator": "revenue",
+  "why": "Minister: 169 councils had started using TAUSI by February 2023."
+ },
+ {
+  "url": "https://thechanzo.com/2023/03/11/fahamu-kuhusu-tausi-mfumo-mpya-wa-ukusanyaji-mapato-serikalini/",
+  "title": "Fahamu Kuhusu Tausi, Mfumo Mpya wa Ukusanyaji Mapato Serikalini",
+  "publisher": "The Chanzo",
+  "published": "2023-03-11",
+  "sub_indicator": "revenue",
+  "why": "TAUSI replaces LGRCIS; taxpayer portal, GePG control numbers."
+ },
+ {
+  "url": "https://www.nao.go.tz/uploads/reports/ANNUAL_GENERAL_REPORT_FOR_LOCAL_GOVERNMENT_AUTHORITIES___FY_2020_21.pdf",
+  "title": "Controller and Auditor General GR/LGA/2020/21",
+  "publisher": "National Audit Office of Tanzania",
+  "published": "2022-03-30",
+  "sub_indicator": "revenue",
+  "why": "Revenue collected through LGRCIS and POS across 185 LGAs; taxpayer databases."
+ },
+ {
+  "url": "https://www.nao.go.tz/uploads/Ripoti_ya_Ukaguzi_wa_Mifumo_ya_TEHAMA_2019_20.pdf",
+  "title": "Ripoti ya Ukaguzi wa Mifumo ya TEHAMA 2019/20",
+  "publisher": "Mdhibiti na Mkaguzi Mkuu",
+  "published": "",
+  "sub_indicator": "revenue",
+  "why": "LGRCIS audit: POS devices, calculations done manually outside system."
+ }
+]

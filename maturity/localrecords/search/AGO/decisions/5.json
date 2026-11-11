@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held;authorities",
+ "fact": "On 10 November 2021 the Ministry of Finance launched the Portal do Munícipe, a central web platform tracking the whole cycle of fee, licence and fine collection and holding records of municipes, with implementation done in all 164 municipalities despite telecoms difficulties in some.",
+ "title": "Ministério das Finanças lança portal para aumentar nível de arrecadação de receitas das administrações locais",
+ "publisher": "Menos Fios",
+ "published": "2021-11-11",
+ "date_source": "source",
+ "why_not": ""
+}

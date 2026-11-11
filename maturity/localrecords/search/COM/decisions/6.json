@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;authorities",
+ "fact": "Municipalities do not levy property taxes because the law does not yet define the municipal domain, and no additional taxes on built and rented properties are allocated to them, except Moroni, for which a database exists (stakeholder interviews March 2020).",
+ "title": "Reimagining Urbanization in Comoros",
+ "publisher": "World Bank Group",
+ "published": "2020",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held",
+ "fact": "The Auditor-General's 2022/2023 report on county revenue funds finds counties mixing manual receipt books with electronic collection, some with no automated system at all, and Vihiga automated only its Vihiga Sub County.",
+ "title": "Auditor-General's Report on County Governments Revenue Funds 2022-2023",
+ "publisher": "Office of the Auditor-General of Kenya",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

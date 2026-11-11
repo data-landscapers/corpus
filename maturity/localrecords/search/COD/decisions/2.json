@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;authorities",
+ "fact": "On 10 August 2026 the DGRK asked its services to extend the IRMS-DGRK platform, so far used for the vehicle vignette, to other Kinshasa taxes, to replace manually handled notes de perception and observation sheets.",
+ "title": "DGRK : après la vignette, Kinshasa veut digitaliser les impôts et taxes",
+ "publisher": "Le Point (lepoint.cd)",
+ "published": "2026-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

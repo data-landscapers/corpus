@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;authorities",
+ "fact": "A study of Bassar 1 using administrative accounts for 2020 to 2024 found the taxpayer database very limited and taxpayers not geolocated, the GesFiCo digitisation project unfinished, and 72% of 128 surveyed taxpayers not registered.",
+ "title": "Status of the Tax Resource Mobilization System in the Municipality of Bassar 1 in Togo: Innovative Implications for Local Development",
+ "publisher": "Zenodo",
+ "published": "2025-12-23",
+ "date_source": "source",
+ "why_not": ""
+}

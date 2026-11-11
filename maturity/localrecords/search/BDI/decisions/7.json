@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "authorities;governance",
+ "fact": "UNDP reported on 23 August 2024 the launch of E-Taxe in 12 pilot communes with UNDP technical and financial support, and the minister urged extension to all 42 communes by the end of the year.",
+ "title": "Le PNUD appuie la digitalisation de la fiscalité communale à travers E-Taxe",
+ "publisher": "Programme des Nations Unies pour le développement (PNUD) Burundi",
+ "published": "2024-08-26",
+ "date_source": "source",
+ "why_not": ""
+}

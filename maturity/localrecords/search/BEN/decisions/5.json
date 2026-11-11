@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held;authorities",
+ "fact": "A computerised client-server revenue collection system with a mobile app for collectors was put into service at the Malanville international market, described as the first of its kind among communes, funded by Swiss cooperation.",
+ "title": "Promotion de l'économie locale : Le système informatisé de recouvrement des recettes mis en service à Malanville",
+ "publisher": "Le Monde Local",
+ "published": "2020-12-21",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;authorities;last12",
+ "fact": "The Controller of Budget's FY 2024/25 report states counties raised Kshs 67.30 billion in local revenue, attributing the rise partly to increased automation, and records that Kisumu automated 24 of 27 revenue streams while several counties still rely on manual collection, naming Baringo, Garissa and Lamu as having automation gaps.",
+ "title": "County Governments Budget Implementation Review Report FY 2024/25",
+ "publisher": "Office of the Controller of Budget",
+ "published": "2025-08",
+ "date_source": "source",
+ "why_not": ""
+}

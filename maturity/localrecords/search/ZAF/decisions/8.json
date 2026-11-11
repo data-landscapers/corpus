@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held",
+ "fact": "National and Provincial Treasuries' October-November 2019 module verification found most municipalities have billing and receipts modules on their core financial systems or via third-party sub-systems, though a number still transact in Excel and capture later.",
+ "title": "National Assembly question for written reply 1683 [NW2073E]",
+ "publisher": "National Treasury",
+ "published": "2020",
+ "date_source": "proxy",
+ "why_not": ""
+}

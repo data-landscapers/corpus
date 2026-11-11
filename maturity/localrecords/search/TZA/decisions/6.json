@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held",
+ "fact": "The CAG's report for 2020/21, covering 185 LGAs, states that LGAs collect revenue through the LGRCIS with POS machines, and that 20 LGAs had 890 taxpayers registered under more than one payer ID and 46 LGAs had 1,355 POS machines offline.",
+ "title": "Controller and Auditor General GR/LGA/2020/21",
+ "publisher": "National Audit Office of Tanzania",
+ "published": "2022-03-30",
+ "date_source": "source",
+ "why_not": ""
+}

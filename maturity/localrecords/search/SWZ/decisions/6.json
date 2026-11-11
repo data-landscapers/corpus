@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "",
+ "fact": "",
+ "title": "Local Government Questionnaire (LGQ) for the United Nations E-Government Survey - Mbabane",
+ "publisher": "United Nations DESA",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": "off-topic: counts share of services online (10%), says nothing on revenue records, and the text carries no date"
+}

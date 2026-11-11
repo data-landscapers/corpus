@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "",
+ "fact": "",
+ "title": "Ministry of Housing and Urban Development annual report 2025",
+ "publisher": "Ministry of Housing and Urban Development",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": "no-development: reports collection rates and arrears for one council and GIS checks of a valuation roll, nothing on a digital payer register; report undated in text"
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "authorities;held",
+ "fact": "In 2018, 37 of 218 communes reported using budget-management software (ELBELEDI) and the other communes managed their financial operations manually; 143 communes (65.78%) kept a payment register and 75 had neither software nor register.",
+ "title": "Rapport sur les capacités institutionnelles des communes mauritaniennes",
+ "publisher": "Ministère de l'Intérieur et de la Décentralisation, Direction Générale des Collectivités Territoriales",
+ "published": "2019-06",
+ "date_source": "source",
+ "why_not": ""
+}

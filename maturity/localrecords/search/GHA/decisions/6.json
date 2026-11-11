@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held",
+ "fact": "The Ghana Revenue Authority announced that from 1 January 2023 property rates would be collected with MMDAs on the Unified Common Property Rate Platform (myassembly.gov.gh), an end-to-end billing, payment and reporting platform.",
+ "title": "Commencement of Implementation of Unified Common Property Rate Platform in Conjunction with the Metropolitan, Municipal and District Assemblies (MMDAs)",
+ "publisher": "Ghana Revenue Authority",
+ "published": "2022-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

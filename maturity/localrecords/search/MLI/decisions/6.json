@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held;authorities",
+ "fact": "In April 2022 the Commune II town hall in Bamako launched digital collection of municipal taxes, with each payment enrolled automatically in a town hall database it did not previously have, after the district town hall and Commune VI had adopted the system first.",
+ "title": "Mairie de la commune II : Digitaliser les recettes",
+ "publisher": "Mali Tribune",
+ "published": "2022-04-23",
+ "date_source": "source",
+ "why_not": ""
+}

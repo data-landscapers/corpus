@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded",
+ "fact": "The 2019 Bissau 2030 plan states that Guinea-Bissau's urban centres lack a property cadastre system for tax collection and that the Bissau council's capacity to raise revenue is limited.",
+ "title": "BISSAU 2030 - Plano de Desenvolvimento Sustentável 2030",
+ "publisher": "ONU-Habitat e Câmara Municipal de Bissau",
+ "published": "2019",
+ "date_source": "source",
+ "why_not": ""
+}

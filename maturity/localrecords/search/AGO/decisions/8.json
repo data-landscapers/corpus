@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held;authorities",
+ "fact": "The Ministry of Finance's 2019 profile states the Portal do Munícipe was created in all 164 municipalities, offers over 490 services, and collected Kz 6.91 billion in 2019, 84.68% of it in Luanda province.",
+ "title": "Perfil das Receitas do Portal do Munícipe",
+ "publisher": "Ministério das Finanças (GTIRFAL)",
+ "published": "2019",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held",
+ "fact": "A Ghana Statistical Service survey with data collected in February 2023 found five of six surveyed assemblies used the GIZ-supported dLRev software for revenue data, billing and collection, while Jomoro used another system.",
+ "title": "Assessment of Selected MMDAs Internally Generated Fund Potential and Effort for 2022",
+ "publisher": "Ghana Statistical Service",
+ "published": "2023-12",
+ "date_source": "source",
+ "why_not": ""
+}

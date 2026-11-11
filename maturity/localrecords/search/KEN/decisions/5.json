@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held",
+ "fact": "The Kenya Revenue Authority told the Senate ICT committee that counties use disjointed vendor systems, some counties have yet to automate and collect revenue manually, and most use the outdated LAIFOMS inherited from the defunct local authorities.",
+ "title": "KRA: Why counties are losing billions in own source revenue",
+ "publisher": "The Star",
+ "published": "2024-11-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

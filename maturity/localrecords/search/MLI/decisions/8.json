@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held",
+ "fact": "A January 2020 Treasury-commissioned status report found that the COLLOC tool was deployed in all five pilot communes and many Treasury collection offices, with title-taking and payer-tracking modules insufficiently developed, and that software and accounting practices vary between town halls.",
+ "title": "Programme d'Appui à l'Amélioration des Finances Publiques au Mali (PAAMEFIP): Rapport état des lieux, Recouvrement des Ressources Fiscales et Taxes spécifiques des Collectivités Territoriales",
+ "publisher": "Expertise France (PAAMEFIP, DNTCP)",
+ "published": "2020-01",
+ "date_source": "source",
+ "why_not": ""
+}

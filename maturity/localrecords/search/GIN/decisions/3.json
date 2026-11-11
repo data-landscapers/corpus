@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;authorities;last12",
+ "fact": "A project by Enabel's contractors digitised the census and collection of market and moto-taxi parking taxes in Mamou commune, with collection starting in June 2026 and market revenue multiplied by four; a capitalisation workshop on 16 July 2026 looked at replication in other local governments.",
+ "title": "Projet REVIS : la digitalisation au service des ressources locales à Mamou, en Guinée",
+ "publisher": "Le Partenariat - Centre Gaïa",
+ "published": "2026-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "authorities;held;governance",
+ "fact": "The Interior ministry launched the E-taxe digital solution for communal taxes on 23 August 2024 in 12 pilot communes, while Kayanza province communes still collected with paper receipts and market tickets; full national launch was hoped for by end December 2024.",
+ "title": "Lancement officiel de la digitalisation dans la collecte des recettes communales E-taxe",
+ "publisher": "Ministère de l'Intérieur, du Développement communautaire et de la Sécurité publique (MININTER)",
+ "published": "2024-08-30",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held;authorities",
+ "fact": "A June 2025 technical note reports ReCoDe being piloted in five communes of the San region (Benena, Tominian, Sourountouna, San, Kava), of which three began building a database for local taxes and collecting by payment terminal, and that the Orange merchant code for tax payments exists only in Kava; the ReCoDe-COLLOC interface to the Treasury has been finalised.",
+ "title": "Quel équilibre entre la dynamique sociale et le dispositif financier et technique dans les communes ?",
+ "publisher": "Pro-ARIDES (Groupe ODYSSÉE, Near East Foundation/SNV)",
+ "published": "2025-06",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;authorities;governance",
+ "fact": "On 9 March 2020 the ANCB commissioned one-stop revenue counters, with software, in 12 communes under an EU-funded project with AIMF, with six more communes to follow.",
+ "title": "Mise en service officielle de guichets uniques de mobilisation de ressources dans 12 communes",
+ "publisher": "Association Nationale des Communes du Bénin",
+ "published": "2020-09-25",
+ "date_source": "proxy",
+ "why_not": ""
+}

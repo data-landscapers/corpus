@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;governance",
+ "fact": "On 21 April 2023 the Kinshasa revenue directorate (DGRK) launched OKAB-built software combining physical and electronic collection of the city's taxes, beyond the eTax software already in use.",
+ "title": "Kinshasa : la DGRK lance un logiciel numérique pour la collecte des impôts et taxes",
+ "publisher": "Actualite.cd",
+ "published": "2023-04",
+ "date_source": "proxy",
+ "why_not": ""
+}

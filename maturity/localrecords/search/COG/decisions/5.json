@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "governance;recorded",
+ "fact": "On 14 February 2026 the finance ministry's final validation workshop for the PDRCL, built by the state agency ACSI to bring local government revenues into one auditable information system, closed with deployment still to come.",
+ "title": "Clôture de l’Atelier de validation finale de la Plateforme de Dématérialisation des Recettes des Collectivités Locales (PDRCL)",
+ "publisher": "Ministère des finances, du budget et du portefeuille public",
+ "published": "2026-02-14",
+ "date_source": "source",
+ "why_not": ""
+}

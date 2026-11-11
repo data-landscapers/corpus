@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "authorities;recorded;held;last12",
+ "fact": "The World Bank status report created 19 February 2026 states the integrated revenue management system (GIR) is implemented in 70% of the Programme's participating municipalities, verified by the independent agency, with digital platforms including GIR-CT rolled out with satisfactory uptake.",
+ "title": "Municipal Performance Program (P168147) Implementation Status Report (ISR07186)",
+ "publisher": "World Bank",
+ "published": "2026-02",
+ "date_source": "source",
+ "why_not": ""
+}

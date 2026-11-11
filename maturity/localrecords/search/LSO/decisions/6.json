@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "held",
+ "fact": "The national decentralisation policy states that financial management in local councils is manual and that councils collect hardly any revenue.",
+ "title": "National Decentralisation Policy",
+ "publisher": "Ministry of Local Government, Chieftainship and Parliamentary Affairs",
+ "published": "2014-02",
+ "date_source": "source",
+ "why_not": ""
+}

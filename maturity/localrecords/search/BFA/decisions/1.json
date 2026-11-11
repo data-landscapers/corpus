@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held",
+ "fact": "Municipal market taxes and economic-facility fees are paid by electronic payment terminals in some municipalities, while digitisation of local procedures meets resistance from some municipal officials.",
+ "title": "Digitization of tax collection for effective revenue tracking",
+ "publisher": "Pro-ARIDES",
+ "published": "2025-12-15",
+ "date_source": "proxy",
+ "why_not": ""
+}

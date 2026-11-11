@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "authorities",
+ "fact": "At 31 October 2020, 24 of 234 local authorities were connected to the Net Collect Service local own-revenue recovery system.",
+ "title": "Comité National de Suivi et de Mise en Œuvre des Stratégies d’Inclusion Financière (CNSMO) - Bilan 2020 et Perspectives 2021",
+ "publisher": "APIF (Ministère de l’Economie et des Finances)",
+ "published": "2021",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "authorities;recorded",
+ "fact": "A September 2019 IGC policy brief on a 2017 survey of 216 MMDAs found just 15% used revenue management software and electronic property databases, the rest relying on manual systems.",
+ "title": "Improving local government tax collection capacity: Evidence from Ghana",
+ "publisher": "International Growth Centre",
+ "published": "2019-09",
+ "date_source": "source",
+ "why_not": ""
+}

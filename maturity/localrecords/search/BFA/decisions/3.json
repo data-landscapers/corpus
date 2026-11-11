@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;authorities",
+ "fact": "On 19 March 2024 Ouagadougou launched SYSCOTAX digital tax collection in four pilot markets, a tool that censuses and geolocates taxpayers and has operated since 2020.",
+ "title": "Paiement digital des taxes : Ouagadougou lance la SYSCOTAX dans 4 marchés",
+ "publisher": "Digital Magazine Burkina",
+ "published": "2024-03-23",
+ "date_source": "source",
+ "why_not": ""
+}

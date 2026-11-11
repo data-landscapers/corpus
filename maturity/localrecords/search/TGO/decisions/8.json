@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "",
+ "fact": "",
+ "title": "Comment l'OTR met à genoux les 117 communes",
+ "publisher": "Afrikdepeche",
+ "published": "2022-06-21",
+ "date_source": "proxy",
+ "why_not": "unfetchable: ConnectionError, text not read"
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "authorities",
+ "fact": "LADS, with billing and receipting modules, has been deployed to 20 councils, while Harare City Council has had no functioning billing system since March 2019 and works from a manual system.",
+ "title": "Council in US$2,1m billing system storm",
+ "publisher": "The Herald",
+ "published": "2024-11-10",
+ "date_source": "source",
+ "why_not": ""
+}

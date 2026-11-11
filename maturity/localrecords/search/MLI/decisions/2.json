@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held",
+ "fact": "A training session held 14-18 July 2025 in Kangaba taught communes under PADRE III to use ReCoDe, which covers revenue collection and local taxation and has an interface with the Treasury's COLLOC application, led by experts of the DGCT.",
+ "title": "Kangaba : La Gestion Budgétaire des Communes du Mali Révolutionnée par une Formation Intense sur le Logiciel ReCoDe",
+ "publisher": "Mali Actu",
+ "published": "2025-07-15",
+ "date_source": "source",
+ "why_not": ""
+}

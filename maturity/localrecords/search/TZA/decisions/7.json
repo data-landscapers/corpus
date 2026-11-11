@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held",
+ "fact": "The CAG's 2019/20 information systems audit states that LGRCIS is the system used to collect councils' own-source revenue through POS devices synchronised with it in real time, while service levy and permit fee calculations are done manually outside the system.",
+ "title": "Ripoti ya Ukaguzi wa Mifumo ya TEHAMA 2019/20",
+ "publisher": "Ofisi ya Taifa ya Ukaguzi (NAOT)",
+ "published": "2021-03-28",
+ "date_source": "source",
+ "why_not": ""
+}

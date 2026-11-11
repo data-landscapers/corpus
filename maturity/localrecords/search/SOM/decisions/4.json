@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held",
+ "fact": "The October 2022 TADAT assessment finds Baidoa Municipality registers taxpayers in separate semi-manual systems: land rates in the KGS system, property tax in PFMIS via a field mobile app, and business licences in a manual register, with no interface between them.",
+ "title": "Performance Assessment Report: Baidoa Municipality, Somalia",
+ "publisher": "TADAT",
+ "published": "2022-10",
+ "date_source": "source",
+ "why_not": ""
+}

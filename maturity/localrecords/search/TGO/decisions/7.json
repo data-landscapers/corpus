@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;authorities",
+ "fact": "A study in the Lacs 1 commune recorded and geolocated 1272 taxpayers to build taxpayer files for collecting non-tax revenue, the commune having opted for digital solutions.",
+ "title": "Contribution des systèmes d'information géographique (SIG) dans la mobilisation des ressources non fiscales dans la Commune des Lacs 1 au Togo",
+ "publisher": "Géo Communauté",
+ "published": "2023-12-29",
+ "date_source": "source",
+ "why_not": ""
+}

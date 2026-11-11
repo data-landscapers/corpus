@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "",
+ "fact": "",
+ "title": "Autarquias não cobram impostos devidos",
+ "publisher": "Expresso das Ilhas",
+ "published": "2020-02-22",
+ "date_source": "proxy",
+ "why_not": "no-development: an interview on weak collection; states no dated fact on digital records, and the 2013 databases finding is quoted second-hand."
+}

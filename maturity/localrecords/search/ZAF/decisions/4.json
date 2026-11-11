@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "revenue",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: vendor-sourced article about one metro, text carries no date"
+}

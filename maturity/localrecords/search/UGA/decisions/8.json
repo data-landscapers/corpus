@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "held;authorities",
+ "fact": "The September 2023 strategy states that local government taxpayer registers are largely manual and that nearly all local governments depend significantly on manual revenue collection, with IRAS deployed in 15 local governments as of March 2021.",
+ "title": "The Local Government Own Source Revenue Mobilisation Strategy 2022/2023 – 2026/2027",
+ "publisher": "Local Government Finance Commission",
+ "published": "2023-09",
+ "date_source": "source",
+ "why_not": ""
+}

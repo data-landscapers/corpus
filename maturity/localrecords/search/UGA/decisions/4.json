@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "authorities;held",
+ "fact": "The Local Government Finance Commission's IRAS has automated revenue collection and payment processes in 166 vote-level local governments, and is now integrated with the building control system BIMS as its payment gateway.",
+ "title": "BIMS and IRAS Integrated to Boost Compliance and Revenue Generation in Local Governments",
+ "publisher": "National Building Review Board",
+ "published": "2025-04-10",
+ "date_source": "source",
+ "why_not": ""
+}

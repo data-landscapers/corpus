@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "authorities",
+ "fact": "The Auditor General's report on FY2024/25 across 124 local governments found 18 with unstable internet and frequent IRAS downtime and 22 short of POS machines, leading to occasional resort to manual receipting.",
+ "title": "System failures blamed for Shs52 billion local revenue shortfall",
+ "publisher": "The Independent",
+ "published": "2026-02-26",
+ "date_source": "source",
+ "why_not": ""
+}

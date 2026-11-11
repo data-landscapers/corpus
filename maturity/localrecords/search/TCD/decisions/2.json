@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;authorities",
+ "fact": "On 21 April 2026 N'Djamena commune launched a digital census of taxpayers at the Marché Central, coupled with digitalised collection of municipal revenue, to be rolled out progressively across markets and districts.",
+ "title": "Tchad : la commune de N'Djaména digitalise la collecte des recettes",
+ "publisher": "Journal du Tchad",
+ "published": "2026-04-21",
+ "date_source": "source",
+ "why_not": ""
+}

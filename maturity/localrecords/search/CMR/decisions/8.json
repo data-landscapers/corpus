@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;authorities",
+ "fact": "On 21 March 2023 FEICOM presented the Inform'All City digital platform for collecting communal taxes from street traders, in a prototype and trial phase in the Yaoundé 2 and Douala 3 communes.",
+ "title": "Le Feicom lance une plateforme numérique pour collecter les taxes auprès des vendeurs de la rue",
+ "publisher": "Actu Cameroun",
+ "published": "2023",
+ "date_source": "proxy",
+ "why_not": ""
+}

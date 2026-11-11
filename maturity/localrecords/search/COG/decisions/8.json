@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;authorities",
+ "fact": "On 8 April 2021 the mayor of Brazzaville launched electronic payment of taxes in the capital's state-owned markets, with providers on three-month trial contracts to census traders into a digital file and issue named digital tickets.",
+ "title": "Marchés domaniaux de Brazzaville : mise au point d'un dispositif de paiement électronique des taxes",
+ "publisher": "Les Dépêches de Brazzaville (adiac-congo.com)",
+ "published": "2021-04-08",
+ "date_source": "source",
+ "why_not": ""
+}

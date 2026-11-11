@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "held;authorities",
+ "fact": "The National Treasury's 2025 Budget Review and Outlook Paper notes that the majority of county governments continue to use unintegrated revenue collection platforms, many operated by third-party providers.",
+ "title": "Treasury sees revenue, data leak risks in county systems",
+ "publisher": "Business Daily",
+ "published": "2025-10-20",
+ "date_source": "proxy",
+ "why_not": ""
+}

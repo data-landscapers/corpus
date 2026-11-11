@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "governance;authorities",
+ "fact": "On 6 November 2026 the communications technology minister announced that the 2026 digital programme will include online payment of municipal taxes in several communes.",
+ "title": "Sofiene Hemissi annonce la numérisation de plusieurs services administratifs avant fin 2026",
+ "publisher": "La Presse de Tunisie",
+ "published": "2026-11-06",
+ "date_source": "source",
+ "why_not": ""
+}

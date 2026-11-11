@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held",
+ "fact": "The Auditor-General's 2024-25 report finds systemic control weaknesses in revenue management systems and customer service platforms at metros, with continued reliance on manual workarounds and legacy systems, and 76 municipalities (30%) materially misstated revenue for incomplete or unsupported billing.",
+ "title": "Consolidated general report on local government audit outcomes 2024-25",
+ "publisher": "Auditor-General of South Africa",
+ "published": "2026-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

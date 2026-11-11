@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held",
+ "fact": "A case study of Katima Mulilo Town Council found it issues monthly statements on customer account numbers and takes payments by EFT, bank deposit or at the cashiers, but customers must collect statements in person.",
+ "title": "Investigating barriers to revenue collection affecting municipal service delivery: a case study of Katima Mulilo Town Council",
+ "publisher": "Namibia Business School, University of Namibia",
+ "published": "2023-04",
+ "date_source": "source",
+ "why_not": ""
+}

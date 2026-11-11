@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;authorities;governance",
+ "fact": "The commune of Ksar launched the El Mouhassil system, built by the Ministry of the Interior and German cooperation, to digitise municipal resources through an exhaustive taxpayer census loaded into a municipal database.",
+ "title": "La Commune du Ksar lance le système « El Mouhassil » numérisant les ressources municipales",
+ "publisher": "Agence mauritanienne d'information",
+ "published": "2023-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

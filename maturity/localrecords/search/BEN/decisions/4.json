@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;held;authorities",
+ "fact": "A pilot of electronic payment terminals for communal revenue collection was launched on 28 March 2023 in four communes (Comè, Glazoué, Porto-Novo, Abomey-Calavi), the ministry saying most communes collect taxes by paper inactive-value receipts.",
+ "title": "Collecte des recettes communales : Lancement de la phase pilote des Terminaux à paiement électronique à Comè",
+ "publisher": "L'économiste du Bénin",
+ "published": "2023-03-29",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "held",
+ "fact": "The Ministry's strategic plan, last revised July 2023, states that the existing Financial Management Systems (Finstel) used by most local authorities are obsolete and that most struggle to collect revenue from rates and taxes.",
+ "title": "Strategic Plan (Extended) 2023/24 - 2024/25",
+ "publisher": "Ministry of Urban and Rural Development",
+ "published": "2023-07",
+ "date_source": "source",
+ "why_not": ""
+}

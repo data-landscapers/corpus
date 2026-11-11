@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "revenue",
+ "aspect": "recorded;authorities",
+ "fact": "The Ville de Niamey said on 5 January 2026 that its Naneye Yarda platform has recorded 35,000 taxpayers, each geolocated, with tax notices carrying a QR code and payment through money-transfer agencies or banks.",
+ "title": "Journée portes ouvertes à l'Hôtel de Ville de Niamey : Faire découvrir l'institution et expliquer le fonctionnement du projet ''Naneye Yarda''",
+ "publisher": "Le Sahel (ONEP)",
+ "published": "2026-01-06",
+ "date_source": "source",
+ "why_not": ""
+}
