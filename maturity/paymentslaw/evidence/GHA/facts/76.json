@@ -1,0 +1,9 @@
+{
+  "slug": "2024-10-01-gha-csa-national-cybersecurity-policy-and-strategy",
+  "facts": [],
+  "systems": [],
+  "note": "The held text is legible front matter of the 2024 cybersecurity policy; it names e-payments (mobile money) only as a sector label in an incident figure and states no payments law.",
+  "claims": {
+    "aftech-3014847530": "nothing: cybersecurity policy, not a payments law"
+  }
+}

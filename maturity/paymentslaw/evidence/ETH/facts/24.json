@@ -1,0 +1,14 @@
+{
+  "slug": "2026-11-10-africa-technology-policy-tracker-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "Carnegie's tracker lists the 2011 National Payment System Proclamation, which evidence.csv already holds as in force, and strategies.",
+  "claims": {
+    "aftech-182c73559a": "nothing: held as ETH-003",
+    "aftech-af9b9b550c": "nothing: open data policy, not payments",
+    "aftech-b00f6381bc": "nothing: ICT policy, not a payments law",
+    "aftech-d06a77dfcc": "nothing: payments strategy, not a law",
+    "aftech-6ee44f0900": "nothing: digital strategy, not a payments law",
+    "aftech-a884652e64": "nothing: AI policy, not a payments law"
+  }
+}

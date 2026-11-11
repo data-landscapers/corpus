@@ -1,0 +1,12 @@
+{
+  "slug": "2026-11-10-africa-technology-policy-tracker-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "Carnegie's tracker lines for Eswatini list communications, cybercrime and transactions laws and a cybersecurity strategy, no payments law.",
+  "claims": {
+    "aftech-666a78a665": "nothing: telecom law, not payments",
+    "aftech-9aa6b8e29d": "nothing: cybercrime act, not payments",
+    "aftech-ecb5901eaf": "nothing: cybersecurity strategy, not payments",
+    "aftech-3acc48b6da": "nothing: electronic communications and transactions act, not payments"
+  }
+}

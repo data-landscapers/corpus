@@ -1,0 +1,13 @@
+{
+  "slug": "2023-10-12-national-digital-transformation-strategy-zambia",
+  "facts": [
+    {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The 2023-2027 National Digital Transformation Strategy lists the National Payment Systems Act No. 1 of 2007 among Zambia's laws, describing it as providing for the management, administration, operation, supervision and regulation of payment systems (text cut off after 'regula-').", "as_of": "2007", "date_precision": "year", "system": "National Payment Systems Act No. 1 of 2007", "class": "law"}
+  ],
+  "systems": [
+    {"system": "National Payment Systems Act No. 1 of 2007", "country_label": "Zambia", "class": "law", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "aftech-5318c94eed": "nothing: digital transformation strategy, not a payments law"
+  }
+}

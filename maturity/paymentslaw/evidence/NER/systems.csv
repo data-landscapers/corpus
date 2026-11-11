@@ -3,3 +3,6 @@ NER,PI-SPI,Plateforme Interopérable du Système de Paiement Instantané,other,,
 NER,PI-SPI,Plateforme interopérable du Système de paiement instantané,other,,BCEAO,"banks, e-money institutions, payment institutions, microfinance institutions; Niger has 5 authorised at 31 July 2026",2026-08-18-uemoa-pi-spi-104-etablissements-autorises
 NER,Airtel Money Niger,Niger,other,,Airtel Money Niger S.A.,,2026-10-20-ner-pi-spi-impact-economique-sur-le-mobile-money-dans-l-aes
 NER,MyNITA,Niger,other,,NITA with 2ISOFT,,2026-10-20-ner-pi-spi-impact-economique-sur-le-mobile-money-dans-l-aes
+NER,PI-SPI,Plateforme Interopérable du Système de Paiement Instantané,other,,BCEAO,"banks, e-money institutions, payment institutions, microfinance institutions",2026-04-02-bceao-connexion-pispi-communique
+NER,Airtel Money,Airtel Money Niger,other,"MyAirtel app, USSD 4361*2#",Airtel Money Niger SA,,2026-08-25-actuniger-airtel-money-transfert-international
+NER,iFUTUR,iFUTUR,other,,iFUTUR,payment institution,2026-08-31-xwa-bceao-liste-etablissements-paiement-agrees-umoa

@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-10-africa-technology-policy-tracker-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "Carnegie's tracker lines for Zambia list ICT and electronic transactions acts and a 2023 policy, no payments law; the payments act is already held in evidence.csv.",
+  "claims": {
+    "aftech-4c8c29dfbd": "nothing: electronic communications and transactions act, not payments",
+    "aftech-20fff46616": "nothing: ICT act, not payments",
+    "aftech-f6854b047e": "nothing: ICT policy, not a payments law"
+  }
+}

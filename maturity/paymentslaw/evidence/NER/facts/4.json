@@ -5,10 +5,10 @@
       "sub_indicator": "law",
       "aspect": "standing",
       "value": "in-force",
-      "fact": "BCEAO lists payment institutions as licensed in line with Instruction n°001-01-2024 on payment services in the UMOA, with 34 licensed at 31 August 2026.",
+      "fact": "BCEAO lists payment institutions as licensed in line with Instruction nÂ°001-01-2024 on payment services in the UMOA, with 34 licensed at 31 August 2026.",
       "as_of": "2026-08-31",
       "date_precision": "day",
-      "system": "BCEAO Instruction n°001-01-2024 on payment services in the UMOA",
+      "system": "BCEAO Instruction nÂ°001-01-2024 on payment services in the UMOA",
       "class": "law"
     },
     {

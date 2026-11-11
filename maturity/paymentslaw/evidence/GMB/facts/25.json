@@ -1,0 +1,21 @@
+{
+  "slug": "2026-11-10-africa-technology-policy-tracker-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "Carnegie's tracker lines for Gambia list consumer, cyber, data, ICT and access laws and policies, no payments law or e-money rules.",
+  "claims": {
+    "aftech-4257cd1b8a": "nothing: consumer protection, other row",
+    "aftech-9b51826d30": "nothing: ICT policy, not a payments law",
+    "aftech-9700e32794": "nothing: ICT policy, not a payments law",
+    "aftech-63c937a778": "nothing: ICT policy, not a payments law",
+    "aftech-963d5d2356": "nothing: ICT agency act, not payments",
+    "aftech-5dc0f1fb99": "nothing: cybercrime bill, not payments",
+    "aftech-fd44abc686": "nothing: cybersecurity policy, not payments",
+    "aftech-e9bf0b4a38": "nothing: broadband policy, not payments",
+    "aftech-6a470043d0": "nothing: cybersecurity strategy, not payments",
+    "aftech-667fb6d9bc": "nothing: data protection bill, not payments",
+    "aftech-3e3ddf2e4d": "nothing: access to information act, not payments",
+    "aftech-76345d0ec4": "nothing: digital addressing policy, not payments",
+    "aftech-7262686272": "nothing: SIM registration, not payments"
+  }
+}

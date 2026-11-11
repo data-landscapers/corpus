@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-10-africa-technology-policy-tracker-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "Carnegie's tracker lines for Uganda list the Electronic Transactions Act and ICT policies, no payments law.",
+  "claims": {
+    "aftech-a156b1524f": "nothing: electronic transactions act, not payments",
+    "aftech-eda5863613": "nothing: ICT policy, not a payments law",
+    "aftech-a6a9d5738d": "nothing: transformation roadmap, not a payments law"
+  }
+}

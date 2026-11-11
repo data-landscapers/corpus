@@ -1,0 +1,12 @@
+{
+  "slug": "2026-11-10-africa-technology-policy-tracker-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "Carnegie's tracker lines for Kenya list money remittance regulations, digital credit regulations and policies; the payments law is already held in evidence.csv.",
+  "claims": {
+    "aftech-5d830886f7": "nothing: money remittance regulations, not e-payments or e-money rules; payments law held as KEN-005",
+    "aftech-7b4b8007a3": "nothing: ICT policy, not a payments law",
+    "aftech-27eadc01dd": "nothing: digital economy blueprint, not a payments law",
+    "aftech-66df0184c8": "nothing: link is the digital credit providers regulations, credit not payments"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "2026-11-10-africa-technology-policy-tracker-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "Carnegie's tracker lines for Senegal list electronic transactions, communications, startup and consumer laws, no payments law or e-money rules.",
+  "claims": {
+    "aftech-ccf67eeb46": "nothing: electronic transactions law, not payments",
+    "aftech-ec5cb4d9c0": "nothing: electronic transactions decree, not payments",
+    "aftech-6c21f87795": "nothing: electronic communications code, not payments",
+    "aftech-d2108d71d2": "nothing: electronic communications code, not payments",
+    "aftech-2f158278f3": "nothing: telecom regulator decree, not payments",
+    "aftech-e7667bf706": "nothing: startup law, not payments",
+    "aftech-4e6a610f83": "nothing: prices and consumer protection, other row"
+  }
+}
