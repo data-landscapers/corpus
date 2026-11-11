@@ -1,0 +1,29 @@
+{
+  "slug": "2026-11-10-global-cyberlaw-tracker-2026-11-10",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "UNCTAD's Cyberlaw Tracker lists Law No. 07-03 of 11 November 2003 as Morocco's cybercrime legislation (survey round 2026-11-10; law year 2003).",
+      "as_of": "2003",
+      "date_precision": "year",
+      "system": "Law No. 07-03",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Law No. 07-03",
+      "country_label": "Morocco",
+      "class": "law",
+      "platform": "",
+      "owner": "Morocco",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "unctad-a956611601": "fact"
+  }
+}

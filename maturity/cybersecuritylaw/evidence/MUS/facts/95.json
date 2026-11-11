@@ -1,0 +1,18 @@
+{
+  "slug": "1989-01-11-national-computer-board-act",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Computer Board Act",
+      "country_label": "Mauritius",
+      "class": "other",
+      "platform": "",
+      "owner": "Mauritius",
+      "tiers": ""
+    }
+  ],
+  "note": "Agency act with no cybercrime or cybersecurity provision.",
+  "claims": {
+    "aftech-a365eeca64": "nothing: an agency act, not a cybercrime or cybersecurity law"
+  }
+}

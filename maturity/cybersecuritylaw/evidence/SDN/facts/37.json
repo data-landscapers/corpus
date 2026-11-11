@@ -1,0 +1,29 @@
+{
+  "slug": "2007-01-01-sdn-cybercrime-act-2007",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Sudan's Cybercrime Act, 2007, signed by the President and endorsed by the National Council, enters into force on publication and applies to offences committed in or outside Sudan; the text gives no day, so 2007 is the year in its title.",
+      "as_of": "2007",
+      "date_precision": "year",
+      "system": "Cybercrime Act, 2007",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Cybercrime Act, 2007",
+      "country_label": "Sudan",
+      "class": "law",
+      "platform": "",
+      "owner": "Sudan",
+      "tiers": ""
+    }
+  ],
+  "note": "Excerpt of the enacting clause and definitions.",
+  "claims": {
+    "aftech-b323f5e81e": "fact"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "2017-03-06-rwa-law-02-2017-establishing-risa",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Law N°02/2017 establishing RISA",
+      "country_label": "Rwanda",
+      "class": "other",
+      "platform": "",
+      "owner": "RISA",
+      "tiers": ""
+    }
+  ],
+  "note": "Agency law; no cybercrime provision in the passages.",
+  "claims": {
+    "aftech-22b519eff0": "nothing: a law setting up an agency, class other"
+  }
+}

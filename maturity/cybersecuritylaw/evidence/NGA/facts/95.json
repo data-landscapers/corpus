@@ -1,0 +1,18 @@
+{
+  "slug": "2019-01-23-nga-ncc-lawful-interception-of-communications-regulations-2019",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Lawful Interception of Communications Regulations 2019",
+      "country_label": "Nigeria",
+      "class": "other",
+      "platform": "",
+      "owner": "NCC",
+      "tiers": ""
+    }
+  ],
+  "note": "Interception regulations; no cybercrime law stated.",
+  "claims": {
+    "aftech-3469c7a4e3": "nothing: lawful interception regulations, not a cybercrime or cybersecurity law"
+  }
+}

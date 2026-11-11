@@ -1,0 +1,29 @@
+{
+  "slug": "2021-06-01-cybercrimes-act-19-of-2020",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "South Africa's Cybercrimes Act 19 of 2020, published in Government Gazette 44651 on 1 June 2021 with the President's assent, creates offences such as unlawful access and interception of data and sets jurisdiction and investigation rules.",
+      "as_of": "2021-06-01",
+      "date_precision": "day",
+      "system": "Cybercrimes Act 19 of 2020",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Cybercrimes Act 19 of 2020",
+      "country_label": "South Africa",
+      "class": "law",
+      "platform": "",
+      "owner": "South Africa",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "unctad-960a896120": "fact"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "2013-01-18-uga-uganda-communications-act-2013",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Uganda Communications Act 2013",
+      "country_label": "Uganda",
+      "class": "other",
+      "platform": "",
+      "owner": "UCC",
+      "tiers": ""
+    }
+  ],
+  "note": "Communications act; no cybercrime provision in the passages.",
+  "claims": {
+    "aftech-cf8a379ecb": "nothing: a communications licensing act, not assessed"
+  }
+}

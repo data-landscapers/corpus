@@ -1,0 +1,18 @@
+{
+  "slug": "2022-03-04 Eswatini Data Protection Act 2022 (Act No. 5 of 2022)",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Data Protection Act 2022",
+      "country_label": "Eswatini",
+      "class": "other",
+      "platform": "",
+      "owner": "Eswatini",
+      "tiers": ""
+    }
+  ],
+  "note": "Data protection act; no cybercrime provision stated.",
+  "claims": {
+    "aftech-ff13fa43ae": "nothing: data protection act, not assessed"
+  }
+}

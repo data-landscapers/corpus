@@ -1,0 +1,29 @@
+{
+  "slug": "2022-03-11-zimbabwe-cyber-and-data-protection-act-chapter-12-07",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Zimbabwe's Cyber and Data Protection Act [Chapter 12:07] (Act No. 5 of 2021), gazetted in consolidated form on 11 March 2022, amends sections 162 to 166 of the Criminal Law Act to add cyber offences such as transmitting a false data message intending to cause harm (s.164C) and designates POTRAZ as the data protection authority.",
+      "as_of": "2021",
+      "date_precision": "year",
+      "system": "Cyber and Data Protection Act [Chapter 12:07]",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Cyber and Data Protection Act [Chapter 12:07]",
+      "country_label": "Zimbabwe",
+      "class": "law",
+      "platform": "",
+      "owner": "Zimbabwe",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "unctad-58d2e7b930": "fact"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "2000-05-05-independent-communications-authority-of-south-africa-act-icasa",
+  "facts": [],
+  "systems": [
+    {
+      "system": "ICASA Act 2000",
+      "country_label": "South Africa",
+      "class": "other",
+      "platform": "",
+      "owner": "ICASA",
+      "tiers": ""
+    }
+  ],
+  "note": "Regulator act; no cybercrime provision.",
+  "claims": {
+    "aftech-03c3fc13e5": "nothing: regulator act, not assessed"
+  }
+}

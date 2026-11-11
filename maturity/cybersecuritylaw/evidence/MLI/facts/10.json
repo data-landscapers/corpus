@@ -1,0 +1,29 @@
+{
+  "slug": "2019-12-13-mali-jo-2019-43-loi-2019-056-repression-cybercriminalite",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "Mali's Journal Officiel no. 43 of 13 December 2019 publishes Loi n°2019-056 of 5 December 2019 on the repression of cybercrime, which transposes the ECOWAS cybercrime directive of 2011.",
+      "as_of": "2019-12-05",
+      "date_precision": "day",
+      "system": "Loi n°2019-056 portant répression de la cybercriminalité",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Loi n°2019-056 portant répression de la cybercriminalité",
+      "country_label": "Mali",
+      "class": "law",
+      "platform": "",
+      "owner": "Mali",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "aftech-82264ba192": "fact"
+  }
+}

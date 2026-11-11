@@ -1,0 +1,18 @@
+{
+  "slug": "2013-11-26-the-protection-of-personal-information-act-4-of-2013-popi",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Protection of Personal Information Act 4 of 2013",
+      "country_label": "South Africa",
+      "class": "other",
+      "platform": "",
+      "owner": "Information Regulator",
+      "tiers": ""
+    }
+  ],
+  "note": "Data protection act.",
+  "claims": {
+    "aftech-224c39c456": "nothing: data protection act, not assessed"
+  }
+}

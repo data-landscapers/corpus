@@ -1,0 +1,18 @@
+{
+  "slug": "2014-09-01-nga-nitda-pki-regulations-final-draft",
+  "facts": [],
+  "systems": [
+    {
+      "system": "NITDA Public Key Infrastructure Regulations",
+      "country_label": "Nigeria",
+      "class": "other",
+      "platform": "",
+      "owner": "NITDA",
+      "tiers": ""
+    }
+  ],
+  "note": "Certificate authority code of practice.",
+  "claims": {
+    "aftech-f663c6ed43": "nothing: PKI code of practice, not a cybercrime or cybersecurity law"
+  }
+}

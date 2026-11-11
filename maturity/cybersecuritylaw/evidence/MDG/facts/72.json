@@ -1,0 +1,38 @@
+{
+  "slug": "2026-11-10-global-cyberlaw-tracker-2026-11-10",
+  "facts": [
+    {
+      "sub_indicator": "law",
+      "aspect": "standing",
+      "value": "in-force",
+      "fact": "UNCTAD's Cyberlaw Tracker lists Law No. 2016-031 among Madagascar's cybercrime legislation (law year 2016; survey round 2026-11-10).",
+      "as_of": "2016",
+      "date_precision": "year",
+      "system": "Law No. 2016-031",
+      "class": "law"
+    }
+  ],
+  "systems": [
+    {
+      "system": "Law No. 2016-031",
+      "country_label": "Madagascar",
+      "class": "law",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    },
+    {
+      "system": "Law No. 2014-006 on Combating Cybercrime",
+      "country_label": "Madagascar",
+      "class": "law",
+      "platform": "",
+      "owner": "",
+      "tiers": ""
+    }
+  ],
+  "note": "",
+  "claims": {
+    "unctad-0412bdac40": "nothing: held as MDG-006",
+    "unctad-0b14459af6": "fact"
+  }
+}

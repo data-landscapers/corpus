@@ -1,0 +1,18 @@
+{
+  "slug": "2007-10-05-nga-nitda-act-2007",
+  "facts": [],
+  "systems": [
+    {
+      "system": "National Information Technology Development Agency Act 2007",
+      "country_label": "Nigeria",
+      "class": "other",
+      "platform": "",
+      "owner": "NITDA",
+      "tiers": ""
+    }
+  ],
+  "note": "Agency act; passages show no cybercrime provision.",
+  "claims": {
+    "aftech-29877a31d5": "nothing: an agency act, not a cybercrime or cybersecurity law"
+  }
+}

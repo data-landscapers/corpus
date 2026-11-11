@@ -1,0 +1,18 @@
+{
+  "slug": "2020-11-01-nga-nitda-ndpr-implementation-framework",
+  "facts": [],
+  "systems": [
+    {
+      "system": "Nigeria Data Protection Regulation 2019",
+      "country_label": "Nigeria",
+      "class": "other",
+      "platform": "",
+      "owner": "NITDA",
+      "tiers": ""
+    }
+  ],
+  "note": "Data protection document.",
+  "claims": {
+    "aftech-9b785321ab": "nothing: data protection regulation, not assessed"
+  }
+}
