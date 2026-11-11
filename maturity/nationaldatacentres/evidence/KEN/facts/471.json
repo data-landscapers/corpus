@@ -1,0 +1,15 @@
+{
+ "slug": "2024-06-01-ken-kippra-leveraging-digitalization-public-service-delivery",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Data Centre at Konza Technopolis",
+   "country_label": "National Data Centre",
+   "class": "datacentre",
+   "platform": "cloud-based, tier 3",
+   "owner": "Government of Kenya",
+   "tiers": "3"
+  }
+ ],
+ "note": "Not stated as for hire, and no government hosting in it stated."
+}

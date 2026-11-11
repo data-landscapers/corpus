@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-09-cloud-ai-chips-outside-africa",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "owner",
+   "value": "foreign",
+   "fact": "Newzroom dot Africa says Teraco, which runs the 110MW Isando campus in Johannesburg, is now owned by Digital Realty.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "Teraco Isando campus",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco Isando campus",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco (Digital Realty)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

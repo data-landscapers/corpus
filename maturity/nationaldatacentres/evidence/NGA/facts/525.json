@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-nigeria-hybrid-cloud-postcode-database",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "NIPOST, a federal agency, says its core postcode database is hosted in Nigeria by government-owned Galaxy Backbone.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Galaxy Backbone",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

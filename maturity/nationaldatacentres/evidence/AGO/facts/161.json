@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-ago-angola-apresenta-a-uit-projectos-de-fibra-optica-satelite-e",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "state",
+   "value": "hosted",
+   "fact": "The minister said the National Cloud, a unified government cloud, is supported by the government's data centres.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Cloud Nacional",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

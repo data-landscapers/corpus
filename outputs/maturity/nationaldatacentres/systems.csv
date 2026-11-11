@@ -316,6 +316,7 @@ ETH,Telecloud,ETH,datacentre,cloud hosting,Ethio Telecom (operator; ownership no
 ETH,National Cloud,ETH,other,"planned, 18-24 months out per the Prime Minister",Government of Ethiopia,,2026-05-19-eth-cioafrica-national-cloud-18-24-months
 ETH,Raxio ET1,Raxio Ethiopia ET1,datacentre,,Raxio Group,Tier III,2025-04-01-eth-raxio-et1-data-sheet-technical-specifications
 ETH,Telecloud,Ethiopia,datacentre,"192 racks, 8,064 servers",Ethio Telecom (state-owned),,2025-10-09-eth-us-based-cisco-eyes-ethiopia-market-warns-cloud-rules-limit-access
+ETH,National Cloud Data Center,Ethiopia,other,,Ministry of Innovation and Technology,,2026-11-10-ethiopia-presses-public-institutions-to-consolidate-infrastructure-und
 GAB,"ST Digital Gabon data centre, Nkok",Data Center national et souverain,datacentre,,ST Digital Gabon,,2026-07-08-gabon-sovereign-datacenter-technical-spec
 GAB,Gabon sovereign data centre,GAB,datacentre,,,Tier III,2026-07-08-gabon-sovereign-datacenter-technical-spec
 GAB,ST Digital Nkok data center,"first national data center, Nkok",datacentre,,ST Digital,Tier III,2026-07-07-gabon-datacenter-inauguration-figures
@@ -473,6 +474,7 @@ KEN,Konza Technopolis Tier 3 cloud data centre,Konza Technopolis cloud data cent
 KEN,KoTDA Data Centre cloud services,Kenya,datacentre,,Konza Technopolis Development Authority,,2025-09-12-ken-cs-kabogo-outlines-plans-to-accelerate-digital-transformation-and-cons
 KEN,Konza data centre,Kenya,other,,Konza Technopolis,,2025-06-12-ken-budget-cs-mbadi-reduces-allocation-for-ict-proposes-sh12-7bn
 KEN,Nxtra data centre (Airtel Kenya),Kenya,other,,Airtel Kenya,,2026-11-02-airtel-kenya-secures-100mhz-5g-spectrum
+KEN,National Data Centre at Konza Technopolis,National Data Centre,datacentre,"cloud-based, tier 3",Government of Kenya,3,2024-06-01-ken-kippra-leveraging-digitalization-public-service-delivery
 LBR,LIBTELCO data centre,LIBTELCO data centre,datacentre,,LIBTELCO,,2013-11-20-fahnbulleh-engineering-failure-of-libtelco
 LBR,CBL data centre (Virginia),,other,,Central Bank of Liberia,,2013-11-20-fahnbulleh-engineering-failure-of-libtelco
 LBR,NASSCorp data centre,,other,,NASSCorp,,2013-11-20-fahnbulleh-engineering-failure-of-libtelco
@@ -928,6 +930,7 @@ TZA,National AI Data Centre (Kituo cha Taifa cha Data za Akili Unde),TZA,other,,
 TZA,"Government data centre, Dodoma (planned)",TZA,other,,Government of Tanzania,,2026-04-30-kairuki-aomba-222-bilioni-bajeti-micit
 TZA,"Government data centre, Zanzibar (planned)",TZA,other,,Government of Tanzania,,2026-04-30-kairuki-aomba-222-bilioni-bajeti-micit
 TZA,National Data Centre,Kituo cha Taifa cha Data (National Data Centre),other,,TTCL,,2026-10-20-tza-ttcl-news
+TZA,Government Data Centre,Tanzania,other,,Government of Tanzania,,2024-03-01-tza-mawasiliano-completed-projects-nictbb-rcip
 UGA,Raxio Data Centre (Namanve),Raxio Data Centre,datacentre,,Raxio,,2026-03-02 ABQ Cloud launches Ugandan sovereign cloud ecosystem
 UGA,ABQ Cloud,ABQ Cloud,other,,ABQ Cloud,,2026-03-02 ABQ Cloud launches Ugandan sovereign cloud ecosystem
 UGA,Raxio Uganda data centre,Raxio,datacentre,,Raxio Group,,2026-07-15 Raxio data-centre capital tops $380m on investor boost
@@ -1164,6 +1167,7 @@ ZAF,"Hyperscaler regions (Google, Microsoft South Africa North/West, AWS Cape To
 ZAF,Teraco data centres,South Africa,datacentre,,Teraco,,2026-02-01-zaf-teraco-ct2-expands-cape-town-data-centre-capacity-now
 ZAF,Teraco data centres,South Africa,datacentre,,Teraco,,2025-03-12-zaf-water-scarcity-in-africa
 ZAF,Teraco data centres,Teraco,datacentre,colocation,Digital Realty,,2025-11-11-zaf-napafrica-and-teraco-acx-growing-africas-digital-community-as-napafric
+ZAF,Teraco Isando campus,South Africa,datacentre,,Teraco (Digital Realty),,2026-11-09-cloud-ai-chips-outside-africa
 ZMB,"Infratel production data centre, Lusaka",SMART Zambia data centres,datacentre,,Government of Zambia via Infratel,,2023-01-01-zambia-ict-infrastructure-vis-a-vis-fintech-growth-national-assembly
 ZMB,Netone data centre,Netone,datacentre,,Netone,,2023-01-01-zambia-ict-infrastructure-vis-a-vis-fintech-growth-national-assembly
 ZMB,Paratus data centre,Paratus,datacentre,,Paratus,,2023-01-01-zambia-ict-infrastructure-vis-a-vis-fintech-growth-national-assembly
