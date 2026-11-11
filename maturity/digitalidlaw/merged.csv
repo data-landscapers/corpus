@@ -1,4 +1,5 @@
 iso3,source_slug,read,merged_on
+AGO,2014-07-10-ago-decreto-presidencial-166-14-regulamento-partilha-infra-estruturas,,2026-11-11
 AGO,2017-01-16-nj-chineses-apoiam-angola-emissao-bi-registo-nascimento,,2026-10-19
 AGO,2017-08-31-angola-lei-20-17-alteracao-identificacao-civil-bi,,2026-10-19
 AGO,2021-01-25-angola-lei-3-21-alteracao-identificacao-civil,,2026-10-19
@@ -8,11 +9,13 @@ AGO,2026-10-26-ago-proposta-de-lei-da-identificacao-civil-e-criminal-e-discutida
 AGO,2026-10-27-ago-infosi-certifica-e-aprova-utilizacao-da-plataforma-angolaid,,2026-11-01
 AGO,2026-10-30-ago-deputados-aprovam-regras-sobre-registo-criminal-e-proteccao-de-dados-d,,2026-11-01
 AGO,2026-10-30-ago-proposta-de-lei-da-identificacao-civil-e-criminal-deputados-propoem-reforco-de-dado,,2026-11-02
+AGO,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 BDI,2024-07-10-bdi-vers-une-identification-sure-et-securisee,,2026-11-08
 BDI,2025-04-18-bdi-burundi-eco-digitalisation-services-publics,,2026-10-19
 BDI,2026-01-01-isoko-fichier-national-identification-carte-nationale-identite,,2026-10-19
 BDI,2026-06-05-ecofin-burundi-identification-cartes-sim-obligatoire,,2026-10-19
 BDI,2026-10-02-burundi-sim-registration-scams,,2026-10-19
+BDI,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 BEN,2021-01-06-loi-2020-34-etat-civil-dematerialise,,2026-10-19
 BEN,2023-11-09-ben-banouto-gouvernement-reponse-nomination-dg-anip,,2026-11-08
 BEN,2024-03-01-ben-les-reformes-de-l-etat-civil-facilitent-la-delivrance-des-actes-de-nai,,2026-10-27
@@ -45,6 +48,7 @@ BEN,2026-11-02-ben-wadagni-simplification-services-administratifs,,2026-11-04
 BEN,2026-11-03-ben-modernisation-des-services-d-identification-au-b-nin-l-anip-acc-l-re-s,,2026-11-05
 BEN,2026-11-03-benin-casier-judiciaire-instantane,,2026-11-04
 BEN,2026-11-06-ben-benin-8-millions-de-dollars-pour-renforcer-l-interconnexion-des-fichie,,2026-11-08
+BEN,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 BFA,2024-03-28-bfa-burkina-faso-le-ministere-de-la-transition-digitale-veut-poursuivre-la,,2026-11-11
 BFA,2024-10-11-loi-identification-unique-electronique-personne-physique-adoptee,,2026-10-19
 BFA,2024-10-14-bfa-identification-unique-electronique-de-la-personne-physique-les-deputes,,2026-11-04
@@ -87,6 +91,7 @@ CIV,2026-09-16-civ-id-day-2026-promesse-d-une-identite-legale-et-numerique-a-cha
 CIV,2026-10-09-civ-aip-artci-reseau-postal,,2026-10-19
 CIV,2026-10-27-civ-digitalisation-trois-outils-de-modernisation-de-letat-civil,,2026-11-01
 CIV,2026-10-29-etat-civil-le-cameroun-sinspire-de-la-cote-divoire-pour-interconnecter-ses,,2026-11-01
+CIV,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 CMR,2025-01-27-new-civil-registration-law-sdg-16-9-biometricupdate,,2026-10-19
 CMR,2025-02-28-cmr-decret-modifiant-et-completant-certaines-dispositions-du-decret-n2016,,2026-11-02
 CMR,2025-03-27 Digital Transformation of Civil Registration in Cameroon - e-Governance innovations (Law 2024-016),,2026-10-19
@@ -107,6 +112,7 @@ COD,2026-10-22-cod-rdc-serge-kaozi-lubamba-nomme-a-la-tete-des-missions-de-l-anc
 COD,2026-10-30-cod-rdc-le-senat-examine-une-reforme-du-code-du-numerique-prevoyant-de-lim,,2026-11-02
 COD,2026-11-02-cod-senat-examen-mercredi-des-amendements-sur-la-proposition-de-loi-modifi,,2026-11-05
 COD,2026-11-03-cod-cybers-curit-un-atelier-de-validation-de-sept-arr-t-s-lanc-kinshasa,,2026-11-05
+COD,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 COG,2024-11-21-decret-2024-2692-carte-nationale-identite-informatisee,,2026-10-19
 COG,2025-06-02-cog-le-projet-du-numero-d-identification-unique-niu-est-il-en-peril,,2026-11-08
 COG,2025-09-09-campagne-distribution-cni-niu-pointe-noire-ldb,,2026-10-19
@@ -136,8 +142,13 @@ DZA,2025-11-05 Algeria approves draft law on national digital ID and trust servi
 DZA,2025-11-10-digital-id-trust-services-draft-law--biometricupdate,,2026-10-19
 DZA,2025-12-01-projet-loi-services-confiance-numeriques-apn-elmoudjahid,,2026-10-19
 DZA,2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe,,2026-10-19
+DZA,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
+EGY,2013-02-18-egy-mcit-national-ict-strategy-2012-2017,,2026-11-11
+EGY,2018-11-01-egy-escc-national-cybersecurity-strategy-2017-2021,,2026-11-11
 EGY,2023-07-31-egypt-digital-id-checks-fintech-transactions,,2026-10-19
+EGY,2026-01-01-egy-mcit-ict-strategy-page-publications-en,,2026-11-11
 EGY,2026-04-19-egypt-child-national-id-biometric-registry-proposal-youm7,,2026-10-19
+EGY,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 ERI,1992-04-06-eritrea-nationality-proclamation-21-1992,,2026-10-19
 ERI,2024-09-24-eri-embassy-us-launch-caps-online-consular,,2026-10-19
 ERI,2024-10-17-eritrea-embassy-national-id,,2026-10-19
@@ -152,12 +163,15 @@ ETH,2025-12-10-nbe-banks-verifayda-2-migration,,2026-10-19
 ETH,2026-08-06-eth-what-is-faydaverse-the-ethiopian-national-id-program-that-became-a-com,,2026-11-08
 ETH,2026-09-16-eth-birrmetrics-cbe-fayda-id-bank-account-deadline,,2026-10-19
 ETH,2026-11-01-eth-faydaverse-expands-beyond-national-id-registration,,2026-11-07
+ETH,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
+GAB,2021-08-24-gab-decision-de-la-cour-constitutionnelle-sur-la-loi-n025-2021-portant-reg,,2026-11-11
 GAB,2025-06-23-gabon-legal-digital-id-three-projects,,2026-10-19
 GAB,2025-09-16-gabon-digital-identity-governance-milestone,,2026-10-19
 GHA,2018-05-29-ghana-nia-synopsis-national-identification-system-project,,2026-10-19
 GHA,2021-10-05-nia-about-us-mandate-act-707,,2026-10-19
 GHA,2021-10-05-nia-registration-of-citizens-in-ghana,,2026-10-19
 GHA,2023-11-05-nia-ghana-laws-and-regulations,,2026-10-19
+GHA,2024-10-01-gha-csa-national-cybersecurity-policy-and-strategy,,2026-11-11
 GHA,2024-10-08-gha-ghana-launches-citizenapp-to-facilitate-access-to-digital-govt-service,,2026-10-23
 GHA,"2025-05-12 Ghana's new National Identification Authority board to focus on public trust, inclusive service delivery",,2026-10-19
 GHA,2025-09-16-gha-ghana-brings-in-trust-stamp-to-build-tokenized-digital-id-infrastructu,,2026-10-23
@@ -169,6 +183,7 @@ GHA,2026-07-16-nia-li-2523-biometric-verification-press-release,,2026-10-19
 GHA,2026-07-22-ghana-nia-mandatory-biometric-verification-li-2523,,2026-10-19
 GHA,2026-08-19-myjoyonline-nia-revised-ghana-card-fees-parliament-approval,,2026-10-19
 GHA,2026-10-20-gha-nia-rolls-out-online-ghana-card-replacement-service-for-ghanaians-in-11-countrie,,2026-10-23
+GHA,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 GIN,2023-12-09-gin-guineenews-promulgation-loi-l2023-019-identification,,2026-11-01
 GIN,2025-03-24-gin-arrete-conjoint-a-2025-235-fixant-les-conditions-et-modalites-d-applic,,2026-11-09
 GIN,2025-04-01-gin-le-premier-ministre-receptionne-les-kits-d-enrolement-biometrique,,2026-11-04
@@ -191,10 +206,18 @@ GIN,2026-07-25-guinee-oneci-ng-tech-innovation-identification-etat-civil,,2026-1
 GIN,2026-08-11-guinea-etat-civil-decentralisation-npi,,2026-10-19
 GIN,2026-08-11-guinee-decentralisation-etat-civil-npi,,2026-10-19
 GIN,2026-09-18-gin-guinee114-atelier-extension-rnpp,,2026-10-19
+GMB,2001-12-24-gmb-pura-act-2001,,2026-11-11
+GMB,2008-08-01-gmb-the-gambian-ict4d-2012-plan,,2026-11-11
+GMB,2013-05-01-pura-gambia-guidelines-deployment-of-third-party-services,,2026-11-11
+GMB,2020-10-01-gmb-moici-ict-human-capital-development-strategy-2021-2024,,2026-11-11
+GMB,2020-10-01-gmb-moici-youth-women-development-empowerment-icts-strategy-2021-2024,,2026-11-11
+GMB,2021-05-01-gmb-moici-e-agriculture-development-modernization-strategy-2021-2024,,2026-11-11
+GMB,2024-01-01 Gambia National Digital Economy Master Plan 2024-2034,,2026-11-11
 GMB,2024-01-01 Gambia National Digital Identity Strategy (Strategy Report),,2026-10-19
 GMB,2024-05-17 Validation of The Gambia's National Digital ID and Digital Transformation Strategy,,2026-10-19
 GMB,2025-08-11-udp-alarm-unlawful-id-cards-abroad-thepoint,,2026-10-19
 GMB,2026-06-30-gmb-jollofnews-barrow-16-year-olds-national-id-legal-questions,,2026-11-02
+GMB,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 GNB,2022-09-27-wuri-maiden-regional-sensitisation-awareness-event,,2026-10-19
 GNB,2023-06-01 WURI Program - Unique Identifiers to Enable Access to Human Development Services (World Bank),,2026-10-19
 GNB,2025-01-13-gnb-ang-regime-juridico-informatizacao-registo-civil,,2026-10-19
@@ -210,8 +233,10 @@ GNQ,2025-04-17-gnq-justicia-anuncia-la-activacion-de-las-oficinas-del-registro-c
 GNQ,2025-11-19-osa-nsue-preside-nuevo-consejo-interministerial,,2026-10-19
 GNQ,2026-01-30-gnq-inicia-la-reforma-de-la-ley-del-registro-civil-y-de-la-ley-organica-de,,2026-10-19
 GNQ,2026-08-10-consejo-interministerial-nueva-codificacion-nif,,2026-10-19
+KEN,2005-08-10-ken-cck-guidelines-implementation-provision-voip-services,,2026-11-11
 KEN,2024-02-05-ken-kabata-niims-legal-regulatory-framework-data-policy,,2026-10-19
 KEN,2024-09-02-ken-state-revs-up-maisha-namba-digital-id-awareness-drive,,2026-11-01
+KEN,2025-01-01-kenya-national-ai-strategy-2025-2030-draft-for-public-validation,,2026-11-11
 KEN,2025-11-01-government-waives-national-identification-card-processing-charges,,2026-10-19
 KEN,2026-03-14-proof-of-existence,,2026-10-19
 KEN,2026-03-23-high-court-phone-numbers-digital-id-biometricupdate,,2026-10-19
@@ -223,6 +248,7 @@ KEN,2026-08-25-ken-mahakama-kuu-yapiga-breki-matumizi-ya-maisha-card,,2026-11-10
 KEN,2026-10-03-bungoma-id-registration-hampered-by-staff-vehicle,,2026-11-02
 KEN,2026-10-06-ken-kenyans-e-notification-birth-registration-sha-hospitals,,2026-10-19
 KEN,2026-11-06-ken-state-turns-to-chiefs-e-citizen-to-trace-owners-of-uncollected-ids,,2026-11-08
+KEN,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 LBR,2011-08-08-liberia-national-identification-registry-act-2011,,2026-10-19
 LBR,2026-04-29-executive-order-163-digital-government-ndmi-observer,,2026-10-19
 LBR,2026-07-17-lta-telecom-reforms-star-cell-revoked-fpa,,2026-10-19
@@ -230,12 +256,14 @@ LBR,2026-08-05-liberia-ppcc-ict-equipment-egp-phase-two,,2026-10-19
 LBR,2026-09-21-lbr-newdawn-koung-seeks-release-ai-image-suspect,,2026-10-19
 LBR,2026-09-23-lbr-fpa-cdc-cybercrime-law-supreme-court,,2026-10-19
 LBY,2014-03-24-qanun-8-lisanat-2014-bishan-alraqm-alwatani,,2026-10-19
+LBY,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 LSO,2011-03-21-lesotho-national-identity-cards-act-2011,,2026-10-19
 LSO,2023-11-23-lca-final-call-for-sim-registration,,2026-10-19
 LSO,2024-10-16-lso-publiceye-iec-re-registration-national-id,,2026-10-19
 LSO,2024-10-31-lso-bid-to-make-ids-valid-for-life,,2026-11-01
 LSO,2026-06-04-lesotho-senate-hansard-electoral-amendment-bill,,2026-10-19
 LSO,2026-06-29-lesotho-home-affairs-digital-id-modernization,,2026-10-19
+LSO,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 MAR,2021-01-07-maroc-loi-72-18-ciblage-appui-social-agence-nationale-registres,,2026-10-19
 MAR,2024-01-16-mar-administration-numerique-170-000-operations-rsu-sont-enregistrees-quot,,2026-11-01
 MDG,2024-02-27-mdg-2424mg-justice-site-doleances,,2026-10-19
@@ -258,6 +286,8 @@ MLI,2025-07-29-mli-identification-des-abonnes-telephoniques-l-amrtp-renforce-les
 MLI,2025-08-28-mli-mali-le-gouvernement-suspend-les-salaires-de-36-151-agents-publics-apr,,2026-11-08
 MLI,2026-02-12-maliweb-justice-casier-nationalite-en-ligne,,2026-10-19
 MLI,2026-10-06-mli-fichier-electoral-l-heure-du-grand-nettoyage,,2026-11-04
+MLI,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
+MOZ,2019-07-03-moz-decreto-59-2019-regulamento-sistema-certificacao-digital-scdm,,2026-11-11
 MOZ,2022-03-16-moz-parlamento-ar-aprova-lei-identificacao-civil,,2026-10-19
 MOZ,2023-03-01-dnic-civil-identification-system,,2026-10-19
 MOZ,2025-05-27-moz-ict-legal-and-regulatory-framework-for-the-development-of-digital-iden,,2026-11-01
@@ -265,10 +295,14 @@ MOZ,2026-05-25-tender-mobile-digital-identity-signature-clubofmozambique,,2026-1
 MOZ,2026-05-26-seeks-partner-mobile-digital-id-esignature-biometricupdate,,2026-10-19
 MOZ,2026-08-25-mozambique-tablu-tech-digital-trust-biometricupdate,,2026-10-19
 MOZ,2026-09-28-moz-biometricupdate-citizen-portal-digital-id-shortlist,,2026-10-19
+MOZ,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 MRT,2024-01-17-mrt-au-conseil-des-ministres-projets-de-decret-permettant-la-delivrance-de,,2026-11-02
+MRT,2024-07-01-strategie-nationale-intelligence-artificielle-ar,,2026-11-11
 MRT,2025-01-01-mrt-systeme-d-identification-biometrique-des-assures-lors-de-leurs-acces-a,,2026-11-10
 MRT,2025-01-30-mrt-etat-civil-le-ministere-adopte-plus-de-verrous-pour-la-mauritanite,,2026-10-23
 MRT,2025-02-24-mauritanie-loi-2025-011-modifiant-code-etat-civil-actes-numeriques,,2026-10-19
+MRT,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
+MUS,2003-07-30-mus-computer-misuse-and-cybercrime-act-2003,,2026-11-11
 MUS,2024-02-16-national-identity-card-regulations-2024,,2026-10-19
 MUS,2024-02-19-mauritius-national-identity-card-unit,,2026-10-19
 MUS,2025-03-24-icta-mauritius-telecommunication-directive-1-of-2025,,2026-11-09
@@ -280,6 +314,7 @@ MUS,2026-10-08-mus-lexpress-atelier-maurice-meta-derives-numerique,,2026-10-19
 MUS,2026-10-13-mus-etat-civil-nouveau-format-pour-les-actes-de-naissance-de-mariage-et-de,,2026-10-27
 MUS,2026-10-29-mus-lexpress-pq-reseaux-sociaux-nouveau-cadre-contre-les-abus,,2026-11-01
 MUS,2026-11-07-mus-pas-de-censure-des-reseaux-sociaux-jure-l-etat-qui-revoit-la-loi,,2026-11-09
+MUS,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 MWI,2024-07-17-mwi-nation-nrb-under-scrutiny,,2026-10-19
 MWI,2025-01-01-mwi-building-legal-identity-from-birth-good-practices-and-digital-innovati,,2026-10-27
 MWI,2025-01-01-mwi-malawi-financial-sector-use-of-national-digital-identity,,2026-10-23
@@ -298,6 +333,7 @@ NAM,2026-09-07-namibia-eta-2019-accreditation-security-products-regulations,,202
 NAM,2026-09-10-namibiansun-5700-grant-beneficiaries-locked-out-payment-system,,2026-11-08
 NAM,2026-10-06-nam-economist-parliament-briefed-e-id,,2026-11-05
 NAM,2026-11-04-nam-cabinet-briefs,,2026-11-05
+NAM,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 NER,2019-07-01-niger-loi-2019-29-regime-etat-civil,,2026-10-19
 NER,2026-03-10-ner-lesahel-sg-interieur-visite-cni-passeports,,2026-10-19
 NER,2026-04-22-gouv-conseil-ministres-etat-civil-anei,,2026-10-19
@@ -312,6 +348,8 @@ NER,2026-08-28-anp-agadez-atelier-reformes-etat-civil-identification,,2026-10-19
 NER,2026-08-29-niger-agadez-reformes-etat-civil-identification,,2026-10-19
 NER,2026-09-03-niger-diffa-tour-etat-civil-anei-rnp,,2026-10-19
 NER,2026-09-15-ner-journalduniger-cnib-aes-agadez-enrolement,,2026-10-19
+NGA,2021-05-01-nga-revised-national-identity-policy-sim-card-registration,,2026-11-11
+NGA,2023-10-01-nga-fmcide-strategic-blueprint-2023-2027,,2026-11-11
 NGA,2024-02-28-nga-cybercrimes-prohibition-prevention-etc-amendment-act-2024,,2026-11-01
 NGA,2024-07-29 Nigeria undertakes reforms to strengthen national digital ID legal framework,,2026-10-19
 NGA,2025-03-26-nga-senate-passes-nat-l-identity-mgt-commission-repeal-re-enactment-bill,,2026-11-01
@@ -348,7 +386,11 @@ NGA,2026-10-27-nga-ncc-nitda-agf-national-assembly-demand-stronger-cybersecurity
 NGA,2026-11-02-nga-banks-fintechs-face-n1bn-fine-for-exporting-payment-data-under-new-bill,,2026-11-05
 NGA,2026-11-04-nga-nin-fraud-arrests-data-scandal-renew-security-concerns,,2026-11-05
 NGA,2026-11-06-nigeria-is-rewriting-its-cyber-laws,,2026-11-09
+NGA,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
+RWA,2015-10-01-rwa-smart-rwanda-2020-master-plan,,2026-11-11
+RWA,2019-06-01-rwa-minict-child-online-protection-policy,,2026-11-11
 RWA,2024-06-01-rwa-legal-reforms-adapted-to-tech-changes-data-safeguards-vital-for-expand,,2026-11-08
+RWA,2024-09-22-xgl-digital-foss-ai-playbook-for-small-states,,2026-11-11
 RWA,2025-08-08 Rwanda National Identification Agency begins digital ID enrollment,,2026-10-19
 RWA,2025-10-27-rwa-civicus-ingabire-cybercrime-ruling,,2026-10-19
 RWA,2026-03-16 Digital IDs How registration is progressing so far,,2026-10-19
@@ -356,12 +398,15 @@ RWA,2026-03-26-govt-sets-2027-deadline-digital-id-newtimes,,2026-10-19
 SDN,2011-01-01-sudan-civil-registry-act-2011,,2026-10-19
 SDN,2026-02-16-sdn-national-id-card-resumes-in-safe-states,,2026-11-01
 SDN,2026-05-21-sudan-sudapass-terms-and-conditions,,2026-10-19
+SDN,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
+SEN,2023-01-01-sen-mcten-strategie-nationale-ia-2028-version-resumee,,2026-11-11
 SEN,2025-08-01-anec-senegal-digitalisation-etat-civil-aliou-sall,,2026-10-19
 SEN,2026-06-29-aps-nekkal-avancees-modernisation-etat-civil,,2026-10-19
 SEN,2026-09-24-sen-seneweb-biometric-id-cards-validity-extension,,2026-10-19
 SEN,2026-09-29-sen-senegaldirect-cartes-identite-prorogation-exceptionnelle,,2026-10-19
 SEN,2026-09-29-sen-senego-projet-loi-carte-identite-retourne-commission,,2026-10-19
 SEN,2026-09-30-sen-vipeoples-passports-id-cards-national-expertise,,2026-10-19
+SEN,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 SLE,2025-11-19-sierra-leone-ncra-validation-civil-registration-and-identification-bill,,2026-10-19
 SLE,2026-07-30-natca-phase-out-unregistered-sims-link-national-id,,2026-10-19
 SLE,2026-08-05-government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud,,2026-10-19
@@ -387,6 +432,7 @@ SWZ,2026-09-10-times-eswatini-immigration-bill-vetting-system,,2026-10-19
 SWZ,2026-09-16-swz-network-blackout-home-affairs-eptc,,2026-10-19
 SWZ,2026-09-23-swz-independentnews-cat-matlala-eswatini-id-saga,,2026-10-19
 SWZ,2026-10-19-swz-senators-back-e5m-fines-10-year-jail-terms-for-critical-infrastructure,,2026-10-23
+SWZ,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 SYC,2023-11-08-seychelles-miscellaneous-amendments-act-2023,,2026-10-19
 TCD,2025-04-30-tcd-tchad-securite-larcep-sonnera-lalerte-sur-lappartenance-des-cartes-sim,,2026-11-01
 TCD,2025-05-01-tcd-id4africa-anats-identite-juridique-etat-civil,,2026-10-19
@@ -403,6 +449,7 @@ TCD,2026-07-24-tchad-un-enfant-un-acte-de-naissance-enregistrer-un-million-denfa
 TCD,2026-08-10-tcd-atpe-etat-civil-reformes-enfants-non-enregistres,,2026-10-19
 TCD,2026-09-11-tcd-lendjampost-code-travail-plateformes-algorithmes,,2026-10-19
 TCD,2026-10-29-tcd-conseil-des-ministres-fonction-publique-justice-et-transports-au-menu,,2026-11-05
+TCD,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 TGO,2022-06-16-togo-loi-modification-2020-009-identification-biometrique,,2026-10-19
 TGO,2022-06-24-togo-loi-2022-010-identification-biometrique-jo,,2026-10-19
 TGO,2022-09-09-togo-decret-2022-094-niu-modalites-inscription,,2026-10-19
@@ -414,14 +461,19 @@ TGO,2026-08-24-togo-civil-registration-law-review-togofirst,,2026-10-19
 TGO,2026-09-15-tgo-levisionnaire-matglac-etat-civil-reforme-cadre-juridique,,2026-10-19
 TGO,2026-10-16-tgo-atop-anid-kozah-comites-gestion-plaintes-wuri,,2026-10-19
 TGO,2026-10-23-tgo-identification-biometrique-au-togo-1-18-million-de-cartes-attendent-en,,2026-11-07
+TGO,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
+TUN,2020-01-01-national-cyberspace-strategy-2020-2025,,2026-11-11
 TUN,2024-03-07 Eight years in the making - Tunisia's Biometric ID and Passport Bills risk rights,,2026-10-19
 TUN,2024-03-11-loi-organique-2024-22-carte-identite-nationale,,2026-10-19
+TUN,2024-04-01 Londa 2023 Digital Rights and Inclusion in Africa - Tunisia (Paradigm Initiative),,2026-11-11
 TUN,2024-04-23 Tunisia - Biometric ID card and passport usage to begin in H1 2025,,2026-10-19
 TUN,2024-04-23 Tunisia to Get Biometric IDs in H1 of 2025,,2026-10-19
 TUN,2024-10-29-tun-kedma-biometric-id-passport-70-percent-launch-h2-2025,,2026-11-08
 TUN,2025-12-13-tun-la-date-de-lancement-de-la-carte-d-identite-et-du-passeport-biometriqu,,2026-11-09
+TUN,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 TZA,1986-01-01-registration-and-identification-of-persons-act,,2026-10-19
 TZA,2023-11-23-tza-fsdt-universal-id-financial-inclusion,,2026-11-11
+TZA,2024-01-01-tanzania-digital-economy-strategic-framework,,2026-11-11
 TZA,2024-06-01-rwa-legal-reforms-adapted-to-tech-changes-data-safeguards-vital-for-expand,,2026-11-08
 TZA,2025-05-01-tza-nida-id4africa-digital-identity,,2026-10-19
 TZA,2026-01-04 Tanzania rolls out infant registration for stronger citizen ID,,2026-10-19
@@ -431,6 +483,9 @@ TZA,2026-02-25-tza-nida-kubadili-muundo-vitambulisho-vya-taifa,,2026-11-10
 TZA,2026-08-19-minister-katambi-nida-immigration-report-parliament,,2026-10-19
 TZA,2026-10-12-tza-6-308-nida-cards-remain-uncollected-in-zanzibar,,2026-10-19
 TZA,2026-10-22-tza-nida-produces-23-718-060-identification-numbers-21-526-594-national-identit,,2026-10-27
+TZA,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
+UGA,2011-03-18-uga-electronic-signatures-act-2011,,2026-11-11
+UGA,2013-01-18-uga-uganda-communications-act-2013,,2026-11-11
 UGA,2015-03-26-registration-of-persons-act-2015,,2026-10-19
 UGA,2024-03-27-uga-bill-no-39-registration-of-persons-amendment-bill-2024,,2026-10-23
 UGA,2024-04-01-uga-report-of-the-committee-on-defence-and-internal-affairs-on-the-registr,,2026-10-23
@@ -449,6 +504,8 @@ UGA,2026-08-20-parliament-uganda-new-id-system-questions-digital-verification,,2
 UGA,2026-10-13-uga-ucc-press-release-illegal-wifi-hotspots,,2026-11-01
 UGA,2026-10-16-uga-monitor-uganda-champions-au-single-digital-market,,2026-10-19
 UGA,2026-10-26-uga-kacita-ucc-agree-to-form-committee-on-unlicensed-internet-resellers,,2026-11-01
+ZAF,2000-05-05-independent-communications-authority-of-south-africa-act-icasa,,2026-11-11
+ZAF,2012-04-13-zaf-doc-ict-policy-colloquium-discussion-document,,2026-11-11
 ZAF,2025-03-24-zaf-home-affairs-upgrades-critical-digital-verification-system,,2026-10-23
 ZAF,2025-05-21-zaf-dha-identity-regulatory-framework-id4africa-2025,,2026-11-01
 ZAF,2025-06-23-identification-regulations-fourteenth-amendment-gazette-52893,,2026-10-19
@@ -470,11 +527,17 @@ ZAF,2026-10-26-zaf-home-affairs-one-million-smart-ids,,2026-10-27
 ZAF,2026-10-26-zaf-minister-hails-home-affairs-home-milestone,,2026-10-27
 ZAF,2026-10-26-zaf-smart-id-delays-exclusion,,2026-10-27
 ZAF,2026-10-29-zaf-icasa-publishes-draft-numbering-plan-fifth-amendment-regulations-2026,,2026-11-01
+ZAF,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
+ZMB,2018-07-31-zmb-ictaz-act-7-of-2018,,2026-11-11
 ZMB,2019-01-01-zambia-national-registration-regulations-2019,,2026-10-19
+ZMB,2021-01-27-zmb-misa-national-cyber-security-policy-approved,,2026-11-11
+ZMB,2021-03-24-zambia-data-protection-act-2021,,2026-11-11
+ZMB,2024-01-01-national-ai-strategy-2024-2026,,2026-11-11
 ZMB,2024-08-28-zmb-zambia-gets-100m-world-bank-grant-and-mosip-boost-for-digital-identity,,2026-10-23
 ZMB,2025-01-21-zmb-zambia-issues-general-procurement-notice-for-digital-id-trust-services,,2026-10-23
 ZMB,2025-08-29-zambia-monitor-digitalisation-identity-services,,2026-10-19
 ZMB,2025-12-31-zambia-citizenship-amendment-regulations-2025,,2026-10-19
+ZMB,2026-11-10-africa-technology-policy-tracker-2026-11-10,,2026-11-11
 ZWE,2016-12-31-national-registration-act,,2026-10-19
 ZWE,2016-12-31-zwe-national-registration-act-chapter-10-17,,2026-10-19
 ZWE,2024-01-01-si-2024-010-national-registration-fees-amendment,,2026-10-19

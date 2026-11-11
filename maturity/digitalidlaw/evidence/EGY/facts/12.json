@@ -1,0 +1,11 @@
+{
+  "slug": "2018-11-01-egy-escc-national-cybersecurity-strategy-2017-2021",
+  "facts": [],
+  "systems": [
+    {"system": "National ID database", "country_label": "Egypt", "class": "other", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "The cybersecurity strategy names the national ID database as a critical government database and plans a legislative framework for digital identity protection; it states no identity law or bill.",
+  "claims": {
+    "aftech-855200524c": "nothing: cybersecurity strategy, not a law"
+  }
+}

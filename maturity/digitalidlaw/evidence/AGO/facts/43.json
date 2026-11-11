@@ -1,0 +1,18 @@
+{
+  "slug": "2026-11-10-africa-technology-policy-tracker-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "Carnegie's tracker lines name no national identity law; the Angolan identity law is held in evidence.csv from its own text.",
+  "claims": {
+    "aftech-5713bf388d": "nothing: access to information law, not identity law",
+    "aftech-677efc9f55": "nothing: data protection law, not identity law",
+    "aftech-73de885146": "nothing: electronic communications law, not identity law",
+    "aftech-60efc36811": "nothing: information society regulation, not identity law",
+    "aftech-a6dcdfd308": "nothing: network protection law, not identity law",
+    "aftech-3c03315a3b": "nothing: interoperability plan, not a law",
+    "aftech-5f6c390b58": "nothing: treaty resolution on cybersecurity and data protection, not identity law",
+    "aftech-9f02d2af47": "nothing: mobile phone subscriber registration, not assessed",
+    "aftech-1a0bc98aae": "nothing: video surveillance law, not identity law",
+    "aftech-cdedc14ad6": "nothing: treaty ratification letter, not identity law"
+  }
+}
