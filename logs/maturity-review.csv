@@ -82,7 +82,7 @@ metsatellite,metsat,data.geospatial--meteorological-use-of-satellite-data,2026-1
 mobileaffordability,price,infra.connect--mobile-affordability,2026-11-11,14,86,48
 mobilepenetration,ownership,infra.connect--mobile-penetration,2026-11-11,15,62,11
 nationaldatacentres,national,infra.store--local-data-centre-capacity-national-providers,2026-11-11,15,92,105
-nonstatefinance,private,finance.new--mobilisation-of-non-state-finance,,,,
+nonstatefinance,private,finance.new--mobilisation-of-non-state-finance,2026-11-11,,,
 offsitebackup,backup,infra.store--off-site-backup-capacity,,,,
 opendatapolicy,policy,gov.policy--open-data-policy,,,,
 opendatause,use,data.open--use-of-open-data,,,,

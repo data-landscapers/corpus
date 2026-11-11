@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "private",
+ "aspect": "money",
+ "fact": "The national financial inclusion strategy 2025-2030 states that the private equity and venture capital market in Comoros is practically nonexistent, limiting private investment financing.",
+ "title": "Stratégie Nationale d'Inclusion Financière 2025-2030",
+ "publisher": "Banque centrale des Comores",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

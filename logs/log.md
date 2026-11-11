@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-11 17:33 · **REBUILD** · 21m · nonstatefinance private: 1 cell reassessed, 1 moved (ZWE unplaced->2, Econet InfraCo 2026 capex now within the as-at); 54 searched, 170 staged (UGA levy and no-amount picks deselected); ~85M tokens - ok
 2026-11-11 17:12 · **REBUILD** · 15m · nationaldatacentres national: 0 cells reassessed, 0 moved (recount differs only on MAR and TUN, hand-restaged to 5 with reasons; kept); 54 searched, 105 staged; ~92M tokens - ok
 2026-11-11 16:57 · **REBUILD** · 11m · mobilepenetration ownership: 0 cells reassessed, 0 moved (recounted, no change); 54 searched, 11 staged; ~62M tokens. Held but not in evidence: ZMB 2025 ICT survey 58.9% of 10+ (would set 2) - ok
 2026-11-11 16:45 · **REBUILD** · 14m · mobileaffordability price: 0 cells reassessed, 0 moved (recounted at today's date, no change); 54 searched, 48 staged; ~86M tokens - ok
