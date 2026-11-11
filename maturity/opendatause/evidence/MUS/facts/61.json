@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-01-mus-cib-list-of-operational-systems",
+ "facts": [
+  {
+   "sub_indicator": "use",
+   "aspect": "access",
+   "value": "published",
+   "fact": "The Central Informatics Bureau's list names a 'National Open Data Portal' of the Ministry of Information Technology, Communication and Innovation among operational systems.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "National Open Data Portal",
+   "class": "open"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National Open Data Portal",
+   "country_label": "Mauritius",
+   "class": "open",
+   "platform": "",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
