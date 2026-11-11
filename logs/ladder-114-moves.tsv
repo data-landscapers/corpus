@@ -54,9 +54,9 @@ coresystems	RWA	core	5	2	restaged 5 on RWA-006 (by hand)	2026-11-11
 coresystems	SEN	core	4	unplaced	restaged 4 on SEN-005, SEN-006 (by hand)	2026-11-11
 coresystems	TGO	core	5	2	tax answered on TGO-006; payroll gap confirmed; asked notes-for-osint 316	2026-11-11
 coresystems	UGA	core	5	unplaced	restaged 5 on UGA-005 to UGA-008 (by hand)	2026-11-11
-crossborderpayments	BDI	crossborder	4	2		
-crossborderpayments	GNB	crossborder	4	unplaced		
-crossborderpayments	SYC	crossborder	4	2		
+crossborderpayments	BDI	crossborder	4	2	gap confirmed; asked notes-for-osint 331	2026-11-11
+crossborderpayments	GNB	crossborder	4	unplaced	gap confirmed; asked notes-for-osint 331	2026-11-11
+crossborderpayments	SYC	crossborder	4	2	gap confirmed; asked notes-for-osint 331	2026-11-11
 customs	BDI	customs	5	2	restaged 5 on BDI-004 (by hand)	2026-11-11
 customs	GHA	customs	5	3	gap confirmed; asked notes-for-osint 318	2026-11-11
 customs	LBR	customs	5	3	gap confirmed; asked notes-for-osint 318	2026-11-11
@@ -94,9 +94,9 @@ educationexchange	MAR	exchange	5	unplaced	gap confirmed; asked notes-for-osint 3
 educationexchange	MRT	exchange	5	unplaced	gap confirmed; asked notes-for-osint 325	2026-11-11
 educationexchange	SOM	exchange	5	3	gap confirmed; asked notes-for-osint 325	2026-11-11
 educationexchange	SWZ	exchange	5	unplaced	gap confirmed; asked notes-for-osint 325	2026-11-11
-educationmis	GIN	emis	4	2		
-educationmis	MWI	emis	4	2		
-educationmis	TZA	emis	4	2		
+educationmis	GIN	emis	4	2	gap confirmed; asked notes-for-osint 331	2026-11-11
+educationmis	MWI	emis	4	2	restaged 4 on MWI-003 (by hand)	2026-11-11
+educationmis	TZA	emis	4	2	restaged 5 on TZA-004, TZA-005 (by hand)	2026-11-11
 egovservices	BEN	eservices	5	3	restaged 5 on BEN-023 (by hand)	2026-11-11
 egovservices	COG	eservices	4	2	gap confirmed; asked notes-for-osint 317	2026-11-11
 egovservices	RWA	eservices	5	3	restaged 5 on RWA-011, RWA-012 (by hand)	2026-11-11
@@ -158,9 +158,9 @@ populationregister	NAM	population	5	3	restaged 5 on NAM-011	2026-11-10
 populationregister	TCD	population	5	3	restaged 5 on TCD-004	2026-11-10
 populationregister	ZWE	population	5	3	gap confirmed; asked notes-for-osint 308	2026-11-10
 publicconsultation	TCD	consultation	4	2		
-refugees	GHA	displaced	4	2		
-refugees	KEN	displaced	4	2		
-refugees	RWA	displaced	4	2		
+refugees	GHA	displaced	4	2	gap confirmed; asked notes-for-osint 331	2026-11-11
+refugees	KEN	displaced	4	2	gap confirmed; asked notes-for-osint 331	2026-11-11
+refugees	RWA	displaced	4	2	gap confirmed; asked notes-for-osint 331	2026-11-11
 regionalpolicy	MUS	cooperation	4	2		
 retailpayments	NAM	retail	4	2		
 socialexchange	BFA	exchange	4	2	gap confirmed; asked notes-for-osint 327	2026-11-11

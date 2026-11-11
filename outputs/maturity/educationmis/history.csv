@@ -75,3 +75,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,GIN,dpi.mis--education,ladder,4,2,GIN-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
 2026-11-09,MWI,dpi.mis--education,ladder,4,2,MWI-002,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
 2026-11-09,TZA,dpi.mis--education,ladder,4,2,TZA-003,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
+2026-11-11,MWI,dpi.mis--education,ladder,2,4,MWI-003;MWI-001,"Restaged under message 114 (housekeeping 57): the 2023/24 Education Statistics Report comes from the Annual School Census through the EMIS; with learner numbers in the EMIS, 2 to 4."
+2026-11-11,TZA,dpi.mis--education,ladder,2,5,TZA-004;TZA-003;TZA-005,"Restaged under message 114 (housekeeping 57): PO-RALG published Basic Education Statistics 2025, and its School Information System shares learner data with NECTA; 2 to 5."

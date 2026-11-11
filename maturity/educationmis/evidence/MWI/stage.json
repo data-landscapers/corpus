@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "emis",
-      "stage": "2",
+      "stage": "4",
       "system": "inservice",
       "learners": "individual",
       "linked": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MWI-002",
-      "gaps": "No source found since October 2023 says the ministry collected or published an annual school census or education statistics through its education information system.",
-      "note": "Restaged 2026-11-09 on Bill's ruling (message 114), each step met on its own evidence: no source says the school census runs through the EMIS; Learner Identification Numbers in the May 2026 brief cannot stand in for it.",
-      "as_at": "2026-11-09"
+      "stage_sources": "MWI-003;MWI-001",
+      "gaps": "No source found since October 2023 says learner records are linked to the national ID or birth registration number, or exchange data with another government system.",
+      "note": "Restaged by hand 2026-11-11 (housekeeping 57): the 2023/24 Education Statistics Report comes from the Annual School Census through the EMIS (MWI-003), and the EMIS tracks learners by identification number (MWI-001); no link to the ID or another system is held, so 4.",
+      "as_at": "2026-11-11"
     }
   ]
 }

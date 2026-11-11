@@ -20,10 +20,10 @@ The AU Digital Education Strategy asks for education management information syst
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
-| 4 Operating | 4 |
+| 5 Leading | 4 |
+| 4 Operating | 5 |
 | 3 Established | 17 |
-| 2 Nascent | 22 |
+| 2 Nascent | 20 |
 | 1 Absent | 0 |
 | Unplaced | 5 |
 | No evidence | 3 |
@@ -44,6 +44,14 @@ Massar gives each pupil a digital identifier and draws on the civil status regis
 - The ministry's circular says Massar enrolment services can download data from the civil status register, using digital identity ([source, 2024-04-23](https://ar.hibapress.com/details-517593.html)).
 - Morocco's education ministry launched the 2025-2026 annual school census, running from 20 October to 20 November 2025, with updates to the Massar system as the main reference from which most statistical data come, per a ministry letter reported by Express TV ([source, 2025-10-20](https://fr.expresstv.ma/2025/10/le-ministere-de-leducation-nationale-lance-le-recensement-scolaire-annuel-pour-lannee-scolaire-2025-2026/)).
 
+### Tanzania: 5 Leading
+
+Tanzania publishes yearly education statistics, and its school information system keys learners by number and shares data with the exams council.
+
+- The National Bureau of Statistics' 2025 Statistical Abstract draws its school enrolment tables from PO-RALG's Basic Education Statistics in Tanzania (BEST) 2025, the annual education data publication ([source, 2025](https://www.nbs.go.tz/uploads/statistics/documents/en-1790933026-Statistical%20Abstract%202025.pdf)).
+- PO-RALG's privacy policy says SIS data is shared with education authorities such as NECTA and MOEST, and keys each student by a Personal Registration Number (PREM) ([source, 2025-07-14](https://sis.tamisemi.go.tz/privacy-policy)).
+- PO-RALG's School Information System privacy policy says learner data, keyed by each student's Personal Registration Number, is shared with NECTA, the examinations council, and the education ministry ([source, 2025-07-14](https://sis.tamisemi.go.tz/privacy-policy)).
+
 ### Uganda: 5 Leading
 
 Learner records were linked to the national ID or another government system in 2026.
@@ -61,6 +69,13 @@ The education information system held a record for each learner in 2025; a link 
 The education information system held a record for each learner in 2026; a link to the national ID is not on record.
 
 - The Ministry of Education KEMIS Secretariat circular says KEMIS holds learner records marked Valid or Invalid by an operational Learner Validation Engine and generates a Unique Learner Identifier (ULI) for learners in schools ([source, 2026-08-17](https://arena.co.ke/ministry-circular-guidance-on-learner-validation-in-kemis/)).
+
+### Malawi: 4 Operating
+
+Malawi's EMIS produced the 2023/24 school census and tracks learners by number; no link to the national ID is known.
+
+- The education ministry's Malawi Education Statistics Report 2023/24, an EMIS product of the 2023/24 Annual School Census, counts 5,420,159 primary pupils and 538,800 secondary students ([source, 2024](https://cms.nsomalawi.mw/api/download/400/ASC-Report-2024.pdf)).
+- The Unlocking Data Initiative policy brief says cohort tracking within the EMIS generates longitudinal learner-level data through Learner Identification Numbers assigned to pupils on entry to school, though the data has rarely been analysed since 2012 ([source, 2026-05](https://www.gpekix.org/sites/default/files/2026-07/Saddick%20et%20al.%20-%202026%20-%20From%20Data%20Collection%20to%20Data%20Use%20Strengthening%20decision-making%20at%20subnational%20levels%20in%20Malawi.pdf)).
 
 ### Rwanda: 4 Operating
 
@@ -274,12 +289,6 @@ An education information system was under way in 2024; a school census run throu
 
 - Madagascar's authorities launched at a 15-17 July 2024 workshop in Toamasina the digitisation of schools, starting in Atsinanana, covering data collection and a pupil register, with the education ministry planning extension to other regions ([source, 2024-07-15](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/madagascar-met-ses-ecoles-au-numerique)).
 
-### Malawi: 2 Nascent
-
-Malawi's education ministry was building a more connected education information system in 2026; a school census run through it is not known.
-
-- Malawi's Ministry of Education says it is moving from fragmented reporting towards a more connected EMIS and has developed a five-pillar EMIS governance framework including a national data warehouse ([source, 2026-10-14](https://unlockingdata.africa/2026/10/29/how-can-education-systems-build-education-data-systems-that-enable-better-decisions/)).
-
 ### Mauritius: 2 Nascent
 
 A secondary-school education information system was piloted in 2025; a school census run through a national system is not on record.
@@ -310,12 +319,6 @@ An education information system was under way in 2026; a school census run throu
 
 - UNESCO states it handed IT equipment (30 tablets, two desktops, routers and other gear) to the Red Sea State Ministry of Education on 12 May 2026 to support implementation of the Education Management and Information System Pilot Project (EMIS) ([source, 2026-05-12](https://www.unesco.org/en/articles/strengthening-education-red-sea-state-through-digital-transformation)).
 - UNESCO states that, funded by the Global Partnership for Education, it handed over Education Management and Information System (EMIS) and Monitoring and Evaluation hardware to Sudan's Ministry of Education, reported 26 April 2026 ([source, 2026-04-26](https://www.unesco.org/en/articles/sudan-advances-education-reform-ministry-declares-2026-year-tvet)).
-
-### Tanzania: 2 Nascent
-
-Tanzania's school information system held each learner by a registration number in 2025; a school census run through it is not known.
-
-- PO-RALG's privacy policy says SIS data is shared with education authorities such as NECTA and MOEST, and keys each student by a Personal Registration Number (PREM) ([source, 2025-07-14](https://sis.tamisemi.go.tz/privacy-policy)).
 
 ### Zambia: 2 Nascent
 
