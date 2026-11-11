@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-09-ipris-tenth-cohort",
+ "facts": [
+  {
+   "sub_indicator": "accessibility",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "iPRIS reports that the Tanzania Communications Regulatory Authority (TCRA) has an ongoing initiative integrating assistive technologies to make its website accessible, reported 80 per cent complete in October 2026.",
+   "as_of": "2026-10",
+   "date_precision": "month",
+   "system": "TCRA website accessibility initiative",
+   "class": "accessibility"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
