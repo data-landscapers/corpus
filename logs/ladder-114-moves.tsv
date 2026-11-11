@@ -163,10 +163,10 @@ refugees	KEN	displaced	4	2
 refugees	RWA	displaced	4	2		
 regionalpolicy	MUS	cooperation	4	2		
 retailpayments	NAM	retail	4	2		
-socialexchange	BFA	exchange	4	2		
-socialexchange	BWA	exchange	4	unplaced		
-socialexchange	CPV	exchange	4	unplaced		
-socialexchange	GMB	exchange	4	2		
+socialexchange	BFA	exchange	4	2	gap confirmed; asked notes-for-osint 327	2026-11-11
+socialexchange	BWA	exchange	4	unplaced	gap confirmed; asked notes-for-osint 327	2026-11-11
+socialexchange	CPV	exchange	4	unplaced	gap confirmed; asked notes-for-osint 327	2026-11-11
+socialexchange	GMB	exchange	4	2	gap confirmed; asked notes-for-osint 327	2026-11-11
 socialprotection	CIV	socialmis	4	unplaced	restaged 4 on CIV-002 (by hand)	2026-11-11
 socialprotection	CMR	socialmis	4	unplaced	gap confirmed; asked notes-for-osint 320	2026-11-11
 socialprotection	COG	socialmis	4	unplaced	gap confirmed; asked notes-for-osint 320	2026-11-11
