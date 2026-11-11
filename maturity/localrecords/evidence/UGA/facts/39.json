@@ -1,0 +1,74 @@
+{
+ "slug": "2024-10-08-uga-uppc-digital-payments-local-revenue-collection",
+ "facts": [
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "receipts",
+   "fact": "The UPPC article says the Integrated Revenue Administration System (IRAS) is in use in 98 districts, 21 municipalities and 9 cities for budgeting, revenue collection and accounting, at a total investment of UGX 20.07 billion.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Integrated Revenue Administration System (IRAS)",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "count:128",
+   "fact": "The UPPC article counts IRAS as implemented in 98 districts, 21 municipalities and 9 cities, 128 local governments in all.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "Integrated Revenue Administration System (IRAS)",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "recorded",
+   "value": "receipts",
+   "fact": "The article says the Ministry of Local Government rolled out the E-LogRev local government revenue management system, deployed in 48 local governments, and the Auditor General reports local revenue rising from UGX 21.63 billion to 34.17 billion in those from 2019/20 to 2022/23.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "E-LogRev",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "authorities",
+   "value": "count:48",
+   "fact": "The Ministry of Local Government says E-LogRev is deployed in 48 local governments.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "E-LogRev",
+   "class": "revenue"
+  },
+  {
+   "sub_indicator": "revenue",
+   "aspect": "governance",
+   "value": "owner:ministry",
+   "fact": "The Ministry of Local Government rolled out E-LogRev, the local government revenue management integrated system.",
+   "as_of": "2024-10",
+   "date_precision": "month",
+   "system": "E-LogRev",
+   "class": "revenue"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Integrated Revenue Administration System (IRAS)",
+   "country_label": "Uganda",
+   "class": "revenue",
+   "platform": "",
+   "owner": "",
+   "tiers": "districts, municipalities, cities"
+  },
+  {
+   "system": "E-LogRev",
+   "country_label": "Uganda",
+   "class": "revenue",
+   "platform": "",
+   "owner": "Ministry of Local Government",
+   "tiers": "local governments"
+  }
+ ],
+ "note": ""
+}
