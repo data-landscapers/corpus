@@ -89,11 +89,11 @@ disabilityaccess	ZAF	accessibility	4	2	restaged 4 on ZAF-006 (by hand)	2026-11-1
 disabilityaccess	ZMB	accessibility	4	2	restaged 4 on ZMB-005 (by hand)	2026-11-10
 ecommercelaw	GHA	law	5	3		
 ecommercelaw	ZMB	law	5	3		
-educationexchange	GIN	exchange	4	2		
-educationexchange	MAR	exchange	5	unplaced		
-educationexchange	MRT	exchange	5	unplaced		
-educationexchange	SOM	exchange	5	3		
-educationexchange	SWZ	exchange	5	unplaced		
+educationexchange	GIN	exchange	4	2	gap confirmed; asked notes-for-osint 325	2026-11-11
+educationexchange	MAR	exchange	5	unplaced	gap confirmed; asked notes-for-osint 325	2026-11-11
+educationexchange	MRT	exchange	5	unplaced	gap confirmed; asked notes-for-osint 325	2026-11-11
+educationexchange	SOM	exchange	5	3	gap confirmed; asked notes-for-osint 325	2026-11-11
+educationexchange	SWZ	exchange	5	unplaced	gap confirmed; asked notes-for-osint 325	2026-11-11
 educationmis	GIN	emis	4	2		
 educationmis	MWI	emis	4	2		
 educationmis	TZA	emis	4	2		
