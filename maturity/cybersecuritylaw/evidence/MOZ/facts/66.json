@@ -1,0 +1,17 @@
+{
+ "slug": "2026-10-19-moz-intic-eleito-comite-de-gestao-da-anca-cert",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "INTIC reports that Mozambique's Law 13/2026 (Cybersecurity) and Law 14/2026 (Cybercrime), both of 1 July 2026, entered into force on 29 September 2026.",
+   "as_of": "2026-09-29",
+   "date_precision": "day",
+   "system": "Lei n.º 13/2026 de Segurança Cibernética; Lei n.º 14/2026 de Crimes Cibernéticos",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
