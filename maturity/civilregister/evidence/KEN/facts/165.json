@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-01-ken-kippra-leveraging-digitalization-public-service-delivery",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "KIPPRA says the government has digitized over 107 Civil Registration Centres, with no statement on births registered digitally nationally.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "Civil Registration Centres",
+   "class": "civil"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

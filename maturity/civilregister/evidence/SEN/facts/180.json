@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-22-sen-securisation-des-donnees-de-l-etat-civil-l-anec-et-l-ansd-scellent-un",
+ "facts": [
+  {
+   "sub_indicator": "civil",
+   "aspect": "births",
+   "value": "underway",
+   "fact": "ANEC's director general said digitalisation through the Registre national de l'etat civil and the LGEC software now produces real-time statistics in the connected communes only, not nationwide.",
+   "as_of": "2026-01-22",
+   "date_precision": "day",
+   "system": "Registre national de l'etat civil / LGEC",
+   "class": "civil"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Registre national de l'etat civil / LGEC",
+   "country_label": "Senegal",
+   "class": "civil",
+   "platform": "LGEC software",
+   "owner": "ANEC",
+   "tiers": "connected communes"
+  }
+ ],
+ "note": ""
+}
