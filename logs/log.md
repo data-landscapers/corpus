@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-11 00:42 · **REVIEW** · 18m · STP: status 1 sections revised, 36 trimmed, progress 0 cells, finance 0 rows; 0 deals queued, 1 notes for OSINT - ok
 2026-11-11 00:40 · **REBUILD** · 15m · landadmin landmis: 54 cells reassessed, 4 moved; 54 searched, 211 staged; ~75M tokens (three shared 224M) - ok
 2026-11-11 00:40 · **REBUILD** · 15m · justice justice: 44 cells reassessed, 8 moved; 54 searched, 210 staged; ~75M tokens (three shared 224M) - ok
 2026-11-11 00:40 · **REBUILD** · 15m · itcapacity inhouse: 4 cells reassessed, 1 moved; 54 searched, 198 staged; ~75M tokens (three shared 224M) - ok
