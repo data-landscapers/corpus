@@ -1,0 +1,15 @@
+{
+ "slug": "2024-11-01-mus-cib-list-of-operational-systems",
+ "facts": [],
+ "systems": [
+  {
+   "system": "eGovernance System for local authorities",
+   "country_label": "Mauritius",
+   "class": "application",
+   "platform": "",
+   "owner": "Ministry of Local Government and Disaster Risk Management",
+   "tiers": ""
+  }
+ ],
+ "note": "Only an application is named; no connection of local government offices is stated."
+}

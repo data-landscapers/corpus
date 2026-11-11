@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-10-nga-cbn-fiscal-data-collection",
+ "facts": [],
+ "systems": [
+  {
+   "system": "CBN Sub-National Fiscal Survey digital platform",
+   "country_label": "Nigeria",
+   "class": "application",
+   "platform": "",
+   "owner": "Central Bank of Nigeria",
+   "tiers": "states, local governments"
+  }
+ ],
+ "note": "The platform is still in training, with local governments not yet submitting through it; no office connection is stated."
+}

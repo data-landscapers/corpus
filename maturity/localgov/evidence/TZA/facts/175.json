@@ -1,0 +1,26 @@
+{
+ "slug": "2025-06-01-tza-eajbe-hcmis-employee-record-keeping-dodoma",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "use",
+   "value": "systems",
+   "fact": "A 2025 study in the East African Journal of Business and Economics surveyed 126 staff using the Human Capital Management Information System at TRA, TANESCO, Dodoma City Council and DUWASA, reporting frequent system downtime and weak payroll integration.",
+   "as_of": "2025-06",
+   "date_precision": "month",
+   "system": "Human Capital Management Information System (HCMIS)",
+   "class": "application"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Human Capital Management Information System (HCMIS)",
+   "country_label": "Tanzania",
+   "class": "application",
+   "platform": "",
+   "owner": "",
+   "tiers": "Dodoma City Council"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "2024-03-01-tza-mawasiliano-completed-projects-nictbb-rcip",
+ "facts": [
+  {
+   "sub_indicator": "connection",
+   "aspect": "connected",
+   "value": "institutional",
+   "fact": "The Ministry says a government-funded project connected ten council offices (Katesh, Uvinza, Wanging'ombe, Urambo, Kaliua, Mbulu, Monduli, Sikonge, Simanjiro and Kiteto) to the national backbone, June 2018 to April 2019.",
+   "as_of": "2019-04",
+   "date_precision": "month",
+   "system": "National ICT Backbone",
+   "class": "connection"
+  },
+  {
+   "sub_indicator": "connection",
+   "aspect": "authorities",
+   "value": "count:10",
+   "fact": "The Ministry names ten councils connected to the national backbone in the 2018-2019 project, giving no total of councils.",
+   "as_of": "2019-04",
+   "date_precision": "month",
+   "system": "National ICT Backbone",
+   "class": "connection"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GovNet",
+   "country_label": "GovNet",
+   "class": "backbone",
+   "platform": "",
+   "owner": "Government of Tanzania",
+   "tiers": "189 institutions including local government authorities, Dec 2017"
+  }
+ ],
+ "note": ""
+}

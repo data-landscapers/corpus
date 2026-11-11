@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-09-uga-uganda-nita-u-telecentres-refugee-hosts-bids",
+ "facts": [],
+ "systems": [
+  {
+   "system": "UDAP-GOVNET telecentres in refugee host communities",
+   "country_label": "Uganda",
+   "class": "public-access",
+   "platform": "",
+   "owner": "NITA-U",
+   "tiers": "West Nile, Northern, South Western"
+  }
+ ],
+ "note": "Telecentres for host communities are public access, not local government office connections."
+}
