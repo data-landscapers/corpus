@@ -128,6 +128,8 @@ NGA,INEC voter register with ABIS,Nigeria,electoral,ABIS,INEC,,2026-11-02-inecs-
 NGA,Register of Voters,Nigeria,electoral,,INEC,,2026-11-01-serap-inec-voter-register-ai-photos-ndpc
 NGA,INEC voter registration system,Nigeria,electoral,,INEC,,2026-10-31-nga-inec-receives-5-400-claims-objections-to-voter-register-targets-decemb
 NGA,INEC online register portal,NGA,electoral,web,INEC,,2026-10-26-nga-how-to-check-your-name-on-inec-s-voters-register-online
+NGA,Automated Biometric Identification System (ABIS),Nigeria,electoral,,INEC,,2026-11-10-nigeria-biometric-election-cleanup
+NGA,Bimodal Voter Accreditation System (BVAS),Nigeria,other,,INEC,,2026-11-10-nigeria-biometric-election-cleanup
 RWA,amatora.nec.gov.rw,Rwanda,electoral,,National Electoral Commission,,2024-05-18-rwa-rwandainnigeria-diaspora-voter-registration
 RWA,voter register,Rwanda,electoral,,National Electoral Commission,,2024-06-30-rwa-9-7-mln-people-eligible-to-vote-in-rwanda-election-electoral-body
 SEN,ECOWAS biometric ID card,Senegal,other,,,,2025-02-18 Senegal targets 3M ECOWAS biometric ID holders for voter registration
@@ -183,6 +185,7 @@ ZAF,HANIS / ABIS,South Africa,other,biometric,Department of Home Affairs,nationa
 ZAF,voters' roll,South Africa,electoral,,Electoral Commission of South Africa,,2024-03-11-zaf-voters-roll-to-be-certified-for-2024-national-and-provincial-elections
 ZAF,Online Voter Registration Service / Voter Information Portal,South Africa,electoral,"web portal, SMS, WhatsApp chatbot, mobile app",Electoral Commission of South Africa,,2026-01-01-zaf-how-to-check-where-you-are-registered-to-vote
 ZAF,voters' roll,South Africa,electoral,online registration portal,Electoral Commission of South Africa,,2024-04-01-zaf-remarks-by-chief-electoral-officer-sy-mamabolo-at-the-national-pledge
+ZAF,Voter Management Devices,South Africa,other,,Electoral Commission of South Africa,,2026-11-08-zaf-technology-streamlines-2026-voting-process
 ZMB,Provisional Register of Voters,Zambia,electoral,Biometric Voter Registration kits; ECZ website; USSD *214#,Electoral Commission of Zambia,,2026-03-06-zambia-mass-voter-registration-ministerial-statement
 ZMB,online pre-registration portal,Zambia,electoral,online portal,Electoral Commission of Zambia,,2026-08-15-zambia-au-comesa-eom-preliminary-statement-digital-registration
 ZMB,online pre-registration portal,Zambia,electoral,online portal; digital registration kits,Electoral Commission of Zambia,,2026-08-15-zambia-eu-eom-preliminary-statement-digital-systems

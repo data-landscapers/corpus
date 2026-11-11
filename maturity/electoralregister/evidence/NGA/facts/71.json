@@ -1,0 +1,44 @@
+{
+ "slug": "2026-11-10-nigeria-biometric-election-cleanup",
+ "facts": [
+  {
+   "sub_indicator": "electoral",
+   "aspect": "roll",
+   "value": "inservice",
+   "fact": "Nigeria's electoral commission INEC says it screened its voter register with its Automated Biometric Identification System and removed more than 1.6 million invalid records ahead of the 2027 elections.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Automated Biometric Identification System (ABIS)",
+   "class": "electoral"
+  },
+  {
+   "sub_indicator": "electoral",
+   "aspect": "checked",
+   "value": "open",
+   "fact": "INEC says the preliminary voter register was physically displayed at Registration Areas nationwide from 9 to 15 October 2026 and published online on 26 October 2026.",
+   "as_of": "2026-10-26",
+   "date_precision": "day",
+   "system": "Register of Voters",
+   "class": "electoral"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Automated Biometric Identification System (ABIS)",
+   "country_label": "Nigeria",
+   "class": "electoral",
+   "platform": "",
+   "owner": "INEC",
+   "tiers": ""
+  },
+  {
+   "system": "Bimodal Voter Accreditation System (BVAS)",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "INEC",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
