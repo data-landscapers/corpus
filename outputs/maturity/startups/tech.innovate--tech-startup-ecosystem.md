@@ -22,11 +22,11 @@ The Digital Transformation Strategy and the AU Startup Model Law Framework ask f
 |---|---|
 | 5 Leading | 0 |
 | 4 Operating | 6 |
-| 3 Established | 8 |
+| 3 Established | 9 |
 | 2 Nascent | 16 |
 | 1 Absent | 2 |
 | Unplaced | 5 |
-| No evidence | 17 |
+| No evidence | 16 |
 
 ## Countries
 
@@ -92,6 +92,13 @@ A startup law or strategy was adopted by 2025; startups labelled under it are no
 A startup law or strategy was adopted by 2026; startups labelled under it are not on record.
 
 - Article 384 of the Congolese Digital Code makes digital start-ups with entrepreneur status eligible for the tax, para-fiscal, customs and exchange advantages of the legislation on entrepreneurship and start-ups, per We are Tech ([source, 2026-08-06](https://www.wearetech.africa/fr/fils/actualites/tech/la-rdc-confirme-les-nouvelles-taxes-numeriques-mais-exonere-les-start-up)).
+
+### Ethiopia: 3 Established
+
+A startup law was passed in 2025; startups labelled under it are not on record.
+
+- Africa Legal reports Ethiopia's Parliament unanimously approved the Startup Proclamation, which still needed gazetting in the Federal Negarit Gazette and Council of Ministers regulations ([source, 2025-07](https://www.africa-legal.com/news/ethiopia-shifts-towards-innovation-driven-economy-with-passage-of-startup-proclamation/122380)).
+- Minister Tamru said eligible startups would benefit from incentives and support under the country's ratified Startup Proclamation ([source, 2026-11-10](https://techreviewafrica.com/news/8212/x)).
 
 ### Libya: 3 Established
 
@@ -280,12 +287,6 @@ Nothing found names a startup law or strategy or says there is none, so no stage
 Not established: Nothing found says what the state does for tech startups.
 
 ### Eswatini: No evidence
-
-Nothing found names a startup law or strategy or says there is none, so no stage is set.
-
-Not established: Nothing found says what the state does for tech startups.
-
-### Ethiopia: No evidence
 
 Nothing found names a startup law or strategy or says there is none, so no stage is set.
 

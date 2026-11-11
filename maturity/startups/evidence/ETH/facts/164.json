@@ -1,0 +1,26 @@
+{
+ "slug": "2025-07-01-eth-africa-legal-startup-proclamation-passage",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "adopted",
+   "fact": "Africa Legal reports Ethiopia's Parliament unanimously approved the Startup Proclamation, which still needed gazetting in the Federal Negarit Gazette and Council of Ministers regulations.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Startup Proclamation",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Startup Proclamation",
+   "country_label": "Startup Proclamation",
+   "class": "startuppolicy",
+   "platform": "",
+   "owner": "House of Peoples' Representatives",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

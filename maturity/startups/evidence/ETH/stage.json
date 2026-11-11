@@ -1,17 +1,18 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "startuppolicy",
-   "stage": "no evidence",
-   "law": "",
-   "labelled": "",
-   "funded": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found says what the state does for tech startups.",
-   "note": "First pass: counted from the four questions by study-ladder-startups.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "startuppolicy",
+      "stage": "3",
+      "law": "adopted",
+      "labelled": "",
+      "funded": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-001;ETH-002",
+      "gaps": "No source found since October 2023 says startups are labelled or registered under the Startup Proclamation.",
+      "note": "Stage 4c 2026-11-10: Parliament passed the Startup Proclamation in July 2025 and a minister called it ratified in November 2026 (ETH-001, ETH-002), so stage 3. No startup is shown labelled under it, so not 4.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

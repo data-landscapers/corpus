@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-21-gha-labari-imani-nita-bill-data-harmonisation-bill-afcfta",
+ "facts": [
+  {
+   "sub_indicator": "startuppolicy",
+   "aspect": "law",
+   "value": "draft",
+   "fact": "The Labari Journal lists the Ghana Innovation and Startup Bill among 15 ICT-related bills to be laid before or being considered by Ghana's Parliament, with no confirmation they will pass.",
+   "as_of": "2026-05-21",
+   "date_precision": "day",
+   "system": "Ghana Innovation and Startup Bill",
+   "class": "startuppolicy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
