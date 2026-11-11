@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-01-ken-kippra-leveraging-digitalization-public-service-delivery",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "KIPPRA says the Ajira Digital Programme, launched November 2016, had trained 91,615 young people by 2022, with Digi Truck reaching 2,000 in rural areas.",
+   "as_of": "2022",
+   "date_precision": "year",
+   "system": "Ajira Digital Programme",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

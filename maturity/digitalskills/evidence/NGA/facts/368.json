@@ -1,0 +1,17 @@
+{
+ "slug": "2026-02-20-nga-data-driven-system-nitda-abia-partner-on-enterprise-architecture-refor",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "NITDA's action plan targets 70 per cent digital literacy nationwide through interventions including training 30 million Nigerians on digital learning platforms, its Director General's representative said; no number trained is given.",
+   "as_of": "2026-02",
+   "date_precision": "month",
+   "system": "NITDA digital literacy action plan",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

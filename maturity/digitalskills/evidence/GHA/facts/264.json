@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-gha-itu-pp26-policy-statement-ghana",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "underway",
+   "fact": "Minister Samuel Nartey George said Ghana is training One Million Coders, giving no count trained or locations.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "One Million Coders",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

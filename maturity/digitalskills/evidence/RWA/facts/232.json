@@ -1,0 +1,26 @@
+{
+ "slug": "2026-01-01-rwa-risa-digital-ambassadors-program",
+ "facts": [
+  {
+   "sub_indicator": "publicskills",
+   "aspect": "training",
+   "value": "inservice",
+   "fact": "RISA says its Digital Ambassadors Program, launched in September 2017 in Rulindo District and now run by over 2,000 ambassadors across the country, trained 3,262,869 citizens from 2017 to 2024.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Digital Ambassadors Program (DAP)",
+   "class": "publicskills"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Ambassadors Program (DAP)",
+   "country_label": "Rwanda",
+   "class": "publicskills",
+   "platform": "",
+   "owner": "Rwanda Information Society Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "The 75.2% literacy rate is given with no survey named, so no measured share is recorded."
+}
