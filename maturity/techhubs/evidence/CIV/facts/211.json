@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-27-civ-gggi-koica-launch-genie-initiative-digital-skills",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "GGGI says the GENIE project is establishing 35 centres as hubs for learning and innovation in Abidjan, San Pedro, Korhogo, Man, Daloa, Yamoussoukro and Bondoukou, with a green incubator planned by mid-2025 and all centres to open by end 2025.",
+   "as_of": "2025-02-26",
+   "date_precision": "day",
+   "system": "GENIE centres",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

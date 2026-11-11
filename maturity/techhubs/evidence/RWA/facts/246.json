@@ -1,0 +1,36 @@
+{
+ "slug": "2026-01-01-rwa-risa-hanga-hubs-project",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "RISA's Hanga Hubs page says the project established incubation hubs and runs a nine-month cohort programme (ideation, pre-incubation, incubation) for young entrepreneurs, listed as ongoing.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Hanga Hubs",
+   "class": "hub"
+  },
+  {
+   "sub_indicator": "hub",
+   "aspect": "cities",
+   "value": "several",
+   "fact": "RISA says Hanga Hubs were set up in seven districts: Musanze, Rwamagana, Huye, Muhanga, Nyagatare, Rubavu and Rusizi.",
+   "as_of": "2026-01",
+   "date_precision": "month",
+   "system": "Hanga Hubs",
+   "class": "hub"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Hanga Hubs",
+   "country_label": "Rwanda",
+   "class": "hub",
+   "platform": "",
+   "owner": "RISA",
+   "tiers": "seven secondary cities"
+  }
+ ],
+ "note": ""
+}

@@ -1,0 +1,27 @@
+{
+ "slug": "2025-07-17-egy-youm7-mcit-achievements-digital-transformation",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "inservice",
+   "fact": "Youm7 says the ministry set up 24 Digital Egypt Creativa centres in the governorates to support startups with incubation and training, with partners Plug and Play and 500 Global.",
+   "as_of": "2025-07-17",
+   "date_precision": "day",
+   "system": "Digital Egypt Creativa centres",
+   "class": "hub"
+  },
+  {
+   "sub_indicator": "hub",
+   "aspect": "cities",
+   "value": "several",
+   "fact": "Youm7 says the 24 Digital Egypt Creativa centres are spread across the governorates.",
+   "as_of": "2025-07-17",
+   "date_precision": "day",
+   "system": "Digital Egypt Creativa centres",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

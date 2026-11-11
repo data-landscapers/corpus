@@ -1,17 +1,18 @@
 {
- "iso3": "ETH",
- "cells": [
-  {
-   "sub_indicator": "hub",
-   "stage": "2",
-   "hubs": "underway",
-   "cities": "",
-   "park": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ETH-001;ETH-002",
-   "gaps": "No source found since October 2023 says: does a hub run programmes for startups.",
-   "note": "First pass: counted from the four questions by study-ladder-techhubs.py."
-  }
- ]
+  "iso3": "ETH",
+  "cells": [
+    {
+      "sub_indicator": "hub",
+      "stage": "3",
+      "hubs": "inservice",
+      "cities": "",
+      "park": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ETH-005",
+      "gaps": "No source found since October 2023 says hubs with programmes are in service in two or more cities.",
+      "note": "The AI UniPod in Addis Ababa ran a residency for a cohort of 51 AI startup founders in November 2026, so a hub runs a programme with a cohort. Hubs with programmes in a second city are not on record, so not stage 4.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

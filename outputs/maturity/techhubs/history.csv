@@ -21,3 +21,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-10-24,MWI,tech.innovate--technology-hubs,fact,2,2,MWI-002;MWI-001,"Digital Malawi Project (Aug 2024): 10 tech hubs trained 19,000 people, seed funding to some; hubs open but no startup incubation cohort, stage 2 holds."
 2026-11-09,CIV,tech.innovate--technology-hubs,fact,2,3,CIV-007,Digital ministry took 32 firms into Ivoire Tech Next 15 and Scale Up on 4 November 2026; 2 to 3
 2026-11-09,CPV,tech.innovate--technology-hubs,ladder,5,3,CPV-006,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 5 to 3."
+2026-11-10,ETH,tech.innovate--technology-hubs,fact,2,3,ETH-005,AI UniPod residency for 51 startup founders (Nov 2026) shows a hub running a cohort programme; 2->3
+2026-11-10,RWA,tech.innovate--technology-hubs,fact,3,4,RWA-004;RWA-005;RWA-001,RISA Hanga Hubs: nine-month incubation cohort in seven districts; hubs with programmes in several cities; 3->4

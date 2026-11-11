@@ -21,9 +21,9 @@ The Digital Transformation Strategy asks for a technology park and incubation hu
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 4 |
+| 4 Operating | 5 |
 | 3 Established | 34 |
-| 2 Nascent | 16 |
+| 2 Nascent | 15 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 0 |
@@ -48,6 +48,14 @@ Egypt's 24 innovation centres across the governorates incubated startups in 2026
 
 - Minister Raafat Hindy says 24 innovation centres have been created, which incubate startups and train young people ([source, 2026-10-21](https://www.tafsela.net/98622)).
 - Minister Raafat Hindy says the 24 innovation centres are spread across the governorates ([source, 2026-10-21](https://www.tafsela.net/98622)).
+
+### Rwanda: 4 Operating
+
+Government incubation hubs in seven districts ran startup cohorts in 2026; whether a technology park has tenants is not known.
+
+- RISA's Hanga Hubs page says the project established incubation hubs and runs a nine-month cohort programme (ideation, pre-incubation, incubation) for young entrepreneurs, listed as ongoing ([source, 2026-01](https://www.risa.gov.rw/projects/hanga-hubs)).
+- RISA says Hanga Hubs were set up in seven districts: Musanze, Rwamagana, Huye, Muhanga, Nyagatare, Rubavu and Rusizi ([source, 2026-01](https://www.risa.gov.rw/projects/hanga-hubs)).
+- The Rwanda ICT Chamber implements the Mastercard Foundation EdTech Fellowship, an 18-month acceleration programme launched in June 2026 for eight Rwandan startups, with US$50,000 each ([source, 2026-06](https://www.ktpress.rw/2026/10/eight-rwandan-startups-are-reimagining-how-technology-can-improve-learning/)).
 
 ### Somalia: 4 Operating
 
@@ -126,6 +134,12 @@ A hub ran a programme for startups in 2026; hubs in more than one city are not o
 - The Eswatini National Youth Council (ENYC) says its Nhlangano iHub model ran a four-week Business Incubation Training Programme for 50 young entrepreneurs, concluding with a pitching session and E42,000 in seed capital for five winners ([source, 2026-08-24](https://independentnews.co.sz/47721/news/e-42-000-seed-capital-for-shiselweni-youth-entrepreneurs/)).
 - The Eswatini Observer reports Oracle Innovate Lab, an accelerator delivered by Thinkroom Consulting with Oracle Group Eswatini, launched its second cohort of four businesses at the Oracle CX Hub in Mbabane after a first cohort of six, with mentorship, masterclasses and pitch preparation ([source, 2026-08-05](https://www.eswatiniobserver.com/oracle-lab-smes-surpass-e1m-growth-mark/)).
 
+### Ethiopia: 3 Established
+
+An AI hub in Addis Ababa ran a programme for a startup cohort in 2026; hubs in more than one city are not known.
+
+- The AI UniPod hosted a 10-day Pan-African AI Ventures Residency opened on 9 November 2026 with mentorship and product development for a cohort of 51 AI startup founders from 12 African countries ([source, 2026-11-09](https://www.ena.et/web/eng/w/eng_9899270)).
+
 ### Gabon: 3 Established
 
 A hub ran a programme for startups in 2026; hubs in more than one city are not on record.
@@ -201,12 +215,6 @@ A hub ran a programme for startups in 2026; hubs in more than one city are not o
 A hub ran a programme for startups in 2026; hubs in more than one city are not on record.
 
 - KOICA and SMEDAN began the ACE Startup Academy 2026 Founder Training in Abuja on 24 August 2026 for about 120 participants in some 50 teams chosen from 3,856 applicants, leading to a roughly six-month business incubation for ten teams ([source, 2026-08-24](https://dailytrust.com/koica-and-smedan-launch-ace-startup-academy-2026-after-drawing-3856-applicants)).
-
-### Rwanda: 3 Established
-
-A hub ran a programme for startups in 2026; hubs in more than one city are not on record.
-
-- The Rwanda ICT Chamber implements the Mastercard Foundation EdTech Fellowship, an 18-month acceleration programme launched in June 2026 for eight Rwandan startups, with US$50,000 each ([source, 2026-06](https://www.ktpress.rw/2026/10/eight-rwandan-startups-are-reimagining-how-technology-can-improve-learning/)).
 
 ### Sao Tome and Principe: 3 Established
 
@@ -304,13 +312,6 @@ A technology hub or park was under way in 2026; none running programmes is on re
 
 - Wingu Africa offered the communications ministry its new innovation centre to be used as an incubator for intensive ICT training of young Djiboutian graduates, with an MoU still to be finalised by a joint working cell (ADI, 28 September 2026) ([source, 2026-09-28](https://www.adi.dj/article/138942)).
 - The French Treasury note says the Centre de Leadership et d'Entreprenariat has an incubator seeking to host startups with AI-related projects ([source, 2025](https://www.tresor.economie.gouv.fr/PagesInternationales/Pages/0f39f73e-5050-4335-abba-112c8823fe7d/files/7eec865a-efa2-431e-af9e-961511113d91)).
-
-### Ethiopia: 2 Nascent
-
-A technology hub or park was under way in 2026; none running programmes is on record.
-
-- Ethiopia launched the AI UniPod in Addis Ababa, a national AI innovation centre by the Ethiopian AI Institute, Addis Ababa University and UNDP with the Timbuktoo Initiative; no programme or cohort is stated ([source, 2026-02-19](https://www.connectingafrica.com/ai/ethiopia-launches-ai-unipod-to-drive-innovation)).
-- The Ministry of Finance's budget workbook lists an Incubation Center Building Project of ETB 135,679,000 as a capital project of the Artificial Intelligence Institution ([source, 2025](https://www.mofed.gov.et/media/filer_public/09/7d/097d0421-91ff-466f-9239-1f735b2f96be/2018_e_c_budget_year_goe_federal_budget_proclamation_part_two.xlsx)).
 
 ### Guinea: 2 Nascent
 

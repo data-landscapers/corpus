@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-01-ken-kippra-leveraging-digitalization-public-service-delivery",
+ "facts": [
+  {
+   "sub_indicator": "hub",
+   "aspect": "hubs",
+   "value": "underway",
+   "fact": "KIPPRA says the Youth Enterprise Development Fund has set up over 180 constituency innovation hubs, with no programme or cohort stated.",
+   "as_of": "2024-06",
+   "date_precision": "month",
+   "system": "constituency innovation hubs",
+   "class": "hub"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
