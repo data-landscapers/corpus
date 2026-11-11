@@ -1,0 +1,268 @@
+claim,source,survey_year,iso3,item,question,status,name,year,fit,outcome,slug,row_ids,note
+spi-1588772f0a,spi,2024,BDI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as BDI-001
+spi-37565db239,spi,2023,BDI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-766a8901e6,spi,2020,BDI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-7bc013e5d4,spi,2021,BDI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-9bd506b1c2,spi,2019,BDI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-d81a0fb6b0,spi,2022,BDI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-afa0323989,spi,2022,BEN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-d7c0330b4a,spi,2021,BEN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-d8da7a7579,spi,2024,BEN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,contradicted by BEN-001
+spi-eefa95707c,spi,2023,BEN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-3e214f8657,spi,2023,BFA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-47e117a4c0,spi,2022,BFA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-8712ead988,spi,2020,BFA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-c2adc1c645,spi,2021,BFA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-f38b303e58,spi,2024,BFA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as BFA-002
+spi-3f3b87ba90,spi,2024,BWA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as BWA-001
+spi-468203e91c,spi,2019,BWA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-61083fc835,spi,2023,BWA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-b84a5b8884,spi,2022,BWA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-bcdcf68b92,spi,2020,BWA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-e12d1b7683,spi,2021,BWA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-08dd855df7,spi,2024,CAF,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as CAF-003
+spi-715fd9d495,spi,2020,CAF,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-76a5856190,spi,2021,CAF,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-a6d290bd6d,spi,2022,CAF,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-c4e616054f,spi,2019,CAF,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-d3ccef8e74,spi,2023,CAF,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-0001dd81eb,spi,2019,CIV,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-22379dfc5e,spi,2023,CIV,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-366e49b811,spi,2022,CIV,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-61d181291b,spi,2024,CIV,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as CIV-001
+spi-9caeaf9cc2,spi,2020,CIV,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-be41ae1b95,spi,2021,CIV,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-0681f50c61,spi,2021,CMR,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-1b1b7f0f70,spi,2020,CMR,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-2c71bc4cbf,spi,2019,CMR,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-785459feca,spi,2024,CMR,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as CMR-002
+spi-e37f04daf2,spi,2023,CMR,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-ecfab2893c,spi,2022,CMR,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-0aa4305dfb,spi,2024,COG,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as COG-001
+spi-18b7e45803,spi,2019,COG,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-5f05f9cb15,spi,2023,COG,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-604901ad60,spi,2020,COG,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-7554e74a07,spi,2022,COG,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-8228e8e277,spi,2021,COG,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-1f6a13d30d,spi,2023,COM,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-362aacd95c,spi,2022,COM,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-5999b0e0ef,spi,2020,COM,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-98aa05be5c,spi,2021,COM,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-b1480f5e8a,spi,2024,COM,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as COM-001
+spi-c5c6f92708,spi,2019,COM,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-30d84822d6,spi,2020,CPV,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-4aa47b24e1,spi,2019,CPV,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-4ba1595744,spi,2024,CPV,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as CPV-001
+spi-bf7705d839,spi,2022,CPV,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-d1bb8d6e40,spi,2021,CPV,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-eea30ae36a,spi,2023,CPV,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-19f92f54de,spi,2024,DJI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,contradicted by DJI-001
+spi-3035d1756c,spi,2023,DJI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-6565627360,spi,2021,DJI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-bcc7684a52,spi,2022,DJI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-c37acc273c,spi,2019,DJI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-f5d5636721,spi,2020,DJI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-1fab24bf0d,spi,2020,DZA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-3b93677f1e,spi,2024,DZA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as DZA-001
+spi-7fa52b7da6,spi,2021,DZA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-a71a48e688,spi,2023,DZA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-adc3bab9b5,spi,2019,DZA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-fa216e46d2,spi,2022,DZA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-3260111786,spi,2022,EGY,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-50f0366eb2,spi,2024,EGY,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as EGY-001
+spi-6d53355b36,spi,2020,EGY,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-8579e6ff3e,spi,2023,EGY,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-d15c547a2e,spi,2019,EGY,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-d3ff0b9598,spi,2021,EGY,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-02ac85fee1,spi,2023,ETH,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-25616bd2ba,spi,2024,ETH,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as ETH-003
+spi-31dc3df209,spi,2022,ETH,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-7dcd0b5564,spi,2021,ETH,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-407c9a177f,spi,2022,GAB,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-44a8331485,spi,2021,GAB,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-6295f584b9,spi,2019,GAB,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-7d1b9ba562,spi,2020,GAB,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-b5bdb3abf6,spi,2023,GAB,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-bc248e6a0c,spi,2024,GAB,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as GAB-001
+spi-af0ecd8e03,spi,2023,GHA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-c8102c7b86,spi,2021,GHA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-df9cdf5771,spi,2024,GHA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as GHA-001
+spi-ec3def1d37,spi,2022,GHA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-20c03f9ac9,spi,2024,GIN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as GIN-001
+spi-30c280a1b0,spi,2019,GIN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-9f123564c2,spi,2021,GIN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-b3feadea51,spi,2020,GIN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-c4f4219a7a,spi,2022,GIN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-e6bd87d770,spi,2023,GIN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-2909493051,spi,2022,GMB,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-3f2745bb76,spi,2024,GMB,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as GMB-001
+spi-912e6e4011,spi,2023,GMB,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-ca2568bfaf,spi,2020,GMB,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-f82ca024e8,spi,2021,GMB,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-faf4750642,spi,2019,GMB,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-008631b9f3,spi,2019,GNQ,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-16e87dfad8,spi,2021,GNQ,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-2ce995e6ea,spi,2023,GNQ,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-38b4dcfe8c,spi,2020,GNQ,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-96682a93f6,spi,2022,GNQ,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-d991ca05ed,spi,2024,GNQ,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as GNQ-001
+spi-6649cb67a7,spi,2023,KEN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-85bff3ddc1,spi,2024,KEN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as KEN-002
+spi-b75f6cdd28,spi,2021,KEN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-f29cff2c3e,spi,2022,KEN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-1b457c255f,spi,2020,LBR,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-2dd93bc78d,spi,2021,LBR,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-7dcaea8250,spi,2024,LBR,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as LBR-001
+spi-8dca59cc58,spi,2019,LBR,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-a027e19b1a,spi,2023,LBR,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-acc5e9dc3f,spi,2022,LBR,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-1a7212275e,spi,2022,LBY,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-2a1c881bc0,spi,2021,LBY,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-685ec40ac9,spi,2023,LBY,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-7db3c1a8d4,spi,2020,LBY,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-b2e37f12f4,spi,2024,LBY,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as LBY-001
+spi-ed1388f88b,spi,2019,LBY,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-3b056955c4,spi,2020,LSO,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-63814a7da5,spi,2021,LSO,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-b38c79c870,spi,2024,LSO,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as LSO-004
+spi-e34c29cf5c,spi,2022,LSO,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-f12af86f41,spi,2023,LSO,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-7600cfd2dd,spi,2019,MAR,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-9b25d14a8a,spi,2022,MAR,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-a372322f55,spi,2023,MAR,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-b8bd90c74c,spi,2024,MAR,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,a database's no
+spi-d29c4dc91b,spi,2020,MAR,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-db8f4961d3,spi,2021,MAR,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-341940df6c,spi,2022,MDG,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-544cdbd913,spi,2024,MDG,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as MDG-001
+spi-54b04eafe6,spi,2021,MDG,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-87ff148880,spi,2019,MDG,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-b2bb937edd,spi,2020,MDG,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-e47dd68627,spi,2023,MDG,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-22a4aab2c0,spi,2021,MLI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-41fe0ab414,spi,2019,MLI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-43267a4026,spi,2024,MLI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as MLI-002
+spi-84c6e80536,spi,2020,MLI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-928bbab8ab,spi,2022,MLI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-a282c1ada1,spi,2023,MLI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-0975abd61b,spi,2021,MOZ,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-8e2252215e,spi,2024,MOZ,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as MOZ-001
+spi-b7b5a0b273,spi,2023,MOZ,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-cecc6387cf,spi,2022,MOZ,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-03a93b0432,spi,2021,MRT,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-32e72171cf,spi,2020,MRT,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-c5764f22f5,spi,2023,MRT,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-d619b07619,spi,2024,MRT,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as MRT-001
+spi-f61a77c1e2,spi,2019,MRT,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-fdb9a59f9c,spi,2022,MRT,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-076b7e29c8,spi,2021,MUS,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-48625f4a99,spi,2024,MUS,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as MUS-005
+spi-665c60e69c,spi,2019,MUS,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-8aaeecd86d,spi,2020,MUS,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-f2180b7da4,spi,2022,MUS,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-f94bdd5ae9,spi,2023,MUS,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-5592c69e62,spi,2022,MWI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-b92ee10d73,spi,2023,MWI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-c5925a7b20,spi,2021,MWI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-ea9402a945,spi,2024,MWI,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as MWI-001
+spi-412aa5a381,spi,2024,NAM,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as NAM-001
+spi-8a666a587c,spi,2023,NAM,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-96e88b5bac,spi,2021,NAM,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-be8eed476b,spi,2022,NAM,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-133b131000,spi,2021,NER,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-407c34cfbb,spi,2019,NER,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-564c2f06c7,spi,2020,NER,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-9e548fb482,spi,2023,NER,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-a2ae584f7a,spi,2022,NER,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-b9699e7c9d,spi,2024,NER,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as NER-001
+spi-0b06845158,spi,2023,NGA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-cbdc30fa8e,spi,2024,NGA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as NGA-005
+spi-5c0f1219e3,spi,2023,RWA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-5c43599405,spi,2021,RWA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-a7f9afc6b6,spi,2022,RWA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-f09184a77c,spi,2024,RWA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as RWA-001
+spi-36ca290b2e,spi,2021,SDN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-54f2c2c5f3,spi,2024,SDN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as SDN-001
+spi-6197a233d1,spi,2019,SDN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-7442d46167,spi,2023,SDN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-89df634413,spi,2022,SDN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-add47832f8,spi,2020,SDN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-08fc6c55cc,spi,2019,SEN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-2a14d980cb,spi,2024,SEN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as SEN-001
+spi-4620a3e042,spi,2021,SEN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-906bb1187b,spi,2023,SEN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-9a2adc4378,spi,2020,SEN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-b9e4f64764,spi,2022,SEN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-7c0836bc27,spi,2024,SLE,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,a database's no
+spi-963a07ba54,spi,2023,SLE,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-abc944f88d,spi,2022,SLE,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-c532d84365,spi,2020,SLE,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-d211c86394,spi,2019,SLE,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-e2bec7bdc9,spi,2021,SLE,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-092cdd7487,spi,2024,SOM,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as SOM-001
+spi-d01ff8ad77,spi,2023,SOM,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-e7fef8941f,spi,2022,SOM,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-1059aa4fa9,spi,2021,SSD,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-2d2c47a714,spi,2022,SSD,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-4376061985,spi,2020,SSD,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-806993c0f2,spi,2024,SSD,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as SSD-001
+spi-b39136a652,spi,2019,SSD,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-f45900ab53,spi,2023,SSD,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-066e2f68ea,spi,2021,STP,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-5be59c52ad,spi,2024,STP,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as STP-001
+spi-6c00242d6d,spi,2022,STP,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-7a3f2117cc,spi,2023,STP,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-ac1401a5fb,spi,2020,STP,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-eefd2f9ba2,spi,2019,STP,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-19316f9ebe,spi,2024,SWZ,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,a database's no
+spi-82b859245c,spi,2022,SWZ,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-9723475fbf,spi,2021,SWZ,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-b8ec97e0d7,spi,2020,SWZ,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-d573781ef6,spi,2023,SWZ,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-dc52902f1c,spi,2019,SWZ,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-069b0752dd,spi,2020,TCD,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-5256d8f0e5,spi,2019,TCD,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-aee2211302,spi,2021,TCD,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-cd8b7dce6a,spi,2024,TCD,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,a database's no
+spi-d1fd575cb5,spi,2023,TCD,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-f6375da75a,spi,2022,TCD,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-0dd615df28,spi,2024,TGO,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as TGO-001
+spi-2cee4a6b24,spi,2021,TGO,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-95dde82667,spi,2022,TGO,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-a583d26baf,spi,2020,TGO,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-ce74e45cb4,spi,2019,TGO,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-f2138e01e5,spi,2023,TGO,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-24b4495393,spi,2020,TUN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-3a38cde297,spi,2019,TUN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-47299c23f9,spi,2023,TUN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-701099229a,spi,2022,TUN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-91eff07313,spi,2024,TUN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,a database's no
+spi-dec796b816,spi,2021,TUN,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-38095295f8,spi,2020,TZA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-64b68ca3d4,spi,2021,TZA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-668d90799c,spi,2019,TZA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-6d7493a11b,spi,2022,TZA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-aa174271f6,spi,2023,TZA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-c82f01d91f,spi,2024,TZA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as TZA-001
+spi-4dba5fec48,spi,2021,UGA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-7d143445ca,spi,2022,UGA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-bb513142ee,spi,2024,UGA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as UGA-001
+spi-c450d085fc,spi,2019,UGA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-c7544e0839,spi,2023,UGA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-cbf8043329,spi,2020,UGA,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-3133bca425,spi,2019,ZAF,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-5063e68840,spi,2024,ZAF,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as ZAF-001
+spi-687ef7299a,spi,2023,ZAF,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-b19dfa1c8e,spi,2022,ZAF,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-b820aa13a6,spi,2020,ZAF,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-bb93fc2fb6,spi,2021,ZAF,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-04aa7b675d,spi,2021,ZMB,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-35db79aff7,spi,2024,ZMB,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,held as ZMB-001
+spi-abfef46305,spi,2023,ZMB,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-eac523dcd0,spi,2022,ZMB,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-3888f89010,spi,2020,ZWE,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-48fdd49dfd,spi,2019,ZWE,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-6b23eb8922,spi,2023,ZWE,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-85d65aefb1,spi,2024,ZWE,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,nothing,2025-12-09-statistical-performance-indicators-2026-11-10,,a database's no
+spi-9b1a245f2f,spi,2022,ZWE,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,0,,,theirs-narrower,superseded,,,the 2024 round answers it
+spi-db3d63cb0b,spi,2021,ZWE,SPI.D5.1.DILG,Indicator 5.1.1: Legislation Indicator based on PARIS21 indicators on SDG 17.18.2,1,,,theirs-narrower,superseded,,,the 2024 round answers it
