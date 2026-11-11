@@ -10,6 +10,7 @@ AGO,Asycuda World,Asycuda World,customs,ASYCUDA World,AGT,,2026-09-08-ago-modern
 AGO,ASYCUDA World,Angola,customs,ASYCUDA World,AGT,,2026-05-21-ago-tfad-angola-article-7-4-risk-management
 AGO,ASY5,Angola,customs,ASYCUDA,AGT,,2026-05-21-ago-tfad-angola-article-7-4-risk-management
 AGO,ASYCUDA World v5 (ASY5),Angola,customs,ASYCUDA,AGT,,2024-12-20-ago-agt-anuncia-migracao-para-novo-sistema-de-processamento-aduaneiro
+AGO,ASY5,Angola,customs,ASYCUDA (UNCTAD),AGT,,2026-06-29-ago-angop-agt-asy5-porto-luanda-ia
 BDI,Guichet Unique Electronique (GUE),Burundi,customs,,Office Burundais des Recettes (OBR),national,2026-02-19-burundi-guichet-unique-importation-wearetech
 BDI,ASYCUDA,Burundi,customs,ASYCUDA World,Office Burundais des Recettes (OBR),national,2026-02-19-burundi-guichet-unique-importation-wearetech
 BDI,Systeme de Suivi et Inspection Electronique des Cargos,Burundi,other,,Office Burundais des Recettes,,2026-09-22-bdi-l-interfacage-des-systemes-de-suivi-electronique-des-cargos-pour-la-se
@@ -226,6 +227,7 @@ MDG,Sydonia World,Madagascar,customs,Sydonia World,Direction Generale des Douane
 MDG,SYDONIA,Madagascar,customs,Sydonia,Direction Generale des Douanes,,2025-03-27-mdg-la-douane-malagasy-un-modele-regional-dans-l-usage-de-la-donnee-et-de
 MDG,TradeNet,Madagascar,customs,,GasyNet,,2025-06-04-mdg-commerce-exterieur-gasynet-rapporte-un-delai-moyen-de-dedouanement-red
 MDG,Safi,Madagascar,other,,Ministère de l'Économie et des Finances,,2025-10-07-safi-e-hetra-newsmada
+MDG,Guichet Unique Maritime,Maritime Single Window (APMF),other,,APMF,,2026-11-09-mdg-madagascar-lapmf-lance-une-nouvelle-phase-du-programme-integ
 MLI,Sydonia World,Mali,customs,ASYCUDA World,Direction generale des douanes du Mali,,2018-12-31-mli-douanes-migration-sydoniaworld
 MLI,SYGOCE,Mali,other,,Primature,,2025-05-27-mli-apanews-quatre-plateformes-numeriques
 MLI,SYDONIAWorld,SYDONIAWorld,customs,ASYCUDA World,Direction Generale des Douanes du Mali,,2026-02-23-mli-allocution-de-monsieur-le-directeur-general-des-douanes-a-loccasion-de
@@ -275,6 +277,7 @@ NGA,SIGMAT,Nigeria,customs,,ECOWAS Commission,,2025-05-21-ben-launch-of-the-inte
 NGA,National Single Window,Nigeria,customs,,National Single Window Secretariat,,2026-08-18-nga-phase-2-of-national-single-window-to-go-live-november-2026-with-export
 NGA,B'Odogwu,Nigeria,customs,,Nigeria Customs Service,,2026-08-18-nga-phase-2-of-national-single-window-to-go-live-november-2026-with-export
 NGA,National Single Window,Nigeria,customs,,National Single Window Project,,2026-03-31-nga-tola-fakolade-national-single-window-platform-now-fully-operational
+NGA,National Single Window,Nigeria National Single Window,other,,National Single Window Secretariat,,2026-11-10-nga-national-single-window-export
 RWA,Rwanda Electronic Single Window System (Single Transaction Portal),Rwanda,customs,,Rwanda Revenue Authority,,2026-02-24-rra-customs-appeals-electronic-stp
 RWA,ASYCUDA World,Rwanda,customs,ASYCUDA,Rwanda Revenue Authority,,2024-12-12-rra-tax-ai-digitalization
 RWA,E-Tax,Rwanda,other,,Rwanda Revenue Authority,,2024-12-12-rra-tax-ai-digitalization
@@ -359,6 +362,7 @@ UGA,Single Customs Territory Centralized Platform,EAC SCT Centralized Platform,c
 UGA,e-Single Window,e-Single Window,customs,,,,2024-06-12-uga-uganda-article-10-4-single-window-progress-reported-g-tfa-n-uga-4
 UGA,UESW,Uganda Electronic Single Window (UESW),customs,ASYCUDA World,Uganda Revenue Authority,,2024-06-01-uga-uganda-electronic-single-window-uesw
 UGA,RECTS,Uganda,other,GPS e-seal,Uganda Revenue Authority,,2024-06-01-uga-regional-electronic-cargo-tracking-system-rects
+UGA,ASYCUDA World,ASYCUDA World (URA),customs,ASYCUDA World,Uganda Revenue Authority,,2024-09-02-uga-ijeg-implementation-success-asycuda-world-ura
 ZAF,Single Window Portal,South Africa,customs,,SARS,,2023-10-05-zaf-sars-customs-single-window-solution
 ZAF,SARS customs management system,South Africa,customs,,SARS,,2013-08-22-zaf-sars-customs-modernisation-implementation
 ZAF,Vehicle Targeting System (VTS),South Africa,other,International Vehicle Identification Desk application,Border Management Authority,,2026-10-19-zaf-bma-vehicle-targeting-system-digital-border
