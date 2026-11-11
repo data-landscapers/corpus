@@ -2,12 +2,12 @@
 
 ## Justice
 
-**Case management in service.** [The New Times reports that from January 2025 Rwanda's justice sector and its stakeholders were to begin using an upgraded Integrated Electronic Case Management System (IECMS)](<https://www.newtimes.co.rw/article/22773/news/law/justice-whats-new-in-upgraded-integrated-case-management-system>).
+**Case management in service.** Rwanda's justice sector runs an Integrated Electronic Case Management System. [The New Times reported](<https://www.newtimes.co.rw/article/22773/news/law/justice-whats-new-in-upgraded-integrated-case-management-system>) that an upgraded version came into use from January 2025. The courts and the other justice institutions use it. The system links the courts with the other institutions of the justice chain. Its upgrade was reported by The New Times in December 2024.
 
-**Online filing.** Cases are filed with the courts electronically. The 13th Rwanda Governance Scorecard, published by the Rwanda Governance Board on 22 October 2026, [scored citizens' satisfaction with electronic court filing services at 65.40 per cent](<https://rwandadispatch.com/rwandans-report-lower-satisfaction-with-public-services-new-scorecard-shows/>), down 13.60 points on the previous assessment, against 81.80 per cent for the Irembo government services platform.
+**Online filing.** [The 13th Rwanda Governance Scorecard of October 2026](<https://rwandadispatch.com/rwandans-report-lower-satisfaction-with-public-services-new-scorecard-shows/>) rated electronic court filing services. Satisfaction stood at 65.4%, down 13.6 points on the previous assessment. The scorecard is published by the Rwanda Governance Board.
 
-**Open online.** No source found since October 2023 says judgments are published or a case's status can be looked up online. The nearest held facts are [the upgraded IECMS of January 2025](<https://www.newtimes.co.rw/article/22773/news/law/justice-whats-new-in-upgraded-integrated-case-management-system>) and [the scorecard's rating of electronic court filing](<https://rwandadispatch.com/rwandans-report-lower-satisfaction-with-public-services-new-scorecard-shows/>).
+**Open online.** No source since November 2023 says judgments or case status are online. The nearest fact is [the 2026 scorecard](<https://rwandadispatch.com/rwandans-report-lower-satisfaction-with-public-services-new-scorecard-shows/>). The scorecard rates filing services only, not public case lookup.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says court decisions are published online or that the public can look up a case's status online.
+***Not found***. No source found since November 2023 says judgments or case status are open to the public online.

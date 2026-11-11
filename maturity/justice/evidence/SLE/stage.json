@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether courts manage cases electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-justice.py.",
-      "as_at": "2026-10-18"
+      "gaps": "The Justice App's case figures are dated 2022 and the 2017 app pilot is older. Nothing since November 2023 says how courts manage their cases.",
+      "note": "SLE-001 is dated 2022 and SLE-002 2017, both outside the window, so neither can set a rung. Unplaced.",
+      "as_at": "2026-11-11"
     }
   ]
 }

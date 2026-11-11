@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "MDG-001",
-      "gaps": "No source found since October 2023 says cases can be filed with the courts online.",
-      "note": "First pass: counted from the four questions by study-ladder-justice.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since November 2023 says lawyers or litigants can file with the courts online.",
+      "note": "The Justice Ministry said in June 2026 that case tools such as LogiCivil and LogiPenal are deployed in the courts (MDG-001), so case management is in service. Nothing says cases can be filed online.",
+      "as_at": "2026-11-11"
     }
   ]
 }

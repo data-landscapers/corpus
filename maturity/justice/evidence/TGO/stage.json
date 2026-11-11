@@ -9,10 +9,10 @@
       "public": "open",
       "cap": "",
       "flags": "",
-      "stage_sources": "TGO-001",
+      "stage_sources": "TGO-001;TGO-003",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-justice.py.",
-      "as_at": "2026-10-18"
+      "note": "The Lome commercial court runs SYSCOM for its cases (TGO-002, TGO-004), lawyers file pleadings through it online (TGO-003), and since July 2026 the Lome high court's portal lets parties follow procedures remotely (TGO-001). Every step is met, so stage 5.",
+      "as_at": "2026-11-11"
     }
   ]
 }

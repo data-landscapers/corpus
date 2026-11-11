@@ -1,17 +1,18 @@
 {
- "iso3": "SEN",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "3",
-   "cases": "inservice",
-   "filing": "",
-   "public": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SEN-004",
-   "gaps": "No source found since October 2023 says cases can be filed with the courts online.",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "SEN",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "3",
+      "cases": "inservice",
+      "filing": "",
+      "public": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SEN-004;SEN-001",
+      "gaps": "No source found since November 2023 says lawyers or litigants can file with the courts online.",
+      "note": "The programme's final report records the e-Justice platform deployed in one court with five procedures digitised (SEN-004), and it was launched officially in September 2026 (SEN-001), so it is in service in some courts. Nothing says cases can be filed online.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

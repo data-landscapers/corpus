@@ -1,17 +1,18 @@
 {
- "iso3": "COD",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "3",
-   "cases": "inservice",
-   "filing": "",
-   "public": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "COD-002",
-   "gaps": "No source found since October 2023 says cases can be filed with the courts online.",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "COD",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "3",
+      "cases": "inservice",
+      "filing": "",
+      "public": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "COD-002",
+      "gaps": "No source found since November 2023 says lawyers or litigants can file with the courts online.",
+      "note": "UNDP says SIGAJ, a judicial case management system, was introduced in the justice sector by 2024 (COD-002), so case management is in service. Commercial-court and interconnection work (COD-001, COD-003) is under way, and nothing says cases can be filed online.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

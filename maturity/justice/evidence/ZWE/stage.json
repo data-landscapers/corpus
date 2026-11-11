@@ -1,17 +1,18 @@
 {
- "iso3": "ZWE",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "5",
-   "cases": "inservice",
-   "filing": "online",
-   "public": "open",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "ZWE-004",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "ZWE",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "5",
+      "cases": "inservice",
+      "filing": "online",
+      "public": "open",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "ZWE-004;ZWE-003",
+      "gaps": "",
+      "note": "The IECMS runs in the Constitutional, Supreme, Labour and High Courts (ZWE-001), litigants and practitioners file on it (ZWE-003), and court users can track their cases (ZWE-004). Every step is met, so stage 5.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

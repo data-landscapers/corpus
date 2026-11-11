@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "justice",
-      "stage": "unplaced",
-      "cases": "",
+      "stage": "2",
+      "cases": "underway",
       "filing": "",
       "public": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether courts manage cases electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-justice.py.",
-      "as_at": "2026-11-09"
+      "stage_sources": "SYC-003",
+      "gaps": "No source found since November 2023 says a court case management system is in service in any court. Lawyers file written submissions online through the e-Service Platform, which counts only once case management is shown in service.",
+      "note": "The Judiciary launched phase one of its e-Service Platform in November 2025, the first of a phased digital rollout (SYC-003), so an e-justice system is being built. Online filing (SYC-001) cannot count while no case management system is shown in service.",
+      "as_at": "2026-11-11"
     }
   ]
 }

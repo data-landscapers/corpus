@@ -2,12 +2,12 @@
 
 ## Justice
 
-**Case management in service.** [Chief Justice Sakoane said on 3 July 2026 that the Judiciary is implementing digital systems, including electronic filing of court documents, with the Ministry of Information](<https://www.lena.gov.ls/national-dialogue-marks-a-new-chapter-for-lesotho-sakoane/>). [The High Court Civil Litigation Rules 2024 (Legal Notice 65) define e-justice as an internet-based system for delivering process and maintaining court case files, with registered users, and leave the date it comes into operation to a Chief Justice notice in the Gazette](<https://lesotholii.org/akn/ls/act/ln/2024/65/eng@2024-06-21/source>).
+**Case management in service.** Lesotho's Judiciary is putting digital systems in place. [The Chief Justice said on 3 July 2026](<https://www.lena.gov.ls/national-dialogue-marks-a-new-chapter-for-lesotho-sakoane/>) that this includes electronic filing of court documents, with the Ministry of Information. [The High Court rules of 2024 define e-justice](<https://lesotholii.org/akn/ls/act/ln/2024/65/eng@2024-06-21/source>) for serving process and keeping case files. Its start date awaits a gazette notice. The rules are Legal Notice 65 of 2024.
 
-**Online filing.** No source found since October 2023 says cases can be filed with the courts online. The nearest held fact: [the one given above](<https://www.lena.gov.ls/national-dialogue-marks-a-new-chapter-for-lesotho-sakoane/>).
+**Online filing.** No source since November 2023 says anyone files online yet. [The Chief Justice's July 2026 remarks](<https://www.lena.gov.ls/national-dialogue-marks-a-new-chapter-for-lesotho-sakoane/>) put electronic filing among the systems being built. The work is done with the Ministry of Information.
 
-**Open online.** No source found since October 2023 says judgments are published or case status can be looked up online. The nearest held fact: [the one given above](<https://www.lena.gov.ls/national-dialogue-marks-a-new-chapter-for-lesotho-sakoane/>).
+**Open online.** No source since November 2023 says judgments or case status are online. The nearest fact is [the 2024 rules](<https://lesotholii.org/akn/ls/act/ln/2024/65/eng@2024-06-21/source>). Under the rules, registered users would deliver process and keep case files online.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: do courts manage cases electronically.
+***Not found***. No source found since November 2023 says a court case management system is in service in any court.

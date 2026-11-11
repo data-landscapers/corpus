@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "NAM-001;NAM-002",
-      "gaps": "No source found since October 2023 says: do courts manage cases electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-justice.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since November 2023 says a court case management system is in service in any court. The eJustice system described in 2018 is outside the window.",
+      "note": "In July 2025 the Chief Justice said the Supreme Court is entirely on paper and that work to extend e-justice to it is under way (NAM-001, NAM-002). The 2018 description of eJustice in the High Court (NAM-005) is outside the window, so stage 2.",
+      "as_at": "2026-11-11"
     }
   ]
 }

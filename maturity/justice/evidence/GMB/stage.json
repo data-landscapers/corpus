@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "justice",
-      "stage": "4",
-      "cases": "inservice",
-      "filing": "online",
+      "stage": "2",
+      "cases": "underway",
+      "filing": "",
       "public": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GMB-004",
-      "gaps": "No source found since October 2023 says judgments are published or case status can be looked up online.",
-      "note": "First pass: counted from the four questions by study-ladder-justice.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "GMB-001;GMB-002;GMB-005",
+      "gaps": "No source found since November 2023 says a court case management system is in service in any court. The NHRC's 2024 report says the system has e-filing, but not that anyone files through it.",
+      "note": "The electronic case management system was in pilot in August 2024 (GMB-005), the Chief Justice still awaited its implementation in January 2026 (GMB-002), and a tender to build an integrated system followed in March 2026 (GMB-001). It is piloted, not in service, so stage 2; the e-filing the NHRC names (GMB-004) cannot count above that.",
+      "as_at": "2026-11-11"
     }
   ]
 }

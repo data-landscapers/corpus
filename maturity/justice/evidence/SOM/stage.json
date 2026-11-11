@@ -1,17 +1,18 @@
 {
- "iso3": "SOM",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "3",
-   "cases": "inservice",
-   "filing": "",
-   "public": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SOM-001",
-   "gaps": "No source found since October 2023 says cases can be filed with the courts online.",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "SOM",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "3",
+      "cases": "inservice",
+      "filing": "",
+      "public": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SOM-001",
+      "gaps": "No source found since November 2023 says lawyers or litigants can file with the courts online.",
+      "note": "The Justice Sector Integrated Electronic Case Management System was launched in October 2025, linking police, prosecutors, courts and prisons in one electronic workflow (SOM-001), so it is in service. Nothing says cases can be filed online.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

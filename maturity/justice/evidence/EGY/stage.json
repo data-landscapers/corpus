@@ -1,17 +1,18 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "3",
-   "cases": "inservice",
-   "filing": "",
-   "public": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "EGY-001;EGY-002",
-   "gaps": "No source found since October 2023 says cases can be filed with the courts online.",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "3",
+      "cases": "inservice",
+      "filing": "",
+      "public": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-001;EGY-002",
+      "gaps": "No source found since November 2023 says lawyers or litigants can file with the courts online.",
+      "note": "The E-Court platform launched in August 2026 serves certified digital copies of case files and hearing decisions by SMS (EGY-001, EGY-002), so case management is in service in the criminal courts. Nothing says lawyers can file cases online.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

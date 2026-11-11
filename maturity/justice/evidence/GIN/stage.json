@@ -9,10 +9,10 @@
       "public": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "GIN-001",
-      "gaps": "No source found since October 2023 says: do courts manage cases electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-justice.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "GIN-002;GIN-001",
+      "gaps": "No source found since November 2023 says a court case management system is in service in any court.",
+      "note": "A consultancy signed in September 2026 is to set up the Conakry commercial court's integrated management system (GIN-002), and a private firm has digitised that court's roll and decisions (GIN-001), so work is under way. Nothing says a case management system is in service.",
+      "as_at": "2026-11-11"
     }
   ]
 }

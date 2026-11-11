@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "AGO-001",
-      "gaps": "No source found since October 2023 says: do courts manage cases electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-justice.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since November 2023 says a court case management system is in service in any court.",
+      "note": "The 2025 state budget funds an integrated information and document system that the common-jurisdiction courts were to start in 2025 (AGO-001), so a system is being built. No source says it is in service in any court, so not stage 3.",
+      "as_at": "2026-11-11"
     }
   ]
 }

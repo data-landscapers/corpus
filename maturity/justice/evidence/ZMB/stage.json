@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "ZMB-001",
-      "gaps": "No source found since October 2023 says: do courts manage cases electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-justice.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since November 2023 says a court case management system is in service in any court. The 2022 annual report on decisions uploaded to the Judiciary website is outside the window.",
+      "note": "Treasury funds an electronic case management system being developed for all court levels, the Judiciary still working by hand in January 2025 (ZMB-001), so stage 2. The 2022 report of a stalled system and decisions online (ZMB-002, ZMB-003) is outside the window.",
+      "as_at": "2026-11-11"
     }
   ]
 }

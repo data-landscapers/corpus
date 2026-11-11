@@ -2,12 +2,12 @@
 
 ## Justice
 
-**Case management in service.** [The Justice Policy director says the ministry is working with the company Sinergy on a reform so court case processing can be done by electronic means](<https://rstp.st/2024/02/22/governo-aposta-na-digitalizacao-da-justica-e-revisao-de-leis-para-reduzir-morosidade-de-crimes-sexuais/>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Case management in service.** São Tomé and Príncipe is moving court case processing online. [The Justice Policy director said in February 2024](<https://rstp.st/2024/02/22/governo-aposta-na-digitalizacao-da-justica-e-revisao-de-leis-para-reduzir-morosidade-de-crimes-sexuais/>) that the ministry is working with the company Sinergy on the reform. No source says the system is in service. The reform aims at electronic case processing in the courts. No date is given for it to go live.
 
-**Online filing.** No source found since October 2023 says cases can be filed with the courts online. The nearest held fact: [the one given above](<https://rstp.st/2024/02/22/governo-aposta-na-digitalizacao-da-justica-e-revisao-de-leis-para-reduzir-morosidade-de-crimes-sexuais/>).
+**Online filing.** No source since November 2023 says cases can be filed online. The nearest fact is [the 2024 reform work](<https://rstp.st/2024/02/22/governo-aposta-na-digitalizacao-da-justica-e-revisao-de-leis-para-reduzir-morosidade-de-crimes-sexuais/>). The reform is being prepared with the company Sinergy. No online services for lawyers are described.
 
-**Open online.** No source found since October 2023 says judgments are published or case status can be looked up online. The nearest held fact: [the one given above](<https://rstp.st/2024/02/22/governo-aposta-na-digitalizacao-da-justica-e-revisao-de-leis-para-reduzir-morosidade-de-crimes-sexuais/>).
+**Open online.** No source since November 2023 says judgments or case status are online. The nearest fact is [the same reform](<https://rstp.st/2024/02/22/governo-aposta-na-digitalizacao-da-justica-e-revisao-de-leis-para-reduzir-morosidade-de-crimes-sexuais/>). The Justice Policy director described the work in February 2024.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: do courts manage cases electronically.
+***Not found***. No source found since November 2023 says a court case management system is in service in any court.

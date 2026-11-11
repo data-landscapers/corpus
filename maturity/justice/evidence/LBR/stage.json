@@ -1,17 +1,18 @@
 {
- "iso3": "LBR",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "2",
-   "cases": "underway",
-   "filing": "",
-   "public": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "LBR-001",
-   "gaps": "No source found since October 2023 says: do courts manage cases electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "LBR",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "2",
+      "cases": "underway",
+      "filing": "",
+      "public": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "LBR-001",
+      "gaps": "No source found since November 2023 says a court case management system is in service in any court.",
+      "note": "The Judiciary's 2026-2030 Strategic Plan, backed by the Finance Minister in July 2026, is to put an electronic case management system in all circuit courts (LBR-001). That is a plan with funding, so stage 2 at most.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

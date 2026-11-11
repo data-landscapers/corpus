@@ -1,17 +1,18 @@
 {
- "iso3": "DJI",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "2",
-   "cases": "underway",
-   "filing": "",
-   "public": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DJI-001",
-   "gaps": "No source found since October 2023 says: do courts manage cases electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "DJI",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "2",
+      "cases": "underway",
+      "filing": "",
+      "public": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DJI-001",
+      "gaps": "No source found since November 2023 says a court case management system is in service in any court.",
+      "note": "UNDP reports a pilot digital case management system for minor offences under construction in 2024 (DJI-001), so it is being built. Nothing says it is in service.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

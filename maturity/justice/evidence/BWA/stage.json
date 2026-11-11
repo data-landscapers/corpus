@@ -1,17 +1,18 @@
 {
- "iso3": "BWA",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "2",
-   "cases": "underway",
-   "filing": "",
-   "public": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "BWA-001",
-   "gaps": "No source found since October 2023 says: do courts manage cases electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "BWA",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "2",
+      "cases": "underway",
+      "filing": "",
+      "public": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BWA-001",
+      "gaps": "No source found since November 2023 says a court case management system is in service in any court.",
+      "note": "The Industrial Court has developed an electronic case management system with a soft launch planned for mid-2026 (BWA-001), so it is being built. No source says it went live.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

@@ -2,12 +2,12 @@
 
 ## Justice
 
-**Case management in service.** [The Minister of Justice said at a 20 May 2026 workshop that the Integrated Electronic Case Management System (IECMS), launched 18 August 2025, is being rolled out and links the Judiciary, Ministry of Justice, Law Society, police, Anti-Corruption Commission and Correctional Services](<https://eswatinipositivenews.online/new-digital-court-system-to-end-case-delays-prince-simelane/>). [UNDP donated equipment worth USD 10,000 to the Ministry of Justice and Constitutional Affairs in August 2025 to aid the rollout of the Integrated Electronic Case Management System (IECMS), which aims to digitalise court operations and case tracking](<https://independentnews.co.sz/21715/news/undp-donates-equipment-to-support-digital-justice-system/>).
+**Case management in service.** Eswatini is rolling out an Integrated Electronic Case Management System. [It was launched on 18 August 2025](<https://eswatinipositivenews.online/new-digital-court-system-to-end-case-delays-prince-simelane/>) with training for users across the justice sector. It links the Judiciary, the ministry, the Law Society, police, the Anti-Corruption Commission and prisons. [UNDP gave equipment for the rollout](<https://independentnews.co.sz/21715/news/undp-donates-equipment-to-support-digital-justice-system/>) in August 2025. The Senate President urged that court files be kept secure.
 
-**Online filing.** No source found since October 2023 says cases can be filed with the courts online. The nearest held fact: [the one given above](<https://eswatinipositivenews.online/new-digital-court-system-to-end-case-delays-prince-simelane/>).
+**Online filing.** No source since November 2023 says cases can be filed online. [The system is designed for electronic filing](<https://eswatinipositivenews.online/new-digital-court-system-to-end-case-delays-prince-simelane/>), the minister said in May 2026. Hearings are also to be held virtually.
 
-**Open online.** No source found since October 2023 says judgments are published or case status can be looked up online. The nearest held fact: [the one given above](<https://eswatinipositivenews.online/new-digital-court-system-to-end-case-delays-prince-simelane/>).
+**Open online.** No source since November 2023 says judgments or case status are online. The nearest fact is [the system's planned case tracking](<https://eswatinipositivenews.online/new-digital-court-system-to-end-case-delays-prince-simelane/>). The minister spoke at a workshop for MPs on 20 May 2026.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: do courts manage cases electronically.
+***Not found***. No source found since November 2023 says a court case management system is in service in any court.

@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "BEN-001",
-      "gaps": "No source found since October 2023 says: do courts manage cases electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-justice.py.",
-      "as_at": "2026-11-09"
+      "gaps": "No source found since November 2023 says a court case management system is in service in any court. The Cotonou commercial court has taken some filings online since February 2026.",
+      "note": "An e-justice information system for criminal and civil procedures was at feasibility study in 2024 (BEN-001), so it is under way. Online filing at the Cotonou commercial court (BEN-004) cannot count while no case management system is shown in service.",
+      "as_at": "2026-11-11"
     }
   ]
 }

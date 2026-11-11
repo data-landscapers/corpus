@@ -1,17 +1,18 @@
 {
- "iso3": "SWZ",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "2",
-   "cases": "underway",
-   "filing": "",
-   "public": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "SWZ-001;SWZ-002",
-   "gaps": "No source found since October 2023 says: do courts manage cases electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "SWZ",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "2",
+      "cases": "underway",
+      "filing": "",
+      "public": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "SWZ-001;SWZ-002",
+      "gaps": "No source found since November 2023 says a court case management system is in service in any court.",
+      "note": "The IECMS was launched in August 2025 with user training and is being rolled out (SWZ-001, SWZ-002). No source says courts already manage cases on it, so stage 2.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

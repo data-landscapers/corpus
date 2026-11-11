@@ -1,17 +1,18 @@
 {
- "iso3": "CIV",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "2",
-   "cases": "underway",
-   "filing": "",
-   "public": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "CIV-001;CIV-002",
-   "gaps": "No source found since October 2023 says: do courts manage cases electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "CIV",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "2",
+      "cases": "underway",
+      "filing": "",
+      "public": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "CIV-001;CIV-004",
+      "gaps": "No source found since November 2023 says a court case management system is in service in any court. The e-Justice platform in all 39 first-instance courts issues nationality certificates and criminal records, not case management.",
+      "note": "The e-justice.ci platform reaches all 39 first-instance courts, but what it serves is certificates and criminal records (CIV-001); the minister's promise to digitise all judicial procedures (CIV-004) is work under way. No source says courts manage cases on it, so not stage 3.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

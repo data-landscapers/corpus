@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "CPV-001",
-      "gaps": "No source found since October 2023 says cases can be filed with the courts online.",
-      "note": "First pass: counted from the four questions by study-ladder-justice.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since November 2023 says lawyers or litigants can file with the courts online.",
+      "note": "Law 38/X/2024 says the Justice Information System has been phased in over a decade for electronic handling of cases in the courts, though its mass use is hindered (CPV-001), so it is in service in some courts. Nothing says cases can be filed online.",
+      "as_at": "2026-11-11"
     }
   ]
 }

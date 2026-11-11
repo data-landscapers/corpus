@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "STP-001",
-      "gaps": "No source found since October 2023 says: do courts manage cases electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-justice.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since November 2023 says a court case management system is in service in any court.",
+      "note": "The justice ministry was working with a contractor in 2024 so that court cases can be processed electronically (STP-001), so a system is being built. Nothing says it is in service.",
+      "as_at": "2026-11-11"
     }
   ]
 }

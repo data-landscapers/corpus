@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "justice",
-      "stage": "4",
+      "stage": "5",
       "cases": "inservice",
       "filing": "online",
-      "public": "",
+      "public": "open",
       "cap": "",
       "flags": "",
-      "stage_sources": "KEN-003;KEN-001",
-      "gaps": "No source found since October 2023 says judgments are published or case status can be looked up online.",
-      "note": "First pass: counted from the four questions by study-ladder-justice.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "KEN-004;KEN-003",
+      "gaps": "",
+      "note": "The Case Tracking System runs registry operations (KEN-002), e-filing reached every court in March 2024 (KEN-001, KEN-003), and the Causelist Portal lets anyone find when and where a case is heard (KEN-004). Every step is met, so stage 5.",
+      "as_at": "2026-11-11"
     }
   ]
 }

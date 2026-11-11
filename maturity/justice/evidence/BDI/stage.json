@@ -1,17 +1,18 @@
 {
- "iso3": "BDI",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "unplaced",
-   "cases": "",
-   "filing": "",
-   "public": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found since October 2023 says whether courts manage cases electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "BDI",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "2",
+      "cases": "underway",
+      "filing": "",
+      "public": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "BDI-001;BDI-002",
+      "gaps": "No source found since November 2023 says a court case management system is in service in any court.",
+      "note": "In October 2026 the justice sector presented the planned E-Justice platform, being prepared with UNDP support to keep judicial case files (BDI-001, BDI-002), so a system is being built. Nothing says it is in service.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

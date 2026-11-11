@@ -1,17 +1,18 @@
 {
- "iso3": "MLI",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "2",
-   "cases": "underway",
-   "filing": "",
-   "public": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MLI-001",
-   "gaps": "No source found since October 2023 says: do courts manage cases electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "MLI",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "2",
+      "cases": "underway",
+      "filing": "",
+      "public": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MLI-002;MLI-003",
+      "gaps": "No source found since November 2023 says a court case management system is in service in any court.",
+      "note": "The e-Justice platform is being put into operation with UNDP equipment, first for certificates and criminal records, with case processing to follow (MLI-001, MLI-003). That is under way; nothing says courts manage cases on it.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

@@ -1,17 +1,18 @@
 {
- "iso3": "NGA",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "3",
-   "cases": "inservice",
-   "filing": "",
-   "public": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "NGA-001",
-   "gaps": "No source found since October 2023 says cases can be filed with the courts online.",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "NGA",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "4",
+      "cases": "inservice",
+      "filing": "online",
+      "public": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "NGA-003;NGA-001",
+      "gaps": "No source found since November 2023 says judgments or case status are open to the public online.",
+      "note": "The Nigerian Case Management System went live at the Supreme Court on 1 July 2026 (NGA-001), and practice directions require counsel to upload processes and records of appeal to it (NGA-003). That is filing online; nothing says the public can look up cases.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

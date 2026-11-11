@@ -1,17 +1,18 @@
 {
- "iso3": "MWI",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "3",
-   "cases": "inservice",
-   "filing": "",
-   "public": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "MWI-002",
-   "gaps": "No source found since October 2023 says cases can be filed with the courts online.",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "MWI",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "3",
+      "cases": "inservice",
+      "filing": "",
+      "public": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "MWI-002;MWI-001",
+      "gaps": "No source found since November 2023 says lawyers or litigants can file with the courts online. The e-court's electronic filing is described as part of a pilot.",
+      "note": "The Judiciary's April 2024 concept note says digital case management platforms have already been introduced (MWI-002), so stage 3. Its e-court with electronic filing was a pilot in ten courts (MWI-001), which does not show lawyers filing online.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

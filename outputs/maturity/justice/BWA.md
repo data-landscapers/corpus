@@ -2,12 +2,12 @@
 
 ## Justice
 
-**Case management in service.** [Minister of Justice Nelson Ramaotwana told Parliament in the 2026/27 budget debate that the Industrial Court had developed an electronic Case Management System to digitise operations, with a soft launch planned within Q1 2026/27 after procurement of necessary software](<https://allafrica.com/stories/202603170027.html>). It is the only fact held on the subject: no news story or official notice read for this study says more about it, the documents the earlier cell cited were not read, and the systems themselves were not examined.
+**Case management in service.** Botswana's Industrial Court has built an electronic case management system. [The Minister of Justice told Parliament in March 2026](<https://allafrica.com/stories/202603170027.html>) that it was developed to digitise the court's work. A soft launch was planned within the first quarter of 2026/27, once software was bought. No source says it went live. It serves one court, the Industrial Court.
 
-**Online filing.** No source found since October 2023 says cases can be filed with the courts online. The nearest held fact: [the one given above](<https://allafrica.com/stories/202603170027.html>).
+**Online filing.** No source since November 2023 says cases can be filed online. The nearest fact is [the Industrial Court's system](<https://allafrica.com/stories/202603170027.html>). The system was built to digitise the Industrial Court's operations and cut its backlog.
 
-**Open online.** No source found since October 2023 says judgments are published or case status can be looked up online. The nearest held fact: [the one given above](<https://allafrica.com/stories/202603170027.html>).
+**Open online.** No source since November 2023 says judgments or case status are online. The nearest fact is [the same system](<https://allafrica.com/stories/202603170027.html>). The minister spoke in the 2026/27 budget debate. Software still had to be bought before launch.
 
 ***Also on file***. None found.
 
-***Not found***. No source found since October 2023 says: do courts manage cases electronically.
+***Not found***. No source found since November 2023 says a court case management system is in service in any court.

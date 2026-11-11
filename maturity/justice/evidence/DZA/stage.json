@@ -1,17 +1,18 @@
 {
- "iso3": "DZA",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "5",
-   "cases": "inservice",
-   "filing": "online",
-   "public": "open",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "DZA-001",
-   "gaps": "",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "DZA",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "3",
+      "cases": "inservice",
+      "filing": "",
+      "public": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "DZA-002",
+      "gaps": "No source found since November 2023 says lawyers or litigants can file with the courts online. The national electronic window opens administrative case tracking and judgments online, which counts only once online filing is shown.",
+      "note": "The national electronic window lets parties follow their cases from any administrative court (DZA-002), so the administrative courts manage cases electronically. Each step must be met: no source says cases can be filed online, so case tracking and judgments online (DZA-001) cannot lift it to stage 5.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

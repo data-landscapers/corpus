@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether courts manage cases electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-justice.py.",
-      "as_at": "2026-10-18"
+      "gaps": "The only rows, a court computerisation project, date from 2016. Nothing since November 2023 says how courts manage their cases.",
+      "note": "SDN-001 and SDN-002 are from 2016, outside the window, and no later row says anything on the questions. Unplaced.",
+      "as_at": "2026-11-11"
     }
   ]
 }

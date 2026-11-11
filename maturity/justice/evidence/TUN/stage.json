@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "TUN-001",
-      "gaps": "No source found since October 2023 says: do courts manage cases electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-justice.py.",
-      "as_at": "2026-10-18"
+      "gaps": "No source found since November 2023 says a court case management system is in service in any court.",
+      "note": "The African Development Bank notice of September 2025 is for a contract to build an e-Justice portal and business application (TUN-001), so it is being procured. The 2023 Jshare pilot is outside the window.",
+      "as_at": "2026-11-11"
     }
   ]
 }

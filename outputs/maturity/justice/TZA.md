@@ -2,12 +2,12 @@
 
 ## Justice
 
-**Case management in service.** [The Judiciary's Chief Court Administrator named the Judiciary Electronic Case Management System (JoT e-CMS) among its platforms, and the ICT Centre director said Judiciary systems interface with 16 national institutions, enabling real-time tracking of all registered and adjudicated cases from the Court of Appeal to District Courts](<https://dailynews.co.tz/parliamentary-budget-committee-applauds-judiciarys-ict-reforms/>). [The Judiciary says the new Electronic Case Management System (e-CMS), now fully built to replace JSDS2, has been in trial in all courts since 2 October 2023, with use to start on 1 November 2023](<https://dailynews.co.tz/judiciary-to-start-using-new-advanced-case-management-system/>). [The Acting Chief Registrar says the Judiciary's Case Management System (JSDS2) has been in place since 2018 (2018, before the three-year window)](<https://dailynews.co.tz/judiciary-to-start-using-new-advanced-case-management-system/>).
+**Case management in service.** Tanzania's Judiciary runs its electronic case management system across its courts. [In May 2025 its ICT Centre director said](<https://dailynews.co.tz/parliamentary-budget-committee-applauds-judiciarys-ict-reforms/>) cases are tracked from the Court of Appeal to district courts. In February 2026 [the Chief Court Administrator said](<https://dailynews.co.tz/courts-adopt-ai-integrated-data-systems/>) the system is phasing out paper files and is being expanded. Its systems exchange data with 16 national institutions. The e-CMS replaced the older JSDS2 system.
 
-**Online filing.** [The Chief Court Administrator said in February 2026 that litigants can now file cases online from anywhere and track their progress, as the electronic case management system phases out paper files](<https://dailynews.co.tz/courts-adopt-ai-integrated-data-systems/>).
+**Online filing.** [Litigants can file cases online from anywhere](<https://dailynews.co.tz/courts-adopt-ai-integrated-data-systems/>), the Chief Court Administrator said in February 2026. Remote filing, he said, also helps revenue collection.
 
-**Open online.** No source found since October 2023 says judgments are published or case status can be looked up online. The nearest held fact: [the one given above](<https://dailynews.co.tz/parliamentary-budget-committee-applauds-judiciarys-ict-reforms/>).
+**Open online.** [He said they can also track a case's progress online](<https://dailynews.co.tz/courts-adopt-ai-integrated-data-systems/>) and see which magistrate is assigned. He said this makes the courts more transparent and accountable. He spoke at the e-Government Annual Meeting in Arusha.
 
 ***Also on file***. None found.
 
-***Not found***. No source found says court decisions are published online or that the public can look up a case's status.
+***Not found***. Nothing further is asked of this indicator.

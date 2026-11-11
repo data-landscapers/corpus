@@ -9,10 +9,10 @@
       "public": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "MAR-003",
-      "gaps": "No source found since October 2023 says judgments are published or case status can be looked up online.",
-      "note": "First pass: counted from the four questions by study-ladder-justice.py.",
-      "as_at": "2026-11-09"
+      "stage_sources": "MAR-003;MAR-007",
+      "gaps": "No source found since November 2023 says judgments or case status are open to the public online. The Mahakim file-tracking page is dated only to 2026 and counts from the end of that year.",
+      "note": "Lawyers file briefs and appeals through a dedicated platform (MAR-003), and the national enforcement platform is in service and being extended (MAR-007). The public file tracking on Mahakim (MAR-005) carries only the year 2026, so it is not yet counted and the cell stays at 4.",
+      "as_at": "2026-11-11"
     }
   ]
 }

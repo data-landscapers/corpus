@@ -1,17 +1,18 @@
 {
- "iso3": "GHA",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "2",
-   "cases": "underway",
-   "filing": "",
-   "public": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "GHA-001",
-   "gaps": "No source found since October 2023 says: do courts manage cases electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "GHA",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "2",
+      "cases": "underway",
+      "filing": "",
+      "public": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "GHA-001",
+      "gaps": "No source found since November 2023 says a court case management system is in service in any court. A 2022 count of cases on eJustice is outside the window.",
+      "note": "A December 2025 report says eJustice is still being rolled out and the IMF called it stalled (GHA-001), so it stands as under way. The 2022 case count (GHA-002) is outside the window and cannot show it in service now.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

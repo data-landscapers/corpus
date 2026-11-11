@@ -9,10 +9,10 @@
       "public": "open",
       "cap": "",
       "flags": "",
-      "stage_sources": "UGA-009",
+      "stage_sources": "UGA-009;UGA-008",
       "gaps": "",
-      "note": "First pass: counted from the four questions by study-ladder-justice.py.",
-      "as_at": "2026-10-18"
+      "note": "ECCMIS is in more than 56 courts (UGA-010), cases are filed and fees paid online (UGA-008), and litigants check their case files on it by phone (UGA-009). Every step is met, so stage 5.",
+      "as_at": "2026-11-11"
     }
   ]
 }

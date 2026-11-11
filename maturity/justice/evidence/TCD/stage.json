@@ -1,17 +1,18 @@
 {
- "iso3": "TCD",
- "cells": [
-  {
-   "sub_indicator": "justice",
-   "stage": "2",
-   "cases": "underway",
-   "filing": "",
-   "public": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "TCD-001",
-   "gaps": "No source found since October 2023 says: do courts manage cases electronically.",
-   "note": "First pass: counted from the four questions by study-ladder-justice.py."
-  }
- ]
+  "iso3": "TCD",
+  "cells": [
+    {
+      "sub_indicator": "justice",
+      "stage": "2",
+      "cases": "underway",
+      "filing": "",
+      "public": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "TCD-001",
+      "gaps": "No source found since November 2023 says a court case management system is in service in any court.",
+      "note": "The justice ministry launched a digital exchange platform with UNDP in October 2025, piloted in N'Djamena (TCD-001), so a system is piloted. Nothing says courts manage cases on it.",
+      "as_at": "2026-11-11"
+    }
+  ]
 }

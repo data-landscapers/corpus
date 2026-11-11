@@ -10,9 +10,9 @@
       "cap": "",
       "flags": "",
       "stage_sources": "RWA-002;RWA-001",
-      "gaps": "No source found since October 2023 says court decisions are published or case status can be looked up online.",
-      "note": "Case management is in service (2025) and the October 2026 Governance Scorecard rates electronic court filing services, so filing online is in service: stage 4. Nothing found on decisions or case status online, so not 5.",
-      "as_at": "2026-10-26"
+      "gaps": "No source found since November 2023 says judgments or case status are open to the public online.",
+      "note": "The upgraded integrated case management system is in use from January 2025 (RWA-001), and the October 2026 Governance Scorecard rates electronic court filing services (RWA-002). Nothing says judgments or case status are open online.",
+      "as_at": "2026-11-11"
     }
   ]
 }
