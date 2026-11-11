@@ -7,6 +7,7 @@ BDI,2026-04-13-burundi-systeme-information-sante-interoperable-hl7-fhir,,2026-10
 BDI,2026-05-29-arct-lignes-directrices-ecosysteme-commerce-electronique,,2026-10-19
 BDI,2026-06-09-au-iped-supports-burundi-strengthening-education-data,,2026-10-19
 BEN,2020-03-18-benin-cadre-interoperabilite-xroad-bj,,2026-10-19
+BEN,2026-05-14-ben-digital-id-systems-now-critical-infrastructure-requiring-sovereign-cyb,,2026-11-11
 BEN,2026-07-01-pasi-pdaie-architecture-systemes-etat,,2026-10-19
 BEN,2026-07-28-asin-billet-juridique-cadre-interoperabilite-benin,,2026-10-19
 BFA,2019-10-15-bfa-burkina24-referentiel-interoperabilite-administration,,2026-10-19
@@ -33,7 +34,9 @@ CIV,2021-12-22-civ-decret-2021-913-referentiel-interoperabilite,,2026-10-19
 CIV,2025-09-25-plateforme-interoperabilite-administration-fratmat,,2026-10-19
 CIV,2025-10-02-cybernetica-uxp-interoperability-biometricupdate,,2026-10-19
 CIV,2025-11-27-civ-himss-eurasia-2025-franck-simon-blehiri-expose-le-succes-du-modele-ivo,,2026-11-07
+CIV,2026-05-14-ben-digital-id-systems-now-critical-infrastructure-requiring-sovereign-cyb,,2026-11-11
 CMR,2025-07-08-snia-2040-ai-roadmap-seven-pillars-techafricanews,,2026-10-19
+CMR,2025-11-13-cmr-agence-de-regulation-des-marches-publics-projet-d-acceleration-de-la-t,,2026-11-11
 CMR,2026-08-06-cameroon-cemac-interoperable-qr-payment-and-data-protection,,2026-10-19
 CMR,2026-08-20-cmr-digitalbusiness-fgi-interoperabilite,,2026-10-19
 CMR,2026-08-21-biometricupdate-cameroon-national-interoperability-infrastructure,,2026-10-19
@@ -44,6 +47,7 @@ COD,2022-02-04-cod-medd-atelier-referentiels-numeriques-interoperabilite,,2026-1
 COD,2022-04-16-cod-kt-adoption-normes-standards-numerique-secteur-public,,2026-10-19
 COD,2025-07-01-e-health-integrating-digital-in-health,,2026-10-19
 COD,2026-03-20-regime-classification-documents-officiels-actualite,,2026-10-19
+COD,2026-05-14-ben-digital-id-systems-now-critical-infrastructure-requiring-sovereign-cyb,,2026-11-11
 COD,2026-06-16-rdc-homologation-sih-anicns-congoquotidien,,2026-10-19
 COD,2026-08-04-drc-kibassa-launches-digital-economy-policy-and-national-ai-strategy,,2026-10-19
 COG,2026-07-28-anssi-congo-re-passi-audit-provider-referential-validation,,2026-10-19
@@ -68,7 +72,9 @@ ETH,2023-02-01-mint-assessment-provision-e-government-services,,2026-10-19
 ETH,2025-05-22-ethiopia-fayda-digital-id-90-million-2027,,2026-10-19
 ETH,2025-10-01-eth-ethiopia-national-data-governance-strategy-edgs-summary,,2026-11-07
 ETH,2026-01-01-eth-iso-member-ies,,2026-10-19
+ETH,2026-05-14-ben-digital-id-systems-now-critical-infrastructure-requiring-sovereign-cyb,,2026-11-11
 ETH,2026-05-26-nigeria-kenya-morocco-afcfta-adapt,,2026-10-19
+ETH,2026-08-06-eth-what-is-faydaverse-the-ethiopian-national-id-program-that-became-a-com,,2026-11-11
 ETH,2026-09-13-eth-capital-digital-logistics-overhaul-regional-trade,,2026-10-19
 ETH,2026-10-08-africacdc-phc-ccm-outcome-statement-digital-health-forum,,2026-10-19
 GAB,2025-08-11-jo-ga-ordonnance-0006-pr-2025-digitalisation,,2026-10-19
@@ -76,6 +82,7 @@ GHA,2022-01-01-ghana-egovernment-interoperability-framework-egif,,2026-10-19
 GHA,2024-01-01 Ghana national data exchange case study (Digital Impact Alliance),,2026-10-19
 GHA,2026-01-10-gha-gmj-lessons-discontinued-national-ehr,,2026-10-19
 GHA,2026-03-17-gha-geoglam-geomaize-yield,,2026-10-19
+GHA,2026-05-14-ben-digital-id-systems-now-critical-infrastructure-requiring-sovereign-cyb,,2026-11-11
 GHA,2026-07-31-govt-committed-to-building-ai-ecosystem-to-create-jobs-promote-economic-growth,,2026-10-19
 GHA,2026-10-19-xaf-biometricupdate-sadx-ben-gha-rwa-id-interop-live-testing,,2026-10-27
 GHA,2026-10-20-xwa-benin-ghana-and-rwanda-take-major-step-towards-africas-single-digital,,2026-10-27
@@ -135,12 +142,18 @@ MLI,2026-09-01-mli-cooperation-bilaterale-la-cote-d-ivoire-et-le-mali-ont-evalue
 MLI,2026-09-03-iso-amanorm-profil-membre-mali,,2026-10-19
 MLI,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai,,2026-10-19
 MOZ,2017-12-01-regulamento-quadro-interoperabilidade-governo-electronico-decreto-67-2017,,2026-10-19
+MOZ,2025-10-14-moz-interoperabilidade-dos-sistemas-do-governo-electronico-e-fundamental-p,,2026-11-11
 MOZ,2025-12-05-prioritizes-data-governance-digital-sovereignty-techafricanews,,2026-10-19
 MOZ,2026-09-24-moz-ecofinagency-unified-digital-platform,,2026-10-19
+MOZ,2026-10-27-moz-revisao-do-quadro-de-interoperabilidade-reforca-a-transformacao-digita,,2026-11-11
 MRT,2021-07-31-mauritania-aneta-digital-agency-proposal-undp,,2026-10-19
+MRT,2024-01-01-mrt-avis-general-de-passation-des-marches-du-projet-regional-d-integration,,2026-11-11
 MRT,2025-01-01-mrt-tfad-trade-facilitation-agreement-database-mauritania-article-10-4-sin,,2026-10-27
 MRT,2026-03-27-public-digital-services-standards-framework-techafricanews,,2026-10-19
+MRT,2026-05-12-mrt-atelier-national-sur-l-elaboration-du-cadre-national-d-interoperabilit,,2026-11-11
 MRT,2026-06-30-apd-reunion-mensuelle-hebergement-donnees-an-etat-homologation-datacenter,,2026-10-19
+MRT,2026-10-13-mrt-bluesquare-health-system-interoperability-lessons,,2026-11-11
+MRT,2026-11-09-mrt-build-once-use-across-government-mauritania-s-govstack-journey,,2026-11-11
 MUS,2002-11-01 Mauritius e-Government Interoperability Framework v1.0,,2026-10-19
 MUS,2026-09-01-gis-mauritius-digital-service-framework,,2026-10-19
 MWI,2026-04-17-ilo-malawi-labour-market-information-system,,2026-10-19
@@ -166,9 +179,12 @@ NER,2026-08-20-lesahel-tillaberi-etat-civil-identification,,2026-10-19
 NER,2026-08-29-niger-agadez-reformes-etat-civil-identification,,2026-10-19
 NER,2026-09-17-xaf-worldbank-blog-agricultural-surveys-ai,,2026-10-19
 NER,2026-11-03-cybersecurite-le-niger-sollicite-lexperience-du-burkina-faso-pour-son,,2026-11-07
+NER,2026-11-06-ner-le-niger-mise-sur-lexpertise-burkinabe-pour-batir-son-centre-de-cybers,,2026-11-11
+NGA,2025-09-18-nga-fg-to-begin-implementation-of-digital-public-infrastructure-data-excha,,2026-11-11
 NGA,2025-10-10-nitda-digital-trustmark-initiative,,2026-10-19
 NGA,2026-03-27-nitda-takes-over-ngea-koica,,2026-10-19
 NGA,2026-04-07 NITDA Assumes Control Of NGEA Infrastructure,,2026-10-19
+NGA,2026-05-14-ben-digital-id-systems-now-critical-infrastructure-requiring-sovereign-cyb,,2026-11-11
 NGA,2026-05-26-nigeria-kenya-morocco-afcfta-adapt,,2026-10-19
 NGA,2026-09-06-anambra-icta-assesses-25-mdas-digital-compliance,,2026-10-19
 NGA,2026-10-06-xaf-digitnomics-auc-africanenda-single-digital-payment-market,,2026-10-19
@@ -186,6 +202,7 @@ SDN,2026-04-07-sudan-cbos-nips-rfp-v5,,2026-10-19
 SDN,2026-04-20-cbos-nips-national-instant-payment-system-tender,,2026-10-19
 SDN,2026-08-06-suna-central-bank-launches-national-payment-switch-services,,2026-10-19
 SEN,2024-07-23-sen-interoperability-in-digital-health-in-west-africa,,2026-11-07
+SEN,2025-10-11-sen-analyse-des-politiques-de-digitalisation-au-senegal-pour-une-transform,,2026-11-11
 SEN,2026-05-04-mctn-fondations-infrastructure-publique-numerique-projet-decret-interoperabilite,,2026-10-19
 SLE,2023-01-01-sierra-leone-standards-bureau-standards-overview,,2026-10-19
 SLE,2025-01-01 Strengthening Sierra Leones national data strategy (DIAL),,2026-10-19
@@ -230,11 +247,13 @@ TGO,2026-09-27-tgo-togofirst-arcep-mobile-quality-yas-mat,,2026-10-19
 TUN,2020-10-05-tunisie-decret-gouvernemental-2020-777-interoperabilite,,2026-10-19
 TUN,2023-09-13-tunisie-arrete-label-g-cloud-n-cloud,,2026-10-19
 TUN,2023-12-14-tun-mobile-payments-competition-market-study-of-tunisia-s-retail-banking-s,,2026-10-27
+TUN,2026-05-14-ben-digital-id-systems-now-critical-infrastructure-requiring-sovereign-cyb,,2026-11-11
 TUN,2026-09-03-syc-africacdc-hie-interoperability-framework-consultants,,2026-10-19
 TUN,2026-09-22-tun-cybersecurite-circulaire-entreprises-publiques,,2026-10-19
 TUN,2026-09-25-tun-telehealth-connect-2026-preview,,2026-10-19
 TZA,2016-02-01-e-government-interoperability-framework,,2026-10-19
 TZA,2017-11-01-e-government-security-architecture-standards,,2026-10-19
+TZA,2024-03-01-tza-mawasiliano-completed-projects-nictbb-rcip,,2026-11-11
 TZA,2025-06-23-majaliwa-taasisi-umma-kujiunga-govesb,,2026-10-19
 TZA,2026-01-01-tza-iso-tbs-iso-member-page,,2026-10-19
 TZA,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states,,2026-10-19

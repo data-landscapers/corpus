@@ -23,10 +23,10 @@ The African Union's Digital Transformation Strategy asks for technical standards
 | 5 Leading | 0 |
 | 4 Operating | 3 |
 | 3 Established | 8 |
-| 2 Nascent | 7 |
+| 2 Nascent | 8 |
 | 1 Absent | 1 |
 | Unplaced | 1 |
-| No evidence | 34 |
+| No evidence | 33 |
 
 ## Countries
 
@@ -138,6 +138,12 @@ Kenya's ICT Authority said in 2025 it would finalise its interoperability framew
 Mauritania's ministry held a workshop in 2026 to develop a framework of standards for public digital services; whether it is adopted is not known.
 
 - The digital transformation ministry (MTNIMA) held a three-day workshop to develop a unified framework of public digital-service standards to ensure greater interoperability, and presented a technical study and implementation mechanism for stakeholder feedback before full adoption; the document gives no workshop date, so the published date is used ([source, 2026-03-27](https://techafricanews.com/2026/03/27/mauritania-moves-to-standardize-public-digital-services-with-national-framework-initiative/)).
+
+### Nigeria: 2 Nascent
+
+Nigeria's draft technical standard for government data exchange was under stakeholder review in 2025; whether it has been issued is not known.
+
+- The Nation reports NITDA's Director General said the draft Technical Standard for Nigeria Data Exchange (NGDX) was under stakeholder review on 18 September 2025, with implementation possibly beginning in the first quarter of 2026 ([source, 2025-09-18](https://thenationonlineng.net/fg-to-begin-implementation-of-digital-public-infrastructure-data-exchange-standards/)).
 
 ### Senegal: 2 Nascent
 
@@ -296,12 +302,6 @@ Nothing found names technical standards for government systems to exchange data 
 Not established: Nothing found names technical standards for government systems to exchange data, or says there are none.
 
 ### Niger: No evidence
-
-Nothing found names technical standards for government systems to exchange data or says there are none, so no stage is set.
-
-Not established: Nothing found names technical standards for government systems to exchange data, or says there are none.
-
-### Nigeria: No evidence
 
 Nothing found names technical standards for government systems to exchange data or says there are none, so no stage is set.
 

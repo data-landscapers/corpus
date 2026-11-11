@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-09-mrt-build-once-use-across-government-mauritania-s-govstack-journey",
+ "facts": [
+  {
+   "sub_indicator": "standards",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "GovStack says a government architecture standard for interoperability, security and service development was worked on with MTNIMA and put to a March 2026 national consultation; no publication is stated.",
+   "as_of": "2026-03",
+   "date_precision": "month",
+   "system": "Government architecture standard",
+   "class": "standards"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

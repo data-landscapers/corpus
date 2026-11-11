@@ -22,3 +22,4 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-10,SEN,gov.standards--national-interoperability-standards,review,2,2,SEN-001,Rebuild: the May 2026 draft framework supersedes the 2024 statement of none; stage 2 stands.
 2026-11-10,LBY,gov.standards--national-interoperability-standards,review,1,1,LBY-001,"Rebuild: the 2026 abstract says there are no unified standards and nothing on whether any are being written; stage 1 kept on that reading, put to Bill."
 2026-11-10,GIN,gov.standards--national-interoperability-standards,review,unplaced,unplaced,,"Rebuild: the one row (v0.2.2 rules) is dated only 2026, a year standing for its last day; unplaced stands."
+2026-11-11,NGA,gov.standards--national-interoperability-standards,fact,no evidence,2,NGA-001,"The Nation reports NITDA's draft Technical Standard for Nigeria Data Exchange under stakeholder review in September 2025: a named set out for consultation, stage 2."
