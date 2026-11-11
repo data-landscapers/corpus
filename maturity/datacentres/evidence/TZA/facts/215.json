@@ -1,0 +1,15 @@
+{
+ "slug": "2024-03-01-tza-mawasiliano-completed-projects-nictbb-rcip",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Internet Data Centre",
+   "country_label": "Tanzania",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Tanzania",
+   "tiers": ""
+  }
+ ],
+ "note": "Data centres named, with no statement that either rents space or computing to others."
+}

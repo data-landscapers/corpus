@@ -1,0 +1,26 @@
+{
+ "slug": "2024-08-27-gha-nita-to-stop-wastage-on-ict-by-government-institutions",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "NITA's Director-General says its private partner Smart Infraco manages a data centre, built to serve all state institutions, which is the biggest in the West African sub-region.",
+   "as_of": "2024-08",
+   "date_precision": "month",
+   "system": "National data centre (NITA, managed by Smart Infraco)",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "National data centre",
+   "country_label": "NITA data centre",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "NITA",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

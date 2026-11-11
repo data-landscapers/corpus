@@ -1,0 +1,36 @@
+{
+ "slug": "2026-11-09-cloud-ai-chips-outside-africa",
+ "facts": [
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "centre",
+   "value": "service",
+   "fact": "Newzroom dot Africa reports that Teraco runs a 110MW campus in Isando, Johannesburg, and more than 200MW across its sites, connecting customers directly to cloud providers.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "Teraco Isando campus",
+   "class": "datacentre"
+  },
+  {
+   "sub_indicator": "datacentre",
+   "aspect": "cloud",
+   "value": "region",
+   "fact": "Newzroom dot Africa reports that Google has a region in Johannesburg, Microsoft Azure has South Africa North and South Africa West regions, and Amazon Web Services has a region in Cape Town.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "Google Johannesburg, Azure South Africa North and West, AWS Cape Town regions",
+   "class": "datacentre"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Teraco Isando campus",
+   "country_label": "South Africa",
+   "class": "datacentre",
+   "platform": "",
+   "owner": "Teraco (Digital Realty)",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

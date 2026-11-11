@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-10-ago-angola-apresenta-a-uit-projectos-de-fibra-optica-satelite-e",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Cloud Nacional",
+   "country_label": "Cloud Nacional",
+   "class": "other",
+   "platform": "unified government cloud on government data centres",
+   "owner": "Government of Angola",
+   "tiers": ""
+  }
+ ],
+ "note": "Government data centres serve the state; no hire, tier or cloud region stated."
+}
