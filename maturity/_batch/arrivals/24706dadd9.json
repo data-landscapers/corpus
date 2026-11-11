@@ -1,12 +1,11 @@
-{"slug": "2026-11-09-mwi-malawi-s-nzika-digital-id-bounced-at-the-bank", "studies": {
-"authentication": {"countries": {"MWI": {"facts": [
-{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "Malawi launched the Nzika Digital ID Wallet in Lilongwe on 16 September 2026, with the National Registration Bureau saying it carries the same validity as the physical national ID card; more than 22,000 people had signed up by launch day.", "as_of": "2026-09-16", "date_precision": "day", "system": "Nzika Digital ID Wallet", "class": "authentication"},
-{"sub_indicator": "authentication", "aspect": "remote", "value": "wallet", "fact": "The Nzika Digital ID Wallet, launched 16 September 2026 by the National Registration Bureau and promised the same validity as the plastic card for accessing services, lets people carry their national ID on a phone; 22,000 signed up by launch day, though some banks refuse it and the bankers' association says it is piloted with one bank.", "as_of": "2026-09-16", "date_precision": "day", "system": "Nzika Digital ID Wallet", "class": "authentication"}
-], "systems": [{"system": "Nzika Digital ID Wallet", "country_label": "Malawi", "class": "authentication", "platform": "", "owner": "National Registration Bureau", "tiers": ""}], "note": ""}}},
-"birthidlink": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No civil register link stated."}}},
-"idcoverage": {"countries": {"MWI": {"facts": [], "systems": [], "note": "No share of the population enrolled stated; only 22,000 wallet sign-ups."}}},
-"idfrombirth": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
-"idmaintenance": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Wallet built through a UNDP project; no statement on who operates or maintains the ID system."}}},
-"idregisters": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Only the central bank's declaration of the national ID as primary document for financial transactions; no public register keyed on it stated."}}},
-"idrobustness": {"countries": {"MWI": {"facts": [], "systems": [], "note": "Nothing on the ID system's biometrics, certification or coverage."}}}
-}}
+{
+  "slug": "2026-11-09-mwi-malawi-s-nzika-digital-id-bounced-at-the-bank",
+  "studies": {
+    "idverification": {"countries": {"MWI": {"facts": [
+      {"sub_indicator": "use", "aspect": "use", "value": "underway", "fact": "The Bankers Association of Malawi says the Nzika digital ID wallet is still being piloted with only one bank, two months after its 16 September 2026 launch, and some banks refuse it.", "as_of": "2026-11", "date_precision": "month", "system": "Nzika Digital ID Wallet", "class": "relying"}
+    ], "systems": [
+      {"system": "Nzika Digital ID Wallet", "country_label": "Nzika Digital ID Wallet", "class": "relying", "platform": "", "owner": "National Registration Bureau", "tiers": ""}
+    ], "note": ""}}},
+    "registry": {"countries": {"MWI": {"facts": [], "systems": [], "note": "States nothing on civil registration."}}}
+  }
+}

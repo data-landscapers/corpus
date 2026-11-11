@@ -1,0 +1,12 @@
+{"slug": "2025-05-28-cmr-arrete-n080-cab-pm-du-28-mai-2025-instituant-une-plateforme-electroniq", "studies": {
+"businesspayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "TRESOR PAY is a state revenue and spending platform; no e-procurement stated."}}},
+"centralbank": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"crossborderpayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"g2ppayments": {"countries": {"CMR": {"facts": [], "systems": [{"system": "TRESOR PAY", "country_label": "TRESOR PAY", "class": "other", "platform": "state electronic platform for receipts and spending", "owner": "Government of Cameroon", "tiers": ""}], "note": "The order covers state spending generally; no payment to people is stated."}}},
+"localgov": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No local government office connection stated."}}},
+"paymentslaw": {"countries": {"CMR": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Prime Minister's order of 28 May 2025 cites CEMAC regulation 03/16/CEMAC/UMAC/CM of 21 December 2016 on payment systems and incidents as a legal basis, alongside a finance ministry order of 28 February 2024 on approving electronic payment service providers.", "as_of": "2025-05-28", "date_precision": "day", "system": "Reglement 03/16/CEMAC/UMAC/CM", "class": "law"}], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No survey share."}}},
+"retailpayments": {"countries": {"CMR": {"facts": [], "systems": [], "note": "No mobile money service licensed or in service stated for people."}}},
+"revenuecollection": {"countries": {"CMR": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "underway", "fact": "A Prime Minister's order of 28 May 2025 set up TRESOR PAY as the single platform for collecting state revenue and paying state expenditure electronically, by mobile money, bank transfer, card or payment terminal; the text held does not say it is in service.", "as_of": "2025-05-28", "date_precision": "day", "system": "TRESOR PAY", "class": "revenue"}], "systems": [{"system": "TRESOR PAY", "country_label": "TRESOR PAY", "class": "revenue", "platform": "", "owner": "Government of Cameroon", "tiers": ""}], "note": ""}}}
+}}

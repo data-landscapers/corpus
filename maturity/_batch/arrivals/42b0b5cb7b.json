@@ -1,1 +1,4 @@
-{"slug": "2024-07-01-sle-undp-annual-report-justice-app", "studies": {"coresystems": {"countries": {"SLE": {"facts": [], "systems": [{"system": "Justice App", "country_label": "Justice App", "class": "other", "platform": "mobile app", "owner": "Judiciary of Sierra Leone", "tiers": ""}], "note": "Court case management app; states nothing on the finance, tax or payroll systems."}}}, "customs": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Court case app only; states nothing on customs."}}}}}
+{"slug": "2024-07-01-sle-undp-annual-report-justice-app", "studies": {
+"educationmis": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Justice app report; no education system stated."}}},
+"schools": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No school learner records stated."}}}
+}}

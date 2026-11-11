@@ -1,15 +1,7 @@
-{"slug": "2026-11-08-ken-sh500m-fines-parental-consent-mps-tough-new-rules-for-children-social-media-giants", "studies": {
-"authentication": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Mentions digital-identity verification only as an approved parental-consent method in a bill; no service stated in use."}}},
-"birthidlink": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on civil register and ID links."}}},
-"dataprotectionlaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Online Safety Bill is not a data protection law; the Data Protection Act is mentioned only in passing, with nothing on standing, authority or application."}}},
-"egovservices": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on government online services."}}},
-"idcoverage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on ID enrolment."}}},
-"idfrombirth": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on numbers at birth."}}},
-"idmaintenance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on ID operation or ownership."}}},
-"idregisters": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on registers keyed on the ID number."}}},
-"idrobustness": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
-"internetusage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "No share of people using the internet given."}}},
-"interoperabilitylaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on public bodies sharing data."}}},
-"opendiscussion": {"countries": {"KEN": {"facts": [], "systems": [{"system": "Online Safety Bill 2026", "country_label": "Kenya", "class": "other", "platform": "", "owner": "private member's bill, National Assembly", "tiers": ""}], "note": "A children's social media rule is not a cut, punishment or criticism fact for this study."}}},
-"police": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Mentions police only as a body to which abuse may be reported; no station records stated."}}}
-}}
+{
+  "slug": "2026-11-08-ken-sh500m-fines-parental-consent-mps-tough-new-rules-for-children-social-media-giants",
+  "studies": {
+    "cybersecuritylaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "The Online Safety Bill 2026 is a child online safety and content bill, not a bill on attacks on computers and data or duties to protect systems."}}},
+    "paymentslaw": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on payments law or e-money rules."}}}
+  }
+}

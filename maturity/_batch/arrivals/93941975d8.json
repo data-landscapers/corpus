@@ -1,0 +1,846 @@
+{
+ "slug": "2026-11-09-ipris-tenth-cohort",
+ "studies": {
+  "civilserviceskills": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "States no civil service digital-skills training."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "States no civil service digital-skills training."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States no civil service digital-skills training."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "States no civil service digital-skills training."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "States no civil service digital-skills training."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "States no civil service digital-skills training."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "States no civil service digital-skills training."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "States no civil service digital-skills training."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "States no civil service digital-skills training."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "States no civil service digital-skills training."
+    },
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "States no civil service digital-skills training."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "States no civil service digital-skills training."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "States no civil service digital-skills training."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States no civil service digital-skills training."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "States no civil service digital-skills training."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Consumer protection named only as a topic of regulator exchange, with no country rule or body stated."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Consumer protection named only as a topic of regulator exchange, with no country rule or body stated."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Consumer protection named only as a topic of regulator exchange, with no country rule or body stated."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Consumer protection named only as a topic of regulator exchange, with no country rule or body stated."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Consumer protection named only as a topic of regulator exchange, with no country rule or body stated."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Consumer protection named only as a topic of regulator exchange, with no country rule or body stated."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Consumer protection named only as a topic of regulator exchange, with no country rule or body stated."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Consumer protection named only as a topic of regulator exchange, with no country rule or body stated."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Consumer protection named only as a topic of regulator exchange, with no country rule or body stated."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Consumer protection named only as a topic of regulator exchange, with no country rule or body stated."
+    },
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Consumer protection named only as a topic of regulator exchange, with no country rule or body stated."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Consumer protection named only as a topic of regulator exchange, with no country rule or body stated."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Consumer protection named only as a topic of regulator exchange, with no country rule or body stated."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Consumer protection named only as a topic of regulator exchange, with no country rule or body stated."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Consumer protection named only as a topic of regulator exchange, with no country rule or body stated."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national cyber body, strategy or response for this country."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national cyber body, strategy or response for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national cyber body, strategy or response for this country."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national cyber body, strategy or response for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national cyber body, strategy or response for this country."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national cyber body, strategy or response for this country."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national cyber body, strategy or response for this country."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national cyber body, strategy or response for this country."
+    },
+    "NAM": {
+     "facts": [
+      {
+       "sub_indicator": "readiness",
+       "aspect": "foundation",
+       "value": "body",
+       "fact": "iPRIS reports that Namibia's communications regulator CRAN, with the Namibia Cybersecurity Incident Response Team (NAM-CSIRT), developed and launched National Cybersecurity Incident Management Guidelines setting reporting timelines across government, businesses and critical infrastructure operators.",
+       "as_of": "2026-11-09",
+       "date_precision": "day",
+       "system": "NAM-CSIRT",
+       "class": "response"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NAM-CSIRT",
+       "country_label": "Namibia Cybersecurity Incident Response Team",
+       "class": "response",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national cyber body, strategy or response for this country."
+    },
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national cyber body, strategy or response for this country."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national cyber body, strategy or response for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national cyber body, strategy or response for this country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national cyber body, strategy or response for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national cyber body, strategy or response for this country."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "States no public digital-skills programme."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "States no public digital-skills programme."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States no public digital-skills programme."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "States no public digital-skills programme."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "States no public digital-skills programme."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "States no public digital-skills programme."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "States no public digital-skills programme."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "States no public digital-skills programme."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "States no public digital-skills programme."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "States no public digital-skills programme."
+    },
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "States no public digital-skills programme."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "States no public digital-skills programme."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "States no public digital-skills programme."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States no public digital-skills programme."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "States no public digital-skills programme."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national digital strategy."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national digital strategy."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national digital strategy."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national digital strategy."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national digital strategy."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national digital strategy."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national digital strategy."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national digital strategy."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national digital strategy."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national digital strategy."
+    },
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national digital strategy."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national digital strategy."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national digital strategy."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national digital strategy."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "States no national digital strategy."
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on accessibility for this country."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on accessibility for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on accessibility for this country."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on accessibility for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on accessibility for this country."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on accessibility for this country."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on accessibility for this country."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on accessibility for this country."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on accessibility for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on accessibility for this country."
+    },
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on accessibility for this country."
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "accessibility",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "iPRIS reports that the Tanzania Communications Regulatory Authority (TCRA) has an ongoing initiative integrating assistive technologies to make its website accessible, reported 80 per cent complete in October 2026.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "TCRA website accessibility initiative",
+       "class": "accessibility"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on accessibility for this country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on accessibility for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on accessibility for this country."
+    }
+   }
+  },
+  "ictstrategy": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "States no ICT sector strategy."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "States no ICT sector strategy."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States no ICT sector strategy."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "States no ICT sector strategy."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "States no ICT sector strategy."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "States no ICT sector strategy."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "States no ICT sector strategy."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "States no ICT sector strategy."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "States no ICT sector strategy."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "States no ICT sector strategy."
+    },
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "States no ICT sector strategy."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "States no ICT sector strategy."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "States no ICT sector strategy."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States no ICT sector strategy."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "States no ICT sector strategy."
+    }
+   }
+  },
+  "itcapacity": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on in-house IT capacity."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on in-house IT capacity."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on in-house IT capacity."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on in-house IT capacity."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on in-house IT capacity."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on in-house IT capacity."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on in-house IT capacity."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on in-house IT capacity."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on in-house IT capacity."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on in-house IT capacity."
+    },
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on in-house IT capacity."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on in-house IT capacity."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on in-house IT capacity."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on in-house IT capacity."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on in-house IT capacity."
+    }
+   }
+  },
+  "qualitystandards": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on national IT standards for this country."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on national IT standards for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on national IT standards for this country."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on national IT standards for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on national IT standards for this country."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on national IT standards for this country."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on national IT standards for this country."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on national IT standards for this country."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on national IT standards for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on national IT standards for this country."
+    },
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on national IT standards for this country."
+    },
+    "TZA": {
+     "facts": [
+      {
+       "sub_indicator": "standards",
+       "aspect": "standing",
+       "value": "published",
+       "fact": "iPRIS reports that the Tanzania Bureau of Standards recognised TCRA's efforts to implement the national ICT accessibility standard.",
+       "as_of": "2026-10",
+       "date_precision": "month",
+       "system": "national ICT accessibility standard",
+       "class": "body"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Tanzania Bureau of Standards",
+       "country_label": "TBS",
+       "class": "body",
+       "platform": "",
+       "owner": "",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on national IT standards for this country."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on national IT standards for this country."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "States nothing on national IT standards for this country."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "AGO": {
+     "facts": [],
+     "systems": [],
+     "note": "Regulators attend an EU-funded peer exchange run by SPIDER Center; no African body's own meeting, agreement or membership stated."
+    },
+    "CPV": {
+     "facts": [],
+     "systems": [],
+     "note": "Regulators attend an EU-funded peer exchange run by SPIDER Center; no African body's own meeting, agreement or membership stated."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Regulators attend an EU-funded peer exchange run by SPIDER Center; no African body's own meeting, agreement or membership stated."
+    },
+    "GNB": {
+     "facts": [],
+     "systems": [],
+     "note": "Regulators attend an EU-funded peer exchange run by SPIDER Center; no African body's own meeting, agreement or membership stated."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Regulators attend an EU-funded peer exchange run by SPIDER Center; no African body's own meeting, agreement or membership stated."
+    },
+    "LSO": {
+     "facts": [],
+     "systems": [],
+     "note": "Regulators attend an EU-funded peer exchange run by SPIDER Center; no African body's own meeting, agreement or membership stated."
+    },
+    "MOZ": {
+     "facts": [],
+     "systems": [],
+     "note": "Regulators attend an EU-funded peer exchange run by SPIDER Center; no African body's own meeting, agreement or membership stated."
+    },
+    "MUS": {
+     "facts": [],
+     "systems": [],
+     "note": "Regulators attend an EU-funded peer exchange run by SPIDER Center; no African body's own meeting, agreement or membership stated."
+    },
+    "NAM": {
+     "facts": [],
+     "systems": [],
+     "note": "Regulators attend an EU-funded peer exchange run by SPIDER Center; no African body's own meeting, agreement or membership stated."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Regulators attend an EU-funded peer exchange run by SPIDER Center; no African body's own meeting, agreement or membership stated."
+    },
+    "STP": {
+     "facts": [],
+     "systems": [],
+     "note": "Regulators attend an EU-funded peer exchange run by SPIDER Center; no African body's own meeting, agreement or membership stated."
+    },
+    "TZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Regulators attend an EU-funded peer exchange run by SPIDER Center; no African body's own meeting, agreement or membership stated."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Regulators attend an EU-funded peer exchange run by SPIDER Center; no African body's own meeting, agreement or membership stated."
+    },
+    "ZMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Regulators attend an EU-funded peer exchange run by SPIDER Center; no African body's own meeting, agreement or membership stated."
+    },
+    "ZWE": {
+     "facts": [],
+     "systems": [],
+     "note": "Regulators attend an EU-funded peer exchange run by SPIDER Center; no African body's own meeting, agreement or membership stated."
+    }
+   }
+  }
+ }
+}

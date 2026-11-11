@@ -1,0 +1,3 @@
+{"slug": "2026-11-08-rwa-raia-agentic-ai-poc", "studies": {
+"feedbackportals": {"countries": {"RWA": {"facts": [{"sub_indicator": "feedback", "aspect": "channel", "value": "underway", "fact": "Updaterw reports the Rwanda AI Agency is seeking firms for agentic AI pilots on Mbaza, the live MINALOC citizen complaints platform; no case counts are given.", "as_of": "2026-11-08", "date_precision": "day", "system": "Mbaza", "class": "feedback"}], "systems": [{"system": "Mbaza", "country_label": "Mbaza", "class": "feedback", "platform": "", "owner": "MINALOC", "tiers": ""}], "note": ""}}}
+}}

@@ -1,0 +1,20 @@
+{
+  "slug": "2026-01-01-rwa-risa-digital-ambassadors-program",
+  "studies": {
+    "birthidlink": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The page says nothing on a civil register and ID link."}}},
+    "civilserviceskills": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The programme trains citizens, not civil servants."}}},
+    "digitalskills": {"countries": {"RWA": {
+      "facts": [
+        {"sub_indicator": "publicskills", "aspect": "training", "value": "inservice", "fact": "RISA says its Digital Ambassadors Program, launched in September 2017 in Rulindo District and now run by over 2,000 ambassadors across the country, trained 3,262,869 citizens from 2017 to 2024.", "as_of": "2024", "date_precision": "year", "system": "Digital Ambassadors Program (DAP)", "class": "publicskills"}
+      ],
+      "systems": [
+        {"system": "Digital Ambassadors Program (DAP)", "country_label": "Rwanda", "class": "publicskills", "platform": "", "owner": "Rwanda Information Society Authority", "tiers": ""}
+      ],
+      "note": "The 75.2% literacy rate is given with no survey named, so no measured share is recorded."}}},
+    "egovservices": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The programme promotes e-service use; no e-service system, gateway or usage figure is stated."}}},
+    "idfrombirth": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+    "itcapacity": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No statement on government IT staffing or system ownership."}}},
+    "populationregister": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The ambassadors supported a National Population Registry upgrade, but the register's status is not stated."}}},
+    "schoolinternet": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No school internet figure or curriculum rule is stated."}}}
+  }
+}

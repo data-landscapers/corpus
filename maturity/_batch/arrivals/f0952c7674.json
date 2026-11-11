@@ -1,0 +1,8 @@
+{"slug": "2024-01-01-mus-cert-mu-guideline-cybersecurity-ethics-ai", "studies": {
+"aiabuse": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Informational guidance with no binding force; no rule, draft or authority on AI harms."}}},
+"aigovernment": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No government AI use stated."}}},
+"aisectoral": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"MUS": {"facts": [], "systems": [], "note": "No AI built or hosted in the country stated."}}},
+"cybersecurity": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Guideline only; does not state the body's creation, an incident response or critical infrastructure."}}},
+"dataprotectionlaw": {"countries": {"MUS": {"facts": [], "systems": [], "note": "Mentions no Mauritian data protection law."}}}
+}}

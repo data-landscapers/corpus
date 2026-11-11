@@ -1,0 +1,13 @@
+{"slug": "2026-06-30-tza-online-content-amendment-regulations-2026", "studies": {
+"authentication": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Online media licensing regulations; no authentication service stated."}}},
+"birthidlink": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Regulations on online media licences; nothing on civil register or ID links."}}},
+"egovservices": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Only a TCRA licensing portal for online media applications is mentioned; no e-government service study fact."}}},
+"idcoverage": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Applicants must supply a National Identity Card copy; no enrolment count or share stated."}}},
+"idfrombirth": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on ID numbers at birth."}}},
+"idmaintenance": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on who operates or maintains the ID system."}}},
+"idregisters": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Applications ask for a National ID Number, but no public register is said to be keyed on it."}}},
+"idrobustness": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing stated about the national ID system itself."}}},
+"opendiscussion": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Online content licensing and fee rules only; nothing a study asks."}}},
+"schoolinternet": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Nothing on school connectivity."}}},
+"taxregister": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Tax clearance certificate and TIN are application requirements only; no tax register system stated."}}}
+}}

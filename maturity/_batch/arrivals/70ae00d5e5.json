@@ -1,0 +1,27 @@
+{
+  "slug": "2026-11-10-cod-nation-digitale-2030-a-kinshasa-les-dsi-de-l-etat-s-imposent",
+  "studies": {
+    "aiabuse": {"countries": {"COD": {"facts": [], "systems": [], "note": "AI appears only as a round-table topic; no rule or authority on AI harms is stated."}}},
+    "aigovernment": {"countries": {"COD": {"facts": [], "systems": [], "note": "No government AI system, pilot or tender is stated."}}},
+    "aisectoral": {"countries": {"COD": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+    "aisystems": {"countries": {"COD": {"facts": [], "systems": [], "note": "An ambition to become a major AI actor is stated, with no model, dataset or AI computing named."}}},
+    "authentication": {"countries": {"COD": {"facts": [], "systems": [], "note": "Digital identity is named as an ADN priority only; no authentication service is stated."}}},
+    "birthidlink": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document says nothing on civil register and ID links."}}},
+    "digitalskills": {"countries": {"COD": {"facts": [], "systems": [], "note": "Human capital is a pillar of the vision; no public digital-skills programme is stated."}}},
+    "digitalsovereignty": {"countries": {"COD": {
+      "facts": [
+        {"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "ADN Deputy Coordinator Jean-Luc Mugogwa said on 9 November 2026 that one of the Agency's two priorities is a sovereign data-hosting space and an interconnection and innovation centre for the DRC.", "as_of": "2026-11-09", "date_precision": "day", "system": "espace souverain d'hebergement des donnees", "class": "sovereignty"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "digitalstrategy": {"countries": {"COD": {"facts": [], "systems": [{"system": "RDC, Nation Digitale 2030", "country_label": "DRC", "class": "other", "platform": "", "owner": "President of the Republic", "tiers": ""}], "note": "The Vision is named and the move from the Plan national du numerique to it was presented, but no adoption, text, body or finance is stated."}}},
+    "fibrebackbone": {"countries": {"COD": {"facts": [], "systems": [], "note": "The national fibre backbone was a presentation topic only; no works, service or reach is stated."}}},
+    "idcoverage": {"countries": {"COD": {"facts": [], "systems": [], "note": "No enrolment count or share is stated."}}},
+    "idfrombirth": {"countries": {"COD": {"facts": [], "systems": [], "note": "No number at birth is stated."}}},
+    "idmaintenance": {"countries": {"COD": {"facts": [], "systems": [], "note": "No statement on who operates or owns the ID system."}}},
+    "idregisters": {"countries": {"COD": {"facts": [], "systems": [], "note": "No register keyed on the national ID number is stated."}}},
+    "idrobustness": {"countries": {"COD": {"facts": [], "systems": [], "note": "Digital identity is named as a priority only; no ID system status is stated."}}},
+    "justice": {"countries": {"COD": {"facts": [], "systems": [], "note": "E-justice is named as a priority only; no court system is stated."}}},
+    "schoolinternet": {"countries": {"COD": {"facts": [], "systems": [], "note": "E-education is named as a priority only; no school internet figure or curriculum rule is stated."}}}
+  }
+}

@@ -1,0 +1,11 @@
+{"slug": "2026-11-09-sdn-cbs-restoring-banking-systems", "studies": {
+"businesspayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "IMEX is an import/export system; no e-procurement stated."}}},
+"centralbank": {"countries": {"SDN": {"facts": [{"sub_indicator": "centralbank", "aspect": "switch", "value": "overseen", "fact": "The Central Bank of Sudan's director general of policies says payment systems were reformed by reactivating the Siraj instant gross settlement system and partially reinstating the national switching system.", "as_of": "2026-11-09", "date_precision": "day", "system": "National switching system", "class": "oversight"}], "systems": [{"system": "Siraj RTGS", "country_label": "Siraj", "class": "other", "platform": "", "owner": "Central Bank of Sudan", "tiers": ""}, {"system": "National switching system", "country_label": "National switch", "class": "oversight", "platform": "", "owner": "Central Bank of Sudan", "tiers": ""}], "note": ""}}},
+"consumerprotection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No consumer-protection rule for digital finance stated."}}},
+"crossborderpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Only foreign transactions and import/export transfers generally; no digital corridor or regional system."}}},
+"g2ppayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No government payments to people stated."}}},
+"paymentsuptake": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No survey figure stated."}}},
+"refugees": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Mentions displaced persons only in passing; no registration or access stated."}}},
+"retailpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "The national switch is not stated to connect wallets and banks; no mobile money stated."}}},
+"revenuecollection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No electronic tax payment stated."}}}
+}}

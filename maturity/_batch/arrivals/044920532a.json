@@ -1,0 +1,26 @@
+{
+  "slug": "2023-11-23-tza-fsdt-universal-id-financial-inclusion",
+  "studies": {
+    "authentication": {"countries": {"TZA": {"facts": [], "systems": [], "note": "e-KYC and mobile ID are only options FSDT is considering; no service stated."}}},
+    "birthidlink": {"countries": {"TZA": {"facts": [], "systems": [], "note": "States no link between civil register and ID."}}},
+    "businesspayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "States nothing on e-procurement."}}},
+    "centralbank": {"countries": {"TZA": {"facts": [], "systems": [], "note": "States nothing on the central bank."}}},
+    "consumerprotection": {"countries": {"TZA": {"facts": [], "systems": [], "note": "States nothing on consumer protection."}}},
+    "crossborderpayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "States nothing on cross-border payments."}}},
+    "digitalidlaw": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Names the 1986 Registration and Identification of Persons Act and a review FSDT urges; no digital ID law stated."}}},
+    "g2ppayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "States nothing on government payments."}}},
+    "idcoverage": {"countries": {"TZA": {"facts": [], "systems": [], "note": "The 57% share is of adults only, which does not count."}}},
+    "idfrombirth": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Government highlighting the need for a number from birth is an intention, with no system or plan stated."}}},
+    "idmaintenance": {"countries": {"TZA": {"facts": [], "systems": [], "note": "States nothing on who operates or maintains the ID system."}}},
+    "idregisters": {"countries": {"TZA": {"facts": [], "systems": [], "note": "States no public register keyed on the NIN."}}},
+    "idrobustness": {"countries": {"TZA": {"facts": [
+      {"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "FSDT says it has long worked with the National Identification Authority (NIDA) to issue millions of national identification numbers, and cites FinScope Tanzania 2023 that 57% of adults hold one.", "as_of": "2023", "date_precision": "year", "system": "National Identification Number (NIDA)", "class": "idsystem"}
+    ], "systems": [
+      {"system": "National Identification Number", "country_label": "NIN / NIDA", "class": "idsystem", "platform": "", "owner": "National Identification Authority (NIDA)", "tiers": ""}
+    ], "note": ""}}},
+    "idverification": {"countries": {"TZA": {"facts": [], "systems": [], "note": "States no relying body checking the ID; e-KYC is only proposed."}}},
+    "paymentsuptake": {"countries": {"TZA": {"facts": [], "systems": [], "note": "States no account-holding share."}}},
+    "retailpayments": {"countries": {"TZA": {"facts": [], "systems": [], "note": "States nothing on retail payments."}}},
+    "revenuecollection": {"countries": {"TZA": {"facts": [], "systems": [], "note": "States nothing on revenue collection."}}}
+  }
+}

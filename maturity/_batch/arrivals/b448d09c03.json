@@ -1,0 +1,4 @@
+{"slug": "2026-08-17-sierra-leone-nra-asycuda-audit-integrity-failure", "studies": {
+"dataexchange": {"countries": {"SLE": {"facts": [], "systems": [], "note": "ASYCUDA is a single customs system with bank-teller validation; no government data exchange platform stated."}}},
+"interoperability": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on an interoperability framework."}}}
+}}

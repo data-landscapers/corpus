@@ -1,0 +1,12 @@
+{"slug": "2025-06-15-egy-youm7-uhia-70-percent-services-digitised", "studies": {
+"authentication": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No authentication service stated; the national number is used to look up medical history."}}},
+"birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Civil status ministry named only as a data source for the insurer; no civil register to ID link stated."}}},
+"healthmis": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Describes the Universal Health Insurance Authority's own insurance applications, which are not a national routine-reporting health information system."}}},
+"idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No count or share of people holding the ID stated."}}},
+"idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on who operates or owns the ID system."}}},
+"idregisters": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The insurer's patient records keyed on the national number are a health insurance system, not one of the main public registers; no register adoption of the ID stated."}}},
+"idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on the ID system's issuance, biometrics or certification."}}},
+"registry": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on civil registration offices."}}},
+"socialprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Takaful and Karama named only as a source of beneficiary data for the insurer; no programme system stated."}}}
+}}

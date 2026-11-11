@@ -1,0 +1,8 @@
+{"slug": "2026-11-10-kenya-nominates-lydia-sitienei-second-data-commissioner", "studies": {
+"dataprotectionauthority": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "Tech Africa News reports Kenya has an Office of the Data Protection Commissioner headed by inaugural commissioner Immaculate Kassait, whose six-year term is ending, and that President Ruto nominated Lydia Sitienei as successor.", "as_of": "2026-11-10", "date_precision": "day", "system": "ODPC", "class": "authority"}
+], "systems": [{"system": "ODPC", "country_label": "Kenya", "class": "authority", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"dataprotectionlaw": {"countries": {"KEN": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Tech Africa News reports the Office of the Data Protection Commissioner is led by inaugural commissioner Immaculate Kassait, with a successor nominated under the Data Protection Act.", "as_of": "2026-11-10", "date_precision": "day", "system": "ODPC", "class": "general"}
+], "systems": [], "note": ""}}}
+}}

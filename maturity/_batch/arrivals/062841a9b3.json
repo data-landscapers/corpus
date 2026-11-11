@@ -1,0 +1,8 @@
+{"slug": "2026-11-05-tgo-ipdcp-communique-009-donnees-reseaux-sociaux", "studies": {
+"dataprotectionauthority": {"countries": {"TGO": {"facts": [{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "The IPDCP, headed by its President Colonel Belei Bedian, issued communique No. 0009/IPDCP/P/2026 on 5 November 2026 as Togo's personal data protection authority under Law No. 2019-014.", "as_of": "2026-11-05", "date_precision": "day", "system": "IPDCP", "class": "authority"}], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "The IPDCP's communique cites Law No. 2019-014 of 29 October 2019 on personal data protection, whose articles 84 and 92 set one to five years' prison and fines up to CFAF 20 million.", "as_of": "2026-11-05", "date_precision": "day", "system": "Law No. 2019-014", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The IPDCP, led by a named president, is acting as the supervisory body under Law No. 2019-014 in its communique of 5 November 2026.", "as_of": "2026-11-05", "date_precision": "day", "system": "IPDCP", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The IPDCP warned against social-media calls to identify and expose people, reminding that such collection and disclosure breach the law; no sanction or decision is stated.", "as_of": "2026-11-05", "date_precision": "day", "system": "IPDCP communique 0009", "class": "general"}], "systems": [], "note": ""}}},
+"internetusage": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No internet use figure."}}}
+}}

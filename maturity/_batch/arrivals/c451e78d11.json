@@ -1,44 +1,7 @@
-{
- "slug": "2026-11-09-cod-wacs-cable-repairs-enter-critical-phase",
- "studies": {
-  "internationalbandwidth": {
-   "countries": {
-    "COD": {
-     "facts": [],
-     "systems": [],
-     "note": "A WACS fault on the DRC-Congo segment is reported but no DRC landing or traffic is stated."
-    },
-    "COG": {
-     "facts": [
-      {
-       "sub_indicator": "routes",
-       "aspect": "routes",
-       "value": "one",
-       "fact": "ITWeb Africa reports WACS lands in the Republic of Congo and carried Congo Telecom's primary circuits until a 29 October 2026 fault, with traffic failing over to unspecified backup links.",
-       "as_of": "2026-10-29",
-       "date_precision": "day",
-       "system": "WACS",
-       "class": "route"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    }
-   }
-  },
-  "offsitebackup": {
-   "countries": {
-    "COD": {
-     "facts": [],
-     "systems": [],
-     "note": "Nothing on backup sites."
-    },
-    "COG": {
-     "facts": [],
-     "systems": [],
-     "note": "Nothing on backup sites."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-11-09-cod-wacs-cable-repairs-enter-critical-phase", "studies": {
+"exchangepoints": {"countries": {"COD": {"facts": [], "systems": [], "note": "Cable fault report; no exchange point stated."}, "COG": {"facts": [], "systems": [], "note": "Cable fault report; no exchange point stated."}}},
+"internetusage": {"countries": {"COD": {"facts": [], "systems": [], "note": "No usage figure."}, "COG": {"facts": [], "systems": [], "note": "No usage figure."}}},
+"localgov": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on local governments."}}},
+"mobilepenetration": {"countries": {"COG": {"facts": [], "systems": [], "note": "No ownership figure."}}},
+"satellitebroadband": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on satellite broadband."}}}
+}}

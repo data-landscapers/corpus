@@ -1,0 +1,151 @@
+{
+ "slug": "2026-01-01-rwa-minict-digital-ambassadors-programme",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "civilserviceskills": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "digitalskills": {
+   "countries": {
+    "RWA": {
+     "facts": [
+      {
+       "sub_indicator": "publicskills",
+       "aspect": "training",
+       "value": "inservice",
+       "fact": "Rwanda's MINICT, with GIZ, runs the countrywide Digital Ambassadors Programme, which had trained 67,627 citizens in digital skills by about April 2020, across 110 cells in 30 districts under its new model.",
+       "as_of": "2020-04",
+       "date_precision": "month",
+       "system": "Digital Ambassadors Program",
+       "class": "publicskills"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Digital Ambassadors Program",
+       "country_label": "Rwanda",
+       "class": "publicskills",
+       "platform": "",
+       "owner": "MINICT",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "disabilityaccess": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Training for persons with disabilities is a stated objective only; no accessible service or rule."
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Irembo is named only as what ambassadors train people to use; no services or counts stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "localgov": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Service Access Points are for citizens, not local government offices."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "RWA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  }
+ }
+}

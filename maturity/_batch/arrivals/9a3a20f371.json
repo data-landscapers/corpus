@@ -1,14 +1,1 @@
-{
- "slug": "2026-10-07-na-paratus-oneweb-leo",
- "studies": {
-  "exchangepoints": {
-   "countries": {
-    "NAM": {
-     "facts": [],
-     "systems": [],
-     "note": "No exchange point mentioned."
-    }
-   }
-  }
- }
-}
+{"slug": "2026-10-07-na-paratus-oneweb-leo", "studies": {"internetusage": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No share of the population using the internet is given."}}}}}

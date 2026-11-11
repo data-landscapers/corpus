@@ -1,0 +1,11 @@
+{"slug": "2026-11-09-benin-higher-education-ai-institute", "studies": {
+"aiabuse": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No rule or authority on AI harms stated."}}},
+"aigovernment": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No government body's AI use stated."}}},
+"aisectoral": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No AI tool in a sector system stated."}}},
+"aistrategy": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "The Council of Ministers adopted Benin's National Artificial Intelligence and Big Data Strategy (SNIAM) for 2023-2027 on 18 January 2023, per the article.", "as_of": "2023-01-18", "date_precision": "day", "system": "SNIAM 2023-2027", "class": "strategy"}
+], "systems": [{"system": "SNIAM 2023-2027", "country_label": "Benin", "class": "strategy", "platform": "", "owner": "Council of Ministers", "tiers": ""}], "note": ""}}},
+"aisystems": {"countries": {"BEN": {"facts": [], "systems": [], "note": "A planned institute for training is not a model, dataset or AI computing."}}},
+"dataprotectionlaw": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Data protection is named only as a concern, with no law stated."}}},
+"stemgraduates": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No STEM graduate share or research network stated."}}}
+}}

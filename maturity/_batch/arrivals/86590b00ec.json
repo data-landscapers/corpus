@@ -1,0 +1,10 @@
+{
+  "slug": "2024-09-02-uga-ijeg-implementation-success-asycuda-world-ura",
+  "studies": {
+    "customs": {"countries": {"UGA": {"facts": [
+      {"sub_indicator": "customs", "aspect": "system", "value": "inservice", "fact": "A 2024 journal article surveys 118 Uganda Revenue Authority staff in three eastern branches on the implementation success of the ASYCUDA World customs data system in use at the authority.", "as_of": "2024-09-02", "date_precision": "day", "system": "ASYCUDA World", "class": "customs"}
+    ], "systems": [
+      {"system": "ASYCUDA World", "country_label": "ASYCUDA World (URA)", "class": "customs", "platform": "ASYCUDA World", "owner": "Uganda Revenue Authority", "tiers": ""}
+    ], "note": ""}}}
+  }
+}

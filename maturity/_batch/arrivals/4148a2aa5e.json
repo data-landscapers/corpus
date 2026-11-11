@@ -1,0 +1,6 @@
+{
+  "slug": "2026-11-10-nga-thefact-nigeria-integrates-17m-migration-records-advances-eu-deal",
+  "studies": {
+    "idverification": {"countries": {"NGA": {"facts": [], "systems": [{"system": "Border Control and Immigration Management System", "country_label": "Nigeria Immigration Service border system", "class": "other", "platform": "", "owner": "Nigeria Immigration Service", "tiers": ""}], "note": "Migration records are integrated into the immigration system; no check against the national ID is stated."}}}
+  }
+}

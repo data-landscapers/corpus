@@ -1,0 +1,13 @@
+{
+  "slug": "2025-07-11-ago-angola-da-passos-firmes-rumo-a-uma-administracao-publica-mais-intelige",
+  "studies": {
+    "birthidlink": {"countries": {"AGO": {"facts": [], "systems": [], "note": "States nothing on civil register and ID links."}}},
+    "civilregister": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Names the civil registry counter only as an example; no digital register stated."}}},
+    "dataexchange": {"countries": {"AGO": {"facts": [], "systems": [], "note": "X-Road was demonstrated and a National Interoperability Platform is a next step; no platform procured, built or piloted is stated."}}},
+    "idfrombirth": {"countries": {"AGO": {"facts": [], "systems": [], "note": "States nothing on ID numbers from birth."}}},
+    "interoperability": {"countries": {"AGO": {"facts": [
+      {"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "The Ministry of Youth and Sports reports that a workshop led by the Instituto de Modernizacao Administrativa (IMA) with Estonia's Digital Nation discussed a proposed national interoperability framework for public administration.", "as_of": "2025-07-11", "date_precision": "day", "system": "Public Administration Interoperability Framework and Roadmap", "class": "framework"}
+    ], "systems": [], "note": ""}}},
+    "registry": {"countries": {"AGO": {"facts": [], "systems": [], "note": "States no digital entry of births or deaths at local offices."}}}
+  }
+}

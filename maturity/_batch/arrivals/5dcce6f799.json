@@ -1,12 +1,12 @@
 {
  "slug": "2026-08-18-airtel-starlink-satellite-mobile-drc",
  "studies": {
-  "exchangepoints": {
+  "internationalbandwidth": {
    "countries": {
     "COD": {
      "facts": [],
      "systems": [],
-     "note": "The document says nothing about an internet exchange point."
+     "note": "Satellite-to-mobile service, which is not fibre; no international fibre route stated."
     }
    }
   }

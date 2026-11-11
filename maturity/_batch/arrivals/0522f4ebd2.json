@@ -1,30 +1,12 @@
 {
  "slug": "2026-08-21-cod-kinix-kinshasa-internet-exchange-expands-into-raxio-drc",
  "studies": {
-  "internetusage": {
+  "internationalbandwidth": {
    "countries": {
     "COD": {
      "facts": [],
      "systems": [],
-     "note": "No share of population using the internet stated."
-    }
-   }
-  },
-  "localgov": {
-   "countries": {
-    "COD": {
-     "facts": [],
-     "systems": [],
-     "note": "Nothing on local government office connection."
-    }
-   }
-  },
-  "satellitebroadband": {
-   "countries": {
-    "COD": {
-     "facts": [],
-     "systems": [],
-     "note": "No satellite broadband stated."
+     "note": "Internet exchange point; no cable or international fibre route stated."
     }
    }
   }

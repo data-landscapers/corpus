@@ -1,0 +1,764 @@
+{
+ "slug": "2026-11-10-ria-bringing-more-voices-into-the-room-africa-igf-2026",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    }
+   }
+  },
+  "ailaw": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "draft",
+       "fact": "Research ICT Africa's report cites its Tech Policy Press piece 'What Kenya's AI Bill Gets Wrong About Political Expression', naming a Kenyan AI bill.",
+       "as_of": "2026-11-10",
+       "date_precision": "day",
+       "system": "Kenya AI Bill",
+       "class": "law"
+      }
+     ],
+     "systems": [],
+     "note": ""
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    }
+   }
+  },
+  "aistrategy": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    }
+   }
+  },
+  "authentication": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    }
+   }
+  },
+  "datacentres": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    }
+   }
+  },
+  "electoralregister": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "CMR": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "COM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GHA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "GMB": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "KEN": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "SOM": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    },
+    "UGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Convening report; states nothing this study asks for this country."
+    }
+   }
+  }
+ }
+}

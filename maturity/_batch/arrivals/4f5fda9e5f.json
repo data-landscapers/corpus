@@ -1,0 +1,38 @@
+{
+  "slug": "2026-11-10-mar-ahmed-rahhou-annonce-une-ia-en-darija-en-commission-parlemen",
+  "studies": {
+    "aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on rules or an authority against AI harms."}}},
+    "aigovernment": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Voice services, a digital agent and legal assistants are announced as to be developed; no tender, pilot or test is stated."}}},
+    "aisectoral": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No AI tool in a sector's public system is stated."}}},
+    "aisystems": {
+      "countries": {
+        "MAR": {
+          "facts": [
+            {
+              "sub_indicator": "localai",
+              "aspect": "build",
+              "value": "underway",
+              "fact": "Alyaoum24, relayed by TelQuel, reports the digital transition ministry is working on a first national open-source language model and is developing a speech-recognition model jointly with Mistral, to be released as open source, with a programme due to launch in 2027.",
+              "as_of": "2026-11-10",
+              "date_precision": "day",
+              "system": "national open-source language model; speech-recognition model with Mistral",
+              "class": "localai"
+            }
+          ],
+          "systems": [
+            {"system": "national open-source language model", "country_label": "Morocco", "class": "localai", "platform": "", "owner": "Ministry of Artificial Intelligence, Digital Transition and Administration Reform", "tiers": ""},
+            {"system": "speech-recognition model with Mistral", "country_label": "Morocco", "class": "localai", "platform": "", "owner": "Ministry of Artificial Intelligence, Digital Transition and Administration Reform", "tiers": ""}
+          ],
+          "note": ""
+        }
+      }
+    },
+    "civilserviceskills": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Training for public agents is only envisaged by the ministry; no programme launched or prepared is stated."}}},
+    "datacentres": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Data centres are named only as part of a wider programme; no facility for hire is stated."}}},
+    "dataexchange": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No data exchange platform is stated."}}},
+    "dataprotectionlaw": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Only sensitive-data protection measures mentioned; no law, authority or decision stated."}}},
+    "digitalsovereignty": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Sovereign cloud is named only as part of a wider programme; no plan or rule on state data is stated."}}},
+    "itcapacity": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No government staff running or building a named system is stated."}}},
+    "nationaldatacentres": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire is named."}}}
+  }
+}

@@ -1,0 +1,9 @@
+{"slug": "2026-11-01-sdn-sudaray-cabinet-approves-three-cybersecurity-data-ai-digital-laws", "studies": {
+"aiabuse": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Bill regulates AI applications but names no harm, rule on harms or authority."}}},
+"aigovernment": {"countries": {"SDN": {"facts": [], "systems": [], "note": "A law on AI only; no government AI use stated."}}},
+"ailaw": {"countries": {"SDN": {"facts": [{"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "Sudan's Council of Ministers approved the draft 2026 Data and Artificial Intelligence Regulation Bill, submitted by the Ministry of Digital Transformation and Communications, which the minister says regulates the use of AI applications.", "as_of": "2026-11-01", "date_precision": "day", "system": "Data and Artificial Intelligence Regulation Bill 2026", "class": "law"}], "systems": [{"system": "Data and Artificial Intelligence Regulation Bill 2026", "country_label": "Sudan", "class": "law", "platform": "", "owner": "Ministry of Digital Transformation and Communications", "tiers": ""}], "note": ""}}},
+"aisectoral": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aisystems": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"datagovernance": {"countries": {"SDN": {"facts": [], "systems": [], "note": "A bill on data and AI, not a national data policy; no policy drafting stated."}}},
+"internationalstandards": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Only a general aim of data governance to international standards; no body, standard or rule named."}}}
+}}

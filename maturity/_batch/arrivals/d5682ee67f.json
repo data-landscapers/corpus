@@ -1,5 +1,5 @@
 {"slug": "2026-05-03-cod-la-rdc-veut-renforcer-ses-moyens-de-connectivite-internet-internationa", "studies": {
-"egovservices": {"countries": {"COD": {"facts": [], "systems": [], "note": "The document says nothing on online government services."}}},
-"internationalbandwidth": {"countries": {"COD": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "two", "fact": "Agence Ecofin reports that DR Congo depends on two submarine cables, WACS connected in 2013 and 2Africa, which landed in September 2023 and was put in service in December 2025 by Airtel RDC at 200 Gb/s.", "as_of": "2025-12", "date_precision": "month", "system": "WACS and 2Africa", "class": "route"}], "systems": [{"system": "WACS", "country_label": "DR Congo", "class": "route", "platform": "submarine cable", "owner": "", "tiers": ""}, {"system": "2Africa", "country_label": "DR Congo", "class": "route", "platform": "submarine cable", "owner": "Airtel RDC", "tiers": ""}], "note": ""}}},
-"internetusage": {"countries": {"COD": {"facts": [{"sub_indicator": "use", "aspect": "users", "value": "estimate:19.7", "fact": "Agence Ecofin reports the ITU estimated internet penetration in DR Congo at 19.7% in 2024.", "as_of": "2024", "date_precision": "year", "system": "ITU", "class": "use"}], "systems": [], "note": ""}}}
+"exchangepoints": {"countries": {"COD": {"facts": [], "systems": [], "note": "Cables and terrestrial links only; no exchange point stated."}}},
+"localgov": {"countries": {"COD": {"facts": [], "systems": [], "note": "Nothing on local governments."}}},
+"satellitebroadband": {"countries": {"COD": {"facts": [], "systems": [], "note": "The government only explores owning a telecoms satellite; no service stated."}}}
 }}

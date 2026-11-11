@@ -1,0 +1,29 @@
+{
+  "slug": "2026-11-09-ethiopia-eaii-ai-hub-2030-medemer-unipod",
+  "studies": {
+    "aiabuse": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No rule or authority on AI harms is stated."}}},
+    "aigovernment": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No government body's AI system is stated."}}},
+    "aisectoral": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+    "aisystems": {"countries": {"ETH": {
+      "facts": [
+        {"sub_indicator": "localai", "aspect": "build", "value": "inservice", "fact": "ENA reports that the AI UniPod, inaugurated on 16 February 2026 by EAII, UNDP and Addis Ababa University, is equipped with high-performance computing resources, and UNDP's Matthias Naab said its EDGE initiative provides high-performance GPUs there.", "as_of": "2026-11-09", "date_precision": "day", "system": "AI UniPod", "class": "localai"},
+        {"sub_indicator": "localai", "aspect": "compute", "value": "compute", "fact": "UNDP's Matthias Naab said on 9 November 2026 that UNDP's EDGE initiative provides high-performance GPUs at the AI UniPod in Addis Ababa for innovators to build AI products.", "as_of": "2026-11-09", "date_precision": "day", "system": "AI UniPod", "class": "localai"},
+        {"sub_indicator": "localai", "aspect": "shared", "value": "shared", "fact": "A 10-day residency at the AI UniPod opened on 9 November 2026 for 51 AI startup founders from 12 African countries, who use the UniPod's resources, ENA reports.", "as_of": "2026-11-09", "date_precision": "day", "system": "AI UniPod", "class": "localai"}
+      ],
+      "systems": [
+        {"system": "AI UniPod", "country_label": "Ethiopia", "class": "localai", "platform": "GPUs via UNDP EDGE", "owner": "EAII, UNDP and Addis Ababa University", "tiers": ""}
+      ],
+      "note": ""}}},
+    "nonstatefinance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Japan's roughly US$1m a year goes to the AI UniPod initiative, not a private digital business, and no period or instrument is stated."}}},
+    "startups": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No startup law, strategy, labelling or public fund is stated."}}},
+    "stemgraduates": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No STEM graduate share or national research and education network is stated."}}},
+    "techhubs": {"countries": {"ETH": {
+      "facts": [
+        {"sub_indicator": "hub", "aspect": "hubs", "value": "inservice", "fact": "The AI UniPod hosted a 10-day Pan-African AI Ventures Residency opened on 9 November 2026 with mentorship and product development for a cohort of 51 AI startup founders from 12 African countries.", "as_of": "2026-11-09", "date_precision": "day", "system": "AI UniPod", "class": "hub"}
+      ],
+      "systems": [
+        {"system": "AI UniPod", "country_label": "Ethiopia", "class": "hub", "platform": "", "owner": "EAII, UNDP and Addis Ababa University", "tiers": ""}
+      ],
+      "note": ""}}}
+  }
+}

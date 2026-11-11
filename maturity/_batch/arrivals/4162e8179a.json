@@ -1,0 +1,16 @@
+{"slug": "2025-10-11-sen-analyse-des-politiques-de-digitalisation-au-senegal-pour-une-transform", "studies": {
+"aiabuse": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Opinion piece states nothing on AI harm rules or authority."}}},
+"aigovernment": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Mentions AI integration in industry only in general terms; no government AI system."}}},
+"aisectoral": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No sectoral AI tool in a public system stated."}}},
+"aisystems": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No AI model, dataset or computing stated."}}},
+"civilserviceskills": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Training is only proposed, for non-ICT professionals generally."}}},
+"cybersecurity": {"countries": {"SEN": {"facts": [], "systems": [], "note": "The author proposes creating a cybersecurity agency; no body, strategy, incident or designation stated."}}},
+"dataprotectionlaw": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Existing personal data regulation mentioned in passing only; no standing, authority or application stated."}}},
+"digitalskills": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Only a proposal for digital literacy modules; no programme stated."}}},
+"healthexchange": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Says exchange between hospital systems is difficult; no exchange under way or in service."}}},
+"idrobustness": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
+"internationalstandards": {"countries": {"SEN": {"facts": [], "systems": [], "note": "ISO 27001 and NIST named only as proposed standards; no membership or adoption stated."}}},
+"interoperability": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Opinion that standards are lacking; no framework drafted, adopted or dated absence stated."}}},
+"interoperabilitystandards": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Author's opinion that harmonised standards are lacking and an agency should mandate them; analysis, not a dated statement of absence or drafting."}}},
+"qualitystandards": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No national standards body or standard stated."}}}
+}}

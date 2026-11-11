@@ -1,0 +1,11 @@
+{
+  "slug": "2024-01-01-tgo-aegt-introduction-architecture-entreprise",
+  "studies": {
+    "coresystems": {"countries": {"TGO": {"facts": [
+      {"sub_indicator": "core", "aspect": "architecture", "value": "published", "fact": "Agence Togo Digital publishes online the documentation of the Architecture d'Entreprise Gouvernementale du Togo (AEGT), a reference architecture for public bodies' own enterprise architectures.", "as_of": "2024", "date_precision": "year", "system": "Architecture d'Entreprise Gouvernementale du Togo (AEGT)", "class": "core"}
+    ], "systems": [], "note": ""}}},
+    "interoperability": {"countries": {"TGO": {"facts": [], "systems": [], "note": "AEGT page names shared information and inter-agency collaboration as aims but sets no data exchange rule."}}},
+    "localgov": {"countries": {"TGO": {"facts": [], "systems": [], "note": "States nothing on local authorities."}}},
+    "qualitystandards": {"countries": {"TGO": {"facts": [], "systems": [], "note": "States no national standards body or IT standard."}}}
+  }
+}

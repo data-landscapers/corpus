@@ -1,0 +1,21 @@
+{
+  "slug": "2025-07-01-egy-eha-hits-hr-system-95-percent-digital-transformation",
+  "studies": {
+    "aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on rules or an authority against AI harms."}}},
+    "aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The Healthcare Authority calls AI tools a top priority but states no AI system under way or in service."}}},
+    "aisectoral": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No AI tool in the health system is stated as piloted or in service."}}},
+    "aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or computing is stated."}}},
+    "digitalstrategy": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [
+            {"system": "Egypt Healthcare Authority comprehensive digital transformation strategy", "country_label": "Egypt", "class": "ministry-plan", "platform": "", "owner": "Egypt Healthcare Authority", "tiers": ""}
+          ],
+          "note": "Only the Healthcare Authority's own strategy is named, not a national one."
+        }
+      }
+    },
+    "healthmis": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Mentions e-health systems and digital transformation at authority facilities but no national routine health reporting system."}}}
+  }
+}

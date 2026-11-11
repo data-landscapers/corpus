@@ -1,0 +1,23 @@
+{"slug": "2026-04-29-ken-techweez-icta-interoperability-framework-connected-africa", "studies": {
+"authentication": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on ID authentication."}}},
+"birthidlink": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on birth registration and ID."}}},
+"businesspayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on central bank role."}}},
+"consumerprotection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on Kenyan data centres."}}},
+"dataexchange": {"countries": {"KEN": {"facts": [], "systems": [], "note": "A framework is stated; no exchange platform in service or under way is named."}}},
+"egovservices": {"countries": {"KEN": {"facts": [], "systems": [{"system": "eCitizen", "country_label": "eCitizen", "class": "other", "platform": "", "owner": "", "tiers": ""}], "note": "eCitizen named as digitising public services; no count, gateway or usage stated."}}},
+"g2ppayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on government payments."}}},
+"idcoverage": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on Kenyan ID coverage."}}},
+"idfrombirth": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on ID from birth."}}},
+"idmaintenance": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on ID maintenance."}}},
+"idregisters": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on ID registers."}}},
+"idrobustness": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on ID robustness."}}},
+"interoperability": {"countries": {"KEN": {"facts": [{"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "Techweez reports Kenya launched the ICT Authority Interoperability Framework, announced at the Connected Africa Summit in Nairobi, setting standards for government platforms to share data.", "as_of": "2026-04-29", "date_precision": "day", "system": "ICT Authority Interoperability Framework", "class": "framework"}], "systems": [], "note": ""}}},
+"itcapacity": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on government technical staff."}}},
+"nationaldatacentres": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on Kenyan data centres."}}},
+"paymentsuptake": {"countries": {"KEN": {"facts": [], "systems": [], "note": "M-Pesa mentioned without a usable figure."}}},
+"retailpayments": {"countries": {"KEN": {"facts": [], "systems": [], "note": "M-Pesa mentioned without a usable figure."}}},
+"revenuecollection": {"countries": {"KEN": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+}}

@@ -1,0 +1,19 @@
+{
+  "slug": "2026-11-10-south-africa-yoco-secures-100-million-credit-facility-sme-financing",
+  "studies": {
+    "businesspayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on government e-procurement."}}},
+    "centralbank": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on the central bank's payments role."}}},
+    "consumerprotection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on consumer rules, redress or enforcement."}}},
+    "crossborderpayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+    "g2ppayments": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+    "nonstatefinance": {"countries": {"ZAF": {
+      "facts": [
+        {"sub_indicator": "private", "aspect": "money", "value": "committed", "fact": "Tech Africa News reported on 10 November 2026 that South African fintech Yoco secured a US$100 million credit facility from Victory Park Capital Advisors for its Yoco Capital merchant financing.", "as_of": "2026-11-10", "date_precision": "day", "system": "Yoco Capital credit facility", "class": "private"}
+      ],
+      "systems": [],
+      "note": "The article does not date the signing; the publication date is used. The financier is not stated to be South African."}}},
+    "paymentsuptake": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Yoco's merchant count is not an adult account survey."}}},
+    "retailpayments": {"countries": {"ZAF": {"facts": [], "systems": [{"system": "Yoco", "country_label": "South Africa", "class": "other", "platform": "Yoco app", "owner": "Yoco", "tiers": ""}], "note": "Yoco's merchant payment services are named, with no statement on mobile money, interoperability or a national switch."}}},
+    "revenuecollection": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+  }
+}

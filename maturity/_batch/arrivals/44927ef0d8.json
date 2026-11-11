@@ -1,14 +1,1 @@
-{
- "slug": "2026-05-13-drc-connectivity-improves-usage-power-gaps-connectingafrica",
- "studies": {
-  "exchangepoints": {
-   "countries": {
-    "COD": {
-     "facts": [],
-     "systems": [],
-     "note": "The document says nothing about an internet exchange point."
-    }
-   }
-  }
- }
-}
+{"slug":"2026-05-13-drc-connectivity-improves-usage-power-gaps-connectingafrica","studies":{"internationalbandwidth":{"countries":{"COD":{"facts":[],"systems":[],"note":"Fibre laying is only a plan in the national digital plan; no international route in service is stated."}}}}}

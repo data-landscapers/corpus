@@ -1,0 +1,7 @@
+{"slug": "2024-04-28-egypt-government-data-cloud-computing-center-p1-inauguration", "studies": {
+"datalocalisation": {"countries": {"EGY": {"facts": [], "systems": [], "note": "President says government data is now localised at home; no rule requiring it is stated."}}},
+"digitalsovereignty": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "hosted", "value": "national", "fact": "SIS reports President El-Sisi inaugurated the Government Data and Cloud Computing Center (P1), which it says provides critical applications and payment applications for government, with ministries' data to be held at the main data center.", "as_of": "2024-04-28", "date_precision": "day", "system": "Government Data and Cloud Computing Center (P1)", "class": "sovereignty"}
+], "systems": [{"system": "Government Data and Cloud Computing Center (P1)", "country_label": "Egypt", "class": "sovereignty", "platform": "cloud", "owner": "Government of Egypt", "tiers": "Ain El-Sokhna Road"}], "note": ""}}},
+"internationalbandwidth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only a claim that 90% of the world's submarine cables pass through Egypt; no landing or in-service route for Egypt stated."}}}
+}}

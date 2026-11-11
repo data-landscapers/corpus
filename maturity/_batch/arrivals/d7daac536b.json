@@ -1,0 +1,23 @@
+{
+  "slug": "2026-11-08-civ-orange-cyber-connect-lafrique-face-au-defi-de-la-souverainet",
+  "studies": {
+    "aiabuse": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Panel remarks on AI and cyberattacks; no rule or authority against AI harms stated."}}},
+    "aigovernment": {"countries": {"CIV": {"facts": [], "systems": [], "note": "States no government use of AI."}}},
+    "aisectoral": {"countries": {"CIV": {"facts": [], "systems": [], "note": "States no sectoral AI rule or use."}}},
+    "aisystems": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Speakers call for sovereign AI in general; no Ivorian AI system stated."}}},
+    "authentication": {"countries": {"CIV": {"facts": [], "systems": [], "note": "An official says digital identity and e-signature are among state tools, with no service, status or acceptance detail."}}},
+    "birthidlink": {"countries": {"CIV": {"facts": [], "systems": [], "note": "States nothing on civil register and ID links."}}},
+    "civilserviceskills": {"countries": {"CIV": {"facts": [], "systems": [], "note": "A 400-expert cybersecurity certification goal is not stated to be for civil servants."}}},
+    "datacentres": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Data centres discussed in general; none in Cote d'Ivoire stated."}}},
+    "digitalskills": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Orange Digital Center and a cyber competition are company and school initiatives, not a government programme for the public."}}},
+    "digitalsovereignty": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Sovereignty discussed by panellists for Africa in general; no Ivorian policy or measure stated."}}},
+    "ecommercelaw": {"countries": {"CIV": {"facts": [], "systems": [], "note": "States no law on electronic transactions."}}},
+    "idcoverage": {"countries": {"CIV": {"facts": [], "systems": [], "note": "States no ID enrolment count."}}},
+    "idfrombirth": {"countries": {"CIV": {"facts": [], "systems": [], "note": "States nothing on ID from birth."}}},
+    "idmaintenance": {"countries": {"CIV": {"facts": [], "systems": [], "note": "States nothing on ID record upkeep."}}},
+    "idregisters": {"countries": {"CIV": {"facts": [], "systems": [], "note": "States no register keyed on the ID number."}}},
+    "idrobustness": {"countries": {"CIV": {"facts": [], "systems": [], "note": "Digital identity is named only as a tool, with no system detail."}}},
+    "nationaldatacentres": {"countries": {"CIV": {"facts": [], "systems": [], "note": "States no national data centre or its ownership."}}},
+    "schoolinternet": {"countries": {"CIV": {"facts": [], "systems": [], "note": "States nothing on school connectivity."}}}
+  }
+}

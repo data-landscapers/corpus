@@ -1,0 +1,14 @@
+{"slug": "2026-11-10-gha-itu-pp26-policy-statement-ghana", "studies": {
+"aisystems": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Minister Samuel Nartey George told the ITU Plenipotentiary Conference that Ghana is building a National AI Compute Centre to support research, innovation and enterprise.", "as_of": "2026-11-10", "date_precision": "day", "system": "National AI Compute Centre", "class": "localai"}
+], "systems": [{"system": "National AI Compute Centre", "country_label": "Ghana", "class": "localai", "platform": "", "owner": "Ministry of Communication, Digital Technology and Innovations", "tiers": ""}], "note": ""}}},
+"digitaldivides": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "Minister Samuel Nartey George said Ghana is completing 2,016 rural telephony sites and upgrading rural 2G and 3G sites to 4G/5G-ready, under the New Economy Policy.", "as_of": "2026-11-10", "date_precision": "day", "system": "Rural telephony sites programme", "class": "ruralaccess"}
+], "systems": [], "note": ""}}},
+"digitalskills": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "Minister Samuel Nartey George said Ghana is training One Million Coders, giving no count trained or locations.", "as_of": "2026-11-10", "date_precision": "day", "system": "One Million Coders", "class": "publicskills"}
+], "systems": [], "note": ""}}},
+"regionalpolicy": {"countries": {"GHA": {"facts": [
+{"sub_indicator": "cooperation", "aspect": "part", "value": "active", "fact": "Minister Samuel Nartey George stated that Ghana chairs the African Union Specialised Technical Committee on Communication and ICT.", "as_of": "2026-11-10", "date_precision": "day", "system": "African Union Specialised Technical Committee on Communication and ICT", "class": "cooperation"}
+], "systems": [], "note": ""}}}
+}}

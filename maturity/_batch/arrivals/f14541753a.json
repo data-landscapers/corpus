@@ -1,0 +1,35 @@
+{"slug": "2024-03-01-tza-mawasiliano-completed-projects-nictbb-rcip", "studies": {
+"authentication": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Only a feasibility study for a national PKI is stated, not a service."}}},
+"businesspayments": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "business", "aspect": "system", "value": "inservice", "fact": "The Ministry's completed-projects page says the Tanzania National e-Procurement System (TANePS) was completed and put into use under the RCIP project, which ended December 2017.", "as_of": "2017-12", "date_precision": "month", "system": "TANePS", "class": "procurement"}
+], "systems": [{"system": "TANePS", "country_label": "Tanzania", "class": "procurement", "platform": "", "owner": "Government of Tanzania", "tiers": ""}], "note": ""}}},
+"cybersecurity": {"countries": {"TZA": {"facts": [], "systems": [], "note": "A cyber security strategy is said to be prepared, not adopted; no national body named."}}},
+"cybersecuritylaw": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Ministry says the government enacted the Cyber Crime Act, 2015 under the RCIP project.", "as_of": "2015", "date_precision": "year", "system": "Cyber Crime Act, 2015", "class": "law"}
+], "systems": [], "note": ""}}},
+"datacentres": {"countries": {"TZA": {"facts": [], "systems": [{"system": "National Internet Data Centre", "country_label": "Tanzania", "class": "other", "platform": "", "owner": "Government of Tanzania", "tiers": ""}], "note": "Data centres named, with no statement that either rents space or computing to others."}}},
+"dataprotectionlaw": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "drafting", "fact": "The Ministry says a draft Personal Data Protection Bill had been prepared by the end of the RCIP project in December 2017.", "as_of": "2017-12", "date_precision": "month", "system": "Personal Data Protection Bill", "class": "general"}
+], "systems": [], "note": ""}}},
+"digitalsovereignty": {"countries": {"TZA": {"facts": [], "systems": [], "note": "Government Data Centre is said to be built and working, with no statement that state data or systems are hosted there."}}},
+"ecommercelaw": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "The Ministry says the government enacted the Electronic Transaction Act, 2015 under the RCIP project.", "as_of": "2015", "date_precision": "year", "system": "Electronic Transaction Act, 2015", "class": "law"}
+], "systems": [], "note": ""}}},
+"fibrebackbone": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "backbone", "aspect": "reach", "value": "in-service", "fact": "The Ministry says the National ICT Backbone, 7,910 km, links the headquarters of 25 mainland regions and 42 of 139 districts, built in three phases from 2009 to 2016.", "as_of": "2016", "date_precision": "year", "system": "National ICT Backbone", "class": "backbone"}
+], "systems": [{"system": "National ICT Backbone", "country_label": "Tanzania", "class": "backbone", "platform": "fibre", "owner": "Government of Tanzania", "tiers": ""}], "note": ""}}},
+"internationalbandwidth": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "routes", "aspect": "routes", "value": "two", "fact": "The Ministry says that in phase I (2009-2010) the national backbone was also connected to the SEACOM and EASSy submarine cables.", "as_of": "2010", "date_precision": "year", "system": "SEACOM and EASSy", "class": "route"}
+], "systems": [], "note": ""}}},
+"interoperabilitystandards": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "standards", "aspect": "standing", "value": "published", "fact": "The Ministry says the government completed eGovernment Standards and Guidelines so that systems of government bodies are secure, standard and able to exchange information.", "as_of": "2017-12", "date_precision": "month", "system": "eGovernment Standards and Guidelines", "class": "standards"}
+], "systems": [], "note": ""}}},
+"itcapacity": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "The Ministry says the e-Government Agency (eGA) built the e-Office system, which government institutions use for daily work.", "as_of": "2017-12", "date_precision": "month", "system": "e-Office", "class": "staff"}
+], "systems": [{"system": "e-Office", "country_label": "e-Office", "class": "staff", "platform": "", "owner": "e-Government Agency (eGA)", "tiers": ""}], "note": ""}}},
+"localgov": {"countries": {"TZA": {"facts": [
+{"sub_indicator": "connection", "aspect": "connected", "value": "institutional", "fact": "The Ministry says a government-funded project connected ten council offices (Katesh, Uvinza, Wanging'ombe, Urambo, Kaliua, Mbulu, Monduli, Sikonge, Simanjiro and Kiteto) to the national backbone, June 2018 to April 2019.", "as_of": "2019-04", "date_precision": "month", "system": "National ICT Backbone", "class": "connection"},
+{"sub_indicator": "connection", "aspect": "authorities", "value": "count:10", "fact": "The Ministry names ten councils connected to the national backbone in the 2018-2019 project, giving no total of councils.", "as_of": "2019-04", "date_precision": "month", "system": "National ICT Backbone", "class": "connection"}
+], "systems": [{"system": "GovNet", "country_label": "GovNet", "class": "backbone", "platform": "", "owner": "Government of Tanzania", "tiers": "189 institutions including local government authorities, Dec 2017"}], "note": ""}}},
+"nationaldatacentres": {"countries": {"TZA": {"facts": [], "systems": [{"system": "Government Data Centre", "country_label": "Tanzania", "class": "other", "platform": "", "owner": "Government of Tanzania", "tiers": ""}], "note": "Data centres named, with no statement that they are for hire or hold state systems."}}}
+}}

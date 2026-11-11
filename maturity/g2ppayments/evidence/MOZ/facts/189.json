@@ -1,0 +1,15 @@
+{
+ "slug": "2026-09-01-moz-cedsif-modulos-e-sistafe",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Sistema de Pagamentos Automatizados (SPA)",
+   "country_label": "SPA",
+   "class": "other",
+   "platform": "e-money institutions",
+   "owner": "CEDSIF",
+   "tiers": ""
+  }
+ ],
+ "note": "SPA pays state expenditure via e-money institutions; payments to people not stated."
+}

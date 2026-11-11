@@ -1,0 +1,11 @@
+{
+  "slug": "2025-08-08-fibre-from-kenya-itweb",
+  "studies": {
+    "internationalbandwidth": {"countries": {"SSD": {
+      "facts": [
+        {"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "ITWeb Africa reported on 8 August 2025 that South Sudan currently has only one fibre connection, a 200-kilometre line from Uganda to Juba, with links from Kenya and Djibouti only planned.", "as_of": "2025-08-08", "date_precision": "day", "system": "Uganda to Juba fibre line", "class": "route"}
+      ],
+      "systems": [],
+      "note": ""}}}
+  }
+}

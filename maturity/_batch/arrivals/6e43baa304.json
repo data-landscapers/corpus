@@ -1,0 +1,32 @@
+{
+  "slug": "2026-11-10-zaf-techafricanews-vodacom-h1-revenue-safaricom-fintech",
+  "studies": {
+    "businesspayments": {"countries": {
+      "KEN": {"facts": [], "systems": [], "note": "Company results; nothing on government procurement."},
+      "ZAF": {"facts": [], "systems": [], "note": "Company results; nothing on government procurement."}}},
+    "centralbank": {"countries": {
+      "KEN": {"facts": [], "systems": [], "note": "Nothing on central bank role."},
+      "ZAF": {"facts": [], "systems": [], "note": "Nothing on central bank role."}}},
+    "consumerprotection": {"countries": {
+      "KEN": {"facts": [], "systems": [], "note": "Nothing on consumer rules or redress."},
+      "ZAF": {"facts": [], "systems": [], "note": "Nothing on consumer rules or redress."}}},
+    "crossborderpayments": {"countries": {
+      "KEN": {"facts": [], "systems": [], "note": "Cross-border payments raised as a question; no corridor stated."},
+      "ZAF": {"facts": [], "systems": [], "note": "Cross-border payments raised as a question; no corridor stated."}}},
+    "g2ppayments": {"countries": {
+      "KEN": {"facts": [], "systems": [], "note": "Nothing on government payments to people."},
+      "ZAF": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+    "internetusage": {"countries": {
+      "KEN": {"facts": [], "systems": [], "note": "Gives an operator's smartphone penetration across the group, not a national usage figure."},
+      "ZAF": {"facts": [], "systems": [], "note": "Gives an operator's smartphone penetration across the group, not a national usage figure."}}},
+    "paymentsuptake": {"countries": {
+      "KEN": {"facts": [], "systems": [], "note": "Customer counts of a provider, not a survey share of adults."},
+      "ZAF": {"facts": [], "systems": [], "note": "Customer counts of a provider, not a survey share of adults."}}},
+    "retailpayments": {"countries": {
+      "KEN": {"facts": [], "systems": [], "note": "Provider transaction value only; no national retail system stated."},
+      "ZAF": {"facts": [], "systems": [], "note": "Provider transaction value only; no national retail system stated."}}},
+    "revenuecollection": {"countries": {
+      "KEN": {"facts": [], "systems": [], "note": "Nothing on revenue collection."},
+      "ZAF": {"facts": [], "systems": [], "note": "Nothing on revenue collection."}}}
+  }
+}

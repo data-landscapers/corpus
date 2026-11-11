@@ -1,0 +1,12 @@
+{"slug": "2026-10-19-cog-congo-la-numerisation-de-l-administration-face-au-defi-de-l-interopera", "studies": {
+"birthidlink": {"countries": {"COG": {"facts": [], "systems": [], "note": "Nothing on linking birth registration to ID."}}},
+"civilregister": {"countries": {"COG": {"facts": [], "systems": [], "note": "Digitising birth certificates is a priority set on 2026-10-15, not a system under way."}}},
+"civilserviceskills": {"countries": {"COG": {"facts": [], "systems": [], "note": "Civil-service file clean-up is not training."}}},
+"dataexchange": {"countries": {"COG": {"facts": [], "systems": [], "note": "Interoperability work is prepared only; no exchange platform named."}}},
+"datagovernance": {"countries": {"COG": {"facts": [{"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "Agence Ecofin reports that a national data governance strategy was being drawn up in June 2026, after a UNECA-backed national assessment and workshops with 21 institutions.", "as_of": "2026-06", "date_precision": "month", "system": "national data governance strategy", "class": "policy"}], "systems": [], "note": ""}}},
+"idfrombirth": {"countries": {"COG": {"facts": [], "systems": [], "note": "Nothing on ID numbers from birth."}}},
+"interoperability": {"countries": {"COG": {"facts": [], "systems": [], "note": "Gaps in interoperability frameworks noted; no framework stated as written, drafted or adopted."}}},
+"localgov": {"countries": {"COG": {"facts": [], "systems": [], "note": "Nothing on local government connection."}}},
+"police": {"countries": {"COG": {"facts": [], "systems": [], "note": "Criminal records digitisation is a priority only; no police records system stated."}}},
+"registry": {"countries": {"COG": {"facts": [], "systems": [], "note": "Birth records digitisation is a priority only; no registry system stated."}}}
+}}

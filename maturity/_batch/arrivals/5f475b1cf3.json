@@ -1,0 +1,125 @@
+{
+ "slug": "2026-06-29-nga-thenigerialawyer-babalola-nimc-act-2026-data-protection",
+ "studies": {
+  "authentication": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "birthidlink": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "dataprotectionlaw": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Only says the NIMC Act requires compliance with the Nigeria Data Protection Act 2023; nothing on that law's standing."
+    }
+   }
+  },
+  "digitalidlaw": {
+   "countries": {
+    "NGA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Olumide Babalola writes that the President assented to the National Identity Management Commission Act 2026 on 26 June 2026.",
+       "as_of": "2026-06-26",
+       "date_precision": "day",
+       "system": "National Identity Management Commission Act 2026",
+       "class": "law"
+      },
+      {
+       "sub_indicator": "law",
+       "aspect": "cover",
+       "value": "digital",
+       "fact": "Olumide Babalola writes that s.7(c) makes NIMC the repository of all biometric data captured for identity management and s.8(b) has it integrate existing agency identification databases into the National Identity Database.",
+       "as_of": "2026-06-26",
+       "date_precision": "day",
+       "system": "National Identity Management Commission Act 2026",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "National Identity Management Commission Act 2026",
+       "country_label": "Nigeria",
+       "class": "law",
+       "platform": "",
+       "owner": "NIMC",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "idcoverage": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "idfrombirth": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "idmaintenance": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "idregisters": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Act empowers NIMC to integrate agency databases; no register keyed on the ID number is stated."
+    }
+   }
+  },
+  "idrobustness": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "policyresearch": {
+   "countries": {
+    "NGA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  }
+ }
+}

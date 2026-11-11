@@ -1,12 +1,12 @@
 {
  "slug": "2026-08-03-rdc-11500-km-fibre-optique-restants-ptn",
  "studies": {
-  "exchangepoints": {
+  "internationalbandwidth": {
    "countries": {
     "COD": {
      "facts": [],
      "systems": [],
-     "note": "The document says nothing about an internet exchange point."
+     "note": "Domestic fibre deployment totals; no international fibre route stated."
     }
    }
   }

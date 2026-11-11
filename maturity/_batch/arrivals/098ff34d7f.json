@@ -1,0 +1,24 @@
+{"slug": "2025-03-01-ben-anip-carte-identite-biometrique-prestations", "studies": {
+"aigovernment": {"countries": {"BEN": {"facts": [], "systems": [], "note": "A chatbot is mentioned only as helping users find solutions on the ANIP portal; no AI system stated."}}},
+"authentication": {"countries": {"BEN": {"facts": [], "systems": [], "note": "An authentication application appears only as a menu link; nothing stated about what it does."}}},
+"birthidlink": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Says the birth certificate and personal identification certificate are needed for the card; no record exchange between registers stated."}}},
+"civilregister": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Secure birth certificates are obtainable from ANIP; no digital civil registration system stated."}}},
+"cybersecurity": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The national information systems security agency appears only as a menu link."}}},
+"dataprotectionauthority": {"countries": {"BEN": {"facts": [], "systems": [], "note": "The authority appears only as a menu link; no law, appointment or ruling stated."}}},
+"dataprotectionlaw": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Only a general statement of strict security protocols; no law stated."}}},
+"digitalidlaw": {"countries": {"BEN": {"facts": [], "systems": [], "note": "States the card is obligatory from age 18 but names no law or decree."}}},
+"egovservices": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "ANIP's service page says users can carry out all their procedures on the eservices.anip.bj platform and the ANIP BJ mobile app, most documents being available instantly after payment, with no count of services given.", "as_of": "2025-03", "date_precision": "month", "system": "eservices.anip.bj", "class": "eservices"}
+], "systems": [{"system": "eservices.anip.bj", "country_label": "Benin", "class": "eservices", "platform": "web and ANIP BJ mobile app", "owner": "ANIP", "tiers": ""}], "note": "Page is undated; as_of is the staging proxy month."}}},
+"idcoverage": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No count or share of people enrolled stated."}}},
+"idfrombirth": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Mentions a child's personal identification number but not that it is given at birth registration."}}},
+"idmaintenance": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "maintenance", "aspect": "operation", "value": "national", "fact": "ANIP's service page says the biometric national identity card is issued in Benin by the national agency ANIP, on the basis of the holder's personal identification number.", "as_of": "2025-03", "date_precision": "month", "system": "Carte Nationale d'Identite Biometrique (CNIB)", "class": "idsystem"}
+], "systems": [{"system": "Carte Nationale d'Identite Biometrique (CNIB)", "country_label": "Benin", "class": "idsystem", "platform": "", "owner": "ANIP", "tiers": ""}], "note": "Page is undated; as_of is the staging proxy month."}}},
+"idregisters": {"countries": {"BEN": {"facts": [], "systems": [], "note": "A tax directorate appears only as a menu link; no register keyed on the number stated."}}},
+"idrobustness": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "robustness", "aspect": "system", "value": "inservice", "fact": "ANIP's service page says it issues the biometric national identity card on the basis of each holder's personal identification number, which Benin's adults must hold from age 18.", "as_of": "2025-03", "date_precision": "month", "system": "Carte Nationale d'Identite Biometrique (CNIB)", "class": "idsystem"}
+], "systems": [{"system": "Carte Nationale d'Identite Biometrique (CNIB)", "country_label": "Benin", "class": "idsystem", "platform": "", "owner": "ANIP", "tiers": ""}], "note": "Page is undated; as_of is the staging proxy month. No biometric de-duplication or certification stated."}}},
+"localgov": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Mentions municipal representations of ANIP only for document pickup; no local government office connection stated."}}},
+"registry": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No local civil registration office entry stated."}}}
+}}

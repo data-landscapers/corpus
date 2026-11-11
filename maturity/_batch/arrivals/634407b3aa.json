@@ -1,0 +1,8 @@
+{"slug": "2026-01-01-rwa-minict-innovation-emerging-technologies-directorate-general", "studies": {
+"businesspayments": {"countries": {"RWA": {"facts": [], "systems": [{"system": "E-Procurement System", "country_label": "Rwanda", "class": "procurement", "platform": "", "owner": "", "tiers": ""}], "note": "E-Procurement System appears only in a list of innovative ICT solutions, with no status stated."}}},
+"police": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Document says nothing on police records."}}},
+"startups": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Startup support is a department focus; no law, strategy, label or fund stated."}}},
+"techhubs": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "hub", "aspect": "hubs", "value": "underway", "fact": "MINICT's page says Kigali Innovation City, a USD 2 billion project in Kigali's Special Economic Zone, is set to host universities, technology companies and startups on 70 hectares, with Africa50 committing USD 400 million.", "as_of": "2026-01", "date_precision": "month", "system": "Kigali Innovation City", "class": "hub"}
+], "systems": [{"system": "Kigali Innovation City", "country_label": "Rwanda", "class": "hub", "platform": "", "owner": "Government of Rwanda", "tiers": "Kigali"}], "note": ""}}}
+}}

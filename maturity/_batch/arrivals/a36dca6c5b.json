@@ -1,0 +1,9 @@
+{"slug": "2026-11-09-algeria-ensia-ai-data-centre-chinese-delegation", "studies": {
+"aiabuse": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states nothing on AI harm rules or an authority."}}},
+"aigovernment": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states nothing on AI use in administration."}}},
+"aisectoral": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document states nothing on sectoral AI tools."}}},
+"aisystems": {"countries": {"DZA": {"facts": [{"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Algeria's higher-education ministry says Minister Kamel Baddari discussed with a Chinese delegation on 9 November 2026 the project to establish an AI-dedicated data centre at the National Higher School of Artificial Intelligence (ENSIA), Sidi Abdellah, covering infrastructure, equipment and timeline.", "as_of": "2026-11-09", "date_precision": "day", "system": "ENSIA artificial intelligence data centre", "class": "localai"}], "systems": [{"system": "ENSIA artificial intelligence data centre", "country_label": "Algeria", "class": "localai", "platform": "", "owner": "Ministry of Higher Education and Scientific Research", "tiers": ""}], "note": ""}}},
+"datacentres": {"countries": {"DZA": {"facts": [], "systems": [], "note": "The ENSIA AI data centre is a project under discussion, not a data centre for hire in service."}}},
+"internationalstandards": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Document says only 'in accordance with international standards' of a planned facility; no standards membership or adoption stated."}}},
+"nationaldatacentres": {"countries": {"DZA": {"facts": [], "systems": [], "note": "Planned facility only; no nationally owned data centre for hire in service stated."}}}
+}}

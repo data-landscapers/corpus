@@ -1,0 +1,14 @@
+{
+  "slug": "2026-11-10-uga-uganda-new-ict-permanent-secretary-priorities",
+  "studies": {
+    "aiabuse": {"countries": {"UGA": {"facts": [], "systems": [], "note": "States no rule or authority against AI harms."}}},
+    "aigovernment": {"countries": {"UGA": {"facts": [], "systems": [], "note": "A Uganda-first AI approach is a stated priority of a new official, not use in government."}}},
+    "aisectoral": {"countries": {"UGA": {"facts": [], "systems": [], "note": "States no sectoral AI use."}}},
+    "aisystems": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Sovereign technology is a stated priority only; no system or build stated."}}},
+    "civilserviceskills": {"countries": {"UGA": {"facts": [], "systems": [], "note": "States no civil service training."}}},
+    "digitalskills": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Digital skills in every sub-county is a new official's stated priority, not a programme delivered."}}},
+    "localgov": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Sub-county connectivity is a stated priority only; no local government connection stated."}}},
+    "police": {"countries": {"UGA": {"facts": [], "systems": [], "note": "Police named only as a past post of an appointee."}}},
+    "schoolinternet": {"countries": {"UGA": {"facts": [], "systems": [], "note": "States nothing on school internet."}}}
+  }
+}

@@ -1,0 +1,5 @@
+{"slug":"2026-01-01-rwa-mifotra-spiu-ippis","studies":{
+"civilserviceskills":{"countries":{"RWA":{"facts":[],"systems":[],"note":"Document states no digital-skills training for civil servants."}}},
+"coresystems":{"countries":{"RWA":{"facts":[{"sub_indicator":"core","aspect":"payroll","value":"inuse","fact":"MIFOTRA says its Integrated Payroll and Personnel Information System (IPPIS) supports public institutions from recruitment to exit and includes payroll management for salary payments.","as_of":"2026-01","date_precision":"month","system":"Integrated Payroll and Personnel Information System (IPPIS)","class":"core"}],"systems":[{"system":"Integrated Payroll and Personnel Information System (IPPIS)","country_label":"Rwanda","class":"core","platform":"","owner":"Ministry of Public Service and Labour (MIFOTRA)","tiers":""}],"note":""}}},
+"g2ppayments":{"countries":{"RWA":{"facts":[],"systems":[],"note":"IPPIS payroll is described without saying salaries are paid digitally into accounts or wallets."}}}
+}}

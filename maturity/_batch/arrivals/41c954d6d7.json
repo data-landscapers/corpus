@@ -1,0 +1,21 @@
+{"slug": "2025-12-25-egy-fintechgate-mcit-drafting-data-classification-exchange-law", "studies": {
+"businesspayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on the central bank or payments."}}},
+"consumerprotection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on digital finance consumer rules."}}},
+"crossborderpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"datacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The minister says the ministry seeks to set up data centres; none in service stated."}}},
+"dataexchange": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A draft law on data exchange is mentioned, but no exchange platform."}}},
+"dataprotectionlaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Minister says the government is keen on data protection; no data protection law or bill stated."}}},
+"digitalsovereignty": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "Fintech Gate reports Communications and IT Minister Amr Talaat said the ministry is preparing a draft law on data classification and exchange, to be discussed with the AmCham Cairo digital transformation committee before going to Cabinet and the House.", "as_of": "2025-12-25", "date_precision": "day", "system": "Draft law on data classification and exchange", "class": "sovereignty"}
+], "systems": [], "note": "Article does not say the draft covers government data specifically."}}},
+"egovservices": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only praise for citizen digital services in general; no portal or services stated."}}},
+"g2ppayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"interoperabilitylaw": {"countries": {"EGY": {"facts": [
+{"sub_indicator": "law", "aspect": "standing", "value": "draft", "fact": "Fintech Gate reports Communications and IT Minister Amr Talaat said the ministry is preparing a draft law on data classification and exchange, to go to Cabinet and then the House after discussion with the AmCham Cairo digital transformation committee.", "as_of": "2025-12-25", "date_precision": "day", "system": "Draft law on data classification and exchange", "class": "law"}
+], "systems": [], "note": "Draft not published; the article does not say the law would oblige public bodies to share."}}},
+"nationaldatacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No data centre in service stated."}}},
+"paymentsuptake": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on account ownership."}}},
+"retailpayments": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on mobile money or retail payments."}}},
+"revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on electronic tax or fee payment."}}}
+}}

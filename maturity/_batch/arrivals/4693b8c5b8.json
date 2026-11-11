@@ -1,0 +1,7 @@
+{"slug": "2025-09-22-ago-ima-ai-strategy-public-services-huawei-uae", "studies": {
+"aiabuse": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Document states no rule or authority on AI harms."}}},
+"aigovernment": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Only an MoU, a study visit and a strategy in preparation; no AI system in use or tested."}}},
+"aisectoral": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No sectoral AI tool stated."}}},
+"aistrategy": {"countries": {"AGO": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "Angola's Instituto de Modernização Administrativa (IMA) is preparing a National Artificial Intelligence Strategy for Public Services, with pillars of technological sovereignty, interoperability, public data and national talent, per the government portal.", "as_of": "2025-09-22", "date_precision": "day", "system": "Estratégia Nacional de Inteligência Artificial para os Serviços Públicos", "class": "strategy"}], "systems": [], "note": ""}}},
+"aisystems": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Study visit to Huawei's Atlas 900 A3 in China and a UAE MoU; no AI built or hosted in Angola."}}}
+}}

@@ -1,14 +1,13 @@
-{"slug": "2024-02-26-bdi-la-tanzanie-signe-un-nouvel-accord-de-cinq-ans-avec-le-burundi-pour-lu", "studies": {
-"fibrebackbone": {"countries": {
-"BDI": {"facts": [], "systems": [], "note": "No Burundi national backbone is described."},
-"TZA": {"facts": [{"sub_indicator": "backbone", "aspect": "access", "value": "open", "fact": "Agence Ecofin reports that Tanzania earns revenue from its national ICT backbone (NICTBB), having signed separate agreements in 2023 with Malawi and Uganda to connect them to it, and resells capacity to Burundi.", "as_of": "2024-02-26", "date_precision": "day", "system": "NICTBB", "class": "backbone"}], "systems": [{"system": "NICTBB", "country_label": "National ICT Broadband Backbone", "class": "backbone", "platform": "", "owner": "TTCL", "tiers": ""}], "note": ""}
-}},
-"internationalbandwidth": {"countries": {
-"BDI": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "Agence Ecofin reports that landlocked Burundi relies on Tanzania's cables, and that Tanzania's TTCL signed a five-year USD 3.3 million deal to resell high-speed capacity to Burundi Backbone System, after an October 2019 accord.", "as_of": "2024-02", "date_precision": "month", "system": "TTCL-BBS agreement", "class": "route"}], "systems": [], "note": ""},
-"TZA": {"facts": [{"sub_indicator": "routes", "aspect": "routes", "value": "two", "fact": "Agence Ecofin reports that Tanzania has three international submarine cables, 2Africa, EASSy and SEACOM.", "as_of": "2024-02-26", "date_precision": "day", "system": "2Africa; EASSy; SEACOM", "class": "route"}], "systems": [], "note": ""}
-}},
-"internetusage": {"countries": {
-"BDI": {"facts": [], "systems": [], "note": "The only figure is DataReportal's penetration rate, which is never used."},
-"TZA": {"facts": [], "systems": [], "note": "No share of the population using the internet is given."}
-}}
-}}
+{
+  "slug": "2024-02-26-bdi-la-tanzanie-signe-un-nouvel-accord-de-cinq-ans-avec-le-burundi-pour-lu",
+  "studies": {
+    "regionalinfrastructure": {"countries": {"TZA": {
+      "facts": [
+        {"sub_indicator": "shared", "aspect": "built", "value": "agreed", "fact": "Agence Ecofin reported that Tanzania's TTCL signed a five-year partnership with Burundi Backbone System, worth about US$3.3 million, to resell high-speed capacity from Tanzania's national ICT backbone to Burundi.", "as_of": "2024-02", "date_precision": "month", "system": "TTCL-BBS capacity agreement (NICTBB)", "class": "shared"}
+      ],
+      "systems": [
+        {"system": "National ICT Broadband Backbone (NICTBB)", "country_label": "Tanzania", "class": "shared", "platform": "fibre backbone", "owner": "TTCL", "tiers": ""}
+      ],
+      "note": "The article says capacity will be resold over the next five years and does not state the link lit or Burundi's body using it, so no service fact is recorded."}}}
+  }
+}

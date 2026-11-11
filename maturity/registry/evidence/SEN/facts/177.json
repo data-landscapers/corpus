@@ -1,0 +1,15 @@
+{
+ "slug": "2026-01-22-sen-securisation-des-donnees-de-l-etat-civil-l-anec-et-l-ansd-scellent-un",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Registre national de l'etat civil / LGEC",
+   "country_label": "Senegal",
+   "class": "civil",
+   "platform": "LGEC software",
+   "owner": "ANEC",
+   "tiers": "connected communes"
+  }
+ ],
+ "note": "Does not say the event is entered at the commune office, or how many offices are connected."
+}

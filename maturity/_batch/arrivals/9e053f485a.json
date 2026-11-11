@@ -1,0 +1,10 @@
+{"slug":"2024-03-28-bfa-burkina-faso-le-ministere-de-la-transition-digitale-veut-poursuivre-la","studies":{
+"datacentres":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Two data centres are named only as nodes of the government network RESINA, not as renting to others."}}},
+"digitaldivides":{"countries":{"BFA":{"facts":[{"sub_indicator":"ruralaccess","aspect":"programme","value":"underway","fact":"The Ministry of Digital Transition said it drafted and adopted a decree on universal access to electronic communications to strengthen the universal service fund and cover white zones, and drafted the fund's strategic plan.","as_of":"2023","date_precision":"year","system":"Universal service fund","class":"ruralaccess"}],"systems":[],"note":""}}},
+"digitalidlaw":{"countries":{"BFA":{"facts":[{"sub_indicator":"law","aspect":"standing","value":"bill","fact":"The Ministry of Digital Transition said it drafted an avant-projet de loi on basic identification in Burkina Faso in 2023.","as_of":"2023","date_precision":"year","system":"basic identification bill","class":"law"}],"systems":[],"note":""}}},
+"digitalstrategy":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Document names PACTDIGITAL, a financed programme, and no national strategy."}}},
+"domesticfinancing":{"countries":{"BFA":{"facts":[],"systems":[],"note":"The PACTDIGITAL financing is a World Bank loan; no state budget line is stated."}}},
+"idverification":{"countries":{"BFA":{"facts":[],"systems":[],"note":"The subscriber identification decree is stated without a check against the national ID."}}},
+"nationaldatacentres":{"countries":{"BFA":{"facts":[],"systems":[],"note":"No data centre for hire is stated."}}},
+"ruralelectrification":{"countries":{"BFA":{"facts":[],"systems":[],"note":"Document gives no rural electricity figure."}}}
+}}

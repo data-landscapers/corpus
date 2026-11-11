@@ -1,6 +1,1 @@
-{"slug": "2026-11-09-sierra-leone-begins-training-government-ict-officers-on-website-manage", "studies": {
-"itcapacity": {"countries": {"SLE": {"facts": [
-{"sub_indicator": "inhouse", "aspect": "agency", "value": "operating", "fact": "Tech Africa News reports that under the Website Standardisation Framework the Ministry of Communication, Technology and Innovation builds and hosts official websites for ministries, departments and agencies on shared gov.sl infrastructure.", "as_of": "2026-11-09", "date_precision": "day", "system": "gov.sl", "class": "staff"},
-{"sub_indicator": "inhouse", "aspect": "inhouse", "value": "yes", "fact": "Tech Africa News reports that ICT officers within individual ministries, departments and agencies will manage and update their own websites on the gov.sl platform.", "as_of": "2026-11-09", "date_precision": "day", "system": "gov.sl", "class": "staff"}
-], "systems": [{"system": "gov.sl", "country_label": "gov.sl government websites", "class": "staff", "platform": "shared hosting", "owner": "Ministry of Communication, Technology and Innovation", "tiers": ""}], "note": ""}}}
-}}
+{"slug": "2026-11-09-sierra-leone-begins-training-government-ict-officers-on-website-manage", "studies": {"egovservices": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Government website standardisation and gov.sl hosting for public information; no online transaction service stated."}}}}}

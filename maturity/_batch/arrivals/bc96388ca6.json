@@ -1,0 +1,10 @@
+{
+  "slug": "2026-11-09-lesotho-itu-plenipotentiary-priorities",
+  "studies": {
+    "aiabuse": {"countries": {"LSO": {"facts": [], "systems": [], "note": "Only names AI readiness as an ITU conference priority; no rule or authority."}}},
+    "aigovernment": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No government use of AI is stated."}}},
+    "aisectoral": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No sector AI tool is stated."}}},
+    "aisystems": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No AI model, dataset or computing is stated."}}},
+    "digitalstrategy": {"countries": {"LSO": {"facts": [], "systems": [], "note": "No national digital strategy is named."}}}
+  }
+}

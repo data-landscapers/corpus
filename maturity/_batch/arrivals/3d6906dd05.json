@@ -1,10 +1,6 @@
 {"slug": "2026-11-06-sle-information-minister-tables-two-major-bills-in-parliament", "studies": {
-"ailaw": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on AI."}}},
-"datalocalisation": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No localisation rule stated."}}},
-"dataprotectionauthority": {"countries": {"SLE": {"facts": [], "systems": [], "note": "A bill only; no authority named and no law enacted."}}},
-"ecommercelaw": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on e-commerce law."}}},
-"eparticipation": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No online consultation stated."}}},
-"interoperabilitylaw": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No public-body data sharing stated."}}},
-"paymentslaw": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on payments law."}}},
-"publicconsultation": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No consultation stated; bills tabled only."}}}
+"datacentres": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Bills on data protection and archives; no data centre stated."}}},
+"nationaldatacentres": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No data centre stated."}}},
+"offsitebackup": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No backup site stated."}}},
+"opendatause": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No data published for download stated."}}}
 }}

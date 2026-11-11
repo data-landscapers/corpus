@@ -1,0 +1,78 @@
+{
+  "slug": "2026-11-09-mrt-mattel-lance-commercialement-la-5g-et-devoile-sa-filiale-de",
+  "studies": {
+    "businesspayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on government business payments."}}},
+    "centralbank": {
+      "countries": {
+        "MRT": {
+          "facts": [
+            {
+              "sub_indicator": "centralbank",
+              "aspect": "mandate",
+              "value": "licensing",
+              "fact": "Le Quotidien reports that Mattel's new subsidiary Mattel Money, unveiled on 9 November 2026, is licensed as an e-money institution by the Banque Centrale de Mauritanie.",
+              "as_of": "2026-11-09",
+              "date_precision": "day",
+              "system": "Mattel Money",
+              "class": "oversight"
+            }
+          ],
+          "systems": [
+            {"system": "Mattel Money (Mechili wallet)", "country_label": "Mauritania", "class": "oversight", "platform": "Mechili", "owner": "Mattel", "tiers": ""}
+          ],
+          "note": ""
+        }
+      }
+    },
+    "consumerprotection": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on consumer protection in payments."}}},
+    "crossborderpayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No cross-border payment service is stated."}}},
+    "datacentres": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Mattel's Tier III centre hosts the operator's own systems and data; no hire to others is stated."}}},
+    "g2ppayments": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No government-to-person payment is stated."}}},
+    "internationalstandards": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No payment standard is named."}}},
+    "nationaldatacentres": {"countries": {"MRT": {"facts": [], "systems": [], "note": "The Tier III centre is the operator's own, with no hire to others stated."}}},
+    "paymentslaw": {
+      "countries": {
+        "MRT": {
+          "facts": [
+            {
+              "sub_indicator": "law",
+              "aspect": "reach",
+              "value": "non-bank",
+              "fact": "Le Quotidien reports that Mattel Money, a non-bank mobile operator's subsidiary, is licensed as an e-money institution by the Banque Centrale de Mauritanie.",
+              "as_of": "2026-11-09",
+              "date_precision": "day",
+              "system": "Mattel Money",
+              "class": "law"
+            }
+          ],
+          "systems": [],
+          "note": ""
+        }
+      }
+    },
+    "paymentsuptake": {"countries": {"MRT": {"facts": [], "systems": [], "note": "No account ownership survey figure is stated."}}},
+    "retailpayments": {
+      "countries": {
+        "MRT": {
+          "facts": [
+            {
+              "sub_indicator": "retail",
+              "aspect": "service",
+              "value": "underway",
+              "fact": "Le Quotidien reports that on 9 November 2026 Mattel unveiled its licensed e-money subsidiary Mattel Money and its Mechili wallet, which aims to simplify digital payments and transfers; no usage is stated.",
+              "as_of": "2026-11-09",
+              "date_precision": "day",
+              "system": "Mechili",
+              "class": "retail"
+            }
+          ],
+          "systems": [
+            {"system": "Mechili", "country_label": "Mauritania", "class": "retail", "platform": "", "owner": "Mattel Money", "tiers": ""}
+          ],
+          "note": ""
+        }
+      }
+    },
+    "revenuecollection": {"countries": {"MRT": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+  }
+}

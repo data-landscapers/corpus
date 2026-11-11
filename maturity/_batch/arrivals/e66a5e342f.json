@@ -1,0 +1,13 @@
+{"slug": "2026-11-09-sen-ndiaye-pi-spi-competition", "studies": {
+"businesspayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"SEN": {"facts": [], "systems": [{"system": "PI-SPI", "country_label": "PI-SPI (BCEAO)", "class": "oversight", "platform": "BCEAO instant payment platform", "owner": "BCEAO", "tiers": ""}], "note": "BCEAO inaugurated the regional PI-SPI in September 2026, but the body never names Senegal or a national switch."}}},
+"consumerprotection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Only an analyst's hope of better consumer services; no rules stated."}}},
+"crossborderpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "PI-SPI is UEMOA-wide, but the body never names Senegal as taking part."}}},
+"g2ppayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No government payment stated."}}},
+"paymentslaw": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No law or BCEAO rule stated."}}},
+"paymentsuptake": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No Senegal service or switch named; PI-SPI is regional."}}},
+"revenuecollection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No tax payment stated."}}},
+"startups": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Only the BCEAO governor's remark that PI-SPI offers fintechs an interface; no startup law or fund."}}},
+"techhubs": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No hub stated."}}}
+}}

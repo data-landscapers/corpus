@@ -1,0 +1,22 @@
+{"slug": "2026-11-10-zmb-zambia-world-bank-ict-survey-digital-investment", "studies": {
+"aiabuse": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "AI named only as a priority; no system."}}},
+"aisectoral": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"aisystems": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"authentication": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Digital identity named only as a priority."}}},
+"birthidlink": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"civilserviceskills": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"dataexchange": {"countries": {"ZMB": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "inservice", "fact": "Technology and Science Minister Felix Mutati cited the Government Service Bus as a working example of improving public service delivery; it currently hosts 532 services.", "as_of": "2026-11-09", "date_precision": "day", "system": "Government Service Bus", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "reach", "value": "wide", "fact": "Minister Mutati said the Government Service Bus currently hosts 532 services.", "as_of": "2026-11-09", "date_precision": "day", "system": "Government Service Bus", "class": "exchange"},
+{"sub_indicator": "exchange", "aspect": "usage", "value": "reported", "fact": "Minister Mutati said the Government Service Bus recorded 1.2 million transactions last year.", "as_of": "2025", "date_precision": "year", "system": "Government Service Bus", "class": "exchange"}],
+"systems": [{"system": "Government Service Bus", "country_label": "Government Service Bus", "class": "exchange", "platform": "", "owner": "Government of Zambia", "tiers": ""}], "note": ""}}},
+"digitalskills": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Skills mentioned only as a need; no programme or measured share."}}},
+"idcoverage": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No ID enrolment figure."}}},
+"idfrombirth": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idmaintenance": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idregisters": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idrobustness": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Digital identity named only as a priority."}}},
+"itcapacity": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No statement of who builds or runs the bus."}}},
+"mobileaffordability": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No data price stated."}}}
+}}

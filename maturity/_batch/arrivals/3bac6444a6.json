@@ -1,0 +1,3 @@
+{"slug": "2026-11-09-netherlands-dgis-mli-2026-justice-e-justice-equipment", "studies": {
+"justice": {"countries": {"MLI": {"facts": [{"sub_indicator": "justice", "aspect": "cases", "value": "underway", "fact": "UNDP, with Dutch support, handed Mali's Ministry of Justice laptops, tablets and modems worth USD 493,193 on 5 November 2026 to equip the operationalisation of its e-justice platform.", "as_of": "2026-11-05", "date_precision": "day", "system": "Ministry of Justice e-justice platform", "class": "justice"}], "systems": [{"system": "e-justice platform", "country_label": "e-justice platform", "class": "justice", "platform": "", "owner": "Ministere de la Justice et des Droits de l'Homme", "tiers": ""}], "note": ""}}}
+}}

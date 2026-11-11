@@ -1,0 +1,27 @@
+{
+  "slug": "2026-02-20-nga-data-driven-system-nitda-abia-partner-on-enterprise-architecture-refor",
+  "studies": {
+    "civilserviceskills": {"countries": {"NGA": {
+      "facts": [
+        {"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "NITDA's Director General, through a representative, said civil servants across the federal public service are undergoing digital capacity development programmes, with no number trained given.", "as_of": "2026-02", "date_precision": "month", "system": "federal civil service digital capacity programmes", "class": "csskills"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "coresystems": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Enterprise Architecture initiatives are said to be advancing, but no core system or published architecture is stated."}}},
+    "digitalskills": {"countries": {"NGA": {
+      "facts": [
+        {"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "NITDA's action plan targets 70 per cent digital literacy nationwide through interventions including training 30 million Nigerians on digital learning platforms, its Director General's representative said; no number trained is given.", "as_of": "2026-02", "date_precision": "month", "system": "NITDA digital literacy action plan", "class": "publicskills"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "interoperability": {"countries": {"NGA": {
+      "facts": [
+        {"sub_indicator": "framework", "aspect": "standing", "value": "draft", "fact": "NITDA's Director General, through a representative, said NITDA is developing a national interoperability framework and advancing Enterprise Architecture initiatives across government institutions.", "as_of": "2026-02", "date_precision": "month", "system": "national interoperability framework", "class": "framework"}
+      ],
+      "systems": [],
+      "note": "The workshop is undated ('recently'); the publication month is used."}}},
+    "schoolinternet": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Digital education is said to be integrated into curricula, but no compulsory subject or school internet figure is stated."}}},
+    "startups": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Startups are mentioned only as beneficiaries of public datasets; no law, strategy or fund is stated."}}},
+    "techhubs": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No hub or technology park is stated."}}}
+  }
+}

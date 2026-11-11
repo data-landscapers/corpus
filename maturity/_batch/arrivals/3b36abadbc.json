@@ -1,21 +1,21 @@
 {
  "slug": "2025-04-06-sle-sierraeye-chief-justice-kamanda-vision",
  "studies": {
-  "coresystems": {
+  "educationmis": {
    "countries": {
     "SLE": {
      "facts": [],
      "systems": [],
-     "note": "Judiciary case-management interview; nothing stated for this study."
+     "note": "Only the judiciary's case management app is named; no education system."
     }
    }
   },
-  "customs": {
+  "schools": {
    "countries": {
     "SLE": {
      "facts": [],
      "systems": [],
-     "note": "Judiciary case-management interview; nothing stated for this study."
+     "note": "Only the judiciary's case management app is named; no school records."
     }
    }
   }

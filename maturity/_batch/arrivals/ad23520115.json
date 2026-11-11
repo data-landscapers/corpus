@@ -1,0 +1,34 @@
+{
+  "slug": "2026-11-09-zmb-zambia-china-ai-data-centre-cooperation",
+  "studies": {
+    "aiabuse": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Only says Zambia is considering policy and legal frameworks; no draft rule, rule in force or authority on AI harms stated."}}},
+    "aigovernment": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No government body's use of AI in administration is stated."}}},
+    "aisectoral": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Only a mining anecdote and a planned AI weather early-warning system; no public sector AI tool under way or in service."}}},
+    "aistrategy": {
+      "countries": {
+        "ZMB": {
+          "facts": [
+            {
+              "sub_indicator": "strategy",
+              "aspect": "standing",
+              "value": "adopted",
+              "fact": "Permanent Secretary Brilliant Habeenzu of the Ministry of Technology and Science said Zambia's existing AI strategy is approaching the end of its term.",
+              "as_of": "2026-11-09",
+              "date_precision": "day",
+              "system": "Zambia's existing AI strategy",
+              "class": "strategy"
+            }
+          ],
+          "systems": [
+            {"system": "Zambia's existing AI strategy", "country_label": "Zambia", "class": "strategy", "platform": "", "owner": "Ministry of Technology and Science", "tiers": ""}
+          ],
+          "note": ""
+        }
+      }
+    },
+    "aisystems": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "An AI-enabled data centre is only a ministry priority being explored with China and Huawei; no builder, funder or site agreed."}}},
+    "datacentres": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Existing Chinese-supported data centres are mentioned as storage-oriented, with no statement that any rents capacity to others."}}},
+    "digitaldivides": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "Nothing on rural access programmes or rural-urban use."}}},
+    "nationaldatacentres": {"countries": {"ZMB": {"facts": [], "systems": [], "note": "No data centre for hire or its owner is named."}}}
+  }
+}

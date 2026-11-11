@@ -1,0 +1,47 @@
+{
+  "slug": "2025-07-23-egy-payrollorg-unified-payroll-tax-system",
+  "studies": {
+    "aigovernment": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No government AI system stated; a chatbot is only suggested for employers."}}},
+    "authentication": {
+      "countries": {
+        "EGY": {
+          "facts": [
+            {
+              "sub_indicator": "authentication",
+              "aspect": "service",
+              "value": "inservice",
+              "fact": "PayrollOrg says that since the 2 June launch of the Egyptian Tax Authority's unified payroll tax portal, employees register with their national ID numbers to view salary and tax breakdowns.",
+              "as_of": "2025-06-02",
+              "date_precision": "day",
+              "system": "Unified payroll tax system (ETA portal)",
+              "class": "authentication"
+            }
+          ],
+          "systems": [
+            {"system": "Unified payroll tax system (ETA portal)", "country_label": "Egypt", "class": "authentication", "platform": "ETA website", "owner": "Egyptian Tax Authority (ETax)", "tiers": ""}
+          ],
+          "note": ""
+        }
+      }
+    },
+    "birthidlink": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on linking birth registration to ID."}}},
+    "dataprotectionlaw": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only says the platform keeps high data protection standards; no law or authority named."}}},
+    "idcoverage": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No ID coverage figure stated."}}},
+    "idfrombirth": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on issuing ID from birth."}}},
+    "idmaintenance": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on keeping ID records up to date."}}},
+    "idregisters": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No register or its linkage is described."}}},
+    "idrobustness": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Nothing on ID system robustness."}}},
+    "revenuecollection": {"countries": {"EGY": {"facts": [], "systems": [], "note": "The portal shows payroll tax breakdowns; no electronic payment of any tax is stated."}}},
+    "taxadmin": {
+      "countries": {
+        "EGY": {
+          "facts": [],
+          "systems": [
+            {"system": "Unified payroll tax system", "country_label": "Egypt", "class": "taxsystem", "platform": "ETA website", "owner": "Egyptian Tax Authority (ETax)", "tiers": ""}
+          ],
+          "note": "The system calculates payroll tax and shows employees their breakdowns; online filing or payment is not stated."
+        }
+      }
+    }
+  }
+}

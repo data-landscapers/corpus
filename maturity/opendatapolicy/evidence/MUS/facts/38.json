@@ -1,0 +1,15 @@
+{
+ "slug": "2024-11-01-mus-cib-list-of-operational-systems",
+ "facts": [],
+ "systems": [
+  {
+   "system": "National Open Data Portal",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Information Technology, Communication and Innovation",
+   "tiers": ""
+  }
+ ],
+ "note": "A portal is named with no policy stated."
+}

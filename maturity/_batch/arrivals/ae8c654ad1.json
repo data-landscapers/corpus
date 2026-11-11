@@ -1,0 +1,14 @@
+{
+  "slug": "2026-11-09-sle-ai-108m-economy",
+  "studies": {
+    "aiabuse": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The article states nothing on rules or an authority on AI harms."}}},
+    "aigovernment": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The article states no government AI system; it reports a think tank index."}}},
+    "aisectoral": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No sectoral AI tool is stated."}}},
+    "aisystems": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built in the country is stated."}}},
+    "civilserviceskills": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The article says nothing on civil service training."}}},
+    "digitalskills": {"countries": {"SLE": {"facts": [], "systems": [], "note": "It urges investment in digital literacy but states no programme or measured share; the youth poll is not a skills survey."}}},
+    "policyresearch": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The Ayre Think Tank index is not a government policy research body or output."}}},
+    "ruralelectrification": {"countries": {"SLE": {"facts": [], "systems": [], "note": "The 39.2 per cent electricity figure is for the whole population, not rural people, and is not the World Bank rural series."}}},
+    "schoolinternet": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No school internet figure or curriculum rule is stated."}}}
+  }
+}

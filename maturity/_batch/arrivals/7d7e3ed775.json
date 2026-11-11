@@ -1,14 +1,1 @@
-{
- "slug": "2026-04-03-somaf-group-kindu-starlink-actualite",
- "studies": {
-  "exchangepoints": {
-   "countries": {
-    "COD": {
-     "facts": [],
-     "systems": [],
-     "note": "No exchange point, cache or traffic figures stated."
-    }
-   }
-  }
- }
-}
+{"slug":"2026-04-03-somaf-group-kindu-starlink-actualite","studies":{"internationalbandwidth":{"countries":{"COD":{"facts":[],"systems":[],"note":"Starlink satellite kit sales are satellite links, not fibre routes."}}}}}

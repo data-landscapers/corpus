@@ -1,0 +1,13 @@
+{"slug":"2024-07-01-sen-dgid-order-article-355-bis-digital-vat","studies":{
+"authentication":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Only a tax login and password for foreign suppliers is stated."}}},
+"birthidlink":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Document states nothing on the civil register or ID link."}}},
+"businessregister":{"countries":{"SEN":{"facts":[],"systems":[],"note":"The RCCM is named only as a document attached to a tax registration; nothing on the register's service."}}},
+"egovservices":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Etax is the tax authority's own system for foreign suppliers, not a services portal."}}},
+"idcoverage":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Document states nothing on ID coverage."}}},
+"idfrombirth":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Document states nothing on numbers at birth."}}},
+"idmaintenance":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Document states nothing on ID system operation."}}},
+"idregisters":{"countries":{"SEN":{"facts":[],"systems":[],"note":"The tax number named is NINEA for companies; no register keyed on the national ID number is stated."}}},
+"idrobustness":{"countries":{"SEN":{"facts":[],"systems":[],"note":"Document states nothing on the national ID system."}}},
+"revenuecollection":{"countries":{"SEN":{"facts":[{"sub_indicator":"revenue","aspect":"payment","value":"inservice","fact":"Senegal's Ministry of Finance order has foreign digital suppliers file VAT returns online on the Etax platform and pay by bank transfer to the Treasurer General, effective 1 April 2024.","as_of":"2024-04","date_precision":"month","system":"Etax","class":"revenue"}],"systems":[{"system":"Etax","country_label":"Senegal (csfe4.dgid.sn)","class":"revenue","platform":"","owner":"Direction Generale des Impots et des Domaines","tiers":""}],"note":""}}},
+"taxregister":{"countries":{"SEN":{"facts":[{"sub_indicator":"taxpayers","aspect":"register","value":"inservice","fact":"Senegal's Ministry of Finance order says foreign suppliers register remotely online with the tax authority and receive the NINEA tax identification number and an Etax login, effective 1 April 2024.","as_of":"2024-04","date_precision":"month","system":"NINEA","class":"tax"}],"systems":[{"system":"Etax","country_label":"Senegal (eservices.dgid.sn)","class":"tax","platform":"","owner":"Direction Generale des Impots et des Domaines","tiers":""}],"note":""}}}
+}}

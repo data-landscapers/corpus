@@ -1,0 +1,9 @@
+{"slug": "2026-11-10-gov-za-home-affairs-launches-first-phase-digital-asylum-system", "studies": {
+"aiabuse": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on AI harms rules."}}},
+"aigovernment": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "AI tools are promised for later phases only."}}},
+"aisectoral": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "AI is promised for later phases only."}}},
+"aisystems": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Nothing on AI built at home."}}},
+"egovservices": {"countries": {"ZAF": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "Home Affairs says its new portal on Myhomeaffairsonline for recording an intention to apply for asylum is live for a first batch of test cases, with public intake after the next weekend release.", "as_of": "2026-11-10", "date_precision": "day", "system": "Digital Asylum System, first phase", "class": "eservices"}], "systems": [{"system": "Digital Asylum System", "country_label": "Digital Asylum System", "class": "eservices", "platform": "Myhomeaffairsonline", "owner": "Department of Home Affairs", "tiers": ""}], "note": ""}}},
+"idrobustness": {"countries": {"ZAF": {"facts": [], "systems": [], "note": "Asylum intention registration is not the national ID system."}}},
+"refugees": {"countries": {"ZAF": {"facts": [{"sub_indicator": "displaced", "aspect": "registration", "value": "underway", "fact": "Home Affairs says its portal to record asylum seekers' intention to apply, with facial biometrics and documents, is live for test cases; it confers no status and is not a formal application.", "as_of": "2026-11-10", "date_precision": "day", "system": "Digital Asylum System, first phase", "class": "displaced"}], "systems": [], "note": ""}}}
+}}

@@ -1,0 +1,8 @@
+{"slug": "2026-11-09-gabon-huawei-three-accords-gaboninfos", "studies": {
+"aiabuse": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Nothing on AI harm rules or authority."}}},
+"aigovernment": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No government AI system stated."}}},
+"aisectoral": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Smart classroom and surveillance solutions are only planned under memoranda; no AI tool piloted or in service."}}},
+"aisystems": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Training centres are only envisaged; no model, dataset or AI computing."}}},
+"dataprotectionlaw": {"countries": {"GAB": {"facts": [], "systems": [], "note": "Personal data protection raised only as an issue by the article; no law status stated."}}},
+"itcapacity": {"countries": {"GAB": {"facts": [], "systems": [], "note": "No government staff running, building or serving systems stated; only memoranda with Huawei."}}}
+}}

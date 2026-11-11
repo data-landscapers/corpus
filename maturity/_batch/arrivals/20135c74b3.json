@@ -1,0 +1,159 @@
+{
+ "slug": "2026-02-10-dza-numerisation-un-cadre-juridique-avance-et-une-gouvernance-des-donnees",
+ "studies": {
+  "dataexchange": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "exchange",
+       "aspect": "platform",
+       "value": "inservice",
+       "fact": "Mohamed Louail says the national interoperability system, the backbone of data exchange between ministries and public institutions over a secure national network, is in service.",
+       "as_of": "2026-02-10",
+       "date_precision": "day",
+       "system": "national interoperability system",
+       "class": "exchange"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national interoperability system",
+       "country_label": "Algeria",
+       "class": "exchange",
+       "platform": "",
+       "owner": "High Commission for Digitalisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "datagovernance": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "policy",
+       "aspect": "standing",
+       "value": "adopted",
+       "fact": "Mohamed Louail says Presidential decree no. 25-320 of 31 December 2025 formalised the launch of Algeria's national data governance system, which covers data classification and the indexing of data sources.",
+       "as_of": "2025-12-31",
+       "date_precision": "day",
+       "system": "national data governance system (decree 25-320)",
+       "class": "policy"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national data governance system (decree 25-320)",
+       "country_label": "Algeria",
+       "class": "policy",
+       "platform": "",
+       "owner": "High Commission for Digitalisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "inservice",
+       "fact": "Mohamed Louail says Presidential decree no. 25-320 of 31 December 2025 formalised the national data governance system, whose components include data classification.",
+       "as_of": "2025-12-31",
+       "date_precision": "day",
+       "system": "national data governance system (decree 25-320)",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national data governance system (decree 25-320)",
+       "country_label": "Algeria",
+       "class": "sovereignty",
+       "platform": "",
+       "owner": "High Commission for Digitalisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "digitalstrategy": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "national",
+       "aspect": "standing",
+       "value": "drafting",
+       "fact": "Mohamed Louail says the national digital transformation strategy 2025-2030, 'Algerie numerique 2030', is being finalised.",
+       "as_of": "2026-02-10",
+       "date_precision": "day",
+       "system": "Strategie nationale de transformation numerique 2025-2030",
+       "class": "national"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Strategie nationale de transformation numerique 2025-2030",
+       "country_label": "Algeria",
+       "class": "national",
+       "platform": "",
+       "owner": "High Commission for Digitalisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "interoperabilitylaw": {
+   "countries": {
+    "DZA": {
+     "facts": [
+      {
+       "sub_indicator": "law",
+       "aspect": "standing",
+       "value": "in-force",
+       "fact": "Mohamed Louail of Algeria's High Commission for Digitalisation says Presidential decree no. 25-320 of 31 December 2025 formalised the national data governance system, whose backbone is the national interoperability system for data exchange between ministries and public bodies.",
+       "as_of": "2025-12-31",
+       "date_precision": "day",
+       "system": "national data governance system (decree 25-320)",
+       "class": "law"
+      }
+     ],
+     "systems": [
+      {
+       "system": "national data governance system (decree 25-320)",
+       "country_label": "Algeria",
+       "class": "law",
+       "platform": "",
+       "owner": "High Commission for Digitalisation",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "police": {
+   "countries": {
+    "DZA": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  }
+ }
+}

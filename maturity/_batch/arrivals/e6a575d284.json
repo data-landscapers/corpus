@@ -1,3 +1,1 @@
-{"slug": "2025-05-15-mozambique-internet-exchange-new-pop-digital-realty-maputo", "studies": {
-"regionalinfrastructure": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "A national exchange point; no other African country named as using it."}}}
-}}
+{"slug": "2025-05-15-mozambique-internet-exchange-new-pop-digital-realty-maputo", "studies": {"fibrebackbone": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "An exchange point and data centre are not a fibre backbone."}}}, "internationalbandwidth": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "The article states nothing on international cables or routes."}}}}}

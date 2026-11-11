@@ -1,0 +1,6 @@
+{"slug": "2026-11-09-sle-eu-wfp-school-feeding-data", "studies": {
+"justice": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on courts."}}},
+"opendatause": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on published data."}}},
+"schools": {"countries": {"SLE": {"facts": [], "systems": [{"system": "School Connect / Open Data Kit (school feeding data)", "country_label": "School feeding monitoring", "class": "other", "platform": "ODK, School Connect", "owner": "MBSSE / National School Feeding Secretariat with WFP", "tiers": ""}], "note": "School-feeding monitoring tools only, a single function, and still to be introduced."}}},
+"taxadmin": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on tax."}}}
+}}

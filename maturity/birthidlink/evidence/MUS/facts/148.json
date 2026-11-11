@@ -1,0 +1,15 @@
+{
+ "slug": "2024-11-01-mus-cib-list-of-operational-systems",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Civil Status Division (CSD) Application System",
+   "country_label": "Mauritius",
+   "class": "other",
+   "platform": "",
+   "owner": "Civil Status Division",
+   "tiers": ""
+  }
+ ],
+ "note": "The list names civil status and ID card systems but states no record exchange between them."
+}

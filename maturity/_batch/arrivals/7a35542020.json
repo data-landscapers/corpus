@@ -1,0 +1,8 @@
+{"slug": "2026-11-10-dr-luciano-hounkponou-re-elected-president-of-benins-data-protection-a", "studies": {
+"dataprotectionauthority": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "body", "aspect": "standing", "value": "constituted", "fact": "Tech Review Africa reports the APDP's eight councillors were sworn in before the Supreme Court and unanimously re-elected Dr Luciano Hounkponou president for the authority's fourth term.", "as_of": "2026-11", "date_precision": "month", "system": "APDP", "class": "authority"}
+], "systems": [], "note": ""}}},
+"dataprotectionlaw": {"countries": {"BEN": {"facts": [
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "Tech Review Africa reports the APDP's councillors were sworn in and re-elected their president for a fourth term.", "as_of": "2026-11", "date_precision": "month", "system": "APDP", "class": "general"}
+], "systems": [], "note": ""}}}
+}}

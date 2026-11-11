@@ -1,34 +1,6 @@
-{
- "slug": "2026-10-27-som-dowladda-soomaaliya-oo-ansixinaysa-qaab-dhismeedka-qaranka-ee-isku-duw",
- "studies": {
-  "interoperability": {
-   "countries": {
-    "SOM": {
-     "facts": [
-      {
-       "sub_indicator": "framework",
-       "aspect": "standing",
-       "value": "draft",
-       "fact": "Somalia's Office of the Prime Minister and Ministry of Communications and Technology held a national workshop on 27 October 2026 to validate the National Digital Coordination Framework for federal government digital systems.",
-       "as_of": "2026-10-27",
-       "date_precision": "day",
-       "system": "National Digital Coordination Framework (NDCF)",
-       "class": "framework"
-      }
-     ],
-     "systems": [
-      {
-       "system": "National Digital Coordination Framework (NDCF)",
-       "country_label": "Somalia",
-       "class": "framework",
-       "platform": "",
-       "owner": "Office of the Prime Minister; Ministry of Communications and Technology",
-       "tiers": ""
-      }
-     ],
-     "note": ""
-    }
-   }
-  }
- }
-}
+{"slug": "2026-10-27-som-dowladda-soomaaliya-oo-ansixinaysa-qaab-dhismeedka-qaranka-ee-isku-duw", "studies": {
+"cloudstrategy": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document says nothing on hosting or cloud."}}},
+"datagovernance": {"countries": {"SOM": {"facts": [], "systems": [], "note": "Document says nothing on a data policy."}}},
+"digitalstrategy": {"countries": {"SOM": {"facts": [], "systems": [{"system": "National Digital Coordination Framework (NDCF)", "country_label": "Somalia", "class": "other", "platform": "", "owner": "Office of the Prime Minister and Ministry of Communications and Technology", "tiers": "federal government"}], "note": "A validation workshop on a framework for coordinating federal government digital systems; it is a digital-government instrument, not a described national strategy."}}},
+"ictstrategy": {"countries": {"SOM": {"facts": [], "systems": [], "note": "No ICT or telecommunications sector policy stated."}}}
+}}

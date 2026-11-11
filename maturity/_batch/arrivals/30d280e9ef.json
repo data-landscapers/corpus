@@ -1,0 +1,50 @@
+{
+ "slug": "2026-03-17-eth-regulation-588-2026-medemer-university-of-artificial-intelligence",
+ "studies": {
+  "aiabuse": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "aigovernment": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "aisectoral": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "aisystems": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "A university established in law; no AI model, dataset or computing stated."
+    }
+   }
+  },
+  "stemgraduates": {
+   "countries": {
+    "ETH": {
+     "facts": [],
+     "systems": [],
+     "note": "No graduate share or research network stated; a single university is other."
+    }
+   }
+  }
+ }
+}

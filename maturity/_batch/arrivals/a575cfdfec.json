@@ -1,0 +1,223 @@
+{
+ "slug": "2024-01-01-mrt-avis-general-de-passation-des-marches-du-projet-regional-d-integration",
+ "studies": {
+  "addressregister": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."
+    }
+   }
+  },
+  "businesspayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."
+    }
+   }
+  },
+  "cybersecurity": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."
+    }
+   }
+  },
+  "dataexchange": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."
+    }
+   }
+  },
+  "digitalsovereignty": {
+   "countries": {
+    "MRT": {
+     "facts": [
+      {
+       "sub_indicator": "sovereignty",
+       "aspect": "rule",
+       "value": "underway",
+       "fact": "Mauritania's UGP-WARDIP general procurement notice (January 2024) announces the planned setting up of a government cloud, with technical assistance to support its implementation.",
+       "as_of": "2024-01",
+       "date_precision": "month",
+       "system": "Cloud gouvernemental",
+       "class": "sovereignty"
+      }
+     ],
+     "systems": [
+      {
+       "system": "Cloud gouvernemental",
+       "country_label": "Mauritania",
+       "class": "sovereignty",
+       "platform": "",
+       "owner": "Government of Mauritania",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "egovservices": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."
+    }
+   }
+  },
+  "internationalbandwidth": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."
+    }
+   }
+  },
+  "internetusage": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."
+    }
+   }
+  },
+  "interoperability": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."
+    }
+   }
+  },
+  "interoperabilitystandards": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."
+    }
+   }
+  },
+  "nationaldatacentres": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."
+    }
+   }
+  },
+  "regionalpolicy": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."
+    }
+   }
+  },
+  "schoolinternet": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."
+    }
+   }
+  },
+  "socialprotection": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."
+    }
+   }
+  },
+  "stemgraduates": {
+   "countries": {
+    "MRT": {
+     "facts": [],
+     "systems": [],
+     "note": "A January 2024 general procurement notice lists planned acquisitions only; nothing is stated as delivered, procured or in service."
+    }
+   }
+  }
+ }
+}

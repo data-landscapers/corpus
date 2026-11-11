@@ -1,0 +1,16 @@
+{"slug": "2026-01-01-nga-nitda-capacity-building", "studies": {
+"aiabuse": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on AI harms."}}},
+"aigovernment": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on government AI use."}}},
+"aisectoral": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on sector AI."}}},
+"aisystems": {"countries": {"NGA": {"facts": [], "systems": [], "note": "AI skills are a training topic only."}}},
+"civilserviceskills": {"countries": {"NGA": {"facts": [{"sub_indicator": "csskills", "aspect": "training", "value": "underway", "fact": "NITDA says it organised and hosted e-Government capacity building for CEOs and Heads of MDAs in two phases, with 76% of participants having had no prior e-government training.", "as_of": "2026-01", "date_precision": "month", "system": "e-Government capacity building for CEOs and Heads of MDAs", "class": "csskills"}], "systems": [], "note": ""}}},
+"digitalskills": {"countries": {"NGA": {"facts": [
+{"sub_indicator": "publicskills", "aspect": "training", "value": "inservice", "fact": "NITDA says it has trained 200 participants in ICT training for people with disabilities, held in Abuja in 2014 to 2016 and Gombe in 2017, and has adopted it as an annual programme.", "as_of": "2017", "date_precision": "year", "system": "NITDA ICT Training for People With Disabilities", "class": "publicskills"},
+{"sub_indicator": "publicskills", "aspect": "training", "value": "underway", "fact": "NITDA lists the 3 Million Tech Talents (3MTT) programme, run with partners and training providers, to build technical talent in skills such as software development, data and cybersecurity.", "as_of": "2026-01", "date_precision": "month", "system": "3 Million Tech Talents (3MTT)", "class": "publicskills"}], "systems": [], "note": ""}}},
+"digitalstrategy": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Names the e-Government Master Plan only in passing, with no standing stated."}}},
+"disabilityaccess": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Disability ICT training is not accessible information or services."}}},
+"egovservices": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No online service stated."}}},
+"gendergap": {"countries": {"NGA": {"facts": [], "systems": [], "note": "A women's ICT training programme, no gap figure."}}},
+"ruralelectrification": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on electricity."}}},
+"schoolinternet": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

@@ -1,0 +1,27 @@
+{"slug": "2026-11-10-afdb-backs-local-tech-assembly", "studies": {
+"digitalstrategy": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "Nothing on a digital strategy."},
+"ETH": {"facts": [], "systems": [], "note": "Nothing on a digital strategy."},
+"KEN": {"facts": [], "systems": [], "note": "Nothing on a digital strategy."},
+"NGA": {"facts": [], "systems": [], "note": "Nothing on a digital strategy."}}},
+"ictproduction": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "Egypt is said to be using incentives to become a mobile production hub; no plant in production stated."},
+"ETH": {"facts": [{"sub_indicator": "production", "aspect": "plant", "value": "production", "fact": "AfDB ICT operations manager Nicholas Williams said Ethiopia has a growing domestic device manufacturing and assembly base.", "as_of": "2026-11-10", "date_precision": "day", "system": "Ethiopian device manufacturing and assembly", "class": "ictproduction"}], "systems": [], "note": ""},
+"KEN": {"facts": [{"sub_indicator": "production", "aspect": "plant", "value": "production", "fact": "ITWeb reports Kenya's East Africa Device Assembly facility has scaled production, with capacity to build 1.2 million to 3 million low-cost 4G smartphones a year.", "as_of": "2026-11-10", "date_precision": "day", "system": "East Africa Device Assembly", "class": "ictproduction"}], "systems": [], "note": ""},
+"NGA": {"facts": [], "systems": [], "note": "No ICT export figure or plant stated."}}},
+"policyresearch": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "Nothing on policy research."},
+"ETH": {"facts": [], "systems": [], "note": "Nothing on policy research."},
+"KEN": {"facts": [], "systems": [], "note": "Nothing on policy research."},
+"NGA": {"facts": [], "systems": [], "note": "Nothing on policy research."}}},
+"startups": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "Incentives named are for mobile production, not startups."},
+"ETH": {"facts": [], "systems": [], "note": "Nothing on startups."},
+"KEN": {"facts": [], "systems": [], "note": "Nothing on startups."},
+"NGA": {"facts": [], "systems": [], "note": "AfDB's USD 618 million digital and creative enterprises project is a bank loan; no startup law or public fund stated."}}},
+"techhubs": {"countries": {
+"EGY": {"facts": [], "systems": [], "note": "Nothing on hubs."},
+"ETH": {"facts": [], "systems": [], "note": "Nothing on hubs."},
+"KEN": {"facts": [], "systems": [], "note": "Nothing on hubs."},
+"NGA": {"facts": [], "systems": [], "note": "Nothing on hubs."}}}
+}}

@@ -1,0 +1,56 @@
+{
+  "slug": "2024-10-01-sle-africa-regional-forum-on-data-governance-and-digital-government",
+  "studies": {
+    "agrisatellite": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Deck lists Feed Salone as an agriculture programme but states no use of satellite data."}}},
+    "authentication": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Deck lists Digital Identity among eServices but states no authentication service."}}},
+    "birthidlink": {"countries": {"SLE": {"facts": [], "systems": [], "note": "States no link between the civil register and the ID system."}}},
+    "businesspayments": {"countries": {"SLE": {"facts": [
+      {"sub_indicator": "business", "aspect": "system", "value": "underway", "fact": "A Government of Sierra Leone presentation lists eProcurement among the e-government services that are major successes and ongoing efforts, without saying it is in service or giving figures.", "as_of": "2024-10-01", "date_precision": "day", "system": "eProcurement", "class": "procurement"}
+    ], "systems": [
+      {"system": "eProcurement", "country_label": "eProcurement", "class": "procurement", "platform": "", "owner": "Government of Sierra Leone", "tiers": ""}
+    ], "note": ""}}},
+    "censuses": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Mentions Statistics Sierra Leone harmonising data for population censuses but states no census or survey."}}},
+    "centralbank": {"countries": {"SLE": {"facts": [], "systems": [], "note": "States nothing on the central bank or payment oversight."}}},
+    "civilregister": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Describes the National Civil Registration System's mandate only; no digital register stated."}}},
+    "civilserviceskills": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Lists capacity building as a pillar; no civil service training stated."}}},
+    "consumerprotection": {"countries": {"SLE": {"facts": [], "systems": [], "note": "States nothing on consumer protection in digital finance."}}},
+    "crossborderpayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "States nothing on cross-border payments."}}},
+    "datacentres": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Names data centre and cloud infrastructure only as a heading; no facility stated."}}},
+    "datagovernance": {"countries": {"SLE": {"facts": [
+      {"sub_indicator": "policy", "aspect": "standing", "value": "draft", "fact": "A Government of Sierra Leone presentation says a National Data Strategy is in ongoing development, with March 2025 given as its date.", "as_of": "2024-10-01", "date_precision": "day", "system": "National Data Strategy", "class": "policy"}
+    ], "systems": [], "note": ""}}},
+    "dataprotectionlaw": {"countries": {"SLE": {"facts": [
+      {"sub_indicator": "general", "aspect": "standing", "value": "drafting", "fact": "A Government of Sierra Leone presentation lists a Draft Data Protection and Privacy Bill in its policy and regulatory landscape.", "as_of": "2024-10-01", "date_precision": "day", "system": "Data Protection and Privacy Bill", "class": "general"}
+    ], "systems": [], "note": ""}}},
+    "digitaldivides": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Lists the digital divide as a challenge and universal connectivity as a project part; no programme or rural figures stated."}}},
+    "digitalskills": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Names Digital Skills Development as a project component only; no programme stated for the public."}}},
+    "digitalstrategy": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Names a National Digital Development Policy and Strategy but states no standing for either."}}},
+    "ecommercelaw": {"countries": {"SLE": {"facts": [
+      {"sub_indicator": "law", "aspect": "standing", "value": "in-force", "fact": "A Government of Sierra Leone presentation lists an Electronic Transaction Act among the country's existing laws and regulations.", "as_of": "2024-10-01", "date_precision": "day", "system": "Electronic Transaction Act", "class": "law"}
+    ], "systems": [], "note": ""}}},
+    "egovservices": {"countries": {"SLE": {"facts": [
+      {"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "A Government of Sierra Leone presentation lists a unified website and central government service portal, and MDA-specific online services, among its e-government successes and ongoing efforts, with no count of services.", "as_of": "2024-10-01", "date_precision": "day", "system": "Central Government Service Portal", "class": "eservices"}
+    ], "systems": [
+      {"system": "Central Government Service Portal", "country_label": "Unified website and Central Government Service Portal", "class": "eservices", "platform": "", "owner": "Government of Sierra Leone", "tiers": ""}
+    ], "note": ""}}},
+    "fibrebackbone": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Names a National Fibre network as a heading only; no works or service between regions stated."}}},
+    "g2ppayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "States nothing on government payments to people."}}},
+    "idcoverage": {"countries": {"SLE": {"facts": [], "systems": [], "note": "States no enrolment count or share."}}},
+    "idfrombirth": {"countries": {"SLE": {"facts": [], "systems": [], "note": "States nothing on ID issued from birth."}}},
+    "idmaintenance": {"countries": {"SLE": {"facts": [], "systems": [], "note": "States nothing on keeping ID records current."}}},
+    "idregisters": {"countries": {"SLE": {"facts": [], "systems": [], "note": "States no register keyed on the national ID number."}}},
+    "idrobustness": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Lists Digital Identity among eServices with no status or detail."}}},
+    "interoperabilitylaw": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Digital Government Bill is said to establish agencies only; no law on public bodies sharing data stated."}}},
+    "nationaldatacentres": {"countries": {"SLE": {"facts": [], "systems": [], "note": "States no data centre or its ownership."}}},
+    "opendatapolicy": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Describes an Open Data Portal with no policy behind it; a portal alone places nothing."}}},
+    "opendatause": {"countries": {"SLE": {"facts": [
+      {"sub_indicator": "use", "aspect": "access", "value": "published", "fact": "A Government of Sierra Leone presentation says the country has an Open Data Portal that primarily hosts statistical data, with scope and quality limited and efforts under way to add dataset types.", "as_of": "2024-10-01", "date_precision": "day", "system": "Open Data Portal", "class": "open"}
+    ], "systems": [
+      {"system": "Open Data Portal", "country_label": "Sierra Leone Open Data Portal", "class": "open", "platform": "", "owner": "Government of Sierra Leone", "tiers": ""}
+    ], "note": ""}}},
+    "paymentsuptake": {"countries": {"SLE": {"facts": [], "systems": [], "note": "States no survey share of account holders."}}},
+    "registry": {"countries": {"SLE": {"facts": [], "systems": [], "note": "States no digital entry of births or deaths at local offices."}}},
+    "retailpayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Lists Digital Financial services only as a heading; nothing on retail payments."}}},
+    "revenuecollection": {"countries": {"SLE": {"facts": [], "systems": [], "note": "States nothing on revenue collection."}}}
+  }
+}

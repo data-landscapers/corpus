@@ -1,0 +1,15 @@
+{"slug": "2026-11-01-rwa-c4ir-rwanda-projects", "studies": {
+"aiabuse": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on a rule or authority against AI harms."}}},
+"aigovernment": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No government body's AI system use stated."}}},
+"aisectoral": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Chatbots RESET pilots a governance framework, not a sectoral AI tool in a public system."}}},
+"aistrategy": {"countries": {"RWA": {"facts": [
+{"sub_indicator": "strategy", "aspect": "standing", "value": "draft", "fact": "C4IR Rwanda's projects page says it is co-designing a National Artificial Intelligence Policy with the Ministry of ICT & Innovation, GIZ/FAIR Forward and The Future Society.", "as_of": "2026-11", "date_precision": "month", "system": "National Artificial Intelligence Policy", "class": "strategy"}
+], "systems": [{"system": "National Artificial Intelligence Policy", "country_label": "Rwanda", "class": "strategy", "platform": "", "owner": "Ministry of ICT & Innovation", "tiers": ""}], "note": "The page is undated; as_of is its retrieval-month proxy."}}},
+"aisystems": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built or hosted is stated."}}},
+"cybersecurity": {"countries": {"RWA": {"facts": [], "systems": [], "note": "NCSA is named only as a project partner; no strategy, creation, incident or designation stated."}}},
+"dataprotectionlaw": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Page says only that C4IR is shaping the law's development and implementation; no standing, authority, regulation or application stated."}}},
+"interoperability": {"countries": {"RWA": {"facts": [], "systems": [], "note": "The AI4Health data sharing framework is for one sector only."}}},
+"publicconsultation": {"countries": {"RWA": {"facts": [], "systems": [], "note": "No dated consultation on a named digital law or policy stated."}}},
+"startups": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on startup law, labelling or funds."}}},
+"techhubs": {"countries": {"RWA": {"facts": [], "systems": [], "note": "Nothing on hubs, incubators or parks."}}}
+}}

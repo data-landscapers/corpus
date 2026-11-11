@@ -1,0 +1,40 @@
+{
+  "slug": "2026-11-10-mar-morocco-develops-national-ai-roadmap-as-government-seeks-to",
+  "studies": {
+    "aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The document states no rule, authority or enforcement on AI harms; it only says a framework to regulate AI has begun to be developed."}}},
+    "aigovernment": {"countries": {"MAR": {
+      "facts": [
+        {"sub_indicator": "govai", "aspect": "use", "value": "underway", "fact": "Minister Chami told the House of Representatives' Interior Committee on 10 November 2026 that the ministry is developing AI services in a sovereign digital environment, including the Idarati citizen procedure guide, a document-processing suite and a multilingual meeting assistant.", "as_of": "2026-11-10", "date_precision": "day", "system": "Idarati and document-processing suite", "class": "govai"}
+      ],
+      "systems": [
+        {"system": "Idarati", "country_label": "Morocco", "class": "govai", "platform": "sovereign digital environment", "owner": "Ministry of AI, Digital Transition and Administrative Reform", "tiers": ""}
+      ],
+      "note": ""}}},
+    "ailaw": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The minister says an official framework to regulate AI has begun to be developed, but no draft text is named, so no draft or rule in force is stated."}}},
+    "aisectoral": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The services named are for general administration and legal research, not an AI tool inside a named sector's public system."}}},
+    "aistrategy": {"countries": {"MAR": {
+      "facts": [
+        {"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "Minister Chami announced the launch of the 'Morocco AI 2030' roadmap on 10 November 2026, with three pillars and 10 structural programmes.", "as_of": "2026-11-10", "date_precision": "day", "system": "Morocco AI 2030", "class": "strategy"}
+      ],
+      "systems": [
+        {"system": "Morocco AI 2030", "country_label": "Morocco", "class": "strategy", "platform": "", "owner": "Ministry of AI, Digital Transition and Administrative Reform", "tiers": ""}
+      ],
+      "note": "No body or funding is tied to the roadmap in the document; the Jazari institutes are not stated to carry it out."}}},
+    "aisystems": {"countries": {"MAR": {
+      "facts": [
+        {"sub_indicator": "localai", "aspect": "build", "value": "underway", "fact": "Minister Chami said projects had collected about 300 million text units and 150 GB into an initial repository of some 85,000 public documents, and were preparing 10,000 hours of transcribed Moroccan Darija audio and about one million document-image and text pairs.", "as_of": "2026-11-10", "date_precision": "day", "system": "national AI content base", "class": "localai"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "datacentres": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Data centres appear only as roadmap projects; no facility in service is stated."}}},
+    "digitalsovereignty": {"countries": {"MAR": {
+      "facts": [
+        {"sub_indicator": "sovereignty", "aspect": "rule", "value": "underway", "fact": "Minister Chami presented the Morocco AI 2030 roadmap, whose first pillar is sovereignty and trust, with projects on data centres and sovereign cloud services and services built in a sovereign digital environment.", "as_of": "2026-11-10", "date_precision": "day", "system": "Morocco AI 2030", "class": "sovereignty"}
+      ],
+      "systems": [],
+      "note": ""}}},
+    "nationaldatacentres": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No nationally owned data centre for hire is stated."}}},
+    "startups": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The minister calls for startup participation in procurement but states no startup law, strategy or fund."}}},
+    "techhubs": {"countries": {"MAR": {"facts": [], "systems": [], "note": "The Jazari institutes are not described as hosting or incubating startups."}}}
+  }
+}

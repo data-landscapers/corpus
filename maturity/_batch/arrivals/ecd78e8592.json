@@ -1,0 +1,9 @@
+{"slug": "2026-06-05-sen-techreviewafrica-public-sector-data-governance-workshop-dial-ansd", "studies": {
+"dataexchange": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "exchange", "aspect": "platform", "value": "underway", "fact": "TechReviewAfrica reports that a 2 June 2026 Dakar workshop of the digital ministry, DIAL and ANSD named the national data exchange platform among Senegal's existing foundations, while institutions still run parallel systems and data-sharing mechanisms need consolidation.", "as_of": "2026-06-02", "date_precision": "day", "system": "national data exchange platform", "class": "exchange"}
+], "systems": [{"system": "national data exchange platform", "country_label": "Senegal", "class": "exchange", "platform": "", "owner": "", "tiers": ""}], "note": "Article does not say the platform is live or how many bodies are connected."}}},
+"digitalstrategy": {"countries": {"SEN": {"facts": [], "systems": [], "note": "New Deal for Technology strategy is named only as the wider frame of the workshop; no standing, text or period stated."}}},
+"interoperability": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "TechReviewAfrica reports that a 2 June 2026 Dakar workshop named the National Interoperability Framework among Senegal's existing foundations for digital transformation.", "as_of": "2026-06-02", "date_precision": "day", "system": "National Interoperability Framework", "class": "framework"}
+], "systems": [{"system": "National Interoperability Framework", "country_label": "Senegal", "class": "framework", "platform": "", "owner": "", "tiers": ""}], "note": "Adoption date, text and any duty to follow it not stated."}}}
+}}

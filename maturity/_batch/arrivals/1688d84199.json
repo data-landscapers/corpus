@@ -1,0 +1,9 @@
+{"slug": "2024-01-01-gha-data-sharing-and-intermediation-of-public-service-delivery-platforms-g", "studies": {
+"coresystems": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Open Government Partnership commitment with planned milestones only; no core system or published architecture stated."}}},
+"dataprotectionauthority": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Data Protection Agency named only as a support institution."}}},
+"dataprotectionlaw": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on a data protection law."}}},
+"eparticipation": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on online participation."}}},
+"interoperability": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Commitment lists framework milestones for 2024 to 2027 with no status given; a plan is not a framework drafted or adopted."}}},
+"opendatause": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Open Data Alliance named only as a support institution."}}},
+"publicconsultation": {"countries": {"GHA": {"facts": [], "systems": [], "note": "Nothing on public consultation."}}}
+}}

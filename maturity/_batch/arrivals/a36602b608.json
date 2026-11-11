@@ -1,0 +1,11 @@
+{"slug":"2026-05-01-uga-mict-niisp-ict-innovation","studies":{
+"educationexchange":{"countries":{"UGA":{"facts":[],"systems":[],"note":"EMIS is only listed by name; no data exchange is stated."}}},
+"educationmis":{"countries":{"UGA":{"facts":[],"systems":[],"note":"EMIS is listed as a success story with no description of what it does or its status."}}},
+"egovservices":{"countries":{"UGA":{"facts":[],"systems":[],"note":"The page names back-office systems (EDMS, eGP, PDMIS) and no online service for people or a portal."}}},
+"health":{"countries":{"UGA":{"facts":[],"systems":[],"note":"IHMIS is described only as developed for public health facilities; no tiers, clinics or digitisation stated."}}},
+"healthmis":{"countries":{"UGA":{"facts":[],"systems":[],"note":"IHMIS is said to be developed, with no statement that it is in service nationally or being rolled out."}}},
+"ictproduction":{"countries":{"UGA":{"facts":[],"systems":[],"note":"Electronics assembly is only an objective of the programme; no plant in production is stated."}}},
+"itcapacity":{"countries":{"UGA":{"facts":[],"systems":[],"note":"The page does not say government staff built, run or maintain the named systems, or when they went live."}}},
+"schools":{"countries":{"UGA":{"facts":[],"systems":[],"note":"EMIS is listed with no description of learner records or schools using it."}}},
+"startups":{"countries":{"UGA":{"facts":[],"systems":[],"note":"NIISP supports innovators and apps; no startup act or strategy, labelling or fund is stated."}}}
+}}

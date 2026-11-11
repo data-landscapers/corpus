@@ -1,0 +1,10 @@
+{"slug": "2024-01-01-nga-nitda-e-government-development-department", "studies": {
+"civilserviceskills": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Department mandate to promote e-government capacity development in agencies; no programme or course stated."}}},
+"coresystems": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No core system named."}}},
+"digitalskills": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Mandate to facilitate literacy programmes only; no programme stated."}}},
+"digitalstrategy": {"countries": {"NGA": {"facts": [{"sub_indicator": "national", "aspect": "governance", "value": "body:mandated", "fact": "NITDA's e-Government Development and Regulation Department says its objectives include implementing the Strategic Roadmap and Action Plan (SRAP 2.0) for the digital economy; the page does not say who adopted it or give its scope.", "as_of": "2024", "date_precision": "year", "system": "Strategic Roadmap and Action Plan (SRAP 2.0)", "class": "national"}], "systems": [], "note": ""}}},
+"egovservices": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Department supports e-services development; no portal or service stated."}}},
+"interoperability": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Mandate on a national enterprise architecture only; no framework drafted or adopted stated."}}},
+"publicconsultation": {"countries": {"NGA": {"facts": [], "systems": [], "note": "No consultation stated."}}},
+"schoolinternet": {"countries": {"NGA": {"facts": [], "systems": [], "note": "Nothing on schools."}}}
+}}

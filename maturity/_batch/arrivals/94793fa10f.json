@@ -1,0 +1,36 @@
+{
+  "slug": "2026-11-10-sle-unipod-fintech-lab",
+  "studies": {
+    "businesspayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on business payments."}}},
+    "centralbank": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Only a Bank of Sierra Leone regulatory sandbox for startups is named; no licensing, switch or mandate stated."}}},
+    "consumerprotection": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+    "crossborderpayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+    "g2ppayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on government-to-person payments."}}},
+    "paymentsuptake": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No survey figure stated."}}},
+    "retailpayments": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No mobile money or retail payment service is stated."}}},
+    "revenuecollection": {"countries": {"SLE": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}},
+    "startups": {"countries": {"SLE": {"facts": [], "systems": [], "note": "No startup law, strategy or public fund stated; the lab is a partnership programme."}}},
+    "techhubs": {
+      "countries": {
+        "SLE": {
+          "facts": [
+            {
+              "sub_indicator": "hub",
+              "aspect": "hubs",
+              "value": "underway",
+              "fact": "The Spear News SL reports that a FinTech Innovation Lab has been established at the University Innovation Pod (UniPod) with UNCDF, the EU and the Bank of Sierra Leone, to serve as an acceleration hub for early-stage fintech startups; no cohort is named.",
+              "as_of": "2026-11-10",
+              "date_precision": "day",
+              "system": "UniPod FinTech Innovation Lab",
+              "class": "hub"
+            }
+          ],
+          "systems": [
+            {"system": "UniPod FinTech Innovation Lab", "country_label": "Sierra Leone", "class": "hub", "platform": "", "owner": "University Innovation Pod (UniPod)", "tiers": ""}
+          ],
+          "note": ""
+        }
+      }
+    }
+  }
+}

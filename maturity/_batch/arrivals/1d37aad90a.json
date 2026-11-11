@@ -1,0 +1,19 @@
+{"slug": "2026-11-01-eth-eservices-portal-landing", "studies": {
+"authentication": {"countries": {"ETH": {"facts": [{"sub_indicator": "authentication", "aspect": "service", "value": "inservice", "fact": "The government eServices portal says it offers integrated national ID authentication to verify users' identity for access to services.", "as_of": "2026-11", "date_precision": "month", "system": "Ethiopian Government Electronic Services Portal", "class": "authentication"}], "systems": [{"system": "Ethiopian Government Electronic Services Portal", "country_label": "eservices.gov.et", "class": "eservices", "platform": "", "owner": "Government of Ethiopia", "tiers": ""}], "note": ""}}},
+"birthidlink": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on civil register and ID link."}}},
+"businesspayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No e-procurement stated."}}},
+"centralbank": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No central bank role stated."}}},
+"consumerprotection": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"crossborderpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"egovservices": {"countries": {"ETH": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "The Government of Ethiopia's eServices portal lets citizens, businesses and organisations register, apply for services, track applications and download certificates online; no count of services is given.", "as_of": "2026-11", "date_precision": "month", "system": "Ethiopian Government Electronic Services Portal", "class": "eservices"}], "systems": [], "note": ""}}},
+"g2ppayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on payments to people."}}},
+"idcoverage": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No enrolment figure."}}},
+"idfrombirth": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing stated."}}},
+"idmaintenance": {"countries": {"ETH": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No register keyed on the ID stated."}}},
+"idrobustness": {"countries": {"ETH": {"facts": [], "systems": [], "note": "The ID system itself is not described."}}},
+"idverification": {"countries": {"ETH": {"facts": [{"sub_indicator": "use", "aspect": "use", "value": "inservice", "fact": "The government eServices portal says it verifies users' identity through integrated national ID authentication.", "as_of": "2026-11", "date_precision": "month", "system": "Ethiopian Government Electronic Services Portal", "class": "relying"}], "systems": [], "note": ""}}},
+"paymentsuptake": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No survey share."}}},
+"retailpayments": {"countries": {"ETH": {"facts": [], "systems": [], "note": "No mobile money or wallet service named."}}},
+"revenuecollection": {"countries": {"ETH": {"facts": [{"sub_indicator": "revenue", "aspect": "payment", "value": "inservice", "fact": "The government eServices portal says users can complete payments online for services, with no tax or fee named.", "as_of": "2026-11", "date_precision": "month", "system": "Ethiopian Government Electronic Services Portal", "class": "revenue"}], "systems": [], "note": ""}}}
+}}

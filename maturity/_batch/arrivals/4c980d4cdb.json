@@ -1,10 +1,3 @@
 {"slug": "2026-11-09-lbr-liberia-regains-atu-voting-rights-after-us400k-debt-waiver", "studies": {
-"consumerprotection": {"countries": {"LBR": {"facts": [], "systems": [], "note": "The LTA complaints centre covers telecom subscribers, not digital financial services."}}},
-"digitaldivides": {"countries": {"LBR": {"facts": [
-{"sub_indicator": "ruralaccess", "aspect": "programme", "value": "underway", "fact": "LTA commissioner Patrick Honnah says its Universal Access Program is deploying teams to expand connectivity in underserved communities, with 15 remote towers being upgraded from 2G to 4G.", "as_of": "2026-11-09", "date_precision": "day", "system": "LTA Universal Access Program", "class": "ruralaccess"}
-], "systems": [], "note": ""}}},
-"regionalpolicy": {"countries": {"LBR": {"facts": [
-{"sub_indicator": "cooperation", "aspect": "part", "value": "member", "fact": "The Liberian Investigator reports Liberia regained its voting rights in the African Telecommunications Union after a waiver of more than US$400,000 in arrears, per LTA chair Clarence Massaquoi.", "as_of": "2026-11-09", "date_precision": "day", "system": "African Telecommunications Union", "class": "cooperation"}
-], "systems": [], "note": ""}}},
-"ruralelectrification": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No rural electricity access figure stated."}}}
+"satellitebroadband": {"countries": {"LBR": {"facts": [], "systems": [], "note": "No satellite broadband licence or sale stated."}}}
 }}

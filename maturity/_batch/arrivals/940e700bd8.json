@@ -1,0 +1,84 @@
+{
+  "slug": "2024-09-02-mar-hespress-lekjaa-finance-ministry-ai-customs-tax",
+  "studies": {
+    "aiabuse": {"countries": {"MAR": {"facts": [], "systems": [], "note": "Nothing on rules or an authority against AI harms."}}},
+    "aigovernment": {
+      "countries": {
+        "MAR": {
+          "facts": [
+            {
+              "sub_indicator": "govai",
+              "aspect": "use",
+              "value": "inservice",
+              "fact": "Budget Minister Faouzi Lekjaa said the Ministry of Economy and Finance's 2022-2026 digital transformation plan includes AI tools within the Digital Workplace DB system for creating, summarising, rephrasing and translating texts, and an eBudget chatbot.",
+              "as_of": "2024-09-02",
+              "date_precision": "day",
+              "system": "Digital Workplace DB",
+              "class": "govai"
+            }
+          ],
+          "systems": [
+            {"system": "Digital Workplace DB", "country_label": "Morocco", "class": "govai", "platform": "", "owner": "Ministry of Economy and Finance", "tiers": ""},
+            {"system": "eBudget chatbot", "country_label": "Morocco", "class": "govai", "platform": "", "owner": "Ministry of Economy and Finance", "tiers": ""}
+          ],
+          "note": ""
+        }
+      }
+    },
+    "aisectoral": {
+      "countries": {
+        "MAR": {
+          "facts": [
+            {
+              "sub_indicator": "sectorai",
+              "aspect": "use",
+              "value": "inservice",
+              "fact": "Minister Faouzi Lekjaa said the Administration of Customs and Indirect Taxes uses data analysis and machine learning algorithms for predictive analysis in customs clearance and fraud detection, and is testing a smart system that adapts to evolving fraud patterns.",
+              "as_of": "2024-09-02",
+              "date_precision": "day",
+              "system": "customs predictive analysis and fraud detection",
+              "class": "sectorai"
+            },
+            {
+              "sub_indicator": "sectorai",
+              "aspect": "use",
+              "value": "inservice",
+              "fact": "Minister Faouzi Lekjaa said the General Tax Directorate uses AI for user-support chatbots, to combat tax fraud and to digitise tax filing.",
+              "as_of": "2024-09-02",
+              "date_precision": "day",
+              "system": "General Tax Directorate AI chatbots and fraud detection",
+              "class": "sectorai"
+            },
+            {
+              "sub_indicator": "sectorai",
+              "aspect": "sectors",
+              "value": "several",
+              "fact": "Minister Faouzi Lekjaa described AI in use in both customs (clearance and fraud analysis) and tax (chatbots and fraud detection).",
+              "as_of": "2024-09-02",
+              "date_precision": "day",
+              "system": "customs and tax AI tools",
+              "class": "sectorai"
+            }
+          ],
+          "systems": [
+            {"system": "customs predictive analysis and fraud detection", "country_label": "Morocco", "class": "sectorai", "platform": "", "owner": "Administration of Customs and Indirect Taxes", "tiers": ""},
+            {"system": "General Tax Directorate AI chatbots and fraud detection", "country_label": "Morocco", "class": "sectorai", "platform": "", "owner": "General Tax Directorate", "tiers": ""}
+          ],
+          "note": ""
+        }
+      }
+    },
+    "aisystems": {"countries": {"MAR": {"facts": [], "systems": [], "note": "No locally built AI model, dataset or AI computing is stated."}}},
+    "digitalstrategy": {
+      "countries": {
+        "MAR": {
+          "facts": [],
+          "systems": [
+            {"system": "2022-2026 digital transformation plan", "country_label": "Morocco", "class": "ministry-plan", "platform": "", "owner": "Ministry of Economy and Finance", "tiers": ""}
+          ],
+          "note": "The plan named is the finance ministry's own, not a national strategy."
+        }
+      }
+    }
+  }
+}

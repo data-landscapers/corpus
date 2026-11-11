@@ -1,0 +1,7 @@
+{"slug": "2026-11-10-moz-governo-apresenta-em-doha-prioridades-para-acelerar-digitali", "studies": {
+"aiabuse": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "States priorities only; no AI harm rule or authority."}}},
+"aigovernment": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "AI for disaster management is a stated priority, not a system in use or tested."}}},
+"aisectoral": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "AI and big data for disasters is a stated priority; no tool piloted or in service."}}},
+"aisystems": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No AI model, dataset or computing built or planned with a builder or site."}}},
+"dataprotectionlaw": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Data protection named only as a priority; no law, bill or standing stated."}}}
+}}

@@ -1,62 +1,6 @@
 {
- "slug": "2025-12-01-nga-jtc-1-plenary-50",
- "studies": {
-  "internationalstandards": {
-   "countries": {
-    "NGA": {
-     "facts": [
-      {
-       "sub_indicator": "international",
-       "aspect": "use",
-       "value": "writes",
-       "fact": "ISO/IEC JTC 1 lists Nigeria among the P-members (participating members) of its 50th plenary, held 10-14 November 2025 in Chengdu.",
-       "as_of": "2025-11",
-       "date_precision": "month",
-       "system": "ISO/IEC JTC 1",
-       "class": "adoption"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    },
-    "ZAF": {
-     "facts": [
-      {
-       "sub_indicator": "international",
-       "aspect": "use",
-       "value": "writes",
-       "fact": "ISO/IEC JTC 1 lists South Africa among the P-members (participating members) of its 50th plenary, held 10-14 November 2025 in Chengdu.",
-       "as_of": "2025-11",
-       "date_precision": "month",
-       "system": "ISO/IEC JTC 1",
-       "class": "adoption"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    },
-    "ZWE": {
-     "facts": [
-      {
-       "sub_indicator": "international",
-       "aspect": "use",
-       "value": "writes",
-       "fact": "ISO/IEC JTC 1 lists Zimbabwe among the P-members (participating members) of its 50th plenary, held 10-14 November 2025 in Chengdu.",
-       "as_of": "2025-11",
-       "date_precision": "month",
-       "system": "ISO/IEC JTC 1",
-       "class": "adoption"
-      }
-     ],
-     "systems": [],
-     "note": ""
-    },
-    "TZA": {
-     "facts": [],
-     "systems": [],
-     "note": "Listed only as an O-member (observer) of JTC 1 at Plenary 50; an observer seat is not a yes."
-    }
-   }
+  "slug": "2025-12-01-nga-jtc-1-plenary-50",
+  "studies": {
+    "qualitystandards": {"countries": {"ZWE": {"facts": [], "systems": [], "note": "Zimbabwe is listed as a JTC 1 P-member only; membership of the international body is not a national standards body or standard."}}}
   }
- }
 }

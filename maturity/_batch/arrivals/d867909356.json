@@ -1,0 +1,11 @@
+{"slug": "2026-11-09-proparco-cashi-sudan", "studies": {
+"businesspayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on government e-procurement."}}},
+"centralbank": {"countries": {"SDN": {"facts": [], "systems": [], "note": "No central bank action stated."}}},
+"consumerprotection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on consumer protection rules."}}},
+"crossborderpayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on cross-border payments."}}},
+"digitaldivides": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on rural internet."}}},
+"g2ppayments": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Only humanitarian aid distribution by a fintech; no government programme."}}},
+"paymentsuptake": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Only a provider's registered-user count, not a survey."}}},
+"retailpayments": {"countries": {"SDN": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Proparco says Cashi's MyCashi digital wallet, used to deposit, withdraw, pay bills and transfer money through local merchants, has 2.2 million registered users in Sudan.", "as_of": "2026-11-09", "date_precision": "day", "system": "MyCashi", "class": "retail"}], "systems": [{"system": "MyCashi", "country_label": "MyCashi", "class": "retail", "platform": "USSD, SMS, offline card, app", "owner": "Cashi", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"SDN": {"facts": [], "systems": [], "note": "Nothing on tax payment."}}}
+}}

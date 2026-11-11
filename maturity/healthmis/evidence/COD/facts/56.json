@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-09-rdc-un-systeme-connecte-pour-mieux-organiser-les-interventions-medical",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Etoile Bleue",
+   "country_label": "Etoile Bleue emergency response",
+   "class": "other",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": "Emergency medical dispatch platform not yet inaugurated; it is not a health management information system."
+}

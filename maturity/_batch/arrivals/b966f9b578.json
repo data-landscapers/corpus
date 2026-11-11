@@ -1,0 +1,9 @@
+{"slug": "2026-11-08-tgo-togo-ipdcp-warns-personal-data-exposure", "studies": {
+"dataprotectionlaw": {"countries": {"TGO": {"facts": [
+{"sub_indicator": "general", "aspect": "standing", "value": "in-force", "fact": "Le Visionnaire reports the IPDCP communiqué of 5 November 2026 relies on articles 84 and 92 of Law No. 2019-014 of 29 October 2019 on personal data protection, with sanctions of one to five years in prison and fines up to CFAF 20 million.", "as_of": "2026-11-05", "date_precision": "day", "system": "Law No. 2019-014", "class": "general"},
+{"sub_indicator": "general", "aspect": "authority", "value": "constituted", "fact": "The IPDCP, the personal data protection authority, issued a communiqué on 5 November 2026 signed by its president, Colonel Bédiani Belei.", "as_of": "2026-11-05", "date_precision": "day", "system": "IPDCP", "class": "general"},
+{"sub_indicator": "general", "aspect": "application", "value": "activity", "fact": "The IPDCP warned social media users and group administrators in its 5 November 2026 communiqué against publicly exposing others' personal data, with no decision on a named case reported.", "as_of": "2026-11-05", "date_precision": "day", "system": "IPDCP", "class": "general"}
+], "systems": [], "note": ""}}},
+"internetusage": {"countries": {"TGO": {"facts": [], "systems": [], "note": "No internet use figure stated."}}},
+"opendiscussion": {"countries": {"TGO": {"facts": [], "systems": [], "note": "Warning on doxxing; no criticism silenced, connection cut or penalty for speech stated."}}}
+}}

@@ -1,0 +1,10 @@
+{"slug": "2025-10-14-moz-interoperabilidade-dos-sistemas-do-governo-electronico-e-fundamental-p", "studies": {
+"dataexchange": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "No data exchange platform stated."}}},
+"egovservices": {"countries": {"MOZ": {"facts": [], "systems": [], "note": "Integrated digital public services mentioned only as an aim."}}},
+"interoperability": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "framework", "aspect": "standing", "value": "adopted", "fact": "INTIC says Decree 67/2017 of 1 December approved Mozambique's E-Government Interoperability Framework, which is now under revision with EU support.", "as_of": "2017-12-01", "date_precision": "day", "system": "Quadro de Interoperabilidade do Governo Electronico (Decreto 67/2017)", "class": "framework"}
+], "systems": [{"system": "Quadro de Interoperabilidade do Governo Electronico (Decreto 67/2017)", "country_label": "Mozambique", "class": "framework", "platform": "", "owner": "INTIC", "tiers": ""}], "note": "No enforcing body or following by public bodies stated."}}},
+"interoperabilitystandards": {"countries": {"MOZ": {"facts": [
+{"sub_indicator": "standards", "aspect": "standing", "value": "draft", "fact": "INTIC chair Lourino Chemane said on 13 October 2025 that revision of Decree 67/2017 is under way, with EU support, to add technical specifications, technical data-exchange standards and a governance structure.", "as_of": "2025-10-13", "date_precision": "day", "system": "Revision of Decreto 67/2017", "class": "standards"}
+], "systems": [], "note": "Revision in progress; no published standards or checks stated."}}}
+}}

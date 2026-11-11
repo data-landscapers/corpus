@@ -1,0 +1,10 @@
+{"slug": "2025-07-01-ago-bna-electronic-payments-2024-74-trillion-kwanzas", "studies": {
+"businesspayments": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"AGO": {"facts": [], "systems": [], "note": "The governor gives payment volumes; no licensing, switch oversight or PAPSS statement."}}},
+"consumerprotection": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on consumer protection."}}},
+"crossborderpayments": {"countries": {"AGO": {"facts": [], "systems": [], "note": "No cross-border channel mentioned."}}},
+"g2ppayments": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Operations count and value only; no survey share of adults."}}},
+"retailpayments": {"countries": {"AGO": {"facts": [{"sub_indicator": "retail", "aspect": "service", "value": "inservice", "fact": "Angola's government news item says the country's payment system processed 2.5 billion electronic payment operations worth Kz 74 trillion in 2024, about 35% up on 2023, through QR code, reference, online, credit transfer, direct debit, card and KWiK transfers, per BNA governor Tiago Dias.", "as_of": "2024", "date_precision": "year", "system": "KWiK; electronic payment instruments", "class": "retail"}], "systems": [{"system": "KWiK", "country_label": "Angola", "class": "retail", "platform": "", "owner": "", "tiers": ""}], "note": ""}}},
+"revenuecollection": {"countries": {"AGO": {"facts": [], "systems": [], "note": "Nothing on tax or fee payments."}}}
+}}

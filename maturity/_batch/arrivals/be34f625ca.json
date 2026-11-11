@@ -1,14 +1,1 @@
-{
- "slug": "2026-06-01-scpt-redressement-communique-rdcmonde",
- "studies": {
-  "exchangepoints": {
-   "countries": {
-    "COD": {
-     "facts": [],
-     "systems": [],
-     "note": "The document says nothing about an internet exchange point."
-    }
-   }
-  }
- }
-}
+{"slug":"2026-06-01-scpt-redressement-communique-rdcmonde","studies":{"internationalbandwidth":{"countries":{"COD":{"facts":[],"systems":[],"note":"Statement on a postal-telecom operator's finances; states nothing on fibre routes."}}}}}

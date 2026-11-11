@@ -1,14 +1,7 @@
-{"slug": "2026-11-07-egy-youm7-cairo-ict-ministers-1gw-power-data-centres", "studies": {
-"aiabuse": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only a call for mechanisms to monitor AI outputs and hallucinations; no rule or authority stated."}}},
-"aigovernment": {"countries": {"EGY": {"facts": [{"sub_indicator": "govai", "aspect": "use", "value": "underway", "fact": "Investment and Foreign Trade Minister Mohamed Farid says the ministry is developing its trade regulatory lab using AI and working to use AI in analysing data and trade operations.", "as_of": "2026-11-07", "date_precision": "day", "system": "Trade regulatory lab", "class": "govai"}], "systems": [{"system": "Trade regulatory lab", "country_label": "Egypt", "class": "govai", "platform": "", "owner": "Ministry of Investment and Foreign Trade", "tiers": ""}], "note": ""}}},
-"aisectoral": {"countries": {"EGY": {"facts": [{"sub_indicator": "sectorai", "aspect": "use", "value": "inservice", "fact": "Irrigation Minister Hani Sewilam says AI techniques identify areas needing water distribution within farmland and land needing development, and these digital services are currently applied in Ismailia and Suez governorates.", "as_of": "2026-11-07", "date_precision": "day", "system": "Irrigation ministry AI and drone digital services", "class": "sectorai"}], "systems": [{"system": "Irrigation ministry AI and drone digital services", "country_label": "Egypt", "class": "sectorai", "platform": "", "owner": "Ministry of Water Resources and Irrigation", "tiers": ""}], "note": ""}}},
-"aistrategy": {"countries": {"EGY": {"facts": [{"sub_indicator": "strategy", "aspect": "standing", "value": "adopted", "fact": "ICT Minister Raafat Hindy says Egypt has completed the first phase of the national AI strategy and has set out its second phase under President Sisi's patronage.", "as_of": "2026-11-07", "date_precision": "day", "system": "National Artificial Intelligence Strategy", "class": "strategy"}], "systems": [], "note": ""}}},
-"aisystems": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Speaks of attracting AI investment and AI applications in general; no model, dataset or AI computing stated."}}},
-"datacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Plans for data-centre complexes and up to 1 GW of power at designated sites; no facility in service stated."}}},
-"datalocalisation": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Minister states an aim of state-owned Egyptian data centres to host data in Egypt; an intention, no rule."}}},
-"egovservices": {"countries": {"EGY": {"facts": [{"sub_indicator": "eservices", "aspect": "services", "value": "underway", "fact": "Minister Mohamed Farid says new digital services are being made available to exporters with the ICT ministry and e-Finance.", "as_of": "2026-11-07", "date_precision": "day", "system": "Digital services for exporters", "class": "eservices"}], "systems": [], "note": ""}}},
-"localrecords": {"countries": {"EGY": {"facts": [], "systems": [{"system": "Property tax system (new version)", "country_label": "Egypt", "class": "central", "platform": "", "owner": "Ministry of Finance", "tiers": ""}], "note": "Only the finance ministry's national property tax application is named; no local government record."}}},
-"nationaldatacentres": {"countries": {"EGY": {"facts": [], "systems": [], "note": "State aims to build Egyptian-owned data centres; none stated in service."}}},
-"startups": {"countries": {"EGY": {"facts": [], "systems": [], "note": "A finance ministry competition for tech firms to solve government problems; no startup law or fund stated."}}},
-"techhubs": {"countries": {"EGY": {"facts": [], "systems": [], "note": "No hub, incubator or park named."}}}
-}}
+{
+  "slug": "2026-11-07-egy-youm7-cairo-ict-ministers-1gw-power-data-centres",
+  "studies": {
+    "cloudstrategy": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Only an aim to build state-owned data centres is stated; no hosting or cloud policy drafted or adopted."}}},
+    "datacentrepower": {"countries": {"EGY": {"facts": [], "systems": [], "note": "Up to 1 GW at designated data-centre sites is a stated cooperation with the electricity ministry, with no contract, plant, tariff or zone in force."}}}
+  }
+}

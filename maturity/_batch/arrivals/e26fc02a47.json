@@ -1,5 +1,1 @@
-{"slug": "2025-06-30-nam-telecom-namibia-works-on-network-optimisation", "studies": {
-"internationalbandwidth": {"countries": {"NAM": {"facts": [
-{"sub_indicator": "routes", "aspect": "routes", "value": "one", "fact": "New Era says WACS lands in Namibia at Swakopmund and gives direct connectivity to West Africa, the UK and the rest of the world, with design capacity of at least 5.12 Tbit; maintenance on it in early June 2025 caused severe delays for Telecom Namibia and other ISPs.", "as_of": "2025-06", "date_precision": "month", "system": "West Africa Cable System (WACS)", "class": "route"}
-], "systems": [{"system": "West Africa Cable System (WACS)", "country_label": "Namibia", "class": "route", "platform": "submarine cable", "owner": "", "tiers": ""}], "note": ""}}}
-}}
+{"slug": "2025-06-30-nam-telecom-namibia-works-on-network-optimisation", "studies": {"internetusage": {"countries": {"NAM": {"facts": [], "systems": [], "note": "No internet usage figure."}}}, "satellitebroadband": {"countries": {"NAM": {"facts": [], "systems": [], "note": "The document concerns terrestrial and cable service; nothing on satellite broadband."}}}}}

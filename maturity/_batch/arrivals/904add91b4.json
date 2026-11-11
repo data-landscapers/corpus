@@ -1,0 +1,136 @@
+{
+ "slug": "2026-11-10-gin-mojaloop-nimbapay-launch-transaction-figures",
+ "studies": {
+  "businesspayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "centralbank": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "centralbank",
+       "aspect": "switch",
+       "value": "overseen",
+       "fact": "NimbaPay went live on 22 July 2026 under the leadership of Guinea's central bank BCRG and the national payment switch operator GuiM, whose board BCRG's First Vice-Governor chairs, per the Mojaloop Foundation.",
+       "as_of": "2026-07-22",
+       "date_precision": "day",
+       "system": "NimbaPay",
+       "class": "oversight"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NimbaPay",
+       "country_label": "Guinea",
+       "class": "oversight",
+       "platform": "Mojaloop",
+       "owner": "BCRG; GuiM",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "consumerprotection": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "crossborderpayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Domestic switch only; no cross-border corridor stated."
+    }
+   }
+  },
+  "g2ppayments": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "paymentsuptake": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "publicconsultation": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  },
+  "retailpayments": {
+   "countries": {
+    "GIN": {
+     "facts": [
+      {
+       "sub_indicator": "retail",
+       "aspect": "interop",
+       "value": "interop",
+       "fact": "Mojaloop Foundation says NimbaPay, Guinea's national instant payment system live since 22 July 2026, enables interoperable instant payments between participating banks, e-money providers and microfinance institutions.",
+       "as_of": "2026-07-22",
+       "date_precision": "day",
+       "system": "NimbaPay",
+       "class": "retail"
+      },
+      {
+       "sub_indicator": "retail",
+       "aspect": "switch",
+       "value": "national",
+       "fact": "Mojaloop Foundation says NimbaPay, Guinea's national instant payment system live since 22 July 2026, enables interoperable instant payments between participating banks, e-money providers and microfinance institutions.",
+       "as_of": "2026-07-22",
+       "date_precision": "day",
+       "system": "NimbaPay",
+       "class": "retail"
+      }
+     ],
+     "systems": [
+      {
+       "system": "NimbaPay",
+       "country_label": "Guinea",
+       "class": "retail",
+       "platform": "Mojaloop",
+       "owner": "BCRG; GuiM",
+       "tiers": ""
+      }
+     ],
+     "note": ""
+    }
+   }
+  },
+  "revenuecollection": {
+   "countries": {
+    "GIN": {
+     "facts": [],
+     "systems": [],
+     "note": "Not stated in the document."
+    }
+   }
+  }
+ }
+}

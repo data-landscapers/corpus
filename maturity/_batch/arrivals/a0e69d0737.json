@@ -1,0 +1,14 @@
+{"slug": "2026-11-09-sen-pi-spi-providers-bceao", "studies": {
+"businesspayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on e-procurement."}}},
+"centralbank": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "centralbank", "aspect": "regional", "value": "regional", "fact": "RTS reports that Senegal's money-transfer providers, through their consultation body CPCP, asked the BCEAO on 8 November 2026 to convene talks on the rollout of its PI-SPI instant payment platform across the UEMOA area.", "as_of": "2026-11-08", "date_precision": "day", "system": "PI-SPI", "class": "oversight"}
+], "systems": [{"system": "PI-SPI", "country_label": "Senegal", "class": "oversight", "platform": "UEMOA instant payment platform", "owner": "BCEAO", "tiers": ""}], "note": "A regional system, not PAPSS; no licensing or national switch stated."}}},
+"consumerprotection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on consumer rules or redress."}}},
+"crossborderpayments": {"countries": {"SEN": {"facts": [
+{"sub_indicator": "crossborder", "aspect": "regional", "value": "regional", "fact": "RTS reports that on 8 November 2026 Senegal's money-transfer providers cited operational difficulties and malfunctions in the PI-SPI regional instant payment platform being rolled out across the UEMOA area, showing it is in operation.", "as_of": "2026-11-08", "date_precision": "day", "system": "PI-SPI", "class": "crossborder"}
+], "systems": [{"system": "PI-SPI", "country_label": "Senegal", "class": "crossborder", "platform": "UEMOA instant payment platform", "owner": "BCEAO", "tiers": ""}], "note": "No volumes or named corridor stated."}}},
+"g2ppayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on government payments to people."}}},
+"paymentsuptake": {"countries": {"SEN": {"facts": [], "systems": [], "note": "No survey share stated."}}},
+"retailpayments": {"countries": {"SEN": {"facts": [], "systems": [], "note": "PI-SPI is described as in rollout with difficulties, but no mobile money service or wallet-to-bank link is stated in service."}}},
+"revenuecollection": {"countries": {"SEN": {"facts": [], "systems": [], "note": "Nothing on tax or fee payment."}}}
+}}

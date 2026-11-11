@@ -1,0 +1,11 @@
+{"slug": "2026-11-09-ben-securisation-des-identifiants-d-acces-aux-services-publics-n", "studies": {
+"authentication": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Thesis report on password delegation at service-public.bj; no state authentication service stated."}}},
+"birthidlink": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on civil register and ID link."}}},
+"dataprotectionlaw": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No law, authority or decision stated."}}},
+"idcoverage": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No ID enrolment figure stated."}}},
+"idfrombirth": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on a number at birth."}}},
+"idmaintenance": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on who runs the ID system."}}},
+"idregisters": {"countries": {"BEN": {"facts": [], "systems": [], "note": "No register keyed on the ID number stated."}}},
+"idrobustness": {"countries": {"BEN": {"facts": [], "systems": [], "note": "Nothing on the national ID system."}}},
+"itcapacity": {"countries": {"BEN": {"facts": [], "systems": [], "note": "An ASIN researcher's thesis does not state in-house capacity or an operating agency's build."}}}
+}}
