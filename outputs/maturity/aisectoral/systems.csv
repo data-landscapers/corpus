@@ -2,6 +2,8 @@ iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,AGT in-house AI system,Angola,sectorai,machine learning,AGT (Administração Geral Tributária),,2026-02-11-inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt
 AGO,AGT machine-learning tax software,Angola,sectorai,,Administração Geral Tributária (AGT),,2026-07-10-ago-inteligencia-artificial-da-agt-apanha-15-mil-empresas-suspeitas-de-fug
 AGO,AI-based risk audit model,Angola,sectorai,machine learning and data analysis,Administracao Geral Tributaria (AGT),,2026-04-15-ago-agt-reforca-combate-a-fraude-com-ia-e-mapeamento-de-processos
+AGO,ASY5,Angola,sectorai,ASYCUDA (UNCTAD),AGT,,2026-06-29-ago-angop-agt-asy5-porto-luanda-ia
+AGO,AI smart meters,ENDE,other,,ENDE,,2025-11-19-ago-expansao-ia-banca-assembleia-nacional-ende
 BDI,AgriHyphen AI,Burundi,other,app,Hyphen Tech,,2026-02-27-global-south-world-ai-app-burundian-farmers-crop-diseases
 BDI,Malariya Pi,Burundi,sectorai,smartphone app,PNILP with Enabel; developed by Audere,Cibitoke and Kirundo,2025-07-21-bdi-l-intelligence-artificielle-au-service-du-diagnostic-du-paludisme-au-b
 BEN,miLab MAL,Benin,sectorai,Noul,Ministry of Health / PNLP,,2026-09-08-wearetech-benin-paludisme-ia-diagnostic
@@ -33,6 +35,7 @@ COD,Preparedness Data Exchange (PDX),Democratic Republic of the Congo,sectorai,W
 COD,Voyage Santé,Democratic Republic of the Congo,other,digital points-of-entry system at N'djili International Airport and Nord Bangui border post,Dure Technologies with WHO,,2026-10-19-cod-who-deploys-pdx-preparedness-intelligence-platform-in-the-democratic-re
 COD,SnapiForm,DRC,sectorai,DHIS2,SnapiForm with PATH,,2026-01-02-cod-use-case-snapiform
 COD,Etoile Bleue,DR Congo,sectorai,"digital platform with geolocation and AI-assisted alert handling, 199 line, mobile app",Ministry of Health,,2026-11-09-rdc-un-systeme-connecte-pour-mieux-organiser-les-interventions-medical
+COD,"AI radiology equipment, PNLT",PNLT AI radiology,sectorai,,Programme national de lutte contre la tuberculose,,2025-03-25-cod-acp-pnlt-tuberculose-radiologie-ia
 COM,DHIS2 (malaria case data),Comoros,other,DHIS2,,,2026-05-11-dhis2-community-ai-predictive-epidemiology-malaria-comoros
 COM,EIOS,Comoros,sectorai,Epidemic Intelligence from Open Sources,WHO with Ministry of Health,,2025-04-24-com-comores-l-oms-forme-sur-l-initiative-d-intelligence-epidemique-a-parti
 CPV,Monitoring Tools and Artificial Intelligence for Smart Agriculture,Cabo Verde,other,"sensors, drones and AI models","University of Cape Verde with UNDP Accelerator Lab, Primebotics and a producers' association",,2024-03-15-cpv-agricultural-transition-using-the-internet-of-things-and-artificial-in
@@ -79,6 +82,7 @@ GHA,PROMPTS,Ghana,sectorai,AI-enabled two-way messaging,Jacaranda Health with Gh
 GHA,PROMPTS (Nurse Mary),Ghana,sectorai,SMS,Ghana Health Service with Jacaranda Health,,2026-07-14-gha-ghs-jacaranda-deploy-ai-tool-for-maternal-care
 GHA,AI-enabled early warning systems for climate-sensitive diseases,Ghana,sectorai,DHIS2,Ministry of Health with WHO and UNDP,,2026-05-17-gha-ghana-launches-artificial-intelligence-driven-health-programme-to-stre
 GHA,AI customs automation,AI customs automation,other,,Government of Ghana,,2025-12-11-gha-2026-budget-through-lens-of-communication-digital-transformation
+GHA,NHIA AI claims analysis,NHIA AI,sectorai,,National Health Insurance Authority,,2024-07-01-gha-graphic-nhia-ai-fraudulent-claims
 GIN,Plateforme numerique de suivi des alertes du COU-SP,Guinee,other,,ANSS / Ministere de la Sante et de l'Hygiene publique,,2026-09-15-gin-guineejet-anss-oim-ia-urgences-sanitaires
 GMB,National Misinformation and Disinformation Response Centre (NMDRC),The Gambia,other,AI-powered platform built by Dundal Systems,Ministry of Information,,2026-04-27-grts-gambia-national-misinformation-disinformation-response-centre
 GMB,Rental Tax Compliance System (rTCS),Rental Tax Compliance System,sectorai,RippleNami ML model,Ministry of Finance and Economic Affairs / Gambia Revenue Authority,,2026-05-01-gmb-dial-rental-tax-compliance-ml-case-study
@@ -99,6 +103,7 @@ LBR,AI X-ray machines for TB screening,Liberia,sectorai,AI-enabled X-ray,Ministr
 LSO,Automatic Compliance Project (ACP),Lesotho,sectorai,,Revenue Services Lesotho with Land Administration Authority,,2024-09-16-lso-newsday-rsl-automatic-compliance-project
 LSO,qXR,Lesotho,sectorai,Qure.ai chest X-ray AI,Qure.ai,seven community screening sites,2024-03-04-lso-ai-healthcare-revolution-in-lesotho-combating-tb
 LSO,AI agricultural extension chatbot,Lesotho,sectorai,,Ministry of ICST with Ministry of Agriculture,,2026-10-23-lso-lesotho-urged-to-turn-innovation-into-jobs-and-economic-growth-lesotho
+LSO,AI-aided TB screening,AI TB screening,sectorai,,Ministry of Health,,2024-03-25-lso-who-afro-tb-case-finding-ai-screening
 MAR,AI customs risk analysis and targeting project,Maroc,sectorai,,Administration des Douanes et Impôts Indirects,,2025-05-23-mar-adii-ia-analyse-risques-douaniers
 MAR,DGI AI fraud detection,Morocco,sectorai,,Direction generale des impots,,2025-09-17-mar-lia-encore-embryonnaire-dans-les-services-publics-selon-lexpert-maroua
 MAR,POC satellites et IA (Pôle Digital de l'Agriculture / BTI Group),Morocco,sectorai,,"Pôle Digital de l'Agriculture, de la Forêt et Observatoire de la Sécheresse with BTI Group",,2024-03-06-mar-signature-de-convention-pour-un-poc-innovant-en-agriculture-utilisant
@@ -107,6 +112,8 @@ MAR,AI school support management system (Draa-Tafilalet),Maroc,sectorai,"Massar,
 MAR,PortNet,Morocco,sectorai,,,,2026-07-13-mar-portnet-processes-more-nearly-200-000-customs-declarations-in-june
 MAR,BADR,Morocco,sectorai,,ADII,,2025-08-25-mar-adii-2024-plus-de-recettes-plus-de-fluidite-plus-de-technologie
 MAR,Switch Al-Maghrib AI fraud scoring,Morocco,other,national routing engine,Switch Al-Maghrib,,2026-11-04-switch-al-maghrib-on-future-of-payments
+MAR,customs predictive analysis and fraud detection,Morocco,sectorai,,Administration of Customs and Indirect Taxes,,2024-09-02-mar-hespress-lekjaa-finance-ministry-ai-customs-tax
+MAR,General Tax Directorate AI chatbots and fraud detection,Morocco,sectorai,,General Tax Directorate,,2024-09-02-mar-hespress-lekjaa-finance-ministry-ai-customs-tax
 MDG,Enhanced Risk Assessment (ERA),Madagascar,sectorai,,Malagasy customs,,2025-06-07-douanes-madagascar-modele-ia-cedia-midi
 MDG,EC-MADA programme civil registration digitisation,Madagascar,other,Studia Inc OCR and AI-driven indexing,,,2026-05-08-studia-ai-digitisation-civil-records-intelligentcio
 MDG,Customs AI for data analysis and risk,Madagascar,sectorai,,Madagascar Customs,,2025-08-22-mdg-newsmada-douane-univ-antananarivo-data-ai
@@ -183,6 +190,7 @@ TGO,Togo AI Lab,Togo,sectorai,,Ministry of Public Service Efficiency and Digital
 TGO,Digital Market Intelligence,Togo,sectorai,SICPA SA,Ministere de l'Economie et de la Veille strategique,,2026-03-12-togo-lancement-digital-market-intelligence-mobilisation-ressources-publiques
 TGO,Digital Market Intelligence,Togo,sectorai,SICPA platform,Ministry of Economy and Strategic Monitoring,,2026-03-13-tgo-togo-l-etat-deploie-l-intelligence-artificielle-pour-traquer-les-fraud
 TGO,Novissi,Novissi,sectorai,,Government of Togo with CEGA,,2026-10-22-xaf-african-governments-customers-for-local-ai
+TGO,Digital Market Intelligence (DMI),DMI,sectorai,SICPA SA,Ministry of Economy,,2026-03-12-tgo-atop-digital-market-intelligence-platform-launched
 TUN,SINDA 2,Tunisia,other,customs IT system,Tunisian Customs,,2026-10-12-tun-businessnews-customs-ai-fraud-detection
 TUN,GAINAfrica crop-disease app,Tunisia,sectorai,,GAINAfrica project,,2026-08-25-aimnews-gainafrica-generative-ai-pilot
 TUN,système national de sélectivité douanière,Tunisia,sectorai,,Direction Générale des Douanes,,2026-05-16-la-douane-integre-lia-au-sein-de-son-systeme

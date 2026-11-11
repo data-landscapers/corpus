@@ -1,0 +1,36 @@
+{
+ "slug": "2024-07-01-gha-graphic-nhia-ai-fraudulent-claims",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "NHIA's Deputy Director of Quality Assurance says the Authority employs AI to find outliers and trends in real time in insurance claims.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "NHIA AI claims analysis",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "results",
+   "value": "reported",
+   "fact": "Graphic Online reports NHIA says it saved GH¢9.5 million from fraudulent claims in 2023 after deploying AI.",
+   "as_of": "2023",
+   "date_precision": "year",
+   "system": "NHIA AI claims analysis",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NHIA AI claims analysis",
+   "country_label": "NHIA AI",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "National Health Insurance Authority",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

@@ -20,9 +20,9 @@ The Continental AI Strategy asks for AI adopted in the core sectors, with nation
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 3 |
+| 5 Leading | 4 |
 | 4 Operating | 0 |
-| 3 Established | 38 |
+| 3 Established | 37 |
 | 2 Nascent | 5 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
@@ -46,6 +46,15 @@ The health insurer's AI blocked Sh12.7 billion of claims by 2026, and AI serves 
 - Duale said the digital gatekeeper had flagged, rejected and left unpaid Sh12.7 billion of claims by late February 2026, with 1,188 fraudulent files sent to the DCI, 26 suspects charged and 248 facilities under probe ([source, 2026-02-27](https://www.the-star.co.ke/news/2026-02-27-duale-ai-blocked-sh127bn-fake-claims-at-sha)).
 - Health CS Aden Duale said investigations had uncovered irregular payments of Sh10.6 billion, credited to new safeguards embedded in the SHA system ([source, 2025-12-04](https://www.the-star.co.ke/news/2025-12-04-ai-system-flaws-push-sha-into-chaos-mps)).
 - Tuko reports President Ruto said Kenya uses AI for education-funding means testing, for distributing fertiliser to farmers and for identifying universal health coverage beneficiaries ([source, 2024-09](https://www.tuko.co.ke/business-economy/563190-william-ruto-attempts-woo-tech-giants-invest-kenya-using-ai/)).
+
+### Morocco: 5 Leading
+
+Customs and tax have used AI since 2024, and customs targeting found 34 million dirhams of evasion; results in other sectors are not known.
+
+- Minister Faouzi Lekjaa described AI in use in both customs (clearance and fraud analysis) and tax (chatbots and fraud detection) ([source, 2024-09-02](https://en.hespress.com/90558-moroccan-ministry-of-finance-eyes-ai-to-boost-efficiency.html)).
+- Minister Faouzi Lekjaa said the Administration of Customs and Indirect Taxes uses data analysis and machine learning algorithms for predictive analysis in customs clearance and fraud detection, and is testing a smart system that adapts to evolving fraud patterns ([source, 2024-09-02](https://en.hespress.com/90558-moroccan-ministry-of-finance-eyes-ai-to-boost-efficiency.html)).
+- Morocco's customs administration (ADII) reports that in 2024 its BADR system, described as applied artificial intelligence, processed 1,540 fraud alerts and was enriched by 434 new rules and 199 updates, alongside predictive algorithms for targeting ([source, 2024](https://fr.hespress.com/438610-adii-2024-plus-de-recettes-plus-de-fluidite-plus-de-technologie.html)).
+- The ADII 2024 activity report says algorithm-based targeting detected 34 MDH of evaded duties and taxes (24 MDH in 2023), of which 20 MDH was recovered and 14 MDH levied as fines ([source, 2024](https://fr.hespress.com/438610-adii-2024-plus-de-recettes-plus-de-fluidite-plus-de-technologie.html)).
 
 ### Zimbabwe: 5 Leading
 
@@ -200,14 +209,6 @@ An AI tool was in service in a public sector's system in 2026; AI in several sec
 An AI-enabled water leak reporting service of the water authority was in service in 2026; AI in a second sector's system is not known.
 
 - Minister Ramtohul said an AI-enabled water leakage reporting service of the Central Water Authority is available through the KOREK super app ([source, 2026-08-17](https://mitci.govmu.org/mitci/online-motor-vehicle-licence-system-launched-for-taxi-operators/)).
-
-### Morocco: 3 Established
-
-Morocco has used AI since 2024 in customs fraud targeting, medicines licensing and school dropout prediction, each in a separate source; none names several sectors.
-
-- Morocco's customs administration (ADII) reports that in 2024 its BADR system, described as applied artificial intelligence, processed 1,540 fraud alerts and was enriched by 434 new rules and 199 updates, alongside predictive algorithms for targeting ([source, 2024](https://fr.hespress.com/438610-adii-2024-plus-de-recettes-plus-de-fluidite-plus-de-technologie.html)).
-- Maroc.ma (MAP) reports the Moroccan Medicines and Health Products Agency launched the Tarkhiss platform on 31 March 2026, which includes AI-based analysis tools to process files, starting with cosmetics and body-hygiene products for about 3,500 operators ([source, 2026-03-31](https://maroc.ma/fr/actualites/lancement-de-la-plateforme-tarkhiss-pour-accelerer-la-transformation-digitale-du-secteur-de-la-sante)).
-- Le Matin, citing a parliamentary working group report, says an AI system for school support management is deployed in the Draa-Tafilalet Academy, using the Massar, SAGE+ and GEXA+ databases to predict pupil performance and flag dropout risk ([source, 2025-05-12](https://lematin.ma/nation/maroc-et-intelligence-artificielle-qui-pilote-la-machine/279065)).
 
 ### Namibia: 3 Established
 

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-29-ago-angop-agt-asy5-porto-luanda-ia",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "AGT project coordinator Cynthia Ratle says the ASY5 customs system launched at Luanda port introduces AI-based risk management that analyses cargo from manifest submission, and AGT chair José Leiria says it uses AI and machine learning to check origin, value and consistency.",
+   "as_of": "2026-06-29",
+   "date_precision": "day",
+   "system": "ASY5",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "ASY5",
+   "country_label": "Angola",
+   "class": "sectorai",
+   "platform": "ASYCUDA (UNCTAD)",
+   "owner": "AGT",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

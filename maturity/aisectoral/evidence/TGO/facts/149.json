@@ -1,0 +1,26 @@
+{
+ "slug": "2026-03-12-tgo-atop-digital-market-intelligence-platform-launched",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "ATOP reports the Economy Minister launched the Digital Market Intelligence platform, built by SICPA SA, which uses AI and data analytics to detect fraud and contraband for inspectors of the OTR, the Commerce ministry and the SAM Commission.",
+   "as_of": "2026-03-12",
+   "date_precision": "day",
+   "system": "Digital Market Intelligence (DMI)",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Digital Market Intelligence (DMI)",
+   "country_label": "DMI",
+   "class": "sectorai",
+   "platform": "SICPA SA",
+   "owner": "Ministry of Economy",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

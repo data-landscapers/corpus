@@ -1,0 +1,26 @@
+{
+ "slug": "2025-03-25-cod-acp-pnlt-tuberculose-radiologie-ia",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "ACP quotes the national secretary for hygiene and social welfare saying the government equipped the national TB programme with radiology equipment using artificial intelligence.",
+   "as_of": "2025-03-24",
+   "date_precision": "day",
+   "system": "AI radiology equipment, PNLT",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI radiology equipment, PNLT",
+   "country_label": "PNLT AI radiology",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Programme national de lutte contre la tuberculose",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

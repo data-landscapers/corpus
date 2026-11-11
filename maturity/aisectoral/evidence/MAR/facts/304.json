@@ -1,0 +1,54 @@
+{
+ "slug": "2024-09-02-mar-hespress-lekjaa-finance-ministry-ai-customs-tax",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Minister Faouzi Lekjaa said the Administration of Customs and Indirect Taxes uses data analysis and machine learning algorithms for predictive analysis in customs clearance and fraud detection, and is testing a smart system that adapts to evolving fraud patterns.",
+   "as_of": "2024-09-02",
+   "date_precision": "day",
+   "system": "customs predictive analysis and fraud detection",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "Minister Faouzi Lekjaa said the General Tax Directorate uses AI for user-support chatbots, to combat tax fraud and to digitise tax filing.",
+   "as_of": "2024-09-02",
+   "date_precision": "day",
+   "system": "General Tax Directorate AI chatbots and fraud detection",
+   "class": "sectorai"
+  },
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "sectors",
+   "value": "several",
+   "fact": "Minister Faouzi Lekjaa described AI in use in both customs (clearance and fraud analysis) and tax (chatbots and fraud detection).",
+   "as_of": "2024-09-02",
+   "date_precision": "day",
+   "system": "customs and tax AI tools",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "customs predictive analysis and fraud detection",
+   "country_label": "Morocco",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Administration of Customs and Indirect Taxes",
+   "tiers": ""
+  },
+  {
+   "system": "General Tax Directorate AI chatbots and fraud detection",
+   "country_label": "Morocco",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "General Tax Directorate",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

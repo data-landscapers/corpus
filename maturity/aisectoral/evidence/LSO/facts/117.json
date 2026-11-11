@@ -1,0 +1,26 @@
+{
+ "slug": "2024-03-25-lso-who-afro-tb-case-finding-ai-screening",
+ "facts": [
+  {
+   "sub_indicator": "sectorai",
+   "aspect": "use",
+   "value": "inservice",
+   "fact": "WHO AFRO says the Government of Lesotho has implemented innovations including using artificial intelligence to aid TB screening.",
+   "as_of": "2024-03",
+   "date_precision": "month",
+   "system": "AI-aided TB screening",
+   "class": "sectorai"
+  }
+ ],
+ "systems": [
+  {
+   "system": "AI-aided TB screening",
+   "country_label": "AI TB screening",
+   "class": "sectorai",
+   "platform": "",
+   "owner": "Ministry of Health",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
