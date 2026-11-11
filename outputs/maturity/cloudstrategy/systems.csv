@@ -66,6 +66,7 @@ CMR,ST Digital data centres,ST Digital,other,,ST Digital,,2026-06-11 Can Africa 
 CMR,"Datacenter National Public (planned, main and backup sites)",Datacenter National Public,other,,"Ministère des Mines, de l'Industrie et du Développement Technologique (MINMIDT)",national,2024-05-13-cmr-armp-ami-etude-datacenter-national
 CMR,CSIRT/SOC/PKI platform (planned),plateforme CSIRT/SOC/PKI,other,,MINMIDT,national,2024-05-13-cmr-armp-ami-etude-datacenter-national
 CMR,CENADI study 'Datacenter au Cameroun : Compétitivité et viabilité',étude Datacenter au Cameroun,other,,CENADI,national,2025-07-09-cmr-dgb-cenadi-etude-datacenters
+CMR,Dibamba port zone AI-ready data centre,Cameroon,other,modular data centre,Port Autonome de Douala,,2026-11-07-cmr-missole-les-etats-unis-sengagent-aux-cotes-du-port-autonome-de-douala
 COD,Cloud souverain,Cloud souverain,other,,Ministere de l'Economie numerique,,2026-07-29-drc-kibassa-launches-strategic-framework-digital-transformation
 COD,"National datacenter, Kinshasa",premier datacenter national,other,"Huawei-built; 54 servers, 1,278 TB",Government (Primature),,2023-11-08-cod-ciomag-premier-datacenter-national
 COD,Wiocc data centre,centre de données Wiocc,other,open-access model,Private (Wiocc),private market,2026-03-01-cod-ptn-tdr-hebergement-donnees-publiques
@@ -118,6 +119,7 @@ ETH,Gotera Cloud (G-Cloud),Gotera Cloud (G-Cloud),other,,Information Network Sec
 ETH,National Cloud,National Cloud,other,planned,Government of Ethiopia,"sectors incl. agriculture, trade, investment, media; operational in an estimated 18-24 months (May 2026)",2026-05-19-eth-cioafrica-national-cloud-18-24-months
 ETH,Telecloud,Telecloud,other,cloud-computing service launched October 2022,Ethio Telecom,public and private institutions,2026-05-19-eth-cioafrica-national-cloud-18-24-months
 ETH,National Cloud Security Governance Framework,Ethiopia,policy,,INSA,,2026-05-01-eth-insa-hosts-discussion-forum-on-the-national-cloud-security-governance
+ETH,National Cloud Data Center,Ethiopia,other,,Ministry of Innovation and Technology,,2026-11-10-ethiopia-presses-public-institutions-to-consolidate-infrastructure-und
 GAB,Gabon sovereign data centre (Nkok),first sovereign data centre,other,"ST DIGITAL Tier III facility with cloud room, colocation room and private AI room",State in partnership with ST DIGITAL,"government agencies, businesses, banks, public administrations",2026-07-08-gabon-sovereign-datacenter-technical-spec
 GAB,Gabon national data center (Nkok),first national data center,other,"ST Digital Tier III facility with cloud services room, colocation room and private hosting room",ST Digital,,2026-07-07-gabon-datacenter-inauguration-figures
 GAB,Nkok data center (sovereign cloud services),data center in Nkok Special Economic Zone,other,,"ST DIGITAL, supported by the Ministry of the Digital Economy",,2025-08-08-gabon-datacenter-groundbreaking-nkok

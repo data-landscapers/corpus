@@ -1,6 +1,6 @@
 # Data storage / cloud strategy: hosting policy
 
-*As at 2026-09-30.*
+*As at 2026-11-11.*
 
 ## The norm
 
@@ -20,15 +20,23 @@ The African Union's Data Policy Framework asks each state to set rules for hosti
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 0 |
-| 4 Operating | 6 |
-| 3 Established | 9 |
-| 2 Nascent | 9 |
+| 5 Leading | 1 |
+| 4 Operating | 5 |
+| 3 Established | 10 |
+| 2 Nascent | 8 |
 | 1 Absent | 0 |
 | Unplaced | 2 |
 | No evidence | 28 |
 
 ## Countries
+
+### Nigeria: 5 Leading
+
+Nigeria's 2026 cloud policy names Galaxy Backbone as government's cloud, and the postal service hosts its postcode database there; other moves are not known.
+
+- NIPOST says its core postcode database is hosted and managed by Galaxy Backbone, an arrangement it bases on the National Digital Cloud Policy ([source, 2026-11-10](https://techcabal.com/2026/11/10/nigeria-hybrid-cloud-storage-postcode/)).
+- NIPOST says the policy directs federal agencies to meet cloud hosting needs through the government's shared services model, with Galaxy Backbone as provider ([source, 2026-11-10](https://techcabal.com/2026/11/10/nigeria-hybrid-cloud-storage-postcode/)).
+- TechCabal says Communications Minister Bosun Tijani released the National Digital Cloud Policy in August 2026, with NITDA's supporting cloud guidelines ([source, 2026-08](https://techcabal.com/2026/11/10/nigeria-hybrid-cloud-storage-postcode/)).
 
 ### Burkina Faso: 4 Operating
 
@@ -37,13 +45,6 @@ Burkina Faso tells public bodies to host nationally and opened two government cl
 - The ministry reported 120 public platforms inventoried for hosting in the country, the two inaugurated data centres being the destination, with repatriation begun and targeted for completion before end-2026; the document counts no body as having moved ([source, 2026-07-25](https://www.queenmafa.net/2026/07/26/chantier-zero-donnee-a-lexterieur-120-plateformes-deja-repertoriees/)).
 - ANPTIC's board chair set as the course for 2026 the repatriation of administrations' and institutions' data to the national data centres inaugurated in January 2026; no body is stated to have moved ([source, 2026-03-24](https://anptic.gov.bf/actualites/lanptic-tient-sa-1ere-session-ordinaire-du-conseil-dadministration-de-lannee-2026/)).
 - The government's "Zéro donnée à l'extérieur" chantier, one of the twelve digital-transformation chantiers to 2030, aims to host platforms and data on national territory, and the Prime Minister's half-year evaluation of 25 July 2026 reported it as under implementation ([source, 2026-07-25](https://www.queenmafa.net/2026/07/26/chantier-zero-donnee-a-lexterieur-120-plateformes-deja-repertoriees/)).
-
-### Nigeria: 4 Operating
-
-Nigeria's August 2026 cloud policy routes government cloud through the state-owned Galaxy Backbone; no source found says which bodies have moved.
-
-- The review says Part II designates Galaxy Backbone Limited the primary digital infrastructure provider, aggregating government cloud demand and operating shared government platforms, with procurement through a National Digital Marketplace on which only certified providers may be listed; the article gives no date for the designation, so its published date is used ([source, 2026-10-05](https://www.mondaq.com/nigeria/it-and-internet/1851136/a-review-of-nigerias-national-digital-cloud-policy-new-direction-and-implication-for-businesses)).
-- NITDA's director-general said frameworks such as the National Digital Cloud Policy and its investment roadmap are intended to give private capital clearer pathways to enter the market; the article gives no adoption date, so its published date of 2026-09-17 is used ([source, 2026-09-17](https://techdigest.ng/nigeria-positions-for-investment-boom-with-sovereign-cloud-strategy/)).
 
 ### Rwanda: 4 Operating
 
@@ -87,6 +88,12 @@ Egypt adopted a Cloud First Policy in 2024, in force since August 2024; no sourc
 
 - Digital Policy Alert records that the Cloud First Policy (2024), including its data localisation requirement, entered into force on 22 August 2024 ([source, 2024-08-22](https://digitalpolicyalert.org/change/12346-data-localisation-requirement-in-cloud-first-policy-2024)).
 - Digital Policy Alert records that the Supreme Council of Digital Society adopted the Cloud First Policy on 13 March 2024, requiring data classified top secret or secret to be hosted exclusively within Egypt ([source, 2024-03-13](https://digitalpolicyalert.org/change/12346-data-localisation-requirement-in-cloud-first-policy-2024)).
+
+### Ethiopia: 3 Established
+
+Federal directives tell public bodies to leave their own server rooms for shared national hosting; the national cloud data centre was unfinished in 2026.
+
+- Tech Review Africa reports Minister Frehiwot Tamru reiterating existing federal directives for public institutions to move away from standalone server facilities onto shared national infrastructure ([source, 2026-11-10](https://techreviewafrica.com/news/8212/x)).
 
 ### Gambia: 3 Established
 
@@ -156,12 +163,6 @@ The Central African Republic was preparing a national data hosting strategy in 2
 A national data hosting strategy was being developed in March 2026; no adopted policy, or where public bodies must host, is known.
 
 - The Digital Transformation Project terms of reference (March 2026) say the government, helped by UNECA and GIZ, is developing a national data hosting strategy, under way mainly at central level, and seek consultants to define the hosting approach (for example cloud-first or cloud-appropriate) and propose hosting and cloud decrees and directives ([source, 2026-03](https://www.mediacongo.net/dpics/filesmanager/jobaof/2026/04-avril/03/ug_260413_02_05.pdf)).
-
-### Ethiopia: 2 Nascent
-
-Ethiopia had a national cloud security governance framework in draft in 2026; no source found says whether it has been adopted.
-
-- The Information Network Security Administration (INSA) held an internal forum on the proposed National Cloud Security Governance Framework (NCSGF) in 2026 ([source, 2026-05](https://www.linkedin.com/posts/information-network-security-administration_insa-cloudsecurity-cybersecurity-activity-7466419690207277056-34la)).
 
 ### Ghana: 2 Nascent
 

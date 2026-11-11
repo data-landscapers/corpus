@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "policy",
-      "stage": "4",
+      "stage": "5",
       "standing": "adopted",
-      "use": "named",
+      "use": "moved",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-009;NGA-010",
-      "gaps": "No source from the last three years naming or counting public bodies that have moved onto the named hosting is held.",
-      "note": "Counted from the four questions by study-ladder-cloudstrategy.py.",
-      "as_at": "2026-10-25"
+      "stage_sources": "NGA-032;NGA-031;NGA-030",
+      "gaps": "No source found counts the ministries or agencies that have moved onto Galaxy Backbone beyond NIPOST.",
+      "note": "The August 2026 National Digital Cloud Policy names Galaxy Backbone as government's cloud provider, and NIPOST says in November 2026 that its postcode database is hosted and managed there under that policy, a named agency on the named hosting, so stage 5.",
+      "as_at": "2026-11-11"
     }
   ]
 }

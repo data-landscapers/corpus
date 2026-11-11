@@ -1,0 +1,37 @@
+{
+ "slug": "2026-11-10-nigeria-hybrid-cloud-postcode-database",
+ "facts": [
+  {
+   "sub_indicator": "policy",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "TechCabal says Communications Minister Bosun Tijani released the National Digital Cloud Policy in August 2026, with NITDA's supporting cloud guidelines.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "National Digital Cloud Policy",
+   "class": "policy"
+  },
+  {
+   "sub_indicator": "policy",
+   "aspect": "use",
+   "value": "named",
+   "fact": "NIPOST says the policy directs federal agencies to meet cloud hosting needs through the government's shared services model, with Galaxy Backbone as provider.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "National Digital Cloud Policy",
+   "class": "policy"
+  },
+  {
+   "sub_indicator": "policy",
+   "aspect": "use",
+   "value": "moved",
+   "fact": "NIPOST says its core postcode database is hosted and managed by Galaxy Backbone, an arrangement it bases on the National Digital Cloud Policy.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "National Digital Cloud Policy",
+   "class": "policy"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

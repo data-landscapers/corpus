@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "policy",
-      "stage": "2",
-      "standing": "draft",
+      "stage": "3",
+      "standing": "adopted",
       "use": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "ETH-001",
-      "gaps": "No source found says a government hosting or cloud policy is adopted and in force.",
-      "note": "Counted from the four questions by study-ladder-cloudstrategy.py.",
-      "as_at": "2026-10-26"
+      "stage_sources": "ETH-002",
+      "gaps": "No source found names a government cloud or data centre in service that public bodies must use: the National Cloud Data Center was still under construction in November 2026.",
+      "note": "The innovation minister reiterated in November 2026 existing federal directives for public institutions to move off standalone server rooms onto shared national infrastructure, a hosting policy in force. The national cloud data centre meant to host them was still being built, so not stage 4.",
+      "as_at": "2026-11-11"
     }
   ]
 }
