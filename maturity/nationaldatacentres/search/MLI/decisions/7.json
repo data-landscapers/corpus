@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;owner",
+ "fact": "The state enterprise SMTD-SA, financing from its own funds, sought a consultant in 2025 to deploy an OpenStack cloud in its data centre in order to sell IaaS services to customers.",
+ "title": "Déploiement d’une infrastructure de cloud public",
+ "publisher": "SMTD-SA (via Malipages)",
+ "published": "2025-06-17",
+ "date_source": "source",
+ "why_not": ""
+}

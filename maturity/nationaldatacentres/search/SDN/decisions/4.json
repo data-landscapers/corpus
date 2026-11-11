@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;state",
+ "fact": "The Sudan Tax Authority contracted Sudatel's data centre to provide colocation hosting, on a lease basis, for its main data centre, with Sudatel providing operation and Level 4 service.",
+ "title": "projects - SudanTax",
+ "publisher": "Sudan Tax Authority (ديوان الضرائب)",
+ "published": "2025-02-16",
+ "date_source": "source",
+ "why_not": ""
+}

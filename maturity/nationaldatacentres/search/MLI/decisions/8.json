@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "national",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: a PeeringDB-derived aggregator record, no Tier or ownership beyond a private operator and no document date"
+}

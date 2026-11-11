@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "owner;state",
+ "fact": "The August 2022 environmental and social impact study for the government's national data centre at PK5, Niamey, plans a government zone for ministries and a commercial zone for third-party clients, built to Uptime specifications.",
+ "title": "Étude de l'Impact Environnemental et Social du sous projet de mise en place d'un centre de données (DATACENTER) national au PK5, Arrondissement Communal Niamey II",
+ "publisher": "République du Niger, Ministère de la Poste et des Nouvelles Technologies de l'Information (Projet DTS), African Development Bank",
+ "published": "2022-08",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "state",
+ "fact": "The Determination and Directive on the Usage of Cloud Computing Services in the Public Service, approved by the DPSA Minister on 12 January 2022, requires government data to reside within South Africa's borders.",
+ "title": "Data Localisation In The Public Sector: Where Should Government Data Reside?",
+ "publisher": "Legal 500",
+ "published": "2026-09-07",
+ "date_source": "source",
+ "why_not": ""
+}

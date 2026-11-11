@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;owner;state",
+ "fact": "President Museveni on 11 July 2019 commissioned a National Tier 3 Data Centre in Jinja, set up by NITA-U to host the information and applications of government agencies.",
+ "title": "Museveni commissions Jinja National Data Centre",
+ "publisher": "PML Daily",
+ "published": "2019-07-11",
+ "date_source": "source",
+ "why_not": ""
+}

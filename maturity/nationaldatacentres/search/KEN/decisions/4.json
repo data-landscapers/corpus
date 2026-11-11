@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;owner;state",
+ "fact": "The Konza National Data Centre is hosting 133 of the targeted 451 government institutions and 38 enterprises, sells IaaS, PaaS, SaaS and colocation, and operates at almost 100% resource utilisation.",
+ "title": "Konza Cloud Expansion and Smart City Facilities Feasibility Study Report",
+ "publisher": "Digital Science Technology Limited for Konza Technopolis Development Authority",
+ "published": "2026-03",
+ "date_source": "source",
+ "why_not": ""
+}

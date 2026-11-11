@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "state;centre",
+ "fact": "The Burundi government uses a local mini data centre (critical IT load capacity under 10 kW), and Burundi has two small data centres, Smart Burundi and Burundi Backbone System, with no carrier-neutral facilities (partner states questionnaires, 2025).",
+ "title": "Digital public infrastructure in the East African Community",
+ "publisher": "ECDPM",
+ "published": "2026-04",
+ "date_source": "source",
+ "why_not": ""
+}

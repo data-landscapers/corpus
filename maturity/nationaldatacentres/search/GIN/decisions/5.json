@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "national",
+ "aspect": "",
+ "fact": "",
+ "title": "GUILAB Datacenter",
+ "publisher": "Data Center Watch",
+ "published": "2025-09-26",
+ "date_source": "proxy",
+ "why_not": "no-development: PeeringDB-derived directory listing, no ownership or tier fact beyond operator name."
+}

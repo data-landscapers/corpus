@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;state",
+ "fact": "The World Bank found Equatorial Guinea has no certified data centres: CNIAPGE's government storage infrastructure and GITGE's and others' facilities are not certified, and ministries host their own data centres or use CNIAPGE's.",
+ "title": "Equatorial Guinea digital economy diagnostic",
+ "publisher": "World Bank",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "state",
+ "fact": "Burkina Faso's government launched two micro data centres in Ouagadougou giving ministries 100 to 300 virtual machines each, run by national competencies, with the prime minister ordering all public platforms and data repatriated from abroad or private data centres; a national data centre is planned by 2028.",
+ "title": "Gov't of Burkina Faso launches two \"mini data centers\" to support data sovereignty",
+ "publisher": "DatacenterDynamics",
+ "published": "2026-01-27",
+ "date_source": "source",
+ "why_not": ""
+}

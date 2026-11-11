@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "state;owner",
+ "fact": "The Ministry of Digital Transition said in September 2026 that the state-owned national data centre at VITIB Grand-Bassam was over 20% built and that government applications had until then been hosted mainly in private local data centres or on SNDI servers, with no dedicated public data centre.",
+ "title": "Kalil Konaté launches a national public data center to anchor Côte d'Ivoire's digital sovereignty",
+ "publisher": "Capmad",
+ "published": "2026-09-11",
+ "date_source": "source",
+ "why_not": ""
+}

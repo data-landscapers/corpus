@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "owner;state",
+ "fact": "On 14 July 2026 the finance minister said the Ministry of Finance's state-built data centre, with redundancy sites in Kinshasa and Lubumbashi, already hosts the servers of the standardised-invoice system.",
+ "title": "RDC : Un Centre de Données du ministère de Finances créé à Kinshasa et Lubumbashi en vue d’accélérer la digitalisation des régies financières",
+ "publisher": "DeskEco",
+ "published": "2026-07-15",
+ "date_source": "source",
+ "why_not": ""
+}

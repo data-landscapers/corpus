@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "state",
+ "fact": "The report states that the Ministry of Communication, Science and Technology operates the government data centre, has a government-wide mandate to host all ministries, and that most ministries host all their information systems there.",
+ "title": "Lesotho data ecosystem synthesis",
+ "publisher": "SBC4D and IREX for the Millennium Challenge Corporation",
+ "published": "2021-06",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "state;centre",
+ "fact": "Maroc Data Center, inaugurated in 2017, is described as the oldest Moroccan sovereign centre hosting sensitive data such as civil registers, health and military data (July 2022).",
+ "title": "Le Maroc interdit l'hébergement de ses données sensibles à l'étranger",
+ "publisher": "Acteurs Publics",
+ "published": "2022-07-13",
+ "date_source": "source",
+ "why_not": ""
+}

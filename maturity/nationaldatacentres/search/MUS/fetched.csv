@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://techreviewafrica.com/news/3588/mauritius-itci-minister-tours-mauritius-telecoms-tier-iv-data-centre-in-rose-belle,fetched,,scripts/.workroot/study/nationaldatacentres/cache/MUS/1.txt,168,html,Mauritius ITCI Minister tours Mauritius Telecom’s Tier IV Data Centre in Rose Belle
+2,https://mitci.govmu.org/mitci/wp-content/uploads/2025/10/Clarification-No.-2.pdf,held,held as raw/2025/2025-09-19-sovereign-cloud-rfi-clarification-no-2.md,,0,,
+3,https://mitci.govmu.org/mitci/wp-content/uploads/2025/07/IFB-442-Executive-Summary-Report-Networking-Equipment-for-the-New-Tier-IV-Data-Centre-of-Government-Online-Centre.pdf,held,held as raw/2025/2025-07-01-mus-mitci-goc-tier-iv-rose-belle-dr.md,,0,,
+4,https://bramston.associates/wp-content/uploads/2025/03/The-Data-Centre-Opportunity-in-Mauritius.pdf,unfetchable,ConnectionError; no usable Wayback capture,,0,,
+5,https://tiaonline.org/wp-content/uploads/2023/10/Mauritius_Emtel-Arsenal_TIA942MU230924001-S2-Signed.pdf,fetched,,scripts/.workroot/study/nationaldatacentres/cache/MUS/5.txt,103,pdf,PowerPoint Presentation
+6,https://uptimeinstitute.com/component/tierachievement/datacenter/rose-belle-data-centre-phase-1/784?Itemid=,fetched,,scripts/.workroot/study/nationaldatacentres/cache/MUS/6.txt,34,html,Uptime Institute
+7,https://www.myt.mu/business/colocation/,fetched,,scripts/.workroot/study/nationaldatacentres/cache/MUS/7.txt,149,html,Colocation - myt business
+8,https://www.emtel.com/business/data-centre,fetched,,scripts/.workroot/study/nationaldatacentres/cache/MUS/8.txt,754,html,Emtel Business Data Centre

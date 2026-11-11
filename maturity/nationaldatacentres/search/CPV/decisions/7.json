@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "state",
+ "fact": "Council of Ministers Resolution 121/2022 states that NOSi manages the Data Center, which houses the databases and application servers supporting the state's e-government solutions.",
+ "title": "Boletim Oficial, Resolução nº 121/2022 de 29 de dezembro",
+ "publisher": "Conselho de Ministros, Cabo Verde",
+ "published": "2022-12-29",
+ "date_source": "source",
+ "why_not": ""
+}

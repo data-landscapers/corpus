@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "state;owner",
+ "fact": "The e-Government Technology Roadmap says the government-owned Government Data Centre (GDC) is the primary delivery hub for government services, providing cloud computing, server colocation and disaster recovery.",
+ "title": "e-Government Technology Roadmap 2024",
+ "publisher": "e-Government Authority",
+ "published": "2024-02",
+ "date_source": "source",
+ "why_not": ""
+}

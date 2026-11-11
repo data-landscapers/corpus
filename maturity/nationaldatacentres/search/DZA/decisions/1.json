@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;state",
+ "fact": "The second national data centre, at Blida, obtained Uptime Institute Tier III Design certification, following the first at El Mohammadia in February 2026, according to a High Commission for Digitalization (HCN) statement of 2 September 2026.",
+ "title": "Le Centre national de données de Blida obtient la certification internationale Tier III Design",
+ "publisher": "L'express DZ",
+ "published": "2026-09-03",
+ "date_source": "source",
+ "why_not": ""
+}

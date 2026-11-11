@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;owner;state",
+ "fact": "The Government Cloud Strategy 2023-2027 says the government deployed a data centre managed by state operator Gamtel, described as Tier 2 in one place and Tier 3 in another, intended to host critical government platforms but with low utilisation, and Gamtel provides private cloud services.",
+ "title": "Government Cloud Strategy 2023 - 2027 The Gambia",
+ "publisher": "Ministry of Communications and Digital Economy (The Gambia)",
+ "published": "2023-06-23",
+ "date_source": "source",
+ "why_not": ""
+}

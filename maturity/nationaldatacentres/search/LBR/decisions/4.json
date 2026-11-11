@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;state",
+ "fact": "The National Data Center, managed by LTC Mobile, is underutilised and relies on outdated systems, and the National Identification Registry's data sits on-premise with only discussions underway on co-location hosting at the National Data Centre.",
+ "title": "Whole of Government National Digital Strategy",
+ "publisher": "Government of Liberia, Ministry of Posts and Telecommunications",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

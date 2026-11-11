@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;owner",
+ "fact": "As of 2024 the Republic of Congo's entire commercial data centre capacity (about 1 MW live, none carrier-neutral) was controlled by telecoms providers, and the new national data centre was to be government-managed, initially by the telecoms regulator.",
+ "title": "Data Center Market Brief: Republic of Congo",
+ "publisher": "Xalam Analytics",
+ "published": "2025-07",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "state",
+ "fact": "An arrêté exempts from taxes the equipment imported by ANSIE for the operation and maintenance of the State's Datacenter, showing the state agency operates a state data centre.",
+ "title": "Arrêté n° 2020-008/PRE portant exonération des équipements importés pour l'exploitation et la maintenance du Datacenter de l'État",
+ "publisher": "Journal Officiel de la République de Djibouti",
+ "published": "2020-01",
+ "date_source": "proxy",
+ "why_not": ""
+}

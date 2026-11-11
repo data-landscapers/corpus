@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;state",
+ "fact": "Egypt's cabinet spokesperson confirmed that three fully government-owned data centres, designed to host government applications and data across ministries, are fully operational (Ahram Online, 21 October 2025).",
+ "title": "Egypt to establish three state-owned data centres to advance digital transformation",
+ "publisher": "Ahram Online",
+ "published": "2025-10-21",
+ "date_source": "proxy",
+ "why_not": ""
+}

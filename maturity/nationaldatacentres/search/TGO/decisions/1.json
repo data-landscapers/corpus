@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;owner",
+ "fact": "On 26 May 2026 the state-owned Société d'Infrastructures Numériques, which operates the Lomé Data Centre, signed a private-cloud partnership with ST DIGITAL; the centre is described as Tier III certified (Uptime Institute) with 99.982% availability.",
+ "title": "Togo : la SIN et ST DIGITAL s’allient pour une offre de services de cloud privé au Lomé Data Centre",
+ "publisher": "Togo First",
+ "published": "2026-05-28",
+ "date_source": "source",
+ "why_not": ""
+}

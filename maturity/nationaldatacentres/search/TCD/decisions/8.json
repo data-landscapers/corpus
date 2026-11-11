@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "owner;state",
+ "fact": "The World Bank's 2023 diagnostic says Chad's state-owned National Data Center, built by Huawei, was under construction with its business model not yet defined, while ministries host data individually or turn to private data centres of mobile operators such as Moov Africa.",
+ "title": "Digital Economy for Chad Country Diagnostic",
+ "publisher": "World Bank Group",
+ "published": "2023",
+ "date_source": "source",
+ "why_not": ""
+}

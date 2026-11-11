@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "state;centre",
+ "fact": "On 29 April 2021 the finance minister officially launched construction of the finance ministry's data centre, built by Cybastion's Bangui subsidiary KODETECH with EU support.",
+ "title": "Lancement des travaux de construction de DATACENTER au ministère des Finances",
+ "publisher": "Oubangui Médias",
+ "published": "2021-05-03",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;owner;state",
+ "fact": "As of July 2026 the national datacenter was still under construction at VITIB, while five public datacenters (SNDI, Presidency, VITIB, Education) hosted state data and the Ivorian-built ST Digital Tier III centre, inaugurated 2 October 2025, offered colocation.",
+ "title": "Stockage de données : Les 10 datacenters en Côte d'Ivoire pour un début de souveraineté numérique",
+ "publisher": "Digital Mag Côte d'Ivoire",
+ "published": "2026-07-16",
+ "date_source": "source",
+ "why_not": ""
+}

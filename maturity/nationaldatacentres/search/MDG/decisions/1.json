@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre",
+ "fact": "As of a 5 September 2026 reading of public data-centre censuses, Madagascar has 3 data centres at a single operator, one of them Tier III, in Antananarivo.",
+ "title": "Où sont hébergées les données à Madagascar : 118 systèmes",
+ "publisher": "Simafri",
+ "published": "2026-09-07",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;state",
+ "fact": "On 1 June 2021 first technical tests began at the national data centre in Abomey-Calavi, intended to host all of the State's information systems and to offer hosting capacity to semi-public and private bodies, with ANSI/TIA 942 level 3 certification under way.",
+ "title": "Datacenter national : démarrage des premiers tests techniques sous le regard de la Ministre du Numérique et de la Digitalisation",
+ "publisher": "Ministère de la Transformation Digitale et de l'Innovation (Bénin)",
+ "published": "2021-06-01",
+ "date_source": "source",
+ "why_not": ""
+}

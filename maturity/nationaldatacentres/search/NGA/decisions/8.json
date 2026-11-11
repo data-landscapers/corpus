@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;owner;state",
+ "fact": "Galaxy Backbone is owned 100% by the Federal Government of Nigeria and operates a Tier III data centre; on 31 July 2019 the Permanent Secretary said he would encourage agencies that host their data elsewhere to move it to GBB's data centre.",
+ "title": "Permanent Secretary, Ministry Of Communications Visits GBB's Tier III Datacentre",
+ "publisher": "Galaxy Backbone Limited",
+ "published": "2019-08",
+ "date_source": "proxy",
+ "why_not": ""
+}

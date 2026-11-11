@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;owner;state",
+ "fact": "The Ministry of Telecommunications announced on 27 April 2026 the official inauguration on 28 April of the state's National Data Centre and Cloud at Camama, Luanda (208 racks), built to host the state's public information systems and also to offer technology services to private entities.",
+ "title": "DATA CENTER E CLOUD NACIONAL ACELERA TRANSFORMAÇÃO DIGITAL DE ANGOLA",
+ "publisher": "Ministério das Telecomunicações, Tecnologias de Informação e Comunicação Social (MINTTICS)",
+ "published": "2026-04-27",
+ "date_source": "source",
+ "why_not": ""
+}

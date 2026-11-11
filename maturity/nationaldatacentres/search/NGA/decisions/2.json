@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "state",
+ "fact": "The guideline, approved 4 August 2026 and effective 1 January 2027, requires Level 4 classified government data to be hosted on-premises in the institution, in a collocated private data centre or in a certified private cloud located in Nigeria, and gives procurement priority to indigenous cloud service providers.",
+ "title": "National Guideline for Cloud Computing in Nigeria 2026",
+ "publisher": "National Information Technology Development Agency (NITDA)",
+ "published": "2026-08-04",
+ "date_source": "source",
+ "why_not": ""
+}

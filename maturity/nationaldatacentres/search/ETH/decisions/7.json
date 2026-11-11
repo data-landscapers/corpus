@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;owner",
+ "fact": "The state-owned operator Ethio telecom inaugurated a Tier-III-standard modular data centre in Gola Sefer, Addis Ababa in May 2021, intended also for colocation and cloud services.",
+ "title": "Ethio telecom opens new Huawei-built modular data center in Addis Ababa, Ethiopia",
+ "publisher": "DatacenterDynamics",
+ "published": "2021-05-24",
+ "date_source": "proxy",
+ "why_not": ""
+}

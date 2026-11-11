@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "national",
+ "aspect": "",
+ "fact": "",
+ "title": "AlmadarCloud",
+ "publisher": "Almadar Aljadid",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: undated vendor service page stating the cloud is state-owned; no dated fact, no data centre or Tier detail"
+}

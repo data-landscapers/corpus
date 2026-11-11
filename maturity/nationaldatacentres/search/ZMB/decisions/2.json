@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;owner;state",
+ "fact": "INFRATEL, owned by the Zambian government, oversees and operates three data centres built under the Smart Zambia projects, and its Lusaka production data centre is Tier 3 design certified by the Uptime Institute.",
+ "title": "INFRATEL : Innovation and Communication",
+ "publisher": "Africa Outlook Magazine",
+ "published": "2023-02-27",
+ "date_source": "source",
+ "why_not": ""
+}

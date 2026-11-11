@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;state",
+ "fact": "On 14 May 2024 PAIX Data Centres announced a joint venture with the Fonds souverain de Djibouti to build JIB1, a 5 MW carrier-neutral data centre due in 2026, while the Djibouti Data Center (Tier 3, in service since 2013) is the country's only operational data centre.",
+ "title": "Djibouti construit un 2e centre de données national",
+ "publisher": "We are Tech",
+ "published": "2024-05-16",
+ "date_source": "source",
+ "why_not": ""
+}

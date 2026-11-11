@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "national",
+ "aspect": "",
+ "fact": "",
+ "title": "Telecoms infrastructure",
+ "publisher": "AXIAN Telecom",
+ "published": "2021-11-08",
+ "date_source": "source",
+ "why_not": "off-topic: the fetched text covers submarine cables and fibre only and states no data centre fact"
+}

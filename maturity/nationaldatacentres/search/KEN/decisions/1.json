@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;owner;state",
+ "fact": "The state-owned Konza National Data Centre (KoTDA), Tier III certified by Uptime Institute, offers colocation and cloud to government and private clients, hosts systems for ministries and counties, and is at or near full capacity as the Treasury signed a funding agreement on 23 October to bring in a private partner for expansion, with ownership staying with KoTDA.",
+ "title": "Konza data centre near full, Treasury seeks private partner",
+ "publisher": "Business Radar",
+ "published": "2026-10-25",
+ "date_source": "proxy",
+ "why_not": ""
+}

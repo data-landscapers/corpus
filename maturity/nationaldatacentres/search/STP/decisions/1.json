@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;state",
+ "fact": "A September 2025 World Bank mission found the consultancy assessing the government data centre offered options of requalifying the current data centre (about EUR 0.5 million) or building a new TIER III data centre (about EUR 4.6 million), and recommended migrating GdeSTP systems and data to a new data centre or cloud controlled by INIC because of high risks at the current one.",
+ "title": "Missão de Apoio a Implementação para o Projecto Digital São Tomé e Príncipe: Ajuda Memória (P177158)",
+ "publisher": "World Bank",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

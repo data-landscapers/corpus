@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;owner;state",
+ "fact": "NITA-U's Government Cloud (the National Data Centre) is a Tier 3 data centre with a DR site hosting government applications and data, with 67 entities and 125 applications hosted by the end of FY2019/20.",
+ "title": "2020 NITA-U Statistical Abstract",
+ "publisher": "National Information Technology Authority - Uganda (NITA-U)",
+ "published": "2020",
+ "date_source": "source",
+ "why_not": ""
+}

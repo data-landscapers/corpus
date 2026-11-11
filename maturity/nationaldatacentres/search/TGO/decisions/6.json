@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;state",
+ "fact": "The Council of Ministers authorised on 21 December 2022 handing management of the Tier III Lomé Data Centre to a private operator; the centre offers storage to government entities, businesses and individuals.",
+ "title": "Le Data Center de Lomé sera confié à un opérateur privé",
+ "publisher": "République Togolaise (Togo Officiel)",
+ "published": "2022-12-22",
+ "date_source": "proxy",
+ "why_not": ""
+}

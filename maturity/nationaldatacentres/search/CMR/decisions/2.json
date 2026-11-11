@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "centre;owner;state",
+ "fact": "Camtel, the state operator, runs the Zamengoé data centre in Yaoundé, certified Tier 3 by the Uptime Institute, and more than a hundred public and private administrations host their data there (SAGO conference, June 2026).",
+ "title": "Télécoms : Camtel dévoile le data center de Zamengoé, prouesse de souveraineté numérique et de protection des données au Cameroun",
+ "publisher": "Ecobiz54",
+ "published": "2026-06-10",
+ "date_source": "source",
+ "why_not": ""
+}

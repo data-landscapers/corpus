@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "national",
+ "aspect": "state",
+ "fact": "The appraisal report states that Phase I of the eGovernment project delivered a 100Gbps fibre service between the Government of Lesotho's data centres in Maseru and Mohale's Hoek.",
+ "title": "eGovernment Infrastructure Phase II, Project Appraisal Report",
+ "publisher": "African Development Fund",
+ "published": "2019-08",
+ "date_source": "source",
+ "why_not": ""
+}
