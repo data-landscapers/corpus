@@ -1,6 +1,6 @@
 # Consumer protection: consumer protection
 
-*As at 2026-10-26.*
+*As at 2026-11-11.*
 
 ## The norm
 
@@ -20,15 +20,23 @@ The African Union's Digital Transformation Strategy asks for consumer protection
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 7 |
+| 5 Leading | 8 |
 | 4 Operating | 9 |
 | 3 Established | 12 |
 | 2 Nascent | 4 |
 | 1 Absent | 1 |
-| Unplaced | 11 |
+| Unplaced | 10 |
 | No evidence | 10 |
 
 ## Countries
+
+### Cape Verde: 5 Leading
+
+Cabo Verde's payment-services law is applied to digital banking, and the central bank handles and counts internet-banking complaints.
+
+- The Banco de Cabo Verde's 2024 conduct supervision report says banks refunded clients for unauthorised card and internet-banking transactions under Decree-Law 8/2018, the legal regime for payment services and electronic money ([source, 2024](https://www.bcv.cv/SiteCollectionDocuments/2025/RSC%202024.pdf)).
+- A Banco de Cabo Verde official says the BCV handles complaints about digital payment systems, though often cannot resolve them where the user caused the failure ([source, 2025-03-19](https://www.asemana.cv/index.php/atualidade/14109-maior-parte-das-fraudes-acontece-por-uso-indevido-dos-sistemas-de-pagamentos-digitais-bcv)).
+- The Banco de Cabo Verde recorded 10 complaints about internet banking among 169 banking complaints in 2024, and banks refunded complainants 3.25 million escudos, mainly for unauthorised card and internet-banking transactions ([source, 2024](https://www.bcv.cv/SiteCollectionDocuments/2025/RSC%202024.pdf)).
 
 ### Ghana: 5 Leading
 
@@ -253,12 +261,6 @@ Not established: Nothing found since October 2023 says whether consumer-protecti
 Nothing found since 2023 names consumer-protection rules for digital finance, so no stage is set.
 
 Not established: Nothing found since October 2023 says whether consumer-protection rules apply to digital finance.
-
-### Cape Verde: Unplaced
-
-Cabo Verde's central bank handled complaints about digital payments in 2025, but no consumer rules for digital finance are known, so no stage is set.
-
-Not established: No source found since October 2023 says consumer-protection rules for digital finance are being drafted or are in force, or reports a fine, sanction or complaint figures.
 
 ### Congo: Unplaced
 

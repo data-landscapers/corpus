@@ -39,12 +39,12 @@ centralbank	ZWE	centralbank	5	2	restaged 5 on ZWE-005, ZWE-006	2026-11-10
 civilregister	CPV	civil	2	unplaced		
 civilserviceskills	TUN	csskills	4	2		
 civilserviceskills	ZWE	csskills	4	2		
-consumerprotection	AGO	protection	5	unplaced		
-consumerprotection	BEN	protection	4	unplaced		
-consumerprotection	CPV	protection	4	unplaced		
-consumerprotection	LBY	protection	4	unplaced		
-consumerprotection	MAR	protection	4	unplaced		
-consumerprotection	ZAF	protection	4	2		
+consumerprotection	AGO	protection	5	unplaced	gap confirmed; asked notes-for-osint 323	2026-11-11
+consumerprotection	BEN	protection	4	unplaced	gap confirmed; asked notes-for-osint 323	2026-11-11
+consumerprotection	CPV	protection	4	unplaced	restaged 5 on CPV-002, CPV-003 (by hand)	2026-11-11
+consumerprotection	LBY	protection	4	unplaced	gap confirmed; asked notes-for-osint 323	2026-11-11
+consumerprotection	MAR	protection	4	unplaced	gap confirmed; asked notes-for-osint 323	2026-11-11
+consumerprotection	ZAF	protection	4	2	gap confirmed; asked notes-for-osint 323	2026-11-11
 coresystems	DZA	core	2	unplaced	gap confirmed; asked notes-for-osint 316	2026-11-11
 coresystems	GNB	core	4	unplaced	gap confirmed; asked notes-for-osint 316	2026-11-11
 coresystems	LBY	core	3	unplaced	gap confirmed; asked notes-for-osint 316	2026-11-11
