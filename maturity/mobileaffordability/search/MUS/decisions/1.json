@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "The cheapest prepaid monthly mobile internet plan in Mauritius cost Rs 130.43 for 1 month with 50 GB, unchanged between 2024 and 2025.",
+ "title": "Observatory Tariff",
+ "publisher": "Information and Communication Technologies Authority (ICTA)",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "Telecommunication in Mozambique",
+ "publisher": "worlddata.info",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: aggregator; 5GB basket is voice-bundled (140 min), excluded"
+}

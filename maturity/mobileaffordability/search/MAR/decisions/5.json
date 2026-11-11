@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "Morocco's mobile broadband basket cost 1.0% of GNI per capita in 2022, and the mobile data and voice high-consumption basket 2.3%.",
+ "title": "Digital Development Dashboard: Morocco (Infrastructure & Access)",
+ "publisher": "International Telecommunication Union",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

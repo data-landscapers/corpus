@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "Mozambique Mobile Data Price",
+ "publisher": "Africa API",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: aggregator of ITU 2GB basket figures, not 5GB"
+}

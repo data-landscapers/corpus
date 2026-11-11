@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://datahub.itu.int/data/?e=GMB&i=100027,not-a-document,ITU DataHub chart widget,,0,,
+2,https://purasim.com/en/blogs/guias/internet-en-gambia,fetched,,scripts/.workroot/study/mobileaffordability/cache/GMB/2.txt,3320,html,"Internet in Gambia: SIM, eSIM and Roaming (2026)"
+3,https://thepoint.gm/africa/gambia/headlines/pura-sets-mobile-data-at-d75-per-gigabyte-in-latest-telecom-pricing-decision,held,held as raw/2025/2025-12-22-pura-mobile-data-d75-per-gigabyte-decision-thepoint.md,,0,,
+4,https://www.askanwi.com/news/after-askanwi-spotlight-all-telecoms-fall-in-line-with-d75-data-cap,fetched,,scripts/.workroot/study/mobileaffordability/cache/GMB/4.txt,640,html,"After Askanwi Spotlight, All Telecoms Fall in Line With D75 Data Cap — Askanwi"
+5,https://www.itu.int/itu-d/reports/statistics/2025/11/17/gcr-2025-chapter-4/,fetched,,scripts/.workroot/study/mobileaffordability/cache/GMB/5.txt,539,html,Statistics
+6,https://www.africell.gm/afribundles/cheaper-data/,fetched,,scripts/.workroot/study/mobileaffordability/cache/GMB/6.txt,292,html,Cheaper Data
+7,https://inferenceafrica.com/country-gambia.html,fetched,,scripts/.workroot/study/mobileaffordability/cache/GMB/7.txt,3293,html,Gambia — country profile | InferenceAfrica
+8,https://thedocs.worldbank.org/en/doc/1f7221545bf1b7c89b850dd85cb409b0-0400072021/related/The-Gambia-Digital-Economy-Diagnostic-Report-Final.pdf,held,held as raw/2021/2021-01-01-gmb-the-gambia-digital-economy-diagnostic.md,,0,,

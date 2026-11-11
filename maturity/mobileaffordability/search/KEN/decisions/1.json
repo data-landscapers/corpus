@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "Safaricom's monthly bundle gives 21.5 GB for KSh 1,000, more than double the data previously offered at that price (reported August 2026).",
+ "title": "Safaricom Revises Data Bundle Packages, Limits Hourly Plans to Specific Hours",
+ "publisher": "Tuko.co.ke",
+ "published": "2026-08-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

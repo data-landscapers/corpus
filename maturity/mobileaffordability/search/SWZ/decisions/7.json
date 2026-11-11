@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "Other Data Bundles",
+ "publisher": "MTN Eswatini",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "off-topic: undated operator page of contract, roaming and promotional offers; no dated 5 GB monthly price"
+}

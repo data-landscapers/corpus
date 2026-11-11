@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "Internet Mobile Orange",
+ "publisher": "Orange Centrafrique",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "headline-only-stub: undated operator price grid, no publication date, so no dated fact"
+}

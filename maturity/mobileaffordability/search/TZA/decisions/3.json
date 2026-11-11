@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "",
+ "fact": "Harmonized EAC Roaming Plan Pays",
+ "title": "TCRA",
+ "publisher": "2025-08-16",
+ "published": "source",
+ "date_source": "already-held: the TCRA average bundle data tariff (2.12 shillings per MB) is held from the quarter to September 2025, which is newer.",
+ "why_not": ""
+}

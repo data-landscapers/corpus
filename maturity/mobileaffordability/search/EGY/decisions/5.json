@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "",
+ "fact": "",
+ "title": "Egypt Mobile Data Price",
+ "publisher": "Africa API",
+ "published": "2026-08",
+ "date_source": "proxy",
+ "why_not": "no-development: aggregator, and the series is a 2 GB basket"
+}

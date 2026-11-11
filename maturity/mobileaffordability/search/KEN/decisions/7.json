@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "On a monthly 2 GB plan, mobile broadband in Kenya costs 3.1% of GNI per capita on average, 7.6% of average income for the poorest 40% and over 10% for the poorest 20% (GSMA Intelligence, 2024 report; 2 GB basket, not 5 GB).",
+ "title": "Driving digital transformation of the economy in Kenya",
+ "publisher": "GSMA",
+ "published": "2024-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "Guinea-Bissau Mobile Data Price: 10.2% (2025)",
+ "publisher": "Africa API",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: a data aggregator repeating ITU 2 GB basket figures (10.2% in 2025); undated page."
+}

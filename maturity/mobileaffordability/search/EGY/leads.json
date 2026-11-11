@@ -1,0 +1,8 @@
+[
+{"url": "https://masaar.net/en/internet-pricing-in-egypt/", "title": "How Do Internet Pricing Policies in Egypt Undermine the Right to Access?", "publisher": "Masaar", "published": "2026-01-26", "sub_indicator": "price", "why": "Egypt mobile data price against income, with ITU 5 GB ratio"},
+{"url": "https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ICT_MDD-2025-3-PDF-E.pdf", "title": "Measuring digital development", "publisher": "ITU", "published": "2025", "sub_indicator": "price", "why": "ITU 5 GB data-only mobile basket as share of GNI per capita, 2024-2025"},
+{"url": "https://www.itu.int/en/ITU-D/Statistics/Pages/ICTprices/default.aspx", "title": "ICT prices", "publisher": "ITU", "published": "2025", "sub_indicator": "price", "why": "ITU 2025 price basket data, 5 GB data-only mobile"},
+{"url": "https://www.worlddata.info/africa/egypt/telecommunication.php", "title": "Telecommunication in Egypt", "publisher": "worlddata.info", "published": "2025", "sub_indicator": "price", "why": "ITU 2025 mobile basket with 5 GB as share of income in Egypt"},
+{"url": "https://africa-api.com/data/egypt/mobile-data-price", "title": "Egypt Mobile Data Price", "publisher": "Africa API", "published": "2026-08", "sub_indicator": "price", "why": "ITU data price share of GNI per capita 2023-2025"},
+{"url": "https://www.broadband.co.uk/mobile-data-world-affordability", "title": "Mobile Data Affordability Index", "publisher": "broadband.co.uk", "published": "", "sub_indicator": "price", "why": "10GB+ plan cost against average wage by country"}
+]

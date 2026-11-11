@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "Data explorer - ITU DataHub",
+ "publisher": "International Telecommunication Union",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "not-a-document: chart widget, nothing fetched"
+}

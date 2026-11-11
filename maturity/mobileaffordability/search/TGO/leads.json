@@ -1,0 +1,7 @@
+[
+{"url": "https://moov-africa.tg/particulier/forfaits-internet-4g/", "title": "Forfaits internet 4G", "publisher": "Moov Africa Togo", "published": "", "sub_indicator": "price", "why": "Operator price list: 6 Go for 30 days 4500 F; 30 Go 9000 F (price side of the cost)."},
+{"url": "https://africa-api.com/data/togo/mobile-data-price", "title": "Togo Mobile Data Price", "publisher": "Africa API (ITU data)", "published": "2026", "sub_indicator": "price", "why": "ITU basket share of GNI per capita for Togo 2023-2025 (2GB basket)."},
+{"url": "https://digitaldevelopmentcompass.undp.org/country/TGO", "title": "UNDP Digital Development Compass | Togo", "publisher": "UNDP", "published": "", "sub_indicator": "price", "why": "Affordability of higher basket (5GB) score for Togo."},
+{"url": "https://ressources.digital.gouv.tg/shares/documentations/Specifications_tic_administrations/html/internet.html", "title": "Accès à internet - Spécifications TIC minimales au sein des administrations", "publisher": "Agence Togo Digital", "published": "2023-02", "sub_indicator": "price", "why": "Dated operator prices at 20 Feb 2023 (6 Go 4500 F)."},
+{"url": "https://www.itu.int/en/ITU-D/Statistics/Pages/ICTprices/default.aspx", "title": "ICT prices", "publisher": "International Telecommunication Union", "published": "2025", "sub_indicator": "price", "why": "ITU 2025 5GB data-only basket data (country-level)."}
+]

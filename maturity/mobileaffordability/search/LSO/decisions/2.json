@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "In November 2026 the Vodacom and Econet flagship 30-day prepaid bundles were 20GB for M660 and 20GB for M650 respectively, from the operators public tariff pages (no income comparison given).",
+ "title": "Lesotho Mobile Data Cost",
+ "publisher": "Data Matrix",
+ "published": "2026-11",
+ "date_source": "source",
+ "why_not": ""
+}

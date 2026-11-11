@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "Moov Africa Bénin offers monthly plans of 5 GB to 15 GB at 5,000 to 15,000 FCFA, against a minimum wage (SMIG) of 52,000 FCFA and a survey in which 69% of respondents earn under 100,000 FCFA a month.",
+ "title": "Rapport sur l'usage d'Internet au Bénin",
+ "publisher": "ISOC Bénin et SCG",
+ "published": "2024-08",
+ "date_source": "source",
+ "why_not": ""
+}

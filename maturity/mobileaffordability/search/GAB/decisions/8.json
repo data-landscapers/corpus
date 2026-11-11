@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "Moov Africa Gabon Telecom's Pass Waz offered a 30-day 9 Go plan for 10 000 FCFA, allocated 300 Mo a day.",
+ "title": "Pass Waz",
+ "publisher": "Moov Africa Gabon Telecom",
+ "published": "2026-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

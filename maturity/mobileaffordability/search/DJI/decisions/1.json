@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "Djibouti's data costs about 1.12 USD per GB against an average Djiboutian wage of 276 USD a month, with Djibouti Telecom's 30-day Confort plan at 3000 FDJ for 20 GB.",
+ "title": "Télécoms : Un secteur monopolisé par un opérateur aux performances limitées et dont l'ouverture à la concurrence se fait attendre",
+ "publisher": "Direction générale du Trésor",
+ "published": "2022-06-02",
+ "date_source": "source",
+ "why_not": ""
+}

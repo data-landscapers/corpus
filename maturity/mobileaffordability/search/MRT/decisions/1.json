@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "Mauritel's tariff of June 2025 sells a 6 Go monthly internet pass (Pass Internet Mois, valid 1 month) for 200 MRU, taxes included.",
+ "title": "Les Tarifs (Toutes Taxes Comprises) des Offres et Services de Mauritel S.A",
+ "publisher": "Autorité de Régulation (ARE)",
+ "published": "2025-06",
+ "date_source": "source",
+ "why_not": ""
+}

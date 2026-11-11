@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "GETESA sold 8 GB for one month at XFA 8,000 and 16 GB for one month at XFA 15,000 under the 2022 retail price caps; the price table is undated beyond the 2022 orders.",
+ "title": "Guinea Ecuatorial: Diagnóstico de la Economía Digital",
+ "publisher": "Banco Mundial",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

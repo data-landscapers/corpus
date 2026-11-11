@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "Draft Final report: Data Sub-Segment Market Review",
+ "publisher": "Communications Authority of Kenya",
+ "published": "2026-02-06",
+ "date_source": "source",
+ "why_not": "no-development: compares operator bundle prices in charts only; text states no 5 GB price or income share (ITU basket values are in a figure not in the text)"
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "Digital Economy Country Assessment",
+ "publisher": "World Bank Group",
+ "published": "2025-03",
+ "date_source": "source",
+ "why_not": "already-held: its only affordability figure is the 2 GB basket at 3.0 per cent of GNI per capita for 2023, a different basket, and the ITU 2023 figure is already held."
+}

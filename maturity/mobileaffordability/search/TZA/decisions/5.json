@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "",
+ "fact": "Communications Statistics Report, quarter ending June 2025",
+ "title": "Tanzania Communications Regulatory Authority",
+ "publisher": "2025",
+ "published": "source",
+ "date_source": "already-held: the TCRA average bundle data tariff series is held to September 2025, newer than this June 2025 report.",
+ "why_not": ""
+}

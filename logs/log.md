@@ -12,6 +12,7 @@ title: Corpus process log
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 
 <!-- newest first: a new entry goes directly below this line -->
+2026-11-11 16:45 · **REBUILD** · 14m · mobileaffordability price: 0 cells reassessed, 0 moved (recounted at today's date, no change); 54 searched, 48 staged; ~86M tokens - ok
 2026-11-11 16:31 · **REBUILD** · 13m · metsatellite metsat: 50 cells reassessed, 8 moved; 54 searched, 157 staged; ~83M tokens; second drafter 14/20, message 125 - ok
 2026-11-11 16:18 · **REBUILD** · 20m · localrecords revenue: 0 cells reassessed, 0 moved; 54 searched, 177 staged; ~72M tokens - ok
 2026-11-11 15:58 · **REBUILD** · 11m · localgov connection: 4 cells reassessed, 1 moved; 54 searched, 103 staged; 65.6M tokens - ok

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "Libyana's Net for All monthly 4G package of 5 GB, valid 30 days, costs 10 LYD (page stamped 2024-01-15; the page calls the monthly offer limited-time, so the price is unpaired with an income figure).",
+ "title": "Net for All",
+ "publisher": "Libyana",
+ "published": "2024-01-15",
+ "date_source": "source",
+ "why_not": ""
+}

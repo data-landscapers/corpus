@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "",
+ "fact": "",
+ "title": "Mobile Data Price by African country",
+ "publisher": "Africa API",
+ "published": "2026-08-15",
+ "date_source": "source",
+ "why_not": "no-development: aggregator republishing ITU basket figures (a 2 GB basket by its own description), already held from ITU."
+}

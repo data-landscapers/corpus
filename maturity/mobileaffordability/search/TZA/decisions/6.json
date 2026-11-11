@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "",
+ "fact": "Affordability of ICT services",
+ "title": "International Telecommunication Union",
+ "publisher": "2025-10-15",
+ "published": "source",
+ "date_source": "off-topic: global aggregates only, no Tanzania figure; the ITU series is held.",
+ "why_not": ""
+}

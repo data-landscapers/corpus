@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "Cheaper Data",
+ "publisher": "Africell Gambia",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "off-topic: undated operator price list; no 30-day plan of 5 GB or more, no income comparison"
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "Internet in Gambia: SIM, eSIM and Roaming (2026)",
+ "publisher": "PuraSIM",
+ "published": "2026-07-21",
+ "date_source": "source",
+ "why_not": "inadmissible-origin: an eSIM vendor's travel blog quoting tourist bundle prices, no income comparison (QCell 5 GB D775 for 30 days noted only)"
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "The January 2024 Digital Ecosystem Country Assessment states that 5 GB of mobile data in Ghana averages US$23.52 a month, which it calls beyond reach for many Ghanaians, and that 2 GB at US$8.69 exceeds the ITU target.",
+ "title": "Digital Ecosystem Country Assessment (DECA)",
+ "publisher": "Ghana MEL Platform (USAID)",
+ "published": "2024-01",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "",
+ "why_not": "no-development: an aggregator page of the ITU voice-and-data basket against GNI per capita, not the 5 GB data-only plan, and the ITU figures are already held"
+}

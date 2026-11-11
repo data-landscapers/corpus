@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: a third-party blog relisting Moov tariffs already held from the regulator, undated in text"
+}

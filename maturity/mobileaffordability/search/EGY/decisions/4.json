@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "",
+ "fact": "",
+ "title": "Telecommunication in Egypt",
+ "publisher": "worlddata.info",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": "no-development: aggregator, and the 1.9% is the voice-bundled 140 min/20 SMS/5 GB basket"
+}

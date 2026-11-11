@@ -1,0 +1,6 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.gsma.com/about-us/regions/africa/wp-content/uploads/2026/02/Driving-digital-transformation-of-the-economy-in-Senegal-report-EN_05.01-1.pdf,fetched,,scripts/.workroot/study/mobileaffordability/cache/SEN/1.txt,35572,pdf,
+2,https://www.gsma.com/about-us/regions/africa/wp-content/uploads/2025/12/GSMA_Senegal-Report-05.12.2025.pdf,held,held as raw/2025/2025-12-05-gsma-driving-digital-transformation-senegal.md,,0,,
+3,https://artp.sn/votre-documentation/observatoire-des-tarifs-de-la-telephonie-mobile-au-2e-trimestre-2024,fetched,,scripts/.workroot/study/mobileaffordability/cache/SEN/3.txt,269,html,Observatoire des tarifs de la téléphonie mobile au 2e trimestre 2024 | ARTP Sénégal
+4,https://www.worlddata.info/africa/senegal/telecommunication.php,fetched,,scripts/.workroot/study/mobileaffordability/cache/SEN/4.txt,532,html,Telecommunication in Senegal
+5,https://africa-api.com/data/senegal/mobile-data-price,fetched,,scripts/.workroot/study/mobileaffordability/cache/SEN/5.txt,1382,html,Africa API

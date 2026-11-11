@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "Citing the ITU, the article states that in Niger the price of 2 GB of mobile broadband still represents about 8.5% of average monthly income per person (2024 ITU data), against 61% for fixed internet.",
+ "title": "Le Niger aborde une nouvelle ère de connectivité avec la dorsale transsaharienne à fibre optique",
+ "publisher": "La Tribune Afrique",
+ "published": "2025-11-27",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "The price of 1GB of mobile data was estimated at 13.6 percent of GNI per capita in Burundi (A4AI, Q2 2019), against 3.1 percent in Kenya and 3.4 percent in Rwanda.",
+ "title": "Burundi Digital Economy Assessment",
+ "publisher": "World Bank Group",
+ "published": "2020",
+ "date_source": "source",
+ "why_not": ""
+}

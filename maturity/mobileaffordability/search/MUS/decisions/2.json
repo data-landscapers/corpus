@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "Economic and Social Indicators: ICT Statistics 2024",
+ "publisher": "Statistics Mauritius",
+ "published": "2025-07-11",
+ "date_source": "source",
+ "why_not": "off-topic: the mobile basket is a voice-bundled 75GB plan (140 min, 70 SMS) at 0.7% of GNI per capita, never usable for this indicator"
+}

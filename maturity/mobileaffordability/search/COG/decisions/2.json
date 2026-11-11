@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "",
+ "fact": "",
+ "title": "Forfaits Internet classiques | MTN Congo",
+ "publisher": "MTN Congo",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: undated operator tariff page (5,120 MB for 30 days at 16,000 F); no document date, so no dated fact."
+}

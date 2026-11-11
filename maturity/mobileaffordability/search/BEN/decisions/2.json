@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "ARCEP's observatory at 30 June 2025 lists monthly plans of 5,000 FCFA for 5,120 MB (Moov, 30 days) and 7,373 MB (SBIN, 30 days), with MTN at 6,000 FCFA for 5,700 MB.",
+ "title": "Observatoire des tarifs de l'Internet mobile au 30 juin 2025",
+ "publisher": "ARCEP Bénin",
+ "published": "2025-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

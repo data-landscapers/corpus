@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "",
+ "fact": "",
+ "title": "Observatoire du marché de la téléphonie mobile, T4 2024",
+ "publisher": "ARPCE",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": "off-topic: ARPU only (551.6 DA prepaid per month), no 5 GB data plan price"
+}

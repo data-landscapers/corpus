@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "CRAN approved MTC's updated Giga Data Bundles of 1.5GB to 50GB at N$25 to N$699, valid 30 days, in Government Gazette No. 8795 of 28 November 2025.",
+ "title": "CRAN approves revised tariff structures for telecom operator",
+ "publisher": "The Brief",
+ "published": "2025-12-02",
+ "date_source": "source",
+ "why_not": ""
+}

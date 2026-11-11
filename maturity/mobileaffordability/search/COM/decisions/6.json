@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "",
+ "fact": "",
+ "title": "ICT prices",
+ "publisher": "International Telecommunication Union",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": "off-topic: landing page, no Comoros figure in the text."
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "In 2025 Tanzanian data bundles cost Sh2.06 to Sh2.17 per MB, which the author sets at 8.8 to 9.3 per cent of the average monthly income of Sh477,241 for 20 GB.",
+ "title": "1.6GB a Month: The Barrier to Tanzania’s Digital Transformation",
+ "publisher": "The Chanzo",
+ "published": "2026-05",
+ "date_source": "proxy",
+ "why_not": ""
+}

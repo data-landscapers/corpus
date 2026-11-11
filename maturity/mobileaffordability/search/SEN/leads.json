@@ -1,0 +1,7 @@
+[
+{"url": "https://www.gsma.com/about-us/regions/africa/wp-content/uploads/2026/02/Driving-digital-transformation-of-the-economy-in-Senegal-report-EN_05.01-1.pdf", "title": "Driving digital transformation of the economy in Senegal", "publisher": "GSMA", "published": "2026-02", "sub_indicator": "price", "why": "Cites ITU basket as share of GNI per capita for 2024 (2 GB basket, high-consumption basket)."},
+{"url": "https://www.gsma.com/about-us/regions/africa/wp-content/uploads/2025/12/GSMA_Senegal-Report-05.12.2025.pdf", "title": "GSMA Senegal report (French)", "publisher": "GSMA", "published": "2025-12", "sub_indicator": "price", "why": "French edition: ITU baskets as share of GNI per capita 2024."},
+{"url": "https://artp.sn/votre-documentation/observatoire-des-tarifs-de-la-telephonie-mobile-au-2e-trimestre-2024", "title": "Observatoire des tarifs de la telephonie mobile au 2e trimestre 2024", "publisher": "ARTP Senegal", "published": "2024", "sub_indicator": "price", "why": "Regulator tariff observatory, may give data plan prices."},
+{"url": "https://www.worlddata.info/africa/senegal/telecommunication.php", "title": "Telecommunication in Senegal", "publisher": "worlddata.info", "published": "2025", "sub_indicator": "price", "why": "ITU 5 GB basket share of income 2025 (secondary)."},
+{"url": "https://africa-api.com/data/senegal/mobile-data-price", "title": "Senegal Mobile Data Price", "publisher": "Africa API", "published": "2026-08", "sub_indicator": "price", "why": "ITU data basket share of GNI per capita 2023-2025 (aggregator)."}
+]

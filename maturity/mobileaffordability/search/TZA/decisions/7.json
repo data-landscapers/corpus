@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "",
+ "fact": "Huduma kwa Wateja - Halotel",
+ "title": "Halotel",
+ "publisher": "",
+ "published": "proxy",
+ "date_source": "off-topic: an FAQ giving bundle size ranges (monthly 4.8 to 24 GB) with no price, undated.",
+ "why_not": ""
+}

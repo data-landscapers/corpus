@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "The price of a 2 GB monthly mobile data package in Ethiopia was around 1.8 percent of GNI per capita in 2024 and fell to 0.7 percent after the 2024 devaluation (a 2 GB basket, not 5 GB).",
+ "title": "Ethiopia Telecom Market Assessment",
+ "publisher": "World Bank Group",
+ "published": "2025-07",
+ "date_source": "source",
+ "why_not": ""
+}

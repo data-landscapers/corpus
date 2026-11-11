@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "headline-only-stub: fetched text lists bundle names (monthly 2.5GB, 6.5GB) with no prices and no date"
+}

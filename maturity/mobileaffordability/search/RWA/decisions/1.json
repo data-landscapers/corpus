@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "The Rwanda Digital Employment Diagnostic",
+ "publisher": "International Labour Organization",
+ "published": "2025-10",
+ "date_source": "source",
+ "why_not": "off-topic: gives only an unspecified standard plan at 10-20 per cent of GNI per capita, citing World Bank 2023; not a 5 GB 30-day figure"
+}

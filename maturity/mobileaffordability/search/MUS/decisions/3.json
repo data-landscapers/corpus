@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "The prepaid 5 GB data plan valid for one month cost Rs 130.43 in June 2024, down from Rs 250 in 2023.",
+ "title": "ICT Tariff",
+ "publisher": "Mauritius Digital Promotion Agency",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

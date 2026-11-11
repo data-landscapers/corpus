@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "The affordability of ICT services",
+ "publisher": "ITU",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": "already-held: held as raw/2025/2025-01-01-itu-measuring-digital-development-affordability-of-ict-services-2024.md."
+}

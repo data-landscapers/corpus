@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "Gambia — country profile",
+ "publisher": "InferenceAfrica",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": "no-development: an aggregator restating ITU's 2025 5 GB basket (USD 6.13, 8.68 percent of GNI per capita); ITU's own page was a chart widget that did not fetch"
+}

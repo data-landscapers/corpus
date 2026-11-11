@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "",
+ "fact": "",
+ "title": "Mobile GSM Services",
+ "publisher": "Eritel Telecom Corporation",
+ "published": "",
+ "date_source": "source",
+ "why_not": "off-topic: states mobile GSM is voice only but carries no date"
+}

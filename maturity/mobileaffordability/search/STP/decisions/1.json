@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "Starlink Debuts in Sao Tome and Principe, Affordability in Focus",
+ "publisher": "Ecofin Agency",
+ "published": "2025-12-12",
+ "date_source": "source",
+ "why_not": "already-held: its only price fact is ITU's 5 GB figure of 4.35% of GNI per capita for 2025, a second-hand repeat of the ITU series already in evidence.csv."
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "The article's A4AI table of mobile broadband access costs in Africa in 2018 gives Cape Verde 5 GB at US$5.17.",
+ "title": "A4AI unveils index of African countries with affordable mobile broadband",
+ "publisher": "Ecofin Agency",
+ "published": "2019-04-03",
+ "date_source": "source",
+ "why_not": ""
+}

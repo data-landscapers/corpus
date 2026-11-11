@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "The Eswatini Communications Commission reports the data-only mobile broadband basket (2 GB) at 4 per cent of GNI per capita in 2024, unchanged from 2022 and 2023, ranking Eswatini sixth in SADC.",
+ "title": "Annual Information and Communication Technology Sector Report, Kingdom of Eswatini 2024",
+ "publisher": "Eswatini Communications Commission",
+ "published": "2024",
+ "date_source": "proxy",
+ "why_not": ""
+}

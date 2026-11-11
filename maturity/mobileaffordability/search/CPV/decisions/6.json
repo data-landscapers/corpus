@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "Mobile Broadband Pricing Data – 2020 Edition",
+ "publisher": "World Wide Web Foundation",
+ "published": "2021-03-04",
+ "date_source": "source",
+ "why_not": "off-topic: 95-country aggregate, text states nothing on Cabo Verde"
+}

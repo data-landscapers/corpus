@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "MTN Côte d'Ivoire's Packs Internet grid lists 7.4 GB for 5,000 FCFA over 30 days and Moov's Classics grid 7.4 GB for 4,900 FCFA over 30 days, as read from operator pages in October 2026.",
+ "title": "Forfait internet Côte d'Ivoire : Orange, MTN, Moov (prix)",
+ "publisher": "tech-toolsafrique.com",
+ "published": "2026-10-15",
+ "date_source": "source",
+ "why_not": ""
+}

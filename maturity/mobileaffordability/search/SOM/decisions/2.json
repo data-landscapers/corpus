@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "Affordability of ICT services",
+ "publisher": "International Telecommunication Union",
+ "published": "2025-10-15",
+ "date_source": "source",
+ "why_not": "off-topic: global and income-group medians only, no Somalia figure"
+}

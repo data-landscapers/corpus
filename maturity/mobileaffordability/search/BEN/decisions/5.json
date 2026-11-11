@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "ARCEP's observatory at 31 December 2023 lists a Moov monthly plan of 5,120 MB for 5,000 FCFA (30 days) and SBIN 7,373 MB for 5,000 FCFA.",
+ "title": "Observatoire des tarifs de l'Internet mobile au 31 décembre 2023",
+ "publisher": "ARCEP Bénin",
+ "published": "2024-03",
+ "date_source": "proxy",
+ "why_not": ""
+}

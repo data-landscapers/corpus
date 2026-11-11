@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "ICT prices",
+ "publisher": "ITU",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": "off-topic: global landing page, no Cabo Verde figure in the text"
+}

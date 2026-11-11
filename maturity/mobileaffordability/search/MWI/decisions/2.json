@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "In Malawi, at USD 0.38 per 1 GB, subscribers spend as much as 7.6 per cent of monthly income (GNI USD 600) if they buy 10 GB of data for the month, as the article states in October 2025.",
+ "title": "The Countries Where People Spend the Most to Stay Connected",
+ "publisher": "European Business Magazine",
+ "published": "2025-10-20",
+ "date_source": "source",
+ "why_not": ""
+}

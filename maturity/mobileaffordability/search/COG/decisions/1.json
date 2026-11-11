@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "The regulator's report for the second quarter of 2025 gives a weighted average mobile internet tariff of 0.55 CFA francs a megabyte across MTN and Airtel, down 23.6 per cent from the second quarter of 2024.",
+ "title": "Observatoire du marché de l'Internet mobile, rapport du 2e trimestre 2025",
+ "publisher": "Agence de Régulation des Postes et des Communications Électroniques (ARPCE)",
+ "published": "2025",
+ "date_source": "source",
+ "why_not": ""
+}

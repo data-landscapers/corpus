@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://www.agenceecofin.com/actualites-numerique/1711-133428-niger-1031-km-de-fibre-optique-poses-vers-une-interconnexion-avec-les-pays-voisins,fetched,,scripts/.workroot/study/mobileaffordability/cache/NER/1.txt,969,html,"Niger : 1031 km de fibre optique posés, vers une interconnexion avec les pays voisins"
+2,https://www.latribune.fr/article/afrique/6030907088105514/le-niger-aborde-une-nouvelle-ere-de-connectivite-avec-la-dorsale-transsaharienne-a-fibre-optique,fetched,,scripts/.workroot/study/mobileaffordability/cache/NER/2.txt,1339,html,Le Niger aborde une nouvelle ère de connectivité avec la dorsale transsaharienne à fibre optique
+3,https://arcep.ne/tarif-moov/,fetched,,scripts/.workroot/study/mobileaffordability/cache/NER/3.txt,22765,html,Tarif-Moov - ARCEP
+4,https://temovision.com/moov-niger-forfait-internet/,fetched,,scripts/.workroot/study/mobileaffordability/cache/NER/4.txt,533,html,Moov Niger Forfait Internet et Appels Illimités 2026 - Temo Vision
+5,https://arcep.ne/wp-content/uploads/2025/11/Rapport-dObservatoire-des-CE_T2-_2025.pdf,fetched,,scripts/.workroot/study/mobileaffordability/cache/NER/5.txt,3949,pdf,
+6,https://arcep.ne/wp-content/uploads/2025/09/RAPPORT-ANNUEL-ARCEP-2024.pdf,held,held as raw/2024/2024-01-01-arcep-niger-rapport-annuel-2024.md,,0,,
+7,https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ICT_PRICES.01-2025-PDF-E.pdf,held,held as raw/2025/2025-01-01-itu-measuring-digital-development-affordability-of-ict-services-2024.md,,0,,
+8,https://techbiva.com/data/niger-internet-packages/,fetched,,scripts/.workroot/study/mobileaffordability/cache/NER/8.txt,996,html,Niger Internet Packages & Data Plan of 2025

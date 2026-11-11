@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: aggregator republishing ITU data, and the figure (6.13% in 2025) is for the 2 GB basket, not 5 GB"
+}

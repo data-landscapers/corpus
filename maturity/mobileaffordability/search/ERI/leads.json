@@ -1,0 +1,6 @@
+[
+{"url": "https://www.itu.int/en/ITU-D/Statistics/Pages/ICTprices/default.aspx", "title": "ICT prices", "publisher": "ITU", "published": "2025", "sub_indicator": "price", "why": "ITU 5GB data-only mobile basket, 2025 collection; Eritrea cell is what matters"},
+{"url": "https://btw.media/en/eritel-drives-digital-access-in-eritrea-within-deep-infrastructure-gap", "title": "EriTel drives digital access in Eritrea within deep infrastructure gap", "publisher": "btw.media", "published": "2025-08-27", "sub_indicator": "price", "why": "States EriTel 1 GB ADSL price in nakfa; data price vs income"},
+{"url": "https://www.eritel.com.er/contents.php?id=1017", "title": "Eritel Mobile GSM Services", "publisher": "Eritel Telecom Corporation", "published": "", "sub_indicator": "price", "why": "Operator page: mobile GSM is voice only, so no mobile data plan exists (stated absence)"},
+{"url": "https://newsaddis.com/eritel-eritrea-announces-new-internet-packages/", "title": "EriTel Eritrea Announces New Internet Packages", "publisher": "newsaddis", "published": "2024-06-12", "sub_indicator": "price", "why": "May 2024 EriTel package prices in nakfa against monthly income"}
+]

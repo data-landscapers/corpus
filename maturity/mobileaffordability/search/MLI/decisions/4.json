@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "Télécommunications en Mali",
+ "publisher": "donneesmondiales.com",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no-development: aggregator; 16.89% is a voice-bundled basket (140 min, 20 SMS, 5 GB), never admissible"
+}

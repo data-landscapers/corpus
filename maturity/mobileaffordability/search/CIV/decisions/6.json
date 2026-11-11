@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "already-held: ITU price series already held as CIV-001 to CIV-004; the report says only that the 2 GB basket is under 2 per cent of income in 2024, no 5 GB figure"
+}

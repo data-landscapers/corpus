@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "Moov Africa Gabon Telecom's Pass Mois 30-day plans were 7 Go for 10 000 FCFA and 15 Go for 20 000 FCFA.",
+ "title": "Pass internet",
+ "publisher": "Moov Africa Gabon Telecom",
+ "published": "2025-10",
+ "date_source": "proxy",
+ "why_not": ""
+}

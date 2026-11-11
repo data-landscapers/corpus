@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "Mobile Pro",
+ "publisher": "Djibouti Telecom",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: undated operator tariff page, data plans sold with voice and no income comparison; the 30-day data-only price is not in the text"
+}

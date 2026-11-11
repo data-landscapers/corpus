@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "Qcell sold 5 GB for 30 days at NLe 100 (about $4.10) in the guide published October 2026, with NatCA's data floor at Le 20 per GB since 5 November 2023.",
+ "title": "Sierra Leone SIM Card Guide (2026)",
+ "publisher": "Travel SIM Finder",
+ "published": "2026-10-12",
+ "date_source": "source",
+ "why_not": ""
+}

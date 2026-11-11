@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "no dated fact: MTN page carries no date; its 7.2 GB at 5,000 FCFA grid is the 2023 offer, undated in the text"
+}

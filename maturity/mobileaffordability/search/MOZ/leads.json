@@ -1,0 +1,8 @@
+[
+{"url": "https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ICT_PRICES.01-2025-PDF-E.pdf", "title": "The affordability of ICT services 2024", "publisher": "ITU", "published": "2025", "sub_indicator": "price", "why": "ITU basket prices as share of GNI per capita for 2024; 5GB desk-research basket."},
+{"url": "https://www.itu.int/en/ITU-D/Statistics/Pages/ICTprices/default.aspx", "title": "ICT prices", "publisher": "ITU", "published": "2025", "sub_indicator": "price", "why": "ITU 2025 price statistics, 5GB data-only basket."},
+{"url": "https://static.pmg.org.za/RCW1418-2026-01-09.pdf", "title": "National Council of Provinces oral reply", "publisher": "Parliament of South Africa", "published": "2026-01", "sub_indicator": "price", "why": "States Mozambique data-only basket at 9.04% of GNI per capita in 2023."},
+{"url": "https://africa-api.com/data/mozambique/mobile-data-price", "title": "Mozambique Mobile Data Price", "publisher": "Africa API", "published": "2026", "sub_indicator": "price", "why": "ITU data basket share of GNI per capita 2023-2025 (2GB)."},
+{"url": "https://www.worlddata.info/africa/mozambique/telecommunication.php", "title": "Telecommunication in Mozambique", "publisher": "worlddata.info", "published": "2025", "sub_indicator": "price", "why": "ITU 5GB basket with voice, 8.5% of income, 2025."},
+{"url": "https://clubofmozambique.com/news/only-15-of-mozambicans-can-afford-mobile-internet-access/", "title": "Only 15% of Mozambicans can afford mobile internet access", "publisher": "Club of Mozambique", "published": "2026-10-07", "sub_indicator": "price", "why": "Affordability of mobile internet in Mozambique."}
+]

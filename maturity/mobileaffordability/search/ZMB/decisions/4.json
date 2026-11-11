@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "Country Report for Zambia",
+ "publisher": "ISOC Pulse",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: fetched text carries no figure or date; the basket is a low-consumption one, not 5 GB"
+}

@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "Libya records lowest digital service costs in North Africa",
+ "publisher": "The Libya Observer",
+ "published": "2026-07-20",
+ "date_source": "source",
+ "why_not": "no-development: second-hand summary of a Tunisian report; the 0.76% figure is a voice-plus-SMS-plus-5GB basket, which the study never uses."
+}

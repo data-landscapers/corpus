@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "Orange's 4G plans in the Central African Republic include 30-day data plans priced at XAF 11,000 for 15 GB and XAF 22,000 for 33 GB.",
+ "title": "Orange CAR switches on 4G network in several cities",
+ "publisher": "Telecompaper",
+ "published": "2025-05-26",
+ "date_source": "source",
+ "why_not": ""
+}

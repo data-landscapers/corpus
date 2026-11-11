@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "post paid internet 3G/4G",
+ "publisher": "MTN Rwanda",
+ "published": "",
+ "date_source": "source",
+ "why_not": "headline-only-stub: undated operator postpaid price list, no stated date and no income share; the 2023 date is a search-index value only"
+}

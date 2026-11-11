@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "Senegal Mobile Data Price",
+ "publisher": "Africa API",
+ "published": "2026-08",
+ "date_source": "proxy",
+ "why_not": "no-development: aggregator of the ITU 2 GB basket (not 5 GB) as share of GNI per capita, 4.68% in 2025."
+}

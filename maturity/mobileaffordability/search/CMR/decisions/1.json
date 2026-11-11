@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "ITU data show 5 GB of mobile internet in Cameroon cost 5.72% of gross national income per capita in 2025 (fixed internet 17.2%).",
+ "title": "Cameroon Nears 5G, but High Internet Costs Could Slow Consumer Adoption",
+ "publisher": "Ecofin Agency",
+ "published": "2026-08-24",
+ "date_source": "source",
+ "why_not": ""
+}

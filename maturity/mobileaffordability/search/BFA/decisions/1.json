@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "According to ITU data, 5 GB of mobile internet represented 8.8% of GNI per capita in 2025 in Burkina Faso (31.4% for fixed), against a 2% affordability threshold.",
+ "title": "Le Burkina Faso se tourne vers le Nigeria pour son accès à la connectivité internationale",
+ "publisher": "OSIRIS",
+ "published": "2026-08-17",
+ "date_source": "source",
+ "why_not": ""
+}

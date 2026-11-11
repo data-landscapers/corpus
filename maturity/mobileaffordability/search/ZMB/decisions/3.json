@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "MTN Zambia's 1Zed Data monthly (30-day) bundles are priced at ZMW 100 for 8.4 GB and ZMW 200 for 22 GB, with ZMW 50 for 4.2 GB.",
+ "title": "1Zed Data & All-Net",
+ "publisher": "MTN Zambia",
+ "published": "2024-06",
+ "date_source": "proxy",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "The National Communications Authority's April 2024 survey of operator websites lists a Telecel monthly plan of 5 GB at GH₵50 (GH₵10 per GB, US$0.772 per GB at the 9 April 2024 rate).",
+ "title": "THE COST OF 1GB OF MOBILE DATA IN GHANA",
+ "publisher": "National Communications Authority",
+ "published": "2024-04",
+ "date_source": "source",
+ "why_not": ""
+}

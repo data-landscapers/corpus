@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "Telecommunications in Guinea-Bissau",
+ "publisher": "StatOrigin",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: a statistics aggregator repeating the ITU 2025 basket figure (10.2%); undated page, not the ITU document."
+}

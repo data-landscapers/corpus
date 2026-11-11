@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "price",
+ "aspect": "cost",
+ "fact": "",
+ "title": "A CST lança novo tarifário Turbo + Net",
+ "publisher": "CST",
+ "published": "2024-02-29",
+ "date_source": "source",
+ "why_not": "unfetchable: ConnectionError, no usable Wayback capture; snippet shows a 1500 MB plan with voice, not a 5 GB data plan anyway."
+}
