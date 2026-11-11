@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "2",
-      "standing": "draft",
-      "reach": "",
+      "stage": "4",
+      "standing": "in-force",
+      "reach": "non-bank",
       "cap": "",
       "flags": "",
-      "stage_sources": "NGA-001",
-      "gaps": "No source found says a payments law or e-money rules are in force.",
-      "note": "Counted from the four questions by study-ladder-paymentslaw.py.",
-      "as_at": "2026-11-09"
+      "stage_sources": "NGA-003;NGA-002",
+      "gaps": "No source found names a rule requiring mobile money providers and banks to connect to each other or to a national switch.",
+      "note": "Restaged by hand 2026-11-11 (housekeeping 57): OPay's October 2026 filing names the CBN's licensing frameworks for payment service banks and mobile money operators as in force (NGA-003), and operators say the CBN licenses them (NGA-002); no connection rule is held, so 4.",
+      "as_at": "2026-11-11"
     }
   ]
 }

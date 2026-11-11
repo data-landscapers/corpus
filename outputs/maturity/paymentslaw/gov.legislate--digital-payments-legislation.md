@@ -20,10 +20,10 @@ Article 15 of the AfCFTA Digital Trade Protocol and its Annex on Cross-Border Di
 
 | Stage | Countries |
 |---|---|
-| 5 Leading | 16 |
-| 4 Operating | 28 |
-| 3 Established | 8 |
-| 2 Nascent | 1 |
+| 5 Leading | 17 |
+| 4 Operating | 29 |
+| 3 Established | 7 |
+| 2 Nascent | 0 |
 | 1 Absent | 0 |
 | Unplaced | 0 |
 | No evidence | 1 |
@@ -56,6 +56,14 @@ Côte d'Ivoire is under the regional central bank's 2024 payment rules, with ten
 - BCEAO decision published 25 June 2026 set 30 September 2026 as the deadline for banks, e-money institutions and payment institutions of the WAEMU, which includes Cote d'Ivoire, to complete connection to PI-SPI and open services to the public (Agence Ecofin, 1 Oct 2026) ([source, 2026-06-25](https://www.agenceecofin.com/actualites-finance/0110-142036-wave-rejoint-la-plateforme-de-paiement-instantane-de-la-bceao-un-an-apres-son-lancement)).
 - The article states that, per the BCEAO list published 8 October 2026, Cote d'Ivoire had ten licensed payment institutions at 31 August 2026 (of 34 in the Union); the date is the list's as-of date ([source, 2026-08-31](https://beninwebtv.bj/benin-quatre-etablissements-paiement-agrees-aout-2026/)).
 - The BCEAO list states that payment institutions are licensed in the UMOA under Instruction n°001-01-2024 on payment services in the UMOA, which applies to Cote d'Ivoire as a member ([source, 2024](https://www.bceao.int/fr/communique-presse/liste-des-etablissements-de-paiement-agrees-dans-lumoa-au-31-aout-2026)).
+
+### DR Congo: 5 Leading
+
+DR Congo's 2018 payments law is in force, the central bank approves non-bank e-money issuers, and all providers must join the national switch.
+
+- Loi n° 18-019 of 9 July 2018 on payment systems and securities settlement systems was enacted and published in the Journal Officiel of 23 July 2018, and defines electronic money and payment orders ([source, 2018-07-09](https://anapi.cd/wp-content/uploads/2025/09/221.07.18-Loi-du-9-juillet-2018_Systemes-de-paiement-1.pdf)).
+- The Banque Centrale du Congo's map of the national payment system lists the payment service providers it has approved, among them five financial companies including e-money issuers and 81 money-transfer firms, as at end-2023 ([source, 2023-12](https://www.bcc.cd/intermediaires-financiers/systemes-de-paiement/infrastructures)).
+- Banque Centrale du Congo Instruction No. 58 of 4 September 2024 obliges regulated entities, among them credit institutions, financial companies, postal services and aggregators, to connect to the National E-Payment Switch within six months, under sanction ([source, 2024-09-04](https://regalert.today/document/instruction-no-58-on-the-interoperability-of-electronic-payment-systems-and-part-34b2c78f-c351-4d8d-a6ee-2eba0ba23e98)).
 
 ### Eswatini: 5 Leading
 
@@ -335,6 +343,13 @@ Morocco's 2014 banking law licenses payment institutions that are not banks, and
 - Bank Al-Maghrib and the Competition Council state that newly licensed payment establishments (établissements de paiement) and already licensed ones are deploying card-acquiring activity in Morocco, with BAM overseeing them; the communiqué is dated 2026-07-10 and gives no licensing dates ([source, 2026-07-10](https://conseil-concurrence.ma/communique-conjoint-du-conseil-de-la-concurrence-et-de-bank-al-maghrib/)).
 - Le Matin, reporting the 11th MFC Talks, says Morocco has a regulatory framework already well advanced, and that a first phase led by Bank Al-Maghrib laid the regulatory bases, organised interoperability and governed access to infrastructures; no law or rule is named ([source, 2026-09-27](https://lematin.ma/economie/paiement-instantane-les-rails-sont-la-les-usages-restent-a-construire/367355)).
 
+### Nigeria: 4 Operating
+
+Nigeria's central bank licenses mobile money operators and payment service banks under its frameworks; no rule binding them to a switch is known.
+
+- OPay's October 2026 US registration statement says the Central Bank of Nigeria's licensing frameworks for payment service banks, mobile money operators, payment terminal and payment solution service providers have opened payments to non-bank players ([source, 2026-10-09](https://www.sec.gov/Archives/edgar/data/2103076/000119312526418812/d56487df1.htm)).
+- At the 2 March 2026 public hearing on the fintech regulator bill, the article reports that the CBN already licenses mobile money operators, payment service providers and digital banks (as stated by OPay and other operators); no law or year is named ([source, 2026-03-02](https://businesstech.ng/fintech-regulatory-commission-bill-nigeria/)).
+
 ### Sao Tome and Principe: 4 Operating
 
 São Tomé and Príncipe's 2018 payment system law lets the central bank license non-bank providers; no rule requiring providers to connect is known.
@@ -388,12 +403,6 @@ The Comoros has had central bank e-money rules since 2017, under a 2015 payments
 - The Central Bank of the Comoros issued Regulation n°01/2017/BCC/DSBR setting the conditions and modalities for exercising e-money activity; the document gives only the year 2017 (published date used) ([source, 2017](https://banque-comores.km/uploads/Loi%20et%20textes%20reglementaire/REGLEMENTS/2017/R%C3%A8glement%20n%C2%B001_2017_BCC_DSBR%20sur%20la%20monnaie%20%C3%A9lectronique.pdf)).
 - The regulation cites as a legal basis decree n°15-026/PR of 3 March 2015 on payment systems, means and incidents of payment ([source, 2015-03-03](https://banque-comores.km/uploads/Loi%20et%20textes%20reglementaire/REGLEMENTS/2017/R%C3%A8glement%20n%C2%B001_2017_BCC_DSBR%20sur%20la%20monnaie%20%C3%A9lectronique.pdf)).
 
-### DR Congo: 3 Established
-
-The 2018 payments law is in force, and all regulated providers must join the national switch; licensing of non-bank providers under it is not known.
-
-- Loi n° 18-019 of 9 July 2018 on payment systems and securities settlement systems was enacted and published in the Journal Officiel of 23 July 2018, and defines electronic money and payment orders ([source, 2018-07-09](https://anapi.cd/wp-content/uploads/2025/09/221.07.18-Loi-du-9-juillet-2018_Systemes-de-paiement-1.pdf)).
-
 ### Lesotho: 3 Established
 
 Lesotho's 2014 payment systems act is in force; a bill to replace it and license all payment providers reached second reading in May 2026.
@@ -430,12 +439,6 @@ Zambia's 2007 National Payment Systems Act is in force; no source found says whe
 Zimbabwe's 2001 National Payment Systems Act is in force; no source found says whether it licenses companies that are not banks.
 
 - The National Payment Systems Act [Chapter 24:23] (Act 21 of 2001), consolidated text up to 31 December 2016, commenced on 16 November 2001 and provides for the recognition, operation, regulation and supervision of payment clearing and settlement systems, including payment instructions made by electronic means, under the Reserve Bank of Zimbabwe ([source, 2001-11-16](https://zimlii.org/akn/zw/act/2001/21/eng@2016-12-31)).
-
-### Nigeria: 2 Nascent
-
-A fintech regulator bill passed second reading in 2025 and the central bank licenses mobile money operators; the rules in force are not named.
-
-- The Nigerian Fintech Regulatory Commission Bill 2025 (HB.2389), which would create a single regulator to license and supervise all fintech services, passed second reading in the House of Representatives on 28 October 2025 and was still pending as at the article, with no final passage or assent confirmed ([source, 2025-10-28](https://businesstech.ng/fintech-regulatory-commission-bill-nigeria/)).
 
 ### Eritrea: No evidence
 

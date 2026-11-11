@@ -3,15 +3,15 @@
   "cells": [
     {
       "sub_indicator": "law",
-      "stage": "3",
+      "stage": "5",
       "standing": "in-force",
-      "reach": "",
+      "reach": "connect",
       "cap": "",
       "flags": "",
-      "stage_sources": "COD-001",
-      "gaps": "No source found says the law or rules in force license payment providers or e-money issuers that are not banks, or names one licensed under them.",
-      "note": "Counted from the four questions by study-ladder-paymentslaw.py.",
-      "as_at": "2026-11-09"
+      "stage_sources": "COD-001;COD-003;COD-002",
+      "gaps": "",
+      "note": "Restaged by hand 2026-11-11 (housekeeping 57): the central bank's payment-system map lists approved e-money issuers and other non-bank providers at end-2023 (COD-003, the centralbank study's source); with the 2018 law and Instruction 58 binding providers to the national switch, every step is met.",
+      "as_at": "2026-11-11"
     }
   ]
 }

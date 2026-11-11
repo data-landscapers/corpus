@@ -136,9 +136,9 @@ itcapacity	MRT	inhouse	4	unplaced	restaged 4 on MRT-002 to MRT-004	2026-11-10
 itcapacity	RWA	inhouse	3	unplaced	restaged 3 on RWA-002	2026-11-10
 itcapacity	SOM	inhouse	5	2	gap confirmed; asked notes-for-osint 309	2026-11-10
 itcapacity	UGA	inhouse	5	3	gap confirmed; asked notes-for-osint 309	2026-11-10
-justice	BEN	justice	4	2		
-justice	SYC	justice	4	unplaced		
-landadmin	GHA	landmis	5	3		
+justice	BEN	justice	4	2	gap confirmed by the justice rebuild of 2026-11-11	2026-11-11
+justice	SYC	justice	4	unplaced	restaged 2 by the justice rebuild of 2026-11-11	2026-11-11
+landadmin	GHA	landmis	5	3	gap confirmed by the landadmin rebuild of 2026-11-11	2026-11-11
 metsatellite	SYC	metsat	5	3		
 metsatellite	TZA	metsat	5	3		
 opendatause	GNB	use	4	2	gap confirmed; asked notes-for-osint 321	2026-11-11
@@ -149,8 +149,8 @@ opendatause	TGO	use	5	2	gap confirmed; asked notes-for-osint 321	2026-11-11
 opendatause	ZMB	use	4	2	gap confirmed; asked notes-for-osint 321	2026-11-11
 opendiscussion	GMB	discussion	4	2		
 opendiscussion	LSO	discussion	4	unplaced		
-paymentslaw	COD	law	5	3		
-paymentslaw	NGA	law	4	2		
+paymentslaw	COD	law	5	3	restaged 5 on COD-003 (by hand)	2026-11-11
+paymentslaw	NGA	law	4	2	restaged 4 on NGA-003 (by hand)	2026-11-11
 populationregister	CIV	population	5	3	restaged 5 on CIV-015	2026-11-10
 populationregister	DZA	population	5	3	restaged 5 on DZA-007	2026-11-10
 populationregister	MAR	population	5	3	gap confirmed; asked notes-for-osint 308	2026-11-10

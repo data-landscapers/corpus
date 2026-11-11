@@ -17,3 +17,5 @@ date,iso3,indicator_id,kind,from,to,sources,note
 2026-11-09,NGA,gov.legislate--digital-payments-legislation,ladder,4,2,NGA-001,"Each step of the ladder must be met to progress (Bill, 2026-11-09, message 114): 4 to 2."
 2026-11-09,COG,gov.legislate--digital-payments-legislation,ladder,4,4,COG-001,"Recounted under message 114 (each step met on its own evidence): later rows answer every step, so the stage holds."
 2026-11-09,NER,gov.legislate--digital-payments-legislation,ladder,5,5,NER-001;NER-003;NER-002,"Recounted under message 114 (each step met on its own evidence): later rows answer every step, so the stage holds."
+2026-11-11,COD,gov.legislate--digital-payments-legislation,ladder,3,5,COD-001;COD-003;COD-002,"Restaged under message 114 (housekeeping 57): the central bank's payment-system map lists approved non-bank e-money issuers; with Instruction 58 on the national switch, 3 to 5."
+2026-11-11,NGA,gov.legislate--digital-payments-legislation,ladder,2,4,NGA-003;NGA-002,Restaged under message 114 (housekeeping 57): OPay's 2026 filing names the CBN licensing frameworks for mobile money operators and payment service banks; 2 to 4.
