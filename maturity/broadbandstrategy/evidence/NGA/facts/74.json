@@ -1,0 +1,20 @@
+{
+ "slug": "2023-10-01-nga-fmcide-strategic-blueprint-2023-2027",
+ "facts": [
+  {
+   "sub_indicator": "plan",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The Ministry's strategic blueprint (October 2023) says the National Broadband Plan was developed in line with the National Digital Economy Policy and that the Ministry will prioritise its review and implementation towards 70 percent broadband penetration by the end of 2025.",
+   "as_of": "2023-10",
+   "date_precision": "month",
+   "system": "Nigeria National Broadband Plan",
+   "class": "plan"
+  }
+ ],
+ "systems": [],
+ "note": "",
+ "claims": {
+  "aftech-3f02eb4a08": "fact"
+ }
+}

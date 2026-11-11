@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+SOM-001,SOM,plan,standing,adopted,"ITU's regulatory tracker records that Somalia self-reported 'Yes' to a national plan that involves broadband in its 2024 round; it names no plan and no period, and 2024 is the survey round's year, taken as year end.",2024,year,National plan that involves broadband,plan,2026-11-10-ict-regulatory-tracker-2026-11-10,https://app.gen5.digital/tracker/metrics

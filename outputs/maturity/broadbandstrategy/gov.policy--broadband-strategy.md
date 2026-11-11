@@ -22,11 +22,11 @@ The Broadband Commission's first target is a funded national broadband plan in e
 |---|---|
 | 5 Leading | 1 |
 | 4 Operating | 2 |
-| 3 Established | 21 |
+| 3 Established | 32 |
 | 2 Nascent | 12 |
-| 1 Absent | 1 |
+| 1 Absent | 0 |
 | Unplaced | 1 |
-| No evidence | 16 |
+| No evidence | 6 |
 
 ## Countries
 
@@ -95,6 +95,12 @@ Burundi has a Stratégie Large Bande 2025, reported in October 2025, but no targ
 
 - The ITU report on the October 2025 Africa-BB-Maps national event says Burundi's legal and regulatory framework includes a 'Stratégie Large Bande 2025' (broadband strategy 2025) and a Universal Service Fund, with ARCT and SETIC as the lead bodies; the document gives no period dates and states no broadband targets, and names no successor ([source, 2025-10](https://africabbmaps.itu.int/wp-content/uploads/2025/12/Bdi-Rapport_Evenement-National-Africa-BB-Maps_28-30-Octobre-2025.pdf)).
 
+### Cameroon: 3 Established
+
+In 2024 the government told ITU's regulatory tracker that Cameroon has a national plan involving broadband; it names no plan, funding or targets.
+
+- ITU's regulatory tracker records that Cameroon has a national plan that involves broadband (self-reported, 2024 round; as_of is the round's year, no plan named) ([source, 2024](https://app.gen5.digital/tracker/metrics)).
+
 ### Cape Verde: 3 Established
 
 Cabo Verde approved a national 5G strategy in February 2026, with targets for 2026 and 2030; no source found reports its funding and results.
@@ -114,11 +120,41 @@ Chad adopted Tchad Connexion 2030 in 2025, with an 80 percent coverage target, b
 - Chad is implementing the Tchad Connexion 2030 strategy, whose period runs to 2030, with targets of at least 80 percent national internet coverage and about 80 percent mobile penetration and around US$1.5bn of ICT investment; the date is the document's published date, 2026-03-16 ([source, 2026-03-16](https://www.biometricupdate.com/202603/chad-uses-national-biometric-registry-to-boost-govt-systems-interoperability)).
 - The government has presented the national strategy Tchad Connexion 2030, with US$1.5bn of planned digital investment and a six-year horizon to 2031 at most, to extend digital coverage to most of the population; the document gives no presentation date, so its published date, 2025-12-10, is used ([source, 2025-12-10](https://www.ecofinagency.com/news-digital/1012-51293-chad-finalizes-digital-law-to-align-national-framework-with-global-standards)).
 
+### Comoros: 3 Established
+
+In 2024 the government told ITU's regulatory tracker that Comoros has a national plan involving broadband; it names no plan, funding or targets.
+
+- ITU's regulatory tracker records that Comoros has a national plan that involves broadband (answer Yes, 2024 round; no plan named); the date is the survey round's year ([source, 2024](https://app.gen5.digital/tracker/metrics)).
+
+### Congo: 3 Established
+
+In 2024 the government told ITU's regulatory tracker that Congo has a national plan involving broadband; it names no plan, funding or targets.
+
+- ITU's regulatory tracker records that Congo has a national plan that involves broadband (answer Yes, 2024 round; no plan named); the date is the survey round's year ([source, 2024](https://app.gen5.digital/tracker/metrics)).
+
+### Cote d'Ivoire: 3 Established
+
+In 2024 the government told ITU's regulatory tracker that Cote d'Ivoire has a national plan involving broadband; it names no plan, funding or targets.
+
+- ITU's regulatory tracker records that Cote d'Ivoire has a national plan that involves broadband (self-reported, 2024 round; as_of is the round's year, no plan named) ([source, 2024](https://app.gen5.digital/tracker/metrics)).
+
 ### Egypt: 3 Established
 
 A national broadband plan was launched in 2011; no source found says whether it is still running, funded or reported on.
 
 - The Ministry of Communications and Information Technology, through the NTRA, launched the eMisr National Broadband Plan on 17 November 2011, a two-phase plan whose first phase is a Framework for Broadband Development and whose second, a Broadband Action Plan, was due in Q2 2012 ([source, 2011-11-17](https://mcit.gov.eg/en/Media_Center/Latest_News/News/2367)).
+
+### Eswatini: 3 Established
+
+In 2024 the government told ITU's regulatory tracker that Eswatini has a national plan involving broadband; it names no plan, funding or targets.
+
+- ITU's regulatory tracker records that Eswatini self-reported 'Yes' to a national plan that involves broadband in its 2024 round; it names no plan and no period, and 2024 is the survey round's year, taken as year end ([source, 2024](https://app.gen5.digital/tracker/metrics)).
+
+### Ethiopia: 3 Established
+
+In 2024 the government told ITU's regulatory tracker that Ethiopia has a national plan involving broadband; it names no plan, funding or targets.
+
+- ITU's regulatory tracker records that Ethiopia has a national plan that involves broadband (answer Yes, 2024 round; no plan named); the date is the survey round's year ([source, 2024](https://app.gen5.digital/tracker/metrics)).
 
 ### Ghana: 3 Established
 
@@ -131,6 +167,18 @@ The Ministry of Communications issued a national broadband policy in 2012 with t
 Lesotho signed a Broadband Infrastructure Sharing Policy in June 2026, but no budget or delivery results are known, so the main unknown is funding.
 
 - Lesotho Times reports that the Minister of Information, Communications, Science, Technology and Innovation signed the Broadband Infrastructure Sharing Policy at a ceremony held 'yesterday' relative to the 12 June 2026 article, so on 11 June 2026; no plan period is given ([source, 2026-06-11](https://lestimes.com/?p=90715)).
+
+### Liberia: 3 Established
+
+In 2024 the government told ITU's regulatory tracker that Liberia has a national plan involving broadband; it names no plan, funding or targets.
+
+- ITU's regulatory tracker records, for its 2024 round, a yes to Liberia having a national plan that involves broadband, self-reported and unnamed; the line gives no date within the round, so 2024 is used ([source, 2024](https://app.gen5.digital/tracker/metrics)).
+
+### Madagascar: 3 Established
+
+In 2024 the government told ITU's regulatory tracker that Madagascar has a national plan involving broadband; it names no plan, funding or targets.
+
+- ITU's regulatory tracker records that Madagascar has a national plan that involves broadband, self-reported in the 2024 round; the line names no plan and gives no year, so the round's year is used ([source, 2024](https://app.gen5.digital/tracker/metrics)).
 
 ### Namibia: 3 Established
 
@@ -146,11 +194,23 @@ Rwanda updated its National Broadband Policy and Strategy in 2022; no source fou
 
 - Telecom Review Africa reports that the Rwandan government updated its National Broadband Policy and Strategy in 2022, introducing technology neutrality and spectrum refarming; it gives no period for the plan and names no successor (document published 2025-10-22) ([source, 2022](https://www.telecomreviewafrica.com/articles/reports-and-coverage/13149-rwandas-masterclass-in-digital-penetration-a-use-case-for-african-counterparts/)).
 
+### Seychelles: 3 Established
+
+In 2024 the government told ITU's regulatory tracker that Seychelles has a national plan involving broadband; it names no plan, funding or targets.
+
+- ITU's regulatory tracker records Seychelles, self-reported in its 2024 round, as having a national plan that involves broadband; the line names no plan, and as_of is the survey round's year 2024 ([source, 2024](https://app.gen5.digital/tracker/metrics)).
+
 ### Sierra Leone: 3 Established
 
 Sierra Leone has a National Broadband Strategy for 2023-2028, reported adopted in January 2025; no source found says what money or results sit behind it.
 
 - ITEdgeNews reports that the Starlink university connectivity deal aligns with Sierra Leone's National Broadband Strategy for 2023-2028, a period that had not ended; the article gives no event date, so its published date of 2025-01-31 is used ([source, 2025-01-31](https://www.itedgenews.africa/sierra-leone-partners-with-starlink-to-expand-university-internet/)).
+
+### Somalia: 3 Established
+
+In 2024 the government told ITU's regulatory tracker that Somalia has a national plan involving broadband; it names no plan, funding or targets.
+
+- ITU's regulatory tracker records that Somalia self-reported 'Yes' to a national plan that involves broadband in its 2024 round; it names no plan and no period, and 2024 is the survey round's year, taken as year end ([source, 2024](https://app.gen5.digital/tracker/metrics)).
 
 ### South Africa: 3 Established
 
@@ -182,6 +242,12 @@ Tunisia has a national very high speed broadband strategy dated 2013; no source 
 Uganda has the National Broadband Policy 2018, reviewed in January 2026; no source found reports money tied to it and figures against its targets.
 
 - The document refers to Uganda's National Broadband Policy 2018 as a policy under implementation, which the Ministry of ICT and National Guidance and the ITU reviewed; it gives no end date or replacement, and the year 2018 is taken from the policy's title ([source, 2018](https://www.itu.int/hub/publication/d-uga-natbrpo-2024/)).
+
+### Zambia: 3 Established
+
+Zambia's 2023-2027 digital transformation strategy sets broadband targets, but a December 2025 working group found no stand-alone broadband policy and no funding.
+
+- The Ministry of Technology and Science's National Digital Transformation Strategy 2023-2027 sets broadband targets, including national broadband coverage of 80 percent and average broadband speed from 2.73 to 5.00 mbps, and lists development of a national broadband master plan; the document gives no adoption date, so the start of its period, 2023, is used ([source, 2023](https://www.mots.gov.zm/wp-content/uploads/2023/10/National-Digital-Transformation-Strategy.pdf)).
 
 ### Zimbabwe: 3 Established
 
@@ -264,53 +330,11 @@ Senegal's ministry presented guidelines for a national broadband plan in 2017; n
 
 - A ministry slide deck presents the guidelines of the Plan national haut/très haut débit, tied to Sénégal Numérique 2025, with objectives, an infrastructure diagnosis and proposed investments; it does not state that the plan was adopted, and its year 2017 is the published field, inferred ([source, 2017](https://www.itu.int/dms_pub/itu-d/oth/07/0d/D070D0000040001PDFE.pdf)).
 
-### Zambia: 1 Absent
-
-A December 2025 working group found Zambia lacks a national broadband policy; no source found says whether other plans set broadband targets.
-
-- The policy working group at the Africa BB Maps national event (ITU/EU project, hosted with ZICTA, Lusaka, 9-11 December 2025) concluded that Zambia lacks a national broadband policy and recommended formulating one ([source, 2025-12](https://africabbmaps.itu.int/wp-content/uploads/2026/02/Africa-BB-Maps-Project-Zambia-National-Event-Report.pdf)).
-
 ### Eritrea: Unplaced
 
 A 2019 listing shows no national broadband plan; nothing newer is known, so no stage is set.
 
 Not established: No plan or draft is on record, and no source dated in the last three years says the country has neither.
-
-### Cameroon: No evidence
-
-Nothing found names a national broadband plan or says there is none, so no stage is set.
-
-Not established: Nothing found names a national broadband plan, or says there is none.
-
-### Comoros: No evidence
-
-Nothing found names a national broadband plan or says there is none, so no stage is set.
-
-Not established: Nothing found names a national broadband plan, or says there is none.
-
-### Congo: No evidence
-
-Nothing found names a national broadband plan or says there is none, so no stage is set.
-
-Not established: Nothing found names a national broadband plan, or says there is none.
-
-### Cote d'Ivoire: No evidence
-
-Nothing found names a national broadband plan or says there is none, so no stage is set.
-
-Not established: Nothing found names a national broadband plan, or says there is none.
-
-### Eswatini: No evidence
-
-Nothing found names a national broadband plan or says there is none, so no stage is set.
-
-Not established: Nothing found names a national broadband plan, or says there is none.
-
-### Ethiopia: No evidence
-
-Nothing found names a national broadband plan or says there is none, so no stage is set.
-
-Not established: Nothing found names a national broadband plan, or says there is none.
 
 ### Guinea: No evidence
 
@@ -318,19 +342,7 @@ Nothing found names a national broadband plan or says there is none, so no stage
 
 Not established: Nothing found names a national broadband plan, or says there is none.
 
-### Liberia: No evidence
-
-Nothing found names a national broadband plan or says there is none, so no stage is set.
-
-Not established: Nothing found names a national broadband plan, or says there is none.
-
 ### Libya: No evidence
-
-Nothing found names a national broadband plan or says there is none, so no stage is set.
-
-Not established: Nothing found names a national broadband plan, or says there is none.
-
-### Madagascar: No evidence
 
 Nothing found names a national broadband plan or says there is none, so no stage is set.
 
@@ -343,18 +355,6 @@ Nothing found names a national broadband plan or says there is none, so no stage
 Not established: Nothing found names a national broadband plan, or says there is none.
 
 ### Sao Tome and Principe: No evidence
-
-Nothing found names a national broadband plan or says there is none, so no stage is set.
-
-Not established: Nothing found names a national broadband plan, or says there is none.
-
-### Seychelles: No evidence
-
-Nothing found names a national broadband plan or says there is none, so no stage is set.
-
-Not established: Nothing found names a national broadband plan, or says there is none.
-
-### Somalia: No evidence
 
 Nothing found names a national broadband plan or says there is none, so no stage is set.
 

@@ -1,0 +1,13 @@
+{
+  "slug": "2022-01-01-ken-national-digital-master-plan-2022-2032",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "The Kenya National Digital Master Plan 2022-2032 lists the National Broadband Strategy 2018-2023, which aims to extend broadband to ward level, among the existing strategies it complements; the document gives no other date, so its published date of January 2022 is used.", "as_of": "2022-01", "date_precision": "month", "system": "National Broadband Strategy 2018-2023", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "Kenya National Digital Master Plan 2022-2032", "country_label": "Kenya", "class": "other", "platform": "", "owner": "Ministry of ICT, Innovation and Youth Affairs", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "aftech-1bc557041a": "nothing: a digital master plan; its 100,000km fibre flagship is held as KEN-001"
+  }
+}

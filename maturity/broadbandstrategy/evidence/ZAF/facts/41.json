@@ -1,0 +1,13 @@
+{
+  "slug": "2021-04-01-zaf-dcdt-draft-national-policy-on-data-and-cloud",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "The Department of Communications and Digital Technologies' draft data and cloud policy of 1 April 2021 refers to South Africa Connect and the National Broadband Policy as existing inclusion strategies with broadband access targets for 2030; it gives no adoption date, so its published date is used.", "as_of": "2021-04-01", "date_precision": "day", "system": "South Africa Connect", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "South Africa Connect", "country_label": "South Africa", "class": "plan", "platform": "", "owner": "", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "aftech-65e78bcf8d": "nothing: data and cloud policy, not a broadband plan"
+  }
+}

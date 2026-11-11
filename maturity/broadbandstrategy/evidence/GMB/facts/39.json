@@ -1,0 +1,31 @@
+{
+  "slug": "2026-11-10-africa-technology-policy-tracker-2026-11-10",
+  "facts": [],
+  "systems": [],
+  "note": "Carnegie's tracker lines are a database record; the broadband plans it lists are already held and the rest are other policies.",
+  "claims": {
+    "aftech-0081ece89e": "nothing: e-government strategy, not a broadband plan",
+    "aftech-43dee59481": "nothing: 2004 ICT infrastructure policy, no broadband plan stated",
+    "aftech-9b51826d30": "nothing: general ICT4D policy, no broadband plan or targets stated",
+    "aftech-9700e32794": "nothing: general ICT4D policy, no broadband plan or targets stated",
+    "aftech-63c937a778": "nothing: general ICT4D policy, no broadband plan or targets stated",
+    "aftech-dae6583f28": "nothing: data protection policy, not assessed",
+    "aftech-d4856bddb4": "nothing: universal access policy, not a broadband plan; the broadband policy that succeeded it is held as GMB-001",
+    "aftech-cda97abd6a": "nothing: universal access policy, not a broadband plan",
+    "aftech-e9bf0b4a38": "nothing: held as GMB-001",
+    "aftech-88a0d1c499": "nothing: held as GMB-001",
+    "aftech-60a9aaa9b9": "nothing: e-government plan, not a broadband plan",
+    "aftech-c8aaeeede8": "nothing: held as GMB-002",
+    "aftech-e8222b68b2": "nothing: e-government plan, not a broadband plan",
+    "aftech-97bd43cb6f": "nothing: held as GMB-002",
+    "aftech-86f8cda9e5": "nothing: government email policy, not assessed",
+    "aftech-aded7b2b36": "nothing: government cloud policy, not assessed",
+    "aftech-d4ceaa0db6": "nothing: fibre protection policy, not a broadband plan",
+    "aftech-76345d0ec4": "nothing: digital addressing policy, not assessed",
+    "aftech-c733b2e606": "nothing: e-government strategy, not a broadband plan",
+    "aftech-f83a7e9c0d": "nothing: government cloud strategy, not assessed",
+    "aftech-7f3ae9d75d": "nothing: government cloud plan, not assessed",
+    "aftech-a75992d665": "nothing: open data strategy, not assessed",
+    "aftech-cd53c9aa2e": "nothing: digital ID strategy, not assessed"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "2023-10-12-national-digital-transformation-strategy-zambia",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "The Ministry of Technology and Science's National Digital Transformation Strategy 2023-2027 sets broadband targets, including national broadband coverage of 80 percent and average broadband speed from 2.73 to 5.00 mbps, and lists development of a national broadband master plan; the document gives no adoption date, so the start of its period, 2023, is used.", "as_of": "2023", "date_precision": "year", "system": "National Digital Transformation Strategy 2023-2027", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "National Digital Transformation Strategy 2023-2027", "country_label": "Zambia", "class": "plan", "platform": "", "owner": "Ministry of Technology and Science", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "aftech-5318c94eed": "fact"
+  }
+}

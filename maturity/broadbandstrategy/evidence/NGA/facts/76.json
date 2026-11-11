@@ -1,0 +1,20 @@
+{
+ "slug": "2021-03-01-nga-fmcde-national-policy-vsat-installation-core-skills",
+ "facts": [
+  {
+   "sub_indicator": "plan",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "The VSAT policy states the Ministry developed a Nigerian National Broadband Policy (2020-2025), and ties the policy's aims to attaining the goals of the National Broadband Plan 2020-2025; it gives no adoption date, so its published date of 2021-03 is used.",
+   "as_of": "2021-03",
+   "date_precision": "month",
+   "system": "Nigerian National Broadband Plan 2020-2025",
+   "class": "plan"
+  }
+ ],
+ "systems": [],
+ "note": "",
+ "claims": {
+  "aftech-7f03527caa": "fact"
+ }
+}

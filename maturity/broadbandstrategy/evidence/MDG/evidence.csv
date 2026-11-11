@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+MDG-001,MDG,plan,standing,adopted,"ITU's regulatory tracker records that Madagascar has a national plan that involves broadband, self-reported in the 2024 round; the line names no plan and gives no year, so the round's year is used.",2024,year,National plan that involves broadband,plan,2026-11-10-ict-regulatory-tracker-2026-11-10,https://app.gen5.digital/tracker/metrics

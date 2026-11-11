@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-10-ict-regulatory-tracker-2026-11-10",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "ITU's regulatory tracker records Seychelles, self-reported in its 2024 round, as having a national plan that involves broadband; the line names no plan, and as_of is the survey round's year 2024.", "as_of": "2024", "date_precision": "year", "system": "", "class": "plan"}
+  ],
+  "systems": [],
+  "note": "",
+  "claims": {
+    "itu-8bd1595258": "fact"
+  }
+}

@@ -1,0 +1,963 @@
+claim,source,survey_year,iso3,item,question,status,name,year,fit,outcome,slug,row_ids,note
+itu-3cb822a640,itu,2009,AGO,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-4a682209fa,itu,2010,AGO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-53e6764ee9,itu,2017,AGO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-5a17a8b5bd,itu,2007,AGO,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-6bdde38df5,itu,2016,AGO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-87c003ade3,itu,2024,AGO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,held as AGO-002
+itu-8f81f9b97b,itu,2014,AGO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9ea8fe1502,itu,2013,AGO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-b62e4e8274,itu,2012,AGO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c27a7ebeae,itu,2019,AGO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c2afb62308,itu,2008,AGO,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-c323e30c09,itu,2020,AGO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-d755bf028c,itu,2015,AGO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ef50d431c7,itu,2022,AGO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-f2eb3538e5,itu,2011,AGO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-f4ff775241,itu,2018,AGO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+aftech-7a4b35891f,aftech,,BDI,broadband internet; cybersecurity; data centers and cloud services; data protection; digital payments; digital signatures; first mile; second mile; last mile; quality of service; universal access,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills, Digital Entrepreneurship",Policy,Master Plan For Digitalization Of Public Services In Burundi “PDDSP 2023-2033”,2023,same;partial;same;partial;same;partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"digital government plan, no broadband plan stated"
+aftech-61deeca1c1,aftech,,BDI,digital identification; cybersecurity; broadband internet; e-government; e-commerce; digital payments; universal access,"Digital Infrastructure, Digital Platforms, Digital Skills / Physical Infrastructure, Invisible Infrastructure, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills",Policy,National ICT Development Policy,2011,partial;partial;same;same;same;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"general ICT policy, no broadband plan stated"
+itu-05f603b4ad,itu,2020,BDI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-0c02fc1c11,itu,2024,BDI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,held as BDI-001
+itu-1bfcd3b0f7,itu,2012,BDI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-244a6f69d4,itu,2018,BDI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-30cc3205f6,itu,2010,BDI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-32de1ccc16,itu,2014,BDI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-6095d84a8b,itu,2019,BDI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-70b28c05f5,itu,2009,BDI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-72fa8e9457,itu,2016,BDI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-7ca149e3c9,itu,2017,BDI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-7e4a7d0c9b,itu,2008,BDI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-a203a37d0c,itu,2015,BDI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-b65a75b94a,itu,2013,BDI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c2bbce3248,itu,2007,BDI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-e5a4288f50,itu,2011,BDI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-f1c26cd6de,itu,2022,BDI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+aftech-1761743b58,aftech,,BEN,artificial intelligence; broadband internet; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,National Artificial Intelligence and Big Data Strategy (2023-2027),2023,same;same;partial;same;partial;partial;same;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"AI and big data strategy, not assessed"
+aftech-e34c3dcf97,aftech,,BEN,cybersecurity; data centers and cloud services; data protection; universal access,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,Sectoral Policy Statement,2021,partial;same;partial;partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"sectoral digital policy, no broadband plan stated"
+itu-08b48c3e5b,itu,2015,BEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-1ea6020058,itu,2010,BEN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-1edd21084d,itu,2013,BEN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-26629afe2b,itu,2008,BEN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-4928267dae,itu,2014,BEN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-529deca84e,itu,2024,BEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,held as BEN-001
+itu-5d38ba8ca5,itu,2022,BEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-6661dc5aaf,itu,2020,BEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-95b31f8ab3,itu,2011,BEN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-9be4a8da6b,itu,2016,BEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9c52979dd6,itu,2017,BEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-a1566d7278,itu,2007,BEN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-bd4375484c,itu,2009,BEN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-e70389709a,itu,2012,BEN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-ea02422af8,itu,2018,BEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-f9f258c926,itu,2019,BEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-06aaa0e790,itu,2007,BFA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-0d41b5644d,itu,2016,BFA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-1eb36695de,itu,2020,BFA,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-4bc89c377a,itu,2012,BFA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-4fb06811c1,itu,2008,BFA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-54a9abc078,itu,2024,BFA,r36,Regulatory regime: National plan that involves broadband,No,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,contradicted by BFA-001
+itu-5d705633b4,itu,2009,BFA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-7a3ee0ca86,itu,2022,BFA,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-93a6de6986,itu,2011,BFA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-aba159c697,itu,2015,BFA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-aeb4729b98,itu,2017,BFA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c027229b3a,itu,2013,BFA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c7700f7979,itu,2014,BFA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c9af5f958d,itu,2019,BFA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-dc3422d293,itu,2018,BFA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-f9b1b81bec,itu,2010,BFA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-04d5d9d990,itu,2022,BWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-1a6db5fa6b,itu,2008,BWA,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-29e1838b21,itu,2014,BWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-6c38e489c5,itu,2009,BWA,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-735d1eb002,itu,2020,BWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-739e3935ff,itu,2017,BWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9fe1566216,itu,2018,BWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-a376889d00,itu,2012,BWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-a78ef50eb4,itu,2015,BWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ba8f385fd5,itu,2007,BWA,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-c801ada7b6,itu,2013,BWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ca52bb6935,itu,2010,BWA,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-cdcfd66fe8,itu,2016,BWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-dc242c5917,itu,2019,BWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-e025c2e0ae,itu,2011,BWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-e8d5c60d4b,itu,2024,BWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,held as BWA-001
+itu-09fd49a2fd,itu,2018,CAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-14d01a4c4a,itu,2015,CAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-1c4a375480,itu,2022,CAF,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-3d52c7b91d,itu,2017,CAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-42c150b835,itu,2020,CAF,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-568f7a6b34,itu,2014,CAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-70a0acb93a,itu,2019,CAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-72fbcb5048,itu,2009,CAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-7b17333e23,itu,2013,CAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-92618ed21b,itu,2016,CAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-92c48dee17,itu,2011,CAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-a711fef0a8,itu,2010,CAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-b8e595f292,itu,2008,CAF,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-d9785a7f95,itu,2007,CAF,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-f40c092094,itu,2024,CAF,r36,Regulatory regime: National plan that involves broadband,No,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,contradicted by CAF-001
+itu-fb38087219,itu,2012,CAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+aftech-d3c10ffb61,aftech,,CIV,artificial intelligence; broadband internet; broadcasting and multimedia services; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; drones; e-commerce; e-waste; first mile; second mile; last mile; internet resources; postal services; quality of service; smart cities; spectrum and tv white spaces; type approval/end user equipment; universal access,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,National Digital Development Strategy of Ivory Coast,2021,same;same;partial;same;partial;partial;same;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"digital strategy, no broadband target stated; link is a publications listing"
+aftech-77c5deccd1,aftech,,CIV,cybersecurity; data centers and cloud services; data protection; digital identification; digital signatures; e-commerce; postal services; quality of service; smart cities; universal access,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,General Framework for Information Systems Security and the Critical Infrastructure Protection Plan,2021,partial;same;partial;partial;partial;same;partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"security framework, not assessed"
+itu-02177a38a8,itu,2009,CIV,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-03e1ebf493,itu,2018,CIV,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-13ca1fb1e3,itu,2010,CIV,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-1733ba8e77,itu,2017,CIV,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-284d57fb9f,itu,2011,CIV,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3380e092ef,itu,2022,CIV,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3450eece0b,itu,2016,CIV,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-4c7d86b5d2,itu,2020,CIV,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-665e600553,itu,2014,CIV,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-6ae64cf949,itu,2019,CIV,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9fa12746c8,itu,2013,CIV,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-a257df9db3,itu,2024,CIV,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,fact,2026-11-10-ict-regulatory-tracker-2026-11-10,CIV-001,
+itu-a29b697876,itu,2012,CIV,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-aa9a77ef7a,itu,2015,CIV,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ba62ce5f6f,itu,2008,CIV,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-cff2fa372c,itu,2007,CIV,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-041ecf70af,itu,2019,CMR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-07dce20211,itu,2020,CMR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-287feb05e9,itu,2011,CMR,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-2ab4233aaf,itu,2008,CMR,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-4f58c54308,itu,2009,CMR,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-5682cb6460,itu,2018,CMR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-5e1dd757fe,itu,2017,CMR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-63741b03eb,itu,2015,CMR,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-77768170f2,itu,2010,CMR,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-78cc574c05,itu,2013,CMR,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-84cb9eccee,itu,2014,CMR,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-9a668f2c62,itu,2012,CMR,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-9bea377cc7,itu,2007,CMR,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-ab6a1cea7a,itu,2016,CMR,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-c150eae669,itu,2024,CMR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,fact,2026-11-10-ict-regulatory-tracker-2026-11-10,CMR-001,
+itu-e76171eff5,itu,2022,CMR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-017e96f5d6,itu,2012,COD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-03decce561,itu,2008,COD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-0f8eb0871d,itu,2020,COD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-209825950c,itu,2013,COD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-29656b9dad,itu,2018,COD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-413bb1ac3c,itu,2017,COD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-5af309f07f,itu,2024,COD,r36,Regulatory regime: National plan that involves broadband,No,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,a primary states the plan's standing (COD-001)
+itu-5ecb4da2da,itu,2007,COD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-72c3c2626d,itu,2011,COD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-d34f4f9f23,itu,2010,COD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-dc70e47570,itu,2019,COD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-df5a041d37,itu,2016,COD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-e76d4999f3,itu,2022,COD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-ea023cb81a,itu,2014,COD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-eb0ce6358f,itu,2009,COD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-f05a8c501d,itu,2015,COD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-0a23b4d74a,itu,2013,COG,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-1a340a3eaf,itu,2012,COG,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3142726df8,itu,2022,COG,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-37dc145258,itu,2009,COG,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-5323ab1d64,itu,2014,COG,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-705f19a436,itu,2018,COG,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-728d9b3acf,itu,2024,COG,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,fact,2026-11-10-ict-regulatory-tracker-2026-11-10,COG-001,
+itu-741aae3d71,itu,2019,COG,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9f78be6f5b,itu,2008,COG,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-a9012b2509,itu,2010,COG,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-b43f5aa945,itu,2020,COG,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-b88ee18db8,itu,2007,COG,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-bca4818d16,itu,2015,COG,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-e8e66c8b39,itu,2011,COG,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-f2ca04a1b4,itu,2016,COG,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-f83e2fb883,itu,2017,COG,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-05ec2f7ed2,itu,2014,COM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-07e688192e,itu,2008,COM,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-08bca6c609,itu,2013,COM,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-2bd2e89302,itu,2019,COM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-5da91df69c,itu,2015,COM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-5f94db2890,itu,2020,COM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-63e0ffc703,itu,2011,COM,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-738d1a173e,itu,2022,COM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-8083fd5848,itu,2018,COM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-93e3a889ce,itu,2012,COM,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-aaaa1bd3bb,itu,2017,COM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-d0c1d31975,itu,2010,COM,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-d2884c58ad,itu,2007,COM,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-d2cbd54026,itu,2024,COM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,fact,2026-11-10-ict-regulatory-tracker-2026-11-10,COM-001,
+itu-e83f49ef7d,itu,2016,COM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-fca3322d65,itu,2009,COM,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-0d09d6d03d,itu,2016,CPV,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-21d65afbca,itu,2019,CPV,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3d4daf26cc,itu,2012,CPV,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-48aa9c6b4a,itu,2018,CPV,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-6ae4b537e9,itu,2017,CPV,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-7f7aa16362,itu,2011,CPV,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-b939fae1a4,itu,2020,CPV,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c0ebd7756f,itu,2024,CPV,r36,Regulatory regime: National plan that involves broadband,No,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,a primary states the plan's standing (CPV-001)
+itu-cab0c75d38,itu,2022,CPV,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-cf600bc476,itu,2013,CPV,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-d8d4de8e03,itu,2007,CPV,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-df310054cc,itu,2008,CPV,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-e3da6177e3,itu,2009,CPV,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-e4ded40f4e,itu,2010,CPV,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-e6d7420ae4,itu,2014,CPV,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-ff9ad5fd84,itu,2015,CPV,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-1030d36e5b,itu,2013,DJI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-1ba5991f8b,itu,2014,DJI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3b0efd4956,itu,2024,DJI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,held as DJI-001
+itu-49f0375e18,itu,2022,DJI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-4dc87d0755,itu,2012,DJI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-4e5a35b0f9,itu,2008,DJI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-521a3d5ea1,itu,2009,DJI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-73c9c26f4f,itu,2010,DJI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-82a2abd181,itu,2007,DJI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-a1cf6d84e8,itu,2019,DJI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-a8c2b3def9,itu,2015,DJI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ad60a057df,itu,2020,DJI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ad8af9d927,itu,2016,DJI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-b01b1b7d42,itu,2017,DJI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-b6e9fbe0bb,itu,2018,DJI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-dcbc722766,itu,2011,DJI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3d7c59a279,itu,2017,DZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-4fe628aa75,itu,2018,DZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-74ede0c663,itu,2007,DZA,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-765c90d9d9,itu,2015,DZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-77e3e0e927,itu,2014,DZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-7adf33c13f,itu,2012,DZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-8280628b46,itu,2019,DZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-8dd3671f2d,itu,2008,DZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-8fe2b65182,itu,2024,DZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,held as DZA-001
+itu-97433444c6,itu,2016,DZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-a410501e9c,itu,2011,DZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-b170d59aff,itu,2010,DZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-cd4cb34d54,itu,2013,DZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-d9cc4ed6e0,itu,2009,DZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-f20528691b,itu,2020,DZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-f94442014d,itu,2022,DZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+aftech-d525afac09,aftech,,EGY,artificial intelligence; broadband internet; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,Egypt National ArtificiaI Intelligence Strategy,2021,same;same;partial;same;partial;partial;same;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"AI strategy, not a broadband plan"
+aftech-2b817f4c15,aftech,,EGY,first mile; middle mile; last mile; digital identification; cybersecurity; broadcasting; communication; e-commerce; payments; e-government services; digital market regulation; intermediate skills; highly specialized skills; postal services; mobile wallets; broadband internet; artificial intelligence,"Digital Infrastructure, Digital Platforms, Digital Skills / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Basic Skills, Advanced Skills,",Policy,Egypt Digital Transformation Strategy,2021,partial;partial;partial;same;same;same;same;same;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,digital strategy listing states no broadband plan
+aftech-6bca6a7aa0,aftech,,EGY,first mile; middle mile; last mile; digital identification; e-commerce; digital payments; e-government services; postal services; broadband internet; tech hubs,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Basic Skills, Advanced Skills, Digital Entrepreneurship",Policy,Egypt ICT Strategy 2014-2017,2014,partial;partial;same;same;same;same;same,fact,2013-02-18-egy-mcit-national-ict-strategy-2012-2017,EGY-002,
+aftech-474fc0edf1,aftech,,EGY,universal access; broadband internet,"Digital Infrastructure / Invisible Infrastructure, Physical Infrastructure",Policy,Egypt Vision of the Information Society 2003,2003,partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"information society vision, no broadband plan stated"
+itu-0239ecd5fa,itu,2017,EGY,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-210c882446,itu,2007,EGY,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-226142d5c1,itu,2010,EGY,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-40b8e9c132,itu,2015,EGY,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-6005faabf7,itu,2016,EGY,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-7ab92d9072,itu,2018,EGY,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-7e2ed627eb,itu,2019,EGY,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-8040438ec4,itu,2024,EGY,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,held as EGY-001
+itu-87c53c9153,itu,2013,EGY,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-95c82a4cb2,itu,2022,EGY,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9d8b579845,itu,2020,EGY,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-aef7786b6a,itu,2011,EGY,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-bbf3d3b0c0,itu,2012,EGY,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-e14d2145dc,itu,2009,EGY,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-e55e5eec82,itu,2008,EGY,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-eb49c59581,itu,2014,EGY,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-0fa2d9c20f,itu,2007,ERI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-249d19f048,itu,2024,ERI,r36,Regulatory regime: National plan that involves broadband,No,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,a primary states the plan's standing (ERI-001)
+itu-2874b72296,itu,2011,ERI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-30812162e0,itu,2015,ERI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-3372281800,itu,2016,ERI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-57eeccf400,itu,2018,ERI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-5957e45c00,itu,2008,ERI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-65714b8ee4,itu,2009,ERI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-6ae3a35b5b,itu,2019,ERI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-77a50abf1d,itu,2013,ERI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-913bf3ae68,itu,2012,ERI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-cb8e0a505a,itu,2022,ERI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-d84c891a86,itu,2020,ERI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-db17ec57ce,itu,2017,ERI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-dd1703ef4b,itu,2014,ERI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-e006ff56a9,itu,2010,ERI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+aftech-a884652e64,aftech,,ETH,artificial intelligence; broadband internet; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,A National AI Policy Ethiopia,2024,same;same;partial;same;partial;partial;same;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"AI policy, not a broadband plan"
+itu-30f8dd0ec4,itu,2024,ETH,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,fact,2026-11-10-ict-regulatory-tracker-2026-11-10,ETH-001,
+itu-3bdc6e7012,itu,2020,ETH,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-48c93e053e,itu,2009,ETH,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-4f46d5a856,itu,2008,ETH,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-56fe0102f7,itu,2015,ETH,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-5f522775d8,itu,2017,ETH,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-5fe1633dad,itu,2022,ETH,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-632587a028,itu,2014,ETH,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-649d98469f,itu,2012,ETH,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-6c93bb6e53,itu,2010,ETH,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-af5fa47d7b,itu,2007,ETH,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c4e9fe3976,itu,2018,ETH,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-d6c7e93d2f,itu,2013,ETH,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-db07e9b5f5,itu,2016,ETH,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-dbdfbb8a75,itu,2019,ETH,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-dc2c9d3675,itu,2011,ETH,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-0ce6eb68c9,itu,2008,GAB,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-2008a116d6,itu,2013,GAB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-27fac0c183,itu,2010,GAB,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-3092609676,itu,2015,GAB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3d50e78de8,itu,2019,GAB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-66db8540c8,itu,2011,GAB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-693b26d705,itu,2017,GAB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-77c07d5501,itu,2018,GAB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-77e2a56a64,itu,2014,GAB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-98604a64a6,itu,2007,GAB,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-9a2a8f5352,itu,2009,GAB,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-c5f6bcfba9,itu,2020,GAB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c6d8efccee,itu,2012,GAB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-d30abcc1b2,itu,2024,GAB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,a primary states the plan's standing (GAB-001)
+itu-e717dfe288,itu,2022,GAB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-f4035ef957,itu,2016,GAB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+aftech-693d249da3,aftech,,GHA,artificial intelligence; broadband internet; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,Republic of Ghana National Artificial Intelligence Strategy: 2023-2033,2022,same;same;partial;same;partial;partial;same;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"AI strategy, not assessed by this study"
+aftech-dac29e7f52,aftech,,GHA,broadband internet; first mile; second mile; last mile,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,National Broadband Internet Policy and Implementation Strategy,2012,same,nothing,2024-10-01-gha-csa-national-cybersecurity-policy-and-strategy,,held as GHA-001
+aftech-70a0acd70e,aftech,,GHA,broadband internet; first mile; second mile; last mile; internet resources; quality of service; universal access,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,National Telecommunications Policy,2004,same,nothing,2005-01-10-gha-moc-national-telecommunications-policy,,"a general telecommunications policy, no broadband plan stated"
+aftech-7e23425e20,aftech,,GHA,universal access,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,The Ghana ICT for Accelerated Development (ICT4D) Policy,2003,partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"general ICT4AD policy of 2003, no broadband plan or targets stated"
+itu-0834f643a8,itu,2016,GHA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-0debae83a9,itu,2019,GHA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-1f2c1a08d0,itu,2007,GHA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-1f8c197277,itu,2020,GHA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-26980a5db9,itu,2012,GHA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-2a787fa6b9,itu,2017,GHA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-2f031014f2,itu,2014,GHA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-34b12fedb6,itu,2013,GHA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3a2a76c873,itu,2009,GHA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-541f1a054f,itu,2008,GHA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-5874f61cb6,itu,2011,GHA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-61d0762cf6,itu,2010,GHA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-69e31ad6db,itu,2018,GHA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-7ab29638bd,itu,2022,GHA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-988a22ddb5,itu,2024,GHA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,held as GHA-001
+itu-ddeb731d62,itu,2015,GHA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-217e18ba30,itu,2012,GIN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-2692a63e9f,itu,2019,GIN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-45c6bc94a4,itu,2013,GIN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-45e4f50ee5,itu,2011,GIN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-5284bfb412,itu,2016,GIN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-58e6319e17,itu,2024,GIN,r36,Regulatory regime: National plan that involves broadband,No,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"ITU's ""no"" does not say none is being written, which stage 1 needs"
+itu-614d528912,itu,2022,GIN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-7127c4445a,itu,2009,GIN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-8678e06e7c,itu,2015,GIN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-8b9335b629,itu,2014,GIN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9375f305bd,itu,2010,GIN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-954da31190,itu,2020,GIN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9dce2245ab,itu,2017,GIN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ab882d1823,itu,2018,GIN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-b490a74092,itu,2008,GIN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-f7203f49c9,itu,2007,GIN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+aftech-63c937a778,aftech,,GMB,artificial intelligence; broadband internet; broadcasting and multimedia services; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; drones; e-commerce; e-waste; first mile; second mile; last mile; internet resources; postal services; quality of service; smart cities; spectrum and tv white spaces; type approval/end user equipment; universal access,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,ICT4D Policy Statement 2018–2028,2018,same;same;partial;same;partial;partial;same;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"general ICT4D policy, no broadband plan or targets stated"
+aftech-be4230341e,aftech,,GMB,artificial intelligence; broadband internet; broadcasting and multimedia services; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; drones; e-commerce; e-waste; first mile; second mile; last mile; internet resources; postal services; quality of service; smart cities; spectrum and tv white spaces; type approval/end user equipment; universal access,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,Human Capital Development Strategy 2021-2024,2021,same;same;partial;same;partial;partial;same;partial;same,nothing,2020-10-01-gmb-moici-ict-human-capital-development-strategy-2021-2024,,"human capital strategy, not a broadband plan"
+aftech-607a2a6aed,aftech,,GMB,artificial intelligence; broadband internet; broadcasting and multimedia services; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; drones; e-commerce; e-waste; first mile; second mile; last mile; internet resources; postal services; quality of service; smart cities; spectrum and tv white spaces; universal access,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,National Digital Economy Masterplan 2024 - 2034,2024,same;same;partial;same;partial;partial;same;partial;same,read-before,2024-01-01 Gambia National Digital Economy Master Plan 2024-2034,,"reading list 15, already read for this study"
+aftech-9700e32794,aftech,,GMB,artificial intelligence; broadband internet; broadcasting and multimedia services; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce; e-waste; first mile; second mile; last mile; internet resources; quality of service; smart cities; spectrum and tv white spaces; type approval/end user equipment; universal access,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills, Technological Hubs",Policy,The Gambia ICT for Development (ICT4D) Policy Statement (2018-2028),2018,same;same;partial;same;partial;partial;same;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"general ICT4D policy, no broadband plan or targets stated"
+aftech-9b51826d30,aftech,,GMB,artificial intelligence; broadband internet; broadcasting and multimedia services; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce; e-waste; first mile; second mile; last mile; internet resources; quality of service; smart cities; spectrum and tv white spaces; type approval/end user equipment; universal access,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,The Gambia ICT4D Policy Statement 2018-2028,2018,same;same;partial;same;partial;partial;same;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"general ICT4D policy, no broadband plan or targets stated"
+aftech-e9bf0b4a38,aftech,,GMB,broadband internet; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; universal access,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,National Broadband Internet Policy 2020 - 2024,2020,same;partial;same;partial;partial;same;partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,held as GMB-001
+aftech-a18ffcc10b,aftech,,GMB,broadband internet; e-commerce; last mile,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,Private Sector Development and Empowerment Strategy 2021-2024,2021,same;same,nothing,2020-10-01-gmb-moici-private-sector-development-empowerment-strategy-2021-2024,,"private sector strategy, not a broadband plan"
+aftech-88a0d1c499,aftech,,GMB,broadband internet; last mile,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,The Gambia Broadband Internet Policy 2020 and National Broadband Internet Strategic Plan 2020-2024,2020,same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,held as GMB-001
+aftech-97bd43cb6f,aftech,,GMB,broadband internet; last mile,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,National Broadband Internet Strategy 2020-2024,2020,same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,held as GMB-002
+aftech-c8aaeeede8,aftech,,GMB,broadband internet; last mile,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,Broadband Internet Strategic Plan 2020–2024,2020,same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,held as GMB-002
+aftech-d4ceaa0db6,aftech,,GMB,broadband internet; last mile,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,National Fiber Protection Policy 2023,2023,same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"fibre protection policy, not a broadband plan"
+aftech-dae6583f28,aftech,,GMB,broadband internet; last mile,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,Data Protection and Privacy Policy and Strategy,2019,same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"data protection policy, not assessed"
+aftech-e8222b68b2,aftech,,GMB,broadband internet; last mile,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,The Gambia’s E-Government Strategic Plan 2020–2024,2020,same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"e-government plan, not a broadband plan"
+aftech-43dee59481,aftech,,GMB,data centers and cloud services; broadband internet; last mile,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,National Information & Communication Infrastructure (NICI) Policy and Plans for The Gambia (First Sector Policy),2004,same;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"2004 ICT infrastructure policy, no broadband plan stated"
+aftech-86f8cda9e5,aftech,,GMB,data centers and cloud services; broadband internet; last mile,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,Government Email Policy 2023 - 2027,2023,same;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"government email policy, not assessed"
+aftech-aded7b2b36,aftech,,GMB,data centers and cloud services; broadband internet; last mile,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,Government Cloud Policy 2023,2023,same;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"government cloud policy, not assessed"
+aftech-dcaac73f63,aftech,,GMB,data centers and cloud services; universal access,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,"Strategy For Promoting Technology-Enabled Education (TEE) & Science, Technology And Innovation (STI) 2021-2024",2021,same;partial,nothing,2020-10-01-gmb-moici-technology-enabled-education-sti-strategy-2021-2024,,"education and STI strategy, not a broadband plan"
+aftech-7f3ae9d75d,aftech,,GMB,digital identification; data centers and cloud services; quality of service; universal access,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,Government Cloud Implementation Plan 2023,2023,partial;same;partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"government cloud plan, not assessed"
+aftech-a75992d665,aftech,,GMB,digital identification; data centers and cloud services; quality of service; universal access,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,Government Open Data Strategy 2024 -2027,2024,partial;same;partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"open data strategy, not assessed"
+aftech-f83a7e9c0d,aftech,,GMB,digital identification; data centers and cloud services; quality of service; universal access,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,Government Cloud Strategy 2023,2023,partial;same;partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"government cloud strategy, not assessed"
+aftech-76345d0ec4,aftech,,GMB,digital identification; e-commerce; smart cities; data protection; universal access; quality of service; digital payments,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,National Digital Addressing Policy 2023,2023,partial;same;partial;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"digital addressing policy, not assessed"
+aftech-0081ece89e,aftech,,GMB,digital identification; quality of service; universal access,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,E-Government Strategy 2003,2003,partial;partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"e-government strategy, not a broadband plan"
+aftech-cd53c9aa2e,aftech,,GMB,digital identification; quality of service; universal access,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,National Digital ID Strategy 2024,2024,partial;partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"digital ID strategy, not assessed"
+aftech-6d50a276c9,aftech,,GMB,digital identification; quality of service; universal access; e-commerce,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,Strategy For Youth and Women Development and Empowerment Through ICTs 2021-2024,2021,partial;partial;same,nothing,2020-10-01-gmb-moici-youth-women-development-empowerment-icts-strategy-2021-2024,,"youth and women strategy, not a broadband plan"
+aftech-60a9aaa9b9,aftech,,GMB,e-commerce; digital identification; quality of service; universal access,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,Gambia E-Government Strategic Plan 2020-2024,2020,same;partial;partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"e-government plan, not a broadband plan"
+aftech-c733b2e606,aftech,,GMB,e-commerce; digital identification; quality of service; universal access,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,The Gambia E-Government Implementation Strategy and Action Plan,2023,same;partial;partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"e-government strategy, not a broadband plan"
+aftech-c8f8db0007,aftech,,GMB,e-commerce; digital identification; quality of service; universal access,"Digital Infrastructure, Digital Platforms / Invisible Infrastructure, Digital Government, Digital Business",Policy,The E-Agriculture Development and Modernization Strategy (E-ADM) 2021-2024,2021,same;partial;partial,nothing,2021-05-01-gmb-moici-e-agriculture-development-modernization-strategy-2021-2024,,"e-agriculture strategy, not a broadband plan"
+aftech-cda97abd6a,aftech,,GMB,universal access,"Digital Infrastructure, Digital Platforms, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Technological Hubs, Digital Entrepreneurship",Policy,Universal Access and Service Policy 2020,2020,partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"universal access policy, not a broadband plan"
+aftech-d4856bddb4,aftech,,GMB,universal service,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Business, Digital Financial Services",Policy,Gambia Universal Access and Service Policy - Succeeded by the 2020 National Broadband Internet Policy,2020,partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"universal access policy, not a broadband plan; the broadband policy that succeeded it is held as GMB-001"
+itu-087e03af6d,itu,2015,GMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-0fdf669556,itu,2017,GMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-14b97ebdbb,itu,2009,GMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-1f11c9bf08,itu,2019,GMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-20d8581bf0,itu,2022,GMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-2f450f66e0,itu,2013,GMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-566087d7e5,itu,2011,GMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-7235d222dc,itu,2018,GMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-74ec86b3b8,itu,2010,GMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-76edec63e5,itu,2008,GMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-8e96927e02,itu,2016,GMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c06a801931,itu,2024,GMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,held as GMB-001
+itu-d4406b1f93,itu,2007,GMB,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-e327b62547,itu,2020,GMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ed264dbf2c,itu,2012,GMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-f41cbfcf72,itu,2014,GMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-01d7196289,itu,2012,GNB,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-0e99689563,itu,2024,GNB,r36,Regulatory regime: National plan that involves broadband,No,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,a primary states the plan's standing (GNB-001)
+itu-245b5886d8,itu,2018,GNB,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-27061bc46e,itu,2020,GNB,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-4239522a8d,itu,2017,GNB,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-4526923436,itu,2007,GNB,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-4c923edf97,itu,2022,GNB,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-5249468e80,itu,2014,GNB,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-600004cbc6,itu,2019,GNB,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-6e5119eaf6,itu,2008,GNB,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-7f81f6aca3,itu,2016,GNB,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-b37a169361,itu,2009,GNB,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-b404ab7510,itu,2013,GNB,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-d7ac26c748,itu,2010,GNB,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-e665f3e3db,itu,2015,GNB,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-e82fa05ad6,itu,2011,GNB,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-1d4f608884,itu,2015,GNQ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-30016394e0,itu,2011,GNQ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3431fc0ad8,itu,2020,GNQ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-39f50c668e,itu,2017,GNQ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-52a036b494,itu,2018,GNQ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-5c1a613f7c,itu,2008,GNQ,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-7d84fe454f,itu,2007,GNQ,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-8897fdd47e,itu,2022,GNQ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-890d1448ad,itu,2013,GNQ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-a1be3b16bf,itu,2019,GNQ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-a63bb3adcd,itu,2009,GNQ,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-a94aec0fd1,itu,2024,GNQ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,a primary states the plan's standing (GNQ-002)
+itu-bba93753b7,itu,2016,GNQ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c9528f7fe0,itu,2014,GNQ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ca202100f2,itu,2010,GNQ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-e87c2c3d92,itu,2012,GNQ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+aftech-1ec91bfc2c,aftech,,KEN,artificial intelligence; broadband internet; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,Kenya Artificial Intelligence Strategy 2025-2030,2025,same;same;partial;same;partial;partial;same;partial;same,nothing,2025-01-01-kenya-national-ai-strategy-2025-2030-draft-for-public-validation,,"AI strategy, not assessed by this study"
+aftech-1bc557041a,aftech,,KEN,universal access,"Digital Infrastructure, Digital Platforms, Digital Innovation, Digital Skills / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Financial Services, Basic Skills, Advanced Skills, Digital Entrepreneurship, Innovation Hubs",Policy,The Kenyan National Digital Master Plan (2022-2032),2022,partial,nothing,2022-01-01-ken-national-digital-master-plan-2022-2032,,"a digital master plan; its 100,000km fibre flagship is held as KEN-001"
+itu-0525b73b9a,itu,2022,KEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-1fb01f56b2,itu,2018,KEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3f567a9107,itu,2007,KEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-40c527ca9f,itu,2019,KEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-4fefea67af,itu,2012,KEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-5cdc9aa1c1,itu,2013,KEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-6916813d1e,itu,2010,KEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-72be18ea5c,itu,2017,KEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-88294eed4d,itu,2016,KEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-972d3bcd6a,itu,2008,KEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-afb6ca6fd0,itu,2014,KEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ba43b43e1b,itu,2020,KEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c9a19685a0,itu,2009,KEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-d80d2162d4,itu,2024,KEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,held as KEN-005
+itu-d8ccf3a1dd,itu,2015,KEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ff0a1e7d38,itu,2011,KEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-038e0672cd,itu,2012,LBR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-11e4e1dac3,itu,2010,LBR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3e164f64c9,itu,2017,LBR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-6180455462,itu,2007,LBR,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-6257b7907c,itu,2022,LBR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-6a9a008c60,itu,2020,LBR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-75dc0bd2fa,itu,2015,LBR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-78199a09e3,itu,2024,LBR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,fact,2026-11-10-ict-regulatory-tracker-2026-11-10,LBR-001,
+itu-96b28154a9,itu,2018,LBR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c6e44c347c,itu,2016,LBR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-cde29401ca,itu,2013,LBR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-e433862951,itu,2014,LBR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ee0341d531,itu,2008,LBR,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-f073dd606c,itu,2009,LBR,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-f1f8620efe,itu,2011,LBR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-f39d92825a,itu,2019,LBR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+aftech-ac3746fa12,aftech,,LBY,artificial intelligence; broadband internet; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,Artificial Intelligence National Policy,2024,same;same;partial;same;partial;partial;same;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"AI policy, not assessed by this study"
+itu-078d8f1151,itu,2011,LBY,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-20c6b02cb3,itu,2018,LBY,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-2711416e9b,itu,2020,LBY,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-329cd553d3,itu,2013,LBY,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-4e450e783e,itu,2017,LBY,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-602b384ab7,itu,2012,LBY,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-74cd75ebe4,itu,2015,LBY,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-7576954b3a,itu,2014,LBY,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-867655afa5,itu,2010,LBY,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-8e7d0cfa22,itu,2019,LBY,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-982a8c6f28,itu,2024,LBY,r36,Regulatory regime: National plan that involves broadband,No,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"ITU's ""no"" does not say none is being written, which stage 1 needs"
+itu-9ace6767a1,itu,2007,LBY,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-a82c09391c,itu,2008,LBY,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-e20090eb92,itu,2016,LBY,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-e2801fd1b9,itu,2022,LBY,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-fc2ed969cc,itu,2009,LBY,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+aftech-c9eedc61c3,aftech,,LSO,artificial intelligence; broadband internet; broadcasting and multimedia services; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce,"Digital Infrastructure, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,Research and Innovation Policy,2021,same;same;partial;same;partial;partial;same;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"research and innovation policy, not assessed"
+aftech-43efae4fc5,aftech,,LSO,broadband internet; data protection; digital payments; first mile; second mile; last mile; internet resources; quality of service; universal access,"Digital Infrastructure, Digital Platforms, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Technological Hubs, Digital Entrepreneurship",Policy,National Digital Transformation Strategy,2024,same;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"digital transformation strategy, no broadband plan or targets stated"
+aftech-5de4eaca5a,aftech,,LSO,broadcasting and multimedia services; postal services; broadband internet,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,National Communications Policy,2008,same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"2008 general communications policy, no broadband plan stated"
+itu-0fc0b6779e,itu,2016,LSO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-1725809b20,itu,2018,LSO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3def2b523c,itu,2022,LSO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-4408db8d1c,itu,2012,LSO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-45b91f0387,itu,2020,LSO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-46d0555450,itu,2013,LSO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-4ca61ddbbe,itu,2024,LSO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,a primary states the plan's standing (LSO-001)
+itu-77fcbe6588,itu,2009,LSO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9dd45e10ac,itu,2014,LSO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-b9bf7f4d16,itu,2008,LSO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-d2433cb512,itu,2015,LSO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-d25023fcbc,itu,2010,LSO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-dd2a76e41d,itu,2017,LSO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-e67f43aeb7,itu,2007,LSO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ed302e50aa,itu,2019,LSO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-fb6a422d51,itu,2011,LSO,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-257ed3ba88,itu,2010,MAR,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-426a37d660,itu,2024,MAR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,held as MAR-003
+itu-6557bde516,itu,2013,MAR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-6e1de8b1a1,itu,2016,MAR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-77ab2e91c9,itu,2018,MAR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-7e79eac06f,itu,2011,MAR,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-7eeb4df0bb,itu,2022,MAR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9639dca883,itu,2019,MAR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-a4d4a056ff,itu,2007,MAR,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-a4e6bdd837,itu,2008,MAR,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-afc878b606,itu,2015,MAR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-b08f3fd628,itu,2009,MAR,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-b8ce9aa5f5,itu,2017,MAR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c98cb954e6,itu,2020,MAR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-db5c872108,itu,2012,MAR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-fadd31d0db,itu,2014,MAR,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3430a8bbf6,itu,2019,MDG,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3694a778d9,itu,2007,MDG,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-5327a1b0c8,itu,2012,MDG,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-631c162857,itu,2010,MDG,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-65a4452b84,itu,2022,MDG,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-70d39031d9,itu,2018,MDG,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-82d3bd8a32,itu,2015,MDG,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-8a2831990f,itu,2014,MDG,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-9c2f3a7806,itu,2020,MDG,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-bc916ebabf,itu,2016,MDG,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-cad0dcf335,itu,2017,MDG,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-d98859e591,itu,2024,MDG,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,fact,2026-11-10-ict-regulatory-tracker-2026-11-10,MDG-001,
+itu-dc241eb19e,itu,2008,MDG,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-ef8e5f50a0,itu,2009,MDG,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-f1c7c85299,itu,2011,MDG,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-f56c498ff9,itu,2013,MDG,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+aftech-c3467bf0cb,aftech,,MLI,broadband internet; broadcasting and multimedia services; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; drones; e-commerce; e-waste; first mile; second mile; last mile; internet resources; postal services; quality of service; smart cities; spectrum and tv white spaces; universal access,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,National Strategy for the Development of the Digital Economy,2015,same;partial;same;partial;partial;same;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"digital economy strategy, no broadband plan stated"
+itu-126609107a,itu,2011,MLI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-1a8a6c8f8b,itu,2007,MLI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-49a18c8a74,itu,2010,MLI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-5bec8d5666,itu,2020,MLI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-75f899ef56,itu,2015,MLI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-945781a9ed,itu,2017,MLI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-aedf41dee6,itu,2019,MLI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ce3fc284d6,itu,2012,MLI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-d0046a3cee,itu,2008,MLI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-e496a9f98c,itu,2009,MLI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-e835941eb4,itu,2016,MLI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-f03cb44632,itu,2022,MLI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-f15039a712,itu,2018,MLI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-f59a95bb38,itu,2024,MLI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,a primary states the plan's standing (MLI-003)
+itu-f695a051b2,itu,2014,MLI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-fdf3c8759b,itu,2013,MLI,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+aftech-19ed36a8a9,aftech,,MOZ,broadband internet; broadcasting and multimedia services; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; universal access,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,ICT Policy,2000,same;partial;same;partial;partial;same;partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"2000 ICT policy, no broadband plan stated"
+aftech-c5915ed048,aftech,,MOZ,broadband internet; cybersecurity; data centers and cloud services; e-commerce; last mile; universal access,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,Information Society Policy,2018,same;partial;same;same,nothing,2018-06-21-moz-resolucao-17-2018-politica-sociedade-informacao,,"information society policy, no broadband plan in the primary"
+itu-1c266cf036,itu,2007,MOZ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-22066a6d29,itu,2019,MOZ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-240be6fcea,itu,2014,MOZ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-2dcda2b746,itu,2020,MOZ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-2f070f39c1,itu,2011,MOZ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-30db2793b7,itu,2024,MOZ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,a primary states the plan's standing (MOZ-001)
+itu-35dcda0c2c,itu,2013,MOZ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3932f05273,itu,2022,MOZ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3ca0c1537b,itu,2008,MOZ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-4d9ca81118,itu,2012,MOZ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-55d5822083,itu,2010,MOZ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-5a6f430a9b,itu,2018,MOZ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-b4665c5cc7,itu,2017,MOZ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c4e207c514,itu,2015,MOZ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-e5eace47c8,itu,2016,MOZ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-eb4b8f2590,itu,2009,MOZ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+aftech-6ce4ed2af1,aftech,,MRT,artificial intelligence; broadband internet; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,National Strategy for Artificial Intelligence,2024,same;same;partial;same;partial;partial;same;partial;same,nothing,2024-07-01-strategie-nationale-intelligence-artificielle-ar,,"AI strategy, not a broadband plan"
+aftech-4a991548bc,aftech,,MRT,broadband internet; broadcasting and multimedia services; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce; first mile; second mile; last mile; internet resources; postal services; quality of service; spectrum and tv white spaces; universal access,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,National Digital Transformation Agenda 2022-2025,2022,same;partial;same;partial;partial;same;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"digital transformation agenda, no broadband plan stated"
+aftech-ef3477e5b9,aftech,,MRT,digital identification; quality of service; universal access,"Digital Infrastructure, Digital Platforms, Digital Skills / Invisible Infrastructure, Digital Government, Digital Financial Services, Basic Skills, Advanced Skills",Policy,Administration Modernization Strategy,2024,partial;partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"administration modernization strategy, not a broadband plan"
+itu-165b5f0ca9,itu,2011,MRT,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-30d413fba9,itu,2020,MRT,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-38f07bede9,itu,2007,MRT,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3a7d0d8b72,itu,2018,MRT,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3cc85abd47,itu,2008,MRT,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-40e68be647,itu,2022,MRT,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-665ec65b7a,itu,2009,MRT,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-7f27899fcd,itu,2017,MRT,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-966a67b4b6,itu,2013,MRT,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9d7a4307f6,itu,2012,MRT,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9e4aeb51f9,itu,2016,MRT,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-bd6530b4df,itu,2024,MRT,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,a primary states the plan's standing (MRT-001)
+itu-c4ae24c33c,itu,2019,MRT,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-d8a27dd98b,itu,2014,MRT,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-da0459d7c1,itu,2010,MRT,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-e24c1d5089,itu,2015,MRT,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+aftech-8440e7bab4,aftech,,MUS,artificial intelligence; broadband internet; broadcasting and multimedia services; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,Digital Mauritius 2030 strategic plan,2018,same;same;partial;same;partial;partial;same;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"digital strategic plan, no broadband targets stated"
+aftech-ba65dc1ffc,aftech,,MUS,broadband internet; first mile; middle mile; last mile; e-government services,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Basic Skills, Advanced Skills, Digital Entrepreneurship",Policy,National Broadband Policy 2012-2020,2012,same;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,held as MUS-001
+aftech-ad332968ca,aftech,,MUS,cybersecurity; data centers and cloud services; data protection; universal access,"Digital Infrastructure, Digital Platforms / Invisible Infrastructure, Digital Government",Policy,National Cyber Security Strategy 2023-2026,2023,partial;same;partial;partial,nothing,2023-01-01-mus-national-cybersecurity-strategy-2023-2026-for-a-more-secure-and-resili,,"cybersecurity strategy, not a broadband plan"
+aftech-169d6c7e2b,aftech,,MUS,e-government services; broadband internet,"Digital Infrastructure, Digital Platforms / Invisible Infrastructure, Physical Infrastructure, Digital Business",Policy,MTCI Anti-corruption Policy,2015,same;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"anti-corruption policy, not a broadband plan"
+aftech-30cca441c0,aftech,,MUS,e-government services; e-commerce; digital payments; cybersecurity; e-health; e-agriculture; universal access,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Financial Services, Basic Skills, Advanced Skills, Digital Entrepreneurship",Policy,Mauritius E-Government Strategy(2013-2017),2013,same;same;same;partial;partial;partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"e-government strategy, not a broadband plan"
+itu-0998b10d65,itu,2011,MUS,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-160c8d401c,itu,2008,MUS,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-3d6dcd23cb,itu,2019,MUS,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-41b67cb798,itu,2014,MUS,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-4990af12e2,itu,2020,MUS,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-555dbb6390,itu,2016,MUS,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-6356764e58,itu,2010,MUS,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-762a708f81,itu,2009,MUS,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-7d6871e717,itu,2018,MUS,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-8f8eb65734,itu,2024,MUS,r36,Regulatory regime: National plan that involves broadband,No,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,a primary states the plan's standing (MUS-001)
+itu-9164cf48d4,itu,2015,MUS,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ac7afc3bfa,itu,2017,MUS,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ca6ce15a93,itu,2012,MUS,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-cd69b29f47,itu,2022,MUS,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-e29fd8761b,itu,2013,MUS,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-e5164277c6,itu,2007,MUS,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-0b06bd6b04,itu,2011,MWI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-244e3b7564,itu,2008,MWI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-25b3a8583c,itu,2013,MWI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-2d3aad4d50,itu,2009,MWI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-57f2c191f4,itu,2010,MWI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-597d31286b,itu,2024,MWI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,a primary states the plan's standing (MWI-001)
+itu-63a796f2b9,itu,2019,MWI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-7cb4ec816f,itu,2014,MWI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-8a5ef64622,itu,2017,MWI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-96ef493c1f,itu,2018,MWI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9f751cf148,itu,2007,MWI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c94fb896f5,itu,2012,MWI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-d1e29662be,itu,2016,MWI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-d312a28e8d,itu,2020,MWI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-f78b229e8d,itu,2022,MWI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-fd94644f6b,itu,2015,MWI,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+aftech-0c2ae2f588,aftech,,NAM,broadband internet,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,National Broadband Internet Policy,2019,same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,held as NAM-001
+itu-04cf67124a,itu,2024,NAM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,held as NAM-001
+itu-532e9ff44a,itu,2013,NAM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-68c4dc2d0b,itu,2014,NAM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-6bc147de9b,itu,2017,NAM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-6bc7641a68,itu,2018,NAM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-6f8d966dc7,itu,2016,NAM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-7f7b6f1cb5,itu,2008,NAM,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-90d238614d,itu,2010,NAM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-956201df33,itu,2011,NAM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9836376905,itu,2007,NAM,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-a0996c19e9,itu,2022,NAM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-a890420ccc,itu,2019,NAM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c1f555d5ac,itu,2015,NAM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-d7b0a997d4,itu,2020,NAM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-e61e5cef48,itu,2012,NAM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-fc43efd5ab,itu,2009,NAM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-069017ca39,itu,2015,NER,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-0fc4cd523a,itu,2008,NER,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-10d655c37d,itu,2009,NER,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-17267e8b2b,itu,2010,NER,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-220439e238,itu,2007,NER,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3df30c6308,itu,2018,NER,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-60d9ef878a,itu,2019,NER,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-66dc099cd8,itu,2011,NER,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-67033a7bd9,itu,2017,NER,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-776572a312,itu,2016,NER,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-ab13d6d5dd,itu,2024,NER,r36,Regulatory regime: National plan that involves broadband,No,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"ITU's ""no"" does not say none is being written, which stage 1 needs"
+itu-b5b4fdbf83,itu,2022,NER,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-d97e8a81ee,itu,2013,NER,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-f107ebbb31,itu,2014,NER,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-f3110e9c60,itu,2020,NER,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-fa4e447407,itu,2012,NER,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+aftech-3f02eb4a08,aftech,,NGA,broadcasting and multimedia; broadband internet; cybersecurity; data centers and cloud services; data protection; digital identification; internet resources; smart cities; universal access,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Invisible Infrastructure, Digital Government, Basic Skills, Technological Hubs, Digital Entrepreneurship",Policy,"Ministry of Communications, Innovation and Digital Economy Strategic Plan/Blueprint",2023,same;partial;same;partial;partial,fact,2023-10-01-nga-fmcide-strategic-blueprint-2023-2027,NGA-013,
+aftech-db9e0c335d,aftech,,NGA,e-government services; e-commerce; broadband internet; inclusivity; data centers; data protection; cybersecurity; big data; artificial intelligence; blockchain; machine learning; virtual and augmented reality; internet of things,"Digital Infrastructure, Digital Skills, Digital Innovation, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Basic Skills, Advanced Skills, Digital Entrepreneurship, Innovation, Financial Services",Policy,National Digital Economy Policy 2020-2030,2020,same;same;same;partial;partial;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"digital economy policy, line states no broadband plan"
+aftech-7f03527caa,aftech,,NGA,highly specialized skills; broadband internet; satellite; tvet,"Digital Infrastructure, Digital Skills / Physical Infrastructure, Advanced Skills, Invisible Infrastructure",Policy,National Policy on VSAT Satellite Core Skills 2021,2021,same;same;same,fact,2021-03-01-nga-fmcde-national-policy-vsat-installation-core-skills,NGA-014,
+aftech-e2ec879134,aftech,,NGA,last mile; broadband internet; spectrum and tv white spaces; startups,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Digital Business, Digital Government, Invisible Infrastructure, Digital Entrepreneurship, Basic Skills",Policy,Nigerian National Broadband Strategic Plan,2020,same;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,held as NGA-005
+aftech-2f846acbc8,aftech,,NGA,universal access; artificial intelligence; internet of things; blockchain; startups; e-government services; e-commerce; foundational; intermediate; highly specialized; tech hubs; broadcasting; communication; spectrum and tv white spaces,"Digital Infrastructure, Digital Innovation, Digital Skills, Digital Platforms / Invisible Infrastructure, Physical Infrastructure, Basic, Advanced, Digital Business, Digital Business, Digital Entrepreneurship, Innovation, Digital Government",Policy,Accelerating Our Collective Prosperity through Technical Efficiency,2023,partial;same;same;same;same;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"ministry strategic plan, line states nothing on broadband; read as document 74"
+itu-06d779a7b3,itu,2015,NGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-0a8f80296f,itu,2022,NGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-0bbae96e95,itu,2019,NGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-1bd71c0977,itu,2020,NGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-22a12d7796,itu,2009,NGA,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-276cad821f,itu,2008,NGA,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-2c65e1c69d,itu,2024,NGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,held as NGA-005
+itu-303b34ff2f,itu,2013,NGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-5441f7b084,itu,2007,NGA,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-6d1b2379bb,itu,2011,NGA,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-971ccc7474,itu,2010,NGA,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-a524665db6,itu,2018,NGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c20442178c,itu,2017,NGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ca787ee36b,itu,2014,NGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-e13aeca15b,itu,2016,NGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-e406f71b18,itu,2012,NGA,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+aftech-a7c708eeed,aftech,,RWA,artificial intelligence; broadband internet; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce,"Digital Infrastructure, Digital Platforms / Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services",Policy,AI Playbook for Small States,2024,same;same;partial;same;partial;partial;same;partial;same,nothing,2024-09-22-xgl-digital-foss-ai-playbook-for-small-states,,"AI playbook, no Rwandan broadband plan stated"
+aftech-9fe1a3d9ba,aftech,,RWA,data protection; digital identification; digital payments; digital signatures; e-commerce; last mile; internet resources; quality of service; universal access; smart cities,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,Smart Rwanda 2020 Master Plan,2015,partial;partial;same;partial;same;partial,nothing,2015-10-01-rwa-smart-rwanda-2020-master-plan,,passages state nothing on a broadband plan
+aftech-c7f1440c77,aftech,,RWA,last mile; intermediate skills; broadband internet; digital market regulation; satellite; spectrum and tv white spaces; cybersecurity; foundational skills,"Digital Infrastructure, Digital Skills / Physical Infrastructure, Invisible Infrastructure, Basic Skills",Policy,National Broadband Policy and Strategy 2022,2022,same;same;same;partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,held as RWA-001
+aftech-213864e897,aftech,,RWA,last mile; intermediate skills; open access; interconnectivity; broadband internet,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,National Broadband Policy 2013,2013,same;same,fact,2013-10-01-national-broadband-policy-2013,RWA-002,
+aftech-1158490699,aftech,,RWA,universal access,"Digital Infrastructure, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,An Integrated ICT-led Socio-Economic Development Policy and Plan for Rwanda (2001-2006),2001,partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"general ICT plan 2001-2006, no broadband plan stated"
+aftech-7d12e7be70,aftech,,RWA,universal access,"Digital Infrastructure, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,An Integrated ICT-led Socio-Economic Development Plan for Rwanda (2006-2010),2006,partial,nothing,2006-01-01-rwa-nici-2010-ict-led-socio-economic-development-plan,,passages state nothing on a broadband plan
+itu-127db6ff52,itu,2015,RWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-1a1d0c9abc,itu,2017,RWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-29785e1f51,itu,2016,RWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-2b520c541c,itu,2024,RWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,held as RWA-001
+itu-3c92fa89a6,itu,2007,RWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-47e68d3bcc,itu,2020,RWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-4df2ac9ccf,itu,2011,RWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-4ff22b669b,itu,2008,RWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-5335a1e487,itu,2022,RWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-75f88a17b0,itu,2014,RWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-8ac595026a,itu,2019,RWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c338211d6a,itu,2009,RWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c740b770a9,itu,2018,RWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-d24ac610ed,itu,2012,RWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-d8a9ac52a9,itu,2010,RWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-f6e6b45500,itu,2013,RWA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-14ee4ba19f,itu,2010,SDN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-19692d51ae,itu,2017,SDN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-26703e78b9,itu,2014,SDN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-2a51276988,itu,2020,SDN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-3ded257aa3,itu,2015,SDN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-61317adbc4,itu,2013,SDN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-6134d9ed0e,itu,2012,SDN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-69a1d212e3,itu,2009,SDN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-7f1460d7f7,itu,2018,SDN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-837db7329c,itu,2008,SDN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-918e65a835,itu,2024,SDN,r36,Regulatory regime: National plan that involves broadband,No,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"ITU's ""no"" does not say none is being written, which stage 1 needs"
+itu-92edd5e42c,itu,2022,SDN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-9832b52ec8,itu,2007,SDN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-a389d81e1e,itu,2019,SDN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-a99e12c50a,itu,2011,SDN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-cac3ab8493,itu,2016,SDN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+aftech-77b11a17c0,aftech,,SEN,artificial intelligence; broadband internet; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,Artificial Intelligence Development Strategy,2023,same;same;partial;same;partial;partial;same;partial;same,nothing,2023-01-01-sen-mcten-strategie-nationale-ia-2028-version-resumee,,"AI strategy, states nothing on a broadband plan"
+itu-2752d78d47,itu,2015,SEN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-2f0023caf2,itu,2012,SEN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-30751792a3,itu,2013,SEN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-34e2831988,itu,2014,SEN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-3c9aee7fd3,itu,2010,SEN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-638d5550ea,itu,2007,SEN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-66a63193e6,itu,2018,SEN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-6b84357dea,itu,2020,SEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-823ebcbc5c,itu,2024,SEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,a primary states the plan's standing (SEN-001)
+itu-98312301a3,itu,2016,SEN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-9b841f46da,itu,2009,SEN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-a0423ea758,itu,2011,SEN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-ca6a66f7ed,itu,2017,SEN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-d5b7c71287,itu,2008,SEN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-e4864edd11,itu,2022,SEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-f5ef01967f,itu,2019,SEN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-0ecd6e2cdb,itu,2011,SLE,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-0f692dd78f,itu,2020,SLE,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-12a8e3e4a2,itu,2010,SLE,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-1a7b08f6d4,itu,2019,SLE,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-28e41c9ca4,itu,2016,SLE,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3cec2a1239,itu,2015,SLE,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-484b6ed5f6,itu,2012,SLE,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-806a5ed39d,itu,2018,SLE,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ad7c37f9e5,itu,2007,SLE,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-ae57bacc2f,itu,2024,SLE,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,held as SLE-003
+itu-b1bb3a0760,itu,2009,SLE,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-bde457a848,itu,2017,SLE,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c6dd930cf2,itu,2022,SLE,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-cb70ce7f9c,itu,2008,SLE,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-d1137e3885,itu,2014,SLE,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ef4f9eb641,itu,2013,SLE,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+aftech-39297adcd8,aftech,,SOM,broadband internet; cybersecurity; data centers and cloud services; data protection; digital payments,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Invisible Infrastructure, Digital Government, Basic Skills, Technological Hubs, Digital Entrepreneurship",Policy,National ICT Policy & Strategy 2019-2024,2019,same;partial;same;partial;same,nothing,2019-11-01-somalia-national-ict-policy-strategy-2019-2024,,passages state no Somali broadband plan
+itu-21cffa1aea,itu,2012,SOM,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-31f0f3ffd5,itu,2013,SOM,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-443777732a,itu,2018,SOM,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-5867a7dfc0,itu,2008,SOM,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-90e59fdcc6,itu,2015,SOM,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-a5fd308f8e,itu,2016,SOM,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-aed0cd69cc,itu,2007,SOM,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-af1ba09e07,itu,2024,SOM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,fact,2026-11-10-ict-regulatory-tracker-2026-11-10,SOM-001,
+itu-b49d77e7ad,itu,2017,SOM,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-cd478f2f15,itu,2019,SOM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-e7172b9803,itu,2020,SOM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ee3893f1e4,itu,2022,SOM,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-f1db3ab100,itu,2009,SOM,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-f76e836778,itu,2014,SOM,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-f9293800a4,itu,2011,SOM,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-fc70a1e77e,itu,2010,SOM,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-04abe4deff,itu,2014,SSD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-3892c8e788,itu,2020,SSD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-5077ce31f8,itu,2019,SSD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-5bb7441fcd,itu,2022,SSD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-67aca04008,itu,2011,SSD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-82c5dc75df,itu,2012,SSD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-8cab9c5474,itu,2024,SSD,r36,Regulatory regime: National plan that involves broadband,No,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,a primary states the plan's standing (SSD-001)
+itu-b8a3722a5e,itu,2017,SSD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-c2e87c7da1,itu,2013,SSD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-cf1d7ef937,itu,2018,SSD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-d9fb0efa24,itu,2016,SSD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-f690d07f96,itu,2015,SSD,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-00af578674,itu,2009,STP,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-14979342b6,itu,2022,STP,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-1af99fccbe,itu,2008,STP,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-23fb272ea1,itu,2015,STP,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-3a9c8a225e,itu,2018,STP,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-3e43d779b3,itu,2011,STP,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-4e3662f7cf,itu,2010,STP,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-55d739b60a,itu,2019,STP,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-6cc1f0c437,itu,2016,STP,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-71e6023755,itu,2017,STP,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-75d90dc9c3,itu,2014,STP,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-893201c8af,itu,2007,STP,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-9eaf9bec74,itu,2012,STP,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-bcd784a848,itu,2020,STP,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-dc1a8f14a3,itu,2024,STP,r36,Regulatory regime: National plan that involves broadband,No,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"ITU's ""no"" does not say none is being written, which stage 1 needs"
+itu-f8e3bab7d0,itu,2013,STP,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-20f4d6fc51,itu,2014,SWZ,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-230411f2c8,itu,2019,SWZ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-25700aa9b8,itu,2009,SWZ,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-3e6c5c5195,itu,2008,SWZ,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-4a2c857b74,itu,2013,SWZ,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-504434fcdd,itu,2010,SWZ,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-51a0457c49,itu,2012,SWZ,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-5f54c52f44,itu,2022,SWZ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-63b7319727,itu,2018,SWZ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9d7d9463a7,itu,2007,SWZ,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-a6beef2c90,itu,2024,SWZ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,fact,2026-11-10-ict-regulatory-tracker-2026-11-10,SWZ-001,
+itu-b364f91e57,itu,2011,SWZ,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-c28d4914a9,itu,2020,SWZ,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c6c6aab490,itu,2015,SWZ,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-dc38aa792c,itu,2016,SWZ,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-eac3d1ca6f,itu,2017,SWZ,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-2708baa7e9,itu,2018,SYC,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-48006567e0,itu,2007,SYC,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-4ac2855cc4,itu,2012,SYC,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-4cc8f30ff4,itu,2022,SYC,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-73fbb189d1,itu,2020,SYC,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-82c06e40d3,itu,2010,SYC,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-8bd1595258,itu,2024,SYC,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,fact,2026-11-10-ict-regulatory-tracker-2026-11-10,SYC-001,
+itu-939ef6607c,itu,2011,SYC,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-93cca3bb9f,itu,2016,SYC,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-952bfde0fe,itu,2015,SYC,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9973db7217,itu,2014,SYC,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9fe54e190f,itu,2009,SYC,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-a5f3545597,itu,2019,SYC,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-b111766493,itu,2017,SYC,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-b99bf8de17,itu,2008,SYC,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ca5e15c1e5,itu,2013,SYC,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+aftech-d466b01427,aftech,,TCD,broadband internet; digital identification; digital payments; e-commerce; first mile; second mile; last mile; internet resources; postal services; quality of service; type approval/end user equipment; universal access,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Advanced Skills, Technological Hubs",Policy,"Strategic Plan 2020-2030 for the Postal, Electronic Communication, and the Digital Economy Sector of Chad",2020,same;partial;same;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"sector strategic plan, no broadband plan named"
+itu-02be982505,itu,2014,TCD,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-1df9b9900f,itu,2012,TCD,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3cb987c397,itu,2015,TCD,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-4ca805146a,itu,2013,TCD,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-70808b268c,itu,2011,TCD,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-72cd9e60ae,itu,2020,TCD,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-7ebb92541f,itu,2016,TCD,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-8ada4e7ff5,itu,2019,TCD,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-8f095c6207,itu,2008,TCD,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9129724bd2,itu,2007,TCD,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-96f3880dd7,itu,2010,TCD,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9fd8a5a893,itu,2017,TCD,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-b6be8a16d9,itu,2024,TCD,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,held as TCD-001
+itu-c4bc03dc5b,itu,2022,TCD,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ed5e794c1a,itu,2009,TCD,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-f289982c3e,itu,2018,TCD,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+aftech-1a71dcac6c,aftech,,TGO,artificial intelligence; broadband internet; broadcasting and multimedia services; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,Togo Digital Strategy (2022-2025),2022,same;same;partial;same;partial;partial;same;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"general digital strategy, no broadband plan named"
+itu-14f3bfce5f,itu,2012,TGO,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-2ce9195afe,itu,2013,TGO,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-382147f96b,itu,2014,TGO,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-3e1fdf9160,itu,2017,TGO,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-4540beba67,itu,2019,TGO,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-4f7d478a17,itu,2007,TGO,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-4f8ab68028,itu,2008,TGO,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-5026680cb0,itu,2018,TGO,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-83ec3db2a1,itu,2020,TGO,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-8763d0dee2,itu,2022,TGO,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-92b5397e31,itu,2015,TGO,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-9d7ddf2794,itu,2010,TGO,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-ab3223d674,itu,2009,TGO,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-b244d6e494,itu,2011,TGO,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-c12393f42f,itu,2016,TGO,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-e02808f2be,itu,2024,TGO,r36,Regulatory regime: National plan that involves broadband,No,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,"ITU's ""no"" does not say none is being written, which stage 1 needs"
+aftech-bdb6cf4e45,aftech,,TUN,artificial intelligence; broadband internet; broadcasting and multimedia services; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,National Digital Development Strategy,2021,same;same;partial;same;partial;partial;same;partial;same,nothing,2024-04-01 Londa 2023 Digital Rights and Inclusion in Africa - Tunisia (Paradigm Initiative),,document states nothing on a broadband plan
+itu-0933df666d,itu,2011,TUN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-1a6c2ce300,itu,2016,TUN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-1aa9863d2c,itu,2014,TUN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-2117f7216e,itu,2007,TUN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-211ab30cc5,itu,2018,TUN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-2a0f74f940,itu,2009,TUN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-3fabf1cf67,itu,2020,TUN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-447cd99a28,itu,2008,TUN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-5edd8d2e6e,itu,2019,TUN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-6142fa58dd,itu,2012,TUN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-61f317e859,itu,2010,TUN,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-6a2b693386,itu,2022,TUN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9dcbdefc63,itu,2017,TUN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-b3795e3d45,itu,2015,TUN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c91b70c4fc,itu,2024,TUN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,held as TUN-001
+itu-e6b1bd9f73,itu,2013,TUN,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+aftech-ed9b47ca65,aftech,,TZA,artificial intelligence; broadband internet; broadcasting and multimedia services; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce; e-waste; first mile; second mile; last mile; internet resources; quality of service; smart cities; spectrum and tv white spaces; type approval/end user equipment; universal access,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,National ICT Policy,2016,same;same;partial;same;partial;partial;same;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"general ICT policy, no broadband plan named"
+aftech-e90d0181c8,aftech,,TZA,artificial intelligence; broadband internet; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce; e-waste; first mile; second mile; last mile; internet resources; postal services; quality of service; smart cities; spectrum and tv white spaces; universal access,"Digital Infrastructure, Digital Platforms, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,Digital Economy Strategic Framework,2024,same;same;partial;same;partial;partial;same;partial;same,nothing,2024-01-01-tanzania-digital-economy-strategic-framework,,"digital economy framework, passages state no broadband plan"
+aftech-2b30fad997,aftech,,TZA,broadband internet; cybersecurity; data centers and cloud services; data protection; digital identification; digital signatures; e-commerce; e-waste; first mile; second mile; last mile; internet resources; quality of service; smart cities; spectrum and tv white spaces; type approval/end user equipment; universal access,"Digital Infrastructure, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,Tanzania National Broadband Internet Strategy,2021,same;partial;same;partial;partial;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,held as TZA-002
+itu-0bb2939b73,itu,2018,TZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-5136e3b716,itu,2007,TZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-548ba7474e,itu,2015,TZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-6f509f7540,itu,2010,TZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-7609fe21a2,itu,2020,TZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-7b06fd1a92,itu,2019,TZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-81043df27a,itu,2011,TZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9d2594328e,itu,2024,TZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,held as TZA-002
+itu-acaf8fa1a3,itu,2022,TZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-b61ffd908f,itu,2012,TZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ba542804c8,itu,2009,TZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-bb9809e034,itu,2014,TZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-d97e62ac7d,itu,2016,TZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-df464a3766,itu,2013,TZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-e378bc7adf,itu,2008,TZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-f3d5591136,itu,2017,TZA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+aftech-80f7e47e63,aftech,,UGA,broadband internet; e-commerce; last mile,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,Regional Broadband Internet Strategy,2016,same;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"regional strategy, not a national plan"
+aftech-a61769de81,aftech,,UGA,broadband internet; first mile; middle mile; last mile; end-user equipment; interoperability; e-government services; license; spectrum and tv white spaces,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Digital Government, Invisible Infrastructure",Policy,National Broadband Policy 2018,2018,same;partial;same;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,held as UGA-001
+aftech-65364057a0,aftech,,UGA,broadband internet; last mile,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,National Spectrum Policy,2017,same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"spectrum policy, not a broadband plan"
+aftech-a6a9d5738d,aftech,,UGA,e-government services; broadband internet; data centers; cloud computing; incubators; cybersecurity; data protection; foundational skills; highly specialized skills; startups; first mile; middle mile; last mile; spectrum and tv white spaces; payments; blockchain,"Digital Infrastructure, Digital Innovation, Digital Skills, Digital Platforms / Invisible Infrastructure, Digital Government, Financial Services, Basic, Advanced, Innovation",Policy,Digital Transformation Roadmap,2023,same;same;partial;same;same;partial;partial;same;same;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"digital transformation roadmap, no broadband plan named"
+itu-0a834f9efc,itu,2007,UGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-0ad364c21f,itu,2010,UGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-175755e6fe,itu,2008,UGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-28c2fc4889,itu,2015,UGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-5cf657d7f8,itu,2016,UGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-6033508291,itu,2009,UGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-78ed3c4fbf,itu,2011,UGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-8995e5c159,itu,2020,UGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9b4ab27dac,itu,2019,UGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9fdf0cbf96,itu,2017,UGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ab4ccc8da9,itu,2024,UGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,held as UGA-001
+itu-ae82502551,itu,2018,UGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c2f6927115,itu,2012,UGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-e8b127c9f0,itu,2022,UGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-edc3ee1cb5,itu,2014,UGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ee3863cf4b,itu,2013,UGA,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+aftech-14a4ed785d,aftech,,XAF,artificial intelligence; broadband internet; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,The Digital Transformation Strategy for Africa,2020,same;same;partial;same;partial;partial;same;partial;same,continental,,,names no one of the 54
+aftech-ae905d945a,aftech,,XAF,artificial intelligence; broadband internet; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce,"Digital Infrastructure, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,Continental Artificial Intelligence Strategy,2024,same;same;partial;same;partial;partial;same;partial;same,continental,,,names no one of the 54
+aftech-e941a91d5a,aftech,,XAF,artificial intelligence; broadband internet; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce,"Digital Infrastructure, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,AI and the Future of Work In Africa White Paper,2024,same;same;partial;same;partial;partial;same;partial;same,continental,,,names no one of the 54
+aftech-07be4cb81c,aftech,,XAF,broadband internet; broadcasting and multimedia services; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,"Science, Technology, and Innovation Strategy for Africa",2024,same;partial;same;partial;partial;same;partial;same,continental,,,names no one of the 54
+aftech-b408ee04d9,aftech,,ZAF,broadband internet; data protection; digital payments; first mile; second mile; last mile; internet resources; quality of service,"Digital Infrastructure, Digital Platforms / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business",Policy,National Broadband Internet Policy,2010,same;partial;same,fact,2010-07-13-zaf-broadband-policy-gn-617-gazette-33377,ZAF-006,
+aftech-65e78bcf8d,aftech,,ZAF,cybersecurity; broadcasting; communication; cybersecurity; broadband internet; intermediate skills; foundational skills; cloud policy,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Digital Business, Digital Government, Digital Entrepreneurship, Innovation, Invisible Infrastructure, Advanced Skills",Policy,National Policy on Data and Cloud 2021,2021,partial;same;same;same,nothing,2021-04-01-zaf-dcdt-draft-national-policy-on-data-and-cloud,,"data and cloud policy, not a broadband plan"
+aftech-e666c9e3c9,aftech,,ZAF,e-government services; digital identification; universal access; postal services; cybersecurity,"Digital Infrastructure, Digital Platforms, Digital Innovation / Physical Infrastructure, Digital Business, Digital Government, Innovation",Policy,National Integrated ICT Policy White Paper,2016,same;partial;partial;partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"integrated ICT policy white paper, no broadband plan named"
+aftech-3c8a854a02,aftech,,ZAF,universal access,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,National Development Plan (NDP) 2030,2012,partial,nothing,2012-01-01-zaf-npc-national-development-plan-2030,,"national development plan, passages state no broadband plan"
+aftech-c544457893,aftech,,ZAF,universal access,"Digital Skills / Basic Skills, Advanced Skills",Policy,Strategy for Information and Communication Technology in Education.,2001,partial,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"education ICT strategy, not a broadband plan"
+aftech-901542d45d,aftech,,ZAF,universal access; broadband internet,"Digital Infrastructure, Digital Platforms, Digital Innovation, Digital Skills / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Financial Services, Basic Skills, Advanced Skills, Digital Entrepreneurship, Innovation",Policy,USAASA Strategic Plan 2012-2015,2012,partial,nothing,2012-01-01-zaf-usaasa-strategic-plan-2012-2015,,"agency strategic plan, passages state no broadband plan"
+itu-03669dc006,itu,2015,ZAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-0417cfa398,itu,2018,ZAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-04cee13a1a,itu,2010,ZAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-4467e674e7,itu,2017,ZAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-4d0c236fd7,itu,2020,ZAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-4f2f8fe679,itu,2008,ZAF,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-54579d54ed,itu,2014,ZAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-551c534261,itu,2011,ZAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-9e8944bf96,itu,2016,ZAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-a8aca9ebe8,itu,2019,ZAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ad4adc8e64,itu,2009,ZAF,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-c58c9b8795,itu,2022,ZAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ca2802ae8f,itu,2024,ZAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,held as ZAF-001
+itu-e9caed9108,itu,2012,ZAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-eed3af7776,itu,2007,ZAF,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-ef9b9457ca,itu,2013,ZAF,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+aftech-796c79d698,aftech,,ZMB,artificial intelligence; broadband internet; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,National Artificial Intelligence Strategy 2024-2026,2024,same;same;partial;same;partial;partial;same;partial;same,nothing,2024-01-01-national-ai-strategy-2024-2026,,"AI strategy, not a broadband plan"
+aftech-f6854b047e,aftech,,ZMB,artificial intelligence; broadband internet; cybersecurity; data centers and cloud services; data protection; digital identification; digital payments; digital signatures; e-commerce; e-waste; first mile; second mile; last mile; internet resources; quality of service; smart cities; spectrum and tv white spaces; type approval/end user equipment; universal access,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,National ICT Policy 2023,2023,same;same;partial;same;partial;partial;same;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"general ICT policy, no broadband plan named"
+aftech-5318c94eed,aftech,,ZMB,broadband internet; data protection; digital payments; first mile; second mile; last mile; internet resources; quality of service,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,Digital Transformation Strategy,2022,same;partial;same,fact,2023-10-12-national-digital-transformation-strategy-zambia,ZMB-002,
+itu-07fdd53aec,itu,2017,ZMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-1c0834c5f2,itu,2012,ZMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-216dbab5b5,itu,2014,ZMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-24bc7b74bb,itu,2009,ZMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3a8b1d6154,itu,2018,ZMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-8b03fda100,itu,2015,ZMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-a7913a5c3c,itu,2016,ZMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ab9ce46c4e,itu,2011,ZMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-bcb52c9e20,itu,2020,ZMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c4d143723a,itu,2008,ZMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-c78553a459,itu,2010,ZMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-cd9a517e11,itu,2022,ZMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-d014c6fd8a,itu,2019,ZMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-d39a14b267,itu,2024,ZMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,a primary states the plan's standing (ZMB-001)
+itu-d95a6444c8,itu,2013,ZMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-ffaaef26a6,itu,2007,ZMB,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+aftech-053906c236,aftech,,ZWE,broadband internet; cybersecurity; data centers and cloud services; e-commerce; e-waste; second mile; last mile; spectrum and tv white spaces; universal access,"Digital Infrastructure, Digital Platforms, Digital Skills, Digital Innovation / Physical Infrastructure, Invisible Infrastructure, Digital Government, Digital Business, Digital Financial Services, Basic Skills, Advanced Skills, Technological Hubs, Digital Entrepreneurship",Policy,Zimbabwe National Policy For Information Communication Technology (ICT) 2016,2016,same;partial;same;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"general ICT policy, no broadband plan named"
+aftech-dba563aa96,aftech,,ZWE,broadband internet; data protection; digital payments; first mile; second mile; last mile; internet resources; quality of service,"Digital Infrastructure, Digital Skills, Digital Innovation / Invisible Infrastructure, Digital Government, Basic Skills, Technological Hubs, Digital Entrepreneurship",Policy,Smart Zimbabwe 2030 Masterplan,2024,same;partial;same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"smart-country masterplan, no broadband plan named"
+aftech-2b2336eb3e,aftech,,ZWE,broadband internet; first mile; second mile; last mile,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,National ICT Policy(2022-2027),2022,same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,"general ICT policy, no broadband plan named"
+aftech-f4e4358b77,aftech,,ZWE,broadband internet; last mile,"Digital Infrastructure / Physical Infrastructure, Invisible Infrastructure",Policy,National Broadband Internet Plan(2020-2030),2020,same,nothing,2026-11-10-africa-technology-policy-tracker-2026-11-10,,held as ZWE-002
+itu-29b9ba722b,itu,2019,ZWE,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-3b99de7304,itu,2024,ZWE,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,nothing,2026-11-10-ict-regulatory-tracker-2026-11-10,,held as ZWE-002
+itu-58f59f8665,itu,2008,ZWE,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-5b62fbe36f,itu,2013,ZWE,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-690dbab250,itu,2014,ZWE,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-6cb7221b18,itu,2007,ZWE,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-6df1b1e6f1,itu,2016,ZWE,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-a03c6252cc,itu,2012,ZWE,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-a11587dd5b,itu,2011,ZWE,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-a2b14af812,itu,2010,ZWE,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-a5dac104f0,itu,2009,ZWE,r36,Regulatory regime: National plan that involves broadband,No,,,same,superseded,,,the 2024 round answers it
+itu-b7f47bfea3,itu,2017,ZWE,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-b9693cd162,itu,2020,ZWE,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-d838337ff3,itu,2015,ZWE,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-e30e94efd9,itu,2018,ZWE,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it
+itu-eb599df5a2,itu,2022,ZWE,r36,Regulatory regime: National plan that involves broadband,Yes,,,same,superseded,,,the 2024 round answers it

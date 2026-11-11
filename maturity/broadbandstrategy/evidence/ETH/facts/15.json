@@ -1,0 +1,9 @@
+{
+  "slug": "2026-11-10-ict-regulatory-tracker-2026-11-10",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "ITU's regulatory tracker records that Ethiopia has a national plan that involves broadband (answer Yes, 2024 round; no plan named); the date is the survey round's year.", "as_of": "2024", "date_precision": "year", "system": "", "class": "plan"}
+  ],
+  "systems": [],
+  "note": "",
+  "claims": {"itu-30f8dd0ec4": "fact"}
+}

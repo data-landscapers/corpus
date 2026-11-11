@@ -1,0 +1,20 @@
+{
+ "slug": "2013-10-01-national-broadband-policy-2013",
+ "facts": [
+  {
+   "sub_indicator": "plan",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Ministry of Youth and ICT's National Broadband Policy for Rwanda (Kigali, October 2013) sets a vision of universal broadband access by 2020 and a proposed action plan with targets and costs to start upon approval of the policy; the document does not state that it was approved.",
+   "as_of": "2013-10",
+   "date_precision": "month",
+   "system": "National Broadband Policy 2013",
+   "class": "plan"
+  }
+ ],
+ "systems": [],
+ "note": "",
+ "claims": {
+  "aftech-213864e897": "fact"
+ }
+}

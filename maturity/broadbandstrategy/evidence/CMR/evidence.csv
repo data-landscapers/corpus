@@ -1,1 +1,2 @@
 row_id,iso3,sub_indicator,aspect,value,fact,as_of,date_precision,system,class,source_slug,url
+CMR-001,CMR,plan,standing,adopted,"ITU's regulatory tracker records that Cameroon has a national plan that involves broadband (self-reported, 2024 round; as_of is the round's year, no plan named).",2024,year,,plan,2026-11-10-ict-regulatory-tracker-2026-11-10,https://app.gen5.digital/tracker/metrics

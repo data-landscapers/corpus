@@ -1,0 +1,20 @@
+{
+ "slug": "2026-11-10-ict-regulatory-tracker-2026-11-10",
+ "facts": [
+  {
+   "sub_indicator": "plan",
+   "aspect": "standing",
+   "value": "adopted",
+   "fact": "ITU's regulatory tracker records that Somalia self-reported 'Yes' to a national plan that involves broadband in its 2024 round; it names no plan and no period, and 2024 is the survey round's year, taken as year end.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "National plan that involves broadband",
+   "class": "plan"
+  }
+ ],
+ "systems": [],
+ "note": "",
+ "claims": {
+  "itu-af1ba09e07": "fact"
+ }
+}

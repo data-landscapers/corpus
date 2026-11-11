@@ -1,0 +1,11 @@
+{
+  "slug": "2026-11-10-ict-regulatory-tracker-2026-11-10",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "ITU's regulatory tracker records, for its 2024 round, a yes to Liberia having a national plan that involves broadband, self-reported and unnamed; the line gives no date within the round, so 2024 is used.", "as_of": "2024", "date_precision": "year", "system": "National plan that involves broadband", "class": "plan"}
+  ],
+  "systems": [],
+  "note": "",
+  "claims": {
+    "itu-78199a09e3": "fact"
+  }
+}

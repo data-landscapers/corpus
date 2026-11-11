@@ -1,0 +1,13 @@
+{
+  "slug": "2010-07-13-zaf-broadband-policy-gn-617-gazette-33377",
+  "facts": [
+    {"sub_indicator": "plan", "aspect": "standing", "value": "adopted", "fact": "The Minister of Communications published the Broadband Policy for South Africa as Government Notice 617 under the Electronic Communications Act on 13 July 2010, with targets of universal access to broadband, 15 percent household penetration and connectivity to all municipal areas, each by 2019; the document gives no end or successor.", "as_of": "2010-07-13", "date_precision": "day", "system": "Broadband Policy for South Africa", "class": "plan"}
+  ],
+  "systems": [
+    {"system": "Broadband Policy for South Africa", "country_label": "South Africa", "class": "plan", "platform": "", "owner": "Department of Communications", "tiers": ""}
+  ],
+  "note": "",
+  "claims": {
+    "aftech-b408ee04d9": "fact"
+  }
+}
