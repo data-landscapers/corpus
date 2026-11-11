@@ -1,0 +1,26 @@
+{
+ "slug": "2024-01-01-mar-ogp-mo0028-digitalization-administrative-acts-procedures",
+ "facts": [
+  {
+   "sub_indicator": "feedback",
+   "aspect": "channel",
+   "value": "underway",
+   "fact": "The OGP Independent Reporting Mechanism says the Chikaya.ma public service complaint portal was launched under Morocco's 2018-2020 action plan; no complaint counts are given.",
+   "as_of": "2020",
+   "date_precision": "year",
+   "system": "Chikaya.ma",
+   "class": "feedback"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Chikaya.ma",
+   "country_label": "Morocco",
+   "class": "feedback",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}
