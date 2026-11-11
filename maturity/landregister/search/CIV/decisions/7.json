@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "land",
+ "aspect": "register;national",
+ "fact": "Ordonnance n° 2025-85 of 12 February 2025 creates SIFOR-CI within AFOR as the official digital rural land register, covering the national rural domain, and requires existing rural land data to be integrated within twelve months.",
+ "title": "Ordonnance n° 2025-85 du 12 février 2025 portant création, attributions, organisation et fonctionnement du Système d’Information du Foncier Rural de Côte d’Ivoire",
+ "publisher": "Présidence de la République de Côte d’Ivoire",
+ "published": "2025-02-12",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "land",
+ "aspect": "register;online",
+ "fact": "The December 2025 Terra Bénin baseline states that, apart from the public cadastre.bj portal, ANDF's digital land platforms (e-Foncier Bénin, e-Terre, e-Notaire) are not open to the general public and only approved providers (97 active of 267) can file requests, with transactions on the platform covering 226,028 parcels.",
+ "title": "Evaluation de base du Programme Terra Bénin",
+ "publisher": "ANDF",
+ "published": "2025-12",
+ "date_source": "source",
+ "why_not": ""
+}

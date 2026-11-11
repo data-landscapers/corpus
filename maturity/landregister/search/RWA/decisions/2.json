@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "land",
+ "aspect": "online",
+ "fact": "Title transfer (voluntary sale) for land is applied for online through IremboGov, handled by the National Land Authority, and the e-title is downloaded from the platform on approval.",
+ "title": "How to Apply for Title Transfer - Voluntary Sale",
+ "publisher": "IremboGov",
+ "published": "2025-12",
+ "date_source": "proxy",
+ "why_not": ""
+}

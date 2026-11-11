@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "aspect": "register;national;online",
+ "fact": "ANCFCC states that digital cadastral maps cover the national territory, 260 million land and cadastral documents are digitised, and 86% of its 3 million users are online (95% of certificates).",
+ "title": "Chiffres Clés",
+ "publisher": "ANCFCC",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "already-held: undated key-figures page; its national-coverage statement is held as MAR-002",
+ "sub_indicator": "land"
+}

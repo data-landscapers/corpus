@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "land",
+ "aspect": "register;online",
+ "fact": "The SIGFU land information system, with over 120,000 physical land files and 1,600 subdivision plans converted and a web portal and mobile app for the public, was deployed over Greater Abidjan and Assinie (4,500 km2) between June 2021 and July 2025.",
+ "title": "Système Intégré de Gestion du Foncier Urbain – SIGFU",
+ "publisher": "IGN FI",
+ "published": "2025-12",
+ "date_source": "source",
+ "why_not": ""
+}

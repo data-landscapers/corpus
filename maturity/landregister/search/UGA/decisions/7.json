@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "land",
+ "aspect": "register;national",
+ "fact": "The UgNLIS is decentralised to 22 MZOs but not rolled out to district and sub-county level, where records are manual and CCOs are not digitised.",
+ "title": "Digital Transformation of the Land Sector in Uganda: A Policy Note",
+ "publisher": "World Bank Group",
+ "published": "2024",
+ "date_source": "source",
+ "why_not": ""
+}

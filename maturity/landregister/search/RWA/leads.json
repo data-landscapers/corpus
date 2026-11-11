@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://www.un.org/globalgeospatial/sites/default/files/2026-04/rwanda_land_administration_case_study_unggkic.pdf",
+  "title": "Rwanda Land Administration Case Study",
+  "publisher": "UN-GGIM",
+  "published": "2026",
+  "sub_indicator": "land",
+  "why": "register;national: Nationwide systematic registration of 11M parcels in LAIS; 92% coverage"
+ },
+ {
+  "url": "https://support.irembo.gov.rw/en/support/solutions/articles/47001210595-how-to-apply-for-title-transfer-voluntary-sale-",
+  "title": "How to Apply for Title Transfer - Voluntary Sale",
+  "publisher": "IremboGov",
+  "published": "2025-12",
+  "sub_indicator": "land",
+  "why": "online: Land title transfer applied online via Irembo; e-title downloaded"
+ },
+ {
+  "url": "https://www.lands.rw/fileadmin/user_upload/LANDS/Publications/Reports/NLA_Annual_activity_Report_2024-2025.pdf",
+  "title": "NLA Annual Activities Report 2024-2025",
+  "publisher": "National Land Authority",
+  "published": "2025",
+  "sub_indicator": "land",
+  "why": "register;online: 757,740 land transactions processed FY2024-25"
+ },
+ {
+  "url": "https://visionmedia.rw/103-000-land-related-cases-resolved-in-two-years-through-digital-system.html",
+  "title": "103,000 land-related cases resolved in two years through digital system",
+  "publisher": "Vision Media",
+  "published": "",
+  "sub_indicator": "land",
+  "why": "register: LAIS used to register and manage land records"
+ },
+ {
+  "url": "https://www.africa-press.net/rwanda/economy/national-land-system-to-integrate-financial-management-information",
+  "title": "National land system to integrate financial management information",
+  "publisher": "Africa-Press / New Times",
+  "published": "2025-03-26",
+  "sub_indicator": "land",
+  "why": "register;online: LAIS is a digital land registry handling 800,000 transactions a year"
+ },
+ {
+  "url": "https://www.environment.gov.rw/news-detail/rwanda-launched-electronic-land-registration-certificate-system",
+  "title": "Rwanda launched electronic land registration certificate system",
+  "publisher": "Ministry of Environment",
+  "published": "2024-11-19",
+  "sub_indicator": "land",
+  "why": "register;national;online: e-Title launched; every land record in digital registry; transactions online via Irembo"
+ },
+ {
+  "url": "https://www.africa-press.net/rwanda/economy/over-139000-land-parcels-mortgaged-for-17bn-loans",
+  "title": "Over 139,000 land parcels mortgaged for $17bn loans",
+  "publisher": "Africa-Press / New Times",
+  "published": "2024-11-17",
+  "sub_indicator": "land",
+  "why": "register;national: 11.8M parcels registered in LAIS electronic registry"
+ },
+ {
+  "url": "https://www.houseinrwanda.com/news/digital-land-titles-are-changing-land-ownership-and-verification-rwanda",
+  "title": "Digital land titles are changing land ownership and verification in Rwanda",
+  "publisher": "House in Rwanda",
+  "published": "2024-02-07",
+  "sub_indicator": "land",
+  "why": "register;online: Over 10M paper titles converted to digital; 866,000 e-titles downloaded"
+ }
+]

@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "land",
+ "aspect": "register",
+ "fact": "Land records, including cadastral data and land registers, exist in a mix of digital and analogue formats; digitisation began with the one-stop shop in 2012 and E-conservation was developed in 2023, but access to the data is limited to specific government personnel.",
+ "title": "Spatial Framework in Chad: An Assessment using parts of COFLAS and the MCC Land Records and Transaction Systems Technology Toolkit",
+ "publisher": "FIG (FIG Working Week 2024, Accra)",
+ "published": "2024-05",
+ "date_source": "source",
+ "why_not": ""
+}

@@ -1,0 +1,9 @@
+k,url,status,detail,cache,words,kind,page_title
+1,https://doi.org/10.1177/00020397261430359,unfetchable,HTTP 403; no usable Wayback capture,,0,,
+2,https://cabinetneya.com/reorganisation-agraire-et-fonciere-au-burkina-faso/,fetched,,scripts/.workroot/study/landregister/cache/BFA/2.txt,4912,html,Réorganisation agraire et foncière au Burkina Faso
+3,https://lefaso.net/spip.php?article149243=,fetched,,scripts/.workroot/study/landregister/cache/BFA/3.txt,785,html,Newsletter LeFaso.net
+4,https://lefaso.net/spip.php?article138383=,fetched,,scripts/.workroot/study/landregister/cache/BFA/4.txt,791,html,Newsletter LeFaso.net
+5,https://dgi.bf/digitalisation-de-la-gestion-fonciere-la-plateforme-sycd-en-marche/,held,held as raw/2025/2025-03-21-dgi-plateforme-sycd-digitalisation-gestion-fonciere.md,,0,,
+6,https://luxdev.lu/sites/default/files/upload/media/document/2025-04/Fiche_BKF027.pdf,held,held as raw/2025/2025-04-01-bfa-luxdev-appui-cadastre-fiscal-ouaga-bobo.md,,0,,
+7,https://www.wearetech.africa/fr/fils/actualites/tech/le-burkina-faso-lance-la-numerisation-des-procedures-foncieres,fetched,,scripts/.workroot/study/landregister/cache/BFA/7.txt,359,html,Le Burkina Faso lance la numérisation des procédures foncières
+8,https://www.finances.gov.bf/forum/detail-actualites?cHash=d8ab4a3212050abe23d640fb66a77fa1&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=1118,unfetchable,ConnectionError; no usable Wayback capture,,0,,

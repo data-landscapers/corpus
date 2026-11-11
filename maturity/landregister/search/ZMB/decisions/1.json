@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "land",
+ "aspect": "register",
+ "fact": "An official government report found 982 property records that existed in the legacy ZILMIS missing from the ZILAS database after migration, and a property consultant describes ZILAS as a work in progress with intermittent outages.",
+ "title": "982 Properties vanish after ZILMIS to ZILAS transition",
+ "publisher": "Zambian Business Times",
+ "published": "2026-10-26",
+ "date_source": "source",
+ "why_not": ""
+}

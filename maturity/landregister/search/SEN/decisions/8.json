@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "land",
+ "aspect": "register;online",
+ "fact": "An Oct 2025 workshop validated version 1 of SIFCOM, including a citizen portal for online tracking of files and land publicity, with a pilot deployment to follow.",
+ "title": "Atelier de validation de la première version du Système d'Information Foncière Communal (SIFCOM)",
+ "publisher": "PROCASEF",
+ "published": "2025-10-12",
+ "date_source": "source",
+ "why_not": ""
+}

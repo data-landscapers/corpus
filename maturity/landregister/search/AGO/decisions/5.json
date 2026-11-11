@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "land",
+ "aspect": "",
+ "fact": "",
+ "title": "",
+ "publisher": "",
+ "published": "",
+ "date_source": "source",
+ "why_not": "not fetched: unfetchable (1) or already-held (2, 5)"
+}

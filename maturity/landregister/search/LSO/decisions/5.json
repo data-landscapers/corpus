@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "land",
+ "aspect": "register;online",
+ "fact": "The LAA land information system records plot position, boundaries, owner, use and transactions and property registration procedures are freely available online, but it cannot provide an electronic database on encumbrances and rural plots are largely unregistered.",
+ "title": "Land Governance in Lesotho",
+ "publisher": "National University of Lesotho (paper for the 2019 Land Governance in Southern Africa Symposium, NELGA)",
+ "published": "2019",
+ "date_source": "proxy",
+ "why_not": ""
+}

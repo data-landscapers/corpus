@@ -1,0 +1,66 @@
+[
+ {
+  "url": "https://realequatorialguinea.com/destacado/politica/guinea-ecuatorial-explora-en-sudafrica-una-posible-alianza-en-materia-de-catastro-y-cartografia/",
+  "title": "Guinea Ecuatorial explora en Sudáfrica una posible alianza en materia de catastro y cartografía",
+  "publisher": "Revista Real Equatorial Guinea",
+  "published": "2026-02-10",
+  "sub_indicator": "land",
+  "why": "cadastre GIS capacity (Q1)"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/aprobacion_del_proyecto_de_ley_sobre_la_creacion_y_establecimiento_del_catastro_nacional_de_tierras",
+  "title": "Aprobación del proyecto de ley sobre la creación y establecimiento del catastro nacional de tierras",
+  "publisher": "Gobierno de Guinea Ecuatorial",
+  "published": "2025-05-07",
+  "sub_indicator": "land",
+  "why": "cadastre law approved; Q1/Q3"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/continua_el_analisis_del_proyecto_de_ley_sobre_la_creacion_y_el_establecimiento_del_catastro_nacional_de_tierras",
+  "title": "Continúa el análisis del proyecto de ley sobre el catastro nacional de tierras",
+  "publisher": "Gobierno de Guinea Ecuatorial",
+  "published": "2025-04-24",
+  "sub_indicator": "land",
+  "why": "cadastre documents; Q1/Q2"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/prosigue_el_estudio_del_proyecto_de_ley_sobre_el_regimen_de_propiedad_de_tierras",
+  "title": "Prosigue el estudio del proyecto de ley sobre el régimen de propiedad de tierras",
+  "publisher": "Gobierno de Guinea Ecuatorial",
+  "published": "2025-02-11",
+  "sub_indicator": "land",
+  "why": "land title registration; Q1/Q2"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/las_comisiones_tecnicas_presentan_sus_informes_ante_la_primera_ministra",
+  "title": "Las comisiones técnicas presentan sus informes ante la Primera Ministra",
+  "publisher": "Gobierno de Guinea Ecuatorial",
+  "published": "2024-05-08",
+  "sub_indicator": "land",
+  "why": "cadastre/registration bills; Q1"
+ },
+ {
+  "url": "https://www.guineaecuatorialpress.com/noticias/el_equipo_gubernamental_celebra_su_segundo_consejo_interministerial_del_2024",
+  "title": "El equipo gubernamental celebra su segundo Consejo Interministerial del 2024",
+  "publisher": "Gobierno de Guinea Ecuatorial",
+  "published": "2024-03-20",
+  "sub_indicator": "land",
+  "why": "property registration bill; Q1"
+ },
+ {
+  "url": "https://realequatorialguinea.com/destacado/se-establece-un-plazo-maximo-de-tres-dias-para-expedir-certificaciones-registrales-en-el-registro-de-la-propiedad-de-guinea-ecuatorial/",
+  "title": "Se establece un plazo máximo de tres días para expedir certificaciones registrales",
+  "publisher": "Revista Real Equatorial Guinea",
+  "published": "2021-04-30",
+  "sub_indicator": "land",
+  "why": "two registry offices, in-person certificates; Q3/Q4 absence"
+ },
+ {
+  "url": "https://housingfinanceafrica.org/country-detail/equatorial-guinea/",
+  "title": "Equatorial Guinea",
+  "publisher": "CAHF",
+  "published": "",
+  "sub_indicator": "land",
+  "why": "electronic land databases poorly stocked; Q2/Q4"
+ }
+]

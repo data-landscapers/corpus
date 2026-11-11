@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "land",
+ "aspect": "register;national;online",
+ "fact": "World Bank B-READY 2025 scores Angola 0.00 of 6.00 on land registration and cadastral coverage at national level and 0.00 on digital property title certificates, digital cadastral plans and online platform for property transfer.",
+ "title": "Angola - B-READY 2025",
+ "publisher": "World Bank",
+ "published": "2025",
+ "date_source": "proxy",
+ "why_not": ""
+}

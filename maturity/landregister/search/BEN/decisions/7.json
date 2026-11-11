@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "land",
+ "aspect": "online",
+ "fact": "ANDF's communique of 5 June 2024 states that five e-services (title request, descriptive statement, certificate of ownership, confirmation of land rights, subdivision attestation) are available online on service-public.bj.",
+ "title": "Communiqué : e-Services de l'ANDF",
+ "publisher": "Agence Nationale du Domaine et du Foncier",
+ "published": "2024-06-05",
+ "date_source": "source",
+ "why_not": ""
+}

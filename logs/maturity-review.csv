@@ -75,7 +75,7 @@ interoperabilitystandards,standards,gov.standards--national-interoperability-sta
 itcapacity,inhouse,infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,2026-11-11,16,75,198
 justice,justice,dpi.mis--justice,2026-11-11,16,75,210
 landadmin,landmis,dpi.mis--land,2026-11-11,16,75,211
-landregister,land,dpi.registry--land-register,,,,
+landregister,land,dpi.registry--land-register,2026-11-11,13,42.2,189
 localgov,connection,digital.localgov--ict-infrastructure-for-local-government,,,,
 localrecords,revenue,digital.localgov--digitalisation-of-local-government-records,,,,
 metsatellite,metsat,data.geospatial--meteorological-use-of-satellite-data,,,,

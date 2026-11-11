@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "land",
+ "aspect": "register;national",
+ "fact": "The Land Information System covers the entire country in 22 Ministry Zonal Offices, with land records digitised except customary CCOs held in separate district databases.",
+ "title": "National Land Monitoring Report 2021",
+ "publisher": "Republic of Uganda, Ministry of Lands, Housing and Urban Development",
+ "published": "2021",
+ "date_source": "source",
+ "why_not": ""
+}

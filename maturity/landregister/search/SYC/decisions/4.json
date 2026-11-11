@@ -1,0 +1,11 @@
+{
+ "select": false,
+ "sub_indicator": "land",
+ "aspect": "",
+ "fact": "",
+ "title": "Search Land Registry",
+ "publisher": "Office of the Registrar General",
+ "published": "",
+ "date_source": "proxy",
+ "why_not": "no-development: undated login page; states a subscription eSearch exists but no dated fact and no byline."
+}

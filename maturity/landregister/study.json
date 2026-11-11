@@ -2,7 +2,9 @@
  "id": "landregister",
  "study_file": "maturity-study-landregister.md",
  "pass": "first",
- "must_show": [3],
+ "must_show": [
+  3
+ ],
  "window_from": "2023-10-01",
  "story_cap": 20,
  "subjects": [
@@ -119,5 +121,6 @@
    ]
   }
  ],
- "flags": []
+ "flags": [],
+ "searched": "2026-11-11"
 }

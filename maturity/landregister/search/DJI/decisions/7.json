@@ -1,0 +1,11 @@
+{
+ "select": true,
+ "sub_indicator": "land",
+ "aspect": "register",
+ "fact": "Djibouti's land records are kept in computer/scanned format, there is no electronic database for checking encumbrances, cadastral plans are on paper and there is no GIS for boundaries (data collected to May 2019).",
+ "title": "Doing Business 2020: Djibouti",
+ "publisher": "World Bank Group",
+ "published": "2020",
+ "date_source": "source",
+ "why_not": ""
+}
