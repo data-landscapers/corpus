@@ -1,0 +1,17 @@
+{
+ "slug": "2026-09-03-ken-digitalization-government-services-pc-indicator-guidelines-fy2026-27",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The guidelines say all digitalised government services must adhere to the Data Protection Act.",
+   "as_of": "2026-09-03",
+   "date_precision": "day",
+   "system": "Data Protection Act",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

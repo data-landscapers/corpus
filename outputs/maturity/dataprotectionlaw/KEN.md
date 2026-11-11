@@ -2,7 +2,7 @@
 
 ## General law
 
-**Authority.** The Office of the Data Protection Commissioner was [established under the Data Protection Act, 2019](<https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/>). Its first commissioner has been in office since 2020. In March 2025 it had [offices in Nairobi, Kisumu, Mombasa, Eldoret, Machakos, Nyeri and Nakuru](<https://www.odpc.go.ke/wp-content/uploads/2025/04/ODPC-Data-Bulletin-12th-Edition.pdf>).
+**Authority.** The Office of the Data Protection Commissioner was [established under the Data Protection Act, 2019](<https://techtrendske.co.ke/2026/09/30/kenya-data-protection-commissioner-shortlist/>). Its first commissioner, Immaculate Kassait, has been in office since 2020, and [a successor was nominated in November 2026](<https://techafricanews.com/2026/11/10/kenya-nominates-lydia-sitienei-second-data-commissioner/>). In March 2025 it had [offices in Nairobi, Kisumu, Mombasa, Eldoret, Machakos, Nyeri and Nakuru](<https://www.odpc.go.ke/wp-content/uploads/2025/04/ODPC-Data-Bulletin-12th-Edition.pdf>).
 
 **Standing.** The Data Protection Act, 2019 is in force. The ICT Cabinet Secretary told the Senate in May 2026 that [the Act is being enforced](<https://nation.africa/kenya/news/register-or-face-shutdown-kabogo-to-betting-firms-with-children-s-data-5458126>), and the office has [issued fines under it since 2022](<https://www.cadmuscyber.com/public/insight/kenyan-businesses-fined-over-kes-26-million-for-data-privacy-violations>). In October 2026 a trade report described organisations in Kenya as [facing growing compliance demands under the Act](<https://techtrendske.co.ke/2026/10/15/dama-kenya-launch-train-10000-data-professionals/>).
 

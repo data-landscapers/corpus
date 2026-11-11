@@ -1,0 +1,17 @@
+{
+ "slug": "2024-10-01-sle-africa-regional-forum-on-data-governance-and-digital-government",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "A Government of Sierra Leone presentation lists a Draft Data Protection and Privacy Bill in its policy and regulatory landscape.",
+   "as_of": "2024-10-01",
+   "date_precision": "day",
+   "system": "Data Protection and Privacy Bill",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

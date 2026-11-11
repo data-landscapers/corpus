@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-09-cloud-ai-chips-outside-africa",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "Newzroom dot Africa reports that South Africa's Protection of Personal Information Act sets conditions and safeguards a business must meet before sending personal information abroad.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "Protection of Personal Information Act",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

@@ -37,6 +37,7 @@ BEN,Commission Nationale de l'Informatique et des Libertés (CNIL),CNIL Bénin,a
 BEN,APDP,Benin,authority,,,,2024-08-04-ben-benin-l-apdp-passe-en-revue-47-dossiers-lors-des-plenieres-de-juillet
 BEN,APDP,Benin,authority,,,,2024-05-07-ben-prestation-de-serment-des-conseillers-de-l-apdp
 BEN,Code du numérique,Benin,general,,,,2024-05-07-ben-prestation-de-serment-des-conseillers-de-l-apdp
+BEN,Autorite de Protection des Donnees a caractere personnel (APDP),Benin,authority,,,,2026-07-01-ben-decret-2026-422-nomination-membres-apdp
 BFA,ARCOD,Autorite de regulation de la communication et des donnees (Autorite de regulation de la communication et de la protection des donnees a caractere personnel),authority,,,national,2026-08-04-burkina-faso-arcod-created-by-merger-of-csc-and-cil
 BFA,CIL,Commission de l'informatique et des libertes,authority,,,national,2026-08-04-burkina-faso-arcod-created-by-merger-of-csc-and-cil
 BFA,ARCOD,Autorite de regulation de la communication et des donnees (Autorite de regulation de la communication et de la protection des donnees a caractere personnel),authority,,,national,2026-08-03-burkina-alp-adopte-loi-protection-donnees-surete-aerienne
@@ -479,6 +480,7 @@ SEN,Commission de protection des donnees personnelles (CDP),Senegal,authority,,,
 SEN,Commission de Protection des Donnees Personnelles (CDP),CDP,authority,,,,2026-11-05-sen-escroqueries-par-intelligence-artificielle-la-cdp-appelle-a-la-vigilance
 SLE,Right to Access Information Commission (RAIC),Right to Access Information Commission,authority,,Government of Sierra Leone,national,2026-04-22-cabinet-data-protection-policy
 SLE,National Data Protection Policy,National Data Protection Policy,policy,,"Ministry of Information and Civic Education; Ministry of Communication, Technology and Innovation",national,2026-04-22-cabinet-data-protection-policy
+SLE,"Data Protection and Right to Access Information Bill, 2026",Sierra Leone,general,,Ministry of Information and Civic Education,,2026-11-10-sle-data-protection-records-bills
 SOM,Data Protection Act,Data Protection Act,general,,Somalia,,2026-06-02-somalia-dpa-enforces-data-compliance-registration
 SOM,Data Protection Authority,Data Protection Authority,authority,,Federal Government of Somalia,,2026-06-02-somalia-dpa-enforces-data-compliance-registration
 SOM,Public Data Protection Law,Public Data Protection Law,general,,Ministry of Communications and Technology,,2026-02-06 Somalia adopts data regulatory framework

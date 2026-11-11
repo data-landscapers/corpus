@@ -1,0 +1,17 @@
+{
+ "slug": "2024-06-01-ken-kippra-leveraging-digitalization-public-service-delivery",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "KIPPRA says the Data Protection Act of 2019 regulates personal data processing through legal and institutional mechanisms.",
+   "as_of": "2019",
+   "date_precision": "year",
+   "system": "Data Protection Act 2019",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

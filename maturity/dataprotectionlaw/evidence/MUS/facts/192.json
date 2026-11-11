@@ -1,0 +1,37 @@
+{
+ "slug": "2024-01-01-mus-data-protection-commissioner-interview-bdo-newsletter-2024",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "The Data Protection Office says it applies the Data Protection Act 2017 through compliance and enforcement activities.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Data Protection Office",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "The Data Protection Commissioner heads the Data Protection Office, which is acting under the Act.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Data Protection Office",
+   "class": "general"
+  },
+  {
+   "sub_indicator": "general",
+   "aspect": "application",
+   "value": "applied",
+   "fact": "The Data Protection Office says it delivered 73 investigation findings and 7 Supreme Court cases were won, 5 upheld on appeal against its decisions, with no period stated.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Data Protection Office",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

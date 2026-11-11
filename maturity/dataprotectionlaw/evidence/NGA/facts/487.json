@@ -1,0 +1,17 @@
+{
+ "slug": "2026-06-13-nga-thisdaylive-katsina-dpi-ngf-readiness-ikatsina",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "ThisDay, citing the Nigeria Governors' Forum's July 2025 report, says compliance with the Nigeria Data Protection Act 2023 remains weak across the country, with only about 25 to 30 percent of states having enforcement tools.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "Nigeria Data Protection Act 2023",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

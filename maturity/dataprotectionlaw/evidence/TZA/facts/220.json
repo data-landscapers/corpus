@@ -1,0 +1,17 @@
+{
+ "slug": "2024-03-01-tza-mawasiliano-completed-projects-nictbb-rcip",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "standing",
+   "value": "drafting",
+   "fact": "The Ministry says a draft Personal Data Protection Bill had been prepared by the end of the RCIP project in December 2017.",
+   "as_of": "2017-12",
+   "date_precision": "month",
+   "system": "Personal Data Protection Bill",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

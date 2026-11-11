@@ -1,0 +1,26 @@
+{
+ "slug": "2026-07-01-ben-decret-2026-422-nomination-membres-apdp",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Decree no. 2026-422 of 1 July 2026 appoints the eight members of the Autorite de Protection des Donnees a caractere personnel, citing the 2018 digital code (law 2017-20) as its basis.",
+   "as_of": "2026-07-01",
+   "date_precision": "day",
+   "system": "Autorite de Protection des Donnees a caractere personnel (APDP)",
+   "class": "general"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Autorite de Protection des Donnees a caractere personnel (APDP)",
+   "country_label": "Benin",
+   "class": "authority",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

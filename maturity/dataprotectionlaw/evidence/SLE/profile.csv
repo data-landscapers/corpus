@@ -1,6 +1,6 @@
 iso3,sub_indicator,aspect,role,value,as_of,sources,others,gap
 SLE,general,authority,qualifier,provided,2025-11,SLE-004,SLE-009=none,
-SLE,general,standing,coverage,tabled,2026-11-06,SLE-012,SLE-010=drafting;SLE-008=drafting;SLE-005=drafting;SLE-006=drafting;SLE-007=announced;SLE-001=drafting;SLE-003=drafting;SLE-011=drafting,
+SLE,general,standing,coverage,tabled,2026-11-06,SLE-012;SLE-013,SLE-010=drafting;SLE-008=drafting;SLE-005=drafting;SLE-006=drafting;SLE-007=announced;SLE-001=drafting;SLE-003=drafting;SLE-011=drafting;SLE-014=drafting,
 SLE,general,regulations,coverage,,,,,nothing found
 SLE,general,application,coverage,,,,,nothing found
 SLE,general,last12,qualifier,advancing,2026-04-21,SLE-002,,

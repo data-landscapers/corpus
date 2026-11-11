@@ -4,7 +4,7 @@
 
 **Authority.** The [Data Protection Office has been operational since 16 February 2009](<https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf>) and enforces the Data Protection Act 2017. [Drudeisha Madhub is the Data Protection Commissioner](<https://www.biometricupdate.com/202605/theres-no-digital-id-without-data-protection-mauritius-privacy-chief>).
 
-**Standing.** Mauritius [adopted its current data protection regime in 2017](<https://www.biometricupdate.com/202605/theres-no-digital-id-without-data-protection-mauritius-privacy-chief>). The Office [reports on its enforcement of the Data Protection Act 2017 during 2024](<https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf>).
+**Standing.** Mauritius [adopted its current data protection regime in 2017](<https://www.biometricupdate.com/202605/theres-no-digital-id-without-data-protection-mauritius-privacy-chief>). The Data Protection Act 2017 [came into force on 15 January 2018](<https://dataprotection.govmu.org/Pages/The%20Law/Data-Protection-Act-2017.aspx>). The Office [reports on its enforcement of the Act during 2024](<https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf>).
 
 **Regulations.** Controllers and processors register under the [Data Protection (Fees) Regulations 2020](<https://dataprotection.govmu.org/AnnualReports/265-26-DPO%20AR%202024-SOFT%20COPY.pdf>). Registrations reached 21,219 controllers and 1,157 processors by 31 December 2024. On 29 October 2026 the Minister [said 23,000 of some 60,000 entities required to register had done so](<https://lexpress.mu/node/564216>).
 

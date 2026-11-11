@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-kenya-nominates-lydia-sitienei-second-data-commissioner",
+ "facts": [
+  {
+   "sub_indicator": "general",
+   "aspect": "authority",
+   "value": "constituted",
+   "fact": "Tech Africa News reports the Office of the Data Protection Commissioner is led by inaugural commissioner Immaculate Kassait, with a successor nominated under the Data Protection Act.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "ODPC",
+   "class": "general"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

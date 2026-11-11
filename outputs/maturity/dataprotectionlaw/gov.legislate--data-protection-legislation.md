@@ -21,8 +21,8 @@ The norm is the African Union's Malabo Convention: Article 8(1) commits each par
 | Stage | Countries |
 |---|---|
 | 5 Leading | 9 |
-| 4 Operating | 10 |
-| 3 Established | 27 |
+| 4 Operating | 11 |
+| 3 Established | 26 |
 | 2 Nascent | 7 |
 | 1 Absent | 1 |
 | Unplaced | 0 |
@@ -164,6 +164,21 @@ Côte d'Ivoire's 2013 data protection law is applied, with a formal notice to na
 - The Autorite de protection's register lists decision 2024-0996 of 16 January 2024 giving a warning and formal notice to the METFPA ministry and the company Kaydan Groupe ([source, 2024-01-16](https://www.autoritedeprotection.ci/decisions/)).
 - The Autorite de protection de la Republique de Cote d'Ivoire lists its own dated decisions from 2016 to January 2024 ([source, 2024-01-16](https://www.autoritedeprotection.ci/decisions/)).
 - The authority's register lists normative decisions, including 2021-0676 of 4 August 2021 setting the control procedure and 2023-0920 of 20 July 2023 approving the 2023 controls list ([source, 2023-07-20](https://www.autoritedeprotection.ci/decisions/)).
+
+### Egypt: 4 Operating
+
+Egypt's 2020 data protection law is in force and a court applied it in a 2025 damages judgment; no count of decisions is published.
+
+*Advancing.*
+
+- Law No. 151 of 2020 entered into force in October 2020 and its Executive Regulations carry a one-year transitional period expiring 31 October 2026, per Shura Law Firm ([source, 2026-10-13](https://shuralawfirm.com/en/egypt-pdpl-compliance-checklist-what-to-do-before-the-october-31-2026-deadline/)).
+- The essay discusses Egypt's Law 151/2020 as the country's operating personal data protection law whose protections AI-driven biometric and location data collection is outpacing; it gives no date of commencement, so the date used is the document's published date (2025-06-21) ([source, 2025-06-21](https://www.thecairoreview.com/essays/regulating-privacy-and-digital-identities-in-the-age-of-ai-the-view-from-egypt)).
+- The Alexandria Economic Court, as reported by Khalf El Hadth, applied Egypt's Personal Data Protection Law No. 151 of 2020, including its article 9, in judging a telecoms operator's duty to protect a customer's data ([source, 2025-05](https://khalfelhadth.com/41922)).
+- The Alexandria Economic Court (case 554 of 2024) ordered a telecoms operator to pay EGP 10 million in damages for failing to protect a customer's personal data after an unauthorised SIM swap, citing Law 151 of 2020; the judgment date is not given ([source, 2025-05](https://khalfelhadth.com/41922)).
+- Baker McKenzie says the Minister of Telecommunications and Information Technology issued Decree No. 816 of 2025 on 1 November 2025, issuing the Executive Regulations of the PDPL ([source, 2025-11-01](https://www.bakermckenzie.com/en/insight/publications/2026/10/egypt-personal-data-protection-law-update)).
+- Access Partnership says Executive Regulations No. 816/2025 under Law No. 151/2020 were issued by Ministerial Decree on 1 November 2025 ([source, 2025-11-01](https://accesspartnership.com/opinion/egypt-finalises-executive-regulations-to-the-personal-data-protection-law-pdpl)).
+- Baker McKenzie says the Personal Data Protection Center (PDPC) officially launched its electronic portal in early October 2026 to receive and process applications for accreditation, licences and permits ([source, 2026-10](https://www.bakermckenzie.com/en/insight/publications/2026/10/egypt-personal-data-protection-law-update)).
+- Al-Ahram Gate reports that the Personal Data Protection Center (PDPC) was run by an acting chief executive, Soussan El-Okbawy, who chaired a Cairo ICT session on 16 November 2025 and called Law No. 151 of 2020 the foundation for regulating personal data protection ([source, 2025-11-16](https://gate.ahram.org.eg/News/5335073.aspx)).
 
 ### Eswatini: 4 Operating
 
@@ -339,22 +354,6 @@ The 2023 Digital Code, in force, covers personal data; a data protection officer
 Djibouti enacted a data protection law in June 2025; when it took effect, and any decision under it, are unknown.
 
 - TechHive Advisory states that Djibouti's 156-article data-protection regime was enacted in June 2025 as part of the Digital Code; it gives no promulgation or commencement date ([source, 2025-06](https://www.techhiveadvisory.africa/insights/review-of-djiboutis-data-protection-law)).
-
-### Egypt: 3 Established
-
-Egypt's 2020 data protection law is in force and its authority opened a licensing portal in 2026; no decision under it is known.
-
-*Advancing.*
-
-- Law No. 151 of 2020 entered into force in October 2020 and its Executive Regulations carry a one-year transitional period expiring 31 October 2026, per Shura Law Firm ([source, 2026-10-13](https://shuralawfirm.com/en/egypt-pdpl-compliance-checklist-what-to-do-before-the-october-31-2026-deadline/)).
-- The essay discusses Egypt's Law 151/2020 as the country's operating personal data protection law whose protections AI-driven biometric and location data collection is outpacing; it gives no date of commencement, so the date used is the document's published date (2025-06-21) ([source, 2025-06-21](https://www.thecairoreview.com/essays/regulating-privacy-and-digital-identities-in-the-age-of-ai-the-view-from-egypt)).
-- Baker McKenzie says the Minister of Telecommunications and Information Technology issued Decree No. 816 of 2025 on 1 November 2025, issuing the Executive Regulations of the PDPL ([source, 2025-11-01](https://www.bakermckenzie.com/en/insight/publications/2026/10/egypt-personal-data-protection-law-update)).
-- Access Partnership says Executive Regulations No. 816/2025 under Law No. 151/2020 were issued by Ministerial Decree on 1 November 2025 ([source, 2025-11-01](https://accesspartnership.com/opinion/egypt-finalises-executive-regulations-to-the-personal-data-protection-law-pdpl)).
-- Baker McKenzie says the Personal Data Protection Center (PDPC) officially launched its electronic portal in early October 2026 to receive and process applications for accreditation, licences and permits ([source, 2026-10](https://www.bakermckenzie.com/en/insight/publications/2026/10/egypt-personal-data-protection-law-update)).
-- Baker McKenzie says the PDPC portal also publishes guidelines and frameworks setting out its requirements for controllers and processors; no sanction or decision is reported ([source, 2026-10](https://www.bakermckenzie.com/en/insight/publications/2026/10/egypt-personal-data-protection-law-update)).
-- Tech Hive Advisory says Egypt's Personal Data Protection Centre published guidelines (consent, lawful bases, direct marketing, DPO, ROPA, licences and permits, privacy notice) and breach-notification templates to aid compliance with the law and executive regulations; no sanction is reported (date is January-February 2026, the period covered) ([source, 2026](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026)).
-- Baker McKenzie reports the PDPC launched its licensing and permit portal in early October 2026, weeks before the compliance grace period ends ([source, 2026-10](https://www.bakermckenzie.com/en/insight/publications/2026/10/egypt-personal-data-protection-law-update)).
-- Al-Ahram Gate reports that the Personal Data Protection Center (PDPC) was run by an acting chief executive, Soussan El-Okbawy, who chaired a Cairo ICT session on 16 November 2025 and called Law No. 151 of 2020 the foundation for regulating personal data protection ([source, 2025-11-16](https://gate.ahram.org.eg/News/5335073.aspx)).
 
 ### Equatorial Guinea: 3 Established
 
