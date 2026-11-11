@@ -1,0 +1,7 @@
+{
+  "slug": "2021-03-01-nga-fmcde-national-policy-vsat-installation-core-skills",
+  "facts": [],
+  "systems": [{"system": "NIGCOMSAT-1R", "country_label": "Nigeria", "class": "", "platform": "", "owner": "NIGCOMSAT", "tiers": ""}],
+  "note": "The 2021 VSAT installer training policy says broadband can be delivered over NIGCOMSAT-1R but states no licence and no service on sale.",
+  "claims": {"aftech-7f03527caa": "nothing: an installer skills policy, states no licence or service on sale"}
+}
