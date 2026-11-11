@@ -34,6 +34,7 @@ DZA,Dzair Digital Services,dzair digital services,other,,,,2026-09-20-dza-echaab
 DZA,Dispositif national de gouvernance des données,dispositif national de gouvernance des données,other,,Prime Minister's office (launch); established by presidential decree 25-320,,2026-02-09-radioalgerienne-lancement-dispositif-gouvernance-donnees
 DZA,Numero d'Identification National (NIN) system,DZA,other,,Ministry of Interior,,2025-12-08-dza-algerie360-nin-rnaec-administrations
 DZA,Registre National Automatise de l'Etat Civil (RNAEC),DZA,other,,Ministry of Interior,,2025-12-08-dza-algerie360-nin-rnaec-administrations
+DZA,national data governance system (decree 25-320),Algeria,law,,High Commission for Digitalisation,,2026-02-10-dza-numerisation-un-cadre-juridique-avance-et-une-gouvernance-des-donnees
 EGY,National Property Identification System (National Property ID),National Property ID,other,,"Egyptian government entities, under Law 88 of 2025 per other documents","government entities, utilities, municipalities, taxation authorities",2026-07-05-egypt-property-registration-rate-below-10pct
 EGY,Real Estate Wealth Management System (REWMS),REWMS,other,,,,2026-07-05-egypt-property-registration-rate-below-10pct
 EGY,Property Egypt platform,Property Egypt,other,,Ministry of Communications and Information Technology,national,2025-12-18-property-egypt-platform-launch
@@ -50,6 +51,8 @@ EGY,الخزانة الرقمية,Digital Treasury,other,,Ministry of Communicat
 EGY,المنظومة الإلكترونية لمصلحة الضرائب,Egyptian Tax Authority electronic system,other,,Egyptian Tax Authority,national,2026-07-29-alborsa-tax-digitisation-comprehensive-reform-assessment-egypt
 EGY,Digital Egypt platform,Digital Egypt,other,,Ministry of Communications and Information Technology,105 government entities and over 100 databases connected,2026-07-29-egypt-launches-digital-public-shop-licensing-system-on-digital-egypt-platform
 EGY,digital treasury system,Digital Treasury,other,,Ministry of Communications and Information Technology,public shop licensing,2026-07-29-egypt-launches-digital-public-shop-licensing-system-on-digital-egypt-platform
+EGY,"Bill on classification, circulation and availability of information",Egypt,law,,Government,,2025-12-10-egy-dostor-data-classification-circulation-bill-35-articles
+EGY,Data availability and exchange bill,Egypt,law,,Ministry of Communications and Information Technology,,2024-02-12-egy-youm7-mcit-data-availability-exchange-bill-sent-to-justice-ministry
 ERI,ASYCUDA World,digital customs management system,other,ASYCUDA World (UNCTAD),Eritrean government customs administration,national,2026-01-08 Eritrea launches ASYCUDA World digital customs system
 ERI,ASYCUDA World,digital customs management system,other,ASYCUDA World (UNCTAD),Eritrean Customs Department,all customs stations,2026-01-08-undp-eritrea-asycuda-world-digital-customs
 ETH,MESOB,FDRE MESOB Service / MESOB Center,other,,FDRE MESOB Service,federal; 23 service-provider institutions listed,2026-08-23-mesob-centre-service-catalogue
@@ -79,6 +82,7 @@ LBR,NIR platform (SIM registration verification),NIR platform,other,,National Id
 LBR,National Biometric Identification System (NBIS),NBIS,other,,National Identification Registry (NIR),central government institutions and private sector,2025-04-01-liberia-executive-order-147-mandatory-nbis-enrollment
 LBR,Identity Query Portal and e-Verification platform,Identity Query Portal; eVerification platform,other,,National Identification Registry (NIR),"government ministries, agencies, commissions; private institutions",2025-04-01-liberia-executive-order-147-mandatory-nbis-enrollment
 LBR,Electronic Government Procurement (e-GP) System,e-GP System,other,,Public Procurement and Concessions Commission (PPCC),"ministries, agencies and commissions; six institutions in Phase One, 50 in Phase Two",2026-08-05-liberia-ppcc-ict-equipment-egp-phase-two
+LBR,Executive Order 147,Liberia,other,national ID mandate,Government of Liberia,,2025-06-17-lbr-government-extends-national-id-deadline-to-august-31
 LBY,LY-NDEX (National Data Distributor),National Data Distributor (LY-NDEX),other,,General Information Authority,national; Libyan Zakat Fund urged to integrate,2026-04-23-gia-zakat-fund-data-governance-national-guide
 LBY,National Database (قاعدة البيانات الوطنية),قاعدة البيانات الوطنية,other,,General Information Authority,,2018-02-01-presidential-council-decision-130-2018-national-number-competences
 LBY,Unified Economic Number,Unified Economic Number project (Decision No. 348 of 2026),other,,Ministry of Economy and Trade; National Council for the Unified Economic Number,"ministries, agencies and public institutions linking databases",2026-07-18-libya-unified-economic-number
@@ -131,6 +135,7 @@ SLE,Digital Government Bill,Digital Government Bill,other,,"Ministry of Communic
 SLE,Data Governance Framework,Data Governance Framework,other,,"Ministry of Communication, Technology and Innovation",government institutions,2026-09-05-sierra-leone-moctii-un-data-governance-framework
 SOM,National Digital Trust System (NDTS),National Digital Trust System,other,,,,2026-04-28-dpi-somalia-risks-repeating-old-mistakes
 SOM,"National civil registration database and digital registration system (Law No. 46, 2026)",Nidaamka diiwaan-gelinta danabaysan / kaydka dhexe,other,,Agaasinka Adeegyada Dad-dhigista iyo Tirakoobka Xaaladaha Madaniga ah (Civil Registration and Vital Statistics Directorate),"federal, federal member state, Banadir, district",2026-04-05-somalia-population-registration-civil-status-law-46
+STP,Lei-Quadro Nacional de Interoperabilidade (Lei n.o 1/2024),Sao Tome and Principe,law,,,,2026-10-27-stp-sao-tome-e-principe-defende-mecanismos-mais-rapidos-para-obter-provas
 SWZ,Health Information Exchange,Health Information Exchange,other,HL7/FHIR standards,Ministry of Health,Ministry of Health,2026-05-21-critical-state-information-at-risk-in-9-govt-ministries
 SYC,"National Addressing Database Unit (under the National Addressing System Bill, 2026)",National Addressing System,other,,National Addressing Department,,2026-04-03-seychelles-national-addressing-system-bill-cabinet
 SYC,National Addressing and Postcode System,National Addressing System,other,S42 address standard,Seychelles Postal Regulator,,2025-01-01 National Addressing System - Seychelles Postal Regulator

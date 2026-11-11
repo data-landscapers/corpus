@@ -1,0 +1,17 @@
+{
+ "slug": "2023-11-16-moz-intic-promove-reflexao-sobre-interoperabilidade-dos-sistemas-do-govern",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "in-force",
+   "fact": "INTIC states that it is implementing the Regulamento do Quadro de Interoperabilidade dos Sistemas do Governo Electronico, issued as Decreto 90/2020 of 9 October.",
+   "as_of": "2020-10-09",
+   "date_precision": "day",
+   "system": "Decreto 90/2020",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": "The document does not say the decree obliges public bodies to share data."
+}

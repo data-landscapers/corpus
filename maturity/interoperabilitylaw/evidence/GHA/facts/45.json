@@ -1,0 +1,17 @@
+{
+ "slug": "2026-05-21-gha-labari-imani-nita-bill-data-harmonisation-bill-afcfta",
+ "facts": [
+  {
+   "sub_indicator": "law",
+   "aspect": "standing",
+   "value": "draft",
+   "fact": "The Labari Journal says the Data Harmonisation Bill, developed by NITA and before Ghana's Parliament, would set a legal framework for data sharing and make it mandatory for all public institutions to integrate their systems under uniform data standards; it has not passed.",
+   "as_of": "2026-05-21",
+   "date_precision": "day",
+   "system": "Data Harmonisation Bill",
+   "class": "law"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

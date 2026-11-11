@@ -1,16 +1,17 @@
 {
- "iso3": "EGY",
- "cells": [
-  {
-   "sub_indicator": "law",
-   "stage": "no evidence",
-   "standing": "",
-   "duty": "",
-   "cap": "",
-   "flags": "",
-   "stage_sources": "",
-   "gaps": "Nothing found names a law, decree or regulation on public bodies sharing data, or a draft of one, or says there is none.",
-   "note": "Counted from the four questions by study-ladder-interoperabilitylaw.py."
-  }
- ]
+  "iso3": "EGY",
+  "cells": [
+    {
+      "sub_indicator": "law",
+      "stage": "2",
+      "standing": "draft",
+      "duty": "",
+      "cap": "",
+      "flags": "",
+      "stage_sources": "EGY-002;EGY-003;EGY-001",
+      "gaps": "No source found says a law, decree or regulation on public bodies sharing data is in force.",
+      "note": "Stage 4c 2026-11-10: a bill on data exchange between government bodies was drafted and sent to the Justice Ministry in 2024 and finished, at 35 articles, for parliament in December 2025; nothing is in force, so stage 2.",
+      "as_at": "2026-11-10"
+    }
+  ]
 }

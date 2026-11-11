@@ -23,10 +23,10 @@ The African Union's Digital Transformation Strategy asks for a framework, with i
 | 5 Leading | 0 |
 | 4 Operating | 7 |
 | 3 Established | 10 |
-| 2 Nascent | 9 |
+| 2 Nascent | 10 |
 | 1 Absent | 1 |
 | Unplaced | 2 |
-| No evidence | 25 |
+| No evidence | 24 |
 
 ## Countries
 
@@ -155,6 +155,14 @@ A 2020 government resolution orders state bodies to share data and a law to be d
 
 - Council of Ministers Resolution 54/2020, approved 19 March 2020 and published in Boletim Oficial no. 37 of 27 March 2020, took effect the day after publication and applies to all direct and indirect State administration services; it is a government resolution, not a law, and orders (measure e) that a legal diploma on interoperability of public administration information systems be drafted and approved, with an interoperability framework (measure f) ([source, 2020-03-27](https://nosi.cv/documents/20121/3048284/Medidas%20de%20Acelera%C3%A7%C3%A3o%20Transforma%C3%A7%C3%A3o%20Digital%20na%20AP%20%282020%29.pdf/c556d060-0549-84e6-f11d-9eaee3e3f9d3)).
 
+### Egypt: 2 Nascent
+
+A bill on data exchange between government bodies was finished for parliament in December 2025; nothing is in force.
+
+- House ICT committee chair Ahmed Badawi told Al-Dostor the government has finished preparing a 35-article bill on classifying, circulating and making available information, which governs data exchange between the state's executive sectors (classified information excluded) and is due to go to parliament at the start of the next session ([source, 2025-12-10](https://www.dostor.org/5338473)).
+- Deputy ICT Minister Khaled El-Attar told the House ICT committee on 12 February 2024 that a bill on data availability and exchange between government bodies has been drafted and sent to the Justice Ministry ([source, 2024-02-12](https://www.youm7.com/story/2024/2/12/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%83%D8%B4%D9%81-%D9%84%D9%84%D9%86%D9%88%D8%A7%D8%A8-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D8%A5%D8%AA%D8%A7%D8%AD%D8%A9-%D9%88%D8%AA%D8%A8%D8%A7%D8%AF%D9%84/6477784)).
+- Fintech Gate reports Communications and IT Minister Amr Talaat said the ministry is preparing a draft law on data classification and exchange, to go to Cabinet and then the House after discussion with the AmCham Cairo digital transformation committee ([source, 2025-12-25](https://www.fintechgate.net/184454)).
+
 ### Ethiopia: 2 Nascent
 
 The Council of Ministers sent a draft data governance proclamation to parliament in September 2026; nothing is in force.
@@ -258,12 +266,6 @@ Not established: Nothing found names a law, decree or regulation on public bodie
 ### Djibouti: No evidence
 
 Nothing found names a law or decree on public bodies sharing data for Djibouti, or a draft, so no stage is set.
-
-Not established: Nothing found names a law, decree or regulation on public bodies sharing data, or a draft of one, or says there is none.
-
-### Egypt: No evidence
-
-Nothing found names a law or decree on public bodies sharing data for Egypt, or a draft, so no stage is set.
 
 Not established: Nothing found names a law, decree or regulation on public bodies sharing data, or a draft of one, or says there is none.
 
