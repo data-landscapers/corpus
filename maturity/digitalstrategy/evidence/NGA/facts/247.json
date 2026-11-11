@@ -1,0 +1,17 @@
+{
+ "slug": "2024-01-01-nga-nitda-e-government-development-department",
+ "facts": [
+  {
+   "sub_indicator": "national",
+   "aspect": "governance",
+   "value": "body:mandated",
+   "fact": "NITDA's e-Government Development and Regulation Department says its objectives include implementing the Strategic Roadmap and Action Plan (SRAP 2.0) for the digital economy; the page does not say who adopted it or give its scope.",
+   "as_of": "2024",
+   "date_precision": "year",
+   "system": "Strategic Roadmap and Action Plan (SRAP 2.0)",
+   "class": "national"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
