@@ -1,0 +1,54 @@
+{
+ "slug": "2025-02-21-dza-le-haut-commissariat-a-la-numerisation-presente-la-premiere-version-du",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "Algeria's High Commission for Digitalisation says the experimental data exchange over the sovereign network (IRIES) succeeded and real data exchange has begun between 33 ministerial sectors and public bodies connected by fibre outside the internet.",
+   "as_of": "2025-02-20",
+   "date_precision": "day",
+   "system": "IRIES sovereign network",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "The High Commission for Digitalisation says 33 ministerial sectors and public bodies now exchange data in practice over the sovereign network.",
+   "as_of": "2025-02-20",
+   "date_precision": "day",
+   "system": "IRIES sovereign network",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "The High Commission for Digitalisation says it is preparing the launch of a national interoperability platform to exchange data between ministries and public bodies over the state's secure public network, replacing exchange by CD, key or software interfaces.",
+   "as_of": "2025-02-20",
+   "date_precision": "day",
+   "system": "Plateforme nationale d'interopérabilité",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "IRIES",
+   "country_label": "IRIES sovereign network",
+   "class": "exchange",
+   "platform": "fibre network outside the internet",
+   "owner": "Haut-Commissariat à la numérisation",
+   "tiers": ""
+  },
+  {
+   "system": "Plateforme nationale d'interopérabilité",
+   "country_label": "National interoperability platform",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Haut-Commissariat à la numérisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

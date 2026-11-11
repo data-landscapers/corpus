@@ -1,0 +1,15 @@
+{
+ "slug": "2026-06-13-nga-thisdaylive-katsina-dpi-ngf-readiness-ikatsina",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Nigerian Data Exchange (NGDX)",
+   "country_label": "Nigeria",
+   "class": "other",
+   "platform": "",
+   "owner": "NITDA",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a draft technical standard for NGDX is under review; no platform is stated procured, built or live."
+}

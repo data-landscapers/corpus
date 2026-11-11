@@ -61,10 +61,10 @@ Use of the government data exchange platform was reported in 2024.
 
 ### Zambia: 5 Leading
 
-Use of the government data exchange platform was reported in 2025.
+The government data exchange platform hosted 532 services in 2026 and recorded 1.2 million transactions in 2025.
 
-- Smart Zambia Institute coordinator Percy Chinyama says 4.5 million transactions worth K5 billion were processed on the Government Service Bus over three years ([source, 2025-04-04](https://znbc.co.zm/news/govt-service-bus-handles-k5bn-in-transactions/)).
-- The Accountant General's office says more than 400 government services have been onboarded onto the digital ecosystem of the Government Service Bus, ZamPortal and ZamPay, and plans a rollout to all 116 local authorities ([source, 2026-07-10](https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2)).
+- Minister Mutati said the Government Service Bus recorded 1.2 million transactions last year ([source, 2025](https://www.zambiamonitor.com/world-bank-calls-on-zambia-to-step-up-investment-in-digital-infrastructure-skills/)).
+- Minister Mutati said the Government Service Bus currently hosts 532 services ([source, 2026-11-09](https://www.zambiamonitor.com/world-bank-calls-on-zambia-to-step-up-investment-in-digital-infrastructure-skills/)).
 
 ### Egypt: 4 Operating
 
@@ -75,9 +75,9 @@ Ten or more bodies or systems were connected to the government exchange platform
 
 ### Tanzania: 4 Operating
 
-More than 100 public institutions were connected to the government data exchange platform in 2023; its use is not reported.
+More than 180 public institutions were connected to the government data exchange platform in 2025; its use is not reported.
 
-- e-GA says 109 public institutions are connected to GovESB and 117 systems registered, including NIDA, BRELLA, NECTA, the Judiciary, Police, TAKUKURU and NPS ([source, 2023-12-22](https://www.ega.go.tz/uploads/pressreleases/sw-1703229775-MIFUMO%20YA%20TEHAMA%20YA%20TAASISI%20ZA%20UMMA%20KUBADILISHANA%20TAARIFA%20KIDIJITALI%20.pdf)).
+- e-GA reports that more than 180 public institutions are connected to GovESB and more than 200 systems exchange data through it ([source, 2025-06-23](https://www.ega.go.tz/news/waziri-mkuu-azindua-mfumo-wa-govesb)).
 - Officials cite the Government Enterprise Service Bus (GovESB) as the backbone for secure data exchange across ministries, and the e-Government Authority's Director General urges institutions to ensure systems are connected through it; no count of connected systems or figure for its traffic is given ([source, 2026-01-26](https://www.monitor.co.ug/uganda/news/national/tanzania-s-govtech-success)).
 
 ### Algeria: 3 Established

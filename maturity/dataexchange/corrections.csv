@@ -8,3 +8,5 @@ LBY,003,platform,inservice,revalued: underway,Rebuild 2026-10-28: the platform i
 SEN,006,platform,inservice,revalued: underway,Rebuild 2026-10-28: a minimum viable product with two use cases is a pilot between a few systems
 SEN,007,platform,inservice,revalued: underway,"Rebuild 2026-10-28: the portal's counters show placeholders, and a September 2026 call still calls the platform future"
 SOM,001,platform,none,revalued: underway,"Ruled 2026-10-28 (Bill, 2026-10-25, method §3.8): a planned central data exchange platform is intent, which reaches stage 2"
+DZA,015,platform,inservice,removed,"Stage 4c 2026-11-10: IRIES is a fibre network outside the internet, not an exchange platform; the same release says the interoperability platform was still being prepared"
+DZA,016,reach,wide,removed,"Stage 4c 2026-11-10: the 33 bodies are connected to the IRIES network, not to an exchange platform, so they are not a count for question 3"

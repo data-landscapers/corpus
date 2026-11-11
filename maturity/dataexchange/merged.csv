@@ -1,5 +1,6 @@
 iso3,source_slug,read,merged_on
 AGO,2024-05-23-ago-memorandum-of-understanding-to-develop-a-digital-governance-academy-in,,2026-10-26
+AGO,2025-07-11-ago-angola-da-passos-firmes-rumo-a-uma-administracao-publica-mais-intelige,,2026-11-11
 AGO,2026-02-11-ima-tdr-formacao-e-treinamento-da-plataforma-de-interoperabilidade,,2026-10-19
 AGO,2026-06-17-ago-2026-ima-infra-estruturas-digitais-publicas,,2026-10-19
 AGO,2026-06-17-ima-tis-contrato-projecto-infra-estruturas-digitais-publicas,,2026-10-19
@@ -74,6 +75,7 @@ CMR,2025-10-27-across-21-countries-shared-journey-inclusive-digital-social-prote
 CMR,2025-11-20-services-publics-et-transparence-les-evolutions-cles-de-la-loi-e-gov,,2026-11-07
 CMR,2026-01-21-dmf-cameroun-loi-egov-acces-information-publique-validation-officielle,,2026-11-07
 CMR,2026-04-24-cameroons-national-artificial-intelligence-strategy-snia,,2026-11-07
+CMR,2026-08-19-cmr-lettre-circulaire-n00010308-lc-minfi-du-19-aout-2026-relative-a-la-gou,,2026-11-11
 CMR,2026-08-20-cmr-digitalbusiness-fgi-interoperabilite,,2026-10-19
 CMR,2026-08-21-biometricupdate-cameroon-national-interoperability-infrastructure,,2026-10-19
 CMR,2026-09-17-cmr-cameroonpress-fichier-solde-5971-agents-non-residents,,2026-10-19
@@ -91,6 +93,7 @@ COD,2026-10-07-iati-gb-gov-1-400199-411-cross-regulatory-digital-governance-sout
 COD,2026-10-22-cod-rdc-serge-kaozi-lubamba-nomme-a-la-tete-des-missions-de-l-ance,,2026-10-26
 COD,2026-10-29-iati-xm-dac-6-4-013531-01-0-agbledu-smart-agri-markets-digitally-enabled-agriculture-ghana,,2026-11-01
 COD,2026-10-31-iati-xm-dac-41114-output-01003119-nga-timbuktoo-fintech,,2026-11-07
+COD,2026-10-31-iati-xm-dac-41301-766203-rwanda-fruit-tree-digital-monitoring,,2026-11-11
 COD,2026-11-06-cod-justice-en-rdc-digitalisation-des-recettes-judiciaires-pnud-union-europeenne,,2026-11-07
 COG,2025-12-05-cog-module-fiscalite-sivl-mfbpp,,2026-10-19
 COG,2025-12-19-smart-africa-ascend-sadx-pilot,,2026-10-19
@@ -98,6 +101,7 @@ COG,2026-07-28-cg-feuille-de-route-numerique-tribune,,2026-10-19
 COG,2026-09-02-mpten-architecture-numerique-nationale-digital-public-infrastructure-dpi,,2026-10-19
 COG,2026-09-24-cog-aci-data-center-82-pourcent,,2026-10-26
 COG,2026-10-17-cog-adiac-arpce-livre-blanc-adressage-postal,,2026-10-19
+COG,2026-10-19-cog-congo-la-numerisation-de-l-administration-face-au-defi-de-l-interopera,,2026-11-11
 COM,2023-12-07-com-afd-pagf-si-systeme-information,,2026-10-19
 COM,2024-10-01-com-afdb-padec-digitisation-grant,,2026-10-19
 COM,2024-10-06 Comoros to implement digital govt program with AfDB grant (Digitization of the Comorian Economy),,2026-10-19
@@ -122,12 +126,14 @@ DZA,2024-08-25-dza-transformation-numerique-la-strategie-nationale-adoptee,,2026
 DZA,2024-09-22-dza-algerieaujourdhui-alces-168000-declarations,,2026-10-19
 DZA,2024-11-20-dza-linterconnexion-et-ses-enjeux-dans-les-tic-en-algerie,,2026-11-05
 DZA,2025-02-06-dza-mf-modernisation-douanes-alces,,2026-10-22
+DZA,2025-02-21-dza-le-haut-commissariat-a-la-numerisation-presente-la-premiere-version-du,,2026-11-11
 DZA,2025-05-12-dza-algerie-numerique-2030-une-strategie-ambitieuse-pour-un-virage-digital,,2026-11-02
 DZA,2025-08-16-transactions-immobilieres-interoperabilite-nouvel-accord,,2026-10-19
 DZA,2025-12-30-joradp-decret-25-320-gouvernance-donnees,,2026-10-19
 DZA,2026-01-01-decree-25-320-data-governance-technical-base-elmoudjahid,,2026-10-19
 DZA,2026-01-01-dza-hichem-andaloussi-p-dg-du-groupe-algerie-telecom-a-alger-16-lalgerie-f,,2026-11-05
 DZA,2026-02-09-algeria-data-governance-launch-maghrebinfo,,2026-10-19
+DZA,2026-02-10-dza-numerisation-un-cadre-juridique-avance-et-une-gouvernance-des-donnees,,2026-11-11
 DZA,2026-02-14-dza-almostathmir-data-governance-classification-rollout,,2026-10-29
 DZA,2026-05-01-dza-id4africa-numerisation-etat-civil-cnibe,,2026-10-19
 DZA,2026-07-05-dza-elwatan-centre-national-services-numeriques,,2026-10-19
@@ -141,8 +147,10 @@ DZA,2026-10-17-dza-cnrc-portail-creation-entreprise-accueil,,2026-10-19
 DZA,2026-10-21-dza-aps-base-donnees-unifiee-suivi-prix,,2026-10-26
 DZA,2026-10-22-dza-aadl-3-electronic-payment-338-billion,,2026-10-24
 DZA,2026-11-05-dza-echorouk-digital-platform-consumer-prices-monitoring,,2026-11-07
+EGY,2024-02-12-egy-youm7-mcit-data-availability-exchange-bill-sent-to-justice-ministry,,2026-11-11
 EGY,2025-07-17-egy-ahram-real-estate-registry-complex-alamein,,2026-10-19
 EGY,2025-11-24-egy-efinance-salesforce-collaborate-to-build-egypt-s-agentic-ai-powered-ap,,2026-10-29
+EGY,2025-12-25-egy-fintechgate-mcit-drafting-data-classification-exchange-law,,2026-11-11
 EGY,2026-06-23-egy-amwalalghad-fra-capmas-data-sharing-protocol,,2026-10-19
 EGY,2026-07-02-egy-eta-ai-strategy-tax-administration-almasryalyoum,,2026-10-22
 EGY,2026-07-19-ahram-pm-presidential-directives-digital-transformation,,2026-10-19
@@ -212,6 +220,7 @@ GNQ,2026-08-07-eqguinea-national-development-agency-data-silos,,2026-10-19
 KEN,2022-01-01-kenya-the-principles-in-action,,2026-10-19
 KEN,2026-01-20-cybernetica-piloted-interoperability-platform-kenya,,2026-10-19
 KEN,2026-04-07-ken-kra-ksh-2-trillion-nine-months,,2026-10-19
+KEN,2026-04-29-ken-techweez-icta-interoperability-framework-connected-africa,,2026-11-11
 KEN,2026-07-27-kenya-moh-knphi-erp-addendum-cross-government-integration,,2026-10-19
 KEN,2026-07-27-kenya-moh-knphi-lims-addendum-interoperability-specifications,,2026-10-19
 KEN,2026-08-17-kenya-treasury-dpmis-development-partner-tracking,,2026-10-19
@@ -249,6 +258,7 @@ MAR,2026-06-26-mar-mtnra-un-open-source-week-seghrouchni-seance-inaugurale,,2026
 MAR,2026-07-13-mar-portnet-processes-more-nearly-200-000-customs-declarations-in-june,,2026-10-27
 MAR,2026-07-28-morocco-water-digital-twin-national-data-platform-ehtp,,2026-10-19
 MAR,2026-10-28-hespress-ministry-of-artificial-intelligence-new-government,,2026-11-01
+MAR,2026-11-10-mar-ahmed-rahhou-annonce-une-ia-en-darija-en-commission-parlemen,,2026-11-11
 MDG,2022-11-14-ugd-cadre-interoperabilite,,2026-10-19
 MDG,2023-10-10-worldbank-legal-identity-madagascar-namibia,,2026-10-19
 MDG,2025-08-28 Madagascar seeks firm to expand digital interoperability platform,,2026-10-19
@@ -264,6 +274,7 @@ MLI,2025-12-30-lessor-agetic-intranet-point-ml,,2026-10-19
 MLI,2026-08-03-mali-semaine-du-numerique-recommandations-souverainete,,2026-10-19
 MLI,2026-09-01-mli-cooperation-bilaterale-la-cote-d-ivoire-et-le-mali-ont-evalue-la-mise,,2026-11-05
 MOZ,2025-06-13-moz-inage-ip-lidera-implementacao-da-plataforma-de-interoperabilidade-cent,,2026-10-23
+MOZ,2025-10-14-moz-interoperabilidade-dos-sistemas-do-governo-electronico-e-fundamental-p,,2026-11-11
 MOZ,2026-03-16-sets-up-agency-digital-transformation-biometricupdate,,2026-10-19
 MOZ,2026-03-26-moz-mozambique-fintech-week-26-ausencia-de-interoperabilidade-trava-servic,,2026-10-29
 MOZ,2026-04-23-moz-implementation-status-results-report-digital-governance-and-economy-pr,,2026-11-07
@@ -275,6 +286,7 @@ MOZ,2026-08-28-sisma-interoperability-platform,,2026-10-19
 MOZ,2026-09-24-moz-ecofinagency-unified-digital-platform,,2026-10-19
 MOZ,2026-09-28-moz-biometricupdate-citizen-portal-digital-id-shortlist,,2026-10-19
 MOZ,2026-10-09-moz-mznews-atdi-x-road-training,,2026-10-19
+MRT,2024-01-01-mrt-avis-general-de-passation-des-marches-du-projet-regional-d-integration,,2026-11-11
 MRT,2025-01-01-mrt-tfad-trade-facilitation-agreement-database-mauritania-article-10-4-sin,,2026-10-27
 MRT,2025-08-05-mrt-de-grands-projets-porteurs-de-modernisation-de-l-administration,,2026-10-26
 MRT,2025-11-19-mrt-009-2025,,2026-10-30
@@ -327,6 +339,7 @@ NGA,2025-03-17-nitda-dpi-technical-standards-draft-v1-3,,2026-10-19
 NGA,2025-08-19-nga-fg-orders-mdas-to-migrate-foreign-hosting-to-galaxy-backbone-in-digita,,2026-11-01
 NGA,2025-08-26-nigerian-data-exchange-platform-ngdx,,2026-10-19
 NGA,2025-08-28 Nigeria to launch National Data Exchange (NGDX) platform to boost digital economy,,2026-10-19
+NGA,2025-09-18-nga-fg-to-begin-implementation-of-digital-public-infrastructure-data-excha,,2026-11-11
 NGA,"2026-03-01 Nigeria Signs MoU With Finland On Digital Innovation, Deepens Bilateral Ties",,2026-10-19
 NGA,2026-03-03-nga-secondment-diaries-gofore-supports-nigeria-in-digital-public-infrastru,,2026-10-29
 NGA,2026-03-23-nigeria-finland-mou-digitalisation,,2026-10-19
@@ -334,6 +347,7 @@ NGA,2026-03-25-finland-nigeria-cyber-digitalisation-mou,,2026-10-19
 NGA,2026-04-22-fg-nigeria-police-mou-digital-infrastructure,,2026-10-19
 NGA,2026-04-23 Health Data Without Continuity Why Electronic Health Records Still Have Not Scaled Across Africa,,2026-10-19
 NGA,2026-05-26-nga-estonia-and-finland-join-forces-to-implement-eu-digital-governance-pro,,2026-10-29
+NGA,2026-06-13-nga-thisdaylive-katsina-dpi-ngf-readiness-ikatsina,,2026-11-11
 NGA,2026-06-16 The financing gap for data exchange is well documented so why does it persist,,2026-10-19
 NGA,2026-07-15-nigeria-national-database-still-fragmented,,2026-10-19
 NGA,2026-07-25-nin-contradiction-high-cost-of-false-integration,,2026-10-19
@@ -357,6 +371,7 @@ SDN,2026-08-11-sudan-economic-committee-electronic-system-forex,,2026-10-19
 SDN,2026-08-27-sudan-cbos-electronic-capital-flows,,2026-10-19
 SDN,2026-09-01-investment-authority-launches-service-to-activate-requiremen,,2026-10-19
 SDN,2026-09-03-sudan-baladna-investor-service-g2g-data-exchange,,2026-10-19
+SDN,2026-10-14-sdn-digital-transformation-authority-first-federal-state-council-meetings,,2026-11-11
 SEN,2024-02-02-sen-osiris-dossier-patient-unique-partage,,2026-10-19
 SEN,2024-06-05-sen-20-ans-de-orbus-l-heure-de-chanter-les-merites-de-la-dematerialisation,,2026-10-27
 SEN,2024-07-25-crs-301-20240104720001-2024-data-innovation-centre-for-artificial-intelligence,,2026-11-07
@@ -367,17 +382,22 @@ SEN,2025-09-18-egov-senegal-plateforme-interoperabilite,,2026-10-19
 SEN,2025-09-19-techafricanews-interoperability-update,,2026-10-19
 SEN,2026-01-16-sen-pins-plateforme-interministerielle-x-road-pilote-pnbsf-cmu,,2026-10-29
 SEN,2026-05-04-mctn-fondations-infrastructure-publique-numerique-projet-decret-interoperabilite,,2026-10-19
+SEN,2026-05-05-sen-digitalbusiness-dpi-atelier-projet-decret-plateforme-interoperabilite,,2026-11-11
+SEN,2026-06-05-sen-techreviewafrica-public-sector-data-governance-workshop-dial-ansd,,2026-11-11
 SEN,2026-07-22-seneweb-cbit-donnees-climatiques,,2026-10-19
 SEN,2026-08-03-senegal-government-enterprise-architecture-dpi-sovereignty,,2026-10-19
 SEN,2026-08-15-sen-seyni-ndiaye-fall-coordonnateur-du-systeme-integre-de-management-de-l,,2026-11-05
+SEN,2026-08-18-sen-numerique-responsable-l-interoperabilite-presentee-comme-un-levier-de,,2026-11-11
 SEN,2026-09-03-pins-plateforme-interoperabilite-senegal-jokkoo,,2026-10-19
 SEN,2026-09-04-senegal-new-deal-technologique-wsis-session,,2026-10-19
 SEN,2026-09-17-sen-pressafrik-cdp-daf-interoperabilite-etat-civil-identification,,2026-10-19
 SEN,2026-09-24-sen-guindima-pins-interoperability-tender,,2026-10-19
 SLE,2024-05-15-ncra-mocti-digital-governance-mou,,2026-10-19
 SLE,2025-01-01 Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank),,2026-10-19
+SLE,2025-07-01-sle-ministry-of-finance-ends-two-day-stakeholder-engagement-on-public-fina,,2026-11-11
 SLE,2026-05-20-sierra-leone-mof-reoi-municipal-property-tax-system-bo-koidu,,2026-10-19
 SLE,2026-08-07-ncra-chief-urges-identity-first-approach-to-sierra-leones-digital-public-infrastructure,,2026-10-19
+SLE,2026-08-17-sierra-leone-nra-asycuda-audit-integrity-failure,,2026-11-11
 SLE,2026-10-20-sle-deputy-finance-minister-opens-aml-cft-database-talks,,2026-10-26
 SOM,2024-09-29-som-govstack-digital-leaders-spotlight-somalia,,2026-10-19
 SOM,2026-03-31-somalia-pfm-reform-strategy-2026-2030-interoperability,,2026-10-19
@@ -443,6 +463,7 @@ TZA,2024-08-27-mfumo-jamii-x-change-kuunganisha-mifumo-tehama,,2026-10-19
 TZA,2024-10-18-hakikisheni-mnapata-namba-ya-nida-jamii-namba-majaliwa,,2026-10-19
 TZA,2025-01-01-tza-jamii-x-change,,2026-10-29
 TZA,2025-06-23-majaliwa-taasisi-umma-kujiunga-govesb,,2026-10-19
+TZA,2025-06-23-tza-ega-waziri-mkuu-azindua-govesb,,2026-11-11
 TZA,2026-01-22-digital-economy-1bn-gdp-2034,,2026-10-19
 TZA,2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states,,2026-10-19
 TZA,2026-09-02-tza-nida-yazindua-kampeni-ya-kipo-chukua-kamilisha-safari-yako,,2026-10-24
@@ -493,6 +514,7 @@ ZMB,2026-08-10-zambia-dzap-data-protection-compliance-system,,2026-10-19
 ZMB,2026-08-23-efficacynews-zambia-labour-ministry-digital-services,,2026-10-19
 ZMB,2026-10-01-xea-comesa-idea-half-year-progress-report-jan-jun-2026,,2026-10-19
 ZMB,2026-11-06-xgl-contribution-by-undp-to-the-cstd-2026-2027-priority-theme-on-data-gov,,2026-11-09
+ZMB,2026-11-10-zmb-zambia-world-bank-ict-survey-digital-investment,,2026-11-11
 ZWE,2025-05-01-zimbabwe-government-ict-specifications-standards-version-2,,2026-10-19
 ZWE,2025-05-26-govt-reviews-ict-standards,,2026-10-19
 ZWE,2026-05-07-zwe-minister-mavetera-issues-five-landmark-directives-at-inaugural-ict-dir,,2026-10-26

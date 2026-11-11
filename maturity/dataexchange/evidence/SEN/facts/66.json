@@ -1,0 +1,26 @@
+{
+ "slug": "2026-06-05-sen-techreviewafrica-public-sector-data-governance-workshop-dial-ansd",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "underway",
+   "fact": "TechReviewAfrica reports that a 2 June 2026 Dakar workshop of the digital ministry, DIAL and ANSD named the national data exchange platform among Senegal's existing foundations, while institutions still run parallel systems and data-sharing mechanisms need consolidation.",
+   "as_of": "2026-06-02",
+   "date_precision": "day",
+   "system": "national data exchange platform",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national data exchange platform",
+   "country_label": "Senegal",
+   "class": "exchange",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": "Article does not say the platform is live or how many bodies are connected."
+}

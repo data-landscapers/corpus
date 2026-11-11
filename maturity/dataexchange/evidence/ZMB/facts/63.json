@@ -1,0 +1,46 @@
+{
+ "slug": "2026-11-10-zmb-zambia-world-bank-ict-survey-digital-investment",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "Technology and Science Minister Felix Mutati cited the Government Service Bus as a working example of improving public service delivery; it currently hosts 532 services.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "Government Service Bus",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "Minister Mutati said the Government Service Bus currently hosts 532 services.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "Government Service Bus",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "usage",
+   "value": "reported",
+   "fact": "Minister Mutati said the Government Service Bus recorded 1.2 million transactions last year.",
+   "as_of": "2025",
+   "date_precision": "year",
+   "system": "Government Service Bus",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Service Bus",
+   "country_label": "Government Service Bus",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Government of Zambia",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

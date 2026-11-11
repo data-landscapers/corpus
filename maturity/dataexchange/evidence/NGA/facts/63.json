@@ -1,0 +1,15 @@
+{
+ "slug": "2025-09-18-nga-fg-to-begin-implementation-of-digital-public-infrastructure-data-excha",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Nigeria Data Exchange (NGDX)",
+   "country_label": "Nigeria",
+   "class": "exchange",
+   "platform": "",
+   "owner": "NITDA",
+   "tiers": ""
+  }
+ ],
+ "note": "Only a draft technical standard and draft regulations are under review; no platform said to be built or piloted."
+}

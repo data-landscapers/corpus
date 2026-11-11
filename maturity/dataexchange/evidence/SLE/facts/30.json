@@ -1,0 +1,15 @@
+{
+ "slug": "2025-07-01-sle-ministry-of-finance-ends-two-day-stakeholder-engagement-on-public-fina",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Government Service Bus",
+   "country_label": "Sierra Leone",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Ministry of Finance",
+   "tiers": "PFM systems"
+  }
+ ],
+ "note": "The Government Service Bus is named as the thing the roadmap will govern; its build or service status is not stated."
+}

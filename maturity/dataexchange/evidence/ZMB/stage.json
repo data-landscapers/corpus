@@ -9,10 +9,10 @@
       "usage": "reported",
       "cap": "",
       "flags": "",
-      "stage_sources": "ZMB-021;ZMB-010",
+      "stage_sources": "ZMB-024;ZMB-023",
       "gaps": "",
-      "note": "4c 2026-10-29: the Smart Zambia Institute counts 4.5 million transactions on the Government Service Bus in the three years to April 2025, a count of transactions the ladder accepts. Their value in kwacha is not the figure (corrections.csv).",
-      "as_at": "2026-10-29"
+      "note": "4c 2026-11-10: the technology minister said in November 2026 that the Government Service Bus hosts 532 services and recorded 1.2 million transactions in 2025, a count of transactions the ladder accepts. Their value in kwacha is not the figure (corrections.csv).",
+      "as_at": "2026-11-11"
     }
   ]
 }

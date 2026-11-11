@@ -1,0 +1,15 @@
+{
+ "slug": "2026-10-14-sdn-digital-transformation-authority-first-federal-state-council-meetings",
+ "facts": [],
+ "systems": [
+  {
+   "system": "Baladna platform",
+   "country_label": "Sudan",
+   "class": "exchange",
+   "platform": "",
+   "owner": "Digital Transformation Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "Baladna is named as the national data exchange platform in a design principle; the document does not say it is live or what it connects."
+}

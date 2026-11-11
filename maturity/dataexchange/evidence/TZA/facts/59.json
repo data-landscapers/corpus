@@ -1,0 +1,36 @@
+{
+ "slug": "2025-06-23-tza-ega-waziri-mkuu-azindua-govesb",
+ "facts": [
+  {
+   "sub_indicator": "exchange",
+   "aspect": "platform",
+   "value": "inservice",
+   "fact": "e-GA reports that since GovESB began, more than 180 public institutions are connected and more than 200 systems communicate and exchange data through it.",
+   "as_of": "2025-06-23",
+   "date_precision": "day",
+   "system": "GovESB (Government Enterprise Service Bus)",
+   "class": "exchange"
+  },
+  {
+   "sub_indicator": "exchange",
+   "aspect": "reach",
+   "value": "wide",
+   "fact": "e-GA reports that more than 180 public institutions are connected to GovESB and more than 200 systems exchange data through it.",
+   "as_of": "2025-06-23",
+   "date_precision": "day",
+   "system": "GovESB (Government Enterprise Service Bus)",
+   "class": "exchange"
+  }
+ ],
+ "systems": [
+  {
+   "system": "GovESB (Government Enterprise Service Bus)",
+   "country_label": "Tanzania",
+   "class": "exchange",
+   "platform": "government service bus",
+   "owner": "e-Government Authority",
+   "tiers": ""
+  }
+ ],
+ "note": "No exchange or transaction volume stated."
+}
