@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "justice",
-      "stage": "unplaced",
-      "cases": "",
-      "filing": "",
+      "stage": "4",
+      "cases": "inservice",
+      "filing": "online",
       "public": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "",
-      "gaps": "Nothing found since October 2023 says whether courts manage cases electronically.",
-      "note": "First pass: counted from the four questions by study-ladder-justice.py.",
-      "as_at": "2026-10-18"
+      "stage_sources": "MUS-005;MUS-001",
+      "gaps": "No source found since October 2023 says judgments are published or case status can be looked up online.",
+      "note": "Fact 2026-11-10: a 2024 government list names a case management system in service for the Children's Court (MUS-005), and the Judiciary's e-filing notices page, current to October 2025, has attorneys filing online at the Commercial Division (MUS-001). Nothing says the public can look up cases or judgments online, so not stage 5.",
+      "as_at": "2026-11-11"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-09-mli-modernisation-de-la-justice-renforcement-de-letat-de-droit-l",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "underway",
+   "fact": "Justice Minister Mamoudou Kassogue said on 5 November 2026 that the ministry is operationalising a national e-justice platform whose first services are digital criminal-record extracts and nationality certificates, with later features to cover case processing.",
+   "as_of": "2026-11-05",
+   "date_precision": "day",
+   "system": "e-justice platform",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "e-justice platform",
+   "country_label": "Mali",
+   "class": "justice",
+   "platform": "",
+   "owner": "Ministry of Justice and Human Rights",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

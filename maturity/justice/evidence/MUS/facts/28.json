@@ -1,0 +1,26 @@
+{
+ "slug": "2024-11-01-mus-cib-list-of-operational-systems",
+ "facts": [
+  {
+   "sub_indicator": "justice",
+   "aspect": "cases",
+   "value": "inservice",
+   "fact": "The list of operational systems names a 'Case Management System for Children's Court' and a Supreme Court registry system under the Judiciary.",
+   "as_of": "2024-11",
+   "date_precision": "month",
+   "system": "Case Management System for Children's Court",
+   "class": "justice"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Case Management System for Children's Court",
+   "country_label": "Mauritius",
+   "class": "justice",
+   "platform": "",
+   "owner": "The Judiciary",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

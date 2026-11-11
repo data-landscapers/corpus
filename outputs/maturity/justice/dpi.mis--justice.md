@@ -21,11 +21,11 @@ The African Commission's Fair Trial Principles ask for systems recording proceed
 | Stage | Countries |
 |---|---|
 | 5 Leading | 4 |
-| 4 Operating | 6 |
+| 4 Operating | 7 |
 | 3 Established | 8 |
 | 2 Nascent | 19 |
 | 1 Absent | 0 |
-| Unplaced | 7 |
+| Unplaced | 6 |
 | No evidence | 10 |
 
 ## Countries
@@ -66,6 +66,13 @@ Cases could be filed with the courts online in 2024; no source found reports jud
 
 - The Judiciary of Kenya's SOJAR 2023-24 says the e-filing system, piloted in Nairobi courts in July 2020, was rolled out to all courts nationwide in March 2024, letting court users file documents from their computers, with user accounts rising from 7,152 to 51,729 ([source, 2024-03](https://www.judiciary.go.ke/wp-content/uploads/2024/11/POPULAR-VERSION-SOJAR-REPORT-FY-2023_24.pdf)).
 - The Judiciary of Kenya launched e-filing in all courts nationwide on 11 March 2024, extending it from 17 counties to the other 34, so litigants can file cases online at any hour ([source, 2024-03-11](https://judiciary.go.ke/judiciary-launches-e-filing-in-all-courts-data-tracking-dashboard-and-causelist-portal-portal/)).
+
+### Mauritius: 4 Operating
+
+Attorneys filed online at the Commercial Division and the Children's Court had a case management system in 2024; public case lookup is not known.
+
+- The list of operational systems names a 'Case Management System for Children's Court' and a Supreme Court registry system under the Judiciary ([source, 2024-11](https://cib.govmu.org/Documents/Reports/List%20of%20Operational%20Systems.pdf)).
+- The Mauritius Judiciary's notices say attorneys at the Commercial Division must file written submissions online through the e-filing system and apply online for subpoenas, new features introduced from 11 January 2021 ([source, 2021-01-11](https://ejudiciary.govmu.org/)).
 
 ### Morocco: 4 Operating
 
@@ -274,12 +281,6 @@ Nothing found since 2023 names a court case management system, so no stage is se
 Not established: Nothing found since October 2023 says whether courts manage cases electronically.
 
 ### Eritrea: Unplaced
-
-Nothing found since 2023 names a court case management system, so no stage is set.
-
-Not established: Nothing found since October 2023 says whether courts manage cases electronically.
-
-### Mauritius: Unplaced
 
 Nothing found since 2023 names a court case management system, so no stage is set.
 
