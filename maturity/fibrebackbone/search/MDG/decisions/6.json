@@ -1,11 +1,11 @@
 {
  "select": true,
  "sub_indicator": "backbone",
- "aspect": "reach;access",
- "fact": "Developing Telecoms reported on 18 January 2021 that a national fibre backbone connects the major cities, Telma having expanded it to 11,000 km in 2017-2019, and that Gulfsat was licensed in 2020 as second backbone operator.",
- "title": "Gulfsat licensed as Madagascar's second backbone operator",
- "publisher": "Developing Telecoms",
- "published": "2021-01-18",
+ "aspect": "reach",
+ "fact": "In February 2023 ITWeb Africa reported Telma's 10,000 km national fibre backbone is the only fibre infrastructure serving the country's major cities.",
+ "title": "Madagascar's Telma partners Vodafone to link 2Africa",
+ "publisher": "ITWeb Africa",
+ "published": "2023-02-15",
  "date_source": "source",
  "why_not": ""
 }

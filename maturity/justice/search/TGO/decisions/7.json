@@ -1,11 +1,11 @@
 {
  "select": true,
  "sub_indicator": "justice",
- "aspect": "filing",
- "fact": "The Cour d'Arbitrage et de médiation du Togo launched an online filing platform on 11 October 2024, covering the process from request to award.",
- "title": "Amélioration du climat des affaires : Une plateforme de saisine en ligne de la Cour d'Arbitrage du Togo lancée",
- "publisher": "Ministère délégué, chargé du Commerce et du Contrôle de Qualité",
- "published": "2024-10-16",
+ "aspect": "cases",
+ "fact": "In May 2024 the Ministry of Justice received UNDP equipment for courts, adding to extension of the judicial intranet to the Tabligbo, Bafilo, Pagouda, Guérin-Kouka and Mandouri courts and a pilot linking prosecutors with police units.",
+ "title": "Pour une Justice de qualité : le PNUD renforce les capacités des tribunaux en matériels informatiques",
+ "publisher": "PNUD Togo",
+ "published": "2024-05-08",
  "date_source": "source",
  "why_not": ""
 }

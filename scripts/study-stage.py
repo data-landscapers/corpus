@@ -43,6 +43,13 @@ ingest's code; one matching, or a URL in, another study batch still on the share
 admitted document; a looser match caught few more and began to catch admitted ones. The rest of
 ingest's screen is judgement, and is the searcher's (`searcher-brief.md` → *Screen*).
 
+**Before a decision is staged, it is checked against its own page** *(`notes-for-corpus` 86)*.
+The body is copied by `k`, but the title, publisher, date and fact are the searcher's, and twice
+on 2026-11-11 (justice TGO 6/7, TCD 2/3; fibrebackbone MDG 6/7 before it) two decisions came back
+each carrying the other's. `crossed` stops a pair whose titles each fit the other's fetched page
+better than their own. Over 10,997 past selections it caught those three pairs and nothing else;
+a one-sided test also caught documents in a numbered series, so it stops pairs only.
+
 **`ready`** writes `BRIEF.md` with its `Closed by:` line and then `READY`, last. OSINT's
 cycle pulls a folder that carries `READY`, so this is the delivery and is a step of its own:
 it is run after `lint-staged-queue.py` has been read and Bill has the count. **The nightly
@@ -295,6 +302,39 @@ def candidate(study: dict, d: dict, places: list[str], body: str, today: str) ->
     return name, "\n".join(lines) + "\n" + body.rstrip("\n") + "\n"
 
 
+WORD = re.compile(r"[a-z0-9]{3,}")
+
+
+def words(text: str) -> set[str]:
+    return set(WORD.findall(study_lib.fold(text or "").lower()))
+
+
+def page_words(row: dict) -> set[str]:
+    """The fetched page as `crossed` compares it: its title and its first 400 words."""
+    try:
+        with open(os.path.join(study_lib.CORPUS, row["cache"]), encoding="utf-8") as fh:
+            head = " ".join(fh.read().split()[:400])
+    except OSError:
+        head = ""
+    return words(row.get("page_title", "") + " " + head)
+
+
+def crossed(decisions: list[dict], pages: dict[int, set[str]]) -> dict[int, int]:
+    """{k: j} for each selecting decision whose title fits lead j's page better than its own
+    while j's fits k's better than j's own: two decisions written under each other's number."""
+    best = {}
+    for d in decisions:
+        t = words(d.get("title", ""))
+        if not t:
+            continue
+        score = {j: len(t & pg) / len(t) for j, pg in pages.items() if pg}
+        own = score.get(d["k"], 0.0)
+        other = max(((v, j) for j, v in score.items() if j != d["k"]), default=(0.0, None))
+        if other[0] > own:
+            best[d["k"]] = other[1]
+    return {k: j for k, j in best.items() if best.get(j) == k}
+
+
 def collect(study: dict, study_id: str, isos: list[str]) -> tuple[list[dict], list[dict], list[dict], list[str]]:
     """`(selected, unselected, searched, problems)` across every country's decisions."""
     selected, unselected, searched, problems = [], [], [], []
@@ -337,6 +377,16 @@ def collect(study: dict, study_id: str, isos: list[str]) -> tuple[list[dict], li
                 continue
             count[d["sub_indicator"]]["selected"] += 1
             selected.append({**d, "iso3": iso, "k": k, "cache": row["cache"]})
+        mine = [d for d in selected if d["iso3"] == iso]
+        swaps = crossed(mine, {int(k): page_words(r) for k, r in fetched.items()
+                               if r["status"] == "fetched" and r.get("cache")})
+        for k, j in sorted(swaps.items()):
+            problems.append(f"{iso} decisions/{k}.json: its title fits lead {j}'s page and "
+                            f"{j}.json's fits {k}'s; the two were written under each other's number")
+        for d in mine:
+            if d["k"] in swaps:
+                selected.remove(d)
+                count[d["sub_indicator"]]["selected"] -= 1
         for sub in sorted(count):
             searched.append({"iso3": iso, "sub_indicator": sub, **{f: count[sub][f]
                                                                   for f in SEARCHED_FIELDS[2:]}})

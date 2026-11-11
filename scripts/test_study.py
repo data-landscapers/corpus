@@ -753,6 +753,15 @@ try:
               [(u["k"], u["why"]) for u in out],
               [(1, "already-held: title of 2025-06-01-ken-hmis"), (2, "already-seen: staged in maturity-study-emr")])
         check("and the rest is staged", [d["k"] for d in kept], [3])
+        pages = {1: stage.words("Telma partners Vodafone to link 2Africa"),
+                 2: stage.words("Gulfsat licensed as second backbone operator"),
+                 3: stage.words("Bulletin numero 21"), 4: stage.words("Bulletin numero 22")}
+        check("two decisions under each other's number are stopped (note 86)",
+              stage.crossed([{"k": 1, "title": "Gulfsat licensed as second backbone operator"},
+                             {"k": 2, "title": "Telma partners Vodafone to link 2Africa"}], pages), {1: 2, 2: 1})
+        check("but a series whose issues share a title is not",
+              stage.crossed([{"k": 3, "title": "Bulletin numero 22"}, {"k": 4, "title": "Bulletin numero 22"}],
+                            pages), {})
     finally:
         study_lib.CORPUS = real_corpus
 
