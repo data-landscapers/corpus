@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-09-ipris-tenth-cohort",
+ "facts": [
+  {
+   "sub_indicator": "readiness",
+   "aspect": "foundation",
+   "value": "body",
+   "fact": "iPRIS reports that Namibia's communications regulator CRAN, with the Namibia Cybersecurity Incident Response Team (NAM-CSIRT), developed and launched National Cybersecurity Incident Management Guidelines setting reporting timelines across government, businesses and critical infrastructure operators.",
+   "as_of": "2026-11-09",
+   "date_precision": "day",
+   "system": "NAM-CSIRT",
+   "class": "response"
+  }
+ ],
+ "systems": [
+  {
+   "system": "NAM-CSIRT",
+   "country_label": "Namibia Cybersecurity Incident Response Team",
+   "class": "response",
+   "platform": "",
+   "owner": "",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

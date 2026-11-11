@@ -1,0 +1,15 @@
+{
+ "slug": "2026-11-09-djibouti-anc-cybersecurity-campaign-assembly",
+ "facts": [],
+ "systems": [
+  {
+   "system": "ANC",
+   "country_label": "Autorite Nationale de Cybersecurite (ANC)",
+   "class": "other",
+   "platform": "",
+   "owner": "Government of Djibouti",
+   "tiers": ""
+  }
+ ],
+ "note": "Story names the ANC and an awareness campaign only; no creating instrument, incident or alert stated."
+}
