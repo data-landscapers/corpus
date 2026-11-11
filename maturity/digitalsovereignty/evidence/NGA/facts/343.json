@@ -1,0 +1,27 @@
+{
+ "slug": "2026-11-10-nigeria-hybrid-cloud-postcode-database",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "fact": "The August 2026 National Digital Cloud Policy, per TechCabal and NIPOST, classes government data as Open or Highly Sensitive (Level 3), the latter to be kept within Nigeria.",
+   "as_of": "2026-08",
+   "date_precision": "month",
+   "system": "National Digital Cloud Policy",
+   "class": "sovereignty"
+  },
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "NIPOST says the core NDAPS postcode database and its backups are hosted and managed in Nigeria by government-owned Galaxy Backbone.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Galaxy Backbone",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

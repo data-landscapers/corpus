@@ -21,8 +21,8 @@ The AU Data Policy Framework asks for localisation of certain categories of data
 | Stage | Countries |
 |---|---|
 | 5 Leading | 0 |
-| 4 Operating | 6 |
-| 3 Established | 2 |
+| 4 Operating | 7 |
+| 3 Established | 1 |
 | 2 Nascent | 32 |
 | 1 Absent | 1 |
 | Unplaced | 9 |
@@ -50,6 +50,13 @@ Government data or a core system was hosted in the country in 2026; contract ter
 
 - The Ministry of Social Affairs (MINAS) says the Registre Social Unique is a 100% sovereign system with national hosting of its data and full control of infrastructure and source code ([source, 2026-07-19](https://minas.gouv.cd/registre-social-unique-rsu-un-levier-essentiel-pour-la-protection-sociale-en-rdc/)).
 
+### Egypt: 4 Operating
+
+Government data or a core system was hosted in the country in 2024; contract terms on data are not on record.
+
+- Digital Policy Alert records that Egypt's Cloud First Policy, adopted by the Supreme Council of Digital Society on 13 March 2024, entered into force on 22 August 2024 and requires data classified top secret or secret to be hosted exclusively within Egypt ([source, 2024-08-22](https://digitalpolicyalert.org/change/12346-data-localisation-requirement-in-cloud-first-policy-2024)).
+- SIS reports President El-Sisi inaugurated the Government Data and Cloud Computing Center (P1), which it says provides critical applications and payment applications for government, with ministries' data to be held at the main data center ([source, 2024-04-28](https://www.sis.gov.eg/Story/192611/President-El-Sisi-Witnesses-Inauguration-of-Government-Data,-Cloud-Computing-Center?lang=en-us)).
+
 ### Kenya: 4 Operating
 
 Government data or a core system was hosted in the country in 2026; contract terms on data are not on record.
@@ -69,12 +76,6 @@ Nigeria's 2025 cloud policy keeps sensitive government data at home and its iden
 Government data or a core system was hosted in the country in 2026; contract terms on data are not on record.
 
 - The DCDT states SITA, the State IT Agency, operates the Centurion data centre (primary of two national facilities) hosting mission-critical systems and sensitive government data; both are National Key Points ([source, 2026-02-24](http://www.ellipsis.co.za/wp-content/uploads/2024/11/260224_PCCDT_presentation_-_Data_Centres.pdf)).
-
-### Egypt: 3 Established
-
-A rule on where state data is held was in force in 2024; national hosting of state systems is not on record.
-
-- Digital Policy Alert records that Egypt's Cloud First Policy, adopted by the Supreme Council of Digital Society on 13 March 2024, entered into force on 22 August 2024 and requires data classified top secret or secret to be hosted exclusively within Egypt ([source, 2024-08-22](https://digitalpolicyalert.org/change/12346-data-localisation-requirement-in-cloud-first-policy-2024)).
 
 ### Rwanda: 3 Established
 

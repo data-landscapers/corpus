@@ -1,0 +1,26 @@
+{
+ "slug": "2024-04-28-egypt-government-data-cloud-computing-center-p1-inauguration",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "SIS reports President El-Sisi inaugurated the Government Data and Cloud Computing Center (P1), which it says provides critical applications and payment applications for government, with ministries' data to be held at the main data center.",
+   "as_of": "2024-04-28",
+   "date_precision": "day",
+   "system": "Government Data and Cloud Computing Center (P1)",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Government Data and Cloud Computing Center (P1)",
+   "country_label": "Egypt",
+   "class": "sovereignty",
+   "platform": "cloud",
+   "owner": "Government of Egypt",
+   "tiers": "Ain El-Sokhna Road"
+  }
+ ],
+ "note": ""
+}

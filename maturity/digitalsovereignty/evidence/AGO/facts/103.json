@@ -1,0 +1,26 @@
+{
+ "slug": "2026-11-10-ago-angola-seeks-stronger-technology-investment-ties-with-qatar",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "Minister Mario Oliveira says the recently implemented Angola National Cloud is a unified government platform able to support more than 80 digital services, aimed at data security and digital sovereignty.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Angola National Cloud",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "Angola National Cloud",
+   "country_label": "Angola National Cloud",
+   "class": "sovereignty",
+   "platform": "government cloud",
+   "owner": "Government of Angola",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

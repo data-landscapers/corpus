@@ -2,7 +2,7 @@
 
 ## Control of state data
 
-**Rule on state data.** In March 2026 [the Niger government mentioned plans](<https://www.biometricupdate.com/202603/focus-on-sahel-digital-sovereignty>) to enhance its national data center capacity and cybersecurity architecture. It also plans to build domestic expertise to reduce external dependence. The plans form part of a digital sovereignty push alongside the new AES biometric ID.
+**Rule on state data.** In March 2026 [the Niger government mentioned plans](<https://www.biometricupdate.com/202603/focus-on-sahel-digital-sovereignty>) to enhance its national data center capacity and cybersecurity architecture. It also plans to build domestic expertise to reduce external dependence. The plans form part of a digital sovereignty push alongside the new AES biometric ID. In July 2025 Niger [installed a national committee to oversee critical digital infrastructure](<https://westafricaweekly.com/niger-sets-up-national-committee-to-oversee-critical-digital-infrastructure-in-response-to-rising-cyber-threats/>), under a strategy for digital sovereignty.
 
 **Hosted nationally.** No source found since October 2023 says a national data centre or cloud hosts government data. None says one hosts a core system. The nearest held fact: [the government's March 2026 plan to enhance the capacity of its national data center](<https://www.biometricupdate.com/202603/focus-on-sahel-digital-sovereignty>).
 

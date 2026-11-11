@@ -1,0 +1,17 @@
+{
+ "slug": "2025-07-25-ner-niger-sets-up-national-committee-to-oversee-critical-digital-infrastru",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "West Africa Weekly reports that Niger installed a national committee to oversee the deployment and security of critical digital infrastructure as part of a strategy for digital sovereignty, following a June 2025 ministerial decree creating a body to design a sector classification of critical infrastructure.",
+   "as_of": "2025-07",
+   "date_precision": "month",
+   "system": "National committee on critical digital infrastructure",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

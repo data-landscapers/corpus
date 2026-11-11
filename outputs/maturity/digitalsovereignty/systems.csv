@@ -1,5 +1,7 @@
 iso3,system,country_label,class,platform,owner,tiers,sources
 AGO,Cloud unificada governamental (cloud nacional),Angola,sovereignty,Camama main data centre (204 server cabinets) and Rangel backup data centre,State of Angola,"three levels: organs of sovereignty, State administration, information society",2024-12-17-ago-menosfios-dois-centros-de-dados-camama-rangel
+AGO,Angola National Cloud,Angola National Cloud,sovereignty,government cloud,Government of Angola,,2026-11-10-ago-angola-seeks-stronger-technology-investment-ties-with-qatar
+AGO,Government Cloud,Angola,sovereignty,,Government of Angola,,2025-11-19-ago-expansao-ia-banca-assembleia-nacional-ende
 BDI,Setic data center,Burundi,sovereignty,,Secretariat executif des technologies de l'information et de la communication (Setic),,2026-04-22-lia-au-coeur-de-la-strategie-numerique-burundi
 BEN,Comité national du Numérique,Benin,other,,Presidency of the Republic,,2026-10-20-ben-presidence-de-la-republique-un-comite-national-du-numerique-cree
 BFA,"Two modular government datacenters, Ouagadougou",BFA,other,government cloud,Ministry of Digital Transition (state),,2026-01-25-gouvernement-inaugure-deux-datacenters
@@ -67,13 +69,16 @@ DZA,Centre national algerien des services numeriques,Algerian National Digital S
 DZA,National Digital Services Centre (Mohammadia),DZA,other,,State (Algerian government; High Commission for Digitalisation named as operator-side party),,2026-07-05-national-centre-digital-services-inauguration-echorouk
 DZA,Centre national des services numériques,Algérie,other,"sovereign cloud, Algiers (Mohammadia) mirrored with Blida",state,Tier III Design,2026-07-07-dza-jeune-independant-centre-national-services-numeriques
 DZA,Centre national algérien des services numériques,Algeria,other,,State,Tier III,2026-07-11-dza-transformation-numerique-des-services-publics-le-portail-national-pass
+DZA,national data governance system (decree 25-320),Algeria,sovereignty,,High Commission for Digitalisation,,2026-02-10-dza-numerisation-un-cadre-juridique-avance-et-une-gouvernance-des-donnees
 EGY,Cloud First Policy,Cloud First Policy (2024),other,,Supreme Council of Digital Society; MCIT,central government,2024-01-01-egypt-cloud-first-policy-data-localisation-dpa
 EGY,Karnak Chat / Karnak LLM,Egypt,sovereignty,Egyptian data centres,"Applied Innovation Center, MCIT",,2026-08-24-ahram-gate-egypt-karnak-chat-llm-digital-sovereignty
 EGY,Digital Egypt,Egypt,other,,,,2026-10-12-egy-technotime-ehab-said-digital-transformation-beyond-services
 EGY,biometric electronic-verification (digital identity) system and integration platform,Egypt,sovereignty,integration platform with the Civil Status Organisation,Ministry of Communications and Information Technology with Ministry of Interior,national,2026-09-18-egy-elmydan-biometric-verification-digital-identity-launch
+EGY,Government Data and Cloud Computing Center (P1),Egypt,sovereignty,cloud,Government of Egypt,Ain El-Sokhna Road,2024-04-28-egypt-government-data-cloud-computing-center-p1-inauguration
 ERI,ASYCUDA World,Eritrea,other,UNCTAD ASYCUDA World,Government of Eritrea,,2026-01-08 Eritrea launches ASYCUDA World digital customs system
 ETH,Personal Data Protection Proclamation (Proclamation No. 1321/2024),Personal Data Protection Proclamation,other,,Parliament of Ethiopia,data controllers and processors,2024-07-24-data-localisation-requirement-proclamation-1321-2024
 ETH,Fayda,Fayda,other,MOSIP,National ID Program,,2024-01-01-eth-fayda-digital-id-ethiopia-status-update
+ETH,National Cloud Data Center,Ethiopia,other,,Ministry of Innovation and Technology,,2026-11-10-ethiopia-presses-public-institutions-to-consolidate-infrastructure-und
 GAB,ST Digital data centre,Gabon,sovereignty,data centre,ST Digital (Gabonese company),,2026-06-10-gabon-datacenter-readiness-apdpvp-compliance
 GAB,GABIX,Gabon,other,internet exchange point,Ministry of Digital Economy / ANINF,,2026-05-13-gabon-gabix-ixp-relaunch
 GAB,SIGFIP,Gabon,other,public finance management system,"Ministry of Economy and Finance, built by IKA Technology",,2026-02-19-presidence-ga-audience-ika-technology-gabon-connect
@@ -141,6 +146,7 @@ MRT,National cloud,Mauritania,sovereignty,,government,,2026-07-02-mrt-ami-minist
 MRT,Système national de cloud,Mauritania,sovereignty,,Government,,2025-08-05-mrt-de-grands-projets-porteurs-de-modernisation-de-l-administration
 MRT,cloud gouvernemental national,Mauritania,sovereignty,,Ministry of Digital Transformation and Modernisation of Administration,,2026-09-28-mrt-mauritanie-unification-des-normes-de-l-architecture-numerique-de-l-eta
 MRT,national cloud,Mauritania national cloud,sovereignty,cloud,state,,2026-10-28-la-mauritanie-explore-l-exp-rience-marocaine-pour-interconnecter-ses-a
+MRT,Cloud gouvernemental,Mauritania,sovereignty,,Government of Mauritania,,2024-01-01-mrt-avis-general-de-passation-des-marches-du-projet-regional-d-integration
 MUS,Mauritius Telecom Rose-Belle data centre,data centre de Rose-Belle,other,,Mauritius Telecom,,2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress
 MUS,"Government Online Centre (GOC), Ebene",GOC,other,,Government of Mauritius,government only; about 80 racks,2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress
 MUS,National Sovereign Cloud,Mauritius,sovereignty,VMware Cloud Foundation,government,,2026-04-26-mus-maurice-veut-lancer-un-national-sovereign-cloud-pour-proteger-ses-donn

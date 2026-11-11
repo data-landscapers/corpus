@@ -1,0 +1,17 @@
+{
+ "slug": "2025-12-25-egy-fintechgate-mcit-drafting-data-classification-exchange-law",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "Fintech Gate reports Communications and IT Minister Amr Talaat said the ministry is preparing a draft law on data classification and exchange, to be discussed with the AmCham Cairo digital transformation committee before going to Cabinet and the House.",
+   "as_of": "2025-12-25",
+   "date_precision": "day",
+   "system": "Draft law on data classification and exchange",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": "Article does not say the draft covers government data specifically."
+}

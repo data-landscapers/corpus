@@ -1,0 +1,17 @@
+{
+ "slug": "2026-11-10-ago-angola-apresenta-a-uit-projectos-de-fibra-optica-satelite-e",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "hosted",
+   "value": "national",
+   "fact": "The minister said the National Cloud, a unified government cloud supported by the government's data centres, is being implemented to strengthen digital sovereignty and data protection.",
+   "as_of": "2026-11-10",
+   "date_precision": "day",
+   "system": "Cloud Nacional",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}

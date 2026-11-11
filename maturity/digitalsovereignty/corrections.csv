@@ -35,3 +35,6 @@ NGA,019,rule,inservice,removed,"the Central Bank's payment-data circular binds f
 NGA,020,rule,inservice,removed,"the Central Bank's payment-data circular binds financial institutions, not state data (Bill, 2026-10-31, messages-for-bill 60)"
 NGA,021,rule,inservice,removed,"the Central Bank's payment-data circular binds financial institutions, not state data (Bill, 2026-10-31, messages-for-bill 60)"
 NGA,027,rule,inservice,removed,"the Central Bank's payment-data circular binds financial institutions, not state data (Bill, 2026-10-31, messages-for-bill 60)"
+AGO,008,hosted,national,removed,"Stage 4c: the minister says the National Cloud is being implemented; that is what it will host, not state data hosted. AGO-009 states the same cloud as implemented."
+DZA,028,rule,inservice,removed,"Stage 4c: repeats decree 25-320 of 31 December 2025, which DZA-021 already holds."
+EGY,009,rule,underway,removed,Stage 4c: a draft law on data classification and exchange that the source does not say covers government data (messages-for-bill 60).

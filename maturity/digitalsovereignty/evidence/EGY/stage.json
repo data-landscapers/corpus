@@ -3,16 +3,16 @@
   "cells": [
     {
       "sub_indicator": "sovereignty",
-      "stage": "3",
+      "stage": "4",
       "rule": "inservice",
-      "hosted": "",
+      "hosted": "national",
       "terms": "",
       "cap": "",
       "flags": "",
-      "stage_sources": "EGY-001",
-      "gaps": "No source found since October 2023 says government data or a core system is hosted in a national data centre or cloud.",
-      "note": "The Cloud First Policy, in force from August 2024, requires top secret and secret data to be hosted only in Egypt (EGY-001), so stage 3. No source says government data is hosted in a national data centre, so not 4.",
-      "as_at": "2026-10-31"
+      "stage_sources": "EGY-001;EGY-010",
+      "gaps": "No source found since October 2023 says a government contract with a foreign provider carries terms on data jurisdiction, portability, exit or source code.",
+      "note": "Stage 4c 2026-11-10: the Government Data and Cloud Computing Center inaugurated in April 2024 analyses government data and serves government agencies (EGY-010), and the Cloud First Policy in force from August 2024 requires secret data to be hosted in Egypt (EGY-001), so stage 4. No contract carrying data terms is held, so not 5.",
+      "as_at": "2026-11-10"
     }
   ]
 }

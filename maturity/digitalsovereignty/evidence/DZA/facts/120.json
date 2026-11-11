@@ -1,0 +1,26 @@
+{
+ "slug": "2026-02-10-dza-numerisation-un-cadre-juridique-avance-et-une-gouvernance-des-donnees",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "inservice",
+   "fact": "Mohamed Louail says Presidential decree no. 25-320 of 31 December 2025 formalised the national data governance system, whose components include data classification.",
+   "as_of": "2025-12-31",
+   "date_precision": "day",
+   "system": "national data governance system (decree 25-320)",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [
+  {
+   "system": "national data governance system (decree 25-320)",
+   "country_label": "Algeria",
+   "class": "sovereignty",
+   "platform": "",
+   "owner": "High Commission for Digitalisation",
+   "tiers": ""
+  }
+ ],
+ "note": ""
+}

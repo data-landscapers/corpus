@@ -1,0 +1,17 @@
+{
+ "slug": "2025-02-21-dza-le-haut-commissariat-a-la-numerisation-presente-la-premiere-version-du",
+ "facts": [
+  {
+   "sub_indicator": "sovereignty",
+   "aspect": "rule",
+   "value": "underway",
+   "fact": "The High Commission for Digitalisation says it finalised the first version of a National Data Governance Framework, a regulatory framework for exclusive data exchange between ministries and public bodies that classifies data by sensitivity level and sets encryption and security measures per category.",
+   "as_of": "2025-02-20",
+   "date_precision": "day",
+   "system": "Référentiel national de la gouvernance des données",
+   "class": "sovereignty"
+  }
+ ],
+ "systems": [],
+ "note": ""
+}
